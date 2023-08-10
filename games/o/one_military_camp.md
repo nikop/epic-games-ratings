@@ -6,26 +6,26 @@
 | ---- | ---------- | ----- |
 | The 4 Pillars | 51.00% | ~69 |
 | First Step | 51.00% | ~69 |
-| Capitalism | 19.00% | ~26 |
+| Capitalism | 20.00% | ~27 |
 | Indebted | 12.00% | ~16 |
 | There's something in those trees | 10.00% | ~14 |
+| Great Producer | 10.00% | ~14 |
 | Desert Rat | 10.00% | ~14 |
-| Great Producer | 9.00% | ~12 |
-| Green Energy | 8.00% | ~11 |
-| Desert Power | 7.00% | ~10 |
+| Green Energy | 9.00% | ~12 |
+| Desert Power | 8.00% | ~11 |
+| Health Care | 7.00% | ~10 |
 | Good payer | 7.00% | ~10 |
+| Fuel Tycoon | 7.00% | ~10 |
+| Ammo Tycoon | 7.00% | ~10 |
 | Jantine: the Misfortunes of Evil | 6.00% | ~8 |
-| Health Care | 6.00% | ~8 |
-| Fuel Tycoon | 6.00% | ~8 |
-| Ammo Tycoon | 6.00% | ~8 |
 | Perfect Soldier | 5.00% | ~7 |
 | Pathfinder | 5.00% | ~7 |
+| Self-sufficient | 5.00% | ~7 |
+| Food Tycoon | 5.00% | ~7 |
+| Medicine Tycoon | 5.00% | ~7 |
 | Supersoldier | 4.00% | ~5 |
 | Outdoor Decorator | 4.00% | ~5 |
 | Healing | 4.00% | ~5 |
-| Self-sufficient | 4.00% | ~5 |
-| Food Tycoon | 4.00% | ~5 |
-| Medicine Tycoon | 4.00% | ~5 |
 | Overpopulation | 3.00% | ~4 |
 | Property Bro | 3.00% | ~4 |
 | Human Resources | 3.00% | ~4 |

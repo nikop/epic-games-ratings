@@ -6096,7 +6096,7 @@
       "Count": 580
     }
   ],
-  "EOS_Progressed": 289768,
+  "EOS_Progressed": 289770,
   "EOS_Completed": 445,
   "EOS_NewPlayers": 517,
   "EOS_NewCompleters": 8,
@@ -18151,6 +18151,11 @@
       "Time": "2023-08-10T11:05:28.4754507+00:00",
       "NumProgressed": 289768,
       "NumCompleted": 445
+    },
+    {
+      "Time": "2023-08-10T12:06:22.4597013+00:00",
+      "NumProgressed": 289770,
+      "NumCompleted": 445
     }
   ],
   "TotalAchievements": 45,
@@ -18386,7 +18391,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 23181
+      "UsersEstimate": 23182
     },
     {
       "ID": "PFA_36",
@@ -18490,7 +18495,7 @@
       "Name": "First Class Student",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 31874
+      "UsersEstimate": 31875
     },
     {
       "ID": "PFA_7",
@@ -18498,7 +18503,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 31874
+      "UsersEstimate": 31875
     },
     {
       "ID": "PFA_8",
@@ -18514,14 +18519,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23181
+      "UsersEstimate": 23182
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 289768,
+      "Progressed": 289770,
       "Completed": 445
     }
   ],
@@ -18529,8 +18534,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-08-10T01:59:05.2934349+00:00",
-  "LastChanged_Achievements": "2023-08-10T11:05:28.4754501+00:00",
+  "LastChanged_Achievements": "2023-08-10T12:06:22.4597007+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:46.8672159+00:00",
-  "LastUpdate_Ratings": "2023-08-10T10:58:25.4641574+00:00",
-  "LastUpdate_Achievements": "2023-08-10T11:05:28.4755653+00:00"
+  "LastUpdate_Ratings": "2023-08-10T11:58:46.1548049+00:00",
+  "LastUpdate_Achievements": "2023-08-10T12:06:22.4598868+00:00"
 }

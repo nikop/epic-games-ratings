@@ -7,6 +7,7 @@ Number of Ratings: 118  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Sowwy! | 2.00% | ~4,194 |
+| Sock! SOCK! | 0.20% | ~419 |
 | Alt+F4 | 0.20% | ~419 |
 | Livin' in a dwarven paradise | 0.10% | ~210 |
 | Cursed die | 0.10% | ~210 |
@@ -57,7 +58,6 @@ Number of Ratings: 118  (23.09.2022)
 | Star-crossed lovers | 0.10% | ~210 |
 | Dwarf Fortress | 0.10% | ~210 |
 | %#*!$*! | 0.10% | ~210 |
-| Sock! SOCK! | 0.10% | ~210 |
 | Look but don't touch | 0.10% | ~210 |
 | Pyrrhic victory | 0.10% | ~210 |
 | GG EZ | 0.10% | ~210 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Sleep schedule mastery | 0.00% | ~0 |
 | Dumb and dumber | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 209,699 (Ranked 55)  
+Progressed: 209,723 (Ranked 55)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-07 | 208,534 | 0 |
 | 2023-08-08 | 209,082 | 0 |
 | 2023-08-09 | 209,549 | 0 |
-| 2023-08-10 | 209,699 | 0 |
+| 2023-08-10 | 209,723 | 0 |
 ## Awards
 Max (Character Customization): 157  (Ranked 294)  
 Sum: 157 (Ranked 392)  

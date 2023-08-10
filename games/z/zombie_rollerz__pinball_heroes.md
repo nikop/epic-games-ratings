@@ -69,10 +69,10 @@
 | Hammer | 2.00% | ~3 |
 | Warp Drive Spacecraft | 2.00% | ~3 |
 | Gunpowder | 2.00% | ~3 |
+| Wu-wei | 2.00% | ~3 |
 | Topaz | 0.80% | ~1 |
 | Immortality | 0.80% | ~1 |
 | Zombie Exterminator | 0.80% | ~1 |
-| Wu-wei | 0.80% | ~1 |
 | Satellite | 0.80% | ~1 |
 | Zombie Slayer | 0.80% | ~1 |
 | Divinity | 0.00% | ~0 |

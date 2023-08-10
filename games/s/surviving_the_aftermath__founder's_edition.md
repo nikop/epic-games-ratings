@@ -1,32 +1,32 @@
 # Surviving the Aftermath
 [Store](https://store.epicgames.com/en-US/p/surviving-the-aftermath)  
 [View Rawdata](../../db/s/surviving_the_aftermath__founder's_edition.json)  
-Rating: 4.48 (Ranked 591)  
+Rating: 4.48 (Ranked 590)  
 Number of Ratings: 836  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 72.00% | ~5,874 |
-| Leader | 61.00% | ~4,976 |
+| Leader | 61.00% | ~4,977 |
 | Explorer | 53.00% | ~4,324 |
-| Healer | 52.00% | ~4,242 |
+| Healer | 52.00% | ~4,243 |
 | Aspiring Inventor | 44.00% | ~3,590 |
 | Adventurer | 41.00% | ~3,345 |
 | Famous Healer | 38.00% | ~3,100 |
-| Local Leader | 35.00% | ~2,855 |
+| Local Leader | 35.00% | ~2,856 |
 | Famous Explorer | 34.00% | ~2,774 |
 | New Opportunities | 34.00% | ~2,774 |
 | Energized | 33.00% | ~2,692 |
 | The Long Haul | 33.00% | ~2,692 |
 | The Great Healer | 31.00% | ~2,529 |
 | Survivor | 31.00% | ~2,529 |
-| Legendary Explorer | 28.00% | ~2,284 |
-| Cleaner | 28.00% | ~2,284 |
-| Catastrofan | 28.00% | ~2,284 |
+| Legendary Explorer | 28.00% | ~2,285 |
+| Cleaner | 28.00% | ~2,285 |
+| Catastrofan | 28.00% | ~2,285 |
 | Finders, Keepers | 26.00% | ~2,121 |
 | Top Notch | 25.00% | ~2,040 |
-| Ice Lakes | 23.00% | ~1,876 |
-| Mentor | 23.00% | ~1,876 |
+| Ice Lakes | 23.00% | ~1,877 |
+| Mentor | 23.00% | ~1,877 |
 | Merchant | 22.00% | ~1,795 |
 | Great Leader | 22.00% | ~1,795 |
 | Real Survivor | 22.00% | ~1,795 |
@@ -46,8 +46,8 @@ Number of Ratings: 836  (23.09.2022)
 | Bread and Circuses | 8.00% | ~653 |
 | New Eden | 7.00% | ~571 |
 | Tailored to fit | 7.00% | ~571 |
-| Really Friendly | 6.00% | ~489 |
-| Amped Up | 6.00% | ~489 |
+| Really Friendly | 6.00% | ~490 |
+| Amped Up | 6.00% | ~490 |
 | Look, no Hands! | 5.00% | ~408 |
 | Luxurious Living | 4.00% | ~326 |
 | Mogul | 3.00% | ~245 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~16 |
 | Customized calamities | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,158 (Ranked 127)  
+Progressed: 8,159 (Ranked 127)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,7 +178,7 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-07 | 8,102 | 0 |
 | 2023-08-08 | 8,129 | 0 |
 | 2023-08-09 | 8,154 | 0 |
-| 2023-08-10 | 8,158 | 0 |
+| 2023-08-10 | 8,159 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 335)  
 Sum: 685 (Ranked 275)  

@@ -612,9 +612,9 @@
       "Count": 157
     }
   ],
-  "EOS_Progressed": 209699,
+  "EOS_Progressed": 209723,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4320,
+  "EOS_NewPlayers": 4317,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6362,6 +6362,11 @@
       "Time": "2023-08-10T11:03:56.1096197+00:00",
       "NumProgressed": 209699,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-10T12:04:52.2599326+00:00",
+      "NumProgressed": 209723,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -6803,9 +6808,9 @@
       "ID": "DwarfLevel2",
       "SetID": "50chcgj",
       "Name": "Sock! SOCK!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 210
+      "UsersEstimate": 419
     },
     {
       "ID": "ElfEpic",
@@ -7076,21 +7081,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 209699,
+      "Progressed": 209723,
       "Completed": 0
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 209699,
+      "Progressed": 209723,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-08T15:00:26.9457471+00:00",
-  "LastChanged_Achievements": "2023-08-10T11:03:56.1096191+00:00",
+  "LastChanged_Achievements": "2023-08-10T12:04:52.2599318+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:59.1388847+00:00",
-  "LastUpdate_Ratings": "2023-08-10T10:59:56.6414151+00:00",
-  "LastUpdate_Achievements": "2023-08-10T11:03:56.10974+00:00"
+  "LastUpdate_Ratings": "2023-08-10T12:00:39.7177105+00:00",
+  "LastUpdate_Achievements": "2023-08-10T12:04:52.2600748+00:00"
 }

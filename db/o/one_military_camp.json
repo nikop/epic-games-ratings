@@ -4,7 +4,7 @@
   "ProductSlug": "one-military-camp-8db1f6",
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-07-20T13:00:00+00:00",
@@ -659,9 +659,9 @@
       "ID": "ACHIEVEMENT_ID_19",
       "SetID": "c504de6",
       "Name": "Health Care",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHIEVEMENT_ID_2",
@@ -691,9 +691,9 @@
       "ID": "ACHIEVEMENT_ID_22",
       "SetID": "c504de6",
       "Name": "Desert Power",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVEMENT_ID_23",
@@ -779,9 +779,9 @@
       "ID": "ACHIEVEMENT_ID_32",
       "SetID": "c504de6",
       "Name": "Capitalism",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ACHIEVEMENT_ID_33",
@@ -795,41 +795,41 @@
       "ID": "ACHIEVEMENT_ID_34",
       "SetID": "c504de6",
       "Name": "Self-sufficient",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_ID_35",
       "SetID": "c504de6",
       "Name": "Food Tycoon",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_ID_36",
       "SetID": "c504de6",
       "Name": "Fuel Tycoon",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHIEVEMENT_ID_37",
       "SetID": "c504de6",
       "Name": "Medicine Tycoon",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_ID_38",
       "SetID": "c504de6",
       "Name": "Ammo Tycoon",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHIEVEMENT_ID_39",
@@ -851,9 +851,9 @@
       "ID": "ACHIEVEMENT_ID_40",
       "SetID": "c504de6",
       "Name": "Great Producer",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_ID_41",
@@ -907,9 +907,9 @@
       "ID": "ACHIEVEMENT_ID_8",
       "SetID": "c504de6",
       "Name": "Green Energy",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACHIEVEMENT_ID_9",
@@ -930,8 +930,8 @@
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2023-08-10T11:04:34.8592615+00:00",
+  "LastChanged_Achievements": "2023-08-10T12:05:38.1838264+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:41.7077293+00:00",
-  "LastUpdate_Ratings": "2023-08-10T10:59:40.3666506+00:00",
-  "LastUpdate_Achievements": "2023-08-10T11:04:34.8593007+00:00"
+  "LastUpdate_Ratings": "2023-08-10T12:00:19.8598633+00:00",
+  "LastUpdate_Achievements": "2023-08-10T12:05:38.1838696+00:00"
 }

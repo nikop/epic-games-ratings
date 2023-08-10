@@ -74,12 +74,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | All Damage, All The Time | 0.10% | ~187 |
 | Will of the Frozen Feywild | 0.10% | ~187 |
 | The Roots of Loomlurch | 0.10% | ~187 |
+| The Loots of Loomlurch | 0.10% | ~187 |
 | The Lutes of Loomlurch | 0.10% | ~187 |
 | Supply Run | 0.10% | ~220 |
 | Best Laid Plans | 0.10% | ~187 |
 | Pincushion Party | 0.10% | ~187 |
 | G. O. A. T. | 0.10% | ~187 |
 | The Howling Peaks of Yon | 0.10% | ~187 |
+| Strength of Character | 0.10% | ~187 |
 | The Invisible Wizards of Thay | 0.10% | ~187 |
 | Heavy Burden | 0.10% | ~220 |
 | Seeds of Destruction | 0.10% | ~187 |
@@ -135,6 +137,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Love Unsoiled | 0.10% | ~187 |
 | The Play's the Thing! | 0.10% | ~187 |
 | The Bitter End | 0.10% | ~187 |
+| A Nimble Approach | 0.10% | ~187 |
 | The Palace of Heart's Desire | 0.10% | ~187 |
 | The Egg of Nat's Desire | 0.10% | ~187 |
 | No One Can Hear You Scream | 0.10% | ~187 |
@@ -516,14 +519,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Chaotic Hunt for The Last Breath | 0.10% | ~187 |
 | To Infinity's and Beyond | 0.10% | ~187 |
 | There's a Flying Snake in my Boot! | 0.10% | ~187 |
-| The Loots of Loomlurch | 0.00% | ~0 |
-| Strength of Character | 0.00% | ~0 |
-| A Nimble Approach | 0.00% | ~0 |
 | Fire and Ice | 0.00% | ~0 |
 | Ambitious Speakers - Part 2 | 0.00% | ~0 |
 | An Icewind Dale Reunion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,391 (Ranked 52)  
+Progressed: 220,402 (Ranked 52)  
 Completed: 2,167 (0.98%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -635,10 +635,10 @@ Completed: 2,167 (0.98%) (Ranked 113)
 | 2023-08-07 | 219,734 | 2,162 |
 | 2023-08-08 | 220,011 | 2,165 |
 | 2023-08-09 | 220,283 | 2,167 |
-| 2023-08-10 | 220,391 | 2,167 |
+| 2023-08-10 | 220,402 | 2,167 |
 ## Awards
 Max (Diverse Characters): 5,128  (Ranked 67)  
-Sum: 30,973 (Ranked 38)  
+Sum: 30,977 (Ranked 38)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
@@ -648,7 +648,7 @@ Diff (max vs sum): 29
 | This game is Relaxing | 4,604 |
 | This game has Amazing Characters | 4,062 |
 | This game is Highly Recommended | 4,040 |
-| This game has Playful Visuals | 3,347 |
+| This game has Playful Visuals | 3,351 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -848,4 +848,4 @@ Diff (max vs sum): 29
 | 2023-08-07 | 4.06 | - | 5,121 | 30,936 |
 | 2023-08-08 | 4.06 | - | 5,125 | 30,950 |
 | 2023-08-09 | 4.06 | - | 5,128 | 30,971 |
-| 2023-08-10 | 4.06 | - | 5,128 | 30,973 |
+| 2023-08-10 | 4.06 | - | 5,128 | 30,977 |

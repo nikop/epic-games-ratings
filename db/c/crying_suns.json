@@ -562,9 +562,9 @@
       "Count": 214
     }
   ],
-  "EOS_Progressed": 464899,
+  "EOS_Progressed": 464904,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 506,
+  "EOS_NewPlayers": 511,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12142,6 +12142,11 @@
       "Time": "2023-08-10T11:04:36.2410674+00:00",
       "NumProgressed": 464899,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-08-10T12:05:39.8834711+00:00",
+      "NumProgressed": 464904,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 79,
@@ -12585,7 +12590,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2324
+      "UsersEstimate": 2325
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -12713,7 +12718,7 @@
       "Name": "Hand of the Emperor",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "achievement_win_all_chapers_with_all_bs_dlc_included_easy_normal",
@@ -12784,21 +12789,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 8833,
+      "Progressed": 8838,
       "Completed": 2355
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 464899,
+      "Progressed": 464904,
       "Completed": 16
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-07-02T08:59:13.8125338+00:00",
-  "LastChanged_Achievements": "2023-08-10T11:04:36.2410668+00:00",
+  "LastChanged_Achievements": "2023-08-10T12:05:39.8834702+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:16.4768007+00:00",
-  "LastUpdate_Ratings": "2023-08-10T11:00:11.6874068+00:00",
-  "LastUpdate_Achievements": "2023-08-10T11:04:36.2412299+00:00"
+  "LastUpdate_Ratings": "2023-08-10T12:00:54.6282848+00:00",
+  "LastUpdate_Achievements": "2023-08-10T12:05:39.8840361+00:00"
 }

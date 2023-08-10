@@ -10,6 +10,7 @@ Rating: 4.20 (Ranked 851)
 | Keep Fighting | 4.00% | ~151 |
 | You Need a Gun | 3.00% | ~475 |
 | Flesh Wound | 3.00% | ~475 |
+| I Do Belong Here | 3.00% | ~475 |
 | Two Heads Are Better Than One | 3.00% | ~475 |
 | Chew 'Em Up | 3.00% | ~475 |
 | Workplace Hazard | 3.00% | ~475 |
@@ -24,7 +25,6 @@ Rating: 4.20 (Ranked 851)
 | Power Up | 3.00% | ~475 |
 | It's Time | 3.00% | ~113 |
 | Giving Back | 2.00% | ~317 |
-| I Do Belong Here | 2.00% | ~317 |
 | Terminated | 2.00% | ~317 |
 | The Commonality | 2.00% | ~317 |
 | If the SHU Fits... | 2.00% | ~317 |
@@ -33,10 +33,10 @@ Rating: 4.20 (Ranked 851)
 | In Striking Distance | 1.00% | ~158 |
 | This Isn't About Escape | 0.80% | ~30 |
 | Armed to the Teeth | 0.60% | ~23 |
+| Big Spender | 0.50% | ~19 |
 | Information Overload | 0.50% | ~19 |
 | Grim Reaper | 0.40% | ~63 |
 | Parole Denied | 0.40% | ~15 |
-| Big Spender | 0.40% | ~15 |
 | Quick Pick | 0.40% | ~15 |
 | Mugshot | 0.30% | ~48 |
 | Instigator | 0.30% | ~11 |

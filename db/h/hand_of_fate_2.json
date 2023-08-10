@@ -862,9 +862,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 660585,
+  "EOS_Progressed": 660587,
   "EOS_Completed": 168,
-  "EOS_NewPlayers": 351,
+  "EOS_NewPlayers": 353,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -11417,6 +11417,11 @@
       "Time": "2023-08-10T11:04:05.27661+00:00",
       "NumProgressed": 660585,
       "NumCompleted": 168
+    },
+    {
+      "Time": "2023-08-10T12:05:03.3076368+00:00",
+      "NumProgressed": 660587,
+      "NumCompleted": 168
     }
   ],
   "TotalAchievements": 48,
@@ -11428,7 +11433,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 475621
+      "UsersEstimate": 475623
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -11436,7 +11441,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 383139
+      "UsersEstimate": 383140
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -11492,7 +11497,7 @@
       "Name": "Gambler",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 66058
+      "UsersEstimate": 66059
     },
     {
       "ID": "Achievement_10_Long_Shot",
@@ -11524,7 +11529,7 @@
       "Name": "Dice Master",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 66058
+      "UsersEstimate": 66059
     },
     {
       "ID": "Achievement_14_Magician",
@@ -11580,7 +11585,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 112299
+      "UsersEstimate": 112300
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -11692,7 +11697,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 165146
+      "UsersEstimate": 165147
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -11811,15 +11816,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 660585,
+      "Progressed": 660587,
       "Completed": 168
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-07-06T22:58:14.2890682+00:00",
-  "LastChanged_Achievements": "2023-08-10T11:04:05.2766093+00:00",
+  "LastChanged_Achievements": "2023-08-10T12:05:03.3076362+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:26.5296655+00:00",
-  "LastUpdate_Ratings": "2023-08-10T10:58:39.2215242+00:00",
-  "LastUpdate_Achievements": "2023-08-10T11:04:05.2767236+00:00"
+  "LastUpdate_Ratings": "2023-08-10T11:59:04.4927155+00:00",
+  "LastUpdate_Achievements": "2023-08-10T12:05:03.3078386+00:00"
 }

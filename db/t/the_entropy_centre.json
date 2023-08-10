@@ -832,17 +832,17 @@
       "ID": "ACH_ACT14",
       "SetID": "2310cb1",
       "Name": "Final Charge",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_ACT15",
       "SetID": "2310cb1",
       "Name": "Cataclysm",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_ACT16",
@@ -1017,8 +1017,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-08-10T11:03:13.3873437+00:00",
+  "LastChanged_Achievements": "2023-08-10T12:03:52.0011853+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:49.532667+00:00",
-  "LastUpdate_Ratings": "2023-08-10T10:58:29.4036524+00:00",
-  "LastUpdate_Achievements": "2023-08-10T11:03:13.3873965+00:00"
+  "LastUpdate_Ratings": "2023-08-10T11:58:51.0902868+00:00",
+  "LastUpdate_Achievements": "2023-08-10T12:03:52.0012121+00:00"
 }

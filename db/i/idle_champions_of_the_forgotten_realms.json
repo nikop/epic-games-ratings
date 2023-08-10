@@ -5642,10 +5642,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 30973,
       "NumberOfAwardsMax": 5128
+    },
+    {
+      "Time": "2023-08-10T11:59:36.4351065+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 30977,
+      "NumberOfAwardsMax": 5128
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30973,
+  "NumberOfAwards": 30977,
   "NumberOfAwardsMax": 5128,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5689,12 +5695,12 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3347
+      "Count": 3351
     }
   ],
-  "EOS_Progressed": 220391,
+  "EOS_Progressed": 220402,
   "EOS_Completed": 2167,
-  "EOS_NewPlayers": 2232,
+  "EOS_NewPlayers": 2228,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -17787,6 +17793,11 @@
       "Time": "2023-08-10T11:02:16.6028142+00:00",
       "NumProgressed": 220391,
       "NumCompleted": 2167
+    },
+    {
+      "Time": "2023-08-10T12:03:32.9743929+00:00",
+      "NumProgressed": 220402,
+      "NumCompleted": 2167
     }
   ],
   "TotalAchievements": 516,
@@ -18340,9 +18351,9 @@
       "ID": "objective_completed_1138",
       "SetID": "415jc5c",
       "Name": "The Loots of Loomlurch",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 187
     },
     {
       "ID": "objective_completed_1139",
@@ -18396,9 +18407,9 @@
       "ID": "objective_completed_1148",
       "SetID": "415jc5c",
       "Name": "Strength of Character",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 187
     },
     {
       "ID": "objective_completed_1149",
@@ -18844,9 +18855,9 @@
       "ID": "objective_completed_1336",
       "SetID": "415jc5c",
       "Name": "A Nimble Approach",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 187
     },
     {
       "ID": "objective_completed_1340",
@@ -21925,21 +21936,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 186665,
-      "Completed": 3120
+      "Progressed": 186676,
+      "Completed": 3125
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 220391,
+      "Progressed": 220402,
       "Completed": 2167
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-08-10T01:59:54.4285799+00:00",
-  "LastChanged_Achievements": "2023-08-10T11:02:16.6028136+00:00",
+  "LastChanged": "2023-08-10T11:59:36.4351063+00:00",
+  "LastChanged_Achievements": "2023-08-10T12:03:32.9743921+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:58.6885063+00:00",
-  "LastUpdate_Ratings": "2023-08-10T10:59:06.0742624+00:00",
-  "LastUpdate_Achievements": "2023-08-10T11:02:16.6054716+00:00"
+  "LastUpdate_Ratings": "2023-08-10T11:59:36.435107+00:00",
+  "LastUpdate_Achievements": "2023-08-10T12:03:32.9773557+00:00"
 }

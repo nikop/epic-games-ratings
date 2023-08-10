@@ -10,7 +10,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Second Coming | 0.60% | ~2,789 |
 | Jeef Skeejj | 0.60% | ~2,789 |
 | Careful planning | 0.60% | ~2,789 |
-| Jeef Skagg | 0.50% | ~2,324 |
+| Jeef Skagg | 0.50% | ~2,325 |
 | In space, no one can hear you scream | 0.40% | ~1,860 |
 | Mother | 0.40% | ~1,860 |
 | Plan for the worst | 0.40% | ~1,860 |
@@ -21,7 +21,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Chapter II: Fallible Flesh | 0.30% | ~1,395 |
 | Pope Zenon | 0.30% | ~1,395 |
 | Things persisted in not being what they seemed | 0.30% | ~1,395 |
-| Hand of the Emperor | 0.30% | ~26 |
+| Hand of the Emperor | 0.30% | ~27 |
 | Chapter III: The Man Who Sold the World | 0.20% | ~930 |
 | Chapter IV: Through the Looking Glass | 0.20% | ~930 |
 | Through the mirror | 0.20% | ~930 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~9 |
 | Kronos Rule | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 464,899 (Ranked 37)  
+Progressed: 464,904 (Ranked 37)  
 Completed: 16 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,7 +198,7 @@ Completed: 16 (0.00%) (Ranked 251)
 | 2023-08-07 | 464,742 | 16 |
 | 2023-08-08 | 464,805 | 16 |
 | 2023-08-09 | 464,877 | 16 |
-| 2023-08-10 | 464,899 | 16 |
+| 2023-08-10 | 464,904 | 16 |
 ## Awards
 Max (Character Customization): 214  (Ranked 268)  
 Sum: 214 (Ranked 364)  
