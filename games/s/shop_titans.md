@@ -22,6 +22,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Through Repetition, Perfection | 0.40% | ~537 |
 | Own the Means of Production | 0.40% | ~537 |
 | The Daily Grind | 0.30% | ~403 |
+| Ascended | 0.30% | ~403 |
 | Bounty Hunters | 0.30% | ~403 |
 | Blank Page Syndrome | 0.30% | ~403 |
 | Demand for Supplies | 0.30% | ~403 |
@@ -34,7 +35,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Arcane Industries | 0.30% | ~403 |
 | On the Path to Greatness | 0.20% | ~268 |
 | A Notch Above the Rest | 0.20% | ~268 |
-| Ascended | 0.20% | ~268 |
 | Above the Norm | 0.20% | ~268 |
 | Tax not Included | 0.20% | ~268 |
 | The King's Caprice | 0.20% | ~268 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Economy of Scarce | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,229 (Ranked 65)  
+Progressed: 134,232 (Ranked 65)  
 Completed: 131 (0.10%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,7 +231,7 @@ Completed: 131 (0.10%) (Ranked 199)
 | 2023-08-07 | 134,099 | 130 |
 | 2023-08-08 | 134,169 | 131 |
 | 2023-08-09 | 134,223 | 131 |
-| 2023-08-10 | 134,229 | 131 |
+| 2023-08-10 | 134,232 | 131 |
 ## Awards
 Max (Great for Beginners): 4,692  (Ranked 71)  
 Sum: 27,072 (Ranked 46)  

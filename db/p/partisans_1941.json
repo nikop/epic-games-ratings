@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1278,
+  "EOS_Progressed": 1279,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2135,6 +2135,11 @@
       "Time": "2023-08-09T17:05:01.0509289+00:00",
       "NumProgressed": 1278,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-10T04:05:52.9701382+00:00",
+      "NumProgressed": 1279,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -2194,7 +2199,7 @@
       "Name": "Death to the Oppressor!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "Defense_Common",
@@ -2218,7 +2223,7 @@
       "Name": "Lock, Stock",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "E1M1",
@@ -2385,15 +2390,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1278,
+      "Progressed": 1279,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-08-10T03:05:43.1771006+00:00",
+  "LastChanged_Achievements": "2023-08-10T04:05:52.9701376+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:07.8032848+00:00",
-  "LastUpdate_Ratings": "2023-08-10T03:01:35.630322+00:00",
-  "LastUpdate_Achievements": "2023-08-10T03:05:43.1771416+00:00"
+  "LastUpdate_Ratings": "2023-08-10T04:01:45.5130027+00:00",
+  "LastUpdate_Achievements": "2023-08-10T04:05:52.9701841+00:00"
 }

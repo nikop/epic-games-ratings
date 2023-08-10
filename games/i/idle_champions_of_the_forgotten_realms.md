@@ -1,7 +1,7 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 917)  
+Rating: 4.06 (Ranked 918)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -27,6 +27,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Patron Party | 0.10% | ~187 |
 | Hither of the Feywild | 0.10% | ~187 |
 | Don't Breathe the Marsh Gas | 0.10% | ~187 |
+| Don't Blast the Brigands | 0.10% | ~187 |
 | Don't Squeeze the Spiders | 0.10% | ~187 |
 | The Spire of Iriolarthas | 0.10% | ~187 |
 | Always Watching | 0.10% | ~187 |
@@ -36,6 +37,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Prince of a Thousand Enemies | 0.10% | ~187 |
 | Uncommon Allies | 0.10% | ~187 |
 | The Birds | 0.10% | ~187 |
+| Where the Magic Happens | 0.10% | ~187 |
 | Downfall | 0.10% | ~187 |
 | First Third Out | 0.10% | ~187 |
 | Third Third Out | 0.10% | ~187 |
@@ -74,6 +76,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pincushion Party | 0.10% | ~187 |
 | G. O. A. T. | 0.10% | ~187 |
 | The Howling Peaks of Yon | 0.10% | ~187 |
+| The Invisible Wizards of Thay | 0.10% | ~187 |
 | Heavy Burden | 0.10% | ~220 |
 | Seeds of Destruction | 0.10% | ~187 |
 | Speeds of Destruction | 0.10% | ~187 |
@@ -381,6 +384,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Giant's Bane Tavern | 0.10% | ~187 |
 | Rime Bandits | 0.10% | ~187 |
 | Giant-Size Adventure | 0.10% | ~187 |
+| Power of Three | 0.10% | ~187 |
 | The Everlasting Rime | 0.10% | ~187 |
 | Enemy Summit | 0.10% | ~187 |
 | Mirage Arcane | 0.10% | ~187 |
@@ -421,6 +425,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | It's Cold Out There Every Day | 0.10% | ~187 |
 | The Bleeding Citadel | 0.10% | ~187 |
 | Don't Pick at the Scab | 0.10% | ~187 |
+| Going To Eleven | 0.10% | ~187 |
 | Idyllglen | 0.10% | ~187 |
 | The Madness of Yeenoghu | 0.10% | ~187 |
 | Reya Reborn | 0.10% | ~187 |
@@ -478,6 +483,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Court of Storms | 0.10% | ~187 |
 | Coasting to the Finish | 0.10% | ~187 |
 | Beware the Jabberwock | 0.10% | ~187 |
+| Quick or Quack | 0.10% | ~187 |
 | Willing to Sacrifice | 0.10% | ~187 |
 | Devilishly Cold | 0.10% | ~187 |
 | The Champion's Guide to Wildspace | 0.10% | ~187 |
@@ -503,27 +509,21 @@ Number of Ratings: 9,041  (23.09.2022)
 | There's a Flying Snake in my Boot! | 0.10% | ~187 |
 | A Familiar Behind Us | 0.00% | ~0 |
 | Go Fourth | 0.00% | ~0 |
-| Don't Blast the Brigands | 0.00% | ~0 |
-| Where the Magic Happens | 0.00% | ~0 |
 | Second Third Out | 0.00% | ~0 |
 | End of the Line | 0.00% | ~0 |
 | The Loots of Loomlurch | 0.00% | ~0 |
 | Strength of Character | 0.00% | ~0 |
-| The Invisible Wizards of Thay | 0.00% | ~0 |
 | A Nimble Approach | 0.00% | ~0 |
 | Spirit of the Trickster Gods | 0.00% | ~0 |
 | An Even Worse Time in Avernus | 0.00% | ~0 |
 | Fire and Brimstone | 0.00% | ~0 |
-| Power of Three | 0.00% | ~0 |
 | Only Human | 0.00% | ~0 |
-| Going To Eleven | 0.00% | ~0 |
 | Fire and Ice | 0.00% | ~0 |
 | Might Makes Right | 0.00% | ~0 |
 | Ambitious Speakers - Part 2 | 0.00% | ~0 |
 | An Icewind Dale Reunion | 0.00% | ~0 |
-| Quick or Quack | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,328 (Ranked 52)  
+Progressed: 220,340 (Ranked 52)  
 Completed: 2,167 (0.98%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -635,7 +635,7 @@ Completed: 2,167 (0.98%) (Ranked 113)
 | 2023-08-07 | 219,734 | 2,162 |
 | 2023-08-08 | 220,011 | 2,165 |
 | 2023-08-09 | 220,283 | 2,167 |
-| 2023-08-10 | 220,328 | 2,167 |
+| 2023-08-10 | 220,340 | 2,167 |
 ## Awards
 Max (Diverse Characters): 5,128  (Ranked 67)  
 Sum: 30,973 (Ranked 38)  

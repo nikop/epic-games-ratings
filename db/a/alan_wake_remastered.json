@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 60616,
+  "EOS_Progressed": 60617,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 580,
+  "EOS_NewPlayers": 577,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -10782,6 +10782,11 @@
       "Time": "2023-08-10T02:05:54.797558+00:00",
       "NumProgressed": 60616,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-10T04:06:26.2623478+00:00",
+      "NumProgressed": 60617,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -10905,7 +10910,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5455
+      "UsersEstimate": 5456
     },
     {
       "ID": "16",
@@ -11033,7 +11038,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9092
+      "UsersEstimate": 9093
     },
     {
       "ID": "32",
@@ -11073,7 +11078,7 @@
       "Name": "Carny",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1818
+      "UsersEstimate": 1819
     },
     {
       "ID": "37",
@@ -11113,7 +11118,7 @@
       "Name": "Finders Keepers",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9092
+      "UsersEstimate": 9093
     },
     {
       "ID": "42",
@@ -11328,21 +11333,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 60616,
+      "Progressed": 60617,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 24084,
+      "Progressed": 24085,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-10T03:06:16.7333103+00:00",
+  "LastChanged_Achievements": "2023-08-10T04:06:26.2623471+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:26.4964539+00:00",
-  "LastUpdate_Ratings": "2023-08-10T02:59:29.4034511+00:00",
-  "LastUpdate_Achievements": "2023-08-10T03:06:16.7334481+00:00"
+  "LastUpdate_Ratings": "2023-08-10T03:59:29.3171798+00:00",
+  "LastUpdate_Achievements": "2023-08-10T04:06:26.262495+00:00"
 }

@@ -12,9 +12,9 @@ Rating: 4.87 (Ranked 24)
 | Who put gears in there? | 7.00% | ~268 |
 | Thanks for the free chip, Peppermint! | 6.00% | ~229 |
 | You got this, Peppermint? | 6.00% | ~229 |
+| Perfect Parry | 6.00% | ~229 |
 | This will cost you big time | 5.00% | ~191 |
 | I play my own way! | 5.00% | ~191 |
-| Perfect Parry | 5.00% | ~191 |
 | Uh, they were broken when I got here | 5.00% | ~191 |
 | Alright, that felt AWESOME! | 5.00% | ~191 |
 | The Negotiator | 4.00% | ~153 |

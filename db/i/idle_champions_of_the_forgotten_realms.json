@@ -2,7 +2,7 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 917,
+  "Ranking_Rating": 918,
   "Ranking_Popularity": 67,
   "Ranking_PopularitySum": 38,
   "Ranking_EOS_Progress": 52,
@@ -5692,9 +5692,9 @@
       "Count": 3347
     }
   ],
-  "EOS_Progressed": 220328,
+  "EOS_Progressed": 220340,
   "EOS_Completed": 2167,
-  "EOS_NewPlayers": 2244,
+  "EOS_NewPlayers": 2246,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -17747,6 +17747,11 @@
       "Time": "2023-08-10T03:03:30.675613+00:00",
       "NumProgressed": 220328,
       "NumCompleted": 2167
+    },
+    {
+      "Time": "2023-08-10T04:03:50.5698817+00:00",
+      "NumProgressed": 220340,
+      "NumCompleted": 2167
     }
   ],
   "TotalAchievements": 516,
@@ -17940,9 +17945,9 @@
       "ID": "objective_completed_1067",
       "SetID": "415jc5c",
       "Name": "Don\u0027t Blast the Brigands",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 187
     },
     {
       "ID": "objective_completed_1068",
@@ -18020,9 +18025,9 @@
       "ID": "objective_completed_1083",
       "SetID": "415jc5c",
       "Name": "Where the Magic Happens",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 187
     },
     {
       "ID": "objective_completed_1085",
@@ -18364,9 +18369,9 @@
       "ID": "objective_completed_1149",
       "SetID": "415jc5c",
       "Name": "The Invisible Wizards of Thay",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 187
     },
     {
       "ID": "objective_completed_115",
@@ -20860,9 +20865,9 @@
       "ID": "objective_completed_693",
       "SetID": "415jc5c",
       "Name": "Power of Three",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 187
     },
     {
       "ID": "objective_completed_695",
@@ -21196,9 +21201,9 @@
       "ID": "objective_completed_839",
       "SetID": "415jc5c",
       "Name": "Going To Eleven",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 187
     },
     {
       "ID": "objective_completed_842",
@@ -21692,9 +21697,9 @@
       "ID": "objective_completed_1361",
       "SetID": "415jc5c",
       "Name": "Quick or Quack",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 187
     },
     {
       "ID": "objective_completed_1042",
@@ -21885,21 +21890,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 186602,
-      "Completed": 3106
+      "Progressed": 186614,
+      "Completed": 3108
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 220328,
+      "Progressed": 220340,
       "Completed": 2167
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-10T01:59:54.4285799+00:00",
-  "LastChanged_Achievements": "2023-08-10T03:03:30.6756125+00:00",
+  "LastChanged_Achievements": "2023-08-10T04:03:50.5698811+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:58.6885063+00:00",
-  "LastUpdate_Ratings": "2023-08-10T03:00:06.9766663+00:00",
-  "LastUpdate_Achievements": "2023-08-10T03:03:30.6783154+00:00"
+  "LastUpdate_Ratings": "2023-08-10T04:00:09.3732963+00:00",
+  "LastUpdate_Achievements": "2023-08-10T04:03:50.5733211+00:00"
 }

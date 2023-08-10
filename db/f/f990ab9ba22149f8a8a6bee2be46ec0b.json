@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 536,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 358,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-09-30T00:00:00+00:00",
     "PcReleaseDate": "2023-09-30T00:00:00+00:00",
@@ -25,9 +25,379 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-08-10T04:03:32.5055103+00:00",
+  "TotalAchievements": 46,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "AdiosElProspero",
+      "SetID": "di28ocn",
+      "Name": "Adios, El Prospero!",
+      "Percentage": 0,
+      "XP": 120,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FireInTheHole!",
+      "SetID": "di28ocn",
+      "Name": "Fire In The Hole!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Flex",
+      "SetID": "di28ocn",
+      "Name": "Flex",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FridgeFinder",
+      "SetID": "di28ocn",
+      "Name": "Fridge Finder",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GatlingGunGoBrrrt",
+      "SetID": "di28ocn",
+      "Name": "Gatling Gun Go Brrrt",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GreasedLightnin!",
+      "SetID": "di28ocn",
+      "Name": "Greased Lightnin\u0027!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Hitman",
+      "SetID": "di28ocn",
+      "Name": "Hitman",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ItsADate!",
+      "SetID": "di28ocn",
+      "Name": "It\u0027s A Date!",
+      "Percentage": 0,
+      "XP": 120,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LockAndLoaded",
+      "SetID": "di28ocn",
+      "Name": "Lock And Loaded",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Monsterminator",
+      "SetID": "di28ocn",
+      "Name": "Monsterminator",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NoviceExpert",
+      "SetID": "di28ocn",
+      "Name": "Novice Expert",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NoviceExpert2",
+      "SetID": "di28ocn",
+      "Name": "Novice Master",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NoviceExpert3",
+      "SetID": "di28ocn",
+      "Name": "Novice Legend",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RetroCollector",
+      "SetID": "di28ocn",
+      "Name": "Retro Collector",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RifleExpert",
+      "SetID": "di28ocn",
+      "Name": "Rifle Expert",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RifleExpert2",
+      "SetID": "di28ocn",
+      "Name": "Rifle Master",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RifleExpert3",
+      "SetID": "di28ocn",
+      "Name": "Rifle Legend",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SMGExpert",
+      "SetID": "di28ocn",
+      "Name": "SMG Expert",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SMGExpert2",
+      "SetID": "di28ocn",
+      "Name": "SMG Master",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SMGExpert3",
+      "SetID": "di28ocn",
+      "Name": "SMG Legend",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ShishKebab",
+      "SetID": "di28ocn",
+      "Name": "Shish Kebab",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ShotgunExpert",
+      "SetID": "di28ocn",
+      "Name": "Shotgun Expert",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ShotgunExpert2",
+      "SetID": "di28ocn",
+      "Name": "Shotgun Master",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ShotgunExpert3",
+      "SetID": "di28ocn",
+      "Name": "Shotgun Legend",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ShowMeTheMoney",
+      "SetID": "di28ocn",
+      "Name": "Show Me The Money",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SniperExpert",
+      "SetID": "di28ocn",
+      "Name": "Sniper Expert",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SniperExpert2",
+      "SetID": "di28ocn",
+      "Name": "Sniper Master",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SniperExpert3",
+      "SetID": "di28ocn",
+      "Name": "Sniper Legend",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TheAbomination",
+      "SetID": "di28ocn",
+      "Name": "The Abomination",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TheBar",
+      "SetID": "di28ocn",
+      "Name": "The Bar",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TheBigFish",
+      "SetID": "di28ocn",
+      "Name": "The Big Fish",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TheCemetery",
+      "SetID": "di28ocn",
+      "Name": "The Cemetery",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TheGoodSamaritan",
+      "SetID": "di28ocn",
+      "Name": "The Good Samaritan",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TheGuardian",
+      "SetID": "di28ocn",
+      "Name": "The Guardian",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TheHospital",
+      "SetID": "di28ocn",
+      "Name": "The Hospital",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TheMansion",
+      "SetID": "di28ocn",
+      "Name": "The Mansion",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TheMastermind",
+      "SetID": "di28ocn",
+      "Name": "The Mastermind",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TheOverlord",
+      "SetID": "di28ocn",
+      "Name": "The Overlord",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TheOverweight",
+      "SetID": "di28ocn",
+      "Name": "The Overweight",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TheSubway",
+      "SetID": "di28ocn",
+      "Name": "The Subway",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TheTank",
+      "SetID": "di28ocn",
+      "Name": "The Tank",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TheToxic",
+      "SetID": "di28ocn",
+      "Name": "The Toxic",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TheTriggerFinger",
+      "SetID": "di28ocn",
+      "Name": "The Trigger Finger",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TheTwinTroubles1",
+      "SetID": "di28ocn",
+      "Name": "The Twin Troubles",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TheUndertaker",
+      "SetID": "di28ocn",
+      "Name": "The Undertaker",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Youre!Out!",
+      "SetID": "di28ocn",
+      "Name": "You\u0027re Out!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "di28ocn",
@@ -37,8 +407,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-09T18:00:41.8577246+00:00",
-  "LastChanged_Achievements": "2023-08-10T03:03:12.6560693+00:00",
+  "LastChanged_Achievements": "2023-08-10T04:03:32.505508+00:00",
   "LastUpdate_AppInfo": "2023-08-09T17:56:58.1710297+00:00",
-  "LastUpdate_Ratings": "2023-08-10T02:57:15.8079095+00:00",
-  "LastUpdate_Achievements": "2023-08-10T03:03:12.6560721+00:00"
+  "LastUpdate_Ratings": "2023-08-10T03:57:15.9426269+00:00",
+  "LastUpdate_Achievements": "2023-08-10T04:03:32.5700686+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "d400b874b09b4cd49d149358c67aa453",
   "Name": "Electrician Simulator",
   "ProductSlug": "electrician-simulator-164e9f",
-  "Ranking_EOS_Progress": 296,
+  "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-08-04T16:00:00+00:00",
     "PcReleaseDate": "2022-09-21T16:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 171,
+  "EOS_Progressed": 173,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 169,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -496,6 +496,11 @@
       "Time": "2023-08-10T02:06:52.5936116+00:00",
       "NumProgressed": 171,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-10T04:07:32.2085081+00:00",
+      "NumProgressed": 173,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-04T13:10:46.6045542+00:00",
@@ -514,9 +519,9 @@
       "ID": "ACH_CONNECT_19_LAMPS_TO_SWITCH",
       "SetID": "al4k4nh",
       "Name": "One to rule them all",
-      "Percentage": 0.6,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_CONNECT_EXTENSION_CORD_SELF",
@@ -554,7 +559,7 @@
       "ID": "ACH_END_FIRST_MAIL_MISSION",
       "SetID": "al4k4nh",
       "Name": "I love customers",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 15,
       "UsersEstimate": 137
     },
@@ -562,17 +567,17 @@
       "ID": "ACH_END_FIRST_TUTORIAL",
       "SetID": "al4k4nh",
       "Name": "Ready to go",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 149
     },
     {
       "ID": "ACH_END_FIRST_WORKBENCH_MISSION",
       "SetID": "al4k4nh",
       "Name": "I can fix that",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 119
     },
     {
       "ID": "ACH_END_MAIL_MISSION_FAST",
@@ -586,9 +591,9 @@
       "ID": "ACH_FIRST_SHOCK",
       "SetID": "al4k4nh",
       "Name": "First shock",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 93
     },
     {
       "ID": "ACH_FIX_LIGHT_SWITCHES",
@@ -634,9 +639,9 @@
       "ID": "ACH_GO_TO_MISSION_WITHOUT_NEEDED_ITEMS",
       "SetID": "al4k4nh",
       "Name": "I like the risk",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_LISTEN_ALL_MUSIC",
@@ -652,7 +657,7 @@
       "Name": "Home sweet home",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 169
+      "UsersEstimate": 171
     },
     {
       "ID": "ACH_PLACE_MANY_ITEMS_IN_OFFICE",
@@ -676,7 +681,7 @@
       "Name": "Unpacked",
       "Percentage": 98,
       "XP": 15,
-      "UsersEstimate": 168
+      "UsersEstimate": 170
     },
     {
       "ID": "ACH_SHOCK_ON_MISSION",
@@ -700,7 +705,7 @@
       "Name": "Unscrew you",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ACH_WATCH_ALL_TV_CHANNELS",
@@ -715,14 +720,14 @@
     {
       "ID": "al4k4nh",
       "IsBase": true,
-      "Progressed": 171,
+      "Progressed": 173,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2023-08-10T03:07:23.4850638+00:00",
+  "LastChanged_Achievements": "2023-08-10T04:07:32.2085076+00:00",
   "LastUpdate_AppInfo": "2023-08-09T17:56:58.4992812+00:00",
-  "LastUpdate_Ratings": "2023-08-10T02:58:43.0227677+00:00",
-  "LastUpdate_Achievements": "2023-08-10T03:07:23.4850855+00:00"
+  "LastUpdate_Ratings": "2023-08-10T03:58:46.5199491+00:00",
+  "LastUpdate_Achievements": "2023-08-10T04:07:32.2085313+00:00"
 }
