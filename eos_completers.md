@@ -114,7 +114,7 @@
 | 112 | [Adios](games/a/adios.md) | 1.00% |
 | 113 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.98% |
 | 113 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.98% |
-| 113 | [Sable](games/s/sable.md) | 0.98% |
+| 115 | [Sable](games/s/sable.md) | 0.97% |
 | 116 | [Hades](games/h/hades.md) | 0.90% |
 | 117 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 118 | [Dungeons 3](games/d/dungeons_3.md) | 0.81% |
@@ -534,4 +534,4 @@
 | 251 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 251 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 251 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,021 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,022 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
