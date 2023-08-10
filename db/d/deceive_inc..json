@@ -220,9 +220,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17195,
+  "EOS_Progressed": 17196,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 433,
+  "EOS_NewPlayers": 431,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7875,6 +7875,11 @@
       "Time": "2023-08-10T04:05:35.1864542+00:00",
       "NumProgressed": 17195,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-10T06:04:46.2869353+00:00",
+      "NumProgressed": 17196,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -7982,7 +7987,7 @@
       "Name": "Keycards Royale",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1891
+      "UsersEstimate": 1892
     },
     {
       "ID": "0014",
@@ -8038,7 +8043,7 @@
       "Name": "Dr. No Kill",
       "Percentage": 11,
       "XP": 115,
-      "UsersEstimate": 1891
+      "UsersEstimate": 1892
     },
     {
       "ID": "0021",
@@ -8086,7 +8091,7 @@
       "Name": "The Living Portrait",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2063
+      "UsersEstimate": 2064
     },
     {
       "ID": "0027",
@@ -8094,7 +8099,7 @@
       "Name": "My Motto, My Creed",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1891
+      "UsersEstimate": 1892
     },
     {
       "ID": "0028",
@@ -8126,7 +8131,7 @@
       "Name": "Private Collection",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2063
+      "UsersEstimate": 2064
     },
     {
       "ID": "0032",
@@ -8134,7 +8139,7 @@
       "Name": "Killer Looks",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2063
+      "UsersEstimate": 2064
     },
     {
       "ID": "0033",
@@ -8142,7 +8147,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2063
+      "UsersEstimate": 2064
     },
     {
       "ID": "0034",
@@ -8150,7 +8155,7 @@
       "Name": "Smells Like Trouble",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2063
+      "UsersEstimate": 2064
     },
     {
       "ID": "0035",
@@ -8173,7 +8178,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17195,
+      "Progressed": 17196,
       "Completed": 1
     }
   ],
@@ -8181,8 +8186,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-08T19:59:53.3803436+00:00",
-  "LastChanged_Achievements": "2023-08-10T05:05:25.1305128+00:00",
+  "LastChanged_Achievements": "2023-08-10T06:04:46.2869348+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:35.6736811+00:00",
-  "LastUpdate_Ratings": "2023-08-10T05:02:23.9652624+00:00",
-  "LastUpdate_Achievements": "2023-08-10T05:05:25.1306472+00:00"
+  "LastUpdate_Ratings": "2023-08-10T06:00:45.6892352+00:00",
+  "LastUpdate_Achievements": "2023-08-10T06:04:46.2869953+00:00"
 }

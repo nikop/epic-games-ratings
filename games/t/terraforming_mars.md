@@ -7,37 +7,37 @@ Number of Ratings: 2,731  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | It's a steal! | 38.00% | ~26,999 |
-| Final touch | 37.00% | ~26,288 |
-| Prop-M Rover | 33.00% | ~23,446 |
+| Final touch | 37.00% | ~26,289 |
+| Prop-M Rover | 33.00% | ~23,447 |
 | Changing the Planet | 28.00% | ~19,894 |
-| Sojourner | 27.00% | ~19,183 |
+| Sojourner | 27.00% | ~19,184 |
 | New Home | 24.00% | ~17,052 |
 | Beagle 2 | 24.00% | ~17,052 |
 | Winner Winner Terraformer | 22.00% | ~15,631 |
 | Project Manager | 20.00% | ~14,210 |
 | Collector | 20.00% | ~14,210 |
 | Master | 20.00% | ~14,210 |
-| Curiosity | 19.00% | ~13,499 |
-| Self-sufficient | 19.00% | ~13,499 |
+| Curiosity | 19.00% | ~13,500 |
+| Self-sufficient | 19.00% | ~13,500 |
 | No Longer Red | 18.00% | ~12,789 |
 | Money money | 16.00% | ~11,368 |
 | Biggest Reward | 14.00% | ~9,947 |
-| Acquired knowledge | 13.00% | ~9,236 |
+| Acquired knowledge | 13.00% | ~9,237 |
 | First Journey | 12.00% | ~8,526 |
 | Most Achievements | 12.00% | ~8,526 |
 | Hellenic Elysium | 12.00% | ~8,526 |
 | Grand champion | 12.00% | ~8,526 |
-| Landlord | 11.00% | ~7,815 |
+| Landlord | 11.00% | ~7,816 |
 | Spirit | 10.00% | ~7,105 |
 | Ultimate success | 10.00% | ~7,105 |
-| Variety Expert | 9.00% | ~6,394 |
+| Variety Expert | 9.00% | ~6,395 |
 | Frequent tester | 8.00% | ~5,684 |
 | Determined | 8.00% | ~5,684 |
 | Terraformer | 4.00% | ~2,842 |
-| Team Effort | 3.00% | ~2,131 |
-| Opportunity | 3.00% | ~2,131 |
+| Team Effort | 3.00% | ~2,132 |
+| Opportunity | 3.00% | ~2,132 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 71,049 (Ranked 78)  
+Progressed: 71,051 (Ranked 78)  
 Completed: 89 (0.13%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,7 +149,7 @@ Completed: 89 (0.13%) (Ranked 191)
 | 2023-08-07 | 70,773 | 87 |
 | 2023-08-08 | 70,905 | 89 |
 | 2023-08-09 | 71,031 | 89 |
-| 2023-08-10 | 71,049 | 89 |
+| 2023-08-10 | 71,051 | 89 |
 ## Awards
 Max (Relaxing): 509  (Ranked 196)  
 Sum: 3,145 (Ranked 157)  

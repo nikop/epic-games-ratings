@@ -4,7 +4,7 @@
   "ProductSlug": "super-alloy-ranger-4252cc",
   "Ranking_EOS_Progress": 356,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewPlayers": 356,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-04-30T16:00:00+00:00",
@@ -500,9 +500,9 @@
       "ID": "Achi_27",
       "SetID": "51a97k7",
       "Name": "GG EZ",
-      "Percentage": 57,
+      "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "Achi_28",
@@ -701,8 +701,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2023-08-10T05:06:30.7558088+00:00",
+  "LastChanged_Achievements": "2023-08-10T06:05:41.6457719+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:56.5637374+00:00",
-  "LastUpdate_Ratings": "2023-08-10T05:02:50.1203794+00:00",
-  "LastUpdate_Achievements": "2023-08-10T05:06:30.7558907+00:00"
+  "LastUpdate_Ratings": "2023-08-10T06:01:07.1146635+00:00",
+  "LastUpdate_Achievements": "2023-08-10T06:05:41.6458073+00:00"
 }

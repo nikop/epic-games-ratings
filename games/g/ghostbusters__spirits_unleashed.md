@@ -39,8 +39,8 @@ Rating: 4.49 (Ranked 575)
 | Tobin's Prodigy | 18.00% | ~4,490 |
 | Reckless | 17.00% | ~4,240 |
 | Diabolical | 16.00% | ~3,991 |
+| Escape Artist | 16.00% | ~3,991 |
 | Seasoned | 16.00% | ~3,991 |
-| Escape Artist | 15.00% | ~3,742 |
 | Whoopsie | 12.00% | ~2,993 |
 | Liability | 10.00% | ~2,494 |
 | Rivalry | 10.00% | ~2,494 |

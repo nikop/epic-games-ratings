@@ -11,6 +11,7 @@
 | FIRST LOVE | 67.00% | ~2 |
 | Are You Alright? | 67.00% | ~2 |
 | You're Really Something Else | 67.00% | ~2 |
+| Life Is A Rollercoaster | 33.00% | ~1 |
 | Days Of Innocence | 33.00% | ~1 |
 | A Slap In The Face! | 33.00% | ~1 |
 | Love You Three Thousand | 33.00% | ~1 |
@@ -24,7 +25,6 @@
 | Doesn't Matter I'll Handle It | 0.00% | ~0 |
 | Off We Sail Tonight | 0.00% | ~0 |
 | All I Have Is Money | 0.00% | ~0 |
-| Life Is A Rollercoaster | 0.00% | ~0 |
 | Lover In Dark Alley | 0.00% | ~0 |
 | Boys Need To Protect Themselves | 0.00% | ~0 |
 | Go Get Some Fries On The Pier | 0.00% | ~0 |
