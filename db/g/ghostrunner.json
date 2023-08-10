@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 151,
   "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1044,9 +1044,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14759,
+  "EOS_Progressed": 14760,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 481,
+  "EOS_NewPlayers": 476,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -12889,6 +12889,11 @@
       "Time": "2023-08-10T02:05:13.8131906+00:00",
       "NumProgressed": 14759,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-08-10T03:05:29.3421087+00:00",
+      "NumProgressed": 14760,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 45,
@@ -12964,7 +12969,7 @@
       "Name": "Finish line",
       "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 3837
+      "UsersEstimate": 3838
     },
     {
       "ID": "GRProjectComplete",
@@ -13036,7 +13041,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 11217
+      "UsersEstimate": 11218
     },
     {
       "ID": "MoreThanHuman",
@@ -13236,7 +13241,7 @@
       "Name": "Where are my Keys?",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 6051
+      "UsersEstimate": 6052
     },
     {
       "ID": "WhereHeStood",
@@ -13259,21 +13264,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 14759,
+      "Progressed": 14760,
       "Completed": 34
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 14759,
+      "Progressed": 14760,
       "Completed": 55
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-08-06T10:59:03.7035816+00:00",
-  "LastChanged_Achievements": "2023-08-10T02:05:13.8131899+00:00",
+  "LastChanged_Achievements": "2023-08-10T03:05:29.342108+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:55.4271201+00:00",
-  "LastUpdate_Ratings": "2023-08-10T01:59:51.2579206+00:00",
-  "LastUpdate_Achievements": "2023-08-10T02:05:13.8133168+00:00"
+  "LastUpdate_Ratings": "2023-08-10T03:00:02.7692089+00:00",
+  "LastUpdate_Achievements": "2023-08-10T03:05:29.342234+00:00"
 }

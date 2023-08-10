@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 220,
   "Ranking_EOS_NewPlayers": 40,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -1405,9 +1405,9 @@
       "Count": 245
     }
   ],
-  "EOS_Progressed": 192498,
+  "EOS_Progressed": 192505,
   "EOS_Completed": 68,
-  "EOS_NewPlayers": 1745,
+  "EOS_NewPlayers": 1744,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -13675,6 +13675,11 @@
       "Time": "2023-08-10T02:03:29.2050726+00:00",
       "NumProgressed": 192498,
       "NumCompleted": 68
+    },
+    {
+      "Time": "2023-08-10T03:03:42.8739778+00:00",
+      "NumProgressed": 192505,
+      "NumCompleted": 68
     }
   ],
   "TotalAchievements": 44,
@@ -13702,7 +13707,7 @@
       "Name": "Chicken Dinner",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "Chunin",
@@ -13718,7 +13723,7 @@
       "Name": "Complete Mastery",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "Disguised",
@@ -13734,7 +13739,7 @@
       "Name": "Five Shadows",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "FlyingRocks",
@@ -13758,7 +13763,7 @@
       "Name": "Genin",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 21175
+      "UsersEstimate": 21176
     },
     {
       "ID": "HappyLittleAccidents",
@@ -13782,7 +13787,7 @@
       "Name": "High Five the Moon",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 1347
+      "UsersEstimate": 1348
     },
     {
       "ID": "IceIceYuki",
@@ -13814,7 +13819,7 @@
       "Name": "Merciful",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 962
+      "UsersEstimate": 963
     },
     {
       "ID": "Meticulous",
@@ -13830,7 +13835,7 @@
       "Name": "Mimimi",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "MugenUnchained",
@@ -13878,7 +13883,7 @@
       "Name": "Praise the Shogun",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "Prisoners",
@@ -13894,7 +13899,7 @@
       "Name": "Release the Kraken",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "RescueTakuma",
@@ -13950,7 +13955,7 @@
       "Name": "The Cave",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 1347
+      "UsersEstimate": 1348
     },
     {
       "ID": "TheEnd",
@@ -13982,7 +13987,7 @@
       "Name": "Time Paradox",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 962
+      "UsersEstimate": 963
     },
     {
       "ID": "UndeservedHonor",
@@ -13990,7 +13995,7 @@
       "Name": "Undeserved Honor",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 1732
+      "UsersEstimate": 1733
     },
     {
       "ID": "WarriorBarrel",
@@ -14037,15 +14042,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 192498,
+      "Progressed": 192505,
       "Completed": 68
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-08-08T12:00:34.0417468+00:00",
-  "LastChanged_Achievements": "2023-08-10T02:03:29.2050718+00:00",
+  "LastChanged_Achievements": "2023-08-10T03:03:42.8739764+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:04.7393029+00:00",
-  "LastUpdate_Ratings": "2023-08-10T02:01:06.2907708+00:00",
-  "LastUpdate_Achievements": "2023-08-10T02:03:29.2052062+00:00"
+  "LastUpdate_Ratings": "2023-08-10T03:01:32.368619+00:00",
+  "LastUpdate_Achievements": "2023-08-10T03:03:42.8741031+00:00"
 }

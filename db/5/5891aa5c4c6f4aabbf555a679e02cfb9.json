@@ -4,7 +4,7 @@
   "ProductSlug": "the-evil-within-2",
   "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
@@ -466,9 +466,9 @@
       "ID": "ACHIEVEMENT_34",
       "SetID": "b36c5kb",
       "Name": "Chatting With Kidman",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -617,8 +617,8 @@
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-08-10T02:04:16.6244767+00:00",
+  "LastChanged_Achievements": "2023-08-10T03:04:23.288827+00:00",
   "LastUpdate_AppInfo": "2023-08-09T15:57:03.4224426+00:00",
-  "LastUpdate_Ratings": "2023-08-10T01:57:44.9781592+00:00",
-  "LastUpdate_Achievements": "2023-08-10T02:04:16.6245297+00:00"
+  "LastUpdate_Ratings": "2023-08-10T02:57:40.9225271+00:00",
+  "LastUpdate_Achievements": "2023-08-10T03:04:23.2888776+00:00"
 }

@@ -58,7 +58,7 @@ Rating: 4.49 (Ranked 575)
 | Mycophile | 1.00% | ~249 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 24,943 (Ranked 101)  
-Completed: 49 (0.20%) (Ranked 176)  
+Completed: 50 (0.20%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -169,10 +169,10 @@ Completed: 49 (0.20%) (Ranked 176)
 | 2023-08-07 | 24,879 | 49 |
 | 2023-08-08 | 24,912 | 49 |
 | 2023-08-09 | 24,939 | 49 |
-| 2023-08-10 | 24,943 | 49 |
+| 2023-08-10 | 24,943 | 50 |
 ## Awards
 Max (Great for Quick Sessions): 247  (Ranked 253)  
-Sum: 2,222 (Ranked 190)  
+Sum: 2,223 (Ranked 190)  
 Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
@@ -185,7 +185,7 @@ Diff (max vs sum): 63
 | This game is Extremely Fun | 217 |
 | This game is Relaxing | 217 |
 | This game has Quickly Understood Controls | 208 |
-| This game has Amazing Characters | 205 |
+| This game has Amazing Characters | 206 |
 | This game has Playful Visuals | 94 |
 | This game has Obsessive Gameplay | 32 |
 ## Ratings History
@@ -324,4 +324,4 @@ Diff (max vs sum): 63
 | 2023-08-07 | 4.49 | 246 | 2,214 |
 | 2023-08-08 | 4.49 | 247 | 2,218 |
 | 2023-08-09 | 4.49 | 247 | 2,221 |
-| 2023-08-10 | 4.49 | 247 | 2,222 |
+| 2023-08-10 | 4.49 | 247 | 2,223 |

@@ -34,6 +34,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Icequake | 0.10% | ~187 |
 | A Lesson in Classes | 0.10% | ~187 |
 | The Prince of a Thousand Enemies | 0.10% | ~187 |
+| Uncommon Allies | 0.10% | ~187 |
 | The Birds | 0.10% | ~187 |
 | Downfall | 0.10% | ~187 |
 | First Third Out | 0.10% | ~187 |
@@ -128,6 +129,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Play's the Thing! | 0.10% | ~187 |
 | The Bitter End | 0.10% | ~187 |
 | The Palace of Heart's Desire | 0.10% | ~187 |
+| The Egg of Nat's Desire | 0.10% | ~187 |
 | No One Can Hear You Scream | 0.10% | ~187 |
 | Anchors Aweigh | 0.10% | ~187 |
 | Welcome to the Rock | 0.10% | ~187 |
@@ -183,8 +185,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hold for the Red Wizards | 0.10% | ~220 |
 | Form Ranks | 0.10% | ~220 |
 | Drop of Time | 0.10% | ~187 |
+| The Wyrmheart Mine | 0.10% | ~220 |
 | They Who Smelt It | 0.10% | ~220 |
 | Distribute Your Weight | 0.10% | ~220 |
+| Mongrelfolk Incursion | 0.10% | ~187 |
 | Tower on the Lake | 0.10% | ~220 |
 | Only the Strong Survive | 0.10% | ~220 |
 | Shorty's Day Off | 0.10% | ~220 |
@@ -394,6 +398,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Moose Tracks | 0.10% | ~187 |
 | An Awakened Axe | 0.10% | ~187 |
 | CONtagious Cold | 0.10% | ~187 |
+| Ten in Ten-Towns | 0.10% | ~187 |
 | Civilization | 0.10% | ~187 |
 | Trench Coat Run | 0.10% | ~187 |
 | The Taunting Lord | 0.10% | ~187 |
@@ -401,6 +406,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lone Wolf Party | 0.10% | ~187 |
 | The Sibriex | 0.10% | ~187 |
 | The Archduke's Blessing | 0.10% | ~187 |
+| A Neutral Party | 0.10% | ~187 |
 | Wrecked Flying Fortress | 0.10% | ~187 |
 | Relentless Peril | 0.10% | ~187 |
 | Rickety Rubble | 0.10% | ~187 |
@@ -477,6 +483,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Champion's Guide to Wildspace | 0.10% | ~187 |
 | Not That Type of Helm! | 0.10% | ~187 |
 | Tiny Treaty | 0.10% | ~187 |
+| All The World's A Stage | 0.10% | ~187 |
 | Calcryx Tricks | 0.10% | ~187 |
 | Goblin Halls: the Next Generation | 0.10% | ~187 |
 | Bazaar Companions | 0.10% | ~187 |
@@ -497,7 +504,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Familiar Behind Us | 0.00% | ~0 |
 | Go Fourth | 0.00% | ~0 |
 | Don't Blast the Brigands | 0.00% | ~0 |
-| Uncommon Allies | 0.00% | ~0 |
 | Where the Magic Happens | 0.00% | ~0 |
 | Second Third Out | 0.00% | ~0 |
 | End of the Line | 0.00% | ~0 |
@@ -505,25 +511,19 @@ Number of Ratings: 9,041  (23.09.2022)
 | Strength of Character | 0.00% | ~0 |
 | The Invisible Wizards of Thay | 0.00% | ~0 |
 | A Nimble Approach | 0.00% | ~0 |
-| The Egg of Nat's Desire | 0.00% | ~0 |
-| The Wyrmheart Mine | 0.00% | ~0 |
-| Mongrelfolk Incursion | 0.00% | ~0 |
 | Spirit of the Trickster Gods | 0.00% | ~0 |
 | An Even Worse Time in Avernus | 0.00% | ~0 |
 | Fire and Brimstone | 0.00% | ~0 |
 | Power of Three | 0.00% | ~0 |
 | Only Human | 0.00% | ~0 |
-| Ten in Ten-Towns | 0.00% | ~0 |
-| A Neutral Party | 0.00% | ~0 |
 | Going To Eleven | 0.00% | ~0 |
 | Fire and Ice | 0.00% | ~0 |
 | Might Makes Right | 0.00% | ~0 |
 | Ambitious Speakers - Part 2 | 0.00% | ~0 |
 | An Icewind Dale Reunion | 0.00% | ~0 |
 | Quick or Quack | 0.00% | ~0 |
-| All The World's A Stage | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,317 (Ranked 52)  
+Progressed: 220,328 (Ranked 52)  
 Completed: 2,167 (0.98%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -635,7 +635,7 @@ Completed: 2,167 (0.98%) (Ranked 113)
 | 2023-08-07 | 219,734 | 2,162 |
 | 2023-08-08 | 220,011 | 2,165 |
 | 2023-08-09 | 220,283 | 2,167 |
-| 2023-08-10 | 220,317 | 2,167 |
+| 2023-08-10 | 220,328 | 2,167 |
 ## Awards
 Max (Diverse Characters): 5,128  (Ranked 67)  
 Sum: 30,973 (Ranked 38)  

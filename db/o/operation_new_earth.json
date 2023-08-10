@@ -4,7 +4,7 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 848,
+  "EOS_Progressed": 849,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2996,6 +2996,11 @@
       "Time": "2023-08-10T02:07:25.1579532+00:00",
       "NumProgressed": 848,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-10T03:07:49.2242514+00:00",
+      "NumProgressed": 849,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -3183,7 +3188,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -3263,7 +3268,7 @@
       "Name": "Defenses Online",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -3310,14 +3315,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 848,
+      "Progressed": 849,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-10T02:07:25.1579525+00:00",
+  "LastChanged_Achievements": "2023-08-10T03:07:49.2242508+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:21.6461868+00:00",
-  "LastUpdate_Ratings": "2023-08-10T01:57:47.1781563+00:00",
-  "LastUpdate_Achievements": "2023-08-10T02:07:25.158011+00:00"
+  "LastUpdate_Ratings": "2023-08-10T02:57:43.9603123+00:00",
+  "LastUpdate_Achievements": "2023-08-10T03:07:49.2243033+00:00"
 }

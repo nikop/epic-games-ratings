@@ -35,6 +35,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | On the Path to Greatness | 0.20% | ~268 |
 | A Notch Above the Rest | 0.20% | ~268 |
 | Ascended | 0.20% | ~268 |
+| Above the Norm | 0.20% | ~268 |
 | Tax not Included | 0.20% | ~268 |
 | The King's Caprice | 0.20% | ~268 |
 | Research & Development | 0.20% | ~268 |
@@ -70,7 +71,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cream of the Crop | 0.10% | ~134 |
 | Top of the World | 0.10% | ~134 |
 | Proud Paladin | 0.10% | ~134 |
-| Above the Norm | 0.10% | ~134 |
 | Constellated | 0.10% | ~134 |
 | A Ronin Reborn | 0.10% | ~134 |
 | Thirst for Knowledge | 0.10% | ~134 |

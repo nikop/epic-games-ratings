@@ -116,6 +116,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage | 0.40% | ~53 |
 | Assyrian Paganism | 0.40% | ~53 |
 | Industrial Progress | 0.40% | ~53 |
+| Military Prestige | 0.40% | ~53 |
 | Dualism | 0.40% | ~53 |
 | Enlightenment | 0.40% | ~53 |
 | Gnosticism | 0.40% | ~53 |
@@ -134,7 +135,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Rome | 0.30% | ~40 |
 | One True Faith | 0.30% | ~40 |
 | Hittite Paganism | 0.30% | ~40 |
-| Military Prestige | 0.30% | ~40 |
 | Cataphract Archer | 0.30% | ~40 |
 | Kushite Cavalry | 0.30% | ~40 |
 | Turreted Elephant | 0.30% | ~40 |

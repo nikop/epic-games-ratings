@@ -6,24 +6,24 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~67,560 |
-| Powergamer | 27.00% | ~65,147 |
-| Barely scratched the surface | 25.00% | ~60,322 |
-| Write that down | 24.00% | ~57,909 |
-| Guns, lots of guns | 12.00% | ~28,954 |
+| I will finish what you started | 28.00% | ~67,562 |
+| Powergamer | 27.00% | ~65,149 |
+| Barely scratched the surface | 25.00% | ~60,323 |
+| Write that down | 24.00% | ~57,910 |
+| Guns, lots of guns | 12.00% | ~28,955 |
 | Collector | 11.00% | ~26,542 |
 | Elementary! | 9.00% | ~21,716 |
 | Pumpkin Jack | 8.00% | ~19,303 |
 | Wake up! | 8.00% | ~19,303 |
 | It's honest work | 7.00% | ~16,890 |
 | Griever | 7.00% | ~16,890 |
-| Me smart | 6.00% | ~14,477 |
-| Trash compactor | 6.00% | ~14,477 |
-| Good listener | 5.00% | ~12,064 |
-| Valedictorian | 5.00% | ~12,064 |
-| BOY! | 4.00% | ~9,651 |
-| Ka-ching! | 4.00% | ~9,651 |
-| So you like to read? | 4.00% | ~9,651 |
+| Me smart | 6.00% | ~14,478 |
+| Trash compactor | 6.00% | ~14,478 |
+| Good listener | 5.00% | ~12,065 |
+| Valedictorian | 5.00% | ~12,065 |
+| BOY! | 4.00% | ~9,652 |
+| Ka-ching! | 4.00% | ~9,652 |
+| So you like to read? | 4.00% | ~9,652 |
 | I like to sniff around | 3.00% | ~7,239 |
 | Mind reader | 3.00% | ~7,239 |
 | Gentleman's classic | 2.00% | ~4,826 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~483 |
 | Memory 5 | 0.10% | ~241 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,287 (Ranked 46)  
+Progressed: 241,292 (Ranked 46)  
 Completed: 7 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,7 +171,7 @@ Completed: 7 (0.00%) (Ranked 251)
 | 2023-08-07 | 241,040 | 7 |
 | 2023-08-08 | 241,170 | 7 |
 | 2023-08-09 | 241,277 | 7 |
-| 2023-08-10 | 241,287 | 7 |
+| 2023-08-10 | 241,292 | 7 |
 ## Awards
 Max (Character Customization): 78  (Ranked 363)  
 Sum: 78 (Ranked 427)  

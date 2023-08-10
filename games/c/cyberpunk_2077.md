@@ -6,19 +6,19 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 68.00% | ~591,666 |
-| Right Back At Ya | 39.00% | ~339,338 |
-| The Lovers | 35.00% | ~304,534 |
-| Stanislavski's Method | 29.00% | ~252,328 |
-| The Wheel of Fortune | 27.00% | ~234,926 |
-| The Hermit | 25.00% | ~217,524 |
-| Christmas Tree Attack | 23.00% | ~200,122 |
-| True Soldier | 23.00% | ~200,122 |
-| The High Priestess | 22.00% | ~191,421 |
-| Legend of The Afterlife | 22.00% | ~191,421 |
-| Life of the Road | 21.00% | ~182,720 |
-| Full Body Conversion | 18.00% | ~156,617 |
-| The World | 18.00% | ~156,617 |
+| The Fool | 68.00% | ~591,669 |
+| Right Back At Ya | 39.00% | ~339,340 |
+| The Lovers | 35.00% | ~304,536 |
+| Stanislavski's Method | 29.00% | ~252,330 |
+| The Wheel of Fortune | 27.00% | ~234,928 |
+| The Hermit | 25.00% | ~217,526 |
+| Christmas Tree Attack | 23.00% | ~200,123 |
+| True Soldier | 23.00% | ~200,123 |
+| The High Priestess | 22.00% | ~191,422 |
+| Legend of The Afterlife | 22.00% | ~191,422 |
+| Life of the Road | 21.00% | ~182,721 |
+| Full Body Conversion | 18.00% | ~156,618 |
+| The World | 18.00% | ~156,618 |
 | Bushido and Chill | 16.00% | ~139,216 |
 | Gun Fu | 15.00% | ~130,515 |
 | True Warrior | 15.00% | ~130,515 |
@@ -49,9 +49,9 @@ Number of Ratings: 32,700  (23.09.2022)
 | Daemon In The Shell | 2.00% | ~17,402 |
 | The Devil | 2.00% | ~17,402 |
 | Gunslinger | 1.00% | ~8,701 |
-| Rough Landing | 0.50% | ~4,350 |
+| Rough Landing | 0.50% | ~4,351 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 870,097 (Ranked 14)  
+Progressed: 870,102 (Ranked 14)  
 Completed: 1,952 (0.22%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 1,952 (0.22%) (Ranked 173)
 | 2023-08-07 | 869,778 | 1,948 |
 | 2023-08-08 | 869,929 | 1,950 |
 | 2023-08-09 | 870,084 | 1,952 |
-| 2023-08-10 | 870,097 | 1,952 |
+| 2023-08-10 | 870,102 | 1,952 |
 ## Awards
 Max (Character Customization): 75,151  (Ranked 9)  
 Sum: 198,278 (Ranked 13)  

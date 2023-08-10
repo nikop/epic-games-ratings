@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 176,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -1660,10 +1660,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 2222,
       "NumberOfAwardsMax": 247
+    },
+    {
+      "Time": "2023-08-10T03:01:24.0763388+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 2223,
+      "NumberOfAwardsMax": 247
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2222,
+  "NumberOfAwards": 2223,
   "NumberOfAwardsMax": 247,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1683,7 +1689,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 205
+      "Count": 206
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -1741,9 +1747,9 @@
     }
   ],
   "EOS_Progressed": 24943,
-  "EOS_Completed": 49,
-  "EOS_NewPlayers": 257,
-  "EOS_NewCompleters": 1,
+  "EOS_Completed": 50,
+  "EOS_NewPlayers": 256,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
     {
@@ -10005,6 +10011,11 @@
       "Time": "2023-08-10T02:02:25.7415165+00:00",
       "NumProgressed": 24943,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-08-10T03:03:04.3957052+00:00",
+      "NumProgressed": 24943,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 51,
@@ -10424,15 +10435,15 @@
       "ID": "819popo",
       "IsBase": true,
       "Progressed": 24943,
-      "Completed": 49
+      "Completed": 50
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-08-10T02:01:01.1990453+00:00",
-  "LastChanged_Achievements": "2023-08-10T02:02:25.7415159+00:00",
+  "LastChanged": "2023-08-10T03:01:24.0763387+00:00",
+  "LastChanged_Achievements": "2023-08-10T03:03:04.3957046+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:01.1115448+00:00",
-  "LastUpdate_Ratings": "2023-08-10T02:01:01.199046+00:00",
-  "LastUpdate_Achievements": "2023-08-10T02:02:25.7416376+00:00"
+  "LastUpdate_Ratings": "2023-08-10T03:01:24.076339+00:00",
+  "LastUpdate_Achievements": "2023-08-10T03:03:04.3958143+00:00"
 }
