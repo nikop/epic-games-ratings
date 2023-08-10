@@ -3434,9 +3434,9 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 10890,
+  "EOS_Progressed": 10891,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10519,6 +10519,11 @@
       "Time": "2023-08-10T14:04:36.7525924+00:00",
       "NumProgressed": 10890,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-10T15:04:12.6360117+00:00",
+      "NumProgressed": 10891,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -10562,7 +10567,7 @@
       "Name": "Embrace of the Abyss",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "06_HeartOfFallenLand",
@@ -10586,7 +10591,7 @@
       "Name": "Path of the Angel",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "09_PathOfDemon",
@@ -10738,7 +10743,7 @@
       "Name": "Great Upstart",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "29_StrategicVictory",
@@ -10882,7 +10887,7 @@
       "Name": "All Paths Open",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -10898,7 +10903,7 @@
       "Name": "A Spark",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1742
+      "UsersEstimate": 1743
     },
     {
       "ID": "49_Flame",
@@ -10922,7 +10927,7 @@
       "Name": "Demonic and Divine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "52_TrulyImportantDeed",
@@ -11457,21 +11462,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9672,
+      "Progressed": 9673,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10890,
+      "Progressed": 10891,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-08-10T13:12:02.5166871+00:00",
-  "LastChanged_Achievements": "2023-08-10T14:04:36.7525917+00:00",
+  "LastChanged_Achievements": "2023-08-10T15:04:12.6360112+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:18.5411463+00:00",
-  "LastUpdate_Ratings": "2023-08-10T14:00:14.8014182+00:00",
-  "LastUpdate_Achievements": "2023-08-10T14:04:36.7529733+00:00"
+  "LastUpdate_Ratings": "2023-08-10T14:59:49.8214634+00:00",
+  "LastUpdate_Achievements": "2023-08-10T15:04:12.6362174+00:00"
 }

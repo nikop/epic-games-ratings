@@ -2,9 +2,9 @@
   "ID": "0113dd49216f4f2d995ef9a6eebd67f4",
   "Name": "Stray Gods: The Roleplaying Musical",
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
-  "Ranking_EOS_Progress": 429,
+  "Ranking_EOS_Progress": 424,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 11,
+  "EOS_Progressed": 13,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -48,6 +48,11 @@
     {
       "Time": "2023-08-10T14:02:41.9478376+00:00",
       "NumProgressed": 11,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-10T15:02:10.5120299+00:00",
+      "NumProgressed": 13,
       "NumCompleted": 0
     }
   ],
@@ -131,9 +136,9 @@
       "ID": "SG_ENDOFTHEROAD",
       "SetID": "bj5g0n4",
       "Name": "End Of The Road",
-      "Percentage": 18,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "SG_EVERYTHINGHASCHANGED",
@@ -211,7 +216,7 @@
       "ID": "SG_NOTALOSTGIRL",
       "SetID": "bj5g0n4",
       "Name": "Not A Lost Girl",
-      "Percentage": 18,
+      "Percentage": 15,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -227,7 +232,7 @@
       "ID": "SG_QUEENWITHOUTATHRONE",
       "SetID": "bj5g0n4",
       "Name": "Queen Without A Throne",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -275,15 +280,15 @@
       "ID": "SG_THECHOICEISYOURS",
       "SetID": "bj5g0n4",
       "Name": "The Choice Is Yours",
-      "Percentage": 0,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "SG_THEDEEPEND",
       "SetID": "bj5g0n4",
       "Name": "The Deep End",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -356,13 +361,13 @@
     {
       "ID": "bj5g0n4",
       "IsBase": true,
-      "Progressed": 11,
+      "Progressed": 13,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-08-10T14:02:41.9478372+00:00",
+  "LastChanged_Achievements": "2023-08-10T15:02:10.5120293+00:00",
   "LastUpdate_AppInfo": "2023-08-10T07:57:00.7529969+00:00",
-  "LastUpdate_Ratings": "2023-08-10T13:57:06.9784976+00:00",
-  "LastUpdate_Achievements": "2023-08-10T14:02:41.9478828+00:00"
+  "LastUpdate_Ratings": "2023-08-10T14:57:09.605474+00:00",
+  "LastUpdate_Achievements": "2023-08-10T15:02:10.5120653+00:00"
 }

@@ -33,14 +33,14 @@ Rating: 4.54 (Ranked 496)
 | Take the Cannoli | 2.00% | ~193 |
 | Chopper’d Up | 2.00% | ~193 |
 | City Sleuth | 2.00% | ~193 |
+| I'm Famous! | 1.00% | ~96 |
 | Daredevil | 1.00% | ~96 |
 | Born in the 80’s | 0.90% | ~87 |
 | Keepie-Uppy Okie Dokie | 0.90% | ~87 |
-| I'm Famous! | 0.90% | ~87 |
 | Done it All | 0.80% | ~77 |
 | Kingpin | 0.50% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,633 (Ranked 123)  
+Progressed: 9,634 (Ranked 123)  
 Completed: 46 (0.48%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,7 +152,7 @@ Completed: 46 (0.48%) (Ranked 141)
 | 2023-08-07 | 9,611 | 45 |
 | 2023-08-08 | 9,624 | 45 |
 | 2023-08-09 | 9,630 | 46 |
-| 2023-08-10 | 9,633 | 46 |
+| 2023-08-10 | 9,634 | 46 |
 ## Awards
 Max (Great Boss Battles): 65  (Ranked 385)  
 Sum: 65 (Ranked 440)  

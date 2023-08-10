@@ -6,71 +6,71 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 8.00% | ~6,722 |
-| Victorious! | 8.00% | ~6,722 |
-| That's a Grand Army | 7.00% | ~5,882 |
-| That is mine! | 7.00% | ~5,882 |
-| Brothers in Arms | 6.00% | ~5,041 |
-| That's a Grand Navy | 6.00% | ~5,041 |
-| Seriously?! | 6.00% | ~5,041 |
-| Cold War | 4.00% | ~3,361 |
-| For the Glory | 4.00% | ~3,361 |
-| Defender of the Faith | 3.00% | ~2,521 |
-| It's all about the money | 3.00% | ~2,521 |
-| Respected | 3.00% | ~2,521 |
-| True Catholic | 3.00% | ~2,521 |
-| Truly Divine Ruler | 3.00% | ~2,521 |
-| Agressive Expander | 2.00% | ~1,680 |
-| Blockader | 2.00% | ~1,680 |
-| Combined Arms | 2.00% | ~1,680 |
-| Double the Love | 2.00% | ~1,680 |
-| It's all about luck | 2.00% | ~1,680 |
-| My armies are invincible! | 2.00% | ~1,680 |
-| Royal Authority | 2.00% | ~1,680 |
-| The Princess is in this Castle | 2.00% | ~1,680 |
-| Total Control | 2.00% | ~1,680 |
-| All That's Thine Shall Be Mine | 1.00% | ~840 |
-| Azur semé de lis or | 1.00% | ~840 |
-| Bright Spark | 1.00% | ~840 |
-| City of Cities | 1.00% | ~840 |
-| The Emperors new clothes | 1.00% | ~840 |
-| Factionalism | 1.00% | ~840 |
-| Gentle Persuasion | 1.00% | ~840 |
-| A Golden Empire | 1.00% | ~840 |
-| Queen of Conquest | 1.00% | ~840 |
-| The Five Colonies | 1.00% | ~840 |
-| This navy can take it all | 1.00% | ~840 |
-| Isn't this the way to India? | 0.90% | ~756 |
-| Market Control | 0.90% | ~756 |
-| Trustworthy | 0.90% | ~756 |
-| Down Under | 0.80% | ~672 |
-| Electable! | 0.70% | ~588 |
-| Populists in Government | 0.70% | ~588 |
-| All belongs to Mother Russia | 0.60% | ~504 |
-| At every continent | 0.60% | ~504 |
-| One Family to Rule them All | 0.60% | ~504 |
-| Ruina Imperii | 0.60% | ~504 |
-| The pen is mightier than the sword | 0.60% | ~504 |
-| Time Bandit | 0.60% | ~504 |
-| Absolutely | 0.50% | ~420 |
-| Early-Modern Warfare | 0.50% | ~420 |
-| Grand Coalition | 0.50% | ~420 |
-| Live Long and Prosper | 0.50% | ~420 |
-| This is My Faith | 0.50% | ~420 |
-| Trophy Hunter | 0.50% | ~420 |
-| Voting Streak | 0.50% | ~420 |
-| All Your Trade Are Belong to Us | 0.40% | ~336 |
-| Bleed Them Dry | 0.40% | ~336 |
-| Dude, Where's my Boat? | 0.40% | ~336 |
-| Four For Trade | 0.40% | ~336 |
-| Global Hegemony | 0.40% | ~336 |
-| In the Name of the Father | 0.40% | ~336 |
-| Italian Ambition | 0.40% | ~336 |
-| Just a Little Patience | 0.40% | ~336 |
-| One Night in Paris | 0.40% | ~336 |
-| Tear Down This Wall | 0.40% | ~336 |
-| The Continuation of Diplomacy | 0.40% | ~336 |
-| Wonderful | 0.40% | ~336 |
+| Until death do us apart | 8.00% | ~6,732 |
+| Victorious! | 8.00% | ~6,732 |
+| That's a Grand Army | 7.00% | ~5,890 |
+| That is mine! | 7.00% | ~5,890 |
+| Brothers in Arms | 6.00% | ~5,049 |
+| That's a Grand Navy | 6.00% | ~5,049 |
+| Seriously?! | 6.00% | ~5,049 |
+| Cold War | 4.00% | ~3,366 |
+| For the Glory | 4.00% | ~3,366 |
+| Defender of the Faith | 3.00% | ~2,524 |
+| It's all about the money | 3.00% | ~2,524 |
+| Respected | 3.00% | ~2,524 |
+| True Catholic | 3.00% | ~2,524 |
+| Truly Divine Ruler | 3.00% | ~2,524 |
+| Agressive Expander | 2.00% | ~1,683 |
+| Blockader | 2.00% | ~1,683 |
+| Combined Arms | 2.00% | ~1,683 |
+| Double the Love | 2.00% | ~1,683 |
+| It's all about luck | 2.00% | ~1,683 |
+| My armies are invincible! | 2.00% | ~1,683 |
+| Royal Authority | 2.00% | ~1,683 |
+| The Princess is in this Castle | 2.00% | ~1,683 |
+| Total Control | 2.00% | ~1,683 |
+| All That's Thine Shall Be Mine | 1.00% | ~841 |
+| Azur semé de lis or | 1.00% | ~841 |
+| Bright Spark | 1.00% | ~841 |
+| City of Cities | 1.00% | ~841 |
+| The Emperors new clothes | 1.00% | ~841 |
+| Factionalism | 1.00% | ~841 |
+| Gentle Persuasion | 1.00% | ~841 |
+| A Golden Empire | 1.00% | ~841 |
+| Queen of Conquest | 1.00% | ~841 |
+| The Five Colonies | 1.00% | ~841 |
+| This navy can take it all | 1.00% | ~841 |
+| Isn't this the way to India? | 0.90% | ~757 |
+| Market Control | 0.90% | ~757 |
+| Trustworthy | 0.90% | ~757 |
+| Down Under | 0.80% | ~673 |
+| Electable! | 0.70% | ~589 |
+| Populists in Government | 0.70% | ~589 |
+| All belongs to Mother Russia | 0.60% | ~505 |
+| At every continent | 0.60% | ~505 |
+| One Family to Rule them All | 0.60% | ~505 |
+| Ruina Imperii | 0.60% | ~505 |
+| The pen is mightier than the sword | 0.60% | ~505 |
+| Time Bandit | 0.60% | ~505 |
+| Absolutely | 0.50% | ~421 |
+| Early-Modern Warfare | 0.50% | ~421 |
+| Grand Coalition | 0.50% | ~421 |
+| Live Long and Prosper | 0.50% | ~421 |
+| This is My Faith | 0.50% | ~421 |
+| Trophy Hunter | 0.50% | ~421 |
+| Voting Streak | 0.50% | ~421 |
+| All Your Trade Are Belong to Us | 0.40% | ~337 |
+| Bleed Them Dry | 0.40% | ~337 |
+| Dude, Where's my Boat? | 0.40% | ~337 |
+| Four For Trade | 0.40% | ~337 |
+| Global Hegemony | 0.40% | ~337 |
+| In the Name of the Father | 0.40% | ~337 |
+| Italian Ambition | 0.40% | ~337 |
+| Just a Little Patience | 0.40% | ~337 |
+| One Night in Paris | 0.40% | ~337 |
+| Tear Down This Wall | 0.40% | ~337 |
+| The Continuation of Diplomacy | 0.40% | ~337 |
+| Wonderful | 0.40% | ~337 |
 | A Decent Reserve | 0.30% | ~252 |
 | A Pile of Gold | 0.30% | ~252 |
 | A Fine Goosestep | 0.30% | ~252 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 84,022 (Ranked 72)  
+Progressed: 84,149 (Ranked 72)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -473,7 +473,7 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-07 | 82,030 | 0 |
 | 2023-08-08 | 82,784 | 0 |
 | 2023-08-09 | 83,551 | 0 |
-| 2023-08-10 | 84,022 | 0 |
+| 2023-08-10 | 84,149 | 0 |
 ## Awards
 Max (Educational): 5,639  (Ranked 62)  
 Sum: 46,548 (Ranked 26)  

@@ -1649,9 +1649,9 @@
       "ID": "FloatingMan",
       "SetID": "5lok9mm",
       "Name": "Much Magic",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 1248
+      "UsersEstimate": 1270
     },
     {
       "ID": "ForceCube",
@@ -1945,8 +1945,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-07-21T20:00:23.2474099+00:00",
-  "LastChanged_Achievements": "2023-08-10T14:04:13.9328527+00:00",
+  "LastChanged_Achievements": "2023-08-10T15:03:42.6854798+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:59.03219+00:00",
-  "LastUpdate_Ratings": "2023-08-10T14:02:15.0820984+00:00",
-  "LastUpdate_Achievements": "2023-08-10T14:04:13.9329436+00:00"
+  "LastUpdate_Ratings": "2023-08-10T15:01:35.1861267+00:00",
+  "LastUpdate_Achievements": "2023-08-10T15:03:42.6855356+00:00"
 }

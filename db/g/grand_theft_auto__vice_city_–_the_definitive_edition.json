@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 440,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewPlayers": 114,
   "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -580,9 +580,9 @@
       "Count": 65
     }
   ],
-  "EOS_Progressed": 9633,
+  "EOS_Progressed": 9634,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -8185,6 +8185,11 @@
       "Time": "2023-08-10T09:06:36.1670819+00:00",
       "NumProgressed": 9633,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-08-10T15:05:41.2036207+00:00",
+      "NumProgressed": 9634,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 34,
@@ -8330,9 +8335,9 @@
       "ID": "ACH18",
       "SetID": "9llo822",
       "Name": "I\u0027m Famous!",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 87
+      "UsersEstimate": 96
     },
     {
       "ID": "ACH19",
@@ -8467,7 +8472,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9633,
+      "Progressed": 9634,
       "Completed": 46
     }
   ],
@@ -8475,8 +8480,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-08-10T09:00:30.0562812+00:00",
-  "LastChanged_Achievements": "2023-08-10T14:06:17.3690883+00:00",
+  "LastChanged_Achievements": "2023-08-10T15:05:41.2036198+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:06.4488282+00:00",
-  "LastUpdate_Ratings": "2023-08-10T13:59:59.1621797+00:00",
-  "LastUpdate_Achievements": "2023-08-10T14:06:17.3691787+00:00"
+  "LastUpdate_Ratings": "2023-08-10T14:59:36.9663223+00:00",
+  "LastUpdate_Achievements": "2023-08-10T15:05:41.2037192+00:00"
 }

@@ -5,12 +5,12 @@ Rating: 4.82 (Ranked 66)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 96.00% | ~2,411 |
-| No more cages! | 92.00% | ~2,310 |
+| For Demacia | 96.00% | ~2,412 |
+| No more cages! | 92.00% | ~2,311 |
 | Everfrost | 78.00% | ~1,959 |
-| Pentakill | 77.00% | ~1,933 |
-| Dark Forest | 77.00% | ~1,933 |
-| The use of petricite | 74.00% | ~1,858 |
+| Pentakill | 77.00% | ~1,934 |
+| Dark Forest | 77.00% | ~1,934 |
+| The use of petricite | 74.00% | ~1,859 |
 | You can pet the dog | 61.00% | ~1,532 |
 | Big Helmet Bro | 37.00% | ~929 |
 | Clarion Cove | 37.00% | ~929 |
@@ -19,18 +19,18 @@ Rating: 4.82 (Ranked 66)
 | Ternmoat Headquarters | 35.00% | ~879 |
 | Elemental master | 34.00% | ~854 |
 | Cypress Glen Headquarters | 33.00% | ~829 |
-| Petricite Burst | 31.00% | ~778 |
+| Petricite Burst | 31.00% | ~779 |
 | Old friend | 29.00% | ~728 |
 | Hijack | 28.00% | ~703 |
 | Devineur | 28.00% | ~703 |
 | Whispers in the Woods I | 27.00% | ~678 |
 | Ancient power | 25.00% | ~628 |
 | I chose my shackles | 24.00% | ~603 |
-| Sacred Woods | 22.00% | ~552 |
-| Capelworth | 22.00% | ~552 |
-| Little light | 21.00% | ~527 |
-| Iffighain Headquarters | 21.00% | ~527 |
-| Full equipped | 21.00% | ~527 |
+| Sacred Woods | 22.00% | ~553 |
+| Capelworth | 22.00% | ~553 |
+| Little light | 21.00% | ~528 |
+| Iffighain Headquarters | 21.00% | ~528 |
+| Full equipped | 21.00% | ~528 |
 | Glyndemere | 20.00% | ~502 |
 | Whispers in the Woods II | 17.00% | ~427 |
 | Quickmoore Headquarters | 17.00% | ~427 |
@@ -59,7 +59,7 @@ Rating: 4.82 (Ranked 66)
 | Silverwing nest | 2.00% | ~50 |
 | The Unshackled | 0.80% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,511 (Ranked 161)  
+Progressed: 2,512 (Ranked 161)  
 Completed: 5 (0.20%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,6 +165,7 @@ Completed: 5 (0.20%) (Ranked 176)
 | 2023-08-07 | 2,508 | 5 |
 | 2023-08-08 | 2,509 | 5 |
 | 2023-08-09 | 2,511 | 5 |
+| 2023-08-10 | 2,512 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

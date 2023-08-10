@@ -6,45 +6,45 @@ Number of Ratings: 6,336  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escaped Tartarus | 89.00% | ~623,811 |
-| Escaped Asphodel | 80.00% | ~560,729 |
-| Arms Collector | 71.00% | ~497,647 |
-| Friends in High Places | 68.00% | ~476,619 |
-| Escaped Elysium | 66.00% | ~462,601 |
-| Chthonic Colleagues | 63.00% | ~441,574 |
-| Is There No Escape? | 52.00% | ~364,474 |
-| Death Dealer | 45.00% | ~315,410 |
-| Skelly Slayer | 42.00% | ~294,383 |
-| Well Stocked | 40.00% | ~280,364 |
-| Back to Work | 38.00% | ~266,346 |
-| Day-or-Night Trader | 37.00% | ~259,337 |
-| Blessed by the Gods | 37.00% | ~259,337 |
-| Urge to Sing | 36.00% | ~252,328 |
-| Blood Bound | 35.00% | ~245,319 |
-| Three-Headed Boy | 32.00% | ~224,292 |
-| River Denizens | 28.00% | ~196,255 |
-| Grown Close | 28.00% | ~196,255 |
-| Home Makeover | 27.00% | ~189,246 |
-| Had to Happen | 25.00% | ~175,228 |
-| The Family Secret | 25.00% | ~175,228 |
+| Escaped Tartarus | 89.00% | ~623,814 |
+| Escaped Asphodel | 80.00% | ~560,732 |
+| Arms Collector | 71.00% | ~497,650 |
+| Friends in High Places | 68.00% | ~476,622 |
+| Escaped Elysium | 66.00% | ~462,604 |
+| Chthonic Colleagues | 63.00% | ~441,576 |
+| Is There No Escape? | 52.00% | ~364,476 |
+| Death Dealer | 45.00% | ~315,412 |
+| Skelly Slayer | 42.00% | ~294,384 |
+| Well Stocked | 40.00% | ~280,366 |
+| Back to Work | 38.00% | ~266,348 |
+| Day-or-Night Trader | 37.00% | ~259,339 |
+| Blessed by the Gods | 37.00% | ~259,339 |
+| Urge to Sing | 36.00% | ~252,329 |
+| Blood Bound | 35.00% | ~245,320 |
+| Three-Headed Boy | 32.00% | ~224,293 |
+| River Denizens | 28.00% | ~196,256 |
+| Grown Close | 28.00% | ~196,256 |
+| Home Makeover | 27.00% | ~189,247 |
+| Had to Happen | 25.00% | ~175,229 |
+| The Family Secret | 25.00% | ~175,229 |
 | Tools of the Architect | 23.00% | ~161,210 |
 | Master of Arms | 23.00% | ~161,210 |
-| To Charon's Credit | 22.00% | ~154,200 |
-| Rare Collectible | 22.00% | ~154,200 |
-| Weapon of Fate | 21.00% | ~147,191 |
-| Something From Everyone | 19.00% | ~133,173 |
-| Hold the Onions | 18.00% | ~126,164 |
-| Well Versed | 17.00% | ~119,155 |
+| To Charon's Credit | 22.00% | ~154,201 |
+| Rare Collectible | 22.00% | ~154,201 |
+| Weapon of Fate | 21.00% | ~147,192 |
+| Something From Everyone | 19.00% | ~133,174 |
+| Hold the Onions | 18.00% | ~126,165 |
+| Well Versed | 17.00% | ~119,156 |
 | War-God's Bloodlust | 15.00% | ~105,137 |
 | Musician and Muse | 14.00% | ~98,128 |
-| The Useless Trinket | 13.00% | ~91,118 |
-| Champion of Elysium | 13.00% | ~91,118 |
-| Slashed Benefits | 12.00% | ~84,109 |
-| Haste of Hermes | 11.00% | ~77,100 |
-| Bad Call | 10.00% | ~70,091 |
-| Nyx's Mirror | 10.00% | ~70,091 |
-| Night and Darkness | 10.00% | ~70,091 |
-| End to Torment | 10.00% | ~70,091 |
+| The Useless Trinket | 13.00% | ~91,119 |
+| Champion of Elysium | 13.00% | ~91,119 |
+| Slashed Benefits | 12.00% | ~84,110 |
+| Haste of Hermes | 11.00% | ~77,101 |
+| Bad Call | 10.00% | ~70,092 |
+| Nyx's Mirror | 10.00% | ~70,092 |
+| Night and Darkness | 10.00% | ~70,092 |
+| End to Torment | 10.00% | ~70,092 |
 | Dark Reflections | 9.00% | ~63,082 |
 | Thanks, But No Thanks | 9.00% | ~63,082 |
 | Infernal Arms | 9.00% | ~63,082 |
@@ -53,10 +53,10 @@ Number of Ratings: 6,336  (23.09.2022)
 | One for the Ages | 7.00% | ~49,064 |
 | Complete Set | 6.00% | ~42,055 |
 | Skelly's Last Lamentations | 6.00% | ~42,055 |
-| Thorn of Thanatos | 4.00% | ~28,036 |
-| Friends Forever | 4.00% | ~28,036 |
+| Thorn of Thanatos | 4.00% | ~28,037 |
+| Friends Forever | 4.00% | ~28,037 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 700,911 (Ranked 21)  
+Progressed: 700,915 (Ranked 21)  
 Completed: 6,286 (0.90%) (Ranked 116)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,7 +168,7 @@ Completed: 6,286 (0.90%) (Ranked 116)
 | 2023-08-07 | 700,717 | 6,282 |
 | 2023-08-08 | 700,790 | 6,283 |
 | 2023-08-09 | 700,878 | 6,283 |
-| 2023-08-10 | 700,911 | 6,286 |
+| 2023-08-10 | 700,915 | 6,286 |
 ## Awards
 Max (Character Customization): 3,205  (Ranked 91)  
 Sum: 7,766 (Ranked 101)  
