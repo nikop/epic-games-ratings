@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1783,
+  "EOS_Progressed": 1784,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -4834,6 +4834,11 @@
       "Time": "2023-08-10T21:05:37.4611949+00:00",
       "NumProgressed": 1783,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-10T23:05:37.5277532+00:00",
+      "NumProgressed": 1784,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -4957,7 +4962,7 @@
       "Name": "Dragon Master",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "dragonslayer",
@@ -4973,7 +4978,7 @@
       "Name": "Ebony Jungle Liberator",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "enchantingskill",
@@ -5013,7 +5018,7 @@
       "Name": "Enlightenment",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "exoticmerchant",
@@ -5085,7 +5090,7 @@
       "Name": "Here We Go Again",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "heroinspection",
@@ -5157,7 +5162,7 @@
       "Name": "Master Enchanter",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "mastery",
@@ -5237,7 +5242,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "prestigiousx10",
@@ -5301,7 +5306,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 998
+      "UsersEstimate": 999
     },
     {
       "ID": "thealchemist",
@@ -5325,7 +5330,7 @@
       "Name": "The father of Dragons",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "thegameison",
@@ -5405,7 +5410,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1658
+      "UsersEstimate": 1659
     },
     {
       "ID": "warmachinesarmy",
@@ -5429,7 +5434,7 @@
       "Name": "What lies behind the bush",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "worldmap",
@@ -5444,7 +5449,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1783,
+      "Progressed": 1784,
       "Completed": 2
     }
   ],
@@ -5452,8 +5457,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-08-10T20:59:32.9674394+00:00",
-  "LastChanged_Achievements": "2023-08-10T22:05:51.0818864+00:00",
+  "LastChanged_Achievements": "2023-08-10T23:05:37.5277527+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:51.9873939+00:00",
-  "LastUpdate_Ratings": "2023-08-10T21:59:52.7304108+00:00",
-  "LastUpdate_Achievements": "2023-08-10T22:05:51.0820759+00:00"
+  "LastUpdate_Ratings": "2023-08-10T22:59:37.4206977+00:00",
+  "LastUpdate_Achievements": "2023-08-10T23:05:37.5278457+00:00"
 }

@@ -5,7 +5,7 @@ Rating: 4.15 (Ranked 886)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 10.00% | ~3,962 |
+| Attachments | 10.00% | ~3,963 |
 | Unlocked Potential | 9.00% | ~3,566 |
 | Tinkerer | 7.00% | ~2,774 |
 | Knock 'Em Dead | 7.00% | ~2,774 |
@@ -22,12 +22,12 @@ Rating: 4.15 (Ranked 886)
 | The Interloper | 3.00% | ~1,189 |
 | Hop, Step, Jump | 3.00% | ~1,189 |
 | Endless Runner | 3.00% | ~1,189 |
-| What Must Be Done | 2.00% | ~792 |
-| Might and Main | 2.00% | ~792 |
-| Damned If You Do... | 2.00% | ~792 |
-| Explorer: Pathfinder | 2.00% | ~792 |
-| Shocker | 2.00% | ~792 |
-| From Every Angle | 2.00% | ~792 |
+| What Must Be Done | 2.00% | ~793 |
+| Might and Main | 2.00% | ~793 |
+| Damned If You Do... | 2.00% | ~793 |
+| Explorer: Pathfinder | 2.00% | ~793 |
+| Shocker | 2.00% | ~793 |
+| From Every Angle | 2.00% | ~793 |
 | The Hue of Blue | 1.00% | ~396 |
 | The Truth Will Out | 1.00% | ~396 |
 | Breaking Point | 1.00% | ~396 |
@@ -38,7 +38,7 @@ Rating: 4.15 (Ranked 886)
 | Realized Potential | 0.70% | ~277 |
 | Awakening | 0.60% | ~238 |
 | Explorer: Trailblazer | 0.60% | ~238 |
-| Through the Eyes of Another: Seer | 0.40% | ~158 |
+| Through the Eyes of Another: Seer | 0.40% | ~159 |
 | Archivist | 0.30% | ~119 |
 | Craftsperson | 0.30% | ~119 |
 | Tit for Tat | 0.30% | ~119 |
@@ -59,7 +59,7 @@ Rating: 4.15 (Ranked 886)
 | Remembrance | 0.10% | ~40 |
 | Cat Person | 0.10% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 39,625 (Ranked 93)  
+Progressed: 39,626 (Ranked 93)  
 Completed: 3 (0.01%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,7 +171,7 @@ Completed: 3 (0.01%) (Ranked 238)
 | 2023-08-07 | 39,595 | 3 |
 | 2023-08-08 | 39,607 | 3 |
 | 2023-08-09 | 39,616 | 3 |
-| 2023-08-10 | 39,625 | 3 |
+| 2023-08-10 | 39,626 | 3 |
 ## Awards
 Max (Character Customization): 24  (Ranked 481)  
 Sum: 24 (Ranked 486)  

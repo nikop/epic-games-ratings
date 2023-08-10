@@ -59,12 +59,12 @@
 | Not little hacker | 30.00% | ~73 |
 | The last bell ring | 30.00% | ~73 |
 | Careerist | 30.00% | ~73 |
+| Another world | 29.00% | ~70 |
 | The lonesome road | 29.00% | ~70 |
 | Key memories | 29.00% | ~70 |
 | Anyone can resist | 29.00% | ~70 |
 | The heart of the Resistance | 29.00% | ~70 |
 | Trap disarmed | 28.00% | ~68 |
-| Another world | 28.00% | ~68 |
 | Keep nature safe | 28.00% | ~68 |
 | Family comes first | 28.00% | ~68 |
 | Silver’s past | 25.00% | ~61 |

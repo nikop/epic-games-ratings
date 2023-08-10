@@ -24,6 +24,7 @@ Rating: 4.43 (Ranked 657)
 | Gunslinger | 3.00% | ~104 |
 | Skirmisher | 3.00% | ~104 |
 | Der Geist | 3.00% | ~104 |
+| Close Quarters | 3.00% | ~104 |
 | Snake in the Grass | 3.00% | ~104 |
 | Brains of the Operation | 3.00% | ~104 |
 | Opposing Force | 2.00% | ~69 |
@@ -35,7 +36,6 @@ Rating: 4.43 (Ranked 657)
 | My Little Friend | 2.00% | ~69 |
 | Explosive Efficiency | 2.00% | ~69 |
 | Die Nussknacker Sweet! | 2.00% | ~69 |
-| Close Quarters | 2.00% | ~69 |
 | The Long Game | 1.00% | ~34 |
 | Rigged to Blow | 1.00% | ~34 |
 | Tinkerer | 1.00% | ~34 |

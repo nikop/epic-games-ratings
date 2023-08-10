@@ -6370,10 +6370,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 27472,
       "NumberOfAwardsMax": 7376
+    },
+    {
+      "Time": "2023-08-10T23:00:05.4566371+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 27473,
+      "NumberOfAwardsMax": 7376
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27472,
+  "NumberOfAwards": 27473,
   "NumberOfAwardsMax": 7376,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6399,7 +6405,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1652
+      "Count": 1653
     },
     {
       "Text": "This game has Diverse Characters",
@@ -6456,9 +6462,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 796530,
+  "EOS_Progressed": 796534,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 1015,
+  "EOS_NewPlayers": 1013,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18701,6 +18707,11 @@
       "Time": "2023-08-10T22:06:05.6395507+00:00",
       "NumProgressed": 796530,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-08-10T23:05:50.0488499+00:00",
+      "NumProgressed": 796534,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 82,
@@ -18744,7 +18755,7 @@
       "Name": "Awakening",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 167271
+      "UsersEstimate": 167272
     },
     {
       "ID": "BadGirl",
@@ -18760,7 +18771,7 @@
       "Name": "Bad Trip",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 39826
+      "UsersEstimate": 39827
     },
     {
       "ID": "Bailiff",
@@ -18792,7 +18803,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 254890
+      "UsersEstimate": 254891
     },
     {
       "ID": "Bookworm",
@@ -18824,7 +18835,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 199132
+      "UsersEstimate": 199134
     },
     {
       "ID": "Chivalrous",
@@ -18912,7 +18923,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 183202
+      "UsersEstimate": 183203
     },
     {
       "ID": "Fighter",
@@ -19136,7 +19147,7 @@
       "Name": "Monk",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 39826
+      "UsersEstimate": 39827
     },
     {
       "ID": "NotSoChristianBurial",
@@ -19192,7 +19203,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 159306
+      "UsersEstimate": 159307
     },
     {
       "ID": "RevenantOfLedechko",
@@ -19232,7 +19243,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 159306
+      "UsersEstimate": 159307
     },
     {
       "ID": "SerialKiller",
@@ -19240,7 +19251,7 @@
       "Name": "Serial Killer",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 39826
+      "UsersEstimate": 39827
     },
     {
       "ID": "Sinner",
@@ -19248,7 +19259,7 @@
       "Name": "Sinner",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 87618
+      "UsersEstimate": 87619
     },
     {
       "ID": "Sniper",
@@ -19367,15 +19378,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 796530,
+      "Progressed": 796534,
       "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2023-08-10T20:00:27.2707463+00:00",
-  "LastChanged_Achievements": "2023-08-10T22:06:05.6395501+00:00",
+  "LastChanged": "2023-08-10T23:00:05.4566369+00:00",
+  "LastChanged_Achievements": "2023-08-10T23:05:50.0488494+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:17.2997126+00:00",
-  "LastUpdate_Ratings": "2023-08-10T22:00:28.1420846+00:00",
-  "LastUpdate_Achievements": "2023-08-10T22:06:05.6397096+00:00"
+  "LastUpdate_Ratings": "2023-08-10T23:00:05.4566378+00:00",
+  "LastUpdate_Achievements": "2023-08-10T23:05:50.0490138+00:00"
 }

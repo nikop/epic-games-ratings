@@ -27,6 +27,7 @@ Number of Ratings: 371  (23.09.2022)
 | Hold Your Ground | 0.60% | ~19 |
 | Just a Scratch | 0.60% | ~19 |
 | Patron of Deimos | 0.40% | ~13 |
+| Daemonkeeper | 0.40% | ~13 |
 | Efficient Killer | 0.40% | ~13 |
 | Only in Death | 0.40% | ~13 |
 | Junk Banishment | 0.40% | ~13 |
@@ -36,7 +37,6 @@ Number of Ratings: 371  (23.09.2022)
 | Tactical Sabotage | 0.40% | ~13 |
 | Fleetmaster | 0.30% | ~9 |
 | For the Machine God | 0.30% | ~9 |
-| Daemonkeeper | 0.30% | ~9 |
 | Mind Like a Fortress | 0.30% | ~9 |
 | Preservationist | 0.30% | ~9 |
 | Engine Kill | 0.30% | ~9 |

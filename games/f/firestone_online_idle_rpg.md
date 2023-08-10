@@ -5,10 +5,10 @@ Rating: 4.05 (Ranked 919)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,658 |
+| Victor | 93.00% | ~1,659 |
 | World Map | 79.00% | ~1,409 |
-| Temple of Eternals | 56.00% | ~998 |
-| Prestigious | 53.00% | ~945 |
+| Temple of Eternals | 56.00% | ~999 |
+| Prestigious | 53.00% | ~946 |
 | Fellowship Power | 41.00% | ~731 |
 | Guild Power | 25.00% | ~446 |
 | Prestigious x10 | 22.00% | ~392 |
@@ -18,8 +18,8 @@ Rating: 4.05 (Ranked 919)
 | Miner Clicker | 17.00% | ~303 |
 | Full Party | 16.00% | ~285 |
 | Inspection | 16.00% | ~285 |
-| Dragon Master | 15.00% | ~267 |
-| Enlightenment | 15.00% | ~267 |
+| Dragon Master | 15.00% | ~268 |
+| Enlightenment | 15.00% | ~268 |
 | Hero inspection | 14.00% | ~250 |
 | Lieutenant | 14.00% | ~250 |
 | Mysterious Rock | 13.00% | ~232 |
@@ -39,9 +39,9 @@ Rating: 4.05 (Ranked 919)
 | Frostfire Liberator | 10.00% | ~178 |
 | Moving Up The Ladder | 10.00% | ~178 |
 | Scroll Master | 10.00% | ~178 |
-| Here We Go Again | 9.00% | ~160 |
-| Master Enchanter | 9.00% | ~160 |
-| The father of Dragons | 9.00% | ~160 |
+| Here We Go Again | 9.00% | ~161 |
+| Master Enchanter | 9.00% | ~161 |
+| The father of Dragons | 9.00% | ~161 |
 | Trader | 8.00% | ~143 |
 | Crystal Mining | 7.00% | ~125 |
 | Dragon Slayer | 7.00% | ~125 |
@@ -60,8 +60,8 @@ Rating: 4.05 (Ranked 919)
 | Active Member | 4.00% | ~71 |
 | Arena Challenger | 4.00% | ~71 |
 | Legendary | 4.00% | ~71 |
-| Ebony Jungle Liberator | 3.00% | ~53 |
-| What lies behind the bush | 3.00% | ~53 |
+| Ebony Jungle Liberator | 3.00% | ~54 |
+| What lies behind the bush | 3.00% | ~54 |
 | Mythic Power | 2.00% | ~36 |
 | Gear Enchanting | 1.00% | ~18 |
 | Guardian Master | 1.00% | ~18 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 919)
 | Silverwood liberator | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,783 (Ranked 172)  
+Progressed: 1,784 (Ranked 172)  
 Completed: 2 (0.11%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,7 +192,7 @@ Completed: 2 (0.11%) (Ranked 195)
 | 2023-08-07 | 1,776 | 2 |
 | 2023-08-08 | 1,778 | 2 |
 | 2023-08-09 | 1,781 | 2 |
-| 2023-08-10 | 1,783 | 2 |
+| 2023-08-10 | 1,784 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

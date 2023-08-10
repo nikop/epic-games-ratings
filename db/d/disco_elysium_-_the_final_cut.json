@@ -2,7 +2,7 @@
   "ID": "ff52981b1d9947978153c7a7f8bc6d90",
   "Name": "Disco Elysium - The Final Cut",
   "ProductSlug": "disco-elysium",
-  "Ranking_Rating": 24,
+  "Ranking_Rating": 25,
   "Ranking_Popularity": 163,
   "Ranking_PopularitySum": 234,
   "Ranking_EOS_Progress": 66,
@@ -1241,9 +1241,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 125984,
+  "EOS_Progressed": 125985,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 515,
+  "EOS_NewPlayers": 513,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -12361,6 +12361,11 @@
       "Time": "2023-08-10T22:04:59.7444467+00:00",
       "NumProgressed": 125984,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-08-10T23:04:54.5784819+00:00",
+      "NumProgressed": 125985,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 40,
@@ -12476,7 +12481,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20157
+      "UsersEstimate": 20158
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -12691,15 +12696,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 125984,
+      "Progressed": 125985,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-08-04T01:55:33.6301654+00:00",
-  "LastChanged_Achievements": "2023-08-10T22:04:59.7444459+00:00",
+  "LastChanged_Achievements": "2023-08-10T23:04:54.5784815+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:08.5525123+00:00",
-  "LastUpdate_Ratings": "2023-08-10T22:01:29.066588+00:00",
-  "LastUpdate_Achievements": "2023-08-10T22:04:59.7446187+00:00"
+  "LastUpdate_Ratings": "2023-08-10T23:01:00.4036734+00:00",
+  "LastUpdate_Achievements": "2023-08-10T23:04:54.5785856+00:00"
 }

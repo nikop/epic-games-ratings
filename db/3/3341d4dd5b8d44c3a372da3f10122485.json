@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 346,
   "Ranking_EOS_Completed": 1,
   "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 16,
+  "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2005-12-08T12:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 64,
+  "EOS_Progressed": 65,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 11,
-  "EOS_Completed_Percentage": 48.44,
+  "EOS_Completed_Percentage": 47.69,
   "EosHistory": [
     {
       "Time": "2023-06-30T19:02:26.4579198+00:00",
@@ -456,6 +456,11 @@
       "Time": "2023-08-10T18:03:08.1228045+00:00",
       "NumProgressed": 64,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-08-10T23:03:19.5979884+00:00",
+      "NumProgressed": 65,
+      "NumCompleted": 31
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.1574321+00:00",
@@ -466,7 +471,7 @@
       "ID": "Budoar",
       "SetID": "823jm6g",
       "Name": "Budoir",
-      "Percentage": 77,
+      "Percentage": 75,
       "XP": 80,
       "UsersEstimate": 49
     },
@@ -476,7 +481,7 @@
       "Name": "Intro",
       "Percentage": 95,
       "XP": 75,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "Kanalizace",
@@ -484,7 +489,7 @@
       "Name": "Sewers",
       "Percentage": 86,
       "XP": 75,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "Kompotarna",
@@ -492,13 +497,13 @@
       "Name": "Pantry",
       "Percentage": 86,
       "XP": 80,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "Konec",
       "SetID": "823jm6g",
       "Name": "Happy End",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 75,
       "UsersEstimate": 33
     },
@@ -506,7 +511,7 @@
       "ID": "Les",
       "SetID": "823jm6g",
       "Name": "Woods",
-      "Percentage": 77,
+      "Percentage": 75,
       "XP": 80,
       "UsersEstimate": 49
     },
@@ -514,7 +519,7 @@
       "ID": "Majak",
       "SetID": "823jm6g",
       "Name": "Lighthouse",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 75,
       "UsersEstimate": 33
     },
@@ -522,7 +527,7 @@
       "ID": "Nora",
       "SetID": "823jm6g",
       "Name": "Burrow",
-      "Percentage": 77,
+      "Percentage": 75,
       "XP": 75,
       "UsersEstimate": 49
     },
@@ -530,7 +535,7 @@
       "ID": "Planina",
       "SetID": "823jm6g",
       "Name": "Plain",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 80,
       "UsersEstimate": 47
     },
@@ -540,7 +545,7 @@
       "Name": "Hatch",
       "Percentage": 89,
       "XP": 75,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "Snekoun",
@@ -548,7 +553,7 @@
       "Name": "Snailman",
       "Percentage": 88,
       "XP": 80,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "Sopouch",
@@ -556,13 +561,13 @@
       "Name": "Pit",
       "Percentage": 86,
       "XP": 75,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "Tuleni",
       "SetID": "823jm6g",
       "Name": "Seal Peaks",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 75,
       "UsersEstimate": 37
     }
@@ -571,14 +576,14 @@
     {
       "ID": "823jm6g",
       "IsBase": true,
-      "Progressed": 64,
+      "Progressed": 65,
       "Completed": 31
     }
   ],
   "FirstSeen": "2023-07-09T20:57:11.2117927+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2023-08-10T22:03:18.2334052+00:00",
+  "LastChanged_Achievements": "2023-08-10T23:03:19.5979877+00:00",
   "LastUpdate_AppInfo": "2023-08-04T15:57:20.6854378+00:00",
-  "LastUpdate_Ratings": "2023-08-10T21:58:09.2294774+00:00",
-  "LastUpdate_Achievements": "2023-08-10T22:03:18.2334315+00:00"
+  "LastUpdate_Ratings": "2023-08-10T22:58:14.1575232+00:00",
+  "LastUpdate_Achievements": "2023-08-10T23:03:19.5980012+00:00"
 }

@@ -158,6 +158,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Capturing Cities | 0.20% | ~27 |
 | Ten Crowns | 0.20% | ~27 |
 | Three Man Chariot | 0.20% | ~27 |
+| Siege Tower | 0.20% | ~27 |
 | Conquest Victory | 0.20% | ~27 |
 | Necropolis in Waset | 0.20% | ~27 |
 | Patriarch St Paul | 0.20% | ~27 |
@@ -255,7 +256,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Circus Maximus in Roma | 0.10% | ~13 |
 | Pantheon in Roma | 0.10% | ~13 |
 | Word of God | 0.10% | ~13 |
-| Siege Tower | 0.10% | ~13 |
 | Great Ziggurat in Ur | 0.10% | ~13 |
 | No Characters | 0.10% | ~13 |
 | One City Challenge | 0.10% | ~13 |

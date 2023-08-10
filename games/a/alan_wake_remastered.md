@@ -8,19 +8,19 @@ Number of Ratings: 524  (23.09.2022)
 | ---- | ---------- | ----- |
 | Follow the Light | 37.00% | ~22,443 |
 | Let There Be Light | 30.00% | ~18,197 |
-| Float Like a Butterfly | 29.00% | ~17,590 |
+| Float Like a Butterfly | 29.00% | ~17,591 |
 | Nordic Walking | 23.00% | ~13,951 |
-| Bright Falls' Finest | 22.00% | ~13,344 |
-| Under a Thin Layer of Skin | 20.00% | ~12,131 |
+| Bright Falls' Finest | 22.00% | ~13,345 |
+| Under a Thin Layer of Skin | 20.00% | ~12,132 |
 | Park Ranger | 16.00% | ~9,705 |
 | Paging Mr. Wake | 16.00% | ~9,705 |
-| Back! Back, I Say! | 15.00% | ~9,098 |
-| Finders Keepers | 15.00% | ~9,098 |
+| Back! Back, I Say! | 15.00% | ~9,099 |
+| Finders Keepers | 15.00% | ~9,099 |
 | Sound and Fury | 14.00% | ~8,492 |
 | Damn Good Cup of Coffee | 14.00% | ~8,492 |
-| Wheels Within Wheels | 13.00% | ~7,885 |
-| They're Heeeeeere! | 13.00% | ~7,885 |
-| Missed by a Mile | 13.00% | ~7,885 |
+| Wheels Within Wheels | 13.00% | ~7,886 |
+| They're Heeeeeere! | 13.00% | ~7,886 |
+| Missed by a Mile | 13.00% | ~7,886 |
 | Heavy Metal | 12.00% | ~7,279 |
 | Iron Horse | 12.00% | ~7,279 |
 | The Six-Gun Scribe | 12.00% | ~7,279 |
@@ -34,11 +34,11 @@ Number of Ratings: 524  (23.09.2022)
 | Energized! | 10.00% | ~6,066 |
 | The Lady of the Light | 9.00% | ~5,459 |
 | Right of Way | 9.00% | ~5,459 |
-| What Light Through Yonder Window | 8.00% | ~4,852 |
+| What Light Through Yonder Window | 8.00% | ~4,853 |
 | A Friend in Need | 8.00% | ~1,930 |
 | Tornado Wrangler | 7.00% | ~4,246 |
 | Departure | 7.00% | ~4,246 |
-| A Friend Indeed | 6.00% | ~1,447 |
+| A Friend Indeed | 6.00% | ~1,448 |
 | Children of the Elder God | 5.00% | ~3,033 |
 | Drink 'Em Both Up | 5.00% | ~3,033 |
 | Hardboiled Writer | 5.00% | ~3,033 |
@@ -52,16 +52,16 @@ Number of Ratings: 524  (23.09.2022)
 | Medical Opinions | 2.00% | ~1,213 |
 | Taken Season | 2.00% | ~1,213 |
 | An Idyllic Small Town | 2.00% | ~1,213 |
-| Iron Will | 2.00% | ~482 |
+| Iron Will | 2.00% | ~483 |
 | Couch Potato | 1.00% | ~607 |
 | Go Gentle Into That Good Light | 1.00% | ~241 |
 | Words Will Never Harm You | 0.70% | ~169 |
 | Cardboard Companions | 0.60% | ~145 |
 | Fast and Furious | 0.50% | ~121 |
-| Run-On Sentence | 0.40% | ~96 |
-| License Revoked | 0.40% | ~96 |
-| Whirlwind | 0.40% | ~96 |
-| Creative Space | 0.40% | ~96 |
+| Run-On Sentence | 0.40% | ~97 |
+| License Revoked | 0.40% | ~97 |
+| Whirlwind | 0.40% | ~97 |
+| Creative Space | 0.40% | ~97 |
 | Alan, Wake Up | 0.30% | ~182 |
 | Meet the Deadline | 0.30% | ~182 |
 | Picking Up After Yourself | 0.30% | ~182 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~61 |
 | No Punctuation | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,656 (Ranked 85)  
+Progressed: 60,658 (Ranked 85)  
 Completed: 64 (0.11%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,7 +186,7 @@ Completed: 64 (0.11%) (Ranked 195)
 | 2023-08-07 | 60,481 | 64 |
 | 2023-08-08 | 60,545 | 64 |
 | 2023-08-09 | 60,613 | 64 |
-| 2023-08-10 | 60,656 | 64 |
+| 2023-08-10 | 60,658 | 64 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

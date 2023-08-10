@@ -150,9 +150,9 @@
       "ID": "grp_endless",
       "SetID": "2gd32f",
       "Name": "That Sinking Feeling",
-      "Percentage": 6,
+      "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "grp_finallevel",
@@ -174,17 +174,17 @@
       "ID": "grp_level10",
       "SetID": "2gd32f",
       "Name": "Level 10!",
-      "Percentage": 11,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "grp_level20",
       "SetID": "2gd32f",
       "Name": "Level 20!",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "grp_level30",
@@ -269,8 +269,8 @@
   ],
   "FirstSeen": "2023-08-08T23:57:15.7691389+00:00",
   "FirstSeenAchievements": "2023-08-03T06:01:19.3820026+00:00",
-  "LastChanged_Achievements": "2023-08-10T22:03:42.7337351+00:00",
+  "LastChanged_Achievements": "2023-08-10T23:03:40.1384378+00:00",
   "LastUpdate_AppInfo": "2023-08-10T06:57:08.1237157+00:00",
-  "LastUpdate_Ratings": "2023-08-10T21:57:31.9304772+00:00",
-  "LastUpdate_Achievements": "2023-08-10T22:03:42.733758+00:00"
+  "LastUpdate_Ratings": "2023-08-10T22:57:47.3637094+00:00",
+  "LastUpdate_Achievements": "2023-08-10T23:03:40.1384504+00:00"
 }

@@ -1,16 +1,16 @@
 # Hi-Fi RUSH
 [Store](https://store.epicgames.com/en-US/p/hi-fi-rush)  
 [View Rawdata](../../db/h/hi-fi_rush.json)  
-Rating: 4.87 (Ranked 24)  
+Rating: 4.88 (Ranked 18)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Start with a bang! | 9.00% | ~345 |
 | Feeling the beat! | 9.00% | ~345 |
 | You can pet the cat! | 8.00% | ~307 |
-| Cream of the Crop | 7.00% | ~268 |
-| Thanks for the free chip, Peppermint! | 7.00% | ~268 |
-| Who put gears in there? | 7.00% | ~268 |
+| Cream of the Crop | 7.00% | ~269 |
+| Thanks for the free chip, Peppermint! | 7.00% | ~269 |
+| Who put gears in there? | 7.00% | ~269 |
 | I play my own way! | 6.00% | ~230 |
 | You got this, Peppermint? | 6.00% | ~230 |
 | Perfect Parry | 6.00% | ~230 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Voices from within | 0.10% | ~2 |
 | Low budget finish | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,835 (Ranked 147)  
+Progressed: 3,836 (Ranked 147)  
 Completed: 7 (0.18%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 7 (0.18%) (Ranked 181)
 | 2023-08-07 | 3,789 | 7 |
 | 2023-08-08 | 3,807 | 7 |
 | 2023-08-09 | 3,820 | 7 |
-| 2023-08-10 | 3,835 | 7 |
+| 2023-08-10 | 3,836 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -208,3 +208,4 @@ Completed: 7 (0.18%) (Ranked 181)
 | 2023-06-11 | 4.90 | 0 | 0 |
 | 2023-06-15 | 4.89 | 0 | 0 |
 | 2023-07-05 | 4.87 | 0 | 0 |
+| 2023-08-10 | 4.88 | 0 | 0 |

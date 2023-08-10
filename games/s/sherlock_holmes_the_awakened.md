@@ -5,37 +5,37 @@ Rating: 4.67 (Ranked 258)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| To Hell In A Handcart | 66.00% | ~391 |
+| To Hell In A Handcart | 66.00% | ~392 |
 | Read Between The Lines | 64.00% | ~380 |
 | High Profile | 59.00% | ~350 |
-| Whispers In The Dark | 58.00% | ~344 |
-| Fond Memories | 55.00% | ~326 |
-| A Method To His Madness | 54.00% | ~320 |
-| History Check | 53.00% | ~314 |
-| The New World | 50.00% | ~296 |
+| Whispers In The Dark | 58.00% | ~345 |
+| Fond Memories | 55.00% | ~327 |
+| A Method To His Madness | 54.00% | ~321 |
+| History Check | 53.00% | ~315 |
+| The New World | 50.00% | ~297 |
 | Open Sesame | 49.00% | ~291 |
 | Sticky Fingers | 49.00% | ~291 |
 | Knives Out | 49.00% | ~291 |
-| Land, Ho! | 49.00% | ~291 |
 | Lock, Stock, And Barrel | 48.00% | ~285 |
 | Gaze Into The Abyss | 48.00% | ~285 |
 | Back In The Saddle | 48.00% | ~285 |
+| Land, Ho! | 48.00% | ~285 |
 | No Man Is An Island | 47.00% | ~279 |
 | At Wits' End | 46.00% | ~273 |
 | Fhtagn! | 45.00% | ~267 |
-| Bookworm | 44.00% | ~261 |
 | Up In Flames | 44.00% | ~261 |
-| Going Once... | 40.00% | ~237 |
-| Let Me Be Frank | 39.00% | ~231 |
-| Brain Food | 38.00% | ~225 |
-| No Stone Unturned | 37.00% | ~219 |
-| Read It And Weep | 23.00% | ~136 |
+| Bookworm | 43.00% | ~255 |
+| Going Once... | 40.00% | ~238 |
+| Let Me Be Frank | 39.00% | ~232 |
+| Brain Food | 38.00% | ~226 |
+| No Stone Unturned | 37.00% | ~220 |
+| Read It And Weep | 23.00% | ~137 |
 | Curiosity Killed The Cat | 21.00% | ~125 |
 | Big Breakthrough | 14.00% | ~83 |
 | Reawakened | 5.00% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 593 (Ranked 218)  
-Completed: 25 (4.22%) (Ranked 54)  
+Progressed: 594 (Ranked 218)  
+Completed: 25 (4.21%) (Ranked 54)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -137,6 +137,7 @@ Completed: 25 (4.22%) (Ranked 54)
 | 2023-08-07 | 591 | 25 |
 | 2023-08-08 | 592 | 25 |
 | 2023-08-09 | 593 | 25 |
+| 2023-08-10 | 594 | 25 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

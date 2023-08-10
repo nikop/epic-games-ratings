@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 30,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
     "PcReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2138,
-  "EOS_Completed": 191,
-  "EOS_NewPlayers": 55,
-  "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 8.93,
+  "EOS_Progressed": 2139,
+  "EOS_Completed": 192,
+  "EOS_NewPlayers": 56,
+  "EOS_NewCompleters": 6,
+  "EOS_Completed_Percentage": 8.98,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -4798,6 +4798,11 @@
       "Time": "2023-08-10T20:04:37.857906+00:00",
       "NumProgressed": 2138,
       "NumCompleted": 191
+    },
+    {
+      "Time": "2023-08-10T23:04:36.386228+00:00",
+      "NumProgressed": 2139,
+      "NumCompleted": 192
     }
   ],
   "TotalAchievements": 12,
@@ -4825,7 +4830,7 @@
       "Name": "Building the Fox",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "Green Ticket Roundup",
@@ -4881,7 +4886,7 @@
       "Name": "May Their Memories be a Blessing",
       "Percentage": 9,
       "XP": 200,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "Nazis in Paris",
@@ -4904,16 +4909,16 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2138,
-      "Completed": 191
+      "Progressed": 2139,
+      "Completed": 192
     }
   ],
   "FirstSeen": "2023-02-19T22:57:55.1416262+00:00",
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-08-10T22:04:38.448369+00:00",
+  "LastChanged_Achievements": "2023-08-10T23:04:36.3862276+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:24.0632297+00:00",
-  "LastUpdate_Ratings": "2023-08-10T22:01:53.3656962+00:00",
-  "LastUpdate_Achievements": "2023-08-10T22:04:38.4484178+00:00"
+  "LastUpdate_Ratings": "2023-08-10T23:01:21.5286568+00:00",
+  "LastUpdate_Achievements": "2023-08-10T23:04:36.386274+00:00"
 }

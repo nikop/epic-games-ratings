@@ -6,35 +6,35 @@ Number of Ratings: 34  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 64.00% | ~292 |
+| Explorer | 64.00% | ~293 |
 | Cowardice | 56.00% | ~256 |
 | NO LIFE IS WORTH SAVING... | 49.00% | ~224 |
-| Eat Lead! | 46.00% | ~210 |
+| Eat Lead! | 47.00% | ~215 |
+| The Breaking Point | 43.00% | ~197 |
 | Here Comes the Boom | 43.00% | ~197 |
 | Prospector | 42.00% | ~192 |
-| The Breaking Point | 42.00% | ~192 |
-| Treasure Hunter | 39.00% | ~178 |
+| Treasure Hunter | 39.00% | ~179 |
 | Sniper Wolf | 38.00% | ~174 |
 | The Motivation | 37.00% | ~169 |
 | Heroism | 35.00% | ~160 |
 | Missing in Action | 35.00% | ~160 |
 | Collectibles of Chapter I | 33.00% | ~151 |
-| Consequences | 32.00% | ~146 |
+| Consequences | 32.00% | ~147 |
 | King of Knives | 31.00% | ~142 |
 | Opportunities | 30.00% | ~137 |
-| The Horror | 28.00% | ~128 |
-| The Difference | 25.00% | ~114 |
-| Vengeance | 23.00% | ~105 |
+| The Horror | 29.00% | ~133 |
+| The Difference | 26.00% | ~119 |
+| Vengeance | 24.00% | ~110 |
 | Collectibles of Chapter II | 22.00% | ~101 |
 | Broken Hopes | 21.00% | ~96 |
 | It's Just an Accident | 21.00% | ~96 |
-| Bullseye! | 20.00% | ~91 |
-| Sorrow | 18.00% | ~82 |
+| Bullseye! | 21.00% | ~96 |
+| Sorrow | 19.00% | ~87 |
 | Food Massacre | 18.00% | ~82 |
-| Atonement | 16.00% | ~73 |
+| Atonement | 17.00% | ~78 |
+| Collectibles of Chapter III | 15.00% | ~69 |
 | Collectibles of Chapter IV | 15.00% | ~69 |
 | Helping Hand | 15.00% | ~69 |
-| Collectibles of Chapter III | 14.00% | ~64 |
 | Without a Second Thought | 14.00% | ~64 |
 | Collectibles of Chapter V | 10.00% | ~46 |
 | Such is War! | 8.00% | ~37 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.00% | ~0 |
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 457 (Ranked 229)  
+Progressed: 458 (Ranked 227)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,7 +158,7 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-05 | 452 | 0 |
 | 2023-08-06 | 454 | 0 |
 | 2023-08-07 | 456 | 0 |
-| 2023-08-10 | 457 | 0 |
+| 2023-08-10 | 458 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
