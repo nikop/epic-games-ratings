@@ -6,13 +6,13 @@ Number of Ratings: 6,336  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escaped Tartarus | 89.00% | ~623,798 |
+| Escaped Tartarus | 89.00% | ~623,799 |
 | Escaped Asphodel | 80.00% | ~560,718 |
-| Arms Collector | 71.00% | ~497,637 |
-| Friends in High Places | 68.00% | ~476,610 |
-| Escaped Elysium | 66.00% | ~462,592 |
-| Chthonic Colleagues | 63.00% | ~441,565 |
-| Is There No Escape? | 52.00% | ~364,466 |
+| Arms Collector | 71.00% | ~497,638 |
+| Friends in High Places | 68.00% | ~476,611 |
+| Escaped Elysium | 66.00% | ~462,593 |
+| Chthonic Colleagues | 63.00% | ~441,566 |
+| Is There No Escape? | 52.00% | ~364,467 |
 | Death Dealer | 45.00% | ~315,404 |
 | Skelly Slayer | 42.00% | ~294,377 |
 | Well Stocked | 40.00% | ~280,359 |
@@ -27,14 +27,14 @@ Number of Ratings: 6,336  (23.09.2022)
 | Home Makeover | 27.00% | ~189,242 |
 | Had to Happen | 25.00% | ~175,224 |
 | The Family Secret | 25.00% | ~175,224 |
-| Tools of the Architect | 23.00% | ~161,206 |
-| Master of Arms | 23.00% | ~161,206 |
-| To Charon's Credit | 22.00% | ~154,197 |
-| Rare Collectible | 22.00% | ~154,197 |
-| Weapon of Fate | 21.00% | ~147,188 |
-| Something From Everyone | 19.00% | ~133,170 |
-| Hold the Onions | 18.00% | ~126,161 |
-| Well Versed | 17.00% | ~119,152 |
+| Tools of the Architect | 23.00% | ~161,207 |
+| Master of Arms | 23.00% | ~161,207 |
+| To Charon's Credit | 22.00% | ~154,198 |
+| Rare Collectible | 22.00% | ~154,198 |
+| Weapon of Fate | 21.00% | ~147,189 |
+| Something From Everyone | 19.00% | ~133,171 |
+| Hold the Onions | 18.00% | ~126,162 |
+| Well Versed | 17.00% | ~119,153 |
 | War-God's Bloodlust | 15.00% | ~105,135 |
 | Musician and Muse | 14.00% | ~98,126 |
 | The Useless Trinket | 13.00% | ~91,117 |
@@ -56,7 +56,7 @@ Number of Ratings: 6,336  (23.09.2022)
 | Thorn of Thanatos | 4.00% | ~28,036 |
 | Friends Forever | 4.00% | ~28,036 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 700,897 (Ranked 21)  
+Progressed: 700,898 (Ranked 21)  
 Completed: 6,284 (0.90%) (Ranked 116)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,7 +168,7 @@ Completed: 6,284 (0.90%) (Ranked 116)
 | 2023-08-07 | 700,717 | 6,282 |
 | 2023-08-08 | 700,790 | 6,283 |
 | 2023-08-09 | 700,878 | 6,283 |
-| 2023-08-10 | 700,897 | 6,284 |
+| 2023-08-10 | 700,898 | 6,284 |
 ## Awards
 Max (Character Customization): 3,205  (Ranked 91)  
 Sum: 7,766 (Ranked 101)  

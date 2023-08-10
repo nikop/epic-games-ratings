@@ -9,11 +9,11 @@ Number of Ratings: 12,664  (23.09.2022)
 | Sponsored by Argon | 0.90% | ~1,208 |
 | Titan's First Steps | 0.90% | ~1,208 |
 | Basic in Bulk | 0.80% | ~1,074 |
-| Tinkle of Coins | 0.70% | ~940 |
+| Tinkle of Coins | 0.80% | ~1,074 |
 | Disintermediation | 0.60% | ~805 |
+| It's Free Real Estate | 0.60% | ~805 |
 | Capitalism Ho! | 0.60% | ~805 |
 | Another Satisfied Customer | 0.50% | ~671 |
-| It's Free Real Estate | 0.50% | ~671 |
 | Budding Merchant | 0.50% | ~671 |
 | Own the Means of Production | 0.50% | ~671 |
 | One Easy Payment | 0.40% | ~537 |
@@ -46,6 +46,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Fated Encounters | 0.20% | ~268 |
 | For the Hoard! | 0.20% | ~268 |
 | Scrapbooker | 0.20% | ~268 |
+| Archivist | 0.20% | ~268 |
 | Locally Sourced | 0.20% | ~268 |
 | Flying off the Shelves | 0.20% | ~268 |
 | This Power Level...! | 0.20% | ~268 |
@@ -80,7 +81,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Thirst for Knowledge | 0.10% | ~134 |
 | Bane of Legends | 0.10% | ~134 |
 | Booty by the Boatload | 0.10% | ~134 |
-| Archivist | 0.10% | ~134 |
 | The Free Encyclopedia | 0.10% | ~134 |
 | Ultimate Collector | 0.10% | ~134 |
 | Fillin' the Bin | 0.10% | ~134 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Economy of Scarce | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,244 (Ranked 65)  
+Progressed: 134,247 (Ranked 65)  
 Completed: 131 (0.10%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,7 +231,7 @@ Completed: 131 (0.10%) (Ranked 199)
 | 2023-08-07 | 134,099 | 130 |
 | 2023-08-08 | 134,169 | 131 |
 | 2023-08-09 | 134,223 | 131 |
-| 2023-08-10 | 134,244 | 131 |
+| 2023-08-10 | 134,247 | 131 |
 ## Awards
 Max (Great for Beginners): 4,694  (Ranked 71)  
 Sum: 27,074 (Ranked 46)  

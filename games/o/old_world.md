@@ -80,6 +80,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mighty | 0.60% | ~80 |
 | Good Difficulty | 0.60% | ~80 |
 | Patrons | 0.60% | ~80 |
+| Statesmen | 0.60% | ~80 |
 | Persian Paganism | 0.60% | ~80 |
 | Building Wonders | 0.60% | ~80 |
 | Phalangite | 0.60% | ~80 |
@@ -87,7 +88,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lion | 0.50% | ~67 |
 | Subjugator | 0.50% | ~67 |
 | Victorious | 0.50% | ~67 |
-| Statesmen | 0.50% | ~67 |
 | Traders | 0.50% | ~67 |
 | Hittite Iron | 0.50% | ~67 |
 | Circus Maximus | 0.50% | ~67 |
@@ -418,7 +418,7 @@ Completed: 5 (0.04%) (Ranked 220)
 | 2023-08-10 | 13,345 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 265)  
-Sum: 1,786 (Ranked 206)  
+Sum: 1,787 (Ranked 206)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
@@ -427,7 +427,7 @@ Diff (max vs sum): 59
 | This game has Diverse Characters | 205 |
 | This game is Highly Recommended | 204 |
 | This game is Educational | 203 |
-| This game has Challenging Combat | 191 |
+| This game has Challenging Combat | 192 |
 | This game has Quickly Understood Controls | 189 |
 | This game has Amazing Characters | 188 |
 | This game has Amazing Storytelling | 182 |
@@ -546,3 +546,4 @@ Diff (max vs sum): 59
 | 2023-07-26 | 4.65 | - | 218 | 1,784 |
 | 2023-07-29 | 4.65 | - | 218 | 1,785 |
 | 2023-08-01 | 4.65 | - | 218 | 1,786 |
+| 2023-08-10 | 4.65 | - | 218 | 1,787 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -2380,9 +2380,9 @@
       "ID": "War_never_changes",
       "SetID": "85nb4h3",
       "Name": "War Never Changes",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 462
+      "UsersEstimate": 475
     },
     {
       "ID": "We_were_not_here",
@@ -2412,8 +2412,8 @@
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-08-10T10:05:09.2073075+00:00",
+  "LastChanged_Achievements": "2023-08-10T11:04:21.4752091+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:07.8032848+00:00",
-  "LastUpdate_Ratings": "2023-08-10T10:00:46.0209349+00:00",
-  "LastUpdate_Achievements": "2023-08-10T10:05:09.2073402+00:00"
+  "LastUpdate_Ratings": "2023-08-10T11:00:06.1210237+00:00",
+  "LastUpdate_Achievements": "2023-08-10T11:04:21.4752469+00:00"
 }

@@ -5512,9 +5512,9 @@
       "Count": 3732
     }
   ],
-  "EOS_Progressed": 134244,
+  "EOS_Progressed": 134247,
   "EOS_Completed": 131,
-  "EOS_NewPlayers": 465,
+  "EOS_NewPlayers": 467,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -16922,6 +16922,11 @@
       "Time": "2023-08-10T10:05:18.5714364+00:00",
       "NumProgressed": 134244,
       "NumCompleted": 131
+    },
+    {
+      "Time": "2023-08-10T11:04:29.980224+00:00",
+      "NumProgressed": 134247,
+      "NumCompleted": 131
     }
   ],
   "TotalAchievements": 112,
@@ -17139,9 +17144,9 @@
       "ID": "collection03",
       "SetID": "anfd17p",
       "Name": "Archivist",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 268
     },
     {
       "ID": "collection04",
@@ -17307,9 +17312,9 @@
       "ID": "expansion01",
       "SetID": "anfd17p",
       "Name": "It\u0027s Free Real Estate",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 671
+      "UsersEstimate": 805
     },
     {
       "ID": "expansion02",
@@ -17403,9 +17408,9 @@
       "ID": "gold01",
       "SetID": "anfd17p",
       "Name": "Tinkle of Coins",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 940
+      "UsersEstimate": 1074
     },
     {
       "ID": "gold02",
@@ -17828,15 +17833,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 134244,
+      "Progressed": 134247,
       "Completed": 131
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-08-10T05:59:33.8508186+00:00",
-  "LastChanged_Achievements": "2023-08-10T10:05:18.5714359+00:00",
+  "LastChanged_Achievements": "2023-08-10T11:04:29.9802233+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:21.2056858+00:00",
-  "LastUpdate_Ratings": "2023-08-10T10:00:00.7103357+00:00",
-  "LastUpdate_Achievements": "2023-08-10T10:05:18.5716322+00:00"
+  "LastUpdate_Ratings": "2023-08-10T10:59:26.2196171+00:00",
+  "LastUpdate_Achievements": "2023-08-10T11:04:29.9804258+00:00"
 }

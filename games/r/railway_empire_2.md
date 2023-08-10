@@ -31,8 +31,8 @@ Rating: 4.49 (Ranked 575)
 | All mine | 29.00% | ~516 |
 | Mole | 29.00% | ~516 |
 | Socializer | 29.00% | ~516 |
+| Country Life | 27.00% | ~480 |
 | General Manager | 26.00% | ~462 |
-| Country Life | 26.00% | ~462 |
 | Hostile Takeover | 25.00% | ~444 |
 | Seven at one stroke | 24.00% | ~427 |
 | Trailblazer | 21.00% | ~373 |

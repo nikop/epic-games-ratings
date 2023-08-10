@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 60623,
+  "EOS_Progressed": 60624,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 560,
+  "EOS_NewPlayers": 556,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -10802,6 +10802,11 @@
       "Time": "2023-08-10T09:06:32.7868482+00:00",
       "NumProgressed": 60623,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-10T11:04:46.7712265+00:00",
+      "NumProgressed": 60624,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -10821,7 +10826,7 @@
       "Name": "Nordic Walking",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 13943
+      "UsersEstimate": 13944
     },
     {
       "ID": "03",
@@ -11053,7 +11058,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9093
+      "UsersEstimate": 9094
     },
     {
       "ID": "32",
@@ -11133,7 +11138,7 @@
       "Name": "Finders Keepers",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9093
+      "UsersEstimate": 9094
     },
     {
       "ID": "42",
@@ -11221,7 +11226,7 @@
       "Name": "A Friend Indeed",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1445
+      "UsersEstimate": 1446
     },
     {
       "ID": "53",
@@ -11348,21 +11353,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 60623,
+      "Progressed": 60624,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 24091,
+      "Progressed": 24092,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-10T10:05:36.7988931+00:00",
+  "LastChanged_Achievements": "2023-08-10T11:04:46.7712253+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:26.4964539+00:00",
-  "LastUpdate_Ratings": "2023-08-10T09:59:05.694315+00:00",
-  "LastUpdate_Achievements": "2023-08-10T10:05:36.7990041+00:00"
+  "LastUpdate_Ratings": "2023-08-10T10:58:38.5869001+00:00",
+  "LastUpdate_Achievements": "2023-08-10T11:04:46.7713561+00:00"
 }

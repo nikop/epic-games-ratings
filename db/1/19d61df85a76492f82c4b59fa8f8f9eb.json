@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-eb6e37",
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 29,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 297,
+  "EOS_Progressed": 298,
   "EOS_Completed": 28,
   "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 9.43,
+  "EOS_Completed_Percentage": 9.4,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -1351,6 +1351,11 @@
       "Time": "2023-08-10T08:05:39.7074516+00:00",
       "NumProgressed": 297,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-08-10T11:05:35.421171+00:00",
+      "NumProgressed": 298,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 6,
@@ -1360,9 +1365,9 @@
       "ID": "CgkIgaGB2J0LEAIQAA",
       "SetID": "4ocea6d",
       "Name": "Printing Press",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 175,
-      "UsersEstimate": 178
+      "UsersEstimate": 176
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAQ",
@@ -1370,7 +1375,7 @@
       "Name": "File-cutter",
       "Percentage": 62,
       "XP": 165,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAg",
@@ -1409,14 +1414,14 @@
     {
       "ID": "4ocea6d",
       "IsBase": true,
-      "Progressed": 297,
+      "Progressed": 298,
       "Completed": 28
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-08-10T10:06:15.3063617+00:00",
+  "LastChanged_Achievements": "2023-08-10T11:05:35.4211704+00:00",
   "LastUpdate_AppInfo": "2023-08-03T14:57:18.1003103+00:00",
-  "LastUpdate_Ratings": "2023-08-10T09:58:12.2073374+00:00",
-  "LastUpdate_Achievements": "2023-08-10T10:06:15.3063747+00:00"
+  "LastUpdate_Ratings": "2023-08-10T10:57:51.1079628+00:00",
+  "LastUpdate_Achievements": "2023-08-10T11:05:35.4211875+00:00"
 }

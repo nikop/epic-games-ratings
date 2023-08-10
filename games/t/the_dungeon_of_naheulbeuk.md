@@ -7,6 +7,7 @@ Number of Ratings: 118  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Sowwy! | 2.00% | ~4,194 |
+| Alt+F4 | 0.20% | ~419 |
 | Livin' in a dwarven paradise | 0.10% | ~210 |
 | Cursed die | 0.10% | ~210 |
 | Holistic Adventuring Party | 0.10% | ~210 |
@@ -63,7 +64,6 @@ Number of Ratings: 118  (23.09.2022)
 | DM intervention | 0.10% | ~210 |
 | 100% satisfaction guarantee | 0.10% | ~210 |
 | Death is for wimps | 0.10% | ~210 |
-| Alt+F4 | 0.10% | ~210 |
 | The beards of change | 0.10% | ~210 |
 | An old poacher makes the best gamekeeper | 0.10% | ~210 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.10% | ~210 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Sleep schedule mastery | 0.00% | ~0 |
 | Dumb and dumber | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 209,685 (Ranked 55)  
+Progressed: 209,699 (Ranked 55)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-07 | 208,534 | 0 |
 | 2023-08-08 | 209,082 | 0 |
 | 2023-08-09 | 209,549 | 0 |
-| 2023-08-10 | 209,685 | 0 |
+| 2023-08-10 | 209,699 | 0 |
 ## Awards
 Max (Character Customization): 157  (Ranked 294)  
 Sum: 157 (Ranked 392)  
