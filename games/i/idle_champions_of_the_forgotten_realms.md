@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ambitious Speakers - Part 2 | 0.00% | ~0 |
 | An Icewind Dale Reunion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,471 (Ranked 52)  
+Progressed: 220,490 (Ranked 52)  
 Completed: 2,167 (0.98%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -635,7 +635,7 @@ Completed: 2,167 (0.98%) (Ranked 113)
 | 2023-08-07 | 219,734 | 2,162 |
 | 2023-08-08 | 220,011 | 2,165 |
 | 2023-08-09 | 220,283 | 2,167 |
-| 2023-08-10 | 220,471 | 2,167 |
+| 2023-08-10 | 220,490 | 2,167 |
 ## Awards
 Max (Diverse Characters): 5,136  (Ranked 67)  
 Sum: 30,985 (Ranked 38)  

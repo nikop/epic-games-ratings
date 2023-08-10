@@ -26,8 +26,8 @@
 | Medicine Tycoon | 5.00% | ~7 |
 | Supersoldier | 4.00% | ~5 |
 | Outdoor Decorator | 4.00% | ~5 |
+| Property Bro | 4.00% | ~5 |
 | Overpopulation | 3.00% | ~4 |
-| Property Bro | 3.00% | ~4 |
 | Human Resources | 3.00% | ~4 |
 | Training Camp | 3.00% | ~4 |
 | No News is Good News | 2.00% | ~3 |

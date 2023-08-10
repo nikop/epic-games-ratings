@@ -9,25 +9,25 @@
 | Good Person Chip | 84.00% | ~204 |
 | First winning | 83.00% | ~202 |
 | Your first job | 83.00% | ~202 |
-| Old movies enjoyer | 78.00% | ~190 |
-| Fitness professional | 76.00% | ~185 |
+| Old movies enjoyer | 79.00% | ~192 |
+| Fitness professional | 77.00% | ~187 |
 | First defeat | 76.00% | ~185 |
 | Depressed visitor | 76.00% | ~185 |
+| Neurotrainer – power gainer! | 75.00% | ~182 |
 | Employee of the week | 75.00% | ~182 |
-| Neurotrainer – power gainer! | 74.00% | ~180 |
-| Your own amateur gym | 73.00% | ~177 |
+| Your own amateur gym | 74.00% | ~180 |
 | Run K, run! | 72.00% | ~175 |
+| Fighting is cool | 68.00% | ~165 |
 | Hello, world! | 68.00% | ~165 |
-| Fighting is cool | 67.00% | ~163 |
 | No bullying more | 67.00% | ~163 |
 | Pal of your father? | 65.00% | ~158 |
-| Employee of the month | 63.00% | ~153 |
+| Employee of the month | 64.00% | ~156 |
 | Spirit of the past | 62.00% | ~151 |
 | Law student | 60.00% | ~146 |
+| Workout professional | 58.00% | ~141 |
 | Little hacker | 58.00% | ~141 |
 | It's good to be alive | 58.00% | ~141 |
 | Own four walls | 58.00% | ~141 |
-| Workout professional | 57.00% | ~139 |
 | Champion – starter pack | 57.00% | ~139 |
 | Intriguing candies | 57.00% | ~139 |
 | Handyman | 56.00% | ~136 |

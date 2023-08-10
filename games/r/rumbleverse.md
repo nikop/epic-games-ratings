@@ -1,12 +1,12 @@
 # Rumbleverse
 [Store](https://store.epicgames.com/en-US/p/rumbleverse)  
 [View Rawdata](../../db/r/rumbleverse.json)  
-Rating: 4.42 (Ranked 666)  
+Rating: 4.42 (Ranked 665)  
 Number of Ratings: 61,855  (23.09.2022)  
 ## Awards
-Max (Competitive Players): 6,689  (Ranked 50)  
+Max (Competitive Players): 6,689  (Ranked 51)  
 Sum: 53,955 (Ranked 22)  
-Diff (max vs sum): 28  
+Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
 | This game has Competitive Players | 6,689 |

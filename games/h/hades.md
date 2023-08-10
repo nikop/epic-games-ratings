@@ -6,40 +6,40 @@ Number of Ratings: 6,336  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escaped Tartarus | 89.00% | ~623,817 |
-| Escaped Asphodel | 80.00% | ~560,734 |
-| Arms Collector | 71.00% | ~497,652 |
-| Friends in High Places | 68.00% | ~476,624 |
-| Escaped Elysium | 66.00% | ~462,606 |
-| Chthonic Colleagues | 63.00% | ~441,578 |
-| Is There No Escape? | 52.00% | ~364,477 |
-| Death Dealer | 45.00% | ~315,413 |
-| Skelly Slayer | 42.00% | ~294,386 |
-| Well Stocked | 40.00% | ~280,367 |
-| Back to Work | 38.00% | ~266,349 |
-| Day-or-Night Trader | 37.00% | ~259,340 |
-| Blessed by the Gods | 37.00% | ~259,340 |
-| Urge to Sing | 36.00% | ~252,330 |
-| Blood Bound | 35.00% | ~245,321 |
-| Three-Headed Boy | 32.00% | ~224,294 |
-| River Denizens | 28.00% | ~196,257 |
-| Grown Close | 28.00% | ~196,257 |
-| Home Makeover | 27.00% | ~189,248 |
+| Escaped Tartarus | 89.00% | ~623,821 |
+| Escaped Asphodel | 80.00% | ~560,738 |
+| Arms Collector | 71.00% | ~497,655 |
+| Friends in High Places | 68.00% | ~476,627 |
+| Escaped Elysium | 66.00% | ~462,609 |
+| Chthonic Colleagues | 63.00% | ~441,581 |
+| Is There No Escape? | 52.00% | ~364,479 |
+| Death Dealer | 45.00% | ~315,415 |
+| Skelly Slayer | 42.00% | ~294,387 |
+| Well Stocked | 40.00% | ~280,369 |
+| Back to Work | 38.00% | ~266,350 |
+| Day-or-Night Trader | 37.00% | ~259,341 |
+| Blessed by the Gods | 37.00% | ~259,341 |
+| Urge to Sing | 36.00% | ~252,332 |
+| Blood Bound | 35.00% | ~245,323 |
+| Three-Headed Boy | 32.00% | ~224,295 |
+| River Denizens | 28.00% | ~196,258 |
+| Grown Close | 28.00% | ~196,258 |
+| Home Makeover | 27.00% | ~189,249 |
 | Had to Happen | 25.00% | ~175,230 |
 | The Family Secret | 25.00% | ~175,230 |
-| Tools of the Architect | 23.00% | ~161,211 |
-| Master of Arms | 23.00% | ~161,211 |
-| To Charon's Credit | 22.00% | ~154,202 |
-| Rare Collectible | 22.00% | ~154,202 |
-| Weapon of Fate | 21.00% | ~147,193 |
-| Something From Everyone | 19.00% | ~133,174 |
-| Hold the Onions | 18.00% | ~126,165 |
-| Well Versed | 17.00% | ~119,156 |
+| Tools of the Architect | 23.00% | ~161,212 |
+| Master of Arms | 23.00% | ~161,212 |
+| To Charon's Credit | 22.00% | ~154,203 |
+| Rare Collectible | 22.00% | ~154,203 |
+| Weapon of Fate | 21.00% | ~147,194 |
+| Something From Everyone | 19.00% | ~133,175 |
+| Hold the Onions | 18.00% | ~126,166 |
+| Well Versed | 17.00% | ~119,157 |
 | War-God's Bloodlust | 15.00% | ~105,138 |
 | Musician and Muse | 14.00% | ~98,129 |
-| The Useless Trinket | 13.00% | ~91,119 |
-| Champion of Elysium | 13.00% | ~91,119 |
-| Slashed Benefits | 12.00% | ~84,110 |
+| The Useless Trinket | 13.00% | ~91,120 |
+| Champion of Elysium | 13.00% | ~91,120 |
+| Slashed Benefits | 12.00% | ~84,111 |
 | Haste of Hermes | 11.00% | ~77,101 |
 | Bad Call | 10.00% | ~70,092 |
 | Nyx's Mirror | 10.00% | ~70,092 |
@@ -48,16 +48,16 @@ Number of Ratings: 6,336  (23.09.2022)
 | Dark Reflections | 9.00% | ~63,083 |
 | Thanks, But No Thanks | 9.00% | ~63,083 |
 | Infernal Arms | 9.00% | ~63,083 |
-| Divided by Death | 8.00% | ~56,073 |
-| Harsh Conditions | 7.00% | ~49,064 |
-| One for the Ages | 7.00% | ~49,064 |
+| Divided by Death | 8.00% | ~56,074 |
+| Harsh Conditions | 7.00% | ~49,065 |
+| One for the Ages | 7.00% | ~49,065 |
 | Complete Set | 6.00% | ~42,055 |
 | Skelly's Last Lamentations | 6.00% | ~42,055 |
 | Thorn of Thanatos | 4.00% | ~28,037 |
 | Friends Forever | 4.00% | ~28,037 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 700,918 (Ranked 21)  
-Completed: 6,286 (0.90%) (Ranked 116)  
+Progressed: 700,922 (Ranked 21)  
+Completed: 6,287 (0.90%) (Ranked 116)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -168,7 +168,7 @@ Completed: 6,286 (0.90%) (Ranked 116)
 | 2023-08-07 | 700,717 | 6,282 |
 | 2023-08-08 | 700,790 | 6,283 |
 | 2023-08-09 | 700,878 | 6,283 |
-| 2023-08-10 | 700,918 | 6,286 |
+| 2023-08-10 | 700,922 | 6,287 |
 ## Awards
 Max (Character Customization): 3,205  (Ranked 91)  
 Sum: 7,766 (Ranked 101)  

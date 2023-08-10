@@ -720,9 +720,9 @@
       "ID": "ACHIEVEMENT_ID_25",
       "SetID": "c504de6",
       "Name": "Property Bro",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_ID_26",
@@ -935,8 +935,8 @@
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2023-08-10T16:06:04.2312821+00:00",
+  "LastChanged_Achievements": "2023-08-10T17:06:01.5766604+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:41.7077293+00:00",
-  "LastUpdate_Ratings": "2023-08-10T16:00:58.6330487+00:00",
-  "LastUpdate_Achievements": "2023-08-10T16:06:04.231318+00:00"
+  "LastUpdate_Ratings": "2023-08-10T17:00:45.6926656+00:00",
+  "LastUpdate_Achievements": "2023-08-10T17:06:01.5766945+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -1515,9 +1515,9 @@
       "ID": "Calculated",
       "SetID": "1e89b4i",
       "Name": "Calculated",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 88
+      "UsersEstimate": 92
     },
     {
       "ID": "Close",
@@ -1675,9 +1675,9 @@
       "ID": "NewRecord",
       "SetID": "1e89b4i",
       "Name": "New Record",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 151
+      "UsersEstimate": 155
     },
     {
       "ID": "NoTimeForModernization",
@@ -1818,8 +1818,8 @@
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-08-10T16:04:56.4772136+00:00",
+  "LastChanged_Achievements": "2023-08-10T17:04:59.9335143+00:00",
   "LastUpdate_AppInfo": "2023-08-08T09:57:08.8049203+00:00",
-  "LastUpdate_Ratings": "2023-08-10T15:58:18.0924389+00:00",
-  "LastUpdate_Achievements": "2023-08-10T16:04:56.4772481+00:00"
+  "LastUpdate_Ratings": "2023-08-10T16:58:22.0349319+00:00",
+  "LastUpdate_Achievements": "2023-08-10T17:04:59.9335497+00:00"
 }

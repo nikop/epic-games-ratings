@@ -2,9 +2,9 @@
   "ID": "42b8b899a3f349bd8376264ccee3cd2a",
   "Name": "Shadow Gambit: The Cursed Crew",
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
-  "Ranking_EOS_Progress": 459,
+  "Ranking_EOS_Progress": 453,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 256,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 4,
+  "EOS_Progressed": 5,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38,6 +38,11 @@
     {
       "Time": "2023-08-09T16:05:10.9870995+00:00",
       "NumProgressed": 4,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-10T17:06:00.3000269+00:00",
+      "NumProgressed": 5,
       "NumCompleted": 0
     }
   ],
@@ -57,7 +62,7 @@
       "ID": "_02_FinishFirstMission",
       "SetID": "8a1io5d",
       "Name": "A New Journey",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -65,7 +70,7 @@
       "ID": "_03_FinishAct1",
       "SetID": "8a1io5d",
       "Name": "The Adventure Begins",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -81,7 +86,7 @@
       "ID": "_05_FinishAct2",
       "SetID": "8a1io5d",
       "Name": "The Gambit Has Begun",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -105,7 +110,7 @@
       "ID": "_08_Completion_10",
       "SetID": "8a1io5d",
       "Name": "Swabbie",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -113,7 +118,7 @@
       "ID": "_09_Completion_20",
       "SetID": "8a1io5d",
       "Name": "Powder Monkey",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -121,7 +126,7 @@
       "ID": "_10_Completion_30",
       "SetID": "8a1io5d",
       "Name": "Buccaneer",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -129,7 +134,7 @@
       "ID": "_11_Completion_40",
       "SetID": "8a1io5d",
       "Name": "Seadog",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -137,7 +142,7 @@
       "ID": "_12_Completion_50",
       "SetID": "8a1io5d",
       "Name": "Privateer",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -145,7 +150,7 @@
       "ID": "_13_Completion_60",
       "SetID": "8a1io5d",
       "Name": "Corsair",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -153,7 +158,7 @@
       "ID": "_14_Completion_70",
       "SetID": "8a1io5d",
       "Name": "Freebooter",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -161,7 +166,7 @@
       "ID": "_15_Completion_80",
       "SetID": "8a1io5d",
       "Name": "Marauder",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 125,
       "UsersEstimate": 1
     },
@@ -169,7 +174,7 @@
       "ID": "_16_UnlockCore8Characters",
       "SetID": "8a1io5d",
       "Name": "Pirates Assemble!",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -177,7 +182,7 @@
       "ID": "_17_UpgradeFirstCharacter",
       "SetID": "8a1io5d",
       "Name": "With Great Power\u2026",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -185,7 +190,7 @@
       "ID": "_18_UpgradeAllCharacters",
       "SetID": "8a1io5d",
       "Name": "Fully Decked",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 125,
       "UsersEstimate": 1
     },
@@ -249,7 +254,7 @@
       "ID": "_26_ReviveVirgilio",
       "SetID": "8a1io5d",
       "Name": "Welcome Back Jester",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 140,
       "UsersEstimate": 1
     }
@@ -258,13 +263,13 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 4,
+      "Progressed": 5,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-10T16:06:02.7569091+00:00",
+  "LastChanged_Achievements": "2023-08-10T17:06:00.3000265+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:49.0938842+00:00",
-  "LastUpdate_Ratings": "2023-08-10T15:59:53.0829296+00:00",
-  "LastUpdate_Achievements": "2023-08-10T16:06:02.7569254+00:00"
+  "LastUpdate_Ratings": "2023-08-10T16:59:49.0416154+00:00",
+  "LastUpdate_Achievements": "2023-08-10T17:06:00.3000452+00:00"
 }

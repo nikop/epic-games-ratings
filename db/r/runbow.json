@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 247859,
+  "EOS_Progressed": 247863,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 305,
+  "EOS_NewPlayers": 308,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10834,6 +10834,11 @@
       "Time": "2023-08-10T15:04:07.5961821+00:00",
       "NumProgressed": 247859,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-10T17:04:36.9345959+00:00",
+      "NumProgressed": 247863,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 46,
@@ -10869,7 +10874,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 52050
+      "UsersEstimate": 52051
     },
     {
       "ID": "blotbuster",
@@ -10901,7 +10906,7 @@
       "Name": "Can You Dig It?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 42136
+      "UsersEstimate": 42137
     },
     {
       "ID": "cantBeKeptDown",
@@ -10949,7 +10954,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 49572
+      "UsersEstimate": 49573
     },
     {
       "ID": "didYourTime",
@@ -11021,7 +11026,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 131365
+      "UsersEstimate": 131367
     },
     {
       "ID": "indegestible",
@@ -11045,7 +11050,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 64443
+      "UsersEstimate": 64444
     },
     {
       "ID": "justABit",
@@ -11077,7 +11082,7 @@
       "Name": "Muddy Waters",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 34700
+      "UsersEstimate": 34701
     },
     {
       "ID": "myFirstRunbow",
@@ -11085,7 +11090,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 123930
+      "UsersEstimate": 123932
     },
     {
       "ID": "notScared",
@@ -11149,7 +11154,7 @@
       "Name": "The Stunner",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 54529
+      "UsersEstimate": 54530
     },
     {
       "ID": "thunderstruck",
@@ -11205,14 +11210,14 @@
       "Name": "You Juan-A-Go?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 39657
+      "UsersEstimate": 39658
     }
   ],
   "AchievementSets": [
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 247859,
+      "Progressed": 247863,
       "Completed": 3
     }
   ],
@@ -11220,8 +11225,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-08-10T16:04:31.05122+00:00",
+  "LastChanged_Achievements": "2023-08-10T17:04:36.9345952+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:08.7397678+00:00",
-  "LastUpdate_Ratings": "2023-08-10T16:01:32.9418893+00:00",
-  "LastUpdate_Achievements": "2023-08-10T16:04:31.0513206+00:00"
+  "LastUpdate_Ratings": "2023-08-10T17:01:16.5938002+00:00",
+  "LastUpdate_Achievements": "2023-08-10T17:04:36.9346732+00:00"
 }

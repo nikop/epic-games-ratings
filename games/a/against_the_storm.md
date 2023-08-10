@@ -43,8 +43,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Defying the Crown | 2.00% | ~325 |
 | Into the Forest | 2.00% | ~325 |
 | Efficient Explorer | 1.00% | ~162 |
+| Prestigious Expedition | 0.90% | ~146 |
 | Feeding The People | 0.80% | ~130 |
-| Prestigious Expedition | 0.80% | ~130 |
 | Blood Flower Farmer | 0.80% | ~130 |
 | Victory through Prosperity | 0.80% | ~130 |
 | Lizard Utopia | 0.60% | ~97 |

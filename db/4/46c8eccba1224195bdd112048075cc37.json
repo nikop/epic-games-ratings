@@ -4,8 +4,8 @@
   "ProductSlug": "one-more-dungeon-2-532228",
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-06-09T14:30:00+00:00",
     "PcReleaseDate": "2022-09-19T02:00:00+00:00",
@@ -661,9 +661,9 @@
       "ID": "ChangeClass",
       "SetID": "7g1kpc8",
       "Name": "Metamorphosis",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "CollectCurses",
@@ -701,9 +701,9 @@
       "ID": "FirstBlood",
       "SetID": "7g1kpc8",
       "Name": "First Blood",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "FirstBoss",
@@ -717,9 +717,9 @@
       "ID": "FirstStep",
       "SetID": "7g1kpc8",
       "Name": "Start of the Path",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "FourthBoss",
@@ -812,8 +812,8 @@
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-08-10T16:07:18.8469868+00:00",
+  "LastChanged_Achievements": "2023-08-10T17:07:10.4408958+00:00",
   "LastUpdate_AppInfo": "2023-08-07T10:57:12.4995451+00:00",
-  "LastUpdate_Ratings": "2023-08-10T15:58:34.969727+00:00",
-  "LastUpdate_Achievements": "2023-08-10T16:07:18.847008+00:00"
+  "LastUpdate_Ratings": "2023-08-10T16:58:36.1903919+00:00",
+  "LastUpdate_Achievements": "2023-08-10T17:07:10.4409108+00:00"
 }

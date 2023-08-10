@@ -95,9 +95,9 @@
       "ID": "Buckets and Bouquets",
       "SetID": "dene75h",
       "Name": "Buckets and Bouquets",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Concerted Effort",
@@ -159,9 +159,9 @@
       "ID": "Fruit Salad",
       "SetID": "dene75h",
       "Name": "Fruit Salad",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Grand Circus",
@@ -335,9 +335,9 @@
       "ID": "Squirrelly",
       "SetID": "dene75h",
       "Name": "Squirrelly",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Sweeter Shooter",
@@ -373,8 +373,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-21T10:01:39.9967766+00:00",
-  "LastChanged_Achievements": "2023-08-10T16:04:49.3410101+00:00",
+  "LastChanged_Achievements": "2023-08-10T17:04:53.152303+00:00",
   "LastUpdate_AppInfo": "2023-08-04T11:57:00.8363685+00:00",
-  "LastUpdate_Ratings": "2023-08-10T15:57:51.9574573+00:00",
-  "LastUpdate_Achievements": "2023-08-10T16:04:49.3410595+00:00"
+  "LastUpdate_Ratings": "2023-08-10T16:58:02.6209194+00:00",
+  "LastUpdate_Achievements": "2023-08-10T17:04:53.152327+00:00"
 }

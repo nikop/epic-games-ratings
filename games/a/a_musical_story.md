@@ -10,7 +10,7 @@
 | Assembly Line Work | 87.00% | ~80 |
 | Solitude | 82.00% | ~75 |
 | Pinewood, Here we come! | 74.00% | ~68 |
-| The Van | 67.00% | ~62 |
+| The Van | 68.00% | ~63 |
 | Road-Trip | 61.00% | ~56 |
 | A Musical Pause | 59.00% | ~54 |
 | Briget's | 49.00% | ~45 |

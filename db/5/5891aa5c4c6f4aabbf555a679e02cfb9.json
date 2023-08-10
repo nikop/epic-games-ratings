@@ -19,7 +19,7 @@
   "Tags": [],
   "EOS_Progressed": 38,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -298,9 +298,9 @@
       "ID": "ACHIEVEMENT_13",
       "SetID": "b36c5kb",
       "Name": "Fire Walk With Me",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -546,9 +546,9 @@
       "ID": "ACHIEVEMENT_44",
       "SetID": "b36c5kb",
       "Name": "Bootable Offense",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_45",
@@ -617,8 +617,8 @@
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-08-10T16:04:20.2180489+00:00",
+  "LastChanged_Achievements": "2023-08-10T17:04:27.5255948+00:00",
   "LastUpdate_AppInfo": "2023-08-09T15:57:03.4224426+00:00",
-  "LastUpdate_Ratings": "2023-08-10T15:57:36.7732495+00:00",
-  "LastUpdate_Achievements": "2023-08-10T16:04:20.218103+00:00"
+  "LastUpdate_Ratings": "2023-08-10T16:57:45.7359277+00:00",
+  "LastUpdate_Achievements": "2023-08-10T17:04:27.5256305+00:00"
 }

@@ -34,10 +34,10 @@ Number of Ratings: 2,847  (23.09.2022)
 | Called to their Labor | 6.00% | ~65 |
 | From the Clouds to the Depths | 5.00% | ~54 |
 | Explorer | 5.00% | ~54 |
+| Terror of the White March | 5.00% | ~54 |
 | Chef | 4.00% | ~44 |
 | Scribe | 4.00% | ~44 |
 | Appease All of the Gods | 4.00% | ~44 |
-| Terror of the White March | 4.00% | ~44 |
 | Won the Game!!! | 3.00% | ~33 |
 | The Storied Adventurer | 3.00% | ~33 |
 | Among the Moss and Peat | 2.00% | ~22 |

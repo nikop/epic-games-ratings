@@ -56,6 +56,7 @@ Rating: 4.87 (Ranked 24)
 | Problem solved... wait, what? | 0.20% | ~8 |
 | Now this is how you fight like a team! | 0.20% | ~8 |
 | It'll do, CNMN | 0.20% | ~5 |
+| That was just EVIL | 0.20% | ~5 |
 | Didn't skip a beat! | 0.10% | ~4 |
 | I can't see this ever being a problem again | 0.10% | ~4 |
 | I think that's enough health for now | 0.10% | ~4 |
@@ -72,7 +73,6 @@ Rating: 4.87 (Ranked 24)
 | I saw all those hits coming a measure away! | 0.10% | ~4 |
 | OK, I THINK I know what I'm doing now | 0.10% | ~4 |
 | Please don't make this awkward | 0.10% | ~2 |
-| That was just EVIL | 0.10% | ~2 |
 | It was all for this | 0.10% | ~2 |
 | Voices from within | 0.10% | ~2 |
 | Low budget finish | 0.10% | ~2 |
