@@ -22,6 +22,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Witchlight Carnival | 0.10% | ~187 |
 | A Monarch Among Us | 0.10% | ~187 |
 | A Dragon Against Us | 0.10% | ~187 |
+| A Familiar Behind Us | 0.10% | ~187 |
 | Thieves of the Coven | 0.10% | ~187 |
 | Sticky Fingers | 0.10% | ~187 |
 | Patron Party | 0.10% | ~187 |
@@ -360,6 +361,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Lost Hollyphant | 0.10% | ~187 |
 | Zapper Overload | 0.10% | ~187 |
 | Best Friend Search Squad! | 0.10% | ~187 |
+| An Even Worse Time in Avernus | 0.10% | ~187 |
 | Alterdeep | 0.10% | ~187 |
 | Elder Rune Attack | 0.10% | ~187 |
 | The Gargoyle | 0.10% | ~187 |
@@ -511,19 +513,17 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Chaotic Hunt for The Last Breath | 0.10% | ~187 |
 | To Infinity's and Beyond | 0.10% | ~187 |
 | There's a Flying Snake in my Boot! | 0.10% | ~187 |
-| A Familiar Behind Us | 0.00% | ~0 |
 | Second Third Out | 0.00% | ~0 |
 | End of the Line | 0.00% | ~0 |
 | The Loots of Loomlurch | 0.00% | ~0 |
 | Strength of Character | 0.00% | ~0 |
 | A Nimble Approach | 0.00% | ~0 |
 | Spirit of the Trickster Gods | 0.00% | ~0 |
-| An Even Worse Time in Avernus | 0.00% | ~0 |
 | Fire and Ice | 0.00% | ~0 |
 | Ambitious Speakers - Part 2 | 0.00% | ~0 |
 | An Icewind Dale Reunion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,362 (Ranked 52)  
+Progressed: 220,370 (Ranked 52)  
 Completed: 2,167 (0.98%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -635,7 +635,7 @@ Completed: 2,167 (0.98%) (Ranked 113)
 | 2023-08-07 | 219,734 | 2,162 |
 | 2023-08-08 | 220,011 | 2,165 |
 | 2023-08-09 | 220,283 | 2,167 |
-| 2023-08-10 | 220,362 | 2,167 |
+| 2023-08-10 | 220,370 | 2,167 |
 ## Awards
 Max (Diverse Characters): 5,128  (Ranked 67)  
 Sum: 30,973 (Ranked 38)  

@@ -19,8 +19,8 @@
 | The Shield | 38.00% | ~49 |
 | Kill-streak | 32.00% | ~42 |
 | Topped up | 27.00% | ~35 |
+| The Idol | 27.00% | ~35 |
 | The Bird | 27.00% | ~35 |
-| The Idol | 26.00% | ~34 |
 | The Ninja | 26.00% | ~34 |
 | Inferno Ruins | 25.00% | ~32 |
 | I'm Rich | 23.00% | ~30 |

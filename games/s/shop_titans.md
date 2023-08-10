@@ -61,6 +61,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Wealth Beyond Measure | 0.20% | ~268 |
 | Helping Hand | 0.20% | ~268 |
 | Fat Cat Tag Team | 0.20% | ~268 |
+| Laden with Loot | 0.20% | ~268 |
 | Natural 20 | 0.20% | ~268 |
 | Seasoned Journeyman | 0.20% | ~268 |
 | Black Friday Special | 0.20% | ~268 |
@@ -99,7 +100,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Master Merchant | 0.10% | ~134 |
 | Merchant Extraordinaire | 0.10% | ~134 |
 | Miracle Alchemist | 0.10% | ~134 |
-| Laden with Loot | 0.10% | ~134 |
 | Bountiful Harvest | 0.10% | ~134 |
 | Anything not Nailed Down | 0.10% | ~134 |
 | Precision Engineering | 0.10% | ~134 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Economy of Scarce | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,237 (Ranked 65)  
+Progressed: 134,239 (Ranked 65)  
 Completed: 131 (0.10%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,7 +231,7 @@ Completed: 131 (0.10%) (Ranked 199)
 | 2023-08-07 | 134,099 | 130 |
 | 2023-08-08 | 134,169 | 131 |
 | 2023-08-09 | 134,223 | 131 |
-| 2023-08-10 | 134,237 | 131 |
+| 2023-08-10 | 134,239 | 131 |
 ## Awards
 Max (Great for Beginners): 4,694  (Ranked 71)  
 Sum: 27,074 (Ranked 46)  

@@ -5,22 +5,22 @@ Rating: 3.94 (Ranked 938)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~53,008 |
-| First One’s Free | 65.00% | ~46,561 |
-| Neophyte Ninja | 50.00% | ~35,816 |
+| Downed but Not Outed | 74.00% | ~53,010 |
+| First One’s Free | 65.00% | ~46,563 |
+| Neophyte Ninja | 50.00% | ~35,818 |
 | Too Old for This | 47.00% | ~33,668 |
 | Case Closed | 35.00% | ~25,072 |
 | Fancy Pants | 35.00% | ~25,072 |
-| King of the Hill | 34.00% | ~24,355 |
+| King of the Hill | 34.00% | ~24,356 |
 | Underworld Initiate | 29.00% | ~20,774 |
 | Roid Ranger | 21.00% | ~15,043 |
-| True Player | 19.00% | ~13,610 |
-| Off the Rocks | 19.00% | ~13,610 |
+| True Player | 19.00% | ~13,611 |
+| Off the Rocks | 19.00% | ~13,611 |
 | Raider’s Ruin | 17.00% | ~12,178 |
 | Dragonslayer | 17.00% | ~12,178 |
-| Hidden Sonata | 13.00% | ~9,312 |
+| Hidden Sonata | 13.00% | ~9,313 |
 | Rockay Rex | 11.00% | ~7,880 |
-| Freebooter | 10.00% | ~7,163 |
+| Freebooter | 10.00% | ~7,164 |
 | Track Star | 9.00% | ~6,447 |
 | Ding Dong | 9.00% | ~6,447 |
 | Classy Joint | 9.00% | ~6,447 |
@@ -43,7 +43,7 @@ Rating: 3.94 (Ranked 938)
 | Geek Out | 0.60% | ~430 |
 | Full House | 0.20% | ~143 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 71,633 (Ranked 77)  
+Progressed: 71,635 (Ranked 77)  
 Completed: 37 (0.05%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,10 +155,10 @@ Completed: 37 (0.05%) (Ranked 216)
 | 2023-08-07 | 71,517 | 37 |
 | 2023-08-08 | 71,567 | 37 |
 | 2023-08-09 | 71,623 | 37 |
-| 2023-08-10 | 71,633 | 37 |
+| 2023-08-10 | 71,635 | 37 |
 ## Awards
 Max (Diverse Characters): 398  (Ranked 215)  
-Sum: 1,865 (Ranked 204)  
+Sum: 1,866 (Ranked 204)  
 Diff (max vs sum): 11  
 | Award | Count |
 | ----- | ----- |
@@ -166,7 +166,7 @@ Diff (max vs sum): 11
 | This game has Quickly Understood Controls | 377 |
 | This game is Highly Recommended | 377 |
 | This game has Challenging Combat | 360 |
-| This game has Amazing Characters | 353 |
+| This game has Amazing Characters | 354 |
 | This game is Great for Quick Sessions | 70 |
 | This game has Amazing Storytelling | 52 |
 | This game has a Silly Community | 33 |
@@ -305,3 +305,4 @@ Diff (max vs sum): 11
 | 2023-08-07 | 3.94 | 394 | 1,851 |
 | 2023-08-08 | 3.94 | 394 | 1,860 |
 | 2023-08-09 | 3.94 | 398 | 1,865 |
+| 2023-08-10 | 3.94 | 398 | 1,866 |

@@ -2,7 +2,7 @@
   "ID": "fc3850a91fb14145b4f4f6f3ed037a8b",
   "Name": "Gone Viral",
   "ProductSlug": "gone-viral-c60635",
-  "Ranking_EOS_Progress": 536,
+  "Ranking_EOS_Progress": 537,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 356,
   "Ranking_EOS_NewCompleters": 95,
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:04.9693494+00:00",
   "LastChanged": "2023-03-31T05:58:04.9693495+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:46.919036+00:00",
-  "LastUpdate_Ratings": "2023-08-10T06:59:33.8945187+00:00",
-  "LastUpdate_Achievements": "2023-08-10T07:04:21.5368469+00:00"
+  "LastUpdate_Ratings": "2023-08-10T07:59:29.8061194+00:00",
+  "LastUpdate_Achievements": "2023-08-10T08:04:10.0526567+00:00"
 }

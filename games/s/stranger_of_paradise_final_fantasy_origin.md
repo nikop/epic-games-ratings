@@ -54,7 +54,7 @@ Number of Ratings: 1,919  (23.09.2022)
 | A Tale of Origins and Endings | 2.00% | ~1,588 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 79,402 (Ranked 76)  
-Completed: 2,165 (2.73%) (Ranked 73)  
+Completed: 2,165 (2.73%) (Ranked 72)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

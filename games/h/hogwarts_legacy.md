@@ -19,8 +19,8 @@ Rating: 4.77 (Ranked 109)
 | Loom for Improvement | 9.00% | ~26,078 |
 | A Talent for Spending | 9.00% | ~26,078 |
 | Coasting Along | 9.00% | ~26,078 |
-| Followed the Butterflies | 8.00% | ~23,180 |
-| Rising From the Ashes | 8.00% | ~23,180 |
+| Followed the Butterflies | 8.00% | ~23,181 |
+| Rising From the Ashes | 8.00% | ~23,181 |
 | The Avenging Gazelle | 7.00% | ~20,283 |
 | A Sallow Grave | 7.00% | ~20,283 |
 | Flight the Good Flight | 7.00% | ~20,283 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,739 |
 | Collector's Edition | 0.30% | ~869 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 289,756 (Ranked 42)  
+Progressed: 289,758 (Ranked 42)  
 Completed: 445 (0.15%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 445 (0.15%) (Ranked 188)
 | 2023-08-07 | 289,620 | 443 |
 | 2023-08-08 | 289,682 | 443 |
 | 2023-08-09 | 289,736 | 444 |
-| 2023-08-10 | 289,756 | 445 |
+| 2023-08-10 | 289,758 | 445 |
 ## Awards
 Max (Character Customization): 21,636  (Ranked 17)  
 Sum: 40,737 (Ranked 30)  

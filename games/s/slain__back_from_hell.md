@@ -35,7 +35,7 @@ Rating: 4.28 (Ranked 798)
 | Too Metal For Magic | 0.10% | ~33 |
 | Heart Of Steel | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,298 (Ranked 98)  
+Progressed: 33,299 (Ranked 98)  
 Completed: 21 (0.06%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 21 (0.06%) (Ranked 210)
 | 2023-08-07 | 33,043 | 21 |
 | 2023-08-08 | 33,147 | 21 |
 | 2023-08-09 | 33,264 | 21 |
-| 2023-08-10 | 33,298 | 21 |
+| 2023-08-10 | 33,299 | 21 |
 ## Awards
 Max (Great Boss Battles): 126  (Ranked 310)  
 Sum: 126 (Ranked 403)  

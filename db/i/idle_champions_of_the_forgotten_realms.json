@@ -5692,9 +5692,9 @@
       "Count": 3347
     }
   ],
-  "EOS_Progressed": 220362,
+  "EOS_Progressed": 220370,
   "EOS_Completed": 2167,
-  "EOS_NewPlayers": 2238,
+  "EOS_NewPlayers": 2237,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -17767,6 +17767,11 @@
       "Time": "2023-08-10T07:03:27.065807+00:00",
       "NumProgressed": 220362,
       "NumCompleted": 2167
+    },
+    {
+      "Time": "2023-08-10T08:03:17.0707536+00:00",
+      "NumProgressed": 220370,
+      "NumCompleted": 2167
     }
   ],
   "TotalAchievements": 516,
@@ -17904,9 +17909,9 @@
       "ID": "objective_completed_1058",
       "SetID": "415jc5c",
       "Name": "A Familiar Behind Us",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 187
     },
     {
       "ID": "objective_completed_1060",
@@ -20664,9 +20669,9 @@
       "ID": "objective_completed_648",
       "SetID": "415jc5c",
       "Name": "An Even Worse Time in Avernus",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 187
     },
     {
       "ID": "objective_completed_655",
@@ -21905,21 +21910,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 186636,
-      "Completed": 3115
+      "Progressed": 186644,
+      "Completed": 3117
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 220362,
+      "Progressed": 220370,
       "Completed": 2167
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-10T01:59:54.4285799+00:00",
-  "LastChanged_Achievements": "2023-08-10T07:03:27.0658064+00:00",
+  "LastChanged_Achievements": "2023-08-10T08:03:17.0707527+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:58.6885063+00:00",
-  "LastUpdate_Ratings": "2023-08-10T06:58:54.8737485+00:00",
-  "LastUpdate_Achievements": "2023-08-10T07:03:27.0681492+00:00"
+  "LastUpdate_Ratings": "2023-08-10T07:58:53.2648618+00:00",
+  "LastUpdate_Achievements": "2023-08-10T08:03:17.074024+00:00"
 }

@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 296,
+  "EOS_Progressed": 297,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 9.46,
+  "EOS_Completed_Percentage": 9.43,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -1346,6 +1346,11 @@
       "Time": "2023-08-09T18:05:10.7110102+00:00",
       "NumProgressed": 296,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-08-10T08:05:39.7074516+00:00",
+      "NumProgressed": 297,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 6,
@@ -1373,7 +1378,7 @@
       "Name": "Viola Organista",
       "Percentage": 49,
       "XP": 165,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAw",
@@ -1395,23 +1400,23 @@
       "ID": "CgkIgaGB2J0LEAIQBQ",
       "SetID": "4ocea6d",
       "Name": "Flying Machine",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 165,
-      "UsersEstimate": 89
+      "UsersEstimate": 92
     }
   ],
   "AchievementSets": [
     {
       "ID": "4ocea6d",
       "IsBase": true,
-      "Progressed": 296,
+      "Progressed": 297,
       "Completed": 28
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-08-10T07:05:52.1527386+00:00",
+  "LastChanged_Achievements": "2023-08-10T08:05:39.7074507+00:00",
   "LastUpdate_AppInfo": "2023-08-03T14:57:18.1003103+00:00",
-  "LastUpdate_Ratings": "2023-08-10T06:57:45.8862758+00:00",
-  "LastUpdate_Achievements": "2023-08-10T07:05:52.1527517+00:00"
+  "LastUpdate_Ratings": "2023-08-10T07:57:40.916308+00:00",
+  "LastUpdate_Achievements": "2023-08-10T08:05:39.7074705+00:00"
 }

@@ -27,21 +27,21 @@ Number of Ratings: 1,845  (23.09.2022)
 | Cursed Lands | 3.00% | ~487 |
 | A Real Challenge | 3.00% | ~487 |
 | Trade Baron | 3.00% | ~487 |
-| Serving Ale | 2.00% | ~324 |
-| Refinery | 2.00% | ~324 |
-| Against All Odds | 2.00% | ~324 |
-| Ruined Armory | 2.00% | ~324 |
-| Dangerous Lands | 2.00% | ~324 |
-| Fishmen Ritual Site | 2.00% | ~324 |
-| Forbidden Lands | 2.00% | ~324 |
-| Haunted Forest | 2.00% | ~324 |
-| Flooded Mines | 2.00% | ~324 |
-| Monastery of the Holy Flame | 2.00% | ~324 |
-| Forsaken Gods Temple | 2.00% | ~324 |
-| Corrosive Torrent | 2.00% | ~324 |
-| Like a Machine | 2.00% | ~324 |
-| Defying the Crown | 2.00% | ~324 |
-| Into the Forest | 2.00% | ~324 |
+| Serving Ale | 2.00% | ~325 |
+| Refinery | 2.00% | ~325 |
+| Against All Odds | 2.00% | ~325 |
+| Ruined Armory | 2.00% | ~325 |
+| Dangerous Lands | 2.00% | ~325 |
+| Fishmen Ritual Site | 2.00% | ~325 |
+| Forbidden Lands | 2.00% | ~325 |
+| Haunted Forest | 2.00% | ~325 |
+| Flooded Mines | 2.00% | ~325 |
+| Monastery of the Holy Flame | 2.00% | ~325 |
+| Forsaken Gods Temple | 2.00% | ~325 |
+| Corrosive Torrent | 2.00% | ~325 |
+| Like a Machine | 2.00% | ~325 |
+| Defying the Crown | 2.00% | ~325 |
+| Into the Forest | 2.00% | ~325 |
 | Efficient Explorer | 1.00% | ~162 |
 | Feeding The People | 0.80% | ~130 |
 | Prestigious Expedition | 0.80% | ~130 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Higher Needs | 0.20% | ~32 |
 | Paradise | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,225 (Ranked 111)  
+Progressed: 16,226 (Ranked 111)  
 Completed: 42 (0.26%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,7 +169,7 @@ Completed: 42 (0.26%) (Ranked 166)
 | 2023-08-07 | 16,214 | 42 |
 | 2023-08-08 | 16,219 | 42 |
 | 2023-08-09 | 16,224 | 42 |
-| 2023-08-10 | 16,225 | 42 |
+| 2023-08-10 | 16,226 | 42 |
 ## Awards
 Max (Quickly Understood Controls): 422  (Ranked 208)  
 Sum: 3,099 (Ranked 159)  
