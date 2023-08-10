@@ -135,7 +135,7 @@
 | 118 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 41 | 422 |
 | 118 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.76 | 354 | 225 |
 | 135 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 26 | 473 |
-| 135 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 5,645 | 61 |
+| 135 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 5,651 | 61 |
 | 135 | [Diabotical](games/d/diabotical.md) | 4.75 | 272 | 245 |
 | 135 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 655 | 172 |
 | 135 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 43 | 418 |
@@ -848,7 +848,7 @@
 | 840 | [The Surge 2](games/t/the_surge_2.md) | 4.22 | 0 | 511 |
 | 840 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.22 | 78 | 363 |
 | 848 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 31 | 457 |
-| 848 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 15,238 | 23 |
+| 848 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 15,254 | 23 |
 | 848 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.21 | 0 | 511 |
 | 851 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 123 | 312 |
 | 851 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 121 | 315 |

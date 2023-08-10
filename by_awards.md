@@ -22,7 +22,7 @@
 | 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 17,487 | 4.89 | 12 |
 | 21 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 16,861 | 4.25 | 819 |
 | 22 | [Warframe](games/w/warframe.md) | 16,407 | 4.61 | 367 |
-| 23 | [League of Legends](games/l/league_of_legends.md) | 15,238 | 4.21 | 848 |
+| 23 | [League of Legends](games/l/league_of_legends.md) | 15,254 | 4.21 | 848 |
 | 24 | [Borderlands 2](games/b/borderlands_2.md) | 15,014 | 4.76 | 118 |
 | 25 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,442 | 4.58 | 426 |
 | 26 | [Maneater](games/m/maneater.md) | 13,615 | 4.49 | 575 |
@@ -60,7 +60,7 @@
 | 57 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 5,961 | 4.79 | 88 |
 | 59 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,827 | 4.66 | 274 |
 | 60 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,707 | 4.82 | 66 |
-| 61 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 5,645 | 4.75 | 135 |
+| 61 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 5,651 | 4.75 | 135 |
 | 62 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 5,639 | 4.69 | 212 |
 | 63 | [Prey](games/p/prey.md) | 5,631 | 4.62 | 349 |
 | 64 | [Dead Island 2](games/d/dead_island_2.md) | 5,598 | 4.54 | 497 |

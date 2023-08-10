@@ -38,8 +38,8 @@
 | 36 | [Scorn](games/s/scorn.md) | 6.95% |
 | 37 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.88% |
 | 38 | [Time Loader](games/t/time_loader.md) | 6.84% |
-| 39 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
-| 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.28% |
+| 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.54% |
+| 40 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 41 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 42 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.98% |
 | 43 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.56% |
@@ -56,7 +56,7 @@
 | 54 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.22% |
 | 55 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.98% |
 | 56 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.89% |
-| 57 | [ZZT!](games/z/zzt!.md) | 3.72% |
+| 57 | [ZZT!](games/z/zzt!.md) | 3.71% |
 | 58 | [Without Escape](games/w/without_escape.md) | 3.70% |
 | 59 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 60 | [Doodle God](games/d/doodle_god.md) | 3.46% |
@@ -234,22 +234,22 @@
 | 230 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 0.02% |
 | 230 | [Good Company](games/g/good_company.md) | 0.02% |
 | 230 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 0.02% |
+| 230 | [Remnant 2](games/r/remnant_2.md) | 0.02% |
 | 230 | [Saturnalia](games/s/saturnalia.md) | 0.02% |
 | 230 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
-| 237 | [Dead by Daylight](games/d/dead_by_daylight.md) | 0.01% |
-| 237 | [Deceive Inc.](games/d/deceive_inc..md) | 0.01% |
-| 237 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 0.01% |
-| 237 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 0.01% |
-| 237 | [Forspoken](games/f/forspoken.md) | 0.01% |
-| 237 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 0.01% |
-| 237 | [Remnant 2](games/r/remnant_2.md) | 0.01% |
-| 237 | [Rocket League®](games/r/rocket_league®.md) | 0.01% |
-| 237 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 0.01% |
-| 237 | [Severed Steel](games/s/severed_steel.md) | 0.01% |
-| 237 | [Sunless Sea](games/s/sunless_sea.md) | 0.01% |
-| 237 | [The Alto Collection](games/t/the_alto_collection.md) | 0.01% |
-| 237 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 0.01% |
-| 237 | [Verdun](games/v/verdun.md) | 0.01% |
+| 238 | [Dead by Daylight](games/d/dead_by_daylight.md) | 0.01% |
+| 238 | [Deceive Inc.](games/d/deceive_inc..md) | 0.01% |
+| 238 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 0.01% |
+| 238 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 0.01% |
+| 238 | [Forspoken](games/f/forspoken.md) | 0.01% |
+| 238 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 0.01% |
+| 238 | [Rocket League®](games/r/rocket_league®.md) | 0.01% |
+| 238 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 0.01% |
+| 238 | [Severed Steel](games/s/severed_steel.md) | 0.01% |
+| 238 | [Sunless Sea](games/s/sunless_sea.md) | 0.01% |
+| 238 | [The Alto Collection](games/t/the_alto_collection.md) | 0.01% |
+| 238 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 0.01% |
+| 238 | [Verdun](games/v/verdun.md) | 0.01% |
 | 251 | [](games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 0.00% |
 | 251 | ['n Verlore Verstand](games/'/'n_verlore_verstand.md) | 0.00% |
 | 251 | [12 orbits](games/1/12_orbits.md) | 0.00% |
@@ -534,4 +534,4 @@
 | 251 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 251 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 251 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,020 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,021 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
