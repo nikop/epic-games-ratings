@@ -150,10 +150,10 @@
 | 148 | [Tails of Iron](games/t/tails_of_iron.md) | 0.43% |
 | 149 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.41% |
 | 150 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.39% |
-| 151 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.37% |
-| 151 | [Ghostrunner](games/g/ghostrunner.md) | 0.37% |
-| 151 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
-| 151 | [Wildermyth](games/w/wildermyth.md) | 0.37% |
+| 151 | [Ghostrunner](games/g/ghostrunner.md) | 0.38% |
+| 152 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.37% |
+| 152 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
+| 152 | [Wildermyth](games/w/wildermyth.md) | 0.37% |
 | 155 | [The Surge](games/t/the_surge.md) | 0.35% |
 | 156 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.33% |
 | 156 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.33% |
@@ -535,4 +535,4 @@
 | 251 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 251 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 251 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,025 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,026 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
