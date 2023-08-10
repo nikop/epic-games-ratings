@@ -434,6 +434,7 @@
 | 251 | [Power Vacuum](games/8/80d6afef34fc4d3ea8a72c7820743fb8.md) | 0.00% |
 | 251 | [Prison Architect](games/p/prison_architect.md) | 0.00% |
 | 251 | [Project Highrise](games/p/project_highrise.md) | 0.00% |
+| 251 | [Project Nightmares Case 36: Henrietta Kedward](games/7/745fc8d94b6244caa3a97f453ddb92ca.md) | 0.00% |
 | 251 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 0.00% |
 | 251 | [Puzzle Compound](games/d/dc0f95061f7746e3b4ad939bee60f1a3.md) | 0.00% |
 | 251 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.00% |
