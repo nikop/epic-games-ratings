@@ -14,7 +14,7 @@
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
 | 13 | [Island Cities](games/i/island_cities.md) | 18.12% |
 | 14 | [Afterglitch](games/a/afterglitch.md) | 16.67% |
-| 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 14.29% |
+| 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 14.16% |
 | 16 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 13.94% |
 | 17 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 12.50% |
 | 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.01% |
@@ -29,7 +29,7 @@
 | 26 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.76% |
 | 28 | [Sonic Origins](games/s/sonic_origins.md) | 9.74% |
 | 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.46% |
-| 30 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.97% |
+| 30 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.96% |
 | 31 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.50% |
 | 32 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.47% |
 | 33 | [Smelter](games/s/smelter.md) | 7.69% |
@@ -39,7 +39,7 @@
 | 37 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.88% |
 | 38 | [Time Loader](games/t/time_loader.md) | 6.84% |
 | 39 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
-| 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.32% |
+| 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.28% |
 | 41 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 42 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.98% |
 | 43 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.56% |
@@ -50,7 +50,7 @@
 | 48 | [JARS](games/j/jars.md) | 4.76% |
 | 49 | [Bugsnax](games/b/bugsnax.md) | 4.71% |
 | 50 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.69% |
-| 51 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.66% |
+| 50 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.69% |
 | 52 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.65% |
 | 53 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.55% |
 | 54 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.22% |
@@ -62,7 +62,7 @@
 | 60 | [Doodle God](games/d/doodle_god.md) | 3.46% |
 | 61 | [Bunny Park](games/b/bunny_park.md) | 3.39% |
 | 62 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.33% |
-| 63 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.32% |
+| 63 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.31% |
 | 64 | [HordeCore](games/h/hordecore.md) | 3.15% |
 | 65 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.01% |
 | 65 | [The Complex](games/t/the_complex.md) | 3.01% |
