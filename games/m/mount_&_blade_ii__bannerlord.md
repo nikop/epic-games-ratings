@@ -12,10 +12,10 @@ Number of Ratings: 5,603  (23.09.2022)
 | Horde breaker | 22.00% | ~12,884 |
 | Lawmaker | 22.00% | ~12,884 |
 | Trained | 22.00% | ~12,884 |
-| The king is pleased | 18.00% | ~10,541 |
+| The king is pleased | 18.00% | ~10,542 |
 | King Solomon | 17.00% | ~9,956 |
-| Apple of my eye | 15.00% | ~8,784 |
-| I can do it | 15.00% | ~8,784 |
+| Apple of my eye | 15.00% | ~8,785 |
+| I can do it | 15.00% | ~8,785 |
 | God of the Arena | 13.00% | ~7,613 |
 | Against all odds | 11.00% | ~6,442 |
 | Swordbearer | 10.00% | ~5,856 |
@@ -28,16 +28,16 @@ Number of Ratings: 5,603  (23.09.2022)
 | Mastery | 7.00% | ~4,099 |
 | Know your enemy | 6.00% | ~3,514 |
 | My way | 5.00% | ~2,928 |
-| Crowdfunded | 4.00% | ~2,342 |
-| Crush your enemies | 4.00% | ~2,342 |
-| Veni vidi vici | 4.00% | ~2,342 |
+| Crowdfunded | 4.00% | ~2,343 |
+| Crush your enemies | 4.00% | ~2,343 |
+| Veni vidi vici | 4.00% | ~2,343 |
 | Freedom! | 3.00% | ~1,757 |
 | Real Estate | 3.00% | ~1,757 |
 | Long live the Empire! | 2.00% | ~1,171 |
 | Entrepreneur | 1.00% | ~586 |
 | Supreme Emperor | 1.00% | ~586 |
-| Crackshot | 0.80% | ~468 |
-| Undercover | 0.80% | ~468 |
+| Crackshot | 0.80% | ~469 |
+| Undercover | 0.80% | ~469 |
 | Fat Cat | 0.70% | ~410 |
 | Catch | 0.60% | ~351 |
 | Slice 'n dice | 0.40% | ~234 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,562 (Ranked 86)  
+Progressed: 58,564 (Ranked 86)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-07 | 58,418 | 0 |
 | 2023-08-08 | 58,489 | 0 |
 | 2023-08-09 | 58,542 | 0 |
-| 2023-08-10 | 58,562 | 0 |
+| 2023-08-10 | 58,564 | 0 |
 ## Awards
 Max (Character Customization): 6,914  (Ranked 48)  
 Sum: 14,024 (Ranked 67)  

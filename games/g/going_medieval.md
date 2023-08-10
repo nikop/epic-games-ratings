@@ -1,7 +1,7 @@
 # Going Medieval
 [Store](https://store.epicgames.com/en-US/p/going-medieval)  
 [View Rawdata](../../db/g/going_medieval.json)  
-Rating: 4.60 (Ranked 390)  
+Rating: 4.60 (Ranked 391)  
 Number of Ratings: 706  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -22,7 +22,7 @@ Number of Ratings: 706  (23.09.2022)
 | Adept Researcher | 44.00% | ~2,286 |
 | Retribution | 40.00% | ~2,078 |
 | ...And Don’t Come Back! | 40.00% | ~2,078 |
-| Fit For A King | 38.00% | ~1,974 |
+| Fit For A King | 39.00% | ~2,026 |
 | Luminary Researcher | 33.00% | ~1,714 |
 | Heating Up | 29.00% | ~1,507 |
 | Winter Is Coming | 26.00% | ~1,351 |

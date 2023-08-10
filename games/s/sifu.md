@@ -7,7 +7,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Diligence as a goal | 5.00% | ~1,081 |
-| Project Arena | 4.00% | ~864 |
+| Project Arena | 4.00% | ~865 |
 | The Old Grandmaster | 2.00% | ~14,246 |
 | The Assault | 2.00% | ~14,246 |
 | The Hateful Pole Fighter | 2.00% | ~14,246 |
@@ -33,8 +33,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Kung-Fu Tussle | 1.00% | ~7,123 |
 | Take damage to save time | 1.00% | ~7,123 |
 | The best strikes are the ones we avoid | 1.00% | ~216 |
-| Muk Yan Master | 0.80% | ~5,698 |
-| Detective Story | 0.80% | ~5,698 |
+| Muk Yan Master | 0.80% | ~5,699 |
+| Detective Story | 0.80% | ~5,699 |
 | Deadly Venom | 0.80% | ~173 |
 | Tiger on Fire | 0.70% | ~4,986 |
 | Source of Flying Daggers | 0.70% | ~4,986 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,425 |
 | Warriors from the Mountain | 0.10% | ~712 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 712,310 (Ranked 20)  
+Progressed: 712,313 (Ranked 20)  
 Completed: 12,851 (1.80%) (Ranked 92)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,7 +169,7 @@ Completed: 12,851 (1.80%) (Ranked 92)
 | 2023-08-07 | 712,267 | 12,847 |
 | 2023-08-08 | 712,292 | 12,848 |
 | 2023-08-09 | 712,304 | 12,850 |
-| 2023-08-10 | 712,310 | 12,851 |
+| 2023-08-10 | 712,313 | 12,851 |
 ## Awards
 Max (Great Boss Battles): 6,354  (Ranked 55)  
 Sum: 10,908 (Ranked 82)  

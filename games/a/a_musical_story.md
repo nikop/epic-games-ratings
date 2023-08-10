@@ -25,18 +25,18 @@
 | Threatening Nature | 23.00% | ~21 |
 | TV Dreams | 22.00% | ~20 |
 | Flat Tire | 21.00% | ~19 |
+| The Clash | 18.00% | ~16 |
 | Dreamers | 18.00% | ~16 |
-| The Clash | 16.00% | ~15 |
 | The Fix | 15.00% | ~14 |
 | Time | 12.00% | ~11 |
-| Regrets | 11.00% | ~10 |
+| Regrets | 12.00% | ~11 |
 | The Mountains, The Valleys | 11.00% | ~10 |
+| Bad Trip | 10.00% | ~9 |
 | The Accident | 10.00% | ~9 |
 | The Awakening | 10.00% | ~9 |
-| Bad Trip | 9.00% | ~8 |
 | Love | 9.00% | ~8 |
 | Here we go again! | 9.00% | ~8 |
-| Chase the Crow | 7.00% | ~6 |
+| Chase the Crow | 8.00% | ~7 |
 | Flight of the Bumblebee | 7.00% | ~6 |
 | On the Road Again | 4.00% | ~4 |
 | Under the Bridge | 4.00% | ~4 |

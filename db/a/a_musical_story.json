@@ -4,7 +4,7 @@
   "ProductSlug": "a-musical-story-973128",
   "Ranking_EOS_Progress": 326,
   "Ranking_EOS_Completed": 108,
-  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewPlayers": 285,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-03-04T18:00:00+00:00",
@@ -354,9 +354,9 @@
       "ID": "L14_FINISH",
       "SetID": "6finf64",
       "Name": "The Clash",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "L14_PERFECT",
@@ -370,9 +370,9 @@
       "ID": "L15_FINISH",
       "SetID": "6finf64",
       "Name": "Bad Trip",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "L15_PERFECT",
@@ -386,9 +386,9 @@
       "ID": "L16_5_FINISH",
       "SetID": "6finf64",
       "Name": "Regrets",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "L16_5_PERFECT",
@@ -402,9 +402,9 @@
       "ID": "L16_FINISH",
       "SetID": "6finf64",
       "Name": "Chase the Crow",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "L16_PERFECT",
@@ -691,8 +691,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.0267676+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.5327196+00:00",
   "LastChanged": "2023-03-31T05:57:21.0267677+00:00",
-  "LastChanged_Achievements": "2023-08-10T09:08:30.2469529+00:00",
+  "LastChanged_Achievements": "2023-08-10T10:07:32.2268789+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:00.2281023+00:00",
-  "LastUpdate_Ratings": "2023-08-10T09:00:22.9517357+00:00",
-  "LastUpdate_Achievements": "2023-08-10T09:08:30.247004+00:00"
+  "LastUpdate_Ratings": "2023-08-10T09:59:35.6292835+00:00",
+  "LastUpdate_Achievements": "2023-08-10T10:07:32.2269209+00:00"
 }

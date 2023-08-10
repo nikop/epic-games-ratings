@@ -9,13 +9,13 @@
 | Something to make you dream... | 31.00% | ~8 |
 | Something to long for... | 31.00% | ~8 |
 | Something monumental... | 27.00% | ~7 |
-| Something firmly rooted... | 23.00% | ~6 |
-| Something free... | 19.00% | ~5 |
-| Something gentle... | 19.00% | ~5 |
-| Something fully in bloom... | 19.00% | ~5 |
-| Somewhere to belong... | 19.00% | ~5 |
-| Something natural... | 19.00% | ~5 |
-| Something reflective... | 19.00% | ~5 |
+| Something firmly rooted... | 27.00% | ~7 |
+| Something free... | 23.00% | ~6 |
+| Something gentle... | 23.00% | ~6 |
+| Something fully in bloom... | 23.00% | ~6 |
+| Somewhere to belong... | 23.00% | ~6 |
+| Something natural... | 23.00% | ~6 |
+| Something reflective... | 23.00% | ~6 |
 | Something free... (fragile) | 15.00% | ~4 |
 | Something gentle... (fragile) | 15.00% | ~4 |
 | Something ever-changing... (fragile) | 15.00% | ~4 |

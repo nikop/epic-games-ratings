@@ -42,10 +42,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Where the Magic Happens | 0.10% | ~187 |
 | Downfall | 0.10% | ~187 |
 | First Third Out | 0.10% | ~187 |
+| Second Third Out | 0.10% | ~187 |
 | Third Third Out | 0.10% | ~187 |
 | The Silken Swamp | 0.10% | ~220 |
 | Slack-jawed Lorna | 0.10% | ~187 |
 | I'm Sure I Saw It Move! | 0.10% | ~187 |
+| End of the Line | 0.10% | ~187 |
 | A Steadfast Love | 0.10% | ~187 |
 | The Fairy Rings of Thither | 0.10% | ~187 |
 | Zarak's Revenge | 0.10% | ~187 |
@@ -222,6 +224,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Lost Love | 0.10% | ~220 |
 | A Saurial's Lament | 0.10% | ~220 |
 | A Saurial's Resolve | 0.10% | ~220 |
+| Spirit of the Trickster Gods | 0.10% | ~187 |
 | Flies on the Wall | 0.10% | ~220 |
 | The Killer Mists | 0.10% | ~220 |
 | Seeking Allies | 0.10% | ~220 |
@@ -513,17 +516,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Chaotic Hunt for The Last Breath | 0.10% | ~187 |
 | To Infinity's and Beyond | 0.10% | ~187 |
 | There's a Flying Snake in my Boot! | 0.10% | ~187 |
-| Second Third Out | 0.00% | ~0 |
-| End of the Line | 0.00% | ~0 |
 | The Loots of Loomlurch | 0.00% | ~0 |
 | Strength of Character | 0.00% | ~0 |
 | A Nimble Approach | 0.00% | ~0 |
-| Spirit of the Trickster Gods | 0.00% | ~0 |
 | Fire and Ice | 0.00% | ~0 |
 | Ambitious Speakers - Part 2 | 0.00% | ~0 |
 | An Icewind Dale Reunion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,377 (Ranked 52)  
+Progressed: 220,386 (Ranked 52)  
 Completed: 2,167 (0.98%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -635,7 +635,7 @@ Completed: 2,167 (0.98%) (Ranked 113)
 | 2023-08-07 | 219,734 | 2,162 |
 | 2023-08-08 | 220,011 | 2,165 |
 | 2023-08-09 | 220,283 | 2,167 |
-| 2023-08-10 | 220,377 | 2,167 |
+| 2023-08-10 | 220,386 | 2,167 |
 ## Awards
 Max (Diverse Characters): 5,128  (Ranked 67)  
 Sum: 30,973 (Ranked 38)  

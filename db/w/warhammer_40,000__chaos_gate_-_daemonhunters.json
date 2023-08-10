@@ -3235,9 +3235,9 @@
       "ID": "Kills_FriendlyFire",
       "SetID": "3jha1np",
       "Name": "Friendly Fire",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 63
     },
     {
       "ID": "Kills_Interactable",
@@ -3585,8 +3585,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-08-09T04:59:13.1022305+00:00",
-  "LastChanged_Achievements": "2023-08-10T09:06:35.600722+00:00",
+  "LastChanged_Achievements": "2023-08-10T10:05:39.2129261+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:37.2387595+00:00",
-  "LastUpdate_Ratings": "2023-08-10T09:00:59.826802+00:00",
-  "LastUpdate_Achievements": "2023-08-10T09:06:35.6008098+00:00"
+  "LastUpdate_Ratings": "2023-08-10T10:00:14.8455467+00:00",
+  "LastUpdate_Achievements": "2023-08-10T10:05:39.2130072+00:00"
 }

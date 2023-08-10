@@ -15,12 +15,12 @@ Number of Ratings: 12,664  (23.09.2022)
 | Another Satisfied Customer | 0.50% | ~671 |
 | It's Free Real Estate | 0.50% | ~671 |
 | Budding Merchant | 0.50% | ~671 |
+| Own the Means of Production | 0.50% | ~671 |
 | One Easy Payment | 0.40% | ~537 |
 | Some Assembly Required | 0.40% | ~537 |
 | Pretty Penny | 0.40% | ~537 |
 | One-Armed Bandit | 0.40% | ~537 |
 | Through Repetition, Perfection | 0.40% | ~537 |
-| Own the Means of Production | 0.40% | ~537 |
 | The Daily Grind | 0.30% | ~403 |
 | Ascended | 0.30% | ~403 |
 | Bounty Hunters | 0.30% | ~403 |
@@ -28,6 +28,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Demand for Supplies | 0.30% | ~403 |
 | Flooding the Market | 0.30% | ~403 |
 | Where it Hurts | 0.30% | ~403 |
+| Efficient Floor Space | 0.30% | ~403 |
 | Gem Expert | 0.30% | ~403 |
 | Gild-Gotten Goods | 0.30% | ~403 |
 | Accomplished Merchant | 0.30% | ~403 |
@@ -54,7 +55,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Power of Love | 0.20% | ~268 |
 | Expansion in Session | 0.20% | ~268 |
 | Ritualist | 0.20% | ~268 |
-| Efficient Floor Space | 0.20% | ~268 |
+| Cranked up to 11 | 0.20% | ~268 |
 | Flawless Fusion | 0.20% | ~268 |
 | Trash to Treasure | 0.20% | ~268 |
 | Royal Ransom | 0.20% | ~268 |
@@ -88,7 +89,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Unleashed Potential | 0.10% | ~134 |
 | Supercharged | 0.10% | ~134 |
 | Thank You Tom Nook | 0.10% | ~134 |
-| Cranked up to 11 | 0.10% | ~134 |
 | Fit for a King | 0.10% | ~134 |
 | By Your Powers Combined... | 0.10% | ~134 |
 | A Legend is Born | 0.10% | ~134 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Economy of Scarce | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,242 (Ranked 65)  
+Progressed: 134,244 (Ranked 65)  
 Completed: 131 (0.10%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,7 +231,7 @@ Completed: 131 (0.10%) (Ranked 199)
 | 2023-08-07 | 134,099 | 130 |
 | 2023-08-08 | 134,169 | 131 |
 | 2023-08-09 | 134,223 | 131 |
-| 2023-08-10 | 134,242 | 131 |
+| 2023-08-10 | 134,244 | 131 |
 ## Awards
 Max (Great for Beginners): 4,694  (Ranked 71)  
 Sum: 27,074 (Ranked 46)  

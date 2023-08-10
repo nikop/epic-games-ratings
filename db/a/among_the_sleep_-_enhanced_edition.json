@@ -443,9 +443,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 81822,
+  "EOS_Progressed": 81825,
   "EOS_Completed": 383,
-  "EOS_NewPlayers": 838,
+  "EOS_NewPlayers": 840,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -12528,6 +12528,11 @@
       "Time": "2023-08-10T09:06:58.5009317+00:00",
       "NumProgressed": 81822,
       "NumCompleted": 383
+    },
+    {
+      "Time": "2023-08-10T10:06:01.9044616+00:00",
+      "NumProgressed": 81825,
+      "NumCompleted": 383
     }
   ],
   "TotalAchievements": 10,
@@ -12603,7 +12608,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 28638
+      "UsersEstimate": 28639
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -12611,22 +12616,22 @@
       "Name": "Bad Lullaby",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 9000
+      "UsersEstimate": 9001
     }
   ],
   "AchievementSets": [
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 81822,
+      "Progressed": 81825,
       "Completed": 383
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-03-31T05:57:32.2303432+00:00",
-  "LastChanged_Achievements": "2023-08-10T09:06:58.5009308+00:00",
+  "LastChanged_Achievements": "2023-08-10T10:06:01.904461+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:14.3061933+00:00",
-  "LastUpdate_Ratings": "2023-08-10T08:58:17.2217413+00:00",
-  "LastUpdate_Achievements": "2023-08-10T09:06:58.5010045+00:00"
+  "LastUpdate_Ratings": "2023-08-10T09:57:38.4717996+00:00",
+  "LastUpdate_Achievements": "2023-08-10T10:06:01.9045324+00:00"
 }

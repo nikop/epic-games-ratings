@@ -12,11 +12,11 @@ Number of Ratings: 371  (23.09.2022)
 | Watch Where You Step... | 3.00% | ~94 |
 | An Ill Omen | 3.00% | ~94 |
 | Blood for the Blood God! | 2.00% | ~63 |
+| Friendly Fire | 2.00% | ~63 |
 | Purging Spree | 2.00% | ~63 |
 | Bloodless | 2.00% | ~63 |
 | Honoured Battle-Brother | 1.00% | ~31 |
 | Surgical Excision | 1.00% | ~31 |
-| Friendly Fire | 1.00% | ~31 |
 | A Foul Creche | 1.00% | ~31 |
 | The Emperor Protects | 0.90% | ~28 |
 | Nemesis Master | 0.90% | ~28 |

@@ -2,7 +2,7 @@
   "ID": "d469e82d91fe4516a00d6566c3d2f8f7",
   "Name": "Going Medieval",
   "ProductSlug": "going-medieval",
-  "Ranking_Rating": 390,
+  "Ranking_Rating": 391,
   "Ranking_Popularity": 315,
   "Ranking_PopularitySum": 239,
   "Ranking_EOS_Progress": 139,
@@ -7295,9 +7295,9 @@
       "ID": "STORE_NUTRITION_20000",
       "SetID": "5349c2e",
       "Name": "Fit For A King",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 1974
+      "UsersEstimate": 2026
     },
     {
       "ID": "STORE_NUTRITION_5000",
@@ -7415,8 +7415,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-08-09T23:00:38.5654569+00:00",
-  "LastChanged_Achievements": "2023-08-10T09:05:31.6794471+00:00",
+  "LastChanged_Achievements": "2023-08-10T10:04:46.3658504+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:53.1800311+00:00",
-  "LastUpdate_Ratings": "2023-08-10T09:02:18.4457388+00:00",
-  "LastUpdate_Achievements": "2023-08-10T09:05:31.6795081+00:00"
+  "LastUpdate_Ratings": "2023-08-10T10:01:33.1304133+00:00",
+  "LastUpdate_Achievements": "2023-08-10T10:04:46.3658999+00:00"
 }

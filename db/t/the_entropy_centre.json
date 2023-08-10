@@ -4,7 +4,7 @@
   "ProductSlug": "the-entropy-centre-40bccd",
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewPlayers": 285,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -824,9 +824,9 @@
       "ID": "ACH_ACT13",
       "SetID": "2310cb1",
       "Name": "All Alone",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_ACT14",
@@ -1017,8 +1017,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-08-10T09:04:25.0707785+00:00",
+  "LastChanged_Achievements": "2023-08-10T10:03:32.1633121+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:49.532667+00:00",
-  "LastUpdate_Ratings": "2023-08-10T08:59:37.9955533+00:00",
-  "LastUpdate_Achievements": "2023-08-10T09:04:25.0708046+00:00"
+  "LastUpdate_Ratings": "2023-08-10T09:58:54.7906919+00:00",
+  "LastUpdate_Achievements": "2023-08-10T10:03:32.1633354+00:00"
 }

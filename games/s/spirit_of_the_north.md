@@ -1,24 +1,24 @@
 # Spirit of the North
 [Store](https://store.epicgames.com/en-US/p/spirit-of-the-north-f58a66)  
 [View Rawdata](../../db/s/spirit_of_the_north.json)  
-Rating: 4.36 (Ranked 735)  
+Rating: 4.36 (Ranked 734)  
 Number of Ratings: 1,175  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 68.00% | ~44,273 |
-| INFUSED WITH LIGHT | 53.00% | ~34,507 |
-| FOXIN' AROUND | 29.00% | ~18,881 |
-| FETCH | 27.00% | ~17,579 |
-| BLOOMS OF LIGHT | 26.00% | ~16,928 |
-| BEST FRIENDS | 22.00% | ~14,324 |
-| AWAKEN | 21.00% | ~13,673 |
-| ERADICATE | 21.00% | ~13,673 |
-| SPIRIT BARK | 21.00% | ~13,673 |
-| GARDEN OF LIGHT | 18.00% | ~11,719 |
-| SPIRIT FORM | 16.00% | ~10,417 |
-| UPROOTING DARKNESS | 15.00% | ~9,766 |
-| WRITTEN IN STONE | 15.00% | ~9,766 |
+| A GUARDIAN FORGOTTEN | 68.00% | ~44,276 |
+| INFUSED WITH LIGHT | 53.00% | ~34,509 |
+| FOXIN' AROUND | 29.00% | ~18,882 |
+| FETCH | 27.00% | ~17,580 |
+| BLOOMS OF LIGHT | 26.00% | ~16,929 |
+| BEST FRIENDS | 22.00% | ~14,325 |
+| AWAKEN | 21.00% | ~13,674 |
+| ERADICATE | 21.00% | ~13,674 |
+| SPIRIT BARK | 21.00% | ~13,674 |
+| GARDEN OF LIGHT | 18.00% | ~11,720 |
+| SPIRIT FORM | 16.00% | ~10,418 |
+| UPROOTING DARKNESS | 15.00% | ~9,767 |
+| WRITTEN IN STONE | 15.00% | ~9,767 |
 | WEIGHTLESS | 12.00% | ~7,813 |
 | SPIRIT DASH | 11.00% | ~7,162 |
 | OLD COMPANION | 9.00% | ~5,860 |
@@ -31,7 +31,7 @@ Number of Ratings: 1,175  (23.09.2022)
 | NONE FORGOTTEN | 2.00% | ~1,302 |
 | KINDRED SPIRITS | 0.60% | ~391 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,108 (Ranked 83)  
+Progressed: 65,112 (Ranked 83)  
 Completed: 339 (0.52%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 339 (0.52%) (Ranked 136)
 | 2023-08-07 | 64,888 | 336 |
 | 2023-08-08 | 64,989 | 337 |
 | 2023-08-09 | 65,079 | 339 |
-| 2023-08-10 | 65,108 | 339 |
+| 2023-08-10 | 65,112 | 339 |
 ## Awards
 Max (Extremely Fun): 26  (Ranked 473)  
 Sum: 114 (Ranked 409)  

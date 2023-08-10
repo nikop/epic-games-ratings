@@ -5,10 +5,10 @@ Rating: 3.94 (Ranked 938)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~53,011 |
-| First One’s Free | 65.00% | ~46,564 |
-| Neophyte Ninja | 50.00% | ~35,818 |
-| Too Old for This | 47.00% | ~33,669 |
+| Downed but Not Outed | 74.00% | ~53,012 |
+| First One’s Free | 65.00% | ~46,565 |
+| Neophyte Ninja | 50.00% | ~35,819 |
+| Too Old for This | 47.00% | ~33,670 |
 | Case Closed | 35.00% | ~25,073 |
 | Fancy Pants | 35.00% | ~25,073 |
 | King of the Hill | 34.00% | ~24,357 |
@@ -29,10 +29,10 @@ Rating: 3.94 (Ranked 938)
 | Foo Finder | 7.00% | ~5,015 |
 | Legend Looter | 5.00% | ~3,582 |
 | Savvy Seeker | 5.00% | ~3,582 |
-| Imports and Exports | 4.00% | ~2,865 |
-| Olympus Ascended | 4.00% | ~2,865 |
-| Cracked the Jack | 4.00% | ~2,865 |
-| Red Star | 4.00% | ~2,865 |
+| Imports and Exports | 4.00% | ~2,866 |
+| Olympus Ascended | 4.00% | ~2,866 |
+| Cracked the Jack | 4.00% | ~2,866 |
+| Red Star | 4.00% | ~2,866 |
 | Privateer | 3.00% | ~2,149 |
 | Moneybags | 3.00% | ~2,149 |
 | Groundhog Days | 3.00% | ~2,149 |
@@ -43,7 +43,7 @@ Rating: 3.94 (Ranked 938)
 | Geek Out | 0.60% | ~430 |
 | Full House | 0.20% | ~143 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 71,637 (Ranked 77)  
+Progressed: 71,638 (Ranked 77)  
 Completed: 37 (0.05%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,7 +155,7 @@ Completed: 37 (0.05%) (Ranked 216)
 | 2023-08-07 | 71,517 | 37 |
 | 2023-08-08 | 71,567 | 37 |
 | 2023-08-09 | 71,623 | 37 |
-| 2023-08-10 | 71,637 | 37 |
+| 2023-08-10 | 71,638 | 37 |
 ## Awards
 Max (Diverse Characters): 398  (Ranked 215)  
 Sum: 1,866 (Ranked 204)  

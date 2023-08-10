@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 100.00% | ~3 |
-| I Challenge You To Save More Money! | 67.00% | ~2 |
-| I Love How Tough You Are | 67.00% | ~2 |
-| Wanna Come To My Place For Dinner? | 67.00% | ~2 |
-| What I Want Is You | 67.00% | ~2 |
-| FIRST LOVE | 67.00% | ~2 |
-| Are You Alright? | 67.00% | ~2 |
-| You're Really Something Else | 67.00% | ~2 |
-| Life Is A Rollercoaster | 33.00% | ~1 |
-| Lover In Dark Alley | 33.00% | ~1 |
-| Days Of Innocence | 33.00% | ~1 |
-| A Slap In The Face! | 33.00% | ~1 |
-| Love You Three Thousand | 33.00% | ~1 |
-| Hurrah! | 33.00% | ~1 |
-| Love Actually | 33.00% | ~1 |
-| The Flash | 33.00% | ~1 |
-| To Be Or Not To Be | 33.00% | ~1 |
-| ONE PUNCH | 33.00% | ~1 |
-| Go Clean up In Your Own Way | 33.00% | ~1 |
+| Last Night...Did We... | 75.00% | ~3 |
+| I Challenge You To Save More Money! | 50.00% | ~2 |
+| I Love How Tough You Are | 50.00% | ~2 |
+| Wanna Come To My Place For Dinner? | 50.00% | ~2 |
+| What I Want Is You | 50.00% | ~2 |
+| FIRST LOVE | 50.00% | ~2 |
+| Are You Alright? | 50.00% | ~2 |
+| You're Really Something Else | 50.00% | ~2 |
+| Life Is A Rollercoaster | 25.00% | ~1 |
+| Lover In Dark Alley | 25.00% | ~1 |
+| Days Of Innocence | 25.00% | ~1 |
+| A Slap In The Face! | 25.00% | ~1 |
+| Love You Three Thousand | 25.00% | ~1 |
+| Hurrah! | 25.00% | ~1 |
+| Love Actually | 25.00% | ~1 |
+| The Flash | 25.00% | ~1 |
+| To Be Or Not To Be | 25.00% | ~1 |
+| ONE PUNCH | 25.00% | ~1 |
+| Go Clean up In Your Own Way | 25.00% | ~1 |
 | My Dear Love! | 0.00% | ~0 |
 | Doesn't Matter I'll Handle It | 0.00% | ~0 |
 | Off We Sail Tonight | 0.00% | ~0 |
@@ -47,10 +47,11 @@
 | This Ain't Right In Many Ways... | 0.00% | ~0 |
 | SALUTE | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3 (Ranked 464)  
+Progressed: 4 (Ranked 459)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-07-27 | 2 | 0 |
 | 2023-08-02 | 3 | 0 |
+| 2023-08-10 | 4 | 0 |

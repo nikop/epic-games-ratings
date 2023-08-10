@@ -302,9 +302,9 @@
       "ID": "GREEN_SLIME_SHEEN",
       "SetID": "ca3djk0",
       "Name": "Green Sheen",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 122
+      "UsersEstimate": 124
     },
     {
       "ID": "LETS_GET_FISHY",
@@ -375,8 +375,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.9307508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.8770583+00:00",
   "LastChanged": "2023-03-31T05:58:23.9307509+00:00",
-  "LastChanged_Achievements": "2023-08-10T09:08:34.2663548+00:00",
+  "LastChanged_Achievements": "2023-08-10T10:07:36.2248905+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:07.9198313+00:00",
-  "LastUpdate_Ratings": "2023-08-10T09:00:34.1457577+00:00",
-  "LastUpdate_Achievements": "2023-08-10T09:08:34.2663679+00:00"
+  "LastUpdate_Ratings": "2023-08-10T09:59:47.4813143+00:00",
+  "LastUpdate_Achievements": "2023-08-10T10:07:36.2249008+00:00"
 }

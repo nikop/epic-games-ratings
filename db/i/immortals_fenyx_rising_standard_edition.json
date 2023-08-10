@@ -2,12 +2,12 @@
   "ID": "4b35838425c74992ad42e1276b2161ca",
   "Name": "Immortals Fenyx Rising Standard Edition",
   "ProductSlug": "immortals-fenyx-rising",
-  "Ranking_Rating": 390,
+  "Ranking_Rating": 391,
   "Ranking_Popularity": 175,
   "Ranking_PopularitySum": 249,
   "Ranking_EOS_Progress": 537,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewPlayers": 359,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2020-12-03T16:00:00+00:00",
@@ -1252,6 +1252,6 @@
   "FirstSeen": "2022-07-22T20:22:58.8142388+00:00",
   "LastChanged": "2023-08-10T09:01:26.3863208+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:05.3859663+00:00",
-  "LastUpdate_Ratings": "2023-08-10T09:01:26.3863213+00:00",
-  "LastUpdate_Achievements": "2023-08-10T09:07:10.5308158+00:00"
+  "LastUpdate_Ratings": "2023-08-10T10:00:42.8351907+00:00",
+  "LastUpdate_Achievements": "2023-08-10T10:06:13.2596511+00:00"
 }
