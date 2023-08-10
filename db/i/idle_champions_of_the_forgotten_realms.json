@@ -5686,9 +5686,9 @@
       "Count": 3347
     }
   ],
-  "EOS_Progressed": 220283,
+  "EOS_Progressed": 220295,
   "EOS_Completed": 2167,
-  "EOS_NewPlayers": 2258,
+  "EOS_NewPlayers": 2254,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -17726,6 +17726,11 @@
       "Time": "2023-08-09T23:02:11.9806751+00:00",
       "NumProgressed": 220283,
       "NumCompleted": 2167
+    },
+    {
+      "Time": "2023-08-10T00:02:12.4505545+00:00",
+      "NumProgressed": 220295,
+      "NumCompleted": 2167
     }
   ],
   "TotalAchievements": 516,
@@ -18319,9 +18324,9 @@
       "ID": "objective_completed_1144",
       "SetID": "415jc5c",
       "Name": "G. O. A. T.",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 187
     },
     {
       "ID": "objective_completed_1147",
@@ -19943,9 +19948,9 @@
       "ID": "objective_completed_548",
       "SetID": "415jc5c",
       "Name": "Sneak Attack",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 187
     },
     {
       "ID": "objective_completed_55",
@@ -20343,9 +20348,9 @@
       "ID": "objective_completed_607",
       "SetID": "415jc5c",
       "Name": "Shadow Stalkers",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 187
     },
     {
       "ID": "objective_completed_608",
@@ -20583,9 +20588,9 @@
       "ID": "objective_completed_642",
       "SetID": "415jc5c",
       "Name": "The Path of Trials",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 187
     },
     {
       "ID": "objective_completed_643",
@@ -20615,9 +20620,9 @@
       "ID": "objective_completed_647",
       "SetID": "415jc5c",
       "Name": "Best Friend Search Squad!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 187
     },
     {
       "ID": "objective_completed_648",
@@ -21423,9 +21428,9 @@
       "ID": "objective_completed_889",
       "SetID": "415jc5c",
       "Name": "Shady Sidekicks - Part 1",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 187
     },
     {
       "ID": "objective_completed_892",
@@ -21567,9 +21572,9 @@
       "ID": "objective_completed_929",
       "SetID": "415jc5c",
       "Name": "Alien Allies",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 187
     },
     {
       "ID": "objective_completed_930",
@@ -21864,21 +21869,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 186557,
-      "Completed": 3094
+      "Progressed": 186569,
+      "Completed": 3101
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 220283,
+      "Progressed": 220295,
       "Completed": 2167
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-09T21:00:00.4067154+00:00",
-  "LastChanged_Achievements": "2023-08-09T23:02:11.9806746+00:00",
+  "LastChanged_Achievements": "2023-08-10T00:02:12.4505536+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:58.6885063+00:00",
-  "LastUpdate_Ratings": "2023-08-09T22:58:48.4642122+00:00",
-  "LastUpdate_Achievements": "2023-08-09T23:02:11.983071+00:00"
+  "LastUpdate_Ratings": "2023-08-09T23:59:03.9281916+00:00",
+  "LastUpdate_Achievements": "2023-08-10T00:02:12.4532721+00:00"
 }

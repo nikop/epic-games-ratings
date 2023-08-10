@@ -6,15 +6,15 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 91.00% | ~7,701 |
-| Photogenic | 88.00% | ~7,447 |
+| Let's Get This Party Started | 91.00% | ~7,702 |
+| Photogenic | 88.00% | ~7,448 |
 | Surge Gauntlet Jockey | 85.00% | ~7,194 |
-| Plug It In | 84.00% | ~7,109 |
-| Adventure Time | 80.00% | ~6,770 |
+| Plug It In | 84.00% | ~7,110 |
+| Adventure Time | 80.00% | ~6,771 |
 | Playing With Power | 77.00% | ~6,517 |
-| Coup d'Etat | 59.00% | ~4,993 |
+| Coup d'Etat | 59.00% | ~4,994 |
 | You're Fired | 58.00% | ~4,909 |
-| Get Furious | 56.00% | ~4,739 |
+| Get Furious | 56.00% | ~4,740 |
 | Gunplay And Cosplay | 55.00% | ~4,655 |
 | Hacks In Stacks | 55.00% | ~4,655 |
 | Meching Enemies | 49.00% | ~4,147 |
@@ -25,11 +25,11 @@ Number of Ratings: 801  (23.09.2022)
 | Rapid Response | 33.00% | ~2,793 |
 | Surge Ahead | 31.00% | ~2,624 |
 | The Full Monty | 31.00% | ~2,624 |
-| Guardian Angel | 29.00% | ~2,454 |
+| Guardian Angel | 29.00% | ~2,455 |
 | Poppin Noggins | 25.00% | ~2,116 |
 | Clips and Crits | 20.00% | ~1,693 |
-| Grey Goo | 18.00% | ~1,523 |
-| Boss of Bosses | 15.00% | ~1,269 |
+| Grey Goo | 18.00% | ~1,524 |
+| Boss of Bosses | 15.00% | ~1,270 |
 | The Final Blow | 14.00% | ~1,185 |
 | To Be Continued | 13.00% | ~1,100 |
 | Light My Fire | 12.00% | ~1,016 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~34 |
 | Pyrotechnical | 0.20% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,463 (Ranked 125)  
+Progressed: 8,464 (Ranked 125)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,6 +169,7 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-07 | 8,436 | 0 |
 | 2023-08-08 | 8,449 | 0 |
 | 2023-08-09 | 8,463 | 0 |
+| 2023-08-10 | 8,464 | 0 |
 ## Awards
 Max (Great for Beginners): 63  (Ranked 387)  
 Sum: 454 (Ranked 307)  

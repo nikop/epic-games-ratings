@@ -255,6 +255,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon in Roma | 0.10% | ~13 |
 | Word of God | 0.10% | ~13 |
 | Siege Tower | 0.10% | ~13 |
+| Great Ziggurat in Ur | 0.10% | ~13 |
 | No Characters | 0.10% | ~13 |
 | One City Challenge | 0.10% | ~13 |
 | Randomized Families | 0.10% | ~13 |
@@ -299,7 +300,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Knowledge of the Ancients | 0.00% | ~0 |
 | Play a LAN Game | 0.00% | ~0 |
 | Colossus in Rhodes | 0.00% | ~0 |
-| Great Ziggurat in Ur | 0.00% | ~0 |
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

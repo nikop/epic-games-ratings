@@ -2,10 +2,10 @@
   "ID": "2a535f0e7c754dbe9157bf96adc62d56",
   "Name": "Mass Effect\u2122 Legendary Edition",
   "ProductSlug": "mass-effect-legendary-edition",
-  "Ranking_EOS_Progress": 534,
+  "Ranking_EOS_Progress": 536,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 359,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -39,8 +39,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-08-09T23:03:38.5519869+00:00",
+  "LastChanged_Achievements": "2023-08-10T00:03:49.4364796+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:58:15.4574911+00:00",
-  "LastUpdate_Ratings": "2023-08-09T22:57:03.208779+00:00",
-  "LastUpdate_Achievements": "2023-08-09T23:03:38.5519898+00:00"
+  "LastUpdate_Ratings": "2023-08-09T23:57:12.1272626+00:00",
+  "LastUpdate_Achievements": "2023-08-10T00:03:49.4364835+00:00"
 }

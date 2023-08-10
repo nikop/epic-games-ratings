@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
     "PcReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -236,9 +236,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16073,
+  "EOS_Progressed": 16074,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3871,6 +3871,11 @@
       "Time": "2023-08-09T19:05:53.9278454+00:00",
       "NumProgressed": 16073,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-10T00:05:16.8724186+00:00",
+      "NumProgressed": 16074,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -3882,7 +3887,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 15269
+      "UsersEstimate": 15270
     },
     {
       "ID": "ACH001",
@@ -3890,7 +3895,7 @@
       "Name": "Personal Matter",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 13823
+      "UsersEstimate": 13824
     },
     {
       "ID": "ACH0010",
@@ -3914,7 +3919,7 @@
       "Name": "Pimp My Glide",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 7715
+      "UsersEstimate": 7716
     },
     {
       "ID": "ACH0013",
@@ -4034,7 +4039,7 @@
       "Name": "Double the Barrels, double the Fun",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 8840
+      "UsersEstimate": 8841
     },
     {
       "ID": "ACH004",
@@ -4042,7 +4047,7 @@
       "Name": "No Half Measures",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 14144
+      "UsersEstimate": 14145
     },
     {
       "ID": "ACH005",
@@ -4089,7 +4094,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 16073,
+      "Progressed": 16074,
       "Completed": 0
     }
   ],
@@ -4097,8 +4102,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-08-03T01:53:52.0652569+00:00",
-  "LastChanged_Achievements": "2023-08-09T23:05:06.2900848+00:00",
+  "LastChanged_Achievements": "2023-08-10T00:05:16.8724174+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:58:12.7676293+00:00",
-  "LastUpdate_Ratings": "2023-08-09T23:00:49.0444964+00:00",
-  "LastUpdate_Achievements": "2023-08-09T23:05:06.2901176+00:00"
+  "LastUpdate_Ratings": "2023-08-10T00:01:08.8481518+00:00",
+  "LastUpdate_Achievements": "2023-08-10T00:05:16.8724604+00:00"
 }

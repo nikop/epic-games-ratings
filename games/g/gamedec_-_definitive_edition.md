@@ -6,17 +6,17 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~67,558 |
-| Powergamer | 27.00% | ~65,145 |
-| Barely scratched the surface | 25.00% | ~60,319 |
-| Write that down | 24.00% | ~57,906 |
-| Guns, lots of guns | 12.00% | ~28,953 |
-| Collector | 11.00% | ~26,540 |
+| I will finish what you started | 28.00% | ~67,559 |
+| Powergamer | 27.00% | ~65,146 |
+| Barely scratched the surface | 25.00% | ~60,320 |
+| Write that down | 24.00% | ~57,907 |
+| Guns, lots of guns | 12.00% | ~28,954 |
+| Collector | 11.00% | ~26,541 |
 | Elementary! | 9.00% | ~21,715 |
 | Pumpkin Jack | 8.00% | ~19,302 |
 | Wake up! | 8.00% | ~19,302 |
-| It's honest work | 7.00% | ~16,889 |
-| Griever | 7.00% | ~16,889 |
+| It's honest work | 7.00% | ~16,890 |
+| Griever | 7.00% | ~16,890 |
 | Me smart | 6.00% | ~14,477 |
 | Trash compactor | 6.00% | ~14,477 |
 | Good listener | 5.00% | ~12,064 |
@@ -42,7 +42,7 @@ Number of Ratings: 33  (23.09.2022)
 | SysOp on duty | 1.00% | ~2,413 |
 | Take the blue pill | 1.00% | ~2,413 |
 | The power of three | 1.00% | ~2,413 |
-| A true blacksmith | 0.90% | ~2,171 |
+| A true blacksmith | 0.90% | ~2,172 |
 | Let's try another | 0.80% | ~1,930 |
 | Home run | 0.80% | ~1,930 |
 | I have the high ground | 0.70% | ~1,689 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~483 |
 | Memory 5 | 0.10% | ~241 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,277 (Ranked 46)  
+Progressed: 241,281 (Ranked 46)  
 Completed: 7 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,13 +171,14 @@ Completed: 7 (0.00%) (Ranked 251)
 | 2023-08-07 | 241,040 | 7 |
 | 2023-08-08 | 241,170 | 7 |
 | 2023-08-09 | 241,277 | 7 |
+| 2023-08-10 | 241,281 | 7 |
 ## Awards
-Max (Character Customization): 77  (Ranked 364)  
-Sum: 77 (Ranked 428)  
+Max (Character Customization): 78  (Ranked 363)  
+Sum: 78 (Ranked 427)  
 Diff (max vs sum): -64  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 77 |
+| This game has Inclusive Character Customization | 78 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -245,3 +246,4 @@ Diff (max vs sum): -64
 | 2023-07-19 | 4.31 | - | 75 | 75 |
 | 2023-07-21 | 4.31 | - | 76 | 76 |
 | 2023-08-06 | 4.31 | - | 77 | 77 |
+| 2023-08-09 | 4.31 | - | 78 | 78 |

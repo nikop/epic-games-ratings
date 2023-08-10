@@ -6,44 +6,44 @@ Number of Ratings: 25,248  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pioneer | 71.00% | ~692,000 |
-| Green Energy | 60.00% | ~584,789 |
-| Foggy Weather | 59.00% | ~575,042 |
-| Singing In The- | 59.00% | ~575,042 |
-| Unpopular Mayor | 41.00% | ~399,606 |
-| Power at Your Fingertips | 33.00% | ~321,634 |
-| City Planner | 23.00% | ~224,169 |
-| Rolling in Dough | 20.00% | ~194,930 |
-| Does My Bum Look Big In This? | 17.00% | ~165,690 |
-| Climbing the Social Ladder | 16.00% | ~155,944 |
-| Safe City | 14.00% | ~136,451 |
-| Quay-King | 11.00% | ~107,211 |
-| Lawmaker | 10.00% | ~97,465 |
-| With Canals You Can! | 10.00% | ~97,465 |
-| Nomen Est Omen | 7.00% | ~68,225 |
-| Well Informed | 6.00% | ~58,479 |
-| Fire Watch | 5.00% | ~48,732 |
-| Greenest City | 4.00% | ~38,986 |
-| Heavenly City | 3.00% | ~29,239 |
-| Reporting! | 3.00% | ~29,239 |
-| SIMulated City | 3.00% | ~29,239 |
-| The Safest Town | 3.00% | ~29,239 |
-| Professional Dumper | 2.00% | ~19,493 |
-| City in Motion | 1.00% | ~9,746 |
-| Earthloving City | 1.00% | ~9,746 |
-| Metropolis | 1.00% | ~9,746 |
-| Higher Education | 0.80% | ~7,797 |
+| Pioneer | 71.00% | ~692,040 |
+| Green Energy | 60.00% | ~584,822 |
+| Foggy Weather | 59.00% | ~575,075 |
+| Singing In The- | 59.00% | ~575,075 |
+| Unpopular Mayor | 41.00% | ~399,629 |
+| Power at Your Fingertips | 33.00% | ~321,652 |
+| City Planner | 23.00% | ~224,182 |
+| Rolling in Dough | 20.00% | ~194,941 |
+| Does My Bum Look Big In This? | 17.00% | ~165,700 |
+| Climbing the Social Ladder | 16.00% | ~155,953 |
+| Safe City | 14.00% | ~136,459 |
+| Quay-King | 11.00% | ~107,217 |
+| Lawmaker | 10.00% | ~97,470 |
+| With Canals You Can! | 10.00% | ~97,470 |
+| Nomen Est Omen | 7.00% | ~68,229 |
+| Well Informed | 6.00% | ~58,482 |
+| Fire Watch | 5.00% | ~48,735 |
+| Greenest City | 4.00% | ~38,988 |
+| Heavenly City | 3.00% | ~29,241 |
+| Reporting! | 3.00% | ~29,241 |
+| SIMulated City | 3.00% | ~29,241 |
+| The Safest Town | 3.00% | ~29,241 |
+| Professional Dumper | 2.00% | ~19,494 |
+| City in Motion | 1.00% | ~9,747 |
+| Earthloving City | 1.00% | ~9,747 |
+| Metropolis | 1.00% | ~9,747 |
+| Higher Education | 0.80% | ~7,798 |
 | Beam Me Up | 0.70% | ~6,823 |
 | Full Capacity | 0.60% | ~5,848 |
 | Terraformer | 0.60% | ~5,848 |
-| Decorator | 0.50% | ~4,873 |
-| Drop the Base | 0.50% | ~4,873 |
-| It's heading right for us! | 0.50% | ~4,873 |
-| Postman | 0.50% | ~4,873 |
-| Shake It Up! | 0.50% | ~4,873 |
-| Speed up! | 0.50% | ~4,873 |
-| The Waters of Our Lives | 0.50% | ~4,873 |
-| Twist and shout | 0.50% | ~4,873 |
+| Decorator | 0.50% | ~4,874 |
+| Drop the Base | 0.50% | ~4,874 |
+| It's heading right for us! | 0.50% | ~4,874 |
+| Postman | 0.50% | ~4,874 |
+| Shake It Up! | 0.50% | ~4,874 |
+| Speed up! | 0.50% | ~4,874 |
+| The Waters of Our Lives | 0.50% | ~4,874 |
+| Twist and shout | 0.50% | ~4,874 |
 | Airfield Expertise | 0.40% | ~3,899 |
 | Airlifter | 0.40% | ~3,899 |
 | Get Your Snowshoes Ready! | 0.40% | ~3,899 |
@@ -126,7 +126,7 @@ Number of Ratings: 25,248  (23.09.2022)
 | World of Rotorcraft | 0.10% | ~975 |
 | Z00 | 0.10% | ~975 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 974,648 (Ranked 13)  
+Progressed: 974,704 (Ranked 13)  
 Completed: 10 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,9 +238,10 @@ Completed: 10 (0.00%) (Ranked 251)
 | 2023-08-07 | 970,903 | 10 |
 | 2023-08-08 | 972,785 | 10 |
 | 2023-08-09 | 974,648 | 10 |
+| 2023-08-10 | 974,704 | 10 |
 ## Awards
 Max (Relaxing): 5,102  (Ranked 68)  
-Sum: 38,680 (Ranked 32)  
+Sum: 38,684 (Ranked 32)  
 Diff (max vs sum): 36  
 | Award | Count |
 | ----- | ----- |
@@ -250,7 +251,7 @@ Diff (max vs sum): 36
 | This game has Quickly Understood Controls | 4,762 |
 | This game is Extremely Fun | 4,455 |
 | This game is Highly Recommended | 4,298 |
-| This game has Amazing Storytelling | 3,614 |
+| This game has Amazing Storytelling | 3,618 |
 | This game has a Creative Community | 3,486 |
 | This game has Amazing Characters | 3,093 |
 | This game has Obsessive Gameplay | 2,497 |
@@ -452,4 +453,4 @@ Diff (max vs sum): 36
 | 2023-08-06 | 4.65 | - | 5,077 | 38,525 |
 | 2023-08-07 | 4.65 | - | 5,083 | 38,581 |
 | 2023-08-08 | 4.65 | - | 5,091 | 38,634 |
-| 2023-08-09 | 4.65 | - | 5,102 | 38,680 |
+| 2023-08-09 | 4.65 | - | 5,102 | 38,684 |

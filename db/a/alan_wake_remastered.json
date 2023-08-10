@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 71,
+  "Ranking_EOS_NewPlayers": 72,
   "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 60613,
+  "EOS_Progressed": 60614,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 614,
+  "EOS_NewPlayers": 602,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -10772,6 +10772,11 @@
       "Time": "2023-08-09T23:04:36.3790676+00:00",
       "NumProgressed": 60613,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-10T00:04:58.2322063+00:00",
+      "NumProgressed": 60614,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -10831,7 +10836,7 @@
       "Name": "Heavy Metal",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6667
+      "UsersEstimate": 6668
     },
     {
       "ID": "08",
@@ -10871,7 +10876,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6667
+      "UsersEstimate": 6668
     },
     {
       "ID": "13",
@@ -10967,7 +10972,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6667
+      "UsersEstimate": 6668
     },
     {
       "ID": "25",
@@ -10983,7 +10988,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6667
+      "UsersEstimate": 6668
     },
     {
       "ID": "27",
@@ -11183,7 +11188,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1926
+      "UsersEstimate": 1927
     },
     {
       "ID": "52",
@@ -11318,21 +11323,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 60613,
+      "Progressed": 60614,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 24081,
+      "Progressed": 24082,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-09T23:04:36.3790672+00:00",
+  "LastChanged_Achievements": "2023-08-10T00:04:58.2322055+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:26.4964539+00:00",
-  "LastUpdate_Ratings": "2023-08-09T22:58:24.3649574+00:00",
-  "LastUpdate_Achievements": "2023-08-09T23:04:36.3791695+00:00"
+  "LastUpdate_Ratings": "2023-08-09T23:58:40.2742708+00:00",
+  "LastUpdate_Achievements": "2023-08-10T00:04:58.2323351+00:00"
 }

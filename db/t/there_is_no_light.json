@@ -2,10 +2,10 @@
   "ID": "a3968b24e9064e17b54aa605e4fc9ffc",
   "Name": "There Is No Light",
   "ProductSlug": "there-is-no-light-4eadf2",
-  "Ranking_EOS_Progress": 534,
+  "Ranking_EOS_Progress": 536,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 359,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-09-19T17:00:00+00:00",
     "PcReleaseDate": "2022-09-19T17:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:58.6318904+00:00",
   "LastChanged": "2023-03-31T05:57:58.6318905+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:13.0472196+00:00",
-  "LastUpdate_Ratings": "2023-08-09T22:59:59.2851976+00:00",
-  "LastUpdate_Achievements": "2023-08-09T23:03:14.2195297+00:00"
+  "LastUpdate_Ratings": "2023-08-10T00:00:09.9200661+00:00",
+  "LastUpdate_Achievements": "2023-08-10T00:03:24.1315023+00:00"
 }

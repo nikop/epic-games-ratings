@@ -69,6 +69,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Supply Run | 0.10% | ~220 |
 | Best Laid Plans | 0.10% | ~187 |
 | Pincushion Party | 0.10% | ~187 |
+| G. O. A. T. | 0.10% | ~187 |
 | The Howling Peaks of Yon | 0.10% | ~187 |
 | Heavy Burden | 0.10% | ~220 |
 | Seeds of Destruction | 0.10% | ~187 |
@@ -262,6 +263,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dead Three | 0.10% | ~220 |
 | Slow and Steady | 0.10% | ~220 |
 | A Hero's Entourage | 0.10% | ~220 |
+| Sneak Attack | 0.10% | ~187 |
 | Flying Monkey Skulls of Doom | 0.10% | ~220 |
 | Lair of the Xanathar | 0.10% | ~220 |
 | Dreams of Beholders | 0.10% | ~220 |
@@ -311,6 +313,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hailstorm! | 0.10% | ~187 |
 | Resolve Amongst Chaos | 0.10% | ~220 |
 | All You Know Is Wrong | 0.10% | ~220 |
+| Shadow Stalkers | 0.10% | ~187 |
 | Avernus Frozen Over | 0.10% | ~187 |
 | Market Fluctuations | 0.10% | ~220 |
 | Once More Into The Breach | 0.10% | ~220 |
@@ -340,9 +343,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Look Out! | 0.10% | ~187 |
 | The Path of Dreams | 0.10% | ~187 |
 | The Path of Redcaps | 0.10% | ~187 |
+| The Path of Trials | 0.10% | ~187 |
 | Bad Odds in Avernus | 0.10% | ~187 |
 | The Lost Hollyphant | 0.10% | ~187 |
 | Zapper Overload | 0.10% | ~187 |
+| Best Friend Search Squad! | 0.10% | ~187 |
 | Alterdeep | 0.10% | ~187 |
 | Elder Rune Attack | 0.10% | ~187 |
 | The Gargoyle | 0.10% | ~187 |
@@ -433,6 +438,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Volo's Guide to Kuo-toa | 0.10% | ~187 |
 | Ending the Rime - Part 1 | 0.10% | ~187 |
 | Ambitious Speakers - Part 1 | 0.10% | ~187 |
+| Shady Sidekicks - Part 1 | 0.10% | ~187 |
 | Ending the Rime - Part 2 | 0.10% | ~187 |
 | Reghed Glacier Mysteries | 0.10% | ~187 |
 | Mysteries Unlocked | 0.10% | ~187 |
@@ -448,6 +454,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Watchful Eyes | 0.10% | ~187 |
 | Maroon Madness | 0.10% | ~187 |
 | The Rite of the Arcane Octad | 0.10% | ~187 |
+| Alien Allies | 0.10% | ~187 |
 | The Netherese Necropolis | 0.10% | ~187 |
 | Ineffectual Intellectuals | 0.10% | ~187 |
 | The Archaeologist and the Sailor | 0.10% | ~187 |
@@ -490,7 +497,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | All Damage, All The Time | 0.00% | ~0 |
 | Will of the Frozen Feywild | 0.00% | ~0 |
 | The Loots of Loomlurch | 0.00% | ~0 |
-| G. O. A. T. | 0.00% | ~0 |
 | Strength of Character | 0.00% | ~0 |
 | The Invisible Wizards of Thay | 0.00% | ~0 |
 | A Nimble Approach | 0.00% | ~0 |
@@ -500,10 +506,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mongrelfolk Incursion | 0.00% | ~0 |
 | Air's Getting Pretty Thin | 0.00% | ~0 |
 | Spirit of the Trickster Gods | 0.00% | ~0 |
-| Sneak Attack | 0.00% | ~0 |
-| Shadow Stalkers | 0.00% | ~0 |
-| The Path of Trials | 0.00% | ~0 |
-| Best Friend Search Squad! | 0.00% | ~0 |
 | An Even Worse Time in Avernus | 0.00% | ~0 |
 | Fire and Brimstone | 0.00% | ~0 |
 | Power of Three | 0.00% | ~0 |
@@ -514,16 +516,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | Fire and Ice | 0.00% | ~0 |
 | The Battle of High Hall Tower | 0.00% | ~0 |
 | Might Makes Right | 0.00% | ~0 |
-| Shady Sidekicks - Part 1 | 0.00% | ~0 |
 | Ambitious Speakers - Part 2 | 0.00% | ~0 |
 | Shady Sidekicks - Part 2 | 0.00% | ~0 |
-| Alien Allies | 0.00% | ~0 |
 | An Icewind Dale Reunion | 0.00% | ~0 |
 | Quick or Quack | 0.00% | ~0 |
 | Tiny Treaty | 0.00% | ~0 |
 | All The World's A Stage | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,283 (Ranked 52)  
+Progressed: 220,295 (Ranked 52)  
 Completed: 2,167 (0.98%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -635,6 +635,7 @@ Completed: 2,167 (0.98%) (Ranked 113)
 | 2023-08-07 | 219,734 | 2,162 |
 | 2023-08-08 | 220,011 | 2,165 |
 | 2023-08-09 | 220,283 | 2,167 |
+| 2023-08-10 | 220,295 | 2,167 |
 ## Awards
 Max (Diverse Characters): 5,128  (Ranked 67)  
 Sum: 30,971 (Ranked 38)  
