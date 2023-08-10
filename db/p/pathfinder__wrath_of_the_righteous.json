@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 113,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3434,9 +3434,9 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 10887,
+  "EOS_Progressed": 10890,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10514,6 +10514,11 @@
       "Time": "2023-08-10T11:03:35.3436131+00:00",
       "NumProgressed": 10887,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-10T14:04:36.7525924+00:00",
+      "NumProgressed": 10890,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -10525,7 +10530,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 2395
+      "UsersEstimate": 2396
     },
     {
       "ID": "02_BurningCity",
@@ -10533,7 +10538,7 @@
       "Name": "Burning City",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1633
+      "UsersEstimate": 1634
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -10541,7 +10546,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1306
+      "UsersEstimate": 1307
     },
     {
       "ID": "04_FithCrusade",
@@ -10597,7 +10602,7 @@
       "Name": "Path of the Azata",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "11_PathOfAeon",
@@ -10653,7 +10658,7 @@
       "Name": "Transformation",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "18_MythicChoices",
@@ -10661,7 +10666,7 @@
       "Name": "Mythic Choices",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1415
+      "UsersEstimate": 1416
     },
     {
       "ID": "19_EqualToAroden",
@@ -10709,7 +10714,7 @@
       "Name": "The Legacy",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "25_MasterfulDispell",
@@ -10757,7 +10762,7 @@
       "Name": "Divide and Rule",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "32_MythicReinforcements",
@@ -10773,7 +10778,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1415
+      "UsersEstimate": 1416
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -10869,7 +10874,7 @@
       "Name": "Voice from Your Dreams",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "46_AllPathsOpen",
@@ -10901,7 +10906,7 @@
       "Name": "A Flame",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "50_HeyIKnowYou",
@@ -10949,7 +10954,7 @@
       "Name": "Next-Door Play",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "56_GetToad",
@@ -10957,7 +10962,7 @@
       "Name": "Get the Toad",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "57_PathOfDevil",
@@ -11452,21 +11457,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9669,
+      "Progressed": 9672,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10887,
+      "Progressed": 10890,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-08-10T13:12:02.5166871+00:00",
-  "LastChanged_Achievements": "2023-08-10T13:16:36.2141854+00:00",
+  "LastChanged_Achievements": "2023-08-10T14:04:36.7525917+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:18.5411463+00:00",
-  "LastUpdate_Ratings": "2023-08-10T13:12:02.5166876+00:00",
-  "LastUpdate_Achievements": "2023-08-10T13:16:36.2143463+00:00"
+  "LastUpdate_Ratings": "2023-08-10T14:00:14.8014182+00:00",
+  "LastUpdate_Achievements": "2023-08-10T14:04:36.7529733+00:00"
 }

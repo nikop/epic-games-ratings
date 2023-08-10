@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 415,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 18,
-  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2022-06-15T09:00:00+00:00",
@@ -1689,9 +1689,9 @@
       "ID": "GotBattery",
       "SetID": "5lok9mm",
       "Name": "Got Battery",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 1752
+      "UsersEstimate": 1774
     },
     {
       "ID": "Greenhouse",
@@ -1945,8 +1945,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-07-21T20:00:23.2474099+00:00",
-  "LastChanged_Achievements": "2023-08-10T13:16:16.4366493+00:00",
+  "LastChanged_Achievements": "2023-08-10T14:04:13.9328527+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:59.03219+00:00",
-  "LastUpdate_Ratings": "2023-08-10T13:14:10.6085358+00:00",
-  "LastUpdate_Achievements": "2023-08-10T13:16:16.4366925+00:00"
+  "LastUpdate_Ratings": "2023-08-10T14:02:15.0820984+00:00",
+  "LastUpdate_Achievements": "2023-08-10T14:04:13.9329436+00:00"
 }

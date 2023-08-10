@@ -13,11 +13,11 @@ Number of Ratings: 12,664  (23.09.2022)
 | Disintermediation | 0.60% | ~806 |
 | It's Free Real Estate | 0.60% | ~806 |
 | Capitalism Ho! | 0.60% | ~806 |
+| Some Assembly Required | 0.50% | ~671 |
 | Another Satisfied Customer | 0.50% | ~671 |
 | Budding Merchant | 0.50% | ~671 |
 | Own the Means of Production | 0.50% | ~671 |
 | One Easy Payment | 0.40% | ~537 |
-| Some Assembly Required | 0.40% | ~537 |
 | Pretty Penny | 0.40% | ~537 |
 | One-Armed Bandit | 0.40% | ~537 |
 | Through Repetition, Perfection | 0.40% | ~537 |

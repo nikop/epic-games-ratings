@@ -2,9 +2,9 @@
   "ID": "0113dd49216f4f2d995ef9a6eebd67f4",
   "Name": "Stray Gods: The Roleplaying Musical",
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
-  "Ranking_EOS_Progress": 438,
+  "Ranking_EOS_Progress": 429,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 9,
+  "EOS_Progressed": 11,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -43,6 +43,11 @@
     {
       "Time": "2023-08-10T13:15:12.530771+00:00",
       "NumProgressed": 9,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-10T14:02:41.9478376+00:00",
+      "NumProgressed": 11,
       "NumCompleted": 0
     }
   ],
@@ -126,7 +131,7 @@
       "ID": "SG_ENDOFTHEROAD",
       "SetID": "bj5g0n4",
       "Name": "End Of The Road",
-      "Percentage": 22,
+      "Percentage": 18,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -206,7 +211,7 @@
       "ID": "SG_NOTALOSTGIRL",
       "SetID": "bj5g0n4",
       "Name": "Not A Lost Girl",
-      "Percentage": 22,
+      "Percentage": 18,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -222,7 +227,7 @@
       "ID": "SG_QUEENWITHOUTATHRONE",
       "SetID": "bj5g0n4",
       "Name": "Queen Without A Throne",
-      "Percentage": 11,
+      "Percentage": 9,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -278,7 +283,7 @@
       "ID": "SG_THEDEEPEND",
       "SetID": "bj5g0n4",
       "Name": "The Deep End",
-      "Percentage": 11,
+      "Percentage": 9,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -351,13 +356,13 @@
     {
       "ID": "bj5g0n4",
       "IsBase": true,
-      "Progressed": 9,
+      "Progressed": 11,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-08-10T13:15:12.5307705+00:00",
+  "LastChanged_Achievements": "2023-08-10T14:02:41.9478372+00:00",
   "LastUpdate_AppInfo": "2023-08-10T07:57:00.7529969+00:00",
-  "LastUpdate_Ratings": "2023-08-10T13:09:14.7588144+00:00",
-  "LastUpdate_Achievements": "2023-08-10T13:15:12.5307967+00:00"
+  "LastUpdate_Ratings": "2023-08-10T13:57:06.9784976+00:00",
+  "LastUpdate_Achievements": "2023-08-10T14:02:41.9478828+00:00"
 }

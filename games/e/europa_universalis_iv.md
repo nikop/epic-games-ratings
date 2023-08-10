@@ -6,29 +6,29 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 8.00% | ~6,717 |
-| Victorious! | 8.00% | ~6,717 |
-| That's a Grand Army | 7.00% | ~5,877 |
-| That is mine! | 7.00% | ~5,877 |
-| Brothers in Arms | 6.00% | ~5,038 |
-| That's a Grand Navy | 6.00% | ~5,038 |
-| Seriously?! | 6.00% | ~5,038 |
-| Cold War | 4.00% | ~3,358 |
-| For the Glory | 4.00% | ~3,358 |
-| Defender of the Faith | 3.00% | ~2,519 |
-| It's all about the money | 3.00% | ~2,519 |
-| Respected | 3.00% | ~2,519 |
-| True Catholic | 3.00% | ~2,519 |
-| Truly Divine Ruler | 3.00% | ~2,519 |
-| Agressive Expander | 2.00% | ~1,679 |
-| Blockader | 2.00% | ~1,679 |
-| Combined Arms | 2.00% | ~1,679 |
-| Double the Love | 2.00% | ~1,679 |
-| It's all about luck | 2.00% | ~1,679 |
-| My armies are invincible! | 2.00% | ~1,679 |
-| Royal Authority | 2.00% | ~1,679 |
-| The Princess is in this Castle | 2.00% | ~1,679 |
-| Total Control | 2.00% | ~1,679 |
+| Until death do us apart | 8.00% | ~6,722 |
+| Victorious! | 8.00% | ~6,722 |
+| That's a Grand Army | 7.00% | ~5,882 |
+| That is mine! | 7.00% | ~5,882 |
+| Brothers in Arms | 6.00% | ~5,041 |
+| That's a Grand Navy | 6.00% | ~5,041 |
+| Seriously?! | 6.00% | ~5,041 |
+| Cold War | 4.00% | ~3,361 |
+| For the Glory | 4.00% | ~3,361 |
+| Defender of the Faith | 3.00% | ~2,521 |
+| It's all about the money | 3.00% | ~2,521 |
+| Respected | 3.00% | ~2,521 |
+| True Catholic | 3.00% | ~2,521 |
+| Truly Divine Ruler | 3.00% | ~2,521 |
+| Agressive Expander | 2.00% | ~1,680 |
+| Blockader | 2.00% | ~1,680 |
+| Combined Arms | 2.00% | ~1,680 |
+| Double the Love | 2.00% | ~1,680 |
+| It's all about luck | 2.00% | ~1,680 |
+| My armies are invincible! | 2.00% | ~1,680 |
+| Royal Authority | 2.00% | ~1,680 |
+| The Princess is in this Castle | 2.00% | ~1,680 |
+| Total Control | 2.00% | ~1,680 |
 | All That's Thine Shall Be Mine | 1.00% | ~840 |
 | Azur semé de lis or | 1.00% | ~840 |
 | Bright Spark | 1.00% | ~840 |
@@ -70,7 +70,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | One Night in Paris | 0.40% | ~336 |
 | Tear Down This Wall | 0.40% | ~336 |
 | The Continuation of Diplomacy | 0.40% | ~336 |
-| Traditional Player | 0.40% | ~336 |
 | Wonderful | 0.40% | ~336 |
 | A Decent Reserve | 0.30% | ~252 |
 | A Pile of Gold | 0.30% | ~252 |
@@ -81,6 +80,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Not so sad a state... | 0.30% | ~252 |
 | The Chrysanthemum Throne | 0.30% | ~252 |
 | Three Trivial Tributary Tribes | 0.30% | ~252 |
+| Traditional Player | 0.30% | ~252 |
 | Vasa or Wettin? | 0.30% | ~252 |
 | World Discoverer | 0.30% | ~252 |
 | A Protected Market | 0.20% | ~168 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 83,960 (Ranked 72)  
+Progressed: 84,022 (Ranked 72)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -473,17 +473,17 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-07 | 82,030 | 0 |
 | 2023-08-08 | 82,784 | 0 |
 | 2023-08-09 | 83,551 | 0 |
-| 2023-08-10 | 83,960 | 0 |
+| 2023-08-10 | 84,022 | 0 |
 ## Awards
 Max (Educational): 5,639  (Ranked 62)  
-Sum: 46,541 (Ranked 26)  
+Sum: 46,548 (Ranked 26)  
 Diff (max vs sum): 36  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 5,639 |
 | This game is Highly Recommended | 5,409 |
+| This game has Challenging Combat | 5,359 |
 | This game is Extremely Fun | 5,356 |
-| This game has Challenging Combat | 5,352 |
 | This game has Diverse Characters | 5,316 |
 | This game is Relaxing | 5,210 |
 | This game has Competitive Players | 5,072 |
@@ -698,4 +698,4 @@ Diff (max vs sum): 36
 | 2023-08-07 | 4.69 | - | 5,630 | 46,462 |
 | 2023-08-08 | 4.69 | - | 5,632 | 46,487 |
 | 2023-08-09 | 4.69 | - | 5,639 | 46,524 |
-| 2023-08-10 | 4.69 | - | 5,639 | 46,541 |
+| 2023-08-10 | 4.69 | - | 5,639 | 46,548 |

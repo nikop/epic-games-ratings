@@ -16,6 +16,7 @@ Rating: 4.87 (Ranked 24)
 | Perfect Parry | 6.00% | ~230 |
 | This will cost you big time | 5.00% | ~191 |
 | Uh, they were broken when I got here | 5.00% | ~191 |
+| Kissing the sky! | 5.00% | ~191 |
 | Alright, that felt AWESOME! | 5.00% | ~191 |
 | The Negotiator | 4.00% | ~153 |
 | Headliner | 4.00% | ~153 |
@@ -25,7 +26,6 @@ Rating: 4.87 (Ranked 24)
 | You must like calling me in, Chai | 4.00% | ~153 |
 | Z-shielding's got nothing on us! | 4.00% | ~153 |
 | Out in a puff of smoke | 4.00% | ~153 |
-| Kissing the sky! | 4.00% | ~153 |
 | I look cool. But I can look COOLER. | 4.00% | ~153 |
 | Does that say weakpoint? | 4.00% | ~153 |
 | NOW we got a kickass hideout! | 4.00% | ~94 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Voices from within | 0.10% | ~2 |
 | Low budget finish | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,826 (Ranked 147)  
+Progressed: 3,827 (Ranked 147)  
 Completed: 7 (0.18%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 7 (0.18%) (Ranked 181)
 | 2023-08-07 | 3,789 | 7 |
 | 2023-08-08 | 3,807 | 7 |
 | 2023-08-09 | 3,820 | 7 |
-| 2023-08-10 | 3,826 | 7 |
+| 2023-08-10 | 3,827 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

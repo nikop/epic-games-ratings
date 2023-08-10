@@ -2,9 +2,9 @@
   "ID": "22068a5c6e3649599c02ba4ec6be1a03",
   "Name": "The Lord of the Rings - Gollum\u2122",
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
-  "Ranking_EOS_Progress": 224,
+  "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 176,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 503,
+  "EOS_Progressed": 504,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -1150,6 +1150,11 @@
       "Time": "2023-08-09T17:02:22.637781+00:00",
       "NumProgressed": 503,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-10T14:03:31.7704593+00:00",
+      "NumProgressed": 504,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1225,7 +1230,7 @@
       "Name": "The Traitor",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "Chapter6",
@@ -1233,7 +1238,7 @@
       "Name": "The Spider",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "Chapter7",
@@ -1329,7 +1334,7 @@
       "Name": "Wait! Wait! Not yet!",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "Memories",
@@ -1448,14 +1453,14 @@
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 503,
+      "Progressed": 504,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-08-10T13:15:38.3519949+00:00",
+  "LastChanged_Achievements": "2023-08-10T14:03:31.7704589+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:34.1544199+00:00",
-  "LastUpdate_Ratings": "2023-08-10T13:11:15.1462289+00:00",
-  "LastUpdate_Achievements": "2023-08-10T13:15:38.3520246+00:00"
+  "LastUpdate_Ratings": "2023-08-10T13:59:22.0185763+00:00",
+  "LastUpdate_Achievements": "2023-08-10T14:03:31.7704958+00:00"
 }
