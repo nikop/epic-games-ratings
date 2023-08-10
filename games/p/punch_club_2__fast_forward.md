@@ -18,8 +18,8 @@
 | Your own amateur gym | 74.00% | ~180 |
 | Run K, run! | 72.00% | ~175 |
 | Fighting is cool | 68.00% | ~165 |
+| No bullying more | 68.00% | ~165 |
 | Hello, world! | 68.00% | ~165 |
-| No bullying more | 67.00% | ~163 |
 | Pal of your father? | 65.00% | ~158 |
 | Employee of the month | 64.00% | ~156 |
 | Spirit of the past | 62.00% | ~151 |
@@ -28,12 +28,12 @@
 | Little hacker | 58.00% | ~141 |
 | It's good to be alive | 58.00% | ~141 |
 | Own four walls | 58.00% | ~141 |
+| Handyman | 57.00% | ~139 |
 | Champion – starter pack | 57.00% | ~139 |
 | Intriguing candies | 57.00% | ~139 |
-| Handyman | 56.00% | ~136 |
+| Fight for life | 56.00% | ~136 |
 | Employee of the year | 56.00% | ~136 |
-| Fight for life | 55.00% | ~134 |
-| Legal courier | 51.00% | ~124 |
+| Legal courier | 52.00% | ~126 |
 | Extreme neuropower! | 51.00% | ~124 |
 | Escaped from a big trouble | 49.00% | ~119 |
 | Now you are worthy | 46.00% | ~112 |

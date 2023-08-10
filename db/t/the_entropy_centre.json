@@ -4,8 +4,8 @@
   "ProductSlug": "the-entropy-centre-40bccd",
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 285,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 284,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2022-11-03T16:00:00+00:00",
@@ -968,9 +968,9 @@
       "ID": "ACH_LOOPER",
       "SetID": "2310cb1",
       "Name": "Looper",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 36
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_REUINTED",
@@ -1017,8 +1017,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-08-10T17:04:13.4097484+00:00",
+  "LastChanged_Achievements": "2023-08-10T18:04:10.4403011+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:49.532667+00:00",
-  "LastUpdate_Ratings": "2023-08-10T16:59:07.3212474+00:00",
-  "LastUpdate_Achievements": "2023-08-10T17:04:13.4097673+00:00"
+  "LastUpdate_Ratings": "2023-08-10T17:59:00.9374403+00:00",
+  "LastUpdate_Achievements": "2023-08-10T18:04:10.4403257+00:00"
 }

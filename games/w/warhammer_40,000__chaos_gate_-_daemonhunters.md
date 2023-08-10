@@ -48,6 +48,7 @@ Number of Ratings: 371  (23.09.2022)
 | The Flesh is Weak | 0.10% | ~3 |
 | Blood and Iron | 0.10% | ~3 |
 | Clean Slate | 0.10% | ~3 |
+| Dominus | 0.10% | ~3 |
 | Unstable Immaterium | 0.10% | ~3 |
 | Opportunist | 0.10% | ~3 |
 | Hands-On Research | 0.10% | ~3 |
@@ -67,7 +68,6 @@ Number of Ratings: 371  (23.09.2022)
 | Crisis Management | 0.00% | ~0 |
 | Grand Master | 0.00% | ~0 |
 | Legend of Titan | 0.00% | ~0 |
-| Dominus | 0.00% | ~0 |
 | Drone Army | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |

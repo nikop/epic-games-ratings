@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 55,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 21,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -612,9 +612,9 @@
       "Count": 157
     }
   ],
-  "EOS_Progressed": 209850,
+  "EOS_Progressed": 209875,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4280,
+  "EOS_NewPlayers": 4258,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6392,6 +6392,11 @@
       "Time": "2023-08-10T17:05:09.7537943+00:00",
       "NumProgressed": 209850,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-10T18:05:01.8442601+00:00",
+      "NumProgressed": 209875,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -6849,9 +6854,9 @@
       "ID": "ElfHitTwoFriends",
       "SetID": "50chcgj",
       "Name": "Sowwy!",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6296
+      "UsersEstimate": 8395
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -7106,21 +7111,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 209850,
+      "Progressed": 209875,
       "Completed": 0
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 209850,
+      "Progressed": 209875,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-08T15:00:26.9457471+00:00",
-  "LastChanged_Achievements": "2023-08-10T17:05:09.7537939+00:00",
+  "LastChanged_Achievements": "2023-08-10T18:05:01.8442593+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:59.1388847+00:00",
-  "LastUpdate_Ratings": "2023-08-10T17:01:04.9636348+00:00",
-  "LastUpdate_Achievements": "2023-08-10T17:05:09.753905+00:00"
+  "LastUpdate_Ratings": "2023-08-10T18:00:50.8437969+00:00",
+  "LastUpdate_Achievements": "2023-08-10T18:05:01.8444159+00:00"
 }

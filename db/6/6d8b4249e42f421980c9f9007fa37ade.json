@@ -4,8 +4,8 @@
   "ProductSlug": "return-to-abyss-226301",
   "Ranking_EOS_Progress": 323,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
     "PcReleaseDate": "2023-01-06T16:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 96,
+  "EOS_Progressed": 97,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -411,6 +411,11 @@
       "Time": "2023-08-08T03:06:41.9151724+00:00",
       "NumProgressed": 96,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-10T18:07:20.017378+00:00",
+      "NumProgressed": 97,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -420,7 +425,7 @@
       "ID": "Epic_ArcGenerator_1",
       "SetID": "ba1m2fc",
       "Name": "10,000-Volt Electric Field",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 10,
       "UsersEstimate": 65
     },
@@ -524,7 +529,7 @@
       "ID": "Epic_Firefly_1",
       "SetID": "ba1m2fc",
       "Name": "Stars\u0027 Shimmer",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 10,
       "UsersEstimate": 60
     },
@@ -548,7 +553,7 @@
       "ID": "Epic_GoldenCity_1",
       "SetID": "ba1m2fc",
       "Name": "Dystopia",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 10,
       "UsersEstimate": 42
     },
@@ -580,7 +585,7 @@
       "ID": "Epic_HolyLight_1",
       "SetID": "ba1m2fc",
       "Name": "Exorcism",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 10,
       "UsersEstimate": 72
     },
@@ -604,7 +609,7 @@
       "ID": "Epic_InnerWorld_1",
       "SetID": "ba1m2fc",
       "Name": "Pseudo-redemption",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
       "UsersEstimate": 14
     },
@@ -684,7 +689,7 @@
       "ID": "Epic_Purgatory_1",
       "SetID": "ba1m2fc",
       "Name": "Paradise Lost",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 10,
       "UsersEstimate": 66
     },
@@ -748,7 +753,7 @@
       "ID": "Epic_SwampPet_1",
       "SetID": "ba1m2fc",
       "Name": "The Indescribable",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
       "UsersEstimate": 36
     },
@@ -805,14 +810,14 @@
     {
       "ID": "ba1m2fc",
       "IsBase": true,
-      "Progressed": 96,
+      "Progressed": 97,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-08-10T17:07:40.3283537+00:00",
+  "LastChanged_Achievements": "2023-08-10T18:07:20.0173773+00:00",
   "LastUpdate_AppInfo": "2023-08-10T07:57:01.347229+00:00",
-  "LastUpdate_Ratings": "2023-08-10T16:58:29.1588587+00:00",
-  "LastUpdate_Achievements": "2023-08-10T17:07:40.3283886+00:00"
+  "LastUpdate_Ratings": "2023-08-10T17:58:24.8002834+00:00",
+  "LastUpdate_Achievements": "2023-08-10T18:07:20.0174255+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -220,7 +220,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17211,
+  "EOS_Progressed": 17213,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 410,
   "EOS_NewCompleters": 0,
@@ -7915,6 +7915,11 @@
       "Time": "2023-08-10T17:05:26.7254295+00:00",
       "NumProgressed": 17211,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-10T18:05:17.4459788+00:00",
+      "NumProgressed": 17213,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -7926,7 +7931,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 4991
+      "UsersEstimate": 4992
     },
     {
       "ID": "0002",
@@ -7998,7 +8003,7 @@
       "Name": "Social of Solace",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "0011",
@@ -8110,7 +8115,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 3786
+      "UsersEstimate": 3787
     },
     {
       "ID": "0025",
@@ -8126,7 +8131,7 @@
       "Name": "The Living Portrait",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2065
+      "UsersEstimate": 2066
     },
     {
       "ID": "0027",
@@ -8150,7 +8155,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2237
+      "UsersEstimate": 2238
     },
     {
       "ID": "0030",
@@ -8166,7 +8171,7 @@
       "Name": "Private Collection",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2065
+      "UsersEstimate": 2066
     },
     {
       "ID": "0032",
@@ -8174,7 +8179,7 @@
       "Name": "Killer Looks",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2065
+      "UsersEstimate": 2066
     },
     {
       "ID": "0033",
@@ -8182,7 +8187,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2065
+      "UsersEstimate": 2066
     },
     {
       "ID": "0034",
@@ -8190,7 +8195,7 @@
       "Name": "Smells Like Trouble",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2065
+      "UsersEstimate": 2066
     },
     {
       "ID": "0035",
@@ -8213,7 +8218,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17211,
+      "Progressed": 17213,
       "Completed": 1
     }
   ],
@@ -8221,8 +8226,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-08T19:59:53.3803436+00:00",
-  "LastChanged_Achievements": "2023-08-10T17:05:26.725429+00:00",
+  "LastChanged_Achievements": "2023-08-10T18:05:17.4459781+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:35.6736811+00:00",
-  "LastUpdate_Ratings": "2023-08-10T17:01:52.224853+00:00",
-  "LastUpdate_Achievements": "2023-08-10T17:05:26.7254844+00:00"
+  "LastUpdate_Ratings": "2023-08-10T18:01:35.0986522+00:00",
+  "LastUpdate_Achievements": "2023-08-10T18:05:17.4460652+00:00"
 }

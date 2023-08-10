@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 101,
-  "Ranking_EOS_NewPlayers": 318,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 317,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-02-28T00:00:00+00:00",
     "PcReleaseDate": "2021-09-27T00:00:00+00:00",
@@ -481,9 +481,9 @@
       "ID": "ACH_014",
       "SetID": "72imik0",
       "Name": "Order and Method",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 213
+      "UsersEstimate": 217
     },
     {
       "ID": "ACH_015",
@@ -657,9 +657,9 @@
       "ID": "ACH_034",
       "SetID": "72imik0",
       "Name": "Comtesse Margaux de Vos",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 184
+      "UsersEstimate": 189
     },
     {
       "ID": "ACH_035",
@@ -818,8 +818,8 @@
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "LastChanged": "2023-07-07T15:57:52.1284059+00:00",
-  "LastChanged_Achievements": "2023-08-10T17:06:09.2798297+00:00",
+  "LastChanged_Achievements": "2023-08-10T18:05:56.14968+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:28.7854708+00:00",
-  "LastUpdate_Ratings": "2023-08-10T16:59:25.2816207+00:00",
-  "LastUpdate_Achievements": "2023-08-10T17:06:09.2798631+00:00"
+  "LastUpdate_Ratings": "2023-08-10T17:59:18.580101+00:00",
+  "LastUpdate_Achievements": "2023-08-10T18:05:56.1497183+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "shotgun-farmers-d9f3f0",
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 251,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1370,9 +1370,9 @@
       "ID": "ach_sniperKillNoScope",
       "SetID": "cmg602e",
       "Name": "No Asperascope",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 128
+      "UsersEstimate": 131
     },
     {
       "ID": "ach_steal_x_gnomes",
@@ -1689,8 +1689,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-08-10T17:07:41.0161758+00:00",
+  "LastChanged_Achievements": "2023-08-10T18:07:20.6652951+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:06.8203397+00:00",
-  "LastUpdate_Ratings": "2023-08-10T17:00:08.6533135+00:00",
-  "LastUpdate_Achievements": "2023-08-10T17:07:41.0162383+00:00"
+  "LastUpdate_Ratings": "2023-08-10T17:59:55.0399723+00:00",
+  "LastUpdate_Achievements": "2023-08-10T18:07:20.6653729+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "a30d60ca7a8d4fd2ad6e531c59854e5e",
   "Name": "WRC Generations",
   "ProductSlug": "wrc-11-fia-world-rally-championship-f0749b",
-  "Ranking_Rating": 657,
+  "Ranking_Rating": 644,
   "Ranking_Popularity": 511,
   "Ranking_PopularitySum": 511,
-  "Ranking_EOS_Progress": 539,
+  "Ranking_EOS_Progress": 540,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 359,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-11-03T09:00:00+00:00",
     "PcReleaseDate": "2022-11-03T09:00:00+00:00",
@@ -18,7 +18,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.43,
+  "Rating": 4.44,
   "RatingHistory": [
     {
       "Time": "2022-11-09T14:57:20.1169923+00:00",
@@ -305,6 +305,12 @@
       "Rating": 4.43,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-08-10T17:59:06.3085155+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -323,8 +329,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-03T15:34:05.2921082+00:00",
   "FirstSeenRating": "2022-11-09T14:57:20.1169919+00:00",
-  "LastChanged": "2023-07-31T07:58:00.331589+00:00",
+  "LastChanged": "2023-08-10T17:59:06.3085154+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:54.5251768+00:00",
-  "LastUpdate_Ratings": "2023-08-10T16:59:13.932238+00:00",
-  "LastUpdate_Achievements": "2023-08-10T17:03:30.5150997+00:00"
+  "LastUpdate_Ratings": "2023-08-10T17:59:06.308517+00:00",
+  "LastUpdate_Achievements": "2023-08-10T18:03:29.4137257+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "d602fd70876141ba9bf4d54809c423d1",
   "Name": "The Evil Within",
   "ProductSlug": "the-evil-within",
-  "Ranking_EOS_Progress": 385,
+  "Ranking_EOS_Progress": 382,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
     "PcReleaseDate": "2014-07-13T00:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 36,
+  "EOS_Progressed": 37,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -204,6 +204,11 @@
       "Time": "2023-08-10T14:04:35.8976022+00:00",
       "NumProgressed": 36,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-10T18:04:36.0356071+00:00",
+      "NumProgressed": 37,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T16:01:32.1694174+00:00",
@@ -214,7 +219,7 @@
       "ID": "ACHIEVEMENT_01",
       "SetID": "ap8553i",
       "Name": "What\u0027s in the Box?",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 20,
       "UsersEstimate": 10
     },
@@ -422,7 +427,7 @@
       "ID": "ACHIEVEMENT_27",
       "SetID": "ap8553i",
       "Name": "Bloody Bar Brawl",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -430,7 +435,7 @@
       "ID": "ACHIEVEMENT_28",
       "SetID": "ap8553i",
       "Name": "Drop It Like It\u0027s Hot",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -783,20 +788,20 @@
     {
       "ID": "8ddjaeg",
       "IsBase": false,
-      "Progressed": 36,
+      "Progressed": 37,
       "Completed": 0
     },
     {
       "ID": "ap8553i",
       "IsBase": true,
-      "Progressed": 36,
+      "Progressed": 37,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-04T21:57:01.9865679+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5206267+00:00",
-  "LastChanged_Achievements": "2023-08-10T17:04:41.8244502+00:00",
+  "LastChanged_Achievements": "2023-08-10T18:04:36.0356061+00:00",
   "LastUpdate_AppInfo": "2023-08-09T15:57:03.7516548+00:00",
-  "LastUpdate_Ratings": "2023-08-10T16:57:46.0944398+00:00",
-  "LastUpdate_Achievements": "2023-08-10T17:04:41.8245117+00:00"
+  "LastUpdate_Ratings": "2023-08-10T17:57:44.5749327+00:00",
+  "LastUpdate_Achievements": "2023-08-10T18:04:36.0357021+00:00"
 }

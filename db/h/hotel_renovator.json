@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 97,
-  "Ranking_EOS_NewPlayers": 240,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
     "PcReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -104,9 +104,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 945,
+  "EOS_Progressed": 946,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.59,
   "EosHistory": [
@@ -1329,6 +1329,11 @@
       "Time": "2023-08-10T00:05:29.0352837+00:00",
       "NumProgressed": 945,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-08-10T18:06:39.1993582+00:00",
+      "NumProgressed": 946,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 27,
@@ -1354,9 +1359,9 @@
       "ID": "ACH_CHICKEN_ENCOUNTERED",
       "SetID": "7k95e4n",
       "Name": "Soulmate?",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 510
+      "UsersEstimate": 501
     },
     {
       "ID": "ACH_DICE_WIN",
@@ -1396,7 +1401,7 @@
       "Name": "Broken heart",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ACH_GHOST_BUSTED",
@@ -1428,7 +1433,7 @@
       "Name": "Memento",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "ACH_GRANDPA_LETTER",
@@ -1444,7 +1449,7 @@
       "Name": "And so it begins",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "ACH_INSTRUMENTS_FOUND",
@@ -1460,7 +1465,7 @@
       "Name": "Big fortune",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "ACH_POSTCARD",
@@ -1468,7 +1473,7 @@
       "Name": "Island boy",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ACH_POWER_OUTRAGE_FIXED",
@@ -1476,7 +1481,7 @@
       "Name": "Let there be light",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "ACH_SKILLS_ALL",
@@ -1492,7 +1497,7 @@
       "Name": "Good start",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "ACH_STAR_2",
@@ -1500,7 +1505,7 @@
       "Name": "Moving up",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "ACH_STAR_3",
@@ -1540,7 +1545,7 @@
       "Name": "Excellent service",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "ACH_WALLET_RETURNED",
@@ -1555,7 +1560,7 @@
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 945,
+      "Progressed": 946,
       "Completed": 15
     }
   ],
@@ -1563,8 +1568,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-08-10T10:58:10.9295179+00:00",
-  "LastChanged_Achievements": "2023-08-10T17:06:56.2387268+00:00",
+  "LastChanged_Achievements": "2023-08-10T18:06:39.1993571+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:35.5203401+00:00",
-  "LastUpdate_Ratings": "2023-08-10T16:58:42.7498921+00:00",
-  "LastUpdate_Achievements": "2023-08-10T17:06:56.2387469+00:00"
+  "LastUpdate_Ratings": "2023-08-10T17:58:37.7605751+00:00",
+  "LastUpdate_Achievements": "2023-08-10T18:06:39.1993878+00:00"
 }

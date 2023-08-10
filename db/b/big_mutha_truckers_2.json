@@ -2,10 +2,10 @@
   "ID": "7604bec709b141d0a0da90a687ce11d4",
   "Name": "Big Mutha Truckers 2",
   "ProductSlug": "big-mutha-truckers-990060",
-  "Ranking_EOS_Progress": 539,
+  "Ranking_EOS_Progress": 540,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 359,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-07-04T03:00:00+00:00",
     "PcReleaseDate": "2005-07-08T03:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:49.9853006+00:00",
   "LastChanged": "2023-03-31T05:57:49.9853006+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:48.489514+00:00",
-  "LastUpdate_Ratings": "2023-08-10T17:02:03.3729532+00:00",
-  "LastUpdate_Achievements": "2023-08-10T17:05:11.5741232+00:00"
+  "LastUpdate_Ratings": "2023-08-10T18:01:45.8959138+00:00",
+  "LastUpdate_Achievements": "2023-08-10T18:05:03.4761526+00:00"
 }

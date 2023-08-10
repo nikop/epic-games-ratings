@@ -1,7 +1,7 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.43 (Ranked 657)  
+Rating: 4.43 (Ranked 658)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -43,8 +43,8 @@ Rating: 4.43 (Ranked 657)
 | Don't hold your breath | 1.00% | ~34 |
 | Herr Today, Gone Tomorrow | 1.00% | ~34 |
 | It'll Buff Right Out | 0.90% | ~31 |
+| Shipbreaker | 0.90% | ~31 |
 | Strategist | 0.80% | ~28 |
-| Shipbreaker | 0.80% | ~27 |
 | Sink or Swim | 0.80% | ~27 |
 | Burn after reading | 0.70% | ~24 |
 | Operation Foxley | 0.70% | ~24 |

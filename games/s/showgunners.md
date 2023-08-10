@@ -59,7 +59,7 @@
 | Laser Precision | 0.00% | ~0 |
 | Forced into Hiding | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3 (Ranked 466)  
+Progressed: 3 (Ranked 467)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |

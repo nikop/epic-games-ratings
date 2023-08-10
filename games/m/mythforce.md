@@ -6,7 +6,7 @@ Number of Ratings: 285  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Death Becomes You | 4.00% | ~27 |
+| Death Becomes You | 4.00% | ~28 |
 | That'll Leave a Mark | 3.00% | ~21 |
 | Deadication | 2.00% | ~14 |
 | Debuff Dogpile | 2.00% | ~14 |
@@ -18,19 +18,19 @@ Number of Ratings: 285  (23.09.2022)
 | Perk Shard Punch Card | 2.00% | ~14 |
 | Ten Steps from the Grave | 2.00% | ~14 |
 | Cold-Blooded Critters | 1.00% | ~7 |
+| Everything Must Go! | 1.00% | ~7 |
 | The Harder They Fall | 1.00% | ~7 |
 | Horder Better Faster Stronger | 1.00% | ~7 |
 | Next Time on MythForce... | 1.00% | ~7 |
 | On this Episode! | 1.00% | ~7 |
 | Season Finale | 1.00% | ~7 |
 | Spending Spree | 1.00% | ~7 |
-| Everything Must Go! | 0.90% | ~6 |
 | The Fourth Gate | 0.90% | ~6 |
 | We've Got a Kaiju on the Field | 0.10% | ~1 |
 | Deadalus and Loving It | 0.00% | ~0 |
 | Vexed Her | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 687 (Ranked 209)  
+Progressed: 688 (Ranked 209)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -56,7 +56,7 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-07 | 652 | 0 |
 | 2023-08-08 | 663 | 0 |
 | 2023-08-09 | 674 | 0 |
-| 2023-08-10 | 687 | 0 |
+| 2023-08-10 | 688 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 451)  
 Sum: 226 (Ranked 356)  
