@@ -6,7 +6,7 @@
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
 | 5 | [Overloop](games/o/overloop.md) | 25.00% |
 | 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 7 | [Volley Pals](games/v/volley_pals.md) | 22.83% |
+| 7 | [Volley Pals](games/v/volley_pals.md) | 23.91% |
 | 8 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 22.22% |
 | 9 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
@@ -35,7 +35,7 @@
 | 33 | [Smelter](games/s/smelter.md) | 7.69% |
 | 34 | [Ravenlok](games/r/ravenlok.md) | 7.40% |
 | 35 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.99% |
-| 36 | [Scorn](games/s/scorn.md) | 6.95% |
+| 36 | [Scorn](games/s/scorn.md) | 6.94% |
 | 37 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.88% |
 | 38 | [Time Loader](games/t/time_loader.md) | 6.84% |
 | 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.54% |
@@ -162,8 +162,8 @@
 | 159 | [Dead Island 2](games/d/dead_island_2.md) | 0.31% |
 | 159 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 162 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.30% |
-| 163 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.29% |
-| 163 | [Scrapnaut](games/s/scrapnaut.md) | 0.29% |
+| 162 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.30% |
+| 164 | [Scrapnaut](games/s/scrapnaut.md) | 0.29% |
 | 165 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
 | 166 | [Against the Storm](games/a/against_the_storm.md) | 0.26% |
 | 166 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.26% |
@@ -535,4 +535,4 @@
 | 251 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 251 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 251 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,026 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,027 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
