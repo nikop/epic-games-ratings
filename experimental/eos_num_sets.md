@@ -1,12 +1,13 @@
 | Game | Total Achievements | Total XP | Sets |
 | ---- | ------------------ | -------- | ---- |
-| [](../games/4/4ceb047b661d401e95132c459fb00f9a.md) | 0 | 0 | 2 |
 | [](../games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 48 | 1,440 | 2 |
+| [](../games/4/4ceb047b661d401e95132c459fb00f9a.md) | 0 | 0 | 2 |
 | [Age of Wonders 4](../games/a/age_of_wonders_4.md) | 50 | 1,215 | 2 |
 | [Alan Wake Remastered](../games/a/alan_wake_remastered.md) | 67 | 1,500 | 2 |
 | [ArcRunner](../games/a/arcrunner.md) | 29 | 1,150 | 2 |
 | [Call of the Wild: The Angler™](../games/c/call_of_the_wild__the_angler™.md) | 35 | 1,200 | 2 |
 | [Cities: Skylines](../games/c/cities__skylines.md) | 119 | 2,580 | 2 |
+| [Crime Boss: Rockay City](../games/c/crime_boss__rockay_city.md) | 37 | 1,000 | 2 |
 | [Crying Suns](../games/c/crying_suns.md) | 79 | 1,160 | 2 |
 | [Dead by Daylight](../games/d/dead_by_daylight.md) | 223 | 5,345 | 2 |
 | [Destiny 2](../games/d/destiny_2.md) | 23 | 1,240 | 2 |
