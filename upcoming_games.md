@@ -89,7 +89,7 @@
 | [Whale Fall](games/c/cc46844c977144c78ef9903ae8efbed4.md) | 2023-09-30 | - |  | - | - |
 | [Wyvia](games/f/f8746c4784114e1b9d000187539201f4.md) | 2023-09-30 | - |  | - | - |
 | [XR22-SEAGUARD](games/a/a7a640d2ef344fe981c58f45405d1e2e.md) | 2023-09-30 | - |  | - | - |
-| [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 2023-09-30 | 46 (1,000 XP) | 0 | - | - |
+| [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 2023-09-30 | 46 (1,000 XP) | 1 | - | - |
 | [Game Dev Masters](games/g/game_dev_masters.md) | 2023-10-03 | 68 (1,000 XP) | 1 | - | - |
 | [The Lamplighters League](games/t/the_lamplighters_league.md) | 2023-10-03 | - |  | - | - |
 | [Bottle: Pilgrim Redux](games/d/d5f88a2d15f2400db1c116d6651e7c9e.md) | 2023-10-06 | 24 (1,000 XP) | 0 | - | - |
@@ -335,7 +335,6 @@
 | [Power of Ten](games/p/power_of_ten.md) | 2099-01-01 | - |  | - | - |
 | [Primal Survivors](games/5/50d797d4a45a495b94e4abc016ace565.md) | 2099-01-01 | - |  | - | - |
 | [Project Chaos](games/p/project_chaos.md) | 2099-01-01 | - |  | - | - |
-| [Project Nightmares Case 36: Henrietta Kedward](games/7/745fc8d94b6244caa3a97f453ddb92ca.md) | 2099-01-01 | 20 (1,000 XP) | 1 | - | - |
 | [Project Vesperi](games/5/55dfac02aaca4e078a868f3b9338b1f0.md) | 2099-01-01 | - |  | - | - |
 | [Prospect](games/c/c55698c1101c4c9e9b1448e08bd29be2.md) | 2099-01-01 | - |  | - | - |
 | [Puzzles for Clef](games/p/puzzles_for_clef.md) | 2099-01-01 | - |  | - | - |

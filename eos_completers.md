@@ -2,7 +2,7 @@
 | - | ---- | --------- |
 | 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.77% |
 | 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.84% |
-| 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 41.67% |
+| 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 40.54% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
 | 5 | [Overloop](games/o/overloop.md) | 25.00% |
 | 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
@@ -10,7 +10,7 @@
 | 8 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 22.22% |
 | 9 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
-| 11 | [Anna's Quest](games/a/anna's_quest.md) | 19.23% |
+| 11 | [Anna's Quest](games/a/anna's_quest.md) | 18.52% |
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
 | 13 | [Island Cities](games/i/island_cities.md) | 18.12% |
 | 14 | [Afterglitch](games/a/afterglitch.md) | 16.67% |
@@ -26,15 +26,15 @@
 | 24 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 10.53% |
 | 25 | [Out of Bounds](games/o/out_of_bounds.md) | 10.34% |
 | 26 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 9.76% |
-| 26 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.76% |
-| 28 | [Sonic Origins](games/s/sonic_origins.md) | 9.71% |
+| 27 | [Sonic Origins](games/s/sonic_origins.md) | 9.71% |
+| 28 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.52% |
 | 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.40% |
 | 30 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.95% |
 | 31 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.50% |
 | 32 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.20% |
 | 33 | [Smelter](games/s/smelter.md) | 7.69% |
-| 34 | [Ravenlok](games/r/ravenlok.md) | 7.40% |
-| 35 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.99% |
+| 34 | [Ravenlok](games/r/ravenlok.md) | 7.39% |
+| 35 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.95% |
 | 36 | [Scorn](games/s/scorn.md) | 6.94% |
 | 37 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.88% |
 | 38 | [Time Loader](games/t/time_loader.md) | 6.84% |
@@ -62,7 +62,7 @@
 | 60 | [Doodle God](games/d/doodle_god.md) | 3.46% |
 | 61 | [Bunny Park](games/b/bunny_park.md) | 3.39% |
 | 62 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.33% |
-| 63 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.31% |
+| 63 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.29% |
 | 64 | [HordeCore](games/h/hordecore.md) | 3.15% |
 | 65 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.01% |
 | 65 | [The Complex](games/t/the_complex.md) | 3.01% |
@@ -107,7 +107,7 @@
 | 105 | [Chorus](games/c/chorus.md) | 1.16% |
 | 106 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.12% |
 | 107 | [Trifox](games/t/trifox.md) | 1.11% |
-| 108 | [A Musical Story](games/a/a_musical_story.md) | 1.10% |
+| 108 | [A Musical Story](games/a/a_musical_story.md) | 1.09% |
 | 109 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.05% |
 | 110 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.01% |
 | 110 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.01% |
@@ -122,7 +122,7 @@
 | 120 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.76% |
 | 121 | [Lemon Cake](games/l/lemon_cake.md) | 0.75% |
 | 122 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.74% |
-| 122 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.74% |
+| 123 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.73% |
 | 124 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.65% |
 | 124 | [Haven](games/h/haven.md) | 0.65% |
 | 124 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.65% |
@@ -535,5 +535,6 @@
 | 251 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 251 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 251 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
+| 251 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 251 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,027 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,028 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
