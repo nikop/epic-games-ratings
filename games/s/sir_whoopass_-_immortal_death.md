@@ -13,33 +13,33 @@
 | AHHHHHH.....I'M ON FIRE!!! | 85.00% | ~80 |
 | Not so hip anymore! | 85.00% | ~80 |
 | Blurry depth perception | 83.00% | ~78 |
-| Up and down | 80.00% | ~75 |
-| Rolling, Rolling, Rolling | 73.00% | ~69 |
-| Fire-fighter! | 67.00% | ~63 |
-| Oh, you're up to no gouda! | 63.00% | ~59 |
-| Make Love not War-Craft a Mistlefoe | 61.00% | ~57 |
-| Meat grinder | 61.00% | ~57 |
-| You're not going to blow me up! | 53.00% | ~50 |
-| Mushroom soup of the day | 52.00% | ~49 |
-| Honk honk! | 50.00% | ~47 |
-| Butcher | 50.00% | ~47 |
-| Spare Ribs | 50.00% | ~47 |
-| Cockadoodledoo! | 49.00% | ~46 |
-| Thats disgusting! | 46.00% | ~43 |
+| Up and down | 81.00% | ~76 |
+| Rolling, Rolling, Rolling | 74.00% | ~70 |
+| Fire-fighter! | 68.00% | ~64 |
+| Oh, you're up to no gouda! | 64.00% | ~60 |
+| Make Love not War-Craft a Mistlefoe | 62.00% | ~58 |
+| Meat grinder | 62.00% | ~58 |
+| You're not going to blow me up! | 54.00% | ~51 |
+| Mushroom soup of the day | 53.00% | ~50 |
+| Honk honk! | 51.00% | ~48 |
+| Butcher | 51.00% | ~48 |
+| Spare Ribs | 51.00% | ~48 |
+| Cockadoodledoo! | 50.00% | ~47 |
+| Thats disgusting! | 47.00% | ~44 |
 | My pants squeak when I walk | 45.00% | ~42 |
-| Surprise!! | 43.00% | ~40 |
+| Surprise!! | 44.00% | ~41 |
 | Self assessed tax return | 40.00% | ~38 |
 | Haemochromatosis | 40.00% | ~38 |
-| Make America Grate Again | 36.00% | ~34 |
+| Make America Grate Again | 37.00% | ~35 |
 | Pasta Bolognese | 35.00% | ~33 |
+| Catch the bus with me! | 34.00% | ~32 |
+| Karaoke king | 34.00% | ~32 |
 | You can't stop me, bro! | 34.00% | ~32 |
 | You are no match for me, Billy! | 33.00% | ~31 |
-| Catch the bus with me! | 33.00% | ~31 |
-| Karaoke king | 33.00% | ~31 |
 | I'm going to get a concussion | 32.00% | ~30 |
 | Meatballs, coming up! | 28.00% | ~26 |
+| A Megapint...? | 28.00% | ~26 |
 | Another one bites the iron | 28.00% | ~26 |
-| A Megapint...? | 27.00% | ~25 |
 | Ripe Meat Off The Bone! | 24.00% | ~23 |
 | Hovering around | 24.00% | ~23 |
 | Kleptomaniac | 23.00% | ~22 |

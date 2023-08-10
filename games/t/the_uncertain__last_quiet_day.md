@@ -20,9 +20,9 @@
 | The Walking Robot Among Us | 20.00% | ~104 |
 | Every little helps | 19.00% | ~99 |
 | He is just a child | 19.00% | ~99 |
+| Concrete painting | 17.00% | ~89 |
 | Uncertain | 17.00% | ~89 |
 | Ace | 16.00% | ~84 |
-| Concrete painting | 16.00% | ~84 |
 | Goody | 16.00% | ~84 |
 | Hipster | 16.00% | ~84 |
 | Not what it seems | 16.00% | ~84 |

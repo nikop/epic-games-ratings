@@ -443,6 +443,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mimic Vengeance | 0.10% | ~187 |
 | REALLY Frozen Vengeance | 0.10% | ~187 |
 | The Battle of High Hall Tower | 0.10% | ~187 |
+| Might Makes Right | 0.10% | ~187 |
 | The Stunning Tower Battle | 0.10% | ~187 |
 | Elturel's Last Stand | 0.10% | ~187 |
 | Gargauth's Betrayal | 0.10% | ~187 |
@@ -519,11 +520,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Fire and Brimstone | 0.00% | ~0 |
 | Only Human | 0.00% | ~0 |
 | Fire and Ice | 0.00% | ~0 |
-| Might Makes Right | 0.00% | ~0 |
 | Ambitious Speakers - Part 2 | 0.00% | ~0 |
 | An Icewind Dale Reunion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,340 (Ranked 52)  
+Progressed: 220,350 (Ranked 52)  
 Completed: 2,167 (0.98%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -635,7 +635,7 @@ Completed: 2,167 (0.98%) (Ranked 113)
 | 2023-08-07 | 219,734 | 2,162 |
 | 2023-08-08 | 220,011 | 2,165 |
 | 2023-08-09 | 220,283 | 2,167 |
-| 2023-08-10 | 220,340 | 2,167 |
+| 2023-08-10 | 220,350 | 2,167 |
 ## Awards
 Max (Diverse Characters): 5,128  (Ranked 67)  
 Sum: 30,973 (Ranked 38)  

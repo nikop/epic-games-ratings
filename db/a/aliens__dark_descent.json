@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -246,9 +246,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 3131,
+  "EOS_Progressed": 3132,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -3611,6 +3611,11 @@
       "Time": "2023-08-09T18:03:33.0135354+00:00",
       "NumProgressed": 3131,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-10T05:04:47.01527+00:00",
+      "NumProgressed": 3132,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -3654,7 +3659,7 @@
       "Name": "Use The Bumper, That\u0027s What It\u0027s For",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1628
+      "UsersEstimate": 1629
     },
     {
       "ID": "ACH_BARREL_KILL",
@@ -3670,7 +3675,7 @@
       "Name": "Omelette Du Fromage",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 1033
+      "UsersEstimate": 1034
     },
     {
       "ID": "ACH_EMBRAYO_EXTRACTION",
@@ -3734,7 +3739,7 @@
       "Name": "Call Me Snake",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 1941
+      "UsersEstimate": 1942
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -3750,7 +3755,7 @@
       "Name": "Heavy Steps",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "ACH_MARINE_PROSTHESIS",
@@ -3822,7 +3827,7 @@
       "Name": "First Steps Into Madness",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1628
+      "UsersEstimate": 1629
     },
     {
       "ID": "ACH_MISSION_03",
@@ -3838,7 +3843,7 @@
       "Name": "Making a Stand",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1346
+      "UsersEstimate": 1347
     },
     {
       "ID": "ACH_MISSION_05",
@@ -3918,7 +3923,7 @@
       "Name": "Snatched Out",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 2317
+      "UsersEstimate": 2318
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -3926,7 +3931,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 2567
+      "UsersEstimate": 2568
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -3934,7 +3939,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 1847
+      "UsersEstimate": 1848
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -3942,7 +3947,7 @@
       "Name": "People Person",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 1722
+      "UsersEstimate": 1723
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -3974,14 +3979,14 @@
       "Name": "The Shrink Hates Me",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 1753
+      "UsersEstimate": 1754
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3131,
+      "Progressed": 3132,
       "Completed": 2
     }
   ],
@@ -3989,8 +3994,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-08-07T03:00:43.8837969+00:00",
-  "LastChanged_Achievements": "2023-08-10T04:04:56.7858815+00:00",
+  "LastChanged_Achievements": "2023-08-10T05:04:47.0152693+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:22.265052+00:00",
-  "LastUpdate_Ratings": "2023-08-10T04:02:03.4118242+00:00",
-  "LastUpdate_Achievements": "2023-08-10T04:04:56.7859435+00:00"
+  "LastUpdate_Ratings": "2023-08-10T05:01:59.0906003+00:00",
+  "LastUpdate_Achievements": "2023-08-10T05:04:47.0153732+00:00"
 }

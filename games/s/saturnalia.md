@@ -16,8 +16,8 @@ Rating: 4.25 (Ranked 819)
 | Detective of the occult | 1.00% | ~654 |
 | Depression | 1.00% | ~654 |
 | Bless me Father... | 0.80% | ~523 |
-| Power of Friendship | 0.70% | ~457 |
-| Phone Bill | 0.70% | ~457 |
+| Power of Friendship | 0.70% | ~458 |
+| Phone Bill | 0.70% | ~458 |
 | Chain Breaker | 0.60% | ~392 |
 | Let there be light | 0.50% | ~327 |
 | Silent Advisor | 0.50% | ~327 |
@@ -26,7 +26,7 @@ Rating: 4.25 (Ranked 819)
 | Paparazzi | 0.30% | ~196 |
 | Ear Ringing | 0.10% | ~65 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,356 (Ranked 82)  
+Progressed: 65,358 (Ranked 82)  
 Completed: 13 (0.02%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,7 +138,7 @@ Completed: 13 (0.02%) (Ranked 230)
 | 2023-08-07 | 65,277 | 13 |
 | 2023-08-08 | 65,323 | 13 |
 | 2023-08-09 | 65,351 | 13 |
-| 2023-08-10 | 65,356 | 13 |
+| 2023-08-10 | 65,358 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

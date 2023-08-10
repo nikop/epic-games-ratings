@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 135,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewPlayers": 324,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2020-12-10T16:00:00+00:00",
@@ -2814,9 +2814,9 @@
       "Count": 185
     }
   ],
-  "EOS_Progressed": 1089,
+  "EOS_Progressed": 1090,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2899,6 +2899,11 @@
       "Time": "2023-08-02T01:53:45.9623675+00:00",
       "NumProgressed": 1089,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-10T05:05:17.3716054+00:00",
+      "NumProgressed": 1090,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 48,
@@ -2942,7 +2947,7 @@
       "Name": "Enchanter",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "achievement_06",
@@ -2990,7 +2995,7 @@
       "Name": "Super Murderer",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "achievement_12",
@@ -3006,7 +3011,7 @@
       "Name": "All Upgrades in Stronghold",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "achievement_14",
@@ -3038,7 +3043,7 @@
       "Name": "Disposition",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "achievement_18",
@@ -3062,7 +3067,7 @@
       "Name": "The Watcher With Eight Friends",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "achievement_21",
@@ -3118,7 +3123,7 @@
       "Name": "Make an Adventurer",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "achievement_28",
@@ -3126,7 +3131,7 @@
       "Name": "First 5 Levels of Od Nua",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "achievement_29",
@@ -3134,7 +3139,7 @@
       "Name": "Middle 5 Levels of Od Nua",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "achievement_30",
@@ -3190,7 +3195,7 @@
       "Name": "Kickstarter Backer",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 893
+      "UsersEstimate": 894
     },
     {
       "ID": "achievement_37",
@@ -3293,15 +3298,15 @@
     {
       "ID": "70p237j",
       "IsBase": true,
-      "Progressed": 1089,
+      "Progressed": 1090,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:19.0250263+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.7524763+00:00",
   "LastChanged": "2023-08-10T01:59:21.2105831+00:00",
-  "LastChanged_Achievements": "2023-08-10T04:05:27.4514038+00:00",
+  "LastChanged_Achievements": "2023-08-10T05:05:17.3716046+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:24.1253455+00:00",
-  "LastUpdate_Ratings": "2023-08-10T03:59:26.0639703+00:00",
-  "LastUpdate_Achievements": "2023-08-10T04:05:27.4514523+00:00"
+  "LastUpdate_Ratings": "2023-08-10T04:59:29.3206901+00:00",
+  "LastUpdate_Achievements": "2023-08-10T05:05:17.3716667+00:00"
 }

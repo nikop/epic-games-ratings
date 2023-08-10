@@ -6,11 +6,11 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 68.00% | ~591,671 |
+| The Fool | 68.00% | ~591,672 |
 | Right Back At Ya | 39.00% | ~339,341 |
-| The Lovers | 35.00% | ~304,536 |
-| Stanislavski's Method | 29.00% | ~252,330 |
-| The Wheel of Fortune | 27.00% | ~234,928 |
+| The Lovers | 35.00% | ~304,537 |
+| Stanislavski's Method | 29.00% | ~252,331 |
+| The Wheel of Fortune | 27.00% | ~234,929 |
 | The Hermit | 25.00% | ~217,526 |
 | Christmas Tree Attack | 23.00% | ~200,124 |
 | True Soldier | 23.00% | ~200,124 |
@@ -26,10 +26,10 @@ Number of Ratings: 32,700  (23.09.2022)
 | Judy vs Night City | 14.00% | ~121,815 |
 | To Protect and Serve | 13.00% | ~113,114 |
 | Master Crafter | 13.00% | ~113,114 |
-| Two Heads, One Bullet | 12.00% | ~104,412 |
-| The Quick and the Dead | 10.00% | ~87,010 |
-| The Wandering Fool | 9.00% | ~78,309 |
-| Ten out of Ten | 9.00% | ~78,309 |
+| Two Heads, One Bullet | 12.00% | ~104,413 |
+| The Quick and the Dead | 10.00% | ~87,011 |
+| The Wandering Fool | 9.00% | ~78,310 |
+| Ten out of Ten | 9.00% | ~78,310 |
 | Breathtaking | 8.00% | ~69,608 |
 | The Star | 7.00% | ~60,907 |
 | To Bad Decisions! | 6.00% | ~52,206 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~8,701 |
 | Rough Landing | 0.50% | ~4,351 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 870,104 (Ranked 14)  
+Progressed: 870,106 (Ranked 14)  
 Completed: 1,952 (0.22%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,10 +163,10 @@ Completed: 1,952 (0.22%) (Ranked 173)
 | 2023-08-07 | 869,778 | 1,948 |
 | 2023-08-08 | 869,929 | 1,950 |
 | 2023-08-09 | 870,084 | 1,952 |
-| 2023-08-10 | 870,104 | 1,952 |
+| 2023-08-10 | 870,106 | 1,952 |
 ## Awards
 Max (Character Customization): 75,151  (Ranked 9)  
-Sum: 198,278 (Ranked 13)  
+Sum: 198,288 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
@@ -177,7 +177,7 @@ Diff (max vs sum): -4
 | This game has Amazing Storytelling | 8,772 |
 | This game is Extremely Fun | 8,651 |
 | This game is Highly Recommended | 8,618 |
-| This game is Relaxing | 8,553 |
+| This game is Relaxing | 8,563 |
 | This game has Amazing Characters | 8,446 |
 | This game has Quickly Understood Controls | 8,440 |
 | This game has a Creative Community | 5,534 |
@@ -387,3 +387,4 @@ Diff (max vs sum): -4
 | 2023-08-07 | 4.62 | - | 75,020 | 197,866 |
 | 2023-08-08 | 4.62 | - | 75,084 | 198,069 |
 | 2023-08-09 | 4.62 | - | 75,151 | 198,278 |
+| 2023-08-10 | 4.62 | - | 75,151 | 198,288 |

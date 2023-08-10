@@ -6,36 +6,36 @@
 | ---- | ---------- | ----- |
 | It's Good to have Allies | 34.00% | ~289 |
 | Defenses Online | 30.00% | ~255 |
-| Facility Online | 27.00% | ~229 |
-| Corporal | 19.00% | ~161 |
-| Covert Operative | 15.00% | ~127 |
+| Facility Online | 26.00% | ~221 |
+| Corporal | 19.00% | ~162 |
+| Covert Operative | 15.00% | ~128 |
 | Sergeant | 14.00% | ~119 |
 | Lieutenant | 12.00% | ~102 |
-| Getting Deployment | 11.00% | ~93 |
-| Stocking Up | 11.00% | ~93 |
-| On Target | 11.00% | ~93 |
+| Getting Deployment | 11.00% | ~94 |
+| Stocking Up | 11.00% | ~94 |
+| On Target | 11.00% | ~94 |
 | Fighting for Survival | 10.00% | ~85 |
 | Keeping Busy | 10.00% | ~85 |
 | Infantry Reporting | 10.00% | ~85 |
 | Silver Competitor | 8.00% | ~68 |
-| Exterminator | 7.00% | ~59 |
-| Captain | 7.00% | ~59 |
-| Factory Expansion | 7.00% | ~59 |
-| Brothers in Arms | 5.00% | ~42 |
+| Exterminator | 7.00% | ~60 |
+| Captain | 7.00% | ~60 |
+| Factory Expansion | 7.00% | ~60 |
+| Brothers in Arms | 5.00% | ~43 |
 | Player Betrayer | 4.00% | ~34 |
 | Moving On Up | 4.00% | ~34 |
-| Know The Enemy | 3.00% | ~25 |
-| Gold Achiever | 3.00% | ~25 |
-| Silver Achiever | 3.00% | ~25 |
-| Major | 3.00% | ~25 |
+| Know The Enemy | 3.00% | ~26 |
+| Gold Achiever | 3.00% | ~26 |
+| Silver Achiever | 3.00% | ~26 |
+| Major | 3.00% | ~26 |
 | Advanced Warfare | 2.00% | ~17 |
 | Colonel | 2.00% | ~17 |
 | Resourceful | 2.00% | ~17 |
 | Battle Ready | 2.00% | ~17 |
 | Control the Skies | 2.00% | ~17 |
-| General | 1.00% | ~8 |
-| Seek & Destroy | 1.00% | ~8 |
-| Titan Tanks | 1.00% | ~8 |
+| General | 1.00% | ~9 |
+| Seek & Destroy | 1.00% | ~9 |
+| Titan Tanks | 1.00% | ~9 |
 | Shock Troops | 0.90% | ~8 |
 | Advanced Interceptors | 0.70% | ~6 |
 | Jet Troops | 0.70% | ~6 |
@@ -43,7 +43,7 @@
 | Platinum Achiever | 0.00% | ~0 |
 | Platinum Competitor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 849 (Ranked 202)  
+Progressed: 851 (Ranked 202)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,4 +106,4 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-07 | 823 | 0 |
 | 2023-08-08 | 835 | 0 |
 | 2023-08-09 | 846 | 0 |
-| 2023-08-10 | 849 | 0 |
+| 2023-08-10 | 851 | 0 |

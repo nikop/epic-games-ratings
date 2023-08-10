@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 37,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-04-26T15:00:00+00:00",
     "PcReleaseDate": "1992-07-01T12:44:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1540,
+  "EOS_Progressed": 1541,
   "EOS_Completed": 106,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 6.88,
   "EosHistory": [
@@ -5024,6 +5024,11 @@
       "Time": "2023-08-10T00:01:13.4140222+00:00",
       "NumProgressed": 1540,
       "NumCompleted": 106
+    },
+    {
+      "Time": "2023-08-10T05:03:13.5619545+00:00",
+      "NumProgressed": 1541,
+      "NumCompleted": 106
     }
   ],
   "TotalAchievements": 5,
@@ -5035,7 +5040,7 @@
       "Name": "Welcome to the Jungle",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 1540
+      "UsersEstimate": 1541
     },
     {
       "ID": "2",
@@ -5043,7 +5048,7 @@
       "Name": "Jill the Bold",
       "Percentage": 11,
       "XP": 200,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "3",
@@ -5074,7 +5079,7 @@
     {
       "ID": "dg4cch5",
       "IsBase": true,
-      "Progressed": 1540,
+      "Progressed": 1541,
       "Completed": 106
     }
   ],
@@ -5082,8 +5087,8 @@
   "FirstSeenRating": "2023-04-27T14:58:11.4280155+00:00",
   "FirstSeenAchievements": "2023-04-26T15:59:54.0239456+00:00",
   "LastChanged": "2023-04-27T14:58:11.4280156+00:00",
-  "LastChanged_Achievements": "2023-08-10T04:03:23.5659015+00:00",
+  "LastChanged_Achievements": "2023-08-10T05:03:13.5619535+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:35.8726048+00:00",
-  "LastUpdate_Ratings": "2023-08-10T03:58:46.7089472+00:00",
-  "LastUpdate_Achievements": "2023-08-10T04:03:23.5659691+00:00"
+  "LastUpdate_Ratings": "2023-08-10T04:58:46.1321168+00:00",
+  "LastUpdate_Achievements": "2023-08-10T05:03:13.5620285+00:00"
 }

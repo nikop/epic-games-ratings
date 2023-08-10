@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 195,
   "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 60617,
+  "EOS_Progressed": 60618,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 577,
+  "EOS_NewPlayers": 576,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -10787,6 +10787,11 @@
       "Time": "2023-08-10T04:06:26.2623478+00:00",
       "NumProgressed": 60617,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-10T05:06:15.5116603+00:00",
+      "NumProgressed": 60618,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -10798,7 +10803,7 @@
       "Name": "Follow the Light",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 22428
+      "UsersEstimate": 22429
     },
     {
       "ID": "02",
@@ -10830,7 +10835,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 12123
+      "UsersEstimate": 12124
     },
     {
       "ID": "06",
@@ -11022,7 +11027,7 @@
       "Name": "Sound and Fury",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 8486
+      "UsersEstimate": 8487
     },
     {
       "ID": "30",
@@ -11158,7 +11163,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 8486
+      "UsersEstimate": 8487
     },
     {
       "ID": "47",
@@ -11333,21 +11338,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 60617,
+      "Progressed": 60618,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 24085,
+      "Progressed": 24086,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-10T04:06:26.2623471+00:00",
+  "LastChanged_Achievements": "2023-08-10T05:06:15.5116594+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:26.4964539+00:00",
-  "LastUpdate_Ratings": "2023-08-10T03:59:29.3171798+00:00",
-  "LastUpdate_Achievements": "2023-08-10T04:06:26.262495+00:00"
+  "LastUpdate_Ratings": "2023-08-10T04:59:31.3943709+00:00",
+  "LastUpdate_Achievements": "2023-08-10T05:06:15.5119001+00:00"
 }

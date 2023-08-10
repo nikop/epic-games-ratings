@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 849,
+  "EOS_Progressed": 851,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3001,6 +3001,11 @@
       "Time": "2023-08-10T03:07:49.2242514+00:00",
       "NumProgressed": 849,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-10T05:07:58.3138617+00:00",
+      "NumProgressed": 851,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -3012,7 +3017,7 @@
       "Name": "Know The Enemy",
       "Percentage": 3,
       "XP": 75,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ach_defeat_aliens_50",
@@ -3020,7 +3025,7 @@
       "Name": "Exterminator",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ach_defeat_players_10",
@@ -3044,7 +3049,7 @@
       "Name": "Gold Achiever",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ach_gold_rewards_25",
@@ -3084,7 +3089,7 @@
       "Name": "Silver Achiever",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "objective_headquarters_10",
@@ -3114,9 +3119,9 @@
       "ID": "objective_headquarters_5",
       "SetID": "bm61c2p",
       "Name": "Facility Online",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 229
+      "UsersEstimate": 221
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -3124,7 +3129,7 @@
       "Name": "Corporal",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -3148,7 +3153,7 @@
       "Name": "Captain",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -3156,7 +3161,7 @@
       "Name": "Major",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "objective_hero_level_up_6",
@@ -3172,7 +3177,7 @@
       "Name": "General",
       "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "objective_key_alliance_help_2",
@@ -3180,7 +3185,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "objective_key_alliance_join_1",
@@ -3196,7 +3201,7 @@
       "Name": "Covert Operative",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -3204,7 +3209,7 @@
       "Name": "Getting Deployment",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -3212,7 +3217,7 @@
       "Name": "Seek \u0026 Destroy",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_3",
@@ -3220,7 +3225,7 @@
       "Name": "Stocking Up",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -3236,7 +3241,7 @@
       "Name": "On Target",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -3260,7 +3265,7 @@
       "Name": "Factory Expansion",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "objective_multiple_turrets_2",
@@ -3284,7 +3289,7 @@
       "Name": "Titan Tanks",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "objective_research_unlock_heavy_infantry_tier_4",
@@ -3315,14 +3320,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 849,
+      "Progressed": 851,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-10T04:07:57.9375336+00:00",
+  "LastChanged_Achievements": "2023-08-10T05:07:58.3138609+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:21.6461868+00:00",
-  "LastUpdate_Ratings": "2023-08-10T03:57:45.8603681+00:00",
-  "LastUpdate_Achievements": "2023-08-10T04:07:57.9376043+00:00"
+  "LastUpdate_Ratings": "2023-08-10T04:57:43.2979414+00:00",
+  "LastUpdate_Achievements": "2023-08-10T05:07:58.3139128+00:00"
 }

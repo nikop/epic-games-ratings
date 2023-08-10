@@ -96,9 +96,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 69437,
+  "EOS_Progressed": 69441,
   "EOS_Completed": 695,
-  "EOS_NewPlayers": 844,
+  "EOS_NewPlayers": 845,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -12341,6 +12341,11 @@
       "Time": "2023-08-10T04:08:51.4191151+00:00",
       "NumProgressed": 69437,
       "NumCompleted": 695
+    },
+    {
+      "Time": "2023-08-10T05:08:52.9362393+00:00",
+      "NumProgressed": 69441,
+      "NumCompleted": 695
     }
   ],
   "TotalAchievements": 25,
@@ -12384,7 +12389,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 15276
+      "UsersEstimate": 15277
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -12400,7 +12405,7 @@
       "Name": "Butcher",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2777
+      "UsersEstimate": 2778
     },
     {
       "ID": "Cut Call",
@@ -12424,7 +12429,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 13887
+      "UsersEstimate": 13888
     },
     {
       "ID": "Hearty",
@@ -12440,7 +12445,7 @@
       "Name": "Lazy Bones",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 6249
+      "UsersEstimate": 6250
     },
     {
       "ID": "Magnetic Miracles",
@@ -12448,7 +12453,7 @@
       "Name": "Magnetic Miracles",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 2777
+      "UsersEstimate": 2778
     },
     {
       "ID": "Master, Commander",
@@ -12456,7 +12461,7 @@
       "Name": "Master, Commander",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 13887
+      "UsersEstimate": 13888
     },
     {
       "ID": "Meaty",
@@ -12472,7 +12477,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 13193
+      "UsersEstimate": 13194
     },
     {
       "ID": "Nice Try",
@@ -12480,7 +12485,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 11110
+      "UsersEstimate": 11111
     },
     {
       "ID": "Nothing Left to Say",
@@ -12520,7 +12525,7 @@
       "Name": "Spicy",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2777
+      "UsersEstimate": 2778
     },
     {
       "ID": "Taco Toto",
@@ -12551,7 +12556,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 69437,
+      "Progressed": 69441,
       "Completed": 695
     }
   ],
@@ -12559,8 +12564,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-08-07T22:57:38.0235808+00:00",
-  "LastChanged_Achievements": "2023-08-10T04:08:51.4191145+00:00",
+  "LastChanged_Achievements": "2023-08-10T05:08:52.9362381+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:13.5185195+00:00",
-  "LastUpdate_Ratings": "2023-08-10T03:57:45.1276299+00:00",
-  "LastUpdate_Achievements": "2023-08-10T04:08:51.4192366+00:00"
+  "LastUpdate_Ratings": "2023-08-10T04:57:42.9220358+00:00",
+  "LastUpdate_Achievements": "2023-08-10T05:08:52.9364098+00:00"
 }
