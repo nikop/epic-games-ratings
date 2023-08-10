@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 45.31% |
+| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.44% |
 | 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.84% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 40.54% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
@@ -29,7 +29,7 @@
 | 27 | [Sonic Origins](games/s/sonic_origins.md) | 9.71% |
 | 28 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.52% |
 | 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.40% |
-| 30 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.95% |
+| 30 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.94% |
 | 31 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.50% |
 | 32 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.20% |
 | 33 | [Smelter](games/s/smelter.md) | 7.69% |
@@ -38,7 +38,7 @@
 | 36 | [Scorn](games/s/scorn.md) | 6.94% |
 | 37 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.87% |
 | 38 | [Time Loader](games/t/time_loader.md) | 6.84% |
-| 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.54% |
+| 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.53% |
 | 40 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 41 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 42 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.98% |
@@ -55,7 +55,7 @@
 | 53 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.55% |
 | 54 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.22% |
 | 55 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.98% |
-| 56 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.89% |
+| 56 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.93% |
 | 57 | [ZZT!](games/z/zzt!.md) | 3.71% |
 | 58 | [Without Escape](games/w/without_escape.md) | 3.70% |
 | 59 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
@@ -64,8 +64,8 @@
 | 62 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.33% |
 | 63 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.29% |
 | 64 | [HordeCore](games/h/hordecore.md) | 3.15% |
-| 65 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.01% |
 | 65 | [The Complex](games/t/the_complex.md) | 3.01% |
+| 66 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.00% |
 | 67 | [Monster Harvest](games/m/monster_harvest.md) | 2.96% |
 | 68 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 69 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.87% |
@@ -280,6 +280,7 @@
 | 251 | [Bread and Fred](games/7/7e95faaa77054b80828dd7d64bbeb4ff.md) | 0.00% |
 | 251 | [BROK the InvestiGator](games/b/brok_the_investigator.md) | 0.00% |
 | 251 | [Bug Fables -The Everlasting Sapling-](games/b/bug_fables_-the_everlasting_sapling-.md) | 0.00% |
+| 251 | [Bus World](games/e/e5fe6253deb3455c9ce9ecf0d2b68a6d.md) | 0.00% |
 | 251 | [Butchers Don't Surf!](games/b/butchers_don't_surf!.md) | 0.00% |
 | 251 | [Cafe Owner Simulator](games/c/cafe_owner_simulator.md) | 0.00% |
 | 251 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 0.00% |
@@ -537,4 +538,4 @@
 | 251 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 251 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 251 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,028 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,029 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
