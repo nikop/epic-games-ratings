@@ -56,7 +56,7 @@
 | 54 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.22% |
 | 55 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.98% |
 | 56 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.93% |
-| 57 | [ZZT!](games/z/zzt!.md) | 3.71% |
+| 57 | [ZZT!](games/z/zzt!.md) | 3.74% |
 | 58 | [Without Escape](games/w/without_escape.md) | 3.70% |
 | 59 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 60 | [Doodle God](games/d/doodle_god.md) | 3.46% |
@@ -74,17 +74,17 @@
 | 72 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
 | 73 | [The Bunker](games/t/the_bunker.md) | 2.68% |
 | 74 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.63% |
-| 74 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 2.63% |
-| 76 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.61% |
-| 77 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.60% |
-| 78 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.59% |
-| 79 | [Lamentum](games/l/lamentum.md) | 2.54% |
-| 80 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
+| 75 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.61% |
+| 76 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.60% |
+| 77 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.59% |
+| 78 | [Lamentum](games/l/lamentum.md) | 2.54% |
+| 79 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 2.50% |
+| 79 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 81 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.36% |
-| 82 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.35% |
+| 82 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.34% |
 | 83 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.27% |
 | 84 | [Bloodshore](games/b/bloodshore.md) | 2.25% |
-| 85 | [FORECLOSED](games/f/foreclosed.md) | 2.20% |
+| 85 | [FORECLOSED](games/f/foreclosed.md) | 2.17% |
 | 86 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.04% |
 | 87 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.98% |
 | 88 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.92% |
@@ -97,7 +97,7 @@
 | 95 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.61% |
 | 95 | [Somerville](games/s/somerville.md) | 1.61% |
 | 97 | [Five Dates](games/f/five_dates.md) | 1.59% |
-| 97 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.59% |
+| 98 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.58% |
 | 99 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.50% |
 | 100 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.49% |
 | 101 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.46% |
@@ -538,4 +538,4 @@
 | 251 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 251 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 251 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,029 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,031 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
