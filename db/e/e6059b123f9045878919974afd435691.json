@@ -2,10 +2,10 @@
   "ID": "e6059b123f9045878919974afd435691",
   "Name": "Chased by Darkness",
   "ProductSlug": "chased-by-darkness-d00d26",
-  "Ranking_EOS_Progress": 212,
+  "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 676,
+  "EOS_Progressed": 677,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
@@ -1421,6 +1421,11 @@
       "Time": "2023-08-09T21:07:51.7404174+00:00",
       "NumProgressed": 676,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-10T13:19:21.5594255+00:00",
+      "NumProgressed": 677,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1432,7 +1437,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -1440,7 +1445,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -1504,7 +1509,7 @@
       "Name": "Capraphobia",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -1632,7 +1637,7 @@
       "Name": "Greetings from Royalty",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
@@ -1720,7 +1725,7 @@
       "Name": "Who You Gonna Call?",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -1752,7 +1757,7 @@
       "Name": "And There We Go",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -1959,14 +1964,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 676,
+      "Progressed": 677,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-08-10T12:07:12.456678+00:00",
+  "LastChanged_Achievements": "2023-08-10T13:19:21.5594249+00:00",
   "LastUpdate_AppInfo": "2023-08-03T14:57:17.7014877+00:00",
-  "LastUpdate_Ratings": "2023-08-10T11:58:01.3126427+00:00",
-  "LastUpdate_Achievements": "2023-08-10T12:07:12.4567638+00:00"
+  "LastUpdate_Ratings": "2023-08-10T13:10:01.7646987+00:00",
+  "LastUpdate_Achievements": "2023-08-10T13:19:21.5594831+00:00"
 }

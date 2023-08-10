@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 195,
   "Ranking_EOS_NewPlayers": 75,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 60625,
+  "EOS_Progressed": 60628,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 554,
+  "EOS_NewPlayers": 550,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -10812,6 +10812,11 @@
       "Time": "2023-08-10T12:05:51.1266248+00:00",
       "NumProgressed": 60625,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-10T13:17:59.7549948+00:00",
+      "NumProgressed": 60628,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -10823,7 +10828,7 @@
       "Name": "Follow the Light",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 22431
+      "UsersEstimate": 22432
     },
     {
       "ID": "02",
@@ -10855,7 +10860,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 12125
+      "UsersEstimate": 12126
     },
     {
       "ID": "06",
@@ -10887,7 +10892,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7881
+      "UsersEstimate": 7882
     },
     {
       "ID": "10",
@@ -10895,7 +10900,7 @@
       "Name": "Medical Opinions",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1212
+      "UsersEstimate": 1213
     },
     {
       "ID": "11",
@@ -10927,7 +10932,7 @@
       "Name": "Gatekeeper",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6062
+      "UsersEstimate": 6063
     },
     {
       "ID": "15",
@@ -10935,7 +10940,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5456
+      "UsersEstimate": 5457
     },
     {
       "ID": "16",
@@ -10983,7 +10988,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7881
+      "UsersEstimate": 7882
     },
     {
       "ID": "22",
@@ -10999,7 +11004,7 @@
       "Name": "Taken Season",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1212
+      "UsersEstimate": 1213
     },
     {
       "ID": "24",
@@ -11055,7 +11060,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6062
+      "UsersEstimate": 6063
     },
     {
       "ID": "31",
@@ -11071,7 +11076,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 17581
+      "UsersEstimate": 17582
     },
     {
       "ID": "33",
@@ -11079,7 +11084,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7881
+      "UsersEstimate": 7882
     },
     {
       "ID": "34",
@@ -11087,7 +11092,7 @@
       "Name": "Energized!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6062
+      "UsersEstimate": 6063
     },
     {
       "ID": "35",
@@ -11119,7 +11124,7 @@
       "Name": "An Idyllic Small Town",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1212
+      "UsersEstimate": 1213
     },
     {
       "ID": "39",
@@ -11223,7 +11228,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1927
+      "UsersEstimate": 1928
     },
     {
       "ID": "52",
@@ -11358,21 +11363,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 60625,
+      "Progressed": 60628,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 24093,
+      "Progressed": 24096,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-10T12:05:51.1266242+00:00",
+  "LastChanged_Achievements": "2023-08-10T13:17:59.7549943+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:26.4964539+00:00",
-  "LastUpdate_Ratings": "2023-08-10T11:59:03.5060137+00:00",
-  "LastUpdate_Achievements": "2023-08-10T12:05:51.1267883+00:00"
+  "LastUpdate_Ratings": "2023-08-10T13:11:06.2216968+00:00",
+  "LastUpdate_Achievements": "2023-08-10T13:17:59.7550951+00:00"
 }

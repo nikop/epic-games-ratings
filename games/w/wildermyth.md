@@ -6,16 +6,16 @@ Number of Ratings: 45  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cost of Heroism | 39.00% | ~530 |
+| The Cost of Heroism | 39.00% | ~531 |
 | Me and My Familiar | 36.00% | ~490 |
 | This Too Shall Pass | 31.00% | ~422 |
-| Passing Shadow | 29.00% | ~394 |
-| Cutthroat Competitors | 29.00% | ~394 |
+| Passing Shadow | 30.00% | ~408 |
+| Cutthroat Competitors | 29.00% | ~395 |
 | How Romantic! | 28.00% | ~381 |
 | Daybreak | 27.00% | ~367 |
 | Gotta Ca... Must Collect All of Them | 25.00% | ~340 |
-| Completing the Look | 14.00% | ~190 |
-| War Endured | 14.00% | ~190 |
+| Completing the Look | 14.00% | ~191 |
+| War Endured | 14.00% | ~191 |
 | A Mythic Menagerie | 13.00% | ~177 |
 | Who's Counting? | 13.00% | ~177 |
 | Core Failure | 13.00% | ~177 |
@@ -39,7 +39,6 @@ Number of Ratings: 45  (23.09.2022)
 | No Time for Clawmonsters | 4.00% | ~54 |
 | We Emerge Changed | 3.00% | ~41 |
 | Storied Past | 3.00% | ~41 |
-| The Power of Friendship | 3.00% | ~41 |
 | Empty the Caves | 3.00% | ~41 |
 | Bonebreakers | 3.00% | ~41 |
 | No More Nightmares | 3.00% | ~41 |
@@ -49,6 +48,7 @@ Number of Ratings: 45  (23.09.2022)
 | Astrology | 3.00% | ~41 |
 | Tempest | 3.00% | ~41 |
 | Lochias's Hunger | 3.00% | ~41 |
+| The Power of Friendship | 2.00% | ~27 |
 | Drauvenslayers | 2.00% | ~27 |
 | Back into the Sea | 2.00% | ~27 |
 | War-Ender | 2.00% | ~27 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | We Call That Mortificient! | 0.90% | ~12 |
 | Peacemaker | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,360 (Ranked 183)  
+Progressed: 1,361 (Ranked 183)  
 Completed: 5 (0.37%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,6 +160,7 @@ Completed: 5 (0.37%) (Ranked 152)
 | 2023-08-05 | 1,358 | 5 |
 | 2023-08-07 | 1,359 | 5 |
 | 2023-08-08 | 1,360 | 5 |
+| 2023-08-10 | 1,361 | 5 |
 ## Awards
 Max (Character Customization): 28  (Ranked 466)  
 Sum: 28 (Ranked 478)  

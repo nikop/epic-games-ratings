@@ -11,12 +11,12 @@
 | Science Laboratory | 42.00% | ~39 |
 | Ball Disposal Facility | 36.00% | ~33 |
 | Mecha Wars | 35.00% | ~32 |
-| Sewer | 30.00% | ~28 |
-| Arcade | 29.00% | ~27 |
-| Custom Court | 25.00% | ~23 |
+| Sewer | 32.00% | ~29 |
+| Arcade | 30.00% | ~28 |
+| Custom Court | 26.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 92 (Ranked 326)  
-Completed: 21 (22.83%) (Ranked 7)  
+Completed: 22 (23.91%) (Ranked 7)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -54,4 +54,4 @@ Completed: 21 (22.83%) (Ranked 7)
 | 2023-08-05 | 88 | 21 |
 | 2023-08-07 | 89 | 21 |
 | 2023-08-08 | 91 | 21 |
-| 2023-08-10 | 92 | 21 |
+| 2023-08-10 | 92 | 22 |

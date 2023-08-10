@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 45,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 247852,
+  "EOS_Progressed": 247854,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 306,
+  "EOS_NewPlayers": 305,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10824,6 +10824,11 @@
       "Time": "2023-08-10T11:03:31.2483167+00:00",
       "NumProgressed": 247852,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-10T13:16:31.2784473+00:00",
+      "NumProgressed": 247854,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 46,
@@ -10931,7 +10936,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 44613
+      "UsersEstimate": 44614
     },
     {
       "ID": "curator",
@@ -10939,7 +10944,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 49570
+      "UsersEstimate": 49571
     },
     {
       "ID": "didYourTime",
@@ -11011,7 +11016,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 131362
+      "UsersEstimate": 131363
     },
     {
       "ID": "indegestible",
@@ -11067,7 +11072,7 @@
       "Name": "Muddy Waters",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 34699
+      "UsersEstimate": 34700
     },
     {
       "ID": "myFirstRunbow",
@@ -11075,7 +11080,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 123926
+      "UsersEstimate": 123927
     },
     {
       "ID": "notScared",
@@ -11139,7 +11144,7 @@
       "Name": "The Stunner",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 54527
+      "UsersEstimate": 54528
     },
     {
       "ID": "thunderstruck",
@@ -11195,14 +11200,14 @@
       "Name": "You Juan-A-Go?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 39656
+      "UsersEstimate": 39657
     }
   ],
   "AchievementSets": [
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 247852,
+      "Progressed": 247854,
       "Completed": 3
     }
   ],
@@ -11210,8 +11215,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-08-10T12:04:22.7797503+00:00",
+  "LastChanged_Achievements": "2023-08-10T13:16:31.2784467+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:08.7397678+00:00",
-  "LastUpdate_Ratings": "2023-08-10T12:00:48.00415+00:00",
-  "LastUpdate_Achievements": "2023-08-10T12:04:22.7800134+00:00"
+  "LastUpdate_Ratings": "2023-08-10T13:12:51.858877+00:00",
+  "LastUpdate_Achievements": "2023-08-10T13:16:31.2785254+00:00"
 }

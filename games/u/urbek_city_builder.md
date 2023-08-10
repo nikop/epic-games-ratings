@@ -5,19 +5,19 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Small town | 65.00% | ~200 |
-| I like parks | 53.00% | ~163 |
+| I like parks | 54.00% | ~166 |
 | It is nice to share with friends in the city | 27.00% | ~83 |
 | Sport is good for you | 26.00% | ~80 |
 | The spiritual world... | 24.00% | ~74 |
 | The woodcutter | 23.00% | ~71 |
-| I like books | 20.00% | ~61 |
-| I like my life | 20.00% | ~61 |
-| Soviet town | 19.00% | ~58 |
+| I like books | 20.00% | ~62 |
+| I like my life | 20.00% | ~62 |
+| Soviet town | 19.00% | ~59 |
 | Clean energy | 17.00% | ~52 |
 | Bucolic city | 14.00% | ~43 |
 | King of fish | 8.00% | ~25 |
 | I love parks | 8.00% | ~25 |
-| I love books! | 7.00% | ~21 |
+| I love books! | 7.00% | ~22 |
 | What would we do if we can't go out with friends? | 6.00% | ~18 |
 | Food producer | 5.00% | ~15 |
 | Metropolurbek | 5.00% | ~15 |
@@ -38,14 +38,14 @@
 | Freedom to go to the mall! | 1.00% | ~3 |
 | Town planner | 1.00% | ~3 |
 | Temperate urban planner | 1.00% | ~3 |
-| Archipelago urban planner | 0.70% | ~2 |
-| I can't see the sky | 0.70% | ~2 |
-| Desert builder | 0.70% | ~2 |
-| Perfect city | 0.70% | ~2 |
-| Farming Frenzy | 0.70% | ~2 |
-| Metropolurbek Plus | 0.70% | ~2 |
-| Restorer | 0.70% | ~2 |
-| Welfare state | 0.70% | ~2 |
+| Archipelago urban planner | 0.60% | ~2 |
+| I can't see the sky | 0.60% | ~2 |
+| Desert builder | 0.60% | ~2 |
+| Perfect city | 0.60% | ~2 |
+| Farming Frenzy | 0.60% | ~2 |
+| Metropolurbek Plus | 0.60% | ~2 |
+| Restorer | 0.60% | ~2 |
+| Welfare state | 0.60% | ~2 |
 | Anarchist paradise | 0.30% | ~1 |
 | Full archipelago | 0.30% | ~1 |
 | I can't breathe | 0.30% | ~1 |
@@ -84,7 +84,7 @@
 | Full rainforest | 0.00% | ~0 |
 | Rainforest master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 307 (Ranked 257)  
+Progressed: 308 (Ranked 257)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-06 | 303 | 0 |
 | 2023-08-07 | 305 | 0 |
 | 2023-08-09 | 306 | 0 |
-| 2023-08-10 | 307 | 0 |
+| 2023-08-10 | 308 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

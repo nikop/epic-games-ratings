@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 478,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 152,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -151,9 +151,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1360,
+  "EOS_Progressed": 1361,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -1326,6 +1326,11 @@
       "Time": "2023-08-08T00:06:03.7877351+00:00",
       "NumProgressed": 1360,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-10T13:19:05.2848021+00:00",
+      "NumProgressed": 1361,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 56,
@@ -1407,17 +1412,17 @@
       "ID": "achievement_endTurnInGrayplane5Times",
       "SetID": "95dc8p",
       "Name": "Passing Shadow",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 394
+      "UsersEstimate": 408
     },
     {
       "ID": "achievement_friendsBlock20Times",
       "SetID": "95dc8p",
       "Name": "The Power of Friendship",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 27
     },
     {
       "ID": "achievement_fullTransformation",
@@ -1425,7 +1430,7 @@
       "Name": "Completing the Look",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "achievement_kill1000Cultists",
@@ -1513,7 +1518,7 @@
       "Name": "The Cost of Heroism",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "achievement_mythwalker",
@@ -1529,7 +1534,7 @@
       "Name": "Cutthroat Competitors",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "achievement_twoDifferentThemeLimbs",
@@ -1577,7 +1582,7 @@
       "Name": "War Endured",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "completedStory_legacy",
@@ -1784,15 +1789,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1360,
+      "Progressed": 1361,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-07-08T20:01:41.3411794+00:00",
-  "LastChanged_Achievements": "2023-08-10T12:06:56.5646786+00:00",
+  "LastChanged_Achievements": "2023-08-10T13:19:05.2848016+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:20.7670659+00:00",
-  "LastUpdate_Ratings": "2023-08-10T11:57:36.3042598+00:00",
-  "LastUpdate_Achievements": "2023-08-10T12:06:56.5647433+00:00"
+  "LastUpdate_Ratings": "2023-08-10T13:09:37.9808074+00:00",
+  "LastUpdate_Achievements": "2023-08-10T13:19:05.2848409+00:00"
 }

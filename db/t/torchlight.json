@@ -2,13 +2,13 @@
   "ID": "d0230ef21b1f4ef29aec0d49946912fc",
   "Name": "Torchlight",
   "ProductSlug": "torchlight",
-  "Ranking_Rating": 764,
+  "Ranking_Rating": 755,
   "Ranking_Popularity": 499,
   "Ranking_PopularitySum": 499,
   "Ranking_EOS_Progress": 537,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 359,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2019-07-09T15:00:00+00:00",
     "PcReleaseDate": "2009-10-27T15:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.33,
+  "Rating": 4.34,
   "NumberOfRatings": 122,
   "RatingHistory": [
     {
@@ -385,6 +385,12 @@
       "Rating": 4.33,
       "NumberOfAwards": 21,
       "NumberOfAwardsMax": 21
+    },
+    {
+      "Time": "2023-08-10T13:09:49.6171436+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 21,
+      "NumberOfAwardsMax": 21
     }
   ],
   "ReviewsDisabled": false,
@@ -410,8 +416,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:57.2645224+00:00",
-  "LastChanged": "2023-08-02T13:03:23.2066139+00:00",
+  "LastChanged": "2023-08-10T13:09:49.6171435+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:30.7599169+00:00",
-  "LastUpdate_Ratings": "2023-08-10T11:57:47.6538837+00:00",
-  "LastUpdate_Achievements": "2023-08-10T12:07:52.4210095+00:00"
+  "LastUpdate_Ratings": "2023-08-10T13:09:49.6171439+00:00",
+  "LastUpdate_Achievements": "2023-08-10T13:20:16.3607735+00:00"
 }

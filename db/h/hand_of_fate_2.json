@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 226,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -862,9 +862,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 660587,
+  "EOS_Progressed": 660589,
   "EOS_Completed": 168,
-  "EOS_NewPlayers": 353,
+  "EOS_NewPlayers": 352,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -11422,6 +11422,11 @@
       "Time": "2023-08-10T12:05:03.3076368+00:00",
       "NumProgressed": 660587,
       "NumCompleted": 168
+    },
+    {
+      "Time": "2023-08-10T13:17:11.3893078+00:00",
+      "NumProgressed": 660589,
+      "NumCompleted": 168
     }
   ],
   "TotalAchievements": 48,
@@ -11433,7 +11438,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 475623
+      "UsersEstimate": 475624
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -11441,7 +11446,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 383140
+      "UsersEstimate": 383142
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -11673,7 +11678,7 @@
       "Name": "Master of Arms",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 79270
+      "UsersEstimate": 79271
     },
     {
       "ID": "Achievement_32_Karma",
@@ -11816,15 +11821,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 660587,
+      "Progressed": 660589,
       "Completed": 168
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-07-06T22:58:14.2890682+00:00",
-  "LastChanged_Achievements": "2023-08-10T12:05:03.3076362+00:00",
+  "LastChanged_Achievements": "2023-08-10T13:17:11.3893073+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:26.5296655+00:00",
-  "LastUpdate_Ratings": "2023-08-10T11:59:04.4927155+00:00",
-  "LastUpdate_Achievements": "2023-08-10T12:05:03.3078386+00:00"
+  "LastUpdate_Ratings": "2023-08-10T13:11:07.3084223+00:00",
+  "LastUpdate_Achievements": "2023-08-10T13:17:11.3893892+00:00"
 }

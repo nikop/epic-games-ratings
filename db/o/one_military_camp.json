@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-07-20T13:00:00+00:00",
     "PcReleaseDate": "2023-07-20T13:00:00+00:00",
@@ -619,9 +619,9 @@
       "ID": "ACHIEVEMENT_ID_14",
       "SetID": "c504de6",
       "Name": "Perfect Soldier",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_ID_15",
@@ -635,7 +635,7 @@
       "ID": "ACHIEVEMENT_ID_16",
       "SetID": "c504de6",
       "Name": "Crisis Committee",
-      "Percentage": 0.7,
+      "Percentage": 1,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -667,17 +667,17 @@
       "ID": "ACHIEVEMENT_ID_2",
       "SetID": "c504de6",
       "Name": "No News is Good News",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_ID_20",
       "SetID": "c504de6",
       "Name": "Healing",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_ID_21",
@@ -747,9 +747,9 @@
       "ID": "ACHIEVEMENT_ID_29",
       "SetID": "c504de6",
       "Name": "Training Camp",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_ID_3",
@@ -779,9 +779,9 @@
       "ID": "ACHIEVEMENT_ID_32",
       "SetID": "c504de6",
       "Name": "Capitalism",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHIEVEMENT_ID_33",
@@ -930,8 +930,8 @@
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2023-08-10T12:05:38.1838264+00:00",
+  "LastChanged_Achievements": "2023-08-10T13:17:46.3675687+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:41.7077293+00:00",
-  "LastUpdate_Ratings": "2023-08-10T12:00:19.8598633+00:00",
-  "LastUpdate_Achievements": "2023-08-10T12:05:38.1838696+00:00"
+  "LastUpdate_Ratings": "2023-08-10T13:12:23.3046873+00:00",
+  "LastUpdate_Achievements": "2023-08-10T13:17:46.3676024+00:00"
 }

@@ -450,6 +450,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | How Far Away is Thay | 0.10% | ~187 |
 | Deekin's Mission | 0.10% | ~187 |
 | Dive Bomb | 0.10% | ~187 |
+| Fire and Ice | 0.10% | ~187 |
 | Frozen Vengeance | 0.10% | ~187 |
 | Mimic Vengeance | 0.10% | ~187 |
 | REALLY Frozen Vengeance | 0.10% | ~187 |
@@ -519,11 +520,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Chaotic Hunt for The Last Breath | 0.10% | ~187 |
 | To Infinity's and Beyond | 0.10% | ~187 |
 | There's a Flying Snake in my Boot! | 0.10% | ~187 |
-| Fire and Ice | 0.00% | ~0 |
 | Ambitious Speakers - Part 2 | 0.00% | ~0 |
 | An Icewind Dale Reunion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,402 (Ranked 52)  
+Progressed: 220,420 (Ranked 52)  
 Completed: 2,167 (0.98%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -635,14 +635,14 @@ Completed: 2,167 (0.98%) (Ranked 113)
 | 2023-08-07 | 219,734 | 2,162 |
 | 2023-08-08 | 220,011 | 2,165 |
 | 2023-08-09 | 220,283 | 2,167 |
-| 2023-08-10 | 220,402 | 2,167 |
+| 2023-08-10 | 220,420 | 2,167 |
 ## Awards
-Max (Diverse Characters): 5,128  (Ranked 67)  
-Sum: 30,977 (Ranked 38)  
+Max (Diverse Characters): 5,136  (Ranked 67)  
+Sum: 30,985 (Ranked 38)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 5,128 |
+| This game has Diverse Characters | 5,136 |
 | This game is Great for Beginners | 5,083 |
 | This game has Quickly Understood Controls | 4,709 |
 | This game is Relaxing | 4,604 |
@@ -848,4 +848,4 @@ Diff (max vs sum): 29
 | 2023-08-07 | 4.06 | - | 5,121 | 30,936 |
 | 2023-08-08 | 4.06 | - | 5,125 | 30,950 |
 | 2023-08-09 | 4.06 | - | 5,128 | 30,971 |
-| 2023-08-10 | 4.06 | - | 5,128 | 30,977 |
+| 2023-08-10 | 4.06 | - | 5,136 | 30,985 |

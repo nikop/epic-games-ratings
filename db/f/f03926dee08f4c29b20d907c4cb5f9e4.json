@@ -4,8 +4,8 @@
   "ProductSlug": "horse-club-adventures-2-hazelwood-stories-b257d3",
   "Ranking_EOS_Progress": 410,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 318,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-07-06T10:00:00+00:00",
     "PcReleaseDate": "2022-10-27T11:00:00+00:00",
@@ -145,9 +145,9 @@
       "ID": "ACH_04_NIGHT_BENEATH_STARS",
       "SetID": "9loam6m",
       "Name": "Night beneath the stars",
-      "Percentage": 24,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_05_HERDS_OF_HORSES",
@@ -281,9 +281,9 @@
       "ID": "ACH_21_FIRST_RACE",
       "SetID": "9loam6m",
       "Name": "First race",
-      "Percentage": 65,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_22_HORSE_RACES",
@@ -409,9 +409,9 @@
       "ID": "ACH_37_UP_IN_THE_MOUNTAINS",
       "SetID": "9loam6m",
       "Name": "Up in the mountains",
-      "Percentage": 24,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_38_WELL_HIDDEN",
@@ -433,9 +433,9 @@
       "ID": "ACH_40_GLOBETROTTER",
       "SetID": "9loam6m",
       "Name": "Globetrotter",
-      "Percentage": 6,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_41_GOLDEN_GLEAM",
@@ -464,8 +464,8 @@
   ],
   "FirstSeen": "2023-07-23T11:57:26.6885781+00:00",
   "FirstSeenAchievements": "2023-07-05T11:01:11.7064759+00:00",
-  "LastChanged_Achievements": "2023-08-10T12:06:05.6656555+00:00",
+  "LastChanged_Achievements": "2023-08-10T13:18:14.3825916+00:00",
   "LastUpdate_AppInfo": "2023-08-09T15:57:04.3579504+00:00",
-  "LastUpdate_Ratings": "2023-08-10T11:58:08.9388957+00:00",
-  "LastUpdate_Achievements": "2023-08-10T12:06:05.6656934+00:00"
+  "LastUpdate_Ratings": "2023-08-10T13:10:08.9921084+00:00",
+  "LastUpdate_Achievements": "2023-08-10T13:18:14.3826181+00:00"
 }

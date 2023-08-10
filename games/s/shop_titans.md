@@ -10,9 +10,9 @@ Number of Ratings: 12,664  (23.09.2022)
 | Titan's First Steps | 0.90% | ~1,208 |
 | Basic in Bulk | 0.80% | ~1,074 |
 | Tinkle of Coins | 0.80% | ~1,074 |
-| Disintermediation | 0.60% | ~805 |
-| It's Free Real Estate | 0.60% | ~805 |
-| Capitalism Ho! | 0.60% | ~805 |
+| Disintermediation | 0.60% | ~806 |
+| It's Free Real Estate | 0.60% | ~806 |
+| Capitalism Ho! | 0.60% | ~806 |
 | Another Satisfied Customer | 0.50% | ~671 |
 | Budding Merchant | 0.50% | ~671 |
 | Own the Means of Production | 0.50% | ~671 |
@@ -35,44 +35,44 @@ Number of Ratings: 12,664  (23.09.2022)
 | Dungeon Imports | 0.30% | ~403 |
 | Did we pack lunch? | 0.30% | ~403 |
 | Arcane Industries | 0.30% | ~403 |
-| On the Path to Greatness | 0.20% | ~268 |
-| A Notch Above the Rest | 0.20% | ~268 |
-| Above the Norm | 0.20% | ~268 |
-| Tax not Included | 0.20% | ~268 |
-| The King's Caprice | 0.20% | ~268 |
-| Research & Development | 0.20% | ~268 |
-| Vanity, Verily | 0.20% | ~268 |
-| Big Game Hunting | 0.20% | ~268 |
-| Fated Encounters | 0.20% | ~268 |
-| For the Hoard! | 0.20% | ~268 |
-| Scrapbooker | 0.20% | ~268 |
-| Archivist | 0.20% | ~268 |
-| Locally Sourced | 0.20% | ~268 |
-| Flying off the Shelves | 0.20% | ~268 |
-| This Power Level...! | 0.20% | ~268 |
-| Omae wa Mou Shindeiru | 0.20% | ~268 |
-| Master of Transmutation | 0.20% | ~268 |
-| Hidden Potential | 0.20% | ~268 |
-| Power of Love | 0.20% | ~268 |
-| Expansion in Session | 0.20% | ~268 |
-| Ritualist | 0.20% | ~268 |
-| Cranked up to 11 | 0.20% | ~268 |
-| Flawless Fusion | 0.20% | ~268 |
-| Trash to Treasure | 0.20% | ~268 |
-| Royal Ransom | 0.20% | ~268 |
-| Mammonite | 0.20% | ~268 |
-| Wealth Beyond Measure | 0.20% | ~268 |
-| Helping Hand | 0.20% | ~268 |
-| Fat Cat Tag Team | 0.20% | ~268 |
-| Laden with Loot | 0.20% | ~268 |
-| Natural 20 | 0.20% | ~268 |
-| Seasoned Journeyman | 0.20% | ~268 |
-| Black Friday Special | 0.20% | ~268 |
-| King's Shadow | 0.20% | ~268 |
-| Magical Harmony | 0.20% | ~268 |
-| Special Ingredient | 0.20% | ~268 |
-| Exotic Commodities | 0.20% | ~268 |
-| Complete Monopoly | 0.20% | ~268 |
+| On the Path to Greatness | 0.20% | ~269 |
+| A Notch Above the Rest | 0.20% | ~269 |
+| Above the Norm | 0.20% | ~269 |
+| Tax not Included | 0.20% | ~269 |
+| The King's Caprice | 0.20% | ~269 |
+| Research & Development | 0.20% | ~269 |
+| Vanity, Verily | 0.20% | ~269 |
+| Big Game Hunting | 0.20% | ~269 |
+| Fated Encounters | 0.20% | ~269 |
+| For the Hoard! | 0.20% | ~269 |
+| Scrapbooker | 0.20% | ~269 |
+| Archivist | 0.20% | ~269 |
+| Locally Sourced | 0.20% | ~269 |
+| Flying off the Shelves | 0.20% | ~269 |
+| This Power Level...! | 0.20% | ~269 |
+| Omae wa Mou Shindeiru | 0.20% | ~269 |
+| Master of Transmutation | 0.20% | ~269 |
+| Hidden Potential | 0.20% | ~269 |
+| Power of Love | 0.20% | ~269 |
+| Expansion in Session | 0.20% | ~269 |
+| Ritualist | 0.20% | ~269 |
+| Cranked up to 11 | 0.20% | ~269 |
+| Flawless Fusion | 0.20% | ~269 |
+| Trash to Treasure | 0.20% | ~269 |
+| Royal Ransom | 0.20% | ~269 |
+| Mammonite | 0.20% | ~269 |
+| Wealth Beyond Measure | 0.20% | ~269 |
+| Helping Hand | 0.20% | ~269 |
+| Fat Cat Tag Team | 0.20% | ~269 |
+| Laden with Loot | 0.20% | ~269 |
+| Natural 20 | 0.20% | ~269 |
+| Seasoned Journeyman | 0.20% | ~269 |
+| Black Friday Special | 0.20% | ~269 |
+| King's Shadow | 0.20% | ~269 |
+| Magical Harmony | 0.20% | ~269 |
+| Special Ingredient | 0.20% | ~269 |
+| Exotic Commodities | 0.20% | ~269 |
+| Complete Monopoly | 0.20% | ~269 |
 | Cream of the Crop | 0.10% | ~134 |
 | Top of the World | 0.10% | ~134 |
 | Proud Paladin | 0.10% | ~134 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Economy of Scarce | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,249 (Ranked 65)  
+Progressed: 134,253 (Ranked 65)  
 Completed: 131 (0.10%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,7 +231,7 @@ Completed: 131 (0.10%) (Ranked 199)
 | 2023-08-07 | 134,099 | 130 |
 | 2023-08-08 | 134,169 | 131 |
 | 2023-08-09 | 134,223 | 131 |
-| 2023-08-10 | 134,249 | 131 |
+| 2023-08-10 | 134,253 | 131 |
 ## Awards
 Max (Great for Beginners): 4,694  (Ranked 71)  
 Sum: 27,074 (Ranked 46)  

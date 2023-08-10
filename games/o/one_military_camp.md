@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | The 4 Pillars | 51.00% | ~69 |
 | First Step | 51.00% | ~69 |
-| Capitalism | 20.00% | ~27 |
+| Capitalism | 21.00% | ~29 |
 | Indebted | 12.00% | ~16 |
 | There's something in those trees | 10.00% | ~14 |
 | Great Producer | 10.00% | ~14 |
@@ -18,27 +18,27 @@
 | Fuel Tycoon | 7.00% | ~10 |
 | Ammo Tycoon | 7.00% | ~10 |
 | Jantine: the Misfortunes of Evil | 6.00% | ~8 |
-| Perfect Soldier | 5.00% | ~7 |
+| Perfect Soldier | 6.00% | ~8 |
+| Healing | 5.00% | ~7 |
 | Pathfinder | 5.00% | ~7 |
 | Self-sufficient | 5.00% | ~7 |
 | Food Tycoon | 5.00% | ~7 |
 | Medicine Tycoon | 5.00% | ~7 |
 | Supersoldier | 4.00% | ~5 |
 | Outdoor Decorator | 4.00% | ~5 |
-| Healing | 4.00% | ~5 |
 | Overpopulation | 3.00% | ~4 |
 | Property Bro | 3.00% | ~4 |
 | Human Resources | 3.00% | ~4 |
-| Training Camp | 2.00% | ~3 |
+| Training Camp | 3.00% | ~4 |
+| No News is Good News | 2.00% | ~3 |
 | Winter Soldier | 2.00% | ~3 |
 | Researcher | 2.00% | ~3 |
 | Tear Down the Wall! | 1.00% | ~1 |
+| Crisis Committee | 1.00% | ~1 |
 | Vive le Résistance | 1.00% | ~1 |
-| No News is Good News | 1.00% | ~1 |
 | Snowman | 1.00% | ~1 |
 | Reconquest | 1.00% | ~1 |
 | Economist | 0.70% | ~1 |
-| Crisis Committee | 0.70% | ~1 |
 | Attack of the Drones | 0.00% | ~0 |
 | Counter-espionage | 0.00% | ~0 |
 | Self-management | 0.00% | ~0 |

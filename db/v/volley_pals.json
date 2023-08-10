@@ -4,8 +4,8 @@
   "ProductSlug": "volley-pals-0120b4",
   "Ranking_EOS_Progress": 326,
   "Ranking_EOS_Completed": 7,
-  "Ranking_EOS_NewPlayers": 252,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-05-19T01:00:00+00:00",
     "PcReleaseDate": "2023-05-19T01:00:00+00:00",
@@ -20,10 +20,10 @@
   "ReviewsDisabled": false,
   "Tags": [],
   "EOS_Progressed": 92,
-  "EOS_Completed": 21,
+  "EOS_Completed": 22,
   "EOS_NewPlayers": 4,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 22.83,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 23.91,
   "EosHistory": [
     {
       "Time": "2023-05-19T19:23:39.9762126+00:00",
@@ -479,6 +479,11 @@
       "Time": "2023-08-10T12:06:09.9762869+00:00",
       "NumProgressed": 92,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-08-10T13:18:18.5379787+00:00",
+      "NumProgressed": 92,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 10,
@@ -544,25 +549,25 @@
       "ID": "LEVEL_7",
       "SetID": "1fnbp5h",
       "Name": "Sewer",
-      "Percentage": 30,
+      "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "LEVEL_8",
       "SetID": "1fnbp5h",
       "Name": "Arcade",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "LEVEL_9",
       "SetID": "1fnbp5h",
       "Name": "Custom Court",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     }
   ],
   "AchievementSets": [
@@ -570,12 +575,12 @@
       "ID": "1fnbp5h",
       "IsBase": true,
       "Progressed": 92,
-      "Completed": 21
+      "Completed": 22
     }
   ],
   "FirstSeenAchievements": "2023-05-02T15:59:43.451096+00:00",
-  "LastChanged_Achievements": "2023-08-10T12:06:09.9762866+00:00",
+  "LastChanged_Achievements": "2023-08-10T13:18:18.5379782+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:38.7852117+00:00",
-  "LastUpdate_Ratings": "2023-08-10T11:58:36.3575065+00:00",
-  "LastUpdate_Achievements": "2023-08-10T12:06:09.9763058+00:00"
+  "LastUpdate_Ratings": "2023-08-10T13:10:37.075085+00:00",
+  "LastUpdate_Achievements": "2023-08-10T13:18:18.5379895+00:00"
 }
