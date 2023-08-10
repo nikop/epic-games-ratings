@@ -14,7 +14,7 @@
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
 | 13 | [Island Cities](games/i/island_cities.md) | 18.12% |
 | 14 | [Afterglitch](games/a/afterglitch.md) | 16.67% |
-| 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 14.41% |
+| 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 14.29% |
 | 16 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 13.94% |
 | 17 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 12.50% |
 | 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.01% |
@@ -36,7 +36,7 @@
 | 34 | [Ravenlok](games/r/ravenlok.md) | 7.40% |
 | 35 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.03% |
 | 36 | [Scorn](games/s/scorn.md) | 6.95% |
-| 37 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.89% |
+| 37 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.88% |
 | 38 | [Time Loader](games/t/time_loader.md) | 6.84% |
 | 39 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.32% |
@@ -339,6 +339,7 @@
 | 251 | [FutureGrind](games/8/80a76982ecc941dd864a8792a03a5ddc.md) | 0.00% |
 | 251 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 0.00% |
 | 251 | [Galactic Civilizations IV: Supernova](games/g/galactic_civilizations_iv__supernova.md) | 0.00% |
+| 251 | [Game Dev Masters](games/g/game_dev_masters.md) | 0.00% |
 | 251 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 0.00% |
 | 251 | [Garden In](games/g/garden_in.md) | 0.00% |
 | 251 | [Get Together: A Coop Adventure](games/g/get_together__a_coop_adventure.md) | 0.00% |
@@ -419,6 +420,7 @@
 | 251 | [Outliver: Tribulation](games/1/13e30807efce43ea9e04ac1c45668d8e.md) | 0.00% |
 | 251 | [Oxide Room 104](games/o/oxide_room_104.md) | 0.00% |
 | 251 | [Panic Porcupine](games/p/panic_porcupine.md) | 0.00% |
+| 251 | [Paquerette Down the Bunburrows](games/3/3c8f3297965d4326b0b16a6aeb968b5d.md) | 0.00% |
 | 251 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 0.00% |
 | 251 | [PAW Patrol Mighty Pups Save Adventure Bay](games/p/paw_patrol_mighty_pups_save_adventure_bay.md) | 0.00% |
 | 251 | [PC Building Simulator](games/p/pc_building_simulator.md) | 0.00% |
@@ -532,4 +534,4 @@
 | 251 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 251 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 251 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,019 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,020 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |

@@ -219,6 +219,7 @@
 | [Fusion Paradox](../games/f/fusion_paradox.md) | 15 | 1,000 |
 | [FutureGrind](../games/8/80a76982ecc941dd864a8792a03a5ddc.md) | 18 | 1,000 |
 | [Galactic Civilizations IV](../games/g/galactic_civilizations_iv.md) | 72 | 1,000 |
+| [Game Dev Masters](../games/g/game_dev_masters.md) | 68 | 1,000 |
 | [Gamedec - Definitive Edition](../games/g/gamedec_-_definitive_edition.md) | 52 | 1,000 |
 | [Garden In](../games/g/garden_in.md) | 31 | 1,000 |
 | [GeoJelly](../games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 7 | 1,000 |
