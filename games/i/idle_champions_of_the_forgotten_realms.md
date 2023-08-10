@@ -25,6 +25,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Thieves of the Coven | 0.10% | ~187 |
 | Sticky Fingers | 0.10% | ~187 |
 | Patron Party | 0.10% | ~187 |
+| Go Fourth | 0.10% | ~187 |
 | Hither of the Feywild | 0.10% | ~187 |
 | Don't Breathe the Marsh Gas | 0.10% | ~187 |
 | Don't Blast the Brigands | 0.10% | ~187 |
@@ -374,6 +375,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Just The Worst | 0.10% | ~187 |
 | Bel's Forge | 0.10% | ~187 |
 | Extreme Heat | 0.10% | ~187 |
+| Fire and Brimstone | 0.10% | ~187 |
 | Into the Unknown | 0.10% | ~187 |
 | A Tenday at Golgamann's | 0.10% | ~187 |
 | A Nightmare Occasion | 0.10% | ~187 |
@@ -510,7 +512,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | To Infinity's and Beyond | 0.10% | ~187 |
 | There's a Flying Snake in my Boot! | 0.10% | ~187 |
 | A Familiar Behind Us | 0.00% | ~0 |
-| Go Fourth | 0.00% | ~0 |
 | Second Third Out | 0.00% | ~0 |
 | End of the Line | 0.00% | ~0 |
 | The Loots of Loomlurch | 0.00% | ~0 |
@@ -518,12 +519,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Nimble Approach | 0.00% | ~0 |
 | Spirit of the Trickster Gods | 0.00% | ~0 |
 | An Even Worse Time in Avernus | 0.00% | ~0 |
-| Fire and Brimstone | 0.00% | ~0 |
 | Fire and Ice | 0.00% | ~0 |
 | Ambitious Speakers - Part 2 | 0.00% | ~0 |
 | An Icewind Dale Reunion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,358 (Ranked 52)  
+Progressed: 220,362 (Ranked 52)  
 Completed: 2,167 (0.98%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -635,7 +635,7 @@ Completed: 2,167 (0.98%) (Ranked 113)
 | 2023-08-07 | 219,734 | 2,162 |
 | 2023-08-08 | 220,011 | 2,165 |
 | 2023-08-09 | 220,283 | 2,167 |
-| 2023-08-10 | 220,358 | 2,167 |
+| 2023-08-10 | 220,362 | 2,167 |
 ## Awards
 Max (Diverse Characters): 5,128  (Ranked 67)  
 Sum: 30,973 (Ranked 38)  

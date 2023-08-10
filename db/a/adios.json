@@ -96,9 +96,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 69444,
+  "EOS_Progressed": 69446,
   "EOS_Completed": 695,
-  "EOS_NewPlayers": 846,
+  "EOS_NewPlayers": 844,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -12351,6 +12351,11 @@
       "Time": "2023-08-10T06:07:30.7257973+00:00",
       "NumProgressed": 69444,
       "NumCompleted": 695
+    },
+    {
+      "Time": "2023-08-10T07:07:02.2095963+00:00",
+      "NumProgressed": 69446,
+      "NumCompleted": 695
     }
   ],
   "TotalAchievements": 25,
@@ -12482,7 +12487,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 13194
+      "UsersEstimate": 13195
     },
     {
       "ID": "Nice Try",
@@ -12506,7 +12511,7 @@
       "Name": "Piano Man",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 6944
+      "UsersEstimate": 6945
     },
     {
       "ID": "Right On Target",
@@ -12561,7 +12566,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 69444,
+      "Progressed": 69446,
       "Completed": 695
     }
   ],
@@ -12569,8 +12574,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-08-07T22:57:38.0235808+00:00",
-  "LastChanged_Achievements": "2023-08-10T06:07:30.7257968+00:00",
+  "LastChanged_Achievements": "2023-08-10T07:07:02.2095956+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:13.5185195+00:00",
-  "LastUpdate_Ratings": "2023-08-10T05:57:20.7181103+00:00",
-  "LastUpdate_Achievements": "2023-08-10T06:07:30.7258729+00:00"
+  "LastUpdate_Ratings": "2023-08-10T06:57:26.621007+00:00",
+  "LastUpdate_Achievements": "2023-08-10T07:07:02.2096808+00:00"
 }

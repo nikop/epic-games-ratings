@@ -1405,9 +1405,9 @@
       "Count": 245
     }
   ],
-  "EOS_Progressed": 192519,
+  "EOS_Progressed": 192524,
   "EOS_Completed": 68,
-  "EOS_NewPlayers": 1732,
+  "EOS_NewPlayers": 1733,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -13695,6 +13695,11 @@
       "Time": "2023-08-10T06:03:28.8131842+00:00",
       "NumProgressed": 192519,
       "NumCompleted": 68
+    },
+    {
+      "Time": "2023-08-10T07:03:34.2626203+00:00",
+      "NumProgressed": 192524,
+      "NumCompleted": 68
     }
   ],
   "TotalAchievements": 44,
@@ -13778,7 +13783,7 @@
       "Name": "Genin",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 21177
+      "UsersEstimate": 21178
     },
     {
       "ID": "HappyLittleAccidents",
@@ -13826,7 +13831,7 @@
       "Name": "Jonin",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 13476
+      "UsersEstimate": 13477
     },
     {
       "ID": "Mercyful",
@@ -13922,7 +13927,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 13476
+      "UsersEstimate": 13477
     },
     {
       "ID": "Rollin",
@@ -13954,7 +13959,7 @@
       "Name": "Stoned Ox",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 13476
+      "UsersEstimate": 13477
     },
     {
       "ID": "TanukiTime",
@@ -14057,15 +14062,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 192519,
+      "Progressed": 192524,
       "Completed": 68
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-08-08T12:00:34.0417468+00:00",
-  "LastChanged_Achievements": "2023-08-10T06:03:28.8131835+00:00",
+  "LastChanged_Achievements": "2023-08-10T07:03:34.2626199+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:04.7393029+00:00",
-  "LastUpdate_Ratings": "2023-08-10T06:00:15.2371766+00:00",
-  "LastUpdate_Achievements": "2023-08-10T06:03:28.8132837+00:00"
+  "LastUpdate_Ratings": "2023-08-10T06:59:47.4463068+00:00",
+  "LastUpdate_Achievements": "2023-08-10T07:03:34.2627098+00:00"
 }

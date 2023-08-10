@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 194,
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 65,
+  "Ranking_EOS_NewPlayers": 66,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -549,9 +549,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 219774,
+  "EOS_Progressed": 219775,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 635,
+  "EOS_NewPlayers": 633,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12579,6 +12579,11 @@
       "Time": "2023-08-10T06:07:03.2792374+00:00",
       "NumProgressed": 219774,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-10T07:06:38.9489029+00:00",
+      "NumProgressed": 219775,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -12662,7 +12667,7 @@
       "Name": "Battle Servitor",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4395
+      "UsersEstimate": 4396
     },
     {
       "ID": "ACH_BASE_2",
@@ -12686,7 +12691,7 @@
       "Name": "Ding Dong Szaregon\u0027s Gone",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4395
+      "UsersEstimate": 4396
     },
     {
       "ID": "ACH_BASE_22",
@@ -12694,7 +12699,7 @@
       "Name": "Impatient destruction",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 4395
+      "UsersEstimate": 4396
     },
     {
       "ID": "ACH_BASE_23",
@@ -12822,7 +12827,7 @@
       "Name": "Vivisected Vizier",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4395
+      "UsersEstimate": 4396
     },
     {
       "ID": "ACH_BASE_6",
@@ -12830,7 +12835,7 @@
       "Name": "Architect Abortion",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4395
+      "UsersEstimate": 4396
     },
     {
       "ID": "ACH_BASE_7",
@@ -12861,7 +12866,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 219774,
+      "Progressed": 219775,
       "Completed": 5
     }
   ],
@@ -12869,8 +12874,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-07-29T17:58:35.8211483+00:00",
-  "LastChanged_Achievements": "2023-08-10T06:07:03.279237+00:00",
+  "LastChanged_Achievements": "2023-08-10T07:06:38.9489024+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:23.1317268+00:00",
-  "LastUpdate_Ratings": "2023-08-10T05:59:34.285619+00:00",
-  "LastUpdate_Achievements": "2023-08-10T06:07:03.2793178+00:00"
+  "LastUpdate_Ratings": "2023-08-10T06:59:13.8913769+00:00",
+  "LastUpdate_Achievements": "2023-08-10T07:06:38.9489794+00:00"
 }

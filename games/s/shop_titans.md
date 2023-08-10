@@ -7,8 +7,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Sponsored by Argon | 0.90% | ~1,208 |
+| Titan's First Steps | 0.90% | ~1,208 |
 | Basic in Bulk | 0.80% | ~1,074 |
-| Titan's First Steps | 0.80% | ~1,074 |
 | Tinkle of Coins | 0.70% | ~940 |
 | Disintermediation | 0.60% | ~805 |
 | Capitalism Ho! | 0.60% | ~805 |
@@ -28,6 +28,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Demand for Supplies | 0.30% | ~403 |
 | Flooding the Market | 0.30% | ~403 |
 | Where it Hurts | 0.30% | ~403 |
+| Gem Expert | 0.30% | ~403 |
 | Gild-Gotten Goods | 0.30% | ~403 |
 | Accomplished Merchant | 0.30% | ~403 |
 | Dungeon Imports | 0.30% | ~403 |
@@ -55,9 +56,9 @@ Number of Ratings: 12,664  (23.09.2022)
 | Efficient Floor Space | 0.20% | ~268 |
 | Flawless Fusion | 0.20% | ~268 |
 | Trash to Treasure | 0.20% | ~268 |
-| Gem Expert | 0.20% | ~268 |
 | Royal Ransom | 0.20% | ~268 |
 | Mammonite | 0.20% | ~268 |
+| Wealth Beyond Measure | 0.20% | ~268 |
 | Helping Hand | 0.20% | ~268 |
 | Fat Cat Tag Team | 0.20% | ~268 |
 | Natural 20 | 0.20% | ~268 |
@@ -90,7 +91,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Fit for a King | 0.10% | ~134 |
 | By Your Powers Combined... | 0.10% | ~134 |
 | A Legend is Born | 0.10% | ~134 |
-| Wealth Beyond Measure | 0.10% | ~134 |
 | Capitalist Camaraderie | 0.10% | ~134 |
 | Necromancer Queen | 0.10% | ~134 |
 | Jackpot! | 0.10% | ~134 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Economy of Scarce | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,235 (Ranked 65)  
+Progressed: 134,237 (Ranked 65)  
 Completed: 131 (0.10%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,7 +231,7 @@ Completed: 131 (0.10%) (Ranked 199)
 | 2023-08-07 | 134,099 | 130 |
 | 2023-08-08 | 134,169 | 131 |
 | 2023-08-09 | 134,223 | 131 |
-| 2023-08-10 | 134,235 | 131 |
+| 2023-08-10 | 134,237 | 131 |
 ## Awards
 Max (Great for Beginners): 4,694  (Ranked 71)  
 Sum: 27,074 (Ranked 46)  
