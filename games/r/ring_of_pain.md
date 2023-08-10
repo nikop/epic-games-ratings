@@ -38,11 +38,11 @@ Number of Ratings: 15,086  (23.09.2022)
 | Flesh Wound | 29.00% | ~67,880 |
 | Stone Touch | 28.00% | ~65,540 |
 | Shadow Walker | 28.00% | ~65,540 |
+| Consecutive Curses | 27.00% | ~63,199 |
 | Walk It Off | 27.00% | ~63,199 |
 | Acid Bath | 27.00% | ~63,199 |
 | New Perspectives | 27.00% | ~63,199 |
 | Shapeshifting | 27.00% | ~63,199 |
-| Consecutive Curses | 26.00% | ~60,858 |
 | Destroy Your Fears | 26.00% | ~60,858 |
 | Save Our Souls | 25.00% | ~58,518 |
 | To The Death! | 20.00% | ~46,814 |

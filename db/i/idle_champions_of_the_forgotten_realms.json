@@ -5636,10 +5636,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 30971,
       "NumberOfAwardsMax": 5128
+    },
+    {
+      "Time": "2023-08-10T01:59:54.4285801+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 30973,
+      "NumberOfAwardsMax": 5128
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30971,
+  "NumberOfAwards": 30973,
   "NumberOfAwardsMax": 5128,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5677,7 +5683,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4060
+      "Count": 4062
     },
     {
       "Text": "This game has Playful Visuals",
@@ -5686,10 +5692,10 @@
       "Count": 3347
     }
   ],
-  "EOS_Progressed": 220295,
+  "EOS_Progressed": 220317,
   "EOS_Completed": 2167,
-  "EOS_NewPlayers": 2254,
-  "EOS_NewCompleters": 22,
+  "EOS_NewPlayers": 2247,
+  "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
@@ -17731,6 +17737,11 @@
       "Time": "2023-08-10T00:02:12.4505545+00:00",
       "NumProgressed": 220295,
       "NumCompleted": 2167
+    },
+    {
+      "Time": "2023-08-10T02:03:18.0586865+00:00",
+      "NumProgressed": 220317,
+      "NumCompleted": 2167
     }
   ],
   "TotalAchievements": 516,
@@ -18260,17 +18271,17 @@
       "ID": "objective_completed_1133",
       "SetID": "415jc5c",
       "Name": "All Damage, All The Time",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 187
     },
     {
       "ID": "objective_completed_1134",
       "SetID": "415jc5c",
       "Name": "Will of the Frozen Feywild",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 187
     },
     {
       "ID": "objective_completed_1137",
@@ -18876,9 +18887,9 @@
       "ID": "objective_completed_151",
       "SetID": "cc37lbc",
       "Name": "No Good at All",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 220
     },
     {
       "ID": "objective_completed_152",
@@ -19468,9 +19479,9 @@
       "ID": "objective_completed_380",
       "SetID": "cc37lbc",
       "Name": "Air\u0027s Getting Pretty Thin",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 220
     },
     {
       "ID": "objective_completed_381",
@@ -21324,9 +21335,9 @@
       "ID": "objective_completed_867",
       "SetID": "415jc5c",
       "Name": "The Battle of High Hall Tower",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 187
     },
     {
       "ID": "objective_completed_868",
@@ -21452,9 +21463,9 @@
       "ID": "objective_completed_894",
       "SetID": "415jc5c",
       "Name": "Shady Sidekicks - Part 2",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 187
     },
     {
       "ID": "objective_completed_897",
@@ -21716,9 +21727,9 @@
       "ID": "objective_completed_1327",
       "SetID": "415jc5c",
       "Name": "Tiny Treaty",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 187
     },
     {
       "ID": "objective_completed_1332",
@@ -21869,21 +21880,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 186569,
-      "Completed": 3101
+      "Progressed": 186591,
+      "Completed": 3105
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 220295,
+      "Progressed": 220317,
       "Completed": 2167
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-08-09T21:00:00.4067154+00:00",
-  "LastChanged_Achievements": "2023-08-10T00:02:12.4505536+00:00",
+  "LastChanged": "2023-08-10T01:59:54.4285799+00:00",
+  "LastChanged_Achievements": "2023-08-10T02:03:18.0586858+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:58.6885063+00:00",
-  "LastUpdate_Ratings": "2023-08-09T23:59:03.9281916+00:00",
-  "LastUpdate_Achievements": "2023-08-10T00:02:12.4532721+00:00"
+  "LastUpdate_Ratings": "2023-08-10T01:59:54.4285808+00:00",
+  "LastUpdate_Achievements": "2023-08-10T02:03:18.0620287+00:00"
 }

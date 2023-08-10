@@ -2637,7 +2637,7 @@
   ],
   "EOS_Progressed": 234070,
   "EOS_Completed": 259,
-  "EOS_NewPlayers": 415,
+  "EOS_NewPlayers": 412,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -13957,9 +13957,9 @@
       "ID": "CURSEDPOTIONS",
       "SetID": "5l8oe0h",
       "Name": "Consecutive Curses",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 60858
+      "UsersEstimate": 63199
     },
     {
       "ID": "DAILY7",
@@ -14894,8 +14894,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-08-09T11:01:10.9784095+00:00",
-  "LastChanged_Achievements": "2023-08-10T00:05:37.8748063+00:00",
+  "LastChanged_Achievements": "2023-08-10T02:06:42.3135497+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:24.4537188+00:00",
-  "LastUpdate_Ratings": "2023-08-10T00:00:28.0122292+00:00",
-  "LastUpdate_Achievements": "2023-08-10T00:05:37.875075+00:00"
+  "LastUpdate_Ratings": "2023-08-10T02:01:29.3170611+00:00",
+  "LastUpdate_Achievements": "2023-08-10T02:06:42.3138171+00:00"
 }

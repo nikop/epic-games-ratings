@@ -83,6 +83,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Persian Paganism | 0.60% | ~80 |
 | Building Wonders | 0.60% | ~80 |
 | Phalangite | 0.60% | ~80 |
+| Invincible | 0.50% | ~67 |
 | Lion | 0.50% | ~67 |
 | Subjugator | 0.50% | ~67 |
 | Victorious | 0.50% | ~67 |
@@ -100,9 +101,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cimmerian Archer | 0.50% | ~67 |
 | Legionary | 0.50% | ~67 |
 | Double Victory | 0.50% | ~67 |
+| Win a Single Player Game | 0.50% | ~67 |
 | Capable | 0.40% | ~53 |
 | Devout | 0.40% | ~53 |
-| Invincible | 0.40% | ~53 |
 | Ready | 0.40% | ~53 |
 | Strong Difficulty | 0.40% | ~53 |
 | Hunters | 0.40% | ~53 |
@@ -122,7 +123,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Revelation | 0.40% | ~53 |
 | Veneration | 0.40% | ~53 |
 | Ambition Victory | 0.40% | ~53 |
-| Win a Single Player Game | 0.40% | ~53 |
 | Bad Heir Day | 0.30% | ~40 |
 | Ishtar Gate in Babylon | 0.30% | ~40 |
 | Carthage - Ox Hide | 0.30% | ~40 |
@@ -151,6 +151,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hatti | 0.20% | ~27 |
 | Persia | 0.20% | ~27 |
 | Old World Order | 0.20% | ~27 |
+| Pantheon of Gods | 0.20% | ~27 |
 | Play a Free-For-All Game (>2 Players) | 0.20% | ~27 |
 | Play a Network Game | 0.20% | ~27 |
 | Play a Play-By-Cloud Game | 0.20% | ~27 |
@@ -244,7 +245,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Merchants of the Levant | 0.10% | ~13 |
 | Realistic Mortality | 0.10% | ~13 |
 | Assyria | 0.10% | ~13 |
-| Pantheon of Gods | 0.10% | ~13 |
 | Apadana in Parsa | 0.10% | ~13 |
 | Play a 1-v-1 Game | 0.10% | ~13 |
 | Play a Hotseat Game | 0.10% | ~13 |

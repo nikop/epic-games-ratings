@@ -64,6 +64,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Demon Lords of the Abyss | 0.10% | ~187 |
 | Speed Demons | 0.10% | ~187 |
 | Will of the Feywild | 0.10% | ~187 |
+| All Damage, All The Time | 0.10% | ~187 |
+| Will of the Frozen Feywild | 0.10% | ~187 |
 | The Roots of Loomlurch | 0.10% | ~187 |
 | The Lutes of Loomlurch | 0.10% | ~187 |
 | Supply Run | 0.10% | ~220 |
@@ -134,6 +136,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Forbidden City | 0.10% | ~220 |
 | Terror in the Dark | 0.10% | ~220 |
 | Periodic Petrification | 0.10% | ~220 |
+| No Good at All | 0.10% | ~220 |
 | Fall From Grace | 0.10% | ~220 |
 | Captured! | 0.10% | ~220 |
 | Home Field Advantage | 0.10% | ~220 |
@@ -205,6 +208,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Treasure Hunters | 0.10% | ~220 |
 | The Guardian of Orolunga | 0.10% | ~220 |
 | Think Your Way Out Of It | 0.10% | ~220 |
+| Air's Getting Pretty Thin | 0.10% | ~220 |
 | Red Wizard 'Escort' | 0.10% | ~187 |
 | The Lost Love | 0.10% | ~220 |
 | A Saurial's Lament | 0.10% | ~220 |
@@ -427,6 +431,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Frozen Vengeance | 0.10% | ~187 |
 | Mimic Vengeance | 0.10% | ~187 |
 | REALLY Frozen Vengeance | 0.10% | ~187 |
+| The Battle of High Hall Tower | 0.10% | ~187 |
 | The Stunning Tower Battle | 0.10% | ~187 |
 | Elturel's Last Stand | 0.10% | ~187 |
 | Gargauth's Betrayal | 0.10% | ~187 |
@@ -440,6 +445,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ambitious Speakers - Part 1 | 0.10% | ~187 |
 | Shady Sidekicks - Part 1 | 0.10% | ~187 |
 | Ending the Rime - Part 2 | 0.10% | ~187 |
+| Shady Sidekicks - Part 2 | 0.10% | ~187 |
 | Reghed Glacier Mysteries | 0.10% | ~187 |
 | Mysteries Unlocked | 0.10% | ~187 |
 | Male Pattern Boldness | 0.10% | ~187 |
@@ -470,6 +476,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Devilishly Cold | 0.10% | ~187 |
 | The Champion's Guide to Wildspace | 0.10% | ~187 |
 | Not That Type of Helm! | 0.10% | ~187 |
+| Tiny Treaty | 0.10% | ~187 |
 | Calcryx Tricks | 0.10% | ~187 |
 | Goblin Halls: the Next Generation | 0.10% | ~187 |
 | Bazaar Companions | 0.10% | ~187 |
@@ -494,17 +501,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | Where the Magic Happens | 0.00% | ~0 |
 | Second Third Out | 0.00% | ~0 |
 | End of the Line | 0.00% | ~0 |
-| All Damage, All The Time | 0.00% | ~0 |
-| Will of the Frozen Feywild | 0.00% | ~0 |
 | The Loots of Loomlurch | 0.00% | ~0 |
 | Strength of Character | 0.00% | ~0 |
 | The Invisible Wizards of Thay | 0.00% | ~0 |
 | A Nimble Approach | 0.00% | ~0 |
 | The Egg of Nat's Desire | 0.00% | ~0 |
-| No Good at All | 0.00% | ~0 |
 | The Wyrmheart Mine | 0.00% | ~0 |
 | Mongrelfolk Incursion | 0.00% | ~0 |
-| Air's Getting Pretty Thin | 0.00% | ~0 |
 | Spirit of the Trickster Gods | 0.00% | ~0 |
 | An Even Worse Time in Avernus | 0.00% | ~0 |
 | Fire and Brimstone | 0.00% | ~0 |
@@ -514,16 +517,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Neutral Party | 0.00% | ~0 |
 | Going To Eleven | 0.00% | ~0 |
 | Fire and Ice | 0.00% | ~0 |
-| The Battle of High Hall Tower | 0.00% | ~0 |
 | Might Makes Right | 0.00% | ~0 |
 | Ambitious Speakers - Part 2 | 0.00% | ~0 |
-| Shady Sidekicks - Part 2 | 0.00% | ~0 |
 | An Icewind Dale Reunion | 0.00% | ~0 |
 | Quick or Quack | 0.00% | ~0 |
-| Tiny Treaty | 0.00% | ~0 |
 | All The World's A Stage | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,295 (Ranked 52)  
+Progressed: 220,317 (Ranked 52)  
 Completed: 2,167 (0.98%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -635,10 +635,10 @@ Completed: 2,167 (0.98%) (Ranked 113)
 | 2023-08-07 | 219,734 | 2,162 |
 | 2023-08-08 | 220,011 | 2,165 |
 | 2023-08-09 | 220,283 | 2,167 |
-| 2023-08-10 | 220,295 | 2,167 |
+| 2023-08-10 | 220,317 | 2,167 |
 ## Awards
 Max (Diverse Characters): 5,128  (Ranked 67)  
-Sum: 30,971 (Ranked 38)  
+Sum: 30,973 (Ranked 38)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
@@ -646,7 +646,7 @@ Diff (max vs sum): 29
 | This game is Great for Beginners | 5,083 |
 | This game has Quickly Understood Controls | 4,709 |
 | This game is Relaxing | 4,604 |
-| This game has Amazing Characters | 4,060 |
+| This game has Amazing Characters | 4,062 |
 | This game is Highly Recommended | 4,040 |
 | This game has Playful Visuals | 3,347 |
 ## Ratings History
@@ -848,3 +848,4 @@ Diff (max vs sum): 29
 | 2023-08-07 | 4.06 | - | 5,121 | 30,936 |
 | 2023-08-08 | 4.06 | - | 5,125 | 30,950 |
 | 2023-08-09 | 4.06 | - | 5,128 | 30,971 |
+| 2023-08-10 | 4.06 | - | 5,128 | 30,973 |

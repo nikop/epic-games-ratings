@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 74,
+  "Ranking_EOS_NewPlayers": 73,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-10-22T11:18:36+00:00",
@@ -294,7 +294,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 194249,
+  "EOS_Progressed": 194258,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 591,
   "EOS_NewCompleters": 0,
@@ -12254,6 +12254,11 @@
       "Time": "2023-08-09T23:06:35.0224869+00:00",
       "NumProgressed": 194249,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-10T02:02:24.1648411+00:00",
+      "NumProgressed": 194258,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -12265,7 +12270,7 @@
       "Name": "Battlesuit Victory",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 15540
+      "UsersEstimate": 15541
     },
     {
       "ID": "ACH_COMPLETE_TUTORIAL",
@@ -12273,7 +12278,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 137917
+      "UsersEstimate": 137923
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -12281,7 +12286,7 @@
       "Name": "Flawless Victory",
       "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 9712
+      "UsersEstimate": 9713
     },
     {
       "ID": "ACH_GATED_COMMUNITY",
@@ -12289,7 +12294,7 @@
       "Name": "Gated Community",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 5827
+      "UsersEstimate": 5828
     },
     {
       "ID": "ACH_INITIATION",
@@ -12297,7 +12302,7 @@
       "Name": "Initiation",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 34965
+      "UsersEstimate": 34966
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -12313,7 +12318,7 @@
       "Name": "Total Destruction",
       "Percentage": 1,
       "XP": 60,
-      "UsersEstimate": 1942
+      "UsersEstimate": 1943
     },
     {
       "ID": "ACH_WIN_100_ONLINE_GAME",
@@ -12329,7 +12334,7 @@
       "Name": "Getting There",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 1942
+      "UsersEstimate": 1943
     },
     {
       "ID": "ACH_WIN_30_MAP_CONTROL",
@@ -12337,7 +12342,7 @@
       "Name": "We shall never Surrender!",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "ACH_WIN_3_ONLINE_GAME",
@@ -12345,7 +12350,7 @@
       "Name": "Baby Steps",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 9712
+      "UsersEstimate": 9713
     },
     {
       "ID": "ACH_WIN_50_ONLINE_GAME",
@@ -12353,7 +12358,7 @@
       "Name": "Halfway There",
       "Percentage": 0.2,
       "XP": 70,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "ACH_WIN_90_MAP_CONTROL",
@@ -12377,7 +12382,7 @@
       "Name": "Untouchable",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 1942
+      "UsersEstimate": 1943
     },
     {
       "ID": "ACH_WIN_FIRST_COOP",
@@ -12385,14 +12390,14 @@
       "Name": "First Co-Op Win",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 9712
+      "UsersEstimate": 9713
     }
   ],
   "AchievementSets": [
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 194249,
+      "Progressed": 194258,
       "Completed": 4
     }
   ],
@@ -12400,8 +12405,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-08-06T15:01:02.3666126+00:00",
-  "LastChanged_Achievements": "2023-08-09T23:06:35.0224865+00:00",
+  "LastChanged_Achievements": "2023-08-10T02:02:24.1648404+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:35.1729578+00:00",
-  "LastUpdate_Ratings": "2023-08-10T00:00:37.7194907+00:00",
-  "LastUpdate_Achievements": "2023-08-09T23:06:35.0225516+00:00"
+  "LastUpdate_Ratings": "2023-08-10T02:01:38.1933595+00:00",
+  "LastUpdate_Achievements": "2023-08-10T02:02:24.1649663+00:00"
 }

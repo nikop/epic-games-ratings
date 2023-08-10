@@ -6010,10 +6010,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 40721,
       "NumberOfAwardsMax": 21636
+    },
+    {
+      "Time": "2023-08-10T01:59:05.2934351+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 40737,
+      "NumberOfAwardsMax": 21636
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 40721,
+  "NumberOfAwards": 40737,
   "NumberOfAwardsMax": 21636,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6027,7 +6033,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 10442
+      "Count": 10456
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -6045,7 +6051,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 962
+      "Count": 964
     },
     {
       "Text": "This game is Extremely Fun",
@@ -6090,10 +6096,10 @@
       "Count": 580
     }
   ],
-  "EOS_Progressed": 289740,
-  "EOS_Completed": 444,
-  "EOS_NewPlayers": 518,
-  "EOS_NewCompleters": 7,
+  "EOS_Progressed": 289746,
+  "EOS_Completed": 445,
+  "EOS_NewPlayers": 520,
+  "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
     {
@@ -18095,6 +18101,11 @@
       "Time": "2023-08-10T00:05:25.3122569+00:00",
       "NumProgressed": 289740,
       "NumCompleted": 444
+    },
+    {
+      "Time": "2023-08-10T02:06:27.1677846+00:00",
+      "NumProgressed": 289746,
+      "NumCompleted": 445
     }
   ],
   "TotalAchievements": 45,
@@ -18106,7 +18117,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 34769
+      "UsersEstimate": 34770
     },
     {
       "ID": "PFA_10",
@@ -18170,7 +18181,7 @@
       "Name": "Beast Friends",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 17384
+      "UsersEstimate": 17385
     },
     {
       "ID": "PFA_18",
@@ -18226,7 +18237,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 28974
+      "UsersEstimate": 28975
     },
     {
       "ID": "PFA_24",
@@ -18330,7 +18341,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 23179
+      "UsersEstimate": 23180
     },
     {
       "ID": "PFA_36",
@@ -18434,7 +18445,7 @@
       "Name": "First Class Student",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 31871
+      "UsersEstimate": 31872
     },
     {
       "ID": "PFA_7",
@@ -18442,7 +18453,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 31871
+      "UsersEstimate": 31872
     },
     {
       "ID": "PFA_8",
@@ -18450,7 +18461,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 28974
+      "UsersEstimate": 28975
     },
     {
       "ID": "PFA_9",
@@ -18458,23 +18469,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23179
+      "UsersEstimate": 23180
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 289740,
-      "Completed": 444
+      "Progressed": 289746,
+      "Completed": 445
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-08-09T22:58:07.3141181+00:00",
-  "LastChanged_Achievements": "2023-08-10T00:05:25.312256+00:00",
+  "LastChanged": "2023-08-10T01:59:05.2934349+00:00",
+  "LastChanged_Achievements": "2023-08-10T02:06:27.1677839+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:46.8672159+00:00",
-  "LastUpdate_Ratings": "2023-08-09T23:58:24.8602964+00:00",
-  "LastUpdate_Achievements": "2023-08-10T00:05:25.3123886+00:00"
+  "LastUpdate_Ratings": "2023-08-10T01:59:05.2934359+00:00",
+  "LastUpdate_Achievements": "2023-08-10T02:06:27.1679308+00:00"
 }

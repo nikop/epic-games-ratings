@@ -14,8 +14,8 @@ Number of Ratings: 429  (23.09.2022)
 | Unleash My Power | 62.00% | ~3,920 |
 | Own 30 Planets | 34.00% | ~2,150 |
 | Xenocide | 32.00% | ~2,023 |
+| Design a Civilization | 32.00% | ~2,023 |
 | Commodity Trader | 31.00% | ~1,960 |
-| Design a Civilization | 31.00% | ~1,960 |
 | Design a Ship | 29.00% | ~1,834 |
 | Commodity Seller | 25.00% | ~1,581 |
 | Prestige Victory! | 14.00% | ~885 |
@@ -193,8 +193,8 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-09 | 6,323 | 0 |
 ## Awards
 Max (Diverse Characters): 92  (Ranked 348)  
-Sum: 672 (Ranked 280)  
-Diff (max vs sum): 68  
+Sum: 672 (Ranked 281)  
+Diff (max vs sum): 67  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 92 |

@@ -19,13 +19,14 @@ Number of Ratings: 371  (23.09.2022)
 | Friendly Fire | 1.00% | ~31 |
 | A Foul Creche | 1.00% | ~31 |
 | The Emperor Protects | 0.90% | ~28 |
-| Nemesis Master | 0.80% | ~25 |
-| Gunmaster | 0.80% | ~25 |
+| Nemesis Master | 0.90% | ~28 |
+| Gunmaster | 0.90% | ~28 |
 | Execution Force | 0.80% | ~25 |
 | Hive Exterminator | 0.70% | ~22 |
 | Hold Your Ground | 0.60% | ~19 |
 | Corruption Cleanser | 0.60% | ~19 |
 | Just a Scratch | 0.60% | ~19 |
+| Patron of Deimos | 0.40% | ~13 |
 | Efficient Killer | 0.40% | ~13 |
 | Only in Death | 0.40% | ~13 |
 | Junk Banishment | 0.40% | ~13 |
@@ -33,7 +34,6 @@ Number of Ratings: 371  (23.09.2022)
 | Long Distance Call | 0.40% | ~13 |
 | Tactical Flexibility | 0.40% | ~13 |
 | Tactical Sabotage | 0.40% | ~13 |
-| Patron of Deimos | 0.30% | ~9 |
 | Daemonkeeper | 0.30% | ~9 |
 | Mind Like a Fortress | 0.30% | ~9 |
 | Fleetmaster | 0.20% | ~6 |

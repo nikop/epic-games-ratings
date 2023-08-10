@@ -36,6 +36,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | A Notch Above the Rest | 0.20% | ~268 |
 | Ascended | 0.20% | ~268 |
 | Tax not Included | 0.20% | ~268 |
+| The King's Caprice | 0.20% | ~268 |
 | Research & Development | 0.20% | ~268 |
 | Vanity, Verily | 0.20% | ~268 |
 | Big Game Hunting | 0.20% | ~268 |
@@ -57,6 +58,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Royal Ransom | 0.20% | ~268 |
 | Mammonite | 0.20% | ~268 |
 | Helping Hand | 0.20% | ~268 |
+| Fat Cat Tag Team | 0.20% | ~268 |
 | Natural 20 | 0.20% | ~268 |
 | Seasoned Journeyman | 0.20% | ~268 |
 | Black Friday Special | 0.20% | ~268 |
@@ -71,7 +73,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Above the Norm | 0.10% | ~134 |
 | Constellated | 0.10% | ~134 |
 | A Ronin Reborn | 0.10% | ~134 |
-| The King's Caprice | 0.10% | ~134 |
 | Thirst for Knowledge | 0.10% | ~134 |
 | Bane of Legends | 0.10% | ~134 |
 | Booty by the Boatload | 0.10% | ~134 |
@@ -90,7 +91,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | By Your Powers Combined... | 0.10% | ~134 |
 | A Legend is Born | 0.10% | ~134 |
 | Wealth Beyond Measure | 0.10% | ~134 |
-| Fat Cat Tag Team | 0.10% | ~134 |
 | Capitalist Camaraderie | 0.10% | ~134 |
 | Necromancer Queen | 0.10% | ~134 |
 | Jackpot! | 0.10% | ~134 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Economy of Scarce | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,224 (Ranked 65)  
+Progressed: 134,229 (Ranked 65)  
 Completed: 131 (0.10%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,7 +231,7 @@ Completed: 131 (0.10%) (Ranked 199)
 | 2023-08-07 | 134,099 | 130 |
 | 2023-08-08 | 134,169 | 131 |
 | 2023-08-09 | 134,223 | 131 |
-| 2023-08-10 | 134,224 | 131 |
+| 2023-08-10 | 134,229 | 131 |
 ## Awards
 Max (Great for Beginners): 4,692  (Ranked 71)  
 Sum: 27,072 (Ranked 46)  

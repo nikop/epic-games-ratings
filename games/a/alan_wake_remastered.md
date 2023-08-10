@@ -1,19 +1,19 @@
 # Alan Wake Remastered
 [Store](https://store.epicgames.com/en-US/p/alan-wake-remastered)  
 [View Rawdata](../../db/a/alan_wake_remastered.json)  
-Rating: 4.55 (Ranked 486)  
+Rating: 4.55 (Ranked 485)  
 Number of Ratings: 524  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 37.00% | ~22,427 |
-| Let There Be Light | 30.00% | ~18,184 |
-| Float Like a Butterfly | 29.00% | ~17,578 |
-| Nordic Walking | 23.00% | ~13,941 |
-| Bright Falls' Finest | 22.00% | ~13,335 |
+| Follow the Light | 37.00% | ~22,428 |
+| Let There Be Light | 30.00% | ~18,185 |
+| Float Like a Butterfly | 29.00% | ~17,579 |
+| Nordic Walking | 23.00% | ~13,942 |
+| Bright Falls' Finest | 22.00% | ~13,336 |
 | Under a Thin Layer of Skin | 20.00% | ~12,123 |
-| Park Ranger | 16.00% | ~9,698 |
-| Paging Mr. Wake | 16.00% | ~9,698 |
+| Park Ranger | 16.00% | ~9,699 |
+| Paging Mr. Wake | 16.00% | ~9,699 |
 | Back! Back, I Say! | 15.00% | ~9,092 |
 | Finders Keepers | 15.00% | ~9,092 |
 | Sound and Fury | 14.00% | ~8,486 |
@@ -21,17 +21,17 @@ Number of Ratings: 524  (23.09.2022)
 | Wheels Within Wheels | 13.00% | ~7,880 |
 | They're Heeeeeere! | 13.00% | ~7,880 |
 | Missed by a Mile | 13.00% | ~7,880 |
+| Heavy Metal | 12.00% | ~7,274 |
 | Iron Horse | 12.00% | ~7,274 |
 | The Six-Gun Scribe | 12.00% | ~7,274 |
 | Collateral Carnage | 12.00% | ~7,274 |
 | Come One, Come All | 12.00% | ~7,274 |
-| Heavy Metal | 11.00% | ~6,668 |
 | Perchance to Dream | 11.00% | ~6,668 |
 | It's Not Just a Typewriter Brand | 11.00% | ~6,668 |
 | Thunder and Lightning | 11.00% | ~6,668 |
-| Gatekeeper | 10.00% | ~6,061 |
-| Two For the Price of One | 10.00% | ~6,061 |
-| Energized! | 10.00% | ~6,061 |
+| Gatekeeper | 10.00% | ~6,062 |
+| Two For the Price of One | 10.00% | ~6,062 |
+| Energized! | 10.00% | ~6,062 |
 | The Lady of the Light | 9.00% | ~5,455 |
 | What Light Through Yonder Window | 8.00% | ~4,849 |
 | Right of Way | 8.00% | ~4,849 |
@@ -47,8 +47,8 @@ Number of Ratings: 524  (23.09.2022)
 | If It Flies, It Burns | 4.00% | ~2,425 |
 | KBF-FM | 4.00% | ~2,425 |
 | Carny | 3.00% | ~1,818 |
-| Kill Your Darlings | 3.00% | ~722 |
-| Heartbreaker | 3.00% | ~722 |
+| Kill Your Darlings | 3.00% | ~723 |
+| Heartbreaker | 3.00% | ~723 |
 | Medical Opinions | 2.00% | ~1,212 |
 | Taken Season | 2.00% | ~1,212 |
 | An Idyllic Small Town | 2.00% | ~1,212 |
@@ -56,7 +56,7 @@ Number of Ratings: 524  (23.09.2022)
 | Couch Potato | 1.00% | ~606 |
 | Go Gentle Into That Good Light | 1.00% | ~241 |
 | Words Will Never Harm You | 0.70% | ~169 |
-| Cardboard Companions | 0.60% | ~144 |
+| Cardboard Companions | 0.60% | ~145 |
 | Fast and Furious | 0.50% | ~120 |
 | Run-On Sentence | 0.40% | ~96 |
 | License Revoked | 0.40% | ~96 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~61 |
 | No Punctuation | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,614 (Ranked 85)  
+Progressed: 60,616 (Ranked 85)  
 Completed: 64 (0.11%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,7 +186,7 @@ Completed: 64 (0.11%) (Ranked 195)
 | 2023-08-07 | 60,481 | 64 |
 | 2023-08-08 | 60,545 | 64 |
 | 2023-08-09 | 60,613 | 64 |
-| 2023-08-10 | 60,614 | 64 |
+| 2023-08-10 | 60,616 | 64 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

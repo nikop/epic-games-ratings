@@ -157,8 +157,8 @@ Completed: 35 (0.18%) (Ranked 181)
 | 2023-08-09 | 19,494 | 35 |
 ## Awards
 Max (Highly Recommended): 87  (Ranked 352)  
-Sum: 658 (Ranked 284)  
-Diff (max vs sum): 68  
+Sum: 658 (Ranked 285)  
+Diff (max vs sum): 67  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 87 |

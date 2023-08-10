@@ -54,11 +54,11 @@ Number of Ratings: 75  (23.09.2022)
 | Campaign: Man vs. Machine | 0.40% | ~21 |
 | A Happy Taskforce: Interior Designer | 0.40% | ~21 |
 | Rockstar | 0.40% | ~21 |
+| Champion | 0.30% | ~16 |
 | The Machinery: Goal Orientated | 0.30% | ~16 |
 | The Machinery: Energy Saver | 0.30% | ~16 |
 | Super Rich | 0.30% | ~16 |
 | Fully Packed | 0.30% | ~16 |
-| Champion | 0.20% | ~11 |
 | Trophy Hoarder | 0.20% | ~11 |
 | Level: Mayor Trouble | 0.20% | ~11 |
 | Happy Hour | 0.20% | ~11 |

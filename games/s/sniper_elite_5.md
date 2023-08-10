@@ -6,6 +6,7 @@ Rating: 4.43 (Ranked 657)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Liberté | 5.00% | ~172 |
+| Meeting Resistance | 5.00% | ~172 |
 | The Kraken Wakes | 5.00% | ~172 |
 | It's Starting to Crack | 5.00% | ~172 |
 | Change the Channel | 5.00% | ~172 |
@@ -13,7 +14,6 @@ Rating: 4.43 (Ranked 657)
 | Target America | 5.00% | ~172 |
 | The Kraken Sleeps | 5.00% | ~172 |
 | Climbing the Ladder | 4.00% | ~138 |
-| Meeting Resistance | 4.00% | ~138 |
 | Sharpshooter | 4.00% | ~138 |
 | Confirming Suspicions | 4.00% | ~138 |
 | Lord of War | 4.00% | ~138 |
@@ -22,6 +22,7 @@ Rating: 4.43 (Ranked 657)
 | No Stone Unturned | 3.00% | ~103 |
 | Organ Grinder | 3.00% | ~103 |
 | Gunslinger | 3.00% | ~103 |
+| Skirmisher | 3.00% | ~103 |
 | Der Geist | 3.00% | ~103 |
 | Snake in the Grass | 3.00% | ~103 |
 | Brains of the Operation | 3.00% | ~103 |
@@ -29,7 +30,6 @@ Rating: 4.43 (Ranked 657)
 | Enemy at the Gates | 2.00% | ~69 |
 | Fields of Glory | 2.00% | ~69 |
 | Just a Flesh Wound | 2.00% | ~69 |
-| Skirmisher | 2.00% | ~69 |
 | Set Europe Ablaze | 2.00% | ~69 |
 | Precision Is Key | 2.00% | ~69 |
 | My Little Friend | 2.00% | ~69 |
@@ -49,12 +49,12 @@ Rating: 4.43 (Ranked 657)
 | Burn after reading | 0.70% | ~24 |
 | Operation Foxley | 0.70% | ~24 |
 | Last Resort | 0.70% | ~24 |
+| Siegebreaker | 0.70% | ~24 |
+| Ghost of Falaise | 0.70% | ~24 |
 | From Paris with Love | 0.60% | ~21 |
 | Souvenir hunter | 0.60% | ~21 |
 | Eagle Eyed | 0.60% | ~21 |
 | Locomotion Commotion | 0.60% | ~21 |
-| Siegebreaker | 0.60% | ~20 |
-| Ghost of Falaise | 0.60% | ~20 |
 | Shoot for the Moon | 0.50% | ~17 |
 | Up close and personal | 0.40% | ~14 |
 | Can't Outrun A Bullet | 0.40% | ~14 |
