@@ -310,6 +310,7 @@
 | [Love Is All Around](../games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 42 | 1,000 |
 | [Luna's Fishing Garden](../games/l/luna's_fishing_garden.md) | 14 | 1,000 |
 | [Maid of Sker](../games/m/maid_of_sker.md) | 30 | 1,000 |
+| [Marble It Up! Ultra](../games/2/267b56359a8c45ee9154861187de210b.md) | 86 | 1,000 |
 | [Mask of the Rose](../games/c/cd4a7839ad21465cab08d6742093d2a0.md) | 17 | 1,000 |
 | [Mason: Building Bricks](../games/m/mason__building_bricks.md) | 5 | 1,000 |
 | [Match Village](../games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 24 | 1,000 |

@@ -49,7 +49,7 @@
 | 47 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.82% |
 | 48 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.76% |
 | 48 | [JARS](games/j/jars.md) | 4.76% |
-| 50 | [Bugsnax](games/b/bugsnax.md) | 4.71% |
+| 50 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
 | 51 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.69% |
 | 52 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.65% |
 | 53 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.55% |
@@ -389,6 +389,7 @@
 | 251 | [Lost Ruins](games/l/lost_ruins.md) | 0.00% |
 | 251 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.00% |
 | 251 | [Maid of Sker](games/m/maid_of_sker.md) | 0.00% |
+| 251 | [Marble It Up! Ultra](games/2/267b56359a8c45ee9154861187de210b.md) | 0.00% |
 | 251 | [Mask of the Rose](games/c/cd4a7839ad21465cab08d6742093d2a0.md) | 0.00% |
 | 251 | [Mega City Police](games/m/mega_city_police.md) | 0.00% |
 | 251 | [Metro Simulator 2](games/7/7ef79b257fe8475aa5c7a9d6c4d96f9b.md) | 0.00% |
