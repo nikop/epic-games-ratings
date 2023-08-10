@@ -534,4 +534,4 @@
 | 251 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 251 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 251 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,022 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,023 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
