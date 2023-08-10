@@ -14,7 +14,7 @@
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
 | 13 | [Island Cities](games/i/island_cities.md) | 18.12% |
 | 14 | [Afterglitch](games/a/afterglitch.md) | 16.67% |
-| 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 14.16% |
+| 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 15.04% |
 | 16 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 13.94% |
 | 17 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 12.50% |
 | 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.00% |
@@ -125,7 +125,7 @@
 | 123 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.73% |
 | 124 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.65% |
 | 124 | [Haven](games/h/haven.md) | 0.65% |
-| 124 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.65% |
+| 126 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.64% |
 | 127 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.63% |
 | 128 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
 | 129 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.60% |
@@ -538,4 +538,4 @@
 | 251 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 251 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 251 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,031 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,033 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
