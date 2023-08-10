@@ -13,8 +13,8 @@ Number of Ratings: 98  (23.09.2022)
 | Mosquito bite | 31.00% | ~398 |
 | Spice It Up | 28.00% | ~359 |
 | Agent 47 | 23.00% | ~295 |
+| You're Gonna Go Far, Kid | 23.00% | ~295 |
 | Bomberman | 23.00% | ~295 |
-| You're Gonna Go Far, Kid | 22.00% | ~282 |
 | Death to the Oppressor! | 16.00% | ~205 |
 | The Gang's All Here | 14.00% | ~180 |
 | One by One | 12.00% | ~154 |

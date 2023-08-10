@@ -161,12 +161,12 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-09 | 2,712 | 0 |
 ## Awards
 Max (Highly Recommended): 52  (Ranked 396)  
-Sum: 447 (Ranked 308)  
+Sum: 448 (Ranked 308)  
 Diff (max vs sum): 88  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 52 |
-| This game is Great for Quick Sessions | 44 |
+| This game is Great for Quick Sessions | 45 |
 | This game has Realistic Visuals | 44 |
 | This game has a Creative Community | 42 |
 | This game has Amazing Storytelling | 42 |
@@ -305,3 +305,4 @@ Diff (max vs sum): 88
 | 2023-08-03 | 4.67 | - | 51 | 444 |
 | 2023-08-06 | 4.67 | - | 51 | 446 |
 | 2023-08-07 | 4.68 | - | 52 | 447 |
+| 2023-08-10 | 4.68 | - | 52 | 448 |

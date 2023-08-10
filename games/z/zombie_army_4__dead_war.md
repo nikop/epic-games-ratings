@@ -6,45 +6,45 @@ Number of Ratings: 743  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shoot it, man! Shoot it in the head! | 69.00% | ~29,830 |
-| Say goodbye, creep! | 66.00% | ~28,533 |
-| Blood splattered | 65.00% | ~28,101 |
-| Choo choo! | 62.00% | ~26,804 |
-| Groovy | 61.00% | ~26,372 |
-| Cleanup on aisle 4! | 57.00% | ~24,642 |
-| Gold | 50.00% | ~21,616 |
-| The boat can leave now...tell the crew | 49.00% | ~21,184 |
-| Stand back boy! | 47.00% | ~20,319 |
-| Give me something to shoot! | 46.00% | ~19,887 |
-| Weird science | 44.00% | ~19,022 |
-| Chain reaction | 44.00% | ~19,022 |
-| What did you say, Blain? | 42.00% | ~18,157 |
-| Look mummy! A shark! | 41.00% | ~17,725 |
-| In the dark dark woods... | 39.00% | ~16,860 |
-| Come and get it! It's a running buffet! | 38.00% | ~16,428 |
-| Double tap | 37.00% | ~15,996 |
-| All of this has happened before… | 36.00% | ~15,564 |
-| Cranial blowout! | 36.00% | ~15,564 |
-| Zombie killin' machine | 36.00% | ~15,564 |
-| Every bullet counts | 36.00% | ~15,564 |
-| All roads lead to Rome | 34.00% | ~14,699 |
-| You've got red on you | 34.00% | ~14,699 |
-| You're all going to die down here | 32.00% | ~13,834 |
-| He did Nazi that coming | 31.00% | ~13,402 |
-| Kill of the week | 31.00% | ~13,402 |
+| Shoot it, man! Shoot it in the head! | 69.00% | ~29,832 |
+| Say goodbye, creep! | 66.00% | ~28,535 |
+| Blood splattered | 65.00% | ~28,103 |
+| Choo choo! | 62.00% | ~26,806 |
+| Groovy | 61.00% | ~26,373 |
+| Cleanup on aisle 4! | 57.00% | ~24,644 |
+| Gold | 50.00% | ~21,618 |
+| The boat can leave now...tell the crew | 49.00% | ~21,185 |
+| Stand back boy! | 47.00% | ~20,320 |
+| Give me something to shoot! | 46.00% | ~19,888 |
+| Weird science | 44.00% | ~19,023 |
+| Chain reaction | 44.00% | ~19,023 |
+| What did you say, Blain? | 42.00% | ~18,159 |
+| Look mummy! A shark! | 41.00% | ~17,726 |
+| In the dark dark woods... | 39.00% | ~16,862 |
+| Come and get it! It's a running buffet! | 38.00% | ~16,429 |
+| Double tap | 37.00% | ~15,997 |
+| All of this has happened before… | 36.00% | ~15,565 |
+| Cranial blowout! | 36.00% | ~15,565 |
+| Zombie killin' machine | 36.00% | ~15,565 |
+| Every bullet counts | 36.00% | ~15,565 |
+| All roads lead to Rome | 34.00% | ~14,700 |
+| You've got red on you | 34.00% | ~14,700 |
+| You're all going to die down here | 32.00% | ~13,835 |
+| He did Nazi that coming | 31.00% | ~13,403 |
+| Kill of the week | 31.00% | ~13,403 |
 | I never liked them anyway | 30.00% | ~12,970 |
-| Is it over? | 28.00% | ~12,105 |
+| Is it over? | 28.00% | ~12,106 |
 | Got your back | 27.00% | ~11,673 |
 | Gore soaked | 24.00% | ~10,376 |
-| Shock therapy | 23.00% | ~9,943 |
-| Leave the limbs you've lost | 23.00% | ~9,943 |
+| Shock therapy | 23.00% | ~9,944 |
+| Leave the limbs you've lost | 23.00% | ~9,944 |
 | Everyone's a mad scientist, life is the lab | 18.00% | ~7,782 |
 | Take them down screaming | 18.00% | ~7,782 |
-| Bad Blood | 17.00% | ~7,349 |
-| Weapons expert | 17.00% | ~7,349 |
+| Bad Blood | 17.00% | ~7,350 |
+| Weapons expert | 17.00% | ~7,350 |
 | The bigger they are... | 15.00% | ~6,485 |
-| I'm going deeper underground | 14.00% | ~6,052 |
-| Well equipped | 13.00% | ~5,620 |
+| I'm going deeper underground | 14.00% | ~6,053 |
+| Well equipped | 13.00% | ~5,621 |
 | Into the deep | 12.00% | ~5,188 |
 | Damnedbusters | 9.00% | ~3,891 |
 | I can do anything I want. I got guns | 8.00% | ~3,459 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~432 |
 | None more hard | 0.50% | ~216 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,232 (Ranked 91)  
+Progressed: 43,235 (Ranked 91)  
 Completed: 25 (0.06%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,7 +185,7 @@ Completed: 25 (0.06%) (Ranked 210)
 | 2023-08-07 | 43,223 | 25 |
 | 2023-08-08 | 43,226 | 25 |
 | 2023-08-09 | 43,228 | 25 |
-| 2023-08-10 | 43,232 | 25 |
+| 2023-08-10 | 43,235 | 25 |
 ## Awards
 Max (Great Boss Battles): 811  (Ranked 153)  
 Sum: 2,464 (Ranked 174)  

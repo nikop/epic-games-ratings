@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 95,
-  "Ranking_EOS_NewPlayers": 254,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-11-15T00:00:00+00:00",
     "PcReleaseDate": "2022-11-15T00:00:00+00:00",
@@ -84,9 +84,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1615,
+  "EOS_Progressed": 1617,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.61,
   "EosHistory": [
@@ -484,6 +484,11 @@
       "Time": "2023-08-08T21:05:18.6410898+00:00",
       "NumProgressed": 1615,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-08-10T16:06:59.0493311+00:00",
+      "NumProgressed": 1617,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 11,
@@ -495,7 +500,7 @@
       "Name": "Blues Jam.",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "SomervilleFamilyFirst",
@@ -503,7 +508,7 @@
       "Name": "Family First.",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "SomervilleFraternizingWithEnemy",
@@ -535,7 +540,7 @@
       "Name": "Resignation Reprise.",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "SomervilleStuckOnTheJohn",
@@ -543,7 +548,7 @@
       "Name": "\u201COccupied!\u201C",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "SomervilleUnderstanding",
@@ -551,7 +556,7 @@
       "Name": "Understanding.",
       "Percentage": 3,
       "XP": 200,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "SomervilleWarOfTheWorlds",
@@ -582,7 +587,7 @@
     {
       "ID": "3mk3nll",
       "IsBase": true,
-      "Progressed": 1615,
+      "Progressed": 1617,
       "Completed": 26
     }
   ],
@@ -590,8 +595,8 @@
   "FirstSeenRating": "2022-11-25T17:58:18.0029626+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:11.8533708+00:00",
   "LastChanged": "2023-03-31T05:58:16.104552+00:00",
-  "LastChanged_Achievements": "2023-08-10T15:06:11.570394+00:00",
+  "LastChanged_Achievements": "2023-08-10T16:06:59.0493302+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:36.4579184+00:00",
-  "LastUpdate_Ratings": "2023-08-10T14:59:08.7018446+00:00",
-  "LastUpdate_Achievements": "2023-08-10T15:06:11.5704067+00:00"
+  "LastUpdate_Ratings": "2023-08-10T15:59:39.1455649+00:00",
+  "LastUpdate_Achievements": "2023-08-10T16:06:59.049344+00:00"
 }

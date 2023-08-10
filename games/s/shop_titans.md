@@ -37,6 +37,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Arcane Industries | 0.30% | ~403 |
 | On the Path to Greatness | 0.20% | ~269 |
 | A Notch Above the Rest | 0.20% | ~269 |
+| Cream of the Crop | 0.20% | ~269 |
 | Above the Norm | 0.20% | ~269 |
 | Tax not Included | 0.20% | ~269 |
 | The King's Caprice | 0.20% | ~269 |
@@ -67,13 +68,13 @@ Number of Ratings: 12,664  (23.09.2022)
 | Laden with Loot | 0.20% | ~269 |
 | Natural 20 | 0.20% | ~269 |
 | Seasoned Journeyman | 0.20% | ~269 |
+| Attrition Mission | 0.20% | ~269 |
 | Black Friday Special | 0.20% | ~269 |
 | King's Shadow | 0.20% | ~269 |
 | Magical Harmony | 0.20% | ~269 |
 | Special Ingredient | 0.20% | ~269 |
 | Exotic Commodities | 0.20% | ~269 |
 | Complete Monopoly | 0.20% | ~269 |
-| Cream of the Crop | 0.10% | ~134 |
 | Top of the World | 0.10% | ~134 |
 | Proud Paladin | 0.10% | ~134 |
 | Constellated | 0.10% | ~134 |
@@ -106,7 +107,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | The Greatest Grind | 0.10% | ~134 |
 | All or Nothing! | 0.10% | ~134 |
 | Scourge of the Seas | 0.10% | ~134 |
-| Attrition Mission | 0.10% | ~134 |
 | Eternal Crusade | 0.10% | ~134 |
 | To Hell and Back | 0.10% | ~134 |
 | Glittering Collection | 0.10% | ~134 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Economy of Scarce | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,257 (Ranked 65)  
+Progressed: 134,263 (Ranked 65)  
 Completed: 131 (0.10%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,7 +231,7 @@ Completed: 131 (0.10%) (Ranked 199)
 | 2023-08-07 | 134,099 | 130 |
 | 2023-08-08 | 134,169 | 131 |
 | 2023-08-09 | 134,223 | 131 |
-| 2023-08-10 | 134,257 | 131 |
+| 2023-08-10 | 134,263 | 131 |
 ## Awards
 Max (Great for Beginners): 4,694  (Ranked 71)  
 Sum: 27,074 (Ranked 46)  

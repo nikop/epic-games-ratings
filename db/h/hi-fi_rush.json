@@ -114,7 +114,7 @@
   "Tags": [],
   "EOS_Progressed": 3827,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -5839,9 +5839,9 @@
       "ID": "Ach027",
       "SetID": "12n4k20",
       "Name": "Z-shielding\u0027s got nothing on us!",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 191
     },
     {
       "ID": "Ach028",
@@ -5959,9 +5959,9 @@
       "ID": "Ach042",
       "SetID": "12n4k20",
       "Name": "I look cool. But I can look COOLER.",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 191
     },
     {
       "ID": "Ach043",
@@ -6007,9 +6007,9 @@
       "ID": "Ach048",
       "SetID": "12n4k20",
       "Name": "Alright, that felt AWESOME!",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 191
+      "UsersEstimate": 230
     },
     {
       "ID": "Ach049",
@@ -6214,8 +6214,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-08-10T15:05:29.8836175+00:00",
+  "LastChanged_Achievements": "2023-08-10T16:06:10.1377425+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:24.9640697+00:00",
-  "LastUpdate_Ratings": "2023-08-10T14:59:53.791094+00:00",
-  "LastUpdate_Achievements": "2023-08-10T15:05:29.8838226+00:00"
+  "LastUpdate_Ratings": "2023-08-10T16:00:36.9129119+00:00",
+  "LastUpdate_Achievements": "2023-08-10T16:06:10.1379346+00:00"
 }

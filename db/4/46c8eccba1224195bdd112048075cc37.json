@@ -2,9 +2,9 @@
   "ID": "46c8eccba1224195bdd112048075cc37",
   "Name": "One More Dungeon 2",
   "ProductSlug": "one-more-dungeon-2-532228",
-  "Ranking_EOS_Progress": 305,
-  "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_Progress": 304,
+  "Ranking_EOS_Completed": 123,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-06-09T14:30:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 136,
+  "EOS_Progressed": 137,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.74,
+  "EOS_Completed_Percentage": 0.73,
   "EosHistory": [
     {
       "Time": "2023-06-10T02:13:27.744268+00:00",
@@ -631,6 +631,11 @@
       "Time": "2023-08-09T06:05:21.1619533+00:00",
       "NumProgressed": 136,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-10T16:07:18.8469875+00:00",
+      "NumProgressed": 137,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 20,
@@ -656,7 +661,7 @@
       "ID": "ChangeClass",
       "SetID": "7g1kpc8",
       "Name": "Metamorphosis",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 20,
       "UsersEstimate": 73
     },
@@ -696,7 +701,7 @@
       "ID": "FirstBlood",
       "SetID": "7g1kpc8",
       "Name": "First Blood",
-      "Percentage": 92,
+      "Percentage": 91,
       "XP": 10,
       "UsersEstimate": 125
     },
@@ -704,7 +709,7 @@
       "ID": "FirstBoss",
       "SetID": "7g1kpc8",
       "Name": "Scull",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 30,
       "UsersEstimate": 58
     },
@@ -712,9 +717,9 @@
       "ID": "FirstStep",
       "SetID": "7g1kpc8",
       "Name": "Start of the Path",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 101
+      "UsersEstimate": 100
     },
     {
       "ID": "FourthBoss",
@@ -730,7 +735,7 @@
       "Name": "Royal Beetle",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "KingBoss",
@@ -754,7 +759,7 @@
       "Name": "Monster Slayer",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "Persistence",
@@ -770,7 +775,7 @@
       "Name": "Detective",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "SecondBoss",
@@ -801,14 +806,14 @@
     {
       "ID": "7g1kpc8",
       "IsBase": true,
-      "Progressed": 136,
+      "Progressed": 137,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-08-10T15:06:28.3277381+00:00",
+  "LastChanged_Achievements": "2023-08-10T16:07:18.8469868+00:00",
   "LastUpdate_AppInfo": "2023-08-07T10:57:12.4995451+00:00",
-  "LastUpdate_Ratings": "2023-08-10T14:58:18.5140183+00:00",
-  "LastUpdate_Achievements": "2023-08-10T15:06:28.327756+00:00"
+  "LastUpdate_Ratings": "2023-08-10T15:58:34.969727+00:00",
+  "LastUpdate_Achievements": "2023-08-10T16:07:18.847008+00:00"
 }

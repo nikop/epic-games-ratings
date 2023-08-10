@@ -5,8 +5,8 @@ Rating: 4.71 (Ranked 185)
 Number of Ratings: 763  (23.09.2022)  
 ## Awards
 Max (Diverse Characters): 75  (Ranked 367)  
-Sum: 514 (Ranked 299)  
-Diff (max vs sum): 68  
+Sum: 514 (Ranked 300)  
+Diff (max vs sum): 67  
 | Award | Count |
 | ----- | ----- |
 | This game has Challenging Combat | 75 |

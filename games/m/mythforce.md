@@ -24,7 +24,7 @@ Number of Ratings: 285  (23.09.2022)
 | On this Episode! | 1.00% | ~7 |
 | Season Finale | 1.00% | ~7 |
 | Spending Spree | 1.00% | ~7 |
-| Everything Must Go! | 0.70% | ~5 |
+| Everything Must Go! | 0.90% | ~6 |
 | The Fourth Gate | 0.70% | ~5 |
 | We've Got a Kaiju on the Field | 0.10% | ~1 |
 | Deadalus and Loving It | 0.00% | ~0 |

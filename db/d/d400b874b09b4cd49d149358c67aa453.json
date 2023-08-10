@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-08-04T16:00:00+00:00",
     "PcReleaseDate": "2022-09-21T16:00:00+00:00",
@@ -552,9 +552,9 @@
       "ID": "ACH_CONNECT_EXTENSION_CORD_SELF",
       "SetID": "al4k4nh",
       "Name": "Electuum Mobile",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_END_ALL_MAIL_MISSIONS",
@@ -576,9 +576,9 @@
       "ID": "ACH_END_ALL_WORKBENCH_MISSIONS",
       "SetID": "al4k4nh",
       "Name": "Enough workbench",
-      "Percentage": 0.6,
+      "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_END_FIRST_MAIL_MISSION",
@@ -592,17 +592,17 @@
       "ID": "ACH_END_FIRST_TUTORIAL",
       "SetID": "al4k4nh",
       "Name": "Ready to go",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 152
+      "UsersEstimate": 154
     },
     {
       "ID": "ACH_END_FIRST_WORKBENCH_MISSION",
       "SetID": "al4k4nh",
       "Name": "I can fix that",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 129
     },
     {
       "ID": "ACH_END_MAIL_MISSION_FAST",
@@ -656,9 +656,9 @@
       "ID": "ACH_GET_POINTS_IN_ELETRIS",
       "SetID": "al4k4nh",
       "Name": "Retro feeling",
-      "Percentage": 0,
+      "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_GO_TO_MISSION_WITHOUT_NEEDED_ITEMS",
@@ -728,9 +728,9 @@
       "ID": "ACH_UNSCREW",
       "SetID": "al4k4nh",
       "Name": "Unscrew you",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 100,
-      "UsersEstimate": 64
+      "UsersEstimate": 66
     },
     {
       "ID": "ACH_WATCH_ALL_TV_CHANNELS",
@@ -751,8 +751,8 @@
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2023-08-10T15:06:36.8851573+00:00",
+  "LastChanged_Achievements": "2023-08-10T16:07:29.3855962+00:00",
   "LastUpdate_AppInfo": "2023-08-09T17:56:58.4992812+00:00",
-  "LastUpdate_Ratings": "2023-08-10T14:58:23.5918627+00:00",
-  "LastUpdate_Achievements": "2023-08-10T15:06:36.8851801+00:00"
+  "LastUpdate_Ratings": "2023-08-10T15:58:39.9401898+00:00",
+  "LastUpdate_Achievements": "2023-08-10T16:07:29.3856216+00:00"
 }

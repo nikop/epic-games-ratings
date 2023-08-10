@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Small town | 65.00% | ~200 |
-| I like parks | 54.00% | ~166 |
+| Small town | 65.00% | ~201 |
+| I like parks | 53.00% | ~164 |
 | It is nice to share with friends in the city | 27.00% | ~83 |
 | Sport is good for you | 26.00% | ~80 |
 | The spiritual world... | 24.00% | ~74 |
 | The woodcutter | 23.00% | ~71 |
 | I like books | 20.00% | ~62 |
 | I like my life | 20.00% | ~62 |
-| Soviet town | 19.00% | ~59 |
-| Clean energy | 17.00% | ~52 |
+| Soviet town | 18.00% | ~56 |
+| Clean energy | 17.00% | ~53 |
 | Bucolic city | 14.00% | ~43 |
 | King of fish | 8.00% | ~25 |
 | I love parks | 8.00% | ~25 |
 | I love books! | 7.00% | ~22 |
-| What would we do if we can't go out with friends? | 6.00% | ~18 |
+| What would we do if we can't go out with friends? | 6.00% | ~19 |
 | Food producer | 5.00% | ~15 |
 | Metropolurbek | 5.00% | ~15 |
 | I am very happy! | 3.00% | ~9 |
@@ -84,7 +84,7 @@
 | Full rainforest | 0.00% | ~0 |
 | Rainforest master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 308 (Ranked 257)  
+Progressed: 309 (Ranked 257)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-06 | 303 | 0 |
 | 2023-08-07 | 305 | 0 |
 | 2023-08-09 | 306 | 0 |
-| 2023-08-10 | 308 | 0 |
+| 2023-08-10 | 309 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

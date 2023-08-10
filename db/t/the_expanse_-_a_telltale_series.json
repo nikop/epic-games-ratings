@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 34,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6190,
+  "EOS_Progressed": 6217,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2378,
+  "EOS_NewPlayers": 2395,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1452,6 +1452,11 @@
       "Time": "2023-08-10T15:06:31.2076735+00:00",
       "NumProgressed": 6190,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-10T16:07:22.1889552+00:00",
+      "NumProgressed": 6217,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -1504,7 +1509,7 @@
       "Name": "Doctor Approved",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 1052
+      "UsersEstimate": 1057
     },
     {
       "ID": "15",
@@ -1512,7 +1517,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "16",
@@ -1552,7 +1557,7 @@
       "Name": "Data Logger",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "20",
@@ -1640,7 +1645,7 @@
       "Name": "Captain Drummer",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 928
+      "UsersEstimate": 933
     },
     {
       "ID": "30",
@@ -1703,14 +1708,14 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 6190,
+      "Progressed": 6217,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged_Achievements": "2023-08-10T15:06:31.2076729+00:00",
+  "LastChanged_Achievements": "2023-08-10T16:07:22.1889545+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:06.3145817+00:00",
-  "LastUpdate_Ratings": "2023-08-10T15:00:38.873208+00:00",
-  "LastUpdate_Achievements": "2023-08-10T15:06:31.2077023+00:00"
+  "LastUpdate_Ratings": "2023-08-10T16:01:31.065758+00:00",
+  "LastUpdate_Achievements": "2023-08-10T16:07:22.1890035+00:00"
 }

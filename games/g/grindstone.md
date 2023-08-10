@@ -6,25 +6,25 @@ Number of Ratings: 63  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Quinceañera Time | 98.00% | ~5,045 |
-| The Journey Begins | 98.00% | ~5,045 |
-| Slaughterhouse 5 (200 times) | 78.00% | ~4,015 |
-| There is No Escape | 71.00% | ~3,655 |
+| Quinceañera Time | 98.00% | ~5,046 |
+| The Journey Begins | 98.00% | ~5,046 |
+| Slaughterhouse 5 (200 times) | 78.00% | ~4,016 |
+| There is No Escape | 71.00% | ~3,656 |
 | Fun, Flirty, and Thirty | 62.00% | ~3,192 |
 | Royal Flush | 62.00% | ~3,192 |
 | Timber! | 60.00% | ~3,089 |
-| Survive the Bombsequences | 59.00% | ~3,037 |
+| Survive the Bombsequences | 59.00% | ~3,038 |
 | Killed 20 Jerks | 54.00% | ~2,780 |
-| Death Defied | 53.00% | ~2,728 |
+| Death Defied | 53.00% | ~2,729 |
 | Fortunate Soul | 49.00% | ~2,523 |
 | Jerk-Slayer | 43.00% | ~2,214 |
 | Employee of the Month | 37.00% | ~1,905 |
 | I Believe I Can Fly | 37.00% | ~1,905 |
 | Bone Collector | 35.00% | ~1,802 |
 | Fe-Festival | 35.00% | ~1,802 |
-| Top of the Food Chain | 32.00% | ~1,647 |
-| Humerus Achievement | 32.00% | ~1,647 |
-| Pardon my Slob | 32.00% | ~1,647 |
+| Top of the Food Chain | 32.00% | ~1,648 |
+| Humerus Achievement | 32.00% | ~1,648 |
+| Pardon my Slob | 32.00% | ~1,648 |
 | Ghost Facers! | 27.00% | ~1,390 |
 | If It Bleeds, You Can Kill It | 21.00% | ~1,081 |
 | Royal Flush, Again | 19.00% | ~978 |
@@ -56,7 +56,7 @@ Number of Ratings: 63  (23.09.2022)
 | Backdraft | 0.60% | ~31 |
 | Completionist | 0.60% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,148 (Ranked 140)  
+Progressed: 5,149 (Ranked 140)  
 Completed: 29 (0.56%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,6 +115,7 @@ Completed: 29 (0.56%) (Ranked 133)
 | 2023-08-01 | 5,145 | 29 |
 | 2023-08-06 | 5,147 | 29 |
 | 2023-08-07 | 5,148 | 29 |
+| 2023-08-10 | 5,149 | 29 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

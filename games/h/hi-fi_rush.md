@@ -14,19 +14,19 @@ Rating: 4.87 (Ranked 24)
 | I play my own way! | 6.00% | ~230 |
 | You got this, Peppermint? | 6.00% | ~230 |
 | Perfect Parry | 6.00% | ~230 |
+| Alright, that felt AWESOME! | 6.00% | ~230 |
 | This will cost you big time | 5.00% | ~191 |
+| Z-shielding's got nothing on us! | 5.00% | ~191 |
 | Uh, they were broken when I got here | 5.00% | ~191 |
 | Kissing the sky! | 5.00% | ~191 |
-| Alright, that felt AWESOME! | 5.00% | ~191 |
+| I look cool. But I can look COOLER. | 5.00% | ~191 |
 | The Negotiator | 4.00% | ~153 |
 | Headliner | 4.00% | ~153 |
 | Time to pay up! | 4.00% | ~153 |
 | Who's the boss now? | 4.00% | ~153 |
 | Whoa! There's ANOTHER health bar!? | 4.00% | ~153 |
 | You must like calling me in, Chai | 4.00% | ~153 |
-| Z-shielding's got nothing on us! | 4.00% | ~153 |
 | Out in a puff of smoke | 4.00% | ~153 |
-| I look cool. But I can look COOLER. | 4.00% | ~153 |
 | Does that say weakpoint? | 4.00% | ~153 |
 | NOW we got a kickass hideout! | 4.00% | ~94 |
 | I have to read these things? | 3.00% | ~115 |
