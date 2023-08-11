@@ -60,13 +60,13 @@ Rating: 4.44 (Ranked 643)
 | Fight Another Day | 0.50% | ~17 |
 | Up close and personal | 0.40% | ~14 |
 | Can't Outrun A Bullet | 0.40% | ~14 |
+| Master of Secondaries | 0.30% | ~10 |
 | Out of Scope | 0.30% | ~10 |
 | Sight Beyond Sights | 0.30% | ~10 |
 | Führerious Repetition | 0.30% | ~10 |
 | Covert Elimination | 0.30% | ~10 |
 | Best of the Best | 0.20% | ~7 |
 | Master of Pistols | 0.20% | ~7 |
-| Master of Secondaries | 0.20% | ~7 |
 | Master of Rifles | 0.20% | ~7 |
 | Master-at-arms | 0.20% | ~7 |
 | Reich To The Point | 0.20% | ~7 |
@@ -77,7 +77,7 @@ Rating: 4.44 (Ranked 643)
 | Das Familienjuwel | 0.10% | ~3 |
 | Operation Overlord | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,453 (Ranked 150)  
+Progressed: 3,454 (Ranked 150)  
 Completed: 9 (0.26%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 9 (0.26%) (Ranked 168)
 | 2023-08-08 | 3,435 | 9 |
 | 2023-08-09 | 3,441 | 9 |
 | 2023-08-10 | 3,450 | 9 |
-| 2023-08-11 | 3,453 | 9 |
+| 2023-08-11 | 3,454 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

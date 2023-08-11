@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 77,
+  "Ranking_EOS_NewPlayers": 78,
   "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -6058,10 +6058,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 40794,
       "NumberOfAwardsMax": 21664
+    },
+    {
+      "Time": "2023-08-11T18:58:45.6817034+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 40804,
+      "NumberOfAwardsMax": 21664
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 40794,
+  "NumberOfAwards": 40804,
   "NumberOfAwardsMax": 21664,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6099,7 +6105,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 941
+      "Count": 945
     },
     {
       "Text": "This game has Diverse Characters",
@@ -6129,18 +6135,18 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 832
+      "Count": 836
     },
     {
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 580
+      "Count": 582
     }
   ],
-  "EOS_Progressed": 289842,
+  "EOS_Progressed": 289845,
   "EOS_Completed": 448,
-  "EOS_NewPlayers": 506,
+  "EOS_NewPlayers": 500,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -18328,6 +18334,11 @@
       "Time": "2023-08-11T18:06:39.619667+00:00",
       "NumProgressed": 289842,
       "NumCompleted": 448
+    },
+    {
+      "Time": "2023-08-11T19:06:16.4921371+00:00",
+      "NumProgressed": 289845,
+      "NumCompleted": 448
     }
   ],
   "TotalAchievements": 45,
@@ -18563,7 +18574,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 23187
+      "UsersEstimate": 23188
     },
     {
       "ID": "PFA_36",
@@ -18577,9 +18588,9 @@
       "ID": "PFA_37",
       "SetID": "1hf4dep",
       "Name": "Merlin\u0027s Beard!",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 2319
+      "UsersEstimate": 2609
     },
     {
       "ID": "PFA_38",
@@ -18691,23 +18702,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23187
+      "UsersEstimate": 23188
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 289842,
+      "Progressed": 289845,
       "Completed": 448
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-08-11T11:58:40.3320339+00:00",
-  "LastChanged_Achievements": "2023-08-11T18:06:39.6196664+00:00",
+  "LastChanged": "2023-08-11T18:58:45.6817032+00:00",
+  "LastChanged_Achievements": "2023-08-11T19:06:16.4921364+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:46.8672159+00:00",
-  "LastUpdate_Ratings": "2023-08-11T17:58:57.7646698+00:00",
-  "LastUpdate_Achievements": "2023-08-11T18:06:39.6197954+00:00"
+  "LastUpdate_Ratings": "2023-08-11T18:58:45.6817039+00:00",
+  "LastUpdate_Achievements": "2023-08-11T19:06:16.4922329+00:00"
 }

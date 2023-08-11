@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| What's going on here? | 86.00% | ~127 |
-| Brute force | 82.00% | ~121 |
-| Nimble fingers | 78.00% | ~115 |
-| Room 104 | 78.00% | ~115 |
+| What's going on here? | 87.00% | ~129 |
+| Brute force | 83.00% | ~123 |
+| Nimble fingers | 79.00% | ~117 |
+| Room 104 | 79.00% | ~117 |
 | Face to face | 78.00% | ~115 |
 | Now or never | 74.00% | ~110 |
-| Let's play a game… | 72.00% | ~107 |
+| Let's play a game… | 73.00% | ~108 |
 | First aid | 61.00% | ~90 |
-| Soundtrack | 58.00% | ~86 |
+| Soundtrack | 59.00% | ~87 |
 | Antidote | 52.00% | ~77 |
 | Pick the right door | 24.00% | ~36 |
 | The third floor | 16.00% | ~24 |
@@ -24,8 +24,8 @@
 | The real escape | 11.00% | ~16 |
 | Good choice | 11.00% | ~16 |
 | Take the long way round | 11.00% | ~16 |
+| He who seeks, finds! | 11.00% | ~16 |
 | Nightmare in the kitchen | 10.00% | ~15 |
-| He who seeks, finds! | 10.00% | ~15 |
 | Born again | 7.00% | ~10 |
 | 373 | 6.00% | ~9 |
 | The experiment | 5.00% | ~7 |

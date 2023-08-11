@@ -19,8 +19,8 @@ Rating: 4.77 (Ranked 108)
 | Loom for Improvement | 9.00% | ~26,086 |
 | A Talent for Spending | 9.00% | ~26,086 |
 | Coasting Along | 9.00% | ~26,086 |
-| Followed the Butterflies | 8.00% | ~23,187 |
-| Rising From the Ashes | 8.00% | ~23,187 |
+| Followed the Butterflies | 8.00% | ~23,188 |
+| Rising From the Ashes | 8.00% | ~23,188 |
 | The Avenging Gazelle | 7.00% | ~20,289 |
 | Beast Friends | 7.00% | ~20,289 |
 | A Sallow Grave | 7.00% | ~20,289 |
@@ -46,12 +46,12 @@ Rating: 4.77 (Ranked 108)
 | Demiguise Dread | 1.00% | ~2,898 |
 | Finishing Touches | 1.00% | ~2,898 |
 | A Forte for Achievement | 1.00% | ~2,898 |
+| Merlin's Beard! | 0.90% | ~2,609 |
 | Spilled Milk | 0.80% | ~2,319 |
-| Merlin's Beard! | 0.80% | ~2,319 |
 | The Nature of the Beast | 0.60% | ~1,739 |
 | Collector's Edition | 0.30% | ~870 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 289,842 (Ranked 42)  
+Progressed: 289,845 (Ranked 42)  
 Completed: 448 (0.15%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,25 +164,25 @@ Completed: 448 (0.15%) (Ranked 190)
 | 2023-08-08 | 289,682 | 443 |
 | 2023-08-09 | 289,736 | 444 |
 | 2023-08-10 | 289,802 | 447 |
-| 2023-08-11 | 289,842 | 448 |
+| 2023-08-11 | 289,845 | 448 |
 ## Awards
 Max (Character Customization): 21,664  (Ranked 17)  
-Sum: 40,794 (Ranked 30)  
+Sum: 40,804 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 21,664 |
 | This game has Great Boss Battles | 10,470 |
 | This game is Great for Beginners | 965 |
-| This game is Extremely Fun | 941 |
+| This game is Extremely Fun | 945 |
 | This game is Relaxing | 938 |
 | This game has Amazing Storytelling | 925 |
 | This game has Diverse Characters | 920 |
 | This game has Amazing Characters | 905 |
 | This game is Highly Recommended | 878 |
-| This game has Quickly Understood Controls | 832 |
+| This game has Quickly Understood Controls | 836 |
 | This game has Beautiful Visuals | 776 |
-| This game has a Creative Community | 580 |
+| This game has a Creative Community | 582 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -326,4 +326,4 @@ Diff (max vs sum): -13
 | 2023-08-08 | 4.77 | 21,619 | 40,677 |
 | 2023-08-09 | 4.77 | 21,636 | 40,721 |
 | 2023-08-10 | 4.77 | 21,664 | 40,779 |
-| 2023-08-11 | 4.77 | 21,664 | 40,794 |
+| 2023-08-11 | 4.77 | 21,664 | 40,804 |

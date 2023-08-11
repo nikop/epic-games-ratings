@@ -278,9 +278,9 @@
       "ID": "SteamAchievment_CompleteQuest08",
       "SetID": "b8gj0ip",
       "Name": "Savior of the Fortress",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SteamAchievment_CompleteQuest09",
@@ -389,8 +389,8 @@
   ],
   "FirstSeen": "2023-08-10T10:57:59.2838137+00:00",
   "FirstSeenAchievements": "2023-05-30T14:00:09.5243374+00:00",
-  "LastChanged_Achievements": "2023-08-11T18:04:27.8754537+00:00",
+  "LastChanged_Achievements": "2023-08-11T19:04:12.6293369+00:00",
   "LastUpdate_AppInfo": "2023-08-08T17:57:16.1112492+00:00",
-  "LastUpdate_Ratings": "2023-08-11T17:58:18.6750576+00:00",
-  "LastUpdate_Achievements": "2023-08-11T18:04:27.8754767+00:00"
+  "LastUpdate_Ratings": "2023-08-11T18:58:10.6213068+00:00",
+  "LastUpdate_Achievements": "2023-08-11T19:04:12.6293632+00:00"
 }

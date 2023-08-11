@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 251,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -962,9 +962,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 8107,
+  "EOS_Progressed": 8108,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -4282,6 +4282,11 @@
       "Time": "2023-08-11T17:06:00.1364569+00:00",
       "NumProgressed": 8107,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-08-11T19:06:29.2314577+00:00",
+      "NumProgressed": 8108,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 24,
@@ -4317,7 +4322,7 @@
       "Name": "Focus!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5107
+      "UsersEstimate": 5108
     },
     {
       "ID": "DemonCastleRestoration",
@@ -4397,7 +4402,7 @@
       "Name": "The Levitator",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "Manners",
@@ -4413,7 +4418,7 @@
       "Name": "Rookies Welcome",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1621
+      "UsersEstimate": 1622
     },
     {
       "ID": "SavedElderEnt",
@@ -4421,7 +4426,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5107
+      "UsersEstimate": 5108
     },
     {
       "ID": "SavedElderEnt_2",
@@ -4429,7 +4434,7 @@
       "Name": "Quick Movements",
       "Percentage": 34,
       "XP": 90,
-      "UsersEstimate": 2756
+      "UsersEstimate": 2757
     },
     {
       "ID": "SkeletonKing",
@@ -4445,7 +4450,7 @@
       "Name": "Inventory Management",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2756
+      "UsersEstimate": 2757
     },
     {
       "ID": "TheLegendBegins",
@@ -4461,7 +4466,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 3891
+      "UsersEstimate": 3892
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -4477,22 +4482,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 6810
+      "UsersEstimate": 6811
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8107,
+      "Progressed": 8108,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-08-11T14:01:50.5837413+00:00",
-  "LastChanged_Achievements": "2023-08-11T18:06:52.5682335+00:00",
+  "LastChanged_Achievements": "2023-08-11T19:06:29.2314571+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:04.153056+00:00",
-  "LastUpdate_Ratings": "2023-08-11T18:01:10.7033219+00:00",
-  "LastUpdate_Achievements": "2023-08-11T18:06:52.5682919+00:00"
+  "LastUpdate_Ratings": "2023-08-11T19:00:56.1063639+00:00",
+  "LastUpdate_Achievements": "2023-08-11T19:06:29.231505+00:00"
 }

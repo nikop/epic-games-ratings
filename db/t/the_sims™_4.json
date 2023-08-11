@@ -4,10 +4,10 @@
   "ProductSlug": "the-sims-4",
   "Ranking_Rating": 348,
   "Ranking_Popularity": 166,
-  "Ranking_PopularitySum": 137,
+  "Ranking_PopularitySum": 136,
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 253,
-  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewPlayers": 356,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-02-02T18:00:00+00:00",
@@ -5198,10 +5198,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 4319,
       "NumberOfAwardsMax": 704
+    },
+    {
+      "Time": "2023-08-11T18:58:59.6863483+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 4327,
+      "NumberOfAwardsMax": 704
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4319,
+  "NumberOfAwards": 4327,
   "NumberOfAwardsMax": 704,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5239,7 +5245,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 393
+      "Count": 396
     },
     {
       "Text": "This game is Extremely Fun",
@@ -5251,7 +5257,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 325
+      "Count": 330
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -5292,9 +5298,9 @@
   "FirstSeen": "2023-02-02T18:57:09.7775269+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
   "FirstSeenAchievements": "2023-07-31T02:02:04.5176736+00:00",
-  "LastChanged": "2023-08-11T11:58:52.9199785+00:00",
-  "LastChanged_Achievements": "2023-08-11T18:02:36.2080284+00:00",
+  "LastChanged": "2023-08-11T18:58:59.686348+00:00",
+  "LastChanged_Achievements": "2023-08-11T19:02:22.6568131+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:53.8755394+00:00",
-  "LastUpdate_Ratings": "2023-08-11T17:59:11.368069+00:00",
-  "LastUpdate_Achievements": "2023-08-11T18:02:36.2080355+00:00"
+  "LastUpdate_Ratings": "2023-08-11T18:58:59.6863495+00:00",
+  "LastUpdate_Achievements": "2023-08-11T19:02:22.6568188+00:00"
 }

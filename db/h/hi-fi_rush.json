@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 183,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -118,9 +118,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3849,
+  "EOS_Progressed": 3850,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -5708,6 +5708,11 @@
       "Time": "2023-08-11T15:05:34.3093367+00:00",
       "NumProgressed": 3849,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-08-11T19:05:36.7184271+00:00",
+      "NumProgressed": 3850,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 71,
@@ -5727,7 +5732,7 @@
       "Name": "Cream of the Crop",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "Ach003",
@@ -5831,7 +5836,7 @@
       "Name": "Thanks for the free chip, Peppermint!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "Ach016",
@@ -5879,7 +5884,7 @@
       "Name": "I have to read these things?",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "Ach022",
@@ -5967,7 +5972,7 @@
       "Name": "Perfecter Parry-er!",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "Ach033",
@@ -6005,9 +6010,9 @@
       "ID": "Ach037",
       "SetID": "12n4k20",
       "Name": "We\u0027re Jammin\u0027",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 31
     },
     {
       "ID": "Ach038",
@@ -6253,9 +6258,9 @@
       "ID": "Ach068",
       "SetID": "b7dbjo0",
       "Name": "New bad guys? No problem!",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "Ach069",
@@ -6286,13 +6291,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 3849,
+      "Progressed": 3850,
       "Completed": 7
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2370,
+      "Progressed": 2371,
       "Completed": 1928
     }
   ],
@@ -6300,8 +6305,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-08-10T23:00:09.4128826+00:00",
-  "LastChanged_Achievements": "2023-08-11T18:05:59.3786077+00:00",
+  "LastChanged_Achievements": "2023-08-11T19:05:36.7184265+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:24.9640697+00:00",
-  "LastUpdate_Ratings": "2023-08-11T18:00:25.5218228+00:00",
-  "LastUpdate_Achievements": "2023-08-11T18:05:59.3787471+00:00"
+  "LastUpdate_Ratings": "2023-08-11T19:00:12.7881487+00:00",
+  "LastUpdate_Achievements": "2023-08-11T19:05:36.7185587+00:00"
 }

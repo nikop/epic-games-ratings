@@ -220,9 +220,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17274,
+  "EOS_Progressed": 17276,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 379,
+  "EOS_NewPlayers": 377,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8020,6 +8020,11 @@
       "Time": "2023-08-11T18:05:23.226599+00:00",
       "NumProgressed": 17274,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-11T19:04:51.8351155+00:00",
+      "NumProgressed": 17276,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -8031,7 +8036,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5009
+      "UsersEstimate": 5010
     },
     {
       "ID": "0002",
@@ -8055,7 +8060,7 @@
       "Name": "Security Supervisor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1036
+      "UsersEstimate": 1037
     },
     {
       "ID": "0005",
@@ -8063,7 +8068,7 @@
       "Name": "Branch Manager",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "0006",
@@ -8087,7 +8092,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3109
+      "UsersEstimate": 3110
     },
     {
       "ID": "0009",
@@ -8167,7 +8172,7 @@
       "Name": "In It to Win It",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1727
+      "UsersEstimate": 1728
     },
     {
       "ID": "0019",
@@ -8191,7 +8196,7 @@
       "Name": "Call Me Maybe",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "0022",
@@ -8199,7 +8204,7 @@
       "Name": "PHD in VIP",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "0023",
@@ -8215,7 +8220,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 3800
+      "UsersEstimate": 3801
     },
     {
       "ID": "0025",
@@ -8223,7 +8228,7 @@
       "Name": "Tailor-Made",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3109
+      "UsersEstimate": 3110
     },
     {
       "ID": "0026",
@@ -8263,7 +8268,7 @@
       "Name": "For your Eyes only",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3109
+      "UsersEstimate": 3110
     },
     {
       "ID": "0031",
@@ -8318,7 +8323,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17274,
+      "Progressed": 17276,
       "Completed": 1
     }
   ],
@@ -8326,8 +8331,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-08T19:59:53.3803436+00:00",
-  "LastChanged_Achievements": "2023-08-11T18:05:23.2265984+00:00",
+  "LastChanged_Achievements": "2023-08-11T19:04:51.8351148+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:35.6736811+00:00",
-  "LastUpdate_Ratings": "2023-08-11T18:01:55.4778632+00:00",
-  "LastUpdate_Achievements": "2023-08-11T18:05:23.2266716+00:00"
+  "LastUpdate_Ratings": "2023-08-11T19:01:42.0317+00:00",
+  "LastUpdate_Achievements": "2023-08-11T19:04:51.8351898+00:00"
 }
