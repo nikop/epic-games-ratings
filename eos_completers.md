@@ -38,7 +38,7 @@
 | 36 | [Scorn](games/s/scorn.md) | 6.94% |
 | 37 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.87% |
 | 38 | [Time Loader](games/t/time_loader.md) | 6.84% |
-| 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.53% |
+| 39 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.51% |
 | 40 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 41 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 42 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.98% |
@@ -120,8 +120,8 @@
 | 118 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
 | 119 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.79% |
 | 120 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.76% |
-| 121 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.74% |
-| 121 | [Lemon Cake](games/l/lemon_cake.md) | 0.74% |
+| 121 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
+| 122 | [Lemon Cake](games/l/lemon_cake.md) | 0.74% |
 | 123 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.73% |
 | 124 | [Haven](games/h/haven.md) | 0.65% |
 | 125 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.64% |
