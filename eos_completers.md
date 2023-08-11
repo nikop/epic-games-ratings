@@ -2,20 +2,20 @@
 | - | ---- | --------- |
 | 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.69% |
 | 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.84% |
-| 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 38.46% |
+| 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 37.50% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
 | 5 | [Overloop](games/o/overloop.md) | 25.00% |
 | 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 7 | [Volley Pals](games/v/volley_pals.md) | 23.91% |
-| 8 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 21.49% |
-| 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 21.43% |
+| 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 21.43% |
+| 9 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 21.31% |
 | 10 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 10 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
 | 13 | [Island Cities](games/i/island_cities.md) | 18.12% |
 | 14 | [Anna's Quest](games/a/anna's_quest.md) | 17.86% |
 | 15 | [Afterglitch](games/a/afterglitch.md) | 16.67% |
-| 16 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 14.78% |
+| 16 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 14.66% |
 | 17 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 13.94% |
 | 18 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 12.50% |
 | 19 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.00% |
@@ -28,9 +28,9 @@
 | 26 | [Out of Bounds](games/o/out_of_bounds.md) | 10.34% |
 | 27 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 9.76% |
 | 28 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.70% |
-| 29 | [Sonic Origins](games/s/sonic_origins.md) | 9.69% |
+| 29 | [Sonic Origins](games/s/sonic_origins.md) | 9.66% |
 | 30 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.30% |
-| 31 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.96% |
+| 31 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.01% |
 | 32 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.49% |
 | 33 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.20% |
 | 34 | [Smelter](games/s/smelter.md) | 7.69% |
@@ -48,7 +48,7 @@
 | 46 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.26% |
 | 47 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 5.00% |
 | 48 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.81% |
-| 49 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.79% |
+| 49 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.78% |
 | 50 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
 | 51 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.69% |
 | 51 | [JARS](games/j/jars.md) | 4.69% |
@@ -86,7 +86,7 @@
 | 84 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.27% |
 | 85 | [Bloodshore](games/b/bloodshore.md) | 2.25% |
 | 86 | [FORECLOSED](games/f/foreclosed.md) | 2.17% |
-| 87 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.03% |
+| 87 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.04% |
 | 88 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.98% |
 | 89 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.92% |
 | 90 | [Night Book](games/n/night_book.md) | 1.90% |
@@ -100,7 +100,7 @@
 | 98 | [Five Dates](games/f/five_dates.md) | 1.59% |
 | 99 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.58% |
 | 100 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.50% |
-| 101 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.49% |
+| 101 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.48% |
 | 102 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.46% |
 | 102 | [Ten Dates](games/t/ten_dates.md) | 1.46% |
 | 104 | [Poosh XL](games/p/poosh_xl.md) | 1.44% |
