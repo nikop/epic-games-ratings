@@ -3,7 +3,7 @@
 | 1 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 0 | 511 |
 | 1 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.96 | 0 | 511 |
 | 3 | [Rain World](games/r/rain_world.md) | 4.95 | 0 | 511 |
-| 4 | [Celeste](games/c/celeste.md) | 4.92 | 1,549 | 119 |
+| 4 | [Celeste](games/c/celeste.md) | 4.92 | 1,551 | 119 |
 | 4 | [Hades](games/h/hades.md) | 4.92 | 3,207 | 91 |
 | 6 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.91 | 0 | 511 |
 | 7 | [Flatout 2](games/f/flatout_2.md) | 4.90 | 0 | 511 |
@@ -22,7 +22,7 @@
 | 18 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.88 | 0 | 511 |
 | 18 | [Ooblets](games/o/ooblets.md) | 4.88 | 1,019 | 141 |
 | 18 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 165,950 | 6 |
-| 18 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 10,997 | 35 |
+| 18 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 11,015 | 35 |
 | 18 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 494 |
 | 25 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 278 | 242 |
 | 25 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,423 | 124 |
@@ -150,7 +150,7 @@
 | 147 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 802 | 155 |
 | 147 | [Haven](games/h/haven.md) | 4.74 | 0 | 511 |
 | 147 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 6,714 | 50 |
-| 147 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 653 | 173 |
+| 147 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 655 | 172 |
 | 147 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,920 | 48 |
 | 147 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.74 | 0 | 511 |
 | 147 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 35,808 | 14 |
@@ -606,7 +606,6 @@
 | 590 | [The Escapists](games/t/the_escapists.md) | 4.48 | 0 | 511 |
 | 590 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.48 | 0 | 511 |
 | 590 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.48 | 36 | 433 |
-| 607 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 0 | 511 |
 | 607 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 0 | 511 |
 | 607 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.47 | 0 | 511 |
 | 607 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,501 | 84 |
@@ -616,20 +615,21 @@
 | 607 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.47 | 0 | 511 |
 | 607 | [Scorn](games/s/scorn.md) | 4.47 | 0 | 511 |
 | 607 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.47 | 0 | 511 |
-| 617 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 0 | 511 |
-| 617 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.46 | 0 | 511 |
-| 617 | [ATOM RPG](games/a/atom_rpg.md) | 4.46 | 49 | 405 |
-| 617 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,489 | 86 |
-| 617 | [Figment](games/f/figment.md) | 4.46 | 20 | 507 |
-| 617 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 106 | 328 |
-| 617 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 0 | 511 |
-| 617 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.46 | 0 | 511 |
-| 617 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.46 | 0 | 511 |
-| 617 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.46 | 0 | 511 |
-| 617 | [Runbow](games/r/runbow.md) | 4.46 | 0 | 511 |
-| 617 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 286 | 239 |
-| 617 | [Train Valley](games/t/train_valley.md) | 4.46 | 0 | 511 |
-| 617 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.46 | 0 | 511 |
+| 616 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 0 | 511 |
+| 616 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.46 | 0 | 511 |
+| 616 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.46 | 0 | 511 |
+| 616 | [ATOM RPG](games/a/atom_rpg.md) | 4.46 | 49 | 405 |
+| 616 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,489 | 86 |
+| 616 | [Figment](games/f/figment.md) | 4.46 | 20 | 507 |
+| 616 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 106 | 328 |
+| 616 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 0 | 511 |
+| 616 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.46 | 0 | 511 |
+| 616 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.46 | 0 | 511 |
+| 616 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.46 | 0 | 511 |
+| 616 | [Runbow](games/r/runbow.md) | 4.46 | 0 | 511 |
+| 616 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 286 | 239 |
+| 616 | [Train Valley](games/t/train_valley.md) | 4.46 | 0 | 511 |
+| 616 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.46 | 0 | 511 |
 | 631 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 4.45 | 23 | 488 |
 | 631 | [Chorus](games/c/chorus.md) | 4.45 | 32 | 452 |
 | 631 | [Death Coming](games/d/death_coming.md) | 4.45 | 0 | 511 |
@@ -882,7 +882,7 @@
 | 876 | [Family Man](games/f/family_man.md) | 4.16 | 0 | 511 |
 | 876 | [God's Trigger](games/g/god's_trigger.md) | 4.16 | 26 | 473 |
 | 876 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.16 | 0 | 511 |
-| 876 | [Space Punks](games/s/space_punks.md) | 4.16 | 174 | 284 |
+| 876 | [Space Punks](games/s/space_punks.md) | 4.16 | 175 | 284 |
 | 876 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.16 | 0 | 511 |
 | 876 | [Wreckfest](games/w/wreckfest.md) | 4.16 | 0 | 511 |
 | 886 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.15 | 0 | 511 |
