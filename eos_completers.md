@@ -4,15 +4,15 @@
 | 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.84% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 38.46% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
-| 5 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 25.00% |
 | 5 | [Overloop](games/o/overloop.md) | 25.00% |
-| 7 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 8 | [Volley Pals](games/v/volley_pals.md) | 23.91% |
-| 9 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 21.67% |
-| 10 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
-| 10 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
-| 12 | [Anna's Quest](games/a/anna's_quest.md) | 18.52% |
-| 13 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
+| 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
+| 7 | [Volley Pals](games/v/volley_pals.md) | 23.91% |
+| 8 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 21.67% |
+| 9 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
+| 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
+| 11 | [Anna's Quest](games/a/anna's_quest.md) | 18.52% |
+| 12 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 18.18% |
+| 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
 | 14 | [Island Cities](games/i/island_cities.md) | 18.12% |
 | 15 | [Afterglitch](games/a/afterglitch.md) | 16.67% |
 | 16 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 14.78% |
@@ -77,7 +77,7 @@
 | 75 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.63% |
 | 76 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.61% |
 | 77 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.60% |
-| 78 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.59% |
+| 78 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.56% |
 | 79 | [Lamentum](games/l/lamentum.md) | 2.54% |
 | 80 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 81 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 2.44% |
