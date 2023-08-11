@@ -4,8 +4,8 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 246,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
     "PcReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 371,
+  "EOS_Progressed": 372,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -1134,6 +1134,11 @@
       "Time": "2023-08-09T06:03:30.4643464+00:00",
       "NumProgressed": 371,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-11T15:04:26.5850706+00:00",
+      "NumProgressed": 372,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -1217,7 +1222,7 @@
       "Name": "Souvenirs",
       "Percentage": 30,
       "XP": 40,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "scoreminrankrp1",
@@ -1249,7 +1254,7 @@
       "Name": "Welcome to the Garage",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "scoreminrankrv2",
@@ -1264,7 +1269,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 371,
+      "Progressed": 372,
       "Completed": 2
     }
   ],
@@ -1272,8 +1277,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-08-11T14:05:11.5252186+00:00",
+  "LastChanged_Achievements": "2023-08-11T15:04:26.5850698+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:41.5277301+00:00",
-  "LastUpdate_Ratings": "2023-08-11T14:01:22.2253224+00:00",
-  "LastUpdate_Achievements": "2023-08-11T14:05:11.5252394+00:00"
+  "LastUpdate_Ratings": "2023-08-11T15:00:25.6313566+00:00",
+  "LastUpdate_Achievements": "2023-08-11T15:04:26.5850964+00:00"
 }

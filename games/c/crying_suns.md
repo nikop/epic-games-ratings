@@ -1,7 +1,7 @@
 # Crying Suns
 [Store](https://store.epicgames.com/en-US/p/crying-suns)  
 [View Rawdata](../../db/c/crying_suns.json)  
-Rating: 4.50 (Ranked 559)  
+Rating: 4.50 (Ranked 558)  
 Number of Ratings: 1,003  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~9 |
 | Kronos Rule | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 464,999 (Ranked 37)  
+Progressed: 465,002 (Ranked 37)  
 Completed: 17 (0.00%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,14 +199,14 @@ Completed: 17 (0.00%) (Ranked 253)
 | 2023-08-08 | 464,805 | 16 |
 | 2023-08-09 | 464,877 | 16 |
 | 2023-08-10 | 464,950 | 17 |
-| 2023-08-11 | 464,999 | 17 |
+| 2023-08-11 | 465,002 | 17 |
 ## Awards
-Max (Character Customization): 214  (Ranked 268)  
-Sum: 214 (Ranked 364)  
-Diff (max vs sum): -96  
+Max (Character Customization): 215  (Ranked 268)  
+Sum: 215 (Ranked 363)  
+Diff (max vs sum): -95  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 214 |
+| This game has Inclusive Character Customization | 215 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -284,3 +284,4 @@ Diff (max vs sum): -96
 | 2023-06-14 | 4.50 | - | 212 | 212 |
 | 2023-06-24 | 4.50 | - | 213 | 213 |
 | 2023-07-02 | 4.50 | - | 214 | 214 |
+| 2023-08-11 | 4.50 | - | 215 | 215 |

@@ -7,8 +7,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Sponsored by Argon | 0.90% | ~1,209 |
+| Basic in Bulk | 0.90% | ~1,209 |
 | Titan's First Steps | 0.90% | ~1,209 |
-| Basic in Bulk | 0.80% | ~1,075 |
 | Tinkle of Coins | 0.80% | ~1,075 |
 | Disintermediation | 0.60% | ~806 |
 | It's Free Real Estate | 0.60% | ~806 |
@@ -57,6 +57,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Master of Transmutation | 0.20% | ~269 |
 | Hidden Potential | 0.20% | ~269 |
 | Power of Love | 0.20% | ~269 |
+| Supercharged | 0.20% | ~269 |
 | Expansion in Session | 0.20% | ~269 |
 | Ritualist | 0.20% | ~269 |
 | Cranked up to 11 | 0.20% | ~269 |
@@ -93,7 +94,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Industrial Evolution | 0.10% | ~134 |
 | Oligarch Monarch | 0.10% | ~134 |
 | Unleashed Potential | 0.10% | ~134 |
-| Supercharged | 0.10% | ~134 |
 | Thank You Tom Nook | 0.10% | ~134 |
 | Fit for a King | 0.10% | ~134 |
 | By Your Powers Combined... | 0.10% | ~134 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Economy of Scarce | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,329 (Ranked 66)  
+Progressed: 134,332 (Ranked 66)  
 Completed: 132 (0.10%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,7 +232,7 @@ Completed: 132 (0.10%) (Ranked 201)
 | 2023-08-08 | 134,169 | 131 |
 | 2023-08-09 | 134,223 | 131 |
 | 2023-08-10 | 134,276 | 131 |
-| 2023-08-11 | 134,329 | 132 |
+| 2023-08-11 | 134,332 | 132 |
 ## Awards
 Max (Great for Beginners): 4,694  (Ranked 71)  
 Sum: 27,078 (Ranked 46)  

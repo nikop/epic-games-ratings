@@ -4,8 +4,8 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 40,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 384,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 6.51,
   "EosHistory": [
@@ -1401,9 +1401,9 @@
       "ID": "BasiliskFishingRod",
       "SetID": "db30heh",
       "Name": "Fishing Prop",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 73
+      "UsersEstimate": 77
     },
     {
       "ID": "BearBroom",
@@ -1625,9 +1625,9 @@
       "ID": "PriestRogue",
       "SetID": "db30heh",
       "Name": "Direct Hit",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 92
+      "UsersEstimate": 96
     },
     {
       "ID": "PriestRum",
@@ -1721,9 +1721,9 @@
       "ID": "SwordDiamond",
       "SetID": "db30heh",
       "Name": "Precious Barter",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 180
+      "UsersEstimate": 184
     },
     {
       "ID": "SwordMoneyBag",
@@ -1752,8 +1752,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-08-11T14:08:39.828095+00:00",
+  "LastChanged_Achievements": "2023-08-11T15:07:27.4373087+00:00",
   "LastUpdate_AppInfo": "2023-08-08T15:57:07.8979254+00:00",
-  "LastUpdate_Ratings": "2023-08-11T13:58:28.0461219+00:00",
-  "LastUpdate_Achievements": "2023-08-11T14:08:39.8281486+00:00"
+  "LastUpdate_Ratings": "2023-08-11T14:58:07.7265314+00:00",
+  "LastUpdate_Achievements": "2023-08-11T15:07:27.4373546+00:00"
 }

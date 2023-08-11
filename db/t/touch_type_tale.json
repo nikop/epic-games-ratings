@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 160,
   "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -2956,9 +2956,9 @@
       "ID": "scenario1",
       "SetID": "2h56gn1",
       "Name": "Do the Splits",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 1278
+      "UsersEstimate": 1309
     },
     {
       "ID": "scenario2",
@@ -3021,8 +3021,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-08-11T14:04:41.7985063+00:00",
+  "LastChanged_Achievements": "2023-08-11T15:03:50.7238635+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:58:11.414434+00:00",
-  "LastUpdate_Ratings": "2023-08-11T13:57:23.9312441+00:00",
-  "LastUpdate_Achievements": "2023-08-11T14:04:41.7985573+00:00"
+  "LastUpdate_Ratings": "2023-08-11T14:57:09.9811425+00:00",
+  "LastUpdate_Achievements": "2023-08-11T15:03:50.7239081+00:00"
 }

@@ -18,13 +18,13 @@ Rating: 4.44 (Ranked 643)
 | Climbing the Ladder | 4.00% | ~138 |
 | Sharpshooter | 4.00% | ~138 |
 | Resourceful | 4.00% | ~138 |
+| Der Geist | 4.00% | ~138 |
 | As Quiet as a Mouse | 4.00% | ~138 |
 | No Stone Unturned | 3.00% | ~104 |
 | Organ Grinder | 3.00% | ~104 |
 | Gunslinger | 3.00% | ~104 |
 | Skirmisher | 3.00% | ~104 |
 | Explosive Efficiency | 3.00% | ~104 |
-| Der Geist | 3.00% | ~104 |
 | Close Quarters | 3.00% | ~104 |
 | Snake in the Grass | 3.00% | ~104 |
 | Brains of the Operation | 3.00% | ~104 |
@@ -46,8 +46,8 @@ Rating: 4.44 (Ranked 643)
 | Shipbreaker | 0.90% | ~31 |
 | Sink or Swim | 0.90% | ~31 |
 | Strategist | 0.80% | ~28 |
+| Burn after reading | 0.80% | ~28 |
 | Operation Foxley | 0.80% | ~27 |
-| Burn after reading | 0.70% | ~24 |
 | Last Resort | 0.70% | ~24 |
 | Siegebreaker | 0.70% | ~24 |
 | Ghost of Falaise | 0.70% | ~24 |

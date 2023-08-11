@@ -495,9 +495,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 14478,
+  "EOS_Progressed": 14479,
   "EOS_Completed": 108,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -7875,6 +7875,11 @@
       "Time": "2023-08-11T13:07:40.4588821+00:00",
       "NumProgressed": 14478,
       "NumCompleted": 108
+    },
+    {
+      "Time": "2023-08-11T15:04:38.0598679+00:00",
+      "NumProgressed": 14479,
+      "NumCompleted": 108
     }
   ],
   "TotalAchievements": 41,
@@ -7990,7 +7995,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4343
+      "UsersEstimate": 4344
     },
     {
       "ID": "tpote_achievement_22",
@@ -8190,7 +8195,7 @@
       "Name": "Silentium est aureum",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1013
+      "UsersEstimate": 1014
     },
     {
       "ID": "tpote_achievement_8",
@@ -8206,22 +8211,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 5067
+      "UsersEstimate": 5068
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 14478,
+      "Progressed": 14479,
       "Completed": 108
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-08-03T13:08:30.3350415+00:00",
-  "LastChanged_Achievements": "2023-08-11T14:05:25.0148573+00:00",
+  "LastChanged_Achievements": "2023-08-11T15:04:38.0598671+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:55.7503888+00:00",
-  "LastUpdate_Ratings": "2023-08-11T14:02:59.8846499+00:00",
-  "LastUpdate_Achievements": "2023-08-11T14:05:25.0149526+00:00"
+  "LastUpdate_Ratings": "2023-08-11T15:01:54.1356958+00:00",
+  "LastUpdate_Achievements": "2023-08-11T15:04:38.0599776+00:00"
 }

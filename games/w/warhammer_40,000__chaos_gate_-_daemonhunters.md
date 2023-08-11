@@ -44,6 +44,7 @@ Number of Ratings: 371  (23.09.2022)
 | Exterminator | 0.20% | ~6 |
 | Harvest No More | 0.20% | ~6 |
 | Death Comes For All | 0.20% | ~6 |
+| Suffer Not the Mutant | 0.20% | ~6 |
 | Arsenal of Destruction | 0.10% | ~3 |
 | The Flesh is Weak | 0.10% | ~3 |
 | Blood and Iron | 0.10% | ~3 |
@@ -64,7 +65,6 @@ Number of Ratings: 371  (23.09.2022)
 | Killing Rampage | 0.10% | ~3 |
 | Deadshot | 0.10% | ~3 |
 | Terminal Meltdown | 0.10% | ~3 |
-| Suffer Not the Mutant | 0.10% | ~3 |
 | Crisis Management | 0.00% | ~0 |
 | Grand Master | 0.00% | ~0 |
 | Legend of Titan | 0.00% | ~0 |

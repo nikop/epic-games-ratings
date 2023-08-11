@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -220,9 +220,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17259,
+  "EOS_Progressed": 17262,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 384,
+  "EOS_NewPlayers": 383,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8000,6 +8000,11 @@
       "Time": "2023-08-11T14:05:49.2232302+00:00",
       "NumProgressed": 17259,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-11T15:04:58.6725414+00:00",
+      "NumProgressed": 17262,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -8011,7 +8016,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5005
+      "UsersEstimate": 5006
     },
     {
       "ID": "0002",
@@ -8027,7 +8032,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2934
+      "UsersEstimate": 2935
     },
     {
       "ID": "0004",
@@ -8099,7 +8104,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2761
+      "UsersEstimate": 2762
     },
     {
       "ID": "0013",
@@ -8107,7 +8112,7 @@
       "Name": "Keycards Royale",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1898
+      "UsersEstimate": 1899
     },
     {
       "ID": "0014",
@@ -8115,7 +8120,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2934
+      "UsersEstimate": 2935
     },
     {
       "ID": "0015",
@@ -8139,7 +8144,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3279
+      "UsersEstimate": 3280
     },
     {
       "ID": "0018",
@@ -8163,7 +8168,7 @@
       "Name": "Dr. No Kill",
       "Percentage": 11,
       "XP": 115,
-      "UsersEstimate": 1898
+      "UsersEstimate": 1899
     },
     {
       "ID": "0021",
@@ -8195,7 +8200,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 3797
+      "UsersEstimate": 3798
     },
     {
       "ID": "0025",
@@ -8219,7 +8224,7 @@
       "Name": "My Motto, My Creed",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1898
+      "UsersEstimate": 1899
     },
     {
       "ID": "0028",
@@ -8298,7 +8303,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17259,
+      "Progressed": 17262,
       "Completed": 1
     }
   ],
@@ -8306,8 +8311,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-08T19:59:53.3803436+00:00",
-  "LastChanged_Achievements": "2023-08-11T14:05:49.2232296+00:00",
+  "LastChanged_Achievements": "2023-08-11T15:04:58.6725398+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:35.6736811+00:00",
-  "LastUpdate_Ratings": "2023-08-11T14:02:36.503664+00:00",
-  "LastUpdate_Achievements": "2023-08-11T14:05:49.2233093+00:00"
+  "LastUpdate_Ratings": "2023-08-11T15:01:32.9263643+00:00",
+  "LastUpdate_Achievements": "2023-08-11T15:04:58.6726904+00:00"
 }

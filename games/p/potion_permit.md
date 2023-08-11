@@ -5,29 +5,29 @@ Rating: 3.83 (Ranked 951)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Moonbury | 98.00% | ~1,506 |
-| The First Step | 89.00% | ~1,368 |
+| Welcome to Moonbury | 98.00% | ~1,507 |
+| The First Step | 89.00% | ~1,369 |
 | Moonbury Traveller | 64.00% | ~984 |
-| Rookie Chemist | 63.00% | ~968 |
-| Great Doctor | 52.00% | ~799 |
-| Dog Whisperer | 49.00% | ~753 |
+| Rookie Chemist | 63.00% | ~969 |
+| Great Doctor | 51.00% | ~784 |
+| Dog Whisperer | 49.00% | ~754 |
 | Friendly | 48.00% | ~738 |
 | The Capitalist | 45.00% | ~692 |
 | K.O.! | 43.00% | ~661 |
 | Intermediate Chemist | 40.00% | ~615 |
-| Decorative Mind | 31.00% | ~476 |
-| Lumber Specialist | 31.00% | ~476 |
+| Decorative Mind | 31.00% | ~477 |
+| Lumber Specialist | 31.00% | ~477 |
 | Kind-hearted | 25.00% | ~384 |
 | Catch of the Day | 25.00% | ~384 |
 | Amateur Chef | 22.00% | ~338 |
-| Fishing Guru | 20.00% | ~307 |
+| Fishing Guru | 20.00% | ~308 |
 | Spark of Love | 18.00% | ~277 |
 | Community Helper | 17.00% | ~261 |
 | Expert Chemist | 14.00% | ~215 |
 | Stone Specialist | 14.00% | ~215 |
 | Ablutomaniac | 13.00% | ~200 |
-| Line Cook | 12.00% | ~184 |
-| Sociable | 12.00% | ~184 |
+| Line Cook | 12.00% | ~185 |
+| Sociable | 12.00% | ~185 |
 | Production Sorter | 11.00% | ~169 |
 | Good Samaritan | 10.00% | ~154 |
 | Acrobatic Adventurer | 9.00% | ~138 |
@@ -35,7 +35,7 @@ Rating: 3.83 (Ranked 951)
 | Adolescent Love | 6.00% | ~92 |
 | Mail Carrier | 6.00% | ~92 |
 | Plantation Exterminator | 5.00% | ~77 |
-| Grape Supplier | 4.00% | ~61 |
+| Grape Supplier | 4.00% | ~62 |
 | Sous Chef | 3.00% | ~46 |
 | Being forgetful... | 2.00% | ~31 |
 | Community Advisor | 2.00% | ~31 |
@@ -44,7 +44,7 @@ Rating: 3.83 (Ranked 951)
 | Moonbury Navigator | 1.00% | ~15 |
 | Being a donut... | 0.70% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,537 (Ranked 178)  
+Progressed: 1,538 (Ranked 178)  
 Completed: 9 (0.59%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,6 +135,7 @@ Completed: 9 (0.59%) (Ranked 131)
 | 2023-08-06 | 1,533 | 9 |
 | 2023-08-07 | 1,535 | 9 |
 | 2023-08-10 | 1,537 | 9 |
+| 2023-08-11 | 1,538 | 9 |
 ## Awards
 Max (Character Customization): 69  (Ranked 377)  
 Sum: 69 (Ranked 435)  

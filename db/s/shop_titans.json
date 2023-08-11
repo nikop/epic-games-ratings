@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -5536,9 +5536,9 @@
       "Count": 3733
     }
   ],
-  "EOS_Progressed": 134329,
+  "EOS_Progressed": 134332,
   "EOS_Completed": 132,
-  "EOS_NewPlayers": 469,
+  "EOS_NewPlayers": 465,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -17076,6 +17076,11 @@
       "Time": "2023-08-11T14:06:20.2439134+00:00",
       "NumProgressed": 134329,
       "NumCompleted": 132
+    },
+    {
+      "Time": "2023-08-11T15:05:25.436489+00:00",
+      "NumProgressed": 134332,
+      "NumCompleted": 132
     }
   ],
   "TotalAchievements": 112,
@@ -17317,9 +17322,9 @@
       "ID": "commonres01",
       "SetID": "anfd17p",
       "Name": "Basic in Bulk",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1075
+      "UsersEstimate": 1209
     },
     {
       "ID": "commonres02",
@@ -17453,9 +17458,9 @@
       "ID": "energy03",
       "SetID": "anfd17p",
       "Name": "Supercharged",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 269
     },
     {
       "ID": "expansion01",
@@ -17982,15 +17987,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 134329,
+      "Progressed": 134332,
       "Completed": 132
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-08-11T01:37:20.4310656+00:00",
-  "LastChanged_Achievements": "2023-08-11T14:06:20.2439127+00:00",
+  "LastChanged_Achievements": "2023-08-11T15:05:25.436488+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:21.2056858+00:00",
-  "LastUpdate_Ratings": "2023-08-11T14:00:59.5648349+00:00",
-  "LastUpdate_Achievements": "2023-08-11T14:06:20.2441394+00:00"
+  "LastUpdate_Ratings": "2023-08-11T15:00:00.0861934+00:00",
+  "LastUpdate_Achievements": "2023-08-11T15:05:25.4367049+00:00"
 }

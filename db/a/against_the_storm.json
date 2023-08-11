@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 168,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -2648,7 +2648,7 @@
       "Count": 313
     }
   ],
-  "EOS_Progressed": 16235,
+  "EOS_Progressed": 16236,
   "EOS_Completed": 42,
   "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
@@ -8833,6 +8833,11 @@
       "Time": "2023-08-11T14:06:35.5742347+00:00",
       "NumProgressed": 16235,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-08-11T15:05:39.034309+00:00",
+      "NumProgressed": 16236,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 50,
@@ -9138,9 +9143,9 @@
       "ID": "WinPrestige10",
       "SetID": "cfbk359",
       "Name": "Prestigious Expedition",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 146
+      "UsersEstimate": 130
     },
     {
       "ID": "WinPrestige20",
@@ -9243,15 +9248,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 16235,
+      "Progressed": 16236,
       "Completed": 42
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-08-10T11:57:19.3633067+00:00",
-  "LastChanged_Achievements": "2023-08-11T14:06:35.5742339+00:00",
+  "LastChanged_Achievements": "2023-08-11T15:05:39.0343082+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:58:08.2002122+00:00",
-  "LastUpdate_Ratings": "2023-08-11T13:57:36.7320555+00:00",
-  "LastUpdate_Achievements": "2023-08-11T14:06:35.5743477+00:00"
+  "LastUpdate_Ratings": "2023-08-11T14:57:19.3729997+00:00",
+  "LastUpdate_Achievements": "2023-08-11T15:05:39.0343904+00:00"
 }
