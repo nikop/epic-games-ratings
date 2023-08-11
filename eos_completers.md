@@ -1,13 +1,13 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.69% |
+| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.97% |
 | 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.84% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 37.50% |
-| 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
-| 5 | [Overloop](games/o/overloop.md) | 25.00% |
-| 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 7 | [Volley Pals](games/v/volley_pals.md) | 23.91% |
-| 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 21.43% |
+| 4 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 33.33% |
+| 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
+| 6 | [Overloop](games/o/overloop.md) | 25.00% |
+| 7 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
+| 8 | [Volley Pals](games/v/volley_pals.md) | 23.91% |
 | 9 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 21.31% |
 | 10 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 10 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
@@ -69,7 +69,7 @@
 | 67 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.99% |
 | 68 | [Monster Harvest](games/m/monster_harvest.md) | 2.95% |
 | 69 | [MultiVersus](games/m/multiversus.md) | 2.93% |
-| 70 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.87% |
+| 70 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.86% |
 | 71 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.78% |
 | 72 | [Destiny 2](games/d/destiny_2.md) | 2.75% |
 | 73 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
