@@ -14,8 +14,8 @@
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
 | 13 | [Island Cities](games/i/island_cities.md) | 18.12% |
 | 14 | [Afterglitch](games/a/afterglitch.md) | 16.67% |
-| 14 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 16.67% |
-| 16 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 14.91% |
+| 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 14.91% |
+| 16 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 14.29% |
 | 17 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 13.94% |
 | 18 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 12.50% |
 | 19 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.00% |
@@ -63,7 +63,7 @@
 | 61 | [Doodle God](games/d/doodle_god.md) | 3.46% |
 | 62 | [Bunny Park](games/b/bunny_park.md) | 3.39% |
 | 63 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.33% |
-| 64 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.29% |
+| 64 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.28% |
 | 65 | [HordeCore](games/h/hordecore.md) | 3.15% |
 | 66 | [The Complex](games/t/the_complex.md) | 3.01% |
 | 67 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.00% |
