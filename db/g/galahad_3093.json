@@ -4,7 +4,7 @@
   "ProductSlug": "galahad-3093",
   "Ranking_EOS_Progress": 541,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewPlayers": 356,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2099-01-02T03:00:00+00:00",
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-05T05:58:26.7218665+00:00",
-  "LastUpdate_Ratings": "2023-08-11T02:12:25.5709553+00:00",
-  "LastUpdate_Achievements": "2023-08-11T02:17:28.099542+00:00"
+  "LastUpdate_Ratings": "2023-08-11T02:59:52.1492872+00:00",
+  "LastUpdate_Achievements": "2023-08-11T03:05:15.0460623+00:00"
 }

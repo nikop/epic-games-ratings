@@ -3412,9 +3412,9 @@
       "ID": "STB_CRITICAL_HITS",
       "SetID": "3pe2bac",
       "Name": "Elemental master",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 854
+      "UsersEstimate": 879
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -3797,8 +3797,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-08-06T02:15:52.3932671+00:00",
-  "LastChanged_Achievements": "2023-08-11T02:17:03.3978951+00:00",
+  "LastChanged_Achievements": "2023-08-11T03:04:50.6824908+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:18.2583768+00:00",
-  "LastUpdate_Ratings": "2023-08-11T02:11:20.3307807+00:00",
-  "LastUpdate_Achievements": "2023-08-11T02:17:03.3980126+00:00"
+  "LastUpdate_Ratings": "2023-08-11T02:58:50.9413832+00:00",
+  "LastUpdate_Achievements": "2023-08-11T03:04:50.6825736+00:00"
 }

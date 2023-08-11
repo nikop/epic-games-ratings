@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Graduation | 79.00% | ~123 |
-| You Have Been Deaded | 74.00% | ~115 |
+| You Have Been Deaded | 75.00% | ~117 |
 | Rookie | 70.00% | ~109 |
 | Apprentice Destructor | 29.00% | ~45 |
 | Master Destructor | 12.00% | ~19 |

@@ -19,13 +19,13 @@ Rating: 4.77 (Ranked 108)
 | Loom for Improvement | 9.00% | ~26,083 |
 | A Talent for Spending | 9.00% | ~26,083 |
 | Coasting Along | 9.00% | ~26,083 |
-| Followed the Butterflies | 8.00% | ~23,184 |
-| Rising From the Ashes | 8.00% | ~23,184 |
-| The Avenging Gazelle | 7.00% | ~20,286 |
-| Beast Friends | 7.00% | ~20,286 |
-| A Sallow Grave | 7.00% | ~20,286 |
-| Flight the Good Flight | 7.00% | ~20,286 |
-| The Spell Master | 7.00% | ~20,286 |
+| Followed the Butterflies | 8.00% | ~23,185 |
+| Rising From the Ashes | 8.00% | ~23,185 |
+| The Avenging Gazelle | 7.00% | ~20,287 |
+| Beast Friends | 7.00% | ~20,287 |
+| A Sallow Grave | 7.00% | ~20,287 |
+| Flight the Good Flight | 7.00% | ~20,287 |
+| The Spell Master | 7.00% | ~20,287 |
 | The Seeker of Knowledge | 5.00% | ~14,490 |
 | The Root of the Problem | 5.00% | ~14,490 |
 | Third Time's a Charm | 5.00% | ~14,490 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 108)
 | The Nature of the Beast | 0.60% | ~1,739 |
 | Collector's Edition | 0.30% | ~869 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 289,806 (Ranked 42)  
+Progressed: 289,808 (Ranked 42)  
 Completed: 448 (0.15%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,15 +164,15 @@ Completed: 448 (0.15%) (Ranked 188)
 | 2023-08-08 | 289,682 | 443 |
 | 2023-08-09 | 289,736 | 444 |
 | 2023-08-10 | 289,802 | 447 |
-| 2023-08-11 | 289,806 | 448 |
+| 2023-08-11 | 289,808 | 448 |
 ## Awards
 Max (Character Customization): 21,664  (Ranked 17)  
-Sum: 40,779 (Ranked 30)  
+Sum: 40,793 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 21,664 |
-| This game has Great Boss Battles | 10,456 |
+| This game has Great Boss Battles | 10,470 |
 | This game is Great for Beginners | 964 |
 | This game is Extremely Fun | 941 |
 | This game is Relaxing | 938 |
@@ -326,3 +326,4 @@ Diff (max vs sum): -13
 | 2023-08-08 | 4.77 | 21,619 | 40,677 |
 | 2023-08-09 | 4.77 | 21,636 | 40,721 |
 | 2023-08-10 | 4.77 | 21,664 | 40,779 |
+| 2023-08-11 | 4.77 | 21,664 | 40,793 |

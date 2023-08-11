@@ -5,16 +5,16 @@ Rating: 4.44 (Ranked 643)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Liberté | 5.00% | ~172 |
-| Meeting Resistance | 5.00% | ~172 |
-| Confirming Suspicions | 5.00% | ~172 |
-| Lord of War | 5.00% | ~172 |
-| The Kraken Wakes | 5.00% | ~172 |
-| It's Starting to Crack | 5.00% | ~172 |
-| Change the Channel | 5.00% | ~172 |
-| Taking it back | 5.00% | ~172 |
-| Target America | 5.00% | ~172 |
-| The Kraken Sleeps | 5.00% | ~172 |
+| Liberté | 5.00% | ~173 |
+| Meeting Resistance | 5.00% | ~173 |
+| Confirming Suspicions | 5.00% | ~173 |
+| Lord of War | 5.00% | ~173 |
+| The Kraken Wakes | 5.00% | ~173 |
+| It's Starting to Crack | 5.00% | ~173 |
+| Change the Channel | 5.00% | ~173 |
+| Taking it back | 5.00% | ~173 |
+| Target America | 5.00% | ~173 |
+| The Kraken Sleeps | 5.00% | ~173 |
 | Climbing the Ladder | 4.00% | ~138 |
 | Sharpshooter | 4.00% | ~138 |
 | Resourceful | 4.00% | ~138 |
@@ -36,11 +36,11 @@ Rating: 4.44 (Ranked 643)
 | My Little Friend | 2.00% | ~69 |
 | Explosive Efficiency | 2.00% | ~69 |
 | Die Nussknacker Sweet! | 2.00% | ~69 |
-| The Long Game | 1.00% | ~34 |
-| Rigged to Blow | 1.00% | ~34 |
-| Tinkerer | 1.00% | ~34 |
-| Road Rage | 1.00% | ~34 |
-| Don't hold your breath | 1.00% | ~34 |
+| The Long Game | 1.00% | ~35 |
+| Rigged to Blow | 1.00% | ~35 |
+| Tinkerer | 1.00% | ~35 |
+| Road Rage | 1.00% | ~35 |
+| Don't hold your breath | 1.00% | ~35 |
 | Herr Today, Gone Tomorrow | 1.00% | ~34 |
 | It'll Buff Right Out | 0.90% | ~31 |
 | Shipbreaker | 0.90% | ~31 |
@@ -77,7 +77,7 @@ Rating: 4.44 (Ranked 643)
 | Das Familienjuwel | 0.10% | ~3 |
 | Operation Overlord | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,450 (Ranked 150)  
+Progressed: 3,451 (Ranked 150)  
 Completed: 9 (0.26%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,6 +189,7 @@ Completed: 9 (0.26%) (Ranked 166)
 | 2023-08-08 | 3,435 | 9 |
 | 2023-08-09 | 3,441 | 9 |
 | 2023-08-10 | 3,450 | 9 |
+| 2023-08-11 | 3,451 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

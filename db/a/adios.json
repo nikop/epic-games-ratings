@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 112,
   "Ranking_EOS_NewPlayers": 57,
-  "Ranking_EOS_NewCompleters": 15,
+  "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -96,9 +96,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 69555,
+  "EOS_Progressed": 69557,
   "EOS_Completed": 697,
-  "EOS_NewPlayers": 857,
+  "EOS_NewPlayers": 856,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -12451,6 +12451,11 @@
       "Time": "2023-08-11T02:20:09.5443868+00:00",
       "NumProgressed": 69555,
       "NumCompleted": 697
+    },
+    {
+      "Time": "2023-08-11T03:07:54.0767677+00:00",
+      "NumProgressed": 69557,
+      "NumCompleted": 697
     }
   ],
   "TotalAchievements": 25,
@@ -12494,7 +12499,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 15302
+      "UsersEstimate": 15303
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -12582,7 +12587,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 13215
+      "UsersEstimate": 13216
     },
     {
       "ID": "Nice Try",
@@ -12654,14 +12659,14 @@
       "Name": "Vinyl Vibes",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 5564
+      "UsersEstimate": 5565
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 69555,
+      "Progressed": 69557,
       "Completed": 697
     }
   ],
@@ -12669,8 +12674,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-08-07T22:57:38.0235808+00:00",
-  "LastChanged_Achievements": "2023-08-11T02:20:09.5443862+00:00",
+  "LastChanged_Achievements": "2023-08-11T03:07:54.0767669+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:13.5185195+00:00",
-  "LastUpdate_Ratings": "2023-08-11T02:10:00.4879589+00:00",
-  "LastUpdate_Achievements": "2023-08-11T02:20:09.5445474+00:00"
+  "LastUpdate_Ratings": "2023-08-11T02:57:36.6243622+00:00",
+  "LastUpdate_Achievements": "2023-08-11T03:07:54.0769407+00:00"
 }

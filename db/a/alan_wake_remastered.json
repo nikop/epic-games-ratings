@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 60661,
+  "EOS_Progressed": 60662,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 504,
+  "EOS_NewPlayers": 498,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -10877,6 +10877,11 @@
       "Time": "2023-08-11T02:18:05.3001165+00:00",
       "NumProgressed": 60661,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-11T03:05:50.8513291+00:00",
+      "NumProgressed": 60662,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -10904,7 +10909,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 13345
+      "UsersEstimate": 13346
     },
     {
       "ID": "04",
@@ -11000,7 +11005,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5459
+      "UsersEstimate": 5460
     },
     {
       "ID": "16",
@@ -11160,7 +11165,7 @@
       "Name": "Let There Be Light",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 18198
+      "UsersEstimate": 18199
     },
     {
       "ID": "36",
@@ -11200,7 +11205,7 @@
       "Name": "Right of Way",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5459
+      "UsersEstimate": 5460
     },
     {
       "ID": "41",
@@ -11423,21 +11428,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 60661,
+      "Progressed": 60662,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 24129,
+      "Progressed": 24130,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-11T02:18:05.3001158+00:00",
+  "LastChanged_Achievements": "2023-08-11T03:05:50.8513284+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:26.4964539+00:00",
-  "LastUpdate_Ratings": "2023-08-11T02:11:26.6541709+00:00",
-  "LastUpdate_Achievements": "2023-08-11T02:18:05.3003452+00:00"
+  "LastUpdate_Ratings": "2023-08-11T02:58:56.5047991+00:00",
+  "LastUpdate_Achievements": "2023-08-11T03:05:50.8515273+00:00"
 }

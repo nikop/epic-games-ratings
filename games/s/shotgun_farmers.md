@@ -15,9 +15,9 @@
 | Early Survivor | 42.00% | ~85 |
 | No Diggity | 42.00% | ~85 |
 | Amateur Survivor | 31.00% | ~63 |
+| 10K | 30.00% | ~76 |
 | Bouncemato | 30.00% | ~61 |
-| 10K | 29.00% | ~73 |
-| 15K | 27.00% | ~68 |
+| 15K | 28.00% | ~71 |
 | Professional Survivor | 23.00% | ~47 |
 | Grave Digger | 23.00% | ~47 |
 | Drinking Problem | 21.00% | ~53 |

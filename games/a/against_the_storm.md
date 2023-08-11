@@ -20,6 +20,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Ancient Battleground | 3.00% | ~487 |
 | Sparkdew Crystals | 3.00% | ~487 |
 | Levitating Monument | 3.00% | ~487 |
+| Monastery of the Holy Flame | 3.00% | ~487 |
 | Royal Outpost | 3.00% | ~487 |
 | Lost Colonies | 3.00% | ~487 |
 | Statue of the Forefathers | 3.00% | ~487 |
@@ -36,7 +37,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Forbidden Lands | 2.00% | ~325 |
 | Haunted Forest | 2.00% | ~325 |
 | Flooded Mines | 2.00% | ~325 |
-| Monastery of the Holy Flame | 2.00% | ~325 |
 | Forsaken Gods Temple | 2.00% | ~325 |
 | Corrosive Torrent | 2.00% | ~325 |
 | Like a Machine | 2.00% | ~325 |

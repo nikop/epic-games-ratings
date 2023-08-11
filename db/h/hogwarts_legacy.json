@@ -6046,10 +6046,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 40779,
       "NumberOfAwardsMax": 21664
+    },
+    {
+      "Time": "2023-08-11T02:58:38.5365349+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 40793,
+      "NumberOfAwardsMax": 21664
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 40779,
+  "NumberOfAwards": 40793,
   "NumberOfAwardsMax": 21664,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6063,7 +6069,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 10456
+      "Count": 10470
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -6126,9 +6132,9 @@
       "Count": 580
     }
   ],
-  "EOS_Progressed": 289806,
+  "EOS_Progressed": 289808,
   "EOS_Completed": 448,
-  "EOS_NewPlayers": 510,
+  "EOS_NewPlayers": 505,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -18246,6 +18252,11 @@
       "Time": "2023-08-11T02:18:36.6545039+00:00",
       "NumProgressed": 289806,
       "NumCompleted": 448
+    },
+    {
+      "Time": "2023-08-11T03:06:22.5277623+00:00",
+      "NumProgressed": 289808,
+      "NumCompleted": 448
     }
   ],
   "TotalAchievements": 45,
@@ -18305,7 +18316,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20286
+      "UsersEstimate": 20287
     },
     {
       "ID": "PFA_16",
@@ -18321,7 +18332,7 @@
       "Name": "Beast Friends",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20286
+      "UsersEstimate": 20287
     },
     {
       "ID": "PFA_18",
@@ -18329,7 +18340,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20286
+      "UsersEstimate": 20287
     },
     {
       "ID": "PFA_19",
@@ -18337,7 +18348,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 20286
+      "UsersEstimate": 20287
     },
     {
       "ID": "PFA_2",
@@ -18481,7 +18492,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 23184
+      "UsersEstimate": 23185
     },
     {
       "ID": "PFA_36",
@@ -18561,7 +18572,7 @@
       "Name": "The Spell Master",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 20286
+      "UsersEstimate": 20287
     },
     {
       "ID": "PFA_45",
@@ -18609,23 +18620,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23184
+      "UsersEstimate": 23185
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 289806,
+      "Progressed": 289808,
       "Completed": 448
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-08-10T22:58:56.8569105+00:00",
-  "LastChanged_Achievements": "2023-08-11T02:18:36.6545033+00:00",
+  "LastChanged": "2023-08-11T02:58:38.5365346+00:00",
+  "LastChanged_Achievements": "2023-08-11T03:06:22.5277615+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:46.8672159+00:00",
-  "LastUpdate_Ratings": "2023-08-11T02:11:08.2250104+00:00",
-  "LastUpdate_Achievements": "2023-08-11T02:18:36.6546973+00:00"
+  "LastUpdate_Ratings": "2023-08-11T02:58:38.5365355+00:00",
+  "LastUpdate_Achievements": "2023-08-11T03:06:22.5279666+00:00"
 }

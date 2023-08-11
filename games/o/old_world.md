@@ -145,6 +145,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ancient | 0.20% | ~27 |
 | Peacemaker | 0.20% | ~27 |
 | Glorious Difficulty | 0.20% | ~27 |
+| The Eternal Treaty | 0.20% | ~27 |
 | Run, Pheidippides, Run! | 0.20% | ~27 |
 | Nenikekamen | 0.20% | ~27 |
 | Cao'an | 0.20% | ~27 |
@@ -202,7 +203,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Et tu Brutus? | 0.10% | ~13 |
 | Event Level High | 0.10% | ~13 |
 | Battle of the Fertile Crescent | 0.10% | ~13 |
-| The Eternal Treaty | 0.10% | ~13 |
 | Five Routs | 0.10% | ~13 |
 | Game of the Week | 0.10% | ~13 |
 | Defend Where? | 0.10% | ~13 |

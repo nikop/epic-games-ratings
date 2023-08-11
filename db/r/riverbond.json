@@ -480,7 +480,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 524682,
+  "EOS_Progressed": 524683,
   "EOS_Completed": 456,
   "EOS_NewPlayers": 623,
   "EOS_NewCompleters": 2,
@@ -12315,6 +12315,11 @@
       "Time": "2023-08-11T01:42:57.6340723+00:00",
       "NumProgressed": 524682,
       "NumCompleted": 456
+    },
+    {
+      "Time": "2023-08-11T03:05:38.4789116+00:00",
+      "NumProgressed": 524683,
+      "NumCompleted": 456
     }
   ],
   "TotalAchievements": 57,
@@ -12342,7 +12347,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 367277
+      "UsersEstimate": 367278
     },
     {
       "ID": "12",
@@ -12550,7 +12555,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 262341
+      "UsersEstimate": 262342
     },
     {
       "ID": "36",
@@ -12662,7 +12667,7 @@
       "Name": "To the Beat",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 104936
+      "UsersEstimate": 104937
     },
     {
       "ID": "49",
@@ -12686,7 +12691,7 @@
       "Name": "Two of a Kind",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 73455
+      "UsersEstimate": 73456
     },
     {
       "ID": "51",
@@ -12781,15 +12786,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 524682,
+      "Progressed": 524683,
       "Completed": 456
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
-  "LastChanged_Achievements": "2023-08-11T02:17:52.0432682+00:00",
+  "LastChanged_Achievements": "2023-08-11T03:05:38.4789107+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:46.5047426+00:00",
-  "LastUpdate_Ratings": "2023-08-11T02:11:06.4601742+00:00",
-  "LastUpdate_Achievements": "2023-08-11T02:17:52.0434912+00:00"
+  "LastUpdate_Ratings": "2023-08-11T02:58:36.6227829+00:00",
+  "LastUpdate_Achievements": "2023-08-11T03:05:38.4791722+00:00"
 }

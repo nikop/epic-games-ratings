@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 686,
+  "EOS_Progressed": 687,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1456,6 +1456,11 @@
       "Time": "2023-08-11T01:44:15.9953079+00:00",
       "NumProgressed": 686,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-11T03:07:13.0612631+00:00",
+      "NumProgressed": 687,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1475,7 +1480,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -1505,9 +1510,9 @@
       "ID": "ATK_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Beware of the Goat",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 240
+      "UsersEstimate": 234
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -1515,7 +1520,7 @@
       "Name": "Goat Whisperer",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "ATK_ACHIEVEMENT_3",
@@ -1595,7 +1600,7 @@
       "Name": "Where There\u0027s Smoke There\u0027s Fire",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "BURN_ACHIEVEMENT_3",
@@ -1747,7 +1752,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -1771,7 +1776,7 @@
       "Name": "Call The Winchester",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "KILLR_ACHIEVEMENT_5",
@@ -1891,7 +1896,7 @@
       "Name": "Buy A Book",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "OUT_ACHIEVEMENT_1",
@@ -1913,9 +1918,9 @@
       "ID": "RAPTOR_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "The Clairvoyant Who Doesn\u0027t See",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 274
+      "UsersEstimate": 268
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -1994,14 +1999,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 686,
+      "Progressed": 687,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-08-11T02:19:27.5630585+00:00",
+  "LastChanged_Achievements": "2023-08-11T03:07:13.0612624+00:00",
   "LastUpdate_AppInfo": "2023-08-10T15:57:09.1792695+00:00",
-  "LastUpdate_Ratings": "2023-08-11T02:10:23.9542553+00:00",
-  "LastUpdate_Achievements": "2023-08-11T02:19:27.5632044+00:00"
+  "LastUpdate_Ratings": "2023-08-11T02:57:56.9584976+00:00",
+  "LastUpdate_Achievements": "2023-08-11T03:07:13.0614028+00:00"
 }

@@ -1,7 +1,7 @@
 # Aliens: Dark Descent
 [Store](https://store.epicgames.com/en-US/p/aliens-dark-descent)  
 [View Rawdata](../../db/a/aliens__dark_descent.json)  
-Rating: 4.46 (Ranked 617)  
+Rating: 4.45 (Ranked 631)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -35,9 +35,9 @@ Rating: 4.46 (Ranked 617)
 | One For Every Occasion | 19.00% | ~595 |
 | Excavating The Truth | 19.00% | ~595 |
 | Abysmal Horrors | 19.00% | ~595 |
+| Bandage Lover | 18.00% | ~564 |
 | Frontliner | 18.00% | ~564 |
 | The Cable Guy | 18.00% | ~564 |
-| Bandage Lover | 17.00% | ~533 |
 | Regicide | 14.00% | ~439 |
 | Flawless Victory | 12.00% | ~376 |
 | This Went Smoothly | 12.00% | ~376 |
@@ -151,3 +151,4 @@ Diff (max vs sum): -4
 | 2023-08-04 | 4.45 | 22 | 22 |
 | 2023-08-06 | 4.46 | 22 | 22 |
 | 2023-08-07 | 4.46 | 23 | 23 |
+| 2023-08-11 | 4.45 | 23 | 23 |

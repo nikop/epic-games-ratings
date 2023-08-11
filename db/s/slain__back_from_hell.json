@@ -211,9 +211,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 33385,
+  "EOS_Progressed": 33389,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 875,
+  "EOS_NewPlayers": 871,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -12491,6 +12491,11 @@
       "Time": "2023-08-11T02:18:09.5580791+00:00",
       "NumProgressed": 33385,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-08-11T03:05:55.2136133+00:00",
+      "NumProgressed": 33389,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 29,
@@ -12510,7 +12515,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 6677
+      "UsersEstimate": 6678
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -12534,7 +12539,7 @@
       "Name": "Sure Footed As A Goat",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "ACH_07_BLOODTOWER_NO_HOUND_DAMAGE",
@@ -12550,7 +12555,7 @@
       "Name": "Backdoor Man",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "ACH_09_HIGHLANDS_NO_FLAME_KILLS",
@@ -12646,7 +12651,7 @@
       "Name": "Kill \u0027Em All",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1335
+      "UsersEstimate": 1336
     },
     {
       "ID": "ACH_21_CRITICAL_STRIKES",
@@ -12733,7 +12738,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 33385,
+      "Progressed": 33389,
       "Completed": 21
     }
   ],
@@ -12741,8 +12746,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-08-09T21:02:33.9028923+00:00",
-  "LastChanged_Achievements": "2023-08-11T02:18:09.5580785+00:00",
+  "LastChanged_Achievements": "2023-08-11T03:05:55.2136126+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:57.8950159+00:00",
-  "LastUpdate_Ratings": "2023-08-11T02:14:01.6806373+00:00",
-  "LastUpdate_Achievements": "2023-08-11T02:18:09.5582441+00:00"
+  "LastUpdate_Ratings": "2023-08-11T03:01:27.7439465+00:00",
+  "LastUpdate_Achievements": "2023-08-11T03:05:55.2137539+00:00"
 }

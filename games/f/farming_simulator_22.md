@@ -6,23 +6,23 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 75.00% | ~35,221 |
-| I read Shakespeare and stuff | 64.00% | ~30,055 |
-| Just a sprinkle | 63.00% | ~29,585 |
-| I'm stumped | 61.00% | ~28,646 |
+| Own use | 75.00% | ~35,222 |
+| I read Shakespeare and stuff | 64.00% | ~30,056 |
+| Just a sprinkle | 63.00% | ~29,586 |
+| I'm stumped | 61.00% | ~28,647 |
 | Plant get enough | 60.00% | ~28,177 |
-| It's just the beginning | 59.00% | ~27,707 |
-| This is just my weekend vehicle | 58.00% | ~27,237 |
-| Hard work pays off | 53.00% | ~24,889 |
+| It's just the beginning | 59.00% | ~27,708 |
+| This is just my weekend vehicle | 58.00% | ~27,238 |
+| Hard work pays off | 53.00% | ~24,890 |
 | It's never too late to farm | 49.00% | ~23,011 |
 | All out of Land | 44.00% | ~20,663 |
-| Field Trip | 43.00% | ~20,193 |
-| I like to switch it up | 40.00% | ~18,784 |
-| Help me to help you | 38.00% | ~17,845 |
+| Field Trip | 43.00% | ~20,194 |
+| I like to switch it up | 40.00% | ~18,785 |
+| Help me to help you | 38.00% | ~17,846 |
 | Ultimutt Pawesomeness | 28.00% | ~13,149 |
 | Van Gogh | 26.00% | ~12,210 |
-| You wood not believe it | 22.00% | ~10,331 |
-| Vehicle fleet | 22.00% | ~10,331 |
+| You wood not believe it | 22.00% | ~10,332 |
+| Vehicle fleet | 22.00% | ~10,332 |
 | The plot thickens | 16.00% | ~7,514 |
 | Well-Oiled Machine | 16.00% | ~7,514 |
 | Long haul | 16.00% | ~7,514 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~188 |
 | Raisin the stakes | 0.30% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,961 (Ranked 90)  
+Progressed: 46,962 (Ranked 90)  
 Completed: 5 (0.01%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 5 (0.01%) (Ranked 238)
 | 2023-08-08 | 46,857 | 5 |
 | 2023-08-09 | 46,909 | 5 |
 | 2023-08-10 | 46,955 | 5 |
-| 2023-08-11 | 46,961 | 5 |
+| 2023-08-11 | 46,962 | 5 |
 ## Awards
 Max (Great for Beginners): 4,706  (Ranked 70)  
 Sum: 39,018 (Ranked 31)  

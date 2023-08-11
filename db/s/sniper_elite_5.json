@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewPlayers": 131,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -458,9 +458,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3450,
+  "EOS_Progressed": 3451,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -5843,6 +5843,11 @@
       "Time": "2023-08-10T21:03:21.471596+00:00",
       "NumProgressed": 3450,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-11T03:03:27.2766909+00:00",
+      "NumProgressed": 3451,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 71,
@@ -5862,7 +5867,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -5934,7 +5939,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -5998,7 +6003,7 @@
       "Name": "The Long Game",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "REWARD_28_AMBUSH_KING",
@@ -6022,7 +6027,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -6038,7 +6043,7 @@
       "Name": "Rigged to Blow",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
@@ -6062,7 +6067,7 @@
       "Name": "Lord of War",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -6102,7 +6107,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -6158,7 +6163,7 @@
       "Name": "Tinkerer",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "REWARD_4_INDUSTRIAL_ESPIONAGE",
@@ -6166,7 +6171,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -6190,7 +6195,7 @@
       "Name": "Change the Channel",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -6206,7 +6211,7 @@
       "Name": "Road Rage",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "REWARD_67_NO_ASSISTANCE",
@@ -6214,7 +6219,7 @@
       "Name": "Don\u0027t hold your breath",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "REWARD_6_BIG_GAME_HUNTER",
@@ -6222,7 +6227,7 @@
       "Name": "Taking it back",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -6246,7 +6251,7 @@
       "Name": "Target America",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -6262,7 +6267,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -6421,13 +6426,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3401,
+      "Progressed": 3402,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3450,
+      "Progressed": 3451,
       "Completed": 9
     }
   ],
@@ -6435,8 +6440,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-08-11T01:35:43.0365889+00:00",
-  "LastChanged_Achievements": "2023-08-11T02:15:18.7268509+00:00",
+  "LastChanged_Achievements": "2023-08-11T03:03:27.2766899+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:33.5601025+00:00",
-  "LastUpdate_Ratings": "2023-08-11T02:10:18.1707994+00:00",
-  "LastUpdate_Achievements": "2023-08-11T02:15:18.7270358+00:00"
+  "LastUpdate_Ratings": "2023-08-11T02:57:51.1884541+00:00",
+  "LastUpdate_Achievements": "2023-08-11T03:03:27.2769008+00:00"
 }
