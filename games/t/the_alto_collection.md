@@ -6,23 +6,23 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 26.00% | ~9,084 |
-| Finding Your Footing | 26.00% | ~9,084 |
-| Nomad | 18.00% | ~6,289 |
-| Picking Up Speed | 16.00% | ~5,590 |
+| Rookie | 26.00% | ~9,085 |
+| Finding Your Footing | 26.00% | ~9,085 |
+| Nomad | 18.00% | ~6,290 |
+| Picking Up Speed | 16.00% | ~5,591 |
 | Welcome Maya | 15.00% | ~5,241 |
-| Sightseer | 11.00% | ~3,843 |
+| Sightseer | 11.00% | ~3,844 |
 | Scout | 10.00% | ~3,494 |
-| Amateur | 9.00% | ~3,144 |
+| Amateur | 9.00% | ~3,145 |
 | Enter Paz | 8.00% | ~2,795 |
 | Wanderer | 8.00% | ~2,795 |
 | Unlock Maya | 7.00% | ~2,446 |
-| Aviator | 6.00% | ~2,096 |
+| Aviator | 6.00% | ~2,097 |
 | My Little Friend | 5.00% | ~1,747 |
 | One With The Board | 5.00% | ~1,747 |
 | Voyager | 5.00% | ~1,747 |
-| Sandboarder | 4.00% | ~1,397 |
-| Izel Has Arrived | 4.00% | ~1,397 |
+| Sandboarder | 4.00% | ~1,398 |
+| Izel Has Arrived | 4.00% | ~1,398 |
 | Junkie | 3.00% | ~1,048 |
 | Traveler | 3.00% | ~1,048 |
 | Journeyer | 3.00% | ~1,048 |
@@ -36,7 +36,7 @@ Number of Ratings: 332  (23.09.2022)
 | Introducing Sumara | 1.00% | ~349 |
 | Vandal | 1.00% | ~349 |
 | Daredevil | 0.90% | ~314 |
-| Unlock Felipe | 0.80% | ~279 |
+| Unlock Felipe | 0.80% | ~280 |
 | Adventurer | 0.70% | ~245 |
 | Unlock Tupa | 0.50% | ~175 |
 | Master Of The Sands | 0.30% | ~105 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~35 |
 | Windswept | 0.10% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 34,937 (Ranked 96)  
+Progressed: 34,942 (Ranked 96)  
 Completed: 5 (0.01%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,7 +159,7 @@ Completed: 5 (0.01%) (Ranked 240)
 | 2023-08-08 | 34,612 | 5 |
 | 2023-08-09 | 34,739 | 5 |
 | 2023-08-10 | 34,864 | 5 |
-| 2023-08-11 | 34,937 | 5 |
+| 2023-08-11 | 34,942 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 46  (Ranked 410)  
 Sum: 359 (Ranked 327)  

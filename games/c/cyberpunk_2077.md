@@ -6,34 +6,34 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 68.00% | ~591,817 |
-| Right Back At Ya | 39.00% | ~339,424 |
-| The Lovers | 35.00% | ~304,612 |
-| Stanislavski's Method | 29.00% | ~252,393 |
-| The Wheel of Fortune | 27.00% | ~234,986 |
-| The Hermit | 25.00% | ~217,580 |
-| Christmas Tree Attack | 23.00% | ~200,173 |
-| True Soldier | 23.00% | ~200,173 |
-| The High Priestess | 22.00% | ~191,470 |
-| Legend of The Afterlife | 22.00% | ~191,470 |
-| Life of the Road | 21.00% | ~182,767 |
-| Full Body Conversion | 18.00% | ~156,657 |
-| The World | 18.00% | ~156,657 |
-| Bushido and Chill | 16.00% | ~139,251 |
-| Gun Fu | 15.00% | ~130,548 |
-| True Warrior | 15.00% | ~130,548 |
-| I Am The Law | 14.00% | ~121,845 |
-| Judy vs Night City | 14.00% | ~121,845 |
-| To Protect and Serve | 13.00% | ~113,141 |
-| Master Crafter | 13.00% | ~113,141 |
-| Two Heads, One Bullet | 12.00% | ~104,438 |
-| The Quick and the Dead | 10.00% | ~87,032 |
-| The Wandering Fool | 9.00% | ~78,329 |
-| Ten out of Ten | 9.00% | ~78,329 |
+| The Fool | 68.00% | ~591,824 |
+| Right Back At Ya | 39.00% | ~339,428 |
+| The Lovers | 35.00% | ~304,615 |
+| Stanislavski's Method | 29.00% | ~252,395 |
+| The Wheel of Fortune | 27.00% | ~234,989 |
+| The Hermit | 25.00% | ~217,582 |
+| Christmas Tree Attack | 23.00% | ~200,176 |
+| True Soldier | 23.00% | ~200,176 |
+| The High Priestess | 22.00% | ~191,472 |
+| Legend of The Afterlife | 22.00% | ~191,472 |
+| Life of the Road | 21.00% | ~182,769 |
+| Full Body Conversion | 18.00% | ~156,659 |
+| The World | 18.00% | ~156,659 |
+| Bushido and Chill | 16.00% | ~139,253 |
+| Gun Fu | 15.00% | ~130,549 |
+| True Warrior | 15.00% | ~130,549 |
+| I Am The Law | 14.00% | ~121,846 |
+| Judy vs Night City | 14.00% | ~121,846 |
+| To Protect and Serve | 13.00% | ~113,143 |
+| Master Crafter | 13.00% | ~113,143 |
+| Two Heads, One Bullet | 12.00% | ~104,439 |
+| The Quick and the Dead | 10.00% | ~87,033 |
+| The Wandering Fool | 9.00% | ~78,330 |
+| Ten out of Ten | 9.00% | ~78,330 |
 | Breathtaking | 8.00% | ~69,626 |
-| The Star | 7.00% | ~60,922 |
-| To Bad Decisions! | 6.00% | ~52,219 |
-| The Sun | 6.00% | ~52,219 |
+| The Star | 7.00% | ~60,923 |
+| To Bad Decisions! | 6.00% | ~52,220 |
+| The Sun | 6.00% | ~52,220 |
 | Must Be Rats | 4.00% | ~34,813 |
 | Temperance | 4.00% | ~34,813 |
 | City Lights | 3.00% | ~26,110 |
@@ -43,15 +43,15 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Jungle | 3.00% | ~26,110 |
 | V for Vendetta | 3.00% | ~26,110 |
 | It's Elementary | 3.00% | ~26,110 |
-| Autojock | 2.00% | ~17,406 |
-| Frequent Flyer | 2.00% | ~17,406 |
-| The Wasteland | 2.00% | ~17,406 |
-| Daemon In The Shell | 2.00% | ~17,406 |
-| The Devil | 2.00% | ~17,406 |
+| Autojock | 2.00% | ~17,407 |
+| Frequent Flyer | 2.00% | ~17,407 |
+| The Wasteland | 2.00% | ~17,407 |
+| Daemon In The Shell | 2.00% | ~17,407 |
+| The Devil | 2.00% | ~17,407 |
 | Gunslinger | 1.00% | ~8,703 |
 | Rough Landing | 0.50% | ~4,352 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 870,319 (Ranked 14)  
+Progressed: 870,329 (Ranked 14)  
 Completed: 1,957 (0.22%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,10 +164,10 @@ Completed: 1,957 (0.22%) (Ranked 175)
 | 2023-08-08 | 869,929 | 1,950 |
 | 2023-08-09 | 870,084 | 1,952 |
 | 2023-08-10 | 870,229 | 1,957 |
-| 2023-08-11 | 870,319 | 1,957 |
+| 2023-08-11 | 870,329 | 1,957 |
 ## Awards
 Max (Character Customization): 75,281  (Ranked 9)  
-Sum: 198,695 (Ranked 13)  
+Sum: 198,710 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
@@ -177,7 +177,7 @@ Diff (max vs sum): -4
 | This game is Great for Beginners | 8,807 |
 | This game has Amazing Storytelling | 8,787 |
 | This game is Extremely Fun | 8,662 |
-| This game is Highly Recommended | 8,627 |
+| This game is Highly Recommended | 8,642 |
 | This game is Relaxing | 8,578 |
 | This game has Quickly Understood Controls | 8,469 |
 | This game has Amazing Characters | 8,460 |
@@ -389,4 +389,4 @@ Diff (max vs sum): -4
 | 2023-08-08 | 4.62 | - | 75,084 | 198,069 |
 | 2023-08-09 | 4.62 | - | 75,151 | 198,278 |
 | 2023-08-10 | 4.62 | - | 75,203 | 198,489 |
-| 2023-08-11 | 4.62 | - | 75,281 | 198,695 |
+| 2023-08-11 | 4.62 | - | 75,281 | 198,710 |

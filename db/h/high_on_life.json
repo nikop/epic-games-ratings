@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 218,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -238,7 +238,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23901,
+  "EOS_Progressed": 23902,
   "EOS_Completed": 12,
   "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 1,
@@ -4148,6 +4148,11 @@
       "Time": "2023-08-11T10:02:59.5869298+00:00",
       "NumProgressed": 23901,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-08-11T16:03:13.2222774+00:00",
+      "NumProgressed": 23902,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 32,
@@ -4167,7 +4172,7 @@
       "Name": "Playing Card To Get",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 7887
+      "UsersEstimate": 7888
     },
     {
       "ID": "ACH_ALL_HUNTCHALS",
@@ -4175,7 +4180,7 @@
       "Name": "Mods Please Ban",
       "Percentage": 77,
       "XP": 60,
-      "UsersEstimate": 18404
+      "UsersEstimate": 18405
     },
     {
       "ID": "ACH_ALL_LUGLOXES",
@@ -4183,7 +4188,7 @@
       "Name": "Luglox Genocide",
       "Percentage": 43,
       "XP": 60,
-      "UsersEstimate": 10277
+      "UsersEstimate": 10278
     },
     {
       "ID": "ACH_APPLEBEES_BILL",
@@ -4199,7 +4204,7 @@
       "Name": "Creature Feature",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 6931
+      "UsersEstimate": 6932
     },
     {
       "ID": "ACH_GET_GUS",
@@ -4207,7 +4212,7 @@
       "Name": "Satisfied Gus-tomer",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 6692
+      "UsersEstimate": 6693
     },
     {
       "ID": "ACH_GET_JETPACK",
@@ -4215,7 +4220,7 @@
       "Name": "Are You Packin\u0027?",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 5975
+      "UsersEstimate": 5976
     },
     {
       "ID": "ACH_GET_KNIFEY",
@@ -4223,7 +4228,7 @@
       "Name": "Bring A Knife to a Gun Fight",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 18165
+      "UsersEstimate": 18166
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -4263,7 +4268,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 19838
+      "UsersEstimate": 19839
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -4295,7 +4300,7 @@
       "Name": "G3 Graduation",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 5975
+      "UsersEstimate": 5976
     },
     {
       "ID": "ACH_KILL_GARM",
@@ -4319,7 +4324,7 @@
       "Name": "Cold-Blooded Driller",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 6692
+      "UsersEstimate": 6693
     },
     {
       "ID": "ACH_KILL_NIPULON",
@@ -4351,7 +4356,7 @@
       "Name": "Don\u0027t Knife The Hand That Feeds",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 7887
+      "UsersEstimate": 7888
     },
     {
       "ID": "ACH_MOPLET_BOSS",
@@ -4414,22 +4419,22 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 23901,
+      "Progressed": 23902,
       "Completed": 12
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1194,
-      "Completed": 1194
+      "Progressed": 1195,
+      "Completed": 1195
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-08-01T02:03:53.4121642+00:00",
-  "LastChanged_Achievements": "2023-08-11T15:02:19.3376722+00:00",
+  "LastChanged_Achievements": "2023-08-11T16:03:13.2222763+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:45.9653672+00:00",
-  "LastUpdate_Ratings": "2023-08-11T14:59:27.1872954+00:00",
-  "LastUpdate_Achievements": "2023-08-11T15:02:19.3377703+00:00"
+  "LastUpdate_Ratings": "2023-08-11T15:59:09.6608052+00:00",
+  "LastUpdate_Achievements": "2023-08-11T16:03:13.2223196+00:00"
 }

@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Fire in the... nevermind | 49.00% | ~49 |
-| Chapter I | 47.00% | ~47 |
+| Chapter I | 48.00% | ~48 |
 | Haute cuisine | 43.00% | ~43 |
 | I didn't do it! | 40.00% | ~40 |
 | Demolition expert | 35.00% | ~35 |

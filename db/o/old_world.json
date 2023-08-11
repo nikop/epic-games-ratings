@@ -1589,7 +1589,7 @@
   ],
   "EOS_Progressed": 13354,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -11756,9 +11756,9 @@
       "ID": "ACHIEVEMENT_SACRED_PROFANE_CLERGY_COURT",
       "SetID": "9201eeb",
       "Name": "The Clergy",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 401
+      "UsersEstimate": 534
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_DEPOSE_TRIBE",
@@ -11820,9 +11820,9 @@
       "ID": "ACHIEVEMENT_SACRED_PROFANE_ST_PAUL",
       "SetID": "9201eeb",
       "Name": "Patriarch St Paul",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 40
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_TUTOR_HYPATIA",
@@ -11858,8 +11858,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-10T19:59:44.7034869+00:00",
-  "LastChanged_Achievements": "2023-08-11T15:04:32.7532461+00:00",
+  "LastChanged_Achievements": "2023-08-11T16:04:30.2176863+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:46.1485999+00:00",
-  "LastUpdate_Ratings": "2023-08-11T14:59:26.3602308+00:00",
-  "LastUpdate_Achievements": "2023-08-11T15:04:32.7541858+00:00"
+  "LastUpdate_Ratings": "2023-08-11T15:59:07.895536+00:00",
+  "LastUpdate_Achievements": "2023-08-11T16:04:30.218424+00:00"
 }

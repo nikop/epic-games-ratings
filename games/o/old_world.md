@@ -6,7 +6,7 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Clergy | 3.00% | ~401 |
+| The Clergy | 4.00% | ~534 |
 | Able | 2.00% | ~267 |
 | Architect | 2.00% | ~267 |
 | Explorer | 2.00% | ~267 |
@@ -143,6 +143,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | All Nations | 0.30% | ~40 |
 | No Undo | 0.30% | ~40 |
 | Pilgrimage | 0.30% | ~40 |
+| Patriarch St Paul | 0.30% | ~40 |
 | Ancient | 0.20% | ~27 |
 | Glorious Difficulty | 0.20% | ~27 |
 | The Eternal Treaty | 0.20% | ~27 |
@@ -162,7 +163,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Siege Tower | 0.20% | ~27 |
 | Conquest Victory | 0.20% | ~27 |
 | Necropolis in Waset | 0.20% | ~27 |
-| Patriarch St Paul | 0.20% | ~27 |
 | Hypatia the Teacher | 0.20% | ~27 |
 | Centenarian | 0.10% | ~13 |
 | Lighthouse in Alexandria | 0.10% | ~13 |

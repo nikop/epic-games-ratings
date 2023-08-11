@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -5536,7 +5536,7 @@
       "Count": 3733
     }
   ],
-  "EOS_Progressed": 134332,
+  "EOS_Progressed": 134334,
   "EOS_Completed": 132,
   "EOS_NewPlayers": 465,
   "EOS_NewCompleters": 4,
@@ -17081,6 +17081,11 @@
       "Time": "2023-08-11T15:05:25.436489+00:00",
       "NumProgressed": 134332,
       "NumCompleted": 132
+    },
+    {
+      "Time": "2023-08-11T16:05:15.2082563+00:00",
+      "NumProgressed": 134334,
+      "NumCompleted": 132
     }
   ],
   "TotalAchievements": 112,
@@ -17226,9 +17231,9 @@
       "ID": "boss01",
       "SetID": "anfd17p",
       "Name": "Bounty Hunters",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 403
+      "UsersEstimate": 537
     },
     {
       "ID": "boss02",
@@ -17987,15 +17992,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 134332,
+      "Progressed": 134334,
       "Completed": 132
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-08-11T01:37:20.4310656+00:00",
-  "LastChanged_Achievements": "2023-08-11T15:05:25.436488+00:00",
+  "LastChanged_Achievements": "2023-08-11T16:05:15.2082558+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:21.2056858+00:00",
-  "LastUpdate_Ratings": "2023-08-11T15:00:00.0861934+00:00",
-  "LastUpdate_Achievements": "2023-08-11T15:05:25.4367049+00:00"
+  "LastUpdate_Ratings": "2023-08-11T15:59:45.2947835+00:00",
+  "LastUpdate_Achievements": "2023-08-11T16:05:15.2084296+00:00"
 }

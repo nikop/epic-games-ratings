@@ -412,9 +412,9 @@
       "ID": "ACHIEVEMENT_26",
       "SetID": "b36c5kb",
       "Name": "DIY",
-      "Percentage": 63,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -627,8 +627,8 @@
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-08-11T15:04:04.9760709+00:00",
+  "LastChanged_Achievements": "2023-08-11T16:04:07.4312458+00:00",
   "LastUpdate_AppInfo": "2023-08-09T15:57:03.4224426+00:00",
-  "LastUpdate_Ratings": "2023-08-11T14:57:34.6420567+00:00",
-  "LastUpdate_Achievements": "2023-08-11T15:04:04.9761198+00:00"
+  "LastUpdate_Ratings": "2023-08-11T15:57:32.6959412+00:00",
+  "LastUpdate_Achievements": "2023-08-11T16:04:07.431286+00:00"
 }

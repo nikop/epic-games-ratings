@@ -20,12 +20,12 @@ Number of Ratings: 12,664  (23.09.2022)
 | Budding Merchant | 0.50% | ~672 |
 | Own the Means of Production | 0.50% | ~672 |
 | The Daily Grind | 0.40% | ~537 |
+| Bounty Hunters | 0.40% | ~537 |
 | One-Armed Bandit | 0.40% | ~537 |
 | Through Repetition, Perfection | 0.40% | ~537 |
 | On the Path to Greatness | 0.30% | ~403 |
 | Ascended | 0.30% | ~403 |
 | Vanity, Verily | 0.30% | ~403 |
-| Bounty Hunters | 0.30% | ~403 |
 | Blank Page Syndrome | 0.30% | ~403 |
 | Demand for Supplies | 0.30% | ~403 |
 | Flooding the Market | 0.30% | ~403 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Economy of Scarce | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,332 (Ranked 66)  
+Progressed: 134,334 (Ranked 66)  
 Completed: 132 (0.10%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,7 +232,7 @@ Completed: 132 (0.10%) (Ranked 201)
 | 2023-08-08 | 134,169 | 131 |
 | 2023-08-09 | 134,223 | 131 |
 | 2023-08-10 | 134,276 | 131 |
-| 2023-08-11 | 134,332 | 132 |
+| 2023-08-11 | 134,334 | 132 |
 ## Awards
 Max (Great for Beginners): 4,694  (Ranked 71)  
 Sum: 27,078 (Ranked 46)  

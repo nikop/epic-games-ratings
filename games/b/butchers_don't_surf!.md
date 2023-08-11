@@ -26,7 +26,7 @@
 | Win All Medals | 0.00% | ~0 |
 | Win the First Medal | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 496)  
+Progressed: 1 (Ranked 497)  
 Completed: 0 (0.00%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |

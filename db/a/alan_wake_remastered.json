@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 197,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 60675,
+  "EOS_Progressed": 60677,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 476,
+  "EOS_NewPlayers": 475,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -10912,6 +10912,11 @@
       "Time": "2023-08-11T15:05:43.3113378+00:00",
       "NumProgressed": 60675,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-11T16:05:29.4470914+00:00",
+      "NumProgressed": 60677,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -10931,7 +10936,7 @@
       "Name": "Nordic Walking",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 13955
+      "UsersEstimate": 13956
     },
     {
       "ID": "03",
@@ -10939,7 +10944,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 13348
+      "UsersEstimate": 13349
     },
     {
       "ID": "04",
@@ -11147,7 +11152,7 @@
       "Name": "Sound and Fury",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 8494
+      "UsersEstimate": 8495
     },
     {
       "ID": "30",
@@ -11163,7 +11168,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9101
+      "UsersEstimate": 9102
     },
     {
       "ID": "32",
@@ -11195,7 +11200,7 @@
       "Name": "Let There Be Light",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 18202
+      "UsersEstimate": 18203
     },
     {
       "ID": "36",
@@ -11243,7 +11248,7 @@
       "Name": "Finders Keepers",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9101
+      "UsersEstimate": 9102
     },
     {
       "ID": "42",
@@ -11283,7 +11288,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 8494
+      "UsersEstimate": 8495
     },
     {
       "ID": "47",
@@ -11323,7 +11328,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1931
+      "UsersEstimate": 1932
     },
     {
       "ID": "52",
@@ -11458,21 +11463,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 60675,
+      "Progressed": 60677,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 24143,
+      "Progressed": 24145,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-11T15:05:43.311337+00:00",
+  "LastChanged_Achievements": "2023-08-11T16:05:29.447091+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:26.4964539+00:00",
-  "LastUpdate_Ratings": "2023-08-11T14:59:05.6861111+00:00",
-  "LastUpdate_Achievements": "2023-08-11T15:05:43.31149+00:00"
+  "LastUpdate_Ratings": "2023-08-11T15:58:52.3701559+00:00",
+  "LastUpdate_Achievements": "2023-08-11T16:05:29.447193+00:00"
 }

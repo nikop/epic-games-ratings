@@ -8,13 +8,13 @@ Number of Ratings: 98  (23.09.2022)
 | ---- | ---------- | ----- |
 | Peak Performance | 55.00% | ~3,636 |
 | Tutti Eroi! | 55.00% | ~3,636 |
-| You Shall Not Pass | 53.00% | ~3,503 |
+| You Shall Not Pass | 53.00% | ~3,504 |
 | Avanti Savoia! | 47.00% | ~3,107 |
 | Mamma Mia! | 38.00% | ~2,512 |
 | Conrad von Hotzensocks | 36.00% | ~2,380 |
-| Gabriele D'Annunzio | 33.00% | ~2,181 |
+| Gabriele D'Annunzio | 33.00% | ~2,182 |
 | Silver Lining | 30.00% | ~1,983 |
-| Aurelio Baruzzi | 23.00% | ~1,520 |
+| Aurelio Baruzzi | 23.00% | ~1,521 |
 | Veni Vidi Vici | 22.00% | ~1,454 |
 | Decimation | 21.00% | ~1,388 |
 | Donatello | 21.00% | ~1,388 |
@@ -23,8 +23,8 @@ Number of Ratings: 98  (23.09.2022)
 | Ragazzi del '99 | 18.00% | ~1,190 |
 | The Lion of the Isonzo | 18.00% | ~1,190 |
 | Luigi Cadorna | 15.00% | ~992 |
-| Dirty Dozen | 14.00% | ~925 |
-| Uomo Universale | 14.00% | ~925 |
+| Dirty Dozen | 14.00% | ~926 |
+| Uomo Universale | 14.00% | ~926 |
 | Machiavelli | 13.00% | ~859 |
 | Shaken, Not Stirred | 13.00% | ~859 |
 | Thus With A Kiss | 13.00% | ~859 |
@@ -38,7 +38,7 @@ Number of Ratings: 98  (23.09.2022)
 | 12th Bottle of the Isonzo | 6.00% | ~397 |
 | Cercatore d'Oro | 6.00% | ~397 |
 | The Enlightment | 6.00% | ~397 |
-| Generalissimo | 5.00% | ~330 |
+| Generalissimo | 5.00% | ~331 |
 | "O La Vittoria, O Tutti Accoppati" | 4.00% | ~264 |
 | Ponte of No Return | 3.00% | ~198 |
 | Seeing Red | 3.00% | ~198 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~26 |
 | Can I Go Home Now? | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,610 (Ranked 134)  
+Progressed: 6,611 (Ranked 134)  
 Completed: 8 (0.12%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,7 +160,7 @@ Completed: 8 (0.12%) (Ranked 194)
 | 2023-08-08 | 6,594 | 8 |
 | 2023-08-09 | 6,597 | 8 |
 | 2023-08-10 | 6,604 | 8 |
-| 2023-08-11 | 6,610 | 8 |
+| 2023-08-11 | 6,611 | 8 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 436)  
 Sum: 266 (Ranked 351)  

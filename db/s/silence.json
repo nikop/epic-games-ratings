@@ -4,7 +4,7 @@
   "ProductSlug": "silence-57bc4e",
   "Ranking_EOS_Progress": 320,
   "Ranking_EOS_Completed": 253,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -237,9 +237,9 @@
       "ID": "1006_achv_chapter1",
       "SetID": "dhn82m5",
       "Name": "Chapter I",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "1006_achv_demoliton",
@@ -478,8 +478,8 @@
   "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.5644296+00:00",
   "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
-  "LastChanged_Achievements": "2023-08-11T15:06:11.5927494+00:00",
+  "LastChanged_Achievements": "2023-08-11T16:05:53.2793539+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:19.4570726+00:00",
-  "LastUpdate_Ratings": "2023-08-11T15:01:09.9303061+00:00",
-  "LastUpdate_Achievements": "2023-08-11T15:06:11.5927872+00:00"
+  "LastUpdate_Ratings": "2023-08-11T16:00:37.0962217+00:00",
+  "LastUpdate_Achievements": "2023-08-11T16:05:53.2793858+00:00"
 }

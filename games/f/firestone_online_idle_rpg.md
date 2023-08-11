@@ -5,14 +5,14 @@ Rating: 4.05 (Ranked 919)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,662 |
-| World Map | 79.00% | ~1,412 |
+| Victor | 93.00% | ~1,663 |
+| World Map | 79.00% | ~1,413 |
 | Temple of Eternals | 56.00% | ~1,001 |
-| Prestigious | 53.00% | ~947 |
+| Prestigious | 53.00% | ~948 |
 | Fellowship Power | 41.00% | ~733 |
 | Guild Power | 25.00% | ~447 |
 | Prestigious x10 | 22.00% | ~393 |
-| The game is on | 20.00% | ~357 |
+| The game is on | 20.00% | ~358 |
 | Exotic Merchant | 19.00% | ~340 |
 | Dragon Clicker | 17.00% | ~304 |
 | Miner Clicker | 17.00% | ~304 |
@@ -26,8 +26,8 @@ Rating: 4.05 (Ranked 919)
 | Natural Talent | 13.00% | ~232 |
 | Superior | 13.00% | ~232 |
 | The Unstoppable | 13.00% | ~232 |
-| Milestone collector | 12.00% | ~214 |
-| Scientist | 12.00% | ~214 |
+| Milestone collector | 12.00% | ~215 |
+| Scientist | 12.00% | ~215 |
 | Doing My Part | 11.00% | ~197 |
 | Hunter | 11.00% | ~197 |
 | Mastery | 11.00% | ~197 |
@@ -57,9 +57,9 @@ Rating: 4.05 (Ranked 919)
 | Background Story | 5.00% | ~89 |
 | Sailor | 5.00% | ~89 |
 | The Alchemist | 5.00% | ~89 |
-| Active Member | 4.00% | ~71 |
-| Arena Challenger | 4.00% | ~71 |
-| Legendary | 4.00% | ~71 |
+| Active Member | 4.00% | ~72 |
+| Arena Challenger | 4.00% | ~72 |
+| Legendary | 4.00% | ~72 |
 | Ebony Jungle Liberator | 3.00% | ~54 |
 | What lies behind the bush | 3.00% | ~54 |
 | Mythic Power | 2.00% | ~36 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 919)
 | Silverwood liberator | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,787 (Ranked 172)  
+Progressed: 1,788 (Ranked 172)  
 Completed: 2 (0.11%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 2 (0.11%) (Ranked 197)
 | 2023-08-08 | 1,778 | 2 |
 | 2023-08-09 | 1,781 | 2 |
 | 2023-08-10 | 1,784 | 2 |
-| 2023-08-11 | 1,787 | 2 |
+| 2023-08-11 | 1,788 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
