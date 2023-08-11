@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2184,
+  "EOS_Progressed": 2185,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 212,
+  "EOS_NewPlayers": 211,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -3921,6 +3921,11 @@
       "Time": "2023-08-11T03:06:34.4104513+00:00",
       "NumProgressed": 2184,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-08-11T04:06:54.5512961+00:00",
+      "NumProgressed": 2185,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 16,
@@ -3964,7 +3969,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 1660
+      "UsersEstimate": 1661
     },
     {
       "ID": "ach_architecture_completed",
@@ -4004,7 +4009,7 @@
       "Name": "Coloring Rookie",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 1769
+      "UsersEstimate": 1770
     },
     {
       "ID": "ach_food_completed",
@@ -4020,7 +4025,7 @@
       "Name": "Food - unlocked",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "ach_game_opened",
@@ -4028,7 +4033,7 @@
       "Name": "Game opened",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 1616
+      "UsersEstimate": 1617
     },
     {
       "ID": "ach_magic_wand",
@@ -4036,7 +4041,7 @@
       "Name": "Magic time",
       "Percentage": 29,
       "XP": 65,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "ach_no_boosters",
@@ -4059,14 +4064,14 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 2184,
+      "Progressed": 2185,
       "Completed": 14
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-08-11T03:06:34.4104506+00:00",
+  "LastChanged_Achievements": "2023-08-11T04:06:54.5512951+00:00",
   "LastUpdate_AppInfo": "2023-08-04T11:57:01.4081798+00:00",
-  "LastUpdate_Ratings": "2023-08-11T02:58:06.1230573+00:00",
-  "LastUpdate_Achievements": "2023-08-11T03:06:34.4104891+00:00"
+  "LastUpdate_Ratings": "2023-08-11T03:58:13.7530776+00:00",
+  "LastUpdate_Achievements": "2023-08-11T04:06:54.5513404+00:00"
 }

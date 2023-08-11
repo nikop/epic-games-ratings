@@ -45,9 +45,9 @@
 | Champion – no way back | 39.00% | ~95 |
 | Underground dwellers | 38.00% | ~92 |
 | Responsible approach | 38.00% | ~92 |
+| Deal with life | 37.00% | ~90 |
 | Poisoned fighter | 37.00% | ~90 |
 | Get out of my apartment! | 37.00% | ~90 |
-| Deal with life | 36.00% | ~87 |
 | Mom got better | 35.00% | ~85 |
 | GYM professional | 35.00% | ~85 |
 | The die is cast | 35.00% | ~85 |
@@ -69,7 +69,7 @@
 | Trap disarmed | 28.00% | ~68 |
 | Silver’s past | 26.00% | ~63 |
 | Better cooking at home | 26.00% | ~63 |
-| The only right decision | 25.00% | ~61 |
+| The only right decision | 26.00% | ~63 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 243 (Ranked 270)  
 Completed: 8 (3.29%) (Ranked 63)  

@@ -745,9 +745,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 34888,
+  "EOS_Progressed": 34891,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 946,
+  "EOS_NewPlayers": 945,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -13035,6 +13035,11 @@
       "Time": "2023-08-11T03:05:19.6323414+00:00",
       "NumProgressed": 34888,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-11T04:05:26.7778493+00:00",
+      "NumProgressed": 34891,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -13086,7 +13091,7 @@
       "Name": "Rookie",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 9071
+      "UsersEstimate": 9072
     },
     {
       "ID": "goals180",
@@ -13158,7 +13163,7 @@
       "Name": "My Little Friend",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1744
+      "UsersEstimate": 1745
     },
     {
       "ID": "nomad",
@@ -13174,7 +13179,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 5582
+      "UsersEstimate": 5583
     },
     {
       "ID": "playerFelipe",
@@ -13238,7 +13243,7 @@
       "Name": "One With The Board",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 1744
+      "UsersEstimate": 1745
     },
     {
       "ID": "proximityFly1000",
@@ -13254,7 +13259,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 9071
+      "UsersEstimate": 9072
     },
     {
       "ID": "sandboarder",
@@ -13310,7 +13315,7 @@
       "Name": "Welcome Maya",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 5233
+      "UsersEstimate": 5234
     },
     {
       "ID": "unlockpaz",
@@ -13334,7 +13339,7 @@
       "Name": "Voyager",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 1744
+      "UsersEstimate": 1745
     },
     {
       "ID": "wanderer",
@@ -13357,15 +13362,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 34888,
+      "Progressed": 34891,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-07-28T06:00:25.7046366+00:00",
-  "LastChanged_Achievements": "2023-08-11T03:05:19.6323406+00:00",
+  "LastChanged_Achievements": "2023-08-11T04:05:26.7778486+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:18.9047127+00:00",
-  "LastUpdate_Ratings": "2023-08-11T03:00:44.0330096+00:00",
-  "LastUpdate_Achievements": "2023-08-11T03:05:19.6325344+00:00"
+  "LastUpdate_Ratings": "2023-08-11T04:01:20.0564331+00:00",
+  "LastUpdate_Achievements": "2023-08-11T04:05:26.7779769+00:00"
 }

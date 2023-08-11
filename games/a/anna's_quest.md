@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escape artist | 81.00% | ~22 |
+| Escape artist | 85.00% | ~23 |
 | Through the woods | 70.00% | ~19 |
 | Book Worm | 70.00% | ~19 |
 | My lost nightingale | 70.00% | ~19 |

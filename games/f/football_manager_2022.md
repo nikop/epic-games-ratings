@@ -9,10 +9,10 @@ Number of Ratings: 19,160  (23.09.2022)
 | Clean Sheet | 50.00% | ~234,890 |
 | He's Signed! | 50.00% | ~234,890 |
 | First Victory | 50.00% | ~234,890 |
-| He's Sold! | 48.00% | ~225,494 |
+| He's Sold! | 48.00% | ~225,495 |
 | I'm The Boss! | 42.00% | ~197,308 |
 | Hat-trick | 41.00% | ~192,610 |
-| Scoring Streak | 38.00% | ~178,516 |
+| Scoring Streak | 38.00% | ~178,517 |
 | Unbeatable! | 37.00% | ~173,819 |
 | Thumping | 37.00% | ~173,819 |
 | Superb Dressing Room Atmosphere | 35.00% | ~164,423 |
@@ -24,7 +24,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Parked The Bus | 29.00% | ~136,236 |
 | Shrewd Spender | 29.00% | ~136,236 |
 | Star Man | 29.00% | ~136,236 |
-| Attack! | 28.00% | ~131,538 |
+| Attack! | 28.00% | ~131,539 |
 | You're On Fire | 26.00% | ~122,143 |
 | On A Roll | 26.00% | ~122,143 |
 | Tremendous Trio | 26.00% | ~122,143 |
@@ -34,8 +34,8 @@ Number of Ratings: 19,160  (23.09.2022)
 | Full Faith | 24.00% | ~112,747 |
 | The Boss | 24.00% | ~112,747 |
 | Armchair Expert | 24.00% | ~112,747 |
-| Iron Curtain | 23.00% | ~108,049 |
-| Goal Machine | 23.00% | ~108,049 |
+| Iron Curtain | 23.00% | ~108,050 |
+| Goal Machine | 23.00% | ~108,050 |
 | What A Goal! | 22.00% | ~103,352 |
 | Top Of The Class | 22.00% | ~103,352 |
 | Cup Glory! | 22.00% | ~103,352 |
@@ -51,8 +51,8 @@ Number of Ratings: 19,160  (23.09.2022)
 | Rushed signing | 15.00% | ~70,467 |
 | Window Shopping | 15.00% | ~70,467 |
 | Eyes and Ears | 14.00% | ~65,769 |
-| Comeback King! | 13.00% | ~61,071 |
-| You're Up! | 13.00% | ~61,071 |
+| Comeback King! | 13.00% | ~61,072 |
+| You're Up! | 13.00% | ~61,072 |
 | Money, Money, Money | 12.00% | ~56,374 |
 | Superb Strike | 10.00% | ~46,978 |
 | Invincible! | 10.00% | ~46,978 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~470 |
 | Shoestring Budget | 0.10% | ~470 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 469,780 (Ranked 36)  
+Progressed: 469,781 (Ranked 36)  
 Completed: 19 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,7 +218,7 @@ Completed: 19 (0.00%) (Ranked 251)
 | 2023-08-08 | 469,569 | 19 |
 | 2023-08-09 | 469,665 | 19 |
 | 2023-08-10 | 469,768 | 19 |
-| 2023-08-11 | 469,780 | 19 |
+| 2023-08-11 | 469,781 | 19 |
 ## Awards
 Max (Relaxing): 6,393  (Ranked 54)  
 Sum: 50,336 (Ranked 24)  

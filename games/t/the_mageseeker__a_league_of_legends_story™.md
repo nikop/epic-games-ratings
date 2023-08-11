@@ -34,15 +34,15 @@ Rating: 4.82 (Ranked 66)
 | Glyndemere | 20.00% | ~502 |
 | Whispers in the Woods II | 17.00% | ~427 |
 | Quickmoore Headquarters | 17.00% | ~427 |
+| Whispers in the Woods III | 16.00% | ~402 |
 | No more holding back | 16.00% | ~402 |
 | Terbisia | 16.00% | ~402 |
-| Whispers in the Woods III | 15.00% | ~377 |
 | Friendly fire | 15.00% | ~377 |
 | True power | 15.00% | ~377 |
 | Meltridge | 15.00% | ~377 |
 | The Central Headquarters | 15.00% | ~377 |
+| Cloven Dell Headquarters | 15.00% | ~377 |
 | My heart and sword always for Demacia | 14.00% | ~352 |
-| Cloven Dell Headquarters | 14.00% | ~352 |
 | Embrace the darkness | 12.00% | ~301 |
 | Whispers in the Woods IV | 12.00% | ~301 |
 | I smell fear | 12.00% | ~301 |

@@ -874,9 +874,9 @@
       "ID": "adriana_sick",
       "SetID": "69co12a",
       "Name": "Deal with life",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 90
     },
     {
       "ID": "airpods",
@@ -1226,9 +1226,9 @@
       "ID": "plug_switch",
       "SetID": "69co12a",
       "Name": "The only right decision",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 63
     },
     {
       "ID": "poisoned_fighter",
@@ -1401,8 +1401,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-08-11T03:04:47.0569507+00:00",
+  "LastChanged_Achievements": "2023-08-11T04:04:48.3758314+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:48.1217165+00:00",
-  "LastUpdate_Ratings": "2023-08-11T02:58:39.969666+00:00",
-  "LastUpdate_Achievements": "2023-08-11T03:04:47.0570788+00:00"
+  "LastUpdate_Ratings": "2023-08-11T03:58:55.3995562+00:00",
+  "LastUpdate_Achievements": "2023-08-11T04:04:48.3759017+00:00"
 }
