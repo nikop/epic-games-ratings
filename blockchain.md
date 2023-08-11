@@ -37,7 +37,7 @@
 | [Gods Unchained](games/7/749a943da8ca4937883c195aea8b2652.md) | 2023-06-22 | - |  | 4.50 | 0 |
 | [Celestia Ultimate](games/3/36af29f8b8b44e0ca129c4e9b4d3f969.md) | 2023-06-03 | - |  | - | 0 |
 | [Knights of Cathena](games/8/8cc5b4b56c84428999f03f3e6ac49481.md) | 2023-05-23 | - |  | - | 0 |
-| [GRIT](games/g/grit.md) | 2023-05-08 | - |  | 4.65 | 0 |
+| [GRIT](games/g/grit.md) | 2023-05-08 | - |  | 4.58 | 0 |
 | [Cards of Ethernity](games/c/cards_of_ethernity.md) | 2023-04-26 | - |  | - | 0 |
 | [Chainmonsters](games/c/chainmonsters.md) | 2023-03-08 | - |  | 3.68 | 0 |
 | [Star Atlas](games/s/star_atlas.md) | 2022-12-31 | - |  | 4.83 | 23 |
