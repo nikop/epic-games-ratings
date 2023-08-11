@@ -123,6 +123,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Redemption | 0.40% | ~53 |
 | Revelation | 0.40% | ~53 |
 | Veneration | 0.40% | ~53 |
+| Kushite Cavalry | 0.40% | ~53 |
 | Ambition Victory | 0.40% | ~53 |
 | Bad Heir Day | 0.30% | ~40 |
 | Ishtar Gate in Babylon | 0.30% | ~40 |
@@ -137,7 +138,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | One True Faith | 0.30% | ~40 |
 | Hittite Paganism | 0.30% | ~40 |
 | Cataphract Archer | 0.30% | ~40 |
-| Kushite Cavalry | 0.30% | ~40 |
 | Turreted Elephant | 0.30% | ~40 |
 | All Nations | 0.30% | ~40 |
 | No Undo | 0.30% | ~40 |
@@ -304,7 +304,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 13,351 (Ranked 117)  
-Completed: 5 (0.04%) (Ranked 220)  
+Completed: 5 (0.04%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

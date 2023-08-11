@@ -14,8 +14,8 @@ Number of Ratings: 36  (23.09.2022)
 | Truly Shocking! | 49.00% | ~426 |
 | Critical Thinker | 35.00% | ~304 |
 | The Weight of the World | 30.00% | ~261 |
+| Always Finding Your Mark | 29.00% | ~252 |
 | Act I Complete | 28.00% | ~244 |
-| Always Finding Your Mark | 28.00% | ~244 |
 | A drop in the Ocean | 28.00% | ~244 |
 | No Niños | 27.00% | ~235 |
 | I ain’t afraid of no Ghost | 24.00% | ~209 |
@@ -35,7 +35,7 @@ Number of Ratings: 36  (23.09.2022)
 | Gecko Go(al) Getter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 870 (Ranked 201)  
-Completed: 0 (0.00%) (Ranked 251)  
+Completed: 0 (0.00%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

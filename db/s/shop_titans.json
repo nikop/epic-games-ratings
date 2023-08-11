@@ -6,7 +6,7 @@
   "Ranking_Popularity": 71,
   "Ranking_PopularitySum": 46,
   "Ranking_EOS_Progress": 66,
-  "Ranking_EOS_Completed": 199,
+  "Ranking_EOS_Completed": 200,
   "Ranking_EOS_NewPlayers": 82,
   "Ranking_EOS_NewCompleters": 39,
   "Store": {
@@ -5536,9 +5536,9 @@
       "Count": 3733
     }
   ],
-  "EOS_Progressed": 134298,
+  "EOS_Progressed": 134302,
   "EOS_Completed": 131,
-  "EOS_NewPlayers": 464,
+  "EOS_NewPlayers": 460,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -17046,6 +17046,11 @@
       "Time": "2023-08-11T08:04:41.9278777+00:00",
       "NumProgressed": 134298,
       "NumCompleted": 131
+    },
+    {
+      "Time": "2023-08-11T09:05:54.6159674+00:00",
+      "NumProgressed": 134302,
+      "NumCompleted": 131
     }
   ],
   "TotalAchievements": 112,
@@ -17095,9 +17100,9 @@
       "ID": "argon_a",
       "SetID": "anfd17p",
       "Name": "Proud Paladin",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 269
     },
     {
       "ID": "ascend01",
@@ -17137,7 +17142,7 @@
       "Name": "One Easy Payment",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "bigsale02",
@@ -17161,7 +17166,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "blueprint02",
@@ -17409,7 +17414,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "energy02",
@@ -17537,7 +17542,7 @@
       "Name": "Pretty Penny",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "gold03",
@@ -17631,9 +17636,9 @@
       "ID": "legenchant01",
       "SetID": "anfd17p",
       "Name": "Item of Renown",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 269
     },
     {
       "ID": "level01",
@@ -17641,7 +17646,7 @@
       "Name": "Budding Merchant",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "level02",
@@ -17799,9 +17804,9 @@
       "ID": "rareres01",
       "SetID": "anfd17p",
       "Name": "Glittering Collection",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 269
     },
     {
       "ID": "rareres02",
@@ -17921,7 +17926,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "workers02",
@@ -17952,15 +17957,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 134298,
+      "Progressed": 134302,
       "Completed": 131
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-08-11T01:37:20.4310656+00:00",
-  "LastChanged_Achievements": "2023-08-11T08:04:41.9278772+00:00",
+  "LastChanged_Achievements": "2023-08-11T09:05:54.6159669+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:21.2056858+00:00",
-  "LastUpdate_Ratings": "2023-08-11T07:59:16.406128+00:00",
-  "LastUpdate_Achievements": "2023-08-11T08:04:41.9281105+00:00"
+  "LastUpdate_Ratings": "2023-08-11T09:00:25.7493996+00:00",
+  "LastUpdate_Achievements": "2023-08-11T09:05:54.616256+00:00"
 }

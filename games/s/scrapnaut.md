@@ -10,8 +10,8 @@ Number of Ratings: 38  (23.09.2022)
 | Scrap Gatherer | 59.00% | ~201 |
 | Mushroom Picker | 57.00% | ~194 |
 | Scrapper | 49.00% | ~167 |
+| Cook | 44.00% | ~150 |
 | Teleport | 44.00% | ~150 |
-| Cook | 43.00% | ~147 |
 | Scrap Master | 40.00% | ~136 |
 | Smelter | 37.00% | ~126 |
 | Electro-Scrap Gatherer | 35.00% | ~119 |
@@ -39,7 +39,7 @@ Number of Ratings: 38  (23.09.2022)
 | Invincible | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 341 (Ranked 249)  
-Completed: 1 (0.29%) (Ranked 164)  
+Completed: 1 (0.29%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

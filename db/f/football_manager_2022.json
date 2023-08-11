@@ -6,9 +6,9 @@
   "Ranking_Popularity": 54,
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 36,
-  "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 61,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_Completed": 252,
+  "Ranking_EOS_NewPlayers": 62,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -6461,9 +6461,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 469786,
+  "EOS_Progressed": 469787,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 730,
+  "EOS_NewPlayers": 728,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18256,6 +18256,11 @@
       "Time": "2023-08-11T08:05:57.0710029+00:00",
       "NumProgressed": 469786,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-08-11T09:07:10.9435005+00:00",
+      "NumProgressed": 469787,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 98,
@@ -18283,7 +18288,7 @@
       "Name": "You\u0027re On Fire",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 122144
+      "UsersEstimate": 122145
     },
     {
       "ID": "achievement_10_matches_without_losing",
@@ -18323,7 +18328,7 @@
       "Name": "On A Roll",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 122144
+      "UsersEstimate": 122145
     },
     {
       "ID": "achievement_20_seasons_at_one_club",
@@ -18355,7 +18360,7 @@
       "Name": "Tremendous Trio",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 122144
+      "UsersEstimate": 122145
     },
     {
       "ID": "achievement_5_clean_sheets_in_a_row",
@@ -18451,7 +18456,7 @@
       "Name": "Clean Sheet",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 234893
+      "UsersEstimate": 234894
     },
     {
       "ID": "achievement_club_world_cup",
@@ -18467,7 +18472,7 @@
       "Name": "Do The Double",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 89259
+      "UsersEstimate": 89260
     },
     {
       "ID": "achievement_dont_concede_a_goal_for_10_consecutive_matches",
@@ -18499,7 +18504,7 @@
       "Name": "I\u0027m The Boss!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 197310
+      "UsersEstimate": 197311
     },
     {
       "ID": "achievement_full_board_confidence",
@@ -18587,7 +18592,7 @@
       "Name": "Hat-trick",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 192612
+      "UsersEstimate": 192613
     },
     {
       "ID": "achievement_head_to_head",
@@ -18659,7 +18664,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 122144
+      "UsersEstimate": 122145
     },
     {
       "ID": "achievement_mr_delegator",
@@ -18763,7 +18768,7 @@
       "Name": "Record Sale",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 122144
+      "UsersEstimate": 122145
     },
     {
       "ID": "achievement_record_signing",
@@ -18811,7 +18816,7 @@
       "Name": "He\u0027s Sold!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 225497
+      "UsersEstimate": 225498
     },
     {
       "ID": "achievement_signed_a_player",
@@ -18819,7 +18824,7 @@
       "Name": "He\u0027s Signed!",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 234893
+      "UsersEstimate": 234894
     },
     {
       "ID": "achievement_top_goalscorer_in_league",
@@ -18899,7 +18904,7 @@
       "Name": "First Victory",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 234893
+      "UsersEstimate": 234894
     },
     {
       "ID": "achievement_won_domestic_cup",
@@ -19050,15 +19055,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 469786,
+      "Progressed": 469787,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-08-11T02:09:45.089234+00:00",
-  "LastChanged_Achievements": "2023-08-11T08:05:57.0710022+00:00",
+  "LastChanged_Achievements": "2023-08-11T09:07:10.9434998+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:58:24.6594815+00:00",
-  "LastUpdate_Ratings": "2023-08-11T07:57:08.6537315+00:00",
-  "LastUpdate_Achievements": "2023-08-11T08:05:57.0712055+00:00"
+  "LastUpdate_Ratings": "2023-08-11T08:57:22.3964062+00:00",
+  "LastUpdate_Achievements": "2023-08-11T09:07:10.943808+00:00"
 }

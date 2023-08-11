@@ -26,13 +26,13 @@ Number of Ratings: 177  (23.09.2022)
 | Amy: Scavenger Hunt | 0.50% | ~30 |
 | Casanova | 0.50% | ~30 |
 | It Smells Like Roses | 0.50% | ~15 |
+| Now It's a Party! | 0.50% | ~30 |
 | The Crush | 0.50% | ~30 |
 | The Magic Number | 0.50% | ~30 |
 | Vickie | 0.50% | ~30 |
 | Benedict Brahrnold | 0.40% | ~24 |
 | I'll Be Back | 0.40% | ~24 |
 | Love Conquers All | 0.40% | ~24 |
-| Now It's a Party! | 0.40% | ~24 |
 | Stephanie | 0.40% | ~24 |
 | Te Amo Lety | 0.40% | ~24 |
 | Ashley | 0.30% | ~18 |
@@ -77,7 +77,7 @@ Number of Ratings: 177  (23.09.2022)
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 6,050 (Ranked 136)  
-Completed: 3 (0.05%) (Ranked 216)  
+Completed: 3 (0.05%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -4,6 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| It's covered up for a reason | 33.00% | ~1 |
+| Something important | 33.00% | ~1 |
 | A new way | 0.00% | ~0 |
 | Another perspective | 0.00% | ~0 |
 | The Big Picture | 0.00% | ~0 |
@@ -14,7 +16,6 @@
 | We Are Not Alone | 0.00% | ~0 |
 | Body of Work | 0.00% | ~0 |
 | Dark correspondence | 0.00% | ~0 |
-| It's covered up for a reason | 0.00% | ~0 |
 | You Can’t Handle the Truth | 0.00% | ~0 |
 | It was worth a try | 0.00% | ~0 |
 | Refuse to look | 0.00% | ~0 |
@@ -46,7 +47,6 @@
 | The Tree and the Apple | 0.00% | ~0 |
 | Instinct of self-preservation | 0.00% | ~0 |
 | Sign of weakness | 0.00% | ~0 |
-| Something important | 0.00% | ~0 |
 | Fisherman | 0.00% | ~0 |
 | Sword of the Serpent | 0.00% | ~0 |
 | The art of movement | 0.00% | ~0 |
@@ -57,10 +57,11 @@
 | Wanderer | 0.00% | ~0 |
 | Whispers long forgotten | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2 (Ranked 475)  
-Completed: 0 (0.00%) (Ranked 251)  
+Progressed: 3 (Ranked 468)  
+Completed: 0 (0.00%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-08-02 | 1 | 0 |
 | 2023-08-03 | 2 | 0 |
+| 2023-08-11 | 3 | 0 |

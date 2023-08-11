@@ -13,7 +13,7 @@
 | Creator of Civilization | 39.00% | ~90 |
 | Creator of Technology | 24.00% | ~55 |
 | Honorable Santa | 23.00% | ~53 |
-| God of Fun | 17.00% | ~39 |
+| God of Fun | 18.00% | ~42 |
 | Doodle Bar | 17.00% | ~39 |
 | Creator of Modernity | 16.00% | ~37 |
 | Half the Kingdom | 16.00% | ~37 |
@@ -28,7 +28,7 @@
 | God of Patience | 3.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 231 (Ranked 275)  
-Completed: 8 (3.46%) (Ranked 60)  
+Completed: 8 (3.46%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -55,7 +55,7 @@ Rating: 3.93 (Ranked 941)
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,489 (Ranked 179)  
-Completed: 0 (0.00%) (Ranked 251)  
+Completed: 0 (0.00%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

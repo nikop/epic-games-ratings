@@ -6,9 +6,9 @@
   "Ranking_Popularity": 387,
   "Ranking_PopularitySum": 307,
   "Ranking_EOS_Progress": 126,
-  "Ranking_EOS_Completed": 251,
+  "Ranking_EOS_Completed": 252,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-07-05T16:00:00+00:00",
     "PcReleaseDate": "2021-07-08T21:30:00+00:00",
@@ -769,9 +769,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 8478,
+  "EOS_Progressed": 8479,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7444,6 +7444,11 @@
       "Time": "2023-08-11T08:06:55.1699674+00:00",
       "NumProgressed": 8478,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-11T09:08:31.877828+00:00",
+      "NumProgressed": 8479,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -7455,7 +7460,7 @@
       "Name": "Adventure Time",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 6782
+      "UsersEstimate": 6783
     },
     {
       "ID": "ACH_BOOTY_BASHING",
@@ -7463,7 +7468,7 @@
       "Name": "Booty Bashing",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 3391
+      "UsersEstimate": 3392
     },
     {
       "ID": "ACH_BOSS_OF_BOSSES",
@@ -7487,7 +7492,7 @@
       "Name": "Coup d\u0027Etat",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 5002
+      "UsersEstimate": 5003
     },
     {
       "ID": "ACH_EVENT_HORIZON",
@@ -7599,7 +7604,7 @@
       "Name": "Let\u0027s Get This Party Started",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 7715
+      "UsersEstimate": 7716
     },
     {
       "ID": "ACH_LIGHT_MY_FIRE",
@@ -7623,7 +7628,7 @@
       "Name": "Meching Enemies",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 4154
+      "UsersEstimate": 4155
     },
     {
       "ID": "ACH_NATURE_IS_LIT",
@@ -7655,7 +7660,7 @@
       "Name": "Photogenic",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 7461
+      "UsersEstimate": 7462
     },
     {
       "ID": "ACH_PLAYING_WITH_POWER",
@@ -7663,7 +7668,7 @@
       "Name": "Playing With Power",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 6528
+      "UsersEstimate": 6529
     },
     {
       "ID": "ACH_PLUG_IT_IN",
@@ -7759,7 +7764,7 @@
       "Name": "Surge Gauntlet Jockey",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 7206
+      "UsersEstimate": 7207
     },
     {
       "ID": "ACH_SURGE_GAUNTLET_SCHOLAR",
@@ -7815,7 +7820,7 @@
       "Name": "Ticket Titan",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     },
     {
       "ID": "ACH_TICKET_TODDLER",
@@ -7823,7 +7828,7 @@
       "Name": "Ticket Toddler",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 3730
+      "UsersEstimate": 3731
     },
     {
       "ID": "ACH_TO_BE_CONTINUED",
@@ -7847,22 +7852,22 @@
       "Name": "You\u0027re Fired",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 4917
+      "UsersEstimate": 4918
     }
   ],
   "AchievementSets": [
     {
       "ID": "97mcd7i",
       "IsBase": true,
-      "Progressed": 8478,
+      "Progressed": 8479,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-08-10T23:00:05.2931332+00:00",
-  "LastChanged_Achievements": "2023-08-11T08:06:55.1699668+00:00",
+  "LastChanged_Achievements": "2023-08-11T09:08:31.8778271+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:18.4293252+00:00",
-  "LastUpdate_Ratings": "2023-08-11T07:59:14.1843572+00:00",
-  "LastUpdate_Achievements": "2023-08-11T08:06:55.1700554+00:00"
+  "LastUpdate_Ratings": "2023-08-11T09:00:21.1148961+00:00",
+  "LastUpdate_Achievements": "2023-08-11T09:08:31.8779627+00:00"
 }

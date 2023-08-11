@@ -3,9 +3,9 @@
   "Name": "Skye Tales",
   "ProductSlug": "skye-tales-02bf5b",
   "Ranking_EOS_Progress": 468,
-  "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 356,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_Completed": 252,
+  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -55,9 +55,9 @@
       "ID": "Allergies?",
       "SetID": "dene75h",
       "Name": "Allergies?",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Backup Band",
@@ -79,9 +79,9 @@
       "ID": "Beat our QA",
       "SetID": "dene75h",
       "Name": "Beat our QA",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Beat our QA again",
@@ -95,9 +95,9 @@
       "ID": "Buckets and Bouquets",
       "SetID": "dene75h",
       "Name": "Buckets and Bouquets",
-      "Percentage": 33,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Concerted Effort",
@@ -159,17 +159,17 @@
       "ID": "Fruit Salad",
       "SetID": "dene75h",
       "Name": "Fruit Salad",
-      "Percentage": 33,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Grand Circus",
       "SetID": "dene75h",
       "Name": "Grand Circus",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Gummed Up",
@@ -199,9 +199,9 @@
       "ID": "Hoppy Lil\u0027 Guys",
       "SetID": "dene75h",
       "Name": "Hoppy Lil\u0027 Guys",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Light It Up!",
@@ -247,9 +247,9 @@
       "ID": "One Dragon Band",
       "SetID": "dene75h",
       "Name": "One Dragon Band",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Perfect Recall",
@@ -311,9 +311,9 @@
       "ID": "Sharp Dressed Dragon",
       "SetID": "dene75h",
       "Name": "Sharp Dressed Dragon",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "She Shells Sea Sells",
@@ -373,8 +373,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-21T10:01:39.9967766+00:00",
-  "LastChanged_Achievements": "2023-08-11T08:03:54.4415653+00:00",
+  "LastChanged_Achievements": "2023-08-11T09:04:49.3480933+00:00",
   "LastUpdate_AppInfo": "2023-08-04T11:57:00.8363685+00:00",
-  "LastUpdate_Ratings": "2023-08-11T07:57:29.8628673+00:00",
-  "LastUpdate_Achievements": "2023-08-11T08:03:54.4415991+00:00"
+  "LastUpdate_Ratings": "2023-08-11T08:57:51.8240693+00:00",
+  "LastUpdate_Achievements": "2023-08-11T09:04:49.3481314+00:00"
 }

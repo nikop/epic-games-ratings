@@ -6,9 +6,9 @@
   "Ranking_Popularity": 47,
   "Ranking_PopularitySum": 56,
   "Ranking_EOS_Progress": 69,
-  "Ranking_EOS_Completed": 251,
+  "Ranking_EOS_Completed": 252,
   "Ranking_EOS_NewPlayers": 60,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -6771,9 +6771,9 @@
       "Count": 908
     }
   ],
-  "EOS_Progressed": 114178,
+  "EOS_Progressed": 114179,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 756,
+  "EOS_NewPlayers": 757,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17631,6 +17631,11 @@
       "Time": "2023-08-11T08:03:38.8519629+00:00",
       "NumProgressed": 114178,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-11T09:04:27.4429079+00:00",
+      "NumProgressed": 114179,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 65,
@@ -17674,7 +17679,7 @@
       "Name": "Resurrection",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 70790
+      "UsersEstimate": 70791
     },
     {
       "ID": "altar_of_hope_unlock_hero_hellion",
@@ -17682,7 +17687,7 @@
       "Name": "Unleash Hell",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 77641
+      "UsersEstimate": 77642
     },
     {
       "ID": "altar_of_hope_unlock_hero_jester",
@@ -17690,7 +17695,7 @@
       "Name": "Funny Guy",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 76499
+      "UsersEstimate": 76500
     },
     {
       "ID": "altar_of_hope_unlock_hero_leper",
@@ -17698,7 +17703,7 @@
       "Name": "Long Live the King",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 75357
+      "UsersEstimate": 75358
     },
     {
       "ID": "altar_of_hope_unlock_hero_occultist",
@@ -17706,7 +17711,7 @@
       "Name": "Wyrdly Reconstructed",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 70790
+      "UsersEstimate": 70791
     },
     {
       "ID": "altar_of_hope_unlock_hero_runaway",
@@ -17722,7 +17727,7 @@
       "Name": "Unfulfilled Desires",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 77641
+      "UsersEstimate": 77642
     },
     {
       "ID": "altar_of_hope_upgrade_total_full",
@@ -17746,7 +17751,7 @@
       "Name": "Hope Rekindled",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 57089
+      "UsersEstimate": 57090
     },
     {
       "ID": "application_start_on_release_anniversary",
@@ -17770,7 +17775,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 18268
+      "UsersEstimate": 18269
     },
     {
       "ID": "combat_kill_cadavers",
@@ -17778,7 +17783,7 @@
       "Name": "Dissector",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 18268
+      "UsersEstimate": 18269
     },
     {
       "ID": "combat_kill_cosmic",
@@ -17786,7 +17791,7 @@
       "Name": "Banishment",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 34253
+      "UsersEstimate": 34254
     },
     {
       "ID": "combat_kill_death",
@@ -17930,7 +17935,7 @@
       "Name": "Spelunker",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 23977
+      "UsersEstimate": 23978
     },
     {
       "ID": "driving_biome_clear_city",
@@ -17946,7 +17951,7 @@
       "Name": "Merry Time",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 39962
+      "UsersEstimate": 39963
     },
     {
       "ID": "driving_biome_clear_farm",
@@ -17970,7 +17975,7 @@
       "Name": "Ramble On",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 54805
+      "UsersEstimate": 54806
     },
     {
       "ID": "driving_distance_hard",
@@ -18010,7 +18015,7 @@
       "Name": "A Clear Conscience",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 78783
+      "UsersEstimate": 78784
     },
     {
       "ID": "hoarder_buy_epic_trinket",
@@ -18098,7 +18103,7 @@
       "Name": "Unshackled",
       "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 76499
+      "UsersEstimate": 76500
     },
     {
       "ID": "run_victory_act02",
@@ -18154,22 +18159,22 @@
       "Name": "Road Trip",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 23977
+      "UsersEstimate": 23978
     }
   ],
   "AchievementSets": [
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 114178,
+      "Progressed": 114179,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-08-11T03:01:30.6493842+00:00",
-  "LastChanged_Achievements": "2023-08-11T08:03:38.8519624+00:00",
+  "LastChanged_Achievements": "2023-08-11T09:04:27.4429073+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:59.9432411+00:00",
-  "LastUpdate_Ratings": "2023-08-11T08:00:37.7926025+00:00",
-  "LastUpdate_Achievements": "2023-08-11T08:03:38.8520966+00:00"
+  "LastUpdate_Ratings": "2023-08-11T09:02:23.7451645+00:00",
+  "LastUpdate_Achievements": "2023-08-11T09:04:27.4430668+00:00"
 }

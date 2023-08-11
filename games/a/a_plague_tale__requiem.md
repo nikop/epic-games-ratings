@@ -14,7 +14,7 @@ Rating: 4.73 (Ranked 160)
 | Leaving all Behind | 64.00% | ~8,136 |
 | Felons | 61.00% | ~7,755 |
 | A Sea of Promises | 60.00% | ~7,628 |
-| Tales and Revelations | 56.00% | ~7,119 |
+| Tales and Revelations | 57.00% | ~7,246 |
 | Bloodline | 52.00% | ~6,611 |
 | The Cradle of Centuries | 48.00% | ~6,102 |
 | The Life We Deserve | 45.00% | ~5,721 |
@@ -42,7 +42,7 @@ Rating: 4.73 (Ranked 160)
 | Malignant | 1.00% | ~127 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 12,713 (Ranked 118)  
-Completed: 42 (0.33%) (Ranked 156)  
+Completed: 42 (0.33%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

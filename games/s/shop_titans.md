@@ -13,12 +13,12 @@ Number of Ratings: 12,664  (23.09.2022)
 | Disintermediation | 0.60% | ~806 |
 | It's Free Real Estate | 0.60% | ~806 |
 | Capitalism Ho! | 0.60% | ~806 |
-| One Easy Payment | 0.50% | ~671 |
-| Some Assembly Required | 0.50% | ~671 |
-| Another Satisfied Customer | 0.50% | ~671 |
-| Pretty Penny | 0.50% | ~671 |
-| Budding Merchant | 0.50% | ~671 |
-| Own the Means of Production | 0.50% | ~671 |
+| One Easy Payment | 0.50% | ~672 |
+| Some Assembly Required | 0.50% | ~672 |
+| Another Satisfied Customer | 0.50% | ~672 |
+| Pretty Penny | 0.50% | ~672 |
+| Budding Merchant | 0.50% | ~672 |
+| Own the Means of Production | 0.50% | ~672 |
 | One-Armed Bandit | 0.40% | ~537 |
 | Through Repetition, Perfection | 0.40% | ~537 |
 | The Daily Grind | 0.30% | ~403 |
@@ -38,6 +38,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Arcane Industries | 0.30% | ~403 |
 | A Notch Above the Rest | 0.20% | ~269 |
 | Cream of the Crop | 0.20% | ~269 |
+| Proud Paladin | 0.20% | ~269 |
 | Above the Norm | 0.20% | ~269 |
 | Tax not Included | 0.20% | ~269 |
 | The King's Caprice | 0.20% | ~269 |
@@ -65,11 +66,13 @@ Number of Ratings: 12,664  (23.09.2022)
 | Wealth Beyond Measure | 0.20% | ~269 |
 | Helping Hand | 0.20% | ~269 |
 | Fat Cat Tag Team | 0.20% | ~269 |
+| Item of Renown | 0.20% | ~269 |
 | Master Merchant | 0.20% | ~269 |
 | Laden with Loot | 0.20% | ~269 |
 | Natural 20 | 0.20% | ~269 |
 | Seasoned Journeyman | 0.20% | ~269 |
 | Attrition Mission | 0.20% | ~269 |
+| Glittering Collection | 0.20% | ~269 |
 | Black Friday Special | 0.20% | ~269 |
 | King's Shadow | 0.20% | ~269 |
 | Magical Harmony | 0.20% | ~269 |
@@ -77,7 +80,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Exotic Commodities | 0.20% | ~269 |
 | Complete Monopoly | 0.20% | ~269 |
 | Top of the World | 0.10% | ~134 |
-| Proud Paladin | 0.10% | ~134 |
 | Constellated | 0.10% | ~134 |
 | A Ronin Reborn | 0.10% | ~134 |
 | Thirst for Knowledge | 0.10% | ~134 |
@@ -98,7 +100,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Necromancer Queen | 0.10% | ~134 |
 | Jackpot! | 0.10% | ~134 |
 | JACKPOT!!! | 0.10% | ~134 |
-| Item of Renown | 0.10% | ~134 |
 | Merchant Extraordinaire | 0.10% | ~134 |
 | Miracle Alchemist | 0.10% | ~134 |
 | Bountiful Harvest | 0.10% | ~134 |
@@ -109,7 +110,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Scourge of the Seas | 0.10% | ~134 |
 | Eternal Crusade | 0.10% | ~134 |
 | To Hell and Back | 0.10% | ~134 |
-| Glittering Collection | 0.10% | ~134 |
 | Treasure Trove | 0.10% | ~134 |
 | Marvels from the World Over | 0.10% | ~134 |
 | Moment of Respite | 0.10% | ~134 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Economy of Scarce | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,298 (Ranked 66)  
-Completed: 131 (0.10%) (Ranked 199)  
+Progressed: 134,302 (Ranked 66)  
+Completed: 131 (0.10%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -232,7 +232,7 @@ Completed: 131 (0.10%) (Ranked 199)
 | 2023-08-08 | 134,169 | 131 |
 | 2023-08-09 | 134,223 | 131 |
 | 2023-08-10 | 134,276 | 131 |
-| 2023-08-11 | 134,298 | 131 |
+| 2023-08-11 | 134,302 | 131 |
 ## Awards
 Max (Great for Beginners): 4,694  (Ranked 71)  
 Sum: 27,078 (Ranked 46)  

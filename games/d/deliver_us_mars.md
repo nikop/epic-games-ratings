@@ -39,8 +39,8 @@ Rating: 4.22 (Ranked 841)
 | The Gang | 0.00% | ~0 |
 | Who waits five minutes, seriously? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5 (Ranked 456)  
-Completed: 0 (0.00%) (Ranked 251)  
+Progressed: 5 (Ranked 457)  
+Completed: 0 (0.00%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

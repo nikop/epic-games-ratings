@@ -6,9 +6,9 @@
   "Ranking_Popularity": 251,
   "Ranking_PopularitySum": 350,
   "Ranking_EOS_Progress": 119,
-  "Ranking_EOS_Completed": 162,
+  "Ranking_EOS_Completed": 163,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -676,9 +676,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 11928,
+  "EOS_Progressed": 11929,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 116,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -8766,6 +8766,11 @@
       "Time": "2023-08-11T07:03:38.0124775+00:00",
       "NumProgressed": 11928,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-08-11T09:03:48.3616698+00:00",
+      "NumProgressed": 11929,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 35,
@@ -8825,7 +8830,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 2266
+      "UsersEstimate": 2267
     },
     {
       "ID": "ACH08",
@@ -8897,7 +8902,7 @@
       "Name": "Smooth Moves",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1908
+      "UsersEstimate": 1909
     },
     {
       "ID": "ACH17",
@@ -9033,7 +9038,7 @@
       "Name": "Remastered",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACH34",
@@ -9056,7 +9061,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11928,
+      "Progressed": 11929,
       "Completed": 36
     }
   ],
@@ -9064,8 +9069,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-08-10T06:57:09.3203742+00:00",
-  "LastChanged_Achievements": "2023-08-11T08:03:18.3382778+00:00",
+  "LastChanged_Achievements": "2023-08-11T09:03:48.3616692+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:58:17.9546727+00:00",
-  "LastUpdate_Ratings": "2023-08-11T07:57:02.8176688+00:00",
-  "LastUpdate_Achievements": "2023-08-11T08:03:18.3383588+00:00"
+  "LastUpdate_Ratings": "2023-08-11T08:57:12.6641912+00:00",
+  "LastUpdate_Achievements": "2023-08-11T09:03:48.3617643+00:00"
 }
