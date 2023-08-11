@@ -39,7 +39,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Tiger on Fire | 0.70% | ~4,986 |
 | Source of Flying Daggers | 0.70% | ~4,986 |
 | Iron Money | 0.70% | ~4,986 |
-| A Touch of Acumen | 0.70% | ~151 |
+| A Touch of Acumen | 0.70% | ~152 |
 | Legendary Talismans of Wuxing | 0.60% | ~4,274 |
 | The 36th Chamber of Kung-Fu | 0.60% | ~4,274 |
 | Sword Stained With Blood | 0.60% | ~4,274 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,425 |
 | Warriors from the Mountain | 0.10% | ~712 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 712,341 (Ranked 20)  
+Progressed: 712,344 (Ranked 20)  
 Completed: 12,852 (1.80%) (Ranked 93)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,14 +170,14 @@ Completed: 12,852 (1.80%) (Ranked 93)
 | 2023-08-08 | 712,292 | 12,848 |
 | 2023-08-09 | 712,304 | 12,850 |
 | 2023-08-10 | 712,332 | 12,851 |
-| 2023-08-11 | 712,341 | 12,852 |
+| 2023-08-11 | 712,344 | 12,852 |
 ## Awards
-Max (Great Boss Battles): 6,356  (Ranked 55)  
-Sum: 10,912 (Ranked 82)  
+Max (Great Boss Battles): 6,361  (Ranked 55)  
+Sum: 10,917 (Ranked 82)  
 Diff (max vs sum): -27  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 6,356 |
+| This game has Great Boss Battles | 6,361 |
 | This game has Diverse Characters | 567 |
 | This game has Challenging Combat | 539 |
 | This game has Quickly Understood Controls | 534 |
@@ -398,3 +398,4 @@ Diff (max vs sum): -27
 | 2023-08-08 | 4.82 | - | 6,354 | 10,906 |
 | 2023-08-09 | 4.82 | - | 6,354 | 10,908 |
 | 2023-08-10 | 4.82 | - | 6,356 | 10,912 |
+| 2023-08-11 | 4.82 | - | 6,361 | 10,917 |

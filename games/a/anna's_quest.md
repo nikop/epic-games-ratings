@@ -15,12 +15,12 @@
 | So soothing... | 59.00% | ~16 |
 | NOW GO AWAY! | 59.00% | ~16 |
 | Honey, honey, honey… | 56.00% | ~15 |
+| Fussy eater | 56.00% | ~15 |
 | Far away from home | 56.00% | ~15 |
 | Kekekeke... | 56.00% | ~15 |
 | Sorry Grandpa | 56.00% | ~15 |
 | Game Over! | 52.00% | ~14 |
 | A very special drink | 52.00% | ~14 |
-| Fussy eater | 52.00% | ~14 |
 | Close the deal | 48.00% | ~13 |
 | Show me your true self | 48.00% | ~13 |
 | GG | 44.00% | ~12 |
@@ -44,8 +44,8 @@
 | Clever reference #451 | 22.00% | ~6 |
 | Posterboy! | 22.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27 (Ranked 392)  
-Completed: 5 (18.52%) (Ranked 11)  
+Progressed: 27 (Ranked 393)  
+Completed: 5 (18.52%) (Ranked 12)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

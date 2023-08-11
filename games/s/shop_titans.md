@@ -33,6 +33,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Efficient Floor Space | 0.30% | ~403 |
 | Gem Expert | 0.30% | ~403 |
 | Gild-Gotten Goods | 0.30% | ~403 |
+| Helping Hand | 0.30% | ~403 |
 | Accomplished Merchant | 0.30% | ~403 |
 | Dungeon Imports | 0.30% | ~403 |
 | Did we pack lunch? | 0.30% | ~403 |
@@ -64,7 +65,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Royal Ransom | 0.20% | ~269 |
 | Mammonite | 0.20% | ~269 |
 | Wealth Beyond Measure | 0.20% | ~269 |
-| Helping Hand | 0.20% | ~269 |
 | Fat Cat Tag Team | 0.20% | ~269 |
 | Item of Renown | 0.20% | ~269 |
 | Master Merchant | 0.20% | ~269 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Economy of Scarce | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,317 (Ranked 66)  
+Progressed: 134,319 (Ranked 66)  
 Completed: 132 (0.10%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,7 +232,7 @@ Completed: 132 (0.10%) (Ranked 200)
 | 2023-08-08 | 134,169 | 131 |
 | 2023-08-09 | 134,223 | 131 |
 | 2023-08-10 | 134,276 | 131 |
-| 2023-08-11 | 134,317 | 132 |
+| 2023-08-11 | 134,319 | 132 |
 ## Awards
 Max (Great for Beginners): 4,694  (Ranked 71)  
 Sum: 27,078 (Ranked 46)  

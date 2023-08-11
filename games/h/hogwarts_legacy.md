@@ -5,7 +5,7 @@ Rating: 4.77 (Ranked 108)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 12.00% | ~34,778 |
+| The Sort Who Makes an Entrance | 12.00% | ~34,779 |
 | First Class Student | 11.00% | ~31,880 |
 | Troll with the Punches | 11.00% | ~31,880 |
 | A Keen Sense of Spell | 10.00% | ~28,982 |
@@ -19,13 +19,13 @@ Rating: 4.77 (Ranked 108)
 | Loom for Improvement | 9.00% | ~26,084 |
 | A Talent for Spending | 9.00% | ~26,084 |
 | Coasting Along | 9.00% | ~26,084 |
-| Followed the Butterflies | 8.00% | ~23,185 |
-| Rising From the Ashes | 8.00% | ~23,185 |
-| The Avenging Gazelle | 7.00% | ~20,287 |
-| Beast Friends | 7.00% | ~20,287 |
-| A Sallow Grave | 7.00% | ~20,287 |
-| Flight the Good Flight | 7.00% | ~20,287 |
-| The Spell Master | 7.00% | ~20,287 |
+| Followed the Butterflies | 8.00% | ~23,186 |
+| Rising From the Ashes | 8.00% | ~23,186 |
+| The Avenging Gazelle | 7.00% | ~20,288 |
+| Beast Friends | 7.00% | ~20,288 |
+| A Sallow Grave | 7.00% | ~20,288 |
+| Flight the Good Flight | 7.00% | ~20,288 |
+| The Spell Master | 7.00% | ~20,288 |
 | The Seeker of Knowledge | 5.00% | ~14,491 |
 | The Root of the Problem | 5.00% | ~14,491 |
 | Third Time's a Charm | 5.00% | ~14,491 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 108)
 | The Nature of the Beast | 0.60% | ~1,739 |
 | Collector's Edition | 0.30% | ~869 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 289,817 (Ranked 42)  
+Progressed: 289,822 (Ranked 42)  
 Completed: 448 (0.15%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,16 +164,16 @@ Completed: 448 (0.15%) (Ranked 189)
 | 2023-08-08 | 289,682 | 443 |
 | 2023-08-09 | 289,736 | 444 |
 | 2023-08-10 | 289,802 | 447 |
-| 2023-08-11 | 289,817 | 448 |
+| 2023-08-11 | 289,822 | 448 |
 ## Awards
 Max (Character Customization): 21,664  (Ranked 17)  
-Sum: 40,793 (Ranked 30)  
+Sum: 40,794 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 21,664 |
 | This game has Great Boss Battles | 10,470 |
-| This game is Great for Beginners | 964 |
+| This game is Great for Beginners | 965 |
 | This game is Extremely Fun | 941 |
 | This game is Relaxing | 938 |
 | This game has Amazing Storytelling | 925 |
@@ -326,4 +326,4 @@ Diff (max vs sum): -13
 | 2023-08-08 | 4.77 | 21,619 | 40,677 |
 | 2023-08-09 | 4.77 | 21,636 | 40,721 |
 | 2023-08-10 | 4.77 | 21,664 | 40,779 |
-| 2023-08-11 | 4.77 | 21,664 | 40,793 |
+| 2023-08-11 | 4.77 | 21,664 | 40,794 |

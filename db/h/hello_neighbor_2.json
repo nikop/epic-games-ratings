@@ -360,9 +360,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2727,
+  "EOS_Progressed": 2728,
   "EOS_Completed": 107,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 3.92,
   "EosHistory": [
@@ -2575,6 +2575,11 @@
       "Time": "2023-08-11T06:00:41.2420517+00:00",
       "NumProgressed": 2727,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2023-08-11T12:02:38.0513227+00:00",
+      "NumProgressed": 2728,
+      "NumCompleted": 107
     }
   ],
   "TotalAchievements": 14,
@@ -2610,7 +2615,7 @@
       "Name": "Climber",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "ACH_DOG_LOVER",
@@ -2618,7 +2623,7 @@
       "Name": "Dog Person",
       "Percentage": 20,
       "XP": 80,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "ACH_EASY_AS_PIE",
@@ -2658,7 +2663,7 @@
       "Name": "Mad Scientist",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "ACH_REUNION",
@@ -2666,7 +2671,7 @@
       "Name": "Reunion",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "ACH_SHOVEL_NIGHT",
@@ -2697,7 +2702,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2727,
+      "Progressed": 2728,
       "Completed": 107
     }
   ],
@@ -2705,8 +2710,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-08-09T10:02:05.4409052+00:00",
-  "LastChanged_Achievements": "2023-08-11T11:02:11.8045196+00:00",
+  "LastChanged_Achievements": "2023-08-11T12:02:38.0513221+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:58:18.6974306+00:00",
-  "LastUpdate_Ratings": "2023-08-11T10:57:07.2301061+00:00",
-  "LastUpdate_Achievements": "2023-08-11T11:02:11.8045488+00:00"
+  "LastUpdate_Ratings": "2023-08-11T11:56:59.3563188+00:00",
+  "LastUpdate_Achievements": "2023-08-11T12:02:38.0513467+00:00"
 }

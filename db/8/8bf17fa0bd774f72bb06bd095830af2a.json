@@ -137,9 +137,9 @@
       "ID": "SteamAchievement_WinBattles01",
       "SetID": "b8gj0ip",
       "Name": "Battle Commander",
-      "Percentage": 22,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "SteamAchievement_WinBattles02",
@@ -169,9 +169,9 @@
       "ID": "SteamAchievment_BuildOneBuilding",
       "SetID": "b8gj0ip",
       "Name": "Emerging Constructor",
-      "Percentage": 22,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "SteamAchievment_CompleteAllChallenges",
@@ -217,9 +217,9 @@
       "ID": "SteamAchievment_CompleteOneChallenge",
       "SetID": "b8gj0ip",
       "Name": "First One",
-      "Percentage": 22,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "SteamAchievment_CompleteQuest02",
@@ -345,9 +345,9 @@
       "ID": "SteamAchievment_CompleteStoryQuest01",
       "SetID": "b8gj0ip",
       "Name": "Hunger Buster",
-      "Percentage": 22,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "SteamAchievment_CompleteThirtyChallenges",
@@ -361,9 +361,9 @@
       "ID": "SteamAchievment_FirstVisitCapitalCity",
       "SetID": "b8gj0ip",
       "Name": "The Dawn",
-      "Percentage": 33,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SteamAchievment_MergeAnyArtifactOnMaxLevel",
@@ -384,8 +384,8 @@
   ],
   "FirstSeen": "2023-08-10T10:57:59.2838137+00:00",
   "FirstSeenAchievements": "2023-05-30T14:00:09.5243374+00:00",
-  "LastChanged_Achievements": "2023-08-11T11:04:07.9134374+00:00",
+  "LastChanged_Achievements": "2023-08-11T12:04:13.3295751+00:00",
   "LastUpdate_AppInfo": "2023-08-08T17:57:16.1112492+00:00",
-  "LastUpdate_Ratings": "2023-08-11T10:58:04.597853+00:00",
-  "LastUpdate_Achievements": "2023-08-11T11:04:07.9134849+00:00"
+  "LastUpdate_Ratings": "2023-08-11T11:58:05.1372558+00:00",
+  "LastUpdate_Achievements": "2023-08-11T12:04:13.3295941+00:00"
 }

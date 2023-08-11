@@ -1,51 +1,51 @@
 # Goat Simulator 3
 [Store](https://store.epicgames.com/en-US/p/goat-simulator-3)  
 [View Rawdata](../../db/g/goat_simulator_3.json)  
-Rating: 4.85 (Ranked 40)  
+Rating: 4.85 (Ranked 41)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~216,040 |
-| Private Club | 74.00% | ~175,681 |
-| Rogue Guild | 65.00% | ~154,315 |
-| I Watched the Intro | 57.00% | ~135,322 |
-| Covert Consortium | 55.00% | ~130,574 |
-| Goat Queen | 53.00% | ~125,826 |
-| Reach the Stratosphere | 50.00% | ~118,704 |
-| Synchronization Complete | 47.00% | ~111,581 |
-| Secret Society | 45.00% | ~106,833 |
-| Shadow Syndicate | 38.00% | ~90,215 |
-| What a Waste of Money | 33.00% | ~78,344 |
-| New Goat Order | 30.00% | ~71,222 |
-| Don't touch the servers | 28.00% | ~66,474 |
-| San Angora: Become Human | 26.00% | ~61,726 |
-| Raider of the Lost Parking Garage | 26.00% | ~61,726 |
-| Real Buoy | 26.00% | ~61,726 |
-| Welcome to Earth | 25.00% | ~59,352 |
-| Into the Matrix | 19.00% | ~45,107 |
-| Where is It? | 17.00% | ~40,359 |
-| Egg Simulator | 17.00% | ~40,359 |
-| Beauty, Mindfulness and Meditation | 15.00% | ~35,611 |
-| Black Market | 14.00% | ~33,237 |
-| 401(K.O.) | 14.00% | ~33,237 |
-| Car Cave | 12.00% | ~28,489 |
-| Club Mohair | 8.00% | ~18,993 |
-| A Center for Ants? | 8.00% | ~18,993 |
-| French Fika | 7.00% | ~16,618 |
-| Who Baywatches the Baywatch? | 4.00% | ~9,496 |
-| Nasty! | 4.00% | ~9,496 |
-| [REDACTED] | 4.00% | ~9,496 |
-| Cannibanana | 2.00% | ~4,748 |
-| Daredevil | 2.00% | ~4,748 |
+| Forgotten Sorority | 91.00% | ~216,064 |
+| Private Club | 74.00% | ~175,700 |
+| Rogue Guild | 65.00% | ~154,331 |
+| I Watched the Intro | 57.00% | ~135,337 |
+| Covert Consortium | 55.00% | ~130,588 |
+| Goat Queen | 53.00% | ~125,839 |
+| Reach the Stratosphere | 50.00% | ~118,716 |
+| Synchronization Complete | 47.00% | ~111,594 |
+| Secret Society | 45.00% | ~106,845 |
+| Shadow Syndicate | 38.00% | ~90,225 |
+| What a Waste of Money | 33.00% | ~78,353 |
+| New Goat Order | 30.00% | ~71,230 |
+| Don't touch the servers | 28.00% | ~66,481 |
+| San Angora: Become Human | 26.00% | ~61,733 |
+| Raider of the Lost Parking Garage | 26.00% | ~61,733 |
+| Real Buoy | 26.00% | ~61,733 |
+| Welcome to Earth | 25.00% | ~59,358 |
+| Into the Matrix | 19.00% | ~45,112 |
+| Where is It? | 17.00% | ~40,364 |
+| Egg Simulator | 17.00% | ~40,364 |
+| Beauty, Mindfulness and Meditation | 15.00% | ~35,615 |
+| Black Market | 14.00% | ~33,241 |
+| 401(K.O.) | 14.00% | ~33,241 |
+| Car Cave | 12.00% | ~28,492 |
+| Club Mohair | 8.00% | ~18,995 |
+| A Center for Ants? | 8.00% | ~18,995 |
+| French Fika | 7.00% | ~16,620 |
+| Who Baywatches the Baywatch? | 4.00% | ~9,497 |
+| Nasty! | 4.00% | ~9,497 |
+| [REDACTED] | 4.00% | ~9,497 |
+| Cannibanana | 2.00% | ~4,749 |
+| Daredevil | 2.00% | ~4,749 |
 | Crocsquatch | 1.00% | ~2,374 |
 | You Trusted Your Instincts | 1.00% | ~2,374 |
 | Certified Fresh | 1.00% | ~2,374 |
 | Streaking | 1.00% | ~2,374 |
 | Try Hard 2 | 1.00% | ~2,374 |
-| Move! That! Bus! | 0.60% | ~1,424 |
+| Move! That! Bus! | 0.60% | ~1,425 |
 | G.O.A.T | 0.30% | ~712 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 237,407 (Ranked 48)  
+Progressed: 237,433 (Ranked 48)  
 Completed: 790 (0.33%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,14 +158,14 @@ Completed: 790 (0.33%) (Ranked 157)
 | 2023-08-08 | 236,108 | 789 |
 | 2023-08-09 | 236,607 | 789 |
 | 2023-08-10 | 237,172 | 789 |
-| 2023-08-11 | 237,407 | 790 |
+| 2023-08-11 | 237,433 | 790 |
 ## Awards
-Max (Great for Beginners): 376  (Ranked 220)  
-Sum: 3,177 (Ranked 155)  
+Max (Great for Beginners): 377  (Ranked 220)  
+Sum: 3,178 (Ranked 155)  
 Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 376 |
+| This game is Great for Beginners | 377 |
 | This game has Diverse Characters | 360 |
 | This game is Highly Recommended | 343 |
 | This game has Amazing Characters | 319 |
@@ -319,3 +319,4 @@ Diff (max vs sum): 65
 | 2023-08-08 | 4.85 | 376 | 3,169 |
 | 2023-08-09 | 4.85 | 376 | 3,173 |
 | 2023-08-10 | 4.85 | 376 | 3,177 |
+| 2023-08-11 | 4.85 | 377 | 3,178 |

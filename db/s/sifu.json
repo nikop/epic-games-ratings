@@ -5536,18 +5536,24 @@
       "Rating": 4.82,
       "NumberOfAwards": 10912,
       "NumberOfAwardsMax": 6356
+    },
+    {
+      "Time": "2023-08-11T12:00:48.7069377+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10917,
+      "NumberOfAwardsMax": 6361
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10912,
-  "NumberOfAwardsMax": 6356,
+  "NumberOfAwards": 10917,
+  "NumberOfAwardsMax": 6361,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 6356
+      "Count": 6361
     },
     {
       "Text": "This game is Extremely Fun",
@@ -5616,9 +5622,9 @@
       "Count": 370
     }
   ],
-  "EOS_Progressed": 712341,
+  "EOS_Progressed": 712344,
   "EOS_Completed": 12852,
-  "EOS_NewPlayers": 188,
+  "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -16261,6 +16267,11 @@
       "Time": "2023-08-11T11:03:28.8091404+00:00",
       "NumProgressed": 712341,
       "NumCompleted": 12852
+    },
+    {
+      "Time": "2023-08-11T12:03:30.7412858+00:00",
+      "NumProgressed": 712344,
+      "NumCompleted": 12852
     }
   ],
   "TotalAchievements": 50,
@@ -16664,28 +16675,28 @@
       "Name": "A Touch of Acumen",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     }
   ],
   "AchievementSets": [
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 21642,
+      "Progressed": 21645,
       "Completed": 10513
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 712341,
+      "Progressed": 712344,
       "Completed": 12852
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-08-10T14:00:57.310652+00:00",
-  "LastChanged_Achievements": "2023-08-11T11:03:28.8091397+00:00",
+  "LastChanged": "2023-08-11T12:00:48.7069376+00:00",
+  "LastChanged_Achievements": "2023-08-11T12:03:30.7412852+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:56.2454888+00:00",
-  "LastUpdate_Ratings": "2023-08-11T11:00:26.5678462+00:00",
-  "LastUpdate_Achievements": "2023-08-11T11:03:28.8093321+00:00"
+  "LastUpdate_Ratings": "2023-08-11T12:00:48.7069381+00:00",
+  "LastUpdate_Achievements": "2023-08-11T12:03:30.741377+00:00"
 }

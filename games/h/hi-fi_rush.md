@@ -44,7 +44,7 @@ Rating: 4.88 (Ranked 18)
 | I hit things with a guitar really well. | 0.90% | ~35 |
 | I think I deserve some praise, here! | 0.80% | ~31 |
 | We're Jammin' | 0.70% | ~27 |
-| First we parry, then we counter | 0.60% | ~23 |
+| First we parry, then we counter | 0.70% | ~27 |
 | This is a breeze! | 0.50% | ~19 |
 | I'm not done with you yet | 0.50% | ~19 |
 | New bad guys? No problem! | 0.50% | ~12 |

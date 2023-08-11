@@ -24,13 +24,13 @@ Number of Ratings: 111  (23.09.2022)
 | Fashionista | 6.00% | ~163 |
 | Fulfilled the dream | 6.00% | ~163 |
 | G'Day Mate! | 6.00% | ~163 |
+| Purple passion | 6.00% | ~163 |
 | Sup widdit big dog! | 6.00% | ~163 |
 | Tight lipslides | 6.00% | ~163 |
 | Commence the Hijinx! | 5.00% | ~136 |
 | Globetrotter | 5.00% | ~136 |
 | Laid back | 5.00% | ~136 |
 | NAHELL! | 5.00% | ~136 |
-| Purple passion | 5.00% | ~136 |
 | Squad goals | 5.00% | ~136 |
 | Cops called! | 4.00% | ~109 |
 | DIY Boss | 4.00% | ~109 |

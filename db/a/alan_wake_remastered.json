@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 196,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 60665,
+  "EOS_Progressed": 60666,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 479,
+  "EOS_NewPlayers": 476,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -10892,6 +10892,11 @@
       "Time": "2023-08-11T10:06:20.7174429+00:00",
       "NumProgressed": 60665,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-11T12:05:47.1054237+00:00",
+      "NumProgressed": 60666,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -10919,7 +10924,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 13346
+      "UsersEstimate": 13347
     },
     {
       "ID": "04",
@@ -10943,7 +10948,7 @@
       "Name": "Park Ranger",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 9706
+      "UsersEstimate": 9707
     },
     {
       "ID": "07",
@@ -10967,7 +10972,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7886
+      "UsersEstimate": 7887
     },
     {
       "ID": "10",
@@ -11007,7 +11012,7 @@
       "Name": "Gatekeeper",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6066
+      "UsersEstimate": 6067
     },
     {
       "ID": "15",
@@ -11063,7 +11068,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7886
+      "UsersEstimate": 7887
     },
     {
       "ID": "22",
@@ -11135,7 +11140,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6066
+      "UsersEstimate": 6067
     },
     {
       "ID": "31",
@@ -11159,7 +11164,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7886
+      "UsersEstimate": 7887
     },
     {
       "ID": "34",
@@ -11167,7 +11172,7 @@
       "Name": "Energized!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6066
+      "UsersEstimate": 6067
     },
     {
       "ID": "35",
@@ -11239,7 +11244,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 9706
+      "UsersEstimate": 9707
     },
     {
       "ID": "44",
@@ -11438,21 +11443,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 60665,
+      "Progressed": 60666,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 24133,
+      "Progressed": 24134,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-11T11:05:30.4631805+00:00",
+  "LastChanged_Achievements": "2023-08-11T12:05:47.1054231+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:26.4964539+00:00",
-  "LastUpdate_Ratings": "2023-08-11T10:58:56.7144503+00:00",
-  "LastUpdate_Achievements": "2023-08-11T11:05:30.4634047+00:00"
+  "LastUpdate_Ratings": "2023-08-11T11:59:00.9834693+00:00",
+  "LastUpdate_Achievements": "2023-08-11T12:05:47.1055214+00:00"
 }
