@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | To Infinity's and Beyond | 0.10% | ~187 |
 | There's a Flying Snake in my Boot! | 0.10% | ~187 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,724 (Ranked 52)  
+Progressed: 220,742 (Ranked 52)  
 Completed: 2,172 (0.98%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -636,10 +636,10 @@ Completed: 2,172 (0.98%) (Ranked 114)
 | 2023-08-08 | 220,011 | 2,165 |
 | 2023-08-09 | 220,283 | 2,167 |
 | 2023-08-10 | 220,586 | 2,169 |
-| 2023-08-11 | 220,724 | 2,172 |
+| 2023-08-11 | 220,742 | 2,172 |
 ## Awards
 Max (Diverse Characters): 5,136  (Ranked 67)  
-Sum: 30,999 (Ranked 38)  
+Sum: 31,001 (Ranked 38)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
@@ -649,7 +649,7 @@ Diff (max vs sum): 29
 | This game is Relaxing | 4,604 |
 | This game has Amazing Characters | 4,062 |
 | This game is Highly Recommended | 4,046 |
-| This game has Playful Visuals | 3,351 |
+| This game has Playful Visuals | 3,353 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -850,4 +850,4 @@ Diff (max vs sum): 29
 | 2023-08-08 | 4.06 | - | 5,125 | 30,950 |
 | 2023-08-09 | 4.06 | - | 5,128 | 30,971 |
 | 2023-08-10 | 4.06 | - | 5,136 | 30,993 |
-| 2023-08-11 | 4.06 | - | 5,136 | 30,999 |
+| 2023-08-11 | 4.06 | - | 5,136 | 31,001 |

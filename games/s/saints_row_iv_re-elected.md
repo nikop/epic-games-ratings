@@ -5,50 +5,50 @@ Rating: 4.40 (Ranked 697)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zero Saints Thirty | 64.00% | ~154,558 |
-| Destroyer-In-Chief | 58.00% | ~140,068 |
-| There Is No Pancakes | 55.00% | ~132,823 |
-| First of Many | 43.00% | ~103,844 |
-| Woah. | 38.00% | ~91,769 |
-| Don't Look Down | 30.00% | ~72,449 |
-| Don't Panic | 29.00% | ~70,034 |
-| Ooo A Piece of Candy! | 23.00% | ~55,544 |
-| Ghost in the Machine | 18.00% | ~43,469 |
-| All Too Easy | 16.00% | ~38,640 |
-| Didn't Need to See Him Naked | 14.00% | ~33,810 |
-| Indomitable | 10.00% | ~24,150 |
-| Blast from the Past | 9.00% | ~21,735 |
-| Bow to the Boss! | 9.00% | ~21,735 |
-| Friend of the Raptors | 9.00% | ~21,735 |
-| About Time! | 8.00% | ~19,320 |
-| Actor-Turned-Politician | 7.00% | ~16,905 |
-| Betrayed | 7.00% | ~16,905 |
-| Maximum Stopping Power | 7.00% | ~16,905 |
-| Poodle Skirt | 7.00% | ~16,905 |
-| You Chose... Poorly | 7.00% | ~16,905 |
-| Double Team | 6.00% | ~14,490 |
-| Keymaster | 6.00% | ~14,490 |
-| *BEEP* YOU, CLAWZ! | 5.00% | ~12,075 |
-| Imperator | 5.00% | ~12,075 |
-| ...A Saint Gets a Gun | 4.00% | ~9,660 |
-| Half Way Home | 4.00% | ~9,660 |
-| How It Should Be | 4.00% | ~9,660 |
-| Machine Man | 4.00% | ~9,660 |
-| The Full Kinzie | 4.00% | ~9,660 |
-| And I Ran... | 3.00% | ~7,245 |
-| Chill Out | 3.00% | ~7,245 |
-| Elementary | 3.00% | ~7,245 |
-| On Her Saint's Secret Service | 3.00% | ~7,245 |
-| Paranormal Bromance | 3.00% | ~7,245 |
-| Saints & Sensibility | 3.00% | ~7,245 |
-| The Two Shaundis | 3.00% | ~7,245 |
-| Benjamin [CENSORED] King | 2.00% | ~4,830 |
-| Better This Way | 2.00% | ~4,830 |
-| Bouncin' with an Old Friend | 2.00% | ~4,830 |
-| Our Gift to You | 2.00% | ~4,830 |
-| The Face of the Saints | 2.00% | ~4,830 |
-| The Twin Saints | 2.00% | ~4,830 |
-| Where's My Cape? | 2.00% | ~4,830 |
+| Zero Saints Thirty | 64.00% | ~154,580 |
+| Destroyer-In-Chief | 58.00% | ~140,088 |
+| There Is No Pancakes | 55.00% | ~132,842 |
+| First of Many | 43.00% | ~103,858 |
+| Woah. | 38.00% | ~91,782 |
+| Don't Look Down | 30.00% | ~72,459 |
+| Don't Panic | 29.00% | ~70,044 |
+| Ooo A Piece of Candy! | 23.00% | ~55,552 |
+| Ghost in the Machine | 18.00% | ~43,476 |
+| All Too Easy | 16.00% | ~38,645 |
+| Didn't Need to See Him Naked | 14.00% | ~33,814 |
+| Indomitable | 10.00% | ~24,153 |
+| Blast from the Past | 9.00% | ~21,738 |
+| Bow to the Boss! | 9.00% | ~21,738 |
+| Friend of the Raptors | 9.00% | ~21,738 |
+| About Time! | 8.00% | ~19,322 |
+| Actor-Turned-Politician | 7.00% | ~16,907 |
+| Betrayed | 7.00% | ~16,907 |
+| Maximum Stopping Power | 7.00% | ~16,907 |
+| Poodle Skirt | 7.00% | ~16,907 |
+| You Chose... Poorly | 7.00% | ~16,907 |
+| Double Team | 6.00% | ~14,492 |
+| Keymaster | 6.00% | ~14,492 |
+| *BEEP* YOU, CLAWZ! | 5.00% | ~12,077 |
+| Imperator | 5.00% | ~12,077 |
+| ...A Saint Gets a Gun | 4.00% | ~9,661 |
+| Half Way Home | 4.00% | ~9,661 |
+| How It Should Be | 4.00% | ~9,661 |
+| Machine Man | 4.00% | ~9,661 |
+| The Full Kinzie | 4.00% | ~9,661 |
+| And I Ran... | 3.00% | ~7,246 |
+| Chill Out | 3.00% | ~7,246 |
+| Elementary | 3.00% | ~7,246 |
+| On Her Saint's Secret Service | 3.00% | ~7,246 |
+| Paranormal Bromance | 3.00% | ~7,246 |
+| Saints & Sensibility | 3.00% | ~7,246 |
+| The Two Shaundis | 3.00% | ~7,246 |
+| Benjamin [CENSORED] King | 2.00% | ~4,831 |
+| Better This Way | 2.00% | ~4,831 |
+| Bouncin' with an Old Friend | 2.00% | ~4,831 |
+| Our Gift to You | 2.00% | ~4,831 |
+| The Face of the Saints | 2.00% | ~4,831 |
+| The Twin Saints | 2.00% | ~4,831 |
+| Where's My Cape? | 2.00% | ~4,831 |
 | A Real Cluster.... | 1.00% | ~2,415 |
 | A Very Genki Holiday | 1.00% | ~2,415 |
 | Here! Catch! | 1.00% | ~2,415 |
@@ -56,30 +56,30 @@ Rating: 4.40 (Ranked 697)
 | Switch Hitter | 1.00% | ~2,415 |
 | The Whole Story | 1.00% | ~2,415 |
 | Zoo Keeper | 1.00% | ~2,415 |
-| Make a List, Check it Twice | 0.90% | ~2,173 |
-| Back in the Day | 0.70% | ~1,690 |
-| Dear Santa | 0.70% | ~1,690 |
-| Rigging the Race | 0.70% | ~1,690 |
-| Health Inspector | 0.50% | ~1,207 |
+| Make a List, Check it Twice | 0.90% | ~2,174 |
+| Back in the Day | 0.70% | ~1,691 |
+| Dear Santa | 0.70% | ~1,691 |
+| Rigging the Race | 0.70% | ~1,691 |
+| Health Inspector | 0.50% | ~1,208 |
+| Bringin' the Heat | 0.40% | ~966 |
 | Walking the Dinosaur | 0.40% | ~966 |
-| Bringin' the Heat | 0.30% | ~724 |
-| Experimental Tech | 0.30% | ~724 |
-| Fist Meet Ground | 0.30% | ~724 |
-| Fourth and Forty | 0.30% | ~724 |
-| The Challenge King | 0.30% | ~724 |
-| A World Without Christmas | 0.10% | ~241 |
-| Epic Jump Quest | 0.10% | ~241 |
-| Get that Kid to a Psychologist | 0.10% | ~241 |
-| He's Still on the Naughty List | 0.10% | ~241 |
-| Hello Little Friend | 0.10% | ~241 |
-| I Am Become Death | 0.10% | ~241 |
-| OMGWTFBBQ | 0.10% | ~241 |
-| Pounding the Pavement | 0.10% | ~241 |
-| Super Power Team Up! | 0.10% | ~241 |
-| Ultimate Hot Potato | 0.10% | ~241 |
+| Experimental Tech | 0.30% | ~725 |
+| Fist Meet Ground | 0.30% | ~725 |
+| Fourth and Forty | 0.30% | ~725 |
+| The Challenge King | 0.30% | ~725 |
+| A World Without Christmas | 0.10% | ~242 |
+| Epic Jump Quest | 0.10% | ~242 |
+| Get that Kid to a Psychologist | 0.10% | ~242 |
+| He's Still on the Naughty List | 0.10% | ~242 |
+| Hello Little Friend | 0.10% | ~242 |
+| I Am Become Death | 0.10% | ~242 |
+| OMGWTFBBQ | 0.10% | ~242 |
+| Pounding the Pavement | 0.10% | ~242 |
+| Super Power Team Up! | 0.10% | ~242 |
+| Ultimate Hot Potato | 0.10% | ~242 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,497 (Ranked 46)  
-Completed: 15 (0.01%) (Ranked 239)  
+Progressed: 241,531 (Ranked 46)  
+Completed: 15 (0.01%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -191,7 +191,7 @@ Completed: 15 (0.01%) (Ranked 239)
 | 2023-08-08 | 239,896 | 15 |
 | 2023-08-09 | 240,508 | 15 |
 | 2023-08-10 | 241,192 | 15 |
-| 2023-08-11 | 241,497 | 15 |
+| 2023-08-11 | 241,531 | 15 |
 ## Awards
 Max (Great Boss Battles): 438  (Ranked 205)  
 Sum: 438 (Ranked 311)  

@@ -3,9 +3,9 @@
   "Name": "Blanc",
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 162,
-  "Ranking_EOS_Completed": 170,
+  "Ranking_EOS_Completed": 171,
   "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2488,
+  "EOS_Progressed": 2489,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -2483,6 +2483,11 @@
       "Time": "2023-08-11T10:05:02.3764659+00:00",
       "NumProgressed": 2488,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-08-11T13:07:38.4519025+00:00",
+      "NumProgressed": 2489,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -2556,9 +2561,9 @@
       "ID": "STARTING_DUO",
       "SetID": "1a29mp6",
       "Name": "Starting as a duo",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 398
+      "UsersEstimate": 423
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -2597,7 +2602,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2488,
+      "Progressed": 2489,
       "Completed": 6
     }
   ],
@@ -2605,8 +2610,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-08-11T12:04:32.2742692+00:00",
+  "LastChanged_Achievements": "2023-08-11T13:07:38.451902+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:14.6736955+00:00",
-  "LastUpdate_Ratings": "2023-08-11T12:01:10.0341678+00:00",
-  "LastUpdate_Achievements": "2023-08-11T12:04:32.2742904+00:00"
+  "LastUpdate_Ratings": "2023-08-11T13:03:16.8165703+00:00",
+  "LastUpdate_Achievements": "2023-08-11T13:07:38.4519304+00:00"
 }

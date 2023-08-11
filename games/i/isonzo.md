@@ -22,8 +22,8 @@ Number of Ratings: 98  (23.09.2022)
 | The Italian Job | 20.00% | ~1,322 |
 | Ragazzi del '99 | 18.00% | ~1,190 |
 | The Lion of the Isonzo | 18.00% | ~1,190 |
+| Luigi Cadorna | 15.00% | ~991 |
 | Dirty Dozen | 14.00% | ~925 |
-| Luigi Cadorna | 14.00% | ~925 |
 | Uomo Universale | 14.00% | ~925 |
 | Machiavelli | 13.00% | ~859 |
 | Shaken, Not Stirred | 13.00% | ~859 |
@@ -53,7 +53,7 @@ Number of Ratings: 98  (23.09.2022)
 | Can I Go Home Now? | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 6,609 (Ranked 134)  
-Completed: 8 (0.12%) (Ranked 193)  
+Completed: 8 (0.12%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

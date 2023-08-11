@@ -23,9 +23,9 @@ Number of Ratings: 371  (23.09.2022)
 | Gunmaster | 0.90% | ~28 |
 | Execution Force | 0.80% | ~25 |
 | Corruption Cleanser | 0.70% | ~22 |
+| Just a Scratch | 0.70% | ~22 |
 | Hive Exterminator | 0.70% | ~22 |
 | Hold Your Ground | 0.60% | ~19 |
-| Just a Scratch | 0.60% | ~19 |
 | Patron of Deimos | 0.40% | ~13 |
 | Daemonkeeper | 0.40% | ~13 |
 | Efficient Killer | 0.40% | ~13 |
@@ -76,7 +76,7 @@ Number of Ratings: 371  (23.09.2022)
 | Strategic Command | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,141 (Ranked 153)  
-Completed: 0 (0.00%) (Ranked 252)  
+Completed: 0 (0.00%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -21,8 +21,8 @@
 | Smooth Service | 24.00% | ~77 |
 | Your Prestige is Rising | 23.00% | ~74 |
 | Retail Revenue | 23.00% | ~74 |
+| Don't Feel a Loan | 22.00% | ~71 |
 | Lux Living | 21.00% | ~67 |
-| Don't Feel a Loan | 21.00% | ~67 |
 | Artfully Done | 20.00% | ~64 |
 | People Mover | 20.00% | ~64 |
 | Leveled Up Shops | 20.00% | ~64 |
@@ -94,7 +94,7 @@
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 321 (Ranked 253)  
-Completed: 0 (0.00%) (Ranked 252)  
+Completed: 0 (0.00%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

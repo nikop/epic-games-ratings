@@ -5,9 +5,9 @@ Rating: 4.22 (Ranked 841)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,576 |
-| Don't I Know You...? | 77.00% | ~1,517 |
-| Jailbreak | 65.00% | ~1,280 |
+| Rigged And Ready | 80.00% | ~1,577 |
+| Don't I Know You...? | 77.00% | ~1,518 |
+| Jailbreak | 65.00% | ~1,281 |
 | HEADSHOT! | 38.00% | ~749 |
 | Suited and Booted | 38.00% | ~749 |
 | Sleeping With The Fishes | 35.00% | ~690 |
@@ -15,9 +15,9 @@ Rating: 4.22 (Ranked 841)
 | High Performance | 30.00% | ~591 |
 | Powered Up | 28.00% | ~552 |
 | Studied The Blade | 24.00% | ~473 |
-| Home Invasion | 22.00% | ~433 |
-| Luminary | 22.00% | ~433 |
-| It's a Trap | 22.00% | ~433 |
+| Home Invasion | 22.00% | ~434 |
+| Luminary | 22.00% | ~434 |
+| It's a Trap | 22.00% | ~434 |
 | True Survivor | 21.00% | ~414 |
 | Offensive Defense | 20.00% | ~394 |
 | Shocking | 20.00% | ~394 |
@@ -32,8 +32,8 @@ Rating: 4.22 (Ranked 841)
 | Where It All Began | 13.00% | ~256 |
 | Risk Tolerant | 13.00% | ~256 |
 | What A Catchy Song | 13.00% | ~256 |
-| Marked For Success | 12.00% | ~236 |
-| Sorry, Didn't See You There | 12.00% | ~236 |
+| Marked For Success | 12.00% | ~237 |
+| Sorry, Didn't See You There | 12.00% | ~237 |
 | Corrupted Beauty | 11.00% | ~217 |
 | Triplets | 10.00% | ~197 |
 | Defense in Depth | 9.00% | ~177 |
@@ -45,10 +45,10 @@ Rating: 4.22 (Ranked 841)
 | Remote Surgery | 6.00% | ~118 |
 | Turbo Booster | 6.00% | ~118 |
 | Squid Pro Quo | 6.00% | ~118 |
-| Reborn | 5.00% | ~98 |
-| Counter-Sniper | 5.00% | ~98 |
-| Shrimp Cocktail | 5.00% | ~98 |
-| Juiced Up | 5.00% | ~98 |
+| Reborn | 5.00% | ~99 |
+| Counter-Sniper | 5.00% | ~99 |
+| Shrimp Cocktail | 5.00% | ~99 |
+| Juiced Up | 5.00% | ~99 |
 | Hello Darkness My Old Friend | 4.00% | ~79 |
 | Geronimo! | 4.00% | ~79 |
 | Homewrecker | 4.00% | ~79 |
@@ -63,7 +63,7 @@ Rating: 4.22 (Ranked 841)
 | Swiss Army Drone | 1.00% | ~20 |
 | The Easy Way Out | 1.00% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,970 (Ranked 169)  
+Progressed: 1,971 (Ranked 169)  
 Completed: 10 (0.51%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 10 (0.51%) (Ranked 138)
 | 2023-08-07 | 1,966 | 10 |
 | 2023-08-08 | 1,968 | 10 |
 | 2023-08-10 | 1,969 | 10 |
-| 2023-08-11 | 1,970 | 10 |
+| 2023-08-11 | 1,971 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

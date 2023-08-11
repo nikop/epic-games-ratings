@@ -23,6 +23,7 @@ Rating: 4.44 (Ranked 643)
 | Organ Grinder | 3.00% | ~104 |
 | Gunslinger | 3.00% | ~104 |
 | Skirmisher | 3.00% | ~104 |
+| Explosive Efficiency | 3.00% | ~104 |
 | Der Geist | 3.00% | ~104 |
 | Close Quarters | 3.00% | ~104 |
 | Snake in the Grass | 3.00% | ~104 |
@@ -33,11 +34,10 @@ Rating: 4.44 (Ranked 643)
 | Just a Flesh Wound | 2.00% | ~69 |
 | Set Europe Ablaze | 2.00% | ~69 |
 | Precision Is Key | 2.00% | ~69 |
+| Rigged to Blow | 2.00% | ~69 |
 | My Little Friend | 2.00% | ~69 |
-| Explosive Efficiency | 2.00% | ~69 |
 | Die Nussknacker Sweet! | 2.00% | ~69 |
 | The Long Game | 1.00% | ~35 |
-| Rigged to Blow | 1.00% | ~35 |
 | Tinkerer | 1.00% | ~35 |
 | Road Rage | 1.00% | ~35 |
 | Don't hold your breath | 1.00% | ~35 |
@@ -78,7 +78,7 @@ Rating: 4.44 (Ranked 643)
 | Operation Overlord | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,451 (Ranked 150)  
-Completed: 9 (0.26%) (Ranked 167)  
+Completed: 9 (0.26%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

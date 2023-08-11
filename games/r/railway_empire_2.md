@@ -23,7 +23,7 @@ Rating: 4.49 (Ranked 575)
 | Apprentice | 42.00% | ~749 |
 | Bridge Builder | 41.00% | ~731 |
 | Access granted | 35.00% | ~624 |
-| Going once, going twice, sold | 34.00% | ~606 |
+| Going once, going twice, sold | 35.00% | ~624 |
 | Stoker | 33.00% | ~588 |
 | Bull and bear | 33.00% | ~588 |
 | Full Steam ahead | 32.00% | ~571 |
@@ -62,7 +62,7 @@ Rating: 4.49 (Ranked 575)
 | Three Cheers for Progress | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,783 (Ranked 173)  
-Completed: 0 (0.00%) (Ranked 252)  
+Completed: 0 (0.00%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

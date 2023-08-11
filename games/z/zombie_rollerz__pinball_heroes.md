@@ -59,6 +59,7 @@
 | Topaz | 2.00% | ~3 |
 | Chorus | 2.00% | ~3 |
 | TNT | 2.00% | ~3 |
+| Immortality | 2.00% | ~3 |
 | Titanium | 2.00% | ~3 |
 | Rocket | 2.00% | ~3 |
 | Inferno | 2.00% | ~3 |
@@ -71,15 +72,14 @@
 | Warp Drive Spacecraft | 2.00% | ~3 |
 | Gunpowder | 2.00% | ~3 |
 | Wu-wei | 2.00% | ~3 |
-| Immortality | 0.80% | ~1 |
+| Satellite | 2.00% | ~3 |
 | Zombie Exterminator | 0.80% | ~1 |
-| Satellite | 0.80% | ~1 |
 | Zombie Slayer | 0.80% | ~1 |
 | Divinity | 0.00% | ~0 |
 | Zombie Hunter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 131 (Ranked 308)  
-Completed: 0 (0.00%) (Ranked 252)  
+Completed: 0 (0.00%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

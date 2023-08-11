@@ -67,7 +67,7 @@ Rating: 4.64 (Ranked 317)
 | Dead Hand | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,895 (Ranked 142)  
-Completed: 1 (0.02%) (Ranked 231)  
+Completed: 1 (0.02%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

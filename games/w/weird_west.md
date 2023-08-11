@@ -27,8 +27,8 @@ Number of Ratings: 125  (23.09.2022)
 | Winds of War | 16.00% | ~288 |
 | For Balance | 15.00% | ~270 |
 | Dog Days | 13.00% | ~234 |
+| Out on the Ebb Tide | 13.00% | ~234 |
 | Elusive Prey | 12.00% | ~216 |
-| Out on the Ebb Tide | 12.00% | ~216 |
 | Power Behind the Pulpit | 12.00% | ~216 |
 | Turning the Tables | 12.00% | ~216 |
 | Workers' Rights | 12.00% | ~216 |
@@ -61,7 +61,7 @@ Number of Ratings: 125  (23.09.2022)
 | Winter Has Come | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,797 (Ranked 171)  
-Completed: 4 (0.22%) (Ranked 174)  
+Completed: 4 (0.22%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
