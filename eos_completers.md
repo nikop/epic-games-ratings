@@ -539,4 +539,4 @@
 | 251 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 251 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 251 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,033 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,034 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
