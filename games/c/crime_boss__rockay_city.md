@@ -5,27 +5,27 @@ Rating: 3.94 (Ranked 938)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~53,025 |
-| First One’s Free | 65.00% | ~46,576 |
+| Downed but Not Outed | 74.00% | ~53,026 |
+| First One’s Free | 65.00% | ~46,577 |
 | Neophyte Ninja | 50.00% | ~35,828 |
-| Too Old for This | 47.00% | ~33,678 |
-| Case Closed | 35.00% | ~25,079 |
-| Fancy Pants | 35.00% | ~25,079 |
+| Too Old for This | 47.00% | ~33,679 |
+| Case Closed | 35.00% | ~25,080 |
+| Fancy Pants | 35.00% | ~25,080 |
 | King of the Hill | 34.00% | ~24,363 |
-| Underworld Initiate | 29.00% | ~20,780 |
+| Underworld Initiate | 29.00% | ~20,781 |
 | Roid Ranger | 21.00% | ~15,048 |
-| True Player | 19.00% | ~13,614 |
-| Off the Rocks | 19.00% | ~13,614 |
-| Raider’s Ruin | 17.00% | ~12,181 |
-| Dragonslayer | 17.00% | ~12,181 |
+| True Player | 19.00% | ~13,615 |
+| Off the Rocks | 19.00% | ~13,615 |
+| Raider’s Ruin | 17.00% | ~12,182 |
+| Dragonslayer | 17.00% | ~12,182 |
 | Hidden Sonata | 13.00% | ~9,315 |
 | Rockay Rex | 11.00% | ~7,882 |
 | Freebooter | 10.00% | ~7,166 |
 | Track Star | 9.00% | ~6,449 |
 | Ding Dong | 9.00% | ~6,449 |
 | Classy Joint | 9.00% | ~6,449 |
-| I Like Trains | 8.00% | ~5,732 |
-| Headhunter | 8.00% | ~5,732 |
+| I Like Trains | 8.00% | ~5,733 |
+| Headhunter | 8.00% | ~5,733 |
 | Foo Finder | 7.00% | ~5,016 |
 | Legend Looter | 5.00% | ~3,583 |
 | Savvy Seeker | 5.00% | ~3,583 |
@@ -43,7 +43,7 @@ Rating: 3.94 (Ranked 938)
 | Geek Out | 0.60% | ~430 |
 | Full House | 0.20% | ~143 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 71,655 (Ranked 77)  
+Progressed: 71,657 (Ranked 77)  
 Completed: 38 (0.05%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 38 (0.05%) (Ranked 216)
 | 2023-08-08 | 71,567 | 37 |
 | 2023-08-09 | 71,623 | 37 |
 | 2023-08-10 | 71,653 | 38 |
-| 2023-08-11 | 71,655 | 38 |
+| 2023-08-11 | 71,657 | 38 |
 ## Awards
 Max (Diverse Characters): 399  (Ranked 214)  
 Sum: 1,867 (Ranked 204)  

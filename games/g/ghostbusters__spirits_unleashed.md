@@ -5,8 +5,8 @@ Rating: 4.49 (Ranked 575)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~21,474 |
-| Advancement | 73.00% | ~18,228 |
+| Stylish | 86.00% | ~21,475 |
+| Advancement | 73.00% | ~18,229 |
 | Meticulously Efficient | 64.00% | ~15,981 |
 | Discovery | 61.00% | ~15,232 |
 | Fully Upgraded | 54.00% | ~13,484 |
@@ -15,11 +15,11 @@ Rating: 4.49 (Ranked 575)
 | Cultured | 51.00% | ~12,735 |
 | Vaporous Expansion | 48.00% | ~11,986 |
 | Teamwork | 44.00% | ~10,987 |
-| There you are! | 42.00% | ~10,487 |
+| There you are! | 42.00% | ~10,488 |
 | Clutch Capture | 41.00% | ~10,238 |
 | Back Off | 35.00% | ~8,740 |
 | Daily Dose | 35.00% | ~8,740 |
-| Solo Capture | 32.00% | ~7,990 |
+| Solo Capture | 32.00% | ~7,991 |
 | Welcome to the Crew | 31.00% | ~7,741 |
 | Ghostbuster In Training | 30.00% | ~7,491 |
 | Icing on the Cake | 30.00% | ~7,491 |
@@ -29,7 +29,7 @@ Rating: 4.49 (Ranked 575)
 | Right back at ya | 26.00% | ~6,492 |
 | Stunner | 26.00% | ~6,492 |
 | Summoner | 26.00% | ~6,492 |
-| Pesky Jerks | 25.00% | ~6,242 |
+| Pesky Jerks | 25.00% | ~6,243 |
 | Animated | 24.00% | ~5,993 |
 | Skilled | 24.00% | ~5,993 |
 | Collector | 23.00% | ~5,743 |
@@ -41,7 +41,7 @@ Rating: 4.49 (Ranked 575)
 | Diabolical | 16.00% | ~3,995 |
 | Seasoned | 16.00% | ~3,995 |
 | Escape Artist | 15.00% | ~3,746 |
-| Whoopsie | 12.00% | ~2,996 |
+| Whoopsie | 12.00% | ~2,997 |
 | Liability | 10.00% | ~2,497 |
 | Rivalry | 10.00% | ~2,497 |
 | Fragile Panes | 9.00% | ~2,247 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 575)
 | I don't need these | 1.00% | ~250 |
 | Mycophile | 1.00% | ~250 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,970 (Ranked 101)  
+Progressed: 24,971 (Ranked 101)  
 Completed: 50 (0.20%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 50 (0.20%) (Ranked 176)
 | 2023-08-08 | 24,912 | 49 |
 | 2023-08-09 | 24,939 | 49 |
 | 2023-08-10 | 24,962 | 50 |
-| 2023-08-11 | 24,970 | 50 |
+| 2023-08-11 | 24,971 | 50 |
 ## Awards
 Max (Great for Quick Sessions): 247  (Ranked 254)  
 Sum: 2,226 (Ranked 190)  

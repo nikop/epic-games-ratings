@@ -62,11 +62,11 @@
 | The last bell ring | 30.00% | ~73 |
 | Careerist | 30.00% | ~73 |
 | The heart of the Resistance | 30.00% | ~73 |
+| Trap disarmed | 29.00% | ~70 |
 | Another world | 29.00% | ~70 |
 | Keep nature safe | 29.00% | ~70 |
 | Family comes first | 29.00% | ~70 |
 | Anyone can resist | 29.00% | ~70 |
-| Trap disarmed | 28.00% | ~68 |
 | Silver’s past | 26.00% | ~63 |
 | Better cooking at home | 26.00% | ~63 |
 | The only right decision | 26.00% | ~63 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 291,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -368,9 +368,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12712,
+  "EOS_Progressed": 12713,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -7058,6 +7058,11 @@
       "Time": "2023-08-11T02:17:01.3471078+00:00",
       "NumProgressed": 12712,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-08-11T08:04:04.3306793+00:00",
+      "NumProgressed": 12713,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 35,
@@ -7069,7 +7074,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 11695
+      "UsersEstimate": 11696
     },
     {
       "ID": "ACH_02",
@@ -7077,7 +7082,7 @@
       "Name": "Newcomers",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 9915
+      "UsersEstimate": 9916
     },
     {
       "ID": "ACH_03",
@@ -7093,7 +7098,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 8898
+      "UsersEstimate": 8899
     },
     {
       "ID": "ACH_05",
@@ -7101,7 +7106,7 @@
       "Name": "In our Wake",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 8517
+      "UsersEstimate": 8518
     },
     {
       "ID": "ACH_06",
@@ -7117,7 +7122,7 @@
       "Name": "Felons",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 7754
+      "UsersEstimate": 7755
     },
     {
       "ID": "ACH_08",
@@ -7125,7 +7130,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 7627
+      "UsersEstimate": 7628
     },
     {
       "ID": "ACH_09",
@@ -7141,7 +7146,7 @@
       "Name": "Bloodline",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 6610
+      "UsersEstimate": 6611
     },
     {
       "ID": "ACH_11",
@@ -7157,7 +7162,7 @@
       "Name": "The Life We Deserve",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 5720
+      "UsersEstimate": 5721
     },
     {
       "ID": "ACH_13",
@@ -7173,7 +7178,7 @@
       "Name": "Healing our Wounds",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 4703
+      "UsersEstimate": 4704
     },
     {
       "ID": "ACH_15",
@@ -7197,7 +7202,7 @@
       "Name": "Knights!",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 2542
+      "UsersEstimate": 2543
     },
     {
       "ID": "ACH_18",
@@ -7229,7 +7234,7 @@
       "Name": "Immortal memories",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "ACH_22",
@@ -7285,7 +7290,7 @@
       "Name": "Alchemist",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 8644
+      "UsersEstimate": 8645
     },
     {
       "ID": "ACH_29",
@@ -7293,7 +7298,7 @@
       "Name": "Sneaky",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "ACH_30",
@@ -7339,16 +7344,16 @@
       "ID": "ACH_35",
       "SetID": "9d4cf4c",
       "Name": "Mercy",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 2924
+      "UsersEstimate": 3051
     }
   ],
   "AchievementSets": [
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 12712,
+      "Progressed": 12713,
       "Completed": 42
     }
   ],
@@ -7356,8 +7361,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-07-25T21:01:04.4770621+00:00",
-  "LastChanged_Achievements": "2023-08-11T07:04:29.3312565+00:00",
+  "LastChanged_Achievements": "2023-08-11T08:04:04.3306788+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:22.662799+00:00",
-  "LastUpdate_Ratings": "2023-08-11T07:00:36.2361265+00:00",
-  "LastUpdate_Achievements": "2023-08-11T07:04:29.3313082+00:00"
+  "LastUpdate_Ratings": "2023-08-11T08:00:05.7442244+00:00",
+  "LastUpdate_Achievements": "2023-08-11T08:04:04.3307497+00:00"
 }

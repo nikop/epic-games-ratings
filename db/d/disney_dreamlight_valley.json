@@ -2,7 +2,7 @@
   "ID": "7e2ec8a47b8d41528eb6dd2efd2b1abc",
   "Name": "Disney Dreamlight Valley",
   "ProductSlug": "disney-dreamlight-valley",
-  "Ranking_Rating": 118,
+  "Ranking_Rating": 119,
   "Ranking_Popularity": 148,
   "Ranking_PopularitySum": 106,
   "Ranking_EOS_Progress": 125,
@@ -3066,7 +3066,7 @@
       "Count": 490
     }
   ],
-  "EOS_Progressed": 8487,
+  "EOS_Progressed": 8488,
   "EOS_Completed": 192,
   "EOS_NewPlayers": 299,
   "EOS_NewCompleters": 6,
@@ -9171,6 +9171,11 @@
       "Time": "2023-08-11T07:03:51.1918849+00:00",
       "NumProgressed": 8487,
       "NumCompleted": 192
+    },
+    {
+      "Time": "2023-08-11T08:03:30.2701618+00:00",
+      "NumProgressed": 8488,
+      "NumCompleted": 192
     }
   ],
   "TotalAchievements": 15,
@@ -9222,7 +9227,7 @@
       "Name": "Constructor",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 4498
+      "UsersEstimate": 4499
     },
     {
       "ID": "Duty_Bound",
@@ -9270,7 +9275,7 @@
       "Name": "Photographer",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 5856
+      "UsersEstimate": 5857
     },
     {
       "ID": "Renovator",
@@ -9278,7 +9283,7 @@
       "Name": "Renovator",
       "Percentage": 52,
       "XP": 100,
-      "UsersEstimate": 4413
+      "UsersEstimate": 4414
     },
     {
       "ID": "Thorn_Cleaner",
@@ -9286,7 +9291,7 @@
       "Name": "Thorn Cleaner",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "Valleys_Helper",
@@ -9301,7 +9306,7 @@
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 8487,
+      "Progressed": 8488,
       "Completed": 192
     }
   ],
@@ -9309,8 +9314,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-08-11T06:59:18.1959094+00:00",
-  "LastChanged_Achievements": "2023-08-11T07:03:51.1918846+00:00",
+  "LastChanged_Achievements": "2023-08-11T08:03:30.2701613+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:58.5124398+00:00",
-  "LastUpdate_Ratings": "2023-08-11T06:59:18.1959098+00:00",
-  "LastUpdate_Achievements": "2023-08-11T07:03:51.1919213+00:00"
+  "LastUpdate_Ratings": "2023-08-11T07:58:57.8335267+00:00",
+  "LastUpdate_Achievements": "2023-08-11T08:03:30.2702102+00:00"
 }

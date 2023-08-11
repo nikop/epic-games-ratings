@@ -23,8 +23,8 @@ Rating: 4.22 (Ranked 841)
 | Shocking | 20.00% | ~394 |
 | Court Martial | 19.00% | ~374 |
 | Unforeseeable Consequences | 19.00% | ~374 |
+| Dead Again | 18.00% | ~355 |
 | Clean Cut | 18.00% | ~355 |
-| Dead Again | 17.00% | ~335 |
 | Full Arsenal | 17.00% | ~335 |
 | Can't Trust Banks | 15.00% | ~296 |
 | Mommy Dearest | 13.00% | ~256 |
@@ -54,12 +54,12 @@ Rating: 4.22 (Ranked 841)
 | Homewrecker | 4.00% | ~79 |
 | Plank of Wood | 4.00% | ~79 |
 | Gotta Craft 'em All | 3.00% | ~59 |
+| Own Medicine | 2.00% | ~39 |
 | It Lives! It Sniffs! It Conquers! | 2.00% | ~39 |
 | Three Birds With One Stone | 2.00% | ~39 |
 | Box Office Smash | 2.00% | ~39 |
 | Going Postal | 2.00% | ~39 |
 | Loot, Pillage & Craft | 2.00% | ~39 |
-| Own Medicine | 1.00% | ~20 |
 | Swiss Army Drone | 1.00% | ~20 |
 | The Easy Way Out | 1.00% | ~20 |
 ## Popularity (Based on EOS Achievements)

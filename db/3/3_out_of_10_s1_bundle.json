@@ -3,8 +3,8 @@
   "Name": "3 out of 10 S1 Bundle",
   "Ranking_EOS_Progress": 542,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 357,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 356,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -25,6 +25,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:33:36.5795484+00:00",
-  "LastUpdate_Ratings": "2023-08-11T06:57:29.086972+00:00",
-  "LastUpdate_Achievements": "2023-08-11T07:04:28.8391975+00:00"
+  "LastUpdate_Ratings": "2023-08-11T07:57:18.0438218+00:00",
+  "LastUpdate_Achievements": "2023-08-11T08:04:03.9033121+00:00"
 }

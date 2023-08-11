@@ -3,9 +3,9 @@
 [View Rawdata](../../db/u/uncharted™__legacy_of_thieves_collection.json)  
 Rating: 4.74 (Ranked 147)  
 ## Awards
-Max (Great Boss Battles): 640  (Ranked 174)  
+Max (Great Boss Battles): 640  (Ranked 175)  
 Sum: 963 (Ranked 241)  
-Diff (max vs sum): -67  
+Diff (max vs sum): -66  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 640 |
