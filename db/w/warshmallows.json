@@ -3,7 +3,7 @@
   "Name": "Warshmallows",
   "Ranking_EOS_Progress": 541,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewPlayers": 355,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": null,
@@ -37,6 +37,6 @@
   "FirstSeenRating": "2023-03-31T05:58:31.8551642+00:00",
   "LastChanged": "2023-03-31T05:58:31.8551643+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:32:39.8486154+00:00",
-  "LastUpdate_Ratings": "2023-08-10T23:01:14.3779664+00:00",
-  "LastUpdate_Achievements": "2023-08-10T23:05:31.6885519+00:00"
+  "LastUpdate_Ratings": "2023-08-11T00:00:15.0075692+00:00",
+  "LastUpdate_Achievements": "2023-08-11T00:04:30.268551+00:00"
 }

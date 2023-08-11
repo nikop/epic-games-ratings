@@ -4,7 +4,7 @@
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -898,9 +898,9 @@
       "ID": "all_promotion_5",
       "SetID": "69co12a",
       "Name": "Problems of cyborgs",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 78
     },
     {
       "ID": "all_promotion_6",
@@ -962,9 +962,9 @@
       "ID": "courier_win",
       "SetID": "69co12a",
       "Name": "Legal courier",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 126
+      "UsersEstimate": 129
     },
     {
       "ID": "fight_defeat_1",
@@ -1002,9 +1002,9 @@
       "ID": "fight_win_50",
       "SetID": "69co12a",
       "Name": "Fight is life",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 107
     },
     {
       "ID": "first_job",
@@ -1282,9 +1282,9 @@
       "ID": "resistance_fake",
       "SetID": "69co12a",
       "Name": "Underground dwellers",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 92
     },
     {
       "ID": "resistance_slime",
@@ -1401,8 +1401,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-08-10T23:04:55.7306053+00:00",
+  "LastChanged_Achievements": "2023-08-11T00:04:00.0164575+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:48.1217165+00:00",
-  "LastUpdate_Ratings": "2023-08-10T22:58:58.7825455+00:00",
-  "LastUpdate_Achievements": "2023-08-10T23:04:55.7306776+00:00"
+  "LastUpdate_Ratings": "2023-08-10T23:58:18.7541592+00:00",
+  "LastUpdate_Achievements": "2023-08-11T00:04:00.0165817+00:00"
 }

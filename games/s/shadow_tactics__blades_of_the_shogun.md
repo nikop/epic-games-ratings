@@ -6,8 +6,8 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~21,195 |
-| Thorough | 10.00% | ~19,268 |
+| Genin | 11.00% | ~21,196 |
+| Thorough | 10.00% | ~19,269 |
 | A thief's beginning | 9.00% | ~17,342 |
 | Disguised | 8.00% | ~15,415 |
 | Rollin' | 8.00% | ~15,415 |
@@ -20,13 +20,13 @@ Number of Ratings: 495  (23.09.2022)
 | Ice Ice Yuki | 6.00% | ~11,561 |
 | Mugen Unchained | 6.00% | ~11,561 |
 | Yabu | 6.00% | ~11,561 |
-| Flying Rocks | 5.00% | ~9,634 |
-| Okkoto | 5.00% | ~9,634 |
-| Warzone | 5.00% | ~9,634 |
-| Gear up | 4.00% | ~7,707 |
-| Happy little accidents | 4.00% | ~7,707 |
-| Prisoners | 4.00% | ~7,707 |
-| Too Early | 4.00% | ~7,707 |
+| Flying Rocks | 5.00% | ~9,635 |
+| Okkoto | 5.00% | ~9,635 |
+| Warzone | 5.00% | ~9,635 |
+| Gear up | 4.00% | ~7,708 |
+| Happy little accidents | 4.00% | ~7,708 |
+| Prisoners | 4.00% | ~7,708 |
+| Too Early | 4.00% | ~7,708 |
 | Noboru | 3.00% | ~5,781 |
 | Still Rollin' | 3.00% | ~5,781 |
 | Stoned | 3.00% | ~5,781 |
@@ -39,7 +39,7 @@ Number of Ratings: 495  (23.09.2022)
 | No Gimmicks | 1.00% | ~1,927 |
 | The End | 1.00% | ~1,927 |
 | Undeserved Honor | 0.90% | ~1,734 |
-| When Cut Across the Neck | 0.80% | ~1,541 |
+| When Cut Across the Neck | 0.80% | ~1,542 |
 | High Five the Moon | 0.70% | ~1,349 |
 | The Cave | 0.70% | ~1,349 |
 | Merciful | 0.50% | ~963 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~193 |
 | Release the Kraken | 0.10% | ~193 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 192,685 (Ranked 59)  
+Progressed: 192,691 (Ranked 59)  
 Completed: 68 (0.04%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,6 +164,7 @@ Completed: 68 (0.04%) (Ranked 220)
 | 2023-08-08 | 192,261 | 67 |
 | 2023-08-09 | 192,484 | 68 |
 | 2023-08-10 | 192,685 | 68 |
+| 2023-08-11 | 192,691 | 68 |
 ## Awards
 Max (Great for Beginners): 560  (Ranked 187)  
 Sum: 4,723 (Ranked 134)  

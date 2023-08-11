@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 251,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -956,9 +956,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 8102,
+  "EOS_Progressed": 8103,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -4251,6 +4251,11 @@
       "Time": "2023-08-10T13:18:45.6110967+00:00",
       "NumProgressed": 8102,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-08-11T00:05:33.2864446+00:00",
+      "NumProgressed": 8103,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 24,
@@ -4262,7 +4267,7 @@
       "Name": "Brain at Full Throttle",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1863
+      "UsersEstimate": 1864
     },
     {
       "ID": "Chatterbox",
@@ -4286,7 +4291,7 @@
       "Name": "Focus!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5104
+      "UsersEstimate": 5105
     },
     {
       "ID": "DemonCastleRestoration",
@@ -4382,7 +4387,7 @@
       "Name": "Rookies Welcome",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1620
+      "UsersEstimate": 1621
     },
     {
       "ID": "SavedElderEnt",
@@ -4390,7 +4395,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5104
+      "UsersEstimate": 5105
     },
     {
       "ID": "SavedElderEnt_2",
@@ -4422,7 +4427,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7535
+      "UsersEstimate": 7536
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -4446,22 +4451,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 6806
+      "UsersEstimate": 6807
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8102,
+      "Progressed": 8103,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-08-09T08:59:45.7086335+00:00",
-  "LastChanged_Achievements": "2023-08-10T23:06:46.571311+00:00",
+  "LastChanged_Achievements": "2023-08-11T00:05:33.2864435+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:04.153056+00:00",
-  "LastUpdate_Ratings": "2023-08-10T23:00:51.8399975+00:00",
-  "LastUpdate_Achievements": "2023-08-10T23:06:46.5713469+00:00"
+  "LastUpdate_Ratings": "2023-08-10T23:59:55.6569457+00:00",
+  "LastUpdate_Achievements": "2023-08-11T00:05:33.2864915+00:00"
 }

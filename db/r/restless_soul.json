@@ -4,7 +4,7 @@
   "ProductSlug": "restless-soul-d5baed",
   "Ranking_EOS_Progress": 541,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewPlayers": 355,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-09-01T14:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:20.7530847+00:00",
   "LastChanged": "2023-03-31T05:58:20.7530848+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:19.8420779+00:00",
-  "LastUpdate_Ratings": "2023-08-10T23:01:13.1538989+00:00",
-  "LastUpdate_Achievements": "2023-08-10T23:07:52.2828289+00:00"
+  "LastUpdate_Ratings": "2023-08-11T00:00:14.1436087+00:00",
+  "LastUpdate_Achievements": "2023-08-11T00:06:29.3545148+00:00"
 }

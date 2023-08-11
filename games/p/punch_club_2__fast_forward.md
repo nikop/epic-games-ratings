@@ -33,27 +33,27 @@
 | Intriguing candies | 57.00% | ~139 |
 | Employee of the year | 57.00% | ~139 |
 | Fight for life | 56.00% | ~136 |
-| Legal courier | 52.00% | ~126 |
+| Legal courier | 53.00% | ~129 |
 | Extreme neuropower! | 52.00% | ~126 |
 | Escaped from a big trouble | 49.00% | ~119 |
 | Now you are worthy | 46.00% | ~112 |
 | Guiding on the right path | 45.00% | ~109 |
+| Fight is life | 44.00% | ~107 |
 | Mysterious voice | 44.00% | ~107 |
 | No blades in the gym | 44.00% | ~107 |
-| Fight is life | 43.00% | ~104 |
 | Your own way | 40.00% | ~97 |
 | Champion – no way back | 39.00% | ~95 |
+| Underground dwellers | 38.00% | ~92 |
 | Responsible approach | 38.00% | ~92 |
 | Poisoned fighter | 37.00% | ~90 |
 | Get out of my apartment! | 37.00% | ~90 |
-| Underground dwellers | 37.00% | ~90 |
 | Deal with life | 36.00% | ~87 |
 | Mom got better | 35.00% | ~85 |
 | GYM professional | 35.00% | ~85 |
 | The die is cast | 35.00% | ~85 |
 | Seashell hunter | 34.00% | ~83 |
 | Gang wrangler | 32.00% | ~78 |
-| Problems of cyborgs | 31.00% | ~75 |
+| Problems of cyborgs | 32.00% | ~78 |
 | Absolute Champion! | 31.00% | ~75 |
 | Undercover robot | 31.00% | ~75 |
 | Not little hacker | 30.00% | ~73 |

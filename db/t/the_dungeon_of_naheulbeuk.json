@@ -612,9 +612,9 @@
       "Count": 157
     }
   ],
-  "EOS_Progressed": 210011,
+  "EOS_Progressed": 210027,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4231,
+  "EOS_NewPlayers": 4225,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6422,6 +6422,11 @@
       "Time": "2023-08-10T23:05:00.9180698+00:00",
       "NumProgressed": 210011,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-11T00:04:04.9134017+00:00",
+      "NumProgressed": 210027,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -6487,9 +6492,9 @@
       "ID": "Chapter2",
       "SetID": "50chcgj",
       "Name": "A beer, two curses, three companions",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 210
+      "UsersEstimate": 420
     },
     {
       "ID": "Chapter3",
@@ -7136,21 +7141,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 210011,
+      "Progressed": 210027,
       "Completed": 0
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 210011,
+      "Progressed": 210027,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-08T15:00:26.9457471+00:00",
-  "LastChanged_Achievements": "2023-08-10T23:05:00.9180692+00:00",
+  "LastChanged_Achievements": "2023-08-11T00:04:04.9134009+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:59.1388847+00:00",
-  "LastUpdate_Ratings": "2023-08-10T23:00:47.6620635+00:00",
-  "LastUpdate_Achievements": "2023-08-10T23:05:00.9182136+00:00"
+  "LastUpdate_Ratings": "2023-08-10T23:59:51.3823775+00:00",
+  "LastUpdate_Achievements": "2023-08-11T00:04:04.9136929+00:00"
 }

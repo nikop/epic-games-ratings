@@ -4,7 +4,7 @@
   "ProductSlug": "samorost-3-0c4489",
   "Ranking_EOS_Progress": 371,
   "Ranking_EOS_Completed": 80,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
@@ -314,9 +314,9 @@
       "ID": "Kvitky",
       "SetID": "ag48e8e",
       "Name": "Blossoms",
-      "Percentage": 34,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "MluviciPapouch",
@@ -473,8 +473,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-08-10T23:04:29.0020394+00:00",
+  "LastChanged_Achievements": "2023-08-11T00:03:38.3669769+00:00",
   "LastUpdate_AppInfo": "2023-08-04T15:57:19.5735536+00:00",
-  "LastUpdate_Ratings": "2023-08-10T22:58:05.5357853+00:00",
-  "LastUpdate_Achievements": "2023-08-10T23:04:29.002063+00:00"
+  "LastUpdate_Ratings": "2023-08-10T23:57:32.6482735+00:00",
+  "LastUpdate_Achievements": "2023-08-11T00:03:38.3670088+00:00"
 }

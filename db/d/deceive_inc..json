@@ -220,9 +220,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17234,
+  "EOS_Progressed": 17235,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 410,
+  "EOS_NewPlayers": 406,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7945,6 +7945,11 @@
       "Time": "2023-08-10T23:05:16.2018031+00:00",
       "NumProgressed": 17234,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-11T00:04:17.4445318+00:00",
+      "NumProgressed": 17235,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -8044,7 +8049,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2757
+      "UsersEstimate": 2758
     },
     {
       "ID": "0013",
@@ -8084,7 +8089,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3274
+      "UsersEstimate": 3275
     },
     {
       "ID": "0018",
@@ -8092,7 +8097,7 @@
       "Name": "In It to Win It",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1723
+      "UsersEstimate": 1724
     },
     {
       "ID": "0019",
@@ -8140,7 +8145,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 3791
+      "UsersEstimate": 3792
     },
     {
       "ID": "0025",
@@ -8180,7 +8185,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2240
+      "UsersEstimate": 2241
     },
     {
       "ID": "0030",
@@ -8243,7 +8248,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17234,
+      "Progressed": 17235,
       "Completed": 1
     }
   ],
@@ -8251,8 +8256,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-08T19:59:53.3803436+00:00",
-  "LastChanged_Achievements": "2023-08-10T23:05:16.2018027+00:00",
+  "LastChanged_Achievements": "2023-08-11T00:04:17.4445308+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:35.6736811+00:00",
-  "LastUpdate_Ratings": "2023-08-10T23:01:30.8700369+00:00",
-  "LastUpdate_Achievements": "2023-08-10T23:05:16.2018753+00:00"
+  "LastUpdate_Ratings": "2023-08-11T00:00:32.9050455+00:00",
+  "LastUpdate_Achievements": "2023-08-11T00:04:17.4446632+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "dodo-peak-159276",
   "Ranking_EOS_Progress": 406,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-08-03T05:00:00+00:00",
@@ -134,9 +134,9 @@
       "ID": "grp_beet",
       "SetID": "2gd32f",
       "Name": "The early bird gets the beet",
-      "Percentage": 33,
+      "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "grp_collect_ruby",
@@ -150,9 +150,9 @@
       "ID": "grp_endless",
       "SetID": "2gd32f",
       "Name": "That Sinking Feeling",
-      "Percentage": 11,
+      "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "grp_finallevel",
@@ -190,17 +190,17 @@
       "ID": "grp_level30",
       "SetID": "2gd32f",
       "Name": "Level 30!",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "grp_level40",
       "SetID": "2gd32f",
       "Name": "Level 40!",
-      "Percentage": 6,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "grp_level50",
@@ -269,8 +269,8 @@
   ],
   "FirstSeen": "2023-08-08T23:57:15.7691389+00:00",
   "FirstSeenAchievements": "2023-08-03T06:01:19.3820026+00:00",
-  "LastChanged_Achievements": "2023-08-10T23:03:40.1384378+00:00",
+  "LastChanged_Achievements": "2023-08-11T00:03:06.3045931+00:00",
   "LastUpdate_AppInfo": "2023-08-10T06:57:08.1237157+00:00",
-  "LastUpdate_Ratings": "2023-08-10T22:57:47.3637094+00:00",
-  "LastUpdate_Achievements": "2023-08-10T23:03:40.1384504+00:00"
+  "LastUpdate_Ratings": "2023-08-10T23:57:17.1660144+00:00",
+  "LastUpdate_Achievements": "2023-08-11T00:03:06.3046136+00:00"
 }

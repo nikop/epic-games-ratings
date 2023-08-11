@@ -30,10 +30,10 @@ Number of Ratings: 2,847  (23.09.2022)
 | Fish Guts and Murder | 8.00% | ~87 |
 | Alchemist | 7.00% | ~76 |
 | The Siege of Crägholdt | 7.00% | ~76 |
+| Explorer | 6.00% | ~65 |
 | A Voice from the Deep | 6.00% | ~65 |
 | Called to their Labor | 6.00% | ~65 |
 | From the Clouds to the Depths | 5.00% | ~54 |
-| Explorer | 5.00% | ~54 |
 | Terror of the White March | 5.00% | ~54 |
 | Chef | 4.00% | ~44 |
 | Scribe | 4.00% | ~44 |

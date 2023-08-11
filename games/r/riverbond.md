@@ -6,19 +6,19 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~367,270 |
+| First Step | 70.00% | ~367,271 |
 | Now You're Talking | 62.00% | ~325,297 |
 | Steel Yourself | 62.00% | ~325,297 |
 | Window Dressing | 50.00% | ~262,336 |
-| Trigger Happy | 46.00% | ~241,349 |
-| Riverborn | 45.00% | ~236,102 |
-| Starry Eyed | 34.00% | ~178,388 |
-| Poking Around | 34.00% | ~178,388 |
-| Talk of the Town | 24.00% | ~125,921 |
+| Trigger Happy | 46.00% | ~241,350 |
+| Riverborn | 45.00% | ~236,103 |
+| Starry Eyed | 34.00% | ~178,389 |
+| Poking Around | 34.00% | ~178,389 |
+| Talk of the Town | 24.00% | ~125,922 |
 | AAARR! | 23.00% | ~120,675 |
 | Hello Darkness | 23.00% | ~120,675 |
 | Wind At Our Backs | 22.00% | ~115,428 |
-| To the Beat | 20.00% | ~104,934 |
+| To the Beat | 20.00% | ~104,935 |
 | Sunny Shores | 17.00% | ~89,194 |
 | Sunday Best | 16.00% | ~83,948 |
 | To Victory! | 15.00% | ~78,701 |
@@ -28,8 +28,8 @@ Number of Ratings: 617  (23.09.2022)
 | Make Peace, Not War | 11.00% | ~57,714 |
 | Walking The Line | 10.00% | ~52,467 |
 | Not So Cute Anymore | 10.00% | ~52,467 |
-| Road Less Travelled | 9.00% | ~47,220 |
-| Lost and Found | 9.00% | ~47,220 |
+| Road Less Travelled | 9.00% | ~47,221 |
+| Lost and Found | 9.00% | ~47,221 |
 | Under the Radar | 8.00% | ~41,974 |
 | Partner in Crime | 7.00% | ~36,727 |
 | Hard to Hear | 7.00% | ~36,727 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,574 |
 | Point Taken | 0.10% | ~525 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 524,672 (Ranked 30)  
+Progressed: 524,673 (Ranked 30)  
 Completed: 456 (0.09%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,6 +177,7 @@ Completed: 456 (0.09%) (Ranked 203)
 | 2023-08-08 | 524,509 | 455 |
 | 2023-08-09 | 524,591 | 455 |
 | 2023-08-10 | 524,672 | 456 |
+| 2023-08-11 | 524,673 | 456 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

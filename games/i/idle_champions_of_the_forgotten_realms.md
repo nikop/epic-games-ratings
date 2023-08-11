@@ -523,8 +523,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | To Infinity's and Beyond | 0.10% | ~187 |
 | There's a Flying Snake in my Boot! | 0.10% | ~187 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,586 (Ranked 52)  
-Completed: 2,169 (0.98%) (Ranked 113)  
+Progressed: 220,598 (Ranked 52)  
+Completed: 2,170 (0.98%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -636,6 +636,7 @@ Completed: 2,169 (0.98%) (Ranked 113)
 | 2023-08-08 | 220,011 | 2,165 |
 | 2023-08-09 | 220,283 | 2,167 |
 | 2023-08-10 | 220,586 | 2,169 |
+| 2023-08-11 | 220,598 | 2,170 |
 ## Awards
 Max (Diverse Characters): 5,136  (Ranked 67)  
 Sum: 30,993 (Ranked 38)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 30,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 65,
+  "Ranking_EOS_NewPlayers": 66,
   "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
@@ -480,9 +480,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 524672,
+  "EOS_Progressed": 524673,
   "EOS_Completed": 456,
-  "EOS_NewPlayers": 625,
+  "EOS_NewPlayers": 624,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -12305,6 +12305,11 @@
       "Time": "2023-08-10T23:05:48.0731884+00:00",
       "NumProgressed": 524672,
       "NumCompleted": 456
+    },
+    {
+      "Time": "2023-08-11T00:04:43.9846683+00:00",
+      "NumProgressed": 524673,
+      "NumCompleted": 456
     }
   ],
   "TotalAchievements": 57,
@@ -12324,7 +12329,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 236102
+      "UsersEstimate": 236103
     },
     {
       "ID": "11",
@@ -12332,7 +12337,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 367270
+      "UsersEstimate": 367271
     },
     {
       "ID": "12",
@@ -12372,7 +12377,7 @@
       "Name": "Road Less Travelled",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 47220
+      "UsersEstimate": 47221
     },
     {
       "ID": "17",
@@ -12412,7 +12417,7 @@
       "Name": "Talk of the Town",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 125921
+      "UsersEstimate": 125922
     },
     {
       "ID": "21",
@@ -12428,7 +12433,7 @@
       "Name": "Lost and Found",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 47220
+      "UsersEstimate": 47221
     },
     {
       "ID": "23",
@@ -12572,7 +12577,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 178388
+      "UsersEstimate": 178389
     },
     {
       "ID": "4",
@@ -12652,7 +12657,7 @@
       "Name": "To the Beat",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 104934
+      "UsersEstimate": 104935
     },
     {
       "ID": "49",
@@ -12660,7 +12665,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 178388
+      "UsersEstimate": 178389
     },
     {
       "ID": "5",
@@ -12692,7 +12697,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 241349
+      "UsersEstimate": 241350
     },
     {
       "ID": "53",
@@ -12771,15 +12776,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 524672,
+      "Progressed": 524673,
       "Completed": 456
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
-  "LastChanged_Achievements": "2023-08-10T23:05:48.0731878+00:00",
+  "LastChanged_Achievements": "2023-08-11T00:04:43.9846676+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:46.5047426+00:00",
-  "LastUpdate_Ratings": "2023-08-10T22:58:55.0436309+00:00",
-  "LastUpdate_Achievements": "2023-08-10T23:05:48.0733229+00:00"
+  "LastUpdate_Ratings": "2023-08-10T23:58:16.1990455+00:00",
+  "LastUpdate_Achievements": "2023-08-11T00:04:43.9849243+00:00"
 }

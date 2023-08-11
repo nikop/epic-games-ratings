@@ -1256,9 +1256,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 427320,
+  "EOS_Progressed": 427322,
   "EOS_Completed": 525,
-  "EOS_NewPlayers": 146,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -9141,6 +9141,11 @@
       "Time": "2023-08-10T23:04:12.823975+00:00",
       "NumProgressed": 427320,
       "NumCompleted": 525
+    },
+    {
+      "Time": "2023-08-11T00:03:24.6359055+00:00",
+      "NumProgressed": 427322,
+      "NumCompleted": 525
     }
   ],
   "TotalAchievements": 41,
@@ -9168,7 +9173,7 @@
       "Name": "Hunter in the Forest",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 256392
+      "UsersEstimate": 256393
     },
     {
       "ID": "ACH_ABILITY_DASH",
@@ -9192,7 +9197,7 @@
       "Name": "Spirit Guide",
       "Percentage": 42,
       "XP": 60,
-      "UsersEstimate": 179474
+      "UsersEstimate": 179475
     },
     {
       "ID": "ACH_BOSS_TOSHI",
@@ -9200,7 +9205,7 @@
       "Name": "A Leader Walks Alone",
       "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 111103
+      "UsersEstimate": 111104
     },
     {
       "ID": "ACH_BOSS_WOODSMITH",
@@ -9208,7 +9213,7 @@
       "Name": "A Heavy Hammer",
       "Percentage": 30,
       "XP": 60,
-      "UsersEstimate": 128196
+      "UsersEstimate": 128197
     },
     {
       "ID": "ACH_CHALLENGE_ARROW",
@@ -9232,7 +9237,7 @@
       "Name": "Rot Commander",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 256392
+      "UsersEstimate": 256393
     },
     {
       "ID": "ACH_CHALLENGE_CRIT",
@@ -9264,7 +9269,7 @@
       "Name": "Weigh Them Down",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 132469
+      "UsersEstimate": 132470
     },
     {
       "ID": "ACH_CHALLENGE_MULTISHOT",
@@ -9272,7 +9277,7 @@
       "Name": "Bow Master",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 111103
+      "UsersEstimate": 111104
     },
     {
       "ID": "ACH_CHALLENGE_PARRY_KILL",
@@ -9288,7 +9293,7 @@
       "Name": "Between the Eyes",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 196567
+      "UsersEstimate": 196568
     },
     {
       "ID": "ACH_CHESTS_ALL",
@@ -9296,7 +9301,7 @@
       "Name": "Curse Collector",
       "Percentage": 7,
       "XP": 60,
-      "UsersEstimate": 29912
+      "UsersEstimate": 29913
     },
     {
       "ID": "ACH_DIFFICULTY_MASTER",
@@ -9320,7 +9325,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 405954
+      "UsersEstimate": 405956
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -9336,7 +9341,7 @@
       "Name": "Good as New",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 307670
+      "UsersEstimate": 307672
     },
     {
       "ID": "ACH_LOCATION_FARM",
@@ -9344,7 +9349,7 @@
       "Name": "The Open Range",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 158108
+      "UsersEstimate": 158109
     },
     {
       "ID": "ACH_LOCATION_FOREST",
@@ -9352,7 +9357,7 @@
       "Name": "Into the Woods",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 294851
+      "UsersEstimate": 294852
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -9360,7 +9365,7 @@
       "Name": "The Lonely Path",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 111103
+      "UsersEstimate": 111104
     },
     {
       "ID": "ACH_LOCATION_VILLAGE",
@@ -9368,7 +9373,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 341856
+      "UsersEstimate": 341858
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -9376,7 +9381,7 @@
       "Name": "The Last Stop",
       "Percentage": 7,
       "XP": 60,
-      "UsersEstimate": 29912
+      "UsersEstimate": 29913
     },
     {
       "ID": "ACH_MEDITATION_ALL",
@@ -9392,7 +9397,7 @@
       "Name": "Say Cheese",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 68371
+      "UsersEstimate": 68372
     },
     {
       "ID": "ACH_RELIC_FOOD_OFFERING",
@@ -9400,7 +9405,7 @@
       "Name": "Taro\u0027s Love",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 192294
+      "UsersEstimate": 192295
     },
     {
       "ID": "ACH_RELIC_HAMMER",
@@ -9416,7 +9421,7 @@
       "Name": "Toshi\u0027s Regret",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 115376
+      "UsersEstimate": 115377
     },
     {
       "ID": "ACH_RELIC_INCENSE",
@@ -9424,7 +9429,7 @@
       "Name": "Toshi\u0027s Fear",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 115376
+      "UsersEstimate": 115377
     },
     {
       "ID": "ACH_RELIC_KNIFE",
@@ -9432,7 +9437,7 @@
       "Name": "Taro\u0027s Fear",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 239299
+      "UsersEstimate": 239300
     },
     {
       "ID": "ACH_RELIC_LANTERN",
@@ -9456,7 +9461,7 @@
       "Name": "Toshi\u0027s Love",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 115376
+      "UsersEstimate": 115377
     },
     {
       "ID": "ACH_RELIC_VILLAGE_HEART",
@@ -9464,7 +9469,7 @@
       "Name": "Adira\u0027s Regret",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 132469
+      "UsersEstimate": 132470
     },
     {
       "ID": "ACH_ROT_ALL",
@@ -9479,15 +9484,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 427320,
+      "Progressed": 427322,
       "Completed": 525
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-08-08T09:00:07.5291923+00:00",
-  "LastChanged_Achievements": "2023-08-10T23:04:12.8239746+00:00",
+  "LastChanged_Achievements": "2023-08-11T00:03:24.6359049+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:10.650083+00:00",
-  "LastUpdate_Ratings": "2023-08-10T22:59:56.5632946+00:00",
-  "LastUpdate_Achievements": "2023-08-10T23:04:12.8240445+00:00"
+  "LastUpdate_Ratings": "2023-08-10T23:59:06.3578984+00:00",
+  "LastUpdate_Achievements": "2023-08-11T00:03:24.6359958+00:00"
 }
