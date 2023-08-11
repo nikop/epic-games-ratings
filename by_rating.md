@@ -358,7 +358,7 @@
 | 348 | [Limbo](games/l/limbo.md) | 4.62 | 0 | 511 |
 | 348 | [NORCO](games/n/norco.md) | 4.62 | 0 | 511 |
 | 348 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.62 | 0 | 511 |
-| 348 | [Prey](games/p/prey.md) | 4.62 | 5,631 | 63 |
+| 348 | [Prey](games/p/prey.md) | 4.62 | 5,632 | 63 |
 | 348 | [Roguebook](games/r/roguebook.md) | 4.62 | 0 | 511 |
 | 348 | [System Shock](games/s/system_shock.md) | 4.62 | 0 | 511 |
 | 348 | [The Medium](games/t/the_medium.md) | 4.62 | 0 | 511 |
@@ -460,7 +460,7 @@
 | 448 | [Little Inferno](games/l/little_inferno.md) | 4.57 | 0 | 511 |
 | 448 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,660 | 45 |
 | 448 | [Observation](games/o/observation.md) | 4.57 | 0 | 511 |
-| 448 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,194 | 92 |
+| 448 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,196 | 92 |
 | 448 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.57 | 0 | 511 |
 | 448 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.57 | 0 | 511 |
 | 448 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 3,677 | 83 |
@@ -542,7 +542,7 @@
 | 540 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.51 | 1,689 | 118 |
 | 540 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 96 | 341 |
 | 540 | [Auto Chess](games/a/auto_chess.md) | 4.51 | 772 | 158 |
-| 540 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,109 | 79 |
+| 540 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,111 | 79 |
 | 540 | [CryoFall](games/c/cryofall.md) | 4.51 | 0 | 511 |
 | 540 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 41 | 422 |
 | 540 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.51 | 2,636 | 96 |
@@ -609,7 +609,7 @@
 | 607 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 0 | 511 |
 | 607 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 0 | 511 |
 | 607 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.47 | 0 | 511 |
-| 607 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,500 | 84 |
+| 607 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,501 | 84 |
 | 607 | [Mars Horizon](games/m/mars_horizon.md) | 4.47 | 0 | 511 |
 | 607 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.47 | 38 | 428 |
 | 607 | [Riverbond](games/r/riverbond.md) | 4.47 | 0 | 511 |
@@ -617,7 +617,6 @@
 | 607 | [Scorn](games/s/scorn.md) | 4.47 | 0 | 511 |
 | 607 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.47 | 0 | 511 |
 | 617 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 0 | 511 |
-| 617 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 4.46 | 23 | 488 |
 | 617 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.46 | 0 | 511 |
 | 617 | [ATOM RPG](games/a/atom_rpg.md) | 4.46 | 49 | 405 |
 | 617 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,489 | 86 |
@@ -631,17 +630,18 @@
 | 617 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 286 | 239 |
 | 617 | [Train Valley](games/t/train_valley.md) | 4.46 | 0 | 511 |
 | 617 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.46 | 0 | 511 |
-| 632 | [Chorus](games/c/chorus.md) | 4.45 | 32 | 452 |
-| 632 | [Death Coming](games/d/death_coming.md) | 4.45 | 0 | 511 |
-| 632 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 242 | 255 |
-| 632 | [Faeria](games/f/faeria.md) | 4.45 | 109 | 325 |
-| 632 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.45 | 798 | 156 |
-| 632 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 11,071 | 34 |
-| 632 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.45 | 31 | 457 |
-| 632 | [Pathway](games/p/pathway.md) | 4.45 | 0 | 511 |
-| 632 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.45 | 53 | 395 |
-| 632 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 116 | 321 |
-| 632 | [True Fear: Forsaken Souls Part 2](games/t/true_fear__forsaken_souls_part_2.md) | 4.45 | 0 | 511 |
+| 631 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 4.45 | 23 | 488 |
+| 631 | [Chorus](games/c/chorus.md) | 4.45 | 32 | 452 |
+| 631 | [Death Coming](games/d/death_coming.md) | 4.45 | 0 | 511 |
+| 631 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 242 | 255 |
+| 631 | [Faeria](games/f/faeria.md) | 4.45 | 109 | 325 |
+| 631 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.45 | 798 | 156 |
+| 631 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 11,071 | 34 |
+| 631 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.45 | 31 | 457 |
+| 631 | [Pathway](games/p/pathway.md) | 4.45 | 0 | 511 |
+| 631 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.45 | 53 | 395 |
+| 631 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 116 | 321 |
+| 631 | [True Fear: Forsaken Souls Part 2](games/t/true_fear__forsaken_souls_part_2.md) | 4.45 | 0 | 511 |
 | 643 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 0 | 511 |
 | 643 | [ELEX](games/e/elex.md) | 4.44 | 24 | 481 |
 | 643 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 0 | 511 |
@@ -711,7 +711,7 @@
 | 705 | [Hero's Hour](games/h/hero's_hour.md) | 4.39 | 0 | 511 |
 | 705 | [Iron Harvest](games/i/iron_harvest.md) | 4.39 | 0 | 511 |
 | 705 | [MORDHAU](games/m/mordhau.md) | 4.39 | 498 | 197 |
-| 705 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,738 | 32 |
+| 705 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,740 | 32 |
 | 705 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 4.39 | 0 | 511 |
 | 705 | [Startup Panic](games/s/startup_panic.md) | 4.39 | 0 | 511 |
 | 705 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 328 | 229 |
@@ -849,7 +849,7 @@
 | 841 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.22 | 78 | 363 |
 | 848 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 31 | 457 |
 | 848 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.21 | 0 | 511 |
-| 848 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 15,254 | 23 |
+| 848 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 15,276 | 23 |
 | 848 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.21 | 0 | 511 |
 | 852 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 123 | 312 |
 | 852 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 121 | 315 |
