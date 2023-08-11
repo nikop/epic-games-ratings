@@ -2,9 +2,9 @@
   "ID": "a5c7f255d82b45c29d9ae3e3d2e5563a",
   "Name": "The Case of the Golden Idol",
   "ProductSlug": "the-case-of-the-golden-idol-ce58f7",
-  "Ranking_EOS_Progress": 296,
+  "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 53,
-  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-03-23T16:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 172,
+  "EOS_Progressed": 173,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.65,
+  "EOS_Completed_Percentage": 4.62,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:11.7250837+00:00",
@@ -668,6 +668,11 @@
       "Time": "2023-08-09T11:07:26.2356033+00:00",
       "NumProgressed": 172,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-08-11T17:06:29.9387079+00:00",
+      "NumProgressed": 173,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 14,
@@ -790,13 +795,13 @@
     {
       "ID": "acl54ke",
       "IsBase": true,
-      "Progressed": 172,
+      "Progressed": 173,
       "Completed": 8
     },
     {
       "ID": "a3epimb",
       "IsBase": false,
-      "Progressed": 119,
+      "Progressed": 120,
       "Completed": 108
     }
   ],
@@ -804,8 +809,8 @@
   "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00",
   "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
-  "LastChanged_Achievements": "2023-08-11T16:06:39.2486822+00:00",
+  "LastChanged_Achievements": "2023-08-11T17:06:29.9387072+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:33.8764254+00:00",
-  "LastUpdate_Ratings": "2023-08-11T15:59:56.275635+00:00",
-  "LastUpdate_Achievements": "2023-08-11T16:06:39.2486959+00:00"
+  "LastUpdate_Ratings": "2023-08-11T16:59:52.1533037+00:00",
+  "LastUpdate_Achievements": "2023-08-11T17:06:29.9387222+00:00"
 }

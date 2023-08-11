@@ -3,8 +3,8 @@
   "Name": "Access Denied Escape",
   "ProductSlug": "access-denied-escape-1d486e",
   "Ranking_EOS_Progress": 310,
-  "Ranking_EOS_Completed": 9,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_Completed": 8,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 120,
+  "EOS_Progressed": 121,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 21.67,
+  "EOS_Completed_Percentage": 21.49,
   "EosHistory": [
     {
       "Time": "2023-07-22T13:07:04.2774208+00:00",
@@ -561,6 +561,11 @@
       "Time": "2023-08-11T13:08:24.5732315+00:00",
       "NumProgressed": 120,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-08-11T17:05:11.9217864+00:00",
+      "NumProgressed": 121,
+      "NumCompleted": 26
     }
   ],
   "AchievementsAdded": "2023-07-04T15:00:48.8668077+00:00",
@@ -587,9 +592,9 @@
       "ID": "Compiling",
       "SetID": "7jbi7el",
       "Name": "Job completed!",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 55
+      "UsersEstimate": 54
     },
     {
       "ID": "FallDeath",
@@ -605,13 +610,13 @@
       "Name": "Test Task",
       "Percentage": 98,
       "XP": 30,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "Floppy",
       "SetID": "7jbi7el",
       "Name": "Additional Data",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 70,
       "UsersEstimate": 67
     },
@@ -621,7 +626,7 @@
       "Name": "Beginner Electrician",
       "Percentage": 87,
       "XP": 70,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "GameComplete",
@@ -635,15 +640,15 @@
       "ID": "GasDeath",
       "SetID": "7jbi7el",
       "Name": "Contract Termination",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 49
+      "UsersEstimate": 48
     },
     {
       "ID": "GasFound",
       "SetID": "7jbi7el",
       "Name": "Something is wrong here",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 100,
       "UsersEstimate": 56
     },
@@ -651,9 +656,9 @@
       "ID": "Hologram",
       "SetID": "7jbi7el",
       "Name": "Holographic Scanner",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 70,
-      "UsersEstimate": 61
+      "UsersEstimate": 60
     },
     {
       "ID": "Screwdriver",
@@ -684,14 +689,14 @@
     {
       "ID": "7jbi7el",
       "IsBase": true,
-      "Progressed": 120,
+      "Progressed": 121,
       "Completed": 26
     }
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-08-11T16:05:18.2869995+00:00",
+  "LastChanged_Achievements": "2023-08-11T17:05:11.9217857+00:00",
   "LastUpdate_AppInfo": "2023-08-08T17:57:14.9821131+00:00",
-  "LastUpdate_Ratings": "2023-08-11T15:57:48.9524096+00:00",
-  "LastUpdate_Achievements": "2023-08-11T16:05:18.2870127+00:00"
+  "LastUpdate_Ratings": "2023-08-11T16:57:46.1432371+00:00",
+  "LastUpdate_Achievements": "2023-08-11T17:05:11.9218009+00:00"
 }

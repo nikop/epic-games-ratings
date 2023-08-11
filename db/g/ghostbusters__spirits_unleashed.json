@@ -1770,9 +1770,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 24976,
+  "EOS_Progressed": 24977,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 236,
+  "EOS_NewPlayers": 237,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -10140,6 +10140,11 @@
       "Time": "2023-08-11T15:03:08.2305545+00:00",
       "NumProgressed": 24976,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-08-11T17:03:13.643409+00:00",
+      "NumProgressed": 24977,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 51,
@@ -10151,7 +10156,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 18232
+      "UsersEstimate": 18233
     },
     {
       "ID": "Animated",
@@ -10191,7 +10196,7 @@
       "Name": "Clutch Capture",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 9990
+      "UsersEstimate": 9991
     },
     {
       "ID": "Collect_Spores",
@@ -10207,7 +10212,7 @@
       "Name": "Collector",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 5744
+      "UsersEstimate": 5745
     },
     {
       "ID": "Cultured",
@@ -10239,7 +10244,7 @@
       "Name": "Discovery",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 15235
+      "UsersEstimate": 15236
     },
     {
       "ID": "Dont_Need_These",
@@ -10255,7 +10260,7 @@
       "Name": "Ectoplasmic Entity",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 5744
+      "UsersEstimate": 5745
     },
     {
       "ID": "Efficient",
@@ -10271,7 +10276,7 @@
       "Name": "Escape Artist",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 3746
+      "UsersEstimate": 3747
     },
     {
       "ID": "Fragile_Panes",
@@ -10287,7 +10292,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 13487
+      "UsersEstimate": 13488
     },
     {
       "ID": "GB_In_Training",
@@ -10383,7 +10388,7 @@
       "Name": "Rift Destroyer",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 4745
+      "UsersEstimate": 4746
     },
     {
       "ID": "Rift_Seeker",
@@ -10439,7 +10444,7 @@
       "Name": "Solo Capture",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 7992
+      "UsersEstimate": 7993
     },
     {
       "ID": "Stunner",
@@ -10455,7 +10460,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 21479
+      "UsersEstimate": 21480
     },
     {
       "ID": "Summoner",
@@ -10479,7 +10484,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 13487
+      "UsersEstimate": 13488
     },
     {
       "ID": "Teamwork",
@@ -10487,7 +10492,7 @@
       "Name": "Teamwork",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 10989
+      "UsersEstimate": 10990
     },
     {
       "ID": "Terrifying",
@@ -10535,7 +10540,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 11988
+      "UsersEstimate": 11989
     },
     {
       "ID": "Welcome_Crew",
@@ -10558,7 +10563,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 24976,
+      "Progressed": 24977,
       "Completed": 50
     }
   ],
@@ -10566,8 +10571,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-08-11T16:00:21.6492183+00:00",
-  "LastChanged_Achievements": "2023-08-11T16:03:27.9237207+00:00",
+  "LastChanged_Achievements": "2023-08-11T17:03:13.6434084+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:01.1115448+00:00",
-  "LastUpdate_Ratings": "2023-08-11T16:00:21.649219+00:00",
-  "LastUpdate_Achievements": "2023-08-11T16:03:27.9237995+00:00"
+  "LastUpdate_Ratings": "2023-08-11T17:00:15.0583553+00:00",
+  "LastUpdate_Achievements": "2023-08-11T17:03:13.6434911+00:00"
 }

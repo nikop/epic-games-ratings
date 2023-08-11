@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 250,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -962,7 +962,7 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 8106,
+  "EOS_Progressed": 8107,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 1,
@@ -4277,6 +4277,11 @@
       "Time": "2023-08-11T16:06:07.9412398+00:00",
       "NumProgressed": 8106,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-08-11T17:06:00.1364569+00:00",
+      "NumProgressed": 8107,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 24,
@@ -4288,7 +4293,7 @@
       "Name": "Brain at Full Throttle",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1864
+      "UsersEstimate": 1865
     },
     {
       "ID": "Chatterbox",
@@ -4336,7 +4341,7 @@
       "Name": "False Goddess, Disappear",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 3242
+      "UsersEstimate": 3243
     },
     {
       "ID": "FakeGoddessGone_2",
@@ -4400,7 +4405,7 @@
       "Name": "Rules of Etiquette",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 3242
+      "UsersEstimate": 3243
     },
     {
       "ID": "RookieWelcome",
@@ -4448,7 +4453,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7539
+      "UsersEstimate": 7540
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -4472,22 +4477,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 6809
+      "UsersEstimate": 6810
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8106,
+      "Progressed": 8107,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-08-11T14:01:50.5837413+00:00",
-  "LastChanged_Achievements": "2023-08-11T16:06:07.941239+00:00",
+  "LastChanged_Achievements": "2023-08-11T17:06:00.1364562+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:04.153056+00:00",
-  "LastUpdate_Ratings": "2023-08-11T16:00:22.6459796+00:00",
-  "LastUpdate_Achievements": "2023-08-11T16:06:07.9412709+00:00"
+  "LastUpdate_Ratings": "2023-08-11T17:00:16.0252879+00:00",
+  "LastUpdate_Achievements": "2023-08-11T17:06:00.1364924+00:00"
 }

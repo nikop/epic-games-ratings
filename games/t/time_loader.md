@@ -18,14 +18,14 @@
 | Harpoon | 21.00% | ~25 |
 | Act 3 | 21.00% | ~25 |
 | Cassette | 20.00% | ~23 |
-| Here we go again | 19.00% | ~22 |
+| Here we go again | 20.00% | ~23 |
 | Flyer | 17.00% | ~20 |
 | It’s in the Vault | 15.00% | ~18 |
 | Dr. Antivirus | 15.00% | ~18 |
 | Photo | 14.00% | ~16 |
 | Access protocol | 14.00% | ~16 |
 | Time Capsule | 13.00% | ~15 |
-| Ticket | 12.00% | ~14 |
+| Ticket | 13.00% | ~15 |
 | Contract | 9.00% | ~11 |
 | Baseball | 9.00% | ~11 |
 | VHS blogger | 9.00% | ~11 |

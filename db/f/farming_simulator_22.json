@@ -2,12 +2,12 @@
   "ID": "308cbcb523ad4937a8c509d10e9b688a",
   "Name": "Farming Simulator 22",
   "ProductSlug": "farming-simulator-22",
-  "Ranking_Rating": 212,
+  "Ranking_Rating": 213,
   "Ranking_Popularity": 70,
   "Ranking_PopularitySum": 31,
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 87,
+  "Ranking_EOS_NewPlayers": 88,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -7681,10 +7681,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 39036,
       "NumberOfAwardsMax": 4711
+    },
+    {
+      "Time": "2023-08-11T17:00:54.4087928+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 39038,
+      "NumberOfAwardsMax": 4711
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 39036,
+  "NumberOfAwards": 39038,
   "NumberOfAwardsMax": 4711,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7740,7 +7746,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 3408
+      "Count": 3410
     },
     {
       "Text": "This game has Diverse Characters",
@@ -7761,9 +7767,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 46986,
+  "EOS_Progressed": 46987,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 392,
+  "EOS_NewPlayers": 388,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -17801,6 +17807,11 @@
       "Time": "2023-08-11T16:03:10.3963958+00:00",
       "NumProgressed": 46986,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-11T17:02:17.101083+00:00",
+      "NumProgressed": 46987,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 43,
@@ -17884,7 +17895,7 @@
       "Name": "Highly cultivated",
       "Percentage": 11,
       "XP": 55,
-      "UsersEstimate": 5168
+      "UsersEstimate": 5169
     },
     {
       "ID": "CultivateFirst",
@@ -17892,7 +17903,7 @@
       "Name": "I read Shakespeare and stuff",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 30071
+      "UsersEstimate": 30072
     },
     {
       "ID": "CutTree",
@@ -17908,7 +17919,7 @@
       "Name": "I\u0027m stumped",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 28661
+      "UsersEstimate": 28662
     },
     {
       "ID": "DeliveryGrapes",
@@ -17996,7 +18007,7 @@
       "Name": "It\u0027s never too late to farm",
       "Percentage": 49,
       "XP": 100,
-      "UsersEstimate": 23023
+      "UsersEstimate": 23024
     },
     {
       "ID": "Mission",
@@ -18036,7 +18047,7 @@
       "Name": "I like to switch it up",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 18794
+      "UsersEstimate": 18795
     },
     {
       "ID": "NumPlaceables",
@@ -18092,7 +18103,7 @@
       "Name": "It\u0027s sow easy",
       "Percentage": 11,
       "XP": 55,
-      "UsersEstimate": 5168
+      "UsersEstimate": 5169
     },
     {
       "ID": "SowFirst",
@@ -18100,7 +18111,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 29601
+      "UsersEstimate": 29602
     },
     {
       "ID": "Stones",
@@ -18132,7 +18143,7 @@
       "Name": "Van Gogh",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 12216
+      "UsersEstimate": 12217
     },
     {
       "ID": "VehicleRepair",
@@ -18155,15 +18166,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 46986,
+      "Progressed": 46987,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
-  "LastChanged": "2023-08-11T14:02:38.491422+00:00",
-  "LastChanged_Achievements": "2023-08-11T16:03:10.3963953+00:00",
+  "LastChanged": "2023-08-11T17:00:54.4087927+00:00",
+  "LastChanged_Achievements": "2023-08-11T17:02:17.1010825+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:36.3583185+00:00",
-  "LastUpdate_Ratings": "2023-08-11T16:00:58.6751451+00:00",
-  "LastUpdate_Achievements": "2023-08-11T16:03:10.3964779+00:00"
+  "LastUpdate_Ratings": "2023-08-11T17:00:54.4087933+00:00",
+  "LastUpdate_Achievements": "2023-08-11T17:02:17.1011843+00:00"
 }

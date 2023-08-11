@@ -1,26 +1,26 @@
 # Farming Simulator 22
 [Store](https://store.epicgames.com/en-US/p/farming-simulator-22)  
 [View Rawdata](../../db/f/farming_simulator_22.json)  
-Rating: 4.69 (Ranked 212)  
+Rating: 4.69 (Ranked 213)  
 Number of Ratings: 7,683  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Own use | 75.00% | ~35,240 |
-| I read Shakespeare and stuff | 64.00% | ~30,071 |
-| Just a sprinkle | 63.00% | ~29,601 |
-| I'm stumped | 61.00% | ~28,661 |
+| I read Shakespeare and stuff | 64.00% | ~30,072 |
+| Just a sprinkle | 63.00% | ~29,602 |
+| I'm stumped | 61.00% | ~28,662 |
 | Plant get enough | 60.00% | ~28,192 |
 | It's just the beginning | 59.00% | ~27,722 |
 | This is just my weekend vehicle | 58.00% | ~27,252 |
 | Hard work pays off | 53.00% | ~24,903 |
-| It's never too late to farm | 49.00% | ~23,023 |
+| It's never too late to farm | 49.00% | ~23,024 |
 | All out of Land | 44.00% | ~20,674 |
 | Field Trip | 43.00% | ~20,204 |
-| I like to switch it up | 40.00% | ~18,794 |
+| I like to switch it up | 40.00% | ~18,795 |
 | Help me to help you | 38.00% | ~17,855 |
 | Ultimutt Pawesomeness | 28.00% | ~13,156 |
-| Van Gogh | 26.00% | ~12,216 |
+| Van Gogh | 26.00% | ~12,217 |
 | You wood not believe it | 22.00% | ~10,337 |
 | Vehicle fleet | 22.00% | ~10,337 |
 | The plot thickens | 16.00% | ~7,518 |
@@ -31,8 +31,8 @@ Number of Ratings: 7,683  (23.09.2022)
 | That's a wrap | 14.00% | ~6,578 |
 | Fix me up | 13.00% | ~6,108 |
 | Rock on | 12.00% | ~5,638 |
-| Highly cultivated | 11.00% | ~5,168 |
-| It's sow easy | 11.00% | ~5,168 |
+| Highly cultivated | 11.00% | ~5,169 |
+| It's sow easy | 11.00% | ~5,169 |
 | Giddy-up! | 10.00% | ~4,699 |
 | Cowherd | 7.00% | ~3,289 |
 | Fluffyness | 6.00% | ~2,819 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~188 |
 | Raisin the stakes | 0.30% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,986 (Ranked 90)  
+Progressed: 46,987 (Ranked 90)  
 Completed: 5 (0.01%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,10 +163,10 @@ Completed: 5 (0.01%) (Ranked 240)
 | 2023-08-08 | 46,857 | 5 |
 | 2023-08-09 | 46,909 | 5 |
 | 2023-08-10 | 46,955 | 5 |
-| 2023-08-11 | 46,986 | 5 |
+| 2023-08-11 | 46,987 | 5 |
 ## Awards
 Max (Great for Beginners): 4,711  (Ranked 70)  
-Sum: 39,036 (Ranked 31)  
+Sum: 39,038 (Ranked 31)  
 Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
@@ -178,7 +178,7 @@ Diff (max vs sum): 39
 | This game is Highly Recommended | 3,898 |
 | This game is Extremely Fun | 3,892 |
 | This game has Amazing Storytelling | 3,775 |
-| This game has Amazing Characters | 3,408 |
+| This game has Amazing Characters | 3,410 |
 | This game has a Creative Community | 3,245 |
 | This game has Obsessive Gameplay | 2,386 |
 | This game has Easy Combat | 1,816 |
@@ -391,4 +391,4 @@ Diff (max vs sum): 39
 | 2023-08-08 | 4.69 | - | 4,700 | 38,952 |
 | 2023-08-09 | 4.69 | - | 4,706 | 38,990 |
 | 2023-08-10 | 4.69 | - | 4,706 | 39,018 |
-| 2023-08-11 | 4.69 | - | 4,711 | 39,036 |
+| 2023-08-11 | 4.69 | - | 4,711 | 39,038 |

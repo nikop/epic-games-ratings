@@ -1,7 +1,7 @@
 # Warhammer 40,000: Chaos Gate - Daemonhunters
 [Store](https://store.epicgames.com/en-US/p/warhammer-40000-chaos-gate-daemonhunters)  
 [View Rawdata](../../db/w/warhammer_40,000__chaos_gate_-_daemonhunters.json)  
-Rating: 4.58 (Ranked 426)  
+Rating: 4.58 (Ranked 427)  
 Number of Ratings: 371  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -22,10 +22,10 @@ Number of Ratings: 371  (23.09.2022)
 | Nemesis Master | 0.90% | ~28 |
 | Gunmaster | 0.90% | ~28 |
 | Execution Force | 0.80% | ~25 |
+| Hold Your Ground | 0.70% | ~22 |
 | Corruption Cleanser | 0.70% | ~22 |
 | Just a Scratch | 0.70% | ~22 |
 | Hive Exterminator | 0.70% | ~22 |
-| Hold Your Ground | 0.60% | ~19 |
 | Patron of Deimos | 0.40% | ~13 |
 | Daemonkeeper | 0.40% | ~13 |
 | Efficient Killer | 0.40% | ~13 |
