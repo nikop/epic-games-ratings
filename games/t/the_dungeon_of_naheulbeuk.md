@@ -6,12 +6,14 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 5.00% | ~10,501 |
+| Sowwy! | 5.00% | ~10,503 |
 | Alt+F4 | 0.30% | ~630 |
 | Déjà vu | 0.20% | ~420 |
 | A beer, two curses, three companions | 0.20% | ~420 |
 | Where's that freaking Dwarf? | 0.20% | ~420 |
+| %#*!$*! | 0.20% | ~420 |
 | Sock! SOCK! | 0.20% | ~420 |
+| Speedrun | 0.20% | ~420 |
 | Fireproof Wizardess | 0.20% | ~420 |
 | Livin' in a dwarven paradise | 0.10% | ~210 |
 | Cursed die | 0.10% | ~210 |
@@ -58,7 +60,6 @@ Number of Ratings: 118  (23.09.2022)
 | Insult to injury | 0.10% | ~210 |
 | Star-crossed lovers | 0.10% | ~210 |
 | Dwarf Fortress | 0.10% | ~210 |
-| %#*!$*! | 0.10% | ~210 |
 | Look but don't touch | 0.10% | ~210 |
 | Pyrrhic victory | 0.10% | ~210 |
 | GG EZ | 0.10% | ~210 |
@@ -83,7 +84,6 @@ Number of Ratings: 118  (23.09.2022)
 | The Ranger of Chaos | 0.10% | ~210 |
 | I am the night | 0.10% | ~210 |
 | Thieves' Guild Accreditation | 0.10% | ~210 |
-| Speedrun | 0.10% | ~210 |
 | Team Building Exercise | 0.10% | ~210 |
 | Dwarf Candy | 0.10% | ~210 |
 | Oh, when I'll be level 10... | 0.10% | ~210 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Sleep schedule mastery | 0.00% | ~0 |
 | Dumb and dumber | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210,027 (Ranked 55)  
+Progressed: 210,054 (Ranked 55)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,7 +167,7 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-08 | 209,082 | 0 |
 | 2023-08-09 | 209,549 | 0 |
 | 2023-08-10 | 210,011 | 0 |
-| 2023-08-11 | 210,027 | 0 |
+| 2023-08-11 | 210,054 | 0 |
 ## Awards
 Max (Character Customization): 157  (Ranked 294)  
 Sum: 157 (Ranked 392)  

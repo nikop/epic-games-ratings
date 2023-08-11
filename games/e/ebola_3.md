@@ -14,6 +14,7 @@
 | Weapon ✔ | 11.00% | ~25 |
 | Master of Unlocking ✔ | 9.00% | ~20 |
 | Survival ✔ | 8.00% | ~18 |
+| Hospital ✔ | 7.00% | ~16 |
 | Thirst ✔ | 7.00% | ~16 |
 | Alice ✔ | 6.00% | ~13 |
 | Antivirus ✔ | 6.00% | ~13 |
@@ -21,7 +22,6 @@
 | Cheats ✔ | 6.00% | ~13 |
 | City ✔ | 6.00% | ~13 |
 | Food ✔ | 6.00% | ~13 |
-| Hospital ✔ | 6.00% | ~13 |
 | Fraternal help ✔ | 6.00% | ~13 |
 | Brain ✔ | 5.00% | ~11 |
 | Eva ✔ | 5.00% | ~11 |

@@ -4,8 +4,8 @@
   "ProductSlug": "dodo-peak-159276",
   "Ranking_EOS_Progress": 406,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-08-03T05:00:00+00:00",
     "PcReleaseDate": "2019-09-19T05:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 18,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -158,9 +158,9 @@
       "ID": "grp_finallevel",
       "SetID": "2gd32f",
       "Name": "Bird Brain",
-      "Percentage": 6,
+      "Percentage": 11,
       "XP": 200,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "grp_freebird",
@@ -206,9 +206,9 @@
       "ID": "grp_level50",
       "SetID": "2gd32f",
       "Name": "Level 50!",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "grp_lots_of_money",
@@ -269,8 +269,8 @@
   ],
   "FirstSeen": "2023-08-08T23:57:15.7691389+00:00",
   "FirstSeenAchievements": "2023-08-03T06:01:19.3820026+00:00",
-  "LastChanged_Achievements": "2023-08-11T00:03:06.3045931+00:00",
+  "LastChanged_Achievements": "2023-08-11T01:41:23.3891509+00:00",
   "LastUpdate_AppInfo": "2023-08-10T06:57:08.1237157+00:00",
-  "LastUpdate_Ratings": "2023-08-10T23:57:17.1660144+00:00",
-  "LastUpdate_Achievements": "2023-08-11T00:03:06.3046136+00:00"
+  "LastUpdate_Ratings": "2023-08-11T01:35:27.5624904+00:00",
+  "LastUpdate_Achievements": "2023-08-11T01:41:23.389162+00:00"
 }

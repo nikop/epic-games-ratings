@@ -8,8 +8,8 @@
 | You Have Been Deaded | 75.00% | ~116 |
 | Rookie | 70.00% | ~108 |
 | Apprentice Destructor | 30.00% | ~46 |
+| Master Destructor | 12.00% | ~19 |
 | I Prefer Jazz Fusion | 11.00% | ~17 |
-| Master Destructor | 11.00% | ~17 |
 | Avaricerite | 9.00% | ~14 |
 | Ball Galore | 8.00% | ~12 |
 | Easy Victory | 8.00% | ~12 |

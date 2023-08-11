@@ -5,36 +5,36 @@ Rating: 4.46 (Ranked 617)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In The Zone | 53.00% | ~131,372 |
-| My First Runbow | 50.00% | ~123,936 |
-| It's The Fall | 26.00% | ~64,447 |
-| The Stunner | 22.00% | ~54,532 |
-| Be Aggressive | 21.00% | ~52,053 |
-| Curator | 20.00% | ~49,574 |
-| Crowning Around | 18.00% | ~44,617 |
-| Can You Dig It? | 17.00% | ~42,138 |
+| In The Zone | 53.00% | ~131,374 |
+| My First Runbow | 50.00% | ~123,938 |
+| It's The Fall | 26.00% | ~64,448 |
+| The Stunner | 22.00% | ~54,533 |
+| Be Aggressive | 21.00% | ~52,054 |
+| Curator | 20.00% | ~49,575 |
+| Crowning Around | 18.00% | ~44,618 |
+| Can You Dig It? | 17.00% | ~42,139 |
 | You Juan-A-Go? | 16.00% | ~39,660 |
 | Chan-tastic | 15.00% | ~37,181 |
-| Muddy Waters | 14.00% | ~34,702 |
-| Toasty! | 13.00% | ~32,223 |
+| Muddy Waters | 14.00% | ~34,703 |
+| Toasty! | 13.00% | ~32,224 |
 | Lazy Laser | 8.00% | ~19,830 |
 | Just A Phaze | 7.00% | ~17,351 |
 | Into The Drift | 7.00% | ~17,351 |
 | Ready? Fight! | 7.00% | ~17,351 |
-| Butt Butt | 6.00% | ~14,872 |
+| Butt Butt | 6.00% | ~14,873 |
 | He Who Laughs Last | 3.00% | ~7,436 |
 | Shoo, Cat! | 3.00% | ~7,436 |
-| And You're Okay | 2.00% | ~4,957 |
-| Blotbuster | 2.00% | ~4,957 |
-| Thunderstruck | 2.00% | ~4,957 |
+| And You're Okay | 2.00% | ~4,958 |
+| Blotbuster | 2.00% | ~4,958 |
+| Thunderstruck | 2.00% | ~4,958 |
 | Just A Bit | 1.00% | ~2,479 |
 | Tubular, Dude | 1.00% | ~2,479 |
 | What A Trip | 0.90% | ~2,231 |
 | Here We Go! | 0.80% | ~1,983 |
 | Please The King | 0.80% | ~1,983 |
 | Clear-Cut | 0.50% | ~1,239 |
-| Breaking Out | 0.40% | ~991 |
-| Disposable | 0.40% | ~991 |
+| Breaking Out | 0.40% | ~992 |
+| Disposable | 0.40% | ~992 |
 | A Winner Is You | 0.20% | ~496 |
 | Final Nightmare | 0.20% | ~496 |
 | I'm Here All Night | 0.20% | ~496 |
@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 617)
 | Talent Scout | 0.10% | ~248 |
 | True Completionist | 0.10% | ~248 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 247,872 (Ranked 45)  
+Progressed: 247,876 (Ranked 45)  
 Completed: 3 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 3 (0.00%) (Ranked 251)
 | 2023-08-08 | 247,797 | 3 |
 | 2023-08-09 | 247,836 | 3 |
 | 2023-08-10 | 247,869 | 3 |
-| 2023-08-11 | 247,872 | 3 |
+| 2023-08-11 | 247,876 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

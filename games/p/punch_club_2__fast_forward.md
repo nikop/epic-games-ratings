@@ -36,7 +36,7 @@
 | Legal courier | 53.00% | ~129 |
 | Extreme neuropower! | 52.00% | ~126 |
 | Escaped from a big trouble | 49.00% | ~119 |
-| Now you are worthy | 46.00% | ~112 |
+| Now you are worthy | 47.00% | ~114 |
 | Guiding on the right path | 45.00% | ~109 |
 | Fight is life | 44.00% | ~107 |
 | Mysterious voice | 44.00% | ~107 |
@@ -61,14 +61,14 @@
 | Careerist | 30.00% | ~73 |
 | Another world | 29.00% | ~70 |
 | The lonesome road | 29.00% | ~70 |
+| Keep nature safe | 29.00% | ~70 |
+| Family comes first | 29.00% | ~70 |
 | Key memories | 29.00% | ~70 |
 | Anyone can resist | 29.00% | ~70 |
 | The heart of the Resistance | 29.00% | ~70 |
 | Trap disarmed | 28.00% | ~68 |
-| Keep nature safe | 28.00% | ~68 |
-| Family comes first | 28.00% | ~68 |
-| Silver’s past | 25.00% | ~61 |
-| Better cooking at home | 25.00% | ~61 |
+| Silver’s past | 26.00% | ~63 |
+| Better cooking at home | 26.00% | ~63 |
 | The only right decision | 25.00% | ~61 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 243 (Ranked 270)  

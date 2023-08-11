@@ -6,8 +6,9 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Clergy | 3.00% | ~400 |
+| The Clergy | 3.00% | ~401 |
 | Able | 2.00% | ~267 |
+| Architect | 2.00% | ~267 |
 | Explorer | 2.00% | ~267 |
 | Intrepid | 2.00% | ~267 |
 | Mason | 2.00% | ~267 |
@@ -17,42 +18,41 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens | 2.00% | ~267 |
 | Play a Single Player Game | 2.00% | ~267 |
 | The Great Mage | 2.00% | ~267 |
-| Ambitious | 1.00% | ~133 |
-| Architect | 1.00% | ~133 |
-| Brilliant | 1.00% | ~133 |
-| Enlightened | 1.00% | ~133 |
-| Fountainhead | 1.00% | ~133 |
-| Glorious | 1.00% | ~133 |
-| Good | 1.00% | ~133 |
-| Great | 1.00% | ~133 |
-| Just | 1.00% | ~133 |
-| Keystone | 1.00% | ~133 |
-| Learned | 1.00% | ~133 |
-| Magnificent | 1.00% | ~133 |
-| Noble | 1.00% | ~133 |
-| Pioneer | 1.00% | ~133 |
-| Warrior | 1.00% | ~133 |
-| Wise | 1.00% | ~133 |
-| Developing Cities | 1.00% | ~133 |
-| Strong Cities | 1.00% | ~133 |
-| Able Difficulty | 1.00% | ~133 |
-| Great Ziggurat | 1.00% | ~133 |
-| Ishtar Gate | 1.00% | ~133 |
-| Lighthouse | 1.00% | ~133 |
-| Necropolis | 1.00% | ~133 |
-| Oracle | 1.00% | ~133 |
-| Pyramids | 1.00% | ~133 |
-| Learn to Play 1 | 1.00% | ~133 |
-| Christianity | 1.00% | ~133 |
-| Judaism | 1.00% | ~133 |
-| Babylonian Paganism | 1.00% | ~133 |
-| Carthaginian Paganism | 1.00% | ~133 |
-| Greek Paganism | 1.00% | ~133 |
-| Roman Paganism | 1.00% | ~133 |
-| Zoroastrianism | 1.00% | ~133 |
-| Naming Landmarks | 1.00% | ~133 |
-| Trade Caravan | 1.00% | ~133 |
-| Poetic Leader | 1.00% | ~133 |
+| Ambitious | 1.00% | ~134 |
+| Brilliant | 1.00% | ~134 |
+| Enlightened | 1.00% | ~134 |
+| Fountainhead | 1.00% | ~134 |
+| Glorious | 1.00% | ~134 |
+| Good | 1.00% | ~134 |
+| Great | 1.00% | ~134 |
+| Just | 1.00% | ~134 |
+| Keystone | 1.00% | ~134 |
+| Learned | 1.00% | ~134 |
+| Magnificent | 1.00% | ~134 |
+| Noble | 1.00% | ~134 |
+| Pioneer | 1.00% | ~134 |
+| Warrior | 1.00% | ~134 |
+| Wise | 1.00% | ~134 |
+| Developing Cities | 1.00% | ~134 |
+| Strong Cities | 1.00% | ~134 |
+| Able Difficulty | 1.00% | ~134 |
+| Great Ziggurat | 1.00% | ~134 |
+| Ishtar Gate | 1.00% | ~134 |
+| Lighthouse | 1.00% | ~134 |
+| Necropolis | 1.00% | ~134 |
+| Oracle | 1.00% | ~134 |
+| Pyramids | 1.00% | ~134 |
+| Learn to Play 1 | 1.00% | ~134 |
+| Christianity | 1.00% | ~134 |
+| Judaism | 1.00% | ~134 |
+| Babylonian Paganism | 1.00% | ~134 |
+| Carthaginian Paganism | 1.00% | ~134 |
+| Greek Paganism | 1.00% | ~134 |
+| Roman Paganism | 1.00% | ~134 |
+| Zoroastrianism | 1.00% | ~134 |
+| Naming Landmarks | 1.00% | ~134 |
+| Trade Caravan | 1.00% | ~134 |
+| Poetic Leader | 1.00% | ~134 |
 | Artisans | 0.90% | ~120 |
 | Furious Family | 0.90% | ~120 |
 | Apadana | 0.90% | ~120 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,349 (Ranked 117)  
+Progressed: 13,351 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -416,6 +416,7 @@ Completed: 5 (0.04%) (Ranked 220)
 | 2023-08-08 | 13,332 | 5 |
 | 2023-08-09 | 13,342 | 5 |
 | 2023-08-10 | 13,349 | 5 |
+| 2023-08-11 | 13,351 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 265)  
 Sum: 1,788 (Ranked 206)  

@@ -33,9 +33,9 @@
 | Tasty Profits | 18.00% | ~58 |
 | Established Fame | 16.00% | ~51 |
 | Under One Roof | 15.00% | ~48 |
+| Starred Dining | 15.00% | ~48 |
 | Cashflow Chief | 15.00% | ~48 |
 | Smooth Operator | 14.00% | ~45 |
-| Starred Dining | 14.00% | ~45 |
 | Terrifically Trashed | 14.00% | ~45 |
 | Boutique Benefits | 13.00% | ~42 |
 | Thrilled Tenants | 13.00% | ~42 |
@@ -52,11 +52,11 @@
 | Meet Me at HQ | 7.00% | ~22 |
 | Maximum Reuse | 7.00% | ~22 |
 | Revenue Royalty | 7.00% | ~22 |
+| Golden Opportunity | 7.00% | ~22 |
 | Pipe Up | 7.00% | ~22 |
 | I'm Busy Ruling | 6.00% | ~19 |
 | Sky High Stature | 6.00% | ~19 |
 | Profound Proceeds | 6.00% | ~19 |
-| Golden Opportunity | 6.00% | ~19 |
 | It's a Gas | 6.00% | ~19 |
 | Meet ADA/360 | 5.00% | ~16 |
 | Penthouse in the Sky | 5.00% | ~16 |

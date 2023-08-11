@@ -4,8 +4,8 @@
   "ProductSlug": "destructure-among-debris-b4aaf8",
   "Ranking_EOS_Progress": 299,
   "Ranking_EOS_Completed": 124,
-  "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-04-27T13:00:00+00:00",
     "PcReleaseDate": "2023-04-27T13:00:00+00:00",
@@ -870,9 +870,9 @@
       "ID": "master_destructor",
       "SetID": "jig50d",
       "Name": "Master Destructor",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "medium_rare",
@@ -999,8 +999,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-08-11T00:05:17.9106595+00:00",
+  "LastChanged_Achievements": "2023-08-11T01:43:30.9452007+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:58:00.6112711+00:00",
-  "LastUpdate_Ratings": "2023-08-11T00:00:53.4706591+00:00",
-  "LastUpdate_Achievements": "2023-08-11T00:05:17.910706+00:00"
+  "LastUpdate_Ratings": "2023-08-11T01:38:43.4868054+00:00",
+  "LastUpdate_Achievements": "2023-08-11T01:43:30.9452225+00:00"
 }

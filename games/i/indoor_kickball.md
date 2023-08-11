@@ -21,8 +21,8 @@
 | Grand Slam! | 26.00% | ~22 |
 | Classroom Secret Spot | 25.00% | ~21 |
 | Save some water for the fishies | 24.00% | ~20 |
+| Bathroom Secret Spot | 24.00% | ~20 |
 | Have Mercy | 23.00% | ~19 |
-| Bathroom Secret Spot | 23.00% | ~19 |
 | Angry Dad | 23.00% | ~19 |
 | At least everyone still had fun | 23.00% | ~19 |
 | Living Room Secret Spot | 19.00% | ~16 |

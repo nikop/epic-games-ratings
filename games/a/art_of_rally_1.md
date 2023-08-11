@@ -46,7 +46,7 @@ Number of Ratings: 56  (23.09.2022)
 | simulator | 3.00% | ~306 |
 | real roads, real fast | 2.00% | ~204 |
 | absolute drift | 0.90% | ~92 |
-| you're here for a good time, not a long time | 0.70% | ~71 |
+| you're here for a good time, not a long time | 0.80% | ~82 |
 | if everything seems under control, you're not going fast enough | 0.40% | ~41 |
 | barely keeping it together | 0.30% | ~31 |
 ## Popularity (Based on EOS Achievements)

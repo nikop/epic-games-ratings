@@ -6,8 +6,8 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 0.90% | ~1,208 |
-| Titan's First Steps | 0.90% | ~1,208 |
+| Sponsored by Argon | 0.90% | ~1,209 |
+| Titan's First Steps | 0.90% | ~1,209 |
 | Basic in Bulk | 0.80% | ~1,074 |
 | Tinkle of Coins | 0.80% | ~1,074 |
 | Disintermediation | 0.60% | ~806 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Economy of Scarce | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,276 (Ranked 65)  
+Progressed: 134,279 (Ranked 65)  
 Completed: 131 (0.10%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,14 +232,15 @@ Completed: 131 (0.10%) (Ranked 199)
 | 2023-08-08 | 134,169 | 131 |
 | 2023-08-09 | 134,223 | 131 |
 | 2023-08-10 | 134,276 | 131 |
+| 2023-08-11 | 134,279 | 131 |
 ## Awards
 Max (Great for Beginners): 4,694  (Ranked 71)  
-Sum: 27,077 (Ranked 46)  
+Sum: 27,078 (Ranked 46)  
 Diff (max vs sum): 25  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,694 |
-| This game is Relaxing | 3,995 |
+| This game is Relaxing | 3,996 |
 | This game has Quickly Understood Controls | 3,983 |
 | This game has Diverse Characters | 3,849 |
 | This game is Highly Recommended | 3,733 |
@@ -448,3 +449,4 @@ Diff (max vs sum): 25
 | 2023-08-08 | 3.99 | - | 4,692 | 27,070 |
 | 2023-08-09 | 3.99 | - | 4,692 | 27,072 |
 | 2023-08-10 | 3.99 | - | 4,694 | 27,077 |
+| 2023-08-11 | 3.99 | - | 4,694 | 27,078 |

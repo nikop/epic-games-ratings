@@ -2,12 +2,12 @@
   "ID": "144f9e231e2846d1a4381d9bb678f69d",
   "Name": "Warhammer 40,000: Mechanicus - Standard Edition",
   "ProductSlug": "warhammer-mechanicus-0e4b71",
-  "Ranking_Rating": 657,
+  "Ranking_Rating": 658,
   "Ranking_Popularity": 240,
   "Ranking_PopularitySum": 194,
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 66,
+  "Ranking_EOS_NewPlayers": 65,
   "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -549,9 +549,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 219836,
+  "EOS_Progressed": 219845,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 624,
+  "EOS_NewPlayers": 628,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12664,6 +12664,11 @@
       "Time": "2023-08-11T00:06:14.9734964+00:00",
       "NumProgressed": 219836,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-11T01:44:26.5780696+00:00",
+      "NumProgressed": 219845,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -12675,7 +12680,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 41769
+      "UsersEstimate": 41771
     },
     {
       "ID": "ACH_BASE_10",
@@ -12683,7 +12688,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 54959
+      "UsersEstimate": 54961
     },
     {
       "ID": "ACH_BASE_11",
@@ -12699,7 +12704,7 @@
       "Name": "Competent Cohort",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 8793
+      "UsersEstimate": 8794
     },
     {
       "ID": "ACH_BASE_13",
@@ -12715,7 +12720,7 @@
       "Name": "Power Ranger",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19785
+      "UsersEstimate": 19786
     },
     {
       "ID": "ACH_BASE_16",
@@ -12723,7 +12728,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19785
+      "UsersEstimate": 19786
     },
     {
       "ID": "ACH_BASE_17",
@@ -12731,7 +12736,7 @@
       "Name": "Taser Goad",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19785
+      "UsersEstimate": 19786
     },
     {
       "ID": "ACH_BASE_18",
@@ -12739,7 +12744,7 @@
       "Name": "Radium Ready",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19785
+      "UsersEstimate": 19786
     },
     {
       "ID": "ACH_BASE_19",
@@ -12755,7 +12760,7 @@
       "Name": "Watch them crumble",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13190
+      "UsersEstimate": 13191
     },
     {
       "ID": "ACH_BASE_20",
@@ -12843,7 +12848,7 @@
       "Name": "Celestial Cartography Catastrophe",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8793
+      "UsersEstimate": 8794
     },
     {
       "ID": "ACH_BASE_30",
@@ -12923,7 +12928,7 @@
       "Name": "Knowledge is power",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 26380
+      "UsersEstimate": 26381
     },
     {
       "ID": "ACH_BASE_8",
@@ -12931,7 +12936,7 @@
       "Name": "One with the Machine",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8793
+      "UsersEstimate": 8794
     },
     {
       "ID": "ACH_BASE_9",
@@ -12939,14 +12944,14 @@
       "Name": "Half a cog",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19785
+      "UsersEstimate": 19786
     }
   ],
   "AchievementSets": [
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 219836,
+      "Progressed": 219845,
       "Completed": 5
     }
   ],
@@ -12954,8 +12959,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-07-29T17:58:35.8211483+00:00",
-  "LastChanged_Achievements": "2023-08-11T00:06:14.9734958+00:00",
+  "LastChanged_Achievements": "2023-08-11T01:44:26.5780692+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:23.1317268+00:00",
-  "LastUpdate_Ratings": "2023-08-10T23:59:15.704803+00:00",
-  "LastUpdate_Achievements": "2023-08-11T00:06:14.9736777+00:00"
+  "LastUpdate_Ratings": "2023-08-11T01:37:20.8278276+00:00",
+  "LastUpdate_Achievements": "2023-08-11T01:44:26.5781496+00:00"
 }

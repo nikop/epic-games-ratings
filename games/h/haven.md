@@ -16,7 +16,7 @@ Number of Ratings: 38  (23.09.2022)
 | Strike! | 18.00% | ~250 |
 | A love supreme | 18.00% | ~250 |
 | In my shoes | 17.00% | ~236 |
-| Like new! | 14.00% | ~195 |
+| Like new! | 15.00% | ~208 |
 | Heartstrings | 13.00% | ~181 |
 | Head in the clouds | 13.00% | ~181 |
 | Back to rust | 12.00% | ~167 |

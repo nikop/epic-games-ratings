@@ -3,12 +3,12 @@
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
   "Ranking_Rating": 867,
-  "Ranking_Popularity": 101,
+  "Ranking_Popularity": 100,
   "Ranking_PopularitySum": 140,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 183,
   "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -2268,18 +2268,24 @@
       "Rating": 4.18,
       "NumberOfAwards": 4127,
       "NumberOfAwardsMax": 2482
+    },
+    {
+      "Time": "2023-08-11T01:38:35.2035791+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4131,
+      "NumberOfAwardsMax": 2486
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4127,
-  "NumberOfAwardsMax": 2482,
+  "NumberOfAwards": 4131,
+  "NumberOfAwardsMax": 2486,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2482
+      "Count": 2486
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2336,7 +2342,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 67742,
+  "EOS_Progressed": 67744,
   "EOS_Completed": 106,
   "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 0,
@@ -12061,6 +12067,11 @@
       "Time": "2023-08-11T00:05:27.3736019+00:00",
       "NumProgressed": 67742,
       "NumCompleted": 106
+    },
+    {
+      "Time": "2023-08-11T01:43:41.1347443+00:00",
+      "NumProgressed": 67744,
+      "NumCompleted": 106
     }
   ],
   "TotalAchievements": 61,
@@ -12559,22 +12570,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 67742,
+      "Progressed": 67744,
       "Completed": 106
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 38022,
+      "Progressed": 38024,
       "Completed": 2656
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-08-11T00:00:42.4372048+00:00",
-  "LastChanged_Achievements": "2023-08-11T00:05:27.3736012+00:00",
+  "LastChanged": "2023-08-11T01:38:35.2035789+00:00",
+  "LastChanged_Achievements": "2023-08-11T01:43:41.134744+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:47.9727791+00:00",
-  "LastUpdate_Ratings": "2023-08-11T00:00:42.4372056+00:00",
-  "LastUpdate_Achievements": "2023-08-11T00:05:27.37381+00:00"
+  "LastUpdate_Ratings": "2023-08-11T01:38:35.2035794+00:00",
+  "LastUpdate_Achievements": "2023-08-11T01:43:41.1348349+00:00"
 }

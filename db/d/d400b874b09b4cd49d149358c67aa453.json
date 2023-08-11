@@ -4,8 +4,8 @@
   "ProductSlug": "electrician-simulator-164e9f",
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-08-04T16:00:00+00:00",
     "PcReleaseDate": "2022-09-21T16:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 196,
+  "EOS_Progressed": 197,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 194,
+  "EOS_NewPlayers": 195,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -561,6 +561,11 @@
       "Time": "2023-08-11T00:05:42.3696686+00:00",
       "NumProgressed": 196,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-11T01:43:55.5900857+00:00",
+      "NumProgressed": 197,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-04T13:10:46.6045542+00:00",
@@ -605,7 +610,7 @@
       "Name": "Virtual Electrician",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_END_ALL_WORKBENCH_MISSIONS",
@@ -621,7 +626,7 @@
       "Name": "I love customers",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "ACH_END_FIRST_TUTORIAL",
@@ -637,7 +642,7 @@
       "Name": "I can fix that",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ACH_END_MAIL_MISSION_FAST",
@@ -717,7 +722,7 @@
       "Name": "Home sweet home",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "ACH_PLACE_MANY_ITEMS_IN_OFFICE",
@@ -741,7 +746,7 @@
       "Name": "Unpacked",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "ACH_SHOCK_ON_MISSION",
@@ -765,7 +770,7 @@
       "Name": "Unscrew you",
       "Percentage": 38,
       "XP": 100,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ACH_WATCH_ALL_TV_CHANNELS",
@@ -780,14 +785,14 @@
     {
       "ID": "al4k4nh",
       "IsBase": true,
-      "Progressed": 196,
+      "Progressed": 197,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2023-08-11T00:05:42.3696678+00:00",
+  "LastChanged_Achievements": "2023-08-11T01:43:55.5900852+00:00",
   "LastUpdate_AppInfo": "2023-08-09T17:56:58.4992812+00:00",
-  "LastUpdate_Ratings": "2023-08-10T23:58:02.7855049+00:00",
-  "LastUpdate_Achievements": "2023-08-11T00:05:42.3697046+00:00"
+  "LastUpdate_Ratings": "2023-08-11T01:36:07.7946495+00:00",
+  "LastUpdate_Achievements": "2023-08-11T01:43:55.590103+00:00"
 }
