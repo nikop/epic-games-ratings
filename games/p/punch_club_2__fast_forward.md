@@ -48,9 +48,9 @@
 | Deal with life | 37.00% | ~90 |
 | Poisoned fighter | 37.00% | ~90 |
 | Get out of my apartment! | 37.00% | ~90 |
-| Mom got better | 35.00% | ~85 |
+| Mom got better | 36.00% | ~87 |
+| The die is cast | 36.00% | ~87 |
 | GYM professional | 35.00% | ~85 |
-| The die is cast | 35.00% | ~85 |
 | Seashell hunter | 35.00% | ~85 |
 | Gang wrangler | 32.00% | ~78 |
 | Problems of cyborgs | 32.00% | ~78 |

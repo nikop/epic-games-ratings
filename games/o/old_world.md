@@ -96,6 +96,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Temple of Solomon | 0.50% | ~67 |
 | Pantheon | 0.50% | ~67 |
 | Via Recta Souk | 0.50% | ~67 |
+| Learn to Play 3 | 0.50% | ~67 |
 | Power to the People | 0.50% | ~67 |
 | Economic Reform | 0.50% | ~67 |
 | Legalism | 0.50% | ~67 |
@@ -111,7 +112,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Landowners | 0.40% | ~53 |
 | Riders | 0.40% | ~53 |
 | Adur Burzen-Mihr | 0.40% | ~53 |
-| Learn to Play 3 | 0.40% | ~53 |
 | Babylonia | 0.40% | ~53 |
 | Carthage | 0.40% | ~53 |
 | Assyrian Paganism | 0.40% | ~53 |

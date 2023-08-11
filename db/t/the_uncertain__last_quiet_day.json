@@ -4,8 +4,8 @@
   "ProductSlug": "the-uncertain-last-quiet-day",
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 69,
-  "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
     "PcReleaseDate": "2016-09-22T14:42:57+00:00",
@@ -682,9 +682,9 @@
       "ID": "NOT_WHAT_IT_SEEMS",
       "SetID": "2iigf77",
       "Name": "Not what it seems",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 78
+      "UsersEstimate": 84
     },
     {
       "ID": "NOW_YOU_KNOW",
@@ -754,9 +754,9 @@
       "ID": "THAT_IS_MUCH_BETTER",
       "SetID": "2iigf77",
       "Name": "That\u0027s much better!",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 78
     },
     {
       "ID": "THERE_IS_ANOTHER_WAY",
@@ -795,8 +795,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-03-31T05:58:48.8443799+00:00",
-  "LastChanged_Achievements": "2023-08-11T04:04:21.2085951+00:00",
+  "LastChanged_Achievements": "2023-08-11T05:04:19.380753+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:38.566313+00:00",
-  "LastUpdate_Ratings": "2023-08-11T04:00:37.4867207+00:00",
-  "LastUpdate_Achievements": "2023-08-11T04:04:21.208626+00:00"
+  "LastUpdate_Ratings": "2023-08-11T05:00:43.2103347+00:00",
+  "LastUpdate_Achievements": "2023-08-11T05:04:19.3807815+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "Watch Dogs Standard Edition",
   "ProductSlug": "watch-dogs",
   "Ranking_Rating": 448,
-  "Ranking_Popularity": 393,
-  "Ranking_PopularitySum": 313,
+  "Ranking_Popularity": 392,
+  "Ranking_PopularitySum": 312,
   "Ranking_EOS_Progress": 541,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 356,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2020-03-19T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1546,12 +1546,18 @@
       "Rating": 4.57,
       "NumberOfAwards": 434,
       "NumberOfAwardsMax": 57
+    },
+    {
+      "Time": "2023-08-11T04:57:20.9716725+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 435,
+      "NumberOfAwardsMax": 58
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 434,
-  "NumberOfAwardsMax": 57,
-  "MaxAwardTitle": "Amazing Characters",
+  "NumberOfAwards": 435,
+  "NumberOfAwardsMax": 58,
+  "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
@@ -1563,7 +1569,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 57
+      "Count": 58
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1637,8 +1643,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:01.9847852+00:00",
-  "LastChanged": "2023-08-08T19:56:53.0175686+00:00",
+  "LastChanged": "2023-08-11T04:57:20.9716723+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:58:27.8009597+00:00",
-  "LastUpdate_Ratings": "2023-08-11T03:57:16.5650011+00:00",
-  "LastUpdate_Achievements": "2023-08-11T04:07:20.2100852+00:00"
+  "LastUpdate_Ratings": "2023-08-11T04:57:20.9716729+00:00",
+  "LastUpdate_Achievements": "2023-08-11T05:07:26.6521593+00:00"
 }

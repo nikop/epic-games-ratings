@@ -7,14 +7,14 @@ Rating: 4.88 (Ranked 18)
 | ---- | ---------- | ----- |
 | Start with a bang! | 9.00% | ~346 |
 | Feeling the beat! | 9.00% | ~346 |
-| You can pet the cat! | 8.00% | ~307 |
+| You can pet the cat! | 9.00% | ~346 |
 | Cream of the Crop | 7.00% | ~269 |
 | Thanks for the free chip, Peppermint! | 7.00% | ~269 |
 | Who put gears in there? | 7.00% | ~269 |
-| I play my own way! | 6.00% | ~230 |
-| You got this, Peppermint? | 6.00% | ~230 |
-| Perfect Parry | 6.00% | ~230 |
-| Alright, that felt AWESOME! | 6.00% | ~230 |
+| I play my own way! | 6.00% | ~231 |
+| You got this, Peppermint? | 6.00% | ~231 |
+| Perfect Parry | 6.00% | ~231 |
+| Alright, that felt AWESOME! | 6.00% | ~231 |
 | This will cost you big time | 5.00% | ~192 |
 | Z-shielding's got nothing on us! | 5.00% | ~192 |
 | Uh, they were broken when I got here | 5.00% | ~192 |
@@ -28,7 +28,7 @@ Rating: 4.88 (Ranked 18)
 | You must like calling me in, Chai | 4.00% | ~154 |
 | Out in a puff of smoke | 4.00% | ~154 |
 | Does that say weakpoint? | 4.00% | ~154 |
-| NOW we got a kickass hideout! | 4.00% | ~94 |
+| NOW we got a kickass hideout! | 4.00% | ~95 |
 | I have to read these things? | 3.00% | ~115 |
 | Perfecter Parry-er! | 3.00% | ~115 |
 | Well that was a rush! | 2.00% | ~77 |
@@ -44,7 +44,7 @@ Rating: 4.88 (Ranked 18)
 | I hit things with a guitar really well. | 0.90% | ~35 |
 | I think I deserve some praise, here! | 0.80% | ~31 |
 | We're Jammin' | 0.70% | ~27 |
-| First we parry, then we counter | 0.60% | ~23 |
+| First we parry, then we counter | 0.70% | ~27 |
 | This is a breeze! | 0.50% | ~19 |
 | I'm not done with you yet | 0.50% | ~19 |
 | New bad guys? No problem! | 0.50% | ~12 |
@@ -77,7 +77,7 @@ Rating: 4.88 (Ranked 18)
 | Voices from within | 0.10% | ~2 |
 | Low budget finish | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,841 (Ranked 147)  
+Progressed: 3,843 (Ranked 147)  
 Completed: 7 (0.18%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,7 +188,7 @@ Completed: 7 (0.18%) (Ranked 181)
 | 2023-08-08 | 3,807 | 7 |
 | 2023-08-09 | 3,820 | 7 |
 | 2023-08-10 | 3,836 | 7 |
-| 2023-08-11 | 3,841 | 7 |
+| 2023-08-11 | 3,843 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

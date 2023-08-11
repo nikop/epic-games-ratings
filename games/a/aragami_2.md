@@ -6,27 +6,27 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~37,579 |
-| First Steps | 80.00% | ~32,326 |
-| Control the Shadows | 67.00% | ~27,073 |
-| Tools of the Trade | 63.00% | ~25,457 |
-| Apprentice | 60.00% | ~24,245 |
-| Secret Seeker | 57.00% | ~23,033 |
-| Forge of Assassins | 55.00% | ~22,224 |
-| Revenant | 52.00% | ~21,012 |
+| Awakening | 93.00% | ~37,581 |
+| First Steps | 80.00% | ~32,328 |
+| Control the Shadows | 67.00% | ~27,075 |
+| Tools of the Trade | 63.00% | ~25,458 |
+| Apprentice | 60.00% | ~24,246 |
+| Secret Seeker | 57.00% | ~23,034 |
+| Forge of Assassins | 55.00% | ~22,226 |
+| Revenant | 52.00% | ~21,013 |
 | I don’t Care! | 45.00% | ~18,184 |
-| Bird of Prey | 37.00% | ~14,951 |
+| Bird of Prey | 37.00% | ~14,952 |
 | Engraved with Power | 32.00% | ~12,931 |
-| Lady | 31.00% | ~12,526 |
-| Fashionable Assassin | 27.00% | ~10,910 |
+| Lady | 31.00% | ~12,527 |
+| Fashionable Assassin | 27.00% | ~10,911 |
 | Apex Predator | 24.00% | ~9,698 |
 | Soul Reaver | 22.00% | ~8,890 |
 | Embers | 21.00% | ~8,486 |
 | Wall Lizard | 20.00% | ~8,082 |
-| Clinging to Life | 18.00% | ~7,273 |
-| Burning | 17.00% | ~6,869 |
-| Look Behind You | 16.00% | ~6,465 |
-| Sleeping on the Job | 16.00% | ~6,465 |
+| Clinging to Life | 18.00% | ~7,274 |
+| Burning | 17.00% | ~6,870 |
+| Look Behind You | 16.00% | ~6,466 |
+| Sleeping on the Job | 16.00% | ~6,466 |
 | Family | 14.00% | ~5,657 |
 | War Engines | 14.00% | ~5,657 |
 | Signature Move | 14.00% | ~5,657 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Hot Potato | 1.00% | ~404 |
 | Anger Management | 1.00% | ~404 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40,408 (Ranked 92)  
+Progressed: 40,410 (Ranked 92)  
 Completed: 207 (0.51%) (Ranked 137)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,7 +164,7 @@ Completed: 207 (0.51%) (Ranked 137)
 | 2023-08-08 | 40,228 | 206 |
 | 2023-08-09 | 40,306 | 206 |
 | 2023-08-10 | 40,392 | 207 |
-| 2023-08-11 | 40,408 | 207 |
+| 2023-08-11 | 40,410 | 207 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

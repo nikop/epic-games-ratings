@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 54,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
     "PcReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -745,9 +745,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 34891,
+  "EOS_Progressed": 34895,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 945,
+  "EOS_NewPlayers": 946,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -13040,6 +13040,11 @@
       "Time": "2023-08-11T04:05:26.7778493+00:00",
       "NumProgressed": 34891,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-11T05:05:24.2265878+00:00",
+      "NumProgressed": 34895,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -13075,7 +13080,7 @@
       "Name": "Scout",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 3489
+      "UsersEstimate": 3490
     },
     {
       "ID": "distance500000",
@@ -13091,7 +13096,7 @@
       "Name": "Rookie",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 9072
+      "UsersEstimate": 9073
     },
     {
       "ID": "goals180",
@@ -13107,7 +13112,7 @@
       "Name": "Amateur",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3140
+      "UsersEstimate": 3141
     },
     {
       "ID": "goals75",
@@ -13131,7 +13136,7 @@
       "Name": "Aviator",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2093
+      "UsersEstimate": 2094
     },
     {
       "ID": "journeyer",
@@ -13171,7 +13176,7 @@
       "Name": "Nomad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 6280
+      "UsersEstimate": 6281
     },
     {
       "ID": "novice",
@@ -13203,7 +13208,7 @@
       "Name": "Unlock Maya",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2442
+      "UsersEstimate": 2443
     },
     {
       "ID": "playerPaz",
@@ -13259,7 +13264,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 9072
+      "UsersEstimate": 9073
     },
     {
       "ID": "sandboarder",
@@ -13323,7 +13328,7 @@
       "Name": "Enter Paz",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 2791
+      "UsersEstimate": 2792
     },
     {
       "ID": "vandal",
@@ -13347,7 +13352,7 @@
       "Name": "Wanderer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 2791
+      "UsersEstimate": 2792
     },
     {
       "ID": "windswept",
@@ -13362,15 +13367,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 34891,
+      "Progressed": 34895,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-07-28T06:00:25.7046366+00:00",
-  "LastChanged_Achievements": "2023-08-11T04:05:26.7778486+00:00",
+  "LastChanged_Achievements": "2023-08-11T05:05:24.2265872+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:18.9047127+00:00",
-  "LastUpdate_Ratings": "2023-08-11T04:01:20.0564331+00:00",
-  "LastUpdate_Achievements": "2023-08-11T04:05:26.7779769+00:00"
+  "LastUpdate_Ratings": "2023-08-11T05:01:25.5973925+00:00",
+  "LastUpdate_Achievements": "2023-08-11T05:05:24.2266946+00:00"
 }

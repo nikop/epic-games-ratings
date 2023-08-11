@@ -6,17 +6,17 @@ Number of Ratings: 36  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Breathe In… Breathe Out… | 74.00% | ~643 |
+| Breathe In… Breathe Out… | 74.00% | ~644 |
 | It’s Heating up! | 69.00% | ~600 |
 | Let’s patch things up | 66.00% | ~574 |
-| I can fix it! | 63.00% | ~547 |
-| Post No Bills | 55.00% | ~478 |
+| I can fix it! | 63.00% | ~548 |
+| Post No Bills | 55.00% | ~479 |
 | Truly Shocking! | 49.00% | ~426 |
 | Critical Thinker | 35.00% | ~304 |
 | The Weight of the World | 30.00% | ~261 |
-| Act I Complete | 28.00% | ~243 |
-| Always Finding Your Mark | 28.00% | ~243 |
-| A drop in the Ocean | 28.00% | ~243 |
+| Act I Complete | 28.00% | ~244 |
+| Always Finding Your Mark | 28.00% | ~244 |
+| A drop in the Ocean | 28.00% | ~244 |
 | No Niños | 27.00% | ~235 |
 | I ain’t afraid of no Ghost | 24.00% | ~209 |
 | Act II Complete | 20.00% | ~174 |
@@ -27,14 +27,14 @@ Number of Ratings: 36  (23.09.2022)
 | A Tucked Tale | 10.00% | ~87 |
 | The best thing money can buy | 9.00% | ~78 |
 | Act III Complete | 6.00% | ~52 |
-| Fire and Brimstone | 5.00% | ~43 |
-| See you Space Cowboy | 5.00% | ~43 |
+| Fire and Brimstone | 5.00% | ~44 |
+| See you Space Cowboy | 5.00% | ~44 |
 | Ghost in the Ship | 2.00% | ~17 |
 | Disagree and Commit | 0.10% | ~1 |
 | Captured Killer of Caerbannog | 0.00% | ~0 |
 | Gecko Go(al) Getter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 869 (Ranked 201)  
+Progressed: 870 (Ranked 201)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,6 +113,7 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-06 | 867 | 0 |
 | 2023-08-09 | 868 | 0 |
 | 2023-08-10 | 869 | 0 |
+| 2023-08-11 | 870 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

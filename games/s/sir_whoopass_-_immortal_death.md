@@ -48,8 +48,8 @@
 | I cant stand still! | 21.00% | ~20 |
 | Master Butcher | 18.00% | ~17 |
 | Slimy... yet satisfying | 17.00% | ~16 |
+| Just wing it! | 16.00% | ~15 |
 | Yeehaw!!! | 15.00% | ~14 |
-| Just wing it! | 15.00% | ~14 |
 | Deal with it | 15.00% | ~14 |
 | You're looking mozzare-hella good! | 13.00% | ~12 |
 | Ancient Ruins of Dirty Feet | 13.00% | ~12 |

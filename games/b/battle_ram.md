@@ -14,8 +14,8 @@
 | Senior warrant officer Baran 3rd class | 28.00% | ~56 |
 | Senior warrant officer Baran 1st class | 28.00% | ~56 |
 | Senior warrant officer Baran 2nd class | 28.00% | ~56 |
-| Senior warrant officer Baran 4th class | 21.00% | ~42 |
-| Junior Lieutenant Baran | 20.00% | ~40 |
+| Senior warrant officer Baran 4th class | 22.00% | ~44 |
+| Junior Lieutenant Baran | 21.00% | ~42 |
 | Baran Senior Warrant Officer Grade 5 | 17.00% | ~34 |
 | Senior Lieutenant Baran | 16.00% | ~32 |
 | Captain Baran | 12.00% | ~24 |
