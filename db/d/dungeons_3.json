@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 118,
   "Ranking_EOS_NewPlayers": 61,
-  "Ranking_EOS_NewCompleters": 21,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2020-11-05T16:00:00+00:00",
     "PcReleaseDate": "2020-11-05T16:00:00+00:00",
@@ -2464,11 +2464,11 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 26899,
-  "EOS_Completed": 219,
-  "EOS_NewPlayers": 737,
-  "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 0.81,
+  "EOS_Progressed": 26900,
+  "EOS_Completed": 220,
+  "EOS_NewPlayers": 735,
+  "EOS_NewCompleters": 9,
+  "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:41.4845822+00:00",
@@ -14549,6 +14549,11 @@
       "Time": "2023-08-11T04:03:35.2234024+00:00",
       "NumProgressed": 26899,
       "NumCompleted": 219
+    },
+    {
+      "Time": "2023-08-11T06:02:30.68084+00:00",
+      "NumProgressed": 26900,
+      "NumCompleted": 220
     }
   ],
   "TotalAchievements": 60,
@@ -14560,7 +14565,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 15601
+      "UsersEstimate": 15602
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -14576,7 +14581,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 15332
+      "UsersEstimate": 15333
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -14960,7 +14965,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 18829
+      "UsersEstimate": 18830
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -15039,15 +15044,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 26899,
-      "Completed": 219
+      "Progressed": 26900,
+      "Completed": 220
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-08-11T01:38:06.1720905+00:00",
-  "LastChanged_Achievements": "2023-08-11T05:03:42.642421+00:00",
+  "LastChanged_Achievements": "2023-08-11T06:02:30.6808396+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:14.252482+00:00",
-  "LastUpdate_Ratings": "2023-08-11T05:01:24.2197964+00:00",
-  "LastUpdate_Achievements": "2023-08-11T05:03:42.6425677+00:00"
+  "LastUpdate_Ratings": "2023-08-11T05:59:51.4007405+00:00",
+  "LastUpdate_Achievements": "2023-08-11T06:02:30.6809353+00:00"
 }

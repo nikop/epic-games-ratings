@@ -306,9 +306,9 @@
       "ID": "Kudla",
       "SetID": "ag48e8e",
       "Name": "Knife",
-      "Percentage": 66,
+      "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Kvitky",
@@ -473,8 +473,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-08-11T05:04:16.7979445+00:00",
+  "LastChanged_Achievements": "2023-08-11T06:03:23.7033932+00:00",
   "LastUpdate_AppInfo": "2023-08-04T15:57:19.5735536+00:00",
-  "LastUpdate_Ratings": "2023-08-11T04:57:57.9370179+00:00",
-  "LastUpdate_Achievements": "2023-08-11T05:04:16.7979714+00:00"
+  "LastUpdate_Ratings": "2023-08-11T05:57:28.7828402+00:00",
+  "LastUpdate_Achievements": "2023-08-11T06:03:23.7034121+00:00"
 }

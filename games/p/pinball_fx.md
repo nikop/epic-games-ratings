@@ -6,16 +6,16 @@ Number of Ratings: 756  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ball Launched | 82.00% | ~204,946 |
-| I know the Rules | 38.00% | ~94,975 |
-| Contender | 11.00% | ~27,493 |
-| I Found it! | 9.00% | ~22,494 |
-| First but not Last | 4.00% | ~9,997 |
-| Ready Steady Score | 3.00% | ~7,498 |
-| Dress Code | 3.00% | ~7,498 |
+| Ball Launched | 82.00% | ~204,963 |
+| I know the Rules | 38.00% | ~94,983 |
+| Contender | 11.00% | ~27,495 |
+| I Found it! | 9.00% | ~22,496 |
+| First but not Last | 4.00% | ~9,998 |
+| Ready Steady Score | 3.00% | ~7,499 |
+| Dress Code | 3.00% | ~7,499 |
 | Full Loot Madness | 2.00% | ~4,999 |
-| My Table, my Rules | 1.00% | ~2,499 |
-| Nine Zeroes | 0.90% | ~2,249 |
+| My Table, my Rules | 1.00% | ~2,500 |
+| Nine Zeroes | 0.90% | ~2,250 |
 | Shiny Memento | 0.30% | ~750 |
 | Pinball Hoarder | 0.30% | ~750 |
 | Interior Designer | 0.30% | ~750 |
@@ -37,7 +37,7 @@ Number of Ratings: 756  (23.09.2022)
 | Fully Involved | 0.00% | ~0 |
 | Collect Them All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249,934 (Ranked 44)  
+Progressed: 249,955 (Ranked 44)  
 Completed: 0 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,15 +150,15 @@ Completed: 0 (0.00%) (Ranked 251)
 | 2023-08-08 | 249,203 | 0 |
 | 2023-08-09 | 249,472 | 0 |
 | 2023-08-10 | 249,815 | 0 |
-| 2023-08-11 | 249,934 | 0 |
+| 2023-08-11 | 249,955 | 0 |
 ## Awards
 Max (Great for Beginners): 185  (Ranked 278)  
-Sum: 1,528 (Ranked 219)  
+Sum: 1,529 (Ranked 219)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 185 |
-| This game is Great for Quick Sessions | 174 |
+| This game is Great for Quick Sessions | 175 |
 | This game has Quickly Understood Controls | 161 |
 | This game is Relaxing | 161 |
 | This game is Extremely Fun | 154 |
@@ -321,3 +321,4 @@ Diff (max vs sum): 59
 | 2023-08-05 | 4.04 | - | 183 | 1,522 |
 | 2023-08-07 | 4.04 | - | 183 | 1,525 |
 | 2023-08-08 | 4.04 | - | 185 | 1,528 |
+| 2023-08-11 | 4.04 | - | 185 | 1,529 |

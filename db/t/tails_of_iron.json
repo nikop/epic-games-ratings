@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -227,9 +227,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1857,
+  "EOS_Progressed": 1858,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -2412,6 +2412,11 @@
       "Time": "2023-08-10T20:05:15.3709141+00:00",
       "NumProgressed": 1857,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-08-11T06:03:55.0493997+00:00",
+      "NumProgressed": 1858,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 30,
@@ -2447,7 +2452,7 @@
       "Name": "Collect Monster Parts",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 1077
+      "UsersEstimate": 1078
     },
     {
       "ID": "CollectAllStatues",
@@ -2527,7 +2532,7 @@
       "Name": "Defeat Avor Warden of the Northern Wastes",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "DefeatMoziQueen",
@@ -2559,7 +2564,7 @@
       "Name": "Fix the Travellers Wagon",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "GetRangedWeapon",
@@ -2591,7 +2596,7 @@
       "Name": "Defeat 25 Frogs",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 1151
+      "UsersEstimate": 1152
     },
     {
       "ID": "Kill25Mozi",
@@ -2599,7 +2604,7 @@
       "Name": "Defeat 25 Mozis",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 854
+      "UsersEstimate": 855
     },
     {
       "ID": "MeetTheMoles",
@@ -2662,22 +2667,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1857,
+      "Progressed": 1858,
       "Completed": 8
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 498,
-      "Completed": 498
+      "Progressed": 499,
+      "Completed": 499
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-07-30T07:58:33.6633976+00:00",
-  "LastChanged_Achievements": "2023-08-11T05:05:00.4929484+00:00",
+  "LastChanged_Achievements": "2023-08-11T06:03:55.0493992+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:14.9786304+00:00",
-  "LastUpdate_Ratings": "2023-08-11T05:00:11.6458048+00:00",
-  "LastUpdate_Achievements": "2023-08-11T05:05:00.4929948+00:00"
+  "LastUpdate_Ratings": "2023-08-11T05:59:03.7580598+00:00",
+  "LastUpdate_Achievements": "2023-08-11T06:03:55.0494284+00:00"
 }

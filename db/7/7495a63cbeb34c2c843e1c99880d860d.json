@@ -2,9 +2,9 @@
   "ID": "7495a63cbeb34c2c843e1c99880d860d",
   "Name": "NoRoY",
   "ProductSlug": "noroy-06d946",
-  "Ranking_EOS_Progress": 541,
+  "Ranking_EOS_Progress": 542,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewPlayers": 356,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-08-09T17:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-03T20:03:35.895626+00:00",
-  "LastChanged_Achievements": "2023-08-11T05:03:16.0680223+00:00",
+  "LastChanged_Achievements": "2023-08-11T06:02:11.7695591+00:00",
   "LastUpdate_AppInfo": "2023-08-06T15:57:11.7281935+00:00",
-  "LastUpdate_Ratings": "2023-08-11T04:57:51.5475224+00:00",
-  "LastUpdate_Achievements": "2023-08-11T05:03:16.0680264+00:00"
+  "LastUpdate_Ratings": "2023-08-11T05:57:23.424685+00:00",
+  "LastUpdate_Achievements": "2023-08-11T06:02:11.7695615+00:00"
 }

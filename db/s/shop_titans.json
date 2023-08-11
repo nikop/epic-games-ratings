@@ -5536,9 +5536,9 @@
       "Count": 3733
     }
   ],
-  "EOS_Progressed": 134290,
+  "EOS_Progressed": 134293,
   "EOS_Completed": 131,
-  "EOS_NewPlayers": 462,
+  "EOS_NewPlayers": 463,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -17031,6 +17031,11 @@
       "Time": "2023-08-11T05:05:39.8765265+00:00",
       "NumProgressed": 134290,
       "NumCompleted": 131
+    },
+    {
+      "Time": "2023-08-11T06:04:23.0757189+00:00",
+      "NumProgressed": 134293,
+      "NumCompleted": 131
     }
   ],
   "TotalAchievements": 112,
@@ -17048,9 +17053,9 @@
       "ID": "advlevel02",
       "SetID": "anfd17p",
       "Name": "On the Path to Greatness",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 269
+      "UsersEstimate": 403
     },
     {
       "ID": "advlevel03",
@@ -17640,9 +17645,9 @@
       "ID": "level03",
       "SetID": "anfd17p",
       "Name": "Master Merchant",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 269
     },
     {
       "ID": "level04",
@@ -17937,15 +17942,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 134290,
+      "Progressed": 134293,
       "Completed": 131
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-08-11T01:37:20.4310656+00:00",
-  "LastChanged_Achievements": "2023-08-11T05:05:39.8765261+00:00",
+  "LastChanged_Achievements": "2023-08-11T06:04:23.0757182+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:21.2056858+00:00",
-  "LastUpdate_Ratings": "2023-08-11T05:00:23.5282158+00:00",
-  "LastUpdate_Achievements": "2023-08-11T05:05:39.8768204+00:00"
+  "LastUpdate_Ratings": "2023-08-11T05:59:09.7771309+00:00",
+  "LastUpdate_Achievements": "2023-08-11T06:04:23.0758897+00:00"
 }

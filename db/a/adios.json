@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 112,
   "Ranking_EOS_NewPlayers": 57,
-  "Ranking_EOS_NewCompleters": 14,
+  "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -96,10 +96,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 69563,
+  "EOS_Progressed": 69566,
   "EOS_Completed": 697,
-  "EOS_NewPlayers": 858,
-  "EOS_NewCompleters": 14,
+  "EOS_NewPlayers": 853,
+  "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
     {
@@ -12466,6 +12466,11 @@
       "Time": "2023-08-11T05:08:35.1464979+00:00",
       "NumProgressed": 69563,
       "NumCompleted": 697
+    },
+    {
+      "Time": "2023-08-11T06:06:19.7955823+00:00",
+      "NumProgressed": 69566,
+      "NumCompleted": 697
     }
   ],
   "TotalAchievements": 25,
@@ -12493,7 +12498,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 18,
       "XP": 150,
-      "UsersEstimate": 12521
+      "UsersEstimate": 12522
     },
     {
       "ID": "Audiophile",
@@ -12509,7 +12514,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 15304
+      "UsersEstimate": 15305
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -12517,7 +12522,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 12521
+      "UsersEstimate": 12522
     },
     {
       "ID": "Butcher",
@@ -12597,7 +12602,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 13217
+      "UsersEstimate": 13218
     },
     {
       "ID": "Nice Try",
@@ -12605,7 +12610,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 11130
+      "UsersEstimate": 11131
     },
     {
       "ID": "Nothing Left to Say",
@@ -12613,7 +12618,7 @@
       "Name": "Nothing Left to Say",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 4869
+      "UsersEstimate": 4870
     },
     {
       "ID": "Piano Man",
@@ -12621,7 +12626,7 @@
       "Name": "Piano Man",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 6956
+      "UsersEstimate": 6957
     },
     {
       "ID": "Right On Target",
@@ -12629,7 +12634,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 9043
+      "UsersEstimate": 9044
     },
     {
       "ID": "Sniper",
@@ -12637,7 +12642,7 @@
       "Name": "Sniper",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 4869
+      "UsersEstimate": 4870
     },
     {
       "ID": "Spicy",
@@ -12676,7 +12681,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 69563,
+      "Progressed": 69566,
       "Completed": 697
     }
   ],
@@ -12684,8 +12689,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-08-07T22:57:38.0235808+00:00",
-  "LastChanged_Achievements": "2023-08-11T05:08:35.1464975+00:00",
+  "LastChanged_Achievements": "2023-08-11T06:06:19.7955819+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:13.5185195+00:00",
-  "LastUpdate_Ratings": "2023-08-11T04:57:40.5118346+00:00",
-  "LastUpdate_Achievements": "2023-08-11T05:08:35.146586+00:00"
+  "LastUpdate_Ratings": "2023-08-11T05:57:16.7729714+00:00",
+  "LastUpdate_Achievements": "2023-08-11T06:06:19.7956508+00:00"
 }

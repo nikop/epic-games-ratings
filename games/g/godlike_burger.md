@@ -6,7 +6,7 @@ Rating: 4.27 (Ranked 807)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | MASTER CHEF | 81.00% | ~317 |
-| FIRST BLOOD | 76.00% | ~297 |
+| FIRST BLOOD | 77.00% | ~301 |
 | KEVIN! | 66.00% | ~258 |
 | JACK OF ALL TRADES | 60.00% | ~235 |
 | CRIMINAL | 53.00% | ~207 |

@@ -22,6 +22,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | One-Armed Bandit | 0.40% | ~537 |
 | Through Repetition, Perfection | 0.40% | ~537 |
 | The Daily Grind | 0.30% | ~403 |
+| On the Path to Greatness | 0.30% | ~403 |
 | Ascended | 0.30% | ~403 |
 | Bounty Hunters | 0.30% | ~403 |
 | Blank Page Syndrome | 0.30% | ~403 |
@@ -35,7 +36,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Dungeon Imports | 0.30% | ~403 |
 | Did we pack lunch? | 0.30% | ~403 |
 | Arcane Industries | 0.30% | ~403 |
-| On the Path to Greatness | 0.20% | ~269 |
 | A Notch Above the Rest | 0.20% | ~269 |
 | Cream of the Crop | 0.20% | ~269 |
 | Above the Norm | 0.20% | ~269 |
@@ -65,6 +65,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Wealth Beyond Measure | 0.20% | ~269 |
 | Helping Hand | 0.20% | ~269 |
 | Fat Cat Tag Team | 0.20% | ~269 |
+| Master Merchant | 0.20% | ~269 |
 | Laden with Loot | 0.20% | ~269 |
 | Natural 20 | 0.20% | ~269 |
 | Seasoned Journeyman | 0.20% | ~269 |
@@ -98,7 +99,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Jackpot! | 0.10% | ~134 |
 | JACKPOT!!! | 0.10% | ~134 |
 | Item of Renown | 0.10% | ~134 |
-| Master Merchant | 0.10% | ~134 |
 | Merchant Extraordinaire | 0.10% | ~134 |
 | Miracle Alchemist | 0.10% | ~134 |
 | Bountiful Harvest | 0.10% | ~134 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Economy of Scarce | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,290 (Ranked 65)  
+Progressed: 134,293 (Ranked 65)  
 Completed: 131 (0.10%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,7 +232,7 @@ Completed: 131 (0.10%) (Ranked 199)
 | 2023-08-08 | 134,169 | 131 |
 | 2023-08-09 | 134,223 | 131 |
 | 2023-08-10 | 134,276 | 131 |
-| 2023-08-11 | 134,290 | 131 |
+| 2023-08-11 | 134,293 | 131 |
 ## Awards
 Max (Great for Beginners): 4,694  (Ranked 71)  
 Sum: 27,078 (Ranked 46)  

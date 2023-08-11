@@ -21,7 +21,7 @@ Number of Ratings: 56  (23.09.2022)
 | Completionist | 0.40% | ~139 |
 | Deja Vu | 0.40% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 34,719 (Ranked 97)  
+Progressed: 34,720 (Ranked 97)  
 Completed: 106 (0.31%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,7 +134,7 @@ Completed: 106 (0.31%) (Ranked 159)
 | 2023-08-08 | 34,637 | 106 |
 | 2023-08-09 | 34,669 | 106 |
 | 2023-08-10 | 34,710 | 106 |
-| 2023-08-11 | 34,719 | 106 |
+| 2023-08-11 | 34,720 | 106 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

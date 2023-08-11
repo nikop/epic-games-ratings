@@ -13,7 +13,7 @@ Rating: 4.05 (Ranked 919)
 | Guild Power | 25.00% | ~446 |
 | Prestigious x10 | 22.00% | ~393 |
 | The game is on | 20.00% | ~357 |
-| Exotic Merchant | 18.00% | ~321 |
+| Exotic Merchant | 19.00% | ~339 |
 | Dragon Clicker | 17.00% | ~303 |
 | Miner Clicker | 17.00% | ~303 |
 | Full Party | 16.00% | ~286 |

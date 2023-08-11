@@ -20,6 +20,7 @@ Rating: 4.88 (Ranked 18)
 | Uh, they were broken when I got here | 5.00% | ~192 |
 | Kissing the sky! | 5.00% | ~192 |
 | I look cool. But I can look COOLER. | 5.00% | ~192 |
+| Does that say weakpoint? | 5.00% | ~192 |
 | The Negotiator | 4.00% | ~154 |
 | Headliner | 4.00% | ~154 |
 | Time to pay up! | 4.00% | ~154 |
@@ -27,7 +28,6 @@ Rating: 4.88 (Ranked 18)
 | Whoa! There's ANOTHER health bar!? | 4.00% | ~154 |
 | You must like calling me in, Chai | 4.00% | ~154 |
 | Out in a puff of smoke | 4.00% | ~154 |
-| Does that say weakpoint? | 4.00% | ~154 |
 | NOW we got a kickass hideout! | 4.00% | ~95 |
 | I have to read these things? | 3.00% | ~115 |
 | Perfecter Parry-er! | 3.00% | ~115 |

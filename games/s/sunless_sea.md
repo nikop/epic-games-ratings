@@ -14,10 +14,10 @@ Number of Ratings: 401  (23.09.2022)
 | Correspondent | 12.00% | ~4,233 |
 | Lose Your Mind | 12.00% | ~4,233 |
 | Sound Mind? | 12.00% | ~4,233 |
-| Salt's Curse | 11.00% | ~3,880 |
-| HE SUN THE SUN THE SUN T | 11.00% | ~3,880 |
-| The Fall of the House | 11.00% | ~3,880 |
-| Shipmate | 11.00% | ~3,880 |
+| Salt's Curse | 11.00% | ~3,881 |
+| HE SUN THE SUN THE SUN T | 11.00% | ~3,881 |
+| The Fall of the House | 11.00% | ~3,881 |
+| Shipmate | 11.00% | ~3,881 |
 | One Year at Zee | 8.00% | ~2,822 |
 | Pupil | 7.00% | ~2,469 |
 | Salvager | 7.00% | ~2,469 |
@@ -42,11 +42,11 @@ Number of Ratings: 401  (23.09.2022)
 | Rosewater sailor | 1.00% | ~353 |
 | Under the zee | 1.00% | ~353 |
 | A current under zee | 1.00% | ~353 |
-| Never Stop Sinking... | 0.90% | ~317 |
-| The beauty of the deep | 0.90% | ~317 |
-| Leviathan | 0.90% | ~317 |
-| No regrets | 0.90% | ~317 |
-| Depth charge | 0.90% | ~317 |
+| Never Stop Sinking... | 0.90% | ~318 |
+| The beauty of the deep | 0.90% | ~318 |
+| Leviathan | 0.90% | ~318 |
+| No regrets | 0.90% | ~318 |
+| Depth charge | 0.90% | ~318 |
 | A zee-change | 0.80% | ~282 |
 | What lies beneath | 0.70% | ~247 |
 | Stone's Curse | 0.70% | ~247 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~35 |
 | Ten Years at Zee | 0.10% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 35,277 (Ranked 95)  
+Progressed: 35,278 (Ranked 95)  
 Completed: 3 (0.01%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,7 +174,7 @@ Completed: 3 (0.01%) (Ranked 238)
 | 2023-08-08 | 35,162 | 3 |
 | 2023-08-09 | 35,211 | 3 |
 | 2023-08-10 | 35,264 | 3 |
-| 2023-08-11 | 35,277 | 3 |
+| 2023-08-11 | 35,278 | 3 |
 ## Awards
 Max (Character Customization): 213  (Ranked 269)  
 Sum: 283 (Ranked 341)  

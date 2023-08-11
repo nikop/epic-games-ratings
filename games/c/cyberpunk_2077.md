@@ -6,22 +6,22 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 68.00% | ~591,768 |
-| Right Back At Ya | 39.00% | ~339,396 |
-| The Lovers | 35.00% | ~304,586 |
+| The Fool | 68.00% | ~591,770 |
+| Right Back At Ya | 39.00% | ~339,398 |
+| The Lovers | 35.00% | ~304,588 |
 | Stanislavski's Method | 29.00% | ~252,372 |
-| The Wheel of Fortune | 27.00% | ~234,967 |
+| The Wheel of Fortune | 27.00% | ~234,968 |
 | The Hermit | 25.00% | ~217,562 |
-| Christmas Tree Attack | 23.00% | ~200,157 |
-| True Soldier | 23.00% | ~200,157 |
-| The High Priestess | 22.00% | ~191,454 |
-| Legend of The Afterlife | 22.00% | ~191,454 |
+| Christmas Tree Attack | 23.00% | ~200,158 |
+| True Soldier | 23.00% | ~200,158 |
+| The High Priestess | 22.00% | ~191,455 |
+| Legend of The Afterlife | 22.00% | ~191,455 |
 | Life of the Road | 21.00% | ~182,752 |
-| Full Body Conversion | 18.00% | ~156,644 |
-| The World | 18.00% | ~156,644 |
+| Full Body Conversion | 18.00% | ~156,645 |
+| The World | 18.00% | ~156,645 |
 | Bushido and Chill | 16.00% | ~139,240 |
-| Gun Fu | 15.00% | ~130,537 |
-| True Warrior | 15.00% | ~130,537 |
+| Gun Fu | 15.00% | ~130,538 |
+| True Warrior | 15.00% | ~130,538 |
 | I Am The Law | 14.00% | ~121,835 |
 | Judy vs Night City | 14.00% | ~121,835 |
 | To Protect and Serve | 13.00% | ~113,132 |
@@ -31,18 +31,18 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Wandering Fool | 9.00% | ~78,322 |
 | Ten out of Ten | 9.00% | ~78,322 |
 | Breathtaking | 8.00% | ~69,620 |
-| The Star | 7.00% | ~60,917 |
+| The Star | 7.00% | ~60,918 |
 | To Bad Decisions! | 6.00% | ~52,215 |
 | The Sun | 6.00% | ~52,215 |
 | Must Be Rats | 4.00% | ~34,810 |
 | Temperance | 4.00% | ~34,810 |
-| City Lights | 3.00% | ~26,107 |
-| Mean Streets | 3.00% | ~26,107 |
-| Little Tokyo | 3.00% | ~26,107 |
-| Greetings from Pacifica! | 3.00% | ~26,107 |
-| The Jungle | 3.00% | ~26,107 |
-| V for Vendetta | 3.00% | ~26,107 |
-| It's Elementary | 3.00% | ~26,107 |
+| City Lights | 3.00% | ~26,108 |
+| Mean Streets | 3.00% | ~26,108 |
+| Little Tokyo | 3.00% | ~26,108 |
+| Greetings from Pacifica! | 3.00% | ~26,108 |
+| The Jungle | 3.00% | ~26,108 |
+| V for Vendetta | 3.00% | ~26,108 |
+| It's Elementary | 3.00% | ~26,108 |
 | Autojock | 2.00% | ~17,405 |
 | Frequent Flyer | 2.00% | ~17,405 |
 | The Wasteland | 2.00% | ~17,405 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~8,702 |
 | Rough Landing | 0.50% | ~4,351 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 870,247 (Ranked 14)  
+Progressed: 870,250 (Ranked 14)  
 Completed: 1,957 (0.22%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,10 +164,10 @@ Completed: 1,957 (0.22%) (Ranked 173)
 | 2023-08-08 | 869,929 | 1,950 |
 | 2023-08-09 | 870,084 | 1,952 |
 | 2023-08-10 | 870,229 | 1,957 |
-| 2023-08-11 | 870,247 | 1,957 |
+| 2023-08-11 | 870,250 | 1,957 |
 ## Awards
 Max (Character Customization): 75,203  (Ranked 9)  
-Sum: 198,489 (Ranked 13)  
+Sum: 198,504 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
@@ -178,7 +178,7 @@ Diff (max vs sum): -4
 | This game has Amazing Storytelling | 8,787 |
 | This game is Extremely Fun | 8,662 |
 | This game is Highly Recommended | 8,627 |
-| This game is Relaxing | 8,563 |
+| This game is Relaxing | 8,578 |
 | This game has Amazing Characters | 8,460 |
 | This game has Quickly Understood Controls | 8,453 |
 | This game has a Creative Community | 5,543 |
@@ -389,3 +389,4 @@ Diff (max vs sum): -4
 | 2023-08-08 | 4.62 | - | 75,084 | 198,069 |
 | 2023-08-09 | 4.62 | - | 75,151 | 198,278 |
 | 2023-08-10 | 4.62 | - | 75,203 | 198,489 |
+| 2023-08-11 | 4.62 | - | 75,203 | 198,504 |
