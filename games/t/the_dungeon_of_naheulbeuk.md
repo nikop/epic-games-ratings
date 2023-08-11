@@ -6,14 +6,15 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 7.00% | ~14,730 |
+| Sowwy! | 7.00% | ~14,732 |
+| Where's that freaking Dwarf? | 0.40% | ~842 |
 | Alt+F4 | 0.40% | ~842 |
 | Déjà vu | 0.30% | ~631 |
-| Where's that freaking Dwarf? | 0.30% | ~631 |
 | Sock! SOCK! | 0.30% | ~631 |
 | Livin' in a dwarven paradise | 0.20% | ~421 |
 | Way of the Wimp | 0.20% | ~421 |
 | A beer, two curses, three companions | 0.20% | ~421 |
+| The plot thickens... At the tavern | 0.20% | ~421 |
 | %#*!$*! | 0.20% | ~421 |
 | GG EZ | 0.20% | ~421 |
 | DM intervention | 0.20% | ~421 |
@@ -23,7 +24,6 @@ Number of Ratings: 118  (23.09.2022)
 | Holistic Adventuring Party | 0.10% | ~210 |
 | Shiny and Crôm | 0.10% | ~210 |
 | Scholar of the Lands of Fangh | 0.10% | ~210 |
-| The plot thickens... At the tavern | 0.10% | ~210 |
 | The demons' feast | 0.10% | ~210 |
 | The Great Library | 0.10% | ~210 |
 | Torture and Sensibility | 0.10% | ~210 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Sleep schedule mastery | 0.00% | ~0 |
 | Dumb and dumber | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210,431 (Ranked 55)  
+Progressed: 210,456 (Ranked 55)  
 Completed: 1 (0.00%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,7 +167,7 @@ Completed: 1 (0.00%) (Ranked 253)
 | 2023-08-08 | 209,082 | 0 |
 | 2023-08-09 | 209,549 | 0 |
 | 2023-08-10 | 210,011 | 0 |
-| 2023-08-11 | 210,431 | 1 |
+| 2023-08-11 | 210,456 | 1 |
 ## Awards
 Max (Character Customization): 159  (Ranked 292)  
 Sum: 159 (Ranked 391)  

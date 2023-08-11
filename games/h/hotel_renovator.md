@@ -21,15 +21,15 @@ Rating: 4.50 (Ranked 558)
 | No need to call anyone | 39.00% | ~370 |
 | Big fortune | 32.00% | ~303 |
 | Still more work ahead | 29.00% | ~275 |
+| Aesop's fable | 27.00% | ~256 |
 | Hotel sleuthing | 27.00% | ~256 |
 | Kaboom | 26.00% | ~246 |
-| Aesop's fable | 26.00% | ~246 |
 | Nearly there | 25.00% | ~237 |
 | Broken heart | 23.00% | ~218 |
 | Island boy | 21.00% | ~199 |
 | You're a star | 19.00% | ~180 |
+| Unstoppable | 18.00% | ~171 |
 | Reunited | 18.00% | ~171 |
-| Unstoppable | 17.00% | ~161 |
 | King of hospitality | 11.00% | ~104 |
 | Top spot in town | 2.00% | ~19 |
 ## Popularity (Based on EOS Achievements)

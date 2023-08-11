@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 197,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,10 +512,10 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 60686,
+  "EOS_Progressed": 60687,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 471,
-  "EOS_NewCompleters": 1,
+  "EOS_NewPlayers": 466,
+  "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
     {
@@ -10932,6 +10932,11 @@
       "Time": "2023-08-11T19:05:45.1271968+00:00",
       "NumProgressed": 60686,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-11T20:05:30.7017362+00:00",
+      "NumProgressed": 60687,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -11031,7 +11036,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6675
+      "UsersEstimate": 6676
     },
     {
       "ID": "13",
@@ -11127,7 +11132,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6675
+      "UsersEstimate": 6676
     },
     {
       "ID": "25",
@@ -11143,7 +11148,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6675
+      "UsersEstimate": 6676
     },
     {
       "ID": "27",
@@ -11478,21 +11483,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 60686,
+      "Progressed": 60687,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 24154,
+      "Progressed": 24155,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-11T19:05:45.1271963+00:00",
+  "LastChanged_Achievements": "2023-08-11T20:05:30.7017356+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:26.4964539+00:00",
-  "LastUpdate_Ratings": "2023-08-11T18:59:07.2836314+00:00",
-  "LastUpdate_Achievements": "2023-08-11T19:05:45.1273259+00:00"
+  "LastUpdate_Ratings": "2023-08-11T19:59:01.4899004+00:00",
+  "LastUpdate_Achievements": "2023-08-11T20:05:30.7018352+00:00"
 }

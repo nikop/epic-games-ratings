@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 17,
   "Ranking_EOS_NewPlayers": 314,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-07-14T10:30:00+00:00",
     "PcReleaseDate": "2022-07-14T11:30:00+00:00",
@@ -192,9 +192,9 @@
       "ID": "BADGE_BOSS_2_KILL",
       "SetID": "ak6pfjk",
       "Name": "Top of the World",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 114
     },
     {
       "ID": "BADGE_BOSS_3_KILL",
@@ -609,8 +609,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-08-11T19:05:22.1538319+00:00",
+  "LastChanged_Achievements": "2023-08-11T20:05:11.0211498+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:29.1631378+00:00",
-  "LastUpdate_Ratings": "2023-08-11T19:00:16.2373617+00:00",
-  "LastUpdate_Achievements": "2023-08-11T19:05:22.1538719+00:00"
+  "LastUpdate_Ratings": "2023-08-11T20:00:05.8410902+00:00",
+  "LastUpdate_Achievements": "2023-08-11T20:05:11.021184+00:00"
 }

@@ -6,20 +6,20 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~440,068 |
-| The Three | 64.00% | ~339,330 |
-| The Banquet | 40.00% | ~212,081 |
-| Devara's Light | 30.00% | ~159,061 |
+| Find Sanctuary | 83.00% | ~440,072 |
+| The Three | 64.00% | ~339,332 |
+| The Banquet | 40.00% | ~212,083 |
+| Devara's Light | 30.00% | ~159,062 |
 | The Iron Ones | 18.00% | ~95,437 |
-| The Village | 16.00% | ~84,832 |
-| The Forest | 14.00% | ~74,228 |
-| Branded | 13.00% | ~68,926 |
-| The Imposter | 13.00% | ~68,926 |
-| The Keep | 13.00% | ~68,926 |
-| The Castle | 11.00% | ~58,322 |
-| The Dome | 9.00% | ~47,718 |
-| The Red Hall | 9.00% | ~47,718 |
-| The Sacrifice | 8.00% | ~42,416 |
+| The Village | 16.00% | ~84,833 |
+| The Forest | 14.00% | ~74,229 |
+| Branded | 13.00% | ~68,927 |
+| The Imposter | 13.00% | ~68,927 |
+| The Keep | 13.00% | ~68,927 |
+| The Castle | 11.00% | ~58,323 |
+| The Dome | 9.00% | ~47,719 |
+| The Red Hall | 9.00% | ~47,719 |
+| The Sacrifice | 8.00% | ~42,417 |
 | The Cave | 7.00% | ~37,114 |
 | The Mire | 7.00% | ~37,114 |
 | The Stone Roots | 7.00% | ~37,114 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,604 |
 | Fading Fast | 1.00% | ~5,302 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 530,203 (Ranked 29)  
+Progressed: 530,207 (Ranked 29)  
 Completed: 1,504 (0.28%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,16 +157,16 @@ Completed: 1,504 (0.28%) (Ranked 167)
 | 2023-08-08 | 529,973 | 1,502 |
 | 2023-08-09 | 530,040 | 1,504 |
 | 2023-08-10 | 530,127 | 1,504 |
-| 2023-08-11 | 530,203 | 1,504 |
+| 2023-08-11 | 530,207 | 1,504 |
 ## Awards
 Max (Challenging Combat): 277  (Ranked 243)  
-Sum: 1,925 (Ranked 201)  
+Sum: 1,926 (Ranked 201)  
 Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
 | This game has Challenging Combat | 277 |
 | This game has Quickly Understood Controls | 256 |
-| This game is Highly Recommended | 253 |
+| This game is Highly Recommended | 254 |
 | This game is Extremely Fun | 235 |
 | This game has Diverse Characters | 234 |
 | This game has Amazing Storytelling | 229 |
@@ -317,3 +317,4 @@ Diff (max vs sum): 42
 | 2023-07-31 | 4.61 | - | 276 | 1,923 |
 | 2023-08-04 | 4.61 | - | 276 | 1,924 |
 | 2023-08-05 | 4.61 | - | 277 | 1,925 |
+| 2023-08-11 | 4.61 | - | 277 | 1,926 |

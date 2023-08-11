@@ -5,9 +5,9 @@ Rating: 4.88 (Ranked 18)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 9.00% | ~346 |
-| Feeling the beat! | 9.00% | ~346 |
-| You can pet the cat! | 9.00% | ~346 |
+| Feeling the beat! | 10.00% | ~385 |
+| Start with a bang! | 9.00% | ~347 |
+| You can pet the cat! | 9.00% | ~347 |
 | Who put gears in there? | 8.00% | ~308 |
 | Cream of the Crop | 7.00% | ~270 |
 | Thanks for the free chip, Peppermint! | 7.00% | ~270 |
@@ -15,12 +15,12 @@ Rating: 4.88 (Ranked 18)
 | You got this, Peppermint? | 6.00% | ~231 |
 | Perfect Parry | 6.00% | ~231 |
 | Alright, that felt AWESOME! | 6.00% | ~231 |
-| This will cost you big time | 5.00% | ~192 |
-| Z-shielding's got nothing on us! | 5.00% | ~192 |
-| Uh, they were broken when I got here | 5.00% | ~192 |
-| Kissing the sky! | 5.00% | ~192 |
-| I look cool. But I can look COOLER. | 5.00% | ~192 |
-| Does that say weakpoint? | 5.00% | ~192 |
+| This will cost you big time | 5.00% | ~193 |
+| Z-shielding's got nothing on us! | 5.00% | ~193 |
+| Uh, they were broken when I got here | 5.00% | ~193 |
+| Kissing the sky! | 5.00% | ~193 |
+| I look cool. But I can look COOLER. | 5.00% | ~193 |
+| Does that say weakpoint? | 5.00% | ~193 |
 | The Negotiator | 4.00% | ~154 |
 | Headliner | 4.00% | ~154 |
 | Time to pay up! | 4.00% | ~154 |
@@ -35,10 +35,10 @@ Rating: 4.88 (Ranked 18)
 | Beat-hit mania | 2.00% | ~77 |
 | That's a lot of junk metal… | 2.00% | ~77 |
 | There's such a thing as TOO helpful | 2.00% | ~77 |
-| Chip-tuned | 1.00% | ~38 |
-| Wanna hear my playlist? | 1.00% | ~38 |
-| I told you I'd be fine, Peppermint! | 1.00% | ~38 |
-| Check out my moves! | 1.00% | ~38 |
+| Chip-tuned | 1.00% | ~39 |
+| Wanna hear my playlist? | 1.00% | ~39 |
+| I told you I'd be fine, Peppermint! | 1.00% | ~39 |
+| Check out my moves! | 1.00% | ~39 |
 | Call me Turbo Chai | 1.00% | ~24 |
 | I think I deserve some praise, here! | 0.90% | ~35 |
 | I think I found your calling, Macaron | 0.90% | ~35 |
@@ -77,7 +77,7 @@ Rating: 4.88 (Ranked 18)
 | Voices from within | 0.10% | ~2 |
 | Low budget finish | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,850 (Ranked 147)  
+Progressed: 3,851 (Ranked 147)  
 Completed: 7 (0.18%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,7 +188,7 @@ Completed: 7 (0.18%) (Ranked 183)
 | 2023-08-08 | 3,807 | 7 |
 | 2023-08-09 | 3,820 | 7 |
 | 2023-08-10 | 3,836 | 7 |
-| 2023-08-11 | 3,850 | 7 |
+| 2023-08-11 | 3,851 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -26,9 +26,9 @@ Number of Ratings: 524  (23.09.2022)
 | The Six-Gun Scribe | 12.00% | ~7,282 |
 | Collateral Carnage | 12.00% | ~7,282 |
 | Come One, Come All | 12.00% | ~7,282 |
-| Perchance to Dream | 11.00% | ~6,675 |
-| It's Not Just a Typewriter Brand | 11.00% | ~6,675 |
-| Thunder and Lightning | 11.00% | ~6,675 |
+| Perchance to Dream | 11.00% | ~6,676 |
+| It's Not Just a Typewriter Brand | 11.00% | ~6,676 |
+| Thunder and Lightning | 11.00% | ~6,676 |
 | Gatekeeper | 10.00% | ~6,069 |
 | The Lady of the Light | 10.00% | ~6,069 |
 | Two For the Price of One | 10.00% | ~6,069 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~61 |
 | No Punctuation | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,686 (Ranked 85)  
+Progressed: 60,687 (Ranked 85)  
 Completed: 64 (0.11%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 64 (0.11%) (Ranked 197)
 | 2023-08-08 | 60,545 | 64 |
 | 2023-08-09 | 60,613 | 64 |
 | 2023-08-10 | 60,658 | 64 |
-| 2023-08-11 | 60,686 | 64 |
+| 2023-08-11 | 60,687 | 64 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

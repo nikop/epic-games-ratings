@@ -53,13 +53,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Naming Landmarks | 1.00% | ~134 |
 | Trade Caravan | 1.00% | ~134 |
 | Poetic Leader | 1.00% | ~134 |
+| Regicide | 0.90% | ~120 |
 | Artisans | 0.90% | ~120 |
 | Furious Family | 0.90% | ~120 |
 | Apadana | 0.90% | ~120 |
 | Colossus | 0.90% | ~120 |
 | Musaeum | 0.90% | ~120 |
 | Manichaeism | 0.90% | ~120 |
-| Regicide | 0.80% | ~107 |
 | Drillmaster | 0.80% | ~107 |
 | Legendary Cities | 0.80% | ~107 |
 | Just Difficulty | 0.80% | ~107 |

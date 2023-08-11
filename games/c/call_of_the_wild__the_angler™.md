@@ -13,8 +13,8 @@ Number of Ratings: 281  (23.09.2022)
 | Scaling up | 51.00% | ~2,489 |
 | Ready to Rod and Roll | 43.00% | ~2,098 |
 | More Fish in the Sea | 42.00% | ~2,050 |
+| License to Gill | 34.00% | ~1,659 |
 | Fish Out of Water | 33.00% | ~1,610 |
-| License to Gill | 33.00% | ~1,610 |
 | Things that go Splash in the Night | 27.00% | ~1,318 |
 | Goldfish? | 27.00% | ~1,318 |
 | Going for Gold | 24.00% | ~1,171 |

@@ -4,8 +4,8 @@
   "ProductSlug": "the-house-of-da-vinci-eb6e37",
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 28,
-  "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
     "PcReleaseDate": "2017-11-24T00:00:00+00:00",
@@ -1415,9 +1415,9 @@
       "ID": "CgkIgaGB2J0LEAIQBQ",
       "SetID": "4ocea6d",
       "Name": "Flying Machine",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 165,
-      "UsersEstimate": 93
+      "UsersEstimate": 96
     }
   ],
   "AchievementSets": [
@@ -1430,8 +1430,8 @@
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-08-11T19:06:23.0156857+00:00",
+  "LastChanged_Achievements": "2023-08-11T20:06:13.1892529+00:00",
   "LastUpdate_AppInfo": "2023-08-10T15:57:09.369963+00:00",
-  "LastUpdate_Ratings": "2023-08-11T18:58:02.2946326+00:00",
-  "LastUpdate_Achievements": "2023-08-11T19:06:23.0156978+00:00"
+  "LastUpdate_Ratings": "2023-08-11T19:58:02.7628601+00:00",
+  "LastUpdate_Achievements": "2023-08-11T20:06:13.1892659+00:00"
 }

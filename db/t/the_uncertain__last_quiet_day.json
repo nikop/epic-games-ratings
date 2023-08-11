@@ -4,8 +4,8 @@
   "ProductSlug": "the-uncertain-last-quiet-day",
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 70,
-  "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
     "PcReleaseDate": "2016-09-22T14:42:57+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 523,
+  "EOS_Progressed": 524,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.87,
+  "EOS_Completed_Percentage": 2.86,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:50.241177+00:00",
@@ -521,6 +521,11 @@
       "Time": "2023-08-10T19:03:53.5244924+00:00",
       "NumProgressed": 523,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-08-11T20:04:07.4450139+00:00",
+      "NumProgressed": 524,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 32,
@@ -572,7 +577,7 @@
       "Name": "Curious",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "EVERYBODY_LIES",
@@ -588,7 +593,7 @@
       "Name": "Every little helps",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "FOUND_IT",
@@ -596,7 +601,7 @@
       "Name": "Found it!",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "GOODY",
@@ -610,9 +615,9 @@
       "ID": "HACKER",
       "SetID": "2iigf77",
       "Name": "Hacker",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 105
+      "UsersEstimate": 100
     },
     {
       "ID": "HANDS_UP",
@@ -628,7 +633,7 @@
       "Name": "Trick or Treat?",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "HE_IS_JUST_A_CHILD",
@@ -636,7 +641,7 @@
       "Name": "He is just a child",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "HIPSTER",
@@ -644,15 +649,15 @@
       "Name": "Hipster",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "I_CAN_DO_A_THING_OR_TWO",
       "SetID": "2iigf77",
       "Name": "I can do a thing or two",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 319
+      "UsersEstimate": 314
     },
     {
       "ID": "LUCKY_DOG",
@@ -756,7 +761,7 @@
       "Name": "That\u0027s much better!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "THERE_IS_ANOTHER_WAY",
@@ -764,7 +769,7 @@
       "Name": "There is another way",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "UNCERTAIN",
@@ -787,7 +792,7 @@
     {
       "ID": "2iigf77",
       "IsBase": true,
-      "Progressed": 523,
+      "Progressed": 524,
       "Completed": 15
     }
   ],
@@ -795,8 +800,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-03-31T05:58:48.8443799+00:00",
-  "LastChanged_Achievements": "2023-08-11T19:04:08.0451204+00:00",
+  "LastChanged_Achievements": "2023-08-11T20:04:07.4450132+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:38.566313+00:00",
-  "LastUpdate_Ratings": "2023-08-11T19:00:27.6749476+00:00",
-  "LastUpdate_Achievements": "2023-08-11T19:04:08.045144+00:00"
+  "LastUpdate_Ratings": "2023-08-11T20:00:16.8450255+00:00",
+  "LastUpdate_Achievements": "2023-08-11T20:04:07.4450343+00:00"
 }

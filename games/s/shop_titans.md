@@ -43,6 +43,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cream of the Crop | 0.20% | ~269 |
 | Proud Paladin | 0.20% | ~269 |
 | Above the Norm | 0.20% | ~269 |
+| A Ronin Reborn | 0.20% | ~269 |
 | Tax not Included | 0.20% | ~269 |
 | The King's Caprice | 0.20% | ~269 |
 | Research & Development | 0.20% | ~269 |
@@ -76,6 +77,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Precision Engineering | 0.20% | ~269 |
 | Attrition Mission | 0.20% | ~269 |
 | Glittering Collection | 0.20% | ~269 |
+| Moment of Respite | 0.20% | ~269 |
 | Black Friday Special | 0.20% | ~269 |
 | King's Shadow | 0.20% | ~269 |
 | Magical Harmony | 0.20% | ~269 |
@@ -84,7 +86,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Complete Monopoly | 0.20% | ~269 |
 | Top of the World | 0.10% | ~134 |
 | Constellated | 0.10% | ~134 |
-| A Ronin Reborn | 0.10% | ~134 |
 | Thirst for Knowledge | 0.10% | ~134 |
 | Bane of Legends | 0.10% | ~134 |
 | Booty by the Boatload | 0.10% | ~134 |
@@ -112,7 +113,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~134 |
 | Treasure Trove | 0.10% | ~134 |
 | Marvels from the World Over | 0.10% | ~134 |
-| Moment of Respite | 0.10% | ~134 |
 | Cash Only Please | 0.10% | ~134 |
 | Master Recycler | 0.10% | ~134 |
 | All Accounted For | 0.10% | ~134 |

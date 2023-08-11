@@ -238,9 +238,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23903,
+  "EOS_Progressed": 23904,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4158,6 +4158,11 @@
       "Time": "2023-08-11T18:02:41.7887589+00:00",
       "NumProgressed": 23903,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-08-11T20:02:18.7479719+00:00",
+      "NumProgressed": 23904,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 32,
@@ -4185,7 +4190,7 @@
       "Name": "Mods Please Ban",
       "Percentage": 77,
       "XP": 60,
-      "UsersEstimate": 18405
+      "UsersEstimate": 18406
     },
     {
       "ID": "ACH_ALL_LUGLOXES",
@@ -4193,7 +4198,7 @@
       "Name": "Luglox Genocide",
       "Percentage": 43,
       "XP": 60,
-      "UsersEstimate": 10278
+      "UsersEstimate": 10279
     },
     {
       "ID": "ACH_APPLEBEES_BILL",
@@ -4233,7 +4238,7 @@
       "Name": "Bring A Knife to a Gun Fight",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 18166
+      "UsersEstimate": 18167
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -4273,7 +4278,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 19839
+      "UsersEstimate": 19840
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -4353,7 +4358,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 17449
+      "UsersEstimate": 17450
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -4385,7 +4390,7 @@
       "Name": "Seeing All The Sights",
       "Percentage": 16,
       "XP": 45,
-      "UsersEstimate": 3824
+      "UsersEstimate": 3825
     },
     {
       "ID": "ACH_NIPULON_JOKE",
@@ -4409,7 +4414,7 @@
       "Name": "Carried Stan\u0027s Load To Completion",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 3107
+      "UsersEstimate": 3108
     },
     {
       "ID": "ACH_SUITO_SUICIDE",
@@ -4424,22 +4429,22 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 23903,
+      "Progressed": 23904,
       "Completed": 12
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1196,
-      "Completed": 1196
+      "Progressed": 1197,
+      "Completed": 1197
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-08-01T02:03:53.4121642+00:00",
-  "LastChanged_Achievements": "2023-08-11T19:02:28.0933091+00:00",
+  "LastChanged_Achievements": "2023-08-11T20:02:18.7479711+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:45.9653672+00:00",
-  "LastUpdate_Ratings": "2023-08-11T18:59:30.170917+00:00",
-  "LastUpdate_Achievements": "2023-08-11T19:02:28.0933559+00:00"
+  "LastUpdate_Ratings": "2023-08-11T19:59:21.0323629+00:00",
+  "LastUpdate_Achievements": "2023-08-11T20:02:18.7480209+00:00"
 }

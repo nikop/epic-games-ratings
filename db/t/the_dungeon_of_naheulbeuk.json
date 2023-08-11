@@ -618,9 +618,9 @@
       "Count": 159
     }
   ],
-  "EOS_Progressed": 210431,
+  "EOS_Progressed": 210456,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4137,
+  "EOS_NewPlayers": 4122,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6528,6 +6528,11 @@
       "Time": "2023-08-11T19:04:37.1685339+00:00",
       "NumProgressed": 210431,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-11T20:04:31.4818523+00:00",
+      "NumProgressed": 210456,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 88,
@@ -6601,9 +6606,9 @@
       "ID": "Chapter3",
       "SetID": "50chcgj",
       "Name": "The plot thickens... At the tavern",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 210
+      "UsersEstimate": 421
     },
     {
       "ID": "Chapter4",
@@ -6937,9 +6942,9 @@
       "ID": "DwarfCover",
       "SetID": "50chcgj",
       "Name": "Where\u0027s that freaking Dwarf?",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 631
+      "UsersEstimate": 842
     },
     {
       "ID": "DwarfElf15Support",
@@ -6987,7 +6992,7 @@
       "Name": "Sowwy!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 14730
+      "UsersEstimate": 14732
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -7242,21 +7247,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 210431,
+      "Progressed": 210456,
       "Completed": 1
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 210431,
+      "Progressed": 210456,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-11T05:01:04.7286626+00:00",
-  "LastChanged_Achievements": "2023-08-11T19:04:37.1685332+00:00",
+  "LastChanged_Achievements": "2023-08-11T20:04:31.4818517+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:59.1388847+00:00",
-  "LastUpdate_Ratings": "2023-08-11T19:00:52.3190953+00:00",
-  "LastUpdate_Achievements": "2023-08-11T19:04:37.168663+00:00"
+  "LastUpdate_Ratings": "2023-08-11T20:00:37.1396153+00:00",
+  "LastUpdate_Achievements": "2023-08-11T20:04:31.4819569+00:00"
 }

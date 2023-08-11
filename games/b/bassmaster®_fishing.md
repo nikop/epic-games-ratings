@@ -1,7 +1,7 @@
 # Bassmaster® Fishing
 [Store](https://store.epicgames.com/en-US/p/bassmaster-fishing-2022-ec4015)  
 [View Rawdata](../../db/b/bassmaster®_fishing.json)  
-Rating: 4.26 (Ranked 813)  
+Rating: 4.28 (Ranked 797)  
 Number of Ratings: 30  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -26,3 +26,4 @@ Number of Ratings: 30  (23.09.2022)
 | 2023-03-31 | 4.33 | - | 0 | 0 |
 | 2023-04-23 | 4.34 | - | 0 | 0 |
 | 2023-05-30 | 4.26 | - | 0 | 0 |
+| 2023-08-11 | 4.28 | - | 0 | 0 |

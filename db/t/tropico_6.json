@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 279,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1032,9 +1032,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 4689,
+  "EOS_Progressed": 4690,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7887,6 +7887,11 @@
       "Time": "2023-08-11T19:07:24.3554952+00:00",
       "NumProgressed": 4689,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-11T20:07:09.3177425+00:00",
+      "NumProgressed": 4690,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -8018,7 +8023,7 @@
       "Name": "Number 18",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1125
+      "UsersEstimate": 1126
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -8058,7 +8063,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 3517
+      "UsersEstimate": 3518
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -8217,15 +8222,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 4689,
+      "Progressed": 4690,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-08-06T14:01:20.2065303+00:00",
-  "LastChanged_Achievements": "2023-08-11T19:07:24.3554929+00:00",
+  "LastChanged_Achievements": "2023-08-11T20:07:09.3177418+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:58:22.3291535+00:00",
-  "LastUpdate_Ratings": "2023-08-11T18:57:12.2681364+00:00",
-  "LastUpdate_Achievements": "2023-08-11T19:07:24.3555882+00:00"
+  "LastUpdate_Ratings": "2023-08-11T19:57:19.4645784+00:00",
+  "LastUpdate_Achievements": "2023-08-11T20:07:09.3177979+00:00"
 }

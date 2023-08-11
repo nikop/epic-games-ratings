@@ -6,16 +6,16 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,318 |
-| I'll Be Back | 85.00% | ~3,905 |
-| Sorry, I Dropped This | 77.00% | ~3,537 |
-| First Day on the Job | 77.00% | ~3,537 |
+| On My Own Two Feet | 94.00% | ~4,319 |
+| I'll Be Back | 85.00% | ~3,906 |
+| Sorry, I Dropped This | 77.00% | ~3,538 |
+| First Day on the Job | 77.00% | ~3,538 |
 | Butcher's Bill | 55.00% | ~2,527 |
 | P.A.X | 37.00% | ~1,700 |
 | Hey Listen | 37.00% | ~1,700 |
 | OPERATOR | 36.00% | ~1,654 |
 | It's Blue Light | 33.00% | ~1,516 |
-| Most Wanted | 26.00% | ~1,194 |
+| Most Wanted | 26.00% | ~1,195 |
 | Infidel | 23.00% | ~1,057 |
 | GOLIATH | 21.00% | ~965 |
 | Firebug | 20.00% | ~919 |
@@ -30,11 +30,11 @@ Number of Ratings: 62  (23.09.2022)
 | CREO Killed the Video Star | 11.00% | ~505 |
 | Who's in Charge Here? | 11.00% | ~505 |
 | Shall Not Pass | 11.00% | ~505 |
-| Right Tool for the Job | 10.00% | ~459 |
-| Melting Down | 9.00% | ~413 |
-| Raging Drones | 9.00% | ~413 |
-| Overconfident | 9.00% | ~413 |
-| Is This Real Life? | 9.00% | ~413 |
+| Right Tool for the Job | 10.00% | ~460 |
+| Melting Down | 9.00% | ~414 |
+| Raging Drones | 9.00% | ~414 |
+| Overconfident | 9.00% | ~414 |
+| Is This Real Life? | 9.00% | ~414 |
 | Pusher Man | 8.00% | ~368 |
 | Squad Chief Helvig | 8.00% | ~368 |
 | No More Marching | 8.00% | ~368 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~28 |
 | The Surge | 0.40% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,594 (Ranked 145)  
+Progressed: 4,595 (Ranked 145)  
 Completed: 16 (0.35%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,7 +171,7 @@ Completed: 16 (0.35%) (Ranked 157)
 | 2023-08-06 | 4,590 | 16 |
 | 2023-08-07 | 4,591 | 16 |
 | 2023-08-09 | 4,592 | 16 |
-| 2023-08-11 | 4,594 | 16 |
+| 2023-08-11 | 4,595 | 16 |
 ## Awards
 Max (Great Boss Battles): 28  (Ranked 466)  
 Sum: 28 (Ranked 478)  

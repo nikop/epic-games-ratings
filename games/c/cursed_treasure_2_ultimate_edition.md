@@ -22,8 +22,8 @@
 | Takeover | 70.00% | ~115 |
 | Woodcutter | 70.00% | ~115 |
 | Architect of Darkness | 70.00% | ~115 |
+| Top of the World | 69.00% | ~114 |
 | Sharpshooter | 69.00% | ~114 |
-| Top of the World | 68.00% | ~112 |
 | The Apotheosis of War | 68.00% | ~112 |
 | Stasis Alcatraz | 67.00% | ~111 |
 | Combo Breaker | 62.00% | ~102 |
