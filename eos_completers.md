@@ -3,8 +3,8 @@
 | 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.27% |
 | 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.84% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 37.50% |
-| 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
-| 5 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 29.41% |
+| 4 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.29% |
+| 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
 | 6 | [Overloop](games/o/overloop.md) | 25.00% |
 | 7 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 23.91% |
@@ -49,7 +49,7 @@
 | 47 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 5.00% |
 | 48 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.81% |
 | 49 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.78% |
-| 50 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
+| 50 | [Bugsnax](games/b/bugsnax.md) | 4.71% |
 | 51 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.69% |
 | 51 | [JARS](games/j/jars.md) | 4.69% |
 | 53 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.62% |
@@ -80,7 +80,7 @@
 | 78 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.56% |
 | 79 | [Lamentum](games/l/lamentum.md) | 2.54% |
 | 80 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 81 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 2.44% |
+| 81 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 2.38% |
 | 82 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.36% |
 | 83 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.34% |
 | 84 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.27% |
@@ -104,7 +104,7 @@
 | 102 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.46% |
 | 102 | [Ten Dates](games/t/ten_dates.md) | 1.46% |
 | 104 | [Poosh XL](games/p/poosh_xl.md) | 1.44% |
-| 105 | [Late Shift](games/l/late_shift.md) | 1.31% |
+| 105 | [Late Shift](games/l/late_shift.md) | 1.30% |
 | 106 | [Chorus](games/c/chorus.md) | 1.16% |
 | 107 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.12% |
 | 108 | [Trifox](games/t/trifox.md) | 1.11% |
