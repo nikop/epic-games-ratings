@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 36,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 62,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -6461,9 +6461,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 469783,
+  "EOS_Progressed": 469784,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 730,
+  "EOS_NewPlayers": 731,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18246,6 +18246,11 @@
       "Time": "2023-08-11T06:05:18.3483479+00:00",
       "NumProgressed": 469783,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-08-11T07:06:13.5289002+00:00",
+      "NumProgressed": 469784,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 98,
@@ -18401,7 +18406,7 @@
       "Name": "Beating Expectations",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70467
+      "UsersEstimate": 70468
     },
     {
       "ID": "achievement_big_win",
@@ -18417,7 +18422,7 @@
       "Name": "Splashing The Cash",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 98654
+      "UsersEstimate": 98655
     },
     {
       "ID": "achievement_childhood_dream",
@@ -18433,7 +18438,7 @@
       "Name": "Clean Bill of Health",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 98654
+      "UsersEstimate": 98655
     },
     {
       "ID": "achievement_clean_sheet",
@@ -18473,7 +18478,7 @@
       "Name": "Best In Europe",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 42280
+      "UsersEstimate": 42281
     },
     {
       "ID": "achievement_eyes_and_ears",
@@ -18505,7 +18510,7 @@
       "Name": "National Hero",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 14093
+      "UsersEstimate": 14094
     },
     {
       "ID": "achievement_get_into_hall_of_fame",
@@ -18521,7 +18526,7 @@
       "Name": "National Service",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 42280
+      "UsersEstimate": 42281
     },
     {
       "ID": "achievement_goal_of_the_month_award",
@@ -18545,7 +18550,7 @@
       "Name": "Attack!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 131539
+      "UsersEstimate": 131540
     },
     {
       "ID": "achievement_goal_scored_in_30_consecutive_matches",
@@ -18561,7 +18566,7 @@
       "Name": "Golden Boot",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 14093
+      "UsersEstimate": 14094
     },
     {
       "ID": "achievement_good_finance_control",
@@ -18593,7 +18598,7 @@
       "Name": "Headhunted",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 42280
+      "UsersEstimate": 42281
     },
     {
       "ID": "achievement_hes_a_natural",
@@ -18673,7 +18678,7 @@
       "Name": "Overachiever!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70467
+      "UsersEstimate": 70468
     },
     {
       "ID": "achievement_perfect_dressing_room_atmosphere",
@@ -18737,7 +18742,7 @@
       "Name": "International Superstar",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 42280
+      "UsersEstimate": 42281
     },
     {
       "ID": "achievement_reach_top_of_hall_of_fame",
@@ -18769,7 +18774,7 @@
       "Name": "Rushed signing",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 70467
+      "UsersEstimate": 70468
     },
     {
       "ID": "achievement_score_a_goal_in_10_consecutive_matches",
@@ -18849,7 +18854,7 @@
       "Name": "Domination",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 42280
+      "UsersEstimate": 42281
     },
     {
       "ID": "achievement_win_a_match_after_being_2_goals_behind_at_half_time",
@@ -18873,7 +18878,7 @@
       "Name": "Window Shopping",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 70467
+      "UsersEstimate": 70468
     },
     {
       "ID": "achievement_won_20_cup_competitions",
@@ -18881,7 +18886,7 @@
       "Name": "Trophy Hoarder",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 14093
+      "UsersEstimate": 14094
     },
     {
       "ID": "achievement_won_a_match",
@@ -18905,7 +18910,7 @@
       "Name": "Freedom Of The Country",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 14093
+      "UsersEstimate": 14094
     },
     {
       "ID": "achievement_won_promotion",
@@ -19040,15 +19045,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 469783,
+      "Progressed": 469784,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-08-11T02:09:45.089234+00:00",
-  "LastChanged_Achievements": "2023-08-11T06:05:18.3483473+00:00",
+  "LastChanged_Achievements": "2023-08-11T07:06:13.5288998+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:58:24.6594815+00:00",
-  "LastUpdate_Ratings": "2023-08-11T05:57:05.3912098+00:00",
-  "LastUpdate_Achievements": "2023-08-11T06:05:18.3484916+00:00"
+  "LastUpdate_Ratings": "2023-08-11T06:57:18.2897902+00:00",
+  "LastUpdate_Achievements": "2023-08-11T07:06:13.5290435+00:00"
 }

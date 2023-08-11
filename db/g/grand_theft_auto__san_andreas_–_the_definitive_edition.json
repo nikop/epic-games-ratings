@@ -676,9 +676,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 11927,
+  "EOS_Progressed": 11928,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 116,
+  "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -8761,6 +8761,11 @@
       "Time": "2023-08-10T22:03:54.109576+00:00",
       "NumProgressed": 11927,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-08-11T07:03:38.0124775+00:00",
+      "NumProgressed": 11928,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 35,
@@ -8772,7 +8777,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9661
+      "UsersEstimate": 9662
     },
     {
       "ID": "ACH02",
@@ -8852,7 +8857,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1073
+      "UsersEstimate": 1074
     },
     {
       "ID": "ACH12",
@@ -9051,7 +9056,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11927,
+      "Progressed": 11928,
       "Completed": 36
     }
   ],
@@ -9059,8 +9064,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-08-10T06:57:09.3203742+00:00",
-  "LastChanged_Achievements": "2023-08-11T06:02:30.9537578+00:00",
+  "LastChanged_Achievements": "2023-08-11T07:03:38.0124771+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:58:17.9546727+00:00",
-  "LastUpdate_Ratings": "2023-08-11T05:56:59.5532658+00:00",
-  "LastUpdate_Achievements": "2023-08-11T06:02:30.953812+00:00"
+  "LastUpdate_Ratings": "2023-08-11T06:57:11.8933755+00:00",
+  "LastUpdate_Achievements": "2023-08-11T07:03:38.0125355+00:00"
 }

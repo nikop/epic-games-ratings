@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 45,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 247879,
+  "EOS_Progressed": 247880,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 297,
+  "EOS_NewPlayers": 298,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10889,6 +10889,11 @@
       "Time": "2023-08-11T06:03:24.6592418+00:00",
       "NumProgressed": 247879,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-11T07:04:04.6852594+00:00",
+      "NumProgressed": 247880,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 46,
@@ -10956,7 +10961,7 @@
       "Name": "Can You Dig It?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 42139
+      "UsersEstimate": 42140
     },
     {
       "ID": "cantBeKeptDown",
@@ -11204,7 +11209,7 @@
       "Name": "The Stunner",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 54533
+      "UsersEstimate": 54534
     },
     {
       "ID": "thunderstruck",
@@ -11267,7 +11272,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 247879,
+      "Progressed": 247880,
       "Completed": 3
     }
   ],
@@ -11275,8 +11280,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-08-11T06:03:24.6592409+00:00",
+  "LastChanged_Achievements": "2023-08-11T07:04:04.685259+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:08.7397678+00:00",
-  "LastUpdate_Ratings": "2023-08-11T05:59:45.5872821+00:00",
-  "LastUpdate_Achievements": "2023-08-11T06:03:24.6593188+00:00"
+  "LastUpdate_Ratings": "2023-08-11T07:00:23.6667171+00:00",
+  "LastUpdate_Achievements": "2023-08-11T07:04:04.6853394+00:00"
 }

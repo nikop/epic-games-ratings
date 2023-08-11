@@ -2986,10 +2986,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 7388,
       "NumberOfAwardsMax": 919
+    },
+    {
+      "Time": "2023-08-11T06:59:18.1959095+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7390,
+      "NumberOfAwardsMax": 919
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7388,
+  "NumberOfAwards": 7390,
   "NumberOfAwardsMax": 919,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3027,7 +3033,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 779
+      "Count": 781
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3060,9 +3066,9 @@
       "Count": 490
     }
   ],
-  "EOS_Progressed": 8485,
+  "EOS_Progressed": 8487,
   "EOS_Completed": 192,
-  "EOS_NewPlayers": 298,
+  "EOS_NewPlayers": 299,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 2.26,
   "EosHistory": [
@@ -9160,6 +9166,11 @@
       "Time": "2023-08-11T05:04:00.4107427+00:00",
       "NumProgressed": 8485,
       "NumCompleted": 192
+    },
+    {
+      "Time": "2023-08-11T07:03:51.1918849+00:00",
+      "NumProgressed": 8487,
+      "NumCompleted": 192
     }
   ],
   "TotalAchievements": 15,
@@ -9179,7 +9190,7 @@
       "Name": "Banker",
       "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 3394
+      "UsersEstimate": 3395
     },
     {
       "ID": "Bestest_Friend",
@@ -9187,7 +9198,7 @@
       "Name": "Bestest Friend",
       "Percentage": 48,
       "XP": 75,
-      "UsersEstimate": 4073
+      "UsersEstimate": 4074
     },
     {
       "ID": "Chef_Cook",
@@ -9195,7 +9206,7 @@
       "Name": "Chef Cook",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 1527
+      "UsersEstimate": 1528
     },
     {
       "ID": "Chit_Chatter",
@@ -9211,7 +9222,7 @@
       "Name": "Constructor",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 4497
+      "UsersEstimate": 4498
     },
     {
       "ID": "Duty_Bound",
@@ -9227,15 +9238,15 @@
       "Name": "Gardener",
       "Percentage": 32,
       "XP": 75,
-      "UsersEstimate": 2715
+      "UsersEstimate": 2716
     },
     {
       "ID": "Generous",
       "SetID": "chapdi4",
       "Name": "Generous",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 2036
+      "UsersEstimate": 1952
     },
     {
       "ID": "Goofys_Investor",
@@ -9243,7 +9254,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 72,
       "XP": 75,
-      "UsersEstimate": 6109
+      "UsersEstimate": 6111
     },
     {
       "ID": "Miner",
@@ -9259,7 +9270,7 @@
       "Name": "Photographer",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 5855
+      "UsersEstimate": 5856
     },
     {
       "ID": "Renovator",
@@ -9267,7 +9278,7 @@
       "Name": "Renovator",
       "Percentage": 52,
       "XP": 100,
-      "UsersEstimate": 4412
+      "UsersEstimate": 4413
     },
     {
       "ID": "Thorn_Cleaner",
@@ -9283,23 +9294,23 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 5430
+      "UsersEstimate": 5432
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 8485,
+      "Progressed": 8487,
       "Completed": 192
     }
   ],
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
-  "LastChanged": "2023-08-10T22:59:44.6263656+00:00",
-  "LastChanged_Achievements": "2023-08-11T06:03:12.9661709+00:00",
+  "LastChanged": "2023-08-11T06:59:18.1959094+00:00",
+  "LastChanged_Achievements": "2023-08-11T07:03:51.1918846+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:58.5124398+00:00",
-  "LastUpdate_Ratings": "2023-08-11T05:58:49.6889439+00:00",
-  "LastUpdate_Achievements": "2023-08-11T06:03:12.9662084+00:00"
+  "LastUpdate_Ratings": "2023-08-11T06:59:18.1959098+00:00",
+  "LastUpdate_Achievements": "2023-08-11T07:03:51.1919213+00:00"
 }

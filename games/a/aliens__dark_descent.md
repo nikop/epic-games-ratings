@@ -6,8 +6,8 @@ Rating: 4.45 (Ranked 631)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | This Is Hayes, Pioneer Station, Signing Off | 82.00% | ~2,569 |
+| Snatched Out | 75.00% | ~2,350 |
 | Keep 'Em Coming | 74.00% | ~2,318 |
-| Snatched Out | 74.00% | ~2,318 |
 | Cleaning Lethe, One Nest At A Time | 67.00% | ~2,099 |
 | Call Me Snake | 62.00% | ~1,942 |
 | Something Lurks Under The Hills | 60.00% | ~1,880 |

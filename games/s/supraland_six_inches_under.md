@@ -20,7 +20,7 @@ Number of Ratings: 209  (23.09.2022)
 | Revenge | 93.00% | ~2,039 |
 | Surprise | 93.00% | ~2,039 |
 | Magnet | 91.00% | ~1,995 |
-| Industrial Area | 89.00% | ~1,951 |
+| Industrial Area | 90.00% | ~1,973 |
 | Magnet Repel | 88.00% | ~1,929 |
 | You feel middle classy | 87.00% | ~1,907 |
 | Boomeraxe | 87.00% | ~1,907 |
@@ -46,7 +46,7 @@ Number of Ratings: 209  (23.09.2022)
 | Played with fire | 70.00% | ~1,534 |
 | You feel very sorry | 70.00% | ~1,534 |
 | No Match for you | 65.00% | ~1,425 |
-| Bouncy | 61.00% | ~1,337 |
+| Bouncy | 62.00% | ~1,359 |
 | Plumbster | 61.00% | ~1,337 |
 | Faster | 60.00% | ~1,315 |
 | Much Magic | 58.00% | ~1,271 |

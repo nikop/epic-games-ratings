@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-08-04T16:00:00+00:00",
     "PcReleaseDate": "2022-09-21T16:00:00+00:00",
@@ -681,9 +681,9 @@
       "ID": "ACH_FIRST_SHOCK",
       "SetID": "al4k4nh",
       "Name": "First shock",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 115
     },
     {
       "ID": "ACH_FIX_LIGHT_SWITCHES",
@@ -816,8 +816,8 @@
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2023-08-11T06:05:24.4875673+00:00",
+  "LastChanged_Achievements": "2023-08-11T07:06:20.6797626+00:00",
   "LastUpdate_AppInfo": "2023-08-09T17:56:58.4992812+00:00",
-  "LastUpdate_Ratings": "2023-08-11T05:57:57.5425424+00:00",
-  "LastUpdate_Achievements": "2023-08-11T06:05:24.4875857+00:00"
+  "LastUpdate_Ratings": "2023-08-11T06:58:16.5377608+00:00",
+  "LastUpdate_Achievements": "2023-08-11T07:06:20.6797811+00:00"
 }

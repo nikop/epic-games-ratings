@@ -1,33 +1,33 @@
 # Salt and Sanctuary
 [Store](https://store.epicgames.com/en-US/p/salt-and-sanctuary)  
 [View Rawdata](../../db/s/salt_and_sanctuary.json)  
-Rating: 4.61 (Ranked 366)  
+Rating: 4.61 (Ranked 367)  
 Number of Ratings: 3,114  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~440,029 |
-| The Three | 64.00% | ~339,299 |
-| The Banquet | 40.00% | ~212,062 |
-| Devara's Light | 30.00% | ~159,046 |
-| The Iron Ones | 18.00% | ~95,428 |
-| The Village | 16.00% | ~84,825 |
-| The Forest | 14.00% | ~74,222 |
-| Branded | 13.00% | ~68,920 |
-| The Imposter | 13.00% | ~68,920 |
-| The Keep | 13.00% | ~68,920 |
-| The Castle | 11.00% | ~58,317 |
+| Find Sanctuary | 83.00% | ~440,034 |
+| The Three | 64.00% | ~339,303 |
+| The Banquet | 40.00% | ~212,064 |
+| Devara's Light | 30.00% | ~159,048 |
+| The Iron Ones | 18.00% | ~95,429 |
+| The Village | 16.00% | ~84,826 |
+| The Forest | 14.00% | ~74,223 |
+| Branded | 13.00% | ~68,921 |
+| The Imposter | 13.00% | ~68,921 |
+| The Keep | 13.00% | ~68,921 |
+| The Castle | 11.00% | ~58,318 |
 | The Dome | 9.00% | ~47,714 |
 | The Red Hall | 9.00% | ~47,714 |
-| The Sacrifice | 8.00% | ~42,412 |
+| The Sacrifice | 8.00% | ~42,413 |
 | The Cave | 7.00% | ~37,111 |
 | The Mire | 7.00% | ~37,111 |
 | The Stone Roots | 7.00% | ~37,111 |
 | The Ziggurat | 7.00% | ~37,111 |
-| Storied | 6.00% | ~31,809 |
-| The Construct | 6.00% | ~31,809 |
-| The Lake | 6.00% | ~31,809 |
-| The Ruins | 6.00% | ~31,809 |
+| Storied | 6.00% | ~31,810 |
+| The Construct | 6.00% | ~31,810 |
+| The Lake | 6.00% | ~31,810 |
+| The Ruins | 6.00% | ~31,810 |
 | The Alkymancery | 5.00% | ~26,508 |
 | The Pitchwoods | 5.00% | ~26,508 |
 | Honed | 4.00% | ~21,206 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,603 |
 | Fading Fast | 1.00% | ~5,302 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 530,155 (Ranked 29)  
+Progressed: 530,161 (Ranked 29)  
 Completed: 1,504 (0.28%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,7 +157,7 @@ Completed: 1,504 (0.28%) (Ranked 165)
 | 2023-08-08 | 529,973 | 1,502 |
 | 2023-08-09 | 530,040 | 1,504 |
 | 2023-08-10 | 530,127 | 1,504 |
-| 2023-08-11 | 530,155 | 1,504 |
+| 2023-08-11 | 530,161 | 1,504 |
 ## Awards
 Max (Challenging Combat): 277  (Ranked 243)  
 Sum: 1,925 (Ranked 201)  

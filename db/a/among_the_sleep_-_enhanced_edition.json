@@ -443,9 +443,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 81915,
+  "EOS_Progressed": 81923,
   "EOS_Completed": 384,
-  "EOS_NewPlayers": 821,
+  "EOS_NewPlayers": 826,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -12633,6 +12633,11 @@
       "Time": "2023-08-11T06:04:58.6326058+00:00",
       "NumProgressed": 81915,
       "NumCompleted": 384
+    },
+    {
+      "Time": "2023-08-11T07:05:51.2520017+00:00",
+      "NumProgressed": 81923,
+      "NumCompleted": 384
     }
   ],
   "TotalAchievements": 10,
@@ -12692,7 +12697,7 @@
       "Name": "Prologue Drawings",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "GameCompleted",
@@ -12708,7 +12713,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 28670
+      "UsersEstimate": 28673
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -12716,22 +12721,22 @@
       "Name": "Bad Lullaby",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 9011
+      "UsersEstimate": 9012
     }
   ],
   "AchievementSets": [
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 81915,
+      "Progressed": 81923,
       "Completed": 384
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-03-31T05:57:32.2303432+00:00",
-  "LastChanged_Achievements": "2023-08-11T06:04:58.6326053+00:00",
+  "LastChanged_Achievements": "2023-08-11T07:05:51.2520013+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:14.3061933+00:00",
-  "LastUpdate_Ratings": "2023-08-11T05:57:10.0198974+00:00",
-  "LastUpdate_Achievements": "2023-08-11T06:04:58.6326704+00:00"
+  "LastUpdate_Ratings": "2023-08-11T06:57:24.5235414+00:00",
+  "LastUpdate_Achievements": "2023-08-11T07:05:51.2520666+00:00"
 }

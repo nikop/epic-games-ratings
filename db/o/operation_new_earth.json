@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 856,
+  "EOS_Progressed": 857,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3026,6 +3026,11 @@
       "Time": "2023-08-10T23:07:19.4683914+00:00",
       "NumProgressed": 856,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-11T07:06:41.6390605+00:00",
+      "NumProgressed": 857,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -3101,7 +3106,7 @@
       "Name": "Silver Competitor",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ach_silver_rewards_50",
@@ -3221,7 +3226,7 @@
       "Name": "Covert Operative",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -3340,14 +3345,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 856,
+      "Progressed": 857,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-11T06:05:43.0847976+00:00",
+  "LastChanged_Achievements": "2023-08-11T07:06:41.63906+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:21.6461868+00:00",
-  "LastUpdate_Ratings": "2023-08-11T05:57:16.8964787+00:00",
-  "LastUpdate_Achievements": "2023-08-11T06:05:43.0848351+00:00"
+  "LastUpdate_Ratings": "2023-08-11T06:57:32.4012833+00:00",
+  "LastUpdate_Achievements": "2023-08-11T07:06:41.6390976+00:00"
 }

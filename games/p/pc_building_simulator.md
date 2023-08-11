@@ -6,24 +6,24 @@ Number of Ratings: 12,155  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,736,891 |
-| Easy to forget | 46.00% | ~1,630,551 |
-| Back in the black | 39.00% | ~1,382,424 |
-| That's what I'm talking about | 28.00% | ~992,509 |
-| The Best of Both Worlds | 25.00% | ~886,169 |
-| Get your wings | 20.00% | ~708,935 |
-| Double trouble | 15.00% | ~531,701 |
-| Smashing it | 10.00% | ~354,468 |
-| But can it run Crysis? | 9.00% | ~319,021 |
-| My favourite feature... | 9.00% | ~319,021 |
-| From humble beginnings... | 7.00% | ~248,127 |
-| Customer satisfaction | 7.00% | ~248,127 |
-| Keeping things neat | 4.00% | ~141,787 |
-| Seems you're pretty good at this | 4.00% | ~141,787 |
-| Bending over backwards | 4.00% | ~141,787 |
-| Triple threat | 3.00% | ~106,340 |
-| You rock at this! | 3.00% | ~106,340 |
-| Your music sucks | 3.00% | ~106,340 |
+| You need to plug it in... | 49.00% | ~1,736,898 |
+| Easy to forget | 46.00% | ~1,630,557 |
+| Back in the black | 39.00% | ~1,382,429 |
+| That's what I'm talking about | 28.00% | ~992,513 |
+| The Best of Both Worlds | 25.00% | ~886,172 |
+| Get your wings | 20.00% | ~708,938 |
+| Double trouble | 15.00% | ~531,703 |
+| Smashing it | 10.00% | ~354,469 |
+| But can it run Crysis? | 9.00% | ~319,022 |
+| My favourite feature... | 9.00% | ~319,022 |
+| From humble beginnings... | 7.00% | ~248,128 |
+| Customer satisfaction | 7.00% | ~248,128 |
+| Keeping things neat | 4.00% | ~141,788 |
+| Seems you're pretty good at this | 4.00% | ~141,788 |
+| Bending over backwards | 4.00% | ~141,788 |
+| Triple threat | 3.00% | ~106,341 |
+| You rock at this! | 3.00% | ~106,341 |
+| Your music sucks | 3.00% | ~106,341 |
 | I'm broke, Uncle! | 2.00% | ~70,894 |
 | Maybe you should try something else? | 2.00% | ~70,894 |
 | Taking care of business | 2.00% | ~70,894 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,545 |
 | Treat yourself - GPU | 0.10% | ~3,545 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,544,676 (Ranked 5)  
+Progressed: 3,544,689 (Ranked 5)  
 Completed: 32 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,7 +172,7 @@ Completed: 32 (0.00%) (Ranked 251)
 | 2023-08-08 | 3,543,851 | 32 |
 | 2023-08-09 | 3,544,201 | 32 |
 | 2023-08-10 | 3,544,581 | 32 |
-| 2023-08-11 | 3,544,676 | 32 |
+| 2023-08-11 | 3,544,689 | 32 |
 ## Awards
 Max (Great for Beginners): 1,057  (Ranked 139)  
 Sum: 7,930 (Ranked 100)  

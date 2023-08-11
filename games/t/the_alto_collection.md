@@ -38,7 +38,7 @@ Number of Ratings: 332  (23.09.2022)
 | Daredevil | 0.90% | ~314 |
 | Unlock Felipe | 0.80% | ~279 |
 | Adventurer | 0.70% | ~244 |
-| Unlock Tupa | 0.50% | ~174 |
+| Unlock Tupa | 0.50% | ~175 |
 | Master Of The Sands | 0.30% | ~105 |
 | Master | 0.20% | ~70 |
 | Life Aquatic | 0.10% | ~35 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~35 |
 | Windswept | 0.10% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 34,899 (Ranked 96)  
+Progressed: 34,901 (Ranked 96)  
 Completed: 5 (0.01%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,7 +159,7 @@ Completed: 5 (0.01%) (Ranked 238)
 | 2023-08-08 | 34,612 | 5 |
 | 2023-08-09 | 34,739 | 5 |
 | 2023-08-10 | 34,864 | 5 |
-| 2023-08-11 | 34,899 | 5 |
+| 2023-08-11 | 34,901 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 46  (Ranked 410)  
 Sum: 359 (Ranked 327)  
