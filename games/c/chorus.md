@@ -1,7 +1,7 @@
 # Chorus
 [Store](https://store.epicgames.com/en-US/p/chorus)  
 [View Rawdata](../../db/c/chorus.json)  
-Rating: 4.45 (Ranked 631)  
+Rating: 4.45 (Ranked 632)  
 Number of Ratings: 58  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -32,7 +32,7 @@ Number of Ratings: 58  (23.09.2022)
 | In the Eye of the Storm | 37.00% | ~415 |
 | The Crimson Void | 34.00% | ~381 |
 | The Nameless Dread | 34.00% | ~381 |
-| Time to Spear | 30.00% | ~337 |
+| Time to Spear | 31.00% | ~348 |
 | Disciple | 30.00% | ~337 |
 | Mastery of Weapons | 29.00% | ~325 |
 | Ghosts | 25.00% | ~280 |

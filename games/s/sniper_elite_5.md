@@ -55,7 +55,7 @@ Rating: 4.44 (Ranked 643)
 | Souvenir hunter | 0.60% | ~21 |
 | Eagle Eyed | 0.60% | ~21 |
 | Locomotion Commotion | 0.60% | ~21 |
-| Shoot for the Moon | 0.50% | ~17 |
+| Shoot for the Moon | 0.60% | ~21 |
 | If You Go Down To The Woods Today | 0.50% | ~17 |
 | Fight Another Day | 0.50% | ~17 |
 | Up close and personal | 0.40% | ~14 |

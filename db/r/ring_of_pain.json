@@ -2641,9 +2641,9 @@
       "Count": 731
     }
   ],
-  "EOS_Progressed": 234160,
+  "EOS_Progressed": 234161,
   "EOS_Completed": 259,
-  "EOS_NewPlayers": 390,
+  "EOS_NewPlayers": 389,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -14101,6 +14101,11 @@
       "Time": "2023-08-11T22:06:16.9939441+00:00",
       "NumProgressed": 234160,
       "NumCompleted": 259
+    },
+    {
+      "Time": "2023-08-11T23:08:00.1529817+00:00",
+      "NumProgressed": 234161,
+      "NumCompleted": 259
     }
   ],
   "TotalAchievements": 122,
@@ -14144,7 +14149,7 @@
       "Name": "First Steps",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 224794
+      "UsersEstimate": 224795
     },
     {
       "ID": "CURSE1HP",
@@ -14208,7 +14213,7 @@
       "Name": "Delving Deeper",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 98347
+      "UsersEstimate": 98348
     },
     {
       "ID": "DEPTH12HARD",
@@ -14232,7 +14237,7 @@
       "Name": "Getting A Glimpse",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 170937
+      "UsersEstimate": 170938
     },
     {
       "ID": "DEPTH6NOPOTIONS",
@@ -14328,7 +14333,7 @@
       "Name": "Who To Trust?",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 74931
+      "UsersEstimate": 74932
     },
     {
       "ID": "ENDWOUNDED",
@@ -14376,7 +14381,7 @@
       "Name": "Cold Hearted",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 79614
+      "UsersEstimate": 79615
     },
     {
       "ID": "FULLINVENTORY",
@@ -14600,7 +14605,7 @@
       "Name": "Goodbye, Frog Friend",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 126446
+      "UsersEstimate": 126447
     },
     {
       "ID": "KILLNICEDOG",
@@ -14624,7 +14629,7 @@
       "Name": "Stop Hitting Yourself",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 44490
+      "UsersEstimate": 44491
     },
     {
       "ID": "KILLSAMSPAREOTHERS",
@@ -14712,7 +14717,7 @@
       "Name": "C-C-Combo",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 98347
+      "UsersEstimate": 98348
     },
     {
       "ID": "NOEPIC",
@@ -14760,7 +14765,7 @@
       "Name": "A Quick Escape",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 152204
+      "UsersEstimate": 152205
     },
     {
       "ID": "PETRIFY50",
@@ -14856,7 +14861,7 @@
       "Name": "Uncharted Territory",
       "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 208402
+      "UsersEstimate": 208403
     },
     {
       "ID": "SPECIALROOMS10",
@@ -14864,7 +14869,7 @@
       "Name": "Explorer",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 145179
+      "UsersEstimate": 145180
     },
     {
       "ID": "SPEEDRUN10",
@@ -14896,7 +14901,7 @@
       "Name": "Flesh Wound",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 67906
+      "UsersEstimate": 67907
     },
     {
       "ID": "TELEPORTKNOCKBACKEXPLOSIVE50",
@@ -14936,7 +14941,7 @@
       "Name": "The Long Run",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 32782
+      "UsersEstimate": 32783
     },
     {
       "ID": "WIN0ATTACK",
@@ -15087,7 +15092,7 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 234160,
+      "Progressed": 234161,
       "Completed": 259
     }
   ],
@@ -15095,8 +15100,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-08-11T15:01:22.7904949+00:00",
-  "LastChanged_Achievements": "2023-08-11T22:06:16.9939439+00:00",
+  "LastChanged_Achievements": "2023-08-11T23:08:00.1529657+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:24.4537188+00:00",
-  "LastUpdate_Ratings": "2023-08-11T22:01:10.1170456+00:00",
-  "LastUpdate_Achievements": "2023-08-11T22:06:16.9941883+00:00"
+  "LastUpdate_Ratings": "2023-08-11T23:02:40.6698032+00:00",
+  "LastUpdate_Achievements": "2023-08-11T23:08:00.1532584+00:00"
 }

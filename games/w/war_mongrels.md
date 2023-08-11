@@ -35,13 +35,13 @@ Number of Ratings: 34  (23.09.2022)
 | Collectibles of Chapter III | 15.00% | ~69 |
 | Collectibles of Chapter IV | 15.00% | ~69 |
 | Helping Hand | 15.00% | ~69 |
-| Without a Second Thought | 14.00% | ~64 |
+| Without a Second Thought | 15.00% | ~69 |
 | Collectibles of Chapter V | 10.00% | ~46 |
 | Such is War! | 8.00% | ~37 |
 | Tiptoe Around | 8.00% | ~37 |
+| Collectibles of Chapter XII | 7.00% | ~32 |
 | Piece of Cake | 7.00% | ~32 |
 | Collectibles of Chapter VII | 6.00% | ~27 |
-| Collectibles of Chapter XII | 6.00% | ~27 |
 | Collectibles of Chapter VIII | 5.00% | ~23 |
 | It Will Rain | 5.00% | ~23 |
 | Not Spill a Drop | 5.00% | ~23 |

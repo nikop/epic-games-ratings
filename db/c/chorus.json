@@ -2,7 +2,7 @@
   "ID": "4930dde6add240a9bfc7ddc415dc2799",
   "Name": "Chorus",
   "ProductSlug": "chorus",
-  "Ranking_Rating": 631,
+  "Ranking_Rating": 632,
   "Ranking_Popularity": 452,
   "Ranking_PopularitySum": 472,
   "Ranking_EOS_Progress": 190,
@@ -1795,9 +1795,9 @@
       "ID": "MissionDreamsOfThePast",
       "SetID": "a6c395p",
       "Name": "Time to Spear",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 337
+      "UsersEstimate": 348
     },
     {
       "ID": "MissionEnclaveWarPreparation",
@@ -2011,8 +2011,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-07-09T07:00:38.7677324+00:00",
-  "LastChanged_Achievements": "2023-08-11T22:05:46.3430336+00:00",
+  "LastChanged_Achievements": "2023-08-11T23:07:16.4809874+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:58:02.342624+00:00",
-  "LastUpdate_Ratings": "2023-08-11T22:01:50.0368338+00:00",
-  "LastUpdate_Achievements": "2023-08-11T22:05:46.3430771+00:00"
+  "LastUpdate_Ratings": "2023-08-11T23:03:35.2434464+00:00",
+  "LastUpdate_Achievements": "2023-08-11T23:07:16.481051+00:00"
 }

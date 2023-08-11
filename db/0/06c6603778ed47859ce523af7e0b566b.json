@@ -2,9 +2,9 @@
   "ID": "06c6603778ed47859ce523af7e0b566b",
   "Name": "Skye Tales",
   "ProductSlug": "skye-tales-02bf5b",
-  "Ranking_EOS_Progress": 469,
+  "Ranking_EOS_Progress": 463,
   "Ranking_EOS_Completed": 253,
-  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -19,15 +19,20 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3,
+  "EOS_Progressed": 4,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2023-08-09T15:04:28.3852646+00:00",
       "NumProgressed": 3,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-11T23:05:36.0146403+00:00",
+      "NumProgressed": 4,
       "NumCompleted": 0
     }
   ],
@@ -39,7 +44,7 @@
       "ID": "All Aboard!",
       "SetID": "dene75h",
       "Name": "All Aboard!",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -55,7 +60,7 @@
       "ID": "Allergies?",
       "SetID": "dene75h",
       "Name": "Allergies?",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -63,7 +68,7 @@
       "ID": "Backup Band",
       "SetID": "dene75h",
       "Name": "Backup Band",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -71,7 +76,7 @@
       "ID": "Beach Day",
       "SetID": "dene75h",
       "Name": "Beach Day",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -79,7 +84,7 @@
       "ID": "Beat our QA",
       "SetID": "dene75h",
       "Name": "Beat our QA",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -87,7 +92,7 @@
       "ID": "Beat our QA again",
       "SetID": "dene75h",
       "Name": "Beat our QA again",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -95,7 +100,7 @@
       "ID": "Buckets and Bouquets",
       "SetID": "dene75h",
       "Name": "Buckets and Bouquets",
-      "Percentage": 67,
+      "Percentage": 50,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -103,7 +108,7 @@
       "ID": "Concerted Effort",
       "SetID": "dene75h",
       "Name": "Concerted Effort",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -111,7 +116,7 @@
       "ID": "Counting Stars",
       "SetID": "dene75h",
       "Name": "Counting Stars",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -119,7 +124,7 @@
       "ID": "DOOT!",
       "SetID": "dene75h",
       "Name": "DOOT!",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -127,7 +132,7 @@
       "ID": "Dancing in the Desert",
       "SetID": "dene75h",
       "Name": "Dancing in the Desert",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -135,7 +140,7 @@
       "ID": "Drag Queen",
       "SetID": "dene75h",
       "Name": "Drag Queen",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -143,7 +148,7 @@
       "ID": "Dragon Fashionista",
       "SetID": "dene75h",
       "Name": "Dragon Fashionista",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -151,7 +156,7 @@
       "ID": "Finest Silks",
       "SetID": "dene75h",
       "Name": "Finest Silks",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -159,7 +164,7 @@
       "ID": "Fruit Salad",
       "SetID": "dene75h",
       "Name": "Fruit Salad",
-      "Percentage": 67,
+      "Percentage": 50,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -167,7 +172,7 @@
       "ID": "Grand Circus",
       "SetID": "dene75h",
       "Name": "Grand Circus",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -175,7 +180,7 @@
       "ID": "Gummed Up",
       "SetID": "dene75h",
       "Name": "Gummed Up",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -183,7 +188,7 @@
       "ID": "Gumshoe",
       "SetID": "dene75h",
       "Name": "Gumshoe",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -199,7 +204,7 @@
       "ID": "Hoppy Lil\u0027 Guys",
       "SetID": "dene75h",
       "Name": "Hoppy Lil\u0027 Guys",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -215,7 +220,7 @@
       "ID": "Light Work",
       "SetID": "dene75h",
       "Name": "Light Work",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -223,7 +228,7 @@
       "ID": "Locksmith",
       "SetID": "dene75h",
       "Name": "Locksmith",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -231,7 +236,7 @@
       "ID": "Lost Sailors",
       "SetID": "dene75h",
       "Name": "Lost Sailors",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -239,7 +244,7 @@
       "ID": "Music Maestro",
       "SetID": "dene75h",
       "Name": "Music Maestro",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -247,7 +252,7 @@
       "ID": "One Dragon Band",
       "SetID": "dene75h",
       "Name": "One Dragon Band",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -255,7 +260,7 @@
       "ID": "Perfect Recall",
       "SetID": "dene75h",
       "Name": "Perfect Recall",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -263,7 +268,7 @@
       "ID": "Pine time!",
       "SetID": "dene75h",
       "Name": "Pine time!",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -271,7 +276,7 @@
       "ID": "Prickly Little Friends",
       "SetID": "dene75h",
       "Name": "Prickly Little Friends",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -279,7 +284,7 @@
       "ID": "Reef Rescue",
       "SetID": "dene75h",
       "Name": "Reef Rescue",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -287,7 +292,7 @@
       "ID": "Rockstar",
       "SetID": "dene75h",
       "Name": "Rockstar",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -295,7 +300,7 @@
       "ID": "Sail Away",
       "SetID": "dene75h",
       "Name": "Sail Away",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -303,7 +308,7 @@
       "ID": "Sh, Sh, Shake It!",
       "SetID": "dene75h",
       "Name": "Sh, Sh, Shake It!",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -311,7 +316,7 @@
       "ID": "Sharp Dressed Dragon",
       "SetID": "dene75h",
       "Name": "Sharp Dressed Dragon",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -319,7 +324,7 @@
       "ID": "She Shells Sea Sells",
       "SetID": "dene75h",
       "Name": "She Shells Sea Sells",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -327,7 +332,7 @@
       "ID": "Speed Is Key!",
       "SetID": "dene75h",
       "Name": "Speed Is Key!",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -335,7 +340,7 @@
       "ID": "Squirrelly",
       "SetID": "dene75h",
       "Name": "Squirrelly",
-      "Percentage": 67,
+      "Percentage": 50,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -343,7 +348,7 @@
       "ID": "Sweeter Shooter",
       "SetID": "dene75h",
       "Name": "Sweeter Shooter",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -351,7 +356,7 @@
       "ID": "Travel in Style",
       "SetID": "dene75h",
       "Name": "Travel in Style",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -359,7 +364,7 @@
       "ID": "WHY?",
       "SetID": "dene75h",
       "Name": "WHY?",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 50,
       "UsersEstimate": 1
     }
@@ -368,13 +373,13 @@
     {
       "ID": "dene75h",
       "IsBase": true,
-      "Progressed": 3,
+      "Progressed": 4,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-07-21T10:01:39.9967766+00:00",
-  "LastChanged_Achievements": "2023-08-11T22:04:16.6850676+00:00",
+  "LastChanged_Achievements": "2023-08-11T23:05:36.0146396+00:00",
   "LastUpdate_AppInfo": "2023-08-11T13:00:04.7323394+00:00",
-  "LastUpdate_Ratings": "2023-08-11T21:57:50.3070128+00:00",
-  "LastUpdate_Achievements": "2023-08-11T22:04:16.685103+00:00"
+  "LastUpdate_Ratings": "2023-08-11T22:58:17.1274679+00:00",
+  "LastUpdate_Achievements": "2023-08-11T23:05:36.0146801+00:00"
 }

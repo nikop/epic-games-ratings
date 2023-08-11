@@ -4,7 +4,7 @@
   "ProductSlug": "perish-390141",
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 253,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-02-02T14:00:00+00:00",
@@ -2633,17 +2633,17 @@
       "ID": "ACH_M_D1",
       "SetID": "b3fep3o",
       "Name": "Modest Earnings",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 167
     },
     {
       "ID": "ACH_M_D2",
       "SetID": "b3fep3o",
       "Name": "War Chest",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 134
     },
     {
       "ID": "ACH_M_D3",
@@ -3010,8 +3010,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-08-11T22:05:20.5522669+00:00",
+  "LastChanged_Achievements": "2023-08-11T23:06:40.2130897+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:39.3691778+00:00",
-  "LastUpdate_Ratings": "2023-08-11T22:01:25.4003596+00:00",
-  "LastUpdate_Achievements": "2023-08-11T22:05:20.5523445+00:00"
+  "LastUpdate_Ratings": "2023-08-11T23:02:58.8772561+00:00",
+  "LastUpdate_Achievements": "2023-08-11T23:06:40.2132385+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 39,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2021-09-21T04:00:00+00:00",
     "PcReleaseDate": "2021-09-21T04:00:00+00:00",
@@ -1256,7 +1256,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 427336,
+  "EOS_Progressed": 427337,
   "EOS_Completed": 525,
   "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 1,
@@ -9201,6 +9201,11 @@
       "Time": "2023-08-11T18:04:06.7122469+00:00",
       "NumProgressed": 427336,
       "NumCompleted": 525
+    },
+    {
+      "Time": "2023-08-11T23:05:02.5904508+00:00",
+      "NumProgressed": 427337,
+      "NumCompleted": 525
     }
   ],
   "TotalAchievements": 41,
@@ -9212,7 +9217,7 @@
       "Name": "Skillful Spirit Guide",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 64100
+      "UsersEstimate": 64101
     },
     {
       "ID": "ACH_ABILITY_BOMB",
@@ -9236,7 +9241,7 @@
       "Name": "Crossing Over",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 123927
+      "UsersEstimate": 123928
     },
     {
       "ID": "ACH_BOSS_ROT_GOD",
@@ -9252,7 +9257,7 @@
       "Name": "Spirit Guide",
       "Percentage": 42,
       "XP": 60,
-      "UsersEstimate": 179481
+      "UsersEstimate": 179482
     },
     {
       "ID": "ACH_BOSS_TOSHI",
@@ -9260,7 +9265,7 @@
       "Name": "A Leader Walks Alone",
       "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 111107
+      "UsersEstimate": 111108
     },
     {
       "ID": "ACH_BOSS_WOODSMITH",
@@ -9300,7 +9305,7 @@
       "Name": "Quick Draw",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 123927
+      "UsersEstimate": 123928
     },
     {
       "ID": "ACH_CHALLENGE_DASH_KILL",
@@ -9332,7 +9337,7 @@
       "Name": "Bow Master",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 111107
+      "UsersEstimate": 111108
     },
     {
       "ID": "ACH_CHALLENGE_PARRY_KILL",
@@ -9380,7 +9385,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 405969
+      "UsersEstimate": 405970
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -9396,7 +9401,7 @@
       "Name": "Good as New",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 307682
+      "UsersEstimate": 307683
     },
     {
       "ID": "ACH_LOCATION_FARM",
@@ -9404,7 +9409,7 @@
       "Name": "The Open Range",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 158114
+      "UsersEstimate": 158115
     },
     {
       "ID": "ACH_LOCATION_FOREST",
@@ -9412,7 +9417,7 @@
       "Name": "Into the Woods",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 294862
+      "UsersEstimate": 294863
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -9420,7 +9425,7 @@
       "Name": "The Lonely Path",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 111107
+      "UsersEstimate": 111108
     },
     {
       "ID": "ACH_LOCATION_VILLAGE",
@@ -9428,7 +9433,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 341869
+      "UsersEstimate": 341870
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -9460,7 +9465,7 @@
       "Name": "Taro\u0027s Love",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 192301
+      "UsersEstimate": 192302
     },
     {
       "ID": "ACH_RELIC_HAMMER",
@@ -9492,7 +9497,7 @@
       "Name": "Taro\u0027s Fear",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 239308
+      "UsersEstimate": 239309
     },
     {
       "ID": "ACH_RELIC_LANTERN",
@@ -9500,7 +9505,7 @@
       "Name": "Taro\u0027s Regret",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 183754
+      "UsersEstimate": 183755
     },
     {
       "ID": "ACH_RELIC_OX",
@@ -9508,7 +9513,7 @@
       "Name": "Adira\u0027s Love",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 145294
+      "UsersEstimate": 145295
     },
     {
       "ID": "ACH_RELIC_VILLAGE_CREST",
@@ -9539,15 +9544,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 427336,
+      "Progressed": 427337,
       "Completed": 525
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-08-08T09:00:07.5291923+00:00",
-  "LastChanged_Achievements": "2023-08-11T22:03:32.7838137+00:00",
+  "LastChanged_Achievements": "2023-08-11T23:05:02.59045+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:10.650083+00:00",
-  "LastUpdate_Ratings": "2023-08-11T21:59:43.9714657+00:00",
-  "LastUpdate_Achievements": "2023-08-11T22:03:32.7838951+00:00"
+  "LastUpdate_Ratings": "2023-08-11T23:00:51.6766549+00:00",
+  "LastUpdate_Achievements": "2023-08-11T23:05:02.5906789+00:00"
 }

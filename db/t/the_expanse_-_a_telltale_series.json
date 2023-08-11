@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6821,
+  "EOS_Progressed": 6839,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2524,
+  "EOS_NewPlayers": 2520,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1607,6 +1607,11 @@
       "Time": "2023-08-11T22:06:17.8367649+00:00",
       "NumProgressed": 6821,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-11T23:08:01.2503991+00:00",
+      "NumProgressed": 6839,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -1619,7 +1624,7 @@
       "Name": "Urshanabi Hoarder",
       "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "10",
@@ -1659,7 +1664,7 @@
       "Name": "Doctor Approved",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1094
     },
     {
       "ID": "15",
@@ -1667,7 +1672,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "16",
@@ -1683,7 +1688,7 @@
       "Name": "Spore Taste",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "18",
@@ -1691,7 +1696,7 @@
       "Name": "Bottoms up!",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "19",
@@ -1699,7 +1704,7 @@
       "Name": "Martian Music",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "2",
@@ -1795,7 +1800,7 @@
       "Name": "Captain Drummer",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1023
+      "UsersEstimate": 1026
     },
     {
       "ID": "30",
@@ -1858,14 +1863,14 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 6821,
+      "Progressed": 6839,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged_Achievements": "2023-08-11T22:06:17.8367645+00:00",
+  "LastChanged_Achievements": "2023-08-11T23:08:01.2503986+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:06.3145817+00:00",
-  "LastUpdate_Ratings": "2023-08-11T22:00:42.1766659+00:00",
-  "LastUpdate_Achievements": "2023-08-11T22:06:17.8367965+00:00"
+  "LastUpdate_Ratings": "2023-08-11T23:02:07.8370187+00:00",
+  "LastUpdate_Achievements": "2023-08-11T23:08:01.2504345+00:00"
 }

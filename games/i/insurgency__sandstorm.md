@@ -6,29 +6,29 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~21,577 |
-| Wallbanger | 5.00% | ~21,577 |
-| Exploitative | 4.00% | ~17,262 |
-| High Speed Low Drag | 4.00% | ~17,262 |
-| Wet Feet | 4.00% | ~17,262 |
-| Lucky | 3.00% | ~12,946 |
-| Stylin' | 3.00% | ~12,946 |
-| Turf War | 3.00% | ~12,946 |
+| Point Shooting | 5.00% | ~21,579 |
+| Wallbanger | 5.00% | ~21,579 |
+| Exploitative | 4.00% | ~17,263 |
+| High Speed Low Drag | 4.00% | ~17,263 |
+| Wet Feet | 4.00% | ~17,263 |
+| Lucky | 3.00% | ~12,947 |
+| Stylin' | 3.00% | ~12,947 |
+| Turf War | 3.00% | ~12,947 |
 | Banged | 2.00% | ~8,631 |
 | Checkpoint Victory | 2.00% | ~8,631 |
 | First Blood | 2.00% | ~8,631 |
 | Flaccid Paralysis | 2.00% | ~8,631 |
 | Push Victory | 2.00% | ~8,631 |
 | Self-destructive | 2.00% | ~8,631 |
-| Blindfire | 1.00% | ~4,315 |
-| Ruthless | 1.00% | ~4,315 |
-| Semper Paratus | 1.00% | ~4,315 |
+| Blindfire | 1.00% | ~4,316 |
+| Ruthless | 1.00% | ~4,316 |
+| Semper Paratus | 1.00% | ~4,316 |
 | Carrying | 0.90% | ~3,884 |
 | Efficient | 0.90% | ~3,884 |
 | Mount & Gun | 0.90% | ~3,884 |
 | Personal | 0.90% | ~3,884 |
-| Grounded | 0.80% | ~3,452 |
-| Play to Win | 0.80% | ~3,452 |
+| Grounded | 0.80% | ~3,453 |
+| Play to Win | 0.80% | ~3,453 |
 | #1 | 0.70% | ~3,021 |
 | Special Delivery | 0.70% | ~3,021 |
 | Firefight Victory | 0.60% | ~2,589 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~432 |
 | Road Hazard | 0.10% | ~432 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 431,549 (Ranked 38)  
+Progressed: 431,574 (Ranked 38)  
 Completed: 2 (0.00%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,7 +155,7 @@ Completed: 2 (0.00%) (Ranked 253)
 | 2023-08-08 | 430,625 | 2 |
 | 2023-08-09 | 430,971 | 2 |
 | 2023-08-10 | 431,288 | 2 |
-| 2023-08-11 | 431,549 | 2 |
+| 2023-08-11 | 431,574 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 372  (Ranked 221)  
 Sum: 2,882 (Ranked 167)  

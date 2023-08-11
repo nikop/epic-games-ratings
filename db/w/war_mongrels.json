@@ -1528,9 +1528,9 @@
       "ID": "ACH_COLL_CH12",
       "SetID": "1j25agn",
       "Name": "Collectibles of Chapter XII",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_FIN_CH01",
@@ -1672,9 +1672,9 @@
       "ID": "ACH_JOACHIM_FATE2",
       "SetID": "1j25agn",
       "Name": "Without a Second Thought",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 69
     },
     {
       "ID": "ACH_KILL_BRAWL",
@@ -1792,8 +1792,8 @@
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-06-24T07:57:51.3010975+00:00",
-  "LastChanged_Achievements": "2023-08-11T22:06:27.9561196+00:00",
+  "LastChanged_Achievements": "2023-08-11T23:08:15.660946+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:49.2531898+00:00",
-  "LastUpdate_Ratings": "2023-08-11T21:58:48.4952801+00:00",
-  "LastUpdate_Achievements": "2023-08-11T22:06:27.9561779+00:00"
+  "LastUpdate_Ratings": "2023-08-11T22:59:37.0143268+00:00",
+  "LastUpdate_Achievements": "2023-08-11T23:08:15.6610151+00:00"
 }

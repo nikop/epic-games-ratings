@@ -69,7 +69,7 @@
 | Anyone can resist | 29.00% | ~71 |
 | Silver’s past | 26.00% | ~63 |
 | Better cooking at home | 26.00% | ~63 |
-| The only right decision | 25.00% | ~61 |
+| The only right decision | 26.00% | ~63 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 244 (Ranked 270)  
 Completed: 8 (3.28%) (Ranked 64)  

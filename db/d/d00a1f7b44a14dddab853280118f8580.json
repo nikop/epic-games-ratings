@@ -523,9 +523,9 @@
       "ID": "ach_hint_6",
       "SetID": "5e260i9",
       "Name": "Supported success!",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 70,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ach_hint_9",
@@ -586,8 +586,8 @@
   ],
   "FirstSeen": "2023-07-30T16:57:15.6867124+00:00",
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2023-08-11T22:02:07.1474703+00:00",
+  "LastChanged_Achievements": "2023-08-11T23:03:59.4490882+00:00",
   "LastUpdate_AppInfo": "2023-08-10T21:57:07.638473+00:00",
-  "LastUpdate_Ratings": "2023-08-11T21:57:42.0849767+00:00",
-  "LastUpdate_Achievements": "2023-08-11T22:02:07.147483+00:00"
+  "LastUpdate_Ratings": "2023-08-11T22:58:05.7346886+00:00",
+  "LastUpdate_Achievements": "2023-08-11T23:03:59.4491088+00:00"
 }

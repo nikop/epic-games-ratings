@@ -7,6 +7,7 @@
 | To Suffer is to Learn | 6.00% | ~201 |
 | Initiate's Resolve | 6.00% | ~201 |
 | Missilis | 5.00% | ~167 |
+| Modest Earnings | 5.00% | ~167 |
 | Armaments of the Pantheon | 5.00% | ~167 |
 | Persephone's Guidance | 5.00% | ~167 |
 | Lochos | 5.00% | ~167 |
@@ -15,13 +16,12 @@
 | Immolator | 4.00% | ~134 |
 | Go For the Head | 4.00% | ~134 |
 | Spartan Sandal | 4.00% | ~134 |
-| Modest Earnings | 4.00% | ~134 |
+| War Chest | 4.00% | ~134 |
 | Symbols of Heresy | 4.00% | ~134 |
 | The Sons of Minos | 4.00% | ~134 |
 | Eidola | 4.00% | ~134 |
 | Comedy and Tragedy | 3.00% | ~100 |
 | Pillars of Eternity | 3.00% | ~100 |
-| War Chest | 3.00% | ~100 |
 | Chthonic Investor | 3.00% | ~100 |
 | First Fragment | 3.00% | ~100 |
 | Sisters of the Pantheon | 3.00% | ~100 |

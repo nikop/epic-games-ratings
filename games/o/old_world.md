@@ -12,6 +12,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Explorer | 2.00% | ~267 |
 | Intrepid | 2.00% | ~267 |
 | Mason | 2.00% | ~267 |
+| Noble | 2.00% | ~267 |
 | Settler | 2.00% | ~267 |
 | Strong | 2.00% | ~267 |
 | Friendly Family | 2.00% | ~267 |
@@ -29,7 +30,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Keystone | 1.00% | ~134 |
 | Learned | 1.00% | ~134 |
 | Magnificent | 1.00% | ~134 |
-| Noble | 1.00% | ~134 |
 | Pioneer | 1.00% | ~134 |
 | Warrior | 1.00% | ~134 |
 | Wise | 1.00% | ~134 |
@@ -250,6 +250,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Apadana in Parsa | 0.10% | ~13 |
 | Play a 1-v-1 Game | 0.10% | ~13 |
 | Play a Hotseat Game | 0.10% | ~13 |
+| Play a LAN Game | 0.10% | ~13 |
 | Play a MP Teams Game | 0.10% | ~13 |
 | Punic Wars | 0.10% | ~13 |
 | Roman Papacy | 0.10% | ~13 |
@@ -298,7 +299,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Eastern Empire | 0.00% | ~0 |
 | Mausoleum in Halicarnassus | 0.00% | ~0 |
 | Knowledge of the Ancients | 0.00% | ~0 |
-| Play a LAN Game | 0.00% | ~0 |
 | Colossus in Rhodes | 0.00% | ~0 |
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |

@@ -19,18 +19,18 @@ Number of Ratings: 285  (23.09.2022)
 | Ten Steps from the Grave | 2.00% | ~14 |
 | Cold-Blooded Critters | 1.00% | ~7 |
 | Everything Must Go! | 1.00% | ~7 |
+| The Fourth Gate | 1.00% | ~7 |
 | The Harder They Fall | 1.00% | ~7 |
 | Horder Better Faster Stronger | 1.00% | ~7 |
 | Next Time on MythForce... | 1.00% | ~7 |
 | On this Episode! | 1.00% | ~7 |
 | Season Finale | 1.00% | ~7 |
 | Spending Spree | 1.00% | ~7 |
-| The Fourth Gate | 0.80% | ~6 |
 | We've Got a Kaiju on the Field | 0.10% | ~1 |
 | Deadalus and Loving It | 0.00% | ~0 |
 | Vexed Her | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 721 (Ranked 208)  
+Progressed: 724 (Ranked 208)  
 Completed: 0 (0.00%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -57,7 +57,7 @@ Completed: 0 (0.00%) (Ranked 253)
 | 2023-08-08 | 663 | 0 |
 | 2023-08-09 | 674 | 0 |
 | 2023-08-10 | 693 | 0 |
-| 2023-08-11 | 721 | 0 |
+| 2023-08-11 | 724 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 452)  
 Sum: 226 (Ranked 358)  

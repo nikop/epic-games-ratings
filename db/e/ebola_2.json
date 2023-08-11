@@ -1026,9 +1026,9 @@
       "ID": "achMeat",
       "SetID": "1al1mjg",
       "Name": "Scent of Meat \u2714",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 46
     },
     {
       "ID": "achSaveses",
@@ -1081,8 +1081,8 @@
   ],
   "FirstSeen": "2023-05-09T21:58:44.2938175+00:00",
   "FirstSeenAchievements": "2023-05-03T13:06:50.6971729+00:00",
-  "LastChanged_Achievements": "2023-08-11T22:07:19.3141658+00:00",
+  "LastChanged_Achievements": "2023-08-11T23:09:15.2572207+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:35.0325756+00:00",
-  "LastUpdate_Ratings": "2023-08-11T21:58:26.5487246+00:00",
-  "LastUpdate_Achievements": "2023-08-11T22:07:19.3141827+00:00"
+  "LastUpdate_Ratings": "2023-08-11T22:59:08.1903195+00:00",
+  "LastUpdate_Achievements": "2023-08-11T23:09:15.2572423+00:00"
 }

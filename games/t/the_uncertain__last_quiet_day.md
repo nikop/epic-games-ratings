@@ -20,8 +20,8 @@
 | Every little helps | 19.00% | ~100 |
 | Hacker | 19.00% | ~100 |
 | He is just a child | 19.00% | ~100 |
+| Uncertain | 18.00% | ~94 |
 | Concrete painting | 17.00% | ~89 |
-| Uncertain | 17.00% | ~89 |
 | Ace | 16.00% | ~84 |
 | Goody | 16.00% | ~84 |
 | Not what it seems | 16.00% | ~84 |
