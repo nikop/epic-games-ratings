@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 138,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -249,9 +249,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1971,
+  "EOS_Progressed": 1972,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -2164,6 +2164,11 @@
       "Time": "2023-08-11T13:08:03.0534234+00:00",
       "NumProgressed": 1971,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-08-11T18:05:28.3282444+00:00",
+      "NumProgressed": 1972,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -2183,15 +2188,15 @@
       "Name": "Jailbreak",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1281
+      "UsersEstimate": 1282
     },
     {
       "ID": "ACHV_03",
       "SetID": "8p5mlmc",
       "Name": "Dead Again",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 355
+      "UsersEstimate": 335
     },
     {
       "ID": "ACHV_04",
@@ -2199,7 +2204,7 @@
       "Name": "Overheated",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "ACHV_05",
@@ -2223,7 +2228,7 @@
       "Name": "Court Martial",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "ACHV_08",
@@ -2375,7 +2380,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1577
+      "UsersEstimate": 1578
     },
     {
       "ID": "ACHV_27",
@@ -2383,7 +2388,7 @@
       "Name": "High Performance",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "ACHV_28",
@@ -2391,7 +2396,7 @@
       "Name": "Clean Cut",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "ACHV_29",
@@ -2535,7 +2540,7 @@
       "Name": "Unforeseeable Consequences",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "ACHV_47",
@@ -2630,7 +2635,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1971,
+      "Progressed": 1972,
       "Completed": 10
     }
   ],
@@ -2638,8 +2643,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-08-08T21:57:25.0891807+00:00",
-  "LastChanged_Achievements": "2023-08-11T17:04:50.8279521+00:00",
+  "LastChanged_Achievements": "2023-08-11T18:05:28.3282436+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:30.8115902+00:00",
-  "LastUpdate_Ratings": "2023-08-11T16:57:45.2503684+00:00",
-  "LastUpdate_Achievements": "2023-08-11T17:04:50.8280126+00:00"
+  "LastUpdate_Ratings": "2023-08-11T17:57:57.9216315+00:00",
+  "LastUpdate_Achievements": "2023-08-11T18:05:28.328309+00:00"
 }

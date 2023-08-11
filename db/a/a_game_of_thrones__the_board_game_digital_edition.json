@@ -1269,9 +1269,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 21075,
+  "EOS_Progressed": 21080,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 599,
+  "EOS_NewPlayers": 600,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -13269,6 +13269,11 @@
       "Time": "2023-08-11T17:04:47.9948526+00:00",
       "NumProgressed": 21075,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-08-11T18:05:24.6971597+00:00",
+      "NumProgressed": 21080,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 22,
@@ -13288,7 +13293,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 1475
+      "UsersEstimate": 1476
     },
     {
       "ID": "1017",
@@ -13296,7 +13301,7 @@
       "Name": "We Do Not Sow",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1264
+      "UsersEstimate": 1265
     },
     {
       "ID": "1018",
@@ -13304,7 +13309,7 @@
       "Name": "Unbowed, Unbent, Unbroken",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 1264
+      "UsersEstimate": 1265
     },
     {
       "ID": "1019",
@@ -13312,7 +13317,7 @@
       "Name": "Winter is Coming",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1475
+      "UsersEstimate": 1476
     },
     {
       "ID": "1020",
@@ -13328,7 +13333,7 @@
       "Name": "Hear me Roar!",
       "Percentage": 6,
       "XP": 65,
-      "UsersEstimate": 1264
+      "UsersEstimate": 1265
     },
     {
       "ID": "1022",
@@ -13336,7 +13341,7 @@
       "Name": "Defender of the Wall",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 1264
+      "UsersEstimate": 1265
     },
     {
       "ID": "1023",
@@ -13400,7 +13405,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4215
+      "UsersEstimate": 4216
     },
     {
       "ID": "1031",
@@ -13416,7 +13421,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 8430
+      "UsersEstimate": 8432
     },
     {
       "ID": "1033",
@@ -13432,7 +13437,7 @@
       "Name": "Influential",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1475
+      "UsersEstimate": 1476
     },
     {
       "ID": "1035",
@@ -13455,15 +13460,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 21075,
+      "Progressed": 21080,
       "Completed": 42
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-08-02T00:02:09.7226533+00:00",
-  "LastChanged_Achievements": "2023-08-11T17:04:47.9948518+00:00",
+  "LastChanged_Achievements": "2023-08-11T18:05:24.6971594+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:58:16.1086425+00:00",
-  "LastUpdate_Ratings": "2023-08-11T16:57:24.6235749+00:00",
-  "LastUpdate_Achievements": "2023-08-11T17:04:47.9949375+00:00"
+  "LastUpdate_Ratings": "2023-08-11T17:57:30.8167396+00:00",
+  "LastUpdate_Achievements": "2023-08-11T18:05:24.6972772+00:00"
 }

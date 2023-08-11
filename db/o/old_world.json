@@ -1593,9 +1593,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13356,
+  "EOS_Progressed": 13358,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -9478,6 +9478,11 @@
       "Time": "2023-08-11T17:04:25.3815117+00:00",
       "NumProgressed": 13356,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-11T18:04:42.9618011+00:00",
+      "NumProgressed": 13358,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -9863,9 +9868,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_BRAVE",
       "SetID": "9201eeb",
       "Name": "Drillmaster",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 107
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_BRILLIANT",
@@ -9969,7 +9974,7 @@
       "Name": "Intercessor",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_INTREPID",
@@ -10137,7 +10142,7 @@
       "Name": "Valiant",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_VICTORIOUS",
@@ -10329,7 +10334,7 @@
       "Name": "Champions",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_CLERICS",
@@ -10377,7 +10382,7 @@
       "Name": "Sages",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_STATESMEN",
@@ -10391,9 +10396,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_TRADERS",
       "SetID": "7l38kb8",
       "Name": "Traders",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 80
     },
     {
       "ID": "ACHIEVEMENT_FAMILY_FRIENDLY",
@@ -10809,7 +10814,7 @@
       "Name": "Acropolis",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_APADANA",
@@ -10913,7 +10918,7 @@
       "Name": "Mausoleum",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_MUSAEUM",
@@ -11121,7 +11126,7 @@
       "Name": "Greece",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "ACHIEVEMENT_NATION_HITTITE",
@@ -11607,9 +11612,9 @@
       "ID": "ACHIEVEMENT_VICTORY_AMBITION",
       "SetID": "7l38kb8",
       "Name": "Ambition Victory",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 67
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_CONQUEST",
@@ -11657,7 +11662,7 @@
       "Name": "Points Victory",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_RANDOMIZE_FAMILIES",
@@ -11856,21 +11861,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13356,
+      "Progressed": 13358,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13356,
+      "Progressed": 13358,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-11T16:59:09.2817186+00:00",
-  "LastChanged_Achievements": "2023-08-11T17:04:25.3815108+00:00",
+  "LastChanged_Achievements": "2023-08-11T18:04:42.9617999+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:46.1485999+00:00",
-  "LastUpdate_Ratings": "2023-08-11T16:59:09.2817195+00:00",
-  "LastUpdate_Achievements": "2023-08-11T17:04:25.3824367+00:00"
+  "LastUpdate_Ratings": "2023-08-11T17:59:38.963566+00:00",
+  "LastUpdate_Achievements": "2023-08-11T18:04:42.9627522+00:00"
 }

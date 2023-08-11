@@ -6,15 +6,15 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~67,619 |
-| Powergamer | 27.00% | ~65,204 |
-| Barely scratched the surface | 25.00% | ~60,374 |
-| Write that down | 24.00% | ~57,959 |
-| Guns, lots of guns | 12.00% | ~28,980 |
-| Collector | 11.00% | ~26,565 |
-| Elementary! | 9.00% | ~21,735 |
-| Pumpkin Jack | 8.00% | ~19,320 |
-| Wake up! | 8.00% | ~19,320 |
+| I will finish what you started | 28.00% | ~67,622 |
+| Powergamer | 27.00% | ~65,207 |
+| Barely scratched the surface | 25.00% | ~60,377 |
+| Write that down | 24.00% | ~57,962 |
+| Guns, lots of guns | 12.00% | ~28,981 |
+| Collector | 11.00% | ~26,566 |
+| Elementary! | 9.00% | ~21,736 |
+| Pumpkin Jack | 8.00% | ~19,321 |
+| Wake up! | 8.00% | ~19,321 |
 | It's honest work | 7.00% | ~16,905 |
 | Griever | 7.00% | ~16,905 |
 | Me smart | 6.00% | ~14,490 |
@@ -42,24 +42,24 @@ Number of Ratings: 33  (23.09.2022)
 | SysOp on duty | 1.00% | ~2,415 |
 | Take the blue pill | 1.00% | ~2,415 |
 | The power of three | 1.00% | ~2,415 |
-| A true blacksmith | 0.90% | ~2,173 |
+| A true blacksmith | 0.90% | ~2,174 |
 | Let's try another | 0.80% | ~1,932 |
 | Home run | 0.80% | ~1,932 |
-| I have the high ground | 0.70% | ~1,690 |
-| It's blue, always blue | 0.70% | ~1,690 |
-| Enjoy these little moments | 0.50% | ~1,207 |
-| Who wouldn't love a troll? | 0.50% | ~1,207 |
+| I have the high ground | 0.70% | ~1,691 |
+| It's blue, always blue | 0.70% | ~1,691 |
+| Enjoy these little moments | 0.50% | ~1,208 |
+| Who wouldn't love a troll? | 0.50% | ~1,208 |
 | Irondec | 0.40% | ~966 |
 | Un-bear-able | 0.40% | ~966 |
-| LET ME OUT! | 0.30% | ~724 |
-| Well-deserved reunion | 0.30% | ~724 |
+| LET ME OUT! | 0.30% | ~725 |
+| Well-deserved reunion | 0.30% | ~725 |
 | Breaking the chains | 0.20% | ~483 |
 | Aren't you overthinking? | 0.20% | ~483 |
 | Take the red pill | 0.20% | ~483 |
 | This is the way | 0.20% | ~483 |
-| Memory 5 | 0.10% | ~241 |
+| Memory 5 | 0.10% | ~242 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,496 (Ranked 47)  
+Progressed: 241,507 (Ranked 47)  
 Completed: 7 (0.00%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,7 +172,7 @@ Completed: 7 (0.00%) (Ranked 253)
 | 2023-08-08 | 241,170 | 7 |
 | 2023-08-09 | 241,277 | 7 |
 | 2023-08-10 | 241,397 | 7 |
-| 2023-08-11 | 241,496 | 7 |
+| 2023-08-11 | 241,507 | 7 |
 ## Awards
 Max (Character Customization): 78  (Ranked 363)  
 Sum: 78 (Ranked 427)  

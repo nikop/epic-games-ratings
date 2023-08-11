@@ -4,7 +4,7 @@
   "ProductSlug": "volley-pals-0120b4",
   "Ranking_EOS_Progress": 326,
   "Ranking_EOS_Completed": 7,
-  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewPlayers": 256,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-05-19T01:00:00+00:00",
@@ -525,9 +525,9 @@
       "ID": "LEVEL_4",
       "SetID": "1fnbp5h",
       "Name": "Science Laboratory",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "LEVEL_5",
@@ -579,8 +579,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-02T15:59:43.451096+00:00",
-  "LastChanged_Achievements": "2023-08-11T17:05:36.9559489+00:00",
+  "LastChanged_Achievements": "2023-08-11T18:06:25.0033258+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:38.7852117+00:00",
-  "LastUpdate_Ratings": "2023-08-11T16:58:25.1581563+00:00",
-  "LastUpdate_Achievements": "2023-08-11T17:05:36.9559624+00:00"
+  "LastUpdate_Ratings": "2023-08-11T17:58:44.0959622+00:00",
+  "LastUpdate_Achievements": "2023-08-11T18:06:25.0033387+00:00"
 }

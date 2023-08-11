@@ -60,20 +60,20 @@ Number of Ratings: 1,307  (23.09.2022)
 | Musaeum | 0.90% | ~120 |
 | Manichaeism | 0.90% | ~120 |
 | Regicide | 0.80% | ~107 |
+| Drillmaster | 0.80% | ~107 |
 | Legendary Cities | 0.80% | ~107 |
 | Just Difficulty | 0.80% | ~107 |
 | Learn to Play 2 | 0.80% | ~107 |
 | Egyptian Paganism | 0.80% | ~107 |
 | Mythology | 0.80% | ~107 |
-| Drillmaster | 0.70% | ~93 |
-| Intercessor | 0.70% | ~93 |
-| Valiant | 0.70% | ~93 |
-| Champions | 0.70% | ~93 |
-| Sages | 0.70% | ~93 |
-| Acropolis | 0.70% | ~93 |
-| Mausoleum | 0.70% | ~93 |
-| Greece | 0.70% | ~93 |
-| Points Victory | 0.70% | ~93 |
+| Intercessor | 0.70% | ~94 |
+| Valiant | 0.70% | ~94 |
+| Champions | 0.70% | ~94 |
+| Sages | 0.70% | ~94 |
+| Acropolis | 0.70% | ~94 |
+| Mausoleum | 0.70% | ~94 |
+| Greece | 0.70% | ~94 |
+| Points Victory | 0.70% | ~94 |
 | Hanging Gardens in Babylon | 0.60% | ~80 |
 | Beloved | 0.60% | ~80 |
 | Conqueror | 0.60% | ~80 |
@@ -81,6 +81,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Good Difficulty | 0.60% | ~80 |
 | Patrons | 0.60% | ~80 |
 | Statesmen | 0.60% | ~80 |
+| Traders | 0.60% | ~80 |
 | Persian Paganism | 0.60% | ~80 |
 | Building Wonders | 0.60% | ~80 |
 | Phalangite | 0.60% | ~80 |
@@ -88,7 +89,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lion | 0.50% | ~67 |
 | Subjugator | 0.50% | ~67 |
 | Victorious | 0.50% | ~67 |
-| Traders | 0.50% | ~67 |
 | Hittite Iron | 0.50% | ~67 |
 | Circus Maximus | 0.50% | ~67 |
 | Hagia Sophia | 0.50% | ~67 |
@@ -102,6 +102,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legalism | 0.50% | ~67 |
 | Cimmerian Archer | 0.50% | ~67 |
 | Legionary | 0.50% | ~67 |
+| Ambition Victory | 0.50% | ~67 |
 | Double Victory | 0.50% | ~67 |
 | Win a Single Player Game | 0.50% | ~67 |
 | Capable | 0.40% | ~53 |
@@ -124,7 +125,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Revelation | 0.40% | ~53 |
 | Veneration | 0.40% | ~53 |
 | Kushite Cavalry | 0.40% | ~53 |
-| Ambition Victory | 0.40% | ~53 |
 | Bad Heir Day | 0.30% | ~40 |
 | Ishtar Gate in Babylon | 0.30% | ~40 |
 | Carthage - Ox Hide | 0.30% | ~40 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,356 (Ranked 117)  
+Progressed: 13,358 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -416,7 +416,7 @@ Completed: 5 (0.04%) (Ranked 222)
 | 2023-08-08 | 13,332 | 5 |
 | 2023-08-09 | 13,342 | 5 |
 | 2023-08-10 | 13,349 | 5 |
-| 2023-08-11 | 13,356 | 5 |
+| 2023-08-11 | 13,358 | 5 |
 ## Awards
 Max (Relaxing): 219  (Ranked 264)  
 Sum: 1,789 (Ranked 206)  

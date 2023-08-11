@@ -10,8 +10,8 @@
 | I didn't do it! | 41.00% | ~41 |
 | Demolition expert | 35.00% | ~35 |
 | Keep away from children | 35.00% | ~35 |
+| Wooooooow! | 35.00% | ~35 |
 | Artistic fool | 34.00% | ~34 |
-| Wooooooow! | 34.00% | ~34 |
 | Open up wide | 30.00% | ~30 |
 | Chapter II | 30.00% | ~30 |
 | Achoo!! | 29.00% | ~29 |
@@ -38,9 +38,9 @@
 | It's nothing personal | 9.00% | ~9 |
 | Where there is life, there is hope | 8.00% | ~8 |
 | Artistic master | 7.00% | ~7 |
+| The hands of a healer | 6.00% | ~6 |
 | Sadist | 5.00% | ~5 |
 | Fartjokes! | 5.00% | ~5 |
-| The hands of a healer | 5.00% | ~5 |
 | Shut up clown! | 5.00% | ~5 |
 | Life is but a dream | 4.00% | ~4 |
 | Checkmate in 8 moves | 3.00% | ~3 |

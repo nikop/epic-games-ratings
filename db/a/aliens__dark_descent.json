@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -252,9 +252,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 3136,
+  "EOS_Progressed": 3137,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -3642,6 +3642,11 @@
       "Time": "2023-08-11T10:04:50.9604727+00:00",
       "NumProgressed": 3136,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-11T18:04:35.3628038+00:00",
+      "NumProgressed": 3137,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -3765,7 +3770,7 @@
       "Name": "Call Me Snake",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 1944
+      "UsersEstimate": 1945
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -3773,7 +3778,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 2101
+      "UsersEstimate": 2102
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -3813,7 +3818,7 @@
       "Name": "Bandage Lover",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "ACH_MAX_RECON",
@@ -3821,7 +3826,7 @@
       "Name": "Frontliner",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "ACH_MAX_SERGEANT",
@@ -3837,7 +3842,7 @@
       "Name": "The Cable Guy",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "ACH_MISSION_01",
@@ -3869,7 +3874,7 @@
       "Name": "Making a Stand",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1348
+      "UsersEstimate": 1349
     },
     {
       "ID": "ACH_MISSION_05",
@@ -3901,7 +3906,7 @@
       "Name": "Deep Into Insanity",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 815
+      "UsersEstimate": 816
     },
     {
       "ID": "ACH_MISSION_09",
@@ -3909,7 +3914,7 @@
       "Name": "The Passenger",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 815
+      "UsersEstimate": 816
     },
     {
       "ID": "ACH_MISSION_10",
@@ -3917,7 +3922,7 @@
       "Name": "The Spire",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "ACH_MISSION_11",
@@ -3949,7 +3954,7 @@
       "Name": "Snatched Out",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 2352
+      "UsersEstimate": 2353
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -3965,7 +3970,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 1850
+      "UsersEstimate": 1851
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -4005,14 +4010,14 @@
       "Name": "The Shrink Hates Me",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 1756
+      "UsersEstimate": 1757
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3136,
+      "Progressed": 3137,
       "Completed": 2
     }
   ],
@@ -4020,8 +4025,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-08-11T03:00:48.1661704+00:00",
-  "LastChanged_Achievements": "2023-08-11T17:04:18.7270612+00:00",
+  "LastChanged_Achievements": "2023-08-11T18:04:35.3628032+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:22.265052+00:00",
-  "LastUpdate_Ratings": "2023-08-11T17:00:36.5190822+00:00",
-  "LastUpdate_Achievements": "2023-08-11T17:04:18.7271167+00:00"
+  "LastUpdate_Ratings": "2023-08-11T18:01:32.2264732+00:00",
+  "LastUpdate_Achievements": "2023-08-11T18:04:35.3628651+00:00"
 }

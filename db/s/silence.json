@@ -4,7 +4,7 @@
   "ProductSlug": "silence-57bc4e",
   "Ranking_EOS_Progress": 320,
   "Ranking_EOS_Completed": 253,
-  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewPlayers": 256,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -309,17 +309,17 @@
       "ID": "2004_achv_abyss",
       "SetID": "dhn82m5",
       "Name": "Wooooooow!",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "2004_achv_hitkyra",
       "SetID": "dhn82m5",
       "Name": "The hands of a healer",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "2005n_achv_chapter2",
@@ -478,8 +478,8 @@
   "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.5644296+00:00",
   "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
-  "LastChanged_Achievements": "2023-08-11T17:05:46.2551027+00:00",
+  "LastChanged_Achievements": "2023-08-11T18:06:35.802766+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:19.4570726+00:00",
-  "LastUpdate_Ratings": "2023-08-11T17:00:35.1919484+00:00",
-  "LastUpdate_Achievements": "2023-08-11T17:05:46.2551441+00:00"
+  "LastUpdate_Ratings": "2023-08-11T18:01:30.4975889+00:00",
+  "LastUpdate_Achievements": "2023-08-11T18:06:35.8028197+00:00"
 }

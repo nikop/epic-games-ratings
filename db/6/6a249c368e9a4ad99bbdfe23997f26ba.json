@@ -2,7 +2,7 @@
   "ID": "6a249c368e9a4ad99bbdfe23997f26ba",
   "Name": "Forest Fire",
   "ProductSlug": "forest-fire-b4bb7e",
-  "Ranking_EOS_Progress": 413,
+  "Ranking_EOS_Progress": 414,
   "Ranking_EOS_Completed": 253,
   "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 98,
@@ -202,9 +202,9 @@
       "ID": "A2",
       "SetID": "7f5j12l",
       "Name": "Level 2 Completed",
-      "Percentage": 6,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "A20",
@@ -234,9 +234,9 @@
       "ID": "A23",
       "SetID": "7f5j12l",
       "Name": "Pyramids Destroyed",
-      "Percentage": 6,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "A24",
@@ -392,8 +392,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-18T00:01:21.9503191+00:00",
-  "LastChanged_Achievements": "2023-08-11T17:04:38.5609367+00:00",
+  "LastChanged_Achievements": "2023-08-11T18:05:12.9231655+00:00",
   "LastUpdate_AppInfo": "2023-08-08T02:56:56.7121844+00:00",
-  "LastUpdate_Ratings": "2023-08-11T16:57:43.7365164+00:00",
-  "LastUpdate_Achievements": "2023-08-11T17:04:38.5609629+00:00"
+  "LastUpdate_Ratings": "2023-08-11T17:57:56.8007915+00:00",
+  "LastUpdate_Achievements": "2023-08-11T18:05:12.9231923+00:00"
 }
