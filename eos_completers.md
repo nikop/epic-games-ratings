@@ -29,7 +29,7 @@
 | 27 | [Sonic Origins](games/s/sonic_origins.md) | 9.71% |
 | 28 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.52% |
 | 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.36% |
-| 30 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.98% |
+| 30 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.97% |
 | 31 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.50% |
 | 32 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.20% |
 | 33 | [Smelter](games/s/smelter.md) | 7.69% |
