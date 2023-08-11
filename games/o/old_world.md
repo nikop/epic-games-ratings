@@ -64,6 +64,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Just Difficulty | 0.80% | ~107 |
 | Learn to Play 2 | 0.80% | ~107 |
 | Egyptian Paganism | 0.80% | ~107 |
+| Mythology | 0.80% | ~107 |
 | Drillmaster | 0.70% | ~93 |
 | Intercessor | 0.70% | ~93 |
 | Valiant | 0.70% | ~93 |
@@ -72,7 +73,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Acropolis | 0.70% | ~93 |
 | Mausoleum | 0.70% | ~93 |
 | Greece | 0.70% | ~93 |
-| Mythology | 0.70% | ~93 |
 | Points Victory | 0.70% | ~93 |
 | Hanging Gardens in Babylon | 0.60% | ~80 |
 | Beloved | 0.60% | ~80 |
@@ -129,6 +129,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ishtar Gate in Babylon | 0.30% | ~40 |
 | Carthage - Ox Hide | 0.30% | ~40 |
 | Old | 0.30% | ~40 |
+| Peacemaker | 0.30% | ~40 |
 | Noble Difficulty | 0.30% | ~40 |
 | Clerics | 0.30% | ~40 |
 | Learn to Play 4 | 0.30% | ~40 |
@@ -143,7 +144,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | No Undo | 0.30% | ~40 |
 | Pilgrimage | 0.30% | ~40 |
 | Ancient | 0.20% | ~27 |
-| Peacemaker | 0.20% | ~27 |
 | Glorious Difficulty | 0.20% | ~27 |
 | The Eternal Treaty | 0.20% | ~27 |
 | Run, Pheidippides, Run! | 0.20% | ~27 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,352 (Ranked 117)  
+Progressed: 13,354 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -416,7 +416,7 @@ Completed: 5 (0.04%) (Ranked 222)
 | 2023-08-08 | 13,332 | 5 |
 | 2023-08-09 | 13,342 | 5 |
 | 2023-08-10 | 13,349 | 5 |
-| 2023-08-11 | 13,352 | 5 |
+| 2023-08-11 | 13,354 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 265)  
 Sum: 1,788 (Ranked 206)  

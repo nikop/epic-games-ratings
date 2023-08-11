@@ -22,9 +22,9 @@ Rating: 4.22 (Ranked 841)
 | Offensive Defense | 20.00% | ~394 |
 | Shocking | 20.00% | ~394 |
 | Court Martial | 19.00% | ~374 |
+| Clean Cut | 19.00% | ~374 |
 | Unforeseeable Consequences | 19.00% | ~374 |
 | Dead Again | 18.00% | ~355 |
-| Clean Cut | 18.00% | ~355 |
 | Full Arsenal | 17.00% | ~335 |
 | Can't Trust Banks | 15.00% | ~296 |
 | Mommy Dearest | 13.00% | ~256 |

@@ -11,7 +11,7 @@
 | Beat It | 52.00% | ~277 |
 | Free Champagne | 48.00% | ~255 |
 | Storage Hunter | 48.00% | ~255 |
-| Falling For You | 44.00% | ~234 |
+| Falling For You | 45.00% | ~239 |
 | Trust Me For Once | 29.00% | ~154 |
 | Lab Rat | 24.00% | ~128 |
 | Stalemate | 20.00% | ~106 |
@@ -21,7 +21,7 @@
 | Get Out Of This Alive | 10.00% | ~53 |
 | The Promise | 10.00% | ~53 |
 | People Pleaser | 9.00% | ~48 |
-| The Nano Glitches And The Martyr | 7.00% | ~37 |
+| The Nano Glitches And The Martyr | 8.00% | ~43 |
 | Second Chances | 7.00% | ~37 |
 | Not A People Person | 4.00% | ~21 |
 ## Popularity (Based on EOS Achievements)

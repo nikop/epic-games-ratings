@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 65,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 66,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-05-19T15:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -2092,9 +2092,9 @@
       "Count": 100
     }
   ],
-  "EOS_Progressed": 37240,
+  "EOS_Progressed": 37241,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 628,
+  "EOS_NewPlayers": 624,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -14137,6 +14137,11 @@
       "Time": "2023-08-11T13:06:29.8468594+00:00",
       "NumProgressed": 37240,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-08-11T14:03:47.5036453+00:00",
+      "NumProgressed": 37241,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 75,
@@ -14188,7 +14193,7 @@
       "Name": "Wild Hunger",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 5958
+      "UsersEstimate": 5959
     },
     {
       "ID": "achievements_15",
@@ -14252,7 +14257,7 @@
       "Name": "Chainbreaker - I",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 22344
+      "UsersEstimate": 22345
     },
     {
       "ID": "achievements_24",
@@ -14260,7 +14265,7 @@
       "Name": "Chainbreaker - II",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 20482
+      "UsersEstimate": 20483
     },
     {
       "ID": "achievements_25",
@@ -14300,7 +14305,7 @@
       "Name": "Bane of Mercenaries - I",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 12289
+      "UsersEstimate": 12290
     },
     {
       "ID": "achievements_3",
@@ -14316,7 +14321,7 @@
       "Name": "Bane of Mercenaries - II",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 11544
+      "UsersEstimate": 11545
     },
     {
       "ID": "achievements_31",
@@ -14388,7 +14393,7 @@
       "Name": "Rage Concentrated",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 5958
+      "UsersEstimate": 5959
     },
     {
       "ID": "achievements_4",
@@ -14396,7 +14401,7 @@
       "Name": "Path of the Necromancer",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 24578
+      "UsersEstimate": 24579
     },
     {
       "ID": "achievements_40",
@@ -14452,7 +14457,7 @@
       "Name": "Improvement",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 31654
+      "UsersEstimate": 31655
     },
     {
       "ID": "achievements_47",
@@ -14484,7 +14489,7 @@
       "Name": "Necromancer\u0027s Apprentice",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 18992
+      "UsersEstimate": 18993
     },
     {
       "ID": "achievements_50",
@@ -14500,7 +14505,7 @@
       "Name": "Prepared Necromancer",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 15268
+      "UsersEstimate": 15269
     },
     {
       "ID": "achievements_52",
@@ -14524,7 +14529,7 @@
       "Name": "Distillation",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 16013
+      "UsersEstimate": 16014
     },
     {
       "ID": "achievements_55",
@@ -14596,7 +14601,7 @@
       "Name": "Revealed Secrets - II",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 9682
+      "UsersEstimate": 9683
     },
     {
       "ID": "achievements_64",
@@ -14652,7 +14657,7 @@
       "Name": "Blind Rage",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 14151
+      "UsersEstimate": 14152
     },
     {
       "ID": "achievements_70",
@@ -14724,7 +14729,7 @@
       "Name": "Blood Moon",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 27185
+      "UsersEstimate": 27186
     },
     {
       "ID": "achievements_8",
@@ -14747,15 +14752,15 @@
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 37240,
+      "Progressed": 37241,
       "Completed": 23
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2023-08-04T09:00:10.8815043+00:00",
-  "LastChanged_Achievements": "2023-08-11T13:06:29.8468589+00:00",
+  "LastChanged_Achievements": "2023-08-11T14:03:47.5036446+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:39.7010461+00:00",
-  "LastUpdate_Ratings": "2023-08-11T13:02:46.2850827+00:00",
-  "LastUpdate_Achievements": "2023-08-11T13:06:29.8470208+00:00"
+  "LastUpdate_Ratings": "2023-08-11T14:01:20.3137649+00:00",
+  "LastUpdate_Achievements": "2023-08-11T14:03:47.5038513+00:00"
 }

@@ -21,9 +21,9 @@
 | Leaning Tower of Pizza | 3.00% | ~16 |
 | Chef, Yes Chef! | 0.60% | ~3 |
 | The Bigger the Better | 0.60% | ~3 |
+| Codename: Arrabbiata | 0.40% | ~2 |
 | Teamwork | 0.20% | ~1 |
 | Eco Warrior | 0.20% | ~1 |
-| Codename: Arrabbiata | 0.20% | ~1 |
 | Say Cheese! | 0.00% | ~0 |
 | Baking Up a Storm | 0.00% | ~0 |
 | Stella d’Italia | 0.00% | ~0 |

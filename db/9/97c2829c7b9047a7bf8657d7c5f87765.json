@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 438,
   "Ranking_EOS_Completed": 253,
   "Ranking_EOS_NewPlayers": 311,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-07-20T15:00:00+00:00",
     "PcReleaseDate": "2022-05-06T16:00:00+00:00",
@@ -236,9 +236,9 @@
       "ID": "26",
       "SetID": "7095412",
       "Name": "Last Second",
-      "Percentage": 60,
+      "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "27",
@@ -426,8 +426,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-30T11:02:07.8457996+00:00",
-  "LastChanged_Achievements": "2023-08-11T13:08:46.9657217+00:00",
-  "LastUpdate_AppInfo": "2023-08-04T13:02:01.0870952+00:00",
-  "LastUpdate_Ratings": "2023-08-11T13:00:52.8116059+00:00",
-  "LastUpdate_Achievements": "2023-08-11T13:08:46.9657604+00:00"
+  "LastChanged_Achievements": "2023-08-11T14:06:55.0093106+00:00",
+  "LastUpdate_AppInfo": "2023-08-11T13:57:20.6541984+00:00",
+  "LastUpdate_Ratings": "2023-08-11T13:58:29.6324236+00:00",
+  "LastUpdate_Achievements": "2023-08-11T14:06:55.0093571+00:00"
 }

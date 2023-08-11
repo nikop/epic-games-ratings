@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 0.20% | ~441 |
+| A Brief Tour of the Realms | 0.20% | ~442 |
 | The Hunt for The Last Breath | 0.20% | ~374 |
 | Maddening | 0.10% | ~221 |
 | Pros and CONs | 0.10% | ~221 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | To Infinity's and Beyond | 0.10% | ~187 |
 | There's a Flying Snake in my Boot! | 0.10% | ~187 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,742 (Ranked 52)  
+Progressed: 220,756 (Ranked 52)  
 Completed: 2,172 (0.98%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -636,17 +636,17 @@ Completed: 2,172 (0.98%) (Ranked 114)
 | 2023-08-08 | 220,011 | 2,165 |
 | 2023-08-09 | 220,283 | 2,167 |
 | 2023-08-10 | 220,586 | 2,169 |
-| 2023-08-11 | 220,742 | 2,172 |
+| 2023-08-11 | 220,756 | 2,172 |
 ## Awards
 Max (Diverse Characters): 5,136  (Ranked 67)  
-Sum: 31,001 (Ranked 38)  
+Sum: 31,004 (Ranked 38)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 5,136 |
 | This game is Great for Beginners | 5,089 |
 | This game has Quickly Understood Controls | 4,711 |
-| This game is Relaxing | 4,604 |
+| This game is Relaxing | 4,607 |
 | This game has Amazing Characters | 4,062 |
 | This game is Highly Recommended | 4,046 |
 | This game has Playful Visuals | 3,353 |
@@ -850,4 +850,4 @@ Diff (max vs sum): 29
 | 2023-08-08 | 4.06 | - | 5,125 | 30,950 |
 | 2023-08-09 | 4.06 | - | 5,128 | 30,971 |
 | 2023-08-10 | 4.06 | - | 5,136 | 30,993 |
-| 2023-08-11 | 4.06 | - | 5,136 | 31,001 |
+| 2023-08-11 | 4.06 | - | 5,136 | 31,004 |

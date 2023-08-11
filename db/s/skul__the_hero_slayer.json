@@ -4,10 +4,10 @@
   "ProductSlug": "skul-the-hero-slayer",
   "Ranking_Rating": 171,
   "Ranking_Popularity": 312,
-  "Ranking_PopularitySum": 251,
+  "Ranking_PopularitySum": 250,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -882,10 +882,16 @@
       "Rating": 4.72,
       "NumberOfAwards": 899,
       "NumberOfAwardsMax": 123
+    },
+    {
+      "Time": "2023-08-11T14:01:50.5837416+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 900,
+      "NumberOfAwardsMax": 123
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 899,
+  "NumberOfAwards": 900,
   "NumberOfAwardsMax": 123,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -911,7 +917,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 109
+      "Count": 110
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4474,9 +4480,9 @@
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
-  "LastChanged": "2023-08-09T08:59:45.7086335+00:00",
-  "LastChanged_Achievements": "2023-08-11T13:09:14.0739866+00:00",
+  "LastChanged": "2023-08-11T14:01:50.5837413+00:00",
+  "LastChanged_Achievements": "2023-08-11T14:07:32.5743492+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:04.153056+00:00",
-  "LastUpdate_Ratings": "2023-08-11T13:03:06.6223107+00:00",
-  "LastUpdate_Achievements": "2023-08-11T13:09:14.0740241+00:00"
+  "LastUpdate_Ratings": "2023-08-11T14:01:50.5837421+00:00",
+  "LastUpdate_Achievements": "2023-08-11T14:07:32.5743885+00:00"
 }

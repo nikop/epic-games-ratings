@@ -2940,9 +2940,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 71664,
+  "EOS_Progressed": 71665,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 396,
+  "EOS_NewPlayers": 392,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -14780,6 +14780,11 @@
       "Time": "2023-08-11T13:09:26.2039096+00:00",
       "NumProgressed": 71664,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-08-11T14:07:49.4460373+00:00",
+      "NumProgressed": 71665,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 37,
@@ -14807,7 +14812,7 @@
       "Name": "Roid Ranger",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 15049
+      "UsersEstimate": 15050
     },
     {
       "ID": "ACH_0013",
@@ -14879,7 +14884,7 @@
       "Name": "Foo Finder",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 5016
+      "UsersEstimate": 5017
     },
     {
       "ID": "ACH_0060",
@@ -14943,7 +14948,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 53031
+      "UsersEstimate": 53032
     },
     {
       "ID": "ACH_0211",
@@ -14959,7 +14964,7 @@
       "Name": "Too Old for This",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 33682
+      "UsersEstimate": 33683
     },
     {
       "ID": "ACH_0300",
@@ -15007,7 +15012,7 @@
       "Name": "Case Closed",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 25082
+      "UsersEstimate": 25083
     },
     {
       "ID": "ACH_0420",
@@ -15023,7 +15028,7 @@
       "Name": "Fancy Pants",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 25082
+      "UsersEstimate": 25083
     },
     {
       "ID": "ACH_0431",
@@ -15086,22 +15091,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 71664,
+      "Progressed": 71665,
       "Completed": 38
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 11,
-      "Completed": 11
+      "Progressed": 12,
+      "Completed": 12
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-08-11T09:02:19.7722551+00:00",
-  "LastChanged_Achievements": "2023-08-11T13:09:26.2039091+00:00",
+  "LastChanged_Achievements": "2023-08-11T14:07:49.4460366+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:57.6753466+00:00",
-  "LastUpdate_Ratings": "2023-08-11T13:03:56.2572058+00:00",
-  "LastUpdate_Achievements": "2023-08-11T13:09:26.2040111+00:00"
+  "LastUpdate_Ratings": "2023-08-11T14:03:04.7841401+00:00",
+  "LastUpdate_Achievements": "2023-08-11T14:07:49.4462284+00:00"
 }

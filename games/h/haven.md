@@ -12,16 +12,16 @@ Number of Ratings: 38  (23.09.2022)
 | Hug therapy | 44.00% | ~612 |
 | Over my dead body | 40.00% | ~556 |
 | Shake the rust off their feet | 21.00% | ~292 |
-| My little pony | 19.00% | ~264 |
+| My little pony | 20.00% | ~278 |
 | Strike! | 18.00% | ~250 |
 | A love supreme | 18.00% | ~250 |
 | In my shoes | 17.00% | ~236 |
 | Like new! | 15.00% | ~208 |
+| Don't look back | 13.00% | ~181 |
 | Heartstrings | 13.00% | ~181 |
 | Head in the clouds | 13.00% | ~181 |
 | Back to rust | 12.00% | ~167 |
 | Flower Powered | 12.00% | ~167 |
-| Don't look back | 12.00% | ~167 |
 | Unstoppable | 10.00% | ~139 |
 | Perfect timing | 9.00% | ~125 |
 | Self-sustainability | 8.00% | ~111 |

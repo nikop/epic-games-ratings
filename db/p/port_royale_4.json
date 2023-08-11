@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -240,9 +240,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 817,
+  "EOS_Progressed": 818,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1700,6 +1700,11 @@
       "Time": "2023-08-11T06:05:12.6630369+00:00",
       "NumProgressed": 817,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-11T14:07:29.2726281+00:00",
+      "NumProgressed": 818,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -1719,7 +1724,7 @@
       "Name": "Seafarer",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "ACH002",
@@ -1767,7 +1772,7 @@
       "Name": "My little farm",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "ACH008",
@@ -1815,7 +1820,7 @@
       "Name": "In a mint condition",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "ACH014",
@@ -1925,9 +1930,9 @@
       "ID": "ACH027",
       "SetID": "69nfp41",
       "Name": "I\u0027m out of here for a while",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 335
+      "UsersEstimate": 344
     },
     {
       "ID": "ACH028",
@@ -1951,7 +1956,7 @@
       "Name": "Walk the plank",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "ACH031",
@@ -2013,9 +2018,9 @@
       "ID": "ACH038",
       "SetID": "69nfp41",
       "Name": "O Captain! My Captain!",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 433
+      "UsersEstimate": 442
     },
     {
       "ID": "ACH039",
@@ -2063,7 +2068,7 @@
       "Name": "Greed for gold",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "ACH045",
@@ -2110,15 +2115,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 817,
+      "Progressed": 818,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-07-02T02:29:11.8786643+00:00",
-  "LastChanged_Achievements": "2023-08-11T13:09:11.8065659+00:00",
+  "LastChanged_Achievements": "2023-08-11T14:07:29.2726274+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:19.8733538+00:00",
-  "LastUpdate_Ratings": "2023-08-11T13:02:28.2906746+00:00",
-  "LastUpdate_Achievements": "2023-08-11T13:09:11.8066185+00:00"
+  "LastUpdate_Ratings": "2023-08-11T14:00:56.0141228+00:00",
+  "LastUpdate_Achievements": "2023-08-11T14:07:29.2726858+00:00"
 }

@@ -6,12 +6,12 @@ Rating: 4.60 (Ranked 390)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 25.00% | ~208 |
-| Rail Rat | 21.00% | ~174 |
+| Rail Rat | 21.00% | ~175 |
 | The Mysterious Stranger | 20.00% | ~166 |
-| Make Up For Lost Time | 18.00% | ~149 |
-| The Prince in Heels | 18.00% | ~149 |
-| Immaculate Aim | 18.00% | ~149 |
-| The Brass Boss | 18.00% | ~149 |
+| Make Up For Lost Time | 18.00% | ~150 |
+| The Prince in Heels | 18.00% | ~150 |
+| Immaculate Aim | 18.00% | ~150 |
+| The Brass Boss | 18.00% | ~150 |
 | The Steel Shadow | 17.00% | ~141 |
 | Time Flies | 17.00% | ~141 |
 | The Harder They Fall | 17.00% | ~141 |
@@ -24,11 +24,11 @@ Rating: 4.60 (Ranked 390)
 | Like Clockwork | 16.00% | ~133 |
 | The Betrayer | 16.00% | ~133 |
 | Golem Chaser | 16.00% | ~133 |
-| Right On Time | 15.00% | ~124 |
-| The Man Who Shattered Time | 15.00% | ~124 |
-| The Loose Cannon | 15.00% | ~124 |
-| Check Your Pulse | 15.00% | ~124 |
-| The Family Fortune | 15.00% | ~124 |
+| Right On Time | 15.00% | ~125 |
+| The Man Who Shattered Time | 15.00% | ~125 |
+| The Loose Cannon | 15.00% | ~125 |
+| Check Your Pulse | 15.00% | ~125 |
+| The Family Fortune | 15.00% | ~125 |
 | Treasure Trove | 14.00% | ~116 |
 | Street Style | 14.00% | ~116 |
 | Cartographer | 14.00% | ~116 |
@@ -59,7 +59,7 @@ Rating: 4.60 (Ranked 390)
 | Going to Live Forever | 0.60% | ~5 |
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 830 (Ranked 203)  
+Progressed: 831 (Ranked 203)  
 Completed: 5 (0.60%) (Ranked 130)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,6 +136,7 @@ Completed: 5 (0.60%) (Ranked 130)
 | 2023-08-07 | 827 | 5 |
 | 2023-08-08 | 828 | 5 |
 | 2023-08-09 | 830 | 5 |
+| 2023-08-11 | 831 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

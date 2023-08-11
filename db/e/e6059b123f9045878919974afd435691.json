@@ -4,8 +4,8 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 253,
-  "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 690,
+  "EOS_Progressed": 691,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1471,6 +1471,11 @@
       "Time": "2023-08-11T07:06:45.4339341+00:00",
       "NumProgressed": 690,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-11T14:08:16.8012915+00:00",
+      "NumProgressed": 691,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1482,7 +1487,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -1522,7 +1527,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -1554,7 +1559,7 @@
       "Name": "Capraphobia",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -1602,7 +1607,7 @@
       "Name": "Burnt Smell",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "BURN_ACHIEVEMENT_2",
@@ -1658,7 +1663,7 @@
       "Name": "The Way It Should Be",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "COOP_ACHIEVEMENT_2",
@@ -1762,7 +1767,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -1802,7 +1807,7 @@
       "Name": "And There We Go",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -1890,7 +1895,7 @@
       "Name": "Ancestral Banquet",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "NOTEM_ACHIEVEMENT_1",
@@ -2009,14 +2014,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 690,
+      "Progressed": 691,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-08-11T13:09:45.7721+00:00",
+  "LastChanged_Achievements": "2023-08-11T14:08:16.8012909+00:00",
   "LastUpdate_AppInfo": "2023-08-10T15:57:09.1792695+00:00",
-  "LastUpdate_Ratings": "2023-08-11T13:00:50.1497742+00:00",
-  "LastUpdate_Achievements": "2023-08-11T13:09:45.7721795+00:00"
+  "LastUpdate_Ratings": "2023-08-11T13:58:23.4980405+00:00",
+  "LastUpdate_Achievements": "2023-08-11T14:08:16.8013764+00:00"
 }
