@@ -47,7 +47,7 @@
 | 45 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.39% |
 | 46 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.26% |
 | 47 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 5.00% |
-| 48 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.82% |
+| 48 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.81% |
 | 49 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.79% |
 | 50 | [JARS](games/j/jars.md) | 4.76% |
 | 51 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
@@ -143,9 +143,9 @@
 | 141 | [Them and Us](games/t/them_and_us.md) | 0.49% |
 | 142 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.48% |
 | 143 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
-| 143 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.47% |
-| 145 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.46% |
-| 145 | [Train Valley](games/t/train_valley.md) | 0.46% |
+| 144 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.46% |
+| 144 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.46% |
+| 144 | [Train Valley](games/t/train_valley.md) | 0.46% |
 | 147 | [Tchia](games/t/tchia.md) | 0.45% |
 | 147 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.45% |
 | 149 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.44% |
