@@ -13,34 +13,34 @@
 | The Thrower | 50.00% | ~66 |
 | Duscot Steamcity | 50.00% | ~66 |
 | The Penguin | 47.00% | ~62 |
-| The Magician | 43.00% | ~56 |
-| The Tunneler | 39.00% | ~51 |
+| The Magician | 44.00% | ~58 |
+| The Tunneler | 40.00% | ~52 |
+| The Shield | 38.00% | ~50 |
 | Level Up!! | 37.00% | ~48 |
-| The Shield | 37.00% | ~48 |
 | Kill-streak | 32.00% | ~42 |
 | Topped up | 27.00% | ~35 |
 | The Idol | 27.00% | ~35 |
 | The Bird | 27.00% | ~35 |
 | The Ninja | 26.00% | ~34 |
-| Inferno Ruins | 24.00% | ~31 |
-| I'm Rich | 23.00% | ~30 |
+| Inferno Ruins | 25.00% | ~33 |
+| I'm Rich | 24.00% | ~31 |
 | Untouchable | 22.00% | ~29 |
-| 1 is all I need | 21.00% | ~28 |
+| 1 is all I need | 22.00% | ~29 |
 | The Slime | 21.00% | ~28 |
+| The Flower | 18.00% | ~24 |
 | The Giant | 18.00% | ~24 |
-| The Flower | 17.00% | ~22 |
-| Out of the Frying Pan... | 17.00% | ~22 |
-| The Blacksmith | 16.00% | ~21 |
-| The Ooze | 15.00% | ~20 |
+| Out of the Frying Pan... | 18.00% | ~24 |
+| The Blacksmith | 17.00% | ~22 |
+| The Ooze | 16.00% | ~21 |
+| The Assistant | 15.00% | ~20 |
+| The Steampunk | 15.00% | ~20 |
+| Ember | 15.00% | ~20 |
 | Turquoise | 15.00% | ~20 |
-| The Assistant | 14.00% | ~18 |
-| The Steampunk | 14.00% | ~18 |
-| Ember | 14.00% | ~18 |
 | Verse | 12.00% | ~16 |
 | The Droid | 11.00% | ~14 |
 | Iron | 11.00% | ~14 |
+| Tested | 9.00% | ~12 |
 | The Bomber | 8.00% | ~10 |
-| Tested | 8.00% | ~10 |
 | The Astronaut | 7.00% | ~9 |
 | Highway to Hell | 6.00% | ~8 |
 | Power Overwhelming | 5.00% | ~7 |

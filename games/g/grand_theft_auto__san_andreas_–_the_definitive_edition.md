@@ -10,7 +10,7 @@ Rating: 4.56 (Ranked 469)
 | All Dressed Up for San Fierro | 25.00% | ~2,982 |
 | The American Dream | 19.00% | ~2,267 |
 | School's Out | 18.00% | ~2,147 |
-| Smooth Moves | 16.00% | ~1,909 |
+| Smooth Moves | 17.00% | ~2,028 |
 | Today Was a Good Day | 15.00% | ~1,789 |
 | What happens in Las Venturas... | 14.00% | ~1,670 |
 | Horror of the Santa Maria | 11.00% | ~1,312 |

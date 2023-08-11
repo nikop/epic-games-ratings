@@ -6,13 +6,13 @@ Number of Ratings: 1,396  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 72.00% | ~6,111 |
+| Goofy's Investor | 72.00% | ~6,112 |
 | Photographer | 69.00% | ~5,857 |
-| Valley's Helper | 64.00% | ~5,432 |
+| Valley's Helper | 64.00% | ~5,433 |
 | Constructor | 53.00% | ~4,499 |
 | Renovator | 52.00% | ~4,414 |
-| Bestest Friend | 48.00% | ~4,074 |
-| Banker | 40.00% | ~3,395 |
+| Bestest Friend | 48.00% | ~4,075 |
+| Banker | 40.00% | ~3,396 |
 | Gardener | 32.00% | ~2,716 |
 | Generous | 23.00% | ~1,952 |
 | Chef Cook | 18.00% | ~1,528 |
@@ -22,8 +22,8 @@ Number of Ratings: 1,396  (23.09.2022)
 | Thorn Cleaner | 4.00% | ~340 |
 | Chit Chatter | 3.00% | ~255 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,488 (Ranked 125)  
-Completed: 192 (2.26%) (Ranked 84)  
+Progressed: 8,489 (Ranked 125)  
+Completed: 193 (2.27%) (Ranked 84)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -86,10 +86,10 @@ Completed: 192 (2.26%) (Ranked 84)
 | 2023-08-08 | 8,408 | 192 |
 | 2023-08-09 | 8,444 | 192 |
 | 2023-08-10 | 8,477 | 192 |
-| 2023-08-11 | 8,488 | 192 |
+| 2023-08-11 | 8,489 | 193 |
 ## Awards
 Max (Great for Beginners): 919  (Ranked 148)  
-Sum: 7,390 (Ranked 106)  
+Sum: 7,391 (Ranked 106)  
 Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
@@ -102,7 +102,7 @@ Diff (max vs sum): 42
 | This game has Quickly Understood Controls | 732 |
 | This game is Extremely Fun | 728 |
 | This game has a Creative Community | 616 |
-| This game has Easy Combat | 490 |
+| This game has Easy Combat | 491 |
 | This game has Obsessive Gameplay | 415 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -259,4 +259,4 @@ Diff (max vs sum): 42
 | 2023-08-08 | 4.76 | - | 918 | 7,377 |
 | 2023-08-09 | 4.76 | - | 918 | 7,379 |
 | 2023-08-10 | 4.76 | - | 919 | 7,388 |
-| 2023-08-11 | 4.76 | - | 919 | 7,390 |
+| 2023-08-11 | 4.76 | - | 919 | 7,391 |

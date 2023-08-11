@@ -5,60 +5,60 @@ Rating: 4.69 (Ranked 212)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 27.00% | ~170,228 |
-| 50 HEADSHOTS | 25.00% | ~157,618 |
-| SCIENCE AND INDUSTRY | 25.00% | ~157,618 |
-| FINISHED CHAPTER 1 | 24.00% | ~151,314 |
-| FINISHED CHAPTER 2 | 17.00% | ~107,180 |
-| 200 HEADSHOTS | 15.00% | ~94,571 |
-| FINISHED CHAPTER 3 | 14.00% | ~88,266 |
-| FINISHED CHAPTER 4 | 12.00% | ~75,657 |
-| FINISH CHAPTER 5 | 10.00% | ~63,047 |
-| FINISH CHAPTER 6 | 9.00% | ~56,743 |
-| CATHARTIC ESCAPISM | 9.00% | ~56,743 |
-| 1000 KILLS | 7.00% | ~44,133 |
-| FIREFIGHT LEVEL 10 | 3.00% | ~18,914 |
-| FIREFIGHT LEVEL 20 | 1.00% | ~6,305 |
-| FIRST BLOOD | 1.00% | ~6,305 |
-| PACEMAKER | 1.00% | ~6,305 |
+| 100 KILLS | 27.00% | ~170,249 |
+| 50 HEADSHOTS | 25.00% | ~157,638 |
+| SCIENCE AND INDUSTRY | 25.00% | ~157,638 |
+| FINISHED CHAPTER 1 | 24.00% | ~151,332 |
+| FINISHED CHAPTER 2 | 17.00% | ~107,194 |
+| 200 HEADSHOTS | 15.00% | ~94,583 |
+| FINISHED CHAPTER 3 | 14.00% | ~88,277 |
+| FINISHED CHAPTER 4 | 12.00% | ~75,666 |
+| FINISH CHAPTER 5 | 10.00% | ~63,055 |
+| FINISH CHAPTER 6 | 9.00% | ~56,750 |
+| CATHARTIC ESCAPISM | 9.00% | ~56,750 |
+| 1000 KILLS | 7.00% | ~44,139 |
+| FIREFIGHT LEVEL 10 | 3.00% | ~18,917 |
+| FIREFIGHT LEVEL 20 | 1.00% | ~6,306 |
+| FIRST BLOOD | 1.00% | ~6,306 |
+| PACEMAKER | 1.00% | ~6,306 |
 | OUT OF ORDER | 0.80% | ~5,044 |
 | TIME PARADOX | 0.80% | ~5,044 |
-| FIREFIGHT LEVEL 30 | 0.70% | ~4,413 |
+| FIREFIGHT LEVEL 30 | 0.70% | ~4,414 |
 | PARTYHARD | 0.60% | ~3,783 |
-| NEW GAME PLUS | 0.50% | ~3,152 |
+| NEW GAME PLUS | 0.50% | ~3,153 |
 | FIREFIGHT LEVEL 40 | 0.40% | ~2,522 |
-| CHURCH | 0.30% | ~1,891 |
+| CHURCH | 0.30% | ~1,892 |
 | FIREFIGHT LEVEL 50 | 0.20% | ~1,261 |
 | REMEMBER THE ARMORY | 0.20% | ~1,261 |
 | 5 RUNS | 0.20% | ~1,261 |
-| HEY THATS CHEATING | 0.10% | ~630 |
-| COMPLIMENTS TO THE CHEF | 0.10% | ~630 |
-| BUT WHY? | 0.10% | ~630 |
-| CHALET | 0.10% | ~630 |
-| COMMAND - [EXIST] | 0.10% | ~630 |
-| FIREFIGHT LEVEL 60 | 0.10% | ~630 |
-| FIREFIGHT LEVEL 70 | 0.10% | ~630 |
-| FIREFIGHT LEVEL 80 | 0.10% | ~630 |
-| FIRE IN THE HOLE | 0.10% | ~630 |
-| FRESH | 0.10% | ~630 |
-| HUGE SUCCESS | 0.10% | ~630 |
-| ICARUS | 0.10% | ~630 |
-| INPUT - [QUERY] | 0.10% | ~630 |
-| KITTED OUT | 0.10% | ~630 |
-| HOLOGRAM SUMMER | 0.10% | ~630 |
-| OFF THE HINGES | 0.10% | ~630 |
-| ON THE EDGE | 0.10% | ~630 |
-| OVERCLOCKED | 0.10% | ~630 |
-| PAIN TRAIN | 0.10% | ~630 |
-| 10 RUNS | 0.10% | ~630 |
-| 20 RUNS | 0.10% | ~630 |
-| SAVOR THE MOMENT | 0.10% | ~630 |
-| SOUL - HORIZONS | 0.10% | ~630 |
-| THE COLLECTOR | 0.10% | ~630 |
-| THE GAMBLER | 0.10% | ~630 |
-| WARRIOR IN A GARDEN | 0.10% | ~630 |
+| HEY THATS CHEATING | 0.10% | ~631 |
+| COMPLIMENTS TO THE CHEF | 0.10% | ~631 |
+| BUT WHY? | 0.10% | ~631 |
+| CHALET | 0.10% | ~631 |
+| COMMAND - [EXIST] | 0.10% | ~631 |
+| FIREFIGHT LEVEL 60 | 0.10% | ~631 |
+| FIREFIGHT LEVEL 70 | 0.10% | ~631 |
+| FIREFIGHT LEVEL 80 | 0.10% | ~631 |
+| FIRE IN THE HOLE | 0.10% | ~631 |
+| FRESH | 0.10% | ~631 |
+| HUGE SUCCESS | 0.10% | ~631 |
+| ICARUS | 0.10% | ~631 |
+| INPUT - [QUERY] | 0.10% | ~631 |
+| KITTED OUT | 0.10% | ~631 |
+| HOLOGRAM SUMMER | 0.10% | ~631 |
+| OFF THE HINGES | 0.10% | ~631 |
+| ON THE EDGE | 0.10% | ~631 |
+| OVERCLOCKED | 0.10% | ~631 |
+| PAIN TRAIN | 0.10% | ~631 |
+| 10 RUNS | 0.10% | ~631 |
+| 20 RUNS | 0.10% | ~631 |
+| SAVOR THE MOMENT | 0.10% | ~631 |
+| SOUL - HORIZONS | 0.10% | ~631 |
+| THE COLLECTOR | 0.10% | ~631 |
+| THE GAMBLER | 0.10% | ~631 |
+| WARRIOR IN A GARDEN | 0.10% | ~631 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 630,473 (Ranked 26)  
+Progressed: 630,552 (Ranked 26)  
 Completed: 46 (0.01%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,7 +171,7 @@ Completed: 46 (0.01%) (Ranked 239)
 | 2023-08-08 | 626,340 | 43 |
 | 2023-08-09 | 628,064 | 43 |
 | 2023-08-10 | 629,774 | 45 |
-| 2023-08-11 | 630,473 | 46 |
+| 2023-08-11 | 630,552 | 46 |
 ## Awards
 Max (Great Boss Battles): 238  (Ranked 257)  
 Sum: 238 (Ranked 354)  

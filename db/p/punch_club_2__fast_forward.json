@@ -943,17 +943,17 @@
       "ID": "any_stat_5",
       "SetID": "69co12a",
       "Name": "Fitness professional",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 185
+      "UsersEstimate": 188
     },
     {
       "ID": "buy_trainer",
       "SetID": "69co12a",
       "Name": "Your own amateur gym",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 181
     },
     {
       "ID": "carla_journey",
@@ -1087,9 +1087,9 @@
       "ID": "hack_gpp",
       "SetID": "69co12a",
       "Name": "Little hacker",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 139
+      "UsersEstimate": 142
     },
     {
       "ID": "handyman",
@@ -1406,8 +1406,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-08-11T10:05:05.6421189+00:00",
+  "LastChanged_Achievements": "2023-08-11T11:04:26.9157264+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:48.1217165+00:00",
-  "LastUpdate_Ratings": "2023-08-11T09:59:02.797732+00:00",
-  "LastUpdate_Achievements": "2023-08-11T10:05:05.6421852+00:00"
+  "LastUpdate_Ratings": "2023-08-11T10:58:41.6270119+00:00",
+  "LastUpdate_Achievements": "2023-08-11T11:04:26.9158502+00:00"
 }

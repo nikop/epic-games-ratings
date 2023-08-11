@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fire in the... nevermind | 48.00% | ~48 |
+| Fire in the... nevermind | 49.00% | ~49 |
 | Chapter I | 47.00% | ~47 |
 | Haute cuisine | 43.00% | ~43 |
 | I didn't do it! | 40.00% | ~40 |
@@ -12,8 +12,8 @@
 | Artistic fool | 34.00% | ~34 |
 | Keep away from children | 34.00% | ~34 |
 | Wooooooow! | 34.00% | ~34 |
+| Open up wide | 30.00% | ~30 |
 | Chapter II | 30.00% | ~30 |
-| Open up wide | 29.00% | ~29 |
 | Achoo!! | 29.00% | ~29 |
 | Chapter III | 28.00% | ~28 |
 | Like a moth in the Wind | 28.00% | ~28 |
@@ -39,9 +39,9 @@
 | Where there is life, there is hope | 8.00% | ~8 |
 | Artistic master | 7.00% | ~7 |
 | Sadist | 5.00% | ~5 |
+| Fartjokes! | 5.00% | ~5 |
 | The hands of a healer | 5.00% | ~5 |
 | Shut up clown! | 5.00% | ~5 |
-| Fartjokes! | 4.00% | ~4 |
 | Life is but a dream | 4.00% | ~4 |
 | Checkmate in 8 moves | 3.00% | ~3 |
 | Summit attempt | 2.00% | ~2 |

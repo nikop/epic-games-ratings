@@ -8,8 +8,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | ---- | ---------- | ----- |
 | Sponsored by Argon | 0.90% | ~1,209 |
 | Titan's First Steps | 0.90% | ~1,209 |
-| Basic in Bulk | 0.80% | ~1,074 |
-| Tinkle of Coins | 0.80% | ~1,074 |
+| Basic in Bulk | 0.80% | ~1,075 |
+| Tinkle of Coins | 0.80% | ~1,075 |
 | Disintermediation | 0.60% | ~806 |
 | It's Free Real Estate | 0.60% | ~806 |
 | Capitalism Ho! | 0.60% | ~806 |
@@ -24,6 +24,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Through Repetition, Perfection | 0.40% | ~537 |
 | On the Path to Greatness | 0.30% | ~403 |
 | Ascended | 0.30% | ~403 |
+| Vanity, Verily | 0.30% | ~403 |
 | Bounty Hunters | 0.30% | ~403 |
 | Blank Page Syndrome | 0.30% | ~403 |
 | Demand for Supplies | 0.30% | ~403 |
@@ -43,7 +44,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Tax not Included | 0.20% | ~269 |
 | The King's Caprice | 0.20% | ~269 |
 | Research & Development | 0.20% | ~269 |
-| Vanity, Verily | 0.20% | ~269 |
 | Big Game Hunting | 0.20% | ~269 |
 | Fated Encounters | 0.20% | ~269 |
 | For the Hoard! | 0.20% | ~269 |
@@ -71,6 +71,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Laden with Loot | 0.20% | ~269 |
 | Natural 20 | 0.20% | ~269 |
 | Seasoned Journeyman | 0.20% | ~269 |
+| Precision Engineering | 0.20% | ~269 |
 | Attrition Mission | 0.20% | ~269 |
 | Glittering Collection | 0.20% | ~269 |
 | Black Friday Special | 0.20% | ~269 |
@@ -104,7 +105,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Miracle Alchemist | 0.10% | ~134 |
 | Bountiful Harvest | 0.10% | ~134 |
 | Anything not Nailed Down | 0.10% | ~134 |
-| Precision Engineering | 0.10% | ~134 |
 | The Greatest Grind | 0.10% | ~134 |
 | All or Nothing! | 0.10% | ~134 |
 | Scourge of the Seas | 0.10% | ~134 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Economy of Scarce | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,310 (Ranked 66)  
+Progressed: 134,317 (Ranked 66)  
 Completed: 132 (0.10%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,7 +232,7 @@ Completed: 132 (0.10%) (Ranked 200)
 | 2023-08-08 | 134,169 | 131 |
 | 2023-08-09 | 134,223 | 131 |
 | 2023-08-10 | 134,276 | 131 |
-| 2023-08-11 | 134,310 | 132 |
+| 2023-08-11 | 134,317 | 132 |
 ## Awards
 Max (Great for Beginners): 4,694  (Ranked 71)  
 Sum: 27,078 (Ranked 46)  

@@ -25,6 +25,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Chapter III: The Man Who Sold the World | 0.20% | ~930 |
 | Chapter IV: Through the Looking Glass | 0.20% | ~930 |
 | Through the mirror | 0.20% | ~930 |
+| Meet your maker | 0.20% | ~930 |
 | Admiral Okonkwo | 0.20% | ~930 |
 | The Survivalists | 0.20% | ~930 |
 | Tetsuo | 0.20% | ~930 |
@@ -37,7 +38,6 @@ Number of Ratings: 1,003  (23.09.2022)
 | A Frozen Lady | 0.10% | ~465 |
 | Kill the Doctor | 0.10% | ~465 |
 | Forsaken | 0.10% | ~465 |
-| Meet your maker | 0.10% | ~465 |
 | Mercy | 0.10% | ~465 |
 | The Impersonator | 0.10% | ~465 |
 | The Kid | 0.10% | ~465 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~9 |
 | Kronos Rule | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 464,981 (Ranked 37)  
+Progressed: 464,983 (Ranked 37)  
 Completed: 17 (0.00%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,7 +199,7 @@ Completed: 17 (0.00%) (Ranked 252)
 | 2023-08-08 | 464,805 | 16 |
 | 2023-08-09 | 464,877 | 16 |
 | 2023-08-10 | 464,950 | 17 |
-| 2023-08-11 | 464,981 | 17 |
+| 2023-08-11 | 464,983 | 17 |
 ## Awards
 Max (Character Customization): 214  (Ranked 268)  
 Sum: 214 (Ranked 364)  

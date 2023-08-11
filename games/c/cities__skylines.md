@@ -6,36 +6,36 @@ Number of Ratings: 25,248  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pioneer | 71.00% | ~693,683 |
-| Green Energy | 60.00% | ~586,211 |
-| Foggy Weather | 59.00% | ~576,441 |
-| Singing In The- | 59.00% | ~576,441 |
-| Unpopular Mayor | 41.00% | ~400,578 |
-| Power at Your Fingertips | 33.00% | ~322,416 |
-| City Planner | 23.00% | ~224,714 |
-| Rolling in Dough | 20.00% | ~195,404 |
-| Does My Bum Look Big In This? | 17.00% | ~166,093 |
-| Climbing the Social Ladder | 16.00% | ~156,323 |
-| Safe City | 14.00% | ~136,783 |
-| Quay-King | 11.00% | ~107,472 |
-| Lawmaker | 10.00% | ~97,702 |
-| With Canals You Can! | 10.00% | ~97,702 |
-| Nomen Est Omen | 7.00% | ~68,391 |
-| Well Informed | 6.00% | ~58,621 |
-| Fire Watch | 5.00% | ~48,851 |
-| Greenest City | 4.00% | ~39,081 |
-| Heavenly City | 3.00% | ~29,311 |
-| Reporting! | 3.00% | ~29,311 |
-| SIMulated City | 3.00% | ~29,311 |
-| The Safest Town | 3.00% | ~29,311 |
-| Professional Dumper | 2.00% | ~19,540 |
-| City in Motion | 1.00% | ~9,770 |
-| Earthloving City | 1.00% | ~9,770 |
-| Metropolis | 1.00% | ~9,770 |
-| Higher Education | 0.80% | ~7,816 |
-| Beam Me Up | 0.70% | ~6,839 |
-| Full Capacity | 0.60% | ~5,862 |
-| Terraformer | 0.60% | ~5,862 |
+| Pioneer | 71.00% | ~693,735 |
+| Green Energy | 60.00% | ~586,255 |
+| Foggy Weather | 59.00% | ~576,484 |
+| Singing In The- | 59.00% | ~576,484 |
+| Unpopular Mayor | 41.00% | ~400,608 |
+| Power at Your Fingertips | 33.00% | ~322,440 |
+| City Planner | 23.00% | ~224,731 |
+| Rolling in Dough | 20.00% | ~195,418 |
+| Does My Bum Look Big In This? | 17.00% | ~166,106 |
+| Climbing the Social Ladder | 16.00% | ~156,335 |
+| Safe City | 14.00% | ~136,793 |
+| Quay-King | 11.00% | ~107,480 |
+| Lawmaker | 10.00% | ~97,709 |
+| With Canals You Can! | 10.00% | ~97,709 |
+| Nomen Est Omen | 7.00% | ~68,396 |
+| Well Informed | 6.00% | ~58,626 |
+| Fire Watch | 5.00% | ~48,855 |
+| Greenest City | 4.00% | ~39,084 |
+| Heavenly City | 3.00% | ~29,313 |
+| Reporting! | 3.00% | ~29,313 |
+| SIMulated City | 3.00% | ~29,313 |
+| The Safest Town | 3.00% | ~29,313 |
+| Professional Dumper | 2.00% | ~19,542 |
+| City in Motion | 1.00% | ~9,771 |
+| Earthloving City | 1.00% | ~9,771 |
+| Metropolis | 1.00% | ~9,771 |
+| Higher Education | 0.80% | ~7,817 |
+| Beam Me Up | 0.70% | ~6,840 |
+| Full Capacity | 0.60% | ~5,863 |
+| Terraformer | 0.60% | ~5,863 |
 | Decorator | 0.50% | ~4,885 |
 | Drop the Base | 0.50% | ~4,885 |
 | It's heading right for us! | 0.50% | ~4,885 |
@@ -126,7 +126,7 @@ Number of Ratings: 25,248  (23.09.2022)
 | World of Rotorcraft | 0.10% | ~977 |
 | Z00 | 0.10% | ~977 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 977,019 (Ranked 13)  
+Progressed: 977,092 (Ranked 13)  
 Completed: 10 (0.00%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,20 +239,20 @@ Completed: 10 (0.00%) (Ranked 252)
 | 2023-08-08 | 972,785 | 10 |
 | 2023-08-09 | 974,648 | 10 |
 | 2023-08-10 | 976,391 | 10 |
-| 2023-08-11 | 977,019 | 10 |
+| 2023-08-11 | 977,092 | 10 |
 ## Awards
 Max (Relaxing): 5,115  (Ranked 68)  
-Sum: 38,755 (Ranked 32)  
+Sum: 38,763 (Ranked 32)  
 Diff (max vs sum): 36  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 5,115 |
-| This game is Great for Beginners | 5,103 |
+| This game is Great for Beginners | 5,108 |
 | This game is Educational | 4,790 |
 | This game has Quickly Understood Controls | 4,774 |
 | This game is Extremely Fun | 4,461 |
 | This game is Highly Recommended | 4,311 |
-| This game has Amazing Storytelling | 3,618 |
+| This game has Amazing Storytelling | 3,621 |
 | This game has a Creative Community | 3,488 |
 | This game has Amazing Characters | 3,095 |
 | This game has Obsessive Gameplay | 2,497 |
@@ -456,4 +456,4 @@ Diff (max vs sum): 36
 | 2023-08-08 | 4.65 | - | 5,091 | 38,634 |
 | 2023-08-09 | 4.65 | - | 5,102 | 38,684 |
 | 2023-08-10 | 4.65 | - | 5,109 | 38,726 |
-| 2023-08-11 | 4.65 | - | 5,115 | 38,755 |
+| 2023-08-11 | 4.65 | - | 5,115 | 38,763 |

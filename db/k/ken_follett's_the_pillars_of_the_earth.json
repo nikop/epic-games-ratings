@@ -495,9 +495,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 14475,
+  "EOS_Progressed": 14476,
   "EOS_Completed": 108,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -7860,6 +7860,11 @@
       "Time": "2023-08-11T10:05:05.2991166+00:00",
       "NumProgressed": 14475,
       "NumCompleted": 108
+    },
+    {
+      "Time": "2023-08-11T11:04:26.5843276+00:00",
+      "NumProgressed": 14476,
+      "NumCompleted": 108
     }
   ],
   "TotalAchievements": 41,
@@ -7879,7 +7884,7 @@
       "Name": "Rebel without a cause",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 868
+      "UsersEstimate": 869
     },
     {
       "ID": "tpote_achievement_11",
@@ -7975,7 +7980,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4342
+      "UsersEstimate": 4343
     },
     {
       "ID": "tpote_achievement_22",
@@ -8183,7 +8188,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 3184
+      "UsersEstimate": 3185
     },
     {
       "ID": "tpote_achievement_9",
@@ -8191,22 +8196,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 5066
+      "UsersEstimate": 5067
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 14475,
+      "Progressed": 14476,
       "Completed": 108
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-08-03T13:08:30.3350415+00:00",
-  "LastChanged_Achievements": "2023-08-11T10:05:05.299116+00:00",
+  "LastChanged_Achievements": "2023-08-11T11:04:26.5843269+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:55.7503888+00:00",
-  "LastUpdate_Ratings": "2023-08-11T10:02:31.1860208+00:00",
-  "LastUpdate_Achievements": "2023-08-11T10:05:05.2991853+00:00"
+  "LastUpdate_Ratings": "2023-08-11T11:01:31.1441072+00:00",
+  "LastUpdate_Achievements": "2023-08-11T11:04:26.5844857+00:00"
 }

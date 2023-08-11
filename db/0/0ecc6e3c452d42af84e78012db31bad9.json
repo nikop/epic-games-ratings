@@ -4,7 +4,7 @@
   "ProductSlug": "pixel-art-coloring-book-a485ef",
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 126,
-  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewPlayers": 98,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 2187,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 208,
+  "EOS_NewPlayers": 207,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -4057,9 +4057,9 @@
       "ID": "ach_no_boosters",
       "SetID": "3h4khpo",
       "Name": "Master",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 831
+      "UsersEstimate": 853
     },
     {
       "ID": "ach_tornado",
@@ -4080,8 +4080,8 @@
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-08-11T10:07:12.7182525+00:00",
+  "LastChanged_Achievements": "2023-08-11T11:06:13.6606646+00:00",
   "LastUpdate_AppInfo": "2023-08-04T11:57:01.4081798+00:00",
-  "LastUpdate_Ratings": "2023-08-11T09:58:20.3953027+00:00",
-  "LastUpdate_Achievements": "2023-08-11T10:07:12.7182958+00:00"
+  "LastUpdate_Ratings": "2023-08-11T10:58:01.2202778+00:00",
+  "LastUpdate_Achievements": "2023-08-11T11:06:13.6607295+00:00"
 }

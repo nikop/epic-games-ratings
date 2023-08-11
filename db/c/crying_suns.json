@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 364,
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 252,
-  "Ranking_EOS_NewPlayers": 79,
+  "Ranking_EOS_NewPlayers": 78,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
@@ -562,7 +562,7 @@
       "Count": 214
     }
   ],
-  "EOS_Progressed": 464981,
+  "EOS_Progressed": 464983,
   "EOS_Completed": 17,
   "EOS_NewPlayers": 503,
   "EOS_NewCompleters": 1,
@@ -12252,6 +12252,11 @@
       "Time": "2023-08-11T10:06:08.4246006+00:00",
       "NumProgressed": 464981,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-08-11T11:05:20.0747811+00:00",
+      "NumProgressed": 464983,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 79,
@@ -12389,9 +12394,9 @@
       "ID": "achievement_story_meet_oberon",
       "SetID": "8cokdon",
       "Name": "Meet your maker",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 465
+      "UsersEstimate": 930
     },
     {
       "ID": "achievement_story_meet_okonkwo",
@@ -12894,21 +12899,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 8915,
+      "Progressed": 8917,
       "Completed": 2355
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 464981,
+      "Progressed": 464983,
       "Completed": 17
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-07-02T08:59:13.8125338+00:00",
-  "LastChanged_Achievements": "2023-08-11T10:06:08.4245999+00:00",
+  "LastChanged_Achievements": "2023-08-11T11:05:20.0747803+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:16.4768007+00:00",
-  "LastUpdate_Ratings": "2023-08-11T10:01:36.9783192+00:00",
-  "LastUpdate_Achievements": "2023-08-11T10:06:08.4247964+00:00"
+  "LastUpdate_Ratings": "2023-08-11T11:00:45.5835324+00:00",
+  "LastUpdate_Achievements": "2023-08-11T11:05:20.0750574+00:00"
 }

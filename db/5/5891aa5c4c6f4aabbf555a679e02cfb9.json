@@ -260,17 +260,17 @@
       "ID": "ACHIEVEMENT_07",
       "SetID": "b36c5kb",
       "Name": "Not Running This Time",
-      "Percentage": 25,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVEMENT_08",
       "SetID": "b36c5kb",
       "Name": "The Team Psychologist",
-      "Percentage": 20,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_09",
@@ -516,9 +516,9 @@
       "ID": "ACHIEVEMENT_39",
       "SetID": "b36c5kb",
       "Name": "Clearing a Path",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -627,8 +627,8 @@
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-08-11T10:04:26.1181549+00:00",
+  "LastChanged_Achievements": "2023-08-11T11:03:43.9225041+00:00",
   "LastUpdate_AppInfo": "2023-08-09T15:57:03.4224426+00:00",
-  "LastUpdate_Ratings": "2023-08-11T09:57:39.7367115+00:00",
-  "LastUpdate_Achievements": "2023-08-11T10:04:26.1181988+00:00"
+  "LastUpdate_Ratings": "2023-08-11T10:57:27.9660711+00:00",
+  "LastUpdate_Achievements": "2023-08-11T11:03:43.9225958+00:00"
 }

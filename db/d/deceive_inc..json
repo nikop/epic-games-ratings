@@ -220,9 +220,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17250,
+  "EOS_Progressed": 17252,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 394,
+  "EOS_NewPlayers": 387,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7985,6 +7985,11 @@
       "Time": "2023-08-11T10:05:29.447997+00:00",
       "NumProgressed": 17250,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-11T11:04:47.1521822+00:00",
+      "NumProgressed": 17252,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -7996,7 +8001,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5002
+      "UsersEstimate": 5003
     },
     {
       "ID": "0002",
@@ -8004,7 +8009,7 @@
       "Name": "License to Thrill",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "0003",
@@ -8012,7 +8017,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2932
+      "UsersEstimate": 2933
     },
     {
       "ID": "0004",
@@ -8076,7 +8081,7 @@
       "Name": "Extraction Confusion",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "0012",
@@ -8100,7 +8105,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2932
+      "UsersEstimate": 2933
     },
     {
       "ID": "0015",
@@ -8108,7 +8113,7 @@
       "Name": "The terminals are not enough",
       "Percentage": 1,
       "XP": 115,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "0016",
@@ -8140,7 +8145,7 @@
       "Name": "Lose Another Day",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "0020",
@@ -8220,7 +8225,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2242
+      "UsersEstimate": 2243
     },
     {
       "ID": "0030",
@@ -8283,7 +8288,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17250,
+      "Progressed": 17252,
       "Completed": 1
     }
   ],
@@ -8291,8 +8296,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-08T19:59:53.3803436+00:00",
-  "LastChanged_Achievements": "2023-08-11T10:05:29.4479964+00:00",
+  "LastChanged_Achievements": "2023-08-11T11:04:47.1521815+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:35.6736811+00:00",
-  "LastUpdate_Ratings": "2023-08-11T10:02:09.3214494+00:00",
-  "LastUpdate_Achievements": "2023-08-11T10:05:29.4481114+00:00"
+  "LastUpdate_Ratings": "2023-08-11T11:01:14.6318412+00:00",
+  "LastUpdate_Achievements": "2023-08-11T11:04:47.1523107+00:00"
 }

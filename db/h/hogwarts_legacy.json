@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 78,
+  "Ranking_EOS_NewPlayers": 79,
   "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -6132,9 +6132,9 @@
       "Count": 580
     }
   ],
-  "EOS_Progressed": 289816,
+  "EOS_Progressed": 289817,
   "EOS_Completed": 448,
-  "EOS_NewPlayers": 504,
+  "EOS_NewPlayers": 501,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -18282,6 +18282,11 @@
       "Time": "2023-08-11T10:06:58.7658018+00:00",
       "NumProgressed": 289816,
       "NumCompleted": 448
+    },
+    {
+      "Time": "2023-08-11T11:06:01.96484+00:00",
+      "NumProgressed": 289817,
+      "NumCompleted": 448
     }
   ],
   "TotalAchievements": 45,
@@ -18301,7 +18306,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 26083
+      "UsersEstimate": 26084
     },
     {
       "ID": "PFA_11",
@@ -18309,7 +18314,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 26083
+      "UsersEstimate": 26084
     },
     {
       "ID": "PFA_12",
@@ -18317,7 +18322,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 26083
+      "UsersEstimate": 26084
     },
     {
       "ID": "PFA_13",
@@ -18325,7 +18330,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 26083
+      "UsersEstimate": 26084
     },
     {
       "ID": "PFA_14",
@@ -18349,7 +18354,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 26083
+      "UsersEstimate": 26084
     },
     {
       "ID": "PFA_17",
@@ -18397,7 +18402,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26083
+      "UsersEstimate": 26084
     },
     {
       "ID": "PFA_22",
@@ -18421,7 +18426,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26083
+      "UsersEstimate": 26084
     },
     {
       "ID": "PFA_25",
@@ -18445,7 +18450,7 @@
       "Name": "Going Through the Potions",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 8694
+      "UsersEstimate": 8695
     },
     {
       "ID": "PFA_28",
@@ -18477,7 +18482,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26083
+      "UsersEstimate": 26084
     },
     {
       "ID": "PFA_31",
@@ -18509,7 +18514,7 @@
       "Name": "Floo Around the World",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8694
+      "UsersEstimate": 8695
     },
     {
       "ID": "PFA_35",
@@ -18541,7 +18546,7 @@
       "Name": "The Intrepid Explorer",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 8694
+      "UsersEstimate": 8695
     },
     {
       "ID": "PFA_39",
@@ -18549,7 +18554,7 @@
       "Name": "Coasting Along",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 26083
+      "UsersEstimate": 26084
     },
     {
       "ID": "PFA_4",
@@ -18613,7 +18618,7 @@
       "Name": "The Wise Owl",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8694
+      "UsersEstimate": 8695
     },
     {
       "ID": "PFA_6",
@@ -18652,7 +18657,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 289816,
+      "Progressed": 289817,
       "Completed": 448
     }
   ],
@@ -18660,8 +18665,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-08-11T02:58:38.5365346+00:00",
-  "LastChanged_Achievements": "2023-08-11T10:06:58.7658012+00:00",
+  "LastChanged_Achievements": "2023-08-11T11:06:01.9648377+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:46.8672159+00:00",
-  "LastUpdate_Ratings": "2023-08-11T09:59:01.2565596+00:00",
-  "LastUpdate_Achievements": "2023-08-11T10:06:58.765916+00:00"
+  "LastUpdate_Ratings": "2023-08-11T10:58:39.4257922+00:00",
+  "LastUpdate_Achievements": "2023-08-11T11:06:01.9650342+00:00"
 }
