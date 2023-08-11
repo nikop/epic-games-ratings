@@ -7,7 +7,7 @@
 | 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 192,745 | 4.19 | 862 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 166,329 | 4.88 | 18 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 145,993 | 4.52 | 526 |
-| 8 | [Borderlands 3](games/b/borderlands_3.md) | 114,497 | 4.69 | 212 |
+| 8 | [Borderlands 3](games/b/borderlands_3.md) | 114,553 | 4.69 | 212 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 75,281 | 4.62 | 348 |
 | 10 | [VALORANT](games/v/valorant.md) | 64,266 | 4.53 | 512 |
 | 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 59,925 | 4.58 | 426 |
@@ -23,7 +23,7 @@
 | 21 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 16,905 | 4.25 | 819 |
 | 22 | [Warframe](games/w/warframe.md) | 16,418 | 4.61 | 367 |
 | 23 | [League of Legends](games/l/league_of_legends.md) | 15,276 | 4.21 | 848 |
-| 24 | [Borderlands 2](games/b/borderlands_2.md) | 15,022 | 4.76 | 119 |
+| 24 | [Borderlands 2](games/b/borderlands_2.md) | 15,032 | 4.76 | 119 |
 | 25 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,442 | 4.58 | 426 |
 | 26 | [Maneater](games/m/maneater.md) | 13,617 | 4.49 | 575 |
 | 27 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,570 | 4.60 | 390 |
@@ -88,14 +88,14 @@
 | 86 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,489 | 4.46 | 616 |
 | 87 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,361 | 4.68 | 241 |
 | 88 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,340 | 4.68 | 241 |
-| 89 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,296 | 4.76 | 119 |
+| 89 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,298 | 4.76 | 119 |
 | 90 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 3,284 | 4.68 | 241 |
 | 91 | [Hades](games/h/hades.md) | 3,207 | 4.92 | 4 |
 | 92 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,196 | 4.57 | 448 |
 | 93 | [Trackmania](games/t/trackmania.md) | 3,111 | 4.67 | 258 |
 | 94 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3,057 | 3.98 | 932 |
 | 95 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 2,674 | 4.82 | 66 |
-| 96 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,636 | 4.51 | 540 |
+| 96 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,640 | 4.51 | 540 |
 | 97 | [Among Us](games/a/among_us.md) | 2,605 | 4.57 | 448 |
 | 98 | [Path of Exile](games/p/path_of_exile.md) | 2,549 | 4.61 | 367 |
 | 99 | [RAGE 2](games/r/rage_2.md) | 2,518 | 4.27 | 807 |
@@ -215,7 +215,7 @@
 | 213 | [Warface](games/w/warface.md) | 405 | 3.91 | 944 |
 | 214 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 399 | 3.94 | 938 |
 | 214 | [Slime Rancher](games/s/slime_rancher.md) | 399 | 4.82 | 66 |
-| 216 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 393 | 4.69 | 212 |
+| 216 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 395 | 4.69 | 212 |
 | 217 | [Nuclear Throne](games/n/nuclear_throne.md) | 385 | 4.79 | 88 |
 | 218 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 382 | 4.61 | 367 |
 | 219 | [For The King](games/f/for_the_king.md) | 379 | 4.70 | 198 |
@@ -227,9 +227,9 @@
 | 225 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 355 | 4.76 | 119 |
 | 226 | [Inscryption](games/i/inscryption.md) | 339 | 4.86 | 29 |
 | 227 | [Dungeons 3](games/d/dungeons_3.md) | 337 | 4.66 | 274 |
-| 228 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 332 | 4.56 | 469 |
-| 229 | [Tannenberg](games/t/tannenberg.md) | 328 | 4.39 | 705 |
-| 229 | [Train Valley 2](games/t/train_valley_2.md) | 328 | 4.37 | 726 |
+| 227 | [Train Valley 2](games/t/train_valley_2.md) | 337 | 4.37 | 726 |
+| 229 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 332 | 4.56 | 469 |
+| 230 | [Tannenberg](games/t/tannenberg.md) | 328 | 4.39 | 705 |
 | 231 | [The Messenger](games/t/the_messenger.md) | 323 | 4.80 | 82 |
 | 232 | [Darkwood](games/d/darkwood.md) | 322 | 4.61 | 367 |
 | 233 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 319 | 4.72 | 171 |

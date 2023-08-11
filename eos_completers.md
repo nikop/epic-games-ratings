@@ -22,7 +22,7 @@
 | 20 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 11.54% |
 | 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.27% |
 | 22 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
-| 23 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.99% |
+| 23 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.98% |
 | 24 | [Remains](games/r/remains.md) | 10.64% |
 | 25 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 10.53% |
 | 26 | [Out of Bounds](games/o/out_of_bounds.md) | 10.34% |
@@ -83,7 +83,7 @@
 | 81 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 2.44% |
 | 82 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.36% |
 | 83 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.34% |
-| 84 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.26% |
+| 84 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.27% |
 | 85 | [Bloodshore](games/b/bloodshore.md) | 2.25% |
 | 86 | [FORECLOSED](games/f/foreclosed.md) | 2.17% |
 | 87 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.03% |
@@ -119,7 +119,7 @@
 | 117 | [Hades](games/h/hades.md) | 0.90% |
 | 118 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 119 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
-| 120 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.79% |
+| 120 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.80% |
 | 121 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.76% |
 | 122 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
 | 123 | [Lemon Cake](games/l/lemon_cake.md) | 0.74% |
@@ -256,6 +256,7 @@
 | 252 | [12 orbits](games/1/12_orbits.md) | 0.00% |
 | 252 | [A Tale of Paper: Refolded](games/a/a_tale_of_paper__refolded.md) | 0.00% |
 | 252 | [Ad Infinitum](games/a/ad_infinitum.md) | 0.00% |
+| 252 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 0.00% |
 | 252 | [ANNO Mutationem](games/a/anno_mutationem.md) | 0.00% |
 | 252 | [Apotheorasis • Lab of the Blind Gods](games/a/apotheorasis_•_lab_of_the_blind_gods.md) | 0.00% |
 | 252 | [Arcade Paradise](games/a/arcade_paradise.md) | 0.00% |
