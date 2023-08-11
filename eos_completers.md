@@ -7,14 +7,14 @@
 | 5 | [Overloop](games/o/overloop.md) | 25.00% |
 | 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 7 | [Volley Pals](games/v/volley_pals.md) | 23.91% |
-| 8 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 22.03% |
+| 8 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 21.85% |
 | 9 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 11 | [Anna's Quest](games/a/anna's_quest.md) | 18.52% |
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
 | 13 | [Island Cities](games/i/island_cities.md) | 18.12% |
 | 14 | [Afterglitch](games/a/afterglitch.md) | 16.67% |
-| 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 15.04% |
+| 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 14.91% |
 | 16 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 13.94% |
 | 17 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 12.50% |
 | 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.00% |
@@ -26,8 +26,8 @@
 | 24 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 10.53% |
 | 25 | [Out of Bounds](games/o/out_of_bounds.md) | 10.34% |
 | 26 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 9.76% |
-| 27 | [Sonic Origins](games/s/sonic_origins.md) | 9.71% |
-| 28 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.70% |
+| 27 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.70% |
+| 28 | [Sonic Origins](games/s/sonic_origins.md) | 9.69% |
 | 29 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.30% |
 | 30 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.97% |
 | 31 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.50% |
@@ -43,11 +43,11 @@
 | 41 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 42 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.98% |
 | 43 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.56% |
-| 44 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.26% |
-| 45 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 5.00% |
-| 46 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.82% |
-| 47 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.79% |
-| 47 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.79% |
+| 44 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.39% |
+| 45 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.26% |
+| 46 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 5.00% |
+| 47 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.82% |
+| 48 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.79% |
 | 49 | [JARS](games/j/jars.md) | 4.76% |
 | 50 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
 | 51 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.69% |
@@ -540,4 +540,4 @@
 | 251 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 251 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 251 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,034 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,036 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
