@@ -143,11 +143,11 @@
 | 141 | [Them and Us](games/t/them_and_us.md) | 0.49% |
 | 142 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.48% |
 | 143 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
-| 144 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.46% |
 | 144 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.46% |
 | 144 | [Train Valley](games/t/train_valley.md) | 0.46% |
-| 147 | [Tchia](games/t/tchia.md) | 0.45% |
-| 147 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.45% |
+| 146 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.45% |
+| 146 | [Tchia](games/t/tchia.md) | 0.45% |
+| 146 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.45% |
 | 149 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.44% |
 | 150 | [Tails of Iron](games/t/tails_of_iron.md) | 0.43% |
 | 151 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.41% |
