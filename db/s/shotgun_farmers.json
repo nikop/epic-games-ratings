@@ -4,7 +4,7 @@
   "ProductSlug": "shotgun-farmers-d9f3f0",
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -1463,9 +1463,9 @@
       "ID": "ach_hit_player_with_bounce_grenade",
       "SetID": "bf10c8p",
       "Name": "Bouncemato",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 61
     },
     {
       "ID": "ach_kill_pistol_with_pistol",
@@ -1559,9 +1559,9 @@
       "ID": "ach_waves_20",
       "SetID": "bf10c8p",
       "Name": "Amateur Survivor",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 63
     },
     {
       "ID": "ach_waves_30",
@@ -1694,8 +1694,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-08-11T01:44:11.5415865+00:00",
+  "LastChanged_Achievements": "2023-08-11T02:19:21.4151504+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:06.8203397+00:00",
-  "LastUpdate_Ratings": "2023-08-11T01:37:07.6839404+00:00",
-  "LastUpdate_Achievements": "2023-08-11T01:44:11.5416514+00:00"
+  "LastUpdate_Ratings": "2023-08-11T02:12:07.2669007+00:00",
+  "LastUpdate_Achievements": "2023-08-11T02:19:21.4152794+00:00"
 }

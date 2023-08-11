@@ -5,24 +5,24 @@ Rating: 4.26 (Ranked 813)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~154,666 |
-| Copacetic Coordination | 16.00% | ~53,797 |
-| Fronting the Money | 14.00% | ~47,072 |
-| The Dawn of Automation | 14.00% | ~47,072 |
-| Extraordinary Logistics | 14.00% | ~47,072 |
-| Dirty Money | 13.00% | ~43,710 |
-| Family First | 13.00% | ~43,710 |
+| Corner Clout | 46.00% | ~154,669 |
+| Copacetic Coordination | 16.00% | ~53,798 |
+| Fronting the Money | 14.00% | ~47,073 |
+| The Dawn of Automation | 14.00% | ~47,073 |
+| Extraordinary Logistics | 14.00% | ~47,073 |
+| Dirty Money | 13.00% | ~43,711 |
+| Family First | 13.00% | ~43,711 |
 | Cleaning House | 12.00% | ~40,348 |
 | Room in the Back | 12.00% | ~40,348 |
-| Booze Baron | 11.00% | ~36,985 |
-| Beating the Heat | 10.00% | ~33,623 |
-| Friends on the Force | 10.00% | ~33,623 |
-| Neighborhood Watch | 10.00% | ~33,623 |
-| Core Corps | 8.00% | ~26,898 |
-| Sizeable Stash | 8.00% | ~26,898 |
-| Street Fighter | 7.00% | ~23,536 |
-| Friendly Gestures | 7.00% | ~23,536 |
-| People Person | 7.00% | ~23,536 |
+| Booze Baron | 11.00% | ~36,986 |
+| Beating the Heat | 10.00% | ~33,624 |
+| Friends on the Force | 10.00% | ~33,624 |
+| Neighborhood Watch | 10.00% | ~33,624 |
+| Core Corps | 8.00% | ~26,899 |
+| Sizeable Stash | 8.00% | ~26,899 |
+| Street Fighter | 7.00% | ~23,537 |
+| Friendly Gestures | 7.00% | ~23,537 |
+| People Person | 7.00% | ~23,537 |
 | Liquor Lord | 6.00% | ~20,174 |
 | Safety in Numbers | 6.00% | ~20,174 |
 | Wise Head | 6.00% | ~20,174 |
@@ -86,7 +86,7 @@ Rating: 4.26 (Ranked 813)
 | High Pillow | 0.10% | ~336 |
 | Station Master | 0.10% | ~336 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 336,230 (Ranked 41)  
+Progressed: 336,236 (Ranked 41)  
 Completed: 7 (0.00%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,7 +199,7 @@ Completed: 7 (0.00%) (Ranked 251)
 | 2023-08-08 | 335,852 | 7 |
 | 2023-08-09 | 336,030 | 7 |
 | 2023-08-10 | 336,209 | 7 |
-| 2023-08-11 | 336,230 | 7 |
+| 2023-08-11 | 336,236 | 7 |
 ## Awards
 Max (Great for Beginners): 33  (Ranked 446)  
 Sum: 160 (Ranked 390)  

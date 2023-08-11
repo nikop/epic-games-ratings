@@ -11,7 +11,7 @@
 | Homer | 74.00% | ~62 |
 | Butter Fingers | 71.00% | ~60 |
 | Have a good trip! | 70.00% | ~59 |
-| Kickball Unlocked | 68.00% | ~57 |
+| Kickball Unlocked | 69.00% | ~58 |
 | Stay Hydrated | 67.00% | ~56 |
 | First Win | 64.00% | ~54 |
 | True Story! | 45.00% | ~38 |

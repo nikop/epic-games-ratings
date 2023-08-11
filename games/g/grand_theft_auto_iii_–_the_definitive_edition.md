@@ -7,7 +7,7 @@ Rating: 4.16 (Ranked 876)
 | ---- | ---------- | ----- |
 | First Day on the Job | 83.00% | ~6,218 |
 | Disposing of the Evidence | 38.00% | ~2,847 |
-| Without a Scratch | 33.00% | ~2,472 |
+| Without a Scratch | 34.00% | ~2,547 |
 | Wreckless Driving | 28.00% | ~2,098 |
 | A Marked Man | 25.00% | ~1,873 |
 | Street Sweeper | 18.00% | ~1,349 |

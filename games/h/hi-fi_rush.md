@@ -41,8 +41,8 @@ Rating: 4.88 (Ranked 18)
 | Check out my moves! | 1.00% | ~38 |
 | Call me Turbo Chai | 1.00% | ~24 |
 | I think I found your calling, Macaron | 0.90% | ~35 |
+| I hit things with a guitar really well. | 0.90% | ~35 |
 | I think I deserve some praise, here! | 0.80% | ~31 |
-| I hit things with a guitar really well. | 0.80% | ~31 |
 | We're Jammin' | 0.70% | ~27 |
 | First we parry, then we counter | 0.60% | ~23 |
 | This is a breeze! | 0.50% | ~19 |
@@ -77,7 +77,7 @@ Rating: 4.88 (Ranked 18)
 | Voices from within | 0.10% | ~2 |
 | Low budget finish | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,839 (Ranked 147)  
+Progressed: 3,840 (Ranked 147)  
 Completed: 7 (0.18%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,7 +188,7 @@ Completed: 7 (0.18%) (Ranked 181)
 | 2023-08-08 | 3,807 | 7 |
 | 2023-08-09 | 3,820 | 7 |
 | 2023-08-10 | 3,836 | 7 |
-| 2023-08-11 | 3,839 | 7 |
+| 2023-08-11 | 3,840 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

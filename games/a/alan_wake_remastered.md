@@ -6,18 +6,18 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 37.00% | ~22,444 |
+| Follow the Light | 37.00% | ~22,445 |
 | Let There Be Light | 30.00% | ~18,198 |
-| Float Like a Butterfly | 29.00% | ~17,591 |
+| Float Like a Butterfly | 29.00% | ~17,592 |
 | Nordic Walking | 23.00% | ~13,952 |
 | Bright Falls' Finest | 22.00% | ~13,345 |
 | Under a Thin Layer of Skin | 20.00% | ~12,132 |
-| Park Ranger | 16.00% | ~9,705 |
-| Paging Mr. Wake | 16.00% | ~9,705 |
+| Park Ranger | 16.00% | ~9,706 |
+| Paging Mr. Wake | 16.00% | ~9,706 |
 | Back! Back, I Say! | 15.00% | ~9,099 |
 | Finders Keepers | 15.00% | ~9,099 |
-| Sound and Fury | 14.00% | ~8,492 |
-| Damn Good Cup of Coffee | 14.00% | ~8,492 |
+| Sound and Fury | 14.00% | ~8,493 |
+| Damn Good Cup of Coffee | 14.00% | ~8,493 |
 | Wheels Within Wheels | 13.00% | ~7,886 |
 | They're Heeeeeere! | 13.00% | ~7,886 |
 | Missed by a Mile | 13.00% | ~7,886 |
@@ -26,9 +26,9 @@ Number of Ratings: 524  (23.09.2022)
 | The Six-Gun Scribe | 12.00% | ~7,279 |
 | Collateral Carnage | 12.00% | ~7,279 |
 | Come One, Come All | 12.00% | ~7,279 |
-| Perchance to Dream | 11.00% | ~6,672 |
-| It's Not Just a Typewriter Brand | 11.00% | ~6,672 |
-| Thunder and Lightning | 11.00% | ~6,672 |
+| Perchance to Dream | 11.00% | ~6,673 |
+| It's Not Just a Typewriter Brand | 11.00% | ~6,673 |
+| Thunder and Lightning | 11.00% | ~6,673 |
 | Gatekeeper | 10.00% | ~6,066 |
 | Two For the Price of One | 10.00% | ~6,066 |
 | Energized! | 10.00% | ~6,066 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~61 |
 | No Punctuation | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,659 (Ranked 85)  
+Progressed: 60,661 (Ranked 85)  
 Completed: 64 (0.11%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 64 (0.11%) (Ranked 195)
 | 2023-08-08 | 60,545 | 64 |
 | 2023-08-09 | 60,613 | 64 |
 | 2023-08-10 | 60,658 | 64 |
-| 2023-08-11 | 60,659 | 64 |
+| 2023-08-11 | 60,661 | 64 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

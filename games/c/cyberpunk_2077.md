@@ -8,15 +8,15 @@ Number of Ratings: 32,700  (23.09.2022)
 | ---- | ---------- | ----- |
 | The Fool | 68.00% | ~591,760 |
 | Right Back At Ya | 39.00% | ~339,392 |
-| The Lovers | 35.00% | ~304,582 |
+| The Lovers | 35.00% | ~304,583 |
 | Stanislavski's Method | 29.00% | ~252,368 |
-| The Wheel of Fortune | 27.00% | ~234,963 |
+| The Wheel of Fortune | 27.00% | ~234,964 |
 | The Hermit | 25.00% | ~217,559 |
 | Christmas Tree Attack | 23.00% | ~200,154 |
 | True Soldier | 23.00% | ~200,154 |
 | The High Priestess | 22.00% | ~191,452 |
 | Legend of The Afterlife | 22.00% | ~191,452 |
-| Life of the Road | 21.00% | ~182,749 |
+| Life of the Road | 21.00% | ~182,750 |
 | Full Body Conversion | 18.00% | ~156,642 |
 | The World | 18.00% | ~156,642 |
 | Bushido and Chill | 16.00% | ~139,238 |
@@ -31,7 +31,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Wandering Fool | 9.00% | ~78,321 |
 | Ten out of Ten | 9.00% | ~78,321 |
 | Breathtaking | 8.00% | ~69,619 |
-| The Star | 7.00% | ~60,916 |
+| The Star | 7.00% | ~60,917 |
 | To Bad Decisions! | 6.00% | ~52,214 |
 | The Sun | 6.00% | ~52,214 |
 | Must Be Rats | 4.00% | ~34,809 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~8,702 |
 | Rough Landing | 0.50% | ~4,351 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 870,235 (Ranked 14)  
+Progressed: 870,236 (Ranked 14)  
 Completed: 1,957 (0.22%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,7 +164,7 @@ Completed: 1,957 (0.22%) (Ranked 173)
 | 2023-08-08 | 869,929 | 1,950 |
 | 2023-08-09 | 870,084 | 1,952 |
 | 2023-08-10 | 870,229 | 1,957 |
-| 2023-08-11 | 870,235 | 1,957 |
+| 2023-08-11 | 870,236 | 1,957 |
 ## Awards
 Max (Character Customization): 75,203  (Ranked 9)  
 Sum: 198,489 (Ranked 13)  

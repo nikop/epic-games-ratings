@@ -4,7 +4,7 @@
   "ProductSlug": "bus-world-5de29e",
   "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-08-10T16:00:00+00:00",
@@ -90,9 +90,9 @@
       "ID": "Full",
       "SetID": "cjfnji1",
       "Name": "Full load",
-      "Percentage": 29,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Island",
@@ -106,9 +106,9 @@
       "ID": "Last_second",
       "SetID": "cjfnji1",
       "Name": "In the last second",
-      "Percentage": 41,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Master",
@@ -185,8 +185,8 @@
   ],
   "FirstSeen": "2023-08-11T01:35:20.9956349+00:00",
   "FirstSeenAchievements": "2023-08-07T18:00:21.004681+00:00",
-  "LastChanged_Achievements": "2023-08-11T01:41:27.0955345+00:00",
+  "LastChanged_Achievements": "2023-08-11T02:15:40.4783377+00:00",
   "LastUpdate_AppInfo": "2023-08-07T17:56:51.0355953+00:00",
-  "LastUpdate_Ratings": "2023-08-11T01:35:20.9956387+00:00",
-  "LastUpdate_Achievements": "2023-08-11T01:41:27.0955422+00:00"
+  "LastUpdate_Ratings": "2023-08-11T02:09:45.241045+00:00",
+  "LastUpdate_Achievements": "2023-08-11T02:15:40.4783543+00:00"
 }
