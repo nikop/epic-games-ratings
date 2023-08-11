@@ -495,7 +495,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 14484,
+  "EOS_Progressed": 14485,
   "EOS_Completed": 108,
   "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 1,
@@ -7895,6 +7895,11 @@
       "Time": "2023-08-11T21:04:41.9567026+00:00",
       "NumProgressed": 14484,
       "NumCompleted": 108
+    },
+    {
+      "Time": "2023-08-11T22:04:24.8293052+00:00",
+      "NumProgressed": 14485,
+      "NumCompleted": 108
     }
   ],
   "TotalAchievements": 41,
@@ -8010,7 +8015,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4345
+      "UsersEstimate": 4346
     },
     {
       "ID": "tpote_achievement_22",
@@ -8170,7 +8175,7 @@
       "Name": "Tattletale",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 5938
+      "UsersEstimate": 5939
     },
     {
       "ID": "tpote_achievement_40",
@@ -8218,7 +8223,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 3186
+      "UsersEstimate": 3187
     },
     {
       "ID": "tpote_achievement_9",
@@ -8226,22 +8231,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 5069
+      "UsersEstimate": 5070
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 14484,
+      "Progressed": 14485,
       "Completed": 108
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-08-03T13:08:30.3350415+00:00",
-  "LastChanged_Achievements": "2023-08-11T21:04:41.9567022+00:00",
+  "LastChanged_Achievements": "2023-08-11T22:04:24.8293047+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:55.7503888+00:00",
-  "LastUpdate_Ratings": "2023-08-11T21:02:19.6154584+00:00",
-  "LastUpdate_Achievements": "2023-08-11T21:04:41.9567624+00:00"
+  "LastUpdate_Ratings": "2023-08-11T22:01:42.1177501+00:00",
+  "LastUpdate_Achievements": "2023-08-11T22:04:24.8293837+00:00"
 }

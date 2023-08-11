@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 83,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 60692,
+  "EOS_Progressed": 60693,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 465,
+  "EOS_NewPlayers": 456,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -10942,6 +10942,11 @@
       "Time": "2023-08-11T21:05:46.3801946+00:00",
       "NumProgressed": 60692,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-11T22:05:36.9432347+00:00",
+      "NumProgressed": 60693,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -10985,7 +10990,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 12138
+      "UsersEstimate": 12139
     },
     {
       "ID": "06",
@@ -11073,7 +11078,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4248
+      "UsersEstimate": 4249
     },
     {
       "ID": "17",
@@ -11081,7 +11086,7 @@
       "Name": "Departure",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4248
+      "UsersEstimate": 4249
     },
     {
       "ID": "18",
@@ -11488,21 +11493,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 60692,
+      "Progressed": 60693,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 24160,
+      "Progressed": 24161,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-11T21:05:46.3801941+00:00",
+  "LastChanged_Achievements": "2023-08-11T22:05:36.9432341+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:26.4964539+00:00",
-  "LastUpdate_Ratings": "2023-08-11T20:59:16.615679+00:00",
-  "LastUpdate_Achievements": "2023-08-11T21:05:46.3802933+00:00"
+  "LastUpdate_Ratings": "2023-08-11T21:59:02.4814345+00:00",
+  "LastUpdate_Achievements": "2023-08-11T22:05:36.9433694+00:00"
 }

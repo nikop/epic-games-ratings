@@ -1,7 +1,7 @@
 # RAILGRADE
 [Store](https://store.epicgames.com/en-US/p/railgrade)  
 [View Rawdata](../../db/r/railgrade.json)  
-Rating: 4.54 (Ranked 496)  
+Rating: 4.54 (Ranked 497)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -159,8 +159,8 @@ Completed: 35 (0.18%) (Ranked 183)
 | 2023-08-11 | 19,502 | 35 |
 ## Awards
 Max (Highly Recommended): 87  (Ranked 353)  
-Sum: 658 (Ranked 286)  
-Diff (max vs sum): 67  
+Sum: 658 (Ranked 287)  
+Diff (max vs sum): 66  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 87 |

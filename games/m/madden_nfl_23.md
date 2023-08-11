@@ -3,8 +3,8 @@
 [View Rawdata](../../db/m/madden_nfl_23.json)  
 Rating: 4.32 (Ranked 773)  
 ## Awards
-Max (Diverse Characters): 20  (Ranked 507)  
-Sum: 20 (Ranked 507)  
+Max (Diverse Characters): 20  (Ranked 508)  
+Sum: 20 (Ranked 508)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |

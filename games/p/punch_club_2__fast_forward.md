@@ -16,7 +16,7 @@
 | Neurotrainer – power gainer! | 75.00% | ~183 |
 | Employee of the week | 75.00% | ~183 |
 | Your own amateur gym | 74.00% | ~181 |
-| Run K, run! | 72.00% | ~176 |
+| Run K, run! | 73.00% | ~178 |
 | Hello, world! | 69.00% | ~168 |
 | Fighting is cool | 68.00% | ~166 |
 | No bullying more | 68.00% | ~166 |
@@ -25,11 +25,11 @@
 | Spirit of the past | 63.00% | ~154 |
 | Law student | 61.00% | ~149 |
 | Workout professional | 59.00% | ~144 |
+| Little hacker | 59.00% | ~144 |
 | It's good to be alive | 59.00% | ~144 |
-| Little hacker | 58.00% | ~142 |
+| Champion – starter pack | 58.00% | ~142 |
 | Own four walls | 58.00% | ~142 |
 | Handyman | 57.00% | ~139 |
-| Champion – starter pack | 57.00% | ~139 |
 | Intriguing candies | 57.00% | ~139 |
 | Employee of the year | 57.00% | ~139 |
 | Fight for life | 56.00% | ~137 |

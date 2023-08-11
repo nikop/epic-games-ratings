@@ -6,18 +6,18 @@ Number of Ratings: 896  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First.. Bit? | 93.00% | ~557,989 |
-| Error: Stack Overflow | 66.00% | ~395,992 |
-| We need more gold | 60.00% | ~359,993 |
-| The dawn of civilization | 53.00% | ~317,994 |
-| More FPS for the FPS god! | 49.00% | ~293,994 |
-| Beauty and harmony | 48.00% | ~287,994 |
-| One more! | 44.00% | ~263,995 |
-| Overmind | 24.00% | ~143,997 |
-| RNG is my best friend now | 18.00% | ~107,998 |
-| Cosplay | 13.00% | ~77,998 |
-| Evolution in progress... | 13.00% | ~77,998 |
-| Step by step | 8.00% | ~47,999 |
+| First.. Bit? | 93.00% | ~557,995 |
+| Error: Stack Overflow | 66.00% | ~395,997 |
+| We need more gold | 60.00% | ~359,997 |
+| The dawn of civilization | 53.00% | ~317,997 |
+| More FPS for the FPS god! | 49.00% | ~293,998 |
+| Beauty and harmony | 48.00% | ~287,998 |
+| One more! | 44.00% | ~263,998 |
+| Overmind | 24.00% | ~143,999 |
+| RNG is my best friend now | 18.00% | ~107,999 |
+| Cosplay | 13.00% | ~77,999 |
+| Evolution in progress... | 13.00% | ~77,999 |
+| Step by step | 8.00% | ~48,000 |
 | README reader | 3.00% | ~18,000 |
 | Data scientist | 3.00% | ~18,000 |
 | One small step for a man... | 3.00% | ~18,000 |
@@ -35,7 +35,7 @@ Number of Ratings: 896  (23.09.2022)
 | Elements will destroy you! | 0.30% | ~1,800 |
 | The Scrooge | 0.10% | ~600 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 599,988 (Ranked 28)  
+Progressed: 599,995 (Ranked 28)  
 Completed: 511 (0.09%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,7 +148,7 @@ Completed: 511 (0.09%) (Ranked 205)
 | 2023-08-08 | 599,642 | 510 |
 | 2023-08-09 | 599,758 | 510 |
 | 2023-08-10 | 599,887 | 511 |
-| 2023-08-11 | 599,988 | 511 |
+| 2023-08-11 | 599,995 | 511 |
 ## Awards
 Max (Challenging Puzzles): 134  (Ranked 307)  
 Sum: 134 (Ranked 402)  

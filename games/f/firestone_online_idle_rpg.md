@@ -5,12 +5,12 @@ Rating: 4.05 (Ranked 919)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,664 |
-| World Map | 79.00% | ~1,413 |
+| Victor | 93.00% | ~1,665 |
+| World Map | 79.00% | ~1,414 |
 | Temple of Eternals | 56.00% | ~1,002 |
-| Prestigious | 53.00% | ~948 |
-| Fellowship Power | 41.00% | ~733 |
-| Guild Power | 25.00% | ~447 |
+| Prestigious | 53.00% | ~949 |
+| Fellowship Power | 41.00% | ~734 |
+| Guild Power | 25.00% | ~448 |
 | Prestigious x10 | 22.00% | ~394 |
 | The game is on | 20.00% | ~358 |
 | Exotic Merchant | 19.00% | ~340 |
@@ -20,8 +20,8 @@ Rating: 4.05 (Ranked 919)
 | Inspection | 16.00% | ~286 |
 | Dragon Master | 15.00% | ~268 |
 | Enlightenment | 15.00% | ~268 |
-| Hero inspection | 14.00% | ~250 |
-| Lieutenant | 14.00% | ~250 |
+| Hero inspection | 14.00% | ~251 |
+| Lieutenant | 14.00% | ~251 |
 | Mysterious Rock | 13.00% | ~233 |
 | Natural Talent | 13.00% | ~233 |
 | Superior | 13.00% | ~233 |
@@ -54,9 +54,9 @@ Rating: 4.05 (Ranked 919)
 | How Do You Turn This On? | 6.00% | ~107 |
 | Lock And Load | 6.00% | ~107 |
 | Missions Dedication | 6.00% | ~107 |
-| Background Story | 5.00% | ~89 |
-| Sailor | 5.00% | ~89 |
-| The Alchemist | 5.00% | ~89 |
+| Background Story | 5.00% | ~90 |
+| Sailor | 5.00% | ~90 |
+| The Alchemist | 5.00% | ~90 |
 | Active Member | 4.00% | ~72 |
 | Arena Challenger | 4.00% | ~72 |
 | Legendary | 4.00% | ~72 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 919)
 | Silverwood liberator | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,789 (Ranked 172)  
+Progressed: 1,790 (Ranked 172)  
 Completed: 2 (0.11%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 2 (0.11%) (Ranked 197)
 | 2023-08-08 | 1,778 | 2 |
 | 2023-08-09 | 1,781 | 2 |
 | 2023-08-10 | 1,784 | 2 |
-| 2023-08-11 | 1,789 | 2 |
+| 2023-08-11 | 1,790 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

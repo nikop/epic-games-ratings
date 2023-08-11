@@ -10,15 +10,15 @@ Rating: 4.57 (Ranked 448)
 | I just love stuff! | 42.00% | ~276 |
 | Keep 'em coming! | 42.00% | ~276 |
 | The things they print nowadays | 39.00% | ~256 |
-| Big Spender | 38.00% | ~249 |
-| That's gotta hurt | 36.00% | ~236 |
+| Big Spender | 38.00% | ~250 |
+| That's gotta hurt | 36.00% | ~237 |
 | I think it's broke | 26.00% | ~171 |
 | The Ann Flores Combo Experience | 26.00% | ~171 |
-| Club Star | 24.00% | ~157 |
+| Club Star | 24.00% | ~158 |
 | Fire in the hole! | 20.00% | ~131 |
 | The Warlord | 20.00% | ~131 |
-| You are the One | 20.00% | ~131 |
 | Omnipotence | 19.00% | ~125 |
+| You are the One | 19.00% | ~125 |
 | Deadly Kombationem | 18.00% | ~118 |
 | The truth is out there | 16.00% | ~105 |
 | Annakin Skyscroller | 14.00% | ~92 |
@@ -26,8 +26,8 @@ Rating: 4.57 (Ranked 448)
 | Arm Wrestlin' | 9.00% | ~59 |
 | 1+1>2 | 9.00% | ~59 |
 | This can't be right… | 9.00% | ~59 |
-| So Fresh and So clean clean | 8.00% | ~52 |
-| Welcome home, 06 | 8.00% | ~52 |
+| So Fresh and So clean clean | 8.00% | ~53 |
+| Welcome home, 06 | 8.00% | ~53 |
 | Clarity of Mind | 7.00% | ~46 |
 | I feel secure, contained & protected | 7.00% | ~46 |
 | I'm walking here! | 7.00% | ~46 |
@@ -42,7 +42,7 @@ Rating: 4.57 (Ranked 448)
 | Love me like I love my posters | 0.80% | ~5 |
 | The Age of Mutationem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 656 (Ranked 215)  
+Progressed: 657 (Ranked 215)  
 Completed: 0 (0.00%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,6 +98,7 @@ Completed: 0 (0.00%) (Ranked 253)
 | 2023-08-06 | 654 | 0 |
 | 2023-08-07 | 655 | 0 |
 | 2023-08-08 | 656 | 0 |
+| 2023-08-11 | 657 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

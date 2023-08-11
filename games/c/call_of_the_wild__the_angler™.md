@@ -11,15 +11,15 @@ Number of Ratings: 281  (23.09.2022)
 | I'm on a Boat! | 57.00% | ~2,782 |
 | Can you smell what the Rod is Hooking | 51.00% | ~2,489 |
 | Scaling up | 51.00% | ~2,489 |
-| Ready to Rod and Roll | 43.00% | ~2,098 |
+| Ready to Rod and Roll | 43.00% | ~2,099 |
 | More Fish in the Sea | 42.00% | ~2,050 |
-| License to Gill | 34.00% | ~1,659 |
-| Fish Out of Water | 33.00% | ~1,610 |
+| Fish Out of Water | 33.00% | ~1,611 |
+| License to Gill | 33.00% | ~1,611 |
 | Things that go Splash in the Night | 27.00% | ~1,318 |
 | Goldfish? | 27.00% | ~1,318 |
 | Going for Gold | 24.00% | ~1,171 |
 | I'm Hooked! | 19.00% | ~927 |
-| Diamond in the Rough | 13.00% | ~634 |
+| Diamond in the Rough | 13.00% | ~635 |
 | More than a Tourist | 12.00% | ~586 |
 | Hook, Line and Sinker | 8.00% | ~390 |
 | Marathon | 8.00% | ~390 |
@@ -42,7 +42,7 @@ Number of Ratings: 281  (23.09.2022)
 | No Fin left to give | 0.00% | ~0 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,880 (Ranked 143)  
+Progressed: 4,881 (Ranked 143)  
 Completed: 0 (0.00%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,7 +155,7 @@ Completed: 0 (0.00%) (Ranked 253)
 | 2023-08-08 | 4,864 | 0 |
 | 2023-08-09 | 4,869 | 0 |
 | 2023-08-10 | 4,876 | 0 |
-| 2023-08-11 | 4,880 | 0 |
+| 2023-08-11 | 4,881 | 0 |
 ## Awards
 Max (Relaxing): 32  (Ranked 452)  
 Sum: 158 (Ranked 392)  

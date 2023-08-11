@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 253,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -4385,9 +4385,9 @@
       "ID": "A28",
       "SetID": "9b7p7eo",
       "Name": "We brake for nobody",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 1196
+      "UsersEstimate": 1214
     },
     {
       "ID": "A29",
@@ -4449,9 +4449,9 @@
       "ID": "A36",
       "SetID": "9b7p7eo",
       "Name": "Way of Iron",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 1250
+      "UsersEstimate": 1267
     },
     {
       "ID": "A37",
@@ -4610,8 +4610,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-08-08T01:53:40.0752318+00:00",
-  "LastChanged_Achievements": "2023-08-11T21:05:33.5608274+00:00",
+  "LastChanged_Achievements": "2023-08-11T22:05:26.2405531+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:55.608983+00:00",
-  "LastUpdate_Ratings": "2023-08-11T20:59:50.3042287+00:00",
-  "LastUpdate_Achievements": "2023-08-11T21:05:33.5608816+00:00"
+  "LastUpdate_Ratings": "2023-08-11T21:59:30.286352+00:00",
+  "LastUpdate_Achievements": "2023-08-11T22:05:26.2406293+00:00"
 }

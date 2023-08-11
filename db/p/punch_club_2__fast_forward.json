@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 64,
   "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
     "PcReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -1087,9 +1087,9 @@
       "ID": "hack_gpp",
       "SetID": "69co12a",
       "Name": "Little hacker",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 144
     },
     {
       "ID": "handyman",
@@ -1127,9 +1127,9 @@
       "ID": "league_1",
       "SetID": "69co12a",
       "Name": "Champion \u2013 starter pack",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 139
+      "UsersEstimate": 142
     },
     {
       "ID": "league_2",
@@ -1215,9 +1215,9 @@
       "ID": "not_ok",
       "SetID": "69co12a",
       "Name": "Run K, run!",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 178
     },
     {
       "ID": "own_home",
@@ -1406,8 +1406,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-08-11T21:04:42.4228029+00:00",
+  "LastChanged_Achievements": "2023-08-11T22:04:25.3285305+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:48.1217165+00:00",
-  "LastUpdate_Ratings": "2023-08-11T20:58:58.4848205+00:00",
-  "LastUpdate_Achievements": "2023-08-11T21:04:42.4228561+00:00"
+  "LastUpdate_Ratings": "2023-08-11T21:58:47.3925962+00:00",
+  "LastUpdate_Achievements": "2023-08-11T22:04:25.3286065+00:00"
 }

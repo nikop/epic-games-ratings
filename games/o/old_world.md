@@ -6,7 +6,7 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Clergy | 4.00% | ~534 |
+| The Clergy | 4.00% | ~535 |
 | Able | 2.00% | ~267 |
 | Architect | 2.00% | ~267 |
 | Explorer | 2.00% | ~267 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,362 (Ranked 117)  
+Progressed: 13,363 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -416,7 +416,7 @@ Completed: 5 (0.04%) (Ranked 222)
 | 2023-08-08 | 13,332 | 5 |
 | 2023-08-09 | 13,342 | 5 |
 | 2023-08-10 | 13,349 | 5 |
-| 2023-08-11 | 13,362 | 5 |
+| 2023-08-11 | 13,363 | 5 |
 ## Awards
 Max (Relaxing): 219  (Ranked 264)  
 Sum: 1,789 (Ranked 206)  

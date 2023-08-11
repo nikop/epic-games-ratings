@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 40,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -1681,9 +1681,9 @@
       "ID": "RogueNaked",
       "SetID": "db30heh",
       "Name": "The King is Naked",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 69
+      "UsersEstimate": 73
     },
     {
       "ID": "RogueRum",
@@ -1752,8 +1752,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-08-11T21:07:35.8626777+00:00",
+  "LastChanged_Achievements": "2023-08-11T22:07:09.3056515+00:00",
   "LastUpdate_AppInfo": "2023-08-08T15:57:07.8979254+00:00",
-  "LastUpdate_Ratings": "2023-08-11T20:58:08.3126257+00:00",
-  "LastUpdate_Achievements": "2023-08-11T21:07:35.8627124+00:00"
+  "LastUpdate_Ratings": "2023-08-11T21:58:07.5301606+00:00",
+  "LastUpdate_Achievements": "2023-08-11T22:07:09.3056955+00:00"
 }

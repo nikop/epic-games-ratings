@@ -6,8 +6,8 @@ Rating: 4.77 (Ranked 108)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 12.00% | ~34,783 |
-| First Class Student | 11.00% | ~31,884 |
-| Troll with the Punches | 11.00% | ~31,884 |
+| First Class Student | 11.00% | ~31,885 |
+| Troll with the Punches | 11.00% | ~31,885 |
 | A Keen Sense of Spell | 10.00% | ~28,986 |
 | That's a Keeper | 10.00% | ~28,986 |
 | Grappling with a Graphorn | 9.00% | ~26,087 |
@@ -19,8 +19,8 @@ Rating: 4.77 (Ranked 108)
 | Loom for Improvement | 9.00% | ~26,087 |
 | A Talent for Spending | 9.00% | ~26,087 |
 | Coasting Along | 9.00% | ~26,087 |
-| Followed the Butterflies | 8.00% | ~23,188 |
-| Rising From the Ashes | 8.00% | ~23,188 |
+| Followed the Butterflies | 8.00% | ~23,189 |
+| Rising From the Ashes | 8.00% | ~23,189 |
 | The Avenging Gazelle | 7.00% | ~20,290 |
 | Beast Friends | 7.00% | ~20,290 |
 | A Sallow Grave | 7.00% | ~20,290 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 108)
 | The Nature of the Beast | 0.60% | ~1,739 |
 | Collector's Edition | 0.30% | ~870 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 289,856 (Ranked 42)  
+Progressed: 289,861 (Ranked 42)  
 Completed: 448 (0.15%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,10 +164,10 @@ Completed: 448 (0.15%) (Ranked 190)
 | 2023-08-08 | 289,682 | 443 |
 | 2023-08-09 | 289,736 | 444 |
 | 2023-08-10 | 289,802 | 447 |
-| 2023-08-11 | 289,856 | 448 |
+| 2023-08-11 | 289,861 | 448 |
 ## Awards
 Max (Character Customization): 21,664  (Ranked 17)  
-Sum: 40,804 (Ranked 30)  
+Sum: 40,808 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -178,7 +178,7 @@ Diff (max vs sum): -13
 | This game is Relaxing | 938 |
 | This game has Amazing Storytelling | 925 |
 | This game has Diverse Characters | 920 |
-| This game has Amazing Characters | 905 |
+| This game has Amazing Characters | 909 |
 | This game is Highly Recommended | 878 |
 | This game has Quickly Understood Controls | 836 |
 | This game has Beautiful Visuals | 776 |
@@ -326,4 +326,4 @@ Diff (max vs sum): -13
 | 2023-08-08 | 4.77 | 21,619 | 40,677 |
 | 2023-08-09 | 4.77 | 21,636 | 40,721 |
 | 2023-08-10 | 4.77 | 21,664 | 40,779 |
-| 2023-08-11 | 4.77 | 21,664 | 40,804 |
+| 2023-08-11 | 4.77 | 21,664 | 40,808 |

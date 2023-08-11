@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1593,9 +1593,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13362,
+  "EOS_Progressed": 13363,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -9493,6 +9493,11 @@
       "Time": "2023-08-11T21:04:37.990648+00:00",
       "NumProgressed": 13362,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-11T22:04:21.8668275+00:00",
+      "NumProgressed": 13363,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -11784,7 +11789,7 @@
       "Name": "The Clergy",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_DEPOSE_TRIBE",
@@ -11871,21 +11876,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13362,
+      "Progressed": 13363,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13362,
+      "Progressed": 13363,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-11T16:59:09.2817186+00:00",
-  "LastChanged_Achievements": "2023-08-11T21:04:37.9906476+00:00",
+  "LastChanged_Achievements": "2023-08-11T22:04:21.8668269+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:46.1485999+00:00",
-  "LastUpdate_Ratings": "2023-08-11T20:59:40.2641186+00:00",
-  "LastUpdate_Achievements": "2023-08-11T21:04:37.9913827+00:00"
+  "LastUpdate_Ratings": "2023-08-11T21:59:20.2274652+00:00",
+  "LastUpdate_Achievements": "2023-08-11T22:04:21.8677047+00:00"
 }

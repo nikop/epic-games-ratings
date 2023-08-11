@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 253,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 861,
+  "EOS_Progressed": 863,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3051,6 +3051,11 @@
       "Time": "2023-08-11T17:06:26.7639462+00:00",
       "NumProgressed": 861,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-11T22:06:40.5526054+00:00",
+      "NumProgressed": 863,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -3078,7 +3083,7 @@
       "Name": "Fighting for Survival",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ach_defeat_players_100",
@@ -3086,7 +3091,7 @@
       "Name": "Player Betrayer",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ach_gold_rewards_100",
@@ -3150,7 +3155,7 @@
       "Name": "Moving On Up",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "objective_headquarters_20",
@@ -3318,7 +3323,7 @@
       "Name": "Defenses Online",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -3365,14 +3370,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 861,
+      "Progressed": 863,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-11T21:07:12.7717117+00:00",
+  "LastChanged_Achievements": "2023-08-11T22:06:40.5526051+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:21.6461868+00:00",
-  "LastUpdate_Ratings": "2023-08-11T20:57:42.7587623+00:00",
-  "LastUpdate_Achievements": "2023-08-11T21:07:12.7717483+00:00"
+  "LastUpdate_Ratings": "2023-08-11T21:57:41.7763061+00:00",
+  "LastUpdate_Achievements": "2023-08-11T22:06:40.5526542+00:00"
 }

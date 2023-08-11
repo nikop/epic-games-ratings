@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 369,
   "Ranking_EOS_Completed": 253,
   "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-08-10T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T03:00:00+00:00",
@@ -160,9 +160,9 @@
       "ID": "Full",
       "SetID": "cjfnji1",
       "Name": "Full load",
-      "Percentage": 60,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "Island",
@@ -176,9 +176,9 @@
       "ID": "Last_second",
       "SetID": "cjfnji1",
       "Name": "In the last second",
-      "Percentage": 60,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "Master",
@@ -255,8 +255,8 @@
   ],
   "FirstSeen": "2023-08-11T01:35:20.9956349+00:00",
   "FirstSeenAchievements": "2023-08-07T18:00:21.004681+00:00",
-  "LastChanged_Achievements": "2023-08-11T21:03:27.0227407+00:00",
+  "LastChanged_Achievements": "2023-08-11T22:03:20.1446697+00:00",
   "LastUpdate_AppInfo": "2023-08-07T17:56:51.0355953+00:00",
-  "LastUpdate_Ratings": "2023-08-11T20:57:24.9990782+00:00",
-  "LastUpdate_Achievements": "2023-08-11T21:03:27.0227483+00:00"
+  "LastUpdate_Ratings": "2023-08-11T21:57:26.8113643+00:00",
+  "LastUpdate_Achievements": "2023-08-11T22:03:20.1446843+00:00"
 }

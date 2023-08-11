@@ -4,8 +4,8 @@
   "ProductSlug": "trail-of-ayash-31a1d4",
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 253,
-  "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-09-30T00:00:00+00:00",
     "PcReleaseDate": "2023-05-15T13:00:00+00:00",
@@ -183,8 +183,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-27T21:01:01.0024576+00:00",
-  "LastChanged_Achievements": "2023-08-11T21:05:35.1039009+00:00",
+  "LastChanged_Achievements": "2023-08-11T22:05:27.6043115+00:00",
   "LastUpdate_AppInfo": "2023-08-09T01:52:26.8391586+00:00",
-  "LastUpdate_Ratings": "2023-08-11T20:58:07.0773022+00:00",
-  "LastUpdate_Achievements": "2023-08-11T21:05:35.1039116+00:00"
+  "LastUpdate_Ratings": "2023-08-11T21:58:06.4566473+00:00",
+  "LastUpdate_Achievements": "2023-08-11T22:05:27.6043259+00:00"
 }
