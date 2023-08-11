@@ -4,7 +4,7 @@
   "ProductSlug": "silence-57bc4e",
   "Ranking_EOS_Progress": 320,
   "Ranking_EOS_Completed": 252,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 99,
+  "EOS_Progressed": 100,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -86,6 +86,11 @@
     {
       "Time": "2023-08-10T02:06:23.2502871+00:00",
       "NumProgressed": 99,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-11T10:06:53.9279768+00:00",
+      "NumProgressed": 100,
       "NumCompleted": 0
     }
   ],
@@ -264,9 +269,9 @@
       "ID": "1006_achv_pacifist",
       "SetID": "dhn82m5",
       "Name": "Pacifist",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "2001_achv_shrooms",
@@ -465,7 +470,7 @@
     {
       "ID": "dhn82m5",
       "IsBase": true,
-      "Progressed": 99,
+      "Progressed": 100,
       "Completed": 0
     }
   ],
@@ -473,8 +478,8 @@
   "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.5644296+00:00",
   "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
-  "LastChanged_Achievements": "2023-08-11T09:06:46.777486+00:00",
+  "LastChanged_Achievements": "2023-08-11T10:06:53.9279762+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:19.4570726+00:00",
-  "LastUpdate_Ratings": "2023-08-11T09:01:32.0562751+00:00",
-  "LastUpdate_Achievements": "2023-08-11T09:06:46.7775366+00:00"
+  "LastUpdate_Ratings": "2023-08-11T10:01:43.1889716+00:00",
+  "LastUpdate_Achievements": "2023-08-11T10:06:53.9280189+00:00"
 }

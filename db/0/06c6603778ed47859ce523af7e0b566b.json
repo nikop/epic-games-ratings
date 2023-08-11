@@ -63,9 +63,9 @@
       "ID": "Backup Band",
       "SetID": "dene75h",
       "Name": "Backup Band",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Beach Day",
@@ -119,9 +119,9 @@
       "ID": "DOOT!",
       "SetID": "dene75h",
       "Name": "DOOT!",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Dancing in the Desert",
@@ -223,9 +223,9 @@
       "ID": "Locksmith",
       "SetID": "dene75h",
       "Name": "Locksmith",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Lost Sailors",
@@ -373,8 +373,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-21T10:01:39.9967766+00:00",
-  "LastChanged_Achievements": "2023-08-11T09:04:49.3480933+00:00",
+  "LastChanged_Achievements": "2023-08-11T10:04:53.7864215+00:00",
   "LastUpdate_AppInfo": "2023-08-04T11:57:00.8363685+00:00",
-  "LastUpdate_Ratings": "2023-08-11T08:57:51.8240693+00:00",
-  "LastUpdate_Achievements": "2023-08-11T09:04:49.3481314+00:00"
+  "LastUpdate_Ratings": "2023-08-11T09:57:56.6024527+00:00",
+  "LastUpdate_Achievements": "2023-08-11T10:04:53.7864664+00:00"
 }

@@ -6,26 +6,26 @@ Rating: 4.18 (Ranked 867)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 6.00% | ~4,065 |
-| Har, Har, Har, Very Funny | 5.00% | ~3,387 |
-| Loose Ends | 5.00% | ~3,387 |
+| Har, Har, Har, Very Funny | 5.00% | ~3,388 |
+| Loose Ends | 5.00% | ~3,388 |
 | To the Victor Go the Spoils | 4.00% | ~2,710 |
 | Get ReQ'd | 4.00% | ~2,710 |
 | Knighthood | 4.00% | ~2,710 |
 | Whispered Words | 4.00% | ~2,710 |
-| The Batman Family | 3.00% | ~2,032 |
-| Protector of Gotham | 3.00% | ~2,032 |
-| Something in the Clay | 3.00% | ~2,032 |
-| The Show Mud Go On | 3.00% | ~2,032 |
-| Rock and a Hard Place | 3.00% | ~2,032 |
-| Quartzer Life Crisis | 3.00% | ~2,032 |
-| Snow Problem | 3.00% | ~2,032 |
-| Working Hard or Harley Working? | 3.00% | ~2,032 |
-| Universal Health Scare | 3.00% | ~2,032 |
-| Unstoppable Force | 3.00% | ~2,032 |
-| Lock and Key | 3.00% | ~2,032 |
-| Bad Apples in Every Orchard | 3.00% | ~2,032 |
-| From Inside Gotham's Walls | 3.00% | ~2,032 |
-| Voiceless | 3.00% | ~2,032 |
+| The Batman Family | 3.00% | ~2,033 |
+| Protector of Gotham | 3.00% | ~2,033 |
+| Something in the Clay | 3.00% | ~2,033 |
+| The Show Mud Go On | 3.00% | ~2,033 |
+| Rock and a Hard Place | 3.00% | ~2,033 |
+| Quartzer Life Crisis | 3.00% | ~2,033 |
+| Snow Problem | 3.00% | ~2,033 |
+| Working Hard or Harley Working? | 3.00% | ~2,033 |
+| Universal Health Scare | 3.00% | ~2,033 |
+| Unstoppable Force | 3.00% | ~2,033 |
+| Lock and Key | 3.00% | ~2,033 |
+| Bad Apples in Every Orchard | 3.00% | ~2,033 |
+| From Inside Gotham's Walls | 3.00% | ~2,033 |
+| Voiceless | 3.00% | ~2,033 |
 | End of an Era | 2.00% | ~1,355 |
 | In Your Element | 2.00% | ~1,355 |
 | Not On My Watch | 2.00% | ~1,355 |
@@ -37,14 +37,14 @@ Rating: 4.18 (Ranked 867)
 | Seeking Asylum | 2.00% | ~1,355 |
 | Gotham Knight | 2.00% | ~1,355 |
 | Gotham City Confidential | 2.00% | ~1,355 |
-| Fusion Expert | 1.00% | ~677 |
-| Expert Crime Fighter | 1.00% | ~677 |
-| Family Meeting | 1.00% | ~677 |
-| A Worthy Successor | 1.00% | ~677 |
-| Solid Alibi | 1.00% | ~677 |
+| Fusion Expert | 1.00% | ~678 |
+| Expert Crime Fighter | 1.00% | ~678 |
+| Family Meeting | 1.00% | ~678 |
+| A Worthy Successor | 1.00% | ~678 |
+| Solid Alibi | 1.00% | ~678 |
 | Dressed to Impress | 0.90% | ~610 |
 | A Momentum Occasion | 0.70% | ~474 |
-| Bat Out of Hell | 0.60% | ~406 |
+| Bat Out of Hell | 0.60% | ~407 |
 | He'd Be So Proud of You | 0.50% | ~339 |
 | Practice Makes Perfect | 0.40% | ~271 |
 | Hammer and Icicle | 0.30% | ~114 |
@@ -56,8 +56,8 @@ Rating: 4.18 (Ranked 867)
 | Element of Surprise | 0.20% | ~76 |
 | It's Nice to Be Wanted | 0.20% | ~76 |
 | Icebreaker | 0.20% | ~76 |
-| Batarang Collector | 0.20% | ~135 |
-| Claiming the Mural High Ground | 0.20% | ~135 |
+| Batarang Collector | 0.20% | ~136 |
+| Claiming the Mural High Ground | 0.20% | ~136 |
 | A Sophisticated Mallet | 0.20% | ~76 |
 | Gotham's Greatest Depths | 0.10% | ~38 |
 | Showdown Sovereign | 0.10% | ~38 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 867)
 | History Major | 0.10% | ~68 |
 | Confronting Your Demon | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,749 (Ranked 80)  
+Progressed: 67,751 (Ranked 80)  
 Completed: 106 (0.16%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 106 (0.16%) (Ranked 184)
 | 2023-08-08 | 67,710 | 106 |
 | 2023-08-09 | 67,726 | 106 |
 | 2023-08-10 | 67,741 | 106 |
-| 2023-08-11 | 67,749 | 106 |
+| 2023-08-11 | 67,751 | 106 |
 ## Awards
 Max (Great Boss Battles): 2,486  (Ranked 100)  
 Sum: 4,132 (Ranked 140)  

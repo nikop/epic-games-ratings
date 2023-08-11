@@ -6,13 +6,14 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 6.00% | ~12,611 |
+| Sowwy! | 6.00% | ~12,612 |
 | Where's that freaking Dwarf? | 0.30% | ~631 |
 | Sock! SOCK! | 0.30% | ~631 |
 | Alt+F4 | 0.30% | ~631 |
 | Déjà vu | 0.20% | ~420 |
 | A beer, two curses, three companions | 0.20% | ~420 |
 | %#*!$*! | 0.20% | ~420 |
+| GG EZ | 0.20% | ~420 |
 | DM intervention | 0.20% | ~420 |
 | Speedrun | 0.20% | ~420 |
 | Fireproof Wizardess | 0.20% | ~420 |
@@ -38,6 +39,7 @@ Number of Ratings: 118  (23.09.2022)
 | The Blood Countess | 0.10% | ~210 |
 | He’s alive! Aliiiive! | 0.10% | ~210 |
 | Restless night | 0.10% | ~210 |
+| Finally free | 0.10% | ~210 |
 | Legendary brew | 0.10% | ~210 |
 | Elite Adventurers | 0.10% | ~210 |
 | Take your time back in time | 0.10% | ~210 |
@@ -63,7 +65,6 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Fortress | 0.10% | ~210 |
 | Look but don't touch | 0.10% | ~210 |
 | Pyrrhic victory | 0.10% | ~210 |
-| GG EZ | 0.10% | ~210 |
 | 100% satisfaction guarantee | 0.10% | ~210 |
 | Death is for wimps | 0.10% | ~210 |
 | The beards of change | 0.10% | ~210 |
@@ -89,13 +90,12 @@ Number of Ratings: 118  (23.09.2022)
 | Oh, when I'll be level 10... | 0.10% | ~210 |
 | Material Girl | 0.10% | ~210 |
 | King of the Arena | 0.00% | ~0 |
-| Finally free | 0.00% | ~0 |
 | Hoarding | 0.00% | ~0 |
 | Staff cut | 0.00% | ~0 |
 | Sleep schedule mastery | 0.00% | ~0 |
 | Dumb and dumber | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210,179 (Ranked 55)  
+Progressed: 210,201 (Ranked 55)  
 Completed: 0 (0.00%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,7 +167,7 @@ Completed: 0 (0.00%) (Ranked 252)
 | 2023-08-08 | 209,082 | 0 |
 | 2023-08-09 | 209,549 | 0 |
 | 2023-08-10 | 210,011 | 0 |
-| 2023-08-11 | 210,179 | 0 |
+| 2023-08-11 | 210,201 | 0 |
 ## Awards
 Max (Character Customization): 159  (Ranked 292)  
 Sum: 159 (Ranked 391)  

@@ -5,17 +5,17 @@ Rating: 4.05 (Ranked 919)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,660 |
-| World Map | 79.00% | ~1,410 |
+| Victor | 93.00% | ~1,661 |
+| World Map | 79.00% | ~1,411 |
 | Temple of Eternals | 56.00% | ~1,000 |
-| Prestigious | 53.00% | ~946 |
+| Prestigious | 53.00% | ~947 |
 | Fellowship Power | 41.00% | ~732 |
 | Guild Power | 25.00% | ~446 |
 | Prestigious x10 | 22.00% | ~393 |
 | The game is on | 20.00% | ~357 |
 | Exotic Merchant | 19.00% | ~339 |
-| Dragon Clicker | 17.00% | ~303 |
-| Miner Clicker | 17.00% | ~303 |
+| Dragon Clicker | 17.00% | ~304 |
+| Miner Clicker | 17.00% | ~304 |
 | Full Party | 16.00% | ~286 |
 | Inspection | 16.00% | ~286 |
 | Dragon Master | 15.00% | ~268 |
@@ -33,12 +33,12 @@ Rating: 4.05 (Ranked 919)
 | Mastery | 11.00% | ~196 |
 | Relic Of The Past | 11.00% | ~196 |
 | The power of Awakening | 11.00% | ~196 |
-| Challenger | 10.00% | ~178 |
-| Daily Quest Completionist | 10.00% | ~178 |
-| Four Leaf Clover | 10.00% | ~178 |
-| Frostfire Liberator | 10.00% | ~178 |
-| Moving Up The Ladder | 10.00% | ~178 |
-| Scroll Master | 10.00% | ~178 |
+| Challenger | 10.00% | ~179 |
+| Daily Quest Completionist | 10.00% | ~179 |
+| Four Leaf Clover | 10.00% | ~179 |
+| Frostfire Liberator | 10.00% | ~179 |
+| Moving Up The Ladder | 10.00% | ~179 |
+| Scroll Master | 10.00% | ~179 |
 | Here We Go Again | 9.00% | ~161 |
 | Master Enchanter | 9.00% | ~161 |
 | The father of Dragons | 9.00% | ~161 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 919)
 | Silverwood liberator | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,785 (Ranked 172)  
+Progressed: 1,786 (Ranked 172)  
 Completed: 2 (0.11%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 2 (0.11%) (Ranked 196)
 | 2023-08-08 | 1,778 | 2 |
 | 2023-08-09 | 1,781 | 2 |
 | 2023-08-10 | 1,784 | 2 |
-| 2023-08-11 | 1,785 | 2 |
+| 2023-08-11 | 1,786 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

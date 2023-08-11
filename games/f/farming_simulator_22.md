@@ -6,19 +6,19 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 75.00% | ~35,229 |
-| I read Shakespeare and stuff | 64.00% | ~30,062 |
-| Just a sprinkle | 63.00% | ~29,592 |
-| I'm stumped | 61.00% | ~28,653 |
-| Plant get enough | 60.00% | ~28,183 |
-| It's just the beginning | 59.00% | ~27,713 |
+| Own use | 75.00% | ~35,230 |
+| I read Shakespeare and stuff | 64.00% | ~30,063 |
+| Just a sprinkle | 63.00% | ~29,593 |
+| I'm stumped | 61.00% | ~28,654 |
+| Plant get enough | 60.00% | ~28,184 |
+| It's just the beginning | 59.00% | ~27,714 |
 | This is just my weekend vehicle | 58.00% | ~27,244 |
-| Hard work pays off | 53.00% | ~24,895 |
-| It's never too late to farm | 49.00% | ~23,016 |
+| Hard work pays off | 53.00% | ~24,896 |
+| It's never too late to farm | 49.00% | ~23,017 |
 | All out of Land | 44.00% | ~20,668 |
 | Field Trip | 43.00% | ~20,198 |
 | I like to switch it up | 40.00% | ~18,789 |
-| Help me to help you | 38.00% | ~17,849 |
+| Help me to help you | 38.00% | ~17,850 |
 | Ultimutt Pawesomeness | 28.00% | ~13,152 |
 | Van Gogh | 26.00% | ~12,213 |
 | You wood not believe it | 22.00% | ~10,334 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~188 |
 | Raisin the stakes | 0.30% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,972 (Ranked 90)  
+Progressed: 46,973 (Ranked 90)  
 Completed: 5 (0.01%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,14 +163,14 @@ Completed: 5 (0.01%) (Ranked 239)
 | 2023-08-08 | 46,857 | 5 |
 | 2023-08-09 | 46,909 | 5 |
 | 2023-08-10 | 46,955 | 5 |
-| 2023-08-11 | 46,972 | 5 |
+| 2023-08-11 | 46,973 | 5 |
 ## Awards
-Max (Great for Beginners): 4,706  (Ranked 70)  
-Sum: 39,018 (Ranked 31)  
+Max (Great for Beginners): 4,711  (Ranked 70)  
+Sum: 39,023 (Ranked 31)  
 Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 4,706 |
+| This game is Great for Beginners | 4,711 |
 | This game is Relaxing | 4,063 |
 | This game is Educational | 4,061 |
 | This game has Quickly Understood Controls | 4,005 |
@@ -391,3 +391,4 @@ Diff (max vs sum): 39
 | 2023-08-08 | 4.69 | - | 4,700 | 38,952 |
 | 2023-08-09 | 4.69 | - | 4,706 | 38,990 |
 | 2023-08-10 | 4.69 | - | 4,706 | 39,018 |
+| 2023-08-11 | 4.69 | - | 4,711 | 39,023 |

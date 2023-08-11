@@ -4015,7 +4015,7 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 700967,
+  "EOS_Progressed": 700968,
   "EOS_Completed": 6288,
   "EOS_NewPlayers": 605,
   "EOS_NewCompleters": 19,
@@ -16020,6 +16020,11 @@
       "Time": "2023-08-11T09:05:35.3707683+00:00",
       "NumProgressed": 700967,
       "NumCompleted": 6288
+    },
+    {
+      "Time": "2023-08-11T10:05:40.4949533+00:00",
+      "NumProgressed": 700968,
+      "NumCompleted": 6288
     }
   ],
   "TotalAchievements": 49,
@@ -16031,7 +16036,7 @@
       "Name": "Back to Work",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 266367
+      "UsersEstimate": 266368
     },
     {
       "ID": "AchAresKills",
@@ -16079,7 +16084,7 @@
       "Name": "Three-Headed Boy",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 224309
+      "UsersEstimate": 224310
     },
     {
       "ID": "AchClearAnyRun",
@@ -16103,7 +16108,7 @@
       "Name": "Escaped Elysium",
       "Percentage": 66,
       "XP": 25,
-      "UsersEstimate": 462638
+      "UsersEstimate": 462639
     },
     {
       "ID": "AchClearElysiumEM",
@@ -16135,7 +16140,7 @@
       "Name": "Escaped Tartarus",
       "Percentage": 89,
       "XP": 25,
-      "UsersEstimate": 623861
+      "UsersEstimate": 623862
     },
     {
       "ID": "AchCrushedThanatos",
@@ -16143,7 +16148,7 @@
       "Name": "Death Dealer",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 315435
+      "UsersEstimate": 315436
     },
     {
       "ID": "AchEliteAttributeKills",
@@ -16247,7 +16252,7 @@
       "Name": "Blood Bound",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 245338
+      "UsersEstimate": 245339
     },
     {
       "ID": "AchMeetChthonicGods",
@@ -16255,7 +16260,7 @@
       "Name": "Chthonic Colleagues",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 441609
+      "UsersEstimate": 441610
     },
     {
       "ID": "AchMirrorAllUnlocked",
@@ -16295,7 +16300,7 @@
       "Name": "Well Versed",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 119164
+      "UsersEstimate": 119165
     },
     {
       "ID": "AchOrpheusSingsAgain",
@@ -16327,7 +16332,7 @@
       "Name": "Tools of the Architect",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 161222
+      "UsersEstimate": 161223
     },
     {
       "ID": "AchPurgedLegendBoon",
@@ -16367,7 +16372,7 @@
       "Name": "Musician and Muse",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 98135
+      "UsersEstimate": 98136
     },
     {
       "ID": "AchSisyphusLiberation",
@@ -16383,7 +16388,7 @@
       "Name": "Skelly Slayer",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 294406
+      "UsersEstimate": 294407
     },
     {
       "ID": "AchUnlockedAllWeapons",
@@ -16399,7 +16404,7 @@
       "Name": "Master of Arms",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 161222
+      "UsersEstimate": 161223
     },
     {
       "ID": "AchWellShopItems",
@@ -16422,15 +16427,15 @@
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 700967,
+      "Progressed": 700968,
       "Completed": 6288
     }
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
   "LastChanged": "2023-08-11T04:59:31.9832765+00:00",
-  "LastChanged_Achievements": "2023-08-11T09:05:35.3707677+00:00",
+  "LastChanged_Achievements": "2023-08-11T10:05:40.4949525+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:38.5569202+00:00",
-  "LastUpdate_Ratings": "2023-08-11T08:59:31.5457858+00:00",
-  "LastUpdate_Achievements": "2023-08-11T09:05:35.3709116+00:00"
+  "LastUpdate_Ratings": "2023-08-11T09:59:35.5738855+00:00",
+  "LastUpdate_Achievements": "2023-08-11T10:05:40.495081+00:00"
 }

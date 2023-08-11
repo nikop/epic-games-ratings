@@ -6,21 +6,21 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 11.00% | ~67,148 |
-| Into the Unknown | 10.00% | ~61,043 |
-| First Shot | 10.00% | ~61,043 |
-| Herzlich Wilkommen! | 9.00% | ~54,939 |
-| Good Night & Good Luck | 9.00% | ~54,939 |
-| Sancho Panza | 8.00% | ~48,835 |
-| Oh, So This Is How It Works! | 8.00% | ~48,835 |
-| Under Pressure | 7.00% | ~42,730 |
-| On the Trail of the Enemy | 7.00% | ~42,730 |
-| Light in the Darkness | 7.00% | ~42,730 |
-| Flag Burning | 7.00% | ~42,730 |
-| Night Hunter | 7.00% | ~42,730 |
-| Get Outta My House! | 6.00% | ~36,626 |
-| It Wasn't That Hard, Was It? | 6.00% | ~36,626 |
-| Being All Social | 6.00% | ~36,626 |
+| You Never Forget Your First... | 11.00% | ~67,149 |
+| Into the Unknown | 10.00% | ~61,045 |
+| First Shot | 10.00% | ~61,045 |
+| Herzlich Wilkommen! | 9.00% | ~54,940 |
+| Good Night & Good Luck | 9.00% | ~54,940 |
+| Sancho Panza | 8.00% | ~48,836 |
+| Oh, So This Is How It Works! | 8.00% | ~48,836 |
+| Under Pressure | 7.00% | ~42,731 |
+| On the Trail of the Enemy | 7.00% | ~42,731 |
+| Light in the Darkness | 7.00% | ~42,731 |
+| Flag Burning | 7.00% | ~42,731 |
+| Night Hunter | 7.00% | ~42,731 |
+| Get Outta My House! | 6.00% | ~36,627 |
+| It Wasn't That Hard, Was It? | 6.00% | ~36,627 |
+| Being All Social | 6.00% | ~36,627 |
 | Debris and Ashes | 5.00% | ~30,522 |
 | We Will Be Heard! | 5.00% | ~30,522 |
 | Known Associate | 5.00% | ~30,522 |
@@ -28,12 +28,12 @@ Number of Ratings: 7,305  (23.09.2022)
 | Tunnel Entrance | 5.00% | ~30,522 |
 | After the Fall | 5.00% | ~30,522 |
 | Can't Touch This! | 5.00% | ~30,522 |
-| Going Down | 4.00% | ~24,417 |
-| Family First | 4.00% | ~24,417 |
-| Your World, Your Rules | 4.00% | ~24,417 |
-| Death From Afar | 4.00% | ~24,417 |
-| Terminal Headache | 4.00% | ~24,417 |
-| Slowpoke! | 4.00% | ~24,417 |
+| Going Down | 4.00% | ~24,418 |
+| Family First | 4.00% | ~24,418 |
+| Your World, Your Rules | 4.00% | ~24,418 |
+| Death From Afar | 4.00% | ~24,418 |
+| Terminal Headache | 4.00% | ~24,418 |
+| Slowpoke! | 4.00% | ~24,418 |
 | Tickets, Please! | 3.00% | ~18,313 |
 | Combat Master | 3.00% | ~18,313 |
 | You're Going Down! | 3.00% | ~18,313 |
@@ -53,7 +53,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | Boot Licker | 0.90% | ~5,494 |
 | Who Wants To Be a... | 0.90% | ~5,494 |
 | Night of Terrors | 0.90% | ~2,303 |
-| Get the Point? | 0.80% | ~4,883 |
+| Get the Point? | 0.80% | ~4,884 |
 | Revenants | 0.70% | ~4,273 |
 | Tanning Salon | 0.70% | ~4,273 |
 | My Friend, Ciro | 0.70% | ~1,791 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~256 |
 | Connoisseur | 0.10% | ~256 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 610,434 (Ranked 27)  
+Progressed: 610,447 (Ranked 27)  
 Completed: 62 (0.01%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,7 +185,7 @@ Completed: 62 (0.01%) (Ranked 239)
 | 2023-08-08 | 609,595 | 61 |
 | 2023-08-09 | 609,974 | 61 |
 | 2023-08-10 | 610,337 | 62 |
-| 2023-08-11 | 610,434 | 62 |
+| 2023-08-11 | 610,447 | 62 |
 ## Awards
 Max (Character Customization): 8,758  (Ranked 39)  
 Sum: 20,997 (Ranked 54)  

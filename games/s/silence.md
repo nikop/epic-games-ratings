@@ -26,7 +26,7 @@
 | Fastidious Clown | 22.00% | ~22 |
 | It's not easy being green! | 21.00% | ~21 |
 | Home is where the heart is | 21.00% | ~21 |
-| Pacifist | 18.00% | ~18 |
+| Pacifist | 19.00% | ~19 |
 | Master of Thermodynamics | 16.00% | ~16 |
 | Death is a part of life | 16.00% | ~16 |
 | Unfullfilled dreams | 15.00% | ~15 |
@@ -51,7 +51,7 @@
 | The Green, the Fat, the Ugly | 1.00% | ~1 |
 | Do not feed the fish! | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 99 (Ranked 320)  
+Progressed: 100 (Ranked 320)  
 Completed: 0 (0.00%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,6 +66,7 @@ Completed: 0 (0.00%) (Ranked 252)
 | 2023-08-02 | 96 | 0 |
 | 2023-08-08 | 98 | 0 |
 | 2023-08-10 | 99 | 0 |
+| 2023-08-11 | 100 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

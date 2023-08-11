@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 174,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
@@ -1911,9 +1911,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 43236,
+  "EOS_Progressed": 43237,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5801,6 +5801,11 @@
       "Time": "2023-08-11T06:04:54.5893133+00:00",
       "NumProgressed": 43236,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-08-11T10:06:44.5671353+00:00",
+      "NumProgressed": 43237,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -5812,7 +5817,7 @@
       "Name": "Groovy",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 26374
+      "UsersEstimate": 26375
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -6004,7 +6009,7 @@
       "Name": "Choo choo!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 26806
+      "UsersEstimate": 26807
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -6020,7 +6025,7 @@
       "Name": "All roads lead to Rome",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 14700
+      "UsersEstimate": 14701
     },
     {
       "ID": "SE_COMPLETE_SARDINIA",
@@ -6052,7 +6057,7 @@
       "Name": "Everyone\u0027s a mad scientist, life is the lab",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 7782
+      "UsersEstimate": 7783
     },
     {
       "ID": "SE_COMPLETE_VENICE",
@@ -6084,7 +6089,7 @@
       "Name": "Shock therapy",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 9944
+      "UsersEstimate": 9945
     },
     {
       "ID": "SE_FIND_ALL_JOURNALS_COMICS_TOKENS",
@@ -6100,7 +6105,7 @@
       "Name": "Double tap",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 15997
+      "UsersEstimate": 15998
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_HEALING",
@@ -6108,7 +6113,7 @@
       "Name": "What did you say, Blain?",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 18159
+      "UsersEstimate": 18160
     },
     {
       "ID": "SE_GET_GOLD_MEDAL_ON_ANY_CHAPTER",
@@ -6140,7 +6145,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 29833
+      "UsersEstimate": 29834
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -6252,7 +6257,7 @@
       "Name": "You\u0027ve got red on you",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 14700
+      "UsersEstimate": 14701
     },
     {
       "ID": "SE_REACH_RANK_100",
@@ -6268,7 +6273,7 @@
       "Name": "Blood splattered",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 28103
+      "UsersEstimate": 28104
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -6308,7 +6313,7 @@
       "Name": "Leave the limbs you\u0027ve lost",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 9944
+      "UsersEstimate": 9945
     },
     {
       "ID": "SE_TAKEDOWN_AN_ELITE",
@@ -6316,7 +6321,7 @@
       "Name": "The bigger they are...",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 6485
+      "UsersEstimate": 6486
     },
     {
       "ID": "SE_TAKEDOWN_A_BLIND_SCREAMER",
@@ -6324,7 +6329,7 @@
       "Name": "Take them down screaming",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 7782
+      "UsersEstimate": 7783
     },
     {
       "ID": "SE_X_HEADSHOTS_WITH_ONE_BULLET",
@@ -6339,15 +6344,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 43236,
+      "Progressed": 43237,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-08-08T22:01:18.4858664+00:00",
-  "LastChanged_Achievements": "2023-08-11T09:06:38.011099+00:00",
+  "LastChanged_Achievements": "2023-08-11T10:06:44.5671347+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:51.0665096+00:00",
-  "LastUpdate_Ratings": "2023-08-11T08:57:09.3819414+00:00",
-  "LastUpdate_Achievements": "2023-08-11T09:06:38.0112054+00:00"
+  "LastUpdate_Ratings": "2023-08-11T09:57:14.4860322+00:00",
+  "LastUpdate_Achievements": "2023-08-11T10:06:44.567217+00:00"
 }

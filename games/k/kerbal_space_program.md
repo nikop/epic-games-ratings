@@ -4,14 +4,14 @@
 Rating: 4.79 (Ranked 88)  
 ## Awards
 Max (Educational): 807  (Ranked 154)  
-Sum: 4,754 (Ranked 133)  
+Sum: 4,762 (Ranked 133)  
 Diff (max vs sum): 21  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 807 |
 | This game is Extremely Fun | 691 |
 | This game is Highly Recommended | 691 |
-| This game is Relaxing | 680 |
+| This game is Relaxing | 688 |
 | This game has Amazing Characters | 650 |
 | This game has a Creative Community | 639 |
 | This game has Amazing Storytelling | 596 |
@@ -161,3 +161,4 @@ Diff (max vs sum): 21
 | 2023-08-08 | 4.79 | 802 | 4,724 |
 | 2023-08-09 | 4.79 | 804 | 4,740 |
 | 2023-08-10 | 4.79 | 807 | 4,754 |
+| 2023-08-11 | 4.79 | 807 | 4,762 |

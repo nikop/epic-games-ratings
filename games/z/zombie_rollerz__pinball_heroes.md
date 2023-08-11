@@ -56,6 +56,7 @@
 | Platinum | 3.00% | ~4 |
 | Really Bad Luck | 2.00% | ~3 |
 | Blaze | 2.00% | ~3 |
+| Topaz | 2.00% | ~3 |
 | Chorus | 2.00% | ~3 |
 | TNT | 2.00% | ~3 |
 | Titanium | 2.00% | ~3 |
@@ -70,7 +71,6 @@
 | Warp Drive Spacecraft | 2.00% | ~3 |
 | Gunpowder | 2.00% | ~3 |
 | Wu-wei | 2.00% | ~3 |
-| Topaz | 0.80% | ~1 |
 | Immortality | 0.80% | ~1 |
 | Zombie Exterminator | 0.80% | ~1 |
 | Satellite | 0.80% | ~1 |

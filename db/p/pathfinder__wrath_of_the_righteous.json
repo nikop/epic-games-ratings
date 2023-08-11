@@ -3434,9 +3434,9 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 10901,
+  "EOS_Progressed": 10903,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10564,6 +10564,11 @@
       "Time": "2023-08-11T06:03:29.918008+00:00",
       "NumProgressed": 10901,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-11T10:04:44.026702+00:00",
+      "NumProgressed": 10903,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -10575,7 +10580,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 2398
+      "UsersEstimate": 2399
     },
     {
       "ID": "02_BurningCity",
@@ -11487,7 +11492,7 @@
       "Name": "The Lady of the Forest",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "DLC4_34_Beware of Still Water",
@@ -11495,28 +11500,28 @@
       "Name": "Beware Still Water",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     }
   ],
   "AchievementSets": [
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9683,
+      "Progressed": 9685,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10901,
+      "Progressed": 10903,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-08-10T13:12:02.5166871+00:00",
-  "LastChanged_Achievements": "2023-08-11T09:04:39.1778571+00:00",
+  "LastChanged_Achievements": "2023-08-11T10:04:44.0267013+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:18.5411463+00:00",
-  "LastUpdate_Ratings": "2023-08-11T09:00:21.7660296+00:00",
-  "LastUpdate_Achievements": "2023-08-11T09:04:39.178117+00:00"
+  "LastUpdate_Ratings": "2023-08-11T10:00:25.2344635+00:00",
+  "LastUpdate_Achievements": "2023-08-11T10:04:44.0268919+00:00"
 }

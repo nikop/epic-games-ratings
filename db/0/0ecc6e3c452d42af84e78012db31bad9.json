@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 126,
   "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
     "PcReleaseDate": "2021-04-01T07:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2186,
+  "EOS_Progressed": 2187,
   "EOS_Completed": 14,
   "EOS_NewPlayers": 208,
   "EOS_NewCompleters": 1,
@@ -3931,6 +3931,11 @@
       "Time": "2023-08-11T08:05:52.9573525+00:00",
       "NumProgressed": 2186,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-08-11T10:07:12.718253+00:00",
+      "NumProgressed": 2187,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 16,
@@ -3958,7 +3963,7 @@
       "Name": "Artist in the making",
       "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "ach_animals_completed",
@@ -3974,7 +3979,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 1661
+      "UsersEstimate": 1662
     },
     {
       "ID": "ach_architecture_completed",
@@ -3990,7 +3995,7 @@
       "Name": "Architecture - unlocked",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "ach_bomb",
@@ -4069,14 +4074,14 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 2186,
+      "Progressed": 2187,
       "Completed": 14
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-08-11T09:07:05.1275892+00:00",
+  "LastChanged_Achievements": "2023-08-11T10:07:12.7182525+00:00",
   "LastUpdate_AppInfo": "2023-08-04T11:57:01.4081798+00:00",
-  "LastUpdate_Ratings": "2023-08-11T08:58:17.1662767+00:00",
-  "LastUpdate_Achievements": "2023-08-11T09:07:05.1276312+00:00"
+  "LastUpdate_Ratings": "2023-08-11T09:58:20.3953027+00:00",
+  "LastUpdate_Achievements": "2023-08-11T10:07:12.7182958+00:00"
 }

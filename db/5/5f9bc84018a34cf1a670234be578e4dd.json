@@ -4,7 +4,7 @@
   "ProductSlug": "access-denied-escape-1d486e",
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 8,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -574,9 +574,9 @@
       "ID": "Batteries",
       "SetID": "7jbi7el",
       "Name": "Batteries",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 70,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "Compiling",
@@ -606,9 +606,9 @@
       "ID": "Floppy",
       "SetID": "7jbi7el",
       "Name": "Additional Data",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 70,
-      "UsersEstimate": 65
+      "UsersEstimate": 67
     },
     {
       "ID": "Fusses",
@@ -685,8 +685,8 @@
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-08-11T09:06:00.0048732+00:00",
+  "LastChanged_Achievements": "2023-08-11T10:06:05.8633123+00:00",
   "LastUpdate_AppInfo": "2023-08-08T17:57:14.9821131+00:00",
-  "LastUpdate_Ratings": "2023-08-11T08:57:55.9749269+00:00",
-  "LastUpdate_Achievements": "2023-08-11T09:06:00.0048853+00:00"
+  "LastUpdate_Ratings": "2023-08-11T09:57:59.6966708+00:00",
+  "LastUpdate_Achievements": "2023-08-11T10:06:05.8633257+00:00"
 }
