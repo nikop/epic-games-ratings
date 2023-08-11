@@ -2,20 +2,20 @@
 | - | ---- | --------- |
 | 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.69% |
 | 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.84% |
-| 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 39.47% |
+| 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 38.46% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
-| 5 | [Overloop](games/o/overloop.md) | 25.00% |
-| 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 7 | [Volley Pals](games/v/volley_pals.md) | 23.91% |
-| 8 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 21.85% |
-| 9 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
-| 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
-| 11 | [Anna's Quest](games/a/anna's_quest.md) | 18.52% |
-| 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
-| 13 | [Island Cities](games/i/island_cities.md) | 18.12% |
-| 14 | [Afterglitch](games/a/afterglitch.md) | 16.67% |
-| 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 14.91% |
-| 16 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 14.29% |
+| 5 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 28.57% |
+| 6 | [Overloop](games/o/overloop.md) | 25.00% |
+| 7 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
+| 8 | [Volley Pals](games/v/volley_pals.md) | 23.91% |
+| 9 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 21.85% |
+| 10 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
+| 10 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
+| 12 | [Anna's Quest](games/a/anna's_quest.md) | 18.52% |
+| 13 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
+| 14 | [Island Cities](games/i/island_cities.md) | 18.12% |
+| 15 | [Afterglitch](games/a/afterglitch.md) | 16.67% |
+| 16 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 14.91% |
 | 17 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 13.94% |
 | 18 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 12.50% |
 | 19 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.00% |
