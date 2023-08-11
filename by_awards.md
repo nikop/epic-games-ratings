@@ -17,7 +17,7 @@
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 30,939 | 4.52 | 527 |
 | 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,766 | 4.65 | 298 |
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 21,664 | 4.77 | 108 |
-| 18 | [Dauntless](games/d/dauntless.md) | 21,248 | 4.53 | 512 |
+| 18 | [Dauntless](games/d/dauntless.md) | 21,273 | 4.53 | 512 |
 | 19 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 19,187 | 4.57 | 448 |
 | 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 17,501 | 4.89 | 12 |
 | 21 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 16,905 | 4.25 | 819 |
@@ -53,7 +53,7 @@
 | 51 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 664 |
 | 52 | [DEATH STRANDING](games/d/death_stranding.md) | 6,646 | 4.77 | 108 |
 | 53 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 6,536 | 4.58 | 426 |
-| 54 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,391 | 4.80 | 82 |
+| 54 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,393 | 4.80 | 82 |
 | 55 | [Sifu](games/s/sifu.md) | 6,356 | 4.82 | 66 |
 | 56 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,283 | 4.58 | 426 |
 | 57 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 5,964 | 4.79 | 88 |
@@ -61,7 +61,7 @@
 | 59 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,827 | 4.66 | 274 |
 | 60 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,710 | 4.82 | 66 |
 | 61 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 5,651 | 4.75 | 135 |
-| 62 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 5,639 | 4.69 | 212 |
+| 62 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 5,650 | 4.69 | 212 |
 | 63 | [Prey](games/p/prey.md) | 5,631 | 4.62 | 348 |
 | 64 | [Dead Island 2](games/d/dead_island_2.md) | 5,612 | 4.54 | 496 |
 | 65 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,540 | 4.85 | 40 |
@@ -114,8 +114,8 @@
 | 112 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 1,863 | 4.70 | 198 |
 | 113 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 1,795 | 4.56 | 469 |
 | 114 | [The Outer Worlds](games/t/the_outer_worlds.md) | 1,767 | 4.63 | 331 |
-| 115 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 1,759 | 4.57 | 448 |
-| 115 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 1,759 | 4.71 | 185 |
+| 115 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 1,761 | 4.71 | 185 |
+| 116 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 1,759 | 4.57 | 448 |
 | 117 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 1,699 | 4.76 | 118 |
 | 118 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 1,689 | 4.51 | 540 |
 | 119 | [Celeste](games/c/celeste.md) | 1,549 | 4.92 | 4 |
@@ -135,7 +135,7 @@
 | 133 | [XCOM® 2](games/x/xcom®_2.md) | 1,235 | 4.55 | 485 |
 | 134 | [OUTRIDERS](games/o/outriders.md) | 1,188 | 4.42 | 664 |
 | 135 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 1,181 | 4.69 | 212 |
-| 136 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,157 | 4.61 | 366 |
+| 136 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,159 | 4.61 | 366 |
 | 137 | [Rogue Legacy](games/r/rogue_legacy.md) | 1,072 | 4.61 | 366 |
 | 138 | [EVE Online](games/e/eve_online.md) | 1,058 | 4.25 | 819 |
 | 139 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,057 | 4.66 | 274 |

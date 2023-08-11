@@ -81,7 +81,7 @@
 | 77 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.81 | 0 | 511 |
 | 77 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 28 | 466 |
 | 77 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 0 | 511 |
-| 82 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,391 | 54 |
+| 82 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,393 | 54 |
 | 82 | [Griftlands](games/g/griftlands.md) | 4.80 | 0 | 511 |
 | 82 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 2,443 | 102 |
 | 82 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 0 | 511 |
@@ -196,7 +196,7 @@
 | 185 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 81 | 360 |
 | 185 | [SUPERHOT](games/s/superhot.md) | 4.71 | 0 | 511 |
 | 185 | [The Red Lantern](games/t/the_red_lantern.md) | 4.71 | 0 | 511 |
-| 185 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.71 | 1,759 | 115 |
+| 185 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.71 | 1,761 | 115 |
 | 198 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,553 | 72 |
 | 198 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 370 | 223 |
 | 198 | [For The King](games/f/for_the_king.md) | 4.70 | 379 | 219 |
@@ -215,7 +215,7 @@
 | 212 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 511 |
 | 212 | [CARRION](games/c/carrion.md) | 4.69 | 0 | 511 |
 | 212 | [DOOM II](games/d/doom_ii.md) | 4.69 | 26 | 473 |
-| 212 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 5,639 | 62 |
+| 212 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 5,650 | 62 |
 | 212 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 393 | 216 |
 | 212 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.69 | 0 | 511 |
 | 212 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.69 | 4,706 | 70 |
@@ -376,7 +376,7 @@
 | 366 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 42,720 | 12 |
 | 366 | [GigaBash](games/g/gigabash.md) | 4.61 | 0 | 511 |
 | 366 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.61 | 37 | 431 |
-| 366 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,157 | 136 |
+| 366 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,159 | 136 |
 | 366 | [MudRunner](games/m/mudrunner.md) | 4.61 | 250 | 250 |
 | 366 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 0 | 511 |
 | 366 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,549 | 98 |
@@ -466,7 +466,7 @@
 | 448 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 3,677 | 83 |
 | 448 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.57 | 30 | 462 |
 | 448 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 19,187 | 19 |
-| 448 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,759 | 115 |
+| 448 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,759 | 116 |
 | 448 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.57 | 57 | 393 |
 | 469 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.56 | 0 | 511 |
 | 469 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.56 | 0 | 511 |
@@ -514,7 +514,7 @@
 | 512 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 511 |
 | 512 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.53 | 23 | 488 |
 | 512 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 511 |
-| 512 | [Dauntless](games/d/dauntless.md) | 4.53 | 21,248 | 18 |
+| 512 | [Dauntless](games/d/dauntless.md) | 4.53 | 21,273 | 18 |
 | 512 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.53 | 34 | 441 |
 | 512 | [Everything](games/e/everything.md) | 4.53 | 0 | 511 |
 | 512 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 4.53 | 0 | 511 |
