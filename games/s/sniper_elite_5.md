@@ -48,10 +48,10 @@ Rating: 4.44 (Ranked 643)
 | Strategist | 0.80% | ~28 |
 | Burn after reading | 0.80% | ~28 |
 | Operation Foxley | 0.80% | ~27 |
+| From Paris with Love | 0.70% | ~24 |
 | Last Resort | 0.70% | ~24 |
 | Siegebreaker | 0.70% | ~24 |
 | Ghost of Falaise | 0.70% | ~24 |
-| From Paris with Love | 0.60% | ~21 |
 | Souvenir hunter | 0.60% | ~21 |
 | Eagle Eyed | 0.60% | ~21 |
 | Locomotion Commotion | 0.60% | ~21 |

@@ -1,7 +1,7 @@
 # Partisans 1941
 [Store](https://store.epicgames.com/en-US/p/partisans-1941)  
 [View Rawdata](../../db/p/partisans_1941.json)  
-Rating: 4.61 (Ranked 367)  
+Rating: 4.61 (Ranked 366)  
 Number of Ratings: 98  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -13,8 +13,8 @@ Number of Ratings: 98  (23.09.2022)
 | Mosquito bite | 31.00% | ~398 |
 | Spice It Up | 28.00% | ~360 |
 | Agent 47 | 23.00% | ~296 |
+| You're Gonna Go Far, Kid | 23.00% | ~296 |
 | Bomberman | 23.00% | ~296 |
-| You're Gonna Go Far, Kid | 22.00% | ~283 |
 | Death to the Oppressor! | 16.00% | ~206 |
 | The Gang's All Here | 14.00% | ~180 |
 | Your Answer | 13.00% | ~167 |

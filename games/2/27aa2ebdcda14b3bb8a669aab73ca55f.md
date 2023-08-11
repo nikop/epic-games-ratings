@@ -3,12 +3,12 @@
 [View Rawdata](../../db/2/27aa2ebdcda14b3bb8a669aab73ca55f.json)  
 Rating: 4.32 (Ranked 773)  
 ## Awards
-Max (Character Customization): 867  (Ranked 151)  
-Sum: 1,185 (Ranked 230)  
+Max (Character Customization): 908  (Ranked 150)  
+Sum: 1,226 (Ranked 229)  
 Diff (max vs sum): -79  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 867 |
+| This game has Inclusive Character Customization | 908 |
 | This game is Great for Beginners | 46 |
 | This game is Highly Recommended | 45 |
 | This game has Quickly Understood Controls | 45 |
@@ -42,4 +42,4 @@ Diff (max vs sum): -79
 | 2023-08-08 | 4.31 | 778 | 1,046 |
 | 2023-08-09 | 4.31 | 833 | 1,127 |
 | 2023-08-10 | 4.32 | 867 | 1,190 |
-| 2023-08-11 | 4.32 | 867 | 1,203 |
+| 2023-08-11 | 4.32 | 908 | 1,226 |

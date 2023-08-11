@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 373,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -495,9 +495,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 14482,
+  "EOS_Progressed": 14484,
   "EOS_Completed": 108,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -7890,6 +7890,11 @@
       "Time": "2023-08-11T20:04:26.6408331+00:00",
       "NumProgressed": 14482,
       "NumCompleted": 108
+    },
+    {
+      "Time": "2023-08-11T21:04:41.9567026+00:00",
+      "NumProgressed": 14484,
+      "NumCompleted": 108
     }
   ],
   "TotalAchievements": 41,
@@ -7941,7 +7946,7 @@
       "Name": "Friends of sorts",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4924
+      "UsersEstimate": 4925
     },
     {
       "ID": "tpote_achievement_15",
@@ -7949,7 +7954,7 @@
       "Name": "Care, like a brother cares",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "tpote_achievement_16",
@@ -7957,7 +7962,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2027
+      "UsersEstimate": 2028
     },
     {
       "ID": "tpote_achievement_17",
@@ -7989,7 +7994,7 @@
       "Name": "Yet another secret",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 4924
+      "UsersEstimate": 4925
     },
     {
       "ID": "tpote_achievement_20",
@@ -8013,7 +8018,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2896
+      "UsersEstimate": 2897
     },
     {
       "ID": "tpote_achievement_23",
@@ -8021,7 +8026,7 @@
       "Name": "A brush with death",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "tpote_achievement_24",
@@ -8069,7 +8074,7 @@
       "Name": "Skilled merchant",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1303
+      "UsersEstimate": 1304
     },
     {
       "ID": "tpote_achievement_3",
@@ -8077,7 +8082,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 4634
+      "UsersEstimate": 4635
     },
     {
       "ID": "tpote_achievement_30",
@@ -8101,7 +8106,7 @@
       "Name": "Jack was here!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2172
+      "UsersEstimate": 2173
     },
     {
       "ID": "tpote_achievement_33",
@@ -8109,7 +8114,7 @@
       "Name": "Nothing but make-believe",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1303
+      "UsersEstimate": 1304
     },
     {
       "ID": "tpote_achievement_34",
@@ -8133,7 +8138,7 @@
       "Name": "Brother Marcus",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1303
+      "UsersEstimate": 1304
     },
     {
       "ID": "tpote_achievement_37",
@@ -8157,7 +8162,7 @@
       "Name": "The oath",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1303
+      "UsersEstimate": 1304
     },
     {
       "ID": "tpote_achievement_4",
@@ -8173,7 +8178,7 @@
       "Name": "The truth revealed",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1303
+      "UsersEstimate": 1304
     },
     {
       "ID": "tpote_achievement_41",
@@ -8181,7 +8186,7 @@
       "Name": "The End.",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 1303
+      "UsersEstimate": 1304
     },
     {
       "ID": "tpote_achievement_5",
@@ -8228,15 +8233,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 14482,
+      "Progressed": 14484,
       "Completed": 108
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-08-03T13:08:30.3350415+00:00",
-  "LastChanged_Achievements": "2023-08-11T20:04:26.6408321+00:00",
+  "LastChanged_Achievements": "2023-08-11T21:04:41.9567022+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:55.7503888+00:00",
-  "LastUpdate_Ratings": "2023-08-11T20:01:50.2409473+00:00",
-  "LastUpdate_Achievements": "2023-08-11T20:04:26.641007+00:00"
+  "LastUpdate_Ratings": "2023-08-11T21:02:19.6154584+00:00",
+  "LastUpdate_Achievements": "2023-08-11T21:04:41.9567624+00:00"
 }

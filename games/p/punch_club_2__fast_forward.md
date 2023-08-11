@@ -17,16 +17,16 @@
 | Employee of the week | 75.00% | ~183 |
 | Your own amateur gym | 74.00% | ~181 |
 | Run K, run! | 72.00% | ~176 |
+| Hello, world! | 69.00% | ~168 |
 | Fighting is cool | 68.00% | ~166 |
 | No bullying more | 68.00% | ~166 |
-| Hello, world! | 68.00% | ~166 |
 | Pal of your father? | 66.00% | ~161 |
 | Employee of the month | 64.00% | ~156 |
 | Spirit of the past | 63.00% | ~154 |
 | Law student | 61.00% | ~149 |
-| Workout professional | 58.00% | ~142 |
+| Workout professional | 59.00% | ~144 |
+| It's good to be alive | 59.00% | ~144 |
 | Little hacker | 58.00% | ~142 |
-| It's good to be alive | 58.00% | ~142 |
 | Own four walls | 58.00% | ~142 |
 | Handyman | 57.00% | ~139 |
 | Champion – starter pack | 57.00% | ~139 |
@@ -71,7 +71,7 @@
 | Better cooking at home | 26.00% | ~63 |
 | The only right decision | 25.00% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 244 (Ranked 269)  
+Progressed: 244 (Ranked 270)  
 Completed: 8 (3.28%) (Ranked 64)  
 ## EOS Players History
 | Date | Progressed | Completed |

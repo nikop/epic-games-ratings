@@ -99,6 +99,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 3 | 0.50% | ~67 |
 | Power to the People | 0.50% | ~67 |
 | Economic Reform | 0.50% | ~67 |
+| Dualism | 0.50% | ~67 |
 | Legalism | 0.50% | ~67 |
 | Cimmerian Archer | 0.50% | ~67 |
 | Legionary | 0.50% | ~67 |
@@ -118,7 +119,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Assyrian Paganism | 0.40% | ~53 |
 | Industrial Progress | 0.40% | ~53 |
 | Military Prestige | 0.40% | ~53 |
-| Dualism | 0.40% | ~53 |
 | Enlightenment | 0.40% | ~53 |
 | Gnosticism | 0.40% | ~53 |
 | Redemption | 0.40% | ~53 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,359 (Ranked 117)  
+Progressed: 13,362 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -416,7 +416,7 @@ Completed: 5 (0.04%) (Ranked 222)
 | 2023-08-08 | 13,332 | 5 |
 | 2023-08-09 | 13,342 | 5 |
 | 2023-08-10 | 13,349 | 5 |
-| 2023-08-11 | 13,359 | 5 |
+| 2023-08-11 | 13,362 | 5 |
 ## Awards
 Max (Relaxing): 219  (Ranked 264)  
 Sum: 1,789 (Ranked 206)  

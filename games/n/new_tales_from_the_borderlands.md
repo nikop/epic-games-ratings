@@ -15,7 +15,7 @@ Rating: 4.09 (Ranked 904)
 | Don't Get Cocky | 27.00% | ~961 |
 | Shard Snatchers | 24.00% | ~854 |
 | You Rich Now! | 22.00% | ~783 |
-| Our Lucky Winner | 21.00% | ~747 |
+| Our Lucky Winner | 21.00% | ~748 |
 | You Poor Now! | 20.00% | ~712 |
 | You Got the Goods, Kid | 20.00% | ~712 |
 | The Shardmenstration | 19.00% | ~676 |
@@ -32,7 +32,7 @@ Rating: 4.09 (Ranked 904)
 | Not Dolls. Action Figures! | 0.20% | ~7 |
 | You Played This Before? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,559 (Ranked 148)  
+Progressed: 3,560 (Ranked 148)  
 Completed: 0 (0.00%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,7 +119,7 @@ Completed: 0 (0.00%) (Ranked 253)
 | 2023-08-05 | 3,554 | 0 |
 | 2023-08-06 | 3,557 | 0 |
 | 2023-08-10 | 3,558 | 0 |
-| 2023-08-11 | 3,559 | 0 |
+| 2023-08-11 | 3,560 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

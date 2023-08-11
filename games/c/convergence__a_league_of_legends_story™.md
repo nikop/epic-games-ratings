@@ -1,18 +1,18 @@
 # CONVERGENCE: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/convergence-a-league-of-legends-story)  
 [View Rawdata](../../db/c/convergence__a_league_of_legends_story™.json)  
-Rating: 4.60 (Ranked 390)  
+Rating: 4.60 (Ranked 389)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 25.00% | ~208 |
 | Rail Rat | 21.00% | ~175 |
 | The Mysterious Stranger | 20.00% | ~166 |
+| The Steel Shadow | 18.00% | ~150 |
 | Make Up For Lost Time | 18.00% | ~150 |
 | The Prince in Heels | 18.00% | ~150 |
 | Immaculate Aim | 18.00% | ~150 |
 | The Brass Boss | 18.00% | ~150 |
-| The Steel Shadow | 17.00% | ~141 |
 | Time Flies | 17.00% | ~141 |
 | The Harder They Fall | 17.00% | ~141 |
 | No, Thanks! | 17.00% | ~141 |
@@ -53,9 +53,9 @@ Rating: 4.60 (Ranked 390)
 | Wunderkind | 2.00% | ~17 |
 | Fitting In | 2.00% | ~17 |
 | Thinking Two Steps Ahead | 1.00% | ~8 |
+| A Lesson in Precision | 1.00% | ~8 |
 | No Time to Waste | 1.00% | ~8 |
 | Wildlife Protection | 0.80% | ~7 |
-| A Lesson in Precision | 0.80% | ~7 |
 | Going to Live Forever | 0.60% | ~5 |
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)

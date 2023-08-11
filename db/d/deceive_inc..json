@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -220,9 +220,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17277,
+  "EOS_Progressed": 17279,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 374,
+  "EOS_NewPlayers": 373,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8030,6 +8030,11 @@
       "Time": "2023-08-11T20:04:44.6298114+00:00",
       "NumProgressed": 17277,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-11T21:05:02.6193579+00:00",
+      "NumProgressed": 17279,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -8041,7 +8046,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5010
+      "UsersEstimate": 5011
     },
     {
       "ID": "0002",
@@ -8129,7 +8134,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2764
+      "UsersEstimate": 2765
     },
     {
       "ID": "0013",
@@ -8137,7 +8142,7 @@
       "Name": "Keycards Royale",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1900
+      "UsersEstimate": 1901
     },
     {
       "ID": "0014",
@@ -8193,7 +8198,7 @@
       "Name": "Dr. No Kill",
       "Percentage": 11,
       "XP": 115,
-      "UsersEstimate": 1900
+      "UsersEstimate": 1901
     },
     {
       "ID": "0021",
@@ -8249,7 +8254,7 @@
       "Name": "My Motto, My Creed",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1900
+      "UsersEstimate": 1901
     },
     {
       "ID": "0028",
@@ -8313,7 +8318,7 @@
       "Name": "Chairman of Deceive Inc.",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "0036",
@@ -8328,7 +8333,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17277,
+      "Progressed": 17279,
       "Completed": 1
     }
   ],
@@ -8336,8 +8341,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-08T19:59:53.3803436+00:00",
-  "LastChanged_Achievements": "2023-08-11T20:04:44.6298111+00:00",
+  "LastChanged_Achievements": "2023-08-11T21:05:02.6193568+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:35.6736811+00:00",
-  "LastUpdate_Ratings": "2023-08-11T20:01:26.2702739+00:00",
-  "LastUpdate_Achievements": "2023-08-11T20:04:44.6298664+00:00"
+  "LastUpdate_Ratings": "2023-08-11T21:02:01.6984885+00:00",
+  "LastUpdate_Achievements": "2023-08-11T21:05:02.6194716+00:00"
 }

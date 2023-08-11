@@ -5,7 +5,7 @@ Rating: 4.57 (Ranked 448)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 29.00% | ~5,010 |
+| On Deceive Inc.'s Secret Service | 29.00% | ~5,011 |
 | Mainframe Hacker | 23.00% | ~3,974 |
 | The Spy who eliminated me | 23.00% | ~3,974 |
 | Tomorrow Never Dyes | 22.00% | ~3,801 |
@@ -15,16 +15,16 @@ Rating: 4.57 (Ranked 448)
 | For your Eyes only | 18.00% | ~3,110 |
 | Assistant Accountant | 17.00% | ~2,937 |
 | Fully Decked Out | 17.00% | ~2,937 |
-| You Only Live Twice | 16.00% | ~2,764 |
+| You Only Live Twice | 16.00% | ~2,765 |
 | A view to Win | 13.00% | ~2,246 |
 | The Living Portrait | 12.00% | ~2,073 |
 | Private Collection | 12.00% | ~2,073 |
 | Killer Looks | 12.00% | ~2,073 |
 | Hostile Takeover | 12.00% | ~2,073 |
 | Smells Like Trouble | 12.00% | ~2,073 |
-| Keycards Royale | 11.00% | ~1,900 |
-| Dr. No Kill | 11.00% | ~1,900 |
-| My Motto, My Creed | 11.00% | ~1,900 |
+| Keycards Royale | 11.00% | ~1,901 |
+| Dr. No Kill | 11.00% | ~1,901 |
+| My Motto, My Creed | 11.00% | ~1,901 |
 | In It to Win It | 10.00% | ~1,728 |
 | Security Supervisor | 6.00% | ~1,037 |
 | License to Thrill | 5.00% | ~864 |
@@ -36,13 +36,13 @@ Rating: 4.57 (Ranked 448)
 | PHD in VIP | 2.00% | ~346 |
 | The terminals are not enough | 1.00% | ~173 |
 | Lose Another Day | 1.00% | ~173 |
-| Chairman of Deceive Inc. | 0.90% | ~155 |
+| Chairman of Deceive Inc. | 0.90% | ~156 |
 | Chief Information Officer | 0.70% | ~121 |
 | Masteries Are Forever | 0.30% | ~52 |
 | Extraction Confusion | 0.20% | ~35 |
 | Spyfall | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,277 (Ranked 109)  
+Progressed: 17,279 (Ranked 109)  
 Completed: 1 (0.01%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,7 +155,7 @@ Completed: 1 (0.01%) (Ranked 240)
 | 2023-08-08 | 17,146 | 1 |
 | 2023-08-09 | 17,187 | 1 |
 | 2023-08-10 | 17,234 | 1 |
-| 2023-08-11 | 17,277 | 1 |
+| 2023-08-11 | 17,279 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

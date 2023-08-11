@@ -8,10 +8,10 @@ Number of Ratings: 495  (23.09.2022)
 | ---- | ---------- | ----- |
 | Genin | 11.00% | ~21,221 |
 | Thorough | 10.00% | ~19,292 |
-| A thief's beginning | 9.00% | ~17,362 |
-| Disguised | 8.00% | ~15,433 |
-| Rollin' | 8.00% | ~15,433 |
-| Tanuki Time | 8.00% | ~15,433 |
+| A thief's beginning | 9.00% | ~17,363 |
+| Disguised | 8.00% | ~15,434 |
+| Rollin' | 8.00% | ~15,434 |
+| Tanuki Time | 8.00% | ~15,434 |
 | Jonin | 7.00% | ~13,504 |
 | Rescue Takuma | 7.00% | ~13,504 |
 | Stoned Ox | 7.00% | ~13,504 |
@@ -27,9 +27,9 @@ Number of Ratings: 495  (23.09.2022)
 | Happy little accidents | 4.00% | ~7,717 |
 | Prisoners | 4.00% | ~7,717 |
 | Too Early | 4.00% | ~7,717 |
-| Noboru | 3.00% | ~5,787 |
-| Still Rollin' | 3.00% | ~5,787 |
-| Stoned | 3.00% | ~5,787 |
+| Noboru | 3.00% | ~5,788 |
+| Still Rollin' | 3.00% | ~5,788 |
+| Stoned | 3.00% | ~5,788 |
 | Atheist Ox | 2.00% | ~3,858 |
 | It's raining men | 2.00% | ~3,858 |
 | Old Man | 2.00% | ~3,858 |
@@ -38,7 +38,7 @@ Number of Ratings: 495  (23.09.2022)
 | Meticulous | 1.00% | ~1,929 |
 | No Gimmicks | 1.00% | ~1,929 |
 | The End | 1.00% | ~1,929 |
-| Undeserved Honor | 0.90% | ~1,736 |
+| Undeserved Honor | 1.00% | ~1,929 |
 | When Cut Across the Neck | 0.80% | ~1,543 |
 | High Five the Moon | 0.70% | ~1,350 |
 | The Cave | 0.70% | ~1,350 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~193 |
 | Release the Kraken | 0.10% | ~193 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 192,916 (Ranked 59)  
+Progressed: 192,919 (Ranked 59)  
 Completed: 69 (0.04%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,7 +164,7 @@ Completed: 69 (0.04%) (Ranked 222)
 | 2023-08-08 | 192,261 | 67 |
 | 2023-08-09 | 192,484 | 68 |
 | 2023-08-10 | 192,685 | 68 |
-| 2023-08-11 | 192,916 | 69 |
+| 2023-08-11 | 192,919 | 69 |
 ## Awards
 Max (Great for Beginners): 561  (Ranked 186)  
 Sum: 4,724 (Ranked 134)  

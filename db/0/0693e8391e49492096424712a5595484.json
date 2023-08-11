@@ -1417,9 +1417,9 @@
       "ID": "BearPistol",
       "SetID": "db30heh",
       "Name": "Ouch!",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 204
+      "UsersEstimate": 207
     },
     {
       "ID": "BearPoppiesBroth",
@@ -1481,9 +1481,9 @@
       "ID": "BroomPistol",
       "SetID": "db30heh",
       "Name": "Target Hit",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 92
+      "UsersEstimate": 96
     },
     {
       "ID": "DevilPriest",
@@ -1752,8 +1752,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-08-11T20:07:20.2864393+00:00",
+  "LastChanged_Achievements": "2023-08-11T21:07:35.8626777+00:00",
   "LastUpdate_AppInfo": "2023-08-08T15:57:07.8979254+00:00",
-  "LastUpdate_Ratings": "2023-08-11T19:58:01.5825692+00:00",
-  "LastUpdate_Achievements": "2023-08-11T20:07:20.2864752+00:00"
+  "LastUpdate_Ratings": "2023-08-11T20:58:08.3126257+00:00",
+  "LastUpdate_Achievements": "2023-08-11T21:07:35.8627124+00:00"
 }

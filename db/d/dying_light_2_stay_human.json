@@ -2,7 +2,7 @@
   "ID": "87b7846d2eba4bc49eead0854323aba8",
   "Name": "Dying Light 2 Stay Human",
   "ProductSlug": "dying-light-2-stay-human",
-  "Ranking_Rating": 427,
+  "Ranking_Rating": 426,
   "Ranking_Popularity": 39,
   "Ranking_PopularitySum": 54,
   "Ranking_EOS_Progress": 27,
@@ -8179,9 +8179,9 @@
       "Count": 643
     }
   ],
-  "EOS_Progressed": 610651,
+  "EOS_Progressed": 610666,
   "EOS_Completed": 62,
-  "EOS_NewPlayers": 3014,
+  "EOS_NewPlayers": 3006,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -20674,6 +20674,11 @@
       "Time": "2023-08-11T20:06:10.0815453+00:00",
       "NumProgressed": 610651,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2023-08-11T21:06:20.6917655+00:00",
+      "NumProgressed": 610666,
+      "NumCompleted": 62
     }
   ],
   "TotalAchievements": 65,
@@ -20685,7 +20690,7 @@
       "Name": "Into the Unknown",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 61065
+      "UsersEstimate": 61067
     },
     {
       "ID": "achievement_02",
@@ -20693,7 +20698,7 @@
       "Name": "First Shot",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 61065
+      "UsersEstimate": 61067
     },
     {
       "ID": "achievement_03",
@@ -20701,7 +20706,7 @@
       "Name": "Herzlich Wilkommen!",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 54959
+      "UsersEstimate": 54960
     },
     {
       "ID": "achievement_04",
@@ -20709,7 +20714,7 @@
       "Name": "Under Pressure",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 42746
+      "UsersEstimate": 42747
     },
     {
       "ID": "achievement_05",
@@ -20717,7 +20722,7 @@
       "Name": "On the Trail of the Enemy",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 42746
+      "UsersEstimate": 42747
     },
     {
       "ID": "achievement_06",
@@ -20725,7 +20730,7 @@
       "Name": "Light in the Darkness",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 42746
+      "UsersEstimate": 42747
     },
     {
       "ID": "achievement_07",
@@ -20733,7 +20738,7 @@
       "Name": "Get Outta My House!",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 36639
+      "UsersEstimate": 36640
     },
     {
       "ID": "achievement_08",
@@ -20773,7 +20778,7 @@
       "Name": "Going Down",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 24426
+      "UsersEstimate": 24427
     },
     {
       "ID": "achievement_13",
@@ -20781,7 +20786,7 @@
       "Name": "Family First",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 24426
+      "UsersEstimate": 24427
     },
     {
       "ID": "achievement_14",
@@ -20789,7 +20794,7 @@
       "Name": "Your World, Your Rules",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 24426
+      "UsersEstimate": 24427
     },
     {
       "ID": "achievement_15",
@@ -20821,7 +20826,7 @@
       "Name": "Sancho Panza",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 48852
+      "UsersEstimate": 48853
     },
     {
       "ID": "achievement_19",
@@ -20861,7 +20866,7 @@
       "Name": "It Wasn\u0027t That Hard, Was It?",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 36639
+      "UsersEstimate": 36640
     },
     {
       "ID": "achievement_24",
@@ -20877,7 +20882,7 @@
       "Name": "Flag Burning",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 42746
+      "UsersEstimate": 42747
     },
     {
       "ID": "achievement_26",
@@ -20893,7 +20898,7 @@
       "Name": "You Never Forget Your First...",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 67172
+      "UsersEstimate": 67173
     },
     {
       "ID": "achievement_28",
@@ -20901,7 +20906,7 @@
       "Name": "Oh, So This Is How It Works!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 48852
+      "UsersEstimate": 48853
     },
     {
       "ID": "achievement_29",
@@ -20973,7 +20978,7 @@
       "Name": "Good Night \u0026 Good Luck",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 54959
+      "UsersEstimate": 54960
     },
     {
       "ID": "achievement_38",
@@ -20989,7 +20994,7 @@
       "Name": "Night Hunter",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 42746
+      "UsersEstimate": 42747
     },
     {
       "ID": "achievement_40",
@@ -20997,7 +21002,7 @@
       "Name": "Death From Afar",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 24426
+      "UsersEstimate": 24427
     },
     {
       "ID": "achievement_41",
@@ -21013,7 +21018,7 @@
       "Name": "Terminal Headache",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 24426
+      "UsersEstimate": 24427
     },
     {
       "ID": "achievement_43",
@@ -21021,7 +21026,7 @@
       "Name": "Slowpoke!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 24426
+      "UsersEstimate": 24427
     },
     {
       "ID": "achievement_44",
@@ -21029,7 +21034,7 @@
       "Name": "Being All Social",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 36639
+      "UsersEstimate": 36640
     },
     {
       "ID": "achievement_45",
@@ -21204,21 +21209,21 @@
     {
       "ID": "3cbf5jh",
       "IsBase": true,
-      "Progressed": 610651,
+      "Progressed": 610666,
       "Completed": 62
     },
     {
       "ID": "likk62",
       "IsBase": false,
-      "Progressed": 256095,
+      "Progressed": 256110,
       "Completed": 1425
     }
   ],
   "FirstSeen": "2022-07-22T20:18:57.6151265+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.1190573+00:00",
   "LastChanged": "2023-08-11T19:02:03.3646082+00:00",
-  "LastChanged_Achievements": "2023-08-11T20:06:10.0815447+00:00",
+  "LastChanged_Achievements": "2023-08-11T21:06:20.6917646+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:56.1806773+00:00",
-  "LastUpdate_Ratings": "2023-08-11T20:01:53.4763478+00:00",
-  "LastUpdate_Achievements": "2023-08-11T20:06:10.0816543+00:00"
+  "LastUpdate_Ratings": "2023-08-11T21:02:22.6242324+00:00",
+  "LastUpdate_Achievements": "2023-08-11T21:06:20.6918749+00:00"
 }
