@@ -4,8 +4,8 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 282,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -751,9 +751,9 @@
       "ID": "ArtifactsCollector",
       "SetID": "82505mn",
       "Name": "Artifact Collector",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 81
+      "UsersEstimate": 85
     },
     {
       "ID": "Assassin",
@@ -1064,8 +1064,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-08-12T17:06:09.7358857+00:00",
+  "LastChanged_Achievements": "2023-08-12T18:06:32.4458318+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:34.0188198+00:00",
-  "LastUpdate_Ratings": "2023-08-12T17:03:10.6507048+00:00",
-  "LastUpdate_Achievements": "2023-08-12T17:06:09.7359467+00:00"
+  "LastUpdate_Ratings": "2023-08-12T18:03:30.1063044+00:00",
+  "LastUpdate_Achievements": "2023-08-12T18:06:32.4459213+00:00"
 }

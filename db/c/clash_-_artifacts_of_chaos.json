@@ -3,9 +3,9 @@
   "Name": "Clash - Artifacts of Chaos",
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
   "Ranking_EOS_Progress": 318,
-  "Ranking_EOS_Completed": 115,
-  "Ranking_EOS_NewPlayers": 253,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_Completed": 117,
+  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
     "PcReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 102,
+  "EOS_Progressed": 103,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.98,
+  "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:21.1984631+00:00",
@@ -258,6 +258,11 @@
       "Time": "2023-08-09T18:04:53.545473+00:00",
       "NumProgressed": 102,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-12T18:07:42.5667325+00:00",
+      "NumProgressed": 103,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 21,
@@ -275,7 +280,7 @@
       "ID": "Achievement10",
       "SetID": "jf6ho5",
       "Name": "The Pride of Moozhaw",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 15,
       "UsersEstimate": 22
     },
@@ -331,7 +336,7 @@
       "ID": "Achievement17",
       "SetID": "jf6ho5",
       "Name": "Declawing",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 35,
       "UsersEstimate": 70
     },
@@ -355,7 +360,7 @@
       "ID": "Achievement2",
       "SetID": "jf6ho5",
       "Name": "Winner",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 35,
       "UsersEstimate": 23
     },
@@ -387,7 +392,7 @@
       "ID": "Achievement4",
       "SetID": "jf6ho5",
       "Name": "Omnia Vincit Amor",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 90,
       "UsersEstimate": 22
     },
@@ -436,7 +441,7 @@
     {
       "ID": "jf6ho5",
       "IsBase": true,
-      "Progressed": 102,
+      "Progressed": 103,
       "Completed": 1
     }
   ],
@@ -444,8 +449,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2023-08-12T17:07:19.6109765+00:00",
+  "LastChanged_Achievements": "2023-08-12T18:07:42.5667319+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:11.5271676+00:00",
-  "LastUpdate_Ratings": "2023-08-12T16:57:24.1548403+00:00",
-  "LastUpdate_Achievements": "2023-08-12T17:07:19.6110007+00:00"
+  "LastUpdate_Ratings": "2023-08-12T17:57:20.8140952+00:00",
+  "LastUpdate_Achievements": "2023-08-12T18:07:42.5667486+00:00"
 }

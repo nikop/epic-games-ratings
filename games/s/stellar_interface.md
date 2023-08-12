@@ -4,32 +4,32 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 84.00% | ~49 |
-| Killing Spree | 69.00% | ~40 |
-| 5Gb HDD | 52.00% | ~30 |
-| Merchant Prince I | 52.00% | ~30 |
-| Dominating | 33.00% | ~19 |
-| Fighting Fit I | 31.00% | ~18 |
-| Rambo I | 28.00% | ~16 |
-| 10Gb HDD | 28.00% | ~16 |
-| The Vette | 24.00% | ~14 |
-| Mega Kill | 21.00% | ~12 |
-| Almost There I | 19.00% | ~11 |
+| First Blood | 82.00% | ~49 |
+| Killing Spree | 67.00% | ~40 |
+| 5Gb HDD | 50.00% | ~30 |
+| Merchant Prince I | 50.00% | ~30 |
+| Dominating | 32.00% | ~19 |
+| Fighting Fit I | 30.00% | ~18 |
+| Rambo I | 27.00% | ~16 |
+| 10Gb HDD | 27.00% | ~16 |
+| The Vette | 23.00% | ~14 |
+| Mega Kill | 20.00% | ~12 |
+| Almost There I | 18.00% | ~11 |
 | Stoic | 17.00% | ~10 |
-| Omicron Alpha | 16.00% | ~9 |
-| Galactic Cadet | 14.00% | ~8 |
+| Omicron Alpha | 15.00% | ~9 |
+| Galactic Cadet | 13.00% | ~8 |
 | Bronze Prince of Ball-air | 12.00% | ~7 |
 | Pacifist | 12.00% | ~7 |
 | Collateral Damage I | 12.00% | ~7 |
 | Defrosted | 10.00% | ~6 |
 | 25Gb HDD | 10.00% | ~6 |
-| Sectoral Ensign | 9.00% | ~5 |
-| Rambo II | 9.00% | ~5 |
-| Golden Prince of Ball-air | 9.00% | ~5 |
-| Space Surfer | 9.00% | ~5 |
-| Unstoppable | 9.00% | ~5 |
-| Silver Prince of Ball-air | 9.00% | ~5 |
-| Merchant Prince II | 9.00% | ~5 |
+| Sectoral Ensign | 8.00% | ~5 |
+| Rambo II | 8.00% | ~5 |
+| Golden Prince of Ball-air | 8.00% | ~5 |
+| Space Surfer | 8.00% | ~5 |
+| Unstoppable | 8.00% | ~5 |
+| Silver Prince of Ball-air | 8.00% | ~5 |
+| Merchant Prince II | 8.00% | ~5 |
 | Usurper I | 7.00% | ~4 |
 | Flower Power | 7.00% | ~4 |
 | Galactic Lieutenant | 7.00% | ~4 |
@@ -137,7 +137,7 @@
 | Fighting Fit IV | 0.00% | ~0 |
 | Fighting Fit V | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58 (Ranked 353)  
+Progressed: 60 (Ranked 352)  
 Completed: 0 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,3 +176,4 @@ Completed: 0 (0.00%) (Ranked 255)
 | 2023-08-01 | 56 | 0 |
 | 2023-08-02 | 57 | 0 |
 | 2023-08-05 | 58 | 0 |
+| 2023-08-12 | 60 | 0 |

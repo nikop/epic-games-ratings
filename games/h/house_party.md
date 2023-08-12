@@ -1,7 +1,7 @@
 # House Party
 [Store](https://store.epicgames.com/en-US/p/house-party-ae8b27)  
 [View Rawdata](../../db/h/house_party.json)  
-Rating: 4.33 (Ranked 765)  
+Rating: 4.33 (Ranked 764)  
 Number of Ratings: 177  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -36,12 +36,12 @@ Number of Ratings: 177  (23.09.2022)
 | Stephanie | 0.40% | ~24 |
 | Te Amo Lety | 0.40% | ~24 |
 | Ashley | 0.30% | ~18 |
+| The Bride | 0.30% | ~18 |
 | Deck the Balls | 0.30% | ~9 |
 | Rachael | 0.30% | ~18 |
 | The Elder Brahs | 0.30% | ~18 |
 | Good Ol' Days | 0.30% | ~18 |
 | Beyond the Call of Dude-y | 0.20% | ~12 |
-| The Bride | 0.20% | ~12 |
 | Drunk and Disorderly: Madison | 0.20% | ~12 |
 | Do Not Burn | 0.20% | ~12 |
 | The Harder They Fall...Dood | 0.20% | ~12 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | Sucker Punch | 0.00% | ~0 |
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,052 (Ranked 136)  
+Progressed: 6,053 (Ranked 136)  
 Completed: 3 (0.05%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,6 +189,7 @@ Completed: 3 (0.05%) (Ranked 220)
 | 2023-08-09 | 6,048 | 3 |
 | 2023-08-10 | 6,050 | 3 |
 | 2023-08-11 | 6,052 | 3 |
+| 2023-08-12 | 6,053 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

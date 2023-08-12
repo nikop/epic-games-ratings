@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2150,
+  "EOS_Progressed": 2151,
   "EOS_Completed": 195,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 9.07,
   "EosHistory": [
@@ -4858,6 +4858,11 @@
       "Time": "2023-08-12T15:04:18.3852363+00:00",
       "NumProgressed": 2150,
       "NumCompleted": 195
+    },
+    {
+      "Time": "2023-08-12T18:06:02.5977668+00:00",
+      "NumProgressed": 2151,
+      "NumCompleted": 195
     }
   ],
   "TotalAchievements": 12,
@@ -4869,7 +4874,7 @@
       "Name": "Arranging Boxes",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "Bernard",
@@ -4893,7 +4898,7 @@
       "Name": "Green Ticket Roundup",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "Jacques a Dit",
@@ -4964,7 +4969,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2150,
+      "Progressed": 2151,
       "Completed": 195
     }
   ],
@@ -4972,8 +4977,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-08-12T17:05:39.2668708+00:00",
+  "LastChanged_Achievements": "2023-08-12T18:06:02.597766+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:29.1677091+00:00",
-  "LastUpdate_Ratings": "2023-08-12T17:03:03.195051+00:00",
-  "LastUpdate_Achievements": "2023-08-12T17:05:39.2669446+00:00"
+  "LastUpdate_Ratings": "2023-08-12T18:03:17.9409972+00:00",
+  "LastUpdate_Achievements": "2023-08-12T18:06:02.5978367+00:00"
 }

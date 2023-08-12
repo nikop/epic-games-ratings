@@ -30,8 +30,8 @@ Rating: 4.88 (Ranked 18)
 | Out in a puff of smoke | 4.00% | ~155 |
 | Perfecter Parry-er! | 4.00% | ~155 |
 | NOW we got a kickass hideout! | 4.00% | ~95 |
+| Well that was a rush! | 3.00% | ~116 |
 | I have to read these things? | 3.00% | ~116 |
-| Well that was a rush! | 2.00% | ~77 |
 | Beat-hit mania | 2.00% | ~77 |
 | That's a lot of junk metal… | 2.00% | ~77 |
 | There's such a thing as TOO helpful | 2.00% | ~77 |

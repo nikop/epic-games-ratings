@@ -7,14 +7,15 @@ Number of Ratings: 1,307  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Clergy | 4.00% | ~535 |
+| Settler | 3.00% | ~401 |
 | Able | 2.00% | ~268 |
 | Architect | 2.00% | ~268 |
 | Explorer | 2.00% | ~268 |
 | Good | 2.00% | ~268 |
 | Intrepid | 2.00% | ~268 |
+| Just | 2.00% | ~268 |
 | Mason | 2.00% | ~268 |
 | Noble | 2.00% | ~268 |
-| Settler | 2.00% | ~268 |
 | Strong | 2.00% | ~268 |
 | Friendly Family | 2.00% | ~268 |
 | Hanging Gardens | 2.00% | ~268 |
@@ -27,7 +28,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Fountainhead | 1.00% | ~134 |
 | Glorious | 1.00% | ~134 |
 | Great | 1.00% | ~134 |
-| Just | 1.00% | ~134 |
 | Keystone | 1.00% | ~134 |
 | Learned | 1.00% | ~134 |
 | Magnificent | 1.00% | ~134 |
@@ -37,9 +37,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Developing Cities | 1.00% | ~134 |
 | Strong Cities | 1.00% | ~134 |
 | Able Difficulty | 1.00% | ~134 |
+| Furious Family | 1.00% | ~134 |
 | Great Ziggurat | 1.00% | ~134 |
 | Ishtar Gate | 1.00% | ~134 |
 | Lighthouse | 1.00% | ~134 |
+| Musaeum | 1.00% | ~134 |
 | Necropolis | 1.00% | ~134 |
 | Oracle | 1.00% | ~134 |
 | Pyramids | 1.00% | ~134 |
@@ -57,10 +59,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Regicide | 0.90% | ~120 |
 | Just Difficulty | 0.90% | ~120 |
 | Artisans | 0.90% | ~120 |
-| Furious Family | 0.90% | ~120 |
 | Apadana | 0.90% | ~120 |
 | Colossus | 0.90% | ~120 |
-| Musaeum | 0.90% | ~120 |
 | Drillmaster | 0.80% | ~107 |
 | Legendary Cities | 0.80% | ~107 |
 | Sages | 0.80% | ~107 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,378 (Ranked 117)  
+Progressed: 13,381 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -417,7 +417,7 @@ Completed: 5 (0.04%) (Ranked 224)
 | 2023-08-09 | 13,342 | 5 |
 | 2023-08-10 | 13,349 | 5 |
 | 2023-08-11 | 13,363 | 5 |
-| 2023-08-12 | 13,378 | 5 |
+| 2023-08-12 | 13,381 | 5 |
 ## Awards
 Max (Relaxing): 219  (Ranked 264)  
 Sum: 1,790 (Ranked 206)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 479,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -2560,9 +2560,9 @@
       "ID": "ID_ACHIEV_54",
       "SetID": "98bke8c",
       "Name": "No More Marching",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 368
+      "UsersEstimate": 414
     },
     {
       "ID": "ID_ACHIEV_55",
@@ -2688,8 +2688,8 @@
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-08-10T19:59:47.7882378+00:00",
-  "LastChanged_Achievements": "2023-08-12T17:06:13.2269177+00:00",
+  "LastChanged_Achievements": "2023-08-12T18:06:35.8564989+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:41.2655644+00:00",
-  "LastUpdate_Ratings": "2023-08-12T17:00:42.947324+00:00",
-  "LastUpdate_Achievements": "2023-08-12T17:06:13.2270591+00:00"
+  "LastUpdate_Ratings": "2023-08-12T18:00:43.9668486+00:00",
+  "LastUpdate_Achievements": "2023-08-12T18:06:35.8566538+00:00"
 }

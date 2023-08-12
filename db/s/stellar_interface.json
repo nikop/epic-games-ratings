@@ -2,10 +2,10 @@
   "ID": "d3c246767bfc4056af80742e75319d79",
   "Name": "Stellar Interface",
   "ProductSlug": "stellar-interface-d14cc4",
-  "Ranking_EOS_Progress": 353,
+  "Ranking_EOS_Progress": 352,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 355,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-03-30T00:00:00+00:00",
     "PcReleaseDate": "2016-11-21T00:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 58,
+  "EOS_Progressed": 60,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -306,6 +306,11 @@
       "Time": "2023-08-05T04:05:39.9450241+00:00",
       "NumProgressed": 58,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-12T18:09:07.251604+00:00",
+      "NumProgressed": 60,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 132,
@@ -395,7 +400,7 @@
       "ID": "BronzeMissionsCompleted5Achievement",
       "SetID": "a8djcgh",
       "Name": "Sectoral Ensign",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -451,7 +456,7 @@
       "ID": "Cleared10LevelsAchievement",
       "SetID": "a8djcgh",
       "Name": "Rambo I",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 5,
       "UsersEstimate": 16
     },
@@ -491,7 +496,7 @@
       "ID": "Cleared50LevelsAchievement",
       "SetID": "a8djcgh",
       "Name": "Rambo II",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -651,7 +656,7 @@
       "ID": "ConsumableUsed10TimesAchievement",
       "SetID": "a8djcgh",
       "Name": "Omicron Alpha",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
       "UsersEstimate": 9
     },
@@ -683,7 +688,7 @@
       "ID": "CorvetteSpacecraftUnlockAchievement",
       "SetID": "a8djcgh",
       "Name": "The Vette",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
       "UsersEstimate": 14
     },
@@ -763,7 +768,7 @@
       "ID": "GoldBallyBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Golden Prince of Ball-air",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -867,7 +872,7 @@
       "ID": "KilgoreSpacecraftUnlockAchievement",
       "SetID": "a8djcgh",
       "Name": "Space Surfer",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -907,7 +912,7 @@
       "ID": "Killed1000EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "Mega Kill",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 5,
       "UsersEstimate": 12
     },
@@ -923,7 +928,7 @@
       "ID": "Killed100EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "Killing Spree",
-      "Percentage": 69,
+      "Percentage": 67,
       "XP": 5,
       "UsersEstimate": 40
     },
@@ -939,7 +944,7 @@
       "ID": "Killed10EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "First Blood",
-      "Percentage": 84,
+      "Percentage": 82,
       "XP": 5,
       "UsersEstimate": 49
     },
@@ -963,7 +968,7 @@
       "ID": "Killed5000EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "Unstoppable",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -979,7 +984,7 @@
       "ID": "Killed500EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "Dominating",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 5,
       "UsersEstimate": 19
     },
@@ -1019,7 +1024,7 @@
       "ID": "PerksUnlocked10Achievement",
       "SetID": "a8djcgh",
       "Name": "10Gb HDD",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 5,
       "UsersEstimate": 16
     },
@@ -1043,7 +1048,7 @@
       "ID": "PerksUnlocked5Achievement",
       "SetID": "a8djcgh",
       "Name": "5Gb HDD",
-      "Percentage": 52,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 30
     },
@@ -1075,7 +1080,7 @@
       "ID": "PlayedFor1HourAchievement",
       "SetID": "a8djcgh",
       "Name": "Galactic Cadet",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
       "UsersEstimate": 8
     },
@@ -1123,7 +1128,7 @@
       "ID": "SilverBallyBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Silver Prince of Ball-air",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -1291,7 +1296,7 @@
       "ID": "VisitMerchant10TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Merchant Prince II",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -1299,7 +1304,7 @@
       "ID": "VisitMerchant1TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Merchant Prince I",
-      "Percentage": 52,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 30
     },
@@ -1323,7 +1328,7 @@
       "ID": "VisitOverlord1TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Almost There I",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 5,
       "UsersEstimate": 11
     },
@@ -1355,7 +1360,7 @@
       "ID": "VisitRegular10TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Fighting Fit I",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 5,
       "UsersEstimate": 18
     },
@@ -1372,14 +1377,14 @@
     {
       "ID": "a8djcgh",
       "IsBase": true,
-      "Progressed": 58,
+      "Progressed": 60,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-25T19:58:53.3426144+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2023-08-12T17:08:44.6205073+00:00",
+  "LastChanged_Achievements": "2023-08-12T18:09:07.2516032+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:34.4513107+00:00",
-  "LastUpdate_Ratings": "2023-08-12T17:02:00.8025125+00:00",
-  "LastUpdate_Achievements": "2023-08-12T17:08:44.6207164+00:00"
+  "LastUpdate_Ratings": "2023-08-12T18:02:05.6559177+00:00",
+  "LastUpdate_Achievements": "2023-08-12T18:09:07.2518299+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 21,
-  "Ranking_EOS_NewCompleters": 67,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -636,9 +636,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 211001,
+  "EOS_Progressed": 211041,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4089,
+  "EOS_NewPlayers": 4091,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6656,6 +6656,11 @@
       "Time": "2023-08-12T17:06:06.4962747+00:00",
       "NumProgressed": 211001,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-12T18:06:29.1503709+00:00",
+      "NumProgressed": 211041,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 88,
@@ -6761,9 +6766,9 @@
       "ID": "Chapter7",
       "SetID": "50chcgj",
       "Name": "Urik\u0027s Depths",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 211
+      "UsersEstimate": 422
     },
     {
       "ID": "Chapter8",
@@ -7097,9 +7102,9 @@
       "ID": "DwarfLevel2",
       "SetID": "50chcgj",
       "Name": "Sock! SOCK!",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 844
+      "UsersEstimate": 1055
     },
     {
       "ID": "ElfEpic",
@@ -7115,7 +7120,7 @@
       "Name": "Sowwy!",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 18990
+      "UsersEstimate": 18994
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -7370,21 +7375,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 211001,
+      "Progressed": 211041,
       "Completed": 1
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 211001,
+      "Progressed": 211041,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-12T15:00:58.2777056+00:00",
-  "LastChanged_Achievements": "2023-08-12T17:06:06.4962738+00:00",
+  "LastChanged_Achievements": "2023-08-12T18:06:29.1503701+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:49.6773731+00:00",
-  "LastUpdate_Ratings": "2023-08-12T17:02:20.44972+00:00",
-  "LastUpdate_Achievements": "2023-08-12T17:06:06.4965169+00:00"
+  "LastUpdate_Ratings": "2023-08-12T18:02:34.8966264+00:00",
+  "LastUpdate_Achievements": "2023-08-12T18:06:29.1505076+00:00"
 }

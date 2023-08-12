@@ -4,8 +4,8 @@
   "ProductSlug": "keywe-c3a70e",
   "Ranking_EOS_Progress": 447,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-04-28T09:00:00+00:00",
     "PcReleaseDate": "2021-08-31T00:00:00+00:00",
@@ -160,9 +160,9 @@
       "ID": "completeTheFirstWeek",
       "SetID": "cfe0fhi",
       "Name": "Learn the Ropes",
-      "Percentage": 29,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "findFirstCollectible",
@@ -176,9 +176,9 @@
       "ID": "getABonusReward",
       "SetID": "cfe0fhi",
       "Name": "Working for the Kiweekend",
-      "Percentage": 43,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "goldOnAllLevels",
@@ -247,8 +247,8 @@
   "FirstSeenRating": "2023-03-31T05:58:13.8503401+00:00",
   "FirstSeenAchievements": "2023-07-21T11:01:23.8514145+00:00",
   "LastChanged": "2023-03-31T05:58:13.8503402+00:00",
-  "LastChanged_Achievements": "2023-08-12T17:06:16.5258913+00:00",
+  "LastChanged_Achievements": "2023-08-12T18:06:39.1794269+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:53.4766965+00:00",
-  "LastUpdate_Ratings": "2023-08-12T17:03:42.9408175+00:00",
-  "LastUpdate_Achievements": "2023-08-12T17:06:16.5259171+00:00"
+  "LastUpdate_Ratings": "2023-08-12T18:04:02.6810235+00:00",
+  "LastUpdate_Achievements": "2023-08-12T18:06:39.17946+00:00"
 }

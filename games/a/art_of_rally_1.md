@@ -42,7 +42,7 @@ Number of Ratings: 56  (23.09.2022)
 | group b | 5.00% | ~510 |
 | in like a lamb, out like a lion | 5.00% | ~510 |
 | if in doubt, flat out! | 5.00% | ~510 |
-| comfy seats | 3.00% | ~306 |
+| comfy seats | 4.00% | ~408 |
 | simulator | 3.00% | ~306 |
 | real roads, real fast | 2.00% | ~204 |
 | absolute drift | 0.90% | ~92 |

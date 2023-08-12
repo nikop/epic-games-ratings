@@ -1,25 +1,25 @@
 # ToeJam & Earl: Back in the Groove!
 [Store](https://store.epicgames.com/en-US/p/toejam-and-earl-back-in-the-groove-cddc16)  
 [View Rawdata](../../db/t/toejam_&_earl__back_in_the_groove!.json)  
-Rating: 4.32 (Ranked 775)  
+Rating: 4.32 (Ranked 774)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Food Taster | 9.00% | ~5,071 |
-| Fall Fest | 7.00% | ~3,944 |
+| Food Taster | 9.00% | ~5,072 |
+| Fall Fest | 7.00% | ~3,945 |
 | HFZ Goober | 6.00% | ~3,381 |
 | Thrill Seeker | 6.00% | ~3,381 |
-| Flying Present Catcher | 5.00% | ~2,817 |
+| Flying Present Catcher | 5.00% | ~2,818 |
 | Sunflower Master | 4.00% | ~2,254 |
 | Hi Fiver | 3.00% | ~1,690 |
 | Backer Visitor | 2.00% | ~1,127 |
 | Hate That Randomizer | 2.00% | ~1,127 |
 | Feet on Funkotron | 2.00% | ~1,127 |
 | A Timely Splash | 2.00% | ~1,127 |
-| Elf Chaser | 1.00% | ~563 |
-| Fool Me Twice | 1.00% | ~563 |
-| Old School Jammin' | 1.00% | ~563 |
-| Wakey Wakey | 1.00% | ~563 |
+| Elf Chaser | 1.00% | ~564 |
+| Fool Me Twice | 1.00% | ~564 |
+| Old School Jammin' | 1.00% | ~564 |
+| Wakey Wakey | 1.00% | ~564 |
 | Level Diver | 0.80% | ~451 |
 | Gimme My Presents Back! | 0.70% | ~394 |
 | Cleaning Out Santa's Sack | 0.70% | ~394 |
@@ -55,7 +55,7 @@ Rating: 4.32 (Ranked 775)
 | Why Do I Keep Doing That? | 0.10% | ~56 |
 | Hey, You Did It! | 0.10% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,347 (Ranked 87)  
+Progressed: 56,350 (Ranked 87)  
 Completed: 5 (0.01%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,7 +169,7 @@ Completed: 5 (0.01%) (Ranked 242)
 | 2023-08-09 | 56,311 | 5 |
 | 2023-08-10 | 56,325 | 5 |
 | 2023-08-11 | 56,339 | 5 |
-| 2023-08-12 | 56,347 | 5 |
+| 2023-08-12 | 56,350 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

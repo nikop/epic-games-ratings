@@ -4,8 +4,8 @@
   "ProductSlug": "destructure-among-debris-b4aaf8",
   "Ranking_EOS_Progress": 299,
   "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 253,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-04-27T13:00:00+00:00",
     "PcReleaseDate": "2023-04-27T13:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 156,
+  "EOS_Progressed": 157,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -738,6 +738,11 @@
       "Time": "2023-08-11T02:18:32.4634091+00:00",
       "NumProgressed": 156,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-12T18:07:50.1754439+00:00",
+      "NumProgressed": 157,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 31,
@@ -749,7 +754,7 @@
       "Name": "Apprentice Destructor",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "avaricerite",
@@ -781,7 +786,7 @@
       "Name": "Ball Galore",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ball_protector",
@@ -821,7 +826,7 @@
       "Name": "You Have Been Deaded",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "easy_victory",
@@ -829,15 +834,15 @@
       "Name": "Easy Victory",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "graduation",
       "SetID": "jig50d",
       "Name": "Graduation",
-      "Percentage": 79,
+      "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 122
     },
     {
       "ID": "i_prefer_fusion_jazz",
@@ -875,9 +880,9 @@
       "ID": "master_destructor",
       "SetID": "jig50d",
       "Name": "Master Destructor",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "medium_rare",
@@ -917,7 +922,7 @@
       "Name": "Rookie",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "scrap_collector",
@@ -996,7 +1001,7 @@
     {
       "ID": "jig50d",
       "IsBase": true,
-      "Progressed": 156,
+      "Progressed": 157,
       "Completed": 1
     }
   ],
@@ -1004,8 +1009,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-08-12T17:07:27.1815191+00:00",
+  "LastChanged_Achievements": "2023-08-12T18:07:50.1754434+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:58:00.7268441+00:00",
-  "LastUpdate_Ratings": "2023-08-12T17:03:55.2323288+00:00",
-  "LastUpdate_Achievements": "2023-08-12T17:07:27.1815648+00:00"
+  "LastUpdate_Ratings": "2023-08-12T18:04:19.8359411+00:00",
+  "LastUpdate_Achievements": "2023-08-12T18:07:50.1754732+00:00"
 }
