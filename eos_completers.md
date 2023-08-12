@@ -14,7 +14,7 @@
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
 | 13 | [Island Cities](games/i/island_cities.md) | 18.12% |
 | 14 | [Afterglitch](games/a/afterglitch.md) | 16.67% |
-| 14 | [Anna's Quest](games/a/anna's_quest.md) | 16.67% |
+| 15 | [Anna's Quest](games/a/anna's_quest.md) | 16.13% |
 | 16 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 15.52% |
 | 17 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 13.94% |
 | 18 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 12.50% |
@@ -28,8 +28,8 @@
 | 26 | [Out of Bounds](games/o/out_of_bounds.md) | 10.34% |
 | 27 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.70% |
 | 28 | [Sonic Origins](games/s/sonic_origins.md) | 9.64% |
-| 29 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 9.52% |
-| 30 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.30% |
+| 29 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 9.30% |
+| 29 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.30% |
 | 31 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.04% |
 | 32 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.48% |
 | 33 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.06% |
@@ -39,7 +39,7 @@
 | 37 | [Scorn](games/s/scorn.md) | 6.94% |
 | 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.85% |
 | 39 | [Time Loader](games/t/time_loader.md) | 6.84% |
-| 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.48% |
+| 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.46% |
 | 41 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 42 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 43 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.98% |
@@ -66,11 +66,11 @@
 | 64 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.33% |
 | 65 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.28% |
 | 66 | [HordeCore](games/h/hordecore.md) | 3.15% |
-| 67 | [The Complex](games/t/the_complex.md) | 3.01% |
-| 68 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.99% |
-| 69 | [Monster Harvest](games/m/monster_harvest.md) | 2.95% |
-| 70 | [MultiVersus](games/m/multiversus.md) | 2.93% |
-| 71 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.86% |
+| 67 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.05% |
+| 68 | [The Complex](games/t/the_complex.md) | 3.01% |
+| 69 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.99% |
+| 70 | [Monster Harvest](games/m/monster_harvest.md) | 2.95% |
+| 71 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 72 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.78% |
 | 73 | [Destiny 2](games/d/destiny_2.md) | 2.75% |
 | 74 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
@@ -104,7 +104,7 @@
 | 102 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.48% |
 | 103 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.46% |
 | 103 | [Ten Dates](games/t/ten_dates.md) | 1.46% |
-| 105 | [Poosh XL](games/p/poosh_xl.md) | 1.44% |
+| 105 | [Poosh XL](games/p/poosh_xl.md) | 1.43% |
 | 106 | [Late Shift](games/l/late_shift.md) | 1.30% |
 | 107 | [Chorus](games/c/chorus.md) | 1.16% |
 | 108 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.12% |
