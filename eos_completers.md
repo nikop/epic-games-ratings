@@ -75,10 +75,10 @@
 | 73 | [Destiny 2](games/d/destiny_2.md) | 2.75% |
 | 74 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
 | 75 | [The Bunker](games/t/the_bunker.md) | 2.68% |
-| 76 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.63% |
-| 77 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.61% |
-| 78 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.60% |
-| 79 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.56% |
+| 76 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.61% |
+| 77 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.60% |
+| 78 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.56% |
+| 78 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.56% |
 | 80 | [Lamentum](games/l/lamentum.md) | 2.54% |
 | 81 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 82 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 2.38% |
