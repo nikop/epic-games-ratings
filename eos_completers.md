@@ -37,7 +37,7 @@
 | 35 | [Ravenlok](games/r/ravenlok.md) | 7.46% |
 | 36 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.95% |
 | 37 | [Scorn](games/s/scorn.md) | 6.93% |
-| 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.90% |
+| 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.89% |
 | 39 | [Time Loader](games/t/time_loader.md) | 6.84% |
 | 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.46% |
 | 41 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
@@ -94,7 +94,7 @@
 | 92 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 93 | [Frogun](games/f/frogun.md) | 1.81% |
 | 94 | [Sifu](games/s/sifu.md) | 1.80% |
-| 95 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.71% |
+| 95 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.69% |
 | 96 | [Iron Danger](games/i/iron_danger.md) | 1.63% |
 | 97 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.61% |
 | 97 | [Somerville](games/s/somerville.md) | 1.61% |
@@ -164,9 +164,9 @@
 | 162 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.32% |
 | 163 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
 | 163 | [Dead Island 2](games/d/dead_island_2.md) | 0.31% |
-| 165 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.30% |
-| 165 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.30% |
-| 165 | [The First Tree](games/t/the_first_tree.md) | 0.30% |
+| 163 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.31% |
+| 166 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.30% |
+| 166 | [The First Tree](games/t/the_first_tree.md) | 0.30% |
 | 168 | [Scrapnaut](games/s/scrapnaut.md) | 0.29% |
 | 169 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
 | 170 | [Against the Storm](games/a/against_the_storm.md) | 0.26% |
