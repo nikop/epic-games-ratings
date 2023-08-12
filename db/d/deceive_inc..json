@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17313,
+  "EOS_Progressed": 17315,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 340,
+  "EOS_NewPlayers": 337,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8111,6 +8111,11 @@
       "Time": "2023-08-12T19:07:55.5276367+00:00",
       "NumProgressed": 17313,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-12T20:06:39.7240031+00:00",
+      "NumProgressed": 17315,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -8138,7 +8143,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2943
+      "UsersEstimate": 2944
     },
     {
       "ID": "0004",
@@ -8178,7 +8183,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3116
+      "UsersEstimate": 3117
     },
     {
       "ID": "0009",
@@ -8218,7 +8223,7 @@
       "Name": "Keycards Royale",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1904
+      "UsersEstimate": 1905
     },
     {
       "ID": "0014",
@@ -8226,7 +8231,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2943
+      "UsersEstimate": 2944
     },
     {
       "ID": "0015",
@@ -8250,7 +8255,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3289
+      "UsersEstimate": 3290
     },
     {
       "ID": "0018",
@@ -8258,7 +8263,7 @@
       "Name": "In It to Win It",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1731
+      "UsersEstimate": 1732
     },
     {
       "ID": "0019",
@@ -8274,7 +8279,7 @@
       "Name": "Dr. No Kill",
       "Percentage": 11,
       "XP": 115,
-      "UsersEstimate": 1904
+      "UsersEstimate": 1905
     },
     {
       "ID": "0021",
@@ -8314,7 +8319,7 @@
       "Name": "Tailor-Made",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3116
+      "UsersEstimate": 3117
     },
     {
       "ID": "0026",
@@ -8330,7 +8335,7 @@
       "Name": "My Motto, My Creed",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1904
+      "UsersEstimate": 1905
     },
     {
       "ID": "0028",
@@ -8354,7 +8359,7 @@
       "Name": "For your Eyes only",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3116
+      "UsersEstimate": 3117
     },
     {
       "ID": "0031",
@@ -8409,7 +8414,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17313,
+      "Progressed": 17315,
       "Completed": 1
     }
   ],
@@ -8417,8 +8422,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-12T19:04:41.1874293+00:00",
-  "LastChanged_Achievements": "2023-08-12T19:07:55.5276361+00:00",
+  "LastChanged_Achievements": "2023-08-12T20:06:39.7240025+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:38.5697724+00:00",
-  "LastUpdate_Ratings": "2023-08-12T19:04:41.1874303+00:00",
-  "LastUpdate_Achievements": "2023-08-12T19:07:55.5276928+00:00"
+  "LastUpdate_Ratings": "2023-08-12T20:04:07.2400274+00:00",
+  "LastUpdate_Achievements": "2023-08-12T20:06:39.7240857+00:00"
 }

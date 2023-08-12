@@ -6333,9 +6333,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 58742,
+  "EOS_Progressed": 58743,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 483,
+  "EOS_NewPlayers": 480,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18358,6 +18358,11 @@
       "Time": "2023-08-12T19:07:34.8982418+00:00",
       "NumProgressed": 58742,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-12T20:06:24.1300959+00:00",
+      "NumProgressed": 58743,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -18497,7 +18502,7 @@
       "Name": "God of the Arena",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 7636
+      "UsersEstimate": 7637
     },
     {
       "ID": "Great Granny",
@@ -18593,7 +18598,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 18797
+      "UsersEstimate": 18798
     },
     {
       "ID": "Lawbringer",
@@ -18776,15 +18781,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 58742,
+      "Progressed": 58743,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-08-12T11:00:31.192341+00:00",
-  "LastChanged_Achievements": "2023-08-12T19:07:34.8982412+00:00",
+  "LastChanged_Achievements": "2023-08-12T20:06:24.1300953+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:44.6335832+00:00",
-  "LastUpdate_Ratings": "2023-08-12T19:04:50.8184377+00:00",
-  "LastUpdate_Achievements": "2023-08-12T19:07:34.8983269+00:00"
+  "LastUpdate_Ratings": "2023-08-12T20:04:17.5071075+00:00",
+  "LastUpdate_Achievements": "2023-08-12T20:06:24.1302218+00:00"
 }

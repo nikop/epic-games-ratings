@@ -7,8 +7,8 @@
 | Augmented | 21.00% | ~155 |
 | Challenge Accepted | 17.00% | ~125 |
 | Terminated I | 16.00% | ~118 |
+| Unlocked and Loaded | 16.00% | ~118 |
 | Nanonic I | 15.00% | ~111 |
-| Unlocked and Loaded | 15.00% | ~111 |
 | The City | 13.00% | ~96 |
 | Terminated II | 12.00% | ~88 |
 | Challenge Mastered | 11.00% | ~81 |

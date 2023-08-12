@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 479,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -151,9 +151,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1363,
+  "EOS_Progressed": 1364,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -1341,6 +1341,11 @@
       "Time": "2023-08-12T08:08:33.231452+00:00",
       "NumProgressed": 1363,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-12T20:09:06.3016145+00:00",
+      "NumProgressed": 1364,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 56,
@@ -1368,7 +1373,7 @@
       "Name": "Me and My Familiar",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "achievement_3hookQuestsResolved",
@@ -1544,7 +1549,7 @@
       "Name": "Cutthroat Competitors",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "achievement_twoDifferentThemeLimbs",
@@ -1646,17 +1651,17 @@
       "ID": "ecthis_all5PlotCharacters",
       "SetID": "95dc8p",
       "Name": "All My Birds, Safely Home",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 68
     },
     {
       "ID": "enduringWar_destroyCores",
       "SetID": "95dc8p",
       "Name": "Core Failure",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 191
     },
     {
       "ID": "enduringWar_destroyEnduring",
@@ -1799,15 +1804,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1363,
+      "Progressed": 1364,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-07-08T20:01:41.3411794+00:00",
-  "LastChanged_Achievements": "2023-08-12T19:09:50.9518635+00:00",
+  "LastChanged_Achievements": "2023-08-12T20:09:06.301614+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:26.6947946+00:00",
-  "LastUpdate_Ratings": "2023-08-12T18:58:12.0403985+00:00",
-  "LastUpdate_Achievements": "2023-08-12T19:09:50.951906+00:00"
+  "LastUpdate_Ratings": "2023-08-12T19:57:56.9937872+00:00",
+  "LastUpdate_Achievements": "2023-08-12T20:09:06.3016664+00:00"
 }

@@ -1548,9 +1548,9 @@
       "ID": "AMMO_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "How Many Do You Need?",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 283
+      "UsersEstimate": 290
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -1740,9 +1740,9 @@
       "ID": "DUCHESS_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Greetings from Royalty",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 198
+      "UsersEstimate": 205
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
@@ -1812,9 +1812,9 @@
       "ID": "KALL_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Pest Control or Taxonomist?",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 99
     },
     {
       "ID": "KILLR_ACHIEVEMENT_1",
@@ -1868,9 +1868,9 @@
       "ID": "KLACKEY_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "End the Infestation",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 49
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_3",
@@ -2075,8 +2075,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-08-12T19:10:19.1856467+00:00",
+  "LastChanged_Achievements": "2023-08-12T20:09:20.1528858+00:00",
   "LastUpdate_AppInfo": "2023-08-10T15:57:09.1792695+00:00",
-  "LastUpdate_Ratings": "2023-08-12T18:58:51.3732816+00:00",
-  "LastUpdate_Achievements": "2023-08-12T19:10:19.1857067+00:00"
+  "LastUpdate_Ratings": "2023-08-12T19:58:33.6631104+00:00",
+  "LastUpdate_Achievements": "2023-08-12T20:09:20.1529651+00:00"
 }

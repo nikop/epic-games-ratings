@@ -509,17 +509,17 @@
       "ID": "ACH_MEET_BOJI",
       "SetID": "7i20me3",
       "Name": "Don\u0027t Cry Wolf",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_OPEN_TEMPLE_GATE",
       "SetID": "7i20me3",
       "Name": "A new World ahead",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_PERFORM_MANY_PARRIES",
@@ -628,8 +628,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-08-12T19:09:36.9183818+00:00",
+  "LastChanged_Achievements": "2023-08-12T20:08:25.9778222+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:32.6362658+00:00",
-  "LastUpdate_Ratings": "2023-08-12T19:00:54.8217083+00:00",
-  "LastUpdate_Achievements": "2023-08-12T19:09:36.9184135+00:00"
+  "LastUpdate_Ratings": "2023-08-12T20:00:54.1481598+00:00",
+  "LastUpdate_Achievements": "2023-08-12T20:08:25.9778717+00:00"
 }

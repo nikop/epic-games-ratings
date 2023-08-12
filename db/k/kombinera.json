@@ -4,7 +4,7 @@
   "ProductSlug": "kombinara-e5baa8",
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewPlayers": 358,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-04-07T14:30:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:03.8029502+00:00",
   "LastChanged": "2023-03-31T05:57:03.8029503+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:29.9442261+00:00",
-  "LastUpdate_Ratings": "2023-08-12T19:04:25.2640949+00:00",
-  "LastUpdate_Achievements": "2023-08-12T19:05:59.5807425+00:00"
+  "LastUpdate_Ratings": "2023-08-12T20:03:53.6409238+00:00",
+  "LastUpdate_Achievements": "2023-08-12T20:05:10.6736438+00:00"
 }

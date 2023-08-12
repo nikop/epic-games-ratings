@@ -32,7 +32,7 @@ Number of Ratings: 180  (23.09.2022)
 | Mass production | 35.00% | ~543 |
 | Aircraft entrepreneur | 33.00% | ~512 |
 | Crowd in a train | 32.00% | ~496 |
-| The future is now, old man | 31.00% | ~481 |
+| The future is now, old man | 32.00% | ~496 |
 | Not in my backyard | 30.00% | ~465 |
 | The king of the sea | 30.00% | ~465 |
 | City | 29.00% | ~450 |
@@ -68,7 +68,7 @@ Number of Ratings: 180  (23.09.2022)
 | Glacier express | 0.20% | ~3 |
 | Museum line | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,551 (Ranked 176)  
+Progressed: 1,551 (Ranked 177)  
 Completed: 0 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |

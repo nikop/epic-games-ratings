@@ -6,21 +6,21 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 41.00% | ~5,948 |
+| Tattletale | 41.00% | ~5,949 |
 | Man of politics | 35.00% | ~5,078 |
 | Friends of sorts | 34.00% | ~4,933 |
 | Yet another secret | 34.00% | ~4,933 |
 | Let there be darkness | 32.00% | ~4,643 |
-| End of Book One | 30.00% | ~4,352 |
+| End of Book One | 30.00% | ~4,353 |
 | Wannabe knight | 24.00% | ~3,482 |
 | Garden of Eden | 24.00% | ~3,482 |
 | Full house | 24.00% | ~3,482 |
 | Help an old friend | 22.00% | ~3,192 |
 | Two of us | 20.00% | ~2,902 |
-| Negotiation skills | 18.00% | ~2,611 |
-| Workers' union | 18.00% | ~2,611 |
-| End of Book Two | 18.00% | ~2,611 |
-| Everything's in order | 17.00% | ~2,466 |
+| Negotiation skills | 18.00% | ~2,612 |
+| Workers' union | 18.00% | ~2,612 |
+| End of Book Two | 18.00% | ~2,612 |
+| Everything's in order | 17.00% | ~2,467 |
 | Jack was here! | 15.00% | ~2,176 |
 | Twist of Fate | 14.00% | ~2,031 |
 | Exterminator | 13.00% | ~1,886 |
@@ -37,7 +37,7 @@ Number of Ratings: 368  (23.09.2022)
 | The End. | 9.00% | ~1,306 |
 | A cry for help | 8.00% | ~1,161 |
 | Silentium est aureum | 7.00% | ~1,016 |
-| Rebel without a cause | 6.00% | ~870 |
+| Rebel without a cause | 6.00% | ~871 |
 | Staring contest champion | 5.00% | ~725 |
 | Lone wolf | 5.00% | ~725 |
 | Vox Populi | 5.00% | ~725 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~435 |
 | Boy of mystery | 2.00% | ~290 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,508 (Ranked 116)  
+Progressed: 14,509 (Ranked 116)  
 Completed: 109 (0.75%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,7 +162,7 @@ Completed: 109 (0.75%) (Ranked 123)
 | 2023-08-09 | 14,452 | 107 |
 | 2023-08-10 | 14,471 | 107 |
 | 2023-08-11 | 14,487 | 108 |
-| 2023-08-12 | 14,508 | 109 |
+| 2023-08-12 | 14,509 | 109 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 297)  
 Sum: 188 (Ranked 373)  

@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7014,
+  "EOS_Progressed": 7015,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -3568,6 +3568,11 @@
       "Time": "2023-08-12T18:05:29.4185941+00:00",
       "NumProgressed": 7014,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-08-12T20:05:39.8891808+00:00",
+      "NumProgressed": 7015,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 27,
@@ -3611,7 +3616,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3717
+      "UsersEstimate": 3718
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -3713,9 +3718,9 @@
       "ID": "AK_SEEKERS_FOUND",
       "SetID": "dfmb89",
       "Name": "Seekers Found",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2876
+      "UsersEstimate": 2806
     },
     {
       "ID": "AK_SETTLING_SKIES",
@@ -3794,15 +3799,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7014,
+      "Progressed": 7015,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-08-12T19:06:36.7322104+00:00",
+  "LastChanged_Achievements": "2023-08-12T20:05:39.8891804+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:19.8609046+00:00",
-  "LastUpdate_Ratings": "2023-08-12T19:00:11.5543899+00:00",
-  "LastUpdate_Achievements": "2023-08-12T19:06:36.7322422+00:00"
+  "LastUpdate_Ratings": "2023-08-12T20:00:06.3814882+00:00",
+  "LastUpdate_Achievements": "2023-08-12T20:05:39.8892228+00:00"
 }

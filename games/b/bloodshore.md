@@ -9,11 +9,11 @@
 | Um, ok... | 49.00% | ~88 |
 | Superstar-crossed lovers | 40.00% | ~72 |
 | A leader, you are not | 34.00% | ~61 |
+| This won't end well... | 34.00% | ~61 |
 | Comedy Killer | 33.00% | ~59 |
-| This won't end well... | 33.00% | ~59 |
 | Bromance | 32.00% | ~58 |
+| Good job, nerd | 32.00% | ~58 |
 | Mission Complete | 32.00% | ~58 |
-| Good job, nerd | 31.00% | ~56 |
 | Lootaphilia | 24.00% | ~43 |
 | Maybe you should give it another go | 10.00% | ~18 |
 | I used to think I was indecisive... | 8.00% | ~14 |

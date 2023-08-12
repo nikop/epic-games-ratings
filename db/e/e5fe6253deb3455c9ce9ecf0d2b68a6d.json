@@ -220,9 +220,9 @@
       "ID": "Full",
       "SetID": "cjfnji1",
       "Name": "Full load",
-      "Percentage": 62,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "Island",
@@ -236,9 +236,9 @@
       "ID": "Last_second",
       "SetID": "cjfnji1",
       "Name": "In the last second",
-      "Percentage": 62,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "Master",
@@ -315,8 +315,8 @@
   ],
   "FirstSeen": "2023-08-11T01:35:20.9956349+00:00",
   "FirstSeenAchievements": "2023-08-07T18:00:21.004681+00:00",
-  "LastChanged_Achievements": "2023-08-12T19:06:38.7082354+00:00",
+  "LastChanged_Achievements": "2023-08-12T20:05:41.271172+00:00",
   "LastUpdate_AppInfo": "2023-08-07T17:56:51.0355953+00:00",
-  "LastUpdate_Ratings": "2023-08-12T18:57:50.1764388+00:00",
-  "LastUpdate_Achievements": "2023-08-12T19:06:38.7082453+00:00"
+  "LastUpdate_Ratings": "2023-08-12T19:57:35.3043053+00:00",
+  "LastUpdate_Achievements": "2023-08-12T20:05:41.2711844+00:00"
 }

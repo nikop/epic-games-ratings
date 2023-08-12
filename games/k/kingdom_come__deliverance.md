@@ -6,35 +6,35 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~254,968 |
-| Cavalier | 25.00% | ~199,194 |
-| Fatso | 23.00% | ~183,258 |
-| Awakening | 21.00% | ~167,323 |
-| Ranger | 20.00% | ~159,355 |
-| Scrooge | 20.00% | ~159,355 |
-| Anorectic | 16.00% | ~127,484 |
-| Bookworm | 15.00% | ~119,516 |
-| Firestarter | 15.00% | ~119,516 |
-| Insomniac | 13.00% | ~103,581 |
-| Buddy | 12.00% | ~95,613 |
-| Thief | 12.00% | ~95,613 |
-| Sinner | 11.00% | ~87,645 |
-| Convict | 10.00% | ~79,678 |
-| Traveller | 10.00% | ~79,678 |
-| Haggler | 9.00% | ~71,710 |
-| McLovin | 7.00% | ~55,774 |
-| Runt | 7.00% | ~55,774 |
+| Blacksmith's Son | 32.00% | ~254,972 |
+| Cavalier | 25.00% | ~199,197 |
+| Fatso | 23.00% | ~183,261 |
+| Awakening | 21.00% | ~167,325 |
+| Ranger | 20.00% | ~159,358 |
+| Scrooge | 20.00% | ~159,358 |
+| Anorectic | 16.00% | ~127,486 |
+| Bookworm | 15.00% | ~119,518 |
+| Firestarter | 15.00% | ~119,518 |
+| Insomniac | 13.00% | ~103,582 |
+| Buddy | 12.00% | ~95,615 |
+| Thief | 12.00% | ~95,615 |
+| Sinner | 11.00% | ~87,647 |
+| Convict | 10.00% | ~79,679 |
+| Traveller | 10.00% | ~79,679 |
+| Haggler | 9.00% | ~71,711 |
+| McLovin | 7.00% | ~55,775 |
+| Runt | 7.00% | ~55,775 |
 | Casanova | 6.00% | ~47,807 |
 | Bad Trip | 5.00% | ~39,839 |
 | Monk | 5.00% | ~39,839 |
 | Serial Killer | 5.00% | ~39,839 |
-| Bastard | 4.00% | ~31,871 |
-| Hunter | 4.00% | ~31,871 |
-| Plague Doctor | 4.00% | ~31,871 |
-| Bard | 3.00% | ~23,903 |
-| Conqueror | 3.00% | ~23,903 |
-| Ginger in a Pickle | 3.00% | ~23,903 |
-| Kingdom did not come | 3.00% | ~23,903 |
+| Bastard | 4.00% | ~31,872 |
+| Hunter | 4.00% | ~31,872 |
+| Plague Doctor | 4.00% | ~31,872 |
+| Bard | 3.00% | ~23,904 |
+| Conqueror | 3.00% | ~23,904 |
+| Ginger in a Pickle | 3.00% | ~23,904 |
+| Kingdom did not come | 3.00% | ~23,904 |
 | Completionist | 2.00% | ~15,936 |
 | Death by splinter | 2.00% | ~15,936 |
 | King Charming | 2.00% | ~15,936 |
@@ -53,9 +53,9 @@ Number of Ratings: 9,133  (23.09.2022)
 | Stealth Killer | 1.00% | ~7,968 |
 | Bailiff | 0.90% | ~7,171 |
 | Tracker | 0.90% | ~7,171 |
-| David Horak | 0.70% | ~5,577 |
-| Mercenary's Honour | 0.70% | ~5,577 |
-| Saviour | 0.70% | ~5,577 |
+| David Horak | 0.70% | ~5,578 |
+| Mercenary's Honour | 0.70% | ~5,578 |
+| Saviour | 0.70% | ~5,578 |
 | Edward Kelly | 0.60% | ~4,781 |
 | Fighter | 0.60% | ~4,781 |
 | I Can Quit Anytime | 0.50% | ~3,984 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~797 |
 | Wingman | 0.10% | ~797 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 796,776 (Ranked 15)  
+Progressed: 796,788 (Ranked 15)  
 Completed: 44 (0.01%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,14 +203,14 @@ Completed: 44 (0.01%) (Ranked 242)
 | 2023-08-09 | 796,403 | 44 |
 | 2023-08-10 | 796,534 | 44 |
 | 2023-08-11 | 796,648 | 44 |
-| 2023-08-12 | 796,776 | 44 |
+| 2023-08-12 | 796,788 | 44 |
 ## Awards
-Max (Character Customization): 7,377  (Ranked 46)  
-Sum: 27,478 (Ranked 45)  
+Max (Character Customization): 7,381  (Ranked 46)  
+Sum: 27,483 (Ranked 45)  
 Diff (max vs sum): 1  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 7,377 |
+| This game has Inclusive Character Customization | 7,381 |
 | This game has Great Boss Battles | 5,423 |
 | This game has Challenging Combat | 1,722 |
 | This game has Amazing Storytelling | 1,681 |
@@ -220,7 +220,7 @@ Diff (max vs sum): 1
 | This game has Amazing Characters | 1,625 |
 | This game has Realistic Visuals | 1,619 |
 | This game is Educational | 1,563 |
-| This game is Relaxing | 1,505 |
+| This game is Relaxing | 1,506 |
 | This game has Obsessive Gameplay | 1,048 |
 | This game has a Creative Community | 664 |
 ## Ratings History
@@ -424,3 +424,4 @@ Diff (max vs sum): 1
 | 2023-08-09 | 4.71 | - | 7,376 | 27,466 |
 | 2023-08-10 | 4.71 | - | 7,376 | 27,473 |
 | 2023-08-11 | 4.71 | - | 7,377 | 27,478 |
+| 2023-08-12 | 4.71 | - | 7,381 | 27,483 |

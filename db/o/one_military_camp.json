@@ -2,7 +2,7 @@
   "ID": "62d9ad4c9d7c413684da18ab4ee111fe",
   "Name": "One Military Camp",
   "ProductSlug": "one-military-camp-8db1f6",
-  "Ranking_EOS_Progress": 304,
+  "Ranking_EOS_Progress": 303,
   "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 102,
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 139,
+  "EOS_Progressed": 140,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
@@ -576,6 +576,11 @@
       "Time": "2023-08-12T09:04:59.4411223+00:00",
       "NumProgressed": 139,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-12T20:07:03.3803054+00:00",
+      "NumProgressed": 140,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-17T17:03:41.4004468+00:00",
@@ -778,9 +783,9 @@
       "ID": "ACHIEVEMENT_ID_30",
       "SetID": "c504de6",
       "Name": "Indebted",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_ID_31",
@@ -939,14 +944,14 @@
     {
       "ID": "c504de6",
       "IsBase": true,
-      "Progressed": 139,
+      "Progressed": 140,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2023-08-12T19:08:26.588542+00:00",
+  "LastChanged_Achievements": "2023-08-12T20:07:03.3803048+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:32.6793591+00:00",
-  "LastUpdate_Ratings": "2023-08-12T19:02:52.8969341+00:00",
-  "LastUpdate_Achievements": "2023-08-12T19:08:26.5885734+00:00"
+  "LastUpdate_Ratings": "2023-08-12T20:02:30.7937937+00:00",
+  "LastUpdate_Achievements": "2023-08-12T20:07:03.3803509+00:00"
 }

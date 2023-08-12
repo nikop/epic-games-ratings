@@ -778,9 +778,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6625,
+  "EOS_Progressed": 6626,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -4423,6 +4423,11 @@
       "Time": "2023-08-12T19:09:42.3359477+00:00",
       "NumProgressed": 6625,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-08-12T20:08:30.0120792+00:00",
+      "NumProgressed": 6626,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -4538,7 +4543,7 @@
       "Name": "Farewell to Arms",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ISONZO_ACH_GABRIELE_DANNUNZIO",
@@ -4546,7 +4551,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 2186
+      "UsersEstimate": 2187
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -4570,7 +4575,7 @@
       "Name": "I Have the High Ground",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "ISONZO_ACH_LUIGI_CADORNA",
@@ -4610,7 +4615,7 @@
       "Name": "Millenial",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "ISONZO_ACH_O_LA_VITTORIA_O_TUTTI_ACCOPPATI",
@@ -4642,7 +4647,7 @@
       "Name": "Ragazzi del \u002799",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1192
+      "UsersEstimate": 1193
     },
     {
       "ID": "ISONZO_ACH_ROME_WASNT_BUILT_IN_A_DAY",
@@ -4658,7 +4663,7 @@
       "Name": "\u0022Sacro Egoismo\u0022",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ISONZO_ACH_SEEING_RED",
@@ -4698,7 +4703,7 @@
       "Name": "Saboteur",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ISONZO_ACH_THE_DEVILS_PAINTBRUSH",
@@ -4730,7 +4735,7 @@
       "Name": "The Lion of the Isonzo",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1192
+      "UsersEstimate": 1193
     },
     {
       "ID": "ISONZO_ACH_THE_SHOW_MUST_GO_ON",
@@ -4786,14 +4791,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 3511
+      "UsersEstimate": 3512
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6625,
+      "Progressed": 6626,
       "Completed": 8
     }
   ],
@@ -4801,8 +4806,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-08-10T01:59:14.1654715+00:00",
-  "LastChanged_Achievements": "2023-08-12T19:09:42.3359471+00:00",
+  "LastChanged_Achievements": "2023-08-12T20:08:30.0120783+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:23.8738209+00:00",
-  "LastUpdate_Ratings": "2023-08-12T19:00:21.133511+00:00",
-  "LastUpdate_Achievements": "2023-08-12T19:09:42.3359915+00:00"
+  "LastUpdate_Ratings": "2023-08-12T20:00:18.4843206+00:00",
+  "LastUpdate_Achievements": "2023-08-12T20:08:30.0121403+00:00"
 }

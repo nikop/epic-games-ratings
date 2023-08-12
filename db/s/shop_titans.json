@@ -5560,9 +5560,9 @@
       "Count": 3734
     }
   ],
-  "EOS_Progressed": 134403,
+  "EOS_Progressed": 134407,
   "EOS_Completed": 132,
-  "EOS_NewPlayers": 457,
+  "EOS_NewPlayers": 458,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -17230,6 +17230,11 @@
       "Time": "2023-08-12T19:08:25.3413747+00:00",
       "NumProgressed": 134403,
       "NumCompleted": 132
+    },
+    {
+      "Time": "2023-08-12T20:07:02.542399+00:00",
+      "NumProgressed": 134407,
+      "NumCompleted": 132
     }
   ],
   "TotalAchievements": 112,
@@ -17679,9 +17684,9 @@
       "ID": "fuseflawless",
       "SetID": "anfd17p",
       "Name": "Flawless Fusion",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 269
+      "UsersEstimate": 403
     },
     {
       "ID": "fuselegendary",
@@ -18136,15 +18141,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 134403,
+      "Progressed": 134407,
       "Completed": 132
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-08-12T16:00:50.2555961+00:00",
-  "LastChanged_Achievements": "2023-08-12T19:08:25.3413742+00:00",
+  "LastChanged_Achievements": "2023-08-12T20:07:02.5423986+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:13.9096409+00:00",
-  "LastUpdate_Ratings": "2023-08-12T19:02:14.4221807+00:00",
-  "LastUpdate_Achievements": "2023-08-12T19:08:25.3415569+00:00"
+  "LastUpdate_Ratings": "2023-08-12T20:01:52.4192229+00:00",
+  "LastUpdate_Achievements": "2023-08-12T20:07:02.5426731+00:00"
 }

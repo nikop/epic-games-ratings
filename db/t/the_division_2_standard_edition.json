@@ -3,11 +3,11 @@
   "Name": "The Division 2 Standard Edition",
   "ProductSlug": "the-division-2",
   "Ranking_Rating": 590,
-  "Ranking_Popularity": 43,
+  "Ranking_Popularity": 42,
   "Ranking_PopularitySum": 49,
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewPlayers": 358,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2019-03-15T15:00:00+00:00",
@@ -8736,18 +8736,24 @@
       "Rating": 4.48,
       "NumberOfAwards": 25475,
       "NumberOfAwardsMax": 7754
+    },
+    {
+      "Time": "2023-08-12T19:57:48.9195091+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 25490,
+      "NumberOfAwardsMax": 7768
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 25475,
-  "NumberOfAwardsMax": 7754,
+  "NumberOfAwards": 25490,
+  "NumberOfAwardsMax": 7768,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 7754
+      "Count": 7768
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -8801,7 +8807,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1343
+      "Count": 1344
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -8827,8 +8833,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:04.4200787+00:00",
-  "LastChanged": "2023-08-12T15:57:39.0981621+00:00",
+  "LastChanged": "2023-08-12T19:57:48.919509+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:24.140023+00:00",
-  "LastUpdate_Ratings": "2023-08-12T18:58:04.0048917+00:00",
-  "LastUpdate_Achievements": "2023-08-12T19:09:21.5683903+00:00"
+  "LastUpdate_Ratings": "2023-08-12T19:57:48.9195099+00:00",
+  "LastUpdate_Achievements": "2023-08-12T20:08:14.2741267+00:00"
 }

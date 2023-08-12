@@ -2,12 +2,12 @@
   "ID": "047392e91d5e4cfdb19e2767440ab206",
   "Name": "Jurassic World Evolution",
   "ProductSlug": "jurassic-world-evolution",
-  "Ranking_Rating": 346,
+  "Ranking_Rating": 345,
   "Ranking_Popularity": 190,
   "Ranking_PopularitySum": 129,
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewPlayers": 358,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2020-12-31T16:00:00+00:00",
@@ -3848,10 +3848,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 5005,
       "NumberOfAwardsMax": 556
+    },
+    {
+      "Time": "2023-08-12T20:00:58.8534252+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 5006,
+      "NumberOfAwardsMax": 556
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5005,
+  "NumberOfAwards": 5006,
   "NumberOfAwardsMax": 556,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -3907,7 +3913,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 512
+      "Count": 513
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3933,8 +3939,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:31.0085434+00:00",
-  "LastChanged": "2023-08-12T11:58:59.1348551+00:00",
+  "LastChanged": "2023-08-12T20:00:58.8534251+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:35.1074264+00:00",
-  "LastUpdate_Ratings": "2023-08-12T19:00:58.4382342+00:00",
-  "LastUpdate_Achievements": "2023-08-12T19:09:31.1868626+00:00"
+  "LastUpdate_Ratings": "2023-08-12T20:00:58.8534258+00:00",
+  "LastUpdate_Achievements": "2023-08-12T20:08:21.5377369+00:00"
 }
