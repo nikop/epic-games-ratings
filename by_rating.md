@@ -16,7 +16,7 @@
 | 12 | [Firework](games/f/firework.md) | 4.89 | 0 | 511 |
 | 12 | [RimWorld](games/r/rimworld.md) | 4.89 | 427 | 206 |
 | 12 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.89 | 0 | 511 |
-| 12 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 17,523 | 20 |
+| 12 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 17,545 | 20 |
 | 18 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 136 | 305 |
 | 18 | [God of War](games/g/god_of_war.md) | 4.88 | 4,201 | 77 |
 | 18 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.88 | 0 | 511 |
@@ -197,7 +197,7 @@
 | 186 | [SUPERHOT](games/s/superhot.md) | 4.71 | 0 | 511 |
 | 186 | [The Red Lantern](games/t/the_red_lantern.md) | 4.71 | 0 | 511 |
 | 186 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.71 | 1,761 | 115 |
-| 198 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,553 | 72 |
+| 198 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,554 | 72 |
 | 198 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 371 | 223 |
 | 198 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.70 | 0 | 511 |
 | 198 | [For The King](games/f/for_the_king.md) | 4.70 | 379 | 219 |
@@ -377,7 +377,7 @@
 | 366 | [GigaBash](games/g/gigabash.md) | 4.61 | 0 | 511 |
 | 366 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.61 | 37 | 431 |
 | 366 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,160 | 136 |
-| 366 | [MudRunner](games/m/mudrunner.md) | 4.61 | 250 | 250 |
+| 366 | [MudRunner](games/m/mudrunner.md) | 4.61 | 251 | 250 |
 | 366 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 0 | 511 |
 | 366 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,550 | 98 |
 | 366 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 665 | 170 |
@@ -472,7 +472,7 @@
 | 470 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.56 | 0 | 511 |
 | 470 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 825 | 152 |
 | 470 | [Far Cry](games/f/far_cry.md) | 4.56 | 0 | 511 |
-| 470 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.56 | 250 | 250 |
+| 470 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.56 | 250 | 251 |
 | 470 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 35 | 436 |
 | 470 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 0 | 511 |
 | 470 | [Hue](games/h/hue.md) | 4.56 | 0 | 511 |

@@ -3,8 +3,8 @@
 | 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.27% |
 | 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.84% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 37.50% |
-| 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
-| 5 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 30.00% |
+| 4 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.00% |
+| 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
 | 6 | [Overloop](games/o/overloop.md) | 25.00% |
 | 7 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 23.91% |
@@ -34,7 +34,7 @@
 | 32 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.48% |
 | 33 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.06% |
 | 34 | [Smelter](games/s/smelter.md) | 7.69% |
-| 35 | [Ravenlok](games/r/ravenlok.md) | 7.47% |
+| 35 | [Ravenlok](games/r/ravenlok.md) | 7.46% |
 | 36 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.95% |
 | 37 | [Scorn](games/s/scorn.md) | 6.94% |
 | 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.85% |
@@ -43,7 +43,7 @@
 | 41 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 42 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 43 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.98% |
-| 44 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.56% |
+| 44 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.45% |
 | 45 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.39% |
 | 46 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.26% |
 | 47 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 5.00% |
@@ -141,8 +141,8 @@
 | 139 | [Aragami 2](games/a/aragami_2.md) | 0.51% |
 | 139 | [Godlike Burger](games/g/godlike_burger.md) | 0.51% |
 | 139 | [The Surge 2](games/t/the_surge_2.md) | 0.51% |
+| 142 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.49% |
 | 142 | [Them and Us](games/t/them_and_us.md) | 0.49% |
-| 143 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.48% |
 | 144 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
 | 145 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.46% |
 | 145 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.46% |
