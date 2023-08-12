@@ -6,9 +6,9 @@
   "Ranking_Popularity": 264,
   "Ranking_PopularitySum": 305,
   "Ranking_EOS_Progress": 154,
-  "Ranking_EOS_Completed": 254,
+  "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -690,9 +690,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3142,
+  "EOS_Progressed": 3143,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3040,6 +3040,11 @@
       "Time": "2023-08-12T04:05:52.0435117+00:00",
       "NumProgressed": 3142,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-12T16:06:30.913427+00:00",
+      "NumProgressed": 3143,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -3305,9 +3310,9 @@
       "ID": "LargeGrimoireInventory",
       "SetID": "3jha1np",
       "Name": "Mind Like a Fortress",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 9
     },
     {
       "ID": "MasterCraftLevel3_Armour",
@@ -3594,21 +3599,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3142,
+      "Progressed": 3143,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3142,
+      "Progressed": 3143,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-08-12T01:37:49.0536215+00:00",
-  "LastChanged_Achievements": "2023-08-12T15:05:40.4675925+00:00",
+  "LastChanged_Achievements": "2023-08-12T16:06:30.9134261+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:27.2561106+00:00",
-  "LastUpdate_Ratings": "2023-08-12T15:00:29.6384536+00:00",
-  "LastUpdate_Achievements": "2023-08-12T15:05:40.467699+00:00"
+  "LastUpdate_Ratings": "2023-08-12T16:01:06.3997111+00:00",
+  "LastUpdate_Achievements": "2023-08-12T16:06:30.9135061+00:00"
 }

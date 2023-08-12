@@ -16,9 +16,9 @@
 | Bull in a China Shop | 6.00% | ~10 |
 | Sker Explorer | 5.00% | ~9 |
 | Ending on a High Note | 2.00% | ~3 |
+| The Long Night | 2.00% | ~3 |
 | Maids of Sker | 1.00% | ~2 |
 | Phonic Boom | 1.00% | ~2 |
-| The Long Night | 1.00% | ~2 |
 | Axe of Kindness | 0.60% | ~1 |
 | In Darkness | 0.60% | ~1 |
 | Luddite | 0.60% | ~1 |
@@ -36,7 +36,7 @@
 | The Longest Night | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 174 (Ranked 294)  
-Completed: 0 (0.00%) (Ranked 254)  
+Completed: 0 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

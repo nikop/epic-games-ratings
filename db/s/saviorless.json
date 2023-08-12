@@ -3,9 +3,9 @@
   "Name": "Saviorless",
   "ProductSlug": "saviorless-bdcd28",
   "Ranking_EOS_Progress": 543,
-  "Ranking_EOS_Completed": 254,
+  "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 355,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-12T07:57:31.7189735+00:00",
-  "LastUpdate_Ratings": "2023-08-12T15:01:42.0002377+00:00",
-  "LastUpdate_Achievements": "2023-08-12T15:02:45.3990914+00:00"
+  "LastUpdate_Ratings": "2023-08-12T16:02:31.815906+00:00",
+  "LastUpdate_Achievements": "2023-08-12T16:03:52.6708375+00:00"
 }

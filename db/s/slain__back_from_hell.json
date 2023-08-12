@@ -6,7 +6,7 @@
   "Ranking_Popularity": 310,
   "Ranking_PopularitySum": 403,
   "Ranking_EOS_Progress": 98,
-  "Ranking_EOS_Completed": 213,
+  "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 56,
   "Ranking_EOS_NewCompleters": 67,
   "Store": {
@@ -211,9 +211,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 33581,
+  "EOS_Progressed": 33593,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 856,
+  "EOS_NewPlayers": 863,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -12676,6 +12676,11 @@
       "Time": "2023-08-12T15:05:39.794882+00:00",
       "NumProgressed": 33581,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-08-12T16:06:30.1805455+00:00",
+      "NumProgressed": 33593,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 29,
@@ -12687,7 +12692,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 5037
+      "UsersEstimate": 5039
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -12695,7 +12700,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 6716
+      "UsersEstimate": 6719
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -12703,7 +12708,7 @@
       "Name": "Start As You Mean To Go On",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "ACH_05_DEFEATED_THORN_BEAST",
@@ -12759,7 +12764,7 @@
       "Name": "Killed by Death",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1679
+      "UsersEstimate": 1680
     },
     {
       "ID": "ACH_12_WOLF_RUN_NO_DAMAGE",
@@ -12831,7 +12836,7 @@
       "Name": "Kill \u0027Em All",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1343
+      "UsersEstimate": 1344
     },
     {
       "ID": "ACH_21_CRITICAL_STRIKES",
@@ -12839,7 +12844,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1679
+      "UsersEstimate": 1680
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -12847,7 +12852,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2015
+      "UsersEstimate": 2016
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -12863,7 +12868,7 @@
       "Name": "Hail the Great Horned Metal God!",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "ACH_25_TALISMAN_COMPLETE",
@@ -12918,7 +12923,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 33581,
+      "Progressed": 33593,
       "Completed": 21
     }
   ],
@@ -12926,8 +12931,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-08-09T21:02:33.9028923+00:00",
-  "LastChanged_Achievements": "2023-08-12T15:05:39.7948814+00:00",
+  "LastChanged_Achievements": "2023-08-12T16:06:30.1805448+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:57.7890504+00:00",
-  "LastUpdate_Ratings": "2023-08-12T15:02:15.8779621+00:00",
-  "LastUpdate_Achievements": "2023-08-12T15:05:39.7950044+00:00"
+  "LastUpdate_Ratings": "2023-08-12T16:03:19.2153712+00:00",
+  "LastUpdate_Achievements": "2023-08-12T16:06:30.1806586+00:00"
 }

@@ -47,11 +47,11 @@
 | The Exorcist | 5.00% | ~7 |
 | Mithril | 5.00% | ~7 |
 | Aluminum | 5.00% | ~7 |
+| Anvil | 5.00% | ~7 |
 | Analyzed | 4.00% | ~5 |
-| Anvil | 4.00% | ~5 |
+| Tongs | 4.00% | ~5 |
 | Combo Master | 3.00% | ~4 |
 | It's a Trap! | 3.00% | ~4 |
-| Tongs | 3.00% | ~4 |
 | Concluded | 3.00% | ~4 |
 | Platinum | 3.00% | ~4 |
 | Really Bad Luck | 2.00% | ~3 |
@@ -73,13 +73,13 @@
 | Warp Drive Spacecraft | 1.00% | ~1 |
 | Wu-wei | 1.00% | ~1 |
 | Satellite | 1.00% | ~1 |
+| Zombie Slayer | 1.00% | ~1 |
+| Divinity | 0.70% | ~1 |
+| Zombie Hunter | 0.70% | ~1 |
 | Zombie Exterminator | 0.70% | ~1 |
-| Zombie Slayer | 0.70% | ~1 |
-| Divinity | 0.00% | ~0 |
-| Zombie Hunter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 136 (Ranked 306)  
-Completed: 0 (0.00%) (Ranked 254)  
+Completed: 1 (0.74%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -134,7 +134,7 @@ Completed: 0 (0.00%) (Ranked 254)
 | 2023-08-09 | 129 | 0 |
 | 2023-08-10 | 130 | 0 |
 | 2023-08-11 | 131 | 0 |
-| 2023-08-12 | 136 | 0 |
+| 2023-08-12 | 136 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

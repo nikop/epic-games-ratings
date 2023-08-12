@@ -8,13 +8,13 @@
 | Brute force | 83.00% | ~125 |
 | Nimble fingers | 79.00% | ~119 |
 | Room 104 | 79.00% | ~119 |
-| Face to face | 78.00% | ~118 |
+| Face to face | 79.00% | ~119 |
 | Now or never | 74.00% | ~112 |
-| Let's play a game… | 72.00% | ~109 |
+| Let's play a game… | 73.00% | ~110 |
 | First aid | 62.00% | ~94 |
 | Soundtrack | 58.00% | ~88 |
 | Antidote | 54.00% | ~82 |
-| Pick the right door | 24.00% | ~36 |
+| Pick the right door | 25.00% | ~38 |
 | The third floor | 16.00% | ~24 |
 | One-way | 14.00% | ~21 |
 | On the right path | 13.00% | ~20 |
@@ -37,7 +37,7 @@
 | Sly as a fox | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 151 (Ranked 300)  
-Completed: 0 (0.00%) (Ranked 254)  
+Completed: 0 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

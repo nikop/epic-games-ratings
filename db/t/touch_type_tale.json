@@ -3,9 +3,9 @@
   "Name": "Touch Type Tale",
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 155,
-  "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_Completed": 162,
+  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3119,
+  "EOS_Progressed": 3120,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -2749,6 +2749,11 @@
       "Time": "2023-08-12T12:03:43.307528+00:00",
       "NumProgressed": 3119,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-08-12T16:04:50.8827036+00:00",
+      "NumProgressed": 3120,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 33,
@@ -2808,7 +2813,7 @@
       "Name": "You and what Army?",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2776
+      "UsersEstimate": 2777
     },
     {
       "ID": "campaign10",
@@ -2896,7 +2901,7 @@
       "Name": "Flanked!",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 2464
+      "UsersEstimate": 2465
     },
     {
       "ID": "campaign20",
@@ -2912,7 +2917,7 @@
       "Name": "Economics 101",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 1996
+      "UsersEstimate": 1997
     },
     {
       "ID": "campaign4",
@@ -2920,7 +2925,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1497
+      "UsersEstimate": 1498
     },
     {
       "ID": "campaign5",
@@ -2928,7 +2933,7 @@
       "Name": "Clay Fighter",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "campaign6",
@@ -2952,7 +2957,7 @@
       "Name": "Held Back by the Roots",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "campaign9",
@@ -3023,7 +3028,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3119,
+      "Progressed": 3120,
       "Completed": 10
     }
   ],
@@ -3031,8 +3036,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-08-12T15:04:06.2519688+00:00",
+  "LastChanged_Achievements": "2023-08-12T16:04:50.8827033+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:07.7708423+00:00",
-  "LastUpdate_Ratings": "2023-08-12T14:57:04.2205364+00:00",
-  "LastUpdate_Achievements": "2023-08-12T15:04:06.2520176+00:00"
+  "LastUpdate_Ratings": "2023-08-12T15:57:10.2447898+00:00",
+  "LastUpdate_Achievements": "2023-08-12T16:04:50.8827454+00:00"
 }

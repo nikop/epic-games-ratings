@@ -3,12 +3,12 @@
   "Name": "IXION",
   "ProductSlug": "ixion-88cda4",
   "Ranking_Rating": 485,
-  "Ranking_Popularity": 511,
-  "Ranking_PopularitySum": 511,
+  "Ranking_Popularity": 512,
+  "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 157,
-  "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_Completed": 255,
+  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -254,9 +254,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3061,
+  "EOS_Progressed": 3062,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4494,6 +4494,11 @@
       "Time": "2023-08-12T12:06:04.2407104+00:00",
       "NumProgressed": 3061,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-12T16:07:38.11656+00:00",
+      "NumProgressed": 3062,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -4593,7 +4598,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "ACH_BASE_22",
@@ -4617,7 +4622,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "ACH_BASE_25",
@@ -4641,7 +4646,7 @@
       "Name": "A Hunk of Junk",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "ACH_BASE_28",
@@ -4673,7 +4678,7 @@
       "Name": "Exceeding Capacity",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "ACH_BASE_31",
@@ -4713,7 +4718,7 @@
       "Name": "Breaking Protocol",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "ACH_BASE_36",
@@ -4960,13 +4965,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1243,
+      "Progressed": 1244,
       "Completed": 6
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3061,
+      "Progressed": 3062,
       "Completed": 0
     }
   ],
@@ -4974,8 +4979,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-07-23T14:59:09.9428451+00:00",
-  "LastChanged_Achievements": "2023-08-12T15:06:38.1363967+00:00",
+  "LastChanged_Achievements": "2023-08-12T16:07:38.1165595+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:14.5462015+00:00",
-  "LastUpdate_Ratings": "2023-08-12T15:00:18.5755437+00:00",
-  "LastUpdate_Achievements": "2023-08-12T15:06:38.1364916+00:00"
+  "LastUpdate_Ratings": "2023-08-12T16:00:51.1264049+00:00",
+  "LastUpdate_Achievements": "2023-08-12T16:07:38.1166469+00:00"
 }

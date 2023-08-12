@@ -3,9 +3,9 @@
   "Name": "Zombie Rollerz: Pinball Heroes",
   "ProductSlug": "zombie-rollerz-7aa027",
   "Ranking_EOS_Progress": 306,
-  "Ranking_EOS_Completed": 254,
+  "Ranking_EOS_Completed": 123,
   "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2022-03-02T18:00:00+00:00",
     "PcReleaseDate": "2022-03-02T18:00:00+00:00",
@@ -27,10 +27,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 136,
-  "EOS_Completed": 0,
+  "EOS_Completed": 1,
   "EOS_NewPlayers": 11,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:48.5975235+00:00",
@@ -456,6 +456,11 @@
       "Time": "2023-08-12T12:03:43.8473603+00:00",
       "NumProgressed": 136,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-12T16:04:51.9712863+00:00",
+      "NumProgressed": 136,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 73,
@@ -617,9 +622,9 @@
       "ID": "PRG_ACCUM_BLESS",
       "SetID": "89cjc9l",
       "Name": "Divinity",
-      "Percentage": 0,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "PRG_ACCUM_CURSE",
@@ -825,9 +830,9 @@
       "ID": "PRG_HARD_10009",
       "SetID": "89cjc9l",
       "Name": "Tongs",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "PRG_HARD_10010",
@@ -841,9 +846,9 @@
       "ID": "PRG_HARD_ALL",
       "SetID": "89cjc9l",
       "Name": "Zombie Hunter",
-      "Percentage": 0,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "PRG_HELL_10001",
@@ -1017,9 +1022,9 @@
       "ID": "PRG_NORMAL_10009",
       "SetID": "89cjc9l",
       "Name": "Anvil",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "PRG_NORMAL_10010",
@@ -1033,7 +1038,7 @@
       "ID": "PRG_NORMAL_ALL",
       "SetID": "89cjc9l",
       "Name": "Zombie Slayer",
-      "Percentage": 0.7,
+      "Percentage": 1,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -1051,15 +1056,15 @@
       "ID": "89cjc9l",
       "IsBase": true,
       "Progressed": 136,
-      "Completed": 0
+      "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:18.8444158+00:00",
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-03-31T05:56:59.5373099+00:00",
-  "LastChanged_Achievements": "2023-08-12T15:04:07.304893+00:00",
+  "LastChanged_Achievements": "2023-08-12T16:04:51.9712853+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:19.6868587+00:00",
-  "LastUpdate_Ratings": "2023-08-12T14:58:59.3089064+00:00",
-  "LastUpdate_Achievements": "2023-08-12T15:04:07.3049804+00:00"
+  "LastUpdate_Ratings": "2023-08-12T15:59:18.36338+00:00",
+  "LastUpdate_Achievements": "2023-08-12T16:04:51.9714002+00:00"
 }

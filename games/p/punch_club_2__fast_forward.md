@@ -20,16 +20,16 @@
 | Fighting is cool | 69.00% | ~169 |
 | No bullying more | 69.00% | ~169 |
 | Hello, world! | 69.00% | ~169 |
-| Pal of your father? | 66.00% | ~162 |
+| Pal of your father? | 67.00% | ~164 |
 | Employee of the month | 64.00% | ~157 |
 | Spirit of the past | 63.00% | ~154 |
-| Law student | 61.00% | ~149 |
+| Law student | 62.00% | ~152 |
 | Workout professional | 59.00% | ~145 |
 | Little hacker | 59.00% | ~145 |
 | It's good to be alive | 59.00% | ~145 |
+| Own four walls | 59.00% | ~145 |
 | Handyman | 58.00% | ~142 |
 | Champion – starter pack | 58.00% | ~142 |
-| Own four walls | 58.00% | ~142 |
 | Intriguing candies | 57.00% | ~140 |
 | Employee of the year | 57.00% | ~140 |
 | Fight for life | 56.00% | ~137 |
@@ -37,10 +37,10 @@
 | Extreme neuropower! | 52.00% | ~127 |
 | Escaped from a big trouble | 50.00% | ~122 |
 | Now you are worthy | 47.00% | ~115 |
+| Guiding on the right path | 45.00% | ~110 |
 | Fight is life | 44.00% | ~108 |
 | Mysterious voice | 44.00% | ~108 |
 | No blades in the gym | 44.00% | ~108 |
-| Guiding on the right path | 44.00% | ~108 |
 | Your own way | 41.00% | ~100 |
 | Champion – no way back | 39.00% | ~96 |
 | Poisoned fighter | 38.00% | ~93 |

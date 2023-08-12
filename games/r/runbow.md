@@ -1,26 +1,26 @@
 # Runbow
 [Store](https://store.epicgames.com/en-US/p/runbow-fc9fa4)  
 [View Rawdata](../../db/r/runbow.json)  
-Rating: 4.46 (Ranked 618)  
+Rating: 4.46 (Ranked 619)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In The Zone | 53.00% | ~131,406 |
-| My First Runbow | 50.00% | ~123,968 |
-| It's The Fall | 26.00% | ~64,463 |
+| In The Zone | 53.00% | ~131,407 |
+| My First Runbow | 50.00% | ~123,969 |
+| It's The Fall | 26.00% | ~64,464 |
 | The Stunner | 22.00% | ~54,546 |
-| Be Aggressive | 21.00% | ~52,066 |
-| Curator | 20.00% | ~49,587 |
-| Crowning Around | 18.00% | ~44,628 |
+| Be Aggressive | 21.00% | ~52,067 |
+| Curator | 20.00% | ~49,588 |
+| Crowning Around | 18.00% | ~44,629 |
 | Can You Dig It? | 17.00% | ~42,149 |
 | You Juan-A-Go? | 16.00% | ~39,670 |
-| Chan-tastic | 15.00% | ~37,190 |
+| Chan-tastic | 15.00% | ~37,191 |
 | Muddy Waters | 14.00% | ~34,711 |
 | Toasty! | 13.00% | ~32,232 |
 | Lazy Laser | 8.00% | ~19,835 |
-| Just A Phaze | 7.00% | ~17,355 |
-| Into The Drift | 7.00% | ~17,355 |
-| Ready? Fight! | 7.00% | ~17,355 |
+| Just A Phaze | 7.00% | ~17,356 |
+| Into The Drift | 7.00% | ~17,356 |
+| Ready? Fight! | 7.00% | ~17,356 |
 | Butt Butt | 6.00% | ~14,876 |
 | He Who Laughs Last | 3.00% | ~7,438 |
 | Shoo, Cat! | 3.00% | ~7,438 |
@@ -30,8 +30,8 @@ Rating: 4.46 (Ranked 618)
 | Just A Bit | 1.00% | ~2,479 |
 | Tubular, Dude | 1.00% | ~2,479 |
 | What A Trip | 0.90% | ~2,231 |
-| Here We Go! | 0.80% | ~1,983 |
-| Please The King | 0.80% | ~1,983 |
+| Here We Go! | 0.80% | ~1,984 |
+| Please The King | 0.80% | ~1,984 |
 | Clear-Cut | 0.50% | ~1,240 |
 | Breaking Out | 0.40% | ~992 |
 | Disposable | 0.40% | ~992 |
@@ -52,8 +52,8 @@ Rating: 4.46 (Ranked 618)
 | Talent Scout | 0.10% | ~248 |
 | True Completionist | 0.10% | ~248 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 247,935 (Ranked 45)  
-Completed: 3 (0.00%) (Ranked 254)  
+Progressed: 247,938 (Ranked 45)  
+Completed: 3 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -166,7 +166,7 @@ Completed: 3 (0.00%) (Ranked 254)
 | 2023-08-09 | 247,836 | 3 |
 | 2023-08-10 | 247,869 | 3 |
 | 2023-08-11 | 247,907 | 3 |
-| 2023-08-12 | 247,935 | 3 |
+| 2023-08-12 | 247,938 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

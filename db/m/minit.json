@@ -3,12 +3,12 @@
   "Name": "Minit",
   "ProductSlug": "minit",
   "Ranking_Rating": 470,
-  "Ranking_Popularity": 511,
-  "Ranking_PopularitySum": 511,
+  "Ranking_Popularity": 512,
+  "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 543,
-  "Ranking_EOS_Completed": 254,
+  "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 355,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2018-04-03T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -315,6 +315,6 @@
   "FirstSeen": "2022-07-22T20:17:43.6346922+00:00",
   "LastChanged": "2023-03-31T05:57:02.7851621+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:18.0266726+00:00",
-  "LastUpdate_Ratings": "2023-08-12T14:58:58.5335758+00:00",
-  "LastUpdate_Achievements": "2023-08-12T15:06:28.6293272+00:00"
+  "LastUpdate_Ratings": "2023-08-12T15:59:17.7841801+00:00",
+  "LastUpdate_Achievements": "2023-08-12T16:07:27.2625413+00:00"
 }

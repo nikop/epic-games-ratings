@@ -6,9 +6,9 @@
   "Ranking_Popularity": 48,
   "Ranking_PopularitySum": 67,
   "Ranking_EOS_Progress": 86,
-  "Ranking_EOS_Completed": 254,
+  "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -6333,9 +6333,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 58728,
+  "EOS_Progressed": 58732,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 483,
+  "EOS_NewPlayers": 484,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18338,6 +18338,11 @@
       "Time": "2023-08-12T15:04:35.9976568+00:00",
       "NumProgressed": 58728,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-12T16:05:25.4816838+00:00",
+      "NumProgressed": 58732,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -18349,7 +18354,7 @@
       "Name": "Against all odds",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 6460
+      "UsersEstimate": 6461
     },
     {
       "ID": "Apple of my eye",
@@ -18357,7 +18362,7 @@
       "Name": "Apple of my eye",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 8809
+      "UsersEstimate": 8810
     },
     {
       "ID": "Bannerlord",
@@ -18365,7 +18370,7 @@
       "Name": "Bannerlord",
       "Percentage": 22,
       "XP": 65,
-      "UsersEstimate": 12920
+      "UsersEstimate": 12921
     },
     {
       "ID": "Best served cold",
@@ -18389,7 +18394,7 @@
       "Name": "Butterlord",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 4698
+      "UsersEstimate": 4699
     },
     {
       "ID": "Catch",
@@ -18509,7 +18514,7 @@
       "Name": "Horde breaker",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 12920
+      "UsersEstimate": 12921
     },
     {
       "ID": "I can do it",
@@ -18517,7 +18522,7 @@
       "Name": "I can do it",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 8809
+      "UsersEstimate": 8810
     },
     {
       "ID": "I spit on your grave",
@@ -18573,7 +18578,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 18793
+      "UsersEstimate": 18794
     },
     {
       "ID": "Lawbringer",
@@ -18581,7 +18586,7 @@
       "Name": "Lawbringer",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 22317
+      "UsersEstimate": 22318
     },
     {
       "ID": "Lawmaker",
@@ -18589,7 +18594,7 @@
       "Name": "Lawmaker",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 12920
+      "UsersEstimate": 12921
     },
     {
       "ID": "Long live the Empire",
@@ -18629,7 +18634,7 @@
       "Name": "My way",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 2936
+      "UsersEstimate": 2937
     },
     {
       "ID": "Real Estate",
@@ -18701,7 +18706,7 @@
       "Name": "The king is pleased",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 10571
+      "UsersEstimate": 10572
     },
     {
       "ID": "This Is Our Land",
@@ -18725,7 +18730,7 @@
       "Name": "Trained",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 12920
+      "UsersEstimate": 12921
     },
     {
       "ID": "Undercover",
@@ -18756,15 +18761,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 58728,
+      "Progressed": 58732,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-08-12T11:00:31.192341+00:00",
-  "LastChanged_Achievements": "2023-08-12T15:04:35.9976563+00:00",
+  "LastChanged_Achievements": "2023-08-12T16:05:25.4816831+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:44.6335832+00:00",
-  "LastUpdate_Ratings": "2023-08-12T15:01:57.1887761+00:00",
-  "LastUpdate_Achievements": "2023-08-12T15:04:35.9977931+00:00"
+  "LastUpdate_Ratings": "2023-08-12T16:02:58.3683075+00:00",
+  "LastUpdate_Achievements": "2023-08-12T16:05:25.4818214+00:00"
 }

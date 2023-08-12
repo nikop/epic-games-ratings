@@ -3,12 +3,12 @@
   "Name": "Among the Sleep - Enhanced Edition",
   "ProductSlug": "among-the-sleep-enhanced-edition",
   "Ranking_Rating": 786,
-  "Ranking_Popularity": 511,
-  "Ranking_PopularitySum": 511,
+  "Ranking_Popularity": 512,
+  "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 75,
-  "Ranking_EOS_Completed": 144,
+  "Ranking_EOS_Completed": 145,
   "Ranking_EOS_NewPlayers": 58,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
     "PcReleaseDate": "2017-11-02T15:00:00+00:00",
@@ -443,9 +443,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 82079,
+  "EOS_Progressed": 82084,
   "EOS_Completed": 385,
-  "EOS_NewPlayers": 815,
+  "EOS_NewPlayers": 816,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -12793,6 +12793,11 @@
       "Time": "2023-08-12T15:06:06.3675698+00:00",
       "NumProgressed": 82079,
       "NumCompleted": 385
+    },
+    {
+      "Time": "2023-08-12T16:06:50.6031471+00:00",
+      "NumProgressed": 82084,
+      "NumCompleted": 385
     }
   ],
   "TotalAchievements": 10,
@@ -12852,7 +12857,7 @@
       "Name": "Prologue Drawings",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "GameCompleted",
@@ -12868,7 +12873,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 28728
+      "UsersEstimate": 28729
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -12883,15 +12888,15 @@
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 82079,
+      "Progressed": 82084,
       "Completed": 385
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-03-31T05:57:32.2303432+00:00",
-  "LastChanged_Achievements": "2023-08-12T15:06:06.3675693+00:00",
+  "LastChanged_Achievements": "2023-08-12T16:06:50.6031465+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:23.206802+00:00",
-  "LastUpdate_Ratings": "2023-08-12T14:57:31.11257+00:00",
-  "LastUpdate_Achievements": "2023-08-12T15:06:06.367679+00:00"
+  "LastUpdate_Ratings": "2023-08-12T15:57:35.2883597+00:00",
+  "LastUpdate_Achievements": "2023-08-12T16:06:50.6032473+00:00"
 }

@@ -6,14 +6,15 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 9.00% | ~18,982 |
+| Sowwy! | 9.00% | ~18,985 |
+| Alt+F4 | 0.60% | ~1,266 |
 | Where's that freaking Dwarf? | 0.50% | ~1,055 |
-| Alt+F4 | 0.50% | ~1,055 |
 | Déjà vu | 0.40% | ~844 |
 | Sock! SOCK! | 0.40% | ~844 |
 | A beer, two curses, three companions | 0.30% | ~633 |
 | %#*!$*! | 0.30% | ~633 |
 | GG EZ | 0.30% | ~633 |
+| DM intervention | 0.30% | ~633 |
 | Speedrun | 0.30% | ~633 |
 | Fireproof Wizardess | 0.30% | ~633 |
 | Livin' in a dwarven paradise | 0.20% | ~422 |
@@ -22,8 +23,8 @@ Number of Ratings: 118  (23.09.2022)
 | The demons' feast | 0.20% | ~422 |
 | The Great Library | 0.20% | ~422 |
 | Torture and Sensibility | 0.20% | ~422 |
+| The Dungeon Master | 0.20% | ~422 |
 | The Woman in the High Castle | 0.20% | ~422 |
-| DM intervention | 0.20% | ~422 |
 | Team Building Exercise | 0.20% | ~422 |
 | Oh, when I'll be level 10... | 0.20% | ~422 |
 | Cursed die | 0.10% | ~211 |
@@ -31,7 +32,6 @@ Number of Ratings: 118  (23.09.2022)
 | Shiny and Crôm | 0.10% | ~211 |
 | Scholar of the Lands of Fangh | 0.10% | ~211 |
 | Urik's Depths | 0.10% | ~211 |
-| The Dungeon Master | 0.10% | ~211 |
 | The Statuette of Gladeulfeurah | 0.10% | ~211 |
 | Friendly fire | 0.10% | ~211 |
 | I'd rather... Just... Sing! | 0.10% | ~211 |
@@ -95,8 +95,8 @@ Number of Ratings: 118  (23.09.2022)
 | Sleep schedule mastery | 0.00% | ~0 |
 | Dumb and dumber | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210,906 (Ranked 55)  
-Completed: 1 (0.00%) (Ranked 254)  
+Progressed: 210,949 (Ranked 55)  
+Completed: 1 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -168,7 +168,7 @@ Completed: 1 (0.00%) (Ranked 254)
 | 2023-08-09 | 209,549 | 0 |
 | 2023-08-10 | 210,011 | 0 |
 | 2023-08-11 | 210,534 | 1 |
-| 2023-08-12 | 210,906 | 1 |
+| 2023-08-12 | 210,949 | 1 |
 ## Awards
 Max (Character Customization): 160  (Ranked 292)  
 Sum: 180 (Ranked 377)  

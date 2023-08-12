@@ -6,20 +6,20 @@ Number of Ratings: 2,536  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 97.00% | ~48,547 |
-| ''I don't like you either!'' | 79.00% | ~39,538 |
+| ''You guys got yourself a ship!'' | 97.00% | ~48,548 |
+| ''I don't like you either!'' | 79.00% | ~39,539 |
 | ''Impressive, most impressive'' | 72.00% | ~36,035 |
 | ''You think you're some kind of Jedi?'' | 72.00% | ~36,035 |
-| The Phantom Menace | 59.00% | ~29,528 |
-| ''Aggressive Negotiations'' | 59.00% | ~29,528 |
-| ''I can fly anything'' | 57.00% | ~28,527 |
+| The Phantom Menace | 59.00% | ~29,529 |
+| ''Aggressive Negotiations'' | 59.00% | ~29,529 |
+| ''I can fly anything'' | 57.00% | ~28,528 |
 | ''And who gave you permission...?'' | 54.00% | ~27,026 |
-| A New Hope | 48.00% | ~24,023 |
+| A New Hope | 48.00% | ~24,024 |
 | Attack of the Clones | 47.00% | ~23,523 |
-| Revenge of the Sith | 40.00% | ~20,019 |
+| Revenge of the Sith | 40.00% | ~20,020 |
 | The Empire Strikes Back | 37.00% | ~18,518 |
 | ''A fine addition to my collection'' | 37.00% | ~18,518 |
-| Return of the Jedi | 32.00% | ~16,015 |
+| Return of the Jedi | 32.00% | ~16,016 |
 | The Force Awakens | 27.00% | ~13,513 |
 | The Last Jedi | 23.00% | ~11,511 |
 | The Rise of Skywalker | 20.00% | ~10,010 |
@@ -52,8 +52,8 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''No more training, do you require'' | 1.00% | ~500 |
 | ''I've never seen a real one!'' | 0.90% | ~450 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50,048 (Ranked 89)  
-Completed: 221 (0.44%) (Ranked 149)  
+Progressed: 50,049 (Ranked 89)  
+Completed: 221 (0.44%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -166,7 +166,7 @@ Completed: 221 (0.44%) (Ranked 149)
 | 2023-08-09 | 50,037 | 219 |
 | 2023-08-10 | 50,041 | 219 |
 | 2023-08-11 | 50,043 | 221 |
-| 2023-08-12 | 50,048 | 221 |
+| 2023-08-12 | 50,049 | 221 |
 ## Awards
 Max (Great Boss Battles): 2,373  (Ranked 103)  
 Sum: 6,535 (Ranked 118)  
