@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 44.29% |
+| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 45.71% |
 | 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.41% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 39.53% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
@@ -30,7 +30,7 @@
 | 28 | [Sonic Origins](games/s/sonic_origins.md) | 9.54% |
 | 29 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 9.30% |
 | 29 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.30% |
-| 31 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.06% |
+| 31 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.05% |
 | 32 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.48% |
 | 33 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 7.94% |
 | 34 | [Smelter](games/s/smelter.md) | 7.69% |
@@ -107,8 +107,8 @@
 | 105 | [Poosh XL](games/p/poosh_xl.md) | 1.43% |
 | 106 | [Late Shift](games/l/late_shift.md) | 1.30% |
 | 107 | [Chorus](games/c/chorus.md) | 1.16% |
-| 108 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.12% |
-| 109 | [Trifox](games/t/trifox.md) | 1.11% |
+| 108 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.11% |
+| 108 | [Trifox](games/t/trifox.md) | 1.11% |
 | 110 | [A Musical Story](games/a/a_musical_story.md) | 1.09% |
 | 111 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.05% |
 | 112 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.01% |

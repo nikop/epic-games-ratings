@@ -7,12 +7,12 @@
 | [Dros](games/a/a46cade12846436281c910ddc51411f3.md) | 2023-08-11 | 40 (1,000 XP) | 1 | - | - |
 | [Mutus Meteora](games/0/06a3d76750a1495d853e3067de19c377.md) | 2023-08-10 | - |  | - | - |
 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 2023-08-10 | - |  | - | 0 |
-| [Bus World](games/e/e5fe6253deb3455c9ce9ecf0d2b68a6d.md) | 2023-08-10 | 14 (1,000 XP) | 58 | - | 0 |
+| [Bus World](games/e/e5fe6253deb3455c9ce9ecf0d2b68a6d.md) | 2023-08-10 | 14 (1,000 XP) | 64 | - | 0 |
 | [Prince of Persia: Sands of Time](games/f/fc5bb62add4045f6adf9cafcf49c608d.md) | 2023-08-10 | - |  | - | - |
 | [Sengoku Dynasty](games/6/696f412c815b40089807922419188f43.md) | 2023-08-10 | - |  | - | 0 |
-| [Project Nightmares Case 36: Henrietta Kedward](games/7/745fc8d94b6244caa3a97f453ddb92ca.md) | 2023-08-10 | 20 (1,000 XP) | 5 | - | - |
+| [Project Nightmares Case 36: Henrietta Kedward](games/7/745fc8d94b6244caa3a97f453ddb92ca.md) | 2023-08-10 | 20 (1,000 XP) | 6 | - | - |
 | [Backrooms Doors](games/8/8e08d47a6dcd46b4904b9d6e9e043130.md) | 2023-08-10 | - |  | - | 0 |
-| [Stray Gods: The Roleplaying Musical](games/0/0113dd49216f4f2d995ef9a6eebd67f4.md) | 2023-08-10 | 37 (1,000 XP) | 26 | - | 0 |
+| [Stray Gods: The Roleplaying Musical](games/0/0113dd49216f4f2d995ef9a6eebd67f4.md) | 2023-08-10 | 37 (1,000 XP) | 27 | - | 0 |
 | [NOVA](games/b/ba595699ab134a36b03255588bd0344e.md) | 2023-08-10 | - |  | - | - |
 | [The Dragoness Command Of The Flame](games/8/8bf17fa0bd774f72bb06bd095830af2a.md) | 2023-08-09 | 37 (1,000 XP) | 11 | - | 0 |
 | [NoRoY](games/7/7495a63cbeb34c2c843e1c99880d860d.md) | 2023-08-09 | - |  | - | - |
@@ -20,7 +20,7 @@
 | [Metaverser](games/8/88478d819cbc45ea8bf3b9b7ee90d358.md) | 2023-08-07 | - |  | - | 0 |
 | [Synergy of Serra](games/c/cd4adce6fc0b4e68b0c8bc8e3d84488d.md) | 2023-08-07 | - |  | - | 0 |
 | [Senile Wizards](games/d/d5e454695400407ea77e0fc351f09d10.md) | 2023-08-05 | - |  | - | 0 |
-| [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 2023-08-04 | 26 (1,000 XP) | 231 | - | 0 |
+| [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 2023-08-04 | 26 (1,000 XP) | 232 | - | 0 |
 | [Mixing Ammos](games/2/23047faee0134ed3bb4c8d71857c567b.md) | 2023-08-04 | - |  | - | - |
 | [Lifespace Traveler](games/7/77631a5827eb4a8ea16cf1ded0b24131.md) | 2023-08-03 | 13 (1,000 XP) | 1 | - | 0 |
 | [Neon Noodles - Cyberpunk Kitchen Automation](games/e/e43864d9ce5b4ac3927a289c6d977650.md) | 2023-08-03 | 19 (1,000 XP) | 1 | - | - |
@@ -50,13 +50,13 @@
 | [Hush Hush](games/5/56faf2396f304e6886e66c492ee22a0e.md) | 2023-07-27 | 39 (1,000 XP) | 19 | - | 0 |
 | [Deadlink](games/9/9a7a940d35ba4f8c912064ca4a9660d9.md) | 2023-07-27 | - |  | - | 0 |
 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 2023-07-27 | 14 (1,000 XP) | 123 | - | 0 |
-| [Homeworld Remastered Collection](games/4/4311a0ee99724086b1a4f261b827d038.md) | 2023-07-27 | 34 (1,000 XP) | 186,176 | 4.58 | 0 |
+| [Homeworld Remastered Collection](games/4/4311a0ee99724086b1a4f261b827d038.md) | 2023-07-27 | 34 (1,000 XP) | 186,249 | 4.58 | 0 |
 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 2023-07-27 | 30 (1,000 XP) | 19 | - | 0 |
 | [The Future Project](games/1/1846202a6db1495189ceefd84672b545.md) | 2023-07-27 | 32 (1,000 XP) | 1 | - | - |
 | [Nova Strike](games/b/b1555bed500048b79f6fad321d5a7202.md) | 2023-07-27 | 18 (1,000 XP) | 6 | - | 0 |
 | [Tour de France 2023](games/c/c20377f30dfa44eb929b0081c1182381.md) | 2023-07-27 | 43 (1,000 XP) | 2 | - | - |
 | [Pixeljunk Scrappers Deluxe](games/p/pixeljunk_scrappers_deluxe.md) | 2023-07-27 | - |  | - | - |
-| [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 2023-07-27 | 30 (1,000 XP) | 7,145 | - | 0 |
+| [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 2023-07-27 | 30 (1,000 XP) | 7,158 | - | 0 |
 | [Organs Please](games/1/1c2d56b2a9ab46c09f8e6fc6cf939852.md) | 2023-07-26 | - |  | - | 0 |
 | [Bloxs](games/b/bloxs.md) | 2023-07-26 | - |  | - | - |
 | [Ratchet & Clank: Rift Apart](games/0/046aeb7098b94ac3961dad6c5dbe68c0.md) | 2023-07-26 | - |  | 4.43 | 0 |
@@ -66,7 +66,7 @@
 | [Full Moon Rush](games/f/full_moon_rush.md) | 2023-07-25 | - |  | - | - |
 | [Probo Rush](games/p/probo_rush.md) | 2023-07-25 | - |  | - | - |
 | [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 2023-07-25 | - |  | - | 0 |
-| [Remnant 2](games/r/remnant_2.md) | 2023-07-25 | 50 (1,000 XP) | 145,516 | 4.77 | 700 |
+| [Remnant 2](games/r/remnant_2.md) | 2023-07-25 | 50 (1,000 XP) | 145,626 | 4.77 | 700 |
 | [Dungeon Fighter Online](games/b/b567cb36ae39435792fe40d2e913cd92.md) | 2023-07-25 | - |  | - | 0 |
 | [Mr. Run and Jump](games/4/499acd70c5dd4e7d9d6af210338e2ae6.md) | 2023-07-25 | - |  | - | 0 |
 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 2023-07-24 | - |  | - | - |
