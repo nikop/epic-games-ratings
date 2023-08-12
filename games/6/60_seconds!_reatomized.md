@@ -5,29 +5,29 @@ Rating: 4.64 (Ranked 315)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 93.00% | ~4,562 |
-| I will survive! | 92.00% | ~4,513 |
+| Prepper | 93.00% | ~4,563 |
+| I will survive! | 92.00% | ~4,514 |
 | All thumbs | 91.00% | ~4,464 |
-| Home, sweet home | 90.00% | ~4,414 |
-| Survivalist | 89.00% | ~4,365 |
-| One way ticket | 84.00% | ~4,120 |
-| Last man standing | 79.00% | ~3,875 |
-| Family guy | 76.00% | ~3,728 |
+| Home, sweet home | 90.00% | ~4,415 |
+| Survivalist | 89.00% | ~4,366 |
+| One way ticket | 84.00% | ~4,121 |
+| Last man standing | 79.00% | ~3,876 |
+| Family guy | 76.00% | ~3,729 |
 | Out of the Bag | 74.00% | ~3,630 |
-| The Dark Side | 69.00% | ~3,384 |
-| Duck and cover! | 64.00% | ~3,139 |
-| Souper! | 63.00% | ~3,090 |
+| The Dark Side | 69.00% | ~3,385 |
+| Duck and cover! | 64.00% | ~3,140 |
+| Souper! | 63.00% | ~3,091 |
 | Pacifist | 58.00% | ~2,845 |
 | 2-1-6 | 57.00% | ~2,796 |
 | A gift | 52.00% | ~2,551 |
-| Girl Power | 46.00% | ~2,256 |
-| What goes around... | 43.00% | ~2,109 |
+| Girl Power | 46.00% | ~2,257 |
+| What goes around... | 43.00% | ~2,110 |
 | Be Prepared | 37.00% | ~1,815 |
 | Unbreakable | 36.00% | ~1,766 |
 | This is the end | 33.00% | ~1,619 |
 | Gotta get 'em all | 32.00% | ~1,570 |
 | Atomic drill | 32.00% | ~1,570 |
-| Disco Roach | 27.00% | ~1,324 |
+| Disco Roach | 27.00% | ~1,325 |
 | Dawkins Residence | 20.00% | ~981 |
 | Rescue time! | 18.00% | ~883 |
 | New order | 17.00% | ~834 |
@@ -66,7 +66,7 @@ Rating: 4.64 (Ranked 315)
 | Tora! Tora! Tora! | 0.20% | ~10 |
 | Dead Hand | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,905 (Ranked 142)  
+Progressed: 4,906 (Ranked 142)  
 Completed: 1 (0.02%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 1 (0.02%) (Ranked 235)
 | 2023-08-09 | 4,890 | 1 |
 | 2023-08-10 | 4,894 | 1 |
 | 2023-08-11 | 4,898 | 1 |
-| 2023-08-12 | 4,905 | 1 |
+| 2023-08-12 | 4,906 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

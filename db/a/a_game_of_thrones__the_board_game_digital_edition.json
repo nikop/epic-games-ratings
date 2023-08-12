@@ -1269,9 +1269,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 21181,
+  "EOS_Progressed": 21191,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 597,
+  "EOS_NewPlayers": 602,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -13394,6 +13394,11 @@
       "Time": "2023-08-12T20:05:04.8801329+00:00",
       "NumProgressed": 21181,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-08-12T21:04:07.1801195+00:00",
+      "NumProgressed": 21191,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 22,
@@ -13445,7 +13450,7 @@
       "Name": "Growing Strong",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 1059
+      "UsersEstimate": 1060
     },
     {
       "ID": "1021",
@@ -13469,7 +13474,7 @@
       "Name": "What is Dead may Never Die",
       "Percentage": 3,
       "XP": 65,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "1024",
@@ -13477,7 +13482,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1694
+      "UsersEstimate": 1695
     },
     {
       "ID": "1025",
@@ -13493,7 +13498,7 @@
       "Name": "Oathkeeper",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1694
+      "UsersEstimate": 1695
     },
     {
       "ID": "1027",
@@ -13501,7 +13506,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1906
+      "UsersEstimate": 1907
     },
     {
       "ID": "1028",
@@ -13509,7 +13514,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3813
+      "UsersEstimate": 3814
     },
     {
       "ID": "1029",
@@ -13517,7 +13522,7 @@
       "Name": "Alliance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1694
+      "UsersEstimate": 1695
     },
     {
       "ID": "1030",
@@ -13525,7 +13530,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4236
+      "UsersEstimate": 4238
     },
     {
       "ID": "1031",
@@ -13533,7 +13538,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2965
+      "UsersEstimate": 2967
     },
     {
       "ID": "1032",
@@ -13541,7 +13546,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 8472
+      "UsersEstimate": 8476
     },
     {
       "ID": "1033",
@@ -13549,7 +13554,7 @@
       "Name": "The Swift",
       "Percentage": 3,
       "XP": 120,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "1034",
@@ -13565,7 +13570,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2754
+      "UsersEstimate": 2755
     },
     {
       "ID": "1036",
@@ -13573,22 +13578,22 @@
       "Name": "A Long Journey",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1694
+      "UsersEstimate": 1695
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 21181,
+      "Progressed": 21191,
       "Completed": 43
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-08-02T00:02:09.7226533+00:00",
-  "LastChanged_Achievements": "2023-08-12T20:05:04.8801325+00:00",
+  "LastChanged_Achievements": "2023-08-12T21:04:07.1801192+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:21.6201969+00:00",
-  "LastUpdate_Ratings": "2023-08-12T19:57:40.6318038+00:00",
-  "LastUpdate_Achievements": "2023-08-12T20:05:04.8802324+00:00"
+  "LastUpdate_Ratings": "2023-08-12T20:58:18.0160248+00:00",
+  "LastUpdate_Achievements": "2023-08-12T21:04:07.1801849+00:00"
 }

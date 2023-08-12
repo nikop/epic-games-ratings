@@ -4,8 +4,8 @@
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 65,
-  "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
     "PcReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -996,9 +996,9 @@
       "ID": "fight_win_10",
       "SetID": "69co12a",
       "Name": "Fighting is cool",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 169
+      "UsersEstimate": 172
     },
     {
       "ID": "fight_win_25",
@@ -1411,8 +1411,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-08-12T20:06:24.4018072+00:00",
+  "LastChanged_Achievements": "2023-08-12T21:06:06.5019248+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:18.7618858+00:00",
-  "LastUpdate_Ratings": "2023-08-12T20:00:05.2129797+00:00",
-  "LastUpdate_Achievements": "2023-08-12T20:06:24.4018787+00:00"
+  "LastUpdate_Ratings": "2023-08-12T21:00:03.5260002+00:00",
+  "LastUpdate_Achievements": "2023-08-12T21:06:06.5019771+00:00"
 }

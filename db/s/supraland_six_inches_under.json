@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 415,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 19,
-  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2022-06-15T09:00:00+00:00",
@@ -1549,9 +1549,9 @@
       "ID": "Area2",
       "SetID": "5lok9mm",
       "Name": "Industrial Area",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 1952
+      "UsersEstimate": 1974
     },
     {
       "ID": "Area3",
@@ -1965,8 +1965,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-07-21T20:00:23.2474099+00:00",
-  "LastChanged_Achievements": "2023-08-12T20:05:55.4156334+00:00",
+  "LastChanged_Achievements": "2023-08-12T21:05:27.3383262+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:59.4604083+00:00",
-  "LastUpdate_Ratings": "2023-08-12T20:04:35.5329782+00:00",
-  "LastUpdate_Achievements": "2023-08-12T20:05:55.4156912+00:00"
+  "LastUpdate_Ratings": "2023-08-12T21:03:40.4764573+00:00",
+  "LastUpdate_Achievements": "2023-08-12T21:05:27.3383639+00:00"
 }

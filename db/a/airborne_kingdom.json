@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 122,
   "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -313,7 +313,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7015,
+  "EOS_Progressed": 7016,
   "EOS_Completed": 53,
   "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
@@ -3573,6 +3573,11 @@
       "Time": "2023-08-12T20:05:39.8891808+00:00",
       "NumProgressed": 7015,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-08-12T21:04:41.8963803+00:00",
+      "NumProgressed": 7016,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 27,
@@ -3600,7 +3605,7 @@
       "Name": "Fields Watered",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2876
+      "UsersEstimate": 2877
     },
     {
       "ID": "AK_GLOWING_WATERS",
@@ -3624,7 +3629,7 @@
       "Name": "Harp Tuned",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1613
+      "UsersEstimate": 1614
     },
     {
       "ID": "AK_HOPES_HOISTED",
@@ -3632,7 +3637,7 @@
       "Name": "Hopes Hoisted",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1543
+      "UsersEstimate": 1544
     },
     {
       "ID": "AK_IRONS_SCORCHED",
@@ -3704,7 +3709,7 @@
       "Name": "Pyre Ignited",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1613
+      "UsersEstimate": 1614
     },
     {
       "ID": "AK_RELIC_FINDER",
@@ -3728,7 +3733,7 @@
       "Name": "Settling the Skies",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2876
+      "UsersEstimate": 2877
     },
     {
       "ID": "AK_SMALL_COMMUNITY",
@@ -3736,7 +3741,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 3928
+      "UsersEstimate": 3929
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -3760,7 +3765,7 @@
       "Name": "Travelers Returned",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1613
+      "UsersEstimate": 1614
     },
     {
       "ID": "AK_TRUE_CHALLENGE",
@@ -3799,15 +3804,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7015,
+      "Progressed": 7016,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-08-12T20:05:39.8891804+00:00",
+  "LastChanged_Achievements": "2023-08-12T21:04:41.8963798+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:19.8609046+00:00",
-  "LastUpdate_Ratings": "2023-08-12T20:00:06.3814882+00:00",
-  "LastUpdate_Achievements": "2023-08-12T20:05:39.8892228+00:00"
+  "LastUpdate_Ratings": "2023-08-12T21:00:04.6750278+00:00",
+  "LastUpdate_Achievements": "2023-08-12T21:04:41.8964091+00:00"
 }

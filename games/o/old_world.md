@@ -7,7 +7,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Clergy | 4.00% | ~535 |
-| Settler | 3.00% | ~401 |
+| Settler | 3.00% | ~402 |
 | Able | 2.00% | ~268 |
 | Architect | 2.00% | ~268 |
 | Explorer | 2.00% | ~268 |
@@ -73,7 +73,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Champions | 0.70% | ~94 |
 | Mausoleum | 0.70% | ~94 |
 | Greece | 0.70% | ~94 |
-| Building Wonders | 0.70% | ~94 |
 | Points Victory | 0.70% | ~94 |
 | Hanging Gardens in Babylon | 0.60% | ~80 |
 | Beloved | 0.60% | ~80 |
@@ -86,6 +85,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Traders | 0.60% | ~80 |
 | Temple of Solomon | 0.60% | ~80 |
 | Persian Paganism | 0.60% | ~80 |
+| Building Wonders | 0.60% | ~80 |
 | Phalangite | 0.60% | ~80 |
 | Invincible | 0.50% | ~67 |
 | Lion | 0.50% | ~67 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,383 (Ranked 117)  
+Progressed: 13,385 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -417,7 +417,7 @@ Completed: 5 (0.04%) (Ranked 224)
 | 2023-08-09 | 13,342 | 5 |
 | 2023-08-10 | 13,349 | 5 |
 | 2023-08-11 | 13,363 | 5 |
-| 2023-08-12 | 13,383 | 5 |
+| 2023-08-12 | 13,385 | 5 |
 ## Awards
 Max (Relaxing): 219  (Ranked 264)  
 Sum: 1,790 (Ranked 206)  

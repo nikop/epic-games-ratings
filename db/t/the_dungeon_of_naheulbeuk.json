@@ -636,9 +636,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 211113,
+  "EOS_Progressed": 211141,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4087,
+  "EOS_NewPlayers": 4066,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6671,6 +6671,11 @@
       "Time": "2023-08-12T20:06:29.0213806+00:00",
       "NumProgressed": 211113,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-12T21:06:11.0354679+00:00",
+      "NumProgressed": 211141,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 88,
@@ -6704,17 +6709,17 @@
       "ID": "BarbarianEpic",
       "SetID": "50chcgj",
       "Name": "Shiny and Cr\u00F4m",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 211
+      "UsersEstimate": 422
     },
     {
       "ID": "BarbarianKillUsingBow",
       "SetID": "50chcgj",
       "Name": "Way of the Wimp",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 422
+      "UsersEstimate": 633
     },
     {
       "ID": "BookCollection",
@@ -6730,7 +6735,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 844
+      "UsersEstimate": 845
     },
     {
       "ID": "Chapter2",
@@ -7130,7 +7135,7 @@
       "Name": "Sowwy!",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 21111
+      "UsersEstimate": 21114
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -7385,21 +7390,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 211113,
+      "Progressed": 211141,
       "Completed": 1
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 211113,
+      "Progressed": 211141,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-12T15:00:58.2777056+00:00",
-  "LastChanged_Achievements": "2023-08-12T20:06:29.0213802+00:00",
+  "LastChanged_Achievements": "2023-08-12T21:06:11.0354677+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:49.6773731+00:00",
-  "LastUpdate_Ratings": "2023-08-12T20:03:03.3986726+00:00",
-  "LastUpdate_Achievements": "2023-08-12T20:06:29.0215279+00:00"
+  "LastUpdate_Ratings": "2023-08-12T21:02:24.6854722+00:00",
+  "LastUpdate_Achievements": "2023-08-12T21:06:11.0355685+00:00"
 }

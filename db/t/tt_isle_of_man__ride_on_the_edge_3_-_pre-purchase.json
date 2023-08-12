@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 95,
   "Ranking_EOS_NewPlayers": 312,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
     "PcReleaseDate": "2023-05-11T16:00:00+00:00",
@@ -607,9 +607,9 @@
       "ID": "ACHIEVEMENT_03",
       "SetID": "gagif7",
       "Name": "To Each Their Own",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -910,8 +910,8 @@
   ],
   "FirstSeen": "2023-05-15T16:57:57.7851065+00:00",
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2023-08-12T20:07:23.6481269+00:00",
+  "LastChanged_Achievements": "2023-08-12T21:07:25.1735732+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:18.5547646+00:00",
-  "LastUpdate_Ratings": "2023-08-12T20:00:25.8708989+00:00",
-  "LastUpdate_Achievements": "2023-08-12T20:07:23.6481638+00:00"
+  "LastUpdate_Ratings": "2023-08-12T21:00:21.2568687+00:00",
+  "LastUpdate_Achievements": "2023-08-12T21:07:25.1735953+00:00"
 }

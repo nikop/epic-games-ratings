@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -334,9 +334,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 39649,
+  "EOS_Progressed": 39650,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7219,6 +7219,11 @@
       "Time": "2023-08-12T17:05:18.6224364+00:00",
       "NumProgressed": 39649,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-12T21:05:22.254664+00:00",
+      "NumProgressed": 39650,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -7246,7 +7251,7 @@
       "Name": "Outdoorsperson",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1189
+      "UsersEstimate": 1190
     },
     {
       "ID": "CHALLENGE_ALL",
@@ -7294,7 +7299,7 @@
       "Name": "The Interloper",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1189
+      "UsersEstimate": 1190
     },
     {
       "ID": "CHAPTER_04_CLEAR",
@@ -7382,7 +7387,7 @@
       "Name": "Tinkerer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2775
+      "UsersEstimate": 2776
     },
     {
       "ID": "CUFF_ATTACK",
@@ -7406,7 +7411,7 @@
       "Name": "Hop, Step, Jump",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1189
+      "UsersEstimate": 1190
     },
     {
       "ID": "JUSTCOUNTER",
@@ -7470,7 +7475,7 @@
       "Name": "Knock \u0027Em Dead",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2775
+      "UsersEstimate": 2776
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -7534,7 +7539,7 @@
       "Name": "Endless Runner",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1189
+      "UsersEstimate": 1190
     },
     {
       "ID": "PARKOUR_TIME",
@@ -7542,7 +7547,7 @@
       "Name": "Hell of a Run",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2775
+      "UsersEstimate": 2776
     },
     {
       "ID": "PHOTOSPOT_ALL",
@@ -7653,22 +7658,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 39649,
+      "Progressed": 39650,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 4486,
-      "Completed": 4486
+      "Progressed": 4487,
+      "Completed": 4487
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-08-08T01:54:06.2401018+00:00",
-  "LastChanged_Achievements": "2023-08-12T20:05:50.1639502+00:00",
+  "LastChanged_Achievements": "2023-08-12T21:05:22.2546636+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:15.0269644+00:00",
-  "LastUpdate_Ratings": "2023-08-12T20:01:56.6835889+00:00",
-  "LastUpdate_Achievements": "2023-08-12T20:05:50.1640465+00:00"
+  "LastUpdate_Ratings": "2023-08-12T21:01:37.5218486+00:00",
+  "LastUpdate_Achievements": "2023-08-12T21:05:22.2547274+00:00"
 }

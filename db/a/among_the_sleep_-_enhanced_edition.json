@@ -2,7 +2,7 @@
   "ID": "53ef2f4592684c4c97d6d32e40467274",
   "Name": "Among the Sleep - Enhanced Edition",
   "ProductSlug": "among-the-sleep-enhanced-edition",
-  "Ranking_Rating": 785,
+  "Ranking_Rating": 786,
   "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 75,
@@ -443,7 +443,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 82111,
+  "EOS_Progressed": 82129,
   "EOS_Completed": 385,
   "EOS_NewPlayers": 829,
   "EOS_NewCompleters": 5,
@@ -12813,6 +12813,11 @@
       "Time": "2023-08-12T19:09:06.3706245+00:00",
       "NumProgressed": 82111,
       "NumCompleted": 385
+    },
+    {
+      "Time": "2023-08-12T21:03:46.8869921+00:00",
+      "NumProgressed": 82129,
+      "NumCompleted": 385
     }
   ],
   "TotalAchievements": 10,
@@ -12880,7 +12885,7 @@
       "Name": "Completed Among the Sleep",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 8211
+      "UsersEstimate": 8213
     },
     {
       "ID": "Level00BowlingStrike",
@@ -12888,7 +12893,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 28739
+      "UsersEstimate": 28745
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -12896,22 +12901,22 @@
       "Name": "Bad Lullaby",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 9032
+      "UsersEstimate": 9034
     }
   ],
   "AchievementSets": [
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 82111,
+      "Progressed": 82129,
       "Completed": 385
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-03-31T05:57:32.2303432+00:00",
-  "LastChanged_Achievements": "2023-08-12T19:09:06.3706239+00:00",
+  "LastChanged_Achievements": "2023-08-12T21:03:46.8869913+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:23.206802+00:00",
-  "LastUpdate_Ratings": "2023-08-12T19:57:42.8173617+00:00",
-  "LastUpdate_Achievements": "2023-08-12T19:09:06.3706855+00:00"
+  "LastUpdate_Ratings": "2023-08-12T20:58:19.4448421+00:00",
+  "LastUpdate_Achievements": "2023-08-12T21:03:46.8888759+00:00"
 }

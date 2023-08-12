@@ -6,20 +6,20 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~21,593 |
-| Wallbanger | 5.00% | ~21,593 |
-| Exploitative | 4.00% | ~17,274 |
-| High Speed Low Drag | 4.00% | ~17,274 |
-| Wet Feet | 4.00% | ~17,274 |
+| Point Shooting | 5.00% | ~21,594 |
+| Wallbanger | 5.00% | ~21,594 |
+| Exploitative | 4.00% | ~17,275 |
+| High Speed Low Drag | 4.00% | ~17,275 |
+| Wet Feet | 4.00% | ~17,275 |
 | Lucky | 3.00% | ~12,956 |
 | Stylin' | 3.00% | ~12,956 |
 | Turf War | 3.00% | ~12,956 |
-| Banged | 2.00% | ~8,637 |
-| Checkpoint Victory | 2.00% | ~8,637 |
-| First Blood | 2.00% | ~8,637 |
-| Flaccid Paralysis | 2.00% | ~8,637 |
-| Push Victory | 2.00% | ~8,637 |
-| Self-destructive | 2.00% | ~8,637 |
+| Banged | 2.00% | ~8,638 |
+| Checkpoint Victory | 2.00% | ~8,638 |
+| First Blood | 2.00% | ~8,638 |
+| Flaccid Paralysis | 2.00% | ~8,638 |
+| Push Victory | 2.00% | ~8,638 |
+| Self-destructive | 2.00% | ~8,638 |
 | Blindfire | 1.00% | ~4,319 |
 | Ruthless | 1.00% | ~4,319 |
 | Semper Paratus | 1.00% | ~4,319 |
@@ -33,7 +33,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | Special Delivery | 0.70% | ~3,023 |
 | Firefight Victory | 0.60% | ~2,591 |
 | Cinematic | 0.50% | ~2,159 |
-| Thanks Station! | 0.40% | ~1,727 |
+| Thanks Station! | 0.40% | ~1,728 |
 | Knock Knock | 0.30% | ~1,296 |
 | There For You | 0.30% | ~1,296 |
 | Hit and Run | 0.20% | ~864 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~432 |
 | Road Hazard | 0.10% | ~432 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 431,855 (Ranked 38)  
+Progressed: 431,881 (Ranked 38)  
 Completed: 2 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,15 +156,15 @@ Completed: 2 (0.00%) (Ranked 255)
 | 2023-08-09 | 430,971 | 2 |
 | 2023-08-10 | 431,288 | 2 |
 | 2023-08-11 | 431,574 | 2 |
-| 2023-08-12 | 431,855 | 2 |
+| 2023-08-12 | 431,881 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 373  (Ranked 221)  
-Sum: 2,883 (Ranked 167)  
+Sum: 2,885 (Ranked 167)  
 Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 373 |
-| This game has Challenging Combat | 349 |
+| This game has Challenging Combat | 351 |
 | This game is Extremely Fun | 339 |
 | This game has Competitive Players | 337 |
 | This game has Realistic Visuals | 310 |
@@ -379,4 +379,4 @@ Diff (max vs sum): 54
 | 2023-08-09 | 4.62 | - | 371 | 2,877 |
 | 2023-08-10 | 4.62 | - | 372 | 2,880 |
 | 2023-08-11 | 4.62 | - | 372 | 2,882 |
-| 2023-08-12 | 4.62 | - | 373 | 2,883 |
+| 2023-08-12 | 4.62 | - | 373 | 2,885 |
