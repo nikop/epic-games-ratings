@@ -5640,9 +5640,9 @@
       "Count": 370
     }
   ],
-  "EOS_Progressed": 712374,
+  "EOS_Progressed": 712375,
   "EOS_Completed": 12855,
-  "EOS_NewPlayers": 176,
+  "EOS_NewPlayers": 175,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -16390,6 +16390,11 @@
       "Time": "2023-08-12T18:05:39.632154+00:00",
       "NumProgressed": 712374,
       "NumCompleted": 12855
+    },
+    {
+      "Time": "2023-08-12T19:06:47.9733807+00:00",
+      "NumProgressed": 712375,
+      "NumCompleted": 12855
     }
   ],
   "TotalAchievements": 50,
@@ -16401,7 +16406,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14247
+      "UsersEstimate": 14248
     },
     {
       "ID": "02_Vengeance_H1",
@@ -16409,7 +16414,7 @@
       "Name": "The Assault",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14247
+      "UsersEstimate": 14248
     },
     {
       "ID": "03_Vengeance_H2",
@@ -16417,7 +16422,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14247
+      "UsersEstimate": 14248
     },
     {
       "ID": "04_Vengeance_H3",
@@ -16425,7 +16430,7 @@
       "Name": "A Lady\u0027s Blood in the Snow",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14247
+      "UsersEstimate": 14248
     },
     {
       "ID": "05_Vengeance_H4",
@@ -16433,7 +16438,7 @@
       "Name": "Lady Wing Chun",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14247
+      "UsersEstimate": 14248
     },
     {
       "ID": "06_Vengeance_H5",
@@ -16505,7 +16510,7 @@
       "Name": "Kill Nil",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 14247
+      "UsersEstimate": 14248
     },
     {
       "ID": "15_Detective_H1",
@@ -16521,7 +16526,7 @@
       "Name": "Drunken Fighter",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2849
+      "UsersEstimate": 2850
     },
     {
       "ID": "17_Detective_H3",
@@ -16529,7 +16534,7 @@
       "Name": "Martial Artist",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2849
+      "UsersEstimate": 2850
     },
     {
       "ID": "18_Detective_H4",
@@ -16537,7 +16542,7 @@
       "Name": "Knowledge Greed",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2849
+      "UsersEstimate": 2850
     },
     {
       "ID": "19_Detective_H5",
@@ -16569,7 +16574,7 @@
       "Name": "Street Fighting",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14247
+      "UsersEstimate": 14248
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -16577,7 +16582,7 @@
       "Name": "Life is your teacher",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14247
+      "UsersEstimate": 14248
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -16585,7 +16590,7 @@
       "Name": "State of constant learning",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14247
+      "UsersEstimate": 14248
     },
     {
       "ID": "25_ShrineMind",
@@ -16601,7 +16606,7 @@
       "Name": "Qi Gong: Breath",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14247
+      "UsersEstimate": 14248
     },
     {
       "ID": "27_ShrineBody",
@@ -16609,7 +16614,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14247
+      "UsersEstimate": 14248
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -16665,7 +16670,7 @@
       "Name": "Lightning Hands",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14247
+      "UsersEstimate": 14248
     },
     {
       "ID": "35_WideStrike",
@@ -16681,7 +16686,7 @@
       "Name": "Path of the Prospect",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14247
+      "UsersEstimate": 14248
     },
     {
       "ID": "37_CustomTrophy_H1",
@@ -16689,7 +16694,7 @@
       "Name": "Rumble in the Hangar",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14247
+      "UsersEstimate": 14248
     },
     {
       "ID": "38_CustomTrophy_H2",
@@ -16697,7 +16702,7 @@
       "Name": "The Pit Protector",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2849
+      "UsersEstimate": 2850
     },
     {
       "ID": "39_CustomTrophy_H3",
@@ -16800,21 +16805,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 21675,
-      "Completed": 10517
+      "Progressed": 21676,
+      "Completed": 10518
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 712374,
+      "Progressed": 712375,
       "Completed": 12855
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-08-12T12:00:07.9835392+00:00",
-  "LastChanged_Achievements": "2023-08-12T18:05:39.6321534+00:00",
+  "LastChanged_Achievements": "2023-08-12T19:06:47.9733801+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:46.245364+00:00",
-  "LastUpdate_Ratings": "2023-08-12T18:02:25.7866778+00:00",
-  "LastUpdate_Achievements": "2023-08-12T18:05:39.6322738+00:00"
+  "LastUpdate_Ratings": "2023-08-12T19:03:23.6982361+00:00",
+  "LastUpdate_Achievements": "2023-08-12T19:06:47.9734696+00:00"
 }

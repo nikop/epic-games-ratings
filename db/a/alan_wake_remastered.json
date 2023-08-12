@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 60736,
+  "EOS_Progressed": 60738,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 426,
+  "EOS_NewPlayers": 421,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -11047,6 +11047,11 @@
       "Time": "2023-08-12T18:07:24.7600872+00:00",
       "NumProgressed": 60736,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-12T19:08:41.2289677+00:00",
+      "NumProgressed": 60738,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -11058,7 +11063,7 @@
       "Name": "Follow the Light",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 22472
+      "UsersEstimate": 22473
     },
     {
       "ID": "02",
@@ -11066,7 +11071,7 @@
       "Name": "Nordic Walking",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 13969
+      "UsersEstimate": 13970
     },
     {
       "ID": "03",
@@ -11082,7 +11087,7 @@
       "Name": "Boob Tube",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2429
+      "UsersEstimate": 2430
     },
     {
       "ID": "05",
@@ -11090,7 +11095,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 12147
+      "UsersEstimate": 12148
     },
     {
       "ID": "06",
@@ -11106,7 +11111,7 @@
       "Name": "Heavy Metal",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7288
+      "UsersEstimate": 7289
     },
     {
       "ID": "08",
@@ -11114,7 +11119,7 @@
       "Name": "Iron Horse",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7288
+      "UsersEstimate": 7289
     },
     {
       "ID": "09",
@@ -11210,7 +11215,7 @@
       "Name": "If It Flies, It Burns",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2429
+      "UsersEstimate": 2430
     },
     {
       "ID": "21",
@@ -11226,7 +11231,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7288
+      "UsersEstimate": 7289
     },
     {
       "ID": "23",
@@ -11266,7 +11271,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7288
+      "UsersEstimate": 7289
     },
     {
       "ID": "28",
@@ -11274,7 +11279,7 @@
       "Name": "Come One, Come All",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7288
+      "UsersEstimate": 7289
     },
     {
       "ID": "29",
@@ -11298,7 +11303,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9110
+      "UsersEstimate": 9111
     },
     {
       "ID": "32",
@@ -11306,7 +11311,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 17613
+      "UsersEstimate": 17614
     },
     {
       "ID": "33",
@@ -11378,7 +11383,7 @@
       "Name": "Finders Keepers",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9110
+      "UsersEstimate": 9111
     },
     {
       "ID": "42",
@@ -11434,7 +11439,7 @@
       "Name": "KBF-FM",
       "Percentage": 4,
       "XP": 110,
-      "UsersEstimate": 2429
+      "UsersEstimate": 2430
     },
     {
       "ID": "49",
@@ -11593,21 +11598,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 60736,
+      "Progressed": 60738,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 24204,
+      "Progressed": 24206,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-12T18:07:24.7600867+00:00",
+  "LastChanged_Achievements": "2023-08-12T19:08:41.2289674+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:20.2881971+00:00",
-  "LastUpdate_Ratings": "2023-08-12T18:00:05.8821665+00:00",
-  "LastUpdate_Achievements": "2023-08-12T18:07:24.7602307+00:00"
+  "LastUpdate_Ratings": "2023-08-12T19:00:35.1776359+00:00",
+  "LastUpdate_Achievements": "2023-08-12T19:08:41.2290633+00:00"
 }

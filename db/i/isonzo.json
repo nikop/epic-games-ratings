@@ -3,11 +3,11 @@
   "Name": "Isonzo",
   "ProductSlug": "isonzo",
   "Ranking_Rating": 485,
-  "Ranking_Popularity": 436,
+  "Ranking_Popularity": 437,
   "Ranking_PopularitySum": 351,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -778,9 +778,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6624,
+  "EOS_Progressed": 6625,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -4418,6 +4418,11 @@
       "Time": "2023-08-12T18:08:19.8420938+00:00",
       "NumProgressed": 6624,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-08-12T19:09:42.3359477+00:00",
+      "NumProgressed": 6625,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -4429,7 +4434,7 @@
       "Name": "12th Bottle of the Isonzo",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "ISONZO_ACH_AURELIO_BARUZZI",
@@ -4445,7 +4450,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 3113
+      "UsersEstimate": 3114
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -4461,7 +4466,7 @@
       "Name": "Cercatore d\u0027Oro",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "ISONZO_ACH_COMPAGNIA_DELLA_MORTE",
@@ -4509,7 +4514,7 @@
       "Name": "Dirty Dozen",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 927
+      "UsersEstimate": 928
     },
     {
       "ID": "ISONZO_ACH_DONATELLO",
@@ -4597,7 +4602,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 2517
+      "UsersEstimate": 2518
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -4621,7 +4626,7 @@
       "Name": "Peak Performance",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3643
+      "UsersEstimate": 3644
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -4677,7 +4682,7 @@
       "Name": "Silver Lining",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 1987
+      "UsersEstimate": 1988
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -4709,7 +4714,7 @@
       "Name": "The Enlightment",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "ISONZO_ACH_THE_ITALIAN_JOB",
@@ -4757,7 +4762,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3643
+      "UsersEstimate": 3644
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -4765,7 +4770,7 @@
       "Name": "Uomo Universale",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 927
+      "UsersEstimate": 928
     },
     {
       "ID": "ISONZO_ACH_VENI_VIDI_VICI",
@@ -4773,7 +4778,7 @@
       "Name": "Veni Vidi Vici",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1457
+      "UsersEstimate": 1458
     },
     {
       "ID": "ISONZO_ACH_YOU_SHALL_NOT_PASS",
@@ -4788,7 +4793,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6624,
+      "Progressed": 6625,
       "Completed": 8
     }
   ],
@@ -4796,8 +4801,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-08-10T01:59:14.1654715+00:00",
-  "LastChanged_Achievements": "2023-08-12T18:08:19.8420929+00:00",
+  "LastChanged_Achievements": "2023-08-12T19:09:42.3359471+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:23.8738209+00:00",
-  "LastUpdate_Ratings": "2023-08-12T17:59:52.4470031+00:00",
-  "LastUpdate_Achievements": "2023-08-12T18:08:19.8421544+00:00"
+  "LastUpdate_Ratings": "2023-08-12T19:00:21.133511+00:00",
+  "LastUpdate_Achievements": "2023-08-12T19:09:42.3359915+00:00"
 }

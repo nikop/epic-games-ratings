@@ -4,7 +4,7 @@
   "ProductSlug": "the-complex-0ca5bb",
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 68,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 534,
+  "EOS_Progressed": 535,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3,
+  "EOS_Completed_Percentage": 2.99,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:48.1616312+00:00",
@@ -482,6 +482,11 @@
       "Time": "2023-08-12T12:05:02.0590156+00:00",
       "NumProgressed": 534,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-08-12T19:08:24.9267312+00:00",
+      "NumProgressed": 535,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 20,
@@ -501,7 +506,7 @@
       "Name": "Blast From The Past",
       "Percentage": 85,
       "XP": 25,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "deadly_secret",
@@ -533,7 +538,7 @@
       "Name": "Get Out Of This Alive",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ending_4",
@@ -541,7 +546,7 @@
       "Name": "The Promise",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ending_5",
@@ -579,9 +584,9 @@
       "ID": "falling_for_you",
       "SetID": "d4f4pll",
       "Name": "Falling For You",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 240
+      "UsersEstimate": 235
     },
     {
       "ID": "free_champagne",
@@ -605,7 +610,7 @@
       "Name": "Kindar Surprise",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "not_a_people_person",
@@ -645,14 +650,14 @@
       "Name": "Tough Decision",
       "Percentage": 93,
       "XP": 50,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 534,
+      "Progressed": 535,
       "Completed": 16
     }
   ],
@@ -660,8 +665,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-08-12T18:07:09.9768831+00:00",
+  "LastChanged_Achievements": "2023-08-12T19:08:24.9267298+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:07.5988993+00:00",
-  "LastUpdate_Ratings": "2023-08-12T17:59:09.7054376+00:00",
-  "LastUpdate_Achievements": "2023-08-12T18:07:09.9769006+00:00"
+  "LastUpdate_Ratings": "2023-08-12T18:59:41.208044+00:00",
+  "LastUpdate_Achievements": "2023-08-12T19:08:24.9267491+00:00"
 }

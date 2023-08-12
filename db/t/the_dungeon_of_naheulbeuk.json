@@ -636,9 +636,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 211041,
+  "EOS_Progressed": 211078,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4091,
+  "EOS_NewPlayers": 4089,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6661,6 +6661,11 @@
       "Time": "2023-08-12T18:06:29.1503709+00:00",
       "NumProgressed": 211041,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-12T19:07:41.2795702+00:00",
+      "NumProgressed": 211078,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 88,
@@ -6782,9 +6787,9 @@
       "ID": "Chapter9",
       "SetID": "50chcgj",
       "Name": "The Statuette of Gladeulfeurah",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 211
+      "UsersEstimate": 422
     },
     {
       "ID": "CollateralVictim",
@@ -7054,9 +7059,9 @@
       "ID": "DifficultyStory",
       "SetID": "50chcgj",
       "Name": "A tale of adventurers not quite like the others...",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 211
+      "UsersEstimate": 422
     },
     {
       "ID": "Dwarf30Insult",
@@ -7118,9 +7123,9 @@
       "ID": "ElfHitTwoFriends",
       "SetID": "50chcgj",
       "Name": "Sowwy!",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 18994
+      "UsersEstimate": 21108
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -7294,9 +7299,9 @@
       "ID": "RangerEpic",
       "SetID": "50chcgj",
       "Name": "The Ranger of Chaos",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 211
+      "UsersEstimate": 422
     },
     {
       "ID": "Rogue30Backstab",
@@ -7375,21 +7380,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 211041,
+      "Progressed": 211078,
       "Completed": 1
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 211041,
+      "Progressed": 211078,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-12T15:00:58.2777056+00:00",
-  "LastChanged_Achievements": "2023-08-12T18:06:29.1503701+00:00",
+  "LastChanged_Achievements": "2023-08-12T19:07:41.2795695+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:49.6773731+00:00",
-  "LastUpdate_Ratings": "2023-08-12T18:02:34.8966264+00:00",
-  "LastUpdate_Achievements": "2023-08-12T18:06:29.1505076+00:00"
+  "LastUpdate_Ratings": "2023-08-12T19:03:31.3056842+00:00",
+  "LastUpdate_Achievements": "2023-08-12T19:07:41.2796756+00:00"
 }

@@ -36,7 +36,7 @@ Number of Ratings: 180  (23.09.2022)
 | Not in my backyard | 30.00% | ~465 |
 | The king of the sea | 30.00% | ~465 |
 | City | 29.00% | ~450 |
-| Transport tycoon | 24.00% | ~372 |
+| Transport tycoon | 25.00% | ~388 |
 | Old timer | 23.00% | ~357 |
 | The ugly smell of success | 23.00% | ~357 |
 | Climate change | 22.00% | ~341 |

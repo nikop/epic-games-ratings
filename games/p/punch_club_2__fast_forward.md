@@ -31,8 +31,8 @@
 | Handyman | 58.00% | ~142 |
 | Champion – starter pack | 58.00% | ~142 |
 | Employee of the year | 58.00% | ~142 |
+| Fight for life | 57.00% | ~140 |
 | Intriguing candies | 57.00% | ~140 |
-| Fight for life | 56.00% | ~137 |
 | Legal courier | 53.00% | ~130 |
 | Extreme neuropower! | 52.00% | ~127 |
 | Escaped from a big trouble | 50.00% | ~122 |
@@ -54,19 +54,19 @@
 | Seashell hunter | 36.00% | ~88 |
 | Gang wrangler | 32.00% | ~78 |
 | Problems of cyborgs | 32.00% | ~78 |
+| Absolute Champion! | 32.00% | ~78 |
 | Undercover robot | 32.00% | ~78 |
-| Absolute Champion! | 31.00% | ~76 |
+| Careerist | 31.00% | ~76 |
 | Another world | 30.00% | ~74 |
 | The lonesome road | 30.00% | ~74 |
 | Key memories | 30.00% | ~74 |
 | Not little hacker | 30.00% | ~74 |
 | The last bell ring | 30.00% | ~74 |
-| Careerist | 30.00% | ~74 |
+| Anyone can resist | 30.00% | ~74 |
 | The heart of the Resistance | 30.00% | ~74 |
 | Trap disarmed | 29.00% | ~71 |
 | Keep nature safe | 29.00% | ~71 |
 | Family comes first | 29.00% | ~71 |
-| Anyone can resist | 29.00% | ~71 |
 | Silver’s past | 26.00% | ~64 |
 | Better cooking at home | 26.00% | ~64 |
 | The only right decision | 26.00% | ~64 |

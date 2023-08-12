@@ -8,20 +8,20 @@ Number of Ratings: 9,492  (23.09.2022)
 | ---- | ---------- | ----- |
 | Diligence as a goal | 5.00% | ~1,084 |
 | Project Arena | 4.00% | ~867 |
-| The Old Grandmaster | 2.00% | ~14,247 |
-| The Assault | 2.00% | ~14,247 |
-| The Hateful Pole Fighter | 2.00% | ~14,247 |
-| A Lady's Blood in the Snow | 2.00% | ~14,247 |
-| Lady Wing Chun | 2.00% | ~14,247 |
-| Kill Nil | 2.00% | ~14,247 |
-| Street Fighting | 2.00% | ~14,247 |
-| Life is your teacher | 2.00% | ~14,247 |
-| State of constant learning | 2.00% | ~14,247 |
-| Qi Gong: Breath | 2.00% | ~14,247 |
-| Qi Gong: Essence | 2.00% | ~14,247 |
-| Lightning Hands | 2.00% | ~14,247 |
-| Path of the Prospect | 2.00% | ~14,247 |
-| Rumble in the Hangar | 2.00% | ~14,247 |
+| The Old Grandmaster | 2.00% | ~14,248 |
+| The Assault | 2.00% | ~14,248 |
+| The Hateful Pole Fighter | 2.00% | ~14,248 |
+| A Lady's Blood in the Snow | 2.00% | ~14,248 |
+| Lady Wing Chun | 2.00% | ~14,248 |
+| Kill Nil | 2.00% | ~14,248 |
+| Street Fighting | 2.00% | ~14,248 |
+| Life is your teacher | 2.00% | ~14,248 |
+| State of constant learning | 2.00% | ~14,248 |
+| Qi Gong: Breath | 2.00% | ~14,248 |
+| Qi Gong: Essence | 2.00% | ~14,248 |
+| Lightning Hands | 2.00% | ~14,248 |
+| Path of the Prospect | 2.00% | ~14,248 |
+| Rumble in the Hangar | 2.00% | ~14,248 |
 | Bloody Sport | 2.00% | ~434 |
 | Furious Fists | 1.00% | ~7,124 |
 | Scareless | 1.00% | ~7,124 |
@@ -44,10 +44,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | Prodigal Child | 0.60% | ~4,274 |
 | The 36th Chamber of Kung-Fu | 0.60% | ~4,274 |
 | Sword Stained With Blood | 0.60% | ~4,274 |
-| Drunken Fighter | 0.40% | ~2,849 |
-| Martial Artist | 0.40% | ~2,849 |
-| Knowledge Greed | 0.40% | ~2,849 |
-| The Pit Protector | 0.40% | ~2,849 |
+| Drunken Fighter | 0.40% | ~2,850 |
+| Martial Artist | 0.40% | ~2,850 |
+| Knowledge Greed | 0.40% | ~2,850 |
+| The Pit Protector | 0.40% | ~2,850 |
 | Martial Hub | 0.40% | ~87 |
 | Secure, Protect, Leave | 0.40% | ~87 |
 | Healing Memory | 0.30% | ~2,137 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,425 |
 | Warriors from the Mountain | 0.10% | ~712 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 712,374 (Ranked 20)  
+Progressed: 712,375 (Ranked 20)  
 Completed: 12,855 (1.80%) (Ranked 94)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,7 +171,7 @@ Completed: 12,855 (1.80%) (Ranked 94)
 | 2023-08-09 | 712,304 | 12,850 |
 | 2023-08-10 | 712,332 | 12,851 |
 | 2023-08-11 | 712,356 | 12,853 |
-| 2023-08-12 | 712,374 | 12,855 |
+| 2023-08-12 | 712,375 | 12,855 |
 ## Awards
 Max (Great Boss Battles): 6,365  (Ranked 55)  
 Sum: 10,924 (Ranked 82)  

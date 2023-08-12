@@ -6,21 +6,21 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~475,699 |
-| Apprentice | 58.00% | ~383,202 |
-| Close Shave | 25.00% | ~165,173 |
-| Mercenary | 23.00% | ~151,959 |
-| Ninja | 23.00% | ~151,959 |
-| Northern Scourge | 17.00% | ~112,318 |
-| Thief Bane | 14.00% | ~92,497 |
-| Master of Arms | 12.00% | ~79,283 |
-| Gambler | 10.00% | ~66,069 |
-| Dice Master | 10.00% | ~66,069 |
-| Swordsman | 9.00% | ~59,462 |
-| Knight | 8.00% | ~52,855 |
-| Cure for Corruption | 8.00% | ~52,855 |
-| Focused | 8.00% | ~52,855 |
-| Flurry of Fury | 8.00% | ~52,855 |
+| The Fool | 72.00% | ~475,703 |
+| Apprentice | 58.00% | ~383,205 |
+| Close Shave | 25.00% | ~165,174 |
+| Mercenary | 23.00% | ~151,961 |
+| Ninja | 23.00% | ~151,961 |
+| Northern Scourge | 17.00% | ~112,319 |
+| Thief Bane | 14.00% | ~92,498 |
+| Master of Arms | 12.00% | ~79,284 |
+| Gambler | 10.00% | ~66,070 |
+| Dice Master | 10.00% | ~66,070 |
+| Swordsman | 9.00% | ~59,463 |
+| Knight | 8.00% | ~52,856 |
+| Cure for Corruption | 8.00% | ~52,856 |
+| Focused | 8.00% | ~52,856 |
+| Flurry of Fury | 8.00% | ~52,856 |
 | Long Shot | 7.00% | ~46,249 |
 | Devil Dice | 7.00% | ~46,249 |
 | Broken Heart | 7.00% | ~46,249 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~661 |
 | Blood Pact | 0.10% | ~661 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 660,693 (Ranked 22)  
+Progressed: 660,698 (Ranked 22)  
 Completed: 168 (0.03%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,11 +169,11 @@ Completed: 168 (0.03%) (Ranked 230)
 | 2023-08-09 | 660,579 | 168 |
 | 2023-08-10 | 660,604 | 168 |
 | 2023-08-11 | 660,648 | 168 |
-| 2023-08-12 | 660,693 | 168 |
+| 2023-08-12 | 660,698 | 168 |
 ## Awards
-Max (Amazing Storytelling): 35  (Ranked 436)  
+Max (Amazing Storytelling): 35  (Ranked 437)  
 Sum: 180 (Ranked 377)  
-Diff (max vs sum): 59  
+Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 118 |

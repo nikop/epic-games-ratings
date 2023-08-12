@@ -34,7 +34,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Demand for Supplies | 0.30% | ~403 |
 | Where it Hurts | 0.30% | ~403 |
 | Efficient Floor Space | 0.30% | ~403 |
-| Flawless Fusion | 0.30% | ~403 |
 | Gem Expert | 0.30% | ~403 |
 | Gild-Gotten Goods | 0.30% | ~403 |
 | Helping Hand | 0.30% | ~403 |
@@ -67,6 +66,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ritualist | 0.20% | ~269 |
 | Cranked up to 11 | 0.20% | ~269 |
 | Fit for a King | 0.20% | ~269 |
+| Flawless Fusion | 0.20% | ~269 |
 | Trash to Treasure | 0.20% | ~269 |
 | Royal Ransom | 0.20% | ~269 |
 | Mammonite | 0.20% | ~269 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Economy of Scarce | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,400 (Ranked 66)  
+Progressed: 134,403 (Ranked 66)  
 Completed: 132 (0.10%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,7 +233,7 @@ Completed: 132 (0.10%) (Ranked 203)
 | 2023-08-09 | 134,223 | 131 |
 | 2023-08-10 | 134,276 | 131 |
 | 2023-08-11 | 134,354 | 132 |
-| 2023-08-12 | 134,400 | 132 |
+| 2023-08-12 | 134,403 | 132 |
 ## Awards
 Max (Great for Beginners): 4,698  (Ranked 71)  
 Sum: 27,087 (Ranked 46)  

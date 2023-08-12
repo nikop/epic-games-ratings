@@ -27,6 +27,7 @@
 | Been There | 3.00% | ~4 |
 | Spiritual Journey | 3.00% | ~4 |
 | Pilgrimage's End | 3.00% | ~4 |
+| Inquisitions of Discord | 3.00% | ~4 |
 | Making Contact | 2.00% | ~3 |
 | Bounty Hunter | 2.00% | ~3 |
 | Potential Unlocked | 2.00% | ~3 |
@@ -39,7 +40,6 @@
 | A Terrible Will | 2.00% | ~3 |
 | Delayed | 2.00% | ~3 |
 | The Darkness Within | 2.00% | ~3 |
-| Inquisitions of Discord | 2.00% | ~3 |
 | Merchant | 2.00% | ~3 |
 | Trouble at Fort Larius | 2.00% | ~3 |
 | Unseen Patterns | 2.00% | ~3 |

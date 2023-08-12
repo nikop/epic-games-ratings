@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 9.00% | ~18,994 |
+| Sowwy! | 10.00% | ~21,108 |
 | Alt+F4 | 0.60% | ~1,266 |
 | Where's that freaking Dwarf? | 0.50% | ~1,055 |
 | Sock! SOCK! | 0.50% | ~1,055 |
@@ -25,7 +25,10 @@ Number of Ratings: 118  (23.09.2022)
 | Torture and Sensibility | 0.20% | ~422 |
 | Urik's Depths | 0.20% | ~422 |
 | The Dungeon Master | 0.20% | ~422 |
+| The Statuette of Gladeulfeurah | 0.20% | ~422 |
 | The Woman in the High Castle | 0.20% | ~422 |
+| A tale of adventurers not quite like the others... | 0.20% | ~422 |
+| The Ranger of Chaos | 0.20% | ~422 |
 | I am the night | 0.20% | ~422 |
 | Team Building Exercise | 0.20% | ~422 |
 | Oh, when I'll be level 10... | 0.20% | ~422 |
@@ -33,7 +36,6 @@ Number of Ratings: 118  (23.09.2022)
 | Holistic Adventuring Party | 0.10% | ~211 |
 | Shiny and Crôm | 0.10% | ~211 |
 | Scholar of the Lands of Fangh | 0.10% | ~211 |
-| The Statuette of Gladeulfeurah | 0.10% | ~211 |
 | Friendly fire | 0.10% | ~211 |
 | I'd rather... Just... Sing! | 0.10% | ~211 |
 | The number of the counting shalt be 7 | 0.10% | ~211 |
@@ -62,7 +64,6 @@ Number of Ratings: 118  (23.09.2022)
 | Minmaxer | 0.10% | ~211 |
 | Iron Golems Tamer | 0.10% | ~211 |
 | And they lived happily ever after... | 0.10% | ~211 |
-| A tale of adventurers not quite like the others... | 0.10% | ~211 |
 | Insult to injury | 0.10% | ~211 |
 | Star-crossed lovers | 0.10% | ~211 |
 | Dwarf Fortress | 0.10% | ~211 |
@@ -85,7 +86,6 @@ Number of Ratings: 118  (23.09.2022)
 | Demisemiquaver | 0.10% | ~211 |
 | Lëgal Legend | 0.10% | ~211 |
 | Lust and Debauchery | 0.10% | ~211 |
-| The Ranger of Chaos | 0.10% | ~211 |
 | Thieves' Guild Accreditation | 0.10% | ~211 |
 | Dwarf Candy | 0.10% | ~211 |
 | Material Girl | 0.10% | ~211 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Sleep schedule mastery | 0.00% | ~0 |
 | Dumb and dumber | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 211,041 (Ranked 56)  
+Progressed: 211,078 (Ranked 56)  
 Completed: 1 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,7 +168,7 @@ Completed: 1 (0.00%) (Ranked 255)
 | 2023-08-09 | 209,549 | 0 |
 | 2023-08-10 | 210,011 | 0 |
 | 2023-08-11 | 210,534 | 1 |
-| 2023-08-12 | 211,041 | 1 |
+| 2023-08-12 | 211,078 | 1 |
 ## Awards
 Max (Character Customization): 160  (Ranked 292)  
 Sum: 180 (Ranked 377)  

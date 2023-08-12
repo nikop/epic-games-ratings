@@ -4,7 +4,7 @@
   "ProductSlug": "cursed-treasure-2-ultimate-edition-2ebbb4",
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 17,
-  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewPlayers": 312,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-07-14T10:30:00+00:00",
@@ -544,9 +544,9 @@
       "ID": "BADGE_POLYMORPH_COUNT",
       "SetID": "ak6pfjk",
       "Name": "Tastes Like Chicken",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 102
+      "UsersEstimate": 104
     },
     {
       "ID": "BADGE_SKILL_BRANCH_MAX",
@@ -609,8 +609,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-08-12T18:07:01.4929821+00:00",
+  "LastChanged_Achievements": "2023-08-12T19:08:15.6122376+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:19.4683663+00:00",
-  "LastUpdate_Ratings": "2023-08-12T18:01:42.8647617+00:00",
-  "LastUpdate_Achievements": "2023-08-12T18:07:01.4930318+00:00"
+  "LastUpdate_Ratings": "2023-08-12T19:02:23.7291072+00:00",
+  "LastUpdate_Achievements": "2023-08-12T19:08:15.6122719+00:00"
 }

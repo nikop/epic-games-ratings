@@ -5,27 +5,27 @@ Rating: 4.18 (Ranked 868)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 7.00% | ~4,745 |
+| First Step Into the Knight | 6.00% | ~4,067 |
 | Har, Har, Har, Very Funny | 5.00% | ~3,389 |
 | Loose Ends | 5.00% | ~3,389 |
 | To the Victor Go the Spoils | 4.00% | ~2,711 |
 | Get ReQ'd | 4.00% | ~2,711 |
 | Knighthood | 4.00% | ~2,711 |
 | Whispered Words | 4.00% | ~2,711 |
-| The Batman Family | 3.00% | ~2,033 |
-| Protector of Gotham | 3.00% | ~2,033 |
-| Something in the Clay | 3.00% | ~2,033 |
-| The Show Mud Go On | 3.00% | ~2,033 |
-| Rock and a Hard Place | 3.00% | ~2,033 |
-| Quartzer Life Crisis | 3.00% | ~2,033 |
-| Snow Problem | 3.00% | ~2,033 |
-| Working Hard or Harley Working? | 3.00% | ~2,033 |
-| Universal Health Scare | 3.00% | ~2,033 |
-| Unstoppable Force | 3.00% | ~2,033 |
-| Lock and Key | 3.00% | ~2,033 |
-| Bad Apples in Every Orchard | 3.00% | ~2,033 |
-| From Inside Gotham's Walls | 3.00% | ~2,033 |
-| Voiceless | 3.00% | ~2,033 |
+| The Batman Family | 3.00% | ~2,034 |
+| Protector of Gotham | 3.00% | ~2,034 |
+| Something in the Clay | 3.00% | ~2,034 |
+| The Show Mud Go On | 3.00% | ~2,034 |
+| Rock and a Hard Place | 3.00% | ~2,034 |
+| Quartzer Life Crisis | 3.00% | ~2,034 |
+| Snow Problem | 3.00% | ~2,034 |
+| Working Hard or Harley Working? | 3.00% | ~2,034 |
+| Universal Health Scare | 3.00% | ~2,034 |
+| Unstoppable Force | 3.00% | ~2,034 |
+| Lock and Key | 3.00% | ~2,034 |
+| Bad Apples in Every Orchard | 3.00% | ~2,034 |
+| From Inside Gotham's Walls | 3.00% | ~2,034 |
+| Voiceless | 3.00% | ~2,034 |
 | End of an Era | 2.00% | ~1,356 |
 | In Your Element | 2.00% | ~1,356 |
 | Not On My Watch | 2.00% | ~1,356 |
@@ -43,7 +43,7 @@ Rating: 4.18 (Ranked 868)
 | A Worthy Successor | 1.00% | ~678 |
 | Solid Alibi | 1.00% | ~678 |
 | Dressed to Impress | 0.90% | ~610 |
-| A Momentum Occasion | 0.70% | ~474 |
+| A Momentum Occasion | 0.70% | ~475 |
 | Bat Out of Hell | 0.60% | ~407 |
 | He'd Be So Proud of You | 0.50% | ~339 |
 | Practice Makes Perfect | 0.40% | ~271 |
@@ -59,15 +59,15 @@ Rating: 4.18 (Ranked 868)
 | Batarang Collector | 0.20% | ~136 |
 | Claiming the Mural High Ground | 0.20% | ~136 |
 | A Sophisticated Mallet | 0.20% | ~76 |
+| Confronting Your Demon | 0.20% | ~76 |
 | Gotham's Greatest Depths | 0.10% | ~38 |
 | Showdown Sovereign | 0.10% | ~38 |
 | That's Showbiz, Clayby | 0.10% | ~38 |
 | Don't Mecha Big Deal About It | 0.10% | ~38 |
 | Read Owl About It | 0.10% | ~68 |
 | History Major | 0.10% | ~68 |
-| Confronting Your Demon | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,783 (Ranked 80)  
+Progressed: 67,786 (Ranked 80)  
 Completed: 106 (0.16%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 106 (0.16%) (Ranked 187)
 | 2023-08-09 | 67,726 | 106 |
 | 2023-08-10 | 67,741 | 106 |
 | 2023-08-11 | 67,760 | 106 |
-| 2023-08-12 | 67,783 | 106 |
+| 2023-08-12 | 67,786 | 106 |
 ## Awards
 Max (Great Boss Battles): 2,489  (Ranked 100)  
 Sum: 4,140 (Ranked 140)  

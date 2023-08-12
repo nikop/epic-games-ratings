@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 299)  
+Rating: 4.65 (Ranked 298)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -22,6 +22,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Single Player Game | 2.00% | ~268 |
 | Trade Caravan | 2.00% | ~268 |
 | The Great Mage | 2.00% | ~268 |
+| Poetic Leader | 2.00% | ~268 |
 | Ambitious | 1.00% | ~134 |
 | Brilliant | 1.00% | ~134 |
 | Enlightened | 1.00% | ~134 |
@@ -55,7 +56,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Roman Paganism | 1.00% | ~134 |
 | Zoroastrianism | 1.00% | ~134 |
 | Naming Landmarks | 1.00% | ~134 |
-| Poetic Leader | 1.00% | ~134 |
 | Regicide | 0.90% | ~120 |
 | Just Difficulty | 0.90% | ~120 |
 | Artisans | 0.90% | ~120 |

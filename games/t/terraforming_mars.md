@@ -6,22 +6,22 @@ Number of Ratings: 2,731  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's a steal! | 38.00% | ~27,134 |
-| Final touch | 37.00% | ~26,420 |
-| Prop-M Rover | 32.00% | ~22,850 |
-| Changing the Planet | 28.00% | ~19,994 |
-| Sojourner | 27.00% | ~19,280 |
-| New Home | 24.00% | ~17,137 |
-| Beagle 2 | 24.00% | ~17,137 |
-| Winner Winner Terraformer | 22.00% | ~15,709 |
-| Project Manager | 20.00% | ~14,281 |
-| Master | 20.00% | ~14,281 |
-| Curiosity | 19.00% | ~13,567 |
-| Collector | 19.00% | ~13,567 |
-| Self-sufficient | 19.00% | ~13,567 |
-| No Longer Red | 18.00% | ~12,853 |
-| Money money | 16.00% | ~11,425 |
-| Biggest Reward | 14.00% | ~9,997 |
+| It's a steal! | 38.00% | ~27,136 |
+| Final touch | 37.00% | ~26,422 |
+| Prop-M Rover | 32.00% | ~22,852 |
+| Changing the Planet | 28.00% | ~19,995 |
+| Sojourner | 27.00% | ~19,281 |
+| New Home | 24.00% | ~17,139 |
+| Beagle 2 | 24.00% | ~17,139 |
+| Winner Winner Terraformer | 22.00% | ~15,710 |
+| Project Manager | 20.00% | ~14,282 |
+| Master | 20.00% | ~14,282 |
+| Curiosity | 19.00% | ~13,568 |
+| Collector | 19.00% | ~13,568 |
+| Self-sufficient | 19.00% | ~13,568 |
+| No Longer Red | 18.00% | ~12,854 |
+| Money money | 16.00% | ~11,426 |
+| Biggest Reward | 14.00% | ~9,998 |
 | Acquired knowledge | 13.00% | ~9,283 |
 | First Journey | 12.00% | ~8,569 |
 | Most Achievements | 12.00% | ~8,569 |
@@ -31,13 +31,13 @@ Number of Ratings: 2,731  (23.09.2022)
 | Spirit | 10.00% | ~7,141 |
 | Ultimate success | 10.00% | ~7,141 |
 | Variety Expert | 9.00% | ~6,427 |
-| Frequent tester | 8.00% | ~5,712 |
-| Determined | 8.00% | ~5,712 |
+| Frequent tester | 8.00% | ~5,713 |
+| Determined | 8.00% | ~5,713 |
 | Terraformer | 4.00% | ~2,856 |
 | Team Effort | 3.00% | ~2,142 |
 | Opportunity | 3.00% | ~2,142 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 71,406 (Ranked 78)  
+Progressed: 71,411 (Ranked 78)  
 Completed: 91 (0.13%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 91 (0.13%) (Ranked 195)
 | 2023-08-09 | 71,031 | 89 |
 | 2023-08-10 | 71,144 | 90 |
 | 2023-08-11 | 71,283 | 91 |
-| 2023-08-12 | 71,406 | 91 |
+| 2023-08-12 | 71,411 | 91 |
 ## Awards
 Max (Relaxing): 510  (Ranked 196)  
 Sum: 3,146 (Ranked 157)  

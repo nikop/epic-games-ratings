@@ -1,11 +1,11 @@
 # Deceive Inc.
 [Store](https://store.epicgames.com/en-US/p/deceive-inc)  
 [View Rawdata](../../db/d/deceive_inc..json)  
-Rating: 4.57 (Ranked 449)  
+Rating: 4.58 (Ranked 426)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 29.00% | ~5,020 |
+| On Deceive Inc.'s Secret Service | 29.00% | ~5,021 |
 | Mainframe Hacker | 23.00% | ~3,982 |
 | The Spy who eliminated me | 23.00% | ~3,982 |
 | Tomorrow Never Dyes | 22.00% | ~3,809 |
@@ -17,18 +17,18 @@ Rating: 4.57 (Ranked 449)
 | Fully Decked Out | 17.00% | ~2,943 |
 | You Only Live Twice | 16.00% | ~2,770 |
 | A view to Win | 13.00% | ~2,251 |
-| The Living Portrait | 12.00% | ~2,077 |
-| Private Collection | 12.00% | ~2,077 |
-| Killer Looks | 12.00% | ~2,077 |
-| Hostile Takeover | 12.00% | ~2,077 |
-| Smells Like Trouble | 12.00% | ~2,077 |
+| The Living Portrait | 12.00% | ~2,078 |
+| Private Collection | 12.00% | ~2,078 |
+| Killer Looks | 12.00% | ~2,078 |
+| Hostile Takeover | 12.00% | ~2,078 |
+| Smells Like Trouble | 12.00% | ~2,078 |
 | Keycards Royale | 11.00% | ~1,904 |
 | Dr. No Kill | 11.00% | ~1,904 |
 | My Motto, My Creed | 11.00% | ~1,904 |
 | In It to Win It | 10.00% | ~1,731 |
 | Security Supervisor | 6.00% | ~1,039 |
 | License to Thrill | 5.00% | ~866 |
-| Social of Solace | 4.00% | ~692 |
+| Social of Solace | 4.00% | ~693 |
 | Live and let lie | 3.00% | ~519 |
 | Safe Withdrawal | 3.00% | ~519 |
 | Branch Manager | 2.00% | ~346 |
@@ -42,7 +42,7 @@ Rating: 4.57 (Ranked 449)
 | Extraction Confusion | 0.20% | ~35 |
 | Spyfall | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,312 (Ranked 109)  
+Progressed: 17,313 (Ranked 109)  
 Completed: 1 (0.01%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 1 (0.01%) (Ranked 242)
 | 2023-08-09 | 17,187 | 1 |
 | 2023-08-10 | 17,234 | 1 |
 | 2023-08-11 | 17,285 | 1 |
-| 2023-08-12 | 17,312 | 1 |
+| 2023-08-12 | 17,313 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -190,3 +190,4 @@ Completed: 1 (0.01%) (Ranked 242)
 | 2023-08-02 | 4.60 | 0 | 0 |
 | 2023-08-04 | 4.56 | 0 | 0 |
 | 2023-08-08 | 4.57 | 0 | 0 |
+| 2023-08-12 | 4.58 | 0 | 0 |

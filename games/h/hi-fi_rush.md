@@ -11,8 +11,8 @@ Rating: 4.88 (Ranked 18)
 | Who put gears in there? | 8.00% | ~309 |
 | Cream of the Crop | 7.00% | ~271 |
 | Thanks for the free chip, Peppermint! | 7.00% | ~271 |
+| You got this, Peppermint? | 7.00% | ~271 |
 | I play my own way! | 6.00% | ~232 |
-| You got this, Peppermint? | 6.00% | ~232 |
 | Perfect Parry | 6.00% | ~232 |
 | Alright, that felt AWESOME! | 6.00% | ~232 |
 | This will cost you big time | 5.00% | ~193 |
@@ -36,12 +36,12 @@ Rating: 4.88 (Ranked 18)
 | That's a lot of junk metal… | 2.00% | ~77 |
 | There's such a thing as TOO helpful | 2.00% | ~77 |
 | Chip-tuned | 1.00% | ~39 |
+| I think I found your calling, Macaron | 1.00% | ~39 |
 | Wanna hear my playlist? | 1.00% | ~39 |
 | I told you I'd be fine, Peppermint! | 1.00% | ~39 |
 | Check out my moves! | 1.00% | ~39 |
 | Call me Turbo Chai | 1.00% | ~24 |
 | I think I deserve some praise, here! | 0.90% | ~35 |
-| I think I found your calling, Macaron | 0.90% | ~35 |
 | I hit things with a guitar really well. | 0.90% | ~35 |
 | We're Jammin' | 0.80% | ~31 |
 | First we parry, then we counter | 0.70% | ~27 |

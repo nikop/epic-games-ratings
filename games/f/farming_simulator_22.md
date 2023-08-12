@@ -6,23 +6,23 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 75.00% | ~35,285 |
-| I read Shakespeare and stuff | 64.00% | ~30,110 |
+| Own use | 75.00% | ~35,286 |
+| I read Shakespeare and stuff | 64.00% | ~30,111 |
 | Just a sprinkle | 63.00% | ~29,640 |
 | I'm stumped | 61.00% | ~28,699 |
-| Plant get enough | 60.00% | ~28,228 |
+| Plant get enough | 60.00% | ~28,229 |
 | It's just the beginning | 59.00% | ~27,758 |
-| This is just my weekend vehicle | 58.00% | ~27,287 |
+| This is just my weekend vehicle | 58.00% | ~27,288 |
 | Hard work pays off | 53.00% | ~24,935 |
-| It's never too late to farm | 49.00% | ~23,053 |
+| It's never too late to farm | 49.00% | ~23,054 |
 | All out of Land | 44.00% | ~20,701 |
-| Field Trip | 43.00% | ~20,230 |
+| Field Trip | 43.00% | ~20,231 |
 | I like to switch it up | 40.00% | ~18,819 |
 | Help me to help you | 38.00% | ~17,878 |
 | Ultimutt Pawesomeness | 28.00% | ~13,173 |
 | Van Gogh | 26.00% | ~12,232 |
-| You wood not believe it | 22.00% | ~10,350 |
-| Vehicle fleet | 22.00% | ~10,350 |
+| You wood not believe it | 22.00% | ~10,351 |
+| Vehicle fleet | 22.00% | ~10,351 |
 | The plot thickens | 16.00% | ~7,528 |
 | Well-Oiled Machine | 16.00% | ~7,528 |
 | Long haul | 16.00% | ~7,528 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~188 |
 | Raisin the stakes | 0.30% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,047 (Ranked 90)  
+Progressed: 47,048 (Ranked 90)  
 Completed: 6 (0.01%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,14 +164,14 @@ Completed: 6 (0.01%) (Ranked 242)
 | 2023-08-09 | 46,909 | 5 |
 | 2023-08-10 | 46,955 | 5 |
 | 2023-08-11 | 47,005 | 5 |
-| 2023-08-12 | 47,047 | 6 |
+| 2023-08-12 | 47,048 | 6 |
 ## Awards
-Max (Great for Beginners): 4,711  (Ranked 70)  
-Sum: 39,063 (Ranked 31)  
+Max (Great for Beginners): 4,717  (Ranked 70)  
+Sum: 39,069 (Ranked 31)  
 Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 4,711 |
+| This game is Great for Beginners | 4,717 |
 | This game is Relaxing | 4,069 |
 | This game is Educational | 4,062 |
 | This game has Quickly Understood Controls | 4,012 |
@@ -393,4 +393,4 @@ Diff (max vs sum): 39
 | 2023-08-09 | 4.69 | - | 4,706 | 38,990 |
 | 2023-08-10 | 4.69 | - | 4,706 | 39,018 |
 | 2023-08-11 | 4.69 | - | 4,711 | 39,049 |
-| 2023-08-12 | 4.69 | - | 4,711 | 39,063 |
+| 2023-08-12 | 4.69 | - | 4,717 | 39,069 |

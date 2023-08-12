@@ -302,9 +302,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16233,
+  "EOS_Progressed": 16236,
   "EOS_Completed": 101,
-  "EOS_NewPlayers": 185,
+  "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -9067,6 +9067,11 @@
       "Time": "2023-08-12T18:07:32.1728594+00:00",
       "NumProgressed": 16233,
       "NumCompleted": 101
+    },
+    {
+      "Time": "2023-08-12T19:08:49.6937222+00:00",
+      "NumProgressed": 16236,
+      "NumCompleted": 101
     }
   ],
   "TotalAchievements": 16,
@@ -9078,7 +9083,7 @@
       "Name": "Beat \u0027em Up",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 4383
+      "UsersEstimate": 4384
     },
     {
       "ID": "Burning_For_You",
@@ -9086,7 +9091,7 @@
       "Name": "Burning For You",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 4545
+      "UsersEstimate": 4546
     },
     {
       "ID": "Deadline",
@@ -9110,7 +9115,7 @@
       "Name": "Eyes On Fire",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 2110
+      "UsersEstimate": 2111
     },
     {
       "ID": "Feel_The_Thunder",
@@ -9126,7 +9131,7 @@
       "Name": "Fireworks",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 5357
+      "UsersEstimate": 5358
     },
     {
       "ID": "Harvester_Of_Eyes",
@@ -9134,7 +9139,7 @@
       "Name": "Harvester Of Eyes",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 1136
+      "UsersEstimate": 1137
     },
     {
       "ID": "I_Am_The_Storm",
@@ -9150,7 +9155,7 @@
       "Name": "Make Rock Not War",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 6818
+      "UsersEstimate": 6819
     },
     {
       "ID": "Mirrors",
@@ -9174,7 +9179,7 @@
       "Name": "Shooting Shark",
       "Percentage": 51,
       "XP": 90,
-      "UsersEstimate": 8279
+      "UsersEstimate": 8280
     },
     {
       "ID": "Sole_Survivor",
@@ -9182,7 +9187,7 @@
       "Name": "Sole Survivor",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 6006
+      "UsersEstimate": 6007
     },
     {
       "ID": "Still_Burning",
@@ -9198,22 +9203,22 @@
       "Name": "The Reaper",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 1136
+      "UsersEstimate": 1137
     }
   ],
   "AchievementSets": [
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 16233,
+      "Progressed": 16236,
       "Completed": 101
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-07-21T02:04:12.2963456+00:00",
-  "LastChanged_Achievements": "2023-08-12T18:07:32.1728584+00:00",
+  "LastChanged_Achievements": "2023-08-12T19:08:49.6937215+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:47.6667565+00:00",
-  "LastUpdate_Ratings": "2023-08-12T18:02:29.2977238+00:00",
-  "LastUpdate_Achievements": "2023-08-12T18:07:32.1729519+00:00"
+  "LastUpdate_Ratings": "2023-08-12T19:03:25.9340597+00:00",
+  "LastUpdate_Achievements": "2023-08-12T19:08:49.6937713+00:00"
 }

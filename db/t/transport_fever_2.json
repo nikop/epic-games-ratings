@@ -3133,9 +3133,9 @@
       "ID": "achAccumulate1B",
       "SetID": "dgl390n",
       "Name": "Transport tycoon",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 372
+      "UsersEstimate": 388
     },
     {
       "ID": "achAccumulate1BHard",
@@ -3605,8 +3605,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-07-31T23:00:45.0169923+00:00",
-  "LastChanged_Achievements": "2023-08-12T18:07:37.1373117+00:00",
+  "LastChanged_Achievements": "2023-08-12T19:08:55.5242758+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:41.7725812+00:00",
-  "LastUpdate_Ratings": "2023-08-12T18:03:44.8904777+00:00",
-  "LastUpdate_Achievements": "2023-08-12T18:07:37.1373932+00:00"
+  "LastUpdate_Ratings": "2023-08-12T19:04:47.3167187+00:00",
+  "LastUpdate_Achievements": "2023-08-12T19:08:55.524333+00:00"
 }

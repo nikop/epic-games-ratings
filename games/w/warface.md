@@ -5,8 +5,8 @@ Rating: 3.91 (Ranked 946)
 Number of Ratings: 3,179  (23.09.2022)  
 ## Awards
 Max (Relaxing): 405  (Ranked 213)  
-Sum: 3,198 (Ranked 154)  
-Diff (max vs sum): 59  
+Sum: 3,199 (Ranked 153)  
+Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 405 |
@@ -17,7 +17,7 @@ Diff (max vs sum): 59
 | This game has Quickly Understood Controls | 350 |
 | This game has Amazing Characters | 340 |
 | This game is Extremely Fun | 332 |
-| This game has a Competitive Community | 285 |
+| This game has a Competitive Community | 286 |
 | This game is Great for Quick Sessions | 277 |
 | This game is Great for Beginners | 146 |
 ## Ratings History
@@ -208,3 +208,4 @@ Diff (max vs sum): 59
 | 2023-08-08 | 3.91 | - | 405 | 3,192 |
 | 2023-08-09 | 3.91 | - | 405 | 3,193 |
 | 2023-08-11 | 3.91 | - | 405 | 3,198 |
+| 2023-08-12 | 3.91 | - | 405 | 3,199 |

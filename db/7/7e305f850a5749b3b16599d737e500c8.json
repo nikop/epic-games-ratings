@@ -2,9 +2,9 @@
   "ID": "7e305f850a5749b3b16599d737e500c8",
   "Name": "Boxville",
   "ProductSlug": "boxville-2b75d3",
-  "Ranking_EOS_Progress": 322,
+  "Ranking_EOS_Progress": 321,
   "Ranking_EOS_Completed": 2,
-  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewPlayers": 312,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 98,
+  "EOS_Progressed": 99,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 41.84,
+  "EOS_Completed_Percentage": 41.41,
   "EosHistory": [
     {
       "Time": "2023-05-08T15:02:14.2317541+00:00",
@@ -616,6 +616,11 @@
       "Time": "2023-08-04T18:03:11.9434542+00:00",
       "NumProgressed": 98,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-08-12T19:06:20.0845395+00:00",
+      "NumProgressed": 99,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 18,
@@ -625,7 +630,7 @@
       "ID": "Best_friends_forever",
       "SetID": "b7i210",
       "Name": "Best friends forever",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 150,
       "UsersEstimate": 45
     },
@@ -641,7 +646,7 @@
       "ID": "Dust_fighter",
       "SetID": "b7i210",
       "Name": "Dust fighter",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 50,
       "UsersEstimate": 74
     },
@@ -657,7 +662,7 @@
       "ID": "Express_home_delivery",
       "SetID": "b7i210",
       "Name": "Express home delivery",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 50,
       "UsersEstimate": 75
     },
@@ -770,14 +775,14 @@
     {
       "ID": "b7i210",
       "IsBase": true,
-      "Progressed": 98,
+      "Progressed": 99,
       "Completed": 41
     }
   ],
   "FirstSeen": "2023-05-16T13:05:40.6222618+00:00",
   "FirstSeenAchievements": "2023-05-08T15:02:14.2328484+00:00",
-  "LastChanged_Achievements": "2023-08-12T18:05:13.7048483+00:00",
+  "LastChanged_Achievements": "2023-08-12T19:06:20.0845391+00:00",
   "LastUpdate_AppInfo": "2023-08-07T22:57:23.6273536+00:00",
-  "LastUpdate_Ratings": "2023-08-12T17:59:08.9233382+00:00",
-  "LastUpdate_Achievements": "2023-08-12T18:05:13.7048741+00:00"
+  "LastUpdate_Ratings": "2023-08-12T18:59:39.9655531+00:00",
+  "LastUpdate_Achievements": "2023-08-12T19:06:20.0845512+00:00"
 }
