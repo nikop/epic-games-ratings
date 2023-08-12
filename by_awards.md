@@ -23,7 +23,7 @@
 | 21 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 16,959 | 4.25 | 820 |
 | 22 | [Warframe](games/w/warframe.md) | 16,435 | 4.61 | 366 |
 | 23 | [League of Legends](games/l/league_of_legends.md) | 15,293 | 4.21 | 849 |
-| 24 | [Borderlands 2](games/b/borderlands_2.md) | 15,032 | 4.76 | 119 |
+| 24 | [Borderlands 2](games/b/borderlands_2.md) | 15,041 | 4.76 | 119 |
 | 25 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,443 | 4.58 | 426 |
 | 26 | [Maneater](games/m/maneater.md) | 13,623 | 4.49 | 576 |
 | 27 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,577 | 4.60 | 390 |
@@ -47,13 +47,13 @@
 | 45 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,663 | 4.57 | 449 |
 | 46 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,377 | 4.71 | 186 |
 | 47 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 7,323 | 4.68 | 241 |
-| 48 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 6,922 | 4.74 | 147 |
-| 49 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 6,901 | 4.71 | 186 |
-| 50 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 6,893 | 4.74 | 147 |
+| 48 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 7,003 | 4.74 | 147 |
+| 49 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 6,922 | 4.74 | 147 |
+| 50 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 6,901 | 4.71 | 186 |
 | 51 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 666 |
 | 52 | [DEATH STRANDING](games/d/death_stranding.md) | 6,651 | 4.77 | 108 |
 | 53 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 6,574 | 4.58 | 426 |
-| 54 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,393 | 4.80 | 82 |
+| 54 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,397 | 4.80 | 82 |
 | 55 | [Sifu](games/s/sifu.md) | 6,365 | 4.82 | 66 |
 | 56 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,284 | 4.58 | 426 |
 | 57 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 5,965 | 4.79 | 88 |
@@ -66,7 +66,7 @@
 | 64 | [Dead Island 2](games/d/dead_island_2.md) | 5,621 | 4.54 | 497 |
 | 65 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,540 | 4.85 | 41 |
 | 66 | [Rogue Company](games/r/rogue_company.md) | 5,250 | 4.33 | 765 |
-| 67 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,142 | 4.06 | 918 |
+| 67 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,145 | 4.06 | 918 |
 | 68 | [Cities: Skylines](games/c/cities__skylines.md) | 5,126 | 4.65 | 299 |
 | 69 | [MultiVersus](games/m/multiversus.md) | 4,746 | 4.56 | 470 |
 | 70 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,711 | 4.69 | 213 |
@@ -94,7 +94,7 @@
 | 92 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,196 | 4.57 | 449 |
 | 93 | [Trackmania](games/t/trackmania.md) | 3,117 | 4.67 | 258 |
 | 94 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3,069 | 3.98 | 933 |
-| 95 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 2,687 | 4.82 | 66 |
+| 95 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 2,697 | 4.82 | 66 |
 | 96 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,643 | 4.51 | 541 |
 | 97 | [Among Us](games/a/among_us.md) | 2,607 | 4.57 | 449 |
 | 98 | [Path of Exile](games/p/path_of_exile.md) | 2,550 | 4.61 | 366 |
@@ -186,9 +186,9 @@
 | 184 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 571 | 4.38 | 717 |
 | 185 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 568 | 4.66 | 274 |
 | 186 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 561 | 4.68 | 241 |
+| 186 | [Riders Republic](games/r/riders_republic.md) | 561 | 4.75 | 134 |
 | 186 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 561 | 4.66 | 274 |
-| 188 | [Filament](games/f/filament.md) | 560 | 4.32 | 775 |
-| 189 | [Riders Republic](games/r/riders_republic.md) | 559 | 4.75 | 134 |
+| 189 | [Filament](games/f/filament.md) | 560 | 4.32 | 775 |
 | 190 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 556 | 4.62 | 347 |
 | 191 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 555 | 4.40 | 697 |
 | 191 | [Vampyr](games/v/vampyr.md) | 555 | 4.32 | 775 |
@@ -233,7 +233,7 @@
 | 231 | [The Messenger](games/t/the_messenger.md) | 323 | 4.80 | 82 |
 | 232 | [Darkwood](games/d/darkwood.md) | 322 | 4.61 | 366 |
 | 233 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 319 | 4.72 | 171 |
-| 234 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 312 | 4.59 | 412 |
+| 234 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 314 | 4.59 | 412 |
 | 235 | [House Flipper](games/h/house_flipper.md) | 305 | 4.69 | 213 |
 | 236 | [Spellbreak](games/s/spellbreak.md) | 304 | 4.63 | 330 |
 | 237 | [Video Horror Society](games/v/video_horror_society.md) | 297 | 4.26 | 815 |
@@ -323,8 +323,8 @@
 | 321 | [Tropico 5](games/t/tropico_5.md) | 116 | 4.45 | 632 |
 | 322 | [Overcooked](games/o/overcooked.md) | 115 | 4.67 | 258 |
 | 323 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 114 | 4.64 | 316 |
-| 324 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 110 | 4.37 | 727 |
-| 324 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 110 | 4.36 | 736 |
+| 324 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 112 | 4.37 | 727 |
+| 325 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 110 | 4.36 | 736 |
 | 326 | [Faeria](games/f/faeria.md) | 109 | 4.45 | 632 |
 | 327 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 107 | 4.50 | 558 |
 | 327 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 107 | 4.46 | 619 |

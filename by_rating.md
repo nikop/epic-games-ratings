@@ -72,7 +72,7 @@
 | 66 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 512 |
 | 66 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 33 | 446 |
 | 66 | [Huntdown](games/h/huntdown.md) | 4.82 | 0 | 512 |
-| 66 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 2,687 | 95 |
+| 66 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 2,697 | 95 |
 | 66 | [Sifu](games/s/sifu.md) | 4.82 | 6,365 | 55 |
 | 66 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 399 | 214 |
 | 66 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.82 | 0 | 512 |
@@ -81,7 +81,7 @@
 | 77 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.81 | 0 | 512 |
 | 77 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 28 | 467 |
 | 77 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 0 | 512 |
-| 82 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,393 | 54 |
+| 82 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,397 | 54 |
 | 82 | [Griftlands](games/g/griftlands.md) | 4.80 | 0 | 512 |
 | 82 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 2,444 | 102 |
 | 82 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 0 | 512 |
@@ -118,7 +118,7 @@
 | 108 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 99 | 337 |
 | 108 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 0 | 512 |
 | 108 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 28 | 467 |
-| 119 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 15,032 | 24 |
+| 119 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 15,041 | 24 |
 | 119 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 85 | 356 |
 | 119 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.76 | 0 | 512 |
 | 119 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,299 | 90 |
@@ -142,16 +142,16 @@
 | 134 | [Hypnospace Outlaw](games/h/hypnospace_outlaw.md) | 4.75 | 0 | 512 |
 | 134 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.75 | 0 | 512 |
 | 134 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 119 | 318 |
-| 134 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 559 | 189 |
+| 134 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 561 | 186 |
 | 134 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.75 | 0 | 512 |
 | 134 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.75 | 0 | 512 |
 | 134 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.75 | 0 | 512 |
 | 147 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 0 | 512 |
 | 147 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 803 | 155 |
 | 147 | [Haven](games/h/haven.md) | 4.74 | 0 | 512 |
-| 147 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 6,893 | 50 |
+| 147 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 7,003 | 48 |
 | 147 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 657 | 173 |
-| 147 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,922 | 48 |
+| 147 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,922 | 49 |
 | 147 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.74 | 0 | 512 |
 | 147 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 35,872 | 14 |
 | 147 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 0 | 512 |
@@ -187,7 +187,7 @@
 | 171 | [Townscaper](games/t/townscaper.md) | 4.72 | 0 | 512 |
 | 186 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.71 | 0 | 512 |
 | 186 | [Barony](games/b/barony.md) | 4.71 | 75 | 367 |
-| 186 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 6,901 | 49 |
+| 186 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 6,901 | 50 |
 | 186 | [FUSER™](games/f/fuser™.md) | 4.71 | 35 | 436 |
 | 186 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,377 | 46 |
 | 186 | [Northgard](games/n/northgard.md) | 4.71 | 30 | 462 |
@@ -420,7 +420,7 @@
 | 412 | [Operation: Tango](games/o/operation__tango.md) | 4.59 | 0 | 512 |
 | 412 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 75 | 367 |
 | 412 | [The Escapists 2](games/t/the_escapists_2.md) | 4.59 | 52 | 396 |
-| 412 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 312 | 234 |
+| 412 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 314 | 234 |
 | 412 | [Torchlight II](games/t/torchlight_ii.md) | 4.59 | 1,007 | 144 |
 | 412 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.59 | 0 | 512 |
 | 412 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 707 | 166 |
@@ -732,7 +732,7 @@
 | 727 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 512 |
 | 727 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 4.37 | 51 | 399 |
 | 727 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.37 | 0 | 512 |
-| 727 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.37 | 110 | 324 |
+| 727 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.37 | 112 | 324 |
 | 727 | [Train Valley 2](games/t/train_valley_2.md) | 4.37 | 350 | 226 |
 | 727 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.37 | 42 | 420 |
 | 736 | [Core](games/c/core.md) | 4.36 | 746 | 161 |
@@ -744,7 +744,7 @@
 | 736 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 26 | 474 |
 | 736 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 49 | 405 |
 | 736 | [The Silent Age](games/t/the_silent_age.md) | 4.36 | 0 | 512 |
-| 736 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 110 | 324 |
+| 736 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 110 | 325 |
 | 736 | [ZOMBI](games/z/zombi.md) | 4.36 | 0 | 512 |
 | 747 | [Among Trees](games/a/among_trees.md) | 4.35 | 0 | 512 |
 | 747 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.35 | 0 | 512 |
@@ -776,7 +776,7 @@
 | 765 | [War Mongrels](games/w/war_mongrels.md) | 4.33 | 0 | 512 |
 | 775 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 356 | 224 |
 | 775 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.32 | 58 | 392 |
-| 775 | [Filament](games/f/filament.md) | 4.32 | 560 | 188 |
+| 775 | [Filament](games/f/filament.md) | 4.32 | 560 | 189 |
 | 775 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.32 | 908 | 150 |
 | 775 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 0 | 512 |
 | 775 | [Vampyr](games/v/vampyr.md) | 4.32 | 555 | 191 |
@@ -917,7 +917,7 @@
 | 910 | [The World Next Door](games/t/the_world_next_door.md) | 4.08 | 0 | 512 |
 | 916 | [Godfall Ultimate Edition](games/g/godfall.md) | 4.07 | 537 | 194 |
 | 916 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.07 | 181 | 281 |
-| 918 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 5,142 | 67 |
+| 918 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 5,145 | 67 |
 | 918 | [Tharsis](games/t/tharsis.md) | 4.06 | 0 | 512 |
 | 920 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.05 | 0 | 512 |
 | 920 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 4.05 | 0 | 512 |

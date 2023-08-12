@@ -27,7 +27,7 @@
 | 25 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 10.53% |
 | 26 | [Out of Bounds](games/o/out_of_bounds.md) | 10.34% |
 | 27 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.67% |
-| 28 | [Sonic Origins](games/s/sonic_origins.md) | 9.56% |
+| 28 | [Sonic Origins](games/s/sonic_origins.md) | 9.54% |
 | 29 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 9.30% |
 | 29 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.30% |
 | 31 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.07% |
@@ -36,9 +36,9 @@
 | 34 | [Smelter](games/s/smelter.md) | 7.69% |
 | 35 | [Ravenlok](games/r/ravenlok.md) | 7.46% |
 | 36 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.95% |
-| 37 | [Scorn](games/s/scorn.md) | 6.94% |
-| 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.84% |
+| 37 | [Scorn](games/s/scorn.md) | 6.93% |
 | 38 | [Time Loader](games/t/time_loader.md) | 6.84% |
+| 39 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.83% |
 | 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.46% |
 | 41 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 42 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -175,8 +175,8 @@
 | 173 | [Blanc](games/b/blanc.md) | 0.24% |
 | 173 | [Despot's Game](games/d/despot's_game.md) | 0.24% |
 | 173 | [Filament](games/f/filament.md) | 0.24% |
-| 173 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.24% |
-| 177 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.23% |
+| 176 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.23% |
+| 176 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.23% |
 | 178 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
 | 178 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.22% |
 | 180 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.20% |
