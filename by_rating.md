@@ -108,7 +108,7 @@
 | 101 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 930 | 147 |
 | 101 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.78 | 0 | 511 |
 | 108 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 4,033 | 80 |
-| 108 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 6,646 | 52 |
+| 108 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 6,651 | 52 |
 | 108 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 21,691 | 17 |
 | 108 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.77 | 0 | 511 |
 | 108 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.77 | 37 | 431 |
@@ -767,18 +767,18 @@
 | 764 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 119 | 318 |
 | 764 | [House Party](games/h/house_party.md) | 4.33 | 0 | 511 |
 | 764 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.33 | 0 | 511 |
+| 764 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.33 | 20 | 508 |
 | 764 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 0 | 511 |
 | 764 | [Rogue Company](games/r/rogue_company.md) | 4.33 | 5,245 | 66 |
 | 764 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 4.33 | 24 | 481 |
 | 764 | [Speed Brawl](games/s/speed_brawl.md) | 4.33 | 29 | 464 |
 | 764 | [War Mongrels](games/w/war_mongrels.md) | 4.33 | 0 | 511 |
-| 773 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 356 | 224 |
-| 773 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.32 | 58 | 392 |
-| 773 | [Filament](games/f/filament.md) | 4.32 | 559 | 188 |
-| 773 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.32 | 20 | 508 |
-| 773 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.32 | 908 | 150 |
-| 773 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 0 | 511 |
-| 773 | [Vampyr](games/v/vampyr.md) | 4.32 | 555 | 191 |
+| 774 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 356 | 224 |
+| 774 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.32 | 58 | 392 |
+| 774 | [Filament](games/f/filament.md) | 4.32 | 559 | 188 |
+| 774 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.32 | 908 | 150 |
+| 774 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 0 | 511 |
+| 774 | [Vampyr](games/v/vampyr.md) | 4.32 | 555 | 191 |
 | 780 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 0 | 511 |
 | 780 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.31 | 0 | 511 |
 | 780 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.31 | 78 | 363 |
@@ -868,7 +868,7 @@
 | 862 | [Windbound](games/w/windbound.md) | 4.19 | 0 | 511 |
 | 867 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.18 | 92 | 348 |
 | 867 | [Gone Home](games/g/gone_home.md) | 4.18 | 0 | 511 |
-| 867 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 2,486 | 100 |
+| 867 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 2,489 | 100 |
 | 867 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 341 |
 | 867 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.18 | 0 | 511 |
 | 867 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 0 | 511 |
@@ -902,7 +902,7 @@
 | 900 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.12 | 0 | 511 |
 | 901 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 88 | 352 |
 | 902 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.10 | 0 | 511 |
-| 902 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,486 | 100 |
+| 902 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,486 | 101 |
 | 904 | [Fangs](games/f/fangs.md) | 4.09 | 0 | 511 |
 | 904 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.09 | 0 | 511 |
 | 904 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.09 | 0 | 511 |
