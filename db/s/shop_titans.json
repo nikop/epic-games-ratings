@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -5536,9 +5536,9 @@
       "Count": 3733
     }
   ],
-  "EOS_Progressed": 134363,
+  "EOS_Progressed": 134364,
   "EOS_Completed": 132,
-  "EOS_NewPlayers": 463,
+  "EOS_NewPlayers": 460,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -17136,6 +17136,11 @@
       "Time": "2023-08-12T04:05:31.2648063+00:00",
       "NumProgressed": 134363,
       "NumCompleted": 132
+    },
+    {
+      "Time": "2023-08-12T05:05:26.8472658+00:00",
+      "NumProgressed": 134364,
+      "NumCompleted": 132
     }
   ],
   "TotalAchievements": 112,
@@ -17257,9 +17262,9 @@
       "ID": "blueprint02",
       "SetID": "anfd17p",
       "Name": "Research \u0026 Development",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 269
+      "UsersEstimate": 403
     },
     {
       "ID": "blueprint03",
@@ -18042,15 +18047,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 134363,
+      "Progressed": 134364,
       "Completed": 132
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-08-11T01:37:20.4310656+00:00",
-  "LastChanged_Achievements": "2023-08-12T04:05:31.2648059+00:00",
+  "LastChanged_Achievements": "2023-08-12T05:05:26.8472654+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:21.2056858+00:00",
-  "LastUpdate_Ratings": "2023-08-12T04:00:15.6768576+00:00",
-  "LastUpdate_Achievements": "2023-08-12T04:05:31.2649786+00:00"
+  "LastUpdate_Ratings": "2023-08-12T04:59:54.793724+00:00",
+  "LastUpdate_Achievements": "2023-08-12T05:05:26.847451+00:00"
 }

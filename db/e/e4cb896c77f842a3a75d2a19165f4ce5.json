@@ -4,7 +4,7 @@
   "ProductSlug": "dolmenjord-viking-islands-965b06",
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 68,
-  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
@@ -1063,9 +1063,9 @@
       "ID": "LEVEL_019",
       "SetID": "7jk5g4e",
       "Name": "Small block",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 95,
-      "UsersEstimate": 55
+      "UsersEstimate": 59
     },
     {
       "ID": "LEVEL_023",
@@ -1110,8 +1110,8 @@
   ],
   "FirstSeen": "2023-06-17T14:57:03.8937157+00:00",
   "FirstSeenAchievements": "2023-05-29T15:00:12.8359596+00:00",
-  "LastChanged_Achievements": "2023-08-12T04:06:54.2163177+00:00",
+  "LastChanged_Achievements": "2023-08-12T05:06:33.8707938+00:00",
   "LastUpdate_AppInfo": "2023-08-07T18:57:03.93313+00:00",
-  "LastUpdate_Ratings": "2023-08-12T03:58:16.9093154+00:00",
-  "LastUpdate_Achievements": "2023-08-12T04:06:54.2163296+00:00"
+  "LastUpdate_Ratings": "2023-08-12T04:58:16.6423567+00:00",
+  "LastUpdate_Achievements": "2023-08-12T05:06:33.8708076+00:00"
 }

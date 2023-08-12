@@ -1,7 +1,7 @@
 # Sonic Origins
 [Store](https://store.epicgames.com/en-US/p/sonic-origins)  
 [View Rawdata](../../db/s/sonic_origins.json)  
-Rating: 4.58 (Ranked 426)  
+Rating: 4.58 (Ranked 427)  
 Number of Ratings: 154  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -25,7 +25,7 @@ Number of Ratings: 154  (23.09.2022)
 | Very First Mission Clear! | 48.00% | ~184 |
 | Super Sonic | 48.00% | ~184 |
 | Shut Down Metal Sonic | 47.00% | ~180 |
-| Beware Stingers! | 46.00% | ~177 |
+| Beware Stingers! | 47.00% | ~180 |
 | Cleared Sonic CD | 44.00% | ~169 |
 | Cleared Sonic the Hedgehog 2 | 44.00% | ~169 |
 | Beware Moto Bugs! | 43.00% | ~165 |

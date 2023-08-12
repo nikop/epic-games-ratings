@@ -2,7 +2,7 @@
   "ID": "87b7846d2eba4bc49eead0854323aba8",
   "Name": "Dying Light 2 Stay Human",
   "ProductSlug": "dying-light-2-stay-human",
-  "Ranking_Rating": 426,
+  "Ranking_Rating": 427,
   "Ranking_Popularity": 39,
   "Ranking_PopularitySum": 54,
   "Ranking_EOS_Progress": 27,
@@ -8111,10 +8111,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 21022,
       "NumberOfAwardsMax": 8770
+    },
+    {
+      "Time": "2023-08-12T05:01:40.5092982+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 21023,
+      "NumberOfAwardsMax": 8770
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21022,
+  "NumberOfAwards": 21023,
   "NumberOfAwardsMax": 8770,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8188,12 +8194,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 643
+      "Count": 644
     }
   ],
-  "EOS_Progressed": 610742,
+  "EOS_Progressed": 610748,
   "EOS_Completed": 62,
-  "EOS_NewPlayers": 2970,
+  "EOS_NewPlayers": 2961,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -20726,6 +20732,11 @@
       "Time": "2023-08-12T04:06:35.9240349+00:00",
       "NumProgressed": 610742,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2023-08-12T05:06:17.3594361+00:00",
+      "NumProgressed": 610748,
+      "NumCompleted": 62
     }
   ],
   "TotalAchievements": 65,
@@ -20737,7 +20748,7 @@
       "Name": "Into the Unknown",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 61074
+      "UsersEstimate": 61075
     },
     {
       "ID": "achievement_02",
@@ -20745,7 +20756,7 @@
       "Name": "First Shot",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 61074
+      "UsersEstimate": 61075
     },
     {
       "ID": "achievement_03",
@@ -20873,7 +20884,7 @@
       "Name": "Sancho Panza",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 48859
+      "UsersEstimate": 48860
     },
     {
       "ID": "achievement_19",
@@ -20953,7 +20964,7 @@
       "Name": "Oh, So This Is How It Works!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 48859
+      "UsersEstimate": 48860
     },
     {
       "ID": "achievement_29",
@@ -21256,21 +21267,21 @@
     {
       "ID": "3cbf5jh",
       "IsBase": true,
-      "Progressed": 610742,
+      "Progressed": 610748,
       "Completed": 62
     },
     {
       "ID": "likk62",
       "IsBase": false,
-      "Progressed": 256186,
+      "Progressed": 256192,
       "Completed": 1425
     }
   ],
   "FirstSeen": "2022-07-22T20:18:57.6151265+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.1190573+00:00",
-  "LastChanged": "2023-08-12T04:02:10.4403813+00:00",
-  "LastChanged_Achievements": "2023-08-12T04:06:35.9240344+00:00",
+  "LastChanged": "2023-08-12T05:01:40.5092981+00:00",
+  "LastChanged_Achievements": "2023-08-12T05:06:17.3594358+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:56.1806773+00:00",
-  "LastUpdate_Ratings": "2023-08-12T04:02:10.4403819+00:00",
-  "LastUpdate_Achievements": "2023-08-12T04:06:35.9241545+00:00"
+  "LastUpdate_Ratings": "2023-08-12T05:01:40.5092986+00:00",
+  "LastUpdate_Achievements": "2023-08-12T05:06:17.3595454+00:00"
 }

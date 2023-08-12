@@ -6327,9 +6327,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 58689,
+  "EOS_Progressed": 58690,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 480,
+  "EOS_NewPlayers": 479,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18277,6 +18277,11 @@
       "Time": "2023-08-12T04:04:41.0998665+00:00",
       "NumProgressed": 58689,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-12T05:04:40.2429512+00:00",
+      "NumProgressed": 58690,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -18296,7 +18301,7 @@
       "Name": "Apple of my eye",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 8803
+      "UsersEstimate": 8804
     },
     {
       "ID": "Bannerlord",
@@ -18456,7 +18461,7 @@
       "Name": "I can do it",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 8803
+      "UsersEstimate": 8804
     },
     {
       "ID": "I spit on your grave",
@@ -18512,7 +18517,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 18780
+      "UsersEstimate": 18781
     },
     {
       "ID": "Lawbringer",
@@ -18695,15 +18700,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 58689,
+      "Progressed": 58690,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-08-12T04:01:53.4171651+00:00",
-  "LastChanged_Achievements": "2023-08-12T04:04:41.0998661+00:00",
+  "LastChanged_Achievements": "2023-08-12T05:04:40.2429508+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:41.9139555+00:00",
-  "LastUpdate_Ratings": "2023-08-12T04:01:53.417166+00:00",
-  "LastUpdate_Achievements": "2023-08-12T04:04:41.0999609+00:00"
+  "LastUpdate_Ratings": "2023-08-12T05:01:26.1765835+00:00",
+  "LastUpdate_Achievements": "2023-08-12T05:04:40.2430403+00:00"
 }

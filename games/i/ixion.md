@@ -5,7 +5,7 @@ Rating: 4.55 (Ranked 485)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 25.00% | ~764 |
+| Wakey Wakey | 25.00% | ~765 |
 | Sputnik 2049 | 22.00% | ~673 |
 | Infinite Growth... | 21.00% | ~642 |
 | Without Breaking Some Eggs... | 20.00% | ~612 |
@@ -22,10 +22,10 @@ Rating: 4.55 (Ranked 485)
 | Exceeding Capacity | 9.00% | ~275 |
 | Breaking Protocol | 9.00% | ~275 |
 | Power Outage | 7.00% | ~214 |
-| Man's Best Friend | 6.00% | ~183 |
-| Sightseeing | 6.00% | ~183 |
-| Convenient Transport | 6.00% | ~183 |
-| Please Make it Stop! | 6.00% | ~183 |
+| Man's Best Friend | 6.00% | ~184 |
+| Sightseeing | 6.00% | ~184 |
+| Convenient Transport | 6.00% | ~184 |
+| Please Make it Stop! | 6.00% | ~184 |
 | Access Granted | 5.00% | ~153 |
 | Necessary Enhancement | 5.00% | ~153 |
 | From the Past | 5.00% | ~153 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 485)
 | Beyond Time and Space | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,058 (Ranked 157)  
+Progressed: 3,059 (Ranked 157)  
 Completed: 0 (0.00%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,6 +177,7 @@ Completed: 0 (0.00%) (Ranked 254)
 | 2023-08-09 | 3,048 | 0 |
 | 2023-08-10 | 3,052 | 0 |
 | 2023-08-11 | 3,058 | 0 |
+| 2023-08-12 | 3,059 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 223,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 199,
+  "EOS_NewPlayers": 198,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -709,9 +709,9 @@
       "ID": "ACH_END_FIRST_MAIL_MISSION",
       "SetID": "al4k4nh",
       "Name": "I love customers",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 174
+      "UsersEstimate": 176
     },
     {
       "ID": "ACH_END_FIRST_TUTORIAL",
@@ -876,8 +876,8 @@
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2023-08-12T04:06:58.3468484+00:00",
+  "LastChanged_Achievements": "2023-08-12T05:06:37.6565797+00:00",
   "LastUpdate_AppInfo": "2023-08-09T17:56:58.4992812+00:00",
-  "LastUpdate_Ratings": "2023-08-12T03:58:29.709563+00:00",
-  "LastUpdate_Achievements": "2023-08-12T04:06:58.3468659+00:00"
+  "LastUpdate_Ratings": "2023-08-12T04:58:28.9045873+00:00",
+  "LastUpdate_Achievements": "2023-08-12T05:06:37.6565983+00:00"
 }

@@ -1770,9 +1770,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 24988,
+  "EOS_Progressed": 24989,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 218,
+  "EOS_NewPlayers": 217,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -10170,6 +10170,11 @@
       "Time": "2023-08-12T03:03:36.2550688+00:00",
       "NumProgressed": 24988,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-08-12T05:03:26.9269118+00:00",
+      "NumProgressed": 24989,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 51,
@@ -10181,7 +10186,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 18241
+      "UsersEstimate": 18242
     },
     {
       "ID": "Animated",
@@ -10221,7 +10226,7 @@
       "Name": "Clutch Capture",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 9995
+      "UsersEstimate": 9996
     },
     {
       "ID": "Collect_Spores",
@@ -10293,7 +10298,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 15992
+      "UsersEstimate": 15993
     },
     {
       "ID": "Escape_Artist",
@@ -10325,7 +10330,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 7496
+      "UsersEstimate": 7497
     },
     {
       "ID": "Ghost_Expert",
@@ -10341,7 +10346,7 @@
       "Name": "Icing on the Cake",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 7496
+      "UsersEstimate": 7497
     },
     {
       "ID": "Legions",
@@ -10485,7 +10490,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 21490
+      "UsersEstimate": 21491
     },
     {
       "ID": "Summoner",
@@ -10565,7 +10570,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 11994
+      "UsersEstimate": 11995
     },
     {
       "ID": "Welcome_Crew",
@@ -10573,7 +10578,7 @@
       "Name": "Welcome to the Crew",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 7746
+      "UsersEstimate": 7747
     },
     {
       "ID": "Whoopsie",
@@ -10588,7 +10593,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 24988,
+      "Progressed": 24989,
       "Completed": 50
     }
   ],
@@ -10596,8 +10601,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-08-11T16:00:21.6492183+00:00",
-  "LastChanged_Achievements": "2023-08-12T04:03:10.3622642+00:00",
+  "LastChanged_Achievements": "2023-08-12T05:03:26.9269114+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:01.1115448+00:00",
-  "LastUpdate_Ratings": "2023-08-12T04:01:02.0165996+00:00",
-  "LastUpdate_Achievements": "2023-08-12T04:03:10.3623494+00:00"
+  "LastUpdate_Ratings": "2023-08-12T05:00:35.40218+00:00",
+  "LastUpdate_Achievements": "2023-08-12T05:03:26.9269873+00:00"
 }

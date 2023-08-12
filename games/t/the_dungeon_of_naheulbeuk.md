@@ -1,15 +1,15 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.58 (Ranked 426)  
+Rating: 4.58 (Ranked 427)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 8.00% | ~16,850 |
+| Sowwy! | 8.00% | ~16,851 |
 | Alt+F4 | 0.50% | ~1,053 |
-| Where's that freaking Dwarf? | 0.40% | ~842 |
-| Sock! SOCK! | 0.40% | ~842 |
+| Where's that freaking Dwarf? | 0.40% | ~843 |
+| Sock! SOCK! | 0.40% | ~843 |
 | Déjà vu | 0.30% | ~632 |
 | Fireproof Wizardess | 0.30% | ~632 |
 | Livin' in a dwarven paradise | 0.20% | ~421 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Sleep schedule mastery | 0.00% | ~0 |
 | Dumb and dumber | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210,621 (Ranked 55)  
+Progressed: 210,637 (Ranked 55)  
 Completed: 1 (0.00%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,7 +168,7 @@ Completed: 1 (0.00%) (Ranked 254)
 | 2023-08-09 | 209,549 | 0 |
 | 2023-08-10 | 210,011 | 0 |
 | 2023-08-11 | 210,534 | 1 |
-| 2023-08-12 | 210,621 | 1 |
+| 2023-08-12 | 210,637 | 1 |
 ## Awards
 Max (Character Customization): 159  (Ranked 292)  
 Sum: 159 (Ranked 391)  

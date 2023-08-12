@@ -6,9 +6,9 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 22.00% | ~2,401 |
-| A Spark | 16.00% | ~1,746 |
-| Burning City | 15.00% | ~1,637 |
+| Devoured by Darkness | 22.00% | ~2,402 |
+| A Spark | 16.00% | ~1,747 |
+| Burning City | 15.00% | ~1,638 |
 | Mythic Choices | 13.00% | ~1,419 |
 | Defender's Heart | 13.00% | ~1,419 |
 | Banner over the Citadel | 12.00% | ~1,310 |
@@ -27,11 +27,11 @@ Number of Ratings: 1,354  (23.09.2022)
 | A Flame | 4.00% | ~437 |
 | Next-Door Play | 4.00% | ~437 |
 | Get the Toad | 4.00% | ~437 |
-| Heart of the Fallen Land | 3.00% | ~327 |
-| Path of the Trickster | 3.00% | ~327 |
-| Mythic Reinforcements | 3.00% | ~327 |
-| Core of the Riddle | 3.00% | ~327 |
-| Hey, I Know You! | 3.00% | ~327 |
+| Heart of the Fallen Land | 3.00% | ~328 |
+| Path of the Trickster | 3.00% | ~328 |
+| Mythic Reinforcements | 3.00% | ~328 |
+| Core of the Riddle | 3.00% | ~328 |
+| Hey, I Know You! | 3.00% | ~328 |
 | The Lady of the Forest | 3.00% | ~291 |
 | Beware Still Water | 3.00% | ~291 |
 | Path of the Demon | 2.00% | ~218 |
@@ -54,8 +54,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | End of Eternal Guard | 0.80% | ~87 |
 | Truly Profane Gift | 0.80% | ~87 |
 | Playful Mood | 0.70% | ~76 |
-| Masterful Charge | 0.60% | ~65 |
-| Dreadful Dragon | 0.60% | ~65 |
+| Masterful Charge | 0.60% | ~66 |
+| Dreadful Dragon | 0.60% | ~66 |
 | Prelate's Nemesis | 0.40% | ~44 |
 | Just Pathetic | 0.30% | ~33 |
 | Ashes to Ashes | 0.30% | ~33 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,915 (Ranked 120)  
+Progressed: 10,917 (Ranked 120)  
 Completed: 0 (0.00%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,7 +237,7 @@ Completed: 0 (0.00%) (Ranked 254)
 | 2023-08-09 | 10,877 | 0 |
 | 2023-08-10 | 10,895 | 0 |
 | 2023-08-11 | 10,913 | 0 |
-| 2023-08-12 | 10,915 | 0 |
+| 2023-08-12 | 10,917 | 0 |
 ## Awards
 Max (Character Customization): 1,700  (Ranked 117)  
 Sum: 6,886 (Ranked 113)  
