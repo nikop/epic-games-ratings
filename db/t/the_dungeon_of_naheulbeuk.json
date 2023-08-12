@@ -618,7 +618,7 @@
       "Count": 159
     }
   ],
-  "EOS_Progressed": 210689,
+  "EOS_Progressed": 210712,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 4100,
   "EOS_NewCompleters": 1,
@@ -6593,6 +6593,11 @@
       "Time": "2023-08-12T08:06:01.2323493+00:00",
       "NumProgressed": 210689,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-12T09:04:25.3343609+00:00",
+      "NumProgressed": 210712,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 88,
@@ -6674,9 +6679,9 @@
       "ID": "Chapter4",
       "SetID": "50chcgj",
       "Name": "The demons\u0027 feast",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 211
+      "UsersEstimate": 421
     },
     {
       "ID": "Chapter5",
@@ -7052,7 +7057,7 @@
       "Name": "Sowwy!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 16855
+      "UsersEstimate": 16857
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -7100,7 +7105,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1053
+      "UsersEstimate": 1054
     },
     {
       "ID": "FollowBraztok",
@@ -7307,21 +7312,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 210689,
+      "Progressed": 210712,
       "Completed": 1
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 210689,
+      "Progressed": 210712,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-11T05:01:04.7286626+00:00",
-  "LastChanged_Achievements": "2023-08-12T08:06:01.2323486+00:00",
+  "LastChanged_Achievements": "2023-08-12T09:04:25.3343603+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:49.6773731+00:00",
-  "LastUpdate_Ratings": "2023-08-12T08:02:31.5926352+00:00",
-  "LastUpdate_Achievements": "2023-08-12T08:06:01.2324543+00:00"
+  "LastUpdate_Ratings": "2023-08-12T09:00:12.0231047+00:00",
+  "LastUpdate_Achievements": "2023-08-12T09:04:25.3345004+00:00"
 }

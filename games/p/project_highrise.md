@@ -15,10 +15,10 @@
 | It's Technical | 36.00% | ~116 |
 | Delegate Maintenance | 34.00% | ~109 |
 | Proper Walls | 33.00% | ~106 |
-| Destination Destiny | 30.00% | ~96 |
+| Destination Destiny | 31.00% | ~100 |
 | Happy Tenants | 26.00% | ~83 |
 | Potent Potables | 25.00% | ~80 |
-| Smooth Service | 24.00% | ~77 |
+| Smooth Service | 25.00% | ~80 |
 | Your Prestige is Rising | 23.00% | ~74 |
 | Retail Revenue | 23.00% | ~74 |
 | Don't Feel a Loan | 22.00% | ~71 |

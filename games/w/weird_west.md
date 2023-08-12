@@ -40,9 +40,9 @@ Number of Ratings: 125  (23.09.2022)
 | Mystery Machine | 9.00% | ~162 |
 | Do Not Pass Go… | 8.00% | ~144 |
 | Gold Digger | 8.00% | ~144 |
+| Monster Hunter | 8.00% | ~144 |
 | Knuckle Sandwich | 8.00% | ~144 |
 | Getting the Gang Back Together | 7.00% | ~126 |
-| Monster Hunter | 7.00% | ~126 |
 | Healing Old Wounds | 6.00% | ~108 |
 | Who You Gonna Call? | 6.00% | ~108 |
 | This Is Sparta | 5.00% | ~90 |

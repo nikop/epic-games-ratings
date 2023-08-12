@@ -6,27 +6,27 @@ Number of Ratings: 10,109  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Improvement | 85.00% | ~31,701 |
-| Blood Moon | 73.00% | ~27,225 |
-| Path of the Necromancer | 66.00% | ~24,615 |
-| Chainbreaker - I | 60.00% | ~22,377 |
-| Cursed Creature | 57.00% | ~21,258 |
-| Extraction | 57.00% | ~21,258 |
-| Chainbreaker - II | 55.00% | ~20,512 |
-| Necromancer's Apprentice | 51.00% | ~19,020 |
-| Keeper of Keys | 47.00% | ~17,529 |
-| Distillation | 43.00% | ~16,037 |
-| Mountain King - I | 42.00% | ~15,664 |
-| Transmutation | 42.00% | ~15,664 |
-| Prepared Necromancer | 41.00% | ~15,291 |
-| Mountain King - II | 39.00% | ~14,545 |
-| Blind Rage | 38.00% | ~14,172 |
-| Mad Genius | 35.00% | ~13,053 |
-| Cannon Fodder - I | 34.00% | ~12,680 |
-| Soul of Lies | 34.00% | ~12,680 |
-| Bane of Mercenaries - I | 33.00% | ~12,307 |
-| Bane of Mercenaries - II | 31.00% | ~11,561 |
-| Shadow Between Worlds | 30.00% | ~11,188 |
+| Improvement | 85.00% | ~31,702 |
+| Blood Moon | 73.00% | ~27,227 |
+| Path of the Necromancer | 66.00% | ~24,616 |
+| Chainbreaker - I | 60.00% | ~22,378 |
+| Cursed Creature | 57.00% | ~21,259 |
+| Extraction | 57.00% | ~21,259 |
+| Chainbreaker - II | 55.00% | ~20,513 |
+| Necromancer's Apprentice | 51.00% | ~19,021 |
+| Keeper of Keys | 47.00% | ~17,530 |
+| Distillation | 43.00% | ~16,038 |
+| Mountain King - I | 42.00% | ~15,665 |
+| Transmutation | 42.00% | ~15,665 |
+| Prepared Necromancer | 41.00% | ~15,292 |
+| Mountain King - II | 39.00% | ~14,546 |
+| Blind Rage | 38.00% | ~14,173 |
+| Mad Genius | 35.00% | ~13,054 |
+| Cannon Fodder - I | 34.00% | ~12,681 |
+| Soul of Lies | 34.00% | ~12,681 |
+| Bane of Mercenaries - I | 33.00% | ~12,308 |
+| Bane of Mercenaries - II | 31.00% | ~11,562 |
+| Shadow Between Worlds | 30.00% | ~11,189 |
 | Cannon Fodder - II | 29.00% | ~10,816 |
 | Bane of Monsters | 28.00% | ~10,443 |
 | Chainbreaker - III | 28.00% | ~10,443 |
@@ -45,15 +45,15 @@ Number of Ratings: 10,109  (23.09.2022)
 | Calcination | 20.00% | ~7,459 |
 | Head of Order | 20.00% | ~7,459 |
 | Blood Mage | 17.00% | ~6,340 |
-| Wild Hunger | 16.00% | ~5,967 |
-| Rage Concentrated | 16.00% | ~5,967 |
-| Mountain King - III | 15.00% | ~5,594 |
-| Rare Warrior | 15.00% | ~5,594 |
-| Grand Arena | 14.00% | ~5,221 |
-| Blood Madness | 13.00% | ~4,848 |
-| First Sacrifice | 13.00% | ~4,848 |
-| Master of Alchemy | 13.00% | ~4,848 |
-| Legendary Warrior | 12.00% | ~4,475 |
+| Wild Hunger | 16.00% | ~5,968 |
+| Rage Concentrated | 16.00% | ~5,968 |
+| Mountain King - III | 15.00% | ~5,595 |
+| Rare Warrior | 15.00% | ~5,595 |
+| Grand Arena | 14.00% | ~5,222 |
+| Blood Madness | 13.00% | ~4,849 |
+| First Sacrifice | 13.00% | ~4,849 |
+| Master of Alchemy | 13.00% | ~4,849 |
+| Legendary Warrior | 12.00% | ~4,476 |
 | Bane of Mercenaries - III | 10.00% | ~3,730 |
 | Monument to Greatness | 10.00% | ~3,730 |
 | Ancient Burial | 10.00% | ~3,730 |
@@ -82,7 +82,7 @@ Number of Ratings: 10,109  (23.09.2022)
 | Unrivaled | 0.60% | ~224 |
 | Renowned Researcher | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 37,295 (Ranked 94)  
+Progressed: 37,297 (Ranked 94)  
 Completed: 23 (0.06%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,10 +196,10 @@ Completed: 23 (0.06%) (Ranked 213)
 | 2023-08-09 | 37,105 | 23 |
 | 2023-08-10 | 37,197 | 23 |
 | 2023-08-11 | 37,272 | 23 |
-| 2023-08-12 | 37,295 | 23 |
+| 2023-08-12 | 37,297 | 23 |
 ## Awards
 Max (Character Customization): 2,147  (Ranked 108)  
-Sum: 4,161 (Ranked 139)  
+Sum: 4,162 (Ranked 139)  
 Diff (max vs sum): -31  
 | Award | Count |
 | ----- | ----- |
@@ -211,7 +211,7 @@ Diff (max vs sum): -31
 | This game has Diverse Characters | 212 |
 | This game has Amazing Characters | 211 |
 | This game is Extremely Fun | 211 |
-| This game has Quickly Understood Controls | 199 |
+| This game has Quickly Understood Controls | 200 |
 | This game has Unique Visuals | 190 |
 | This game has a Creative Community | 100 |
 ## Ratings History
@@ -319,3 +319,4 @@ Diff (max vs sum): -31
 | 2023-07-28 | 4.37 | - | 2,146 | 4,159 |
 | 2023-08-04 | 4.37 | - | 2,146 | 4,160 |
 | 2023-08-11 | 4.37 | - | 2,147 | 4,161 |
+| 2023-08-12 | 4.37 | - | 2,147 | 4,162 |

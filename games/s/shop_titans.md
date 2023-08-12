@@ -19,11 +19,11 @@ Number of Ratings: 12,664  (23.09.2022)
 | Another Satisfied Customer | 0.50% | ~672 |
 | Pretty Penny | 0.50% | ~672 |
 | Own the Means of Production | 0.50% | ~672 |
-| The Daily Grind | 0.40% | ~537 |
-| Bounty Hunters | 0.40% | ~537 |
-| One-Armed Bandit | 0.40% | ~537 |
-| Dungeon Imports | 0.40% | ~537 |
-| Through Repetition, Perfection | 0.40% | ~537 |
+| The Daily Grind | 0.40% | ~538 |
+| Bounty Hunters | 0.40% | ~538 |
+| One-Armed Bandit | 0.40% | ~538 |
+| Dungeon Imports | 0.40% | ~538 |
+| Through Repetition, Perfection | 0.40% | ~538 |
 | On the Path to Greatness | 0.30% | ~403 |
 | Ascended | 0.30% | ~403 |
 | Research & Development | 0.30% | ~403 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Economy of Scarce | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,373 (Ranked 66)  
+Progressed: 134,376 (Ranked 66)  
 Completed: 132 (0.10%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,10 +233,10 @@ Completed: 132 (0.10%) (Ranked 202)
 | 2023-08-09 | 134,223 | 131 |
 | 2023-08-10 | 134,276 | 131 |
 | 2023-08-11 | 134,354 | 132 |
-| 2023-08-12 | 134,373 | 132 |
+| 2023-08-12 | 134,376 | 132 |
 ## Awards
 Max (Great for Beginners): 4,694  (Ranked 71)  
-Sum: 27,078 (Ranked 46)  
+Sum: 27,079 (Ranked 46)  
 Diff (max vs sum): 25  
 | Award | Count |
 | ----- | ----- |
@@ -244,7 +244,7 @@ Diff (max vs sum): 25
 | This game is Relaxing | 3,996 |
 | This game has Quickly Understood Controls | 3,983 |
 | This game has Diverse Characters | 3,849 |
-| This game is Highly Recommended | 3,733 |
+| This game is Highly Recommended | 3,734 |
 | This game has Easy Combat | 3,673 |
 | This game has Playful Visuals | 3,150 |
 | This game has Inclusive Character Customization | 22 |
@@ -451,3 +451,4 @@ Diff (max vs sum): 25
 | 2023-08-09 | 3.99 | - | 4,692 | 27,072 |
 | 2023-08-10 | 3.99 | - | 4,694 | 27,077 |
 | 2023-08-11 | 3.99 | - | 4,694 | 27,078 |
+| 2023-08-12 | 3.99 | - | 4,694 | 27,079 |

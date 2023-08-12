@@ -324,9 +324,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 65276,
+  "EOS_Progressed": 65277,
   "EOS_Completed": 343,
-  "EOS_NewPlayers": 701,
+  "EOS_NewPlayers": 698,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -12539,6 +12539,11 @@
       "Time": "2023-08-12T08:05:56.8349673+00:00",
       "NumProgressed": 65276,
       "NumCompleted": 343
+    },
+    {
+      "Time": "2023-08-12T09:04:21.7259314+00:00",
+      "NumProgressed": 65277,
+      "NumCompleted": 343
     }
   ],
   "TotalAchievements": 24,
@@ -12630,7 +12635,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 34596
+      "UsersEstimate": 34597
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -12718,7 +12723,7 @@
       "Name": "UPROOTING DARKNESS",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 9791
+      "UsersEstimate": 9792
     },
     {
       "ID": "WEIGHTLESS",
@@ -12734,14 +12739,14 @@
       "Name": "WRITTEN IN STONE",
       "Percentage": 15,
       "XP": 90,
-      "UsersEstimate": 9791
+      "UsersEstimate": 9792
     }
   ],
   "AchievementSets": [
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 65276,
+      "Progressed": 65277,
       "Completed": 343
     }
   ],
@@ -12749,8 +12754,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-08-12T08:05:56.8349669+00:00",
+  "LastChanged_Achievements": "2023-08-12T09:04:21.7259309+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:14.4759947+00:00",
-  "LastUpdate_Ratings": "2023-08-12T08:03:03.6741149+00:00",
-  "LastUpdate_Achievements": "2023-08-12T08:05:56.835039+00:00"
+  "LastUpdate_Ratings": "2023-08-12T09:00:33.1108082+00:00",
+  "LastUpdate_Achievements": "2023-08-12T09:04:21.726038+00:00"
 }

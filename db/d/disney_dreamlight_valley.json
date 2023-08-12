@@ -3022,10 +3022,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 7397,
       "NumberOfAwardsMax": 922
+    },
+    {
+      "Time": "2023-08-12T08:59:18.8223356+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7398,
+      "NumberOfAwardsMax": 922
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7397,
+  "NumberOfAwards": 7398,
   "NumberOfAwardsMax": 922,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3063,7 +3069,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 781
+      "Count": 782
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3096,9 +3102,9 @@
       "Count": 491
     }
   ],
-  "EOS_Progressed": 8521,
+  "EOS_Progressed": 8522,
   "EOS_Completed": 194,
-  "EOS_NewPlayers": 280,
+  "EOS_NewPlayers": 281,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 2.28,
   "EosHistory": [
@@ -9281,6 +9287,11 @@
       "Time": "2023-08-12T07:06:08.5478525+00:00",
       "NumProgressed": 8521,
       "NumCompleted": 194
+    },
+    {
+      "Time": "2023-08-12T09:03:29.9726702+00:00",
+      "NumProgressed": 8522,
+      "NumCompleted": 194
     }
   ],
   "TotalAchievements": 15,
@@ -9300,7 +9311,7 @@
       "Name": "Banker",
       "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 3408
+      "UsersEstimate": 3409
     },
     {
       "ID": "Bestest_Friend",
@@ -9308,7 +9319,7 @@
       "Name": "Bestest Friend",
       "Percentage": 48,
       "XP": 75,
-      "UsersEstimate": 4090
+      "UsersEstimate": 4091
     },
     {
       "ID": "Chef_Cook",
@@ -9332,7 +9343,7 @@
       "Name": "Constructor",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 4516
+      "UsersEstimate": 4517
     },
     {
       "ID": "Duty_Bound",
@@ -9364,7 +9375,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 72,
       "XP": 75,
-      "UsersEstimate": 6135
+      "UsersEstimate": 6136
     },
     {
       "ID": "Miner",
@@ -9380,7 +9391,7 @@
       "Name": "Photographer",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 5879
+      "UsersEstimate": 5880
     },
     {
       "ID": "Renovator",
@@ -9404,23 +9415,23 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 5453
+      "UsersEstimate": 5454
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 8521,
+      "Progressed": 8522,
       "Completed": 194
     }
   ],
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
-  "LastChanged": "2023-08-12T08:01:14.1810256+00:00",
-  "LastChanged_Achievements": "2023-08-12T08:05:17.5644066+00:00",
+  "LastChanged": "2023-08-12T08:59:18.8223353+00:00",
+  "LastChanged_Achievements": "2023-08-12T09:03:29.9726696+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:49.8985041+00:00",
-  "LastUpdate_Ratings": "2023-08-12T08:01:14.181026+00:00",
-  "LastUpdate_Achievements": "2023-08-12T08:05:17.5644445+00:00"
+  "LastUpdate_Ratings": "2023-08-12T08:59:18.8223364+00:00",
+  "LastUpdate_Achievements": "2023-08-12T09:03:29.972723+00:00"
 }

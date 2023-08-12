@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escape artist | 78.00% | ~25 |
+| Escape artist | 81.00% | ~26 |
 | Book Worm | 63.00% | ~20 |
 | Through the woods | 59.00% | ~19 |
 | My lost nightingale | 59.00% | ~19 |
@@ -29,12 +29,12 @@
 | No posters allowed | 38.00% | ~12 |
 | Shattered | 34.00% | ~11 |
 | Memories | 34.00% | ~11 |
+| Singstar | 34.00% | ~11 |
 | Ring-a-ding-ding | 34.00% | ~11 |
 | Pain in the hands | 34.00% | ~11 |
 | Mischief maker | 34.00% | ~11 |
 | Beekeeper | 31.00% | ~10 |
 | Makeover | 31.00% | ~10 |
-| Singstar | 31.00% | ~10 |
 | Guilty conscience | 31.00% | ~10 |
 | Kill it! KILL IT! | 31.00% | ~10 |
 | Turn the last page | 28.00% | ~9 |

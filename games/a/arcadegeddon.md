@@ -6,27 +6,27 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 91.00% | ~7,733 |
-| Photogenic | 88.00% | ~7,478 |
-| Surge Gauntlet Jockey | 85.00% | ~7,223 |
-| Plug It In | 84.00% | ~7,138 |
-| Adventure Time | 80.00% | ~6,798 |
-| Playing With Power | 77.00% | ~6,543 |
-| Coup d'Etat | 59.00% | ~5,014 |
-| You're Fired | 58.00% | ~4,929 |
-| Get Furious | 56.00% | ~4,759 |
-| Gunplay And Cosplay | 55.00% | ~4,674 |
-| Hacks In Stacks | 55.00% | ~4,674 |
-| Meching Enemies | 49.00% | ~4,164 |
-| Ticket Toddler | 44.00% | ~3,739 |
-| Booty Bashing | 40.00% | ~3,399 |
-| Field Medic | 38.00% | ~3,229 |
-| Here Comes a New Challenger | 38.00% | ~3,229 |
-| Rapid Response | 33.00% | ~2,804 |
-| Surge Ahead | 31.00% | ~2,634 |
-| The Full Monty | 31.00% | ~2,634 |
-| Guardian Angel | 29.00% | ~2,464 |
-| Poppin Noggins | 25.00% | ~2,124 |
+| Let's Get This Party Started | 91.00% | ~7,735 |
+| Photogenic | 88.00% | ~7,480 |
+| Surge Gauntlet Jockey | 85.00% | ~7,225 |
+| Plug It In | 84.00% | ~7,140 |
+| Adventure Time | 80.00% | ~6,800 |
+| Playing With Power | 77.00% | ~6,545 |
+| Coup d'Etat | 59.00% | ~5,015 |
+| You're Fired | 58.00% | ~4,930 |
+| Get Furious | 56.00% | ~4,760 |
+| Gunplay And Cosplay | 55.00% | ~4,675 |
+| Hacks In Stacks | 55.00% | ~4,675 |
+| Meching Enemies | 49.00% | ~4,165 |
+| Ticket Toddler | 44.00% | ~3,740 |
+| Booty Bashing | 40.00% | ~3,400 |
+| Field Medic | 38.00% | ~3,230 |
+| Here Comes a New Challenger | 38.00% | ~3,230 |
+| Rapid Response | 33.00% | ~2,805 |
+| Surge Ahead | 31.00% | ~2,635 |
+| The Full Monty | 31.00% | ~2,635 |
+| Guardian Angel | 29.00% | ~2,465 |
+| Poppin Noggins | 25.00% | ~2,125 |
 | Clips and Crits | 20.00% | ~1,700 |
 | Grey Goo | 18.00% | ~1,530 |
 | Boss of Bosses | 15.00% | ~1,275 |
@@ -50,14 +50,14 @@ Number of Ratings: 801  (23.09.2022)
 | Treasure Hunting | 3.00% | ~255 |
 | Nexuwizard | 2.00% | ~170 |
 | Everybody Freeze | 1.00% | ~85 |
-| Nature Is Lit | 0.90% | ~76 |
+| Nature Is Lit | 0.90% | ~77 |
 | The Collector | 0.80% | ~68 |
 | I'm The Pluggernaut | 0.60% | ~51 |
 | Shield and Shred | 0.60% | ~51 |
 | Infinite Adventures! | 0.40% | ~34 |
 | Pyrotechnical | 0.20% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,498 (Ranked 126)  
+Progressed: 8,500 (Ranked 126)  
 Completed: 0 (0.00%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,7 +171,7 @@ Completed: 0 (0.00%) (Ranked 254)
 | 2023-08-09 | 8,463 | 0 |
 | 2023-08-10 | 8,473 | 0 |
 | 2023-08-11 | 8,494 | 0 |
-| 2023-08-12 | 8,498 | 0 |
+| 2023-08-12 | 8,500 | 0 |
 ## Awards
 Max (Great for Beginners): 63  (Ranked 387)  
 Sum: 456 (Ranked 307)  

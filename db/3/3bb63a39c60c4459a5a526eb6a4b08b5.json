@@ -2,10 +2,10 @@
   "ID": "3bb63a39c60c4459a5a526eb6a4b08b5",
   "Name": "Fly Corp",
   "ProductSlug": "fly-corp-398021",
-  "Ranking_EOS_Progress": 234,
+  "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
     "PcReleaseDate": "2023-05-18T10:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 423,
+  "EOS_Progressed": 424,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
@@ -1486,6 +1486,11 @@
       "Time": "2023-08-12T00:05:39.1069733+00:00",
       "NumProgressed": 423,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-12T09:04:16.7224298+00:00",
+      "NumProgressed": 424,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -1513,7 +1518,7 @@
       "Name": "Basic Controls",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "BigPlane",
@@ -1529,7 +1534,7 @@
       "Name": "Budget Flight",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "Calculated",
@@ -1545,7 +1550,7 @@
       "Name": "That Was Close!",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "Creator",
@@ -1663,9 +1668,9 @@
       "ID": "LongDistance",
       "SetID": "1e89b4i",
       "Name": "Long Distances",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 93
+      "UsersEstimate": 89
     },
     {
       "ID": "ManagementMaster",
@@ -1721,7 +1726,7 @@
       "Name": "This Wasn\u0027t Part of the Plan...",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "Ownway",
@@ -1761,7 +1766,7 @@
       "Name": "Reliable Transporter",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ResourceEconomy",
@@ -1769,7 +1774,7 @@
       "Name": "Resource Economy",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "Restructuring",
@@ -1825,21 +1830,21 @@
       "Name": "Transport Hub",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 423,
+      "Progressed": 424,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-08-12T08:05:50.7183328+00:00",
+  "LastChanged_Achievements": "2023-08-12T09:04:16.7224292+00:00",
   "LastUpdate_AppInfo": "2023-08-08T09:57:08.8049203+00:00",
-  "LastUpdate_Ratings": "2023-08-12T07:59:19.0576125+00:00",
-  "LastUpdate_Achievements": "2023-08-12T08:05:50.7183664+00:00"
+  "LastUpdate_Ratings": "2023-08-12T08:57:59.6358664+00:00",
+  "LastUpdate_Achievements": "2023-08-12T09:04:16.7224718+00:00"
 }
