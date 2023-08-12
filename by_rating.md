@@ -18,11 +18,11 @@
 | 12 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.89 | 0 | 511 |
 | 12 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 17,523 | 20 |
 | 18 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 136 | 305 |
-| 18 | [God of War](games/g/god_of_war.md) | 4.88 | 4,196 | 77 |
+| 18 | [God of War](games/g/god_of_war.md) | 4.88 | 4,201 | 77 |
 | 18 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.88 | 0 | 511 |
 | 18 | [Ooblets](games/o/ooblets.md) | 4.88 | 1,019 | 141 |
 | 18 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 166,329 | 6 |
-| 18 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 11,015 | 35 |
+| 18 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 11,027 | 35 |
 | 18 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 494 |
 | 25 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 278 | 242 |
 | 25 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,424 | 124 |
@@ -349,7 +349,7 @@
 | 347 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 4.62 | 0 | 511 |
 | 347 | [Aimlabs](games/a/aimlabs.md) | 4.62 | 0 | 511 |
 | 347 | [Assassin's Creed Chronicles: Russia](games/a/assassin's_creed_chronicles__russia.md) | 4.62 | 0 | 511 |
-| 347 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.62 | 75,281 | 9 |
+| 347 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.62 | 75,347 | 9 |
 | 347 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 279 | 241 |
 | 347 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 34 | 441 |
 | 347 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,431 | 123 |
@@ -903,7 +903,7 @@
 | 901 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.12 | 0 | 511 |
 | 902 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 88 | 352 |
 | 903 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.10 | 0 | 511 |
-| 903 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,486 | 101 |
+| 903 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,488 | 101 |
 | 905 | [Fangs](games/f/fangs.md) | 4.09 | 0 | 511 |
 | 905 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.09 | 0 | 511 |
 | 905 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.09 | 0 | 511 |

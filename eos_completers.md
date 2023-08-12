@@ -4,7 +4,7 @@
 | 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.84% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 37.50% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
-| 5 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 31.58% |
+| 5 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 30.00% |
 | 6 | [Overloop](games/o/overloop.md) | 25.00% |
 | 7 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 23.91% |
@@ -14,11 +14,11 @@
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
 | 13 | [Island Cities](games/i/island_cities.md) | 18.12% |
 | 14 | [Afterglitch](games/a/afterglitch.md) | 16.67% |
-| 15 | [Anna's Quest](games/a/anna's_quest.md) | 16.13% |
+| 15 | [Anna's Quest](games/a/anna's_quest.md) | 15.62% |
 | 16 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 15.52% |
 | 17 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 13.94% |
 | 18 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 12.50% |
-| 19 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.04% |
+| 19 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.09% |
 | 20 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 11.54% |
 | 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.27% |
 | 22 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
@@ -58,7 +58,7 @@
 | 56 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.21% |
 | 57 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.98% |
 | 58 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.92% |
-| 59 | [ZZT!](games/z/zzt!.md) | 3.74% |
+| 59 | [ZZT!](games/z/zzt!.md) | 3.73% |
 | 60 | [Without Escape](games/w/without_escape.md) | 3.70% |
 | 61 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 62 | [Doodle God](games/d/doodle_god.md) | 3.46% |
@@ -122,8 +122,8 @@
 | 120 | [Dungeons 3](games/d/dungeons_3.md) | 0.81% |
 | 121 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.80% |
 | 122 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.76% |
-| 123 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
-| 124 | [Lemon Cake](games/l/lemon_cake.md) | 0.74% |
+| 123 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.74% |
+| 123 | [Lemon Cake](games/l/lemon_cake.md) | 0.74% |
 | 125 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.73% |
 | 126 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.68% |
 | 127 | [Haven](games/h/haven.md) | 0.65% |
@@ -232,14 +232,14 @@
 | 229 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 0.03% |
 | 229 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
 | 229 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 0.03% |
-| 233 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 0.02% |
-| 233 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
-| 233 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 0.02% |
-| 233 | [Good Company](games/g/good_company.md) | 0.02% |
-| 233 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 0.02% |
-| 233 | [Remnant 2](games/r/remnant_2.md) | 0.02% |
-| 233 | [Saturnalia](games/s/saturnalia.md) | 0.02% |
-| 233 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
+| 229 | [Remnant 2](games/r/remnant_2.md) | 0.03% |
+| 234 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 0.02% |
+| 234 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
+| 234 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 0.02% |
+| 234 | [Good Company](games/g/good_company.md) | 0.02% |
+| 234 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 0.02% |
+| 234 | [Saturnalia](games/s/saturnalia.md) | 0.02% |
+| 234 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
 | 241 | [Dead by Daylight](games/d/dead_by_daylight.md) | 0.01% |
 | 241 | [Deceive Inc.](games/d/deceive_inc..md) | 0.01% |
 | 241 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 0.01% |
