@@ -11,9 +11,9 @@ Number of Ratings: 12,664  (23.09.2022)
 | Titan's First Steps | 0.90% | ~1,209 |
 | Tinkle of Coins | 0.80% | ~1,075 |
 | Disintermediation | 0.70% | ~940 |
+| Capitalism Ho! | 0.70% | ~940 |
 | It's Free Real Estate | 0.60% | ~806 |
 | Budding Merchant | 0.60% | ~806 |
-| Capitalism Ho! | 0.60% | ~806 |
 | One Easy Payment | 0.50% | ~672 |
 | Some Assembly Required | 0.50% | ~672 |
 | Another Satisfied Customer | 0.50% | ~672 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Economy of Scarce | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,354 (Ranked 66)  
+Progressed: 134,356 (Ranked 66)  
 Completed: 132 (0.10%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,6 +233,7 @@ Completed: 132 (0.10%) (Ranked 202)
 | 2023-08-09 | 134,223 | 131 |
 | 2023-08-10 | 134,276 | 131 |
 | 2023-08-11 | 134,354 | 132 |
+| 2023-08-12 | 134,356 | 132 |
 ## Awards
 Max (Great for Beginners): 4,694  (Ranked 71)  
 Sum: 27,078 (Ranked 46)  

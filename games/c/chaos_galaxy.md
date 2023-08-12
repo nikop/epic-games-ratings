@@ -19,6 +19,7 @@
 | Heaven Tower | 4.00% | ~1 |
 | Rebel Command | 4.00% | ~1 |
 | Westwasters Dynasty | 4.00% | ~1 |
+| Merchant Republic | 4.00% | ~1 |
 | Jihad Uprising | 4.00% | ~1 |
 | Mercenary March | 0.00% | ~0 |
 | Takeover Planet | 0.00% | ~0 |
@@ -39,7 +40,6 @@
 | Northsky Dynasty | 0.00% | ~0 |
 | Eastocean Dynasty | 0.00% | ~0 |
 | Emperor  Cruel | 0.00% | ~0 |
-| Merchant Republic | 0.00% | ~0 |
 | Plutocracy Empire | 0.00% | ~0 |
 | Sendai Dynasty | 0.00% | ~0 |
 | Tosho Dynasty | 0.00% | ~0 |

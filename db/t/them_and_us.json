@@ -4,8 +4,8 @@
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 142,
-  "Ranking_EOS_NewPlayers": 287,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
     "PcReleaseDate": "2021-09-28T16:00:00+00:00",
@@ -1199,9 +1199,9 @@
       "ID": "ETUA_WhatHaveIDone",
       "SetID": "65jc0ap",
       "Name": "What have I done!?",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 37
     }
   ],
   "AchievementSets": [
@@ -1216,8 +1216,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-08-12T00:05:48.027252+00:00",
+  "LastChanged_Achievements": "2023-08-12T01:42:07.5280255+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:34.5782906+00:00",
-  "LastUpdate_Ratings": "2023-08-11T23:58:52.5281483+00:00",
-  "LastUpdate_Achievements": "2023-08-12T00:05:48.0273138+00:00"
+  "LastUpdate_Ratings": "2023-08-12T01:35:39.8846148+00:00",
+  "LastUpdate_Achievements": "2023-08-12T01:42:07.5280754+00:00"
 }

@@ -55,10 +55,10 @@ Rating: 4.48 (Ranked 590)
 | Grandslam | 1.00% | ~11 |
 | Redout Grandmaster | 0.90% | ~10 |
 | Beat you to it! | 0.70% | ~8 |
-| I, need, more, shelves! | 0.50% | ~5 |
+| I, need, more, shelves! | 0.50% | ~6 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,099 (Ranked 191)  
+Progressed: 1,100 (Ranked 191)  
 Completed: 0 (0.00%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,6 +133,7 @@ Completed: 0 (0.00%) (Ranked 254)
 | 2023-08-04 | 1,096 | 0 |
 | 2023-08-07 | 1,097 | 0 |
 | 2023-08-10 | 1,099 | 0 |
+| 2023-08-12 | 1,100 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

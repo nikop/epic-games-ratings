@@ -1,16 +1,16 @@
 # AER Memories of Old
 [Store](https://store.epicgames.com/en-US/p/aer-memories-of-old)  
 [View Rawdata](../../db/a/aer_memories_of_old.json)  
-Rating: 4.46 (Ranked 616)  
+Rating: 4.45 (Ranked 631)  
 Number of Ratings: 170  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Light at the end of the tunnel | 76.00% | ~13,382 |
-| Mama? | 28.00% | ~4,930 |
+| Light at the end of the tunnel | 76.00% | ~13,384 |
+| Mama? | 28.00% | ~4,931 |
 | People's Haven | 19.00% | ~3,346 |
-| Cartographer | 17.00% | ~2,993 |
-| Antlers of Stone | 15.00% | ~2,641 |
+| Cartographer | 17.00% | ~2,994 |
+| Antlers of Stone | 15.00% | ~2,642 |
 | Knowledge for Power | 14.00% | ~2,465 |
 | Gaze into the abyss | 14.00% | ~2,465 |
 | Mausoleum of Ice | 14.00% | ~2,465 |
@@ -21,13 +21,13 @@ Number of Ratings: 170  (23.09.2022)
 | Memorial | 9.00% | ~1,585 |
 | An uninvited guest | 8.00% | ~1,409 |
 | Talk to all the spirit animals | 7.00% | ~1,233 |
-| Ripples on the surface | 6.00% | ~1,056 |
-| Tails of Stone | 6.00% | ~1,056 |
-| Baa from the past | 6.00% | ~1,056 |
-| Written in stone | 6.00% | ~1,056 |
+| Ripples on the surface | 6.00% | ~1,057 |
+| Tails of Stone | 6.00% | ~1,057 |
+| Baa from the past | 6.00% | ~1,057 |
+| Written in stone | 6.00% | ~1,057 |
 | Hide and Seek | 5.00% | ~880 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,608 (Ranked 108)  
+Progressed: 17,610 (Ranked 108)  
 Completed: 360 (2.04%) (Ranked 88)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,7 +141,7 @@ Completed: 360 (2.04%) (Ranked 88)
 | 2023-08-09 | 17,433 | 355 |
 | 2023-08-10 | 17,514 | 356 |
 | 2023-08-11 | 17,605 | 359 |
-| 2023-08-12 | 17,608 | 360 |
+| 2023-08-12 | 17,610 | 360 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -214,3 +214,4 @@ Completed: 360 (2.04%) (Ranked 88)
 | 2023-04-06 | 4.46 | - | 0 | 0 |
 | 2023-05-04 | 4.45 | - | 0 | 0 |
 | 2023-05-24 | 4.46 | - | 0 | 0 |
+| 2023-08-12 | 4.45 | - | 0 | 0 |

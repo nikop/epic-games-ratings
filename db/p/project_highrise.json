@@ -4,8 +4,8 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 269,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2016-09-07T23:00:00+00:00",
@@ -1349,9 +1349,9 @@
       "ID": "ach_restaurants_4",
       "SetID": "b8gh1fi",
       "Name": "Potent Potables",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 80
     },
     {
       "ID": "ach_restaurants_5",
@@ -1534,8 +1534,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-08-12T00:05:41.1499281+00:00",
+  "LastChanged_Achievements": "2023-08-12T01:42:01.5949265+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:47.8269205+00:00",
-  "LastUpdate_Ratings": "2023-08-12T00:00:08.3860144+00:00",
-  "LastUpdate_Achievements": "2023-08-12T00:05:41.1501283+00:00"
+  "LastUpdate_Ratings": "2023-08-12T01:36:53.0352841+00:00",
+  "LastUpdate_Achievements": "2023-08-12T01:42:01.5950406+00:00"
 }

@@ -9,7 +9,7 @@
 | Bad Blood | 3.00% | ~7 |
 | Shock to the System | 3.00% | ~7 |
 | Serious Bam | 2.00% | ~5 |
-| Bloodstorm | 0.90% | ~2 |
+| Bloodstorm | 0.80% | ~2 |
 | Doomed | 0.40% | ~1 |
 | Postal Service | 0.40% | ~1 |
 | Shocking Bio | 0.40% | ~1 |
@@ -35,7 +35,7 @@
 | Unreal 4 | 0.00% | ~0 |
 | Until Dusk | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235 (Ranked 273)  
+Progressed: 236 (Ranked 273)  
 Completed: 0 (0.00%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,6 +93,7 @@ Completed: 0 (0.00%) (Ranked 254)
 | 2023-08-09 | 223 | 0 |
 | 2023-08-10 | 228 | 0 |
 | 2023-08-11 | 235 | 0 |
+| 2023-08-12 | 236 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

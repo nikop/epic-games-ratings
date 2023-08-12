@@ -5,9 +5,9 @@ Rating: 4.05 (Ranked 919)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,665 |
-| World Map | 79.00% | ~1,414 |
-| Temple of Eternals | 56.00% | ~1,002 |
+| Victor | 93.00% | ~1,666 |
+| World Map | 79.00% | ~1,415 |
+| Temple of Eternals | 56.00% | ~1,003 |
 | Prestigious | 53.00% | ~949 |
 | Fellowship Power | 41.00% | ~734 |
 | Guild Power | 25.00% | ~448 |
@@ -16,10 +16,10 @@ Rating: 4.05 (Ranked 919)
 | Exotic Merchant | 19.00% | ~340 |
 | Dragon Clicker | 17.00% | ~304 |
 | Miner Clicker | 17.00% | ~304 |
-| Full Party | 16.00% | ~286 |
-| Inspection | 16.00% | ~286 |
-| Dragon Master | 15.00% | ~268 |
-| Enlightenment | 15.00% | ~268 |
+| Full Party | 16.00% | ~287 |
+| Inspection | 16.00% | ~287 |
+| Dragon Master | 15.00% | ~269 |
+| Enlightenment | 15.00% | ~269 |
 | Hero inspection | 14.00% | ~251 |
 | Lieutenant | 14.00% | ~251 |
 | Mysterious Rock | 13.00% | ~233 |
@@ -31,13 +31,13 @@ Rating: 4.05 (Ranked 919)
 | Doing My Part | 11.00% | ~197 |
 | Hunter | 11.00% | ~197 |
 | Mastery | 11.00% | ~197 |
-| Relic Of The Past | 11.00% | ~197 |
 | The power of Awakening | 11.00% | ~197 |
 | Challenger | 10.00% | ~179 |
 | Daily Quest Completionist | 10.00% | ~179 |
 | Four Leaf Clover | 10.00% | ~179 |
 | Frostfire Liberator | 10.00% | ~179 |
 | Moving Up The Ladder | 10.00% | ~179 |
+| Relic Of The Past | 10.00% | ~179 |
 | Scroll Master | 10.00% | ~179 |
 | Here We Go Again | 9.00% | ~161 |
 | Master Enchanter | 9.00% | ~161 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 919)
 | Silverwood liberator | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,790 (Ranked 172)  
+Progressed: 1,791 (Ranked 172)  
 Completed: 2 (0.11%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,6 +194,7 @@ Completed: 2 (0.11%) (Ranked 198)
 | 2023-08-09 | 1,781 | 2 |
 | 2023-08-10 | 1,784 | 2 |
 | 2023-08-11 | 1,790 | 2 |
+| 2023-08-12 | 1,791 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
