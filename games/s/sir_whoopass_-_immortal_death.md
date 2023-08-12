@@ -55,8 +55,8 @@
 | Ancient Ruins of Dirty Feet | 13.00% | ~12 |
 | Timber! | 12.00% | ~11 |
 | Free Of Chains | 12.00% | ~11 |
+| Grumpy Immortal | 11.00% | ~10 |
 | Ancient Ruins of Moist Overhangs | 10.00% | ~9 |
-| Grumpy Immortal | 10.00% | ~9 |
 | Spoiler alert! | 9.00% | ~8 |
 | I drink, but I'm not a drunk! | 9.00% | ~8 |
 | Scrambled Eggs | 9.00% | ~8 |

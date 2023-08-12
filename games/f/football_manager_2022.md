@@ -6,44 +6,44 @@ Number of Ratings: 19,160  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sheet | 50.00% | ~234,943 |
-| He's Signed! | 50.00% | ~234,943 |
-| First Victory | 50.00% | ~234,943 |
-| He's Sold! | 48.00% | ~225,545 |
-| I'm The Boss! | 42.00% | ~197,352 |
-| Hat-trick | 41.00% | ~192,653 |
-| Scoring Streak | 38.00% | ~178,557 |
-| Unbeatable! | 37.00% | ~173,858 |
-| Thumping | 37.00% | ~173,858 |
-| Superb Dressing Room Atmosphere | 35.00% | ~164,460 |
+| Clean Sheet | 50.00% | ~234,944 |
+| He's Signed! | 50.00% | ~234,944 |
+| First Victory | 50.00% | ~234,944 |
+| He's Sold! | 48.00% | ~225,547 |
+| I'm The Boss! | 42.00% | ~197,353 |
+| Hat-trick | 41.00% | ~192,654 |
+| Scoring Streak | 38.00% | ~178,558 |
+| Unbeatable! | 37.00% | ~173,859 |
+| Thumping | 37.00% | ~173,859 |
+| Superb Dressing Room Atmosphere | 35.00% | ~164,461 |
 | Total Support | 32.00% | ~150,364 |
 | Record Signing | 32.00% | ~150,364 |
-| He's a Natural | 31.00% | ~145,665 |
-| Millionaire's Club | 31.00% | ~145,665 |
-| Team Performance | 30.00% | ~140,966 |
-| Parked The Bus | 29.00% | ~136,267 |
-| Shrewd Spender | 29.00% | ~136,267 |
-| Star Man | 29.00% | ~136,267 |
-| Attack! | 28.00% | ~131,568 |
-| You're On Fire | 26.00% | ~122,170 |
-| On A Roll | 26.00% | ~122,170 |
-| Tremendous Trio | 26.00% | ~122,170 |
-| Unstoppable Force | 26.00% | ~122,170 |
-| Record Sale | 26.00% | ~122,170 |
+| He's a Natural | 31.00% | ~145,666 |
+| Millionaire's Club | 31.00% | ~145,666 |
+| Team Performance | 30.00% | ~140,967 |
+| Parked The Bus | 29.00% | ~136,268 |
+| Shrewd Spender | 29.00% | ~136,268 |
+| Star Man | 29.00% | ~136,268 |
+| Attack! | 28.00% | ~131,569 |
+| You're On Fire | 26.00% | ~122,171 |
+| On A Roll | 26.00% | ~122,171 |
+| Tremendous Trio | 26.00% | ~122,171 |
+| Unstoppable Force | 26.00% | ~122,171 |
+| Record Sale | 26.00% | ~122,171 |
 | Fantastic Five | 24.00% | ~112,773 |
 | Full Faith | 24.00% | ~112,773 |
 | The Boss | 24.00% | ~112,773 |
 | Armchair Expert | 24.00% | ~112,773 |
 | Iron Curtain | 23.00% | ~108,074 |
 | Goal Machine | 23.00% | ~108,074 |
-| What A Goal! | 22.00% | ~103,375 |
-| Top Of The Class | 22.00% | ~103,375 |
-| Cup Glory! | 22.00% | ~103,375 |
-| Splashing The Cash | 21.00% | ~98,676 |
-| Clean Bill of Health | 21.00% | ~98,676 |
-| Irresistible Force | 20.00% | ~93,977 |
-| Excellent Match Cohesion | 20.00% | ~93,977 |
-| Do The Double | 19.00% | ~89,278 |
+| What A Goal! | 22.00% | ~103,376 |
+| Top Of The Class | 22.00% | ~103,376 |
+| Cup Glory! | 22.00% | ~103,376 |
+| Splashing The Cash | 21.00% | ~98,677 |
+| Clean Bill of Health | 21.00% | ~98,677 |
+| Irresistible Force | 20.00% | ~93,978 |
+| Excellent Match Cohesion | 20.00% | ~93,978 |
+| Do The Double | 19.00% | ~89,279 |
 | Top Form | 17.00% | ~79,881 |
 | Cash To Burn | 17.00% | ~79,881 |
 | Beating Expectations | 15.00% | ~70,483 |
@@ -51,9 +51,9 @@ Number of Ratings: 19,160  (23.09.2022)
 | Rushed signing | 15.00% | ~70,483 |
 | Window Shopping | 15.00% | ~70,483 |
 | Eyes and Ears | 14.00% | ~65,784 |
-| Comeback King! | 13.00% | ~61,085 |
-| You're Up! | 13.00% | ~61,085 |
-| Money, Money, Money | 12.00% | ~56,386 |
+| Comeback King! | 13.00% | ~61,086 |
+| You're Up! | 13.00% | ~61,086 |
+| Money, Money, Money | 12.00% | ~56,387 |
 | Superb Strike | 10.00% | ~46,989 |
 | Invincible! | 10.00% | ~46,989 |
 | Best In The World | 10.00% | ~46,989 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~470 |
 | Shoestring Budget | 0.10% | ~470 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 469,886 (Ranked 36)  
+Progressed: 469,889 (Ranked 36)  
 Completed: 19 (0.00%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,7 +219,7 @@ Completed: 19 (0.00%) (Ranked 254)
 | 2023-08-09 | 469,665 | 19 |
 | 2023-08-10 | 469,768 | 19 |
 | 2023-08-11 | 469,876 | 19 |
-| 2023-08-12 | 469,886 | 19 |
+| 2023-08-12 | 469,889 | 19 |
 ## Awards
 Max (Relaxing): 6,393  (Ranked 54)  
 Sum: 50,346 (Ranked 24)  

@@ -424,9 +424,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7495,
+  "EOS_Progressed": 7496,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -7214,6 +7214,11 @@
       "Time": "2023-08-12T04:06:54.000492+00:00",
       "NumProgressed": 7495,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-08-12T06:06:20.4684318+00:00",
+      "NumProgressed": 7496,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 29,
@@ -7225,7 +7230,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 6221
+      "UsersEstimate": 6222
     },
     {
       "ID": "ACH02",
@@ -7233,7 +7238,7 @@
       "Name": "Without a Scratch",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 2548
+      "UsersEstimate": 2549
     },
     {
       "ID": "ACH03",
@@ -7409,7 +7414,7 @@
       "Name": "Dirty Money",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 899
+      "UsersEstimate": 900
     },
     {
       "ID": "ACH25",
@@ -7456,7 +7461,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7495,
+      "Progressed": 7496,
       "Completed": 43
     }
   ],
@@ -7464,8 +7469,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-08-08T10:58:39.8660695+00:00",
-  "LastChanged_Achievements": "2023-08-12T05:06:33.613608+00:00",
+  "LastChanged_Achievements": "2023-08-12T06:06:20.4684315+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:37.4794149+00:00",
-  "LastUpdate_Ratings": "2023-08-12T04:59:12.5652685+00:00",
-  "LastUpdate_Achievements": "2023-08-12T05:06:33.613654+00:00"
+  "LastUpdate_Ratings": "2023-08-12T05:59:25.8409487+00:00",
+  "LastUpdate_Achievements": "2023-08-12T06:06:20.4684758+00:00"
 }

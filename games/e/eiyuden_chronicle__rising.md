@@ -21,13 +21,13 @@ Number of Ratings: 48  (23.09.2022)
 | ...And Your Tax Money | 47.00% | ~321 |
 | The Lords of the Snowpeak | 40.00% | ~274 |
 | The Go-To Girl | 37.00% | ~253 |
+| Natural Born Monster-Killer | 37.00% | ~253 |
 | The Lava Mantor Wyrm | 36.00% | ~246 |
 | Scavenger's Honor | 36.00% | ~246 |
-| Natural Born Monster-Killer | 36.00% | ~246 |
 | The Great Forest...On Foot! | 36.00% | ~246 |
 | One Mean Merc | 35.00% | ~239 |
+| Adept, for an Acting Mayor | 35.00% | ~239 |
 | Money, Money, Money | 35.00% | ~239 |
-| Adept, for an Acting Mayor | 34.00% | ~233 |
 | Rune Wall Master | 33.00% | ~226 |
 | The Quarry...On Foot! | 31.00% | ~212 |
 | The Runebarrows...On Foot! | 29.00% | ~198 |

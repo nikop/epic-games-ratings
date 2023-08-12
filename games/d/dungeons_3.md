@@ -1,22 +1,22 @@
 # Dungeons 3
 [Store](https://store.epicgames.com/en-US/p/dungeons-3)  
 [View Rawdata](../../db/d/dungeons_3.json)  
-Rating: 4.66 (Ranked 275)  
+Rating: 4.66 (Ranked 274)  
 Number of Ratings: 1,635  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 70.00% | ~18,897 |
-| The Evilest Evil | 58.00% | ~15,658 |
-| Twistram is devastated | 57.00% | ~15,388 |
-| The Gehenna Stones | 50.00% | ~13,498 |
-| No one has to die today! | 46.00% | ~12,418 |
-| Death and destruction! | 45.00% | ~12,148 |
-| The Swamplanders from the swamplands | 44.00% | ~11,878 |
-| The One-Huge-Army-Building Evil | 41.00% | ~11,068 |
-| Rusty Steel | 41.00% | ~11,068 |
-| The last burger | 38.00% | ~10,258 |
-| Braiiiiins! | 38.00% | ~10,258 |
+| The Shadow strikes | 70.00% | ~18,899 |
+| The Evilest Evil | 58.00% | ~15,659 |
+| Twistram is devastated | 57.00% | ~15,389 |
+| The Gehenna Stones | 50.00% | ~13,499 |
+| No one has to die today! | 46.00% | ~12,419 |
+| Death and destruction! | 45.00% | ~12,149 |
+| The Swamplanders from the swamplands | 44.00% | ~11,879 |
+| The One-Huge-Army-Building Evil | 41.00% | ~11,069 |
+| Rusty Steel | 41.00% | ~11,069 |
+| The last burger | 38.00% | ~10,259 |
+| Braiiiiins! | 38.00% | ~10,259 |
 | Hands off the Dungeonheart! | 36.00% | ~9,719 |
 | A trip on sea, what fun it can be | 35.00% | ~9,449 |
 | Damned good | 33.00% | ~8,909 |
@@ -29,20 +29,20 @@ Number of Ratings: 1,635  (23.09.2022)
 | Ogre Solo! | 28.00% | ~7,559 |
 | Destroy the thing | 26.00% | ~7,019 |
 | Tide Master | 26.00% | ~7,019 |
-| Difficult family relationships | 25.00% | ~6,749 |
-| MASS-O-BOT | 25.00% | ~6,749 |
-| Prepare the grave | 24.00% | ~6,479 |
-| Angel of Fire | 24.00% | ~6,479 |
-| Where there is Light, there is Shadow | 23.00% | ~6,209 |
-| At the foot of Mount Destiny | 22.00% | ~5,939 |
-| The Force disturbed | 21.00% | ~5,669 |
-| The Victorious Evil | 20.00% | ~5,399 |
-| Chorus of damnation | 19.00% | ~5,129 |
-| We don’t have time! | 19.00% | ~5,129 |
-| The Stones’ Power | 18.00% | ~4,859 |
-| Flat as a pancake | 17.00% | ~4,589 |
-| Lifeguard | 17.00% | ~4,589 |
-| Can’t stand the sight of Dark Elf blood | 15.00% | ~4,049 |
+| Difficult family relationships | 25.00% | ~6,750 |
+| MASS-O-BOT | 25.00% | ~6,750 |
+| Prepare the grave | 24.00% | ~6,480 |
+| Angel of Fire | 24.00% | ~6,480 |
+| Where there is Light, there is Shadow | 23.00% | ~6,210 |
+| At the foot of Mount Destiny | 22.00% | ~5,940 |
+| The Force disturbed | 21.00% | ~5,670 |
+| The Victorious Evil | 20.00% | ~5,400 |
+| Chorus of damnation | 19.00% | ~5,130 |
+| We don’t have time! | 19.00% | ~5,130 |
+| The Stones’ Power | 18.00% | ~4,860 |
+| Flat as a pancake | 17.00% | ~4,590 |
+| Lifeguard | 17.00% | ~4,590 |
+| Can’t stand the sight of Dark Elf blood | 15.00% | ~4,050 |
 | This is fun, I’m going to keep doing this! | 12.00% | ~3,240 |
 | Then let them eat cake! | 12.00% | ~3,240 |
 | The White Knight | 10.00% | ~2,700 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~540 |
 | Sacrifices! | 2.00% | ~540 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,996 (Ranked 100)  
+Progressed: 26,998 (Ranked 100)  
 Completed: 220 (0.81%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 220 (0.81%) (Ranked 120)
 | 2023-08-09 | 26,799 | 218 |
 | 2023-08-10 | 26,889 | 219 |
 | 2023-08-11 | 26,977 | 220 |
-| 2023-08-12 | 26,996 | 220 |
+| 2023-08-12 | 26,998 | 220 |
 ## Awards
 Max (Great for Beginners): 337  (Ranked 227)  
 Sum: 2,611 (Ranked 171)  

@@ -69,7 +69,7 @@ Rating: 4.05 (Ranked 920)
 | Cauldron Liberator | 0.80% | ~14 |
 | Titan Power | 0.80% | ~14 |
 | Transmute | 0.80% | ~14 |
-| Enhanced War Machines | 0.60% | ~11 |
+| Enhanced War Machines | 0.70% | ~13 |
 | Tree of Life | 0.60% | ~11 |
 | Beast War Machines | 0.40% | ~7 |
 | Enchanting skill x5 | 0.40% | ~7 |

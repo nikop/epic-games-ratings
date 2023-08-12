@@ -4270,9 +4270,9 @@
       "Count": 265
     }
   ],
-  "EOS_Progressed": 82534,
+  "EOS_Progressed": 82535,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 960,
+  "EOS_NewPlayers": 959,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -16480,6 +16480,11 @@
       "Time": "2023-08-12T05:03:55.0013006+00:00",
       "NumProgressed": 82534,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-08-12T06:04:09.0562581+00:00",
+      "NumProgressed": 82535,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 100,
@@ -16507,7 +16512,7 @@
       "Name": "Unbeatable!",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 42092
+      "UsersEstimate": 42093
     },
     {
       "ID": "achievement_10_seasons_at_one_club",
@@ -16539,7 +16544,7 @@
       "Name": "On a Roll",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 27236
+      "UsersEstimate": 27237
     },
     {
       "ID": "achievement_30_matches_without_conceding_goal",
@@ -16563,7 +16568,7 @@
       "Name": "Tremendous Trio",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 29712
+      "UsersEstimate": 29713
     },
     {
       "ID": "achievement_5_clean_sheets_in_a_row",
@@ -16571,7 +16576,7 @@
       "Name": "Parked The Bus",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 32188
+      "UsersEstimate": 32189
     },
     {
       "ID": "achievement_5_manager_of_the_year_awards",
@@ -16603,7 +16608,7 @@
       "Name": "Beating Expectations",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 32188
+      "UsersEstimate": 32189
     },
     {
       "ID": "achievement_big_win",
@@ -16611,7 +16616,7 @@
       "Name": "Thumping",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 43743
+      "UsersEstimate": 43744
     },
     {
       "ID": "achievement_bragging_rights",
@@ -16627,7 +16632,7 @@
       "Name": "Splashing the Cash",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 27236
+      "UsersEstimate": 27237
     },
     {
       "ID": "achievement_clean_sheet",
@@ -16635,7 +16640,7 @@
       "Name": "Clean Sheet",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 56123
+      "UsersEstimate": 56124
     },
     {
       "ID": "achievement_clean_sheet_network",
@@ -16755,7 +16760,7 @@
       "Name": "National Service",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 10729
+      "UsersEstimate": 10730
     },
     {
       "ID": "achievement_goal_of_the_month_award",
@@ -16779,7 +16784,7 @@
       "Name": "Goal Rush",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 32188
+      "UsersEstimate": 32189
     },
     {
       "ID": "achievement_goal_scored_in_30_consecutive_matches",
@@ -16795,7 +16800,7 @@
       "Name": "Hat-trick",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 49520
+      "UsersEstimate": 49521
     },
     {
       "ID": "achievement_head_to_head",
@@ -16811,7 +16816,7 @@
       "Name": "They\u0027re a Natural",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 37140
+      "UsersEstimate": 37141
     },
     {
       "ID": "achievement_import_to_victory",
@@ -16867,7 +16872,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 29712
+      "UsersEstimate": 29713
     },
     {
       "ID": "achievement_motivational_speaker",
@@ -16875,7 +16880,7 @@
       "Name": "Motivational Speaker",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 63551
+      "UsersEstimate": 63552
     },
     {
       "ID": "achievement_new_kids_on_the_block",
@@ -16891,7 +16896,7 @@
       "Name": "One Of Our Own",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 39616
+      "UsersEstimate": 39617
     },
     {
       "ID": "achievement_one_of_us",
@@ -16899,7 +16904,7 @@
       "Name": "One of Us, One of Us!",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 60250
+      "UsersEstimate": 60251
     },
     {
       "ID": "achievement_people_pleaser",
@@ -16915,7 +16920,7 @@
       "Name": "Total Support",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 8253
+      "UsersEstimate": 8254
     },
     {
       "ID": "achievement_planned_signing",
@@ -16955,7 +16960,7 @@
       "Name": "Record Sale",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 29712
+      "UsersEstimate": 29713
     },
     {
       "ID": "achievement_record_signing",
@@ -16979,7 +16984,7 @@
       "Name": "Scoring Streak",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 43743
+      "UsersEstimate": 43744
     },
     {
       "ID": "achievement_sell_50_million_plus_player",
@@ -16995,7 +17000,7 @@
       "Name": "Off the Books",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 54472
+      "UsersEstimate": 54473
     },
     {
       "ID": "achievement_shots_for_days",
@@ -17003,7 +17008,7 @@
       "Name": "Shots For Days",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 29712
+      "UsersEstimate": 29713
     },
     {
       "ID": "achievement_signed_a_player",
@@ -17035,7 +17040,7 @@
       "Name": "Super-Sub",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 53647
+      "UsersEstimate": 53648
     },
     {
       "ID": "achievement_the_only_stat_that_matters",
@@ -17059,7 +17064,7 @@
       "Name": "The Player Whisperer",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 62726
+      "UsersEstimate": 62727
     },
     {
       "ID": "achievement_the_unstoppables",
@@ -17147,7 +17152,7 @@
       "Name": "A Game of Two Halves",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 18157
+      "UsersEstimate": 18158
     },
     {
       "ID": "achievement_win_fantasy_draft",
@@ -17179,7 +17184,7 @@
       "Name": "First Victory",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 56123
+      "UsersEstimate": 56124
     },
     {
       "ID": "achievement_won_international_championship",
@@ -17227,7 +17232,7 @@
       "Name": "You Can Buy Happiness",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 8253
+      "UsersEstimate": 8254
     },
     {
       "ID": "career_earnings_over_100_million",
@@ -17290,7 +17295,7 @@
     {
       "ID": "26pcimd",
       "IsBase": true,
-      "Progressed": 82534,
+      "Progressed": 82535,
       "Completed": 23
     }
   ],
@@ -17298,8 +17303,8 @@
   "FirstSeenRating": "2022-11-08T17:57:47.9405885+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.5210365+00:00",
   "LastChanged": "2023-08-12T02:10:05.4530451+00:00",
-  "LastChanged_Achievements": "2023-08-12T05:03:55.0013001+00:00",
+  "LastChanged_Achievements": "2023-08-12T06:04:09.0562576+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:28.6232657+00:00",
-  "LastUpdate_Ratings": "2023-08-12T05:01:04.8641585+00:00",
-  "LastUpdate_Achievements": "2023-08-12T05:03:55.0014496+00:00"
+  "LastUpdate_Ratings": "2023-08-12T06:01:03.5930667+00:00",
+  "LastUpdate_Achievements": "2023-08-12T06:04:09.0564058+00:00"
 }

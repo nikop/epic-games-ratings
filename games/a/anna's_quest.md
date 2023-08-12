@@ -23,10 +23,10 @@
 | A very special drink | 47.00% | ~14 |
 | Close the deal | 43.00% | ~13 |
 | Show me your true self | 43.00% | ~13 |
+| Little genius | 43.00% | ~13 |
 | GG | 40.00% | ~12 |
 | You've got mail! | 40.00% | ~12 |
 | No posters allowed | 40.00% | ~12 |
-| Little genius | 40.00% | ~12 |
 | Shattered | 37.00% | ~11 |
 | Memories | 37.00% | ~11 |
 | Ring-a-ding-ding | 37.00% | ~11 |

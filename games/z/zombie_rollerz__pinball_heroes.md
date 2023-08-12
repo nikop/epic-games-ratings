@@ -21,7 +21,7 @@
 | The Bird | 27.00% | ~36 |
 | Topped up | 26.00% | ~35 |
 | The Idol | 26.00% | ~35 |
-| The Ninja | 25.00% | ~34 |
+| The Ninja | 26.00% | ~35 |
 | Inferno Ruins | 25.00% | ~34 |
 | I'm Rich | 23.00% | ~31 |
 | Untouchable | 22.00% | ~29 |
@@ -37,8 +37,8 @@
 | Ember | 14.00% | ~19 |
 | Turquoise | 14.00% | ~19 |
 | Verse | 12.00% | ~16 |
+| The Droid | 11.00% | ~15 |
 | Iron | 11.00% | ~15 |
-| The Droid | 10.00% | ~13 |
 | Tested | 9.00% | ~12 |
 | The Bomber | 8.00% | ~11 |
 | The Astronaut | 7.00% | ~9 |
@@ -46,8 +46,8 @@
 | Power Overwhelming | 5.00% | ~7 |
 | The Exorcist | 5.00% | ~7 |
 | Mithril | 5.00% | ~7 |
+| Aluminum | 5.00% | ~7 |
 | Analyzed | 4.00% | ~5 |
-| Aluminum | 4.00% | ~5 |
 | Anvil | 4.00% | ~5 |
 | Combo Master | 3.00% | ~4 |
 | It's a Trap! | 3.00% | ~4 |

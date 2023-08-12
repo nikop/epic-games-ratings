@@ -63,13 +63,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Drillmaster | 0.80% | ~107 |
 | Legendary Cities | 0.80% | ~107 |
 | Just Difficulty | 0.80% | ~107 |
+| Sages | 0.80% | ~107 |
 | Learn to Play 2 | 0.80% | ~107 |
 | Egyptian Paganism | 0.80% | ~107 |
 | Mythology | 0.80% | ~107 |
 | Intercessor | 0.70% | ~94 |
 | Valiant | 0.70% | ~94 |
 | Champions | 0.70% | ~94 |
-| Sages | 0.70% | ~94 |
 | Acropolis | 0.70% | ~94 |
 | Mausoleum | 0.70% | ~94 |
 | Greece | 0.70% | ~94 |
@@ -82,6 +82,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Patrons | 0.60% | ~80 |
 | Statesmen | 0.60% | ~80 |
 | Traders | 0.60% | ~80 |
+| Temple of Solomon | 0.60% | ~80 |
 | Persian Paganism | 0.60% | ~80 |
 | Building Wonders | 0.60% | ~80 |
 | Phalangite | 0.60% | ~80 |
@@ -93,7 +94,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Circus Maximus | 0.50% | ~67 |
 | Hagia Sophia | 0.50% | ~67 |
 | Church of the Holy Sepulchre | 0.50% | ~67 |
-| Temple of Solomon | 0.50% | ~67 |
 | Pantheon | 0.50% | ~67 |
 | Via Recta Souk | 0.50% | ~67 |
 | Learn to Play 3 | 0.50% | ~67 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,370 (Ranked 117)  
+Progressed: 13,371 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -417,7 +417,7 @@ Completed: 5 (0.04%) (Ranked 223)
 | 2023-08-09 | 13,342 | 5 |
 | 2023-08-10 | 13,349 | 5 |
 | 2023-08-11 | 13,363 | 5 |
-| 2023-08-12 | 13,370 | 5 |
+| 2023-08-12 | 13,371 | 5 |
 ## Awards
 Max (Relaxing): 219  (Ranked 264)  
 Sum: 1,790 (Ranked 206)  

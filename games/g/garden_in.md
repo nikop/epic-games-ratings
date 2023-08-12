@@ -36,7 +36,7 @@
 | Weeds Have Feelings Too | 0.00% | ~0 |
 | Who's a Good Plant? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 192 (Ranked 289)  
+Progressed: 193 (Ranked 289)  
 Completed: 0 (0.00%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,6 +82,7 @@ Completed: 0 (0.00%) (Ranked 254)
 | 2023-07-25 | 190 | 0 |
 | 2023-07-29 | 191 | 0 |
 | 2023-08-11 | 192 | 0 |
+| 2023-08-12 | 193 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,9 +2,9 @@
   "ID": "abdc79e549e949708213288d680727a6",
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
-  "Ranking_EOS_Progress": 374,
-  "Ranking_EOS_Completed": 27,
-  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_Progress": 373,
+  "Ranking_EOS_Completed": 29,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -17,11 +17,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 41,
+  "EOS_Progressed": 42,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 9.76,
+  "EOS_Completed_Percentage": 9.52,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -242,6 +242,11 @@
       "Time": "2023-08-08T18:05:47.897753+00:00",
       "NumProgressed": 41,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-12T06:05:55.9210338+00:00",
+      "NumProgressed": 42,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 25,
@@ -251,7 +256,7 @@
       "ID": "END_BAD",
       "SetID": "2gma9an",
       "Name": "I did it",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 100,
       "UsersEstimate": 8
     },
@@ -259,7 +264,7 @@
       "ID": "END_GOOD",
       "SetID": "2gma9an",
       "Name": "In this together",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 200,
       "UsersEstimate": 6
     },
@@ -275,7 +280,7 @@
       "ID": "META_ALL_TERMINAL",
       "SetID": "2gma9an",
       "Name": "Cable guy",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 50,
       "UsersEstimate": 9
     },
@@ -283,7 +288,7 @@
       "ID": "META_FIRST_LINK",
       "SetID": "2gma9an",
       "Name": "A good beginning",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 20,
       "UsersEstimate": 9
     },
@@ -363,7 +368,7 @@
       "ID": "OPTIONNAL_GAMES",
       "SetID": "2gma9an",
       "Name": "True G4M3R",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -379,7 +384,7 @@
       "ID": "OPTIONNAL_WEAPONS",
       "SetID": "2gma9an",
       "Name": "Fashion victim",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -395,7 +400,7 @@
       "ID": "PROGRESS_FIRST_PAGE",
       "SetID": "2gma9an",
       "Name": "That\u0027s the spirit",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
       "UsersEstimate": 11
     },
@@ -452,13 +457,13 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 41,
+      "Progressed": 42,
       "Completed": 4
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-08-12T05:06:03.9842294+00:00",
+  "LastChanged_Achievements": "2023-08-12T06:05:55.9210335+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:00.7292273+00:00",
-  "LastUpdate_Ratings": "2023-08-12T05:00:32.498572+00:00",
-  "LastUpdate_Achievements": "2023-08-12T05:06:03.9842442+00:00"
+  "LastUpdate_Ratings": "2023-08-12T06:00:34.080743+00:00",
+  "LastUpdate_Achievements": "2023-08-12T06:05:55.9210479+00:00"
 }

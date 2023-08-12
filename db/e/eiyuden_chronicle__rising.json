@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 32,
-  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_NewPlayers": 284,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-05-10T16:51:00+00:00",
@@ -421,9 +421,9 @@
       "ID": "ACHIEVEMENT017",
       "SetID": "dejhjd5",
       "Name": "Adept, for an Acting Mayor",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 233
+      "UsersEstimate": 239
     },
     {
       "ID": "ACHIEVEMENT018",
@@ -501,9 +501,9 @@
       "ID": "ACHIEVEMENT027",
       "SetID": "dejhjd5",
       "Name": "Natural Born Monster-Killer",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 246
+      "UsersEstimate": 253
     },
     {
       "ID": "ACHIEVEMENT028",
@@ -701,8 +701,8 @@
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-06-30T09:59:54.3990333+00:00",
-  "LastChanged_Achievements": "2023-08-12T05:06:47.9385621+00:00",
+  "LastChanged_Achievements": "2023-08-12T06:06:32.4594725+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:58:18.6921361+00:00",
-  "LastUpdate_Ratings": "2023-08-12T04:57:00.7438044+00:00",
-  "LastUpdate_Achievements": "2023-08-12T05:06:47.9385965+00:00"
+  "LastUpdate_Ratings": "2023-08-12T05:57:27.1023896+00:00",
+  "LastUpdate_Achievements": "2023-08-12T06:06:32.4595084+00:00"
 }

@@ -2592,9 +2592,9 @@
       "ID": "ACHV_52",
       "SetID": "8p5mlmc",
       "Name": "Juiced Up",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 118
     },
     {
       "ID": "ACHV_53",
@@ -2649,8 +2649,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-08-11T22:58:17.9643661+00:00",
-  "LastChanged_Achievements": "2023-08-12T05:05:06.0178192+00:00",
-  "LastUpdate_AppInfo": "2023-08-05T04:57:30.8115902+00:00",
-  "LastUpdate_Ratings": "2023-08-12T04:57:44.8544419+00:00",
-  "LastUpdate_Achievements": "2023-08-12T05:05:06.0178662+00:00"
+  "LastChanged_Achievements": "2023-08-12T06:05:07.9937806+00:00",
+  "LastUpdate_AppInfo": "2023-08-12T05:57:03.0186923+00:00",
+  "LastUpdate_Ratings": "2023-08-12T05:58:08.2864358+00:00",
+  "LastUpdate_Achievements": "2023-08-12T06:05:07.9938302+00:00"
 }

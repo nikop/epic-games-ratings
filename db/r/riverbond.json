@@ -480,9 +480,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 524788,
+  "EOS_Progressed": 524789,
   "EOS_Completed": 457,
-  "EOS_NewPlayers": 629,
+  "EOS_NewPlayers": 628,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -12445,6 +12445,11 @@
       "Time": "2023-08-12T05:05:30.8925059+00:00",
       "NumProgressed": 524788,
       "NumCompleted": 457
+    },
+    {
+      "Time": "2023-08-12T06:05:28.4591023+00:00",
+      "NumProgressed": 524789,
+      "NumCompleted": 457
     }
   ],
   "TotalAchievements": 57,
@@ -12480,7 +12485,7 @@
       "Name": "Wind At Our Backs",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 115453
+      "UsersEstimate": 115454
     },
     {
       "ID": "13",
@@ -12488,7 +12493,7 @@
       "Name": "Keep On Trucking",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 68222
+      "UsersEstimate": 68223
     },
     {
       "ID": "14",
@@ -12832,7 +12837,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 241402
+      "UsersEstimate": 241403
     },
     {
       "ID": "53",
@@ -12911,15 +12916,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 524788,
+      "Progressed": 524789,
       "Completed": 457
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
-  "LastChanged_Achievements": "2023-08-12T05:05:30.8925052+00:00",
-  "LastUpdate_AppInfo": "2023-08-05T04:57:46.5047426+00:00",
-  "LastUpdate_Ratings": "2023-08-12T04:58:42.1423316+00:00",
-  "LastUpdate_Achievements": "2023-08-12T05:05:30.8926019+00:00"
+  "LastChanged_Achievements": "2023-08-12T06:05:28.4591019+00:00",
+  "LastUpdate_AppInfo": "2023-08-12T05:57:16.1872639+00:00",
+  "LastUpdate_Ratings": "2023-08-12T05:58:54.3399254+00:00",
+  "LastUpdate_Achievements": "2023-08-12T06:05:28.4592064+00:00"
 }

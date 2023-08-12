@@ -1599,7 +1599,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13370,
+  "EOS_Progressed": 13371,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
@@ -9524,6 +9524,11 @@
       "Time": "2023-08-12T05:04:37.2088282+00:00",
       "NumProgressed": 13370,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-12T06:04:44.2113658+00:00",
+      "NumProgressed": 13371,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -10421,9 +10426,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_SAGES",
       "SetID": "7l38kb8",
       "Name": "Sages",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 107
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_STATESMEN",
@@ -10917,9 +10922,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_JUDAISM",
       "SetID": "9201eeb",
       "Name": "Temple of Solomon",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 80
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_MANICHAEISM",
@@ -11902,21 +11907,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13370,
+      "Progressed": 13371,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13370,
+      "Progressed": 13371,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-12T03:59:31.9297462+00:00",
-  "LastChanged_Achievements": "2023-08-12T05:04:37.2088279+00:00",
+  "LastChanged_Achievements": "2023-08-12T06:04:44.2113653+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:46.1485999+00:00",
-  "LastUpdate_Ratings": "2023-08-12T04:59:18.1615333+00:00",
-  "LastUpdate_Achievements": "2023-08-12T05:04:37.2095596+00:00"
+  "LastUpdate_Ratings": "2023-08-12T05:59:30.888696+00:00",
+  "LastUpdate_Achievements": "2023-08-12T06:04:44.2120984+00:00"
 }
