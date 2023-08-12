@@ -4,7 +4,7 @@
   "ProductSlug": "rogue-spirit",
   "Ranking_EOS_Progress": 407,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewPlayers": 357,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-03-07T16:00:00+00:00",
@@ -544,8 +544,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2469383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:48.9680717+00:00",
   "LastChanged": "2023-03-31T05:58:07.2469384+00:00",
-  "LastChanged_Achievements": "2023-08-12T21:08:19.9843316+00:00",
+  "LastChanged_Achievements": "2023-08-12T22:07:52.4790421+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:54.712347+00:00",
-  "LastUpdate_Ratings": "2023-08-12T21:01:12.8350746+00:00",
-  "LastUpdate_Achievements": "2023-08-12T21:08:19.9843739+00:00"
+  "LastUpdate_Ratings": "2023-08-12T22:00:21.4405163+00:00",
+  "LastUpdate_Achievements": "2023-08-12T22:07:52.4791007+00:00"
 }

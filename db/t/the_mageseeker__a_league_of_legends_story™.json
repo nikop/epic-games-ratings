@@ -3451,9 +3451,9 @@
       "ID": "STB_DEFEAT_GAREN_II",
       "SetID": "3pe2bac",
       "Name": "My heart and sword always for Demacia",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 352
+      "UsersEstimate": 377
     },
     {
       "ID": "STB_DEFEAT_ICE_SALAMANDER_I",
@@ -3675,9 +3675,9 @@
       "ID": "STB_MISSION9_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Truth is a dark mirror",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 252
+      "UsersEstimate": 277
     },
     {
       "ID": "STB_PET_DOG",
@@ -3812,8 +3812,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-08-06T02:15:52.3932671+00:00",
-  "LastChanged_Achievements": "2023-08-12T21:06:10.1762546+00:00",
+  "LastChanged_Achievements": "2023-08-12T22:05:35.0686467+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:15.7737495+00:00",
-  "LastUpdate_Ratings": "2023-08-12T21:00:15.2464777+00:00",
-  "LastUpdate_Achievements": "2023-08-12T21:06:10.1763023+00:00"
+  "LastUpdate_Ratings": "2023-08-12T21:59:30.477664+00:00",
+  "LastUpdate_Achievements": "2023-08-12T22:05:35.0687168+00:00"
 }

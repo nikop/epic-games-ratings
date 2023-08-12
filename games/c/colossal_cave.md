@@ -11,7 +11,7 @@
 | Charmin' the Snake | 36.00% | ~32 |
 | Drums in the Deep | 22.00% | ~20 |
 | Treasure Seeker | 22.00% | ~20 |
-| Bridge Builder | 21.00% | ~19 |
+| Bridge Builder | 22.00% | ~20 |
 | Green Thumb Goliath | 15.00% | ~13 |
 | Take the Scenic Route | 13.00% | ~12 |
 | Treasure Hunter | 13.00% | ~12 |
@@ -29,7 +29,7 @@
 | Colossal Cave Explorer | 3.00% | ~3 |
 | Perfect 350 pt score | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89 (Ranked 330)  
+Progressed: 89 (Ranked 331)  
 Completed: 0 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |

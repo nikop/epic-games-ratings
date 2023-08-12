@@ -4,7 +4,7 @@
   "ProductSlug": "project-7477-c31d0b",
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewPlayers": 357,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-10T20:57:09.6977224+00:00",
-  "LastUpdate_Ratings": "2023-08-12T20:57:58.6790195+00:00",
-  "LastUpdate_Achievements": "2023-08-12T21:03:53.2195122+00:00"
+  "LastUpdate_Ratings": "2023-08-12T21:57:16.843739+00:00",
+  "LastUpdate_Achievements": "2023-08-12T22:03:16.555146+00:00"
 }

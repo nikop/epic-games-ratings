@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 831,
+  "EOS_Progressed": 832,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
@@ -1980,6 +1980,11 @@
       "Time": "2023-08-11T14:06:29.8594103+00:00",
       "NumProgressed": 831,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-12T22:06:40.036446+00:00",
+      "NumProgressed": 832,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -2095,7 +2100,7 @@
       "Name": "Factorywood Explorer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "FairgroundsChests1",
@@ -2365,9 +2370,9 @@
       "ID": "TimewinderMultiKill1",
       "SetID": "a9e499d",
       "Name": "Immaculate Aim",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 158
     },
     {
       "ID": "WarwickDefeated",
@@ -2391,7 +2396,7 @@
       "Name": "Good Neighbor",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "Zarkon1Defeated",
@@ -2414,7 +2419,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 831,
+      "Progressed": 832,
       "Completed": 5
     }
   ],
@@ -2422,8 +2427,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-08-12T21:07:08.6631563+00:00",
+  "LastChanged_Achievements": "2023-08-12T22:06:40.0364454+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:10.6633578+00:00",
-  "LastUpdate_Ratings": "2023-08-12T21:02:50.2700931+00:00",
-  "LastUpdate_Achievements": "2023-08-12T21:07:08.6632019+00:00"
+  "LastUpdate_Ratings": "2023-08-12T22:02:07.6728379+00:00",
+  "LastUpdate_Achievements": "2023-08-12T22:06:40.0365293+00:00"
 }

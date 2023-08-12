@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 707,
+  "EOS_Progressed": 708,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1531,6 +1531,11 @@
       "Time": "2023-08-12T19:10:19.1856473+00:00",
       "NumProgressed": 707,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-12T22:08:23.9321883+00:00",
+      "NumProgressed": 708,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1542,7 +1547,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -1582,7 +1587,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -1614,7 +1619,7 @@
       "Name": "Capraphobia",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -1822,7 +1827,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -1868,9 +1873,9 @@
       "ID": "KLACKEY_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "End the Infestation",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 42
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_3",
@@ -1910,7 +1915,7 @@
       "Name": "1, 2, 3! Grandma!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "MARY_ACHIEVEMENT_1",
@@ -1918,7 +1923,7 @@
       "Name": "Hostage of the Elderly",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -2069,14 +2074,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 707,
+      "Progressed": 708,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-08-12T21:08:42.8213568+00:00",
+  "LastChanged_Achievements": "2023-08-12T22:08:23.9321876+00:00",
   "LastUpdate_AppInfo": "2023-08-10T15:57:09.1792695+00:00",
-  "LastUpdate_Ratings": "2023-08-12T20:59:00.1979133+00:00",
-  "LastUpdate_Achievements": "2023-08-12T21:08:42.8214138+00:00"
+  "LastUpdate_Ratings": "2023-08-12T21:58:16.5303867+00:00",
+  "LastUpdate_Achievements": "2023-08-12T22:08:23.9322695+00:00"
 }

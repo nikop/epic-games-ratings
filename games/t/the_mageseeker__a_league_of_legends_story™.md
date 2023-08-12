@@ -37,22 +37,22 @@ Rating: 4.82 (Ranked 66)
 | Whispers in the Woods III | 16.00% | ~402 |
 | No more holding back | 16.00% | ~402 |
 | Terbisia | 16.00% | ~402 |
+| My heart and sword always for Demacia | 15.00% | ~377 |
 | Friendly fire | 15.00% | ~377 |
 | True power | 15.00% | ~377 |
 | Meltridge | 15.00% | ~377 |
 | The Central Headquarters | 15.00% | ~377 |
 | Cloven Dell Headquarters | 15.00% | ~377 |
-| My heart and sword always for Demacia | 14.00% | ~352 |
 | Embrace the darkness | 12.00% | ~302 |
 | Whispers in the Woods IV | 12.00% | ~302 |
 | I smell fear | 12.00% | ~302 |
 | The end of the experiments | 11.00% | ~277 |
 | The Great City of Demacia | 11.00% | ~277 |
+| Truth is a dark mirror | 11.00% | ~277 |
 | Back to sleep, then... | 11.00% | ~277 |
 | Call it 'redistribution of magic | 11.00% | ~277 |
 | Do you trust me? | 10.00% | ~252 |
 | Chains master | 10.00% | ~252 |
-| Truth is a dark mirror | 10.00% | ~252 |
 | You can pet the... horse | 10.00% | ~252 |
 | The great mage rebellion starts now | 9.00% | ~226 |
 | Spellcrafting | 9.00% | ~226 |

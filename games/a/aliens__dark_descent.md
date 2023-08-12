@@ -34,10 +34,10 @@ Rating: 4.47 (Ranked 607)
 | El Riesgo Siempre Vive | 22.00% | ~692 |
 | One For Every Occasion | 19.00% | ~598 |
 | Frontliner | 19.00% | ~598 |
+| The Cable Guy | 19.00% | ~598 |
 | Excavating The Truth | 19.00% | ~598 |
 | Abysmal Horrors | 19.00% | ~598 |
-| The Cable Guy | 18.00% | ~566 |
-| Bandage Lover | 17.00% | ~535 |
+| Bandage Lover | 18.00% | ~566 |
 | Regicide | 14.00% | ~440 |
 | Flawless Victory | 12.00% | ~377 |
 | This Went Smoothly | 12.00% | ~377 |

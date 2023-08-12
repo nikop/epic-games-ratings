@@ -6,30 +6,30 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~224,838 |
-| Uncharted Territory | 89.00% | ~208,443 |
-| Getting A Glimpse | 73.00% | ~170,970 |
-| A Quick Escape | 65.00% | ~152,234 |
+| First Steps | 96.00% | ~224,839 |
+| Uncharted Territory | 89.00% | ~208,444 |
+| Getting A Glimpse | 73.00% | ~170,971 |
+| A Quick Escape | 65.00% | ~152,235 |
 | Explorer | 62.00% | ~145,208 |
 | Defeat The Dark | 61.00% | ~142,866 |
 | An Offering | 61.00% | ~142,866 |
-| Colorful Corpse | 58.00% | ~135,839 |
-| That Was Quick | 56.00% | ~131,155 |
-| A Donation | 56.00% | ~131,155 |
-| Goodbye, Frog Friend | 54.00% | ~126,471 |
-| Heavy Hitter | 53.00% | ~124,129 |
+| Colorful Corpse | 58.00% | ~135,840 |
+| That Was Quick | 56.00% | ~131,156 |
+| A Donation | 56.00% | ~131,156 |
+| Goodbye, Frog Friend | 54.00% | ~126,472 |
+| Heavy Hitter | 53.00% | ~124,130 |
 | Heartless | 46.00% | ~107,735 |
 | Spine Breaker | 46.00% | ~107,735 |
 | Deflection | 45.00% | ~105,393 |
 | Sneaky | 43.00% | ~100,709 |
 | Delving Deeper | 42.00% | ~98,367 |
 | C-C-Combo | 42.00% | ~98,367 |
-| Ambitious Intent | 41.00% | ~96,024 |
-| Nothing To Lose | 40.00% | ~93,682 |
-| The Bestiary | 40.00% | ~93,682 |
-| What's Yours Is Mine | 38.00% | ~88,998 |
-| R.I.P | 36.00% | ~84,314 |
-| Shootout | 36.00% | ~84,314 |
+| Ambitious Intent | 41.00% | ~96,025 |
+| Nothing To Lose | 40.00% | ~93,683 |
+| The Bestiary | 40.00% | ~93,683 |
+| What's Yours Is Mine | 38.00% | ~88,999 |
+| R.I.P | 36.00% | ~84,315 |
+| Shootout | 36.00% | ~84,315 |
 | I Am Overburdened | 35.00% | ~81,972 |
 | Cold Hearted | 34.00% | ~79,630 |
 | Dig Your Own Grave | 33.00% | ~77,288 |
@@ -64,13 +64,13 @@ Number of Ratings: 15,086  (23.09.2022)
 | Thank You, Friend | 11.00% | ~25,763 |
 | Barbecue | 10.00% | ~23,421 |
 | Snake Sneak | 9.00% | ~21,079 |
-| Challenge Increases | 8.00% | ~18,736 |
-| New Game+ | 8.00% | ~18,736 |
-| Clearing The Room | 8.00% | ~18,736 |
-| Decisions, Decisions | 8.00% | ~18,736 |
-| Fragile Mortality | 8.00% | ~18,736 |
-| Defuser | 8.00% | ~18,736 |
-| Precious | 8.00% | ~18,736 |
+| Challenge Increases | 8.00% | ~18,737 |
+| New Game+ | 8.00% | ~18,737 |
+| Clearing The Room | 8.00% | ~18,737 |
+| Decisions, Decisions | 8.00% | ~18,737 |
+| Fragile Mortality | 8.00% | ~18,737 |
+| Defuser | 8.00% | ~18,737 |
+| Precious | 8.00% | ~18,737 |
 | Friend of Vermin | 7.00% | ~16,394 |
 | Juggernaut | 7.00% | ~16,394 |
 | Gigantic | 7.00% | ~16,394 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Never Too Many Hats | 0.40% | ~937 |
 | Near Death Experience | 0.30% | ~703 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 234,206 (Ranked 49)  
+Progressed: 234,207 (Ranked 49)  
 Completed: 259 (0.11%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,10 +243,10 @@ Completed: 259 (0.11%) (Ranked 199)
 | 2023-08-09 | 234,070 | 259 |
 | 2023-08-10 | 234,109 | 259 |
 | 2023-08-11 | 234,161 | 259 |
-| 2023-08-12 | 234,206 | 259 |
+| 2023-08-12 | 234,207 | 259 |
 ## Awards
 Max (Quickly Understood Controls): 1,488  (Ranked 121)  
-Sum: 11,520 (Ranked 79)  
+Sum: 11,521 (Ranked 79)  
 Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
@@ -260,7 +260,7 @@ Diff (max vs sum): 42
 | This game has Amazing Characters | 1,212 |
 | This game has Unique Visuals | 1,201 |
 | This game has Obsessive Gameplay | 1,088 |
-| This game has a Creative Community | 731 |
+| This game has a Creative Community | 732 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -398,4 +398,4 @@ Diff (max vs sum): 42
 | 2023-08-05 | 4.58 | - | 1,487 | 11,516 |
 | 2023-08-09 | 4.58 | - | 1,487 | 11,518 |
 | 2023-08-11 | 4.58 | - | 1,488 | 11,519 |
-| 2023-08-12 | 4.58 | - | 1,488 | 11,520 |
+| 2023-08-12 | 4.58 | - | 1,488 | 11,521 |

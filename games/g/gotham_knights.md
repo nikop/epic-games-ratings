@@ -6,12 +6,12 @@ Rating: 4.18 (Ranked 868)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 7.00% | ~4,745 |
-| Har, Har, Har, Very Funny | 5.00% | ~3,389 |
-| Loose Ends | 5.00% | ~3,389 |
-| To the Victor Go the Spoils | 4.00% | ~2,711 |
-| Get ReQ'd | 4.00% | ~2,711 |
-| Knighthood | 4.00% | ~2,711 |
-| Whispered Words | 4.00% | ~2,711 |
+| Har, Har, Har, Very Funny | 5.00% | ~3,390 |
+| Loose Ends | 5.00% | ~3,390 |
+| To the Victor Go the Spoils | 4.00% | ~2,712 |
+| Get ReQ'd | 4.00% | ~2,712 |
+| Knighthood | 4.00% | ~2,712 |
+| Whispered Words | 4.00% | ~2,712 |
 | The Batman Family | 3.00% | ~2,034 |
 | Protector of Gotham | 3.00% | ~2,034 |
 | Something in the Clay | 3.00% | ~2,034 |
@@ -37,11 +37,11 @@ Rating: 4.18 (Ranked 868)
 | Seeking Asylum | 2.00% | ~1,356 |
 | Gotham Knight | 2.00% | ~1,356 |
 | Gotham City Confidential | 2.00% | ~1,356 |
+| Solid Alibi | 2.00% | ~1,356 |
 | Fusion Expert | 1.00% | ~678 |
 | Expert Crime Fighter | 1.00% | ~678 |
 | Family Meeting | 1.00% | ~678 |
 | A Worthy Successor | 1.00% | ~678 |
-| Solid Alibi | 1.00% | ~678 |
 | Dressed to Impress | 0.90% | ~610 |
 | A Momentum Occasion | 0.70% | ~475 |
 | Bat Out of Hell | 0.60% | ~407 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 868)
 | Read Owl About It | 0.10% | ~68 |
 | History Major | 0.10% | ~68 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,787 (Ranked 80)  
+Progressed: 67,790 (Ranked 80)  
 Completed: 106 (0.16%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 106 (0.16%) (Ranked 187)
 | 2023-08-09 | 67,726 | 106 |
 | 2023-08-10 | 67,741 | 106 |
 | 2023-08-11 | 67,760 | 106 |
-| 2023-08-12 | 67,787 | 106 |
+| 2023-08-12 | 67,790 | 106 |
 ## Awards
 Max (Great Boss Battles): 2,489  (Ranked 100)  
 Sum: 4,140 (Ranked 140)  

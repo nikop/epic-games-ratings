@@ -12,7 +12,7 @@
 | The City | 13.00% | ~96 |
 | Terminated II | 13.00% | ~96 |
 | Challenge Mastered | 11.00% | ~81 |
-| Terminated III | 10.00% | ~74 |
+| Terminated III | 11.00% | ~81 |
 | Nanonic II | 9.00% | ~66 |
 | Starship Docks | 7.00% | ~52 |
 | Supply Run | 7.00% | ~52 |
@@ -21,8 +21,8 @@
 | Cybernetic | 5.00% | ~37 |
 | Fully Modded | 5.00% | ~37 |
 | Rookie | 5.00% | ~37 |
+| Up Close And Personal | 5.00% | ~37 |
 | Eden Heights | 4.00% | ~29 |
-| Up Close And Personal | 4.00% | ~29 |
 | Inner Core | 3.00% | ~22 |
 | Integration | 3.00% | ~22 |
 | Outer Core | 3.00% | ~22 |

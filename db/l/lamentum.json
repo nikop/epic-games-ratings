@@ -338,9 +338,9 @@
       "ID": "achievement_02",
       "SetID": "7881h0d",
       "Name": "Ritual",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 28
+      "UsersEstimate": 32
     },
     {
       "ID": "achievement_03",
@@ -483,8 +483,8 @@
   "FirstSeenRating": "2022-10-04T02:32:44.3620857+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.4947982+00:00",
   "LastChanged": "2023-03-31T05:57:59.5947046+00:00",
-  "LastChanged_Achievements": "2023-08-12T21:09:15.306748+00:00",
+  "LastChanged_Achievements": "2023-08-12T22:09:05.6907272+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:27.9156995+00:00",
-  "LastUpdate_Ratings": "2023-08-12T21:00:32.6641554+00:00",
-  "LastUpdate_Achievements": "2023-08-12T21:09:15.3067594+00:00"
+  "LastUpdate_Ratings": "2023-08-12T21:59:49.2558349+00:00",
+  "LastUpdate_Achievements": "2023-08-12T22:09:05.6907432+00:00"
 }

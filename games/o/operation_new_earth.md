@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's Good to have Allies | 34.00% | ~297 |
+| It's Good to have Allies | 34.00% | ~298 |
 | Defenses Online | 30.00% | ~262 |
-| Facility Online | 26.00% | ~227 |
-| Corporal | 18.00% | ~157 |
+| Facility Online | 26.00% | ~228 |
+| Corporal | 18.00% | ~158 |
 | Covert Operative | 15.00% | ~131 |
-| Sergeant | 14.00% | ~122 |
+| Sergeant | 14.00% | ~123 |
 | Lieutenant | 11.00% | ~96 |
 | Getting Deployment | 11.00% | ~96 |
 | Stocking Up | 11.00% | ~96 |
 | On Target | 11.00% | ~96 |
-| Keeping Busy | 10.00% | ~87 |
-| Infantry Reporting | 10.00% | ~87 |
+| Keeping Busy | 10.00% | ~88 |
+| Infantry Reporting | 10.00% | ~88 |
 | Fighting for Survival | 9.00% | ~79 |
 | Silver Competitor | 8.00% | ~70 |
 | Exterminator | 7.00% | ~61 |
@@ -28,11 +28,11 @@
 | Gold Achiever | 3.00% | ~26 |
 | Silver Achiever | 3.00% | ~26 |
 | Major | 3.00% | ~26 |
-| Advanced Warfare | 2.00% | ~17 |
-| Colonel | 2.00% | ~17 |
-| Resourceful | 2.00% | ~17 |
-| Battle Ready | 2.00% | ~17 |
-| Control the Skies | 2.00% | ~17 |
+| Advanced Warfare | 2.00% | ~18 |
+| Colonel | 2.00% | ~18 |
+| Resourceful | 2.00% | ~18 |
+| Battle Ready | 2.00% | ~18 |
+| Control the Skies | 2.00% | ~18 |
 | General | 1.00% | ~9 |
 | Seek & Destroy | 1.00% | ~9 |
 | Titan Tanks | 1.00% | ~9 |
@@ -43,7 +43,7 @@
 | Platinum Achiever | 0.00% | ~0 |
 | Platinum Competitor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 874 (Ranked 201)  
+Progressed: 875 (Ranked 201)  
 Completed: 0 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,4 +108,4 @@ Completed: 0 (0.00%) (Ranked 255)
 | 2023-08-09 | 846 | 0 |
 | 2023-08-10 | 856 | 0 |
 | 2023-08-11 | 863 | 0 |
-| 2023-08-12 | 874 | 0 |
+| 2023-08-12 | 875 | 0 |

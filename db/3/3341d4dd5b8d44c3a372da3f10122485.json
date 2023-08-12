@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 346,
   "Ranking_EOS_Completed": 1,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 18,
+  "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2005-12-08T12:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 70,
-  "EOS_Completed": 31,
+  "EOS_Completed": 32,
   "EOS_NewPlayers": 24,
-  "EOS_NewCompleters": 9,
-  "EOS_Completed_Percentage": 44.29,
+  "EOS_NewCompleters": 10,
+  "EOS_Completed_Percentage": 45.71,
   "EosHistory": [
     {
       "Time": "2023-06-30T19:02:26.4579198+00:00",
@@ -481,6 +481,11 @@
       "Time": "2023-08-12T18:04:46.3771327+00:00",
       "NumProgressed": 70,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-08-12T22:03:35.6662668+00:00",
+      "NumProgressed": 70,
+      "NumCompleted": 32
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.1574321+00:00",
@@ -523,9 +528,9 @@
       "ID": "Konec",
       "SetID": "823jm6g",
       "Name": "Happy End",
-      "Percentage": 47,
+      "Percentage": 49,
       "XP": 75,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "Les",
@@ -539,9 +544,9 @@
       "ID": "Majak",
       "SetID": "823jm6g",
       "Name": "Lighthouse",
-      "Percentage": 47,
+      "Percentage": 49,
       "XP": 75,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "Nora",
@@ -587,9 +592,9 @@
       "ID": "Tuleni",
       "SetID": "823jm6g",
       "Name": "Seal Peaks",
-      "Percentage": 54,
+      "Percentage": 56,
       "XP": 75,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     }
   ],
   "AchievementSets": [
@@ -597,13 +602,13 @@
       "ID": "823jm6g",
       "IsBase": true,
       "Progressed": 70,
-      "Completed": 31
+      "Completed": 32
     }
   ],
   "FirstSeen": "2023-07-09T20:57:11.2117927+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2023-08-12T21:04:06.5019152+00:00",
+  "LastChanged_Achievements": "2023-08-12T22:03:35.6662661+00:00",
   "LastUpdate_AppInfo": "2023-08-11T16:57:04.3242368+00:00",
-  "LastUpdate_Ratings": "2023-08-12T20:59:01.0362564+00:00",
-  "LastUpdate_Achievements": "2023-08-12T21:04:06.501925+00:00"
+  "LastUpdate_Ratings": "2023-08-12T21:58:17.8813879+00:00",
+  "LastUpdate_Achievements": "2023-08-12T22:03:35.6662822+00:00"
 }

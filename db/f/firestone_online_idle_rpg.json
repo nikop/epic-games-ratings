@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -5314,9 +5314,9 @@
       "ID": "sailor",
       "SetID": "3nl4bcg",
       "Name": "Sailor",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 90
+      "UsersEstimate": 108
     },
     {
       "ID": "scientist",
@@ -5507,8 +5507,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-08-10T20:59:32.9674394+00:00",
-  "LastChanged_Achievements": "2023-08-12T20:06:55.2875706+00:00",
+  "LastChanged_Achievements": "2023-08-12T22:06:23.533544+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:43.3889946+00:00",
-  "LastUpdate_Ratings": "2023-08-12T21:00:55.226726+00:00",
-  "LastUpdate_Achievements": "2023-08-12T21:06:37.0808779+00:00"
+  "LastUpdate_Ratings": "2023-08-12T22:00:06.6585582+00:00",
+  "LastUpdate_Achievements": "2023-08-12T22:06:23.5337332+00:00"
 }

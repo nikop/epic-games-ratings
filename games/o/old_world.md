@@ -73,6 +73,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Champions | 0.70% | ~94 |
 | Mausoleum | 0.70% | ~94 |
 | Greece | 0.70% | ~94 |
+| Building Wonders | 0.70% | ~94 |
 | Points Victory | 0.70% | ~94 |
 | Hanging Gardens in Babylon | 0.60% | ~80 |
 | Beloved | 0.60% | ~80 |
@@ -85,7 +86,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Traders | 0.60% | ~80 |
 | Temple of Solomon | 0.60% | ~80 |
 | Persian Paganism | 0.60% | ~80 |
-| Building Wonders | 0.60% | ~80 |
 | Phalangite | 0.60% | ~80 |
 | Invincible | 0.50% | ~67 |
 | Lion | 0.50% | ~67 |

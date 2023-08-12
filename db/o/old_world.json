@@ -11487,9 +11487,9 @@
       "ID": "ACHIEVEMENT_STAT_SEVEN_WONDERS",
       "SetID": "9201eeb",
       "Name": "Building Wonders",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 80
+      "UsersEstimate": 94
     },
     {
       "ID": "ACHIEVEMENT_STAT_TEN_CITIES_CAPTURED",
@@ -11965,8 +11965,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-12T03:59:31.9297462+00:00",
-  "LastChanged_Achievements": "2023-08-12T21:06:05.6014479+00:00",
+  "LastChanged_Achievements": "2023-08-12T22:05:29.0024578+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:38.1291138+00:00",
-  "LastUpdate_Ratings": "2023-08-12T21:00:49.7112139+00:00",
-  "LastUpdate_Achievements": "2023-08-12T21:06:05.6021501+00:00"
+  "LastUpdate_Ratings": "2023-08-12T22:00:01.7952738+00:00",
+  "LastUpdate_Achievements": "2023-08-12T22:05:29.0042313+00:00"
 }

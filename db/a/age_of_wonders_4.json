@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 508,
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -300,9 +300,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5107,
+  "EOS_Progressed": 5108,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5750,6 +5750,11 @@
       "Time": "2023-08-12T19:08:51.4954428+00:00",
       "NumProgressed": 5107,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-12T22:07:02.3262375+00:00",
+      "NumProgressed": 5108,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 50,
@@ -6103,9 +6108,9 @@
       "ID": "9",
       "SetID": "3aa2279",
       "Name": "I\u0027ll Fight You All",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 10
     },
     {
       "ID": "45",
@@ -6160,13 +6165,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5107,
+      "Progressed": 5108,
       "Completed": 4761
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5107,
+      "Progressed": 5108,
       "Completed": 5
     }
   ],
@@ -6174,8 +6179,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-08-12T16:02:18.9567483+00:00",
-  "LastChanged_Achievements": "2023-08-12T21:07:23.8570179+00:00",
+  "LastChanged_Achievements": "2023-08-12T22:07:02.3262369+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:11.8097072+00:00",
-  "LastUpdate_Ratings": "2023-08-12T21:02:53.4009092+00:00",
-  "LastUpdate_Achievements": "2023-08-12T21:07:23.8570765+00:00"
+  "LastUpdate_Ratings": "2023-08-12T22:02:08.4609558+00:00",
+  "LastUpdate_Achievements": "2023-08-12T22:07:02.3263726+00:00"
 }

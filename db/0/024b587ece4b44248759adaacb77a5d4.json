@@ -4,7 +4,7 @@
   "ProductSlug": "liberte-96a5e5",
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewPlayers": 357,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-07-03T11:30:00+00:00",
@@ -18,6 +18,8 @@
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 0,
   "EOS_Completed": 0,
@@ -29,7 +31,8 @@
   "TotalAchievementsXP": 0,
   "Achievements": [],
   "AchievementSets": [],
+  "FirstSeen": "2023-08-12T21:58:24.2083387+00:00",
   "LastUpdate_AppInfo": "2023-08-07T15:57:00.7940377+00:00",
-  "LastUpdate_Ratings": "2023-08-12T20:59:04.2100741+00:00",
-  "LastUpdate_Achievements": "2023-08-12T21:04:21.6158816+00:00"
+  "LastUpdate_Ratings": "2023-08-12T21:58:24.2083431+00:00",
+  "LastUpdate_Achievements": "2023-08-12T22:03:57.7822017+00:00"
 }

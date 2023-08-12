@@ -54,9 +54,9 @@ Rating: 4.05 (Ranked 920)
 | How Do You Turn This On? | 6.00% | ~108 |
 | Lock And Load | 6.00% | ~108 |
 | Missions Dedication | 6.00% | ~108 |
+| Sailor | 6.00% | ~108 |
 | Active Member | 5.00% | ~90 |
 | Background Story | 5.00% | ~90 |
-| Sailor | 5.00% | ~90 |
 | The Alchemist | 5.00% | ~90 |
 | Arena Challenger | 4.00% | ~72 |
 | Ebony Jungle Liberator | 4.00% | ~72 |

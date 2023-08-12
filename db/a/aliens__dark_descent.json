@@ -3868,9 +3868,9 @@
       "ID": "ACH_MAX_MEDIC",
       "SetID": "816efe",
       "Name": "Bandage Lover",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 535
+      "UsersEstimate": 566
     },
     {
       "ID": "ACH_MAX_RECON",
@@ -3892,9 +3892,9 @@
       "ID": "ACH_MAX_TECKER",
       "SetID": "816efe",
       "Name": "The Cable Guy",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 566
+      "UsersEstimate": 598
     },
     {
       "ID": "ACH_MISSION_01",
@@ -4077,8 +4077,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-08-12T16:02:17.3263643+00:00",
-  "LastChanged_Achievements": "2023-08-12T21:05:45.7794955+00:00",
+  "LastChanged_Achievements": "2023-08-12T22:05:14.8819258+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:11.0569937+00:00",
-  "LastUpdate_Ratings": "2023-08-12T21:02:52.1412294+00:00",
-  "LastUpdate_Achievements": "2023-08-12T21:05:45.7795328+00:00"
+  "LastUpdate_Ratings": "2023-08-12T22:02:06.7402464+00:00",
+  "LastUpdate_Achievements": "2023-08-12T22:05:14.8820067+00:00"
 }

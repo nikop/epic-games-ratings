@@ -6,18 +6,18 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 10.00% | ~21,114 |
+| Sowwy! | 10.00% | ~21,118 |
+| Where's that freaking Dwarf? | 0.60% | ~1,267 |
 | Alt+F4 | 0.60% | ~1,267 |
-| Where's that freaking Dwarf? | 0.50% | ~1,056 |
+| Déjà vu | 0.50% | ~1,056 |
 | Sock! SOCK! | 0.50% | ~1,056 |
-| Déjà vu | 0.40% | ~845 |
-| Way of the Wimp | 0.30% | ~633 |
-| A beer, two curses, three companions | 0.30% | ~633 |
-| %#*!$*! | 0.30% | ~633 |
-| GG EZ | 0.30% | ~633 |
-| DM intervention | 0.30% | ~633 |
-| Speedrun | 0.30% | ~633 |
-| Fireproof Wizardess | 0.30% | ~633 |
+| Way of the Wimp | 0.30% | ~634 |
+| A beer, two curses, three companions | 0.30% | ~634 |
+| %#*!$*! | 0.30% | ~634 |
+| GG EZ | 0.30% | ~634 |
+| DM intervention | 0.30% | ~634 |
+| Speedrun | 0.30% | ~634 |
+| Fireproof Wizardess | 0.30% | ~634 |
 | Livin' in a dwarven paradise | 0.20% | ~422 |
 | Shiny and Crôm | 0.20% | ~422 |
 | The plot thickens... At the tavern | 0.20% | ~422 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Sleep schedule mastery | 0.00% | ~0 |
 | Dumb and dumber | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 211,141 (Ranked 56)  
+Progressed: 211,175 (Ranked 56)  
 Completed: 1 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,7 +168,7 @@ Completed: 1 (0.00%) (Ranked 255)
 | 2023-08-09 | 209,549 | 0 |
 | 2023-08-10 | 210,011 | 0 |
 | 2023-08-11 | 210,534 | 1 |
-| 2023-08-12 | 211,141 | 1 |
+| 2023-08-12 | 211,175 | 1 |
 ## Awards
 Max (Character Customization): 160  (Ranked 292)  
 Sum: 180 (Ranked 377)  

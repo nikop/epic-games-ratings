@@ -6333,9 +6333,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 58745,
+  "EOS_Progressed": 58746,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 478,
+  "EOS_NewPlayers": 473,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18368,6 +18368,11 @@
       "Time": "2023-08-12T21:06:06.2160241+00:00",
       "NumProgressed": 58745,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-12T22:05:29.5261936+00:00",
+      "NumProgressed": 58746,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -18603,7 +18608,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 18798
+      "UsersEstimate": 18799
     },
     {
       "ID": "Lawbringer",
@@ -18723,7 +18728,7 @@
       "Name": "Swordbearer",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 5874
+      "UsersEstimate": 5875
     },
     {
       "ID": "The king is pleased",
@@ -18739,7 +18744,7 @@
       "Name": "This Is Our Land",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 5874
+      "UsersEstimate": 5875
     },
     {
       "ID": "This is Sparta",
@@ -18786,15 +18791,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 58745,
+      "Progressed": 58746,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-08-12T11:00:31.192341+00:00",
-  "LastChanged_Achievements": "2023-08-12T21:06:06.2160238+00:00",
+  "LastChanged_Achievements": "2023-08-12T22:05:29.526193+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:44.6335832+00:00",
-  "LastUpdate_Ratings": "2023-08-12T21:03:23.1469351+00:00",
-  "LastUpdate_Achievements": "2023-08-12T21:06:06.2161227+00:00"
+  "LastUpdate_Ratings": "2023-08-12T22:02:39.1935251+00:00",
+  "LastUpdate_Achievements": "2023-08-12T22:05:29.5264812+00:00"
 }

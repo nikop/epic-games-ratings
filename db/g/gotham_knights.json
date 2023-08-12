@@ -2378,9 +2378,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 67787,
+  "EOS_Progressed": 67790,
   "EOS_Completed": 106,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 150,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -12233,6 +12233,11 @@
       "Time": "2023-08-12T20:08:15.7312453+00:00",
       "NumProgressed": 67787,
       "NumCompleted": 106
+    },
+    {
+      "Time": "2023-08-12T22:07:35.0899335+00:00",
+      "NumProgressed": 67790,
+      "NumCompleted": 106
     }
   ],
   "TotalAchievements": 61,
@@ -12468,7 +12473,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2711
+      "UsersEstimate": 2712
     },
     {
       "ID": "FREEZE_1_5",
@@ -12548,7 +12553,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 3389
+      "UsersEstimate": 3390
     },
     {
       "ID": "HARLEY_2",
@@ -12556,7 +12561,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2711
+      "UsersEstimate": 2712
     },
     {
       "ID": "HARLEY_3",
@@ -12620,7 +12625,7 @@
       "Name": "Knighthood",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2711
+      "UsersEstimate": 2712
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -12636,7 +12641,7 @@
       "Name": "Loose Ends",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 3389
+      "UsersEstimate": 3390
     },
     {
       "ID": "MYSTERY_02",
@@ -12644,7 +12649,7 @@
       "Name": "Whispered Words",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2711
+      "UsersEstimate": 2712
     },
     {
       "ID": "MYSTERY_03",
@@ -12706,9 +12711,9 @@
       "ID": "SECRET_IDENTITY",
       "SetID": "4eo5ebm",
       "Name": "Solid Alibi",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 678
+      "UsersEstimate": 1356
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -12731,13 +12736,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 67787,
+      "Progressed": 67790,
       "Completed": 106
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 38067,
+      "Progressed": 38070,
       "Completed": 2657
     }
   ],
@@ -12745,8 +12750,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-08-12T18:03:58.0692241+00:00",
-  "LastChanged_Achievements": "2023-08-12T21:08:07.2516154+00:00",
+  "LastChanged_Achievements": "2023-08-12T22:07:35.089933+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:49.7416919+00:00",
-  "LastUpdate_Ratings": "2023-08-12T21:03:29.4233145+00:00",
-  "LastUpdate_Achievements": "2023-08-12T21:08:07.2517761+00:00"
+  "LastUpdate_Ratings": "2023-08-12T22:02:47.2078807+00:00",
+  "LastUpdate_Achievements": "2023-08-12T22:07:35.0900584+00:00"
 }
