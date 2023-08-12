@@ -26,9 +26,9 @@ Number of Ratings: 38  (23.09.2022)
 | Perfect timing | 9.00% | ~125 |
 | Self-sustainability | 8.00% | ~111 |
 | Ain't no mountain high enough | 8.00% | ~111 |
+| An eye for an eye | 6.00% | ~83 |
 | Can't get wetter... | 5.00% | ~70 |
 | Spring cleaning | 5.00% | ~70 |
-| An eye for an eye | 5.00% | ~70 |
 | Second thoughts | 4.00% | ~56 |
 | Mooning the moon | 4.00% | ~56 |
 | Strip-a-bobble | 4.00% | ~56 |

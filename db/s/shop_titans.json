@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 35,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -5492,10 +5492,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27085,
       "NumberOfAwardsMax": 4698
+    },
+    {
+      "Time": "2023-08-12T15:00:18.0801605+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27086,
+      "NumberOfAwardsMax": 4698
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27085,
+  "NumberOfAwards": 27086,
   "NumberOfAwardsMax": 4698,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5527,7 +5533,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 3983
+      "Count": 3984
     },
     {
       "Text": "This game is Relaxing",
@@ -5548,9 +5554,9 @@
       "Count": 3734
     }
   ],
-  "EOS_Progressed": 134383,
+  "EOS_Progressed": 134386,
   "EOS_Completed": 132,
-  "EOS_NewPlayers": 457,
+  "EOS_NewPlayers": 455,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -17193,6 +17199,11 @@
       "Time": "2023-08-12T14:05:38.2482391+00:00",
       "NumProgressed": 134383,
       "NumCompleted": 132
+    },
+    {
+      "Time": "2023-08-12T15:05:24.9354227+00:00",
+      "NumProgressed": 134386,
+      "NumCompleted": 132
     }
   ],
   "TotalAchievements": 112,
@@ -17474,9 +17485,9 @@
       "ID": "craft02",
       "SetID": "anfd17p",
       "Name": "Flooding the Market",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 403
+      "UsersEstimate": 538
     },
     {
       "ID": "craft03",
@@ -17954,9 +17965,9 @@
       "ID": "rareres02",
       "SetID": "anfd17p",
       "Name": "Treasure Trove",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 269
     },
     {
       "ID": "rareres03",
@@ -18099,15 +18110,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 134383,
+      "Progressed": 134386,
       "Completed": 132
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-08-12T14:00:14.8890668+00:00",
-  "LastChanged_Achievements": "2023-08-12T14:05:38.2482384+00:00",
+  "LastChanged": "2023-08-12T15:00:18.0801604+00:00",
+  "LastChanged_Achievements": "2023-08-12T15:05:24.9354219+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:13.9096409+00:00",
-  "LastUpdate_Ratings": "2023-08-12T14:00:14.8890679+00:00",
-  "LastUpdate_Achievements": "2023-08-12T14:05:38.2484751+00:00"
+  "LastUpdate_Ratings": "2023-08-12T15:00:18.0801612+00:00",
+  "LastUpdate_Achievements": "2023-08-12T15:05:24.9356762+00:00"
 }

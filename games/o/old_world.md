@@ -116,6 +116,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Devout | 0.40% | ~54 |
 | Ready | 0.40% | ~54 |
 | Strong Difficulty | 0.40% | ~54 |
+| Clerics | 0.40% | ~54 |
 | Hunters | 0.40% | ~54 |
 | Landowners | 0.40% | ~54 |
 | Adur Burzen-Mihr | 0.40% | ~54 |
@@ -131,7 +132,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Old | 0.30% | ~40 |
 | Peacemaker | 0.30% | ~40 |
 | Noble Difficulty | 0.30% | ~40 |
-| Clerics | 0.30% | ~40 |
 | Learn to Play 4 | 0.30% | ~40 |
 | Egypt | 0.30% | ~40 |
 | Rome | 0.30% | ~40 |

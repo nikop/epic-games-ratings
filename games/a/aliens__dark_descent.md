@@ -10,7 +10,7 @@ Rating: 4.46 (Ranked 618)
 | Keep 'Em Coming | 74.00% | ~2,326 |
 | Cleaning Lethe, One Nest At A Time | 67.00% | ~2,106 |
 | Call Me Snake | 62.00% | ~1,949 |
-| Something Lurks Under The Hills | 60.00% | ~1,886 |
+| Something Lurks Under The Hills | 61.00% | ~1,917 |
 | This Was No Papercut | 59.00% | ~1,854 |
 | The Shrink Hates Me | 56.00% | ~1,760 |
 | People Person | 55.00% | ~1,729 |

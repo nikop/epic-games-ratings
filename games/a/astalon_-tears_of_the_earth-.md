@@ -12,13 +12,13 @@
 | Beast Hunter | 31.00% | ~20 |
 | Vanquisher! | 30.00% | ~19 |
 | Orb Collector | 30.00% | ~19 |
+| Twin slayer! | 30.00% | ~19 |
 | Snakehead! | 30.00% | ~19 |
 | Unmasked! | 30.00% | ~19 |
 | Fly, you fool! | 30.00% | ~19 |
+| Mercenary! | 30.00% | ~19 |
 | Loot, loot! | 30.00% | ~19 |
 | Beast Knight | 28.00% | ~18 |
-| Twin slayer! | 28.00% | ~18 |
-| Mercenary! | 28.00% | ~18 |
 | God of the Tower! | 27.00% | ~17 |
 | Relic Collector | 27.00% | ~17 |
 | Cartographer | 27.00% | ~17 |

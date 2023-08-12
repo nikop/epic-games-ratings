@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -176,7 +176,7 @@
   "Tags": [],
   "EOS_Progressed": 1391,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -1708,9 +1708,9 @@
       "ID": "5",
       "SetID": "n50no0",
       "Name": "An eye for an eye",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 83
     },
     {
       "ID": "6",
@@ -1756,8 +1756,8 @@
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-08-10T12:01:06.704766+00:00",
-  "LastChanged_Achievements": "2023-08-12T14:04:10.6648249+00:00",
+  "LastChanged_Achievements": "2023-08-12T15:04:06.0419949+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:14.0477617+00:00",
-  "LastUpdate_Ratings": "2023-08-12T14:01:15.2758253+00:00",
-  "LastUpdate_Achievements": "2023-08-12T14:04:10.6648569+00:00"
+  "LastUpdate_Ratings": "2023-08-12T15:01:31.2826603+00:00",
+  "LastUpdate_Achievements": "2023-08-12T15:04:06.0420275+00:00"
 }

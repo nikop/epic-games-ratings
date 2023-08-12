@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 351,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -778,9 +778,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6621,
+  "EOS_Progressed": 6622,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -4403,6 +4403,11 @@
       "Time": "2023-08-12T14:06:36.8029803+00:00",
       "NumProgressed": 6621,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-08-12T15:06:34.0491485+00:00",
+      "NumProgressed": 6622,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -4478,7 +4483,7 @@
       "Name": "Decimation",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 1390
+      "UsersEstimate": 1391
     },
     {
       "ID": "ISONZO_ACH_DIE_BOSNIAKEN_KOMMEN",
@@ -4502,7 +4507,7 @@
       "Name": "Donatello",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 1390
+      "UsersEstimate": 1391
     },
     {
       "ID": "ISONZO_ACH_DROP_AND_GIVE_ME_20",
@@ -4662,7 +4667,7 @@
       "Name": "Silver Lining",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 1986
+      "UsersEstimate": 1987
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -4766,14 +4771,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 3509
+      "UsersEstimate": 3510
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6621,
+      "Progressed": 6622,
       "Completed": 8
     }
   ],
@@ -4781,8 +4786,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-08-10T01:59:14.1654715+00:00",
-  "LastChanged_Achievements": "2023-08-12T14:06:36.80298+00:00",
+  "LastChanged_Achievements": "2023-08-12T15:06:34.0491479+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:23.8738209+00:00",
-  "LastUpdate_Ratings": "2023-08-12T13:59:00.2640245+00:00",
-  "LastUpdate_Achievements": "2023-08-12T14:06:36.8030338+00:00"
+  "LastUpdate_Ratings": "2023-08-12T14:59:08.4104032+00:00",
+  "LastUpdate_Achievements": "2023-08-12T15:06:34.0492181+00:00"
 }

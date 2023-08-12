@@ -4,7 +4,7 @@
   "ProductSlug": "the-dungeon-of-naheulbeuk",
   "Ranking_Rating": 426,
   "Ranking_Popularity": 292,
-  "Ranking_PopularitySum": 390,
+  "Ranking_PopularitySum": 377,
   "Ranking_EOS_Progress": 55,
   "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 21,
@@ -610,10 +610,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 160,
       "NumberOfAwardsMax": 160
+    },
+    {
+      "Time": "2023-08-12T15:00:58.2777057+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 180,
+      "NumberOfAwardsMax": 160
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 160,
+  "NumberOfAwards": 180,
   "NumberOfAwardsMax": 160,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -622,11 +628,17 @@
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
       "Count": 160
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 20
     }
   ],
-  "EOS_Progressed": 210864,
+  "EOS_Progressed": 210906,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4094,
+  "EOS_NewPlayers": 4096,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6629,6 +6641,11 @@
       "Time": "2023-08-12T14:04:44.2666116+00:00",
       "NumProgressed": 210864,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-12T15:04:40.9578166+00:00",
+      "NumProgressed": 210906,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 88,
@@ -6688,7 +6705,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 843
+      "UsersEstimate": 844
     },
     {
       "ID": "Chapter2",
@@ -7040,7 +7057,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1054
+      "UsersEstimate": 1055
     },
     {
       "ID": "DwarfElf15Support",
@@ -7072,7 +7089,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 843
+      "UsersEstimate": 844
     },
     {
       "ID": "ElfEpic",
@@ -7088,7 +7105,7 @@
       "Name": "Sowwy!",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 18978
+      "UsersEstimate": 18982
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -7136,7 +7153,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1054
+      "UsersEstimate": 1055
     },
     {
       "ID": "FollowBraztok",
@@ -7343,21 +7360,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 210864,
+      "Progressed": 210906,
       "Completed": 1
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 210864,
+      "Progressed": 210906,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
-  "LastChanged": "2023-08-12T10:59:52.9574919+00:00",
-  "LastChanged_Achievements": "2023-08-12T14:04:44.2666111+00:00",
+  "LastChanged": "2023-08-12T15:00:58.2777056+00:00",
+  "LastChanged_Achievements": "2023-08-12T15:04:40.9578159+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:49.6773731+00:00",
-  "LastUpdate_Ratings": "2023-08-12T14:00:48.6883031+00:00",
-  "LastUpdate_Achievements": "2023-08-12T14:04:44.2667427+00:00"
+  "LastUpdate_Ratings": "2023-08-12T15:00:58.277706+00:00",
+  "LastUpdate_Achievements": "2023-08-12T15:04:40.957972+00:00"
 }

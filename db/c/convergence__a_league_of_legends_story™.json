@@ -2173,9 +2173,9 @@
       "ID": "JinxDefeated",
       "SetID": "a9e499d",
       "Name": "The Loose Cannon",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 133
     },
     {
       "ID": "LacunaCompleted",
@@ -2422,8 +2422,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-08-12T14:05:42.9678858+00:00",
+  "LastChanged_Achievements": "2023-08-12T15:05:29.6542829+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:10.6633578+00:00",
-  "LastUpdate_Ratings": "2023-08-12T14:01:10.2491986+00:00",
-  "LastUpdate_Achievements": "2023-08-12T14:05:42.9679439+00:00"
+  "LastUpdate_Ratings": "2023-08-12T15:01:24.9713459+00:00",
+  "LastUpdate_Achievements": "2023-08-12T15:05:29.6543487+00:00"
 }

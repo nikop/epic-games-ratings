@@ -682,9 +682,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 11940,
+  "EOS_Progressed": 11941,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -8817,6 +8817,11 @@
       "Time": "2023-08-12T13:05:03.5324832+00:00",
       "NumProgressed": 11940,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-08-12T15:03:33.7827026+00:00",
+      "NumProgressed": 11941,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 35,
@@ -8828,7 +8833,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9671
+      "UsersEstimate": 9672
     },
     {
       "ID": "ACH02",
@@ -8932,7 +8937,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1313
+      "UsersEstimate": 1314
     },
     {
       "ID": "ACH15",
@@ -9107,7 +9112,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11940,
+      "Progressed": 11941,
       "Completed": 36
     }
   ],
@@ -9115,8 +9120,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-08-11T19:57:17.244721+00:00",
-  "LastChanged_Achievements": "2023-08-12T14:03:27.9893558+00:00",
+  "LastChanged_Achievements": "2023-08-12T15:03:33.7827017+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:11.1716171+00:00",
-  "LastUpdate_Ratings": "2023-08-12T13:57:21.6487418+00:00",
-  "LastUpdate_Achievements": "2023-08-12T14:03:27.9894407+00:00"
+  "LastUpdate_Ratings": "2023-08-12T14:57:10.5275261+00:00",
+  "LastUpdate_Achievements": "2023-08-12T15:03:33.7827968+00:00"
 }

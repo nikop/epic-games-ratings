@@ -335,9 +335,9 @@
       "ID": "Ending2",
       "SetID": "9kk0gal",
       "Name": "Back Home",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 23
+      "UsersEstimate": 25
     },
     {
       "ID": "Ending3",
@@ -504,8 +504,8 @@
   "FirstSeenRating": "2023-03-31T05:57:05.8679994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.0385783+00:00",
   "LastChanged": "2023-03-31T05:57:05.8679995+00:00",
-  "LastChanged_Achievements": "2023-08-12T14:04:30.1222804+00:00",
+  "LastChanged_Achievements": "2023-08-12T15:04:26.5106988+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:06.6497538+00:00",
-  "LastUpdate_Ratings": "2023-08-12T13:57:13.5440619+00:00",
-  "LastUpdate_Achievements": "2023-08-12T14:04:30.1223136+00:00"
+  "LastUpdate_Ratings": "2023-08-12T14:57:03.3313346+00:00",
+  "LastUpdate_Achievements": "2023-08-12T15:04:26.5107227+00:00"
 }

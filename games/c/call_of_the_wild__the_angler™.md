@@ -6,26 +6,26 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 77.00% | ~3,763 |
-| Hey Good Hookin | 66.00% | ~3,225 |
+| Fish Just Got Reel | 77.00% | ~3,764 |
+| Hey Good Hookin | 66.00% | ~3,226 |
 | I'm on a Boat! | 57.00% | ~2,786 |
-| Can you smell what the Rod is Hooking | 51.00% | ~2,492 |
-| Scaling up | 51.00% | ~2,492 |
-| Ready to Rod and Roll | 43.00% | ~2,101 |
+| Can you smell what the Rod is Hooking | 51.00% | ~2,493 |
+| Scaling up | 51.00% | ~2,493 |
+| Ready to Rod and Roll | 43.00% | ~2,102 |
 | More Fish in the Sea | 42.00% | ~2,053 |
 | Fish Out of Water | 33.00% | ~1,613 |
 | License to Gill | 33.00% | ~1,613 |
-| Things that go Splash in the Night | 27.00% | ~1,319 |
-| Goldfish? | 27.00% | ~1,319 |
+| Things that go Splash in the Night | 27.00% | ~1,320 |
+| Goldfish? | 27.00% | ~1,320 |
 | Going for Gold | 24.00% | ~1,173 |
 | I'm Hooked! | 19.00% | ~929 |
 | Diamond in the Rough | 13.00% | ~635 |
-| More than a Tourist | 12.00% | ~586 |
+| More than a Tourist | 12.00% | ~587 |
 | Hook, Line and Sinker | 8.00% | ~391 |
 | Marathon | 8.00% | ~391 |
 | Big Fish Small Pond | 6.00% | ~293 |
 | I'm the Captain Now | 5.00% | ~244 |
-| School's Out for Summer | 4.00% | ~195 |
+| School's Out for Summer | 4.00% | ~196 |
 | The Beetles | 3.00% | ~147 |
 | Gonna Need a Bigger Boat | 3.00% | ~147 |
 | Rod and Troll | 2.00% | ~85 |
@@ -42,7 +42,7 @@ Number of Ratings: 281  (23.09.2022)
 | No Fin left to give | 0.00% | ~0 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,887 (Ranked 143)  
+Progressed: 4,888 (Ranked 143)  
 Completed: 0 (0.00%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,15 +156,15 @@ Completed: 0 (0.00%) (Ranked 254)
 | 2023-08-09 | 4,869 | 0 |
 | 2023-08-10 | 4,876 | 0 |
 | 2023-08-11 | 4,882 | 0 |
-| 2023-08-12 | 4,887 | 0 |
+| 2023-08-12 | 4,888 | 0 |
 ## Awards
 Max (Relaxing): 32  (Ranked 452)  
-Sum: 158 (Ranked 392)  
+Sum: 159 (Ranked 392)  
 Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 32 |
-| This game has Amazing Storytelling | 30 |
+| This game has Amazing Storytelling | 31 |
 | This game is Highly Recommended | 28 |
 | This game is Extremely Fun | 24 |
 | This game is Great for Beginners | 24 |
@@ -223,3 +223,4 @@ Diff (max vs sum): 60
 | 2023-06-29 | 4.14 | - | 32 | 158 |
 | 2023-07-23 | 4.15 | - | 32 | 158 |
 | 2023-08-07 | 4.14 | - | 32 | 158 |
+| 2023-08-12 | 4.14 | - | 32 | 159 |

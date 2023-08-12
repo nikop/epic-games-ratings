@@ -4,7 +4,7 @@
   "ProductSlug": "merchant-of-the-skies",
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 101,
-  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewPlayers": 282,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-04-13T15:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 936,
+  "EOS_Progressed": 937,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.5,
+  "EOS_Completed_Percentage": 1.49,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:10.0879802+00:00",
@@ -94,6 +94,11 @@
       "Time": "2023-08-12T14:05:49.117334+00:00",
       "NumProgressed": 936,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-08-12T15:05:36.0756466+00:00",
+      "NumProgressed": 937,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 12,
@@ -103,9 +108,9 @@
       "ID": "achievement_bank_invested",
       "SetID": "7171fo0",
       "Name": "Thrifty",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 431
+      "UsersEstimate": 440
     },
     {
       "ID": "achievement_botanical",
@@ -153,7 +158,7 @@
       "Name": "Real Estate",
       "Percentage": 64,
       "XP": 35,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "achievement_lighthouse",
@@ -169,7 +174,7 @@
       "Name": "A man of his word",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 899
+      "UsersEstimate": 900
     },
     {
       "ID": "achievement_ship_bought",
@@ -177,7 +182,7 @@
       "Name": "New Ride",
       "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "achievement_ship_fueled",
@@ -185,7 +190,7 @@
       "Name": "Energizer",
       "Percentage": 99,
       "XP": 10,
-      "UsersEstimate": 927
+      "UsersEstimate": 928
     },
     {
       "ID": "achievement_too_big_to_fail",
@@ -200,7 +205,7 @@
     {
       "ID": "7171fo0",
       "IsBase": true,
-      "Progressed": 936,
+      "Progressed": 937,
       "Completed": 14
     }
   ],
@@ -208,8 +213,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.9474468+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.0879809+00:00",
   "LastChanged": "2023-03-31T05:58:14.9474469+00:00",
-  "LastChanged_Achievements": "2023-08-12T14:05:49.1173333+00:00",
+  "LastChanged_Achievements": "2023-08-12T15:05:36.0756462+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:20.3759968+00:00",
-  "LastUpdate_Ratings": "2023-08-12T13:59:10.1461108+00:00",
-  "LastUpdate_Achievements": "2023-08-12T14:05:49.1173451+00:00"
+  "LastUpdate_Ratings": "2023-08-12T14:59:14.9756925+00:00",
+  "LastUpdate_Achievements": "2023-08-12T15:05:36.0756849+00:00"
 }

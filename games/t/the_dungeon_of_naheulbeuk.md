@@ -6,11 +6,11 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 9.00% | ~18,978 |
-| Where's that freaking Dwarf? | 0.50% | ~1,054 |
-| Alt+F4 | 0.50% | ~1,054 |
-| Déjà vu | 0.40% | ~843 |
-| Sock! SOCK! | 0.40% | ~843 |
+| Sowwy! | 9.00% | ~18,982 |
+| Where's that freaking Dwarf? | 0.50% | ~1,055 |
+| Alt+F4 | 0.50% | ~1,055 |
+| Déjà vu | 0.40% | ~844 |
+| Sock! SOCK! | 0.40% | ~844 |
 | A beer, two curses, three companions | 0.30% | ~633 |
 | %#*!$*! | 0.30% | ~633 |
 | GG EZ | 0.30% | ~633 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Sleep schedule mastery | 0.00% | ~0 |
 | Dumb and dumber | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210,864 (Ranked 55)  
+Progressed: 210,906 (Ranked 55)  
 Completed: 1 (0.00%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,14 +168,15 @@ Completed: 1 (0.00%) (Ranked 254)
 | 2023-08-09 | 209,549 | 0 |
 | 2023-08-10 | 210,011 | 0 |
 | 2023-08-11 | 210,534 | 1 |
-| 2023-08-12 | 210,864 | 1 |
+| 2023-08-12 | 210,906 | 1 |
 ## Awards
 Max (Character Customization): 160  (Ranked 292)  
-Sum: 160 (Ranked 390)  
-Diff (max vs sum): -98  
+Sum: 180 (Ranked 377)  
+Diff (max vs sum): -85  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 160 |
+| This game is Relaxing | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -281,4 +282,4 @@ Diff (max vs sum): -98
 | 2023-08-07 | 4.58 | - | 156 | 156 |
 | 2023-08-08 | 4.58 | - | 157 | 157 |
 | 2023-08-11 | 4.58 | - | 159 | 159 |
-| 2023-08-12 | 4.58 | - | 160 | 160 |
+| 2023-08-12 | 4.58 | - | 160 | 180 |

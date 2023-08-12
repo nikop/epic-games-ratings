@@ -21,6 +21,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Own the Means of Production | 0.50% | ~672 |
 | The Daily Grind | 0.40% | ~538 |
 | Bounty Hunters | 0.40% | ~538 |
+| Flooding the Market | 0.40% | ~538 |
 | One-Armed Bandit | 0.40% | ~538 |
 | Dungeon Imports | 0.40% | ~538 |
 | Through Repetition, Perfection | 0.40% | ~538 |
@@ -31,7 +32,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Fated Encounters | 0.30% | ~403 |
 | Blank Page Syndrome | 0.30% | ~403 |
 | Demand for Supplies | 0.30% | ~403 |
-| Flooding the Market | 0.30% | ~403 |
 | Where it Hurts | 0.30% | ~403 |
 | Efficient Floor Space | 0.30% | ~403 |
 | Gem Expert | 0.30% | ~403 |
@@ -80,6 +80,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Precision Engineering | 0.20% | ~269 |
 | Attrition Mission | 0.20% | ~269 |
 | Glittering Collection | 0.20% | ~269 |
+| Treasure Trove | 0.20% | ~269 |
 | Moment of Respite | 0.20% | ~269 |
 | Black Friday Special | 0.20% | ~269 |
 | King's Shadow | 0.20% | ~269 |
@@ -111,7 +112,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Scourge of the Seas | 0.10% | ~134 |
 | Eternal Crusade | 0.10% | ~134 |
 | To Hell and Back | 0.10% | ~134 |
-| Treasure Trove | 0.10% | ~134 |
 | Marvels from the World Over | 0.10% | ~134 |
 | Cash Only Please | 0.10% | ~134 |
 | Master Recycler | 0.10% | ~134 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Economy of Scarce | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,383 (Ranked 66)  
+Progressed: 134,386 (Ranked 66)  
 Completed: 132 (0.10%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,16 +233,16 @@ Completed: 132 (0.10%) (Ranked 202)
 | 2023-08-09 | 134,223 | 131 |
 | 2023-08-10 | 134,276 | 131 |
 | 2023-08-11 | 134,354 | 132 |
-| 2023-08-12 | 134,383 | 132 |
+| 2023-08-12 | 134,386 | 132 |
 ## Awards
 Max (Great for Beginners): 4,698  (Ranked 71)  
-Sum: 27,085 (Ranked 46)  
+Sum: 27,086 (Ranked 46)  
 Diff (max vs sum): 25  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,698 |
 | This game is Relaxing | 3,996 |
-| This game has Quickly Understood Controls | 3,983 |
+| This game has Quickly Understood Controls | 3,984 |
 | This game has Diverse Characters | 3,851 |
 | This game is Highly Recommended | 3,734 |
 | This game has Easy Combat | 3,673 |
@@ -451,4 +451,4 @@ Diff (max vs sum): 25
 | 2023-08-09 | 3.99 | - | 4,692 | 27,072 |
 | 2023-08-10 | 3.99 | - | 4,694 | 27,077 |
 | 2023-08-11 | 3.99 | - | 4,694 | 27,078 |
-| 2023-08-12 | 3.99 | - | 4,698 | 27,085 |
+| 2023-08-12 | 3.99 | - | 4,698 | 27,086 |

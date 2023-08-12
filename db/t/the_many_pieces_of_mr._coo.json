@@ -25,9 +25,179 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-08-12T15:03:16.5985909+00:00",
+  "TotalAchievements": 21,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "Trophy_01",
+      "SetID": "2i507j",
+      "Name": "Punch \u0026 Judy",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy_02",
+      "SetID": "2i507j",
+      "Name": "Just what I wanted",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy_03",
+      "SetID": "2i507j",
+      "Name": "Beware of the chicken",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy_04",
+      "SetID": "2i507j",
+      "Name": "Crack the eggshell",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy_05",
+      "SetID": "2i507j",
+      "Name": "Granted wish",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy_06",
+      "SetID": "2i507j",
+      "Name": "Many pieces",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy_07",
+      "SetID": "2i507j",
+      "Name": "Music lover",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy_08",
+      "SetID": "2i507j",
+      "Name": "Slapstick",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy_09",
+      "SetID": "2i507j",
+      "Name": "Finally together",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy_10",
+      "SetID": "2i507j",
+      "Name": "Hang in there",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy_11",
+      "SetID": "2i507j",
+      "Name": "Holidays",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy_12",
+      "SetID": "2i507j",
+      "Name": "Furnace",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy_13",
+      "SetID": "2i507j",
+      "Name": "Ale hop!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy_14",
+      "SetID": "2i507j",
+      "Name": "That\u2019s the key",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy_15",
+      "SetID": "2i507j",
+      "Name": "Puzzle",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy_16",
+      "SetID": "2i507j",
+      "Name": "Free!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy_17",
+      "SetID": "2i507j",
+      "Name": "They\u2019re all dead",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy_18",
+      "SetID": "2i507j",
+      "Name": "You won",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy_19",
+      "SetID": "2i507j",
+      "Name": "Paperwork",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy_20",
+      "SetID": "2i507j",
+      "Name": "Collector",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy_21",
+      "SetID": "2i507j",
+      "Name": "Without a hint",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "2i507j",
@@ -37,8 +207,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:53:01.5920642+00:00",
-  "LastChanged_Achievements": "2023-08-12T14:03:11.3140267+00:00",
+  "LastChanged_Achievements": "2023-08-12T15:03:16.5985893+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:11.3636769+00:00",
-  "LastUpdate_Ratings": "2023-08-12T13:57:21.8946348+00:00",
-  "LastUpdate_Achievements": "2023-08-12T14:03:11.31403+00:00"
+  "LastUpdate_Ratings": "2023-08-12T14:57:10.7938292+00:00",
+  "LastUpdate_Achievements": "2023-08-12T15:03:16.6486857+00:00"
 }
