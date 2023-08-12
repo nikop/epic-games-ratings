@@ -31,7 +31,7 @@ Rating: 4.64 (Ranked 316)
 | Dawkins Residence | 20.00% | ~980 |
 | Rescue time! | 18.00% | ~882 |
 | New order | 17.00% | ~833 |
-| New species | 16.00% | ~784 |
+| New species | 17.00% | ~833 |
 | A New Hope | 15.00% | ~735 |
 | Enigma | 15.00% | ~735 |
 | Challenger | 13.00% | ~637 |
@@ -67,7 +67,7 @@ Rating: 4.64 (Ranked 316)
 | Dead Hand | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,898 (Ranked 142)  
-Completed: 1 (0.02%) (Ranked 233)  
+Completed: 1 (0.02%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

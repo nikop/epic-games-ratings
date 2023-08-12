@@ -6,9 +6,9 @@
   "Ranking_Popularity": 511,
   "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 142,
-  "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_Completed": 234,
+  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
     "PcReleaseDate": "2019-07-25T08:00:00+00:00",
@@ -170,7 +170,7 @@
   "Tags": [],
   "EOS_Progressed": 4898,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -4432,9 +4432,9 @@
       "ID": "ACH_MUTANT",
       "SetID": "5nj1ea3",
       "Name": "New species",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 784
+      "UsersEstimate": 833
     },
     {
       "ID": "ACH_NAYSAYER",
@@ -4601,8 +4601,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-08-11T11:57:12.7338821+00:00",
-  "LastChanged_Achievements": "2023-08-12T07:08:27.1815427+00:00",
-  "LastUpdate_AppInfo": "2023-08-05T06:58:25.2705415+00:00",
-  "LastUpdate_Ratings": "2023-08-12T06:59:38.43894+00:00",
-  "LastUpdate_Achievements": "2023-08-12T07:08:27.1816545+00:00"
+  "LastChanged_Achievements": "2023-08-12T08:07:35.5632613+00:00",
+  "LastUpdate_AppInfo": "2023-08-12T07:57:17.6641952+00:00",
+  "LastUpdate_Ratings": "2023-08-12T07:58:25.6577915+00:00",
+  "LastUpdate_Achievements": "2023-08-12T08:07:35.5633267+00:00"
 }

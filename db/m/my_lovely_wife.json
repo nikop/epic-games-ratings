@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-06-07T16:00:00+00:00",
     "PcReleaseDate": "2022-06-07T16:00:00+00:00",
@@ -59,9 +59,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 604,
+  "EOS_Progressed": 605,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -364,6 +364,11 @@
       "Time": "2023-08-06T18:05:23.8690357+00:00",
       "NumProgressed": 604,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-12T08:08:05.4856337+00:00",
+      "NumProgressed": 605,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 33,
@@ -375,7 +380,7 @@
       "Name": "Learner",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "ACH_ASSIGN_LEARN_2",
@@ -383,15 +388,15 @@
       "Name": "Dilligent",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "ACH_ASSIGN_PLAZA_1",
       "SetID": "ajki3eh",
       "Name": "Adored",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 459
+      "UsersEstimate": 466
     },
     {
       "ID": "ACH_ASSIGN_PLAZA_2",
@@ -431,7 +436,7 @@
       "Name": "Faithful",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ACH_ASSIGN_WORK_1",
@@ -439,7 +444,7 @@
       "Name": "Economical",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "ACH_ASSIGN_WORK_2",
@@ -447,7 +452,7 @@
       "Name": "Frugal",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "ACH_FINISH_OBJECTIVE",
@@ -455,7 +460,7 @@
       "Name": "Objective Complete",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "ACH_FINISH_SUCC_STORY_1",
@@ -495,7 +500,7 @@
       "Name": "I... I did it?",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "ACH_KILL_SUCC_2",
@@ -519,7 +524,7 @@
       "Name": "I did it!",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "ACH_SUMMON_SUCC_2",
@@ -559,7 +564,7 @@
       "Name": "The Love Martyr",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "ACH_UNLOCK_CHAPTER_2",
@@ -567,7 +572,7 @@
       "Name": "Between Two Fires",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "ACH_UNLOCK_CHAPTER_3",
@@ -575,7 +580,7 @@
       "Name": "A Forked Tongue",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "ACH_UNLOCK_LUNA_ENDING",
@@ -591,7 +596,7 @@
       "Name": "Ever After",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "ACH_UNLOCK_SUCC_ENDING_2",
@@ -623,7 +628,7 @@
       "Name": "The Admirer",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "ACH_UNLOCK_SUCC_KIND_3",
@@ -638,15 +643,15 @@
     {
       "ID": "ajki3eh",
       "IsBase": true,
-      "Progressed": 604,
+      "Progressed": 605,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:30:06.1147591+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.1712211+00:00",
   "LastChanged": "2023-03-31T05:57:36.3389853+00:00",
-  "LastChanged_Achievements": "2023-08-12T07:08:47.1511327+00:00",
+  "LastChanged_Achievements": "2023-08-12T08:08:05.4856334+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:54.1825843+00:00",
-  "LastUpdate_Ratings": "2023-08-12T07:02:09.068988+00:00",
-  "LastUpdate_Achievements": "2023-08-12T07:08:47.1511594+00:00"
+  "LastUpdate_Ratings": "2023-08-12T08:01:18.0220601+00:00",
+  "LastUpdate_Achievements": "2023-08-12T08:08:05.4856526+00:00"
 }

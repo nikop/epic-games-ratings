@@ -38,6 +38,7 @@ Number of Ratings: 177  (23.09.2022)
 | Ashley | 0.30% | ~18 |
 | Deck the Balls | 0.30% | ~9 |
 | Rachael | 0.30% | ~18 |
+| The Elder Brahs | 0.30% | ~18 |
 | Good Ol' Days | 0.30% | ~18 |
 | Beyond the Call of Dude-y | 0.20% | ~12 |
 | The Bride | 0.20% | ~12 |
@@ -50,7 +51,6 @@ Number of Ratings: 177  (23.09.2022)
 | The Muse: Derek | 0.20% | ~12 |
 | Howz It Goin Dood | 0.20% | ~12 |
 | Derezzed | 0.20% | ~12 |
-| The Elder Brahs | 0.20% | ~12 |
 | Against All Odds | 0.10% | ~6 |
 | Casabrova | 0.10% | ~6 |
 | Congrats, A Celebrity Hates You | 0.10% | ~3 |

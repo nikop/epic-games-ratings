@@ -324,9 +324,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 65275,
+  "EOS_Progressed": 65276,
   "EOS_Completed": 343,
-  "EOS_NewPlayers": 703,
+  "EOS_NewPlayers": 701,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -12534,6 +12534,11 @@
       "Time": "2023-08-12T07:06:48.3205115+00:00",
       "NumProgressed": 65275,
       "NumCompleted": 343
+    },
+    {
+      "Time": "2023-08-12T08:05:56.8349673+00:00",
+      "NumProgressed": 65276,
+      "NumCompleted": 343
     }
   ],
   "TotalAchievements": 24,
@@ -12561,7 +12566,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 44387
+      "UsersEstimate": 44388
     },
     {
       "ID": "BEST_FRIENDS",
@@ -12569,7 +12574,7 @@
       "Name": "BEST FRIENDS",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 14360
+      "UsersEstimate": 14361
     },
     {
       "ID": "BLOOMS_OF_LIGHT",
@@ -12593,7 +12598,7 @@
       "Name": "FETCH",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 17624
+      "UsersEstimate": 17625
     },
     {
       "ID": "FOXIN_AROUND",
@@ -12736,7 +12741,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 65275,
+      "Progressed": 65276,
       "Completed": 343
     }
   ],
@@ -12744,8 +12749,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-08-12T07:06:48.3205108+00:00",
+  "LastChanged_Achievements": "2023-08-12T08:05:56.8349669+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:14.4759947+00:00",
-  "LastUpdate_Ratings": "2023-08-12T07:03:41.4090681+00:00",
-  "LastUpdate_Achievements": "2023-08-12T07:06:48.320673+00:00"
+  "LastUpdate_Ratings": "2023-08-12T08:03:03.6741149+00:00",
+  "LastUpdate_Achievements": "2023-08-12T08:05:56.835039+00:00"
 }

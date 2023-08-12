@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 60707,
+  "EOS_Progressed": 60709,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 436,
+  "EOS_NewPlayers": 435,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -10992,6 +10992,11 @@
       "Time": "2023-08-12T07:08:10.1318668+00:00",
       "NumProgressed": 60707,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-12T08:07:18.3684781+00:00",
+      "NumProgressed": 60709,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -11035,7 +11040,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 12141
+      "UsersEstimate": 12142
     },
     {
       "ID": "06",
@@ -11123,7 +11128,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4249
+      "UsersEstimate": 4250
     },
     {
       "ID": "17",
@@ -11131,7 +11136,7 @@
       "Name": "Departure",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4249
+      "UsersEstimate": 4250
     },
     {
       "ID": "18",
@@ -11251,7 +11256,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 17605
+      "UsersEstimate": 17606
     },
     {
       "ID": "33",
@@ -11275,7 +11280,7 @@
       "Name": "Let There Be Light",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 18212
+      "UsersEstimate": 18213
     },
     {
       "ID": "36",
@@ -11411,7 +11416,7 @@
       "Name": "A Friend Indeed",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1450
+      "UsersEstimate": 1451
     },
     {
       "ID": "53",
@@ -11538,21 +11543,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 60707,
+      "Progressed": 60709,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 24175,
+      "Progressed": 24177,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-12T07:08:10.131866+00:00",
+  "LastChanged_Achievements": "2023-08-12T08:07:18.3684775+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:20.2881971+00:00",
-  "LastUpdate_Ratings": "2023-08-12T07:01:29.7404026+00:00",
-  "LastUpdate_Achievements": "2023-08-12T07:08:10.1321005+00:00"
+  "LastUpdate_Ratings": "2023-08-12T08:00:30.0276976+00:00",
+  "LastUpdate_Achievements": "2023-08-12T08:07:18.3685799+00:00"
 }

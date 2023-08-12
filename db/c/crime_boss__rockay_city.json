@@ -2946,9 +2946,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 71687,
+  "EOS_Progressed": 71688,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 366,
+  "EOS_NewPlayers": 363,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -14846,6 +14846,11 @@
       "Time": "2023-08-12T07:09:18.9826901+00:00",
       "NumProgressed": 71687,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-08-12T08:08:26.9791569+00:00",
+      "NumProgressed": 71688,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 37,
@@ -14865,7 +14870,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 20789
+      "UsersEstimate": 20790
     },
     {
       "ID": "ACH_0012",
@@ -14905,7 +14910,7 @@
       "Name": "Imports and Exports",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2867
+      "UsersEstimate": 2868
     },
     {
       "ID": "ACH_0021",
@@ -15009,7 +15014,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 53048
+      "UsersEstimate": 53049
     },
     {
       "ID": "ACH_0211",
@@ -15033,7 +15038,7 @@
       "Name": "Olympus Ascended",
       "Percentage": 4,
       "XP": 55,
-      "UsersEstimate": 2867
+      "UsersEstimate": 2868
     },
     {
       "ID": "ACH_0310",
@@ -15041,7 +15046,7 @@
       "Name": "Cracked the Jack",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2867
+      "UsersEstimate": 2868
     },
     {
       "ID": "ACH_0330",
@@ -15057,7 +15062,7 @@
       "Name": "Red Star",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2867
+      "UsersEstimate": 2868
     },
     {
       "ID": "ACH_0350",
@@ -15073,7 +15078,7 @@
       "Name": "Case Closed",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 25090
+      "UsersEstimate": 25091
     },
     {
       "ID": "ACH_0420",
@@ -15089,7 +15094,7 @@
       "Name": "Fancy Pants",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 25090
+      "UsersEstimate": 25091
     },
     {
       "ID": "ACH_0431",
@@ -15152,22 +15157,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 71687,
+      "Progressed": 71688,
       "Completed": 38
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 34,
-      "Completed": 34
+      "Progressed": 35,
+      "Completed": 35
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-08-11T16:01:14.9575763+00:00",
-  "LastChanged_Achievements": "2023-08-12T07:09:18.9826895+00:00",
-  "LastUpdate_AppInfo": "2023-08-05T06:57:57.6753466+00:00",
-  "LastUpdate_Ratings": "2023-08-12T07:04:23.9437922+00:00",
-  "LastUpdate_Achievements": "2023-08-12T07:09:18.9828326+00:00"
+  "LastChanged_Achievements": "2023-08-12T08:08:26.9791563+00:00",
+  "LastUpdate_AppInfo": "2023-08-12T07:57:57.6056168+00:00",
+  "LastUpdate_Ratings": "2023-08-12T08:03:50.3911462+00:00",
+  "LastUpdate_Achievements": "2023-08-12T08:08:26.9792499+00:00"
 }

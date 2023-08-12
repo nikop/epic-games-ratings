@@ -6,14 +6,14 @@ Number of Ratings: 45  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cost of Heroism | 39.00% | ~531 |
-| Me and My Familiar | 36.00% | ~490 |
-| This Too Shall Pass | 31.00% | ~422 |
+| The Cost of Heroism | 39.00% | ~532 |
+| Me and My Familiar | 37.00% | ~504 |
+| This Too Shall Pass | 31.00% | ~423 |
 | Passing Shadow | 30.00% | ~409 |
 | Cutthroat Competitors | 29.00% | ~395 |
-| How Romantic! | 28.00% | ~381 |
+| How Romantic! | 28.00% | ~382 |
 | Daybreak | 27.00% | ~368 |
-| Gotta Ca... Must Collect All of Them | 25.00% | ~340 |
+| Gotta Ca... Must Collect All of Them | 25.00% | ~341 |
 | Completing the Look | 14.00% | ~191 |
 | War Endured | 14.00% | ~191 |
 | A Mythic Menagerie | 13.00% | ~177 |
@@ -34,9 +34,9 @@ Number of Ratings: 45  (23.09.2022)
 | In Soil, In Smoke | 5.00% | ~68 |
 | A Hunger, Sated | 5.00% | ~68 |
 | Wingknight's Prowess | 5.00% | ~68 |
-| Worldwalker | 4.00% | ~54 |
-| Grillmaster | 4.00% | ~54 |
-| No Time for Clawmonsters | 4.00% | ~54 |
+| Worldwalker | 4.00% | ~55 |
+| Grillmaster | 4.00% | ~55 |
+| No Time for Clawmonsters | 4.00% | ~55 |
 | We Emerge Changed | 3.00% | ~41 |
 | Storied Past | 3.00% | ~41 |
 | Empty the Caves | 3.00% | ~41 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | We Call That Mortificient! | 0.90% | ~12 |
 | Peacemaker | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,362 (Ranked 183)  
+Progressed: 1,363 (Ranked 183)  
 Completed: 5 (0.37%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,6 +162,7 @@ Completed: 5 (0.37%) (Ranked 155)
 | 2023-08-08 | 1,360 | 5 |
 | 2023-08-10 | 1,361 | 5 |
 | 2023-08-11 | 1,362 | 5 |
+| 2023-08-12 | 1,363 | 5 |
 ## Awards
 Max (Character Customization): 28  (Ranked 467)  
 Sum: 28 (Ranked 479)  

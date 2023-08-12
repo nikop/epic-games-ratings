@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2218,
+  "EOS_Progressed": 2219,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 211,
+  "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.68,
   "EosHistory": [
@@ -4016,6 +4016,11 @@
       "Time": "2023-08-12T07:08:52.3864+00:00",
       "NumProgressed": 2218,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-08-12T08:08:10.7018885+00:00",
+      "NumProgressed": 2219,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 16,
@@ -4115,7 +4120,7 @@
       "Name": "Food - unlocked",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "ach_game_opened",
@@ -4123,7 +4128,7 @@
       "Name": "Game opened",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 1641
+      "UsersEstimate": 1642
     },
     {
       "ID": "ach_magic_wand",
@@ -4131,7 +4136,7 @@
       "Name": "Magic time",
       "Percentage": 29,
       "XP": 65,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "ach_no_boosters",
@@ -4154,14 +4159,14 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 2218,
+      "Progressed": 2219,
       "Completed": 15
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-08-12T07:08:52.3863992+00:00",
+  "LastChanged_Achievements": "2023-08-12T08:08:10.701888+00:00",
   "LastUpdate_AppInfo": "2023-08-11T13:00:05.0186107+00:00",
-  "LastUpdate_Ratings": "2023-08-12T07:00:30.2307557+00:00",
-  "LastUpdate_Achievements": "2023-08-12T07:08:52.3864564+00:00"
+  "LastUpdate_Ratings": "2023-08-12T07:59:22.962075+00:00",
+  "LastUpdate_Achievements": "2023-08-12T08:08:10.7019158+00:00"
 }

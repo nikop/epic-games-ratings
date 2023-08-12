@@ -6,12 +6,12 @@ Number of Ratings: 5,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 80.00% | ~522,821 |
-| Every story has a beginning | 36.00% | ~235,269 |
-| The first of many | 32.00% | ~209,128 |
-| Positive word of mouth | 18.00% | ~117,635 |
-| Lawn in the U.S.A. | 15.00% | ~98,029 |
-| Blade Runner | 9.00% | ~58,817 |
+| The dream begins | 80.00% | ~522,826 |
+| Every story has a beginning | 36.00% | ~235,272 |
+| The first of many | 32.00% | ~209,130 |
+| Positive word of mouth | 18.00% | ~117,636 |
+| Lawn in the U.S.A. | 15.00% | ~98,030 |
+| Blade Runner | 9.00% | ~58,818 |
 | Credible | 7.00% | ~45,747 |
 | Teamwork makes the dream work | 6.00% | ~39,212 |
 | Where there's muck there's brass | 4.00% | ~26,141 |
@@ -61,7 +61,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~654 |
 | Mo mowers, mo problems | 0.10% | ~654 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 653,526 (Ranked 23)  
+Progressed: 653,532 (Ranked 23)  
 Completed: 15 (0.00%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,7 +175,7 @@ Completed: 15 (0.00%) (Ranked 254)
 | 2023-08-09 | 652,652 | 15 |
 | 2023-08-10 | 653,010 | 15 |
 | 2023-08-11 | 653,414 | 15 |
-| 2023-08-12 | 653,526 | 15 |
+| 2023-08-12 | 653,532 | 15 |
 ## Awards
 Max (Quickly Understood Controls): 181  (Ranked 281)  
 Sum: 972 (Ranked 238)  
