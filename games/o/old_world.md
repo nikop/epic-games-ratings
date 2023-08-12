@@ -18,6 +18,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Friendly Family | 2.00% | ~267 |
 | Hanging Gardens | 2.00% | ~267 |
 | Play a Single Player Game | 2.00% | ~267 |
+| Trade Caravan | 2.00% | ~267 |
 | The Great Mage | 2.00% | ~267 |
 | Ambitious | 1.00% | ~134 |
 | Brilliant | 1.00% | ~134 |
@@ -51,7 +52,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Roman Paganism | 1.00% | ~134 |
 | Zoroastrianism | 1.00% | ~134 |
 | Naming Landmarks | 1.00% | ~134 |
-| Trade Caravan | 1.00% | ~134 |
 | Poetic Leader | 1.00% | ~134 |
 | Regicide | 0.90% | ~120 |
 | Artisans | 0.90% | ~120 |
@@ -101,6 +101,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Economic Reform | 0.50% | ~67 |
 | Dualism | 0.50% | ~67 |
 | Legalism | 0.50% | ~67 |
+| Redemption | 0.50% | ~67 |
 | Cimmerian Archer | 0.50% | ~67 |
 | Legionary | 0.50% | ~67 |
 | Ambition Victory | 0.50% | ~67 |
@@ -121,7 +122,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Military Prestige | 0.40% | ~53 |
 | Enlightenment | 0.40% | ~53 |
 | Gnosticism | 0.40% | ~53 |
-| Redemption | 0.40% | ~53 |
 | Revelation | 0.40% | ~53 |
 | Veneration | 0.40% | ~53 |
 | Kushite Cavalry | 0.40% | ~53 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,366 (Ranked 117)  
+Progressed: 13,367 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -417,7 +417,7 @@ Completed: 5 (0.04%) (Ranked 223)
 | 2023-08-09 | 13,342 | 5 |
 | 2023-08-10 | 13,349 | 5 |
 | 2023-08-11 | 13,363 | 5 |
-| 2023-08-12 | 13,366 | 5 |
+| 2023-08-12 | 13,367 | 5 |
 ## Awards
 Max (Relaxing): 219  (Ranked 264)  
 Sum: 1,789 (Ranked 206)  

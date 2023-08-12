@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2491,
+  "EOS_Progressed": 2493,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -2493,6 +2493,11 @@
       "Time": "2023-08-12T02:13:53.0087244+00:00",
       "NumProgressed": 2491,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-08-12T03:05:07.7618852+00:00",
+      "NumProgressed": 2493,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -2568,7 +2573,7 @@
       "Name": "Starting as a duo",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -2584,7 +2589,7 @@
       "Name": "The end",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "TRANSMISSION",
@@ -2600,14 +2605,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2491,
+      "Progressed": 2493,
       "Completed": 6
     }
   ],
@@ -2615,8 +2620,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-08-12T02:13:53.0087237+00:00",
+  "LastChanged_Achievements": "2023-08-12T03:05:07.7618844+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:14.6736955+00:00",
-  "LastUpdate_Ratings": "2023-08-12T02:09:51.9150564+00:00",
-  "LastUpdate_Achievements": "2023-08-12T02:13:53.0087511+00:00"
+  "LastUpdate_Ratings": "2023-08-12T03:01:31.1259339+00:00",
+  "LastUpdate_Achievements": "2023-08-12T03:05:07.7619181+00:00"
 }

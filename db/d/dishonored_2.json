@@ -2,12 +2,12 @@
   "ID": "1dcddbcc334945c48353b75a8fce5e5e",
   "Name": "Dishonored 2",
   "ProductSlug": "dishonored-2",
-  "Ranking_Rating": 88,
+  "Ranking_Rating": 100,
   "Ranking_Popularity": 204,
   "Ranking_PopularitySum": 278,
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_NewPlayers": 352,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-11-03T15:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.79,
+  "Rating": 4.78,
   "RatingHistory": [
     {
       "Time": "2022-11-24T20:57:28.2064368+00:00",
@@ -980,18 +980,24 @@
       "Rating": 4.79,
       "NumberOfAwards": 675,
       "NumberOfAwardsMax": 444
+    },
+    {
+      "Time": "2023-08-12T03:01:55.0956318+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 678,
+      "NumberOfAwardsMax": 447
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 675,
-  "NumberOfAwardsMax": 444,
+  "NumberOfAwards": 678,
+  "NumberOfAwardsMax": 447,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 444
+      "Count": 447
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1066,8 +1072,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-05T14:01:17.2849219+00:00",
   "FirstSeenRating": "2022-11-24T20:57:28.2064365+00:00",
-  "LastChanged": "2023-08-11T12:01:38.0703804+00:00",
+  "LastChanged": "2023-08-12T03:01:55.0956315+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:27.9079437+00:00",
-  "LastUpdate_Ratings": "2023-08-12T02:10:08.3223352+00:00",
-  "LastUpdate_Achievements": "2023-08-12T02:15:32.261156+00:00"
+  "LastUpdate_Ratings": "2023-08-12T03:01:55.0956324+00:00",
+  "LastUpdate_Achievements": "2023-08-12T03:07:27.1790062+00:00"
 }

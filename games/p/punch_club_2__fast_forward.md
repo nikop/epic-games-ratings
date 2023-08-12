@@ -51,7 +51,7 @@
 | Deal with life | 36.00% | ~88 |
 | GYM professional | 36.00% | ~88 |
 | The die is cast | 36.00% | ~88 |
-| Seashell hunter | 34.00% | ~83 |
+| Seashell hunter | 35.00% | ~85 |
 | Gang wrangler | 32.00% | ~78 |
 | Problems of cyborgs | 32.00% | ~78 |
 | Absolute Champion! | 32.00% | ~78 |

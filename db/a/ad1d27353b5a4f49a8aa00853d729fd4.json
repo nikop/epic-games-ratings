@@ -152,17 +152,17 @@
       "ID": "destroy_cruiser",
       "SetID": "94981fl",
       "Name": "Cruiser",
-      "Percentage": 26,
+      "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "destroy_destroyer",
       "SetID": "94981fl",
       "Name": "Destroyer",
-      "Percentage": 21,
+      "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "destroy_frigate",
@@ -192,9 +192,9 @@
       "ID": "destroy_heavy_frigate",
       "SetID": "94981fl",
       "Name": "heavy frigate",
-      "Percentage": 21,
+      "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "double_orbs",
@@ -280,9 +280,9 @@
       "ID": "resistance",
       "SetID": "94981fl",
       "Name": "resistance",
-      "Percentage": 32,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "shield",
@@ -336,9 +336,9 @@
       "ID": "super_shield",
       "SetID": "94981fl",
       "Name": "super shield",
-      "Percentage": 21,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "the_magneto",
@@ -383,8 +383,8 @@
   ],
   "FirstSeen": "2023-08-06T03:57:23.4648086+00:00",
   "FirstSeenAchievements": "2023-07-21T11:01:15.84918+00:00",
-  "LastChanged_Achievements": "2023-08-12T02:14:04.0555686+00:00",
+  "LastChanged_Achievements": "2023-08-12T03:05:23.7739534+00:00",
   "LastUpdate_AppInfo": "2023-08-11T13:00:04.7910309+00:00",
-  "LastUpdate_Ratings": "2023-08-12T02:07:19.1303038+00:00",
-  "LastUpdate_Achievements": "2023-08-12T02:14:04.0555903+00:00"
+  "LastUpdate_Ratings": "2023-08-12T02:57:55.6975804+00:00",
+  "LastUpdate_Achievements": "2023-08-12T03:05:23.7740008+00:00"
 }

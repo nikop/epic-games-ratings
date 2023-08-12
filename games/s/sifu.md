@@ -36,9 +36,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | Muk Yan Master | 0.80% | ~5,699 |
 | Detective Story | 0.80% | ~5,699 |
 | Deadly Venom | 0.80% | ~173 |
-| Tiger on Fire | 0.70% | ~4,986 |
-| Source of Flying Daggers | 0.70% | ~4,986 |
-| Iron Money | 0.70% | ~4,986 |
+| Tiger on Fire | 0.70% | ~4,987 |
+| Source of Flying Daggers | 0.70% | ~4,987 |
+| Iron Money | 0.70% | ~4,987 |
 | A Touch of Acumen | 0.70% | ~152 |
 | Legendary Talismans of Wuxing | 0.60% | ~4,274 |
 | Prodigal Child | 0.60% | ~4,274 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,425 |
 | Warriors from the Mountain | 0.10% | ~712 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 712,357 (Ranked 20)  
+Progressed: 712,358 (Ranked 20)  
 Completed: 12,853 (1.80%) (Ranked 94)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,16 +171,16 @@ Completed: 12,853 (1.80%) (Ranked 94)
 | 2023-08-09 | 712,304 | 12,850 |
 | 2023-08-10 | 712,332 | 12,851 |
 | 2023-08-11 | 712,356 | 12,853 |
-| 2023-08-12 | 712,357 | 12,853 |
+| 2023-08-12 | 712,358 | 12,853 |
 ## Awards
 Max (Great Boss Battles): 6,361  (Ranked 55)  
-Sum: 10,917 (Ranked 82)  
+Sum: 10,918 (Ranked 82)  
 Diff (max vs sum): -27  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,361 |
 | This game has Diverse Characters | 567 |
-| This game has Challenging Combat | 539 |
+| This game has Challenging Combat | 540 |
 | This game has Quickly Understood Controls | 534 |
 | This game is Extremely Fun | 522 |
 | This game has Amazing Storytelling | 522 |
@@ -400,3 +400,4 @@ Diff (max vs sum): -27
 | 2023-08-09 | 4.82 | - | 6,354 | 10,908 |
 | 2023-08-10 | 4.82 | - | 6,356 | 10,912 |
 | 2023-08-11 | 4.82 | - | 6,361 | 10,917 |
+| 2023-08-12 | 4.82 | - | 6,361 | 10,918 |

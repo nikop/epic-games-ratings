@@ -2,7 +2,7 @@
   "ID": "a3dd9f3da8ec49c7b25dec42cce2ec46",
   "Name": "Adios",
   "ProductSlug": "adios-b378b4",
-  "Ranking_Rating": 964,
+  "Ranking_Rating": 965,
   "Ranking_Popularity": 511,
   "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 79,
@@ -96,9 +96,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 69671,
+  "EOS_Progressed": 69674,
   "EOS_Completed": 698,
-  "EOS_NewPlayers": 839,
+  "EOS_NewPlayers": 838,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -12566,6 +12566,11 @@
       "Time": "2023-08-12T02:12:08.9922018+00:00",
       "NumProgressed": 69671,
       "NumCompleted": 698
+    },
+    {
+      "Time": "2023-08-12T03:02:52.9683517+00:00",
+      "NumProgressed": 69674,
+      "NumCompleted": 698
     }
   ],
   "TotalAchievements": 25,
@@ -12649,7 +12654,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 13934
+      "UsersEstimate": 13935
     },
     {
       "ID": "Hearty",
@@ -12665,7 +12670,7 @@
       "Name": "Lazy Bones",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 6270
+      "UsersEstimate": 6271
     },
     {
       "ID": "Magnetic Miracles",
@@ -12681,7 +12686,7 @@
       "Name": "Master, Commander",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 13934
+      "UsersEstimate": 13935
     },
     {
       "ID": "Meaty",
@@ -12697,7 +12702,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 13237
+      "UsersEstimate": 13238
     },
     {
       "ID": "Nice Try",
@@ -12705,7 +12710,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 11147
+      "UsersEstimate": 11148
     },
     {
       "ID": "Nothing Left to Say",
@@ -12729,7 +12734,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 9057
+      "UsersEstimate": 9058
     },
     {
       "ID": "Sniper",
@@ -12776,7 +12781,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 69671,
+      "Progressed": 69674,
       "Completed": 698
     }
   ],
@@ -12784,8 +12789,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-08-07T22:57:38.0235808+00:00",
-  "LastChanged_Achievements": "2023-08-12T02:12:08.9922013+00:00",
+  "LastChanged_Achievements": "2023-08-12T03:02:52.9683509+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:13.5185195+00:00",
-  "LastUpdate_Ratings": "2023-08-12T02:07:07.188068+00:00",
-  "LastUpdate_Achievements": "2023-08-12T02:12:08.9923059+00:00"
+  "LastUpdate_Ratings": "2023-08-12T02:57:42.3020567+00:00",
+  "LastUpdate_Achievements": "2023-08-12T03:02:52.9684818+00:00"
 }

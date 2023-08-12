@@ -2,7 +2,7 @@
   "ID": "9d2f484bbec64aa8ad234b3199dcaf1c",
   "Name": "Absolute Drift",
   "ProductSlug": "absolute-drift",
-  "Ranking_Rating": 678,
+  "Ranking_Rating": 679,
   "Ranking_Popularity": 511,
   "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 7,
@@ -442,7 +442,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1534618,
+  "EOS_Progressed": 1534624,
   "EOS_Completed": 659,
   "EOS_NewPlayers": 1239,
   "EOS_NewCompleters": 4,
@@ -12922,6 +12922,11 @@
       "Time": "2023-08-12T02:16:02.4263556+00:00",
       "NumProgressed": 1534618,
       "NumCompleted": 659
+    },
+    {
+      "Time": "2023-08-12T03:08:09.6186918+00:00",
+      "NumProgressed": 1534624,
+      "NumCompleted": 659
     }
   ],
   "TotalAchievements": 20,
@@ -12941,7 +12946,7 @@
       "Name": "Maverick",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 107423
+      "UsersEstimate": 107424
     },
     {
       "ID": "ACH_CUBIC_RUCKUS",
@@ -13092,15 +13097,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1534618,
+      "Progressed": 1534624,
       "Completed": 659
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-07-23T19:00:00.3270793+00:00",
-  "LastChanged_Achievements": "2023-08-12T02:16:02.4263552+00:00",
+  "LastChanged_Achievements": "2023-08-12T03:08:09.618691+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:58:05.3678826+00:00",
-  "LastUpdate_Ratings": "2023-08-12T02:10:40.4388802+00:00",
-  "LastUpdate_Achievements": "2023-08-12T02:16:02.4264472+00:00"
+  "LastUpdate_Ratings": "2023-08-12T03:02:39.4129612+00:00",
+  "LastUpdate_Achievements": "2023-08-12T03:08:09.6188219+00:00"
 }

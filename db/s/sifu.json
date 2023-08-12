@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 82,
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 94,
-  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewPlayers": 101,
   "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -5542,10 +5542,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 10917,
       "NumberOfAwardsMax": 6361
+    },
+    {
+      "Time": "2023-08-12T03:01:09.8022112+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10918,
+      "NumberOfAwardsMax": 6361
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10917,
+  "NumberOfAwards": 10918,
   "NumberOfAwardsMax": 6361,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5595,7 +5601,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 539
+      "Count": 540
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -5622,9 +5628,9 @@
       "Count": 370
     }
   ],
-  "EOS_Progressed": 712357,
+  "EOS_Progressed": 712358,
   "EOS_Completed": 12853,
-  "EOS_NewPlayers": 182,
+  "EOS_NewPlayers": 183,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -16312,6 +16318,11 @@
       "Time": "2023-08-12T00:04:51.4980926+00:00",
       "NumProgressed": 712357,
       "NumCompleted": 12853
+    },
+    {
+      "Time": "2023-08-12T03:04:19.2531752+00:00",
+      "NumProgressed": 712358,
+      "NumCompleted": 12853
     }
   ],
   "TotalAchievements": 50,
@@ -16379,7 +16390,7 @@
       "Name": "Tiger on Fire",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 4986
+      "UsersEstimate": 4987
     },
     {
       "ID": "09_Wude_H3",
@@ -16387,7 +16398,7 @@
       "Name": "Source of Flying Daggers",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 4986
+      "UsersEstimate": 4987
     },
     {
       "ID": "10_Wude_H4",
@@ -16395,7 +16406,7 @@
       "Name": "Iron Money",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 4986
+      "UsersEstimate": 4987
     },
     {
       "ID": "11_Wude_H5",
@@ -16722,21 +16733,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 21658,
+      "Progressed": 21659,
       "Completed": 10514
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 712357,
+      "Progressed": 712358,
       "Completed": 12853
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-08-11T12:00:48.7069376+00:00",
-  "LastChanged_Achievements": "2023-08-12T02:13:17.362224+00:00",
+  "LastChanged": "2023-08-12T03:01:09.802211+00:00",
+  "LastChanged_Achievements": "2023-08-12T03:04:19.2531744+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:56.2454888+00:00",
-  "LastUpdate_Ratings": "2023-08-12T02:09:35.0018763+00:00",
-  "LastUpdate_Achievements": "2023-08-12T02:13:17.3623331+00:00"
+  "LastUpdate_Ratings": "2023-08-12T03:01:09.8022119+00:00",
+  "LastUpdate_Achievements": "2023-08-12T03:04:19.2533473+00:00"
 }

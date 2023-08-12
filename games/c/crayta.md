@@ -1,13 +1,13 @@
 # Crayta
 [Store](https://store.epicgames.com/en-US/p/crayta)  
 [View Rawdata](../../db/c/crayta.json)  
-Rating: 4.19 (Ranked 862)  
+Rating: 4.19 (Ranked 863)  
 Number of Ratings: 94  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Well Socialised! | 23.00% | ~25,198 |
-| Variety Player - Bronze | 13.00% | ~14,242 |
+| Variety Player - Bronze | 13.00% | ~14,243 |
 | Express Yourself - Bronze | 7.00% | ~7,669 |
 | Getting Friendly | 5.00% | ~5,478 |
 | Challenge Apprentice | 5.00% | ~5,478 |
@@ -41,7 +41,7 @@ Number of Ratings: 94  (23.09.2022)
 | Featured Gamer - Silver | 0.10% | ~110 |
 | Featured Gamer - Gold | 0.10% | ~110 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 109,557 (Ranked 71)  
+Progressed: 109,558 (Ranked 71)  
 Completed: 5 (0.00%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,6 +151,7 @@ Completed: 5 (0.00%) (Ranked 254)
 | 2023-08-09 | 109,547 | 5 |
 | 2023-08-10 | 109,551 | 5 |
 | 2023-08-11 | 109,557 | 5 |
+| 2023-08-12 | 109,558 | 5 |
 ## Awards
 Max (Diverse Characters): 50  (Ranked 402)  
 Sum: 370 (Ranked 323)  

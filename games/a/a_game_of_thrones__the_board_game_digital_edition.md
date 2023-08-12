@@ -1,14 +1,14 @@
 # A Game Of Thrones: The Board Game Digital Edition
 [Store](https://store.epicgames.com/en-US/p/a-game-of-thrones-5858a3)  
 [View Rawdata](../../db/a/a_game_of_thrones__the_board_game_digital_edition.json)  
-Rating: 4.20 (Ranked 852)  
+Rating: 4.20 (Ranked 853)  
 Number of Ratings: 2,500  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Conqueror | 40.00% | ~8,444 |
 | Battering Crew | 20.00% | ~4,222 |
-| The Kingsroad | 18.00% | ~3,800 |
+| The Kingsroad | 19.00% | ~4,011 |
 | Well Stocked | 14.00% | ~2,955 |
 | Royal Fleet | 13.00% | ~2,744 |
 | The Kraken’s Grasp | 9.00% | ~1,900 |
@@ -23,13 +23,13 @@ Number of Ratings: 2,500  (23.09.2022)
 | Unbowed, Unbent, Unbroken | 6.00% | ~1,267 |
 | Hear me Roar! | 6.00% | ~1,267 |
 | Defender of the Wall | 6.00% | ~1,267 |
-| Growing Strong | 5.00% | ~1,055 |
+| Growing Strong | 5.00% | ~1,056 |
 | What is Dead may Never Die | 3.00% | ~633 |
 | The Swift | 3.00% | ~633 |
 | King in the North | 2.00% | ~422 |
 | War of the Five Kings | 1.00% | ~211 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,109 (Ranked 104)  
+Progressed: 21,110 (Ranked 104)  
 Completed: 42 (0.20%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 42 (0.20%) (Ranked 179)
 | 2023-08-09 | 20,954 | 42 |
 | 2023-08-10 | 21,019 | 42 |
 | 2023-08-11 | 21,099 | 42 |
-| 2023-08-12 | 21,109 | 42 |
+| 2023-08-12 | 21,110 | 42 |
 ## Awards
 Max (Quickly Understood Controls): 123  (Ranked 312)  
 Sum: 786 (Ranked 263)  

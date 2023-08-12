@@ -2,7 +2,7 @@
   "ID": "b8abdf9f9bc64ed6b4128a71fd47607f",
   "Name": "Gamedec - Definitive Edition",
   "ProductSlug": "gamedec",
-  "Ranking_Rating": 780,
+  "Ranking_Rating": 781,
   "Ranking_Popularity": 363,
   "Ranking_PopularitySum": 427,
   "Ranking_EOS_Progress": 47,
@@ -390,9 +390,9 @@
       "Count": 78
     }
   ],
-  "EOS_Progressed": 241559,
+  "EOS_Progressed": 241561,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 998,
+  "EOS_NewPlayers": 995,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12810,6 +12810,11 @@
       "Time": "2023-08-12T02:13:17.7891608+00:00",
       "NumProgressed": 241559,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-08-12T03:04:19.7630386+00:00",
+      "NumProgressed": 241561,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -12861,7 +12866,7 @@
       "Name": "Collector",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 26571
+      "UsersEstimate": 26572
     },
     {
       "ID": "ACH_ENJOY",
@@ -13037,7 +13042,7 @@
       "Name": "Write that down",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 57974
+      "UsersEstimate": 57975
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -13236,7 +13241,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 241559,
+      "Progressed": 241561,
       "Completed": 7
     }
   ],
@@ -13244,8 +13249,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-08-09T23:58:55.2911766+00:00",
-  "LastChanged_Achievements": "2023-08-12T02:13:17.7891604+00:00",
+  "LastChanged_Achievements": "2023-08-12T03:04:19.7630378+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:45.3941275+00:00",
-  "LastUpdate_Ratings": "2023-08-12T02:08:35.8891042+00:00",
-  "LastUpdate_Achievements": "2023-08-12T02:13:17.7892875+00:00"
+  "LastUpdate_Ratings": "2023-08-12T02:59:47.2098445+00:00",
+  "LastUpdate_Achievements": "2023-08-12T03:04:19.7631835+00:00"
 }

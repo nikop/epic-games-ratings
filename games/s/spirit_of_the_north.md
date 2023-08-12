@@ -1,37 +1,37 @@
 # Spirit of the North
 [Store](https://store.epicgames.com/en-US/p/spirit-of-the-north-f58a66)  
 [View Rawdata](../../db/s/spirit_of_the_north.json)  
-Rating: 4.36 (Ranked 735)  
+Rating: 4.36 (Ranked 736)  
 Number of Ratings: 1,175  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 68.00% | ~44,379 |
-| INFUSED WITH LIGHT | 53.00% | ~34,589 |
-| FOXIN' AROUND | 29.00% | ~18,926 |
-| FETCH | 27.00% | ~17,621 |
-| BLOOMS OF LIGHT | 26.00% | ~16,968 |
-| BEST FRIENDS | 22.00% | ~14,358 |
-| AWAKEN | 21.00% | ~13,705 |
-| ERADICATE | 21.00% | ~13,705 |
-| SPIRIT BARK | 21.00% | ~13,705 |
-| GARDEN OF LIGHT | 18.00% | ~11,747 |
-| SPIRIT FORM | 16.00% | ~10,442 |
-| UPROOTING DARKNESS | 15.00% | ~9,789 |
-| WRITTEN IN STONE | 15.00% | ~9,789 |
+| A GUARDIAN FORGOTTEN | 68.00% | ~44,381 |
+| INFUSED WITH LIGHT | 53.00% | ~34,591 |
+| FOXIN' AROUND | 29.00% | ~18,927 |
+| FETCH | 27.00% | ~17,622 |
+| BLOOMS OF LIGHT | 26.00% | ~16,969 |
+| BEST FRIENDS | 22.00% | ~14,359 |
+| AWAKEN | 21.00% | ~13,706 |
+| ERADICATE | 21.00% | ~13,706 |
+| SPIRIT BARK | 21.00% | ~13,706 |
+| GARDEN OF LIGHT | 18.00% | ~11,748 |
+| SPIRIT FORM | 16.00% | ~10,443 |
+| UPROOTING DARKNESS | 15.00% | ~9,790 |
+| WRITTEN IN STONE | 15.00% | ~9,790 |
 | WEIGHTLESS | 12.00% | ~7,832 |
 | SPIRIT DASH | 11.00% | ~7,179 |
 | OLD COMPANION | 9.00% | ~5,874 |
 | PLAGUE DOCTOR | 8.00% | ~5,221 |
 | SPIRITED AWAY | 8.00% | ~5,221 |
-| MATCH MAKER | 7.00% | ~4,568 |
-| NORTHERN LIGHTS | 7.00% | ~4,568 |
+| MATCH MAKER | 7.00% | ~4,569 |
+| NORTHERN LIGHTS | 7.00% | ~4,569 |
 | FOX? OR FLYING SQUIRREL? | 4.00% | ~2,611 |
 | ANCIENT HISTORY | 3.00% | ~1,958 |
 | NONE FORGOTTEN | 2.00% | ~1,305 |
 | KINDRED SPIRITS | 0.60% | ~392 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,263 (Ranked 83)  
+Progressed: 65,266 (Ranked 83)  
 Completed: 343 (0.53%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 343 (0.53%) (Ranked 138)
 | 2023-08-09 | 65,079 | 339 |
 | 2023-08-10 | 65,162 | 341 |
 | 2023-08-11 | 65,249 | 343 |
-| 2023-08-12 | 65,263 | 343 |
+| 2023-08-12 | 65,266 | 343 |
 ## Awards
 Max (Extremely Fun): 26  (Ranked 473)  
 Sum: 114 (Ranked 410)  

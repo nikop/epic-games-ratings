@@ -6,20 +6,20 @@ Number of Ratings: 48  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Plenty More to Go | 88.00% | ~601 |
-| All Bark, No Bite | 77.00% | ~526 |
+| Plenty More to Go | 88.00% | ~602 |
+| All Bark, No Bite | 77.00% | ~527 |
 | Hopeful Hunter | 67.00% | ~458 |
-| Amateur Adventurer | 65.00% | ~444 |
-| The Road to Recovery | 64.00% | ~437 |
-| Partners? | 62.00% | ~423 |
-| Magical Mineral Golem | 55.00% | ~376 |
+| Amateur Adventurer | 65.00% | ~445 |
+| The Road to Recovery | 64.00% | ~438 |
+| Partners? | 62.00% | ~424 |
+| Magical Mineral Golem | 56.00% | ~383 |
 | On Outlander Lane | 55.00% | ~376 |
-| First Time Fishing | 52.00% | ~355 |
-| A Girl About the Town | 51.00% | ~348 |
+| First Time Fishing | 52.00% | ~356 |
+| A Girl About the Town | 51.00% | ~349 |
 | First Time Hunting | 49.00% | ~335 |
 | Rune Wall Wreckage | 48.00% | ~328 |
 | ...And Your Tax Money | 47.00% | ~321 |
-| The Lords of the Snowpeak | 40.00% | ~273 |
+| The Lords of the Snowpeak | 40.00% | ~274 |
 | The Go-To Girl | 37.00% | ~253 |
 | The Lava Mantor Wyrm | 36.00% | ~246 |
 | Scavenger's Honor | 36.00% | ~246 |
@@ -27,18 +27,18 @@ Number of Ratings: 48  (23.09.2022)
 | The Great Forest...On Foot! | 36.00% | ~246 |
 | One Mean Merc | 35.00% | ~239 |
 | Money, Money, Money | 35.00% | ~239 |
-| Adept, for an Acting Mayor | 34.00% | ~232 |
-| Rune Wall Master | 33.00% | ~225 |
+| Adept, for an Acting Mayor | 34.00% | ~233 |
+| Rune Wall Master | 33.00% | ~226 |
 | The Quarry...On Foot! | 31.00% | ~212 |
 | The Runebarrows...On Foot! | 29.00% | ~198 |
-| The Snowpeak...On Foot! | 27.00% | ~184 |
-| The Lava Ruins...On Foot! | 27.00% | ~184 |
+| The Snowpeak...On Foot! | 27.00% | ~185 |
+| The Lava Ruins...On Foot! | 27.00% | ~185 |
 | Meat Master | 26.00% | ~178 |
 | Fishing Master | 25.00% | ~171 |
 | Armor Master | 24.00% | ~164 |
 | The Pride of the Town | 23.00% | ~157 |
-| This Treasure I've Found | 21.00% | ~143 |
-| New Nevaeh's Number One Customer | 21.00% | ~143 |
+| This Treasure I've Found | 21.00% | ~144 |
+| New Nevaeh's Number One Customer | 21.00% | ~144 |
 | Arms Master | 19.00% | ~130 |
 | Rune Scholar | 16.00% | ~109 |
 | No Treasure Left Behind | 13.00% | ~89 |
@@ -51,14 +51,14 @@ Number of Ratings: 48  (23.09.2022)
 | Champion of the Quarry | 10.00% | ~68 |
 | Champion of the Snowpeak | 10.00% | ~68 |
 | Champion of the Lava Ruins | 10.00% | ~68 |
-| No One Better | 9.00% | ~61 |
-| Full Force - CJ | 9.00% | ~61 |
+| No One Better | 9.00% | ~62 |
+| Full Force - CJ | 9.00% | ~62 |
 | Full Force - Garoo | 8.00% | ~55 |
 | Full Force - Isha | 8.00% | ~55 |
 | Rising Champion | 7.00% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 683 (Ranked 211)  
-Completed: 58 (8.49%) (Ranked 32)  
+Progressed: 684 (Ranked 211)  
+Completed: 58 (8.48%) (Ranked 32)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -81,6 +81,7 @@ Completed: 58 (8.49%) (Ranked 32)
 | 2023-07-29 | 681 | 58 |
 | 2023-08-06 | 682 | 58 |
 | 2023-08-11 | 683 | 58 |
+| 2023-08-12 | 684 | 58 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

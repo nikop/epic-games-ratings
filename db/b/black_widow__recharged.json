@@ -2,7 +2,7 @@
   "ID": "a25444fc25e9498781983b58ceba30c5",
   "Name": "Black Widow: Recharged",
   "ProductSlug": "black-widow-recharged",
-  "Ranking_Rating": 852,
+  "Ranking_Rating": 853,
   "Ranking_Popularity": 511,
   "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 110,
@@ -146,7 +146,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17124,
+  "EOS_Progressed": 17125,
   "EOS_Completed": 51,
   "EOS_NewPlayers": 193,
   "EOS_NewCompleters": 0,
@@ -9581,6 +9581,11 @@
       "Time": "2023-08-12T02:12:16.9538403+00:00",
       "NumProgressed": 17124,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-08-12T03:03:14.4653282+00:00",
+      "NumProgressed": 17125,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 14,
@@ -9592,7 +9597,7 @@
       "Name": "Across The Border",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 13528
+      "UsersEstimate": 13529
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -9616,7 +9621,7 @@
       "Name": "Danger Ahead",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 4623
+      "UsersEstimate": 4624
     },
     {
       "ID": "ACH_DONT_BRING_ME_DOWN",
@@ -9640,7 +9645,7 @@
       "Name": "Hello My Old Friend",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1027
+      "UsersEstimate": 1028
     },
     {
       "ID": "ACH_IM_ALIVE",
@@ -9696,22 +9701,22 @@
       "Name": "Wild West Hero",
       "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 2397
+      "UsersEstimate": 2398
     }
   ],
   "AchievementSets": [
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 17124,
+      "Progressed": 17125,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-05-31T22:01:00.0124016+00:00",
-  "LastChanged_Achievements": "2023-08-12T02:12:16.9538398+00:00",
+  "LastChanged_Achievements": "2023-08-12T03:03:14.4653274+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:58:22.1370222+00:00",
-  "LastUpdate_Ratings": "2023-08-12T02:06:56.5324239+00:00",
-  "LastUpdate_Achievements": "2023-08-12T02:12:16.9541096+00:00"
+  "LastUpdate_Ratings": "2023-08-12T02:57:29.7442565+00:00",
+  "LastUpdate_Achievements": "2023-08-12T03:03:14.4654293+00:00"
 }
