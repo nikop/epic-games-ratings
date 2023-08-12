@@ -30,9 +30,9 @@
 | 28 | [Sonic Origins](games/s/sonic_origins.md) | 9.56% |
 | 29 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 9.30% |
 | 29 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.30% |
-| 31 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.04% |
+| 31 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.03% |
 | 32 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.48% |
-| 33 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.06% |
+| 33 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 7.94% |
 | 34 | [Smelter](games/s/smelter.md) | 7.69% |
 | 35 | [Ravenlok](games/r/ravenlok.md) | 7.46% |
 | 36 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.95% |
@@ -84,7 +84,7 @@
 | 82 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 2.38% |
 | 83 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.36% |
 | 84 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.34% |
-| 85 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.28% |
+| 85 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.27% |
 | 86 | [Bloodshore](games/b/bloodshore.md) | 2.23% |
 | 87 | [FORECLOSED](games/f/foreclosed.md) | 2.17% |
 | 88 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.04% |
