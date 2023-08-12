@@ -107,6 +107,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ambition Victory | 0.50% | ~67 |
 | Double Victory | 0.50% | ~67 |
 | Win a Single Player Game | 0.50% | ~67 |
+| Ishtar Gate in Babylon | 0.40% | ~53 |
 | Capable | 0.40% | ~53 |
 | Devout | 0.40% | ~53 |
 | Ready | 0.40% | ~53 |
@@ -126,7 +127,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Veneration | 0.40% | ~53 |
 | Kushite Cavalry | 0.40% | ~53 |
 | Bad Heir Day | 0.30% | ~40 |
-| Ishtar Gate in Babylon | 0.30% | ~40 |
 | Carthage - Ox Hide | 0.30% | ~40 |
 | Old | 0.30% | ~40 |
 | Peacemaker | 0.30% | ~40 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,367 (Ranked 117)  
+Progressed: 13,369 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -417,10 +417,10 @@ Completed: 5 (0.04%) (Ranked 223)
 | 2023-08-09 | 13,342 | 5 |
 | 2023-08-10 | 13,349 | 5 |
 | 2023-08-11 | 13,363 | 5 |
-| 2023-08-12 | 13,367 | 5 |
+| 2023-08-12 | 13,369 | 5 |
 ## Awards
 Max (Relaxing): 219  (Ranked 264)  
-Sum: 1,789 (Ranked 206)  
+Sum: 1,790 (Ranked 206)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
@@ -429,7 +429,7 @@ Diff (max vs sum): 58
 | This game has Diverse Characters | 205 |
 | This game is Highly Recommended | 205 |
 | This game is Educational | 203 |
-| This game has Challenging Combat | 192 |
+| This game has Challenging Combat | 193 |
 | This game has Quickly Understood Controls | 189 |
 | This game has Amazing Characters | 188 |
 | This game has Amazing Storytelling | 182 |
@@ -550,3 +550,4 @@ Diff (max vs sum): 58
 | 2023-08-01 | 4.65 | - | 218 | 1,786 |
 | 2023-08-10 | 4.65 | - | 218 | 1,788 |
 | 2023-08-11 | 4.65 | - | 219 | 1,789 |
+| 2023-08-12 | 4.65 | - | 219 | 1,790 |

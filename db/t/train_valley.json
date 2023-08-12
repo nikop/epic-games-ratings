@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 225,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
     "PcReleaseDate": "2015-09-16T00:00:00+00:00",
@@ -876,9 +876,9 @@
       "ID": "03_philatelist",
       "SetID": "chb1m60",
       "Name": "Philatelist",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 113
     },
     {
       "ID": "04_tycoon",
@@ -1180,8 +1180,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-08-05T18:00:22.7295334+00:00",
-  "LastChanged_Achievements": "2023-08-12T03:06:12.9259725+00:00",
+  "LastChanged_Achievements": "2023-08-12T04:05:37.5412214+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:23.250379+00:00",
-  "LastUpdate_Ratings": "2023-08-12T02:59:21.3896523+00:00",
-  "LastUpdate_Achievements": "2023-08-12T03:06:12.9260315+00:00"
+  "LastUpdate_Ratings": "2023-08-12T03:59:07.514045+00:00",
+  "LastUpdate_Achievements": "2023-08-12T04:05:37.541249+00:00"
 }

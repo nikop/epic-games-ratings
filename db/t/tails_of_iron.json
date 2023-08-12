@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -227,7 +227,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1861,
+  "EOS_Progressed": 1862,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
@@ -2432,6 +2432,11 @@
       "Time": "2023-08-11T19:04:43.4903935+00:00",
       "NumProgressed": 1861,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-08-12T04:04:53.5295064+00:00",
+      "NumProgressed": 1862,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 30,
@@ -2451,7 +2456,7 @@
       "Name": "Collect Gold",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 837
+      "UsersEstimate": 838
     },
     {
       "ID": "Collect20Iron",
@@ -2467,7 +2472,7 @@
       "Name": "Collect Monster Parts",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 1079
+      "UsersEstimate": 1080
     },
     {
       "ID": "CollectAllStatues",
@@ -2515,7 +2520,7 @@
       "Name": "Complete Elder Faction",
       "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 744
+      "UsersEstimate": 745
     },
     {
       "ID": "CompleteGuardFaction",
@@ -2523,7 +2528,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 1489
+      "UsersEstimate": 1490
     },
     {
       "ID": "CompleteHunterFaction",
@@ -2579,7 +2584,7 @@
       "Name": "Fix the Travellers Wagon",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 800
+      "UsersEstimate": 801
     },
     {
       "ID": "GetRangedWeapon",
@@ -2587,7 +2592,7 @@
       "Name": "Ranged Weapon",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 1135
+      "UsersEstimate": 1136
     },
     {
       "ID": "GetTHWeapon",
@@ -2595,7 +2600,7 @@
       "Name": "Two Handed Weapon",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 1042
+      "UsersEstimate": 1043
     },
     {
       "ID": "Kill25Bugs",
@@ -2619,7 +2624,7 @@
       "Name": "Defeat 25 Mozis",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 856
+      "UsersEstimate": 857
     },
     {
       "ID": "MeetTheMoles",
@@ -2627,7 +2632,7 @@
       "Name": "Meet the Creatures from the Deep",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "MysteryKingsChamber",
@@ -2651,7 +2656,7 @@
       "Name": "Smithy Ready to Craft",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 837
+      "UsersEstimate": 838
     },
     {
       "ID": "RepairThroneRoom",
@@ -2675,29 +2680,29 @@
       "Name": "Return Power To The Depths",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     }
   ],
   "AchievementSets": [
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1861,
+      "Progressed": 1862,
       "Completed": 8
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 502,
-      "Completed": 502
+      "Progressed": 503,
+      "Completed": 503
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-07-30T07:58:33.6633976+00:00",
-  "LastChanged_Achievements": "2023-08-12T03:05:25.5991891+00:00",
+  "LastChanged_Achievements": "2023-08-12T04:04:53.529506+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:14.9786304+00:00",
-  "LastUpdate_Ratings": "2023-08-12T03:00:20.5822036+00:00",
-  "LastUpdate_Achievements": "2023-08-12T03:05:25.5992538+00:00"
+  "LastUpdate_Ratings": "2023-08-12T04:00:04.2431456+00:00",
+  "LastUpdate_Achievements": "2023-08-12T04:04:53.5295339+00:00"
 }

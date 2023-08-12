@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 77,
+  "Ranking_EOS_NewPlayers": 78,
   "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -6168,9 +6168,9 @@
       "Count": 582
     }
   ],
-  "EOS_Progressed": 289878,
+  "EOS_Progressed": 289879,
   "EOS_Completed": 448,
-  "EOS_NewPlayers": 506,
+  "EOS_NewPlayers": 505,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -18398,6 +18398,11 @@
       "Time": "2023-08-12T03:07:01.5970336+00:00",
       "NumProgressed": 289878,
       "NumCompleted": 448
+    },
+    {
+      "Time": "2023-08-12T04:06:32.5305116+00:00",
+      "NumProgressed": 289879,
+      "NumCompleted": 448
     }
   ],
   "TotalAchievements": 45,
@@ -18457,7 +18462,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20291
+      "UsersEstimate": 20292
     },
     {
       "ID": "PFA_16",
@@ -18473,7 +18478,7 @@
       "Name": "Beast Friends",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20291
+      "UsersEstimate": 20292
     },
     {
       "ID": "PFA_18",
@@ -18481,7 +18486,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20291
+      "UsersEstimate": 20292
     },
     {
       "ID": "PFA_19",
@@ -18489,7 +18494,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 20291
+      "UsersEstimate": 20292
     },
     {
       "ID": "PFA_2",
@@ -18713,7 +18718,7 @@
       "Name": "The Spell Master",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 20291
+      "UsersEstimate": 20292
     },
     {
       "ID": "PFA_45",
@@ -18768,7 +18773,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 289878,
+      "Progressed": 289879,
       "Completed": 448
     }
   ],
@@ -18776,8 +18781,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-08-12T01:36:04.6754895+00:00",
-  "LastChanged_Achievements": "2023-08-12T03:07:01.5970329+00:00",
+  "LastChanged_Achievements": "2023-08-12T04:06:32.5305111+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:46.8672159+00:00",
-  "LastUpdate_Ratings": "2023-08-12T02:58:59.2347747+00:00",
-  "LastUpdate_Achievements": "2023-08-12T03:07:01.5971968+00:00"
+  "LastUpdate_Ratings": "2023-08-12T03:58:47.4785603+00:00",
+  "LastUpdate_Achievements": "2023-08-12T04:06:32.5306054+00:00"
 }

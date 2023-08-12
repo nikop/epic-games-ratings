@@ -2,13 +2,13 @@
   "ID": "eca9a86adffa4605b8250d383fc01098",
   "Name": "Deceive Inc.",
   "ProductSlug": "deceive-inc",
-  "Ranking_Rating": 448,
+  "Ranking_Rating": 449,
   "Ranking_Popularity": 511,
   "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 241,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -220,9 +220,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17289,
+  "EOS_Progressed": 17290,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 364,
+  "EOS_NewPlayers": 363,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8055,6 +8055,11 @@
       "Time": "2023-08-12T01:42:25.5508209+00:00",
       "NumProgressed": 17289,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-12T04:05:02.8608345+00:00",
+      "NumProgressed": 17290,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -8130,7 +8135,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 3976
+      "UsersEstimate": 3977
     },
     {
       "ID": "0010",
@@ -8282,7 +8287,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 3976
+      "UsersEstimate": 3977
     },
     {
       "ID": "0029",
@@ -8353,7 +8358,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17289,
+      "Progressed": 17290,
       "Completed": 1
     }
   ],
@@ -8361,8 +8366,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-08T19:59:53.3803436+00:00",
-  "LastChanged_Achievements": "2023-08-12T03:05:35.3962613+00:00",
+  "LastChanged_Achievements": "2023-08-12T04:05:02.860834+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:35.6736811+00:00",
-  "LastUpdate_Ratings": "2023-08-12T03:02:01.4379399+00:00",
-  "LastUpdate_Achievements": "2023-08-12T03:05:35.3963626+00:00"
+  "LastUpdate_Ratings": "2023-08-12T04:01:44.679287+00:00",
+  "LastUpdate_Achievements": "2023-08-12T04:05:02.8608931+00:00"
 }

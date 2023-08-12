@@ -10,10 +10,10 @@ Number of Ratings: 371  (23.09.2022)
 | Look Over There! | 3.00% | ~94 |
 | Not So Fast... | 3.00% | ~94 |
 | Watch Where You Step... | 3.00% | ~94 |
+| Purging Spree | 3.00% | ~94 |
 | An Ill Omen | 3.00% | ~94 |
 | Blood for the Blood God! | 2.00% | ~63 |
 | Friendly Fire | 2.00% | ~63 |
-| Purging Spree | 2.00% | ~63 |
 | Bloodless | 2.00% | ~63 |
 | Honoured Battle-Brother | 1.00% | ~31 |
 | Surgical Excision | 1.00% | ~31 |
@@ -28,6 +28,7 @@ Number of Ratings: 371  (23.09.2022)
 | Hive Exterminator | 0.70% | ~22 |
 | Patron of Deimos | 0.40% | ~13 |
 | Daemonkeeper | 0.40% | ~13 |
+| Mind Like a Fortress | 0.40% | ~13 |
 | Efficient Killer | 0.40% | ~13 |
 | Only in Death | 0.40% | ~13 |
 | Junk Banishment | 0.40% | ~13 |
@@ -37,7 +38,6 @@ Number of Ratings: 371  (23.09.2022)
 | Tactical Sabotage | 0.40% | ~13 |
 | Fleetmaster | 0.30% | ~9 |
 | For the Machine God | 0.30% | ~9 |
-| Mind Like a Fortress | 0.30% | ~9 |
 | Preservationist | 0.30% | ~9 |
 | Engine Kill | 0.30% | ~9 |
 | Strike Force | 0.20% | ~6 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Not a Mote of Corruption | 0.00% | ~0 |
 | Strategic Command | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,141 (Ranked 153)  
+Progressed: 3,142 (Ranked 153)  
 Completed: 0 (0.00%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,6 +184,7 @@ Completed: 0 (0.00%) (Ranked 254)
 | 2023-08-09 | 3,138 | 0 |
 | 2023-08-10 | 3,140 | 0 |
 | 2023-08-11 | 3,141 | 0 |
+| 2023-08-12 | 3,142 | 0 |
 ## Awards
 Max (Character Customization): 219  (Ranked 264)  
 Sum: 468 (Ranked 305)  

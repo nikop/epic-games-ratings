@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 241,
   "Ranking_EOS_NewPlayers": 51,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -6480,9 +6480,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 796659,
+  "EOS_Progressed": 796660,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 992,
+  "EOS_NewPlayers": 988,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18870,6 +18870,11 @@
       "Time": "2023-08-12T03:06:13.8954911+00:00",
       "NumProgressed": 796659,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-08-12T04:05:38.4165063+00:00",
+      "NumProgressed": 796660,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 82,
@@ -18905,7 +18910,7 @@
       "Name": "Anorectic",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 127465
+      "UsersEstimate": 127466
     },
     {
       "ID": "Awakening",
@@ -18913,7 +18918,7 @@
       "Name": "Awakening",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 167298
+      "UsersEstimate": 167299
     },
     {
       "ID": "BadGirl",
@@ -19417,7 +19422,7 @@
       "Name": "Sinner",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 87632
+      "UsersEstimate": 87633
     },
     {
       "ID": "Sniper",
@@ -19536,15 +19541,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 796659,
+      "Progressed": 796660,
       "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-08-11T23:01:01.6114347+00:00",
-  "LastChanged_Achievements": "2023-08-12T03:06:13.8954904+00:00",
+  "LastChanged_Achievements": "2023-08-12T04:05:38.4165059+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:17.2997126+00:00",
-  "LastUpdate_Ratings": "2023-08-12T03:00:25.0777555+00:00",
-  "LastUpdate_Achievements": "2023-08-12T03:06:13.8957401+00:00"
+  "LastUpdate_Ratings": "2023-08-12T04:00:09.8857399+00:00",
+  "LastUpdate_Achievements": "2023-08-12T04:05:38.4166378+00:00"
 }

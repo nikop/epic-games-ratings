@@ -34,8 +34,8 @@ Rating: 4.20 (Ranked 853)
 | This Isn't About Escape | 0.80% | ~30 |
 | Armed to the Teeth | 0.60% | ~23 |
 | Information Overload | 0.60% | ~23 |
+| Grim Reaper | 0.50% | ~79 |
 | Big Spender | 0.50% | ~19 |
-| Grim Reaper | 0.40% | ~63 |
 | Parole Denied | 0.40% | ~15 |
 | Quick Pick | 0.40% | ~15 |
 | Mugshot | 0.30% | ~48 |
@@ -54,7 +54,7 @@ Rating: 4.20 (Ranked 853)
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 15,840 (Ranked 114)  
-Completed: 72 (0.45%) (Ranked 147)  
+Completed: 73 (0.46%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -166,6 +166,7 @@ Completed: 72 (0.45%) (Ranked 147)
 | 2023-08-09 | 15,836 | 72 |
 | 2023-08-10 | 15,839 | 72 |
 | 2023-08-11 | 15,840 | 72 |
+| 2023-08-12 | 15,840 | 73 |
 ## Awards
 Max (Amazing Storytelling): 72  (Ranked 374)  
 Sum: 406 (Ranked 317)  

@@ -5,25 +5,25 @@ Rating: 4.53 (Ranked 512)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Complete Guard Faction | 80.00% | ~1,489 |
+| Complete Guard Faction | 80.00% | ~1,490 |
 | Become King | 73.00% | ~1,359 |
 | Defeat 25 Frogs | 62.00% | ~1,154 |
-| Ranged Weapon | 61.00% | ~1,135 |
-| Collect Monster Parts | 58.00% | ~1,079 |
-| Two Handed Weapon | 56.00% | ~1,042 |
+| Ranged Weapon | 61.00% | ~1,136 |
+| Collect Monster Parts | 58.00% | ~1,080 |
+| Two Handed Weapon | 56.00% | ~1,043 |
 | Defeat 25 Grubs | 52.00% | ~968 |
 | Rescue Redgi's Brothers | 52.00% | ~968 |
 | Collect Iron Ore | 47.00% | ~875 |
 | Kitchen Ready To Cook | 47.00% | ~875 |
-| Defeat 25 Mozis | 46.00% | ~856 |
-| Collect Gold | 45.00% | ~837 |
-| Smithy Ready to Craft | 45.00% | ~837 |
-| Fix the Travellers Wagon | 43.00% | ~800 |
-| Complete Elder Faction | 40.00% | ~744 |
+| Defeat 25 Mozis | 46.00% | ~857 |
+| Collect Gold | 45.00% | ~838 |
+| Smithy Ready to Craft | 45.00% | ~838 |
+| Fix the Travellers Wagon | 43.00% | ~801 |
+| Complete Elder Faction | 40.00% | ~745 |
 | End of the Mozis | 37.00% | ~689 |
 | Throne Room Fit For A King | 37.00% | ~689 |
-| Meet the Creatures from the Deep | 35.00% | ~651 |
-| Return Power To The Depths | 35.00% | ~651 |
+| Meet the Creatures from the Deep | 35.00% | ~652 |
+| Return Power To The Depths | 35.00% | ~652 |
 | Defeat Ratnor Rodentson | 29.00% | ~540 |
 | Return the Statues | 26.00% | ~484 |
 | Defeat Rattus Augustail | 26.00% | ~484 |
@@ -36,7 +36,7 @@ Rating: 4.53 (Ranked 512)
 | King of Kings | 8.00% | ~149 |
 | A new Warchief rises | 0.80% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,861 (Ranked 170)  
+Progressed: 1,862 (Ranked 170)  
 Completed: 8 (0.43%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,6 +137,7 @@ Completed: 8 (0.43%) (Ranked 151)
 | 2023-08-09 | 1,855 | 8 |
 | 2023-08-10 | 1,857 | 8 |
 | 2023-08-11 | 1,861 | 8 |
+| 2023-08-12 | 1,862 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

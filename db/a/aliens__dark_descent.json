@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 213,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -258,9 +258,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 3141,
+  "EOS_Progressed": 3142,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -3673,6 +3673,11 @@
       "Time": "2023-08-12T01:41:52.0941975+00:00",
       "NumProgressed": 3141,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-12T04:04:27.7914471+00:00",
+      "NumProgressed": 3142,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -3716,7 +3721,7 @@
       "Name": "Use The Bumper, That\u0027s What It\u0027s For",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1633
+      "UsersEstimate": 1634
     },
     {
       "ID": "ACH_BARREL_KILL",
@@ -3724,7 +3729,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 1570
+      "UsersEstimate": 1571
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -3780,7 +3785,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 2324
+      "UsersEstimate": 2325
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -3796,7 +3801,7 @@
       "Name": "Call Me Snake",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 1947
+      "UsersEstimate": 1948
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -3804,7 +3809,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 2104
+      "UsersEstimate": 2105
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -3828,7 +3833,7 @@
       "Name": "Hardened In The Heat Of Battle",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "ACH_MAX_GUNNER",
@@ -3844,7 +3849,7 @@
       "Name": "Bandage Lover",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "ACH_MAX_RECON",
@@ -3852,7 +3857,7 @@
       "Name": "Frontliner",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "ACH_MAX_SERGEANT",
@@ -3860,7 +3865,7 @@
       "Name": "Come on, You Wanna Live Forever?",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 785
+      "UsersEstimate": 786
     },
     {
       "ID": "ACH_MAX_TECKER",
@@ -3868,7 +3873,7 @@
       "Name": "The Cable Guy",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "ACH_MISSION_01",
@@ -3884,7 +3889,7 @@
       "Name": "First Steps Into Madness",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1633
+      "UsersEstimate": 1634
     },
     {
       "ID": "ACH_MISSION_03",
@@ -3924,7 +3929,7 @@
       "Name": "The Darwin Era Was Here",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 879
+      "UsersEstimate": 880
     },
     {
       "ID": "ACH_MISSION_08",
@@ -3948,7 +3953,7 @@
       "Name": "The Spire",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "ACH_MISSION_11",
@@ -3972,7 +3977,7 @@
       "Name": "The True Experience",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "ACH_PREVENT_ABDUCTED",
@@ -3980,7 +3985,7 @@
       "Name": "Snatched Out",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 2324
+      "UsersEstimate": 2325
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -3996,7 +4001,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 1853
+      "UsersEstimate": 1854
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -4036,14 +4041,14 @@
       "Name": "The Shrink Hates Me",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 1759
+      "UsersEstimate": 1760
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3141,
+      "Progressed": 3142,
       "Completed": 2
     }
   ],
@@ -4051,8 +4056,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-08-11T23:02:30.7651235+00:00",
-  "LastChanged_Achievements": "2023-08-12T03:04:57.5265261+00:00",
+  "LastChanged_Achievements": "2023-08-12T04:04:27.7914468+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:22.265052+00:00",
-  "LastUpdate_Ratings": "2023-08-12T03:01:41.1319123+00:00",
-  "LastUpdate_Achievements": "2023-08-12T03:04:57.5265996+00:00"
+  "LastUpdate_Ratings": "2023-08-12T04:01:26.3808416+00:00",
+  "LastUpdate_Achievements": "2023-08-12T04:04:27.7914915+00:00"
 }

@@ -46,7 +46,7 @@ Rating: 4.40 (Ranked 697)
 | Curveball | 8.00% | ~109 |
 | Wipe Out | 7.00% | ~95 |
 | Dressed To Kill | 6.00% | ~82 |
-| Master Editor | 4.00% | ~54 |
+| Master Editor | 5.00% | ~68 |
 | Attenborough | 3.00% | ~41 |
 | Cruelty | 3.00% | ~41 |
 | Bookworm | 2.00% | ~27 |

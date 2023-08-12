@@ -18,7 +18,7 @@ Number of Ratings: 28  (23.09.2022)
 | Europe | 30.00% | ~130 |
 | It's no coincidence. | 29.00% | ~126 |
 | Madness! | 27.00% | ~117 |
-| Philatelist | 25.00% | ~108 |
+| Philatelist | 26.00% | ~113 |
 | Let's roll! | 25.00% | ~108 |
 | Ouroboros | 24.00% | ~104 |
 | Non Stop! | 24.00% | ~104 |

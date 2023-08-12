@@ -39,7 +39,7 @@
 | Air to Ground | 0.00% | ~0 |
 | Diver | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 497)  
+Progressed: 1 (Ranked 498)  
 Completed: 0 (0.00%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |

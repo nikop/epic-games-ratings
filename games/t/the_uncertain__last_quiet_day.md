@@ -24,17 +24,17 @@
 | Concrete painting | 17.00% | ~89 |
 | Ace | 16.00% | ~84 |
 | Goody | 16.00% | ~84 |
+| Hipster | 16.00% | ~84 |
 | Not what it seems | 16.00% | ~84 |
 | Please oh pleeease! | 16.00% | ~84 |
 | Found it! | 15.00% | ~79 |
-| Hipster | 15.00% | ~79 |
 | That's much better! | 15.00% | ~79 |
 | Not as clumsy or random | 13.00% | ~68 |
 | Blade Runner | 10.00% | ~52 |
 | Perfect hearing | 9.00% | ~47 |
 | Meticulous | 7.00% | ~37 |
+| Accurate | 5.00% | ~26 |
 | Lucky dog | 4.00% | ~21 |
-| Accurate | 4.00% | ~21 |
 | Silent | 4.00% | ~21 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 524 (Ranked 221)  

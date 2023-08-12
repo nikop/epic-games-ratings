@@ -6,11 +6,11 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 11.00% | ~67,181 |
+| You Never Forget Your First... | 11.00% | ~67,182 |
 | Into the Unknown | 10.00% | ~61,074 |
 | First Shot | 10.00% | ~61,074 |
-| Herzlich Wilkommen! | 9.00% | ~54,966 |
-| Good Night & Good Luck | 9.00% | ~54,966 |
+| Herzlich Wilkommen! | 9.00% | ~54,967 |
+| Good Night & Good Luck | 9.00% | ~54,967 |
 | Sancho Panza | 8.00% | ~48,859 |
 | Oh, So This Is How It Works! | 8.00% | ~48,859 |
 | Under Pressure | 7.00% | ~42,752 |
@@ -18,9 +18,9 @@ Number of Ratings: 7,305  (23.09.2022)
 | Light in the Darkness | 7.00% | ~42,752 |
 | Flag Burning | 7.00% | ~42,752 |
 | Night Hunter | 7.00% | ~42,752 |
-| Get Outta My House! | 6.00% | ~36,644 |
-| It Wasn't That Hard, Was It? | 6.00% | ~36,644 |
-| Being All Social | 6.00% | ~36,644 |
+| Get Outta My House! | 6.00% | ~36,645 |
+| It Wasn't That Hard, Was It? | 6.00% | ~36,645 |
+| Being All Social | 6.00% | ~36,645 |
 | Debris and Ashes | 5.00% | ~30,537 |
 | We Will Be Heard! | 5.00% | ~30,537 |
 | Known Associate | 5.00% | ~30,537 |
@@ -28,12 +28,12 @@ Number of Ratings: 7,305  (23.09.2022)
 | Tunnel Entrance | 5.00% | ~30,537 |
 | After the Fall | 5.00% | ~30,537 |
 | Can't Touch This! | 5.00% | ~30,537 |
-| Going Down | 4.00% | ~24,429 |
-| Family First | 4.00% | ~24,429 |
-| Your World, Your Rules | 4.00% | ~24,429 |
-| Death From Afar | 4.00% | ~24,429 |
-| Terminal Headache | 4.00% | ~24,429 |
-| Slowpoke! | 4.00% | ~24,429 |
+| Going Down | 4.00% | ~24,430 |
+| Family First | 4.00% | ~24,430 |
+| Your World, Your Rules | 4.00% | ~24,430 |
+| Death From Afar | 4.00% | ~24,430 |
+| Terminal Headache | 4.00% | ~24,430 |
+| Slowpoke! | 4.00% | ~24,430 |
 | Tickets, Please! | 3.00% | ~18,322 |
 | Combat Master | 3.00% | ~18,322 |
 | You're Going Down! | 3.00% | ~18,322 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~256 |
 | Connoisseur | 0.10% | ~256 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 610,737 (Ranked 27)  
+Progressed: 610,742 (Ranked 27)  
 Completed: 62 (0.01%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,14 +186,14 @@ Completed: 62 (0.01%) (Ranked 241)
 | 2023-08-09 | 609,974 | 61 |
 | 2023-08-10 | 610,337 | 62 |
 | 2023-08-11 | 610,694 | 62 |
-| 2023-08-12 | 610,737 | 62 |
+| 2023-08-12 | 610,742 | 62 |
 ## Awards
-Max (Character Customization): 8,758  (Ranked 39)  
-Sum: 21,010 (Ranked 54)  
+Max (Character Customization): 8,770  (Ranked 39)  
+Sum: 21,022 (Ranked 54)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 8,758 |
+| This game has Inclusive Character Customization | 8,770 |
 | This game has Great Boss Battles | 5,204 |
 | This game is Great for Beginners | 895 |
 | This game is Highly Recommended | 839 |
@@ -420,4 +420,4 @@ Diff (max vs sum): -15
 | 2023-08-09 | 4.58 | - | 8,747 | 20,953 |
 | 2023-08-10 | 4.58 | - | 8,758 | 20,987 |
 | 2023-08-11 | 4.58 | - | 8,758 | 21,007 |
-| 2023-08-12 | 4.58 | - | 8,758 | 21,010 |
+| 2023-08-12 | 4.58 | - | 8,770 | 21,022 |
