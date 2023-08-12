@@ -15,8 +15,8 @@
 | Terminated III | 11.00% | ~81 |
 | Nanonic II | 9.00% | ~66 |
 | Starship Docks | 7.00% | ~52 |
+| Nanonic III | 7.00% | ~52 |
 | Supply Run | 7.00% | ~52 |
-| Nanonic III | 6.00% | ~44 |
 | The Bigger They Are | 5.00% | ~37 |
 | Cybernetic | 5.00% | ~37 |
 | Fully Modded | 5.00% | ~37 |
@@ -26,7 +26,7 @@
 | Inner Core | 3.00% | ~22 |
 | Integration | 3.00% | ~22 |
 | Outer Core | 3.00% | ~22 |
-| Trickshot | 0.90% | ~7 |
+| Trickshot | 1.00% | ~7 |
 | Destruction | 0.70% | ~5 |
 | Ripperdoc | 0.50% | ~4 |
 | Hard Boiled | 0.40% | ~3 |

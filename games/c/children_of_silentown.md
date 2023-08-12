@@ -12,14 +12,14 @@
 | Puppy | 63.00% | ~120 |
 | Coal's fur | 58.00% | ~110 |
 | Blue's drawing | 56.00% | ~106 |
+| Glass shards | 48.00% | ~91 |
 | Mysterious footprints | 48.00% | ~91 |
-| Glass shards | 47.00% | ~89 |
 | Complicated padlock | 43.00% | ~82 |
 | Big metal ruler | 42.00% | ~80 |
 | Windmill | 40.00% | ~76 |
 | Doll | 38.00% | ~72 |
 | Mysterious paintings | 35.00% | ~66 |
-| Cat | 33.00% | ~63 |
+| Cat | 34.00% | ~65 |
 | Depths of the well | 26.00% | ~49 |
 | Children | 23.00% | ~44 |
 | Huge Snail | 16.00% | ~30 |

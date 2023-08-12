@@ -636,7 +636,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 211175,
+  "EOS_Progressed": 211199,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 4061,
   "EOS_NewCompleters": 1,
@@ -6681,6 +6681,11 @@
       "Time": "2023-08-12T22:05:36.4734787+00:00",
       "NumProgressed": 211175,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-12T23:04:36.7700795+00:00",
+      "NumProgressed": 211199,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 88,
@@ -7140,7 +7145,7 @@
       "Name": "Sowwy!",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 21118
+      "UsersEstimate": 21120
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -7386,30 +7391,30 @@
       "ID": "WizardResistBurn",
       "SetID": "50chcgj",
       "Name": "Fireproof Wizardess",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 634
+      "UsersEstimate": 845
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 211175,
+      "Progressed": 211199,
       "Completed": 1
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 211175,
+      "Progressed": 211199,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-12T15:00:58.2777056+00:00",
-  "LastChanged_Achievements": "2023-08-12T22:05:36.473478+00:00",
+  "LastChanged_Achievements": "2023-08-12T23:04:36.7700791+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:49.6773731+00:00",
-  "LastUpdate_Ratings": "2023-08-12T22:01:37.6884857+00:00",
-  "LastUpdate_Achievements": "2023-08-12T22:05:36.4737309+00:00"
+  "LastUpdate_Ratings": "2023-08-12T22:59:54.8305533+00:00",
+  "LastUpdate_Achievements": "2023-08-12T23:04:36.7701832+00:00"
 }

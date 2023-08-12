@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fire in the... nevermind | 49.00% | ~49 |
-| Chapter I | 48.00% | ~48 |
-| Haute cuisine | 44.00% | ~44 |
-| I didn't do it! | 41.00% | ~41 |
-| Demolition expert | 35.00% | ~35 |
-| Keep away from children | 35.00% | ~35 |
-| Wooooooow! | 35.00% | ~35 |
-| Artistic fool | 34.00% | ~34 |
-| Open up wide | 30.00% | ~30 |
-| Chapter II | 30.00% | ~30 |
-| Achoo!! | 29.00% | ~29 |
-| Let the boot talk | 28.00% | ~28 |
-| Chapter III | 28.00% | ~28 |
-| Like a moth in the Wind | 28.00% | ~28 |
+| Fire in the... nevermind | 49.00% | ~50 |
+| Chapter I | 48.00% | ~49 |
+| Haute cuisine | 44.00% | ~45 |
+| I didn't do it! | 40.00% | ~41 |
+| Demolition expert | 35.00% | ~36 |
+| Keep away from children | 34.00% | ~35 |
+| Wooooooow! | 34.00% | ~35 |
+| Artistic fool | 33.00% | ~34 |
+| Open up wide | 30.00% | ~31 |
+| Chapter II | 29.00% | ~30 |
+| Achoo!! | 28.00% | ~29 |
+| Let the boot talk | 27.00% | ~28 |
+| Chapter III | 27.00% | ~28 |
+| Like a moth in the Wind | 27.00% | ~28 |
 | Bubblekillerfamily | 24.00% | ~24 |
 | Mirror mirror on the wall... | 24.00% | ~24 |
 | Quite a buggy game | 23.00% | ~23 |
@@ -51,7 +51,7 @@
 | The Green, the Fat, the Ugly | 1.00% | ~1 |
 | Do not feed the fish! | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 101 (Ranked 319)  
+Progressed: 102 (Ranked 319)  
 Completed: 0 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,7 +67,7 @@ Completed: 0 (0.00%) (Ranked 255)
 | 2023-08-08 | 98 | 0 |
 | 2023-08-10 | 99 | 0 |
 | 2023-08-11 | 100 | 0 |
-| 2023-08-12 | 101 | 0 |
+| 2023-08-12 | 102 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

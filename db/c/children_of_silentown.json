@@ -295,17 +295,17 @@
       "ID": "Cat",
       "SetID": "9kk0gal",
       "Name": "Cat",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 60,
-      "UsersEstimate": 63
+      "UsersEstimate": 65
     },
     {
       "ID": "Cellar",
       "SetID": "9kk0gal",
       "Name": "Glass shards",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 89
+      "UsersEstimate": 91
     },
     {
       "ID": "DogHair",
@@ -504,8 +504,8 @@
   "FirstSeenRating": "2023-03-31T05:57:05.8679994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.0385783+00:00",
   "LastChanged": "2023-03-31T05:57:05.8679995+00:00",
-  "LastChanged_Achievements": "2023-08-12T22:05:16.7143057+00:00",
+  "LastChanged_Achievements": "2023-08-12T23:04:22.6431239+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:06.6497538+00:00",
-  "LastUpdate_Ratings": "2023-08-12T21:57:15.6828288+00:00",
-  "LastUpdate_Achievements": "2023-08-12T22:05:16.7143269+00:00"
+  "LastUpdate_Ratings": "2023-08-12T22:57:07.0532942+00:00",
+  "LastUpdate_Achievements": "2023-08-12T23:04:22.6431409+00:00"
 }

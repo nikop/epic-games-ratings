@@ -23,7 +23,7 @@
 | Mr. Magic | 8.00% | ~7 |
 | Soft Hands | 8.00% | ~7 |
 | Egg On His Face | 7.00% | ~6 |
-| Batteries not Included | 6.00% | ~5 |
+| Batteries not Included | 7.00% | ~6 |
 | What a Winner! | 6.00% | ~5 |
 | Master Cave Plunderer | 4.00% | ~4 |
 | Colossal Cave Explorer | 3.00% | ~3 |

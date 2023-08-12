@@ -15,7 +15,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3097,
+  "EOS_Progressed": 3098,
   "EOS_Completed": 149,
   "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 10,
@@ -4220,6 +4220,11 @@
       "Time": "2023-08-12T16:08:23.663871+00:00",
       "NumProgressed": 3097,
       "NumCompleted": 149
+    },
+    {
+      "Time": "2023-08-12T23:06:38.9718252+00:00",
+      "NumProgressed": 3098,
+      "NumCompleted": 149
     }
   ],
   "TotalAchievements": 24,
@@ -4231,7 +4236,7 @@
       "Name": "IT\u0027S A LONG WAY TO THE TOP",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "10",
@@ -4317,9 +4322,9 @@
       "ID": "2",
       "SetID": "9p3jgda",
       "Name": "ACE SPEEDSTER",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 743
+      "UsersEstimate": 713
     },
     {
       "ID": "20",
@@ -4383,7 +4388,7 @@
       "Name": "ROOKIE",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1672
+      "UsersEstimate": 1673
     },
     {
       "ID": "6",
@@ -4399,7 +4404,7 @@
       "Name": "MASTER",
       "Percentage": 17,
       "XP": 65,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "8",
@@ -4422,13 +4427,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 3097,
+      "Progressed": 3098,
       "Completed": 149
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-08-12T22:08:39.9503041+00:00",
+  "LastChanged_Achievements": "2023-08-12T23:06:38.9718248+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:44.0676288+00:00",
-  "LastUpdate_Ratings": "2023-08-12T22:01:28.6487493+00:00",
-  "LastUpdate_Achievements": "2023-08-12T22:08:39.9503803+00:00"
+  "LastUpdate_Ratings": "2023-08-12T22:59:49.8975688+00:00",
+  "LastUpdate_Achievements": "2023-08-12T23:06:38.9718577+00:00"
 }

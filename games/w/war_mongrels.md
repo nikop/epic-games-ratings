@@ -6,30 +6,30 @@ Number of Ratings: 34  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 64.00% | ~294 |
-| Cowardice | 57.00% | ~262 |
-| NO LIFE IS WORTH SAVING... | 49.00% | ~225 |
-| Eat Lead! | 47.00% | ~216 |
+| Explorer | 64.00% | ~295 |
+| Cowardice | 57.00% | ~263 |
+| NO LIFE IS WORTH SAVING... | 49.00% | ~226 |
+| Eat Lead! | 47.00% | ~217 |
 | The Breaking Point | 43.00% | ~198 |
 | Here Comes the Boom | 43.00% | ~198 |
-| Prospector | 42.00% | ~193 |
-| Treasure Hunter | 39.00% | ~179 |
-| Sniper Wolf | 38.00% | ~175 |
-| The Motivation | 37.00% | ~170 |
+| Prospector | 42.00% | ~194 |
+| Treasure Hunter | 39.00% | ~180 |
+| Sniper Wolf | 39.00% | ~180 |
+| The Motivation | 37.00% | ~171 |
 | Heroism | 35.00% | ~161 |
 | Missing in Action | 35.00% | ~161 |
 | Collectibles of Chapter I | 33.00% | ~152 |
-| Consequences | 32.00% | ~147 |
-| King of Knives | 32.00% | ~147 |
+| Consequences | 32.00% | ~148 |
+| King of Knives | 32.00% | ~148 |
 | Opportunities | 30.00% | ~138 |
 | The Horror | 28.00% | ~129 |
 | The Difference | 26.00% | ~120 |
-| Vengeance | 24.00% | ~110 |
+| Vengeance | 24.00% | ~111 |
 | Collectibles of Chapter II | 22.00% | ~101 |
-| It's Just an Accident | 22.00% | ~101 |
 | Broken Hopes | 21.00% | ~97 |
+| It's Just an Accident | 21.00% | ~97 |
 | Bullseye! | 21.00% | ~97 |
-| Sorrow | 19.00% | ~87 |
+| Sorrow | 19.00% | ~88 |
 | Food Massacre | 18.00% | ~83 |
 | Atonement | 17.00% | ~78 |
 | Collectibles of Chapter III | 15.00% | ~69 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.00% | ~0 |
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 460 (Ranked 227)  
+Progressed: 461 (Ranked 227)  
 Completed: 0 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,7 +159,7 @@ Completed: 0 (0.00%) (Ranked 255)
 | 2023-08-06 | 454 | 0 |
 | 2023-08-07 | 456 | 0 |
 | 2023-08-10 | 458 | 0 |
-| 2023-08-12 | 460 | 0 |
+| 2023-08-12 | 461 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
