@@ -8,7 +8,7 @@
 | 6 | [Overloop](games/o/overloop.md) | 25.00% |
 | 7 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 23.91% |
-| 9 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 22.13% |
+| 9 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 21.95% |
 | 10 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 10 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
@@ -55,7 +55,7 @@
 | 52 | [JARS](games/j/jars.md) | 4.69% |
 | 54 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.62% |
 | 55 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.55% |
-| 56 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.21% |
+| 56 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.20% |
 | 57 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.98% |
 | 58 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.92% |
 | 59 | [ZZT!](games/z/zzt!.md) | 3.73% |
