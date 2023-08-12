@@ -3,7 +3,7 @@
 | 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.27% |
 | 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.84% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 37.50% |
-| 4 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.00% |
+| 4 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 33.33% |
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
 | 6 | [Overloop](games/o/overloop.md) | 25.00% |
 | 7 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
@@ -15,7 +15,7 @@
 | 13 | [Island Cities](games/i/island_cities.md) | 18.12% |
 | 14 | [Afterglitch](games/a/afterglitch.md) | 16.67% |
 | 15 | [Anna's Quest](games/a/anna's_quest.md) | 15.62% |
-| 16 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 15.52% |
+| 16 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 15.38% |
 | 17 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 13.94% |
 | 18 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 12.50% |
 | 19 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.09% |
@@ -27,7 +27,7 @@
 | 25 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 10.53% |
 | 26 | [Out of Bounds](games/o/out_of_bounds.md) | 10.34% |
 | 27 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.70% |
-| 28 | [Sonic Origins](games/s/sonic_origins.md) | 9.64% |
+| 28 | [Sonic Origins](games/s/sonic_origins.md) | 9.61% |
 | 29 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 9.30% |
 | 29 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.30% |
 | 31 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.04% |
@@ -67,7 +67,7 @@
 | 65 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.28% |
 | 66 | [HordeCore](games/h/hordecore.md) | 3.15% |
 | 67 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.05% |
-| 68 | [The Complex](games/t/the_complex.md) | 3.01% |
+| 68 | [The Complex](games/t/the_complex.md) | 3.00% |
 | 69 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.99% |
 | 70 | [Monster Harvest](games/m/monster_harvest.md) | 2.95% |
 | 71 | [MultiVersus](games/m/multiversus.md) | 2.93% |
@@ -119,7 +119,7 @@
 | 117 | [Sable](games/s/sable.md) | 0.97% |
 | 118 | [Hades](games/h/hades.md) | 0.90% |
 | 119 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
-| 120 | [Dungeons 3](games/d/dungeons_3.md) | 0.81% |
+| 120 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
 | 121 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.80% |
 | 122 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.76% |
 | 123 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.74% |
@@ -175,9 +175,9 @@
 | 172 | [Despot's Game](games/d/despot's_game.md) | 0.24% |
 | 172 | [Filament](games/f/filament.md) | 0.24% |
 | 172 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.24% |
-| 176 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
-| 176 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.22% |
-| 176 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.22% |
+| 176 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.23% |
+| 177 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
+| 177 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.22% |
 | 179 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.20% |
 | 179 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.20% |
 | 179 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.20% |
