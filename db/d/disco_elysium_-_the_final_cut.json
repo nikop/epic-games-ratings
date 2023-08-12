@@ -1241,9 +1241,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 126050,
+  "EOS_Progressed": 126052,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 483,
+  "EOS_NewPlayers": 484,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -12486,6 +12486,11 @@
       "Time": "2023-08-12T01:42:03.2254303+00:00",
       "NumProgressed": 126050,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-08-12T02:13:54.3514295+00:00",
+      "NumProgressed": 126052,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 40,
@@ -12569,7 +12574,7 @@
       "Name": "Massive Torque Dork",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1260
+      "UsersEstimate": 1261
     },
     {
       "ID": "ACH_COP_GOOD",
@@ -12577,7 +12582,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 35294
+      "UsersEstimate": 35295
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -12625,7 +12630,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 16386
+      "UsersEstimate": 16387
     },
     {
       "ID": "ACH_COP_STAR",
@@ -12657,7 +12662,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 11344
+      "UsersEstimate": 11345
     },
     {
       "ID": "ACH_GLUTEN",
@@ -12705,7 +12710,7 @@
       "Name": "Avowed Inframaterialist",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 1260
+      "UsersEstimate": 1261
     },
     {
       "ID": "ACH_KIM",
@@ -12777,7 +12782,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 16386
+      "UsersEstimate": 16387
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -12816,15 +12821,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 126050,
+      "Progressed": 126052,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-08-04T01:55:33.6301654+00:00",
-  "LastChanged_Achievements": "2023-08-12T01:42:03.2254294+00:00",
+  "LastChanged_Achievements": "2023-08-12T02:13:54.3514287+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:59:08.5525123+00:00",
-  "LastUpdate_Ratings": "2023-08-12T01:38:41.2988408+00:00",
-  "LastUpdate_Achievements": "2023-08-12T01:42:03.2256073+00:00"
+  "LastUpdate_Ratings": "2023-08-12T02:09:47.9861005+00:00",
+  "LastUpdate_Achievements": "2023-08-12T02:13:54.3515317+00:00"
 }

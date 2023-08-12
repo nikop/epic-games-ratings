@@ -4,7 +4,7 @@
   "ProductSlug": "bus-world-5de29e",
   "Ranking_EOS_Progress": 367,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-08-10T16:00:00+00:00",
@@ -191,9 +191,9 @@
       "ID": "Last_second",
       "SetID": "cjfnji1",
       "Name": "In the last second",
-      "Percentage": 59,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Master",
@@ -270,8 +270,8 @@
   ],
   "FirstSeen": "2023-08-11T01:35:20.9956349+00:00",
   "FirstSeenAchievements": "2023-08-07T18:00:21.004681+00:00",
-  "LastChanged_Achievements": "2023-08-12T01:41:09.7495902+00:00",
+  "LastChanged_Achievements": "2023-08-12T02:13:09.6095197+00:00",
   "LastUpdate_AppInfo": "2023-08-07T17:56:51.0355953+00:00",
-  "LastUpdate_Ratings": "2023-08-12T01:34:25.949667+00:00",
-  "LastUpdate_Achievements": "2023-08-12T01:41:09.749605+00:00"
+  "LastUpdate_Ratings": "2023-08-12T02:06:54.8148808+00:00",
+  "LastUpdate_Achievements": "2023-08-12T02:13:09.6095418+00:00"
 }

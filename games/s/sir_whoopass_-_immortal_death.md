@@ -29,7 +29,7 @@
 | My pants squeak when I walk | 46.00% | ~43 |
 | Surprise!! | 44.00% | ~41 |
 | Self assessed tax return | 41.00% | ~39 |
-| Haemochromatosis | 40.00% | ~38 |
+| Haemochromatosis | 41.00% | ~39 |
 | Make America Grate Again | 37.00% | ~35 |
 | Pasta Bolognese | 36.00% | ~34 |
 | You can't stop me, bro! | 35.00% | ~33 |
@@ -42,9 +42,9 @@
 | Another one bites the iron | 28.00% | ~26 |
 | Ripe Meat Off The Bone! | 26.00% | ~24 |
 | Hovering around | 24.00% | ~23 |
-| Kleptomaniac | 23.00% | ~22 |
-| You're not so Big anymore, Boi! | 21.00% | ~20 |
-| Your daily dose of Vitamin C. | 21.00% | ~20 |
+| Kleptomaniac | 24.00% | ~23 |
+| You're not so Big anymore, Boi! | 22.00% | ~21 |
+| Your daily dose of Vitamin C. | 22.00% | ~21 |
 | I cant stand still! | 21.00% | ~20 |
 | Master Butcher | 18.00% | ~17 |
 | Slimy... yet satisfying | 17.00% | ~16 |

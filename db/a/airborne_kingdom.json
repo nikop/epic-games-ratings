@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7011,
+  "EOS_Progressed": 7013,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -3558,6 +3558,11 @@
       "Time": "2023-08-12T01:41:07.410843+00:00",
       "NumProgressed": 7011,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-08-12T02:13:07.778322+00:00",
+      "NumProgressed": 7013,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 27,
@@ -3601,7 +3606,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3716
+      "UsersEstimate": 3717
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -3617,7 +3622,7 @@
       "Name": "Hopes Hoisted",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1542
+      "UsersEstimate": 1543
     },
     {
       "ID": "AK_IRONS_SCORCHED",
@@ -3649,7 +3654,7 @@
       "Name": "Knowledge Shared",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 1402
+      "UsersEstimate": 1403
     },
     {
       "ID": "AK_LEARNED_SCHOLAR",
@@ -3657,7 +3662,7 @@
       "Name": "A Learned Scholar",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 911
+      "UsersEstimate": 912
     },
     {
       "ID": "AK_ON_TOWN",
@@ -3665,7 +3670,7 @@
       "Name": "On the Town",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 1963
+      "UsersEstimate": 1964
     },
     {
       "ID": "AK_PEACEFUL_RESPITE",
@@ -3681,7 +3686,7 @@
       "Name": "Prophecy Fulfilled",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 911
+      "UsersEstimate": 912
     },
     {
       "ID": "AK_PYRE_IGNITED",
@@ -3697,7 +3702,7 @@
       "Name": "Relic Finder",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 1402
+      "UsersEstimate": 1403
     },
     {
       "ID": "AK_SEEKERS_FOUND",
@@ -3705,7 +3710,7 @@
       "Name": "Seekers Found",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2804
+      "UsersEstimate": 2805
     },
     {
       "ID": "AK_SETTLING_SKIES",
@@ -3721,7 +3726,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 3926
+      "UsersEstimate": 3927
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -3769,7 +3774,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2804
+      "UsersEstimate": 2805
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -3784,15 +3789,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7011,
+      "Progressed": 7013,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-08-12T01:41:07.4108423+00:00",
+  "LastChanged_Achievements": "2023-08-12T02:13:07.7783216+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:47.6725573+00:00",
-  "LastUpdate_Ratings": "2023-08-12T01:36:08.401728+00:00",
-  "LastUpdate_Achievements": "2023-08-12T01:41:07.4109086+00:00"
+  "LastUpdate_Ratings": "2023-08-12T02:08:04.9078061+00:00",
+  "LastUpdate_Achievements": "2023-08-12T02:13:07.7783626+00:00"
 }

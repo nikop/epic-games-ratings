@@ -3458,9 +3458,9 @@
       "ID": "ach_rockstar_employee",
       "SetID": "8cb3id7",
       "Name": "Rockstar",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 26
     },
     {
       "ID": "ach_speedy",
@@ -3490,8 +3490,8 @@
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-07-16T00:00:06.2705867+00:00",
-  "LastChanged_Achievements": "2023-08-12T01:41:38.8939891+00:00",
+  "LastChanged_Achievements": "2023-08-12T02:13:34.1698421+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:54.1245019+00:00",
-  "LastUpdate_Ratings": "2023-08-12T01:38:17.1739613+00:00",
-  "LastUpdate_Achievements": "2023-08-12T01:41:38.8941658+00:00"
+  "LastUpdate_Ratings": "2023-08-12T02:09:32.9156764+00:00",
+  "LastUpdate_Achievements": "2023-08-12T02:13:34.169945+00:00"
 }

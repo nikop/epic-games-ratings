@@ -5,36 +5,36 @@ Rating: 4.76 (Ranked 118)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 10.00% | ~14,318 |
-| The Killing Jar | 8.00% | ~11,454 |
-| Not Your Average Trait | 8.00% | ~11,454 |
-| Expanding Horizons | 7.00% | ~10,022 |
-| Quest for Survival | 7.00% | ~10,022 |
-| Gleaming the Cube | 6.00% | ~8,591 |
-| Familiar Face | 6.00% | ~8,591 |
-| Boss'n Up | 6.00% | ~8,591 |
-| Trait Chaser | 6.00% | ~8,591 |
-| Not a Janitor | 5.00% | ~7,159 |
-| Equal Measures | 5.00% | ~7,159 |
-| Blue Goddess | 5.00% | ~7,159 |
-| Duality | 5.00% | ~7,159 |
-| Top Performer | 5.00% | ~7,159 |
-| Make Some Room | 5.00% | ~7,159 |
-| Good, But Could Be Better! | 5.00% | ~7,159 |
-| Chaos | 4.00% | ~5,727 |
-| Traitor | 4.00% | ~5,727 |
-| Dark Designs | 4.00% | ~5,727 |
-| Not So Special Now | 4.00% | ~5,727 |
-| Shhh...It's a Secret | 4.00% | ~5,727 |
-| Almost There | 4.00% | ~5,727 |
-| Power Surge | 3.00% | ~4,295 |
-| The God Gambit | 3.00% | ~4,295 |
-| Madman's Paradise | 3.00% | ~4,295 |
-| The Agenda | 3.00% | ~4,295 |
-| Bad Moon Rising | 3.00% | ~4,295 |
-| Was This Supposed To Happen? | 3.00% | ~4,295 |
-| The Web | 3.00% | ~4,295 |
-| Scrap Collector | 3.00% | ~4,295 |
+| First of Many | 10.00% | ~14,321 |
+| The Killing Jar | 8.00% | ~11,457 |
+| Not Your Average Trait | 8.00% | ~11,457 |
+| Expanding Horizons | 7.00% | ~10,025 |
+| Quest for Survival | 7.00% | ~10,025 |
+| Gleaming the Cube | 6.00% | ~8,593 |
+| Familiar Face | 6.00% | ~8,593 |
+| Boss'n Up | 6.00% | ~8,593 |
+| Trait Chaser | 6.00% | ~8,593 |
+| Not a Janitor | 5.00% | ~7,161 |
+| Equal Measures | 5.00% | ~7,161 |
+| Blue Goddess | 5.00% | ~7,161 |
+| Duality | 5.00% | ~7,161 |
+| Top Performer | 5.00% | ~7,161 |
+| Make Some Room | 5.00% | ~7,161 |
+| Good, But Could Be Better! | 5.00% | ~7,161 |
+| Chaos | 4.00% | ~5,729 |
+| Traitor | 4.00% | ~5,729 |
+| Dark Designs | 4.00% | ~5,729 |
+| Not So Special Now | 4.00% | ~5,729 |
+| Shhh...It's a Secret | 4.00% | ~5,729 |
+| The Web | 4.00% | ~5,729 |
+| Almost There | 4.00% | ~5,729 |
+| Power Surge | 3.00% | ~4,296 |
+| The God Gambit | 3.00% | ~4,296 |
+| Madman's Paradise | 3.00% | ~4,296 |
+| The Agenda | 3.00% | ~4,296 |
+| Bad Moon Rising | 3.00% | ~4,296 |
+| Was This Supposed To Happen? | 3.00% | ~4,296 |
+| Scrap Collector | 3.00% | ~4,296 |
 | Am I Seeing This? | 2.00% | ~2,864 |
 | Forever is a Long Time Coming | 2.00% | ~2,864 |
 | Red Room | 2.00% | ~2,864 |
@@ -56,7 +56,7 @@ Rating: 4.76 (Ranked 118)
 | Cutting Edge | 0.50% | ~716 |
 | Proving Grounds | 0.30% | ~430 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 143,177 (Ranked 63)  
+Progressed: 143,214 (Ranked 63)  
 Completed: 33 (0.02%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 33 (0.02%) (Ranked 233)
 | 2023-08-09 | 138,356 | 19 |
 | 2023-08-10 | 140,616 | 24 |
 | 2023-08-11 | 142,970 | 33 |
-| 2023-08-12 | 143,177 | 33 |
+| 2023-08-12 | 143,214 | 33 |
 ## Awards
 Max (Great Boss Battles): 649  (Ranked 174)  
 Sum: 930 (Ranked 245)  
