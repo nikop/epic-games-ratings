@@ -4,7 +4,7 @@
   "ProductSlug": "the-expanse-a-telltale-series",
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 33,
+  "Ranking_EOS_NewPlayers": 34,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6954,
+  "EOS_Progressed": 6958,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2487,
+  "EOS_NewPlayers": 2473,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1667,6 +1667,11 @@
       "Time": "2023-08-12T10:06:20.9064042+00:00",
       "NumProgressed": 6954,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-12T11:05:49.9030153+00:00",
+      "NumProgressed": 6958,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -1727,7 +1732,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "16",
@@ -1855,7 +1860,7 @@
       "Name": "Captain Drummer",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1043
+      "UsersEstimate": 1044
     },
     {
       "ID": "30",
@@ -1918,14 +1923,14 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 6954,
+      "Progressed": 6958,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged_Achievements": "2023-08-12T10:06:20.9064035+00:00",
+  "LastChanged_Achievements": "2023-08-12T11:05:49.9030147+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:56.6215488+00:00",
-  "LastUpdate_Ratings": "2023-08-12T10:00:44.7291799+00:00",
-  "LastUpdate_Achievements": "2023-08-12T10:06:20.9064343+00:00"
+  "LastUpdate_Ratings": "2023-08-12T10:59:59.4665993+00:00",
+  "LastUpdate_Achievements": "2023-08-12T11:05:49.903041+00:00"
 }

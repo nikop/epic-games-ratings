@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 159,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
     "PcReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -7340,9 +7340,9 @@
       "ID": "ACH_27",
       "SetID": "9d4cf4c",
       "Name": "Night guard",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 5347
+      "UsersEstimate": 5474
     },
     {
       "ID": "ACH_28",
@@ -7404,9 +7404,9 @@
       "ID": "ACH_35",
       "SetID": "9d4cf4c",
       "Name": "Mercy",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 2928
+      "UsersEstimate": 3055
     }
   ],
   "AchievementSets": [
@@ -7421,8 +7421,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-07-25T21:01:04.4770621+00:00",
-  "LastChanged_Achievements": "2023-08-12T10:04:42.0695582+00:00",
+  "LastChanged_Achievements": "2023-08-12T11:04:18.949583+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:12.6361661+00:00",
-  "LastUpdate_Ratings": "2023-08-12T10:01:02.6572397+00:00",
-  "LastUpdate_Achievements": "2023-08-12T10:04:42.0696249+00:00"
+  "LastUpdate_Ratings": "2023-08-12T11:00:14.5014907+00:00",
+  "LastUpdate_Achievements": "2023-08-12T11:04:18.9496339+00:00"
 }

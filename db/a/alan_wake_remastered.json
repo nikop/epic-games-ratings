@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 60712,
+  "EOS_Progressed": 60713,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 431,
+  "EOS_NewPlayers": 430,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -11007,6 +11007,11 @@
       "Time": "2023-08-12T10:05:31.2028652+00:00",
       "NumProgressed": 60712,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-12T11:05:09.0979713+00:00",
+      "NumProgressed": 60713,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -11018,7 +11023,7 @@
       "Name": "Follow the Light",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 22463
+      "UsersEstimate": 22464
     },
     {
       "ID": "02",
@@ -11042,7 +11047,7 @@
       "Name": "Boob Tube",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2428
+      "UsersEstimate": 2429
     },
     {
       "ID": "05",
@@ -11050,7 +11055,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 12142
+      "UsersEstimate": 12143
     },
     {
       "ID": "06",
@@ -11066,7 +11071,7 @@
       "Name": "Heavy Metal",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7285
+      "UsersEstimate": 7286
     },
     {
       "ID": "08",
@@ -11074,7 +11079,7 @@
       "Name": "Iron Horse",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7285
+      "UsersEstimate": 7286
     },
     {
       "ID": "09",
@@ -11170,7 +11175,7 @@
       "Name": "If It Flies, It Burns",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2428
+      "UsersEstimate": 2429
     },
     {
       "ID": "21",
@@ -11186,7 +11191,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7285
+      "UsersEstimate": 7286
     },
     {
       "ID": "23",
@@ -11226,7 +11231,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7285
+      "UsersEstimate": 7286
     },
     {
       "ID": "28",
@@ -11234,7 +11239,7 @@
       "Name": "Come One, Come All",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7285
+      "UsersEstimate": 7286
     },
     {
       "ID": "29",
@@ -11266,7 +11271,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 17606
+      "UsersEstimate": 17607
     },
     {
       "ID": "33",
@@ -11394,7 +11399,7 @@
       "Name": "KBF-FM",
       "Percentage": 4,
       "XP": 110,
-      "UsersEstimate": 2428
+      "UsersEstimate": 2429
     },
     {
       "ID": "49",
@@ -11553,21 +11558,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 60712,
+      "Progressed": 60713,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 24180,
+      "Progressed": 24181,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-12T10:05:31.2028647+00:00",
+  "LastChanged_Achievements": "2023-08-12T11:05:09.0979707+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:20.2881971+00:00",
-  "LastUpdate_Ratings": "2023-08-12T09:59:05.8873435+00:00",
-  "LastUpdate_Achievements": "2023-08-12T10:05:31.20299+00:00"
+  "LastUpdate_Ratings": "2023-08-12T10:58:34.6277235+00:00",
+  "LastUpdate_Achievements": "2023-08-12T11:05:09.098068+00:00"
 }

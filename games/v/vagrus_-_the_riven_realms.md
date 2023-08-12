@@ -16,9 +16,12 @@
 | Taskmaster | 6.00% | ~8 |
 | Conciliator | 5.00% | ~7 |
 | Scholar | 5.00% | ~7 |
+| Acquaintance | 5.00% | ~7 |
 | Courier | 4.00% | ~5 |
-| Acquaintance | 4.00% | ~5 |
 | Tail-wind | 4.00% | ~5 |
+| Quartermaster | 3.00% | ~4 |
+| Supercargo | 3.00% | ~4 |
+| Strategist | 3.00% | ~4 |
 | The More the Merrier | 3.00% | ~4 |
 | Harbinger | 3.00% | ~4 |
 | Been There | 3.00% | ~4 |
@@ -26,9 +29,6 @@
 | Pilgrimage's End | 3.00% | ~4 |
 | Making Contact | 2.00% | ~3 |
 | Bounty Hunter | 2.00% | ~3 |
-| Quartermaster | 2.00% | ~3 |
-| Supercargo | 2.00% | ~3 |
-| Strategist | 2.00% | ~3 |
 | Potential Unlocked | 2.00% | ~3 |
 | Xevarian Gambit | 2.00% | ~3 |
 | Deputized | 2.00% | ~3 |

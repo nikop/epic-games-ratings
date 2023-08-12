@@ -12,8 +12,8 @@ Rating: 4.05 (Ranked 920)
 | Fellowship Power | 41.00% | ~735 |
 | Guild Power | 25.00% | ~448 |
 | Prestigious x10 | 22.00% | ~394 |
-| The game is on | 20.00% | ~358 |
-| Exotic Merchant | 19.00% | ~340 |
+| The game is on | 20.00% | ~359 |
+| Exotic Merchant | 19.00% | ~341 |
 | Dragon Clicker | 17.00% | ~305 |
 | Miner Clicker | 17.00% | ~305 |
 | Full Party | 16.00% | ~287 |
@@ -43,11 +43,11 @@ Rating: 4.05 (Ranked 920)
 | Master Enchanter | 9.00% | ~161 |
 | The father of Dragons | 9.00% | ~161 |
 | Trader | 8.00% | ~143 |
-| Crystal Mining | 7.00% | ~125 |
-| Dragon Slayer | 7.00% | ~125 |
-| Enchanting skill | 7.00% | ~125 |
-| The Expeditioner | 7.00% | ~125 |
-| Weekly Quest Completionist | 7.00% | ~125 |
+| Crystal Mining | 7.00% | ~126 |
+| Dragon Slayer | 7.00% | ~126 |
+| Enchanting skill | 7.00% | ~126 |
+| The Expeditioner | 7.00% | ~126 |
+| Weekly Quest Completionist | 7.00% | ~126 |
 | Ancient Knowledge | 6.00% | ~108 |
 | Blueprint Upgrades | 6.00% | ~108 |
 | Engineer Mastery | 6.00% | ~108 |
@@ -59,8 +59,8 @@ Rating: 4.05 (Ranked 920)
 | The Alchemist | 5.00% | ~90 |
 | Active Member | 4.00% | ~72 |
 | Arena Challenger | 4.00% | ~72 |
+| Ebony Jungle Liberator | 4.00% | ~72 |
 | Legendary | 4.00% | ~72 |
-| Ebony Jungle Liberator | 3.00% | ~54 |
 | What lies behind the bush | 3.00% | ~54 |
 | Mythic Power | 2.00% | ~36 |
 | Gear Enchanting | 1.00% | ~18 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 920)
 | Silverwood liberator | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,792 (Ranked 172)  
+Progressed: 1,793 (Ranked 172)  
 Completed: 2 (0.11%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 2 (0.11%) (Ranked 198)
 | 2023-08-09 | 1,781 | 2 |
 | 2023-08-10 | 1,784 | 2 |
 | 2023-08-11 | 1,790 | 2 |
-| 2023-08-12 | 1,792 | 2 |
+| 2023-08-12 | 1,793 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

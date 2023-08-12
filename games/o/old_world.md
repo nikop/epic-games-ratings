@@ -10,6 +10,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able | 2.00% | ~267 |
 | Architect | 2.00% | ~267 |
 | Explorer | 2.00% | ~267 |
+| Good | 2.00% | ~267 |
 | Intrepid | 2.00% | ~267 |
 | Mason | 2.00% | ~267 |
 | Noble | 2.00% | ~267 |
@@ -25,7 +26,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Enlightened | 1.00% | ~134 |
 | Fountainhead | 1.00% | ~134 |
 | Glorious | 1.00% | ~134 |
-| Good | 1.00% | ~134 |
 | Great | 1.00% | ~134 |
 | Just | 1.00% | ~134 |
 | Keystone | 1.00% | ~134 |
@@ -78,6 +78,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Beloved | 0.60% | ~80 |
 | Conqueror | 0.60% | ~80 |
 | Mighty | 0.60% | ~80 |
+| Victorious | 0.60% | ~80 |
 | Good Difficulty | 0.60% | ~80 |
 | Patrons | 0.60% | ~80 |
 | Statesmen | 0.60% | ~80 |
@@ -89,7 +90,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Invincible | 0.50% | ~67 |
 | Lion | 0.50% | ~67 |
 | Subjugator | 0.50% | ~67 |
-| Victorious | 0.50% | ~67 |
 | Hittite Iron | 0.50% | ~67 |
 | Circus Maximus | 0.50% | ~67 |
 | Hagia Sophia | 0.50% | ~67 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,372 (Ranked 117)  
+Progressed: 13,373 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -417,7 +417,7 @@ Completed: 5 (0.04%) (Ranked 223)
 | 2023-08-09 | 13,342 | 5 |
 | 2023-08-10 | 13,349 | 5 |
 | 2023-08-11 | 13,363 | 5 |
-| 2023-08-12 | 13,372 | 5 |
+| 2023-08-12 | 13,373 | 5 |
 ## Awards
 Max (Relaxing): 219  (Ranked 264)  
 Sum: 1,790 (Ranked 206)  

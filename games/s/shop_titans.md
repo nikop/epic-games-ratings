@@ -38,6 +38,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Gild-Gotten Goods | 0.30% | ~403 |
 | Helping Hand | 0.30% | ~403 |
 | Accomplished Merchant | 0.30% | ~403 |
+| Natural 20 | 0.30% | ~403 |
 | Did we pack lunch? | 0.30% | ~403 |
 | Arcane Industries | 0.30% | ~403 |
 | A Notch Above the Rest | 0.20% | ~269 |
@@ -73,7 +74,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Master Merchant | 0.20% | ~269 |
 | Miracle Alchemist | 0.20% | ~269 |
 | Laden with Loot | 0.20% | ~269 |
-| Natural 20 | 0.20% | ~269 |
 | Seasoned Journeyman | 0.20% | ~269 |
 | Precision Engineering | 0.20% | ~269 |
 | Attrition Mission | 0.20% | ~269 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Economy of Scarce | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,377 (Ranked 66)  
+Progressed: 134,380 (Ranked 66)  
 Completed: 132 (0.10%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,7 +233,7 @@ Completed: 132 (0.10%) (Ranked 202)
 | 2023-08-09 | 134,223 | 131 |
 | 2023-08-10 | 134,276 | 131 |
 | 2023-08-11 | 134,354 | 132 |
-| 2023-08-12 | 134,377 | 132 |
+| 2023-08-12 | 134,380 | 132 |
 ## Awards
 Max (Great for Beginners): 4,694  (Ranked 71)  
 Sum: 27,079 (Ranked 46)  

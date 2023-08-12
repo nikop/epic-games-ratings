@@ -4,7 +4,7 @@
   "ProductSlug": "outliver-tribulations-679884",
   "Ranking_EOS_Progress": 429,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewPlayers": 312,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-07-18T15:00:00+00:00",
@@ -104,33 +104,33 @@
       "ID": "ACH_DEFEAT_AKINOLU",
       "SetID": "7m06add",
       "Name": "Akinolu",
-      "Percentage": 17,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_DEFEAT_KUKUTEKO",
       "SetID": "7m06add",
       "Name": "Kukuteko",
-      "Percentage": 17,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_DEFEAT_OMOTOKE",
       "SetID": "7m06add",
       "Name": "Omotoke",
-      "Percentage": 42,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_DEFEAT_SANGODELE",
       "SetID": "7m06add",
       "Name": "Sangodele",
-      "Percentage": 17,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_DEFEAT_SPECIAL_GUARDIAN",
@@ -144,9 +144,9 @@
       "ID": "ACH_DEFEAT_WANDERERS",
       "SetID": "7m06add",
       "Name": "One Man Army",
-      "Percentage": 17,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_DESTROY_BARRELS",
@@ -160,33 +160,33 @@
       "ID": "ACH_FINISH_GAME",
       "SetID": "7m06add",
       "Name": "The Imbued One",
-      "Percentage": 17,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_FINISH_GAME_NO_DEATH",
       "SetID": "7m06add",
       "Name": "Ain\u0027t Got Time To Die",
-      "Percentage": 17,
+      "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_FINISH_GAME_NO_SAVE",
       "SetID": "7m06add",
       "Name": "Saving Is For Losers",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_FINISH_GAME_SRANK",
       "SetID": "7m06add",
       "Name": "The Great Warrior",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_MAX_ALL_UPGRADES",
@@ -240,9 +240,9 @@
       "ID": "ACH_MAX_SPIRIT_ESSENCE",
       "SetID": "7m06add",
       "Name": "Spirit Essence",
-      "Percentage": 17,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_SPEEDRUN_GAME",
@@ -256,9 +256,9 @@
       "ID": "ACH_WELCOME_TO_ROT",
       "SetID": "7m06add",
       "Name": "The Realm Of Tribulations",
-      "Percentage": 92,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
@@ -271,8 +271,8 @@
   ],
   "FirstSeen": "2023-07-23T09:57:14.6972253+00:00",
   "FirstSeenAchievements": "2023-07-01T13:14:13.8674761+00:00",
-  "LastChanged_Achievements": "2023-08-12T10:05:02.8608753+00:00",
+  "LastChanged_Achievements": "2023-08-12T11:04:40.3125356+00:00",
   "LastUpdate_AppInfo": "2023-08-11T16:57:04.1902898+00:00",
-  "LastUpdate_Ratings": "2023-08-12T09:58:01.2580121+00:00",
-  "LastUpdate_Achievements": "2023-08-12T10:05:02.8608898+00:00"
+  "LastUpdate_Ratings": "2023-08-12T10:57:45.9241363+00:00",
+  "LastUpdate_Achievements": "2023-08-12T11:04:40.3125481+00:00"
 }

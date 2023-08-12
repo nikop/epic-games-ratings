@@ -18,13 +18,13 @@ Rating: 4.73 (Ranked 160)
 | Bloodline | 52.00% | ~6,620 |
 | The Cradle of Centuries | 48.00% | ~6,111 |
 | The Life We Deserve | 45.00% | ~5,729 |
-| Night guard | 42.00% | ~5,347 |
+| Night guard | 43.00% | ~5,474 |
 | Nothing Left | 39.00% | ~4,965 |
 | Healing our Wounds | 37.00% | ~4,710 |
 | Dying Sun | 33.00% | ~4,201 |
 | Improved crossbow | 27.00% | ~3,437 |
 | King Hugo | 24.00% | ~3,055 |
-| Mercy | 23.00% | ~2,928 |
+| Mercy | 24.00% | ~3,055 |
 | Perfect shot | 22.00% | ~2,801 |
 | Effective instruments | 21.00% | ~2,674 |
 | Perfect throw | 21.00% | ~2,674 |

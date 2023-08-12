@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 164,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -682,9 +682,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 11937,
+  "EOS_Progressed": 11938,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -8802,6 +8802,11 @@
       "Time": "2023-08-12T10:03:40.4677874+00:00",
       "NumProgressed": 11937,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-08-12T11:03:35.9052951+00:00",
+      "NumProgressed": 11938,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 35,
@@ -8813,7 +8818,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9669
+      "UsersEstimate": 9670
     },
     {
       "ID": "ACH02",
@@ -8869,7 +8874,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 5968
+      "UsersEstimate": 5969
     },
     {
       "ID": "ACH09",
@@ -8925,7 +8930,7 @@
       "Name": "They Can\u2019t Stop All of Us",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "ACH16",
@@ -8997,7 +9002,7 @@
       "Name": "Not a Player",
       "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ACH25",
@@ -9005,7 +9010,7 @@
       "Name": "What are the Odds",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "ACH26",
@@ -9092,7 +9097,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11937,
+      "Progressed": 11938,
       "Completed": 36
     }
   ],
@@ -9100,8 +9105,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-08-11T19:57:17.244721+00:00",
-  "LastChanged_Achievements": "2023-08-12T10:03:40.4677865+00:00",
+  "LastChanged_Achievements": "2023-08-12T11:03:35.9052943+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:11.1716171+00:00",
-  "LastUpdate_Ratings": "2023-08-12T09:57:17.2971735+00:00",
-  "LastUpdate_Achievements": "2023-08-12T10:03:40.4678616+00:00"
+  "LastUpdate_Ratings": "2023-08-12T10:57:02.3905736+00:00",
+  "LastUpdate_Achievements": "2023-08-12T11:03:35.905351+00:00"
 }

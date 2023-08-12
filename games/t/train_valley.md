@@ -1,20 +1,20 @@
 # Train Valley
 [Store](https://store.epicgames.com/en-US/p/train-valley-ead642)  
 [View Rawdata](../../db/t/train_valley.json)  
-Rating: 4.46 (Ranked 617)  
+Rating: 4.46 (Ranked 618)  
 Number of Ratings: 28  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting started | 77.00% | ~333 |
-| Close call! | 73.00% | ~316 |
-| Builder | 53.00% | ~229 |
+| Getting started | 77.00% | ~334 |
+| Close call! | 73.00% | ~317 |
+| Builder | 53.00% | ~230 |
 | Pangs of conscience | 47.00% | ~204 |
 | Living it large! | 44.00% | ~191 |
 | Collector | 42.00% | ~182 |
 | Need to think | 41.00% | ~178 |
 | Completely nuts! | 38.00% | ~165 |
-| Just in time! | 33.00% | ~143 |
+| Just in time! | 32.00% | ~139 |
 | Europe | 30.00% | ~130 |
 | It's no coincidence. | 29.00% | ~126 |
 | Madness! | 27.00% | ~117 |
@@ -46,7 +46,7 @@ Number of Ratings: 28  (23.09.2022)
 | Juggler | 0.50% | ~2 |
 | Maniac vandal | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 433 (Ranked 231)  
+Progressed: 434 (Ranked 231)  
 Completed: 2 (0.46%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,6 +107,7 @@ Completed: 2 (0.46%) (Ranked 145)
 | 2023-08-08 | 431 | 2 |
 | 2023-08-09 | 432 | 2 |
 | 2023-08-10 | 433 | 2 |
+| 2023-08-12 | 434 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Chaotic Hunt for The Last Breath | 0.10% | ~187 |
 | There's a Flying Snake in my Boot! | 0.10% | ~187 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 221,070 (Ranked 52)  
+Progressed: 221,083 (Ranked 52)  
 Completed: 2,175 (0.98%) (Ranked 115)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -637,7 +637,7 @@ Completed: 2,175 (0.98%) (Ranked 115)
 | 2023-08-09 | 220,283 | 2,167 |
 | 2023-08-10 | 220,586 | 2,169 |
 | 2023-08-11 | 220,919 | 2,173 |
-| 2023-08-12 | 221,070 | 2,175 |
+| 2023-08-12 | 221,083 | 2,175 |
 ## Awards
 Max (Diverse Characters): 5,142  (Ranked 67)  
 Sum: 31,010 (Ranked 38)  

@@ -8,18 +8,18 @@
 | Bullseye! | 85.00% | ~115 |
 | Graduation! | 81.00% | ~109 |
 | Villfir Forest | 79.00% | ~107 |
-| Right in the kisser! | 61.00% | ~82 |
+| Right in the kisser! | 62.00% | ~84 |
 | The Thrower | 50.00% | ~68 |
+| Duscot Steamcity | 49.00% | ~66 |
 | The Shaman | 48.00% | ~65 |
-| Duscot Steamcity | 48.00% | ~65 |
 | The Penguin | 45.00% | ~61 |
 | The Magician | 42.00% | ~57 |
+| The Shield | 39.00% | ~53 |
 | The Tunneler | 39.00% | ~53 |
-| The Shield | 38.00% | ~51 |
-| Level Up!! | 36.00% | ~49 |
-| Kill-streak | 31.00% | ~42 |
+| Level Up!! | 37.00% | ~50 |
+| Kill-streak | 32.00% | ~43 |
+| Topped up | 27.00% | ~36 |
 | The Bird | 27.00% | ~36 |
-| Topped up | 26.00% | ~35 |
 | The Idol | 26.00% | ~35 |
 | The Ninja | 26.00% | ~35 |
 | Inferno Ruins | 24.00% | ~32 |

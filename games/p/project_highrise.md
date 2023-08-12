@@ -23,8 +23,8 @@
 | Retail Revenue | 23.00% | ~74 |
 | Don't Feel a Loan | 22.00% | ~71 |
 | Lux Living | 21.00% | ~67 |
+| People Mover | 21.00% | ~67 |
 | Artfully Done | 20.00% | ~64 |
-| People Mover | 20.00% | ~64 |
 | Leveled Up Shops | 20.00% | ~64 |
 | We Don't Need No Education | 20.00% | ~64 |
 | Emporium Empire | 19.00% | ~61 |
@@ -32,9 +32,9 @@
 | Rehab Expert | 18.00% | ~58 |
 | Tasty Profits | 18.00% | ~58 |
 | Established Fame | 16.00% | ~51 |
+| Cashflow Chief | 16.00% | ~51 |
 | Under One Roof | 15.00% | ~48 |
 | Starred Dining | 15.00% | ~48 |
-| Cashflow Chief | 15.00% | ~48 |
 | Smooth Operator | 14.00% | ~45 |
 | Terrifically Trashed | 14.00% | ~45 |
 | Boutique Benefits | 13.00% | ~42 |
