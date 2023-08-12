@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-04-21T17:00:00+00:00",
     "PcReleaseDate": "2022-04-21T17:00:00+00:00",
@@ -881,9 +881,9 @@
       "ID": "GB_KEVIN",
       "SetID": "8ga3kd9",
       "Name": "KEVIN!",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 261
+      "UsersEstimate": 265
     },
     {
       "ID": "GB_LAW_ABIDING_CITIZEN",
@@ -986,8 +986,8 @@
   "FirstSeenRating": "2022-10-16T14:30:41.0597875+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.8385233+00:00",
   "LastChanged": "2023-07-21T18:59:24.0510184+00:00",
-  "LastChanged_Achievements": "2023-08-12T06:03:31.6081665+00:00",
-  "LastUpdate_AppInfo": "2023-08-05T05:58:16.4821532+00:00",
-  "LastUpdate_Ratings": "2023-08-12T05:59:54.8390583+00:00",
-  "LastUpdate_Achievements": "2023-08-12T06:03:31.6081867+00:00"
+  "LastChanged_Achievements": "2023-08-12T07:05:07.754826+00:00",
+  "LastUpdate_AppInfo": "2023-08-12T06:58:07.5598511+00:00",
+  "LastUpdate_Ratings": "2023-08-12T07:02:24.0727976+00:00",
+  "LastUpdate_Achievements": "2023-08-12T07:05:07.754879+00:00"
 }

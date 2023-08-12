@@ -6,11 +6,11 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 37.00% | ~22,461 |
+| Follow the Light | 37.00% | ~22,462 |
 | Let There Be Light | 30.00% | ~18,212 |
 | Float Like a Butterfly | 29.00% | ~17,605 |
-| Nordic Walking | 23.00% | ~13,962 |
-| Bright Falls' Finest | 22.00% | ~13,355 |
+| Nordic Walking | 23.00% | ~13,963 |
+| Bright Falls' Finest | 22.00% | ~13,356 |
 | Under a Thin Layer of Skin | 20.00% | ~12,141 |
 | Park Ranger | 16.00% | ~9,713 |
 | Paging Mr. Wake | 16.00% | ~9,713 |
@@ -34,7 +34,7 @@ Number of Ratings: 524  (23.09.2022)
 | Two For the Price of One | 10.00% | ~6,071 |
 | Energized! | 10.00% | ~6,071 |
 | Right of Way | 9.00% | ~5,464 |
-| What Light Through Yonder Window | 8.00% | ~4,856 |
+| What Light Through Yonder Window | 8.00% | ~4,857 |
 | A Friend in Need | 8.00% | ~1,934 |
 | Tornado Wrangler | 7.00% | ~4,249 |
 | Departure | 7.00% | ~4,249 |
@@ -52,7 +52,7 @@ Number of Ratings: 524  (23.09.2022)
 | Medical Opinions | 2.00% | ~1,214 |
 | Taken Season | 2.00% | ~1,214 |
 | An Idyllic Small Town | 2.00% | ~1,214 |
-| Iron Will | 2.00% | ~483 |
+| Iron Will | 2.00% | ~484 |
 | Couch Potato | 1.00% | ~607 |
 | Go Gentle Into That Good Light | 1.00% | ~242 |
 | Words Will Never Harm You | 0.70% | ~169 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~61 |
 | No Punctuation | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,706 (Ranked 85)  
+Progressed: 60,707 (Ranked 85)  
 Completed: 64 (0.11%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,7 +188,7 @@ Completed: 64 (0.11%) (Ranked 198)
 | 2023-08-09 | 60,613 | 64 |
 | 2023-08-10 | 60,658 | 64 |
 | 2023-08-11 | 60,694 | 64 |
-| 2023-08-12 | 60,706 | 64 |
+| 2023-08-12 | 60,707 | 64 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

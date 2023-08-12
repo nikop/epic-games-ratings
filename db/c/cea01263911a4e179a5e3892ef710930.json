@@ -4,7 +4,7 @@
   "ProductSlug": "dodo-peak-159276",
   "Ranking_EOS_Progress": 402,
   "Ranking_EOS_Completed": 47,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2023-08-03T05:00:00+00:00",
@@ -229,9 +229,9 @@
       "ID": "grp_lots_of_money",
       "SetID": "2gd32f",
       "Name": "Investing in BirdCoin",
-      "Percentage": 30,
+      "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "grp_money_tree",
@@ -284,8 +284,8 @@
   ],
   "FirstSeen": "2023-08-08T23:57:15.7691389+00:00",
   "FirstSeenAchievements": "2023-08-03T06:01:19.3820026+00:00",
-  "LastChanged_Achievements": "2023-08-12T06:03:47.6854146+00:00",
+  "LastChanged_Achievements": "2023-08-12T07:05:28.0848819+00:00",
   "LastUpdate_AppInfo": "2023-08-10T06:57:08.1237157+00:00",
-  "LastUpdate_Ratings": "2023-08-12T05:57:50.1418264+00:00",
-  "LastUpdate_Achievements": "2023-08-12T06:03:47.6854257+00:00"
+  "LastUpdate_Ratings": "2023-08-12T06:59:48.5644372+00:00",
+  "LastUpdate_Achievements": "2023-08-12T07:05:28.0848967+00:00"
 }

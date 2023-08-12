@@ -3,9 +3,9 @@
   "Name": "The Uncertain: Last Quiet Day",
   "ProductSlug": "the-uncertain-last-quiet-day",
   "Ranking_EOS_Progress": 221,
-  "Ranking_EOS_Completed": 71,
+  "Ranking_EOS_Completed": 67,
   "Ranking_EOS_NewPlayers": 254,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
     "PcReleaseDate": "2016-09-22T14:42:57+00:00",
@@ -27,10 +27,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 524,
-  "EOS_Completed": 15,
+  "EOS_Completed": 16,
   "EOS_NewPlayers": 4,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.86,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 3.05,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:50.241177+00:00",
@@ -526,6 +526,11 @@
       "Time": "2023-08-11T20:04:07.4450139+00:00",
       "NumProgressed": 524,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-08-12T07:06:23.0304187+00:00",
+      "NumProgressed": 524,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 32,
@@ -671,9 +676,9 @@
       "ID": "METICULOUS",
       "SetID": "2iigf77",
       "Name": "Meticulous",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 42
     },
     {
       "ID": "NOT_CLUMSY",
@@ -793,15 +798,15 @@
       "ID": "2iigf77",
       "IsBase": true,
       "Progressed": 524,
-      "Completed": 15
+      "Completed": 16
     }
   ],
   "FirstSeen": "2022-07-22T20:33:10.5332764+00:00",
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-03-31T05:58:48.8443799+00:00",
-  "LastChanged_Achievements": "2023-08-12T06:04:27.1603689+00:00",
-  "LastUpdate_AppInfo": "2023-08-05T05:58:38.566313+00:00",
-  "LastUpdate_Ratings": "2023-08-12T06:00:16.6513021+00:00",
-  "LastUpdate_Achievements": "2023-08-12T06:04:27.1603899+00:00"
+  "LastChanged_Achievements": "2023-08-12T07:06:23.0304179+00:00",
+  "LastUpdate_AppInfo": "2023-08-12T06:58:30.4364497+00:00",
+  "LastUpdate_Ratings": "2023-08-12T07:02:49.5192367+00:00",
+  "LastUpdate_Achievements": "2023-08-12T07:06:23.0304624+00:00"
 }

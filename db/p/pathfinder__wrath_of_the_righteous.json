@@ -2,13 +2,13 @@
   "ID": "975d251af0384c88a898a996bda4881d",
   "Name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
   "ProductSlug": "pathfinder-wrath-of-the-righteous",
-  "Ranking_Rating": 118,
+  "Ranking_Rating": 119,
   "Ranking_Popularity": 117,
   "Ranking_PopularitySum": 113,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3440,9 +3440,9 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 10918,
+  "EOS_Progressed": 10921,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 116,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10630,6 +10630,11 @@
       "Time": "2023-08-12T06:04:32.6027443+00:00",
       "NumProgressed": 10918,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-12T07:06:29.8472955+00:00",
+      "NumProgressed": 10921,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -10641,7 +10646,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 2402
+      "UsersEstimate": 2403
     },
     {
       "ID": "02_BurningCity",
@@ -10657,7 +10662,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1310
+      "UsersEstimate": 1311
     },
     {
       "ID": "04_FithCrusade",
@@ -10777,7 +10782,7 @@
       "Name": "Mythic Choices",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1419
+      "UsersEstimate": 1420
     },
     {
       "ID": "19_EqualToAroden",
@@ -10889,7 +10894,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1419
+      "UsersEstimate": 1420
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -11568,21 +11573,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9700,
+      "Progressed": 9703,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10918,
+      "Progressed": 10921,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-08-11T18:00:20.733408+00:00",
-  "LastChanged_Achievements": "2023-08-12T06:04:32.6027439+00:00",
-  "LastUpdate_AppInfo": "2023-08-05T05:58:18.5411463+00:00",
-  "LastUpdate_Ratings": "2023-08-12T05:59:57.8411116+00:00",
-  "LastUpdate_Achievements": "2023-08-12T06:04:32.6029026+00:00"
+  "LastChanged_Achievements": "2023-08-12T07:06:29.8472948+00:00",
+  "LastUpdate_AppInfo": "2023-08-12T06:58:11.5447906+00:00",
+  "LastUpdate_Ratings": "2023-08-12T07:02:27.700368+00:00",
+  "LastUpdate_Achievements": "2023-08-12T07:06:29.8477577+00:00"
 }

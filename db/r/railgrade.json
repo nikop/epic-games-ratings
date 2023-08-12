@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 287,
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2022-09-29T14:00:00+00:00",
     "PcReleaseDate": "2022-09-29T14:00:00+00:00",
@@ -498,10 +498,10 @@
       "Count": 46
     }
   ],
-  "EOS_Progressed": 19505,
-  "EOS_Completed": 35,
-  "EOS_NewPlayers": 93,
-  "EOS_NewCompleters": 0,
+  "EOS_Progressed": 19506,
+  "EOS_Completed": 36,
+  "EOS_NewPlayers": 94,
+  "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
     {
@@ -5123,6 +5123,11 @@
       "Time": "2023-08-12T06:04:03.7869378+00:00",
       "NumProgressed": 19505,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-08-12T07:05:35.0245874+00:00",
+      "NumProgressed": 19506,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 37,
@@ -5166,7 +5171,7 @@
       "Name": "Builder",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 16189
+      "UsersEstimate": 16190
     },
     {
       "ID": "ach.060.goingdistance",
@@ -5206,7 +5211,7 @@
       "Name": "Indecisive",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5656
+      "UsersEstimate": 5657
     },
     {
       "ID": "ach.110.multiverse",
@@ -5230,7 +5235,7 @@
       "Name": "Minimalist",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 17554
+      "UsersEstimate": 17555
     },
     {
       "ID": "ach.140.legacy",
@@ -5238,7 +5243,7 @@
       "Name": "Trevithick\u0027s Legacy",
       "Percentage": 98,
       "XP": 60,
-      "UsersEstimate": 19115
+      "UsersEstimate": 19116
     },
     {
       "ID": "ach.150.pocket",
@@ -5246,7 +5251,7 @@
       "Name": "Pocket of Trains",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 12678
+      "UsersEstimate": 12679
     },
     {
       "ID": "ach.160.box",
@@ -5270,7 +5275,7 @@
       "Name": "Inspector",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 11508
+      "UsersEstimate": 11509
     },
     {
       "ID": "ach.190.scenic",
@@ -5278,7 +5283,7 @@
       "Name": "The scenic route",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 5266
+      "UsersEstimate": 5267
     },
     {
       "ID": "ach.200.light",
@@ -5294,7 +5299,7 @@
       "Name": "Oil Baron",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 8192
+      "UsersEstimate": 8193
     },
     {
       "ID": "ach.220.hot",
@@ -5318,7 +5323,7 @@
       "Name": "Loads-a-Money",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 8192
+      "UsersEstimate": 8193
     },
     {
       "ID": "ach.250.downfall",
@@ -5326,7 +5331,7 @@
       "Name": "Before the Downfall",
       "Percentage": 93,
       "XP": 60,
-      "UsersEstimate": 18140
+      "UsersEstimate": 18141
     },
     {
       "ID": "ach.260.investor",
@@ -5334,7 +5339,7 @@
       "Name": "Investor",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1950
+      "UsersEstimate": 1951
     },
     {
       "ID": "ach.270.groundwater",
@@ -5429,16 +5434,16 @@
     {
       "ID": "384aaja",
       "IsBase": true,
-      "Progressed": 19505,
-      "Completed": 35
+      "Progressed": 19506,
+      "Completed": 36
     }
   ],
   "FirstSeen": "2022-09-29T18:01:57.1676877+00:00",
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
   "LastChanged": "2023-08-08T19:59:39.6594014+00:00",
-  "LastChanged_Achievements": "2023-08-12T06:04:03.7869373+00:00",
-  "LastUpdate_AppInfo": "2023-08-05T05:59:24.3327569+00:00",
-  "LastUpdate_Ratings": "2023-08-12T06:01:00.3775458+00:00",
-  "LastUpdate_Achievements": "2023-08-12T06:04:03.7869808+00:00"
+  "LastChanged_Achievements": "2023-08-12T07:05:35.0245867+00:00",
+  "LastUpdate_AppInfo": "2023-08-12T06:59:15.8610302+00:00",
+  "LastUpdate_Ratings": "2023-08-12T07:03:43.7008348+00:00",
+  "LastUpdate_Achievements": "2023-08-12T07:05:35.0246853+00:00"
 }

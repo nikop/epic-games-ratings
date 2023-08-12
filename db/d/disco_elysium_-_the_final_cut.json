@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1241,9 +1241,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 126060,
+  "EOS_Progressed": 126061,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 483,
+  "EOS_NewPlayers": 482,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -12511,6 +12511,11 @@
       "Time": "2023-08-12T06:04:45.468606+00:00",
       "NumProgressed": 126060,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-08-12T07:06:45.5979651+00:00",
+      "NumProgressed": 126061,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 40,
@@ -12578,7 +12583,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 30254
+      "UsersEstimate": 30255
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -12738,7 +12743,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 17648
+      "UsersEstimate": 17649
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -12841,15 +12846,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 126060,
+      "Progressed": 126061,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-08-04T01:55:33.6301654+00:00",
-  "LastChanged_Achievements": "2023-08-12T06:04:45.4686051+00:00",
-  "LastUpdate_AppInfo": "2023-08-05T05:59:08.5525123+00:00",
-  "LastUpdate_Ratings": "2023-08-12T06:00:44.3027998+00:00",
-  "LastUpdate_Achievements": "2023-08-12T06:04:45.4686843+00:00"
+  "LastChanged_Achievements": "2023-08-12T07:06:45.5979641+00:00",
+  "LastUpdate_AppInfo": "2023-08-12T06:58:59.4029348+00:00",
+  "LastUpdate_Ratings": "2023-08-12T07:03:23.3868138+00:00",
+  "LastUpdate_Achievements": "2023-08-12T07:06:45.5981303+00:00"
 }

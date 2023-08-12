@@ -32,13 +32,13 @@
 | Not as clumsy or random | 13.00% | ~68 |
 | Blade Runner | 10.00% | ~52 |
 | Perfect hearing | 9.00% | ~47 |
-| Meticulous | 7.00% | ~37 |
+| Meticulous | 8.00% | ~42 |
 | Accurate | 5.00% | ~26 |
 | Lucky dog | 4.00% | ~21 |
 | Silent | 4.00% | ~21 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 524 (Ranked 221)  
-Completed: 15 (2.86%) (Ranked 71)  
+Completed: 16 (3.05%) (Ranked 67)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -114,6 +114,7 @@ Completed: 15 (2.86%) (Ranked 71)
 | 2023-08-07 | 522 | 15 |
 | 2023-08-10 | 523 | 15 |
 | 2023-08-11 | 524 | 15 |
+| 2023-08-12 | 524 | 16 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
