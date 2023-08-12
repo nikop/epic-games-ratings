@@ -267,37 +267,37 @@
 | 258 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.67 | 32 | 452 |
 | 258 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.67 | 0 | 511 |
 | 258 | [Tavern Master](games/t/tavern_master.md) | 4.67 | 0 | 511 |
-| 258 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 567 | 185 |
 | 258 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.67 | 0 | 511 |
 | 258 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 0 | 511 |
 | 258 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 0 | 511 |
 | 258 | [Trackmania](games/t/trackmania.md) | 4.67 | 3,117 | 93 |
 | 258 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 96 | 341 |
 | 258 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 0 | 511 |
-| 275 | [Carcassonne](games/c/carcassonne.md) | 4.66 | 76 | 365 |
-| 275 | [Coromon](games/c/coromon.md) | 4.66 | 41 | 422 |
-| 275 | [Crashlands](games/c/crashlands.md) | 4.66 | 191 | 275 |
-| 275 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 169 | 287 |
-| 275 | [DOOM 64](games/d/doom_64.md) | 4.66 | 1,292 | 130 |
-| 275 | [Dungeons 3](games/d/dungeons_3.md) | 4.66 | 337 | 227 |
-| 275 | [F1® 23](games/f/f1®_23_standard_edition.md) | 4.66 | 0 | 511 |
-| 275 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.66 | 0 | 511 |
-| 275 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.66 | 0 | 511 |
-| 275 | [High On Life](games/h/high_on_life.md) | 4.66 | 0 | 511 |
-| 275 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.66 | 0 | 511 |
-| 275 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.66 | 0 | 511 |
-| 275 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.66 | 159 | 292 |
-| 275 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.66 | 50 | 402 |
-| 275 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 1,057 | 139 |
-| 275 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 1,905 | 110 |
-| 275 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 561 | 186 |
-| 275 | [SOMA](games/s/soma.md) | 4.66 | 0 | 511 |
-| 275 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.66 | 0 | 511 |
-| 275 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.66 | 0 | 511 |
-| 275 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,830 | 59 |
-| 275 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 460 | 202 |
-| 275 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 22 | 494 |
-| 275 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 0 | 511 |
+| 274 | [Carcassonne](games/c/carcassonne.md) | 4.66 | 76 | 365 |
+| 274 | [Coromon](games/c/coromon.md) | 4.66 | 41 | 422 |
+| 274 | [Crashlands](games/c/crashlands.md) | 4.66 | 191 | 275 |
+| 274 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 169 | 287 |
+| 274 | [DOOM 64](games/d/doom_64.md) | 4.66 | 1,292 | 130 |
+| 274 | [Dungeons 3](games/d/dungeons_3.md) | 4.66 | 337 | 227 |
+| 274 | [F1® 23](games/f/f1®_23_standard_edition.md) | 4.66 | 0 | 511 |
+| 274 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.66 | 0 | 511 |
+| 274 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.66 | 0 | 511 |
+| 274 | [High On Life](games/h/high_on_life.md) | 4.66 | 0 | 511 |
+| 274 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.66 | 0 | 511 |
+| 274 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.66 | 0 | 511 |
+| 274 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.66 | 159 | 292 |
+| 274 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.66 | 50 | 402 |
+| 274 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 1,057 | 139 |
+| 274 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 1,905 | 110 |
+| 274 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 561 | 186 |
+| 274 | [SOMA](games/s/soma.md) | 4.66 | 0 | 511 |
+| 274 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.66 | 0 | 511 |
+| 274 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 567 | 185 |
+| 274 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.66 | 0 | 511 |
+| 274 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,830 | 59 |
+| 274 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 460 | 202 |
+| 274 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 22 | 494 |
+| 274 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 0 | 511 |
 | 299 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 0 | 511 |
 | 299 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.65 | 0 | 511 |
 | 299 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 5,115 | 68 |
@@ -376,7 +376,7 @@
 | 366 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 42,793 | 12 |
 | 366 | [GigaBash](games/g/gigabash.md) | 4.61 | 0 | 511 |
 | 366 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.61 | 37 | 431 |
-| 366 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,159 | 136 |
+| 366 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,160 | 136 |
 | 366 | [MudRunner](games/m/mudrunner.md) | 4.61 | 250 | 250 |
 | 366 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 0 | 511 |
 | 366 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,550 | 98 |
@@ -921,7 +921,7 @@
 | 918 | [Tharsis](games/t/tharsis.md) | 4.06 | 0 | 511 |
 | 920 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.05 | 0 | 511 |
 | 920 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 4.05 | 0 | 511 |
-| 920 | [Second Extinction™](games/s/second_extinction™.md) | 4.05 | 456 | 203 |
+| 920 | [Second Extinction™](games/s/second_extinction™.md) | 4.05 | 457 | 203 |
 | 923 | [Gravewood High](games/g/gravewood_high.md) | 4.04 | 0 | 511 |
 | 923 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.04 | 0 | 511 |
 | 923 | [Pinball FX](games/p/pinball_fx.md) | 4.04 | 185 | 278 |
