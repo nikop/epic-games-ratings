@@ -13,9 +13,9 @@
 | 10 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
 | 13 | [Island Cities](games/i/island_cities.md) | 18.12% |
-| 14 | [Anna's Quest](games/a/anna's_quest.md) | 17.24% |
-| 15 | [Afterglitch](games/a/afterglitch.md) | 16.67% |
-| 16 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 14.66% |
+| 14 | [Afterglitch](games/a/afterglitch.md) | 16.67% |
+| 14 | [Anna's Quest](games/a/anna's_quest.md) | 16.67% |
+| 16 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 15.52% |
 | 17 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 13.94% |
 | 18 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 12.50% |
 | 19 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.04% |
