@@ -3,9 +3,9 @@
   "Name": "Witchcrafty",
   "ProductSlug": "witchcrafty-b7c90a",
   "Ranking_EOS_Progress": 543,
-  "Ranking_EOS_Completed": 253,
+  "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-05-18T13:00:00+00:00",
     "PcReleaseDate": "2022-03-01T17:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-20T05:57:44.8311193+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:57:22.2304354+00:00",
-  "LastUpdate_Ratings": "2023-08-11T22:59:55.8893784+00:00",
-  "LastUpdate_Achievements": "2023-08-11T23:06:05.4116556+00:00"
+  "LastUpdate_Ratings": "2023-08-11T23:59:39.3387904+00:00",
+  "LastUpdate_Achievements": "2023-08-12T00:06:02.2528459+00:00"
 }

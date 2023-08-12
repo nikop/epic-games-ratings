@@ -6,7 +6,7 @@ Rating: 4.50 (Ranked 558)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Good start | 76.00% | ~721 |
-| And so it begins | 72.00% | ~683 |
+| And so it begins | 73.00% | ~693 |
 | No pressure | 70.00% | ~664 |
 | Memento | 62.00% | ~588 |
 | Let there be light | 60.00% | ~569 |
@@ -34,7 +34,7 @@ Rating: 4.50 (Ranked 558)
 | Top spot in town | 2.00% | ~19 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 949 (Ranked 197)  
-Completed: 15 (1.58%) (Ranked 99)  
+Completed: 15 (1.58%) (Ranked 100)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

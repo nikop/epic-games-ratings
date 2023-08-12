@@ -6,7 +6,7 @@
   "Ranking_Popularity": 39,
   "Ranking_PopularitySum": 54,
   "Ranking_EOS_Progress": 27,
-  "Ranking_EOS_Completed": 240,
+  "Ranking_EOS_Completed": 241,
   "Ranking_EOS_NewPlayers": 25,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
@@ -8099,10 +8099,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 21007,
       "NumberOfAwardsMax": 8758
+    },
+    {
+      "Time": "2023-08-12T00:03:20.662199+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 21010,
+      "NumberOfAwardsMax": 8758
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21007,
+  "NumberOfAwards": 21010,
   "NumberOfAwardsMax": 8758,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8152,7 +8158,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 828
+      "Count": 831
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -8179,9 +8185,9 @@
       "Count": 643
     }
   ],
-  "EOS_Progressed": 610694,
+  "EOS_Progressed": 610707,
   "EOS_Completed": 62,
-  "EOS_NewPlayers": 2996,
+  "EOS_NewPlayers": 2984,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -20689,6 +20695,11 @@
       "Time": "2023-08-11T23:07:43.409011+00:00",
       "NumProgressed": 610694,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2023-08-12T00:07:39.0673879+00:00",
+      "NumProgressed": 610707,
+      "NumCompleted": 62
     }
   ],
   "TotalAchievements": 65,
@@ -20700,7 +20711,7 @@
       "Name": "Into the Unknown",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 61069
+      "UsersEstimate": 61071
     },
     {
       "ID": "achievement_02",
@@ -20708,7 +20719,7 @@
       "Name": "First Shot",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 61069
+      "UsersEstimate": 61071
     },
     {
       "ID": "achievement_03",
@@ -20716,7 +20727,7 @@
       "Name": "Herzlich Wilkommen!",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 54962
+      "UsersEstimate": 54964
     },
     {
       "ID": "achievement_04",
@@ -20836,7 +20847,7 @@
       "Name": "Sancho Panza",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 48856
+      "UsersEstimate": 48857
     },
     {
       "ID": "achievement_19",
@@ -20908,7 +20919,7 @@
       "Name": "You Never Forget Your First...",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 67176
+      "UsersEstimate": 67178
     },
     {
       "ID": "achievement_28",
@@ -20916,7 +20927,7 @@
       "Name": "Oh, So This Is How It Works!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 48856
+      "UsersEstimate": 48857
     },
     {
       "ID": "achievement_29",
@@ -20988,7 +20999,7 @@
       "Name": "Good Night \u0026 Good Luck",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 54962
+      "UsersEstimate": 54964
     },
     {
       "ID": "achievement_38",
@@ -21156,7 +21167,7 @@
       "Name": "Nemesis",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2561
+      "UsersEstimate": 2562
     },
     {
       "ID": "achievement_59",
@@ -21164,7 +21175,7 @@
       "Name": "Enter the Hall",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2561
+      "UsersEstimate": 2562
     },
     {
       "ID": "achievement_60",
@@ -21219,21 +21230,21 @@
     {
       "ID": "3cbf5jh",
       "IsBase": true,
-      "Progressed": 610694,
+      "Progressed": 610707,
       "Completed": 62
     },
     {
       "ID": "likk62",
       "IsBase": false,
-      "Progressed": 256138,
+      "Progressed": 256151,
       "Completed": 1425
     }
   ],
   "FirstSeen": "2022-07-22T20:18:57.6151265+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.1190573+00:00",
-  "LastChanged": "2023-08-11T19:02:03.3646082+00:00",
-  "LastChanged_Achievements": "2023-08-11T23:07:43.4090105+00:00",
+  "LastChanged": "2023-08-12T00:03:20.6621987+00:00",
+  "LastChanged_Achievements": "2023-08-12T00:07:39.0673872+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:56.1806773+00:00",
-  "LastUpdate_Ratings": "2023-08-11T23:03:27.6575841+00:00",
-  "LastUpdate_Achievements": "2023-08-11T23:07:43.4091805+00:00"
+  "LastUpdate_Ratings": "2023-08-12T00:03:20.6621997+00:00",
+  "LastUpdate_Achievements": "2023-08-12T00:07:39.0676657+00:00"
 }

@@ -22,6 +22,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | The Daily Grind | 0.40% | ~537 |
 | Bounty Hunters | 0.40% | ~537 |
 | One-Armed Bandit | 0.40% | ~537 |
+| Dungeon Imports | 0.40% | ~537 |
 | Through Repetition, Perfection | 0.40% | ~537 |
 | On the Path to Greatness | 0.30% | ~403 |
 | Ascended | 0.30% | ~403 |
@@ -36,7 +37,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Gild-Gotten Goods | 0.30% | ~403 |
 | Helping Hand | 0.30% | ~403 |
 | Accomplished Merchant | 0.30% | ~403 |
-| Dungeon Imports | 0.30% | ~403 |
 | Did we pack lunch? | 0.30% | ~403 |
 | Arcane Industries | 0.30% | ~403 |
 | A Notch Above the Rest | 0.20% | ~269 |
@@ -120,7 +120,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 134,354 (Ranked 66)  
-Completed: 132 (0.10%) (Ranked 201)  
+Completed: 132 (0.10%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

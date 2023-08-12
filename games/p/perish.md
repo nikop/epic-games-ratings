@@ -6,13 +6,13 @@
 | ---- | ---------- | ----- |
 | To Suffer is to Learn | 6.00% | ~201 |
 | Initiate's Resolve | 6.00% | ~201 |
-| Missilis | 5.00% | ~167 |
-| Modest Earnings | 5.00% | ~167 |
-| Armaments of the Pantheon | 5.00% | ~167 |
-| Persephone's Guidance | 5.00% | ~167 |
-| Lochos | 5.00% | ~167 |
-| Strength of Herakles | 5.00% | ~167 |
-| Reign in Blood | 5.00% | ~167 |
+| Missilis | 5.00% | ~168 |
+| Modest Earnings | 5.00% | ~168 |
+| Armaments of the Pantheon | 5.00% | ~168 |
+| Persephone's Guidance | 5.00% | ~168 |
+| Lochos | 5.00% | ~168 |
+| Strength of Herakles | 5.00% | ~168 |
+| Reign in Blood | 5.00% | ~168 |
 | Immolator | 4.00% | ~134 |
 | Go For the Head | 4.00% | ~134 |
 | Spartan Sandal | 4.00% | ~134 |
@@ -45,14 +45,14 @@
 | Baby Crabs They Ain't | 2.00% | ~67 |
 | Mors Omnibus | 2.00% | ~67 |
 | Blot Out the Sky | 2.00% | ~67 |
-| The Nameless One | 1.00% | ~33 |
-| Rule of Thirds | 1.00% | ~33 |
-| Pyr Demon | 1.00% | ~33 |
-| Biotechnology | 1.00% | ~33 |
-| The Archimedes Principle | 1.00% | ~33 |
-| Rites at Sea | 1.00% | ~33 |
-| Close Shut the Doors | 1.00% | ~33 |
-| Scrap Metal | 1.00% | ~33 |
+| The Nameless One | 1.00% | ~34 |
+| Rule of Thirds | 1.00% | ~34 |
+| Pyr Demon | 1.00% | ~34 |
+| Biotechnology | 1.00% | ~34 |
+| The Archimedes Principle | 1.00% | ~34 |
+| Rites at Sea | 1.00% | ~34 |
+| Close Shut the Doors | 1.00% | ~34 |
+| Scrap Metal | 1.00% | ~34 |
 | Athenian Treasury | 0.90% | ~30 |
 | Invicta | 0.80% | ~27 |
 | Olympian | 0.60% | ~20 |
@@ -68,8 +68,8 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,349 (Ranked 151)  
-Completed: 0 (0.00%) (Ranked 253)  
+Progressed: 3,350 (Ranked 151)  
+Completed: 0 (0.00%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -175,6 +175,7 @@ Completed: 0 (0.00%) (Ranked 253)
 | 2023-08-08 | 3,340 | 0 |
 | 2023-08-09 | 3,343 | 0 |
 | 2023-08-11 | 3,349 | 0 |
+| 2023-08-12 | 3,350 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

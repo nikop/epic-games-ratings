@@ -4,7 +4,7 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 35,
-  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -3029,9 +3029,9 @@
       "ID": "38",
       "SetID": "d0g98p",
       "Name": "Max Level!",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 160
+      "UsersEstimate": 171
     },
     {
       "ID": "39",
@@ -3190,8 +3190,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-08-11T23:06:13.2882764+00:00",
+  "LastChanged_Achievements": "2023-08-12T00:06:10.3713209+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:44.1195163+00:00",
-  "LastUpdate_Ratings": "2023-08-11T22:59:29.5775288+00:00",
-  "LastUpdate_Achievements": "2023-08-11T23:06:13.2883306+00:00"
+  "LastUpdate_Ratings": "2023-08-11T23:59:14.0849339+00:00",
+  "LastUpdate_Achievements": "2023-08-12T00:06:10.3714283+00:00"
 }

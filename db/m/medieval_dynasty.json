@@ -2,13 +2,13 @@
   "ID": "c556d22537ed4a14a454813c9faedd3a",
   "Name": "Medieval Dynasty",
   "ProductSlug": "medieval-dynasty",
-  "Ranking_Rating": 274,
+  "Ranking_Rating": 275,
   "Ranking_Popularity": 402,
   "Ranking_PopularitySum": 316,
   "Ranking_EOS_Progress": 543,
-  "Ranking_EOS_Completed": 253,
+  "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2020-12-17T16:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -1005,10 +1005,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 406,
       "NumberOfAwardsMax": 50
+    },
+    {
+      "Time": "2023-08-11T23:59:26.5217269+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 407,
+      "NumberOfAwardsMax": 50
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 406,
+  "NumberOfAwards": 407,
   "NumberOfAwardsMax": 50,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -1052,7 +1058,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 43
+      "Count": 44
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1102,8 +1108,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:29.0491506+00:00",
-  "LastChanged": "2023-08-09T22:58:12.5609472+00:00",
+  "LastChanged": "2023-08-11T23:59:26.5217267+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:51.1041129+00:00",
-  "LastUpdate_Ratings": "2023-08-11T22:59:43.9279138+00:00",
-  "LastUpdate_Achievements": "2023-08-11T23:03:49.6699087+00:00"
+  "LastUpdate_Ratings": "2023-08-11T23:59:26.5217274+00:00",
+  "LastUpdate_Achievements": "2023-08-12T00:03:44.6406964+00:00"
 }

@@ -51,7 +51,7 @@
 | Flower Power | 28.00% | ~300 |
 | Shopping Spree! | 25.00% | ~268 |
 | Crowned | 23.00% | ~246 |
-| Max Level! | 15.00% | ~160 |
+| Max Level! | 16.00% | ~171 |
 | Dance Master | 10.00% | ~107 |
 | Bombs Away! | 9.00% | ~96 |
 ## Popularity (Based on EOS Achievements)

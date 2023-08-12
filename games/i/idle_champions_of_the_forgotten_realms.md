@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 0.20% | ~442 |
+| A Brief Tour of the Realms | 0.30% | ~663 |
 | The Hunt for The Last Breath | 0.20% | ~374 |
 | To Infinity's and Beyond | 0.20% | ~374 |
 | Maddening | 0.10% | ~221 |
@@ -523,8 +523,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Chaotic Hunt for The Last Breath | 0.10% | ~187 |
 | There's a Flying Snake in my Boot! | 0.10% | ~187 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,919 (Ranked 52)  
-Completed: 2,173 (0.98%) (Ranked 114)  
+Progressed: 220,931 (Ranked 52)  
+Completed: 2,173 (0.98%) (Ranked 115)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -637,6 +637,7 @@ Completed: 2,173 (0.98%) (Ranked 114)
 | 2023-08-09 | 220,283 | 2,167 |
 | 2023-08-10 | 220,586 | 2,169 |
 | 2023-08-11 | 220,919 | 2,173 |
+| 2023-08-12 | 220,931 | 2,173 |
 ## Awards
 Max (Diverse Characters): 5,142  (Ranked 67)  
 Sum: 31,010 (Ranked 38)  

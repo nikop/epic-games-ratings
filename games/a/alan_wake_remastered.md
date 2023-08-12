@@ -8,7 +8,7 @@ Number of Ratings: 524  (23.09.2022)
 | ---- | ---------- | ----- |
 | Follow the Light | 37.00% | ~22,457 |
 | Let There Be Light | 30.00% | ~18,208 |
-| Float Like a Butterfly | 29.00% | ~17,601 |
+| Float Like a Butterfly | 29.00% | ~17,602 |
 | Nordic Walking | 23.00% | ~13,960 |
 | Bright Falls' Finest | 22.00% | ~13,353 |
 | Under a Thin Layer of Skin | 20.00% | ~12,139 |
@@ -29,11 +29,11 @@ Number of Ratings: 524  (23.09.2022)
 | Perchance to Dream | 11.00% | ~6,676 |
 | It's Not Just a Typewriter Brand | 11.00% | ~6,676 |
 | Thunder and Lightning | 11.00% | ~6,676 |
-| Gatekeeper | 10.00% | ~6,069 |
-| The Lady of the Light | 10.00% | ~6,069 |
-| Two For the Price of One | 10.00% | ~6,069 |
-| Energized! | 10.00% | ~6,069 |
-| Right of Way | 9.00% | ~5,462 |
+| Gatekeeper | 10.00% | ~6,070 |
+| The Lady of the Light | 10.00% | ~6,070 |
+| Two For the Price of One | 10.00% | ~6,070 |
+| Energized! | 10.00% | ~6,070 |
+| Right of Way | 9.00% | ~5,463 |
 | What Light Through Yonder Window | 8.00% | ~4,856 |
 | A Friend in Need | 8.00% | ~1,933 |
 | Tornado Wrangler | 7.00% | ~4,249 |
@@ -74,8 +74,8 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~61 |
 | No Punctuation | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,694 (Ranked 85)  
-Completed: 64 (0.11%) (Ranked 197)  
+Progressed: 60,695 (Ranked 85)  
+Completed: 64 (0.11%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -188,6 +188,7 @@ Completed: 64 (0.11%) (Ranked 197)
 | 2023-08-09 | 60,613 | 64 |
 | 2023-08-10 | 60,658 | 64 |
 | 2023-08-11 | 60,694 | 64 |
+| 2023-08-12 | 60,695 | 64 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

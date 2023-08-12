@@ -6,9 +6,9 @@
   "Ranking_Popularity": 511,
   "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 109,
-  "Ranking_EOS_Completed": 240,
+  "Ranking_EOS_Completed": 241,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -220,7 +220,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17285,
+  "EOS_Progressed": 17287,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 370,
   "EOS_NewCompleters": 0,
@@ -8045,6 +8045,11 @@
       "Time": "2023-08-11T23:06:11.5259664+00:00",
       "NumProgressed": 17285,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-12T00:06:08.5759971+00:00",
+      "NumProgressed": 17287,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -8072,7 +8077,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2938
+      "UsersEstimate": 2939
     },
     {
       "ID": "0004",
@@ -8112,7 +8117,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3111
+      "UsersEstimate": 3112
     },
     {
       "ID": "0009",
@@ -8152,7 +8157,7 @@
       "Name": "Keycards Royale",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1901
+      "UsersEstimate": 1902
     },
     {
       "ID": "0014",
@@ -8160,7 +8165,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2938
+      "UsersEstimate": 2939
     },
     {
       "ID": "0015",
@@ -8184,7 +8189,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3284
+      "UsersEstimate": 3285
     },
     {
       "ID": "0018",
@@ -8192,7 +8197,7 @@
       "Name": "In It to Win It",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1728
+      "UsersEstimate": 1729
     },
     {
       "ID": "0019",
@@ -8208,7 +8213,7 @@
       "Name": "Dr. No Kill",
       "Percentage": 11,
       "XP": 115,
-      "UsersEstimate": 1901
+      "UsersEstimate": 1902
     },
     {
       "ID": "0021",
@@ -8248,7 +8253,7 @@
       "Name": "Tailor-Made",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3111
+      "UsersEstimate": 3112
     },
     {
       "ID": "0026",
@@ -8264,7 +8269,7 @@
       "Name": "My Motto, My Creed",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1901
+      "UsersEstimate": 1902
     },
     {
       "ID": "0028",
@@ -8288,7 +8293,7 @@
       "Name": "For your Eyes only",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3111
+      "UsersEstimate": 3112
     },
     {
       "ID": "0031",
@@ -8343,7 +8348,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17285,
+      "Progressed": 17287,
       "Completed": 1
     }
   ],
@@ -8351,8 +8356,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-08T19:59:53.3803436+00:00",
-  "LastChanged_Achievements": "2023-08-11T23:06:11.5259658+00:00",
+  "LastChanged_Achievements": "2023-08-12T00:06:08.5759965+00:00",
   "LastUpdate_AppInfo": "2023-08-05T06:57:35.6736811+00:00",
-  "LastUpdate_Ratings": "2023-08-11T23:02:54.0280774+00:00",
-  "LastUpdate_Achievements": "2023-08-11T23:06:11.5260452+00:00"
+  "LastUpdate_Ratings": "2023-08-12T00:02:47.7094999+00:00",
+  "LastUpdate_Achievements": "2023-08-12T00:06:08.576134+00:00"
 }

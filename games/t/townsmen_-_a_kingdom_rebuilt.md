@@ -41,6 +41,7 @@ Number of Ratings: 37  (23.09.2022)
 | The King's new clothes II | 3.00% | ~127 |
 | Experienced decorator | 3.00% | ~127 |
 | My precious... I | 3.00% | ~127 |
+| Cosmas and Damian | 3.00% | ~127 |
 | Full-time job III | 3.00% | ~127 |
 | Tools of the trade II | 3.00% | ~127 |
 | The Art of War | 2.00% | ~85 |
@@ -49,7 +50,6 @@ Number of Ratings: 37  (23.09.2022)
 | The King's new clothes III | 2.00% | ~85 |
 | Saint Florian | 2.00% | ~85 |
 | My precious... II | 2.00% | ~85 |
-| Cosmas and Damian | 2.00% | ~85 |
 | Builder III | 2.00% | ~85 |
 | Completionist II | 2.00% | ~85 |
 | Genius | 2.00% | ~85 |
@@ -70,8 +70,8 @@ Number of Ratings: 37  (23.09.2022)
 | Tax-man V | 1.00% | ~42 |
 | A time consuming game V | 1.00% | ~42 |
 | Treat her well… | 0.90% | ~38 |
+| I've been everywhere II | 0.90% | ~38 |
 | When there's fire... | 0.80% | ~34 |
-| I've been everywhere II | 0.80% | ~34 |
 | Last man standing | 0.70% | ~30 |
 | Builder V | 0.70% | ~30 |
 | Ten-Hut! | 0.70% | ~30 |
@@ -109,7 +109,7 @@ Number of Ratings: 37  (23.09.2022)
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,245 (Ranked 146)  
-Completed: 3 (0.07%) (Ranked 211)  
+Completed: 3 (0.07%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

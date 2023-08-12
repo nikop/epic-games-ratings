@@ -6,9 +6,9 @@
   "Ranking_Popularity": 71,
   "Ranking_PopularitySum": 46,
   "Ranking_EOS_Progress": 66,
-  "Ranking_EOS_Completed": 201,
+  "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -5538,7 +5538,7 @@
   ],
   "EOS_Progressed": 134354,
   "EOS_Completed": 132,
-  "EOS_NewPlayers": 464,
+  "EOS_NewPlayers": 463,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -17749,9 +17749,9 @@
       "ID": "loot01",
       "SetID": "anfd17p",
       "Name": "Dungeon Imports",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 403
+      "UsersEstimate": 537
     },
     {
       "ID": "loot02",
@@ -18029,8 +18029,8 @@
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-08-11T01:37:20.4310656+00:00",
-  "LastChanged_Achievements": "2023-08-11T23:06:43.9846456+00:00",
+  "LastChanged_Achievements": "2023-08-12T00:06:39.3376147+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:21.2056858+00:00",
-  "LastUpdate_Ratings": "2023-08-11T23:01:06.9178224+00:00",
-  "LastUpdate_Achievements": "2023-08-11T23:06:43.9852597+00:00"
+  "LastUpdate_Ratings": "2023-08-12T00:00:54.6469317+00:00",
+  "LastUpdate_Achievements": "2023-08-12T00:06:39.3378632+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 42,
-  "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 17,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 77,
+  "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -6076,18 +6076,24 @@
       "Rating": 4.77,
       "NumberOfAwards": 40812,
       "NumberOfAwardsMax": 21664
+    },
+    {
+      "Time": "2023-08-11T23:59:17.1711084+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 40839,
+      "NumberOfAwardsMax": 21691
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 40812,
-  "NumberOfAwardsMax": 21664,
+  "NumberOfAwards": 40839,
+  "NumberOfAwardsMax": 21691,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 21664
+      "Count": 21691
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -6156,9 +6162,9 @@
       "Count": 582
     }
   ],
-  "EOS_Progressed": 289866,
+  "EOS_Progressed": 289872,
   "EOS_Completed": 448,
-  "EOS_NewPlayers": 504,
+  "EOS_NewPlayers": 508,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -18371,6 +18377,11 @@
       "Time": "2023-08-11T23:07:39.9634829+00:00",
       "NumProgressed": 289866,
       "NumCompleted": 448
+    },
+    {
+      "Time": "2023-08-12T00:07:35.4346525+00:00",
+      "NumProgressed": 289872,
+      "NumCompleted": 448
     }
   ],
   "TotalAchievements": 45,
@@ -18382,7 +18393,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 34784
+      "UsersEstimate": 34785
     },
     {
       "ID": "PFA_10",
@@ -18422,7 +18433,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 5,
       "XP": 70,
-      "UsersEstimate": 14493
+      "UsersEstimate": 14494
     },
     {
       "ID": "PFA_15",
@@ -18518,7 +18529,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14493
+      "UsersEstimate": 14494
     },
     {
       "ID": "PFA_26",
@@ -18550,7 +18561,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14493
+      "UsersEstimate": 14494
     },
     {
       "ID": "PFA_3",
@@ -18606,7 +18617,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 23189
+      "UsersEstimate": 23190
     },
     {
       "ID": "PFA_36",
@@ -18628,9 +18639,9 @@
       "ID": "PFA_38",
       "SetID": "1hf4dep",
       "Name": "The Intrepid Explorer",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8696
+      "UsersEstimate": 11595
     },
     {
       "ID": "PFA_39",
@@ -18670,7 +18681,7 @@
       "Name": "Raising Expectations",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 14493
+      "UsersEstimate": 14494
     },
     {
       "ID": "PFA_43",
@@ -18710,7 +18721,7 @@
       "Name": "First Class Student",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 31885
+      "UsersEstimate": 31886
     },
     {
       "ID": "PFA_7",
@@ -18718,7 +18729,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 31885
+      "UsersEstimate": 31886
     },
     {
       "ID": "PFA_8",
@@ -18734,23 +18745,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23189
+      "UsersEstimate": 23190
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 289866,
+      "Progressed": 289872,
       "Completed": 448
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-08-11T22:59:33.5325134+00:00",
-  "LastChanged_Achievements": "2023-08-11T23:07:39.9634808+00:00",
+  "LastChanged": "2023-08-11T23:59:17.1711082+00:00",
+  "LastChanged_Achievements": "2023-08-12T00:07:35.434652+00:00",
   "LastUpdate_AppInfo": "2023-08-05T04:57:46.8672159+00:00",
-  "LastUpdate_Ratings": "2023-08-11T22:59:33.5325142+00:00",
-  "LastUpdate_Achievements": "2023-08-11T23:07:39.9637107+00:00"
+  "LastUpdate_Ratings": "2023-08-11T23:59:17.171109+00:00",
+  "LastUpdate_Achievements": "2023-08-12T00:07:35.4348614+00:00"
 }

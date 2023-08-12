@@ -6,9 +6,9 @@
   "Ranking_Popularity": 452,
   "Ranking_PopularitySum": 358,
   "Ranking_EOS_Progress": 208,
-  "Ranking_EOS_Completed": 253,
+  "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -575,9 +575,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 724,
+  "EOS_Progressed": 728,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2185,6 +2185,11 @@
       "Time": "2023-08-11T23:06:32.3657721+00:00",
       "NumProgressed": 724,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-12T00:06:27.4343717+00:00",
+      "NumProgressed": 728,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -2213,7 +2218,7 @@
       "Name": "Deadication",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "MF_Ach_DeathBecomesYou",
@@ -2229,7 +2234,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -2245,7 +2250,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -2253,7 +2258,7 @@
       "Name": "First Strike",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -2261,7 +2266,7 @@
       "Name": "Flawless Victory",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "MF_Ach_FourthGate",
@@ -2285,7 +2290,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -2309,7 +2314,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -2333,7 +2338,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -2357,7 +2362,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -2380,15 +2385,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 724,
+      "Progressed": 728,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-07-26T02:04:08.2630657+00:00",
-  "LastChanged_Achievements": "2023-08-11T23:06:32.3657712+00:00",
+  "LastChanged_Achievements": "2023-08-12T00:06:27.434371+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:18.2423534+00:00",
-  "LastUpdate_Ratings": "2023-08-11T23:01:03.2151839+00:00",
-  "LastUpdate_Achievements": "2023-08-11T23:06:32.3658008+00:00"
+  "LastUpdate_Ratings": "2023-08-12T00:00:52.3936291+00:00",
+  "LastUpdate_Achievements": "2023-08-12T00:06:27.4344154+00:00"
 }

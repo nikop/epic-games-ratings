@@ -6,9 +6,9 @@
   "Ranking_Popularity": 117,
   "Ranking_PopularitySum": 113,
   "Ranking_EOS_Progress": 120,
-  "Ranking_EOS_Completed": 253,
+  "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3440,9 +3440,9 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 10913,
+  "EOS_Progressed": 10914,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10610,6 +10610,11 @@
       "Time": "2023-08-11T22:04:10.7475497+00:00",
       "NumProgressed": 10913,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-12T00:05:24.5016643+00:00",
+      "NumProgressed": 10914,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -10821,7 +10826,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1200
+      "UsersEstimate": 1201
     },
     {
       "ID": "28_GreatUpstart",
@@ -11548,21 +11553,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9695,
+      "Progressed": 9696,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10913,
+      "Progressed": 10914,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-08-11T18:00:20.733408+00:00",
-  "LastChanged_Achievements": "2023-08-11T23:05:27.7334329+00:00",
+  "LastChanged_Achievements": "2023-08-12T00:05:24.5016636+00:00",
   "LastUpdate_AppInfo": "2023-08-05T05:58:18.5411463+00:00",
-  "LastUpdate_Ratings": "2023-08-11T23:01:02.5923546+00:00",
-  "LastUpdate_Achievements": "2023-08-11T23:05:27.7336888+00:00"
+  "LastUpdate_Ratings": "2023-08-12T00:00:51.5972416+00:00",
+  "LastUpdate_Achievements": "2023-08-12T00:05:24.5020524+00:00"
 }

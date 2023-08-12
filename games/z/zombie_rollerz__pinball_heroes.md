@@ -5,42 +5,42 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Level Up! | 89.00% | ~117 |
-| Bullseye! | 85.00% | ~111 |
-| Graduation! | 81.00% | ~106 |
-| Villfir Forest | 79.00% | ~103 |
+| Bullseye! | 85.00% | ~112 |
+| Graduation! | 80.00% | ~106 |
+| Villfir Forest | 78.00% | ~103 |
 | Right in the kisser! | 63.00% | ~83 |
-| The Shaman | 50.00% | ~66 |
-| The Thrower | 50.00% | ~66 |
-| Duscot Steamcity | 50.00% | ~66 |
-| The Penguin | 47.00% | ~62 |
-| The Magician | 44.00% | ~58 |
-| The Tunneler | 40.00% | ~52 |
+| The Shaman | 49.00% | ~65 |
+| The Thrower | 49.00% | ~65 |
+| Duscot Steamcity | 49.00% | ~65 |
+| The Penguin | 46.00% | ~61 |
+| The Magician | 43.00% | ~57 |
+| The Tunneler | 39.00% | ~51 |
 | The Shield | 38.00% | ~50 |
-| Level Up!! | 37.00% | ~48 |
+| Level Up!! | 37.00% | ~49 |
 | Kill-streak | 32.00% | ~42 |
-| Topped up | 27.00% | ~35 |
-| The Idol | 27.00% | ~35 |
-| The Bird | 27.00% | ~35 |
+| Topped up | 27.00% | ~36 |
+| The Idol | 27.00% | ~36 |
+| The Bird | 27.00% | ~36 |
 | The Ninja | 26.00% | ~34 |
 | Inferno Ruins | 25.00% | ~33 |
-| I'm Rich | 24.00% | ~31 |
+| I'm Rich | 23.00% | ~30 |
 | Untouchable | 22.00% | ~29 |
 | 1 is all I need | 22.00% | ~29 |
 | The Slime | 21.00% | ~28 |
-| The Flower | 18.00% | ~24 |
 | The Giant | 18.00% | ~24 |
-| Out of the Frying Pan... | 18.00% | ~24 |
 | The Blacksmith | 17.00% | ~22 |
+| The Flower | 17.00% | ~22 |
+| Out of the Frying Pan... | 17.00% | ~22 |
 | The Ooze | 16.00% | ~21 |
-| The Assistant | 15.00% | ~20 |
-| The Steampunk | 15.00% | ~20 |
-| Ember | 15.00% | ~20 |
-| Turquoise | 15.00% | ~20 |
+| The Assistant | 14.00% | ~18 |
+| The Steampunk | 14.00% | ~18 |
+| Ember | 14.00% | ~18 |
+| Turquoise | 14.00% | ~18 |
 | Verse | 12.00% | ~16 |
-| The Droid | 11.00% | ~14 |
-| Iron | 11.00% | ~14 |
+| The Droid | 11.00% | ~15 |
+| Iron | 11.00% | ~15 |
 | Tested | 9.00% | ~12 |
-| The Bomber | 8.00% | ~10 |
+| The Bomber | 8.00% | ~11 |
 | The Astronaut | 7.00% | ~9 |
 | Highway to Hell | 6.00% | ~8 |
 | Power Overwhelming | 5.00% | ~7 |
@@ -78,8 +78,8 @@
 | Divinity | 0.00% | ~0 |
 | Zombie Hunter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131 (Ranked 308)  
-Completed: 0 (0.00%) (Ranked 253)  
+Progressed: 132 (Ranked 307)  
+Completed: 0 (0.00%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -134,6 +134,7 @@ Completed: 0 (0.00%) (Ranked 253)
 | 2023-08-09 | 129 | 0 |
 | 2023-08-10 | 130 | 0 |
 | 2023-08-11 | 131 | 0 |
+| 2023-08-12 | 132 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

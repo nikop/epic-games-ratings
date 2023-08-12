@@ -3,9 +3,9 @@
   "Name": "The Evil Within 2",
   "ProductSlug": "the-evil-within-2",
   "Ranking_EOS_Progress": 377,
-  "Ranking_EOS_Completed": 253,
-  "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_Completed": 254,
+  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
     "PcReleaseDate": "2017-10-12T00:00:00+00:00",
@@ -468,9 +468,9 @@
       "ID": "ACHIEVEMENT_33",
       "SetID": "b36c5kb",
       "Name": "Good to See You Again",
-      "Percentage": 50,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -627,8 +627,8 @@
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-08-11T23:05:11.5240755+00:00",
+  "LastChanged_Achievements": "2023-08-12T00:05:08.1461701+00:00",
   "LastUpdate_AppInfo": "2023-08-09T15:57:03.4224426+00:00",
-  "LastUpdate_Ratings": "2023-08-11T22:58:01.6605065+00:00",
-  "LastUpdate_Achievements": "2023-08-11T23:05:11.5241432+00:00"
+  "LastUpdate_Ratings": "2023-08-11T23:57:45.5075936+00:00",
+  "LastUpdate_Achievements": "2023-08-12T00:05:08.146288+00:00"
 }

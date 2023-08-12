@@ -78,7 +78,7 @@ Rating: 4.44 (Ranked 643)
 | Operation Overlord | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,455 (Ranked 150)  
-Completed: 9 (0.26%) (Ranked 168)  
+Completed: 9 (0.26%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

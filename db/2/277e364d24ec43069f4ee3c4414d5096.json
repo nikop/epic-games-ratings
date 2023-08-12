@@ -6,9 +6,9 @@
   "Ranking_Popularity": 511,
   "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 72,
-  "Ranking_EOS_Completed": 228,
+  "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 43,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 102150,
+  "EOS_Progressed": 102153,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 1473,
+  "EOS_NewPlayers": 1471,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -6782,6 +6782,11 @@
       "Time": "2023-08-11T23:08:04.4160196+00:00",
       "NumProgressed": 102150,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-08-12T00:08:00.5583558+00:00",
+      "NumProgressed": 102153,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 49,
@@ -6801,7 +6806,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 77634
+      "UsersEstimate": 77636
     },
     {
       "ID": "EAwards_10",
@@ -6865,7 +6870,7 @@
       "Name": "Talented Player",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 35752
+      "UsersEstimate": 35754
     },
     {
       "ID": "EAwards_18",
@@ -6889,7 +6894,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 48010
+      "UsersEstimate": 48012
     },
     {
       "ID": "EAwards_20",
@@ -6937,7 +6942,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 18387
+      "UsersEstimate": 18388
     },
     {
       "ID": "EAwards_26",
@@ -6961,7 +6966,7 @@
       "Name": "Very Special",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 3064
+      "UsersEstimate": 3065
     },
     {
       "ID": "EAwards_29",
@@ -6977,7 +6982,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 18387
+      "UsersEstimate": 18388
     },
     {
       "ID": "EAwards_30",
@@ -6985,7 +6990,7 @@
       "Name": "Moves Like Jaguar",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 3064
+      "UsersEstimate": 3065
     },
     {
       "ID": "EAwards_31",
@@ -7065,7 +7070,7 @@
       "Name": "Severed",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 11236
+      "UsersEstimate": 11237
     },
     {
       "ID": "EAwards_40",
@@ -7161,7 +7166,7 @@
       "Name": "Questionable Plumbing",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 11236
+      "UsersEstimate": 11237
     },
     {
       "ID": "EAwards_8",
@@ -7169,7 +7174,7 @@
       "Name": "Santa Golpiza!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 11236
+      "UsersEstimate": 11237
     },
     {
       "ID": "EAwards_9",
@@ -7184,7 +7189,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 102150,
+      "Progressed": 102153,
       "Completed": 34
     }
   ],
@@ -7192,8 +7197,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-08-06T04:57:36.0350486+00:00",
-  "LastChanged_Achievements": "2023-08-11T23:08:04.416019+00:00",
+  "LastChanged_Achievements": "2023-08-12T00:08:00.5583552+00:00",
   "LastUpdate_AppInfo": "2023-08-10T19:57:06.4379023+00:00",
-  "LastUpdate_Ratings": "2023-08-11T22:58:37.2896449+00:00",
-  "LastUpdate_Achievements": "2023-08-11T23:08:04.4161453+00:00"
+  "LastUpdate_Ratings": "2023-08-11T23:58:23.9276735+00:00",
+  "LastUpdate_Achievements": "2023-08-12T00:08:00.5585175+00:00"
 }

@@ -54,8 +54,8 @@
 | Seashell hunter | 34.00% | ~83 |
 | Gang wrangler | 32.00% | ~78 |
 | Problems of cyborgs | 32.00% | ~78 |
+| Absolute Champion! | 32.00% | ~78 |
 | Undercover robot | 32.00% | ~78 |
-| Absolute Champion! | 31.00% | ~76 |
 | Another world | 30.00% | ~73 |
 | The lonesome road | 30.00% | ~73 |
 | Key memories | 30.00% | ~73 |
@@ -72,7 +72,7 @@
 | The only right decision | 26.00% | ~63 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 244 (Ranked 270)  
-Completed: 8 (3.28%) (Ranked 64)  
+Completed: 8 (3.28%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

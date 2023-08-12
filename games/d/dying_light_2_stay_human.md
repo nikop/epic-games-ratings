@@ -6,13 +6,13 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 11.00% | ~67,176 |
-| Into the Unknown | 10.00% | ~61,069 |
-| First Shot | 10.00% | ~61,069 |
-| Herzlich Wilkommen! | 9.00% | ~54,962 |
-| Good Night & Good Luck | 9.00% | ~54,962 |
-| Sancho Panza | 8.00% | ~48,856 |
-| Oh, So This Is How It Works! | 8.00% | ~48,856 |
+| You Never Forget Your First... | 11.00% | ~67,178 |
+| Into the Unknown | 10.00% | ~61,071 |
+| First Shot | 10.00% | ~61,071 |
+| Herzlich Wilkommen! | 9.00% | ~54,964 |
+| Good Night & Good Luck | 9.00% | ~54,964 |
+| Sancho Panza | 8.00% | ~48,857 |
+| Oh, So This Is How It Works! | 8.00% | ~48,857 |
 | Under Pressure | 7.00% | ~42,749 |
 | On the Trail of the Enemy | 7.00% | ~42,749 |
 | Light in the Darkness | 7.00% | ~42,749 |
@@ -47,8 +47,8 @@ Number of Ratings: 7,305  (23.09.2022)
 | That's Teamwork! | 1.00% | ~6,107 |
 | Fit as a Fiddle | 1.00% | ~6,107 |
 | Ironheart | 1.00% | ~6,107 |
-| Nemesis | 1.00% | ~2,561 |
-| Enter the Hall | 1.00% | ~2,561 |
+| Nemesis | 1.00% | ~2,562 |
+| Enter the Hall | 1.00% | ~2,562 |
 | Find Anything Interesting? | 0.90% | ~5,496 |
 | Boot Licker | 0.90% | ~5,496 |
 | Who Wants To Be a... | 0.90% | ~5,496 |
@@ -72,8 +72,8 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~256 |
 | Connoisseur | 0.10% | ~256 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 610,694 (Ranked 27)  
-Completed: 62 (0.01%) (Ranked 240)  
+Progressed: 610,707 (Ranked 27)  
+Completed: 62 (0.01%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -186,9 +186,10 @@ Completed: 62 (0.01%) (Ranked 240)
 | 2023-08-09 | 609,974 | 61 |
 | 2023-08-10 | 610,337 | 62 |
 | 2023-08-11 | 610,694 | 62 |
+| 2023-08-12 | 610,707 | 62 |
 ## Awards
 Max (Character Customization): 8,758  (Ranked 39)  
-Sum: 21,007 (Ranked 54)  
+Sum: 21,010 (Ranked 54)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
@@ -196,7 +197,7 @@ Diff (max vs sum): -15
 | This game has Great Boss Battles | 5,204 |
 | This game is Great for Beginners | 895 |
 | This game is Highly Recommended | 839 |
-| This game has Diverse Characters | 828 |
+| This game has Diverse Characters | 831 |
 | This game has Amazing Characters | 803 |
 | This game is Extremely Fun | 777 |
 | This game has Amazing Storytelling | 775 |
@@ -419,3 +420,4 @@ Diff (max vs sum): -15
 | 2023-08-09 | 4.58 | - | 8,747 | 20,953 |
 | 2023-08-10 | 4.58 | - | 8,758 | 20,987 |
 | 2023-08-11 | 4.58 | - | 8,758 | 21,007 |
+| 2023-08-12 | 4.58 | - | 8,758 | 21,010 |
