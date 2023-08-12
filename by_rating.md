@@ -134,7 +134,7 @@
 | 119 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 41 | 422 |
 | 119 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.76 | 356 | 224 |
 | 134 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 26 | 474 |
-| 134 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 5,659 | 61 |
+| 134 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 5,670 | 61 |
 | 134 | [Diabotical](games/d/diabotical.md) | 4.75 | 272 | 245 |
 | 134 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 655 | 174 |
 | 134 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 43 | 418 |
@@ -226,7 +226,7 @@
 | 213 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 0 | 511 |
 | 213 | [No Straight Roads](games/n/no_straight_roads.md) | 4.69 | 0 | 511 |
 | 213 | [Revita](games/r/revita.md) | 4.69 | 0 | 511 |
-| 213 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,359 | 33 |
+| 213 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,362 | 33 |
 | 213 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 241 | 256 |
 | 213 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 27 | 471 |
 | 213 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.69 | 0 | 511 |
@@ -397,7 +397,7 @@
 | 390 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 4.60 | 0 | 511 |
 | 390 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 219 | 264 |
 | 390 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 74 | 370 |
-| 390 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,576 | 27 |
+| 390 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,577 | 27 |
 | 390 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.60 | 26 | 474 |
 | 390 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 121 | 315 |
 | 390 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 632 | 176 |
@@ -600,7 +600,7 @@
 | 590 | [Paradigm](games/p/paradigm.md) | 4.48 | 0 | 511 |
 | 590 | [Redout 2](games/r/redout_2.md) | 4.48 | 0 | 511 |
 | 590 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 0 | 511 |
-| 590 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.48 | 2,319 | 104 |
+| 590 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.48 | 2,329 | 104 |
 | 590 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 4.48 | 100 | 335 |
 | 590 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.48 | 7,754 | 43 |
 | 590 | [The Escapists](games/t/the_escapists.md) | 4.48 | 0 | 511 |
@@ -635,7 +635,7 @@
 | 632 | [Chorus](games/c/chorus.md) | 4.45 | 32 | 452 |
 | 632 | [Death Coming](games/d/death_coming.md) | 4.45 | 0 | 511 |
 | 632 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 242 | 255 |
-| 632 | [Faeria](games/f/faeria.md) | 4.45 | 109 | 325 |
+| 632 | [Faeria](games/f/faeria.md) | 4.45 | 109 | 326 |
 | 632 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.45 | 798 | 156 |
 | 632 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 11,096 | 34 |
 | 632 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.45 | 31 | 458 |
@@ -744,7 +744,7 @@
 | 736 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 26 | 474 |
 | 736 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 49 | 405 |
 | 736 | [The Silent Age](games/t/the_silent_age.md) | 4.36 | 0 | 511 |
-| 736 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 109 | 325 |
+| 736 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 110 | 324 |
 | 736 | [ZOMBI](games/z/zombi.md) | 4.36 | 0 | 511 |
 | 747 | [Among Trees](games/a/among_trees.md) | 4.35 | 0 | 511 |
 | 747 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.35 | 0 | 511 |
@@ -873,18 +873,18 @@
 | 868 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 341 |
 | 868 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.18 | 0 | 511 |
 | 868 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 0 | 511 |
+| 874 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.17 | 0 | 511 |
 | 874 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.17 | 0 | 511 |
 | 874 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 4.17 | 136 | 305 |
 | 874 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 0 | 511 |
-| 877 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 0 | 511 |
-| 877 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 609 | 179 |
-| 877 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.16 | 0 | 511 |
-| 877 | [Family Man](games/f/family_man.md) | 4.16 | 0 | 511 |
-| 877 | [God's Trigger](games/g/god's_trigger.md) | 4.16 | 26 | 474 |
-| 877 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.16 | 0 | 511 |
-| 877 | [Space Punks](games/s/space_punks.md) | 4.16 | 175 | 284 |
-| 877 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.16 | 0 | 511 |
-| 877 | [Wreckfest](games/w/wreckfest.md) | 4.16 | 0 | 511 |
+| 878 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 0 | 511 |
+| 878 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 609 | 179 |
+| 878 | [Family Man](games/f/family_man.md) | 4.16 | 0 | 511 |
+| 878 | [God's Trigger](games/g/god's_trigger.md) | 4.16 | 26 | 474 |
+| 878 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.16 | 0 | 511 |
+| 878 | [Space Punks](games/s/space_punks.md) | 4.16 | 175 | 284 |
+| 878 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.16 | 0 | 511 |
+| 878 | [Wreckfest](games/w/wreckfest.md) | 4.16 | 0 | 511 |
 | 886 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.15 | 0 | 511 |
 | 886 | [Dead Age 2](games/d/dead_age_2.md) | 4.15 | 0 | 511 |
 | 886 | [Forspoken](games/f/forspoken.md) | 4.15 | 24 | 482 |
