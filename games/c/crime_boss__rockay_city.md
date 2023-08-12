@@ -5,19 +5,19 @@ Rating: 3.94 (Ranked 940)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~53,051 |
-| First One’s Free | 65.00% | ~46,598 |
-| Neophyte Ninja | 50.00% | ~35,845 |
-| Too Old for This | 47.00% | ~33,694 |
-| Case Closed | 35.00% | ~25,092 |
-| Fancy Pants | 35.00% | ~25,092 |
-| King of the Hill | 34.00% | ~24,375 |
-| Underworld Initiate | 29.00% | ~20,790 |
-| Roid Ranger | 21.00% | ~15,055 |
-| True Player | 19.00% | ~13,621 |
-| Off the Rocks | 19.00% | ~13,621 |
-| Raider’s Ruin | 17.00% | ~12,187 |
-| Dragonslayer | 17.00% | ~12,187 |
+| Downed but Not Outed | 74.00% | ~53,054 |
+| First One’s Free | 65.00% | ~46,601 |
+| Neophyte Ninja | 50.00% | ~35,847 |
+| Too Old for This | 47.00% | ~33,696 |
+| Case Closed | 35.00% | ~25,093 |
+| Fancy Pants | 35.00% | ~25,093 |
+| King of the Hill | 34.00% | ~24,376 |
+| Underworld Initiate | 29.00% | ~20,791 |
+| Roid Ranger | 21.00% | ~15,056 |
+| True Player | 19.00% | ~13,622 |
+| Off the Rocks | 19.00% | ~13,622 |
+| Raider’s Ruin | 17.00% | ~12,188 |
+| Dragonslayer | 17.00% | ~12,188 |
 | Hidden Sonata | 13.00% | ~9,320 |
 | Rockay Rex | 11.00% | ~7,886 |
 | Freebooter | 10.00% | ~7,169 |
@@ -25,10 +25,10 @@ Rating: 3.94 (Ranked 940)
 | Headhunter | 9.00% | ~6,452 |
 | Ding Dong | 9.00% | ~6,452 |
 | Classy Joint | 9.00% | ~6,452 |
-| I Like Trains | 8.00% | ~5,735 |
-| Foo Finder | 7.00% | ~5,018 |
-| Savvy Seeker | 6.00% | ~4,301 |
-| Legend Looter | 5.00% | ~3,584 |
+| I Like Trains | 8.00% | ~5,736 |
+| Foo Finder | 7.00% | ~5,019 |
+| Savvy Seeker | 6.00% | ~4,302 |
+| Legend Looter | 5.00% | ~3,585 |
 | Imports and Exports | 4.00% | ~2,868 |
 | Olympus Ascended | 4.00% | ~2,868 |
 | Cracked the Jack | 4.00% | ~2,868 |
@@ -43,7 +43,7 @@ Rating: 3.94 (Ranked 940)
 | Geek Out | 0.60% | ~430 |
 | Full House | 0.20% | ~143 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 71,690 (Ranked 77)  
+Progressed: 71,694 (Ranked 77)  
 Completed: 38 (0.05%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,7 +157,7 @@ Completed: 38 (0.05%) (Ranked 219)
 | 2023-08-09 | 71,623 | 37 |
 | 2023-08-10 | 71,653 | 38 |
 | 2023-08-11 | 71,681 | 38 |
-| 2023-08-12 | 71,690 | 38 |
+| 2023-08-12 | 71,694 | 38 |
 ## Awards
 Max (Diverse Characters): 399  (Ranked 214)  
 Sum: 1,871 (Ranked 204)  

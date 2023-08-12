@@ -6,27 +6,27 @@ Number of Ratings: 5,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 80.00% | ~522,832 |
-| Every story has a beginning | 36.00% | ~235,274 |
-| The first of many | 32.00% | ~209,133 |
-| Positive word of mouth | 18.00% | ~117,637 |
-| Lawn in the U.S.A. | 15.00% | ~98,031 |
-| Blade Runner | 9.00% | ~58,819 |
-| Credible | 7.00% | ~45,748 |
-| Teamwork makes the dream work | 6.00% | ~39,212 |
+| The dream begins | 80.00% | ~522,849 |
+| Every story has a beginning | 36.00% | ~235,282 |
+| The first of many | 32.00% | ~209,140 |
+| Positive word of mouth | 18.00% | ~117,641 |
+| Lawn in the U.S.A. | 15.00% | ~98,034 |
+| Blade Runner | 9.00% | ~58,820 |
+| Credible | 7.00% | ~45,749 |
+| Teamwork makes the dream work | 6.00% | ~39,214 |
 | Where there's muck there's brass | 4.00% | ~26,142 |
 | Bigger and better | 4.00% | ~26,142 |
 | Aggressive expansion | 4.00% | ~26,142 |
-| Size isn't everything | 3.00% | ~19,606 |
-| Close shave | 3.00% | ~19,606 |
-| Established | 3.00% | ~19,606 |
+| Size isn't everything | 3.00% | ~19,607 |
+| Close shave | 3.00% | ~19,607 |
+| Established | 3.00% | ~19,607 |
 | Fighting on all fronts | 2.00% | ~13,071 |
 | Mighty Mowing Park Ranger | 2.00% | ~13,071 |
 | Every good deed… | 2.00% | ~13,071 |
 | Leaner and meaner | 2.00% | ~13,071 |
 | First step on the ladder | 2.00% | ~13,071 |
 | Trusted | 2.00% | ~13,071 |
-| The top of the mountain | 1.00% | ~6,535 |
+| The top of the mountain | 1.00% | ~6,536 |
 | Earn your stripes | 0.90% | ~5,882 |
 | Lawn & Order | 0.90% | ~5,882 |
 | Jack of all trades | 0.90% | ~5,882 |
@@ -61,7 +61,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~654 |
 | Mo mowers, mo problems | 0.10% | ~654 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 653,540 (Ranked 23)  
+Progressed: 653,561 (Ranked 23)  
 Completed: 15 (0.00%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,11 +175,11 @@ Completed: 15 (0.00%) (Ranked 254)
 | 2023-08-09 | 652,652 | 15 |
 | 2023-08-10 | 653,010 | 15 |
 | 2023-08-11 | 653,414 | 15 |
-| 2023-08-12 | 653,540 | 15 |
+| 2023-08-12 | 653,561 | 15 |
 ## Awards
 Max (Quickly Understood Controls): 181  (Ranked 281)  
-Sum: 972 (Ranked 238)  
-Diff (max vs sum): 43  
+Sum: 972 (Ranked 239)  
+Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 181 |

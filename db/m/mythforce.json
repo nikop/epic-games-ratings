@@ -5,7 +5,7 @@
   "Ranking_Rating": 576,
   "Ranking_Popularity": 452,
   "Ranking_PopularitySum": 358,
-  "Ranking_EOS_Progress": 208,
+  "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_NewCompleters": 97,
@@ -575,7 +575,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 733,
+  "EOS_Progressed": 734,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
@@ -2205,6 +2205,11 @@
       "Time": "2023-08-12T04:05:20.3225442+00:00",
       "NumProgressed": 733,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-12T10:05:09.9970457+00:00",
+      "NumProgressed": 734,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -2231,9 +2236,9 @@
       "ID": "MF_Ach_Deadication",
       "SetID": "9b9n573",
       "Name": "Deadication",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 7
     },
     {
       "ID": "MF_Ach_DeathBecomesYou",
@@ -2271,9 +2276,9 @@
       "ID": "MF_Ach_FirstStrike",
       "SetID": "9b9n573",
       "Name": "First Strike",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 7
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -2400,15 +2405,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 733,
+      "Progressed": 734,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-07-26T02:04:08.2630657+00:00",
-  "LastChanged_Achievements": "2023-08-12T09:04:49.5063153+00:00",
+  "LastChanged_Achievements": "2023-08-12T10:05:09.9970449+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:12.5386939+00:00",
-  "LastUpdate_Ratings": "2023-08-12T08:59:38.2133269+00:00",
-  "LastUpdate_Achievements": "2023-08-12T09:04:49.5063409+00:00"
+  "LastUpdate_Ratings": "2023-08-12T10:00:00.8180935+00:00",
+  "LastUpdate_Achievements": "2023-08-12T10:05:09.9970705+00:00"
 }

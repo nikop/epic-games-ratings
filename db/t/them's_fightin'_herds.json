@@ -226,9 +226,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 227948,
+  "EOS_Progressed": 227950,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 449,
+  "EOS_NewPlayers": 451,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12121,6 +12121,11 @@
       "Time": "2023-08-12T08:08:05.0246093+00:00",
       "NumProgressed": 227948,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-12T10:06:10.5363014+00:00",
+      "NumProgressed": 227950,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -12196,7 +12201,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 82061
+      "UsersEstimate": 82062
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -12268,7 +12273,7 @@
       "Name": "Champ\u0027een of The Praire",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 2279
+      "UsersEstimate": 2280
     },
     {
       "ID": "COMPLETE_THE_STORY_MODE_PROLOGUE",
@@ -12276,7 +12281,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 77502
+      "UsersEstimate": 77503
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -12340,7 +12345,7 @@
       "Name": "A Worthy Opponent",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 38751
+      "UsersEstimate": 38752
     },
     {
       "ID": "WIN_25_ONLINE_MATCHES",
@@ -12348,14 +12353,14 @@
       "Name": "Come At Me!",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 2279
+      "UsersEstimate": 2280
     }
   ],
   "AchievementSets": [
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 227948,
+      "Progressed": 227950,
       "Completed": 3
     }
   ],
@@ -12363,8 +12368,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-08-11T01:38:33.2125072+00:00",
-  "LastChanged_Achievements": "2023-08-12T09:05:39.2054515+00:00",
+  "LastChanged_Achievements": "2023-08-12T10:06:10.5362998+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:47.3476054+00:00",
-  "LastUpdate_Ratings": "2023-08-12T09:00:55.2275722+00:00",
-  "LastUpdate_Achievements": "2023-08-12T09:05:39.2055345+00:00"
+  "LastUpdate_Ratings": "2023-08-12T10:01:30.4427128+00:00",
+  "LastUpdate_Achievements": "2023-08-12T10:06:10.5363877+00:00"
 }

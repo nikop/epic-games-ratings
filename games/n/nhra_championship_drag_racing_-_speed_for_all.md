@@ -14,7 +14,7 @@
 | Cash Rules Everything Around Me | 8.00% | ~63 |
 | Getting the job done | 7.00% | ~55 |
 | Risky business | 6.00% | ~47 |
-| Ready to Mingle | 5.00% | ~39 |
+| Ready to Mingle | 6.00% | ~47 |
 | First one tastes better | 4.00% | ~32 |
 | Better late then never | 4.00% | ~32 |
 | Better than the pros | 2.00% | ~16 |

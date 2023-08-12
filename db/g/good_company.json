@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5272,
+  "EOS_Progressed": 5273,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2865,6 +2865,11 @@
       "Time": "2023-08-12T00:05:15.1813273+00:00",
       "NumProgressed": 5272,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-12T10:04:20.7064204+00:00",
+      "NumProgressed": 5273,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -2996,7 +3001,7 @@
       "Name": "Level: Rising Markets",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "ach_campaign_progress7",
@@ -3010,9 +3015,9 @@
       "ID": "ach_campaign_progress8",
       "SetID": "8cb3id7",
       "Name": "Level: Eye In The Sky",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 26
     },
     {
       "ID": "ach_campaign_progress9",
@@ -3483,15 +3488,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5272,
+      "Progressed": 5273,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-07-16T00:00:06.2705867+00:00",
-  "LastChanged_Achievements": "2023-08-12T09:03:40.2835903+00:00",
+  "LastChanged_Achievements": "2023-08-12T10:04:20.7064199+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:43.4719321+00:00",
-  "LastUpdate_Ratings": "2023-08-12T09:00:07.1762227+00:00",
-  "LastUpdate_Achievements": "2023-08-12T09:03:40.2836909+00:00"
+  "LastUpdate_Ratings": "2023-08-12T10:00:32.0819391+00:00",
+  "LastUpdate_Achievements": "2023-08-12T10:04:20.7065188+00:00"
 }

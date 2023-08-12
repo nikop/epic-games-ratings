@@ -18,10 +18,10 @@ Number of Ratings: 111  (23.09.2022)
 | The hard way | 9.00% | ~245 |
 | Good vibes | 8.00% | ~218 |
 | Upfront shredder | 8.00% | ~218 |
+| Fashionista | 7.00% | ~190 |
 | Finally he zips it | 7.00% | ~190 |
 | That pinch! | 7.00% | ~190 |
 | Bottom ply killer | 6.00% | ~163 |
-| Fashionista | 6.00% | ~163 |
 | Fulfilled the dream | 6.00% | ~163 |
 | G'Day Mate! | 6.00% | ~163 |
 | Purple passion | 6.00% | ~163 |

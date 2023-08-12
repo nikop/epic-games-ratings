@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 8.00% | ~16,857 |
+| Sowwy! | 9.00% | ~18,967 |
 | Alt+F4 | 0.50% | ~1,054 |
 | Where's that freaking Dwarf? | 0.40% | ~843 |
 | Sock! SOCK! | 0.40% | ~843 |
@@ -23,6 +23,7 @@ Number of Ratings: 118  (23.09.2022)
 | GG EZ | 0.20% | ~421 |
 | DM intervention | 0.20% | ~421 |
 | Team Building Exercise | 0.20% | ~421 |
+| Oh, when I'll be level 10... | 0.20% | ~421 |
 | Cursed die | 0.10% | ~211 |
 | Holistic Adventuring Party | 0.10% | ~211 |
 | Shiny and Crôm | 0.10% | ~211 |
@@ -87,7 +88,6 @@ Number of Ratings: 118  (23.09.2022)
 | I am the night | 0.10% | ~211 |
 | Thieves' Guild Accreditation | 0.10% | ~211 |
 | Dwarf Candy | 0.10% | ~211 |
-| Oh, when I'll be level 10... | 0.10% | ~211 |
 | Material Girl | 0.10% | ~211 |
 | King of the Arena | 0.00% | ~0 |
 | Hoarding | 0.00% | ~0 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Sleep schedule mastery | 0.00% | ~0 |
 | Dumb and dumber | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210,712 (Ranked 55)  
+Progressed: 210,742 (Ranked 55)  
 Completed: 1 (0.00%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,7 +168,7 @@ Completed: 1 (0.00%) (Ranked 254)
 | 2023-08-09 | 209,549 | 0 |
 | 2023-08-10 | 210,011 | 0 |
 | 2023-08-11 | 210,534 | 1 |
-| 2023-08-12 | 210,712 | 1 |
+| 2023-08-12 | 210,742 | 1 |
 ## Awards
 Max (Character Customization): 159  (Ranked 292)  
 Sum: 159 (Ranked 391)  

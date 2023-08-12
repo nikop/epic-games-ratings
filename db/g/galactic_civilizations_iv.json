@@ -858,7 +858,7 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 6333,
+  "EOS_Progressed": 6334,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
@@ -4893,6 +4893,11 @@
       "Time": "2023-08-12T06:04:10.4995146+00:00",
       "NumProgressed": 6333,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-12T10:03:46.1407619+00:00",
+      "NumProgressed": 6334,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -4936,7 +4941,7 @@
       "Name": "Commodity Trader",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1963
+      "UsersEstimate": 1964
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -5008,7 +5013,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 5003
+      "UsersEstimate": 5004
     },
     {
       "ID": "First_Race_Met",
@@ -5016,7 +5021,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4623
+      "UsersEstimate": 4624
     },
     {
       "ID": "First_Ship_Designed",
@@ -5040,7 +5045,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 4940
+      "UsersEstimate": 4941
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -5120,7 +5125,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2153
+      "UsersEstimate": 2154
     },
     {
       "ID": "Play_1000_Hours",
@@ -5208,7 +5213,7 @@
       "Name": "Commodity Seller",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1583
+      "UsersEstimate": 1584
     },
     {
       "ID": "Take_Iconia_From_Yor_As_Iconians",
@@ -5224,7 +5229,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3926
+      "UsersEstimate": 3927
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -5392,7 +5397,7 @@
       "Name": "Win a Battle",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 4243
+      "UsersEstimate": 4244
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -5462,9 +5467,9 @@
       "ID": "Win_Quickly",
       "SetID": "4h07amh",
       "Name": "Win Quickly",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 317
+      "UsersEstimate": 253
     },
     {
       "ID": "Win_Research",
@@ -5479,15 +5484,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6333,
+      "Progressed": 6334,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-08-12T04:58:53.0373153+00:00",
-  "LastChanged_Achievements": "2023-08-12T09:03:25.51733+00:00",
+  "LastChanged_Achievements": "2023-08-12T10:03:46.1407614+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:24.6593665+00:00",
-  "LastUpdate_Ratings": "2023-08-12T08:58:40.3558826+00:00",
-  "LastUpdate_Achievements": "2023-08-12T09:03:25.517419+00:00"
+  "LastUpdate_Ratings": "2023-08-12T09:58:59.0684521+00:00",
+  "LastUpdate_Achievements": "2023-08-12T10:03:46.1408561+00:00"
 }

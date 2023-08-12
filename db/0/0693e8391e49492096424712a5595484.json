@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 387,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 6.46,
   "EosHistory": [
@@ -1480,9 +1480,9 @@
       "ID": "BeggarWomanHut",
       "SetID": "db30heh",
       "Name": "Home Sweet Home",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 275
+      "UsersEstimate": 279
     },
     {
       "ID": "BroomAmanita",
@@ -1504,9 +1504,9 @@
       "ID": "DevilPriest",
       "SetID": "db30heh",
       "Name": "Deal with the Devil",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 275
+      "UsersEstimate": 279
     },
     {
       "ID": "DevilRope",
@@ -1576,9 +1576,9 @@
       "ID": "HastrmanHappy",
       "SetID": "db30heh",
       "Name": "Regular Diet",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 166
+      "UsersEstimate": 170
     },
     {
       "ID": "HastrmanRum",
@@ -1624,9 +1624,9 @@
       "ID": "PriestPistol",
       "SetID": "db30heh",
       "Name": "Unexpected Hit",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 70
+      "UsersEstimate": 74
     },
     {
       "ID": "PriestPoppiesBroth",
@@ -1656,9 +1656,9 @@
       "ID": "Priestess",
       "SetID": "db30heh",
       "Name": "Blessed",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 205
+      "UsersEstimate": 209
     },
     {
       "ID": "PrincessThrone",
@@ -1767,8 +1767,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-08-12T09:06:39.4204434+00:00",
+  "LastChanged_Achievements": "2023-08-12T10:07:02.2906972+00:00",
   "LastUpdate_AppInfo": "2023-08-08T15:57:07.8979254+00:00",
-  "LastUpdate_Ratings": "2023-08-12T08:57:54.3219668+00:00",
-  "LastUpdate_Achievements": "2023-08-12T09:06:39.4205125+00:00"
+  "LastUpdate_Ratings": "2023-08-12T09:58:01.2210155+00:00",
+  "LastUpdate_Achievements": "2023-08-12T10:07:02.2907419+00:00"
 }

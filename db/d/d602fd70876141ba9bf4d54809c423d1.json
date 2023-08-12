@@ -4,7 +4,7 @@
   "ProductSlug": "the-evil-within",
   "Ranking_EOS_Progress": 370,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
@@ -553,9 +553,9 @@
       "ID": "ACHIEVEMENT_39",
       "SetID": "ap8553i",
       "Name": "Bathed in Flames",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -830,8 +830,8 @@
   ],
   "FirstSeen": "2023-08-04T21:57:01.9865679+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5206267+00:00",
-  "LastChanged_Achievements": "2023-08-12T09:04:05.2477552+00:00",
+  "LastChanged_Achievements": "2023-08-12T10:04:25.3649631+00:00",
   "LastUpdate_AppInfo": "2023-08-09T15:57:03.7516548+00:00",
-  "LastUpdate_Ratings": "2023-08-12T08:57:29.3575187+00:00",
-  "LastUpdate_Achievements": "2023-08-12T09:04:05.2478265+00:00"
+  "LastUpdate_Ratings": "2023-08-12T09:57:34.7067432+00:00",
+  "LastUpdate_Achievements": "2023-08-12T10:04:25.365048+00:00"
 }

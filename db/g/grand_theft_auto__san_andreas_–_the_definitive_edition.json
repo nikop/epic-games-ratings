@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 348,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -682,9 +682,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 11936,
+  "EOS_Progressed": 11937,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -8797,6 +8797,11 @@
       "Time": "2023-08-12T06:04:04.3338966+00:00",
       "NumProgressed": 11936,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-08-12T10:03:40.4677874+00:00",
+      "NumProgressed": 11937,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 35,
@@ -8808,7 +8813,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9668
+      "UsersEstimate": 9669
     },
     {
       "ID": "ACH02",
@@ -8904,7 +8909,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 2148
+      "UsersEstimate": 2149
     },
     {
       "ID": "ACH14",
@@ -9032,7 +9037,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 1790
+      "UsersEstimate": 1791
     },
     {
       "ID": "ACH30",
@@ -9087,7 +9092,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11936,
+      "Progressed": 11937,
       "Completed": 36
     }
   ],
@@ -9095,8 +9100,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-08-11T19:57:17.244721+00:00",
-  "LastChanged_Achievements": "2023-08-12T09:03:19.8973216+00:00",
+  "LastChanged_Achievements": "2023-08-12T10:03:40.4677865+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:11.1716171+00:00",
-  "LastUpdate_Ratings": "2023-08-12T08:57:09.0574328+00:00",
-  "LastUpdate_Achievements": "2023-08-12T09:03:19.897396+00:00"
+  "LastUpdate_Ratings": "2023-08-12T09:57:17.2971735+00:00",
+  "LastUpdate_Achievements": "2023-08-12T10:03:40.4678616+00:00"
 }

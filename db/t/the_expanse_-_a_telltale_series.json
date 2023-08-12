@@ -2,7 +2,7 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_EOS_Progress": 133,
+  "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 33,
   "Ranking_EOS_NewCompleters": 97,
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6947,
+  "EOS_Progressed": 6954,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2488,
+  "EOS_NewPlayers": 2487,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1662,6 +1662,11 @@
       "Time": "2023-08-12T09:05:48.786181+00:00",
       "NumProgressed": 6947,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-12T10:06:20.9064042+00:00",
+      "NumProgressed": 6954,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -1714,15 +1719,15 @@
       "Name": "Doctor Approved",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1113
     },
     {
       "ID": "15",
       "SetID": "458bbdk",
       "Name": "Stogie for Fogey",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 625
+      "UsersEstimate": 695
     },
     {
       "ID": "16",
@@ -1752,9 +1757,9 @@
       "ID": "19",
       "SetID": "458bbdk",
       "Name": "Martian Music",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 347
+      "UsersEstimate": 417
     },
     {
       "ID": "2",
@@ -1762,7 +1767,7 @@
       "Name": "Data Logger",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "20",
@@ -1770,7 +1775,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "21",
@@ -1850,7 +1855,7 @@
       "Name": "Captain Drummer",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1042
+      "UsersEstimate": 1043
     },
     {
       "ID": "30",
@@ -1913,14 +1918,14 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 6947,
+      "Progressed": 6954,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged_Achievements": "2023-08-12T09:05:48.7861806+00:00",
+  "LastChanged_Achievements": "2023-08-12T10:06:20.9064035+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:56.6215488+00:00",
-  "LastUpdate_Ratings": "2023-08-12T09:00:17.7227486+00:00",
-  "LastUpdate_Achievements": "2023-08-12T09:05:48.7862127+00:00"
+  "LastUpdate_Ratings": "2023-08-12T10:00:44.7291799+00:00",
+  "LastUpdate_Achievements": "2023-08-12T10:06:20.9064343+00:00"
 }

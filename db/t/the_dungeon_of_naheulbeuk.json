@@ -618,9 +618,9 @@
       "Count": 159
     }
   ],
-  "EOS_Progressed": 210712,
+  "EOS_Progressed": 210742,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4100,
+  "EOS_NewPlayers": 4105,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6598,6 +6598,11 @@
       "Time": "2023-08-12T09:04:25.3343609+00:00",
       "NumProgressed": 210712,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-12T10:04:45.4390762+00:00",
+      "NumProgressed": 210742,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 88,
@@ -7055,9 +7060,9 @@
       "ID": "ElfHitTwoFriends",
       "SetID": "50chcgj",
       "Name": "Sowwy!",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 16857
+      "UsersEstimate": 18967
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -7287,9 +7292,9 @@
       "ID": "TeamLevel10",
       "SetID": "50chcgj",
       "Name": "Oh, when I\u0027ll be level 10...",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 211
+      "UsersEstimate": 421
     },
     {
       "ID": "WizardEpic",
@@ -7312,21 +7317,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 210712,
+      "Progressed": 210742,
       "Completed": 1
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 210712,
+      "Progressed": 210742,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-11T05:01:04.7286626+00:00",
-  "LastChanged_Achievements": "2023-08-12T09:04:25.3343603+00:00",
+  "LastChanged_Achievements": "2023-08-12T10:04:45.4390755+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:49.6773731+00:00",
-  "LastUpdate_Ratings": "2023-08-12T09:00:12.0231047+00:00",
-  "LastUpdate_Achievements": "2023-08-12T09:04:25.3345004+00:00"
+  "LastUpdate_Ratings": "2023-08-12T10:00:39.5969763+00:00",
+  "LastUpdate_Achievements": "2023-08-12T10:04:45.4392204+00:00"
 }

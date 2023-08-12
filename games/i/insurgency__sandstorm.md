@@ -32,7 +32,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | #1 | 0.70% | ~3,022 |
 | Special Delivery | 0.70% | ~3,022 |
 | Firefight Victory | 0.60% | ~2,590 |
-| Cinematic | 0.50% | ~2,158 |
+| Cinematic | 0.50% | ~2,159 |
 | Thanks Station! | 0.40% | ~1,727 |
 | Knock Knock | 0.30% | ~1,295 |
 | There For You | 0.30% | ~1,295 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~432 |
 | Road Hazard | 0.10% | ~432 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 431,698 (Ranked 38)  
+Progressed: 431,707 (Ranked 38)  
 Completed: 2 (0.00%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 2 (0.00%) (Ranked 254)
 | 2023-08-09 | 430,971 | 2 |
 | 2023-08-10 | 431,288 | 2 |
 | 2023-08-11 | 431,574 | 2 |
-| 2023-08-12 | 431,698 | 2 |
+| 2023-08-12 | 431,707 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 373  (Ranked 221)  
 Sum: 2,883 (Ranked 167)  
