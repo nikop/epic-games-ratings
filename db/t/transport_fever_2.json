@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
     "PcReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -3405,9 +3405,9 @@
       "ID": "achHq",
       "SetID": "dgl390n",
       "Name": "Settled down",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 744
+      "UsersEstimate": 760
     },
     {
       "ID": "achHq20",
@@ -3517,9 +3517,9 @@
       "ID": "achShipEarnings",
       "SetID": "dgl390n",
       "Name": "The king of the sea",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 450
+      "UsersEstimate": 465
     },
     {
       "ID": "achSmellOfSuccess",
@@ -3605,8 +3605,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-07-31T23:00:45.0169923+00:00",
-  "LastChanged_Achievements": "2023-08-12T16:06:40.1245268+00:00",
+  "LastChanged_Achievements": "2023-08-12T17:07:14.4267235+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:41.7725812+00:00",
-  "LastUpdate_Ratings": "2023-08-12T16:02:55.125464+00:00",
-  "LastUpdate_Achievements": "2023-08-12T16:06:40.1246021+00:00"
+  "LastUpdate_Ratings": "2023-08-12T17:03:22.9199058+00:00",
+  "LastUpdate_Achievements": "2023-08-12T17:07:14.4268464+00:00"
 }

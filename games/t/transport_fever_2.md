@@ -21,7 +21,7 @@ Number of Ratings: 180  (23.09.2022)
 | Cadet | 53.00% | ~822 |
 | Cargo hub | 53.00% | ~822 |
 | Sculpturer | 50.00% | ~776 |
-| Settled down | 48.00% | ~744 |
+| Settled down | 49.00% | ~760 |
 | First electric train arrived | 47.00% | ~729 |
 | First ship arrived | 46.00% | ~713 |
 | Now what? | 46.00% | ~713 |
@@ -34,8 +34,8 @@ Number of Ratings: 180  (23.09.2022)
 | Crowd in a train | 32.00% | ~496 |
 | The future is now, old man | 31.00% | ~481 |
 | Not in my backyard | 30.00% | ~465 |
+| The king of the sea | 30.00% | ~465 |
 | City | 29.00% | ~450 |
-| The king of the sea | 29.00% | ~450 |
 | Transport tycoon | 24.00% | ~372 |
 | Old timer | 23.00% | ~357 |
 | The ugly smell of success | 23.00% | ~357 |

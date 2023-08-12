@@ -21,8 +21,8 @@
 | No bullying more | 69.00% | ~169 |
 | Hello, world! | 69.00% | ~169 |
 | Pal of your father? | 67.00% | ~164 |
-| Employee of the month | 64.00% | ~157 |
-| Spirit of the past | 63.00% | ~154 |
+| Employee of the month | 65.00% | ~159 |
+| Spirit of the past | 64.00% | ~157 |
 | Law student | 62.00% | ~152 |
 | Workout professional | 59.00% | ~145 |
 | Little hacker | 59.00% | ~145 |
@@ -30,8 +30,8 @@
 | Own four walls | 59.00% | ~145 |
 | Handyman | 58.00% | ~142 |
 | Champion – starter pack | 58.00% | ~142 |
+| Employee of the year | 58.00% | ~142 |
 | Intriguing candies | 57.00% | ~140 |
-| Employee of the year | 57.00% | ~140 |
 | Fight for life | 56.00% | ~137 |
 | Legal courier | 53.00% | ~130 |
 | Extreme neuropower! | 52.00% | ~127 |

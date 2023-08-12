@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3440,9 +3440,9 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 10926,
+  "EOS_Progressed": 10927,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10655,6 +10655,11 @@
       "Time": "2023-08-12T15:04:21.6337872+00:00",
       "NumProgressed": 10926,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-12T17:05:43.2448692+00:00",
+      "NumProgressed": 10927,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -10802,7 +10807,7 @@
       "Name": "Mythic Choices",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1420
+      "UsersEstimate": 1421
     },
     {
       "ID": "19_EqualToAroden",
@@ -10914,7 +10919,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1420
+      "UsersEstimate": 1421
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -11593,21 +11598,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9708,
+      "Progressed": 9709,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10926,
+      "Progressed": 10927,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-08-11T18:00:20.733408+00:00",
-  "LastChanged_Achievements": "2023-08-12T16:05:08.5475176+00:00",
+  "LastChanged_Achievements": "2023-08-12T17:05:43.2448684+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:11.5447906+00:00",
-  "LastUpdate_Ratings": "2023-08-12T16:00:47.1330624+00:00",
-  "LastUpdate_Achievements": "2023-08-12T16:05:08.5477159+00:00"
+  "LastUpdate_Ratings": "2023-08-12T17:01:24.5706923+00:00",
+  "LastUpdate_Achievements": "2023-08-12T17:05:43.2452369+00:00"
 }

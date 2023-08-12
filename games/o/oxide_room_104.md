@@ -9,23 +9,23 @@
 | Nimble fingers | 79.00% | ~119 |
 | Room 104 | 79.00% | ~119 |
 | Face to face | 79.00% | ~119 |
-| Now or never | 74.00% | ~112 |
+| Now or never | 75.00% | ~113 |
 | Let's play a game… | 73.00% | ~110 |
 | First aid | 62.00% | ~94 |
 | Soundtrack | 58.00% | ~88 |
 | Antidote | 54.00% | ~82 |
 | Pick the right door | 25.00% | ~38 |
-| The third floor | 16.00% | ~24 |
-| One-way | 14.00% | ~21 |
-| On the right path | 13.00% | ~20 |
+| The third floor | 17.00% | ~26 |
+| One-way | 15.00% | ~23 |
+| On the right path | 14.00% | ~21 |
 | It can't be true | 13.00% | ~20 |
 | I'm close now | 11.00% | ~17 |
 | Failed attempt | 11.00% | ~17 |
 | The real escape | 11.00% | ~17 |
+| Nightmare in the kitchen | 11.00% | ~17 |
 | Good choice | 11.00% | ~17 |
 | Take the long way round | 11.00% | ~17 |
 | He who seeks, finds! | 11.00% | ~17 |
-| Nightmare in the kitchen | 10.00% | ~15 |
 | Born again | 7.00% | ~11 |
 | 373 | 6.00% | ~9 |
 | The experiment | 5.00% | ~8 |

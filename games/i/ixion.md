@@ -22,10 +22,10 @@ Rating: 4.55 (Ranked 485)
 | Exceeding Capacity | 9.00% | ~276 |
 | Breaking Protocol | 9.00% | ~276 |
 | Power Outage | 7.00% | ~214 |
+| Please Make it Stop! | 7.00% | ~214 |
 | Man's Best Friend | 6.00% | ~184 |
 | Sightseeing | 6.00% | ~184 |
 | Convenient Transport | 6.00% | ~184 |
-| Please Make it Stop! | 6.00% | ~184 |
 | Access Granted | 5.00% | ~153 |
 | Necessary Enhancement | 5.00% | ~153 |
 | From the Past | 5.00% | ~153 |

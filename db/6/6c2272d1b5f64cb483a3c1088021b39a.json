@@ -4,8 +4,8 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
     "PcReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 911,
+  "EOS_Progressed": 914,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2836,6 +2836,11 @@
       "Time": "2023-08-12T14:06:20.744777+00:00",
       "NumProgressed": 911,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-12T17:07:37.8896214+00:00",
+      "NumProgressed": 914,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2847,7 +2852,7 @@
       "Name": "Adventurous 1",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "adventurous_2",
@@ -3015,7 +3020,7 @@
       "Name": "Elemental stones 1",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 437
+      "UsersEstimate": 439
     },
     {
       "ID": "elemental_stones_2",
@@ -3039,7 +3044,7 @@
       "Name": "Elite Deck 1",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "elite_deck_2",
@@ -3231,7 +3236,7 @@
       "Name": "Punctual 1",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "punctual_2",
@@ -3374,14 +3379,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 911,
+      "Progressed": 914,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-08-12T16:07:14.207547+00:00",
+  "LastChanged_Achievements": "2023-08-12T17:07:37.8896204+00:00",
   "LastUpdate_AppInfo": "2023-08-08T04:57:14.8728607+00:00",
-  "LastUpdate_Ratings": "2023-08-12T15:58:31.0414393+00:00",
-  "LastUpdate_Achievements": "2023-08-12T16:07:14.2076232+00:00"
+  "LastUpdate_Ratings": "2023-08-12T16:58:54.5979912+00:00",
+  "LastUpdate_Achievements": "2023-08-12T17:07:37.8897594+00:00"
 }

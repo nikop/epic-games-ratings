@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 91,
   "Ranking_EOS_NewPlayers": 355,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
     "PcReleaseDate": "2021-07-27T17:00:00+00:00",
@@ -28,7 +28,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 210,
+  "EOS_Progressed": 211,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -208,6 +208,11 @@
       "Time": "2023-07-27T12:01:03.97349+00:00",
       "NumProgressed": 210,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-12T17:05:22.9011123+00:00",
+      "NumProgressed": 211,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 17,
@@ -227,7 +232,7 @@
       "Name": "Career Woman",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "deal_or_no_deal",
@@ -259,7 +264,7 @@
       "Name": "Impress Theron",
       "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "marriage_is_off",
@@ -273,9 +278,9 @@
       "ID": "no_one_is_safe",
       "SetID": "a3kkelb",
       "Name": "No One Is Safe",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 139
+      "UsersEstimate": 137
     },
     {
       "ID": "off_his_meds",
@@ -305,9 +310,9 @@
       "ID": "personal_life",
       "SetID": "a3kkelb",
       "Name": "Personal Life",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 103
     },
     {
       "ID": "save_dad",
@@ -323,7 +328,7 @@
       "Name": "Shady Truth",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "unhelpful",
@@ -347,14 +352,14 @@
       "Name": "Will This Help?",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     }
   ],
   "AchievementSets": [
     {
       "ID": "a3kkelb",
       "IsBase": true,
-      "Progressed": 210,
+      "Progressed": 211,
       "Completed": 4
     }
   ],
@@ -362,8 +367,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "LastChanged_Achievements": "2023-08-12T16:04:48.1660497+00:00",
+  "LastChanged_Achievements": "2023-08-12T17:05:22.9011115+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:17.1824688+00:00",
-  "LastUpdate_Ratings": "2023-08-12T15:59:16.0628525+00:00",
-  "LastUpdate_Achievements": "2023-08-12T16:04:48.1660654+00:00"
+  "LastUpdate_Ratings": "2023-08-12T16:59:41.1628152+00:00",
+  "LastUpdate_Achievements": "2023-08-12T17:05:22.9011354+00:00"
 }

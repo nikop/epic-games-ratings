@@ -5,8 +5,8 @@ Rating: 4.88 (Ranked 18)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 10.00% | ~386 |
-| Feeling the beat! | 10.00% | ~386 |
+| Start with a bang! | 10.00% | ~387 |
+| Feeling the beat! | 10.00% | ~387 |
 | You can pet the cat! | 9.00% | ~348 |
 | Who put gears in there? | 8.00% | ~309 |
 | Cream of the Crop | 7.00% | ~271 |
@@ -77,7 +77,7 @@ Rating: 4.88 (Ranked 18)
 | Voices from within | 0.10% | ~2 |
 | Low budget finish | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,865 (Ranked 147)  
+Progressed: 3,866 (Ranked 147)  
 Completed: 7 (0.18%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 7 (0.18%) (Ranked 185)
 | 2023-08-09 | 3,820 | 7 |
 | 2023-08-10 | 3,836 | 7 |
 | 2023-08-11 | 3,855 | 7 |
-| 2023-08-12 | 3,865 | 7 |
+| 2023-08-12 | 3,866 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

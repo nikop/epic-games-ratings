@@ -55,6 +55,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Naming Landmarks | 1.00% | ~134 |
 | Poetic Leader | 1.00% | ~134 |
 | Regicide | 0.90% | ~120 |
+| Just Difficulty | 0.90% | ~120 |
 | Artisans | 0.90% | ~120 |
 | Furious Family | 0.90% | ~120 |
 | Apadana | 0.90% | ~120 |
@@ -62,7 +63,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Musaeum | 0.90% | ~120 |
 | Drillmaster | 0.80% | ~107 |
 | Legendary Cities | 0.80% | ~107 |
-| Just Difficulty | 0.80% | ~107 |
 | Sages | 0.80% | ~107 |
 | Acropolis | 0.80% | ~107 |
 | Learn to Play 2 | 0.80% | ~107 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,377 (Ranked 117)  
+Progressed: 13,378 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -417,7 +417,7 @@ Completed: 5 (0.04%) (Ranked 224)
 | 2023-08-09 | 13,342 | 5 |
 | 2023-08-10 | 13,349 | 5 |
 | 2023-08-11 | 13,363 | 5 |
-| 2023-08-12 | 13,377 | 5 |
+| 2023-08-12 | 13,378 | 5 |
 ## Awards
 Max (Relaxing): 219  (Ranked 264)  
 Sum: 1,790 (Ranked 206)  

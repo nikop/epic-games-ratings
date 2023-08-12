@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 9.00% | ~18,985 |
+| Sowwy! | 9.00% | ~18,990 |
 | Alt+F4 | 0.60% | ~1,266 |
 | Where's that freaking Dwarf? | 0.50% | ~1,055 |
 | Déjà vu | 0.40% | ~844 |
@@ -25,6 +25,7 @@ Number of Ratings: 118  (23.09.2022)
 | Torture and Sensibility | 0.20% | ~422 |
 | The Dungeon Master | 0.20% | ~422 |
 | The Woman in the High Castle | 0.20% | ~422 |
+| I am the night | 0.20% | ~422 |
 | Team Building Exercise | 0.20% | ~422 |
 | Oh, when I'll be level 10... | 0.20% | ~422 |
 | Cursed die | 0.10% | ~211 |
@@ -85,7 +86,6 @@ Number of Ratings: 118  (23.09.2022)
 | Lëgal Legend | 0.10% | ~211 |
 | Lust and Debauchery | 0.10% | ~211 |
 | The Ranger of Chaos | 0.10% | ~211 |
-| I am the night | 0.10% | ~211 |
 | Thieves' Guild Accreditation | 0.10% | ~211 |
 | Dwarf Candy | 0.10% | ~211 |
 | Material Girl | 0.10% | ~211 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Sleep schedule mastery | 0.00% | ~0 |
 | Dumb and dumber | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210,949 (Ranked 55)  
+Progressed: 211,001 (Ranked 56)  
 Completed: 1 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,7 +168,7 @@ Completed: 1 (0.00%) (Ranked 255)
 | 2023-08-09 | 209,549 | 0 |
 | 2023-08-10 | 210,011 | 0 |
 | 2023-08-11 | 210,534 | 1 |
-| 2023-08-12 | 210,949 | 1 |
+| 2023-08-12 | 211,001 | 1 |
 ## Awards
 Max (Character Customization): 160  (Ranked 292)  
 Sum: 180 (Ranked 377)  

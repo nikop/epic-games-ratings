@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -575,9 +575,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 736,
+  "EOS_Progressed": 737,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2220,6 +2220,11 @@
       "Time": "2023-08-12T16:06:01.0339472+00:00",
       "NumProgressed": 736,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-12T17:06:35.9617782+00:00",
+      "NumProgressed": 737,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -2302,7 +2307,7 @@
       "ID": "MF_Ach_FourthGate",
       "SetID": "9b9n573",
       "Name": "The Fourth Gate",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 50,
       "UsersEstimate": 7
     },
@@ -2415,15 +2420,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 736,
+      "Progressed": 737,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-07-26T02:04:08.2630657+00:00",
-  "LastChanged_Achievements": "2023-08-12T16:06:01.0339465+00:00",
+  "LastChanged_Achievements": "2023-08-12T17:06:35.9617775+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:12.5386939+00:00",
-  "LastUpdate_Ratings": "2023-08-12T16:00:48.3371304+00:00",
-  "LastUpdate_Achievements": "2023-08-12T16:06:01.0339738+00:00"
+  "LastUpdate_Ratings": "2023-08-12T17:01:25.6553+00:00",
+  "LastUpdate_Achievements": "2023-08-12T17:06:35.9618228+00:00"
 }
