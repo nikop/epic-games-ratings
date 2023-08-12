@@ -118,9 +118,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3862,
+  "EOS_Progressed": 3863,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -5758,6 +5758,11 @@
       "Time": "2023-08-12T09:05:04.0388472+00:00",
       "NumProgressed": 3862,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-08-12T12:05:08.1130981+00:00",
+      "NumProgressed": 3863,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 71,
@@ -5793,7 +5798,7 @@
       "Name": "The Negotiator",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "Ach005",
@@ -5801,7 +5806,7 @@
       "Name": "Headliner",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "Ach006",
@@ -5809,7 +5814,7 @@
       "Name": "Time to pay up!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "Ach007",
@@ -5817,7 +5822,7 @@
       "Name": "Who\u0027s the boss now?",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "Ach008",
@@ -5905,7 +5910,7 @@
       "Name": "Whoa! There\u0027s ANOTHER health bar!?",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "Ach019",
@@ -5969,7 +5974,7 @@
       "Name": "You must like calling me in, Chai",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "Ach027",
@@ -5993,7 +5998,7 @@
       "Name": "Out in a puff of smoke",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "Ach030",
@@ -6336,13 +6341,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 3862,
+      "Progressed": 3863,
       "Completed": 7
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2383,
+      "Progressed": 2384,
       "Completed": 1929
     }
   ],
@@ -6350,8 +6355,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-08-10T23:00:09.4128826+00:00",
-  "LastChanged_Achievements": "2023-08-12T11:05:02.7193674+00:00",
+  "LastChanged_Achievements": "2023-08-12T12:05:08.1130976+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:15.2039204+00:00",
-  "LastUpdate_Ratings": "2023-08-12T10:59:20.5774568+00:00",
-  "LastUpdate_Achievements": "2023-08-12T11:05:02.7194498+00:00"
+  "LastUpdate_Ratings": "2023-08-12T11:59:36.5358685+00:00",
+  "LastUpdate_Achievements": "2023-08-12T12:05:08.1131819+00:00"
 }

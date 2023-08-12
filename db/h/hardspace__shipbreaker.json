@@ -1629,9 +1629,9 @@
       "ID": "ACH_CRITICAL_THINKER",
       "SetID": "108h92c",
       "Name": "Critical Thinker",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 304
+      "UsersEstimate": 313
     },
     {
       "ID": "ACH_DISAGREE_AND_COMMIT",
@@ -1758,8 +1758,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-06-27T22:57:40.9300302+00:00",
-  "LastChanged_Achievements": "2023-08-12T11:02:11.4606633+00:00",
+  "LastChanged_Achievements": "2023-08-12T12:02:16.9826638+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:21.1884846+00:00",
-  "LastUpdate_Ratings": "2023-08-12T10:58:25.2260939+00:00",
-  "LastUpdate_Achievements": "2023-08-12T11:02:11.4606894+00:00"
+  "LastUpdate_Ratings": "2023-08-12T11:58:33.1781888+00:00",
+  "LastUpdate_Achievements": "2023-08-12T12:02:16.9826893+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-3-b0c022",
   "Ranking_EOS_Progress": 370,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -293,9 +293,9 @@
       "ID": "CgkIxYDzrbcPEAIQBw",
       "SetID": "4egpam7",
       "Name": "Cave Exploration",
-      "Percentage": 44,
+      "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "CgkIxYDzrbcPEAIQCA",
@@ -333,9 +333,9 @@
       "ID": "CgkIxYDzrbcPEAIQDA",
       "SetID": "4egpam7",
       "Name": "Chimney Sweeper",
-      "Percentage": 70,
+      "Percentage": 72,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "CgkIxYDzrbcPEAIQDQ",
@@ -492,8 +492,8 @@
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2023-08-12T11:05:48.3587787+00:00",
+  "LastChanged_Achievements": "2023-08-12T12:05:52.8346111+00:00",
   "LastUpdate_AppInfo": "2023-08-08T13:56:55.0223593+00:00",
-  "LastUpdate_Ratings": "2023-08-12T10:57:54.380882+00:00",
-  "LastUpdate_Achievements": "2023-08-12T11:05:48.3587983+00:00"
+  "LastUpdate_Ratings": "2023-08-12T11:57:58.0576891+00:00",
+  "LastUpdate_Achievements": "2023-08-12T12:05:52.8346297+00:00"
 }

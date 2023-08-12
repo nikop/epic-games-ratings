@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
@@ -135,9 +135,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 342,
+  "EOS_Progressed": 343,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -970,6 +970,11 @@
       "Time": "2023-08-11T15:04:23.5646725+00:00",
       "NumProgressed": 342,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-12T12:04:09.7763956+00:00",
+      "NumProgressed": 343,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 31,
@@ -981,7 +986,7 @@
       "Name": "Digger",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "ACH_ALL_TELEPORTS",
@@ -1029,7 +1034,7 @@
       "Name": "Mushroom Picker",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ACH_COLLECT_20_RED_BOOKS",
@@ -1045,7 +1050,7 @@
       "Name": "Blacksmith",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_COLLECT_30_BLUE_BOOKS",
@@ -1075,9 +1080,9 @@
       "ID": "ACH_COOK",
       "SetID": "7c4cldc",
       "Name": "Cook",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 147
     },
     {
       "ID": "ACH_CUT_100_TREES",
@@ -1091,9 +1096,9 @@
       "ID": "ACH_CUT_20_TREES",
       "SetID": "7c4cldc",
       "Name": "Lumberjack",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 103
+      "UsersEstimate": 106
     },
     {
       "ID": "ACH_CUT_50_TREES",
@@ -1123,9 +1128,9 @@
       "ID": "ACH_KILL_100",
       "SetID": "7c4cldc",
       "Name": "Robot Hunter",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 79
+      "UsersEstimate": 75
     },
     {
       "ID": "ACH_KILL_20",
@@ -1139,9 +1144,9 @@
       "ID": "ACH_KILL_50",
       "SetID": "7c4cldc",
       "Name": "Robot Destroyer",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 109
+      "UsersEstimate": 106
     },
     {
       "ID": "ACH_MAKE_CANNED_FOOD",
@@ -1205,7 +1210,7 @@
       "Name": "Advanced Survivalist",
       "Percentage": 20,
       "XP": 35,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACH_SURVIVE_40_DAYS",
@@ -1221,14 +1226,14 @@
       "Name": "Teleport",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     }
   ],
   "AchievementSets": [
     {
       "ID": "7c4cldc",
       "IsBase": true,
-      "Progressed": 342,
+      "Progressed": 343,
       "Completed": 1
     }
   ],
@@ -1236,8 +1241,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-06-01T06:59:03.7150344+00:00",
-  "LastChanged_Achievements": "2023-08-12T11:04:05.2937685+00:00",
+  "LastChanged_Achievements": "2023-08-12T12:04:09.776395+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:12.6952772+00:00",
-  "LastUpdate_Ratings": "2023-08-12T10:59:18.8548052+00:00",
-  "LastUpdate_Achievements": "2023-08-12T11:04:05.2937903+00:00"
+  "LastUpdate_Ratings": "2023-08-12T11:59:34.5513658+00:00",
+  "LastUpdate_Achievements": "2023-08-12T12:04:09.7764168+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3118,
+  "EOS_Progressed": 3119,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -2744,6 +2744,11 @@
       "Time": "2023-08-12T04:03:52.3504323+00:00",
       "NumProgressed": 3118,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-08-12T12:03:43.307528+00:00",
+      "NumProgressed": 3119,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 33,
@@ -2763,7 +2768,7 @@
       "Name": "Sniped",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "bonus3",
@@ -2803,7 +2808,7 @@
       "Name": "You and what Army?",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2775
+      "UsersEstimate": 2776
     },
     {
       "ID": "campaign10",
@@ -2835,7 +2840,7 @@
       "Name": "Damage Control",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "campaign14",
@@ -2859,7 +2864,7 @@
       "Name": "Master of the Brawl",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "campaign17",
@@ -2891,7 +2896,7 @@
       "Name": "Flanked!",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 2463
+      "UsersEstimate": 2464
     },
     {
       "ID": "campaign20",
@@ -2939,7 +2944,7 @@
       "Name": "Maestro",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 904
+      "UsersEstimate": 905
     },
     {
       "ID": "campaign8",
@@ -2961,9 +2966,9 @@
       "ID": "scenario1",
       "SetID": "2h56gn1",
       "Name": "Do the Splits",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1310
+      "UsersEstimate": 1279
     },
     {
       "ID": "scenario2",
@@ -3018,7 +3023,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3118,
+      "Progressed": 3119,
       "Completed": 10
     }
   ],
@@ -3026,8 +3031,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-08-12T11:03:48.6830961+00:00",
+  "LastChanged_Achievements": "2023-08-12T12:03:43.3075277+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:07.7708423+00:00",
-  "LastUpdate_Ratings": "2023-08-12T10:56:57.5545375+00:00",
-  "LastUpdate_Achievements": "2023-08-12T11:03:48.6831278+00:00"
+  "LastUpdate_Ratings": "2023-08-12T11:57:00.0702562+00:00",
+  "LastUpdate_Achievements": "2023-08-12T12:03:43.3075589+00:00"
 }

@@ -51,7 +51,7 @@
 | The Green, the Fat, the Ugly | 1.00% | ~1 |
 | Do not feed the fish! | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 100 (Ranked 320)  
+Progressed: 101 (Ranked 319)  
 Completed: 0 (0.00%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,6 +67,7 @@ Completed: 0 (0.00%) (Ranked 254)
 | 2023-08-08 | 98 | 0 |
 | 2023-08-10 | 99 | 0 |
 | 2023-08-11 | 100 | 0 |
+| 2023-08-12 | 101 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

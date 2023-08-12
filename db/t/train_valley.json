@@ -1089,9 +1089,9 @@
       "ID": "29_madness",
       "SetID": "chb1m60",
       "Name": "Madness!",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 117
+      "UsersEstimate": 122
     },
     {
       "ID": "30_completelynuts",
@@ -1185,8 +1185,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-08-05T18:00:22.7295334+00:00",
-  "LastChanged_Achievements": "2023-08-12T11:05:00.2996031+00:00",
+  "LastChanged_Achievements": "2023-08-12T12:05:05.7134687+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:20.9918701+00:00",
-  "LastUpdate_Ratings": "2023-08-12T10:58:35.3497494+00:00",
-  "LastUpdate_Achievements": "2023-08-12T11:05:00.2996314+00:00"
+  "LastUpdate_Ratings": "2023-08-12T11:58:45.9424451+00:00",
+  "LastUpdate_Achievements": "2023-08-12T12:05:05.7134975+00:00"
 }

@@ -10,6 +10,7 @@ Rating: 4.60 (Ranked 390)
 | The Mysterious Stranger | 20.00% | ~166 |
 | The Steel Shadow | 18.00% | ~150 |
 | Make Up For Lost Time | 18.00% | ~150 |
+| Breaking Down Barriers | 18.00% | ~150 |
 | The Prince in Heels | 18.00% | ~150 |
 | Immaculate Aim | 18.00% | ~150 |
 | Immaculate Aim | 18.00% | ~150 |
@@ -17,7 +18,6 @@ Rating: 4.60 (Ranked 390)
 | Time Flies | 17.00% | ~141 |
 | The Harder They Fall | 17.00% | ~141 |
 | No, Thanks! | 17.00% | ~141 |
-| Breaking Down Barriers | 17.00% | ~141 |
 | The Wicked Twins | 17.00% | ~141 |
 | Honest Mistake | 17.00% | ~141 |
 | Fast Learner | 17.00% | ~141 |

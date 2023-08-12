@@ -19,15 +19,15 @@
 | Happy Tenants | 26.00% | ~83 |
 | Potent Potables | 25.00% | ~80 |
 | Smooth Service | 25.00% | ~80 |
+| Retail Revenue | 24.00% | ~77 |
 | Your Prestige is Rising | 23.00% | ~74 |
-| Retail Revenue | 23.00% | ~74 |
 | Don't Feel a Loan | 22.00% | ~71 |
 | Lux Living | 21.00% | ~67 |
 | People Mover | 21.00% | ~67 |
 | Artfully Done | 20.00% | ~64 |
+| Emporium Empire | 20.00% | ~64 |
 | Leveled Up Shops | 20.00% | ~64 |
 | We Don't Need No Education | 20.00% | ~64 |
-| Emporium Empire | 19.00% | ~61 |
 | Get Electrified | 19.00% | ~61 |
 | Rehab Expert | 18.00% | ~58 |
 | Tasty Profits | 18.00% | ~58 |

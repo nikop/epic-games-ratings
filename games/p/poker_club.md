@@ -5,17 +5,17 @@ Rating: 3.80 (Ranked 956)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~390,148 |
-| Handy | 41.00% | ~210,475 |
-| Cold Caller | 39.00% | ~200,208 |
-| A Bit On The Side | 26.00% | ~133,472 |
-| Backdoor | 25.00% | ~128,338 |
-| Rank Amateur | 21.00% | ~107,804 |
+| Pro Creation | 76.00% | ~390,152 |
+| Handy | 41.00% | ~210,477 |
+| Cold Caller | 39.00% | ~200,210 |
+| A Bit On The Side | 26.00% | ~133,473 |
+| Backdoor | 25.00% | ~128,340 |
+| Rank Amateur | 21.00% | ~107,805 |
 | Three Way | 18.00% | ~92,404 |
-| Deadly Assassin | 15.00% | ~77,003 |
-| Gutshot | 13.00% | ~66,736 |
-| Risk It For A Biscuit | 13.00% | ~66,736 |
-| Showoff | 13.00% | ~66,736 |
+| Deadly Assassin | 15.00% | ~77,004 |
+| Gutshot | 13.00% | ~66,737 |
+| Risk It For A Biscuit | 13.00% | ~66,737 |
+| Showoff | 13.00% | ~66,737 |
 | W.H.I.P. | 11.00% | ~56,469 |
 | Bet Bet Bet | 9.00% | ~46,202 |
 | Blindman's Bluff | 9.00% | ~46,202 |
@@ -35,7 +35,7 @@ Rating: 3.80 (Ranked 956)
 | Bluffing Eh? | 1.00% | ~5,134 |
 | Go For It | 1.00% | ~5,134 |
 | Holding Your Own | 1.00% | ~5,134 |
-| Regular Punter | 0.70% | ~3,593 |
+| Regular Punter | 0.70% | ~3,594 |
 | How I Roll | 0.50% | ~2,567 |
 | Club Legend | 0.40% | ~2,053 |
 | Bring It On | 0.20% | ~1,027 |
@@ -51,7 +51,7 @@ Rating: 3.80 (Ranked 956)
 | Rounder | 0.10% | ~513 |
 | Top Dog | 0.10% | ~513 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 513,353 (Ranked 33)  
+Progressed: 513,358 (Ranked 33)  
 Completed: 2 (0.00%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,11 +164,11 @@ Completed: 2 (0.00%) (Ranked 254)
 | 2023-08-09 | 512,509 | 2 |
 | 2023-08-10 | 512,845 | 2 |
 | 2023-08-11 | 513,184 | 2 |
-| 2023-08-12 | 513,353 | 2 |
+| 2023-08-12 | 513,358 | 2 |
 ## Awards
-Max (Great for Beginners): 31  (Ranked 457)  
+Max (Great for Beginners): 31  (Ranked 458)  
 Sum: 53 (Ranked 447)  
-Diff (max vs sum): 10  
+Diff (max vs sum): 11  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 31 |

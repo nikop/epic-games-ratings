@@ -44,6 +44,7 @@
 | No Peace | 5.00% | ~3 |
 | Bird of Prey | 5.00% | ~3 |
 | Wicked Sick | 5.00% | ~3 |
+| Usurper II | 5.00% | ~3 |
 | 50Gb HDD | 5.00% | ~3 |
 | Sectoral Captain | 5.00% | ~3 |
 | Fighting Fit II | 5.00% | ~3 |
@@ -53,7 +54,6 @@
 | Curious | 3.00% | ~2 |
 | Pilgrim | 3.00% | ~2 |
 | Diligent | 3.00% | ~2 |
-| Usurper II | 3.00% | ~2 |
 | Silver Foundation | 3.00% | ~2 |
 | Silver Pest Control | 3.00% | ~2 |
 | Beetle | 3.00% | ~2 |

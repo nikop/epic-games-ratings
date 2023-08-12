@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 60713,
+  "EOS_Progressed": 60715,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 430,
+  "EOS_NewPlayers": 431,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -11012,6 +11012,11 @@
       "Time": "2023-08-12T11:05:09.0979713+00:00",
       "NumProgressed": 60713,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-12T12:05:14.7205027+00:00",
+      "NumProgressed": 60715,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -11023,7 +11028,7 @@
       "Name": "Follow the Light",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 22464
+      "UsersEstimate": 22465
     },
     {
       "ID": "02",
@@ -11111,7 +11116,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6678
+      "UsersEstimate": 6679
     },
     {
       "ID": "13",
@@ -11127,7 +11132,7 @@
       "Name": "Gatekeeper",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6071
+      "UsersEstimate": 6072
     },
     {
       "ID": "15",
@@ -11135,7 +11140,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6071
+      "UsersEstimate": 6072
     },
     {
       "ID": "16",
@@ -11207,7 +11212,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6678
+      "UsersEstimate": 6679
     },
     {
       "ID": "25",
@@ -11223,7 +11228,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6678
+      "UsersEstimate": 6679
     },
     {
       "ID": "27",
@@ -11255,7 +11260,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6071
+      "UsersEstimate": 6072
     },
     {
       "ID": "31",
@@ -11287,7 +11292,7 @@
       "Name": "Energized!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6071
+      "UsersEstimate": 6072
     },
     {
       "ID": "35",
@@ -11423,7 +11428,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1934
+      "UsersEstimate": 1935
     },
     {
       "ID": "52",
@@ -11558,21 +11563,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 60713,
+      "Progressed": 60715,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 24181,
+      "Progressed": 24183,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-12T11:05:09.0979707+00:00",
+  "LastChanged_Achievements": "2023-08-12T12:05:14.7205022+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:20.2881971+00:00",
-  "LastUpdate_Ratings": "2023-08-12T10:58:34.6277235+00:00",
-  "LastUpdate_Achievements": "2023-08-12T11:05:09.098068+00:00"
+  "LastUpdate_Ratings": "2023-08-12T11:58:45.562823+00:00",
+  "LastUpdate_Achievements": "2023-08-12T12:05:14.7206014+00:00"
 }
