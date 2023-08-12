@@ -3,7 +3,7 @@
   "Name": "A Plague Tale: Requiem",
   "ProductSlug": "a-plague-tale-requiem",
   "Ranking_Rating": 160,
-  "Ranking_Popularity": 210,
+  "Ranking_Popularity": 211,
   "Ranking_PopularitySum": 291,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 159,
@@ -368,7 +368,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12733,
+  "EOS_Progressed": 12734,
   "EOS_Completed": 42,
   "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 2,
@@ -7133,6 +7133,11 @@
       "Time": "2023-08-12T13:05:45.7179164+00:00",
       "NumProgressed": 12733,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-08-12T14:04:40.3698467+00:00",
+      "NumProgressed": 12734,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 35,
@@ -7144,7 +7149,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 11714
+      "UsersEstimate": 11715
     },
     {
       "ID": "ACH_02",
@@ -7152,7 +7157,7 @@
       "Name": "Newcomers",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 9932
+      "UsersEstimate": 9933
     },
     {
       "ID": "ACH_03",
@@ -7160,7 +7165,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 9295
+      "UsersEstimate": 9296
     },
     {
       "ID": "ACH_04",
@@ -7168,7 +7173,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 8913
+      "UsersEstimate": 8914
     },
     {
       "ID": "ACH_05",
@@ -7176,7 +7181,7 @@
       "Name": "In our Wake",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 8531
+      "UsersEstimate": 8532
     },
     {
       "ID": "ACH_06",
@@ -7184,7 +7189,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 8149
+      "UsersEstimate": 8150
     },
     {
       "ID": "ACH_07",
@@ -7192,7 +7197,7 @@
       "Name": "Felons",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 7767
+      "UsersEstimate": 7768
     },
     {
       "ID": "ACH_08",
@@ -7216,7 +7221,7 @@
       "Name": "Bloodline",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 6621
+      "UsersEstimate": 6622
     },
     {
       "ID": "ACH_11",
@@ -7248,7 +7253,7 @@
       "Name": "Healing our Wounds",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 4711
+      "UsersEstimate": 4712
     },
     {
       "ID": "ACH_15",
@@ -7352,7 +7357,7 @@
       "Name": "Night guard",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 5475
+      "UsersEstimate": 5476
     },
     {
       "ID": "ACH_28",
@@ -7360,7 +7365,7 @@
       "Name": "Alchemist",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 8658
+      "UsersEstimate": 8659
     },
     {
       "ID": "ACH_29",
@@ -7423,7 +7428,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 12733,
+      "Progressed": 12734,
       "Completed": 42
     }
   ],
@@ -7431,8 +7436,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-07-25T21:01:04.4770621+00:00",
-  "LastChanged_Achievements": "2023-08-12T13:05:45.7179158+00:00",
+  "LastChanged_Achievements": "2023-08-12T14:04:40.3698459+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:12.6361661+00:00",
-  "LastUpdate_Ratings": "2023-08-12T13:02:27.1371787+00:00",
-  "LastUpdate_Achievements": "2023-08-12T13:05:45.7179835+00:00"
+  "LastUpdate_Ratings": "2023-08-12T14:01:13.9152231+00:00",
+  "LastUpdate_Achievements": "2023-08-12T14:04:40.3699205+00:00"
 }

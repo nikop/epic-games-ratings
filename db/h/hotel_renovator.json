@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 99,
-  "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
     "PcReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -1502,9 +1502,9 @@
       "ID": "ACH_SKILLS_ALL",
       "SetID": "7k95e4n",
       "Name": "Unstoppable",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 161
+      "UsersEstimate": 171
     },
     {
       "ID": "ACH_STAR_1",
@@ -1583,8 +1583,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-08-10T10:58:10.9295179+00:00",
-  "LastChanged_Achievements": "2023-08-12T13:07:23.6625569+00:00",
+  "LastChanged_Achievements": "2023-08-12T14:06:18.9238077+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:07.3402469+00:00",
-  "LastUpdate_Ratings": "2023-08-12T12:59:54.7438054+00:00",
-  "LastUpdate_Achievements": "2023-08-12T13:07:23.6625843+00:00"
+  "LastUpdate_Ratings": "2023-08-12T13:58:34.0111395+00:00",
+  "LastUpdate_Achievements": "2023-08-12T14:06:18.9238365+00:00"
 }

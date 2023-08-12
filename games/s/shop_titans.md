@@ -7,8 +7,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Sponsored by Argon | 1.00% | ~1,344 |
+| Titan's First Steps | 1.00% | ~1,344 |
 | Basic in Bulk | 0.90% | ~1,209 |
-| Titan's First Steps | 0.90% | ~1,209 |
 | Tinkle of Coins | 0.80% | ~1,075 |
 | Disintermediation | 0.70% | ~941 |
 | Capitalism Ho! | 0.70% | ~941 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Economy of Scarce | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,381 (Ranked 66)  
+Progressed: 134,383 (Ranked 66)  
 Completed: 132 (0.10%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,17 +233,17 @@ Completed: 132 (0.10%) (Ranked 202)
 | 2023-08-09 | 134,223 | 131 |
 | 2023-08-10 | 134,276 | 131 |
 | 2023-08-11 | 134,354 | 132 |
-| 2023-08-12 | 134,381 | 132 |
+| 2023-08-12 | 134,383 | 132 |
 ## Awards
-Max (Great for Beginners): 4,694  (Ranked 71)  
-Sum: 27,079 (Ranked 46)  
+Max (Great for Beginners): 4,698  (Ranked 71)  
+Sum: 27,085 (Ranked 46)  
 Diff (max vs sum): 25  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 4,694 |
+| This game is Great for Beginners | 4,698 |
 | This game is Relaxing | 3,996 |
 | This game has Quickly Understood Controls | 3,983 |
-| This game has Diverse Characters | 3,849 |
+| This game has Diverse Characters | 3,851 |
 | This game is Highly Recommended | 3,734 |
 | This game has Easy Combat | 3,673 |
 | This game has Playful Visuals | 3,150 |
@@ -451,4 +451,4 @@ Diff (max vs sum): 25
 | 2023-08-09 | 3.99 | - | 4,692 | 27,072 |
 | 2023-08-10 | 3.99 | - | 4,694 | 27,077 |
 | 2023-08-11 | 3.99 | - | 4,694 | 27,078 |
-| 2023-08-12 | 3.99 | - | 4,694 | 27,079 |
+| 2023-08-12 | 3.99 | - | 4,698 | 27,085 |

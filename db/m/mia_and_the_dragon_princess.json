@@ -2,10 +2,10 @@
   "ID": "c466c310959a47d9a3d59acdd77a0caa",
   "Name": "Mia and the Dragon Princess",
   "ProductSlug": "mia-and-the-dragon-princess-f4e1d0",
-  "Ranking_EOS_Progress": 358,
+  "Ranking_EOS_Progress": 359,
   "Ranking_EOS_Completed": 90,
-  "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-05-04T07:00:00+00:00",
     "PcReleaseDate": "2023-05-04T07:00:00+00:00",
@@ -446,8 +446,8 @@
   ],
   "FirstSeen": "2023-05-13T16:58:04.6283661+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:18.2098384+00:00",
-  "LastChanged_Achievements": "2023-08-12T13:08:13.0483282+00:00",
+  "LastChanged_Achievements": "2023-08-12T14:07:08.5937615+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:47.140045+00:00",
-  "LastUpdate_Ratings": "2023-08-12T13:00:51.5833864+00:00",
-  "LastUpdate_Achievements": "2023-08-12T13:08:13.0483433+00:00"
+  "LastUpdate_Ratings": "2023-08-12T13:59:42.7654108+00:00",
+  "LastUpdate_Achievements": "2023-08-12T14:07:08.5937784+00:00"
 }

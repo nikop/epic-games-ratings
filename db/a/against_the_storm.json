@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 169,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -2654,7 +2654,7 @@
       "Count": 313
     }
   ],
-  "EOS_Progressed": 16248,
+  "EOS_Progressed": 16251,
   "EOS_Completed": 42,
   "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
@@ -8894,6 +8894,11 @@
       "Time": "2023-08-12T13:06:42.1880717+00:00",
       "NumProgressed": 16248,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-08-12T14:05:47.3174529+00:00",
+      "NumProgressed": 16251,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 50,
@@ -8929,7 +8934,7 @@
       "Name": "Higher Needs",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "BeaverUtopia",
@@ -8953,7 +8958,7 @@
       "Name": "Human Utopia",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "LizardUtopia",
@@ -8961,7 +8966,7 @@
       "Name": "Lizard Utopia",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ManyEvents",
@@ -8969,7 +8974,7 @@
       "Name": "Efficient Explorer",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "MetalChain",
@@ -8985,7 +8990,7 @@
       "Name": "Homesick",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "WinFirstGame",
@@ -9025,7 +9030,7 @@
       "Name": "Bandit Camp",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "WinNearBarren",
@@ -9033,7 +9038,7 @@
       "Name": "Barren Lands",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "WinNearBattleground",
@@ -9041,7 +9046,7 @@
       "Name": "Ancient Battleground",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "WinNearCrystals",
@@ -9049,7 +9054,7 @@
       "Name": "Sparkdew Crystals",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "WinNearDangerous",
@@ -9097,7 +9102,7 @@
       "Name": "Levitating Monument",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "WinNearMines",
@@ -9113,7 +9118,7 @@
       "Name": "Monastery of the Holy Flame",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "WinNearOutpost",
@@ -9121,7 +9126,7 @@
       "Name": "Royal Outpost",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "WinNearRuins",
@@ -9129,7 +9134,7 @@
       "Name": "Lost Colonies",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "WinNearStatue",
@@ -9137,7 +9142,7 @@
       "Name": "Statue of the Forefathers",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "WinNearTemple",
@@ -9161,7 +9166,7 @@
       "Name": "Watchtower",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "WinOnCoral",
@@ -9177,7 +9182,7 @@
       "Name": "Cursed Lands",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "WinOnMarshlands",
@@ -9185,7 +9190,7 @@
       "Name": "The Marshlands",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 812
+      "UsersEstimate": 813
     },
     {
       "ID": "WinOnMoorlands",
@@ -9217,7 +9222,7 @@
       "Name": "A Real Challenge",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "WinWIthCaches",
@@ -9241,7 +9246,7 @@
       "Name": "Taking Action",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 812
+      "UsersEstimate": 813
     },
     {
       "ID": "WinWithResolve",
@@ -9273,7 +9278,7 @@
       "Name": "Trade Baron",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "WinWithoutDeath",
@@ -9281,7 +9286,7 @@
       "Name": "No Deaths",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 812
+      "UsersEstimate": 813
     },
     {
       "ID": "WinWithoutOrders",
@@ -9304,15 +9309,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 16248,
+      "Progressed": 16251,
       "Completed": 42
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-08-11T22:57:36.3400932+00:00",
-  "LastChanged_Achievements": "2023-08-12T13:06:42.1880711+00:00",
+  "LastChanged_Achievements": "2023-08-12T14:05:47.3174524+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:15.5100545+00:00",
-  "LastUpdate_Ratings": "2023-08-12T12:58:42.3132435+00:00",
-  "LastUpdate_Achievements": "2023-08-12T13:06:42.188151+00:00"
+  "LastUpdate_Ratings": "2023-08-12T13:57:30.5540162+00:00",
+  "LastUpdate_Achievements": "2023-08-12T14:05:47.3175374+00:00"
 }

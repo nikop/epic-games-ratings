@@ -6,14 +6,14 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 74.00% | ~3,883 |
-| Having A Field Day | 74.00% | ~3,883 |
-| Reap What You Sow | 71.00% | ~3,725 |
-| The First Day | 68.00% | ~3,568 |
-| Green Thumb | 66.00% | ~3,463 |
+| Get A Room | 74.00% | ~3,884 |
+| Having A Field Day | 74.00% | ~3,884 |
+| Reap What You Sow | 71.00% | ~3,726 |
+| The First Day | 68.00% | ~3,569 |
+| Green Thumb | 66.00% | ~3,464 |
 | Novice Researcher | 65.00% | ~3,411 |
-| Putting Food on the Table | 60.00% | ~3,148 |
-| Home Cooked Meal | 56.00% | ~2,938 |
+| Putting Food on the Table | 60.00% | ~3,149 |
+| Home Cooked Meal | 56.00% | ~2,939 |
 | Onward | 55.00% | ~2,886 |
 | The First Week | 53.00% | ~2,781 |
 | Studious Researcher | 51.00% | ~2,676 |
@@ -27,7 +27,7 @@ Number of Ratings: 706  (23.09.2022)
 | Heating Up | 29.00% | ~1,522 |
 | Winter Is Coming | 26.00% | ~1,364 |
 | Winter Is Here | 23.00% | ~1,207 |
-| Disassembled | 20.00% | ~1,049 |
+| Disassembled | 20.00% | ~1,050 |
 | A Party Now | 19.00% | ~997 |
 | Oh Deer! | 19.00% | ~997 |
 | All Year Round | 19.00% | ~997 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~105 |
 | Wabbit Season | 0.60% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,247 (Ranked 138)  
+Progressed: 5,248 (Ranked 138)  
 Completed: 10 (0.19%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,7 +131,7 @@ Completed: 10 (0.19%) (Ranked 183)
 | 2023-08-09 | 5,186 | 10 |
 | 2023-08-10 | 5,207 | 10 |
 | 2023-08-11 | 5,233 | 10 |
-| 2023-08-12 | 5,247 | 10 |
+| 2023-08-12 | 5,248 | 10 |
 ## Awards
 Max (Relaxing): 121  (Ranked 315)  
 Sum: 970 (Ranked 240)  

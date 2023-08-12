@@ -4,8 +4,8 @@
   "ProductSlug": "oxide-room-104-4c1249",
   "Ranking_EOS_Progress": 300,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T22:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 149,
+  "EOS_Progressed": 150,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -661,6 +661,11 @@
       "Time": "2023-08-12T07:06:48.0958078+00:00",
       "NumProgressed": 149,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-12T14:04:39.9949208+00:00",
+      "NumProgressed": 150,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 31,
@@ -686,7 +691,7 @@
       "ID": "ACH_ANTIDOTE",
       "SetID": "511e31d",
       "Name": "Antidote",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 15,
       "UsersEstimate": 80
     },
@@ -694,9 +699,9 @@
       "ID": "ACH_BANDAGES",
       "SetID": "511e31d",
       "Name": "First aid",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 94
     },
     {
       "ID": "ACH_BATHROOM",
@@ -712,7 +717,7 @@
       "Name": "On the right path",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_DOCDOCUMENTS",
@@ -720,7 +725,7 @@
       "Name": "The experiment",
       "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_ENTRANCE",
@@ -760,7 +765,7 @@
       "Name": "Horror book",
       "Percentage": 1,
       "XP": 90,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_FORCE",
@@ -776,15 +781,15 @@
       "Name": "Born again",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_HOHARMFORCE104",
       "SetID": "511e31d",
       "Name": "Let\u0027s play a game\u2026",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 30,
-      "UsersEstimate": 107
+      "UsersEstimate": 110
     },
     {
       "ID": "ACH_KITCHEN",
@@ -800,7 +805,7 @@
       "Name": "A dark past",
       "Percentage": 1,
       "XP": 90,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_MUSICRADIO",
@@ -808,7 +813,7 @@
       "Name": "Soundtrack",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ACH_NOBULLETS",
@@ -832,7 +837,7 @@
       "Name": "It can\u0027t be true",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_PICKLOCK",
@@ -856,7 +861,7 @@
       "Name": "Matthew\u0027s revenge",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_ROOM104",
@@ -910,23 +915,23 @@
       "ID": "ACH_WAREHOUSE",
       "SetID": "511e31d",
       "Name": "Now or never",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 112
     }
   ],
   "AchievementSets": [
     {
       "ID": "511e31d",
       "IsBase": true,
-      "Progressed": 149,
+      "Progressed": 150,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-13T17:57:10.0187604+00:00",
   "FirstSeenAchievements": "2023-04-27T23:00:38.6793029+00:00",
-  "LastChanged_Achievements": "2023-08-12T13:05:45.3554351+00:00",
+  "LastChanged_Achievements": "2023-08-12T14:04:39.9949204+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:11.2437419+00:00",
-  "LastUpdate_Ratings": "2023-08-12T13:00:01.5729683+00:00",
-  "LastUpdate_Achievements": "2023-08-12T13:05:45.3554624+00:00"
+  "LastUpdate_Ratings": "2023-08-12T13:58:43.8360914+00:00",
+  "LastUpdate_Achievements": "2023-08-12T14:04:39.9949473+00:00"
 }

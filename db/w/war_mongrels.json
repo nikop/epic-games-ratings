@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
     "PcReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -1602,9 +1602,9 @@
       "ID": "ACH_FIN_CH08",
       "SetID": "1j25agn",
       "Name": "The Difference",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 120
     },
     {
       "ID": "ACH_FIN_CH09",
@@ -1802,8 +1802,8 @@
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-06-24T07:57:51.3010975+00:00",
-  "LastChanged_Achievements": "2023-08-12T13:07:44.9254961+00:00",
+  "LastChanged_Achievements": "2023-08-12T14:06:40.7572268+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:20.2353835+00:00",
-  "LastUpdate_Ratings": "2023-08-12T13:00:12.5639473+00:00",
-  "LastUpdate_Achievements": "2023-08-12T13:07:44.9255568+00:00"
+  "LastUpdate_Ratings": "2023-08-12T13:58:56.7005103+00:00",
+  "LastUpdate_Achievements": "2023-08-12T14:06:40.7572881+00:00"
 }

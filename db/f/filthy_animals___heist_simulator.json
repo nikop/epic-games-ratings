@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-04-04T17:30:00+00:00",
     "PcReleaseDate": "2023-04-04T17:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7674,
+  "EOS_Progressed": 7676,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3873,6 +3873,11 @@
       "Time": "2023-08-12T13:03:20.0602211+00:00",
       "NumProgressed": 7674,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-12T14:02:13.9242552+00:00",
+      "NumProgressed": 7676,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 28,
@@ -4060,7 +4065,7 @@
       "Name": "Supermart Objectives Complete",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "superMartSuccess",
@@ -4068,7 +4073,7 @@
       "Name": "Supermart Heisted",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "templeAllObjectives",
@@ -4100,14 +4105,14 @@
       "Name": "Tutorial Completed",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     }
   ],
   "AchievementSets": [
     {
       "ID": "10d14j0",
       "IsBase": true,
-      "Progressed": 7674,
+      "Progressed": 7676,
       "Completed": 0
     }
   ],
@@ -4115,8 +4120,8 @@
   "FirstSeenRating": "2023-04-05T14:58:37.7953176+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.1467348+00:00",
   "LastChanged": "2023-04-05T14:58:37.7953178+00:00",
-  "LastChanged_Achievements": "2023-08-12T13:03:20.0602204+00:00",
+  "LastChanged_Achievements": "2023-08-12T14:02:13.9242548+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:39.0215084+00:00",
-  "LastUpdate_Ratings": "2023-08-12T13:00:42.4579564+00:00",
-  "LastUpdate_Achievements": "2023-08-12T13:03:20.0602734+00:00"
+  "LastUpdate_Ratings": "2023-08-12T13:59:30.9813386+00:00",
+  "LastUpdate_Achievements": "2023-08-12T14:02:13.9245138+00:00"
 }

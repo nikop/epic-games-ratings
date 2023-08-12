@@ -4,7 +4,7 @@
   "ProductSlug": "electrician-simulator-164e9f",
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 99,
+  "Ranking_EOS_NewPlayers": 100,
   "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2023-08-04T16:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 226,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 189,
+  "EOS_NewPlayers": 184,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -708,9 +708,9 @@
       "ID": "ACH_END_ALL_TUTORIALS",
       "SetID": "al4k4nh",
       "Name": "Virtual Electrician",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_END_ALL_WORKBENCH_MISSIONS",
@@ -724,9 +724,9 @@
       "ID": "ACH_END_FIRST_MAIL_MISSION",
       "SetID": "al4k4nh",
       "Name": "I love customers",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 179
     },
     {
       "ID": "ACH_END_FIRST_TUTORIAL",
@@ -756,9 +756,9 @@
       "ID": "ACH_FIRST_SHOCK",
       "SetID": "al4k4nh",
       "Name": "First shock",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 131
     },
     {
       "ID": "ACH_FIX_LIGHT_SWITCHES",
@@ -891,8 +891,8 @@
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2023-08-12T13:07:38.7949299+00:00",
+  "LastChanged_Achievements": "2023-08-12T14:06:34.5737909+00:00",
   "LastUpdate_AppInfo": "2023-08-09T17:56:58.4992812+00:00",
-  "LastUpdate_Ratings": "2023-08-12T12:59:53.6117407+00:00",
-  "LastUpdate_Achievements": "2023-08-12T13:07:38.794954+00:00"
+  "LastUpdate_Ratings": "2023-08-12T13:58:33.4560471+00:00",
+  "LastUpdate_Achievements": "2023-08-12T14:06:34.5738111+00:00"
 }

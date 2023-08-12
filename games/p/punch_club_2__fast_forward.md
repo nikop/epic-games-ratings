@@ -22,10 +22,10 @@
 | Hello, world! | 69.00% | ~169 |
 | Pal of your father? | 66.00% | ~162 |
 | Employee of the month | 64.00% | ~157 |
-| Spirit of the past | 62.00% | ~152 |
-| Law student | 60.00% | ~147 |
+| Spirit of the past | 63.00% | ~154 |
+| Law student | 61.00% | ~149 |
+| Workout professional | 59.00% | ~145 |
 | Little hacker | 59.00% | ~145 |
-| Workout professional | 58.00% | ~142 |
 | Champion – starter pack | 58.00% | ~142 |
 | It's good to be alive | 58.00% | ~142 |
 | Own four walls | 58.00% | ~142 |
@@ -54,8 +54,8 @@
 | Seashell hunter | 35.00% | ~86 |
 | Gang wrangler | 32.00% | ~78 |
 | Problems of cyborgs | 32.00% | ~78 |
+| Undercover robot | 32.00% | ~78 |
 | Absolute Champion! | 31.00% | ~76 |
-| Undercover robot | 31.00% | ~76 |
 | Another world | 30.00% | ~74 |
 | The lonesome road | 30.00% | ~74 |
 | Key memories | 30.00% | ~74 |
@@ -71,7 +71,7 @@
 | Better cooking at home | 26.00% | ~64 |
 | The only right decision | 26.00% | ~64 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 245 (Ranked 269)  
+Progressed: 245 (Ranked 270)  
 Completed: 8 (3.27%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |

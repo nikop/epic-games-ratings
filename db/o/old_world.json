@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1599,9 +1599,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13376,
+  "EOS_Progressed": 13377,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -9549,6 +9549,11 @@
       "Time": "2023-08-12T13:05:43.1856802+00:00",
       "NumProgressed": 13376,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-12T14:04:38.0697951+00:00",
+      "NumProgressed": 13377,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -10438,9 +10443,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_RIDERS",
       "SetID": "7l38kb8",
       "Name": "Riders",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 67
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_SAGES",
@@ -10878,9 +10883,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_ACROPOLIS",
       "SetID": "9201eeb",
       "Name": "Acropolis",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 107
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_APADANA",
@@ -11174,9 +11179,9 @@
       "ID": "ACHIEVEMENT_NATION_CARTHAGE",
       "SetID": "7l38kb8",
       "Name": "Carthage",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 67
     },
     {
       "ID": "ACHIEVEMENT_NATION_EGYPT",
@@ -11350,17 +11355,17 @@
       "ID": "ACHIEVEMENT_RELIGION_MANICHAEISM",
       "SetID": "7l38kb8",
       "Name": "Manichaeism",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 134
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_ASSYRIA",
       "SetID": "7l38kb8",
       "Name": "Assyrian Paganism",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 67
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_BABYLONIA",
@@ -11462,9 +11467,9 @@
       "ID": "ACHIEVEMENT_STAT_SEVEN_WONDERS",
       "SetID": "9201eeb",
       "Name": "Building Wonders",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 80
+      "UsersEstimate": 94
     },
     {
       "ID": "ACHIEVEMENT_STAT_TEN_CITIES_CAPTURED",
@@ -11927,21 +11932,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13376,
+      "Progressed": 13377,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13376,
+      "Progressed": 13377,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-12T03:59:31.9297462+00:00",
-  "LastChanged_Achievements": "2023-08-12T13:05:43.1856795+00:00",
+  "LastChanged_Achievements": "2023-08-12T14:04:38.0697942+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:38.1291138+00:00",
-  "LastUpdate_Ratings": "2023-08-12T13:00:42.8144238+00:00",
-  "LastUpdate_Achievements": "2023-08-12T13:05:43.1866301+00:00"
+  "LastUpdate_Ratings": "2023-08-12T13:59:31.3757592+00:00",
+  "LastUpdate_Achievements": "2023-08-12T14:04:38.070784+00:00"
 }

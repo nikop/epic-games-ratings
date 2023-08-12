@@ -2,13 +2,13 @@
   "ID": "5e427319eea1401ab20c6cd78a4163c4",
   "Name": "Call of the Sea",
   "ProductSlug": "call-of-the-sea",
-  "Ranking_Rating": 706,
+  "Ranking_Rating": 707,
   "Ranking_Popularity": 511,
   "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 121,
   "Ranking_EOS_NewPlayers": 38,
-  "Ranking_EOS_NewCompleters": 11,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2022-02-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-08T13:25:14+00:00",
@@ -13033,6 +13033,6 @@
   "LastChanged": "2023-07-28T22:59:47.9530801+00:00",
   "LastChanged_Achievements": "2023-08-12T13:04:09.0915014+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:13.0610478+00:00",
-  "LastUpdate_Ratings": "2023-08-12T13:02:27.2538334+00:00",
+  "LastUpdate_Ratings": "2023-08-12T14:01:14.0296195+00:00",
   "LastUpdate_Achievements": "2023-08-12T13:04:09.0916024+00:00"
 }

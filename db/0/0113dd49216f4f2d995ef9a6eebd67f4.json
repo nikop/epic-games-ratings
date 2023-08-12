@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 397,
   "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
     "PcReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -137,9 +137,9 @@
       "ID": "SG_AGAINSTALLODDS",
       "SetID": "bj5g0n4",
       "Name": "Against All Odds",
-      "Percentage": 4,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SG_ALLTHEHELPYOUNEED",
@@ -193,9 +193,9 @@
       "ID": "SG_ENDOFTHEROAD",
       "SetID": "bj5g0n4",
       "Name": "End Of The Road",
-      "Percentage": 56,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "SG_EVERYTHINGHASCHANGED",
@@ -209,25 +209,25 @@
       "ID": "SG_FIERY",
       "SetID": "bj5g0n4",
       "Name": "Fiery",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SG_GODOFTHESUN",
       "SetID": "bj5g0n4",
       "Name": "God Of The Sun",
-      "Percentage": 8,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "SG_HEARTBREAKER",
       "SetID": "bj5g0n4",
       "Name": "Heartbreaker",
-      "Percentage": 4,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SG_LIKEHEROESBEFOREYOU",
@@ -265,9 +265,9 @@
       "ID": "SG_MYTIMETOSHINE",
       "SetID": "bj5g0n4",
       "Name": "My Time To Shine",
-      "Percentage": 8,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "SG_NOTALOSTGIRL",
@@ -289,9 +289,9 @@
       "ID": "SG_QUEENWITHOUTATHRONE",
       "SetID": "bj5g0n4",
       "Name": "Queen Without A Throne",
-      "Percentage": 20,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "SG_SAYINGGOODBYE",
@@ -337,17 +337,17 @@
       "ID": "SG_THECHOICEISYOURS",
       "SetID": "bj5g0n4",
       "Name": "The Choice Is Yours",
-      "Percentage": 16,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "SG_THEDEEPEND",
       "SetID": "bj5g0n4",
       "Name": "The Deep End",
-      "Percentage": 24,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "SG_THEHIGHROAD",
@@ -401,9 +401,9 @@
       "ID": "SG_TOGETHERVICTORIOUS",
       "SetID": "bj5g0n4",
       "Name": "Together, Victorious",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SG_VIRTUOSO",
@@ -424,8 +424,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-08-12T13:03:28.6614127+00:00",
+  "LastChanged_Achievements": "2023-08-12T14:02:22.9267904+00:00",
   "LastUpdate_AppInfo": "2023-08-10T07:57:00.7529969+00:00",
-  "LastUpdate_Ratings": "2023-08-12T12:58:35.8655744+00:00",
-  "LastUpdate_Achievements": "2023-08-12T13:03:28.6614419+00:00"
+  "LastUpdate_Ratings": "2023-08-12T13:57:20.1502348+00:00",
+  "LastUpdate_Achievements": "2023-08-12T14:02:22.9268183+00:00"
 }

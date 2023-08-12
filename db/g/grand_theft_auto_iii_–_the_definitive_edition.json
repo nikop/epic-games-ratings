@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewPlayers": 127,
   "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -424,9 +424,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7499,
+  "EOS_Progressed": 7500,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -7234,6 +7234,11 @@
       "Time": "2023-08-12T13:07:36.1744341+00:00",
       "NumProgressed": 7499,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-08-12T14:06:31.8788222+00:00",
+      "NumProgressed": 7500,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 29,
@@ -7245,7 +7250,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 6224
+      "UsersEstimate": 6225
     },
     {
       "ID": "ACH02",
@@ -7445,7 +7450,7 @@
       "Name": "Furious First Responder",
       "Percentage": 0.9,
       "XP": 55,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ACH27",
@@ -7476,7 +7481,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7499,
+      "Progressed": 7500,
       "Completed": 43
     }
   ],
@@ -7484,8 +7489,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-08-08T10:58:39.8660695+00:00",
-  "LastChanged_Achievements": "2023-08-12T13:07:36.1744336+00:00",
+  "LastChanged_Achievements": "2023-08-12T14:06:31.8788215+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:32.4221981+00:00",
-  "LastUpdate_Ratings": "2023-08-12T13:00:37.7678662+00:00",
-  "LastUpdate_Achievements": "2023-08-12T13:07:36.1744964+00:00"
+  "LastUpdate_Ratings": "2023-08-12T13:59:22.2450743+00:00",
+  "LastUpdate_Achievements": "2023-08-12T14:06:31.8788897+00:00"
 }

@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A New Journey | 11.00% | ~1 |
-| The Adventure Begins | 11.00% | ~1 |
-| The Gambit Has Begun | 11.00% | ~1 |
-| Swabbie | 11.00% | ~1 |
-| Powder Monkey | 11.00% | ~1 |
-| Buccaneer | 11.00% | ~1 |
-| Seadog | 11.00% | ~1 |
-| Privateer | 11.00% | ~1 |
-| Corsair | 11.00% | ~1 |
-| Freebooter | 11.00% | ~1 |
-| Marauder | 11.00% | ~1 |
-| Pirates Assemble! | 11.00% | ~1 |
-| With Great Power… | 11.00% | ~1 |
-| Fully Decked | 11.00% | ~1 |
-| Welcome Back Jester | 11.00% | ~1 |
+| A New Journey | 10.00% | ~1 |
+| The Adventure Begins | 10.00% | ~1 |
+| The Gambit Has Begun | 10.00% | ~1 |
+| Swabbie | 10.00% | ~1 |
+| Powder Monkey | 10.00% | ~1 |
+| Buccaneer | 10.00% | ~1 |
+| Seadog | 10.00% | ~1 |
+| Privateer | 10.00% | ~1 |
+| Corsair | 10.00% | ~1 |
+| Freebooter | 10.00% | ~1 |
+| Marauder | 10.00% | ~1 |
+| Pirates Assemble! | 10.00% | ~1 |
+| With Great Power… | 10.00% | ~1 |
+| Fully Decked | 10.00% | ~1 |
+| Welcome Back Jester | 10.00% | ~1 |
 | Somewhere Deep in the Lost Caribbean | 0.00% | ~0 |
 | This Belongs in a Museum | 0.00% | ~0 |
 | Mirror Mirror on the Wall | 0.00% | ~0 |
@@ -31,11 +31,11 @@
 | Jaded Judge | 0.00% | ~0 |
 | Rustic Recipe | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9 (Ranked 442)  
+Progressed: 10 (Ranked 440)  
 Completed: 0 (0.00%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-08-09 | 4 | 0 |
 | 2023-08-10 | 8 | 0 |
-| 2023-08-12 | 9 | 0 |
+| 2023-08-12 | 10 | 0 |

@@ -4,8 +4,8 @@
   "ProductSlug": "3dmark",
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -29,6 +29,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-20T19:00:08.0227684+00:00",
   "LastUpdate_AppInfo": "2023-08-08T15:57:08.3281207+00:00",
-  "LastUpdate_Ratings": "2023-08-12T13:02:12.8313979+00:00",
-  "LastUpdate_Achievements": "2023-08-12T13:06:05.0950992+00:00"
+  "LastUpdate_Ratings": "2023-08-12T14:00:58.6145531+00:00",
+  "LastUpdate_Achievements": "2023-08-12T14:04:49.7144279+00:00"
 }

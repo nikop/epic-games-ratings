@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -820,9 +820,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 254716,
+  "EOS_Progressed": 254720,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 410,
+  "EOS_NewPlayers": 406,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12475,6 +12475,11 @@
       "Time": "2023-08-12T13:08:29.1574779+00:00",
       "NumProgressed": 254716,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-12T14:07:24.5729913+00:00",
+      "NumProgressed": 254720,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -12534,7 +12539,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 78962
+      "UsersEstimate": 78963
     },
     {
       "ID": "BackHomeNTimes",
@@ -12758,7 +12763,7 @@
       "Name": "Adrenaline",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7641
+      "UsersEstimate": 7642
     },
     {
       "ID": "KillOtherWithMine",
@@ -12933,7 +12938,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 254716,
+      "Progressed": 254720,
       "Completed": 3
     }
   ],
@@ -12941,8 +12946,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-08-11T13:00:07.0347909+00:00",
-  "LastChanged_Achievements": "2023-08-12T13:08:29.1574771+00:00",
+  "LastChanged_Achievements": "2023-08-12T14:07:24.5729908+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:09.7223884+00:00",
-  "LastUpdate_Ratings": "2023-08-12T12:58:34.095829+00:00",
-  "LastUpdate_Achievements": "2023-08-12T13:08:29.1575997+00:00"
+  "LastUpdate_Ratings": "2023-08-12T13:57:19.6937638+00:00",
+  "LastUpdate_Achievements": "2023-08-12T14:07:24.5731202+00:00"
 }
