@@ -3,8 +3,8 @@
 | 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 46.27% |
 | 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.84% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 37.50% |
-| 4 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 33.33% |
-| 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
+| 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
+| 5 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 31.58% |
 | 6 | [Overloop](games/o/overloop.md) | 25.00% |
 | 7 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 23.91% |
@@ -13,7 +13,7 @@
 | 10 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
 | 13 | [Island Cities](games/i/island_cities.md) | 18.12% |
-| 14 | [Anna's Quest](games/a/anna's_quest.md) | 17.86% |
+| 14 | [Anna's Quest](games/a/anna's_quest.md) | 17.24% |
 | 15 | [Afterglitch](games/a/afterglitch.md) | 16.67% |
 | 16 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 14.66% |
 | 17 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 13.94% |
@@ -28,13 +28,13 @@
 | 26 | [Out of Bounds](games/o/out_of_bounds.md) | 10.34% |
 | 27 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 9.76% |
 | 28 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.70% |
-| 29 | [Sonic Origins](games/s/sonic_origins.md) | 9.66% |
+| 29 | [Sonic Origins](games/s/sonic_origins.md) | 9.64% |
 | 30 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.30% |
-| 31 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.05% |
+| 31 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.04% |
 | 32 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.49% |
-| 33 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.20% |
+| 33 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.06% |
 | 34 | [Smelter](games/s/smelter.md) | 7.69% |
-| 35 | [Ravenlok](games/r/ravenlok.md) | 7.38% |
+| 35 | [Ravenlok](games/r/ravenlok.md) | 7.47% |
 | 36 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.95% |
 | 37 | [Scorn](games/s/scorn.md) | 6.94% |
 | 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.86% |
@@ -163,9 +163,9 @@
 | 161 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.32% |
 | 162 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
 | 162 | [Dead Island 2](games/d/dead_island_2.md) | 0.31% |
-| 162 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
-| 165 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.30% |
-| 165 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.30% |
+| 164 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.30% |
+| 164 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.30% |
+| 164 | [The First Tree](games/t/the_first_tree.md) | 0.30% |
 | 167 | [Scrapnaut](games/s/scrapnaut.md) | 0.29% |
 | 168 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
 | 169 | [Against the Storm](games/a/against_the_storm.md) | 0.26% |
