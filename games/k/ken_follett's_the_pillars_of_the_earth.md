@@ -6,25 +6,25 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 41.00% | ~5,946 |
+| Tattletale | 41.00% | ~5,947 |
 | Man of politics | 35.00% | ~5,076 |
 | Friends of sorts | 34.00% | ~4,931 |
 | Yet another secret | 34.00% | ~4,931 |
 | Let there be darkness | 32.00% | ~4,641 |
 | End of Book One | 30.00% | ~4,351 |
-| Wannabe knight | 24.00% | ~3,480 |
-| Garden of Eden | 24.00% | ~3,480 |
-| Full house | 24.00% | ~3,480 |
-| Help an old friend | 22.00% | ~3,190 |
-| Two of us | 20.00% | ~2,900 |
-| Negotiation skills | 18.00% | ~2,610 |
-| Workers' union | 18.00% | ~2,610 |
-| End of Book Two | 18.00% | ~2,610 |
-| Everything's in order | 17.00% | ~2,465 |
-| Jack was here! | 15.00% | ~2,175 |
-| Twist of Fate | 14.00% | ~2,030 |
-| Exterminator | 13.00% | ~1,885 |
-| Whodunnit | 13.00% | ~1,885 |
+| Wannabe knight | 24.00% | ~3,481 |
+| Garden of Eden | 24.00% | ~3,481 |
+| Full house | 24.00% | ~3,481 |
+| Help an old friend | 22.00% | ~3,191 |
+| Two of us | 20.00% | ~2,901 |
+| Negotiation skills | 18.00% | ~2,611 |
+| Workers' union | 18.00% | ~2,611 |
+| End of Book Two | 18.00% | ~2,611 |
+| Everything's in order | 17.00% | ~2,466 |
+| Jack was here! | 15.00% | ~2,176 |
+| Twist of Fate | 14.00% | ~2,031 |
+| Exterminator | 13.00% | ~1,886 |
+| Whodunnit | 13.00% | ~1,886 |
 | Good midwife | 11.00% | ~1,595 |
 | Friar Tuck | 11.00% | ~1,595 |
 | First profit | 11.00% | ~1,595 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~435 |
 | Boy of mystery | 2.00% | ~290 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,502 (Ranked 116)  
+Progressed: 14,504 (Ranked 116)  
 Completed: 108 (0.74%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,7 +162,7 @@ Completed: 108 (0.74%) (Ranked 123)
 | 2023-08-09 | 14,452 | 107 |
 | 2023-08-10 | 14,471 | 107 |
 | 2023-08-11 | 14,487 | 108 |
-| 2023-08-12 | 14,502 | 108 |
+| 2023-08-12 | 14,504 | 108 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 297)  
 Sum: 188 (Ranked 373)  

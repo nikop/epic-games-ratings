@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 137,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 373,
+  "EOS_Progressed": 374,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.54,
+  "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:35.153611+00:00",
@@ -1144,6 +1144,11 @@
       "Time": "2023-08-11T23:05:33.8973095+00:00",
       "NumProgressed": 373,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-12T13:05:33.8305345+00:00",
+      "NumProgressed": 374,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -1171,7 +1176,7 @@
       "Name": "On the Road",
       "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "findalltapes",
@@ -1235,7 +1240,7 @@
       "Name": "This is Not Heavy Metal!",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "scoreminrankrp2",
@@ -1274,7 +1279,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 373,
+      "Progressed": 374,
       "Completed": 2
     }
   ],
@@ -1282,8 +1287,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-08-12T12:04:11.3438195+00:00",
+  "LastChanged_Achievements": "2023-08-12T13:05:33.8305336+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:32.1251065+00:00",
-  "LastUpdate_Ratings": "2023-08-12T11:59:51.4495103+00:00",
-  "LastUpdate_Achievements": "2023-08-12T12:04:11.3438344+00:00"
+  "LastUpdate_Ratings": "2023-08-12T13:01:39.4117024+00:00",
+  "LastUpdate_Achievements": "2023-08-12T13:05:33.8305537+00:00"
 }

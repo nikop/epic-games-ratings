@@ -6,12 +6,13 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 9.00% | ~18,972 |
+| Sowwy! | 9.00% | ~18,975 |
+| Where's that freaking Dwarf? | 0.50% | ~1,054 |
 | Alt+F4 | 0.50% | ~1,054 |
 | Déjà vu | 0.40% | ~843 |
-| Where's that freaking Dwarf? | 0.40% | ~843 |
 | Sock! SOCK! | 0.40% | ~843 |
 | A beer, two curses, three companions | 0.30% | ~632 |
+| %#*!$*! | 0.30% | ~632 |
 | GG EZ | 0.30% | ~632 |
 | Speedrun | 0.30% | ~632 |
 | Fireproof Wizardess | 0.30% | ~632 |
@@ -20,7 +21,8 @@ Number of Ratings: 118  (23.09.2022)
 | The plot thickens... At the tavern | 0.20% | ~422 |
 | The demons' feast | 0.20% | ~422 |
 | The Great Library | 0.20% | ~422 |
-| %#*!$*! | 0.20% | ~422 |
+| Torture and Sensibility | 0.20% | ~422 |
+| The Woman in the High Castle | 0.20% | ~422 |
 | DM intervention | 0.20% | ~422 |
 | Team Building Exercise | 0.20% | ~422 |
 | Oh, when I'll be level 10... | 0.20% | ~422 |
@@ -28,7 +30,6 @@ Number of Ratings: 118  (23.09.2022)
 | Holistic Adventuring Party | 0.10% | ~211 |
 | Shiny and Crôm | 0.10% | ~211 |
 | Scholar of the Lands of Fangh | 0.10% | ~211 |
-| Torture and Sensibility | 0.10% | ~211 |
 | Urik's Depths | 0.10% | ~211 |
 | The Dungeon Master | 0.10% | ~211 |
 | The Statuette of Gladeulfeurah | 0.10% | ~211 |
@@ -36,7 +37,6 @@ Number of Ratings: 118  (23.09.2022)
 | I'd rather... Just... Sing! | 0.10% | ~211 |
 | The number of the counting shalt be 7 | 0.10% | ~211 |
 | Res Judicata | 0.10% | ~211 |
-| The Woman in the High Castle | 0.10% | ~211 |
 | Necrophilia | 0.10% | ~211 |
 | The Blood Countess | 0.10% | ~211 |
 | He’s alive! Aliiiive! | 0.10% | ~211 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Sleep schedule mastery | 0.00% | ~0 |
 | Dumb and dumber | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210,804 (Ranked 55)  
+Progressed: 210,829 (Ranked 55)  
 Completed: 1 (0.00%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,7 +168,7 @@ Completed: 1 (0.00%) (Ranked 254)
 | 2023-08-09 | 209,549 | 0 |
 | 2023-08-10 | 210,011 | 0 |
 | 2023-08-11 | 210,534 | 1 |
-| 2023-08-12 | 210,804 | 1 |
+| 2023-08-12 | 210,829 | 1 |
 ## Awards
 Max (Character Customization): 160  (Ranked 292)  
 Sum: 160 (Ranked 390)  

@@ -13,19 +13,19 @@
 | Fitness professional | 77.00% | ~189 |
 | First defeat | 76.00% | ~186 |
 | Depressed visitor | 76.00% | ~186 |
+| Employee of the week | 76.00% | ~186 |
 | Neurotrainer – power gainer! | 75.00% | ~184 |
-| Employee of the week | 75.00% | ~184 |
 | Your own amateur gym | 74.00% | ~181 |
-| Run K, run! | 72.00% | ~176 |
+| Run K, run! | 73.00% | ~179 |
 | Fighting is cool | 69.00% | ~169 |
+| No bullying more | 69.00% | ~169 |
 | Hello, world! | 69.00% | ~169 |
-| No bullying more | 68.00% | ~167 |
-| Pal of your father? | 65.00% | ~159 |
+| Pal of your father? | 66.00% | ~162 |
 | Employee of the month | 64.00% | ~157 |
 | Spirit of the past | 62.00% | ~152 |
 | Law student | 60.00% | ~147 |
+| Little hacker | 59.00% | ~145 |
 | Workout professional | 58.00% | ~142 |
-| Little hacker | 58.00% | ~142 |
 | Champion – starter pack | 58.00% | ~142 |
 | It's good to be alive | 58.00% | ~142 |
 | Own four walls | 58.00% | ~142 |

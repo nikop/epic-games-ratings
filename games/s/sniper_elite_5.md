@@ -19,12 +19,12 @@ Rating: 4.44 (Ranked 644)
 | Climbing the Ladder | 4.00% | ~138 |
 | Sharpshooter | 4.00% | ~138 |
 | Resourceful | 4.00% | ~138 |
+| Der Geist | 4.00% | ~138 |
 | No Stone Unturned | 3.00% | ~104 |
 | Organ Grinder | 3.00% | ~104 |
 | Gunslinger | 3.00% | ~104 |
 | Skirmisher | 3.00% | ~104 |
 | Explosive Efficiency | 3.00% | ~104 |
-| Der Geist | 3.00% | ~104 |
 | Close Quarters | 3.00% | ~104 |
 | Snake in the Grass | 3.00% | ~104 |
 | Brains of the Operation | 3.00% | ~104 |

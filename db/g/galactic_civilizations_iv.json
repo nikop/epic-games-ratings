@@ -858,9 +858,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 6335,
+  "EOS_Progressed": 6336,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4903,6 +4903,11 @@
       "Time": "2023-08-12T12:03:36.3512635+00:00",
       "NumProgressed": 6335,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-12T13:05:09.3403994+00:00",
+      "NumProgressed": 6336,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -4954,7 +4959,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 3991
+      "UsersEstimate": 3992
     },
     {
       "ID": "Control_All_Relics",
@@ -4978,7 +4983,7 @@
       "Name": "Xenocide",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2027
+      "UsersEstimate": 2028
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -4994,7 +4999,7 @@
       "Name": "Design a Civilization",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 2027
+      "UsersEstimate": 2028
     },
     {
       "ID": "First_Major_Ally",
@@ -5050,7 +5055,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 4941
+      "UsersEstimate": 4942
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -5370,7 +5375,7 @@
       "Name": "Win as Terrans",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "Win_As_Torian",
@@ -5402,7 +5407,7 @@
       "Name": "Win a Battle",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 4244
+      "UsersEstimate": 4245
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -5489,15 +5494,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6335,
+      "Progressed": 6336,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-08-12T04:58:53.0373153+00:00",
-  "LastChanged_Achievements": "2023-08-12T12:03:36.3512629+00:00",
+  "LastChanged_Achievements": "2023-08-12T13:05:09.3403987+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:24.6593665+00:00",
-  "LastUpdate_Ratings": "2023-08-12T11:58:37.6578617+00:00",
-  "LastUpdate_Achievements": "2023-08-12T12:03:36.3513449+00:00"
+  "LastUpdate_Ratings": "2023-08-12T13:00:17.1428706+00:00",
+  "LastUpdate_Achievements": "2023-08-12T13:05:09.3404965+00:00"
 }

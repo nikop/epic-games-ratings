@@ -4,7 +4,7 @@
   "ProductSlug": "doodle-god-f6a7b6",
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 62,
-  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewPlayers": 308,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-03-10T17:00:00+00:00",
@@ -283,9 +283,9 @@
       "ID": "605792",
       "SetID": "4lpaifm",
       "Name": "Creator of Modernity",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 37
+      "UsersEstimate": 39
     },
     {
       "ID": "605802",
@@ -420,8 +420,8 @@
   "FirstSeenRating": "2023-03-31T05:58:36.1213415+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:26.6583079+00:00",
   "LastChanged": "2023-03-31T05:58:36.1213416+00:00",
-  "LastChanged_Achievements": "2023-08-12T12:04:26.1828002+00:00",
+  "LastChanged_Achievements": "2023-08-12T13:05:48.4311825+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:15.6328976+00:00",
-  "LastUpdate_Ratings": "2023-08-12T12:00:32.0587522+00:00",
-  "LastUpdate_Achievements": "2023-08-12T12:04:26.1828144+00:00"
+  "LastUpdate_Ratings": "2023-08-12T13:02:29.8161855+00:00",
+  "LastUpdate_Achievements": "2023-08-12T13:05:48.431198+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 164,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -682,9 +682,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 11939,
+  "EOS_Progressed": 11940,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -8812,6 +8812,11 @@
       "Time": "2023-08-12T12:03:30.549424+00:00",
       "NumProgressed": 11939,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-08-12T13:05:03.5324832+00:00",
+      "NumProgressed": 11940,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 35,
@@ -8871,7 +8876,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 2268
+      "UsersEstimate": 2269
     },
     {
       "ID": "ACH08",
@@ -8991,7 +8996,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 1671
+      "UsersEstimate": 1672
     },
     {
       "ID": "ACH23",
@@ -9102,7 +9107,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11939,
+      "Progressed": 11940,
       "Completed": 36
     }
   ],
@@ -9110,8 +9115,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-08-11T19:57:17.244721+00:00",
-  "LastChanged_Achievements": "2023-08-12T12:03:30.5494233+00:00",
+  "LastChanged_Achievements": "2023-08-12T13:05:03.5324827+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:11.1716171+00:00",
-  "LastUpdate_Ratings": "2023-08-12T11:57:04.481457+00:00",
-  "LastUpdate_Achievements": "2023-08-12T12:03:30.5494823+00:00"
+  "LastUpdate_Ratings": "2023-08-12T12:58:37.6024048+00:00",
+  "LastUpdate_Achievements": "2023-08-12T13:05:03.5325574+00:00"
 }

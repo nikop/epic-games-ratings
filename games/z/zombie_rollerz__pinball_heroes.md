@@ -12,15 +12,15 @@
 | The Thrower | 49.00% | ~67 |
 | Duscot Steamcity | 49.00% | ~67 |
 | The Shaman | 48.00% | ~65 |
-| The Penguin | 45.00% | ~61 |
+| The Penguin | 46.00% | ~63 |
 | The Magician | 42.00% | ~57 |
 | The Shield | 39.00% | ~53 |
 | The Tunneler | 38.00% | ~52 |
 | Level Up!! | 37.00% | ~50 |
 | Kill-streak | 32.00% | ~44 |
-| Topped up | 26.00% | ~35 |
+| Topped up | 27.00% | ~37 |
+| The Bird | 27.00% | ~37 |
 | The Idol | 26.00% | ~35 |
-| The Bird | 26.00% | ~35 |
 | The Ninja | 26.00% | ~35 |
 | Inferno Ruins | 24.00% | ~33 |
 | I'm Rich | 23.00% | ~31 |

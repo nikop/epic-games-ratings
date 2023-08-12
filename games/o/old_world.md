@@ -7,20 +7,20 @@ Number of Ratings: 1,307  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Clergy | 4.00% | ~535 |
-| Able | 2.00% | ~267 |
-| Architect | 2.00% | ~267 |
-| Explorer | 2.00% | ~267 |
-| Good | 2.00% | ~267 |
-| Intrepid | 2.00% | ~267 |
-| Mason | 2.00% | ~267 |
-| Noble | 2.00% | ~267 |
-| Settler | 2.00% | ~267 |
-| Strong | 2.00% | ~267 |
-| Friendly Family | 2.00% | ~267 |
-| Hanging Gardens | 2.00% | ~267 |
-| Play a Single Player Game | 2.00% | ~267 |
-| Trade Caravan | 2.00% | ~267 |
-| The Great Mage | 2.00% | ~267 |
+| Able | 2.00% | ~268 |
+| Architect | 2.00% | ~268 |
+| Explorer | 2.00% | ~268 |
+| Good | 2.00% | ~268 |
+| Intrepid | 2.00% | ~268 |
+| Mason | 2.00% | ~268 |
+| Noble | 2.00% | ~268 |
+| Settler | 2.00% | ~268 |
+| Strong | 2.00% | ~268 |
+| Friendly Family | 2.00% | ~268 |
+| Hanging Gardens | 2.00% | ~268 |
+| Play a Single Player Game | 2.00% | ~268 |
+| Trade Caravan | 2.00% | ~268 |
+| The Great Mage | 2.00% | ~268 |
 | Ambitious | 1.00% | ~134 |
 | Brilliant | 1.00% | ~134 |
 | Enlightened | 1.00% | ~134 |
@@ -107,26 +107,26 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ambition Victory | 0.50% | ~67 |
 | Double Victory | 0.50% | ~67 |
 | Win a Single Player Game | 0.50% | ~67 |
-| Ishtar Gate in Babylon | 0.40% | ~53 |
-| Capable | 0.40% | ~53 |
-| Devout | 0.40% | ~53 |
-| Ready | 0.40% | ~53 |
-| Strong Difficulty | 0.40% | ~53 |
-| Hunters | 0.40% | ~53 |
-| Landowners | 0.40% | ~53 |
-| Riders | 0.40% | ~53 |
-| Adur Burzen-Mihr | 0.40% | ~53 |
-| Babylonia | 0.40% | ~53 |
-| Carthage | 0.40% | ~53 |
-| Assyrian Paganism | 0.40% | ~53 |
-| Industrial Progress | 0.40% | ~53 |
-| Military Prestige | 0.40% | ~53 |
-| Enlightenment | 0.40% | ~53 |
-| Gnosticism | 0.40% | ~53 |
-| Revelation | 0.40% | ~53 |
-| Veneration | 0.40% | ~53 |
-| Kushite Cavalry | 0.40% | ~53 |
-| Bad Heir Day | 0.30% | ~40 |
+| Bad Heir Day | 0.40% | ~54 |
+| Ishtar Gate in Babylon | 0.40% | ~54 |
+| Capable | 0.40% | ~54 |
+| Devout | 0.40% | ~54 |
+| Ready | 0.40% | ~54 |
+| Strong Difficulty | 0.40% | ~54 |
+| Hunters | 0.40% | ~54 |
+| Landowners | 0.40% | ~54 |
+| Riders | 0.40% | ~54 |
+| Adur Burzen-Mihr | 0.40% | ~54 |
+| Babylonia | 0.40% | ~54 |
+| Carthage | 0.40% | ~54 |
+| Assyrian Paganism | 0.40% | ~54 |
+| Industrial Progress | 0.40% | ~54 |
+| Military Prestige | 0.40% | ~54 |
+| Enlightenment | 0.40% | ~54 |
+| Gnosticism | 0.40% | ~54 |
+| Revelation | 0.40% | ~54 |
+| Veneration | 0.40% | ~54 |
+| Kushite Cavalry | 0.40% | ~54 |
 | Carthage - Ox Hide | 0.30% | ~40 |
 | Old | 0.30% | ~40 |
 | Peacemaker | 0.30% | ~40 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,374 (Ranked 117)  
+Progressed: 13,376 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -417,7 +417,7 @@ Completed: 5 (0.04%) (Ranked 223)
 | 2023-08-09 | 13,342 | 5 |
 | 2023-08-10 | 13,349 | 5 |
 | 2023-08-11 | 13,363 | 5 |
-| 2023-08-12 | 13,374 | 5 |
+| 2023-08-12 | 13,376 | 5 |
 ## Awards
 Max (Relaxing): 219  (Ranked 264)  
 Sum: 1,790 (Ranked 206)  

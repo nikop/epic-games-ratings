@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Clean Conscience | 28.00% | ~64 |
 | So it goes | 27.00% | ~62 |
-| A New Broom Sweeps Clean | 14.00% | ~32 |
+| A New Broom Sweeps Clean | 15.00% | ~34 |
 | Off to a Good Start | 13.00% | ~30 |
 | Small-time Finder | 13.00% | ~30 |
 | Business as usual | 11.00% | ~25 |

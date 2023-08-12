@@ -43,6 +43,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Arcane Industries | 0.30% | ~403 |
 | A Notch Above the Rest | 0.20% | ~269 |
 | Cream of the Crop | 0.20% | ~269 |
+| Top of the World | 0.20% | ~269 |
 | Proud Paladin | 0.20% | ~269 |
 | Above the Norm | 0.20% | ~269 |
 | A Ronin Reborn | 0.20% | ~269 |
@@ -64,6 +65,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Expansion in Session | 0.20% | ~269 |
 | Ritualist | 0.20% | ~269 |
 | Cranked up to 11 | 0.20% | ~269 |
+| Fit for a King | 0.20% | ~269 |
 | Flawless Fusion | 0.20% | ~269 |
 | Trash to Treasure | 0.20% | ~269 |
 | Royal Ransom | 0.20% | ~269 |
@@ -85,7 +87,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Special Ingredient | 0.20% | ~269 |
 | Exotic Commodities | 0.20% | ~269 |
 | Complete Monopoly | 0.20% | ~269 |
-| Top of the World | 0.10% | ~134 |
 | Constellated | 0.10% | ~134 |
 | Thirst for Knowledge | 0.10% | ~134 |
 | Bane of Legends | 0.10% | ~134 |
@@ -96,7 +97,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Oligarch Monarch | 0.10% | ~134 |
 | Unleashed Potential | 0.10% | ~134 |
 | Thank You Tom Nook | 0.10% | ~134 |
-| Fit for a King | 0.10% | ~134 |
 | By Your Powers Combined... | 0.10% | ~134 |
 | A Legend is Born | 0.10% | ~134 |
 | Capitalist Camaraderie | 0.10% | ~134 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Economy of Scarce | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,380 (Ranked 66)  
+Progressed: 134,381 (Ranked 66)  
 Completed: 132 (0.10%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,7 +233,7 @@ Completed: 132 (0.10%) (Ranked 202)
 | 2023-08-09 | 134,223 | 131 |
 | 2023-08-10 | 134,276 | 131 |
 | 2023-08-11 | 134,354 | 132 |
-| 2023-08-12 | 134,380 | 132 |
+| 2023-08-12 | 134,381 | 132 |
 ## Awards
 Max (Great for Beginners): 4,694  (Ranked 71)  
 Sum: 27,079 (Ranked 46)  

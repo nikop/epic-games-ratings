@@ -775,9 +775,9 @@
       "ID": "BugHunter",
       "SetID": "82505mn",
       "Name": "Bug Hunter",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 106
     },
     {
       "ID": "Cryomancer",
@@ -847,9 +847,9 @@
       "ID": "Iconoclasm",
       "SetID": "82505mn",
       "Name": "Iconoclasm",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 64
     },
     {
       "ID": "Inquisitor",
@@ -1064,8 +1064,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-08-12T12:04:29.8619419+00:00",
+  "LastChanged_Achievements": "2023-08-12T13:05:52.1722199+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:34.0188198+00:00",
-  "LastUpdate_Ratings": "2023-08-12T12:00:38.8131496+00:00",
-  "LastUpdate_Achievements": "2023-08-12T12:04:29.86197+00:00"
+  "LastUpdate_Ratings": "2023-08-12T13:02:36.091153+00:00",
+  "LastUpdate_Achievements": "2023-08-12T13:05:52.1722567+00:00"
 }

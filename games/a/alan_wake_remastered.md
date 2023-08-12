@@ -6,18 +6,18 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 37.00% | ~22,465 |
-| Let There Be Light | 30.00% | ~18,214 |
-| Float Like a Butterfly | 29.00% | ~17,607 |
-| Nordic Walking | 23.00% | ~13,964 |
-| Bright Falls' Finest | 22.00% | ~13,357 |
-| Under a Thin Layer of Skin | 20.00% | ~12,143 |
-| Park Ranger | 16.00% | ~9,714 |
-| Paging Mr. Wake | 16.00% | ~9,714 |
-| Back! Back, I Say! | 15.00% | ~9,107 |
-| Finders Keepers | 15.00% | ~9,107 |
-| Sound and Fury | 14.00% | ~8,500 |
-| Damn Good Cup of Coffee | 14.00% | ~8,500 |
+| Follow the Light | 37.00% | ~22,466 |
+| Let There Be Light | 30.00% | ~18,216 |
+| Float Like a Butterfly | 29.00% | ~17,609 |
+| Nordic Walking | 23.00% | ~13,965 |
+| Bright Falls' Finest | 22.00% | ~13,358 |
+| Under a Thin Layer of Skin | 20.00% | ~12,144 |
+| Park Ranger | 16.00% | ~9,715 |
+| Paging Mr. Wake | 16.00% | ~9,715 |
+| Back! Back, I Say! | 15.00% | ~9,108 |
+| Finders Keepers | 15.00% | ~9,108 |
+| Sound and Fury | 14.00% | ~8,501 |
+| Damn Good Cup of Coffee | 14.00% | ~8,501 |
 | Wheels Within Wheels | 13.00% | ~7,893 |
 | They're Heeeeeere! | 13.00% | ~7,893 |
 | Missed by a Mile | 13.00% | ~7,893 |
@@ -33,8 +33,8 @@ Number of Ratings: 524  (23.09.2022)
 | The Lady of the Light | 10.00% | ~6,072 |
 | Two For the Price of One | 10.00% | ~6,072 |
 | Energized! | 10.00% | ~6,072 |
-| Right of Way | 9.00% | ~5,464 |
-| What Light Through Yonder Window | 8.00% | ~4,857 |
+| Right of Way | 9.00% | ~5,465 |
+| What Light Through Yonder Window | 8.00% | ~4,858 |
 | A Friend in Need | 8.00% | ~1,935 |
 | Tornado Wrangler | 7.00% | ~4,250 |
 | Departure | 7.00% | ~4,250 |
@@ -46,9 +46,9 @@ Number of Ratings: 524  (23.09.2022)
 | Boob Tube | 4.00% | ~2,429 |
 | If It Flies, It Burns | 4.00% | ~2,429 |
 | KBF-FM | 4.00% | ~2,429 |
-| Carny | 3.00% | ~1,821 |
-| Kill Your Darlings | 3.00% | ~725 |
-| Heartbreaker | 3.00% | ~725 |
+| Carny | 3.00% | ~1,822 |
+| Kill Your Darlings | 3.00% | ~726 |
+| Heartbreaker | 3.00% | ~726 |
 | Medical Opinions | 2.00% | ~1,214 |
 | Taken Season | 2.00% | ~1,214 |
 | An Idyllic Small Town | 2.00% | ~1,214 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~61 |
 | No Punctuation | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,715 (Ranked 85)  
+Progressed: 60,719 (Ranked 85)  
 Completed: 64 (0.11%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,7 +188,7 @@ Completed: 64 (0.11%) (Ranked 198)
 | 2023-08-09 | 60,613 | 64 |
 | 2023-08-10 | 60,658 | 64 |
 | 2023-08-11 | 60,694 | 64 |
-| 2023-08-12 | 60,715 | 64 |
+| 2023-08-12 | 60,719 | 64 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

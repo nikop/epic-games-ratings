@@ -14,8 +14,8 @@
 | Creator of Technology | 24.00% | ~55 |
 | Honorable Santa | 23.00% | ~53 |
 | God of Fun | 18.00% | ~42 |
+| Creator of Modernity | 17.00% | ~39 |
 | Doodle Bar | 17.00% | ~39 |
-| Creator of Modernity | 16.00% | ~37 |
 | Half the Kingdom | 16.00% | ~37 |
 | Deity of Darkness | 15.00% | ~35 |
 | Creator of Magic | 14.00% | ~32 |

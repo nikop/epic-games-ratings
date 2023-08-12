@@ -6,28 +6,28 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~475,678 |
-| Apprentice | 58.00% | ~383,185 |
-| Close Shave | 25.00% | ~165,166 |
-| Mercenary | 23.00% | ~151,953 |
-| Ninja | 23.00% | ~151,953 |
-| Northern Scourge | 17.00% | ~112,313 |
-| Thief Bane | 14.00% | ~92,493 |
-| Master of Arms | 12.00% | ~79,280 |
-| Gambler | 10.00% | ~66,066 |
-| Dice Master | 10.00% | ~66,066 |
+| The Fool | 72.00% | ~475,683 |
+| Apprentice | 58.00% | ~383,189 |
+| Close Shave | 25.00% | ~165,168 |
+| Mercenary | 23.00% | ~151,954 |
+| Ninja | 23.00% | ~151,954 |
+| Northern Scourge | 17.00% | ~112,314 |
+| Thief Bane | 14.00% | ~92,494 |
+| Master of Arms | 12.00% | ~79,281 |
+| Gambler | 10.00% | ~66,067 |
+| Dice Master | 10.00% | ~66,067 |
 | Swordsman | 9.00% | ~59,460 |
-| Knight | 8.00% | ~52,853 |
-| Cure for Corruption | 8.00% | ~52,853 |
-| Focused | 8.00% | ~52,853 |
-| Flurry of Fury | 8.00% | ~52,853 |
-| Long Shot | 7.00% | ~46,246 |
-| Devil Dice | 7.00% | ~46,246 |
-| Broken Heart | 7.00% | ~46,246 |
+| Knight | 8.00% | ~52,854 |
+| Cure for Corruption | 8.00% | ~52,854 |
+| Focused | 8.00% | ~52,854 |
+| Flurry of Fury | 8.00% | ~52,854 |
+| Long Shot | 7.00% | ~46,247 |
+| Devil Dice | 7.00% | ~46,247 |
+| Broken Heart | 7.00% | ~46,247 |
 | Adventurer | 6.00% | ~39,640 |
 | Empire's Bane | 6.00% | ~39,640 |
-| Jack of all Trades | 5.00% | ~33,033 |
-| Smithy | 5.00% | ~33,033 |
+| Jack of all Trades | 5.00% | ~33,034 |
+| Smithy | 5.00% | ~33,034 |
 | Leap of Faith | 3.00% | ~19,820 |
 | Combat Ready | 3.00% | ~19,820 |
 | Stuffed Potato | 3.00% | ~19,820 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~661 |
 | Blood Pact | 0.10% | ~661 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 660,664 (Ranked 22)  
+Progressed: 660,671 (Ranked 22)  
 Completed: 168 (0.03%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,7 +169,7 @@ Completed: 168 (0.03%) (Ranked 229)
 | 2023-08-09 | 660,579 | 168 |
 | 2023-08-10 | 660,604 | 168 |
 | 2023-08-11 | 660,648 | 168 |
-| 2023-08-12 | 660,664 | 168 |
+| 2023-08-12 | 660,671 | 168 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 436)  
 Sum: 180 (Ranked 377)  
