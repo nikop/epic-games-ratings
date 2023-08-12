@@ -4,7 +4,7 @@
 | 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.41% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 39.53% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
-| 5 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 29.17% |
+| 5 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 28.00% |
 | 6 | [Overloop](games/o/overloop.md) | 25.00% |
 | 7 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 23.91% |
@@ -34,7 +34,7 @@
 | 32 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.48% |
 | 33 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 7.94% |
 | 34 | [Smelter](games/s/smelter.md) | 7.69% |
-| 35 | [Ravenlok](games/r/ravenlok.md) | 7.46% |
+| 35 | [Ravenlok](games/r/ravenlok.md) | 7.45% |
 | 36 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.95% |
 | 37 | [Scorn](games/s/scorn.md) | 6.93% |
 | 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.89% |
@@ -138,7 +138,7 @@
 | 136 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.56% |
 | 136 | [Grindstone](games/g/grindstone.md) | 0.56% |
 | 138 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.53% |
-| 139 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
+| 138 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.53% |
 | 140 | [Aragami 2](games/a/aragami_2.md) | 0.51% |
 | 140 | [The Surge 2](games/t/the_surge_2.md) | 0.51% |
 | 142 | [Godlike Burger](games/g/godlike_burger.md) | 0.50% |
