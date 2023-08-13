@@ -250,13 +250,13 @@
 | 241 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 3,340 | 88 |
 | 241 | [FAR CRY 4](games/f/far_cry_4.md) | 4.68 | 622 | 178 |
 | 241 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 301,915 | 3 |
-| 241 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 211,116 | 4 |
+| 241 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 211,556 | 4 |
 | 241 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 512 |
 | 241 | [King of Retail](games/k/king_of_retail.md) | 4.68 | 0 | 512 |
 | 241 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 425 | 207 |
 | 241 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 561 | 186 |
 | 241 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 680 | 170 |
-| 241 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.68 | 52 | 396 |
+| 241 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.68 | 52 | 397 |
 | 241 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 89 | 350 |
 | 259 | [APE OUT](games/a/ape_out.md) | 4.67 | 0 | 512 |
 | 259 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 663 | 172 |
@@ -420,7 +420,7 @@
 | 412 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.59 | 0 | 512 |
 | 412 | [Operation: Tango](games/o/operation__tango.md) | 4.59 | 0 | 512 |
 | 412 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 75 | 368 |
-| 412 | [The Escapists 2](games/t/the_escapists_2.md) | 4.59 | 52 | 396 |
+| 412 | [The Escapists 2](games/t/the_escapists_2.md) | 4.59 | 53 | 395 |
 | 412 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 314 | 234 |
 | 412 | [Torchlight II](games/t/torchlight_ii.md) | 4.59 | 1,007 | 144 |
 | 412 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.59 | 0 | 512 |
@@ -444,7 +444,7 @@
 | 427 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 213 | 269 |
 | 427 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.58 | 0 | 512 |
 | 427 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.58 | 160 | 292 |
-| 427 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,284 | 56 |
+| 427 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,290 | 56 |
 | 427 | [Travellers Rest](games/t/travellers_rest.md) | 4.58 | 0 | 512 |
 | 427 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.58 | 0 | 512 |
 | 427 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 219 | 264 |
@@ -907,7 +907,7 @@
 | 905 | [Fangs](games/f/fangs.md) | 4.09 | 0 | 512 |
 | 905 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.09 | 0 | 512 |
 | 905 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.09 | 0 | 512 |
-| 905 | [Obduction](games/o/obduction.md) | 4.09 | 52 | 396 |
+| 905 | [Obduction](games/o/obduction.md) | 4.09 | 52 | 397 |
 | 905 | [Submerged](games/s/submerged.md) | 4.09 | 0 | 512 |
 | 910 | [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 4.08 | 0 | 512 |
 | 910 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.08 | 0 | 512 |
