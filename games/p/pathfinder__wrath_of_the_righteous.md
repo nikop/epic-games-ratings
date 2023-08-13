@@ -11,7 +11,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Burning City | 15.00% | ~1,641 |
 | Mythic Choices | 13.00% | ~1,422 |
 | Defender's Heart | 13.00% | ~1,422 |
-| Banner over the Citadel | 12.00% | ~1,312 |
+| Banner over the Citadel | 12.00% | ~1,313 |
 | Queen's Gratitude | 11.00% | ~1,203 |
 | Fifth Crusade | 7.00% | ~766 |
 | Embrace of the Abyss | 5.00% | ~547 |
@@ -19,14 +19,14 @@ Number of Ratings: 1,354  (23.09.2022)
 | Great Upstart | 5.00% | ~547 |
 | All Paths Open | 5.00% | ~547 |
 | Demonic and Divine | 5.00% | ~547 |
-| Path of the Azata | 4.00% | ~437 |
-| Transformation | 4.00% | ~437 |
-| The Legacy | 4.00% | ~437 |
-| Divide and Rule | 4.00% | ~437 |
-| Voice from Your Dreams | 4.00% | ~437 |
-| A Flame | 4.00% | ~437 |
-| Next-Door Play | 4.00% | ~437 |
-| Get the Toad | 4.00% | ~437 |
+| Path of the Azata | 4.00% | ~438 |
+| Transformation | 4.00% | ~438 |
+| The Legacy | 4.00% | ~438 |
+| Divide and Rule | 4.00% | ~438 |
+| Voice from Your Dreams | 4.00% | ~438 |
+| A Flame | 4.00% | ~438 |
+| Next-Door Play | 4.00% | ~438 |
+| Get the Toad | 4.00% | ~438 |
 | Heart of the Fallen Land | 3.00% | ~328 |
 | Path of the Trickster | 3.00% | ~328 |
 | Mythic Reinforcements | 3.00% | ~328 |
@@ -50,9 +50,9 @@ Number of Ratings: 1,354  (23.09.2022)
 | This Wall Won't Fall | 1.00% | ~97 |
 | Not the Last Sarkorian | 1.00% | ~97 |
 | Path of the Legend | 0.90% | ~98 |
-| Path of the Dragon | 0.80% | ~87 |
-| End of Eternal Guard | 0.80% | ~87 |
-| Truly Profane Gift | 0.80% | ~87 |
+| Path of the Dragon | 0.80% | ~88 |
+| End of Eternal Guard | 0.80% | ~88 |
+| Truly Profane Gift | 0.80% | ~88 |
 | Playful Mood | 0.70% | ~77 |
 | Dreadful Dragon | 0.70% | ~77 |
 | Masterful Charge | 0.60% | ~66 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,937 (Ranked 120)  
+Progressed: 10,938 (Ranked 120)  
 Completed: 0 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,7 +238,7 @@ Completed: 0 (0.00%) (Ranked 255)
 | 2023-08-10 | 10,895 | 0 |
 | 2023-08-11 | 10,913 | 0 |
 | 2023-08-12 | 10,928 | 0 |
-| 2023-08-13 | 10,937 | 0 |
+| 2023-08-13 | 10,938 | 0 |
 ## Awards
 Max (Character Customization): 1,700  (Ranked 117)  
 Sum: 6,886 (Ranked 113)  

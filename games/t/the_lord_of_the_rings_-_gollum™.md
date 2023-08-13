@@ -22,7 +22,7 @@
 | Trigger-Happy | 9.00% | ~45 |
 | He's so Annoying | 8.00% | ~40 |
 | The Friend | 7.00% | ~35 |
-| Master of the Old Game | 5.00% | ~25 |
+| Master of the Old Game | 6.00% | ~30 |
 | Made a Song | 5.00% | ~25 |
 | So Silly! | 4.00% | ~20 |
 | So Tasty! | 4.00% | ~20 |

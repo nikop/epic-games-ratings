@@ -22,8 +22,8 @@
 | He is just a child | 19.00% | ~100 |
 | Uncertain | 18.00% | ~94 |
 | Concrete painting | 17.00% | ~89 |
+| Goody | 17.00% | ~89 |
 | Ace | 16.00% | ~84 |
-| Goody | 16.00% | ~84 |
 | Hipster | 16.00% | ~84 |
 | Not what it seems | 16.00% | ~84 |
 | Please oh pleeease! | 16.00% | ~84 |

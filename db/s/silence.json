@@ -4,8 +4,8 @@
   "ProductSlug": "silence-57bc4e",
   "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2016-11-15T17:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 103,
+  "EOS_Progressed": 104,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -106,6 +106,11 @@
     {
       "Time": "2023-08-13T00:05:11.260617+00:00",
       "NumProgressed": 103,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-13T16:05:53.3421149+00:00",
+      "NumProgressed": 104,
       "NumCompleted": 0
     }
   ],
@@ -252,7 +257,7 @@
       "ID": "1006_achv_chapter1",
       "SetID": "dhn82m5",
       "Name": "Chapter I",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 20,
       "UsersEstimate": 49
     },
@@ -268,7 +273,7 @@
       "ID": "1006_achv_dropball",
       "SetID": "dhn82m5",
       "Name": "Fire in the... nevermind",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 20,
       "UsersEstimate": 50
     },
@@ -300,7 +305,7 @@
       "ID": "2002_achv_burnswamp",
       "SetID": "dhn82m5",
       "Name": "I didn\u0027t do it!",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 10,
       "UsersEstimate": 41
     },
@@ -316,7 +321,7 @@
       "ID": "2002_achv_taste",
       "SetID": "dhn82m5",
       "Name": "Haute cuisine",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 20,
       "UsersEstimate": 45
     },
@@ -356,17 +361,17 @@
       "ID": "2008_achv_spotfly",
       "SetID": "dhn82m5",
       "Name": "Master of Thermodynamics",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 17
     },
     {
       "ID": "2009_achv_deathwheel",
       "SetID": "dhn82m5",
       "Name": "Death is a part of life",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 17
     },
     {
       "ID": "2009_achv_dreamwheel",
@@ -420,7 +425,7 @@
       "ID": "3005_achv_getting_rich",
       "SetID": "dhn82m5",
       "Name": "Unfullfilled dreams",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
       "UsersEstimate": 15
     },
@@ -485,7 +490,7 @@
     {
       "ID": "dhn82m5",
       "IsBase": true,
-      "Progressed": 103,
+      "Progressed": 104,
       "Completed": 0
     }
   ],
@@ -493,8 +498,8 @@
   "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.5644296+00:00",
   "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
-  "LastChanged_Achievements": "2023-08-13T15:07:23.505262+00:00",
+  "LastChanged_Achievements": "2023-08-13T16:05:53.3421145+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:10.3291859+00:00",
-  "LastUpdate_Ratings": "2023-08-13T15:02:13.3109045+00:00",
-  "LastUpdate_Achievements": "2023-08-13T15:07:23.5053039+00:00"
+  "LastUpdate_Ratings": "2023-08-13T16:00:14.5836674+00:00",
+  "LastUpdate_Achievements": "2023-08-13T16:05:53.3421529+00:00"
 }

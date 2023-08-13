@@ -6,23 +6,23 @@ Number of Ratings: 743  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shoot it, man! Shoot it in the head! | 69.00% | ~29,842 |
-| Say goodbye, creep! | 66.00% | ~28,545 |
-| Blood splattered | 65.00% | ~28,112 |
-| Choo choo! | 62.00% | ~26,815 |
-| Groovy | 61.00% | ~26,382 |
-| Cleanup on aisle 4! | 57.00% | ~24,652 |
-| Gold | 50.00% | ~21,625 |
-| The boat can leave now...tell the crew | 49.00% | ~21,192 |
+| Shoot it, man! Shoot it in the head! | 69.00% | ~29,843 |
+| Say goodbye, creep! | 66.00% | ~28,546 |
+| Blood splattered | 65.00% | ~28,113 |
+| Choo choo! | 62.00% | ~26,816 |
+| Groovy | 61.00% | ~26,383 |
+| Cleanup on aisle 4! | 57.00% | ~24,653 |
+| Gold | 50.00% | ~21,626 |
+| The boat can leave now...tell the crew | 49.00% | ~21,193 |
 | Stand back boy! | 47.00% | ~20,328 |
 | Give me something to shoot! | 46.00% | ~19,895 |
 | Weird science | 44.00% | ~19,030 |
 | Chain reaction | 44.00% | ~19,030 |
 | What did you say, Blain? | 42.00% | ~18,165 |
-| Look mummy! A shark! | 41.00% | ~17,732 |
+| Look mummy! A shark! | 41.00% | ~17,733 |
 | In the dark dark woods... | 39.00% | ~16,868 |
 | Come and get it! It's a running buffet! | 38.00% | ~16,435 |
-| Double tap | 37.00% | ~16,002 |
+| Double tap | 37.00% | ~16,003 |
 | All of this has happened before… | 36.00% | ~15,570 |
 | Cranial blowout! | 36.00% | ~15,570 |
 | Zombie killin' machine | 36.00% | ~15,570 |
@@ -30,7 +30,7 @@ Number of Ratings: 743  (23.09.2022)
 | All roads lead to Rome | 34.00% | ~14,705 |
 | You've got red on you | 34.00% | ~14,705 |
 | You're all going to die down here | 32.00% | ~13,840 |
-| He did Nazi that coming | 32.00% | ~13,840 |
+| He did Nazi that coming | 31.00% | ~13,408 |
 | Kill of the week | 31.00% | ~13,408 |
 | I never liked them anyway | 30.00% | ~12,975 |
 | Is it over? | 28.00% | ~12,110 |
@@ -44,9 +44,9 @@ Number of Ratings: 743  (23.09.2022)
 | Weapons expert | 17.00% | ~7,353 |
 | The bigger they are... | 15.00% | ~6,488 |
 | I'm going deeper underground | 14.00% | ~6,055 |
-| Well equipped | 13.00% | ~5,622 |
+| Well equipped | 13.00% | ~5,623 |
 | Into the deep | 12.00% | ~5,190 |
-| Damnedbusters | 9.00% | ~3,892 |
+| Damnedbusters | 9.00% | ~3,893 |
 | Plane sailing | 8.00% | ~3,460 |
 | I can do anything I want. I got guns | 8.00% | ~3,460 |
 | Send me an angel | 8.00% | ~3,460 |
@@ -61,8 +61,8 @@ Number of Ratings: 743  (23.09.2022)
 | Staring at Shadows | 6.00% | ~2,595 |
 | I told you we should have gone to the beach | 6.00% | ~2,595 |
 | Hoarder | 6.00% | ~2,595 |
-| Kali Ma | 5.00% | ~2,162 |
-| Have you tried turning it off and on again? | 5.00% | ~2,162 |
+| Kali Ma | 5.00% | ~2,163 |
+| Have you tried turning it off and on again? | 5.00% | ~2,163 |
 | They're coming to get you Barbara | 4.00% | ~1,730 |
 | Total protonic reversal | 4.00% | ~1,730 |
 | A friend in need | 4.00% | ~1,730 |
@@ -70,10 +70,10 @@ Number of Ratings: 743  (23.09.2022)
 | The blighters got through a second time. | 3.00% | ~1,298 |
 | I'm a survivor! | 3.00% | ~1,298 |
 | That's a lot of them, and only 4 of us | 2.00% | ~865 |
-| Just me and my trusty sidearm | 1.00% | ~432 |
+| Just me and my trusty sidearm | 1.00% | ~433 |
 | None more hard | 0.50% | ~216 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,250 (Ranked 91)  
+Progressed: 43,251 (Ranked 91)  
 Completed: 25 (0.06%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,7 +188,7 @@ Completed: 25 (0.06%) (Ranked 214)
 | 2023-08-10 | 43,235 | 25 |
 | 2023-08-11 | 43,238 | 25 |
 | 2023-08-12 | 43,244 | 25 |
-| 2023-08-13 | 43,250 | 25 |
+| 2023-08-13 | 43,251 | 25 |
 ## Awards
 Max (Great Boss Battles): 811  (Ranked 154)  
 Sum: 2,466 (Ranked 175)  

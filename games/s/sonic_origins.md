@@ -1,7 +1,7 @@
 # Sonic Origins
 [Store](https://store.epicgames.com/en-US/p/sonic-origins)  
 [View Rawdata](../../db/s/sonic_origins.json)  
-Rating: 4.58 (Ranked 427)  
+Rating: 4.58 (Ranked 426)  
 Number of Ratings: 154  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -17,7 +17,7 @@ Number of Ratings: 154  (23.09.2022)
 | Knuckles the Echidna | 65.00% | ~254 |
 | Easy Peasy with Shields | 64.00% | ~250 |
 | Gallant Spin Dash | 63.00% | ~246 |
-| Miles "Tails" Prower | 62.00% | ~242 |
+| Miles "Tails" Prower | 63.00% | ~246 |
 | Bubbly Breath | 61.00% | ~239 |
 | Boss Rush Attempt | 55.00% | ~215 |
 | Cleared Sonic the Hedgehog | 53.00% | ~207 |

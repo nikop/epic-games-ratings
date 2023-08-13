@@ -4,8 +4,8 @@
   "ProductSlug": "cymatically-muffed-350bd8",
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 355,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 356,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -162,8 +162,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:51:01.4340824+00:00",
-  "LastChanged_Achievements": "2023-08-13T15:04:29.8235717+00:00",
+  "LastChanged_Achievements": "2023-08-13T16:03:57.5033093+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:17.1671137+00:00",
-  "LastUpdate_Ratings": "2023-08-13T15:02:28.3379763+00:00",
-  "LastUpdate_Achievements": "2023-08-13T15:04:29.8235838+00:00"
+  "LastUpdate_Ratings": "2023-08-13T16:00:24.3618156+00:00",
+  "LastUpdate_Achievements": "2023-08-13T16:03:57.503321+00:00"
 }

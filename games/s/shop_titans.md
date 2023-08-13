@@ -59,6 +59,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Archivist | 0.20% | ~269 |
 | Locally Sourced | 0.20% | ~269 |
 | Flying off the Shelves | 0.20% | ~269 |
+| Industrial Evolution | 0.20% | ~269 |
 | This Power Level...! | 0.20% | ~269 |
 | Omae wa Mou Shindeiru | 0.20% | ~269 |
 | Master of Transmutation | 0.20% | ~269 |
@@ -96,7 +97,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | The Free Encyclopedia | 0.10% | ~134 |
 | Ultimate Collector | 0.10% | ~134 |
 | Fillin' the Bin | 0.10% | ~134 |
-| Industrial Evolution | 0.10% | ~134 |
 | Oligarch Monarch | 0.10% | ~134 |
 | Unleashed Potential | 0.10% | ~134 |
 | Thank You Tom Nook | 0.10% | ~134 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Economy of Scarce | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,454 (Ranked 66)  
+Progressed: 134,455 (Ranked 66)  
 Completed: 132 (0.10%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,7 +234,7 @@ Completed: 132 (0.10%) (Ranked 203)
 | 2023-08-10 | 134,276 | 131 |
 | 2023-08-11 | 134,354 | 132 |
 | 2023-08-12 | 134,413 | 132 |
-| 2023-08-13 | 134,454 | 132 |
+| 2023-08-13 | 134,455 | 132 |
 ## Awards
 Max (Great for Beginners): 4,698  (Ranked 71)  
 Sum: 27,087 (Ranked 46)  

@@ -4,8 +4,8 @@
   "ProductSlug": "rising-mist-36ba97",
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 355,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 356,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-06-15T17:00:00+00:00",
     "PcReleaseDate": "2022-02-24T18:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-23T12:00:58.5863451+00:00",
-  "LastChanged_Achievements": "2023-08-13T15:08:05.0730855+00:00",
+  "LastChanged_Achievements": "2023-08-13T16:06:21.3086194+00:00",
   "LastUpdate_AppInfo": "2023-08-08T17:57:16.4531762+00:00",
-  "LastUpdate_Ratings": "2023-08-13T14:58:58.1585015+00:00",
-  "LastUpdate_Achievements": "2023-08-13T15:08:05.073093+00:00"
+  "LastUpdate_Ratings": "2023-08-13T15:58:15.9859124+00:00",
+  "LastUpdate_Achievements": "2023-08-13T16:06:21.3086248+00:00"
 }

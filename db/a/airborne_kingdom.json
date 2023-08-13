@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -313,7 +313,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7017,
+  "EOS_Progressed": 7018,
   "EOS_Completed": 53,
   "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
@@ -3583,6 +3583,11 @@
       "Time": "2023-08-13T15:04:29.6034476+00:00",
       "NumProgressed": 7017,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-08-13T16:03:57.322353+00:00",
+      "NumProgressed": 7018,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 27,
@@ -3602,7 +3607,7 @@
       "Name": "Daylight Found",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 1824
+      "UsersEstimate": 1825
     },
     {
       "ID": "AK_FIELDS_WATERED",
@@ -3626,7 +3631,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3719
+      "UsersEstimate": 3720
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -3674,7 +3679,7 @@
       "Name": "Knowledge Shared",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 1403
+      "UsersEstimate": 1404
     },
     {
       "ID": "AK_LEARNED_SCHOLAR",
@@ -3698,7 +3703,7 @@
       "Name": "A Peaceful Respite",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 982
+      "UsersEstimate": 983
     },
     {
       "ID": "AK_PROPHECY_FULFILLED",
@@ -3722,15 +3727,15 @@
       "Name": "Relic Finder",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 1403
+      "UsersEstimate": 1404
     },
     {
       "ID": "AK_SEEKERS_FOUND",
       "SetID": "dfmb89",
       "Name": "Seekers Found",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2877
+      "UsersEstimate": 2807
     },
     {
       "ID": "AK_SETTLING_SKIES",
@@ -3809,15 +3814,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7017,
+      "Progressed": 7018,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-08-13T15:04:29.6034471+00:00",
+  "LastChanged_Achievements": "2023-08-13T16:03:57.3223525+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:19.8609046+00:00",
-  "LastUpdate_Ratings": "2023-08-13T14:59:31.5333066+00:00",
-  "LastUpdate_Achievements": "2023-08-13T15:04:29.6035021+00:00"
+  "LastUpdate_Ratings": "2023-08-13T15:58:36.7429934+00:00",
+  "LastUpdate_Achievements": "2023-08-13T16:03:57.3223944+00:00"
 }

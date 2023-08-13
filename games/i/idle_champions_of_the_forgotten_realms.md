@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Chaotic Hunt for The Last Breath | 0.10% | ~188 |
 | There's a Flying Snake in my Boot! | 0.10% | ~188 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 221,506 (Ranked 53)  
+Progressed: 221,524 (Ranked 53)  
 Completed: 2,179 (0.98%) (Ranked 115)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -638,17 +638,17 @@ Completed: 2,179 (0.98%) (Ranked 115)
 | 2023-08-10 | 220,586 | 2,169 |
 | 2023-08-11 | 220,919 | 2,173 |
 | 2023-08-12 | 221,298 | 2,175 |
-| 2023-08-13 | 221,506 | 2,179 |
+| 2023-08-13 | 221,524 | 2,179 |
 ## Awards
 Max (Diverse Characters): 5,145  (Ranked 67)  
-Sum: 31,033 (Ranked 38)  
+Sum: 31,034 (Ranked 38)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 5,145 |
 | This game is Great for Beginners | 5,095 |
 | This game has Quickly Understood Controls | 4,717 |
-| This game is Relaxing | 4,607 |
+| This game is Relaxing | 4,608 |
 | This game has Amazing Characters | 4,066 |
 | This game is Highly Recommended | 4,050 |
 | This game has Playful Visuals | 3,353 |
@@ -854,4 +854,4 @@ Diff (max vs sum): 29
 | 2023-08-10 | 4.06 | - | 5,136 | 30,993 |
 | 2023-08-11 | 4.06 | - | 5,142 | 31,010 |
 | 2023-08-12 | 4.06 | - | 5,145 | 31,031 |
-| 2023-08-13 | 4.06 | - | 5,145 | 31,033 |
+| 2023-08-13 | 4.06 | - | 5,145 | 31,034 |

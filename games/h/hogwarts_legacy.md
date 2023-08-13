@@ -8,28 +8,28 @@ Rating: 4.77 (Ranked 108)
 | The Sort Who Makes an Entrance | 12.00% | ~34,801 |
 | First Class Student | 11.00% | ~31,901 |
 | Troll with the Punches | 11.00% | ~31,901 |
-| A Keen Sense of Spell | 10.00% | ~29,000 |
-| That's a Keeper | 10.00% | ~29,000 |
-| Grappling with a Graphorn | 9.00% | ~26,100 |
-| The One Who Mastered Memories | 9.00% | ~26,100 |
-| The Hallowed Hero | 9.00% | ~26,100 |
-| The Hero of Hogwarts | 9.00% | ~26,100 |
-| The Defender of Dragons | 9.00% | ~26,100 |
-| Challenge Accepted | 9.00% | ~26,100 |
-| Loom for Improvement | 9.00% | ~26,100 |
-| A Talent for Spending | 9.00% | ~26,100 |
-| Coasting Along | 9.00% | ~26,100 |
-| Followed the Butterflies | 8.00% | ~23,200 |
-| Rising From the Ashes | 8.00% | ~23,200 |
-| The Avenging Gazelle | 7.00% | ~20,300 |
-| Beast Friends | 7.00% | ~20,300 |
-| A Sallow Grave | 7.00% | ~20,300 |
-| Flight the Good Flight | 7.00% | ~20,300 |
-| The Spell Master | 7.00% | ~20,300 |
-| The Seeker of Knowledge | 5.00% | ~14,500 |
-| The Root of the Problem | 5.00% | ~14,500 |
-| Third Time's a Charm | 5.00% | ~14,500 |
-| Raising Expectations | 5.00% | ~14,500 |
+| A Keen Sense of Spell | 10.00% | ~29,001 |
+| That's a Keeper | 10.00% | ~29,001 |
+| Grappling with a Graphorn | 9.00% | ~26,101 |
+| The One Who Mastered Memories | 9.00% | ~26,101 |
+| The Hallowed Hero | 9.00% | ~26,101 |
+| The Hero of Hogwarts | 9.00% | ~26,101 |
+| The Defender of Dragons | 9.00% | ~26,101 |
+| Challenge Accepted | 9.00% | ~26,101 |
+| Loom for Improvement | 9.00% | ~26,101 |
+| A Talent for Spending | 9.00% | ~26,101 |
+| Coasting Along | 9.00% | ~26,101 |
+| Followed the Butterflies | 8.00% | ~23,201 |
+| Rising From the Ashes | 8.00% | ~23,201 |
+| The Avenging Gazelle | 7.00% | ~20,301 |
+| Beast Friends | 7.00% | ~20,301 |
+| A Sallow Grave | 7.00% | ~20,301 |
+| Flight the Good Flight | 7.00% | ~20,301 |
+| The Spell Master | 7.00% | ~20,301 |
+| The Seeker of Knowledge | 5.00% | ~14,501 |
+| The Root of the Problem | 5.00% | ~14,501 |
+| Third Time's a Charm | 5.00% | ~14,501 |
+| Raising Expectations | 5.00% | ~14,501 |
 | The Toast of the Town | 4.00% | ~11,600 |
 | Room with a View | 4.00% | ~11,600 |
 | The Intrepid Explorer | 4.00% | ~11,600 |
@@ -51,8 +51,8 @@ Rating: 4.77 (Ranked 108)
 | The Nature of the Beast | 0.60% | ~1,740 |
 | Collector's Edition | 0.30% | ~870 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290,005 (Ranked 42)  
-Completed: 450 (0.16%) (Ranked 187)  
+Progressed: 290,012 (Ranked 42)  
+Completed: 451 (0.16%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -166,7 +166,7 @@ Completed: 450 (0.16%) (Ranked 187)
 | 2023-08-10 | 289,802 | 447 |
 | 2023-08-11 | 289,866 | 448 |
 | 2023-08-12 | 289,948 | 449 |
-| 2023-08-13 | 290,005 | 450 |
+| 2023-08-13 | 290,012 | 451 |
 ## Awards
 Max (Character Customization): 21,714  (Ranked 17)  
 Sum: 40,920 (Ranked 30)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3440,7 +3440,7 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 10937,
+  "EOS_Progressed": 10938,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
@@ -10695,6 +10695,11 @@
       "Time": "2023-08-13T14:04:22.8380188+00:00",
       "NumProgressed": 10937,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-13T16:04:28.8689037+00:00",
+      "NumProgressed": 10938,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -10722,7 +10727,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1312
+      "UsersEstimate": 1313
     },
     {
       "ID": "04_FithCrusade",
@@ -10778,7 +10783,7 @@
       "Name": "Path of the Azata",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "11_PathOfAeon",
@@ -10818,7 +10823,7 @@
       "Name": "Path of the Dragon",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "16_PathOfLegend",
@@ -10834,7 +10839,7 @@
       "Name": "Transformation",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "18_MythicChoices",
@@ -10890,7 +10895,7 @@
       "Name": "The Legacy",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "25_MasterfulDispell",
@@ -10938,7 +10943,7 @@
       "Name": "Divide and Rule",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "32_MythicReinforcements",
@@ -11010,7 +11015,7 @@
       "Name": "End of Eternal Guard",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "41_PlayfulMood",
@@ -11050,7 +11055,7 @@
       "Name": "Voice from Your Dreams",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "46_AllPathsOpen",
@@ -11082,7 +11087,7 @@
       "Name": "A Flame",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "50_HeyIKnowYou",
@@ -11114,7 +11119,7 @@
       "Name": "Truly Profane Gift",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "54_DeathByColumn",
@@ -11130,7 +11135,7 @@
       "Name": "Next-Door Play",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "56_GetToad",
@@ -11138,7 +11143,7 @@
       "Name": "Get the Toad",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "57_PathOfDevil",
@@ -11633,21 +11638,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9719,
+      "Progressed": 9720,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10937,
+      "Progressed": 10938,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-08-11T18:00:20.733408+00:00",
-  "LastChanged_Achievements": "2023-08-13T15:05:13.7631195+00:00",
+  "LastChanged_Achievements": "2023-08-13T16:04:28.8689034+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:11.5447906+00:00",
-  "LastUpdate_Ratings": "2023-08-13T15:00:56.4918607+00:00",
-  "LastUpdate_Achievements": "2023-08-13T15:05:13.7633175+00:00"
+  "LastUpdate_Ratings": "2023-08-13T15:59:28.5818845+00:00",
+  "LastUpdate_Achievements": "2023-08-13T16:04:28.8691119+00:00"
 }

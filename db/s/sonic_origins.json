@@ -2,12 +2,12 @@
   "ID": "78705aae6f39495e920966615c7a22ae",
   "Name": "Sonic Origins",
   "ProductSlug": "sonic-origins",
-  "Ranking_Rating": 427,
+  "Ranking_Rating": 426,
   "Ranking_Popularity": 311,
   "Ranking_PopularitySum": 404,
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 28,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2022-06-23T04:00:00+00:00",
@@ -1764,9 +1764,9 @@
       "ID": "ID_19_TAILS_FLYING",
       "SetID": "7o8nc5m",
       "Name": "Miles \u0022Tails\u0022 Prower",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 242
+      "UsersEstimate": 246
     },
     {
       "ID": "ID_20_CHALLENGE_BOSSRUSH",
@@ -1908,8 +1908,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-08-03T04:58:59.3110812+00:00",
-  "LastChanged_Achievements": "2023-08-13T15:05:29.8722789+00:00",
+  "LastChanged_Achievements": "2023-08-13T16:04:40.4803391+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:26.225879+00:00",
-  "LastUpdate_Ratings": "2023-08-13T14:59:59.1269185+00:00",
-  "LastUpdate_Achievements": "2023-08-13T15:05:29.8723132+00:00"
+  "LastUpdate_Ratings": "2023-08-13T15:58:52.8144371+00:00",
+  "LastUpdate_Achievements": "2023-08-13T16:04:40.4803748+00:00"
 }

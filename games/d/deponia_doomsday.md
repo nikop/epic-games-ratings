@@ -5,19 +5,19 @@ Rating: 4.56 (Ranked 470)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Huzza, he's back. | 88.00% | ~328 |
+| Huzza, he's back. | 88.00% | ~329 |
 | And again, and again, and... | 64.00% | ~239 |
-| Burn, Elysium, burn! | 62.00% | ~231 |
-| Kuvaq Minigame-Master | 61.00% | ~228 |
-| FunScore | 55.00% | ~205 |
+| Burn, Elysium, burn! | 62.00% | ~232 |
+| Kuvaq Minigame-Master | 60.00% | ~224 |
+| FunScore | 55.00% | ~206 |
 | Funtime's over | 53.00% | ~198 |
-| Chunky | 50.00% | ~186 |
-| Shall we play a game? | 49.00% | ~183 |
-| Boat of love, boat of love | 48.00% | ~179 |
-| School's out | 43.00% | ~160 |
+| Chunky | 50.00% | ~187 |
+| Shall we play a game? | 48.00% | ~180 |
+| Boat of love, boat of love | 48.00% | ~180 |
+| School's out | 43.00% | ~161 |
 | Scaffolding Expert | 37.00% | ~138 |
 | Elysian Minigame-Master | 37.00% | ~138 |
-| Sole Music | 36.00% | ~134 |
+| Sole Music | 36.00% | ~135 |
 | Portals come in packs | 30.00% | ~112 |
 | No man left behind! | 29.00% | ~108 |
 | Photo Friend | 26.00% | ~97 |
@@ -42,8 +42,8 @@ Rating: 4.56 (Ranked 470)
 | Every man for himself! | 5.00% | ~19 |
 | 1001 Jackalopes | 2.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 373 (Ranked 244)  
-Completed: 6 (1.61%) (Ranked 97)  
+Progressed: 374 (Ranked 243)  
+Completed: 6 (1.60%) (Ranked 98)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -67,6 +67,7 @@ Completed: 6 (1.61%) (Ranked 97)
 | 2023-08-05 | 371 | 6 |
 | 2023-08-06 | 372 | 6 |
 | 2023-08-09 | 373 | 6 |
+| 2023-08-13 | 374 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

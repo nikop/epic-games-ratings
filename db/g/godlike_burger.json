@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 142,
-  "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-04-21T17:00:00+00:00",
     "PcReleaseDate": "2022-04-21T17:00:00+00:00",
@@ -79,9 +79,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 401,
+  "EOS_Progressed": 402,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -769,6 +769,11 @@
       "Time": "2023-08-13T13:05:24.2902548+00:00",
       "NumProgressed": 401,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-13T16:03:40.3341594+00:00",
+      "NumProgressed": 402,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 28,
@@ -828,7 +833,7 @@
       "Name": "FIRST BLOOD",
       "Percentage": 76,
       "XP": 25,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "GB_GOURMET",
@@ -844,7 +849,7 @@
       "Name": "GRANDMA WOULD BE PROUD",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "GB_GRATITUDE",
@@ -876,7 +881,7 @@
       "Name": "HONORS STUDENT",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "GB_INDIVIDUAL_APPROACH",
@@ -932,7 +937,7 @@
       "Name": "MASTER CHEF",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "GB_MISTER_ALL_THUMBS",
@@ -996,14 +1001,14 @@
       "Name": "WITHOUT BREAKING A SWEAT",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     }
   ],
   "AchievementSets": [
     {
       "ID": "8ga3kd9",
       "IsBase": true,
-      "Progressed": 401,
+      "Progressed": 402,
       "Completed": 2
     }
   ],
@@ -1011,8 +1016,8 @@
   "FirstSeenRating": "2022-10-16T14:30:41.0597875+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.8385233+00:00",
   "LastChanged": "2023-07-21T18:59:24.0510184+00:00",
-  "LastChanged_Achievements": "2023-08-13T15:04:05.5502524+00:00",
+  "LastChanged_Achievements": "2023-08-13T16:03:40.3341589+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:07.5598511+00:00",
-  "LastUpdate_Ratings": "2023-08-13T15:00:51.1784713+00:00",
-  "LastUpdate_Achievements": "2023-08-13T15:04:05.5502758+00:00"
+  "LastUpdate_Ratings": "2023-08-13T15:59:25.6231961+00:00",
+  "LastUpdate_Achievements": "2023-08-13T16:03:40.3341857+00:00"
 }

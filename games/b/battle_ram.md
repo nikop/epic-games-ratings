@@ -20,7 +20,7 @@
 | Senior Lieutenant Baran | 16.00% | ~32 |
 | Captain Baran | 11.00% | ~22 |
 | Senior Major Baran | 11.00% | ~22 |
-| Lieutenant Colonel Baran | 8.00% | ~16 |
+| Lieutenant Colonel Baran | 9.00% | ~18 |
 | Colonel Baran | 6.00% | ~12 |
 | Brigadier General Baran | 4.00% | ~8 |
 | Lieutenant General Baran | 3.00% | ~6 |

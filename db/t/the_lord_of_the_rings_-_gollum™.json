@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 181,
   "Ranking_EOS_NewPlayers": 263,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
     "PcReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -1372,9 +1372,9 @@
       "ID": "OldGame",
       "SetID": "70l3651",
       "Name": "Master of the Old Game",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 30
     },
     {
       "ID": "RiverHobbit",
@@ -1459,8 +1459,8 @@
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-08-13T15:04:24.8885913+00:00",
+  "LastChanged_Achievements": "2023-08-13T16:03:54.1724791+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:28.0980255+00:00",
-  "LastUpdate_Ratings": "2023-08-13T15:00:01.1056829+00:00",
-  "LastUpdate_Achievements": "2023-08-13T15:04:24.8886422+00:00"
+  "LastUpdate_Ratings": "2023-08-13T15:58:54.2116608+00:00",
+  "LastUpdate_Achievements": "2023-08-13T16:03:54.172514+00:00"
 }

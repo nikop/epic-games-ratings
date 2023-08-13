@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fire in the... nevermind | 49.00% | ~50 |
-| Chapter I | 48.00% | ~49 |
-| Haute cuisine | 44.00% | ~45 |
-| I didn't do it! | 40.00% | ~41 |
+| Fire in the... nevermind | 48.00% | ~50 |
+| Chapter I | 47.00% | ~49 |
+| Haute cuisine | 43.00% | ~45 |
+| I didn't do it! | 39.00% | ~41 |
 | Demolition expert | 35.00% | ~36 |
 | Wooooooow! | 35.00% | ~36 |
 | Artistic fool | 34.00% | ~35 |
@@ -27,9 +27,9 @@
 | It's not easy being green! | 21.00% | ~22 |
 | Home is where the heart is | 20.00% | ~21 |
 | Pacifist | 18.00% | ~19 |
-| Master of Thermodynamics | 17.00% | ~18 |
-| Death is a part of life | 17.00% | ~18 |
-| Unfullfilled dreams | 15.00% | ~15 |
+| Master of Thermodynamics | 16.00% | ~17 |
+| Death is a part of life | 16.00% | ~17 |
+| Unfullfilled dreams | 14.00% | ~15 |
 | Nothing can stop me | 12.00% | ~12 |
 | Mumbo Jumbo | 12.00% | ~12 |
 | To err is human... | 11.00% | ~11 |
@@ -51,7 +51,7 @@
 | Done. First! | 1.00% | ~1 |
 | Do not feed the fish! | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 103 (Ranked 318)  
+Progressed: 104 (Ranked 318)  
 Completed: 0 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,7 +68,7 @@ Completed: 0 (0.00%) (Ranked 255)
 | 2023-08-10 | 99 | 0 |
 | 2023-08-11 | 100 | 0 |
 | 2023-08-12 | 102 | 0 |
-| 2023-08-13 | 103 | 0 |
+| 2023-08-13 | 104 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

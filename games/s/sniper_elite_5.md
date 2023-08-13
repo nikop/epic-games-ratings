@@ -47,13 +47,13 @@ Rating: 4.44 (Ranked 643)
 | It'll Buff Right Out | 0.90% | ~31 |
 | Sink or Swim | 0.90% | ~31 |
 | Strategist | 0.80% | ~28 |
+| From Paris with Love | 0.80% | ~28 |
 | Operation Foxley | 0.80% | ~27 |
-| From Paris with Love | 0.70% | ~24 |
+| Souvenir hunter | 0.70% | ~24 |
 | Locomotion Commotion | 0.70% | ~24 |
 | Last Resort | 0.70% | ~24 |
 | Siegebreaker | 0.70% | ~24 |
 | Ghost of Falaise | 0.70% | ~24 |
-| Souvenir hunter | 0.60% | ~21 |
 | Eagle Eyed | 0.60% | ~21 |
 | Shoot for the Moon | 0.60% | ~21 |
 | If You Go Down To The Woods Today | 0.50% | ~17 |
