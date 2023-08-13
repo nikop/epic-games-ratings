@@ -109,7 +109,7 @@
 | 100 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.78 | 0 | 512 |
 | 108 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 4,052 | 80 |
 | 108 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 6,651 | 52 |
-| 108 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 21,691 | 17 |
+| 108 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 21,714 | 17 |
 | 108 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.77 | 0 | 512 |
 | 108 | [Remnant 2](games/r/remnant_2.md) | 4.77 | 700 | 168 |
 | 108 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.77 | 37 | 431 |
@@ -141,35 +141,35 @@
 | 134 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 603 | 180 |
 | 134 | [Hypnospace Outlaw](games/h/hypnospace_outlaw.md) | 4.75 | 0 | 512 |
 | 134 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.75 | 0 | 512 |
-| 134 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 119 | 318 |
 | 134 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 561 | 186 |
 | 134 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.75 | 0 | 512 |
 | 134 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.75 | 0 | 512 |
 | 134 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.75 | 0 | 512 |
-| 147 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 0 | 512 |
-| 147 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 803 | 155 |
-| 147 | [Haven](games/h/haven.md) | 4.74 | 0 | 512 |
-| 147 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 7,003 | 48 |
-| 147 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 657 | 173 |
-| 147 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,922 | 49 |
-| 147 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.74 | 0 | 512 |
-| 147 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 35,872 | 14 |
-| 147 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 0 | 512 |
-| 147 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 0 | 512 |
-| 147 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 790 | 157 |
-| 147 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 642 | 175 |
-| 147 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 0 | 512 |
-| 160 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 410 | 211 |
-| 160 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.73 | 0 | 512 |
-| 160 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 593 | 182 |
-| 160 | [Outlast 2](games/o/outlast_2.md) | 4.73 | 0 | 512 |
-| 160 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.73 | 231 | 260 |
-| 160 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 0 | 512 |
-| 160 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.73 | 0 | 512 |
-| 160 | [The Machines Arena](games/t/the_machines_arena.md) | 4.73 | 0 | 512 |
-| 160 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 0 | 512 |
-| 160 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 0 | 512 |
-| 160 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 80 | 361 |
+| 146 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 0 | 512 |
+| 146 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 803 | 155 |
+| 146 | [Haven](games/h/haven.md) | 4.74 | 0 | 512 |
+| 146 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 7,003 | 48 |
+| 146 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 657 | 173 |
+| 146 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,922 | 49 |
+| 146 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.74 | 0 | 512 |
+| 146 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 35,918 | 14 |
+| 146 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 0 | 512 |
+| 146 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 0 | 512 |
+| 146 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 790 | 157 |
+| 146 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 642 | 175 |
+| 146 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 0 | 512 |
+| 159 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 410 | 211 |
+| 159 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.73 | 0 | 512 |
+| 159 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.73 | 119 | 318 |
+| 159 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 593 | 182 |
+| 159 | [Outlast 2](games/o/outlast_2.md) | 4.73 | 0 | 512 |
+| 159 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.73 | 231 | 260 |
+| 159 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 0 | 512 |
+| 159 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.73 | 0 | 512 |
+| 159 | [The Machines Arena](games/t/the_machines_arena.md) | 4.73 | 0 | 512 |
+| 159 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 0 | 512 |
+| 159 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 0 | 512 |
+| 159 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 80 | 361 |
 | 171 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.72 | 0 | 512 |
 | 171 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.72 | 84 | 358 |
 | 171 | [Fez](games/f/fez.md) | 4.72 | 23 | 489 |
@@ -247,7 +247,7 @@
 | 241 | [BLACKTAIL](games/b/blacktail.md) | 4.68 | 0 | 512 |
 | 241 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 7,323 | 47 |
 | 241 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,905 | 81 |
-| 241 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 3,310 | 89 |
+| 241 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 3,340 | 88 |
 | 241 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 301,915 | 3 |
 | 241 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 211,116 | 4 |
 | 241 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 512 |
@@ -387,7 +387,7 @@
 | 365 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 277 | 243 |
 | 365 | [Supraland](games/s/supraland.md) | 4.61 | 7,668 | 44 |
 | 365 | [The Colonists](games/t/the_colonists.md) | 4.61 | 0 | 512 |
-| 365 | [Warframe](games/w/warframe.md) | 4.61 | 16,435 | 22 |
+| 365 | [Warframe](games/w/warframe.md) | 4.61 | 16,445 | 22 |
 | 389 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.60 | 705 | 167 |
 | 389 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 13,162 | 28 |
 | 389 | [Brawlhalla](games/b/brawlhalla.md) | 4.60 | 269 | 246 |
@@ -438,7 +438,7 @@
 | 426 | [GRIT](games/g/grit.md) | 4.58 | 0 | 512 |
 | 426 | [Homeworld Remastered Collection](games/4/4311a0ee99724086b1a4f261b827d038.md) | 4.58 | 0 | 512 |
 | 426 | [Men of War Assault Squad](games/m/men_of_war_assault_squad.md) | 4.58 | 0 | 512 |
-| 426 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.58 | 6,574 | 53 |
+| 426 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.58 | 6,623 | 53 |
 | 426 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 1,488 | 121 |
 | 426 | [Sonic Origins](games/s/sonic_origins.md) | 4.58 | 125 | 311 |
 | 426 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 213 | 269 |
