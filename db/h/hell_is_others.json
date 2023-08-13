@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 355,
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -820,9 +820,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 254781,
+  "EOS_Progressed": 254784,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 410,
+  "EOS_NewPlayers": 405,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12575,6 +12575,11 @@
       "Time": "2023-08-13T12:08:28.4521922+00:00",
       "NumProgressed": 254781,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-13T14:06:59.0471246+00:00",
+      "NumProgressed": 254784,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -12634,7 +12639,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 78982
+      "UsersEstimate": 78983
     },
     {
       "ID": "BackHomeNTimes",
@@ -12858,7 +12863,7 @@
       "Name": "Adrenaline",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7643
+      "UsersEstimate": 7644
     },
     {
       "ID": "KillOtherWithMine",
@@ -13033,7 +13038,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 254781,
+      "Progressed": 254784,
       "Completed": 3
     }
   ],
@@ -13041,8 +13046,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-08-11T13:00:07.0347909+00:00",
-  "LastChanged_Achievements": "2023-08-13T13:09:52.5912822+00:00",
+  "LastChanged_Achievements": "2023-08-13T14:06:59.0471241+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:09.7223884+00:00",
-  "LastUpdate_Ratings": "2023-08-13T12:58:54.8532879+00:00",
-  "LastUpdate_Achievements": "2023-08-13T13:09:52.5913725+00:00"
+  "LastUpdate_Ratings": "2023-08-13T13:57:17.9452188+00:00",
+  "LastUpdate_Achievements": "2023-08-13T14:06:59.0472522+00:00"
 }

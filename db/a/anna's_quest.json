@@ -4,8 +4,8 @@
   "ProductSlug": "annas-quest-fbefa2",
   "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 15,
-  "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-02-01T16:00:00+00:00",
     "PcReleaseDate": "2015-07-01T22:00:00+00:00",
@@ -115,49 +115,49 @@
       "ID": "aq_achievement_10",
       "SetID": "7jh86ne",
       "Name": "Mystery solved",
-      "Percentage": 50,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "aq_achievement_11",
       "SetID": "7jh86ne",
       "Name": "Close the deal",
-      "Percentage": 41,
+      "Percentage": 44,
       "XP": 35,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "aq_achievement_12",
       "SetID": "7jh86ne",
       "Name": "Game Over!",
-      "Percentage": 44,
-      "XP": 15,
-      "UsersEstimate": 14
-    },
-    {
-      "ID": "aq_achievement_13",
-      "SetID": "7jh86ne",
-      "Name": "Honey, honey, honey\u2026",
       "Percentage": 47,
       "XP": 15,
       "UsersEstimate": 15
     },
     {
+      "ID": "aq_achievement_13",
+      "SetID": "7jh86ne",
+      "Name": "Honey, honey, honey\u2026",
+      "Percentage": 50,
+      "XP": 15,
+      "UsersEstimate": 16
+    },
+    {
       "ID": "aq_achievement_14",
       "SetID": "7jh86ne",
       "Name": "Show me your true self",
-      "Percentage": 41,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "aq_achievement_15",
       "SetID": "7jh86ne",
       "Name": "A very special drink",
-      "Percentage": 44,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "aq_achievement_16",
@@ -195,9 +195,9 @@
       "ID": "aq_achievement_2",
       "SetID": "7jh86ne",
       "Name": "Through the woods",
-      "Percentage": 63,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "aq_achievement_20",
@@ -235,9 +235,9 @@
       "ID": "aq_achievement_24",
       "SetID": "7jh86ne",
       "Name": "Book Worm",
-      "Percentage": 66,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "aq_achievement_25",
@@ -251,17 +251,17 @@
       "ID": "aq_achievement_26",
       "SetID": "7jh86ne",
       "Name": "Far away from home",
-      "Percentage": 47,
+      "Percentage": 50,
       "XP": 40,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "aq_achievement_27",
       "SetID": "7jh86ne",
       "Name": "Ring-a-ding-ding",
-      "Percentage": 34,
+      "Percentage": 38,
       "XP": 40,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "aq_achievement_28",
@@ -275,25 +275,25 @@
       "ID": "aq_achievement_29",
       "SetID": "7jh86ne",
       "Name": "Pain in the hands",
-      "Percentage": 34,
+      "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "aq_achievement_3",
       "SetID": "7jh86ne",
       "Name": "My lost nightingale",
-      "Percentage": 63,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "aq_achievement_30",
       "SetID": "7jh86ne",
       "Name": "Mischief maker",
-      "Percentage": 34,
+      "Percentage": 38,
       "XP": 35,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "aq_achievement_31",
@@ -315,25 +315,25 @@
       "ID": "aq_achievement_33",
       "SetID": "7jh86ne",
       "Name": "No posters allowed",
-      "Percentage": 38,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "aq_achievement_34",
       "SetID": "7jh86ne",
       "Name": "Clever reference #451",
-      "Percentage": 19,
+      "Percentage": 22,
       "XP": 35,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "aq_achievement_35",
       "SetID": "7jh86ne",
       "Name": "Ooh, it\u0027s shiny!",
-      "Percentage": 63,
+      "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "aq_achievement_36",
@@ -371,49 +371,49 @@
       "ID": "aq_achievement_4",
       "SetID": "7jh86ne",
       "Name": "Back to the anvil",
-      "Percentage": 56,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "aq_achievement_5",
       "SetID": "7jh86ne",
       "Name": "So soothing...",
-      "Percentage": 50,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "aq_achievement_6",
       "SetID": "7jh86ne",
       "Name": "Kekekeke...",
-      "Percentage": 47,
-      "XP": 15,
-      "UsersEstimate": 15
-    },
-    {
-      "ID": "aq_achievement_7",
-      "SetID": "7jh86ne",
-      "Name": "NOW GO AWAY!",
       "Percentage": 50,
       "XP": 15,
       "UsersEstimate": 16
     },
     {
+      "ID": "aq_achievement_7",
+      "SetID": "7jh86ne",
+      "Name": "NOW GO AWAY!",
+      "Percentage": 53,
+      "XP": 15,
+      "UsersEstimate": 17
+    },
+    {
       "ID": "aq_achievement_8",
       "SetID": "7jh86ne",
       "Name": "Sorry Grandpa",
-      "Percentage": 47,
+      "Percentage": 50,
       "XP": 35,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "aq_achievement_9",
       "SetID": "7jh86ne",
       "Name": "Roostwig has entered the building",
-      "Percentage": 53,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     }
   ],
   "AchievementSets": [
@@ -428,8 +428,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.0099942+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.5540856+00:00",
   "LastChanged": "2023-03-31T05:58:28.0099943+00:00",
-  "LastChanged_Achievements": "2023-08-13T13:05:18.0438689+00:00",
+  "LastChanged_Achievements": "2023-08-13T14:03:19.6032141+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:55.3569902+00:00",
-  "LastUpdate_Ratings": "2023-08-13T13:03:03.9956753+00:00",
-  "LastUpdate_Achievements": "2023-08-13T13:05:18.0438951+00:00"
+  "LastUpdate_Ratings": "2023-08-13T14:00:36.0400715+00:00",
+  "LastUpdate_Achievements": "2023-08-13T14:03:19.6032488+00:00"
 }

@@ -14,13 +14,13 @@ Rating: 4.62 (Ranked 344)
 | From Friends to Family | 5.00% | ~256 |
 | Stronger Together | 5.00% | ~256 |
 | Magical Synergy | 5.00% | ~256 |
+| My Final Form | 5.00% | ~256 |
 | Seat of Power | 5.00% | ~256 |
 | Intimidation Tactics | 5.00% | ~256 |
 | Blood of the Dragon | 5.00% | ~256 |
 | Mighty Hoard | 5.00% | ~256 |
 | There Can Only Be One! | 4.00% | ~204 |
 | Full Ascension | 4.00% | ~204 |
-| My Final Form | 4.00% | ~204 |
 | In a Liege of Your Own | 4.00% | ~204 |
 | Fiery Friend | 4.00% | ~204 |
 | Impenetrable Fortress | 4.00% | ~204 |

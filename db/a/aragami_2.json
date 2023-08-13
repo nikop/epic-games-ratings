@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 140,
-  "Ranking_EOS_NewPlayers": 67,
+  "Ranking_EOS_NewPlayers": 68,
   "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 40594,
+  "EOS_Progressed": 40595,
   "EOS_Completed": 207,
-  "EOS_NewPlayers": 596,
+  "EOS_NewPlayers": 595,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -11739,6 +11739,11 @@
       "Time": "2023-08-13T13:07:55.2606623+00:00",
       "NumProgressed": 40594,
       "NumCompleted": 207
+    },
+    {
+      "Time": "2023-08-13T14:05:39.6641922+00:00",
+      "NumProgressed": 40595,
+      "NumCompleted": 207
     }
   ],
   "TotalAchievements": 44,
@@ -11798,7 +11803,7 @@
       "Name": "Hatching",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3653
+      "UsersEstimate": 3654
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -11806,7 +11811,7 @@
       "Name": "Bonds",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 3653
+      "UsersEstimate": 3654
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -11870,7 +11875,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 32475
+      "UsersEstimate": 32476
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -11878,7 +11883,7 @@
       "Name": "Master Ninja",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 4059
+      "UsersEstimate": 4060
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -11894,7 +11899,7 @@
       "Name": "Get Over Here",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3653
+      "UsersEstimate": 3654
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -11918,7 +11923,7 @@
       "Name": "The Hidden Village",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 3653
+      "UsersEstimate": 3654
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -11990,7 +11995,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 25574
+      "UsersEstimate": 25575
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -11998,7 +12003,7 @@
       "Name": "Fashionable Assassin",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 10960
+      "UsersEstimate": 10961
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -12014,7 +12019,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 24356
+      "UsersEstimate": 24357
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -12022,7 +12027,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 27198
+      "UsersEstimate": 27199
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -12054,7 +12059,7 @@
       "Name": "I don\u2019t Care!",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 18267
+      "UsersEstimate": 18268
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -12086,7 +12091,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 37752
+      "UsersEstimate": 37753
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -12101,7 +12106,7 @@
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 40594,
+      "Progressed": 40595,
       "Completed": 207
     }
   ],
@@ -12109,8 +12114,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-06-11T14:58:10.4478603+00:00",
-  "LastChanged_Achievements": "2023-08-13T13:07:55.2606615+00:00",
+  "LastChanged_Achievements": "2023-08-13T14:05:39.6641907+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:05.4781923+00:00",
-  "LastUpdate_Ratings": "2023-08-13T13:01:59.9767599+00:00",
-  "LastUpdate_Achievements": "2023-08-13T13:07:55.2607449+00:00"
+  "LastUpdate_Ratings": "2023-08-13T13:59:49.3153417+00:00",
+  "LastUpdate_Achievements": "2023-08-13T14:05:39.6643152+00:00"
 }

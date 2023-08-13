@@ -7,20 +7,20 @@ Number of Ratings: 743  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Shoot it, man! Shoot it in the head! | 69.00% | ~29,842 |
-| Say goodbye, creep! | 66.00% | ~28,544 |
+| Say goodbye, creep! | 66.00% | ~28,545 |
 | Blood splattered | 65.00% | ~28,112 |
-| Choo choo! | 62.00% | ~26,814 |
+| Choo choo! | 62.00% | ~26,815 |
 | Groovy | 61.00% | ~26,382 |
 | Cleanup on aisle 4! | 57.00% | ~24,652 |
-| Gold | 50.00% | ~21,624 |
+| Gold | 50.00% | ~21,625 |
 | The boat can leave now...tell the crew | 49.00% | ~21,192 |
-| Stand back boy! | 47.00% | ~20,327 |
+| Stand back boy! | 47.00% | ~20,328 |
 | Give me something to shoot! | 46.00% | ~19,895 |
 | Weird science | 44.00% | ~19,030 |
 | Chain reaction | 44.00% | ~19,030 |
 | What did you say, Blain? | 42.00% | ~18,165 |
 | Look mummy! A shark! | 41.00% | ~17,732 |
-| In the dark dark woods... | 39.00% | ~16,867 |
+| In the dark dark woods... | 39.00% | ~16,868 |
 | Come and get it! It's a running buffet! | 38.00% | ~16,435 |
 | Double tap | 37.00% | ~16,002 |
 | All of this has happened before… | 36.00% | ~15,570 |
@@ -31,18 +31,18 @@ Number of Ratings: 743  (23.09.2022)
 | You've got red on you | 34.00% | ~14,705 |
 | You're all going to die down here | 32.00% | ~13,840 |
 | He did Nazi that coming | 32.00% | ~13,840 |
-| Kill of the week | 31.00% | ~13,407 |
+| Kill of the week | 31.00% | ~13,408 |
 | I never liked them anyway | 30.00% | ~12,975 |
 | Is it over? | 28.00% | ~12,110 |
-| Got your back | 27.00% | ~11,677 |
+| Got your back | 27.00% | ~11,678 |
 | Gore soaked | 24.00% | ~10,380 |
-| Shock therapy | 23.00% | ~9,947 |
-| Leave the limbs you've lost | 23.00% | ~9,947 |
+| Shock therapy | 23.00% | ~9,948 |
+| Leave the limbs you've lost | 23.00% | ~9,948 |
 | Everyone's a mad scientist, life is the lab | 18.00% | ~7,785 |
 | Take them down screaming | 18.00% | ~7,785 |
-| Bad Blood | 17.00% | ~7,352 |
-| Weapons expert | 17.00% | ~7,352 |
-| The bigger they are... | 15.00% | ~6,487 |
+| Bad Blood | 17.00% | ~7,353 |
+| Weapons expert | 17.00% | ~7,353 |
+| The bigger they are... | 15.00% | ~6,488 |
 | I'm going deeper underground | 14.00% | ~6,055 |
 | Well equipped | 13.00% | ~5,622 |
 | Into the deep | 12.00% | ~5,190 |
@@ -50,11 +50,11 @@ Number of Ratings: 743  (23.09.2022)
 | Plane sailing | 8.00% | ~3,460 |
 | I can do anything I want. I got guns | 8.00% | ~3,460 |
 | Send me an angel | 8.00% | ~3,460 |
-| This is no Sunday School picnic! | 7.00% | ~3,027 |
-| I never redoubted you! | 7.00% | ~3,027 |
-| Gotcha, didn't I? | 7.00% | ~3,027 |
-| A gross gross | 7.00% | ~3,027 |
-| Hail to the king, baby! | 7.00% | ~3,027 |
+| This is no Sunday School picnic! | 7.00% | ~3,028 |
+| I never redoubted you! | 7.00% | ~3,028 |
+| Gotcha, didn't I? | 7.00% | ~3,028 |
+| A gross gross | 7.00% | ~3,028 |
+| Hail to the king, baby! | 7.00% | ~3,028 |
 | Something wicked this way comes | 6.00% | ~2,595 |
 | Not today you won't | 6.00% | ~2,595 |
 | Take a little bit of Italy with you | 6.00% | ~2,595 |
@@ -66,14 +66,14 @@ Number of Ratings: 743  (23.09.2022)
 | They're coming to get you Barbara | 4.00% | ~1,730 |
 | Total protonic reversal | 4.00% | ~1,730 |
 | A friend in need | 4.00% | ~1,730 |
-| People don't change. We go round in circles | 3.00% | ~1,297 |
-| The blighters got through a second time. | 3.00% | ~1,297 |
-| I'm a survivor! | 3.00% | ~1,297 |
+| People don't change. We go round in circles | 3.00% | ~1,298 |
+| The blighters got through a second time. | 3.00% | ~1,298 |
+| I'm a survivor! | 3.00% | ~1,298 |
 | That's a lot of them, and only 4 of us | 2.00% | ~865 |
 | Just me and my trusty sidearm | 1.00% | ~432 |
 | None more hard | 0.50% | ~216 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,249 (Ranked 91)  
+Progressed: 43,250 (Ranked 91)  
 Completed: 25 (0.06%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,16 +188,16 @@ Completed: 25 (0.06%) (Ranked 214)
 | 2023-08-10 | 43,235 | 25 |
 | 2023-08-11 | 43,238 | 25 |
 | 2023-08-12 | 43,244 | 25 |
-| 2023-08-13 | 43,249 | 25 |
+| 2023-08-13 | 43,250 | 25 |
 ## Awards
 Max (Great Boss Battles): 811  (Ranked 154)  
-Sum: 2,465 (Ranked 175)  
+Sum: 2,466 (Ranked 175)  
 Diff (max vs sum): -21  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 811 |
 | This game is Great for Beginners | 253 |
-| This game has Diverse Characters | 211 |
+| This game has Diverse Characters | 212 |
 | This game is Highly Recommended | 210 |
 | This game has Amazing Storytelling | 207 |
 | This game is Extremely Fun | 206 |
@@ -373,3 +373,4 @@ Diff (max vs sum): -21
 | 2023-08-04 | 4.69 | - | 809 | 2,462 |
 | 2023-08-08 | 4.69 | - | 811 | 2,464 |
 | 2023-08-12 | 4.69 | - | 811 | 2,465 |
+| 2023-08-13 | 4.69 | - | 811 | 2,466 |

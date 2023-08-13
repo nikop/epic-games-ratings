@@ -17,6 +17,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learned | 2.00% | ~268 |
 | Mason | 2.00% | ~268 |
 | Noble | 2.00% | ~268 |
+| Pioneer | 2.00% | ~268 |
 | Strong | 2.00% | ~268 |
 | Friendly Family | 2.00% | ~268 |
 | Hanging Gardens | 2.00% | ~268 |
@@ -34,7 +35,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great | 1.00% | ~134 |
 | Keystone | 1.00% | ~134 |
 | Magnificent | 1.00% | ~134 |
-| Pioneer | 1.00% | ~134 |
 | Warrior | 1.00% | ~134 |
 | Wise | 1.00% | ~134 |
 | Developing Cities | 1.00% | ~134 |

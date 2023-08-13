@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -3966,9 +3966,9 @@
       "ID": "ACH_MISSION_08",
       "SetID": "816efe",
       "Name": "Deep Into Insanity",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 818
+      "UsersEstimate": 850
     },
     {
       "ID": "ACH_MISSION_09",
@@ -4087,8 +4087,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-08-12T16:02:17.3263643+00:00",
-  "LastChanged_Achievements": "2023-08-13T13:06:33.8691648+00:00",
+  "LastChanged_Achievements": "2023-08-13T14:04:25.058312+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:11.0569937+00:00",
-  "LastUpdate_Ratings": "2023-08-13T13:03:25.104316+00:00",
-  "LastUpdate_Achievements": "2023-08-13T13:06:33.8692093+00:00"
+  "LastUpdate_Ratings": "2023-08-13T14:00:50.8079451+00:00",
+  "LastUpdate_Achievements": "2023-08-13T14:04:25.0583732+00:00"
 }
