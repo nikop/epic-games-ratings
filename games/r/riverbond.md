@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,575 |
 | Point Taken | 0.10% | ~525 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 524,869 (Ranked 30)  
+Progressed: 524,869 (Ranked 31)  
 Completed: 458 (0.09%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |

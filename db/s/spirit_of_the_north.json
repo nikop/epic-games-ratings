@@ -324,9 +324,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 65381,
+  "EOS_Progressed": 65382,
   "EOS_Completed": 345,
-  "EOS_NewPlayers": 707,
+  "EOS_NewPlayers": 706,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -12624,6 +12624,11 @@
       "Time": "2023-08-13T01:45:40.6332059+00:00",
       "NumProgressed": 65381,
       "NumCompleted": 345
+    },
+    {
+      "Time": "2023-08-13T02:18:07.4110377+00:00",
+      "NumProgressed": 65382,
+      "NumCompleted": 345
     }
   ],
   "TotalAchievements": 24,
@@ -12651,7 +12656,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 44459
+      "UsersEstimate": 44460
     },
     {
       "ID": "BEST_FRIENDS",
@@ -12691,7 +12696,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 18960
+      "UsersEstimate": 18961
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -12763,7 +12768,7 @@
       "Name": "PLAGUE DOCTOR",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 5230
+      "UsersEstimate": 5231
     },
     {
       "ID": "SPIRITED_AWAY",
@@ -12771,7 +12776,7 @@
       "Name": "SPIRITED AWAY",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 5230
+      "UsersEstimate": 5231
     },
     {
       "ID": "SPIRIT_BARK",
@@ -12826,7 +12831,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 65381,
+      "Progressed": 65382,
       "Completed": 345
     }
   ],
@@ -12834,8 +12839,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-08-13T01:45:40.6332053+00:00",
+  "LastChanged_Achievements": "2023-08-13T02:18:07.4110369+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:14.4759947+00:00",
-  "LastUpdate_Ratings": "2023-08-13T01:41:29.7221742+00:00",
-  "LastUpdate_Achievements": "2023-08-13T01:45:40.6333054+00:00"
+  "LastUpdate_Ratings": "2023-08-13T02:14:18.3491913+00:00",
+  "LastUpdate_Achievements": "2023-08-13T02:18:07.4111334+00:00"
 }

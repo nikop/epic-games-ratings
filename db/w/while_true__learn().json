@@ -490,9 +490,9 @@
       "Count": 134
     }
   ],
-  "EOS_Progressed": 600141,
+  "EOS_Progressed": 600142,
   "EOS_Completed": 513,
-  "EOS_NewPlayers": 899,
+  "EOS_NewPlayers": 898,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -12965,6 +12965,11 @@
       "Time": "2023-08-13T01:46:36.4698932+00:00",
       "NumProgressed": 600141,
       "NumCompleted": 513
+    },
+    {
+      "Time": "2023-08-13T02:19:04.8554901+00:00",
+      "NumProgressed": 600142,
+      "NumCompleted": 513
     }
   ],
   "TotalAchievements": 28,
@@ -13096,7 +13101,7 @@
       "Name": "More FPS for the FPS god!",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 294069
+      "UsersEstimate": 294070
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -13104,7 +13109,7 @@
       "Name": "First.. Bit?",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 558131
+      "UsersEstimate": 558132
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -13136,7 +13141,7 @@
       "Name": "Error: Stack Overflow",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 396093
+      "UsersEstimate": 396094
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -13144,7 +13149,7 @@
       "Name": "RNG is my best friend now",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 108025
+      "UsersEstimate": 108026
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -13199,15 +13204,15 @@
     {
       "ID": "c2jc46f",
       "IsBase": true,
-      "Progressed": 600141,
+      "Progressed": 600142,
       "Completed": 513
     }
   ],
   "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.0744995+00:00",
   "LastChanged": "2023-07-16T08:00:08.7749167+00:00",
-  "LastChanged_Achievements": "2023-08-13T01:46:36.4698926+00:00",
+  "LastChanged_Achievements": "2023-08-13T02:19:04.8554897+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:46.582638+00:00",
-  "LastUpdate_Ratings": "2023-08-13T01:41:05.1615875+00:00",
-  "LastUpdate_Achievements": "2023-08-13T01:46:36.469996+00:00"
+  "LastUpdate_Ratings": "2023-08-13T02:13:49.3627095+00:00",
+  "LastUpdate_Achievements": "2023-08-13T02:19:04.8555885+00:00"
 }

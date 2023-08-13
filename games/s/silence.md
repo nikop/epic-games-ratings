@@ -14,16 +14,16 @@
 | Keep away from children | 34.00% | ~35 |
 | Open up wide | 30.00% | ~31 |
 | Chapter II | 30.00% | ~31 |
+| Achoo!! | 29.00% | ~30 |
 | Let the boot talk | 28.00% | ~29 |
-| Achoo!! | 28.00% | ~29 |
 | Chapter III | 27.00% | ~28 |
 | Like a moth in the Wind | 27.00% | ~28 |
 | Bubblekillerfamily | 24.00% | ~25 |
 | Quite a buggy game | 23.00% | ~24 |
 | Mirror mirror on the wall... | 23.00% | ~24 |
 | Shadow on the wall | 22.00% | ~23 |
+| Fastidious Clown | 22.00% | ~23 |
 | Handyman | 21.00% | ~22 |
-| Fastidious Clown | 21.00% | ~22 |
 | It's not easy being green! | 20.00% | ~21 |
 | Home is where the heart is | 20.00% | ~21 |
 | Pacifist | 18.00% | ~19 |
@@ -46,9 +46,9 @@
 | Checkmate in 8 moves | 3.00% | ~3 |
 | Summit attempt | 2.00% | ~2 |
 | Fine Listener | 2.00% | ~2 |
+| The Green, the Fat, the Ugly | 2.00% | ~2 |
 | Sherlock Holmes | 1.00% | ~1 |
 | Done. First! | 1.00% | ~1 |
-| The Green, the Fat, the Ugly | 1.00% | ~1 |
 | Do not feed the fish! | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 103 (Ranked 318)  

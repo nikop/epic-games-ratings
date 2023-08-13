@@ -1190,9 +1190,9 @@
       "Count": 67
     }
   ],
-  "EOS_Progressed": 5255,
+  "EOS_Progressed": 5256,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 150,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -7335,6 +7335,11 @@
       "Time": "2023-08-13T01:45:47.2922274+00:00",
       "NumProgressed": 5255,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-08-13T02:18:14.456263+00:00",
+      "NumProgressed": 5256,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 31,
@@ -7378,7 +7383,7 @@
       "Name": "Green Thumb",
       "Percentage": 66,
       "XP": 50,
-      "UsersEstimate": 3468
+      "UsersEstimate": 3469
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -7394,7 +7399,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 3731
+      "UsersEstimate": 3732
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -7418,7 +7423,7 @@
       "Name": "Oh Deer!",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 998
+      "UsersEstimate": 999
     },
     {
       "ID": "HUNT_RABBIT_20",
@@ -7490,7 +7495,7 @@
       "Name": "Putting Food on the Table",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 3153
+      "UsersEstimate": 3154
     },
     {
       "ID": "SURVIVE_FIRST_AUTUMN",
@@ -7498,7 +7503,7 @@
       "Name": "Winter Is Coming",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1366
+      "UsersEstimate": 1367
     },
     {
       "ID": "SURVIVE_FIRST_DAY",
@@ -7506,7 +7511,7 @@
       "Name": "The First Day",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 3573
+      "UsersEstimate": 3574
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -7538,7 +7543,7 @@
       "Name": "All Year Round",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 998
+      "UsersEstimate": 999
     },
     {
       "ID": "SURVIVE_SEVEN_DAY",
@@ -7546,7 +7551,7 @@
       "Name": "The First Week",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 2785
+      "UsersEstimate": 2786
     },
     {
       "ID": "UNLOCK_RESEARCH",
@@ -7562,7 +7567,7 @@
       "Name": "Adept Researcher",
       "Percentage": 44,
       "XP": 75,
-      "UsersEstimate": 2312
+      "UsersEstimate": 2313
     },
     {
       "ID": "UNLOCK_RESEARCH_25",
@@ -7578,7 +7583,7 @@
       "Name": "Onward",
       "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 2890
+      "UsersEstimate": 2891
     },
     {
       "ID": "UNLOCK_RESEARCH_5",
@@ -7586,22 +7591,22 @@
       "Name": "Studious Researcher",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 2680
+      "UsersEstimate": 2681
     }
   ],
   "AchievementSets": [
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 5255,
+      "Progressed": 5256,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-08-09T23:00:38.5654569+00:00",
-  "LastChanged_Achievements": "2023-08-13T01:45:47.2922268+00:00",
+  "LastChanged_Achievements": "2023-08-13T02:18:14.456262+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:55.0917319+00:00",
-  "LastUpdate_Ratings": "2023-08-13T01:41:59.0965521+00:00",
-  "LastUpdate_Achievements": "2023-08-13T01:45:47.2922898+00:00"
+  "LastUpdate_Ratings": "2023-08-13T02:14:48.4192352+00:00",
+  "LastUpdate_Achievements": "2023-08-13T02:18:14.4563196+00:00"
 }

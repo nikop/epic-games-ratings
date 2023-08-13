@@ -168,9 +168,9 @@
       "ID": "destroy_frigate",
       "SetID": "94981fl",
       "Name": "Frigate",
-      "Percentage": 53,
+      "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "destroy_heavy_cruiser",
@@ -304,9 +304,9 @@
       "ID": "space_car",
       "SetID": "94981fl",
       "Name": "space car!",
-      "Percentage": 58,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "super_combo_10x",
@@ -383,8 +383,8 @@
   ],
   "FirstSeen": "2023-08-06T03:57:23.4648086+00:00",
   "FirstSeenAchievements": "2023-07-21T11:01:15.84918+00:00",
-  "LastChanged_Achievements": "2023-08-13T01:45:48.2110672+00:00",
+  "LastChanged_Achievements": "2023-08-13T02:18:15.3345654+00:00",
   "LastUpdate_AppInfo": "2023-08-11T13:00:04.7910309+00:00",
-  "LastUpdate_Ratings": "2023-08-13T01:38:51.7892542+00:00",
-  "LastUpdate_Achievements": "2023-08-13T01:45:48.2110894+00:00"
+  "LastUpdate_Ratings": "2023-08-13T02:11:23.8556452+00:00",
+  "LastUpdate_Achievements": "2023-08-13T02:18:15.3345891+00:00"
 }

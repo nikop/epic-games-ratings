@@ -6,19 +6,19 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~67,682 |
-| Powergamer | 27.00% | ~65,265 |
-| Barely scratched the surface | 25.00% | ~60,430 |
-| Write that down | 24.00% | ~58,013 |
+| I will finish what you started | 28.00% | ~67,683 |
+| Powergamer | 27.00% | ~65,266 |
+| Barely scratched the surface | 25.00% | ~60,431 |
+| Write that down | 24.00% | ~58,014 |
 | Guns, lots of guns | 12.00% | ~29,007 |
-| Collector | 11.00% | ~26,589 |
+| Collector | 11.00% | ~26,590 |
 | Elementary! | 9.00% | ~21,755 |
 | Pumpkin Jack | 8.00% | ~19,338 |
 | Wake up! | 8.00% | ~19,338 |
 | It's honest work | 7.00% | ~16,921 |
 | Griever | 7.00% | ~16,921 |
-| Me smart | 6.00% | ~14,503 |
-| Trash compactor | 6.00% | ~14,503 |
+| Me smart | 6.00% | ~14,504 |
+| Trash compactor | 6.00% | ~14,504 |
 | Good listener | 5.00% | ~12,086 |
 | Valedictorian | 5.00% | ~12,086 |
 | BOY! | 4.00% | ~9,669 |
@@ -42,7 +42,7 @@ Number of Ratings: 33  (23.09.2022)
 | SysOp on duty | 1.00% | ~2,417 |
 | Take the blue pill | 1.00% | ~2,417 |
 | The power of three | 1.00% | ~2,417 |
-| A true blacksmith | 0.90% | ~2,175 |
+| A true blacksmith | 0.90% | ~2,176 |
 | Let's try another | 0.80% | ~1,934 |
 | Home run | 0.80% | ~1,934 |
 | I have the high ground | 0.70% | ~1,692 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~483 |
 | Memory 5 | 0.10% | ~242 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,722 (Ranked 47)  
+Progressed: 241,725 (Ranked 47)  
 Completed: 7 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,7 +174,7 @@ Completed: 7 (0.00%) (Ranked 255)
 | 2023-08-10 | 241,397 | 7 |
 | 2023-08-11 | 241,545 | 7 |
 | 2023-08-12 | 241,707 | 7 |
-| 2023-08-13 | 241,722 | 7 |
+| 2023-08-13 | 241,725 | 7 |
 ## Awards
 Max (Character Customization): 78  (Ranked 363)  
 Sum: 78 (Ranked 427)  

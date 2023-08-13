@@ -568,9 +568,9 @@
       "Count": 215
     }
   ],
-  "EOS_Progressed": 465122,
+  "EOS_Progressed": 465126,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 516,
+  "EOS_NewPlayers": 517,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12453,6 +12453,11 @@
       "Time": "2023-08-13T01:46:21.761212+00:00",
       "NumProgressed": 465122,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-08-13T02:18:50.1902074+00:00",
+      "NumProgressed": 465126,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 79,
@@ -12480,7 +12485,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 1860
+      "UsersEstimate": 1861
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -12488,7 +12493,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 1860
+      "UsersEstimate": 1861
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -12584,7 +12589,7 @@
       "Name": "Mother",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 1860
+      "UsersEstimate": 1861
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -12912,7 +12917,7 @@
       "Name": "Plan for the worst",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 1860
+      "UsersEstimate": 1861
     },
     {
       "ID": "achievement_win_expedition_without_monster_noloss",
@@ -12976,7 +12981,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 1860
+      "UsersEstimate": 1861
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -13095,21 +13100,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 9056,
+      "Progressed": 9060,
       "Completed": 2355
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 465122,
+      "Progressed": 465126,
       "Completed": 17
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-08-11T15:01:05.19941+00:00",
-  "LastChanged_Achievements": "2023-08-13T01:46:21.7612114+00:00",
+  "LastChanged_Achievements": "2023-08-13T02:18:50.190207+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:04.9098517+00:00",
-  "LastUpdate_Ratings": "2023-08-13T01:41:20.3507448+00:00",
-  "LastUpdate_Achievements": "2023-08-13T01:46:21.7613783+00:00"
+  "LastUpdate_Ratings": "2023-08-13T02:14:10.1088492+00:00",
+  "LastUpdate_Achievements": "2023-08-13T02:18:50.1903407+00:00"
 }

@@ -380,9 +380,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17697,
+  "EOS_Progressed": 17698,
   "EOS_Completed": 361,
-  "EOS_NewPlayers": 569,
+  "EOS_NewPlayers": 568,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 2.04,
   "EosHistory": [
@@ -12510,6 +12510,11 @@
       "Time": "2023-08-13T01:46:32.3922417+00:00",
       "NumProgressed": 17697,
       "NumCompleted": 361
+    },
+    {
+      "Time": "2023-08-13T02:19:00.553113+00:00",
+      "NumProgressed": 17698,
+      "NumCompleted": 361
     }
   ],
   "TotalAchievements": 20,
@@ -12521,7 +12526,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 3008
+      "UsersEstimate": 3009
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -12673,22 +12678,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 3362
+      "UsersEstimate": 3363
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 17697,
+      "Progressed": 17698,
       "Completed": 361
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-08-12T01:39:46.4098224+00:00",
-  "LastChanged_Achievements": "2023-08-13T01:46:32.3922412+00:00",
+  "LastChanged_Achievements": "2023-08-13T02:19:00.5531125+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:58:04.1120676+00:00",
-  "LastUpdate_Ratings": "2023-08-13T01:43:05.7783904+00:00",
-  "LastUpdate_Achievements": "2023-08-13T01:46:32.3923369+00:00"
+  "LastUpdate_Ratings": "2023-08-13T02:14:53.8124469+00:00",
+  "LastUpdate_Achievements": "2023-08-13T02:19:00.5532026+00:00"
 }
