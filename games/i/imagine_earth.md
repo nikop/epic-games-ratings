@@ -11,7 +11,7 @@ Number of Ratings: 22  (23.09.2022)
 | Campaign Bronze | 36.00% | ~147 |
 | Lorian | 31.00% | ~126 |
 | Metropolis | 27.00% | ~110 |
-| Rounos | 23.00% | ~94 |
+| Rounos | 24.00% | ~98 |
 | Campaign Silver | 21.00% | ~85 |
 | Magni | 21.00% | ~85 |
 | Bora | 18.00% | ~73 |

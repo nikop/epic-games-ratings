@@ -39,12 +39,12 @@ Rating: 4.44 (Ranked 643)
 | Die Nussknacker Sweet! | 2.00% | ~69 |
 | The Long Game | 1.00% | ~35 |
 | Tinkerer | 1.00% | ~35 |
+| It'll Buff Right Out | 1.00% | ~35 |
 | Road Rage | 1.00% | ~35 |
 | Don't hold your breath | 1.00% | ~35 |
 | Herr Today, Gone Tomorrow | 1.00% | ~34 |
 | Shipbreaker | 1.00% | ~34 |
 | Burn after reading | 0.90% | ~31 |
-| It'll Buff Right Out | 0.90% | ~31 |
 | Sink or Swim | 0.90% | ~31 |
 | Strategist | 0.80% | ~28 |
 | From Paris with Love | 0.80% | ~28 |

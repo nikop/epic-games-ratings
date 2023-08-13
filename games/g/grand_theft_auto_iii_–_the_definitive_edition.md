@@ -12,7 +12,7 @@ Rating: 4.16 (Ranked 878)
 | A Marked Man | 25.00% | ~1,879 |
 | Street Sweeper | 18.00% | ~1,353 |
 | Liberty City Minute | 17.00% | ~1,278 |
-| Offshore Delivery | 13.00% | ~977 |
+| Offshore Delivery | 14.00% | ~1,052 |
 | Dirty Money | 12.00% | ~902 |
 | By a Mile | 10.00% | ~752 |
 | Not So Fast | 10.00% | ~752 |

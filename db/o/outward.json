@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 353,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -496,9 +496,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3298,
+  "EOS_Progressed": 3299,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4056,6 +4056,11 @@
       "Time": "2023-08-13T11:04:36.0369897+00:00",
       "NumProgressed": 3298,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-13T19:04:48.9148198+00:00",
+      "NumProgressed": 3299,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 42,
@@ -4107,7 +4112,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1418
+      "UsersEstimate": 1419
     },
     {
       "ID": "CrowdPleaser",
@@ -4131,7 +4136,7 @@
       "Name": "Eureka",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1055
+      "UsersEstimate": 1056
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -4257,9 +4262,9 @@
       "ID": "ReadyforWinter_42",
       "SetID": "c4hee28",
       "Name": "Ready for Winter",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 2111
+      "UsersEstimate": 2144
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -4273,9 +4278,9 @@
       "ID": "ScourgeSlayer_26",
       "SetID": "c4hee28",
       "Name": "Scourge Slayer",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 857
+      "UsersEstimate": 825
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -4291,7 +4296,7 @@
       "Name": "Tapped!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1220
+      "UsersEstimate": 1221
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -4402,15 +4407,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3298,
+      "Progressed": 3299,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-07-11T02:15:21.6079736+00:00",
-  "LastChanged_Achievements": "2023-08-13T18:04:41.8167575+00:00",
+  "LastChanged_Achievements": "2023-08-13T19:04:48.9148192+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:38.7353115+00:00",
-  "LastUpdate_Ratings": "2023-08-13T17:59:36.2479026+00:00",
-  "LastUpdate_Achievements": "2023-08-13T18:04:41.8168244+00:00"
+  "LastUpdate_Ratings": "2023-08-13T18:59:31.0584041+00:00",
+  "LastUpdate_Achievements": "2023-08-13T19:04:48.9148788+00:00"
 }

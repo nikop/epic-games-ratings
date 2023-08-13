@@ -4,7 +4,7 @@
   "ProductSlug": "stray-blade",
   "Ranking_EOS_Progress": 369,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -362,9 +362,9 @@
       "ID": "ACH_EQUIP_MAX_RUNES_AT_ONCE",
       "SetID": "7i20me3",
       "Name": "Locked and Loaded",
-      "Percentage": 4,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_FIND_ALL_COLLECTIBLES_BATTLEFIELDS",
@@ -434,9 +434,9 @@
       "ID": "ACH_FIND_ALL_RUNES",
       "SetID": "7i20me3",
       "Name": "Wizard",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_FIND_ALL_STORY_MURALS",
@@ -482,9 +482,9 @@
       "ID": "ACH_FIND_ALL_TELEPORTERS",
       "SetID": "7i20me3",
       "Name": "Globetrotter",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_FIND_FLUX_BATTERY",
@@ -586,9 +586,9 @@
       "ID": "ACH_SKILLTREE_PROGRESSION_50",
       "SetID": "7i20me3",
       "Name": "Expert",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_UNLOCK_ABILITY_INTIUM",
@@ -633,8 +633,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-08-13T18:07:02.4804621+00:00",
+  "LastChanged_Achievements": "2023-08-13T19:06:59.5799876+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:32.6362658+00:00",
-  "LastUpdate_Ratings": "2023-08-13T17:59:27.6656247+00:00",
-  "LastUpdate_Achievements": "2023-08-13T18:07:02.480493+00:00"
+  "LastUpdate_Ratings": "2023-08-13T18:59:24.0078222+00:00",
+  "LastUpdate_Achievements": "2023-08-13T19:06:59.5800357+00:00"
 }

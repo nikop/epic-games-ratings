@@ -20,13 +20,13 @@
 | Fighting is cool | 71.00% | ~176 |
 | No bullying more | 70.00% | ~174 |
 | Hello, world! | 70.00% | ~174 |
-| Pal of your father? | 67.00% | ~166 |
+| Pal of your father? | 68.00% | ~169 |
 | Employee of the month | 66.00% | ~164 |
 | Spirit of the past | 65.00% | ~161 |
 | Law student | 63.00% | ~156 |
-| Workout professional | 60.00% | ~149 |
+| Workout professional | 61.00% | ~151 |
+| It's good to be alive | 61.00% | ~151 |
 | Little hacker | 60.00% | ~149 |
-| It's good to be alive | 60.00% | ~149 |
 | Handyman | 59.00% | ~146 |
 | Champion – starter pack | 59.00% | ~146 |
 | Own four walls | 59.00% | ~146 |
@@ -71,7 +71,7 @@
 | Better cooking at home | 27.00% | ~67 |
 | The only right decision | 26.00% | ~64 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 248 (Ranked 269)  
+Progressed: 248 (Ranked 270)  
 Completed: 8 (3.23%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |

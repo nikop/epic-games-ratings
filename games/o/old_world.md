@@ -99,6 +99,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Circus Maximus | 0.50% | ~67 |
 | Hagia Sophia | 0.50% | ~67 |
 | Church of the Holy Sepulchre | 0.50% | ~67 |
+| Adur Burzen-Mihr | 0.50% | ~67 |
 | Via Recta Souk | 0.50% | ~67 |
 | Learn to Play 3 | 0.50% | ~67 |
 | Carthage | 0.50% | ~67 |
@@ -119,7 +120,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Clerics | 0.40% | ~54 |
 | Hunters | 0.40% | ~54 |
 | Landowners | 0.40% | ~54 |
-| Adur Burzen-Mihr | 0.40% | ~54 |
 | Babylonia | 0.40% | ~54 |
 | Rome | 0.40% | ~54 |
 | Industrial Progress | 0.40% | ~54 |

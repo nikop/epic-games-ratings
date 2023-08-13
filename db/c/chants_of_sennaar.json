@@ -3,8 +3,8 @@
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 373,
-  "Ranking_EOS_Completed": 29,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_Completed": 30,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -17,11 +17,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 43,
+  "EOS_Progressed": 44,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 9.3,
+  "EOS_Completed_Percentage": 9.09,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -252,6 +252,11 @@
       "Time": "2023-08-12T07:08:31.2362037+00:00",
       "NumProgressed": 43,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-13T19:06:29.5878064+00:00",
+      "NumProgressed": 44,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 25,
@@ -261,7 +266,7 @@
       "ID": "END_BAD",
       "SetID": "2gma9an",
       "Name": "I did it",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 100,
       "UsersEstimate": 8
     },
@@ -277,7 +282,7 @@
       "ID": "META_ALL_LINK",
       "SetID": "2gma9an",
       "Name": "Peace walker",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 100,
       "UsersEstimate": 5
     },
@@ -285,7 +290,7 @@
       "ID": "META_ALL_TERMINAL",
       "SetID": "2gma9an",
       "Name": "Cable guy",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 50,
       "UsersEstimate": 9
     },
@@ -293,7 +298,7 @@
       "ID": "META_FIRST_LINK",
       "SetID": "2gma9an",
       "Name": "A good beginning",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 20,
       "UsersEstimate": 9
     },
@@ -301,7 +306,7 @@
       "ID": "META_HALF_LINK",
       "SetID": "2gma9an",
       "Name": "Half the way",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 50,
       "UsersEstimate": 5
     },
@@ -309,7 +314,7 @@
       "ID": "META_RESULT_1-2",
       "SetID": "2gma9an",
       "Name": "Open door",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -373,7 +378,7 @@
       "ID": "OPTIONNAL_GAMES",
       "SetID": "2gma9an",
       "Name": "True G4M3R",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -389,7 +394,7 @@
       "ID": "OPTIONNAL_WEAPONS",
       "SetID": "2gma9an",
       "Name": "Fashion victim",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -405,7 +410,7 @@
       "ID": "PROGRESS_FIRST_PAGE",
       "SetID": "2gma9an",
       "Name": "That\u0027s the spirit",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 11
     },
@@ -462,13 +467,13 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 43,
+      "Progressed": 44,
       "Completed": 4
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-08-13T18:06:30.896466+00:00",
+  "LastChanged_Achievements": "2023-08-13T19:06:29.5878056+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:49.4047854+00:00",
-  "LastUpdate_Ratings": "2023-08-13T18:00:49.6980971+00:00",
-  "LastUpdate_Achievements": "2023-08-13T18:06:30.8964803+00:00"
+  "LastUpdate_Ratings": "2023-08-13T19:00:42.1701633+00:00",
+  "LastUpdate_Achievements": "2023-08-13T19:06:29.5878304+00:00"
 }

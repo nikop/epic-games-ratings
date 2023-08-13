@@ -10269,10 +10269,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 199218,
       "NumberOfAwardsMax": 75429
+    },
+    {
+      "Time": "2023-08-13T18:59:30.8950324+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 199245,
+      "NumberOfAwardsMax": 75429
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 199218,
+  "NumberOfAwards": 199245,
   "NumberOfAwardsMax": 75429,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10304,7 +10310,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 8823
+      "Count": 8842
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -10346,12 +10352,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 5566
+      "Count": 5574
     }
   ],
-  "EOS_Progressed": 870729,
+  "EOS_Progressed": 870732,
   "EOS_Completed": 1962,
-  "EOS_NewPlayers": 1129,
+  "EOS_NewPlayers": 1123,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -22999,6 +23005,11 @@
       "Time": "2023-08-13T18:05:45.4169538+00:00",
       "NumProgressed": 870729,
       "NumCompleted": 1962
+    },
+    {
+      "Time": "2023-08-13T19:05:48.1407928+00:00",
+      "NumProgressed": 870732,
+      "NumCompleted": 1962
     }
   ],
   "TotalAchievements": 44,
@@ -23034,7 +23045,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 156731
+      "UsersEstimate": 156732
     },
     {
       "ID": "Denied",
@@ -23042,7 +23053,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 339584
+      "UsersEstimate": 339585
     },
     {
       "ID": "FollowingTheRiver",
@@ -23082,7 +23093,7 @@
       "Name": "Gun Fu",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 130609
+      "UsersEstimate": 130610
     },
     {
       "ID": "Gunslinger",
@@ -23154,7 +23165,7 @@
       "Name": "Breathtaking",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 69658
+      "UsersEstimate": 69659
     },
     {
       "ID": "NoMansLand",
@@ -23178,7 +23189,7 @@
       "Name": "Life of the Road",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 182853
+      "UsersEstimate": 182854
     },
     {
       "ID": "Roleplayer",
@@ -23186,7 +23197,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 252511
+      "UsersEstimate": 252512
     },
     {
       "ID": "Specialist",
@@ -23226,7 +23237,7 @@
       "Name": "The Fool",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 592096
+      "UsersEstimate": 592098
     },
     {
       "ID": "TheHermit",
@@ -23234,7 +23245,7 @@
       "Name": "The Hermit",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 217682
+      "UsersEstimate": 217683
     },
     {
       "ID": "TheHightPriestess",
@@ -23242,7 +23253,7 @@
       "Name": "The High Priestess",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 191560
+      "UsersEstimate": 191561
     },
     {
       "ID": "TheLovers",
@@ -23250,7 +23261,7 @@
       "Name": "The Lovers",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 304755
+      "UsersEstimate": 304756
     },
     {
       "ID": "TheStar",
@@ -23274,7 +23285,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 235097
+      "UsersEstimate": 235098
     },
     {
       "ID": "TheWorld",
@@ -23282,7 +23293,7 @@
       "Name": "The World",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 156731
+      "UsersEstimate": 156732
     },
     {
       "ID": "ThisIsPacifica",
@@ -23314,7 +23325,7 @@
       "Name": "True Warrior",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 130609
+      "UsersEstimate": 130610
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -23322,7 +23333,7 @@
       "Name": "Two Heads, One Bullet",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 104487
+      "UsersEstimate": 104488
     },
     {
       "ID": "UnderPressure",
@@ -23354,22 +23365,22 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 191560
+      "UsersEstimate": 191561
     }
   ],
   "AchievementSets": [
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 870729,
+      "Progressed": 870732,
       "Completed": 1962
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-08-13T15:59:04.1967862+00:00",
-  "LastChanged_Achievements": "2023-08-13T18:05:45.4169532+00:00",
+  "LastChanged": "2023-08-13T18:59:30.8950323+00:00",
+  "LastChanged_Achievements": "2023-08-13T19:05:48.1407922+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:39.9582585+00:00",
-  "LastUpdate_Ratings": "2023-08-13T17:59:36.2229599+00:00",
-  "LastUpdate_Achievements": "2023-08-13T18:05:45.417037+00:00"
+  "LastUpdate_Ratings": "2023-08-13T18:59:30.895033+00:00",
+  "LastUpdate_Achievements": "2023-08-13T19:05:48.1409076+00:00"
 }

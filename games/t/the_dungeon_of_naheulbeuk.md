@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 11.00% | ~23,288 |
+| Sowwy! | 12.00% | ~25,410 |
 | Alt+F4 | 0.80% | ~1,694 |
 | Where's that freaking Dwarf? | 0.70% | ~1,482 |
 | Déjà vu | 0.60% | ~1,270 |
@@ -31,6 +31,7 @@ Number of Ratings: 118  (23.09.2022)
 | The Woman in the High Castle | 0.20% | ~423 |
 | The Famous Dungeon of Naheulbeuk | 0.20% | ~423 |
 | A tale of adventurers not quite like the others... | 0.20% | ~423 |
+| Dwarf Fortress | 0.20% | ~423 |
 | Look but don't touch | 0.20% | ~423 |
 | The beards of change | 0.20% | ~423 |
 | The Ranger of Chaos | 0.20% | ~423 |
@@ -70,7 +71,6 @@ Number of Ratings: 118  (23.09.2022)
 | And they lived happily ever after... | 0.10% | ~212 |
 | Insult to injury | 0.10% | ~212 |
 | Star-crossed lovers | 0.10% | ~212 |
-| Dwarf Fortress | 0.10% | ~212 |
 | Pyrrhic victory | 0.10% | ~212 |
 | 100% satisfaction guarantee | 0.10% | ~212 |
 | Death is for wimps | 0.10% | ~212 |
@@ -95,8 +95,8 @@ Number of Ratings: 118  (23.09.2022)
 | Sleep schedule mastery | 0.00% | ~0 |
 | Dumb and dumber | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 211,712 (Ranked 56)  
-Completed: 1 (0.00%) (Ranked 255)  
+Progressed: 211,749 (Ranked 56)  
+Completed: 2 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -169,7 +169,7 @@ Completed: 1 (0.00%) (Ranked 255)
 | 2023-08-10 | 210,011 | 0 |
 | 2023-08-11 | 210,534 | 1 |
 | 2023-08-12 | 211,199 | 1 |
-| 2023-08-13 | 211,712 | 1 |
+| 2023-08-13 | 211,749 | 2 |
 ## Awards
 Max (Character Customization): 160  (Ranked 292)  
 Sum: 180 (Ranked 377)  

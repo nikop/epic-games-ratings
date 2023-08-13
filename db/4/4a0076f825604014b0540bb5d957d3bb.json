@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-2-970dc3",
   "Ranking_EOS_Progress": 359,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -298,9 +298,9 @@
       "ID": "CgkInO_K3eIdEAIQBA",
       "SetID": "6bj96in",
       "Name": "TRAINING DAY",
-      "Percentage": 81,
+      "Percentage": 83,
       "XP": 40,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "CgkInO_K3eIdEAIQBQ",
@@ -370,9 +370,9 @@
       "ID": "CgkInO_K3eIdEAIQDQ",
       "SetID": "6bj96in",
       "Name": "TEMPORAL ARCHITECT",
-      "Percentage": 81,
+      "Percentage": 83,
       "XP": 40,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "CgkInO_K3eIdEAIQDg",
@@ -489,8 +489,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-08-13T18:05:53.6136162+00:00",
+  "LastChanged_Achievements": "2023-08-13T19:05:55.5966693+00:00",
   "LastUpdate_AppInfo": "2023-08-09T15:57:03.9650638+00:00",
-  "LastUpdate_Ratings": "2023-08-13T17:58:11.744715+00:00",
-  "LastUpdate_Achievements": "2023-08-13T18:05:53.6136315+00:00"
+  "LastUpdate_Ratings": "2023-08-13T18:58:06.0845604+00:00",
+  "LastUpdate_Achievements": "2023-08-13T19:05:55.5966902+00:00"
 }

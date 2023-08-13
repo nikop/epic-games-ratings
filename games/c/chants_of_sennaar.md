@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 26.00% | ~11 |
+| That's the spirit | 25.00% | ~11 |
 | Rascal | 23.00% | ~10 |
 | The Preacher's fate | 23.00% | ~10 |
 | Champollion | 23.00% | ~10 |
@@ -14,24 +14,24 @@
 | A new dawn | 23.00% | ~10 |
 | The darkness | 23.00% | ~10 |
 | One last step | 23.00% | ~10 |
-| Cable guy | 21.00% | ~9 |
-| A good beginning | 21.00% | ~9 |
-| True G4M3R | 21.00% | ~9 |
-| I did it | 19.00% | ~8 |
-| Fashion victim | 19.00% | ~8 |
+| Cable guy | 20.00% | ~9 |
+| A good beginning | 20.00% | ~9 |
+| True G4M3R | 20.00% | ~9 |
+| I did it | 18.00% | ~8 |
+| Fashion victim | 18.00% | ~8 |
 | Feels like springtime | 16.00% | ~7 |
 | In this together | 14.00% | ~6 |
-| Peace walker | 12.00% | ~5 |
-| Half the way | 12.00% | ~5 |
-| Open door | 12.00% | ~5 |
+| Peace walker | 11.00% | ~5 |
+| Half the way | 11.00% | ~5 |
+| Open door | 11.00% | ~5 |
 | Free at last | 9.00% | ~4 |
 | A great audience | 9.00% | ~4 |
 | For its own good | 9.00% | ~4 |
 | A Link to the Past | 9.00% | ~4 |
 | Alchemists Express | 9.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43 (Ranked 373)  
-Completed: 4 (9.30%) (Ranked 29)  
+Progressed: 44 (Ranked 373)  
+Completed: 4 (9.09%) (Ranked 30)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -61,3 +61,4 @@ Completed: 4 (9.30%) (Ranked 29)
 | 2023-08-07 | 38 | 4 |
 | 2023-08-08 | 41 | 4 |
 | 2023-08-12 | 43 | 4 |
+| 2023-08-13 | 44 | 4 |

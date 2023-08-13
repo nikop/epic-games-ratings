@@ -12,20 +12,20 @@ Rating: 4.18 (Ranked 868)
 | Get ReQ'd | 4.00% | ~2,713 |
 | Knighthood | 4.00% | ~2,713 |
 | Whispered Words | 4.00% | ~2,713 |
-| The Batman Family | 3.00% | ~2,034 |
-| Protector of Gotham | 3.00% | ~2,034 |
-| Something in the Clay | 3.00% | ~2,034 |
-| The Show Mud Go On | 3.00% | ~2,034 |
-| Rock and a Hard Place | 3.00% | ~2,034 |
-| Quartzer Life Crisis | 3.00% | ~2,034 |
-| Snow Problem | 3.00% | ~2,034 |
-| Working Hard or Harley Working? | 3.00% | ~2,034 |
-| Universal Health Scare | 3.00% | ~2,034 |
-| Unstoppable Force | 3.00% | ~2,034 |
-| Lock and Key | 3.00% | ~2,034 |
-| Bad Apples in Every Orchard | 3.00% | ~2,034 |
-| From Inside Gotham's Walls | 3.00% | ~2,034 |
-| Voiceless | 3.00% | ~2,034 |
+| The Batman Family | 3.00% | ~2,035 |
+| Protector of Gotham | 3.00% | ~2,035 |
+| Something in the Clay | 3.00% | ~2,035 |
+| The Show Mud Go On | 3.00% | ~2,035 |
+| Rock and a Hard Place | 3.00% | ~2,035 |
+| Quartzer Life Crisis | 3.00% | ~2,035 |
+| Snow Problem | 3.00% | ~2,035 |
+| Working Hard or Harley Working? | 3.00% | ~2,035 |
+| Universal Health Scare | 3.00% | ~2,035 |
+| Unstoppable Force | 3.00% | ~2,035 |
+| Lock and Key | 3.00% | ~2,035 |
+| Bad Apples in Every Orchard | 3.00% | ~2,035 |
+| From Inside Gotham's Walls | 3.00% | ~2,035 |
+| Voiceless | 3.00% | ~2,035 |
 | End of an Era | 2.00% | ~1,356 |
 | In Your Element | 2.00% | ~1,356 |
 | Not On My Watch | 2.00% | ~1,356 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 868)
 | Read Owl About It | 0.10% | ~68 |
 | History Major | 0.10% | ~68 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,816 (Ranked 80)  
+Progressed: 67,817 (Ranked 80)  
 Completed: 107 (0.16%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,7 +182,7 @@ Completed: 107 (0.16%) (Ranked 187)
 | 2023-08-10 | 67,741 | 106 |
 | 2023-08-11 | 67,760 | 106 |
 | 2023-08-12 | 67,793 | 106 |
-| 2023-08-13 | 67,816 | 107 |
+| 2023-08-13 | 67,817 | 107 |
 ## Awards
 Max (Great Boss Battles): 2,491  (Ranked 100)  
 Sum: 4,142 (Ranked 140)  

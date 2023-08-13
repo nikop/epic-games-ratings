@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3120,
+  "EOS_Progressed": 3121,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -2754,6 +2754,11 @@
       "Time": "2023-08-12T16:04:50.8827036+00:00",
       "NumProgressed": 3120,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-08-13T19:04:35.8037973+00:00",
+      "NumProgressed": 3121,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 33,
@@ -2813,7 +2818,7 @@
       "Name": "You and what Army?",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2777
+      "UsersEstimate": 2778
     },
     {
       "ID": "campaign10",
@@ -2901,7 +2906,7 @@
       "Name": "Flanked!",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 2465
+      "UsersEstimate": 2466
     },
     {
       "ID": "campaign20",
@@ -2973,7 +2978,7 @@
       "Name": "Do the Splits",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1279
+      "UsersEstimate": 1280
     },
     {
       "ID": "scenario2",
@@ -3028,7 +3033,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3120,
+      "Progressed": 3121,
       "Completed": 10
     }
   ],
@@ -3036,8 +3041,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-08-13T18:04:28.0498562+00:00",
+  "LastChanged_Achievements": "2023-08-13T19:04:35.8037967+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:07.7708423+00:00",
-  "LastUpdate_Ratings": "2023-08-13T17:57:22.7498028+00:00",
-  "LastUpdate_Achievements": "2023-08-13T18:04:28.0498875+00:00"
+  "LastUpdate_Ratings": "2023-08-13T18:57:21.8702076+00:00",
+  "LastUpdate_Achievements": "2023-08-13T19:04:35.8038465+00:00"
 }

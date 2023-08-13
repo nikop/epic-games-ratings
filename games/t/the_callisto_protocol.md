@@ -5,7 +5,7 @@ Rating: 4.20 (Ranked 853)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get a Grip | 5.00% | ~792 |
+| Get a Grip | 5.00% | ~793 |
 | Paper Jams | 4.00% | ~634 |
 | Keep Fighting | 4.00% | ~151 |
 | You Need a Gun | 3.00% | ~476 |
@@ -30,7 +30,7 @@ Rating: 4.20 (Ranked 853)
 | If the SHU Fits... | 2.00% | ~317 |
 | Desperate Times | 2.00% | ~317 |
 | One Last Job | 2.00% | ~76 |
-| In Striking Distance | 1.00% | ~158 |
+| In Striking Distance | 1.00% | ~159 |
 | This Isn't About Escape | 0.80% | ~30 |
 | Armed to the Teeth | 0.60% | ~23 |
 | Information Overload | 0.60% | ~23 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 853)
 | Don't Let It Mellow | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,850 (Ranked 114)  
+Progressed: 15,851 (Ranked 114)  
 Completed: 73 (0.46%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,7 +167,7 @@ Completed: 73 (0.46%) (Ranked 146)
 | 2023-08-10 | 15,839 | 72 |
 | 2023-08-11 | 15,840 | 72 |
 | 2023-08-12 | 15,848 | 73 |
-| 2023-08-13 | 15,850 | 73 |
+| 2023-08-13 | 15,851 | 73 |
 ## Awards
 Max (Amazing Storytelling): 72  (Ranked 374)  
 Sum: 407 (Ranked 317)  
