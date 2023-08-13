@@ -6,39 +6,39 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 12.00% | ~25,410 |
+| Sowwy! | 12.00% | ~25,413 |
 | Alt+F4 | 0.80% | ~1,694 |
 | Where's that freaking Dwarf? | 0.70% | ~1,482 |
-| Déjà vu | 0.60% | ~1,270 |
-| Sock! SOCK! | 0.60% | ~1,270 |
+| Déjà vu | 0.60% | ~1,271 |
+| Sock! SOCK! | 0.60% | ~1,271 |
+| Speedrun | 0.50% | ~1,059 |
 | A beer, two curses, three companions | 0.40% | ~847 |
 | GG EZ | 0.40% | ~847 |
 | DM intervention | 0.40% | ~847 |
-| Speedrun | 0.40% | ~847 |
 | Fireproof Wizardess | 0.40% | ~847 |
 | Livin' in a dwarven paradise | 0.30% | ~635 |
 | Way of the Wimp | 0.30% | ~635 |
 | The plot thickens... At the tavern | 0.30% | ~635 |
 | %#*!$*! | 0.30% | ~635 |
-| Shiny and Crôm | 0.20% | ~423 |
-| The demons' feast | 0.20% | ~423 |
-| The Great Library | 0.20% | ~423 |
-| Torture and Sensibility | 0.20% | ~423 |
-| Urik's Depths | 0.20% | ~423 |
-| The Dungeon Master | 0.20% | ~423 |
-| The Statuette of Gladeulfeurah | 0.20% | ~423 |
-| Res Judicata | 0.20% | ~423 |
-| The Woman in the High Castle | 0.20% | ~423 |
-| The Famous Dungeon of Naheulbeuk | 0.20% | ~423 |
-| A tale of adventurers not quite like the others... | 0.20% | ~423 |
-| Dwarf Fortress | 0.20% | ~423 |
-| Look but don't touch | 0.20% | ~423 |
-| The beards of change | 0.20% | ~423 |
-| The Ranger of Chaos | 0.20% | ~423 |
-| I am the night | 0.20% | ~423 |
-| Thieves' Guild Accreditation | 0.20% | ~423 |
-| Team Building Exercise | 0.20% | ~423 |
-| Oh, when I'll be level 10... | 0.20% | ~423 |
+| Shiny and Crôm | 0.20% | ~424 |
+| The demons' feast | 0.20% | ~424 |
+| The Great Library | 0.20% | ~424 |
+| Torture and Sensibility | 0.20% | ~424 |
+| Urik's Depths | 0.20% | ~424 |
+| The Dungeon Master | 0.20% | ~424 |
+| The Statuette of Gladeulfeurah | 0.20% | ~424 |
+| Res Judicata | 0.20% | ~424 |
+| The Woman in the High Castle | 0.20% | ~424 |
+| The Famous Dungeon of Naheulbeuk | 0.20% | ~424 |
+| A tale of adventurers not quite like the others... | 0.20% | ~424 |
+| Dwarf Fortress | 0.20% | ~424 |
+| Look but don't touch | 0.20% | ~424 |
+| The beards of change | 0.20% | ~424 |
+| The Ranger of Chaos | 0.20% | ~424 |
+| I am the night | 0.20% | ~424 |
+| Thieves' Guild Accreditation | 0.20% | ~424 |
+| Team Building Exercise | 0.20% | ~424 |
+| Oh, when I'll be level 10... | 0.20% | ~424 |
 | Cursed die | 0.10% | ~212 |
 | Holistic Adventuring Party | 0.10% | ~212 |
 | Scholar of the Lands of Fangh | 0.10% | ~212 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Sleep schedule mastery | 0.00% | ~0 |
 | Dumb and dumber | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 211,749 (Ranked 56)  
+Progressed: 211,774 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,14 +169,14 @@ Completed: 2 (0.00%) (Ranked 255)
 | 2023-08-10 | 210,011 | 0 |
 | 2023-08-11 | 210,534 | 1 |
 | 2023-08-12 | 211,199 | 1 |
-| 2023-08-13 | 211,749 | 2 |
+| 2023-08-13 | 211,774 | 2 |
 ## Awards
-Max (Character Customization): 160  (Ranked 292)  
-Sum: 180 (Ranked 377)  
+Max (Character Customization): 163  (Ranked 291)  
+Sum: 183 (Ranked 376)  
 Diff (max vs sum): -85  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 160 |
+| This game has Inclusive Character Customization | 163 |
 | This game is Relaxing | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -284,3 +284,4 @@ Diff (max vs sum): -85
 | 2023-08-08 | 4.58 | - | 157 | 157 |
 | 2023-08-11 | 4.58 | - | 159 | 159 |
 | 2023-08-12 | 4.58 | - | 160 | 180 |
+| 2023-08-13 | 4.58 | - | 163 | 183 |

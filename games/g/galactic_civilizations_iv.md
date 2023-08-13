@@ -7,25 +7,25 @@ Number of Ratings: 429  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Colonize a Planet | 79.00% | ~5,016 |
-| Worker Specialization | 78.00% | ~4,952 |
-| First Contact | 73.00% | ~4,635 |
+| Worker Specialization | 78.00% | ~4,953 |
+| First Contact | 73.00% | ~4,636 |
 | Win a Battle | 67.00% | ~4,254 |
 | Anomaly Researcher | 63.00% | ~4,000 |
-| Unleash My Power | 62.00% | ~3,936 |
+| Unleash My Power | 62.00% | ~3,937 |
 | Own 30 Planets | 34.00% | ~2,159 |
 | Xenocide | 32.00% | ~2,032 |
 | Design a Civilization | 32.00% | ~2,032 |
 | Commodity Trader | 31.00% | ~1,968 |
 | Design a Ship | 28.00% | ~1,778 |
-| Commodity Seller | 25.00% | ~1,587 |
+| Commodity Seller | 25.00% | ~1,588 |
 | Prestige Victory! | 14.00% | ~889 |
 | Galactic War | 11.00% | ~698 |
-| Trading Partner | 9.00% | ~571 |
+| Trading Partner | 9.00% | ~572 |
 | Fleet Victory | 8.00% | ~508 |
-| Win as Terrans | 7.00% | ~444 |
+| Win as Terrans | 7.00% | ~445 |
 | Gain an Ally | 6.00% | ~381 |
 | Win with a Custom Faction | 6.00% | ~381 |
-| War with the Unknown | 5.00% | ~317 |
+| War with the Unknown | 5.00% | ~318 |
 | Conquest Victory! | 4.00% | ~254 |
 | Win an Immense Game | 4.00% | ~254 |
 | Win Quickly | 4.00% | ~254 |
@@ -35,9 +35,9 @@ Number of Ratings: 429  (23.09.2022)
 | Win as the Mimot | 2.00% | ~127 |
 | Win as the Yor | 2.00% | ~127 |
 | Influence Victory! | 2.00% | ~127 |
-| Win as Arceans | 1.00% | ~63 |
-| Win as the Baratak | 1.00% | ~63 |
-| Win as Festron | 1.00% | ~63 |
+| Win as Arceans | 1.00% | ~64 |
+| Win as the Baratak | 1.00% | ~64 |
+| Win as Festron | 1.00% | ~64 |
 | Win as the Navigators | 0.90% | ~57 |
 | Win as Torians | 0.90% | ~57 |
 | Win as Xeloxi | 0.80% | ~51 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,349 (Ranked 135)  
+Progressed: 6,350 (Ranked 135)  
 Completed: 0 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 0 (0.00%) (Ranked 255)
 | 2023-08-10 | 6,329 | 0 |
 | 2023-08-11 | 6,331 | 0 |
 | 2023-08-12 | 6,339 | 0 |
-| 2023-08-13 | 6,349 | 0 |
+| 2023-08-13 | 6,350 | 0 |
 ## Awards
 Max (Diverse Characters): 92  (Ranked 348)  
 Sum: 673 (Ranked 281)  

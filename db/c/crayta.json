@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 323,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -329,9 +329,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 109562,
+  "EOS_Progressed": 109563,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1994,6 +1994,11 @@
       "Time": "2023-08-13T17:02:51.8940868+00:00",
       "NumProgressed": 109562,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-13T20:03:09.7347644+00:00",
+      "NumProgressed": 109563,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -2077,7 +2082,7 @@
       "Name": "Building Block - Bronze",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 4382
+      "UsersEstimate": 4383
     },
     {
       "ID": "19",
@@ -2141,7 +2146,7 @@
       "Name": "Variety Player - Silver",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 4382
+      "UsersEstimate": 4383
     },
     {
       "ID": "26",
@@ -2276,15 +2281,15 @@
     {
       "ID": "4i9cj6f",
       "IsBase": true,
-      "Progressed": 109562,
+      "Progressed": 109563,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:23:35.732973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:02.9835227+00:00",
   "LastChanged": "2023-01-05T14:57:39.5556866+00:00",
-  "LastChanged_Achievements": "2023-08-13T19:03:13.2804531+00:00",
+  "LastChanged_Achievements": "2023-08-13T20:03:09.7347632+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:02.6788157+00:00",
-  "LastUpdate_Ratings": "2023-08-13T18:59:54.4639604+00:00",
-  "LastUpdate_Achievements": "2023-08-13T19:03:13.2805212+00:00"
+  "LastUpdate_Ratings": "2023-08-13T20:00:39.4008488+00:00",
+  "LastUpdate_Achievements": "2023-08-13T20:03:09.7348383+00:00"
 }

@@ -14,11 +14,11 @@ Rating: 4.88 (Ranked 18)
 | You got this, Peppermint? | 7.00% | ~272 |
 | I play my own way! | 6.00% | ~233 |
 | Perfect Parry | 6.00% | ~233 |
+| Uh, they were broken when I got here | 6.00% | ~233 |
 | Alright, that felt AWESOME! | 6.00% | ~233 |
 | This will cost you big time | 5.00% | ~194 |
 | Whoa! There's ANOTHER health bar!? | 5.00% | ~194 |
 | Z-shielding's got nothing on us! | 5.00% | ~194 |
-| Uh, they were broken when I got here | 5.00% | ~194 |
 | Kissing the sky! | 5.00% | ~194 |
 | I look cool. But I can look COOLER. | 5.00% | ~194 |
 | Does that say weakpoint? | 5.00% | ~194 |
@@ -48,10 +48,10 @@ Rating: 4.88 (Ranked 18)
 | This is a breeze! | 0.60% | ~23 |
 | I'm not done with you yet | 0.60% | ~23 |
 | New bad guys? No problem! | 0.60% | ~14 |
+| Easy Listening | 0.40% | ~16 |
 | OK, well THEY came after ME! | 0.40% | ~16 |
 | You ever parry a volcano? | 0.40% | ~16 |
 | Choose your own adventure | 0.40% | ~10 |
-| Easy Listening | 0.30% | ~12 |
 | And the crowd goes wild! | 0.20% | ~8 |
 | Problem solved... wait, what? | 0.20% | ~8 |
 | Now this is how you fight like a team! | 0.20% | ~8 |

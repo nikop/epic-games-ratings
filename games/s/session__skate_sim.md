@@ -28,12 +28,12 @@ Number of Ratings: 111  (23.09.2022)
 | Sup widdit big dog! | 6.00% | ~163 |
 | Tight lipslides | 6.00% | ~163 |
 | Commence the Hijinx! | 5.00% | ~136 |
+| DIY Boss | 5.00% | ~136 |
 | Globetrotter | 5.00% | ~136 |
 | Laid back | 5.00% | ~136 |
 | NAHELL! | 5.00% | ~136 |
 | Squad goals | 5.00% | ~136 |
 | Cops called! | 4.00% | ~109 |
-| DIY Boss | 4.00% | ~109 |
 | G.O.A.T. status | 4.00% | ~109 |
 | Lines for days | 4.00% | ~109 |
 | Manny Destroys All | 4.00% | ~109 |

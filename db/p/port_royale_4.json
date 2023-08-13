@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -240,9 +240,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 823,
+  "EOS_Progressed": 824,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1730,6 +1730,11 @@
       "Time": "2023-08-13T19:06:48.5469212+00:00",
       "NumProgressed": 823,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-13T20:07:41.933669+00:00",
+      "NumProgressed": 824,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -1747,9 +1752,9 @@
       "ID": "ACH001",
       "SetID": "69nfp41",
       "Name": "Seafarer",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 436
+      "UsersEstimate": 445
     },
     {
       "ID": "ACH002",
@@ -1829,7 +1834,7 @@
       "Name": "Intangible",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "ACH012",
@@ -1907,9 +1912,9 @@
       "ID": "ACH021",
       "SetID": "69nfp41",
       "Name": "Collectionitis",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 222
+      "UsersEstimate": 231
     },
     {
       "ID": "ACH022",
@@ -1947,7 +1952,7 @@
       "ID": "ACH026",
       "SetID": "69nfp41",
       "Name": "Raiders of the Lost Ark",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 40,
       "UsersEstimate": 7
     },
@@ -1957,13 +1962,13 @@
       "Name": "I\u0027m out of here for a while",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "ACH028",
       "SetID": "69nfp41",
       "Name": "Traffic chaos",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 20,
       "UsersEstimate": 7
     },
@@ -2029,7 +2034,7 @@
       "Name": "Every beginning is difficult",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "ACH037",
@@ -2043,9 +2048,9 @@
       "ID": "ACH038",
       "SetID": "69nfp41",
       "Name": "O Captain! My Captain!",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 436
+      "UsersEstimate": 445
     },
     {
       "ID": "ACH039",
@@ -2125,7 +2130,7 @@
       "Name": "Megalomania",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "ACH049",
@@ -2140,15 +2145,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 823,
+      "Progressed": 824,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-07-02T02:29:11.8786643+00:00",
-  "LastChanged_Achievements": "2023-08-13T19:06:48.5469207+00:00",
+  "LastChanged_Achievements": "2023-08-13T20:07:41.9336681+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:10.480025+00:00",
-  "LastUpdate_Ratings": "2023-08-13T19:00:01.902344+00:00",
-  "LastUpdate_Achievements": "2023-08-13T19:06:48.5469861+00:00"
+  "LastUpdate_Ratings": "2023-08-13T20:00:50.3575131+00:00",
+  "LastUpdate_Achievements": "2023-08-13T20:07:41.9337464+00:00"
 }

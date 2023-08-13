@@ -26,6 +26,7 @@ Number of Ratings: 371  (23.09.2022)
 | Hold Your Ground | 0.70% | ~22 |
 | Corruption Cleanser | 0.70% | ~22 |
 | Just a Scratch | 0.70% | ~22 |
+| Tactical Sabotage | 0.50% | ~16 |
 | Patron of Deimos | 0.40% | ~13 |
 | Daemonkeeper | 0.40% | ~13 |
 | Mind Like a Fortress | 0.40% | ~13 |
@@ -35,7 +36,6 @@ Number of Ratings: 371  (23.09.2022)
 | A Gift Spurned | 0.40% | ~13 |
 | Long Distance Call | 0.40% | ~13 |
 | Tactical Flexibility | 0.40% | ~13 |
-| Tactical Sabotage | 0.40% | ~13 |
 | Fleetmaster | 0.30% | ~9 |
 | For the Machine God | 0.30% | ~9 |
 | Preservationist | 0.30% | ~9 |

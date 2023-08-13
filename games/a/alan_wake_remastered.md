@@ -6,9 +6,9 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 37.00% | ~22,497 |
-| Let There Be Light | 30.00% | ~18,241 |
-| Float Like a Butterfly | 29.00% | ~17,633 |
+| Follow the Light | 37.00% | ~22,498 |
+| Let There Be Light | 30.00% | ~18,242 |
+| Float Like a Butterfly | 29.00% | ~17,634 |
 | Nordic Walking | 23.00% | ~13,985 |
 | Bright Falls' Finest | 22.00% | ~13,377 |
 | Under a Thin Layer of Skin | 20.00% | ~12,161 |
@@ -21,19 +21,19 @@ Number of Ratings: 524  (23.09.2022)
 | Wheels Within Wheels | 13.00% | ~7,905 |
 | They're Heeeeeere! | 13.00% | ~7,905 |
 | Missed by a Mile | 13.00% | ~7,905 |
-| Heavy Metal | 12.00% | ~7,296 |
-| Iron Horse | 12.00% | ~7,296 |
-| The Six-Gun Scribe | 12.00% | ~7,296 |
-| Collateral Carnage | 12.00% | ~7,296 |
-| Come One, Come All | 12.00% | ~7,296 |
-| Perchance to Dream | 11.00% | ~6,688 |
-| It's Not Just a Typewriter Brand | 11.00% | ~6,688 |
-| Thunder and Lightning | 11.00% | ~6,688 |
-| Gatekeeper | 10.00% | ~6,080 |
-| The Lady of the Light | 10.00% | ~6,080 |
-| Two For the Price of One | 10.00% | ~6,080 |
-| Energized! | 10.00% | ~6,080 |
-| Right of Way | 9.00% | ~5,472 |
+| Heavy Metal | 12.00% | ~7,297 |
+| Iron Horse | 12.00% | ~7,297 |
+| The Six-Gun Scribe | 12.00% | ~7,297 |
+| Collateral Carnage | 12.00% | ~7,297 |
+| Come One, Come All | 12.00% | ~7,297 |
+| Perchance to Dream | 11.00% | ~6,689 |
+| It's Not Just a Typewriter Brand | 11.00% | ~6,689 |
+| Thunder and Lightning | 11.00% | ~6,689 |
+| Gatekeeper | 10.00% | ~6,081 |
+| The Lady of the Light | 10.00% | ~6,081 |
+| Two For the Price of One | 10.00% | ~6,081 |
+| Energized! | 10.00% | ~6,081 |
+| Right of Way | 9.00% | ~5,473 |
 | What Light Through Yonder Window | 8.00% | ~4,864 |
 | A Friend in Need | 8.00% | ~1,942 |
 | Tornado Wrangler | 7.00% | ~4,256 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~61 |
 | No Punctuation | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,804 (Ranked 85)  
+Progressed: 60,806 (Ranked 85)  
 Completed: 64 (0.11%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 64 (0.11%) (Ranked 199)
 | 2023-08-10 | 60,658 | 64 |
 | 2023-08-11 | 60,694 | 64 |
 | 2023-08-12 | 60,759 | 64 |
-| 2023-08-13 | 60,804 | 64 |
+| 2023-08-13 | 60,806 | 64 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

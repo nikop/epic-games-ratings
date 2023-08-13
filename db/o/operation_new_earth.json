@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 890,
+  "EOS_Progressed": 891,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3151,6 +3151,11 @@
       "Time": "2023-08-13T19:03:16.246681+00:00",
       "NumProgressed": 890,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-13T20:03:12.9981752+00:00",
+      "NumProgressed": 891,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -3266,7 +3271,7 @@
       "Name": "Facility Online",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -3330,7 +3335,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "objective_key_alliance_join_1",
@@ -3465,14 +3470,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 890,
+      "Progressed": 891,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-13T19:03:16.2466805+00:00",
+  "LastChanged_Achievements": "2023-08-13T20:03:12.9981744+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:27.4280109+00:00",
-  "LastUpdate_Ratings": "2023-08-13T18:57:47.3201464+00:00",
-  "LastUpdate_Achievements": "2023-08-13T19:03:16.2467812+00:00"
+  "LastUpdate_Ratings": "2023-08-13T19:58:14.1725969+00:00",
+  "LastUpdate_Achievements": "2023-08-13T20:03:12.9982767+00:00"
 }

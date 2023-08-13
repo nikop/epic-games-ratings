@@ -26,6 +26,7 @@ Rating: 4.18 (Ranked 868)
 | Bad Apples in Every Orchard | 3.00% | ~2,035 |
 | From Inside Gotham's Walls | 3.00% | ~2,035 |
 | Voiceless | 3.00% | ~2,035 |
+| Seeking Asylum | 3.00% | ~2,035 |
 | End of an Era | 2.00% | ~1,356 |
 | In Your Element | 2.00% | ~1,356 |
 | Not On My Watch | 2.00% | ~1,356 |
@@ -34,7 +35,6 @@ Rating: 4.18 (Ranked 868)
 | Shock Til They Drop | 2.00% | ~1,356 |
 | Drone You Out | 2.00% | ~1,356 |
 | Cooldown | 2.00% | ~1,356 |
-| Seeking Asylum | 2.00% | ~1,356 |
 | Gotham Knight | 2.00% | ~1,356 |
 | Gotham City Confidential | 2.00% | ~1,356 |
 | Solid Alibi | 2.00% | ~1,356 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 868)
 | Read Owl About It | 0.10% | ~68 |
 | History Major | 0.10% | ~68 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,817 (Ranked 80)  
+Progressed: 67,818 (Ranked 80)  
 Completed: 107 (0.16%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,21 +182,21 @@ Completed: 107 (0.16%) (Ranked 187)
 | 2023-08-10 | 67,741 | 106 |
 | 2023-08-11 | 67,760 | 106 |
 | 2023-08-12 | 67,793 | 106 |
-| 2023-08-13 | 67,817 | 107 |
+| 2023-08-13 | 67,818 | 107 |
 ## Awards
 Max (Great Boss Battles): 2,491  (Ranked 100)  
-Sum: 4,142 (Ranked 140)  
+Sum: 4,145 (Ranked 140)  
 Diff (max vs sum): -40  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,491 |
-| This game is Extremely Fun | 213 |
+| This game is Extremely Fun | 214 |
+| This game is Relaxing | 211 |
 | This game has Quickly Understood Controls | 210 |
-| This game is Relaxing | 210 |
 | This game has Diverse Characters | 208 |
 | This game has Amazing Characters | 205 |
+| This game is Great for Beginners | 203 |
 | This game has Amazing Storytelling | 203 |
-| This game is Great for Beginners | 202 |
 | This game is Highly Recommended | 200 |
 | This game is Great for Quick Sessions | 60 |
 ## Ratings History
@@ -373,4 +373,4 @@ Diff (max vs sum): -40
 | 2023-08-10 | 4.18 | 2,482 | 4,126 |
 | 2023-08-11 | 4.18 | 2,486 | 4,134 |
 | 2023-08-12 | 4.18 | 2,489 | 4,140 |
-| 2023-08-13 | 4.18 | 2,491 | 4,142 |
+| 2023-08-13 | 4.18 | 2,491 | 4,145 |

@@ -31,7 +31,7 @@
 | Jaded Judge | 0.00% | ~0 |
 | Rustic Recipe | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20 (Ranked 405)  
+Progressed: 21 (Ranked 403)  
 Completed: 0 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -39,4 +39,4 @@ Completed: 0 (0.00%) (Ranked 255)
 | 2023-08-09 | 4 | 0 |
 | 2023-08-10 | 8 | 0 |
 | 2023-08-12 | 17 | 0 |
-| 2023-08-13 | 20 | 0 |
+| 2023-08-13 | 21 | 0 |

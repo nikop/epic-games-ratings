@@ -6,8 +6,8 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 38.00% | ~22,350 |
-| Landlord | 32.00% | ~18,821 |
+| Lawbringer | 38.00% | ~22,351 |
+| Landlord | 32.00% | ~18,822 |
 | Bannerlord | 22.00% | ~12,940 |
 | Horde breaker | 22.00% | ~12,940 |
 | Lawmaker | 22.00% | ~12,940 |
@@ -43,11 +43,11 @@ Number of Ratings: 5,603  (23.09.2022)
 | Slice 'n dice | 0.40% | ~235 |
 | Mounted Archery | 0.30% | ~176 |
 | Ride it like you stole it | 0.30% | ~176 |
+| Great Granny | 0.20% | ~118 |
 | Strike! | 0.20% | ~118 |
 | Best served cold | 0.10% | ~59 |
 | Butcher of Calradia | 0.10% | ~59 |
 | Explorer | 0.10% | ~59 |
-| Great Granny | 0.10% | ~59 |
 | Headhunter | 0.10% | ~59 |
 | Heartbreaker | 0.10% | ~59 |
 | Kingslayer | 0.10% | ~59 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,817 (Ranked 86)  
+Progressed: 58,818 (Ranked 86)  
 Completed: 0 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,10 +173,10 @@ Completed: 0 (0.00%) (Ranked 255)
 | 2023-08-10 | 58,619 | 0 |
 | 2023-08-11 | 58,682 | 0 |
 | 2023-08-12 | 58,752 | 0 |
-| 2023-08-13 | 58,817 | 0 |
+| 2023-08-13 | 58,818 | 0 |
 ## Awards
 Max (Character Customization): 6,933  (Ranked 49)  
-Sum: 14,062 (Ranked 67)  
+Sum: 14,064 (Ranked 67)  
 Diff (max vs sum): -18  
 | Award | Count |
 | ----- | ----- |
@@ -186,7 +186,7 @@ Diff (max vs sum): -18
 | This game is Highly Recommended | 839 |
 | This game is Extremely Fun | 803 |
 | This game has Amazing Storytelling | 790 |
-| This game is Relaxing | 778 |
+| This game is Relaxing | 780 |
 | This game has Amazing Characters | 775 |
 | This game has Quickly Understood Controls | 772 |
 | This game has a Creative Community | 572 |
@@ -405,4 +405,4 @@ Diff (max vs sum): -18
 | 2023-08-10 | 4.74 | - | 6,920 | 14,034 |
 | 2023-08-11 | 4.74 | - | 6,922 | 14,041 |
 | 2023-08-12 | 4.74 | - | 6,922 | 14,045 |
-| 2023-08-13 | 4.74 | - | 6,933 | 14,062 |
+| 2023-08-13 | 4.74 | - | 6,933 | 14,064 |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 38,
   "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
     "PcReleaseDate": "2022-07-06T08:00:00+00:00",
@@ -786,9 +786,9 @@
       "ID": "NEW_ACHIEVEMENT_1_10",
       "SetID": "8d3ci0",
       "Name": "Cruise ship",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 64
+      "UsersEstimate": 66
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
@@ -905,8 +905,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-08-13T19:03:10.1359323+00:00",
+  "LastChanged_Achievements": "2023-08-13T20:03:05.9763866+00:00",
   "LastUpdate_AppInfo": "2023-08-12T15:56:58.9050315+00:00",
-  "LastUpdate_Ratings": "2023-08-13T18:58:09.9457466+00:00",
-  "LastUpdate_Achievements": "2023-08-13T19:03:10.1359677+00:00"
+  "LastUpdate_Ratings": "2023-08-13T19:58:40.8972521+00:00",
+  "LastUpdate_Achievements": "2023-08-13T20:03:05.9764409+00:00"
 }
