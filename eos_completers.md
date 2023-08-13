@@ -4,9 +4,9 @@
 | 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.41% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 39.53% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
-| 5 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 25.93% |
-| 6 | [Overloop](games/o/overloop.md) | 25.00% |
-| 7 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
+| 5 | [Overloop](games/o/overloop.md) | 25.00% |
+| 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
+| 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 24.14% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 23.91% |
 | 9 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 22.58% |
 | 10 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
@@ -18,7 +18,7 @@
 | 16 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 15.38% |
 | 17 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 13.94% |
 | 18 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 12.50% |
-| 19 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.08% |
+| 19 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.07% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.27% |
 | 21 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
 | 21 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 11.11% |
@@ -135,8 +135,8 @@
 | 133 | [Potion Permit](games/p/potion_permit.md) | 0.59% |
 | 134 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.57% |
 | 134 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.57% |
-| 136 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.56% |
 | 136 | [Grindstone](games/g/grindstone.md) | 0.56% |
+| 137 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.55% |
 | 138 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.53% |
 | 138 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.53% |
 | 140 | [Aragami 2](games/a/aragami_2.md) | 0.51% |
