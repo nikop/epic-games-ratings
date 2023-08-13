@@ -1,7 +1,7 @@
 # Dying Light 2 Stay Human
 [Store](https://store.epicgames.com/en-US/p/dying-light-2-stay-human)  
 [View Rawdata](../../db/d/dying_light_2_stay_human.json)  
-Rating: 4.58 (Ranked 426)  
+Rating: 4.58 (Ranked 427)  
 Number of Ratings: 7,305  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -9,26 +9,26 @@ Number of Ratings: 7,305  (23.09.2022)
 | You Never Forget Your First... | 11.00% | ~67,226 |
 | Into the Unknown | 10.00% | ~61,115 |
 | First Shot | 10.00% | ~61,115 |
-| Herzlich Wilkommen! | 9.00% | ~55,003 |
-| Good Night & Good Luck | 9.00% | ~55,003 |
+| Herzlich Wilkommen! | 9.00% | ~55,004 |
+| Good Night & Good Luck | 9.00% | ~55,004 |
 | Sancho Panza | 8.00% | ~48,892 |
 | Oh, So This Is How It Works! | 8.00% | ~48,892 |
-| Under Pressure | 7.00% | ~42,780 |
-| On the Trail of the Enemy | 7.00% | ~42,780 |
-| Light in the Darkness | 7.00% | ~42,780 |
-| Flag Burning | 7.00% | ~42,780 |
-| Night Hunter | 7.00% | ~42,780 |
+| Under Pressure | 7.00% | ~42,781 |
+| On the Trail of the Enemy | 7.00% | ~42,781 |
+| Light in the Darkness | 7.00% | ~42,781 |
+| Flag Burning | 7.00% | ~42,781 |
+| Night Hunter | 7.00% | ~42,781 |
 | Get Outta My House! | 6.00% | ~36,669 |
 | It Wasn't That Hard, Was It? | 6.00% | ~36,669 |
 | Being All Social | 6.00% | ~36,669 |
-| Debris and Ashes | 5.00% | ~30,557 |
-| We Will Be Heard! | 5.00% | ~30,557 |
-| Known Associate | 5.00% | ~30,557 |
-| Brush with Death | 5.00% | ~30,557 |
-| Going Down | 5.00% | ~30,557 |
-| Tunnel Entrance | 5.00% | ~30,557 |
-| After the Fall | 5.00% | ~30,557 |
-| Can't Touch This! | 5.00% | ~30,557 |
+| Debris and Ashes | 5.00% | ~30,558 |
+| We Will Be Heard! | 5.00% | ~30,558 |
+| Known Associate | 5.00% | ~30,558 |
+| Brush with Death | 5.00% | ~30,558 |
+| Going Down | 5.00% | ~30,558 |
+| Tunnel Entrance | 5.00% | ~30,558 |
+| After the Fall | 5.00% | ~30,558 |
+| Can't Touch This! | 5.00% | ~30,558 |
 | Family First | 4.00% | ~24,446 |
 | Your World, Your Rules | 4.00% | ~24,446 |
 | Death From Afar | 4.00% | ~24,446 |
@@ -41,12 +41,12 @@ Number of Ratings: 7,305  (23.09.2022)
 | Ban Hammer | 2.00% | ~12,223 |
 | Parkour Master | 2.00% | ~12,223 |
 | Modder | 2.00% | ~12,223 |
-| Tube Map | 1.00% | ~6,111 |
-| Don Quixote | 1.00% | ~6,111 |
-| Can't You Read the Signs? | 1.00% | ~6,111 |
-| That's Teamwork! | 1.00% | ~6,111 |
-| Fit as a Fiddle | 1.00% | ~6,111 |
-| Ironheart | 1.00% | ~6,111 |
+| Tube Map | 1.00% | ~6,112 |
+| Don Quixote | 1.00% | ~6,112 |
+| Can't You Read the Signs? | 1.00% | ~6,112 |
+| That's Teamwork! | 1.00% | ~6,112 |
+| Fit as a Fiddle | 1.00% | ~6,112 |
+| Ironheart | 1.00% | ~6,112 |
 | Nemesis | 1.00% | ~2,566 |
 | Enter the Hall | 1.00% | ~2,566 |
 | Find Anything Interesting? | 0.90% | ~5,500 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~257 |
 | Connoisseur | 0.10% | ~257 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 611,146 (Ranked 27)  
+Progressed: 611,150 (Ranked 27)  
 Completed: 62 (0.01%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 62 (0.01%) (Ranked 242)
 | 2023-08-10 | 610,337 | 62 |
 | 2023-08-11 | 610,694 | 62 |
 | 2023-08-12 | 611,100 | 62 |
-| 2023-08-13 | 611,146 | 62 |
+| 2023-08-13 | 611,150 | 62 |
 ## Awards
 Max (Character Customization): 8,770  (Ranked 39)  
 Sum: 21,039 (Ranked 54)  

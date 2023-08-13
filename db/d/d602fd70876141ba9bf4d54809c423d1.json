@@ -2,10 +2,10 @@
   "ID": "d602fd70876141ba9bf4d54809c423d1",
   "Name": "The Evil Within",
   "ProductSlug": "the-evil-within",
-  "Ranking_EOS_Progress": 367,
+  "Ranking_EOS_Progress": 365,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
     "PcReleaseDate": "2014-07-13T00:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 47,
+  "EOS_Progressed": 48,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -259,6 +259,11 @@
       "Time": "2023-08-13T04:04:33.102397+00:00",
       "NumProgressed": 47,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-13T05:04:23.7301317+00:00",
+      "NumProgressed": 48,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T16:01:32.1694174+00:00",
@@ -269,9 +274,9 @@
       "ID": "ACHIEVEMENT_01",
       "SetID": "ap8553i",
       "Name": "What\u0027s in the Box?",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_02",
@@ -293,7 +298,7 @@
       "ID": "ACHIEVEMENT_04",
       "SetID": "ap8553i",
       "Name": "Two on Two",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 25,
       "UsersEstimate": 4
     },
@@ -317,9 +322,9 @@
       "ID": "ACHIEVEMENT_07",
       "SetID": "ap8553i",
       "Name": "Slither into Oblivion",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -437,7 +442,7 @@
       "ID": "ACHIEVEMENT_22",
       "SetID": "ap8553i",
       "Name": "Burn, Baby, Burn!",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -445,9 +450,9 @@
       "ID": "ACHIEVEMENT_23",
       "SetID": "ap8553i",
       "Name": "...And the Corpses Mount",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -589,9 +594,9 @@
       "ID": "ACHIEVEMENT_41",
       "SetID": "ap8553i",
       "Name": "Entry Level Electrician",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -838,20 +843,20 @@
     {
       "ID": "8ddjaeg",
       "IsBase": false,
-      "Progressed": 47,
+      "Progressed": 48,
       "Completed": 0
     },
     {
       "ID": "ap8553i",
       "IsBase": true,
-      "Progressed": 47,
+      "Progressed": 48,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-04T21:57:01.9865679+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5206267+00:00",
-  "LastChanged_Achievements": "2023-08-13T04:04:33.1023959+00:00",
+  "LastChanged_Achievements": "2023-08-13T05:04:23.7301312+00:00",
   "LastUpdate_AppInfo": "2023-08-09T15:57:03.7516548+00:00",
-  "LastUpdate_Ratings": "2023-08-13T03:57:39.8274649+00:00",
-  "LastUpdate_Achievements": "2023-08-13T04:04:33.102515+00:00"
+  "LastUpdate_Ratings": "2023-08-13T04:57:37.4225507+00:00",
+  "LastUpdate_Achievements": "2023-08-13T05:04:23.7301917+00:00"
 }

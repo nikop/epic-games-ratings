@@ -2,7 +2,7 @@
   "ID": "87b7846d2eba4bc49eead0854323aba8",
   "Name": "Dying Light 2 Stay Human",
   "ProductSlug": "dying-light-2-stay-human",
-  "Ranking_Rating": 426,
+  "Ranking_Rating": 427,
   "Ranking_Popularity": 39,
   "Ranking_PopularitySum": 54,
   "Ranking_EOS_Progress": 27,
@@ -8221,9 +8221,9 @@
       "Count": 644
     }
   ],
-  "EOS_Progressed": 611146,
+  "EOS_Progressed": 611150,
   "EOS_Completed": 62,
-  "EOS_NewPlayers": 2864,
+  "EOS_NewPlayers": 2856,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -20876,6 +20876,11 @@
       "Time": "2023-08-13T04:06:24.2938452+00:00",
       "NumProgressed": 611146,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2023-08-13T05:06:12.0452529+00:00",
+      "NumProgressed": 611150,
+      "NumCompleted": 62
     }
   ],
   "TotalAchievements": 65,
@@ -20903,7 +20908,7 @@
       "Name": "Herzlich Wilkommen!",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 55003
+      "UsersEstimate": 55004
     },
     {
       "ID": "achievement_04",
@@ -20911,7 +20916,7 @@
       "Name": "Under Pressure",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 42780
+      "UsersEstimate": 42781
     },
     {
       "ID": "achievement_05",
@@ -20919,7 +20924,7 @@
       "Name": "On the Trail of the Enemy",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 42780
+      "UsersEstimate": 42781
     },
     {
       "ID": "achievement_06",
@@ -20927,7 +20932,7 @@
       "Name": "Light in the Darkness",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 42780
+      "UsersEstimate": 42781
     },
     {
       "ID": "achievement_07",
@@ -20943,7 +20948,7 @@
       "Name": "Debris and Ashes",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 30557
+      "UsersEstimate": 30558
     },
     {
       "ID": "achievement_09",
@@ -20951,7 +20956,7 @@
       "Name": "We Will Be Heard!",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 30557
+      "UsersEstimate": 30558
     },
     {
       "ID": "achievement_10",
@@ -20959,7 +20964,7 @@
       "Name": "Known Associate",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 30557
+      "UsersEstimate": 30558
     },
     {
       "ID": "achievement_11",
@@ -20967,7 +20972,7 @@
       "Name": "Brush with Death",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 30557
+      "UsersEstimate": 30558
     },
     {
       "ID": "achievement_12",
@@ -20975,7 +20980,7 @@
       "Name": "Going Down",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 30557
+      "UsersEstimate": 30558
     },
     {
       "ID": "achievement_13",
@@ -21007,7 +21012,7 @@
       "Name": "Tunnel Entrance",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 30557
+      "UsersEstimate": 30558
     },
     {
       "ID": "achievement_17",
@@ -21015,7 +21020,7 @@
       "Name": "Tube Map",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 6111
+      "UsersEstimate": 6112
     },
     {
       "ID": "achievement_18",
@@ -21039,7 +21044,7 @@
       "Name": "Don Quixote",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 6111
+      "UsersEstimate": 6112
     },
     {
       "ID": "achievement_21",
@@ -21047,7 +21052,7 @@
       "Name": "Can\u0027t You Read the Signs?",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 6111
+      "UsersEstimate": 6112
     },
     {
       "ID": "achievement_22",
@@ -21079,7 +21084,7 @@
       "Name": "Flag Burning",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 42780
+      "UsersEstimate": 42781
     },
     {
       "ID": "achievement_26",
@@ -21167,7 +21172,7 @@
       "Name": "After the Fall",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 30557
+      "UsersEstimate": 30558
     },
     {
       "ID": "achievement_37",
@@ -21175,7 +21180,7 @@
       "Name": "Good Night \u0026 Good Luck",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 55003
+      "UsersEstimate": 55004
     },
     {
       "ID": "achievement_38",
@@ -21183,7 +21188,7 @@
       "Name": "Can\u0027t Touch This!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 30557
+      "UsersEstimate": 30558
     },
     {
       "ID": "achievement_39",
@@ -21191,7 +21196,7 @@
       "Name": "Night Hunter",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 42780
+      "UsersEstimate": 42781
     },
     {
       "ID": "achievement_40",
@@ -21239,7 +21244,7 @@
       "Name": "That\u0027s Teamwork!",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 6111
+      "UsersEstimate": 6112
     },
     {
       "ID": "achievement_46",
@@ -21263,7 +21268,7 @@
       "Name": "Fit as a Fiddle",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 6111
+      "UsersEstimate": 6112
     },
     {
       "ID": "achievement_49",
@@ -21271,7 +21276,7 @@
       "Name": "Ironheart",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 6111
+      "UsersEstimate": 6112
     },
     {
       "ID": "achievement_50",
@@ -21406,21 +21411,21 @@
     {
       "ID": "3cbf5jh",
       "IsBase": true,
-      "Progressed": 611146,
+      "Progressed": 611150,
       "Completed": 62
     },
     {
       "ID": "likk62",
       "IsBase": false,
-      "Progressed": 256590,
+      "Progressed": 256594,
       "Completed": 1425
     }
   ],
   "FirstSeen": "2022-07-22T20:18:57.6151265+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.1190573+00:00",
   "LastChanged": "2023-08-12T21:03:39.7859967+00:00",
-  "LastChanged_Achievements": "2023-08-13T04:06:24.2938445+00:00",
+  "LastChanged_Achievements": "2023-08-13T05:06:12.0452525+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:58.4996027+00:00",
-  "LastUpdate_Ratings": "2023-08-13T04:01:35.8347634+00:00",
-  "LastUpdate_Achievements": "2023-08-13T04:06:24.2940245+00:00"
+  "LastUpdate_Ratings": "2023-08-13T05:01:36.9997441+00:00",
+  "LastUpdate_Achievements": "2023-08-13T05:06:12.0453587+00:00"
 }

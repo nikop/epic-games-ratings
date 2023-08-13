@@ -4,8 +4,8 @@
   "ProductSlug": "royal-defense-d046db",
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 355,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 354,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-05-18T18:00:00+00:00",
     "PcReleaseDate": "2023-05-10T18:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-04T04:57:56.413751+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:22.5046381+00:00",
-  "LastUpdate_Ratings": "2023-08-13T03:59:03.4200061+00:00",
-  "LastUpdate_Achievements": "2023-08-13T04:06:33.5500359+00:00"
+  "LastUpdate_Ratings": "2023-08-13T04:59:01.5766697+00:00",
+  "LastUpdate_Achievements": "2023-08-13T05:06:21.1190733+00:00"
 }

@@ -7,7 +7,7 @@ Rating: 4.16 (Ranked 878)
 | ---- | ---------- | ----- |
 | First Day on the Job | 83.00% | ~6,232 |
 | Disposing of the Evidence | 38.00% | ~2,853 |
-| Without a Scratch | 33.00% | ~2,478 |
+| Without a Scratch | 34.00% | ~2,553 |
 | Wreckless Driving | 28.00% | ~2,102 |
 | A Marked Man | 25.00% | ~1,877 |
 | Street Sweeper | 18.00% | ~1,351 |
@@ -19,7 +19,7 @@ Rating: 4.16 (Ranked 878)
 | Right-hand Man | 10.00% | ~751 |
 | A Gift from the King | 7.00% | ~526 |
 | Full Artillery | 4.00% | ~300 |
-| Mob Boss | 2.00% | ~150 |
+| Mob Boss | 3.00% | ~225 |
 | Where To? | 2.00% | ~150 |
 | Splish Splash | 2.00% | ~150 |
 | Playing Doctor | 2.00% | ~150 |

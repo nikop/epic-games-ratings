@@ -70,12 +70,12 @@ Rating: 4.44 (Ranked 643)
 | Master of Rifles | 0.20% | ~7 |
 | Master-at-arms | 0.20% | ~7 |
 | Reich To The Point | 0.20% | ~7 |
+| Operation Overlord | 0.20% | ~7 |
 | Stroll in the Woods | 0.20% | ~7 |
 | Going Overboard | 0.20% | ~7 |
 | From Führer Away | 0.10% | ~3 |
 | Alpha | 0.10% | ~3 |
 | Das Familienjuwel | 0.10% | ~3 |
-| Operation Overlord | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,461 (Ranked 150)  
 Completed: 9 (0.26%) (Ranked 170)  

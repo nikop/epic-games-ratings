@@ -4,8 +4,8 @@
   "ProductSlug": "maras-quest-319c3b",
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 355,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 354,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-12T05:57:13.0555763+00:00",
-  "LastUpdate_Ratings": "2023-08-13T03:58:38.8954358+00:00",
-  "LastUpdate_Achievements": "2023-08-13T04:06:46.9376337+00:00"
+  "LastUpdate_Ratings": "2023-08-13T04:58:34.2930264+00:00",
+  "LastUpdate_Achievements": "2023-08-13T05:06:34.6730848+00:00"
 }

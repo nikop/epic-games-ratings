@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 45,
   "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -179,7 +179,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 247979,
+  "EOS_Progressed": 247980,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 308,
   "EOS_NewCompleters": 0,
@@ -11069,6 +11069,11 @@
       "Time": "2023-08-13T04:04:27.8622063+00:00",
       "NumProgressed": 247979,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-13T05:04:18.6578313+00:00",
+      "NumProgressed": 247980,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 46,
@@ -11136,7 +11141,7 @@
       "Name": "Can You Dig It?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 42156
+      "UsersEstimate": 42157
     },
     {
       "ID": "cantBeKeptDown",
@@ -11384,7 +11389,7 @@
       "Name": "The Stunner",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 54555
+      "UsersEstimate": 54556
     },
     {
       "ID": "thunderstruck",
@@ -11447,7 +11452,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 247979,
+      "Progressed": 247980,
       "Completed": 3
     }
   ],
@@ -11455,8 +11460,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-08-13T04:04:27.8622058+00:00",
+  "LastChanged_Achievements": "2023-08-13T05:04:18.6578302+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:58.6114529+00:00",
-  "LastUpdate_Ratings": "2023-08-13T04:00:44.1636099+00:00",
-  "LastUpdate_Achievements": "2023-08-13T04:04:27.8623333+00:00"
+  "LastUpdate_Ratings": "2023-08-13T05:00:49.7808855+00:00",
+  "LastUpdate_Achievements": "2023-08-13T05:04:18.6579095+00:00"
 }

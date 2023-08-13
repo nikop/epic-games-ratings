@@ -4,8 +4,8 @@
   "ProductSlug": "superbrothers-sword-and-sworcery-ep",
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 355,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 354,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2020-07-30T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:24.7625058+00:00",
   "LastChanged": "2023-03-31T05:58:24.7625059+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:37.7231766+00:00",
-  "LastUpdate_Ratings": "2023-08-13T03:59:19.7239077+00:00",
-  "LastUpdate_Achievements": "2023-08-13T04:05:56.9851465+00:00"
+  "LastUpdate_Ratings": "2023-08-13T04:59:21.3979139+00:00",
+  "LastUpdate_Achievements": "2023-08-13T05:05:45.4093525+00:00"
 }

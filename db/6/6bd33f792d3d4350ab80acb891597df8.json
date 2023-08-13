@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 369,
   "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 256,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2022-12-23T00:00:00+00:00",
@@ -279,17 +279,17 @@
       "ID": "CgkIxYDzrbcPEAIQBA",
       "SetID": "4egpam7",
       "Name": "Devil\u0027s Bargain",
-      "Percentage": 60,
+      "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "CgkIxYDzrbcPEAIQBQ",
       "SetID": "4egpam7",
       "Name": "Man of Faith",
-      "Percentage": 56,
+      "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "CgkIxYDzrbcPEAIQBg",
@@ -375,9 +375,9 @@
       "ID": "CgkIxYDzrbcPEAIQEA",
       "SetID": "4egpam7",
       "Name": "Collector of Secrets",
-      "Percentage": 58,
+      "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "CgkIxYDzrbcPEAIQEQ",
@@ -502,8 +502,8 @@
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2023-08-13T04:06:35.8630791+00:00",
+  "LastChanged_Achievements": "2023-08-13T05:06:23.6543659+00:00",
   "LastUpdate_AppInfo": "2023-08-08T13:56:55.0223593+00:00",
-  "LastUpdate_Ratings": "2023-08-13T03:58:14.4794362+00:00",
-  "LastUpdate_Achievements": "2023-08-13T04:06:35.8631016+00:00"
+  "LastUpdate_Ratings": "2023-08-13T04:58:11.2274628+00:00",
+  "LastUpdate_Achievements": "2023-08-13T05:06:23.6543848+00:00"
 }

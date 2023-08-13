@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Will This Help? | 73.00% | ~155 |
 | No One Is Safe | 65.00% | ~138 |
-| Career Woman | 63.00% | ~134 |
+| Career Woman | 64.00% | ~136 |
 | He's Off His Meds | 57.00% | ~121 |
 | Deal Or No Deal | 49.00% | ~104 |
 | Personal Life | 49.00% | ~104 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 52,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -6492,9 +6492,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 796827,
+  "EOS_Progressed": 796829,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 961,
+  "EOS_NewPlayers": 962,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -19007,6 +19007,11 @@
       "Time": "2023-08-13T04:05:42.5430247+00:00",
       "NumProgressed": 796827,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-08-13T05:05:31.5410129+00:00",
+      "NumProgressed": 796829,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 82,
@@ -19042,7 +19047,7 @@
       "Name": "Anorectic",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 127492
+      "UsersEstimate": 127493
     },
     {
       "ID": "Awakening",
@@ -19218,7 +19223,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 183270
+      "UsersEstimate": 183271
     },
     {
       "ID": "Fighter",
@@ -19298,7 +19303,7 @@
       "Name": "Haggler",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 71714
+      "UsersEstimate": 71715
     },
     {
       "ID": "HardcoreHenry",
@@ -19498,7 +19503,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 159365
+      "UsersEstimate": 159366
     },
     {
       "ID": "RevenantOfLedechko",
@@ -19538,7 +19543,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 159365
+      "UsersEstimate": 159366
     },
     {
       "ID": "SerialKiller",
@@ -19673,15 +19678,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 796827,
+      "Progressed": 796829,
       "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-08-12T21:01:34.9103528+00:00",
-  "LastChanged_Achievements": "2023-08-13T04:05:42.5430241+00:00",
+  "LastChanged_Achievements": "2023-08-13T05:05:31.5410122+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:10.6594463+00:00",
-  "LastUpdate_Ratings": "2023-08-13T03:59:54.8173492+00:00",
-  "LastUpdate_Achievements": "2023-08-13T04:05:42.5432057+00:00"
+  "LastUpdate_Ratings": "2023-08-13T04:59:56.6450377+00:00",
+  "LastUpdate_Achievements": "2023-08-13T05:05:31.5411395+00:00"
 }

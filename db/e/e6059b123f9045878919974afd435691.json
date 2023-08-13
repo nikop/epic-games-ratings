@@ -4,8 +4,8 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 712,
+  "EOS_Progressed": 714,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1546,6 +1546,11 @@
       "Time": "2023-08-13T04:07:10.3448337+00:00",
       "NumProgressed": 712,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-13T05:06:56.8968668+00:00",
+      "NumProgressed": 714,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1557,15 +1562,15 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "How Many Do You Need?",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 292
+      "UsersEstimate": 286
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -1597,7 +1602,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -1605,7 +1610,7 @@
       "Name": "Goat Whisperer",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "ATK_ACHIEVEMENT_3",
@@ -1613,7 +1618,7 @@
       "Name": "I Can Do This All Day",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ATK_ACHIEVEMENT_4",
@@ -1661,7 +1666,7 @@
       "Name": "Main Course",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "BRO_ACHIEVEMENT_2",
@@ -1693,7 +1698,7 @@
       "Name": "He\u0027s Getting Crazier",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "BURN_ACHIEVEMENT_4",
@@ -1757,7 +1762,7 @@
       "Name": "Greetings from Royalty",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
@@ -1797,7 +1802,7 @@
       "Name": "Where Is Houdini?",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "FREE_ACHIEVEMENT_1",
@@ -1837,7 +1842,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -1845,7 +1850,7 @@
       "Name": "Who You Gonna Call?",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -1877,7 +1882,7 @@
       "Name": "And There We Go",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -2005,7 +2010,7 @@
       "Name": "The Clairvoyant Who Doesn\u0027t See",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -2013,7 +2018,7 @@
       "Name": "Haunted Prison",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_3",
@@ -2084,14 +2089,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 712,
+      "Progressed": 714,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-08-13T04:07:10.3448331+00:00",
+  "LastChanged_Achievements": "2023-08-13T05:06:56.8968664+00:00",
   "LastUpdate_AppInfo": "2023-08-10T15:57:09.1792695+00:00",
-  "LastUpdate_Ratings": "2023-08-13T03:58:02.8887234+00:00",
-  "LastUpdate_Achievements": "2023-08-13T04:07:10.3450253+00:00"
+  "LastUpdate_Ratings": "2023-08-13T04:57:59.4737792+00:00",
+  "LastUpdate_Achievements": "2023-08-13T05:06:56.8969248+00:00"
 }

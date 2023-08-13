@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 234,
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1241,9 +1241,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 126113,
+  "EOS_Progressed": 126115,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 445,
+  "EOS_NewPlayers": 441,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -12606,6 +12606,11 @@
       "Time": "2023-08-13T04:04:49.7629377+00:00",
       "NumProgressed": 126113,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-08-13T05:04:39.9966044+00:00",
+      "NumProgressed": 126115,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 40,
@@ -12649,7 +12654,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 22700
+      "UsersEstimate": 22701
     },
     {
       "ID": "ACH_COP_BAD",
@@ -12673,7 +12678,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 30267
+      "UsersEstimate": 30268
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -12761,7 +12766,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 13872
+      "UsersEstimate": 13873
     },
     {
       "ID": "ACH_CUNO",
@@ -12936,15 +12941,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 126113,
+      "Progressed": 126115,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-08-04T01:55:33.6301654+00:00",
-  "LastChanged_Achievements": "2023-08-13T04:04:49.7629371+00:00",
+  "LastChanged_Achievements": "2023-08-13T05:04:39.9966038+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:59.4029348+00:00",
-  "LastUpdate_Ratings": "2023-08-13T04:00:44.0151228+00:00",
-  "LastUpdate_Achievements": "2023-08-13T04:04:49.7630598+00:00"
+  "LastUpdate_Ratings": "2023-08-13T05:00:49.6303687+00:00",
+  "LastUpdate_Achievements": "2023-08-13T05:04:39.9966874+00:00"
 }

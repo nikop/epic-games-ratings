@@ -18,7 +18,7 @@
 | Big metal ruler | 42.00% | ~80 |
 | Windmill | 41.00% | ~78 |
 | Doll | 39.00% | ~74 |
-| Mysterious paintings | 35.00% | ~66 |
+| Mysterious paintings | 36.00% | ~68 |
 | Cat | 34.00% | ~65 |
 | Depths of the well | 26.00% | ~49 |
 | Children | 23.00% | ~44 |

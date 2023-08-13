@@ -4,8 +4,8 @@
   "ProductSlug": "33-immortals-9873a2",
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 355,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 354,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-06T23:57:31.0714589+00:00",
-  "LastUpdate_Ratings": "2023-08-13T03:58:14.3224511+00:00",
-  "LastUpdate_Achievements": "2023-08-13T04:05:35.1629544+00:00"
+  "LastUpdate_Ratings": "2023-08-13T04:58:11.0678374+00:00",
+  "LastUpdate_Achievements": "2023-08-13T05:05:23.9640185+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "f672c20984f04f69936e6057feefe3d1",
   "Name": "Sunless Sea",
   "ProductSlug": "sunless-sea",
-  "Ranking_Rating": 426,
+  "Ranking_Rating": 427,
   "Ranking_Popularity": 269,
   "Ranking_PopularitySum": 341,
   "Ranking_EOS_Progress": 95,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -685,9 +685,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 35401,
+  "EOS_Progressed": 35403,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 420,
+  "EOS_NewPlayers": 419,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -12285,6 +12285,11 @@
       "Time": "2023-08-13T04:05:23.2913421+00:00",
       "NumProgressed": 35401,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-13T05:05:12.7013606+00:00",
+      "NumProgressed": 35403,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -12312,7 +12317,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 6018
+      "UsersEstimate": 6019
     },
     {
       "ID": "ach_antiquarian10",
@@ -12416,7 +12421,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 12744
+      "UsersEstimate": 12745
     },
     {
       "ID": "ach_die10",
@@ -12648,7 +12653,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 6372
+      "UsersEstimate": 6373
     },
     {
       "ID": "ach_terror100",
@@ -12727,15 +12732,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 35401,
+      "Progressed": 35403,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-07-28T14:59:59.8138313+00:00",
-  "LastChanged_Achievements": "2023-08-13T04:05:23.2913414+00:00",
+  "LastChanged_Achievements": "2023-08-13T05:05:12.70136+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:45.6858785+00:00",
-  "LastUpdate_Ratings": "2023-08-13T04:01:25.0433832+00:00",
-  "LastUpdate_Achievements": "2023-08-13T04:05:23.2914809+00:00"
+  "LastUpdate_Ratings": "2023-08-13T05:01:22.7855697+00:00",
+  "LastUpdate_Achievements": "2023-08-13T05:05:12.7014526+00:00"
 }
