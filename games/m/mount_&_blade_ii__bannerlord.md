@@ -7,13 +7,13 @@ Number of Ratings: 5,603  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Lawbringer | 38.00% | ~22,352 |
-| Landlord | 32.00% | ~18,822 |
-| Bannerlord | 22.00% | ~12,940 |
-| Horde breaker | 22.00% | ~12,940 |
-| Lawmaker | 22.00% | ~12,940 |
-| Trained | 22.00% | ~12,940 |
+| Landlord | 32.00% | ~18,823 |
+| Bannerlord | 22.00% | ~12,941 |
+| Horde breaker | 22.00% | ~12,941 |
+| Lawmaker | 22.00% | ~12,941 |
+| Trained | 22.00% | ~12,941 |
 | The king is pleased | 18.00% | ~10,588 |
-| King Solomon | 17.00% | ~9,999 |
+| King Solomon | 17.00% | ~10,000 |
 | Apple of my eye | 15.00% | ~8,823 |
 | I can do it | 15.00% | ~8,823 |
 | God of the Arena | 13.00% | ~7,647 |
@@ -25,7 +25,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | I spit on your grave | 9.00% | ~5,294 |
 | What have the Romans ever done for us? | 9.00% | ~5,294 |
 | Butterlord | 8.00% | ~4,706 |
-| Mastery | 7.00% | ~4,117 |
+| Mastery | 7.00% | ~4,118 |
 | Know your enemy | 6.00% | ~3,529 |
 | My way | 5.00% | ~2,941 |
 | Crowdfunded | 4.00% | ~2,353 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,820 (Ranked 86)  
+Progressed: 58,822 (Ranked 86)  
 Completed: 0 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,15 +173,15 @@ Completed: 0 (0.00%) (Ranked 255)
 | 2023-08-10 | 58,619 | 0 |
 | 2023-08-11 | 58,682 | 0 |
 | 2023-08-12 | 58,752 | 0 |
-| 2023-08-13 | 58,820 | 0 |
+| 2023-08-13 | 58,822 | 0 |
 ## Awards
 Max (Character Customization): 6,933  (Ranked 49)  
-Sum: 14,064 (Ranked 67)  
+Sum: 14,066 (Ranked 67)  
 Diff (max vs sum): -18  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 6,933 |
-| This game is Great for Beginners | 916 |
+| This game is Great for Beginners | 918 |
 | This game has Diverse Characters | 884 |
 | This game is Highly Recommended | 839 |
 | This game is Extremely Fun | 803 |
@@ -405,4 +405,4 @@ Diff (max vs sum): -18
 | 2023-08-10 | 4.74 | - | 6,920 | 14,034 |
 | 2023-08-11 | 4.74 | - | 6,922 | 14,041 |
 | 2023-08-12 | 4.74 | - | 6,922 | 14,045 |
-| 2023-08-13 | 4.74 | - | 6,933 | 14,064 |
+| 2023-08-13 | 4.74 | - | 6,933 | 14,066 |

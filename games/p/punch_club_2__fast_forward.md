@@ -6,15 +6,15 @@
 | ---- | ---------- | ----- |
 | Such a strange dream… | 87.00% | ~217 |
 | Your first fight | 85.00% | ~212 |
+| First winning | 84.00% | ~209 |
 | Good Person Chip | 84.00% | ~209 |
-| First winning | 83.00% | ~207 |
 | Your first job | 83.00% | ~207 |
-| Old movies enjoyer | 79.00% | ~197 |
+| Old movies enjoyer | 80.00% | ~199 |
 | Fitness professional | 78.00% | ~194 |
 | Depressed visitor | 77.00% | ~192 |
+| Employee of the week | 77.00% | ~192 |
 | First defeat | 76.00% | ~189 |
 | Neurotrainer – power gainer! | 76.00% | ~189 |
-| Employee of the week | 76.00% | ~189 |
 | Your own amateur gym | 75.00% | ~187 |
 | Run K, run! | 73.00% | ~182 |
 | Fighting is cool | 70.00% | ~174 |
@@ -26,17 +26,17 @@
 | Law student | 63.00% | ~157 |
 | Workout professional | 61.00% | ~152 |
 | It's good to be alive | 61.00% | ~152 |
+| Champion – starter pack | 60.00% | ~149 |
 | Own four walls | 60.00% | ~149 |
 | Fight for life | 59.00% | ~147 |
 | Little hacker | 59.00% | ~147 |
 | Handyman | 59.00% | ~147 |
-| Champion – starter pack | 59.00% | ~147 |
 | Employee of the year | 59.00% | ~147 |
 | Intriguing candies | 57.00% | ~142 |
+| Legal courier | 54.00% | ~134 |
 | Extreme neuropower! | 54.00% | ~134 |
-| Legal courier | 53.00% | ~132 |
-| Escaped from a big trouble | 50.00% | ~124 |
-| Now you are worthy | 47.00% | ~117 |
+| Escaped from a big trouble | 51.00% | ~127 |
+| Now you are worthy | 48.00% | ~120 |
 | Guiding on the right path | 45.00% | ~112 |
 | Fight is life | 44.00% | ~110 |
 | Mysterious voice | 44.00% | ~110 |
@@ -45,12 +45,12 @@
 | Champion – no way back | 39.00% | ~97 |
 | Underground dwellers | 38.00% | ~95 |
 | Responsible approach | 38.00% | ~95 |
+| Deal with life | 37.00% | ~92 |
 | Poisoned fighter | 37.00% | ~92 |
 | Get out of my apartment! | 37.00% | ~92 |
-| Deal with life | 36.00% | ~90 |
+| Mom got better | 36.00% | ~90 |
 | GYM professional | 36.00% | ~90 |
-| Mom got better | 35.00% | ~87 |
-| The die is cast | 35.00% | ~87 |
+| The die is cast | 36.00% | ~90 |
 | Seashell hunter | 35.00% | ~87 |
 | Gang wrangler | 32.00% | ~80 |
 | Problems of cyborgs | 32.00% | ~80 |

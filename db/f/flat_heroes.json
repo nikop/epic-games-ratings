@@ -361,9 +361,9 @@
       "ID": "HeroWorld1Boss",
       "SetID": "d9ekhim",
       "Name": "Dash Crash - Hero Edition",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 17
     },
     {
       "ID": "HeroWorld2Boss",
@@ -666,8 +666,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2023-08-13T21:06:07.5304214+00:00",
+  "LastChanged_Achievements": "2023-08-13T22:07:33.444118+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:08.1371776+00:00",
-  "LastUpdate_Ratings": "2023-08-13T20:58:09.0753818+00:00",
-  "LastUpdate_Achievements": "2023-08-13T21:06:07.5304514+00:00"
+  "LastUpdate_Ratings": "2023-08-13T21:58:44.7012424+00:00",
+  "LastUpdate_Achievements": "2023-08-13T22:07:33.4441527+00:00"
 }

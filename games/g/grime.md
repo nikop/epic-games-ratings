@@ -6,50 +6,50 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Imprint | 88.00% | ~120,902 |
-| Taste | 83.00% | ~114,033 |
-| The Hunt | 66.00% | ~90,677 |
-| Ravenous | 63.00% | ~86,555 |
-| Weeper | 43.00% | ~59,077 |
-| Devourer | 22.00% | ~30,226 |
-| Harmless | 19.00% | ~26,104 |
-| Silenced Whispers | 19.00% | ~26,104 |
-| Yank | 15.00% | ~20,608 |
-| Sharpened Vessel | 15.00% | ~20,608 |
-| Feast | 12.00% | ~16,487 |
-| Scion | 11.00% | ~15,067 |
-| Jawcrab | 11.00% | ~15,113 |
-| Jawstag | 11.00% | ~15,113 |
-| Watcher | 10.00% | ~13,739 |
-| Shapely | 8.00% | ~10,991 |
-| Glare | 8.00% | ~10,958 |
-| Predator | 8.00% | ~10,991 |
-| Assimilation | 6.00% | ~8,243 |
-| Host | 6.00% | ~8,218 |
-| Celebration | 6.00% | ~8,243 |
-| Hunt Down | 5.00% | ~6,869 |
-| Artisan | 4.00% | ~5,496 |
-| Hush | 4.00% | ~5,496 |
-| Inevitable | 4.00% | ~5,496 |
-| Breathsmith | 4.00% | ~5,496 |
-| Unwrap the Gift | 4.00% | ~5,496 |
-| Dream | 4.00% | ~5,479 |
+| Imprint | 88.00% | ~120,926 |
+| Taste | 83.00% | ~114,055 |
+| The Hunt | 66.00% | ~90,695 |
+| Ravenous | 63.00% | ~86,572 |
+| Weeper | 43.00% | ~59,089 |
+| Devourer | 22.00% | ~30,232 |
+| Harmless | 19.00% | ~26,109 |
+| Silenced Whispers | 19.00% | ~26,109 |
+| Yank | 15.00% | ~20,612 |
+| Sharpened Vessel | 15.00% | ~20,612 |
+| Feast | 12.00% | ~16,490 |
+| Scion | 11.00% | ~15,070 |
+| Jawcrab | 11.00% | ~15,116 |
+| Jawstag | 11.00% | ~15,116 |
+| Watcher | 10.00% | ~13,742 |
+| Shapely | 8.00% | ~10,993 |
+| Glare | 8.00% | ~10,960 |
+| Predator | 8.00% | ~10,993 |
+| Assimilation | 6.00% | ~8,245 |
+| Host | 6.00% | ~8,220 |
+| Celebration | 6.00% | ~8,245 |
+| Hunt Down | 5.00% | ~6,871 |
+| Artisan | 4.00% | ~5,497 |
+| Hush | 4.00% | ~5,497 |
+| Inevitable | 4.00% | ~5,497 |
+| Breathsmith | 4.00% | ~5,497 |
+| Unwrap the Gift | 4.00% | ~5,497 |
+| Dream | 4.00% | ~5,480 |
 | Breath | 3.00% | ~4,122 |
 | All-Seeing | 3.00% | ~4,122 |
 | Passage | 3.00% | ~4,122 |
 | Proportions | 3.00% | ~4,122 |
 | Bloodhunter | 2.00% | ~2,748 |
-| Zygote | 2.00% | ~2,739 |
+| Zygote | 2.00% | ~2,740 |
 | Kinship | 2.00% | ~2,748 |
-| Kin | 2.00% | ~2,739 |
-| Listen | 2.00% | ~2,739 |
+| Kin | 2.00% | ~2,740 |
+| Listen | 2.00% | ~2,740 |
 | Weakness | 1.00% | ~1,374 |
 | Generous | 1.00% | ~1,374 |
 | Skinmaker | 0.80% | ~1,099 |
 | Instruments | 0.60% | ~824 |
 | Spiral Heart | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,389 (Ranked 64)  
+Progressed: 137,416 (Ranked 64)  
 Completed: 1 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 1 (0.00%) (Ranked 255)
 | 2023-08-10 | 135,904 | 1 |
 | 2023-08-11 | 136,360 | 1 |
 | 2023-08-12 | 136,888 | 1 |
-| 2023-08-13 | 137,389 | 1 |
+| 2023-08-13 | 137,416 | 1 |
 ## Awards
 Max (Highly Recommended): 23  (Ranked 489)  
 Sum: 65 (Ranked 441)  

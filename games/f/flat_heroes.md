@@ -19,8 +19,8 @@
 | Floor is Lava | 7.00% | ~24 |
 | Pim Pam Pum | 7.00% | ~24 |
 | Ambush | 6.00% | ~20 |
+| Dash Crash - Hero Edition | 5.00% | ~17 |
 | Black Belt | 4.00% | ~13 |
-| Dash Crash - Hero Edition | 4.00% | ~13 |
 | Quite The Hero | 4.00% | ~13 |
 | Snake Eyes - Hero Edition | 2.00% | ~7 |
 | The King of Flat - Hero Edition | 2.00% | ~7 |

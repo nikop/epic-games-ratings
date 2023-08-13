@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 292,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 160,
-  "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
     "PcReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -368,9 +368,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12764,
+  "EOS_Progressed": 12766,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -7243,6 +7243,11 @@
       "Time": "2023-08-13T20:05:46.2547399+00:00",
       "NumProgressed": 12764,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-08-13T22:05:14.4388409+00:00",
+      "NumProgressed": 12766,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 35,
@@ -7254,7 +7259,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 11743
+      "UsersEstimate": 11745
     },
     {
       "ID": "ACH_02",
@@ -7262,7 +7267,7 @@
       "Name": "Newcomers",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 9956
+      "UsersEstimate": 9957
     },
     {
       "ID": "ACH_03",
@@ -7270,7 +7275,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 9318
+      "UsersEstimate": 9319
     },
     {
       "ID": "ACH_04",
@@ -7278,15 +7283,15 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 8935
+      "UsersEstimate": 8936
     },
     {
       "ID": "ACH_05",
       "SetID": "9d4cf4c",
       "Name": "In our Wake",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 8552
+      "UsersEstimate": 8681
     },
     {
       "ID": "ACH_06",
@@ -7294,7 +7299,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 8169
+      "UsersEstimate": 8170
     },
     {
       "ID": "ACH_07",
@@ -7302,7 +7307,7 @@
       "Name": "Felons",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 7786
+      "UsersEstimate": 7787
     },
     {
       "ID": "ACH_08",
@@ -7310,7 +7315,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 7658
+      "UsersEstimate": 7660
     },
     {
       "ID": "ACH_09",
@@ -7318,7 +7323,7 @@
       "Name": "Tales and Revelations",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 7275
+      "UsersEstimate": 7277
     },
     {
       "ID": "ACH_10",
@@ -7326,7 +7331,7 @@
       "Name": "Bloodline",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 6637
+      "UsersEstimate": 6638
     },
     {
       "ID": "ACH_11",
@@ -7334,7 +7339,7 @@
       "Name": "The Cradle of Centuries",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 6127
+      "UsersEstimate": 6128
     },
     {
       "ID": "ACH_12",
@@ -7342,7 +7347,7 @@
       "Name": "The Life We Deserve",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 5744
+      "UsersEstimate": 5745
     },
     {
       "ID": "ACH_13",
@@ -7350,7 +7355,7 @@
       "Name": "Nothing Left",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 4978
+      "UsersEstimate": 4979
     },
     {
       "ID": "ACH_14",
@@ -7366,7 +7371,7 @@
       "Name": "Dying Sun",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 4212
+      "UsersEstimate": 4213
     },
     {
       "ID": "ACH_16",
@@ -7374,7 +7379,7 @@
       "Name": "King Hugo",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "ACH_17",
@@ -7390,7 +7395,7 @@
       "Name": "Herbalist",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 893
+      "UsersEstimate": 894
     },
     {
       "ID": "ACH_19",
@@ -7430,7 +7435,7 @@
       "Name": "Improved crossbow",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 3446
+      "UsersEstimate": 3447
     },
     {
       "ID": "ACH_24",
@@ -7438,7 +7443,7 @@
       "Name": "Handful of pockets",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 1659
+      "UsersEstimate": 1660
     },
     {
       "ID": "ACH_25",
@@ -7446,7 +7451,7 @@
       "Name": "Effective instruments",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 2680
+      "UsersEstimate": 2681
     },
     {
       "ID": "ACH_26",
@@ -7470,7 +7475,7 @@
       "Name": "Alchemist",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 8680
+      "UsersEstimate": 8681
     },
     {
       "ID": "ACH_29",
@@ -7486,7 +7491,7 @@
       "Name": "Fighter",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 893
+      "UsersEstimate": 894
     },
     {
       "ID": "ACH_31",
@@ -7502,7 +7507,7 @@
       "Name": "Perfect shot",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 2808
+      "UsersEstimate": 2809
     },
     {
       "ID": "ACH_33",
@@ -7510,7 +7515,7 @@
       "Name": "Perfect throw",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 2680
+      "UsersEstimate": 2681
     },
     {
       "ID": "ACH_34",
@@ -7526,14 +7531,14 @@
       "Name": "Mercy",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     }
   ],
   "AchievementSets": [
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 12764,
+      "Progressed": 12766,
       "Completed": 42
     }
   ],
@@ -7541,8 +7546,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-07-25T21:01:04.4770621+00:00",
-  "LastChanged_Achievements": "2023-08-13T21:04:12.4118739+00:00",
+  "LastChanged_Achievements": "2023-08-13T22:05:14.4388403+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:12.6361661+00:00",
-  "LastUpdate_Ratings": "2023-08-13T21:00:13.95804+00:00",
-  "LastUpdate_Achievements": "2023-08-13T21:04:12.4119246+00:00"
+  "LastUpdate_Ratings": "2023-08-13T22:01:25.1529046+00:00",
+  "LastUpdate_Achievements": "2023-08-13T22:05:14.4389085+00:00"
 }

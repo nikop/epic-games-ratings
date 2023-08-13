@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -60,9 +60,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 622,
+  "EOS_Progressed": 623,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1550,6 +1550,11 @@
       "Time": "2023-08-13T19:04:29.2604392+00:00",
       "NumProgressed": 622,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-13T22:04:22.7445308+00:00",
+      "NumProgressed": 623,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -1559,9 +1564,9 @@
       "ID": "Adventurer",
       "SetID": "2aagp3d",
       "Name": "Extensive retelling",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 31
+      "UsersEstimate": 25
     },
     {
       "ID": "BadApple",
@@ -1585,7 +1590,7 @@
       "Name": "Dental maturity",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "DevilDetail",
@@ -1719,9 +1724,9 @@
       "ID": "Queen",
       "SetID": "2aagp3d",
       "Name": "Queen",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 31
+      "UsersEstimate": 25
     },
     {
       "ID": "Rats",
@@ -1751,9 +1756,9 @@
       "ID": "SpringCleaning",
       "SetID": "2aagp3d",
       "Name": "Uprooting",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 81
     },
     {
       "ID": "TheGuardian",
@@ -1816,7 +1821,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 622,
+      "Progressed": 623,
       "Completed": 1
     }
   ],
@@ -1824,8 +1829,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-06-17T03:57:55.2766718+00:00",
-  "LastChanged_Achievements": "2023-08-13T21:03:38.1796109+00:00",
+  "LastChanged_Achievements": "2023-08-13T22:04:22.7445288+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:35.7451795+00:00",
-  "LastUpdate_Ratings": "2023-08-13T20:58:49.6233097+00:00",
-  "LastUpdate_Achievements": "2023-08-13T21:03:38.1796362+00:00"
+  "LastUpdate_Ratings": "2023-08-13T21:59:34.2167048+00:00",
+  "LastUpdate_Achievements": "2023-08-13T22:04:22.7445614+00:00"
 }

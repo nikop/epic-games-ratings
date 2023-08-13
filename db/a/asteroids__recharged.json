@@ -227,9 +227,9 @@
       "ID": "ACH_KEEP_YOURSELF_ALIVE",
       "SetID": "ca3jj1k",
       "Name": "Keep Yourself Alive",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_KILLER_QUEEN",
@@ -299,9 +299,9 @@
       "ID": "ACH_THE_INVISIBLE",
       "SetID": "ca3jj1k",
       "Name": "The Invisible Man",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_THE_MIRACLE",
@@ -332,8 +332,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.8457032+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.0797767+00:00",
   "LastChanged": "2023-03-31T05:58:41.8457033+00:00",
-  "LastChanged_Achievements": "2023-08-13T21:04:59.4782749+00:00",
+  "LastChanged_Achievements": "2023-08-13T22:06:10.6160932+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:33.9682368+00:00",
-  "LastUpdate_Ratings": "2023-08-13T20:59:38.8380265+00:00",
-  "LastUpdate_Achievements": "2023-08-13T21:04:59.478285+00:00"
+  "LastUpdate_Ratings": "2023-08-13T22:00:39.9523153+00:00",
+  "LastUpdate_Achievements": "2023-08-13T22:06:10.616103+00:00"
 }

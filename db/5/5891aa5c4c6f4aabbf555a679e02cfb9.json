@@ -304,9 +304,9 @@
       "ID": "ACHIEVEMENT_10",
       "SetID": "b36c5kb",
       "Name": "Another Ally",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -456,9 +456,9 @@
       "ID": "ACHIEVEMENT_29",
       "SetID": "b36c5kb",
       "Name": "Doing Some Detecting",
-      "Percentage": 25,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -520,9 +520,9 @@
       "ID": "ACHIEVEMENT_37",
       "SetID": "b36c5kb",
       "Name": "Caffeine Addict",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_38",
@@ -647,8 +647,8 @@
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-08-13T21:03:46.8881672+00:00",
+  "LastChanged_Achievements": "2023-08-13T22:04:33.4208148+00:00",
   "LastUpdate_AppInfo": "2023-08-09T15:57:03.4224426+00:00",
-  "LastUpdate_Ratings": "2023-08-13T20:57:24.5975817+00:00",
-  "LastUpdate_Achievements": "2023-08-13T21:03:46.8882043+00:00"
+  "LastUpdate_Ratings": "2023-08-13T21:57:46.1952526+00:00",
+  "LastUpdate_Achievements": "2023-08-13T22:04:33.420863+00:00"
 }

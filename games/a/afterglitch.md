@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I. | 83.00% | ~5 |
-| II. | 33.00% | ~2 |
-| III. | 33.00% | ~2 |
-| X. | 17.00% | ~1 |
-| IV. | 17.00% | ~1 |
-| V. | 17.00% | ~1 |
-| VI. | 17.00% | ~1 |
-| VII. | 17.00% | ~1 |
-| VIII. | 17.00% | ~1 |
-| IX. | 17.00% | ~1 |
+| I. | 86.00% | ~6 |
+| II. | 43.00% | ~3 |
+| III. | 43.00% | ~3 |
+| X. | 14.00% | ~1 |
+| IV. | 14.00% | ~1 |
+| V. | 14.00% | ~1 |
+| VI. | 14.00% | ~1 |
+| VII. | 14.00% | ~1 |
+| VIII. | 14.00% | ~1 |
+| IX. | 14.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6 (Ranked 449)  
-Completed: 1 (16.67%) (Ranked 14)  
+Progressed: 7 (Ranked 447)  
+Completed: 1 (14.29%) (Ranked 16)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -25,3 +25,4 @@ Completed: 1 (16.67%) (Ranked 14)
 | 2023-07-22 | 4 | 0 |
 | 2023-07-25 | 5 | 0 |
 | 2023-08-06 | 6 | 1 |
+| 2023-08-13 | 7 | 1 |

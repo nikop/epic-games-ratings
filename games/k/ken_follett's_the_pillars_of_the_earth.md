@@ -15,7 +15,7 @@ Number of Ratings: 368  (23.09.2022)
 | Wannabe knight | 24.00% | ~3,488 |
 | Garden of Eden | 24.00% | ~3,488 |
 | Full house | 24.00% | ~3,488 |
-| Help an old friend | 22.00% | ~3,197 |
+| Help an old friend | 22.00% | ~3,198 |
 | Two of us | 20.00% | ~2,907 |
 | Negotiation skills | 18.00% | ~2,616 |
 | Workers' union | 18.00% | ~2,616 |
@@ -23,12 +23,12 @@ Number of Ratings: 368  (23.09.2022)
 | Everything's in order | 17.00% | ~2,471 |
 | Jack was here! | 15.00% | ~2,180 |
 | Twist of Fate | 14.00% | ~2,035 |
-| Exterminator | 13.00% | ~1,889 |
-| Whodunnit | 13.00% | ~1,889 |
+| Exterminator | 13.00% | ~1,890 |
+| Whodunnit | 13.00% | ~1,890 |
 | Friar Tuck | 11.00% | ~1,599 |
 | First profit | 11.00% | ~1,599 |
-| Good midwife | 10.00% | ~1,453 |
-| Team player | 10.00% | ~1,453 |
+| Good midwife | 10.00% | ~1,454 |
+| Team player | 10.00% | ~1,454 |
 | Skilled merchant | 9.00% | ~1,308 |
 | Nothing but make-believe | 9.00% | ~1,308 |
 | Brother Marcus | 9.00% | ~1,308 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~436 |
 | Boy of mystery | 2.00% | ~291 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,534 (Ranked 116)  
+Progressed: 14,535 (Ranked 116)  
 Completed: 109 (0.75%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 109 (0.75%) (Ranked 122)
 | 2023-08-10 | 14,471 | 107 |
 | 2023-08-11 | 14,487 | 108 |
 | 2023-08-12 | 14,512 | 109 |
-| 2023-08-13 | 14,534 | 109 |
+| 2023-08-13 | 14,535 | 109 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 297)  
 Sum: 188 (Ranked 373)  

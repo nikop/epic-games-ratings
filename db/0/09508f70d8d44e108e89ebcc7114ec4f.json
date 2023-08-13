@@ -4,7 +4,7 @@
   "ProductSlug": "match-village-5f41dd",
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 83,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-06-01T13:00:00+00:00",
@@ -1205,9 +1205,9 @@
       "ID": "village",
       "SetID": "ap7g2g4",
       "Name": "Village",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 55
+      "UsersEstimate": 58
     },
     {
       "ID": "water_platform",
@@ -1244,8 +1244,8 @@
   ],
   "FirstSeen": "2023-06-02T14:56:55.6252119+00:00",
   "FirstSeenAchievements": "2023-05-18T11:00:53.5255241+00:00",
-  "LastChanged_Achievements": "2023-08-13T21:05:31.0045598+00:00",
+  "LastChanged_Achievements": "2023-08-13T22:06:48.6384926+00:00",
   "LastUpdate_AppInfo": "2023-08-10T17:57:18.2210326+00:00",
-  "LastUpdate_Ratings": "2023-08-13T20:58:03.8325151+00:00",
-  "LastUpdate_Achievements": "2023-08-13T21:05:31.004579+00:00"
+  "LastUpdate_Ratings": "2023-08-13T21:58:37.8990858+00:00",
+  "LastUpdate_Achievements": "2023-08-13T22:06:48.6385167+00:00"
 }

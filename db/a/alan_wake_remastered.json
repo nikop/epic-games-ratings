@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewPlayers": 86,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 60808,
+  "EOS_Progressed": 60810,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 396,
+  "EOS_NewPlayers": 392,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -11167,6 +11167,11 @@
       "Time": "2023-08-13T21:05:03.9347194+00:00",
       "NumProgressed": 60808,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-13T22:06:15.4198416+00:00",
+      "NumProgressed": 60810,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -11178,7 +11183,7 @@
       "Name": "Follow the Light",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 22499
+      "UsersEstimate": 22500
     },
     {
       "ID": "02",
@@ -11218,7 +11223,7 @@
       "Name": "Park Ranger",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 9729
+      "UsersEstimate": 9730
     },
     {
       "ID": "07",
@@ -11418,7 +11423,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9121
+      "UsersEstimate": 9122
     },
     {
       "ID": "32",
@@ -11426,7 +11431,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 17634
+      "UsersEstimate": 17635
     },
     {
       "ID": "33",
@@ -11450,7 +11455,7 @@
       "Name": "Let There Be Light",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 18242
+      "UsersEstimate": 18243
     },
     {
       "ID": "36",
@@ -11498,7 +11503,7 @@
       "Name": "Finders Keepers",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9121
+      "UsersEstimate": 9122
     },
     {
       "ID": "42",
@@ -11514,7 +11519,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 9729
+      "UsersEstimate": 9730
     },
     {
       "ID": "44",
@@ -11713,21 +11718,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 60808,
+      "Progressed": 60810,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 24276,
+      "Progressed": 24278,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-13T21:05:03.9347189+00:00",
+  "LastChanged_Achievements": "2023-08-13T22:06:15.4198411+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:20.2881971+00:00",
-  "LastUpdate_Ratings": "2023-08-13T20:58:36.699936+00:00",
-  "LastUpdate_Achievements": "2023-08-13T21:05:03.9348184+00:00"
+  "LastUpdate_Ratings": "2023-08-13T21:59:17.2692736+00:00",
+  "LastUpdate_Achievements": "2023-08-13T22:06:15.4199698+00:00"
 }
