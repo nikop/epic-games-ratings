@@ -1,19 +1,19 @@
 # Airborne Kingdom
 [Store](https://store.epicgames.com/en-US/p/airborne-kingdom)  
 [View Rawdata](../../db/a/airborne_kingdom.json)  
-Rating: 4.65 (Ranked 301)  
+Rating: 4.65 (Ranked 300)  
 Number of Ratings: 74  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Small Community | 56.00% | ~3,929 |
-| A Grove Replanted | 53.00% | ~3,718 |
+| A Small Community | 56.00% | ~3,930 |
+| A Grove Replanted | 53.00% | ~3,719 |
 | Fields Watered | 41.00% | ~2,877 |
 | Seekers Found | 41.00% | ~2,877 |
 | Settling the Skies | 41.00% | ~2,877 |
-| Wind Powered | 40.00% | ~2,806 |
-| It Takes a Village | 34.00% | ~2,385 |
-| On the Town | 28.00% | ~1,964 |
+| Wind Powered | 40.00% | ~2,807 |
+| It Takes a Village | 34.00% | ~2,386 |
+| On the Town | 28.00% | ~1,965 |
 | Daylight Found | 26.00% | ~1,824 |
 | Irons Scorched | 25.00% | ~1,754 |
 | Islands Connected | 25.00% | ~1,754 |
@@ -29,12 +29,12 @@ Number of Ratings: 74  (23.09.2022)
 | Prophecy Fulfilled | 13.00% | ~912 |
 | A Wanderer’s Guide | 11.00% | ~772 |
 | Knowledge Seeker | 7.00% | ~491 |
-| The Cycle Continues | 3.00% | ~210 |
+| The Cycle Continues | 3.00% | ~211 |
 | Glowing Waters | 2.00% | ~140 |
 | Sparkling Alloys | 2.00% | ~140 |
 | A True Challenge | 2.00% | ~140 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,016 (Ranked 132)  
+Progressed: 7,017 (Ranked 132)  
 Completed: 53 (0.76%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,6 +148,7 @@ Completed: 53 (0.76%) (Ranked 122)
 | 2023-08-10 | 7,003 | 53 |
 | 2023-08-11 | 7,010 | 53 |
 | 2023-08-12 | 7,016 | 53 |
+| 2023-08-13 | 7,017 | 53 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

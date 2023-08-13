@@ -214,7 +214,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1496,
+  "EOS_Progressed": 1497,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
@@ -3139,6 +3139,11 @@
       "Time": "2023-08-12T20:07:28.1929463+00:00",
       "NumProgressed": 1496,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-13T15:07:12.3082414+00:00",
+      "NumProgressed": 1497,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3220,9 +3225,9 @@
       "ID": "ACHIEVEMENT_THE_COLLECTOR",
       "SetID": "l546gc",
       "Name": "The Collector",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 254
+      "UsersEstimate": 240
     },
     {
       "ID": "ACHIEVEMENT_ZERO_WASTE",
@@ -3406,7 +3411,7 @@
       "Name": "I don\u0027t feel so good",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 613
+      "UsersEstimate": 614
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -3533,7 +3538,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1496,
+      "Progressed": 1497,
       "Completed": 0
     }
   ],
@@ -3541,8 +3546,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-08-11T16:58:33.8212432+00:00",
-  "LastChanged_Achievements": "2023-08-13T14:05:53.0402212+00:00",
+  "LastChanged_Achievements": "2023-08-13T15:07:12.308241+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:18.7138767+00:00",
-  "LastUpdate_Ratings": "2023-08-13T13:58:47.1781363+00:00",
-  "LastUpdate_Achievements": "2023-08-13T14:05:53.0403952+00:00"
+  "LastUpdate_Ratings": "2023-08-13T14:59:30.3109085+00:00",
+  "LastUpdate_Achievements": "2023-08-13T15:07:12.3083014+00:00"
 }

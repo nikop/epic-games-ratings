@@ -1,26 +1,26 @@
 # Tropico 6
 [Store](https://store.epicgames.com/en-US/p/tropico-6)  
 [View Rawdata](../../db/t/tropico_6.json)  
-Rating: 4.67 (Ranked 259)  
+Rating: 4.67 (Ranked 258)  
 Number of Ratings: 398  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 75.00% | ~3,536 |
-| Un-Lonely Island | 47.00% | ~2,216 |
-| The Beginning of a Servantship | 46.00% | ~2,168 |
-| Trade Is My Trait | 37.00% | ~1,744 |
-| Number 18 | 24.00% | ~1,131 |
+| Just One...More...Term... | 75.00% | ~3,538 |
+| Un-Lonely Island | 47.00% | ~2,217 |
+| The Beginning of a Servantship | 46.00% | ~2,170 |
+| Trade Is My Trait | 37.00% | ~1,745 |
+| Number 18 | 24.00% | ~1,132 |
 | We Don't Have Time For That | 19.00% | ~896 |
 | The Governator | 18.00% | ~849 |
-| The Legend of Langostino | 17.00% | ~801 |
-| Caribbean Comrade | 16.00% | ~754 |
-| The Dreamer of Dreams | 16.00% | ~754 |
+| The Legend of Langostino | 17.00% | ~802 |
+| Caribbean Comrade | 16.00% | ~755 |
+| The Dreamer of Dreams | 16.00% | ~755 |
 | Go Sovereigns! | 11.00% | ~519 |
 | For Science! | 11.00% | ~519 |
-| Happy Ending? | 10.00% | ~471 |
-| Of Seals And Men | 10.00% | ~471 |
-| Shackadelic | 10.00% | ~471 |
+| Happy Ending? | 10.00% | ~472 |
+| Of Seals And Men | 10.00% | ~472 |
+| Shackadelic | 10.00% | ~472 |
 | Double Trouble | 8.00% | ~377 |
 | Firestarter | 8.00% | ~377 |
 | Make Tropico Great Again! | 8.00% | ~377 |
@@ -33,10 +33,10 @@ Number of Ratings: 398  (23.09.2022)
 | Watch The World Burn | 5.00% | ~236 |
 | Fairy Tale Come True | 5.00% | ~236 |
 | Apocalypso | 4.00% | ~189 |
-| Been there, Done That | 3.00% | ~141 |
-| Narcissist | 3.00% | ~141 |
-| Promising Endeavors | 3.00% | ~141 |
-| The Time For Wonders | 3.00% | ~141 |
+| Been there, Done That | 3.00% | ~142 |
+| Narcissist | 3.00% | ~142 |
+| Promising Endeavors | 3.00% | ~142 |
+| The Time For Wonders | 3.00% | ~142 |
 | Chain Gang | 2.00% | ~94 |
 | One Does Not Simply Stage A Coup | 2.00% | ~94 |
 | Sublime Subliminal Supreme | 2.00% | ~94 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~42 |
 | My Ways | 0.30% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,714 (Ranked 144)  
+Progressed: 4,717 (Ranked 144)  
 Completed: 2 (0.04%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,7 +162,7 @@ Completed: 2 (0.04%) (Ranked 224)
 | 2023-08-10 | 4,681 | 2 |
 | 2023-08-11 | 4,691 | 2 |
 | 2023-08-12 | 4,705 | 2 |
-| 2023-08-13 | 4,714 | 2 |
+| 2023-08-13 | 4,717 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 96  (Ranked 341)  
 Sum: 673 (Ranked 280)  

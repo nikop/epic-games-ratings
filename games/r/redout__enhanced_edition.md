@@ -1,31 +1,31 @@
 # Redout: Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/redout-enhanced-edition)  
 [View Rawdata](../../db/r/redout__enhanced_edition.json)  
-Rating: 4.51 (Ranked 541)  
+Rating: 4.51 (Ranked 542)  
 Number of Ratings: 274  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| VANGUARD | 41.00% | ~94,113 |
-| NATURAL BORN WINNER | 33.00% | ~75,750 |
-| CALLING HOUSTON | 28.00% | ~64,272 |
-| SNEAKY SNEAKY | 22.00% | ~50,500 |
-| TRICK UP YOUR SLEEVE | 22.00% | ~50,500 |
-| GT9STRADALE | 20.00% | ~45,909 |
+| VANGUARD | 41.00% | ~94,116 |
+| NATURAL BORN WINNER | 33.00% | ~75,752 |
+| CALLING HOUSTON | 28.00% | ~64,274 |
+| SNEAKY SNEAKY | 22.00% | ~50,501 |
+| TRICK UP YOUR SLEEVE | 22.00% | ~50,501 |
+| GT9STRADALE | 20.00% | ~45,910 |
 | CHALLENGER | 11.00% | ~25,250 |
-| ON A ROLL | 9.00% | ~20,659 |
+| ON A ROLL | 9.00% | ~20,660 |
 | CENTAUR | 8.00% | ~18,364 |
 | FASTER THAN EVER | 8.00% | ~18,364 |
-| CHALLENGE THE WORLD | 7.00% | ~16,068 |
-| PHOTOFINISH | 7.00% | ~16,068 |
-| QAREEN | 5.00% | ~11,477 |
+| CHALLENGE THE WORLD | 7.00% | ~16,069 |
+| PHOTOFINISH | 7.00% | ~16,069 |
+| QAREEN | 5.00% | ~11,478 |
 | SHOWOFF | 4.00% | ~9,182 |
 | TAKATORA | 4.00% | ~9,182 |
 | GILA | 3.00% | ~6,886 |
 | PRO | 2.00% | ~4,591 |
 | RESPWND | 2.00% | ~4,591 |
 | SHINY SHINY GOLD | 2.00% | ~4,591 |
-| HARDCORE | 1.00% | ~2,295 |
+| HARDCORE | 1.00% | ~2,296 |
 | ACE | 0.70% | ~1,607 |
 | TACTICIAN | 0.60% | ~1,377 |
 | GTX COMPETIZIONE | 0.50% | ~1,148 |
@@ -41,7 +41,7 @@ Number of Ratings: 274  (23.09.2022)
 | PILE UP TROPHIES | 0.20% | ~459 |
 | ENLIGHTENED | 0.10% | ~230 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,544 (Ranked 51)  
+Progressed: 229,550 (Ranked 51)  
 Completed: 46 (0.02%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 46 (0.02%) (Ranked 235)
 | 2023-08-10 | 229,339 | 46 |
 | 2023-08-11 | 229,406 | 46 |
 | 2023-08-12 | 229,500 | 46 |
-| 2023-08-13 | 229,544 | 46 |
+| 2023-08-13 | 229,550 | 46 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

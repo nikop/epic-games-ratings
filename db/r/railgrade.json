@@ -506,7 +506,7 @@
   ],
   "EOS_Progressed": 19513,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -5221,9 +5221,9 @@
       "ID": "ach.070.8kenough",
       "SetID": "384aaja",
       "Name": "8K is Enough for Everyone",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4293
+      "UsersEstimate": 4488
     },
     {
       "ID": "ach.080.eraser",
@@ -5478,8 +5478,8 @@
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
   "LastChanged": "2023-08-13T13:03:32.8412912+00:00",
-  "LastChanged_Achievements": "2023-08-13T14:03:45.8946649+00:00",
+  "LastChanged_Achievements": "2023-08-13T15:04:34.3541579+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:15.8610302+00:00",
-  "LastUpdate_Ratings": "2023-08-13T14:00:55.3448796+00:00",
-  "LastUpdate_Achievements": "2023-08-13T14:03:45.894716+00:00"
+  "LastUpdate_Ratings": "2023-08-13T15:02:19.4071538+00:00",
+  "LastUpdate_Achievements": "2023-08-13T15:04:34.3542172+00:00"
 }

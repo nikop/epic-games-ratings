@@ -1167,9 +1167,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 8242,
+  "EOS_Progressed": 8243,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 182,
+  "EOS_NewPlayers": 180,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10447,6 +10447,11 @@
       "Time": "2023-08-13T14:06:39.2827491+00:00",
       "NumProgressed": 8242,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-13T15:08:23.3751441+00:00",
+      "NumProgressed": 8243,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -10458,7 +10463,7 @@
       "Name": "Leader",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4945
+      "UsersEstimate": 4946
     },
     {
       "ID": "10",
@@ -10490,7 +10495,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 4368
+      "UsersEstimate": 4369
     },
     {
       "ID": "14",
@@ -10498,7 +10503,7 @@
       "Name": "Famous Explorer",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2802
+      "UsersEstimate": 2803
     },
     {
       "ID": "15",
@@ -10514,7 +10519,7 @@
       "Name": "Adventurer",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 3379
+      "UsersEstimate": 3380
     },
     {
       "ID": "17",
@@ -10570,7 +10575,7 @@
       "Name": "First Step",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5934
+      "UsersEstimate": 5935
     },
     {
       "ID": "23",
@@ -10578,7 +10583,7 @@
       "Name": "New Opportunities",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2802
+      "UsersEstimate": 2803
     },
     {
       "ID": "24",
@@ -10706,7 +10711,7 @@
       "Name": "Aspiring Inventor",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 3626
+      "UsersEstimate": 3627
     },
     {
       "ID": "39",
@@ -10714,7 +10719,7 @@
       "Name": "Rocket Surgeon",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1648
+      "UsersEstimate": 1649
     },
     {
       "ID": "4",
@@ -10754,7 +10759,7 @@
       "Name": "Prepared for Anything",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1071
+      "UsersEstimate": 1072
     },
     {
       "ID": "44",
@@ -10810,7 +10815,7 @@
       "Name": "Big Catastrofan",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1071
+      "UsersEstimate": 1072
     },
     {
       "ID": "50",
@@ -10850,7 +10855,7 @@
       "Name": "Top Notch",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2060
+      "UsersEstimate": 2061
     },
     {
       "ID": "55",
@@ -10929,15 +10934,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 8242,
+      "Progressed": 8243,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-08-11T19:02:00.6831711+00:00",
-  "LastChanged_Achievements": "2023-08-13T14:06:39.2827486+00:00",
+  "LastChanged_Achievements": "2023-08-13T15:08:23.3751437+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:55.9792163+00:00",
-  "LastUpdate_Ratings": "2023-08-13T14:01:25.2093316+00:00",
-  "LastUpdate_Achievements": "2023-08-13T14:06:39.2828615+00:00"
+  "LastUpdate_Ratings": "2023-08-13T15:02:54.6354042+00:00",
+  "LastUpdate_Achievements": "2023-08-13T15:08:23.3753272+00:00"
 }

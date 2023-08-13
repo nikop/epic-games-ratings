@@ -4,7 +4,7 @@
   "ProductSlug": "conjury-revell-074445",
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 354,
+  "Ranking_EOS_NewPlayers": 355,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-06-01T17:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-02T21:01:24.0187892+00:00",
   "LastUpdate_AppInfo": "2023-08-08T04:57:15.1691518+00:00",
-  "LastUpdate_Ratings": "2023-08-13T13:58:29.6407574+00:00",
-  "LastUpdate_Achievements": "2023-08-13T14:06:24.5252295+00:00"
+  "LastUpdate_Ratings": "2023-08-13T14:59:07.1702733+00:00",
+  "LastUpdate_Achievements": "2023-08-13T15:07:58.040463+00:00"
 }

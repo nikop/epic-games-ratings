@@ -1,7 +1,7 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.62 (Ranked 344)  
+Rating: 4.62 (Ranked 343)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -23,6 +23,7 @@ Rating: 4.62 (Ranked 344)
 | Full Ascension | 4.00% | ~204 |
 | In a Liege of Your Own | 4.00% | ~204 |
 | Fiery Friend | 4.00% | ~204 |
+| Against the Odds | 4.00% | ~204 |
 | Impenetrable Fortress | 4.00% | ~204 |
 | Here be Dragons | 4.00% | ~204 |
 | Valley of Wonders | 3.00% | ~153 |
@@ -31,7 +32,6 @@ Rating: 4.62 (Ranked 344)
 | Enchanted Archipelago | 3.00% | ~153 |
 | Digging for Treasure | 3.00% | ~153 |
 | Preparation Is Everything | 3.00% | ~153 |
-| Against the Odds | 3.00% | ~153 |
 | The Magic That Empowers Me! | 2.00% | ~102 |
 | God Emperor | 2.00% | ~102 |
 | Lord of Chaos | 2.00% | ~102 |

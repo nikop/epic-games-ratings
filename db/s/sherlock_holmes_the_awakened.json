@@ -2,12 +2,12 @@
   "ID": "f9bc208b965c4fb7afd0c842d764fc37",
   "Name": "Sherlock Holmes The Awakened",
   "ProductSlug": "sherlock-holmes-the-awakened",
-  "Ranking_Rating": 259,
+  "Ranking_Rating": 258,
   "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 56,
-  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -2161,17 +2161,17 @@
       "ID": "MQ03_3",
       "SetID": "bbing49",
       "Name": "History Check",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 315
+      "UsersEstimate": 321
     },
     {
       "ID": "MQ03_4",
       "SetID": "bbing49",
       "Name": "Gaze Into The Abyss",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 286
+      "UsersEstimate": 292
     },
     {
       "ID": "MQ03_5",
@@ -2330,8 +2330,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-08-06T01:44:20.5292495+00:00",
-  "LastChanged_Achievements": "2023-08-13T14:03:03.7803069+00:00",
+  "LastChanged_Achievements": "2023-08-13T15:03:35.3623277+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:13.1188045+00:00",
-  "LastUpdate_Ratings": "2023-08-13T13:58:38.6430746+00:00",
-  "LastUpdate_Achievements": "2023-08-13T14:03:03.7803403+00:00"
+  "LastUpdate_Ratings": "2023-08-13T14:59:19.0670261+00:00",
+  "LastUpdate_Achievements": "2023-08-13T15:03:35.3623779+00:00"
 }

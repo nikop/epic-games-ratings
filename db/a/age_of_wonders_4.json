@@ -2,12 +2,12 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 344,
+  "Ranking_Rating": 343,
   "Ranking_Popularity": 508,
   "Ranking_PopularitySum": 508,
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -6019,9 +6019,9 @@
       "ID": "37",
       "SetID": "3aa2279",
       "Name": "Against the Odds",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 153
+      "UsersEstimate": 204
     },
     {
       "ID": "38",
@@ -6194,8 +6194,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-08-12T16:02:18.9567483+00:00",
-  "LastChanged_Achievements": "2023-08-13T14:05:47.4221394+00:00",
+  "LastChanged_Achievements": "2023-08-13T15:07:04.0537888+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:11.8097072+00:00",
-  "LastUpdate_Ratings": "2023-08-13T14:00:51.5352786+00:00",
-  "LastUpdate_Achievements": "2023-08-13T14:05:47.4223293+00:00"
+  "LastUpdate_Ratings": "2023-08-13T15:02:14.6445237+00:00",
+  "LastUpdate_Achievements": "2023-08-13T15:07:04.0538731+00:00"
 }

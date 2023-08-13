@@ -1,28 +1,28 @@
 # Going Medieval
 [Store](https://store.epicgames.com/en-US/p/going-medieval)  
 [View Rawdata](../../db/g/going_medieval.json)  
-Rating: 4.60 (Ranked 389)  
+Rating: 4.60 (Ranked 388)  
 Number of Ratings: 706  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 74.00% | ~3,895 |
-| Having A Field Day | 74.00% | ~3,895 |
-| Reap What You Sow | 71.00% | ~3,737 |
+| Get A Room | 74.00% | ~3,896 |
+| Having A Field Day | 74.00% | ~3,896 |
+| Reap What You Sow | 71.00% | ~3,738 |
 | The First Day | 68.00% | ~3,580 |
-| Green Thumb | 66.00% | ~3,474 |
+| Green Thumb | 66.00% | ~3,475 |
 | Novice Researcher | 65.00% | ~3,422 |
-| Putting Food on the Table | 60.00% | ~3,158 |
+| Putting Food on the Table | 60.00% | ~3,159 |
 | Home Cooked Meal | 56.00% | ~2,948 |
-| Onward | 55.00% | ~2,895 |
+| Onward | 55.00% | ~2,896 |
 | The First Week | 53.00% | ~2,790 |
 | Studious Researcher | 51.00% | ~2,685 |
 | Beam Me Up | 50.00% | ~2,632 |
 | Feast or Famine | 50.00% | ~2,632 |
-| Adept Researcher | 44.00% | ~2,316 |
+| Adept Researcher | 44.00% | ~2,317 |
 | Retribution | 40.00% | ~2,106 |
 | ...And Don’t Come Back! | 40.00% | ~2,106 |
-| Fit For A King | 38.00% | ~2,000 |
+| Fit For A King | 38.00% | ~2,001 |
 | Luminary Researcher | 33.00% | ~1,737 |
 | Heating Up | 29.00% | ~1,527 |
 | Winter Is Coming | 26.00% | ~1,369 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~105 |
 | Wabbit Season | 0.60% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,264 (Ranked 138)  
+Progressed: 5,265 (Ranked 138)  
 Completed: 10 (0.19%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 10 (0.19%) (Ranked 184)
 | 2023-08-10 | 5,207 | 10 |
 | 2023-08-11 | 5,233 | 10 |
 | 2023-08-12 | 5,254 | 10 |
-| 2023-08-13 | 5,264 | 10 |
+| 2023-08-13 | 5,265 | 10 |
 ## Awards
 Max (Relaxing): 121  (Ranked 315)  
 Sum: 970 (Ranked 240)  

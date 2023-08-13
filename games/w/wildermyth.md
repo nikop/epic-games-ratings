@@ -24,9 +24,9 @@ Number of Ratings: 45  (23.09.2022)
 | Thematic Divergence | 9.00% | ~123 |
 | Chain Reaction | 8.00% | ~109 |
 | Everfading | 8.00% | ~109 |
+| Another Tale to Tell | 8.00% | ~109 |
 | Let Me Get My Chisel | 7.00% | ~96 |
 | Plague Doctor | 7.00% | ~96 |
-| Another Tale to Tell | 7.00% | ~96 |
 | A Story of Heroes | 7.00% | ~96 |
 | All My Birds, Safely Home | 6.00% | ~82 |
 | Turncoat | 6.00% | ~82 |

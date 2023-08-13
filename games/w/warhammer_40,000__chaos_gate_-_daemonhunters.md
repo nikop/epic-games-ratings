@@ -22,10 +22,10 @@ Number of Ratings: 371  (23.09.2022)
 | Nemesis Master | 0.90% | ~28 |
 | Gunmaster | 0.90% | ~28 |
 | Execution Force | 0.80% | ~25 |
+| Hive Exterminator | 0.80% | ~25 |
 | Hold Your Ground | 0.70% | ~22 |
 | Corruption Cleanser | 0.70% | ~22 |
 | Just a Scratch | 0.70% | ~22 |
-| Hive Exterminator | 0.70% | ~22 |
 | Patron of Deimos | 0.40% | ~13 |
 | Daemonkeeper | 0.40% | ~13 |
 | Mind Like a Fortress | 0.40% | ~13 |

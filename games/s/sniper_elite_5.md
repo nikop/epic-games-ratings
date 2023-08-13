@@ -5,6 +5,7 @@ Rating: 4.44 (Ranked 643)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| The Kraken Sleeps | 6.00% | ~208 |
 | Liberté | 5.00% | ~173 |
 | Meeting Resistance | 5.00% | ~173 |
 | Confirming Suspicions | 5.00% | ~173 |
@@ -15,7 +16,6 @@ Rating: 4.44 (Ranked 643)
 | Change the Channel | 5.00% | ~173 |
 | Taking it back | 5.00% | ~173 |
 | Target America | 5.00% | ~173 |
-| The Kraken Sleeps | 5.00% | ~173 |
 | Climbing the Ladder | 4.00% | ~139 |
 | Sharpshooter | 4.00% | ~139 |
 | Resourceful | 4.00% | ~139 |
@@ -43,10 +43,10 @@ Rating: 4.44 (Ranked 643)
 | Don't hold your breath | 1.00% | ~35 |
 | Herr Today, Gone Tomorrow | 1.00% | ~34 |
 | Shipbreaker | 1.00% | ~34 |
+| Burn after reading | 0.90% | ~31 |
 | It'll Buff Right Out | 0.90% | ~31 |
 | Sink or Swim | 0.90% | ~31 |
 | Strategist | 0.80% | ~28 |
-| Burn after reading | 0.80% | ~28 |
 | Operation Foxley | 0.80% | ~27 |
 | From Paris with Love | 0.70% | ~24 |
 | Locomotion Commotion | 0.70% | ~24 |
