@@ -12,7 +12,7 @@
 | 10 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 10 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
-| 13 | [Island Cities](games/i/island_cities.md) | 18.08% |
+| 13 | [Island Cities](games/i/island_cities.md) | 18.04% |
 | 14 | [Afterglitch](games/a/afterglitch.md) | 16.67% |
 | 15 | [Anna's Quest](games/a/anna's_quest.md) | 15.62% |
 | 16 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 15.38% |
@@ -35,9 +35,9 @@
 | 33 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 7.94% |
 | 34 | [Smelter](games/s/smelter.md) | 7.69% |
 | 35 | [Ravenlok](games/r/ravenlok.md) | 7.45% |
-| 36 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.95% |
-| 37 | [Scorn](games/s/scorn.md) | 6.93% |
-| 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.92% |
+| 36 | [Scorn](games/s/scorn.md) | 6.93% |
+| 37 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.92% |
+| 38 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.91% |
 | 39 | [Time Loader](games/t/time_loader.md) | 6.84% |
 | 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.46% |
 | 41 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
@@ -58,7 +58,7 @@
 | 56 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.20% |
 | 57 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.98% |
 | 58 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.91% |
-| 59 | [ZZT!](games/z/zzt!.md) | 3.73% |
+| 59 | [ZZT!](games/z/zzt!.md) | 3.72% |
 | 60 | [Without Escape](games/w/without_escape.md) | 3.70% |
 | 61 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 62 | [Doodle God](games/d/doodle_god.md) | 3.46% |
@@ -115,8 +115,8 @@
 | 112 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.01% |
 | 114 | [Adios](games/a/adios.md) | 1.00% |
 | 115 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.98% |
-| 116 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.97% |
-| 116 | [Sable](games/s/sable.md) | 0.97% |
+| 115 | [Sable](games/s/sable.md) | 0.98% |
+| 117 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.97% |
 | 118 | [Hades](games/h/hades.md) | 0.90% |
 | 119 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 120 | [Dungeons 3](games/d/dungeons_3.md) | 0.81% |
@@ -128,8 +128,8 @@
 | 126 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.72% |
 | 127 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.67% |
 | 128 | [Haven](games/h/haven.md) | 0.65% |
-| 129 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.64% |
-| 130 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.63% |
+| 129 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.63% |
+| 129 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.63% |
 | 131 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
 | 132 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.60% |
 | 133 | [Potion Permit](games/p/potion_permit.md) | 0.59% |
