@@ -21,8 +21,8 @@ Number of Ratings: 62  (23.09.2022)
 | Firebug | 20.00% | ~919 |
 | Nothing to Lose | 18.00% | ~827 |
 | I Choose You | 17.00% | ~781 |
+| Big Sister | 16.00% | ~735 |
 | SENTINEL | 16.00% | ~735 |
-| Big Sister | 15.00% | ~689 |
 | Gear Up | 15.00% | ~689 |
 | Core Power | 13.00% | ~597 |
 | The Black Cerberus | 12.00% | ~552 |

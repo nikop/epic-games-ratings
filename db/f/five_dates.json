@@ -4,7 +4,7 @@
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 99,
-  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 506,
+  "EOS_Progressed": 507,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.58,
   "EosHistory": [
@@ -887,6 +887,11 @@
       "Time": "2023-08-12T20:09:28.5652995+00:00",
       "NumProgressed": 506,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-08-13T00:06:12.4687393+00:00",
+      "NumProgressed": 507,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 15,
@@ -898,7 +903,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "booty_call",
@@ -922,7 +927,7 @@
       "Name": "Digital Casanova",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "hold_my_beer",
@@ -930,7 +935,7 @@
       "Name": "Hold my Beer",
       "Percentage": 65,
       "XP": 25,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "in_contempt_of_duvet",
@@ -970,7 +975,7 @@
       "Name": "Nueva Beginnings",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "only_thyme_will_tell",
@@ -994,15 +999,15 @@
       "Name": "Smooth Criminal",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "sore_loser",
       "SetID": "c4ipj3h",
       "Name": "Sore Loser",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 40
+      "UsersEstimate": 35
     },
     {
       "ID": "we_go_again",
@@ -1017,7 +1022,7 @@
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 506,
+      "Progressed": 507,
       "Completed": 8
     }
   ],
@@ -1025,8 +1030,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-08-12T23:06:34.8671141+00:00",
+  "LastChanged_Achievements": "2023-08-13T00:06:12.4687389+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:48.9733154+00:00",
-  "LastUpdate_Ratings": "2023-08-12T22:59:03.65889+00:00",
-  "LastUpdate_Achievements": "2023-08-12T23:06:34.8671264+00:00"
+  "LastUpdate_Ratings": "2023-08-12T23:58:59.1699837+00:00",
+  "LastUpdate_Achievements": "2023-08-13T00:06:12.4687516+00:00"
 }

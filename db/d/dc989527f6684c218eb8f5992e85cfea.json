@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9489,
+  "EOS_Progressed": 9490,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 492,
+  "EOS_NewPlayers": 490,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6211,6 +6211,11 @@
       "Time": "2023-08-12T23:02:20.6947907+00:00",
       "NumProgressed": 9489,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-13T00:02:06.3393927+00:00",
+      "NumProgressed": 9490,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -6294,7 +6299,7 @@
       "Name": "You tried your best!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 4175
+      "UsersEstimate": 4176
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -6421,14 +6426,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 9489,
+      "Progressed": 9490,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-08-12T23:02:20.6947901+00:00",
+  "LastChanged_Achievements": "2023-08-13T00:02:06.339392+00:00",
   "LastUpdate_AppInfo": "2023-08-11T20:57:02.5153501+00:00",
-  "LastUpdate_Ratings": "2023-08-12T22:57:47.6282444+00:00",
-  "LastUpdate_Achievements": "2023-08-12T23:02:20.6948333+00:00"
+  "LastUpdate_Ratings": "2023-08-12T23:57:38.3447132+00:00",
+  "LastUpdate_Achievements": "2023-08-13T00:02:06.3394486+00:00"
 }

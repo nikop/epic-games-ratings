@@ -6,12 +6,12 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 23.00% | ~2,513 |
-| A Spark | 16.00% | ~1,748 |
-| Burning City | 15.00% | ~1,639 |
+| Devoured by Darkness | 23.00% | ~2,514 |
+| A Spark | 16.00% | ~1,749 |
+| Burning City | 15.00% | ~1,640 |
 | Mythic Choices | 13.00% | ~1,421 |
 | Defender's Heart | 13.00% | ~1,421 |
-| Banner over the Citadel | 12.00% | ~1,311 |
+| Banner over the Citadel | 12.00% | ~1,312 |
 | Queen's Gratitude | 11.00% | ~1,202 |
 | Fifth Crusade | 7.00% | ~765 |
 | Embrace of the Abyss | 5.00% | ~546 |
@@ -53,14 +53,14 @@ Number of Ratings: 1,354  (23.09.2022)
 | Path of the Dragon | 0.80% | ~87 |
 | End of Eternal Guard | 0.80% | ~87 |
 | Truly Profane Gift | 0.80% | ~87 |
-| Playful Mood | 0.70% | ~76 |
+| Playful Mood | 0.70% | ~77 |
+| Dreadful Dragon | 0.70% | ~77 |
 | Masterful Charge | 0.60% | ~66 |
-| Dreadful Dragon | 0.60% | ~66 |
 | Prelate's Nemesis | 0.40% | ~44 |
+| Masterful Dispel | 0.30% | ~33 |
 | Just Pathetic | 0.30% | ~33 |
 | Ashes to Ashes | 0.30% | ~33 |
 | Path of the Swarm | 0.20% | ~22 |
-| Masterful Dispel | 0.20% | ~22 |
 | Equal to Aroden | 0.10% | ~11 |
 | Spirit of Adventure | 0.10% | ~11 |
 | Test of the Starstone | 0.10% | ~11 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,928 (Ranked 120)  
+Progressed: 10,930 (Ranked 120)  
 Completed: 0 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,6 +238,7 @@ Completed: 0 (0.00%) (Ranked 255)
 | 2023-08-10 | 10,895 | 0 |
 | 2023-08-11 | 10,913 | 0 |
 | 2023-08-12 | 10,928 | 0 |
+| 2023-08-13 | 10,930 | 0 |
 ## Awards
 Max (Character Customization): 1,700  (Ranked 117)  
 Sum: 6,886 (Ranked 113)  

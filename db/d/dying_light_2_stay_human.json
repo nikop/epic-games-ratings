@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 54,
   "Ranking_EOS_Progress": 27,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewPlayers": 26,
   "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2022-02-04T00:00:00+00:00",
@@ -8221,9 +8221,9 @@
       "Count": 644
     }
   ],
-  "EOS_Progressed": 611100,
+  "EOS_Progressed": 611106,
   "EOS_Completed": 62,
-  "EOS_NewPlayers": 2892,
+  "EOS_NewPlayers": 2885,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -20851,6 +20851,11 @@
       "Time": "2023-08-12T23:05:49.1050382+00:00",
       "NumProgressed": 611100,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2023-08-13T00:05:15.8597926+00:00",
+      "NumProgressed": 611106,
+      "NumCompleted": 62
     }
   ],
   "TotalAchievements": 65,
@@ -20862,7 +20867,7 @@
       "Name": "Into the Unknown",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 61110
+      "UsersEstimate": 61111
     },
     {
       "ID": "achievement_02",
@@ -20870,7 +20875,7 @@
       "Name": "First Shot",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 61110
+      "UsersEstimate": 61111
     },
     {
       "ID": "achievement_03",
@@ -20878,7 +20883,7 @@
       "Name": "Herzlich Wilkommen!",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 54999
+      "UsersEstimate": 55000
     },
     {
       "ID": "achievement_04",
@@ -21070,7 +21075,7 @@
       "Name": "You Never Forget Your First...",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 67221
+      "UsersEstimate": 67222
     },
     {
       "ID": "achievement_28",
@@ -21150,7 +21155,7 @@
       "Name": "Good Night \u0026 Good Luck",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 54999
+      "UsersEstimate": 55000
     },
     {
       "ID": "achievement_38",
@@ -21318,7 +21323,7 @@
       "Name": "Nemesis",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2565
+      "UsersEstimate": 2566
     },
     {
       "ID": "achievement_59",
@@ -21326,7 +21331,7 @@
       "Name": "Enter the Hall",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2565
+      "UsersEstimate": 2566
     },
     {
       "ID": "achievement_60",
@@ -21381,21 +21386,21 @@
     {
       "ID": "3cbf5jh",
       "IsBase": true,
-      "Progressed": 611100,
+      "Progressed": 611106,
       "Completed": 62
     },
     {
       "ID": "likk62",
       "IsBase": false,
-      "Progressed": 256544,
+      "Progressed": 256550,
       "Completed": 1425
     }
   ],
   "FirstSeen": "2022-07-22T20:18:57.6151265+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.1190573+00:00",
   "LastChanged": "2023-08-12T21:03:39.7859967+00:00",
-  "LastChanged_Achievements": "2023-08-12T23:05:49.1050379+00:00",
+  "LastChanged_Achievements": "2023-08-13T00:05:15.859792+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:58.4996027+00:00",
-  "LastUpdate_Ratings": "2023-08-12T23:00:46.8797025+00:00",
-  "LastUpdate_Achievements": "2023-08-12T23:05:49.1051461+00:00"
+  "LastUpdate_Ratings": "2023-08-13T00:00:45.5231913+00:00",
+  "LastUpdate_Achievements": "2023-08-13T00:05:15.8599435+00:00"
 }

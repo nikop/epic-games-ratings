@@ -1,18 +1,18 @@
 # Mount & Blade II: Bannerlord
 [Store](https://store.epicgames.com/en-US/p/mount-and-blade-2)  
 [View Rawdata](../../db/m/mount_&_blade_ii__bannerlord.json)  
-Rating: 4.74 (Ranked 147)  
+Rating: 4.74 (Ranked 146)  
 Number of Ratings: 5,603  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Lawbringer | 38.00% | ~22,326 |
 | Landlord | 32.00% | ~18,801 |
-| Bannerlord | 22.00% | ~12,925 |
-| Horde breaker | 22.00% | ~12,925 |
-| Lawmaker | 22.00% | ~12,925 |
-| Trained | 22.00% | ~12,925 |
-| The king is pleased | 18.00% | ~10,575 |
+| Bannerlord | 22.00% | ~12,926 |
+| Horde breaker | 22.00% | ~12,926 |
+| Lawmaker | 22.00% | ~12,926 |
+| Trained | 22.00% | ~12,926 |
+| The king is pleased | 18.00% | ~10,576 |
 | King Solomon | 17.00% | ~9,988 |
 | Apple of my eye | 15.00% | ~8,813 |
 | I can do it | 15.00% | ~8,813 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,752 (Ranked 86)  
+Progressed: 58,753 (Ranked 86)  
 Completed: 0 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,9 +173,10 @@ Completed: 0 (0.00%) (Ranked 255)
 | 2023-08-10 | 58,619 | 0 |
 | 2023-08-11 | 58,682 | 0 |
 | 2023-08-12 | 58,752 | 0 |
+| 2023-08-13 | 58,753 | 0 |
 ## Awards
 Max (Character Customization): 6,922  (Ranked 49)  
-Sum: 14,045 (Ranked 67)  
+Sum: 14,047 (Ranked 67)  
 Diff (max vs sum): -18  
 | Award | Count |
 | ----- | ----- |
@@ -183,7 +184,7 @@ Diff (max vs sum): -18
 | This game is Great for Beginners | 916 |
 | This game has Diverse Characters | 882 |
 | This game is Highly Recommended | 839 |
-| This game is Extremely Fun | 801 |
+| This game is Extremely Fun | 803 |
 | This game has Amazing Storytelling | 789 |
 | This game is Relaxing | 778 |
 | This game has Amazing Characters | 775 |
@@ -404,3 +405,4 @@ Diff (max vs sum): -18
 | 2023-08-10 | 4.74 | - | 6,920 | 14,034 |
 | 2023-08-11 | 4.74 | - | 6,922 | 14,041 |
 | 2023-08-12 | 4.74 | - | 6,922 | 14,045 |
+| 2023-08-13 | 4.74 | - | 6,922 | 14,047 |

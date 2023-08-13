@@ -9,24 +9,24 @@
 | Haute cuisine | 44.00% | ~45 |
 | I didn't do it! | 40.00% | ~41 |
 | Demolition expert | 35.00% | ~36 |
+| Wooooooow! | 35.00% | ~36 |
 | Keep away from children | 34.00% | ~35 |
-| Wooooooow! | 34.00% | ~35 |
 | Artistic fool | 33.00% | ~34 |
 | Open up wide | 30.00% | ~31 |
 | Chapter II | 29.00% | ~30 |
+| Let the boot talk | 28.00% | ~29 |
 | Achoo!! | 28.00% | ~29 |
-| Let the boot talk | 27.00% | ~28 |
 | Chapter III | 27.00% | ~28 |
 | Like a moth in the Wind | 27.00% | ~28 |
-| Bubblekillerfamily | 24.00% | ~24 |
-| Mirror mirror on the wall... | 24.00% | ~24 |
-| Quite a buggy game | 23.00% | ~23 |
-| Shadow on the wall | 22.00% | ~22 |
-| Handyman | 22.00% | ~22 |
-| Fastidious Clown | 22.00% | ~22 |
-| It's not easy being green! | 21.00% | ~21 |
-| Home is where the heart is | 21.00% | ~21 |
-| Pacifist | 19.00% | ~19 |
+| Bubblekillerfamily | 23.00% | ~24 |
+| Mirror mirror on the wall... | 23.00% | ~24 |
+| Quite a buggy game | 22.00% | ~23 |
+| Shadow on the wall | 22.00% | ~23 |
+| Handyman | 21.00% | ~22 |
+| Fastidious Clown | 21.00% | ~22 |
+| It's not easy being green! | 20.00% | ~21 |
+| Home is where the heart is | 20.00% | ~21 |
+| Pacifist | 18.00% | ~19 |
 | Master of Thermodynamics | 16.00% | ~16 |
 | Death is a part of life | 16.00% | ~16 |
 | Unfullfilled dreams | 15.00% | ~15 |
@@ -51,7 +51,7 @@
 | The Green, the Fat, the Ugly | 1.00% | ~1 |
 | Do not feed the fish! | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 102 (Ranked 319)  
+Progressed: 103 (Ranked 318)  
 Completed: 0 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,6 +68,7 @@ Completed: 0 (0.00%) (Ranked 255)
 | 2023-08-10 | 99 | 0 |
 | 2023-08-11 | 100 | 0 |
 | 2023-08-12 | 102 | 0 |
+| 2023-08-13 | 103 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

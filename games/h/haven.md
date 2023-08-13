@@ -1,7 +1,7 @@
 # Haven
 [Store](https://store.epicgames.com/en-US/p/haven)  
 [View Rawdata](../../db/h/haven.json)  
-Rating: 4.74 (Ranked 147)  
+Rating: 4.74 (Ranked 146)  
 Number of Ratings: 38  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -13,7 +13,7 @@ Number of Ratings: 38  (23.09.2022)
 | Over my dead body | 40.00% | ~557 |
 | Shake the rust off their feet | 21.00% | ~292 |
 | My little pony | 20.00% | ~278 |
-| Strike! | 18.00% | ~251 |
+| Strike! | 19.00% | ~264 |
 | A love supreme | 18.00% | ~251 |
 | In my shoes | 17.00% | ~237 |
 | Like new! | 15.00% | ~209 |

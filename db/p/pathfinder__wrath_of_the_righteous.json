@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 113,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3440,9 +3440,9 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 10928,
+  "EOS_Progressed": 10930,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 116,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10665,6 +10665,11 @@
       "Time": "2023-08-12T20:06:10.4957187+00:00",
       "NumProgressed": 10928,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-13T00:03:44.1036468+00:00",
+      "NumProgressed": 10930,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -10676,7 +10681,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 2513
+      "UsersEstimate": 2514
     },
     {
       "ID": "02_BurningCity",
@@ -10684,7 +10689,7 @@
       "Name": "Burning City",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1639
+      "UsersEstimate": 1640
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -10692,7 +10697,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1311
+      "UsersEstimate": 1312
     },
     {
       "ID": "04_FithCrusade",
@@ -10866,9 +10871,9 @@
       "ID": "25_MasterfulDispell",
       "SetID": "989of5o",
       "Name": "Masterful Dispel",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 33
     },
     {
       "ID": "27_VictorySeige",
@@ -10988,7 +10993,7 @@
       "Name": "Playful Mood",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "42_JustPathetic",
@@ -11002,9 +11007,9 @@
       "ID": "43_DreadfulDragon",
       "SetID": "989of5o",
       "Name": "Dreadful Dragon",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 77
     },
     {
       "ID": "44_AshesToAshes",
@@ -11044,7 +11049,7 @@
       "Name": "A Spark",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1748
+      "UsersEstimate": 1749
     },
     {
       "ID": "49_Flame",
@@ -11603,21 +11608,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9710,
+      "Progressed": 9712,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10928,
+      "Progressed": 10930,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-08-11T18:00:20.733408+00:00",
-  "LastChanged_Achievements": "2023-08-12T23:04:18.0457623+00:00",
+  "LastChanged_Achievements": "2023-08-13T00:03:44.1036462+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:11.5447906+00:00",
-  "LastUpdate_Ratings": "2023-08-12T22:59:21.8892623+00:00",
-  "LastUpdate_Achievements": "2023-08-12T23:04:18.0459227+00:00"
+  "LastUpdate_Ratings": "2023-08-12T23:59:20.7917365+00:00",
+  "LastUpdate_Achievements": "2023-08-13T00:03:44.1038565+00:00"
 }

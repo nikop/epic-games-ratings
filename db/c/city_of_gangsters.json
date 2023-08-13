@@ -523,9 +523,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 336681,
+  "EOS_Progressed": 336683,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1521,
+  "EOS_NewPlayers": 1516,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13083,6 +13083,11 @@
       "Time": "2023-08-12T23:03:30.9409753+00:00",
       "NumProgressed": 336681,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-08-13T00:03:06.1535599+00:00",
+      "NumProgressed": 336683,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -13182,7 +13187,7 @@
       "Name": "Core Corps",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 26934
+      "UsersEstimate": 26935
     },
     {
       "ID": "ach013",
@@ -13198,7 +13203,7 @@
       "Name": "Fronting the Money",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 47135
+      "UsersEstimate": 47136
     },
     {
       "ID": "ach015",
@@ -13230,7 +13235,7 @@
       "Name": "Sizeable Stash",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 26934
+      "UsersEstimate": 26935
     },
     {
       "ID": "ach019",
@@ -13302,7 +13307,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 154873
+      "UsersEstimate": 154874
     },
     {
       "ID": "ach028",
@@ -13606,7 +13611,7 @@
       "Name": "The Dawn of Automation",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 47135
+      "UsersEstimate": 47136
     },
     {
       "ID": "ach067",
@@ -13630,7 +13635,7 @@
       "Name": "Extraordinary Logistics",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 47135
+      "UsersEstimate": 47136
     },
     {
       "ID": "ach070",
@@ -13733,7 +13738,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 336681,
+      "Progressed": 336683,
       "Completed": 7
     }
   ],
@@ -13741,8 +13746,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-08-10T18:59:00.3763596+00:00",
-  "LastChanged_Achievements": "2023-08-12T23:03:30.9409749+00:00",
+  "LastChanged_Achievements": "2023-08-13T00:03:06.1535591+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:32.1771693+00:00",
-  "LastUpdate_Ratings": "2023-08-12T22:58:47.2438643+00:00",
-  "LastUpdate_Achievements": "2023-08-12T23:03:30.9411087+00:00"
+  "LastUpdate_Ratings": "2023-08-12T23:58:43.3354029+00:00",
+  "LastUpdate_Achievements": "2023-08-13T00:03:06.1537303+00:00"
 }

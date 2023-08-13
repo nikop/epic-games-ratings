@@ -6,11 +6,11 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 11.00% | ~67,221 |
-| Into the Unknown | 10.00% | ~61,110 |
-| First Shot | 10.00% | ~61,110 |
-| Herzlich Wilkommen! | 9.00% | ~54,999 |
-| Good Night & Good Luck | 9.00% | ~54,999 |
+| You Never Forget Your First... | 11.00% | ~67,222 |
+| Into the Unknown | 10.00% | ~61,111 |
+| First Shot | 10.00% | ~61,111 |
+| Herzlich Wilkommen! | 9.00% | ~55,000 |
+| Good Night & Good Luck | 9.00% | ~55,000 |
 | Sancho Panza | 8.00% | ~48,888 |
 | Oh, So This Is How It Works! | 8.00% | ~48,888 |
 | Under Pressure | 7.00% | ~42,777 |
@@ -47,8 +47,8 @@ Number of Ratings: 7,305  (23.09.2022)
 | That's Teamwork! | 1.00% | ~6,111 |
 | Fit as a Fiddle | 1.00% | ~6,111 |
 | Ironheart | 1.00% | ~6,111 |
-| Nemesis | 1.00% | ~2,565 |
-| Enter the Hall | 1.00% | ~2,565 |
+| Nemesis | 1.00% | ~2,566 |
+| Enter the Hall | 1.00% | ~2,566 |
 | Find Anything Interesting? | 0.90% | ~5,500 |
 | Boot Licker | 0.90% | ~5,500 |
 | Who Wants To Be a... | 0.90% | ~5,500 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~257 |
 | Connoisseur | 0.10% | ~257 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 611,100 (Ranked 27)  
+Progressed: 611,106 (Ranked 27)  
 Completed: 62 (0.01%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,6 +187,7 @@ Completed: 62 (0.01%) (Ranked 242)
 | 2023-08-10 | 610,337 | 62 |
 | 2023-08-11 | 610,694 | 62 |
 | 2023-08-12 | 611,100 | 62 |
+| 2023-08-13 | 611,106 | 62 |
 ## Awards
 Max (Character Customization): 8,770  (Ranked 39)  
 Sum: 21,039 (Ranked 54)  

@@ -2958,9 +2958,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 71726,
+  "EOS_Progressed": 71727,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 342,
+  "EOS_NewPlayers": 340,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -14928,6 +14928,11 @@
       "Time": "2023-08-12T22:07:57.2326987+00:00",
       "NumProgressed": 71726,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-08-13T00:05:35.9070167+00:00",
+      "NumProgressed": 71727,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 37,
@@ -14939,7 +14944,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 35863
+      "UsersEstimate": 35864
     },
     {
       "ID": "ACH_0011",
@@ -14955,7 +14960,7 @@
       "Name": "Roid Ranger",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 15062
+      "UsersEstimate": 15063
     },
     {
       "ID": "ACH_0013",
@@ -14963,7 +14968,7 @@
       "Name": "Hidden Sonata",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 9324
+      "UsersEstimate": 9325
     },
     {
       "ID": "ACH_0014",
@@ -15083,7 +15088,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 46622
+      "UsersEstimate": 46623
     },
     {
       "ID": "ACH_0210",
@@ -15091,7 +15096,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 53077
+      "UsersEstimate": 53078
     },
     {
       "ID": "ACH_0211",
@@ -15107,7 +15112,7 @@
       "Name": "Too Old for This",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 33711
+      "UsersEstimate": 33712
     },
     {
       "ID": "ACH_0300",
@@ -15203,7 +15208,7 @@
       "Name": "Raider\u2019s Ruin",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 12193
+      "UsersEstimate": 12194
     },
     {
       "ID": "ACH_0452",
@@ -15211,7 +15216,7 @@
       "Name": "Dragonslayer",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 12193
+      "UsersEstimate": 12194
     },
     {
       "ID": "ACH_0460",
@@ -15234,22 +15239,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 71726,
+      "Progressed": 71727,
       "Completed": 38
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 73,
-      "Completed": 73
+      "Progressed": 74,
+      "Completed": 74
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-08-12T23:00:46.4349161+00:00",
-  "LastChanged_Achievements": "2023-08-12T23:06:08.6363521+00:00",
+  "LastChanged_Achievements": "2023-08-13T00:05:35.9070162+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:57.6056168+00:00",
-  "LastUpdate_Ratings": "2023-08-12T23:00:46.4349169+00:00",
-  "LastUpdate_Achievements": "2023-08-12T23:06:08.6364276+00:00"
+  "LastUpdate_Ratings": "2023-08-13T00:00:45.1447036+00:00",
+  "LastUpdate_Achievements": "2023-08-13T00:05:35.9071436+00:00"
 }
