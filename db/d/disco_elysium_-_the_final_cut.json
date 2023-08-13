@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 234,
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewPlayers": 81,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
@@ -1241,7 +1241,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 126115,
+  "EOS_Progressed": 126116,
   "EOS_Completed": 27,
   "EOS_NewPlayers": 441,
   "EOS_NewCompleters": 0,
@@ -12611,6 +12611,11 @@
       "Time": "2023-08-13T05:04:39.9966044+00:00",
       "NumProgressed": 126115,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-08-13T06:04:44.6037481+00:00",
+      "NumProgressed": 126116,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 40,
@@ -12726,7 +12731,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20178
+      "UsersEstimate": 20179
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -12941,15 +12946,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 126115,
+      "Progressed": 126116,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-08-04T01:55:33.6301654+00:00",
-  "LastChanged_Achievements": "2023-08-13T05:04:39.9966038+00:00",
+  "LastChanged_Achievements": "2023-08-13T06:04:44.6037475+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:59.4029348+00:00",
-  "LastUpdate_Ratings": "2023-08-13T05:00:49.6303687+00:00",
-  "LastUpdate_Achievements": "2023-08-13T05:04:39.9966874+00:00"
+  "LastUpdate_Ratings": "2023-08-13T06:00:56.7033266+00:00",
+  "LastUpdate_Achievements": "2023-08-13T06:04:44.6039297+00:00"
 }

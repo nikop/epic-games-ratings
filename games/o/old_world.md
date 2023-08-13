@@ -68,13 +68,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Acropolis | 0.80% | ~107 |
 | Egyptian Paganism | 0.80% | ~107 |
 | Mythology | 0.80% | ~107 |
+| Points Victory | 0.80% | ~107 |
 | Intercessor | 0.70% | ~94 |
 | Valiant | 0.70% | ~94 |
 | Champions | 0.70% | ~94 |
 | Mausoleum | 0.70% | ~94 |
 | Greece | 0.70% | ~94 |
 | Building Wonders | 0.70% | ~94 |
-| Points Victory | 0.70% | ~94 |
 | Hanging Gardens in Babylon | 0.60% | ~80 |
 | Beloved | 0.60% | ~80 |
 | Conqueror | 0.60% | ~80 |
@@ -146,6 +146,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Patriarch St Paul | 0.30% | ~40 |
 | Ancient | 0.20% | ~27 |
 | Glorious Difficulty | 0.20% | ~27 |
+| Magnificent Difficulty | 0.20% | ~27 |
 | The Eternal Treaty | 0.20% | ~27 |
 | Run, Pheidippides, Run! | 0.20% | ~27 |
 | Nenikekamen | 0.20% | ~27 |
@@ -199,7 +200,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Holy | 0.10% | ~13 |
 | Rebuilder | 0.10% | ~13 |
 | Great Difficulty | 0.10% | ~13 |
-| Magnificent Difficulty | 0.10% | ~13 |
 | Et tu Brutus? | 0.10% | ~13 |
 | Event Level High | 0.10% | ~13 |
 | Battle of the Fertile Crescent | 0.10% | ~13 |

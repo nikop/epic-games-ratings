@@ -6,17 +6,17 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 77.00% | ~42,252 |
-| Worth it | 63.00% | ~34,570 |
-| Eagle Eye | 55.00% | ~30,180 |
-| Corpseman I | 40.00% | ~21,949 |
-| Blast fishing | 37.00% | ~20,303 |
-| Not alone | 32.00% | ~17,559 |
-| Headhunter I | 26.00% | ~14,267 |
-| Manual Labour I | 25.00% | ~13,718 |
+| Setting an example | 77.00% | ~42,254 |
+| Worth it | 63.00% | ~34,571 |
+| Eagle Eye | 55.00% | ~30,181 |
+| Corpseman I | 40.00% | ~21,950 |
+| Blast fishing | 37.00% | ~20,304 |
+| Not alone | 32.00% | ~17,560 |
+| Headhunter I | 26.00% | ~14,268 |
+| Manual Labour I | 25.00% | ~13,719 |
 | Developers, Developers, Developers | 24.00% | ~13,170 |
 | Basic Training | 24.00% | ~13,170 |
-| Furchtlos und Treu | 13.00% | ~7,133 |
+| Furchtlos und Treu | 13.00% | ~7,134 |
 | Gott Mit Uns | 12.00% | ~6,585 |
 | This We'll Defend! | 9.00% | ~4,939 |
 | Anker wirf! | 9.00% | ~4,939 |
@@ -41,8 +41,8 @@ Number of Ratings: 1,999  (23.09.2022)
 | In My Defens God Me Defend | 3.00% | ~1,646 |
 | Silver x100 | 3.00% | ~1,646 |
 | Impavidum Ferient Bella! | 3.00% | ~1,646 |
-| Bronze x100 | 2.00% | ~1,097 |
-| Shoot, Cover, Reload, Repeat | 2.00% | ~1,097 |
+| Bronze x100 | 2.00% | ~1,098 |
+| Shoot, Cover, Reload, Repeat | 2.00% | ~1,098 |
 | Gold x100 | 1.00% | ~549 |
 | Hunting the Hun | 1.00% | ~549 |
 | #1 | 1.00% | ~549 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~55 |
 | Blood Brother | 0.10% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,873 (Ranked 88)  
+Progressed: 54,875 (Ranked 88)  
 Completed: 4 (0.01%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 4 (0.01%) (Ranked 242)
 | 2023-08-10 | 54,642 | 4 |
 | 2023-08-11 | 54,757 | 4 |
 | 2023-08-12 | 54,853 | 4 |
-| 2023-08-13 | 54,873 | 4 |
+| 2023-08-13 | 54,875 | 4 |
 ## Awards
 Max (Highly Recommended): 96  (Ranked 341)  
 Sum: 765 (Ranked 265)  

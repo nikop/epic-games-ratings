@@ -295,17 +295,17 @@
       "ID": "CgkIxYDzrbcPEAIQBg",
       "SetID": "4egpam7",
       "Name": "Uninvited Guests",
-      "Percentage": 56,
+      "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "CgkIxYDzrbcPEAIQBw",
       "SetID": "4egpam7",
       "Name": "Cave Exploration",
-      "Percentage": 44,
+      "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "CgkIxYDzrbcPEAIQCA",
@@ -351,9 +351,9 @@
       "ID": "CgkIxYDzrbcPEAIQDQ",
       "SetID": "4egpam7",
       "Name": "Control Pests",
-      "Percentage": 44,
+      "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "CgkIxYDzrbcPEAIQDg",
@@ -502,8 +502,8 @@
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2023-08-13T05:06:23.6543659+00:00",
+  "LastChanged_Achievements": "2023-08-13T06:06:29.6286878+00:00",
   "LastUpdate_AppInfo": "2023-08-08T13:56:55.0223593+00:00",
-  "LastUpdate_Ratings": "2023-08-13T04:58:11.2274628+00:00",
-  "LastUpdate_Achievements": "2023-08-13T05:06:23.6543848+00:00"
+  "LastUpdate_Ratings": "2023-08-13T05:58:20.2508301+00:00",
+  "LastUpdate_Achievements": "2023-08-13T06:06:29.6287277+00:00"
 }

@@ -6492,9 +6492,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 796829,
+  "EOS_Progressed": 796833,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 962,
+  "EOS_NewPlayers": 959,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -19012,6 +19012,11 @@
       "Time": "2023-08-13T05:05:31.5410129+00:00",
       "NumProgressed": 796829,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-08-13T06:05:36.5303175+00:00",
+      "NumProgressed": 796833,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 82,
@@ -19055,7 +19060,7 @@
       "Name": "Awakening",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 167334
+      "UsersEstimate": 167335
     },
     {
       "ID": "BadGirl",
@@ -19071,7 +19076,7 @@
       "Name": "Bad Trip",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 39841
+      "UsersEstimate": 39842
     },
     {
       "ID": "Bailiff",
@@ -19103,7 +19108,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 254985
+      "UsersEstimate": 254987
     },
     {
       "ID": "Bookworm",
@@ -19111,7 +19116,7 @@
       "Name": "Bookworm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 119524
+      "UsersEstimate": 119525
     },
     {
       "ID": "Buddy",
@@ -19119,7 +19124,7 @@
       "Name": "Buddy",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 95619
+      "UsersEstimate": 95620
     },
     {
       "ID": "Casanova",
@@ -19135,7 +19140,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 199207
+      "UsersEstimate": 199208
     },
     {
       "ID": "Chivalrous",
@@ -19223,7 +19228,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 183271
+      "UsersEstimate": 183272
     },
     {
       "ID": "Fighter",
@@ -19239,7 +19244,7 @@
       "Name": "Firestarter",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 119524
+      "UsersEstimate": 119525
     },
     {
       "ID": "Freud",
@@ -19447,7 +19452,7 @@
       "Name": "Monk",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 39841
+      "UsersEstimate": 39842
     },
     {
       "ID": "NotSoChristianBurial",
@@ -19503,7 +19508,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 159366
+      "UsersEstimate": 159367
     },
     {
       "ID": "RevenantOfLedechko",
@@ -19543,7 +19548,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 159366
+      "UsersEstimate": 159367
     },
     {
       "ID": "SerialKiller",
@@ -19551,7 +19556,7 @@
       "Name": "Serial Killer",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 39841
+      "UsersEstimate": 39842
     },
     {
       "ID": "Sinner",
@@ -19559,7 +19564,7 @@
       "Name": "Sinner",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 87651
+      "UsersEstimate": 87652
     },
     {
       "ID": "Sniper",
@@ -19599,7 +19604,7 @@
       "Name": "Thief",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 95619
+      "UsersEstimate": 95620
     },
     {
       "ID": "TisButAScratch",
@@ -19678,15 +19683,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 796829,
+      "Progressed": 796833,
       "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-08-12T21:01:34.9103528+00:00",
-  "LastChanged_Achievements": "2023-08-13T05:05:31.5410122+00:00",
+  "LastChanged_Achievements": "2023-08-13T06:05:36.5303168+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:10.6594463+00:00",
-  "LastUpdate_Ratings": "2023-08-13T04:59:56.6450377+00:00",
-  "LastUpdate_Achievements": "2023-08-13T05:05:31.5411395+00:00"
+  "LastUpdate_Ratings": "2023-08-13T06:00:02.9290044+00:00",
+  "LastUpdate_Achievements": "2023-08-13T06:05:36.5306217+00:00"
 }

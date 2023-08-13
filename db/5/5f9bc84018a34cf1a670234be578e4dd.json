@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 309,
   "Ranking_EOS_Completed": 9,
   "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
     "PcReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 123,
-  "EOS_Completed": 27,
+  "EOS_Completed": 28,
   "EOS_NewPlayers": 15,
-  "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 21.95,
+  "EOS_NewCompleters": 6,
+  "EOS_Completed_Percentage": 22.76,
   "EosHistory": [
     {
       "Time": "2023-07-22T13:07:04.2774208+00:00",
@@ -581,6 +581,11 @@
       "Time": "2023-08-12T21:07:04.8035737+00:00",
       "NumProgressed": 123,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-08-13T06:05:31.6926979+00:00",
+      "NumProgressed": 123,
+      "NumCompleted": 28
     }
   ],
   "AchievementsAdded": "2023-07-04T15:00:48.8668077+00:00",
@@ -647,9 +652,9 @@
       "ID": "GameComplete",
       "SetID": "7jbi7el",
       "Name": "Savior",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "GasDeath",
@@ -695,9 +700,9 @@
       "ID": "Synthesis",
       "SetID": "7jbi7el",
       "Name": "Beginner Chemist",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 80,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     }
   ],
   "AchievementSets": [
@@ -705,13 +710,13 @@
       "ID": "7jbi7el",
       "IsBase": true,
       "Progressed": 123,
-      "Completed": 27
+      "Completed": 28
     }
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-08-13T05:05:26.5607917+00:00",
+  "LastChanged_Achievements": "2023-08-13T06:05:31.692697+00:00",
   "LastUpdate_AppInfo": "2023-08-08T17:57:14.9821131+00:00",
-  "LastUpdate_Ratings": "2023-08-13T04:57:53.141601+00:00",
-  "LastUpdate_Achievements": "2023-08-13T05:05:26.5608039+00:00"
+  "LastUpdate_Ratings": "2023-08-13T05:57:59.5254524+00:00",
+  "LastUpdate_Achievements": "2023-08-13T06:05:31.6927215+00:00"
 }

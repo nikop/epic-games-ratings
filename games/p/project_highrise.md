@@ -36,8 +36,8 @@
 | Under One Roof | 15.00% | ~48 |
 | Starred Dining | 15.00% | ~48 |
 | Smooth Operator | 14.00% | ~45 |
+| Boutique Benefits | 14.00% | ~45 |
 | Terrifically Trashed | 14.00% | ~45 |
-| Boutique Benefits | 13.00% | ~42 |
 | Thrilled Tenants | 13.00% | ~42 |
 | 28 Days Later | 11.00% | ~36 |
 | Swimming in Surplus | 11.00% | ~36 |
@@ -45,10 +45,10 @@
 | Master of Puppets | 9.00% | ~29 |
 | Refined Palates | 9.00% | ~29 |
 | First 100 Days | 8.00% | ~26 |
+| Water Features | 8.00% | ~26 |
 | Plaza Plan | 8.00% | ~26 |
 | Phoning It In | 8.00% | ~26 |
 | Careful Constructor | 7.00% | ~23 |
-| Water Features | 7.00% | ~23 |
 | Meet Me at HQ | 7.00% | ~23 |
 | Maximum Reuse | 7.00% | ~23 |
 | Revenue Royalty | 7.00% | ~23 |

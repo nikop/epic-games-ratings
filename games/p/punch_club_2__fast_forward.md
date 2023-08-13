@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | Such a strange dream… | 87.00% | ~213 |
 | Your first fight | 85.00% | ~208 |
+| First winning | 84.00% | ~206 |
 | Good Person Chip | 84.00% | ~206 |
-| First winning | 83.00% | ~203 |
 | Your first job | 83.00% | ~203 |
 | Old movies enjoyer | 79.00% | ~194 |
 | Fitness professional | 78.00% | ~191 |
@@ -30,9 +30,9 @@
 | Own four walls | 59.00% | ~145 |
 | Handyman | 58.00% | ~142 |
 | Champion – starter pack | 58.00% | ~142 |
+| Intriguing candies | 58.00% | ~142 |
 | Employee of the year | 58.00% | ~142 |
 | Fight for life | 57.00% | ~140 |
-| Intriguing candies | 57.00% | ~140 |
 | Legal courier | 53.00% | ~130 |
 | Extreme neuropower! | 53.00% | ~130 |
 | Escaped from a big trouble | 50.00% | ~122 |
@@ -52,7 +52,7 @@
 | GYM professional | 36.00% | ~88 |
 | The die is cast | 36.00% | ~88 |
 | Seashell hunter | 36.00% | ~88 |
-| Gang wrangler | 32.00% | ~78 |
+| Gang wrangler | 33.00% | ~81 |
 | Problems of cyborgs | 32.00% | ~78 |
 | Absolute Champion! | 32.00% | ~78 |
 | Undercover robot | 32.00% | ~78 |

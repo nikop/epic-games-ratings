@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 373,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewPlayers": 104,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -495,9 +495,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 14515,
+  "EOS_Progressed": 14519,
   "EOS_Completed": 109,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -8005,6 +8005,11 @@
       "Time": "2023-08-13T04:04:50.2127932+00:00",
       "NumProgressed": 14515,
       "NumCompleted": 109
+    },
+    {
+      "Time": "2023-08-13T06:04:44.9933439+00:00",
+      "NumProgressed": 14519,
+      "NumCompleted": 109
     }
   ],
   "TotalAchievements": 41,
@@ -8032,7 +8037,7 @@
       "Name": "Wannabe knight",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3484
+      "UsersEstimate": 3485
     },
     {
       "ID": "tpote_achievement_12",
@@ -8056,7 +8061,7 @@
       "Name": "Friends of sorts",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4935
+      "UsersEstimate": 4936
     },
     {
       "ID": "tpote_achievement_15",
@@ -8064,7 +8069,7 @@
       "Name": "Care, like a brother cares",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "tpote_achievement_16",
@@ -8072,7 +8077,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2032
+      "UsersEstimate": 2033
     },
     {
       "ID": "tpote_achievement_17",
@@ -8104,7 +8109,7 @@
       "Name": "Yet another secret",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 4935
+      "UsersEstimate": 4936
     },
     {
       "ID": "tpote_achievement_20",
@@ -8120,7 +8125,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4354
+      "UsersEstimate": 4356
     },
     {
       "ID": "tpote_achievement_22",
@@ -8128,7 +8133,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2903
+      "UsersEstimate": 2904
     },
     {
       "ID": "tpote_achievement_23",
@@ -8136,7 +8141,7 @@
       "Name": "A brush with death",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "tpote_achievement_24",
@@ -8184,7 +8189,7 @@
       "Name": "Skilled merchant",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1306
+      "UsersEstimate": 1307
     },
     {
       "ID": "tpote_achievement_3",
@@ -8192,7 +8197,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 4645
+      "UsersEstimate": 4646
     },
     {
       "ID": "tpote_achievement_30",
@@ -8216,7 +8221,7 @@
       "Name": "Jack was here!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2177
+      "UsersEstimate": 2178
     },
     {
       "ID": "tpote_achievement_33",
@@ -8224,7 +8229,7 @@
       "Name": "Nothing but make-believe",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1306
+      "UsersEstimate": 1307
     },
     {
       "ID": "tpote_achievement_34",
@@ -8232,7 +8237,7 @@
       "Name": "A cry for help",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1161
+      "UsersEstimate": 1162
     },
     {
       "ID": "tpote_achievement_35",
@@ -8248,7 +8253,7 @@
       "Name": "Brother Marcus",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1306
+      "UsersEstimate": 1307
     },
     {
       "ID": "tpote_achievement_37",
@@ -8272,7 +8277,7 @@
       "Name": "The oath",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1306
+      "UsersEstimate": 1307
     },
     {
       "ID": "tpote_achievement_4",
@@ -8280,7 +8285,7 @@
       "Name": "Tattletale",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 5951
+      "UsersEstimate": 5953
     },
     {
       "ID": "tpote_achievement_40",
@@ -8288,7 +8293,7 @@
       "Name": "The truth revealed",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1306
+      "UsersEstimate": 1307
     },
     {
       "ID": "tpote_achievement_41",
@@ -8296,7 +8301,7 @@
       "Name": "The End.",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 1306
+      "UsersEstimate": 1307
     },
     {
       "ID": "tpote_achievement_5",
@@ -8304,7 +8309,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 3484
+      "UsersEstimate": 3485
     },
     {
       "ID": "tpote_achievement_6",
@@ -8312,7 +8317,7 @@
       "Name": "Full house",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3484
+      "UsersEstimate": 3485
     },
     {
       "ID": "tpote_achievement_7",
@@ -8328,7 +8333,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 3193
+      "UsersEstimate": 3194
     },
     {
       "ID": "tpote_achievement_9",
@@ -8336,22 +8341,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 5080
+      "UsersEstimate": 5082
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 14515,
+      "Progressed": 14519,
       "Completed": 109
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-08-03T13:08:30.3350415+00:00",
-  "LastChanged_Achievements": "2023-08-13T05:04:40.3657619+00:00",
+  "LastChanged_Achievements": "2023-08-13T06:04:44.993343+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:55.7661895+00:00",
-  "LastUpdate_Ratings": "2023-08-13T05:01:33.3671721+00:00",
-  "LastUpdate_Achievements": "2023-08-13T05:04:40.3658304+00:00"
+  "LastUpdate_Ratings": "2023-08-13T06:01:44.296882+00:00",
+  "LastUpdate_Achievements": "2023-08-13T06:04:44.9934837+00:00"
 }

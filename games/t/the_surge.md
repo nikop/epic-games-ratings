@@ -1,15 +1,15 @@
 # The Surge
 [Store](https://store.epicgames.com/en-US/p/the-surge)  
 [View Rawdata](../../db/t/the_surge.json)  
-Rating: 4.43 (Ranked 658)  
+Rating: 4.43 (Ranked 659)  
 Number of Ratings: 62  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,320 |
+| On My Own Two Feet | 94.00% | ~4,321 |
 | I'll Be Back | 85.00% | ~3,907 |
-| Sorry, I Dropped This | 77.00% | ~3,539 |
-| First Day on the Job | 77.00% | ~3,539 |
+| Sorry, I Dropped This | 77.00% | ~3,540 |
+| First Day on the Job | 77.00% | ~3,540 |
 | Butcher's Bill | 55.00% | ~2,528 |
 | P.A.X | 37.00% | ~1,701 |
 | Hey Listen | 37.00% | ~1,701 |
@@ -21,10 +21,10 @@ Number of Ratings: 62  (23.09.2022)
 | Firebug | 20.00% | ~919 |
 | Nothing to Lose | 18.00% | ~827 |
 | I Choose You | 17.00% | ~781 |
-| Big Sister | 16.00% | ~735 |
-| SENTINEL | 16.00% | ~735 |
-| Gear Up | 15.00% | ~689 |
-| Core Power | 13.00% | ~597 |
+| Big Sister | 16.00% | ~736 |
+| SENTINEL | 16.00% | ~736 |
+| Gear Up | 15.00% | ~690 |
+| Core Power | 13.00% | ~598 |
 | The Black Cerberus | 12.00% | ~552 |
 | Watchman | 12.00% | ~552 |
 | CREO Killed the Video Star | 11.00% | ~506 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~28 |
 | The Surge | 0.40% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,596 (Ranked 145)  
+Progressed: 4,597 (Ranked 145)  
 Completed: 16 (0.35%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,6 +173,7 @@ Completed: 16 (0.35%) (Ranked 159)
 | 2023-08-09 | 4,592 | 16 |
 | 2023-08-11 | 4,595 | 16 |
 | 2023-08-12 | 4,596 | 16 |
+| 2023-08-13 | 4,597 | 16 |
 ## Awards
 Max (Great Boss Battles): 28  (Ranked 467)  
 Sum: 28 (Ranked 479)  

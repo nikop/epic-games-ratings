@@ -6,67 +6,66 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~9,102 |
-| Until death do us apart | 4.00% | ~9,102 |
-| Victorious! | 4.00% | ~9,102 |
-| That is mine! | 3.00% | ~6,827 |
-| Brothers in Arms | 2.00% | ~4,551 |
-| Cold War | 2.00% | ~4,551 |
-| For the Glory | 2.00% | ~4,551 |
-| That's a Grand Navy | 2.00% | ~4,551 |
-| Seriously?! | 2.00% | ~4,551 |
-| Defender of the Faith | 1.00% | ~2,276 |
-| It's all about luck | 1.00% | ~2,276 |
-| It's all about the money | 1.00% | ~2,276 |
-| Respected | 1.00% | ~2,276 |
-| The Princess is in this Castle | 1.00% | ~2,276 |
-| True Catholic | 1.00% | ~2,276 |
-| Truly Divine Ruler | 1.00% | ~2,276 |
-| Royal Authority | 0.90% | ~2,048 |
-| Blockader | 0.80% | ~1,820 |
-| Double the Love | 0.80% | ~1,820 |
-| Total Control | 0.80% | ~1,820 |
-| Combined Arms | 0.70% | ~1,593 |
-| My armies are invincible! | 0.70% | ~1,593 |
-| Agressive Expander | 0.60% | ~1,365 |
-| Azur semé de lis or | 0.50% | ~1,138 |
-| Bright Spark | 0.50% | ~1,138 |
-| City of Cities | 0.50% | ~1,138 |
-| Factionalism | 0.50% | ~1,138 |
-| Gentle Persuasion | 0.50% | ~1,138 |
-| Queen of Conquest | 0.50% | ~1,138 |
-| This navy can take it all | 0.50% | ~1,138 |
-| All That's Thine Shall Be Mine | 0.40% | ~910 |
-| The Emperors new clothes | 0.40% | ~910 |
-| A Golden Empire | 0.40% | ~910 |
-| Isn't this the way to India? | 0.40% | ~910 |
-| Market Control | 0.40% | ~910 |
-| The Five Colonies | 0.40% | ~910 |
-| Down Under | 0.30% | ~683 |
-| Electable! | 0.30% | ~683 |
-| Populists in Government | 0.30% | ~683 |
-| Trustworthy | 0.30% | ~683 |
-| Absolutely | 0.20% | ~455 |
-| All belongs to Mother Russia | 0.20% | ~455 |
-| All Your Trade Are Belong to Us | 0.20% | ~455 |
-| At every continent | 0.20% | ~455 |
-| Early-Modern Warfare | 0.20% | ~455 |
-| Grand Coalition | 0.20% | ~455 |
-| In the Name of the Father | 0.20% | ~455 |
-| Italian Ambition | 0.20% | ~455 |
-| Just a Little Patience | 0.20% | ~455 |
-| Live Long and Prosper | 0.20% | ~455 |
-| One Family to Rule them All | 0.20% | ~455 |
-| One Night in Paris | 0.20% | ~455 |
-| Ruina Imperii | 0.20% | ~455 |
-| Tear Down This Wall | 0.20% | ~455 |
-| The Continuation of Diplomacy | 0.20% | ~455 |
-| The pen is mightier than the sword | 0.20% | ~455 |
-| This is My Faith | 0.20% | ~455 |
-| Time Bandit | 0.20% | ~455 |
-| Traditional Player | 0.20% | ~455 |
-| Trophy Hunter | 0.20% | ~455 |
-| Voting Streak | 0.20% | ~455 |
+| That's a Grand Army | 4.00% | ~9,137 |
+| Until death do us apart | 4.00% | ~9,137 |
+| Victorious! | 4.00% | ~9,137 |
+| That is mine! | 3.00% | ~6,853 |
+| Brothers in Arms | 2.00% | ~4,568 |
+| Cold War | 2.00% | ~4,568 |
+| For the Glory | 2.00% | ~4,568 |
+| That's a Grand Navy | 2.00% | ~4,568 |
+| Seriously?! | 2.00% | ~4,568 |
+| Defender of the Faith | 1.00% | ~2,284 |
+| It's all about luck | 1.00% | ~2,284 |
+| It's all about the money | 1.00% | ~2,284 |
+| Respected | 1.00% | ~2,284 |
+| The Princess is in this Castle | 1.00% | ~2,284 |
+| True Catholic | 1.00% | ~2,284 |
+| Truly Divine Ruler | 1.00% | ~2,284 |
+| Royal Authority | 0.90% | ~2,056 |
+| Blockader | 0.80% | ~1,827 |
+| Double the Love | 0.80% | ~1,827 |
+| Total Control | 0.80% | ~1,827 |
+| Combined Arms | 0.70% | ~1,599 |
+| My armies are invincible! | 0.70% | ~1,599 |
+| Agressive Expander | 0.60% | ~1,371 |
+| Azur semé de lis or | 0.50% | ~1,142 |
+| Bright Spark | 0.50% | ~1,142 |
+| City of Cities | 0.50% | ~1,142 |
+| Factionalism | 0.50% | ~1,142 |
+| Gentle Persuasion | 0.50% | ~1,142 |
+| Queen of Conquest | 0.50% | ~1,142 |
+| This navy can take it all | 0.50% | ~1,142 |
+| All That's Thine Shall Be Mine | 0.40% | ~914 |
+| The Emperors new clothes | 0.40% | ~914 |
+| A Golden Empire | 0.40% | ~914 |
+| Isn't this the way to India? | 0.40% | ~914 |
+| Market Control | 0.40% | ~914 |
+| The Five Colonies | 0.40% | ~914 |
+| Down Under | 0.30% | ~685 |
+| Electable! | 0.30% | ~685 |
+| Populists in Government | 0.30% | ~685 |
+| Trustworthy | 0.30% | ~685 |
+| Absolutely | 0.20% | ~457 |
+| All belongs to Mother Russia | 0.20% | ~457 |
+| At every continent | 0.20% | ~457 |
+| Early-Modern Warfare | 0.20% | ~457 |
+| Grand Coalition | 0.20% | ~457 |
+| In the Name of the Father | 0.20% | ~457 |
+| Italian Ambition | 0.20% | ~457 |
+| Just a Little Patience | 0.20% | ~457 |
+| Live Long and Prosper | 0.20% | ~457 |
+| One Family to Rule them All | 0.20% | ~457 |
+| One Night in Paris | 0.20% | ~457 |
+| Ruina Imperii | 0.20% | ~457 |
+| Tear Down This Wall | 0.20% | ~457 |
+| The Continuation of Diplomacy | 0.20% | ~457 |
+| The pen is mightier than the sword | 0.20% | ~457 |
+| This is My Faith | 0.20% | ~457 |
+| Time Bandit | 0.20% | ~457 |
+| Traditional Player | 0.20% | ~457 |
+| Trophy Hunter | 0.20% | ~457 |
+| Voting Streak | 0.20% | ~457 |
 | The 52 Garhs | 0.10% | ~228 |
 | I don't like sand | 0.10% | ~228 |
 | A Blessed Nation | 0.10% | ~228 |
@@ -84,6 +83,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | African Power | 0.10% | ~228 |
 | Albania or Iberia | 0.10% | ~228 |
 | All Blue | 0.10% | ~228 |
+| All Your Trade Are Belong to Us | 0.10% | ~228 |
 | Almost Prussian Blue | 0.10% | ~228 |
 | An early Reich | 0.10% | ~228 |
 | An Unlikely Candidate | 0.10% | ~228 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 227,559 (Ranked 52)  
+Progressed: 228,419 (Ranked 51)  
 Completed: 0 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -476,10 +476,10 @@ Completed: 0 (0.00%) (Ranked 255)
 | 2023-08-10 | 118,362 | 0 |
 | 2023-08-11 | 180,392 | 0 |
 | 2023-08-12 | 221,868 | 0 |
-| 2023-08-13 | 227,559 | 0 |
+| 2023-08-13 | 228,419 | 0 |
 ## Awards
 Max (Educational): 5,654  (Ranked 62)  
-Sum: 46,663 (Ranked 26)  
+Sum: 46,669 (Ranked 26)  
 Diff (max vs sum): 36  
 | Award | Count |
 | ----- | ----- |
@@ -490,7 +490,7 @@ Diff (max vs sum): 36
 | This game has Diverse Characters | 5,332 |
 | This game is Relaxing | 5,222 |
 | This game has Competitive Players | 5,091 |
-| This game has Amazing Storytelling | 4,776 |
+| This game has Amazing Storytelling | 4,782 |
 | This game has Amazing Characters | 4,429 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
@@ -704,3 +704,4 @@ Diff (max vs sum): 36
 | 2023-08-10 | 4.69 | - | 5,639 | 46,563 |
 | 2023-08-11 | 4.69 | - | 5,650 | 46,622 |
 | 2023-08-12 | 4.69 | - | 5,654 | 46,663 |
+| 2023-08-13 | 4.69 | - | 5,654 | 46,669 |

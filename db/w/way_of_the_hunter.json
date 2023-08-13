@@ -3,8 +3,8 @@
   "Name": "Way of the Hunter",
   "ProductSlug": "way-of-the-hunter",
   "Ranking_Rating": 727,
-  "Ranking_Popularity": 420,
-  "Ranking_PopularitySum": 346,
+  "Ranking_Popularity": 418,
+  "Ranking_PopularitySum": 345,
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 354,
@@ -800,11 +800,17 @@
       "Rating": 4.37,
       "NumberOfAwards": 273,
       "NumberOfAwardsMax": 42
+    },
+    {
+      "Time": "2023-08-13T06:00:43.0425924+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 274,
+      "NumberOfAwardsMax": 43
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 273,
-  "NumberOfAwardsMax": 42,
+  "NumberOfAwards": 274,
+  "NumberOfAwardsMax": 43,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
@@ -829,7 +835,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 42
+      "Count": 43
     },
     {
       "Text": "This game is Relaxing",
@@ -892,8 +898,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-08-22T17:32:55.4881061+00:00",
   "FirstSeenRating": "2022-08-25T19:31:36.42786+00:00",
-  "LastChanged": "2023-08-10T12:00:33.4336598+00:00",
+  "LastChanged": "2023-08-13T06:00:43.0425921+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:45.7718114+00:00",
-  "LastUpdate_Ratings": "2023-08-13T05:00:32.2615445+00:00",
-  "LastUpdate_Achievements": "2023-08-13T05:06:19.957245+00:00"
+  "LastUpdate_Ratings": "2023-08-13T06:00:43.042593+00:00",
+  "LastUpdate_Achievements": "2023-08-13T06:06:25.8624674+00:00"
 }
