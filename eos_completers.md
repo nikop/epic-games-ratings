@@ -25,7 +25,7 @@
 | 23 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.09% |
 | 24 | [Remains](games/r/remains.md) | 10.64% |
 | 25 | [Out of Bounds](games/o/out_of_bounds.md) | 10.34% |
-| 26 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.30% |
+| 26 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.26% |
 | 27 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 10.00% |
 | 28 | [Sonic Origins](games/s/sonic_origins.md) | 9.72% |
 | 29 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 9.30% |
@@ -46,10 +46,10 @@
 | 44 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.45% |
 | 45 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.36% |
 | 46 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.26% |
-| 47 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 5.00% |
-| 48 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.84% |
-| 49 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.80% |
-| 50 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 4.76% |
+| 47 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.84% |
+| 48 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.80% |
+| 49 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 4.76% |
+| 49 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 4.76% |
 | 51 | [Bugsnax](games/b/bugsnax.md) | 4.71% |
 | 52 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.69% |
 | 53 | [JARS](games/j/jars.md) | 4.62% |
@@ -64,11 +64,11 @@
 | 62 | [Doodle God](games/d/doodle_god.md) | 3.46% |
 | 63 | [Bunny Park](games/b/bunny_park.md) | 3.39% |
 | 64 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.33% |
-| 65 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.24% |
+| 65 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.23% |
 | 66 | [HordeCore](games/h/hordecore.md) | 3.15% |
 | 67 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.05% |
-| 68 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.99% |
 | 68 | [The Complex](games/t/the_complex.md) | 2.99% |
+| 69 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.98% |
 | 70 | [Monster Harvest](games/m/monster_harvest.md) | 2.95% |
 | 71 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 72 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.78% |
@@ -82,7 +82,7 @@
 | 80 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.52% |
 | 81 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 82 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.36% |
-| 83 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.34% |
+| 83 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.33% |
 | 84 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.28% |
 | 85 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 2.27% |
 | 86 | [Bloodshore](games/b/bloodshore.md) | 2.22% |
@@ -96,8 +96,8 @@
 | 94 | [Sifu](games/s/sifu.md) | 1.80% |
 | 95 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.69% |
 | 96 | [Iron Danger](games/i/iron_danger.md) | 1.63% |
-| 97 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.61% |
 | 97 | [Somerville](games/s/somerville.md) | 1.61% |
+| 98 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.60% |
 | 99 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.58% |
 | 100 | [Five Dates](games/f/five_dates.md) | 1.57% |
 | 101 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.49% |
@@ -541,4 +541,4 @@
 | 255 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 255 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 255 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,042 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,043 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
