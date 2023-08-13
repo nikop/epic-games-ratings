@@ -7,17 +7,17 @@ Rating: 4.62 (Ranked 344)
 | ---- | ---------- | ----- |
 | Secret Technique | 6.00% | ~307 |
 | Tipping the Scales | 6.00% | ~307 |
-| Realm Estate | 5.00% | ~255 |
-| A Wonderful Discovery | 5.00% | ~255 |
-| Walls Cannot Stop Us | 5.00% | ~255 |
-| Bone Peddler | 5.00% | ~255 |
-| From Friends to Family | 5.00% | ~255 |
-| Stronger Together | 5.00% | ~255 |
-| Magical Synergy | 5.00% | ~255 |
-| Seat of Power | 5.00% | ~255 |
-| Intimidation Tactics | 5.00% | ~255 |
-| Blood of the Dragon | 5.00% | ~255 |
-| Mighty Hoard | 5.00% | ~255 |
+| Realm Estate | 5.00% | ~256 |
+| A Wonderful Discovery | 5.00% | ~256 |
+| Walls Cannot Stop Us | 5.00% | ~256 |
+| Bone Peddler | 5.00% | ~256 |
+| From Friends to Family | 5.00% | ~256 |
+| Stronger Together | 5.00% | ~256 |
+| Magical Synergy | 5.00% | ~256 |
+| Seat of Power | 5.00% | ~256 |
+| Intimidation Tactics | 5.00% | ~256 |
+| Blood of the Dragon | 5.00% | ~256 |
+| Mighty Hoard | 5.00% | ~256 |
 | There Can Only Be One! | 4.00% | ~204 |
 | Full Ascension | 4.00% | ~204 |
 | My Final Form | 4.00% | ~204 |
@@ -56,7 +56,7 @@ Rating: 4.62 (Ranked 344)
 | The Grey Wizard | 0.10% | ~5 |
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,109 (Ranked 141)  
+Progressed: 5,110 (Ranked 141)  
 Completed: 5 (0.10%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,7 +157,7 @@ Completed: 5 (0.10%) (Ranked 203)
 | 2023-08-10 | 5,099 | 5 |
 | 2023-08-11 | 5,102 | 5 |
 | 2023-08-12 | 5,108 | 5 |
-| 2023-08-13 | 5,109 | 5 |
+| 2023-08-13 | 5,110 | 5 |
 ## Awards
 Max (Great for Beginners): 20  (Ranked 508)  
 Sum: 20 (Ranked 508)  

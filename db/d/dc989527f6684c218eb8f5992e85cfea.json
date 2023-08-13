@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9495,
+  "EOS_Progressed": 9500,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 491,
+  "EOS_NewPlayers": 493,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6226,6 +6226,11 @@
       "Time": "2023-08-13T02:16:16.6665446+00:00",
       "NumProgressed": 9495,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-13T03:03:12.4739425+00:00",
+      "NumProgressed": 9500,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -6237,7 +6242,7 @@
       "Name": "Self Portrait",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1139
+      "UsersEstimate": 1140
     },
     {
       "ID": "ACH_COLOR_AVERAGE_AT_LEAST_6_AFTER_25_GAMES",
@@ -6277,7 +6282,7 @@
       "Name": "Dal\u00ED",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_EVERYONE_GUESSED_CORRECTLY_WITHIN_20_SECONDS_4_PLAYERS",
@@ -6293,7 +6298,7 @@
       "Name": "Michelangelo",
       "Percentage": 0.1,
       "XP": 60,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_HUNDRED_UPVOTES",
@@ -6309,7 +6314,7 @@
       "Name": "You tried your best!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 4178
+      "UsersEstimate": 4180
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -6325,7 +6330,7 @@
       "Name": "Facepalm",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1709
+      "UsersEstimate": 1710
     },
     {
       "ID": "ACH_TEN_WORD_PACKAGES",
@@ -6357,7 +6362,7 @@
       "Name": "Medal Magnet!",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_WIN_10_GAMES_SCRIBBLE_IT",
@@ -6373,7 +6378,7 @@
       "Name": "Junior Artist",
       "Percentage": 0.1,
       "XP": 60,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_WIN_50_GAMES_GUESS_IT",
@@ -6405,7 +6410,7 @@
       "Name": "Art Intern",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1899
+      "UsersEstimate": 1900
     },
     {
       "ID": "ACH_WIN_A_GAME_GUESS_IT",
@@ -6429,21 +6434,21 @@
       "Name": "First Sketch",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1709
+      "UsersEstimate": 1710
     }
   ],
   "AchievementSets": [
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 9495,
+      "Progressed": 9500,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-08-13T02:16:16.6665437+00:00",
+  "LastChanged_Achievements": "2023-08-13T03:03:12.473942+00:00",
   "LastUpdate_AppInfo": "2023-08-11T20:57:02.5153501+00:00",
-  "LastUpdate_Ratings": "2023-08-13T02:11:30.8775337+00:00",
-  "LastUpdate_Achievements": "2023-08-13T02:16:16.6665974+00:00"
+  "LastUpdate_Ratings": "2023-08-13T02:57:52.2915345+00:00",
+  "LastUpdate_Achievements": "2023-08-13T03:03:12.4740137+00:00"
 }

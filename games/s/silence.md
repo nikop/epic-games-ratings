@@ -16,23 +16,23 @@
 | Chapter II | 30.00% | ~31 |
 | Achoo!! | 29.00% | ~30 |
 | Let the boot talk | 28.00% | ~29 |
+| Like a moth in the Wind | 28.00% | ~29 |
 | Chapter III | 27.00% | ~28 |
-| Like a moth in the Wind | 27.00% | ~28 |
 | Bubblekillerfamily | 24.00% | ~25 |
 | Quite a buggy game | 23.00% | ~24 |
 | Mirror mirror on the wall... | 23.00% | ~24 |
 | Shadow on the wall | 22.00% | ~23 |
 | Fastidious Clown | 22.00% | ~23 |
 | Handyman | 21.00% | ~22 |
-| It's not easy being green! | 20.00% | ~21 |
+| It's not easy being green! | 21.00% | ~22 |
 | Home is where the heart is | 20.00% | ~21 |
 | Pacifist | 18.00% | ~19 |
 | Master of Thermodynamics | 17.00% | ~18 |
 | Death is a part of life | 17.00% | ~18 |
 | Unfullfilled dreams | 15.00% | ~15 |
 | Nothing can stop me | 12.00% | ~12 |
+| Mumbo Jumbo | 12.00% | ~12 |
 | To err is human... | 11.00% | ~11 |
-| Mumbo Jumbo | 11.00% | ~11 |
 | Useless but beautiful | 9.00% | ~9 |
 | Lollipop | 9.00% | ~9 |
 | It's nothing personal | 9.00% | ~9 |

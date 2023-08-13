@@ -2504,9 +2504,9 @@
       "ID": "ACHV_41",
       "SetID": "8p5mlmc",
       "Name": "Suited and Booted",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 749
+      "UsersEstimate": 769
     },
     {
       "ID": "ACHV_42",
@@ -2649,8 +2649,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-08-11T22:58:17.9643661+00:00",
-  "LastChanged_Achievements": "2023-08-13T02:18:28.8496019+00:00",
+  "LastChanged_Achievements": "2023-08-13T03:05:15.9189602+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:03.0186923+00:00",
-  "LastUpdate_Ratings": "2023-08-13T02:11:23.5744798+00:00",
-  "LastUpdate_Achievements": "2023-08-13T02:18:28.8496738+00:00"
+  "LastUpdate_Ratings": "2023-08-13T02:57:45.0466727+00:00",
+  "LastUpdate_Achievements": "2023-08-13T03:05:15.919035+00:00"
 }

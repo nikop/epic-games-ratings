@@ -1,7 +1,7 @@
 # Miasma Chronicles
 [Store](https://store.epicgames.com/en-US/p/miasma-chronicles)  
 [View Rawdata](../../db/m/miasma_chronicles.json)  
-Rating: 4.40 (Ranked 697)  
+Rating: 4.40 (Ranked 696)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -13,9 +13,9 @@ Rating: 4.40 (Ranked 697)
 | Lumberjack | 53.00% | ~721 |
 | Croaked | 48.00% | ~653 |
 | Limp Richard | 48.00% | ~653 |
+| Editor Adept | 47.00% | ~640 |
 | Exorcist | 47.00% | ~640 |
 | From Darkness to Light | 47.00% | ~640 |
-| Editor Adept | 46.00% | ~626 |
 | Giant Killer | 45.00% | ~612 |
 | Sensei | 43.00% | ~585 |
 | Firestarter | 42.00% | ~572 |

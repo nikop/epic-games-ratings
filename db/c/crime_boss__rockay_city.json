@@ -2958,9 +2958,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 71733,
+  "EOS_Progressed": 71734,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 346,
+  "EOS_NewPlayers": 344,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -14943,6 +14943,11 @@
       "Time": "2023-08-13T02:19:44.8103264+00:00",
       "NumProgressed": 71733,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-08-13T03:06:48.6275663+00:00",
+      "NumProgressed": 71734,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 37,
@@ -14954,7 +14959,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 35866
+      "UsersEstimate": 35867
     },
     {
       "ID": "ACH_0011",
@@ -15098,7 +15103,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 46626
+      "UsersEstimate": 46627
     },
     {
       "ID": "ACH_0210",
@@ -15106,7 +15111,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 53082
+      "UsersEstimate": 53083
     },
     {
       "ID": "ACH_0211",
@@ -15178,7 +15183,7 @@
       "Name": "King of the Hill",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 24389
+      "UsersEstimate": 24390
     },
     {
       "ID": "ACH_0430",
@@ -15249,22 +15254,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 71733,
+      "Progressed": 71734,
       "Completed": 38
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 80,
-      "Completed": 80
+      "Progressed": 81,
+      "Completed": 81
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-08-12T23:00:46.4349161+00:00",
-  "LastChanged_Achievements": "2023-08-13T02:19:44.8103259+00:00",
+  "LastChanged_Achievements": "2023-08-13T03:06:48.6275657+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:57.6056168+00:00",
-  "LastUpdate_Ratings": "2023-08-13T02:14:51.2788635+00:00",
-  "LastUpdate_Achievements": "2023-08-13T02:19:44.8104348+00:00"
+  "LastUpdate_Ratings": "2023-08-13T03:02:08.9290475+00:00",
+  "LastUpdate_Achievements": "2023-08-13T03:06:48.6276962+00:00"
 }

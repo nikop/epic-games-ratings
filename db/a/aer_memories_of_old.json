@@ -2,7 +2,7 @@
   "ID": "f3720f53cccb4a20841a392a8ea0457f",
   "Name": "AER Memories of Old",
   "ProductSlug": "aer-memories-of-old",
-  "Ranking_Rating": 632,
+  "Ranking_Rating": 631,
   "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 108,
@@ -380,7 +380,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17698,
+  "EOS_Progressed": 17701,
   "EOS_Completed": 361,
   "EOS_NewPlayers": 568,
   "EOS_NewCompleters": 8,
@@ -12515,6 +12515,11 @@
       "Time": "2023-08-13T02:19:00.553113+00:00",
       "NumProgressed": 17698,
       "NumCompleted": 361
+    },
+    {
+      "Time": "2023-08-13T03:05:54.3859051+00:00",
+      "NumProgressed": 17701,
+      "NumCompleted": 361
     }
   ],
   "TotalAchievements": 20,
@@ -12646,7 +12651,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 13450
+      "UsersEstimate": 13453
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -12654,7 +12659,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 4955
+      "UsersEstimate": 4956
     },
     {
       "ID": "NORTH_FINISHED",
@@ -12685,15 +12690,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 17698,
+      "Progressed": 17701,
       "Completed": 361
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-08-12T01:39:46.4098224+00:00",
-  "LastChanged_Achievements": "2023-08-13T02:19:00.5531125+00:00",
+  "LastChanged_Achievements": "2023-08-13T03:05:54.3859042+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:58:04.1120676+00:00",
-  "LastUpdate_Ratings": "2023-08-13T02:14:53.8124469+00:00",
-  "LastUpdate_Achievements": "2023-08-13T02:19:00.5532026+00:00"
+  "LastUpdate_Ratings": "2023-08-13T03:02:13.140154+00:00",
+  "LastUpdate_Achievements": "2023-08-13T03:05:54.3860205+00:00"
 }

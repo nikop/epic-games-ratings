@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 508,
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -300,9 +300,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5109,
+  "EOS_Progressed": 5110,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5760,6 +5760,11 @@
       "Time": "2023-08-13T00:04:55.952613+00:00",
       "NumProgressed": 5109,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-13T03:06:01.2118226+00:00",
+      "NumProgressed": 5110,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 50,
@@ -5883,7 +5888,7 @@
       "Name": "Realm Estate",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "23",
@@ -5891,7 +5896,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "24",
@@ -5907,7 +5912,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "26",
@@ -5915,7 +5920,7 @@
       "Name": "Bone Peddler",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "27",
@@ -5931,7 +5936,7 @@
       "Name": "From Friends to Family",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "29",
@@ -5939,7 +5944,7 @@
       "Name": "Stronger Together",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "3",
@@ -5963,7 +5968,7 @@
       "Name": "Magical Synergy",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "32",
@@ -5979,7 +5984,7 @@
       "Name": "Seat of Power",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "34",
@@ -6043,7 +6048,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "41",
@@ -6147,7 +6152,7 @@
       "Name": "Blood of the Dragon",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "49",
@@ -6155,7 +6160,7 @@
       "Name": "Mighty Hoard",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "50",
@@ -6170,13 +6175,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5109,
+      "Progressed": 5110,
       "Completed": 4761
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5109,
+      "Progressed": 5110,
       "Completed": 5
     }
   ],
@@ -6184,8 +6189,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-08-12T16:02:18.9567483+00:00",
-  "LastChanged_Achievements": "2023-08-13T02:19:06.1076486+00:00",
+  "LastChanged_Achievements": "2023-08-13T03:06:01.2118216+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:11.8097072+00:00",
-  "LastUpdate_Ratings": "2023-08-13T02:14:15.461695+00:00",
-  "LastUpdate_Achievements": "2023-08-13T02:19:06.1077316+00:00"
+  "LastUpdate_Ratings": "2023-08-13T03:00:49.3335553+00:00",
+  "LastUpdate_Achievements": "2023-08-13T03:06:01.2119161+00:00"
 }

@@ -227,9 +227,9 @@
       "ID": "aq_achievement_23",
       "SetID": "7jh86ne",
       "Name": "Fussy eater",
-      "Percentage": 47,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "aq_achievement_24",
@@ -331,9 +331,9 @@
       "ID": "aq_achievement_35",
       "SetID": "7jh86ne",
       "Name": "Ooh, it\u0027s shiny!",
-      "Percentage": 59,
+      "Percentage": 63,
       "XP": 35,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "aq_achievement_36",
@@ -428,8 +428,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.0099942+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.5540856+00:00",
   "LastChanged": "2023-03-31T05:58:28.0099943+00:00",
-  "LastChanged_Achievements": "2023-08-13T02:16:29.9140832+00:00",
+  "LastChanged_Achievements": "2023-08-13T03:03:28.5901666+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:55.3569902+00:00",
-  "LastUpdate_Ratings": "2023-08-13T02:13:57.3854888+00:00",
-  "LastUpdate_Achievements": "2023-08-13T02:16:29.9141216+00:00"
+  "LastUpdate_Ratings": "2023-08-13T03:00:30.1268461+00:00",
+  "LastUpdate_Achievements": "2023-08-13T03:03:28.5902039+00:00"
 }

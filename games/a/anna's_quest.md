@@ -6,16 +6,16 @@
 | ---- | ---------- | ----- |
 | Escape artist | 81.00% | ~26 |
 | Book Worm | 63.00% | ~20 |
+| Ooh, it's shiny! | 63.00% | ~20 |
 | Through the woods | 59.00% | ~19 |
 | My lost nightingale | 59.00% | ~19 |
-| Ooh, it's shiny! | 59.00% | ~19 |
 | Back to the anvil | 56.00% | ~18 |
 | Roostwig has entered the building | 53.00% | ~17 |
 | Mystery solved | 50.00% | ~16 |
+| Fussy eater | 50.00% | ~16 |
 | So soothing... | 50.00% | ~16 |
 | NOW GO AWAY! | 50.00% | ~16 |
 | Honey, honey, honey… | 47.00% | ~15 |
-| Fussy eater | 47.00% | ~15 |
 | Far away from home | 47.00% | ~15 |
 | Kekekeke... | 47.00% | ~15 |
 | Sorry Grandpa | 47.00% | ~15 |
