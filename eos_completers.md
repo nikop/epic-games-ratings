@@ -27,7 +27,7 @@
 | 25 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 10.53% |
 | 26 | [Out of Bounds](games/o/out_of_bounds.md) | 10.34% |
 | 27 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.97% |
-| 28 | [Sonic Origins](games/s/sonic_origins.md) | 9.77% |
+| 28 | [Sonic Origins](games/s/sonic_origins.md) | 9.74% |
 | 29 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 9.30% |
 | 29 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.30% |
 | 31 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.04% |
@@ -36,8 +36,8 @@
 | 34 | [Smelter](games/s/smelter.md) | 7.69% |
 | 35 | [Ravenlok](games/r/ravenlok.md) | 7.45% |
 | 36 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.95% |
-| 37 | [Scorn](games/s/scorn.md) | 6.93% |
-| 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.88% |
+| 37 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.94% |
+| 38 | [Scorn](games/s/scorn.md) | 6.93% |
 | 39 | [Time Loader](games/t/time_loader.md) | 6.84% |
 | 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.46% |
 | 41 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
@@ -83,8 +83,8 @@
 | 81 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 82 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.36% |
 | 83 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.34% |
-| 84 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.27% |
-| 84 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 2.27% |
+| 84 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.28% |
+| 85 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 2.27% |
 | 86 | [Bloodshore](games/b/bloodshore.md) | 2.22% |
 | 87 | [FORECLOSED](games/f/foreclosed.md) | 2.17% |
 | 88 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.04% |
@@ -541,4 +541,4 @@
 | 255 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 255 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 255 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,041 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,042 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
