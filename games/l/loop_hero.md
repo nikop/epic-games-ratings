@@ -1,15 +1,15 @@
 # Loop Hero
 [Store](https://store.epicgames.com/en-US/p/loop-hero)  
 [View Rawdata](../../db/l/loop_hero.json)  
-Rating: 4.68 (Ranked 241)  
+Rating: 4.68 (Ranked 240)  
 Number of Ratings: 6,301  (23.09.2022)  
 ## Awards
-Max (Quickly Understood Controls): 425  (Ranked 207)  
-Sum: 3,615 (Ranked 151)  
+Max (Quickly Understood Controls): 429  (Ranked 206)  
+Sum: 3,619 (Ranked 150)  
 Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
-| This game has Quickly Understood Controls | 425 |
+| This game has Quickly Understood Controls | 429 |
 | This game is Relaxing | 416 |
 | This game has Amazing Storytelling | 393 |
 | This game is Great for Beginners | 386 |
@@ -166,4 +166,4 @@ Diff (max vs sum): 56
 | 2023-08-10 | 4.68 | - | 425 | 3,590 |
 | 2023-08-11 | 4.68 | - | 425 | 3,601 |
 | 2023-08-12 | 4.68 | - | 425 | 3,614 |
-| 2023-08-13 | 4.68 | - | 425 | 3,615 |
+| 2023-08-13 | 4.68 | - | 429 | 3,619 |

@@ -17,15 +17,15 @@
 | First defeat | 76.00% | ~186 |
 | Neurotrainer – power gainer! | 76.00% | ~186 |
 | Run K, run! | 73.00% | ~179 |
-| Fighting is cool | 70.00% | ~172 |
+| Fighting is cool | 71.00% | ~174 |
+| No bullying more | 70.00% | ~172 |
 | Hello, world! | 70.00% | ~172 |
-| No bullying more | 69.00% | ~169 |
 | Pal of your father? | 67.00% | ~164 |
-| Employee of the month | 65.00% | ~159 |
+| Employee of the month | 66.00% | ~162 |
 | Spirit of the past | 64.00% | ~157 |
 | Law student | 62.00% | ~152 |
 | Workout professional | 60.00% | ~147 |
-| Little hacker | 59.00% | ~145 |
+| Little hacker | 60.00% | ~147 |
 | It's good to be alive | 59.00% | ~145 |
 | Own four walls | 59.00% | ~145 |
 | Handyman | 58.00% | ~142 |

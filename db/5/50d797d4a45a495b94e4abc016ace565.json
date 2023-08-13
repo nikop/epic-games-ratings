@@ -4,7 +4,7 @@
   "ProductSlug": "primal-survivors-0724bb",
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewPlayers": 354,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-02T03:05:47.7555545+00:00",
-  "LastChanged_Achievements": "2023-08-13T09:05:53.2343354+00:00",
+  "LastChanged_Achievements": "2023-08-13T10:06:04.443829+00:00",
   "LastUpdate_AppInfo": "2023-08-11T08:57:04.6794168+00:00",
-  "LastUpdate_Ratings": "2023-08-13T08:58:44.7644442+00:00",
-  "LastUpdate_Achievements": "2023-08-13T09:05:53.2343396+00:00"
+  "LastUpdate_Ratings": "2023-08-13T09:58:59.2270574+00:00",
+  "LastUpdate_Achievements": "2023-08-13T10:06:04.4438336+00:00"
 }

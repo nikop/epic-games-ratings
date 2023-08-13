@@ -12,9 +12,9 @@ Rating: 4.88 (Ranked 18)
 | Who put gears in there? | 8.00% | ~310 |
 | Thanks for the free chip, Peppermint! | 7.00% | ~271 |
 | You got this, Peppermint? | 7.00% | ~271 |
-| I play my own way! | 6.00% | ~232 |
-| Perfect Parry | 6.00% | ~232 |
-| Alright, that felt AWESOME! | 6.00% | ~232 |
+| I play my own way! | 6.00% | ~233 |
+| Perfect Parry | 6.00% | ~233 |
+| Alright, that felt AWESOME! | 6.00% | ~233 |
 | This will cost you big time | 5.00% | ~194 |
 | Whoa! There's ANOTHER health bar!? | 5.00% | ~194 |
 | Z-shielding's got nothing on us! | 5.00% | ~194 |
@@ -45,9 +45,9 @@ Rating: 4.88 (Ranked 18)
 | I hit things with a guitar really well. | 0.90% | ~35 |
 | We're Jammin' | 0.80% | ~31 |
 | First we parry, then we counter | 0.70% | ~27 |
+| This is a breeze! | 0.60% | ~23 |
 | I'm not done with you yet | 0.60% | ~23 |
 | New bad guys? No problem! | 0.60% | ~14 |
-| This is a breeze! | 0.50% | ~19 |
 | OK, well THEY came after ME! | 0.40% | ~16 |
 | You ever parry a volcano? | 0.40% | ~16 |
 | Choose your own adventure | 0.40% | ~10 |
@@ -77,7 +77,7 @@ Rating: 4.88 (Ranked 18)
 | Voices from within | 0.10% | ~2 |
 | Low budget finish | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,875 (Ranked 147)  
+Progressed: 3,878 (Ranked 147)  
 Completed: 7 (0.18%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 7 (0.18%) (Ranked 185)
 | 2023-08-10 | 3,836 | 7 |
 | 2023-08-11 | 3,855 | 7 |
 | 2023-08-12 | 3,868 | 7 |
-| 2023-08-13 | 3,875 | 7 |
+| 2023-08-13 | 3,878 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

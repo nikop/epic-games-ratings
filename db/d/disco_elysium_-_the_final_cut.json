@@ -3,7 +3,7 @@
   "Name": "Disco Elysium - The Final Cut",
   "ProductSlug": "disco-elysium",
   "Ranking_Rating": 25,
-  "Ranking_Popularity": 163,
+  "Ranking_Popularity": 165,
   "Ranking_PopularitySum": 234,
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 235,
@@ -1241,9 +1241,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 126128,
+  "EOS_Progressed": 126132,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 445,
+  "EOS_NewPlayers": 442,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -12631,6 +12631,11 @@
       "Time": "2023-08-13T09:05:29.6272419+00:00",
       "NumProgressed": 126128,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-08-13T10:05:40.5076838+00:00",
+      "NumProgressed": 126132,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 40,
@@ -12674,7 +12679,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 22703
+      "UsersEstimate": 22704
     },
     {
       "ID": "ACH_COP_BAD",
@@ -12690,7 +12695,7 @@
       "Name": "Unbelievably Boring ****",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 10090
+      "UsersEstimate": 10091
     },
     {
       "ID": "ACH_COP_COMMUNIST",
@@ -12698,7 +12703,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 30271
+      "UsersEstimate": 30272
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -12706,7 +12711,7 @@
       "Name": "Enemy Of The Physical Realm",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 10090
+      "UsersEstimate": 10091
     },
     {
       "ID": "ACH_COP_DORK",
@@ -12722,7 +12727,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 35316
+      "UsersEstimate": 35317
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -12746,7 +12751,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20180
+      "UsersEstimate": 20181
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -12778,7 +12783,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 18919
+      "UsersEstimate": 18920
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -12786,7 +12791,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 13874
+      "UsersEstimate": 13875
     },
     {
       "ID": "ACH_CUNO",
@@ -12961,15 +12966,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 126128,
+      "Progressed": 126132,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-08-04T01:55:33.6301654+00:00",
-  "LastChanged_Achievements": "2023-08-13T09:05:29.6272412+00:00",
+  "LastChanged_Achievements": "2023-08-13T10:05:40.507683+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:59.4029348+00:00",
-  "LastUpdate_Ratings": "2023-08-13T09:01:46.7651856+00:00",
-  "LastUpdate_Achievements": "2023-08-13T09:05:29.6274185+00:00"
+  "LastUpdate_Ratings": "2023-08-13T10:02:01.0831641+00:00",
+  "LastUpdate_Achievements": "2023-08-13T10:05:40.5077791+00:00"
 }

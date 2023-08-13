@@ -4,7 +4,7 @@
   "ProductSlug": "ea-sports-fc-24",
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewPlayers": 354,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-09-29T00:00:00+00:00",
@@ -35,8 +35,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-31T02:03:06.7059305+00:00",
-  "LastChanged_Achievements": "2023-08-13T09:06:02.9534911+00:00",
+  "LastChanged_Achievements": "2023-08-13T10:06:14.6148186+00:00",
   "LastUpdate_AppInfo": "2023-08-10T19:57:06.2222167+00:00",
-  "LastUpdate_Ratings": "2023-08-13T08:58:22.1818295+00:00",
-  "LastUpdate_Achievements": "2023-08-13T09:06:02.9534958+00:00"
+  "LastUpdate_Ratings": "2023-08-13T09:58:37.315434+00:00",
+  "LastUpdate_Achievements": "2023-08-13T10:06:14.6148225+00:00"
 }

@@ -2903,18 +2903,24 @@
       "Rating": 4.62,
       "NumberOfAwards": 2885,
       "NumberOfAwardsMax": 373
+    },
+    {
+      "Time": "2023-08-13T10:00:20.5979596+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 2886,
+      "NumberOfAwardsMax": 374
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2885,
-  "NumberOfAwardsMax": 373,
+  "NumberOfAwards": 2886,
+  "NumberOfAwardsMax": 374,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 373
+      "Count": 374
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2977,9 +2983,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 432100,
+  "EOS_Progressed": 432109,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2483,
+  "EOS_NewPlayers": 2470,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15587,6 +15593,11 @@
       "Time": "2023-08-13T09:07:43.2213025+00:00",
       "NumProgressed": 432100,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-13T10:07:55.4291457+00:00",
+      "NumProgressed": 432109,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -15630,7 +15641,7 @@
       "Name": "Cinematic",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 2160
+      "UsersEstimate": 2161
     },
     {
       "ID": "ACH_DESIGNATED_DRIVER",
@@ -15877,15 +15888,15 @@
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 432100,
+      "Progressed": 432109,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
-  "LastChanged": "2023-08-12T21:00:50.9853862+00:00",
-  "LastChanged_Achievements": "2023-08-13T09:07:43.2213019+00:00",
+  "LastChanged": "2023-08-13T10:00:20.5979593+00:00",
+  "LastChanged_Achievements": "2023-08-13T10:07:55.4291448+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:41.0153429+00:00",
-  "LastUpdate_Ratings": "2023-08-13T09:00:05.6111757+00:00",
-  "LastUpdate_Achievements": "2023-08-13T09:07:43.2214437+00:00"
+  "LastUpdate_Ratings": "2023-08-13T10:00:20.5979601+00:00",
+  "LastUpdate_Achievements": "2023-08-13T10:07:55.4292905+00:00"
 }

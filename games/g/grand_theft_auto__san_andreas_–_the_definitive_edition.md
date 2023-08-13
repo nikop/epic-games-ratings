@@ -36,7 +36,7 @@ Rating: 4.56 (Ranked 470)
 | Hoopin' it Up | 1.00% | ~120 |
 | Lucky Spinner | 1.00% | ~120 |
 | Chick Magnet | 1.00% | ~120 |
-| Not a Player | 0.80% | ~96 |
+| Not a Player | 0.90% | ~108 |
 | Remastered | 0.70% | ~84 |
 | ...Here we go again | 0.40% | ~48 |
 | I Ain't No Buster | 0.30% | ~36 |

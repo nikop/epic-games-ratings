@@ -4,7 +4,7 @@
   "ProductSlug": "the-riflemen-8be608",
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewPlayers": 354,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-09-30T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-12T05:57:03.8235259+00:00",
-  "LastUpdate_Ratings": "2023-08-13T08:58:19.5410621+00:00",
-  "LastUpdate_Achievements": "2023-08-13T09:07:35.3296887+00:00"
+  "LastUpdate_Ratings": "2023-08-13T09:58:32.3117479+00:00",
+  "LastUpdate_Achievements": "2023-08-13T10:07:47.6569404+00:00"
 }

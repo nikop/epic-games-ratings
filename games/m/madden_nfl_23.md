@@ -1,7 +1,7 @@
 # Madden NFL 23
 [Store](https://store.epicgames.com/en-US/p/madden-nfl-23)  
 [View Rawdata](../../db/m/madden_nfl_23.json)  
-Rating: 4.33 (Ranked 764)  
+Rating: 4.33 (Ranked 765)  
 ## Awards
 Max (Diverse Characters): 20  (Ranked 508)  
 Sum: 20 (Ranked 508)  

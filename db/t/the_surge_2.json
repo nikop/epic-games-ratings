@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 140,
-  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -255,9 +255,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1972,
+  "EOS_Progressed": 1973,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -2175,6 +2175,11 @@
       "Time": "2023-08-11T18:05:28.3282444+00:00",
       "NumProgressed": 1972,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-08-13T10:06:12.9534027+00:00",
+      "NumProgressed": 1973,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -2218,7 +2223,7 @@
       "Name": "Studied The Blade",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "ACHV_06",
@@ -2330,7 +2335,7 @@
       "Name": "Defense in Depth",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "ACHV_20",
@@ -2346,7 +2351,7 @@
       "Name": "Stimulating The Local Economy",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "ACHV_22",
@@ -2354,7 +2359,7 @@
       "Name": "Offensive Defense",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "ACHV_23",
@@ -2362,7 +2367,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "ACHV_24",
@@ -2450,7 +2455,7 @@
       "Name": "Shocking",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "ACHV_35",
@@ -2458,7 +2463,7 @@
       "Name": "Sleeping With The Fishes",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "ACHV_36",
@@ -2490,7 +2495,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1518
+      "UsersEstimate": 1519
     },
     {
       "ID": "ACHV_40",
@@ -2641,7 +2646,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1972,
+      "Progressed": 1973,
       "Completed": 10
     }
   ],
@@ -2649,8 +2654,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-08-11T22:58:17.9643661+00:00",
-  "LastChanged_Achievements": "2023-08-13T09:06:01.0763841+00:00",
+  "LastChanged_Achievements": "2023-08-13T10:06:12.9534019+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:03.0186923+00:00",
-  "LastUpdate_Ratings": "2023-08-13T08:58:16.5767064+00:00",
-  "LastUpdate_Achievements": "2023-08-13T09:06:01.0764507+00:00"
+  "LastUpdate_Ratings": "2023-08-13T09:58:30.3574227+00:00",
+  "LastUpdate_Achievements": "2023-08-13T10:06:12.9534915+00:00"
 }

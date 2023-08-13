@@ -3,11 +3,11 @@
   "Name": "The Sims\u2122 4",
   "ProductSlug": "the-sims-4",
   "Ranking_Rating": 344,
-  "Ranking_Popularity": 165,
+  "Ranking_Popularity": 164,
   "Ranking_PopularitySum": 136,
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewPlayers": 354,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-02-02T18:00:00+00:00",
@@ -5264,11 +5264,17 @@
       "Rating": 4.62,
       "NumberOfAwards": 4380,
       "NumberOfAwardsMax": 713
+    },
+    {
+      "Time": "2023-08-13T09:59:48.9957098+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 4388,
+      "NumberOfAwardsMax": 719
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4380,
-  "NumberOfAwardsMax": 713,
+  "NumberOfAwards": 4388,
+  "NumberOfAwardsMax": 719,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -5281,7 +5287,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 713
+      "Count": 719
     },
     {
       "Text": "This game has Diverse Characters",
@@ -5299,7 +5305,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 321
+      "Count": 323
     },
     {
       "Text": "This game is Highly Recommended",
@@ -5358,9 +5364,9 @@
   "FirstSeen": "2023-02-02T18:57:09.7775269+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
   "FirstSeenAchievements": "2023-07-31T02:02:04.5176736+00:00",
-  "LastChanged": "2023-08-13T05:59:03.8537025+00:00",
-  "LastChanged_Achievements": "2023-08-13T09:03:39.3736709+00:00",
+  "LastChanged": "2023-08-13T09:59:48.9957096+00:00",
+  "LastChanged_Achievements": "2023-08-13T10:03:51.1017802+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:25.6872949+00:00",
-  "LastUpdate_Ratings": "2023-08-13T08:59:32.9982101+00:00",
-  "LastUpdate_Achievements": "2023-08-13T09:03:39.3736745+00:00"
+  "LastUpdate_Ratings": "2023-08-13T09:59:48.9957104+00:00",
+  "LastUpdate_Achievements": "2023-08-13T10:03:51.1017842+00:00"
 }

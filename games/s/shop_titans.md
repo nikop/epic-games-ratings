@@ -33,6 +33,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Blank Page Syndrome | 0.30% | ~403 |
 | Demand for Supplies | 0.30% | ~403 |
 | Where it Hurts | 0.30% | ~403 |
+| Power of Love | 0.30% | ~403 |
 | Efficient Floor Space | 0.30% | ~403 |
 | Flawless Fusion | 0.30% | ~403 |
 | Gem Expert | 0.30% | ~403 |
@@ -62,7 +63,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Omae wa Mou Shindeiru | 0.20% | ~269 |
 | Master of Transmutation | 0.20% | ~269 |
 | Hidden Potential | 0.20% | ~269 |
-| Power of Love | 0.20% | ~269 |
 | Supercharged | 0.20% | ~269 |
 | Expansion in Session | 0.20% | ~269 |
 | Ritualist | 0.20% | ~269 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Economy of Scarce | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,440 (Ranked 66)  
+Progressed: 134,443 (Ranked 66)  
 Completed: 132 (0.10%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,7 +234,7 @@ Completed: 132 (0.10%) (Ranked 203)
 | 2023-08-10 | 134,276 | 131 |
 | 2023-08-11 | 134,354 | 132 |
 | 2023-08-12 | 134,413 | 132 |
-| 2023-08-13 | 134,440 | 132 |
+| 2023-08-13 | 134,443 | 132 |
 ## Awards
 Max (Great for Beginners): 4,698  (Ranked 71)  
 Sum: 27,087 (Ranked 46)  

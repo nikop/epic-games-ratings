@@ -5,30 +5,30 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Level Up! | 88.00% | ~121 |
-| Bullseye! | 85.00% | ~116 |
+| Bullseye! | 85.00% | ~117 |
 | Graduation! | 80.00% | ~110 |
-| Villfir Forest | 78.00% | ~107 |
-| Right in the kisser! | 62.00% | ~85 |
-| The Thrower | 50.00% | ~68 |
-| Duscot Steamcity | 49.00% | ~67 |
-| The Shaman | 47.00% | ~64 |
-| The Penguin | 45.00% | ~62 |
-| The Magician | 42.00% | ~58 |
-| The Shield | 39.00% | ~53 |
-| The Tunneler | 39.00% | ~53 |
-| Level Up!! | 37.00% | ~51 |
+| Villfir Forest | 78.00% | ~108 |
+| Right in the kisser! | 62.00% | ~86 |
+| The Thrower | 49.00% | ~68 |
+| Duscot Steamcity | 49.00% | ~68 |
+| The Shaman | 48.00% | ~66 |
+| The Penguin | 46.00% | ~63 |
+| The Magician | 43.00% | ~59 |
+| The Tunneler | 39.00% | ~54 |
+| Level Up!! | 38.00% | ~52 |
+| The Shield | 38.00% | ~52 |
 | Kill-streak | 32.00% | ~44 |
-| Topped up | 27.00% | ~37 |
-| The Bird | 27.00% | ~37 |
+| Topped up | 28.00% | ~39 |
+| The Bird | 28.00% | ~39 |
 | The Idol | 26.00% | ~36 |
 | The Ninja | 26.00% | ~36 |
-| Inferno Ruins | 24.00% | ~33 |
-| I'm Rich | 23.00% | ~32 |
+| Inferno Ruins | 25.00% | ~34 |
+| 1 is all I need | 22.00% | ~30 |
+| I'm Rich | 22.00% | ~30 |
 | Untouchable | 21.00% | ~29 |
-| 1 is all I need | 21.00% | ~29 |
-| The Slime | 20.00% | ~27 |
-| The Giant | 18.00% | ~25 |
+| The Slime | 21.00% | ~29 |
 | The Flower | 17.00% | ~23 |
+| The Giant | 17.00% | ~23 |
 | Out of the Frying Pan... | 17.00% | ~23 |
 | The Blacksmith | 16.00% | ~22 |
 | The Ooze | 15.00% | ~21 |
@@ -36,7 +36,7 @@
 | The Steampunk | 14.00% | ~19 |
 | Ember | 14.00% | ~19 |
 | Turquoise | 14.00% | ~19 |
-| Verse | 12.00% | ~16 |
+| Verse | 12.00% | ~17 |
 | The Droid | 11.00% | ~15 |
 | Iron | 11.00% | ~15 |
 | Tested | 9.00% | ~12 |
@@ -48,8 +48,8 @@
 | Mithril | 5.00% | ~7 |
 | Aluminum | 5.00% | ~7 |
 | Anvil | 5.00% | ~7 |
-| Analyzed | 4.00% | ~5 |
-| Tongs | 4.00% | ~5 |
+| Analyzed | 4.00% | ~6 |
+| Tongs | 4.00% | ~6 |
 | Combo Master | 3.00% | ~4 |
 | It's a Trap! | 3.00% | ~4 |
 | Concluded | 3.00% | ~4 |
@@ -78,8 +78,8 @@
 | Zombie Hunter | 0.70% | ~1 |
 | Zombie Exterminator | 0.70% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137 (Ranked 305)  
-Completed: 1 (0.73%) (Ranked 125)  
+Progressed: 138 (Ranked 305)  
+Completed: 1 (0.72%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -135,7 +135,7 @@ Completed: 1 (0.73%) (Ranked 125)
 | 2023-08-10 | 130 | 0 |
 | 2023-08-11 | 131 | 0 |
 | 2023-08-12 | 136 | 1 |
-| 2023-08-13 | 137 | 1 |
+| 2023-08-13 | 138 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

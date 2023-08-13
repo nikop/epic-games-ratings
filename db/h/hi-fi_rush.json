@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -118,9 +118,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3875,
+  "EOS_Progressed": 3878,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -5813,6 +5813,11 @@
       "Time": "2023-08-13T07:05:56.3774142+00:00",
       "NumProgressed": 3875,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-08-13T10:06:46.071143+00:00",
+      "NumProgressed": 3878,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 71,
@@ -5952,7 +5957,7 @@
       "Name": "I play my own way!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "Ach018",
@@ -6054,9 +6059,9 @@
       "ID": "Ach030",
       "SetID": "12n4k20",
       "Name": "This is a breeze!",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 23
     },
     {
       "ID": "Ach031",
@@ -6064,7 +6069,7 @@
       "Name": "Perfect Parry",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "Ach032",
@@ -6200,7 +6205,7 @@
       "Name": "Alright, that felt AWESOME!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "Ach049",
@@ -6391,13 +6396,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 3875,
+      "Progressed": 3878,
       "Completed": 7
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2396,
+      "Progressed": 2399,
       "Completed": 1929
     }
   ],
@@ -6405,8 +6410,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-08-10T23:00:09.4128826+00:00",
-  "LastChanged_Achievements": "2023-08-13T09:06:34.2253501+00:00",
+  "LastChanged_Achievements": "2023-08-13T10:06:46.0711422+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:15.2039204+00:00",
-  "LastUpdate_Ratings": "2023-08-13T09:00:47.790047+00:00",
-  "LastUpdate_Achievements": "2023-08-13T09:06:34.225465+00:00"
+  "LastUpdate_Ratings": "2023-08-13T10:01:01.8030456+00:00",
+  "LastUpdate_Achievements": "2023-08-13T10:06:46.0712746+00:00"
 }

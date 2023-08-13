@@ -32,7 +32,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | #1 | 0.70% | ~3,025 |
 | Special Delivery | 0.70% | ~3,025 |
 | Firefight Victory | 0.60% | ~2,593 |
-| Cinematic | 0.50% | ~2,160 |
+| Cinematic | 0.50% | ~2,161 |
 | Thanks Station! | 0.40% | ~1,728 |
 | Knock Knock | 0.30% | ~1,296 |
 | There For You | 0.30% | ~1,296 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~432 |
 | Road Hazard | 0.10% | ~432 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 432,100 (Ranked 38)  
+Progressed: 432,109 (Ranked 38)  
 Completed: 2 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,14 +157,14 @@ Completed: 2 (0.00%) (Ranked 255)
 | 2023-08-10 | 431,288 | 2 |
 | 2023-08-11 | 431,574 | 2 |
 | 2023-08-12 | 431,919 | 2 |
-| 2023-08-13 | 432,100 | 2 |
+| 2023-08-13 | 432,109 | 2 |
 ## Awards
-Max (Quickly Understood Controls): 373  (Ranked 221)  
-Sum: 2,885 (Ranked 167)  
+Max (Quickly Understood Controls): 374  (Ranked 221)  
+Sum: 2,886 (Ranked 167)  
 Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
-| This game has Quickly Understood Controls | 373 |
+| This game has Quickly Understood Controls | 374 |
 | This game has Challenging Combat | 351 |
 | This game is Extremely Fun | 339 |
 | This game has Competitive Players | 337 |
@@ -381,3 +381,4 @@ Diff (max vs sum): 54
 | 2023-08-10 | 4.62 | - | 372 | 2,880 |
 | 2023-08-11 | 4.62 | - | 372 | 2,882 |
 | 2023-08-12 | 4.62 | - | 373 | 2,885 |
+| 2023-08-13 | 4.62 | - | 374 | 2,886 |

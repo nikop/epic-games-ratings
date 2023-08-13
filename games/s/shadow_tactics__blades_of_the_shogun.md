@@ -6,30 +6,30 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~21,260 |
-| Thorough | 10.00% | ~19,328 |
-| A thief's beginning | 9.00% | ~17,395 |
-| Disguised | 8.00% | ~15,462 |
-| Rollin' | 8.00% | ~15,462 |
-| Tanuki Time | 8.00% | ~15,462 |
-| Jonin | 7.00% | ~13,529 |
-| Rescue Takuma | 7.00% | ~13,529 |
-| Stoned Ox | 7.00% | ~13,529 |
-| Chunin | 6.00% | ~11,596 |
-| Happy Planning | 6.00% | ~11,596 |
-| Ice Ice Yuki | 6.00% | ~11,596 |
-| Mugen Unchained | 6.00% | ~11,596 |
-| Yabu | 6.00% | ~11,596 |
+| Genin | 11.00% | ~21,262 |
+| Thorough | 10.00% | ~19,329 |
+| A thief's beginning | 9.00% | ~17,396 |
+| Disguised | 8.00% | ~15,463 |
+| Rollin' | 8.00% | ~15,463 |
+| Tanuki Time | 8.00% | ~15,463 |
+| Jonin | 7.00% | ~13,530 |
+| Rescue Takuma | 7.00% | ~13,530 |
+| Stoned Ox | 7.00% | ~13,530 |
+| Chunin | 6.00% | ~11,597 |
+| Happy Planning | 6.00% | ~11,597 |
+| Ice Ice Yuki | 6.00% | ~11,597 |
+| Mugen Unchained | 6.00% | ~11,597 |
+| Yabu | 6.00% | ~11,597 |
 | Flying Rocks | 5.00% | ~9,664 |
 | Okkoto | 5.00% | ~9,664 |
 | Warzone | 5.00% | ~9,664 |
-| Gear up | 4.00% | ~7,731 |
-| Happy little accidents | 4.00% | ~7,731 |
-| Prisoners | 4.00% | ~7,731 |
-| Too Early | 4.00% | ~7,731 |
-| Noboru | 3.00% | ~5,798 |
-| Still Rollin' | 3.00% | ~5,798 |
-| Stoned | 3.00% | ~5,798 |
+| Gear up | 4.00% | ~7,732 |
+| Happy little accidents | 4.00% | ~7,732 |
+| Prisoners | 4.00% | ~7,732 |
+| Too Early | 4.00% | ~7,732 |
+| Noboru | 3.00% | ~5,799 |
+| Still Rollin' | 3.00% | ~5,799 |
+| Stoned | 3.00% | ~5,799 |
 | Atheist Ox | 2.00% | ~3,866 |
 | It's raining men | 2.00% | ~3,866 |
 | Old Man | 2.00% | ~3,866 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~193 |
 | Release the Kraken | 0.10% | ~193 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 193,275 (Ranked 60)  
+Progressed: 193,289 (Ranked 60)  
 Completed: 69 (0.04%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 69 (0.04%) (Ranked 224)
 | 2023-08-10 | 192,685 | 68 |
 | 2023-08-11 | 192,931 | 69 |
 | 2023-08-12 | 193,172 | 69 |
-| 2023-08-13 | 193,275 | 69 |
+| 2023-08-13 | 193,289 | 69 |
 ## Awards
 Max (Great for Beginners): 561  (Ranked 186)  
 Sum: 4,724 (Ranked 134)  

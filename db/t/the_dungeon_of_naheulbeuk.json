@@ -636,9 +636,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 211388,
+  "EOS_Progressed": 211415,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4008,
+  "EOS_NewPlayers": 3995,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6736,6 +6736,11 @@
       "Time": "2023-08-13T09:05:39.6478734+00:00",
       "NumProgressed": 211388,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-13T10:05:50.9316471+00:00",
+      "NumProgressed": 211415,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 88,
@@ -6745,9 +6750,9 @@
       "ID": "10000Gold",
       "SetID": "50chcgj",
       "Name": "Livin\u0027 in a dwarven paradise",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 423
+      "UsersEstimate": 634
     },
     {
       "ID": "100Fail",
@@ -7195,7 +7200,7 @@
       "Name": "Sowwy!",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 23253
+      "UsersEstimate": 23256
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -7249,9 +7254,9 @@
       "ID": "FollowBraztok",
       "SetID": "50chcgj",
       "Name": "The beards of change",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 211
+      "UsersEstimate": 423
     },
     {
       "ID": "FollowNarzatok",
@@ -7450,21 +7455,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 211388,
+      "Progressed": 211415,
       "Completed": 1
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 211388,
+      "Progressed": 211415,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-12T15:00:58.2777056+00:00",
-  "LastChanged_Achievements": "2023-08-13T09:05:39.6478726+00:00",
+  "LastChanged_Achievements": "2023-08-13T10:05:50.9316462+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:49.6773731+00:00",
-  "LastUpdate_Ratings": "2023-08-13T09:01:33.9427952+00:00",
-  "LastUpdate_Achievements": "2023-08-13T09:05:39.6481321+00:00"
+  "LastUpdate_Ratings": "2023-08-13T10:01:49.2177903+00:00",
+  "LastUpdate_Achievements": "2023-08-13T10:05:50.9317983+00:00"
 }

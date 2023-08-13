@@ -1601,7 +1601,7 @@
   ],
   "EOS_Progressed": 13388,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -11249,9 +11249,9 @@
       "ID": "ACHIEVEMENT_NATION_ROME",
       "SetID": "7l38kb8",
       "Name": "Rome",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 54
     },
     {
       "ID": "ACHIEVEMENT_OLD_WORLD_ORDER",
@@ -11865,9 +11865,9 @@
       "ID": "ACHIEVEMENT_WIN_SINGLEPLAYER",
       "SetID": "9201eeb",
       "Name": "Win a Single Player Game",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 80
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_CLERGY_COURT",
@@ -11975,8 +11975,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-12T03:59:31.9297462+00:00",
-  "LastChanged_Achievements": "2023-08-13T09:05:33.4479939+00:00",
+  "LastChanged_Achievements": "2023-08-13T10:05:44.6118434+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:38.1291138+00:00",
-  "LastUpdate_Ratings": "2023-08-13T09:00:03.0770857+00:00",
-  "LastUpdate_Achievements": "2023-08-13T09:05:33.4494589+00:00"
+  "LastUpdate_Ratings": "2023-08-13T10:00:18.4849861+00:00",
+  "LastUpdate_Achievements": "2023-08-13T10:05:44.612896+00:00"
 }

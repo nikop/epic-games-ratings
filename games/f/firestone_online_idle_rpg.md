@@ -5,10 +5,10 @@ Rating: 4.05 (Ranked 920)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,669 |
-| World Map | 79.00% | ~1,418 |
-| Temple of Eternals | 56.00% | ~1,005 |
-| Prestigious | 53.00% | ~951 |
+| Victor | 93.00% | ~1,670 |
+| World Map | 79.00% | ~1,419 |
+| Temple of Eternals | 56.00% | ~1,006 |
+| Prestigious | 53.00% | ~952 |
 | Fellowship Power | 41.00% | ~736 |
 | Guild Power | 25.00% | ~449 |
 | Prestigious x10 | 22.00% | ~395 |
@@ -26,12 +26,12 @@ Rating: 4.05 (Ranked 920)
 | Natural Talent | 13.00% | ~233 |
 | Superior | 13.00% | ~233 |
 | The Unstoppable | 13.00% | ~233 |
-| Milestone collector | 12.00% | ~215 |
-| Scientist | 12.00% | ~215 |
-| Doing My Part | 11.00% | ~197 |
-| Hunter | 11.00% | ~197 |
-| Mastery | 11.00% | ~197 |
-| The power of Awakening | 11.00% | ~197 |
+| Milestone collector | 12.00% | ~216 |
+| Scientist | 12.00% | ~216 |
+| Doing My Part | 11.00% | ~198 |
+| Hunter | 11.00% | ~198 |
+| Mastery | 11.00% | ~198 |
+| The power of Awakening | 11.00% | ~198 |
 | Challenger | 10.00% | ~180 |
 | Daily Quest Completionist | 10.00% | ~180 |
 | Four Leaf Clover | 10.00% | ~180 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 920)
 | Silverwood liberator | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,795 (Ranked 172)  
+Progressed: 1,796 (Ranked 172)  
 Completed: 2 (0.11%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 2 (0.11%) (Ranked 199)
 | 2023-08-10 | 1,784 | 2 |
 | 2023-08-11 | 1,790 | 2 |
 | 2023-08-12 | 1,794 | 2 |
-| 2023-08-13 | 1,795 | 2 |
+| 2023-08-13 | 1,796 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

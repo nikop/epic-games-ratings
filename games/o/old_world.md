@@ -89,6 +89,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legalism | 0.60% | ~80 |
 | Phalangite | 0.60% | ~80 |
 | Double Victory | 0.60% | ~80 |
+| Win a Single Player Game | 0.60% | ~80 |
 | Invincible | 0.50% | ~67 |
 | Lion | 0.50% | ~67 |
 | Subjugator | 0.50% | ~67 |
@@ -109,7 +110,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cimmerian Archer | 0.50% | ~67 |
 | Legionary | 0.50% | ~67 |
 | Ambition Victory | 0.50% | ~67 |
-| Win a Single Player Game | 0.50% | ~67 |
 | Bad Heir Day | 0.40% | ~54 |
 | Ishtar Gate in Babylon | 0.40% | ~54 |
 | Capable | 0.40% | ~54 |
@@ -121,6 +121,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Landowners | 0.40% | ~54 |
 | Adur Burzen-Mihr | 0.40% | ~54 |
 | Babylonia | 0.40% | ~54 |
+| Rome | 0.40% | ~54 |
 | Industrial Progress | 0.40% | ~54 |
 | Military Prestige | 0.40% | ~54 |
 | Enlightenment | 0.40% | ~54 |
@@ -134,7 +135,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble Difficulty | 0.30% | ~40 |
 | Learn to Play 4 | 0.30% | ~40 |
 | Egypt | 0.30% | ~40 |
-| Rome | 0.30% | ~40 |
 | Old World Order | 0.30% | ~40 |
 | One True Faith | 0.30% | ~40 |
 | Hittite Paganism | 0.30% | ~40 |
