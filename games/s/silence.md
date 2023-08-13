@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fire in the... nevermind | 48.00% | ~50 |
-| Chapter I | 47.00% | ~49 |
-| Haute cuisine | 43.00% | ~45 |
+| Fire in the... nevermind | 49.00% | ~51 |
+| Chapter I | 48.00% | ~50 |
+| Haute cuisine | 44.00% | ~46 |
 | I didn't do it! | 39.00% | ~41 |
-| Demolition expert | 35.00% | ~36 |
-| Wooooooow! | 35.00% | ~36 |
+| Demolition expert | 36.00% | ~37 |
+| Wooooooow! | 36.00% | ~37 |
 | Artistic fool | 34.00% | ~35 |
 | Keep away from children | 34.00% | ~35 |
-| Open up wide | 30.00% | ~31 |
+| Open up wide | 31.00% | ~32 |
 | Chapter II | 30.00% | ~31 |
+| Let the boot talk | 29.00% | ~30 |
 | Achoo!! | 29.00% | ~30 |
-| Let the boot talk | 28.00% | ~29 |
 | Chapter III | 28.00% | ~29 |
 | Like a moth in the Wind | 28.00% | ~29 |
 | Bubblekillerfamily | 24.00% | ~25 |
 | Mirror mirror on the wall... | 24.00% | ~25 |
 | Quite a buggy game | 23.00% | ~24 |
 | Shadow on the wall | 22.00% | ~23 |
+| Handyman | 22.00% | ~23 |
 | Fastidious Clown | 22.00% | ~23 |
-| Handyman | 21.00% | ~22 |
 | It's not easy being green! | 21.00% | ~22 |
 | Home is where the heart is | 20.00% | ~21 |
 | Pacifist | 18.00% | ~19 |

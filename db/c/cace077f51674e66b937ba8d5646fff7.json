@@ -4,7 +4,7 @@
   "ProductSlug": "mokoko-x-e2b09d",
   "Ranking_EOS_Progress": 347,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 356,
+  "Ranking_EOS_NewPlayers": 357,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-05-26T18:00:00+00:00",
@@ -448,25 +448,25 @@
       "ID": "ENEMY_12",
       "SetID": "50pdlpn",
       "Name": "Captain Joseph the Living Bullet Hell",
-      "Percentage": 35,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ENEMY_13",
       "SetID": "50pdlpn",
       "Name": "Ali Baba the Piece of Crap",
-      "Percentage": 32,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ENEMY_14",
       "SetID": "50pdlpn",
       "Name": "Pillows the Hobby Plane Armada Colonel",
-      "Percentage": 32,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ENEMY_15",
@@ -951,8 +951,8 @@
   ],
   "FirstSeen": "2023-07-03T16:57:31.1356684+00:00",
   "FirstSeenAchievements": "2023-05-08T09:03:21.3999065+00:00",
-  "LastChanged_Achievements": "2023-08-13T16:03:27.2593355+00:00",
+  "LastChanged_Achievements": "2023-08-13T17:03:36.2658091+00:00",
   "LastUpdate_AppInfo": "2023-08-07T15:57:01.4407809+00:00",
-  "LastUpdate_Ratings": "2023-08-13T15:58:22.9168015+00:00",
-  "LastUpdate_Achievements": "2023-08-13T16:03:27.2594141+00:00"
+  "LastUpdate_Ratings": "2023-08-13T16:59:02.7714407+00:00",
+  "LastUpdate_Achievements": "2023-08-13T17:03:36.2658877+00:00"
 }

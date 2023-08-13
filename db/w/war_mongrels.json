@@ -1591,9 +1591,9 @@
       "ID": "ACH_FIN_CH06",
       "SetID": "1j25agn",
       "Name": "Opportunities",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 143
     },
     {
       "ID": "ACH_FIN_CH07",
@@ -1807,8 +1807,8 @@
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-06-24T07:57:51.3010975+00:00",
-  "LastChanged_Achievements": "2023-08-13T16:06:20.1587896+00:00",
+  "LastChanged_Achievements": "2023-08-13T17:07:49.2348866+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:20.2353835+00:00",
-  "LastUpdate_Ratings": "2023-08-13T15:58:40.162025+00:00",
-  "LastUpdate_Achievements": "2023-08-13T16:06:20.1588534+00:00"
+  "LastUpdate_Ratings": "2023-08-13T16:59:27.0587675+00:00",
+  "LastUpdate_Achievements": "2023-08-13T17:07:49.2349489+00:00"
 }

@@ -275,9 +275,9 @@
       "ID": "ACHIEVEMENT_07",
       "SetID": "b36c5kb",
       "Name": "Not Running This Time",
-      "Percentage": 28,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -299,9 +299,9 @@
       "ID": "ACHIEVEMENT_10",
       "SetID": "b36c5kb",
       "Name": "Another Ally",
-      "Percentage": 16,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -379,9 +379,9 @@
       "ID": "ACHIEVEMENT_20",
       "SetID": "b36c5kb",
       "Name": "You Got Red in You",
-      "Percentage": 26,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -451,9 +451,9 @@
       "ID": "ACHIEVEMENT_29",
       "SetID": "b36c5kb",
       "Name": "Doing Some Detecting",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -531,9 +531,9 @@
       "ID": "ACHIEVEMENT_39",
       "SetID": "b36c5kb",
       "Name": "Clearing a Path",
-      "Percentage": 33,
+      "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -642,8 +642,8 @@
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-08-13T16:04:15.5566304+00:00",
+  "LastChanged_Achievements": "2023-08-13T17:04:54.2332396+00:00",
   "LastUpdate_AppInfo": "2023-08-09T15:57:03.4224426+00:00",
-  "LastUpdate_Ratings": "2023-08-13T15:57:44.7710722+00:00",
-  "LastUpdate_Achievements": "2023-08-13T16:04:15.5566804+00:00"
+  "LastUpdate_Ratings": "2023-08-13T16:58:04.5556316+00:00",
+  "LastUpdate_Achievements": "2023-08-13T17:04:54.233294+00:00"
 }

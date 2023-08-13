@@ -2,9 +2,9 @@
   "ID": "d602fd70876141ba9bf4d54809c423d1",
   "Name": "The Evil Within",
   "ProductSlug": "the-evil-within",
-  "Ranking_EOS_Progress": 365,
+  "Ranking_EOS_Progress": 364,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 49,
+  "EOS_Progressed": 50,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -269,6 +269,11 @@
       "Time": "2023-08-13T16:04:25.8000668+00:00",
       "NumProgressed": 49,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-13T17:05:08.0957484+00:00",
+      "NumProgressed": 50,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T16:01:32.1694174+00:00",
@@ -279,7 +284,7 @@
       "ID": "ACHIEVEMENT_01",
       "SetID": "ap8553i",
       "Name": "What\u0027s in the Box?",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 20,
       "UsersEstimate": 14
     },
@@ -848,20 +853,20 @@
     {
       "ID": "8ddjaeg",
       "IsBase": false,
-      "Progressed": 49,
+      "Progressed": 50,
       "Completed": 0
     },
     {
       "ID": "ap8553i",
       "IsBase": true,
-      "Progressed": 49,
+      "Progressed": 50,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-04T21:57:01.9865679+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5206267+00:00",
-  "LastChanged_Achievements": "2023-08-13T16:04:25.8000663+00:00",
+  "LastChanged_Achievements": "2023-08-13T17:05:08.0957478+00:00",
   "LastUpdate_AppInfo": "2023-08-09T15:57:03.7516548+00:00",
-  "LastUpdate_Ratings": "2023-08-13T15:57:43.8930106+00:00",
-  "LastUpdate_Achievements": "2023-08-13T16:04:25.8001536+00:00"
+  "LastUpdate_Ratings": "2023-08-13T16:58:03.2300974+00:00",
+  "LastUpdate_Achievements": "2023-08-13T17:05:08.0958374+00:00"
 }

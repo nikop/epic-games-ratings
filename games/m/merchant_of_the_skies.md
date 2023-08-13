@@ -7,7 +7,7 @@
 | Energizer | 99.00% | ~928 |
 | A man of his word | 96.00% | ~900 |
 | Real Estate | 64.00% | ~600 |
-| New Ride | 54.00% | ~506 |
+| New Ride | 55.00% | ~515 |
 | Giants | 50.00% | ~468 |
 | Thrifty | 47.00% | ~440 |
 | Too big to fail | 35.00% | ~328 |

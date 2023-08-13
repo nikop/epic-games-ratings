@@ -339,9 +339,9 @@
       "ID": "ACH_AVOID_SNIPER",
       "SetID": "6d82akp",
       "Name": "Black Cat\u0027s Warning",
-      "Percentage": 105,
+      "Percentage": 106,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ACH_DEFEAT_OGATA",
@@ -788,8 +788,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.2220083+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.6600084+00:00",
   "LastChanged": "2023-03-31T05:58:38.2220085+00:00",
-  "LastChanged_Achievements": "2023-08-13T16:06:59.3100154+00:00",
+  "LastChanged_Achievements": "2023-08-13T17:08:44.3091374+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:40.5776899+00:00",
-  "LastUpdate_Ratings": "2023-08-13T16:00:29.4845768+00:00",
-  "LastUpdate_Achievements": "2023-08-13T16:06:59.3100722+00:00"
+  "LastUpdate_Ratings": "2023-08-13T17:02:15.313029+00:00",
+  "LastUpdate_Achievements": "2023-08-13T17:08:44.3091969+00:00"
 }

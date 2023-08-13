@@ -28,6 +28,7 @@
 | Forest Expert | 2.00% | ~1 |
 | Finally! | 2.00% | ~1 |
 | The End | 2.00% | ~1 |
+| The A-Team | 2.00% | ~1 |
 | But what of the Acreans? | 2.00% | ~1 |
 | Craftsmen | 0.00% | ~0 |
 | Style over Stats | 0.00% | ~0 |
@@ -45,7 +46,6 @@
 | Wayseeker | 0.00% | ~0 |
 | Pathfinder | 0.00% | ~0 |
 | Globetrotter | 0.00% | ~0 |
-| The A-Team | 0.00% | ~0 |
 | A Deceiving Gift | 0.00% | ~0 |
 | Unveiling the Truth | 0.00% | ~0 |
 | Master of all Domains | 0.00% | ~0 |

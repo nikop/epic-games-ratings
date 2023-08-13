@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 253,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
@@ -103,9 +103,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 657,
+  "EOS_Progressed": 658,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -443,6 +443,11 @@
       "Time": "2023-08-11T22:06:18.3373263+00:00",
       "NumProgressed": 657,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-13T17:07:34.1568886+00:00",
+      "NumProgressed": 658,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -518,7 +523,7 @@
       "Name": "Fire in the hole!",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "I feel secure, contained \u0026 protected",
@@ -622,7 +627,7 @@
       "Name": "Tell me your story",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "Thats_gotta_hurt",
@@ -662,15 +667,15 @@
       "Name": "The Warlord",
       "Percentage": 20,
       "XP": 75,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "The_things_they_print_nowadays",
       "SetID": "gl7plp",
       "Name": "The things they print nowadays",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 256
+      "UsersEstimate": 250
     },
     {
       "ID": "The_truth_is_out_there",
@@ -718,7 +723,7 @@
       "Name": "Don\u0027t judge a manhole by its cover",
       "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "posters",
@@ -741,7 +746,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 657,
+      "Progressed": 658,
       "Completed": 0
     }
   ],
@@ -749,8 +754,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-08-11T17:59:11.6901866+00:00",
-  "LastChanged_Achievements": "2023-08-13T16:06:09.6388608+00:00",
+  "LastChanged_Achievements": "2023-08-13T17:07:34.156888+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:16.109066+00:00",
-  "LastUpdate_Ratings": "2023-08-13T15:58:45.5663132+00:00",
-  "LastUpdate_Achievements": "2023-08-13T16:06:09.6388887+00:00"
+  "LastUpdate_Ratings": "2023-08-13T16:59:35.3314846+00:00",
+  "LastUpdate_Achievements": "2023-08-13T17:07:34.1569216+00:00"
 }

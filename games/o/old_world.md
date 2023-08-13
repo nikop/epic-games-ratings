@@ -63,10 +63,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Artisans | 0.90% | ~121 |
 | Colossus | 0.90% | ~121 |
 | Learn to Play 2 | 0.90% | ~121 |
+| Egyptian Paganism | 0.90% | ~121 |
 | Drillmaster | 0.80% | ~107 |
 | Sages | 0.80% | ~107 |
 | Acropolis | 0.80% | ~107 |
-| Egyptian Paganism | 0.80% | ~107 |
 | Mythology | 0.80% | ~107 |
 | Points Victory | 0.80% | ~107 |
 | Intercessor | 0.70% | ~94 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,393 (Ranked 117)  
+Progressed: 13,395 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -418,7 +418,7 @@ Completed: 5 (0.04%) (Ranked 224)
 | 2023-08-10 | 13,349 | 5 |
 | 2023-08-11 | 13,363 | 5 |
 | 2023-08-12 | 13,385 | 5 |
-| 2023-08-13 | 13,393 | 5 |
+| 2023-08-13 | 13,395 | 5 |
 ## Awards
 Max (Relaxing): 219  (Ranked 264)  
 Sum: 1,790 (Ranked 206)  

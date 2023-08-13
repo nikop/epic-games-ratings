@@ -18,9 +18,9 @@
 | 10K | 30.00% | ~76 |
 | Bouncemato | 30.00% | ~62 |
 | 15K | 28.00% | ~71 |
+| Professional Survivor | 23.00% | ~47 |
 | Grave Digger | 23.00% | ~47 |
 | Drinking Problem | 22.00% | ~56 |
-| Professional Survivor | 22.00% | ~45 |
 | Quick-Draw Pod | 21.00% | ~43 |
 | Pork Chop Express | 17.00% | ~43 |
 | This Is My Boomstick | 16.00% | ~33 |
@@ -34,8 +34,8 @@
 | Quit Horsin' Around | 10.00% | ~26 |
 | Perfect | 10.00% | ~20 |
 | Expert Survivor | 10.00% | ~20 |
+| Quadsparagus | 9.00% | ~18 |
 | Bring Home The Bacon | 8.00% | ~20 |
-| Quadsparagus | 8.00% | ~16 |
 | Pyromaniac | 6.00% | ~12 |
 | I Have The High Ground | 5.00% | ~13 |
 | Early Bird | 5.00% | ~13 |

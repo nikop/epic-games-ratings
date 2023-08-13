@@ -4,11 +4,11 @@
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
   "Ranking_Rating": 470,
   "Ranking_Popularity": 250,
-  "Ranking_PopularitySum": 345,
+  "Ranking_PopularitySum": 346,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 162,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 37,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -688,10 +688,10 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 11954,
+  "EOS_Progressed": 11956,
   "EOS_Completed": 38,
   "EOS_NewPlayers": 89,
-  "EOS_NewCompleters": 4,
+  "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
     {
@@ -8878,6 +8878,11 @@
       "Time": "2023-08-13T11:04:10.0802693+00:00",
       "NumProgressed": 11954,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-08-13T17:04:33.6724232+00:00",
+      "NumProgressed": 11956,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 35,
@@ -8889,7 +8894,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9683
+      "UsersEstimate": 9684
     },
     {
       "ID": "ACH02",
@@ -8937,7 +8942,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 2271
+      "UsersEstimate": 2272
     },
     {
       "ID": "ACH08",
@@ -8945,7 +8950,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 5977
+      "UsersEstimate": 5978
     },
     {
       "ID": "ACH09",
@@ -9009,7 +9014,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2032
+      "UsersEstimate": 2033
     },
     {
       "ID": "ACH17",
@@ -9065,7 +9070,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 2988
+      "UsersEstimate": 2989
     },
     {
       "ID": "ACH24",
@@ -9168,7 +9173,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11954,
+      "Progressed": 11956,
       "Completed": 38
     }
   ],
@@ -9176,8 +9181,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-08-12T20:58:08.7637232+00:00",
-  "LastChanged_Achievements": "2023-08-13T16:04:00.648956+00:00",
+  "LastChanged_Achievements": "2023-08-13T17:04:33.6724224+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:11.1716171+00:00",
-  "LastUpdate_Ratings": "2023-08-13T15:57:30.2428487+00:00",
-  "LastUpdate_Achievements": "2023-08-13T16:04:00.6490369+00:00"
+  "LastUpdate_Ratings": "2023-08-13T16:57:40.6526173+00:00",
+  "LastUpdate_Achievements": "2023-08-13T17:04:33.6724991+00:00"
 }

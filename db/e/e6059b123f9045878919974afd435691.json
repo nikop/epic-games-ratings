@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewPlayers": 127,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 720,
+  "EOS_Progressed": 721,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1571,6 +1571,11 @@
       "Time": "2023-08-13T16:06:35.2330549+00:00",
       "NumProgressed": 720,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-13T17:08:10.5392684+00:00",
+      "NumProgressed": 721,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1590,7 +1595,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -1598,7 +1603,7 @@
       "Name": "FULLCLIP",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "AMMO_ACHIEVEMENT_4",
@@ -1654,7 +1659,7 @@
       "Name": "Capraphobia",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -1862,7 +1867,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -1878,7 +1883,7 @@
       "Name": "Decakill!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "KILLR_ACHIEVEMENT_4",
@@ -1948,9 +1953,9 @@
       "ID": "MARYH_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "1, 2, 3! Grandma!",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 50
     },
     {
       "ID": "MARY_ACHIEVEMENT_1",
@@ -1958,7 +1963,7 @@
       "Name": "Hostage of the Elderly",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -1974,7 +1979,7 @@
       "Name": "Night Snack",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "MEAT_ACHIEVEMENT_2",
@@ -2014,7 +2019,7 @@
       "Name": "The Last of Us",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "PASS_ACHIEVEMENT_1",
@@ -2036,9 +2041,9 @@
       "ID": "RAPTOR_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "Haunted Prison",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 29
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_3",
@@ -2109,14 +2114,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 720,
+      "Progressed": 721,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-08-13T16:06:35.2330544+00:00",
+  "LastChanged_Achievements": "2023-08-13T17:08:10.5392676+00:00",
   "LastUpdate_AppInfo": "2023-08-10T15:57:09.1792695+00:00",
-  "LastUpdate_Ratings": "2023-08-13T15:58:02.1410355+00:00",
-  "LastUpdate_Achievements": "2023-08-13T16:06:35.2331253+00:00"
+  "LastUpdate_Ratings": "2023-08-13T16:58:31.1626321+00:00",
+  "LastUpdate_Achievements": "2023-08-13T17:08:10.5393527+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
   "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 117,
-  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -288,9 +288,9 @@
       "ID": "Achievement11",
       "SetID": "jf6ho5",
       "Name": "Your Training Continues",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "Achievement12",
@@ -449,8 +449,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2023-08-13T16:05:46.1819039+00:00",
+  "LastChanged_Achievements": "2023-08-13T17:07:00.4707229+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:11.5271676+00:00",
-  "LastUpdate_Ratings": "2023-08-13T15:57:30.628742+00:00",
-  "LastUpdate_Achievements": "2023-08-13T16:05:46.181921+00:00"
+  "LastUpdate_Ratings": "2023-08-13T16:57:41.277197+00:00",
+  "LastUpdate_Achievements": "2023-08-13T17:07:00.4707412+00:00"
 }

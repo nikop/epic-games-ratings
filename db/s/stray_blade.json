@@ -4,7 +4,7 @@
   "ProductSlug": "stray-blade",
   "Ranking_EOS_Progress": 369,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -538,9 +538,9 @@
       "ID": "ACH_REUNITE_WITH_BOJI",
       "SetID": "7i20me3",
       "Name": "The A-Team",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_REVEAL_ACREANS_TRUTH",
@@ -633,8 +633,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-08-13T16:06:11.9753702+00:00",
+  "LastChanged_Achievements": "2023-08-13T17:07:37.4588841+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:32.6362658+00:00",
-  "LastUpdate_Ratings": "2023-08-13T15:58:58.6033151+00:00",
-  "LastUpdate_Achievements": "2023-08-13T16:06:11.975412+00:00"
+  "LastUpdate_Ratings": "2023-08-13T16:59:55.1841863+00:00",
+  "LastUpdate_Achievements": "2023-08-13T17:07:37.4589269+00:00"
 }

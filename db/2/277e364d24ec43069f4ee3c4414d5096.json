@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 102553,
+  "EOS_Progressed": 102558,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 1442,
+  "EOS_NewPlayers": 1436,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -6987,6 +6987,11 @@
       "Time": "2023-08-13T16:06:12.4810349+00:00",
       "NumProgressed": 102553,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-08-13T17:07:38.2340898+00:00",
+      "NumProgressed": 102558,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 49,
@@ -7006,7 +7011,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 77940
+      "UsersEstimate": 77944
     },
     {
       "ID": "EAwards_10",
@@ -7014,7 +7019,7 @@
       "Name": "Juan Punch Man",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 10255
+      "UsersEstimate": 10256
     },
     {
       "ID": "EAwards_11",
@@ -7022,7 +7027,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 25638
+      "UsersEstimate": 25640
     },
     {
       "ID": "EAwards_12",
@@ -7030,7 +7035,7 @@
       "Name": "Cluckstorm",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 14357
+      "UsersEstimate": 14358
     },
     {
       "ID": "EAwards_13",
@@ -7070,7 +7075,7 @@
       "Name": "Talented Player",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 35894
+      "UsersEstimate": 35895
     },
     {
       "ID": "EAwards_18",
@@ -7078,7 +7083,7 @@
       "Name": "You Survived",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 8204
+      "UsersEstimate": 8205
     },
     {
       "ID": "EAwards_19",
@@ -7094,7 +7099,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 48200
+      "UsersEstimate": 48202
     },
     {
       "ID": "EAwards_20",
@@ -7102,7 +7107,7 @@
       "Name": "King of the Hill",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 10255
+      "UsersEstimate": 10256
     },
     {
       "ID": "EAwards_21",
@@ -7150,7 +7155,7 @@
       "Name": "I have nothing left to teach you",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 10255
+      "UsersEstimate": 10256
     },
     {
       "ID": "EAwards_27",
@@ -7350,7 +7355,7 @@
       "Name": "Prickly Pair",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 8204
+      "UsersEstimate": 8205
     },
     {
       "ID": "EAwards_6",
@@ -7389,7 +7394,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 102553,
+      "Progressed": 102558,
       "Completed": 34
     }
   ],
@@ -7397,8 +7402,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-08-06T04:57:36.0350486+00:00",
-  "LastChanged_Achievements": "2023-08-13T16:06:12.4810344+00:00",
+  "LastChanged_Achievements": "2023-08-13T17:07:38.2340891+00:00",
   "LastUpdate_AppInfo": "2023-08-10T19:57:06.4379023+00:00",
-  "LastUpdate_Ratings": "2023-08-13T15:58:05.1754477+00:00",
-  "LastUpdate_Achievements": "2023-08-13T16:06:12.481122+00:00"
+  "LastUpdate_Ratings": "2023-08-13T16:58:35.5707523+00:00",
+  "LastUpdate_Achievements": "2023-08-13T17:07:38.2341935+00:00"
 }

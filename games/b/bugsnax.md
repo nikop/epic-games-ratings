@@ -18,7 +18,7 @@ Number of Ratings: 425  (23.09.2022)
 | Know Thy Neighbor | 59.00% | ~16,597 |
 | Launch Party | 56.00% | ~15,753 |
 | Perf Dirt | 56.00% | ~15,753 |
-| Vacation's End | 52.00% | ~14,628 |
+| Vacation's End | 53.00% | ~14,909 |
 | Bossy Bugs | 46.00% | ~12,940 |
 | Survivor | 45.00% | ~12,659 |
 | That Reminds Me of a Puzzle | 43.00% | ~12,096 |

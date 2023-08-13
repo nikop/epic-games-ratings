@@ -366,7 +366,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2738,
+  "EOS_Progressed": 2739,
   "EOS_Completed": 107,
   "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 2,
@@ -2631,6 +2631,11 @@
       "Time": "2023-08-13T14:02:19.4943055+00:00",
       "NumProgressed": 2738,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2023-08-13T17:03:18.3385251+00:00",
+      "NumProgressed": 2739,
+      "NumCompleted": 107
     }
   ],
   "TotalAchievements": 14,
@@ -2698,7 +2703,7 @@
       "Name": "Hidden Secrets",
       "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     },
     {
       "ID": "ACH_IMPRISONMENT",
@@ -2738,7 +2743,7 @@
       "Name": "Treasure Hunt",
       "Percentage": 30,
       "XP": 80,
-      "UsersEstimate": 821
+      "UsersEstimate": 822
     },
     {
       "ID": "ACH_WELCOME_TO_RAVEN_BROOKS",
@@ -2746,14 +2751,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 76,
       "XP": 35,
-      "UsersEstimate": 2081
+      "UsersEstimate": 2082
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2738,
+      "Progressed": 2739,
       "Completed": 107
     }
   ],
@@ -2761,8 +2766,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-08-12T10:57:00.5102545+00:00",
-  "LastChanged_Achievements": "2023-08-13T16:03:15.1757323+00:00",
+  "LastChanged_Achievements": "2023-08-13T17:03:18.3385245+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:10.1375328+00:00",
-  "LastUpdate_Ratings": "2023-08-13T15:57:27.9379946+00:00",
-  "LastUpdate_Achievements": "2023-08-13T16:03:15.1757572+00:00"
+  "LastUpdate_Ratings": "2023-08-13T16:57:37.4215847+00:00",
+  "LastUpdate_Achievements": "2023-08-13T17:03:18.3385691+00:00"
 }

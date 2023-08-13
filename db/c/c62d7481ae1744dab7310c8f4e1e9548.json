@@ -2,9 +2,9 @@
   "ID": "c62d7481ae1744dab7310c8f4e1e9548",
   "Name": "Samorost 3",
   "ProductSlug": "samorost-3-0c4489",
-  "Ranking_EOS_Progress": 372,
+  "Ranking_EOS_Progress": 370,
   "Ranking_EOS_Completed": 85,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44,
+  "EOS_Progressed": 45,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.27,
+  "EOS_Completed_Percentage": 2.22,
   "EosHistory": [
     {
       "Time": "2023-07-02T13:13:21.8292114+00:00",
@@ -231,6 +231,11 @@
       "Time": "2023-08-12T19:07:07.6595842+00:00",
       "NumProgressed": 44,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-13T17:05:00.551274+00:00",
+      "NumProgressed": 45,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.2091186+00:00",
@@ -241,7 +246,7 @@
       "ID": "Cervotoc",
       "SetID": "ag48e8e",
       "Name": "Woodworm",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 30,
       "UsersEstimate": 6
     },
@@ -249,7 +254,7 @@
       "ID": "Cikady",
       "SetID": "ag48e8e",
       "Name": "Cicadas",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 30,
       "UsersEstimate": 6
     },
@@ -265,7 +270,7 @@
       "ID": "Dusici",
       "SetID": "ag48e8e",
       "Name": "Young Spirits",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -281,7 +286,7 @@
       "ID": "Houby",
       "SetID": "ag48e8e",
       "Name": "Mushrooms",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 30,
       "UsersEstimate": 11
     },
@@ -289,7 +294,7 @@
       "ID": "Jing",
       "SetID": "ag48e8e",
       "Name": "Jing Jang",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 30,
       "UsersEstimate": 19
     },
@@ -297,7 +302,7 @@
       "ID": "Kamzik",
       "SetID": "ag48e8e",
       "Name": "Chamois",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 30,
       "UsersEstimate": 22
     },
@@ -321,7 +326,7 @@
       "ID": "Kudla",
       "SetID": "ag48e8e",
       "Name": "Knife",
-      "Percentage": 66,
+      "Percentage": 64,
       "XP": 30,
       "UsersEstimate": 29
     },
@@ -329,7 +334,7 @@
       "ID": "Kvitky",
       "SetID": "ag48e8e",
       "Name": "Blossoms",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 30,
       "UsersEstimate": 17
     },
@@ -353,7 +358,7 @@
       "ID": "Netopyrci",
       "SetID": "ag48e8e",
       "Name": "Cave Bats",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 30,
       "UsersEstimate": 6
     },
@@ -361,7 +366,7 @@
       "ID": "Netopyrek",
       "SetID": "ag48e8e",
       "Name": "Liana Bats",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 30,
       "UsersEstimate": 11
     },
@@ -393,7 +398,7 @@
       "ID": "Rybka",
       "SetID": "ag48e8e",
       "Name": "Goldfish",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 30,
       "UsersEstimate": 6
     },
@@ -409,7 +414,7 @@
       "ID": "SpiciPapouch",
       "SetID": "ag48e8e",
       "Name": "Sleeping Parrot",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 30,
       "UsersEstimate": 13
     },
@@ -433,7 +438,7 @@
       "ID": "Strom",
       "SetID": "ag48e8e",
       "Name": "Sprouting Tree",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -441,7 +446,7 @@
       "ID": "Termit",
       "SetID": "ag48e8e",
       "Name": "Saint Termite",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 30,
       "UsersEstimate": 13
     },
@@ -457,7 +462,7 @@
       "ID": "Xicht",
       "SetID": "ag48e8e",
       "Name": "Rockheads",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 30,
       "UsersEstimate": 10
     },
@@ -482,14 +487,14 @@
     {
       "ID": "ag48e8e",
       "IsBase": true,
-      "Progressed": 44,
+      "Progressed": 45,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-08-13T16:04:19.8175038+00:00",
+  "LastChanged_Achievements": "2023-08-13T17:05:00.5512733+00:00",
   "LastUpdate_AppInfo": "2023-08-11T16:57:03.8817549+00:00",
-  "LastUpdate_Ratings": "2023-08-13T15:57:57.5313073+00:00",
-  "LastUpdate_Achievements": "2023-08-13T16:04:19.8175292+00:00"
+  "LastUpdate_Ratings": "2023-08-13T16:58:24.3272301+00:00",
+  "LastUpdate_Achievements": "2023-08-13T17:05:00.5513012+00:00"
 }
