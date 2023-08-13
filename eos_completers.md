@@ -7,8 +7,8 @@
 | 5 | [Overloop](games/o/overloop.md) | 25.00% |
 | 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 7 | [Volley Pals](games/v/volley_pals.md) | 23.91% |
-| 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 23.33% |
-| 9 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 22.58% |
+| 8 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 22.58% |
+| 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 22.58% |
 | 10 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 10 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
@@ -30,7 +30,7 @@
 | 28 | [Sonic Origins](games/s/sonic_origins.md) | 9.69% |
 | 29 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 9.30% |
 | 29 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.30% |
-| 31 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.03% |
+| 31 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.02% |
 | 32 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.48% |
 | 33 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 7.94% |
 | 34 | [Smelter](games/s/smelter.md) | 7.69% |
@@ -39,7 +39,7 @@
 | 37 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.91% |
 | 38 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.88% |
 | 39 | [Time Loader](games/t/time_loader.md) | 6.84% |
-| 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.46% |
+| 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.44% |
 | 41 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 42 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 43 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.98% |
@@ -56,7 +56,7 @@
 | 54 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.57% |
 | 55 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.55% |
 | 56 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.20% |
-| 57 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.98% |
+| 57 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.97% |
 | 58 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.91% |
 | 59 | [ZZT!](games/z/zzt!.md) | 3.72% |
 | 60 | [Without Escape](games/w/without_escape.md) | 3.70% |
@@ -126,7 +126,7 @@
 | 124 | [Lemon Cake](games/l/lemon_cake.md) | 0.74% |
 | 125 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.73% |
 | 126 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.72% |
-| 127 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.67% |
+| 127 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.66% |
 | 128 | [Haven](games/h/haven.md) | 0.65% |
 | 129 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.63% |
 | 129 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.63% |
@@ -143,7 +143,7 @@
 | 140 | [The Surge 2](games/t/the_surge_2.md) | 0.51% |
 | 142 | [Godlike Burger](games/g/godlike_burger.md) | 0.50% |
 | 143 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.49% |
-| 143 | [Them and Us](games/t/them_and_us.md) | 0.49% |
+| 144 | [Them and Us](games/t/them_and_us.md) | 0.48% |
 | 145 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
 | 146 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.46% |
 | 146 | [Tchia](games/t/tchia.md) | 0.46% |
