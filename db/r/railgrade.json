@@ -3,12 +3,12 @@
   "Name": "RAILGRADE",
   "ProductSlug": "railgrade",
   "Ranking_Rating": 497,
-  "Ranking_Popularity": 353,
-  "Ranking_PopularitySum": 287,
+  "Ranking_Popularity": 352,
+  "Ranking_PopularitySum": 286,
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 185,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2022-09-29T14:00:00+00:00",
     "PcReleaseDate": "2022-09-29T14:00:00+00:00",
@@ -430,11 +430,17 @@
       "Rating": 4.54,
       "NumberOfAwards": 658,
       "NumberOfAwardsMax": 87
+    },
+    {
+      "Time": "2023-08-13T13:03:32.8412913+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 660,
+      "NumberOfAwardsMax": 88
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 658,
-  "NumberOfAwardsMax": 87,
+  "NumberOfAwards": 660,
+  "NumberOfAwardsMax": 88,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
@@ -459,13 +465,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 87
+      "Count": 88
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 87
+      "Count": 88
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -498,7 +504,7 @@
       "Count": 46
     }
   ],
-  "EOS_Progressed": 19512,
+  "EOS_Progressed": 19513,
   "EOS_Completed": 36,
   "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 1,
@@ -5153,6 +5159,11 @@
       "Time": "2023-08-13T06:03:48.5555792+00:00",
       "NumProgressed": 19512,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-08-13T13:05:48.7272972+00:00",
+      "NumProgressed": 19513,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 37,
@@ -5196,7 +5207,7 @@
       "Name": "Builder",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 16195
+      "UsersEstimate": 16196
     },
     {
       "ID": "ach.060.goingdistance",
@@ -5204,7 +5215,7 @@
       "Name": "Going the Distance",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 10536
+      "UsersEstimate": 10537
     },
     {
       "ID": "ach.070.8kenough",
@@ -5220,7 +5231,7 @@
       "Name": "Eraser",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 13658
+      "UsersEstimate": 13659
     },
     {
       "ID": "ach.090.perfectionist",
@@ -5236,7 +5247,7 @@
       "Name": "Indecisive",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5658
+      "UsersEstimate": 5659
     },
     {
       "ID": "ach.110.multiverse",
@@ -5260,7 +5271,7 @@
       "Name": "Minimalist",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 17561
+      "UsersEstimate": 17562
     },
     {
       "ID": "ach.140.legacy",
@@ -5268,7 +5279,7 @@
       "Name": "Trevithick\u0027s Legacy",
       "Percentage": 98,
       "XP": 60,
-      "UsersEstimate": 19122
+      "UsersEstimate": 19123
     },
     {
       "ID": "ach.150.pocket",
@@ -5300,7 +5311,7 @@
       "Name": "Inspector",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 11512
+      "UsersEstimate": 11513
     },
     {
       "ID": "ach.190.scenic",
@@ -5308,7 +5319,7 @@
       "Name": "The scenic route",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 5268
+      "UsersEstimate": 5269
     },
     {
       "ID": "ach.200.light",
@@ -5356,7 +5367,7 @@
       "Name": "Before the Downfall",
       "Percentage": 93,
       "XP": 60,
-      "UsersEstimate": 18146
+      "UsersEstimate": 18147
     },
     {
       "ID": "ach.260.investor",
@@ -5420,7 +5431,7 @@
       "Name": "Money like Water",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 17756
+      "UsersEstimate": 17757
     },
     {
       "ID": "ach.340.steel",
@@ -5459,16 +5470,16 @@
     {
       "ID": "384aaja",
       "IsBase": true,
-      "Progressed": 19512,
+      "Progressed": 19513,
       "Completed": 36
     }
   ],
   "FirstSeen": "2022-09-29T18:01:57.1676877+00:00",
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
-  "LastChanged": "2023-08-08T19:59:39.6594014+00:00",
-  "LastChanged_Achievements": "2023-08-13T12:04:17.5142923+00:00",
+  "LastChanged": "2023-08-13T13:03:32.8412912+00:00",
+  "LastChanged_Achievements": "2023-08-13T13:05:48.7272967+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:15.8610302+00:00",
-  "LastUpdate_Ratings": "2023-08-13T12:01:59.4213531+00:00",
-  "LastUpdate_Achievements": "2023-08-13T12:04:17.5143601+00:00"
+  "LastUpdate_Ratings": "2023-08-13T13:03:32.8412917+00:00",
+  "LastUpdate_Achievements": "2023-08-13T13:05:48.7273401+00:00"
 }

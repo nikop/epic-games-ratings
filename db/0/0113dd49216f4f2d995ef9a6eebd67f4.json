@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 395,
   "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
     "PcReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -136,9 +136,9 @@
       "ID": "SG_ABDICATION",
       "SetID": "bj5g0n4",
       "Name": "Abdication",
-      "Percentage": 4,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SG_ACROSSTHESTYX",
@@ -152,9 +152,9 @@
       "ID": "SG_AGAINSTALLODDS",
       "SetID": "bj5g0n4",
       "Name": "Against All Odds",
-      "Percentage": 7,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "SG_ALLTHEHELPYOUNEED",
@@ -184,25 +184,25 @@
       "ID": "SG_BRAVEONTIME",
       "SetID": "bj5g0n4",
       "Name": "Brave On Time",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SG_CHARISMATIC",
       "SetID": "bj5g0n4",
       "Name": "Charismatic",
-      "Percentage": 4,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SG_CUNNING",
       "SetID": "bj5g0n4",
       "Name": "Cunning",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SG_ENDOFTHEROAD",
@@ -248,9 +248,9 @@
       "ID": "SG_LIKEHEROESBEFOREYOU",
       "SetID": "bj5g0n4",
       "Name": "Like Heroes Before You",
-      "Percentage": 4,
+      "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SG_LOSTINASONG",
@@ -280,9 +280,9 @@
       "ID": "SG_MYTIMETOSHINE",
       "SetID": "bj5g0n4",
       "Name": "My Time To Shine",
-      "Percentage": 11,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SG_NOTALOSTGIRL",
@@ -400,9 +400,9 @@
       "ID": "SG_THEULTIMATESACRIFICE",
       "SetID": "bj5g0n4",
       "Name": "The Ultimate Sacrifice",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SG_THISHELLISMINE",
@@ -416,9 +416,9 @@
       "ID": "SG_TOGETHERVICTORIOUS",
       "SetID": "bj5g0n4",
       "Name": "Together, Victorious",
-      "Percentage": 4,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SG_VIRTUOSO",
@@ -439,8 +439,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-08-13T12:03:28.2329343+00:00",
+  "LastChanged_Achievements": "2023-08-13T13:05:11.3246383+00:00",
   "LastUpdate_AppInfo": "2023-08-10T07:57:00.7529969+00:00",
-  "LastUpdate_Ratings": "2023-08-13T11:57:32.2865472+00:00",
-  "LastUpdate_Achievements": "2023-08-13T12:03:28.2329691+00:00"
+  "LastUpdate_Ratings": "2023-08-13T12:58:54.7932953+00:00",
+  "LastUpdate_Achievements": "2023-08-13T13:05:11.3246607+00:00"
 }

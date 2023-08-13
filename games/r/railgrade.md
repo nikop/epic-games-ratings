@@ -5,15 +5,15 @@ Rating: 4.54 (Ranked 497)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 98.00% | ~19,122 |
-| Before the Downfall | 93.00% | ~18,146 |
-| Money like Water | 91.00% | ~17,756 |
-| Minimalist | 90.00% | ~17,561 |
-| Builder | 83.00% | ~16,195 |
-| Eraser | 70.00% | ~13,658 |
+| Trevithick's Legacy | 98.00% | ~19,123 |
+| Before the Downfall | 93.00% | ~18,147 |
+| Money like Water | 91.00% | ~17,757 |
+| Minimalist | 90.00% | ~17,562 |
+| Builder | 83.00% | ~16,196 |
+| Eraser | 70.00% | ~13,659 |
 | Pocket of Trains | 65.00% | ~12,683 |
-| Inspector | 59.00% | ~11,512 |
-| Going the Distance | 54.00% | ~10,536 |
+| Inspector | 59.00% | ~11,513 |
+| Going the Distance | 54.00% | ~10,537 |
 | Oil Baron | 42.00% | ~8,195 |
 | Loads-a-Money | 42.00% | ~8,195 |
 | Helper of the People | 39.00% | ~7,610 |
@@ -21,8 +21,8 @@ Rating: 4.54 (Ranked 497)
 | Box of Trains | 33.00% | ~6,439 |
 | Let There be Light | 32.00% | ~6,244 |
 | Hot Water | 31.00% | ~6,049 |
-| Indecisive | 29.00% | ~5,658 |
-| The scenic route | 27.00% | ~5,268 |
+| Indecisive | 29.00% | ~5,659 |
+| The scenic route | 27.00% | ~5,269 |
 | Industrialist | 25.00% | ~4,878 |
 | Perfectionist | 23.00% | ~4,488 |
 | Trains over Pipes | 23.00% | ~4,488 |
@@ -43,7 +43,7 @@ Rating: 4.54 (Ranked 497)
 | Overdeer | 0.50% | ~98 |
 | Cloud Services | 0.20% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,512 (Ranked 107)  
+Progressed: 19,513 (Ranked 107)  
 Completed: 36 (0.18%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,17 +158,17 @@ Completed: 36 (0.18%) (Ranked 185)
 | 2023-08-10 | 19,500 | 35 |
 | 2023-08-11 | 19,502 | 35 |
 | 2023-08-12 | 19,510 | 36 |
-| 2023-08-13 | 19,512 | 36 |
+| 2023-08-13 | 19,513 | 36 |
 ## Awards
-Max (Highly Recommended): 87  (Ranked 353)  
-Sum: 658 (Ranked 287)  
+Max (Highly Recommended): 88  (Ranked 352)  
+Sum: 660 (Ranked 286)  
 Diff (max vs sum): 66  
 | Award | Count |
 | ----- | ----- |
+| This game has Quickly Understood Controls | 88 |
+| This game is Highly Recommended | 88 |
 | This game is Relaxing | 87 |
 | This game is Great for Beginners | 87 |
-| This game has Quickly Understood Controls | 87 |
-| This game is Highly Recommended | 87 |
 | This game is Extremely Fun | 84 |
 | This game has Amazing Storytelling | 80 |
 | This game has Unique Visuals | 59 |
@@ -231,3 +231,4 @@ Diff (max vs sum): 66
 | 2023-08-05 | 4.54 | 87 | 656 |
 | 2023-08-07 | 4.54 | 87 | 657 |
 | 2023-08-08 | 4.54 | 87 | 658 |
+| 2023-08-13 | 4.54 | 88 | 660 |

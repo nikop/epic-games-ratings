@@ -5,33 +5,33 @@ Rating: 4.23 (Ranked 838)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,578 |
-| Don't I Know You...? | 77.00% | ~1,519 |
-| Jailbreak | 65.00% | ~1,282 |
-| Suited and Booted | 39.00% | ~769 |
+| Rigged And Ready | 80.00% | ~1,579 |
+| Don't I Know You...? | 77.00% | ~1,520 |
+| Jailbreak | 65.00% | ~1,283 |
+| Suited and Booted | 39.00% | ~770 |
 | HEADSHOT! | 38.00% | ~750 |
 | Sleeping With The Fishes | 35.00% | ~691 |
 | Overheated | 30.00% | ~592 |
 | High Performance | 30.00% | ~592 |
-| Powered Up | 28.00% | ~552 |
+| Powered Up | 28.00% | ~553 |
 | Studied The Blade | 24.00% | ~474 |
 | Home Invasion | 22.00% | ~434 |
 | Luminary | 22.00% | ~434 |
 | It's a Trap | 22.00% | ~434 |
-| True Survivor | 21.00% | ~414 |
+| True Survivor | 21.00% | ~415 |
 | Offensive Defense | 20.00% | ~395 |
 | Shocking | 20.00% | ~395 |
 | Court Martial | 19.00% | ~375 |
 | Clean Cut | 19.00% | ~375 |
 | Unforeseeable Consequences | 19.00% | ~375 |
-| Dead Again | 17.00% | ~335 |
-| Full Arsenal | 17.00% | ~335 |
+| Dead Again | 17.00% | ~336 |
+| Full Arsenal | 17.00% | ~336 |
 | Can't Trust Banks | 15.00% | ~296 |
-| Mommy Dearest | 13.00% | ~256 |
-| Bad Dog | 13.00% | ~256 |
-| Where It All Began | 13.00% | ~256 |
-| Risk Tolerant | 13.00% | ~256 |
-| What A Catchy Song | 13.00% | ~256 |
+| Mommy Dearest | 13.00% | ~257 |
+| Bad Dog | 13.00% | ~257 |
+| Where It All Began | 13.00% | ~257 |
+| Risk Tolerant | 13.00% | ~257 |
+| What A Catchy Song | 13.00% | ~257 |
 | Marked For Success | 12.00% | ~237 |
 | Sorry, Didn't See You There | 12.00% | ~237 |
 | Corrupted Beauty | 11.00% | ~217 |
@@ -63,7 +63,7 @@ Rating: 4.23 (Ranked 838)
 | Swiss Army Drone | 1.00% | ~20 |
 | The Easy Way Out | 1.00% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,973 (Ranked 169)  
+Progressed: 1,974 (Ranked 169)  
 Completed: 10 (0.51%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,7 +157,7 @@ Completed: 10 (0.51%) (Ranked 140)
 | 2023-08-08 | 1,968 | 10 |
 | 2023-08-10 | 1,969 | 10 |
 | 2023-08-11 | 1,972 | 10 |
-| 2023-08-13 | 1,973 | 10 |
+| 2023-08-13 | 1,974 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

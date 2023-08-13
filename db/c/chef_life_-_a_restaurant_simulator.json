@@ -4,8 +4,8 @@
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
     "PcReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 543,
+  "EOS_Progressed": 544,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2329,6 +2329,11 @@
       "Time": "2023-08-12T08:05:03.1666033+00:00",
       "NumProgressed": 543,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-13T13:05:48.0155432+00:00",
+      "NumProgressed": 544,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -2386,9 +2391,9 @@
       "ID": "BistroSet",
       "SetID": "d1bm05f",
       "Name": "French Flair",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 87
+      "UsersEstimate": 92
     },
     {
       "ID": "CleanRestaurantDays10",
@@ -2500,7 +2505,7 @@
       "Name": "Haute Cuisine",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "Money10000",
@@ -2522,9 +2527,9 @@
       "ID": "Packing20",
       "SetID": "d1bm05f",
       "Name": "Next Level Cuisine",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 60
     },
     {
       "ID": "PerfectGrade25",
@@ -2540,7 +2545,7 @@
       "Name": "Home Cook",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "RecipeDifferent30",
@@ -2596,7 +2601,7 @@
       "Name": "You\u0027re the Expert!",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "TrattoriaSet",
@@ -2659,7 +2664,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 543,
+      "Progressed": 544,
       "Completed": 0
     }
   ],
@@ -2667,8 +2672,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-08-13T12:04:16.7390692+00:00",
+  "LastChanged_Achievements": "2023-08-13T13:05:48.0155427+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:14.6263196+00:00",
-  "LastUpdate_Ratings": "2023-08-13T12:00:41.9786811+00:00",
-  "LastUpdate_Achievements": "2023-08-13T12:04:16.7391227+00:00"
+  "LastUpdate_Ratings": "2023-08-13T13:02:09.9011291+00:00",
+  "LastUpdate_Achievements": "2023-08-13T13:05:48.015579+00:00"
 }

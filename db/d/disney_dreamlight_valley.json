@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 106,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 84,
-  "Ranking_EOS_NewPlayers": 94,
+  "Ranking_EOS_NewPlayers": 95,
   "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -3102,9 +3102,9 @@
       "Count": 491
     }
   ],
-  "EOS_Progressed": 8558,
+  "EOS_Progressed": 8559,
   "EOS_Completed": 195,
-  "EOS_NewPlayers": 259,
+  "EOS_NewPlayers": 256,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 2.28,
   "EosHistory": [
@@ -9392,6 +9392,11 @@
       "Time": "2023-08-13T11:04:20.7609632+00:00",
       "NumProgressed": 8558,
       "NumCompleted": 195
+    },
+    {
+      "Time": "2023-08-13T13:06:09.3547035+00:00",
+      "NumProgressed": 8559,
+      "NumCompleted": 195
     }
   ],
   "TotalAchievements": 15,
@@ -9411,7 +9416,7 @@
       "Name": "Banker",
       "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 3423
+      "UsersEstimate": 3424
     },
     {
       "ID": "Bestest_Friend",
@@ -9451,7 +9456,7 @@
       "Name": "Duty Bound",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "Gardener",
@@ -9467,7 +9472,7 @@
       "Name": "Generous",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 1968
+      "UsersEstimate": 1969
     },
     {
       "ID": "Goofys_Investor",
@@ -9491,7 +9496,7 @@
       "Name": "Photographer",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 5905
+      "UsersEstimate": 5906
     },
     {
       "ID": "Renovator",
@@ -9499,7 +9504,7 @@
       "Name": "Renovator",
       "Percentage": 52,
       "XP": 100,
-      "UsersEstimate": 4450
+      "UsersEstimate": 4451
     },
     {
       "ID": "Thorn_Cleaner",
@@ -9515,14 +9520,14 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 5477
+      "UsersEstimate": 5478
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 8558,
+      "Progressed": 8559,
       "Completed": 195
     }
   ],
@@ -9530,8 +9535,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-08-12T08:59:18.8223353+00:00",
-  "LastChanged_Achievements": "2023-08-13T12:04:28.4667692+00:00",
+  "LastChanged_Achievements": "2023-08-13T13:06:09.354703+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:49.8985041+00:00",
-  "LastUpdate_Ratings": "2023-08-13T12:00:10.2965511+00:00",
-  "LastUpdate_Achievements": "2023-08-13T12:04:28.4668265+00:00"
+  "LastUpdate_Ratings": "2023-08-13T13:01:38.3626553+00:00",
+  "LastUpdate_Achievements": "2023-08-13T13:06:09.3547392+00:00"
 }

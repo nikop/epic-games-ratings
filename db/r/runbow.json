@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 45,
   "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 247988,
+  "EOS_Progressed": 247992,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 305,
+  "EOS_NewPlayers": 308,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11094,6 +11094,11 @@
       "Time": "2023-08-13T12:04:42.2336669+00:00",
       "NumProgressed": 247988,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-13T13:06:22.0579924+00:00",
+      "NumProgressed": 247992,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 46,
@@ -11129,7 +11134,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 52077
+      "UsersEstimate": 52078
     },
     {
       "ID": "blotbuster",
@@ -11153,7 +11158,7 @@
       "Name": "Butt Butt",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 14879
+      "UsersEstimate": 14880
     },
     {
       "ID": "canYouDigIt",
@@ -11161,7 +11166,7 @@
       "Name": "Can You Dig It?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 42158
+      "UsersEstimate": 42159
     },
     {
       "ID": "cantBeKeptDown",
@@ -11177,7 +11182,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 37198
+      "UsersEstimate": 37199
     },
     {
       "ID": "clearCut",
@@ -11201,7 +11206,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 44638
+      "UsersEstimate": 44639
     },
     {
       "ID": "curator",
@@ -11281,7 +11286,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 131434
+      "UsersEstimate": 131436
     },
     {
       "ID": "indegestible",
@@ -11305,7 +11310,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 64477
+      "UsersEstimate": 64478
     },
     {
       "ID": "justABit",
@@ -11337,7 +11342,7 @@
       "Name": "Muddy Waters",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 34718
+      "UsersEstimate": 34719
     },
     {
       "ID": "myFirstRunbow",
@@ -11345,7 +11350,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 123994
+      "UsersEstimate": 123996
     },
     {
       "ID": "notScared",
@@ -11409,7 +11414,7 @@
       "Name": "The Stunner",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 54557
+      "UsersEstimate": 54558
     },
     {
       "ID": "thunderstruck",
@@ -11425,7 +11430,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 32238
+      "UsersEstimate": 32239
     },
     {
       "ID": "treeMedalist",
@@ -11465,14 +11470,14 @@
       "Name": "You Juan-A-Go?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 39678
+      "UsersEstimate": 39679
     }
   ],
   "AchievementSets": [
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 247988,
+      "Progressed": 247992,
       "Completed": 3
     }
   ],
@@ -11480,8 +11485,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-08-13T12:04:42.2336663+00:00",
+  "LastChanged_Achievements": "2023-08-13T13:06:22.0579918+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:58.6114529+00:00",
-  "LastUpdate_Ratings": "2023-08-13T12:01:38.3113334+00:00",
-  "LastUpdate_Achievements": "2023-08-13T12:04:42.233773+00:00"
+  "LastUpdate_Ratings": "2023-08-13T13:03:10.8555587+00:00",
+  "LastUpdate_Achievements": "2023-08-13T13:06:22.0580723+00:00"
 }
