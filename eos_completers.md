@@ -8,7 +8,7 @@
 | 6 | [Overloop](games/o/overloop.md) | 25.00% |
 | 7 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 23.91% |
-| 9 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 21.95% |
+| 9 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 22.76% |
 | 10 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 10 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
@@ -150,8 +150,8 @@
 | 146 | [Train Valley](games/t/train_valley.md) | 0.46% |
 | 149 | [Tchia](games/t/tchia.md) | 0.45% |
 | 150 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.44% |
-| 151 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.43% |
 | 151 | [Tails of Iron](games/t/tails_of_iron.md) | 0.43% |
+| 152 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.42% |
 | 153 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.41% |
 | 154 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.39% |
 | 155 | [Ghostrunner](games/g/ghostrunner.md) | 0.38% |
