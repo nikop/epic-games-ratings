@@ -324,9 +324,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 65393,
+  "EOS_Progressed": 65395,
   "EOS_Completed": 345,
-  "EOS_NewPlayers": 701,
+  "EOS_NewPlayers": 697,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -12654,6 +12654,11 @@
       "Time": "2023-08-13T08:05:17.5662918+00:00",
       "NumProgressed": 65393,
       "NumCompleted": 345
+    },
+    {
+      "Time": "2023-08-13T09:05:31.735016+00:00",
+      "NumProgressed": 65395,
+      "NumCompleted": 345
     }
   ],
   "TotalAchievements": 24,
@@ -12681,7 +12686,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 44467
+      "UsersEstimate": 44469
     },
     {
       "ID": "BEST_FRIENDS",
@@ -12689,7 +12694,7 @@
       "Name": "BEST FRIENDS",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 14386
+      "UsersEstimate": 14387
     },
     {
       "ID": "BLOOMS_OF_LIGHT",
@@ -12697,7 +12702,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 17002
+      "UsersEstimate": 17003
     },
     {
       "ID": "ERADICATE",
@@ -12713,7 +12718,7 @@
       "Name": "FETCH",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 17656
+      "UsersEstimate": 17657
     },
     {
       "ID": "FOXIN_AROUND",
@@ -12721,7 +12726,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 18964
+      "UsersEstimate": 18965
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -12745,7 +12750,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 34658
+      "UsersEstimate": 34659
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -12785,7 +12790,7 @@
       "Name": "OLD COMPANION",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 5885
+      "UsersEstimate": 5886
     },
     {
       "ID": "PLAGUE_DOCTOR",
@@ -12793,7 +12798,7 @@
       "Name": "PLAGUE DOCTOR",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 5231
+      "UsersEstimate": 5232
     },
     {
       "ID": "SPIRITED_AWAY",
@@ -12801,7 +12806,7 @@
       "Name": "SPIRITED AWAY",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 5231
+      "UsersEstimate": 5232
     },
     {
       "ID": "SPIRIT_BARK",
@@ -12856,7 +12861,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 65393,
+      "Progressed": 65395,
       "Completed": 345
     }
   ],
@@ -12864,8 +12869,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-08-13T08:05:17.5662912+00:00",
+  "LastChanged_Achievements": "2023-08-13T09:05:31.7350154+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:14.4759947+00:00",
-  "LastUpdate_Ratings": "2023-08-13T08:01:27.2211775+00:00",
-  "LastUpdate_Achievements": "2023-08-13T08:05:17.5664288+00:00"
+  "LastUpdate_Ratings": "2023-08-13T09:02:06.3627735+00:00",
+  "LastUpdate_Achievements": "2023-08-13T09:05:31.7351089+00:00"
 }

@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 247980,
+  "EOS_Progressed": 247981,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 302,
+  "EOS_NewPlayers": 300,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11074,6 +11074,11 @@
       "Time": "2023-08-13T05:04:18.6578313+00:00",
       "NumProgressed": 247980,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-13T09:05:03.0617089+00:00",
+      "NumProgressed": 247981,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 46,
@@ -11181,7 +11186,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 44636
+      "UsersEstimate": 44637
     },
     {
       "ID": "curator",
@@ -11261,7 +11266,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 131429
+      "UsersEstimate": 131430
     },
     {
       "ID": "indegestible",
@@ -11405,7 +11410,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 32237
+      "UsersEstimate": 32238
     },
     {
       "ID": "treeMedalist",
@@ -11452,7 +11457,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 247980,
+      "Progressed": 247981,
       "Completed": 3
     }
   ],
@@ -11460,8 +11465,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-08-13T08:04:53.9915984+00:00",
+  "LastChanged_Achievements": "2023-08-13T09:05:03.0617083+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:58.6114529+00:00",
-  "LastUpdate_Ratings": "2023-08-13T08:01:12.9536064+00:00",
-  "LastUpdate_Achievements": "2023-08-13T08:04:53.9917506+00:00"
+  "LastUpdate_Ratings": "2023-08-13T09:01:46.9566231+00:00",
+  "LastUpdate_Achievements": "2023-08-13T09:05:03.061818+00:00"
 }

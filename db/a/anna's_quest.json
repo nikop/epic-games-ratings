@@ -283,9 +283,9 @@
       "ID": "aq_achievement_3",
       "SetID": "7jh86ne",
       "Name": "My lost nightingale",
-      "Percentage": 59,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "aq_achievement_30",
@@ -428,8 +428,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.0099942+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.5540856+00:00",
   "LastChanged": "2023-03-31T05:58:28.0099943+00:00",
-  "LastChanged_Achievements": "2023-08-13T08:03:48.8835105+00:00",
+  "LastChanged_Achievements": "2023-08-13T09:03:48.5509266+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:55.3569902+00:00",
-  "LastUpdate_Ratings": "2023-08-13T08:01:06.0071241+00:00",
-  "LastUpdate_Achievements": "2023-08-13T08:03:48.8835445+00:00"
+  "LastUpdate_Ratings": "2023-08-13T09:01:39.068658+00:00",
+  "LastUpdate_Achievements": "2023-08-13T09:03:48.5509834+00:00"
 }

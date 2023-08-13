@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 487,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -331,9 +331,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 1800,
+  "EOS_Progressed": 1801,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -1811,6 +1811,11 @@
       "Time": "2023-08-13T07:02:25.510442+00:00",
       "NumProgressed": 1800,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-13T09:03:09.5988302+00:00",
+      "NumProgressed": 1801,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -1830,7 +1835,7 @@
       "Name": "Dead or Alive",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 1008
+      "UsersEstimate": 1009
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -1974,7 +1979,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 1080
+      "UsersEstimate": 1081
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -1988,9 +1993,9 @@
       "ID": "ACH_LORD_INUT_SENDS_HIS_REGARDS",
       "SetID": "8j30i9k",
       "Name": "Lord Inut Sends His Regards",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_LOYALTY_TO_THE_PACK",
@@ -2004,9 +2009,9 @@
       "ID": "ACH_MAN_IN_BLACK",
       "SetID": "8j30i9k",
       "Name": "Eternity Can Wait",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 162
+      "UsersEstimate": 144
     },
     {
       "ID": "ACH_MA_BARKER",
@@ -2020,9 +2025,9 @@
       "ID": "ACH_MONSTER_HUNTER",
       "SetID": "8j30i9k",
       "Name": "Monster Hunter",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 144
+      "UsersEstimate": 126
     },
     {
       "ID": "ACH_MOONDRUNK",
@@ -2070,7 +2075,7 @@
       "Name": "Perky",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 1188
+      "UsersEstimate": 1189
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -2118,7 +2123,7 @@
       "Name": "Self-Improvement",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1296
+      "UsersEstimate": 1297
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -2180,9 +2185,9 @@
       "ID": "ACH_THROUGH_THEIR_EYES",
       "SetID": "8j30i9k",
       "Name": "Through Their Eyes",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 468
+      "UsersEstimate": 450
     },
     {
       "ID": "ACH_TURNING_THE_TABLES",
@@ -2198,7 +2203,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1584
+      "UsersEstimate": 1585
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -2206,7 +2211,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 1026
+      "UsersEstimate": 1027
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -2245,15 +2250,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1800,
+      "Progressed": 1801,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-08-02T19:59:24.9286429+00:00",
-  "LastChanged_Achievements": "2023-08-13T08:03:16.3402763+00:00",
+  "LastChanged_Achievements": "2023-08-13T09:03:09.5988296+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:13.6246247+00:00",
-  "LastUpdate_Ratings": "2023-08-13T08:00:17.6031601+00:00",
-  "LastUpdate_Achievements": "2023-08-13T08:03:16.34035+00:00"
+  "LastUpdate_Ratings": "2023-08-13T09:00:45.6060024+00:00",
+  "LastUpdate_Achievements": "2023-08-13T09:03:09.5989055+00:00"
 }

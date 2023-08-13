@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 203,
   "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -5560,7 +5560,7 @@
       "Count": 3734
     }
   ],
-  "EOS_Progressed": 134436,
+  "EOS_Progressed": 134440,
   "EOS_Completed": 132,
   "EOS_NewPlayers": 462,
   "EOS_NewCompleters": 4,
@@ -17290,6 +17290,11 @@
       "Time": "2023-08-13T08:06:03.9295603+00:00",
       "NumProgressed": 134436,
       "NumCompleted": 132
+    },
+    {
+      "Time": "2023-08-13T09:06:26.1033259+00:00",
+      "NumProgressed": 134440,
+      "NumCompleted": 132
     }
   ],
   "TotalAchievements": 112,
@@ -17651,9 +17656,9 @@
       "ID": "energy01",
       "SetID": "anfd17p",
       "Name": "Another Satisfied Customer",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 672
+      "UsersEstimate": 807
     },
     {
       "ID": "energy02",
@@ -18196,15 +18201,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 134436,
+      "Progressed": 134440,
       "Completed": 132
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-08-12T16:00:50.2555961+00:00",
-  "LastChanged_Achievements": "2023-08-13T08:06:03.9295594+00:00",
+  "LastChanged_Achievements": "2023-08-13T09:06:26.1033253+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:13.9096409+00:00",
-  "LastUpdate_Ratings": "2023-08-13T08:00:17.9649638+00:00",
-  "LastUpdate_Achievements": "2023-08-13T08:06:03.9298129+00:00"
+  "LastUpdate_Ratings": "2023-08-13T09:00:45.7875925+00:00",
+  "LastUpdate_Achievements": "2023-08-13T09:06:26.1035672+00:00"
 }

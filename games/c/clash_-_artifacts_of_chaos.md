@@ -8,7 +8,7 @@
 | Target Practice | 41.00% | ~42 |
 | Over the Moon | 31.00% | ~32 |
 | The Bigger They Are | 30.00% | ~31 |
-| Enemies of Fate | 29.00% | ~30 |
+| Enemies of Fate | 30.00% | ~31 |
 | Your Training Continues | 27.00% | ~28 |
 | Amokuali Tower | 27.00% | ~28 |
 | Armored | 26.00% | ~27 |
@@ -19,7 +19,7 @@
 | Stilt House | 16.00% | ~16 |
 | Armor Collector | 13.00% | ~13 |
 | Corwid Hill | 12.00% | ~12 |
-| Dreamwalker | 9.00% | ~9 |
+| Dreamwalker | 10.00% | ~10 |
 | Total Eclipse | 8.00% | ~8 |
 | Your Training Is Complete | 6.00% | ~6 |
 | Red in Tooth and Claw | 6.00% | ~6 |

@@ -451,17 +451,17 @@
       "ID": "ACHIEVEMENT_29",
       "SetID": "b36c5kb",
       "Name": "Doing Some Detecting",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_30",
       "SetID": "b36c5kb",
       "Name": "Diligent Reader",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -642,8 +642,8 @@
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-08-13T08:04:47.9109103+00:00",
+  "LastChanged_Achievements": "2023-08-13T09:04:55.8885224+00:00",
   "LastUpdate_AppInfo": "2023-08-09T15:57:03.4224426+00:00",
-  "LastUpdate_Ratings": "2023-08-13T07:57:54.5496855+00:00",
-  "LastUpdate_Achievements": "2023-08-13T08:04:47.9109882+00:00"
+  "LastUpdate_Ratings": "2023-08-13T08:57:57.5206142+00:00",
+  "LastUpdate_Achievements": "2023-08-13T09:04:55.888622+00:00"
 }

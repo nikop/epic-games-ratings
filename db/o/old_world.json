@@ -1599,9 +1599,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13386,
+  "EOS_Progressed": 13388,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -9579,6 +9579,11 @@
       "Time": "2023-08-13T08:05:18.905623+00:00",
       "NumProgressed": 13386,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-13T09:05:33.4479947+00:00",
+      "NumProgressed": 13388,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -10108,9 +10113,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_LEARNED",
       "SetID": "9201eeb",
       "Name": "Learned",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 268
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_LIBERATOR",
@@ -11870,7 +11875,7 @@
       "Name": "The Clergy",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_DEPOSE_TRIBE",
@@ -11957,21 +11962,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13386,
+      "Progressed": 13388,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13386,
+      "Progressed": 13388,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-12T03:59:31.9297462+00:00",
-  "LastChanged_Achievements": "2023-08-13T08:05:18.9056218+00:00",
+  "LastChanged_Achievements": "2023-08-13T09:05:33.4479939+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:38.1291138+00:00",
-  "LastUpdate_Ratings": "2023-08-13T07:59:40.8607955+00:00",
-  "LastUpdate_Achievements": "2023-08-13T08:05:18.9066939+00:00"
+  "LastUpdate_Ratings": "2023-08-13T09:00:03.0770857+00:00",
+  "LastUpdate_Achievements": "2023-08-13T09:05:33.4494589+00:00"
 }

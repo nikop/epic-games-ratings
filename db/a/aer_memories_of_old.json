@@ -380,9 +380,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17719,
+  "EOS_Progressed": 17720,
   "EOS_Completed": 361,
-  "EOS_NewPlayers": 571,
+  "EOS_NewPlayers": 570,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 2.04,
   "EosHistory": [
@@ -12545,6 +12545,11 @@
       "Time": "2023-08-13T08:06:20.3767367+00:00",
       "NumProgressed": 17719,
       "NumCompleted": 361
+    },
+    {
+      "Time": "2023-08-13T09:06:45.165195+00:00",
+      "NumProgressed": 17720,
+      "NumCompleted": 361
     }
   ],
   "TotalAchievements": 20,
@@ -12652,7 +12657,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2303
+      "UsersEstimate": 2304
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -12676,7 +12681,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 13466
+      "UsersEstimate": 13467
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -12684,7 +12689,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 4961
+      "UsersEstimate": 4962
     },
     {
       "ID": "NORTH_FINISHED",
@@ -12715,15 +12720,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 17719,
+      "Progressed": 17720,
       "Completed": 361
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-08-12T01:39:46.4098224+00:00",
-  "LastChanged_Achievements": "2023-08-13T08:06:20.3767359+00:00",
+  "LastChanged_Achievements": "2023-08-13T09:06:45.1651944+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:58:04.1120676+00:00",
-  "LastUpdate_Ratings": "2023-08-13T07:02:13.7429559+00:00",
-  "LastUpdate_Achievements": "2023-08-13T08:06:20.3768441+00:00"
+  "LastUpdate_Ratings": "2023-08-13T08:57:12.8552674+00:00",
+  "LastUpdate_Achievements": "2023-08-13T09:06:45.1652934+00:00"
 }

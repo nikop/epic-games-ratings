@@ -6,21 +6,21 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 11.00% | ~67,231 |
-| Into the Unknown | 10.00% | ~61,119 |
-| First Shot | 10.00% | ~61,119 |
-| Herzlich Wilkommen! | 9.00% | ~55,007 |
-| Good Night & Good Luck | 9.00% | ~55,007 |
-| Sancho Panza | 8.00% | ~48,895 |
-| Oh, So This Is How It Works! | 8.00% | ~48,895 |
-| Under Pressure | 7.00% | ~42,783 |
-| On the Trail of the Enemy | 7.00% | ~42,783 |
-| Light in the Darkness | 7.00% | ~42,783 |
-| Flag Burning | 7.00% | ~42,783 |
-| Night Hunter | 7.00% | ~42,783 |
-| Get Outta My House! | 6.00% | ~36,671 |
-| It Wasn't That Hard, Was It? | 6.00% | ~36,671 |
-| Being All Social | 6.00% | ~36,671 |
+| You Never Forget Your First... | 11.00% | ~67,233 |
+| Into the Unknown | 10.00% | ~61,120 |
+| First Shot | 10.00% | ~61,120 |
+| Herzlich Wilkommen! | 9.00% | ~55,008 |
+| Good Night & Good Luck | 9.00% | ~55,008 |
+| Sancho Panza | 8.00% | ~48,896 |
+| Oh, So This Is How It Works! | 8.00% | ~48,896 |
+| Under Pressure | 7.00% | ~42,784 |
+| On the Trail of the Enemy | 7.00% | ~42,784 |
+| Light in the Darkness | 7.00% | ~42,784 |
+| Flag Burning | 7.00% | ~42,784 |
+| Night Hunter | 7.00% | ~42,784 |
+| Get Outta My House! | 6.00% | ~36,672 |
+| It Wasn't That Hard, Was It? | 6.00% | ~36,672 |
+| Being All Social | 6.00% | ~36,672 |
 | Debris and Ashes | 5.00% | ~30,560 |
 | We Will Be Heard! | 5.00% | ~30,560 |
 | Known Associate | 5.00% | ~30,560 |
@@ -56,8 +56,8 @@ Number of Ratings: 7,305  (23.09.2022)
 | Get the Point? | 0.80% | ~4,890 |
 | Revenants | 0.70% | ~4,278 |
 | Tanning Salon | 0.70% | ~4,278 |
-| My Friend, Ciro | 0.70% | ~1,796 |
-| Skullcrusher | 0.70% | ~1,796 |
+| My Friend, Ciro | 0.70% | ~1,797 |
+| Skullcrusher | 0.70% | ~1,797 |
 | Lightning Reflexes | 0.40% | ~2,445 |
 | A Friend in Need... | 0.30% | ~1,834 |
 | Man On a Mission | 0.30% | ~1,834 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~257 |
 | Connoisseur | 0.10% | ~257 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 611,191 (Ranked 27)  
+Progressed: 611,205 (Ranked 27)  
 Completed: 62 (0.01%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 62 (0.01%) (Ranked 242)
 | 2023-08-10 | 610,337 | 62 |
 | 2023-08-11 | 610,694 | 62 |
 | 2023-08-12 | 611,100 | 62 |
-| 2023-08-13 | 611,191 | 62 |
+| 2023-08-13 | 611,205 | 62 |
 ## Awards
 Max (Character Customization): 8,770  (Ranked 39)  
 Sum: 21,040 (Ranked 54)  

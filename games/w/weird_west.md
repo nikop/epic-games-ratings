@@ -6,20 +6,20 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 88.00% | ~1,584 |
-| Self-Improvement | 72.00% | ~1,296 |
-| Perky | 66.00% | ~1,188 |
-| Let’s Ride | 60.00% | ~1,080 |
-| Welcome to the Weird West | 57.00% | ~1,026 |
-| Dead or Alive | 56.00% | ~1,008 |
+| Unforgiven | 88.00% | ~1,585 |
+| Self-Improvement | 72.00% | ~1,297 |
+| Perky | 66.00% | ~1,189 |
+| Let’s Ride | 60.00% | ~1,081 |
+| Welcome to the Weird West | 57.00% | ~1,027 |
+| Dead or Alive | 56.00% | ~1,009 |
 | Full House | 37.00% | ~666 |
 | Off the Trail | 34.00% | ~612 |
 | Justice Served | 29.00% | ~522 |
 | Chain Reaction | 27.00% | ~486 |
-| Through Their Eyes | 26.00% | ~468 |
 | Dishonored | 25.00% | ~450 |
 | Rain of Death | 25.00% | ~450 |
 | Scholar | 25.00% | ~450 |
+| Through Their Eyes | 25.00% | ~450 |
 | The Great Escape | 23.00% | ~414 |
 | That’s All, Folks | 18.00% | ~324 |
 | Fallen Star | 16.00% | ~288 |
@@ -36,20 +36,20 @@ Number of Ratings: 125  (23.09.2022)
 | There is Hope | 11.00% | ~198 |
 | The Philosopher’s Stone | 10.00% | ~180 |
 | Loyalty to the Pack | 9.00% | ~162 |
-| Eternity Can Wait | 9.00% | ~162 |
 | Mystery Machine | 9.00% | ~162 |
 | Do Not Pass Go… | 8.00% | ~144 |
 | Gold Digger | 8.00% | ~144 |
-| Monster Hunter | 8.00% | ~144 |
+| Eternity Can Wait | 8.00% | ~144 |
 | Knuckle Sandwich | 8.00% | ~144 |
 | Getting the Gang Back Together | 7.00% | ~126 |
+| Monster Hunter | 7.00% | ~126 |
 | Healing Old Wounds | 6.00% | ~108 |
 | Who You Gonna Call? | 6.00% | ~108 |
 | This Is Sparta | 5.00% | ~90 |
 | What’s in the Box? | 5.00% | ~90 |
 | Ghost Town | 3.00% | ~54 |
-| Lord Inut Sends His Regards | 3.00% | ~54 |
 | Moondrunk | 3.00% | ~54 |
+| Lord Inut Sends His Regards | 2.00% | ~36 |
 | 'Ma Barker | 2.00% | ~36 |
 | Hog Wild | 1.00% | ~18 |
 | I Kicked a Bird and I Liked it | 0.90% | ~16 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Revenant | 0.40% | ~7 |
 | Winter Has Come | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,800 (Ranked 171)  
+Progressed: 1,801 (Ranked 171)  
 Completed: 4 (0.22%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,7 +160,7 @@ Completed: 4 (0.22%) (Ranked 178)
 | 2023-08-09 | 1,796 | 4 |
 | 2023-08-10 | 1,797 | 4 |
 | 2023-08-12 | 1,798 | 4 |
-| 2023-08-13 | 1,800 | 4 |
+| 2023-08-13 | 1,801 | 4 |
 ## Awards
 Max (Impact the Story): 24  (Ranked 482)  
 Sum: 24 (Ranked 487)  

@@ -336,9 +336,9 @@
       "ID": "BADGE_BRILLIANT_NIGHT_CHAPTER_2",
       "SetID": "ak6pfjk",
       "Name": "Starry: Holy Mountain",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 82
+      "UsersEstimate": 84
     },
     {
       "ID": "BADGE_BRILLIANT_NIGHT_CHAPTER_3",
@@ -609,8 +609,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-08-13T08:05:54.7715928+00:00",
+  "LastChanged_Achievements": "2023-08-13T09:06:15.3999122+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:19.4683663+00:00",
-  "LastUpdate_Ratings": "2023-08-13T08:00:23.6779734+00:00",
-  "LastUpdate_Achievements": "2023-08-13T08:05:54.7716481+00:00"
+  "LastUpdate_Ratings": "2023-08-13T09:00:52.2959033+00:00",
+  "LastUpdate_Achievements": "2023-08-13T09:06:15.399961+00:00"
 }
