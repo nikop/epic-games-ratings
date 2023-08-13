@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 45.07% |
+| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 44.44% |
 | 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.41% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 39.53% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
@@ -27,7 +27,7 @@
 | 25 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 10.53% |
 | 26 | [Out of Bounds](games/o/out_of_bounds.md) | 10.34% |
 | 27 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.30% |
-| 28 | [Sonic Origins](games/s/sonic_origins.md) | 9.74% |
+| 28 | [Sonic Origins](games/s/sonic_origins.md) | 9.72% |
 | 29 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 9.30% |
 | 29 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.30% |
 | 31 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.04% |
@@ -36,8 +36,8 @@
 | 34 | [Smelter](games/s/smelter.md) | 7.69% |
 | 35 | [Ravenlok](games/r/ravenlok.md) | 7.45% |
 | 36 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.95% |
-| 37 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.93% |
 | 37 | [Scorn](games/s/scorn.md) | 6.93% |
+| 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.92% |
 | 39 | [Time Loader](games/t/time_loader.md) | 6.84% |
 | 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.46% |
 | 41 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
@@ -169,8 +169,8 @@
 | 166 | [The First Tree](games/t/the_first_tree.md) | 0.30% |
 | 168 | [Scrapnaut](games/s/scrapnaut.md) | 0.29% |
 | 169 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
-| 170 | [Against the Storm](games/a/against_the_storm.md) | 0.26% |
-| 170 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.26% |
+| 170 | [Against the Storm](games/a/against_the_storm.md) | 0.27% |
+| 171 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.26% |
 | 172 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
 | 173 | [Blanc](games/b/blanc.md) | 0.24% |
 | 173 | [Despot's Game](games/d/despot's_game.md) | 0.24% |

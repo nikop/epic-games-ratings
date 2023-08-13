@@ -2,7 +2,7 @@
 | - | ---- | ------ | ------ | -------------- |
 | 1 | [Fortnite](games/f/fortnite.md) | 1,575,381 | 4.29 | 792 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 501,188 | 4.49 | 576 |
-| 3 | [Genshin Impact](games/g/genshin_impact.md) | 301,915 | 4.68 | 240 |
+| 3 | [Genshin Impact](games/g/genshin_impact.md) | 301,972 | 4.68 | 240 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 211,556 | 4.68 | 240 |
 | 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 193,237 | 4.19 | 863 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 166,932 | 4.88 | 18 |
@@ -34,7 +34,7 @@
 | 32 | [NBA 2K21](games/n/nba_2k21.md) | 11,740 | 4.39 | 705 |
 | 33 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,362 | 4.69 | 214 |
 | 34 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 11,104 | 4.45 | 631 |
-| 35 | [Satisfactory](games/s/satisfactory.md) | 11,027 | 4.88 | 18 |
+| 35 | [Satisfactory](games/s/satisfactory.md) | 11,044 | 4.88 | 18 |
 | 36 | [SnowRunner](games/s/snowrunner.md) | 9,898 | 4.76 | 118 |
 | 37 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,776 | 4.61 | 365 |
 | 38 | [HITMAN World of Assassination](games/h/hitman_3.md) | 9,687 | 4.78 | 100 |
@@ -67,7 +67,7 @@
 | 65 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,540 | 4.85 | 41 |
 | 66 | [Rogue Company](games/r/rogue_company.md) | 5,255 | 4.33 | 765 |
 | 67 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,145 | 4.06 | 918 |
-| 68 | [Cities: Skylines](games/c/cities__skylines.md) | 5,131 | 4.65 | 301 |
+| 68 | [Cities: Skylines](games/c/cities__skylines.md) | 5,132 | 4.65 | 301 |
 | 69 | [MultiVersus](games/m/multiversus.md) | 4,746 | 4.56 | 470 |
 | 70 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,717 | 4.69 | 214 |
 | 71 | [Shop Titans](games/s/shop_titans.md) | 4,698 | 3.99 | 929 |
@@ -172,8 +172,8 @@
 | 170 | [Neon Abyss](games/n/neon_abyss.md) | 680 | 4.68 | 240 |
 | 171 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 667 | 4.61 | 365 |
 | 172 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 664 | 4.67 | 259 |
-| 173 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 657 | 4.74 | 146 |
-| 174 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 655 | 4.75 | 134 |
+| 173 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 659 | 4.75 | 134 |
+| 174 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 657 | 4.74 | 146 |
 | 175 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 642 | 4.74 | 146 |
 | 176 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 632 | 4.60 | 389 |
 | 177 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 627 | 4.50 | 558 |
@@ -215,7 +215,7 @@
 | 213 | [Warface](games/w/warface.md) | 405 | 3.91 | 946 |
 | 214 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 399 | 3.94 | 940 |
 | 214 | [Slime Rancher](games/s/slime_rancher.md) | 399 | 4.82 | 66 |
-| 216 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 395 | 4.69 | 214 |
+| 216 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 398 | 4.69 | 214 |
 | 217 | [Nuclear Throne](games/n/nuclear_throne.md) | 385 | 4.79 | 88 |
 | 218 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 382 | 4.61 | 365 |
 | 219 | [For The King](games/f/for_the_king.md) | 379 | 4.70 | 198 |
@@ -352,8 +352,8 @@
 | 350 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 89 | 4.54 | 497 |
 | 350 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 89 | 4.68 | 240 |
 | 352 | [Armored Warfare](games/a/armored_warfare.md) | 88 | 4.11 | 902 |
-| 353 | [RAILGRADE](games/r/railgrade.md) | 87 | 4.54 | 497 |
-| 353 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 87 | 4.83 | 59 |
+| 352 | [RAILGRADE](games/r/railgrade.md) | 88 | 4.54 | 497 |
+| 354 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 87 | 4.83 | 59 |
 | 355 | [Dead Space](games/d/dead_space.md) | 86 | 4.61 | 365 |
 | 356 | [Cave Story+](games/c/cave_story+.md) | 85 | 4.76 | 118 |
 | 356 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 85 | 4.60 | 389 |
