@@ -6,8 +6,8 @@
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
 | 5 | [Overloop](games/o/overloop.md) | 25.00% |
 | 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 24.14% |
-| 8 | [Volley Pals](games/v/volley_pals.md) | 23.91% |
+| 7 | [Volley Pals](games/v/volley_pals.md) | 23.91% |
+| 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 23.33% |
 | 9 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 22.58% |
 | 10 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 10 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
@@ -27,7 +27,7 @@
 | 25 | [Out of Bounds](games/o/out_of_bounds.md) | 10.34% |
 | 26 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.26% |
 | 27 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 10.00% |
-| 28 | [Sonic Origins](games/s/sonic_origins.md) | 9.72% |
+| 28 | [Sonic Origins](games/s/sonic_origins.md) | 9.69% |
 | 29 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 9.30% |
 | 29 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.30% |
 | 31 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.03% |
@@ -47,13 +47,13 @@
 | 45 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.36% |
 | 46 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.26% |
 | 47 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.84% |
-| 48 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.80% |
+| 48 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.79% |
 | 49 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 4.76% |
 | 49 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 4.76% |
 | 51 | [Bugsnax](games/b/bugsnax.md) | 4.71% |
 | 52 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.69% |
 | 53 | [JARS](games/j/jars.md) | 4.62% |
-| 54 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.60% |
+| 54 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.57% |
 | 55 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.55% |
 | 56 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.20% |
 | 57 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.98% |
@@ -84,8 +84,8 @@
 | 82 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.36% |
 | 83 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.33% |
 | 84 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.28% |
-| 85 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 2.27% |
-| 86 | [Bloodshore](games/b/bloodshore.md) | 2.22% |
+| 85 | [Bloodshore](games/b/bloodshore.md) | 2.22% |
+| 85 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 2.22% |
 | 87 | [FORECLOSED](games/f/foreclosed.md) | 2.17% |
 | 88 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.03% |
 | 89 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.98% |
