@@ -4,18 +4,18 @@
 | 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.41% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 38.64% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
-| 5 | [Overloop](games/o/overloop.md) | 25.00% |
-| 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 7 | [Volley Pals](games/v/volley_pals.md) | 23.91% |
-| 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 23.53% |
-| 9 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 22.58% |
-| 10 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
-| 10 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
-| 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
-| 13 | [Island Cities](games/i/island_cities.md) | 18.04% |
-| 14 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 15.25% |
+| 5 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
+| 6 | [Overloop](games/o/overloop.md) | 25.00% |
+| 7 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
+| 8 | [Volley Pals](games/v/volley_pals.md) | 23.91% |
+| 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 23.53% |
+| 10 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 22.58% |
+| 11 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
+| 11 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
+| 13 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
+| 14 | [Island Cities](games/i/island_cities.md) | 18.04% |
 | 15 | [Anna's Quest](games/a/anna's_quest.md) | 15.15% |
-| 16 | [Afterglitch](games/a/afterglitch.md) | 14.29% |
+| 16 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 15.13% |
 | 17 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 13.94% |
 | 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.07% |
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.27% |
@@ -34,7 +34,7 @@
 | 32 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.48% |
 | 33 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 7.94% |
 | 34 | [Smelter](games/s/smelter.md) | 7.69% |
-| 35 | [Ravenlok](games/r/ravenlok.md) | 7.45% |
+| 35 | [Ravenlok](games/r/ravenlok.md) | 7.54% |
 | 36 | [Scorn](games/s/scorn.md) | 6.92% |
 | 37 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.90% |
 | 38 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.88% |
@@ -45,7 +45,7 @@
 | 43 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.98% |
 | 44 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.45% |
 | 45 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.36% |
-| 46 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.26% |
+| 46 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.19% |
 | 47 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.83% |
 | 48 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.79% |
 | 49 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 4.76% |
@@ -227,13 +227,13 @@
 | 224 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.04% |
 | 224 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.04% |
 | 224 | [Old World](games/o/old_world.md) | 0.04% |
+| 224 | [Remnant 2](games/r/remnant_2.md) | 0.04% |
 | 224 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.04% |
 | 224 | [Tropico 6](games/t/tropico_6.md) | 0.04% |
-| 230 | [Football Manager 2023](games/f/football_manager_2023.md) | 0.03% |
-| 230 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 0.03% |
-| 230 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
-| 230 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 0.03% |
-| 230 | [Remnant 2](games/r/remnant_2.md) | 0.03% |
+| 231 | [Football Manager 2023](games/f/football_manager_2023.md) | 0.03% |
+| 231 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 0.03% |
+| 231 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
+| 231 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 0.03% |
 | 235 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 0.02% |
 | 235 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
 | 235 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 0.02% |
