@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2020-03-31T12:00:00+00:00",
@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5277,
+  "EOS_Progressed": 5279,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2885,6 +2885,11 @@
       "Time": "2023-08-13T14:04:14.9256182+00:00",
       "NumProgressed": 5277,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-13T18:04:38.4716565+00:00",
+      "NumProgressed": 5279,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -2984,7 +2989,7 @@
       "Name": "Level: Extra Life",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "ach_campaign_progress3",
@@ -3000,7 +3005,7 @@
       "Name": "Level: Topple The Top",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ach_campaign_progress5",
@@ -3008,7 +3013,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 2638
+      "UsersEstimate": 2640
     },
     {
       "ID": "ach_campaign_progress6",
@@ -3048,7 +3053,7 @@
       "Name": "Returning Home: Quick Learner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1372
+      "UsersEstimate": 1373
     },
     {
       "ID": "ach_campaign_special10",
@@ -3144,7 +3149,7 @@
       "Name": "Rising Markets: Avoiding the Reds",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "ach_campaign_special5",
@@ -3320,7 +3325,7 @@
       "Name": "Data Churn Type I",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "ach_frp_researchdata2",
@@ -3503,15 +3508,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5277,
+      "Progressed": 5279,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-07-16T00:00:06.2705867+00:00",
-  "LastChanged_Achievements": "2023-08-13T17:05:00.761119+00:00",
+  "LastChanged_Achievements": "2023-08-13T18:04:38.471656+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:43.4719321+00:00",
-  "LastUpdate_Ratings": "2023-08-13T17:01:17.8603805+00:00",
-  "LastUpdate_Achievements": "2023-08-13T17:05:00.7612214+00:00"
+  "LastUpdate_Ratings": "2023-08-13T18:00:42.3035894+00:00",
+  "LastUpdate_Achievements": "2023-08-13T18:04:38.4717513+00:00"
 }

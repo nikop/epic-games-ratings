@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 65,
   "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
     "PcReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -974,9 +974,9 @@
       "ID": "carla_journey",
       "SetID": "69co12a",
       "Name": "The lonesome road",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 77
     },
     {
       "ID": "courier_win",
@@ -1006,9 +1006,9 @@
       "ID": "fight_win_10",
       "SetID": "69co12a",
       "Name": "Fighting is cool",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 174
+      "UsersEstimate": 176
     },
     {
       "ID": "fight_win_25",
@@ -1038,41 +1038,41 @@
       "ID": "flash_bobo",
       "SetID": "69co12a",
       "Name": "Keep nature safe",
-      "Percentage": 29,
-      "XP": 15,
-      "UsersEstimate": 72
-    },
-    {
-      "ID": "flash_delivery",
-      "SetID": "69co12a",
-      "Name": "Family comes first",
-      "Percentage": 29,
-      "XP": 15,
-      "UsersEstimate": 72
-    },
-    {
-      "ID": "flash_k",
-      "SetID": "69co12a",
-      "Name": "Key memories",
       "Percentage": 30,
       "XP": 15,
       "UsersEstimate": 74
     },
     {
+      "ID": "flash_delivery",
+      "SetID": "69co12a",
+      "Name": "Family comes first",
+      "Percentage": 30,
+      "XP": 15,
+      "UsersEstimate": 74
+    },
+    {
+      "ID": "flash_k",
+      "SetID": "69co12a",
+      "Name": "Key memories",
+      "Percentage": 31,
+      "XP": 15,
+      "UsersEstimate": 77
+    },
+    {
       "ID": "flash_silver",
       "SetID": "69co12a",
       "Name": "Silver\u2019s past",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 67
     },
     {
       "ID": "flash_yakuza",
       "SetID": "69co12a",
       "Name": "Better cooking at home",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 67
     },
     {
       "ID": "get_tape",
@@ -1094,33 +1094,33 @@
       "ID": "hack_device",
       "SetID": "69co12a",
       "Name": "Not little hacker",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 77
     },
     {
       "ID": "hack_gpp",
       "SetID": "69co12a",
       "Name": "Little hacker",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 146
+      "UsersEstimate": 149
     },
     {
       "ID": "handyman",
       "SetID": "69co12a",
       "Name": "Handyman",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 146
     },
     {
       "ID": "huey_win",
       "SetID": "69co12a",
       "Name": "No bullying more",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 171
+      "UsersEstimate": 174
     },
     {
       "ID": "intro_dream",
@@ -1222,9 +1222,9 @@
       "ID": "nero_extrime",
       "SetID": "69co12a",
       "Name": "Extreme neuropower!",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 131
+      "UsersEstimate": 134
     },
     {
       "ID": "not_ok",
@@ -1278,9 +1278,9 @@
       "ID": "police_promotion_3",
       "SetID": "69co12a",
       "Name": "The last bell ring",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 74
     },
     {
       "ID": "prof_promotion_1",
@@ -1318,9 +1318,9 @@
       "ID": "resistance_true",
       "SetID": "69co12a",
       "Name": "The heart of the Resistance",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 77
     },
     {
       "ID": "seashell_hunter",
@@ -1398,9 +1398,9 @@
       "ID": "work_promotion_2",
       "SetID": "69co12a",
       "Name": "Employee of the month",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 161
+      "UsersEstimate": 164
     },
     {
       "ID": "work_promotion_3",
@@ -1421,8 +1421,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-08-13T17:05:30.1340092+00:00",
+  "LastChanged_Achievements": "2023-08-13T18:05:05.4995621+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:18.7618858+00:00",
-  "LastUpdate_Ratings": "2023-08-13T16:59:21.9367012+00:00",
-  "LastUpdate_Achievements": "2023-08-13T17:05:30.1340884+00:00"
+  "LastUpdate_Ratings": "2023-08-13T17:58:58.9941383+00:00",
+  "LastUpdate_Achievements": "2023-08-13T18:05:05.4996155+00:00"
 }

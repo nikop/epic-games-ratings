@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 253,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
     "PcReleaseDate": "2022-03-17T09:00:00+00:00",
@@ -103,9 +103,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 658,
+  "EOS_Progressed": 659,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -448,6 +448,11 @@
       "Time": "2023-08-13T17:07:34.1568886+00:00",
       "NumProgressed": 658,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-13T18:06:59.3332254+00:00",
+      "NumProgressed": 659,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -515,7 +520,7 @@
       "Name": "Deadly Kombationem",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "Fire in the hole!",
@@ -547,7 +552,7 @@
       "Name": "I just love stuff!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "I_think_its_broke",
@@ -571,7 +576,7 @@
       "Name": "Keep \u0027em coming!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "Lady_Luck",
@@ -603,7 +608,7 @@
       "Name": "Science, it works!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "So_Fresh",
@@ -627,7 +632,7 @@
       "Name": "Tell me your story",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "Thats_gotta_hurt",
@@ -643,7 +648,7 @@
       "Name": "The Traveler",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "The_Age_of_Mutationem",
@@ -746,7 +751,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 658,
+      "Progressed": 659,
       "Completed": 0
     }
   ],
@@ -754,8 +759,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-08-11T17:59:11.6901866+00:00",
-  "LastChanged_Achievements": "2023-08-13T17:07:34.156888+00:00",
+  "LastChanged_Achievements": "2023-08-13T18:06:59.3332246+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:16.109066+00:00",
-  "LastUpdate_Ratings": "2023-08-13T16:59:35.3314846+00:00",
-  "LastUpdate_Achievements": "2023-08-13T17:07:34.1569216+00:00"
+  "LastUpdate_Ratings": "2023-08-13T17:59:11.3659217+00:00",
+  "LastUpdate_Achievements": "2023-08-13T18:06:59.3332468+00:00"
 }

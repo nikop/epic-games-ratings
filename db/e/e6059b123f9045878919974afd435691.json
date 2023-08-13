@@ -4,8 +4,8 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -1641,9 +1641,9 @@
       "ID": "ATK_ACHIEVEMENT_3",
       "SetID": "9lcahn0",
       "Name": "I Can Do This All Day",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 36
     },
     {
       "ID": "ATK_ACHIEVEMENT_4",
@@ -1665,9 +1665,9 @@
       "ID": "BARK_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "The Judge, the Jury and the ... Barkannan",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 29
     },
     {
       "ID": "BARK_ACHIEVEMENT_3",
@@ -1705,9 +1705,9 @@
       "ID": "BURN_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Burnt Smell",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 123
     },
     {
       "ID": "BURN_ACHIEVEMENT_2",
@@ -1721,17 +1721,17 @@
       "ID": "BURN_ACHIEVEMENT_3",
       "SetID": "9lcahn0",
       "Name": "He\u0027s Getting Crazier",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 36
     },
     {
       "ID": "BURN_ACHIEVEMENT_4",
       "SetID": "9lcahn0",
       "Name": "Completing The Duty",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 22
     },
     {
       "ID": "BURN_ACHIEVEMENT_5",
@@ -2120,8 +2120,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-08-13T17:08:10.5392676+00:00",
+  "LastChanged_Achievements": "2023-08-13T18:07:33.0230476+00:00",
   "LastUpdate_AppInfo": "2023-08-10T15:57:09.1792695+00:00",
-  "LastUpdate_Ratings": "2023-08-13T16:58:31.1626321+00:00",
-  "LastUpdate_Achievements": "2023-08-13T17:08:10.5393527+00:00"
+  "LastUpdate_Ratings": "2023-08-13T17:58:11.9926256+00:00",
+  "LastUpdate_Achievements": "2023-08-13T18:07:33.0231071+00:00"
 }

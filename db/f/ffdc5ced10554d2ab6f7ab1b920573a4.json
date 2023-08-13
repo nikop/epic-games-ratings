@@ -4,8 +4,8 @@
   "ProductSlug": "youcandomino-04e596",
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 357,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 356,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-06-22T15:00:00+00:00",
     "PcReleaseDate": "2023-02-06T15:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-09T18:57:07.3884942+00:00",
-  "LastUpdate_Ratings": "2023-08-13T16:58:44.5386455+00:00",
+  "LastUpdate_Ratings": "2023-08-13T17:58:25.1036303+00:00",
   "LastUpdate_Achievements": "2023-08-13T17:03:06.3687576+00:00"
 }

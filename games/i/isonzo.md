@@ -8,14 +8,14 @@ Number of Ratings: 98  (23.09.2022)
 | ---- | ---------- | ----- |
 | Peak Performance | 55.00% | ~3,649 |
 | Tutti Eroi! | 55.00% | ~3,649 |
-| You Shall Not Pass | 53.00% | ~3,516 |
+| You Shall Not Pass | 53.00% | ~3,517 |
 | Avanti Savoia! | 47.00% | ~3,118 |
 | Mamma Mia! | 38.00% | ~2,521 |
-| Conrad von Hotzensocks | 36.00% | ~2,388 |
-| Gabriele D'Annunzio | 33.00% | ~2,189 |
+| Conrad von Hotzensocks | 36.00% | ~2,389 |
+| Gabriele D'Annunzio | 33.00% | ~2,190 |
 | Silver Lining | 30.00% | ~1,990 |
 | Aurelio Baruzzi | 23.00% | ~1,526 |
-| Veni Vidi Vici | 22.00% | ~1,459 |
+| Veni Vidi Vici | 22.00% | ~1,460 |
 | Decimation | 21.00% | ~1,393 |
 | Donatello | 21.00% | ~1,393 |
 | Insubordination | 20.00% | ~1,327 |
@@ -25,14 +25,14 @@ Number of Ratings: 98  (23.09.2022)
 | Luigi Cadorna | 15.00% | ~995 |
 | Dirty Dozen | 14.00% | ~929 |
 | Uomo Universale | 14.00% | ~929 |
-| Machiavelli | 13.00% | ~862 |
-| Shaken, Not Stirred | 13.00% | ~862 |
-| Thus With A Kiss | 13.00% | ~862 |
+| Machiavelli | 13.00% | ~863 |
+| Shaken, Not Stirred | 13.00% | ~863 |
+| Thus With A Kiss | 13.00% | ~863 |
 | Die Bosniaken Kommen! | 12.00% | ~796 |
 | Dante's Inferno | 11.00% | ~730 |
 | The Devil's Paintbrush | 11.00% | ~730 |
-| I Have the High Ground | 10.00% | ~663 |
-| Millenial | 10.00% | ~663 |
+| I Have the High Ground | 10.00% | ~664 |
+| Millenial | 10.00% | ~664 |
 | The Show Must Go On | 9.00% | ~597 |
 | Tosca | 9.00% | ~597 |
 | 12th Bottle of the Isonzo | 6.00% | ~398 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~27 |
 | Can I Go Home Now? | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,634 (Ranked 134)  
+Progressed: 6,635 (Ranked 134)  
 Completed: 8 (0.12%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,7 +162,7 @@ Completed: 8 (0.12%) (Ranked 196)
 | 2023-08-10 | 6,604 | 8 |
 | 2023-08-11 | 6,614 | 8 |
 | 2023-08-12 | 6,627 | 8 |
-| 2023-08-13 | 6,634 | 8 |
+| 2023-08-13 | 6,635 | 8 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 437)  
 Sum: 266 (Ranked 351)  

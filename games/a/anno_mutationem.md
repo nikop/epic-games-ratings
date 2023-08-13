@@ -5,10 +5,10 @@ Rating: 4.57 (Ranked 449)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tell me your story | 76.00% | ~500 |
+| Tell me your story | 76.00% | ~501 |
 | Don't judge a manhole by its cover | 60.00% | ~395 |
-| I just love stuff! | 42.00% | ~276 |
-| Keep 'em coming! | 42.00% | ~276 |
+| I just love stuff! | 42.00% | ~277 |
+| Keep 'em coming! | 42.00% | ~277 |
 | Big Spender | 38.00% | ~250 |
 | The things they print nowadays | 38.00% | ~250 |
 | That's gotta hurt | 36.00% | ~237 |
@@ -19,7 +19,7 @@ Rating: 4.57 (Ranked 449)
 | The Warlord | 20.00% | ~132 |
 | Omnipotence | 19.00% | ~125 |
 | You are the One | 19.00% | ~125 |
-| Deadly Kombationem | 18.00% | ~118 |
+| Deadly Kombationem | 18.00% | ~119 |
 | The truth is out there | 16.00% | ~105 |
 | Annakin Skyscroller | 14.00% | ~92 |
 | In the smacker...I think | 10.00% | ~66 |
@@ -32,8 +32,8 @@ Rating: 4.57 (Ranked 449)
 | I feel secure, contained & protected | 7.00% | ~46 |
 | I'm walking here! | 7.00% | ~46 |
 | Supreme Bartender Ann | 7.00% | ~46 |
-| Science, it works! | 6.00% | ~39 |
-| The Traveler | 6.00% | ~39 |
+| Science, it works! | 6.00% | ~40 |
+| The Traveler | 6.00% | ~40 |
 | Woman on a (side) mission | 5.00% | ~33 |
 | Ann ULTRA | 3.00% | ~20 |
 | Lady Luck is a cool cat | 3.00% | ~20 |
@@ -42,7 +42,7 @@ Rating: 4.57 (Ranked 449)
 | Love me like I love my posters | 0.80% | ~5 |
 | The Age of Mutationem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 658 (Ranked 215)  
+Progressed: 659 (Ranked 215)  
 Completed: 0 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 0 (0.00%) (Ranked 255)
 | 2023-08-07 | 655 | 0 |
 | 2023-08-08 | 656 | 0 |
 | 2023-08-11 | 657 | 0 |
-| 2023-08-13 | 658 | 0 |
+| 2023-08-13 | 659 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

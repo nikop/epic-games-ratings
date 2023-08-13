@@ -568,9 +568,9 @@
       "Count": 215
     }
   ],
-  "EOS_Progressed": 465176,
+  "EOS_Progressed": 465178,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 526,
+  "EOS_NewPlayers": 522,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12533,6 +12533,11 @@
       "Time": "2023-08-13T17:06:28.1172064+00:00",
       "NumProgressed": 465176,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-08-13T18:05:58.599147+00:00",
+      "NumProgressed": 465178,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 79,
@@ -12598,9 +12603,9 @@
       "ID": "achievement_story_complete_chapter_5",
       "SetID": "8cokdon",
       "Name": "Chapter V: Memories of None",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 465
+      "UsersEstimate": 930
     },
     {
       "ID": "achievement_story_ending_earth",
@@ -13175,21 +13180,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 9110,
+      "Progressed": 9112,
       "Completed": 2355
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 465176,
+      "Progressed": 465178,
       "Completed": 17
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-08-11T15:01:05.19941+00:00",
-  "LastChanged_Achievements": "2023-08-13T17:06:28.1172056+00:00",
+  "LastChanged_Achievements": "2023-08-13T18:05:58.5991465+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:04.9098517+00:00",
-  "LastUpdate_Ratings": "2023-08-13T17:01:43.0886094+00:00",
-  "LastUpdate_Achievements": "2023-08-13T17:06:28.1173673+00:00"
+  "LastUpdate_Ratings": "2023-08-13T18:01:05.6596534+00:00",
+  "LastUpdate_Achievements": "2023-08-13T18:05:58.5992666+00:00"
 }

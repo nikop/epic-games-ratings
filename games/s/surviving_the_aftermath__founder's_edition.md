@@ -6,20 +6,20 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 72.00% | ~5,937 |
+| First Step | 72.00% | ~5,938 |
 | Leader | 60.00% | ~4,948 |
-| Explorer | 53.00% | ~4,370 |
+| Explorer | 53.00% | ~4,371 |
 | Healer | 52.00% | ~4,288 |
-| Aspiring Inventor | 44.00% | ~3,628 |
+| Aspiring Inventor | 44.00% | ~3,629 |
 | Adventurer | 41.00% | ~3,381 |
-| Famous Healer | 38.00% | ~3,133 |
+| Famous Healer | 38.00% | ~3,134 |
 | Local Leader | 35.00% | ~2,886 |
 | Famous Explorer | 34.00% | ~2,804 |
 | New Opportunities | 34.00% | ~2,804 |
-| Energized | 33.00% | ~2,721 |
-| The Long Haul | 33.00% | ~2,721 |
-| The Great Healer | 31.00% | ~2,556 |
-| Survivor | 31.00% | ~2,556 |
+| Energized | 33.00% | ~2,722 |
+| The Long Haul | 33.00% | ~2,722 |
+| The Great Healer | 31.00% | ~2,557 |
+| Survivor | 31.00% | ~2,557 |
 | Legendary Explorer | 28.00% | ~2,309 |
 | Cleaner | 28.00% | ~2,309 |
 | Catastrofan | 28.00% | ~2,309 |
@@ -35,9 +35,9 @@ Number of Ratings: 836  (23.09.2022)
 | Friendly | 17.00% | ~1,402 |
 | Big Game Hunter | 17.00% | ~1,402 |
 | Spreading Influence | 17.00% | ~1,402 |
-| Around the World | 16.00% | ~1,319 |
+| Around the World | 16.00% | ~1,320 |
 | Bookworm | 15.00% | ~1,237 |
-| Famous Adventurer | 14.00% | ~1,154 |
+| Famous Adventurer | 14.00% | ~1,155 |
 | Prepared for Anything | 13.00% | ~1,072 |
 | Big Catastrofan | 13.00% | ~1,072 |
 | It's a Finnish Thing | 10.00% | ~825 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~16 |
 | Customized calamities | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,246 (Ranked 127)  
+Progressed: 8,247 (Ranked 127)  
 Completed: 0 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 0 (0.00%) (Ranked 255)
 | 2023-08-10 | 8,168 | 0 |
 | 2023-08-11 | 8,186 | 0 |
 | 2023-08-12 | 8,216 | 0 |
-| 2023-08-13 | 8,246 | 0 |
+| 2023-08-13 | 8,247 | 0 |
 ## Awards
 Max (Extremely Fun): 100  (Ranked 335)  
 Sum: 686 (Ranked 276)  

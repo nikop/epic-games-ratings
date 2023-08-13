@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 117,
   "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
     "PcReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -368,9 +368,9 @@
       "ID": "Achievement20",
       "SetID": "jf6ho5",
       "Name": "Amokuali Tower",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "Achievement21",
@@ -449,8 +449,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2023-08-13T17:07:00.4707229+00:00",
+  "LastChanged_Achievements": "2023-08-13T18:06:28.8832949+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:11.5271676+00:00",
-  "LastUpdate_Ratings": "2023-08-13T16:57:41.277197+00:00",
-  "LastUpdate_Achievements": "2023-08-13T17:07:00.4707412+00:00"
+  "LastUpdate_Ratings": "2023-08-13T17:57:28.3307478+00:00",
+  "LastUpdate_Achievements": "2023-08-13T18:06:28.8833088+00:00"
 }

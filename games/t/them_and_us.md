@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alone with Them | 72.00% | ~148 |
-| Forced to Kill | 69.00% | ~142 |
-| A Night To Remember | 40.00% | ~82 |
+| Alone with Them | 71.00% | ~147 |
+| Forced to Kill | 69.00% | ~143 |
+| A Night To Remember | 40.00% | ~83 |
 | Safe...For now? | 33.00% | ~68 |
 | Open Sesame | 29.00% | ~60 |
 | What have I done!? | 18.00% | ~37 |
@@ -18,15 +18,15 @@
 | The Cultists | 13.00% | ~27 |
 | The Forgotten Tower | 12.00% | ~25 |
 | Lover of classics | 9.00% | ~19 |
-| Rest In Peace | 8.00% | ~16 |
-| The Curse Is Real | 8.00% | ~16 |
-| Trapped | 8.00% | ~16 |
+| Rest In Peace | 8.00% | ~17 |
+| The Curse Is Real | 8.00% | ~17 |
+| Trapped | 8.00% | ~17 |
 | Modern Player | 7.00% | ~14 |
 | What A Mansion | 7.00% | ~14 |
 | Researcher | 6.00% | ~12 |
 | I Am The Gate Keeper! | 6.00% | ~12 |
+| This Mansion Is Clean | 4.00% | ~8 |
 | The bus stop | 3.00% | ~6 |
-| This Mansion Is Clean | 3.00% | ~6 |
 | Armed To The Teeth | 2.00% | ~4 |
 | Spiritual essence well spent | 2.00% | ~4 |
 | Run and Gun | 2.00% | ~4 |
@@ -45,8 +45,8 @@
 | No Time To Relax | 0.50% | ~1 |
 | Survival Horror | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 206 (Ranked 285)  
-Completed: 1 (0.49%) (Ranked 143)  
+Progressed: 207 (Ranked 285)  
+Completed: 1 (0.48%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -102,6 +102,7 @@ Completed: 1 (0.49%) (Ranked 143)
 | 2023-08-05 | 204 | 1 |
 | 2023-08-07 | 205 | 1 |
 | 2023-08-08 | 206 | 1 |
+| 2023-08-13 | 207 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

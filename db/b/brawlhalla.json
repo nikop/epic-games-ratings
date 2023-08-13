@@ -2,13 +2,13 @@
   "ID": "15e6680a0c164ee189fcc3eb10398fd6",
   "Name": "Brawlhalla",
   "ProductSlug": "brawlhalla",
-  "Ranking_Rating": 388,
+  "Ranking_Rating": 364,
   "Ranking_Popularity": 246,
   "Ranking_PopularitySum": 173,
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 357,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 356,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-11-15T17:00:00+00:00",
     "PcReleaseDate": "2022-10-17T15:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.6,
+  "Rating": 4.61,
   "RatingHistory": [
     {
       "Time": "2022-11-21T06:57:02.0735411+00:00",
@@ -4986,10 +4986,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 2500,
       "NumberOfAwardsMax": 269
+    },
+    {
+      "Time": "2023-08-13T18:01:37.7948747+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 2501,
+      "NumberOfAwardsMax": 269
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2500,
+  "NumberOfAwards": 2501,
   "NumberOfAwardsMax": 269,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5045,7 +5051,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 196
+      "Count": 197
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5078,8 +5084,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-16T19:56:53.7213253+00:00",
   "FirstSeenRating": "2022-11-21T06:57:02.0735408+00:00",
-  "LastChanged": "2023-08-13T11:01:53.1711785+00:00",
+  "LastChanged": "2023-08-13T18:01:37.7948745+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:41.6870763+00:00",
-  "LastUpdate_Ratings": "2023-08-13T17:02:17.5163121+00:00",
-  "LastUpdate_Achievements": "2023-08-13T17:04:55.7485539+00:00"
+  "LastUpdate_Ratings": "2023-08-13T18:01:37.7948751+00:00",
+  "LastUpdate_Achievements": "2023-08-13T18:04:33.910894+00:00"
 }

@@ -6,13 +6,13 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 75.00% | ~3,538 |
-| Un-Lonely Island | 47.00% | ~2,217 |
-| The Beginning of a Servantship | 46.00% | ~2,170 |
+| Just One...More...Term... | 75.00% | ~3,540 |
+| Un-Lonely Island | 47.00% | ~2,218 |
+| The Beginning of a Servantship | 46.00% | ~2,171 |
 | Trade Is My Trait | 37.00% | ~1,746 |
-| Number 18 | 24.00% | ~1,132 |
-| We Don't Have Time For That | 19.00% | ~896 |
-| The Governator | 18.00% | ~849 |
+| Number 18 | 24.00% | ~1,133 |
+| We Don't Have Time For That | 19.00% | ~897 |
+| The Governator | 18.00% | ~850 |
 | The Legend of Langostino | 17.00% | ~802 |
 | Caribbean Comrade | 16.00% | ~755 |
 | The Dreamer of Dreams | 16.00% | ~755 |
@@ -21,9 +21,9 @@ Number of Ratings: 398  (23.09.2022)
 | Happy Ending? | 10.00% | ~472 |
 | Of Seals And Men | 10.00% | ~472 |
 | Shackadelic | 10.00% | ~472 |
-| Double Trouble | 8.00% | ~377 |
-| Firestarter | 8.00% | ~377 |
-| Make Tropico Great Again! | 8.00% | ~377 |
+| Double Trouble | 8.00% | ~378 |
+| Firestarter | 8.00% | ~378 |
+| Make Tropico Great Again! | 8.00% | ~378 |
 | I Owe You Nothing | 7.00% | ~330 |
 | French Connection | 7.00% | ~330 |
 | Don't Panic! | 6.00% | ~283 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~42 |
 | My Ways | 0.30% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,718 (Ranked 144)  
+Progressed: 4,720 (Ranked 144)  
 Completed: 2 (0.04%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,11 +162,11 @@ Completed: 2 (0.04%) (Ranked 224)
 | 2023-08-10 | 4,681 | 2 |
 | 2023-08-11 | 4,691 | 2 |
 | 2023-08-12 | 4,705 | 2 |
-| 2023-08-13 | 4,718 | 2 |
+| 2023-08-13 | 4,720 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 96  (Ranked 341)  
-Sum: 673 (Ranked 280)  
-Diff (max vs sum): 61  
+Sum: 674 (Ranked 279)  
+Diff (max vs sum): 62  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 106 |
@@ -174,7 +174,7 @@ Diff (max vs sum): 61
 | This game is Relaxing | 92 |
 | This game is Highly Recommended | 88 |
 | This game has Amazing Storytelling | 87 |
-| This game has Amazing Characters | 83 |
+| This game has Amazing Characters | 84 |
 | This game is Educational | 83 |
 | This game is Extremely Fun | 82 |
 | This game has a Creative Community | 62 |
@@ -303,3 +303,4 @@ Diff (max vs sum): 61
 | 2023-07-22 | 4.67 | - | 96 | 669 |
 | 2023-07-29 | 4.67 | - | 96 | 672 |
 | 2023-08-06 | 4.67 | - | 96 | 673 |
+| 2023-08-13 | 4.67 | - | 96 | 674 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 351,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -778,9 +778,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6634,
+  "EOS_Progressed": 6635,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -4453,6 +4453,11 @@
       "Time": "2023-08-13T16:06:15.7380942+00:00",
       "NumProgressed": 6634,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-08-13T18:07:07.5066853+00:00",
+      "NumProgressed": 6635,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -4512,7 +4517,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 2388
+      "UsersEstimate": 2389
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -4576,7 +4581,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 2189
+      "UsersEstimate": 2190
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -4600,7 +4605,7 @@
       "Name": "I Have the High Ground",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 663
+      "UsersEstimate": 664
     },
     {
       "ID": "ISONZO_ACH_LUIGI_CADORNA",
@@ -4616,7 +4621,7 @@
       "Name": "Machiavelli",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "ISONZO_ACH_MALPRACTICE",
@@ -4640,7 +4645,7 @@
       "Name": "Millenial",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 663
+      "UsersEstimate": 664
     },
     {
       "ID": "ISONZO_ACH_O_LA_VITTORIA_O_TUTTI_ACCOPPATI",
@@ -4704,7 +4709,7 @@
       "Name": "Shaken, Not Stirred",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "ISONZO_ACH_SILVER_LINING",
@@ -4776,7 +4781,7 @@
       "Name": "Thus With A Kiss",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "ISONZO_ACH_TOSCA",
@@ -4808,7 +4813,7 @@
       "Name": "Veni Vidi Vici",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1459
+      "UsersEstimate": 1460
     },
     {
       "ID": "ISONZO_ACH_YOU_SHALL_NOT_PASS",
@@ -4816,14 +4821,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 3516
+      "UsersEstimate": 3517
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6634,
+      "Progressed": 6635,
       "Completed": 8
     }
   ],
@@ -4831,8 +4836,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-08-10T01:59:14.1654715+00:00",
-  "LastChanged_Achievements": "2023-08-13T17:07:42.8215104+00:00",
+  "LastChanged_Achievements": "2023-08-13T18:07:07.5066848+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:23.8738209+00:00",
-  "LastUpdate_Ratings": "2023-08-13T16:59:30.9252427+00:00",
-  "LastUpdate_Achievements": "2023-08-13T17:07:42.8215984+00:00"
+  "LastUpdate_Ratings": "2023-08-13T17:59:06.8947818+00:00",
+  "LastUpdate_Achievements": "2023-08-13T18:07:07.5067354+00:00"
 }

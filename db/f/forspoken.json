@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -334,9 +334,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 39658,
+  "EOS_Progressed": 39659,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7254,6 +7254,11 @@
       "Time": "2023-08-13T17:04:42.8501419+00:00",
       "NumProgressed": 39658,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-13T18:04:21.7132513+00:00",
+      "NumProgressed": 39659,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -7457,7 +7462,7 @@
       "Name": "Leapfrogger",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2379
+      "UsersEstimate": 2380
     },
     {
       "ID": "LOCATION_FIFTY",
@@ -7553,7 +7558,7 @@
       "Name": "Pilgrimage: Initiate",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2379
+      "UsersEstimate": 2380
     },
     {
       "ID": "MONUMENT_TWENTY",
@@ -7617,7 +7622,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2379
+      "UsersEstimate": 2380
     },
     {
       "ID": "STAYING_AIR",
@@ -7688,22 +7693,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 39658,
+      "Progressed": 39659,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 4495,
-      "Completed": 4495
+      "Progressed": 4496,
+      "Completed": 4496
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-08-08T01:54:06.2401018+00:00",
-  "LastChanged_Achievements": "2023-08-13T17:04:42.8501415+00:00",
+  "LastChanged_Achievements": "2023-08-13T18:04:21.7132507+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:15.0269644+00:00",
-  "LastUpdate_Ratings": "2023-08-13T17:00:43.1698912+00:00",
-  "LastUpdate_Achievements": "2023-08-13T17:04:42.8502408+00:00"
+  "LastUpdate_Ratings": "2023-08-13T18:00:12.5327593+00:00",
+  "LastUpdate_Achievements": "2023-08-13T18:04:21.7133194+00:00"
 }

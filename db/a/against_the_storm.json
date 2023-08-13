@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -2666,7 +2666,7 @@
       "Count": 313
     }
   ],
-  "EOS_Progressed": 16274,
+  "EOS_Progressed": 16275,
   "EOS_Completed": 44,
   "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 2,
@@ -8996,6 +8996,11 @@
       "Time": "2023-08-13T17:06:35.3919496+00:00",
       "NumProgressed": 16274,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-08-13T18:06:05.2943891+00:00",
+      "NumProgressed": 16275,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 50,
@@ -9007,7 +9012,7 @@
       "Name": "Serving Ale",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "AllFood",
@@ -9079,7 +9084,7 @@
       "Name": "Refinery",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "Win5Years",
@@ -9111,7 +9116,7 @@
       "Name": "Against All Odds",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "WinNearArmory",
@@ -9119,7 +9124,7 @@
       "Name": "Ruined Armory",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "WinNearBandit",
@@ -9159,7 +9164,7 @@
       "Name": "Dangerous Lands",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "WinNearFertile",
@@ -9175,7 +9180,7 @@
       "Name": "Fishmen Ritual Site",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "WinNearForbidden",
@@ -9183,7 +9188,7 @@
       "Name": "Forbidden Lands",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "WinNearHaunted",
@@ -9191,7 +9196,7 @@
       "Name": "Haunted Forest",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "WinNearLevitating",
@@ -9207,7 +9212,7 @@
       "Name": "Flooded Mines",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "WinNearMonastery",
@@ -9247,7 +9252,7 @@
       "Name": "Forsaken Gods Temple",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "WinNearTorrent",
@@ -9255,7 +9260,7 @@
       "Name": "Corrosive Torrent",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "WinNearWatchtower",
@@ -9367,7 +9372,7 @@
       "Name": "Like a Machine",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "WinWithTradeRoutes",
@@ -9391,7 +9396,7 @@
       "Name": "Defying the Crown",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "Year1Dangerous",
@@ -9399,22 +9404,22 @@
       "Name": "Into the Forest",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     }
   ],
   "AchievementSets": [
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 16274,
+      "Progressed": 16275,
       "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-08-13T16:57:45.4495547+00:00",
-  "LastChanged_Achievements": "2023-08-13T17:06:35.391949+00:00",
+  "LastChanged_Achievements": "2023-08-13T18:06:05.2943888+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:15.5100545+00:00",
-  "LastUpdate_Ratings": "2023-08-13T16:57:45.4495554+00:00",
-  "LastUpdate_Achievements": "2023-08-13T17:06:35.3920485+00:00"
+  "LastUpdate_Ratings": "2023-08-13T17:57:32.4398354+00:00",
+  "LastUpdate_Achievements": "2023-08-13T18:06:05.2944525+00:00"
 }

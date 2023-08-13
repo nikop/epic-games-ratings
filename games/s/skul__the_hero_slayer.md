@@ -15,7 +15,7 @@ Number of Ratings: 546  (23.09.2022)
 | Rules of Etiquette | 40.00% | ~3,245 |
 | Quick Movements | 34.00% | ~2,758 |
 | Inventory Management | 34.00% | ~2,758 |
-| The Fall of the Leonia Order | 30.00% | ~2,434 |
+| The Fall of the Leonia Order | 31.00% | ~2,515 |
 | The Hero Killer | 28.00% | ~2,271 |
 | The Final Battle of the First Hero | 27.00% | ~2,190 |
 | Go Home... | 27.00% | ~2,190 |

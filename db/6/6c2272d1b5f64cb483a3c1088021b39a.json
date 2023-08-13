@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
     "PcReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 920,
+  "EOS_Progressed": 921,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2866,6 +2866,11 @@
       "Time": "2023-08-13T15:07:34.7325603+00:00",
       "NumProgressed": 920,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-13T18:06:47.9880944+00:00",
+      "NumProgressed": 921,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2877,7 +2882,7 @@
       "Name": "Adventurous 1",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "adventurous_2",
@@ -3187,9 +3192,9 @@
       "ID": "lord_of_the_tower_1",
       "SetID": "53c1p3k",
       "Name": "Lord of the Tower 1",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 18
     },
     {
       "ID": "lord_of_the_tower_2",
@@ -3379,9 +3384,9 @@
       "ID": "tomb_raider_1",
       "SetID": "53c1p3k",
       "Name": "Tomb Raider 1",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 18
     },
     {
       "ID": "tomb_raider_2",
@@ -3404,14 +3409,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 920,
+      "Progressed": 921,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-08-13T17:07:21.7390265+00:00",
+  "LastChanged_Achievements": "2023-08-13T18:06:47.9880938+00:00",
   "LastUpdate_AppInfo": "2023-08-08T04:57:14.8728607+00:00",
-  "LastUpdate_Ratings": "2023-08-13T16:58:46.4433085+00:00",
-  "LastUpdate_Achievements": "2023-08-13T17:07:21.7391315+00:00"
+  "LastUpdate_Ratings": "2023-08-13T17:58:27.248887+00:00",
+  "LastUpdate_Achievements": "2023-08-13T18:06:47.9881544+00:00"
 }

@@ -25,7 +25,9 @@
 | Defeat Ingla | 2.00% | ~1 |
 | Defeat Tezuth | 2.00% | ~1 |
 | Defeat Uskol | 2.00% | ~1 |
+| Mountain Lover | 2.00% | ~1 |
 | Forest Expert | 2.00% | ~1 |
+| Ancient Powers | 2.00% | ~1 |
 | Finally! | 2.00% | ~1 |
 | The End | 2.00% | ~1 |
 | The A-Team | 2.00% | ~1 |
@@ -34,10 +36,8 @@
 | Style over Stats | 0.00% | ~0 |
 | Collector | 0.00% | ~0 |
 | Explorer by Heart | 0.00% | ~0 |
-| Mountain Lover | 0.00% | ~0 |
 | Wasteland Connoisseur | 0.00% | ~0 |
 | Fashionista | 0.00% | ~0 |
-| Ancient Powers | 0.00% | ~0 |
 | Knowledge is King | 0.00% | ~0 |
 | Witch | 0.00% | ~0 |
 | Wizard | 0.00% | ~0 |

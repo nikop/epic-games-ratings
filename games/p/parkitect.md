@@ -1,7 +1,7 @@
 # Parkitect
 [Store](https://store.epicgames.com/en-US/p/parkitect)  
 [View Rawdata](../../db/p/parkitect.json)  
-Rating: 4.30 (Ranked 786)  
+Rating: 4.32 (Ranked 774)  
 Number of Ratings: 21  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -18,3 +18,4 @@ Number of Ratings: 21  (23.09.2022)
 | 2023-03-21 | 4.34 | - | - | - |
 | 2023-03-31 | 4.34 | - | 0 | 0 |
 | 2023-08-12 | 4.30 | - | 0 | 0 |
+| 2023-08-13 | 4.32 | - | 0 | 0 |

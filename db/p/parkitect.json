@@ -2,13 +2,13 @@
   "ID": "7d0c3bf3b31e4ff5b27eab81fb255ca0",
   "Name": "Parkitect",
   "ProductSlug": "parkitect",
-  "Ranking_Rating": 786,
+  "Ranking_Rating": 774,
   "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 357,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 356,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-12-06T09:00:00+00:00",
     "PcReleaseDate": "2018-11-29T12:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.3,
+  "Rating": 4.32,
   "NumberOfRatings": 21,
   "RatingHistory": [
     {
@@ -73,6 +73,12 @@
       "Rating": 4.3,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-08-13T17:59:16.3346408+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -91,8 +97,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:38.7062522+00:00",
   "FirstSeenRating": "2022-09-10T02:30:45.9660634+00:00",
-  "LastChanged": "2023-08-12T18:00:06.6190325+00:00",
+  "LastChanged": "2023-08-13T17:59:16.3346406+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:21.1783649+00:00",
-  "LastUpdate_Ratings": "2023-08-13T16:59:40.8865725+00:00",
-  "LastUpdate_Achievements": "2023-08-13T17:08:12.4554637+00:00"
+  "LastUpdate_Ratings": "2023-08-13T17:59:16.3346411+00:00",
+  "LastUpdate_Achievements": "2023-08-13T18:07:34.710922+00:00"
 }

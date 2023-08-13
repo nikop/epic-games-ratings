@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 208,
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1347,7 +1347,7 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 22874,
+  "EOS_Progressed": 22876,
   "EOS_Completed": 35,
   "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
@@ -6777,6 +6777,11 @@
       "Time": "2023-08-13T16:05:06.7411651+00:00",
       "NumProgressed": 22874,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-08-13T18:05:38.7895889+00:00",
+      "NumProgressed": 22876,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -6796,7 +6801,7 @@
       "Name": "Truly Blessed",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "AllEquipment",
@@ -6820,7 +6825,7 @@
       "Name": "Pillow Investments",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "AllScarsBronze",
@@ -6836,7 +6841,7 @@
       "Name": "Looks Familiar",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "BossBridgeAdvancedDefeated",
@@ -6852,7 +6857,7 @@
       "Name": "Captain and Crew",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "BossCastleAdvancedDefeated",
@@ -6916,7 +6921,7 @@
       "Name": "Harvest and Home",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "BossGardenAdvancedDefeated",
@@ -7036,7 +7041,7 @@
       "Name": "Good Boy!",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "PrequelReveal",
@@ -7099,21 +7104,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 22874,
+      "Progressed": 22876,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 1804,
+      "Progressed": 1806,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-08-10T17:01:16.9441101+00:00",
-  "LastChanged_Achievements": "2023-08-13T17:06:06.5162188+00:00",
+  "LastChanged_Achievements": "2023-08-13T18:05:38.7895881+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:59.4184193+00:00",
-  "LastUpdate_Ratings": "2023-08-13T17:01:37.3287403+00:00",
-  "LastUpdate_Achievements": "2023-08-13T17:06:06.5163102+00:00"
+  "LastUpdate_Ratings": "2023-08-13T18:00:59.2048151+00:00",
+  "LastUpdate_Achievements": "2023-08-13T18:05:38.7896385+00:00"
 }

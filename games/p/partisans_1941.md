@@ -9,7 +9,7 @@ Number of Ratings: 98  (23.09.2022)
 | E1M1 | 37.00% | ~476 |
 | War Never Changes | 37.00% | ~476 |
 | Grenadier | 36.00% | ~463 |
-| Heroes Never Die | 33.00% | ~424 |
+| Heroes Never Die | 33.00% | ~425 |
 | Mosquito bite | 31.00% | ~399 |
 | Spice It Up | 28.00% | ~360 |
 | Agent 47 | 23.00% | ~296 |
@@ -37,7 +37,7 @@ Number of Ratings: 98  (23.09.2022)
 | Defense of Steel | 0.00% | ~0 |
 | Scout | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,286 (Ranked 186)  
+Progressed: 1,287 (Ranked 186)  
 Completed: 1 (0.08%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 1 (0.08%) (Ranked 212)
 | 2023-08-09 | 1,278 | 1 |
 | 2023-08-10 | 1,283 | 1 |
 | 2023-08-11 | 1,285 | 1 |
-| 2023-08-13 | 1,286 | 1 |
+| 2023-08-13 | 1,287 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
