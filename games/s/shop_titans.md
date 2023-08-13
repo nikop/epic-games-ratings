@@ -50,6 +50,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | A Ronin Reborn | 0.20% | ~269 |
 | Tax not Included | 0.20% | ~269 |
 | The King's Caprice | 0.20% | ~269 |
+| Thirst for Knowledge | 0.20% | ~269 |
 | Big Game Hunting | 0.20% | ~269 |
 | For the Hoard! | 0.20% | ~269 |
 | Booty by the Boatload | 0.20% | ~269 |
@@ -91,7 +92,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Exotic Commodities | 0.20% | ~269 |
 | Complete Monopoly | 0.20% | ~269 |
 | Constellated | 0.10% | ~134 |
-| Thirst for Knowledge | 0.10% | ~134 |
 | Bane of Legends | 0.10% | ~134 |
 | The Free Encyclopedia | 0.10% | ~134 |
 | Ultimate Collector | 0.10% | ~134 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Economy of Scarce | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,430 (Ranked 66)  
+Progressed: 134,435 (Ranked 66)  
 Completed: 132 (0.10%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,7 +234,7 @@ Completed: 132 (0.10%) (Ranked 203)
 | 2023-08-10 | 134,276 | 131 |
 | 2023-08-11 | 134,354 | 132 |
 | 2023-08-12 | 134,413 | 132 |
-| 2023-08-13 | 134,430 | 132 |
+| 2023-08-13 | 134,435 | 132 |
 ## Awards
 Max (Great for Beginners): 4,698  (Ranked 71)  
 Sum: 27,087 (Ranked 46)  

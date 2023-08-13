@@ -5,7 +5,7 @@ Rating: 4.18 (Ranked 868)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 7.00% | ~4,746 |
+| First Step Into the Knight | 7.00% | ~4,747 |
 | Har, Har, Har, Very Funny | 5.00% | ~3,390 |
 | Loose Ends | 5.00% | ~3,390 |
 | To the Victor Go the Spoils | 4.00% | ~2,712 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 868)
 | Read Owl About It | 0.10% | ~68 |
 | History Major | 0.10% | ~68 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,805 (Ranked 80)  
+Progressed: 67,808 (Ranked 80)  
 Completed: 107 (0.16%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,7 +182,7 @@ Completed: 107 (0.16%) (Ranked 187)
 | 2023-08-10 | 67,741 | 106 |
 | 2023-08-11 | 67,760 | 106 |
 | 2023-08-12 | 67,793 | 106 |
-| 2023-08-13 | 67,805 | 107 |
+| 2023-08-13 | 67,808 | 107 |
 ## Awards
 Max (Great Boss Battles): 2,491  (Ranked 100)  
 Sum: 4,142 (Ranked 140)  

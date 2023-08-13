@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 82,
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 94,
-  "Ranking_EOS_NewPlayers": 100,
+  "Ranking_EOS_NewPlayers": 101,
   "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -5646,9 +5646,9 @@
       "Count": 370
     }
   ],
-  "EOS_Progressed": 712389,
+  "EOS_Progressed": 712392,
   "EOS_Completed": 12856,
-  "EOS_NewPlayers": 181,
+  "EOS_NewPlayers": 180,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -16446,6 +16446,11 @@
       "Time": "2023-08-13T06:04:04.1138114+00:00",
       "NumProgressed": 712389,
       "NumCompleted": 12856
+    },
+    {
+      "Time": "2023-08-13T07:04:17.3109596+00:00",
+      "NumProgressed": 712392,
+      "NumCompleted": 12856
     }
   ],
   "TotalAchievements": 50,
@@ -16801,7 +16806,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1084
+      "UsersEstimate": 1085
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -16856,21 +16861,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 21690,
-      "Completed": 10520
+      "Progressed": 21693,
+      "Completed": 10521
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 712389,
+      "Progressed": 712392,
       "Completed": 12856
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-08-12T21:02:18.6833584+00:00",
-  "LastChanged_Achievements": "2023-08-13T06:04:04.1138108+00:00",
+  "LastChanged_Achievements": "2023-08-13T07:04:17.3109591+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:46.245364+00:00",
-  "LastUpdate_Ratings": "2023-08-13T06:00:43.5095572+00:00",
-  "LastUpdate_Achievements": "2023-08-13T06:04:04.1140034+00:00"
+  "LastUpdate_Ratings": "2023-08-13T07:00:31.0347729+00:00",
+  "LastUpdate_Achievements": "2023-08-13T07:04:17.3110655+00:00"
 }

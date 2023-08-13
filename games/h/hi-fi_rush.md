@@ -5,8 +5,8 @@ Rating: 4.88 (Ranked 18)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 10.00% | ~387 |
-| Feeling the beat! | 10.00% | ~387 |
+| Start with a bang! | 10.00% | ~388 |
+| Feeling the beat! | 10.00% | ~388 |
 | You can pet the cat! | 9.00% | ~349 |
 | Cream of the Crop | 8.00% | ~310 |
 | Who put gears in there? | 8.00% | ~310 |
@@ -32,9 +32,9 @@ Rating: 4.88 (Ranked 18)
 | NOW we got a kickass hideout! | 4.00% | ~96 |
 | Well that was a rush! | 3.00% | ~116 |
 | I have to read these things? | 3.00% | ~116 |
-| Beat-hit mania | 2.00% | ~77 |
-| That's a lot of junk metal… | 2.00% | ~77 |
-| There's such a thing as TOO helpful | 2.00% | ~77 |
+| Beat-hit mania | 2.00% | ~78 |
+| That's a lot of junk metal… | 2.00% | ~78 |
+| There's such a thing as TOO helpful | 2.00% | ~78 |
 | Chip-tuned | 1.00% | ~39 |
 | I think I found your calling, Macaron | 1.00% | ~39 |
 | Wanna hear my playlist? | 1.00% | ~39 |
@@ -48,8 +48,8 @@ Rating: 4.88 (Ranked 18)
 | New bad guys? No problem! | 0.60% | ~14 |
 | This is a breeze! | 0.50% | ~19 |
 | I'm not done with you yet | 0.50% | ~19 |
-| OK, well THEY came after ME! | 0.40% | ~15 |
-| You ever parry a volcano? | 0.40% | ~15 |
+| OK, well THEY came after ME! | 0.40% | ~16 |
+| You ever parry a volcano? | 0.40% | ~16 |
 | Choose your own adventure | 0.40% | ~10 |
 | Easy Listening | 0.30% | ~12 |
 | And the crowd goes wild! | 0.20% | ~8 |
@@ -77,7 +77,7 @@ Rating: 4.88 (Ranked 18)
 | Voices from within | 0.10% | ~2 |
 | Low budget finish | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,874 (Ranked 147)  
+Progressed: 3,875 (Ranked 147)  
 Completed: 7 (0.18%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 7 (0.18%) (Ranked 185)
 | 2023-08-10 | 3,836 | 7 |
 | 2023-08-11 | 3,855 | 7 |
 | 2023-08-12 | 3,868 | 7 |
-| 2023-08-13 | 3,874 | 7 |
+| 2023-08-13 | 3,875 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

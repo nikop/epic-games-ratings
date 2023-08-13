@@ -4,12 +4,12 @@
 Rating: 4.59 (Ranked 412)  
 Number of Ratings: 1,941  (23.09.2022)  
 ## Awards
-Max (Great for Quick Sessions): 52  (Ranked 396)  
-Sum: 463 (Ranked 306)  
-Diff (max vs sum): 90  
+Max (Extremely Fun): 53  (Ranked 395)  
+Sum: 464 (Ranked 306)  
+Diff (max vs sum): 89  
 | Award | Count |
 | ----- | ----- |
-| This game is Extremely Fun | 52 |
+| This game is Extremely Fun | 53 |
 | This game is Great for Quick Sessions | 52 |
 | This game is Highly Recommended | 50 |
 | This game has Quickly Understood Controls | 46 |
@@ -120,3 +120,4 @@ Diff (max vs sum): 90
 | 2023-08-02 | 4.58 | - | 52 | 461 |
 | 2023-08-08 | 4.58 | - | 52 | 463 |
 | 2023-08-11 | 4.59 | - | 52 | 463 |
+| 2023-08-13 | 4.59 | - | 53 | 464 |

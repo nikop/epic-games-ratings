@@ -9,17 +9,17 @@
 | First winning | 84.00% | ~206 |
 | Good Person Chip | 84.00% | ~206 |
 | Your first job | 83.00% | ~203 |
-| Old movies enjoyer | 79.00% | ~194 |
+| Old movies enjoyer | 80.00% | ~196 |
 | Fitness professional | 78.00% | ~191 |
+| Depressed visitor | 77.00% | ~189 |
 | First defeat | 76.00% | ~186 |
-| Depressed visitor | 76.00% | ~186 |
+| Neurotrainer – power gainer! | 76.00% | ~186 |
 | Employee of the week | 76.00% | ~186 |
 | Your own amateur gym | 75.00% | ~184 |
-| Neurotrainer – power gainer! | 75.00% | ~184 |
 | Run K, run! | 73.00% | ~179 |
 | Fighting is cool | 70.00% | ~172 |
+| Hello, world! | 70.00% | ~172 |
 | No bullying more | 69.00% | ~169 |
-| Hello, world! | 69.00% | ~169 |
 | Pal of your father? | 67.00% | ~164 |
 | Employee of the month | 65.00% | ~159 |
 | Spirit of the past | 64.00% | ~157 |
@@ -53,7 +53,7 @@
 | The die is cast | 36.00% | ~88 |
 | Seashell hunter | 36.00% | ~88 |
 | Gang wrangler | 33.00% | ~81 |
-| Problems of cyborgs | 32.00% | ~78 |
+| Problems of cyborgs | 33.00% | ~81 |
 | Absolute Champion! | 32.00% | ~78 |
 | Undercover robot | 32.00% | ~78 |
 | The lonesome road | 31.00% | ~76 |

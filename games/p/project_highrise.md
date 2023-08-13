@@ -15,7 +15,7 @@
 | It's Technical | 36.00% | ~116 |
 | Delegate Maintenance | 34.00% | ~110 |
 | Proper Walls | 33.00% | ~107 |
-| Destination Destiny | 30.00% | ~97 |
+| Destination Destiny | 31.00% | ~100 |
 | Happy Tenants | 26.00% | ~84 |
 | Potent Potables | 25.00% | ~81 |
 | Smooth Service | 25.00% | ~81 |

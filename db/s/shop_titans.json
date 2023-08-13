@@ -5560,9 +5560,9 @@
       "Count": 3734
     }
   ],
-  "EOS_Progressed": 134430,
+  "EOS_Progressed": 134435,
   "EOS_Completed": 132,
-  "EOS_NewPlayers": 460,
+  "EOS_NewPlayers": 464,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -17280,6 +17280,11 @@
       "Time": "2023-08-13T06:05:32.3851472+00:00",
       "NumProgressed": 134430,
       "NumCompleted": 132
+    },
+    {
+      "Time": "2023-08-13T07:05:49.1675906+00:00",
+      "NumProgressed": 134435,
+      "NumCompleted": 132
     }
   ],
   "TotalAchievements": 112,
@@ -17409,9 +17414,9 @@
       "ID": "blueprint03",
       "SetID": "anfd17p",
       "Name": "Thirst for Knowledge",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 269
     },
     {
       "ID": "bookentry",
@@ -18186,15 +18191,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 134430,
+      "Progressed": 134435,
       "Completed": 132
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-08-12T16:00:50.2555961+00:00",
-  "LastChanged_Achievements": "2023-08-13T06:05:32.3851463+00:00",
+  "LastChanged_Achievements": "2023-08-13T07:05:49.16759+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:13.9096409+00:00",
-  "LastUpdate_Ratings": "2023-08-13T06:00:04.3569017+00:00",
-  "LastUpdate_Achievements": "2023-08-13T06:05:32.3855592+00:00"
+  "LastUpdate_Ratings": "2023-08-13T06:59:55.9137344+00:00",
+  "LastUpdate_Achievements": "2023-08-13T07:05:49.1678027+00:00"
 }

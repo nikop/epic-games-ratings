@@ -3,8 +3,8 @@
   "Name": "Five Dates",
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 223,
-  "Ranking_EOS_Completed": 99,
-  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_Completed": 100,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 507,
+  "EOS_Progressed": 508,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.58,
+  "EOS_Completed_Percentage": 1.57,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:09.144074+00:00",
@@ -892,6 +892,11 @@
       "Time": "2023-08-13T00:06:12.4687393+00:00",
       "NumProgressed": 507,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-08-13T07:07:32.5453199+00:00",
+      "NumProgressed": 508,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 15,
@@ -903,7 +908,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "booty_call",
@@ -927,7 +932,7 @@
       "Name": "Digital Casanova",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "hold_my_beer",
@@ -983,7 +988,7 @@
       "Name": "Only Thyme Will Tell",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "planting_the_seed",
@@ -991,7 +996,7 @@
       "Name": "Planting the Seed",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "smooth_criminal",
@@ -1007,22 +1012,22 @@
       "Name": "Sore Loser",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "we_go_again",
       "SetID": "c4ipj3h",
       "Name": "We Go Again",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 162
+      "UsersEstimate": 157
     }
   ],
   "AchievementSets": [
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 507,
+      "Progressed": 508,
       "Completed": 8
     }
   ],
@@ -1030,8 +1035,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-08-13T06:07:23.3263009+00:00",
+  "LastChanged_Achievements": "2023-08-13T07:07:32.5453193+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:48.9733154+00:00",
-  "LastUpdate_Ratings": "2023-08-13T05:59:39.6683909+00:00",
-  "LastUpdate_Achievements": "2023-08-13T06:07:23.3263265+00:00"
+  "LastUpdate_Ratings": "2023-08-13T06:59:31.915404+00:00",
+  "LastUpdate_Achievements": "2023-08-13T07:07:32.5453401+00:00"
 }

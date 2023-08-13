@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something ever-changing... | 31.00% | ~8 |
-| Something foundational... | 31.00% | ~8 |
-| Something to make you dream... | 31.00% | ~8 |
-| Something to long for... | 31.00% | ~8 |
-| Something monumental... | 27.00% | ~7 |
-| Something firmly rooted... | 27.00% | ~7 |
-| Something free... | 23.00% | ~6 |
-| Something gentle... | 23.00% | ~6 |
-| Something fully in bloom... | 23.00% | ~6 |
-| Somewhere to belong... | 23.00% | ~6 |
-| Something natural... | 23.00% | ~6 |
-| Something reflective... | 23.00% | ~6 |
+| Something ever-changing... | 30.00% | ~8 |
+| Something foundational... | 30.00% | ~8 |
+| Something to make you dream... | 30.00% | ~8 |
+| Something to long for... | 30.00% | ~8 |
+| Something monumental... | 26.00% | ~7 |
+| Something firmly rooted... | 26.00% | ~7 |
+| Something free... | 22.00% | ~6 |
+| Something gentle... | 22.00% | ~6 |
+| Something fully in bloom... | 22.00% | ~6 |
+| Somewhere to belong... | 22.00% | ~6 |
+| Something natural... | 22.00% | ~6 |
+| Something reflective... | 22.00% | ~6 |
 | Something free... (fragile) | 19.00% | ~5 |
 | Something gentle... (fragile) | 19.00% | ~5 |
 | Something ever-changing... (fragile) | 19.00% | ~5 |
@@ -28,11 +28,11 @@
 | Something to long for... (fragile) | 19.00% | ~5 |
 | Something firmly rooted... (fragile) | 19.00% | ~5 |
 | Something reflective... (fragile) | 19.00% | ~5 |
-| Something more... | 12.00% | ~3 |
-| Something more... (fragile) | 12.00% | ~3 |
+| Something more... | 11.00% | ~3 |
+| Something more... (fragile) | 11.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26 (Ranked 397)  
-Completed: 3 (11.54%) (Ranked 20)  
+Progressed: 27 (Ranked 394)  
+Completed: 3 (11.11%) (Ranked 21)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -59,3 +59,4 @@ Completed: 3 (11.54%) (Ranked 20)
 | 2023-08-04 | 25 | 2 |
 | 2023-08-05 | 25 | 3 |
 | 2023-08-08 | 26 | 3 |
+| 2023-08-13 | 27 | 3 |

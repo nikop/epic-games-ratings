@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 178,
   "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -331,9 +331,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 1799,
+  "EOS_Progressed": 1800,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -1806,6 +1806,11 @@
       "Time": "2023-08-13T01:43:09.2645188+00:00",
       "NumProgressed": 1799,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-13T07:02:25.510442+00:00",
+      "NumProgressed": 1800,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -1825,7 +1830,7 @@
       "Name": "Dead or Alive",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 1007
+      "UsersEstimate": 1008
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -1969,7 +1974,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 1079
+      "UsersEstimate": 1080
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -2065,7 +2070,7 @@
       "Name": "Perky",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 1187
+      "UsersEstimate": 1188
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -2113,7 +2118,7 @@
       "Name": "Self-Improvement",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1295
+      "UsersEstimate": 1296
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -2193,7 +2198,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1583
+      "UsersEstimate": 1584
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -2201,7 +2206,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 1025
+      "UsersEstimate": 1026
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -2240,15 +2245,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1799,
+      "Progressed": 1800,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-08-02T19:59:24.9286429+00:00",
-  "LastChanged_Achievements": "2023-08-13T06:02:03.6453693+00:00",
+  "LastChanged_Achievements": "2023-08-13T07:02:25.5104414+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:13.6246247+00:00",
-  "LastUpdate_Ratings": "2023-08-13T06:00:04.6261733+00:00",
-  "LastUpdate_Achievements": "2023-08-13T06:02:03.6454737+00:00"
+  "LastUpdate_Ratings": "2023-08-13T06:59:56.069139+00:00",
+  "LastUpdate_Achievements": "2023-08-13T07:02:25.5104961+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
     "PcReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -236,9 +236,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16087,
+  "EOS_Progressed": 16089,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3936,6 +3936,11 @@
       "Time": "2023-08-13T01:46:45.9590327+00:00",
       "NumProgressed": 16087,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-13T07:06:22.8826333+00:00",
+      "NumProgressed": 16089,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -3947,7 +3952,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 15283
+      "UsersEstimate": 15285
     },
     {
       "ID": "ACH001",
@@ -3955,7 +3960,7 @@
       "Name": "Personal Matter",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 13835
+      "UsersEstimate": 13837
     },
     {
       "ID": "ACH0010",
@@ -3979,7 +3984,7 @@
       "Name": "Pimp My Glide",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 7722
+      "UsersEstimate": 7723
     },
     {
       "ID": "ACH0013",
@@ -4027,7 +4032,7 @@
       "Name": "Curse of the Seven Seas",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 3539
+      "UsersEstimate": 3540
     },
     {
       "ID": "ACH0019",
@@ -4043,7 +4048,7 @@
       "Name": "But You Have Heard of Me",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 11583
+      "UsersEstimate": 11584
     },
     {
       "ID": "ACH0020",
@@ -4099,7 +4104,7 @@
       "Name": "Double the Barrels, double the Fun",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 8848
+      "UsersEstimate": 8849
     },
     {
       "ID": "ACH004",
@@ -4107,7 +4112,7 @@
       "Name": "No Half Measures",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 14157
+      "UsersEstimate": 14158
     },
     {
       "ID": "ACH005",
@@ -4131,7 +4136,7 @@
       "Name": "To the World\u0027s End",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1930
+      "UsersEstimate": 1931
     },
     {
       "ID": "ACH008",
@@ -4154,7 +4159,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 16087,
+      "Progressed": 16089,
       "Completed": 0
     }
   ],
@@ -4162,8 +4167,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-08-03T01:53:52.0652569+00:00",
-  "LastChanged_Achievements": "2023-08-13T06:06:04.9908358+00:00",
+  "LastChanged_Achievements": "2023-08-13T07:06:22.8826327+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:01.2181889+00:00",
-  "LastUpdate_Ratings": "2023-08-13T05:57:16.3791895+00:00",
-  "LastUpdate_Achievements": "2023-08-13T06:06:04.9909096+00:00"
+  "LastUpdate_Ratings": "2023-08-13T06:57:05.9617017+00:00",
+  "LastUpdate_Achievements": "2023-08-13T07:06:22.882711+00:00"
 }
