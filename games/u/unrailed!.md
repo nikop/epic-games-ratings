@@ -6,22 +6,22 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 16.00% | ~101,362 |
-| Incurious | 16.00% | ~101,362 |
-| Stroller | 14.00% | ~88,692 |
-| Climate Change | 14.00% | ~88,692 |
-| Advanced Hiker | 12.00% | ~76,021 |
-| Toy Train | 12.00% | ~76,021 |
-| Hiker | 11.00% | ~69,686 |
-| Mojave Courier | 5.00% | ~31,676 |
-| Saved by Nausicaä | 4.00% | ~25,340 |
-| Voyager | 3.00% | ~19,005 |
-| Advanced Voyager | 3.00% | ~19,005 |
-| Expert Stroller | 3.00% | ~19,005 |
-| Orient Express | 3.00% | ~19,005 |
-| Expert Hiker | 2.00% | ~12,670 |
-| Marathon | 2.00% | ~12,670 |
-| Destructionist | 2.00% | ~12,670 |
+| Advanced Stroller | 16.00% | ~101,365 |
+| Incurious | 16.00% | ~101,365 |
+| Stroller | 14.00% | ~88,694 |
+| Climate Change | 14.00% | ~88,694 |
+| Advanced Hiker | 12.00% | ~76,024 |
+| Toy Train | 12.00% | ~76,024 |
+| Hiker | 11.00% | ~69,689 |
+| Mojave Courier | 5.00% | ~31,677 |
+| Saved by Nausicaä | 4.00% | ~25,341 |
+| Voyager | 3.00% | ~19,006 |
+| Advanced Voyager | 3.00% | ~19,006 |
+| Expert Stroller | 3.00% | ~19,006 |
+| Orient Express | 3.00% | ~19,006 |
+| Expert Hiker | 2.00% | ~12,671 |
+| Marathon | 2.00% | ~12,671 |
+| Destructionist | 2.00% | ~12,671 |
 | Lost | 1.00% | ~6,335 |
 | Rocketman | 0.70% | ~4,435 |
 | Expert Voyager | 0.60% | ~3,801 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~634 |
 | 20 Miles under the Sea | 0.10% | ~634 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 633,512 (Ranked 26)  
+Progressed: 633,532 (Ranked 26)  
 Completed: 7 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,7 +174,7 @@ Completed: 7 (0.00%) (Ranked 255)
 | 2023-08-10 | 632,062 | 7 |
 | 2023-08-11 | 632,528 | 7 |
 | 2023-08-12 | 633,000 | 7 |
-| 2023-08-13 | 633,512 | 7 |
+| 2023-08-13 | 633,532 | 7 |
 ## Awards
 Max (Great for Beginners): 191  (Ranked 276)  
 Sum: 1,550 (Ranked 216)  

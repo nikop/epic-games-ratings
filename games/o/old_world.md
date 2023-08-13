@@ -8,6 +8,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | ---- | ---------- | ----- |
 | The Clergy | 4.00% | ~536 |
 | Settler | 3.00% | ~402 |
+| Play a Single Player Game | 3.00% | ~402 |
 | Able | 2.00% | ~268 |
 | Architect | 2.00% | ~268 |
 | Enlightened | 2.00% | ~268 |
@@ -23,7 +24,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Friendly Family | 2.00% | ~268 |
 | Hanging Gardens | 2.00% | ~268 |
 | Oracle | 2.00% | ~268 |
-| Play a Single Player Game | 2.00% | ~268 |
 | Trade Caravan | 2.00% | ~268 |
 | The Great Mage | 2.00% | ~268 |
 | Poetic Leader | 2.00% | ~268 |
@@ -145,6 +145,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | No Undo | 0.30% | ~40 |
 | Pilgrimage | 0.30% | ~40 |
 | Patriarch St Paul | 0.30% | ~40 |
+| Bronze Victory (Carthage 1) | 0.20% | ~27 |
 | Ancient | 0.20% | ~27 |
 | Glorious Difficulty | 0.20% | ~27 |
 | Magnificent Difficulty | 0.20% | ~27 |
@@ -174,7 +175,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Barbarian Horde | 0.10% | ~13 |
 | Battle of Opis | 0.10% | ~13 |
 | Blade of the Monkey | 0.10% | ~13 |
-| Bronze Victory (Carthage 1) | 0.10% | ~13 |
 | Epic Victory (Carthage 1) | 0.10% | ~13 |
 | Gold Victory (Carthage 1) | 0.10% | ~13 |
 | Silver Victory (Carthage 1) | 0.10% | ~13 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,399 (Ranked 117)  
+Progressed: 13,400 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -418,7 +418,7 @@ Completed: 5 (0.04%) (Ranked 224)
 | 2023-08-10 | 13,349 | 5 |
 | 2023-08-11 | 13,363 | 5 |
 | 2023-08-12 | 13,385 | 5 |
-| 2023-08-13 | 13,399 | 5 |
+| 2023-08-13 | 13,400 | 5 |
 ## Awards
 Max (Relaxing): 219  (Ranked 264)  
 Sum: 1,790 (Ranked 206)  

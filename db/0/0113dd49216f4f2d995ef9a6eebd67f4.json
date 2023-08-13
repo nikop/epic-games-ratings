@@ -4,8 +4,8 @@
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
   "Ranking_EOS_Progress": 393,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
     "PcReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -149,9 +149,9 @@
       "ID": "SG_ACROSSTHESTYX",
       "SetID": "bj5g0n4",
       "Name": "Across The Styx",
-      "Percentage": 7,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "SG_AGAINSTALLODDS",
@@ -253,9 +253,9 @@
       "ID": "SG_LIKEHEROESBEFOREYOU",
       "SetID": "bj5g0n4",
       "Name": "Like Heroes Before You",
-      "Percentage": 10,
+      "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SG_LOSTINASONG",
@@ -277,9 +277,9 @@
       "ID": "SG_MEANTTOBE",
       "SetID": "bj5g0n4",
       "Name": "Meant To Be",
-      "Percentage": 3,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SG_MYTIMETOSHINE",
@@ -444,8 +444,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-08-13T22:03:29.0984164+00:00",
+  "LastChanged_Achievements": "2023-08-13T23:03:41.0087546+00:00",
   "LastUpdate_AppInfo": "2023-08-10T07:57:00.7529969+00:00",
-  "LastUpdate_Ratings": "2023-08-13T21:57:25.2267135+00:00",
-  "LastUpdate_Achievements": "2023-08-13T22:03:29.0984447+00:00"
+  "LastUpdate_Ratings": "2023-08-13T22:57:23.5956066+00:00",
+  "LastUpdate_Achievements": "2023-08-13T23:03:41.0087879+00:00"
 }

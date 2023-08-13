@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
     "PcReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3564,
+  "EOS_Progressed": 3565,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1153,6 +1153,11 @@
       "Time": "2023-08-13T07:05:25.9709947+00:00",
       "NumProgressed": 3564,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-13T23:05:46.6562756+00:00",
+      "NumProgressed": 3565,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -1220,7 +1225,7 @@
       "Name": "Shard Snatchers",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 855
+      "UsersEstimate": 856
     },
     {
       "ID": "FINISH_EPISODE_3",
@@ -1228,7 +1233,7 @@
       "Name": "Our Lucky Winner",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 748
+      "UsersEstimate": 749
     },
     {
       "ID": "FINISH_EPISODE_4",
@@ -1276,7 +1281,7 @@
       "Name": "We\u0027re In",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1140
+      "UsersEstimate": 1141
     },
     {
       "ID": "HOTWIRE_FIRST_OBJECT",
@@ -1284,7 +1289,7 @@
       "Name": "Who Needs Keys?",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 1746
+      "UsersEstimate": 1747
     },
     {
       "ID": "LOOSE_MONEY_FROM_SINK_OR_SWIM",
@@ -1348,7 +1353,7 @@
       "Name": "Don\u0027t Get Cocky",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 962
+      "UsersEstimate": 963
     },
     {
       "ID": "WIN_VAULTLANDER_BATTLE_CLAPTRAP",
@@ -1371,7 +1376,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3564,
+      "Progressed": 3565,
       "Completed": 0
     }
   ],
@@ -1379,8 +1384,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-05-28T21:59:31.5873025+00:00",
-  "LastChanged_Achievements": "2023-08-13T22:05:38.3449682+00:00",
+  "LastChanged_Achievements": "2023-08-13T23:05:46.6562743+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:13.1590084+00:00",
-  "LastUpdate_Ratings": "2023-08-13T22:01:24.8274778+00:00",
-  "LastUpdate_Achievements": "2023-08-13T22:05:38.3449907+00:00"
+  "LastUpdate_Ratings": "2023-08-13T23:01:26.9078624+00:00",
+  "LastUpdate_Achievements": "2023-08-13T23:05:46.6563185+00:00"
 }

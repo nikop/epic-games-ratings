@@ -2,13 +2,13 @@
   "ID": "jaguar",
   "Name": "Subnautica",
   "ProductSlug": "subnautica",
-  "Ranking_Rating": 41,
+  "Ranking_Rating": 42,
   "Ranking_Popularity": 169,
   "Ranking_PopularitySum": 125,
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 360,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 361,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2018-01-23T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -4342,10 +4342,16 @@
       "Rating": 4.85,
       "NumberOfAwards": 5477,
       "NumberOfAwardsMax": 684
+    },
+    {
+      "Time": "2023-08-13T23:01:03.9097346+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 5478,
+      "NumberOfAwardsMax": 684
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5477,
+  "NumberOfAwards": 5478,
   "NumberOfAwardsMax": 684,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -4389,7 +4395,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 650
+      "Count": 651
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4427,8 +4433,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:19.8641148+00:00",
-  "LastChanged": "2023-08-12T23:59:55.801977+00:00",
+  "LastChanged": "2023-08-13T23:01:03.9097344+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:52.369154+00:00",
-  "LastUpdate_Ratings": "2023-08-13T22:01:02.2989421+00:00",
-  "LastUpdate_Achievements": "2023-08-13T22:03:26.8427096+00:00"
+  "LastUpdate_Ratings": "2023-08-13T23:01:03.9097351+00:00",
+  "LastUpdate_Achievements": "2023-08-13T23:03:38.4878277+00:00"
 }

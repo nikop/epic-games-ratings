@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-04-12T13:00:00+00:00",
     "PcReleaseDate": "2022-12-05T12:00:00+00:00",
@@ -2789,9 +2789,9 @@
       "ID": "DEBTOR",
       "SetID": "64e5lgf",
       "Name": "DEBTOR",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 93
     },
     {
       "ID": "FIREFIGHTER",
@@ -2878,8 +2878,8 @@
   "FirstSeenRating": "2023-04-13T01:55:49.9064105+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.5408639+00:00",
   "LastChanged": "2023-04-13T01:55:49.9064106+00:00",
-  "LastChanged_Achievements": "2023-08-13T22:08:01.6700821+00:00",
+  "LastChanged_Achievements": "2023-08-13T23:08:31.9855105+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:09.3688194+00:00",
-  "LastUpdate_Ratings": "2023-08-13T22:01:20.5445605+00:00",
-  "LastUpdate_Achievements": "2023-08-13T22:08:01.6701066+00:00"
+  "LastUpdate_Ratings": "2023-08-13T23:01:22.0435789+00:00",
+  "LastUpdate_Achievements": "2023-08-13T23:08:31.9855413+00:00"
 }

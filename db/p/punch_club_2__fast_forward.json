@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 65,
   "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
     "PcReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -915,17 +915,17 @@
       "ID": "all_promotion_4",
       "SetID": "69co12a",
       "Name": "Gang wrangler",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 82
     },
     {
       "ID": "all_promotion_5",
       "SetID": "69co12a",
       "Name": "Problems of cyborgs",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 82
     },
     {
       "ID": "all_promotion_6",
@@ -1426,8 +1426,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-08-13T22:05:14.8261633+00:00",
+  "LastChanged_Achievements": "2023-08-13T23:05:19.4188955+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:18.7618858+00:00",
-  "LastUpdate_Ratings": "2023-08-13T21:59:01.2227456+00:00",
-  "LastUpdate_Achievements": "2023-08-13T22:05:14.8262348+00:00"
+  "LastUpdate_Ratings": "2023-08-13T22:59:03.2945752+00:00",
+  "LastUpdate_Achievements": "2023-08-13T23:05:19.4189841+00:00"
 }

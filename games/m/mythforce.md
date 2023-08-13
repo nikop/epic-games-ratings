@@ -10,6 +10,7 @@ Number of Ratings: 285  (23.09.2022)
 | That'll Leave a Mark | 3.00% | ~23 |
 | Debuff Dogpile | 2.00% | ~15 |
 | Faceroll the Bones | 2.00% | ~15 |
+| First Strike | 2.00% | ~15 |
 | Flawless Victory | 2.00% | ~15 |
 | Hit 'Em Where It Hurts | 2.00% | ~15 |
 | Mushroom Madness! | 2.00% | ~15 |
@@ -18,7 +19,6 @@ Number of Ratings: 285  (23.09.2022)
 | Cold-Blooded Critters | 1.00% | ~8 |
 | Deadication | 1.00% | ~8 |
 | Everything Must Go! | 1.00% | ~8 |
-| First Strike | 1.00% | ~8 |
 | The Harder They Fall | 1.00% | ~8 |
 | Horder Better Faster Stronger | 1.00% | ~8 |
 | Next Time on MythForce... | 1.00% | ~8 |

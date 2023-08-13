@@ -3,9 +3,9 @@
   "Name": "Afterglitch",
   "ProductSlug": "afterglitch-06da0d",
   "Ranking_EOS_Progress": 447,
-  "Ranking_EOS_Completed": 16,
+  "Ranking_EOS_Completed": 5,
   "Ranking_EOS_NewPlayers": 313,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-04-20T22:00:00+00:00",
     "PcReleaseDate": "2022-12-08T23:00:00+00:00",
@@ -20,10 +20,10 @@
   "ReviewsDisabled": false,
   "Tags": [],
   "EOS_Progressed": 7,
-  "EOS_Completed": 1,
+  "EOS_Completed": 2,
   "EOS_NewPlayers": 1,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 14.29,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 28.57,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:47:51.4740406+00:00",
@@ -54,6 +54,11 @@
       "Time": "2023-08-13T22:03:39.908588+00:00",
       "NumProgressed": 7,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-13T23:03:53.8632397+00:00",
+      "NumProgressed": 7,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 10,
@@ -71,9 +76,9 @@
       "ID": "10",
       "SetID": "hnfblp",
       "Name": "X.",
-      "Percentage": 14,
+      "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "2",
@@ -95,49 +100,49 @@
       "ID": "4",
       "SetID": "hnfblp",
       "Name": "IV.",
-      "Percentage": 14,
+      "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "5",
       "SetID": "hnfblp",
       "Name": "V.",
-      "Percentage": 14,
+      "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "6",
       "SetID": "hnfblp",
       "Name": "VI.",
-      "Percentage": 14,
+      "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "7",
       "SetID": "hnfblp",
       "Name": "VII.",
-      "Percentage": 14,
+      "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "8",
       "SetID": "hnfblp",
       "Name": "VIII.",
-      "Percentage": 14,
+      "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "9",
       "SetID": "hnfblp",
       "Name": "IX.",
-      "Percentage": 14,
+      "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
@@ -145,12 +150,12 @@
       "ID": "hnfblp",
       "IsBase": true,
       "Progressed": 7,
-      "Completed": 1
+      "Completed": 2
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:47:51.4740413+00:00",
-  "LastChanged_Achievements": "2023-08-13T22:03:39.9085875+00:00",
+  "LastChanged_Achievements": "2023-08-13T23:03:53.8632391+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:03.9158361+00:00",
-  "LastUpdate_Ratings": "2023-08-13T22:00:06.5417584+00:00",
-  "LastUpdate_Achievements": "2023-08-13T22:03:39.9085983+00:00"
+  "LastUpdate_Ratings": "2023-08-13T23:00:10.4875799+00:00",
+  "LastUpdate_Achievements": "2023-08-13T23:03:53.8632668+00:00"
 }

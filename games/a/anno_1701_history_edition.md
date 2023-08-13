@@ -1,7 +1,7 @@
 # Anno 1701 History Edition
 [Store](https://store.epicgames.com/en-US/p/anno-1701)  
 [View Rawdata](../../db/a/anno_1701_history_edition.json)  
-Rating: 4.54 (Ranked 498)  
+Rating: 4.55 (Ranked 484)  
 Number of Ratings: 37  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -69,3 +69,4 @@ Number of Ratings: 37  (23.09.2022)
 | 2023-07-30 | 4.54 | - | 0 | 0 |
 | 2023-08-05 | 4.55 | - | 0 | 0 |
 | 2023-08-07 | 4.54 | - | 0 | 0 |
+| 2023-08-13 | 4.55 | - | 0 | 0 |

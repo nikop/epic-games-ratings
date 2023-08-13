@@ -12,7 +12,7 @@
 | CHIEF | 20.00% | ~185 |
 | INTRODUCTION | 13.00% | ~121 |
 | SECOND_FLOOR | 13.00% | ~121 |
-| DEBTOR | 9.00% | ~83 |
+| DEBTOR | 10.00% | ~93 |
 | SUCCESSFUL | 5.00% | ~46 |
 | THINGS ARE GOING WELL | 5.00% | ~46 |
 | YETTI | 3.00% | ~28 |

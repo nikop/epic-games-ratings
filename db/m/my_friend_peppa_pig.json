@@ -2,10 +2,10 @@
   "ID": "9a3d3cc7c85f4664943bfe6fca977d03",
   "Name": "My Friend Peppa Pig",
   "ProductSlug": "my-friend-peppa-pig-2de0dc",
-  "Ranking_EOS_Progress": 342,
+  "Ranking_EOS_Progress": 340,
   "Ranking_EOS_Completed": 46,
-  "Ranking_EOS_NewPlayers": 360,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-12-15T18:00:00+00:00",
     "PcReleaseDate": "2021-10-21T23:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 76,
+  "EOS_Progressed": 77,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 5.26,
+  "EOS_Completed_Percentage": 5.19,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:28.924727+00:00",
@@ -93,6 +93,11 @@
       "Time": "2023-07-31T02:02:59.3632566+00:00",
       "NumProgressed": 76,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-13T23:05:47.0762158+00:00",
+      "NumProgressed": 77,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 11,
@@ -104,7 +109,7 @@
       "Name": "Daddy\u2019s Glasses",
       "Percentage": 49,
       "XP": 80,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "10",
@@ -118,7 +123,7 @@
       "ID": "11",
       "SetID": "5jd5jfm",
       "Name": "Rocket to the Moon!",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 80,
       "UsersEstimate": 38
     },
@@ -142,7 +147,7 @@
       "ID": "4",
       "SetID": "5jd5jfm",
       "Name": "The Best Snowman Ever!",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 80,
       "UsersEstimate": 34
     },
@@ -150,7 +155,7 @@
       "ID": "5",
       "SetID": "5jd5jfm",
       "Name": "What\u2019s in These Rockpools?",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 80,
       "UsersEstimate": 27
     },
@@ -158,7 +163,7 @@
       "ID": "6",
       "SetID": "5jd5jfm",
       "Name": "Rounding Up the Chickens.",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 80,
       "UsersEstimate": 35
     },
@@ -166,7 +171,7 @@
       "ID": "7",
       "SetID": "5jd5jfm",
       "Name": "Helping Tiddles the Tortoise.",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 80,
       "UsersEstimate": 18
     },
@@ -174,7 +179,7 @@
       "ID": "8",
       "SetID": "5jd5jfm",
       "Name": "The View From Windy Castle.",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 80,
       "UsersEstimate": 43
     },
@@ -182,7 +187,7 @@
       "ID": "9",
       "SetID": "5jd5jfm",
       "Name": "Always Remember To Eat Your Five!",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 200,
       "UsersEstimate": 8
     }
@@ -191,7 +196,7 @@
     {
       "ID": "5jd5jfm",
       "IsBase": true,
-      "Progressed": 76,
+      "Progressed": 77,
       "Completed": 4
     }
   ],
@@ -199,8 +204,8 @@
   "FirstSeenRating": "2023-03-31T05:57:56.0490903+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:28.9247276+00:00",
   "LastChanged": "2023-03-31T05:57:56.0490904+00:00",
-  "LastChanged_Achievements": "2023-08-13T22:05:38.754535+00:00",
+  "LastChanged_Achievements": "2023-08-13T23:05:47.0762152+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:12.2199576+00:00",
-  "LastUpdate_Ratings": "2023-08-13T22:01:23.6830427+00:00",
-  "LastUpdate_Achievements": "2023-08-13T22:05:38.7545455+00:00"
+  "LastUpdate_Ratings": "2023-08-13T23:01:25.4102711+00:00",
+  "LastUpdate_Achievements": "2023-08-13T23:05:47.0762263+00:00"
 }
