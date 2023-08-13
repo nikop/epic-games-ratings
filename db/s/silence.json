@@ -452,9 +452,9 @@
       "ID": "3017_achv_chapter3",
       "SetID": "dhn82m5",
       "Name": "Chapter III",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "3017_achv_flycloud",
@@ -476,9 +476,9 @@
       "ID": "4004_achv_mirror",
       "SetID": "dhn82m5",
       "Name": "Mirror mirror on the wall...",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     }
   ],
   "AchievementSets": [
@@ -493,8 +493,8 @@
   "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.5644296+00:00",
   "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
-  "LastChanged_Achievements": "2023-08-13T03:06:18.7590249+00:00",
+  "LastChanged_Achievements": "2023-08-13T04:06:18.8494526+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:10.3291859+00:00",
-  "LastUpdate_Ratings": "2023-08-13T03:00:48.0549776+00:00",
-  "LastUpdate_Achievements": "2023-08-13T03:06:18.7590761+00:00"
+  "LastUpdate_Ratings": "2023-08-13T04:00:56.6122679+00:00",
+  "LastUpdate_Achievements": "2023-08-13T04:06:18.8494907+00:00"
 }

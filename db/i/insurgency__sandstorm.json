@@ -2977,9 +2977,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 432008,
+  "EOS_Progressed": 432028,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2477,
+  "EOS_NewPlayers": 2481,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15557,6 +15557,11 @@
       "Time": "2023-08-13T03:06:45.046028+00:00",
       "NumProgressed": 432008,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-13T04:06:43.9384973+00:00",
+      "NumProgressed": 432028,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -15568,7 +15573,7 @@
       "Name": "Banged",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 8640
+      "UsersEstimate": 8641
     },
     {
       "ID": "ACH_BLINDFIRE",
@@ -15592,7 +15597,7 @@
       "Name": "Checkpoint Victory",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 8640
+      "UsersEstimate": 8641
     },
     {
       "ID": "ACH_CINEMATIC",
@@ -15624,7 +15629,7 @@
       "Name": "Exploitative",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 17280
+      "UsersEstimate": 17281
     },
     {
       "ID": "ACH_FIREFIGHT_VICTORY",
@@ -15640,7 +15645,7 @@
       "Name": "First Blood",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 8640
+      "UsersEstimate": 8641
     },
     {
       "ID": "ACH_FLACCID_PARALYSIS",
@@ -15648,7 +15653,7 @@
       "Name": "Flaccid Paralysis",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 8640
+      "UsersEstimate": 8641
     },
     {
       "ID": "ACH_GROUNDED",
@@ -15672,7 +15677,7 @@
       "Name": "High Speed Low Drag",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 17280
+      "UsersEstimate": 17281
     },
     {
       "ID": "ACH_JR_50",
@@ -15696,7 +15701,7 @@
       "Name": "Lucky",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 12960
+      "UsersEstimate": 12961
     },
     {
       "ID": "ACH_MOUNT_AND_GUN",
@@ -15736,7 +15741,7 @@
       "Name": "Point Shooting",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 21600
+      "UsersEstimate": 21601
     },
     {
       "ID": "ACH_PUSH_VICTORY",
@@ -15744,7 +15749,7 @@
       "Name": "Push Victory",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 8640
+      "UsersEstimate": 8641
     },
     {
       "ID": "ACH_REFLEXES",
@@ -15776,7 +15781,7 @@
       "Name": "Self-destructive",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 8640
+      "UsersEstimate": 8641
     },
     {
       "ID": "ACH_SEMPER_PARATUS",
@@ -15800,7 +15805,7 @@
       "Name": "Stylin\u0027",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 12960
+      "UsersEstimate": 12961
     },
     {
       "ID": "ACH_THANKS_STATION",
@@ -15824,7 +15829,7 @@
       "Name": "Turf War",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 12960
+      "UsersEstimate": 12961
     },
     {
       "ID": "ACH_WALLBANGER",
@@ -15832,7 +15837,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 21600
+      "UsersEstimate": 21601
     },
     {
       "ID": "ACH_WET_FEET",
@@ -15840,22 +15845,22 @@
       "Name": "Wet Feet",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 17280
+      "UsersEstimate": 17281
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 432008,
+      "Progressed": 432028,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-08-12T21:00:50.9853862+00:00",
-  "LastChanged_Achievements": "2023-08-13T03:06:45.046027+00:00",
+  "LastChanged_Achievements": "2023-08-13T04:06:43.9384964+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:41.0153429+00:00",
-  "LastUpdate_Ratings": "2023-08-13T02:59:13.7406114+00:00",
-  "LastUpdate_Achievements": "2023-08-13T03:06:45.046159+00:00"
+  "LastUpdate_Ratings": "2023-08-13T03:59:23.0505419+00:00",
+  "LastUpdate_Achievements": "2023-08-13T04:06:43.9386155+00:00"
 }

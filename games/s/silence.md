@@ -16,11 +16,11 @@
 | Chapter II | 30.00% | ~31 |
 | Achoo!! | 29.00% | ~30 |
 | Let the boot talk | 28.00% | ~29 |
+| Chapter III | 28.00% | ~29 |
 | Like a moth in the Wind | 28.00% | ~29 |
-| Chapter III | 27.00% | ~28 |
 | Bubblekillerfamily | 24.00% | ~25 |
+| Mirror mirror on the wall... | 24.00% | ~25 |
 | Quite a buggy game | 23.00% | ~24 |
-| Mirror mirror on the wall... | 23.00% | ~24 |
 | Shadow on the wall | 22.00% | ~23 |
 | Fastidious Clown | 22.00% | ~23 |
 | Handyman | 21.00% | ~22 |

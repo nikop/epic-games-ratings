@@ -24,8 +24,8 @@ Number of Ratings: 48  (23.09.2022)
 | Natural Born Monster-Killer | 37.00% | ~253 |
 | The Lava Mantor Wyrm | 36.00% | ~246 |
 | Scavenger's Honor | 36.00% | ~246 |
+| One Mean Merc | 36.00% | ~246 |
 | The Great Forest...On Foot! | 36.00% | ~246 |
-| One Mean Merc | 35.00% | ~239 |
 | Adept, for an Acting Mayor | 35.00% | ~239 |
 | Money, Money, Money | 35.00% | ~239 |
 | Rune Wall Master | 33.00% | ~226 |

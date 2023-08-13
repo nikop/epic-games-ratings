@@ -2,7 +2,7 @@
   "ID": "e6059b123f9045878919974afd435691",
   "Name": "Chased by Darkness",
   "ProductSlug": "chased-by-darkness-d00d26",
-  "Ranking_EOS_Progress": 210,
+  "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 102,
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 710,
+  "EOS_Progressed": 712,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1541,6 +1541,11 @@
       "Time": "2023-08-12T23:06:27.1997166+00:00",
       "NumProgressed": 710,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-13T04:07:10.3448337+00:00",
+      "NumProgressed": 712,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1552,7 +1557,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -1560,7 +1565,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -1592,7 +1597,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -1624,7 +1629,7 @@
       "Name": "Capraphobia",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -1768,7 +1773,7 @@
       "Name": "Fire Alarm",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "FREEB_ACHIEVEMENT_1",
@@ -1800,7 +1805,7 @@
       "Name": "I\u0027ll Save You!",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "FREE_ACHIEVEMENT_2",
@@ -1822,9 +1827,9 @@
       "ID": "KALL_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Pest Control or Taxonomist?",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 93
     },
     {
       "ID": "KILLR_ACHIEVEMENT_1",
@@ -1832,7 +1837,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -1848,7 +1853,7 @@
       "Name": "Decakill!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "KILLR_ACHIEVEMENT_4",
@@ -1902,9 +1907,9 @@
       "ID": "KLEECHER_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "Leecher Hunting Season",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 100
     },
     {
       "ID": "LEECHER_ACHIEVEMENT_1",
@@ -1912,7 +1917,7 @@
       "Name": "Don\u0027t Turn Your Back",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
@@ -1928,7 +1933,7 @@
       "Name": "Hostage of the Elderly",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -1944,7 +1949,7 @@
       "Name": "Night Snack",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "MEAT_ACHIEVEMENT_2",
@@ -1984,7 +1989,7 @@
       "Name": "The Last of Us",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "PASS_ACHIEVEMENT_1",
@@ -2000,15 +2005,15 @@
       "Name": "The Clairvoyant Who Doesn\u0027t See",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "Haunted Prison",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 28
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_3",
@@ -2079,14 +2084,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 710,
+      "Progressed": 712,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-08-13T03:07:11.9861764+00:00",
+  "LastChanged_Achievements": "2023-08-13T04:07:10.3448331+00:00",
   "LastUpdate_AppInfo": "2023-08-10T15:57:09.1792695+00:00",
-  "LastUpdate_Ratings": "2023-08-13T02:57:53.2624379+00:00",
-  "LastUpdate_Achievements": "2023-08-13T03:07:11.9862672+00:00"
+  "LastUpdate_Ratings": "2023-08-13T03:58:02.8887234+00:00",
+  "LastUpdate_Achievements": "2023-08-13T04:07:10.3450253+00:00"
 }

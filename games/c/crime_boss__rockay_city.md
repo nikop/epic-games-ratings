@@ -5,28 +5,28 @@ Rating: 3.94 (Ranked 940)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~53,083 |
-| First One’s Free | 65.00% | ~46,627 |
-| Neophyte Ninja | 50.00% | ~35,867 |
-| Too Old for This | 47.00% | ~33,715 |
-| Case Closed | 35.00% | ~25,107 |
-| Fancy Pants | 35.00% | ~25,107 |
+| Downed but Not Outed | 74.00% | ~53,085 |
+| First One’s Free | 65.00% | ~46,628 |
+| Neophyte Ninja | 50.00% | ~35,868 |
+| Too Old for This | 47.00% | ~33,716 |
+| Case Closed | 35.00% | ~25,108 |
+| Fancy Pants | 35.00% | ~25,108 |
 | King of the Hill | 34.00% | ~24,390 |
 | Underworld Initiate | 29.00% | ~20,803 |
-| Roid Ranger | 21.00% | ~15,064 |
-| True Player | 19.00% | ~13,629 |
-| Off the Rocks | 19.00% | ~13,629 |
+| Roid Ranger | 21.00% | ~15,065 |
+| True Player | 19.00% | ~13,630 |
+| Off the Rocks | 19.00% | ~13,630 |
 | Raider’s Ruin | 17.00% | ~12,195 |
 | Dragonslayer | 17.00% | ~12,195 |
-| Hidden Sonata | 13.00% | ~9,325 |
+| Hidden Sonata | 13.00% | ~9,326 |
 | Rockay Rex | 11.00% | ~7,891 |
-| Freebooter | 10.00% | ~7,173 |
+| Freebooter | 10.00% | ~7,174 |
 | Track Star | 9.00% | ~6,456 |
 | Headhunter | 9.00% | ~6,456 |
 | Ding Dong | 9.00% | ~6,456 |
 | Classy Joint | 9.00% | ~6,456 |
 | I Like Trains | 8.00% | ~5,739 |
-| Foo Finder | 7.00% | ~5,021 |
+| Foo Finder | 7.00% | ~5,022 |
 | Savvy Seeker | 6.00% | ~4,304 |
 | Legend Looter | 5.00% | ~3,587 |
 | Imports and Exports | 4.00% | ~2,869 |
@@ -43,7 +43,7 @@ Rating: 3.94 (Ranked 940)
 | Geek Out | 0.60% | ~430 |
 | Full House | 0.20% | ~143 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 71,734 (Ranked 77)  
+Progressed: 71,736 (Ranked 77)  
 Completed: 38 (0.05%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,7 +158,7 @@ Completed: 38 (0.05%) (Ranked 220)
 | 2023-08-10 | 71,653 | 38 |
 | 2023-08-11 | 71,681 | 38 |
 | 2023-08-12 | 71,726 | 38 |
-| 2023-08-13 | 71,734 | 38 |
+| 2023-08-13 | 71,736 | 38 |
 ## Awards
 Max (Diverse Characters): 399  (Ranked 214)  
 Sum: 1,875 (Ranked 204)  

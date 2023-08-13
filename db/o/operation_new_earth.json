@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 877,
+  "EOS_Progressed": 878,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3106,6 +3106,11 @@
       "Time": "2023-08-13T01:43:14.6026033+00:00",
       "NumProgressed": 877,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-13T04:01:42.2434694+00:00",
+      "NumProgressed": 878,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -3245,7 +3250,7 @@
       "Name": "Lieutenant",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -3293,7 +3298,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -3309,7 +3314,7 @@
       "Name": "Getting Deployment",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -3325,7 +3330,7 @@
       "Name": "Stocking Up",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -3341,7 +3346,7 @@
       "Name": "On Target",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -3420,14 +3425,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 877,
+      "Progressed": 878,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-13T03:02:16.5191603+00:00",
+  "LastChanged_Achievements": "2023-08-13T04:01:42.2434689+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:27.4280109+00:00",
-  "LastUpdate_Ratings": "2023-08-13T02:57:34.4937822+00:00",
-  "LastUpdate_Achievements": "2023-08-13T03:02:16.5193122+00:00"
+  "LastUpdate_Ratings": "2023-08-13T03:57:44.0573746+00:00",
+  "LastUpdate_Achievements": "2023-08-13T04:01:42.2436311+00:00"
 }

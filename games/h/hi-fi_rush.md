@@ -15,12 +15,12 @@ Rating: 4.88 (Ranked 18)
 | I play my own way! | 6.00% | ~232 |
 | Perfect Parry | 6.00% | ~232 |
 | Alright, that felt AWESOME! | 6.00% | ~232 |
-| This will cost you big time | 5.00% | ~193 |
-| Z-shielding's got nothing on us! | 5.00% | ~193 |
-| Uh, they were broken when I got here | 5.00% | ~193 |
-| Kissing the sky! | 5.00% | ~193 |
-| I look cool. But I can look COOLER. | 5.00% | ~193 |
-| Does that say weakpoint? | 5.00% | ~193 |
+| This will cost you big time | 5.00% | ~194 |
+| Z-shielding's got nothing on us! | 5.00% | ~194 |
+| Uh, they were broken when I got here | 5.00% | ~194 |
+| Kissing the sky! | 5.00% | ~194 |
+| I look cool. But I can look COOLER. | 5.00% | ~194 |
+| Does that say weakpoint? | 5.00% | ~194 |
 | The Negotiator | 4.00% | ~155 |
 | Headliner | 4.00% | ~155 |
 | Time to pay up! | 4.00% | ~155 |
@@ -77,7 +77,7 @@ Rating: 4.88 (Ranked 18)
 | Voices from within | 0.10% | ~2 |
 | Low budget finish | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,869 (Ranked 147)  
+Progressed: 3,871 (Ranked 147)  
 Completed: 7 (0.18%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 7 (0.18%) (Ranked 185)
 | 2023-08-10 | 3,836 | 7 |
 | 2023-08-11 | 3,855 | 7 |
 | 2023-08-12 | 3,868 | 7 |
-| 2023-08-13 | 3,869 | 7 |
+| 2023-08-13 | 3,871 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

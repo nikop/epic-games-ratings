@@ -2,9 +2,9 @@
   "ID": "fe4fbacf140f4fb2a05f074730a3375c",
   "Name": "Angelo and Deemon: One Hell of a Quest",
   "ProductSlug": "angelo-and-deemon-one-hell-of-a-quest-94d7e2",
-  "Ranking_EOS_Progress": 477,
+  "Ranking_EOS_Progress": 470,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewPlayers": 281,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-09-30T00:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2,
+  "EOS_Progressed": 3,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33,6 +33,11 @@
     {
       "Time": "2023-08-11T16:05:26.8625117+00:00",
       "NumProgressed": 2,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-13T04:05:47.5670014+00:00",
+      "NumProgressed": 3,
       "NumCompleted": 0
     }
   ],
@@ -92,7 +97,7 @@
       "ID": "LikeDislike",
       "SetID": "bl5ebnd",
       "Name": "To Like, Or Not To Like?",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -174,20 +179,20 @@
       "Name": "Watch and Learn",
       "Percentage": 100,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     }
   ],
   "AchievementSets": [
     {
       "ID": "bl5ebnd",
       "IsBase": true,
-      "Progressed": 2,
+      "Progressed": 3,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-07T14:05:00.198888+00:00",
-  "LastChanged_Achievements": "2023-08-13T03:05:47.2124488+00:00",
+  "LastChanged_Achievements": "2023-08-13T04:05:47.5670008+00:00",
   "LastUpdate_AppInfo": "2023-08-10T10:57:09.5773097+00:00",
-  "LastUpdate_Ratings": "2023-08-13T02:58:06.8277865+00:00",
-  "LastUpdate_Achievements": "2023-08-13T03:05:47.2124637+00:00"
+  "LastUpdate_Ratings": "2023-08-13T03:58:15.5974152+00:00",
+  "LastUpdate_Achievements": "2023-08-13T04:05:47.5670126+00:00"
 }
