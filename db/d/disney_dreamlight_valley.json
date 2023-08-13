@@ -2,7 +2,7 @@
   "ID": "7e2ec8a47b8d41528eb6dd2efd2b1abc",
   "Name": "Disney Dreamlight Valley",
   "ProductSlug": "disney-dreamlight-valley",
-  "Ranking_Rating": 119,
+  "Ranking_Rating": 118,
   "Ranking_Popularity": 149,
   "Ranking_PopularitySum": 106,
   "Ranking_EOS_Progress": 125,
@@ -3104,7 +3104,7 @@
   ],
   "EOS_Progressed": 8558,
   "EOS_Completed": 195,
-  "EOS_NewPlayers": 261,
+  "EOS_NewPlayers": 259,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 2.28,
   "EosHistory": [
@@ -9473,9 +9473,9 @@
       "ID": "Goofys_Investor",
       "SetID": "chapdi4",
       "Name": "Goofy\u0027s Investor",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 75,
-      "UsersEstimate": 6076
+      "UsersEstimate": 6162
     },
     {
       "ID": "Miner",
@@ -9530,8 +9530,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-08-12T08:59:18.8223353+00:00",
-  "LastChanged_Achievements": "2023-08-13T11:04:20.7609625+00:00",
+  "LastChanged_Achievements": "2023-08-13T12:04:28.4667692+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:49.8985041+00:00",
-  "LastUpdate_Ratings": "2023-08-13T10:59:51.6837951+00:00",
-  "LastUpdate_Achievements": "2023-08-13T11:04:20.7610167+00:00"
+  "LastUpdate_Ratings": "2023-08-13T12:00:10.2965511+00:00",
+  "LastUpdate_Achievements": "2023-08-13T12:04:28.4668265+00:00"
 }

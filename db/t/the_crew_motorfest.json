@@ -4,8 +4,8 @@
   "ProductSlug": "the-crew-motorfest",
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 353,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 354,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-09-14T08:00:00+00:00",
     "PcReleaseDate": "2023-09-14T08:00:00+00:00",
@@ -26,6 +26,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-12T06:57:39.5761577+00:00",
-  "LastUpdate_Ratings": "2023-08-13T10:59:42.5594584+00:00",
-  "LastUpdate_Achievements": "2023-08-13T11:04:38.2164083+00:00"
+  "LastUpdate_Ratings": "2023-08-13T11:59:58.7387424+00:00",
+  "LastUpdate_Achievements": "2023-08-13T12:04:46.6434981+00:00"
 }

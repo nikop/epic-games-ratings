@@ -22,6 +22,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | The Daily Grind | 0.40% | ~538 |
 | Bounty Hunters | 0.40% | ~538 |
 | Flooding the Market | 0.40% | ~538 |
+| Where it Hurts | 0.40% | ~538 |
 | One-Armed Bandit | 0.40% | ~538 |
 | Dungeon Imports | 0.40% | ~538 |
 | Through Repetition, Perfection | 0.40% | ~538 |
@@ -32,7 +33,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Fated Encounters | 0.30% | ~403 |
 | Blank Page Syndrome | 0.30% | ~403 |
 | Demand for Supplies | 0.30% | ~403 |
-| Where it Hurts | 0.30% | ~403 |
 | Power of Love | 0.30% | ~403 |
 | Efficient Floor Space | 0.30% | ~403 |
 | Flawless Fusion | 0.30% | ~403 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Economy of Scarce | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,443 (Ranked 66)  
+Progressed: 134,447 (Ranked 66)  
 Completed: 132 (0.10%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,7 +234,7 @@ Completed: 132 (0.10%) (Ranked 203)
 | 2023-08-10 | 134,276 | 131 |
 | 2023-08-11 | 134,354 | 132 |
 | 2023-08-12 | 134,413 | 132 |
-| 2023-08-13 | 134,443 | 132 |
+| 2023-08-13 | 134,447 | 132 |
 ## Awards
 Max (Great for Beginners): 4,698  (Ranked 71)  
 Sum: 27,087 (Ranked 46)  

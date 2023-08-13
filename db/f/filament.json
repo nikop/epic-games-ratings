@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 279,
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewPlayers": 71,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -237,10 +237,10 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 198947,
+  "EOS_Progressed": 198953,
   "EOS_Completed": 478,
-  "EOS_NewPlayers": 567,
-  "EOS_NewCompleters": 1,
+  "EOS_NewPlayers": 569,
+  "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
     {
@@ -12522,6 +12522,11 @@
       "Time": "2023-08-13T11:03:37.2511812+00:00",
       "NumProgressed": 198947,
       "NumCompleted": 478
+    },
+    {
+      "Time": "2023-08-13T12:03:44.0759027+00:00",
+      "NumProgressed": 198953,
+      "NumCompleted": 478
     }
   ],
   "TotalAchievements": 29,
@@ -12557,7 +12562,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 187010
+      "UsersEstimate": 187016
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -12573,7 +12578,7 @@
       "Name": "I hope you\u0027re ready.",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1989
+      "UsersEstimate": 1990
     },
     {
       "ID": "ACHIEVEMENT_CARDS",
@@ -12605,7 +12610,7 @@
       "Name": "Answers can be found amongst the stars",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5968
+      "UsersEstimate": 5969
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTED",
@@ -12613,7 +12618,7 @@
       "Name": "Corrupted.",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 9947
+      "UsersEstimate": 9948
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTEDCOMPLETE",
@@ -12693,7 +12698,7 @@
       "Name": "Good things come in pairs... Coloured Pairs.",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 9947
+      "UsersEstimate": 9948
     },
     {
       "ID": "ACHIEVEMENT_REQUISITE",
@@ -12701,7 +12706,7 @@
       "Name": "Bend to the will of the arrows.",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5968
+      "UsersEstimate": 5969
     },
     {
       "ID": "ACHIEVEMENT_SECRET",
@@ -12733,7 +12738,7 @@
       "Name": "You have to start somewhere, right?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 13926
+      "UsersEstimate": 13927
     },
     {
       "ID": "ACHIEVEMENT_WITNESS",
@@ -12764,7 +12769,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 198947,
+      "Progressed": 198953,
       "Completed": 478
     }
   ],
@@ -12772,8 +12777,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-08-12T04:00:44.2118416+00:00",
-  "LastChanged_Achievements": "2023-08-13T11:03:37.25118+00:00",
+  "LastChanged_Achievements": "2023-08-13T12:03:44.0759021+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:39.8654099+00:00",
-  "LastUpdate_Ratings": "2023-08-13T11:00:48.6462794+00:00",
-  "LastUpdate_Achievements": "2023-08-13T11:03:37.2513613+00:00"
+  "LastUpdate_Ratings": "2023-08-13T12:01:11.290481+00:00",
+  "LastUpdate_Achievements": "2023-08-13T12:03:44.0760006+00:00"
 }

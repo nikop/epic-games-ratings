@@ -764,9 +764,9 @@
       "ID": "ACH_END_FIRST_MAIL_MISSION",
       "SetID": "al4k4nh",
       "Name": "I love customers",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 186
+      "UsersEstimate": 189
     },
     {
       "ID": "ACH_END_FIRST_TUTORIAL",
@@ -780,9 +780,9 @@
       "ID": "ACH_END_FIRST_WORKBENCH_MISSION",
       "SetID": "al4k4nh",
       "Name": "I can fix that",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 172
     },
     {
       "ID": "ACH_END_MAIL_MISSION_FAST",
@@ -796,9 +796,9 @@
       "ID": "ACH_FIRST_SHOCK",
       "SetID": "al4k4nh",
       "Name": "First shock",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 139
+      "UsersEstimate": 141
     },
     {
       "ID": "ACH_FIX_LIGHT_SWITCHES",
@@ -868,9 +868,9 @@
       "ID": "ACH_PLACE_MANY_ITEMS_IN_OFFICE",
       "SetID": "al4k4nh",
       "Name": "Huge electricity bill",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_REPAIR_GAME_ITEMS",
@@ -931,8 +931,8 @@
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2023-08-13T11:07:03.5847822+00:00",
+  "LastChanged_Achievements": "2023-08-13T12:07:30.1292731+00:00",
   "LastUpdate_AppInfo": "2023-08-09T17:56:58.4992812+00:00",
-  "LastUpdate_Ratings": "2023-08-13T10:58:36.6330082+00:00",
-  "LastUpdate_Achievements": "2023-08-13T11:07:03.584821+00:00"
+  "LastUpdate_Ratings": "2023-08-13T11:58:51.403638+00:00",
+  "LastUpdate_Achievements": "2023-08-13T12:07:30.1293064+00:00"
 }

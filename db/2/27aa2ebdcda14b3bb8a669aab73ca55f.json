@@ -4,11 +4,11 @@
   "ProductSlug": "the-elder-scrolls-online",
   "Ranking_Rating": 774,
   "Ranking_Popularity": 146,
-  "Ranking_PopularitySum": 225,
+  "Ranking_PopularitySum": 224,
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 353,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 354,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-07-20T15:00:00+00:00",
     "PcReleaseDate": "2023-07-20T15:00:00+00:00",
@@ -564,10 +564,16 @@
       "Rating": 4.32,
       "NumberOfAwards": 1350,
       "NumberOfAwardsMax": 954
+    },
+    {
+      "Time": "2023-08-13T12:02:10.5600287+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 1352,
+      "NumberOfAwardsMax": 954
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1350,
+  "NumberOfAwards": 1352,
   "NumberOfAwardsMax": 954,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -629,7 +635,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 42
+      "Count": 44
     }
   ],
   "EOS_Progressed": 0,
@@ -644,8 +650,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-20T19:00:34.5855853+00:00",
   "FirstSeenRating": "2023-07-21T13:07:17.4893089+00:00",
-  "LastChanged": "2023-08-13T10:02:38.0542235+00:00",
+  "LastChanged": "2023-08-13T12:02:10.5600285+00:00",
   "LastUpdate_AppInfo": "2023-08-10T17:57:18.391971+00:00",
-  "LastUpdate_Ratings": "2023-08-13T11:01:46.5193442+00:00",
-  "LastUpdate_Achievements": "2023-08-13T11:03:04.226538+00:00"
+  "LastUpdate_Ratings": "2023-08-13T12:02:10.5600291+00:00",
+  "LastUpdate_Achievements": "2023-08-13T12:03:09.1998492+00:00"
 }

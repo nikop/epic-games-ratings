@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 42,
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 353,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 354,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-10-20T17:50:00+00:00",
     "PcReleaseDate": "2009-10-13T13:00:00+00:00",
@@ -3050,10 +3050,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 27828,
       "NumberOfAwardsMax": 13577
+    },
+    {
+      "Time": "2023-08-13T12:00:24.0754569+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 27829,
+      "NumberOfAwardsMax": 13577
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27828,
+  "NumberOfAwards": 27829,
   "NumberOfAwardsMax": 13577,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3067,7 +3073,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1581
+      "Count": 1582
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3142,8 +3148,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-20T18:02:29.378678+00:00",
   "FirstSeenRating": "2022-10-21T00:33:04.5526796+00:00",
-  "LastChanged": "2023-08-13T04:59:44.1178475+00:00",
+  "LastChanged": "2023-08-13T12:00:24.0754568+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:01.2261306+00:00",
-  "LastUpdate_Ratings": "2023-08-13T11:00:06.8731001+00:00",
-  "LastUpdate_Achievements": "2023-08-13T11:05:16.4058453+00:00"
+  "LastUpdate_Ratings": "2023-08-13T12:00:24.0754574+00:00",
+  "LastUpdate_Achievements": "2023-08-13T12:05:19.9852134+00:00"
 }

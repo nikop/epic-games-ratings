@@ -2,7 +2,7 @@
   "ID": "4046b000e6b0477ea639ee07e28db3d0",
   "Name": "Hello Neighbor 2",
   "ProductSlug": "hello-neighbor-2",
-  "Ranking_Rating": 607,
+  "Ranking_Rating": 606,
   "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 159,
@@ -366,9 +366,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2734,
+  "EOS_Progressed": 2735,
   "EOS_Completed": 107,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 3.91,
   "EosHistory": [
@@ -2616,6 +2616,11 @@
       "Time": "2023-08-13T11:03:04.4307105+00:00",
       "NumProgressed": 2734,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2023-08-13T12:03:09.3500385+00:00",
+      "NumProgressed": 2735,
+      "NumCompleted": 107
     }
   ],
   "TotalAchievements": 14,
@@ -2635,7 +2640,7 @@
       "Name": "Case Closed",
       "Percentage": 36,
       "XP": 55,
-      "UsersEstimate": 984
+      "UsersEstimate": 985
     },
     {
       "ID": "ACH_CAT_LOVER",
@@ -2667,7 +2672,7 @@
       "Name": "Easy As Pie",
       "Percentage": 33,
       "XP": 55,
-      "UsersEstimate": 902
+      "UsersEstimate": 903
     },
     {
       "ID": "ACH_FAMILY_LOST",
@@ -2731,14 +2736,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 76,
       "XP": 35,
-      "UsersEstimate": 2078
+      "UsersEstimate": 2079
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2734,
+      "Progressed": 2735,
       "Completed": 107
     }
   ],
@@ -2746,8 +2751,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-08-12T10:57:00.5102545+00:00",
-  "LastChanged_Achievements": "2023-08-13T11:03:04.4307099+00:00",
+  "LastChanged_Achievements": "2023-08-13T12:03:09.350038+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:10.1375328+00:00",
-  "LastUpdate_Ratings": "2023-08-13T10:57:15.6954739+00:00",
-  "LastUpdate_Achievements": "2023-08-13T11:03:04.4307354+00:00"
+  "LastUpdate_Ratings": "2023-08-13T11:57:32.2361636+00:00",
+  "LastUpdate_Achievements": "2023-08-13T12:03:09.3500697+00:00"
 }

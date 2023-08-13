@@ -4,8 +4,8 @@
   "ProductSlug": "ea-sports-pga-tour",
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 353,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 354,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
     "PcReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -35,8 +35,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-08-13T11:06:25.1041955+00:00",
+  "LastChanged_Achievements": "2023-08-13T12:06:40.21876+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:07.1146116+00:00",
-  "LastUpdate_Ratings": "2023-08-13T10:57:12.2402668+00:00",
-  "LastUpdate_Achievements": "2023-08-13T11:06:25.104199+00:00"
+  "LastUpdate_Ratings": "2023-08-13T11:57:28.4112217+00:00",
+  "LastUpdate_Achievements": "2023-08-13T12:06:40.2187642+00:00"
 }

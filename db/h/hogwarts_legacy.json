@@ -6234,9 +6234,9 @@
       "Count": 584
     }
   ],
-  "EOS_Progressed": 289987,
+  "EOS_Progressed": 289992,
   "EOS_Completed": 449,
-  "EOS_NewPlayers": 485,
+  "EOS_NewPlayers": 489,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -18609,6 +18609,11 @@
       "Time": "2023-08-13T11:06:42.7357166+00:00",
       "NumProgressed": 289987,
       "NumCompleted": 449
+    },
+    {
+      "Time": "2023-08-13T12:07:08.3965322+00:00",
+      "NumProgressed": 289992,
+      "NumCompleted": 449
     }
   ],
   "TotalAchievements": 45,
@@ -18620,7 +18625,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 34798
+      "UsersEstimate": 34799
     },
     {
       "ID": "PFA_10",
@@ -18660,7 +18665,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 5,
       "XP": 70,
-      "UsersEstimate": 14499
+      "UsersEstimate": 14500
     },
     {
       "ID": "PFA_15",
@@ -18708,7 +18713,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11599
+      "UsersEstimate": 11600
     },
     {
       "ID": "PFA_20",
@@ -18756,7 +18761,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14499
+      "UsersEstimate": 14500
     },
     {
       "ID": "PFA_26",
@@ -18788,7 +18793,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14499
+      "UsersEstimate": 14500
     },
     {
       "ID": "PFA_3",
@@ -18820,7 +18825,7 @@
       "Name": "Room with a View",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11599
+      "UsersEstimate": 11600
     },
     {
       "ID": "PFA_33",
@@ -18868,7 +18873,7 @@
       "Name": "The Intrepid Explorer",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 11599
+      "UsersEstimate": 11600
     },
     {
       "ID": "PFA_39",
@@ -18884,7 +18889,7 @@
       "Name": "The Gryffindor in the Graveyard",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11599
+      "UsersEstimate": 11600
     },
     {
       "ID": "PFA_40",
@@ -18900,7 +18905,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11599
+      "UsersEstimate": 11600
     },
     {
       "ID": "PFA_42",
@@ -18908,7 +18913,7 @@
       "Name": "Raising Expectations",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 14499
+      "UsersEstimate": 14500
     },
     {
       "ID": "PFA_43",
@@ -18979,7 +18984,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 289987,
+      "Progressed": 289992,
       "Completed": 449
     }
   ],
@@ -18987,8 +18992,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-08-13T10:58:57.7595601+00:00",
-  "LastChanged_Achievements": "2023-08-13T11:06:42.7357158+00:00",
+  "LastChanged_Achievements": "2023-08-13T12:07:08.3965315+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:17.4814985+00:00",
-  "LastUpdate_Ratings": "2023-08-13T10:58:57.7595639+00:00",
-  "LastUpdate_Achievements": "2023-08-13T11:06:42.7359167+00:00"
+  "LastUpdate_Ratings": "2023-08-13T11:59:10.7247746+00:00",
+  "LastUpdate_Achievements": "2023-08-13T12:07:08.3966489+00:00"
 }

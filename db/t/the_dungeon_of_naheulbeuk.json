@@ -636,7 +636,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 211437,
+  "EOS_Progressed": 211472,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 3989,
   "EOS_NewCompleters": 1,
@@ -6746,6 +6746,11 @@
       "Time": "2023-08-13T11:05:19.5817701+00:00",
       "NumProgressed": 211437,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-13T12:05:23.3727579+00:00",
+      "NumProgressed": 211472,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 88,
@@ -6819,9 +6824,9 @@
       "ID": "Chapter3",
       "SetID": "50chcgj",
       "Name": "The plot thickens... At the tavern",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 423
+      "UsersEstimate": 634
     },
     {
       "ID": "Chapter4",
@@ -6963,9 +6968,9 @@
       "ID": "DLC2NoShopping",
       "SetID": "50p8kh1",
       "Name": "Hoarding",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 211
     },
     {
       "ID": "DLC2SmallParty",
@@ -7187,9 +7192,9 @@
       "ID": "DwarfLevel2",
       "SetID": "50chcgj",
       "Name": "Sock! SOCK!",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1057
+      "UsersEstimate": 1269
     },
     {
       "ID": "ElfEpic",
@@ -7205,7 +7210,7 @@
       "Name": "Sowwy!",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 23258
+      "UsersEstimate": 23262
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -7460,21 +7465,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 211437,
+      "Progressed": 211472,
       "Completed": 1
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 211437,
+      "Progressed": 211472,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-12T15:00:58.2777056+00:00",
-  "LastChanged_Achievements": "2023-08-13T11:05:19.5817694+00:00",
+  "LastChanged_Achievements": "2023-08-13T12:05:23.3727573+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:49.6773731+00:00",
-  "LastUpdate_Ratings": "2023-08-13T11:01:00.7657248+00:00",
-  "LastUpdate_Achievements": "2023-08-13T11:05:19.5820252+00:00"
+  "LastUpdate_Ratings": "2023-08-13T12:01:27.4658133+00:00",
+  "LastUpdate_Achievements": "2023-08-13T12:05:23.3729083+00:00"
 }

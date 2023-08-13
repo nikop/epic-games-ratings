@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 203,
   "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -5560,7 +5560,7 @@
       "Count": 3734
     }
   ],
-  "EOS_Progressed": 134443,
+  "EOS_Progressed": 134447,
   "EOS_Completed": 132,
   "EOS_NewPlayers": 461,
   "EOS_NewCompleters": 4,
@@ -17300,6 +17300,11 @@
       "Time": "2023-08-13T10:06:37.8501215+00:00",
       "NumProgressed": 134443,
       "NumCompleted": 132
+    },
+    {
+      "Time": "2023-08-13T12:06:14.047085+00:00",
+      "NumProgressed": 134447,
+      "NumCompleted": 132
     }
   ],
   "TotalAchievements": 112,
@@ -17613,9 +17618,9 @@
       "ID": "damage01",
       "SetID": "anfd17p",
       "Name": "Where it Hurts",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 403
+      "UsersEstimate": 538
     },
     {
       "ID": "damage02",
@@ -18206,15 +18211,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 134443,
+      "Progressed": 134447,
       "Completed": 132
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-08-12T16:00:50.2555961+00:00",
-  "LastChanged_Achievements": "2023-08-13T11:05:59.2360263+00:00",
+  "LastChanged_Achievements": "2023-08-13T12:06:14.0470845+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:13.9096409+00:00",
-  "LastUpdate_Ratings": "2023-08-13T11:00:22.2434764+00:00",
-  "LastUpdate_Achievements": "2023-08-13T11:05:59.2362776+00:00"
+  "LastUpdate_Ratings": "2023-08-13T12:00:41.4875485+00:00",
+  "LastUpdate_Achievements": "2023-08-13T12:06:14.0473179+00:00"
 }
