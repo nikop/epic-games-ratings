@@ -36,8 +36,8 @@
 | 34 | [Smelter](games/s/smelter.md) | 7.69% |
 | 35 | [Ravenlok](games/r/ravenlok.md) | 7.45% |
 | 36 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.95% |
-| 37 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.94% |
-| 38 | [Scorn](games/s/scorn.md) | 6.93% |
+| 37 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.93% |
+| 37 | [Scorn](games/s/scorn.md) | 6.93% |
 | 39 | [Time Loader](games/t/time_loader.md) | 6.84% |
 | 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.46% |
 | 41 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
@@ -57,7 +57,7 @@
 | 55 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.55% |
 | 56 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.20% |
 | 57 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.98% |
-| 58 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.92% |
+| 58 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.91% |
 | 59 | [ZZT!](games/z/zzt!.md) | 3.73% |
 | 60 | [Without Escape](games/w/without_escape.md) | 3.70% |
 | 61 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
@@ -79,7 +79,7 @@
 | 77 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.60% |
 | 78 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.56% |
 | 79 | [Lamentum](games/l/lamentum.md) | 2.54% |
-| 79 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.54% |
+| 80 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.52% |
 | 81 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 82 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.36% |
 | 83 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.34% |
@@ -115,8 +115,8 @@
 | 112 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.01% |
 | 114 | [Adios](games/a/adios.md) | 1.00% |
 | 115 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.98% |
-| 115 | [Sable](games/s/sable.md) | 0.98% |
-| 117 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.97% |
+| 116 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.97% |
+| 116 | [Sable](games/s/sable.md) | 0.97% |
 | 118 | [Hades](games/h/hades.md) | 0.90% |
 | 119 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 120 | [Dungeons 3](games/d/dungeons_3.md) | 0.81% |
@@ -146,9 +146,9 @@
 | 143 | [Them and Us](games/t/them_and_us.md) | 0.49% |
 | 145 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
 | 146 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.46% |
+| 146 | [Tchia](games/t/tchia.md) | 0.46% |
 | 146 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.46% |
 | 146 | [Train Valley](games/t/train_valley.md) | 0.46% |
-| 149 | [Tchia](games/t/tchia.md) | 0.45% |
 | 150 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.44% |
 | 151 | [Tails of Iron](games/t/tails_of_iron.md) | 0.43% |
 | 152 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.42% |
@@ -161,10 +161,10 @@
 | 159 | [The Surge](games/t/the_surge.md) | 0.35% |
 | 160 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.33% |
 | 160 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.33% |
+| 162 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.32% |
 | 162 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.32% |
-| 163 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
-| 163 | [Dead Island 2](games/d/dead_island_2.md) | 0.31% |
-| 163 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.31% |
+| 164 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
+| 164 | [Dead Island 2](games/d/dead_island_2.md) | 0.31% |
 | 166 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.30% |
 | 166 | [The First Tree](games/t/the_first_tree.md) | 0.30% |
 | 168 | [Scrapnaut](games/s/scrapnaut.md) | 0.29% |
