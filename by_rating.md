@@ -67,7 +67,7 @@
 | 59 | [TUNIC](games/t/tunic.md) | 4.83 | 34 | 441 |
 | 66 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 0 | 512 |
 | 66 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 1,520 | 120 |
-| 66 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,714 | 60 |
+| 66 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,717 | 60 |
 | 66 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 0 | 512 |
 | 66 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 512 |
 | 66 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 33 | 446 |
@@ -357,7 +357,7 @@
 | 344 | [NORCO](games/n/norco.md) | 4.62 | 0 | 512 |
 | 344 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.62 | 0 | 512 |
 | 344 | [Prey](games/p/prey.md) | 4.62 | 5,634 | 64 |
-| 344 | [Returnal™](games/r/returnal™.md) | 4.62 | 60 | 389 |
+| 344 | [Returnal™](games/r/returnal™.md) | 4.62 | 61 | 389 |
 | 344 | [Roguebook](games/r/roguebook.md) | 4.62 | 0 | 512 |
 | 344 | [System Shock](games/s/system_shock.md) | 4.62 | 0 | 512 |
 | 344 | [The Medium](games/t/the_medium.md) | 4.62 | 0 | 512 |
@@ -869,7 +869,7 @@
 | 863 | [Windbound](games/w/windbound.md) | 4.19 | 0 | 512 |
 | 868 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.18 | 92 | 348 |
 | 868 | [Gone Home](games/g/gone_home.md) | 4.18 | 0 | 512 |
-| 868 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 2,489 | 100 |
+| 868 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 2,491 | 100 |
 | 868 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 341 |
 | 868 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.18 | 0 | 512 |
 | 868 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 0 | 512 |
