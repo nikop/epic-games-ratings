@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -240,7 +240,7 @@
   "Tags": [],
   "EOS_Progressed": 461,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1599,9 +1599,9 @@
       "ID": "ACH_FIN_CH07",
       "SetID": "1j25agn",
       "Name": "The Horror",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 134
     },
     {
       "ID": "ACH_FIN_CH08",
@@ -1807,8 +1807,8 @@
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-06-24T07:57:51.3010975+00:00",
-  "LastChanged_Achievements": "2023-08-13T20:08:06.348001+00:00",
+  "LastChanged_Achievements": "2023-08-13T21:05:52.0992182+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:20.2353835+00:00",
-  "LastUpdate_Ratings": "2023-08-13T19:59:35.5707106+00:00",
-  "LastUpdate_Achievements": "2023-08-13T20:08:06.3480702+00:00"
+  "LastUpdate_Ratings": "2023-08-13T20:58:26.7288421+00:00",
+  "LastUpdate_Achievements": "2023-08-13T21:05:52.0992683+00:00"
 }

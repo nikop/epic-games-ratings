@@ -16,8 +16,8 @@
 | Taskmaster | 6.00% | ~8 |
 | Conciliator | 5.00% | ~7 |
 | Scholar | 5.00% | ~7 |
+| Courier | 5.00% | ~7 |
 | Acquaintance | 5.00% | ~7 |
-| Courier | 4.00% | ~5 |
 | Tail-wind | 4.00% | ~5 |
 | Quartermaster | 3.00% | ~4 |
 | Supercargo | 3.00% | ~4 |

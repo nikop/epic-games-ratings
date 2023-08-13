@@ -4,7 +4,7 @@
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 38,
-  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewPlayers": 241,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 189,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 6.88,
   "EosHistory": [
@@ -778,9 +778,9 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "8d3ci0",
       "Name": "Duck invasion",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 57
+      "UsersEstimate": 59
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -818,9 +818,9 @@
       "ID": "NEW_ACHIEVEMENT_1_14",
       "SetID": "8d3ci0",
       "Name": "Putting challenge",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 45
+      "UsersEstimate": 47
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_15",
@@ -834,9 +834,9 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "8d3ci0",
       "Name": "Family pond",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 53
+      "UsersEstimate": 55
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -905,8 +905,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-08-13T20:03:05.9763866+00:00",
+  "LastChanged_Achievements": "2023-08-13T21:00:54.5603761+00:00",
   "LastUpdate_AppInfo": "2023-08-12T15:56:58.9050315+00:00",
-  "LastUpdate_Ratings": "2023-08-13T19:58:40.8972521+00:00",
-  "LastUpdate_Achievements": "2023-08-13T20:03:05.9764409+00:00"
+  "LastUpdate_Ratings": "2023-08-13T20:57:47.1057006+00:00",
+  "LastUpdate_Achievements": "2023-08-13T21:00:54.560393+00:00"
 }

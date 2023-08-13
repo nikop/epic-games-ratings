@@ -2,9 +2,9 @@
   "ID": "89da53d6472d4b8f864f68e3bbd999a3",
   "Name": "12 orbits",
   "ProductSlug": "12-orbits-c48266",
-  "Ranking_EOS_Progress": 434,
+  "Ranking_EOS_Progress": 432,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewPlayers": 312,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-03-18T09:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11,
+  "EOS_Progressed": 12,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -87,6 +87,11 @@
     {
       "Time": "2023-08-08T16:04:06.5343294+00:00",
       "NumProgressed": 11,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-13T21:04:20.9157992+00:00",
+      "NumProgressed": 12,
       "NumCompleted": 0
     }
   ],
@@ -154,7 +159,7 @@
       "ID": "ACHIEVEMENT_BlizzardPracticeScore3",
       "SetID": "ahb97f7",
       "Name": "[Tier 4]\u2003The oncoming storm",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -162,7 +167,7 @@
       "ID": "ACHIEVEMENT_ColorManySpheresWithOneBlast",
       "SetID": "ahb97f7",
       "Name": "[Tier 1]\u2003Worth the trouble",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 40,
       "UsersEstimate": 2
     },
@@ -194,7 +199,7 @@
       "ID": "ACHIEVEMENT_Fireworks",
       "SetID": "ahb97f7",
       "Name": "[Tier 1]\u2003Fireworks",
-      "Percentage": 45,
+      "Percentage": 42,
       "XP": 40,
       "UsersEstimate": 5
     },
@@ -210,7 +215,7 @@
       "ID": "ACHIEVEMENT_InstantKarma",
       "SetID": "ahb97f7",
       "Name": "[Tier 1]\u2003Instant Karma",
-      "Percentage": 27,
+      "Percentage": 25,
       "XP": 40,
       "UsersEstimate": 3
     },
@@ -218,7 +223,7 @@
       "ID": "ACHIEVEMENT_Modification",
       "SetID": "ahb97f7",
       "Name": "[Tier 1]\u2003Mix and match",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 40,
       "UsersEstimate": 2
     },
@@ -258,7 +263,7 @@
       "ID": "ACHIEVEMENT_TeamEffort",
       "SetID": "ahb97f7",
       "Name": "[Tier 2]\u2003Team effort",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -299,7 +304,7 @@
     {
       "ID": "ahb97f7",
       "IsBase": true,
-      "Progressed": 11,
+      "Progressed": 12,
       "Completed": 0
     }
   ],
@@ -307,8 +312,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.7236131+00:00",
   "FirstSeenAchievements": "2023-06-14T13:12:06.2445404+00:00",
   "LastChanged": "2023-03-31T05:58:07.7236132+00:00",
-  "LastChanged_Achievements": "2023-08-13T20:05:58.4546375+00:00",
+  "LastChanged_Achievements": "2023-08-13T21:04:20.9157986+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:33.990636+00:00",
-  "LastUpdate_Ratings": "2023-08-13T20:02:21.3346944+00:00",
-  "LastUpdate_Achievements": "2023-08-13T20:05:58.4546611+00:00"
+  "LastUpdate_Ratings": "2023-08-13T21:00:22.8825415+00:00",
+  "LastUpdate_Achievements": "2023-08-13T21:04:20.9158131+00:00"
 }

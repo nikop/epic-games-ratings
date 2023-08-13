@@ -6,9 +6,9 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 12.00% | ~25,413 |
+| Sowwy! | 12.00% | ~25,416 |
+| Where's that freaking Dwarf? | 0.80% | ~1,694 |
 | Alt+F4 | 0.80% | ~1,694 |
-| Where's that freaking Dwarf? | 0.70% | ~1,482 |
 | Déjà vu | 0.60% | ~1,271 |
 | Sock! SOCK! | 0.60% | ~1,271 |
 | Speedrun | 0.50% | ~1,059 |
@@ -20,6 +20,7 @@ Number of Ratings: 118  (23.09.2022)
 | Way of the Wimp | 0.30% | ~635 |
 | The plot thickens... At the tavern | 0.30% | ~635 |
 | %#*!$*! | 0.30% | ~635 |
+| Team Building Exercise | 0.30% | ~635 |
 | Shiny and Crôm | 0.20% | ~424 |
 | The demons' feast | 0.20% | ~424 |
 | The Great Library | 0.20% | ~424 |
@@ -37,7 +38,6 @@ Number of Ratings: 118  (23.09.2022)
 | The Ranger of Chaos | 0.20% | ~424 |
 | I am the night | 0.20% | ~424 |
 | Thieves' Guild Accreditation | 0.20% | ~424 |
-| Team Building Exercise | 0.20% | ~424 |
 | Oh, when I'll be level 10... | 0.20% | ~424 |
 | Cursed die | 0.10% | ~212 |
 | Holistic Adventuring Party | 0.10% | ~212 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Sleep schedule mastery | 0.00% | ~0 |
 | Dumb and dumber | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 211,774 (Ranked 56)  
+Progressed: 211,801 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,7 +169,7 @@ Completed: 2 (0.00%) (Ranked 255)
 | 2023-08-10 | 210,011 | 0 |
 | 2023-08-11 | 210,534 | 1 |
 | 2023-08-12 | 211,199 | 1 |
-| 2023-08-13 | 211,774 | 2 |
+| 2023-08-13 | 211,801 | 2 |
 ## Awards
 Max (Character Customization): 163  (Ranked 291)  
 Sum: 183 (Ranked 376)  

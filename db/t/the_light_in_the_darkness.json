@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2163,
+  "EOS_Progressed": 2164,
   "EOS_Completed": 195,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 9.02,
+  "EOS_Completed_Percentage": 9.01,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -4913,6 +4913,11 @@
       "Time": "2023-08-13T19:04:49.854993+00:00",
       "NumProgressed": 2163,
       "NumCompleted": 195
+    },
+    {
+      "Time": "2023-08-13T21:03:54.7640259+00:00",
+      "NumProgressed": 2164,
+      "NumCompleted": 195
     }
   ],
   "TotalAchievements": 12,
@@ -4924,7 +4929,7 @@
       "Name": "Arranging Boxes",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "Bernard",
@@ -4956,7 +4961,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 800
+      "UsersEstimate": 801
     },
     {
       "ID": "Jakob",
@@ -5004,7 +5009,7 @@
       "Name": "Nazis in Paris",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "Nuremberg Laws",
@@ -5019,7 +5024,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2163,
+      "Progressed": 2164,
       "Completed": 195
     }
   ],
@@ -5027,8 +5032,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-08-13T20:05:21.4784246+00:00",
+  "LastChanged_Achievements": "2023-08-13T21:03:54.7640255+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:29.1677091+00:00",
-  "LastUpdate_Ratings": "2023-08-13T20:02:15.6274103+00:00",
-  "LastUpdate_Achievements": "2023-08-13T20:05:21.478496+00:00"
+  "LastUpdate_Ratings": "2023-08-13T21:00:17.8127753+00:00",
+  "LastUpdate_Achievements": "2023-08-13T21:03:54.7640572+00:00"
 }

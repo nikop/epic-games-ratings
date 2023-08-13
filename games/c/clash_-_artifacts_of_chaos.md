@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Declawing | 68.00% | ~70 |
-| Target Practice | 41.00% | ~42 |
+| Target Practice | 42.00% | ~43 |
 | Over the Moon | 32.00% | ~33 |
 | The Bigger They Are | 30.00% | ~31 |
 | Enemies of Fate | 30.00% | ~31 |

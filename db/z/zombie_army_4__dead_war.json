@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
@@ -1923,9 +1923,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 43252,
+  "EOS_Progressed": 43253,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5883,6 +5883,11 @@
       "Time": "2023-08-13T17:07:02.8272053+00:00",
       "NumProgressed": 43252,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-08-13T21:05:19.884033+00:00",
+      "NumProgressed": 43253,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -5966,7 +5971,7 @@
       "Name": "Look mummy! A shark!",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 17733
+      "UsersEstimate": 17734
     },
     {
       "ID": "SE_COMPLETE_DAMNATION_VALLEY",
@@ -5998,7 +6003,7 @@
       "Name": "In the dark dark woods...",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 16868
+      "UsersEstimate": 16869
     },
     {
       "ID": "SE_COMPLETE_GRAVEYARD_SHIFT",
@@ -6086,7 +6091,7 @@
       "Name": "Choo choo!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 26816
+      "UsersEstimate": 26817
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -6134,7 +6139,7 @@
       "Name": "Everyone\u0027s a mad scientist, life is the lab",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 7785
+      "UsersEstimate": 7786
     },
     {
       "ID": "SE_COMPLETE_VENICE",
@@ -6142,7 +6147,7 @@
       "Name": "The boat can leave now...tell the crew",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 21193
+      "UsersEstimate": 21194
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -6182,7 +6187,7 @@
       "Name": "Double tap",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 16003
+      "UsersEstimate": 16004
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_HEALING",
@@ -6222,7 +6227,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 29844
+      "UsersEstimate": 29845
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -6262,7 +6267,7 @@
       "Name": "Stand back boy!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 20328
+      "UsersEstimate": 20329
     },
     {
       "ID": "SE_KILL_X_ZOMBIES",
@@ -6294,7 +6299,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 28546
+      "UsersEstimate": 28547
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -6358,7 +6363,7 @@
       "Name": "Gore soaked",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 10380
+      "UsersEstimate": 10381
     },
     {
       "ID": "SE_REACH_WAVE_X",
@@ -6406,7 +6411,7 @@
       "Name": "Take them down screaming",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 7785
+      "UsersEstimate": 7786
     },
     {
       "ID": "SE_X_HEADSHOTS_WITH_ONE_BULLET",
@@ -6421,15 +6426,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 43252,
+      "Progressed": 43253,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-08-13T13:57:18.0481385+00:00",
-  "LastChanged_Achievements": "2023-08-13T20:07:20.3416996+00:00",
+  "LastChanged_Achievements": "2023-08-13T21:05:19.8840324+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:09.4758058+00:00",
-  "LastUpdate_Ratings": "2023-08-13T19:57:47.5320643+00:00",
-  "LastUpdate_Achievements": "2023-08-13T20:07:20.3417976+00:00"
+  "LastUpdate_Ratings": "2023-08-13T20:57:06.4835465+00:00",
+  "LastUpdate_Achievements": "2023-08-13T21:05:19.8841+00:00"
 }

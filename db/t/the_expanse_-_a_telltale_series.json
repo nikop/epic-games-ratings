@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7408,
+  "EOS_Progressed": 7419,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2408,
+  "EOS_NewPlayers": 2399,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1837,6 +1837,11 @@
       "Time": "2023-08-13T20:07:50.3426805+00:00",
       "NumProgressed": 7408,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-13T21:05:40.614776+00:00",
+      "NumProgressed": 7419,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -1889,7 +1894,7 @@
       "Name": "Doctor Approved",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 1185
+      "UsersEstimate": 1187
     },
     {
       "ID": "15",
@@ -1897,7 +1902,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 889
+      "UsersEstimate": 890
     },
     {
       "ID": "16",
@@ -1913,7 +1918,7 @@
       "Name": "Spore Taste",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     },
     {
       "ID": "18",
@@ -1921,15 +1926,15 @@
       "Name": "Bottoms up!",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "19",
       "SetID": "458bbdk",
       "Name": "Martian Music",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 519
+      "UsersEstimate": 594
     },
     {
       "ID": "2",
@@ -1937,7 +1942,7 @@
       "Name": "Data Logger",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "20",
@@ -1945,7 +1950,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "21",
@@ -2025,7 +2030,7 @@
       "Name": "Captain Drummer",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1111
+      "UsersEstimate": 1113
     },
     {
       "ID": "30",
@@ -2057,7 +2062,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "7",
@@ -2088,14 +2093,14 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 7408,
+      "Progressed": 7419,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged_Achievements": "2023-08-13T20:07:50.3426793+00:00",
+  "LastChanged_Achievements": "2023-08-13T21:05:40.6147757+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:56.6215488+00:00",
-  "LastUpdate_Ratings": "2023-08-13T20:01:45.2316602+00:00",
-  "LastUpdate_Achievements": "2023-08-13T20:07:50.3427247+00:00"
+  "LastUpdate_Ratings": "2023-08-13T20:59:57.9381144+00:00",
+  "LastUpdate_Achievements": "2023-08-13T21:05:40.6148017+00:00"
 }

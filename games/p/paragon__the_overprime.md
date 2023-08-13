@@ -1,7 +1,7 @@
 # Paragon: The Overprime
 [Store](https://store.epicgames.com/en-US/p/paragon-the-overprime-0bca60)  
 [View Rawdata](../../db/p/paragon__the_overprime.json)  
-Rating: 4.24 (Ranked 829)  
+Rating: 4.24 (Ranked 828)  
 ## Awards
 Max (Diverse Characters): 547  (Ranked 193)  
 Sum: 4,059 (Ranked 142)  

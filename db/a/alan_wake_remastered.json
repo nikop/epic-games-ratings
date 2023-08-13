@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 86,
+  "Ranking_EOS_NewPlayers": 85,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,7 +512,7 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 60806,
+  "EOS_Progressed": 60808,
   "EOS_Completed": 64,
   "EOS_NewPlayers": 396,
   "EOS_NewCompleters": 0,
@@ -11162,6 +11162,11 @@
       "Time": "2023-08-13T20:06:57.658021+00:00",
       "NumProgressed": 60806,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-13T21:05:03.9347194+00:00",
+      "NumProgressed": 60808,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -11173,7 +11178,7 @@
       "Name": "Follow the Light",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 22498
+      "UsersEstimate": 22499
     },
     {
       "ID": "02",
@@ -11181,7 +11186,7 @@
       "Name": "Nordic Walking",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 13985
+      "UsersEstimate": 13986
     },
     {
       "ID": "03",
@@ -11189,7 +11194,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 13377
+      "UsersEstimate": 13378
     },
     {
       "ID": "04",
@@ -11205,7 +11210,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 12161
+      "UsersEstimate": 12162
     },
     {
       "ID": "06",
@@ -11293,7 +11298,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4256
+      "UsersEstimate": 4257
     },
     {
       "ID": "17",
@@ -11301,7 +11306,7 @@
       "Name": "Departure",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4256
+      "UsersEstimate": 4257
     },
     {
       "ID": "18",
@@ -11365,7 +11370,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4864
+      "UsersEstimate": 4865
     },
     {
       "ID": "26",
@@ -11581,7 +11586,7 @@
       "Name": "A Friend Indeed",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1456
+      "UsersEstimate": 1457
     },
     {
       "ID": "53",
@@ -11669,7 +11674,7 @@
       "Name": "Iron Will",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "64",
@@ -11708,21 +11713,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 60806,
+      "Progressed": 60808,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 24274,
+      "Progressed": 24276,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-13T20:06:57.6580199+00:00",
+  "LastChanged_Achievements": "2023-08-13T21:05:03.9347189+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:20.2881971+00:00",
-  "LastUpdate_Ratings": "2023-08-13T19:59:48.2075957+00:00",
-  "LastUpdate_Achievements": "2023-08-13T20:06:57.6581925+00:00"
+  "LastUpdate_Ratings": "2023-08-13T20:58:36.699936+00:00",
+  "LastUpdate_Achievements": "2023-08-13T21:05:03.9348184+00:00"
 }

@@ -6,32 +6,32 @@ Number of Ratings: 1,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 68.00% | ~44,513 |
-| INFUSED WITH LIGHT | 53.00% | ~34,694 |
-| FOXIN' AROUND | 29.00% | ~18,984 |
-| FETCH | 27.00% | ~17,674 |
-| BLOOMS OF LIGHT | 26.00% | ~17,020 |
-| BEST FRIENDS | 22.00% | ~14,401 |
-| AWAKEN | 21.00% | ~13,747 |
-| ERADICATE | 21.00% | ~13,747 |
-| SPIRIT BARK | 21.00% | ~13,747 |
-| GARDEN OF LIGHT | 18.00% | ~11,783 |
-| SPIRIT FORM | 16.00% | ~10,474 |
-| UPROOTING DARKNESS | 15.00% | ~9,819 |
-| WRITTEN IN STONE | 15.00% | ~9,819 |
-| WEIGHTLESS | 12.00% | ~7,855 |
-| SPIRIT DASH | 11.00% | ~7,201 |
-| OLD COMPANION | 9.00% | ~5,891 |
-| PLAGUE DOCTOR | 8.00% | ~5,237 |
-| SPIRITED AWAY | 8.00% | ~5,237 |
-| MATCH MAKER | 7.00% | ~4,582 |
-| NORTHERN LIGHTS | 7.00% | ~4,582 |
-| FOX? OR FLYING SQUIRREL? | 4.00% | ~2,618 |
+| A GUARDIAN FORGOTTEN | 68.00% | ~44,519 |
+| INFUSED WITH LIGHT | 53.00% | ~34,699 |
+| FOXIN' AROUND | 29.00% | ~18,986 |
+| FETCH | 27.00% | ~17,677 |
+| BLOOMS OF LIGHT | 26.00% | ~17,022 |
+| BEST FRIENDS | 22.00% | ~14,403 |
+| AWAKEN | 21.00% | ~13,748 |
+| ERADICATE | 21.00% | ~13,748 |
+| SPIRIT BARK | 21.00% | ~13,748 |
+| GARDEN OF LIGHT | 18.00% | ~11,784 |
+| SPIRIT FORM | 16.00% | ~10,475 |
+| UPROOTING DARKNESS | 15.00% | ~9,820 |
+| WRITTEN IN STONE | 15.00% | ~9,820 |
+| WEIGHTLESS | 12.00% | ~7,856 |
+| SPIRIT DASH | 11.00% | ~7,202 |
+| OLD COMPANION | 9.00% | ~5,892 |
+| PLAGUE DOCTOR | 8.00% | ~5,238 |
+| SPIRITED AWAY | 8.00% | ~5,238 |
+| MATCH MAKER | 7.00% | ~4,583 |
+| NORTHERN LIGHTS | 7.00% | ~4,583 |
+| FOX? OR FLYING SQUIRREL? | 4.00% | ~2,619 |
 | ANCIENT HISTORY | 3.00% | ~1,964 |
 | NONE FORGOTTEN | 2.00% | ~1,309 |
 | KINDRED SPIRITS | 0.60% | ~393 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,461 (Ranked 83)  
+Progressed: 65,469 (Ranked 83)  
 Completed: 345 (0.53%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,7 +146,7 @@ Completed: 345 (0.53%) (Ranked 138)
 | 2023-08-10 | 65,162 | 341 |
 | 2023-08-11 | 65,249 | 343 |
 | 2023-08-12 | 65,372 | 344 |
-| 2023-08-13 | 65,461 | 345 |
+| 2023-08-13 | 65,469 | 345 |
 ## Awards
 Max (Extremely Fun): 26  (Ranked 474)  
 Sum: 114 (Ranked 410)  

@@ -15,7 +15,7 @@ Number of Ratings: 28  (23.09.2022)
 | Need to think | 41.00% | ~178 |
 | Completely nuts! | 38.00% | ~165 |
 | Just in time! | 32.00% | ~139 |
-| Europe | 30.00% | ~130 |
+| Europe | 31.00% | ~135 |
 | It's no coincidence. | 29.00% | ~126 |
 | Madness! | 28.00% | ~122 |
 | Philatelist | 26.00% | ~113 |
@@ -28,8 +28,8 @@ Number of Ratings: 28  (23.09.2022)
 | Sabotage | 17.00% | ~74 |
 | America | 16.00% | ~70 |
 | Woodcutter | 11.00% | ~48 |
+| Achtung! | 11.00% | ~48 |
 | Engineer | 10.00% | ~44 |
-| Achtung! | 10.00% | ~44 |
 | Japan | 9.00% | ~39 |
 | Tycoon | 8.00% | ~35 |
 | Germany | 6.00% | ~26 |

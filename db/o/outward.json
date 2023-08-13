@@ -4,7 +4,7 @@
   "ProductSlug": "outward",
   "Ranking_Rating": 485,
   "Ranking_Popularity": 446,
-  "Ranking_PopularitySum": 353,
+  "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 184,
@@ -4267,9 +4267,9 @@
       "ID": "ReadyforWinter_42",
       "SetID": "c4hee28",
       "Name": "Ready for Winter",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 2112
+      "UsersEstimate": 2145
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -4419,8 +4419,8 @@
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-07-11T02:15:21.6079736+00:00",
-  "LastChanged_Achievements": "2023-08-13T20:05:20.2756289+00:00",
+  "LastChanged_Achievements": "2023-08-13T21:03:53.939011+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:38.7353115+00:00",
-  "LastUpdate_Ratings": "2023-08-13T20:00:12.2134704+00:00",
-  "LastUpdate_Achievements": "2023-08-13T20:05:20.275713+00:00"
+  "LastUpdate_Ratings": "2023-08-13T20:58:52.9889152+00:00",
+  "LastUpdate_Achievements": "2023-08-13T21:03:53.9391172+00:00"
 }

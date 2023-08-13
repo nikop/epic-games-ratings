@@ -66,17 +66,17 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egyptian Paganism | 0.90% | ~121 |
 | Drillmaster | 0.80% | ~107 |
 | Intercessor | 0.80% | ~107 |
+| Valiant | 0.80% | ~107 |
 | Sages | 0.80% | ~107 |
 | Acropolis | 0.80% | ~107 |
+| Mausoleum | 0.80% | ~107 |
 | Mythology | 0.80% | ~107 |
 | Points Victory | 0.80% | ~107 |
-| Valiant | 0.70% | ~94 |
+| Beloved | 0.70% | ~94 |
 | Champions | 0.70% | ~94 |
-| Mausoleum | 0.70% | ~94 |
 | Greece | 0.70% | ~94 |
 | Building Wonders | 0.70% | ~94 |
 | Hanging Gardens in Babylon | 0.60% | ~80 |
-| Beloved | 0.60% | ~80 |
 | Conqueror | 0.60% | ~80 |
 | Mighty | 0.60% | ~80 |
 | Victorious | 0.60% | ~80 |
@@ -91,6 +91,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Phalangite | 0.60% | ~80 |
 | Double Victory | 0.60% | ~80 |
 | Win a Single Player Game | 0.60% | ~80 |
+| Devout | 0.50% | ~67 |
 | Invincible | 0.50% | ~67 |
 | Lion | 0.50% | ~67 |
 | Subjugator | 0.50% | ~67 |
@@ -114,7 +115,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Bad Heir Day | 0.40% | ~54 |
 | Ishtar Gate in Babylon | 0.40% | ~54 |
 | Capable | 0.40% | ~54 |
-| Devout | 0.40% | ~54 |
 | Ready | 0.40% | ~54 |
 | Strong Difficulty | 0.40% | ~54 |
 | Clerics | 0.40% | ~54 |
@@ -236,6 +236,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | A Tyresome Siege | 0.10% | ~13 |
 | Alexander the Mediocre | 0.10% | ~13 |
 | Alexander the Alright | 0.10% | ~13 |
+| Toppling the Giants | 0.10% | ~13 |
 | Hardcore | 0.10% | ~13 |
 | Learn By Playing 1 - Able | 0.10% | ~13 |
 | Learn By Playing 2 - Just | 0.10% | ~13 |
@@ -294,7 +295,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Queen of War | 0.00% | ~0 |
 | Alexander the Great | 0.00% | ~0 |
 | Youth Prevails | 0.00% | ~0 |
-| Toppling the Giants | 0.00% | ~0 |
 | Rule of Pharaohs | 0.00% | ~0 |
 | The Eastern Empire | 0.00% | ~0 |
 | Mausoleum in Halicarnassus | 0.00% | ~0 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,398 (Ranked 117)  
+Progressed: 13,399 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -418,7 +418,7 @@ Completed: 5 (0.04%) (Ranked 224)
 | 2023-08-10 | 13,349 | 5 |
 | 2023-08-11 | 13,363 | 5 |
 | 2023-08-12 | 13,385 | 5 |
-| 2023-08-13 | 13,398 | 5 |
+| 2023-08-13 | 13,399 | 5 |
 ## Awards
 Max (Relaxing): 219  (Ranked 264)  
 Sum: 1,790 (Ranked 206)  

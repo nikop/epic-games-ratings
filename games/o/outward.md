@@ -7,7 +7,7 @@ Number of Ratings: 266  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Venture Outward | 75.00% | ~2,475 |
-| Ready for Winter | 64.00% | ~2,112 |
+| Ready for Winter | 65.00% | ~2,145 |
 | Ready for Summer | 52.00% | ~1,716 |
 | Cordon Bleu | 43.00% | ~1,419 |
 | Tapped! | 37.00% | ~1,221 |
@@ -163,8 +163,8 @@ Completed: 3 (0.09%) (Ranked 207)
 | 2023-08-13 | 3,300 | 3 |
 ## Awards
 Max (Highly Recommended): 33  (Ranked 446)  
-Sum: 241 (Ranked 353)  
-Diff (max vs sum): 93  
+Sum: 241 (Ranked 354)  
+Diff (max vs sum): 92  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 33 |

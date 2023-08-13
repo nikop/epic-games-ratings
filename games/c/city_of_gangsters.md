@@ -1,33 +1,33 @@
 # City of Gangsters
 [Store](https://store.epicgames.com/en-US/p/city-of-gangsters-6c2974)  
 [View Rawdata](../../db/c/city_of_gangsters.json)  
-Rating: 4.26 (Ranked 815)  
+Rating: 4.26 (Ranked 814)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~154,980 |
-| Copacetic Coordination | 16.00% | ~53,906 |
-| Fronting the Money | 14.00% | ~47,168 |
-| The Dawn of Automation | 14.00% | ~47,168 |
-| Extraordinary Logistics | 14.00% | ~47,168 |
-| Dirty Money | 13.00% | ~43,799 |
-| Family First | 13.00% | ~43,799 |
-| Cleaning House | 12.00% | ~40,430 |
-| Room in the Back | 12.00% | ~40,430 |
-| Booze Baron | 11.00% | ~37,061 |
-| Beating the Heat | 10.00% | ~33,691 |
-| Friends on the Force | 10.00% | ~33,691 |
-| Neighborhood Watch | 10.00% | ~33,691 |
-| Core Corps | 8.00% | ~26,953 |
-| Sizeable Stash | 8.00% | ~26,953 |
-| Street Fighter | 7.00% | ~23,584 |
-| Friendly Gestures | 7.00% | ~23,584 |
-| People Person | 7.00% | ~23,584 |
-| Liquor Lord | 6.00% | ~20,215 |
-| Safety in Numbers | 6.00% | ~20,215 |
-| Wise Head | 6.00% | ~20,215 |
-| Show ‘em the Sugar | 6.00% | ~20,215 |
-| Killing Them Softly | 6.00% | ~20,215 |
+| Corner Clout | 46.00% | ~154,986 |
+| Copacetic Coordination | 16.00% | ~53,908 |
+| Fronting the Money | 14.00% | ~47,170 |
+| The Dawn of Automation | 14.00% | ~47,170 |
+| Extraordinary Logistics | 14.00% | ~47,170 |
+| Dirty Money | 13.00% | ~43,800 |
+| Family First | 13.00% | ~43,800 |
+| Cleaning House | 12.00% | ~40,431 |
+| Room in the Back | 12.00% | ~40,431 |
+| Booze Baron | 11.00% | ~37,062 |
+| Beating the Heat | 10.00% | ~33,693 |
+| Friends on the Force | 10.00% | ~33,693 |
+| Neighborhood Watch | 10.00% | ~33,693 |
+| Core Corps | 8.00% | ~26,954 |
+| Sizeable Stash | 8.00% | ~26,954 |
+| Street Fighter | 7.00% | ~23,585 |
+| Friendly Gestures | 7.00% | ~23,585 |
+| People Person | 7.00% | ~23,585 |
+| Liquor Lord | 6.00% | ~20,216 |
+| Safety in Numbers | 6.00% | ~20,216 |
+| Wise Head | 6.00% | ~20,216 |
+| Show ‘em the Sugar | 6.00% | ~20,216 |
+| Killing Them Softly | 6.00% | ~20,216 |
 | Street Knowledge | 5.00% | ~16,846 |
 | Oh Captain | 5.00% | ~16,846 |
 | Branching Out | 5.00% | ~16,846 |
@@ -41,18 +41,18 @@ Rating: 4.26 (Ranked 815)
 | An Affront to the Enemy | 4.00% | ~13,477 |
 | Friends from Back Home | 4.00% | ~13,477 |
 | Half Century Mark | 4.00% | ~13,477 |
-| Corner Opportunities | 3.00% | ~10,107 |
-| 2122 North Clark Street | 3.00% | ~10,107 |
-| Copious Cabbage | 3.00% | ~10,107 |
-| Sockdolager | 3.00% | ~10,107 |
-| Still Stalwart | 3.00% | ~10,107 |
-| Bees Knees Bootlegger | 3.00% | ~10,107 |
-| Tighten the Screws | 3.00% | ~10,107 |
-| One of Us | 2.00% | ~6,738 |
-| Baker’s Dozen | 2.00% | ~6,738 |
-| Dropping the Dime | 2.00% | ~6,738 |
-| Spiffy Speakeasies | 2.00% | ~6,738 |
-| Keeping Your Word | 2.00% | ~6,738 |
+| Corner Opportunities | 3.00% | ~10,108 |
+| 2122 North Clark Street | 3.00% | ~10,108 |
+| Copious Cabbage | 3.00% | ~10,108 |
+| Sockdolager | 3.00% | ~10,108 |
+| Still Stalwart | 3.00% | ~10,108 |
+| Bees Knees Bootlegger | 3.00% | ~10,108 |
+| Tighten the Screws | 3.00% | ~10,108 |
+| One of Us | 2.00% | ~6,739 |
+| Baker’s Dozen | 2.00% | ~6,739 |
+| Dropping the Dime | 2.00% | ~6,739 |
+| Spiffy Speakeasies | 2.00% | ~6,739 |
+| Keeping Your Word | 2.00% | ~6,739 |
 | Boxing Them In | 1.00% | ~3,369 |
 | Backroom Empire | 1.00% | ~3,369 |
 | Corner Control | 1.00% | ~3,369 |
@@ -86,7 +86,7 @@ Rating: 4.26 (Ranked 815)
 | High Pillow | 0.10% | ~337 |
 | Station Master | 0.10% | ~337 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 336,914 (Ranked 41)  
+Progressed: 336,926 (Ranked 41)  
 Completed: 7 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 7 (0.00%) (Ranked 255)
 | 2023-08-10 | 336,209 | 7 |
 | 2023-08-11 | 336,418 | 7 |
 | 2023-08-12 | 336,681 | 7 |
-| 2023-08-13 | 336,914 | 7 |
+| 2023-08-13 | 336,926 | 7 |
 ## Awards
 Max (Great for Beginners): 33  (Ranked 446)  
 Sum: 160 (Ranked 391)  
