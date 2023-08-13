@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 118,
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -2918,9 +2918,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 50050,
+  "EOS_Progressed": 50051,
   "EOS_Completed": 221,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -9938,6 +9938,11 @@
       "Time": "2023-08-12T17:05:36.2328296+00:00",
       "NumProgressed": 50050,
       "NumCompleted": 221
+    },
+    {
+      "Time": "2023-08-13T08:04:54.1734631+00:00",
+      "NumProgressed": 50051,
+      "NumCompleted": 221
     }
   ],
   "TotalAchievements": 45,
@@ -10093,7 +10098,7 @@
       "Name": "The Empire Strikes Back",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 18518
+      "UsersEstimate": 18519
     },
     {
       "ID": "COMPLETE_EPISODE_6",
@@ -10141,7 +10146,7 @@
       "Name": "\u0027\u0027I can fly anything\u0027\u0027",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 28528
+      "UsersEstimate": 28529
     },
     {
       "ID": "COMPLETE_GEONOSIS_TATOOINE",
@@ -10157,7 +10162,7 @@
       "Name": "Rishi Maze",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2502
+      "UsersEstimate": 2503
     },
     {
       "ID": "COMPLETE_KASHYYYK_KIJIMI",
@@ -10205,7 +10210,7 @@
       "Name": "\u0027\u0027Only one business in the Galaxy...\u0027\u0027",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 2502
+      "UsersEstimate": 2503
     },
     {
       "ID": "EARN_17K_STUDS",
@@ -10213,7 +10218,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 48548
+      "UsersEstimate": 48549
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -10237,7 +10242,7 @@
       "Name": "\u0027\u0027Jedi Business\u0027\u0027",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "LEVEL_CHALLENGES_ALL_LEVELS",
@@ -10245,7 +10250,7 @@
       "Name": "\u0027\u0027No more training, do you require\u0027\u0027",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "LEVEL_CHALLENGES_ONE_LEVEL",
@@ -10253,7 +10258,7 @@
       "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 36036
+      "UsersEstimate": 36037
     },
     {
       "ID": "MINIKITS_ALL_LEVELS",
@@ -10269,7 +10274,7 @@
       "Name": "\u0027\u0027A fine addition to my collection\u0027\u0027",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 18518
+      "UsersEstimate": 18519
     },
     {
       "ID": "RIDE_ALL_CREATURES",
@@ -10285,7 +10290,7 @@
       "Name": "\u0027\u0027And who gave you permission...?\u0027\u0027",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 27027
+      "UsersEstimate": 27028
     },
     {
       "ID": "TRUE_JEDI_ALL_LEVELS",
@@ -10301,22 +10306,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 36036
+      "UsersEstimate": 36037
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 50050,
+      "Progressed": 50051,
       "Completed": 221
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-08-11T18:57:38.4398065+00:00",
-  "LastChanged_Achievements": "2023-08-13T07:04:36.5153849+00:00",
+  "LastChanged_Achievements": "2023-08-13T08:04:54.1734624+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:13.8812017+00:00",
-  "LastUpdate_Ratings": "2023-08-13T06:57:39.6234849+00:00",
-  "LastUpdate_Achievements": "2023-08-13T07:04:36.5155257+00:00"
+  "LastUpdate_Ratings": "2023-08-13T07:58:02.5265644+00:00",
+  "LastUpdate_Achievements": "2023-08-13T08:04:54.1735518+00:00"
 }

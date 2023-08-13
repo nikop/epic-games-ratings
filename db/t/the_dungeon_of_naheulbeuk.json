@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 21,
-  "Ranking_EOS_NewCompleters": 67,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -636,9 +636,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 211346,
+  "EOS_Progressed": 211363,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4023,
+  "EOS_NewPlayers": 4013,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6726,6 +6726,11 @@
       "Time": "2023-08-13T07:05:07.4913435+00:00",
       "NumProgressed": 211346,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-13T08:05:24.4101659+00:00",
+      "NumProgressed": 211363,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 88,
@@ -7185,7 +7190,7 @@
       "Name": "Sowwy!",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 21135
+      "UsersEstimate": 21136
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -7233,7 +7238,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1479
+      "UsersEstimate": 1480
     },
     {
       "ID": "FollowBraztok",
@@ -7375,9 +7380,9 @@
       "ID": "RogueEpic",
       "SetID": "50chcgj",
       "Name": "Thieves\u0027 Guild Accreditation",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 211
+      "UsersEstimate": 423
     },
     {
       "ID": "Speedrun",
@@ -7440,21 +7445,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 211346,
+      "Progressed": 211363,
       "Completed": 1
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 211346,
+      "Progressed": 211363,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-12T15:00:58.2777056+00:00",
-  "LastChanged_Achievements": "2023-08-13T07:05:07.4913429+00:00",
+  "LastChanged_Achievements": "2023-08-13T08:05:24.4101652+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:49.6773731+00:00",
-  "LastUpdate_Ratings": "2023-08-13T07:00:36.7255801+00:00",
-  "LastUpdate_Achievements": "2023-08-13T07:05:07.4915076+00:00"
+  "LastUpdate_Ratings": "2023-08-13T08:00:58.3273708+00:00",
+  "LastUpdate_Achievements": "2023-08-13T08:05:24.4103386+00:00"
 }

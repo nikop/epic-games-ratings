@@ -1192,7 +1192,7 @@
   ],
   "EOS_Progressed": 5259,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 150,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -7564,9 +7564,9 @@
       "ID": "SURVIVE_SEVEN_DAY",
       "SetID": "5349c2e",
       "Name": "The First Week",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 25,
-      "UsersEstimate": 2787
+      "UsersEstimate": 2840
     },
     {
       "ID": "UNLOCK_RESEARCH",
@@ -7620,8 +7620,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-08-09T23:00:38.5654569+00:00",
-  "LastChanged_Achievements": "2023-08-13T07:05:08.9994882+00:00",
+  "LastChanged_Achievements": "2023-08-13T08:05:25.8507066+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:55.0917319+00:00",
-  "LastUpdate_Ratings": "2023-08-13T07:02:05.9871363+00:00",
-  "LastUpdate_Achievements": "2023-08-13T07:05:08.9995763+00:00"
+  "LastUpdate_Ratings": "2023-08-13T08:02:06.1401428+00:00",
+  "LastUpdate_Achievements": "2023-08-13T08:05:25.8507725+00:00"
 }

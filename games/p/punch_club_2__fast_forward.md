@@ -12,10 +12,10 @@
 | Old movies enjoyer | 80.00% | ~196 |
 | Fitness professional | 78.00% | ~191 |
 | Depressed visitor | 77.00% | ~189 |
+| Employee of the week | 77.00% | ~189 |
+| Your own amateur gym | 76.00% | ~186 |
 | First defeat | 76.00% | ~186 |
 | Neurotrainer – power gainer! | 76.00% | ~186 |
-| Employee of the week | 76.00% | ~186 |
-| Your own amateur gym | 75.00% | ~184 |
 | Run K, run! | 73.00% | ~179 |
 | Fighting is cool | 70.00% | ~172 |
 | Hello, world! | 70.00% | ~172 |
@@ -24,7 +24,7 @@
 | Employee of the month | 65.00% | ~159 |
 | Spirit of the past | 64.00% | ~157 |
 | Law student | 62.00% | ~152 |
-| Workout professional | 59.00% | ~145 |
+| Workout professional | 60.00% | ~147 |
 | Little hacker | 59.00% | ~145 |
 | It's good to be alive | 59.00% | ~145 |
 | Own four walls | 59.00% | ~145 |

@@ -6,8 +6,8 @@ Rating: 4.77 (Ranked 108)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 12.00% | ~34,797 |
-| First Class Student | 11.00% | ~31,897 |
-| Troll with the Punches | 11.00% | ~31,897 |
+| First Class Student | 11.00% | ~31,898 |
+| Troll with the Punches | 11.00% | ~31,898 |
 | A Keen Sense of Spell | 10.00% | ~28,998 |
 | That's a Keeper | 10.00% | ~28,998 |
 | Grappling with a Graphorn | 9.00% | ~26,098 |
@@ -21,11 +21,11 @@ Rating: 4.77 (Ranked 108)
 | Coasting Along | 9.00% | ~26,098 |
 | Followed the Butterflies | 8.00% | ~23,198 |
 | Rising From the Ashes | 8.00% | ~23,198 |
-| The Avenging Gazelle | 7.00% | ~20,298 |
-| Beast Friends | 7.00% | ~20,298 |
-| A Sallow Grave | 7.00% | ~20,298 |
-| Flight the Good Flight | 7.00% | ~20,298 |
-| The Spell Master | 7.00% | ~20,298 |
+| The Avenging Gazelle | 7.00% | ~20,299 |
+| Beast Friends | 7.00% | ~20,299 |
+| A Sallow Grave | 7.00% | ~20,299 |
+| Flight the Good Flight | 7.00% | ~20,299 |
+| The Spell Master | 7.00% | ~20,299 |
 | The Seeker of Knowledge | 5.00% | ~14,499 |
 | The Root of the Problem | 5.00% | ~14,499 |
 | Third Time's a Charm | 5.00% | ~14,499 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 108)
 | The Nature of the Beast | 0.60% | ~1,740 |
 | Collector's Edition | 0.30% | ~870 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 289,975 (Ranked 42)  
+Progressed: 289,979 (Ranked 42)  
 Completed: 449 (0.15%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,15 +166,15 @@ Completed: 449 (0.15%) (Ranked 192)
 | 2023-08-10 | 289,802 | 447 |
 | 2023-08-11 | 289,866 | 448 |
 | 2023-08-12 | 289,948 | 449 |
-| 2023-08-13 | 289,975 | 449 |
+| 2023-08-13 | 289,979 | 449 |
 ## Awards
 Max (Character Customization): 21,714  (Ranked 17)  
-Sum: 40,901 (Ranked 30)  
+Sum: 40,918 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 21,714 |
-| This game has Great Boss Battles | 10,480 |
+| This game has Great Boss Battles | 10,497 |
 | This game is Great for Beginners | 968 |
 | This game is Extremely Fun | 950 |
 | This game is Relaxing | 943 |
@@ -330,4 +330,4 @@ Diff (max vs sum): -13
 | 2023-08-10 | 4.77 | 21,664 | 40,779 |
 | 2023-08-11 | 4.77 | 21,691 | 40,839 |
 | 2023-08-12 | 4.77 | 21,714 | 40,892 |
-| 2023-08-13 | 4.77 | 21,714 | 40,901 |
+| 2023-08-13 | 4.77 | 21,714 | 40,918 |

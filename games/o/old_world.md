@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 300)  
+Rating: 4.65 (Ranked 301)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,385 (Ranked 117)  
+Progressed: 13,386 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -418,6 +418,7 @@ Completed: 5 (0.04%) (Ranked 224)
 | 2023-08-10 | 13,349 | 5 |
 | 2023-08-11 | 13,363 | 5 |
 | 2023-08-12 | 13,385 | 5 |
+| 2023-08-13 | 13,386 | 5 |
 ## Awards
 Max (Relaxing): 219  (Ranked 264)  
 Sum: 1,790 (Ranked 206)  

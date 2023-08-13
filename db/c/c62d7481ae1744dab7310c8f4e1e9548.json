@@ -289,9 +289,9 @@
       "ID": "Jing",
       "SetID": "ag48e8e",
       "Name": "Jing Jang",
-      "Percentage": 39,
+      "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "Kamzik",
@@ -321,9 +321,9 @@
       "ID": "Kudla",
       "SetID": "ag48e8e",
       "Name": "Knife",
-      "Percentage": 64,
+      "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "Kvitky",
@@ -488,8 +488,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-08-13T07:04:35.7279179+00:00",
+  "LastChanged_Achievements": "2023-08-13T08:04:53.4762687+00:00",
   "LastUpdate_AppInfo": "2023-08-11T16:57:03.8817549+00:00",
-  "LastUpdate_Ratings": "2023-08-13T06:57:51.3983353+00:00",
-  "LastUpdate_Achievements": "2023-08-13T07:04:35.7279386+00:00"
+  "LastUpdate_Ratings": "2023-08-13T07:58:13.01262+00:00",
+  "LastUpdate_Achievements": "2023-08-13T08:04:53.4762926+00:00"
 }

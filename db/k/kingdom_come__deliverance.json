@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 45,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 52,
+  "Ranking_EOS_NewPlayers": 53,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
@@ -6498,9 +6498,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 796840,
+  "EOS_Progressed": 796842,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 961,
+  "EOS_NewPlayers": 956,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -19028,6 +19028,11 @@
       "Time": "2023-08-13T07:05:53.5233345+00:00",
       "NumProgressed": 796840,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-08-13T08:06:08.4504487+00:00",
+      "NumProgressed": 796842,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 82,
@@ -19063,7 +19068,7 @@
       "Name": "Anorectic",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 127494
+      "UsersEstimate": 127495
     },
     {
       "ID": "Awakening",
@@ -19071,7 +19076,7 @@
       "Name": "Awakening",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 167336
+      "UsersEstimate": 167337
     },
     {
       "ID": "BadGirl",
@@ -19143,7 +19148,7 @@
       "Name": "Casanova",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 47810
+      "UsersEstimate": 47811
     },
     {
       "ID": "Cavalier",
@@ -19239,7 +19244,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 183273
+      "UsersEstimate": 183274
     },
     {
       "ID": "Fighter",
@@ -19575,7 +19580,7 @@
       "Name": "Sinner",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 87652
+      "UsersEstimate": 87653
     },
     {
       "ID": "Sniper",
@@ -19694,15 +19699,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 796840,
+      "Progressed": 796842,
       "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-08-13T06:59:54.3170629+00:00",
-  "LastChanged_Achievements": "2023-08-13T07:05:53.5233339+00:00",
+  "LastChanged_Achievements": "2023-08-13T08:06:08.4504479+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:10.6594463+00:00",
-  "LastUpdate_Ratings": "2023-08-13T06:59:54.3170636+00:00",
-  "LastUpdate_Achievements": "2023-08-13T07:05:53.5235154+00:00"
+  "LastUpdate_Ratings": "2023-08-13T08:00:15.3590742+00:00",
+  "LastUpdate_Achievements": "2023-08-13T08:06:08.4506481+00:00"
 }

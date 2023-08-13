@@ -442,9 +442,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1534825,
+  "EOS_Progressed": 1534826,
   "EOS_Completed": 660,
-  "EOS_NewPlayers": 1228,
+  "EOS_NewPlayers": 1224,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -13067,6 +13067,11 @@
       "Time": "2023-08-13T07:07:28.8171366+00:00",
       "NumProgressed": 1534825,
       "NumCompleted": 660
+    },
+    {
+      "Time": "2023-08-13T08:07:40.2022895+00:00",
+      "NumProgressed": 1534826,
+      "NumCompleted": 660
     }
   ],
   "TotalAchievements": 20,
@@ -13094,7 +13099,7 @@
       "Name": "Bring the Cubic Ruckus",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 30696
+      "UsersEstimate": 30697
     },
     {
       "ID": "ACH_DOUBLE_RAINBOW",
@@ -13150,7 +13155,7 @@
       "Name": "Jelly Donuts",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 30696
+      "UsersEstimate": 30697
     },
     {
       "ID": "ACH_MAD_SKILLS",
@@ -13166,7 +13171,7 @@
       "Name": "Master Drifter",
       "Percentage": 2,
       "XP": 95,
-      "UsersEstimate": 30696
+      "UsersEstimate": 30697
     },
     {
       "ID": "ACH_MIDNIGHT_DRIFTER",
@@ -13174,7 +13179,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 153482
+      "UsersEstimate": 153483
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -13206,7 +13211,7 @@
       "Name": "Spin Doctor",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 30696
+      "UsersEstimate": 30697
     },
     {
       "ID": "ACH_THE_COMPLETIONIST",
@@ -13237,15 +13242,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1534825,
+      "Progressed": 1534826,
       "Completed": 660
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-07-23T19:00:00.3270793+00:00",
-  "LastChanged_Achievements": "2023-08-13T07:07:28.8171361+00:00",
+  "LastChanged_Achievements": "2023-08-13T08:07:40.2022888+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:58:04.9297366+00:00",
-  "LastUpdate_Ratings": "2023-08-13T07:02:14.4759202+00:00",
-  "LastUpdate_Achievements": "2023-08-13T07:07:28.8172459+00:00"
+  "LastUpdate_Ratings": "2023-08-13T08:03:04.2189714+00:00",
+  "LastUpdate_Achievements": "2023-08-13T08:07:40.2024101+00:00"
 }

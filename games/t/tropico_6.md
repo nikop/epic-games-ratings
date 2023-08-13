@@ -6,16 +6,16 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 75.00% | ~3,531 |
-| Un-Lonely Island | 47.00% | ~2,213 |
-| The Beginning of a Servantship | 46.00% | ~2,166 |
-| Trade Is My Trait | 37.00% | ~1,742 |
+| Just One...More...Term... | 75.00% | ~3,532 |
+| Un-Lonely Island | 47.00% | ~2,214 |
+| The Beginning of a Servantship | 46.00% | ~2,167 |
+| Trade Is My Trait | 37.00% | ~1,743 |
 | Number 18 | 24.00% | ~1,130 |
 | We Don't Have Time For That | 19.00% | ~895 |
-| The Governator | 18.00% | ~847 |
-| The Legend of Langostino | 17.00% | ~800 |
-| Caribbean Comrade | 16.00% | ~753 |
-| The Dreamer of Dreams | 16.00% | ~753 |
+| The Governator | 18.00% | ~848 |
+| The Legend of Langostino | 17.00% | ~801 |
+| Caribbean Comrade | 16.00% | ~754 |
+| The Dreamer of Dreams | 16.00% | ~754 |
 | Go Sovereigns! | 11.00% | ~518 |
 | For Science! | 11.00% | ~518 |
 | Happy Ending? | 10.00% | ~471 |
@@ -26,12 +26,12 @@ Number of Ratings: 398  (23.09.2022)
 | Make Tropico Great Again! | 8.00% | ~377 |
 | I Owe You Nothing | 7.00% | ~330 |
 | French Connection | 7.00% | ~330 |
-| Don't Panic! | 6.00% | ~282 |
-| Computer Says "No" | 6.00% | ~282 |
-| Beware The Betman | 6.00% | ~282 |
-| Viva Tropico! | 5.00% | ~235 |
-| Watch The World Burn | 5.00% | ~235 |
-| Fairy Tale Come True | 5.00% | ~235 |
+| Don't Panic! | 6.00% | ~283 |
+| Computer Says "No" | 6.00% | ~283 |
+| Beware The Betman | 6.00% | ~283 |
+| Viva Tropico! | 5.00% | ~236 |
+| Watch The World Burn | 5.00% | ~236 |
+| Fairy Tale Come True | 5.00% | ~236 |
 | Apocalypso | 4.00% | ~188 |
 | Been there, Done That | 3.00% | ~141 |
 | Narcissist | 3.00% | ~141 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~42 |
 | My Ways | 0.30% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,708 (Ranked 144)  
+Progressed: 4,710 (Ranked 144)  
 Completed: 2 (0.04%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,7 +162,7 @@ Completed: 2 (0.04%) (Ranked 224)
 | 2023-08-10 | 4,681 | 2 |
 | 2023-08-11 | 4,691 | 2 |
 | 2023-08-12 | 4,705 | 2 |
-| 2023-08-13 | 4,708 | 2 |
+| 2023-08-13 | 4,710 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 96  (Ranked 341)  
 Sum: 673 (Ranked 280)  

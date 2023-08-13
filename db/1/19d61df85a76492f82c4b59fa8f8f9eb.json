@@ -3,9 +3,9 @@
   "Name": "The House of Da Vinci",
   "ProductSlug": "the-house-of-da-vinci-eb6e37",
   "Ranking_EOS_Progress": 259,
-  "Ranking_EOS_Completed": 28,
+  "Ranking_EOS_Completed": 27,
   "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
     "PcReleaseDate": "2017-11-24T00:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 301,
-  "EOS_Completed": 29,
+  "EOS_Completed": 30,
   "EOS_NewPlayers": 11,
-  "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 9.63,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 9.97,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -1376,6 +1376,11 @@
       "Time": "2023-08-13T04:06:27.2142012+00:00",
       "NumProgressed": 301,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-08-13T08:06:52.2586828+00:00",
+      "NumProgressed": 301,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 6,
@@ -1435,13 +1440,13 @@
       "ID": "4ocea6d",
       "IsBase": true,
       "Progressed": 301,
-      "Completed": 29
+      "Completed": 30
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-08-13T07:06:39.3730261+00:00",
+  "LastChanged_Achievements": "2023-08-13T08:06:52.258682+00:00",
   "LastUpdate_AppInfo": "2023-08-10T15:57:09.369963+00:00",
-  "LastUpdate_Ratings": "2023-08-13T06:58:05.1460808+00:00",
-  "LastUpdate_Achievements": "2023-08-13T07:06:39.373043+00:00"
+  "LastUpdate_Ratings": "2023-08-13T07:58:22.9701262+00:00",
+  "LastUpdate_Achievements": "2023-08-13T08:06:52.2587059+00:00"
 }

@@ -15,7 +15,7 @@ Number of Ratings: 706  (23.09.2022)
 | Putting Food on the Table | 60.00% | ~3,155 |
 | Home Cooked Meal | 56.00% | ~2,945 |
 | Onward | 55.00% | ~2,892 |
-| The First Week | 53.00% | ~2,787 |
+| The First Week | 54.00% | ~2,840 |
 | Studious Researcher | 51.00% | ~2,682 |
 | Beam Me Up | 50.00% | ~2,630 |
 | Feast or Famine | 50.00% | ~2,630 |

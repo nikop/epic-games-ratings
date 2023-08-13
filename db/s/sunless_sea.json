@@ -685,9 +685,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 35407,
+  "EOS_Progressed": 35409,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 418,
+  "EOS_NewPlayers": 417,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -12300,6 +12300,11 @@
       "Time": "2023-08-13T07:05:33.0755387+00:00",
       "NumProgressed": 35407,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-13T08:05:48.9804526+00:00",
+      "NumProgressed": 35409,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -12327,7 +12332,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 6019
+      "UsersEstimate": 6020
     },
     {
       "ID": "ach_antiquarian10",
@@ -12511,7 +12516,7 @@
       "Name": "Pupil",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2478
+      "UsersEstimate": 2479
     },
     {
       "ID": "ach_legacyrival",
@@ -12527,7 +12532,7 @@
       "Name": "Salvager",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2478
+      "UsersEstimate": 2479
     },
     {
       "ID": "ach_legacyshipmate",
@@ -12543,7 +12548,7 @@
       "Name": "Open Your Ears",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2478
+      "UsersEstimate": 2479
     },
     {
       "ID": "ach_portbell",
@@ -12655,7 +12660,7 @@
       "Name": "The Ascent of Man",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2478
+      "UsersEstimate": 2479
     },
     {
       "ID": "ach_sweetheart",
@@ -12663,7 +12668,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 6373
+      "UsersEstimate": 6374
     },
     {
       "ID": "ach_terror100",
@@ -12742,15 +12747,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 35407,
+      "Progressed": 35409,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-07-28T14:59:59.8138313+00:00",
-  "LastChanged_Achievements": "2023-08-13T07:05:33.0755381+00:00",
+  "LastChanged_Achievements": "2023-08-13T08:05:48.9804519+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:45.6858785+00:00",
-  "LastUpdate_Ratings": "2023-08-13T07:01:29.0123191+00:00",
-  "LastUpdate_Achievements": "2023-08-13T07:05:33.0756408+00:00"
+  "LastUpdate_Ratings": "2023-08-13T08:01:49.9777466+00:00",
+  "LastUpdate_Achievements": "2023-08-13T08:05:48.9805917+00:00"
 }

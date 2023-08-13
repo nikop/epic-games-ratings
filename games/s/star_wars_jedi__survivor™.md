@@ -4,7 +4,7 @@
 Rating: 4.48 (Ranked 590)  
 ## Awards
 Max (Great Boss Battles): 2,329  (Ranked 104)  
-Sum: 3,203 (Ranked 153)  
+Sum: 3,205 (Ranked 153)  
 Diff (max vs sum): -49  
 | Award | Count |
 | ----- | ----- |
@@ -17,7 +17,7 @@ Diff (max vs sum): -49
 | This game has Amazing Characters | 110 |
 | This game is Extremely Fun | 101 |
 | This game has Challenging Combat | 89 |
-| This game has a Creative Community | 71 |
+| This game has a Creative Community | 73 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -128,4 +128,4 @@ Diff (max vs sum): -49
 | 2023-08-10 | 4.48 | 2,313 | 3,267 |
 | 2023-08-11 | 4.48 | 2,319 | 3,275 |
 | 2023-08-12 | 4.48 | 2,329 | 3,201 |
-| 2023-08-13 | 4.48 | 2,329 | 3,203 |
+| 2023-08-13 | 4.48 | 2,329 | 3,205 |

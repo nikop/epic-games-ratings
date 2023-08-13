@@ -16,10 +16,10 @@ Rating: 4.44 (Ranked 643)
 | Taking it back | 5.00% | ~173 |
 | Target America | 5.00% | ~173 |
 | The Kraken Sleeps | 5.00% | ~173 |
-| Climbing the Ladder | 4.00% | ~138 |
-| Sharpshooter | 4.00% | ~138 |
-| Resourceful | 4.00% | ~138 |
-| Der Geist | 4.00% | ~138 |
+| Climbing the Ladder | 4.00% | ~139 |
+| Sharpshooter | 4.00% | ~139 |
+| Resourceful | 4.00% | ~139 |
+| Der Geist | 4.00% | ~139 |
 | No Stone Unturned | 3.00% | ~104 |
 | Organ Grinder | 3.00% | ~104 |
 | Gunslinger | 3.00% | ~104 |
@@ -77,7 +77,7 @@ Rating: 4.44 (Ranked 643)
 | Alpha | 0.10% | ~3 |
 | Das Familienjuwel | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,462 (Ranked 150)  
+Progressed: 3,463 (Ranked 150)  
 Completed: 9 (0.26%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 9 (0.26%) (Ranked 170)
 | 2023-08-10 | 3,450 | 9 |
 | 2023-08-11 | 3,455 | 9 |
 | 2023-08-12 | 3,461 | 9 |
-| 2023-08-13 | 3,462 | 9 |
+| 2023-08-13 | 3,463 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

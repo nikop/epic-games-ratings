@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-3-b0c022",
   "Ranking_EOS_Progress": 369,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -311,9 +311,9 @@
       "ID": "CgkIxYDzrbcPEAIQCA",
       "SetID": "4egpam7",
       "Name": "Secrets of Justice",
-      "Percentage": 38,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "CgkIxYDzrbcPEAIQCQ",
@@ -383,9 +383,9 @@
       "ID": "CgkIxYDzrbcPEAIQEQ",
       "SetID": "4egpam7",
       "Name": "Seeker of Mysteries",
-      "Percentage": 38,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "CgkIxYDzrbcPEAIQEg",
@@ -399,9 +399,9 @@
       "ID": "CgkIxYDzrbcPEAIQEw",
       "SetID": "4egpam7",
       "Name": "Writer",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "CgkIxYDzrbcPEAIQFA",
@@ -502,8 +502,8 @@
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2023-08-13T07:06:48.565547+00:00",
+  "LastChanged_Achievements": "2023-08-13T08:07:01.3074211+00:00",
   "LastUpdate_AppInfo": "2023-08-08T13:56:55.0223593+00:00",
-  "LastUpdate_Ratings": "2023-08-13T06:58:12.7544185+00:00",
-  "LastUpdate_Achievements": "2023-08-13T07:06:48.5655678+00:00"
+  "LastUpdate_Ratings": "2023-08-13T07:58:30.6572138+00:00",
+  "LastUpdate_Achievements": "2023-08-13T08:07:01.307448+00:00"
 }
