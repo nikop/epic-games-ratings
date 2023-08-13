@@ -13,9 +13,9 @@
 | 10 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
 | 13 | [Island Cities](games/i/island_cities.md) | 18.04% |
-| 14 | [Afterglitch](games/a/afterglitch.md) | 16.67% |
-| 15 | [Anna's Quest](games/a/anna's_quest.md) | 15.62% |
-| 16 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 15.38% |
+| 14 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 15.25% |
+| 15 | [Anna's Quest](games/a/anna's_quest.md) | 15.15% |
+| 16 | [Afterglitch](games/a/afterglitch.md) | 14.29% |
 | 17 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 13.94% |
 | 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.07% |
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.27% |
@@ -68,7 +68,7 @@
 | 66 | [HordeCore](games/h/hordecore.md) | 3.15% |
 | 67 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.05% |
 | 68 | [The Complex](games/t/the_complex.md) | 2.99% |
-| 69 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.98% |
+| 69 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.97% |
 | 70 | [Monster Harvest](games/m/monster_harvest.md) | 2.94% |
 | 71 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 72 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.78% |
