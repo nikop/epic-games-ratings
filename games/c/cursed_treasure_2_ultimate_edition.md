@@ -43,7 +43,7 @@
 | Sing, My Angel | 42.00% | ~69 |
 | Starry: Arcania | 42.00% | ~69 |
 | The Coreland | 39.00% | ~64 |
-| Feed the Fishes | 37.00% | ~61 |
+| Feed the Fishes | 38.00% | ~63 |
 | Starry: The Coreland | 36.00% | ~59 |
 | Brilliant: Wasteland | 33.00% | ~54 |
 | Father of Nation | 32.00% | ~53 |

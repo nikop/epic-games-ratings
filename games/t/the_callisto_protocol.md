@@ -8,21 +8,21 @@ Rating: 4.20 (Ranked 853)
 | Get a Grip | 5.00% | ~792 |
 | Paper Jams | 4.00% | ~634 |
 | Keep Fighting | 4.00% | ~151 |
-| You Need a Gun | 3.00% | ~475 |
-| Flesh Wound | 3.00% | ~475 |
-| I Do Belong Here | 3.00% | ~475 |
-| Two Heads Are Better Than One | 3.00% | ~475 |
-| Chew 'Em Up | 3.00% | ~475 |
-| Workplace Hazard | 3.00% | ~475 |
-| Float Like A Butterfly | 3.00% | ~475 |
-| Reforged | 3.00% | ~475 |
-| The Outer Way | 3.00% | ~475 |
-| Without A Paddle | 3.00% | ~475 |
-| In the Pipe, Five by Five | 3.00% | ~475 |
-| What Lies Beneath | 3.00% | ~475 |
-| Crash Site | 3.00% | ~475 |
-| Full Circle | 3.00% | ~475 |
-| Power Up | 3.00% | ~475 |
+| You Need a Gun | 3.00% | ~476 |
+| Flesh Wound | 3.00% | ~476 |
+| I Do Belong Here | 3.00% | ~476 |
+| Two Heads Are Better Than One | 3.00% | ~476 |
+| Chew 'Em Up | 3.00% | ~476 |
+| Workplace Hazard | 3.00% | ~476 |
+| Float Like A Butterfly | 3.00% | ~476 |
+| Reforged | 3.00% | ~476 |
+| The Outer Way | 3.00% | ~476 |
+| Without A Paddle | 3.00% | ~476 |
+| In the Pipe, Five by Five | 3.00% | ~476 |
+| What Lies Beneath | 3.00% | ~476 |
+| Crash Site | 3.00% | ~476 |
+| Full Circle | 3.00% | ~476 |
+| Power Up | 3.00% | ~476 |
 | It's Time | 3.00% | ~113 |
 | Giving Back | 2.00% | ~317 |
 | Terminated | 2.00% | ~317 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 853)
 | Don't Let It Mellow | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,849 (Ranked 114)  
+Progressed: 15,850 (Ranked 114)  
 Completed: 73 (0.46%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,7 +167,7 @@ Completed: 73 (0.46%) (Ranked 146)
 | 2023-08-10 | 15,839 | 72 |
 | 2023-08-11 | 15,840 | 72 |
 | 2023-08-12 | 15,848 | 73 |
-| 2023-08-13 | 15,849 | 73 |
+| 2023-08-13 | 15,850 | 73 |
 ## Awards
 Max (Amazing Storytelling): 72  (Ranked 374)  
 Sum: 406 (Ranked 317)  

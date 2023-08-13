@@ -6,12 +6,12 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 37.00% | ~22,487 |
+| Follow the Light | 37.00% | ~22,488 |
 | Let There Be Light | 30.00% | ~18,233 |
-| Float Like a Butterfly | 29.00% | ~17,625 |
+| Float Like a Butterfly | 29.00% | ~17,626 |
 | Nordic Walking | 23.00% | ~13,979 |
 | Bright Falls' Finest | 22.00% | ~13,371 |
-| Under a Thin Layer of Skin | 20.00% | ~12,155 |
+| Under a Thin Layer of Skin | 20.00% | ~12,156 |
 | Park Ranger | 16.00% | ~9,724 |
 | Paging Mr. Wake | 16.00% | ~9,724 |
 | Back! Back, I Say! | 15.00% | ~9,117 |
@@ -26,9 +26,9 @@ Number of Ratings: 524  (23.09.2022)
 | The Six-Gun Scribe | 12.00% | ~7,293 |
 | Collateral Carnage | 12.00% | ~7,293 |
 | Come One, Come All | 12.00% | ~7,293 |
-| Perchance to Dream | 11.00% | ~6,685 |
-| It's Not Just a Typewriter Brand | 11.00% | ~6,685 |
-| Thunder and Lightning | 11.00% | ~6,685 |
+| Perchance to Dream | 11.00% | ~6,686 |
+| It's Not Just a Typewriter Brand | 11.00% | ~6,686 |
+| Thunder and Lightning | 11.00% | ~6,686 |
 | Gatekeeper | 10.00% | ~6,078 |
 | The Lady of the Light | 10.00% | ~6,078 |
 | Two For the Price of One | 10.00% | ~6,078 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~61 |
 | No Punctuation | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,777 (Ranked 85)  
+Progressed: 60,778 (Ranked 85)  
 Completed: 64 (0.11%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 64 (0.11%) (Ranked 199)
 | 2023-08-10 | 60,658 | 64 |
 | 2023-08-11 | 60,694 | 64 |
 | 2023-08-12 | 60,759 | 64 |
-| 2023-08-13 | 60,777 | 64 |
+| 2023-08-13 | 60,778 | 64 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

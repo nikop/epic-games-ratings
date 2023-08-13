@@ -2,13 +2,13 @@
   "ID": "5fd8f5ae809f46d4b33741cc80d3aef8",
   "Name": "Stranded Deep",
   "ProductSlug": "stranded-deep",
-  "Ranking_Rating": 838,
+  "Ranking_Rating": 842,
   "Ranking_Popularity": 271,
   "Ranking_PopularitySum": 237,
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2020-12-28T16:00:00+00:00",
     "PcReleaseDate": "2015-01-23T16:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.23,
+  "Rating": 4.22,
   "NumberOfRatings": 3300,
   "RatingHistory": [
     {
@@ -2206,10 +2206,16 @@
       "Rating": 4.23,
       "NumberOfAwards": 1063,
       "NumberOfAwardsMax": 206
+    },
+    {
+      "Time": "2023-08-13T10:57:16.1866466+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 1064,
+      "NumberOfAwardsMax": 206
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1063,
+  "NumberOfAwards": 1064,
   "NumberOfAwardsMax": 206,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -2241,7 +2247,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 203
+      "Count": 204
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2285,8 +2291,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:30:37.8027761+00:00",
-  "LastChanged": "2023-08-12T09:57:15.6381451+00:00",
+  "LastChanged": "2023-08-13T10:57:16.1866463+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:10.0552343+00:00",
-  "LastUpdate_Ratings": "2023-08-13T09:57:45.2710434+00:00",
-  "LastUpdate_Achievements": "2023-08-13T10:03:37.5254312+00:00"
+  "LastUpdate_Ratings": "2023-08-13T10:57:16.1866472+00:00",
+  "LastUpdate_Achievements": "2023-08-13T11:03:10.2898156+00:00"
 }

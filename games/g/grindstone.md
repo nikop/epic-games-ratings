@@ -16,7 +16,7 @@ Number of Ratings: 63  (23.09.2022)
 | Survive the Bombsequences | 59.00% | ~3,038 |
 | Killed 20 Jerks | 54.00% | ~2,780 |
 | Death Defied | 53.00% | ~2,729 |
-| Fortunate Soul | 49.00% | ~2,523 |
+| Fortunate Soul | 50.00% | ~2,574 |
 | Jerk-Slayer | 43.00% | ~2,214 |
 | Employee of the Month | 37.00% | ~1,905 |
 | I Believe I Can Fly | 37.00% | ~1,905 |

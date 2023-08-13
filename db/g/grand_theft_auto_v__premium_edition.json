@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 3,
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2020-05-14T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -7172,10 +7172,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 1653097,
       "NumberOfAwardsMax": 211556
+    },
+    {
+      "Time": "2023-08-13T10:57:23.0920871+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1655041,
+      "NumberOfAwardsMax": 211556
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1653097,
+  "NumberOfAwards": 1655041,
   "NumberOfAwardsMax": 211556,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7183,7 +7189,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 188265
+      "Count": 188631
     },
     {
       "Text": "This game is Highly Recommended",
@@ -7201,13 +7207,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 175389
+      "Count": 175709
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 177381
+      "Count": 177727
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -7219,19 +7225,19 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 181873
+      "Count": 182086
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 170621
+      "Count": 170949
     },
     {
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 177245
+      "Count": 177616
     },
     {
       "Text": "This game is Great for Beginners",
@@ -7251,8 +7257,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:49.586898+00:00",
-  "LastChanged": "2023-08-13T08:57:36.5985799+00:00",
+  "LastChanged": "2023-08-13T10:57:23.0920868+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:14.0844944+00:00",
-  "LastUpdate_Ratings": "2023-08-13T09:57:52.3136837+00:00",
-  "LastUpdate_Achievements": "2023-08-13T10:08:26.1803796+00:00"
+  "LastUpdate_Ratings": "2023-08-13T10:57:23.0920878+00:00",
+  "LastUpdate_Achievements": "2023-08-13T11:07:30.9866456+00:00"
 }

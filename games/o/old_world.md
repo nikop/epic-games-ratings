@@ -40,6 +40,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong Cities | 1.00% | ~134 |
 | Able Difficulty | 1.00% | ~134 |
 | Furious Family | 1.00% | ~134 |
+| Apadana | 1.00% | ~134 |
 | Great Ziggurat | 1.00% | ~134 |
 | Ishtar Gate | 1.00% | ~134 |
 | Lighthouse | 1.00% | ~134 |
@@ -56,14 +57,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Roman Paganism | 1.00% | ~134 |
 | Zoroastrianism | 1.00% | ~134 |
 | Naming Landmarks | 1.00% | ~134 |
-| Regicide | 0.90% | ~120 |
-| Just Difficulty | 0.90% | ~120 |
-| Artisans | 0.90% | ~120 |
-| Apadana | 0.90% | ~120 |
-| Colossus | 0.90% | ~120 |
-| Learn to Play 2 | 0.90% | ~120 |
+| Regicide | 0.90% | ~121 |
+| Legendary Cities | 0.90% | ~121 |
+| Just Difficulty | 0.90% | ~121 |
+| Artisans | 0.90% | ~121 |
+| Colossus | 0.90% | ~121 |
+| Learn to Play 2 | 0.90% | ~121 |
 | Drillmaster | 0.80% | ~107 |
-| Legendary Cities | 0.80% | ~107 |
 | Sages | 0.80% | ~107 |
 | Acropolis | 0.80% | ~107 |
 | Egyptian Paganism | 0.80% | ~107 |
@@ -85,6 +85,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Statesmen | 0.60% | ~80 |
 | Traders | 0.60% | ~80 |
 | Temple of Solomon | 0.60% | ~80 |
+| Pantheon | 0.60% | ~80 |
 | Persian Paganism | 0.60% | ~80 |
 | Legalism | 0.60% | ~80 |
 | Phalangite | 0.60% | ~80 |
@@ -98,7 +99,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Circus Maximus | 0.50% | ~67 |
 | Hagia Sophia | 0.50% | ~67 |
 | Church of the Holy Sepulchre | 0.50% | ~67 |
-| Pantheon | 0.50% | ~67 |
 | Via Recta Souk | 0.50% | ~67 |
 | Learn to Play 3 | 0.50% | ~67 |
 | Carthage | 0.50% | ~67 |
@@ -133,6 +133,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Old | 0.30% | ~40 |
 | Peacemaker | 0.30% | ~40 |
 | Noble Difficulty | 0.30% | ~40 |
+| Cao'an | 0.30% | ~40 |
 | Learn to Play 4 | 0.30% | ~40 |
 | Egypt | 0.30% | ~40 |
 | Old World Order | 0.30% | ~40 |
@@ -150,7 +151,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Eternal Treaty | 0.20% | ~27 |
 | Run, Pheidippides, Run! | 0.20% | ~27 |
 | Nenikekamen | 0.20% | ~27 |
-| Cao'an | 0.20% | ~27 |
 | Learn to Play 5 | 0.20% | ~27 |
 | Hatti | 0.20% | ~27 |
 | Persia | 0.20% | ~27 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,388 (Ranked 117)  
+Progressed: 13,391 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -418,7 +418,7 @@ Completed: 5 (0.04%) (Ranked 224)
 | 2023-08-10 | 13,349 | 5 |
 | 2023-08-11 | 13,363 | 5 |
 | 2023-08-12 | 13,385 | 5 |
-| 2023-08-13 | 13,388 | 5 |
+| 2023-08-13 | 13,391 | 5 |
 ## Awards
 Max (Relaxing): 219  (Ranked 264)  
 Sum: 1,790 (Ranked 206)  

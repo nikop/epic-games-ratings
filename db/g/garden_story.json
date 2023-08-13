@@ -4,8 +4,8 @@
   "ProductSlug": "garden-story",
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-08-11T17:00:00+00:00",
     "PcReleaseDate": "2021-08-11T17:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:09.1022655+00:00",
   "LastChanged": "2023-03-31T05:58:09.1022656+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:26.5892693+00:00",
-  "LastUpdate_Ratings": "2023-08-13T09:58:13.5959106+00:00",
-  "LastUpdate_Achievements": "2023-08-13T10:04:23.7830727+00:00"
+  "LastUpdate_Ratings": "2023-08-13T10:57:43.7066936+00:00",
+  "LastUpdate_Achievements": "2023-08-13T11:03:40.672886+00:00"
 }

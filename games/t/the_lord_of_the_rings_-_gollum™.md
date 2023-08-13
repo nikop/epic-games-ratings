@@ -29,9 +29,9 @@
 | Break a Leg! | 3.00% | ~15 |
 | Sweet Darkness | 3.00% | ~15 |
 | And now we wish... | 2.00% | ~10 |
+| Ss ss ss... | 2.00% | ~10 |
 | Collectibles Part 2 | 1.00% | ~5 |
 | Nervous Hands | 1.00% | ~5 |
-| Ss ss ss... | 1.00% | ~5 |
 | Elf-Friend | 0.60% | ~3 |
 | We wants it! We needs it | 0.60% | ~3 |
 | Scout | 0.40% | ~2 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 224,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1599,9 +1599,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13388,
+  "EOS_Progressed": 13391,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -9584,6 +9584,11 @@
       "Time": "2023-08-13T09:05:33.4479947+00:00",
       "NumProgressed": 13388,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-13T11:05:14.5132979+00:00",
+      "NumProgressed": 13391,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -9643,7 +9648,7 @@
       "Name": "Regicide",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ACHIEVEMENT_ASSASSINATED_BY_HEIR",
@@ -10297,9 +10302,9 @@
       "ID": "ACHIEVEMENT_CULTURE_LEGENDARY",
       "SetID": "9201eeb",
       "Name": "Legendary Cities",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 107
+      "UsersEstimate": 121
     },
     {
       "ID": "ACHIEVEMENT_CULTURE_STRONG",
@@ -10363,7 +10368,7 @@
       "Name": "Just Difficulty",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_MAGNIFICENT",
@@ -10427,7 +10432,7 @@
       "Name": "Artisans",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_CHAMPIONS",
@@ -10921,9 +10926,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_APADANA",
       "SetID": "9201eeb",
       "Name": "Apadana",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 134
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_CIRCUS_MAXIMUS",
@@ -10939,7 +10944,7 @@
       "Name": "Colossus",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_GREAT_ZIGGURAT",
@@ -10985,9 +10990,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_MANICHAEISM",
       "SetID": "9201eeb",
       "Name": "Cao\u0027an",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 40
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_ZOROASTRIANISM",
@@ -11049,9 +11054,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_PANTHEON",
       "SetID": "9201eeb",
       "Name": "Pantheon",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 80
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_PYRAMIDS",
@@ -11123,7 +11128,7 @@
       "Name": "Learn to Play 2",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_3",
@@ -11962,21 +11967,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13388,
+      "Progressed": 13391,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13388,
+      "Progressed": 13391,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-12T03:59:31.9297462+00:00",
-  "LastChanged_Achievements": "2023-08-13T10:05:44.6118434+00:00",
+  "LastChanged_Achievements": "2023-08-13T11:05:14.5132972+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:38.1291138+00:00",
-  "LastUpdate_Ratings": "2023-08-13T10:00:18.4849861+00:00",
-  "LastUpdate_Achievements": "2023-08-13T10:05:44.612896+00:00"
+  "LastUpdate_Ratings": "2023-08-13T10:59:41.8200896+00:00",
+  "LastUpdate_Achievements": "2023-08-13T11:05:14.5149548+00:00"
 }

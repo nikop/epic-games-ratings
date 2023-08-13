@@ -16,8 +16,8 @@ Number of Ratings: 111  (23.09.2022)
 | Keep the dream alive | 9.00% | ~245 |
 | The flip trick crown jewel | 9.00% | ~245 |
 | The hard way | 9.00% | ~245 |
+| Upfront shredder | 9.00% | ~245 |
 | Good vibes | 8.00% | ~218 |
-| Upfront shredder | 8.00% | ~218 |
 | Fashionista | 7.00% | ~190 |
 | Finally he zips it | 7.00% | ~190 |
 | That pinch! | 7.00% | ~190 |

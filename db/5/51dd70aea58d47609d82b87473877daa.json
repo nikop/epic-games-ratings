@@ -3,9 +3,9 @@
   "Name": "The Backroom Project",
   "ProductSlug": "the-backroom-project-b6b434",
   "Ranking_EOS_Progress": 311,
-  "Ranking_EOS_Completed": 79,
-  "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_Completed": 80,
+  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-05-29T22:00:00+00:00",
     "PcReleaseDate": "2022-05-15T10:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 118,
+  "EOS_Progressed": 119,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.54,
+  "EOS_Completed_Percentage": 2.52,
   "EosHistory": [
     {
       "Time": "2023-05-25T20:00:56.6664784+00:00",
@@ -581,6 +581,11 @@
       "Time": "2023-08-12T12:05:13.1466944+00:00",
       "NumProgressed": 118,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-13T11:06:10.3084582+00:00",
+      "NumProgressed": 119,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 18,
@@ -600,7 +605,7 @@
       "Name": "Sometimes Death is a Mercy",
       "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACH_DULLER",
@@ -614,15 +619,15 @@
       "ID": "ACH_ENTERLEVELRUN",
       "SetID": "c2kf3nm",
       "Name": "THERE IS NO EXIT",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 22
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_FIND_ENTITY",
       "SetID": "c2kf3nm",
       "Name": "YOU DESERVE THAT",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 25,
       "UsersEstimate": 80
     },
@@ -630,7 +635,7 @@
       "ID": "ACH_FRIEND",
       "SetID": "c2kf3nm",
       "Name": "NO ONE CAN HEAR YOU SCREAM",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 50,
       "UsersEstimate": 79
     },
@@ -638,7 +643,7 @@
       "ID": "ACH_GET_IN",
       "SetID": "c2kf3nm",
       "Name": "Lab Rat",
-      "Percentage": 91,
+      "Percentage": 90,
       "XP": 25,
       "UsersEstimate": 107
     },
@@ -694,7 +699,7 @@
       "ID": "ACH_PITFALLS",
       "SetID": "c2kf3nm",
       "Name": "Pitfalls",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 25,
       "UsersEstimate": 74
     },
@@ -702,9 +707,9 @@
       "ID": "ACH_PITFALLSDIE",
       "SetID": "c2kf3nm",
       "Name": "One Wrong Step",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 47
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_RUN",
@@ -735,14 +740,14 @@
     {
       "ID": "c2kf3nm",
       "IsBase": true,
-      "Progressed": 118,
+      "Progressed": 119,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-06-01T17:57:00.4013591+00:00",
   "FirstSeenAchievements": "2023-05-25T20:00:56.667869+00:00",
-  "LastChanged_Achievements": "2023-08-13T10:06:50.8201991+00:00",
+  "LastChanged_Achievements": "2023-08-13T11:06:10.3084576+00:00",
   "LastUpdate_AppInfo": "2023-08-11T02:09:32.6026008+00:00",
-  "LastUpdate_Ratings": "2023-08-13T09:58:55.5800552+00:00",
-  "LastUpdate_Achievements": "2023-08-13T10:06:50.8202206+00:00"
+  "LastUpdate_Ratings": "2023-08-13T10:58:21.3138732+00:00",
+  "LastUpdate_Achievements": "2023-08-13T11:06:10.3084813+00:00"
 }

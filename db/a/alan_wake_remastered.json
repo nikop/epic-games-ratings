@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 60777,
+  "EOS_Progressed": 60778,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 413,
+  "EOS_NewPlayers": 409,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -11112,6 +11112,11 @@
       "Time": "2023-08-13T10:06:54.3335282+00:00",
       "NumProgressed": 60777,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-13T11:06:13.6662492+00:00",
+      "NumProgressed": 60778,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -11123,7 +11128,7 @@
       "Name": "Follow the Light",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 22487
+      "UsersEstimate": 22488
     },
     {
       "ID": "02",
@@ -11155,7 +11160,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 12155
+      "UsersEstimate": 12156
     },
     {
       "ID": "06",
@@ -11211,7 +11216,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6685
+      "UsersEstimate": 6686
     },
     {
       "ID": "13",
@@ -11307,7 +11312,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6685
+      "UsersEstimate": 6686
     },
     {
       "ID": "25",
@@ -11323,7 +11328,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6685
+      "UsersEstimate": 6686
     },
     {
       "ID": "27",
@@ -11371,7 +11376,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 17625
+      "UsersEstimate": 17626
     },
     {
       "ID": "33",
@@ -11658,21 +11663,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 60777,
+      "Progressed": 60778,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 24245,
+      "Progressed": 24246,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-13T10:06:54.3335274+00:00",
+  "LastChanged_Achievements": "2023-08-13T11:06:13.6662488+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:20.2881971+00:00",
-  "LastUpdate_Ratings": "2023-08-13T09:59:55.1758687+00:00",
-  "LastUpdate_Achievements": "2023-08-13T10:06:54.3336605+00:00"
+  "LastUpdate_Ratings": "2023-08-13T10:59:16.8904685+00:00",
+  "LastUpdate_Achievements": "2023-08-13T11:06:13.6664091+00:00"
 }

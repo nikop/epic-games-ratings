@@ -4,8 +4,8 @@
   "ProductSlug": "the-expanse-a-telltale-series",
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 34,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 35,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7276,
+  "EOS_Progressed": 7285,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2440,
+  "EOS_NewPlayers": 2439,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1787,6 +1787,11 @@
       "Time": "2023-08-13T10:07:47.9302267+00:00",
       "NumProgressed": 7276,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-13T11:06:58.3795216+00:00",
+      "NumProgressed": 7285,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -1799,7 +1804,7 @@
       "Name": "Urshanabi Hoarder",
       "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "10",
@@ -1839,7 +1844,7 @@
       "Name": "Doctor Approved",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 1164
+      "UsersEstimate": 1166
     },
     {
       "ID": "15",
@@ -1847,7 +1852,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "16",
@@ -1863,15 +1868,15 @@
       "Name": "Spore Taste",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "18",
       "SetID": "458bbdk",
       "Name": "Bottoms up!",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 218
+      "UsersEstimate": 146
     },
     {
       "ID": "19",
@@ -1879,7 +1884,7 @@
       "Name": "Martian Music",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "2",
@@ -1887,7 +1892,7 @@
       "Name": "Data Logger",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "20",
@@ -1975,7 +1980,7 @@
       "Name": "Captain Drummer",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1093
     },
     {
       "ID": "30",
@@ -2038,14 +2043,14 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 7276,
+      "Progressed": 7285,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged_Achievements": "2023-08-13T10:07:47.9302258+00:00",
+  "LastChanged_Achievements": "2023-08-13T11:06:58.3795211+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:56.6215488+00:00",
-  "LastUpdate_Ratings": "2023-08-13T10:01:56.2162054+00:00",
-  "LastUpdate_Achievements": "2023-08-13T10:07:47.930265+00:00"
+  "LastUpdate_Ratings": "2023-08-13T11:01:05.8106916+00:00",
+  "LastUpdate_Achievements": "2023-08-13T11:06:58.3795593+00:00"
 }

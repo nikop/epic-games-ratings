@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 21,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -636,9 +636,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 211415,
+  "EOS_Progressed": 211437,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3995,
+  "EOS_NewPlayers": 3989,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6741,6 +6741,11 @@
       "Time": "2023-08-13T10:05:50.9316471+00:00",
       "NumProgressed": 211415,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-13T11:05:19.5817701+00:00",
+      "NumProgressed": 211437,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 88,
@@ -7152,7 +7157,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1269
     },
     {
       "ID": "DwarfElf15Support",
@@ -7200,7 +7205,7 @@
       "Name": "Sowwy!",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 23256
+      "UsersEstimate": 23258
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -7455,21 +7460,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 211415,
+      "Progressed": 211437,
       "Completed": 1
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 211415,
+      "Progressed": 211437,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-12T15:00:58.2777056+00:00",
-  "LastChanged_Achievements": "2023-08-13T10:05:50.9316462+00:00",
+  "LastChanged_Achievements": "2023-08-13T11:05:19.5817694+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:49.6773731+00:00",
-  "LastUpdate_Ratings": "2023-08-13T10:01:49.2177903+00:00",
-  "LastUpdate_Achievements": "2023-08-13T10:05:50.9317983+00:00"
+  "LastUpdate_Ratings": "2023-08-13T11:01:00.7657248+00:00",
+  "LastUpdate_Achievements": "2023-08-13T11:05:19.5820252+00:00"
 }

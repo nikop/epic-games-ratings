@@ -2,13 +2,13 @@
   "ID": "calluna",
   "Name": "Control",
   "ProductSlug": "control",
-  "Ranking_Rating": 390,
+  "Ranking_Rating": 389,
   "Ranking_Popularity": 40,
   "Ranking_PopularitySum": 74,
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2019-08-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -3935,10 +3935,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 12589,
       "NumberOfAwardsMax": 8442
+    },
+    {
+      "Time": "2023-08-13T11:00:34.4258988+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 12590,
+      "NumberOfAwardsMax": 8442
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12589,
+  "NumberOfAwards": 12590,
   "NumberOfAwardsMax": 8442,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3964,7 +3970,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 507
+      "Count": 508
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4014,8 +4020,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:45.0678604+00:00",
-  "LastChanged": "2023-08-12T21:01:49.358065+00:00",
+  "LastChanged": "2023-08-13T11:00:34.4258986+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:24.7403863+00:00",
-  "LastUpdate_Ratings": "2023-08-13T10:01:17.9068302+00:00",
-  "LastUpdate_Achievements": "2023-08-13T10:07:16.7208523+00:00"
+  "LastUpdate_Ratings": "2023-08-13T11:00:34.4258993+00:00",
+  "LastUpdate_Achievements": "2023-08-13T11:06:32.4628927+00:00"
 }

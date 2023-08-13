@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 152,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2023-08-04T16:00:00+00:00",
     "PcReleaseDate": "2022-09-21T16:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 238,
+  "EOS_Progressed": 239,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 168,
+  "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -701,6 +701,11 @@
       "Time": "2023-08-13T08:07:08.1711015+00:00",
       "NumProgressed": 238,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-13T11:07:03.584783+00:00",
+      "NumProgressed": 239,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-04T13:10:46.6045542+00:00",
@@ -759,9 +764,9 @@
       "ID": "ACH_END_FIRST_MAIL_MISSION",
       "SetID": "al4k4nh",
       "Name": "I love customers",
-      "Percentage": 79,
+      "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 188
+      "UsersEstimate": 186
     },
     {
       "ID": "ACH_END_FIRST_TUTORIAL",
@@ -769,7 +774,7 @@
       "Name": "Ready to go",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "ACH_END_FIRST_WORKBENCH_MISSION",
@@ -777,7 +782,7 @@
       "Name": "I can fix that",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACH_END_MAIL_MISSION_FAST",
@@ -793,7 +798,7 @@
       "Name": "First shock",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACH_FIX_LIGHT_SWITCHES",
@@ -857,7 +862,7 @@
       "Name": "Home sweet home",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "ACH_PLACE_MANY_ITEMS_IN_OFFICE",
@@ -881,7 +886,7 @@
       "Name": "Unpacked",
       "Percentage": 98,
       "XP": 15,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "ACH_SHOCK_ON_MISSION",
@@ -920,14 +925,14 @@
     {
       "ID": "al4k4nh",
       "IsBase": true,
-      "Progressed": 238,
+      "Progressed": 239,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2023-08-13T10:07:54.0152316+00:00",
+  "LastChanged_Achievements": "2023-08-13T11:07:03.5847822+00:00",
   "LastUpdate_AppInfo": "2023-08-09T17:56:58.4992812+00:00",
-  "LastUpdate_Ratings": "2023-08-13T09:59:17.0301865+00:00",
-  "LastUpdate_Achievements": "2023-08-13T10:07:54.0152575+00:00"
+  "LastUpdate_Ratings": "2023-08-13T10:58:36.6330082+00:00",
+  "LastUpdate_Achievements": "2023-08-13T11:07:03.584821+00:00"
 }
