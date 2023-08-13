@@ -10,25 +10,25 @@
 | I didn't do it! | 40.00% | ~41 |
 | Demolition expert | 35.00% | ~36 |
 | Wooooooow! | 35.00% | ~36 |
+| Artistic fool | 34.00% | ~35 |
 | Keep away from children | 34.00% | ~35 |
-| Artistic fool | 33.00% | ~34 |
 | Open up wide | 30.00% | ~31 |
-| Chapter II | 29.00% | ~30 |
+| Chapter II | 30.00% | ~31 |
 | Let the boot talk | 28.00% | ~29 |
 | Achoo!! | 28.00% | ~29 |
 | Chapter III | 27.00% | ~28 |
 | Like a moth in the Wind | 27.00% | ~28 |
-| Bubblekillerfamily | 23.00% | ~24 |
+| Bubblekillerfamily | 24.00% | ~25 |
+| Quite a buggy game | 23.00% | ~24 |
 | Mirror mirror on the wall... | 23.00% | ~24 |
-| Quite a buggy game | 22.00% | ~23 |
 | Shadow on the wall | 22.00% | ~23 |
 | Handyman | 21.00% | ~22 |
 | Fastidious Clown | 21.00% | ~22 |
 | It's not easy being green! | 20.00% | ~21 |
 | Home is where the heart is | 20.00% | ~21 |
 | Pacifist | 18.00% | ~19 |
-| Master of Thermodynamics | 16.00% | ~16 |
-| Death is a part of life | 16.00% | ~16 |
+| Master of Thermodynamics | 17.00% | ~18 |
+| Death is a part of life | 17.00% | ~18 |
 | Unfullfilled dreams | 15.00% | ~15 |
 | Nothing can stop me | 12.00% | ~12 |
 | To err is human... | 11.00% | ~11 |
@@ -38,8 +38,8 @@
 | It's nothing personal | 9.00% | ~9 |
 | Where there is life, there is hope | 8.00% | ~8 |
 | Artistic master | 7.00% | ~7 |
+| Sadist | 6.00% | ~6 |
 | The hands of a healer | 6.00% | ~6 |
-| Sadist | 5.00% | ~5 |
 | Fartjokes! | 5.00% | ~5 |
 | Shut up clown! | 5.00% | ~5 |
 | Life is but a dream | 4.00% | ~4 |

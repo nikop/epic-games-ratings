@@ -24,9 +24,9 @@
 | The Quiche and the Hair Dryer | 21.00% | ~16 |
 | Cartographer | 21.00% | ~16 |
 | South Square Lightbulbs | 19.00% | ~14 |
+| The Woman and the Pizzeria | 17.00% | ~13 |
 | The Painter and the Lights | 16.00% | ~12 |
 | The Ghost and the Lamps | 16.00% | ~12 |
-| The Woman and the Pizzeria | 16.00% | ~12 |
 | West Residence Energy | 15.00% | ~11 |
 | West Residence Lightbulbs | 13.00% | ~10 |
 | Riddle Master | 13.00% | ~10 |

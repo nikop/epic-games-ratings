@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 479,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -151,9 +151,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1364,
+  "EOS_Progressed": 1365,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -1346,6 +1346,11 @@
       "Time": "2023-08-12T20:09:06.3016145+00:00",
       "NumProgressed": 1364,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-13T01:47:19.8942287+00:00",
+      "NumProgressed": 1365,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 56,
@@ -1405,7 +1410,7 @@
       "Name": "Let Me Get My Chisel",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "achievement_beatGameOnWalkingLunch",
@@ -1429,7 +1434,7 @@
       "Name": "Passing Shadow",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "achievement_friendsBlock20Times",
@@ -1509,7 +1514,7 @@
       "Name": "Plague Doctor",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "achievement_loseBattle",
@@ -1605,7 +1610,7 @@
       "Name": "Another Tale to Tell",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "completedStory_monarchs",
@@ -1621,7 +1626,7 @@
       "Name": "A Story of Heroes",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "completedStory_ulstryx",
@@ -1629,7 +1634,7 @@
       "Name": "Daybreak",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "completedStory_vultureLord",
@@ -1651,9 +1656,9 @@
       "ID": "ecthis_all5PlotCharacters",
       "SetID": "95dc8p",
       "Name": "All My Birds, Safely Home",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 82
     },
     {
       "ID": "enduringWar_destroyCores",
@@ -1804,15 +1809,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1364,
+      "Progressed": 1365,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-07-08T20:01:41.3411794+00:00",
-  "LastChanged_Achievements": "2023-08-13T00:05:40.3958903+00:00",
+  "LastChanged_Achievements": "2023-08-13T01:47:19.894228+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:26.6947946+00:00",
-  "LastUpdate_Ratings": "2023-08-12T23:57:20.7212418+00:00",
-  "LastUpdate_Achievements": "2023-08-13T00:05:40.3959464+00:00"
+  "LastUpdate_Ratings": "2023-08-13T01:38:39.8465915+00:00",
+  "LastUpdate_Achievements": "2023-08-13T01:47:19.8942856+00:00"
 }

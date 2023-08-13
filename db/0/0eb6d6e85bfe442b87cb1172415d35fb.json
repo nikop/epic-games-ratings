@@ -4,8 +4,8 @@
   "ProductSlug": "airport-ceo-442ecc",
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 357,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2021-03-04T18:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T10:02:52.8790419+00:00",
-  "LastChanged_Achievements": "2023-08-13T00:03:30.3300545+00:00",
+  "LastChanged_Achievements": "2023-08-13T01:45:14.4953499+00:00",
   "LastUpdate_AppInfo": "2023-08-09T11:56:59.6775815+00:00",
-  "LastUpdate_Ratings": "2023-08-12T23:57:24.9691603+00:00",
-  "LastUpdate_Achievements": "2023-08-13T00:03:30.3300563+00:00"
+  "LastUpdate_Ratings": "2023-08-13T01:38:44.7268761+00:00",
+  "LastUpdate_Achievements": "2023-08-13T01:45:14.4953537+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 154,
-  "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
     "PcReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -280,9 +280,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 516,
+  "EOS_Progressed": 517,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -1440,6 +1440,11 @@
       "Time": "2023-08-12T14:04:12.7371849+00:00",
       "NumProgressed": 516,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-13T01:45:14.1700546+00:00",
+      "NumProgressed": 517,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 19,
@@ -1473,9 +1478,9 @@
       "ID": "dont-miss-calls",
       "SetID": "bed33dd",
       "Name": "Didn\u0027t Miss A Single One",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 237
+      "UsersEstimate": 233
     },
     {
       "ID": "female-conqueror",
@@ -1539,7 +1544,7 @@
       "Name": "Bad Trip",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "rename-lieutenant",
@@ -1571,7 +1576,7 @@
       "Name": "Camellos",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "unlock-residences",
@@ -1602,15 +1607,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 516,
+      "Progressed": 517,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-08-13T00:03:30.0176577+00:00",
+  "LastChanged_Achievements": "2023-08-13T01:45:14.1700541+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:04.7796701+00:00",
-  "LastUpdate_Ratings": "2023-08-12T23:56:57.7517081+00:00",
-  "LastUpdate_Achievements": "2023-08-13T00:03:30.0176778+00:00"
+  "LastUpdate_Ratings": "2023-08-13T01:38:16.6432461+00:00",
+  "LastUpdate_Achievements": "2023-08-13T01:45:14.1700746+00:00"
 }

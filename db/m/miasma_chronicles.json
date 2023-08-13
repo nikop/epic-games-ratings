@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -184,9 +184,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1360,
+  "EOS_Progressed": 1361,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2789,6 +2789,11 @@
       "Time": "2023-08-10T18:06:06.324281+00:00",
       "NumProgressed": 1360,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-13T01:46:33.7389791+00:00",
+      "NumProgressed": 1361,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -2808,7 +2813,7 @@
       "Name": "Are you not entertained?",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "ASPIRING_EDITOR",
@@ -2816,7 +2821,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 1020
+      "UsersEstimate": 1021
     },
     {
       "ID": "ATTENBOROUGH",
@@ -2902,9 +2907,9 @@
       "ID": "DEAD_DD",
       "SetID": "9a4jnji",
       "Name": "Ganglord",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 449
+      "UsersEstimate": 463
     },
     {
       "ID": "DEAD_DICK",
@@ -2920,7 +2925,7 @@
       "Name": "Jarhead",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "DRESSED_TO_KILL",
@@ -2960,7 +2965,7 @@
       "Name": "Exorcist",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "EXPERIENCED",
@@ -2976,7 +2981,7 @@
       "Name": "Firestarter",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "FIRST_BLOOD",
@@ -2984,7 +2989,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 1251
+      "UsersEstimate": 1252
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -3008,7 +3013,7 @@
       "Name": "From Darkness to Light",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "GIANT_KILLER",
@@ -3032,7 +3037,7 @@
       "Name": "Gun for Hire",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -3040,7 +3045,7 @@
       "Name": "Hold The Line",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "IM_THE_LAW",
@@ -3048,7 +3053,7 @@
       "Name": "I am the law!",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "INFILTRATOR",
@@ -3104,7 +3109,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 1061
+      "UsersEstimate": 1062
     },
     {
       "ID": "RECYCLER",
@@ -3120,7 +3125,7 @@
       "Name": "Ruthless",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "SAVIOR",
@@ -3207,7 +3212,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1360,
+      "Progressed": 1361,
       "Completed": 0
     }
   ],
@@ -3215,8 +3220,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-08-05T08:58:38.9168515+00:00",
-  "LastChanged_Achievements": "2023-08-13T00:04:51.898371+00:00",
+  "LastChanged_Achievements": "2023-08-13T01:46:33.7389786+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:56.2809501+00:00",
-  "LastUpdate_Ratings": "2023-08-12T23:59:09.6024361+00:00",
-  "LastUpdate_Achievements": "2023-08-13T00:04:51.8984407+00:00"
+  "LastUpdate_Ratings": "2023-08-13T01:40:21.9361612+00:00",
+  "LastUpdate_Achievements": "2023-08-13T01:46:33.7390425+00:00"
 }

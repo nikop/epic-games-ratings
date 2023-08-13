@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 143,
   "Ranking_EOS_NewPlayers": 283,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
     "PcReleaseDate": "2021-09-28T16:00:00+00:00",
@@ -895,9 +895,9 @@
       "ID": "ETUA_AloneInTheDark",
       "SetID": "65jc0ap",
       "Name": "Alone In The Dark",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 27
     },
     {
       "ID": "ETUA_AlonewithThem",
@@ -1216,8 +1216,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-08-13T00:03:59.426223+00:00",
+  "LastChanged_Achievements": "2023-08-13T01:45:42.5908044+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:06.4642166+00:00",
-  "LastUpdate_Ratings": "2023-08-12T23:57:59.635832+00:00",
-  "LastUpdate_Achievements": "2023-08-13T00:03:59.4262594+00:00"
+  "LastUpdate_Ratings": "2023-08-13T01:39:17.1597388+00:00",
+  "LastUpdate_Achievements": "2023-08-13T01:45:42.590841+00:00"
 }

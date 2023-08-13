@@ -6,14 +6,14 @@ Rating: 4.56 (Ranked 470)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Getting Started | 81.00% | ~9,680 |
-| Pay 'n' Spray | 50.00% | ~5,975 |
+| Pay 'n' Spray | 50.00% | ~5,976 |
 | All Dressed Up for San Fierro | 25.00% | ~2,988 |
-| The American Dream | 19.00% | ~2,270 |
+| The American Dream | 19.00% | ~2,271 |
 | School's Out | 18.00% | ~2,151 |
 | Smooth Moves | 17.00% | ~2,032 |
-| Today Was a Good Day | 15.00% | ~1,792 |
+| Today Was a Good Day | 15.00% | ~1,793 |
 | What happens in Las Venturas... | 14.00% | ~1,673 |
-| Horror of the Santa Maria | 11.00% | ~1,314 |
+| Horror of the Santa Maria | 11.00% | ~1,315 |
 | Liberty City State of Mind | 9.00% | ~1,076 |
 | Original Gangster | 8.00% | ~956 |
 | With Extra Dip | 7.00% | ~837 |
@@ -22,8 +22,8 @@ Rating: 4.56 (Ranked 470)
 | Rescue a Kitten Too? | 5.00% | ~598 |
 | They Can’t Stop All of Us | 4.00% | ~478 |
 | What are the Odds | 4.00% | ~478 |
-| Bike or Biker | 3.00% | ~358 |
-| What the City Needs | 3.00% | ~358 |
+| Bike or Biker | 3.00% | ~359 |
+| What the City Needs | 3.00% | ~359 |
 | A Legitimate Business | 2.00% | ~239 |
 | I’ll Have Two Number 9s | 2.00% | ~239 |
 | Who Needs Directions? | 2.00% | ~239 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 470)
 | ...Here we go again | 0.40% | ~48 |
 | I Ain't No Buster | 0.30% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,950 (Ranked 119)  
+Progressed: 11,951 (Ranked 119)  
 Completed: 37 (0.31%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,6 +156,7 @@ Completed: 37 (0.31%) (Ranked 163)
 | 2023-08-10 | 11,927 | 36 |
 | 2023-08-11 | 11,930 | 36 |
 | 2023-08-12 | 11,950 | 37 |
+| 2023-08-13 | 11,951 | 37 |
 ## Awards
 Max (Great Boss Battles): 254  (Ranked 250)  
 Sum: 274 (Ranked 345)  

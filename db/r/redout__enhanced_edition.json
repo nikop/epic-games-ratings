@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 50,
   "Ranking_EOS_Completed": 235,
   "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 229503,
+  "EOS_Progressed": 229512,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 541,
+  "EOS_NewPlayers": 543,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -12248,6 +12248,11 @@
       "Time": "2023-08-13T00:02:04.7945994+00:00",
       "NumProgressed": 229503,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-08-13T01:44:05.8906901+00:00",
+      "NumProgressed": 229512,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 34,
@@ -12275,7 +12280,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 64261
+      "UsersEstimate": 64263
     },
     {
       "ID": "CENTAUR",
@@ -12283,7 +12288,7 @@
       "Name": "CENTAUR",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 18360
+      "UsersEstimate": 18361
     },
     {
       "ID": "CHALLENGER",
@@ -12291,7 +12296,7 @@
       "Name": "CHALLENGER",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 25245
+      "UsersEstimate": 25246
     },
     {
       "ID": "CHALLENGETHEWORLD",
@@ -12299,7 +12304,7 @@
       "Name": "CHALLENGE THE WORLD",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 16065
+      "UsersEstimate": 16066
     },
     {
       "ID": "DRAGOON",
@@ -12323,7 +12328,7 @@
       "Name": "FASTER THAN EVER",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 18360
+      "UsersEstimate": 18361
     },
     {
       "ID": "FLAWLESS",
@@ -12347,7 +12352,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 45901
+      "UsersEstimate": 45902
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -12395,7 +12400,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 75736
+      "UsersEstimate": 75739
     },
     {
       "ID": "NOBUNAGA",
@@ -12419,7 +12424,7 @@
       "Name": "ON A ROLL",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20655
+      "UsersEstimate": 20656
     },
     {
       "ID": "PHOTOFINISH",
@@ -12427,7 +12432,7 @@
       "Name": "PHOTOFINISH",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 16065
+      "UsersEstimate": 16066
     },
     {
       "ID": "PILEUPTROPHIES",
@@ -12451,7 +12456,7 @@
       "Name": "QAREEN",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 11475
+      "UsersEstimate": 11476
     },
     {
       "ID": "RESPWND",
@@ -12483,7 +12488,7 @@
       "Name": "SNEAKY SNEAKY",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 50491
+      "UsersEstimate": 50493
     },
     {
       "ID": "TACTICIAN",
@@ -12507,7 +12512,7 @@
       "Name": "TRICK UP YOUR SLEEVE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 50491
+      "UsersEstimate": 50493
     },
     {
       "ID": "TUNINGMANIAC",
@@ -12523,22 +12528,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 94096
+      "UsersEstimate": 94100
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 229503,
+      "Progressed": 229512,
       "Completed": 46
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-08-13T00:02:04.7945988+00:00",
+  "LastChanged_Achievements": "2023-08-13T01:44:05.8906892+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:00.8930351+00:00",
-  "LastUpdate_Ratings": "2023-08-12T23:59:12.1937117+00:00",
-  "LastUpdate_Achievements": "2023-08-13T00:02:04.7946924+00:00"
+  "LastUpdate_Ratings": "2023-08-13T01:40:23.8933744+00:00",
+  "LastUpdate_Achievements": "2023-08-13T01:44:05.8907944+00:00"
 }

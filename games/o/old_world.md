@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 299)  
+Rating: 4.65 (Ranked 300)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -19,6 +19,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong | 2.00% | ~268 |
 | Friendly Family | 2.00% | ~268 |
 | Hanging Gardens | 2.00% | ~268 |
+| Oracle | 2.00% | ~268 |
 | Play a Single Player Game | 2.00% | ~268 |
 | Trade Caravan | 2.00% | ~268 |
 | The Great Mage | 2.00% | ~268 |
@@ -44,7 +45,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lighthouse | 1.00% | ~134 |
 | Musaeum | 1.00% | ~134 |
 | Necropolis | 1.00% | ~134 |
-| Oracle | 1.00% | ~134 |
 | Pyramids | 1.00% | ~134 |
 | Learn to Play 1 | 1.00% | ~134 |
 | Christianity | 1.00% | ~134 |
@@ -61,11 +61,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Artisans | 0.90% | ~120 |
 | Apadana | 0.90% | ~120 |
 | Colossus | 0.90% | ~120 |
+| Learn to Play 2 | 0.90% | ~120 |
 | Drillmaster | 0.80% | ~107 |
 | Legendary Cities | 0.80% | ~107 |
 | Sages | 0.80% | ~107 |
 | Acropolis | 0.80% | ~107 |
-| Learn to Play 2 | 0.80% | ~107 |
 | Egyptian Paganism | 0.80% | ~107 |
 | Mythology | 0.80% | ~107 |
 | Intercessor | 0.70% | ~94 |
@@ -86,7 +86,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Traders | 0.60% | ~80 |
 | Temple of Solomon | 0.60% | ~80 |
 | Persian Paganism | 0.60% | ~80 |
+| Legalism | 0.60% | ~80 |
 | Phalangite | 0.60% | ~80 |
+| Double Victory | 0.60% | ~80 |
 | Invincible | 0.50% | ~67 |
 | Lion | 0.50% | ~67 |
 | Subjugator | 0.50% | ~67 |
@@ -103,12 +105,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Assyrian Paganism | 0.50% | ~67 |
 | Economic Reform | 0.50% | ~67 |
 | Dualism | 0.50% | ~67 |
-| Legalism | 0.50% | ~67 |
 | Redemption | 0.50% | ~67 |
 | Cimmerian Archer | 0.50% | ~67 |
 | Legionary | 0.50% | ~67 |
 | Ambition Victory | 0.50% | ~67 |
-| Double Victory | 0.50% | ~67 |
 | Win a Single Player Game | 0.50% | ~67 |
 | Bad Heir Day | 0.40% | ~54 |
 | Ishtar Gate in Babylon | 0.40% | ~54 |

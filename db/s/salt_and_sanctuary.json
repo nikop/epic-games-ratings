@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 29,
   "Ranking_EOS_Completed": 169,
   "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 22,
+  "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
     "PcReleaseDate": "2016-05-17T16:00:00+00:00",
@@ -2457,10 +2457,10 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 530313,
+  "EOS_Progressed": 530318,
   "EOS_Completed": 1504,
-  "EOS_NewPlayers": 587,
-  "EOS_NewCompleters": 7,
+  "EOS_NewPlayers": 586,
+  "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
     {
@@ -14717,6 +14717,11 @@
       "Time": "2023-08-13T00:03:56.4864119+00:00",
       "NumProgressed": 530313,
       "NumCompleted": 1504
+    },
+    {
+      "Time": "2023-08-13T01:45:39.8793364+00:00",
+      "NumProgressed": 530318,
+      "NumCompleted": 1504
     }
   ],
   "TotalAchievements": 37,
@@ -14744,7 +14749,7 @@
       "Name": "Devara\u0027s Light",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 159094
+      "UsersEstimate": 159095
     },
     {
       "ID": "DEVOTED",
@@ -14776,7 +14781,7 @@
       "Name": "Find Salvation",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 15909
+      "UsersEstimate": 15910
     },
     {
       "ID": "FIND_SANCTUARY",
@@ -14784,7 +14789,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 440160
+      "UsersEstimate": 440164
     },
     {
       "ID": "HONED",
@@ -14840,7 +14845,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 212125
+      "UsersEstimate": 212127
     },
     {
       "ID": "THE_CASTLE",
@@ -14848,7 +14853,7 @@
       "Name": "The Castle",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 58334
+      "UsersEstimate": 58335
     },
     {
       "ID": "THE_CAVE",
@@ -14880,7 +14885,7 @@
       "Name": "The Dome",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 47728
+      "UsersEstimate": 47729
     },
     {
       "ID": "THE_FOREST",
@@ -14888,7 +14893,7 @@
       "Name": "The Forest",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 74244
+      "UsersEstimate": 74245
     },
     {
       "ID": "THE_IMPOSTER",
@@ -14904,7 +14909,7 @@
       "Name": "The Iron Ones",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 95456
+      "UsersEstimate": 95457
     },
     {
       "ID": "THE_KEEP",
@@ -14952,7 +14957,7 @@
       "Name": "The Red Hall",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 47728
+      "UsersEstimate": 47729
     },
     {
       "ID": "THE_RUINS",
@@ -14984,7 +14989,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 339400
+      "UsersEstimate": 339404
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -14992,7 +14997,7 @@
       "Name": "The Unspeakable Deep",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 15909
+      "UsersEstimate": 15910
     },
     {
       "ID": "THE_VILLAGE",
@@ -15000,7 +15005,7 @@
       "Name": "The Village",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 84850
+      "UsersEstimate": 84851
     },
     {
       "ID": "THE_ZIGGURAT",
@@ -15023,15 +15028,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 530313,
+      "Progressed": 530318,
       "Completed": 1504
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-08-11T20:01:07.9735344+00:00",
-  "LastChanged_Achievements": "2023-08-13T00:03:56.4864114+00:00",
+  "LastChanged_Achievements": "2023-08-13T01:45:39.8793358+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:13.2289352+00:00",
-  "LastUpdate_Ratings": "2023-08-13T00:00:14.8404237+00:00",
-  "LastUpdate_Achievements": "2023-08-13T00:03:56.4865125+00:00"
+  "LastUpdate_Ratings": "2023-08-13T01:41:28.5141079+00:00",
+  "LastUpdate_Achievements": "2023-08-13T01:45:39.8794466+00:00"
 }

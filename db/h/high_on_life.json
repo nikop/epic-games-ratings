@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 220,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -238,9 +238,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23908,
+  "EOS_Progressed": 23909,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4183,6 +4183,11 @@
       "Time": "2023-08-12T23:02:12.9861965+00:00",
       "NumProgressed": 23908,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-08-13T01:43:21.0627518+00:00",
+      "NumProgressed": 23909,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 32,
@@ -4210,7 +4215,7 @@
       "Name": "Mods Please Ban",
       "Percentage": 77,
       "XP": 60,
-      "UsersEstimate": 18409
+      "UsersEstimate": 18410
     },
     {
       "ID": "ACH_ALL_LUGLOXES",
@@ -4218,7 +4223,7 @@
       "Name": "Luglox Genocide",
       "Percentage": 43,
       "XP": 60,
-      "UsersEstimate": 10280
+      "UsersEstimate": 10281
     },
     {
       "ID": "ACH_APPLEBEES_BILL",
@@ -4234,7 +4239,7 @@
       "Name": "Creature Feature",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 6933
+      "UsersEstimate": 6934
     },
     {
       "ID": "ACH_GET_GUS",
@@ -4242,7 +4247,7 @@
       "Name": "Satisfied Gus-tomer",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 6694
+      "UsersEstimate": 6695
     },
     {
       "ID": "ACH_GET_JETPACK",
@@ -4258,7 +4263,7 @@
       "Name": "Bring A Knife to a Gun Fight",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 18170
+      "UsersEstimate": 18171
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -4280,9 +4285,9 @@
       "ID": "ACH_GET_SWEEZY",
       "SetID": "cdkbb11",
       "Name": "Sweezy Like Sunday Morning",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 5738
+      "UsersEstimate": 5977
     },
     {
       "ID": "ACH_GLOBO_STAR",
@@ -4338,7 +4343,7 @@
       "Name": "Legendary Bounty Hunter",
       "Percentage": 18,
       "XP": 60,
-      "UsersEstimate": 4303
+      "UsersEstimate": 4304
     },
     {
       "ID": "ACH_KILL_GIBLETS",
@@ -4354,7 +4359,7 @@
       "Name": "Cold-Blooded Driller",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 6694
+      "UsersEstimate": 6695
     },
     {
       "ID": "ACH_KILL_NIPULON",
@@ -4378,7 +4383,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 17453
+      "UsersEstimate": 17454
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -4426,7 +4431,7 @@
       "Name": "Playing Favorites",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 1434
+      "UsersEstimate": 1435
     },
     {
       "ID": "ACH_STANS_STUFF",
@@ -4449,22 +4454,22 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 23908,
+      "Progressed": 23909,
       "Completed": 12
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1201,
-      "Completed": 1201
+      "Progressed": 1202,
+      "Completed": 1202
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-08-01T02:03:53.4121642+00:00",
-  "LastChanged_Achievements": "2023-08-13T00:01:09.0755496+00:00",
+  "LastChanged_Achievements": "2023-08-13T01:43:21.0627512+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:39.7440833+00:00",
-  "LastUpdate_Ratings": "2023-08-12T23:58:52.1195264+00:00",
-  "LastUpdate_Achievements": "2023-08-13T00:01:09.0755982+00:00"
+  "LastUpdate_Ratings": "2023-08-13T01:40:07.5307558+00:00",
+  "LastUpdate_Achievements": "2023-08-13T01:43:21.062808+00:00"
 }

@@ -46,10 +46,10 @@ Number of Ratings: 75  (23.09.2022)
 | Bet On Bots: Safety First | 0.80% | ~42 |
 | Tycoon | 0.80% | ~42 |
 | Merry-Go-Around: Self-Made | 0.70% | ~37 |
+| Level: Eye In The Sky | 0.60% | ~32 |
 | Bet On Bots: Inspector's Favorite | 0.60% | ~32 |
 | Trendsetter | 0.60% | ~32 |
 | Level: Heating-Up | 0.50% | ~26 |
-| Level: Eye In The Sky | 0.50% | ~26 |
 | CEO | 0.50% | ~26 |
 | Rockstar | 0.50% | ~26 |
 | Campaign: Man vs. Machine | 0.40% | ~21 |

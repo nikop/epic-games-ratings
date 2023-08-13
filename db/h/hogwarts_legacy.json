@@ -6130,10 +6130,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 40892,
       "NumberOfAwardsMax": 21714
+    },
+    {
+      "Time": "2023-08-13T01:39:33.3883967+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 40898,
+      "NumberOfAwardsMax": 21714
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 40892,
+  "NumberOfAwards": 40898,
   "NumberOfAwardsMax": 21714,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6159,7 +6165,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 909
+      "Count": 913
     },
     {
       "Text": "This game is Great for Beginners",
@@ -6207,12 +6213,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 582
+      "Count": 584
     }
   ],
-  "EOS_Progressed": 289954,
+  "EOS_Progressed": 289958,
   "EOS_Completed": 449,
-  "EOS_NewPlayers": 488,
+  "EOS_NewPlayers": 489,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -18530,6 +18536,11 @@
       "Time": "2023-08-13T00:05:14.1399827+00:00",
       "NumProgressed": 289954,
       "NumCompleted": 449
+    },
+    {
+      "Time": "2023-08-13T01:46:54.7252994+00:00",
+      "NumProgressed": 289958,
+      "NumCompleted": 449
     }
   ],
   "TotalAchievements": 45,
@@ -18541,7 +18552,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 34794
+      "UsersEstimate": 34795
     },
     {
       "ID": "PFA_10",
@@ -18661,7 +18672,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 28995
+      "UsersEstimate": 28996
     },
     {
       "ID": "PFA_24",
@@ -18765,7 +18776,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 23196
+      "UsersEstimate": 23197
     },
     {
       "ID": "PFA_36",
@@ -18885,7 +18896,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 28995
+      "UsersEstimate": 28996
     },
     {
       "ID": "PFA_9",
@@ -18893,23 +18904,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23196
+      "UsersEstimate": 23197
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 289954,
+      "Progressed": 289958,
       "Completed": 449
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-08-12T23:58:14.3539367+00:00",
-  "LastChanged_Achievements": "2023-08-13T00:05:14.1399822+00:00",
+  "LastChanged": "2023-08-13T01:39:33.3883966+00:00",
+  "LastChanged_Achievements": "2023-08-13T01:46:54.7252987+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:17.4814985+00:00",
-  "LastUpdate_Ratings": "2023-08-12T23:58:14.3539375+00:00",
-  "LastUpdate_Achievements": "2023-08-13T00:05:14.1400944+00:00"
+  "LastUpdate_Ratings": "2023-08-13T01:39:33.3883973+00:00",
+  "LastUpdate_Achievements": "2023-08-13T01:46:54.725405+00:00"
 }

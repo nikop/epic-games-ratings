@@ -5560,9 +5560,9 @@
       "Count": 3734
     }
   ],
-  "EOS_Progressed": 134416,
+  "EOS_Progressed": 134419,
   "EOS_Completed": 132,
-  "EOS_NewPlayers": 457,
+  "EOS_NewPlayers": 456,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -17250,6 +17250,11 @@
       "Time": "2023-08-13T00:04:36.2521448+00:00",
       "NumProgressed": 134416,
       "NumCompleted": 132
+    },
+    {
+      "Time": "2023-08-13T01:46:18.52005+00:00",
+      "NumProgressed": 134419,
+      "NumCompleted": 132
     }
   ],
   "TotalAchievements": 112,
@@ -17637,7 +17642,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 806
+      "UsersEstimate": 807
     },
     {
       "ID": "expansion02",
@@ -17731,9 +17736,9 @@
       "ID": "gold01",
       "SetID": "anfd17p",
       "Name": "Tinkle of Coins",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1075
+      "UsersEstimate": 1210
     },
     {
       "ID": "gold02",
@@ -17845,7 +17850,7 @@
       "Name": "Budding Merchant",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 806
+      "UsersEstimate": 807
     },
     {
       "ID": "level02",
@@ -18156,15 +18161,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 134416,
+      "Progressed": 134419,
       "Completed": 132
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-08-12T16:00:50.2555961+00:00",
-  "LastChanged_Achievements": "2023-08-13T00:04:36.2521441+00:00",
+  "LastChanged_Achievements": "2023-08-13T01:46:18.5200496+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:13.9096409+00:00",
-  "LastUpdate_Ratings": "2023-08-12T23:59:22.3284291+00:00",
-  "LastUpdate_Achievements": "2023-08-13T00:04:36.2523729+00:00"
+  "LastUpdate_Ratings": "2023-08-13T01:40:33.354299+00:00",
+  "LastUpdate_Achievements": "2023-08-13T01:46:18.520288+00:00"
 }

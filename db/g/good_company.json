@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2020-03-31T12:00:00+00:00",
@@ -187,7 +187,7 @@
   "Tags": [],
   "EOS_Progressed": 5275,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -3025,9 +3025,9 @@
       "ID": "ach_campaign_progress8",
       "SetID": "8cb3id7",
       "Name": "Level: Eye In The Sky",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 32
     },
     {
       "ID": "ach_campaign_progress9",
@@ -3505,8 +3505,8 @@
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-07-16T00:00:06.2705867+00:00",
-  "LastChanged_Achievements": "2023-08-13T00:03:36.8260467+00:00",
+  "LastChanged_Achievements": "2023-08-13T01:45:20.5535354+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:43.4719321+00:00",
-  "LastUpdate_Ratings": "2023-08-12T23:59:49.1219167+00:00",
-  "LastUpdate_Achievements": "2023-08-13T00:03:36.826155+00:00"
+  "LastUpdate_Ratings": "2023-08-13T01:41:02.9385847+00:00",
+  "LastUpdate_Achievements": "2023-08-13T01:45:20.5536385+00:00"
 }
