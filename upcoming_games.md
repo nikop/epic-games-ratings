@@ -90,10 +90,10 @@
 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 2023-09-30 | 46 (1,000 XP) | 2 | - | - |
 | [Game Dev Masters](games/g/game_dev_masters.md) | 2023-10-03 | 68 (1,000 XP) | 1 | - | - |
 | [The Lamplighters League](games/t/the_lamplighters_league.md) | 2023-10-03 | - |  | - | - |
+| [Assassin's Creed® Mirage](games/a/assassin's_creed®_mirage.md) | 2023-10-05 | - |  | - | - |
 | [Bottle: Pilgrim Redux](games/d/d5f88a2d15f2400db1c116d6651e7c9e.md) | 2023-10-06 | 24 (1,000 XP) | 0 | - | - |
 | [Wild Card Football](games/3/3072dbe471f84dac8b2e9ba8af253ee2.md) | 2023-10-10 | - |  | - | 0 |
 | [Outbreak Lost Hope Broken Faith](games/0/08a9c02dda9c41a59230704e270c4c01.md) | 2023-10-11 | 12 (1,000 XP) | 0 | - | - |
-| [Assassin's Creed® Mirage](games/a/assassin's_creed®_mirage.md) | 2023-10-12 | - |  | - | - |
 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 2023-10-13 | - |  | - | - |
 | [Backrooms Break](games/6/6246bf144dd3486fa681b773ddbe441a.md) | 2023-10-17 | - |  | - | - |
 | [Alan Wake 2](games/a/alan_wake_2.md) | 2023-10-17 | - |  | - | 0 |

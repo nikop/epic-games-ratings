@@ -52,8 +52,8 @@
 | 49 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 4.76% |
 | 51 | [Bugsnax](games/b/bugsnax.md) | 4.71% |
 | 52 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.69% |
-| 53 | [JARS](games/j/jars.md) | 4.62% |
-| 54 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.55% |
+| 53 | [JARS](games/j/jars.md) | 4.55% |
+| 53 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.55% |
 | 55 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.35% |
 | 56 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.19% |
 | 57 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.05% |
@@ -82,7 +82,7 @@
 | 80 | [Lamentum](games/l/lamentum.md) | 2.53% |
 | 81 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.52% |
 | 82 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 83 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.36% |
+| 83 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.35% |
 | 84 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.28% |
 | 85 | [Bloodshore](games/b/bloodshore.md) | 2.22% |
 | 86 | [FORECLOSED](games/f/foreclosed.md) | 2.17% |
