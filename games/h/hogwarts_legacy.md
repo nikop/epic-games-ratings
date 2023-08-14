@@ -10,15 +10,15 @@ Rating: 4.77 (Ranked 108)
 | Troll with the Punches | 11.00% | ~31,908 |
 | A Keen Sense of Spell | 10.00% | ~29,007 |
 | That's a Keeper | 10.00% | ~29,007 |
-| Grappling with a Graphorn | 9.00% | ~26,106 |
-| The One Who Mastered Memories | 9.00% | ~26,106 |
-| The Hallowed Hero | 9.00% | ~26,106 |
-| The Hero of Hogwarts | 9.00% | ~26,106 |
-| The Defender of Dragons | 9.00% | ~26,106 |
-| Challenge Accepted | 9.00% | ~26,106 |
-| Loom for Improvement | 9.00% | ~26,106 |
-| A Talent for Spending | 9.00% | ~26,106 |
-| Coasting Along | 9.00% | ~26,106 |
+| Grappling with a Graphorn | 9.00% | ~26,107 |
+| The One Who Mastered Memories | 9.00% | ~26,107 |
+| The Hallowed Hero | 9.00% | ~26,107 |
+| The Hero of Hogwarts | 9.00% | ~26,107 |
+| The Defender of Dragons | 9.00% | ~26,107 |
+| Challenge Accepted | 9.00% | ~26,107 |
+| Loom for Improvement | 9.00% | ~26,107 |
+| A Talent for Spending | 9.00% | ~26,107 |
+| Coasting Along | 9.00% | ~26,107 |
 | Followed the Butterflies | 8.00% | ~23,206 |
 | Rising From the Ashes | 8.00% | ~23,206 |
 | The Avenging Gazelle | 7.00% | ~20,305 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 108)
 | The Nature of the Beast | 0.60% | ~1,740 |
 | Collector's Edition | 0.30% | ~870 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290,072 (Ranked 42)  
+Progressed: 290,073 (Ranked 42)  
 Completed: 451 (0.16%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,10 +167,10 @@ Completed: 451 (0.16%) (Ranked 187)
 | 2023-08-11 | 289,866 | 448 |
 | 2023-08-12 | 289,948 | 449 |
 | 2023-08-13 | 290,043 | 451 |
-| 2023-08-14 | 290,072 | 451 |
+| 2023-08-14 | 290,073 | 451 |
 ## Awards
 Max (Character Customization): 21,738  (Ranked 17)  
-Sum: 40,977 (Ranked 30)  
+Sum: 40,984 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -183,7 +183,7 @@ Diff (max vs sum): -13
 | This game has Diverse Characters | 927 |
 | This game has Amazing Characters | 916 |
 | This game is Highly Recommended | 883 |
-| This game has Quickly Understood Controls | 836 |
+| This game has Quickly Understood Controls | 843 |
 | This game has Beautiful Visuals | 781 |
 | This game has a Creative Community | 591 |
 ## Ratings History
@@ -332,4 +332,4 @@ Diff (max vs sum): -13
 | 2023-08-11 | 4.77 | 21,691 | 40,839 |
 | 2023-08-12 | 4.77 | 21,714 | 40,892 |
 | 2023-08-13 | 4.77 | 21,738 | 40,951 |
-| 2023-08-14 | 4.77 | 21,738 | 40,977 |
+| 2023-08-14 | 4.77 | 21,738 | 40,984 |

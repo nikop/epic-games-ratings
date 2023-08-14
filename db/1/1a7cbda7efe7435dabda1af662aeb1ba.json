@@ -2,9 +2,9 @@
   "ID": "1a7cbda7efe7435dabda1af662aeb1ba",
   "Name": "Zoeti",
   "ProductSlug": "zoeti-3ccef9",
-  "Ranking_EOS_Progress": 410,
+  "Ranking_EOS_Progress": 406,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewPlayers": 285,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-05-16T22:30:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19,
+  "EOS_Progressed": 20,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -106,6 +106,11 @@
       "Time": "2023-08-12T08:06:09.7133494+00:00",
       "NumProgressed": 19,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-14T15:04:24.4257305+00:00",
+      "NumProgressed": 20,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -123,7 +128,7 @@
       "ID": "BOSS_KILL1",
       "SetID": "1icc7kd",
       "Name": "Breaking Free",
-      "Percentage": 32,
+      "Percentage": 30,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -155,7 +160,7 @@
       "ID": "BOSS_KILL2",
       "SetID": "1icc7kd",
       "Name": "Overcoming Weakness",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -163,7 +168,7 @@
       "ID": "BOSS_KILL3",
       "SetID": "1icc7kd",
       "Name": "Boulder Breaker",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -356,14 +361,14 @@
     {
       "ID": "1icc7kd",
       "IsBase": true,
-      "Progressed": 19,
+      "Progressed": 20,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-19T06:56:53.0270163+00:00",
   "FirstSeenAchievements": "2023-05-16T17:00:43.3294802+00:00",
-  "LastChanged_Achievements": "2023-08-14T14:05:37.0351893+00:00",
+  "LastChanged_Achievements": "2023-08-14T15:04:24.4257298+00:00",
   "LastUpdate_AppInfo": "2023-08-09T01:52:26.8381464+00:00",
-  "LastUpdate_Ratings": "2023-08-14T13:58:48.1236175+00:00",
-  "LastUpdate_Achievements": "2023-08-14T14:05:37.0352132+00:00"
+  "LastUpdate_Ratings": "2023-08-14T14:58:02.2850922+00:00",
+  "LastUpdate_Achievements": "2023-08-14T15:04:24.4257524+00:00"
 }

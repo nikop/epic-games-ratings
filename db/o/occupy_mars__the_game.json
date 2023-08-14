@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -214,7 +214,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1499,
+  "EOS_Progressed": 1500,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
@@ -3154,6 +3154,11 @@
       "Time": "2023-08-14T12:06:52.4433841+00:00",
       "NumProgressed": 1499,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-14T15:05:17.3964685+00:00",
+      "NumProgressed": 1500,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3173,7 +3178,7 @@
       "Name": "Cooking Vegetables",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_DRIVERS_LICENSE",
@@ -3205,7 +3210,7 @@
       "Name": "Historical Places",
       "Percentage": 0.1,
       "XP": 70,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_HOT_REPAIRS",
@@ -3293,7 +3298,7 @@
       "Name": "Bull\u2019s eye",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "NEW_ACHIEVEMENT_CAVEMAN",
@@ -3301,7 +3306,7 @@
       "Name": "Caveman",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "NEW_ACHIEVEMENT_DEFENCE",
@@ -3445,7 +3450,7 @@
       "Name": "One does not simply...",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "NEW_ACHIEVEMENT_PARTY_TIME",
@@ -3493,7 +3498,7 @@
       "Name": "Rover Mechanic",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "NEW_ACHIEVEMENT_SPACE_FOREST",
@@ -3548,7 +3553,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1499,
+      "Progressed": 1500,
       "Completed": 0
     }
   ],
@@ -3556,8 +3561,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-08-11T16:58:33.8212432+00:00",
-  "LastChanged_Achievements": "2023-08-14T14:06:50.9221421+00:00",
+  "LastChanged_Achievements": "2023-08-14T15:05:17.396468+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:18.7138767+00:00",
-  "LastUpdate_Ratings": "2023-08-14T13:59:24.1668273+00:00",
-  "LastUpdate_Achievements": "2023-08-14T14:06:50.9222055+00:00"
+  "LastUpdate_Ratings": "2023-08-14T14:58:25.3801585+00:00",
+  "LastUpdate_Achievements": "2023-08-14T15:05:17.3965154+00:00"
 }

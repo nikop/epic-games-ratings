@@ -1190,9 +1190,9 @@
       "Count": 67
     }
   ],
-  "EOS_Progressed": 5279,
+  "EOS_Progressed": 5280,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -7430,6 +7430,11 @@
       "Time": "2023-08-14T11:04:40.5462459+00:00",
       "NumProgressed": 5279,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-08-14T15:04:20.3176246+00:00",
+      "NumProgressed": 5280,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 31,
@@ -7441,7 +7446,7 @@
       "Name": "Get A Room",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 3906
+      "UsersEstimate": 3907
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -7465,7 +7470,7 @@
       "Name": "Nothing Wasted",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "HARVEST_CROPS_200",
@@ -7473,7 +7478,7 @@
       "Name": "Green Thumb",
       "Percentage": 66,
       "XP": 50,
-      "UsersEstimate": 3484
+      "UsersEstimate": 3485
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -7481,7 +7486,7 @@
       "Name": "Having A Field Day",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 3906
+      "UsersEstimate": 3907
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -7489,7 +7494,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 3748
+      "UsersEstimate": 3749
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -7545,15 +7550,15 @@
       "Name": "Don\u0027t Cry Wolf",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "KILL_RAIDER",
       "SetID": "5349c2e",
       "Name": "Retribution",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 2164
+      "UsersEstimate": 2112
     },
     {
       "ID": "PRODUCE_AT_CAMPFIRE",
@@ -7561,7 +7566,7 @@
       "Name": "Home Cooked Meal",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 2956
+      "UsersEstimate": 2957
     },
     {
       "ID": "STORE_NUTRITION_10000",
@@ -7649,7 +7654,7 @@
       "Name": "Novice Researcher",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 3431
+      "UsersEstimate": 3432
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -7673,7 +7678,7 @@
       "Name": "Onward",
       "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 2903
+      "UsersEstimate": 2904
     },
     {
       "ID": "UNLOCK_RESEARCH_5",
@@ -7681,22 +7686,22 @@
       "Name": "Studious Researcher",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 2692
+      "UsersEstimate": 2693
     }
   ],
   "AchievementSets": [
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 5279,
+      "Progressed": 5280,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-08-09T23:00:38.5654569+00:00",
-  "LastChanged_Achievements": "2023-08-14T14:05:31.1475145+00:00",
+  "LastChanged_Achievements": "2023-08-14T15:04:20.3176241+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:55.0917319+00:00",
-  "LastUpdate_Ratings": "2023-08-14T14:02:35.0902957+00:00",
-  "LastUpdate_Achievements": "2023-08-14T14:05:31.1475869+00:00"
+  "LastUpdate_Ratings": "2023-08-14T15:00:34.2887235+00:00",
+  "LastUpdate_Achievements": "2023-08-14T15:04:20.317676+00:00"
 }

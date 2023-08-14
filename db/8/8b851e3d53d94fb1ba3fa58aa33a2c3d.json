@@ -4,7 +4,7 @@
   "ProductSlug": "palladium-adventure-in-greece-f1ee1b",
   "Ranking_EOS_Progress": 404,
   "Ranking_EOS_Completed": 49,
-  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewPlayers": 309,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-07-20T15:00:00+00:00",
@@ -261,9 +261,9 @@
       "ID": "CAREFULNESS",
       "SetID": "e4de54",
       "Name": "Carefulness",
-      "Percentage": 52,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "COBWEB",
@@ -476,8 +476,8 @@
   ],
   "FirstSeen": "2023-07-24T20:59:19.8931718+00:00",
   "FirstSeenAchievements": "2023-07-14T20:01:12.8113065+00:00",
-  "LastChanged_Achievements": "2023-08-14T14:03:44.5140539+00:00",
+  "LastChanged_Achievements": "2023-08-14T15:03:12.4250299+00:00",
   "LastUpdate_AppInfo": "2023-08-11T22:57:15.7382508+00:00",
-  "LastUpdate_Ratings": "2023-08-14T13:58:24.4557258+00:00",
-  "LastUpdate_Achievements": "2023-08-14T14:03:44.5140912+00:00"
+  "LastUpdate_Ratings": "2023-08-14T14:57:47.2748877+00:00",
+  "LastUpdate_Achievements": "2023-08-14T15:03:12.4250556+00:00"
 }

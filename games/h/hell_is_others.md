@@ -5,10 +5,10 @@ Rating: 4.41 (Ranked 680)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~78,998 |
-| Predator I | 22.00% | ~56,063 |
-| Fixer I | 10.00% | ~25,483 |
-| A week in Century City | 10.00% | ~25,483 |
+| Survivor | 31.00% | ~78,999 |
+| Predator I | 22.00% | ~56,064 |
+| Fixer I | 10.00% | ~25,484 |
+| A week in Century City | 10.00% | ~25,484 |
 | The Wait | 7.00% | ~17,838 |
 | Green thumb I | 6.00% | ~15,290 |
 | Cleaning Company | 6.00% | ~15,290 |
@@ -44,10 +44,10 @@ Rating: 4.41 (Ranked 680)
 | Expert Hunter | 0.40% | ~1,019 |
 | Fungi hunter | 0.40% | ~1,019 |
 | Predator III | 0.40% | ~1,019 |
-| Arms dealer | 0.30% | ~764 |
-| Fixer III | 0.30% | ~764 |
-| AML questionnaire | 0.30% | ~764 |
-| Heartbreaker | 0.30% | ~764 |
+| Arms dealer | 0.30% | ~765 |
+| Fixer III | 0.30% | ~765 |
+| AML questionnaire | 0.30% | ~765 |
+| Heartbreaker | 0.30% | ~765 |
 | Workhorse | 0.20% | ~510 |
 | Homerun | 0.20% | ~510 |
 | A season in Century City | 0.20% | ~510 |
@@ -62,7 +62,7 @@ Rating: 4.41 (Ranked 680)
 | Capitalist III | 0.10% | ~255 |
 | Hell Is You | 0.10% | ~255 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,832 (Ranked 44)  
+Progressed: 254,835 (Ranked 44)  
 Completed: 3 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,10 +178,10 @@ Completed: 3 (0.00%) (Ranked 255)
 | 2023-08-11 | 254,689 | 3 |
 | 2023-08-12 | 254,748 | 3 |
 | 2023-08-13 | 254,809 | 3 |
-| 2023-08-14 | 254,832 | 3 |
+| 2023-08-14 | 254,835 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 35  (Ranked 437)  
-Sum: 237 (Ranked 355)  
+Sum: 238 (Ranked 355)  
 Diff (max vs sum): 82  
 | Award | Count |
 | ----- | ----- |
@@ -190,8 +190,8 @@ Diff (max vs sum): 82
 | This game has Amazing Characters | 29 |
 | This game has Challenging Combat | 27 |
 | This game is Highly Recommended | 27 |
+| This game has a Competitive Community | 23 |
 | This game has Quickly Understood Controls | 22 |
-| This game has a Competitive Community | 22 |
 | This game has Competitive Players | 21 |
 | This game is Extremely Fun | 20 |
 ## Ratings History
@@ -308,3 +308,4 @@ Diff (max vs sum): 82
 | 2023-08-10 | 4.42 | 35 | 236 |
 | 2023-08-11 | 4.42 | 35 | 237 |
 | 2023-08-13 | 4.41 | 35 | 237 |
+| 2023-08-14 | 4.41 | 35 | 238 |

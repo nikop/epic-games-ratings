@@ -13,11 +13,11 @@ Rating: 4.88 (Ranked 18)
 | Thanks for the free chip, Peppermint! | 8.00% | ~311 |
 | You got this, Peppermint? | 7.00% | ~272 |
 | Perfect Parry | 7.00% | ~272 |
-| This will cost you big time | 6.00% | ~233 |
-| I play my own way! | 6.00% | ~233 |
-| Uh, they were broken when I got here | 6.00% | ~233 |
-| I look cool. But I can look COOLER. | 6.00% | ~233 |
-| Alright, that felt AWESOME! | 6.00% | ~233 |
+| This will cost you big time | 6.00% | ~234 |
+| I play my own way! | 6.00% | ~234 |
+| Uh, they were broken when I got here | 6.00% | ~234 |
+| I look cool. But I can look COOLER. | 6.00% | ~234 |
+| Alright, that felt AWESOME! | 6.00% | ~234 |
 | Whoa! There's ANOTHER health bar!? | 5.00% | ~195 |
 | Z-shielding's got nothing on us! | 5.00% | ~195 |
 | Kissing the sky! | 5.00% | ~195 |
@@ -29,7 +29,7 @@ Rating: 4.88 (Ranked 18)
 | You must like calling me in, Chai | 4.00% | ~156 |
 | Out in a puff of smoke | 4.00% | ~156 |
 | Perfecter Parry-er! | 4.00% | ~156 |
-| NOW we got a kickass hideout! | 4.00% | ~96 |
+| NOW we got a kickass hideout! | 4.00% | ~97 |
 | Well that was a rush! | 3.00% | ~117 |
 | I have to read these things? | 3.00% | ~117 |
 | Beat-hit mania | 2.00% | ~78 |
@@ -77,7 +77,7 @@ Rating: 4.88 (Ranked 18)
 | Voices from within | 0.10% | ~2 |
 | Low budget finish | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,891 (Ranked 147)  
+Progressed: 3,892 (Ranked 147)  
 Completed: 7 (0.18%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 7 (0.18%) (Ranked 185)
 | 2023-08-11 | 3,855 | 7 |
 | 2023-08-12 | 3,868 | 7 |
 | 2023-08-13 | 3,885 | 7 |
-| 2023-08-14 | 3,891 | 7 |
+| 2023-08-14 | 3,892 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

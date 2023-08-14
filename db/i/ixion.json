@@ -256,7 +256,7 @@
   "Tags": [],
   "EOS_Progressed": 3068,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4685,9 +4685,9 @@
       "ID": "ACH_BASE_29",
       "SetID": "92iocjf",
       "Name": "A Thousand Strong",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 430
+      "UsersEstimate": 460
     },
     {
       "ID": "ACH_BASE_3",
@@ -5004,8 +5004,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-07-23T14:59:09.9428451+00:00",
-  "LastChanged_Achievements": "2023-08-14T14:07:41.0279667+00:00",
+  "LastChanged_Achievements": "2023-08-14T15:05:53.378026+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:14.5462015+00:00",
-  "LastUpdate_Ratings": "2023-08-14T14:00:46.1762257+00:00",
-  "LastUpdate_Achievements": "2023-08-14T14:07:41.0281084+00:00"
+  "LastUpdate_Ratings": "2023-08-14T14:59:18.843343+00:00",
+  "LastUpdate_Achievements": "2023-08-14T15:05:53.3780898+00:00"
 }

@@ -24,6 +24,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Friendly Family | 2.00% | ~268 |
 | Hanging Gardens | 2.00% | ~268 |
 | Oracle | 2.00% | ~268 |
+| Naming Landmarks | 2.00% | ~268 |
 | Trade Caravan | 2.00% | ~268 |
 | The Great Mage | 2.00% | ~268 |
 | Poetic Leader | 2.00% | ~268 |
@@ -58,13 +59,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greek Paganism | 1.00% | ~134 |
 | Roman Paganism | 1.00% | ~134 |
 | Zoroastrianism | 1.00% | ~134 |
-| Naming Landmarks | 1.00% | ~134 |
+| Drillmaster | 0.90% | ~121 |
 | Legendary Cities | 0.90% | ~121 |
 | Just Difficulty | 0.90% | ~121 |
 | Artisans | 0.90% | ~121 |
 | Learn to Play 2 | 0.90% | ~121 |
 | Egyptian Paganism | 0.90% | ~121 |
-| Drillmaster | 0.80% | ~107 |
 | Intercessor | 0.80% | ~107 |
 | Valiant | 0.80% | ~107 |
 | Sages | 0.80% | ~107 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,405 (Ranked 117)  
+Progressed: 13,406 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -419,7 +419,7 @@ Completed: 5 (0.04%) (Ranked 224)
 | 2023-08-11 | 13,363 | 5 |
 | 2023-08-12 | 13,385 | 5 |
 | 2023-08-13 | 13,400 | 5 |
-| 2023-08-14 | 13,405 | 5 |
+| 2023-08-14 | 13,406 | 5 |
 ## Awards
 Max (Relaxing): 219  (Ranked 264)  
 Sum: 1,790 (Ranked 206)  

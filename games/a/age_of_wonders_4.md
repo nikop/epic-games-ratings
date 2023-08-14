@@ -5,7 +5,7 @@ Rating: 4.62 (Ranked 342)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 6.00% | ~307 |
+| Secret Technique | 7.00% | ~358 |
 | Tipping the Scales | 6.00% | ~307 |
 | Realm Estate | 5.00% | ~256 |
 | A Wonderful Discovery | 5.00% | ~256 |

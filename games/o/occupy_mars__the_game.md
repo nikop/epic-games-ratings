@@ -29,19 +29,19 @@ Rating: 3.95 (Ranked 938)
 | Hard Landing | 2.00% | ~30 |
 | Explosive Miner | 1.00% | ~15 |
 | Rocket Jump | 1.00% | ~15 |
-| Caveman | 0.90% | ~13 |
+| Caveman | 0.90% | ~14 |
 | Thunderstruck | 0.80% | ~12 |
 | Planetary Defence | 0.70% | ~10 |
 | 5G Network | 0.60% | ~9 |
-| Bull’s eye | 0.50% | ~7 |
-| One does not simply... | 0.50% | ~7 |
-| Rover Mechanic | 0.50% | ~7 |
+| Bull’s eye | 0.50% | ~8 |
+| One does not simply... | 0.50% | ~8 |
+| Rover Mechanic | 0.50% | ~8 |
 | Hot Repairs | 0.30% | ~4 |
 | Korolev crater | 0.30% | ~4 |
 | Never Ending Story? | 0.20% | ~3 |
 | Roadster | 0.20% | ~3 |
-| Cooking Vegetables | 0.10% | ~1 |
-| Historical Places | 0.10% | ~1 |
+| Cooking Vegetables | 0.10% | ~2 |
+| Historical Places | 0.10% | ~2 |
 | The cake is a lie | 0.00% | ~0 |
 | Let's Cook | 0.00% | ~0 |
 | Life on Mars | 0.00% | ~0 |
@@ -54,7 +54,7 @@ Rating: 3.95 (Ranked 938)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,499 (Ranked 179)  
+Progressed: 1,500 (Ranked 179)  
 Completed: 0 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 0 (0.00%) (Ranked 255)
 | 2023-08-11 | 1,492 | 0 |
 | 2023-08-12 | 1,496 | 0 |
 | 2023-08-13 | 1,498 | 0 |
-| 2023-08-14 | 1,499 | 0 |
+| 2023-08-14 | 1,500 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,7 +4,7 @@
   "ProductSlug": "tales-of-the-orient-the-rising-sun-001806",
   "Ranking_EOS_Progress": 424,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewPlayers": 358,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-04-01T09:00:00+00:00",
@@ -115,9 +115,9 @@
       "ID": "TALES_3",
       "SetID": "c5idb6k",
       "Name": "10 is good!",
-      "Percentage": 47,
+      "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TALES_4",
@@ -204,8 +204,8 @@
   "FirstSeenRating": "2023-04-15T20:58:43.6104414+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:36.8460847+00:00",
   "LastChanged": "2023-04-15T20:58:43.6104415+00:00",
-  "LastChanged_Achievements": "2023-08-14T14:02:53.7361044+00:00",
+  "LastChanged_Achievements": "2023-08-14T15:02:07.0672296+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:42.3776568+00:00",
-  "LastUpdate_Ratings": "2023-08-14T14:02:24.5468648+00:00",
-  "LastUpdate_Achievements": "2023-08-14T14:02:53.7361234+00:00"
+  "LastUpdate_Ratings": "2023-08-14T15:00:25.4636435+00:00",
+  "LastUpdate_Achievements": "2023-08-14T15:02:07.067242+00:00"
 }

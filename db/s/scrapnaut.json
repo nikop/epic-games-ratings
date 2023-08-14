@@ -1069,9 +1069,9 @@
       "ID": "ACH_COLLECT_50_ELECTROSCRAP",
       "SetID": "7c4cldc",
       "Name": "Electro-Scrap Gatherer",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 117
+      "UsersEstimate": 121
     },
     {
       "ID": "ACH_COLLECT_50_SCRAP",
@@ -1149,9 +1149,9 @@
       "ID": "ACH_KILL_50",
       "SetID": "7c4cldc",
       "Name": "Robot Destroyer",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 107
+      "UsersEstimate": 110
     },
     {
       "ID": "ACH_MAKE_CANNED_FOOD",
@@ -1246,8 +1246,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-06-01T06:59:03.7150344+00:00",
-  "LastChanged_Achievements": "2023-08-14T14:05:04.7880035+00:00",
+  "LastChanged_Achievements": "2023-08-14T15:04:01.6613268+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:12.6952772+00:00",
-  "LastUpdate_Ratings": "2023-08-14T14:00:45.417403+00:00",
-  "LastUpdate_Achievements": "2023-08-14T14:05:04.7880391+00:00"
+  "LastUpdate_Ratings": "2023-08-14T14:59:18.3399096+00:00",
+  "LastUpdate_Achievements": "2023-08-14T15:04:01.6613497+00:00"
 }

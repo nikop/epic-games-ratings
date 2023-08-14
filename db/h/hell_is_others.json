@@ -764,10 +764,16 @@
       "Rating": 4.41,
       "NumberOfAwards": 237,
       "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2023-08-14T14:57:14.0685658+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 238,
+      "NumberOfAwardsMax": 35
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 237,
+  "NumberOfAwards": 238,
   "NumberOfAwardsMax": 35,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -805,7 +811,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 22
+      "Count": 23
     },
     {
       "Text": "This game is Highly Recommended",
@@ -826,9 +832,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 254832,
+  "EOS_Progressed": 254835,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 399,
+  "EOS_NewPlayers": 402,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12701,6 +12707,11 @@
       "Time": "2023-08-14T14:08:27.8143256+00:00",
       "NumProgressed": 254832,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-14T15:06:27.0970936+00:00",
+      "NumProgressed": 254835,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -12760,7 +12771,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 78998
+      "UsersEstimate": 78999
     },
     {
       "ID": "BackHomeNTimes",
@@ -12800,7 +12811,7 @@
       "Name": "Arms dealer",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "CompleteBestiary",
@@ -12816,7 +12827,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25483
+      "UsersEstimate": 25484
     },
     {
       "ID": "CreditLevel2",
@@ -12832,7 +12843,7 @@
       "Name": "Fixer III",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "CreedsInBank1",
@@ -13000,7 +13011,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 56063
+      "UsersEstimate": 56064
     },
     {
       "ID": "KillOthers2",
@@ -13104,7 +13115,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25483
+      "UsersEstimate": 25484
     },
     {
       "ID": "ReachNDays2",
@@ -13128,7 +13139,7 @@
       "Name": "AML questionnaire",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "TakeHomeNHearts",
@@ -13136,7 +13147,7 @@
       "Name": "Heartbreaker",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "UnlockAllAchievements",
@@ -13159,16 +13170,16 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 254832,
+      "Progressed": 254835,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
-  "LastChanged": "2023-08-13T18:57:24.2749106+00:00",
-  "LastChanged_Achievements": "2023-08-14T14:08:27.8143251+00:00",
+  "LastChanged": "2023-08-14T14:57:14.0685657+00:00",
+  "LastChanged_Achievements": "2023-08-14T15:06:27.0970931+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:09.7223884+00:00",
-  "LastUpdate_Ratings": "2023-08-14T13:57:39.5188085+00:00",
-  "LastUpdate_Achievements": "2023-08-14T14:08:27.8144593+00:00"
+  "LastUpdate_Ratings": "2023-08-14T14:57:14.0685661+00:00",
+  "LastUpdate_Achievements": "2023-08-14T15:06:27.0971858+00:00"
 }

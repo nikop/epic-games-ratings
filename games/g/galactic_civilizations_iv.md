@@ -6,19 +6,19 @@ Number of Ratings: 429  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 79.00% | ~5,018 |
-| Worker Specialization | 78.00% | ~4,955 |
-| First Contact | 73.00% | ~4,637 |
-| Win a Battle | 67.00% | ~4,256 |
-| Anomaly Researcher | 63.00% | ~4,002 |
-| Unleash My Power | 62.00% | ~3,938 |
+| Colonize a Planet | 79.00% | ~5,020 |
+| Worker Specialization | 78.00% | ~4,956 |
+| First Contact | 73.00% | ~4,638 |
+| Win a Battle | 67.00% | ~4,257 |
+| Anomaly Researcher | 63.00% | ~4,003 |
+| Unleash My Power | 62.00% | ~3,939 |
 | Own 30 Planets | 34.00% | ~2,160 |
 | Xenocide | 32.00% | ~2,033 |
 | Design a Civilization | 32.00% | ~2,033 |
-| Commodity Trader | 31.00% | ~1,969 |
+| Commodity Trader | 31.00% | ~1,970 |
 | Design a Ship | 28.00% | ~1,779 |
 | Commodity Seller | 25.00% | ~1,588 |
-| Prestige Victory! | 14.00% | ~889 |
+| Prestige Victory! | 14.00% | ~890 |
 | Galactic War | 11.00% | ~699 |
 | Trading Partner | 9.00% | ~572 |
 | Fleet Victory | 8.00% | ~508 |
@@ -39,7 +39,7 @@ Number of Ratings: 429  (23.09.2022)
 | Win as the Baratak | 1.00% | ~64 |
 | Win as Festron | 1.00% | ~64 |
 | Win as the Navigators | 0.90% | ~57 |
-| Win as Torians | 0.90% | ~57 |
+| Win as Torians | 0.80% | ~51 |
 | Win as Xeloxi | 0.80% | ~51 |
 | Win as the Drath | 0.70% | ~44 |
 | Win as the Drengin | 0.70% | ~44 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,352 (Ranked 135)  
+Progressed: 6,354 (Ranked 135)  
 Completed: 0 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 0 (0.00%) (Ranked 255)
 | 2023-08-11 | 6,331 | 0 |
 | 2023-08-12 | 6,339 | 0 |
 | 2023-08-13 | 6,350 | 0 |
-| 2023-08-14 | 6,352 | 0 |
+| 2023-08-14 | 6,354 | 0 |
 ## Awards
 Max (Diverse Characters): 92  (Ranked 348)  
 Sum: 673 (Ranked 281)  

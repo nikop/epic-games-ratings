@@ -6,31 +6,31 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~367,502 |
-| Now You're Talking | 62.00% | ~325,502 |
-| Steel Yourself | 62.00% | ~325,502 |
-| Window Dressing | 50.00% | ~262,502 |
-| Trigger Happy | 46.00% | ~241,501 |
-| Riverborn | 45.00% | ~236,251 |
-| Starry Eyed | 34.00% | ~178,501 |
-| Poking Around | 34.00% | ~178,501 |
-| Talk of the Town | 24.00% | ~126,001 |
-| AAARR! | 23.00% | ~120,751 |
-| Hello Darkness | 23.00% | ~120,751 |
-| Wind At Our Backs | 22.00% | ~115,501 |
+| First Step | 70.00% | ~367,505 |
+| Now You're Talking | 62.00% | ~325,504 |
+| Steel Yourself | 62.00% | ~325,504 |
+| Window Dressing | 50.00% | ~262,504 |
+| Trigger Happy | 46.00% | ~241,503 |
+| Riverborn | 45.00% | ~236,253 |
+| Starry Eyed | 34.00% | ~178,502 |
+| Poking Around | 34.00% | ~178,502 |
+| Talk of the Town | 24.00% | ~126,002 |
+| AAARR! | 23.00% | ~120,752 |
+| Hello Darkness | 23.00% | ~120,752 |
+| Wind At Our Backs | 22.00% | ~115,502 |
 | To the Beat | 20.00% | ~105,001 |
 | Sunny Shores | 17.00% | ~89,251 |
-| Sunday Best | 16.00% | ~84,000 |
-| To Victory! | 15.00% | ~78,750 |
-| Two of a Kind | 14.00% | ~73,500 |
-| Keep On Trucking | 13.00% | ~68,250 |
-| Going on an Adventure | 11.00% | ~57,750 |
-| Make Peace, Not War | 11.00% | ~57,750 |
-| Walking The Line | 10.00% | ~52,500 |
-| Not So Cute Anymore | 10.00% | ~52,500 |
-| Road Less Travelled | 9.00% | ~47,250 |
-| Lost and Found | 9.00% | ~47,250 |
-| Under the Radar | 8.00% | ~42,000 |
+| Sunday Best | 16.00% | ~84,001 |
+| To Victory! | 15.00% | ~78,751 |
+| Two of a Kind | 14.00% | ~73,501 |
+| Keep On Trucking | 13.00% | ~68,251 |
+| Going on an Adventure | 11.00% | ~57,751 |
+| Make Peace, Not War | 11.00% | ~57,751 |
+| Walking The Line | 10.00% | ~52,501 |
+| Not So Cute Anymore | 10.00% | ~52,501 |
+| Road Less Travelled | 9.00% | ~47,251 |
+| Lost and Found | 9.00% | ~47,251 |
+| Under the Radar | 8.00% | ~42,001 |
 | Partner in Crime | 7.00% | ~36,750 |
 | Hard to Hear | 7.00% | ~36,750 |
 | Moving On Up | 6.00% | ~31,500 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,575 |
 | Point Taken | 0.10% | ~525 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 525,003 (Ranked 31)  
+Progressed: 525,007 (Ranked 31)  
 Completed: 459 (0.09%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 459 (0.09%) (Ranked 207)
 | 2023-08-11 | 524,773 | 457 |
 | 2023-08-12 | 524,862 | 457 |
 | 2023-08-13 | 524,963 | 459 |
-| 2023-08-14 | 525,003 | 459 |
+| 2023-08-14 | 525,007 | 459 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

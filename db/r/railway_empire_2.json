@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -158,9 +158,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1790,
+  "EOS_Progressed": 1791,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4183,6 +4183,11 @@
       "Time": "2023-08-14T09:06:23.9046634+00:00",
       "NumProgressed": 1790,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-14T15:04:53.7076435+00:00",
+      "NumProgressed": 1791,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -4218,7 +4223,7 @@
       "Name": "Resistance is futile",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "A04",
@@ -4274,7 +4279,7 @@
       "Name": "From X to Y",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 1289
+      "UsersEstimate": 1290
     },
     {
       "ID": "A11",
@@ -4338,7 +4343,7 @@
       "Name": "General Manager",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "A19",
@@ -4354,7 +4359,7 @@
       "Name": "Country Bumpkin",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 1342
+      "UsersEstimate": 1343
     },
     {
       "ID": "A21",
@@ -4362,7 +4367,7 @@
       "Name": "Country Life",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "A22",
@@ -4370,7 +4375,7 @@
       "Name": "Brainstorm",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 1181
+      "UsersEstimate": 1182
     },
     {
       "ID": "A23",
@@ -4386,7 +4391,7 @@
       "Name": "Access granted",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "A25",
@@ -4418,7 +4423,7 @@
       "Name": "We brake for nobody",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1199
+      "UsersEstimate": 1200
     },
     {
       "ID": "A29",
@@ -4426,7 +4431,7 @@
       "Name": "Going once, going twice, sold",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "A30",
@@ -4450,7 +4455,7 @@
       "Name": "Assimilated",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "A33",
@@ -4458,7 +4463,7 @@
       "Name": "Locusts",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "A34",
@@ -4466,7 +4471,7 @@
       "Name": "Producer",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 895
+      "UsersEstimate": 896
     },
     {
       "ID": "A35",
@@ -4480,9 +4485,9 @@
       "ID": "A36",
       "SetID": "9b7p7eo",
       "Name": "Way of Iron",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1271
+      "UsersEstimate": 1254
     },
     {
       "ID": "A37",
@@ -4522,7 +4527,7 @@
       "Name": "Right through the middle",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 1020
+      "UsersEstimate": 1021
     },
     {
       "ID": "A42",
@@ -4562,7 +4567,7 @@
       "Name": "Mystery Tour",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1235
+      "UsersEstimate": 1236
     },
     {
       "ID": "A47",
@@ -4633,7 +4638,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 1790,
+      "Progressed": 1791,
       "Completed": 0
     }
   ],
@@ -4641,8 +4646,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-08-12T01:37:01.4774443+00:00",
-  "LastChanged_Achievements": "2023-08-14T14:06:17.7664715+00:00",
+  "LastChanged_Achievements": "2023-08-14T15:04:53.7076426+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:49.1747301+00:00",
-  "LastUpdate_Ratings": "2023-08-14T14:00:17.6502716+00:00",
-  "LastUpdate_Achievements": "2023-08-14T14:06:17.7665527+00:00"
+  "LastUpdate_Ratings": "2023-08-14T14:59:00.6189587+00:00",
+  "LastUpdate_Achievements": "2023-08-14T15:04:53.7076992+00:00"
 }

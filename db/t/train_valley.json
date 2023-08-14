@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 146,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
@@ -111,9 +111,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 435,
+  "EOS_Progressed": 436,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -861,6 +861,11 @@
       "Time": "2023-08-13T20:06:44.4551498+00:00",
       "NumProgressed": 435,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-14T15:04:55.483066+00:00",
+      "NumProgressed": 436,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -872,7 +877,7 @@
       "Name": "Getting started",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "02_collector",
@@ -886,9 +891,9 @@
       "ID": "03_philatelist",
       "SetID": "chb1m60",
       "Name": "Philatelist",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 109
     },
     {
       "ID": "04_tycoon",
@@ -904,7 +909,7 @@
       "Name": "Pangs of conscience",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "06_living",
@@ -912,7 +917,7 @@
       "Name": "Living it large!",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "07_europe",
@@ -1008,7 +1013,7 @@
       "Name": "Foreman",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "19_justintime",
@@ -1016,7 +1021,7 @@
       "Name": "Just in time!",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "20_sabotage",
@@ -1088,7 +1093,7 @@
       "Name": "Non Stop!",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "29_madness",
@@ -1136,7 +1141,7 @@
       "Name": "Need to think",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "35_achtung",
@@ -1183,15 +1188,15 @@
     {
       "ID": "chb1m60",
       "IsBase": true,
-      "Progressed": 435,
+      "Progressed": 436,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-08-05T18:00:22.7295334+00:00",
-  "LastChanged_Achievements": "2023-08-14T14:06:20.2747835+00:00",
+  "LastChanged_Achievements": "2023-08-14T15:04:55.4830658+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:20.9918701+00:00",
-  "LastUpdate_Ratings": "2023-08-14T13:59:40.665488+00:00",
-  "LastUpdate_Achievements": "2023-08-14T14:06:20.274834+00:00"
+  "LastUpdate_Ratings": "2023-08-14T14:58:36.6468489+00:00",
+  "LastUpdate_Achievements": "2023-08-14T15:04:55.4830906+00:00"
 }

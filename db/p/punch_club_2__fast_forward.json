@@ -4,7 +4,7 @@
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 65,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 249,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.21,
   "EosHistory": [
@@ -1155,9 +1155,9 @@
       "ID": "league_2",
       "SetID": "69co12a",
       "Name": "Champion \u2013 no way back",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 100
     },
     {
       "ID": "league_3",
@@ -1275,9 +1275,9 @@
       "ID": "police_promotion_2",
       "SetID": "69co12a",
       "Name": "Get out of my apartment!",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 95
     },
     {
       "ID": "police_promotion_3",
@@ -1307,9 +1307,9 @@
       "ID": "resistance_fake",
       "SetID": "69co12a",
       "Name": "Underground dwellers",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 97
     },
     {
       "ID": "resistance_slime",
@@ -1426,8 +1426,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-08-14T14:05:23.8852042+00:00",
+  "LastChanged_Achievements": "2023-08-14T15:04:14.9581298+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:18.7618858+00:00",
-  "LastUpdate_Ratings": "2023-08-14T13:59:22.7324944+00:00",
-  "LastUpdate_Achievements": "2023-08-14T14:05:23.8853527+00:00"
+  "LastUpdate_Ratings": "2023-08-14T14:58:24.6885763+00:00",
+  "LastUpdate_Achievements": "2023-08-14T15:04:14.9581827+00:00"
 }

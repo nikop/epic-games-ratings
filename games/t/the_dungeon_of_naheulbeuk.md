@@ -6,28 +6,28 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 13.00% | ~27,575 |
-| Alt+F4 | 0.90% | ~1,909 |
-| Where's that freaking Dwarf? | 0.80% | ~1,697 |
+| Sowwy! | 13.00% | ~27,578 |
+| Alt+F4 | 1.00% | ~2,121 |
+| Where's that freaking Dwarf? | 0.90% | ~1,909 |
 | Déjà vu | 0.70% | ~1,485 |
 | Sock! SOCK! | 0.70% | ~1,485 |
 | A beer, two curses, three companions | 0.50% | ~1,061 |
 | GG EZ | 0.50% | ~1,061 |
+| DM intervention | 0.50% | ~1,061 |
 | Speedrun | 0.50% | ~1,061 |
 | Fireproof Wizardess | 0.50% | ~1,061 |
-| Way of the Wimp | 0.40% | ~848 |
-| %#*!$*! | 0.40% | ~848 |
-| DM intervention | 0.40% | ~848 |
+| Way of the Wimp | 0.40% | ~849 |
+| %#*!$*! | 0.40% | ~849 |
 | Livin' in a dwarven paradise | 0.30% | ~636 |
 | The plot thickens... At the tavern | 0.30% | ~636 |
 | The demons' feast | 0.30% | ~636 |
 | The Great Library | 0.30% | ~636 |
 | Torture and Sensibility | 0.30% | ~636 |
+| Urik's Depths | 0.30% | ~636 |
 | The Woman in the High Castle | 0.30% | ~636 |
 | Team Building Exercise | 0.30% | ~636 |
 | Oh, when I'll be level 10... | 0.30% | ~636 |
 | Shiny and Crôm | 0.20% | ~424 |
-| Urik's Depths | 0.20% | ~424 |
 | The Dungeon Master | 0.20% | ~424 |
 | The Statuette of Gladeulfeurah | 0.20% | ~424 |
 | Res Judicata | 0.20% | ~424 |
@@ -36,6 +36,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Fortress | 0.20% | ~424 |
 | Look but don't touch | 0.20% | ~424 |
 | The beards of change | 0.20% | ~424 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.20% | ~424 |
 | The Ranger of Chaos | 0.20% | ~424 |
 | I am the night | 0.20% | ~424 |
 | Thieves' Guild Accreditation | 0.20% | ~424 |
@@ -75,7 +76,6 @@ Number of Ratings: 118  (23.09.2022)
 | 100% satisfaction guarantee | 0.10% | ~212 |
 | Death is for wimps | 0.10% | ~212 |
 | An old poacher makes the best gamekeeper | 0.10% | ~212 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.10% | ~212 |
 | Dead for good | 0.10% | ~212 |
 | We come in peace | 0.10% | ~212 |
 | Super-Ultra-Lydian | 0.10% | ~212 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Sleep schedule mastery | 0.00% | ~0 |
 | Dumb and dumber | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 212,118 (Ranked 56)  
+Progressed: 212,139 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 2 (0.00%) (Ranked 255)
 | 2023-08-11 | 210,534 | 1 |
 | 2023-08-12 | 211,199 | 1 |
 | 2023-08-13 | 211,857 | 2 |
-| 2023-08-14 | 212,118 | 2 |
+| 2023-08-14 | 212,139 | 2 |
 ## Awards
 Max (Character Customization): 163  (Ranked 291)  
 Sum: 183 (Ranked 376)  

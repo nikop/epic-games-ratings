@@ -642,9 +642,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 212118,
+  "EOS_Progressed": 212139,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3869,
+  "EOS_NewPlayers": 3857,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6887,6 +6887,11 @@
       "Time": "2023-08-14T14:05:31.6948695+00:00",
       "NumProgressed": 212118,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-14T15:04:20.7642844+00:00",
+      "NumProgressed": 212139,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -6930,7 +6935,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 848
+      "UsersEstimate": 849
     },
     {
       "ID": "BookCollection",
@@ -6992,9 +6997,9 @@
       "ID": "Chapter7",
       "SetID": "50chcgj",
       "Name": "Urik\u0027s Depths",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 424
+      "UsersEstimate": 636
     },
     {
       "ID": "Chapter8",
@@ -7296,9 +7301,9 @@
       "ID": "DwarfCover",
       "SetID": "50chcgj",
       "Name": "Where\u0027s that freaking Dwarf?",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1697
+      "UsersEstimate": 1909
     },
     {
       "ID": "DwarfElf15Support",
@@ -7322,7 +7327,7 @@
       "Name": "%#*!$*!",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 848
+      "UsersEstimate": 849
     },
     {
       "ID": "DwarfLevel2",
@@ -7346,7 +7351,7 @@
       "Name": "Sowwy!",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 27575
+      "UsersEstimate": 27578
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -7368,9 +7373,9 @@
       "ID": "EndCombatOneHp",
       "SetID": "50chcgj",
       "Name": "DM intervention",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 848
+      "UsersEstimate": 1061
     },
     {
       "ID": "EndGameCursed",
@@ -7392,9 +7397,9 @@
       "ID": "FastKill",
       "SetID": "50chcgj",
       "Name": "Alt\u002BF4",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1909
+      "UsersEstimate": 2121
     },
     {
       "ID": "FollowBraztok",
@@ -7416,9 +7421,9 @@
       "ID": "InsultLoose",
       "SetID": "50chcgj",
       "Name": "I\u0027ve seen that beard before! It was on sale, and came with a broomstick and a bucket!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 212
+      "UsersEstimate": 424
     },
     {
       "ID": "KillDungeonLich",
@@ -7601,21 +7606,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 212118,
+      "Progressed": 212139,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 212118,
+      "Progressed": 212139,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-13T20:01:39.3225851+00:00",
-  "LastChanged_Achievements": "2023-08-14T14:05:31.6948689+00:00",
+  "LastChanged_Achievements": "2023-08-14T15:04:20.7642836+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:49.6773731+00:00",
-  "LastUpdate_Ratings": "2023-08-14T14:01:31.4539634+00:00",
-  "LastUpdate_Achievements": "2023-08-14T14:05:31.6950585+00:00"
+  "LastUpdate_Ratings": "2023-08-14T14:59:50.4444731+00:00",
+  "LastUpdate_Achievements": "2023-08-14T15:04:20.7644034+00:00"
 }

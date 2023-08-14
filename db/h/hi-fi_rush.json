@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -118,7 +118,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3891,
+  "EOS_Progressed": 3892,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
@@ -5873,6 +5873,11 @@
       "Time": "2023-08-14T14:06:26.222295+00:00",
       "NumProgressed": 3891,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-08-14T15:04:59.8236514+00:00",
+      "NumProgressed": 3892,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 71,
@@ -5900,7 +5905,7 @@
       "Name": "This will cost you big time",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "Ach004",
@@ -6012,7 +6017,7 @@
       "Name": "I play my own way!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "Ach018",
@@ -6140,7 +6145,7 @@
       "Name": "Uh, they were broken when I got here",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "Ach034",
@@ -6212,7 +6217,7 @@
       "Name": "I look cool. But I can look COOLER.",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "Ach043",
@@ -6260,7 +6265,7 @@
       "Name": "Alright, that felt AWESOME!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "Ach049",
@@ -6372,7 +6377,7 @@
       "Name": "NOW we got a kickass hideout!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "Ach063",
@@ -6451,13 +6456,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 3891,
+      "Progressed": 3892,
       "Completed": 7
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2412,
+      "Progressed": 2413,
       "Completed": 1929
     }
   ],
@@ -6465,8 +6470,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-08-10T23:00:09.4128826+00:00",
-  "LastChanged_Achievements": "2023-08-14T14:06:26.2222945+00:00",
+  "LastChanged_Achievements": "2023-08-14T15:04:59.8236509+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:15.2039204+00:00",
-  "LastUpdate_Ratings": "2023-08-14T14:00:49.1293899+00:00",
-  "LastUpdate_Achievements": "2023-08-14T14:06:26.2224107+00:00"
+  "LastUpdate_Ratings": "2023-08-14T14:59:19.79218+00:00",
+  "LastUpdate_Achievements": "2023-08-14T15:04:59.823735+00:00"
 }

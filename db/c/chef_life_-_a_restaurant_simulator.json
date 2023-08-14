@@ -4,7 +4,7 @@
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 545,
+  "EOS_Progressed": 546,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2339,6 +2339,11 @@
       "Time": "2023-08-13T15:04:33.3065298+00:00",
       "NumProgressed": 545,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-14T15:03:36.7905409+00:00",
+      "NumProgressed": 546,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -2460,7 +2465,7 @@
       "ID": "GalvanizedStaff3Days10",
       "SetID": "d1bm05f",
       "Name": "Chef, Yes Chef!",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -2476,7 +2481,7 @@
       "ID": "LayoutBig",
       "SetID": "d1bm05f",
       "Name": "The Bigger the Better",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -2526,7 +2531,7 @@
       "Name": "The Big Day",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "Packing20",
@@ -2669,7 +2674,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 545,
+      "Progressed": 546,
       "Completed": 0
     }
   ],
@@ -2677,8 +2682,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-08-14T14:04:29.2290616+00:00",
+  "LastChanged_Achievements": "2023-08-14T15:03:36.7905406+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:14.6263196+00:00",
-  "LastUpdate_Ratings": "2023-08-14T14:00:45.346926+00:00",
-  "LastUpdate_Achievements": "2023-08-14T14:04:29.2291109+00:00"
+  "LastUpdate_Ratings": "2023-08-14T14:59:18.2875929+00:00",
+  "LastUpdate_Achievements": "2023-08-14T15:03:36.790575+00:00"
 }
