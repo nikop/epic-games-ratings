@@ -2396,9 +2396,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 67833,
+  "EOS_Progressed": 67837,
   "EOS_Completed": 107,
-  "EOS_NewPlayers": 149,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -12391,6 +12391,11 @@
       "Time": "2023-08-14T16:07:34.314615+00:00",
       "NumProgressed": 67833,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2023-08-14T18:07:01.9634957+00:00",
+      "NumProgressed": 67837,
+      "NumCompleted": 107
     }
   ],
   "TotalAchievements": 61,
@@ -12538,7 +12543,7 @@
       "Name": "Dressed to Impress",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "CRAFTING_MOD_CHIPS",
@@ -12570,7 +12575,7 @@
       "Name": "Talonted",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "DEFEAT_FREAKS_1",
@@ -12594,7 +12599,7 @@
       "Name": "The Man-Bat Family",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "DEFEAT_OC_1",
@@ -12746,7 +12751,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 4748
+      "UsersEstimate": 4749
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -12889,13 +12894,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 67833,
+      "Progressed": 67837,
       "Completed": 107
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 38113,
+      "Progressed": 38117,
       "Completed": 2657
     }
   ],
@@ -12903,8 +12908,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-08-14T16:02:29.5357371+00:00",
-  "LastChanged_Achievements": "2023-08-14T17:06:34.0223717+00:00",
+  "LastChanged_Achievements": "2023-08-14T18:07:01.9634951+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:49.7416919+00:00",
-  "LastUpdate_Ratings": "2023-08-14T17:01:28.1527893+00:00",
-  "LastUpdate_Achievements": "2023-08-14T17:06:34.0224909+00:00"
+  "LastUpdate_Ratings": "2023-08-14T18:01:49.5828796+00:00",
+  "LastUpdate_Achievements": "2023-08-14T18:07:01.9636077+00:00"
 }

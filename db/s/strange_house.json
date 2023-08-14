@@ -4,8 +4,8 @@
   "ProductSlug": "strange-house-5fd1b5",
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 359,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:48.3132312+00:00",
-  "LastChanged_Achievements": "2023-08-14T17:03:34.0068121+00:00",
+  "LastChanged_Achievements": "2023-08-14T18:03:52.9826564+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:46.0655089+00:00",
-  "LastUpdate_Ratings": "2023-08-14T16:59:32.9294128+00:00",
-  "LastUpdate_Achievements": "2023-08-14T17:03:34.006816+00:00"
+  "LastUpdate_Ratings": "2023-08-14T17:59:50.2251868+00:00",
+  "LastUpdate_Achievements": "2023-08-14T18:03:52.98266+00:00"
 }

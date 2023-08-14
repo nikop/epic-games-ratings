@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 287,
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2022-09-29T14:00:00+00:00",
@@ -504,9 +504,9 @@
       "Count": 46
     }
   ],
-  "EOS_Progressed": 19515,
+  "EOS_Progressed": 19516,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -5174,6 +5174,11 @@
       "Time": "2023-08-13T21:03:31.909148+00:00",
       "NumProgressed": 19515,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-08-14T18:04:36.6114738+00:00",
+      "NumProgressed": 19516,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 37,
@@ -5217,7 +5222,7 @@
       "Name": "Builder",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 16197
+      "UsersEstimate": 16198
     },
     {
       "ID": "ach.060.goingdistance",
@@ -5225,7 +5230,7 @@
       "Name": "Going the Distance",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 10538
+      "UsersEstimate": 10539
     },
     {
       "ID": "ach.070.8kenough",
@@ -5233,7 +5238,7 @@
       "Name": "8K is Enough for Everyone",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4488
+      "UsersEstimate": 4489
     },
     {
       "ID": "ach.080.eraser",
@@ -5241,7 +5246,7 @@
       "Name": "Eraser",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 13660
+      "UsersEstimate": 13661
     },
     {
       "ID": "ach.090.perfectionist",
@@ -5249,7 +5254,7 @@
       "Name": "Perfectionist",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4488
+      "UsersEstimate": 4489
     },
     {
       "ID": "ach.100.indecisive",
@@ -5257,7 +5262,7 @@
       "Name": "Indecisive",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5659
+      "UsersEstimate": 5660
     },
     {
       "ID": "ach.110.multiverse",
@@ -5289,7 +5294,7 @@
       "Name": "Trevithick\u0027s Legacy",
       "Percentage": 98,
       "XP": 60,
-      "UsersEstimate": 19125
+      "UsersEstimate": 19126
     },
     {
       "ID": "ach.150.pocket",
@@ -5345,7 +5350,7 @@
       "Name": "Oil Baron",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 8196
+      "UsersEstimate": 8197
     },
     {
       "ID": "ach.220.hot",
@@ -5369,7 +5374,7 @@
       "Name": "Loads-a-Money",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 8196
+      "UsersEstimate": 8197
     },
     {
       "ID": "ach.250.downfall",
@@ -5377,7 +5382,7 @@
       "Name": "Before the Downfall",
       "Percentage": 93,
       "XP": 60,
-      "UsersEstimate": 18149
+      "UsersEstimate": 18150
     },
     {
       "ID": "ach.260.investor",
@@ -5441,7 +5446,7 @@
       "Name": "Money like Water",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 17759
+      "UsersEstimate": 17760
     },
     {
       "ID": "ach.340.steel",
@@ -5457,7 +5462,7 @@
       "Name": "Trains over Pipes",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4488
+      "UsersEstimate": 4489
     },
     {
       "ID": "ach.360.lightning",
@@ -5480,7 +5485,7 @@
     {
       "ID": "384aaja",
       "IsBase": true,
-      "Progressed": 19515,
+      "Progressed": 19516,
       "Completed": 36
     }
   ],
@@ -5488,8 +5493,8 @@
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
   "LastChanged": "2023-08-13T13:03:32.8412912+00:00",
-  "LastChanged_Achievements": "2023-08-14T17:04:06.8437341+00:00",
+  "LastChanged_Achievements": "2023-08-14T18:04:36.6114732+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:15.8610302+00:00",
-  "LastUpdate_Ratings": "2023-08-14T17:01:05.3304649+00:00",
-  "LastUpdate_Achievements": "2023-08-14T17:04:06.8438342+00:00"
+  "LastUpdate_Ratings": "2023-08-14T18:01:24.1610795+00:00",
+  "LastUpdate_Achievements": "2023-08-14T18:04:36.6115407+00:00"
 }

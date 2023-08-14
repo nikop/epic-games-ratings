@@ -568,9 +568,9 @@
       "Count": 215
     }
   ],
-  "EOS_Progressed": 465249,
+  "EOS_Progressed": 465253,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 521,
+  "EOS_NewPlayers": 522,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12638,6 +12638,11 @@
       "Time": "2023-08-14T16:06:38.7785616+00:00",
       "NumProgressed": 465249,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-08-14T18:06:15.4467248+00:00",
+      "NumProgressed": 465253,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 79,
@@ -12689,7 +12694,7 @@
       "Name": "Chapter III: The Man Who Sold the World",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 930
+      "UsersEstimate": 931
     },
     {
       "ID": "achievement_story_complete_chapter_4",
@@ -12697,7 +12702,7 @@
       "Name": "Chapter IV: Through the Looking Glass",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 930
+      "UsersEstimate": 931
     },
     {
       "ID": "achievement_story_complete_chapter_5",
@@ -12705,7 +12710,7 @@
       "Name": "Chapter V: Memories of None",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 930
+      "UsersEstimate": 931
     },
     {
       "ID": "achievement_story_ending_earth",
@@ -12761,7 +12766,7 @@
       "Name": "Through the mirror",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 930
+      "UsersEstimate": 931
     },
     {
       "ID": "achievement_story_meet_mother",
@@ -12777,7 +12782,7 @@
       "Name": "Meet your maker",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 930
+      "UsersEstimate": 931
     },
     {
       "ID": "achievement_story_meet_okonkwo",
@@ -12785,7 +12790,7 @@
       "Name": "Admiral Okonkwo",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 930
+      "UsersEstimate": 931
     },
     {
       "ID": "achievement_story_meet_survivalists",
@@ -12793,7 +12798,7 @@
       "Name": "The Survivalists",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 930
+      "UsersEstimate": 931
     },
     {
       "ID": "achievement_story_meet_tetsuo",
@@ -12801,7 +12806,7 @@
       "Name": "Tetsuo",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 930
+      "UsersEstimate": 931
     },
     {
       "ID": "achievement_story_meet_vivar",
@@ -12809,7 +12814,7 @@
       "Name": "General Vivar",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 930
+      "UsersEstimate": 931
     },
     {
       "ID": "achievement_story_meet_zenon",
@@ -12833,7 +12838,7 @@
       "Name": "Second Coming",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 2791
+      "UsersEstimate": 2792
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -12841,7 +12846,7 @@
       "Name": "Back to Ganyma",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 930
+      "UsersEstimate": 931
     },
     {
       "ID": "achievement_story_spare_oberon",
@@ -13105,7 +13110,7 @@
       "Name": "Careful planning",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 2791
+      "UsersEstimate": 2792
     },
     {
       "ID": "achievement_win_run_hard",
@@ -13280,21 +13285,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 9183,
+      "Progressed": 9187,
       "Completed": 2355
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 465249,
+      "Progressed": 465253,
       "Completed": 17
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-08-11T15:01:05.19941+00:00",
-  "LastChanged_Achievements": "2023-08-14T17:05:45.6158599+00:00",
+  "LastChanged_Achievements": "2023-08-14T18:06:15.4467242+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:04.9098517+00:00",
-  "LastUpdate_Ratings": "2023-08-14T17:00:54.8497356+00:00",
-  "LastUpdate_Achievements": "2023-08-14T17:05:45.6160933+00:00"
+  "LastUpdate_Ratings": "2023-08-14T18:01:12.4599201+00:00",
+  "LastUpdate_Achievements": "2023-08-14T18:06:15.4468792+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -6825,9 +6825,9 @@
       "Count": 908
     }
   ],
-  "EOS_Progressed": 114519,
+  "EOS_Progressed": 114520,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 670,
+  "EOS_NewPlayers": 666,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18050,6 +18050,11 @@
       "Time": "2023-08-14T17:03:10.9718522+00:00",
       "NumProgressed": 114519,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-14T18:03:30.1610113+00:00",
+      "NumProgressed": 114520,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 65,
@@ -18061,7 +18066,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 80163
+      "UsersEstimate": 80164
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -18101,7 +18106,7 @@
       "Name": "Unleash Hell",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 77873
+      "UsersEstimate": 77874
     },
     {
       "ID": "altar_of_hope_unlock_hero_jester",
@@ -18133,7 +18138,7 @@
       "Name": "Boxcar Kid",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 68711
+      "UsersEstimate": 68712
     },
     {
       "ID": "altar_of_hope_unlock_hero_vestal",
@@ -18141,7 +18146,7 @@
       "Name": "Unfulfilled Desires",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 77873
+      "UsersEstimate": 77874
     },
     {
       "ID": "altar_of_hope_upgrade_total_full",
@@ -18157,7 +18162,7 @@
       "Name": "This Looks Familiar",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 43517
+      "UsersEstimate": 43518
     },
     {
       "ID": "altar_of_hope_upgrade_total_quarter",
@@ -18213,7 +18218,7 @@
       "Name": "Not Today!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 14887
+      "UsersEstimate": 14888
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -18221,7 +18226,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 37791
+      "UsersEstimate": 37792
     },
     {
       "ID": "combat_kill_fanatics",
@@ -18357,7 +18362,7 @@
       "Name": "Rush Hour",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 68711
+      "UsersEstimate": 68712
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -18381,7 +18386,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 68711
+      "UsersEstimate": 68712
     },
     {
       "ID": "driving_distance_easy",
@@ -18389,7 +18394,7 @@
       "Name": "Ramble On",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 54969
+      "UsersEstimate": 54970
     },
     {
       "ID": "driving_distance_hard",
@@ -18429,7 +18434,7 @@
       "Name": "A Clear Conscience",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 79018
+      "UsersEstimate": 79019
     },
     {
       "ID": "hoarder_buy_epic_trinket",
@@ -18453,7 +18458,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 106503
+      "UsersEstimate": 106504
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -18580,15 +18585,15 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 114519,
+      "Progressed": 114520,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-08-14T17:02:06.6233026+00:00",
-  "LastChanged_Achievements": "2023-08-14T17:03:10.9718516+00:00",
+  "LastChanged_Achievements": "2023-08-14T18:03:30.1610108+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:59.9837594+00:00",
-  "LastUpdate_Ratings": "2023-08-14T17:02:06.6233035+00:00",
-  "LastUpdate_Achievements": "2023-08-14T17:03:10.9720069+00:00"
+  "LastUpdate_Ratings": "2023-08-14T18:03:06.0735179+00:00",
+  "LastUpdate_Achievements": "2023-08-14T18:03:30.161134+00:00"
 }

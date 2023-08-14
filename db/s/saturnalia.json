@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 235,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -240,9 +240,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 65515,
+  "EOS_Progressed": 65518,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 249,
+  "EOS_NewPlayers": 251,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -7725,6 +7725,11 @@
       "Time": "2023-08-14T17:06:41.7817014+00:00",
       "NumProgressed": 65515,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-08-14T18:07:09.5300982+00:00",
+      "NumProgressed": 65518,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 20,
@@ -7744,7 +7749,7 @@
       "Name": "Bonfire Lit",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 1965
+      "UsersEstimate": 1966
     },
     {
       "ID": "ACH_CHURCHCANDLES",
@@ -7888,14 +7893,14 @@
       "Name": "Survival Expert",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 1965
+      "UsersEstimate": 1966
     }
   ],
   "AchievementSets": [
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 65515,
+      "Progressed": 65518,
       "Completed": 13
     }
   ],
@@ -7903,8 +7908,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-05-14T20:57:12.1011944+00:00",
-  "LastChanged_Achievements": "2023-08-14T17:06:41.7817007+00:00",
+  "LastChanged_Achievements": "2023-08-14T18:07:09.5300977+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:21.0259321+00:00",
-  "LastUpdate_Ratings": "2023-08-14T16:58:56.3521946+00:00",
-  "LastUpdate_Achievements": "2023-08-14T17:06:41.7817533+00:00"
+  "LastUpdate_Ratings": "2023-08-14T17:59:11.5167332+00:00",
+  "LastUpdate_Achievements": "2023-08-14T18:07:09.5301529+00:00"
 }

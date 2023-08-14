@@ -6,28 +6,28 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~367,509 |
-| Now You're Talking | 62.00% | ~325,508 |
-| Steel Yourself | 62.00% | ~325,508 |
-| Window Dressing | 50.00% | ~262,506 |
-| Trigger Happy | 46.00% | ~241,506 |
-| Riverborn | 45.00% | ~236,256 |
-| Starry Eyed | 34.00% | ~178,504 |
-| Poking Around | 34.00% | ~178,504 |
-| Talk of the Town | 24.00% | ~126,003 |
-| AAARR! | 23.00% | ~120,753 |
-| Hello Darkness | 23.00% | ~120,753 |
-| Wind At Our Backs | 22.00% | ~115,503 |
+| First Step | 70.00% | ~367,511 |
+| Now You're Talking | 62.00% | ~325,510 |
+| Steel Yourself | 62.00% | ~325,510 |
+| Window Dressing | 50.00% | ~262,508 |
+| Trigger Happy | 46.00% | ~241,507 |
+| Riverborn | 45.00% | ~236,257 |
+| Starry Eyed | 34.00% | ~178,505 |
+| Poking Around | 34.00% | ~178,505 |
+| Talk of the Town | 24.00% | ~126,004 |
+| AAARR! | 23.00% | ~120,754 |
+| Hello Darkness | 23.00% | ~120,754 |
+| Wind At Our Backs | 22.00% | ~115,504 |
 | To the Beat | 20.00% | ~105,003 |
-| Sunny Shores | 17.00% | ~89,252 |
-| Sunday Best | 16.00% | ~84,002 |
+| Sunny Shores | 17.00% | ~89,253 |
+| Sunday Best | 16.00% | ~84,003 |
 | To Victory! | 15.00% | ~78,752 |
 | Two of a Kind | 14.00% | ~73,502 |
 | Keep On Trucking | 13.00% | ~68,252 |
-| Going on an Adventure | 11.00% | ~57,751 |
-| Make Peace, Not War | 11.00% | ~57,751 |
-| Walking The Line | 10.00% | ~52,501 |
-| Not So Cute Anymore | 10.00% | ~52,501 |
+| Going on an Adventure | 11.00% | ~57,752 |
+| Make Peace, Not War | 11.00% | ~57,752 |
+| Walking The Line | 10.00% | ~52,502 |
+| Not So Cute Anymore | 10.00% | ~52,502 |
 | Road Less Travelled | 9.00% | ~47,251 |
 | Lost and Found | 9.00% | ~47,251 |
 | Under the Radar | 8.00% | ~42,001 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,575 |
 | Point Taken | 0.10% | ~525 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 525,013 (Ranked 31)  
+Progressed: 525,016 (Ranked 31)  
 Completed: 459 (0.09%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 459 (0.09%) (Ranked 207)
 | 2023-08-11 | 524,773 | 457 |
 | 2023-08-12 | 524,862 | 457 |
 | 2023-08-13 | 524,963 | 459 |
-| 2023-08-14 | 525,013 | 459 |
+| 2023-08-14 | 525,016 | 459 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

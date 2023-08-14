@@ -26,12 +26,12 @@ Rating: 4.47 (Ranked 606)
 | Living Nightmare | 32.00% | ~1,009 |
 | The More The Merrier | 32.00% | ~1,009 |
 | The Darwin Era Was Here | 28.00% | ~883 |
-| Deep Into Insanity | 26.00% | ~820 |
+| Deep Into Insanity | 27.00% | ~851 |
 | The Passenger | 26.00% | ~820 |
 | Come on, You Wanna Live Forever? | 25.00% | ~788 |
+| El Riesgo Siempre Vive | 23.00% | ~725 |
 | The Spire | 23.00% | ~725 |
 | Stuff Of Nightmares | 22.00% | ~694 |
-| El Riesgo Siempre Vive | 22.00% | ~694 |
 | Excavating The Truth | 20.00% | ~631 |
 | One For Every Occasion | 19.00% | ~599 |
 | Frontliner | 19.00% | ~599 |

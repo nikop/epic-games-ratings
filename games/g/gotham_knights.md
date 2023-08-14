@@ -5,7 +5,7 @@ Rating: 4.18 (Ranked 868)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 7.00% | ~4,748 |
+| First Step Into the Knight | 7.00% | ~4,749 |
 | Har, Har, Har, Very Funny | 5.00% | ~3,392 |
 | Loose Ends | 5.00% | ~3,392 |
 | To the Victor Go the Spoils | 4.00% | ~2,713 |
@@ -42,7 +42,7 @@ Rating: 4.18 (Ranked 868)
 | Expert Crime Fighter | 1.00% | ~678 |
 | Family Meeting | 1.00% | ~678 |
 | A Worthy Successor | 1.00% | ~678 |
-| Dressed to Impress | 0.90% | ~610 |
+| Dressed to Impress | 0.90% | ~611 |
 | A Momentum Occasion | 0.70% | ~475 |
 | Bat Out of Hell | 0.60% | ~407 |
 | He'd Be So Proud of You | 0.50% | ~339 |
@@ -51,8 +51,8 @@ Rating: 4.18 (Ranked 868)
 | Renewable Enemy Source | 0.30% | ~114 |
 | Crime Is a Terrible Thing to Waste | 0.30% | ~114 |
 | The Cold, the Bad and the Ugly | 0.30% | ~114 |
-| Talonted | 0.30% | ~203 |
-| The Man-Bat Family | 0.30% | ~203 |
+| Talonted | 0.30% | ~204 |
+| The Man-Bat Family | 0.30% | ~204 |
 | Element of Surprise | 0.20% | ~76 |
 | It's Nice to Be Wanted | 0.20% | ~76 |
 | Icebreaker | 0.20% | ~76 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 868)
 | Read Owl About It | 0.10% | ~68 |
 | History Major | 0.10% | ~68 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,833 (Ranked 80)  
+Progressed: 67,837 (Ranked 80)  
 Completed: 107 (0.16%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 107 (0.16%) (Ranked 187)
 | 2023-08-11 | 67,760 | 106 |
 | 2023-08-12 | 67,793 | 106 |
 | 2023-08-13 | 67,820 | 107 |
-| 2023-08-14 | 67,833 | 107 |
+| 2023-08-14 | 67,837 | 107 |
 ## Awards
 Max (Great Boss Battles): 2,491  (Ranked 100)  
 Sum: 4,147 (Ranked 140)  

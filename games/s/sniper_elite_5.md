@@ -6,16 +6,16 @@ Rating: 4.44 (Ranked 644)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Kraken Sleeps | 6.00% | ~208 |
-| Liberté | 5.00% | ~173 |
-| Meeting Resistance | 5.00% | ~173 |
-| Confirming Suspicions | 5.00% | ~173 |
-| Lord of War | 5.00% | ~173 |
-| As Quiet as a Mouse | 5.00% | ~173 |
-| The Kraken Wakes | 5.00% | ~173 |
-| It's Starting to Crack | 5.00% | ~173 |
-| Change the Channel | 5.00% | ~173 |
-| Taking it back | 5.00% | ~173 |
-| Target America | 5.00% | ~173 |
+| Liberté | 5.00% | ~174 |
+| Meeting Resistance | 5.00% | ~174 |
+| Confirming Suspicions | 5.00% | ~174 |
+| Lord of War | 5.00% | ~174 |
+| As Quiet as a Mouse | 5.00% | ~174 |
+| The Kraken Wakes | 5.00% | ~174 |
+| It's Starting to Crack | 5.00% | ~174 |
+| Change the Channel | 5.00% | ~174 |
+| Taking it back | 5.00% | ~174 |
+| Target America | 5.00% | ~174 |
 | Climbing the Ladder | 4.00% | ~139 |
 | Sharpshooter | 4.00% | ~139 |
 | Resourceful | 4.00% | ~139 |
@@ -77,7 +77,7 @@ Rating: 4.44 (Ranked 644)
 | Alpha | 0.10% | ~3 |
 | Das Familienjuwel | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,468 (Ranked 150)  
+Progressed: 3,470 (Ranked 150)  
 Completed: 9 (0.26%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,7 +192,7 @@ Completed: 9 (0.26%) (Ranked 171)
 | 2023-08-11 | 3,455 | 9 |
 | 2023-08-12 | 3,461 | 9 |
 | 2023-08-13 | 3,466 | 9 |
-| 2023-08-14 | 3,468 | 9 |
+| 2023-08-14 | 3,470 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
