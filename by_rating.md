@@ -11,7 +11,7 @@
 | 7 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 0 | 512 |
 | 7 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1,874 | 111 |
 | 7 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.90 | 0 | 512 |
-| 12 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 7,933 | 41 |
+| 12 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 7,941 | 41 |
 | 12 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.89 | 0 | 512 |
 | 12 | [Firework](games/f/firework.md) | 4.89 | 0 | 512 |
 | 12 | [RimWorld](games/r/rimworld.md) | 4.89 | 428 | 207 |
@@ -571,7 +571,7 @@
 | 559 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 627 | 177 |
 | 559 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.50 | 0 | 512 |
 | 559 | [Railway Empire 2](games/r/railway_empire_2.md) | 4.50 | 0 | 512 |
-| 559 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 754 | 160 |
+| 559 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 755 | 160 |
 | 559 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.50 | 0 | 512 |
 | 559 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 0 | 512 |
 | 559 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 36 | 433 |

@@ -19,10 +19,10 @@
 | 17 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 13.94% |
 | 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.07% |
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.27% |
-| 20 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
-| 20 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
-| 20 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 11.11% |
-| 23 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.08% |
+| 20 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.23% |
+| 21 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
+| 21 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
+| 21 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 11.11% |
 | 24 | [Remains](games/r/remains.md) | 10.64% |
 | 25 | [Out of Bounds](games/o/out_of_bounds.md) | 10.34% |
 | 26 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.23% |
@@ -38,7 +38,7 @@
 | 36 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.37% |
 | 37 | [Scorn](games/s/scorn.md) | 6.92% |
 | 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.90% |
-| 39 | [Time Loader](games/t/time_loader.md) | 6.84% |
+| 39 | [Time Loader](games/t/time_loader.md) | 6.78% |
 | 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.44% |
 | 41 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 42 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -115,8 +115,8 @@
 | 112 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.01% |
 | 114 | [Adios](games/a/adios.md) | 1.00% |
 | 115 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.98% |
-| 115 | [Sable](games/s/sable.md) | 0.98% |
-| 117 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.97% |
+| 116 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.97% |
+| 116 | [Sable](games/s/sable.md) | 0.97% |
 | 118 | [Hades](games/h/hades.md) | 0.90% |
 | 119 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 120 | [Dungeons 3](games/d/dungeons_3.md) | 0.81% |

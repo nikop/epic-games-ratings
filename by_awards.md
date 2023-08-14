@@ -40,7 +40,7 @@
 | 38 | [HITMAN World of Assassination](games/h/hitman_3.md) | 9,698 | 4.78 | 100 |
 | 39 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 8,778 | 4.58 | 426 |
 | 40 | [Control](games/c/control.md) | 8,442 | 4.60 | 389 |
-| 41 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 7,933 | 4.89 | 12 |
+| 41 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 7,941 | 4.89 | 12 |
 | 42 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 7,773 | 4.48 | 590 |
 | 43 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,764 | 4.85 | 42 |
 | 44 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,670 | 4.57 | 449 |
@@ -159,7 +159,7 @@
 | 157 | [The Long Dark](games/t/the_long_dark.md) | 790 | 4.74 | 146 |
 | 158 | [Auto Chess](games/a/auto_chess.md) | 772 | 4.52 | 526 |
 | 159 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 764 | 4.51 | 542 |
-| 160 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 754 | 4.50 | 559 |
+| 160 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 755 | 4.50 | 559 |
 | 161 | [Core](games/c/core.md) | 746 | 4.36 | 736 |
 | 162 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 744 | 4.79 | 88 |
 | 162 | [Remnant 2](games/r/remnant_2.md) | 744 | 4.77 | 108 |
