@@ -7,7 +7,7 @@ Rating: 4.60 (Ranked 389)
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 25.00% | ~208 |
 | Rail Rat | 21.00% | ~175 |
-| The Mysterious Stranger | 20.00% | ~166 |
+| The Mysterious Stranger | 20.00% | ~167 |
 | Immaculate Aim | 19.00% | ~158 |
 | The Steel Shadow | 18.00% | ~150 |
 | Make Up For Lost Time | 18.00% | ~150 |
@@ -16,22 +16,22 @@ Rating: 4.60 (Ranked 389)
 | The Prince in Heels | 18.00% | ~150 |
 | Immaculate Aim | 18.00% | ~150 |
 | The Brass Boss | 18.00% | ~150 |
-| The Harder They Fall | 17.00% | ~141 |
-| No, Thanks! | 17.00% | ~141 |
-| The Wicked Twins | 17.00% | ~141 |
-| Honest Mistake | 17.00% | ~141 |
-| Fast Learner | 17.00% | ~141 |
+| The Harder They Fall | 17.00% | ~142 |
+| No, Thanks! | 17.00% | ~142 |
+| The Wicked Twins | 17.00% | ~142 |
+| Honest Mistake | 17.00% | ~142 |
+| Fast Learner | 17.00% | ~142 |
 | Like Clockwork | 16.00% | ~133 |
 | The Betrayer | 16.00% | ~133 |
 | The Loose Cannon | 16.00% | ~133 |
 | Golem Chaser | 16.00% | ~133 |
-| Check Your Pulse | 16.00% | ~133 |
-| The Family Fortune | 16.00% | ~133 |
 | Right On Time | 15.00% | ~125 |
 | The Man Who Shattered Time | 15.00% | ~125 |
-| Treasure Trove | 14.00% | ~116 |
-| Street Style | 14.00% | ~116 |
-| Cartographer | 14.00% | ~116 |
+| Check Your Pulse | 15.00% | ~125 |
+| The Family Fortune | 15.00% | ~125 |
+| Treasure Trove | 14.00% | ~117 |
+| Street Style | 14.00% | ~117 |
+| Cartographer | 14.00% | ~117 |
 | Whiz Kid | 12.00% | ~100 |
 | Good Neighbor | 11.00% | ~92 |
 | Chaincrawler Explorer | 10.00% | ~83 |
@@ -59,7 +59,7 @@ Rating: 4.60 (Ranked 389)
 | Going to Live Forever | 0.60% | ~5 |
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 832 (Ranked 203)  
+Progressed: 833 (Ranked 203)  
 Completed: 5 (0.60%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,6 +138,7 @@ Completed: 5 (0.60%) (Ranked 132)
 | 2023-08-09 | 830 | 5 |
 | 2023-08-11 | 831 | 5 |
 | 2023-08-12 | 832 | 5 |
+| 2023-08-14 | 833 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

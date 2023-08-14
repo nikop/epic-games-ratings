@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 12.00% | ~25,438 |
+| Sowwy! | 12.00% | ~25,440 |
 | Alt+F4 | 0.90% | ~1,908 |
 | Where's that freaking Dwarf? | 0.80% | ~1,696 |
 | Déjà vu | 0.70% | ~1,484 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Sleep schedule mastery | 0.00% | ~0 |
 | Dumb and dumber | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 211,987 (Ranked 56)  
+Progressed: 212,003 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 2 (0.00%) (Ranked 255)
 | 2023-08-11 | 210,534 | 1 |
 | 2023-08-12 | 211,199 | 1 |
 | 2023-08-13 | 211,857 | 2 |
-| 2023-08-14 | 211,987 | 2 |
+| 2023-08-14 | 212,003 | 2 |
 ## Awards
 Max (Character Customization): 163  (Ranked 291)  
 Sum: 183 (Ranked 376)  

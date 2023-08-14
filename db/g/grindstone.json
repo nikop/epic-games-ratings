@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 307,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
     "PcReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -829,9 +829,9 @@
       "ID": "ACHIEVE_50_MAGMA",
       "SetID": "b8l3p0g",
       "Name": "Hot Potato",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 515
+      "UsersEstimate": 566
     },
     {
       "ID": "ACHIEVE_50_MUSHROOMS",
@@ -1149,8 +1149,8 @@
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-05-23T15:00:45.785735+00:00",
-  "LastChanged_Achievements": "2023-08-14T08:03:07.916154+00:00",
+  "LastChanged_Achievements": "2023-08-14T09:03:07.626073+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:58:01.848153+00:00",
-  "LastUpdate_Ratings": "2023-08-14T07:57:17.7629122+00:00",
-  "LastUpdate_Achievements": "2023-08-14T08:03:07.9161966+00:00"
+  "LastUpdate_Ratings": "2023-08-14T08:57:19.065831+00:00",
+  "LastUpdate_Achievements": "2023-08-14T09:03:07.6261173+00:00"
 }

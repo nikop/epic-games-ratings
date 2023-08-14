@@ -6,9 +6,9 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 68.00% | ~592,141 |
-| Right Back At Ya | 39.00% | ~339,610 |
-| The Lovers | 35.00% | ~304,778 |
+| The Fool | 68.00% | ~592,142 |
+| Right Back At Ya | 39.00% | ~339,611 |
+| The Lovers | 35.00% | ~304,779 |
 | Stanislavski's Method | 29.00% | ~252,531 |
 | The Wheel of Fortune | 27.00% | ~235,115 |
 | The Hermit | 25.00% | ~217,699 |
@@ -19,14 +19,14 @@ Number of Ratings: 32,700  (23.09.2022)
 | Life of the Road | 21.00% | ~182,867 |
 | Full Body Conversion | 18.00% | ~156,743 |
 | The World | 18.00% | ~156,743 |
-| Bushido and Chill | 16.00% | ~139,327 |
-| Gun Fu | 15.00% | ~130,619 |
-| True Warrior | 15.00% | ~130,619 |
-| I Am The Law | 14.00% | ~121,911 |
-| Judy vs Night City | 14.00% | ~121,911 |
-| To Protect and Serve | 13.00% | ~113,203 |
-| Master Crafter | 13.00% | ~113,203 |
-| Two Heads, One Bullet | 12.00% | ~104,495 |
+| Bushido and Chill | 16.00% | ~139,328 |
+| Gun Fu | 15.00% | ~130,620 |
+| True Warrior | 15.00% | ~130,620 |
+| I Am The Law | 14.00% | ~121,912 |
+| Judy vs Night City | 14.00% | ~121,912 |
+| To Protect and Serve | 13.00% | ~113,204 |
+| Master Crafter | 13.00% | ~113,204 |
+| Two Heads, One Bullet | 12.00% | ~104,496 |
 | The Quick and the Dead | 10.00% | ~87,080 |
 | The Wandering Fool | 9.00% | ~78,372 |
 | Ten out of Ten | 9.00% | ~78,372 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~8,708 |
 | Rough Landing | 0.50% | ~4,354 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 870,795 (Ranked 14)  
+Progressed: 870,797 (Ranked 14)  
 Completed: 1,963 (0.23%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,7 +167,7 @@ Completed: 1,963 (0.23%) (Ranked 176)
 | 2023-08-11 | 870,387 | 1,958 |
 | 2023-08-12 | 870,573 | 1,961 |
 | 2023-08-13 | 870,756 | 1,962 |
-| 2023-08-14 | 870,795 | 1,963 |
+| 2023-08-14 | 870,797 | 1,963 |
 ## Awards
 Max (Character Customization): 75,493  (Ranked 9)  
 Sum: 199,356 (Ranked 13)  

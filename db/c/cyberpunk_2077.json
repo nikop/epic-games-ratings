@@ -10373,9 +10373,9 @@
       "Count": 5574
     }
   ],
-  "EOS_Progressed": 870795,
+  "EOS_Progressed": 870797,
   "EOS_Completed": 1963,
-  "EOS_NewPlayers": 1119,
+  "EOS_NewPlayers": 1118,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -23093,6 +23093,11 @@
       "Time": "2023-08-14T08:05:08.8621551+00:00",
       "NumProgressed": 870795,
       "NumCompleted": 1963
+    },
+    {
+      "Time": "2023-08-14T09:06:12.3059642+00:00",
+      "NumProgressed": 870797,
+      "NumCompleted": 1963
     }
   ],
   "TotalAchievements": 44,
@@ -23120,7 +23125,7 @@
       "Name": "Bushido and Chill",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 139327
+      "UsersEstimate": 139328
     },
     {
       "ID": "Cyberjunkie",
@@ -23136,7 +23141,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 339610
+      "UsersEstimate": 339611
     },
     {
       "ID": "FollowingTheRiver",
@@ -23144,7 +23149,7 @@
       "Name": "To Protect and Serve",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 113203
+      "UsersEstimate": 113204
     },
     {
       "ID": "Fortuneteller",
@@ -23176,7 +23181,7 @@
       "Name": "Gun Fu",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 130619
+      "UsersEstimate": 130620
     },
     {
       "ID": "Gunslinger",
@@ -23192,7 +23197,7 @@
       "Name": "Master Crafter",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 113203
+      "UsersEstimate": 113204
     },
     {
       "ID": "IAmMaxTac",
@@ -23200,7 +23205,7 @@
       "Name": "I Am The Law",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 121911
+      "UsersEstimate": 121912
     },
     {
       "ID": "LikeFatherLikeSon",
@@ -23320,7 +23325,7 @@
       "Name": "The Fool",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 592141
+      "UsersEstimate": 592142
     },
     {
       "ID": "TheHermit",
@@ -23344,7 +23349,7 @@
       "Name": "The Lovers",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 304778
+      "UsersEstimate": 304779
     },
     {
       "ID": "TheStar",
@@ -23408,7 +23413,7 @@
       "Name": "True Warrior",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 130619
+      "UsersEstimate": 130620
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -23416,7 +23421,7 @@
       "Name": "Two Heads, One Bullet",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 104495
+      "UsersEstimate": 104496
     },
     {
       "ID": "UnderPressure",
@@ -23424,7 +23429,7 @@
       "Name": "Judy vs Night City",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 121911
+      "UsersEstimate": 121912
     },
     {
       "ID": "VForVendetta",
@@ -23455,15 +23460,15 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 870795,
+      "Progressed": 870797,
       "Completed": 1963
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-08-14T07:59:07.0272172+00:00",
-  "LastChanged_Achievements": "2023-08-14T08:05:08.8621545+00:00",
+  "LastChanged_Achievements": "2023-08-14T09:06:12.3059638+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:39.9582585+00:00",
-  "LastUpdate_Ratings": "2023-08-14T07:59:07.0272178+00:00",
-  "LastUpdate_Achievements": "2023-08-14T08:05:08.8622628+00:00"
+  "LastUpdate_Ratings": "2023-08-14T09:00:02.0996656+00:00",
+  "LastUpdate_Achievements": "2023-08-14T09:06:12.3060889+00:00"
 }

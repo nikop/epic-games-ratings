@@ -4,8 +4,8 @@
   "ProductSlug": "silence-57bc4e",
   "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2016-11-15T17:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 104,
+  "EOS_Progressed": 105,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -112,6 +112,11 @@
       "Time": "2023-08-13T16:05:53.3421149+00:00",
       "NumProgressed": 104,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-14T09:07:07.8825362+00:00",
+      "NumProgressed": 105,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 46,
@@ -129,7 +134,7 @@
       "ID": "0000_achv_failbalance",
       "SetID": "dhn82m5",
       "Name": "Artistic fool",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 40,
       "UsersEstimate": 35
     },
@@ -153,9 +158,9 @@
       "ID": "0000_achv_gameovertwice",
       "SetID": "dhn82m5",
       "Name": "To err is human...",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 10
     },
     {
       "ID": "0000_achv_kickEverything",
@@ -225,7 +230,7 @@
       "ID": "0000_achv_unstoppable",
       "SetID": "dhn82m5",
       "Name": "Nothing can stop me",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 40,
       "UsersEstimate": 12
     },
@@ -249,7 +254,7 @@
       "ID": "1004_achv_wormtooth",
       "SetID": "dhn82m5",
       "Name": "Open up wide",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 10,
       "UsersEstimate": 32
     },
@@ -267,15 +272,15 @@
       "Name": "Demolition expert",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "1006_achv_dropball",
       "SetID": "dhn82m5",
       "Name": "Fire in the... nevermind",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "1006_achv_fixbomb",
@@ -297,7 +302,7 @@
       "ID": "2001_achv_shrooms",
       "SetID": "dhn82m5",
       "Name": "Keep away from children",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 35
     },
@@ -329,7 +334,7 @@
       "ID": "2004_achv_abyss",
       "SetID": "dhn82m5",
       "Name": "Wooooooow!",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 10,
       "UsersEstimate": 37
     },
@@ -347,7 +352,7 @@
       "Name": "Chapter II",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "2008_achv_bubble",
@@ -433,7 +438,7 @@
       "ID": "3011_achv_magicbox",
       "SetID": "dhn82m5",
       "Name": "Mumbo Jumbo",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
       "UsersEstimate": 12
     },
@@ -490,7 +495,7 @@
     {
       "ID": "dhn82m5",
       "IsBase": true,
-      "Progressed": 104,
+      "Progressed": 105,
       "Completed": 0
     }
   ],
@@ -498,8 +503,8 @@
   "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.5644296+00:00",
   "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
-  "LastChanged_Achievements": "2023-08-14T08:05:47.3134446+00:00",
+  "LastChanged_Achievements": "2023-08-14T09:07:07.8825357+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:10.3291859+00:00",
-  "LastUpdate_Ratings": "2023-08-14T08:00:15.5393683+00:00",
-  "LastUpdate_Achievements": "2023-08-14T08:05:47.3134842+00:00"
+  "LastUpdate_Ratings": "2023-08-14T09:01:48.2973815+00:00",
+  "LastUpdate_Achievements": "2023-08-14T09:07:07.8825712+00:00"
 }

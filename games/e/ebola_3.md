@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fright ✔ | 57.00% | ~128 |
+| Fright ✔ | 58.00% | ~131 |
 | Chest ✔ | 55.00% | ~124 |
 | Inventory ✔ | 54.00% | ~122 |
 | Police officers ✔ | 28.00% | ~63 |
@@ -42,11 +42,11 @@
 | Mutant run ✔ | 3.00% | ~7 |
 | Osipov's video message ✔ | 3.00% | ~7 |
 | Boss 3 ✔ | 3.00% | ~7 |
-| Car ✔ | 2.00% | ~4 |
-| Seeker One ✔ | 2.00% | ~4 |
-| Seeker Three ✔ | 2.00% | ~4 |
-| The escape ✔ | 2.00% | ~4 |
-| Rank B+ ✔ | 2.00% | ~4 |
+| Car ✔ | 2.00% | ~5 |
+| Seeker One ✔ | 2.00% | ~5 |
+| Seeker Three ✔ | 2.00% | ~5 |
+| The escape ✔ | 2.00% | ~5 |
+| Rank B+ ✔ | 2.00% | ~5 |
 | Crocodile Escape ✔ | 1.00% | ~2 |
 | VIP ✔ | 1.00% | ~2 |
 | Exterminate pests ✔ | 0.90% | ~2 |
@@ -55,7 +55,7 @@
 | Seeker Two ✔ | 0.40% | ~1 |
 | Rank A+ ✔ | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225 (Ranked 280)  
+Progressed: 226 (Ranked 280)  
 Completed: 0 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,7 +118,7 @@ Completed: 0 (0.00%) (Ranked 255)
 | 2023-08-02 | 221 | 0 |
 | 2023-08-03 | 223 | 0 |
 | 2023-08-04 | 224 | 0 |
-| 2023-08-14 | 225 | 0 |
+| 2023-08-14 | 226 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~35 |
 | Ten Years at Zee | 0.10% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 35,471 (Ranked 95)  
+Progressed: 35,473 (Ranked 95)  
 Completed: 3 (0.01%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,7 +177,7 @@ Completed: 3 (0.01%) (Ranked 242)
 | 2023-08-11 | 35,325 | 3 |
 | 2023-08-12 | 35,394 | 3 |
 | 2023-08-13 | 35,457 | 3 |
-| 2023-08-14 | 35,471 | 3 |
+| 2023-08-14 | 35,473 | 3 |
 ## Awards
 Max (Character Customization): 213  (Ranked 269)  
 Sum: 283 (Ranked 342)  

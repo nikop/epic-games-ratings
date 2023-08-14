@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 146,
-  "Ranking_EOS_NewPlayers": 240,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
     "PcReleaseDate": "2015-09-16T00:00:00+00:00",
@@ -1102,9 +1102,9 @@
       "ID": "30_completelynuts",
       "SetID": "chb1m60",
       "Name": "Completely nuts!",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 165
+      "UsersEstimate": 170
     },
     {
       "ID": "31_chancellor",
@@ -1190,8 +1190,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-08-05T18:00:22.7295334+00:00",
-  "LastChanged_Achievements": "2023-08-14T08:05:18.0913093+00:00",
+  "LastChanged_Achievements": "2023-08-14T09:06:26.4207968+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:20.9918701+00:00",
-  "LastUpdate_Ratings": "2023-08-14T07:58:51.0357357+00:00",
-  "LastUpdate_Achievements": "2023-08-14T08:05:18.0913437+00:00"
+  "LastUpdate_Ratings": "2023-08-14T08:59:39.0985394+00:00",
+  "LastUpdate_Achievements": "2023-08-14T09:06:26.4208259+00:00"
 }

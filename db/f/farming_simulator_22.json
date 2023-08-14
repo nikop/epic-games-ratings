@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -7869,9 +7869,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 47134,
+  "EOS_Progressed": 47135,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 385,
+  "EOS_NewPlayers": 384,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18174,6 +18174,11 @@
       "Time": "2023-08-14T07:03:35.7084757+00:00",
       "NumProgressed": 47134,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-08-14T09:03:27.0166758+00:00",
+      "NumProgressed": 47135,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -18273,7 +18278,7 @@
       "Name": "You wood not believe it",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 10369
+      "UsersEstimate": 10370
     },
     {
       "ID": "CutTreeFirst",
@@ -18313,7 +18318,7 @@
       "Name": "The plot thickens",
       "Percentage": 16,
       "XP": 55,
-      "UsersEstimate": 7541
+      "UsersEstimate": 7542
     },
     {
       "ID": "FertilizeFirst",
@@ -18321,7 +18326,7 @@
       "Name": "Plant get enough",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 28280
+      "UsersEstimate": 28281
     },
     {
       "ID": "Harvested",
@@ -18337,7 +18342,7 @@
       "Name": "Own use",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 35350
+      "UsersEstimate": 35351
     },
     {
       "ID": "HorseJumps",
@@ -18361,7 +18366,7 @@
       "Name": "Giddy-up!",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 4713
+      "UsersEstimate": 4714
     },
     {
       "ID": "LoadedOldSavegame",
@@ -18393,7 +18398,7 @@
       "Name": "Hard work pays off",
       "Percentage": 53,
       "XP": 55,
-      "UsersEstimate": 24981
+      "UsersEstimate": 24982
     },
     {
       "ID": "NumBeehives",
@@ -18425,7 +18430,7 @@
       "Name": "Well-Oiled Machine",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 7541
+      "UsersEstimate": 7542
     },
     {
       "ID": "NumVehiclesLarge",
@@ -18433,7 +18438,7 @@
       "Name": "Vehicle fleet",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 10369
+      "UsersEstimate": 10370
     },
     {
       "ID": "NumVehiclesSmall",
@@ -18457,7 +18462,7 @@
       "Name": "It\u0027s just the beginning",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 27809
+      "UsersEstimate": 27810
     },
     {
       "ID": "Sow",
@@ -18473,7 +18478,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 29694
+      "UsersEstimate": 29695
     },
     {
       "ID": "Stones",
@@ -18497,7 +18502,7 @@
       "Name": "Long haul",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 7541
+      "UsersEstimate": 7542
     },
     {
       "ID": "VehicleRepaint",
@@ -18513,7 +18518,7 @@
       "Name": "Fix me up",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 6127
+      "UsersEstimate": 6128
     },
     {
       "ID": "WrappedBales",
@@ -18528,15 +18533,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 47134,
+      "Progressed": 47135,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-08-14T08:00:30.8177465+00:00",
-  "LastChanged_Achievements": "2023-08-14T08:03:21.4599369+00:00",
+  "LastChanged_Achievements": "2023-08-14T09:03:27.0166713+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:39.4140562+00:00",
-  "LastUpdate_Ratings": "2023-08-14T08:00:30.8177472+00:00",
-  "LastUpdate_Achievements": "2023-08-14T08:03:21.4600388+00:00"
+  "LastUpdate_Ratings": "2023-08-14T09:02:11.6183839+00:00",
+  "LastUpdate_Achievements": "2023-08-14T09:03:27.0169268+00:00"
 }

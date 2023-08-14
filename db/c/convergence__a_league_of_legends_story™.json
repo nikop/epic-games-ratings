@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 240,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 832,
+  "EOS_Progressed": 833,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -1985,6 +1985,11 @@
       "Time": "2023-08-12T22:06:40.036446+00:00",
       "NumProgressed": 832,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-14T09:06:29.4413495+00:00",
+      "NumProgressed": 833,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -2020,7 +2025,7 @@
       "Name": "Treasure Trove",
       "Percentage": 14,
       "XP": 75,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "ChronobreakMultiKill1",
@@ -2068,7 +2073,7 @@
       "Name": "Street Style",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "CultivairChests1",
@@ -2116,7 +2121,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -2196,7 +2201,7 @@
       "Name": "Cartographer",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "NoCritterSump",
@@ -2244,7 +2249,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ParryRepeated1",
@@ -2252,7 +2257,7 @@
       "Name": "No, Thanks!",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "PhaseDiveCounter",
@@ -2268,7 +2273,7 @@
       "Name": "The Wicked Twins",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "PidgeDefeated",
@@ -2292,7 +2297,7 @@
       "Name": "Honest Mistake",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ScrambotCompletion1",
@@ -2324,7 +2329,7 @@
       "Name": "Fast Learner",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "SpeedRun",
@@ -2354,9 +2359,9 @@
       "ID": "TemporalPulseKills1",
       "SetID": "a9e499d",
       "Name": "Check Your Pulse",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 125
     },
     {
       "ID": "TheaterChests1",
@@ -2410,16 +2415,16 @@
       "ID": "Zarkon2Defeated",
       "SetID": "a9e499d",
       "Name": "The Family Fortune",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 125
     }
   ],
   "AchievementSets": [
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 832,
+      "Progressed": 833,
       "Completed": 5
     }
   ],
@@ -2427,8 +2432,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-08-14T08:05:20.1534182+00:00",
+  "LastChanged_Achievements": "2023-08-14T09:06:29.4413486+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:10.6633578+00:00",
-  "LastUpdate_Ratings": "2023-08-14T08:00:15.6590798+00:00",
-  "LastUpdate_Achievements": "2023-08-14T08:05:20.1534762+00:00"
+  "LastUpdate_Ratings": "2023-08-14T09:01:48.4839989+00:00",
+  "LastUpdate_Achievements": "2023-08-14T09:06:29.4414628+00:00"
 }

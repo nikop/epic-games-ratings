@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 231,
   "Ranking_EOS_NewPlayers": 43,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 102675,
+  "EOS_Progressed": 102678,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 1432,
+  "EOS_NewPlayers": 1431,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -7067,6 +7067,11 @@
       "Time": "2023-08-14T08:06:07.7568736+00:00",
       "NumProgressed": 102675,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-08-14T09:07:37.074512+00:00",
+      "NumProgressed": 102678,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 49,
@@ -7086,7 +7091,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 78033
+      "UsersEstimate": 78035
     },
     {
       "ID": "EAwards_10",
@@ -7102,7 +7107,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 25669
+      "UsersEstimate": 25670
     },
     {
       "ID": "EAwards_12",
@@ -7142,7 +7147,7 @@
       "Name": "PERFECT",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 6160
+      "UsersEstimate": 6161
     },
     {
       "ID": "EAwards_17",
@@ -7150,7 +7155,7 @@
       "Name": "Talented Player",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 35936
+      "UsersEstimate": 35937
     },
     {
       "ID": "EAwards_18",
@@ -7174,7 +7179,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 48257
+      "UsersEstimate": 48259
     },
     {
       "ID": "EAwards_20",
@@ -7190,7 +7195,7 @@
       "Name": "Special Delivery!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 6160
+      "UsersEstimate": 6161
     },
     {
       "ID": "EAwards_22",
@@ -7214,7 +7219,7 @@
       "Name": "Temple Raider",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 6160
+      "UsersEstimate": 6161
     },
     {
       "ID": "EAwards_25",
@@ -7286,7 +7291,7 @@
       "Name": "El T\u00E9cnico T\u00E1ctico",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 6160
+      "UsersEstimate": 6161
     },
     {
       "ID": "EAwards_33",
@@ -7350,7 +7355,7 @@
       "Name": "Severed",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 11294
+      "UsersEstimate": 11295
     },
     {
       "ID": "EAwards_40",
@@ -7446,7 +7451,7 @@
       "Name": "Questionable Plumbing",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 11294
+      "UsersEstimate": 11295
     },
     {
       "ID": "EAwards_8",
@@ -7454,22 +7459,22 @@
       "Name": "Santa Golpiza!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 11294
+      "UsersEstimate": 11295
     },
     {
       "ID": "EAwards_9",
       "SetID": "69kac5j",
       "Name": "Grapple Expert",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 9241
+      "UsersEstimate": 10268
     }
   ],
   "AchievementSets": [
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 102675,
+      "Progressed": 102678,
       "Completed": 35
     }
   ],
@@ -7477,8 +7482,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-08-06T04:57:36.0350486+00:00",
-  "LastChanged_Achievements": "2023-08-14T08:06:07.7568729+00:00",
+  "LastChanged_Achievements": "2023-08-14T09:07:37.0745114+00:00",
   "LastUpdate_AppInfo": "2023-08-10T19:57:06.4379023+00:00",
-  "LastUpdate_Ratings": "2023-08-14T07:58:06.5725377+00:00",
-  "LastUpdate_Achievements": "2023-08-14T08:06:07.7569496+00:00"
+  "LastUpdate_Ratings": "2023-08-14T08:58:35.5314019+00:00",
+  "LastUpdate_Achievements": "2023-08-14T09:07:37.0746064+00:00"
 }

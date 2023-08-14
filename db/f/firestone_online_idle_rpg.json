@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -224,7 +224,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1798,
+  "EOS_Progressed": 1799,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
@@ -4909,6 +4909,11 @@
       "Time": "2023-08-14T01:45:45.0205387+00:00",
       "NumProgressed": 1798,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-14T09:06:11.0427966+00:00",
+      "NumProgressed": 1799,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -5104,7 +5109,7 @@
       "Name": "Fellowship Power",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "fourleafclover",
@@ -5480,7 +5485,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1672
+      "UsersEstimate": 1673
     },
     {
       "ID": "warmachinesarmy",
@@ -5512,14 +5517,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1420
+      "UsersEstimate": 1421
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1798,
+      "Progressed": 1799,
       "Completed": 2
     }
   ],
@@ -5527,8 +5532,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-08-10T20:59:32.9674394+00:00",
-  "LastChanged_Achievements": "2023-08-14T08:05:07.9532566+00:00",
+  "LastChanged_Achievements": "2023-08-14T09:06:11.0427961+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:43.3889946+00:00",
-  "LastUpdate_Ratings": "2023-08-14T07:59:10.071377+00:00",
-  "LastUpdate_Achievements": "2023-08-14T08:05:07.9533601+00:00"
+  "LastUpdate_Ratings": "2023-08-14T09:00:08.357309+00:00",
+  "LastUpdate_Achievements": "2023-08-14T09:06:11.0429613+00:00"
 }

@@ -4,6 +4,9 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Calm before the Storm | 4.00% | ~1 |
+| Tributes of Caladrias | 4.00% | ~1 |
+| Alchemist | 4.00% | ~1 |
+| Stone Collection | 4.00% | ~1 |
 | Break Out | 0.00% | ~0 |
 | Find Allies | 0.00% | ~0 |
 | Powerful Allies | 0.00% | ~0 |
@@ -17,7 +20,6 @@
 | Shardbearer | 0.00% | ~0 |
 | Adventurer | 0.00% | ~0 |
 | Airborne | 0.00% | ~0 |
-| Tributes of Caladrias | 0.00% | ~0 |
 | Essence Blow | 0.00% | ~0 |
 | Shatterer | 0.00% | ~0 |
 | Shatter Them All | 0.00% | ~0 |
@@ -32,15 +34,13 @@
 | False God | 0.00% | ~0 |
 | I Found It | 0.00% | ~0 |
 | All That Gold | 0.00% | ~0 |
-| Alchemist | 0.00% | ~0 |
-| Stone Collection | 0.00% | ~0 |
 | Miner | 0.00% | ~0 |
 | The Collector | 0.00% | ~0 |
 | Feeling Fancy | 0.00% | ~0 |
 | A Queen's Tale | 0.00% | ~0 |
 | Summiter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23 (Ranked 401)  
+Progressed: 23 (Ranked 402)  
 Completed: 1 (4.35%) (Ranked 55)  
 ## EOS Players History
 | Date | Progressed | Completed |

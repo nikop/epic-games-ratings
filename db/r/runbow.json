@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 248029,
+  "EOS_Progressed": 248030,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 300,
+  "EOS_NewPlayers": 301,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11179,6 +11179,11 @@
       "Time": "2023-08-14T08:04:18.1821759+00:00",
       "NumProgressed": 248029,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-14T09:04:58.9655368+00:00",
+      "NumProgressed": 248030,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 46,
@@ -11366,7 +11371,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 131455
+      "UsersEstimate": 131456
     },
     {
       "ID": "indegestible",
@@ -11430,7 +11435,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 124014
+      "UsersEstimate": 124015
     },
     {
       "ID": "notScared",
@@ -11494,7 +11499,7 @@
       "Name": "The Stunner",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 54566
+      "UsersEstimate": 54567
     },
     {
       "ID": "thunderstruck",
@@ -11557,7 +11562,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 248029,
+      "Progressed": 248030,
       "Completed": 3
     }
   ],
@@ -11565,8 +11570,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-08-14T08:04:18.1821754+00:00",
+  "LastChanged_Achievements": "2023-08-14T09:04:58.9655362+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:58.6114529+00:00",
-  "LastUpdate_Ratings": "2023-08-14T08:00:07.8329841+00:00",
-  "LastUpdate_Achievements": "2023-08-14T08:04:18.1822786+00:00"
+  "LastUpdate_Ratings": "2023-08-14T09:01:36.456184+00:00",
+  "LastUpdate_Achievements": "2023-08-14T09:04:58.9656824+00:00"
 }

@@ -1,10 +1,10 @@
 {
   "ID": "7ab6dd1c70a64d5ebf48defa8deb81a8",
   "Name": null,
-  "Ranking_EOS_Progress": 401,
+  "Ranking_EOS_Progress": 402,
   "Ranking_EOS_Completed": 55,
   "Ranking_EOS_NewPlayers": 362,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -225,9 +225,9 @@
       "ID": "ACH_15",
       "SetID": "efe2lj",
       "Name": "Tributes of Caladrias",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_16",
@@ -345,17 +345,17 @@
       "ID": "ACH_30",
       "SetID": "efe2lj",
       "Name": "Alchemist",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_31",
       "SetID": "efe2lj",
       "Name": "Stone Collection",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_33",
@@ -407,7 +407,7 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-08-14T08:05:17.8444028+00:00",
-  "LastUpdate_Ratings": "2023-08-14T07:58:07.542718+00:00",
-  "LastUpdate_Achievements": "2023-08-14T08:05:17.8444314+00:00"
+  "LastChanged_Achievements": "2023-08-14T09:06:25.9748085+00:00",
+  "LastUpdate_Ratings": "2023-08-14T08:58:37.2887463+00:00",
+  "LastUpdate_Achievements": "2023-08-14T09:06:25.974836+00:00"
 }

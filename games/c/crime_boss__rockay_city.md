@@ -5,10 +5,10 @@ Rating: 3.94 (Ranked 940)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~53,134 |
-| First One’s Free | 65.00% | ~46,672 |
+| Downed but Not Outed | 74.00% | ~53,135 |
+| First One’s Free | 65.00% | ~46,673 |
 | Neophyte Ninja | 50.00% | ~35,902 |
-| Too Old for This | 47.00% | ~33,747 |
+| Too Old for This | 47.00% | ~33,748 |
 | Case Closed | 35.00% | ~25,131 |
 | Fancy Pants | 35.00% | ~25,131 |
 | King of the Hill | 34.00% | ~24,413 |
@@ -18,7 +18,7 @@ Rating: 3.94 (Ranked 940)
 | Off the Rocks | 19.00% | ~13,643 |
 | Raider’s Ruin | 17.00% | ~12,207 |
 | Dragonslayer | 17.00% | ~12,207 |
-| Hidden Sonata | 13.00% | ~9,334 |
+| Hidden Sonata | 13.00% | ~9,335 |
 | Rockay Rex | 11.00% | ~7,898 |
 | Freebooter | 10.00% | ~7,180 |
 | Track Star | 9.00% | ~6,462 |
@@ -43,7 +43,7 @@ Rating: 3.94 (Ranked 940)
 | Geek Out | 0.60% | ~431 |
 | Full House | 0.20% | ~144 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 71,803 (Ranked 77)  
+Progressed: 71,804 (Ranked 77)  
 Completed: 38 (0.05%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,10 +159,10 @@ Completed: 38 (0.05%) (Ranked 220)
 | 2023-08-11 | 71,681 | 38 |
 | 2023-08-12 | 71,726 | 38 |
 | 2023-08-13 | 71,794 | 38 |
-| 2023-08-14 | 71,803 | 38 |
+| 2023-08-14 | 71,804 | 38 |
 ## Awards
 Max (Diverse Characters): 399  (Ranked 214)  
-Sum: 1,884 (Ranked 204)  
+Sum: 1,886 (Ranked 204)  
 Diff (max vs sum): 10  
 | Award | Count |
 | ----- | ----- |
@@ -170,7 +170,7 @@ Diff (max vs sum): 10
 | This game has Quickly Understood Controls | 385 |
 | This game is Highly Recommended | 381 |
 | This game has Challenging Combat | 363 |
-| This game has Amazing Characters | 356 |
+| This game has Amazing Characters | 358 |
 | This game is Great for Quick Sessions | 70 |
 | This game has Amazing Storytelling | 52 |
 | This game has a Silly Community | 33 |
@@ -313,4 +313,4 @@ Diff (max vs sum): 10
 | 2023-08-11 | 3.94 | 399 | 1,871 |
 | 2023-08-12 | 3.94 | 399 | 1,875 |
 | 2023-08-13 | 3.94 | 399 | 1,879 |
-| 2023-08-14 | 3.94 | 399 | 1,884 |
+| 2023-08-14 | 3.94 | 399 | 1,886 |

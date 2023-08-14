@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 77,
   "Ranking_EOS_Completed": 220,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -2926,10 +2926,16 @@
       "Rating": 3.94,
       "NumberOfAwards": 1884,
       "NumberOfAwardsMax": 399
+    },
+    {
+      "Time": "2023-08-14T09:02:29.5280169+00:00",
+      "Rating": 3.94,
+      "NumberOfAwards": 1886,
+      "NumberOfAwardsMax": 399
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 1884,
+  "NumberOfAwards": 1886,
   "NumberOfAwardsMax": 399,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -2949,7 +2955,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 356
+      "Count": 358
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2982,7 +2988,7 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 71803,
+  "EOS_Progressed": 71804,
   "EOS_Completed": 38,
   "EOS_NewPlayers": 317,
   "EOS_NewCompleters": 1,
@@ -15102,6 +15108,11 @@
       "Time": "2023-08-14T08:06:11.6293286+00:00",
       "NumProgressed": 71803,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-08-14T09:07:42.8980767+00:00",
+      "NumProgressed": 71804,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 37,
@@ -15137,7 +15148,7 @@
       "Name": "Hidden Sonata",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 9334
+      "UsersEstimate": 9335
     },
     {
       "ID": "ACH_0014",
@@ -15257,7 +15268,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 46672
+      "UsersEstimate": 46673
     },
     {
       "ID": "ACH_0210",
@@ -15265,7 +15276,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 53134
+      "UsersEstimate": 53135
     },
     {
       "ID": "ACH_0211",
@@ -15281,7 +15292,7 @@
       "Name": "Too Old for This",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 33747
+      "UsersEstimate": 33748
     },
     {
       "ID": "ACH_0300",
@@ -15408,22 +15419,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 71803,
+      "Progressed": 71804,
       "Completed": 38
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 150,
-      "Completed": 150
+      "Progressed": 151,
+      "Completed": 151
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-08-14T07:00:36.9743206+00:00",
-  "LastChanged_Achievements": "2023-08-14T08:06:11.6293281+00:00",
+  "LastChanged": "2023-08-14T09:02:29.5280166+00:00",
+  "LastChanged_Achievements": "2023-08-14T09:07:42.8980762+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:57.6056168+00:00",
-  "LastUpdate_Ratings": "2023-08-14T08:00:43.080086+00:00",
-  "LastUpdate_Achievements": "2023-08-14T08:06:11.6294181+00:00"
+  "LastUpdate_Ratings": "2023-08-14T09:02:29.5280175+00:00",
+  "LastUpdate_Achievements": "2023-08-14T09:07:42.8981895+00:00"
 }
