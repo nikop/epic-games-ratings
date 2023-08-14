@@ -13,11 +13,11 @@ Number of Ratings: 12,664  (23.09.2022)
 | Disintermediation | 0.70% | ~942 |
 | It's Free Real Estate | 0.70% | ~942 |
 | Capitalism Ho! | 0.70% | ~942 |
+| Some Assembly Required | 0.60% | ~807 |
 | Another Satisfied Customer | 0.60% | ~807 |
 | Budding Merchant | 0.60% | ~807 |
 | Own the Means of Production | 0.60% | ~807 |
 | One Easy Payment | 0.50% | ~673 |
-| Some Assembly Required | 0.50% | ~673 |
 | Pretty Penny | 0.50% | ~673 |
 | Through Repetition, Perfection | 0.50% | ~673 |
 | The Daily Grind | 0.40% | ~538 |
@@ -25,6 +25,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Demand for Supplies | 0.40% | ~538 |
 | Flooding the Market | 0.40% | ~538 |
 | Where it Hurts | 0.40% | ~538 |
+| Gild-Gotten Goods | 0.40% | ~538 |
 | One-Armed Bandit | 0.40% | ~538 |
 | Dungeon Imports | 0.40% | ~538 |
 | On the Path to Greatness | 0.30% | ~404 |
@@ -37,7 +38,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Efficient Floor Space | 0.30% | ~404 |
 | Flawless Fusion | 0.30% | ~404 |
 | Gem Expert | 0.30% | ~404 |
-| Gild-Gotten Goods | 0.30% | ~404 |
 | Helping Hand | 0.30% | ~404 |
 | Accomplished Merchant | 0.30% | ~404 |
 | Natural 20 | 0.30% | ~404 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Economy of Scarce | 0.10% | ~135 |
 | King's Blade | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,528 (Ranked 66)  
+Progressed: 134,529 (Ranked 66)  
 Completed: 132 (0.10%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,7 +235,7 @@ Completed: 132 (0.10%) (Ranked 203)
 | 2023-08-11 | 134,354 | 132 |
 | 2023-08-12 | 134,413 | 132 |
 | 2023-08-13 | 134,471 | 132 |
-| 2023-08-14 | 134,528 | 132 |
+| 2023-08-14 | 134,529 | 132 |
 ## Awards
 Max (Great for Beginners): 4,700  (Ranked 71)  
 Sum: 27,095 (Ranked 47)  

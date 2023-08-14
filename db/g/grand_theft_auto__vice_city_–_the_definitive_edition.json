@@ -6,9 +6,9 @@
   "Ranking_Popularity": 381,
   "Ranking_PopularitySum": 439,
   "Ranking_EOS_Progress": 123,
-  "Ranking_EOS_Completed": 143,
+  "Ranking_EOS_Completed": 142,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -587,10 +587,10 @@
     }
   ],
   "EOS_Progressed": 9673,
-  "EOS_Completed": 47,
-  "EOS_NewPlayers": 64,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 0.49,
+  "EOS_Completed": 48,
+  "EOS_NewPlayers": 62,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:02.1062688+00:00",
@@ -8361,6 +8361,11 @@
       "Time": "2023-08-14T21:05:26.0948041+00:00",
       "NumProgressed": 9673,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-08-14T22:06:25.6360657+00:00",
+      "NumProgressed": 9673,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 34,
@@ -8626,9 +8631,9 @@
       "ID": "ACH33",
       "SetID": "9llo822",
       "Name": "Done it All",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 77
+      "UsersEstimate": 87
     },
     {
       "ID": "ACH34",
@@ -8644,15 +8649,15 @@
       "ID": "9llo822",
       "IsBase": true,
       "Progressed": 9673,
-      "Completed": 47
+      "Completed": 48
     }
   ],
   "FirstSeen": "2023-02-15T20:57:01.8191045+00:00",
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-08-14T19:00:14.711734+00:00",
-  "LastChanged_Achievements": "2023-08-14T21:05:26.0948037+00:00",
+  "LastChanged_Achievements": "2023-08-14T22:06:25.6360651+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:57.4894701+00:00",
-  "LastUpdate_Ratings": "2023-08-14T20:59:19.8785047+00:00",
-  "LastUpdate_Achievements": "2023-08-14T21:05:26.094909+00:00"
+  "LastUpdate_Ratings": "2023-08-14T22:00:17.3906761+00:00",
+  "LastUpdate_Achievements": "2023-08-14T22:06:25.6362154+00:00"
 }

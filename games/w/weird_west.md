@@ -7,13 +7,13 @@ Number of Ratings: 125  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Unforgiven | 88.00% | ~1,588 |
-| Self-Improvement | 72.00% | ~1,299 |
-| Perky | 66.00% | ~1,191 |
-| Let’s Ride | 60.00% | ~1,082 |
-| Welcome to the Weird West | 57.00% | ~1,028 |
-| Dead or Alive | 56.00% | ~1,010 |
-| Full House | 37.00% | ~667 |
-| Off the Trail | 34.00% | ~613 |
+| Self-Improvement | 72.00% | ~1,300 |
+| Perky | 65.00% | ~1,173 |
+| Let’s Ride | 60.00% | ~1,083 |
+| Welcome to the Weird West | 57.00% | ~1,029 |
+| Dead or Alive | 56.00% | ~1,011 |
+| Full House | 37.00% | ~668 |
+| Off the Trail | 34.00% | ~614 |
 | Justice Served | 29.00% | ~523 |
 | Chain Reaction | 27.00% | ~487 |
 | Dishonored | 25.00% | ~451 |
@@ -28,12 +28,12 @@ Number of Ratings: 125  (23.09.2022)
 | For Balance | 15.00% | ~271 |
 | Dog Days | 13.00% | ~235 |
 | Out on the Ebb Tide | 13.00% | ~235 |
-| Elusive Prey | 12.00% | ~216 |
-| Power Behind the Pulpit | 12.00% | ~216 |
-| Turning the Tables | 12.00% | ~216 |
-| Workers' Rights | 12.00% | ~216 |
-| Something Wicked This Way Comes… | 11.00% | ~198 |
-| There is Hope | 11.00% | ~198 |
+| Elusive Prey | 12.00% | ~217 |
+| Power Behind the Pulpit | 12.00% | ~217 |
+| Turning the Tables | 12.00% | ~217 |
+| Workers' Rights | 12.00% | ~217 |
+| Something Wicked This Way Comes… | 11.00% | ~199 |
+| There is Hope | 11.00% | ~199 |
 | The Philosopher’s Stone | 10.00% | ~180 |
 | Loyalty to the Pack | 9.00% | ~162 |
 | Mystery Machine | 9.00% | ~162 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Revenant | 0.40% | ~7 |
 | Winter Has Come | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,804 (Ranked 171)  
+Progressed: 1,805 (Ranked 171)  
 Completed: 4 (0.22%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,7 +161,7 @@ Completed: 4 (0.22%) (Ranked 178)
 | 2023-08-10 | 1,797 | 4 |
 | 2023-08-12 | 1,798 | 4 |
 | 2023-08-13 | 1,801 | 4 |
-| 2023-08-14 | 1,804 | 4 |
+| 2023-08-14 | 1,805 | 4 |
 ## Awards
 Max (Impact the Story): 24  (Ranked 482)  
 Sum: 24 (Ranked 487)  

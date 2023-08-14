@@ -13,6 +13,7 @@
 | Nuclear Plant Heisted | 0.20% | ~15 |
 | All Objectives Complete | 0.10% | ~8 |
 | All Gold Chest Slots Unlocked | 0.10% | ~8 |
+| Bandit Camp Heisted | 0.10% | ~8 |
 | Bank Objectives Complete | 0.10% | ~8 |
 | Chicken Maxed Out | 0.10% | ~8 |
 | All Weapons Purchased | 0.10% | ~8 |
@@ -25,7 +26,6 @@
 | Got All The Skulls | 0.00% | ~0 |
 | Got All The Sombreros | 0.00% | ~0 |
 | Bandit Camp Objectives Complete | 0.00% | ~0 |
-| Bandit Camp Heisted | 0.00% | ~0 |
 | Military Base Objectives Complete | 0.00% | ~0 |
 | Nuclear Plant Objectives Complete | 0.00% | ~0 |
 | Spaceship Objectives Complete | 0.00% | ~0 |

@@ -4085,9 +4085,9 @@
       "ID": "banditSuccess",
       "SetID": "10d14j0",
       "Name": "Bandit Camp Heisted",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 8
     },
     {
       "ID": "bankAllObjectives",
@@ -4270,8 +4270,8 @@
   "FirstSeenRating": "2023-04-05T14:58:37.7953176+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.1467348+00:00",
   "LastChanged": "2023-04-05T14:58:37.7953178+00:00",
-  "LastChanged_Achievements": "2023-08-14T21:03:22.429633+00:00",
+  "LastChanged_Achievements": "2023-08-14T22:03:27.2306749+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:39.0215084+00:00",
-  "LastUpdate_Ratings": "2023-08-14T20:59:05.11074+00:00",
-  "LastUpdate_Achievements": "2023-08-14T21:03:22.4296838+00:00"
+  "LastUpdate_Ratings": "2023-08-14T21:59:56.1979305+00:00",
+  "LastUpdate_Achievements": "2023-08-14T22:03:27.2307284+00:00"
 }

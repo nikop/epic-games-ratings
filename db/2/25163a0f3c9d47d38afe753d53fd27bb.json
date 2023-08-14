@@ -2240,9 +2240,9 @@
       "ID": "LEVEL_001",
       "SetID": "212bg48",
       "Name": "A fresh start",
-      "Percentage": 96,
+      "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 641
+      "UsersEstimate": 648
     },
     {
       "ID": "LEVEL_002",
@@ -2487,8 +2487,8 @@
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-08-14T21:06:45.0335848+00:00",
+  "LastChanged_Achievements": "2023-08-14T22:08:08.8969544+00:00",
   "LastUpdate_AppInfo": "2023-08-14T18:57:20.2400733+00:00",
-  "LastUpdate_Ratings": "2023-08-14T20:58:20.8658673+00:00",
-  "LastUpdate_Achievements": "2023-08-14T21:06:45.033637+00:00"
+  "LastUpdate_Ratings": "2023-08-14T21:58:56.0371521+00:00",
+  "LastUpdate_Achievements": "2023-08-14T22:08:08.8970032+00:00"
 }

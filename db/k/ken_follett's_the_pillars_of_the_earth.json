@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 122,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -495,9 +495,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 14558,
+  "EOS_Progressed": 14559,
   "EOS_Completed": 109,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -8115,6 +8115,11 @@
       "Time": "2023-08-14T21:04:32.9588185+00:00",
       "NumProgressed": 14558,
       "NumCompleted": 109
+    },
+    {
+      "Time": "2023-08-14T22:05:17.8411673+00:00",
+      "NumProgressed": 14559,
+      "NumCompleted": 109
     }
   ],
   "TotalAchievements": 41,
@@ -8134,7 +8139,7 @@
       "Name": "Rebel without a cause",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "tpote_achievement_11",
@@ -8206,7 +8211,7 @@
       "Name": "Negotiation skills",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2620
+      "UsersEstimate": 2621
     },
     {
       "ID": "tpote_achievement_2",
@@ -8230,7 +8235,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4367
+      "UsersEstimate": 4368
     },
     {
       "ID": "tpote_achievement_22",
@@ -8278,7 +8283,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2620
+      "UsersEstimate": 2621
     },
     {
       "ID": "tpote_achievement_28",
@@ -8318,7 +8323,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2620
+      "UsersEstimate": 2621
     },
     {
       "ID": "tpote_achievement_32",
@@ -8446,22 +8451,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 5095
+      "UsersEstimate": 5096
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 14558,
+      "Progressed": 14559,
       "Completed": 109
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-08-03T13:08:30.3350415+00:00",
-  "LastChanged_Achievements": "2023-08-14T21:04:32.9588177+00:00",
+  "LastChanged_Achievements": "2023-08-14T22:05:17.8411665+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:55.7661895+00:00",
-  "LastUpdate_Ratings": "2023-08-14T20:57:06.9407126+00:00",
-  "LastUpdate_Achievements": "2023-08-14T21:04:32.9589588+00:00"
+  "LastUpdate_Ratings": "2023-08-14T21:57:18.2955404+00:00",
+  "LastUpdate_Achievements": "2023-08-14T22:05:17.8412783+00:00"
 }

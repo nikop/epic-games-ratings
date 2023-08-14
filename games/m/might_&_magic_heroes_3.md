@@ -5,8 +5,8 @@ Rating: 4.79 (Ranked 87)
 Number of Ratings: 165  (23.09.2022)  
 ## Awards
 Max (Extremely Fun): 47  (Ranked 408)  
-Sum: 339 (Ranked 331)  
-Diff (max vs sum): 77  
+Sum: 315 (Ranked 335)  
+Diff (max vs sum): 73  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 137 |
@@ -171,3 +171,4 @@ Diff (max vs sum): 77
 | 2023-08-10 | 4.79 | - | 47 | 335 |
 | 2023-08-11 | 4.79 | - | 47 | 337 |
 | 2023-08-13 | 4.79 | - | 47 | 339 |
+| 2023-08-14 | 4.79 | - | 47 | 315 |
