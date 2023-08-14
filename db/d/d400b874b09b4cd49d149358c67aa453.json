@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 243,
+  "EOS_Progressed": 244,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 1,
@@ -721,6 +721,11 @@
       "Time": "2023-08-14T08:06:08.1001289+00:00",
       "NumProgressed": 243,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-14T17:06:46.5935668+00:00",
+      "NumProgressed": 244,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-04T13:10:46.6045542+00:00",
@@ -765,7 +770,7 @@
       "Name": "Virtual Electrician",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACH_END_ALL_WORKBENCH_MISSIONS",
@@ -779,9 +784,9 @@
       "ID": "ACH_END_FIRST_MAIL_MISSION",
       "SetID": "al4k4nh",
       "Name": "I love customers",
-      "Percentage": 79,
+      "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 190
     },
     {
       "ID": "ACH_END_FIRST_TUTORIAL",
@@ -789,7 +794,7 @@
       "Name": "Ready to go",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "ACH_END_FIRST_WORKBENCH_MISSION",
@@ -811,9 +816,9 @@
       "ID": "ACH_FIRST_SHOCK",
       "SetID": "al4k4nh",
       "Name": "First shock",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 146
+      "UsersEstimate": 144
     },
     {
       "ID": "ACH_FIX_LIGHT_SWITCHES",
@@ -859,9 +864,9 @@
       "ID": "ACH_GO_TO_MISSION_WITHOUT_NEEDED_ITEMS",
       "SetID": "al4k4nh",
       "Name": "I like the risk",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 61
     },
     {
       "ID": "ACH_LISTEN_ALL_MUSIC",
@@ -877,7 +882,7 @@
       "Name": "Home sweet home",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "ACH_PLACE_MANY_ITEMS_IN_OFFICE",
@@ -901,7 +906,7 @@
       "Name": "Unpacked",
       "Percentage": 98,
       "XP": 15,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "ACH_SHOCK_ON_MISSION",
@@ -940,14 +945,14 @@
     {
       "ID": "al4k4nh",
       "IsBase": true,
-      "Progressed": 243,
+      "Progressed": 244,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2023-08-14T16:07:49.5033128+00:00",
+  "LastChanged_Achievements": "2023-08-14T17:06:46.5935661+00:00",
   "LastUpdate_AppInfo": "2023-08-09T17:56:58.4992812+00:00",
-  "LastUpdate_Ratings": "2023-08-14T15:59:03.6455043+00:00",
-  "LastUpdate_Achievements": "2023-08-14T16:07:49.5033518+00:00"
+  "LastUpdate_Ratings": "2023-08-14T16:58:35.00912+00:00",
+  "LastUpdate_Achievements": "2023-08-14T17:06:46.5935922+00:00"
 }

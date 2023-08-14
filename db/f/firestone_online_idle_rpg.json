@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1800,
+  "EOS_Progressed": 1801,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -4919,6 +4919,11 @@
       "Time": "2023-08-14T12:06:10.0579681+00:00",
       "NumProgressed": 1800,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-14T17:05:31.9208359+00:00",
+      "NumProgressed": 1801,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -5168,9 +5173,9 @@
       "ID": "herewegoagain",
       "SetID": "3nl4bcg",
       "Name": "Here We Go Again",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 162
+      "UsersEstimate": 144
     },
     {
       "ID": "heroinspection",
@@ -5288,9 +5293,9 @@
       "ID": "mysteriousrock",
       "SetID": "3nl4bcg",
       "Name": "Mysterious Rock",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 252
+      "UsersEstimate": 234
     },
     {
       "ID": "mythicpower",
@@ -5322,7 +5327,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 954
+      "UsersEstimate": 955
     },
     {
       "ID": "prestigiousx10",
@@ -5386,7 +5391,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 1008
+      "UsersEstimate": 1009
     },
     {
       "ID": "thealchemist",
@@ -5490,7 +5495,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1674
+      "UsersEstimate": 1675
     },
     {
       "ID": "warmachinesarmy",
@@ -5522,14 +5527,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1422
+      "UsersEstimate": 1423
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1800,
+      "Progressed": 1801,
       "Completed": 2
     }
   ],
@@ -5537,8 +5542,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-08-10T20:59:32.9674394+00:00",
-  "LastChanged_Achievements": "2023-08-14T16:06:22.1660163+00:00",
+  "LastChanged_Achievements": "2023-08-14T17:05:31.9208352+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:43.3889946+00:00",
-  "LastUpdate_Ratings": "2023-08-14T16:00:10.5000053+00:00",
-  "LastUpdate_Achievements": "2023-08-14T16:06:22.1661302+00:00"
+  "LastUpdate_Ratings": "2023-08-14T16:59:30.1906531+00:00",
+  "LastUpdate_Achievements": "2023-08-14T17:05:31.9209544+00:00"
 }

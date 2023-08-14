@@ -642,9 +642,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 212171,
+  "EOS_Progressed": 212202,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3863,
+  "EOS_NewPlayers": 3855,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6897,6 +6897,11 @@
       "Time": "2023-08-14T16:05:48.6655688+00:00",
       "NumProgressed": 212171,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-14T17:05:02.8575393+00:00",
+      "NumProgressed": 212202,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -6970,9 +6975,9 @@
       "ID": "Chapter3",
       "SetID": "50chcgj",
       "Name": "The plot thickens... At the tavern",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 637
+      "UsersEstimate": 849
     },
     {
       "ID": "Chapter4",
@@ -7356,7 +7361,7 @@
       "Name": "Sowwy!",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 27582
+      "UsersEstimate": 27586
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -7522,9 +7527,9 @@
       "ID": "QuestPriestess",
       "SetID": "50chcgj",
       "Name": "Lust and Debauchery",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 212
+      "UsersEstimate": 424
     },
     {
       "ID": "RangerEpic",
@@ -7611,21 +7616,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 212171,
+      "Progressed": 212202,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 212171,
+      "Progressed": 212202,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-13T20:01:39.3225851+00:00",
-  "LastChanged_Achievements": "2023-08-14T16:05:48.6655681+00:00",
+  "LastChanged_Achievements": "2023-08-14T17:05:02.8575386+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:49.6773731+00:00",
-  "LastUpdate_Ratings": "2023-08-14T16:01:29.3624429+00:00",
-  "LastUpdate_Achievements": "2023-08-14T16:05:48.665768+00:00"
+  "LastUpdate_Ratings": "2023-08-14T17:00:39.1847988+00:00",
+  "LastUpdate_Achievements": "2023-08-14T17:05:02.8576789+00:00"
 }

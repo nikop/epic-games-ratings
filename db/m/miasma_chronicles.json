@@ -5,9 +5,9 @@
   "Ranking_Rating": 664,
   "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 512,
-  "Ranking_EOS_Progress": 184,
+  "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -190,9 +190,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1365,
+  "EOS_Progressed": 1366,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2820,6 +2820,11 @@
       "Time": "2023-08-14T16:06:54.6625234+00:00",
       "NumProgressed": 1365,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-14T17:05:58.9598508+00:00",
+      "NumProgressed": 1366,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -2879,7 +2884,7 @@
       "Name": "Chain Killer",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "CHAIN_REACTION",
@@ -2903,7 +2908,7 @@
       "Name": "Commando",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "CROAKED",
@@ -2911,7 +2916,7 @@
       "Name": "Croaked",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "CRUELTY",
@@ -2943,7 +2948,7 @@
       "Name": "Limp Richard",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "DIFFERENTLY_ABLED",
@@ -2967,7 +2972,7 @@
       "Name": "Dr Jones",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "EDITOR_ADEPT",
@@ -3007,7 +3012,7 @@
       "Name": "Firestarter",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "FIRST_BLOOD",
@@ -3015,7 +3020,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 1256
+      "UsersEstimate": 1257
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -3047,7 +3052,7 @@
       "Name": "Giant Killer",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     },
     {
       "ID": "GOAL",
@@ -3063,7 +3068,7 @@
       "Name": "Gun for Hire",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 955
+      "UsersEstimate": 956
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -3079,7 +3084,7 @@
       "Name": "I am the law!",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 860
+      "UsersEstimate": 861
     },
     {
       "ID": "INFILTRATOR",
@@ -3087,7 +3092,7 @@
       "Name": "Infiltrator",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "LUMBERJACK",
@@ -3095,7 +3100,7 @@
       "Name": "Lumberjack",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -3111,7 +3116,7 @@
       "Name": "Newtonian Knockout",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "PUSHING_DAISY",
@@ -3143,7 +3148,7 @@
       "Name": "Recycler",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "RUTHLESS",
@@ -3183,7 +3188,7 @@
       "Name": "Side Order",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "SILENT_BUT_VIOLENT",
@@ -3199,7 +3204,7 @@
       "Name": "Technophobe",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "THERE_CAN_BE_ONLY_ONE",
@@ -3207,7 +3212,7 @@
       "Name": "There Can Be Only One!",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "THE_MEANING_OF_KAIN",
@@ -3238,7 +3243,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1365,
+      "Progressed": 1366,
       "Completed": 0
     }
   ],
@@ -3246,8 +3251,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-08-14T09:59:51.5997828+00:00",
-  "LastChanged_Achievements": "2023-08-14T16:06:54.6625227+00:00",
+  "LastChanged_Achievements": "2023-08-14T17:05:58.9598502+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:56.2809501+00:00",
-  "LastUpdate_Ratings": "2023-08-14T16:00:27.9071631+00:00",
-  "LastUpdate_Achievements": "2023-08-14T16:06:54.6626124+00:00"
+  "LastUpdate_Ratings": "2023-08-14T16:59:45.1439057+00:00",
+  "LastUpdate_Achievements": "2023-08-14T17:05:58.9599147+00:00"
 }

@@ -2510,9 +2510,9 @@
       "ID": "CompleteChefsBook",
       "SetID": "9lj35g4",
       "Name": "Complete the Chefs Book",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 447
+      "UsersEstimate": 466
     },
     {
       "ID": "CompleteElderFaction",
@@ -2701,8 +2701,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-07-30T07:58:33.6633976+00:00",
-  "LastChanged_Achievements": "2023-08-14T16:05:51.1550429+00:00",
+  "LastChanged_Achievements": "2023-08-14T17:05:04.8315973+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:06.6737494+00:00",
-  "LastUpdate_Ratings": "2023-08-14T16:00:39.155645+00:00",
-  "LastUpdate_Achievements": "2023-08-14T16:05:51.1550883+00:00"
+  "LastUpdate_Ratings": "2023-08-14T16:59:56.8044352+00:00",
+  "LastUpdate_Achievements": "2023-08-14T17:05:04.8316395+00:00"
 }

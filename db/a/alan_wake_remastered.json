@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 60848,
+  "EOS_Progressed": 60849,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 389,
+  "EOS_NewPlayers": 388,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -11237,6 +11237,11 @@
       "Time": "2023-08-14T16:06:51.2190538+00:00",
       "NumProgressed": 60848,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-14T17:05:56.1493698+00:00",
+      "NumProgressed": 60849,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -11520,7 +11525,7 @@
       "Name": "Let There Be Light",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 18254
+      "UsersEstimate": 18255
     },
     {
       "ID": "36",
@@ -11720,7 +11725,7 @@
       "Name": "Kill Your Darlings",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 729
+      "UsersEstimate": 730
     },
     {
       "ID": "61",
@@ -11776,28 +11781,28 @@
       "Name": "Heartbreaker",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 729
+      "UsersEstimate": 730
     }
   ],
   "AchievementSets": [
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 60848,
+      "Progressed": 60849,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 24316,
+      "Progressed": 24317,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-14T16:06:51.2190533+00:00",
+  "LastChanged_Achievements": "2023-08-14T17:05:56.1493691+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:20.2881971+00:00",
-  "LastUpdate_Ratings": "2023-08-14T15:59:41.3409011+00:00",
-  "LastUpdate_Achievements": "2023-08-14T16:06:51.2191868+00:00"
+  "LastUpdate_Ratings": "2023-08-14T16:59:08.0435435+00:00",
+  "LastUpdate_Achievements": "2023-08-14T17:05:56.1495648+00:00"
 }

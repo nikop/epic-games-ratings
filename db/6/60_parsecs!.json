@@ -4,7 +4,7 @@
   "ProductSlug": "60-parsecs-0481c5",
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
@@ -1001,9 +1001,9 @@
       "ID": "Achievement_SpaceExplorer",
       "SetID": "c01p6e5",
       "Name": "Space Explorer",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 107
+      "UsersEstimate": 114
     },
     {
       "ID": "Achievement_SpaceSelfie",
@@ -1058,8 +1058,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-08-14T16:02:49.6784501+00:00",
+  "LastChanged_Achievements": "2023-08-14T17:02:16.8990637+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:01.5091521+00:00",
-  "LastUpdate_Ratings": "2023-08-14T15:58:15.5518418+00:00",
-  "LastUpdate_Achievements": "2023-08-14T16:02:49.6784958+00:00"
+  "LastUpdate_Ratings": "2023-08-14T16:57:56.7555638+00:00",
+  "LastUpdate_Achievements": "2023-08-14T17:02:16.8991084+00:00"
 }

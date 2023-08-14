@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 13.00% | ~27,582 |
+| Sowwy! | 13.00% | ~27,586 |
 | Alt+F4 | 1.00% | ~2,122 |
 | Where's that freaking Dwarf? | 0.90% | ~1,910 |
 | Déjà vu | 0.70% | ~1,485 |
@@ -17,9 +17,9 @@ Number of Ratings: 118  (23.09.2022)
 | Speedrun | 0.50% | ~1,061 |
 | Fireproof Wizardess | 0.50% | ~1,061 |
 | Way of the Wimp | 0.40% | ~849 |
+| The plot thickens... At the tavern | 0.40% | ~849 |
 | %#*!$*! | 0.40% | ~849 |
 | Livin' in a dwarven paradise | 0.30% | ~637 |
-| The plot thickens... At the tavern | 0.30% | ~637 |
 | The demons' feast | 0.30% | ~637 |
 | The Great Library | 0.30% | ~637 |
 | Torture and Sensibility | 0.30% | ~637 |
@@ -37,6 +37,7 @@ Number of Ratings: 118  (23.09.2022)
 | Look but don't touch | 0.20% | ~424 |
 | The beards of change | 0.20% | ~424 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.20% | ~424 |
+| Lust and Debauchery | 0.20% | ~424 |
 | The Ranger of Chaos | 0.20% | ~424 |
 | I am the night | 0.20% | ~424 |
 | Thieves' Guild Accreditation | 0.20% | ~424 |
@@ -87,7 +88,6 @@ Number of Ratings: 118  (23.09.2022)
 | It's been a hard day's night | 0.10% | ~212 |
 | Demisemiquaver | 0.10% | ~212 |
 | Lëgal Legend | 0.10% | ~212 |
-| Lust and Debauchery | 0.10% | ~212 |
 | Dwarf Candy | 0.10% | ~212 |
 | Material Girl | 0.10% | ~212 |
 | King of the Arena | 0.00% | ~0 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Sleep schedule mastery | 0.00% | ~0 |
 | Dumb and dumber | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 212,171 (Ranked 56)  
+Progressed: 212,202 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 2 (0.00%) (Ranked 255)
 | 2023-08-11 | 210,534 | 1 |
 | 2023-08-12 | 211,199 | 1 |
 | 2023-08-13 | 211,857 | 2 |
-| 2023-08-14 | 212,171 | 2 |
+| 2023-08-14 | 212,202 | 2 |
 ## Awards
 Max (Character Customization): 163  (Ranked 291)  
 Sum: 183 (Ranked 376)  

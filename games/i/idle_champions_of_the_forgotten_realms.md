@@ -7,8 +7,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 0.60% | ~1,331 |
+| The Hunt for The Last Breath | 0.40% | ~752 |
 | Beast Intentions | 0.30% | ~666 |
-| The Hunt for The Last Breath | 0.30% | ~564 |
 | To Infinity's and Beyond | 0.30% | ~564 |
 | The Cursed Farmer | 0.20% | ~444 |
 | The Mad Wizard | 0.20% | ~444 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Animated Giff | 0.10% | ~188 |
 | There's a Flying Snake in my Boot! | 0.10% | ~188 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 221,836 (Ranked 53)  
+Progressed: 221,847 (Ranked 53)  
 Completed: 2,181 (0.98%) (Ranked 115)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -639,7 +639,7 @@ Completed: 2,181 (0.98%) (Ranked 115)
 | 2023-08-11 | 220,919 | 2,173 |
 | 2023-08-12 | 221,298 | 2,175 |
 | 2023-08-13 | 221,637 | 2,180 |
-| 2023-08-14 | 221,836 | 2,181 |
+| 2023-08-14 | 221,847 | 2,181 |
 ## Awards
 Max (Diverse Characters): 5,147  (Ranked 67)  
 Sum: 31,044 (Ranked 38)  

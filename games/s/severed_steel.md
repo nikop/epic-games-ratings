@@ -5,28 +5,28 @@ Rating: 4.69 (Ranked 213)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 28.00% | ~178,040 |
-| 50 HEADSHOTS | 26.00% | ~165,323 |
-| SCIENCE AND INDUSTRY | 25.00% | ~158,964 |
-| FINISHED CHAPTER 1 | 24.00% | ~152,606 |
-| FINISHED CHAPTER 2 | 17.00% | ~108,096 |
-| 200 HEADSHOTS | 15.00% | ~95,379 |
-| FINISHED CHAPTER 3 | 14.00% | ~89,020 |
-| FINISHED CHAPTER 4 | 12.00% | ~76,303 |
-| FINISH CHAPTER 5 | 10.00% | ~63,586 |
-| FINISH CHAPTER 6 | 9.00% | ~57,227 |
-| CATHARTIC ESCAPISM | 9.00% | ~57,227 |
-| 1000 KILLS | 7.00% | ~44,510 |
-| FIREFIGHT LEVEL 10 | 3.00% | ~19,076 |
+| 100 KILLS | 28.00% | ~178,059 |
+| 50 HEADSHOTS | 26.00% | ~165,340 |
+| SCIENCE AND INDUSTRY | 25.00% | ~158,981 |
+| FINISHED CHAPTER 1 | 24.00% | ~152,622 |
+| FINISHED CHAPTER 2 | 17.00% | ~108,107 |
+| 200 HEADSHOTS | 15.00% | ~95,389 |
+| FINISHED CHAPTER 3 | 14.00% | ~89,029 |
+| FINISHED CHAPTER 4 | 12.00% | ~76,311 |
+| FINISH CHAPTER 5 | 10.00% | ~63,592 |
+| FINISH CHAPTER 6 | 9.00% | ~57,233 |
+| CATHARTIC ESCAPISM | 9.00% | ~57,233 |
+| 1000 KILLS | 7.00% | ~44,515 |
+| FIREFIGHT LEVEL 10 | 3.00% | ~19,078 |
 | FIREFIGHT LEVEL 20 | 1.00% | ~6,359 |
 | FIRST BLOOD | 1.00% | ~6,359 |
 | PACEMAKER | 1.00% | ~6,359 |
 | OUT OF ORDER | 0.80% | ~5,087 |
 | TIME PARADOX | 0.80% | ~5,087 |
 | FIREFIGHT LEVEL 30 | 0.70% | ~4,451 |
-| PARTYHARD | 0.60% | ~3,815 |
-| NEW GAME PLUS | 0.50% | ~3,179 |
-| FIREFIGHT LEVEL 40 | 0.40% | ~2,543 |
+| PARTYHARD | 0.60% | ~3,816 |
+| NEW GAME PLUS | 0.50% | ~3,180 |
+| FIREFIGHT LEVEL 40 | 0.40% | ~2,544 |
 | CHURCH | 0.30% | ~1,908 |
 | FIREFIGHT LEVEL 50 | 0.20% | ~1,272 |
 | REMEMBER THE ARMORY | 0.20% | ~1,272 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 213)
 | THE GAMBLER | 0.10% | ~636 |
 | WARRIOR IN A GARDEN | 0.10% | ~636 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 635,858 (Ranked 25)  
+Progressed: 635,924 (Ranked 25)  
 Completed: 47 (0.01%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,7 +174,7 @@ Completed: 47 (0.01%) (Ranked 242)
 | 2023-08-11 | 631,506 | 46 |
 | 2023-08-12 | 633,263 | 46 |
 | 2023-08-13 | 634,939 | 47 |
-| 2023-08-14 | 635,858 | 47 |
+| 2023-08-14 | 635,924 | 47 |
 ## Awards
 Max (Great Boss Battles): 244  (Ranked 255)  
 Sum: 244 (Ranked 353)  

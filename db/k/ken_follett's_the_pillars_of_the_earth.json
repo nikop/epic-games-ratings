@@ -495,7 +495,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 14545,
+  "EOS_Progressed": 14546,
   "EOS_Completed": 109,
   "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 2,
@@ -8095,6 +8095,11 @@
       "Time": "2023-08-14T15:04:11.7653895+00:00",
       "NumProgressed": 14545,
       "NumCompleted": 109
+    },
+    {
+      "Time": "2023-08-14T17:04:52.1677068+00:00",
+      "NumProgressed": 14546,
+      "NumCompleted": 109
     }
   ],
   "TotalAchievements": 41,
@@ -8106,7 +8111,7 @@
       "Name": "Good midwife",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1454
+      "UsersEstimate": 1455
     },
     {
       "ID": "tpote_achievement_10",
@@ -8146,7 +8151,7 @@
       "Name": "Friends of sorts",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4945
+      "UsersEstimate": 4946
     },
     {
       "ID": "tpote_achievement_15",
@@ -8194,7 +8199,7 @@
       "Name": "Yet another secret",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 4945
+      "UsersEstimate": 4946
     },
     {
       "ID": "tpote_achievement_20",
@@ -8282,7 +8287,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 4654
+      "UsersEstimate": 4655
     },
     {
       "ID": "tpote_achievement_30",
@@ -8290,7 +8295,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1454
+      "UsersEstimate": 1455
     },
     {
       "ID": "tpote_achievement_31",
@@ -8370,7 +8375,7 @@
       "Name": "Tattletale",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 5963
+      "UsersEstimate": 5964
     },
     {
       "ID": "tpote_achievement_40",
@@ -8433,15 +8438,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 14545,
+      "Progressed": 14546,
       "Completed": 109
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-08-03T13:08:30.3350415+00:00",
-  "LastChanged_Achievements": "2023-08-14T16:05:36.3344351+00:00",
+  "LastChanged_Achievements": "2023-08-14T17:04:52.1677061+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:55.7661895+00:00",
-  "LastUpdate_Ratings": "2023-08-14T15:57:18.4994981+00:00",
-  "LastUpdate_Achievements": "2023-08-14T16:05:36.3345672+00:00"
+  "LastUpdate_Ratings": "2023-08-14T16:57:11.7596655+00:00",
+  "LastUpdate_Achievements": "2023-08-14T17:04:52.1678351+00:00"
 }

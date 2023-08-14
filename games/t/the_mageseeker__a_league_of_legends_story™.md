@@ -32,10 +32,10 @@ Rating: 4.82 (Ranked 66)
 | Iffighain Headquarters | 21.00% | ~529 |
 | Full equipped | 21.00% | ~529 |
 | Glyndemere | 20.00% | ~504 |
-| Whispers in the Woods II | 17.00% | ~428 |
+| Whispers in the Woods II | 18.00% | ~453 |
+| No more holding back | 17.00% | ~428 |
 | Quickmoore Headquarters | 17.00% | ~428 |
 | Whispers in the Woods III | 16.00% | ~403 |
-| No more holding back | 16.00% | ~403 |
 | Terbisia | 16.00% | ~403 |
 | My heart and sword always for Demacia | 15.00% | ~378 |
 | Friendly fire | 15.00% | ~378 |

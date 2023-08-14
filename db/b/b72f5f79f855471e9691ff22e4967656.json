@@ -735,9 +735,9 @@
       "ID": "questDeadArtifact",
       "SetID": "ci65fo0",
       "Name": "The Mystery of the Dead",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "questDefeatMainEnemy",
@@ -940,8 +940,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-08-14T16:05:18.4919158+00:00",
+  "LastChanged_Achievements": "2023-08-14T17:04:36.930241+00:00",
   "LastUpdate_AppInfo": "2023-08-09T11:56:59.6774878+00:00",
-  "LastUpdate_Ratings": "2023-08-14T15:58:36.1187737+00:00",
-  "LastUpdate_Achievements": "2023-08-14T16:05:18.4920589+00:00"
+  "LastUpdate_Ratings": "2023-08-14T16:58:12.9362045+00:00",
+  "LastUpdate_Achievements": "2023-08-14T17:04:36.930337+00:00"
 }

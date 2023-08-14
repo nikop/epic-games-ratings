@@ -5,10 +5,10 @@ Rating: 4.05 (Ranked 919)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,674 |
-| World Map | 79.00% | ~1,422 |
-| Temple of Eternals | 56.00% | ~1,008 |
-| Prestigious | 53.00% | ~954 |
+| Victor | 93.00% | ~1,675 |
+| World Map | 79.00% | ~1,423 |
+| Temple of Eternals | 56.00% | ~1,009 |
+| Prestigious | 53.00% | ~955 |
 | Fellowship Power | 41.00% | ~738 |
 | Guild Power | 25.00% | ~450 |
 | Prestigious x10 | 22.00% | ~396 |
@@ -22,7 +22,7 @@ Rating: 4.05 (Ranked 919)
 | Enlightenment | 15.00% | ~270 |
 | Hero inspection | 14.00% | ~252 |
 | Lieutenant | 14.00% | ~252 |
-| Mysterious Rock | 14.00% | ~252 |
+| Mysterious Rock | 13.00% | ~234 |
 | Natural Talent | 13.00% | ~234 |
 | Superior | 13.00% | ~234 |
 | The Unstoppable | 13.00% | ~234 |
@@ -39,9 +39,9 @@ Rating: 4.05 (Ranked 919)
 | Moving Up The Ladder | 10.00% | ~180 |
 | Relic Of The Past | 10.00% | ~180 |
 | Scroll Master | 10.00% | ~180 |
-| Here We Go Again | 9.00% | ~162 |
 | Master Enchanter | 9.00% | ~162 |
 | The father of Dragons | 9.00% | ~162 |
+| Here We Go Again | 8.00% | ~144 |
 | Trader | 8.00% | ~144 |
 | Crystal Mining | 7.00% | ~126 |
 | Dragon Slayer | 7.00% | ~126 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 919)
 | Silverwood liberator | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,800 (Ranked 172)  
+Progressed: 1,801 (Ranked 172)  
 Completed: 2 (0.11%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 2 (0.11%) (Ranked 199)
 | 2023-08-11 | 1,790 | 2 |
 | 2023-08-12 | 1,794 | 2 |
 | 2023-08-13 | 1,797 | 2 |
-| 2023-08-14 | 1,800 | 2 |
+| 2023-08-14 | 1,801 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

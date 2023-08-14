@@ -109,6 +109,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Assyrian Paganism | 0.50% | ~67 |
 | Economic Reform | 0.50% | ~67 |
 | Dualism | 0.50% | ~67 |
+| Enlightenment | 0.50% | ~67 |
 | Redemption | 0.50% | ~67 |
 | Cimmerian Archer | 0.50% | ~67 |
 | Ambition Victory | 0.50% | ~67 |
@@ -125,7 +126,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | One True Faith | 0.40% | ~54 |
 | Industrial Progress | 0.40% | ~54 |
 | Military Prestige | 0.40% | ~54 |
-| Enlightenment | 0.40% | ~54 |
 | Gnosticism | 0.40% | ~54 |
 | Revelation | 0.40% | ~54 |
 | Veneration | 0.40% | ~54 |

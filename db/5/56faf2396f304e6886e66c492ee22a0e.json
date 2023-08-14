@@ -4,7 +4,7 @@
   "ProductSlug": "hush-hush-5c1fa0",
   "Ranking_EOS_Progress": 411,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewPlayers": 311,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-07-27T17:00:00+00:00",
@@ -450,8 +450,8 @@
   ],
   "FirstSeen": "2023-07-28T15:57:49.6060029+00:00",
   "FirstSeenAchievements": "2023-07-12T17:04:29.8033729+00:00",
-  "LastChanged_Achievements": "2023-08-14T16:06:17.5382642+00:00",
+  "LastChanged_Achievements": "2023-08-14T17:05:27.7695825+00:00",
   "LastUpdate_AppInfo": "2023-08-08T08:57:19.3911687+00:00",
-  "LastUpdate_Ratings": "2023-08-14T15:58:42.8036611+00:00",
-  "LastUpdate_Achievements": "2023-08-14T16:06:17.5383027+00:00"
+  "LastUpdate_Ratings": "2023-08-14T16:58:19.9406821+00:00",
+  "LastUpdate_Achievements": "2023-08-14T17:05:27.7696157+00:00"
 }

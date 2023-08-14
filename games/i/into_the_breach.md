@@ -5,7 +5,7 @@ Rating: 4.84 (Ranked 50)
 Number of Ratings: 4,082  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 417  (Ranked 209)  
-Sum: 3,956 (Ranked 144)  
+Sum: 3,957 (Ranked 144)  
 Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
@@ -16,7 +16,7 @@ Diff (max vs sum): 65
 | This game has Quickly Understood Controls | 403 |
 | This game has Diverse Characters | 386 |
 | This game is Relaxing | 377 |
-| This game has Amazing Storytelling | 346 |
+| This game has Amazing Storytelling | 347 |
 | This game has Amazing Characters | 318 |
 | This game has Unique Visuals | 291 |
 | This game has Obsessive Gameplay | 287 |
@@ -169,3 +169,4 @@ Diff (max vs sum): 65
 | 2023-08-09 | 4.84 | - | 417 | 3,953 |
 | 2023-08-10 | 4.84 | - | 417 | 3,954 |
 | 2023-08-11 | 4.84 | - | 417 | 3,956 |
+| 2023-08-14 | 4.84 | - | 417 | 3,957 |

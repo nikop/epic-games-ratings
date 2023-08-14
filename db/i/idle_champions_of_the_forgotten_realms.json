@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 115,
   "Ranking_EOS_NewPlayers": 36,
-  "Ranking_EOS_NewCompleters": 9,
+  "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -5788,9 +5788,9 @@
       "Count": 3354
     }
   ],
-  "EOS_Progressed": 221836,
+  "EOS_Progressed": 221847,
   "EOS_Completed": 2181,
-  "EOS_NewPlayers": 2202,
+  "EOS_NewPlayers": 2192,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -18378,6 +18378,11 @@
       "Time": "2023-08-14T16:04:35.9031458+00:00",
       "NumProgressed": 221836,
       "NumCompleted": 2181
+    },
+    {
+      "Time": "2023-08-14T17:04:00.9697371+00:00",
+      "NumProgressed": 221847,
+      "NumCompleted": 2181
     }
   ],
   "TotalAchievements": 516,
@@ -22483,9 +22488,9 @@
       "ID": "objective_completed_1395",
       "SetID": "415jc5c",
       "Name": "The Hunt for The Last Breath",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 564
+      "UsersEstimate": 752
     },
     {
       "ID": "objective_completed_1396",
@@ -22516,21 +22521,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 188110,
-      "Completed": 3230
+      "Progressed": 188121,
+      "Completed": 3231
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 221836,
+      "Progressed": 221847,
       "Completed": 2181
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-14T04:59:18.6523878+00:00",
-  "LastChanged_Achievements": "2023-08-14T16:04:35.903145+00:00",
+  "LastChanged_Achievements": "2023-08-14T17:04:00.9697365+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:51.8567155+00:00",
-  "LastUpdate_Ratings": "2023-08-14T16:00:22.5740948+00:00",
-  "LastUpdate_Achievements": "2023-08-14T16:04:35.9063812+00:00"
+  "LastUpdate_Ratings": "2023-08-14T16:59:40.6592426+00:00",
+  "LastUpdate_Achievements": "2023-08-14T17:04:00.9728809+00:00"
 }

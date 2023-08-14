@@ -19,8 +19,8 @@ Number of Ratings: 371  (23.09.2022)
 | Honoured Battle-Brother | 1.00% | ~31 |
 | Surgical Excision | 1.00% | ~31 |
 | The Emperor Protects | 1.00% | ~31 |
+| Gunmaster | 1.00% | ~31 |
 | Nemesis Master | 0.90% | ~28 |
-| Gunmaster | 0.90% | ~28 |
 | Hold Your Ground | 0.80% | ~25 |
 | Execution Force | 0.80% | ~25 |
 | Hive Exterminator | 0.80% | ~25 |
