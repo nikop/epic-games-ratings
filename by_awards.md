@@ -91,10 +91,10 @@
 | 89 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,340 | 4.68 | 238 |
 | 90 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,299 | 4.76 | 119 |
 | 91 | [Hades](games/h/hades.md) | 3,213 | 4.92 | 4 |
-| 92 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,199 | 4.57 | 450 |
+| 92 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,202 | 4.57 | 450 |
 | 93 | [Trackmania](games/t/trackmania.md) | 3,127 | 4.67 | 259 |
 | 94 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3,092 | 3.98 | 933 |
-| 95 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 2,707 | 4.82 | 66 |
+| 95 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 2,712 | 4.82 | 66 |
 | 96 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,648 | 4.51 | 541 |
 | 97 | [Among Us](games/a/among_us.md) | 2,613 | 4.57 | 450 |
 | 98 | [Path of Exile](games/p/path_of_exile.md) | 2,552 | 4.61 | 364 |
@@ -175,7 +175,7 @@
 | 173 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 659 | 4.75 | 135 |
 | 174 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 658 | 4.74 | 145 |
 | 175 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 642 | 4.74 | 145 |
-| 176 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 632 | 4.60 | 389 |
+| 176 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 635 | 4.60 | 389 |
 | 177 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 627 | 4.50 | 559 |
 | 178 | [FAR CRY 4](games/f/far_cry_4.md) | 624 | 4.68 | 238 |
 | 179 | [Dark Deity](games/d/dark_deity.md) | 609 | 4.16 | 878 |
@@ -496,18 +496,18 @@
 | 494 | [Creature in the Well](games/c/creature_in_the_well.md) | 22 | 4.25 | 820 |
 | 494 | [Insurmountable](games/i/insurmountable.md) | 22 | 4.20 | 853 |
 | 494 | [MotoGP™21](games/m/motogp™21.md) | 22 | 4.53 | 510 |
+| 494 | [Sable](games/s/sable.md) | 22 | 4.52 | 525 |
 | 494 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 22 | 4.88 | 18 |
 | 494 | [Void Bastards](games/v/void_bastards.md) | 22 | 4.60 | 389 |
 | 494 | [We Were Here Forever](games/w/we_were_here_forever.md) | 22 | 4.66 | 274 |
-| 500 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 21 | 4.63 | 328 |
-| 500 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 21 | 4.85 | 42 |
-| 500 | [Black Book](games/b/black_book.md) | 21 | 4.86 | 29 |
-| 500 | [DEMON'S TILT](games/d/demon's_tilt.md) | 21 | 4.52 | 525 |
-| 500 | [Madden NFL 23](games/m/madden_nfl_23.md) | 21 | 4.33 | 765 |
-| 500 | [Moving Out](games/m/moving_out.md) | 21 | 4.59 | 412 |
-| 500 | [Sable](games/s/sable.md) | 21 | 4.52 | 525 |
-| 500 | [Torchlight](games/t/torchlight.md) | 21 | 4.34 | 756 |
-| 500 | [Tunche](games/t/tunche.md) | 21 | 4.44 | 644 |
+| 501 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 21 | 4.63 | 328 |
+| 501 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 21 | 4.85 | 42 |
+| 501 | [Black Book](games/b/black_book.md) | 21 | 4.86 | 29 |
+| 501 | [DEMON'S TILT](games/d/demon's_tilt.md) | 21 | 4.52 | 525 |
+| 501 | [Madden NFL 23](games/m/madden_nfl_23.md) | 21 | 4.33 | 765 |
+| 501 | [Moving Out](games/m/moving_out.md) | 21 | 4.59 | 412 |
+| 501 | [Torchlight](games/t/torchlight.md) | 21 | 4.34 | 756 |
+| 501 | [Tunche](games/t/tunche.md) | 21 | 4.44 | 644 |
 | 509 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 20 | 4.62 | 342 |
 | 509 | [Figment](games/f/figment.md) | 20 | 4.46 | 617 |
 | 509 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 20 | 4.62 | 342 |
