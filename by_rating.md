@@ -197,7 +197,7 @@
 | 186 | [The Red Lantern](games/t/the_red_lantern.md) | 4.71 | 0 | 512 |
 | 186 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.71 | 1,768 | 114 |
 | 197 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,556 | 72 |
-| 197 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 371 | 223 |
+| 197 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 372 | 222 |
 | 197 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.70 | 0 | 512 |
 | 197 | [For The King](games/f/for_the_king.md) | 4.70 | 379 | 219 |
 | 197 | [GNOG](games/g/gnog.md) | 4.70 | 0 | 512 |
@@ -712,20 +712,20 @@
 | 705 | [Iron Harvest](games/i/iron_harvest.md) | 4.39 | 0 | 512 |
 | 705 | [MORDHAU](games/m/mordhau.md) | 4.39 | 511 | 196 |
 | 705 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,740 | 32 |
-| 705 | [Orwell: Keeping an Eye on You](games/o/orwell__keeping_an_eye_on_you.md) | 4.39 | 0 | 512 |
 | 705 | [Startup Panic](games/s/startup_panic.md) | 4.39 | 0 | 512 |
 | 705 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 329 | 230 |
 | 705 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.39 | 105 | 330 |
-| 717 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 0 | 512 |
-| 717 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 572 | 184 |
-| 717 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 164 | 289 |
-| 717 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 169 | 287 |
-| 717 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.38 | 72 | 374 |
-| 717 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 4.38 | 0 | 512 |
-| 717 | [Tacoma](games/t/tacoma.md) | 4.38 | 0 | 512 |
-| 717 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 0 | 512 |
-| 717 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.38 | 0 | 512 |
-| 717 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.38 | 32 | 453 |
+| 716 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 0 | 512 |
+| 716 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 572 | 184 |
+| 716 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 164 | 289 |
+| 716 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 169 | 287 |
+| 716 | [Orwell: Keeping an Eye on You](games/o/orwell__keeping_an_eye_on_you.md) | 4.38 | 0 | 512 |
+| 716 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.38 | 72 | 374 |
+| 716 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 4.38 | 0 | 512 |
+| 716 | [Tacoma](games/t/tacoma.md) | 4.38 | 0 | 512 |
+| 716 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 0 | 512 |
+| 716 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.38 | 0 | 512 |
+| 716 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.38 | 32 | 453 |
 | 727 | [Beyond Blue](games/b/beyond_blue.md) | 4.37 | 0 | 512 |
 | 727 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 0 | 512 |
 | 727 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,147 | 108 |

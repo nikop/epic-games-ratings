@@ -183,7 +183,7 @@
 | 181 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 602 | 4.63 | 328 |
 | 182 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 593 | 4.73 | 159 |
 | 183 | [Star Trek Online](games/s/star_trek_online.md) | 573 | 4.44 | 643 |
-| 184 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 572 | 4.38 | 717 |
+| 184 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 572 | 4.38 | 716 |
 | 185 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 571 | 4.67 | 259 |
 | 186 | [Riders Republic](games/r/riders_republic.md) | 562 | 4.75 | 135 |
 | 187 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 561 | 4.68 | 239 |
@@ -221,8 +221,8 @@
 | 219 | [For The King](games/f/for_the_king.md) | 379 | 4.70 | 197 |
 | 220 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 378 | 4.85 | 42 |
 | 221 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 374 | 4.62 | 342 |
+| 222 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 372 | 4.70 | 197 |
 | 222 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 372 | 3.99 | 929 |
-| 223 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 371 | 4.70 | 197 |
 | 224 | [Train Valley 2](games/t/train_valley_2.md) | 359 | 4.37 | 727 |
 | 225 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 356 | 4.32 | 774 |
 | 225 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 356 | 4.76 | 118 |
@@ -287,8 +287,8 @@
 | 285 | [Cris Tales](games/c/cris_tales.md) | 173 | 4.36 | 736 |
 | 285 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 173 | 4.28 | 799 |
 | 287 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 169 | 4.66 | 274 |
-| 287 | [Mothergunship](games/m/mothergunship.md) | 169 | 4.38 | 717 |
-| 289 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 164 | 4.38 | 717 |
+| 287 | [Mothergunship](games/m/mothergunship.md) | 169 | 4.38 | 716 |
+| 289 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 164 | 4.38 | 716 |
 | 289 | [Tom Clancy's Rainbow Six Extraction](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 164 | 4.51 | 542 |
 | 291 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 163 | 4.58 | 426 |
 | 292 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 162 | 4.58 | 426 |
@@ -374,7 +374,7 @@
 | 370 | [Rising Hell](games/r/rising_hell.md) | 74 | 4.41 | 679 |
 | 373 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 73 | 4.63 | 328 |
 | 374 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 72 | 4.54 | 498 |
-| 374 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 72 | 4.38 | 717 |
+| 374 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 72 | 4.38 | 716 |
 | 374 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 72 | 4.20 | 853 |
 | 377 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 70 | 3.78 | 957 |
 | 378 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 69 | 4.68 | 239 |
@@ -457,7 +457,7 @@
 | 453 | [MythForce](games/m/mythforce.md) | 32 | 4.49 | 576 |
 | 453 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 32 | 4.67 | 259 |
 | 453 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 32 | 4.60 | 389 |
-| 453 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 32 | 4.38 | 717 |
+| 453 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 32 | 4.38 | 716 |
 | 459 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 31 | 4.24 | 828 |
 | 459 | [Blankos Block Party](games/b/blankos_block_party.md) | 31 | 4.21 | 848 |
 | 459 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 31 | 4.45 | 631 |

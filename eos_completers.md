@@ -25,7 +25,7 @@
 | 23 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.09% |
 | 24 | [Remains](games/r/remains.md) | 10.64% |
 | 25 | [Out of Bounds](games/o/out_of_bounds.md) | 10.34% |
-| 26 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.26% |
+| 26 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.23% |
 | 27 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 10.00% |
 | 28 | [Sonic Origins](games/s/sonic_origins.md) | 9.69% |
 | 29 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.30% |
