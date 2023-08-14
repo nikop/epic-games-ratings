@@ -6282,9 +6282,9 @@
       "Count": 591
     }
   ],
-  "EOS_Progressed": 290108,
+  "EOS_Progressed": 290112,
   "EOS_Completed": 451,
-  "EOS_NewPlayers": 490,
+  "EOS_NewPlayers": 492,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -18827,6 +18827,11 @@
       "Time": "2023-08-14T22:06:55.6473981+00:00",
       "NumProgressed": 290108,
       "NumCompleted": 451
+    },
+    {
+      "Time": "2023-08-14T23:05:53.8678798+00:00",
+      "NumProgressed": 290112,
+      "NumCompleted": 451
     }
   ],
   "TotalAchievements": 45,
@@ -18878,7 +18883,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 5,
       "XP": 70,
-      "UsersEstimate": 14505
+      "UsersEstimate": 14506
     },
     {
       "ID": "PFA_15",
@@ -18974,7 +18979,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14505
+      "UsersEstimate": 14506
     },
     {
       "ID": "PFA_26",
@@ -19006,7 +19011,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14505
+      "UsersEstimate": 14506
     },
     {
       "ID": "PFA_3",
@@ -19126,7 +19131,7 @@
       "Name": "Raising Expectations",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 14505
+      "UsersEstimate": 14506
     },
     {
       "ID": "PFA_43",
@@ -19197,7 +19202,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 290108,
+      "Progressed": 290112,
       "Completed": 451
     }
   ],
@@ -19205,8 +19210,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-08-14T21:59:16.4368439+00:00",
-  "LastChanged_Achievements": "2023-08-14T22:06:55.6473975+00:00",
+  "LastChanged_Achievements": "2023-08-14T23:05:53.8678792+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:17.4814985+00:00",
-  "LastUpdate_Ratings": "2023-08-14T21:59:16.4368445+00:00",
-  "LastUpdate_Achievements": "2023-08-14T22:06:55.647537+00:00"
+  "LastUpdate_Ratings": "2023-08-14T22:58:28.298792+00:00",
+  "LastUpdate_Achievements": "2023-08-14T23:05:53.8680033+00:00"
 }

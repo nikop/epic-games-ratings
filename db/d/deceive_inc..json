@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17373,
+  "EOS_Progressed": 17375,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 269,
+  "EOS_NewPlayers": 270,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8261,6 +8261,11 @@
       "Time": "2023-08-14T22:05:40.4253063+00:00",
       "NumProgressed": 17373,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-14T23:04:54.2474818+00:00",
+      "NumProgressed": 17375,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -8272,7 +8277,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5038
+      "UsersEstimate": 5039
     },
     {
       "ID": "0002",
@@ -8288,7 +8293,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2953
+      "UsersEstimate": 2954
     },
     {
       "ID": "0004",
@@ -8304,7 +8309,7 @@
       "Name": "Branch Manager",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "0006",
@@ -8320,7 +8325,7 @@
       "Name": "Masteries Are Forever",
       "Percentage": 0.4,
       "XP": 115,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "0008",
@@ -8328,7 +8333,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3127
+      "UsersEstimate": 3128
     },
     {
       "ID": "0009",
@@ -8376,7 +8381,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2953
+      "UsersEstimate": 2954
     },
     {
       "ID": "0015",
@@ -8408,7 +8413,7 @@
       "Name": "In It to Win It",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1737
+      "UsersEstimate": 1738
     },
     {
       "ID": "0019",
@@ -8432,7 +8437,7 @@
       "Name": "Call Me Maybe",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "0022",
@@ -8440,7 +8445,7 @@
       "Name": "PHD in VIP",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "0023",
@@ -8464,7 +8469,7 @@
       "Name": "Tailor-Made",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3127
+      "UsersEstimate": 3128
     },
     {
       "ID": "0026",
@@ -8496,7 +8501,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2258
+      "UsersEstimate": 2259
     },
     {
       "ID": "0030",
@@ -8504,7 +8509,7 @@
       "Name": "For your Eyes only",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3127
+      "UsersEstimate": 3128
     },
     {
       "ID": "0031",
@@ -8559,7 +8564,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17373,
+      "Progressed": 17375,
       "Completed": 1
     }
   ],
@@ -8567,8 +8572,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-12T19:04:41.1874293+00:00",
-  "LastChanged_Achievements": "2023-08-14T22:05:40.4253057+00:00",
+  "LastChanged_Achievements": "2023-08-14T23:04:54.2474814+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:38.5697724+00:00",
-  "LastUpdate_Ratings": "2023-08-14T22:01:56.0875877+00:00",
-  "LastUpdate_Achievements": "2023-08-14T22:05:40.425408+00:00"
+  "LastUpdate_Ratings": "2023-08-14T23:00:28.2282004+00:00",
+  "LastUpdate_Achievements": "2023-08-14T23:04:54.2475655+00:00"
 }

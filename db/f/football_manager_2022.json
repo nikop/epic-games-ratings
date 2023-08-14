@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 36,
   "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 67,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -6563,9 +6563,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 470234,
+  "EOS_Progressed": 470235,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 755,
+  "EOS_NewPlayers": 751,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18778,6 +18778,11 @@
       "Time": "2023-08-14T22:07:15.442137+00:00",
       "NumProgressed": 470234,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-08-14T23:06:10.2545896+00:00",
+      "NumProgressed": 470235,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 98,
@@ -18973,7 +18978,7 @@
       "Name": "Clean Sheet",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 235117
+      "UsersEstimate": 235118
     },
     {
       "ID": "achievement_club_world_cup",
@@ -18989,7 +18994,7 @@
       "Name": "Do The Double",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 89344
+      "UsersEstimate": 89345
     },
     {
       "ID": "achievement_dont_concede_a_goal_for_10_consecutive_matches",
@@ -19021,7 +19026,7 @@
       "Name": "I\u0027m The Boss!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 197498
+      "UsersEstimate": 197499
     },
     {
       "ID": "achievement_full_board_confidence",
@@ -19061,7 +19066,7 @@
       "Name": "What A Goal!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 103451
+      "UsersEstimate": 103452
     },
     {
       "ID": "achievement_goal_of_the_season",
@@ -19069,7 +19074,7 @@
       "Name": "Superb Strike",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 47023
+      "UsersEstimate": 47024
     },
     {
       "ID": "achievement_goal_scored_in_20_consecutive_matches",
@@ -19165,7 +19170,7 @@
       "Name": "Top Of The Class",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 103451
+      "UsersEstimate": 103452
     },
     {
       "ID": "achievement_manager_of_the_year",
@@ -19333,7 +19338,7 @@
       "Name": "He\u0027s Sold!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 225712
+      "UsersEstimate": 225713
     },
     {
       "ID": "achievement_signed_a_player",
@@ -19341,7 +19346,7 @@
       "Name": "He\u0027s Signed!",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 235117
+      "UsersEstimate": 235118
     },
     {
       "ID": "achievement_top_goalscorer_in_league",
@@ -19365,7 +19370,7 @@
       "Name": "Invincible!",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 47023
+      "UsersEstimate": 47024
     },
     {
       "ID": "achievement_watch_popup_match_viewer",
@@ -19389,7 +19394,7 @@
       "Name": "Comeback King!",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 61130
+      "UsersEstimate": 61131
     },
     {
       "ID": "achievement_win_fantasy_draft",
@@ -19421,7 +19426,7 @@
       "Name": "First Victory",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 235117
+      "UsersEstimate": 235118
     },
     {
       "ID": "achievement_won_domestic_cup",
@@ -19429,7 +19434,7 @@
       "Name": "Cup Glory!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 103451
+      "UsersEstimate": 103452
     },
     {
       "ID": "achievement_won_international_championship",
@@ -19445,7 +19450,7 @@
       "Name": "You\u0027re Up!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 61130
+      "UsersEstimate": 61131
     },
     {
       "ID": "achievement_won_world_cup",
@@ -19461,7 +19466,7 @@
       "Name": "Best In The World",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 47023
+      "UsersEstimate": 47024
     },
     {
       "ID": "career_earnings_over_100_million",
@@ -19572,15 +19577,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 470234,
+      "Progressed": 470235,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-08-14T17:57:48.1139551+00:00",
-  "LastChanged_Achievements": "2023-08-14T22:07:15.4421365+00:00",
+  "LastChanged_Achievements": "2023-08-14T23:06:10.2545887+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:19.9756168+00:00",
-  "LastUpdate_Ratings": "2023-08-14T21:57:49.6794021+00:00",
-  "LastUpdate_Achievements": "2023-08-14T22:07:15.4423944+00:00"
+  "LastUpdate_Ratings": "2023-08-14T22:57:25.2488556+00:00",
+  "LastUpdate_Achievements": "2023-08-14T23:06:10.2547728+00:00"
 }

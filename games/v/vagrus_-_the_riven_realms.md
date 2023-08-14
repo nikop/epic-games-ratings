@@ -19,12 +19,12 @@
 | Courier | 5.00% | ~7 |
 | Acquaintance | 5.00% | ~7 |
 | The More the Merrier | 4.00% | ~5 |
+| Been There | 4.00% | ~5 |
 | Tail-wind | 4.00% | ~5 |
 | Quartermaster | 3.00% | ~4 |
 | Supercargo | 3.00% | ~4 |
 | Strategist | 3.00% | ~4 |
 | Harbinger | 3.00% | ~4 |
-| Been There | 3.00% | ~4 |
 | Spiritual Journey | 3.00% | ~4 |
 | Pilgrimage's End | 3.00% | ~4 |
 | Inquisitions of Discord | 3.00% | ~4 |

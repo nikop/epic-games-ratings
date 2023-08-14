@@ -612,7 +612,7 @@
   ],
   "EOS_Progressed": 4905,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5509,9 +5509,9 @@
       "ID": "ACHIEVEMENT_001",
       "SetID": "1a05lfd",
       "Name": "Fish Just Got Reel",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3728
+      "UsersEstimate": 3777
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -5573,9 +5573,9 @@
       "ID": "ACHIEVEMENT_009",
       "SetID": "1a05lfd",
       "Name": "Things that go Splash in the Night",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1324
+      "UsersEstimate": 1373
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -5804,8 +5804,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-08-14T16:02:27.7559868+00:00",
-  "LastChanged_Achievements": "2023-08-14T22:05:57.3379655+00:00",
+  "LastChanged_Achievements": "2023-08-14T23:05:07.8298278+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:47.5047155+00:00",
-  "LastUpdate_Ratings": "2023-08-14T22:02:06.0998353+00:00",
-  "LastUpdate_Achievements": "2023-08-14T22:05:57.3380297+00:00"
+  "LastUpdate_Ratings": "2023-08-14T23:00:35.7875892+00:00",
+  "LastUpdate_Achievements": "2023-08-14T23:05:07.8298906+00:00"
 }

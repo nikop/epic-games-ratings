@@ -694,9 +694,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 11967,
+  "EOS_Progressed": 11968,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -8934,6 +8934,11 @@
       "Time": "2023-08-14T22:04:31.4099551+00:00",
       "NumProgressed": 11967,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-08-14T23:03:58.9122585+00:00",
+      "NumProgressed": 11968,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 35,
@@ -8945,7 +8950,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9693
+      "UsersEstimate": 9694
     },
     {
       "ID": "ACH02",
@@ -9001,7 +9006,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 6103
+      "UsersEstimate": 6104
     },
     {
       "ID": "ACH09",
@@ -9065,7 +9070,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2034
+      "UsersEstimate": 2035
     },
     {
       "ID": "ACH17",
@@ -9113,7 +9118,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 1675
+      "UsersEstimate": 1676
     },
     {
       "ID": "ACH23",
@@ -9224,7 +9229,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11967,
+      "Progressed": 11968,
       "Completed": 38
     }
   ],
@@ -9232,8 +9237,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-08-14T18:57:43.9990974+00:00",
-  "LastChanged_Achievements": "2023-08-14T22:04:31.4099543+00:00",
+  "LastChanged_Achievements": "2023-08-14T23:03:58.9122581+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:11.1716171+00:00",
-  "LastUpdate_Ratings": "2023-08-14T21:57:37.2211365+00:00",
-  "LastUpdate_Achievements": "2023-08-14T22:04:31.4100458+00:00"
+  "LastUpdate_Ratings": "2023-08-14T22:57:16.7470005+00:00",
+  "LastUpdate_Achievements": "2023-08-14T23:03:58.9123422+00:00"
 }

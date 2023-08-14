@@ -6,7 +6,7 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 68.00% | ~592,212 |
+| The Fool | 68.00% | ~592,213 |
 | Right Back At Ya | 39.00% | ~339,651 |
 | The Lovers | 35.00% | ~304,815 |
 | Stanislavski's Method | 29.00% | ~252,561 |
@@ -49,9 +49,9 @@ Number of Ratings: 32,700  (23.09.2022)
 | Daemon In The Shell | 2.00% | ~17,418 |
 | The Devil | 2.00% | ~17,418 |
 | Gunslinger | 1.00% | ~8,709 |
-| Rough Landing | 0.50% | ~4,354 |
+| Rough Landing | 0.50% | ~4,355 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 870,900 (Ranked 14)  
+Progressed: 870,901 (Ranked 14)  
 Completed: 1,969 (0.23%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,7 +167,7 @@ Completed: 1,969 (0.23%) (Ranked 176)
 | 2023-08-11 | 870,387 | 1,958 |
 | 2023-08-12 | 870,573 | 1,961 |
 | 2023-08-13 | 870,756 | 1,962 |
-| 2023-08-14 | 870,900 | 1,969 |
+| 2023-08-14 | 870,901 | 1,969 |
 ## Awards
 Max (Character Customization): 75,493  (Ranked 9)  
 Sum: 199,472 (Ranked 13)  

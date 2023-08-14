@@ -480,9 +480,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 525028,
+  "EOS_Progressed": 525030,
   "EOS_Completed": 459,
-  "EOS_NewPlayers": 604,
+  "EOS_NewPlayers": 603,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -12755,6 +12755,11 @@
       "Time": "2023-08-14T22:06:08.8344893+00:00",
       "NumProgressed": 525028,
       "NumCompleted": 459
+    },
+    {
+      "Time": "2023-08-14T23:05:17.0667408+00:00",
+      "NumProgressed": 525030,
+      "NumCompleted": 459
     }
   ],
   "TotalAchievements": 57,
@@ -12766,7 +12771,7 @@
       "Name": "AAARR!",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 120756
+      "UsersEstimate": 120757
     },
     {
       "ID": "10",
@@ -12774,7 +12779,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 236263
+      "UsersEstimate": 236264
     },
     {
       "ID": "11",
@@ -12782,7 +12787,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 367520
+      "UsersEstimate": 367521
     },
     {
       "ID": "12",
@@ -12790,7 +12795,7 @@
       "Name": "Wind At Our Backs",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 115506
+      "UsersEstimate": 115507
     },
     {
       "ID": "13",
@@ -12846,7 +12851,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 325517
+      "UsersEstimate": 325519
     },
     {
       "ID": "2",
@@ -12942,7 +12947,7 @@
       "Name": "Oh, Romeo!",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 26251
+      "UsersEstimate": 26252
     },
     {
       "ID": "30",
@@ -12974,7 +12979,7 @@
       "Name": "Noble Intentions",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 26251
+      "UsersEstimate": 26252
     },
     {
       "ID": "34",
@@ -12990,7 +12995,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 262514
+      "UsersEstimate": 262515
     },
     {
       "ID": "36",
@@ -12998,7 +13003,7 @@
       "Name": "Sunday Best",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 84004
+      "UsersEstimate": 84005
     },
     {
       "ID": "37",
@@ -13038,7 +13043,7 @@
       "Name": "Rising Star",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 26251
+      "UsersEstimate": 26252
     },
     {
       "ID": "41",
@@ -13094,7 +13099,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 325517
+      "UsersEstimate": 325519
     },
     {
       "ID": "48",
@@ -13142,7 +13147,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 241513
+      "UsersEstimate": 241514
     },
     {
       "ID": "53",
@@ -13150,7 +13155,7 @@
       "Name": "Hello Darkness",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 120756
+      "UsersEstimate": 120757
     },
     {
       "ID": "54",
@@ -13166,7 +13171,7 @@
       "Name": "Slime Slayer",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 26251
+      "UsersEstimate": 26252
     },
     {
       "ID": "56",
@@ -13221,15 +13226,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 525028,
+      "Progressed": 525030,
       "Completed": 459
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
-  "LastChanged_Achievements": "2023-08-14T22:06:08.8344887+00:00",
+  "LastChanged_Achievements": "2023-08-14T23:05:17.0667405+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:16.1872639+00:00",
-  "LastUpdate_Ratings": "2023-08-14T21:59:13.3633698+00:00",
-  "LastUpdate_Achievements": "2023-08-14T22:06:08.834614+00:00"
+  "LastUpdate_Ratings": "2023-08-14T22:58:26.2295802+00:00",
+  "LastUpdate_Achievements": "2023-08-14T23:05:17.0668716+00:00"
 }

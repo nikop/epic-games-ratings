@@ -6,11 +6,11 @@
 | ---- | ---------- | ----- |
 | Seeds of War | 76.00% | ~195 |
 | First Blood | 58.00% | ~149 |
-| Triple Kill | 56.00% | ~144 |
+| Triple Kill | 57.00% | ~146 |
 | Survivor | 56.00% | ~116 |
 | Aspairagus | 56.00% | ~116 |
 | No Asperascope | 51.00% | ~131 |
-| Cornivore | 50.00% | ~128 |
+| Cornivore | 51.00% | ~131 |
 | I Believe I Can Fly | 48.00% | ~123 |
 | Early Survivor | 42.00% | ~87 |
 | No Diggity | 41.00% | ~85 |
@@ -20,7 +20,7 @@
 | 15K | 28.00% | ~72 |
 | Professional Survivor | 23.00% | ~48 |
 | Grave Digger | 23.00% | ~48 |
-| Drinking Problem | 21.00% | ~54 |
+| Drinking Problem | 22.00% | ~57 |
 | Quick-Draw Pod | 21.00% | ~43 |
 | Pork Chop Express | 17.00% | ~44 |
 | This Is My Boomstick | 16.00% | ~33 |

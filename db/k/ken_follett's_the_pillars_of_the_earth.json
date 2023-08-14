@@ -495,7 +495,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 14559,
+  "EOS_Progressed": 14560,
   "EOS_Completed": 109,
   "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 2,
@@ -8120,6 +8120,11 @@
       "Time": "2023-08-14T22:05:17.8411673+00:00",
       "NumProgressed": 14559,
       "NumCompleted": 109
+    },
+    {
+      "Time": "2023-08-14T23:04:35.9192079+00:00",
+      "NumProgressed": 14560,
+      "NumCompleted": 109
     }
   ],
   "TotalAchievements": 41,
@@ -8131,7 +8136,7 @@
       "Name": "Good midwife",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1601
+      "UsersEstimate": 1602
     },
     {
       "ID": "tpote_achievement_10",
@@ -8203,7 +8208,7 @@
       "Name": "Friar Tuck",
       "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 1601
+      "UsersEstimate": 1602
     },
     {
       "ID": "tpote_achievement_19",
@@ -8259,7 +8264,7 @@
       "Name": "First profit",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1601
+      "UsersEstimate": 1602
     },
     {
       "ID": "tpote_achievement_25",
@@ -8395,7 +8400,7 @@
       "Name": "Tattletale",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 5969
+      "UsersEstimate": 5970
     },
     {
       "ID": "tpote_achievement_40",
@@ -8458,15 +8463,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 14559,
+      "Progressed": 14560,
       "Completed": 109
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-08-03T13:08:30.3350415+00:00",
-  "LastChanged_Achievements": "2023-08-14T22:05:17.8411665+00:00",
+  "LastChanged_Achievements": "2023-08-14T23:04:35.9192074+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:55.7661895+00:00",
-  "LastUpdate_Ratings": "2023-08-14T21:57:18.2955404+00:00",
-  "LastUpdate_Achievements": "2023-08-14T22:05:17.8412783+00:00"
+  "LastUpdate_Ratings": "2023-08-14T22:57:01.347155+00:00",
+  "LastUpdate_Achievements": "2023-08-14T23:04:35.9192893+00:00"
 }

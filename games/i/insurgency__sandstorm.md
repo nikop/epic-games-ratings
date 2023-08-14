@@ -6,31 +6,31 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~21,632 |
-| Wallbanger | 5.00% | ~21,632 |
+| Point Shooting | 5.00% | ~21,633 |
+| Wallbanger | 5.00% | ~21,633 |
 | Exploitative | 4.00% | ~17,306 |
 | High Speed Low Drag | 4.00% | ~17,306 |
 | Wet Feet | 4.00% | ~17,306 |
-| Lucky | 3.00% | ~12,979 |
-| Stylin' | 3.00% | ~12,979 |
-| Turf War | 3.00% | ~12,979 |
+| Lucky | 3.00% | ~12,980 |
+| Stylin' | 3.00% | ~12,980 |
+| Turf War | 3.00% | ~12,980 |
 | Banged | 2.00% | ~8,653 |
 | Checkpoint Victory | 2.00% | ~8,653 |
 | First Blood | 2.00% | ~8,653 |
 | Flaccid Paralysis | 2.00% | ~8,653 |
 | Push Victory | 2.00% | ~8,653 |
 | Self-destructive | 2.00% | ~8,653 |
-| Blindfire | 1.00% | ~4,326 |
-| Ruthless | 1.00% | ~4,326 |
-| Semper Paratus | 1.00% | ~4,326 |
+| Blindfire | 1.00% | ~4,327 |
+| Ruthless | 1.00% | ~4,327 |
+| Semper Paratus | 1.00% | ~4,327 |
 | Carrying | 0.90% | ~3,894 |
 | Efficient | 0.90% | ~3,894 |
 | Mount & Gun | 0.90% | ~3,894 |
 | Personal | 0.90% | ~3,894 |
 | Grounded | 0.80% | ~3,461 |
 | Play to Win | 0.80% | ~3,461 |
-| #1 | 0.70% | ~3,028 |
-| Special Delivery | 0.70% | ~3,028 |
+| #1 | 0.70% | ~3,029 |
+| Special Delivery | 0.70% | ~3,029 |
 | Firefight Victory | 0.60% | ~2,596 |
 | Cinematic | 0.50% | ~2,163 |
 | Thanks Station! | 0.40% | ~1,731 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~433 |
 | Road Hazard | 0.10% | ~433 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 432,639 (Ranked 38)  
+Progressed: 432,656 (Ranked 38)  
 Completed: 2 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,7 +158,7 @@ Completed: 2 (0.00%) (Ranked 255)
 | 2023-08-11 | 431,574 | 2 |
 | 2023-08-12 | 431,919 | 2 |
 | 2023-08-13 | 432,353 | 2 |
-| 2023-08-14 | 432,639 | 2 |
+| 2023-08-14 | 432,656 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 375  (Ranked 221)  
 Sum: 2,888 (Ranked 167)  

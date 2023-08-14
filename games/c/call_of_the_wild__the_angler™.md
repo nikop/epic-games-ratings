@@ -6,7 +6,7 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 76.00% | ~3,728 |
+| Fish Just Got Reel | 77.00% | ~3,777 |
 | Hey Good Hookin | 66.00% | ~3,237 |
 | I'm on a Boat! | 57.00% | ~2,796 |
 | Can you smell what the Rod is Hooking | 51.00% | ~2,502 |
@@ -15,7 +15,7 @@ Number of Ratings: 281  (23.09.2022)
 | More Fish in the Sea | 42.00% | ~2,060 |
 | License to Gill | 34.00% | ~1,668 |
 | Fish Out of Water | 33.00% | ~1,619 |
-| Things that go Splash in the Night | 27.00% | ~1,324 |
+| Things that go Splash in the Night | 28.00% | ~1,373 |
 | Goldfish? | 27.00% | ~1,324 |
 | Going for Gold | 24.00% | ~1,177 |
 | I'm Hooked! | 19.00% | ~932 |

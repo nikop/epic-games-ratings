@@ -6,15 +6,15 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 13.00% | ~27,606 |
+| Sowwy! | 13.00% | ~27,608 |
 | Alt+F4 | 1.00% | ~2,124 |
 | Where's that freaking Dwarf? | 0.90% | ~1,911 |
 | Déjà vu | 0.80% | ~1,699 |
 | Sock! SOCK! | 0.80% | ~1,699 |
+| Speedrun | 0.60% | ~1,274 |
 | A beer, two curses, three companions | 0.50% | ~1,062 |
 | GG EZ | 0.50% | ~1,062 |
 | DM intervention | 0.50% | ~1,062 |
-| Speedrun | 0.50% | ~1,062 |
 | Fireproof Wizardess | 0.50% | ~1,062 |
 | Livin' in a dwarven paradise | 0.40% | ~849 |
 | Way of the Wimp | 0.40% | ~849 |
@@ -29,6 +29,7 @@ Number of Ratings: 118  (23.09.2022)
 | The Statuette of Gladeulfeurah | 0.30% | ~637 |
 | The Woman in the High Castle | 0.30% | ~637 |
 | A tale of adventurers not quite like the others... | 0.30% | ~637 |
+| The Ranger of Chaos | 0.30% | ~637 |
 | I am the night | 0.30% | ~637 |
 | Team Building Exercise | 0.30% | ~637 |
 | Oh, when I'll be level 10... | 0.30% | ~637 |
@@ -39,7 +40,6 @@ Number of Ratings: 118  (23.09.2022)
 | The beards of change | 0.20% | ~425 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.20% | ~425 |
 | Lust and Debauchery | 0.20% | ~425 |
-| The Ranger of Chaos | 0.20% | ~425 |
 | Thieves' Guild Accreditation | 0.20% | ~425 |
 | Cursed die | 0.10% | ~212 |
 | Holistic Adventuring Party | 0.10% | ~212 |
@@ -88,14 +88,14 @@ Number of Ratings: 118  (23.09.2022)
 | It's been a hard day's night | 0.10% | ~212 |
 | Demisemiquaver | 0.10% | ~212 |
 | Lëgal Legend | 0.10% | ~212 |
+| Dumb and dumber | 0.10% | ~212 |
 | Dwarf Candy | 0.10% | ~212 |
 | Material Girl | 0.10% | ~212 |
 | King of the Arena | 0.00% | ~0 |
 | Staff cut | 0.00% | ~0 |
 | Sleep schedule mastery | 0.00% | ~0 |
-| Dumb and dumber | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 212,355 (Ranked 56)  
+Progressed: 212,372 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 2 (0.00%) (Ranked 255)
 | 2023-08-11 | 210,534 | 1 |
 | 2023-08-12 | 211,199 | 1 |
 | 2023-08-13 | 211,857 | 2 |
-| 2023-08-14 | 212,355 | 2 |
+| 2023-08-14 | 212,372 | 2 |
 ## Awards
 Max (Character Customization): 163  (Ranked 291)  
 Sum: 183 (Ranked 376)  

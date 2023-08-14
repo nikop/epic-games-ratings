@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -60,9 +60,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 624,
+  "EOS_Progressed": 625,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1560,6 +1560,11 @@
       "Time": "2023-08-14T20:04:08.8693274+00:00",
       "NumProgressed": 624,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-14T23:04:04.2640051+00:00",
+      "NumProgressed": 625,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -1699,7 +1704,7 @@
       "Name": "A friend in need...",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "LostAndFound",
@@ -1826,7 +1831,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 624,
+      "Progressed": 625,
       "Completed": 1
     }
   ],
@@ -1834,8 +1839,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-06-17T03:57:55.2766718+00:00",
-  "LastChanged_Achievements": "2023-08-14T22:04:37.8383844+00:00",
+  "LastChanged_Achievements": "2023-08-14T23:04:04.2640043+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:35.7451795+00:00",
-  "LastUpdate_Ratings": "2023-08-14T21:59:52.7283146+00:00",
-  "LastUpdate_Achievements": "2023-08-14T22:04:37.8384168+00:00"
+  "LastUpdate_Ratings": "2023-08-14T22:58:55.2901857+00:00",
+  "LastUpdate_Achievements": "2023-08-14T23:04:04.2640393+00:00"
 }

@@ -6,23 +6,23 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 26.00% | ~9,200 |
-| Finding Your Footing | 26.00% | ~9,200 |
-| Nomad | 18.00% | ~6,369 |
+| Rookie | 26.00% | ~9,201 |
+| Finding Your Footing | 26.00% | ~9,201 |
+| Nomad | 18.00% | ~6,370 |
 | Picking Up Speed | 16.00% | ~5,662 |
 | Welcome Maya | 15.00% | ~5,308 |
-| Sightseer | 11.00% | ~3,892 |
-| Scout | 10.00% | ~3,539 |
+| Scout | 11.00% | ~3,893 |
+| Sightseer | 11.00% | ~3,893 |
 | Amateur | 9.00% | ~3,185 |
 | Enter Paz | 8.00% | ~2,831 |
 | Wanderer | 8.00% | ~2,831 |
 | Unlock Maya | 7.00% | ~2,477 |
 | Aviator | 6.00% | ~2,123 |
-| My Little Friend | 5.00% | ~1,769 |
-| One With The Board | 5.00% | ~1,769 |
-| Voyager | 5.00% | ~1,769 |
-| Sandboarder | 4.00% | ~1,415 |
-| Izel Has Arrived | 4.00% | ~1,415 |
+| My Little Friend | 5.00% | ~1,770 |
+| One With The Board | 5.00% | ~1,770 |
+| Voyager | 5.00% | ~1,770 |
+| Sandboarder | 4.00% | ~1,416 |
+| Izel Has Arrived | 4.00% | ~1,416 |
 | Junkie | 3.00% | ~1,062 |
 | Traveler | 3.00% | ~1,062 |
 | Journeyer | 3.00% | ~1,062 |
@@ -35,7 +35,7 @@ Number of Ratings: 332  (23.09.2022)
 | Unlock Izel | 1.00% | ~354 |
 | Introducing Sumara | 1.00% | ~354 |
 | Vandal | 1.00% | ~354 |
-| Daredevil | 0.90% | ~318 |
+| Daredevil | 0.90% | ~319 |
 | Unlock Felipe | 0.80% | ~283 |
 | Adventurer | 0.70% | ~248 |
 | Unlock Tupa | 0.50% | ~177 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~35 |
 | Windswept | 0.10% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 35,386 (Ranked 96)  
+Progressed: 35,390 (Ranked 96)  
 Completed: 5 (0.01%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,7 +162,7 @@ Completed: 5 (0.01%) (Ranked 242)
 | 2023-08-11 | 34,990 | 5 |
 | 2023-08-12 | 35,121 | 5 |
 | 2023-08-13 | 35,253 | 5 |
-| 2023-08-14 | 35,386 | 5 |
+| 2023-08-14 | 35,390 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 46  (Ranked 410)  
 Sum: 359 (Ranked 327)  
