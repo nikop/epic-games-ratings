@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.95% |
-| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.41% |
+| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 49.32% |
+| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.42% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 38.64% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
 | 5 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
@@ -14,8 +14,8 @@
 | 11 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 13 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
 | 14 | [Island Cities](games/i/island_cities.md) | 18.04% |
-| 15 | [Anna's Quest](games/a/anna's_quest.md) | 15.15% |
-| 16 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 15.00% |
+| 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 15.00% |
+| 16 | [Anna's Quest](games/a/anna's_quest.md) | 14.71% |
 | 17 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 13.94% |
 | 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.07% |
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.27% |
@@ -86,8 +86,8 @@
 | 84 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.28% |
 | 85 | [Bloodshore](games/b/bloodshore.md) | 2.22% |
 | 86 | [FORECLOSED](games/f/foreclosed.md) | 2.17% |
-| 87 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 2.04% |
-| 88 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.03% |
+| 87 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.03% |
+| 88 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 2.00% |
 | 89 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.96% |
 | 90 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.92% |
 | 91 | [Night Book](games/n/night_book.md) | 1.89% |
