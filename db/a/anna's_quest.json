@@ -4,8 +4,8 @@
   "ProductSlug": "annas-quest-fbefa2",
   "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 16,
-  "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-02-01T16:00:00+00:00",
     "PcReleaseDate": "2015-07-01T22:00:00+00:00",
@@ -173,9 +173,9 @@
       "ID": "aq_achievement_16",
       "SetID": "7jh86ne",
       "Name": "Shattered",
-      "Percentage": 32,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "aq_achievement_17",
@@ -189,17 +189,17 @@
       "ID": "aq_achievement_18",
       "SetID": "7jh86ne",
       "Name": "You\u0027ve got mail!",
-      "Percentage": 35,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "aq_achievement_19",
       "SetID": "7jh86ne",
       "Name": "Memories",
-      "Percentage": 32,
+      "Percentage": 35,
       "XP": 55,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "aq_achievement_2",
@@ -213,17 +213,17 @@
       "ID": "aq_achievement_20",
       "SetID": "7jh86ne",
       "Name": "Beekeeper",
-      "Percentage": 29,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "aq_achievement_21",
       "SetID": "7jh86ne",
       "Name": "Turn the last page",
-      "Percentage": 26,
+      "Percentage": 29,
       "XP": 55,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "aq_achievement_22",
@@ -438,8 +438,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.0099942+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.5540856+00:00",
   "LastChanged": "2023-03-31T05:58:28.0099943+00:00",
-  "LastChanged_Achievements": "2023-08-14T20:03:34.2737111+00:00",
+  "LastChanged_Achievements": "2023-08-14T21:03:33.5431536+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:55.3569902+00:00",
-  "LastUpdate_Ratings": "2023-08-14T20:00:46.6831428+00:00",
-  "LastUpdate_Achievements": "2023-08-14T20:03:34.2737416+00:00"
+  "LastUpdate_Ratings": "2023-08-14T21:00:07.9003302+00:00",
+  "LastUpdate_Achievements": "2023-08-14T21:03:33.5431876+00:00"
 }

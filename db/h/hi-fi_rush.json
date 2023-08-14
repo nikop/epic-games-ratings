@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 185,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -118,9 +118,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3895,
+  "EOS_Progressed": 3896,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -5888,6 +5888,11 @@
       "Time": "2023-08-14T17:05:49.3257687+00:00",
       "NumProgressed": 3895,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-08-14T21:05:20.2761196+00:00",
+      "NumProgressed": 3896,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 71,
@@ -6435,7 +6440,7 @@
       "Name": "New bad guys? No problem!",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "Ach069",
@@ -6466,13 +6471,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 3895,
+      "Progressed": 3896,
       "Completed": 7
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2416,
+      "Progressed": 2417,
       "Completed": 1929
     }
   ],
@@ -6480,8 +6485,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-08-10T23:00:09.4128826+00:00",
-  "LastChanged_Achievements": "2023-08-14T20:05:43.7049161+00:00",
+  "LastChanged_Achievements": "2023-08-14T21:05:20.2761191+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:15.2039204+00:00",
-  "LastUpdate_Ratings": "2023-08-14T20:00:09.4088701+00:00",
-  "LastUpdate_Achievements": "2023-08-14T20:05:43.7050266+00:00"
+  "LastUpdate_Ratings": "2023-08-14T20:59:35.131819+00:00",
+  "LastUpdate_Achievements": "2023-08-14T21:05:20.2762917+00:00"
 }

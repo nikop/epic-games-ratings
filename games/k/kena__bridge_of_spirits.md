@@ -17,7 +17,7 @@ Number of Ratings: 3,313  (23.09.2022)
 | Taro's Love | 45.00% | ~192,331 |
 | Taro's Regret | 43.00% | ~183,783 |
 | Spirit Guide | 42.00% | ~179,509 |
-| Harness Your Power | 38.00% | ~162,413 |
+| Harness Your Power | 39.00% | ~166,687 |
 | The Open Range | 37.00% | ~158,139 |
 | Adira's Love | 34.00% | ~145,317 |
 | Adira's Fear | 33.00% | ~141,043 |

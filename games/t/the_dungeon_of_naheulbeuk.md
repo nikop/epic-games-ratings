@@ -6,16 +6,16 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 13.00% | ~27,598 |
+| Sowwy! | 13.00% | ~27,602 |
 | Alt+F4 | 1.00% | ~2,123 |
 | Where's that freaking Dwarf? | 0.90% | ~1,911 |
-| Déjà vu | 0.70% | ~1,486 |
+| Déjà vu | 0.80% | ~1,699 |
 | Sock! SOCK! | 0.70% | ~1,486 |
-| A beer, two curses, three companions | 0.50% | ~1,061 |
-| GG EZ | 0.50% | ~1,061 |
-| DM intervention | 0.50% | ~1,061 |
-| Speedrun | 0.50% | ~1,061 |
-| Fireproof Wizardess | 0.50% | ~1,061 |
+| A beer, two curses, three companions | 0.50% | ~1,062 |
+| GG EZ | 0.50% | ~1,062 |
+| DM intervention | 0.50% | ~1,062 |
+| Speedrun | 0.50% | ~1,062 |
+| Fireproof Wizardess | 0.50% | ~1,062 |
 | Livin' in a dwarven paradise | 0.40% | ~849 |
 | Way of the Wimp | 0.40% | ~849 |
 | The plot thickens... At the tavern | 0.40% | ~849 |
@@ -25,15 +25,15 @@ Number of Ratings: 118  (23.09.2022)
 | Torture and Sensibility | 0.30% | ~637 |
 | Urik's Depths | 0.30% | ~637 |
 | The Dungeon Master | 0.30% | ~637 |
+| The Statuette of Gladeulfeurah | 0.30% | ~637 |
 | The Woman in the High Castle | 0.30% | ~637 |
+| A tale of adventurers not quite like the others... | 0.30% | ~637 |
 | I am the night | 0.30% | ~637 |
 | Team Building Exercise | 0.30% | ~637 |
 | Oh, when I'll be level 10... | 0.30% | ~637 |
 | Shiny and Crôm | 0.20% | ~425 |
-| The Statuette of Gladeulfeurah | 0.20% | ~425 |
 | Res Judicata | 0.20% | ~425 |
 | The Famous Dungeon of Naheulbeuk | 0.20% | ~425 |
-| A tale of adventurers not quite like the others... | 0.20% | ~425 |
 | Dwarf Fortress | 0.20% | ~425 |
 | Look but don't touch | 0.20% | ~425 |
 | The beards of change | 0.20% | ~425 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Sleep schedule mastery | 0.00% | ~0 |
 | Dumb and dumber | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 212,292 (Ranked 56)  
+Progressed: 212,322 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 2 (0.00%) (Ranked 255)
 | 2023-08-11 | 210,534 | 1 |
 | 2023-08-12 | 211,199 | 1 |
 | 2023-08-13 | 211,857 | 2 |
-| 2023-08-14 | 212,292 | 2 |
+| 2023-08-14 | 212,322 | 2 |
 ## Awards
 Max (Character Customization): 163  (Ranked 291)  
 Sum: 183 (Ranked 376)  

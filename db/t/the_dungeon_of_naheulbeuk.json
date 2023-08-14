@@ -642,7 +642,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 212292,
+  "EOS_Progressed": 212322,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 3835,
   "EOS_NewCompleters": 2,
@@ -6917,6 +6917,11 @@
       "Time": "2023-08-14T20:04:57.6962734+00:00",
       "NumProgressed": 212292,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-14T21:04:41.6507518+00:00",
+      "NumProgressed": 212322,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -6974,9 +6979,9 @@
       "ID": "Chapter1",
       "SetID": "50chcgj",
       "Name": "D\u00E9j\u00E0 vu",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1486
+      "UsersEstimate": 1699
     },
     {
       "ID": "Chapter2",
@@ -6984,7 +6989,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1061
+      "UsersEstimate": 1062
     },
     {
       "ID": "Chapter3",
@@ -7038,9 +7043,9 @@
       "ID": "Chapter9",
       "SetID": "50chcgj",
       "Name": "The Statuette of Gladeulfeurah",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 425
+      "UsersEstimate": 637
     },
     {
       "ID": "CollateralVictim",
@@ -7310,9 +7315,9 @@
       "ID": "DifficultyStory",
       "SetID": "50chcgj",
       "Name": "A tale of adventurers not quite like the others...",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 425
+      "UsersEstimate": 637
     },
     {
       "ID": "Dwarf30Insult",
@@ -7376,7 +7381,7 @@
       "Name": "Sowwy!",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 27598
+      "UsersEstimate": 27602
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -7392,7 +7397,7 @@
       "Name": "GG EZ",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1061
+      "UsersEstimate": 1062
     },
     {
       "ID": "EndCombatOneHp",
@@ -7400,7 +7405,7 @@
       "Name": "DM intervention",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1061
+      "UsersEstimate": 1062
     },
     {
       "ID": "EndGameCursed",
@@ -7576,7 +7581,7 @@
       "Name": "Speedrun",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1061
+      "UsersEstimate": 1062
     },
     {
       "ID": "SupportCount4",
@@ -7624,28 +7629,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1061
+      "UsersEstimate": 1062
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 212292,
+      "Progressed": 212322,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 212292,
+      "Progressed": 212322,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-13T20:01:39.3225851+00:00",
-  "LastChanged_Achievements": "2023-08-14T20:04:57.6962729+00:00",
+  "LastChanged_Achievements": "2023-08-14T21:04:41.650751+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:49.6773731+00:00",
-  "LastUpdate_Ratings": "2023-08-14T20:00:42.2917982+00:00",
-  "LastUpdate_Achievements": "2023-08-14T20:04:57.6964148+00:00"
+  "LastUpdate_Ratings": "2023-08-14T21:00:05.4491107+00:00",
+  "LastUpdate_Achievements": "2023-08-14T21:04:41.6509016+00:00"
 }

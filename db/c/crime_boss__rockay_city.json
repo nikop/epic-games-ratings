@@ -2938,10 +2938,16 @@
       "Rating": 3.94,
       "NumberOfAwards": 1889,
       "NumberOfAwardsMax": 402
+    },
+    {
+      "Time": "2023-08-14T20:57:04.7237308+00:00",
+      "Rating": 3.94,
+      "NumberOfAwards": 1893,
+      "NumberOfAwardsMax": 402
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 1889,
+  "NumberOfAwards": 1893,
   "NumberOfAwardsMax": 402,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -2973,7 +2979,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 363
+      "Count": 367
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2994,9 +3000,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 71829,
+  "EOS_Progressed": 71830,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 314,
+  "EOS_NewPlayers": 313,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -15164,6 +15170,11 @@
       "Time": "2023-08-14T19:07:22.018286+00:00",
       "NumProgressed": 71829,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-08-14T21:06:09.6016701+00:00",
+      "NumProgressed": 71830,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 37,
@@ -15175,7 +15186,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 35914
+      "UsersEstimate": 35915
     },
     {
       "ID": "ACH_0011",
@@ -15183,7 +15194,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 20830
+      "UsersEstimate": 20831
     },
     {
       "ID": "ACH_0012",
@@ -15215,7 +15226,7 @@
       "Name": "Legend Looter",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3591
+      "UsersEstimate": 3592
     },
     {
       "ID": "ACH_0016",
@@ -15319,7 +15330,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 46689
+      "UsersEstimate": 46690
     },
     {
       "ID": "ACH_0210",
@@ -15327,7 +15338,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 53153
+      "UsersEstimate": 53154
     },
     {
       "ID": "ACH_0211",
@@ -15470,22 +15481,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 71829,
+      "Progressed": 71830,
       "Completed": 38
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 176,
-      "Completed": 176
+      "Progressed": 177,
+      "Completed": 177
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-08-14T16:02:34.7148787+00:00",
-  "LastChanged_Achievements": "2023-08-14T20:06:44.3350923+00:00",
+  "LastChanged": "2023-08-14T20:57:04.7237305+00:00",
+  "LastChanged_Achievements": "2023-08-14T21:06:09.6016695+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:57.6056168+00:00",
-  "LastUpdate_Ratings": "2023-08-14T19:57:02.545023+00:00",
-  "LastUpdate_Achievements": "2023-08-14T20:06:44.3351943+00:00"
+  "LastUpdate_Ratings": "2023-08-14T20:57:04.7237313+00:00",
+  "LastUpdate_Achievements": "2023-08-14T21:06:09.6018608+00:00"
 }

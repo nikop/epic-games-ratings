@@ -10,7 +10,7 @@ Number of Ratings: 34  (23.09.2022)
 | I'm Alive | 53.00% | ~9,120 |
 | Look at Me Now | 28.00% | ~4,818 |
 | Danger Ahead | 27.00% | ~4,646 |
-| Don't Bring Me Down | 19.00% | ~3,270 |
+| Don't Bring Me Down | 20.00% | ~3,442 |
 | The Fall | 18.00% | ~3,097 |
 | Everyone's Born to Die | 16.00% | ~2,753 |
 | Wild West Hero | 14.00% | ~2,409 |

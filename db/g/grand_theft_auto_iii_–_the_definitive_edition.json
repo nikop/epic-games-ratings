@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewPlayers": 131,
   "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -424,9 +424,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7523,
+  "EOS_Progressed": 7524,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -7319,6 +7319,11 @@
       "Time": "2023-08-14T20:06:36.7525188+00:00",
       "NumProgressed": 7523,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-08-14T21:06:03.32351+00:00",
+      "NumProgressed": 7524,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 29,
@@ -7330,7 +7335,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 6244
+      "UsersEstimate": 6245
     },
     {
       "ID": "ACH02",
@@ -7402,7 +7407,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2106
+      "UsersEstimate": 2107
     },
     {
       "ID": "ACH11",
@@ -7561,7 +7566,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7523,
+      "Progressed": 7524,
       "Completed": 44
     }
   ],
@@ -7569,8 +7574,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-08-08T10:58:39.8660695+00:00",
-  "LastChanged_Achievements": "2023-08-14T20:06:36.7525182+00:00",
+  "LastChanged_Achievements": "2023-08-14T21:06:03.3235094+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:32.4221981+00:00",
-  "LastUpdate_Ratings": "2023-08-14T19:59:22.1807831+00:00",
-  "LastUpdate_Achievements": "2023-08-14T20:06:36.7525835+00:00"
+  "LastUpdate_Ratings": "2023-08-14T20:58:59.9728473+00:00",
+  "LastUpdate_Achievements": "2023-08-14T21:06:03.3235852+00:00"
 }

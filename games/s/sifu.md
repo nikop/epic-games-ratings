@@ -8,20 +8,20 @@ Number of Ratings: 9,492  (23.09.2022)
 | ---- | ---------- | ----- |
 | Diligence as a goal | 5.00% | ~1,086 |
 | Project Arena | 4.00% | ~869 |
-| The Old Grandmaster | 2.00% | ~14,248 |
-| The Assault | 2.00% | ~14,248 |
-| The Hateful Pole Fighter | 2.00% | ~14,248 |
-| A Lady's Blood in the Snow | 2.00% | ~14,248 |
-| Lady Wing Chun | 2.00% | ~14,248 |
-| Kill Nil | 2.00% | ~14,248 |
-| Street Fighting | 2.00% | ~14,248 |
-| Life is your teacher | 2.00% | ~14,248 |
-| State of constant learning | 2.00% | ~14,248 |
-| Qi Gong: Breath | 2.00% | ~14,248 |
-| Qi Gong: Essence | 2.00% | ~14,248 |
-| Lightning Hands | 2.00% | ~14,248 |
-| Path of the Prospect | 2.00% | ~14,248 |
-| Rumble in the Hangar | 2.00% | ~14,248 |
+| The Old Grandmaster | 2.00% | ~14,249 |
+| The Assault | 2.00% | ~14,249 |
+| The Hateful Pole Fighter | 2.00% | ~14,249 |
+| A Lady's Blood in the Snow | 2.00% | ~14,249 |
+| Lady Wing Chun | 2.00% | ~14,249 |
+| Kill Nil | 2.00% | ~14,249 |
+| Street Fighting | 2.00% | ~14,249 |
+| Life is your teacher | 2.00% | ~14,249 |
+| State of constant learning | 2.00% | ~14,249 |
+| Qi Gong: Breath | 2.00% | ~14,249 |
+| Qi Gong: Essence | 2.00% | ~14,249 |
+| Lightning Hands | 2.00% | ~14,249 |
+| Path of the Prospect | 2.00% | ~14,249 |
+| Rumble in the Hangar | 2.00% | ~14,249 |
 | Bloody Sport | 2.00% | ~435 |
 | Furious Fists | 1.00% | ~7,124 |
 | Scareless | 1.00% | ~7,124 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,425 |
 | Warriors from the Mountain | 0.10% | ~712 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 712,425 (Ranked 20)  
+Progressed: 712,426 (Ranked 20)  
 Completed: 12,858 (1.80%) (Ranked 94)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,7 +173,7 @@ Completed: 12,858 (1.80%) (Ranked 94)
 | 2023-08-11 | 712,356 | 12,853 |
 | 2023-08-12 | 712,382 | 12,856 |
 | 2023-08-13 | 712,406 | 12,857 |
-| 2023-08-14 | 712,425 | 12,858 |
+| 2023-08-14 | 712,426 | 12,858 |
 ## Awards
 Max (Great Boss Battles): 6,368  (Ranked 55)  
 Sum: 10,935 (Ranked 82)  

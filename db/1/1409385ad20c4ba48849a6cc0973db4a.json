@@ -4,8 +4,8 @@
   "ProductSlug": "boti-byteland-overclocked-3a40c3",
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 357,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 356,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-10T15:57:09.4070819+00:00",
-  "LastUpdate_Ratings": "2023-08-14T19:58:15.9873881+00:00",
-  "LastUpdate_Achievements": "2023-08-14T20:04:29.5152369+00:00"
+  "LastUpdate_Ratings": "2023-08-14T20:58:10.5354543+00:00",
+  "LastUpdate_Achievements": "2023-08-14T21:04:18.614092+00:00"
 }

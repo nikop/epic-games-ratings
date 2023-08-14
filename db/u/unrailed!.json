@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 26,
   "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 24,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-04-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-23T00:00:00+00:00",
@@ -2552,9 +2552,9 @@
       "Count": 144
     }
   ],
-  "EOS_Progressed": 633957,
+  "EOS_Progressed": 633979,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 3212,
+  "EOS_NewPlayers": 3203,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15307,6 +15307,11 @@
       "Time": "2023-08-14T20:05:28.4238015+00:00",
       "NumProgressed": 633957,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-08-14T21:05:06.7307717+00:00",
+      "NumProgressed": 633979,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -15318,7 +15323,7 @@
       "Name": "Stroller",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 88754
+      "UsersEstimate": 88757
     },
     {
       "ID": "_01_01_DISTANCE_200_EASY",
@@ -15326,7 +15331,7 @@
       "Name": "Hiker",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 69735
+      "UsersEstimate": 69738
     },
     {
       "ID": "_01_02_DISTANCE_500_EASY",
@@ -15358,7 +15363,7 @@
       "Name": "Advanced Stroller",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 101433
+      "UsersEstimate": 101437
     },
     {
       "ID": "_01_06_DISTANCE_200_MEDIUM",
@@ -15366,7 +15371,7 @@
       "Name": "Advanced Hiker",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 76075
+      "UsersEstimate": 76077
     },
     {
       "ID": "_01_07_DISTANCE_500_MEDIUM",
@@ -15406,7 +15411,7 @@
       "Name": "Expert Hiker",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 12679
+      "UsersEstimate": 12680
     },
     {
       "ID": "_01_12_DISTANCE_500_HARD",
@@ -15438,7 +15443,7 @@
       "Name": "Toy Train",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 76075
+      "UsersEstimate": 76077
     },
     {
       "ID": "_01_21_TRACKS_1000",
@@ -15486,7 +15491,7 @@
       "Name": "Marathon",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 12679
+      "UsersEstimate": 12680
     },
     {
       "ID": "_02_00_DUCKY_DANGER",
@@ -15518,7 +15523,7 @@
       "Name": "Destructionist",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 12679
+      "UsersEstimate": 12680
     },
     {
       "ID": "_02_04_INDUSTRIALIST",
@@ -15566,7 +15571,7 @@
       "Name": "Incurious",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 101433
+      "UsersEstimate": 101437
     },
     {
       "ID": "_03_01_MOJAVE_COURIER",
@@ -15574,7 +15579,7 @@
       "Name": "Mojave Courier",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 31698
+      "UsersEstimate": 31699
     },
     {
       "ID": "_03_02_NANUK",
@@ -15638,7 +15643,7 @@
       "Name": "Climate Change",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 88754
+      "UsersEstimate": 88757
     },
     {
       "ID": "_11_00_FIRE_FIGHTER",
@@ -15726,22 +15731,22 @@
       "Name": "Saved by Nausica\u00E4",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 25358
+      "UsersEstimate": 25359
     }
   ],
   "AchievementSets": [
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 633957,
+      "Progressed": 633979,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2023-08-10T21:59:02.2312674+00:00",
-  "LastChanged_Achievements": "2023-08-14T20:05:28.4238009+00:00",
+  "LastChanged_Achievements": "2023-08-14T21:05:06.7307711+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:18.597499+00:00",
-  "LastUpdate_Ratings": "2023-08-14T19:58:55.422767+00:00",
-  "LastUpdate_Achievements": "2023-08-14T20:05:28.4239256+00:00"
+  "LastUpdate_Ratings": "2023-08-14T20:58:37.5114823+00:00",
+  "LastUpdate_Achievements": "2023-08-14T21:05:06.7309184+00:00"
 }

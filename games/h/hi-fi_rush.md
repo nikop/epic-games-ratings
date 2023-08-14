@@ -47,7 +47,7 @@ Rating: 4.88 (Ranked 18)
 | I'm not done with you yet | 0.70% | ~27 |
 | First we parry, then we counter | 0.70% | ~27 |
 | This is a breeze! | 0.60% | ~23 |
-| New bad guys? No problem! | 0.60% | ~14 |
+| New bad guys? No problem! | 0.60% | ~15 |
 | Easy Listening | 0.40% | ~16 |
 | OK, well THEY came after ME! | 0.40% | ~16 |
 | You ever parry a volcano? | 0.40% | ~16 |
@@ -77,7 +77,7 @@ Rating: 4.88 (Ranked 18)
 | Voices from within | 0.10% | ~2 |
 | Low budget finish | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,895 (Ranked 147)  
+Progressed: 3,896 (Ranked 147)  
 Completed: 7 (0.18%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 7 (0.18%) (Ranked 185)
 | 2023-08-11 | 3,855 | 7 |
 | 2023-08-12 | 3,868 | 7 |
 | 2023-08-13 | 3,885 | 7 |
-| 2023-08-14 | 3,895 | 7 |
+| 2023-08-14 | 3,896 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

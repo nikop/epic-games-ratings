@@ -43,10 +43,10 @@ Number of Ratings: 34  (23.09.2022)
 | Collectibles of Chapter VII | 6.00% | ~28 |
 | Collectibles of Chapter XII | 6.00% | ~28 |
 | Collectibles of Chapter VIII | 5.00% | ~23 |
+| Collectibles of Chapter XI | 5.00% | ~23 |
 | It Will Rain | 5.00% | ~23 |
 | Not Spill a Drop | 5.00% | ~23 |
 | Collectibles of Chapter X | 4.00% | ~18 |
-| Collectibles of Chapter XI | 4.00% | ~18 |
 | The Good Samaritan | 4.00% | ~18 |
 | Collectibles of Chapter VI | 3.00% | ~14 |
 | Collectibles of Chapter IX | 3.00% | ~14 |

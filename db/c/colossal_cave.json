@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-01-19T05:00:00+00:00",
     "PcReleaseDate": "2023-01-19T05:00:00+00:00",
@@ -216,9 +216,9 @@
       "ID": "14-EggOnHisFace",
       "SetID": "5iij4gg",
       "Name": "Egg On His Face",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "15-BJAndTheBear",
@@ -264,9 +264,9 @@
       "ID": "20-SoftHands",
       "SetID": "5iij4gg",
       "Name": "Soft Hands",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "21-ColossalCaveExplorer",
@@ -313,8 +313,8 @@
   "FirstSeenRating": "2023-03-31T05:57:02.114987+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.1369826+00:00",
   "LastChanged": "2023-03-31T05:57:02.1149872+00:00",
-  "LastChanged_Achievements": "2023-08-14T20:04:31.3044355+00:00",
+  "LastChanged_Achievements": "2023-08-14T21:04:20.3034425+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:02.6571781+00:00",
-  "LastUpdate_Ratings": "2023-08-14T19:57:58.3601706+00:00",
-  "LastUpdate_Achievements": "2023-08-14T20:04:31.304458+00:00"
+  "LastUpdate_Ratings": "2023-08-14T20:57:55.6278347+00:00",
+  "LastUpdate_Achievements": "2023-08-14T21:04:20.3034585+00:00"
 }

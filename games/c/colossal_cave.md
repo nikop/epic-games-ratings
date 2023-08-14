@@ -19,10 +19,10 @@
 | Redbeard's Revenger | 11.00% | ~10 |
 | BJ & The Bear | 11.00% | ~10 |
 | Who dat? | 9.00% | ~8 |
+| Soft Hands | 9.00% | ~8 |
 | Can't bear the weight | 8.00% | ~7 |
+| Egg On His Face | 8.00% | ~7 |
 | Mr. Magic | 8.00% | ~7 |
-| Soft Hands | 8.00% | ~7 |
-| Egg On His Face | 7.00% | ~6 |
 | Batteries not Included | 7.00% | ~6 |
 | What a Winner! | 6.00% | ~5 |
 | Master Cave Plunderer | 4.00% | ~4 |

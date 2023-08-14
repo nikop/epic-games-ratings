@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 60855,
+  "EOS_Progressed": 60858,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 381,
+  "EOS_NewPlayers": 382,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -11252,6 +11252,11 @@
       "Time": "2023-08-14T20:05:50.3033212+00:00",
       "NumProgressed": 60855,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-14T21:05:25.5414067+00:00",
+      "NumProgressed": 60858,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -11263,7 +11268,7 @@
       "Name": "Follow the Light",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 22516
+      "UsersEstimate": 22517
     },
     {
       "ID": "02",
@@ -11279,7 +11284,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 13388
+      "UsersEstimate": 13389
     },
     {
       "ID": "04",
@@ -11295,7 +11300,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 12171
+      "UsersEstimate": 12172
     },
     {
       "ID": "06",
@@ -11327,7 +11332,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7911
+      "UsersEstimate": 7912
     },
     {
       "ID": "10",
@@ -11423,7 +11428,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7911
+      "UsersEstimate": 7912
     },
     {
       "ID": "22",
@@ -11455,7 +11460,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4868
+      "UsersEstimate": 4869
     },
     {
       "ID": "26",
@@ -11503,7 +11508,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9128
+      "UsersEstimate": 9129
     },
     {
       "ID": "32",
@@ -11511,7 +11516,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 17648
+      "UsersEstimate": 17649
     },
     {
       "ID": "33",
@@ -11519,7 +11524,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7911
+      "UsersEstimate": 7912
     },
     {
       "ID": "34",
@@ -11535,7 +11540,7 @@
       "Name": "Let There Be Light",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 18256
+      "UsersEstimate": 18257
     },
     {
       "ID": "36",
@@ -11583,7 +11588,7 @@
       "Name": "Finders Keepers",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9128
+      "UsersEstimate": 9129
     },
     {
       "ID": "42",
@@ -11671,7 +11676,7 @@
       "Name": "A Friend Indeed",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1459
+      "UsersEstimate": 1460
     },
     {
       "ID": "53",
@@ -11759,7 +11764,7 @@
       "Name": "Iron Will",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "64",
@@ -11798,21 +11803,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 60855,
+      "Progressed": 60858,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 24323,
+      "Progressed": 24326,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-14T20:05:50.3033207+00:00",
+  "LastChanged_Achievements": "2023-08-14T21:05:25.541406+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:20.2881971+00:00",
-  "LastUpdate_Ratings": "2023-08-14T19:59:09.2584616+00:00",
-  "LastUpdate_Achievements": "2023-08-14T20:05:50.3034568+00:00"
+  "LastUpdate_Ratings": "2023-08-14T20:58:49.2410593+00:00",
+  "LastUpdate_Achievements": "2023-08-14T21:05:25.5416175+00:00"
 }

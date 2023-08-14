@@ -5,23 +5,23 @@ Rating: 4.50 (Ranked 559)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 75.00% | ~1,345 |
-| A new Journey | 74.00% | ~1,327 |
-| Departure | 73.00% | ~1,309 |
-| From X to Y | 72.00% | ~1,291 |
-| Way of Iron | 70.00% | ~1,255 |
-| Mystery Tour | 69.00% | ~1,237 |
-| We brake for nobody | 67.00% | ~1,201 |
-| Brainstorm | 66.00% | ~1,183 |
-| Travel Company | 65.00% | ~1,165 |
+| Country Bumpkin | 75.00% | ~1,346 |
+| A new Journey | 74.00% | ~1,328 |
+| Departure | 73.00% | ~1,310 |
+| From X to Y | 72.00% | ~1,292 |
+| Way of Iron | 70.00% | ~1,256 |
+| Mystery Tour | 69.00% | ~1,238 |
+| We brake for nobody | 67.00% | ~1,202 |
+| Brainstorm | 66.00% | ~1,184 |
+| Travel Company | 65.00% | ~1,166 |
 | Mind the Gap | 64.00% | ~1,148 |
 | All around the World | 62.00% | ~1,112 |
-| Right through the middle | 57.00% | ~1,022 |
-| Facility Manager | 53.00% | ~950 |
-| Poor Devil | 53.00% | ~950 |
-| Producer | 50.00% | ~896 |
+| Right through the middle | 57.00% | ~1,023 |
+| Poor Devil | 54.00% | ~969 |
+| Facility Manager | 53.00% | ~951 |
+| Producer | 50.00% | ~897 |
 | Apprentice | 42.00% | ~753 |
-| Bridge Builder | 41.00% | ~735 |
+| Bridge Builder | 41.00% | ~736 |
 | Access granted | 35.00% | ~628 |
 | Going once, going twice, sold | 35.00% | ~628 |
 | Stoker | 33.00% | ~592 |
@@ -34,7 +34,7 @@ Rating: 4.50 (Ranked 559)
 | Country Life | 27.00% | ~484 |
 | General Manager | 26.00% | ~466 |
 | Hostile Takeover | 25.00% | ~448 |
-| Seven at one stroke | 24.00% | ~430 |
+| Seven at one stroke | 24.00% | ~431 |
 | Trailblazer | 21.00% | ~377 |
 | Breaking Ground | 21.00% | ~377 |
 | Traffic Junction | 20.00% | ~359 |
@@ -61,7 +61,7 @@ Rating: 4.50 (Ranked 559)
 | Together we stand | 0.60% | ~11 |
 | Three Cheers for Progress | 0.40% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,793 (Ranked 173)  
+Progressed: 1,794 (Ranked 173)  
 Completed: 0 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 0 (0.00%) (Ranked 255)
 | 2023-08-11 | 1,785 | 0 |
 | 2023-08-12 | 1,787 | 0 |
 | 2023-08-13 | 1,789 | 0 |
-| 2023-08-14 | 1,793 | 0 |
+| 2023-08-14 | 1,794 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

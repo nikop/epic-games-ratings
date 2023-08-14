@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 244,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -744,7 +744,7 @@
       "ID": "ACH_CONNECT_19_LAMPS_TO_SWITCH",
       "SetID": "al4k4nh",
       "Name": "One to rule them all",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -752,9 +752,9 @@
       "ID": "ACH_CONNECT_EXTENSION_CORD_SELF",
       "SetID": "al4k4nh",
       "Name": "Electuum Mobile",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_END_ALL_MAIL_MISSIONS",
@@ -864,17 +864,17 @@
       "ID": "ACH_GO_TO_MISSION_WITHOUT_NEEDED_ITEMS",
       "SetID": "al4k4nh",
       "Name": "I like the risk",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 63
     },
     {
       "ID": "ACH_LISTEN_ALL_MUSIC",
       "SetID": "al4k4nh",
       "Name": "Audiophile",
-      "Percentage": 0.4,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_PLACE_FIRST_ITEM_IN_OFFICE",
@@ -951,8 +951,8 @@
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2023-08-14T20:06:39.6940536+00:00",
+  "LastChanged_Achievements": "2023-08-14T21:06:05.7966735+00:00",
   "LastUpdate_AppInfo": "2023-08-09T17:56:58.4992812+00:00",
-  "LastUpdate_Ratings": "2023-08-14T19:58:34.6293564+00:00",
-  "LastUpdate_Achievements": "2023-08-14T20:06:39.6940764+00:00"
+  "LastUpdate_Ratings": "2023-08-14T20:58:23.7217587+00:00",
+  "LastUpdate_Achievements": "2023-08-14T21:06:05.7970082+00:00"
 }
