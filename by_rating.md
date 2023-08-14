@@ -149,7 +149,7 @@
 | 146 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 803 | 155 |
 | 146 | [Haven](games/h/haven.md) | 4.74 | 0 | 512 |
 | 146 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 7,122 | 48 |
-| 146 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 657 | 174 |
+| 146 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 658 | 174 |
 | 146 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,935 | 49 |
 | 146 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.74 | 0 | 512 |
 | 146 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 35,975 | 14 |
@@ -355,7 +355,7 @@
 | 342 | [Limbo](games/l/limbo.md) | 4.62 | 0 | 512 |
 | 342 | [NORCO](games/n/norco.md) | 4.62 | 0 | 512 |
 | 342 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.62 | 0 | 512 |
-| 342 | [Prey](games/p/prey.md) | 4.62 | 5,634 | 64 |
+| 342 | [Prey](games/p/prey.md) | 4.62 | 5,637 | 64 |
 | 342 | [Returnal™](games/r/returnal™.md) | 4.62 | 61 | 389 |
 | 342 | [Roguebook](games/r/roguebook.md) | 4.62 | 0 | 512 |
 | 342 | [System Shock](games/s/system_shock.md) | 4.62 | 0 | 512 |
@@ -391,7 +391,7 @@
 | 389 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.60 | 707 | 168 |
 | 389 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 13,176 | 28 |
 | 389 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.60 | 0 | 512 |
-| 389 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 4,486 | 73 |
+| 389 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 4,494 | 73 |
 | 389 | [Control](games/c/control.md) | 4.60 | 8,442 | 40 |
 | 389 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 4.60 | 0 | 512 |
 | 389 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 219 | 264 |
@@ -759,20 +759,20 @@
 | 756 | [Backbone](games/b/backbone.md) | 4.34 | 0 | 512 |
 | 756 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 119 | 318 |
 | 756 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.34 | 0 | 512 |
-| 756 | [Encased](games/e/encased.md) | 4.34 | 138 | 304 |
+| 756 | [Encased](games/e/encased.md) | 4.34 | 138 | 305 |
 | 756 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.34 | 0 | 512 |
 | 756 | [Paladins](games/p/paladins.md) | 4.34 | 3,508 | 84 |
 | 756 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 248 | 252 |
-| 756 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 4.34 | 33 | 447 |
 | 756 | [Torchlight](games/t/torchlight.md) | 4.34 | 21 | 500 |
-| 766 | [Ashen](games/a/ashen.md) | 4.33 | 0 | 512 |
-| 766 | [House Party](games/h/house_party.md) | 4.33 | 0 | 512 |
-| 766 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.33 | 0 | 512 |
-| 766 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.33 | 21 | 500 |
-| 766 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 0 | 512 |
-| 766 | [Rogue Company](games/r/rogue_company.md) | 4.33 | 5,257 | 66 |
-| 766 | [Speed Brawl](games/s/speed_brawl.md) | 4.33 | 29 | 465 |
-| 766 | [War Mongrels](games/w/war_mongrels.md) | 4.33 | 0 | 512 |
+| 765 | [Ashen](games/a/ashen.md) | 4.33 | 0 | 512 |
+| 765 | [House Party](games/h/house_party.md) | 4.33 | 0 | 512 |
+| 765 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.33 | 0 | 512 |
+| 765 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.33 | 21 | 500 |
+| 765 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 0 | 512 |
+| 765 | [Rogue Company](games/r/rogue_company.md) | 4.33 | 5,257 | 66 |
+| 765 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 4.33 | 33 | 447 |
+| 765 | [Speed Brawl](games/s/speed_brawl.md) | 4.33 | 29 | 465 |
+| 765 | [War Mongrels](games/w/war_mongrels.md) | 4.33 | 0 | 512 |
 | 774 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 356 | 225 |
 | 774 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.32 | 58 | 392 |
 | 774 | [Filament](games/f/filament.md) | 4.32 | 560 | 189 |
@@ -873,7 +873,7 @@
 | 868 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 341 |
 | 868 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.18 | 0 | 512 |
 | 868 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 0 | 512 |
-| 868 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 4.18 | 138 | 304 |
+| 868 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 4.18 | 139 | 304 |
 | 875 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.17 | 0 | 512 |
 | 875 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.17 | 0 | 512 |
 | 875 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 0 | 512 |

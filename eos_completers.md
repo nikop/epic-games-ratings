@@ -30,7 +30,7 @@
 | 28 | [Sonic Origins](games/s/sonic_origins.md) | 9.67% |
 | 29 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.30% |
 | 30 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 9.09% |
-| 31 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.00% |
+| 31 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.99% |
 | 32 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.48% |
 | 33 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 7.94% |
 | 34 | [Smelter](games/s/smelter.md) | 7.69% |
@@ -95,7 +95,7 @@
 | 93 | [Frogun](games/f/frogun.md) | 1.81% |
 | 94 | [Sifu](games/s/sifu.md) | 1.80% |
 | 95 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.68% |
-| 96 | [Iron Danger](games/i/iron_danger.md) | 1.63% |
+| 96 | [Iron Danger](games/i/iron_danger.md) | 1.62% |
 | 97 | [Somerville](games/s/somerville.md) | 1.61% |
 | 98 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.60% |
 | 99 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.58% |
