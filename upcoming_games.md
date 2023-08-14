@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Galactic Defender](games/d/d5b4322bbf1f49b981ddc340e64be4df.md) | 2023-08-14 | - |  | - | - |
 | [Forklift 2024 - The Simulation](games/0/0862b356073847109ed433f008822505.md) | 2023-08-14 | - |  | - | - |
 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 2023-08-15 | 17 (1,000 XP) | 3 | - | - |
 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 2023-08-15 | 43 (1,000 XP) | 0 | - | - |
@@ -10,7 +9,7 @@
 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 2023-08-17 | 68 (1,000 XP) | 0 | - | - |
 | [Marble It Up! Ultra](games/2/267b56359a8c45ee9154861187de210b.md) | 2023-08-17 | 86 (1,000 XP) | 1 | - | - |
 | [Quantum Recharged](games/9/9161d1b30f4e4a0cbec5ee398d6e5cd6.md) | 2023-08-17 | 13 (1,000 XP) | 0 | - | - |
-| [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2023-08-17 | 26 (1,000 XP) | 26 | - | - |
+| [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2023-08-17 | 26 (1,000 XP) | 27 | - | - |
 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 2023-08-18 | - |  | - | - |
 | [Find the Oil Racing Edition](games/3/3b665944a4764f9882d99296d2010265.md) | 2023-08-19 | - |  | - | - |
 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 2023-08-21 | 5 (1,000 XP) | 2 | - | - |
@@ -78,7 +77,7 @@
 | [Shalnor Legends 2: Trials of Thunder](games/d/d26c3a62ed20492f90a07c3a27e8db97.md) | 2023-09-30 | - |  | - | - |
 | [Smurfs Kart](games/0/017ffe3b2bdc41e5a7a4dca5eec73fc4.md) | 2023-09-30 | - |  | - | - |
 | [Team Disorder](games/9/9c9cc8a992404fb8925827eed7a7f500.md) | 2023-09-30 | - |  | - | - |
-| [The Devil's Face](games/t/the_devil's_face.md) | 2023-09-30 | 14 (1,000 XP) | 255 | - | - |
+| [The Devil's Face](games/t/the_devil's_face.md) | 2023-09-30 | 14 (1,000 XP) | 256 | - | - |
 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 2023-09-30 | - |  | - | - |
 | [The Riflemen](games/t/the_riflemen.md) | 2023-09-30 | - |  | - | - |
 | [The Wild Case](games/2/21c2551943894e5d92fd8e7f3ed1f58d.md) | 2023-09-30 | 18 (1,000 XP) | 0 | - | - |
@@ -356,6 +355,7 @@
 | [Shrine's Legacy](games/s/shrine's_legacy.md) | 2099-01-01 | - |  | - | - |
 | [Smelogs Playground](games/1/16e5cbb017bc4cc8a304791d27ed982c.md) | 2099-01-01 | - |  | - | - |
 | [Soliloquy](games/s/soliloquy.md) | 2099-01-01 | - |  | - | - |
+| [Soul War](games/5/57a8c2548bc244558f5bd74fe7fe85c5.md) | 2099-01-01 | - |  | - | - |
 | [Space Chef](games/7/74bc63c48667442dad23f44f7daec969.md) | 2099-01-01 | - |  | - | - |
 | [Space Nation Online](games/1/12dc38cab446471a86b3c78ba31d0a5f.md) | 2099-01-01 | - |  | - | - |
 | [Spirittea](games/s/spirittea.md) | 2099-01-01 | - |  | - | - |

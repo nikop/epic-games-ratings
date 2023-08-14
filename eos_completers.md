@@ -5,11 +5,11 @@
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 38.64% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
 | 5 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
-| 6 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 25.00% |
 | 6 | [Overloop](games/o/overloop.md) | 25.00% |
-| 8 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
+| 7 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
+| 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 24.32% |
 | 9 | [Volley Pals](games/v/volley_pals.md) | 23.91% |
-| 10 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 23.39% |
+| 10 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 23.20% |
 | 11 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 11 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 13 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
@@ -30,14 +30,14 @@
 | 28 | [Sonic Origins](games/s/sonic_origins.md) | 9.67% |
 | 29 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.30% |
 | 30 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 9.09% |
-| 31 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.99% |
+| 31 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.98% |
 | 32 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.48% |
 | 33 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 7.94% |
 | 34 | [Smelter](games/s/smelter.md) | 7.69% |
 | 35 | [Ravenlok](games/r/ravenlok.md) | 7.53% |
 | 36 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.37% |
 | 37 | [Scorn](games/s/scorn.md) | 6.92% |
-| 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.88% |
+| 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.87% |
 | 39 | [Time Loader](games/t/time_loader.md) | 6.78% |
 | 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.44% |
 | 41 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
@@ -58,7 +58,7 @@
 | 56 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.19% |
 | 57 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.05% |
 | 58 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.90% |
-| 59 | [ZZT!](games/z/zzt!.md) | 3.72% |
+| 59 | [ZZT!](games/z/zzt!.md) | 3.75% |
 | 60 | [Without Escape](games/w/without_escape.md) | 3.70% |
 | 61 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 62 | [Doodle God](games/d/doodle_god.md) | 3.46% |
@@ -132,8 +132,8 @@
 | 129 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.63% |
 | 131 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
 | 132 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.60% |
-| 133 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.59% |
 | 133 | [Potion Permit](games/p/potion_permit.md) | 0.59% |
+| 134 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.58% |
 | 135 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.57% |
 | 136 | [Grindstone](games/g/grindstone.md) | 0.56% |
 | 137 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.55% |
@@ -541,4 +541,4 @@
 | 255 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 255 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 255 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,044 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,045 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
