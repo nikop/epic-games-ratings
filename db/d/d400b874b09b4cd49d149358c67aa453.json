@@ -822,9 +822,9 @@
       "ID": "ACH_FIX_OUTLETS",
       "SetID": "al4k4nh",
       "Name": "Here comes electricity",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_GET_ALL_MAILS",
@@ -941,8 +941,8 @@
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2023-08-14T06:06:34.3776656+00:00",
+  "LastChanged_Achievements": "2023-08-14T07:06:14.7572797+00:00",
   "LastUpdate_AppInfo": "2023-08-09T17:56:58.4992812+00:00",
-  "LastUpdate_Ratings": "2023-08-14T05:58:15.5439758+00:00",
-  "LastUpdate_Achievements": "2023-08-14T06:06:34.3777023+00:00"
+  "LastUpdate_Ratings": "2023-08-14T06:58:21.8783893+00:00",
+  "LastUpdate_Achievements": "2023-08-14T07:06:14.7573249+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -496,9 +496,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3301,
+  "EOS_Progressed": 3302,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4071,6 +4071,11 @@
       "Time": "2023-08-14T02:18:19.8116843+00:00",
       "NumProgressed": 3301,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-14T07:04:26.290998+00:00",
+      "NumProgressed": 3302,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 42,
@@ -4122,7 +4127,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1419
+      "UsersEstimate": 1420
     },
     {
       "ID": "CrowdPleaser",
@@ -4146,7 +4151,7 @@
       "Name": "Eureka",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1056
+      "UsersEstimate": 1057
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -4290,7 +4295,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 858
+      "UsersEstimate": 859
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -4306,7 +4311,7 @@
       "Name": "Tapped!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1221
+      "UsersEstimate": 1222
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -4417,15 +4422,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3301,
+      "Progressed": 3302,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-07-11T02:15:21.6079736+00:00",
-  "LastChanged_Achievements": "2023-08-14T06:04:25.8069088+00:00",
+  "LastChanged_Achievements": "2023-08-14T07:04:26.2909975+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:38.7353115+00:00",
-  "LastUpdate_Ratings": "2023-08-14T05:59:02.7505028+00:00",
-  "LastUpdate_Achievements": "2023-08-14T06:04:25.8069767+00:00"
+  "LastUpdate_Ratings": "2023-08-14T06:59:01.7825917+00:00",
+  "LastUpdate_Achievements": "2023-08-14T07:04:26.291039+00:00"
 }

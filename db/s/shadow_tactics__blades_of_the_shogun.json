@@ -1411,9 +1411,9 @@
       "Count": 245
     }
   ],
-  "EOS_Progressed": 193511,
+  "EOS_Progressed": 193515,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 1647,
+  "EOS_NewPlayers": 1641,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -14171,6 +14171,11 @@
       "Time": "2023-08-14T06:03:05.5574746+00:00",
       "NumProgressed": 193511,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-08-14T07:03:19.1330738+00:00",
+      "NumProgressed": 193515,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 44,
@@ -14246,7 +14251,7 @@
       "Name": "Gear up",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 7740
+      "UsersEstimate": 7741
     },
     {
       "ID": "Genin",
@@ -14254,7 +14259,7 @@
       "Name": "Genin",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 21286
+      "UsersEstimate": 21287
     },
     {
       "ID": "HappyLittleAccidents",
@@ -14262,7 +14267,7 @@
       "Name": "Happy little accidents",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 7740
+      "UsersEstimate": 7741
     },
     {
       "ID": "HappyPlanning",
@@ -14382,7 +14387,7 @@
       "Name": "Prisoners",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 7740
+      "UsersEstimate": 7741
     },
     {
       "ID": "ReleaseTheKraken",
@@ -14470,7 +14475,7 @@
       "Name": "Thorough",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 19351
+      "UsersEstimate": 19352
     },
     {
       "ID": "TimeParadox",
@@ -14494,7 +14499,7 @@
       "Name": "Too Early",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 7740
+      "UsersEstimate": 7741
     },
     {
       "ID": "Warzone",
@@ -14533,15 +14538,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 193511,
+      "Progressed": 193515,
       "Completed": 69
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-08-11T12:01:01.4725424+00:00",
-  "LastChanged_Achievements": "2023-08-14T06:03:05.5574735+00:00",
+  "LastChanged_Achievements": "2023-08-14T07:03:19.1330733+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:56.0333246+00:00",
-  "LastUpdate_Ratings": "2023-08-14T06:00:17.2319257+00:00",
-  "LastUpdate_Achievements": "2023-08-14T06:03:05.5576703+00:00"
+  "LastUpdate_Ratings": "2023-08-14T06:59:57.6425278+00:00",
+  "LastUpdate_Achievements": "2023-08-14T07:03:19.1331599+00:00"
 }

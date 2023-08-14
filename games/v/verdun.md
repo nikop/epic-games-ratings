@@ -6,28 +6,28 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 77.00% | ~42,342 |
-| Worth it | 63.00% | ~34,643 |
-| Eagle Eye | 55.00% | ~30,244 |
-| Corpseman I | 40.00% | ~21,996 |
-| Blast fishing | 37.00% | ~20,346 |
-| Not alone | 32.00% | ~17,596 |
-| Headhunter I | 26.00% | ~14,297 |
-| Manual Labour I | 25.00% | ~13,747 |
-| Developers, Developers, Developers | 24.00% | ~13,197 |
-| Basic Training | 24.00% | ~13,197 |
+| Setting an example | 77.00% | ~42,345 |
+| Worth it | 63.00% | ~34,646 |
+| Eagle Eye | 55.00% | ~30,247 |
+| Corpseman I | 40.00% | ~21,998 |
+| Blast fishing | 37.00% | ~20,348 |
+| Not alone | 32.00% | ~17,598 |
+| Headhunter I | 26.00% | ~14,298 |
+| Manual Labour I | 25.00% | ~13,748 |
+| Developers, Developers, Developers | 24.00% | ~13,199 |
+| Basic Training | 24.00% | ~13,199 |
 | Furchtlos und Treu | 13.00% | ~7,149 |
 | Gott Mit Uns | 12.00% | ~6,599 |
 | This We'll Defend! | 9.00% | ~4,949 |
 | Anker wirf! | 9.00% | ~4,949 |
 | Providentiea Memor | 9.00% | ~4,949 |
 | For King and Country | 9.00% | ~4,949 |
-| Battle hardened | 8.00% | ~4,399 |
-| Semper Fidelis! | 7.00% | ~3,849 |
-| Honneur et Patrie | 7.00% | ~3,849 |
-| In Treue Fest | 5.00% | ~2,749 |
-| Voor De Koning | 5.00% | ~2,749 |
-| Extreme Headhunter | 5.00% | ~2,749 |
+| Battle hardened | 8.00% | ~4,400 |
+| Semper Fidelis! | 7.00% | ~3,850 |
+| Honneur et Patrie | 7.00% | ~3,850 |
+| In Treue Fest | 5.00% | ~2,750 |
+| Voor De Koning | 5.00% | ~2,750 |
+| Extreme Headhunter | 5.00% | ~2,750 |
 | Advance Australia | 4.00% | ~2,200 |
 | We Stand on Guard | 4.00% | ~2,200 |
 | Sidi Brahim | 4.00% | ~2,200 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~55 |
 | Blood Brother | 0.10% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,989 (Ranked 88)  
+Progressed: 54,994 (Ranked 88)  
 Completed: 4 (0.01%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,7 +182,7 @@ Completed: 4 (0.01%) (Ranked 242)
 | 2023-08-11 | 54,757 | 4 |
 | 2023-08-12 | 54,853 | 4 |
 | 2023-08-13 | 54,968 | 4 |
-| 2023-08-14 | 54,989 | 4 |
+| 2023-08-14 | 54,994 | 4 |
 ## Awards
 Max (Highly Recommended): 96  (Ranked 341)  
 Sum: 765 (Ranked 265)  

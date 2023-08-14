@@ -4,7 +4,7 @@
   "ProductSlug": "shadow-man-remastered",
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 361,
+  "Ranking_EOS_NewPlayers": 362,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2021-04-15T17:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:44.1751027+00:00",
   "LastChanged": "2023-03-31T05:57:44.1751027+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:41.2277357+00:00",
-  "LastUpdate_Ratings": "2023-08-14T06:00:52.4475967+00:00",
-  "LastUpdate_Achievements": "2023-08-14T06:04:49.1981957+00:00"
+  "LastUpdate_Ratings": "2023-08-14T07:00:25.9849796+00:00",
+  "LastUpdate_Achievements": "2023-08-14T07:04:46.058265+00:00"
 }

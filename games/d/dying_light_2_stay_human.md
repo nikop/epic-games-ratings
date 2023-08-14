@@ -1,39 +1,39 @@
 # Dying Light 2 Stay Human
 [Store](https://store.epicgames.com/en-US/p/dying-light-2-stay-human)  
 [View Rawdata](../../db/d/dying_light_2_stay_human.json)  
-Rating: 4.58 (Ranked 426)  
+Rating: 4.58 (Ranked 425)  
 Number of Ratings: 7,305  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 11.00% | ~67,276 |
-| Into the Unknown | 10.00% | ~61,160 |
-| First Shot | 10.00% | ~61,160 |
-| Herzlich Wilkommen! | 9.00% | ~55,044 |
-| Good Night & Good Luck | 9.00% | ~55,044 |
-| Sancho Panza | 8.00% | ~48,928 |
-| Oh, So This Is How It Works! | 8.00% | ~48,928 |
-| Under Pressure | 7.00% | ~42,812 |
-| On the Trail of the Enemy | 7.00% | ~42,812 |
-| Light in the Darkness | 7.00% | ~42,812 |
-| Flag Burning | 7.00% | ~42,812 |
-| Night Hunter | 7.00% | ~42,812 |
-| Get Outta My House! | 6.00% | ~36,696 |
-| It Wasn't That Hard, Was It? | 6.00% | ~36,696 |
-| Being All Social | 6.00% | ~36,696 |
-| Debris and Ashes | 5.00% | ~30,580 |
-| We Will Be Heard! | 5.00% | ~30,580 |
-| Known Associate | 5.00% | ~30,580 |
-| Brush with Death | 5.00% | ~30,580 |
-| Going Down | 5.00% | ~30,580 |
-| Tunnel Entrance | 5.00% | ~30,580 |
-| After the Fall | 5.00% | ~30,580 |
-| Can't Touch This! | 5.00% | ~30,580 |
-| Family First | 4.00% | ~24,464 |
-| Your World, Your Rules | 4.00% | ~24,464 |
-| Death From Afar | 4.00% | ~24,464 |
-| Terminal Headache | 4.00% | ~24,464 |
-| Slowpoke! | 4.00% | ~24,464 |
+| You Never Forget Your First... | 11.00% | ~67,278 |
+| Into the Unknown | 10.00% | ~61,162 |
+| First Shot | 10.00% | ~61,162 |
+| Herzlich Wilkommen! | 9.00% | ~55,045 |
+| Good Night & Good Luck | 9.00% | ~55,045 |
+| Sancho Panza | 8.00% | ~48,929 |
+| Oh, So This Is How It Works! | 8.00% | ~48,929 |
+| Under Pressure | 7.00% | ~42,813 |
+| On the Trail of the Enemy | 7.00% | ~42,813 |
+| Light in the Darkness | 7.00% | ~42,813 |
+| Flag Burning | 7.00% | ~42,813 |
+| Night Hunter | 7.00% | ~42,813 |
+| Get Outta My House! | 6.00% | ~36,697 |
+| It Wasn't That Hard, Was It? | 6.00% | ~36,697 |
+| Being All Social | 6.00% | ~36,697 |
+| Debris and Ashes | 5.00% | ~30,581 |
+| We Will Be Heard! | 5.00% | ~30,581 |
+| Known Associate | 5.00% | ~30,581 |
+| Brush with Death | 5.00% | ~30,581 |
+| Going Down | 5.00% | ~30,581 |
+| Tunnel Entrance | 5.00% | ~30,581 |
+| After the Fall | 5.00% | ~30,581 |
+| Can't Touch This! | 5.00% | ~30,581 |
+| Family First | 4.00% | ~24,465 |
+| Your World, Your Rules | 4.00% | ~24,465 |
+| Death From Afar | 4.00% | ~24,465 |
+| Terminal Headache | 4.00% | ~24,465 |
+| Slowpoke! | 4.00% | ~24,465 |
 | Tickets, Please! | 3.00% | ~18,348 |
 | Combat Master | 3.00% | ~18,348 |
 | You're Going Down! | 3.00% | ~18,348 |
@@ -47,12 +47,12 @@ Number of Ratings: 7,305  (23.09.2022)
 | That's Teamwork! | 1.00% | ~6,116 |
 | Fit as a Fiddle | 1.00% | ~6,116 |
 | Ironheart | 1.00% | ~6,116 |
-| Nemesis | 1.00% | ~2,570 |
-| Enter the Hall | 1.00% | ~2,570 |
-| Find Anything Interesting? | 0.90% | ~5,504 |
-| Boot Licker | 0.90% | ~5,504 |
-| Who Wants To Be a... | 0.90% | ~5,504 |
-| Night of Terrors | 0.90% | ~2,313 |
+| Nemesis | 1.00% | ~2,571 |
+| Enter the Hall | 1.00% | ~2,571 |
+| Find Anything Interesting? | 0.90% | ~5,505 |
+| Boot Licker | 0.90% | ~5,505 |
+| Who Wants To Be a... | 0.90% | ~5,505 |
+| Night of Terrors | 0.90% | ~2,314 |
 | Get the Point? | 0.80% | ~4,893 |
 | Revenants | 0.70% | ~4,281 |
 | Tanning Salon | 0.70% | ~4,281 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~257 |
 | Connoisseur | 0.10% | ~257 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 611,604 (Ranked 27)  
+Progressed: 611,615 (Ranked 27)  
 Completed: 62 (0.01%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,10 +188,10 @@ Completed: 62 (0.01%) (Ranked 242)
 | 2023-08-11 | 610,694 | 62 |
 | 2023-08-12 | 611,100 | 62 |
 | 2023-08-13 | 611,547 | 62 |
-| 2023-08-14 | 611,604 | 62 |
+| 2023-08-14 | 611,615 | 62 |
 ## Awards
 Max (Character Customization): 8,778  (Ranked 39)  
-Sum: 21,064 (Ranked 54)  
+Sum: 21,065 (Ranked 54)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
@@ -201,7 +201,7 @@ Diff (max vs sum): -15
 | This game is Highly Recommended | 839 |
 | This game has Diverse Characters | 833 |
 | This game has Amazing Characters | 805 |
-| This game is Extremely Fun | 778 |
+| This game is Extremely Fun | 779 |
 | This game has Amazing Storytelling | 777 |
 | This game has Quickly Understood Controls | 762 |
 | This game is Relaxing | 733 |
@@ -424,3 +424,4 @@ Diff (max vs sum): -15
 | 2023-08-11 | 4.58 | - | 8,758 | 21,007 |
 | 2023-08-12 | 4.58 | - | 8,770 | 21,039 |
 | 2023-08-13 | 4.58 | - | 8,778 | 21,064 |
+| 2023-08-14 | 4.58 | - | 8,778 | 21,065 |

@@ -325,9 +325,9 @@
       "ID": "Full",
       "SetID": "cjfnji1",
       "Name": "Full load",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "Island",
@@ -341,9 +341,9 @@
       "ID": "Last_second",
       "SetID": "cjfnji1",
       "Name": "In the last second",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "Master",
@@ -389,9 +389,9 @@
       "ID": "Tangentially",
       "SetID": "cjfnji1",
       "Name": "Tangentially",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "USSR",
@@ -420,8 +420,8 @@
   ],
   "FirstSeen": "2023-08-11T01:35:20.9956349+00:00",
   "FirstSeenAchievements": "2023-08-07T18:00:21.004681+00:00",
-  "LastChanged_Achievements": "2023-08-14T06:02:21.9172535+00:00",
+  "LastChanged_Achievements": "2023-08-14T07:03:07.9430791+00:00",
   "LastUpdate_AppInfo": "2023-08-07T17:56:51.0355953+00:00",
-  "LastUpdate_Ratings": "2023-08-14T05:57:20.9302797+00:00",
-  "LastUpdate_Achievements": "2023-08-14T06:02:21.9172967+00:00"
+  "LastUpdate_Ratings": "2023-08-14T06:57:36.1990761+00:00",
+  "LastUpdate_Achievements": "2023-08-14T07:03:07.9430997+00:00"
 }

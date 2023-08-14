@@ -23,9 +23,9 @@
 | A very special drink | 45.00% | ~15 |
 | Close the deal | 42.00% | ~14 |
 | Show me your true self | 42.00% | ~14 |
+| GG | 39.00% | ~13 |
 | No posters allowed | 39.00% | ~13 |
 | Little genius | 39.00% | ~13 |
-| GG | 36.00% | ~12 |
 | You've got mail! | 36.00% | ~12 |
 | Ring-a-ding-ding | 36.00% | ~12 |
 | Pain in the hands | 36.00% | ~12 |

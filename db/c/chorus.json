@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 473,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 107,
-  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -280,11 +280,11 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 1125,
+  "EOS_Progressed": 1126,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.16,
+  "EOS_Completed_Percentage": 1.15,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:24.544527+00:00",
@@ -1665,6 +1665,11 @@
       "Time": "2023-08-12T18:07:35.2880285+00:00",
       "NumProgressed": 1125,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-08-14T07:05:41.9558067+00:00",
+      "NumProgressed": 1126,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 43,
@@ -1684,7 +1689,7 @@
       "Name": "At Least You Tried",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "Find20Memories",
@@ -1700,7 +1705,7 @@
       "Name": "Helping Hand",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "FinishAllSideMissions",
@@ -1740,7 +1745,7 @@
       "Name": "The Great Destroyer",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 832
+      "UsersEstimate": 833
     },
     {
       "ID": "MasteryOfCombat",
@@ -1764,7 +1769,7 @@
       "Name": "Mastery of Weapons",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "MissionActivateDish",
@@ -1772,7 +1777,7 @@
       "Name": "The Crimson Void",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "MissionAmaranthPart2",
@@ -1804,7 +1809,7 @@
       "Name": "Payback",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "MissionDreamsOfThePast",
@@ -1820,7 +1825,7 @@
       "Name": "Full Arsenal",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 630
+      "UsersEstimate": 631
     },
     {
       "ID": "MissionEosReturn",
@@ -1836,7 +1841,7 @@
       "Name": "The Nameless Dread",
       "Percentage": 34,
       "XP": 75,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "MissionHeartOfTheFaceless",
@@ -1860,7 +1865,7 @@
       "Name": "Safe Home",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "MissionMasterAndDisciple",
@@ -1868,7 +1873,7 @@
       "Name": "Rise as One",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "MissionOldFriend",
@@ -1876,7 +1881,7 @@
       "Name": "Old Days Born Anew",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "MissionPhoenixRediscovery",
@@ -1884,7 +1889,7 @@
       "Name": "Ghosts",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "MissionSalvage",
@@ -1900,7 +1905,7 @@
       "Name": "Another Life",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "MissionShipyard",
@@ -1908,7 +1913,7 @@
       "Name": "In the Eye of the Storm",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "MissionSlayingChimera",
@@ -1916,7 +1921,7 @@
       "Name": "The Path Forward",
       "Percentage": 45,
       "XP": 70,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "MissionTemple",
@@ -1956,7 +1961,7 @@
       "Name": "Radiation Area",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "RiteOfControl",
@@ -1972,7 +1977,7 @@
       "Name": "Huntress",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "RiteOfTheStar",
@@ -1980,7 +1985,7 @@
       "Name": "Two Birds",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "RiteOfTheStorm",
@@ -2019,15 +2024,15 @@
     {
       "ID": "a6c395p",
       "IsBase": true,
-      "Progressed": 1125,
+      "Progressed": 1126,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-07-09T07:00:38.7677324+00:00",
-  "LastChanged_Achievements": "2023-08-14T06:05:55.32561+00:00",
+  "LastChanged_Achievements": "2023-08-14T07:05:41.9558063+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:58:03.9507413+00:00",
-  "LastUpdate_Ratings": "2023-08-14T06:02:10.7794461+00:00",
-  "LastUpdate_Achievements": "2023-08-14T06:05:55.3256845+00:00"
+  "LastUpdate_Ratings": "2023-08-14T07:00:39.1972374+00:00",
+  "LastUpdate_Achievements": "2023-08-14T07:05:41.9558405+00:00"
 }

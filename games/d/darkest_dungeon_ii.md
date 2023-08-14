@@ -6,36 +6,36 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~106,475 |
-| Don't Make Me Turn This Coach Around | 70.00% | ~80,142 |
-| A Clear Conscience | 69.00% | ~78,997 |
-| Unleash Hell | 68.00% | ~77,853 |
-| Unfulfilled Desires | 68.00% | ~77,853 |
-| Funny Guy | 67.00% | ~76,708 |
-| Unshackled | 67.00% | ~76,708 |
-| Long Live the King | 66.00% | ~75,563 |
-| Resurrection | 62.00% | ~70,983 |
-| Wyrdly Reconstructed | 62.00% | ~70,983 |
-| Boxcar Kid | 60.00% | ~68,693 |
-| Rush Hour | 60.00% | ~68,693 |
-| To Grandmother's House | 60.00% | ~68,693 |
-| Serenity Now! | 52.00% | ~59,534 |
-| Hope Rekindled | 50.00% | ~57,244 |
-| Ramble On | 48.00% | ~54,955 |
-| Nope | 47.00% | ~53,810 |
-| This Looks Familiar | 38.00% | ~43,506 |
-| Now Stay Dead | 36.00% | ~41,216 |
-| Harvest Festival | 36.00% | ~41,216 |
-| Hot Air | 36.00% | ~41,216 |
-| Merry Time | 35.00% | ~40,071 |
-| Creep and Sleep | 33.00% | ~37,781 |
+| A Place to Lay Your Head | 93.00% | ~106,477 |
+| Don't Make Me Turn This Coach Around | 70.00% | ~80,144 |
+| A Clear Conscience | 69.00% | ~78,999 |
+| Unleash Hell | 68.00% | ~77,854 |
+| Unfulfilled Desires | 68.00% | ~77,854 |
+| Funny Guy | 67.00% | ~76,709 |
+| Unshackled | 67.00% | ~76,709 |
+| Long Live the King | 66.00% | ~75,564 |
+| Resurrection | 62.00% | ~70,984 |
+| Wyrdly Reconstructed | 62.00% | ~70,984 |
+| Boxcar Kid | 60.00% | ~68,695 |
+| Rush Hour | 60.00% | ~68,695 |
+| To Grandmother's House | 60.00% | ~68,695 |
+| Serenity Now! | 52.00% | ~59,535 |
+| Hope Rekindled | 50.00% | ~57,246 |
+| Ramble On | 48.00% | ~54,956 |
+| Nope | 47.00% | ~53,811 |
+| This Looks Familiar | 38.00% | ~43,507 |
+| Now Stay Dead | 36.00% | ~41,217 |
+| Harvest Festival | 36.00% | ~41,217 |
+| Hot Air | 36.00% | ~41,217 |
+| Merry Time | 35.00% | ~40,072 |
+| Creep and Sleep | 33.00% | ~37,782 |
 | Overdue Notice | 31.00% | ~35,492 |
 | Whale | 31.00% | ~35,492 |
 | Banishment | 30.00% | ~34,347 |
 | FNG | 29.00% | ~33,202 |
-| Predator | 24.00% | ~27,477 |
-| Reverse Banditry | 24.00% | ~27,477 |
-| Autodidact | 24.00% | ~27,477 |
+| Predator | 24.00% | ~27,478 |
+| Reverse Banditry | 24.00% | ~27,478 |
+| Autodidact | 24.00% | ~27,478 |
 | Meat and Greet | 22.00% | ~25,188 |
 | Spelunker | 21.00% | ~24,043 |
 | Road Trip | 21.00% | ~24,043 |
@@ -43,10 +43,10 @@ Number of Ratings: 7,767  (23.09.2022)
 | It Rings a Bell | 19.00% | ~21,753 |
 | Escape from the Black Hole | 17.00% | ~19,463 |
 | It Happens | 17.00% | ~19,463 |
-| This Belongs in a Museum | 16.00% | ~18,318 |
-| Dissector | 16.00% | ~18,318 |
-| Handled | 15.00% | ~17,173 |
-| Catch and Decease | 14.00% | ~16,028 |
+| This Belongs in a Museum | 16.00% | ~18,319 |
+| Dissector | 16.00% | ~18,319 |
+| Handled | 15.00% | ~17,174 |
+| Catch and Decease | 14.00% | ~16,029 |
 | Not Today! | 13.00% | ~14,884 |
 | Deprogramming | 12.00% | ~13,739 |
 | Shrine of Reflection | 11.00% | ~12,594 |
@@ -54,8 +54,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Body of Work | 9.00% | ~10,304 |
 | Utopia | 8.00% | ~9,159 |
 | Hat Trick | 6.00% | ~6,869 |
-| Ichthyophobic | 5.00% | ~5,724 |
-| No More Mouths to Feed | 5.00% | ~5,724 |
+| Ichthyophobic | 5.00% | ~5,725 |
+| No More Mouths to Feed | 5.00% | ~5,725 |
 | The World As It Was | 4.00% | ~4,580 |
 | Triage | 3.00% | ~3,435 |
 | A Life Well Lived | 2.00% | ~2,290 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Gravestone Left Unturned | 0.10% | ~114 |
 | 20,000 Leagues Above the Sea | 0.10% | ~114 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 114,489 (Ranked 69)  
+Progressed: 114,491 (Ranked 69)  
 Completed: 1 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,7 +178,7 @@ Completed: 1 (0.00%) (Ranked 255)
 | 2023-08-11 | 114,243 | 1 |
 | 2023-08-12 | 114,347 | 1 |
 | 2023-08-13 | 114,458 | 1 |
-| 2023-08-14 | 114,489 | 1 |
+| 2023-08-14 | 114,491 | 1 |
 ## Awards
 Max (Character Customization): 7,325  (Ranked 47)  
 Sum: 19,008 (Ranked 56)  

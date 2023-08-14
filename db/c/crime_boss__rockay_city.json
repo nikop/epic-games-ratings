@@ -2920,10 +2920,16 @@
       "Rating": 3.94,
       "NumberOfAwards": 1882,
       "NumberOfAwardsMax": 399
+    },
+    {
+      "Time": "2023-08-14T07:00:36.9743208+00:00",
+      "Rating": 3.94,
+      "NumberOfAwards": 1884,
+      "NumberOfAwardsMax": 399
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 1882,
+  "NumberOfAwards": 1884,
   "NumberOfAwardsMax": 399,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -2967,7 +2973,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 379
+      "Count": 381
     },
     {
       "Text": "This game has a Silly Community",
@@ -2976,9 +2982,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 71800,
+  "EOS_Progressed": 71801,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 318,
+  "EOS_NewPlayers": 317,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -15086,6 +15092,11 @@
       "Time": "2023-08-14T06:06:39.0839293+00:00",
       "NumProgressed": 71800,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-08-14T07:06:18.5333981+00:00",
+      "NumProgressed": 71801,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 37,
@@ -15241,7 +15252,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 46670
+      "UsersEstimate": 46671
     },
     {
       "ID": "ACH_0210",
@@ -15249,7 +15260,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 53132
+      "UsersEstimate": 53133
     },
     {
       "ID": "ACH_0211",
@@ -15392,22 +15403,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 71800,
+      "Progressed": 71801,
       "Completed": 38
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 147,
-      "Completed": 147
+      "Progressed": 148,
+      "Completed": 148
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-08-14T03:02:03.0694666+00:00",
-  "LastChanged_Achievements": "2023-08-14T06:06:39.0839285+00:00",
+  "LastChanged": "2023-08-14T07:00:36.9743206+00:00",
+  "LastChanged_Achievements": "2023-08-14T07:06:18.5333977+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:57.6056168+00:00",
-  "LastUpdate_Ratings": "2023-08-14T06:02:07.7776308+00:00",
-  "LastUpdate_Achievements": "2023-08-14T06:06:39.08405+00:00"
+  "LastUpdate_Ratings": "2023-08-14T07:00:36.9743213+00:00",
+  "LastUpdate_Achievements": "2023-08-14T07:06:18.5334761+00:00"
 }

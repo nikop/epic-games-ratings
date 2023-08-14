@@ -6,15 +6,15 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~923,542 |
-| I Need a Bigger Garage | 63.00% | ~646,480 |
-| Pump my Ride | 46.00% | ~472,033 |
-| Ghostbuster | 33.00% | ~338,632 |
-| That Was Close | 18.00% | ~184,708 |
-| Call Roadside Assistance | 17.00% | ~174,447 |
-| Quickie | 11.00% | ~112,877 |
-| California Dreamer | 7.00% | ~71,831 |
-| Can't Touch This | 5.00% | ~51,308 |
+| The First of Many | 90.00% | ~923,557 |
+| I Need a Bigger Garage | 63.00% | ~646,490 |
+| Pump my Ride | 46.00% | ~472,040 |
+| Ghostbuster | 33.00% | ~338,637 |
+| That Was Close | 18.00% | ~184,711 |
+| Call Roadside Assistance | 17.00% | ~174,450 |
+| Quickie | 11.00% | ~112,879 |
+| California Dreamer | 7.00% | ~71,832 |
+| Can't Touch This | 5.00% | ~51,309 |
 | Carménère Taster | 3.00% | ~30,785 |
 | Supersonic | 3.00% | ~30,785 |
 | Comeback | 3.00% | ~30,785 |
@@ -32,8 +32,8 @@ Number of Ratings: 1,343  (23.09.2022)
 | Round the Globe | 1.00% | ~10,262 |
 | Golden Passport | 1.00% | ~10,262 |
 | Brave and Bold | 1.00% | ~10,262 |
-| Crocodile Hunter | 0.90% | ~9,235 |
-| Old Master | 0.90% | ~9,235 |
+| Crocodile Hunter | 0.90% | ~9,236 |
+| Old Master | 0.90% | ~9,236 |
 | Volcano Surfer | 0.80% | ~8,209 |
 | Otaku | 0.80% | ~8,209 |
 | Survivor | 0.60% | ~6,157 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Transporter | 0.10% | ~1,026 |
 | Look Mom, No Hands! | 0.10% | ~1,026 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,026,158 (Ranked 12)  
+Progressed: 1,026,174 (Ranked 12)  
 Completed: 396 (0.04%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,7 +160,7 @@ Completed: 396 (0.04%) (Ranked 224)
 | 2023-08-11 | 1,024,607 | 389 |
 | 2023-08-12 | 1,025,300 | 391 |
 | 2023-08-13 | 1,026,014 | 395 |
-| 2023-08-14 | 1,026,158 | 396 |
+| 2023-08-14 | 1,026,174 | 396 |
 ## Awards
 Max (Great for Beginners): 153  (Ranked 295)  
 Sum: 1,244 (Ranked 228)  
