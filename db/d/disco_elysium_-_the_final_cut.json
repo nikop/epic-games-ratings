@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 235,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1241,9 +1241,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 126181,
+  "EOS_Progressed": 126183,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 430,
+  "EOS_NewPlayers": 427,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -12701,6 +12701,11 @@
       "Time": "2023-08-13T23:05:15.9682573+00:00",
       "NumProgressed": 126181,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-08-14T00:05:23.6854438+00:00",
+      "NumProgressed": 126183,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 40,
@@ -12760,7 +12765,7 @@
       "Name": "Unbelievably Boring ****",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 10094
+      "UsersEstimate": 10095
     },
     {
       "ID": "ACH_COP_COMMUNIST",
@@ -12768,7 +12773,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 30283
+      "UsersEstimate": 30284
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -12776,7 +12781,7 @@
       "Name": "Enemy Of The Physical Realm",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 10094
+      "UsersEstimate": 10095
     },
     {
       "ID": "ACH_COP_DORK",
@@ -12824,7 +12829,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 25236
+      "UsersEstimate": 25237
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -12928,7 +12933,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 17665
+      "UsersEstimate": 17666
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -13031,15 +13036,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 126181,
+      "Progressed": 126183,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-08-04T01:55:33.6301654+00:00",
-  "LastChanged_Achievements": "2023-08-13T23:05:15.9682567+00:00",
+  "LastChanged_Achievements": "2023-08-14T00:05:23.6854433+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:59.4029348+00:00",
-  "LastUpdate_Ratings": "2023-08-13T23:01:11.8926125+00:00",
-  "LastUpdate_Achievements": "2023-08-13T23:05:15.9683611+00:00"
+  "LastUpdate_Ratings": "2023-08-14T00:01:08.9232475+00:00",
+  "LastUpdate_Achievements": "2023-08-14T00:05:23.6855859+00:00"
 }

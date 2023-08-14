@@ -5658,9 +5658,9 @@
       "Count": 370
     }
   ],
-  "EOS_Progressed": 712406,
+  "EOS_Progressed": 712407,
   "EOS_Completed": 12857,
-  "EOS_NewPlayers": 165,
+  "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -16508,6 +16508,11 @@
       "Time": "2023-08-13T20:04:56.3876514+00:00",
       "NumProgressed": 712406,
       "NumCompleted": 12857
+    },
+    {
+      "Time": "2023-08-14T00:04:36.8800442+00:00",
+      "NumProgressed": 712407,
+      "NumCompleted": 12857
     }
   ],
   "TotalAchievements": 50,
@@ -16573,9 +16578,9 @@
       "ID": "08_Wude_H2",
       "SetID": "adcm20g",
       "Name": "Tiger on Fire",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 4987
+      "UsersEstimate": 5699
     },
     {
       "ID": "09_Wude_H3",
@@ -16918,21 +16923,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 21707,
+      "Progressed": 21708,
       "Completed": 10523
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 712406,
+      "Progressed": 712407,
       "Completed": 12857
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-08-13T15:59:55.6799616+00:00",
-  "LastChanged_Achievements": "2023-08-13T23:04:30.0763635+00:00",
+  "LastChanged_Achievements": "2023-08-14T00:04:36.8800435+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:46.245364+00:00",
-  "LastUpdate_Ratings": "2023-08-13T23:00:56.6072859+00:00",
-  "LastUpdate_Achievements": "2023-08-13T23:04:30.0765767+00:00"
+  "LastUpdate_Ratings": "2023-08-14T00:00:53.1422147+00:00",
+  "LastUpdate_Achievements": "2023-08-14T00:04:36.8801799+00:00"
 }

@@ -26,9 +26,9 @@ Rating: 4.60 (Ranked 389)
 | The Loose Cannon | 16.00% | ~133 |
 | Golem Chaser | 16.00% | ~133 |
 | Check Your Pulse | 16.00% | ~133 |
+| The Family Fortune | 16.00% | ~133 |
 | Right On Time | 15.00% | ~125 |
 | The Man Who Shattered Time | 15.00% | ~125 |
-| The Family Fortune | 15.00% | ~125 |
 | Treasure Trove | 14.00% | ~116 |
 | Street Style | 14.00% | ~116 |
 | Cartographer | 14.00% | ~116 |
@@ -41,10 +41,10 @@ Rating: 4.60 (Ranked 389)
 | Syron for Hope | 9.00% | ~75 |
 | Theater Explorer | 9.00% | ~75 |
 | Ask Questions Later | 9.00% | ~75 |
+| Cultivair Explorer | 8.00% | ~67 |
 | Factorywood Explorer | 8.00% | ~67 |
 | Corin Goes Home | 7.00% | ~58 |
 | Sartorialist | 7.00% | ~58 |
-| Cultivair Explorer | 7.00% | ~58 |
 | Entresol Explorer | 7.00% | ~58 |
 | Clovemary for Remembering | 5.00% | ~42 |
 | Golem Hunter | 5.00% | ~42 |

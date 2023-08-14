@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 206,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1599,9 +1599,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13400,
+  "EOS_Progressed": 13401,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -9619,6 +9619,11 @@
       "Time": "2023-08-13T23:05:22.7195884+00:00",
       "NumProgressed": 13400,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-14T00:05:30.7194547+00:00",
+      "NumProgressed": 13401,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -10164,9 +10169,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_LION",
       "SetID": "9201eeb",
       "Name": "Lion",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 80
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_MAGNIFICENT",
@@ -11997,21 +12002,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13400,
+      "Progressed": 13401,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13400,
+      "Progressed": 13401,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-12T03:59:31.9297462+00:00",
-  "LastChanged_Achievements": "2023-08-13T23:05:22.7195878+00:00",
+  "LastChanged_Achievements": "2023-08-14T00:05:30.719454+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:38.1291138+00:00",
-  "LastUpdate_Ratings": "2023-08-13T22:59:42.0529787+00:00",
-  "LastUpdate_Achievements": "2023-08-13T23:05:22.7207086+00:00"
+  "LastUpdate_Ratings": "2023-08-13T23:59:37.3953918+00:00",
+  "LastUpdate_Achievements": "2023-08-14T00:05:30.72068+00:00"
 }

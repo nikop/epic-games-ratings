@@ -19,6 +19,7 @@ Rating: 4.18 (Ranked 868)
 | Rock and a Hard Place | 3.00% | ~2,035 |
 | Quartzer Life Crisis | 3.00% | ~2,035 |
 | Snow Problem | 3.00% | ~2,035 |
+| Cooldown | 3.00% | ~2,035 |
 | Working Hard or Harley Working? | 3.00% | ~2,035 |
 | Universal Health Scare | 3.00% | ~2,035 |
 | Unstoppable Force | 3.00% | ~2,035 |
@@ -34,7 +35,6 @@ Rating: 4.18 (Ranked 868)
 | Out of Their League | 2.00% | ~1,356 |
 | Shock Til They Drop | 2.00% | ~1,356 |
 | Drone You Out | 2.00% | ~1,356 |
-| Cooldown | 2.00% | ~1,356 |
 | Gotham Knight | 2.00% | ~1,356 |
 | Gotham City Confidential | 2.00% | ~1,356 |
 | Solid Alibi | 2.00% | ~1,356 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 868)
 | Read Owl About It | 0.10% | ~68 |
 | History Major | 0.10% | ~68 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,820 (Ranked 80)  
+Progressed: 67,821 (Ranked 80)  
 Completed: 107 (0.16%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,6 +183,7 @@ Completed: 107 (0.16%) (Ranked 187)
 | 2023-08-11 | 67,760 | 106 |
 | 2023-08-12 | 67,793 | 106 |
 | 2023-08-13 | 67,820 | 107 |
+| 2023-08-14 | 67,821 | 107 |
 ## Awards
 Max (Great Boss Battles): 2,491  (Ranked 100)  
 Sum: 4,145 (Ranked 140)  

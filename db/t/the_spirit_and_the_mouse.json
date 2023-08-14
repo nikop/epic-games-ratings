@@ -4,8 +4,8 @@
   "ProductSlug": "the-spirit-and-the-mouse-42390b",
   "Ranking_EOS_Progress": 344,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 361,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 362,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-09-26T13:00:00+00:00",
     "PcReleaseDate": "2022-09-26T13:00:00+00:00",
@@ -95,9 +95,9 @@
       "ID": "energy1500",
       "SetID": "bbgli2k",
       "Name": "Unlimited Power!!",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "energy250",
@@ -223,9 +223,9 @@
       "ID": "neighenergy.north",
       "SetID": "bbgli2k",
       "Name": "North Town Energy",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "neighenergy.south",
@@ -400,8 +400,8 @@
   "FirstSeenRating": "2023-03-31T05:58:29.0586638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.5925841+00:00",
   "LastChanged": "2023-03-31T05:58:29.0586639+00:00",
-  "LastChanged_Achievements": "2023-08-13T23:04:46.0248364+00:00",
+  "LastChanged_Achievements": "2023-08-14T00:04:53.3958366+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:06.7711187+00:00",
-  "LastUpdate_Ratings": "2023-08-13T22:58:40.716057+00:00",
-  "LastUpdate_Achievements": "2023-08-13T23:04:46.0248721+00:00"
+  "LastUpdate_Ratings": "2023-08-13T23:58:36.4062008+00:00",
+  "LastUpdate_Achievements": "2023-08-14T00:04:53.3958786+00:00"
 }

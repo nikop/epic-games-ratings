@@ -27,9 +27,9 @@ Rating: 4.49 (Ranked 576)
 | We have the best insurance | 26.00% | ~6,515 |
 | Legions | 26.00% | ~6,515 |
 | Right back at ya | 26.00% | ~6,515 |
+| Stunner | 26.00% | ~6,515 |
 | Summoner | 26.00% | ~6,515 |
 | Pesky Jerks | 25.00% | ~6,264 |
-| Stunner | 25.00% | ~6,264 |
 | Animated | 24.00% | ~6,014 |
 | Skilled | 24.00% | ~6,014 |
 | Collector | 23.00% | ~5,763 |

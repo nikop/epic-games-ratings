@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 361,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-06-23T03:00:00+00:00",
     "PcReleaseDate": "2022-06-23T03:00:00+00:00",
@@ -60,9 +60,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 234,
+  "EOS_Progressed": 235,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.85,
   "EosHistory": [
@@ -100,6 +100,11 @@
       "Time": "2023-08-02T21:05:12.5890828+00:00",
       "NumProgressed": 234,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-14T00:07:13.4014913+00:00",
+      "NumProgressed": 235,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 49,
@@ -119,15 +124,15 @@
       "Name": "Welcome to Redo",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "ACH_03",
       "SetID": "2eg5kgc",
       "Name": "Daily Life Begins Anew",
-      "Percentage": 82,
+      "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 192
+      "UsersEstimate": 190
     },
     {
       "ID": "ACH_04",
@@ -143,7 +148,7 @@
       "Name": "Behind the Curtain",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH_06",
@@ -167,7 +172,7 @@
       "Name": "The Greater Good",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_09",
@@ -175,7 +180,7 @@
       "Name": "Selfish Decisions",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_10",
@@ -271,7 +276,7 @@
       "Name": "Extracurricular Affair",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_22",
@@ -279,7 +284,7 @@
       "Name": "Eat Your Heart Out",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_23",
@@ -367,7 +372,7 @@
       "Name": "WIRE Guru",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACH_34",
@@ -381,9 +386,9 @@
       "ID": "ACH_35",
       "SetID": "2eg5kgc",
       "Name": "Nice Doing Business",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 54
     },
     {
       "ID": "ACH_36",
@@ -391,7 +396,7 @@
       "Name": "Lost Souls For Sale",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_37",
@@ -423,7 +428,7 @@
       "Name": "Never Saw It Coming",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ACH_41",
@@ -502,15 +507,15 @@
     {
       "ID": "2eg5kgc",
       "IsBase": true,
-      "Progressed": 234,
+      "Progressed": 235,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:19:58.3140985+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.7038898+00:00",
   "LastChanged": "2023-03-31T05:57:16.8033506+00:00",
-  "LastChanged_Achievements": "2023-08-13T23:07:05.4367226+00:00",
+  "LastChanged_Achievements": "2023-08-14T00:07:13.4014902+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:23.4283097+00:00",
-  "LastUpdate_Ratings": "2023-08-13T22:59:09.9537931+00:00",
-  "LastUpdate_Achievements": "2023-08-13T23:07:05.4367694+00:00"
+  "LastUpdate_Ratings": "2023-08-13T23:59:05.3930826+00:00",
+  "LastUpdate_Achievements": "2023-08-14T00:07:13.4015425+00:00"
 }

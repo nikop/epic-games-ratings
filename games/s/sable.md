@@ -6,49 +6,49 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~28,367 |
-| Just The Two of Us | 32.00% | ~26,698 |
-| Up On High | 25.00% | ~20,858 |
-| Under The Hood | 25.00% | ~20,858 |
-| Got Your Nose | 24.00% | ~20,023 |
-| The Gift of Gab | 24.00% | ~20,023 |
-| Wrapping Up | 22.00% | ~18,355 |
-| More Than A Box Of Sand | 18.00% | ~15,018 |
-| The Dunboyne | 17.00% | ~14,183 |
-| Badge Hobbyist | 17.00% | ~14,183 |
-| Chum Novice | 16.00% | ~13,349 |
-| Silver-Tongued Sable | 16.00% | ~13,349 |
-| Sticky Paws | 16.00% | ~13,349 |
-| Bubble Up | 16.00% | ~13,349 |
-| Thread The Needle | 15.00% | ~12,515 |
-| Power to the People | 14.00% | ~11,680 |
-| Take That! | 13.00% | ~10,846 |
-| Nesting Giant | 13.00% | ~10,846 |
-| Treasure Tracker | 13.00% | ~10,846 |
-| Big Spender | 13.00% | ~10,846 |
+| Simoon | 34.00% | ~28,369 |
+| Just The Two of Us | 32.00% | ~26,700 |
+| Up On High | 25.00% | ~20,859 |
+| Under The Hood | 25.00% | ~20,859 |
+| Got Your Nose | 24.00% | ~20,025 |
+| The Gift of Gab | 24.00% | ~20,025 |
+| Wrapping Up | 22.00% | ~18,356 |
+| More Than A Box Of Sand | 18.00% | ~15,019 |
+| The Dunboyne | 17.00% | ~14,184 |
+| Badge Hobbyist | 17.00% | ~14,184 |
+| Chum Novice | 16.00% | ~13,350 |
+| Silver-Tongued Sable | 16.00% | ~13,350 |
+| Sticky Paws | 16.00% | ~13,350 |
+| Bubble Up | 16.00% | ~13,350 |
+| Thread The Needle | 15.00% | ~12,516 |
+| Power to the People | 14.00% | ~11,681 |
+| Take That! | 13.00% | ~10,847 |
+| Nesting Giant | 13.00% | ~10,847 |
+| Treasure Tracker | 13.00% | ~10,847 |
+| Big Spender | 13.00% | ~10,847 |
 | Badge Collector | 12.00% | ~10,012 |
 | Quite The Catch | 12.00% | ~10,012 |
-| Rowleys Way | 11.00% | ~9,177 |
-| The Machinist Mask | 10.00% | ~8,343 |
-| The Cartographer Mask | 10.00% | ~8,343 |
-| Balfron Connection | 10.00% | ~8,343 |
-| Ceiling Of Stars | 10.00% | ~8,343 |
-| Playing Dress Up | 10.00% | ~8,343 |
+| Rowleys Way | 11.00% | ~9,178 |
+| The Machinist Mask | 10.00% | ~8,344 |
+| The Cartographer Mask | 10.00% | ~8,344 |
+| Balfron Connection | 10.00% | ~8,344 |
+| Ceiling Of Stars | 10.00% | ~8,344 |
+| Playing Dress Up | 10.00% | ~8,344 |
 | Many Different Faces | 9.00% | ~7,509 |
 | Trellick's Pillar | 9.00% | ~7,509 |
 | Centre Of Brunswick | 9.00% | ~7,509 |
 | Bike Collector | 9.00% | ~7,509 |
 | Not That Kind Of Gliding | 9.00% | ~7,509 |
-| The Scrapper Mask | 8.00% | ~6,674 |
-| Shadow Of Neave | 8.00% | ~6,674 |
-| Fragile Goods | 8.00% | ~6,674 |
-| Glider on the Storm | 8.00% | ~6,674 |
-| Squeeze One Out | 8.00% | ~6,674 |
-| Dune Rider | 8.00% | ~6,674 |
-| Amateur Historian | 7.00% | ~5,840 |
-| The Beetle Mask | 7.00% | ~5,840 |
-| The Guard Mask | 7.00% | ~5,840 |
-| Smoked Out | 7.00% | ~5,840 |
+| The Scrapper Mask | 8.00% | ~6,675 |
+| Shadow Of Neave | 8.00% | ~6,675 |
+| Fragile Goods | 8.00% | ~6,675 |
+| Glider on the Storm | 8.00% | ~6,675 |
+| Squeeze One Out | 8.00% | ~6,675 |
+| Dune Rider | 8.00% | ~6,675 |
+| Amateur Historian | 7.00% | ~5,841 |
+| The Beetle Mask | 7.00% | ~5,841 |
+| The Guard Mask | 7.00% | ~5,841 |
+| Smoked Out | 7.00% | ~5,841 |
 | The Climber Mask | 6.00% | ~5,006 |
 | The Merchant Mask | 6.00% | ~5,006 |
 | Honorary Chum | 6.00% | ~5,006 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~2,503 |
 | Vivacious Vivarium | 2.00% | ~1,669 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 83,431 (Ranked 73)  
+Progressed: 83,437 (Ranked 73)  
 Completed: 814 (0.98%) (Ranked 115)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,6 +179,7 @@ Completed: 814 (0.98%) (Ranked 115)
 | 2023-08-11 | 82,989 | 808 |
 | 2023-08-12 | 83,195 | 812 |
 | 2023-08-13 | 83,431 | 814 |
+| 2023-08-14 | 83,437 | 814 |
 ## Awards
 Max (Quickly Understood Controls): 21  (Ranked 500)  
 Sum: 21 (Ranked 500)  

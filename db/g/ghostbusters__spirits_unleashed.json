@@ -1790,7 +1790,7 @@
   ],
   "EOS_Progressed": 25058,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 211,
+  "EOS_NewPlayers": 209,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -10648,9 +10648,9 @@
       "ID": "Stunner",
       "SetID": "819popo",
       "Name": "Stunner",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 6264
+      "UsersEstimate": 6515
     },
     {
       "ID": "Stylish",
@@ -10769,8 +10769,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-08-13T18:00:54.5920989+00:00",
-  "LastChanged_Achievements": "2023-08-13T23:04:01.4522149+00:00",
+  "LastChanged_Achievements": "2023-08-14T00:04:07.6405024+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:52.55817+00:00",
-  "LastUpdate_Ratings": "2023-08-13T23:01:06.5165424+00:00",
-  "LastUpdate_Achievements": "2023-08-13T23:04:01.4523603+00:00"
+  "LastUpdate_Ratings": "2023-08-14T00:01:03.3575829+00:00",
+  "LastUpdate_Achievements": "2023-08-14T00:04:07.6406038+00:00"
 }

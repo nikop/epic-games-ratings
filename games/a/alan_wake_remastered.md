@@ -6,18 +6,18 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 37.00% | ~22,502 |
+| Follow the Light | 37.00% | ~22,503 |
 | Let There Be Light | 30.00% | ~18,245 |
 | Float Like a Butterfly | 29.00% | ~17,637 |
 | Nordic Walking | 23.00% | ~13,988 |
 | Bright Falls' Finest | 22.00% | ~13,380 |
-| Under a Thin Layer of Skin | 20.00% | ~12,163 |
+| Under a Thin Layer of Skin | 20.00% | ~12,164 |
 | Park Ranger | 16.00% | ~9,731 |
 | Paging Mr. Wake | 16.00% | ~9,731 |
-| Back! Back, I Say! | 15.00% | ~9,122 |
-| Finders Keepers | 15.00% | ~9,122 |
-| Sound and Fury | 14.00% | ~8,514 |
-| Damn Good Cup of Coffee | 14.00% | ~8,514 |
+| Back! Back, I Say! | 15.00% | ~9,123 |
+| Finders Keepers | 15.00% | ~9,123 |
+| Sound and Fury | 14.00% | ~8,515 |
+| Damn Good Cup of Coffee | 14.00% | ~8,515 |
 | Wheels Within Wheels | 13.00% | ~7,906 |
 | They're Heeeeeere! | 13.00% | ~7,906 |
 | Missed by a Mile | 13.00% | ~7,906 |
@@ -33,7 +33,7 @@ Number of Ratings: 524  (23.09.2022)
 | The Lady of the Light | 10.00% | ~6,082 |
 | Two For the Price of One | 10.00% | ~6,082 |
 | Energized! | 10.00% | ~6,082 |
-| Right of Way | 9.00% | ~5,473 |
+| Right of Way | 9.00% | ~5,474 |
 | What Light Through Yonder Window | 8.00% | ~4,865 |
 | A Friend in Need | 8.00% | ~1,943 |
 | Tornado Wrangler | 7.00% | ~4,257 |
@@ -46,7 +46,7 @@ Number of Ratings: 524  (23.09.2022)
 | Boob Tube | 4.00% | ~2,433 |
 | If It Flies, It Burns | 4.00% | ~2,433 |
 | KBF-FM | 4.00% | ~2,433 |
-| Carny | 3.00% | ~1,824 |
+| Carny | 3.00% | ~1,825 |
 | Kill Your Darlings | 3.00% | ~729 |
 | Heartbreaker | 3.00% | ~729 |
 | Medical Opinions | 2.00% | ~1,216 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~61 |
 | No Punctuation | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,816 (Ranked 85)  
+Progressed: 60,818 (Ranked 85)  
 Completed: 64 (0.11%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,6 +190,7 @@ Completed: 64 (0.11%) (Ranked 199)
 | 2023-08-11 | 60,694 | 64 |
 | 2023-08-12 | 60,759 | 64 |
 | 2023-08-13 | 60,816 | 64 |
+| 2023-08-14 | 60,818 | 64 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

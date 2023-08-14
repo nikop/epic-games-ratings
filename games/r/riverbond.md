@@ -6,22 +6,22 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~367,474 |
-| Now You're Talking | 62.00% | ~325,477 |
-| Steel Yourself | 62.00% | ~325,477 |
+| First Step | 70.00% | ~367,476 |
+| Now You're Talking | 62.00% | ~325,478 |
+| Steel Yourself | 62.00% | ~325,478 |
 | Window Dressing | 50.00% | ~262,482 |
-| Trigger Happy | 46.00% | ~241,483 |
-| Riverborn | 45.00% | ~236,233 |
-| Starry Eyed | 34.00% | ~178,487 |
-| Poking Around | 34.00% | ~178,487 |
-| Talk of the Town | 24.00% | ~125,991 |
-| AAARR! | 23.00% | ~120,741 |
-| Hello Darkness | 23.00% | ~120,741 |
+| Trigger Happy | 46.00% | ~241,484 |
+| Riverborn | 45.00% | ~236,234 |
+| Starry Eyed | 34.00% | ~178,488 |
+| Poking Around | 34.00% | ~178,488 |
+| Talk of the Town | 24.00% | ~125,992 |
+| AAARR! | 23.00% | ~120,742 |
+| Hello Darkness | 23.00% | ~120,742 |
 | Wind At Our Backs | 22.00% | ~115,492 |
 | To the Beat | 20.00% | ~104,993 |
 | Sunny Shores | 17.00% | ~89,244 |
 | Sunday Best | 16.00% | ~83,994 |
-| To Victory! | 15.00% | ~78,744 |
+| To Victory! | 15.00% | ~78,745 |
 | Two of a Kind | 14.00% | ~73,495 |
 | Keep On Trucking | 13.00% | ~68,245 |
 | Going on an Adventure | 11.00% | ~57,746 |
@@ -31,8 +31,8 @@ Number of Ratings: 617  (23.09.2022)
 | Road Less Travelled | 9.00% | ~47,247 |
 | Lost and Found | 9.00% | ~47,247 |
 | Under the Radar | 8.00% | ~41,997 |
-| Partner in Crime | 7.00% | ~36,747 |
-| Hard to Hear | 7.00% | ~36,747 |
+| Partner in Crime | 7.00% | ~36,748 |
+| Hard to Hear | 7.00% | ~36,748 |
 | Moving On Up | 6.00% | ~31,498 |
 | Owl Knows Best | 6.00% | ~31,498 |
 | Mind the Moose | 6.00% | ~31,498 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,575 |
 | Point Taken | 0.10% | ~525 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 524,963 (Ranked 31)  
+Progressed: 524,965 (Ranked 31)  
 Completed: 459 (0.09%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,6 +180,7 @@ Completed: 459 (0.09%) (Ranked 207)
 | 2023-08-11 | 524,773 | 457 |
 | 2023-08-12 | 524,862 | 457 |
 | 2023-08-13 | 524,963 | 459 |
+| 2023-08-14 | 524,965 | 459 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

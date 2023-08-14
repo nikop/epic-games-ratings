@@ -6,37 +6,37 @@ Number of Ratings: 32  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Redo | 98.00% | ~229 |
-| Daily Life Begins Anew | 82.00% | ~192 |
+| Welcome to Redo | 98.00% | ~230 |
+| Daily Life Begins Anew | 81.00% | ~190 |
 | Our World Now | 81.00% | ~190 |
-| Never Saw It Coming | 66.00% | ~154 |
+| Never Saw It Coming | 66.00% | ~155 |
 | Coup de Grace | 58.00% | ~136 |
 | Go-Home Club Activities START! | 49.00% | ~115 |
 | Philanthropist | 40.00% | ~94 |
 | Test Your Luck | 34.00% | ~80 |
-| Behind the Curtain | 33.00% | ~77 |
+| Behind the Curtain | 33.00% | ~78 |
 | Master of Surprise | 30.00% | ~70 |
 | Be Who You Wanna Be | 26.00% | ~61 |
 | Counter Champion | 26.00% | ~61 |
 | Friendly Neighborhood | 24.00% | ~56 |
-| Nice Doing Business | 24.00% | ~56 |
 | Investment Ban-χ-ing | 24.00% | ~56 |
 | Combo Commando | 24.00% | ~56 |
 | One-Track Mind | 23.00% | ~54 |
+| Nice Doing Business | 23.00% | ~54 |
 | Stay Winning | 23.00% | ~54 |
-| WIRE Guru | 22.00% | ~51 |
+| WIRE Guru | 22.00% | ~52 |
 | Depths of the Heart | 20.00% | ~47 |
-| The Greater Good | 19.00% | ~44 |
-| Selfish Decisions | 19.00% | ~44 |
-| Extracurricular Affair | 19.00% | ~44 |
-| Lost Souls For Sale | 19.00% | ~44 |
+| The Greater Good | 19.00% | ~45 |
+| Selfish Decisions | 19.00% | ~45 |
+| Extracurricular Affair | 19.00% | ~45 |
+| Lost Souls For Sale | 19.00% | ~45 |
 | Pulling Heartstrings | 18.00% | ~42 |
 | Trigger Finger | 18.00% | ~42 |
 | Hopes Rewarded | 17.00% | ~40 |
 | Guarding Guru | 17.00% | ~40 |
 | Hustled and Bustled | 12.00% | ~28 |
 | To Each Their Own | 11.00% | ~26 |
-| Eat Your Heart Out | 10.00% | ~23 |
+| Eat Your Heart Out | 10.00% | ~24 |
 | Extra! Extra! Journalism Club Showdown | 9.00% | ~21 |
 | Redo Redone | 8.00% | ~19 |
 | The Part-Time Tyrant | 8.00% | ~19 |
@@ -56,7 +56,7 @@ Number of Ratings: 32  (23.09.2022)
 | Topical Conversationalist | 1.00% | ~2 |
 | The Caligula Effect 2 | 0.90% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 234 (Ranked 275)  
+Progressed: 235 (Ranked 275)  
 Completed: 2 (0.85%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,6 +68,7 @@ Completed: 2 (0.85%) (Ranked 119)
 | 2023-06-08 | 232 | 2 |
 | 2023-06-21 | 233 | 2 |
 | 2023-08-02 | 234 | 2 |
+| 2023-08-14 | 235 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
