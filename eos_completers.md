@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 49.32% |
+| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.65% |
 | 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.42% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 38.64% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
@@ -57,7 +57,7 @@
 | 55 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.35% |
 | 56 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.19% |
 | 57 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.05% |
-| 58 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.91% |
+| 58 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.90% |
 | 59 | [ZZT!](games/z/zzt!.md) | 3.72% |
 | 60 | [Without Escape](games/w/without_escape.md) | 3.70% |
 | 61 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
@@ -541,4 +541,4 @@
 | 255 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 255 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 255 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,043 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,044 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
