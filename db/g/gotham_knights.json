@@ -2390,9 +2390,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 67824,
+  "EOS_Progressed": 67826,
   "EOS_Completed": 107,
-  "EOS_NewPlayers": 147,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -12350,6 +12350,11 @@
       "Time": "2023-08-14T02:20:17.8757459+00:00",
       "NumProgressed": 67824,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2023-08-14T03:06:58.2001021+00:00",
+      "NumProgressed": 67826,
+      "NumCompleted": 107
     }
   ],
   "TotalAchievements": 61,
@@ -12441,7 +12446,7 @@
       "Name": "End of an Era",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1356
+      "UsersEstimate": 1357
     },
     {
       "ID": "APPLY_STATUS",
@@ -12449,7 +12454,7 @@
       "Name": "In Your Element",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1356
+      "UsersEstimate": 1357
     },
     {
       "ID": "CHALLENGES_1",
@@ -12521,7 +12526,7 @@
       "Name": "Not On My Watch",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 1356
+      "UsersEstimate": 1357
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -12537,7 +12542,7 @@
       "Name": "Bulldozed",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1356
+      "UsersEstimate": 1357
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -12545,7 +12550,7 @@
       "Name": "Out of Their League",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1356
+      "UsersEstimate": 1357
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -12569,7 +12574,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1356
+      "UsersEstimate": 1357
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -12577,7 +12582,7 @@
       "Name": "Drone You Out",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1356
+      "UsersEstimate": 1357
     },
     {
       "ID": "FREEZE_1",
@@ -12809,7 +12814,7 @@
       "Name": "Gotham Knight",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1356
+      "UsersEstimate": 1357
     },
     {
       "ID": "SECRET_CACHE",
@@ -12817,7 +12822,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1356
+      "UsersEstimate": 1357
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -12825,7 +12830,7 @@
       "Name": "Solid Alibi",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1356
+      "UsersEstimate": 1357
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -12848,13 +12853,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 67824,
+      "Progressed": 67826,
       "Completed": 107
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 38104,
+      "Progressed": 38106,
       "Completed": 2657
     }
   ],
@@ -12862,8 +12867,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-08-13T20:02:43.0806457+00:00",
-  "LastChanged_Achievements": "2023-08-14T02:20:17.8757457+00:00",
+  "LastChanged_Achievements": "2023-08-14T03:06:58.2001015+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:49.7416919+00:00",
-  "LastUpdate_Ratings": "2023-08-14T02:15:14.8194956+00:00",
-  "LastUpdate_Achievements": "2023-08-14T02:20:17.8758641+00:00"
+  "LastUpdate_Ratings": "2023-08-14T03:01:56.2329295+00:00",
+  "LastUpdate_Achievements": "2023-08-14T03:06:58.200217+00:00"
 }

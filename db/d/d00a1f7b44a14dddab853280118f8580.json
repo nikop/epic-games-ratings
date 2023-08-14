@@ -516,9 +516,9 @@
       "ID": "ach_complete_10",
       "SetID": "5e260i9",
       "Name": "Clever thinking!",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 100,
-      "UsersEstimate": 98
+      "UsersEstimate": 100
     },
     {
       "ID": "ach_complete_30",
@@ -564,9 +564,9 @@
       "ID": "ach_items_50",
       "SetID": "5e260i9",
       "Name": "Sharp-sighted!",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 60,
-      "UsersEstimate": 92
+      "UsersEstimate": 94
     },
     {
       "ID": "ach_minigames_10",
@@ -611,8 +611,8 @@
   ],
   "FirstSeen": "2023-07-30T16:57:15.6867124+00:00",
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2023-08-14T02:15:30.3115223+00:00",
+  "LastChanged_Achievements": "2023-08-14T03:02:16.6647788+00:00",
   "LastUpdate_AppInfo": "2023-08-10T21:57:07.638473+00:00",
-  "LastUpdate_Ratings": "2023-08-14T02:11:42.0173755+00:00",
-  "LastUpdate_Achievements": "2023-08-14T02:15:30.3115377+00:00"
+  "LastUpdate_Ratings": "2023-08-14T02:57:47.4864383+00:00",
+  "LastUpdate_Achievements": "2023-08-14T03:02:16.6648016+00:00"
 }

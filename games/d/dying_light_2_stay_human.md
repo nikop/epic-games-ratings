@@ -6,21 +6,21 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 11.00% | ~67,273 |
-| Into the Unknown | 10.00% | ~61,157 |
-| First Shot | 10.00% | ~61,157 |
-| Herzlich Wilkommen! | 9.00% | ~55,041 |
-| Good Night & Good Luck | 9.00% | ~55,041 |
-| Sancho Panza | 8.00% | ~48,926 |
-| Oh, So This Is How It Works! | 8.00% | ~48,926 |
-| Under Pressure | 7.00% | ~42,810 |
-| On the Trail of the Enemy | 7.00% | ~42,810 |
-| Light in the Darkness | 7.00% | ~42,810 |
-| Flag Burning | 7.00% | ~42,810 |
-| Night Hunter | 7.00% | ~42,810 |
-| Get Outta My House! | 6.00% | ~36,694 |
-| It Wasn't That Hard, Was It? | 6.00% | ~36,694 |
-| Being All Social | 6.00% | ~36,694 |
+| You Never Forget Your First... | 11.00% | ~67,274 |
+| Into the Unknown | 10.00% | ~61,159 |
+| First Shot | 10.00% | ~61,159 |
+| Herzlich Wilkommen! | 9.00% | ~55,043 |
+| Good Night & Good Luck | 9.00% | ~55,043 |
+| Sancho Panza | 8.00% | ~48,927 |
+| Oh, So This Is How It Works! | 8.00% | ~48,927 |
+| Under Pressure | 7.00% | ~42,811 |
+| On the Trail of the Enemy | 7.00% | ~42,811 |
+| Light in the Darkness | 7.00% | ~42,811 |
+| Flag Burning | 7.00% | ~42,811 |
+| Night Hunter | 7.00% | ~42,811 |
+| Get Outta My House! | 6.00% | ~36,695 |
+| It Wasn't That Hard, Was It? | 6.00% | ~36,695 |
+| Being All Social | 6.00% | ~36,695 |
 | Debris and Ashes | 5.00% | ~30,579 |
 | We Will Be Heard! | 5.00% | ~30,579 |
 | Known Associate | 5.00% | ~30,579 |
@@ -34,13 +34,13 @@ Number of Ratings: 7,305  (23.09.2022)
 | Death From Afar | 4.00% | ~24,463 |
 | Terminal Headache | 4.00% | ~24,463 |
 | Slowpoke! | 4.00% | ~24,463 |
-| Tickets, Please! | 3.00% | ~18,347 |
-| Combat Master | 3.00% | ~18,347 |
-| You're Going Down! | 3.00% | ~18,347 |
-| Municipal Services | 2.00% | ~12,231 |
-| Ban Hammer | 2.00% | ~12,231 |
-| Parkour Master | 2.00% | ~12,231 |
-| Modder | 2.00% | ~12,231 |
+| Tickets, Please! | 3.00% | ~18,348 |
+| Combat Master | 3.00% | ~18,348 |
+| You're Going Down! | 3.00% | ~18,348 |
+| Municipal Services | 2.00% | ~12,232 |
+| Ban Hammer | 2.00% | ~12,232 |
+| Parkour Master | 2.00% | ~12,232 |
+| Modder | 2.00% | ~12,232 |
 | Tube Map | 1.00% | ~6,116 |
 | Don Quixote | 1.00% | ~6,116 |
 | Can't You Read the Signs? | 1.00% | ~6,116 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~257 |
 | Connoisseur | 0.10% | ~257 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 611,572 (Ranked 27)  
+Progressed: 611,586 (Ranked 27)  
 Completed: 62 (0.01%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,7 +188,7 @@ Completed: 62 (0.01%) (Ranked 242)
 | 2023-08-11 | 610,694 | 62 |
 | 2023-08-12 | 611,100 | 62 |
 | 2023-08-13 | 611,547 | 62 |
-| 2023-08-14 | 611,572 | 62 |
+| 2023-08-14 | 611,586 | 62 |
 ## Awards
 Max (Character Customization): 8,778  (Ranked 39)  
 Sum: 21,064 (Ranked 54)  

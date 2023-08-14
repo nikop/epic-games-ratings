@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 65,
   "Ranking_EOS_Completed": 187,
   "Ranking_EOS_NewPlayers": 37,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2015-10-16T01:00:00+00:00",
@@ -176,10 +176,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 135843,
-  "EOS_Completed": 221,
-  "EOS_NewPlayers": 2051,
-  "EOS_NewCompleters": 19,
+  "EOS_Progressed": 135845,
+  "EOS_Completed": 222,
+  "EOS_NewPlayers": 2037,
+  "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
     {
@@ -7031,6 +7031,11 @@
       "Time": "2023-08-14T02:20:39.7950415+00:00",
       "NumProgressed": 135843,
       "NumCompleted": 221
+    },
+    {
+      "Time": "2023-08-14T03:07:24.0897074+00:00",
+      "NumProgressed": 135845,
+      "NumCompleted": 222
     }
   ],
   "TotalAchievements": 31,
@@ -7050,7 +7055,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 93732
+      "UsersEstimate": 93733
     },
     {
       "ID": "EAwards_10",
@@ -7090,7 +7095,7 @@
       "Name": "Do or Do Not",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 52979
+      "UsersEstimate": 52980
     },
     {
       "ID": "EAwards_15",
@@ -7146,7 +7151,7 @@
       "Name": "I Have The Power",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 10867
+      "UsersEstimate": 10868
     },
     {
       "ID": "EAwards_21",
@@ -7274,7 +7279,7 @@
       "Name": "Flawless",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 50262
+      "UsersEstimate": 50263
     },
     {
       "ID": "EAwards_9",
@@ -7289,16 +7294,16 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 135843,
-      "Completed": 221
+      "Progressed": 135845,
+      "Completed": 222
     }
   ],
   "FirstSeen": "2023-06-15T17:57:10.0099472+00:00",
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-08-10T19:58:10.866316+00:00",
-  "LastChanged_Achievements": "2023-08-14T02:20:39.795041+00:00",
+  "LastChanged_Achievements": "2023-08-14T03:07:24.0897065+00:00",
   "LastUpdate_AppInfo": "2023-08-10T19:57:06.7025271+00:00",
-  "LastUpdate_Ratings": "2023-08-14T02:12:00.3594863+00:00",
-  "LastUpdate_Achievements": "2023-08-14T02:20:39.7951062+00:00"
+  "LastUpdate_Ratings": "2023-08-14T02:58:10.7412142+00:00",
+  "LastUpdate_Achievements": "2023-08-14T03:07:24.0897943+00:00"
 }

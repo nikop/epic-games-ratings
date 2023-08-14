@@ -6539,7 +6539,7 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 470134,
+  "EOS_Progressed": 470135,
   "EOS_Completed": 20,
   "EOS_NewPlayers": 758,
   "EOS_NewCompleters": 1,
@@ -18654,6 +18654,11 @@
       "Time": "2023-08-14T02:20:27.7732146+00:00",
       "NumProgressed": 470134,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-08-14T03:07:09.6952772+00:00",
+      "NumProgressed": 470135,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 98,
@@ -18849,7 +18854,7 @@
       "Name": "Clean Sheet",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 235067
+      "UsersEstimate": 235068
     },
     {
       "ID": "achievement_club_world_cup",
@@ -18865,7 +18870,7 @@
       "Name": "Do The Double",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 89325
+      "UsersEstimate": 89326
     },
     {
       "ID": "achievement_dont_concede_a_goal_for_10_consecutive_matches",
@@ -18897,7 +18902,7 @@
       "Name": "I\u0027m The Boss!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 197456
+      "UsersEstimate": 197457
     },
     {
       "ID": "achievement_full_board_confidence",
@@ -18937,7 +18942,7 @@
       "Name": "What A Goal!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 103429
+      "UsersEstimate": 103430
     },
     {
       "ID": "achievement_goal_of_the_season",
@@ -18945,7 +18950,7 @@
       "Name": "Superb Strike",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 47013
+      "UsersEstimate": 47014
     },
     {
       "ID": "achievement_goal_scored_in_20_consecutive_matches",
@@ -19041,7 +19046,7 @@
       "Name": "Top Of The Class",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 103429
+      "UsersEstimate": 103430
     },
     {
       "ID": "achievement_manager_of_the_year",
@@ -19209,7 +19214,7 @@
       "Name": "He\u0027s Sold!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 225664
+      "UsersEstimate": 225665
     },
     {
       "ID": "achievement_signed_a_player",
@@ -19217,7 +19222,7 @@
       "Name": "He\u0027s Signed!",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 235067
+      "UsersEstimate": 235068
     },
     {
       "ID": "achievement_top_goalscorer_in_league",
@@ -19241,7 +19246,7 @@
       "Name": "Invincible!",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 47013
+      "UsersEstimate": 47014
     },
     {
       "ID": "achievement_watch_popup_match_viewer",
@@ -19265,7 +19270,7 @@
       "Name": "Comeback King!",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 61117
+      "UsersEstimate": 61118
     },
     {
       "ID": "achievement_win_fantasy_draft",
@@ -19297,7 +19302,7 @@
       "Name": "First Victory",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 235067
+      "UsersEstimate": 235068
     },
     {
       "ID": "achievement_won_domestic_cup",
@@ -19305,7 +19310,7 @@
       "Name": "Cup Glory!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 103429
+      "UsersEstimate": 103430
     },
     {
       "ID": "achievement_won_international_championship",
@@ -19321,7 +19326,7 @@
       "Name": "You\u0027re Up!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 61117
+      "UsersEstimate": 61118
     },
     {
       "ID": "achievement_won_world_cup",
@@ -19337,7 +19342,7 @@
       "Name": "Best In The World",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 47013
+      "UsersEstimate": 47014
     },
     {
       "ID": "career_earnings_over_100_million",
@@ -19448,15 +19453,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 470134,
+      "Progressed": 470135,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-08-13T17:57:37.8359229+00:00",
-  "LastChanged_Achievements": "2023-08-14T02:20:27.7732141+00:00",
+  "LastChanged_Achievements": "2023-08-14T03:07:09.6952766+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:19.9756168+00:00",
-  "LastUpdate_Ratings": "2023-08-14T02:11:26.9327453+00:00",
-  "LastUpdate_Achievements": "2023-08-14T02:20:27.7735542+00:00"
+  "LastUpdate_Ratings": "2023-08-14T02:57:31.2120878+00:00",
+  "LastUpdate_Achievements": "2023-08-14T03:07:09.6954523+00:00"
 }

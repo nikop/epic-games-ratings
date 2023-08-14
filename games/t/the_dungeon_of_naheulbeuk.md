@@ -6,11 +6,11 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 12.00% | ~25,431 |
+| Sowwy! | 12.00% | ~25,432 |
 | Alt+F4 | 0.90% | ~1,907 |
 | Where's that freaking Dwarf? | 0.80% | ~1,695 |
-| Déjà vu | 0.70% | ~1,483 |
-| Sock! SOCK! | 0.70% | ~1,483 |
+| Déjà vu | 0.70% | ~1,484 |
+| Sock! SOCK! | 0.70% | ~1,484 |
 | A beer, two curses, three companions | 0.50% | ~1,060 |
 | Speedrun | 0.50% | ~1,060 |
 | Fireproof Wizardess | 0.50% | ~1,060 |
@@ -20,12 +20,12 @@ Number of Ratings: 118  (23.09.2022)
 | Way of the Wimp | 0.30% | ~636 |
 | The plot thickens... At the tavern | 0.30% | ~636 |
 | The demons' feast | 0.30% | ~636 |
+| The Great Library | 0.30% | ~636 |
 | The Woman in the High Castle | 0.30% | ~636 |
 | %#*!$*! | 0.30% | ~636 |
 | Team Building Exercise | 0.30% | ~636 |
 | Oh, when I'll be level 10... | 0.30% | ~636 |
 | Shiny and Crôm | 0.20% | ~424 |
-| The Great Library | 0.20% | ~424 |
 | Torture and Sensibility | 0.20% | ~424 |
 | Urik's Depths | 0.20% | ~424 |
 | The Dungeon Master | 0.20% | ~424 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Sleep schedule mastery | 0.00% | ~0 |
 | Dumb and dumber | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 211,923 (Ranked 56)  
+Progressed: 211,931 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 2 (0.00%) (Ranked 255)
 | 2023-08-11 | 210,534 | 1 |
 | 2023-08-12 | 211,199 | 1 |
 | 2023-08-13 | 211,857 | 2 |
-| 2023-08-14 | 211,923 | 2 |
+| 2023-08-14 | 211,931 | 2 |
 ## Awards
 Max (Character Customization): 163  (Ranked 291)  
 Sum: 183 (Ranked 376)  

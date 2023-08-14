@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,828 (Ranked 86)  
+Progressed: 58,829 (Ranked 86)  
 Completed: 0 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,7 +174,7 @@ Completed: 0 (0.00%) (Ranked 255)
 | 2023-08-11 | 58,682 | 0 |
 | 2023-08-12 | 58,752 | 0 |
 | 2023-08-13 | 58,825 | 0 |
-| 2023-08-14 | 58,828 | 0 |
+| 2023-08-14 | 58,829 | 0 |
 ## Awards
 Max (Character Customization): 6,933  (Ranked 49)  
 Sum: 14,066 (Ranked 67)  

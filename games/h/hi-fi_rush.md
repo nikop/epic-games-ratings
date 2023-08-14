@@ -16,11 +16,11 @@ Rating: 4.88 (Ranked 18)
 | I play my own way! | 6.00% | ~233 |
 | Perfect Parry | 6.00% | ~233 |
 | Uh, they were broken when I got here | 6.00% | ~233 |
+| I look cool. But I can look COOLER. | 6.00% | ~233 |
 | Alright, that felt AWESOME! | 6.00% | ~233 |
 | Whoa! There's ANOTHER health bar!? | 5.00% | ~194 |
 | Z-shielding's got nothing on us! | 5.00% | ~194 |
 | Kissing the sky! | 5.00% | ~194 |
-| I look cool. But I can look COOLER. | 5.00% | ~194 |
 | Does that say weakpoint? | 5.00% | ~194 |
 | The Negotiator | 4.00% | ~155 |
 | Headliner | 4.00% | ~155 |

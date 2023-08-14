@@ -28,16 +28,16 @@ Rating: 4.18 (Ranked 868)
 | From Inside Gotham's Walls | 3.00% | ~2,035 |
 | Voiceless | 3.00% | ~2,035 |
 | Seeking Asylum | 3.00% | ~2,035 |
-| End of an Era | 2.00% | ~1,356 |
-| In Your Element | 2.00% | ~1,356 |
-| Not On My Watch | 2.00% | ~1,356 |
-| Bulldozed | 2.00% | ~1,356 |
-| Out of Their League | 2.00% | ~1,356 |
-| Shock Til They Drop | 2.00% | ~1,356 |
-| Drone You Out | 2.00% | ~1,356 |
-| Gotham Knight | 2.00% | ~1,356 |
-| Gotham City Confidential | 2.00% | ~1,356 |
-| Solid Alibi | 2.00% | ~1,356 |
+| End of an Era | 2.00% | ~1,357 |
+| In Your Element | 2.00% | ~1,357 |
+| Not On My Watch | 2.00% | ~1,357 |
+| Bulldozed | 2.00% | ~1,357 |
+| Out of Their League | 2.00% | ~1,357 |
+| Shock Til They Drop | 2.00% | ~1,357 |
+| Drone You Out | 2.00% | ~1,357 |
+| Gotham Knight | 2.00% | ~1,357 |
+| Gotham City Confidential | 2.00% | ~1,357 |
+| Solid Alibi | 2.00% | ~1,357 |
 | Fusion Expert | 1.00% | ~678 |
 | Expert Crime Fighter | 1.00% | ~678 |
 | Family Meeting | 1.00% | ~678 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 868)
 | Read Owl About It | 0.10% | ~68 |
 | History Major | 0.10% | ~68 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,824 (Ranked 80)  
+Progressed: 67,826 (Ranked 80)  
 Completed: 107 (0.16%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 107 (0.16%) (Ranked 187)
 | 2023-08-11 | 67,760 | 106 |
 | 2023-08-12 | 67,793 | 106 |
 | 2023-08-13 | 67,820 | 107 |
-| 2023-08-14 | 67,824 | 107 |
+| 2023-08-14 | 67,826 | 107 |
 ## Awards
 Max (Great Boss Battles): 2,491  (Ranked 100)  
 Sum: 4,145 (Ranked 140)  

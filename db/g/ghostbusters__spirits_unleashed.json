@@ -1788,7 +1788,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 25060,
+  "EOS_Progressed": 25061,
   "EOS_Completed": 51,
   "EOS_NewPlayers": 208,
   "EOS_NewCompleters": 2,
@@ -10348,6 +10348,11 @@
       "Time": "2023-08-14T01:43:45.0555264+00:00",
       "NumProgressed": 25060,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-08-14T03:03:47.8220473+00:00",
+      "NumProgressed": 25061,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 51,
@@ -10359,7 +10364,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 18294
+      "UsersEstimate": 18295
     },
     {
       "ID": "Animated",
@@ -10367,7 +10372,7 @@
       "Name": "Animated",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 6014
+      "UsersEstimate": 6015
     },
     {
       "ID": "Back_Off",
@@ -10431,7 +10436,7 @@
       "Name": "Daily Dose",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 8520
+      "UsersEstimate": 8521
     },
     {
       "ID": "Diabolical",
@@ -10495,7 +10500,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 13532
+      "UsersEstimate": 13533
     },
     {
       "ID": "GB_In_Training",
@@ -10591,7 +10596,7 @@
       "Name": "Rift Destroyer",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 4761
+      "UsersEstimate": 4762
     },
     {
       "ID": "Rift_Seeker",
@@ -10639,7 +10644,7 @@
       "Name": "Skilled",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 6014
+      "UsersEstimate": 6015
     },
     {
       "ID": "Solo_Capture",
@@ -10647,7 +10652,7 @@
       "Name": "Solo Capture",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 8019
+      "UsersEstimate": 8020
     },
     {
       "ID": "Stunner",
@@ -10687,7 +10692,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 13532
+      "UsersEstimate": 13533
     },
     {
       "ID": "Teamwork",
@@ -10695,7 +10700,7 @@
       "Name": "Teamwork",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 11026
+      "UsersEstimate": 11027
     },
     {
       "ID": "Terrifying",
@@ -10719,7 +10724,7 @@
       "Name": "There you are!",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 10525
+      "UsersEstimate": 10526
     },
     {
       "ID": "Tobins_Prodigy",
@@ -10766,7 +10771,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 25060,
+      "Progressed": 25061,
       "Completed": 51
     }
   ],
@@ -10774,8 +10779,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-08-13T18:00:54.5920989+00:00",
-  "LastChanged_Achievements": "2023-08-14T02:17:34.5644504+00:00",
+  "LastChanged_Achievements": "2023-08-14T03:03:47.8220467+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:52.55817+00:00",
-  "LastUpdate_Ratings": "2023-08-14T02:14:28.3921354+00:00",
-  "LastUpdate_Achievements": "2023-08-14T02:17:34.5646004+00:00"
+  "LastUpdate_Ratings": "2023-08-14T03:01:03.5814368+00:00",
+  "LastUpdate_Achievements": "2023-08-14T03:03:47.8221631+00:00"
 }

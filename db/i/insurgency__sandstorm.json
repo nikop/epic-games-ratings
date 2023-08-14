@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 167,
   "Ranking_EOS_Progress": 38,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 33,
+  "Ranking_EOS_NewPlayers": 34,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-02-10T17:00:00+00:00",
@@ -2989,9 +2989,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 432399,
+  "EOS_Progressed": 432411,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2422,
+  "EOS_NewPlayers": 2409,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15684,6 +15684,11 @@
       "Time": "2023-08-14T02:20:32.3005366+00:00",
       "NumProgressed": 432399,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-14T03:07:15.1716489+00:00",
+      "NumProgressed": 432411,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -15863,7 +15868,7 @@
       "Name": "Point Shooting",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 21620
+      "UsersEstimate": 21621
     },
     {
       "ID": "ACH_PUSH_VICTORY",
@@ -15959,7 +15964,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 21620
+      "UsersEstimate": 21621
     },
     {
       "ID": "ACH_WET_FEET",
@@ -15974,15 +15979,15 @@
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 432399,
+      "Progressed": 432411,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-08-13T18:59:32.5041008+00:00",
-  "LastChanged_Achievements": "2023-08-14T02:20:32.3005362+00:00",
+  "LastChanged_Achievements": "2023-08-14T03:07:15.1716483+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:41.0153429+00:00",
-  "LastUpdate_Ratings": "2023-08-14T02:13:16.8858624+00:00",
-  "LastUpdate_Achievements": "2023-08-14T02:20:32.3007974+00:00"
+  "LastUpdate_Ratings": "2023-08-14T02:59:40.371065+00:00",
+  "LastUpdate_Achievements": "2023-08-14T03:07:15.1717657+00:00"
 }
