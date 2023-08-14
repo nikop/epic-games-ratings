@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
@@ -1935,9 +1935,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 43261,
+  "EOS_Progressed": 43262,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5925,6 +5925,11 @@
       "Time": "2023-08-14T16:07:14.4137694+00:00",
       "NumProgressed": 43261,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-08-14T19:06:46.4434535+00:00",
+      "NumProgressed": 43262,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -5936,7 +5941,7 @@
       "Name": "Groovy",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 26389
+      "UsersEstimate": 26390
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -5976,7 +5981,7 @@
       "Name": "Bad Blood",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 7354
+      "UsersEstimate": 7355
     },
     {
       "ID": "SE_COMPLETE_CAMPAIGN_NIGHTMARE",
@@ -6016,7 +6021,7 @@
       "Name": "Damnedbusters",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 3893
+      "UsersEstimate": 3894
     },
     {
       "ID": "SE_COMPLETE_DEAD_ZEPPELIN",
@@ -6240,7 +6245,7 @@
       "Name": "Gold",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 21630
+      "UsersEstimate": 21631
     },
     {
       "ID": "SE_GET_X_FOR_1_EXPLOSIVE_KILL",
@@ -6248,7 +6253,7 @@
       "Name": "Come and get it! It\u0027s a running buffet!",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 16439
+      "UsersEstimate": 16440
     },
     {
       "ID": "SE_GET_X_HEADSHOT_STREAK",
@@ -6264,7 +6269,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 29850
+      "UsersEstimate": 29851
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -6280,7 +6285,7 @@
       "Name": "I never liked them anyway",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 12978
+      "UsersEstimate": 12979
     },
     {
       "ID": "SE_KILL_SNIPER_MID_AIR",
@@ -6288,7 +6293,7 @@
       "Name": "Give me something to shoot!",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 19900
+      "UsersEstimate": 19901
     },
     {
       "ID": "SE_KILL_SUICIDER_BY_HITTING_THE_GRENADE",
@@ -6320,7 +6325,7 @@
       "Name": "Got your back",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 11680
+      "UsersEstimate": 11681
     },
     {
       "ID": "SE_KILL_X_ZOMBIES_WITHOUT_MISS",
@@ -6336,7 +6341,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 28552
+      "UsersEstimate": 28553
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -6352,7 +6357,7 @@
       "Name": "Weapons expert",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7354
+      "UsersEstimate": 7355
     },
     {
       "ID": "SE_OPEN_EVERY_HIDDEN_CRATE_IN_HORDE",
@@ -6463,15 +6468,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 43261,
+      "Progressed": 43262,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-08-14T08:57:36.4676505+00:00",
-  "LastChanged_Achievements": "2023-08-14T18:06:45.210333+00:00",
+  "LastChanged_Achievements": "2023-08-14T19:06:46.4434528+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:09.4758058+00:00",
-  "LastUpdate_Ratings": "2023-08-14T17:57:37.8019768+00:00",
-  "LastUpdate_Achievements": "2023-08-14T18:06:45.2104159+00:00"
+  "LastUpdate_Ratings": "2023-08-14T18:57:41.9228563+00:00",
+  "LastUpdate_Achievements": "2023-08-14T19:06:46.4435425+00:00"
 }

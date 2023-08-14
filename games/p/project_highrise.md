@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | In the Black | 59.00% | ~191 |
-| Starting Skyward | 53.00% | ~172 |
+| Starting Skyward | 54.00% | ~175 |
 | Grime is Not Good | 47.00% | ~152 |
 | Floor Galore | 40.00% | ~130 |
 | Campaign Launch | 40.00% | ~130 |

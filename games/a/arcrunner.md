@@ -22,7 +22,7 @@
 | Fully Modded | 5.00% | ~37 |
 | Rookie | 5.00% | ~37 |
 | Up Close And Personal | 5.00% | ~37 |
-| Eden Heights | 4.00% | ~29 |
+| Eden Heights | 4.00% | ~30 |
 | Inner Core | 3.00% | ~22 |
 | Integration | 3.00% | ~22 |
 | Outer Core | 3.00% | ~22 |
@@ -34,7 +34,7 @@
 | Weaponsmith | 0.10% | ~1 |
 | Hell Raiser | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 737 (Ranked 208)  
+Progressed: 738 (Ranked 208)  
 Completed: 0 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,6 +120,7 @@ Completed: 0 (0.00%) (Ranked 255)
 | 2023-08-03 | 733 | 0 |
 | 2023-08-04 | 734 | 0 |
 | 2023-08-12 | 737 | 0 |
+| 2023-08-14 | 738 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

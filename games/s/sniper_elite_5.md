@@ -21,6 +21,7 @@ Rating: 4.44 (Ranked 644)
 | Resourceful | 4.00% | ~139 |
 | Der Geist | 4.00% | ~139 |
 | No Stone Unturned | 3.00% | ~104 |
+| Opposing Force | 3.00% | ~104 |
 | Organ Grinder | 3.00% | ~104 |
 | Gunslinger | 3.00% | ~104 |
 | Skirmisher | 3.00% | ~104 |
@@ -28,7 +29,6 @@ Rating: 4.44 (Ranked 644)
 | Close Quarters | 3.00% | ~104 |
 | Snake in the Grass | 3.00% | ~104 |
 | Brains of the Operation | 3.00% | ~104 |
-| Opposing Force | 2.00% | ~69 |
 | Enemy at the Gates | 2.00% | ~69 |
 | Fields of Glory | 2.00% | ~69 |
 | Just a Flesh Wound | 2.00% | ~69 |

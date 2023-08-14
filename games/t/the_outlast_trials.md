@@ -4,7 +4,7 @@
 Rating: 4.65 (Ranked 298)  
 ## Awards
 Max (Great for Beginners): 100  (Ranked 335)  
-Sum: 686 (Ranked 275)  
+Sum: 687 (Ranked 275)  
 Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
@@ -16,7 +16,7 @@ Diff (max vs sum): 60
 | This game is Extremely Fun | 80 |
 | This game is Highly Recommended | 77 |
 | This game is Relaxing | 75 |
-| This game has Challenging Combat | 72 |
+| This game has Challenging Combat | 73 |
 | This game is Educational | 28 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |

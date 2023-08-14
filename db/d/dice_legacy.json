@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewPlayers": 222,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -1709,9 +1709,9 @@
       "ID": "WINMATCH_DIFF_LEGACY",
       "SetID": "6ohhfoc",
       "Name": "Like the dream",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "WINMATCH_DIFF_PACIFIST",
@@ -1742,8 +1742,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-06-02T06:57:26.4164938+00:00",
-  "LastChanged_Achievements": "2023-08-14T18:06:38.8472868+00:00",
+  "LastChanged_Achievements": "2023-08-14T19:06:39.6451998+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:18.4368052+00:00",
-  "LastUpdate_Ratings": "2023-08-14T17:59:21.2590377+00:00",
-  "LastUpdate_Achievements": "2023-08-14T18:06:38.8473288+00:00"
+  "LastUpdate_Ratings": "2023-08-14T18:59:30.5744758+00:00",
+  "LastUpdate_Achievements": "2023-08-14T19:06:39.6452465+00:00"
 }

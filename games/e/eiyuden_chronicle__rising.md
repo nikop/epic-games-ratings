@@ -42,9 +42,9 @@ Number of Ratings: 48  (23.09.2022)
 | Arms Master | 19.00% | ~130 |
 | Rune Scholar | 17.00% | ~116 |
 | No Treasure Left Behind | 13.00% | ~89 |
+| One-Hundred Resident Record | 12.00% | ~82 |
 | Sommelier | 12.00% | ~82 |
 | Champion of the Great Forest | 12.00% | ~82 |
-| One-Hundred Resident Record | 11.00% | ~75 |
 | A Local Hero | 11.00% | ~75 |
 | Gourmand | 10.00% | ~68 |
 | Accessorizer | 10.00% | ~68 |

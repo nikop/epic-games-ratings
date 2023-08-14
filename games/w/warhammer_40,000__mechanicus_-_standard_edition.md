@@ -5,8 +5,8 @@ Rating: 4.43 (Ranked 659)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 25.00% | ~55,041 |
-| This is only the beginning | 19.00% | ~41,831 |
+| No aid from the Omnissiah | 25.00% | ~55,042 |
+| This is only the beginning | 19.00% | ~41,832 |
 | Knowledge is power | 12.00% | ~26,420 |
 | Power Ranger | 9.00% | ~19,815 |
 | Galvanic Rifle | 9.00% | ~19,815 |
@@ -26,7 +26,7 @@ Rating: 4.43 (Ranked 659)
 | Architect Abortion | 2.00% | ~4,403 |
 | Cohortus Maximus | 0.80% | ~1,761 |
 | Mother of Xenarites | 0.40% | ~881 |
-| False God | 0.30% | ~660 |
+| False God | 0.30% | ~661 |
 | Hard | 0.20% | ~440 |
 | Sensory overload | 0.20% | ~440 |
 | Transonic Blur | 0.20% | ~440 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 659)
 | Perma-live | 0.10% | ~220 |
 | Purge the Heretek | 0.10% | ~220 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,164 (Ranked 54)  
+Progressed: 220,170 (Ranked 54)  
 Completed: 5 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 5 (0.00%) (Ranked 255)
 | 2023-08-11 | 219,919 | 5 |
 | 2023-08-12 | 220,006 | 5 |
 | 2023-08-13 | 220,114 | 5 |
-| 2023-08-14 | 220,164 | 5 |
+| 2023-08-14 | 220,170 | 5 |
 ## Awards
 Max (Highly Recommended): 280  (Ranked 240)  
 Sum: 2,124 (Ranked 195)  

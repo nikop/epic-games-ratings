@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 452,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -358,9 +358,9 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 1132,
+  "EOS_Progressed": 1134,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2128,6 +2128,11 @@
       "Time": "2023-08-14T17:05:26.6729756+00:00",
       "NumProgressed": 1132,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-14T19:05:54.3316037+00:00",
+      "NumProgressed": 1134,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -2195,7 +2200,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1121
+      "UsersEstimate": 1123
     },
     {
       "ID": "EXPERT_1",
@@ -2235,7 +2240,7 @@
       "Name": "Head Burst",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "INDY_1",
@@ -2291,7 +2296,7 @@
       "Name": "One HIT wonder",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -2299,7 +2304,7 @@
       "Name": "One shot, one kill",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "PACIFIST",
@@ -2395,7 +2400,7 @@
       "Name": "Traveler",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "VVE",
@@ -2409,9 +2414,9 @@
       "ID": "WANDERER_1",
       "SetID": "bf13m8j",
       "Name": "Wanderer",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 408
+      "UsersEstimate": 397
     },
     {
       "ID": "WISHMASTER_1",
@@ -2426,15 +2431,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1132,
+      "Progressed": 1134,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-06-11T18:59:46.5771351+00:00",
-  "LastChanged_Achievements": "2023-08-14T18:05:56.3388897+00:00",
+  "LastChanged_Achievements": "2023-08-14T19:05:54.3316029+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:12.8768865+00:00",
-  "LastUpdate_Ratings": "2023-08-14T17:57:40.6200493+00:00",
-  "LastUpdate_Achievements": "2023-08-14T18:05:56.3389253+00:00"
+  "LastUpdate_Ratings": "2023-08-14T18:57:44.9155429+00:00",
+  "LastUpdate_Achievements": "2023-08-14T19:05:54.3316412+00:00"
 }

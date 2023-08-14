@@ -7,11 +7,11 @@ Number of Ratings: 45  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Cost of Heroism | 39.00% | ~533 |
-| Me and My Familiar | 37.00% | ~505 |
-| This Too Shall Pass | 31.00% | ~423 |
+| Me and My Familiar | 37.00% | ~506 |
+| This Too Shall Pass | 31.00% | ~424 |
 | Passing Shadow | 30.00% | ~410 |
 | Cutthroat Competitors | 30.00% | ~410 |
-| How Romantic! | 28.00% | ~382 |
+| How Romantic! | 28.00% | ~383 |
 | Daybreak | 27.00% | ~369 |
 | Gotta Ca... Must Collect All of Them | 25.00% | ~342 |
 | Completing the Look | 14.00% | ~191 |
@@ -55,15 +55,15 @@ Number of Ratings: 45  (23.09.2022)
 | Fight Like a Bird | 2.00% | ~27 |
 | Solid as the Hills | 2.00% | ~27 |
 | Symbiosis | 2.00% | ~27 |
+| Thwack! | 2.00% | ~27 |
 | A Temperamental Shrub | 2.00% | ~27 |
 | A Lowly Crust of Beef | 1.00% | ~14 |
 | I'm Not Smiling | 1.00% | ~14 |
-| Thwack! | 1.00% | ~14 |
 | Overwhelming Monstrosity | 0.90% | ~12 |
 | We Call That Mortificient! | 0.90% | ~12 |
 | Peacemaker | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,366 (Ranked 183)  
+Progressed: 1,367 (Ranked 183)  
 Completed: 5 (0.37%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,6 +164,7 @@ Completed: 5 (0.37%) (Ranked 156)
 | 2023-08-11 | 1,362 | 5 |
 | 2023-08-12 | 1,364 | 5 |
 | 2023-08-13 | 1,366 | 5 |
+| 2023-08-14 | 1,367 | 5 |
 ## Awards
 Max (Character Customization): 28  (Ranked 467)  
 Sum: 28 (Ranked 479)  

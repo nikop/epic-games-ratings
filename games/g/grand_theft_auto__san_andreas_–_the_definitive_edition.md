@@ -19,8 +19,8 @@ Rating: 4.56 (Ranked 470)
 | With Extra Dip | 7.00% | ~838 |
 | The End of the Line | 7.00% | ~838 |
 | Saviour | 6.00% | ~718 |
+| They Can’t Stop All of Us | 5.00% | ~598 |
 | Rescue a Kitten Too? | 5.00% | ~598 |
-| They Can’t Stop All of Us | 4.00% | ~479 |
 | What are the Odds | 4.00% | ~479 |
 | Bike or Biker | 3.00% | ~359 |
 | What the City Needs | 3.00% | ~359 |
@@ -159,12 +159,12 @@ Completed: 38 (0.32%) (Ranked 162)
 | 2023-08-13 | 11,958 | 38 |
 | 2023-08-14 | 11,965 | 38 |
 ## Awards
-Max (Great Boss Battles): 254  (Ranked 250)  
-Sum: 274 (Ranked 346)  
+Max (Great Boss Battles): 256  (Ranked 250)  
+Sum: 276 (Ranked 346)  
 Diff (max vs sum): -96  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 254 |
+| This game has Great Boss Battles | 256 |
 | This game is Relaxing | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -264,3 +264,4 @@ Diff (max vs sum): -96
 | 2023-08-10 | 4.56 | 248 | 268 |
 | 2023-08-11 | 4.56 | 250 | 270 |
 | 2023-08-12 | 4.56 | 254 | 274 |
+| 2023-08-14 | 4.56 | 256 | 276 |

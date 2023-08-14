@@ -9,16 +9,16 @@ Number of Ratings: 1,354  (23.09.2022)
 | Devoured by Darkness | 23.00% | ~2,518 |
 | A Spark | 16.00% | ~1,752 |
 | Burning City | 15.00% | ~1,642 |
-| Mythic Choices | 13.00% | ~1,423 |
-| Defender's Heart | 13.00% | ~1,423 |
+| Mythic Choices | 13.00% | ~1,424 |
+| Defender's Heart | 13.00% | ~1,424 |
 | Banner over the Citadel | 12.00% | ~1,314 |
 | Queen's Gratitude | 11.00% | ~1,204 |
-| Fifth Crusade | 7.00% | ~766 |
-| Embrace of the Abyss | 5.00% | ~547 |
-| Path of the Angel | 5.00% | ~547 |
-| Great Upstart | 5.00% | ~547 |
-| All Paths Open | 5.00% | ~547 |
-| Demonic and Divine | 5.00% | ~547 |
+| Fifth Crusade | 7.00% | ~767 |
+| Embrace of the Abyss | 5.00% | ~548 |
+| Path of the Angel | 5.00% | ~548 |
+| Great Upstart | 5.00% | ~548 |
+| All Paths Open | 5.00% | ~548 |
+| Demonic and Divine | 5.00% | ~548 |
 | Path of the Azata | 4.00% | ~438 |
 | Transformation | 4.00% | ~438 |
 | The Legacy | 4.00% | ~438 |
@@ -44,9 +44,9 @@ Number of Ratings: 1,354  (23.09.2022)
 | Stay Underground | 2.00% | ~195 |
 | Hanged Man's Notes | 2.00% | ~195 |
 | Sarkoris Will Be Green | 2.00% | ~195 |
-| The Final Threshold | 1.00% | ~109 |
-| Strategic Victory | 1.00% | ~109 |
-| Abyssal Conspiracy | 1.00% | ~109 |
+| The Final Threshold | 1.00% | ~110 |
+| Strategic Victory | 1.00% | ~110 |
+| Abyssal Conspiracy | 1.00% | ~110 |
 | This Wall Won't Fall | 1.00% | ~97 |
 | Not the Last Sarkorian | 1.00% | ~97 |
 | Path of the Legend | 0.90% | ~99 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,949 (Ranked 120)  
+Progressed: 10,950 (Ranked 120)  
 Completed: 0 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,7 +239,7 @@ Completed: 0 (0.00%) (Ranked 255)
 | 2023-08-11 | 10,913 | 0 |
 | 2023-08-12 | 10,928 | 0 |
 | 2023-08-13 | 10,939 | 0 |
-| 2023-08-14 | 10,949 | 0 |
+| 2023-08-14 | 10,950 | 0 |
 ## Awards
 Max (Character Customization): 1,700  (Ranked 117)  
 Sum: 6,887 (Ranked 113)  

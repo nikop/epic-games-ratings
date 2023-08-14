@@ -28,12 +28,12 @@ Number of Ratings: 177  (23.09.2022)
 | Casanova | 0.50% | ~30 |
 | It Smells Like Roses | 0.50% | ~16 |
 | Now It's a Party! | 0.50% | ~30 |
+| Stephanie | 0.50% | ~30 |
 | The Magic Number | 0.50% | ~30 |
 | Vickie | 0.50% | ~30 |
 | Benedict Brahrnold | 0.40% | ~24 |
 | I'll Be Back | 0.40% | ~24 |
 | Love Conquers All | 0.40% | ~24 |
-| Stephanie | 0.40% | ~24 |
 | Te Amo Lety | 0.40% | ~24 |
 | Ashley | 0.30% | ~18 |
 | The Bride | 0.30% | ~18 |

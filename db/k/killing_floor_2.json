@@ -4,7 +4,7 @@
   "ProductSlug": "killing-floor-2",
   "Ranking_Rating": 664,
   "Ranking_Popularity": 30,
-  "Ranking_PopularitySum": 44,
+  "Ranking_PopularitySum": 45,
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 358,
@@ -7534,10 +7534,16 @@
       "Rating": 4.42,
       "NumberOfAwards": 27781,
       "NumberOfAwardsMax": 12615
+    },
+    {
+      "Time": "2023-08-14T18:58:02.2090353+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 27784,
+      "NumberOfAwardsMax": 12615
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27781,
+  "NumberOfAwards": 27784,
   "NumberOfAwardsMax": 12615,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -7575,7 +7581,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1844
+      "Count": 1847
     },
     {
       "Text": "This game has Amazing Characters",
@@ -7613,8 +7619,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:46.1518671+00:00",
-  "LastChanged": "2023-08-14T14:57:32.197617+00:00",
+  "LastChanged": "2023-08-14T18:58:02.2090351+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:24.6194489+00:00",
-  "LastUpdate_Ratings": "2023-08-14T17:57:57.2958607+00:00",
-  "LastUpdate_Achievements": "2023-08-14T18:05:00.1638822+00:00"
+  "LastUpdate_Ratings": "2023-08-14T18:58:02.2090358+00:00",
+  "LastUpdate_Achievements": "2023-08-14T19:04:56.5663481+00:00"
 }

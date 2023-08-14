@@ -3,7 +3,7 @@
   "Name": "Empires of the Undergrowth",
   "ProductSlug": "empires-of-the-undergrowth",
   "Ranking_Rating": 145,
-  "Ranking_Popularity": 418,
+  "Ranking_Popularity": 413,
   "Ranking_PopularitySum": 319,
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 255,
@@ -761,11 +761,17 @@
       "Rating": 4.74,
       "NumberOfAwards": 397,
       "NumberOfAwardsMax": 43
+    },
+    {
+      "Time": "2023-08-14T18:57:44.3246814+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 399,
+      "NumberOfAwardsMax": 45
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 397,
-  "NumberOfAwardsMax": 43,
+  "NumberOfAwards": 399,
+  "NumberOfAwardsMax": 45,
   "MaxAwardTitle": "Competitive Players",
   "Tags": [
     {
@@ -790,7 +796,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 43
+      "Count": 45
     },
     {
       "Text": "This game is Extremely Fun",
@@ -858,8 +864,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:38.799219+00:00",
-  "LastChanged": "2023-08-14T16:57:31.7098655+00:00",
+  "LastChanged": "2023-08-14T18:57:44.3246812+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:11.7115267+00:00",
-  "LastUpdate_Ratings": "2023-08-14T17:57:40.0507741+00:00",
-  "LastUpdate_Achievements": "2023-08-14T18:07:03.4069742+00:00"
+  "LastUpdate_Ratings": "2023-08-14T18:57:44.3246818+00:00",
+  "LastUpdate_Achievements": "2023-08-14T19:07:05.5210565+00:00"
 }

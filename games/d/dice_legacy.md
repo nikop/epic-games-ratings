@@ -27,7 +27,7 @@ Rating: 4.27 (Ranked 808)
 | The great fire | 1.00% | ~10 |
 | The Mad | 1.00% | ~10 |
 | The Council | 0.90% | ~9 |
-| Like the dream | 0.70% | ~7 |
+| Like the dream | 0.80% | ~8 |
 | Six Faces | 0.60% | ~6 |
 | Charismatic Leader | 0.60% | ~6 |
 | The Great Winter | 0.50% | ~5 |

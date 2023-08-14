@@ -5969,9 +5969,9 @@
       "ID": "REWARD_14_OPPOSING_FORCE",
       "SetID": "bm6el81",
       "Name": "Opposing Force",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 104
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -6520,8 +6520,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-08-11T01:35:43.0365889+00:00",
-  "LastChanged_Achievements": "2023-08-14T18:04:19.7144589+00:00",
+  "LastChanged_Achievements": "2023-08-14T19:04:14.1221165+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:04.4888171+00:00",
-  "LastUpdate_Ratings": "2023-08-14T17:58:20.9063989+00:00",
-  "LastUpdate_Achievements": "2023-08-14T18:04:19.7145706+00:00"
+  "LastUpdate_Ratings": "2023-08-14T18:58:27.1132189+00:00",
+  "LastUpdate_Achievements": "2023-08-14T19:04:14.1222573+00:00"
 }

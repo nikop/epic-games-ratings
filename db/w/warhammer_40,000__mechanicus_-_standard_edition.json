@@ -549,9 +549,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 220164,
+  "EOS_Progressed": 220170,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 588,
+  "EOS_NewPlayers": 590,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13094,6 +13094,11 @@
       "Time": "2023-08-14T18:03:13.2893508+00:00",
       "NumProgressed": 220164,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-14T19:03:04.0490138+00:00",
+      "NumProgressed": 220170,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -13105,7 +13110,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 41831
+      "UsersEstimate": 41832
     },
     {
       "ID": "ACH_BASE_10",
@@ -13113,7 +13118,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 55041
+      "UsersEstimate": 55042
     },
     {
       "ID": "ACH_BASE_11",
@@ -13121,7 +13126,7 @@
       "Name": "False God",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "ACH_BASE_12",
@@ -13376,7 +13381,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 220164,
+      "Progressed": 220170,
       "Completed": 5
     }
   ],
@@ -13384,8 +13389,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-07-29T17:58:35.8211483+00:00",
-  "LastChanged_Achievements": "2023-08-14T18:03:13.2893503+00:00",
+  "LastChanged_Achievements": "2023-08-14T19:03:04.0490132+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:14.4615999+00:00",
-  "LastUpdate_Ratings": "2023-08-14T18:00:22.1051053+00:00",
-  "LastUpdate_Achievements": "2023-08-14T18:03:13.2894524+00:00"
+  "LastUpdate_Ratings": "2023-08-14T19:00:35.2146279+00:00",
+  "LastUpdate_Achievements": "2023-08-14T19:03:04.0491459+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 115,
   "Ranking_EOS_NewPlayers": 36,
-  "Ranking_EOS_NewCompleters": 8,
+  "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -5744,10 +5744,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 31045,
       "NumberOfAwardsMax": 5147
+    },
+    {
+      "Time": "2023-08-14T19:00:09.8226095+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 31049,
+      "NumberOfAwardsMax": 5147
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 31045,
+  "NumberOfAwards": 31049,
   "NumberOfAwardsMax": 5147,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5785,7 +5791,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4066
+      "Count": 4070
     },
     {
       "Text": "This game has Playful Visuals",
@@ -5794,9 +5800,9 @@
       "Count": 3354
     }
   ],
-  "EOS_Progressed": 221860,
+  "EOS_Progressed": 221880,
   "EOS_Completed": 2181,
-  "EOS_NewPlayers": 2196,
+  "EOS_NewPlayers": 2197,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -18394,6 +18400,11 @@
       "Time": "2023-08-14T18:04:31.1765665+00:00",
       "NumProgressed": 221860,
       "NumCompleted": 2181
+    },
+    {
+      "Time": "2023-08-14T19:04:25.4424769+00:00",
+      "NumProgressed": 221880,
+      "NumCompleted": 2181
     }
   ],
   "TotalAchievements": 516,
@@ -22523,30 +22534,30 @@
       "ID": "objective_completed_1401",
       "SetID": "415jc5c",
       "Name": "There\u0027s a Flying Snake in my Boot!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 188
+      "UsersEstimate": 376
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 188134,
+      "Progressed": 188154,
       "Completed": 3231
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 221860,
+      "Progressed": 221880,
       "Completed": 2181
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-08-14T17:59:58.2129786+00:00",
-  "LastChanged_Achievements": "2023-08-14T18:04:31.1765658+00:00",
+  "LastChanged": "2023-08-14T19:00:09.8226091+00:00",
+  "LastChanged_Achievements": "2023-08-14T19:04:25.4424763+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:51.8567155+00:00",
-  "LastUpdate_Ratings": "2023-08-14T17:59:58.2129793+00:00",
-  "LastUpdate_Achievements": "2023-08-14T18:04:31.1796702+00:00"
+  "LastUpdate_Ratings": "2023-08-14T19:00:09.8226101+00:00",
+  "LastUpdate_Achievements": "2023-08-14T19:04:25.4456738+00:00"
 }

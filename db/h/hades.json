@@ -4057,9 +4057,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 701254,
+  "EOS_Progressed": 701255,
   "EOS_Completed": 6298,
-  "EOS_NewPlayers": 554,
+  "EOS_NewPlayers": 551,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 0.9,
   "EosHistory": [
@@ -16452,6 +16452,11 @@
       "Time": "2023-08-14T18:05:52.5722518+00:00",
       "NumProgressed": 701254,
       "NumCompleted": 6298
+    },
+    {
+      "Time": "2023-08-14T19:05:50.5710541+00:00",
+      "NumProgressed": 701255,
+      "NumCompleted": 6298
     }
   ],
   "TotalAchievements": 49,
@@ -16511,7 +16516,7 @@
       "Name": "Three-Headed Boy",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 224401
+      "UsersEstimate": 224402
     },
     {
       "ID": "AchClearAnyRun",
@@ -16519,7 +16524,7 @@
       "Name": "Is There No Escape?",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 364652
+      "UsersEstimate": 364653
     },
     {
       "ID": "AchClearAsphodel",
@@ -16527,7 +16532,7 @@
       "Name": "Escaped Asphodel",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 561003
+      "UsersEstimate": 561004
     },
     {
       "ID": "AchClearElysium",
@@ -16559,7 +16564,7 @@
       "Name": "Weapon of Fate",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 147263
+      "UsersEstimate": 147264
     },
     {
       "ID": "AchClearTartarus",
@@ -16567,7 +16572,7 @@
       "Name": "Escaped Tartarus",
       "Percentage": 89,
       "XP": 25,
-      "UsersEstimate": 624116
+      "UsersEstimate": 624117
     },
     {
       "ID": "AchCrushedThanatos",
@@ -16575,7 +16580,7 @@
       "Name": "Death Dealer",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 315564
+      "UsersEstimate": 315565
     },
     {
       "ID": "AchEliteAttributeKills",
@@ -16583,7 +16588,7 @@
       "Name": "Slashed Benefits",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 84150
+      "UsersEstimate": 84151
     },
     {
       "ID": "AchFishFromEachBiome",
@@ -16639,7 +16644,7 @@
       "Name": "Bad Call",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 70125
+      "UsersEstimate": 70126
     },
     {
       "ID": "AchLeveledKeepsakes",
@@ -16687,7 +16692,7 @@
       "Name": "Chthonic Colleagues",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 441790
+      "UsersEstimate": 441791
     },
     {
       "ID": "AchMirrorAllUnlocked",
@@ -16695,7 +16700,7 @@
       "Name": "Nyx\u0027s Mirror",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 70125
+      "UsersEstimate": 70126
     },
     {
       "ID": "AchMirrorUpgradeClears",
@@ -16719,7 +16724,7 @@
       "Name": "Night and Darkness",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 70125
+      "UsersEstimate": 70126
     },
     {
       "ID": "AchOlympiansCodex",
@@ -16735,7 +16740,7 @@
       "Name": "Urge to Sing",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 252451
+      "UsersEstimate": 252452
     },
     {
       "ID": "AchPactUpgradesClears",
@@ -16759,7 +16764,7 @@
       "Name": "Tools of the Architect",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 161288
+      "UsersEstimate": 161289
     },
     {
       "ID": "AchPurgedLegendBoon",
@@ -16807,7 +16812,7 @@
       "Name": "End to Torment",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 70125
+      "UsersEstimate": 70126
     },
     {
       "ID": "AchSkellyKills",
@@ -16823,7 +16828,7 @@
       "Name": "Arms Collector",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 497890
+      "UsersEstimate": 497891
     },
     {
       "ID": "AchWeaponClears",
@@ -16831,7 +16836,7 @@
       "Name": "Master of Arms",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 161288
+      "UsersEstimate": 161289
     },
     {
       "ID": "AchWellShopItems",
@@ -16854,15 +16859,15 @@
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 701254,
+      "Progressed": 701255,
       "Completed": 6298
     }
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
   "LastChanged": "2023-08-14T10:59:08.1336354+00:00",
-  "LastChanged_Achievements": "2023-08-14T18:05:52.5722513+00:00",
+  "LastChanged_Achievements": "2023-08-14T19:05:50.5710533+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:32.8039308+00:00",
-  "LastUpdate_Ratings": "2023-08-14T17:59:37.6633099+00:00",
-  "LastUpdate_Achievements": "2023-08-14T18:05:52.5723814+00:00"
+  "LastUpdate_Ratings": "2023-08-14T18:59:46.1983921+00:00",
+  "LastUpdate_Achievements": "2023-08-14T19:05:50.571177+00:00"
 }

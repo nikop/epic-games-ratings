@@ -3446,9 +3446,9 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 10949,
+  "EOS_Progressed": 10950,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10746,6 +10746,11 @@
       "Time": "2023-08-14T17:04:41.3104959+00:00",
       "NumProgressed": 10949,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-14T19:05:07.5393332+00:00",
+      "NumProgressed": 10950,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -10781,7 +10786,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 766
+      "UsersEstimate": 767
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -10789,7 +10794,7 @@
       "Name": "Embrace of the Abyss",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "06_HeartOfFallenLand",
@@ -10805,7 +10810,7 @@
       "Name": "The Final Threshold",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "08_PathOfAngel",
@@ -10813,7 +10818,7 @@
       "Name": "Path of the Angel",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "09_PathOfDemon",
@@ -10893,7 +10898,7 @@
       "Name": "Mythic Choices",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1423
+      "UsersEstimate": 1424
     },
     {
       "ID": "19_EqualToAroden",
@@ -10965,7 +10970,7 @@
       "Name": "Great Upstart",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "29_StrategicVictory",
@@ -10973,7 +10978,7 @@
       "Name": "Strategic Victory",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "30_BattlefieldVictory",
@@ -11005,7 +11010,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1423
+      "UsersEstimate": 1424
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -11021,7 +11026,7 @@
       "Name": "Abyssal Conspiracy",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "36_CoreOfRiddle",
@@ -11109,7 +11114,7 @@
       "Name": "All Paths Open",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -11149,7 +11154,7 @@
       "Name": "Demonic and Divine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "52_TrulyImportantDeed",
@@ -11684,21 +11689,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9731,
+      "Progressed": 9732,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10949,
+      "Progressed": 10950,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-08-13T22:00:12.3715337+00:00",
-  "LastChanged_Achievements": "2023-08-14T18:05:10.9628771+00:00",
+  "LastChanged_Achievements": "2023-08-14T19:05:07.5393325+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:11.5447906+00:00",
-  "LastUpdate_Ratings": "2023-08-14T18:00:15.7223967+00:00",
-  "LastUpdate_Achievements": "2023-08-14T18:05:10.9630796+00:00"
+  "LastUpdate_Ratings": "2023-08-14T19:00:29.7137347+00:00",
+  "LastUpdate_Achievements": "2023-08-14T19:05:07.5395534+00:00"
 }

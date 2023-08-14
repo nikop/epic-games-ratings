@@ -6375,9 +6375,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 58871,
+  "EOS_Progressed": 58873,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 468,
+  "EOS_NewPlayers": 465,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18620,6 +18620,11 @@
       "Time": "2023-08-14T18:05:24.7140552+00:00",
       "NumProgressed": 58871,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-14T19:05:21.1717007+00:00",
+      "NumProgressed": 58873,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -18711,7 +18716,7 @@
       "Name": "Duelist",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5298
+      "UsersEstimate": 5299
     },
     {
       "ID": "Dynasty",
@@ -18719,7 +18724,7 @@
       "Name": "Dynasty",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 5298
+      "UsersEstimate": 5299
     },
     {
       "ID": "Entrepreneur",
@@ -18807,7 +18812,7 @@
       "Name": "I spit on your grave",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5298
+      "UsersEstimate": 5299
     },
     {
       "ID": "Jack of All Trades",
@@ -18863,7 +18868,7 @@
       "Name": "Lawbringer",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 22371
+      "UsersEstimate": 22372
     },
     {
       "ID": "Lawmaker",
@@ -19031,22 +19036,22 @@
       "Name": "What have the Romans ever done for us?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5298
+      "UsersEstimate": 5299
     }
   ],
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 58871,
+      "Progressed": 58873,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-08-14T12:02:04.9830039+00:00",
-  "LastChanged_Achievements": "2023-08-14T18:05:24.7140547+00:00",
+  "LastChanged_Achievements": "2023-08-14T19:05:21.1717+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:44.6335832+00:00",
-  "LastUpdate_Ratings": "2023-08-14T18:01:45.2406433+00:00",
-  "LastUpdate_Achievements": "2023-08-14T18:05:24.7141651+00:00"
+  "LastUpdate_Ratings": "2023-08-14T19:02:04.0236059+00:00",
+  "LastUpdate_Achievements": "2023-08-14T19:05:21.17183+00:00"
 }

@@ -10,17 +10,17 @@
 | I didn't do it! | 39.00% | ~42 |
 | Demolition expert | 36.00% | ~39 |
 | Wooooooow! | 35.00% | ~37 |
+| Artistic fool | 34.00% | ~36 |
 | Keep away from children | 34.00% | ~36 |
-| Artistic fool | 33.00% | ~35 |
 | Open up wide | 32.00% | ~34 |
 | Chapter II | 29.00% | ~31 |
 | Let the boot talk | 28.00% | ~30 |
 | Achoo!! | 28.00% | ~30 |
 | Chapter III | 27.00% | ~29 |
 | Like a moth in the Wind | 27.00% | ~29 |
+| Quite a buggy game | 23.00% | ~25 |
 | Bubblekillerfamily | 23.00% | ~25 |
 | Mirror mirror on the wall... | 23.00% | ~25 |
-| Quite a buggy game | 22.00% | ~24 |
 | Shadow on the wall | 21.00% | ~22 |
 | Handyman | 21.00% | ~22 |
 | Fastidious Clown | 21.00% | ~22 |

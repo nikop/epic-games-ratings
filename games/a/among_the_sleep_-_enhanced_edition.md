@@ -6,18 +6,18 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Strike | 35.00% | ~28,822 |
-| Bad Lullaby | 11.00% | ~9,058 |
-| Completed Among the Sleep | 10.00% | ~8,235 |
-| Baby Mozart | 5.00% | ~4,117 |
-| House Drawings | 1.00% | ~823 |
-| Cave Drawings | 1.00% | ~823 |
+| Strike | 35.00% | ~28,825 |
+| Bad Lullaby | 11.00% | ~9,059 |
+| Completed Among the Sleep | 10.00% | ~8,236 |
+| Baby Mozart | 5.00% | ~4,118 |
+| House Drawings | 1.00% | ~824 |
+| Cave Drawings | 1.00% | ~824 |
 | Forest Drawings | 0.70% | ~576 |
 | Closet Drawings | 0.70% | ~576 |
 | Prologue Drawings | 0.60% | ~494 |
 | Collected all drawings | 0.50% | ~412 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82,348 (Ranked 75)  
+Progressed: 82,356 (Ranked 75)  
 Completed: 386 (0.47%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 386 (0.47%) (Ranked 145)
 | 2023-08-11 | 82,008 | 385 |
 | 2023-08-12 | 82,137 | 385 |
 | 2023-08-13 | 82,281 | 385 |
-| 2023-08-14 | 82,348 | 386 |
+| 2023-08-14 | 82,356 | 386 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
