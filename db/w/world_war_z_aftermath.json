@@ -4,11 +4,11 @@
   "ProductSlug": "world-war-z",
   "Ranking_Rating": 470,
   "Ranking_Popularity": 76,
-  "Ranking_PopularitySum": 45,
+  "Ranking_PopularitySum": 44,
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 359,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-09-21T13:00:00+00:00",
     "PcReleaseDate": "2021-09-21T13:00:00+00:00",
@@ -7679,18 +7679,24 @@
       "Rating": 4.56,
       "NumberOfAwards": 27769,
       "NumberOfAwardsMax": 4279
+    },
+    {
+      "Time": "2023-08-14T13:02:30.4412371+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 27781,
+      "NumberOfAwardsMax": 4288
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27769,
-  "NumberOfAwardsMax": 4279,
+  "NumberOfAwards": 27781,
+  "NumberOfAwardsMax": 4288,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 4279
+      "Count": 4288
     },
     {
       "Text": "This game is Relaxing",
@@ -7720,7 +7726,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 3734
+      "Count": 3737
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -7760,9 +7766,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:09.1230837+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.7901405+00:00",
-  "LastChanged": "2023-08-14T11:59:23.6440862+00:00",
-  "LastChanged_Achievements": "2023-08-14T12:03:15.2647084+00:00",
+  "LastChanged": "2023-08-14T13:02:30.4412368+00:00",
+  "LastChanged_Achievements": "2023-08-14T13:06:21.7228219+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:22.7981421+00:00",
-  "LastUpdate_Ratings": "2023-08-14T11:59:23.6440872+00:00",
-  "LastUpdate_Achievements": "2023-08-14T12:03:15.2647107+00:00"
+  "LastUpdate_Ratings": "2023-08-14T13:02:30.4412378+00:00",
+  "LastUpdate_Achievements": "2023-08-14T13:06:21.7228259+00:00"
 }

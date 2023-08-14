@@ -4,8 +4,8 @@
   "ProductSlug": "run-the-world-inbetween-399e64",
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 359,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-04-14T13:00:00+00:00",
     "PcReleaseDate": "2022-04-14T13:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:12.7139521+00:00",
   "LastChanged": "2023-03-31T05:58:12.7139522+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:14.0963749+00:00",
-  "LastUpdate_Ratings": "2023-08-14T11:59:10.3469315+00:00",
-  "LastUpdate_Achievements": "2023-08-14T12:05:51.8787315+00:00"
+  "LastUpdate_Ratings": "2023-08-14T13:02:21.7857971+00:00",
+  "LastUpdate_Achievements": "2023-08-14T13:08:45.5440538+00:00"
 }

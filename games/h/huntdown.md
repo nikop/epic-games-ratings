@@ -1,7 +1,7 @@
 # Huntdown
 [Store](https://store.epicgames.com/en-US/p/huntdown)  
 [View Rawdata](../../db/h/huntdown.json)  
-Rating: 4.82 (Ranked 66)  
+Rating: 4.79 (Ranked 87)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -13,3 +13,4 @@ Rating: 4.82 (Ranked 66)
 | 2022-12-29 | 4.85 | - | - |
 | 2023-03-31 | 4.85 | 0 | 0 |
 | 2023-06-22 | 4.82 | 0 | 0 |
+| 2023-08-14 | 4.79 | 0 | 0 |

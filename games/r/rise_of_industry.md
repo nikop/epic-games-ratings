@@ -5,35 +5,35 @@ Rating: 4.24 (Ranked 828)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 48.00% | ~346,796 |
-| Well educated | 37.00% | ~267,322 |
-| City Planner | 19.00% | ~137,273 |
-| Deforester | 17.00% | ~122,824 |
-| Big Hauling | 16.00% | ~115,599 |
-| Apprentice Manufacturer | 13.00% | ~93,924 |
-| Exporter | 13.00% | ~93,924 |
-| I would drive 500 tiles... | 12.00% | ~86,699 |
-| Landscaper | 12.00% | ~86,699 |
-| Railwayman | 8.00% | ~57,799 |
-| Penniless | 6.00% | ~43,350 |
-| Massive Gains | 6.00% | ~43,350 |
-| Salesman | 3.00% | ~21,675 |
+| Entrepreneur | 48.00% | ~346,810 |
+| Well educated | 37.00% | ~267,332 |
+| City Planner | 19.00% | ~137,279 |
+| Deforester | 17.00% | ~122,828 |
+| Big Hauling | 16.00% | ~115,603 |
+| Apprentice Manufacturer | 13.00% | ~93,928 |
+| Exporter | 13.00% | ~93,928 |
+| I would drive 500 tiles... | 12.00% | ~86,702 |
+| Landscaper | 12.00% | ~86,702 |
+| Railwayman | 8.00% | ~57,802 |
+| Penniless | 6.00% | ~43,351 |
+| Massive Gains | 6.00% | ~43,351 |
+| Salesman | 3.00% | ~21,676 |
 | Engineer | 2.00% | ~14,450 |
 | High Flyer | 2.00% | ~14,450 |
 | Captain | 0.80% | ~5,780 |
 | Billionaire | 0.60% | ~4,335 |
 | Vroom Vroom | 0.40% | ~2,890 |
-| Excavator | 0.30% | ~2,167 |
-| Loan Ranger | 0.30% | ~2,167 |
-| [2130] Nature Lover | 0.10% | ~722 |
-| [2130] No Quarter Given | 0.10% | ~722 |
-| [2130] Dumpster Diving | 0.10% | ~722 |
-| Freelancer | 0.10% | ~722 |
-| Director | 0.10% | ~722 |
-| Master Builder | 0.10% | ~722 |
-| Hard working | 0.10% | ~722 |
+| Excavator | 0.30% | ~2,168 |
+| Loan Ranger | 0.30% | ~2,168 |
+| [2130] Nature Lover | 0.10% | ~723 |
+| [2130] No Quarter Given | 0.10% | ~723 |
+| [2130] Dumpster Diving | 0.10% | ~723 |
+| Freelancer | 0.10% | ~723 |
+| Director | 0.10% | ~723 |
+| Master Builder | 0.10% | ~723 |
+| Hard working | 0.10% | ~723 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 722,492 (Ranked 18)  
+Progressed: 722,520 (Ranked 18)  
 Completed: 3 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,7 +149,7 @@ Completed: 3 (0.00%) (Ranked 255)
 | 2023-08-11 | 721,274 | 3 |
 | 2023-08-12 | 721,771 | 3 |
 | 2023-08-13 | 722,316 | 3 |
-| 2023-08-14 | 722,492 | 3 |
+| 2023-08-14 | 722,520 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -9549,9 +9549,9 @@
       "ID": "Constructor",
       "SetID": "chapdi4",
       "Name": "Constructor",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 4470
+      "UsersEstimate": 4556
     },
     {
       "ID": "Duty_Bound",
@@ -9638,8 +9638,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-08-14T05:59:11.8701651+00:00",
-  "LastChanged_Achievements": "2023-08-14T12:04:47.8966234+00:00",
+  "LastChanged_Achievements": "2023-08-14T13:07:47.1696225+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:49.8985041+00:00",
-  "LastUpdate_Ratings": "2023-08-14T12:00:06.6676913+00:00",
-  "LastUpdate_Achievements": "2023-08-14T12:04:47.8966675+00:00"
+  "LastUpdate_Ratings": "2023-08-14T13:03:03.0004443+00:00",
+  "LastUpdate_Achievements": "2023-08-14T13:07:47.1696765+00:00"
 }

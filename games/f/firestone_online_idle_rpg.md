@@ -22,7 +22,7 @@ Rating: 4.05 (Ranked 920)
 | Enlightenment | 15.00% | ~270 |
 | Hero inspection | 14.00% | ~252 |
 | Lieutenant | 14.00% | ~252 |
-| Mysterious Rock | 13.00% | ~234 |
+| Mysterious Rock | 14.00% | ~252 |
 | Natural Talent | 13.00% | ~234 |
 | Superior | 13.00% | ~234 |
 | The Unstoppable | 13.00% | ~234 |

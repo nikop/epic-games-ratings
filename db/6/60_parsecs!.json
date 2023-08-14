@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 253,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
     "PcReleaseDate": "2018-09-17T22:00:00+00:00",
@@ -772,9 +772,9 @@
       "ID": "Achievement_DustToDust",
       "SetID": "c01p6e5",
       "Name": "Dust to Dust",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 406
+      "UsersEstimate": 413
     },
     {
       "ID": "Achievement_EcoShuttle",
@@ -1053,8 +1053,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-08-14T12:02:25.7040566+00:00",
+  "LastChanged_Achievements": "2023-08-14T13:06:07.5122439+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:01.5091521+00:00",
-  "LastUpdate_Ratings": "2023-08-14T11:58:13.9880181+00:00",
-  "LastUpdate_Achievements": "2023-08-14T12:02:25.7040954+00:00"
+  "LastUpdate_Ratings": "2023-08-14T13:01:41.3771644+00:00",
+  "LastUpdate_Achievements": "2023-08-14T13:06:07.5122982+00:00"
 }

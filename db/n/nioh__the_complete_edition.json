@@ -2,13 +2,13 @@
   "ID": "3622b6ddc5c849b1826085d5fe492eae",
   "Name": "Nioh: The Complete Edition",
   "ProductSlug": "nioh-the-complete-edition",
-  "Ranking_Rating": 449,
+  "Ranking_Rating": 450,
   "Ranking_Popularity": 44,
   "Ranking_PopularitySum": 57,
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 359,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-09-09T15:00:00+00:00",
     "PcReleaseDate": "2017-11-07T00:00:00+00:00",
@@ -6098,10 +6098,16 @@
       "Rating": 4.57,
       "NumberOfAwards": 17842,
       "NumberOfAwardsMax": 7670
+    },
+    {
+      "Time": "2023-08-14T13:01:44.096146+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 17845,
+      "NumberOfAwardsMax": 7670
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 17842,
+  "NumberOfAwards": 17845,
   "NumberOfAwardsMax": 7670,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6121,7 +6127,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 829
+      "Count": 831
     },
     {
       "Text": "This game has Diverse Characters",
@@ -6151,7 +6157,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 768
+      "Count": 769
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -6177,8 +6183,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:37.2904323+00:00",
-  "LastChanged": "2023-08-14T06:57:54.7026886+00:00",
+  "LastChanged": "2023-08-14T13:01:44.0961458+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:02.1087322+00:00",
-  "LastUpdate_Ratings": "2023-08-14T11:58:19.4992663+00:00",
-  "LastUpdate_Achievements": "2023-08-14T12:03:41.2413847+00:00"
+  "LastUpdate_Ratings": "2023-08-14T13:01:44.0961466+00:00",
+  "LastUpdate_Achievements": "2023-08-14T13:07:11.533765+00:00"
 }

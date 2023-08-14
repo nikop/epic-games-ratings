@@ -4,8 +4,8 @@
   "ProductSlug": "arcade-fishing-77ba80",
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 359,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-08-31T00:00:00+00:00",
     "PcReleaseDate": "2023-06-30T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-12T06:57:55.2270773+00:00",
-  "LastUpdate_Ratings": "2023-08-14T12:00:11.1416692+00:00",
-  "LastUpdate_Achievements": "2023-08-14T12:05:26.5433277+00:00"
+  "LastUpdate_Ratings": "2023-08-14T13:03:07.6219531+00:00",
+  "LastUpdate_Achievements": "2023-08-14T13:08:26.5008139+00:00"
 }

@@ -41,7 +41,7 @@ Rating: 4.23 (Ranked 837)
 | A Little Banged Up | 8.00% | ~158 |
 | Denying Prophecy | 8.00% | ~158 |
 | Following In Their Footsteps | 8.00% | ~158 |
-| Reverse Engineering | 6.00% | ~118 |
+| Reverse Engineering | 7.00% | ~138 |
 | Remote Surgery | 6.00% | ~118 |
 | Turbo Booster | 6.00% | ~118 |
 | Juiced Up | 6.00% | ~118 |

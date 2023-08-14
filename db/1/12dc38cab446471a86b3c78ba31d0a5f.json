@@ -4,8 +4,8 @@
   "ProductSlug": "space-nation-ol-36e06f",
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 359,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-11T02:57:10.4666276+00:00",
-  "LastUpdate_Ratings": "2023-08-14T11:58:13.6216905+00:00",
-  "LastUpdate_Achievements": "2023-08-14T12:05:10.9690581+00:00"
+  "LastUpdate_Ratings": "2023-08-14T13:01:41.1211511+00:00",
+  "LastUpdate_Achievements": "2023-08-14T13:08:14.5457831+00:00"
 }

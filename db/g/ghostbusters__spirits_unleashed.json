@@ -1788,7 +1788,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 25070,
+  "EOS_Progressed": 25071,
   "EOS_Completed": 51,
   "EOS_NewPlayers": 210,
   "EOS_NewCompleters": 2,
@@ -10373,6 +10373,11 @@
       "Time": "2023-08-14T12:04:16.4590045+00:00",
       "NumProgressed": 25070,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-08-14T13:07:22.7490626+00:00",
+      "NumProgressed": 25071,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 51,
@@ -10384,7 +10389,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 18301
+      "UsersEstimate": 18302
     },
     {
       "ID": "Animated",
@@ -10400,7 +10405,7 @@
       "Name": "Back Off",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 8774
+      "UsersEstimate": 8775
     },
     {
       "ID": "Best_Insurance",
@@ -10496,7 +10501,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 63,
       "XP": 100,
-      "UsersEstimate": 15794
+      "UsersEstimate": 15795
     },
     {
       "ID": "Escape_Artist",
@@ -10504,7 +10509,7 @@
       "Name": "Escape Artist",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 3760
+      "UsersEstimate": 3761
     },
     {
       "ID": "Fragile_Panes",
@@ -10672,7 +10677,7 @@
       "Name": "Solo Capture",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 8022
+      "UsersEstimate": 8023
     },
     {
       "ID": "Stunner",
@@ -10688,7 +10693,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 21560
+      "UsersEstimate": 21561
     },
     {
       "ID": "Summoner",
@@ -10744,7 +10749,7 @@
       "Name": "There you are!",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 10529
+      "UsersEstimate": 10530
     },
     {
       "ID": "Tobins_Prodigy",
@@ -10784,14 +10789,14 @@
       "Name": "Whoopsie",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 3008
+      "UsersEstimate": 3009
     }
   ],
   "AchievementSets": [
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 25070,
+      "Progressed": 25071,
       "Completed": 51
     }
   ],
@@ -10799,8 +10804,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-08-13T18:00:54.5920989+00:00",
-  "LastChanged_Achievements": "2023-08-14T12:04:16.459004+00:00",
+  "LastChanged_Achievements": "2023-08-14T13:07:22.7490619+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:52.55817+00:00",
-  "LastUpdate_Ratings": "2023-08-14T12:01:19.8698958+00:00",
-  "LastUpdate_Achievements": "2023-08-14T12:04:16.4590788+00:00"
+  "LastUpdate_Ratings": "2023-08-14T13:03:59.3049115+00:00",
+  "LastUpdate_Achievements": "2023-08-14T13:07:22.7491574+00:00"
 }

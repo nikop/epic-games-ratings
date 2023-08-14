@@ -43,9 +43,9 @@
 | Mysterious voice | 44.00% | ~110 |
 | Your own way | 41.00% | ~102 |
 | Champion – no way back | 39.00% | ~97 |
+| Responsible approach | 39.00% | ~97 |
 | Poisoned fighter | 38.00% | ~95 |
 | Underground dwellers | 38.00% | ~95 |
-| Responsible approach | 38.00% | ~95 |
 | Deal with life | 37.00% | ~92 |
 | GYM professional | 37.00% | ~92 |
 | Get out of my apartment! | 37.00% | ~92 |
@@ -60,16 +60,16 @@
 | The lonesome road | 31.00% | ~77 |
 | Key memories | 31.00% | ~77 |
 | Not little hacker | 31.00% | ~77 |
+| The last bell ring | 31.00% | ~77 |
 | Careerist | 31.00% | ~77 |
 | The heart of the Resistance | 31.00% | ~77 |
 | Trap disarmed | 30.00% | ~75 |
 | Keep nature safe | 30.00% | ~75 |
 | Family comes first | 30.00% | ~75 |
-| The last bell ring | 30.00% | ~75 |
 | Anyone can resist | 30.00% | ~75 |
 | Silver’s past | 27.00% | ~67 |
 | Better cooking at home | 27.00% | ~67 |
-| The only right decision | 26.00% | ~65 |
+| The only right decision | 27.00% | ~67 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 249 (Ranked 269)  
 Completed: 8 (3.21%) (Ranked 65)  

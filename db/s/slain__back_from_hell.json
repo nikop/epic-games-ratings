@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 55,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -217,9 +217,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 33832,
+  "EOS_Progressed": 33835,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 856,
+  "EOS_NewPlayers": 853,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -12902,6 +12902,11 @@
       "Time": "2023-08-14T12:06:36.958474+00:00",
       "NumProgressed": 33832,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-08-14T13:09:19.858516+00:00",
+      "NumProgressed": 33835,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 29,
@@ -12921,7 +12926,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 6766
+      "UsersEstimate": 6767
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -12945,7 +12950,7 @@
       "Name": "Sure Footed As A Goat",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "ACH_07_BLOODTOWER_NO_HOUND_DAMAGE",
@@ -12961,7 +12966,7 @@
       "Name": "Backdoor Man",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "ACH_09_HIGHLANDS_NO_FLAME_KILLS",
@@ -13105,7 +13110,7 @@
       "Name": "Vroll With It",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ACH_27_VROLL_QUICK_KILL",
@@ -13113,7 +13118,7 @@
       "Name": "Swift of Foot, Keen of Blade",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ACH_28_FINISHED_GAME_NO_MANA_USE",
@@ -13144,7 +13149,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 33832,
+      "Progressed": 33835,
       "Completed": 21
     }
   ],
@@ -13152,8 +13157,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-08-12T21:03:39.1122054+00:00",
-  "LastChanged_Achievements": "2023-08-14T12:06:36.9584734+00:00",
+  "LastChanged_Achievements": "2023-08-14T13:09:19.8585157+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:57.7890504+00:00",
-  "LastUpdate_Ratings": "2023-08-14T11:57:22.0271973+00:00",
-  "LastUpdate_Achievements": "2023-08-14T12:06:36.9585586+00:00"
+  "LastUpdate_Ratings": "2023-08-14T13:01:04.0042265+00:00",
+  "LastUpdate_Achievements": "2023-08-14T13:09:19.8586096+00:00"
 }

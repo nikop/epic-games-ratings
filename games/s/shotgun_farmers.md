@@ -9,7 +9,7 @@
 | Triple Kill | 57.00% | ~146 |
 | Aspairagus | 57.00% | ~117 |
 | Survivor | 56.00% | ~115 |
-| No Asperascope | 51.00% | ~131 |
+| No Asperascope | 52.00% | ~133 |
 | Cornivore | 50.00% | ~128 |
 | I Believe I Can Fly | 48.00% | ~123 |
 | Early Survivor | 42.00% | ~87 |
@@ -26,9 +26,9 @@
 | This Is My Boomstick | 16.00% | ~33 |
 | Skin Of Your Teeth | 15.00% | ~38 |
 | Carrocketeer | 14.00% | ~36 |
+| Oh My Gourd | 14.00% | ~29 |
 | Getting Started | 13.00% | ~33 |
 | Eggtraordinary | 13.00% | ~33 |
-| Oh My Gourd | 13.00% | ~27 |
 | Summers Here | 11.00% | ~23 |
 | Fresh Pancake | 10.00% | ~26 |
 | Quit Horsin' Around | 10.00% | ~26 |

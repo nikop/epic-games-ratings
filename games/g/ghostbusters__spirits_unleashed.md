@@ -5,9 +5,9 @@ Rating: 4.49 (Ranked 576)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~21,560 |
-| Advancement | 73.00% | ~18,301 |
-| Meticulously Efficient | 63.00% | ~15,794 |
+| Stylish | 86.00% | ~21,561 |
+| Advancement | 73.00% | ~18,302 |
+| Meticulously Efficient | 63.00% | ~15,795 |
 | Discovery | 61.00% | ~15,293 |
 | Fully Upgraded | 54.00% | ~13,538 |
 | Swift Rift Removers | 54.00% | ~13,538 |
@@ -15,11 +15,11 @@ Rating: 4.49 (Ranked 576)
 | Cultured | 51.00% | ~12,786 |
 | Vaporous Expansion | 48.00% | ~12,034 |
 | Teamwork | 44.00% | ~11,031 |
-| There you are! | 42.00% | ~10,529 |
+| There you are! | 42.00% | ~10,530 |
 | Clutch Capture | 40.00% | ~10,028 |
-| Back Off | 35.00% | ~8,774 |
+| Back Off | 35.00% | ~8,775 |
 | Daily Dose | 34.00% | ~8,524 |
-| Solo Capture | 32.00% | ~8,022 |
+| Solo Capture | 32.00% | ~8,023 |
 | Welcome to the Crew | 31.00% | ~7,772 |
 | Ghostbuster In Training | 30.00% | ~7,521 |
 | Icing on the Cake | 30.00% | ~7,521 |
@@ -40,8 +40,8 @@ Rating: 4.49 (Ranked 576)
 | Reckless | 17.00% | ~4,262 |
 | Diabolical | 16.00% | ~4,011 |
 | Seasoned | 16.00% | ~4,011 |
-| Escape Artist | 15.00% | ~3,760 |
-| Whoopsie | 12.00% | ~3,008 |
+| Escape Artist | 15.00% | ~3,761 |
+| Whoopsie | 12.00% | ~3,009 |
 | Liability | 10.00% | ~2,507 |
 | Rivalry | 10.00% | ~2,507 |
 | Fragile Panes | 9.00% | ~2,256 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 576)
 | I don't need these | 1.00% | ~251 |
 | Mycophile | 1.00% | ~251 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,070 (Ranked 101)  
+Progressed: 25,071 (Ranked 101)  
 Completed: 51 (0.20%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,7 +173,7 @@ Completed: 51 (0.20%) (Ranked 181)
 | 2023-08-11 | 24,984 | 50 |
 | 2023-08-12 | 25,020 | 50 |
 | 2023-08-13 | 25,058 | 51 |
-| 2023-08-14 | 25,070 | 51 |
+| 2023-08-14 | 25,071 | 51 |
 ## Awards
 Max (Great for Quick Sessions): 247  (Ranked 254)  
 Sum: 2,231 (Ranked 189)  
