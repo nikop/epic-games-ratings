@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 60818,
+  "EOS_Progressed": 60821,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 397,
+  "EOS_NewPlayers": 395,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -11182,6 +11182,11 @@
       "Time": "2023-08-14T00:06:36.4324067+00:00",
       "NumProgressed": 60818,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-14T01:46:12.8911769+00:00",
+      "NumProgressed": 60821,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -11193,7 +11198,7 @@
       "Name": "Follow the Light",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 22503
+      "UsersEstimate": 22504
     },
     {
       "ID": "02",
@@ -11201,7 +11206,7 @@
       "Name": "Nordic Walking",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 13988
+      "UsersEstimate": 13989
     },
     {
       "ID": "03",
@@ -11209,7 +11214,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 13380
+      "UsersEstimate": 13381
     },
     {
       "ID": "04",
@@ -11241,7 +11246,7 @@
       "Name": "Heavy Metal",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7298
+      "UsersEstimate": 7299
     },
     {
       "ID": "08",
@@ -11249,7 +11254,7 @@
       "Name": "Iron Horse",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7298
+      "UsersEstimate": 7299
     },
     {
       "ID": "09",
@@ -11257,7 +11262,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7906
+      "UsersEstimate": 7907
     },
     {
       "ID": "10",
@@ -11353,7 +11358,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7906
+      "UsersEstimate": 7907
     },
     {
       "ID": "22",
@@ -11361,7 +11366,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7298
+      "UsersEstimate": 7299
     },
     {
       "ID": "23",
@@ -11385,7 +11390,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4865
+      "UsersEstimate": 4866
     },
     {
       "ID": "26",
@@ -11401,7 +11406,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7298
+      "UsersEstimate": 7299
     },
     {
       "ID": "28",
@@ -11409,7 +11414,7 @@
       "Name": "Come One, Come All",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7298
+      "UsersEstimate": 7299
     },
     {
       "ID": "29",
@@ -11441,7 +11446,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 17637
+      "UsersEstimate": 17638
     },
     {
       "ID": "33",
@@ -11449,7 +11454,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7906
+      "UsersEstimate": 7907
     },
     {
       "ID": "34",
@@ -11465,7 +11470,7 @@
       "Name": "Let There Be Light",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 18245
+      "UsersEstimate": 18246
     },
     {
       "ID": "36",
@@ -11728,21 +11733,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 60818,
+      "Progressed": 60821,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 24286,
+      "Progressed": 24289,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-14T00:06:36.4324061+00:00",
+  "LastChanged_Achievements": "2023-08-14T01:46:12.891176+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:20.2881971+00:00",
-  "LastUpdate_Ratings": "2023-08-13T23:59:15.4778787+00:00",
-  "LastUpdate_Achievements": "2023-08-14T00:06:36.4325679+00:00"
+  "LastUpdate_Ratings": "2023-08-14T01:39:10.883937+00:00",
+  "LastUpdate_Achievements": "2023-08-14T01:46:12.8913343+00:00"
 }

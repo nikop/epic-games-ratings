@@ -5,25 +5,25 @@ Rating: 4.58 (Ranked 426)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pushing a pull door | 96.00% | ~648 |
-| Fetch Quest Complete | 91.00% | ~614 |
-| I can't wait! | 83.00% | ~560 |
-| Swish | 56.00% | ~378 |
+| Pushing a pull door | 96.00% | ~649 |
+| Fetch Quest Complete | 91.00% | ~615 |
+| I can't wait! | 83.00% | ~561 |
+| Swish | 56.00% | ~379 |
 | Clean up on Aisle 9 | 40.00% | ~270 |
-| Machine Maxed | 30.00% | ~202 |
+| Machine Maxed | 30.00% | ~203 |
 | Bug Fixer | 25.00% | ~169 |
 | Existential dread | 25.00% | ~169 |
 | Gerald of Riviera | 25.00% | ~169 |
-| Goal | 22.00% | ~148 |
+| Goal | 22.00% | ~149 |
 | I ran the numbers | 15.00% | ~101 |
 | Taking the plunge | 13.00% | ~88 |
 | Hidden Packages | 11.00% | ~74 |
 | GOOOAAAL | 10.00% | ~68 |
 | Ahoy Hoy | 7.00% | ~47 |
-| Rhythm is a dancer | 6.00% | ~40 |
-| New Kid on the Block | 6.00% | ~40 |
-| Jimmy Goldman Would be Proud | 6.00% | ~40 |
-| You Spin Me Round | 6.00% | ~40 |
+| Rhythm is a dancer | 6.00% | ~41 |
+| New Kid on the Block | 6.00% | ~41 |
+| Jimmy Goldman Would be Proud | 6.00% | ~41 |
+| You Spin Me Round | 6.00% | ~41 |
 | Bombscare | 5.00% | ~34 |
 | Your Bloody Valentine | 5.00% | ~34 |
 | Crowning achievement | 4.00% | ~27 |
@@ -60,7 +60,7 @@ Rating: 4.58 (Ranked 426)
 | Another all nighter? | 0.10% | ~1 |
 | Video killed the radio star | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 675 (Ranked 213)  
+Progressed: 676 (Ranked 213)  
 Completed: 0 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,6 +118,7 @@ Completed: 0 (0.00%) (Ranked 255)
 | 2023-08-04 | 673 | 0 |
 | 2023-08-05 | 674 | 0 |
 | 2023-08-06 | 675 | 0 |
+| 2023-08-14 | 676 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

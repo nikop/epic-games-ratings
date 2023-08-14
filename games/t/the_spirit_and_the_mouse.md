@@ -21,16 +21,16 @@
 | OK, I heard you!! | 28.00% | ~21 |
 | Unlimited Power!! | 24.00% | ~18 |
 | Lightbulb Detective | 24.00% | ~18 |
+| Cartographer | 23.00% | ~17 |
 | The Quiche and the Hair Dryer | 21.00% | ~16 |
-| Cartographer | 21.00% | ~16 |
 | South Square Lightbulbs | 19.00% | ~14 |
+| The Ghost and the Lamps | 17.00% | ~13 |
 | The Woman and the Pizzeria | 17.00% | ~13 |
 | The Painter and the Lights | 16.00% | ~12 |
-| The Ghost and the Lamps | 16.00% | ~12 |
 | West Residence Energy | 15.00% | ~11 |
+| At your service | 13.00% | ~10 |
 | West Residence Lightbulbs | 13.00% | ~10 |
 | Riddle Master | 13.00% | ~10 |
-| At your service | 12.00% | ~9 |
 | East Street Lightbulbs | 11.00% | ~8 |
 | Out of service | 9.00% | ~7 |
 | Lightbulb Master | 8.00% | ~6 |

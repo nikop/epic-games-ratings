@@ -5,11 +5,11 @@ Rating: 4.77 (Ranked 108)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 12.00% | ~34,805 |
+| The Sort Who Makes an Entrance | 12.00% | ~34,806 |
 | First Class Student | 11.00% | ~31,905 |
 | Troll with the Punches | 11.00% | ~31,905 |
-| A Keen Sense of Spell | 10.00% | ~29,004 |
-| That's a Keeper | 10.00% | ~29,004 |
+| A Keen Sense of Spell | 10.00% | ~29,005 |
+| That's a Keeper | 10.00% | ~29,005 |
 | Grappling with a Graphorn | 9.00% | ~26,104 |
 | The One Who Mastered Memories | 9.00% | ~26,104 |
 | The Hallowed Hero | 9.00% | ~26,104 |
@@ -19,8 +19,8 @@ Rating: 4.77 (Ranked 108)
 | Loom for Improvement | 9.00% | ~26,104 |
 | A Talent for Spending | 9.00% | ~26,104 |
 | Coasting Along | 9.00% | ~26,104 |
-| Followed the Butterflies | 8.00% | ~23,203 |
-| Rising From the Ashes | 8.00% | ~23,203 |
+| Followed the Butterflies | 8.00% | ~23,204 |
+| Rising From the Ashes | 8.00% | ~23,204 |
 | The Avenging Gazelle | 7.00% | ~20,303 |
 | Beast Friends | 7.00% | ~20,303 |
 | A Sallow Grave | 7.00% | ~20,303 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 108)
 | The Nature of the Beast | 0.60% | ~1,740 |
 | Collector's Edition | 0.30% | ~870 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290,043 (Ranked 42)  
+Progressed: 290,048 (Ranked 42)  
 Completed: 451 (0.16%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,6 +167,7 @@ Completed: 451 (0.16%) (Ranked 187)
 | 2023-08-11 | 289,866 | 448 |
 | 2023-08-12 | 289,948 | 449 |
 | 2023-08-13 | 290,043 | 451 |
+| 2023-08-14 | 290,048 | 451 |
 ## Awards
 Max (Character Customization): 21,738  (Ranked 17)  
 Sum: 40,951 (Ranked 30)  

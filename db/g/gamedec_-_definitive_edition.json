@@ -390,9 +390,9 @@
       "Count": 78
     }
   ],
-  "EOS_Progressed": 241913,
+  "EOS_Progressed": 241916,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1018,
+  "EOS_NewPlayers": 1013,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13035,6 +13035,11 @@
       "Time": "2023-08-13T23:04:29.3536848+00:00",
       "NumProgressed": 241913,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-08-14T01:44:13.5163856+00:00",
+      "NumProgressed": 241916,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -13086,7 +13091,7 @@
       "Name": "Collector",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 26610
+      "UsersEstimate": 26611
     },
     {
       "ID": "ACH_ENJOY",
@@ -13262,7 +13267,7 @@
       "Name": "Write that down",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 58059
+      "UsersEstimate": 58060
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -13366,7 +13371,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 60478
+      "UsersEstimate": 60479
     },
     {
       "ID": "ACH_SOREAD",
@@ -13461,7 +13466,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 241913,
+      "Progressed": 241916,
       "Completed": 7
     }
   ],
@@ -13469,8 +13474,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-08-09T23:58:55.2911766+00:00",
-  "LastChanged_Achievements": "2023-08-14T00:04:36.0689126+00:00",
+  "LastChanged_Achievements": "2023-08-14T01:44:13.5163851+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:38.5729047+00:00",
-  "LastUpdate_Ratings": "2023-08-13T23:59:37.6178523+00:00",
-  "LastUpdate_Achievements": "2023-08-14T00:04:36.0690423+00:00"
+  "LastUpdate_Ratings": "2023-08-14T01:39:34.3382173+00:00",
+  "LastUpdate_Achievements": "2023-08-14T01:44:13.5165324+00:00"
 }

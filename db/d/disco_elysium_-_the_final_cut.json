@@ -1155,18 +1155,24 @@
       "Rating": 4.87,
       "NumberOfAwards": 1077,
       "NumberOfAwardsMax": 715
+    },
+    {
+      "Time": "2023-08-14T01:41:04.9413994+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1078,
+      "NumberOfAwardsMax": 716
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1077,
-  "NumberOfAwardsMax": 715,
+  "NumberOfAwards": 1078,
+  "NumberOfAwardsMax": 716,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 715
+      "Count": 716
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1241,9 +1247,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 126183,
+  "EOS_Progressed": 126187,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 427,
+  "EOS_NewPlayers": 426,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -12706,6 +12712,11 @@
       "Time": "2023-08-14T00:05:23.6854438+00:00",
       "NumProgressed": 126183,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-08-14T01:44:59.9875019+00:00",
+      "NumProgressed": 126187,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 40,
@@ -12741,7 +12752,7 @@
       "Name": "The Opener Of The Eighth Seal",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3785
+      "UsersEstimate": 3786
     },
     {
       "ID": "ACH_COP_ART",
@@ -12749,7 +12760,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 22713
+      "UsersEstimate": 22714
     },
     {
       "ID": "ACH_COP_BAD",
@@ -12773,7 +12784,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 30284
+      "UsersEstimate": 30285
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -12797,7 +12808,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 35331
+      "UsersEstimate": 35332
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -12821,7 +12832,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20189
+      "UsersEstimate": 20190
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -12853,7 +12864,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 18927
+      "UsersEstimate": 18928
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -12861,7 +12872,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 13880
+      "UsersEstimate": 13881
     },
     {
       "ID": "ACH_CUNO",
@@ -12877,7 +12888,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 11356
+      "UsersEstimate": 11357
     },
     {
       "ID": "ACH_GLUTEN",
@@ -12941,7 +12952,7 @@
       "Name": "Bother Kim After Hours",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3785
+      "UsersEstimate": 3786
     },
     {
       "ID": "ACH_KIM_JACKET",
@@ -13036,15 +13047,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 126183,
+      "Progressed": 126187,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
-  "LastChanged": "2023-08-04T01:55:33.6301654+00:00",
-  "LastChanged_Achievements": "2023-08-14T00:05:23.6854433+00:00",
+  "LastChanged": "2023-08-14T01:41:04.9413992+00:00",
+  "LastChanged_Achievements": "2023-08-14T01:44:59.9875014+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:59.4029348+00:00",
-  "LastUpdate_Ratings": "2023-08-14T00:01:08.9232475+00:00",
-  "LastUpdate_Achievements": "2023-08-14T00:05:23.6855859+00:00"
+  "LastUpdate_Ratings": "2023-08-14T01:41:04.9413998+00:00",
+  "LastUpdate_Achievements": "2023-08-14T01:44:59.9876037+00:00"
 }

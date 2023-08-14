@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 429,
+  "EOS_Progressed": 430,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -1516,6 +1516,11 @@
       "Time": "2023-08-13T21:00:56.0146252+00:00",
       "NumProgressed": 429,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-14T01:42:07.5085754+00:00",
+      "NumProgressed": 430,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -1535,7 +1540,7 @@
       "Name": "Active Pause",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "BasicControls",
@@ -1551,7 +1556,7 @@
       "Name": "Expensive Plane",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "BudgetFlight",
@@ -1655,7 +1660,7 @@
       "Name": "Lack of Time",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "LargeAirport",
@@ -1685,9 +1690,9 @@
       "ID": "LinearNetwork",
       "SetID": "1e89b4i",
       "Name": "Linear Network",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 60
+      "UsersEstimate": 56
     },
     {
       "ID": "LongDistance",
@@ -1719,7 +1724,7 @@
       "Name": "Millionaire",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "NewRecord",
@@ -1735,15 +1740,15 @@
       "Name": "No Time for Modernization",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "NoWayBack",
       "SetID": "1e89b4i",
       "Name": "No Way Back",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 163
+      "UsersEstimate": 159
     },
     {
       "ID": "NotPlanned",
@@ -1855,21 +1860,21 @@
       "Name": "Transport Hub",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 429,
+      "Progressed": 430,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-08-13T23:03:07.0053574+00:00",
+  "LastChanged_Achievements": "2023-08-14T01:42:07.5085746+00:00",
   "LastUpdate_AppInfo": "2023-08-08T09:57:08.8049203+00:00",
-  "LastUpdate_Ratings": "2023-08-13T23:58:18.0573752+00:00",
-  "LastUpdate_Achievements": "2023-08-13T23:03:07.0054053+00:00"
+  "LastUpdate_Ratings": "2023-08-14T01:38:12.9881356+00:00",
+  "LastUpdate_Achievements": "2023-08-14T01:42:07.508662+00:00"
 }

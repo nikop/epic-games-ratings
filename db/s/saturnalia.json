@@ -240,9 +240,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 65499,
+  "EOS_Progressed": 65502,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 250,
+  "EOS_NewPlayers": 249,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -7675,6 +7675,11 @@
       "Time": "2023-08-14T00:07:29.875466+00:00",
       "NumProgressed": 65499,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-08-14T01:47:05.5163312+00:00",
+      "NumProgressed": 65502,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 20,
@@ -7718,7 +7723,7 @@
       "Name": "Soda addiction",
       "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "ACH_FIRECRACKERS",
@@ -7726,7 +7731,7 @@
       "Name": "Ear Ringing",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ACH_FLASHCREATURE",
@@ -7734,7 +7739,7 @@
       "Name": "Paparazzi",
       "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "ACH_FRIENDSHIPPOWER",
@@ -7742,7 +7747,7 @@
       "Name": "Power of Friendship",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "ACH_LIGHTMINES",
@@ -7750,7 +7755,7 @@
       "Name": "Let there be light",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "ACH_MATCHES",
@@ -7766,7 +7771,7 @@
       "Name": "Silent Advisor",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "ACH_PAULMISSION",
@@ -7790,7 +7795,7 @@
       "Name": "Phone Bill",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "ACH_READCLUES",
@@ -7845,7 +7850,7 @@
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 65499,
+      "Progressed": 65502,
       "Completed": 13
     }
   ],
@@ -7853,8 +7858,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-05-14T20:57:12.1011944+00:00",
-  "LastChanged_Achievements": "2023-08-14T00:07:29.8754654+00:00",
+  "LastChanged_Achievements": "2023-08-14T01:47:05.5163305+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:21.0259321+00:00",
-  "LastUpdate_Ratings": "2023-08-13T23:59:02.4421024+00:00",
-  "LastUpdate_Achievements": "2023-08-14T00:07:29.8755331+00:00"
+  "LastUpdate_Ratings": "2023-08-14T01:38:58.1853304+00:00",
+  "LastUpdate_Achievements": "2023-08-14T01:47:05.5163969+00:00"
 }

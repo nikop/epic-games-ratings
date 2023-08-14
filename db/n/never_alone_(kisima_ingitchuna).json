@@ -2,12 +2,12 @@
   "ID": "b13f6a1e5121469d8a825947b759339d",
   "Name": "Never Alone (Kisima Ingitchuna)",
   "ProductSlug": "never-alone-kisima-ingitchuna",
-  "Ranking_Rating": 894,
+  "Ranking_Rating": 898,
   "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 362,
+  "Ranking_EOS_NewPlayers": 361,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-11-18T16:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.14,
+  "Rating": 4.13,
   "NumberOfRatings": 174,
   "RatingHistory": [
     {
@@ -428,6 +428,12 @@
       "Rating": 4.14,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-08-14T01:40:00.8459669+00:00",
+      "Rating": 4.13,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -445,8 +451,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:05.3781446+00:00",
-  "LastChanged": "2023-08-11T01:37:11.6591534+00:00",
+  "LastChanged": "2023-08-14T01:40:00.8459667+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:03.4012834+00:00",
-  "LastUpdate_Ratings": "2023-08-14T00:00:03.6719531+00:00",
-  "LastUpdate_Achievements": "2023-08-14T00:05:37.6091529+00:00"
+  "LastUpdate_Ratings": "2023-08-14T01:40:00.8459673+00:00",
+  "LastUpdate_Achievements": "2023-08-14T01:45:13.9893757+00:00"
 }

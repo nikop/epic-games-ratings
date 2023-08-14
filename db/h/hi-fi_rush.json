@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -118,9 +118,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3885,
+  "EOS_Progressed": 3886,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -5848,6 +5848,11 @@
       "Time": "2023-08-13T21:04:57.8695942+00:00",
       "NumProgressed": 3885,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-08-14T01:46:05.135845+00:00",
+      "NumProgressed": 3886,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 71,
@@ -5859,7 +5864,7 @@
       "Name": "Start with a bang!",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "Ach002",
@@ -5873,9 +5878,9 @@
       "ID": "Ach003",
       "SetID": "12n4k20",
       "Name": "This will cost you big time",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 194
+      "UsersEstimate": 233
     },
     {
       "ID": "Ach004",
@@ -6035,7 +6040,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "Ach024",
@@ -6426,13 +6431,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 3885,
+      "Progressed": 3886,
       "Completed": 7
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2406,
+      "Progressed": 2407,
       "Completed": 1929
     }
   ],
@@ -6440,8 +6445,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-08-10T23:00:09.4128826+00:00",
-  "LastChanged_Achievements": "2023-08-14T00:06:28.6108804+00:00",
+  "LastChanged_Achievements": "2023-08-14T01:46:05.1358445+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:15.2039204+00:00",
-  "LastUpdate_Ratings": "2023-08-14T00:00:18.0859831+00:00",
-  "LastUpdate_Achievements": "2023-08-14T00:06:28.6110178+00:00"
+  "LastUpdate_Ratings": "2023-08-14T01:40:15.2244823+00:00",
+  "LastUpdate_Achievements": "2023-08-14T01:46:05.1359577+00:00"
 }

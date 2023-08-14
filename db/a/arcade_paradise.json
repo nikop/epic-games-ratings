@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 362,
+  "Ranking_EOS_NewPlayers": 311,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-08-11T13:00:00+00:00",
@@ -78,9 +78,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 675,
+  "EOS_Progressed": 676,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -578,6 +578,11 @@
       "Time": "2023-08-06T12:04:37.8543034+00:00",
       "NumProgressed": 675,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-14T01:45:51.611092+00:00",
+      "NumProgressed": 676,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 54,
@@ -637,7 +642,7 @@
       "Name": "Fetch Quest Complete",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     },
     {
       "ID": "AhoyTrophy",
@@ -661,7 +666,7 @@
       "Name": "Goal",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "AllUpgrdTrophy",
@@ -701,7 +706,7 @@
       "Name": "Rhythm is a dancer",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "DebugTrophy",
@@ -733,7 +738,7 @@
       "Name": "Pushing a pull door",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "Ext4Trophy",
@@ -741,7 +746,7 @@
       "Name": "New Kid on the Block",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "FatTrophy",
@@ -765,7 +770,7 @@
       "Name": "Machine Maxed",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "GoldGuyTrophy",
@@ -869,7 +874,7 @@
       "Name": "I can\u0027t wait!",
       "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "MaxPriceTrophy",
@@ -877,7 +882,7 @@
       "Name": "Jimmy Goldman Would be Proud",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "MergeBallsTrophy",
@@ -949,7 +954,7 @@
       "Name": "You Spin Me Round",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "SwishTrophy",
@@ -957,7 +962,7 @@
       "Name": "Swish",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "TerrorTrophy",
@@ -1020,7 +1025,7 @@
     {
       "ID": "32aeje8",
       "IsBase": true,
-      "Progressed": 675,
+      "Progressed": 676,
       "Completed": 0
     }
   ],
@@ -1028,8 +1033,8 @@
   "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.572024+00:00",
   "LastChanged": "2023-06-02T03:58:32.0065116+00:00",
-  "LastChanged_Achievements": "2023-08-14T00:06:14.9912024+00:00",
+  "LastChanged_Achievements": "2023-08-14T01:45:51.6110914+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:58.7278663+00:00",
-  "LastUpdate_Ratings": "2023-08-13T23:59:59.8010173+00:00",
-  "LastUpdate_Achievements": "2023-08-14T00:06:14.9912689+00:00"
+  "LastUpdate_Ratings": "2023-08-14T01:39:56.9822807+00:00",
+  "LastUpdate_Achievements": "2023-08-14T01:45:51.6111459+00:00"
 }
