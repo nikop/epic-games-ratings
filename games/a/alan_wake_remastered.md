@@ -8,9 +8,9 @@ Number of Ratings: 524  (23.09.2022)
 | ---- | ---------- | ----- |
 | Follow the Light | 37.00% | ~22,507 |
 | Let There Be Light | 30.00% | ~18,249 |
-| Float Like a Butterfly | 29.00% | ~17,640 |
+| Float Like a Butterfly | 29.00% | ~17,641 |
 | Nordic Walking | 23.00% | ~13,991 |
-| Bright Falls' Finest | 22.00% | ~13,382 |
+| Bright Falls' Finest | 22.00% | ~13,383 |
 | Under a Thin Layer of Skin | 20.00% | ~12,166 |
 | Park Ranger | 16.00% | ~9,733 |
 | Paging Mr. Wake | 16.00% | ~9,733 |
@@ -21,11 +21,11 @@ Number of Ratings: 524  (23.09.2022)
 | Wheels Within Wheels | 13.00% | ~7,908 |
 | They're Heeeeeere! | 13.00% | ~7,908 |
 | Missed by a Mile | 13.00% | ~7,908 |
-| Heavy Metal | 12.00% | ~7,299 |
-| Iron Horse | 12.00% | ~7,299 |
-| The Six-Gun Scribe | 12.00% | ~7,299 |
-| Collateral Carnage | 12.00% | ~7,299 |
-| Come One, Come All | 12.00% | ~7,299 |
+| Heavy Metal | 12.00% | ~7,300 |
+| Iron Horse | 12.00% | ~7,300 |
+| The Six-Gun Scribe | 12.00% | ~7,300 |
+| Collateral Carnage | 12.00% | ~7,300 |
+| Come One, Come All | 12.00% | ~7,300 |
 | Perchance to Dream | 11.00% | ~6,691 |
 | It's Not Just a Typewriter Brand | 11.00% | ~6,691 |
 | Thunder and Lightning | 11.00% | ~6,691 |
@@ -39,9 +39,9 @@ Number of Ratings: 524  (23.09.2022)
 | Tornado Wrangler | 7.00% | ~4,258 |
 | Departure | 7.00% | ~4,258 |
 | A Friend Indeed | 6.00% | ~1,458 |
-| Children of the Elder God | 5.00% | ~3,041 |
-| Drink 'Em Both Up | 5.00% | ~3,041 |
-| Hardboiled Writer | 5.00% | ~3,041 |
+| Children of the Elder God | 5.00% | ~3,042 |
+| Drink 'Em Both Up | 5.00% | ~3,042 |
+| Hardboiled Writer | 5.00% | ~3,042 |
 | Ding! | 5.00% | ~1,215 |
 | Boob Tube | 4.00% | ~2,433 |
 | If It Flies, It Burns | 4.00% | ~2,433 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~61 |
 | No Punctuation | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,829 (Ranked 85)  
+Progressed: 60,830 (Ranked 85)  
 Completed: 64 (0.11%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 64 (0.11%) (Ranked 199)
 | 2023-08-11 | 60,694 | 64 |
 | 2023-08-12 | 60,759 | 64 |
 | 2023-08-13 | 60,816 | 64 |
-| 2023-08-14 | 60,829 | 64 |
+| 2023-08-14 | 60,830 | 64 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

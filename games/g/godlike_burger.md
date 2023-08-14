@@ -22,7 +22,7 @@ Rating: 4.27 (Ranked 809)
 | GRATITUDE | 16.00% | ~64 |
 | LAW-ABIDING CITIZEN | 11.00% | ~44 |
 | PRUDENT | 10.00% | ~40 |
-| PATTY-KILLER | 8.00% | ~32 |
+| PATTY-KILLER | 9.00% | ~36 |
 | EXPERIMENTALIST | 7.00% | ~28 |
 | GOURMET | 7.00% | ~28 |
 | SCATTERBRAIN | 7.00% | ~28 |

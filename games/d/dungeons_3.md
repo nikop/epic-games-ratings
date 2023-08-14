@@ -6,43 +6,43 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 70.00% | ~19,074 |
-| The Evilest Evil | 58.00% | ~15,804 |
-| Twistram is devastated | 57.00% | ~15,531 |
+| The Shadow strikes | 70.00% | ~19,075 |
+| The Evilest Evil | 58.00% | ~15,805 |
+| Twistram is devastated | 57.00% | ~15,532 |
 | The Gehenna Stones | 49.00% | ~13,352 |
-| No one has to die today! | 46.00% | ~12,534 |
+| No one has to die today! | 46.00% | ~12,535 |
 | Death and destruction! | 45.00% | ~12,262 |
-| The Swamplanders from the swamplands | 44.00% | ~11,989 |
+| The Swamplanders from the swamplands | 44.00% | ~11,990 |
 | The One-Huge-Army-Building Evil | 41.00% | ~11,172 |
 | Rusty Steel | 41.00% | ~11,172 |
-| The last burger | 38.00% | ~10,354 |
-| Braiiiiins! | 38.00% | ~10,354 |
-| Hands off the Dungeonheart! | 36.00% | ~9,809 |
-| A trip on sea, what fun it can be | 35.00% | ~9,537 |
+| The last burger | 38.00% | ~10,355 |
+| Braiiiiins! | 38.00% | ~10,355 |
+| Hands off the Dungeonheart! | 36.00% | ~9,810 |
+| A trip on sea, what fun it can be | 35.00% | ~9,538 |
 | Damned good | 33.00% | ~8,992 |
-| Stock Market Crash | 31.00% | ~8,447 |
-| Factory farming | 31.00% | ~8,447 |
-| Not-So-Overproud | 30.00% | ~8,174 |
+| Factory farming | 32.00% | ~8,720 |
+| Stock Market Crash | 31.00% | ~8,448 |
+| Not-So-Overproud | 30.00% | ~8,175 |
 | For a handfull of Catapults | 29.00% | ~7,902 |
 | Shadow hunter | 29.00% | ~7,902 |
-| Thirst quencher | 28.00% | ~7,629 |
-| Ogre Solo! | 28.00% | ~7,629 |
-| Destroy the thing | 26.00% | ~7,084 |
-| Tide Master | 26.00% | ~7,084 |
+| Thirst quencher | 28.00% | ~7,630 |
+| Ogre Solo! | 28.00% | ~7,630 |
+| Destroy the thing | 26.00% | ~7,085 |
+| Tide Master | 26.00% | ~7,085 |
 | Difficult family relationships | 25.00% | ~6,812 |
 | MASS-O-BOT | 25.00% | ~6,812 |
 | Prepare the grave | 24.00% | ~6,540 |
 | Angel of Fire | 24.00% | ~6,540 |
-| Where there is Light, there is Shadow | 23.00% | ~6,267 |
+| Where there is Light, there is Shadow | 23.00% | ~6,268 |
 | At the foot of Mount Destiny | 22.00% | ~5,995 |
 | The Force disturbed | 21.00% | ~5,722 |
 | The Victorious Evil | 20.00% | ~5,450 |
-| Chorus of damnation | 19.00% | ~5,177 |
-| We don’t have time! | 19.00% | ~5,177 |
+| Chorus of damnation | 19.00% | ~5,178 |
+| We don’t have time! | 19.00% | ~5,178 |
 | The Stones’ Power | 18.00% | ~4,905 |
 | Flat as a pancake | 17.00% | ~4,632 |
 | Lifeguard | 17.00% | ~4,632 |
-| Can’t stand the sight of Dark Elf blood | 15.00% | ~4,087 |
+| Can’t stand the sight of Dark Elf blood | 15.00% | ~4,088 |
 | This is fun, I’m going to keep doing this! | 12.00% | ~3,270 |
 | Then let them eat cake! | 12.00% | ~3,270 |
 | The White Knight | 10.00% | ~2,725 |
@@ -54,20 +54,20 @@ Number of Ratings: 1,635  (23.09.2022)
 | Ignore The Level Designer’s Plan | 8.00% | ~2,180 |
 | Can’t stand to see an Ogre bleed | 8.00% | ~2,180 |
 | Lifesaver | 8.00% | ~2,180 |
-| Hearts are trump | 7.00% | ~1,907 |
+| Hearts are trump | 7.00% | ~1,908 |
 | Spawner Killer | 6.00% | ~1,635 |
 | A little something extra | 6.00% | ~1,635 |
 | The Benevolent Evil | 6.00% | ~1,635 |
 | Band of Brothers | 5.00% | ~1,362 |
 | Night of the Living Dead (on Speed) | 4.00% | ~1,090 |
 | I need a hero! | 4.00% | ~1,090 |
-| Storm And Stress | 3.00% | ~817 |
-| I love the smell of Catapult fire! | 3.00% | ~817 |
+| Storm And Stress | 3.00% | ~818 |
+| I love the smell of Catapult fire! | 3.00% | ~818 |
 | Discoverer | 2.00% | ~545 |
 | Not a scratch | 2.00% | ~545 |
 | Sacrifices! | 2.00% | ~545 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,248 (Ranked 100)  
+Progressed: 27,250 (Ranked 100)  
 Completed: 221 (0.81%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 221 (0.81%) (Ranked 120)
 | 2023-08-11 | 26,977 | 220 |
 | 2023-08-12 | 27,114 | 221 |
 | 2023-08-13 | 27,234 | 221 |
-| 2023-08-14 | 27,248 | 221 |
+| 2023-08-14 | 27,250 | 221 |
 ## Awards
 Max (Great for Beginners): 338  (Ranked 228)  
 Sum: 2,614 (Ranked 171)  

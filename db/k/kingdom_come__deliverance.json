@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -6504,9 +6504,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 796983,
+  "EOS_Progressed": 796985,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 944,
+  "EOS_NewPlayers": 943,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -19139,6 +19139,11 @@
       "Time": "2023-08-14T04:06:32.3536489+00:00",
       "NumProgressed": 796983,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-08-14T06:05:36.4269059+00:00",
+      "NumProgressed": 796985,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 82,
@@ -19174,7 +19179,7 @@
       "Name": "Anorectic",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 127517
+      "UsersEstimate": 127518
     },
     {
       "ID": "Awakening",
@@ -19182,7 +19187,7 @@
       "Name": "Awakening",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 167366
+      "UsersEstimate": 167367
     },
     {
       "ID": "BadGirl",
@@ -19214,7 +19219,7 @@
       "Name": "Bard",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 23909
+      "UsersEstimate": 23910
     },
     {
       "ID": "Bastard",
@@ -19238,7 +19243,7 @@
       "Name": "Bookworm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 119547
+      "UsersEstimate": 119548
     },
     {
       "ID": "Buddy",
@@ -19302,7 +19307,7 @@
       "Name": "Conqueror",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 23909
+      "UsersEstimate": 23910
     },
     {
       "ID": "Convict",
@@ -19350,7 +19355,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 183306
+      "UsersEstimate": 183307
     },
     {
       "ID": "Fighter",
@@ -19366,7 +19371,7 @@
       "Name": "Firestarter",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 119547
+      "UsersEstimate": 119548
     },
     {
       "ID": "Freud",
@@ -19422,7 +19427,7 @@
       "Name": "Ginger in a Pickle",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 23909
+      "UsersEstimate": 23910
     },
     {
       "ID": "Haggler",
@@ -19430,7 +19435,7 @@
       "Name": "Haggler",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 71728
+      "UsersEstimate": 71729
     },
     {
       "ID": "HardcoreHenry",
@@ -19494,7 +19499,7 @@
       "Name": "Kingdom did not come",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 23909
+      "UsersEstimate": 23910
     },
     {
       "ID": "Knightrider",
@@ -19805,15 +19810,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 796983,
+      "Progressed": 796985,
       "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-08-13T19:00:03.5362905+00:00",
-  "LastChanged_Achievements": "2023-08-14T05:05:07.333575+00:00",
+  "LastChanged_Achievements": "2023-08-14T06:05:36.4269051+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:10.6594463+00:00",
-  "LastUpdate_Ratings": "2023-08-14T04:59:32.4277024+00:00",
-  "LastUpdate_Achievements": "2023-08-14T05:05:07.3337033+00:00"
+  "LastUpdate_Ratings": "2023-08-14T05:59:32.1989435+00:00",
+  "LastUpdate_Achievements": "2023-08-14T06:05:36.4271064+00:00"
 }

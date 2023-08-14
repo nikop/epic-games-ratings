@@ -6178,10 +6178,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 40954,
       "NumberOfAwardsMax": 21738
+    },
+    {
+      "Time": "2023-08-14T05:58:30.1393376+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 40957,
+      "NumberOfAwardsMax": 21738
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 40954,
+  "NumberOfAwards": 40957,
   "NumberOfAwardsMax": 21738,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6207,7 +6213,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 913
+      "Count": 916
     },
     {
       "Text": "This game is Great for Beginners",
@@ -6258,7 +6264,7 @@
       "Count": 584
     }
   ],
-  "EOS_Progressed": 290056,
+  "EOS_Progressed": 290057,
   "EOS_Completed": 451,
   "EOS_NewPlayers": 492,
   "EOS_NewCompleters": 9,
@@ -18718,6 +18724,11 @@
       "Time": "2023-08-14T05:05:39.5148948+00:00",
       "NumProgressed": 290056,
       "NumCompleted": 451
+    },
+    {
+      "Time": "2023-08-14T06:06:14.2372416+00:00",
+      "NumProgressed": 290057,
+      "NumCompleted": 451
     }
   ],
   "TotalAchievements": 45,
@@ -18953,7 +18964,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 23204
+      "UsersEstimate": 23205
     },
     {
       "ID": "PFA_36",
@@ -19081,23 +19092,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23204
+      "UsersEstimate": 23205
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 290056,
+      "Progressed": 290057,
       "Completed": 451
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-08-14T03:59:20.2360639+00:00",
-  "LastChanged_Achievements": "2023-08-14T05:05:39.5148943+00:00",
+  "LastChanged": "2023-08-14T05:58:30.1393374+00:00",
+  "LastChanged_Achievements": "2023-08-14T06:06:14.2372408+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:17.4814985+00:00",
-  "LastUpdate_Ratings": "2023-08-14T04:58:39.588032+00:00",
-  "LastUpdate_Achievements": "2023-08-14T05:05:39.5149823+00:00"
+  "LastUpdate_Ratings": "2023-08-14T05:58:30.1393381+00:00",
+  "LastUpdate_Achievements": "2023-08-14T06:06:14.2374351+00:00"
 }

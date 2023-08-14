@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -424,9 +424,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7517,
+  "EOS_Progressed": 7519,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -7294,6 +7294,11 @@
       "Time": "2023-08-13T21:05:42.7145521+00:00",
       "NumProgressed": 7517,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-08-14T06:06:31.4724952+00:00",
+      "NumProgressed": 7519,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 29,
@@ -7305,7 +7310,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 6239
+      "UsersEstimate": 6241
     },
     {
       "ID": "ACH02",
@@ -7329,7 +7334,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 2856
+      "UsersEstimate": 2857
     },
     {
       "ID": "ACH05",
@@ -7425,15 +7430,15 @@
       "Name": "A Marked Man",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1879
+      "UsersEstimate": 1880
     },
     {
       "ID": "ACH17",
       "SetID": "552d41m",
       "Name": "Offshore Delivery",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 1052
+      "UsersEstimate": 977
     },
     {
       "ID": "ACH18",
@@ -7536,7 +7541,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7517,
+      "Progressed": 7519,
       "Completed": 44
     }
   ],
@@ -7544,8 +7549,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-08-08T10:58:39.8660695+00:00",
-  "LastChanged_Achievements": "2023-08-14T05:05:53.943411+00:00",
+  "LastChanged_Achievements": "2023-08-14T06:06:31.4724944+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:32.4221981+00:00",
-  "LastUpdate_Ratings": "2023-08-14T04:59:01.4558298+00:00",
-  "LastUpdate_Achievements": "2023-08-14T05:05:53.9434599+00:00"
+  "LastUpdate_Ratings": "2023-08-14T05:58:55.7910687+00:00",
+  "LastUpdate_Achievements": "2023-08-14T06:06:31.4725994+00:00"
 }

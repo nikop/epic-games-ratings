@@ -380,9 +380,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17792,
+  "EOS_Progressed": 17793,
   "EOS_Completed": 361,
-  "EOS_NewPlayers": 561,
+  "EOS_NewPlayers": 559,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 2.03,
   "EosHistory": [
@@ -12640,6 +12640,11 @@
       "Time": "2023-08-14T05:05:16.339582+00:00",
       "NumProgressed": 17792,
       "NumCompleted": 361
+    },
+    {
+      "Time": "2023-08-14T06:05:46.999635+00:00",
+      "NumProgressed": 17793,
+      "NumCompleted": 361
     }
   ],
   "TotalAchievements": 20,
@@ -12771,7 +12776,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 13522
+      "UsersEstimate": 13523
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -12795,7 +12800,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1245
+      "UsersEstimate": 1246
     },
     {
       "ID": "WEST_FINISHED",
@@ -12803,22 +12808,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 3380
+      "UsersEstimate": 3381
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 17792,
+      "Progressed": 17793,
       "Completed": 361
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-08-12T01:39:46.4098224+00:00",
-  "LastChanged_Achievements": "2023-08-14T05:05:16.3395816+00:00",
+  "LastChanged_Achievements": "2023-08-14T06:05:46.9996344+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:58:04.1120676+00:00",
-  "LastUpdate_Ratings": "2023-08-14T04:57:21.789151+00:00",
-  "LastUpdate_Achievements": "2023-08-14T05:05:16.33965+00:00"
+  "LastUpdate_Ratings": "2023-08-14T05:56:57.3993417+00:00",
+  "LastUpdate_Achievements": "2023-08-14T06:05:46.9997235+00:00"
 }

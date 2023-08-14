@@ -642,9 +642,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 211948,
+  "EOS_Progressed": 211958,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3877,
+  "EOS_NewPlayers": 3876,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6842,6 +6842,11 @@
       "Time": "2023-08-14T05:04:31.6046069+00:00",
       "NumProgressed": 211948,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-14T06:04:54.0619089+00:00",
+      "NumProgressed": 211958,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -6939,9 +6944,9 @@
       "ID": "Chapter6",
       "SetID": "50chcgj",
       "Name": "Torture and Sensibility",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 424
+      "UsersEstimate": 636
     },
     {
       "ID": "Chapter7",
@@ -7301,7 +7306,7 @@
       "Name": "Sowwy!",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 25434
+      "UsersEstimate": 25435
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -7556,21 +7561,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 211948,
+      "Progressed": 211958,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 211948,
+      "Progressed": 211958,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-13T20:01:39.3225851+00:00",
-  "LastChanged_Achievements": "2023-08-14T05:04:31.6046066+00:00",
+  "LastChanged_Achievements": "2023-08-14T06:04:54.0619085+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:49.6773731+00:00",
-  "LastUpdate_Ratings": "2023-08-14T05:00:02.1667656+00:00",
-  "LastUpdate_Achievements": "2023-08-14T05:04:31.6047162+00:00"
+  "LastUpdate_Ratings": "2023-08-14T06:00:11.1039044+00:00",
+  "LastUpdate_Achievements": "2023-08-14T06:04:54.062059+00:00"
 }

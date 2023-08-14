@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 60829,
+  "EOS_Progressed": 60830,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 397,
+  "EOS_NewPlayers": 398,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -11202,6 +11202,11 @@
       "Time": "2023-08-14T04:06:43.5231543+00:00",
       "NumProgressed": 60829,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-14T06:05:45.7080964+00:00",
+      "NumProgressed": 60830,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -11229,7 +11234,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 13382
+      "UsersEstimate": 13383
     },
     {
       "ID": "04",
@@ -11261,7 +11266,7 @@
       "Name": "Heavy Metal",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7299
+      "UsersEstimate": 7300
     },
     {
       "ID": "08",
@@ -11269,7 +11274,7 @@
       "Name": "Iron Horse",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7299
+      "UsersEstimate": 7300
     },
     {
       "ID": "09",
@@ -11293,7 +11298,7 @@
       "Name": "Children of the Elder God",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3041
+      "UsersEstimate": 3042
     },
     {
       "ID": "12",
@@ -11309,7 +11314,7 @@
       "Name": "Drink \u0027Em Both Up",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3041
+      "UsersEstimate": 3042
     },
     {
       "ID": "14",
@@ -11349,7 +11354,7 @@
       "Name": "Hardboiled Writer",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3041
+      "UsersEstimate": 3042
     },
     {
       "ID": "19",
@@ -11381,7 +11386,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7299
+      "UsersEstimate": 7300
     },
     {
       "ID": "23",
@@ -11421,7 +11426,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7299
+      "UsersEstimate": 7300
     },
     {
       "ID": "28",
@@ -11429,7 +11434,7 @@
       "Name": "Come One, Come All",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7299
+      "UsersEstimate": 7300
     },
     {
       "ID": "29",
@@ -11461,7 +11466,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 17640
+      "UsersEstimate": 17641
     },
     {
       "ID": "33",
@@ -11748,21 +11753,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 60829,
+      "Progressed": 60830,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 24297,
+      "Progressed": 24298,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-14T05:05:15.1912274+00:00",
+  "LastChanged_Achievements": "2023-08-14T06:05:45.7080957+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:20.2881971+00:00",
-  "LastUpdate_Ratings": "2023-08-14T04:58:52.0177966+00:00",
-  "LastUpdate_Achievements": "2023-08-14T05:05:15.1913367+00:00"
+  "LastUpdate_Ratings": "2023-08-14T05:58:44.6806457+00:00",
+  "LastUpdate_Achievements": "2023-08-14T06:05:45.7083284+00:00"
 }

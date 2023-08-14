@@ -6,10 +6,10 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Peak Performance | 55.00% | ~3,651 |
-| Tutti Eroi! | 55.00% | ~3,651 |
+| Peak Performance | 55.00% | ~3,652 |
+| Tutti Eroi! | 55.00% | ~3,652 |
 | You Shall Not Pass | 53.00% | ~3,519 |
-| Avanti Savoia! | 47.00% | ~3,120 |
+| Avanti Savoia! | 47.00% | ~3,121 |
 | Mamma Mia! | 38.00% | ~2,523 |
 | Conrad von Hotzensocks | 36.00% | ~2,390 |
 | Gabriele D'Annunzio | 33.00% | ~2,191 |
@@ -23,8 +23,8 @@ Number of Ratings: 98  (23.09.2022)
 | Ragazzi del '99 | 18.00% | ~1,195 |
 | The Lion of the Isonzo | 18.00% | ~1,195 |
 | Luigi Cadorna | 15.00% | ~996 |
-| Dirty Dozen | 14.00% | ~929 |
-| Uomo Universale | 14.00% | ~929 |
+| Dirty Dozen | 14.00% | ~930 |
+| Uomo Universale | 14.00% | ~930 |
 | Machiavelli | 13.00% | ~863 |
 | Shaken, Not Stirred | 13.00% | ~863 |
 | Thus With A Kiss | 13.00% | ~863 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~27 |
 | Can I Go Home Now? | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,639 (Ranked 134)  
+Progressed: 6,640 (Ranked 134)  
 Completed: 8 (0.12%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 8 (0.12%) (Ranked 196)
 | 2023-08-11 | 6,614 | 8 |
 | 2023-08-12 | 6,627 | 8 |
 | 2023-08-13 | 6,638 | 8 |
-| 2023-08-14 | 6,639 | 8 |
+| 2023-08-14 | 6,640 | 8 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 437)  
 Sum: 266 (Ranked 351)  

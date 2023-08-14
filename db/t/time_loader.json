@@ -4,8 +4,8 @@
   "ProductSlug": "time-loader",
   "Ranking_EOS_Progress": 314,
   "Ranking_EOS_Completed": 39,
-  "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2021-11-03T16:00:00+00:00",
     "PcReleaseDate": "2021-11-03T16:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 117,
+  "EOS_Progressed": 118,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 6.84,
+  "EOS_Completed_Percentage": 6.78,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:23.4088376+00:00",
@@ -151,6 +151,11 @@
       "Time": "2023-08-08T12:04:31.1317167+00:00",
       "NumProgressed": 117,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-08-14T06:05:08.333524+00:00",
+      "NumProgressed": 118,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 29,
@@ -162,7 +167,7 @@
       "Name": "Wrench",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "02_Soap",
@@ -176,9 +181,9 @@
       "ID": "03_Cassette",
       "SetID": "681m9fa",
       "Name": "Cassette",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 23
+      "UsersEstimate": 22
     },
     {
       "ID": "04_Mug",
@@ -202,15 +207,15 @@
       "Name": "Photo",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "07_Contract",
       "SetID": "681m9fa",
       "Name": "Contract",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "08_Baseball",
@@ -240,15 +245,15 @@
       "ID": "11_Itsinthevault",
       "SetID": "681m9fa",
       "Name": "It\u2019s in the Vault",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 17
     },
     {
       "ID": "12_Purrfect",
       "SetID": "681m9fa",
       "Name": "Purr-fect",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 15,
       "UsersEstimate": 37
     },
@@ -256,17 +261,17 @@
       "ID": "13_DrAntivirus",
       "SetID": "681m9fa",
       "Name": "Dr. Antivirus",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 17
     },
     {
       "ID": "14_VhsBlogger",
       "SetID": "681m9fa",
       "Name": "VHS blogger",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "15_Screwdriver",
@@ -274,13 +279,13 @@
       "Name": "Screwdriver",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "16_Springs",
       "SetID": "681m9fa",
       "Name": "Springs",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 15,
       "UsersEstimate": 71
     },
@@ -290,7 +295,7 @@
       "Name": "Capacitors",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "18_SolderingIron",
@@ -314,7 +319,7 @@
       "Name": "Access protocol",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "21_RobotBros",
@@ -322,7 +327,7 @@
       "Name": "Robot Bros",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "22_OutOfTheLoop",
@@ -336,17 +341,17 @@
       "ID": "23_NewDawn",
       "SetID": "681m9fa",
       "Name": "New Dawn",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "24_HereWeGoAgain",
       "SetID": "681m9fa",
       "Name": "Here we go again",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 22
     },
     {
       "ID": "25_LeaveMeAlone",
@@ -393,7 +398,7 @@
     {
       "ID": "681m9fa",
       "IsBase": true,
-      "Progressed": 117,
+      "Progressed": 118,
       "Completed": 8
     }
   ],
@@ -401,8 +406,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.0272628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.4088384+00:00",
   "LastChanged": "2023-03-31T05:58:23.0272628+00:00",
-  "LastChanged_Achievements": "2023-08-14T05:04:43.7627626+00:00",
+  "LastChanged_Achievements": "2023-08-14T06:05:08.3335233+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:33.6700464+00:00",
-  "LastUpdate_Ratings": "2023-08-14T04:59:01.9822199+00:00",
-  "LastUpdate_Achievements": "2023-08-14T05:04:43.7627806+00:00"
+  "LastUpdate_Ratings": "2023-08-14T05:58:56.420668+00:00",
+  "LastUpdate_Achievements": "2023-08-14T06:05:08.3335926+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
     "PcReleaseDate": "2022-07-13T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 312,
+  "EOS_Progressed": 313,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -917,6 +917,11 @@
       "Time": "2023-08-13T19:04:03.2303383+00:00",
       "NumProgressed": 312,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-14T06:03:42.2653988+00:00",
+      "NumProgressed": 313,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -1016,7 +1021,7 @@
       "Name": "Food producer",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "COMIDA_2",
@@ -1070,9 +1075,9 @@
       "ID": "CULTURE_1",
       "SetID": "44dlcg0",
       "Name": "I like books",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 59
     },
     {
       "ID": "CULTURE_2",
@@ -1200,7 +1205,7 @@
       "Name": "I like my life",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "FELIZ_2",
@@ -1254,9 +1259,9 @@
       "ID": "GREEN_AREAS_1",
       "SetID": "44dlcg0",
       "Name": "I like parks",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 168
+      "UsersEstimate": 166
     },
     {
       "ID": "GREEN_AREAS_2",
@@ -1312,7 +1317,7 @@
       "Name": "It is nice to share with friends in the city",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "NIGHT_LIFE_2",
@@ -1358,9 +1363,9 @@
       "ID": "POPULATION_1",
       "SetID": "44dlcg0",
       "Name": "Small town",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 206
+      "UsersEstimate": 203
     },
     {
       "ID": "POPULATION_2",
@@ -1368,7 +1373,7 @@
       "Name": "Metropolurbek",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "POPULATION_3",
@@ -1559,7 +1564,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 312,
+      "Progressed": 313,
       "Completed": 0
     }
   ],
@@ -1567,8 +1572,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-08-14T05:03:30.8725878+00:00",
+  "LastChanged_Achievements": "2023-08-14T06:03:42.2653977+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:38.0477913+00:00",
-  "LastUpdate_Ratings": "2023-08-14T04:59:52.5966759+00:00",
-  "LastUpdate_Achievements": "2023-08-14T05:03:30.8726601+00:00"
+  "LastUpdate_Ratings": "2023-08-14T05:59:56.8182732+00:00",
+  "LastUpdate_Achievements": "2023-08-14T06:03:42.2655704+00:00"
 }

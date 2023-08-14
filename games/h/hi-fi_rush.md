@@ -12,9 +12,9 @@ Rating: 4.88 (Ranked 18)
 | Thanks for the free chip, Peppermint! | 8.00% | ~311 |
 | Who put gears in there? | 8.00% | ~311 |
 | You got this, Peppermint? | 7.00% | ~272 |
+| Perfect Parry | 7.00% | ~272 |
 | This will cost you big time | 6.00% | ~233 |
 | I play my own way! | 6.00% | ~233 |
-| Perfect Parry | 6.00% | ~233 |
 | Uh, they were broken when I got here | 6.00% | ~233 |
 | I look cool. But I can look COOLER. | 6.00% | ~233 |
 | Alright, that felt AWESOME! | 6.00% | ~233 |

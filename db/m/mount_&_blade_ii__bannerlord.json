@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -6369,7 +6369,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 58833,
+  "EOS_Progressed": 58834,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 467,
   "EOS_NewCompleters": 0,
@@ -18554,6 +18554,11 @@
       "Time": "2023-08-14T05:04:25.2082013+00:00",
       "NumProgressed": 58833,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-14T06:04:46.439678+00:00",
+      "NumProgressed": 58834,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -18837,7 +18842,7 @@
       "Name": "Mounted Archery",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "My way",
@@ -18861,7 +18866,7 @@
       "Name": "Ride it like you stole it",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "Roadkill",
@@ -18972,15 +18977,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 58833,
+      "Progressed": 58834,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-08-13T22:01:49.3242112+00:00",
-  "LastChanged_Achievements": "2023-08-14T05:04:25.2082009+00:00",
+  "LastChanged_Achievements": "2023-08-14T06:04:46.4396772+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:44.6335832+00:00",
-  "LastUpdate_Ratings": "2023-08-14T05:00:38.2607916+00:00",
-  "LastUpdate_Achievements": "2023-08-14T05:04:25.2082909+00:00"
+  "LastUpdate_Ratings": "2023-08-14T06:00:56.042889+00:00",
+  "LastUpdate_Achievements": "2023-08-14T06:04:46.4398166+00:00"
 }
