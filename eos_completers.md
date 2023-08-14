@@ -27,7 +27,7 @@
 | 25 | [Out of Bounds](games/o/out_of_bounds.md) | 10.34% |
 | 26 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.23% |
 | 27 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 10.00% |
-| 28 | [Sonic Origins](games/s/sonic_origins.md) | 9.69% |
+| 28 | [Sonic Origins](games/s/sonic_origins.md) | 9.67% |
 | 29 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.30% |
 | 30 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 9.09% |
 | 31 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.01% |
@@ -53,8 +53,8 @@
 | 51 | [Bugsnax](games/b/bugsnax.md) | 4.71% |
 | 52 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.69% |
 | 53 | [JARS](games/j/jars.md) | 4.62% |
-| 54 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.55% |
 | 54 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.55% |
+| 55 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.35% |
 | 56 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.19% |
 | 57 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.05% |
 | 58 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.91% |
