@@ -29,8 +29,8 @@
 | 27 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 10.00% |
 | 28 | [Sonic Origins](games/s/sonic_origins.md) | 9.67% |
 | 29 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.30% |
-| 30 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 9.09% |
-| 31 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.98% |
+| 30 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.98% |
+| 31 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 8.89% |
 | 32 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.48% |
 | 33 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 7.94% |
 | 34 | [Smelter](games/s/smelter.md) | 7.69% |
@@ -64,7 +64,7 @@
 | 62 | [Doodle God](games/d/doodle_god.md) | 3.46% |
 | 63 | [Bunny Park](games/b/bunny_park.md) | 3.39% |
 | 64 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.33% |
-| 65 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.21% |
+| 65 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.20% |
 | 66 | [HordeCore](games/h/hordecore.md) | 3.15% |
 | 67 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.05% |
 | 68 | [The Complex](games/t/the_complex.md) | 2.99% |
@@ -119,7 +119,7 @@
 | 116 | [Sable](games/s/sable.md) | 0.97% |
 | 118 | [Hades](games/h/hades.md) | 0.90% |
 | 119 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
-| 120 | [Dungeons 3](games/d/dungeons_3.md) | 0.81% |
+| 120 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
 | 121 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.80% |
 | 122 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.75% |
 | 122 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
