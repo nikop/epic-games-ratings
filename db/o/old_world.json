@@ -1599,9 +1599,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13402,
+  "EOS_Progressed": 13403,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -9629,6 +9629,11 @@
       "Time": "2023-08-14T01:45:07.397529+00:00",
       "NumProgressed": 13402,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-14T05:04:29.3751137+00:00",
+      "NumProgressed": 13403,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -10982,9 +10987,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_COLOSSUS",
       "SetID": "9201eeb",
       "Name": "Colossus",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 121
+      "UsersEstimate": 134
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_GREAT_ZIGGURAT",
@@ -12007,21 +12012,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13402,
+      "Progressed": 13403,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13402,
+      "Progressed": 13403,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-12T03:59:31.9297462+00:00",
-  "LastChanged_Achievements": "2023-08-14T04:05:37.7079073+00:00",
+  "LastChanged_Achievements": "2023-08-14T05:04:29.3751133+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:38.1291138+00:00",
-  "LastUpdate_Ratings": "2023-08-14T04:00:00.171732+00:00",
-  "LastUpdate_Achievements": "2023-08-14T04:05:37.7089492+00:00"
+  "LastUpdate_Ratings": "2023-08-14T04:59:09.0956183+00:00",
+  "LastUpdate_Achievements": "2023-08-14T05:04:29.3758436+00:00"
 }

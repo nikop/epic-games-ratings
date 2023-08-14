@@ -176,9 +176,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 135850,
+  "EOS_Progressed": 135852,
   "EOS_Completed": 222,
-  "EOS_NewPlayers": 2036,
+  "EOS_NewPlayers": 2025,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -7041,6 +7041,11 @@
       "Time": "2023-08-14T04:07:52.4930528+00:00",
       "NumProgressed": 135850,
       "NumCompleted": 222
+    },
+    {
+      "Time": "2023-08-14T05:06:03.778362+00:00",
+      "NumProgressed": 135852,
+      "NumCompleted": 222
     }
   ],
   "TotalAchievements": 31,
@@ -7060,7 +7065,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 93736
+      "UsersEstimate": 93738
     },
     {
       "ID": "EAwards_10",
@@ -7124,7 +7129,7 @@
       "Name": "Main Event",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 28528
+      "UsersEstimate": 28529
     },
     {
       "ID": "EAwards_18",
@@ -7132,7 +7137,7 @@
       "Name": "That was INTENSE",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 28528
+      "UsersEstimate": 28529
     },
     {
       "ID": "EAwards_19",
@@ -7188,7 +7193,7 @@
       "Name": "The Never Ending Combo",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 6792
+      "UsersEstimate": 6793
     },
     {
       "ID": "EAwards_25",
@@ -7204,7 +7209,7 @@
       "Name": "Who put these here???",
       "Percentage": 1,
       "XP": 110,
-      "UsersEstimate": 1358
+      "UsersEstimate": 1359
     },
     {
       "ID": "EAwards_27",
@@ -7220,7 +7225,7 @@
       "Name": "World Champion",
       "Percentage": 1,
       "XP": 110,
-      "UsersEstimate": 1358
+      "UsersEstimate": 1359
     },
     {
       "ID": "EAwards_29",
@@ -7234,9 +7239,9 @@
       "ID": "EAwards_3",
       "SetID": "7gko43",
       "Name": "X\u0027tabay-Bye",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 24453
+      "UsersEstimate": 25812
     },
     {
       "ID": "EAwards_30",
@@ -7244,7 +7249,7 @@
       "Name": "Boom-Shack-Calaca",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 12226
+      "UsersEstimate": 12227
     },
     {
       "ID": "EAwards_4",
@@ -7268,7 +7273,7 @@
       "Name": "Power Within",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 33962
+      "UsersEstimate": 33963
     },
     {
       "ID": "EAwards_7",
@@ -7284,7 +7289,7 @@
       "Name": "Flawless",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 50264
+      "UsersEstimate": 50265
     },
     {
       "ID": "EAwards_9",
@@ -7299,7 +7304,7 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 135850,
+      "Progressed": 135852,
       "Completed": 222
     }
   ],
@@ -7307,8 +7312,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-08-10T19:58:10.866316+00:00",
-  "LastChanged_Achievements": "2023-08-14T04:07:52.4930521+00:00",
+  "LastChanged_Achievements": "2023-08-14T05:06:03.7783615+00:00",
   "LastUpdate_AppInfo": "2023-08-10T19:57:06.7025271+00:00",
-  "LastUpdate_Ratings": "2023-08-14T03:58:33.3655186+00:00",
-  "LastUpdate_Achievements": "2023-08-14T04:07:52.4932005+00:00"
+  "LastUpdate_Ratings": "2023-08-14T04:58:07.8244833+00:00",
+  "LastUpdate_Achievements": "2023-08-14T05:06:03.7784108+00:00"
 }

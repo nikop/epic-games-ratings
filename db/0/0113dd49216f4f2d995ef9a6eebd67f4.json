@@ -245,9 +245,9 @@
       "ID": "SG_HEARTBREAKER",
       "SetID": "bj5g0n4",
       "Name": "Heartbreaker",
-      "Percentage": 10,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SG_LIKEHEROESBEFOREYOU",
@@ -444,8 +444,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-08-14T04:03:44.4243401+00:00",
+  "LastChanged_Achievements": "2023-08-14T05:03:16.0509653+00:00",
   "LastUpdate_AppInfo": "2023-08-10T07:57:00.7529969+00:00",
-  "LastUpdate_Ratings": "2023-08-14T03:57:39.9972198+00:00",
-  "LastUpdate_Achievements": "2023-08-14T04:03:44.4243699+00:00"
+  "LastUpdate_Ratings": "2023-08-14T04:57:32.2890516+00:00",
+  "LastUpdate_Achievements": "2023-08-14T05:03:16.0509889+00:00"
 }

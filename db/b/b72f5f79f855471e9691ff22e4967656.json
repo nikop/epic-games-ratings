@@ -586,9 +586,9 @@
       "ID": "locBanditBoss",
       "SetID": "ci65fo0",
       "Name": "The Reds camp",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "locCompDungeon10",
@@ -746,9 +746,9 @@
       "ID": "questDefender",
       "SetID": "ci65fo0",
       "Name": "Defender",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "questDetective",
@@ -935,8 +935,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-08-14T04:05:11.3905537+00:00",
+  "LastChanged_Achievements": "2023-08-14T05:04:10.2889608+00:00",
   "LastUpdate_AppInfo": "2023-08-09T11:56:59.6774878+00:00",
-  "LastUpdate_Ratings": "2023-08-14T03:58:37.2624508+00:00",
-  "LastUpdate_Achievements": "2023-08-14T04:05:11.390629+00:00"
+  "LastUpdate_Ratings": "2023-08-14T04:58:09.8737673+00:00",
+  "LastUpdate_Achievements": "2023-08-14T05:04:10.2890227+00:00"
 }

@@ -46,12 +46,12 @@ Rating: 4.77 (Ranked 108)
 | Demiguise Dread | 1.00% | ~2,901 |
 | Finishing Touches | 1.00% | ~2,901 |
 | A Forte for Achievement | 1.00% | ~2,901 |
-| Merlin's Beard! | 0.90% | ~2,610 |
+| Merlin's Beard! | 0.90% | ~2,611 |
 | Spilled Milk | 0.80% | ~2,320 |
 | The Nature of the Beast | 0.60% | ~1,740 |
 | Collector's Edition | 0.30% | ~870 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290,055 (Ranked 42)  
+Progressed: 290,056 (Ranked 42)  
 Completed: 451 (0.16%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,7 +167,7 @@ Completed: 451 (0.16%) (Ranked 187)
 | 2023-08-11 | 289,866 | 448 |
 | 2023-08-12 | 289,948 | 449 |
 | 2023-08-13 | 290,043 | 451 |
-| 2023-08-14 | 290,055 | 451 |
+| 2023-08-14 | 290,056 | 451 |
 ## Awards
 Max (Character Customization): 21,738  (Ranked 17)  
 Sum: 40,954 (Ranked 30)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 31,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 64,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
     "PcReleaseDate": "2019-06-09T00:00:00+00:00",
@@ -480,9 +480,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 524980,
+  "EOS_Progressed": 524981,
   "EOS_Completed": 459,
-  "EOS_NewPlayers": 619,
+  "EOS_NewPlayers": 618,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -12670,6 +12670,11 @@
       "Time": "2023-08-14T04:06:27.2328179+00:00",
       "NumProgressed": 524980,
       "NumCompleted": 459
+    },
+    {
+      "Time": "2023-08-14T05:05:03.7250721+00:00",
+      "NumProgressed": 524981,
+      "NumCompleted": 459
     }
   ],
   "TotalAchievements": 57,
@@ -12681,7 +12686,7 @@
       "Name": "AAARR!",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 120745
+      "UsersEstimate": 120746
     },
     {
       "ID": "10",
@@ -12697,7 +12702,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 367486
+      "UsersEstimate": 367487
     },
     {
       "ID": "12",
@@ -12713,7 +12718,7 @@
       "Name": "Keep On Trucking",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 68247
+      "UsersEstimate": 68248
     },
     {
       "ID": "14",
@@ -12937,7 +12942,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 178493
+      "UsersEstimate": 178494
     },
     {
       "ID": "4",
@@ -13025,7 +13030,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 178493
+      "UsersEstimate": 178494
     },
     {
       "ID": "5",
@@ -13065,7 +13070,7 @@
       "Name": "Hello Darkness",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 120745
+      "UsersEstimate": 120746
     },
     {
       "ID": "54",
@@ -13136,15 +13141,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 524980,
+      "Progressed": 524981,
       "Completed": 459
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
-  "LastChanged_Achievements": "2023-08-14T04:06:27.2328175+00:00",
+  "LastChanged_Achievements": "2023-08-14T05:05:03.7250716+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:16.1872639+00:00",
-  "LastUpdate_Ratings": "2023-08-14T03:59:16.9690974+00:00",
-  "LastUpdate_Achievements": "2023-08-14T04:06:27.23296+00:00"
+  "LastUpdate_Ratings": "2023-08-14T04:58:37.3389216+00:00",
+  "LastUpdate_Achievements": "2023-08-14T05:05:03.7251678+00:00"
 }
