@@ -6,18 +6,18 @@ Number of Ratings: 19,160  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sheet | 50.00% | ~235,071 |
-| He's Signed! | 50.00% | ~235,071 |
-| First Victory | 50.00% | ~235,071 |
-| He's Sold! | 48.00% | ~225,668 |
+| Clean Sheet | 50.00% | ~235,072 |
+| He's Signed! | 50.00% | ~235,072 |
+| First Victory | 50.00% | ~235,072 |
+| He's Sold! | 48.00% | ~225,669 |
 | I'm The Boss! | 42.00% | ~197,460 |
-| Hat-trick | 41.00% | ~192,758 |
+| Hat-trick | 41.00% | ~192,759 |
 | Scoring Streak | 38.00% | ~178,654 |
 | Unbeatable! | 37.00% | ~173,953 |
 | Thumping | 37.00% | ~173,953 |
 | Superb Dressing Room Atmosphere | 35.00% | ~164,550 |
-| Total Support | 32.00% | ~150,445 |
-| Record Signing | 32.00% | ~150,445 |
+| Total Support | 32.00% | ~150,446 |
+| Record Signing | 32.00% | ~150,446 |
 | He's a Natural | 31.00% | ~145,744 |
 | Millionaire's Club | 31.00% | ~145,744 |
 | Team Performance | 30.00% | ~141,043 |
@@ -41,8 +41,8 @@ Number of Ratings: 19,160  (23.09.2022)
 | Cup Glory! | 22.00% | ~103,431 |
 | Splashing The Cash | 21.00% | ~98,730 |
 | Clean Bill of Health | 21.00% | ~98,730 |
-| Irresistible Force | 20.00% | ~94,028 |
-| Excellent Match Cohesion | 20.00% | ~94,028 |
+| Irresistible Force | 20.00% | ~94,029 |
+| Excellent Match Cohesion | 20.00% | ~94,029 |
 | Do The Double | 19.00% | ~89,327 |
 | Top Form | 17.00% | ~79,924 |
 | Cash To Burn | 17.00% | ~79,924 |
@@ -51,8 +51,8 @@ Number of Ratings: 19,160  (23.09.2022)
 | Rushed signing | 15.00% | ~70,521 |
 | Window Shopping | 15.00% | ~70,521 |
 | Eyes and Ears | 14.00% | ~65,820 |
-| Comeback King! | 13.00% | ~61,118 |
-| You're Up! | 13.00% | ~61,118 |
+| Comeback King! | 13.00% | ~61,119 |
+| You're Up! | 13.00% | ~61,119 |
 | Money, Money, Money | 12.00% | ~56,417 |
 | Superb Strike | 10.00% | ~47,014 |
 | Invincible! | 10.00% | ~47,014 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~470 |
 | Shoestring Budget | 0.10% | ~470 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 470,142 (Ranked 36)  
+Progressed: 470,143 (Ranked 36)  
 Completed: 20 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,17 +221,17 @@ Completed: 20 (0.00%) (Ranked 255)
 | 2023-08-11 | 469,876 | 19 |
 | 2023-08-12 | 469,990 | 20 |
 | 2023-08-13 | 470,120 | 20 |
-| 2023-08-14 | 470,142 | 20 |
+| 2023-08-14 | 470,143 | 20 |
 ## Awards
 Max (Relaxing): 6,398  (Ranked 54)  
-Sum: 50,370 (Ranked 24)  
+Sum: 50,371 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 6,398 |
 | This game is Extremely Fun | 6,008 |
 | This game has Competitive Players | 5,840 |
-| This game has Quickly Understood Controls | 5,833 |
+| This game has Quickly Understood Controls | 5,834 |
 | This game is Educational | 5,807 |
 | This game is Highly Recommended | 5,801 |
 | This game has Diverse Characters | 5,446 |
@@ -442,3 +442,4 @@ Diff (max vs sum): 30
 | 2023-08-11 | 4.80 | - | 6,393 | 50,342 |
 | 2023-08-12 | 4.80 | - | 6,397 | 50,354 |
 | 2023-08-13 | 4.80 | - | 6,398 | 50,370 |
+| 2023-08-14 | 4.80 | - | 6,398 | 50,371 |

@@ -4,11 +4,11 @@
   "ProductSlug": "risk-of-rain-2",
   "Ranking_Rating": 50,
   "Ranking_Popularity": 257,
-  "Ranking_PopularitySum": 178,
+  "Ranking_PopularitySum": 177,
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 362,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-04-19T15:00:00+00:00",
     "PcReleaseDate": "2020-08-11T14:53:00+00:00",
@@ -2100,10 +2100,16 @@
       "Rating": 4.84,
       "NumberOfAwards": 2393,
       "NumberOfAwardsMax": 239
+    },
+    {
+      "Time": "2023-08-14T08:00:15.7819546+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 2394,
+      "NumberOfAwardsMax": 239
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2393,
+  "NumberOfAwards": 2394,
   "NumberOfAwardsMax": 239,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -2159,7 +2165,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 218
+      "Count": 219
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2191,8 +2197,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:31.4387684+00:00",
-  "LastChanged": "2023-08-10T23:01:12.2504279+00:00",
+  "LastChanged": "2023-08-14T08:00:15.7819545+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:11.643221+00:00",
-  "LastUpdate_Ratings": "2023-08-14T07:00:10.0249946+00:00",
-  "LastUpdate_Achievements": "2023-08-14T07:05:36.1834528+00:00"
+  "LastUpdate_Ratings": "2023-08-14T08:00:15.781955+00:00",
+  "LastUpdate_Achievements": "2023-08-14T08:05:30.1683002+00:00"
 }

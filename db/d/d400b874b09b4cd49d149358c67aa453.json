@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 242,
+  "EOS_Progressed": 243,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -716,6 +716,11 @@
       "Time": "2023-08-14T01:47:10.3359116+00:00",
       "NumProgressed": 242,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-14T08:06:08.1001289+00:00",
+      "NumProgressed": 243,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-04T13:10:46.6045542+00:00",
@@ -776,7 +781,7 @@
       "Name": "I love customers",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "ACH_END_FIRST_TUTORIAL",
@@ -784,7 +789,7 @@
       "Name": "Ready to go",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ACH_END_FIRST_WORKBENCH_MISSION",
@@ -792,7 +797,7 @@
       "Name": "I can fix that",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "ACH_END_MAIL_MISSION_FAST",
@@ -808,7 +813,7 @@
       "Name": "First shock",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ACH_FIX_LIGHT_SWITCHES",
@@ -872,7 +877,7 @@
       "Name": "Home sweet home",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "ACH_PLACE_MANY_ITEMS_IN_OFFICE",
@@ -896,7 +901,7 @@
       "Name": "Unpacked",
       "Percentage": 98,
       "XP": 15,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "ACH_SHOCK_ON_MISSION",
@@ -920,7 +925,7 @@
       "Name": "Unscrew you",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ACH_WATCH_ALL_TV_CHANNELS",
@@ -935,14 +940,14 @@
     {
       "ID": "al4k4nh",
       "IsBase": true,
-      "Progressed": 242,
+      "Progressed": 243,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2023-08-14T07:06:14.7572797+00:00",
+  "LastChanged_Achievements": "2023-08-14T08:06:08.1001281+00:00",
   "LastUpdate_AppInfo": "2023-08-09T17:56:58.4992812+00:00",
-  "LastUpdate_Ratings": "2023-08-14T06:58:21.8783893+00:00",
-  "LastUpdate_Achievements": "2023-08-14T07:06:14.7573249+00:00"
+  "LastUpdate_Ratings": "2023-08-14T07:58:22.6412058+00:00",
+  "LastUpdate_Achievements": "2023-08-14T08:06:08.1001499+00:00"
 }

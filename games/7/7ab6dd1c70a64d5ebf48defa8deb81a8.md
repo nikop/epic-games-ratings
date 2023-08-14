@@ -3,10 +3,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Calm before the Storm | 4.00% | ~1 |
 | Break Out | 0.00% | ~0 |
 | Find Allies | 0.00% | ~0 |
 | Powerful Allies | 0.00% | ~0 |
-| Calm before the Storm | 0.00% | ~0 |
 | To Battle | 0.00% | ~0 |
 | Godslayer | 0.00% | ~0 |
 | Clear Sight | 0.00% | ~0 |
@@ -40,8 +40,8 @@
 | A Queen's Tale | 0.00% | ~0 |
 | Summiter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22 (Ranked 401)  
-Completed: 1 (4.55%) (Ranked 54)  
+Progressed: 23 (Ranked 401)  
+Completed: 1 (4.35%) (Ranked 55)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -55,3 +55,4 @@ Completed: 1 (4.55%) (Ranked 54)
 | 2023-07-17 | 19 | 0 |
 | 2023-07-19 | 20 | 1 |
 | 2023-07-26 | 22 | 1 |
+| 2023-08-14 | 23 | 1 |

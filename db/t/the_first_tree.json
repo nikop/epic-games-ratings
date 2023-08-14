@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 166,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-09-14T15:00:00+00:00",
@@ -244,9 +244,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 34859,
+  "EOS_Progressed": 34860,
   "EOS_Completed": 106,
-  "EOS_NewPlayers": 281,
+  "EOS_NewPlayers": 282,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -10879,6 +10879,11 @@
       "Time": "2023-08-14T06:06:04.706986+00:00",
       "NumProgressed": 34859,
       "NumCompleted": 106
+    },
+    {
+      "Time": "2023-08-14T08:05:43.4069059+00:00",
+      "NumProgressed": 34860,
+      "NumCompleted": 106
     }
   ],
   "TotalAchievements": 14,
@@ -10906,7 +10911,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 9063
+      "UsersEstimate": 9064
     },
     {
       "ID": "allItems",
@@ -10978,7 +10983,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 26841
+      "UsersEstimate": 26842
     },
     {
       "ID": "roots",
@@ -11001,15 +11006,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 34859,
+      "Progressed": 34860,
       "Completed": 106
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-07-24T04:01:31.3679912+00:00",
-  "LastChanged_Achievements": "2023-08-14T07:05:49.8655253+00:00",
+  "LastChanged_Achievements": "2023-08-14T08:05:43.4069053+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:25.8798137+00:00",
-  "LastUpdate_Ratings": "2023-08-14T06:57:44.3296599+00:00",
-  "LastUpdate_Achievements": "2023-08-14T07:05:49.8655813+00:00"
+  "LastUpdate_Ratings": "2023-08-14T07:57:45.8410392+00:00",
+  "LastUpdate_Achievements": "2023-08-14T08:05:43.4069801+00:00"
 }

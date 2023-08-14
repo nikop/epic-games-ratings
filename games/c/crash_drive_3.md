@@ -5,27 +5,27 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Brace for impact! | 32.00% | ~116 |
-| Baby's First Car | 30.00% | ~108 |
-| Amateur Mechanic | 30.00% | ~108 |
-| Pushover | 30.00% | ~108 |
-| A Forest Walk | 30.00% | ~108 |
+| Baby's First Car | 30.00% | ~109 |
+| Amateur Mechanic | 30.00% | ~109 |
+| Pushover | 30.00% | ~109 |
+| A Forest Walk | 30.00% | ~109 |
 | C-C-C-Combo! | 28.00% | ~101 |
 | Multiply that! | 28.00% | ~101 |
 | Fore! | 25.00% | ~90 |
 | Insurance fraud | 25.00% | ~90 |
 | Snow Fun! | 25.00% | ~90 |
 | The Collector | 24.00% | ~87 |
-| To and Fro | 24.00% | ~87 |
 | The Wild West | 24.00% | ~87 |
 | Bag of Tricks | 24.00% | ~87 |
-| I see the light! | 24.00% | ~87 |
 | You're it | 24.00% | ~87 |
 | First Come, First Serve | 23.00% | ~83 |
+| To and Fro | 23.00% | ~83 |
 | Goodbye cruel world | 23.00% | ~83 |
+| I see the light! | 23.00% | ~83 |
 | In the Bag! | 23.00% | ~83 |
-| Disoriented | 22.00% | ~79 |
-| Take that Frosty! | 22.00% | ~79 |
-| Beach Party! | 22.00% | ~79 |
+| Disoriented | 22.00% | ~80 |
+| Take that Frosty! | 22.00% | ~80 |
+| Beach Party! | 22.00% | ~80 |
 | Car-Tapult | 21.00% | ~76 |
 | Anger Issues | 21.00% | ~76 |
 | Your Highness | 21.00% | ~76 |
@@ -60,7 +60,7 @@
 | Master Mechanic | 1.00% | ~4 |
 | Crashed and Driven | 0.60% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 361 (Ranked 246)  
+Progressed: 362 (Ranked 246)  
 Completed: 2 (0.55%) (Ranked 137)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,6 +113,7 @@ Completed: 2 (0.55%) (Ranked 137)
 | 2023-08-05 | 359 | 2 |
 | 2023-08-06 | 360 | 2 |
 | 2023-08-13 | 361 | 2 |
+| 2023-08-14 | 362 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

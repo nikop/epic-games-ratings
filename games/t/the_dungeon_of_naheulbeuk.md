@@ -1,21 +1,21 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.58 (Ranked 425)  
+Rating: 4.58 (Ranked 426)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 12.00% | ~25,436 |
+| Sowwy! | 12.00% | ~25,438 |
 | Alt+F4 | 0.90% | ~1,908 |
 | Where's that freaking Dwarf? | 0.80% | ~1,696 |
 | Déjà vu | 0.70% | ~1,484 |
 | Sock! SOCK! | 0.70% | ~1,484 |
 | A beer, two curses, three companions | 0.50% | ~1,060 |
+| GG EZ | 0.50% | ~1,060 |
 | Speedrun | 0.50% | ~1,060 |
 | Fireproof Wizardess | 0.50% | ~1,060 |
 | Way of the Wimp | 0.40% | ~848 |
-| GG EZ | 0.40% | ~848 |
 | DM intervention | 0.40% | ~848 |
 | Livin' in a dwarven paradise | 0.30% | ~636 |
 | The plot thickens... At the tavern | 0.30% | ~636 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Sleep schedule mastery | 0.00% | ~0 |
 | Dumb and dumber | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 211,967 (Ranked 56)  
+Progressed: 211,987 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 2 (0.00%) (Ranked 255)
 | 2023-08-11 | 210,534 | 1 |
 | 2023-08-12 | 211,199 | 1 |
 | 2023-08-13 | 211,857 | 2 |
-| 2023-08-14 | 211,967 | 2 |
+| 2023-08-14 | 211,987 | 2 |
 ## Awards
 Max (Character Customization): 163  (Ranked 291)  
 Sum: 183 (Ranked 376)  

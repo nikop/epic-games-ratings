@@ -2,9 +2,9 @@
   "ID": "7ab6dd1c70a64d5ebf48defa8deb81a8",
   "Name": null,
   "Ranking_EOS_Progress": 401,
-  "Ranking_EOS_Completed": 54,
+  "Ranking_EOS_Completed": 55,
   "Ranking_EOS_NewPlayers": 362,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -14,11 +14,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 22,
+  "EOS_Progressed": 23,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.55,
+  "EOS_Completed_Percentage": 4.35,
   "EosHistory": [
     {
       "Time": "2023-06-23T15:02:22.2302993+00:00",
@@ -99,6 +99,11 @@
       "Time": "2023-07-26T20:04:15.8038387+00:00",
       "NumProgressed": 22,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-14T08:05:17.8444033+00:00",
+      "NumProgressed": 23,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -132,9 +137,9 @@
       "ID": "ACH_04",
       "SetID": "efe2lj",
       "Name": "Calm before the Storm",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_05",
@@ -397,12 +402,12 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 22,
+      "Progressed": 23,
       "Completed": 1
     }
   ],
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-08-14T07:05:23.931716+00:00",
-  "LastUpdate_Ratings": "2023-08-14T06:58:06.861249+00:00",
-  "LastUpdate_Achievements": "2023-08-14T07:05:23.9317369+00:00"
+  "LastChanged_Achievements": "2023-08-14T08:05:17.8444028+00:00",
+  "LastUpdate_Ratings": "2023-08-14T07:58:07.542718+00:00",
+  "LastUpdate_Achievements": "2023-08-14T08:05:17.8444314+00:00"
 }

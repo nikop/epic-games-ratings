@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 48,
-  "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
     "PcReleaseDate": "2020-02-19T00:00:00+00:00",
@@ -250,7 +250,7 @@
   "Tags": [],
   "EOS_Progressed": 1378,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 4.79,
   "EosHistory": [
@@ -2140,9 +2140,9 @@
       "ID": "ACH_BloccatoInGhiacciaia",
       "SetID": "7a9m7mj",
       "Name": "Freeze to death",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 100,
-      "UsersEstimate": 772
+      "UsersEstimate": 785
     },
     {
       "ID": "ACH_Cacciavite",
@@ -2228,8 +2228,8 @@
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-08-04T14:01:27.152223+00:00",
-  "LastChanged_Achievements": "2023-08-14T07:03:15.8055403+00:00",
+  "LastChanged_Achievements": "2023-08-14T08:01:02.0536468+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:58:03.1517016+00:00",
-  "LastUpdate_Ratings": "2023-08-14T07:00:39.153419+00:00",
-  "LastUpdate_Achievements": "2023-08-14T07:03:15.8055571+00:00"
+  "LastUpdate_Ratings": "2023-08-14T08:00:45.478297+00:00",
+  "LastUpdate_Achievements": "2023-08-14T08:01:02.053667+00:00"
 }

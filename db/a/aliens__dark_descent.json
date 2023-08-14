@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -3890,9 +3890,9 @@
       "ID": "ACH_MAX_GUNNER",
       "SetID": "816efe",
       "Name": "El Riesgo Siempre Vive",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 693
+      "UsersEstimate": 725
     },
     {
       "ID": "ACH_MAX_MEDIC",
@@ -4107,8 +4107,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-08-12T16:02:17.3263643+00:00",
-  "LastChanged_Achievements": "2023-08-14T07:04:34.6028217+00:00",
+  "LastChanged_Achievements": "2023-08-14T08:04:29.1500446+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:11.0569937+00:00",
-  "LastUpdate_Ratings": "2023-08-14T07:00:09.7391218+00:00",
-  "LastUpdate_Achievements": "2023-08-14T07:04:34.6028673+00:00"
+  "LastUpdate_Ratings": "2023-08-14T08:00:15.513296+00:00",
+  "LastUpdate_Achievements": "2023-08-14T08:04:29.1501029+00:00"
 }

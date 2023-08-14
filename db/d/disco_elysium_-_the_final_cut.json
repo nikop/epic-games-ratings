@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 235,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1247,9 +1247,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 126194,
+  "EOS_Progressed": 126196,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 421,
+  "EOS_NewPlayers": 422,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -12737,6 +12737,11 @@
       "Time": "2023-08-14T07:04:41.679469+00:00",
       "NumProgressed": 126194,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-08-14T08:04:36.3852426+00:00",
+      "NumProgressed": 126196,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 40,
@@ -12828,7 +12833,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 35334
+      "UsersEstimate": 35335
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -12892,7 +12897,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 13881
+      "UsersEstimate": 13882
     },
     {
       "ID": "ACH_CUNO",
@@ -12908,7 +12913,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 11357
+      "UsersEstimate": 11358
     },
     {
       "ID": "ACH_GLUTEN",
@@ -13067,15 +13072,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 126194,
+      "Progressed": 126196,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-08-14T01:41:04.9413992+00:00",
-  "LastChanged_Achievements": "2023-08-14T07:04:41.6794688+00:00",
+  "LastChanged_Achievements": "2023-08-14T08:04:36.385242+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:59.4029348+00:00",
-  "LastUpdate_Ratings": "2023-08-14T07:00:01.6712702+00:00",
-  "LastUpdate_Achievements": "2023-08-14T07:04:41.6795457+00:00"
+  "LastUpdate_Ratings": "2023-08-14T08:00:07.7165665+00:00",
+  "LastUpdate_Achievements": "2023-08-14T08:04:36.3853391+00:00"
 }
