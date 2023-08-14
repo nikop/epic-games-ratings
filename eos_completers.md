@@ -29,7 +29,7 @@
 | 27 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 10.00% |
 | 28 | [Sonic Origins](games/s/sonic_origins.md) | 9.67% |
 | 29 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.30% |
-| 30 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.98% |
+| 30 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.97% |
 | 31 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 8.89% |
 | 32 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.48% |
 | 33 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 7.94% |
@@ -37,7 +37,7 @@
 | 35 | [Ravenlok](games/r/ravenlok.md) | 7.53% |
 | 36 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.37% |
 | 37 | [Scorn](games/s/scorn.md) | 6.92% |
-| 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.87% |
+| 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.86% |
 | 39 | [Time Loader](games/t/time_loader.md) | 6.78% |
 | 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.44% |
 | 41 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
@@ -98,8 +98,8 @@
 | 96 | [Iron Danger](games/i/iron_danger.md) | 1.62% |
 | 97 | [Somerville](games/s/somerville.md) | 1.61% |
 | 98 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.60% |
-| 99 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.58% |
-| 100 | [Five Dates](games/f/five_dates.md) | 1.57% |
+| 99 | [Five Dates](games/f/five_dates.md) | 1.57% |
+| 99 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.57% |
 | 101 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.49% |
 | 102 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.48% |
 | 103 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.46% |
@@ -142,7 +142,7 @@
 | 140 | [Aragami 2](games/a/aragami_2.md) | 0.51% |
 | 140 | [The Surge 2](games/t/the_surge_2.md) | 0.51% |
 | 142 | [Godlike Burger](games/g/godlike_burger.md) | 0.50% |
-| 143 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.49% |
+| 142 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.50% |
 | 144 | [Them and Us](games/t/them_and_us.md) | 0.48% |
 | 145 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
 | 146 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.46% |
@@ -541,4 +541,4 @@
 | 255 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 255 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 255 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,045 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,046 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
