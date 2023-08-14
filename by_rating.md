@@ -371,7 +371,7 @@
 | 364 | [Colt Canyon](games/c/colt_canyon.md) | 4.61 | 0 | 512 |
 | 364 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 382 | 218 |
 | 364 | [Darkwood](games/d/darkwood.md) | 4.61 | 322 | 232 |
-| 364 | [Dead Space](games/d/dead_space.md) | 4.61 | 86 | 355 |
+| 364 | [Dead Space](games/d/dead_space.md) | 4.61 | 87 | 354 |
 | 364 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 42,921 | 12 |
 | 364 | [GigaBash](games/g/gigabash.md) | 4.61 | 0 | 512 |
 | 364 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.61 | 37 | 431 |
@@ -383,11 +383,11 @@
 | 364 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 105 | 330 |
 | 364 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 479 | 199 |
 | 364 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 9,776 | 37 |
-| 364 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,072 | 137 |
+| 364 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,073 | 137 |
 | 364 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 277 | 243 |
 | 364 | [Supraland](games/s/supraland.md) | 4.61 | 7,668 | 45 |
 | 364 | [The Colonists](games/t/the_colonists.md) | 4.61 | 0 | 512 |
-| 364 | [Warframe](games/w/warframe.md) | 4.61 | 16,445 | 22 |
+| 364 | [Warframe](games/w/warframe.md) | 4.61 | 16,457 | 22 |
 | 389 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.60 | 707 | 168 |
 | 389 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 13,176 | 28 |
 | 389 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.60 | 0 | 512 |
@@ -426,7 +426,7 @@
 | 412 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 708 | 167 |
 | 412 | [Wall World](games/w/wall_world.md) | 4.59 | 0 | 512 |
 | 426 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.58 | 0 | 512 |
-| 426 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 59,994 | 11 |
+| 426 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 60,023 | 11 |
 | 426 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 162 | 292 |
 | 426 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 0 | 512 |
 | 426 | [Deceive Inc.](games/d/deceive_inc..md) | 4.58 | 0 | 512 |
@@ -930,7 +930,7 @@
 | 928 | [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 4.00 | 0 | 512 |
 | 929 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 372 | 222 |
 | 929 | [Martha Is Dead](games/m/martha_is_dead.md) | 3.99 | 0 | 512 |
-| 929 | [Shop Titans](games/s/shop_titans.md) | 3.99 | 4,698 | 71 |
+| 929 | [Shop Titans](games/s/shop_titans.md) | 3.99 | 4,700 | 71 |
 | 929 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.99 | 0 | 512 |
 | 933 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 0 | 512 |
 | 933 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 3,082 | 94 |

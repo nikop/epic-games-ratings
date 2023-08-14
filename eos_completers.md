@@ -8,8 +8,8 @@
 | 6 | [Overloop](games/o/overloop.md) | 25.00% |
 | 7 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 23.91% |
-| 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 23.53% |
-| 10 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 23.39% |
+| 9 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 23.39% |
+| 10 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 22.86% |
 | 11 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 11 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 13 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
@@ -22,7 +22,7 @@
 | 20 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 20 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
 | 20 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 11.11% |
-| 23 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.09% |
+| 23 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.08% |
 | 24 | [Remains](games/r/remains.md) | 10.64% |
 | 25 | [Out of Bounds](games/o/out_of_bounds.md) | 10.34% |
 | 26 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.23% |
@@ -56,7 +56,7 @@
 | 54 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.55% |
 | 54 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.55% |
 | 56 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.19% |
-| 57 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.06% |
+| 57 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.05% |
 | 58 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.91% |
 | 59 | [ZZT!](games/z/zzt!.md) | 3.72% |
 | 60 | [Without Escape](games/w/without_escape.md) | 3.70% |
@@ -88,7 +88,7 @@
 | 86 | [FORECLOSED](games/f/foreclosed.md) | 2.17% |
 | 87 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 2.08% |
 | 88 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.03% |
-| 89 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.98% |
+| 89 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.96% |
 | 90 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.92% |
 | 91 | [Night Book](games/n/night_book.md) | 1.89% |
 | 92 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
