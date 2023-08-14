@@ -8,7 +8,7 @@
 | Fair Share | 71.00% | ~328 |
 | Even Tempered | 57.00% | ~263 |
 | Star-Crossed Lovers | 47.00% | ~217 |
-| The Delivery | 44.00% | ~203 |
+| The Delivery | 45.00% | ~208 |
 | Shill Bidder | 43.00% | ~199 |
 | The Frenzy | 32.00% | ~148 |
 | Good Karma | 32.00% | ~148 |

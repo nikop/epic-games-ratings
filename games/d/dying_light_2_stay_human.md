@@ -6,41 +6,41 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 11.00% | ~67,283 |
-| Into the Unknown | 10.00% | ~61,167 |
-| First Shot | 10.00% | ~61,167 |
-| Herzlich Wilkommen! | 9.00% | ~55,050 |
-| Good Night & Good Luck | 9.00% | ~55,050 |
-| Sancho Panza | 8.00% | ~48,933 |
-| Oh, So This Is How It Works! | 8.00% | ~48,933 |
-| Under Pressure | 7.00% | ~42,817 |
-| On the Trail of the Enemy | 7.00% | ~42,817 |
-| Light in the Darkness | 7.00% | ~42,817 |
-| Flag Burning | 7.00% | ~42,817 |
-| Night Hunter | 7.00% | ~42,817 |
-| Get Outta My House! | 6.00% | ~36,700 |
-| It Wasn't That Hard, Was It? | 6.00% | ~36,700 |
-| Being All Social | 6.00% | ~36,700 |
-| Debris and Ashes | 5.00% | ~30,583 |
-| We Will Be Heard! | 5.00% | ~30,583 |
-| Known Associate | 5.00% | ~30,583 |
-| Brush with Death | 5.00% | ~30,583 |
-| Going Down | 5.00% | ~30,583 |
-| Tunnel Entrance | 5.00% | ~30,583 |
-| After the Fall | 5.00% | ~30,583 |
-| Can't Touch This! | 5.00% | ~30,583 |
+| You Never Forget Your First... | 11.00% | ~67,286 |
+| Into the Unknown | 10.00% | ~61,169 |
+| First Shot | 10.00% | ~61,169 |
+| Herzlich Wilkommen! | 9.00% | ~55,052 |
+| Good Night & Good Luck | 9.00% | ~55,052 |
+| Sancho Panza | 8.00% | ~48,935 |
+| Oh, So This Is How It Works! | 8.00% | ~48,935 |
+| Under Pressure | 7.00% | ~42,818 |
+| On the Trail of the Enemy | 7.00% | ~42,818 |
+| Light in the Darkness | 7.00% | ~42,818 |
+| Flag Burning | 7.00% | ~42,818 |
+| Night Hunter | 7.00% | ~42,818 |
+| Get Outta My House! | 6.00% | ~36,701 |
+| It Wasn't That Hard, Was It? | 6.00% | ~36,701 |
+| Being All Social | 6.00% | ~36,701 |
+| Debris and Ashes | 5.00% | ~30,584 |
+| We Will Be Heard! | 5.00% | ~30,584 |
+| Known Associate | 5.00% | ~30,584 |
+| Brush with Death | 5.00% | ~30,584 |
+| Going Down | 5.00% | ~30,584 |
+| Tunnel Entrance | 5.00% | ~30,584 |
+| After the Fall | 5.00% | ~30,584 |
+| Can't Touch This! | 5.00% | ~30,584 |
 | Family First | 4.00% | ~24,467 |
 | Your World, Your Rules | 4.00% | ~24,467 |
 | Death From Afar | 4.00% | ~24,467 |
 | Terminal Headache | 4.00% | ~24,467 |
 | Slowpoke! | 4.00% | ~24,467 |
-| Tickets, Please! | 3.00% | ~18,350 |
-| Combat Master | 3.00% | ~18,350 |
-| You're Going Down! | 3.00% | ~18,350 |
-| Municipal Services | 2.00% | ~12,233 |
-| Ban Hammer | 2.00% | ~12,233 |
-| Parkour Master | 2.00% | ~12,233 |
-| Modder | 2.00% | ~12,233 |
+| Tickets, Please! | 3.00% | ~18,351 |
+| Combat Master | 3.00% | ~18,351 |
+| You're Going Down! | 3.00% | ~18,351 |
+| Municipal Services | 2.00% | ~12,234 |
+| Ban Hammer | 2.00% | ~12,234 |
+| Parkour Master | 2.00% | ~12,234 |
+| Modder | 2.00% | ~12,234 |
 | Tube Map | 1.00% | ~6,117 |
 | Don Quixote | 1.00% | ~6,117 |
 | Can't You Read the Signs? | 1.00% | ~6,117 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~257 |
 | Connoisseur | 0.10% | ~257 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 611,667 (Ranked 27)  
+Progressed: 611,687 (Ranked 27)  
 Completed: 62 (0.01%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,18 +188,18 @@ Completed: 62 (0.01%) (Ranked 242)
 | 2023-08-11 | 610,694 | 62 |
 | 2023-08-12 | 611,100 | 62 |
 | 2023-08-13 | 611,547 | 62 |
-| 2023-08-14 | 611,667 | 62 |
+| 2023-08-14 | 611,687 | 62 |
 ## Awards
-Max (Character Customization): 8,778  (Ranked 39)  
-Sum: 21,065 (Ranked 54)  
+Max (Character Customization): 8,785  (Ranked 39)  
+Sum: 21,073 (Ranked 54)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 8,778 |
+| This game has Inclusive Character Customization | 8,785 |
 | This game has Great Boss Battles | 5,217 |
 | This game is Great for Beginners | 896 |
 | This game is Highly Recommended | 839 |
-| This game has Diverse Characters | 833 |
+| This game has Diverse Characters | 834 |
 | This game has Amazing Characters | 805 |
 | This game is Extremely Fun | 779 |
 | This game has Amazing Storytelling | 777 |
@@ -424,4 +424,4 @@ Diff (max vs sum): -15
 | 2023-08-11 | 4.58 | - | 8,758 | 21,007 |
 | 2023-08-12 | 4.58 | - | 8,770 | 21,039 |
 | 2023-08-13 | 4.58 | - | 8,778 | 21,064 |
-| 2023-08-14 | 4.58 | - | 8,778 | 21,065 |
+| 2023-08-14 | 4.58 | - | 8,785 | 21,073 |

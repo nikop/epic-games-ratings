@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1568,
+  "EOS_Progressed": 1569,
   "EOS_Completed": 108,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 6.89,
+  "EOS_Completed_Percentage": 6.88,
   "EosHistory": [
     {
       "Time": "2023-04-26T15:59:54.0238725+00:00",
@@ -5159,6 +5159,11 @@
       "Time": "2023-08-14T08:00:52.4798257+00:00",
       "NumProgressed": 1568,
       "NumCompleted": 108
+    },
+    {
+      "Time": "2023-08-14T12:03:03.6701718+00:00",
+      "NumProgressed": 1569,
+      "NumCompleted": 108
     }
   ],
   "TotalAchievements": 5,
@@ -5170,7 +5175,7 @@
       "Name": "Welcome to the Jungle",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 1568
+      "UsersEstimate": 1569
     },
     {
       "ID": "2",
@@ -5178,7 +5183,7 @@
       "Name": "Jill the Bold",
       "Percentage": 11,
       "XP": 200,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "3",
@@ -5194,7 +5199,7 @@
       "Name": "Jill the Courageous",
       "Percentage": 8,
       "XP": 200,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "5",
@@ -5209,7 +5214,7 @@
     {
       "ID": "dg4cch5",
       "IsBase": true,
-      "Progressed": 1568,
+      "Progressed": 1569,
       "Completed": 108
     }
   ],
@@ -5217,8 +5222,8 @@
   "FirstSeenRating": "2023-04-27T14:58:11.4280155+00:00",
   "FirstSeenAchievements": "2023-04-26T15:59:54.0239456+00:00",
   "LastChanged": "2023-04-27T14:58:11.4280156+00:00",
-  "LastChanged_Achievements": "2023-08-14T11:02:17.4905854+00:00",
+  "LastChanged_Achievements": "2023-08-14T12:03:03.6701712+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:07.1007882+00:00",
-  "LastUpdate_Ratings": "2023-08-14T10:58:26.4533891+00:00",
-  "LastUpdate_Achievements": "2023-08-14T11:02:17.4906581+00:00"
+  "LastUpdate_Ratings": "2023-08-14T11:58:57.2610168+00:00",
+  "LastUpdate_Achievements": "2023-08-14T12:03:03.6702162+00:00"
 }

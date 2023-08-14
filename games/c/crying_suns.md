@@ -21,7 +21,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Chapter II: Fallible Flesh | 0.30% | ~1,396 |
 | Pope Zenon | 0.30% | ~1,396 |
 | Things persisted in not being what they seemed | 0.30% | ~1,396 |
-| Hand of the Emperor | 0.30% | ~27 |
+| Hand of the Emperor | 0.30% | ~28 |
 | Chapter III: The Man Who Sold the World | 0.20% | ~930 |
 | Chapter IV: Through the Looking Glass | 0.20% | ~930 |
 | Chapter V: Memories of None | 0.20% | ~930 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~9 |
 | Kronos Rule | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 465,229 (Ranked 37)  
+Progressed: 465,233 (Ranked 37)  
 Completed: 17 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 17 (0.00%) (Ranked 255)
 | 2023-08-11 | 465,030 | 17 |
 | 2023-08-12 | 465,118 | 17 |
 | 2023-08-13 | 465,203 | 17 |
-| 2023-08-14 | 465,229 | 17 |
+| 2023-08-14 | 465,233 | 17 |
 ## Awards
 Max (Character Customization): 215  (Ranked 268)  
 Sum: 215 (Ranked 363)  

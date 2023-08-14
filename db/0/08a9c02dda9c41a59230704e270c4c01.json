@@ -4,7 +4,7 @@
   "ProductSlug": "outbreak-lost-hope-broken-faith-77b3f9",
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 360,
+  "Ranking_EOS_NewPlayers": 359,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-10-11T14:00:00+00:00",
@@ -135,8 +135,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-09T15:02:36.7106798+00:00",
-  "LastChanged_Achievements": "2023-08-14T11:03:06.6721117+00:00",
+  "LastChanged_Achievements": "2023-08-14T12:03:15.0732131+00:00",
   "LastUpdate_AppInfo": "2023-08-09T14:57:03.8010865+00:00",
-  "LastUpdate_Ratings": "2023-08-14T10:57:35.3098687+00:00",
-  "LastUpdate_Achievements": "2023-08-14T11:03:06.6721213+00:00"
+  "LastUpdate_Ratings": "2023-08-14T11:57:46.0548147+00:00",
+  "LastUpdate_Achievements": "2023-08-14T12:03:15.0732206+00:00"
 }

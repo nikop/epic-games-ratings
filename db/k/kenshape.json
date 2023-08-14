@@ -4,7 +4,7 @@
   "ProductSlug": "kenshape",
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 360,
+  "Ranking_EOS_NewPlayers": 359,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": null,
@@ -38,6 +38,6 @@
   "FirstSeenRating": "2023-03-31T05:58:11.9017016+00:00",
   "LastChanged": "2023-03-31T05:58:11.9017017+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:58:02.6546562+00:00",
-  "LastUpdate_Ratings": "2023-08-14T10:57:20.3581984+00:00",
-  "LastUpdate_Achievements": "2023-08-14T11:04:39.3623632+00:00"
+  "LastUpdate_Ratings": "2023-08-14T11:57:27.3424663+00:00",
+  "LastUpdate_Achievements": "2023-08-14T12:05:35.8201006+00:00"
 }

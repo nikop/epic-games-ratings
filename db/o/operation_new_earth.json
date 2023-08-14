@@ -4,7 +4,7 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewPlayers": 120,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 893,
+  "EOS_Progressed": 895,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3166,6 +3166,11 @@
       "Time": "2023-08-14T07:00:41.1777788+00:00",
       "NumProgressed": 893,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-14T12:02:29.656363+00:00",
+      "NumProgressed": 895,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -3193,7 +3198,7 @@
       "Name": "Fighting for Survival",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ach_defeat_players_100",
@@ -3241,7 +3246,7 @@
       "Name": "Silver Competitor",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ach_silver_rewards_50",
@@ -3255,9 +3260,9 @@
       "ID": "objective_headquarters_10",
       "SetID": "bm61c2p",
       "Name": "Keeping Busy",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 89
+      "UsersEstimate": 81
     },
     {
       "ID": "objective_headquarters_15",
@@ -3279,9 +3284,9 @@
       "ID": "objective_headquarters_5",
       "SetID": "bm61c2p",
       "Name": "Facility Online",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 232
+      "UsersEstimate": 224
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -3417,7 +3422,7 @@
       "Name": "Infantry Reporting",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -3431,9 +3436,9 @@
       "ID": "objective_multiple_turrets_2",
       "SetID": "bm61c2p",
       "Name": "Defenses Online",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 268
+      "UsersEstimate": 260
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -3480,14 +3485,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 893,
+      "Progressed": 895,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-14T11:02:14.400716+00:00",
+  "LastChanged_Achievements": "2023-08-14T12:02:29.6563626+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:27.4280109+00:00",
-  "LastUpdate_Ratings": "2023-08-14T10:57:49.1416217+00:00",
-  "LastUpdate_Achievements": "2023-08-14T11:02:14.4007736+00:00"
+  "LastUpdate_Ratings": "2023-08-14T11:58:05.6620821+00:00",
+  "LastUpdate_Achievements": "2023-08-14T12:02:29.6564037+00:00"
 }

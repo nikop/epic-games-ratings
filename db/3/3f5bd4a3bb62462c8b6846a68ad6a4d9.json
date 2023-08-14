@@ -4,7 +4,7 @@
   "ProductSlug": "cosmik-battle-f6dbf4",
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 360,
+  "Ranking_EOS_NewPlayers": 359,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-07T18:57:03.4223536+00:00",
-  "LastUpdate_Ratings": "2023-08-14T10:57:37.9995888+00:00",
-  "LastUpdate_Achievements": "2023-08-14T11:03:12.5059222+00:00"
+  "LastUpdate_Ratings": "2023-08-14T11:57:50.0241035+00:00",
+  "LastUpdate_Achievements": "2023-08-14T12:03:22.8613698+00:00"
 }
