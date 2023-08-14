@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -240,9 +240,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 826,
+  "EOS_Progressed": 827,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1745,6 +1745,11 @@
       "Time": "2023-08-14T14:07:18.153284+00:00",
       "NumProgressed": 826,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-14T16:07:36.3186945+00:00",
+      "NumProgressed": 827,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -1756,7 +1761,7 @@
       "Name": "Cabin boy",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 669
+      "UsersEstimate": 670
     },
     {
       "ID": "ACH001",
@@ -1772,7 +1777,7 @@
       "Name": "Conquistador",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ACH003",
@@ -1876,7 +1881,7 @@
       "Name": "Groundskeeper",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "ACH016",
@@ -1892,7 +1897,7 @@
       "Name": "Pearly gates",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "ACH018",
@@ -1956,7 +1961,7 @@
       "Name": "My precious!",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "ACH026",
@@ -2044,7 +2049,7 @@
       "Name": "Every beginning is difficult",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "ACH037",
@@ -2058,9 +2063,9 @@
       "ID": "ACH038",
       "SetID": "69nfp41",
       "Name": "O Captain! My Captain!",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 446
+      "UsersEstimate": 438
     },
     {
       "ID": "ACH039",
@@ -2108,7 +2113,7 @@
       "Name": "Greed for gold",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "ACH045",
@@ -2140,7 +2145,7 @@
       "Name": "Megalomania",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "ACH049",
@@ -2155,15 +2160,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 826,
+      "Progressed": 827,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-07-02T02:29:11.8786643+00:00",
-  "LastChanged_Achievements": "2023-08-14T15:05:37.4247534+00:00",
+  "LastChanged_Achievements": "2023-08-14T16:07:36.318694+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:10.480025+00:00",
-  "LastUpdate_Ratings": "2023-08-14T14:59:15.7866779+00:00",
-  "LastUpdate_Achievements": "2023-08-14T15:05:37.4248116+00:00"
+  "LastUpdate_Ratings": "2023-08-14T16:00:42.1452129+00:00",
+  "LastUpdate_Achievements": "2023-08-14T16:07:36.31875+00:00"
 }

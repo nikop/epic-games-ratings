@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5258,
+  "EOS_Progressed": 5259,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8376,6 +8376,11 @@
       "Time": "2023-08-14T15:03:23.1463091+00:00",
       "NumProgressed": 5258,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-14T16:04:26.7858457+00:00",
+      "NumProgressed": 5259,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -8451,7 +8456,7 @@
       "Name": "Cactus Vally",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 1209
+      "UsersEstimate": 1210
     },
     {
       "ID": "4",
@@ -8483,7 +8488,7 @@
       "Name": "Blue Rapids",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "8",
@@ -8506,7 +8511,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 5258,
+      "Progressed": 5259,
       "Completed": 0
     }
   ],
@@ -8514,8 +8519,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-08-14T15:03:23.1463083+00:00",
+  "LastChanged_Achievements": "2023-08-14T16:04:26.7858451+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:39.5407614+00:00",
-  "LastUpdate_Ratings": "2023-08-14T14:58:52.8786224+00:00",
-  "LastUpdate_Achievements": "2023-08-14T15:03:23.1463562+00:00"
+  "LastUpdate_Ratings": "2023-08-14T16:00:06.3329808+00:00",
+  "LastUpdate_Achievements": "2023-08-14T16:04:26.7859534+00:00"
 }

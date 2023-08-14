@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1935,7 +1935,7 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 43260,
+  "EOS_Progressed": 43261,
   "EOS_Completed": 25,
   "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
@@ -5920,6 +5920,11 @@
       "Time": "2023-08-14T12:06:58.0558343+00:00",
       "NumProgressed": 43260,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-08-14T16:07:14.4137694+00:00",
+      "NumProgressed": 43261,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -6027,7 +6032,7 @@
       "Name": "I\u0027m going deeper underground",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 6056
+      "UsersEstimate": 6057
     },
     {
       "ID": "SE_COMPLETE_GENOA",
@@ -6035,7 +6040,7 @@
       "Name": "In the dark dark woods...",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 16871
+      "UsersEstimate": 16872
     },
     {
       "ID": "SE_COMPLETE_GRAVEYARD_SHIFT",
@@ -6051,7 +6056,7 @@
       "Name": "You\u0027re all going to die down here",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 13843
+      "UsersEstimate": 13844
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_CAGED_FEAR",
@@ -6123,7 +6128,7 @@
       "Name": "Choo choo!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 26821
+      "UsersEstimate": 26822
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -6139,7 +6144,7 @@
       "Name": "All roads lead to Rome",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 14708
+      "UsersEstimate": 14709
     },
     {
       "ID": "SE_COMPLETE_SARDINIA",
@@ -6147,7 +6152,7 @@
       "Name": "Weird science",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 19034
+      "UsersEstimate": 19035
     },
     {
       "ID": "SE_COMPLETE_ST_PETERS",
@@ -6155,7 +6160,7 @@
       "Name": "He did Nazi that coming",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 13843
+      "UsersEstimate": 13844
     },
     {
       "ID": "SE_COMPLETE_TERMINAL_ERROR",
@@ -6179,7 +6184,7 @@
       "Name": "The boat can leave now...tell the crew",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 21197
+      "UsersEstimate": 21198
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -6219,7 +6224,7 @@
       "Name": "Double tap",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 16006
+      "UsersEstimate": 16007
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_HEALING",
@@ -6227,7 +6232,7 @@
       "Name": "What did you say, Blain?",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 18169
+      "UsersEstimate": 18170
     },
     {
       "ID": "SE_GET_GOLD_MEDAL_ON_ANY_CHAPTER",
@@ -6259,7 +6264,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 29849
+      "UsersEstimate": 29850
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -6291,7 +6296,7 @@
       "Name": "Cleanup on aisle 4!",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 24658
+      "UsersEstimate": 24659
     },
     {
       "ID": "SE_KILL_X_ENEMIES_WITH_PREACHER",
@@ -6299,7 +6304,7 @@
       "Name": "Stand back boy!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 20332
+      "UsersEstimate": 20333
     },
     {
       "ID": "SE_KILL_X_ZOMBIES",
@@ -6323,7 +6328,7 @@
       "Name": "Chain reaction",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 19034
+      "UsersEstimate": 19035
     },
     {
       "ID": "SE_KILL_ZOMBIE_USING_SPECIAL_MELEE",
@@ -6371,7 +6376,7 @@
       "Name": "You\u0027ve got red on you",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 14708
+      "UsersEstimate": 14709
     },
     {
       "ID": "SE_REACH_RANK_100",
@@ -6387,7 +6392,7 @@
       "Name": "Blood splattered",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 28119
+      "UsersEstimate": 28120
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -6395,7 +6400,7 @@
       "Name": "Gore soaked",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 10382
+      "UsersEstimate": 10383
     },
     {
       "ID": "SE_REACH_WAVE_X",
@@ -6458,15 +6463,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 43260,
+      "Progressed": 43261,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-08-14T08:57:36.4676505+00:00",
-  "LastChanged_Achievements": "2023-08-14T15:05:21.7754729+00:00",
+  "LastChanged_Achievements": "2023-08-14T16:07:14.4137687+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:09.4758058+00:00",
-  "LastUpdate_Ratings": "2023-08-14T14:57:13.5514709+00:00",
-  "LastUpdate_Achievements": "2023-08-14T15:05:21.7755395+00:00"
+  "LastUpdate_Ratings": "2023-08-14T15:57:39.9973568+00:00",
+  "LastUpdate_Achievements": "2023-08-14T16:07:14.4138603+00:00"
 }

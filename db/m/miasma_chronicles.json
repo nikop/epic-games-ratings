@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -190,9 +190,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1364,
+  "EOS_Progressed": 1365,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2815,6 +2815,11 @@
       "Time": "2023-08-14T12:06:39.8522171+00:00",
       "NumProgressed": 1364,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-14T16:06:54.6625234+00:00",
+      "NumProgressed": 1365,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -2842,7 +2847,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 1023
+      "UsersEstimate": 1024
     },
     {
       "ID": "ATTENBOROUGH",
@@ -2872,9 +2877,9 @@
       "ID": "CHAIN_KILLER",
       "SetID": "9a4jnji",
       "Name": "Chain Killer",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 314
+      "UsersEstimate": 300
     },
     {
       "ID": "CHAIN_REACTION",
@@ -2954,7 +2959,7 @@
       "Name": "Dressed To Kill",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "DR_JONES",
@@ -2970,7 +2975,7 @@
       "Name": "Editor Adept",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "ENDGAME",
@@ -2986,7 +2991,7 @@
       "Name": "Exorcist",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     },
     {
       "ID": "EXPERIENCED",
@@ -3010,7 +3015,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 1255
+      "UsersEstimate": 1256
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -3034,7 +3039,7 @@
       "Name": "From Darkness to Light",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     },
     {
       "ID": "GIANT_KILLER",
@@ -3074,7 +3079,7 @@
       "Name": "I am the law!",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 859
+      "UsersEstimate": 860
     },
     {
       "ID": "INFILTRATOR",
@@ -3114,7 +3119,7 @@
       "Name": "Pushing Daisy",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "QA_HAS_SUFFERED",
@@ -3130,7 +3135,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 1064
+      "UsersEstimate": 1065
     },
     {
       "ID": "RECYCLER",
@@ -3210,7 +3215,7 @@
       "Name": "The meaning of Kain",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "THE_WATCHERS",
@@ -3218,7 +3223,7 @@
       "Name": "The Watchers",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "WIPE_OUT",
@@ -3226,14 +3231,14 @@
       "Name": "Wipe Out",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     }
   ],
   "AchievementSets": [
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1364,
+      "Progressed": 1365,
       "Completed": 0
     }
   ],
@@ -3241,8 +3246,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-08-14T09:59:51.5997828+00:00",
-  "LastChanged_Achievements": "2023-08-14T15:05:07.6898497+00:00",
+  "LastChanged_Achievements": "2023-08-14T16:06:54.6625227+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:56.2809501+00:00",
-  "LastUpdate_Ratings": "2023-08-14T14:59:05.6471256+00:00",
-  "LastUpdate_Achievements": "2023-08-14T15:05:07.6898971+00:00"
+  "LastUpdate_Ratings": "2023-08-14T16:00:27.9071631+00:00",
+  "LastUpdate_Achievements": "2023-08-14T16:06:54.6626124+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "return-to-abyss-226301",
   "Ranking_EOS_Progress": 323,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 255,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
     "PcReleaseDate": "2023-01-06T16:00:00+00:00",
@@ -667,9 +667,9 @@
       "ID": "Epic_NinjaSword_1",
       "SetID": "ba1m2fc",
       "Name": "Knife Out",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "Epic_Parasitic_1",
@@ -771,9 +771,9 @@
       "ID": "Epic_Swamp_1",
       "SetID": "ba1m2fc",
       "Name": "Fallen Eden",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "Epic_Times_100",
@@ -826,8 +826,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-08-14T15:06:02.1252178+00:00",
+  "LastChanged_Achievements": "2023-08-14T16:08:11.2990195+00:00",
   "LastUpdate_AppInfo": "2023-08-10T07:57:01.347229+00:00",
-  "LastUpdate_Ratings": "2023-08-14T14:58:02.0126948+00:00",
-  "LastUpdate_Achievements": "2023-08-14T15:06:02.1252642+00:00"
+  "LastUpdate_Ratings": "2023-08-14T15:58:47.3599611+00:00",
+  "LastUpdate_Achievements": "2023-08-14T16:08:11.2990674+00:00"
 }

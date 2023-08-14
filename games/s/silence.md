@@ -4,40 +4,40 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fire in the... nevermind | 50.00% | ~53 |
+| Fire in the... nevermind | 50.00% | ~54 |
 | Chapter I | 49.00% | ~52 |
 | Haute cuisine | 44.00% | ~47 |
-| I didn't do it! | 40.00% | ~42 |
-| Demolition expert | 36.00% | ~38 |
+| I didn't do it! | 39.00% | ~42 |
+| Demolition expert | 36.00% | ~39 |
 | Wooooooow! | 35.00% | ~37 |
 | Keep away from children | 34.00% | ~36 |
 | Artistic fool | 33.00% | ~35 |
-| Open up wide | 31.00% | ~33 |
+| Open up wide | 32.00% | ~34 |
 | Chapter II | 29.00% | ~31 |
 | Let the boot talk | 28.00% | ~30 |
 | Achoo!! | 28.00% | ~30 |
 | Chapter III | 27.00% | ~29 |
 | Like a moth in the Wind | 27.00% | ~29 |
-| Bubblekillerfamily | 24.00% | ~25 |
-| Mirror mirror on the wall... | 24.00% | ~25 |
-| Quite a buggy game | 23.00% | ~24 |
-| Shadow on the wall | 22.00% | ~23 |
-| Handyman | 22.00% | ~23 |
-| Fastidious Clown | 22.00% | ~23 |
+| Bubblekillerfamily | 23.00% | ~25 |
+| Mirror mirror on the wall... | 23.00% | ~25 |
+| Quite a buggy game | 22.00% | ~24 |
+| Shadow on the wall | 21.00% | ~22 |
+| Handyman | 21.00% | ~22 |
+| Fastidious Clown | 21.00% | ~22 |
 | It's not easy being green! | 21.00% | ~22 |
+| Pacifist | 20.00% | ~21 |
 | Home is where the heart is | 20.00% | ~21 |
-| Pacifist | 19.00% | ~20 |
 | Master of Thermodynamics | 16.00% | ~17 |
 | Death is a part of life | 16.00% | ~17 |
 | Unfullfilled dreams | 14.00% | ~15 |
 | To err is human... | 11.00% | ~12 |
 | Nothing can stop me | 11.00% | ~12 |
 | Mumbo Jumbo | 11.00% | ~12 |
-| Useless but beautiful | 8.00% | ~8 |
-| Lollipop | 8.00% | ~8 |
-| Where there is life, there is hope | 8.00% | ~8 |
-| It's nothing personal | 8.00% | ~8 |
+| Useless but beautiful | 8.00% | ~9 |
+| Lollipop | 8.00% | ~9 |
+| It's nothing personal | 8.00% | ~9 |
 | Artistic master | 7.00% | ~7 |
+| Where there is life, there is hope | 7.00% | ~7 |
 | Sadist | 6.00% | ~6 |
 | Fartjokes! | 6.00% | ~6 |
 | The hands of a healer | 6.00% | ~6 |
@@ -51,7 +51,7 @@
 | Done. First! | 0.90% | ~1 |
 | Do not feed the fish! | 0.90% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 106 (Ranked 318)  
+Progressed: 107 (Ranked 318)  
 Completed: 0 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,7 +69,7 @@ Completed: 0 (0.00%) (Ranked 255)
 | 2023-08-11 | 100 | 0 |
 | 2023-08-12 | 102 | 0 |
 | 2023-08-13 | 104 | 0 |
-| 2023-08-14 | 106 | 0 |
+| 2023-08-14 | 107 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

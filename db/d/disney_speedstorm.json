@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 47,
   "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 22,
+  "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -4337,9 +4337,9 @@
       "ID": "2",
       "SetID": "9p3jgda",
       "Name": "ACE SPEEDSTER",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 714
+      "UsersEstimate": 745
     },
     {
       "ID": "20",
@@ -4447,8 +4447,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-08-14T15:06:19.9021654+00:00",
+  "LastChanged_Achievements": "2023-08-14T16:08:36.3585573+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:44.0676288+00:00",
-  "LastUpdate_Ratings": "2023-08-14T14:59:45.5690848+00:00",
-  "LastUpdate_Achievements": "2023-08-14T15:06:19.9021984+00:00"
+  "LastUpdate_Ratings": "2023-08-14T16:01:22.3948917+00:00",
+  "LastUpdate_Achievements": "2023-08-14T16:08:36.3586367+00:00"
 }

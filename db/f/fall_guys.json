@@ -9775,10 +9775,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 1350148,
       "NumberOfAwardsMax": 146171
+    },
+    {
+      "Time": "2023-08-14T16:01:32.4796112+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 1350193,
+      "NumberOfAwardsMax": 146171
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1350148,
+  "NumberOfAwards": 1350193,
   "NumberOfAwardsMax": 146171,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9816,7 +9822,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 125859
+      "Count": 125904
     },
     {
       "Text": "This game is Extremely Fun",
@@ -9849,10 +9855,10 @@
       "Count": 101531
     }
   ],
-  "EOS_Progressed": 34792635,
-  "EOS_Completed": 39630,
-  "EOS_NewPlayers": 141727,
-  "EOS_NewCompleters": 567,
+  "EOS_Progressed": 34793628,
+  "EOS_Completed": 39633,
+  "EOS_NewPlayers": 141699,
+  "EOS_NewCompleters": 566,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
     {
@@ -22679,6 +22685,11 @@
       "Time": "2023-08-14T15:03:40.6526827+00:00",
       "NumProgressed": 34792635,
       "NumCompleted": 39630
+    },
+    {
+      "Time": "2023-08-14T16:04:51.5688741+00:00",
+      "NumProgressed": 34793628,
+      "NumCompleted": 39633
     }
   ],
   "TotalAchievements": 34,
@@ -22690,7 +22701,7 @@
       "Name": "Low Baller",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 347926
+      "UsersEstimate": 347936
     },
     {
       "ID": "ACH_BARGAIN_BUCKET",
@@ -22698,7 +22709,7 @@
       "Name": "Bargain Bucket",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 1391705
+      "UsersEstimate": 1391745
     },
     {
       "ID": "ACH_BIG_AIR",
@@ -22706,15 +22717,15 @@
       "Name": "Big Air",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 695853
+      "UsersEstimate": 695873
     },
     {
       "ID": "ACH_BIG_BULLY",
       "SetID": "59meapj",
       "Name": "Big Bully",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2435484
+      "UsersEstimate": 2783490
     },
     {
       "ID": "ACH_BIG_TEASE",
@@ -22722,7 +22733,7 @@
       "Name": "Big Tease",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 104378
+      "UsersEstimate": 104381
     },
     {
       "ID": "ACH_CATWALK_MODEL",
@@ -22730,7 +22741,7 @@
       "Name": "Catwalk Model",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 695853
+      "UsersEstimate": 695873
     },
     {
       "ID": "ACH_DOWN_TO_THE_WIRE",
@@ -22738,7 +22749,7 @@
       "Name": "Down to the Wire",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 695853
+      "UsersEstimate": 695873
     },
     {
       "ID": "ACH_FALL_10_QUALIFY_RACE",
@@ -22746,7 +22757,7 @@
       "Name": "Face First",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 2435484
+      "UsersEstimate": 2435554
     },
     {
       "ID": "ACH_FALL_THROTTLE",
@@ -22754,7 +22765,7 @@
       "Name": "Fall Throttle",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 3131337
+      "UsersEstimate": 3131427
     },
     {
       "ID": "ACH_FAME_TIER_1",
@@ -22762,7 +22773,7 @@
       "Name": "One to Watch",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 2435484
+      "UsersEstimate": 2435554
     },
     {
       "ID": "ACH_FAME_TIER_2",
@@ -22770,7 +22781,7 @@
       "Name": "Household Name",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1043779
+      "UsersEstimate": 1043809
     },
     {
       "ID": "ACH_FAME_TIER_3",
@@ -22778,7 +22789,7 @@
       "Name": "Star of the Show",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 695853
+      "UsersEstimate": 695873
     },
     {
       "ID": "ACH_FASHIONISTA",
@@ -22786,7 +22797,7 @@
       "Name": "Fall Guy Fashionista",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 104378
+      "UsersEstimate": 104381
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -22794,7 +22805,7 @@
       "Name": "Flawless Victory",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 2087558
+      "UsersEstimate": 2087618
     },
     {
       "ID": "ACH_GRAB_PLAYER",
@@ -22802,7 +22813,7 @@
       "Name": "Fall Bae",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 2087558
+      "UsersEstimate": 2087618
     },
     {
       "ID": "ACH_HEAD_TURNER",
@@ -22810,7 +22821,7 @@
       "Name": "Head Turner",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 695853
+      "UsersEstimate": 695873
     },
     {
       "ID": "ACH_INFALLIBLE",
@@ -22818,7 +22829,7 @@
       "Name": "Infallible",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 69585
+      "UsersEstimate": 69587
     },
     {
       "ID": "ACH_MAD_TRENDY",
@@ -22826,7 +22837,7 @@
       "Name": "Mad Trendy",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 347926
+      "UsersEstimate": 347936
     },
     {
       "ID": "ACH_QUALIFY_1_ROUND",
@@ -22834,7 +22845,7 @@
       "Name": "One small trip",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 3827190
+      "UsersEstimate": 3827299
     },
     {
       "ID": "ACH_QUALIFY_ROUND_TIER_2",
@@ -22842,7 +22853,7 @@
       "Name": "One giant leap",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1043779
+      "UsersEstimate": 1043809
     },
     {
       "ID": "ACH_QUALIFY_ROUND_TIER_3",
@@ -22850,7 +22861,7 @@
       "Name": "Veteran Status",
       "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 243548
+      "UsersEstimate": 243555
     },
     {
       "ID": "ACH_RACING_TIER_1",
@@ -22858,7 +22869,7 @@
       "Name": "Ahead of the Pack",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 2087558
+      "UsersEstimate": 2087618
     },
     {
       "ID": "ACH_RACING_TIER_2",
@@ -22866,7 +22877,7 @@
       "Name": "Quite Dashing",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 695853
+      "UsersEstimate": 695873
     },
     {
       "ID": "ACH_RACING_TIER_3",
@@ -22874,7 +22885,7 @@
       "Name": "Track Star",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 173963
+      "UsersEstimate": 173968
     },
     {
       "ID": "ACH_SHOPPING_SPREE",
@@ -22882,7 +22893,7 @@
       "Name": "Shopping Spree",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 347926
+      "UsersEstimate": 347936
     },
     {
       "ID": "ACH_SHOW_OFF",
@@ -22890,7 +22901,7 @@
       "Name": "Show Off",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 243548
+      "UsersEstimate": 243555
     },
     {
       "ID": "ACH_SNOWFLAKE",
@@ -22898,7 +22909,7 @@
       "Name": "Snowflake",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 3479264
+      "UsersEstimate": 3479363
     },
     {
       "ID": "ACH_SQUAD_GOALS",
@@ -22906,7 +22917,7 @@
       "Name": "Squad Goals",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 695853
+      "UsersEstimate": 695873
     },
     {
       "ID": "ACH_STUMBLE_CHUMS",
@@ -22914,7 +22925,7 @@
       "Name": "Stumble Chums",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 2087558
+      "UsersEstimate": 2087618
     },
     {
       "ID": "ACH_STYLE_POINTS",
@@ -22922,7 +22933,7 @@
       "Name": "Style Points",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 2435484
+      "UsersEstimate": 2435554
     },
     {
       "ID": "ACH_TROUBLEMAKER",
@@ -22930,7 +22941,7 @@
       "Name": "Troublemaker",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 2435484
+      "UsersEstimate": 2435554
     },
     {
       "ID": "ACH_WIN_1_EPISODE",
@@ -22938,7 +22949,7 @@
       "Name": "Victory!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1739632
+      "UsersEstimate": 1739681
     },
     {
       "ID": "ACH_WIN_EPISODES_TIER_2",
@@ -22946,7 +22957,7 @@
       "Name": "Top Tier",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 347926
+      "UsersEstimate": 347936
     },
     {
       "ID": "ACH_WIN_EPISODES_TIER_3",
@@ -22954,22 +22965,22 @@
       "Name": "Golden Guy",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 173963
+      "UsersEstimate": 173968
     }
   ],
   "AchievementSets": [
     {
       "ID": "59meapj",
       "IsBase": true,
-      "Progressed": 34792635,
-      "Completed": 39630
+      "Progressed": 34793628,
+      "Completed": 39633
     }
   ],
   "FirstSeen": "2022-07-22T20:18:16.49776+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.7143696+00:00",
-  "LastChanged": "2023-08-14T14:59:52.6489003+00:00",
-  "LastChanged_Achievements": "2023-08-14T15:03:40.6526823+00:00",
+  "LastChanged": "2023-08-14T16:01:32.479611+00:00",
+  "LastChanged_Achievements": "2023-08-14T16:04:51.5688736+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:54.3294667+00:00",
-  "LastUpdate_Ratings": "2023-08-14T14:59:52.6489011+00:00",
-  "LastUpdate_Achievements": "2023-08-14T15:03:40.6527622+00:00"
+  "LastUpdate_Ratings": "2023-08-14T16:01:32.4796118+00:00",
+  "LastUpdate_Achievements": "2023-08-14T16:04:51.5689815+00:00"
 }

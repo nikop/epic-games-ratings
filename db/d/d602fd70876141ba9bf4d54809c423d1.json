@@ -2,10 +2,10 @@
   "ID": "d602fd70876141ba9bf4d54809c423d1",
   "Name": "The Evil Within",
   "ProductSlug": "the-evil-within",
-  "Ranking_EOS_Progress": 362,
+  "Ranking_EOS_Progress": 359,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
     "PcReleaseDate": "2014-07-13T00:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 51,
+  "EOS_Progressed": 52,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -279,6 +279,11 @@
       "Time": "2023-08-14T10:04:34.950545+00:00",
       "NumProgressed": 51,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-14T16:05:18.9754956+00:00",
+      "NumProgressed": 52,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T16:01:32.1694174+00:00",
@@ -297,7 +302,7 @@
       "ID": "ACHIEVEMENT_02",
       "SetID": "ap8553i",
       "Name": "Old Flame",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
       "UsersEstimate": 10
     },
@@ -305,7 +310,7 @@
       "ID": "ACHIEVEMENT_03",
       "SetID": "ap8553i",
       "Name": "Weapon of Choice",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
       "UsersEstimate": 8
     },
@@ -553,7 +558,7 @@
       "ID": "ACHIEVEMENT_34",
       "SetID": "ap8553i",
       "Name": "Home is Where the Hospice is",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
       "UsersEstimate": 9
     },
@@ -858,20 +863,20 @@
     {
       "ID": "8ddjaeg",
       "IsBase": false,
-      "Progressed": 51,
+      "Progressed": 52,
       "Completed": 0
     },
     {
       "ID": "ap8553i",
       "IsBase": true,
-      "Progressed": 51,
+      "Progressed": 52,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-04T21:57:01.9865679+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5206267+00:00",
-  "LastChanged_Achievements": "2023-08-14T15:03:59.6966625+00:00",
+  "LastChanged_Achievements": "2023-08-14T16:05:18.9754949+00:00",
   "LastUpdate_AppInfo": "2023-08-09T15:57:03.7516548+00:00",
-  "LastUpdate_Ratings": "2023-08-14T14:57:32.2075448+00:00",
-  "LastUpdate_Achievements": "2023-08-14T15:03:59.696722+00:00"
+  "LastUpdate_Ratings": "2023-08-14T15:58:03.0157826+00:00",
+  "LastUpdate_Achievements": "2023-08-14T16:05:18.9756016+00:00"
 }

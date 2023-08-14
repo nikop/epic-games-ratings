@@ -5,7 +5,7 @@ Rating: 4.25 (Ranked 820)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of Shape | 4.00% | ~2,620 |
+| Out of Shape | 4.00% | ~2,621 |
 | Bonfire Lit | 3.00% | ~1,965 |
 | Survival Expert | 3.00% | ~1,965 |
 | Denial | 2.00% | ~1,310 |
@@ -26,7 +26,7 @@ Rating: 4.25 (Ranked 820)
 | Paparazzi | 0.30% | ~197 |
 | Ear Ringing | 0.10% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,509 (Ranked 83)  
+Progressed: 65,514 (Ranked 83)  
 Completed: 13 (0.02%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 13 (0.02%) (Ranked 235)
 | 2023-08-11 | 65,417 | 13 |
 | 2023-08-12 | 65,453 | 13 |
 | 2023-08-13 | 65,497 | 13 |
-| 2023-08-14 | 65,509 | 13 |
+| 2023-08-14 | 65,514 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

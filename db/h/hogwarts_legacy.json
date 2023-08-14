@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 187,
   "Ranking_EOS_NewPlayers": 77,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -6276,10 +6276,10 @@
       "Count": 591
     }
   ],
-  "EOS_Progressed": 290073,
+  "EOS_Progressed": 290078,
   "EOS_Completed": 451,
   "EOS_NewPlayers": 488,
-  "EOS_NewCompleters": 9,
+  "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
     {
@@ -18786,6 +18786,11 @@
       "Time": "2023-08-14T15:05:29.2120257+00:00",
       "NumProgressed": 290073,
       "NumCompleted": 451
+    },
+    {
+      "Time": "2023-08-14T16:07:24.8832349+00:00",
+      "NumProgressed": 290078,
+      "NumCompleted": 451
     }
   ],
   "TotalAchievements": 45,
@@ -18893,7 +18898,7 @@
       "Name": "The Good Samaritan",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 5801
+      "UsersEstimate": 5802
     },
     {
       "ID": "PFA_21",
@@ -18917,7 +18922,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 29007
+      "UsersEstimate": 29008
     },
     {
       "ID": "PFA_24",
@@ -18957,7 +18962,7 @@
       "Name": "Put Down Roots",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 5801
+      "UsersEstimate": 5802
     },
     {
       "ID": "PFA_29",
@@ -18973,7 +18978,7 @@
       "Name": "The Auror\u0027s Apprentice",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5801
+      "UsersEstimate": 5802
     },
     {
       "ID": "PFA_30",
@@ -19029,7 +19034,7 @@
       "Name": "Rise to the Challenges",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 5801
+      "UsersEstimate": 5802
     },
     {
       "ID": "PFA_37",
@@ -19125,7 +19130,7 @@
       "Name": "First Class Student",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 31908
+      "UsersEstimate": 31909
     },
     {
       "ID": "PFA_7",
@@ -19133,7 +19138,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 31908
+      "UsersEstimate": 31909
     },
     {
       "ID": "PFA_8",
@@ -19141,7 +19146,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 29007
+      "UsersEstimate": 29008
     },
     {
       "ID": "PFA_9",
@@ -19156,7 +19161,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 290073,
+      "Progressed": 290078,
       "Completed": 451
     }
   ],
@@ -19164,8 +19169,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-08-14T14:58:24.1259524+00:00",
-  "LastChanged_Achievements": "2023-08-14T15:05:29.2120251+00:00",
+  "LastChanged_Achievements": "2023-08-14T16:07:24.8832342+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:17.4814985+00:00",
-  "LastUpdate_Ratings": "2023-08-14T14:58:24.1259529+00:00",
-  "LastUpdate_Achievements": "2023-08-14T15:05:29.2121151+00:00"
+  "LastUpdate_Ratings": "2023-08-14T15:59:23.1821+00:00",
+  "LastUpdate_Achievements": "2023-08-14T16:07:24.8834682+00:00"
 }

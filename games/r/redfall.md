@@ -59,7 +59,7 @@ Rating: 3.50 (Ranked 966)
 | Ask Not For Whom The Horns Blow | 0.90% | ~16 |
 | Good Samaritan | 0.90% | ~16 |
 | Someplace to Be | 0.60% | ~10 |
-| Bob’s Final Hour | 0.50% | ~9 |
+| Bob’s Final Hour | 0.60% | ~10 |
 | A Cry in the Dark | 0.40% | ~7 |
 | Rum Runner | 0.20% | ~3 |
 | Eagle Eyes | 0.20% | ~3 |

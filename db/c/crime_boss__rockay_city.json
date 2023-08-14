@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 204,
   "Ranking_EOS_Progress": 77,
   "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewPlayers": 89,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -2932,11 +2932,17 @@
       "Rating": 3.94,
       "NumberOfAwards": 1886,
       "NumberOfAwardsMax": 399
+    },
+    {
+      "Time": "2023-08-14T16:02:34.714879+00:00",
+      "Rating": 3.94,
+      "NumberOfAwards": 1889,
+      "NumberOfAwardsMax": 402
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 1886,
-  "NumberOfAwardsMax": 399,
+  "NumberOfAwards": 1889,
+  "NumberOfAwardsMax": 402,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -2949,7 +2955,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 399
+      "Count": 402
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2988,9 +2994,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 71825,
+  "EOS_Progressed": 71827,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 318,
+  "EOS_NewPlayers": 319,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -15143,6 +15149,11 @@
       "Time": "2023-08-14T15:05:50.6096136+00:00",
       "NumProgressed": 71825,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-08-14T16:07:55.3214757+00:00",
+      "NumProgressed": 71827,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 37,
@@ -15154,7 +15165,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 35912
+      "UsersEstimate": 35914
     },
     {
       "ID": "ACH_0011",
@@ -15162,7 +15173,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 20829
+      "UsersEstimate": 20830
     },
     {
       "ID": "ACH_0012",
@@ -15170,7 +15181,7 @@
       "Name": "Roid Ranger",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 15083
+      "UsersEstimate": 15084
     },
     {
       "ID": "ACH_0013",
@@ -15178,7 +15189,7 @@
       "Name": "Hidden Sonata",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 9337
+      "UsersEstimate": 9338
     },
     {
       "ID": "ACH_0014",
@@ -15210,7 +15221,7 @@
       "Name": "Rockay Raider",
       "Percentage": 2,
       "XP": 55,
-      "UsersEstimate": 1436
+      "UsersEstimate": 1437
     },
     {
       "ID": "ACH_0022",
@@ -15250,7 +15261,7 @@
       "Name": "Freebooter",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 7182
+      "UsersEstimate": 7183
     },
     {
       "ID": "ACH_0061",
@@ -15298,7 +15309,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 46686
+      "UsersEstimate": 46688
     },
     {
       "ID": "ACH_0210",
@@ -15306,7 +15317,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 53150
+      "UsersEstimate": 53152
     },
     {
       "ID": "ACH_0211",
@@ -15322,7 +15333,7 @@
       "Name": "Too Old for This",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 33758
+      "UsersEstimate": 33759
     },
     {
       "ID": "ACH_0300",
@@ -15378,7 +15389,7 @@
       "Name": "King of the Hill",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 24420
+      "UsersEstimate": 24421
     },
     {
       "ID": "ACH_0430",
@@ -15418,7 +15429,7 @@
       "Name": "Raider\u2019s Ruin",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 12210
+      "UsersEstimate": 12211
     },
     {
       "ID": "ACH_0452",
@@ -15426,7 +15437,7 @@
       "Name": "Dragonslayer",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 12210
+      "UsersEstimate": 12211
     },
     {
       "ID": "ACH_0460",
@@ -15434,7 +15445,7 @@
       "Name": "Impossible Dreamer",
       "Percentage": 2,
       "XP": 55,
-      "UsersEstimate": 1436
+      "UsersEstimate": 1437
     },
     {
       "ID": "ACH_0600",
@@ -15449,22 +15460,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 71825,
+      "Progressed": 71827,
       "Completed": 38
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 172,
-      "Completed": 172
+      "Progressed": 174,
+      "Completed": 174
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-08-14T09:02:29.5280166+00:00",
-  "LastChanged_Achievements": "2023-08-14T15:05:50.6096128+00:00",
+  "LastChanged": "2023-08-14T16:02:34.7148787+00:00",
+  "LastChanged_Achievements": "2023-08-14T16:07:55.3214748+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:57.6056168+00:00",
-  "LastUpdate_Ratings": "2023-08-14T15:00:35.6890504+00:00",
-  "LastUpdate_Achievements": "2023-08-14T15:05:50.6096938+00:00"
+  "LastUpdate_Ratings": "2023-08-14T16:02:34.7148798+00:00",
+  "LastUpdate_Achievements": "2023-08-14T16:07:55.3216599+00:00"
 }
