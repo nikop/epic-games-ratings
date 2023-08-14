@@ -9,7 +9,7 @@
 | 7 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 23.91% |
 | 9 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 23.39% |
-| 10 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 22.86% |
+| 10 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 22.22% |
 | 11 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 11 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 13 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
@@ -37,7 +37,7 @@
 | 35 | [Ravenlok](games/r/ravenlok.md) | 7.53% |
 | 36 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.37% |
 | 37 | [Scorn](games/s/scorn.md) | 6.92% |
-| 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.90% |
+| 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.89% |
 | 39 | [Time Loader](games/t/time_loader.md) | 6.78% |
 | 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.44% |
 | 41 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
@@ -106,7 +106,7 @@
 | 103 | [Ten Dates](games/t/ten_dates.md) | 1.46% |
 | 105 | [Poosh XL](games/p/poosh_xl.md) | 1.43% |
 | 106 | [Late Shift](games/l/late_shift.md) | 1.30% |
-| 107 | [Chorus](games/c/chorus.md) | 1.16% |
+| 107 | [Chorus](games/c/chorus.md) | 1.15% |
 | 108 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.11% |
 | 108 | [Trifox](games/t/trifox.md) | 1.11% |
 | 110 | [A Musical Story](games/a/a_musical_story.md) | 1.09% |

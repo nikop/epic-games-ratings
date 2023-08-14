@@ -248,7 +248,7 @@
 | 239 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 3,373 | 87 |
 | 239 | [FAR CRY 4](games/f/far_cry_4.md) | 4.68 | 624 | 178 |
 | 239 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 301,972 | 3 |
-| 239 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 211,556 | 4 |
+| 239 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 211,938 | 4 |
 | 239 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 512 |
 | 239 | [King of Retail](games/k/king_of_retail.md) | 4.68 | 0 | 512 |
 | 239 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 429 | 206 |
@@ -419,35 +419,35 @@
 | 412 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.59 | 0 | 512 |
 | 412 | [Operation: Tango](games/o/operation__tango.md) | 4.59 | 0 | 512 |
 | 412 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 75 | 368 |
-| 412 | [The Escapists 2](games/t/the_escapists_2.md) | 4.59 | 53 | 395 |
 | 412 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 314 | 234 |
 | 412 | [Torchlight II](games/t/torchlight_ii.md) | 4.59 | 1,007 | 144 |
 | 412 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.59 | 0 | 512 |
 | 412 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 708 | 167 |
 | 412 | [Wall World](games/w/wall_world.md) | 4.59 | 0 | 512 |
-| 426 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.58 | 0 | 512 |
-| 426 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 60,023 | 11 |
-| 426 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 162 | 292 |
-| 426 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 0 | 512 |
-| 426 | [Deceive Inc.](games/d/deceive_inc..md) | 4.58 | 0 | 512 |
-| 426 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 8,778 | 39 |
-| 426 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 257 | 249 |
-| 426 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.58 | 0 | 512 |
-| 426 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.58 | 0 | 512 |
-| 426 | [GRIME](games/g/grime.md) | 4.58 | 23 | 489 |
-| 426 | [GRIT](games/g/grit.md) | 4.58 | 0 | 512 |
-| 426 | [Men of War Assault Squad](games/m/men_of_war_assault_squad.md) | 4.58 | 0 | 512 |
-| 426 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.58 | 6,656 | 53 |
-| 426 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 1,488 | 121 |
-| 426 | [Sonic Origins](games/s/sonic_origins.md) | 4.58 | 125 | 311 |
-| 426 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 213 | 269 |
-| 426 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.58 | 0 | 512 |
-| 426 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.58 | 163 | 291 |
-| 426 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,290 | 56 |
-| 426 | [Travellers Rest](games/t/travellers_rest.md) | 4.58 | 0 | 512 |
-| 426 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.58 | 0 | 512 |
-| 426 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 219 | 264 |
-| 426 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,443 | 25 |
+| 425 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.58 | 0 | 512 |
+| 425 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 60,023 | 11 |
+| 425 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 162 | 292 |
+| 425 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 0 | 512 |
+| 425 | [Deceive Inc.](games/d/deceive_inc..md) | 4.58 | 0 | 512 |
+| 425 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 8,778 | 39 |
+| 425 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 257 | 249 |
+| 425 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.58 | 0 | 512 |
+| 425 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.58 | 0 | 512 |
+| 425 | [GRIME](games/g/grime.md) | 4.58 | 23 | 489 |
+| 425 | [GRIT](games/g/grit.md) | 4.58 | 0 | 512 |
+| 425 | [Men of War Assault Squad](games/m/men_of_war_assault_squad.md) | 4.58 | 0 | 512 |
+| 425 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.58 | 6,656 | 53 |
+| 425 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 1,488 | 121 |
+| 425 | [Sonic Origins](games/s/sonic_origins.md) | 4.58 | 125 | 311 |
+| 425 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 213 | 269 |
+| 425 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.58 | 0 | 512 |
+| 425 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.58 | 163 | 291 |
+| 425 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 53 | 395 |
+| 425 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,290 | 56 |
+| 425 | [Travellers Rest](games/t/travellers_rest.md) | 4.58 | 0 | 512 |
+| 425 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.58 | 0 | 512 |
+| 425 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 219 | 264 |
+| 425 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,443 | 25 |
 | 449 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 0 | 512 |
 | 449 | [Among Us](games/a/among_us.md) | 4.57 | 2,611 | 97 |
 | 449 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.57 | 0 | 512 |
@@ -770,7 +770,7 @@
 | 766 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.33 | 0 | 512 |
 | 766 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.33 | 21 | 500 |
 | 766 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 0 | 512 |
-| 766 | [Rogue Company](games/r/rogue_company.md) | 4.33 | 5,255 | 66 |
+| 766 | [Rogue Company](games/r/rogue_company.md) | 4.33 | 5,257 | 66 |
 | 766 | [Speed Brawl](games/s/speed_brawl.md) | 4.33 | 29 | 465 |
 | 766 | [War Mongrels](games/w/war_mongrels.md) | 4.33 | 0 | 512 |
 | 774 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 356 | 225 |
