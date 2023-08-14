@@ -1599,9 +1599,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13407,
+  "EOS_Progressed": 13409,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -9654,6 +9654,11 @@
       "Time": "2023-08-14T19:05:28.7356492+00:00",
       "NumProgressed": 13407,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-14T20:04:56.7855046+00:00",
+      "NumProgressed": 13409,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -10527,9 +10532,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_LANDOWNERS",
       "SetID": "7l38kb8",
       "Name": "Landowners",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 67
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_PATRONS",
@@ -10855,9 +10860,9 @@
       "ID": "ACHIEVEMENT_GREECE4_WIN_PERSIA_STORYLINE",
       "SetID": "9201eeb",
       "Name": "Queen of War",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_GREECE5_BUCEPHALUS_10_KILLS",
@@ -12032,21 +12037,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13407,
+      "Progressed": 13409,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13407,
+      "Progressed": 13409,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-12T03:59:31.9297462+00:00",
-  "LastChanged_Achievements": "2023-08-14T19:05:28.7356483+00:00",
+  "LastChanged_Achievements": "2023-08-14T20:04:56.7855041+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:38.1291138+00:00",
-  "LastUpdate_Ratings": "2023-08-14T18:59:52.1478218+00:00",
-  "LastUpdate_Achievements": "2023-08-14T19:05:28.7366035+00:00"
+  "LastUpdate_Ratings": "2023-08-14T19:59:28.8471538+00:00",
+  "LastUpdate_Achievements": "2023-08-14T20:04:56.786505+00:00"
 }

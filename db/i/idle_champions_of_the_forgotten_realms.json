@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 115,
   "Ranking_EOS_NewPlayers": 36,
-  "Ranking_EOS_NewCompleters": 9,
+  "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -5750,11 +5750,17 @@
       "Rating": 4.06,
       "NumberOfAwards": 31049,
       "NumberOfAwardsMax": 5147
+    },
+    {
+      "Time": "2023-08-14T19:59:42.4160963+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 31050,
+      "NumberOfAwardsMax": 5148
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 31049,
-  "NumberOfAwardsMax": 5147,
+  "NumberOfAwards": 31050,
+  "NumberOfAwardsMax": 5148,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -5767,7 +5773,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 5147
+      "Count": 5148
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5800,9 +5806,9 @@
       "Count": 3354
     }
   ],
-  "EOS_Progressed": 221880,
+  "EOS_Progressed": 221898,
   "EOS_Completed": 2181,
-  "EOS_NewPlayers": 2197,
+  "EOS_NewPlayers": 2200,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -18405,6 +18411,11 @@
       "Time": "2023-08-14T19:04:25.4424769+00:00",
       "NumProgressed": 221880,
       "NumCompleted": 2181
+    },
+    {
+      "Time": "2023-08-14T20:03:57.2917774+00:00",
+      "NumProgressed": 221898,
+      "NumCompleted": 2181
     }
   ],
   "TotalAchievements": 516,
@@ -22528,7 +22539,7 @@
       "Name": "To Infinity\u0027s and Beyond",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "objective_completed_1401",
@@ -22543,21 +22554,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 188154,
+      "Progressed": 188172,
       "Completed": 3231
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 221880,
+      "Progressed": 221898,
       "Completed": 2181
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-08-14T19:00:09.8226091+00:00",
-  "LastChanged_Achievements": "2023-08-14T19:04:25.4424763+00:00",
+  "LastChanged": "2023-08-14T19:59:42.4160961+00:00",
+  "LastChanged_Achievements": "2023-08-14T20:03:57.291777+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:51.8567155+00:00",
-  "LastUpdate_Ratings": "2023-08-14T19:00:09.8226101+00:00",
-  "LastUpdate_Achievements": "2023-08-14T19:04:25.4456738+00:00"
+  "LastUpdate_Ratings": "2023-08-14T19:59:42.4160968+00:00",
+  "LastUpdate_Achievements": "2023-08-14T20:03:57.2949852+00:00"
 }

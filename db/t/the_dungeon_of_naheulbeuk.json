@@ -642,9 +642,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 212260,
+  "EOS_Progressed": 212292,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3848,
+  "EOS_NewPlayers": 3835,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6912,6 +6912,11 @@
       "Time": "2023-08-14T19:05:30.0634631+00:00",
       "NumProgressed": 212260,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-14T20:04:57.6962734+00:00",
+      "NumProgressed": 212292,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -6921,9 +6926,9 @@
       "ID": "10000Gold",
       "SetID": "50chcgj",
       "Name": "Livin\u0027 in a dwarven paradise",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 637
+      "UsersEstimate": 849
     },
     {
       "ID": "100Fail",
@@ -7323,7 +7328,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1910
+      "UsersEstimate": 1911
     },
     {
       "ID": "DwarfElf15Support",
@@ -7371,7 +7376,7 @@
       "Name": "Sowwy!",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 27594
+      "UsersEstimate": 27598
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -7553,9 +7558,9 @@
       "ID": "Rogue30Backstab",
       "SetID": "50chcgj",
       "Name": "I am the night",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 425
+      "UsersEstimate": 637
     },
     {
       "ID": "RogueEpic",
@@ -7626,21 +7631,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 212260,
+      "Progressed": 212292,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 212260,
+      "Progressed": 212292,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-13T20:01:39.3225851+00:00",
-  "LastChanged_Achievements": "2023-08-14T19:05:30.0634623+00:00",
+  "LastChanged_Achievements": "2023-08-14T20:04:57.6962729+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:49.6773731+00:00",
-  "LastUpdate_Ratings": "2023-08-14T19:01:11.2423385+00:00",
-  "LastUpdate_Achievements": "2023-08-14T19:05:30.0636007+00:00"
+  "LastUpdate_Ratings": "2023-08-14T20:00:42.2917982+00:00",
+  "LastUpdate_Achievements": "2023-08-14T20:04:57.6964148+00:00"
 }

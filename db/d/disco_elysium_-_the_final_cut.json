@@ -1247,9 +1247,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 126232,
+  "EOS_Progressed": 126234,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 424,
+  "EOS_NewPlayers": 420,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -12792,6 +12792,11 @@
       "Time": "2023-08-14T19:05:19.1381679+00:00",
       "NumProgressed": 126232,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-08-14T20:04:47.6396893+00:00",
+      "NumProgressed": 126234,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 40,
@@ -12883,7 +12888,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 35345
+      "UsersEstimate": 35346
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -12915,7 +12920,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 25246
+      "UsersEstimate": 25247
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -13019,7 +13024,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 17672
+      "UsersEstimate": 17673
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -13122,15 +13127,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 126232,
+      "Progressed": 126234,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-08-14T01:41:04.9413992+00:00",
-  "LastChanged_Achievements": "2023-08-14T19:05:19.1381671+00:00",
+  "LastChanged_Achievements": "2023-08-14T20:04:47.6396887+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:59.4029348+00:00",
-  "LastUpdate_Ratings": "2023-08-14T19:01:21.9925544+00:00",
-  "LastUpdate_Achievements": "2023-08-14T19:05:19.1382892+00:00"
+  "LastUpdate_Ratings": "2023-08-14T20:00:53.5006641+00:00",
+  "LastUpdate_Achievements": "2023-08-14T20:04:47.6397885+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "skabma-snowfall",
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewPlayers": 357,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-04-22T08:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:14.1155101+00:00",
   "LastChanged": "2023-03-31T05:58:14.1155102+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:58:04.6077108+00:00",
-  "LastUpdate_Ratings": "2023-08-14T18:57:25.859385+00:00",
-  "LastUpdate_Achievements": "2023-08-14T19:08:13.4831888+00:00"
+  "LastUpdate_Ratings": "2023-08-14T19:57:07.767272+00:00",
+  "LastUpdate_Achievements": "2023-08-14T20:07:33.0669529+00:00"
 }

@@ -2850,10 +2850,16 @@
       "Rating": 4.78,
       "NumberOfAwards": 6537,
       "NumberOfAwardsMax": 2374
+    },
+    {
+      "Time": "2023-08-14T19:57:51.55642+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6539,
+      "NumberOfAwardsMax": 2374
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6537,
+  "NumberOfAwards": 6539,
   "NumberOfAwardsMax": 2374,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2873,7 +2879,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 490
+      "Count": 491
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2891,7 +2897,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 491
+      "Count": 492
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2930,9 +2936,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 50057,
+  "EOS_Progressed": 50058,
   "EOS_Completed": 221,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -9985,6 +9991,11 @@
       "Time": "2023-08-14T14:04:54.7903568+00:00",
       "NumProgressed": 50057,
       "NumCompleted": 221
+    },
+    {
+      "Time": "2023-08-14T20:04:26.2641616+00:00",
+      "NumProgressed": 50058,
+      "NumCompleted": 221
     }
   ],
   "TotalAchievements": 45,
@@ -10020,7 +10031,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 39545
+      "UsersEstimate": 39546
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -10132,7 +10143,7 @@
       "Name": "A New Hope",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 24027
+      "UsersEstimate": 24028
     },
     {
       "ID": "COMPLETE_EPISODE_5",
@@ -10148,7 +10159,7 @@
       "Name": "Return of the Jedi",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 16018
+      "UsersEstimate": 16019
     },
     {
       "ID": "COMPLETE_EPISODE_7",
@@ -10156,7 +10167,7 @@
       "Name": "The Force Awakens",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 13515
+      "UsersEstimate": 13516
     },
     {
       "ID": "COMPLETE_EPISODE_8",
@@ -10172,7 +10183,7 @@
       "Name": "The Rise of Skywalker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 10011
+      "UsersEstimate": 10012
     },
     {
       "ID": "COMPLETE_FAULTYDROID_ON_TATOOINE",
@@ -10188,7 +10199,7 @@
       "Name": "\u0027\u0027I can fly anything\u0027\u0027",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 28532
+      "UsersEstimate": 28533
     },
     {
       "ID": "COMPLETE_GEONOSIS_TATOOINE",
@@ -10260,7 +10271,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 48555
+      "UsersEstimate": 48556
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -10300,7 +10311,7 @@
       "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 36041
+      "UsersEstimate": 36042
     },
     {
       "ID": "MINIKITS_ALL_LEVELS",
@@ -10348,22 +10359,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 36041
+      "UsersEstimate": 36042
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 50057,
+      "Progressed": 50058,
       "Completed": 221
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
-  "LastChanged": "2023-08-13T23:57:52.327074+00:00",
-  "LastChanged_Achievements": "2023-08-14T19:04:57.0233778+00:00",
+  "LastChanged": "2023-08-14T19:57:51.5564198+00:00",
+  "LastChanged_Achievements": "2023-08-14T20:04:26.2641611+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:13.8812017+00:00",
-  "LastUpdate_Ratings": "2023-08-14T18:58:09.8361547+00:00",
-  "LastUpdate_Achievements": "2023-08-14T19:04:57.0234723+00:00"
+  "LastUpdate_Ratings": "2023-08-14T19:57:51.5564204+00:00",
+  "LastUpdate_Achievements": "2023-08-14T20:04:26.2642453+00:00"
 }

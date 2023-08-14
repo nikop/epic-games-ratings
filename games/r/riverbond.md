@@ -6,24 +6,24 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~367,513 |
-| Now You're Talking | 62.00% | ~325,512 |
-| Steel Yourself | 62.00% | ~325,512 |
+| First Step | 70.00% | ~367,515 |
+| Now You're Talking | 62.00% | ~325,513 |
+| Steel Yourself | 62.00% | ~325,513 |
 | Window Dressing | 50.00% | ~262,510 |
-| Trigger Happy | 46.00% | ~241,509 |
+| Trigger Happy | 46.00% | ~241,510 |
 | Riverborn | 45.00% | ~236,259 |
-| Starry Eyed | 34.00% | ~178,506 |
-| Poking Around | 34.00% | ~178,506 |
+| Starry Eyed | 34.00% | ~178,507 |
+| Poking Around | 34.00% | ~178,507 |
 | Talk of the Town | 24.00% | ~126,005 |
-| AAARR! | 23.00% | ~120,754 |
-| Hello Darkness | 23.00% | ~120,754 |
-| Wind At Our Backs | 22.00% | ~115,504 |
+| AAARR! | 23.00% | ~120,755 |
+| Hello Darkness | 23.00% | ~120,755 |
+| Wind At Our Backs | 22.00% | ~115,505 |
 | To the Beat | 20.00% | ~105,004 |
-| Sunny Shores | 17.00% | ~89,253 |
+| Sunny Shores | 17.00% | ~89,254 |
 | Sunday Best | 16.00% | ~84,003 |
 | To Victory! | 15.00% | ~78,753 |
 | Two of a Kind | 14.00% | ~73,503 |
-| Keep On Trucking | 13.00% | ~68,252 |
+| Keep On Trucking | 13.00% | ~68,253 |
 | Going on an Adventure | 11.00% | ~57,752 |
 | Make Peace, Not War | 11.00% | ~57,752 |
 | Walking The Line | 10.00% | ~52,502 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,575 |
 | Point Taken | 0.10% | ~525 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 525,019 (Ranked 31)  
+Progressed: 525,021 (Ranked 31)  
 Completed: 459 (0.09%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 459 (0.09%) (Ranked 207)
 | 2023-08-11 | 524,773 | 457 |
 | 2023-08-12 | 524,862 | 457 |
 | 2023-08-13 | 524,963 | 459 |
-| 2023-08-14 | 525,019 | 459 |
+| 2023-08-14 | 525,021 | 459 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

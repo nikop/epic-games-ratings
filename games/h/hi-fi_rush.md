@@ -13,11 +13,11 @@ Rating: 4.88 (Ranked 18)
 | Thanks for the free chip, Peppermint! | 8.00% | ~312 |
 | You got this, Peppermint? | 7.00% | ~273 |
 | Perfect Parry | 7.00% | ~273 |
+| Alright, that felt AWESOME! | 7.00% | ~273 |
 | This will cost you big time | 6.00% | ~234 |
 | I play my own way! | 6.00% | ~234 |
 | Uh, they were broken when I got here | 6.00% | ~234 |
 | I look cool. But I can look COOLER. | 6.00% | ~234 |
-| Alright, that felt AWESOME! | 6.00% | ~234 |
 | Whoa! There's ANOTHER health bar!? | 5.00% | ~195 |
 | Z-shielding's got nothing on us! | 5.00% | ~195 |
 | Kissing the sky! | 5.00% | ~195 |

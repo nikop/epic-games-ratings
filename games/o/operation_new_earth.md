@@ -13,10 +13,10 @@
 | Lieutenant | 11.00% | ~99 |
 | Stocking Up | 11.00% | ~99 |
 | On Target | 11.00% | ~99 |
+| Keeping Busy | 10.00% | ~90 |
 | Getting Deployment | 10.00% | ~90 |
 | Infantry Reporting | 10.00% | ~90 |
 | Fighting for Survival | 9.00% | ~81 |
-| Keeping Busy | 9.00% | ~81 |
 | Silver Competitor | 8.00% | ~72 |
 | Exterminator | 7.00% | ~63 |
 | Captain | 7.00% | ~63 |

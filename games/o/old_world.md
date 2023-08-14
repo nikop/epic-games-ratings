@@ -97,6 +97,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Devout | 0.50% | ~67 |
 | Invincible | 0.50% | ~67 |
 | Subjugator | 0.50% | ~67 |
+| Landowners | 0.50% | ~67 |
 | Riders | 0.50% | ~67 |
 | Hittite Iron | 0.50% | ~67 |
 | Circus Maximus | 0.50% | ~67 |
@@ -120,7 +121,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong Difficulty | 0.40% | ~54 |
 | Clerics | 0.40% | ~54 |
 | Hunters | 0.40% | ~54 |
-| Landowners | 0.40% | ~54 |
 | Babylonia | 0.40% | ~54 |
 | Rome | 0.40% | ~54 |
 | One True Faith | 0.40% | ~54 |
@@ -230,6 +230,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Queen of Intrigue | 0.10% | ~13 |
 | Queen of Lies | 0.10% | ~13 |
 | Queen of Opportunity | 0.10% | ~13 |
+| Queen of War | 0.10% | ~13 |
 | Mighty Bucephalus | 0.10% | ~13 |
 | Knot So Hard | 0.10% | ~13 |
 | Gate to Victory | 0.10% | ~13 |
@@ -292,7 +293,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | That Also Works | 0.00% | ~0 |
 | Not a Chance | 0.00% | ~0 |
 | Not a Scratch | 0.00% | ~0 |
-| Queen of War | 0.00% | ~0 |
 | Alexander the Great | 0.00% | ~0 |
 | Youth Prevails | 0.00% | ~0 |
 | Rule of Pharaohs | 0.00% | ~0 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,407 (Ranked 117)  
+Progressed: 13,409 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -419,7 +419,7 @@ Completed: 5 (0.04%) (Ranked 224)
 | 2023-08-11 | 13,363 | 5 |
 | 2023-08-12 | 13,385 | 5 |
 | 2023-08-13 | 13,400 | 5 |
-| 2023-08-14 | 13,407 | 5 |
+| 2023-08-14 | 13,409 | 5 |
 ## Awards
 Max (Relaxing): 219  (Ranked 264)  
 Sum: 1,790 (Ranked 206)  

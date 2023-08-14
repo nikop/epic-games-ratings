@@ -15,8 +15,8 @@ Number of Ratings: 98  (23.09.2022)
 | Gabriele D'Annunzio | 33.00% | ~2,193 |
 | Silver Lining | 30.00% | ~1,993 |
 | Aurelio Baruzzi | 23.00% | ~1,528 |
+| Decimation | 22.00% | ~1,462 |
 | Veni Vidi Vici | 22.00% | ~1,462 |
-| Decimation | 21.00% | ~1,395 |
 | Donatello | 21.00% | ~1,395 |
 | Insubordination | 20.00% | ~1,329 |
 | The Italian Job | 20.00% | ~1,329 |
@@ -165,9 +165,9 @@ Completed: 8 (0.12%) (Ranked 196)
 | 2023-08-13 | 6,638 | 8 |
 | 2023-08-14 | 6,644 | 8 |
 ## Awards
-Max (Highly Recommended): 35  (Ranked 437)  
+Max (Highly Recommended): 35  (Ranked 438)  
 Sum: 266 (Ranked 351)  
-Diff (max vs sum): 86  
+Diff (max vs sum): 87  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 35 |

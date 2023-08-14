@@ -6273,9 +6273,9 @@
       "ID": "Ach048",
       "SetID": "12n4k20",
       "Name": "Alright, that felt AWESOME!",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 234
+      "UsersEstimate": 273
     },
     {
       "ID": "Ach049",
@@ -6480,8 +6480,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-08-10T23:00:09.4128826+00:00",
-  "LastChanged_Achievements": "2023-08-14T19:06:18.779985+00:00",
+  "LastChanged_Achievements": "2023-08-14T20:05:43.7049161+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:15.2039204+00:00",
-  "LastUpdate_Ratings": "2023-08-14T19:00:34.3533983+00:00",
-  "LastUpdate_Achievements": "2023-08-14T19:06:18.780091+00:00"
+  "LastUpdate_Ratings": "2023-08-14T20:00:09.4088701+00:00",
+  "LastUpdate_Achievements": "2023-08-14T20:05:43.7050266+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "rainswept-5f368a",
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewPlayers": 357,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-02-18T12:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:45.6404164+00:00",
   "LastChanged": "2023-03-31T05:57:45.6404165+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:22.4111732+00:00",
-  "LastUpdate_Ratings": "2023-08-14T18:57:56.7533602+00:00",
-  "LastUpdate_Achievements": "2023-08-14T19:04:28.7600076+00:00"
+  "LastUpdate_Ratings": "2023-08-14T19:57:39.1345352+00:00",
+  "LastUpdate_Achievements": "2023-08-14T20:04:00.2480747+00:00"
 }
