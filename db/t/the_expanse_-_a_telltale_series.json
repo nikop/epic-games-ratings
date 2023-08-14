@@ -4,7 +4,7 @@
   "ProductSlug": "the-expanse-a-telltale-series",
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 35,
+  "Ranking_EOS_NewPlayers": 34,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7540,
+  "EOS_Progressed": 7547,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2393,
+  "EOS_NewPlayers": 2397,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1902,6 +1902,11 @@
       "Time": "2023-08-14T09:07:31.4768248+00:00",
       "NumProgressed": 7540,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-14T10:06:37.4425862+00:00",
+      "NumProgressed": 7547,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -1954,7 +1959,7 @@
       "Name": "Doctor Approved",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 1206
+      "UsersEstimate": 1208
     },
     {
       "ID": "15",
@@ -1962,7 +1967,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     },
     {
       "ID": "16",
@@ -1978,7 +1983,7 @@
       "Name": "Spore Taste",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "18",
@@ -1994,7 +1999,7 @@
       "Name": "Martian Music",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "2",
@@ -2090,7 +2095,7 @@
       "Name": "Captain Drummer",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1131
+      "UsersEstimate": 1132
     },
     {
       "ID": "30",
@@ -2122,7 +2127,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "7",
@@ -2153,14 +2158,14 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 7540,
+      "Progressed": 7547,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged_Achievements": "2023-08-14T09:07:31.4768241+00:00",
+  "LastChanged_Achievements": "2023-08-14T10:06:37.4425855+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:56.6215488+00:00",
-  "LastUpdate_Ratings": "2023-08-14T09:01:31.277347+00:00",
-  "LastUpdate_Achievements": "2023-08-14T09:07:31.4768584+00:00"
+  "LastUpdate_Ratings": "2023-08-14T10:00:49.2896999+00:00",
+  "LastUpdate_Achievements": "2023-08-14T10:06:37.4426197+00:00"
 }

@@ -89,6 +89,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon | 0.60% | ~80 |
 | Persian Paganism | 0.60% | ~80 |
 | Legalism | 0.60% | ~80 |
+| Legionary | 0.60% | ~80 |
 | Phalangite | 0.60% | ~80 |
 | Double Victory | 0.60% | ~80 |
 | Win a Single Player Game | 0.60% | ~80 |
@@ -110,7 +111,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Dualism | 0.50% | ~67 |
 | Redemption | 0.50% | ~67 |
 | Cimmerian Archer | 0.50% | ~67 |
-| Legionary | 0.50% | ~67 |
 | Ambition Victory | 0.50% | ~67 |
 | Bad Heir Day | 0.40% | ~54 |
 | Ishtar Gate in Babylon | 0.40% | ~54 |
@@ -145,6 +145,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | No Undo | 0.30% | ~40 |
 | Pilgrimage | 0.30% | ~40 |
 | Patriarch St Paul | 0.30% | ~40 |
+| Hypatia the Teacher | 0.30% | ~40 |
 | Bronze Victory (Carthage 1) | 0.20% | ~27 |
 | Ancient | 0.20% | ~27 |
 | Glorious Difficulty | 0.20% | ~27 |
@@ -166,7 +167,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Siege Tower | 0.20% | ~27 |
 | Conquest Victory | 0.20% | ~27 |
 | Necropolis in Waset | 0.20% | ~27 |
-| Hypatia the Teacher | 0.20% | ~27 |
 | Centenarian | 0.10% | ~13 |
 | Lighthouse in Alexandria | 0.10% | ~13 |
 | Musaeum in Alexandria | 0.10% | ~13 |

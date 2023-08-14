@@ -21,9 +21,9 @@ Rating: 4.55 (Ranked 484)
 | A Hunk of Junk | 9.00% | ~276 |
 | Exceeding Capacity | 9.00% | ~276 |
 | Breaking Protocol | 9.00% | ~276 |
+| Man's Best Friend | 7.00% | ~215 |
 | Power Outage | 7.00% | ~215 |
 | Please Make it Stop! | 7.00% | ~215 |
-| Man's Best Friend | 6.00% | ~184 |
 | Sightseeing | 6.00% | ~184 |
 | Convenient Transport | 6.00% | ~184 |
 | Access Granted | 5.00% | ~153 |

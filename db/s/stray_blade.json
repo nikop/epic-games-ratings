@@ -258,9 +258,9 @@
       "ID": "ACH_BOJI_SKILLTREE_PROGRESSION_100",
       "SetID": "7i20me3",
       "Name": "Sponsor",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_CRAFT_15_WEAPONS",
@@ -386,9 +386,9 @@
       "ID": "ACH_FIND_ALL_COLLECTIBLES_LIZARD",
       "SetID": "7i20me3",
       "Name": "Wasteland Connoisseur",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_FIND_ALL_COLLECTIBLES_STAG",
@@ -418,9 +418,9 @@
       "ID": "ACH_FIND_ALL_LORE_TABLETS",
       "SetID": "7i20me3",
       "Name": "Knowledge is King",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_FIND_ALL_PLANT_TYPES",
@@ -450,9 +450,9 @@
       "ID": "ACH_FIND_ALL_STORY_NOTES",
       "SetID": "7i20me3",
       "Name": "Bookworm",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_FIND_ALL_SUBREGION_MURALS_BEAR",
@@ -633,8 +633,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-08-14T09:07:35.5865621+00:00",
+  "LastChanged_Achievements": "2023-08-14T10:06:40.9365549+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:32.6362658+00:00",
-  "LastUpdate_Ratings": "2023-08-14T08:59:52.8133049+00:00",
-  "LastUpdate_Achievements": "2023-08-14T09:07:35.586597+00:00"
+  "LastUpdate_Ratings": "2023-08-14T09:59:25.6687425+00:00",
+  "LastUpdate_Achievements": "2023-08-14T10:06:40.936593+00:00"
 }

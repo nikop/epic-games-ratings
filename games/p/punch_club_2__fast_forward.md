@@ -26,11 +26,11 @@
 | Law student | 63.00% | ~157 |
 | Workout professional | 61.00% | ~152 |
 | It's good to be alive | 61.00% | ~152 |
+| Own four walls | 61.00% | ~152 |
+| Handyman | 60.00% | ~149 |
 | Champion – starter pack | 60.00% | ~149 |
-| Own four walls | 60.00% | ~149 |
 | Fight for life | 59.00% | ~147 |
 | Little hacker | 59.00% | ~147 |
-| Handyman | 59.00% | ~147 |
 | Employee of the year | 59.00% | ~147 |
 | Intriguing candies | 57.00% | ~142 |
 | Legal courier | 54.00% | ~134 |
@@ -47,9 +47,9 @@
 | Underground dwellers | 38.00% | ~95 |
 | Responsible approach | 38.00% | ~95 |
 | Deal with life | 37.00% | ~92 |
+| GYM professional | 37.00% | ~92 |
 | Get out of my apartment! | 37.00% | ~92 |
 | Mom got better | 36.00% | ~90 |
-| GYM professional | 36.00% | ~90 |
 | The die is cast | 36.00% | ~90 |
 | Seashell hunter | 35.00% | ~87 |
 | Gang wrangler | 33.00% | ~82 |
@@ -61,12 +61,12 @@
 | Not little hacker | 31.00% | ~77 |
 | Careerist | 31.00% | ~77 |
 | The heart of the Resistance | 31.00% | ~77 |
+| Trap disarmed | 30.00% | ~75 |
 | Another world | 30.00% | ~75 |
 | Keep nature safe | 30.00% | ~75 |
 | Family comes first | 30.00% | ~75 |
 | The last bell ring | 30.00% | ~75 |
 | Anyone can resist | 30.00% | ~75 |
-| Trap disarmed | 29.00% | ~72 |
 | Silver’s past | 27.00% | ~67 |
 | Better cooking at home | 27.00% | ~67 |
 | The only right decision | 26.00% | ~65 |

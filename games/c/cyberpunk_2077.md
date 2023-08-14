@@ -6,19 +6,19 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 68.00% | ~592,142 |
-| Right Back At Ya | 39.00% | ~339,611 |
-| The Lovers | 35.00% | ~304,779 |
-| Stanislavski's Method | 29.00% | ~252,531 |
-| The Wheel of Fortune | 27.00% | ~235,115 |
-| The Hermit | 25.00% | ~217,699 |
-| Christmas Tree Attack | 23.00% | ~200,283 |
-| True Soldier | 23.00% | ~200,283 |
-| The High Priestess | 22.00% | ~191,575 |
-| Legend of The Afterlife | 22.00% | ~191,575 |
-| Life of the Road | 21.00% | ~182,867 |
-| Full Body Conversion | 18.00% | ~156,743 |
-| The World | 18.00% | ~156,743 |
+| The Fool | 68.00% | ~592,146 |
+| Right Back At Ya | 39.00% | ~339,613 |
+| The Lovers | 35.00% | ~304,781 |
+| Stanislavski's Method | 29.00% | ~252,533 |
+| The Wheel of Fortune | 27.00% | ~235,117 |
+| The Hermit | 25.00% | ~217,701 |
+| Christmas Tree Attack | 23.00% | ~200,285 |
+| True Soldier | 23.00% | ~200,285 |
+| The High Priestess | 22.00% | ~191,577 |
+| Legend of The Afterlife | 22.00% | ~191,577 |
+| Life of the Road | 21.00% | ~182,869 |
+| Full Body Conversion | 18.00% | ~156,745 |
+| The World | 18.00% | ~156,745 |
 | Bushido and Chill | 16.00% | ~139,328 |
 | Gun Fu | 15.00% | ~130,620 |
 | True Warrior | 15.00% | ~130,620 |
@@ -51,8 +51,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~8,708 |
 | Rough Landing | 0.50% | ~4,354 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 870,797 (Ranked 14)  
-Completed: 1,963 (0.23%) (Ranked 176)  
+Progressed: 870,803 (Ranked 14)  
+Completed: 1,964 (0.23%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -167,7 +167,7 @@ Completed: 1,963 (0.23%) (Ranked 176)
 | 2023-08-11 | 870,387 | 1,958 |
 | 2023-08-12 | 870,573 | 1,961 |
 | 2023-08-13 | 870,756 | 1,962 |
-| 2023-08-14 | 870,797 | 1,963 |
+| 2023-08-14 | 870,803 | 1,964 |
 ## Awards
 Max (Character Customization): 75,493  (Ranked 9)  
 Sum: 199,356 (Ranked 13)  

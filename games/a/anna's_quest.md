@@ -6,9 +6,9 @@
 | ---- | ---------- | ----- |
 | Escape artist | 79.00% | ~26 |
 | Book Worm | 67.00% | ~22 |
+| Ooh, it's shiny! | 67.00% | ~22 |
 | Through the woods | 64.00% | ~21 |
 | My lost nightingale | 64.00% | ~21 |
-| Ooh, it's shiny! | 64.00% | ~21 |
 | Back to the anvil | 58.00% | ~19 |
 | Roostwig has entered the building | 55.00% | ~18 |
 | Mystery solved | 52.00% | ~17 |

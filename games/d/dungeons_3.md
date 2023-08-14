@@ -20,8 +20,8 @@ Number of Ratings: 1,635  (23.09.2022)
 | Hands off the Dungeonheart! | 36.00% | ~9,812 |
 | A trip on sea, what fun it can be | 35.00% | ~9,539 |
 | Damned good | 33.00% | ~8,994 |
+| Factory farming | 32.00% | ~8,722 |
 | Stock Market Crash | 31.00% | ~8,449 |
-| Factory farming | 31.00% | ~8,449 |
 | Not-So-Overproud | 30.00% | ~8,176 |
 | For a handfull of Catapults | 29.00% | ~7,904 |
 | Shadow hunter | 29.00% | ~7,904 |

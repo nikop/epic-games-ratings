@@ -4,7 +4,7 @@
   "ProductSlug": "bad-rats-show-1b74cf",
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 362,
+  "Ranking_EOS_NewPlayers": 361,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-05-25T04:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-10T17:57:18.0304333+00:00",
-  "LastUpdate_Ratings": "2023-08-14T08:58:33.4216714+00:00",
-  "LastUpdate_Achievements": "2023-08-14T09:06:55.1670863+00:00"
+  "LastUpdate_Ratings": "2023-08-14T09:58:14.7981745+00:00",
+  "LastUpdate_Achievements": "2023-08-14T10:06:06.6478348+00:00"
 }

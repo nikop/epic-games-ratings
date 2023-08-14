@@ -2496,7 +2496,7 @@
   ],
   "EOS_Progressed": 27255,
   "EOS_Completed": 221,
-  "EOS_NewPlayers": 730,
+  "EOS_NewPlayers": 725,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.81,
   "EosHistory": [
@@ -15313,9 +15313,9 @@
       "ID": "ACH_D3_Campaign_Sacrifice_1",
       "SetID": "cda475f",
       "Name": "Factory farming",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 8449
+      "UsersEstimate": 8722
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_2",
@@ -15441,8 +15441,8 @@
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-08-13T17:01:44.243771+00:00",
-  "LastChanged_Achievements": "2023-08-14T09:04:35.0309492+00:00",
+  "LastChanged_Achievements": "2023-08-14T10:04:07.6430252+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:06.5811673+00:00",
-  "LastUpdate_Ratings": "2023-08-14T09:01:42.7466672+00:00",
-  "LastUpdate_Achievements": "2023-08-14T09:04:35.0310736+00:00"
+  "LastUpdate_Ratings": "2023-08-14T10:01:00.3325883+00:00",
+  "LastUpdate_Achievements": "2023-08-14T10:04:07.6431542+00:00"
 }

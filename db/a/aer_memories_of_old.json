@@ -380,9 +380,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17797,
+  "EOS_Progressed": 17799,
   "EOS_Completed": 361,
-  "EOS_NewPlayers": 560,
+  "EOS_NewPlayers": 562,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 2.03,
   "EosHistory": [
@@ -12660,6 +12660,11 @@
       "Time": "2023-08-14T09:06:41.1397647+00:00",
       "NumProgressed": 17797,
       "NumCompleted": 361
+    },
+    {
+      "Time": "2023-08-14T10:05:54.5214765+00:00",
+      "NumProgressed": 17799,
+      "NumCompleted": 361
     }
   ],
   "TotalAchievements": 20,
@@ -12671,7 +12676,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 3025
+      "UsersEstimate": 3026
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -12791,7 +12796,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 13526
+      "UsersEstimate": 13527
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -12799,7 +12804,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 4983
+      "UsersEstimate": 4984
     },
     {
       "ID": "NORTH_FINISHED",
@@ -12823,22 +12828,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 3381
+      "UsersEstimate": 3382
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 17797,
+      "Progressed": 17799,
       "Completed": 361
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-08-12T01:39:46.4098224+00:00",
-  "LastChanged_Achievements": "2023-08-14T09:06:41.1397642+00:00",
+  "LastChanged_Achievements": "2023-08-14T10:05:54.5214758+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:58:04.1120676+00:00",
-  "LastUpdate_Ratings": "2023-08-14T08:57:19.6147755+00:00",
-  "LastUpdate_Achievements": "2023-08-14T09:06:41.1398589+00:00"
+  "LastUpdate_Ratings": "2023-08-14T09:57:14.1575346+00:00",
+  "LastUpdate_Achievements": "2023-08-14T10:05:54.5215896+00:00"
 }

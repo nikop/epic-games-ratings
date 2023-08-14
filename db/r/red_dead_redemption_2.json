@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 7,
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 362,
+  "Ranking_EOS_NewPlayers": 361,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2019-11-05T13:00:00+00:00",
@@ -11210,18 +11210,24 @@
       "Rating": 4.88,
       "NumberOfAwards": 430771,
       "NumberOfAwardsMax": 166932
+    },
+    {
+      "Time": "2023-08-14T10:00:52.55655+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 431111,
+      "NumberOfAwardsMax": 167200
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 430771,
-  "NumberOfAwardsMax": 166932,
+  "NumberOfAwards": 431111,
+  "NumberOfAwardsMax": 167200,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
     {
       "Text": "In this game, your choices Impact the Story",
       "Prefix": "In this game, your choices",
       "Type": "Impact the Story",
-      "Count": 166932
+      "Count": 167200
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -11239,7 +11245,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 16065
+      "Count": 16097
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -11275,7 +11281,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 16914
+      "Count": 16954
     },
     {
       "Text": "This game is Relaxing",
@@ -11313,8 +11319,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2023-08-14T05:00:08.986461+00:00",
+  "LastChanged": "2023-08-14T10:00:52.5565498+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:56.5855554+00:00",
-  "LastUpdate_Ratings": "2023-08-14T09:01:34.5354662+00:00",
-  "LastUpdate_Achievements": "2023-08-14T09:07:02.3269736+00:00"
+  "LastUpdate_Ratings": "2023-08-14T10:00:52.5565504+00:00",
+  "LastUpdate_Achievements": "2023-08-14T10:06:12.8447941+00:00"
 }

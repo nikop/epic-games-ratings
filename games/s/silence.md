@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Fire in the... nevermind | 50.00% | ~52 |
-| Chapter I | 48.00% | ~50 |
+| Chapter I | 49.00% | ~51 |
 | Haute cuisine | 44.00% | ~46 |
 | I didn't do it! | 39.00% | ~41 |
 | Demolition expert | 36.00% | ~38 |
@@ -39,8 +39,8 @@
 | Where there is life, there is hope | 8.00% | ~8 |
 | Artistic master | 7.00% | ~7 |
 | Sadist | 6.00% | ~6 |
+| Fartjokes! | 6.00% | ~6 |
 | The hands of a healer | 6.00% | ~6 |
-| Fartjokes! | 5.00% | ~5 |
 | Shut up clown! | 5.00% | ~5 |
 | Life is but a dream | 4.00% | ~4 |
 | Checkmate in 8 moves | 3.00% | ~3 |
