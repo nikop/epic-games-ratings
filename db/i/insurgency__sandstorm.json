@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 167,
   "Ranking_EOS_Progress": 38,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 34,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 35,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-02-10T17:00:00+00:00",
     "PcReleaseDate": "2018-12-12T12:21:00+00:00",
@@ -2915,18 +2915,24 @@
       "Rating": 4.62,
       "NumberOfAwards": 2887,
       "NumberOfAwardsMax": 374
+    },
+    {
+      "Time": "2023-08-14T10:59:14.6308899+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 2888,
+      "NumberOfAwardsMax": 375
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2887,
-  "NumberOfAwardsMax": 374,
+  "NumberOfAwards": 2888,
+  "NumberOfAwardsMax": 375,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 374
+      "Count": 375
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2989,9 +2995,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 432475,
+  "EOS_Progressed": 432485,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2397,
+  "EOS_NewPlayers": 2396,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15724,6 +15730,11 @@
       "Time": "2023-08-14T10:06:44.2238334+00:00",
       "NumProgressed": 432475,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-14T11:06:09.1966839+00:00",
+      "NumProgressed": 432485,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -15863,7 +15874,7 @@
       "Name": "Lucky",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 12974
+      "UsersEstimate": 12975
     },
     {
       "ID": "ACH_MOUNT_AND_GUN",
@@ -15967,7 +15978,7 @@
       "Name": "Stylin\u0027",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 12974
+      "UsersEstimate": 12975
     },
     {
       "ID": "ACH_THANKS_STATION",
@@ -15991,7 +16002,7 @@
       "Name": "Turf War",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 12974
+      "UsersEstimate": 12975
     },
     {
       "ID": "ACH_WALLBANGER",
@@ -16014,15 +16025,15 @@
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 432475,
+      "Progressed": 432485,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
-  "LastChanged": "2023-08-13T18:59:32.5041008+00:00",
-  "LastChanged_Achievements": "2023-08-14T10:06:44.2238328+00:00",
+  "LastChanged": "2023-08-14T10:59:14.6308898+00:00",
+  "LastChanged_Achievements": "2023-08-14T11:06:09.1966832+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:41.0153429+00:00",
-  "LastUpdate_Ratings": "2023-08-14T09:59:34.3018883+00:00",
-  "LastUpdate_Achievements": "2023-08-14T10:06:44.2239361+00:00"
+  "LastUpdate_Ratings": "2023-08-14T10:59:14.6308904+00:00",
+  "LastUpdate_Achievements": "2023-08-14T11:06:09.1967928+00:00"
 }

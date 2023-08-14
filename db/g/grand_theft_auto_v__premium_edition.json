@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 3,
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 361,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 360,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2020-05-14T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -7196,10 +7196,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 1657159,
       "NumberOfAwardsMax": 211938
+    },
+    {
+      "Time": "2023-08-14T10:57:35.6847852+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1658091,
+      "NumberOfAwardsMax": 211938
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1657159,
+  "NumberOfAwards": 1658091,
   "NumberOfAwardsMax": 211938,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7225,7 +7231,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 175709
+      "Count": 176044
     },
     {
       "Text": "This game is Extremely Fun",
@@ -7243,13 +7249,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 182086
+      "Count": 182392
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 170949
+      "Count": 171240
     },
     {
       "Text": "This game has Competitive Players",
@@ -7275,8 +7281,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:49.586898+00:00",
-  "LastChanged": "2023-08-14T09:57:33.5100166+00:00",
+  "LastChanged": "2023-08-14T10:57:35.6847851+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:14.0844944+00:00",
-  "LastUpdate_Ratings": "2023-08-14T09:57:33.5100172+00:00",
-  "LastUpdate_Achievements": "2023-08-14T10:07:09.2332749+00:00"
+  "LastUpdate_Ratings": "2023-08-14T10:57:35.6847857+00:00",
+  "LastUpdate_Achievements": "2023-08-14T11:06:29.3780764+00:00"
 }

@@ -35,7 +35,7 @@
 | Intriguing candies | 57.00% | ~142 |
 | Legal courier | 54.00% | ~134 |
 | Extreme neuropower! | 54.00% | ~134 |
-| Escaped from a big trouble | 51.00% | ~127 |
+| Escaped from a big trouble | 52.00% | ~129 |
 | Now you are worthy | 48.00% | ~120 |
 | No blades in the gym | 45.00% | ~112 |
 | Guiding on the right path | 45.00% | ~112 |
@@ -54,15 +54,15 @@
 | Seashell hunter | 35.00% | ~87 |
 | Gang wrangler | 33.00% | ~82 |
 | Problems of cyborgs | 33.00% | ~82 |
+| Absolute Champion! | 33.00% | ~82 |
 | Undercover robot | 33.00% | ~82 |
-| Absolute Champion! | 32.00% | ~80 |
+| Another world | 31.00% | ~77 |
 | The lonesome road | 31.00% | ~77 |
 | Key memories | 31.00% | ~77 |
 | Not little hacker | 31.00% | ~77 |
 | Careerist | 31.00% | ~77 |
 | The heart of the Resistance | 31.00% | ~77 |
 | Trap disarmed | 30.00% | ~75 |
-| Another world | 30.00% | ~75 |
 | Keep nature safe | 30.00% | ~75 |
 | Family comes first | 30.00% | ~75 |
 | The last bell ring | 30.00% | ~75 |

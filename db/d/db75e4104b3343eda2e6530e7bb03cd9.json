@@ -4,8 +4,8 @@
   "ProductSlug": "prince-of-persia-the-forgotten-sands",
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 361,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 360,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-08-03T15:00:00+00:00",
     "PcReleaseDate": "2010-06-08T15:00:00+00:00",
@@ -31,6 +31,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-09T01:52:39.5670978+00:00",
   "LastUpdate_AppInfo": "2023-08-10T16:57:17.1782326+00:00",
-  "LastUpdate_Ratings": "2023-08-14T09:57:43.8500847+00:00",
-  "LastUpdate_Achievements": "2023-08-14T10:03:19.300008+00:00"
+  "LastUpdate_Ratings": "2023-08-14T10:57:43.4089155+00:00",
+  "LastUpdate_Achievements": "2023-08-14T11:03:24.3928104+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
     "PcReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -1292,9 +1292,9 @@
       "ID": "HOTWIRE_FIRST_OBJECT",
       "SetID": "kakdpn",
       "Name": "Who Needs Keys?",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 1747
+      "UsersEstimate": 1783
     },
     {
       "ID": "LOOSE_MONEY_FROM_SINK_OR_SWIM",
@@ -1389,8 +1389,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-05-28T21:59:31.5873025+00:00",
-  "LastChanged_Achievements": "2023-08-14T10:05:16.4574512+00:00",
+  "LastChanged_Achievements": "2023-08-14T11:04:54.3695833+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:13.1590084+00:00",
-  "LastUpdate_Ratings": "2023-08-14T10:01:07.7322251+00:00",
-  "LastUpdate_Achievements": "2023-08-14T10:05:16.4574779+00:00"
+  "LastUpdate_Ratings": "2023-08-14T11:00:26.5422867+00:00",
+  "LastUpdate_Achievements": "2023-08-14T11:04:54.3696076+00:00"
 }

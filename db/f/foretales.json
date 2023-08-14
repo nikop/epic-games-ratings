@@ -4,8 +4,8 @@
   "ProductSlug": "foretales-d6c5bd",
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 361,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 360,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-09-15T13:00:00+00:00",
     "PcReleaseDate": "2022-09-15T13:00:00+00:00",
@@ -420,9 +420,9 @@
       "ID": "theNovice",
       "SetID": "5bkacmp",
       "Name": "A gift horse",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 68
     },
     {
       "ID": "thePirate",
@@ -493,8 +493,8 @@
   "FirstSeenRating": "2023-03-31T05:57:28.0245429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.9795214+00:00",
   "LastChanged": "2023-03-31T05:57:28.024543+00:00",
-  "LastChanged_Achievements": "2023-08-14T10:03:25.7202208+00:00",
+  "LastChanged_Achievements": "2023-08-14T11:03:29.8118748+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:11.8289471+00:00",
-  "LastUpdate_Ratings": "2023-08-14T09:57:50.0039404+00:00",
-  "LastUpdate_Achievements": "2023-08-14T10:03:25.7202548+00:00"
+  "LastUpdate_Ratings": "2023-08-14T10:57:48.2365627+00:00",
+  "LastUpdate_Achievements": "2023-08-14T11:03:29.8119075+00:00"
 }

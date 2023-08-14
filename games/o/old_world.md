@@ -74,10 +74,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mythology | 0.80% | ~107 |
 | Points Victory | 0.80% | ~107 |
 | Beloved | 0.70% | ~94 |
+| Conqueror | 0.70% | ~94 |
 | Champions | 0.70% | ~94 |
 | Building Wonders | 0.70% | ~94 |
 | Hanging Gardens in Babylon | 0.60% | ~80 |
-| Conqueror | 0.60% | ~80 |
 | Lion | 0.60% | ~80 |
 | Mighty | 0.60% | ~80 |
 | Victorious | 0.60% | ~80 |

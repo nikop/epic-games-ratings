@@ -3,9 +3,9 @@
   "Name": "Match Village",
   "ProductSlug": "match-village-5f41dd",
   "Ranking_EOS_Progress": 249,
-  "Ranking_EOS_Completed": 83,
-  "Ranking_EOS_NewPlayers": 269,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_Completed": 76,
+  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2023-06-01T13:00:00+00:00",
     "PcReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 344,
-  "EOS_Completed": 8,
+  "EOS_Completed": 9,
   "EOS_NewPlayers": 3,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.33,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 2.62,
   "EosHistory": [
     {
       "Time": "2023-05-18T11:00:53.5227902+00:00",
@@ -1036,6 +1036,11 @@
       "Time": "2023-08-13T18:06:46.1402232+00:00",
       "NumProgressed": 344,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-08-14T11:05:53.6505259+00:00",
+      "NumProgressed": 344,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 24,
@@ -1117,9 +1122,9 @@
       "ID": "fun!",
       "SetID": "ap7g2g4",
       "Name": "Fun!",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 80,
-      "UsersEstimate": 24
+      "UsersEstimate": 28
     },
     {
       "ID": "hope_farm",
@@ -1239,13 +1244,13 @@
       "ID": "ap7g2g4",
       "IsBase": true,
       "Progressed": 344,
-      "Completed": 8
+      "Completed": 9
     }
   ],
   "FirstSeen": "2023-06-02T14:56:55.6252119+00:00",
   "FirstSeenAchievements": "2023-05-18T11:00:53.5255241+00:00",
-  "LastChanged_Achievements": "2023-08-14T10:06:25.4149484+00:00",
+  "LastChanged_Achievements": "2023-08-14T11:05:53.6505252+00:00",
   "LastUpdate_AppInfo": "2023-08-10T17:57:18.2210326+00:00",
-  "LastUpdate_Ratings": "2023-08-14T09:58:37.6027201+00:00",
-  "LastUpdate_Achievements": "2023-08-14T10:06:25.4149722+00:00"
+  "LastUpdate_Ratings": "2023-08-14T10:58:25.057465+00:00",
+  "LastUpdate_Achievements": "2023-08-14T11:05:53.6505479+00:00"
 }

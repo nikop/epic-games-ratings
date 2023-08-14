@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 34,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7547,
+  "EOS_Progressed": 7556,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2397,
+  "EOS_NewPlayers": 2402,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1907,6 +1907,11 @@
       "Time": "2023-08-14T10:06:37.4425862+00:00",
       "NumProgressed": 7547,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-14T11:06:03.4195179+00:00",
+      "NumProgressed": 7556,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -1959,7 +1964,7 @@
       "Name": "Doctor Approved",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 1208
+      "UsersEstimate": 1209
     },
     {
       "ID": "15",
@@ -1967,7 +1972,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 981
+      "UsersEstimate": 982
     },
     {
       "ID": "16",
@@ -1991,7 +1996,7 @@
       "Name": "Bottoms up!",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "19",
@@ -2007,7 +2012,7 @@
       "Name": "Data Logger",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "20",
@@ -2095,7 +2100,7 @@
       "Name": "Captain Drummer",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1132
+      "UsersEstimate": 1133
     },
     {
       "ID": "30",
@@ -2119,7 +2124,7 @@
       "Name": "Data Master",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "6",
@@ -2158,14 +2163,14 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 7547,
+      "Progressed": 7556,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged_Achievements": "2023-08-14T10:06:37.4425855+00:00",
+  "LastChanged_Achievements": "2023-08-14T11:06:03.4195169+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:56.6215488+00:00",
-  "LastUpdate_Ratings": "2023-08-14T10:00:49.2896999+00:00",
-  "LastUpdate_Achievements": "2023-08-14T10:06:37.4426197+00:00"
+  "LastUpdate_Ratings": "2023-08-14T11:00:13.1472322+00:00",
+  "LastUpdate_Achievements": "2023-08-14T11:06:03.4195518+00:00"
 }

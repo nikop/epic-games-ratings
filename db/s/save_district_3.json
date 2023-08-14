@@ -4,8 +4,8 @@
   "ProductSlug": "save-district-3-ad0130",
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 361,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 360,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-05-09T19:00:00+00:00",
     "PcReleaseDate": "2023-04-10T18:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-30T06:58:16.6624861+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:08.4410429+00:00",
-  "LastUpdate_Ratings": "2023-08-14T09:58:44.3097523+00:00",
-  "LastUpdate_Achievements": "2023-08-14T10:06:32.8443566+00:00"
+  "LastUpdate_Ratings": "2023-08-14T10:58:30.0053071+00:00",
+  "LastUpdate_Achievements": "2023-08-14T11:05:59.6940298+00:00"
 }

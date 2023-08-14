@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -1150,9 +1150,9 @@
       "ID": "ach_first_first_blood",
       "SetID": "cmg602e",
       "Name": "First Blood",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 146
+      "UsersEstimate": 148
     },
     {
       "ID": "ach_first_harvest",
@@ -1709,8 +1709,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-08-14T10:07:03.7926234+00:00",
+  "LastChanged_Achievements": "2023-08-14T11:06:25.2157854+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:01.056491+00:00",
-  "LastUpdate_Ratings": "2023-08-14T09:59:54.0346429+00:00",
-  "LastUpdate_Achievements": "2023-08-14T10:07:03.7927078+00:00"
+  "LastUpdate_Ratings": "2023-08-14T10:59:28.7979639+00:00",
+  "LastUpdate_Achievements": "2023-08-14T11:06:25.21587+00:00"
 }

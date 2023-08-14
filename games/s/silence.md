@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fire in the... nevermind | 50.00% | ~52 |
-| Chapter I | 49.00% | ~51 |
-| Haute cuisine | 44.00% | ~46 |
+| Fire in the... nevermind | 49.00% | ~52 |
+| Chapter I | 48.00% | ~51 |
+| Haute cuisine | 43.00% | ~46 |
 | I didn't do it! | 39.00% | ~41 |
 | Demolition expert | 36.00% | ~38 |
 | Wooooooow! | 35.00% | ~37 |
 | Artistic fool | 33.00% | ~35 |
 | Keep away from children | 33.00% | ~35 |
 | Open up wide | 30.00% | ~32 |
-| Chapter II | 30.00% | ~32 |
-| Let the boot talk | 29.00% | ~30 |
-| Achoo!! | 29.00% | ~30 |
-| Chapter III | 28.00% | ~29 |
-| Like a moth in the Wind | 28.00% | ~29 |
+| Chapter II | 29.00% | ~31 |
+| Let the boot talk | 28.00% | ~30 |
+| Achoo!! | 28.00% | ~30 |
+| Chapter III | 27.00% | ~29 |
+| Like a moth in the Wind | 27.00% | ~29 |
 | Bubblekillerfamily | 24.00% | ~25 |
 | Mirror mirror on the wall... | 24.00% | ~25 |
 | Quite a buggy game | 23.00% | ~24 |
@@ -32,11 +32,11 @@
 | Unfullfilled dreams | 14.00% | ~15 |
 | Nothing can stop me | 11.00% | ~12 |
 | Mumbo Jumbo | 11.00% | ~12 |
-| To err is human... | 10.00% | ~10 |
-| Useless but beautiful | 9.00% | ~9 |
-| Lollipop | 9.00% | ~9 |
-| It's nothing personal | 9.00% | ~9 |
+| To err is human... | 10.00% | ~11 |
+| Useless but beautiful | 8.00% | ~8 |
+| Lollipop | 8.00% | ~8 |
 | Where there is life, there is hope | 8.00% | ~8 |
+| It's nothing personal | 8.00% | ~8 |
 | Artistic master | 7.00% | ~7 |
 | Sadist | 6.00% | ~6 |
 | Fartjokes! | 6.00% | ~6 |
@@ -47,11 +47,11 @@
 | Summit attempt | 2.00% | ~2 |
 | Fine Listener | 2.00% | ~2 |
 | The Green, the Fat, the Ugly | 2.00% | ~2 |
-| Sherlock Holmes | 1.00% | ~1 |
-| Done. First! | 1.00% | ~1 |
-| Do not feed the fish! | 1.00% | ~1 |
+| Sherlock Holmes | 0.90% | ~1 |
+| Done. First! | 0.90% | ~1 |
+| Do not feed the fish! | 0.90% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 105 (Ranked 318)  
+Progressed: 106 (Ranked 318)  
 Completed: 0 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,7 +69,7 @@ Completed: 0 (0.00%) (Ranked 255)
 | 2023-08-11 | 100 | 0 |
 | 2023-08-12 | 102 | 0 |
 | 2023-08-13 | 104 | 0 |
-| 2023-08-14 | 105 | 0 |
+| 2023-08-14 | 106 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

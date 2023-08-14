@@ -4,8 +4,8 @@
   "ProductSlug": "assassins-creed-mirage",
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 361,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 360,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-10-12T11:00:00+00:00",
     "PcReleaseDate": "2023-10-12T11:00:00+00:00",
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-12T06:58:31.9582052+00:00",
-  "LastUpdate_Ratings": "2023-08-14T10:00:26.0360051+00:00",
-  "LastUpdate_Achievements": "2023-08-14T10:04:08.1506799+00:00"
+  "LastUpdate_Ratings": "2023-08-14T10:59:53.0754177+00:00",
+  "LastUpdate_Achievements": "2023-08-14T11:03:57.0040946+00:00"
 }

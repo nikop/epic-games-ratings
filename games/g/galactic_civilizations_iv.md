@@ -26,9 +26,9 @@ Number of Ratings: 429  (23.09.2022)
 | Gain an Ally | 6.00% | ~381 |
 | Win with a Custom Faction | 6.00% | ~381 |
 | War with the Unknown | 5.00% | ~318 |
+| Win Quickly | 5.00% | ~318 |
 | Conquest Victory! | 4.00% | ~254 |
 | Win an Immense Game | 4.00% | ~254 |
-| Win Quickly | 4.00% | ~254 |
 | Pirate Cleansing | 3.00% | ~191 |
 | Artifact Mastery | 2.00% | ~127 |
 | Win as Altarians | 2.00% | ~127 |

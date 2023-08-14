@@ -9,16 +9,16 @@ Number of Ratings: 12,664  (23.09.2022)
 | Sponsored by Argon | 1.00% | ~1,345 |
 | Basic in Bulk | 1.00% | ~1,345 |
 | Titan's First Steps | 1.00% | ~1,345 |
-| Tinkle of Coins | 0.90% | ~1,210 |
-| Disintermediation | 0.70% | ~941 |
-| It's Free Real Estate | 0.70% | ~941 |
-| Capitalism Ho! | 0.70% | ~941 |
+| Tinkle of Coins | 0.90% | ~1,211 |
+| Disintermediation | 0.70% | ~942 |
+| It's Free Real Estate | 0.70% | ~942 |
+| Capitalism Ho! | 0.70% | ~942 |
 | Another Satisfied Customer | 0.60% | ~807 |
 | Budding Merchant | 0.60% | ~807 |
-| One Easy Payment | 0.50% | ~672 |
-| Some Assembly Required | 0.50% | ~672 |
-| Pretty Penny | 0.50% | ~672 |
-| Own the Means of Production | 0.50% | ~672 |
+| One Easy Payment | 0.50% | ~673 |
+| Some Assembly Required | 0.50% | ~673 |
+| Pretty Penny | 0.50% | ~673 |
+| Own the Means of Production | 0.50% | ~673 |
 | The Daily Grind | 0.40% | ~538 |
 | Bounty Hunters | 0.40% | ~538 |
 | Demand for Supplies | 0.40% | ~538 |
@@ -27,22 +27,22 @@ Number of Ratings: 12,664  (23.09.2022)
 | One-Armed Bandit | 0.40% | ~538 |
 | Dungeon Imports | 0.40% | ~538 |
 | Through Repetition, Perfection | 0.40% | ~538 |
-| On the Path to Greatness | 0.30% | ~403 |
-| Ascended | 0.30% | ~403 |
-| Research & Development | 0.30% | ~403 |
-| Vanity, Verily | 0.30% | ~403 |
-| Fated Encounters | 0.30% | ~403 |
-| Blank Page Syndrome | 0.30% | ~403 |
-| Power of Love | 0.30% | ~403 |
-| Efficient Floor Space | 0.30% | ~403 |
-| Flawless Fusion | 0.30% | ~403 |
-| Gem Expert | 0.30% | ~403 |
-| Gild-Gotten Goods | 0.30% | ~403 |
-| Helping Hand | 0.30% | ~403 |
-| Accomplished Merchant | 0.30% | ~403 |
-| Natural 20 | 0.30% | ~403 |
-| Did we pack lunch? | 0.30% | ~403 |
-| Arcane Industries | 0.30% | ~403 |
+| On the Path to Greatness | 0.30% | ~404 |
+| Ascended | 0.30% | ~404 |
+| Research & Development | 0.30% | ~404 |
+| Vanity, Verily | 0.30% | ~404 |
+| Fated Encounters | 0.30% | ~404 |
+| Blank Page Syndrome | 0.30% | ~404 |
+| Power of Love | 0.30% | ~404 |
+| Efficient Floor Space | 0.30% | ~404 |
+| Flawless Fusion | 0.30% | ~404 |
+| Gem Expert | 0.30% | ~404 |
+| Gild-Gotten Goods | 0.30% | ~404 |
+| Helping Hand | 0.30% | ~404 |
+| Accomplished Merchant | 0.30% | ~404 |
+| Natural 20 | 0.30% | ~404 |
+| Did we pack lunch? | 0.30% | ~404 |
+| Arcane Industries | 0.30% | ~404 |
 | A Notch Above the Rest | 0.20% | ~269 |
 | Cream of the Crop | 0.20% | ~269 |
 | Top of the World | 0.20% | ~269 |
@@ -92,34 +92,34 @@ Number of Ratings: 12,664  (23.09.2022)
 | Special Ingredient | 0.20% | ~269 |
 | Exotic Commodities | 0.20% | ~269 |
 | Complete Monopoly | 0.20% | ~269 |
-| Constellated | 0.10% | ~134 |
-| Bane of Legends | 0.10% | ~134 |
-| The Free Encyclopedia | 0.10% | ~134 |
-| Ultimate Collector | 0.10% | ~134 |
-| Fillin' the Bin | 0.10% | ~134 |
-| Oligarch Monarch | 0.10% | ~134 |
-| Unleashed Potential | 0.10% | ~134 |
-| Thank You Tom Nook | 0.10% | ~134 |
-| By Your Powers Combined... | 0.10% | ~134 |
-| A Legend is Born | 0.10% | ~134 |
-| Capitalist Camaraderie | 0.10% | ~134 |
-| Necromancer Queen | 0.10% | ~134 |
-| Jackpot! | 0.10% | ~134 |
-| JACKPOT!!! | 0.10% | ~134 |
-| Merchant Extraordinaire | 0.10% | ~134 |
-| Anything not Nailed Down | 0.10% | ~134 |
-| The Greatest Grind | 0.10% | ~134 |
-| All or Nothing! | 0.10% | ~134 |
-| Eternal Crusade | 0.10% | ~134 |
-| To Hell and Back | 0.10% | ~134 |
-| Marvels from the World Over | 0.10% | ~134 |
-| Cash Only Please | 0.10% | ~134 |
-| Master Recycler | 0.10% | ~134 |
-| All Accounted For | 0.10% | ~134 |
-| Economy of Scarce | 0.10% | ~134 |
-| King's Blade | 0.10% | ~134 |
+| Constellated | 0.10% | ~135 |
+| Bane of Legends | 0.10% | ~135 |
+| The Free Encyclopedia | 0.10% | ~135 |
+| Ultimate Collector | 0.10% | ~135 |
+| Fillin' the Bin | 0.10% | ~135 |
+| Oligarch Monarch | 0.10% | ~135 |
+| Unleashed Potential | 0.10% | ~135 |
+| Thank You Tom Nook | 0.10% | ~135 |
+| By Your Powers Combined... | 0.10% | ~135 |
+| A Legend is Born | 0.10% | ~135 |
+| Capitalist Camaraderie | 0.10% | ~135 |
+| Necromancer Queen | 0.10% | ~135 |
+| Jackpot! | 0.10% | ~135 |
+| JACKPOT!!! | 0.10% | ~135 |
+| Merchant Extraordinaire | 0.10% | ~135 |
+| Anything not Nailed Down | 0.10% | ~135 |
+| The Greatest Grind | 0.10% | ~135 |
+| All or Nothing! | 0.10% | ~135 |
+| Eternal Crusade | 0.10% | ~135 |
+| To Hell and Back | 0.10% | ~135 |
+| Marvels from the World Over | 0.10% | ~135 |
+| Cash Only Please | 0.10% | ~135 |
+| Master Recycler | 0.10% | ~135 |
+| All Accounted For | 0.10% | ~135 |
+| Economy of Scarce | 0.10% | ~135 |
+| King's Blade | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,498 (Ranked 66)  
+Progressed: 134,501 (Ranked 66)  
 Completed: 132 (0.10%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,11 +235,11 @@ Completed: 132 (0.10%) (Ranked 203)
 | 2023-08-11 | 134,354 | 132 |
 | 2023-08-12 | 134,413 | 132 |
 | 2023-08-13 | 134,471 | 132 |
-| 2023-08-14 | 134,498 | 132 |
+| 2023-08-14 | 134,501 | 132 |
 ## Awards
 Max (Great for Beginners): 4,700  (Ranked 71)  
-Sum: 27,093 (Ranked 46)  
-Diff (max vs sum): 25  
+Sum: 27,093 (Ranked 47)  
+Diff (max vs sum): 24  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,700 |
