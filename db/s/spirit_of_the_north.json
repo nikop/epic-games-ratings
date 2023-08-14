@@ -324,9 +324,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 65492,
+  "EOS_Progressed": 65493,
   "EOS_Completed": 345,
-  "EOS_NewPlayers": 691,
+  "EOS_NewPlayers": 689,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -12749,6 +12749,11 @@
       "Time": "2023-08-14T03:05:04.6771579+00:00",
       "NumProgressed": 65492,
       "NumCompleted": 345
+    },
+    {
+      "Time": "2023-08-14T04:05:31.7440994+00:00",
+      "NumProgressed": 65493,
+      "NumCompleted": 345
     }
   ],
   "TotalAchievements": 24,
@@ -12768,7 +12773,7 @@
       "Name": "AWAKEN",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 13753
+      "UsersEstimate": 13754
     },
     {
       "ID": "A_GUARDIAN_FORGOTTEN",
@@ -12800,7 +12805,7 @@
       "Name": "ERADICATE",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 13753
+      "UsersEstimate": 13754
     },
     {
       "ID": "FETCH",
@@ -12856,7 +12861,7 @@
       "Name": "MATCH MAKER",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 4584
+      "UsersEstimate": 4585
     },
     {
       "ID": "NONE_FORGOTTEN",
@@ -12872,7 +12877,7 @@
       "Name": "NORTHERN LIGHTS",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 4584
+      "UsersEstimate": 4585
     },
     {
       "ID": "OLD_COMPANION",
@@ -12904,7 +12909,7 @@
       "Name": "SPIRIT BARK",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 13753
+      "UsersEstimate": 13754
     },
     {
       "ID": "SPIRIT_DASH",
@@ -12951,7 +12956,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 65492,
+      "Progressed": 65493,
       "Completed": 345
     }
   ],
@@ -12959,8 +12964,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-08-14T03:05:04.6771573+00:00",
+  "LastChanged_Achievements": "2023-08-14T04:05:31.7440989+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:14.4759947+00:00",
-  "LastUpdate_Ratings": "2023-08-14T03:01:25.7291919+00:00",
-  "LastUpdate_Achievements": "2023-08-14T03:05:04.6772629+00:00"
+  "LastUpdate_Ratings": "2023-08-14T04:01:52.4162388+00:00",
+  "LastUpdate_Achievements": "2023-08-14T04:05:31.7442585+00:00"
 }

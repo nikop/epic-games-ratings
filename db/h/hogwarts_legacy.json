@@ -6172,10 +6172,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 40951,
       "NumberOfAwardsMax": 21738
+    },
+    {
+      "Time": "2023-08-14T03:59:20.2360641+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 40954,
+      "NumberOfAwardsMax": 21738
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 40951,
+  "NumberOfAwards": 40954,
   "NumberOfAwardsMax": 21738,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6237,7 +6243,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 929
+      "Count": 932
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -6252,7 +6258,7 @@
       "Count": 584
     }
   ],
-  "EOS_Progressed": 290052,
+  "EOS_Progressed": 290055,
   "EOS_Completed": 451,
   "EOS_NewPlayers": 493,
   "EOS_NewCompleters": 9,
@@ -18702,6 +18708,11 @@
       "Time": "2023-08-14T03:06:49.5903974+00:00",
       "NumProgressed": 290052,
       "NumCompleted": 451
+    },
+    {
+      "Time": "2023-08-14T04:07:17.6364928+00:00",
+      "NumProgressed": 290055,
+      "NumCompleted": 451
     }
   ],
   "TotalAchievements": 45,
@@ -18713,7 +18724,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 34806
+      "UsersEstimate": 34807
     },
     {
       "ID": "PFA_10",
@@ -18833,7 +18844,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 29005
+      "UsersEstimate": 29006
     },
     {
       "ID": "PFA_24",
@@ -19057,7 +19068,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 29005
+      "UsersEstimate": 29006
     },
     {
       "ID": "PFA_9",
@@ -19072,16 +19083,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 290052,
+      "Progressed": 290055,
       "Completed": 451
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-08-13T23:58:56.9194424+00:00",
-  "LastChanged_Achievements": "2023-08-14T03:06:49.5903968+00:00",
+  "LastChanged": "2023-08-14T03:59:20.2360639+00:00",
+  "LastChanged_Achievements": "2023-08-14T04:07:17.6364922+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:17.4814985+00:00",
-  "LastUpdate_Ratings": "2023-08-14T02:58:56.9214266+00:00",
-  "LastUpdate_Achievements": "2023-08-14T03:06:49.5905085+00:00"
+  "LastUpdate_Ratings": "2023-08-14T03:59:20.2360645+00:00",
+  "LastUpdate_Achievements": "2023-08-14T04:07:17.6366292+00:00"
 }

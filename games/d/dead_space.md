@@ -3,12 +3,12 @@
 [View Rawdata](../../db/d/dead_space.json)  
 Rating: 4.61 (Ranked 364)  
 ## Awards
-Max (Great Boss Battles): 86  (Ranked 355)  
-Sum: 86 (Ranked 421)  
-Diff (max vs sum): -66  
+Max (Great Boss Battles): 87  (Ranked 354)  
+Sum: 87 (Ranked 421)  
+Diff (max vs sum): -67  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 86 |
+| This game has Great Boss Battles | 87 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -99,3 +99,4 @@ Diff (max vs sum): -66
 | 2023-08-08 | 4.61 | 86 | 86 |
 | 2023-08-09 | 4.60 | 86 | 86 |
 | 2023-08-12 | 4.61 | 86 | 86 |
+| 2023-08-14 | 4.61 | 87 | 87 |

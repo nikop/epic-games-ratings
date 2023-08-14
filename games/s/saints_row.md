@@ -6,22 +6,22 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 42.00% | ~25,871 |
-| To The Nines | 38.00% | ~23,407 |
-| Optimized | 33.00% | ~20,327 |
-| Performance Review | 33.00% | ~20,327 |
-| Making a Name | 31.00% | ~19,095 |
-| Tune Up | 30.00% | ~18,479 |
-| Wet Work | 29.00% | ~17,863 |
-| Landlord | 29.00% | ~17,863 |
-| The Side Job | 28.00% | ~17,247 |
-| Wrecking Ball | 25.00% | ~15,399 |
-| Food for Thought | 25.00% | ~15,399 |
-| Finders Keepers | 23.00% | ~14,167 |
-| A Young Empire | 23.00% | ~14,167 |
-| Work Ethic | 21.00% | ~12,935 |
-| Power Players | 17.00% | ~10,471 |
-| Picking Fights | 17.00% | ~10,471 |
+| First F#@!ing Day | 42.00% | ~25,872 |
+| To The Nines | 38.00% | ~23,408 |
+| Optimized | 33.00% | ~20,328 |
+| Performance Review | 33.00% | ~20,328 |
+| Making a Name | 31.00% | ~19,096 |
+| Tune Up | 30.00% | ~18,480 |
+| Wet Work | 29.00% | ~17,864 |
+| Landlord | 29.00% | ~17,864 |
+| The Side Job | 28.00% | ~17,248 |
+| Wrecking Ball | 25.00% | ~15,400 |
+| Food for Thought | 25.00% | ~15,400 |
+| Finders Keepers | 23.00% | ~14,168 |
+| A Young Empire | 23.00% | ~14,168 |
+| Work Ethic | 21.00% | ~12,936 |
+| Power Players | 17.00% | ~10,472 |
+| Picking Fights | 17.00% | ~10,472 |
 | Quality Time | 16.00% | ~9,856 |
 | Showdown | 15.00% | ~9,240 |
 | Et tu? | 15.00% | ~9,240 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.20% | ~123 |
 | Fiesta Time | 0.20% | ~123 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,597 (Ranked 84)  
+Progressed: 61,601 (Ranked 84)  
 Completed: 36 (0.06%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,7 +176,7 @@ Completed: 36 (0.06%) (Ranked 214)
 | 2023-08-11 | 61,128 | 35 |
 | 2023-08-12 | 61,325 | 35 |
 | 2023-08-13 | 61,564 | 36 |
-| 2023-08-14 | 61,597 | 36 |
+| 2023-08-14 | 61,601 | 36 |
 ## Awards
 Max (Extremely Fun): 1,054  (Ranked 140)  
 Sum: 8,563 (Ranked 95)  

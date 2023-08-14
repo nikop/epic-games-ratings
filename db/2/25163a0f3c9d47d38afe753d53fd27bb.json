@@ -4,7 +4,7 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 23,
-  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 667,
+  "EOS_Progressed": 668,
   "EOS_Completed": 74,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 11.09,
+  "EOS_Completed_Percentage": 11.08,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -2221,6 +2221,11 @@
       "Time": "2023-08-12T06:07:07.3380522+00:00",
       "NumProgressed": 667,
       "NumCompleted": 74
+    },
+    {
+      "Time": "2023-08-14T04:08:39.4374271+00:00",
+      "NumProgressed": 668,
+      "NumCompleted": 74
     }
   ],
   "TotalAchievements": 30,
@@ -2232,7 +2237,7 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 640
+      "UsersEstimate": 641
     },
     {
       "ID": "LEVEL_002",
@@ -2240,7 +2245,7 @@
       "Name": "Promising crop",
       "Percentage": 82,
       "XP": 15,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "LEVEL_003",
@@ -2248,7 +2253,7 @@
       "Name": "A horse in the country",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "LEVEL_004",
@@ -2264,7 +2269,7 @@
       "Name": "Small village",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "LEVEL_006",
@@ -2272,7 +2277,7 @@
       "Name": "Nothing like fresh food",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "LEVEL_007",
@@ -2288,7 +2293,7 @@
       "Name": "Let\u0027s go to the market",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "LEVEL_009",
@@ -2320,7 +2325,7 @@
       "Name": "Vegetables on rails",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "LEVEL_013",
@@ -2336,7 +2341,7 @@
       "Name": "Cross-country",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "LEVEL_015",
@@ -2471,14 +2476,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 667,
+      "Progressed": 668,
       "Completed": 74
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-08-14T03:08:10.4140031+00:00",
+  "LastChanged_Achievements": "2023-08-14T04:08:39.4374264+00:00",
   "LastUpdate_AppInfo": "2023-08-07T18:57:04.1262729+00:00",
-  "LastUpdate_Ratings": "2023-08-14T02:58:34.8911592+00:00",
-  "LastUpdate_Achievements": "2023-08-14T03:08:10.4140344+00:00"
+  "LastUpdate_Ratings": "2023-08-14T03:58:58.5987247+00:00",
+  "LastUpdate_Achievements": "2023-08-14T04:08:39.4374602+00:00"
 }

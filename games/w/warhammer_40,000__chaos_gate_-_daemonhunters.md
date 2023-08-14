@@ -15,10 +15,10 @@ Number of Ratings: 371  (23.09.2022)
 | Blood for the Blood God! | 2.00% | ~63 |
 | Friendly Fire | 2.00% | ~63 |
 | Bloodless | 2.00% | ~63 |
+| A Foul Creche | 2.00% | ~63 |
 | Honoured Battle-Brother | 1.00% | ~31 |
 | Surgical Excision | 1.00% | ~31 |
 | The Emperor Protects | 1.00% | ~31 |
-| A Foul Creche | 1.00% | ~31 |
 | Nemesis Master | 0.90% | ~28 |
 | Gunmaster | 0.90% | ~28 |
 | Hold Your Ground | 0.80% | ~25 |

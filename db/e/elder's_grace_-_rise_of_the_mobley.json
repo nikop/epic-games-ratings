@@ -4,8 +4,8 @@
   "ProductSlug": "eldersgrace-333b83",
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 361,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 362,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2024-03-31T00:00:00+00:00",
     "PcReleaseDate": "2024-03-31T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-12T05:57:10.0117678+00:00",
-  "LastUpdate_Ratings": "2023-08-14T02:58:44.1121135+00:00",
-  "LastUpdate_Achievements": "2023-08-14T03:04:55.7643898+00:00"
+  "LastUpdate_Ratings": "2023-08-14T03:59:07.3216857+00:00",
+  "LastUpdate_Achievements": "2023-08-14T04:05:22.944747+00:00"
 }

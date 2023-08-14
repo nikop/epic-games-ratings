@@ -153,6 +153,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Run, Pheidippides, Run! | 0.20% | ~27 |
 | Nenikekamen | 0.20% | ~27 |
 | Learn to Play 5 | 0.20% | ~27 |
+| Assyria | 0.20% | ~27 |
 | Hatti | 0.20% | ~27 |
 | Persia | 0.20% | ~27 |
 | Pantheon of Gods | 0.20% | ~27 |
@@ -247,7 +248,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pyramids in Menefer | 0.10% | ~13 |
 | Merchants of the Levant | 0.10% | ~13 |
 | Realistic Mortality | 0.10% | ~13 |
-| Assyria | 0.10% | ~13 |
 | Apadana in Parsa | 0.10% | ~13 |
 | Play a 1-v-1 Game | 0.10% | ~13 |
 | Play a Hotseat Game | 0.10% | ~13 |

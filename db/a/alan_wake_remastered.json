@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,7 +512,7 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 60827,
+  "EOS_Progressed": 60829,
   "EOS_Completed": 64,
   "EOS_NewPlayers": 401,
   "EOS_NewCompleters": 0,
@@ -11197,6 +11197,11 @@
       "Time": "2023-08-14T03:06:15.5001471+00:00",
       "NumProgressed": 60827,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-14T04:06:43.5231543+00:00",
+      "NumProgressed": 60829,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -11208,7 +11213,7 @@
       "Name": "Follow the Light",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 22506
+      "UsersEstimate": 22507
     },
     {
       "ID": "02",
@@ -11216,7 +11221,7 @@
       "Name": "Nordic Walking",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 13990
+      "UsersEstimate": 13991
     },
     {
       "ID": "03",
@@ -11240,7 +11245,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 12165
+      "UsersEstimate": 12166
     },
     {
       "ID": "06",
@@ -11248,7 +11253,7 @@
       "Name": "Park Ranger",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 9732
+      "UsersEstimate": 9733
     },
     {
       "ID": "07",
@@ -11480,7 +11485,7 @@
       "Name": "Let There Be Light",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 18248
+      "UsersEstimate": 18249
     },
     {
       "ID": "36",
@@ -11520,7 +11525,7 @@
       "Name": "Right of Way",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5474
+      "UsersEstimate": 5475
     },
     {
       "ID": "41",
@@ -11544,7 +11549,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 9732
+      "UsersEstimate": 9733
     },
     {
       "ID": "44",
@@ -11743,21 +11748,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 60827,
+      "Progressed": 60829,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 24295,
+      "Progressed": 24297,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-14T03:06:15.5001465+00:00",
+  "LastChanged_Achievements": "2023-08-14T04:06:43.5231537+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:20.2881971+00:00",
-  "LastUpdate_Ratings": "2023-08-14T02:59:16.4513011+00:00",
-  "LastUpdate_Achievements": "2023-08-14T03:06:15.5002523+00:00"
+  "LastUpdate_Ratings": "2023-08-14T03:59:37.8049311+00:00",
+  "LastUpdate_Achievements": "2023-08-14T04:06:43.5232669+00:00"
 }
