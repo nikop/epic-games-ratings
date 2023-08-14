@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 60838,
+  "EOS_Progressed": 60839,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 388,
+  "EOS_NewPlayers": 386,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -11222,6 +11222,11 @@
       "Time": "2023-08-14T13:09:19.6850671+00:00",
       "NumProgressed": 60838,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-14T14:06:34.318301+00:00",
+      "NumProgressed": 60839,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -11249,7 +11254,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 13384
+      "UsersEstimate": 13385
     },
     {
       "ID": "04",
@@ -11505,7 +11510,7 @@
       "Name": "Let There Be Light",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 18251
+      "UsersEstimate": 18252
     },
     {
       "ID": "36",
@@ -11545,7 +11550,7 @@
       "Name": "Right of Way",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5475
+      "UsersEstimate": 5476
     },
     {
       "ID": "41",
@@ -11633,7 +11638,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1944
+      "UsersEstimate": 1945
     },
     {
       "ID": "52",
@@ -11768,21 +11773,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 60838,
+      "Progressed": 60839,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 24306,
+      "Progressed": 24307,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-14T13:09:19.6850667+00:00",
+  "LastChanged_Achievements": "2023-08-14T14:06:34.3183004+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:20.2881971+00:00",
-  "LastUpdate_Ratings": "2023-08-14T13:02:37.7381952+00:00",
-  "LastUpdate_Achievements": "2023-08-14T13:09:19.6852077+00:00"
+  "LastUpdate_Ratings": "2023-08-14T13:59:39.9182545+00:00",
+  "LastUpdate_Achievements": "2023-08-14T14:06:34.3184559+00:00"
 }

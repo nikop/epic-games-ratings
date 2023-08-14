@@ -4,8 +4,8 @@
   "ProductSlug": "horse-club-adventures-2-hazelwood-stories-b257d3",
   "Ranking_EOS_Progress": 414,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-07-06T10:00:00+00:00",
     "PcReleaseDate": "2022-10-27T11:00:00+00:00",
@@ -150,9 +150,9 @@
       "ID": "ACH_04_NIGHT_BENEATH_STARS",
       "SetID": "9loam6m",
       "Name": "Night beneath the stars",
-      "Percentage": 28,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_05_HERDS_OF_HORSES",
@@ -414,25 +414,25 @@
       "ID": "ACH_37_UP_IN_THE_MOUNTAINS",
       "SetID": "9loam6m",
       "Name": "Up in the mountains",
-      "Percentage": 28,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_38_WELL_HIDDEN",
       "SetID": "9loam6m",
       "Name": "Well hidden!",
-      "Percentage": 44,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_39_TENS_AT_THE_LAKE",
       "SetID": "9loam6m",
       "Name": "Tents at the lake",
-      "Percentage": 33,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_40_GLOBETROTTER",
@@ -469,8 +469,8 @@
   ],
   "FirstSeen": "2023-07-23T11:57:26.6885781+00:00",
   "FirstSeenAchievements": "2023-07-05T11:01:11.7064759+00:00",
-  "LastChanged_Achievements": "2023-08-14T13:09:29.1785411+00:00",
+  "LastChanged_Achievements": "2023-08-14T14:06:47.388044+00:00",
   "LastUpdate_AppInfo": "2023-08-09T15:57:04.3579504+00:00",
-  "LastUpdate_Ratings": "2023-08-14T13:01:56.9482559+00:00",
-  "LastUpdate_Achievements": "2023-08-14T13:09:29.1785771+00:00"
+  "LastUpdate_Ratings": "2023-08-14T13:58:40.0516173+00:00",
+  "LastUpdate_Achievements": "2023-08-14T14:06:47.3880788+00:00"
 }

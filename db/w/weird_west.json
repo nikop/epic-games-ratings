@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 178,
   "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -331,9 +331,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 1802,
+  "EOS_Progressed": 1803,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -1821,6 +1821,11 @@
       "Time": "2023-08-14T01:42:29.7020257+00:00",
       "NumProgressed": 1802,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-14T14:03:14.9877216+00:00",
+      "NumProgressed": 1803,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -1840,7 +1845,7 @@
       "Name": "Dead or Alive",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 1009
+      "UsersEstimate": 1010
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -1856,7 +1861,7 @@
       "Name": "Dishonored",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "ACH_DOG_DAYS",
@@ -1984,7 +1989,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 1081
+      "UsersEstimate": 1082
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -2080,7 +2085,7 @@
       "Name": "Perky",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 1189
+      "UsersEstimate": 1190
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -2104,7 +2109,7 @@
       "Name": "Rain of Death",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "ACH_REVENANT",
@@ -2120,7 +2125,7 @@
       "Name": "Scholar",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "ACH_SELF_IMPROVEMENT",
@@ -2128,7 +2133,7 @@
       "Name": "Self-Improvement",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1297
+      "UsersEstimate": 1298
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -2144,7 +2149,7 @@
       "Name": "That\u2019s All, Folks",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "ACH_THERE_IS_HOPE",
@@ -2160,7 +2165,7 @@
       "Name": "The Great Escape",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "ACH_THE_HARD_WAY",
@@ -2192,7 +2197,7 @@
       "Name": "Through Their Eyes",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "ACH_TURNING_THE_TABLES",
@@ -2208,7 +2213,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1586
+      "UsersEstimate": 1587
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -2216,7 +2221,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 1027
+      "UsersEstimate": 1028
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -2255,15 +2260,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1802,
+      "Progressed": 1803,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-08-02T19:59:24.9286429+00:00",
-  "LastChanged_Achievements": "2023-08-14T13:06:24.3303267+00:00",
+  "LastChanged_Achievements": "2023-08-14T14:03:14.987721+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:13.6246247+00:00",
-  "LastUpdate_Ratings": "2023-08-14T13:03:22.1340919+00:00",
-  "LastUpdate_Achievements": "2023-08-14T13:06:24.3303832+00:00"
+  "LastUpdate_Ratings": "2023-08-14T14:00:44.6479846+00:00",
+  "LastUpdate_Achievements": "2023-08-14T14:03:14.9877835+00:00"
 }

@@ -9,19 +9,19 @@ Number of Ratings: 98  (23.09.2022)
 | Peak Performance | 55.00% | ~3,653 |
 | Tutti Eroi! | 55.00% | ~3,653 |
 | You Shall Not Pass | 53.00% | ~3,520 |
-| Avanti Savoia! | 47.00% | ~3,121 |
+| Avanti Savoia! | 47.00% | ~3,122 |
 | Mamma Mia! | 38.00% | ~2,524 |
 | Conrad von Hotzensocks | 36.00% | ~2,391 |
 | Gabriele D'Annunzio | 33.00% | ~2,192 |
-| Silver Lining | 30.00% | ~1,992 |
-| Aurelio Baruzzi | 23.00% | ~1,527 |
+| Silver Lining | 30.00% | ~1,993 |
+| Aurelio Baruzzi | 23.00% | ~1,528 |
 | Veni Vidi Vici | 22.00% | ~1,461 |
 | Decimation | 21.00% | ~1,395 |
 | Donatello | 21.00% | ~1,395 |
 | Insubordination | 20.00% | ~1,328 |
 | The Italian Job | 20.00% | ~1,328 |
-| Ragazzi del '99 | 18.00% | ~1,195 |
-| The Lion of the Isonzo | 18.00% | ~1,195 |
+| Ragazzi del '99 | 18.00% | ~1,196 |
+| The Lion of the Isonzo | 18.00% | ~1,196 |
 | Luigi Cadorna | 15.00% | ~996 |
 | Dirty Dozen | 14.00% | ~930 |
 | Uomo Universale | 14.00% | ~930 |
@@ -35,9 +35,9 @@ Number of Ratings: 98  (23.09.2022)
 | Millenial | 10.00% | ~664 |
 | The Show Must Go On | 9.00% | ~598 |
 | Tosca | 9.00% | ~598 |
-| 12th Bottle of the Isonzo | 6.00% | ~398 |
-| Cercatore d'Oro | 6.00% | ~398 |
-| The Enlightment | 6.00% | ~398 |
+| 12th Bottle of the Isonzo | 6.00% | ~399 |
+| Cercatore d'Oro | 6.00% | ~399 |
+| The Enlightment | 6.00% | ~399 |
 | Generalissimo | 5.00% | ~332 |
 | "O La Vittoria, O Tutti Accoppati" | 4.00% | ~266 |
 | Ponte of No Return | 3.00% | ~199 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~27 |
 | Can I Go Home Now? | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,641 (Ranked 134)  
+Progressed: 6,642 (Ranked 134)  
 Completed: 8 (0.12%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 8 (0.12%) (Ranked 196)
 | 2023-08-11 | 6,614 | 8 |
 | 2023-08-12 | 6,627 | 8 |
 | 2023-08-13 | 6,638 | 8 |
-| 2023-08-14 | 6,641 | 8 |
+| 2023-08-14 | 6,642 | 8 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 437)  
 Sum: 266 (Ranked 351)  

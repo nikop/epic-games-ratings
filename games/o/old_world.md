@@ -87,6 +87,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Traders | 0.60% | ~80 |
 | Temple of Solomon | 0.60% | ~80 |
 | Pantheon | 0.60% | ~80 |
+| Power to the People | 0.60% | ~80 |
 | Persian Paganism | 0.60% | ~80 |
 | Legalism | 0.60% | ~80 |
 | Legionary | 0.60% | ~80 |
@@ -105,7 +106,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Via Recta Souk | 0.50% | ~67 |
 | Learn to Play 3 | 0.50% | ~67 |
 | Carthage | 0.50% | ~67 |
-| Power to the People | 0.50% | ~67 |
 | Assyrian Paganism | 0.50% | ~67 |
 | Economic Reform | 0.50% | ~67 |
 | Dualism | 0.50% | ~67 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,404 (Ranked 117)  
+Progressed: 13,405 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -419,7 +419,7 @@ Completed: 5 (0.04%) (Ranked 224)
 | 2023-08-11 | 13,363 | 5 |
 | 2023-08-12 | 13,385 | 5 |
 | 2023-08-13 | 13,400 | 5 |
-| 2023-08-14 | 13,404 | 5 |
+| 2023-08-14 | 13,405 | 5 |
 ## Awards
 Max (Relaxing): 219  (Ranked 264)  
 Sum: 1,790 (Ranked 206)  

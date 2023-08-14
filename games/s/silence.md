@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fire in the... nevermind | 49.00% | ~52 |
-| Chapter I | 48.00% | ~51 |
+| Fire in the... nevermind | 50.00% | ~53 |
+| Chapter I | 49.00% | ~52 |
 | Haute cuisine | 43.00% | ~46 |
 | I didn't do it! | 39.00% | ~41 |
 | Demolition expert | 36.00% | ~38 |
 | Wooooooow! | 35.00% | ~37 |
+| Keep away from children | 34.00% | ~36 |
 | Artistic fool | 33.00% | ~35 |
-| Keep away from children | 33.00% | ~35 |
-| Open up wide | 30.00% | ~32 |
+| Open up wide | 31.00% | ~33 |
 | Chapter II | 29.00% | ~31 |
 | Let the boot talk | 28.00% | ~30 |
 | Achoo!! | 28.00% | ~30 |
@@ -26,13 +26,13 @@
 | Fastidious Clown | 22.00% | ~23 |
 | It's not easy being green! | 21.00% | ~22 |
 | Home is where the heart is | 20.00% | ~21 |
-| Pacifist | 18.00% | ~19 |
+| Pacifist | 19.00% | ~20 |
 | Master of Thermodynamics | 16.00% | ~17 |
 | Death is a part of life | 16.00% | ~17 |
 | Unfullfilled dreams | 14.00% | ~15 |
+| To err is human... | 11.00% | ~12 |
 | Nothing can stop me | 11.00% | ~12 |
 | Mumbo Jumbo | 11.00% | ~12 |
-| To err is human... | 10.00% | ~11 |
 | Useless but beautiful | 8.00% | ~8 |
 | Lollipop | 8.00% | ~8 |
 | Where there is life, there is hope | 8.00% | ~8 |

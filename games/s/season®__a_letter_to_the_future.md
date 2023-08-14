@@ -10,7 +10,7 @@
 | Stranger Encounterer | 40.00% | ~474 |
 | Grey Hands Praxis 101 | 31.00% | ~367 |
 | Deep Listener | 28.00% | ~332 |
-| Music for Cows | 20.00% | ~237 |
+| Music for Cows | 21.00% | ~249 |
 | Emotional Baggage Handler | 19.00% | ~225 |
 | Dream Listener | 17.00% | ~201 |
 | Artist Assistant | 16.00% | ~189 |

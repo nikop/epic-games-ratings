@@ -5664,9 +5664,9 @@
       "Count": 370
     }
   ],
-  "EOS_Progressed": 712415,
+  "EOS_Progressed": 712418,
   "EOS_Completed": 12857,
-  "EOS_NewPlayers": 156,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -16544,6 +16544,11 @@
       "Time": "2023-08-14T12:04:43.819956+00:00",
       "NumProgressed": 712415,
       "NumCompleted": 12857
+    },
+    {
+      "Time": "2023-08-14T14:04:33.8431209+00:00",
+      "NumProgressed": 712418,
+      "NumCompleted": 12857
     }
   ],
   "TotalAchievements": 50,
@@ -16635,7 +16640,7 @@
       "Name": "Legendary Talismans of Wuxing",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 4274
+      "UsersEstimate": 4275
     },
     {
       "ID": "12_MidAge",
@@ -16651,7 +16656,7 @@
       "Name": "Prodigal Child",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 4274
+      "UsersEstimate": 4275
     },
     {
       "ID": "14_DeathlessBoss_Trophy",
@@ -16771,7 +16776,7 @@
       "Name": "The 36th Chamber of Kung-Fu",
       "Percentage": 0.6,
       "XP": 35,
-      "UsersEstimate": 4274
+      "UsersEstimate": 4275
     },
     {
       "ID": "29_FocusAttack_Trophy",
@@ -16811,7 +16816,7 @@
       "Name": "Sword Stained With Blood",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4274
+      "UsersEstimate": 4275
     },
     {
       "ID": "34_TimedTakedown",
@@ -16954,21 +16959,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 21716,
+      "Progressed": 21719,
       "Completed": 10525
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 712415,
+      "Progressed": 712418,
       "Completed": 12857
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-08-14T01:40:49.6872181+00:00",
-  "LastChanged_Achievements": "2023-08-14T13:07:44.0242801+00:00",
+  "LastChanged_Achievements": "2023-08-14T14:04:33.8431203+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:46.245364+00:00",
-  "LastUpdate_Ratings": "2023-08-14T13:03:51.7369476+00:00",
-  "LastUpdate_Achievements": "2023-08-14T13:07:44.0243972+00:00"
+  "LastUpdate_Ratings": "2023-08-14T14:01:26.8502527+00:00",
+  "LastUpdate_Achievements": "2023-08-14T14:04:33.8432604+00:00"
 }

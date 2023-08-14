@@ -2,10 +2,10 @@
   "ID": "abb92d3abb7a40e7b05b473759947382",
   "Name": "Tales of the Orient: The Rising Sun",
   "ProductSlug": "tales-of-the-orient-the-rising-sun-001806",
-  "Ranking_EOS_Progress": 425,
+  "Ranking_EOS_Progress": 424,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 358,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-04-01T09:00:00+00:00",
     "PcReleaseDate": "2015-02-27T03:00:00+00:00",
@@ -28,7 +28,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14,
+  "EOS_Progressed": 15,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -53,6 +53,11 @@
       "Time": "2023-06-26T12:06:44.0951945+00:00",
       "NumProgressed": 14,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-14T14:02:53.7361049+00:00",
+      "NumProgressed": 15,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 16,
@@ -62,15 +67,15 @@
       "ID": "TALES_1",
       "SetID": "c5idb6k",
       "Name": "Good Start",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "TALES_10",
       "SetID": "c5idb6k",
       "Name": "10 Hours!",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 90,
       "UsersEstimate": 2
     },
@@ -86,17 +91,17 @@
       "ID": "TALES_12",
       "SetID": "c5idb6k",
       "Name": "Constructor",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 150,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "TALES_13",
       "SetID": "c5idb6k",
       "Name": "Happy Ending",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 100,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "TALES_2",
@@ -110,7 +115,7 @@
       "ID": "TALES_3",
       "SetID": "c5idb6k",
       "Name": "10 is good!",
-      "Percentage": 50,
+      "Percentage": 47,
       "XP": 50,
       "UsersEstimate": 7
     },
@@ -118,7 +123,7 @@
       "ID": "TALES_4",
       "SetID": "c5idb6k",
       "Name": "One-quarter mark",
-      "Percentage": 36,
+      "Percentage": 33,
       "XP": 50,
       "UsersEstimate": 5
     },
@@ -126,7 +131,7 @@
       "ID": "TALES_5",
       "SetID": "c5idb6k",
       "Name": "Half way!",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -134,7 +139,7 @@
       "ID": "TALES_6",
       "SetID": "c5idb6k",
       "Name": "Almost there!",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -142,7 +147,7 @@
       "ID": "TALES_7",
       "SetID": "c5idb6k",
       "Name": "You did it!",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -150,15 +155,15 @@
       "ID": "TALES_8",
       "SetID": "c5idb6k",
       "Name": "1 Hour!",
-      "Percentage": 50,
+      "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TALES_9",
       "SetID": "c5idb6k",
       "Name": "5 Hours!",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -191,7 +196,7 @@
     {
       "ID": "c5idb6k",
       "IsBase": true,
-      "Progressed": 14,
+      "Progressed": 15,
       "Completed": 0
     }
   ],
@@ -199,8 +204,8 @@
   "FirstSeenRating": "2023-04-15T20:58:43.6104414+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:36.8460847+00:00",
   "LastChanged": "2023-04-15T20:58:43.6104415+00:00",
-  "LastChanged_Achievements": "2023-08-14T13:06:09.5810179+00:00",
+  "LastChanged_Achievements": "2023-08-14T14:02:53.7361044+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:42.3776568+00:00",
-  "LastUpdate_Ratings": "2023-08-14T13:04:30.2946589+00:00",
-  "LastUpdate_Achievements": "2023-08-14T13:06:09.5810366+00:00"
+  "LastUpdate_Ratings": "2023-08-14T14:02:24.5468648+00:00",
+  "LastUpdate_Achievements": "2023-08-14T14:02:53.7361234+00:00"
 }

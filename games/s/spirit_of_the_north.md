@@ -6,16 +6,16 @@ Number of Ratings: 1,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 68.00% | ~44,556 |
-| INFUSED WITH LIGHT | 53.00% | ~34,728 |
-| FOXIN' AROUND | 29.00% | ~19,002 |
-| FETCH | 27.00% | ~17,691 |
-| BLOOMS OF LIGHT | 26.00% | ~17,036 |
-| BEST FRIENDS | 22.00% | ~14,415 |
-| AWAKEN | 21.00% | ~13,760 |
-| ERADICATE | 21.00% | ~13,760 |
-| SPIRIT BARK | 21.00% | ~13,760 |
-| GARDEN OF LIGHT | 18.00% | ~11,794 |
+| A GUARDIAN FORGOTTEN | 68.00% | ~44,558 |
+| INFUSED WITH LIGHT | 53.00% | ~34,729 |
+| FOXIN' AROUND | 29.00% | ~19,003 |
+| FETCH | 27.00% | ~17,692 |
+| BLOOMS OF LIGHT | 26.00% | ~17,037 |
+| BEST FRIENDS | 22.00% | ~14,416 |
+| AWAKEN | 21.00% | ~13,761 |
+| ERADICATE | 21.00% | ~13,761 |
+| SPIRIT BARK | 21.00% | ~13,761 |
+| GARDEN OF LIGHT | 18.00% | ~11,795 |
 | SPIRIT FORM | 16.00% | ~10,484 |
 | UPROOTING DARKNESS | 15.00% | ~9,829 |
 | WRITTEN IN STONE | 15.00% | ~9,829 |
@@ -28,10 +28,10 @@ Number of Ratings: 1,175  (23.09.2022)
 | NORTHERN LIGHTS | 7.00% | ~4,587 |
 | FOX? OR FLYING SQUIRREL? | 4.00% | ~2,621 |
 | ANCIENT HISTORY | 3.00% | ~1,966 |
-| NONE FORGOTTEN | 2.00% | ~1,310 |
+| NONE FORGOTTEN | 2.00% | ~1,311 |
 | KINDRED SPIRITS | 0.60% | ~393 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,524 (Ranked 82)  
+Progressed: 65,527 (Ranked 82)  
 Completed: 345 (0.53%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 345 (0.53%) (Ranked 138)
 | 2023-08-11 | 65,249 | 343 |
 | 2023-08-12 | 65,372 | 344 |
 | 2023-08-13 | 65,478 | 345 |
-| 2023-08-14 | 65,524 | 345 |
+| 2023-08-14 | 65,527 | 345 |
 ## Awards
 Max (Extremely Fun): 26  (Ranked 474)  
 Sum: 114 (Ranked 410)  

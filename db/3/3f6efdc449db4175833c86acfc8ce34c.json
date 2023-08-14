@@ -4,8 +4,8 @@
   "ProductSlug": "aya-and-naya-b7791e",
   "Ranking_EOS_Progress": 478,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-08-21T08:00:00+00:00",
     "PcReleaseDate": "2023-08-31T16:00:00+00:00",
@@ -90,8 +90,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-08T21:02:12.6548497+00:00",
-  "LastChanged_Achievements": "2023-08-14T13:07:22.4830861+00:00",
+  "LastChanged_Achievements": "2023-08-14T14:04:03.9196585+00:00",
   "LastUpdate_AppInfo": "2023-08-14T08:57:17.4876993+00:00",
-  "LastUpdate_Ratings": "2023-08-14T13:01:30.1171596+00:00",
-  "LastUpdate_Achievements": "2023-08-14T13:07:22.4830942+00:00"
+  "LastUpdate_Ratings": "2023-08-14T13:57:57.1921146+00:00",
+  "LastUpdate_Achievements": "2023-08-14T14:04:03.9196666+00:00"
 }

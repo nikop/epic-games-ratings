@@ -2,13 +2,13 @@
   "ID": "7b57136ac766477eb1e687dcd0310da5",
   "Name": "War Mongrels",
   "ProductSlug": "war-mongrels",
-  "Ranking_Rating": 766,
+  "Ranking_Rating": 765,
   "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 512,
-  "Ranking_EOS_Progress": 228,
+  "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 243,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
     "PcReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -238,9 +238,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 461,
+  "EOS_Progressed": 462,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1318,6 +1318,11 @@
       "Time": "2023-08-12T23:06:11.3573501+00:00",
       "NumProgressed": 461,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-14T14:07:42.6696992+00:00",
+      "NumProgressed": 462,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1433,7 +1438,7 @@
       "Name": "Explorer",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "ACH_COLL_20",
@@ -1465,7 +1470,7 @@
       "Name": "Collectibles of Chapter II",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ACH_COLL_CH03",
@@ -1543,17 +1548,17 @@
       "ID": "ACH_COLL_CH12",
       "SetID": "1j25agn",
       "Name": "Collectibles of Chapter XII",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_FIN_CH01",
       "SetID": "1j25agn",
       "Name": "Cowardice",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 263
+      "UsersEstimate": 259
     },
     {
       "ID": "ACH_FIN_CH02",
@@ -1561,7 +1566,7 @@
       "Name": "The Breaking Point",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ACH_FIN_CH03",
@@ -1575,9 +1580,9 @@
       "ID": "ACH_FIN_CH04",
       "SetID": "1j25agn",
       "Name": "Heroism",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 162
     },
     {
       "ID": "ACH_FIN_CH05",
@@ -1641,7 +1646,7 @@
       "Name": "Atonement",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "ACH_HARD_1",
@@ -1673,7 +1678,7 @@
       "Name": "Missing in Action",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "ACH_JOACHIM_FATE1",
@@ -1697,7 +1702,7 @@
       "Name": "Here Comes the Boom",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ACH_KILL_DOOR",
@@ -1721,7 +1726,7 @@
       "Name": "It\u0027s Just an Accident",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ACH_KILL_FRAG",
@@ -1800,15 +1805,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 461,
+      "Progressed": 462,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-06-24T07:57:51.3010975+00:00",
-  "LastChanged_Achievements": "2023-08-14T13:10:08.6086561+00:00",
+  "LastChanged_Achievements": "2023-08-14T14:07:42.6696986+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:20.2353835+00:00",
-  "LastUpdate_Ratings": "2023-08-14T13:02:28.9709034+00:00",
-  "LastUpdate_Achievements": "2023-08-14T13:10:08.608711+00:00"
+  "LastUpdate_Ratings": "2023-08-14T13:59:27.7713728+00:00",
+  "LastUpdate_Achievements": "2023-08-14T14:07:42.6698329+00:00"
 }

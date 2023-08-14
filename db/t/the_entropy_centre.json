@@ -4,8 +4,8 @@
   "ProductSlug": "the-entropy-centre-40bccd",
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 253,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2022-11-03T16:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 241,
+  "EOS_Progressed": 242,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -798,6 +798,11 @@
       "Time": "2023-08-13T22:03:24.3827352+00:00",
       "NumProgressed": 241,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-14T14:03:30.184254+00:00",
+      "NumProgressed": 242,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -809,7 +814,7 @@
       "Name": "Wake Up",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "ACH_ACT10",
@@ -831,9 +836,9 @@
       "ID": "ACH_ACT12",
       "SetID": "2310cb1",
       "Name": "Kaboom!",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_ACT13",
@@ -873,7 +878,7 @@
       "Name": "Time Gates",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ACH_ACT3",
@@ -881,7 +886,7 @@
       "Name": "Command Centre",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ACH_ACT4",
@@ -903,9 +908,9 @@
       "ID": "ACH_ACT6",
       "SetID": "2310cb1",
       "Name": "48 Attempts",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 89
+      "UsersEstimate": 87
     },
     {
       "ID": "ACH_ACT7",
@@ -921,7 +926,7 @@
       "Name": "Bad Robots",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_ACT9",
@@ -945,7 +950,7 @@
       "Name": "Man\u0027s Best Friend",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ACH_CHAINREACTION",
@@ -1001,7 +1006,7 @@
       "Name": "It\u0027s Rewind Time",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "ACH_SUMMERLOVE",
@@ -1024,7 +1029,7 @@
     {
       "ID": "2310cb1",
       "IsBase": true,
-      "Progressed": 241,
+      "Progressed": 242,
       "Completed": 0
     }
   ],
@@ -1032,8 +1037,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-08-14T13:07:05.4642511+00:00",
+  "LastChanged_Achievements": "2023-08-14T14:03:30.1842533+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:21.4161898+00:00",
-  "LastUpdate_Ratings": "2023-08-14T13:02:27.9428461+00:00",
-  "LastUpdate_Achievements": "2023-08-14T13:07:05.4642833+00:00"
+  "LastUpdate_Ratings": "2023-08-14T13:59:26.4615197+00:00",
+  "LastUpdate_Achievements": "2023-08-14T14:03:30.1842788+00:00"
 }

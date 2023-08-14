@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 181,
   "Ranking_EOS_NewPlayers": 269,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
     "PcReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -1201,9 +1201,9 @@
       "ID": "Chapter10",
       "SetID": "70l3651",
       "Name": "The Friend",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 40
     },
     {
       "ID": "Chapter2",
@@ -1464,8 +1464,8 @@
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-08-14T13:07:32.2917355+00:00",
+  "LastChanged_Achievements": "2023-08-14T14:04:17.8406951+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:28.0980255+00:00",
-  "LastUpdate_Ratings": "2023-08-14T13:02:44.0433015+00:00",
-  "LastUpdate_Achievements": "2023-08-14T13:07:32.2917702+00:00"
+  "LastUpdate_Ratings": "2023-08-14T13:59:49.6630386+00:00",
+  "LastUpdate_Achievements": "2023-08-14T14:04:17.8407516+00:00"
 }

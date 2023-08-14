@@ -15,11 +15,11 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalism Ho! | 0.70% | ~942 |
 | Another Satisfied Customer | 0.60% | ~807 |
 | Budding Merchant | 0.60% | ~807 |
+| Own the Means of Production | 0.60% | ~807 |
 | One Easy Payment | 0.50% | ~673 |
 | Some Assembly Required | 0.50% | ~673 |
 | Pretty Penny | 0.50% | ~673 |
 | Through Repetition, Perfection | 0.50% | ~673 |
-| Own the Means of Production | 0.50% | ~673 |
 | The Daily Grind | 0.40% | ~538 |
 | Bounty Hunters | 0.40% | ~538 |
 | Demand for Supplies | 0.40% | ~538 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Economy of Scarce | 0.10% | ~135 |
 | King's Blade | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,506 (Ranked 66)  
+Progressed: 134,509 (Ranked 66)  
 Completed: 132 (0.10%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,7 +235,7 @@ Completed: 132 (0.10%) (Ranked 203)
 | 2023-08-11 | 134,354 | 132 |
 | 2023-08-12 | 134,413 | 132 |
 | 2023-08-13 | 134,471 | 132 |
-| 2023-08-14 | 134,506 | 132 |
+| 2023-08-14 | 134,509 | 132 |
 ## Awards
 Max (Great for Beginners): 4,700  (Ranked 71)  
 Sum: 27,093 (Ranked 47)  
