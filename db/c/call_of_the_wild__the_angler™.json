@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 392,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -604,9 +604,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4901,
+  "EOS_Progressed": 4902,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5474,6 +5474,11 @@
       "Time": "2023-08-14T01:45:43.8381033+00:00",
       "NumProgressed": 4901,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-14T02:19:16.4354199+00:00",
+      "NumProgressed": 4902,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -5485,7 +5490,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3725
+      "UsersEstimate": 3726
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -5509,7 +5514,7 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 2107
+      "UsersEstimate": 2108
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -5517,7 +5522,7 @@
       "Name": "Fish Out of Water",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1617
+      "UsersEstimate": 1618
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -5533,7 +5538,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 2058
+      "UsersEstimate": 2059
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -5549,7 +5554,7 @@
       "Name": "Things that go Splash in the Night",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 1323
+      "UsersEstimate": 1324
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -5557,7 +5562,7 @@
       "Name": "License to Gill",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 1617
+      "UsersEstimate": 1618
     },
     {
       "ID": "ACHIEVEMENT_011",
@@ -5589,7 +5594,7 @@
       "Name": "Goldfish?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 1323
+      "UsersEstimate": 1324
     },
     {
       "ID": "ACHIEVEMENT_015",
@@ -5764,13 +5769,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 4901,
+      "Progressed": 4902,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 4273,
+      "Progressed": 4274,
       "Completed": 112
     }
   ],
@@ -5778,8 +5783,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-08-12T15:01:59.4097214+00:00",
-  "LastChanged_Achievements": "2023-08-14T01:45:43.8381024+00:00",
+  "LastChanged_Achievements": "2023-08-14T02:19:16.4354192+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:47.5047155+00:00",
-  "LastUpdate_Ratings": "2023-08-14T01:41:49.3672123+00:00",
-  "LastUpdate_Achievements": "2023-08-14T01:45:43.8381728+00:00"
+  "LastUpdate_Ratings": "2023-08-14T02:15:11.9156935+00:00",
+  "LastUpdate_Achievements": "2023-08-14T02:19:16.4355315+00:00"
 }

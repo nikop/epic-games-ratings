@@ -10281,10 +10281,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 199261,
       "NumberOfAwardsMax": 75429
+    },
+    {
+      "Time": "2023-08-14T02:13:15.2366011+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 199281,
+      "NumberOfAwardsMax": 75429
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 199261,
+  "NumberOfAwards": 199281,
   "NumberOfAwardsMax": 75429,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10346,7 +10352,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 8495
+      "Count": 8515
     },
     {
       "Text": "This game is Extremely Fun",
@@ -10361,9 +10367,9 @@
       "Count": 5574
     }
   ],
-  "EOS_Progressed": 870768,
+  "EOS_Progressed": 870769,
   "EOS_Completed": 1962,
-  "EOS_NewPlayers": 1119,
+  "EOS_NewPlayers": 1120,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -23046,6 +23052,11 @@
       "Time": "2023-08-14T01:45:46.3773532+00:00",
       "NumProgressed": 870768,
       "NumCompleted": 1962
+    },
+    {
+      "Time": "2023-08-14T02:19:18.5040647+00:00",
+      "NumProgressed": 870769,
+      "NumCompleted": 1962
     }
   ],
   "TotalAchievements": 44,
@@ -23201,7 +23212,7 @@
       "Name": "Breathtaking",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 69661
+      "UsersEstimate": 69662
     },
     {
       "ID": "NoMansLand",
@@ -23273,7 +23284,7 @@
       "Name": "The Fool",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 592122
+      "UsersEstimate": 592123
     },
     {
       "ID": "TheHermit",
@@ -23321,7 +23332,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 235107
+      "UsersEstimate": 235108
     },
     {
       "ID": "TheWorld",
@@ -23408,15 +23419,15 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 870768,
+      "Progressed": 870769,
       "Completed": 1962
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-08-13T23:59:37.7624972+00:00",
-  "LastChanged_Achievements": "2023-08-14T01:45:46.3773524+00:00",
+  "LastChanged": "2023-08-14T02:13:15.2366008+00:00",
+  "LastChanged_Achievements": "2023-08-14T02:19:18.5040643+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:39.9582585+00:00",
-  "LastUpdate_Ratings": "2023-08-14T01:39:34.4927194+00:00",
-  "LastUpdate_Achievements": "2023-08-14T01:45:46.3775158+00:00"
+  "LastUpdate_Ratings": "2023-08-14T02:13:15.2366016+00:00",
+  "LastUpdate_Achievements": "2023-08-14T02:19:18.5041979+00:00"
 }

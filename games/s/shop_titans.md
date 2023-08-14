@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Economy of Scarce | 0.10% | ~134 |
 | King's Blade | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,476 (Ranked 66)  
+Progressed: 134,477 (Ranked 66)  
 Completed: 132 (0.10%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,7 +235,7 @@ Completed: 132 (0.10%) (Ranked 203)
 | 2023-08-11 | 134,354 | 132 |
 | 2023-08-12 | 134,413 | 132 |
 | 2023-08-13 | 134,471 | 132 |
-| 2023-08-14 | 134,476 | 132 |
+| 2023-08-14 | 134,477 | 132 |
 ## Awards
 Max (Great for Beginners): 4,698  (Ranked 71)  
 Sum: 27,090 (Ranked 46)  

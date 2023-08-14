@@ -38,7 +38,7 @@ Rating: 4.58 (Ranked 426)
 | Lose Another Day | 1.00% | ~174 |
 | Chairman of Deceive Inc. | 0.90% | ~156 |
 | Chief Information Officer | 0.70% | ~121 |
-| Masteries Are Forever | 0.30% | ~52 |
+| Masteries Are Forever | 0.40% | ~69 |
 | Extraction Confusion | 0.20% | ~35 |
 | Spyfall | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)

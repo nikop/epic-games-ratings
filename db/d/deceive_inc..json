@@ -8258,9 +8258,9 @@
       "ID": "0007",
       "SetID": "2n2feee",
       "Name": "Masteries Are Forever",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 115,
-      "UsersEstimate": 52
+      "UsersEstimate": 69
     },
     {
       "ID": "0008",
@@ -8507,8 +8507,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-12T19:04:41.1874293+00:00",
-  "LastChanged_Achievements": "2023-08-14T01:45:24.6920204+00:00",
+  "LastChanged_Achievements": "2023-08-14T02:18:59.8243387+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:38.5697724+00:00",
-  "LastUpdate_Ratings": "2023-08-14T01:41:37.9889257+00:00",
-  "LastUpdate_Achievements": "2023-08-14T01:45:24.6921127+00:00"
+  "LastUpdate_Ratings": "2023-08-14T02:15:02.3314892+00:00",
+  "LastUpdate_Achievements": "2023-08-14T02:18:59.8244508+00:00"
 }

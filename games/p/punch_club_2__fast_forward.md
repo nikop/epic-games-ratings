@@ -43,10 +43,10 @@
 | Mysterious voice | 44.00% | ~110 |
 | Your own way | 41.00% | ~102 |
 | Champion – no way back | 39.00% | ~97 |
+| Poisoned fighter | 38.00% | ~95 |
 | Underground dwellers | 38.00% | ~95 |
 | Responsible approach | 38.00% | ~95 |
 | Deal with life | 37.00% | ~92 |
-| Poisoned fighter | 37.00% | ~92 |
 | Get out of my apartment! | 37.00% | ~92 |
 | Mom got better | 36.00% | ~90 |
 | GYM professional | 36.00% | ~90 |

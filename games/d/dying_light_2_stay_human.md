@@ -21,14 +21,14 @@ Number of Ratings: 7,305  (23.09.2022)
 | Get Outta My House! | 6.00% | ~36,694 |
 | It Wasn't That Hard, Was It? | 6.00% | ~36,694 |
 | Being All Social | 6.00% | ~36,694 |
-| Debris and Ashes | 5.00% | ~30,578 |
-| We Will Be Heard! | 5.00% | ~30,578 |
-| Known Associate | 5.00% | ~30,578 |
-| Brush with Death | 5.00% | ~30,578 |
-| Going Down | 5.00% | ~30,578 |
-| Tunnel Entrance | 5.00% | ~30,578 |
-| After the Fall | 5.00% | ~30,578 |
-| Can't Touch This! | 5.00% | ~30,578 |
+| Debris and Ashes | 5.00% | ~30,579 |
+| We Will Be Heard! | 5.00% | ~30,579 |
+| Known Associate | 5.00% | ~30,579 |
+| Brush with Death | 5.00% | ~30,579 |
+| Going Down | 5.00% | ~30,579 |
+| Tunnel Entrance | 5.00% | ~30,579 |
+| After the Fall | 5.00% | ~30,579 |
+| Can't Touch This! | 5.00% | ~30,579 |
 | Family First | 4.00% | ~24,463 |
 | Your World, Your Rules | 4.00% | ~24,463 |
 | Death From Afar | 4.00% | ~24,463 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~257 |
 | Connoisseur | 0.10% | ~257 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 611,570 (Ranked 27)  
+Progressed: 611,572 (Ranked 27)  
 Completed: 62 (0.01%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,7 +188,7 @@ Completed: 62 (0.01%) (Ranked 242)
 | 2023-08-11 | 610,694 | 62 |
 | 2023-08-12 | 611,100 | 62 |
 | 2023-08-13 | 611,547 | 62 |
-| 2023-08-14 | 611,570 | 62 |
+| 2023-08-14 | 611,572 | 62 |
 ## Awards
 Max (Character Customization): 8,778  (Ranked 39)  
 Sum: 21,064 (Ranked 54)  

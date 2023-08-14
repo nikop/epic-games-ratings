@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're Hired | 100.00% | ~7 |
-| Working for the Kiweekend | 71.00% | ~5 |
-| Learn the Ropes | 43.00% | ~3 |
-| A Startling Discovery | 43.00% | ~3 |
-| Practice Makes Postmasters | 29.00% | ~2 |
-| Secrets of the Telepost | 14.00% | ~1 |
-| Pumpkins and Postage Stamps | 14.00% | ~1 |
-| Kiwinter Kiwonderland | 14.00% | ~1 |
-| Fun in the Bungalow Basin Sun | 14.00% | ~1 |
+| You're Hired | 100.00% | ~8 |
+| Working for the Kiweekend | 75.00% | ~6 |
+| Learn the Ropes | 50.00% | ~4 |
+| A Startling Discovery | 50.00% | ~4 |
+| Practice Makes Postmasters | 38.00% | ~3 |
+| Secrets of the Telepost | 25.00% | ~2 |
+| Pumpkins and Postage Stamps | 25.00% | ~2 |
+| Kiwinter Kiwonderland | 25.00% | ~2 |
+| Fun in the Bungalow Basin Sun | 25.00% | ~2 |
+| Autumn Postmasters | 13.00% | ~1 |
+| Summer Postmasters | 13.00% | ~1 |
 | Against All Odds | 0.00% | ~0 |
 | Off to the Races | 0.00% | ~0 |
 | KeyWe are the Champions | 0.00% | ~0 |
 | Tournamasters | 0.00% | ~0 |
 | Fully Stocked | 0.00% | ~0 |
 | Postmasters General | 0.00% | ~0 |
-| Autumn Postmasters | 0.00% | ~0 |
 | Working Overtime | 0.00% | ~0 |
-| Summer Postmasters | 0.00% | ~0 |
 | Winter Postmasters | 0.00% | ~0 |
 | Stocking Up | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7 (Ranked 447)  
+Progressed: 8 (Ranked 446)  
 Completed: 0 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -34,6 +34,7 @@ Completed: 0 (0.00%) (Ranked 255)
 | 2023-08-09 | 5 | 0 |
 | 2023-08-10 | 6 | 0 |
 | 2023-08-12 | 7 | 0 |
+| 2023-08-14 | 8 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

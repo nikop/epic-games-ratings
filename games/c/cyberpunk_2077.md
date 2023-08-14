@@ -6,11 +6,11 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 68.00% | ~592,122 |
+| The Fool | 68.00% | ~592,123 |
 | Right Back At Ya | 39.00% | ~339,600 |
 | The Lovers | 35.00% | ~304,769 |
 | Stanislavski's Method | 29.00% | ~252,523 |
-| The Wheel of Fortune | 27.00% | ~235,107 |
+| The Wheel of Fortune | 27.00% | ~235,108 |
 | The Hermit | 25.00% | ~217,692 |
 | Christmas Tree Attack | 23.00% | ~200,277 |
 | True Soldier | 23.00% | ~200,277 |
@@ -30,7 +30,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Quick and the Dead | 10.00% | ~87,077 |
 | The Wandering Fool | 9.00% | ~78,369 |
 | Ten out of Ten | 9.00% | ~78,369 |
-| Breathtaking | 8.00% | ~69,661 |
+| Breathtaking | 8.00% | ~69,662 |
 | The Star | 7.00% | ~60,954 |
 | To Bad Decisions! | 6.00% | ~52,246 |
 | The Sun | 6.00% | ~52,246 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~8,708 |
 | Rough Landing | 0.50% | ~4,354 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 870,768 (Ranked 14)  
+Progressed: 870,769 (Ranked 14)  
 Completed: 1,962 (0.23%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,10 +167,10 @@ Completed: 1,962 (0.23%) (Ranked 176)
 | 2023-08-11 | 870,387 | 1,958 |
 | 2023-08-12 | 870,573 | 1,961 |
 | 2023-08-13 | 870,756 | 1,962 |
-| 2023-08-14 | 870,768 | 1,962 |
+| 2023-08-14 | 870,769 | 1,962 |
 ## Awards
 Max (Character Customization): 75,429  (Ranked 9)  
-Sum: 199,261 (Ranked 13)  
+Sum: 199,281 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
@@ -182,8 +182,8 @@ Diff (max vs sum): -4
 | This game is Extremely Fun | 8,691 |
 | This game is Highly Recommended | 8,671 |
 | This game is Relaxing | 8,610 |
+| This game has Amazing Characters | 8,515 |
 | This game has Quickly Understood Controls | 8,496 |
-| This game has Amazing Characters | 8,495 |
 | This game has a Creative Community | 5,574 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
@@ -395,3 +395,4 @@ Diff (max vs sum): -4
 | 2023-08-11 | 4.62 | - | 75,281 | 198,758 |
 | 2023-08-12 | 4.62 | - | 75,347 | 198,991 |
 | 2023-08-13 | 4.62 | - | 75,429 | 199,261 |
+| 2023-08-14 | 4.62 | - | 75,429 | 199,281 |

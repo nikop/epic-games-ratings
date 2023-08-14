@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewPlayers": 86,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 60821,
+  "EOS_Progressed": 60823,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 395,
+  "EOS_NewPlayers": 397,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -11187,6 +11187,11 @@
       "Time": "2023-08-14T01:46:12.8911769+00:00",
       "NumProgressed": 60821,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-14T02:19:41.5007314+00:00",
+      "NumProgressed": 60823,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -11198,7 +11203,7 @@
       "Name": "Follow the Light",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 22504
+      "UsersEstimate": 22505
     },
     {
       "ID": "02",
@@ -11230,7 +11235,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 12164
+      "UsersEstimate": 12165
     },
     {
       "ID": "06",
@@ -11238,7 +11243,7 @@
       "Name": "Park Ranger",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 9731
+      "UsersEstimate": 9732
     },
     {
       "ID": "07",
@@ -11286,7 +11291,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6690
+      "UsersEstimate": 6691
     },
     {
       "ID": "13",
@@ -11318,7 +11323,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4257
+      "UsersEstimate": 4258
     },
     {
       "ID": "17",
@@ -11326,7 +11331,7 @@
       "Name": "Departure",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4257
+      "UsersEstimate": 4258
     },
     {
       "ID": "18",
@@ -11382,7 +11387,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6690
+      "UsersEstimate": 6691
     },
     {
       "ID": "25",
@@ -11398,7 +11403,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6690
+      "UsersEstimate": 6691
     },
     {
       "ID": "27",
@@ -11446,7 +11451,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 17638
+      "UsersEstimate": 17639
     },
     {
       "ID": "33",
@@ -11470,7 +11475,7 @@
       "Name": "Let There Be Light",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 18246
+      "UsersEstimate": 18247
     },
     {
       "ID": "36",
@@ -11534,7 +11539,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 9731
+      "UsersEstimate": 9732
     },
     {
       "ID": "44",
@@ -11662,7 +11667,7 @@
       "Name": "Ding!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 1214
+      "UsersEstimate": 1215
     },
     {
       "ID": "60",
@@ -11733,21 +11738,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 60821,
+      "Progressed": 60823,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 24289,
+      "Progressed": 24291,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-14T01:46:12.891176+00:00",
+  "LastChanged_Achievements": "2023-08-14T02:19:41.500731+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:20.2881971+00:00",
-  "LastUpdate_Ratings": "2023-08-14T01:39:10.883937+00:00",
-  "LastUpdate_Achievements": "2023-08-14T01:46:12.8913343+00:00"
+  "LastUpdate_Ratings": "2023-08-14T02:12:55.2741974+00:00",
+  "LastUpdate_Achievements": "2023-08-14T02:19:41.5008741+00:00"
 }

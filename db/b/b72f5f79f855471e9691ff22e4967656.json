@@ -410,9 +410,9 @@
       "ID": "interactBerry10",
       "SetID": "ci65fo0",
       "Name": "Gourmand",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "interactChest10",
@@ -650,9 +650,9 @@
       "ID": "locWorker",
       "SetID": "ci65fo0",
       "Name": "The first friend",
-      "Percentage": 62,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 43
     },
     {
       "ID": "questAntiquities",
@@ -770,9 +770,9 @@
       "ID": "questGenerous",
       "SetID": "ci65fo0",
       "Name": "Generous",
-      "Percentage": 56,
+      "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "questHallucinationsKing",
@@ -935,8 +935,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-08-14T01:44:41.1479541+00:00",
+  "LastChanged_Achievements": "2023-08-14T02:18:23.0642818+00:00",
   "LastUpdate_AppInfo": "2023-08-09T11:56:59.6774878+00:00",
-  "LastUpdate_Ratings": "2023-08-14T01:38:10.3767853+00:00",
-  "LastUpdate_Achievements": "2023-08-14T01:44:41.1480318+00:00"
+  "LastUpdate_Ratings": "2023-08-14T02:12:03.0339206+00:00",
+  "LastUpdate_Achievements": "2023-08-14T02:18:23.0643937+00:00"
 }
