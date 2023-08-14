@@ -90,7 +90,7 @@
 | 88 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,366 | 4.68 | 239 |
 | 89 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,340 | 4.68 | 239 |
 | 90 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,299 | 4.76 | 118 |
-| 91 | [Hades](games/h/hades.md) | 3,212 | 4.92 | 4 |
+| 91 | [Hades](games/h/hades.md) | 3,213 | 4.92 | 4 |
 | 92 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,199 | 4.57 | 449 |
 | 93 | [Trackmania](games/t/trackmania.md) | 3,127 | 4.67 | 259 |
 | 94 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3,092 | 3.98 | 933 |
@@ -200,9 +200,9 @@
 | 198 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 492 | 4.86 | 29 |
 | 199 | [Prison Architect](games/p/prison_architect.md) | 480 | 4.61 | 364 |
 | 200 | [Ghostrunner](games/g/ghostrunner.md) | 476 | 4.72 | 170 |
-| 201 | [Surviving Mars](games/s/surviving_mars.md) | 473 | 4.60 | 389 |
+| 201 | [Surviving Mars](games/s/surviving_mars.md) | 474 | 4.60 | 389 |
+| 202 | [Second Extinction™](games/s/second_extinction™.md) | 460 | 4.05 | 920 |
 | 202 | [Unreal Tournament](games/u/unreal_tournament.md) | 460 | 4.66 | 274 |
-| 203 | [Second Extinction™](games/s/second_extinction™.md) | 457 | 4.05 | 920 |
 | 204 | [Dishonored 2](games/d/dishonored_2.md) | 449 | 4.78 | 100 |
 | 205 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 439 | 4.40 | 697 |
 | 206 | [Loop Hero](games/l/loop_hero.md) | 429 | 4.68 | 239 |
@@ -220,7 +220,7 @@
 | 218 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 382 | 4.61 | 364 |
 | 219 | [For The King](games/f/for_the_king.md) | 379 | 4.70 | 197 |
 | 219 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 379 | 4.85 | 42 |
-| 221 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 374 | 4.62 | 342 |
+| 221 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 375 | 4.62 | 342 |
 | 222 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 372 | 4.70 | 197 |
 | 222 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 372 | 3.99 | 929 |
 | 224 | [Train Valley 2](games/t/train_valley_2.md) | 359 | 4.38 | 716 |
@@ -238,7 +238,7 @@
 | 236 | [Spellbreak](games/s/spellbreak.md) | 304 | 4.63 | 328 |
 | 237 | [Video Horror Society](games/v/video_horror_society.md) | 297 | 4.26 | 814 |
 | 238 | [Railway Empire](games/r/railway_empire.md) | 296 | 4.52 | 526 |
-| 239 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 286 | 4.46 | 617 |
+| 239 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 287 | 4.46 | 617 |
 | 240 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 280 | 4.43 | 659 |
 | 241 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 279 | 4.62 | 342 |
 | 242 | [Dead Cells](games/d/dead_cells.md) | 278 | 4.87 | 25 |
@@ -440,18 +440,18 @@
 | 437 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 35 | 4.56 | 470 |
 | 437 | [Hell is Others](games/h/hell_is_others.md) | 35 | 4.41 | 680 |
 | 437 | [Isonzo](games/i/isonzo.md) | 35 | 4.55 | 484 |
+| 441 | [DEATHLOOP](games/d/deathloop.md) | 34 | 4.54 | 498 |
 | 441 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 34 | 4.62 | 342 |
 | 441 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 34 | 4.52 | 526 |
 | 441 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 34 | 4.42 | 664 |
 | 441 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 34 | 4.41 | 680 |
 | 441 | [TUNIC](games/t/tunic.md) | 34 | 4.83 | 59 |
-| 446 | [City of Gangsters](games/c/city_of_gangsters.md) | 33 | 4.26 | 814 |
-| 446 | [DEATHLOOP](games/d/deathloop.md) | 33 | 4.54 | 498 |
-| 446 | [DOOM (1993)](games/d/doom_(1993).md) | 33 | 4.82 | 66 |
-| 446 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 33 | 4.19 | 863 |
-| 446 | [Outward Definitive Edition](games/o/outward.md) | 33 | 4.55 | 484 |
-| 446 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 33 | 4.54 | 498 |
-| 446 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 33 | 4.34 | 756 |
+| 447 | [City of Gangsters](games/c/city_of_gangsters.md) | 33 | 4.26 | 814 |
+| 447 | [DOOM (1993)](games/d/doom_(1993).md) | 33 | 4.82 | 66 |
+| 447 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 33 | 4.19 | 863 |
+| 447 | [Outward Definitive Edition](games/o/outward.md) | 33 | 4.55 | 484 |
+| 447 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 33 | 4.54 | 498 |
+| 447 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 33 | 4.34 | 756 |
 | 453 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 32 | 4.14 | 894 |
 | 453 | [Chorus](games/c/chorus.md) | 32 | 4.45 | 632 |
 | 453 | [MythForce](games/m/mythforce.md) | 32 | 4.49 | 576 |

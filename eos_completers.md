@@ -5,11 +5,11 @@
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 38.64% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
 | 5 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
+| 6 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 25.00% |
 | 6 | [Overloop](games/o/overloop.md) | 25.00% |
-| 7 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 8 | [Volley Pals](games/v/volley_pals.md) | 23.91% |
-| 9 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 23.39% |
-| 10 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 22.22% |
+| 8 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
+| 9 | [Volley Pals](games/v/volley_pals.md) | 23.91% |
+| 10 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 23.39% |
 | 11 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 11 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 13 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
@@ -75,14 +75,14 @@
 | 73 | [Destiny 2](games/d/destiny_2.md) | 2.75% |
 | 74 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
 | 75 | [The Bunker](games/t/the_bunker.md) | 2.68% |
-| 76 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.61% |
-| 77 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.60% |
-| 78 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.56% |
-| 79 | [Lamentum](games/l/lamentum.md) | 2.53% |
-| 80 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.52% |
-| 81 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 82 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.36% |
-| 83 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.33% |
+| 76 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.62% |
+| 77 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.61% |
+| 78 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.60% |
+| 79 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.56% |
+| 80 | [Lamentum](games/l/lamentum.md) | 2.53% |
+| 81 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.52% |
+| 82 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
+| 83 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.36% |
 | 84 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.28% |
 | 85 | [Bloodshore](games/b/bloodshore.md) | 2.22% |
 | 86 | [FORECLOSED](games/f/foreclosed.md) | 2.17% |
@@ -123,8 +123,8 @@
 | 121 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.80% |
 | 122 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.75% |
 | 122 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
-| 124 | [Lemon Cake](games/l/lemon_cake.md) | 0.74% |
-| 125 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.73% |
+| 124 | [Lemon Cake](games/l/lemon_cake.md) | 0.73% |
+| 124 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.73% |
 | 126 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.72% |
 | 127 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.66% |
 | 128 | [Haven](games/h/haven.md) | 0.65% |
