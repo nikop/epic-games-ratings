@@ -40,7 +40,7 @@ Rating: 4.42 (Ranked 665)
 | Newtonian Knockout | 16.00% | ~219 |
 | Chaos Theory | 15.00% | ~205 |
 | Ruthless | 14.00% | ~191 |
-| Side Order | 10.00% | ~137 |
+| Side Order | 11.00% | ~150 |
 | Chain Reaction | 9.00% | ~123 |
 | Bot Whisperer | 8.00% | ~109 |
 | Curveball | 8.00% | ~109 |

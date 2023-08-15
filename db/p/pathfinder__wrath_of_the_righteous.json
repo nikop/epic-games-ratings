@@ -3454,7 +3454,7 @@
   ],
   "EOS_Progressed": 10958,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10857,9 +10857,9 @@
       "ID": "08_PathOfAngel",
       "SetID": "989of5o",
       "Name": "Path of the Angel",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 548
+      "UsersEstimate": 657
     },
     {
       "ID": "09_PathOfDemon",
@@ -11743,8 +11743,8 @@
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-08-15T07:59:25.8442587+00:00",
-  "LastChanged_Achievements": "2023-08-15T20:04:46.0511565+00:00",
+  "LastChanged_Achievements": "2023-08-15T21:04:17.6588248+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:11.5447906+00:00",
-  "LastUpdate_Ratings": "2023-08-15T20:00:30.59927+00:00",
-  "LastUpdate_Achievements": "2023-08-15T20:04:46.05142+00:00"
+  "LastUpdate_Ratings": "2023-08-15T20:59:34.6511581+00:00",
+  "LastUpdate_Achievements": "2023-08-15T21:04:17.6590533+00:00"
 }

@@ -13,7 +13,7 @@
 | Lieutenant | 11.00% | ~101 |
 | Getting Deployment | 11.00% | ~101 |
 | Stocking Up | 11.00% | ~101 |
-| On Target | 10.00% | ~92 |
+| On Target | 11.00% | ~101 |
 | Infantry Reporting | 10.00% | ~92 |
 | Fighting for Survival | 9.00% | ~83 |
 | Keeping Busy | 9.00% | ~83 |

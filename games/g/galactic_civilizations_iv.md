@@ -6,21 +6,21 @@ Number of Ratings: 429  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 79.00% | ~5,033 |
-| Worker Specialization | 78.00% | ~4,969 |
-| First Contact | 73.00% | ~4,651 |
-| Win a Battle | 67.00% | ~4,269 |
-| Anomaly Researcher | 63.00% | ~4,014 |
-| Unleash My Power | 62.00% | ~3,950 |
-| Own 30 Planets | 34.00% | ~2,166 |
-| Xenocide | 32.00% | ~2,039 |
-| Commodity Trader | 31.00% | ~1,975 |
-| Design a Civilization | 31.00% | ~1,975 |
-| Design a Ship | 28.00% | ~1,784 |
-| Commodity Seller | 25.00% | ~1,593 |
-| Prestige Victory! | 14.00% | ~892 |
+| Colonize a Planet | 79.00% | ~5,036 |
+| Worker Specialization | 78.00% | ~4,972 |
+| First Contact | 73.00% | ~4,654 |
+| Win a Battle | 67.00% | ~4,271 |
+| Anomaly Researcher | 62.00% | ~3,952 |
+| Unleash My Power | 62.00% | ~3,952 |
+| Own 30 Planets | 34.00% | ~2,168 |
+| Xenocide | 32.00% | ~2,040 |
+| Commodity Trader | 31.00% | ~1,976 |
+| Design a Civilization | 31.00% | ~1,976 |
+| Design a Ship | 28.00% | ~1,785 |
+| Commodity Seller | 25.00% | ~1,594 |
+| Prestige Victory! | 14.00% | ~893 |
 | Galactic War | 11.00% | ~701 |
-| Trading Partner | 9.00% | ~573 |
+| Trading Partner | 9.00% | ~574 |
 | Fleet Victory | 8.00% | ~510 |
 | Win as Terrans | 7.00% | ~446 |
 | Gain an Ally | 6.00% | ~382 |
@@ -30,11 +30,11 @@ Number of Ratings: 429  (23.09.2022)
 | Conquest Victory! | 4.00% | ~255 |
 | Win an Immense Game | 4.00% | ~255 |
 | Pirate Cleansing | 3.00% | ~191 |
-| Artifact Mastery | 2.00% | ~127 |
-| Win as Altarians | 2.00% | ~127 |
-| Win as the Mimot | 2.00% | ~127 |
-| Win as the Yor | 2.00% | ~127 |
-| Influence Victory! | 2.00% | ~127 |
+| Artifact Mastery | 2.00% | ~128 |
+| Win as Altarians | 2.00% | ~128 |
+| Win as the Mimot | 2.00% | ~128 |
+| Win as the Yor | 2.00% | ~128 |
+| Influence Victory! | 2.00% | ~128 |
 | Win as Arceans | 1.00% | ~64 |
 | Win as the Baratak | 1.00% | ~64 |
 | Win as Festron | 1.00% | ~64 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,371 (Ranked 135)  
+Progressed: 6,375 (Ranked 135)  
 Completed: 0 (0.00%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 0 (0.00%) (Ranked 257)
 | 2023-08-12 | 6,339 | 0 |
 | 2023-08-13 | 6,350 | 0 |
 | 2023-08-14 | 6,362 | 0 |
-| 2023-08-15 | 6,371 | 0 |
+| 2023-08-15 | 6,375 | 0 |
 ## Awards
 Max (Diverse Characters): 92  (Ranked 348)  
 Sum: 673 (Ranked 281)  

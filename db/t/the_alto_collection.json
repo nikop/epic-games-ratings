@@ -745,9 +745,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 35507,
+  "EOS_Progressed": 35514,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 916,
+  "EOS_NewPlayers": 915,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -13600,6 +13600,11 @@
       "Time": "2023-08-15T20:05:27.5484468+00:00",
       "NumProgressed": 35507,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-15T21:04:52.2916019+00:00",
+      "NumProgressed": 35514,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -13635,7 +13640,7 @@
       "Name": "Scout",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3906
+      "UsersEstimate": 3907
     },
     {
       "ID": "distance500000",
@@ -13651,7 +13656,7 @@
       "Name": "Rookie",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 9232
+      "UsersEstimate": 9234
     },
     {
       "ID": "goals180",
@@ -13691,7 +13696,7 @@
       "Name": "Aviator",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2130
+      "UsersEstimate": 2131
     },
     {
       "ID": "journeyer",
@@ -13723,7 +13728,7 @@
       "Name": "My Little Friend",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1775
+      "UsersEstimate": 1776
     },
     {
       "ID": "nomad",
@@ -13731,7 +13736,7 @@
       "Name": "Nomad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 6391
+      "UsersEstimate": 6393
     },
     {
       "ID": "novice",
@@ -13739,7 +13744,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 5681
+      "UsersEstimate": 5682
     },
     {
       "ID": "playerFelipe",
@@ -13763,7 +13768,7 @@
       "Name": "Unlock Maya",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2485
+      "UsersEstimate": 2486
     },
     {
       "ID": "playerPaz",
@@ -13803,7 +13808,7 @@
       "Name": "One With The Board",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 1775
+      "UsersEstimate": 1776
     },
     {
       "ID": "proximityFly1000",
@@ -13819,7 +13824,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 9232
+      "UsersEstimate": 9234
     },
     {
       "ID": "sandboarder",
@@ -13827,7 +13832,7 @@
       "Name": "Sandboarder",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 1420
+      "UsersEstimate": 1421
     },
     {
       "ID": "sightseer",
@@ -13835,7 +13840,7 @@
       "Name": "Sightseer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3906
+      "UsersEstimate": 3907
     },
     {
       "ID": "ultimate",
@@ -13867,7 +13872,7 @@
       "Name": "Izel Has Arrived",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 1420
+      "UsersEstimate": 1421
     },
     {
       "ID": "unlockmaya",
@@ -13875,7 +13880,7 @@
       "Name": "Welcome Maya",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 5326
+      "UsersEstimate": 5327
     },
     {
       "ID": "unlockpaz",
@@ -13899,7 +13904,7 @@
       "Name": "Voyager",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 1775
+      "UsersEstimate": 1776
     },
     {
       "ID": "wanderer",
@@ -13922,15 +13927,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 35507,
+      "Progressed": 35514,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-07-28T06:00:25.7046366+00:00",
-  "LastChanged_Achievements": "2023-08-15T20:05:27.5484462+00:00",
+  "LastChanged_Achievements": "2023-08-15T21:04:52.2916015+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:07.3471244+00:00",
-  "LastUpdate_Ratings": "2023-08-15T20:01:28.7863388+00:00",
-  "LastUpdate_Achievements": "2023-08-15T20:05:27.5485974+00:00"
+  "LastUpdate_Ratings": "2023-08-15T21:00:19.8291752+00:00",
+  "LastUpdate_Achievements": "2023-08-15T21:04:52.2917081+00:00"
 }

@@ -7,9 +7,9 @@
 | Seeds of War | 76.00% | ~197 |
 | First Blood | 59.00% | ~153 |
 | Triple Kill | 57.00% | ~148 |
+| Aspairagus | 57.00% | ~119 |
 | Survivor | 56.00% | ~117 |
-| Aspairagus | 56.00% | ~117 |
-| No Asperascope | 51.00% | ~132 |
+| No Asperascope | 52.00% | ~135 |
 | Cornivore | 51.00% | ~132 |
 | I Believe I Can Fly | 48.00% | ~124 |
 | Early Survivor | 42.00% | ~88 |
@@ -25,9 +25,9 @@
 | Pork Chop Express | 18.00% | ~47 |
 | This Is My Boomstick | 16.00% | ~33 |
 | Skin Of Your Teeth | 15.00% | ~39 |
+| Getting Started | 14.00% | ~36 |
 | Carrocketeer | 14.00% | ~36 |
 | Oh My Gourd | 14.00% | ~29 |
-| Getting Started | 13.00% | ~34 |
 | Eggtraordinary | 13.00% | ~34 |
 | Summers Here | 11.00% | ~23 |
 | Fresh Pancake | 10.00% | ~26 |

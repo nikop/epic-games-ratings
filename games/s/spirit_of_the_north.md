@@ -6,32 +6,32 @@ Number of Ratings: 1,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 68.00% | ~44,663 |
-| INFUSED WITH LIGHT | 53.00% | ~34,811 |
-| FOXIN' AROUND | 29.00% | ~19,047 |
-| FETCH | 27.00% | ~17,734 |
-| BLOOMS OF LIGHT | 26.00% | ~17,077 |
+| A GUARDIAN FORGOTTEN | 68.00% | ~44,665 |
+| INFUSED WITH LIGHT | 53.00% | ~34,813 |
+| FOXIN' AROUND | 29.00% | ~19,048 |
+| FETCH | 27.00% | ~17,735 |
+| BLOOMS OF LIGHT | 26.00% | ~17,078 |
 | BEST FRIENDS | 22.00% | ~14,450 |
-| AWAKEN | 21.00% | ~13,793 |
-| ERADICATE | 21.00% | ~13,793 |
-| SPIRIT BARK | 21.00% | ~13,793 |
+| AWAKEN | 21.00% | ~13,794 |
+| ERADICATE | 21.00% | ~13,794 |
+| SPIRIT BARK | 21.00% | ~13,794 |
 | GARDEN OF LIGHT | 18.00% | ~11,823 |
 | SPIRIT FORM | 16.00% | ~10,509 |
-| UPROOTING DARKNESS | 15.00% | ~9,852 |
-| WRITTEN IN STONE | 15.00% | ~9,852 |
+| UPROOTING DARKNESS | 15.00% | ~9,853 |
+| WRITTEN IN STONE | 15.00% | ~9,853 |
 | WEIGHTLESS | 12.00% | ~7,882 |
 | SPIRIT DASH | 11.00% | ~7,225 |
-| OLD COMPANION | 9.00% | ~5,911 |
-| PLAGUE DOCTOR | 8.00% | ~5,254 |
-| SPIRITED AWAY | 8.00% | ~5,254 |
+| OLD COMPANION | 9.00% | ~5,912 |
+| PLAGUE DOCTOR | 8.00% | ~5,255 |
+| SPIRITED AWAY | 8.00% | ~5,255 |
 | MATCH MAKER | 7.00% | ~4,598 |
 | NORTHERN LIGHTS | 7.00% | ~4,598 |
 | FOX? OR FLYING SQUIRREL? | 4.00% | ~2,627 |
-| ANCIENT HISTORY | 3.00% | ~1,970 |
+| ANCIENT HISTORY | 3.00% | ~1,971 |
 | NONE FORGOTTEN | 2.00% | ~1,314 |
 | KINDRED SPIRITS | 0.60% | ~394 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,681 (Ranked 82)  
+Progressed: 65,684 (Ranked 82)  
 Completed: 345 (0.53%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,7 +148,7 @@ Completed: 345 (0.53%) (Ranked 140)
 | 2023-08-12 | 65,372 | 344 |
 | 2023-08-13 | 65,478 | 345 |
 | 2023-08-14 | 65,584 | 345 |
-| 2023-08-15 | 65,681 | 345 |
+| 2023-08-15 | 65,684 | 345 |
 ## Awards
 Max (Extremely Fun): 26  (Ranked 474)  
 Sum: 114 (Ranked 411)  

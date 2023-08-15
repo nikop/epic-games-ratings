@@ -6540,7 +6540,7 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 797175,
+  "EOS_Progressed": 797178,
   "EOS_Completed": 44,
   "EOS_NewPlayers": 904,
   "EOS_NewCompleters": 0,
@@ -19365,6 +19365,11 @@
       "Time": "2023-08-15T20:05:49.3086958+00:00",
       "NumProgressed": 797175,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-08-15T21:05:09.7257755+00:00",
+      "NumProgressed": 797178,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 82,
@@ -19456,7 +19461,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 255096
+      "UsersEstimate": 255097
     },
     {
       "ID": "Bookworm",
@@ -19464,7 +19469,7 @@
       "Name": "Bookworm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 119576
+      "UsersEstimate": 119577
     },
     {
       "ID": "Buddy",
@@ -19480,7 +19485,7 @@
       "Name": "Casanova",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 47830
+      "UsersEstimate": 47831
     },
     {
       "ID": "Cavalier",
@@ -19576,7 +19581,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 183350
+      "UsersEstimate": 183351
     },
     {
       "ID": "Fighter",
@@ -19592,7 +19597,7 @@
       "Name": "Firestarter",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 119576
+      "UsersEstimate": 119577
     },
     {
       "ID": "Freud",
@@ -19856,7 +19861,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 159435
+      "UsersEstimate": 159436
     },
     {
       "ID": "RevenantOfLedechko",
@@ -19896,7 +19901,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 159435
+      "UsersEstimate": 159436
     },
     {
       "ID": "SerialKiller",
@@ -19912,7 +19917,7 @@
       "Name": "Sinner",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 87689
+      "UsersEstimate": 87690
     },
     {
       "ID": "Sniper",
@@ -20031,15 +20036,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 797175,
+      "Progressed": 797178,
       "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-08-15T17:00:50.7919424+00:00",
-  "LastChanged_Achievements": "2023-08-15T20:05:49.3086953+00:00",
+  "LastChanged_Achievements": "2023-08-15T21:05:09.7257751+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:10.6594463+00:00",
-  "LastUpdate_Ratings": "2023-08-15T20:00:32.8087499+00:00",
-  "LastUpdate_Achievements": "2023-08-15T20:05:49.3088963+00:00"
+  "LastUpdate_Ratings": "2023-08-15T20:59:35.9624211+00:00",
+  "LastUpdate_Achievements": "2023-08-15T21:05:09.7259475+00:00"
 }

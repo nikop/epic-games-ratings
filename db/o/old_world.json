@@ -2,7 +2,7 @@
   "ID": "07f4a7dd3c884e5d87e9a209716962ca",
   "Name": "Old World",
   "ProductSlug": "old-world",
-  "Ranking_Rating": 298,
+  "Ranking_Rating": 299,
   "Ranking_Popularity": 264,
   "Ranking_PopularitySum": 206,
   "Ranking_EOS_Progress": 117,
@@ -1599,9 +1599,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13417,
+  "EOS_Progressed": 13418,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -9689,6 +9689,11 @@
       "Time": "2023-08-15T17:05:43.2235265+00:00",
       "NumProgressed": 13417,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-15T21:04:37.5858977+00:00",
+      "NumProgressed": 13418,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -11426,9 +11431,9 @@
       "ID": "ACHIEVEMENT_PLAY_MPTEAMS",
       "SetID": "9201eeb",
       "Name": "Play a MP Teams Game",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 27
     },
     {
       "ID": "ACHIEVEMENT_PLAY_NETWORK",
@@ -11642,9 +11647,9 @@
       "ID": "ACHIEVEMENT_TECH_INDUSTRIAL_PROGRESS",
       "SetID": "9201eeb",
       "Name": "Industrial Progress",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 54
+      "UsersEstimate": 67
     },
     {
       "ID": "ACHIEVEMENT_TECH_MILITARY_PRESTIGE",
@@ -12067,21 +12072,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13417,
+      "Progressed": 13418,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13417,
+      "Progressed": 13418,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-12T03:59:31.9297462+00:00",
-  "LastChanged_Achievements": "2023-08-15T20:05:09.8012476+00:00",
+  "LastChanged_Achievements": "2023-08-15T21:04:37.5858973+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:38.1291138+00:00",
-  "LastUpdate_Ratings": "2023-08-15T19:59:51.6053078+00:00",
-  "LastUpdate_Achievements": "2023-08-15T20:05:09.802293+00:00"
+  "LastUpdate_Ratings": "2023-08-15T20:59:05.8023823+00:00",
+  "LastUpdate_Achievements": "2023-08-15T21:04:37.5867481+00:00"
 }

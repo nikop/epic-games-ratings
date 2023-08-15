@@ -6325,10 +6325,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 14080,
       "NumberOfAwardsMax": 6941
+    },
+    {
+      "Time": "2023-08-15T21:00:42.7110408+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 14083,
+      "NumberOfAwardsMax": 6941
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14080,
+  "NumberOfAwards": 14083,
   "NumberOfAwardsMax": 6941,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6360,7 +6366,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 918
+      "Count": 920
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -6396,7 +6402,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 572
+      "Count": 573
     },
     {
       "Text": "This game has Competitive Players",
@@ -6405,9 +6411,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 58928,
+  "EOS_Progressed": 58929,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 447,
+  "EOS_NewPlayers": 446,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18760,6 +18766,11 @@
       "Time": "2023-08-15T20:04:57.7383765+00:00",
       "NumProgressed": 58928,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-15T21:04:27.6070203+00:00",
+      "NumProgressed": 58929,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -18883,7 +18894,7 @@
       "Name": "Fat Cat",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "Freedom",
@@ -19178,15 +19189,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 58928,
+      "Progressed": 58929,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-08-15T18:03:30.529982+00:00",
-  "LastChanged_Achievements": "2023-08-15T20:04:57.738376+00:00",
+  "LastChanged": "2023-08-15T21:00:42.7110406+00:00",
+  "LastChanged_Achievements": "2023-08-15T21:04:27.6070197+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:44.6335832+00:00",
-  "LastUpdate_Ratings": "2023-08-15T20:02:00.6108097+00:00",
-  "LastUpdate_Achievements": "2023-08-15T20:04:57.7384983+00:00"
+  "LastUpdate_Ratings": "2023-08-15T21:00:42.7110414+00:00",
+  "LastUpdate_Achievements": "2023-08-15T21:04:27.6071381+00:00"
 }

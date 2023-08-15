@@ -1180,9 +1180,9 @@
       "ID": "ETUA_Thiswillbealongnight",
       "SetID": "65jc0ap",
       "Name": "A Night To Remember",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 85
     },
     {
       "ID": "ETUA_Trapped",
@@ -1221,8 +1221,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-08-15T20:04:59.3465202+00:00",
+  "LastChanged_Achievements": "2023-08-15T21:04:29.0065554+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:06.4642166+00:00",
-  "LastUpdate_Ratings": "2023-08-15T19:58:52.1690822+00:00",
-  "LastUpdate_Achievements": "2023-08-15T20:04:59.3465621+00:00"
+  "LastUpdate_Ratings": "2023-08-15T20:58:17.7639945+00:00",
+  "LastUpdate_Achievements": "2023-08-15T21:04:29.0065918+00:00"
 }

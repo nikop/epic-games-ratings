@@ -5,47 +5,47 @@ Rating: 4.85 (Ranked 42)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~218,341 |
-| Private Club | 74.00% | ~177,552 |
-| Rogue Guild | 65.00% | ~155,958 |
-| I Watched the Intro | 57.00% | ~136,763 |
-| Covert Consortium | 55.00% | ~131,964 |
-| Goat Queen | 53.00% | ~127,166 |
-| Reach the Stratosphere | 50.00% | ~119,968 |
-| Synchronization Complete | 47.00% | ~112,769 |
-| Secret Society | 45.00% | ~107,971 |
-| Shadow Syndicate | 37.00% | ~88,776 |
-| What a Waste of Money | 33.00% | ~79,179 |
-| New Goat Order | 30.00% | ~71,980 |
-| Don't touch the servers | 28.00% | ~67,182 |
-| San Angora: Become Human | 26.00% | ~62,383 |
-| Raider of the Lost Parking Garage | 26.00% | ~62,383 |
-| Real Buoy | 26.00% | ~62,383 |
-| Welcome to Earth | 25.00% | ~59,984 |
-| Into the Matrix | 19.00% | ~45,588 |
-| Where is It? | 17.00% | ~40,789 |
-| Egg Simulator | 17.00% | ~40,789 |
-| Beauty, Mindfulness and Meditation | 15.00% | ~35,990 |
-| Black Market | 14.00% | ~33,591 |
-| 401(K.O.) | 14.00% | ~33,591 |
-| Car Cave | 12.00% | ~28,792 |
-| Club Mohair | 8.00% | ~19,195 |
-| A Center for Ants? | 8.00% | ~19,195 |
-| French Fika | 7.00% | ~16,795 |
-| Who Baywatches the Baywatch? | 4.00% | ~9,597 |
-| Nasty! | 4.00% | ~9,597 |
-| [REDACTED] | 4.00% | ~9,597 |
+| Forgotten Sorority | 91.00% | ~218,352 |
+| Private Club | 74.00% | ~177,561 |
+| Rogue Guild | 65.00% | ~155,966 |
+| I Watched the Intro | 57.00% | ~136,770 |
+| Covert Consortium | 55.00% | ~131,971 |
+| Goat Queen | 53.00% | ~127,172 |
+| Reach the Stratosphere | 50.00% | ~119,974 |
+| Synchronization Complete | 47.00% | ~112,775 |
+| Secret Society | 45.00% | ~107,976 |
+| Shadow Syndicate | 37.00% | ~88,780 |
+| What a Waste of Money | 33.00% | ~79,183 |
+| New Goat Order | 30.00% | ~71,984 |
+| Don't touch the servers | 28.00% | ~67,185 |
+| San Angora: Become Human | 26.00% | ~62,386 |
+| Raider of the Lost Parking Garage | 26.00% | ~62,386 |
+| Real Buoy | 26.00% | ~62,386 |
+| Welcome to Earth | 25.00% | ~59,987 |
+| Into the Matrix | 19.00% | ~45,590 |
+| Where is It? | 17.00% | ~40,791 |
+| Egg Simulator | 17.00% | ~40,791 |
+| Beauty, Mindfulness and Meditation | 15.00% | ~35,992 |
+| Black Market | 14.00% | ~33,593 |
+| 401(K.O.) | 14.00% | ~33,593 |
+| Car Cave | 12.00% | ~28,794 |
+| Club Mohair | 8.00% | ~19,196 |
+| A Center for Ants? | 8.00% | ~19,196 |
+| French Fika | 7.00% | ~16,796 |
+| Who Baywatches the Baywatch? | 4.00% | ~9,598 |
+| Nasty! | 4.00% | ~9,598 |
+| [REDACTED] | 4.00% | ~9,598 |
 | Cannibanana | 2.00% | ~4,799 |
 | Daredevil | 2.00% | ~4,799 |
 | You Trusted Your Instincts | 1.00% | ~2,399 |
 | Certified Fresh | 1.00% | ~2,399 |
 | Streaking | 1.00% | ~2,399 |
 | Try Hard 2 | 1.00% | ~2,399 |
-| Crocsquatch | 0.90% | ~2,159 |
+| Crocsquatch | 0.90% | ~2,160 |
 | Move! That! Bus! | 0.60% | ~1,440 |
 | G.O.A.T | 0.30% | ~720 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,935 (Ranked 49)  
+Progressed: 239,947 (Ranked 49)  
 Completed: 795 (0.33%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,10 +162,10 @@ Completed: 795 (0.33%) (Ranked 162)
 | 2023-08-12 | 238,456 | 794 |
 | 2023-08-13 | 239,025 | 794 |
 | 2023-08-14 | 239,544 | 795 |
-| 2023-08-15 | 239,935 | 795 |
+| 2023-08-15 | 239,947 | 795 |
 ## Awards
 Max (Great for Beginners): 380  (Ranked 219)  
-Sum: 3,202 (Ranked 154)  
+Sum: 3,203 (Ranked 154)  
 Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
@@ -173,7 +173,7 @@ Diff (max vs sum): 65
 | This game has Diverse Characters | 365 |
 | This game is Highly Recommended | 344 |
 | This game has Amazing Characters | 320 |
-| This game is Extremely Fun | 316 |
+| This game is Extremely Fun | 317 |
 | This game has Quickly Understood Controls | 308 |
 | This game is Relaxing | 307 |
 | This game has Amazing Storytelling | 302 |
@@ -327,4 +327,4 @@ Diff (max vs sum): 65
 | 2023-08-12 | 4.85 | 377 | 3,183 |
 | 2023-08-13 | 4.85 | 378 | 3,188 |
 | 2023-08-14 | 4.85 | 379 | 3,194 |
-| 2023-08-15 | 4.85 | 380 | 3,202 |
+| 2023-08-15 | 4.85 | 380 | 3,203 |

@@ -38,7 +38,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Supreme Emperor | 1.00% | ~589 |
 | Crackshot | 0.80% | ~471 |
 | Undercover | 0.80% | ~471 |
-| Fat Cat | 0.70% | ~412 |
+| Fat Cat | 0.70% | ~413 |
 | Catch | 0.60% | ~354 |
 | Slice 'n dice | 0.40% | ~236 |
 | Mounted Archery | 0.30% | ~177 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,928 (Ranked 86)  
+Progressed: 58,929 (Ranked 86)  
 Completed: 0 (0.00%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,15 +175,15 @@ Completed: 0 (0.00%) (Ranked 257)
 | 2023-08-12 | 58,752 | 0 |
 | 2023-08-13 | 58,825 | 0 |
 | 2023-08-14 | 58,880 | 0 |
-| 2023-08-15 | 58,928 | 0 |
+| 2023-08-15 | 58,929 | 0 |
 ## Awards
 Max (Character Customization): 6,941  (Ranked 49)  
-Sum: 14,080 (Ranked 67)  
+Sum: 14,083 (Ranked 67)  
 Diff (max vs sum): -18  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 6,941 |
-| This game is Great for Beginners | 918 |
+| This game is Great for Beginners | 920 |
 | This game has Diverse Characters | 885 |
 | This game is Highly Recommended | 841 |
 | This game is Extremely Fun | 803 |
@@ -191,7 +191,7 @@ Diff (max vs sum): -18
 | This game is Relaxing | 782 |
 | This game has Amazing Characters | 775 |
 | This game has Quickly Understood Controls | 772 |
-| This game has a Creative Community | 572 |
+| This game has a Creative Community | 573 |
 | This game has Obsessive Gameplay | 376 |
 | This game has Competitive Players | 107 |
 ## Ratings History
@@ -409,4 +409,4 @@ Diff (max vs sum): -18
 | 2023-08-12 | 4.74 | - | 6,922 | 14,045 |
 | 2023-08-13 | 4.74 | - | 6,933 | 14,066 |
 | 2023-08-14 | 4.74 | - | 6,935 | 14,068 |
-| 2023-08-15 | 4.74 | - | 6,941 | 14,080 |
+| 2023-08-15 | 4.74 | - | 6,941 | 14,083 |

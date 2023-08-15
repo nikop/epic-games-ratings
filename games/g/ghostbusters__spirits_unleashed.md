@@ -5,25 +5,25 @@ Rating: 4.49 (Ranked 575)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~21,596 |
+| Stylish | 86.00% | ~21,597 |
 | Advancement | 73.00% | ~18,332 |
 | Meticulously Efficient | 63.00% | ~15,821 |
-| Discovery | 61.00% | ~15,318 |
-| Fully Upgraded | 54.00% | ~13,560 |
-| Swift Rift Removers | 54.00% | ~13,560 |
-| I collect Spores, Molds, and Fungi | 51.00% | ~12,807 |
-| Cultured | 51.00% | ~12,807 |
+| Discovery | 61.00% | ~15,319 |
+| Fully Upgraded | 54.00% | ~13,561 |
+| Swift Rift Removers | 54.00% | ~13,561 |
+| I collect Spores, Molds, and Fungi | 51.00% | ~12,808 |
+| Cultured | 51.00% | ~12,808 |
 | Vaporous Expansion | 48.00% | ~12,054 |
-| Teamwork | 43.00% | ~10,798 |
+| Teamwork | 43.00% | ~10,799 |
 | There you are! | 42.00% | ~10,547 |
 | Clutch Capture | 40.00% | ~10,045 |
-| Back Off | 35.00% | ~8,789 |
-| Daily Dose | 35.00% | ~8,789 |
+| Back Off | 35.00% | ~8,790 |
+| Daily Dose | 35.00% | ~8,790 |
 | Solo Capture | 32.00% | ~8,036 |
 | Welcome to the Crew | 31.00% | ~7,785 |
 | Ghostbuster In Training | 30.00% | ~7,534 |
 | Icing on the Cake | 30.00% | ~7,534 |
-| Side Hustle | 27.00% | ~6,780 |
+| Side Hustle | 27.00% | ~6,781 |
 | We have the best insurance | 26.00% | ~6,529 |
 | Legions | 26.00% | ~6,529 |
 | Right back at ya | 26.00% | ~6,529 |
@@ -41,7 +41,7 @@ Rating: 4.49 (Ranked 575)
 | Diabolical | 16.00% | ~4,018 |
 | Seasoned | 16.00% | ~4,018 |
 | Escape Artist | 15.00% | ~3,767 |
-| Whoopsie | 12.00% | ~3,013 |
+| Whoopsie | 12.00% | ~3,014 |
 | Liability | 10.00% | ~2,511 |
 | Rivalry | 10.00% | ~2,511 |
 | Fragile Panes | 9.00% | ~2,260 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 575)
 | I don't need these | 1.00% | ~251 |
 | Mycophile | 1.00% | ~251 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,112 (Ranked 101)  
+Progressed: 25,113 (Ranked 101)  
 Completed: 51 (0.20%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,16 +174,16 @@ Completed: 51 (0.20%) (Ranked 183)
 | 2023-08-12 | 25,020 | 50 |
 | 2023-08-13 | 25,058 | 51 |
 | 2023-08-14 | 25,087 | 51 |
-| 2023-08-15 | 25,112 | 51 |
+| 2023-08-15 | 25,113 | 51 |
 ## Awards
 Max (Great for Quick Sessions): 247  (Ranked 254)  
-Sum: 2,236 (Ranked 189)  
+Sum: 2,237 (Ranked 189)  
 Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 247 |
 | This game is Great for Beginners | 242 |
-| This game has Competitive Players | 229 |
+| This game has Competitive Players | 230 |
 | This game has Amazing Storytelling | 226 |
 | This game has Diverse Characters | 221 |
 | This game is Extremely Fun | 219 |
@@ -333,4 +333,4 @@ Diff (max vs sum): 65
 | 2023-08-11 | 4.49 | 247 | 2,228 |
 | 2023-08-13 | 4.49 | 247 | 2,231 |
 | 2023-08-14 | 4.49 | 247 | 2,232 |
-| 2023-08-15 | 4.49 | 247 | 2,236 |
+| 2023-08-15 | 4.49 | 247 | 2,237 |

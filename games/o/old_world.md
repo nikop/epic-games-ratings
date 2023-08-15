@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 298)  
+Rating: 4.65 (Ranked 299)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -112,6 +112,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage | 0.50% | ~67 |
 | Assyrian Paganism | 0.50% | ~67 |
 | Economic Reform | 0.50% | ~67 |
+| Industrial Progress | 0.50% | ~67 |
 | Dualism | 0.50% | ~67 |
 | Enlightenment | 0.50% | ~67 |
 | Redemption | 0.50% | ~67 |
@@ -126,7 +127,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Babylonia | 0.40% | ~54 |
 | Rome | 0.40% | ~54 |
 | One True Faith | 0.40% | ~54 |
-| Industrial Progress | 0.40% | ~54 |
 | Military Prestige | 0.40% | ~54 |
 | Gnosticism | 0.40% | ~54 |
 | Revelation | 0.40% | ~54 |
@@ -160,6 +160,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hatti | 0.20% | ~27 |
 | Pantheon of Gods | 0.20% | ~27 |
 | Play a Free-For-All Game (>2 Players) | 0.20% | ~27 |
+| Play a MP Teams Game | 0.20% | ~27 |
 | Play a Network Game | 0.20% | ~27 |
 | Play a Play-By-Cloud Game | 0.20% | ~27 |
 | Capturing Cities | 0.20% | ~27 |
@@ -253,7 +254,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a 1-v-1 Game | 0.10% | ~13 |
 | Play a Hotseat Game | 0.10% | ~13 |
 | Play a LAN Game | 0.10% | ~13 |
-| Play a MP Teams Game | 0.10% | ~13 |
 | Punic Wars | 0.10% | ~13 |
 | Roman Papacy | 0.10% | ~13 |
 | Circus Maximus in Roma | 0.10% | ~13 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,417 (Ranked 117)  
+Progressed: 13,418 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -420,7 +420,7 @@ Completed: 5 (0.04%) (Ranked 226)
 | 2023-08-12 | 13,385 | 5 |
 | 2023-08-13 | 13,400 | 5 |
 | 2023-08-14 | 13,412 | 5 |
-| 2023-08-15 | 13,417 | 5 |
+| 2023-08-15 | 13,418 | 5 |
 ## Awards
 Max (Relaxing): 219  (Ranked 264)  
 Sum: 1,790 (Ranked 206)  
