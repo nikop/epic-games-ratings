@@ -11,7 +11,7 @@
 | 8 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 25.00% |
 | 10 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 11 | [Volley Pals](games/v/volley_pals.md) | 23.91% |
-| 12 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 23.20% |
+| 12 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 23.02% |
 | 13 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 13 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 15 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
@@ -31,7 +31,7 @@
 | 29 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 10.00% |
 | 30 | [Sonic Origins](games/s/sonic_origins.md) | 9.62% |
 | 31 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.30% |
-| 32 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.96% |
+| 32 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.95% |
 | 33 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 8.70% |
 | 34 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.48% |
 | 35 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 7.81% |
@@ -60,7 +60,7 @@
 | 58 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
 | 59 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.05% |
 | 60 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 4.00% |
-| 61 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.90% |
+| 61 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.89% |
 | 62 | [ZZT!](games/z/zzt!.md) | 3.78% |
 | 63 | [Without Escape](games/w/without_escape.md) | 3.70% |
 | 64 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
@@ -182,9 +182,9 @@
 | 179 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.23% |
 | 181 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
 | 181 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.22% |
-| 183 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.21% |
-| 184 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.20% |
-| 184 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.20% |
+| 183 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.20% |
+| 183 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.20% |
+| 183 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.20% |
 | 186 | [Going Medieval](games/g/going_medieval.md) | 0.19% |
 | 187 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.18% |
 | 187 | [RAILGRADE](games/r/railgrade.md) | 0.18% |
@@ -543,4 +543,4 @@
 | 257 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 257 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 257 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,054 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,055 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
