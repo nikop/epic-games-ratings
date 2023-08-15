@@ -72,7 +72,7 @@
 | 66 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 512 |
 | 66 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 33 | 448 |
 | 66 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 2,712 | 95 |
-| 66 | [Sifu](games/s/sifu.md) | 4.82 | 6,368 | 55 |
+| 66 | [Sifu](games/s/sifu.md) | 4.82 | 6,371 | 55 |
 | 66 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 399 | 215 |
 | 66 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.82 | 0 | 512 |
 | 76 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 423 | 208 |
@@ -128,7 +128,7 @@
 | 119 | [Outlast](games/o/outlast.md) | 4.76 | 0 | 512 |
 | 119 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,701 | 117 |
 | 119 | [Quake](games/q/quake.md) | 4.76 | 48 | 407 |
-| 119 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 9,918 | 36 |
+| 119 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 9,940 | 36 |
 | 119 | [SpiderHeck](games/s/spiderheck.md) | 4.76 | 0 | 512 |
 | 119 | [Tchia](games/t/tchia.md) | 4.76 | 0 | 512 |
 | 119 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.76 | 45 | 413 |
@@ -487,7 +487,7 @@
 | 485 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.55 | 0 | 512 |
 | 485 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.55 | 0 | 512 |
 | 485 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 0 | 512 |
-| 485 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 1,384 | 127 |
+| 485 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 1,387 | 127 |
 | 485 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.55 | 50 | 402 |
 | 485 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.55 | 234 | 258 |
 | 485 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.55 | 153 | 295 |

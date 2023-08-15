@@ -35,7 +35,7 @@
 | 33 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,362 | 4.69 | 213 |
 | 34 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 11,111 | 4.45 | 633 |
 | 35 | [Satisfactory](games/s/satisfactory.md) | 11,063 | 4.88 | 18 |
-| 36 | [SnowRunner](games/s/snowrunner.md) | 9,918 | 4.76 | 119 |
+| 36 | [SnowRunner](games/s/snowrunner.md) | 9,940 | 4.76 | 119 |
 | 37 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,803 | 4.61 | 364 |
 | 38 | [HITMAN World of Assassination](games/h/hitman_3.md) | 9,711 | 4.78 | 101 |
 | 39 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 8,785 | 4.58 | 425 |
@@ -54,7 +54,7 @@
 | 52 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 665 |
 | 53 | [DEATH STRANDING](games/d/death_stranding.md) | 6,682 | 4.77 | 107 |
 | 54 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,400 | 4.80 | 82 |
-| 55 | [Sifu](games/s/sifu.md) | 6,368 | 4.82 | 66 |
+| 55 | [Sifu](games/s/sifu.md) | 6,371 | 4.82 | 66 |
 | 56 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,292 | 4.58 | 425 |
 | 57 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 5,966 | 4.79 | 87 |
 | 58 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,961 | 4.64 | 314 |
@@ -126,7 +126,7 @@
 | 124 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,426 | 4.87 | 25 |
 | 125 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 1,416 | 4.78 | 101 |
 | 126 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 1,394 | 4.53 | 511 |
-| 127 | [Conan Exiles](games/c/conan_exiles.md) | 1,384 | 4.55 | 485 |
+| 127 | [Conan Exiles](games/c/conan_exiles.md) | 1,387 | 4.55 | 485 |
 | 128 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 1,383 | 4.86 | 29 |
 | 129 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,314 | 4.70 | 198 |
 | 130 | [DOOM 64](games/d/doom_64.md) | 1,292 | 4.66 | 274 |
