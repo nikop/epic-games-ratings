@@ -16,7 +16,7 @@
 | 13 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 15 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
 | 16 | [Island Cities](games/i/island_cities.md) | 18.04% |
-| 17 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 15.83% |
+| 17 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 15.70% |
 | 18 | [Anna's Quest](games/a/anna's_quest.md) | 14.71% |
 | 19 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 13.94% |
 | 20 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.07% |
@@ -59,7 +59,7 @@
 | 57 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.18% |
 | 58 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
 | 59 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.05% |
-| 60 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 4.00% |
+| 60 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 3.92% |
 | 61 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.89% |
 | 62 | [ZZT!](games/z/zzt!.md) | 3.78% |
 | 63 | [Without Escape](games/w/without_escape.md) | 3.70% |
@@ -67,7 +67,7 @@
 | 65 | [Doodle God](games/d/doodle_god.md) | 3.46% |
 | 66 | [Bunny Park](games/b/bunny_park.md) | 3.39% |
 | 67 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.32% |
-| 68 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.17% |
+| 68 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.16% |
 | 69 | [HordeCore](games/h/hordecore.md) | 3.15% |
 | 70 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.05% |
 | 71 | [The Complex](games/t/the_complex.md) | 2.99% |
