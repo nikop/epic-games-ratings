@@ -48,11 +48,11 @@
 | 46 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.19% |
 | 47 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.83% |
 | 48 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.78% |
-| 49 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 4.76% |
 | 49 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 4.76% |
-| 51 | [Bugsnax](games/b/bugsnax.md) | 4.71% |
-| 52 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.69% |
-| 53 | [JARS](games/j/jars.md) | 4.55% |
+| 50 | [Bugsnax](games/b/bugsnax.md) | 4.71% |
+| 51 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.69% |
+| 52 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 4.55% |
+| 52 | [JARS](games/j/jars.md) | 4.55% |
 | 54 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.52% |
 | 55 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.35% |
 | 56 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.19% |
@@ -93,7 +93,7 @@
 | 91 | [Night Book](games/n/night_book.md) | 1.89% |
 | 92 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 93 | [Frogun](games/f/frogun.md) | 1.81% |
-| 94 | [Sifu](games/s/sifu.md) | 1.80% |
+| 93 | [Sifu](games/s/sifu.md) | 1.81% |
 | 95 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.67% |
 | 96 | [Iron Danger](games/i/iron_danger.md) | 1.62% |
 | 97 | [Somerville](games/s/somerville.md) | 1.61% |
@@ -108,7 +108,7 @@
 | 106 | [Late Shift](games/l/late_shift.md) | 1.30% |
 | 107 | [Chorus](games/c/chorus.md) | 1.15% |
 | 108 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.11% |
-| 108 | [Trifox](games/t/trifox.md) | 1.11% |
+| 109 | [Trifox](games/t/trifox.md) | 1.10% |
 | 110 | [A Musical Story](games/a/a_musical_story.md) | 1.09% |
 | 111 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.05% |
 | 112 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.01% |
@@ -125,15 +125,15 @@
 | 122 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
 | 124 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.73% |
 | 125 | [Lemon Cake](games/l/lemon_cake.md) | 0.72% |
-| 125 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.72% |
+| 126 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.71% |
 | 127 | [Haven](games/h/haven.md) | 0.65% |
 | 127 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.65% |
-| 129 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.63% |
 | 129 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.63% |
-| 131 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
+| 130 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
+| 130 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.62% |
 | 132 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.60% |
-| 133 | [Potion Permit](games/p/potion_permit.md) | 0.59% |
-| 134 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.58% |
+| 133 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.58% |
+| 133 | [Potion Permit](games/p/potion_permit.md) | 0.58% |
 | 135 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.57% |
 | 136 | [Grindstone](games/g/grindstone.md) | 0.56% |
 | 137 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.55% |
