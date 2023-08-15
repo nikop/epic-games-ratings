@@ -25,9 +25,9 @@
 | 21 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 11.11% |
 | 24 | [Remains](games/r/remains.md) | 10.64% |
 | 25 | [Out of Bounds](games/o/out_of_bounds.md) | 10.34% |
-| 26 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.23% |
+| 26 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.20% |
 | 27 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 10.00% |
-| 28 | [Sonic Origins](games/s/sonic_origins.md) | 9.67% |
+| 28 | [Sonic Origins](games/s/sonic_origins.md) | 9.64% |
 | 29 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.30% |
 | 30 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.97% |
 | 31 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 8.89% |
@@ -65,7 +65,7 @@
 | 63 | [Doodle God](games/d/doodle_god.md) | 3.46% |
 | 64 | [Bunny Park](games/b/bunny_park.md) | 3.39% |
 | 65 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.33% |
-| 66 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.19% |
+| 66 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.17% |
 | 67 | [HordeCore](games/h/hordecore.md) | 3.15% |
 | 68 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.05% |
 | 69 | [The Complex](games/t/the_complex.md) | 2.99% |
@@ -123,11 +123,11 @@
 | 121 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.80% |
 | 122 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.75% |
 | 122 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
-| 124 | [Lemon Cake](games/l/lemon_cake.md) | 0.73% |
 | 124 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.73% |
-| 126 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.72% |
-| 127 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.66% |
-| 128 | [Haven](games/h/haven.md) | 0.65% |
+| 125 | [Lemon Cake](games/l/lemon_cake.md) | 0.72% |
+| 125 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.72% |
+| 127 | [Haven](games/h/haven.md) | 0.65% |
+| 127 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.65% |
 | 129 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.63% |
 | 129 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.63% |
 | 131 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
@@ -186,12 +186,12 @@
 | 184 | [Going Medieval](games/g/going_medieval.md) | 0.19% |
 | 185 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.18% |
 | 185 | [RAILGRADE](games/r/railgrade.md) | 0.18% |
-| 187 | [BLACKTAIL](games/b/blacktail.md) | 0.16% |
-| 187 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
-| 187 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.16% |
-| 187 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
-| 187 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.16% |
-| 187 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.16% |
+| 187 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.17% |
+| 188 | [BLACKTAIL](games/b/blacktail.md) | 0.16% |
+| 188 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
+| 188 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
+| 188 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.16% |
+| 188 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.16% |
 | 193 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
 | 194 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.14% |
 | 195 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.13% |
@@ -541,4 +541,4 @@
 | 255 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 255 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 255 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,047 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,048 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
