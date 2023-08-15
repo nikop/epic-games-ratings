@@ -29,9 +29,9 @@
 | 27 | [Out of Bounds](games/o/out_of_bounds.md) | 10.34% |
 | 28 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.16% |
 | 29 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 10.00% |
-| 30 | [Sonic Origins](games/s/sonic_origins.md) | 9.62% |
+| 30 | [Sonic Origins](games/s/sonic_origins.md) | 9.60% |
 | 31 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.30% |
-| 32 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.95% |
+| 32 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.94% |
 | 33 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 8.70% |
 | 34 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.48% |
 | 35 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 7.81% |
@@ -543,4 +543,4 @@
 | 257 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 257 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 257 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,055 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,056 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
