@@ -6,10 +6,10 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~28,452 |
-| Just The Two of Us | 32.00% | ~26,778 |
-| Up On High | 25.00% | ~20,920 |
-| Under The Hood | 25.00% | ~20,920 |
+| Simoon | 34.00% | ~28,453 |
+| Just The Two of Us | 32.00% | ~26,779 |
+| Up On High | 25.00% | ~20,921 |
+| Under The Hood | 25.00% | ~20,921 |
 | Got Your Nose | 24.00% | ~20,084 |
 | The Gift of Gab | 24.00% | ~20,084 |
 | Wrapping Up | 22.00% | ~18,410 |
@@ -20,8 +20,8 @@ Number of Ratings: 43  (23.09.2022)
 | Silver-Tongued Sable | 16.00% | ~13,389 |
 | Sticky Paws | 16.00% | ~13,389 |
 | Bubble Up | 16.00% | ~13,389 |
-| Thread The Needle | 15.00% | ~12,552 |
-| Power to the People | 14.00% | ~11,715 |
+| Thread The Needle | 15.00% | ~12,553 |
+| Power to the People | 14.00% | ~11,716 |
 | Take That! | 13.00% | ~10,879 |
 | Nesting Giant | 13.00% | ~10,879 |
 | Treasure Tracker | 13.00% | ~10,879 |
@@ -34,11 +34,11 @@ Number of Ratings: 43  (23.09.2022)
 | Balfron Connection | 10.00% | ~8,368 |
 | Ceiling Of Stars | 10.00% | ~8,368 |
 | Playing Dress Up | 10.00% | ~8,368 |
-| Many Different Faces | 9.00% | ~7,531 |
-| Trellick's Pillar | 9.00% | ~7,531 |
-| Centre Of Brunswick | 9.00% | ~7,531 |
-| Bike Collector | 9.00% | ~7,531 |
-| Not That Kind Of Gliding | 9.00% | ~7,531 |
+| Many Different Faces | 9.00% | ~7,532 |
+| Trellick's Pillar | 9.00% | ~7,532 |
+| Centre Of Brunswick | 9.00% | ~7,532 |
+| Bike Collector | 9.00% | ~7,532 |
+| Not That Kind Of Gliding | 9.00% | ~7,532 |
 | The Scrapper Mask | 8.00% | ~6,695 |
 | Shadow Of Neave | 8.00% | ~6,695 |
 | Fragile Goods | 8.00% | ~6,695 |
@@ -58,12 +58,12 @@ Number of Ratings: 43  (23.09.2022)
 | The Entertainer Mask | 5.00% | ~4,184 |
 | The Quick and the Curious | 4.00% | ~3,347 |
 | Bike Aficionado | 4.00% | ~3,347 |
-| Chum Expert | 3.00% | ~2,510 |
-| Gastric Bypass | 3.00% | ~2,510 |
-| The Angler Mask | 3.00% | ~2,510 |
+| Chum Expert | 3.00% | ~2,511 |
+| Gastric Bypass | 3.00% | ~2,511 |
+| The Angler Mask | 3.00% | ~2,511 |
 | Vivacious Vivarium | 2.00% | ~1,674 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 83,682 (Ranked 73)  
+Progressed: 83,684 (Ranked 73)  
 Completed: 819 (0.98%) (Ranked 115)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 819 (0.98%) (Ranked 115)
 | 2023-08-12 | 83,195 | 812 |
 | 2023-08-13 | 83,431 | 814 |
 | 2023-08-14 | 83,631 | 816 |
-| 2023-08-15 | 83,682 | 819 |
+| 2023-08-15 | 83,684 | 819 |
 ## Awards
 Max (Quickly Understood Controls): 22  (Ranked 494)  
 Sum: 22 (Ranked 496)  

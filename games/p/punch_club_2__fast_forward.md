@@ -24,7 +24,7 @@
 | Employee of the month | 66.00% | ~166 |
 | Spirit of the past | 65.00% | ~164 |
 | Law student | 63.00% | ~159 |
-| Workout professional | 61.00% | ~154 |
+| Workout professional | 62.00% | ~156 |
 | It's good to be alive | 61.00% | ~154 |
 | Handyman | 60.00% | ~151 |
 | Champion – starter pack | 60.00% | ~151 |

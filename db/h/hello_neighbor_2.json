@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 59,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -366,9 +366,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2743,
+  "EOS_Progressed": 2744,
   "EOS_Completed": 107,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 3.9,
   "EosHistory": [
@@ -2656,6 +2656,11 @@
       "Time": "2023-08-14T20:02:16.6665518+00:00",
       "NumProgressed": 2743,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2023-08-15T07:03:15.2682669+00:00",
+      "NumProgressed": 2744,
+      "NumCompleted": 107
     }
   ],
   "TotalAchievements": 14,
@@ -2675,7 +2680,7 @@
       "Name": "Case Closed",
       "Percentage": 36,
       "XP": 55,
-      "UsersEstimate": 987
+      "UsersEstimate": 988
     },
     {
       "ID": "ACH_CAT_LOVER",
@@ -2691,7 +2696,7 @@
       "Name": "Climber",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "ACH_DOG_LOVER",
@@ -2707,7 +2712,7 @@
       "Name": "Easy As Pie",
       "Percentage": 33,
       "XP": 55,
-      "UsersEstimate": 905
+      "UsersEstimate": 906
     },
     {
       "ID": "ACH_FAMILY_LOST",
@@ -2739,7 +2744,7 @@
       "Name": "Mad Scientist",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "ACH_REUNION",
@@ -2747,7 +2752,7 @@
       "Name": "Reunion",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "ACH_SHOVEL_NIGHT",
@@ -2778,7 +2783,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2743,
+      "Progressed": 2744,
       "Completed": 107
     }
   ],
@@ -2786,8 +2791,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-08-12T10:57:00.5102545+00:00",
-  "LastChanged_Achievements": "2023-08-15T06:02:07.7038947+00:00",
+  "LastChanged_Achievements": "2023-08-15T07:03:15.2682663+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:10.1375328+00:00",
-  "LastUpdate_Ratings": "2023-08-15T05:57:28.6118915+00:00",
-  "LastUpdate_Achievements": "2023-08-15T06:02:07.7039214+00:00"
+  "LastUpdate_Ratings": "2023-08-15T06:57:42.572289+00:00",
+  "LastUpdate_Achievements": "2023-08-15T07:03:15.2682949+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 47,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3104,
+  "EOS_Progressed": 3105,
   "EOS_Completed": 150,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 4.83,
   "EosHistory": [
@@ -4245,6 +4245,11 @@
       "Time": "2023-08-15T05:07:21.5571607+00:00",
       "NumProgressed": 3104,
       "NumCompleted": 150
+    },
+    {
+      "Time": "2023-08-15T07:08:42.7631506+00:00",
+      "NumProgressed": 3105,
+      "NumCompleted": 150
     }
   ],
   "TotalAchievements": 24,
@@ -4272,7 +4277,7 @@
       "Name": "PERFECTLY POISED",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "12",
@@ -4352,7 +4357,7 @@
       "Name": "PROTECTED",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 1024
+      "UsersEstimate": 1025
     },
     {
       "ID": "21",
@@ -4368,7 +4373,7 @@
       "Name": "THE EYE OF THE HUNTER",
       "Percentage": 12,
       "XP": 55,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "23",
@@ -4376,7 +4381,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 993
+      "UsersEstimate": 994
     },
     {
       "ID": "24",
@@ -4384,7 +4389,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 993
+      "UsersEstimate": 994
     },
     {
       "ID": "3",
@@ -4400,7 +4405,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 32,
       "XP": 80,
-      "UsersEstimate": 993
+      "UsersEstimate": 994
     },
     {
       "ID": "5",
@@ -4408,7 +4413,7 @@
       "Name": "ROOKIE",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1676
+      "UsersEstimate": 1677
     },
     {
       "ID": "6",
@@ -4416,7 +4421,7 @@
       "Name": "PRO",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 1055
+      "UsersEstimate": 1056
     },
     {
       "ID": "7",
@@ -4432,7 +4437,7 @@
       "Name": "ACE TRICKSTER",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "9",
@@ -4447,13 +4452,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 3104,
+      "Progressed": 3105,
       "Completed": 150
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-08-15T06:07:26.9294471+00:00",
+  "LastChanged_Achievements": "2023-08-15T07:08:42.7631502+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:44.0676288+00:00",
-  "LastUpdate_Ratings": "2023-08-15T06:00:36.0313165+00:00",
-  "LastUpdate_Achievements": "2023-08-15T06:07:26.929491+00:00"
+  "LastUpdate_Ratings": "2023-08-15T07:01:36.3130144+00:00",
+  "LastUpdate_Achievements": "2023-08-15T07:08:42.7631982+00:00"
 }

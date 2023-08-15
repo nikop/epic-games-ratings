@@ -4,7 +4,7 @@
   "ProductSlug": "operation-wolf-returns-first-mission-vr-446fba",
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 354,
+  "Ranking_EOS_NewPlayers": 355,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-09-30T00:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-03T13:20:24.1974184+00:00",
-  "LastChanged_Achievements": "2023-08-15T06:03:36.0151837+00:00",
+  "LastChanged_Achievements": "2023-08-15T07:04:20.375036+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:03.5447491+00:00",
-  "LastUpdate_Ratings": "2023-08-15T05:58:02.8367752+00:00",
-  "LastUpdate_Achievements": "2023-08-15T06:03:36.0151872+00:00"
+  "LastUpdate_Ratings": "2023-08-15T06:58:24.8885192+00:00",
+  "LastUpdate_Achievements": "2023-08-15T07:04:20.3750466+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 60,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2023-03-31T15:00:00+00:00",
     "PcReleaseDate": "1991-01-15T12:31:00+00:00",
@@ -27,10 +27,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 3069,
-  "EOS_Completed": 115,
+  "EOS_Completed": 116,
   "EOS_NewPlayers": 39,
-  "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 3.75,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 3.78,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:54.6096492+00:00",
@@ -3961,6 +3961,11 @@
       "Time": "2023-08-14T23:03:59.2569292+00:00",
       "NumProgressed": 3069,
       "NumCompleted": 115
+    },
+    {
+      "Time": "2023-08-15T07:04:48.2452477+00:00",
+      "NumProgressed": 3069,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 5,
@@ -4012,15 +4017,15 @@
       "ID": "dm385hd",
       "IsBase": true,
       "Progressed": 3069,
-      "Completed": 115
+      "Completed": 116
     }
   ],
   "FirstSeen": "2023-03-31T21:57:04.3858731+00:00",
   "FirstSeenRating": "2023-03-31T21:57:04.3858764+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6096499+00:00",
   "LastChanged": "2023-03-31T21:57:04.3858765+00:00",
-  "LastChanged_Achievements": "2023-08-15T06:04:09.511718+00:00",
+  "LastChanged_Achievements": "2023-08-15T07:04:48.2452472+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:00.1001063+00:00",
-  "LastUpdate_Ratings": "2023-08-15T05:59:51.5001194+00:00",
-  "LastUpdate_Achievements": "2023-08-15T06:04:09.5117486+00:00"
+  "LastUpdate_Ratings": "2023-08-15T07:00:40.1059068+00:00",
+  "LastUpdate_Achievements": "2023-08-15T07:04:48.2452863+00:00"
 }

@@ -6,9 +6,9 @@ Number of Ratings: 756  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ball Launched | 82.00% | ~206,173 |
-| I know the Rules | 38.00% | ~95,544 |
-| Contender | 11.00% | ~27,657 |
+| Ball Launched | 82.00% | ~206,176 |
+| I know the Rules | 38.00% | ~95,545 |
+| Contender | 11.00% | ~27,658 |
 | I Found it! | 9.00% | ~22,629 |
 | First but not Last | 4.00% | ~10,057 |
 | Ready Steady Score | 3.00% | ~7,543 |
@@ -37,7 +37,7 @@ Number of Ratings: 756  (23.09.2022)
 | Fully Involved | 0.00% | ~0 |
 | Collect Them All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 251,431 (Ranked 45)  
+Progressed: 251,434 (Ranked 45)  
 Completed: 0 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,10 +154,10 @@ Completed: 0 (0.00%) (Ranked 255)
 | 2023-08-12 | 250,722 | 0 |
 | 2023-08-13 | 251,083 | 0 |
 | 2023-08-14 | 251,363 | 0 |
-| 2023-08-15 | 251,431 | 0 |
+| 2023-08-15 | 251,434 | 0 |
 ## Awards
 Max (Great for Beginners): 187  (Ranked 278)  
-Sum: 1,533 (Ranked 219)  
+Sum: 1,535 (Ranked 219)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
@@ -165,13 +165,13 @@ Diff (max vs sum): 59
 | This game is Great for Quick Sessions | 175 |
 | This game has Quickly Understood Controls | 161 |
 | This game is Relaxing | 161 |
-| This game is Extremely Fun | 154 |
+| This game is Extremely Fun | 155 |
 | This game is Highly Recommended | 152 |
 | This game has Competitive Players | 147 |
 | This game has Challenging Combat | 105 |
 | This game has Amazing Storytelling | 101 |
 | This game has a Competitive Community | 100 |
-| This game has Amazing Characters | 90 |
+| This game has Amazing Characters | 91 |
 | This game has Obsessive Gameplay | 65 |
 | This game has Realistic Visuals | 52 |
 ## Ratings History
@@ -327,3 +327,4 @@ Diff (max vs sum): 59
 | 2023-08-08 | 4.04 | - | 185 | 1,528 |
 | 2023-08-11 | 4.04 | - | 185 | 1,529 |
 | 2023-08-14 | 4.04 | - | 187 | 1,533 |
+| 2023-08-15 | 4.04 | - | 187 | 1,535 |

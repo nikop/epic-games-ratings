@@ -8293,9 +8293,9 @@
       "Count": 647
     }
   ],
-  "EOS_Progressed": 611983,
+  "EOS_Progressed": 611989,
   "EOS_Completed": 62,
-  "EOS_NewPlayers": 2714,
+  "EOS_NewPlayers": 2712,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -21198,6 +21198,11 @@
       "Time": "2023-08-15T06:06:28.6973031+00:00",
       "NumProgressed": 611983,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2023-08-15T07:07:32.9508148+00:00",
+      "NumProgressed": 611989,
+      "NumCompleted": 62
     }
   ],
   "TotalAchievements": 65,
@@ -21209,7 +21214,7 @@
       "Name": "Into the Unknown",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 61198
+      "UsersEstimate": 61199
     },
     {
       "ID": "achievement_02",
@@ -21217,7 +21222,7 @@
       "Name": "First Shot",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 61198
+      "UsersEstimate": 61199
     },
     {
       "ID": "achievement_03",
@@ -21225,7 +21230,7 @@
       "Name": "Herzlich Wilkommen!",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 55078
+      "UsersEstimate": 55079
     },
     {
       "ID": "achievement_04",
@@ -21313,7 +21318,7 @@
       "Name": "Your World, Your Rules",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 24479
+      "UsersEstimate": 24480
     },
     {
       "ID": "achievement_15",
@@ -21353,7 +21358,7 @@
       "Name": "Tickets, Please!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 18359
+      "UsersEstimate": 18360
     },
     {
       "ID": "achievement_20",
@@ -21417,7 +21422,7 @@
       "Name": "You Never Forget Your First...",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 67318
+      "UsersEstimate": 67319
     },
     {
       "ID": "achievement_28",
@@ -21449,7 +21454,7 @@
       "Name": "Combat Master",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 18359
+      "UsersEstimate": 18360
     },
     {
       "ID": "achievement_32",
@@ -21497,7 +21502,7 @@
       "Name": "Good Night \u0026 Good Luck",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 55078
+      "UsersEstimate": 55079
     },
     {
       "ID": "achievement_38",
@@ -21521,7 +21526,7 @@
       "Name": "Death From Afar",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 24479
+      "UsersEstimate": 24480
     },
     {
       "ID": "achievement_41",
@@ -21537,7 +21542,7 @@
       "Name": "Terminal Headache",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 24479
+      "UsersEstimate": 24480
     },
     {
       "ID": "achievement_43",
@@ -21545,7 +21550,7 @@
       "Name": "Slowpoke!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 24479
+      "UsersEstimate": 24480
     },
     {
       "ID": "achievement_44",
@@ -21601,7 +21606,7 @@
       "Name": "You\u0027re Going Down!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 18359
+      "UsersEstimate": 18360
     },
     {
       "ID": "achievement_51",
@@ -21728,21 +21733,21 @@
     {
       "ID": "3cbf5jh",
       "IsBase": true,
-      "Progressed": 611983,
+      "Progressed": 611989,
       "Completed": 62
     },
     {
       "ID": "likk62",
       "IsBase": false,
-      "Progressed": 257427,
+      "Progressed": 257433,
       "Completed": 1426
     }
   ],
   "FirstSeen": "2022-07-22T20:18:57.6151265+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.1190573+00:00",
   "LastChanged": "2023-08-14T19:57:03.0467462+00:00",
-  "LastChanged_Achievements": "2023-08-15T06:06:28.6973027+00:00",
+  "LastChanged_Achievements": "2023-08-15T07:07:32.9508142+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:58.4996027+00:00",
-  "LastUpdate_Ratings": "2023-08-15T05:57:10.3827249+00:00",
-  "LastUpdate_Achievements": "2023-08-15T06:06:28.697549+00:00"
+  "LastUpdate_Ratings": "2023-08-15T06:57:20.3361026+00:00",
+  "LastUpdate_Achievements": "2023-08-15T07:07:32.9509907+00:00"
 }

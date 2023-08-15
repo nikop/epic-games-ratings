@@ -6,11 +6,11 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 11.00% | ~67,318 |
-| Into the Unknown | 10.00% | ~61,198 |
-| First Shot | 10.00% | ~61,198 |
-| Herzlich Wilkommen! | 9.00% | ~55,078 |
-| Good Night & Good Luck | 9.00% | ~55,078 |
+| You Never Forget Your First... | 11.00% | ~67,319 |
+| Into the Unknown | 10.00% | ~61,199 |
+| First Shot | 10.00% | ~61,199 |
+| Herzlich Wilkommen! | 9.00% | ~55,079 |
+| Good Night & Good Luck | 9.00% | ~55,079 |
 | Sancho Panza | 8.00% | ~48,959 |
 | Oh, So This Is How It Works! | 8.00% | ~48,959 |
 | Under Pressure | 7.00% | ~42,839 |
@@ -30,13 +30,13 @@ Number of Ratings: 7,305  (23.09.2022)
 | Tunnel Entrance | 5.00% | ~30,599 |
 | After the Fall | 5.00% | ~30,599 |
 | Can't Touch This! | 5.00% | ~30,599 |
-| Your World, Your Rules | 4.00% | ~24,479 |
-| Death From Afar | 4.00% | ~24,479 |
-| Terminal Headache | 4.00% | ~24,479 |
-| Slowpoke! | 4.00% | ~24,479 |
-| Tickets, Please! | 3.00% | ~18,359 |
-| Combat Master | 3.00% | ~18,359 |
-| You're Going Down! | 3.00% | ~18,359 |
+| Your World, Your Rules | 4.00% | ~24,480 |
+| Death From Afar | 4.00% | ~24,480 |
+| Terminal Headache | 4.00% | ~24,480 |
+| Slowpoke! | 4.00% | ~24,480 |
+| Tickets, Please! | 3.00% | ~18,360 |
+| Combat Master | 3.00% | ~18,360 |
+| You're Going Down! | 3.00% | ~18,360 |
 | Municipal Services | 2.00% | ~12,240 |
 | Ban Hammer | 2.00% | ~12,240 |
 | Parkour Master | 2.00% | ~12,240 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~257 |
 | Connoisseur | 0.10% | ~257 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 611,983 (Ranked 27)  
+Progressed: 611,989 (Ranked 27)  
 Completed: 62 (0.01%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 62 (0.01%) (Ranked 242)
 | 2023-08-12 | 611,100 | 62 |
 | 2023-08-13 | 611,547 | 62 |
 | 2023-08-14 | 611,928 | 62 |
-| 2023-08-15 | 611,983 | 62 |
+| 2023-08-15 | 611,989 | 62 |
 ## Awards
 Max (Character Customization): 8,785  (Ranked 39)  
 Sum: 21,088 (Ranked 54)  
