@@ -389,7 +389,7 @@
 | 364 | [Supraland](games/s/supraland.md) | 4.61 | 7,668 | 45 |
 | 364 | [The Colonists](games/t/the_colonists.md) | 4.61 | 0 | 512 |
 | 364 | [Warframe](games/w/warframe.md) | 4.61 | 16,471 | 22 |
-| 390 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.60 | 707 | 168 |
+| 390 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.60 | 708 | 167 |
 | 390 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 13,192 | 28 |
 | 390 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.60 | 0 | 512 |
 | 390 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 4,494 | 73 |
@@ -444,7 +444,7 @@
 | 426 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.58 | 0 | 512 |
 | 426 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.58 | 166 | 289 |
 | 426 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 53 | 395 |
-| 426 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,290 | 56 |
+| 426 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,292 | 56 |
 | 426 | [Travellers Rest](games/t/travellers_rest.md) | 4.58 | 0 | 512 |
 | 426 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.58 | 0 | 512 |
 | 426 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 219 | 264 |
