@@ -6,21 +6,21 @@ Number of Ratings: 28  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting started | 77.00% | ~336 |
-| Close call! | 73.00% | ~319 |
+| Getting started | 77.00% | ~337 |
+| Close call! | 73.00% | ~320 |
 | Builder | 53.00% | ~232 |
-| Pangs of conscience | 47.00% | ~205 |
-| Living it large! | 44.00% | ~192 |
+| Pangs of conscience | 47.00% | ~206 |
+| Living it large! | 44.00% | ~193 |
 | Collector | 42.00% | ~184 |
-| Need to think | 41.00% | ~179 |
-| Completely nuts! | 39.00% | ~170 |
+| Need to think | 41.00% | ~180 |
+| Completely nuts! | 39.00% | ~171 |
 | Just in time! | 32.00% | ~140 |
 | Europe | 30.00% | ~131 |
-| It's no coincidence. | 30.00% | ~131 |
-| Madness! | 28.00% | ~122 |
+| It's no coincidence. | 29.00% | ~127 |
+| Madness! | 28.00% | ~123 |
 | Philatelist | 26.00% | ~114 |
-| Let's roll! | 25.00% | ~109 |
-| Ouroboros | 25.00% | ~109 |
+| Let's roll! | 25.00% | ~110 |
+| Ouroboros | 25.00% | ~110 |
 | Non Stop! | 24.00% | ~105 |
 | Foreman | 21.00% | ~92 |
 | Missed it! | 19.00% | ~83 |
@@ -34,9 +34,9 @@ Number of Ratings: 28  (23.09.2022)
 | Tycoon | 8.00% | ~35 |
 | Germany | 6.00% | ~26 |
 | Chuck Norris | 5.00% | ~22 |
-| Сhancellor | 4.00% | ~17 |
-| Peacemaker | 4.00% | ~17 |
-| Supercrash! | 4.00% | ~17 |
+| Сhancellor | 4.00% | ~18 |
+| Peacemaker | 4.00% | ~18 |
+| Supercrash! | 4.00% | ~18 |
 | Forgotten | 3.00% | ~13 |
 | Lucky vandal | 2.00% | ~9 |
 | BBQ | 0.70% | ~3 |
@@ -46,7 +46,7 @@ Number of Ratings: 28  (23.09.2022)
 | Juggler | 0.50% | ~2 |
 | Maniac vandal | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 437 (Ranked 231)  
+Progressed: 438 (Ranked 231)  
 Completed: 2 (0.46%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 2 (0.46%) (Ranked 148)
 | 2023-08-12 | 434 | 2 |
 | 2023-08-13 | 435 | 2 |
 | 2023-08-14 | 436 | 2 |
-| 2023-08-15 | 437 | 2 |
+| 2023-08-15 | 438 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -5,22 +5,22 @@ Rating: 4.75 (Ranked 135)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Motivational Speaker | 77.00% | ~63,986 |
-| The Player Whisperer | 76.00% | ~63,155 |
-| One of Us, One of Us! | 73.00% | ~60,662 |
-| First Victory | 68.00% | ~56,507 |
-| Clean Sheet | 67.00% | ~55,676 |
-| #DoneDeal | 67.00% | ~55,676 |
-| Off the Books | 66.00% | ~54,845 |
-| Super-Sub | 65.00% | ~54,014 |
-| Hat-trick | 60.00% | ~49,859 |
-| "I Would Love It If We Beat Them" | 58.00% | ~48,197 |
-| Planned Signing | 58.00% | ~48,197 |
-| Thumping | 53.00% | ~44,042 |
-| Scoring Streak | 53.00% | ~44,042 |
-| People Pleaser | 52.00% | ~43,211 |
-| Wheeler Dealer | 52.00% | ~43,211 |
-| Unbeatable! | 51.00% | ~42,380 |
+| Motivational Speaker | 77.00% | ~63,988 |
+| The Player Whisperer | 76.00% | ~63,157 |
+| One of Us, One of Us! | 73.00% | ~60,664 |
+| First Victory | 68.00% | ~56,509 |
+| Clean Sheet | 67.00% | ~55,678 |
+| #DoneDeal | 67.00% | ~55,678 |
+| Off the Books | 66.00% | ~54,847 |
+| Super-Sub | 65.00% | ~54,016 |
+| Hat-trick | 60.00% | ~49,861 |
+| "I Would Love It If We Beat Them" | 58.00% | ~48,199 |
+| Planned Signing | 58.00% | ~48,199 |
+| Thumping | 53.00% | ~44,044 |
+| Scoring Streak | 53.00% | ~44,044 |
+| People Pleaser | 52.00% | ~43,213 |
+| Wheeler Dealer | 52.00% | ~43,213 |
+| Unbeatable! | 51.00% | ~42,382 |
 | One Of Our Own | 49.00% | ~40,719 |
 | They're a Natural | 45.00% | ~37,395 |
 | Record Signing | 45.00% | ~37,395 |
@@ -92,7 +92,7 @@ Rating: 4.75 (Ranked 135)
 | Clean Sheet Versus | 0.90% | ~748 |
 | The Rich Get Richer | 0.80% | ~665 |
 | Online Rivalry | 0.60% | ~499 |
-| Import To Victory | 0.50% | ~415 |
+| Import To Victory | 0.50% | ~416 |
 | Outstanding Defence | 0.40% | ~332 |
 | Immortality | 0.20% | ~166 |
 | You Shall Not Pass | 0.20% | ~166 |
@@ -106,7 +106,7 @@ Rating: 4.75 (Ranked 135)
 | Versus Anyone | 0.10% | ~83 |
 | 200 Club | 0.10% | ~83 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 83,099 (Ranked 74)  
+Progressed: 83,101 (Ranked 74)  
 Completed: 23 (0.03%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 23 (0.03%) (Ranked 233)
 | 2023-08-12 | 82,654 | 23 |
 | 2023-08-13 | 82,798 | 23 |
 | 2023-08-14 | 82,958 | 23 |
-| 2023-08-15 | 83,099 | 23 |
+| 2023-08-15 | 83,101 | 23 |
 ## Awards
 Max (Diverse Characters): 608  (Ranked 180)  
 Sum: 4,373 (Ranked 137)  

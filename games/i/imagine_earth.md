@@ -9,10 +9,10 @@ Number of Ratings: 22  (23.09.2022)
 | Tuto | 60.00% | ~244 |
 | Joma | 44.00% | ~179 |
 | Campaign Bronze | 36.00% | ~147 |
-| Lorian | 31.00% | ~126 |
+| Lorian | 32.00% | ~130 |
 | Metropolis | 27.00% | ~110 |
 | Rounos | 24.00% | ~98 |
-| Campaign Silver | 21.00% | ~85 |
+| Campaign Silver | 22.00% | ~90 |
 | Magni | 21.00% | ~85 |
 | Bora | 18.00% | ~73 |
 | Scientist | 15.00% | ~61 |
@@ -26,7 +26,7 @@ Number of Ratings: 22  (23.09.2022)
 | Campaign Titanium | 5.00% | ~20 |
 | Builder | 4.00% | ~16 |
 | World Creator | 4.00% | ~16 |
-| Multitalent | 2.00% | ~8 |
+| Multitalent | 3.00% | ~12 |
 | Competitor Bronze | 0.50% | ~2 |
 | Competitor Silver | 0.20% | ~1 |
 | Competitor Gold | 0.20% | ~1 |

@@ -2,7 +2,7 @@
   "ID": "29e93200bb53431a961afc53e39fb9c8",
   "Name": "The Falconeer: Standard Edition",
   "ProductSlug": "the-falconeer",
-  "Ranking_EOS_Progress": 545,
+  "Ranking_EOS_Progress": 546,
   "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 362,
   "Ranking_EOS_NewCompleters": 102,
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:27.476237+00:00",
   "LastChanged": "2023-03-31T05:57:27.4762371+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:14.3766426+00:00",
-  "LastUpdate_Ratings": "2023-08-15T21:58:26.1224086+00:00",
-  "LastUpdate_Achievements": "2023-08-15T22:08:16.1657929+00:00"
+  "LastUpdate_Ratings": "2023-08-15T22:58:30.7600213+00:00",
+  "LastUpdate_Achievements": "2023-08-15T23:08:24.2783525+00:00"
 }

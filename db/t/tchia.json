@@ -2,12 +2,12 @@
   "ID": "2e09c1d223094f3798f63873548c9454",
   "Name": "Tchia",
   "ProductSlug": "tchia",
-  "Ranking_Rating": 119,
+  "Ranking_Rating": 118,
   "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -212,9 +212,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6979,
+  "EOS_Progressed": 6982,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -5607,6 +5607,11 @@
       "Time": "2023-08-15T21:05:08.2141805+00:00",
       "NumProgressed": 6979,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-08-15T23:06:34.5958229+00:00",
+      "NumProgressed": 6982,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 21,
@@ -5666,7 +5671,7 @@
       "Name": "Energy Saver",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 1186
+      "UsersEstimate": 1187
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -5785,7 +5790,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6979,
+      "Progressed": 6982,
       "Completed": 32
     }
   ],
@@ -5793,8 +5798,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-08-07T01:56:04.2387619+00:00",
-  "LastChanged_Achievements": "2023-08-15T22:06:16.6526871+00:00",
+  "LastChanged_Achievements": "2023-08-15T23:06:34.5958224+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:36.6050185+00:00",
-  "LastUpdate_Ratings": "2023-08-15T22:00:10.8436859+00:00",
-  "LastUpdate_Achievements": "2023-08-15T22:06:16.6527245+00:00"
+  "LastUpdate_Ratings": "2023-08-15T23:00:07.0247319+00:00",
+  "LastUpdate_Achievements": "2023-08-15T23:06:34.5958736+00:00"
 }

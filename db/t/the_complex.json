@@ -4,7 +4,7 @@
   "ProductSlug": "the-complex-0ca5bb",
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 71,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewPlayers": 222,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 536,
+  "EOS_Progressed": 537,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.99,
+  "EOS_Completed_Percentage": 2.98,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:48.1616312+00:00",
@@ -492,6 +492,11 @@
       "Time": "2023-08-15T02:19:03.3214528+00:00",
       "NumProgressed": 536,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-08-15T23:06:27.4114843+00:00",
+      "NumProgressed": 537,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 20,
@@ -575,7 +580,7 @@
       "Name": "Trust Me For Once",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "ending_8",
@@ -591,7 +596,7 @@
       "Name": "Falling For You",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "free_champagne",
@@ -607,7 +612,7 @@
       "Name": "Kamikaze",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "kindar_surprise",
@@ -655,14 +660,14 @@
       "Name": "Tough Decision",
       "Percentage": 93,
       "XP": 50,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 536,
+      "Progressed": 537,
       "Completed": 16
     }
   ],
@@ -670,8 +675,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-08-15T22:06:09.2288232+00:00",
+  "LastChanged_Achievements": "2023-08-15T23:06:27.4114836+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:07.5988993+00:00",
-  "LastUpdate_Ratings": "2023-08-15T21:59:12.4577197+00:00",
-  "LastUpdate_Achievements": "2023-08-15T22:06:09.228838+00:00"
+  "LastUpdate_Ratings": "2023-08-15T22:59:16.031958+00:00",
+  "LastUpdate_Achievements": "2023-08-15T23:06:27.4115096+00:00"
 }

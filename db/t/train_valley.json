@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewPlayers": 222,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
@@ -117,9 +117,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 437,
+  "EOS_Progressed": 438,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -877,6 +877,11 @@
       "Time": "2023-08-15T14:05:15.557042+00:00",
       "NumProgressed": 437,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-15T23:06:33.5709243+00:00",
+      "NumProgressed": 438,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -888,7 +893,7 @@
       "Name": "Getting started",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "02_collector",
@@ -920,7 +925,7 @@
       "Name": "Pangs of conscience",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "06_living",
@@ -928,7 +933,7 @@
       "Name": "Living it large!",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "07_europe",
@@ -976,15 +981,15 @@
       "Name": "Let\u0027s roll!",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "13_bunkrupt",
       "SetID": "chb1m60",
       "Name": "It\u0027s no coincidence.",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 131
+      "UsersEstimate": 127
     },
     {
       "ID": "14_woodcutter",
@@ -1056,7 +1061,7 @@
       "Name": "Ouroboros",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "23_closecall",
@@ -1064,7 +1069,7 @@
       "Name": "Close call!",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "24_mega",
@@ -1112,7 +1117,7 @@
       "Name": "Madness!",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "30_completelynuts",
@@ -1120,7 +1125,7 @@
       "Name": "Completely nuts!",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "31_chancellor",
@@ -1128,7 +1133,7 @@
       "Name": "\u0421hancellor",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "32_engineer",
@@ -1144,7 +1149,7 @@
       "Name": "Peacemaker",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "34_needtothink",
@@ -1152,7 +1157,7 @@
       "Name": "Need to think",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "35_achtung",
@@ -1168,7 +1173,7 @@
       "Name": "Supercrash!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "37_maniacvandal",
@@ -1199,15 +1204,15 @@
     {
       "ID": "chb1m60",
       "IsBase": true,
-      "Progressed": 437,
+      "Progressed": 438,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-08-15T19:59:30.756961+00:00",
-  "LastChanged_Achievements": "2023-08-15T22:06:15.5296063+00:00",
+  "LastChanged_Achievements": "2023-08-15T23:06:33.5709238+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:20.9918701+00:00",
-  "LastUpdate_Ratings": "2023-08-15T21:59:48.9808385+00:00",
-  "LastUpdate_Achievements": "2023-08-15T22:06:15.5296344+00:00"
+  "LastUpdate_Ratings": "2023-08-15T22:59:48.9561807+00:00",
+  "LastUpdate_Achievements": "2023-08-15T23:06:33.5709597+00:00"
 }

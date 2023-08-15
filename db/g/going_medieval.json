@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 240,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewPlayers": 104,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1198,7 +1198,7 @@
   ],
   "EOS_Progressed": 5308,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 146,
+  "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -7675,9 +7675,9 @@
       "ID": "PRODUCE_AT_CAMPFIRE",
       "SetID": "5349c2e",
       "Name": "Home Cooked Meal",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 2972
+      "UsersEstimate": 3026
     },
     {
       "ID": "STORE_NUTRITION_10000",
@@ -7811,8 +7811,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-08-15T08:00:41.1112132+00:00",
-  "LastChanged_Achievements": "2023-08-15T22:05:33.5071984+00:00",
+  "LastChanged_Achievements": "2023-08-15T23:05:51.5468306+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:55.0917319+00:00",
-  "LastUpdate_Ratings": "2023-08-15T22:02:31.7500211+00:00",
-  "LastUpdate_Achievements": "2023-08-15T22:05:33.5072462+00:00"
+  "LastUpdate_Ratings": "2023-08-15T23:03:10.2775125+00:00",
+  "LastUpdate_Achievements": "2023-08-15T23:05:51.5469241+00:00"
 }

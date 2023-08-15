@@ -2,10 +2,10 @@
   "ID": "4b5461ca8d1c488787b5200b420de066",
   "Name": "Shadow of the Tomb Raider: Definitive Edition",
   "ProductSlug": "shadow-of-the-tomb-raider",
-  "Ranking_Rating": 299,
+  "Ranking_Rating": 314,
   "Ranking_Popularity": 16,
   "Ranking_PopularitySum": 33,
-  "Ranking_EOS_Progress": 545,
+  "Ranking_EOS_Progress": 546,
   "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 362,
   "Ranking_EOS_NewCompleters": 102,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.65,
+  "Rating": 4.64,
   "NumberOfRatings": 77497,
   "RatingHistory": [
     {
@@ -4702,6 +4702,12 @@
       "Rating": 4.65,
       "NumberOfAwards": 37807,
       "NumberOfAwardsMax": 28779
+    },
+    {
+      "Time": "2023-08-15T23:00:31.2264037+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 37807,
+      "NumberOfAwardsMax": 28779
     }
   ],
   "ReviewsDisabled": false,
@@ -4793,8 +4799,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:36.072499+00:00",
-  "LastChanged": "2023-08-14T19:59:54.7599356+00:00",
+  "LastChanged": "2023-08-15T23:00:31.2264036+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:02.4328852+00:00",
-  "LastUpdate_Ratings": "2023-08-15T22:00:40.262127+00:00",
-  "LastUpdate_Achievements": "2023-08-15T22:07:41.6591793+00:00"
+  "LastUpdate_Ratings": "2023-08-15T23:00:31.2264044+00:00",
+  "LastUpdate_Achievements": "2023-08-15T23:07:59.4902318+00:00"
 }

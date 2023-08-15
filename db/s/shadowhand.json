@@ -2,7 +2,7 @@
   "ID": "4b553e8aa0a246eaa2fdba8556b7551a",
   "Name": "Shadowhand",
   "ProductSlug": "shadowhand",
-  "Ranking_EOS_Progress": 545,
+  "Ranking_EOS_Progress": 546,
   "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 362,
   "Ranking_EOS_NewCompleters": 102,
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:29.1283637+00:00",
   "LastChanged": "2023-03-31T05:58:29.1283638+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:46.6069593+00:00",
-  "LastUpdate_Ratings": "2023-08-15T22:02:24.3880878+00:00",
-  "LastUpdate_Achievements": "2023-08-15T22:05:34.8795477+00:00"
+  "LastUpdate_Ratings": "2023-08-15T23:02:12.6769812+00:00",
+  "LastUpdate_Achievements": "2023-08-15T23:05:52.8135867+00:00"
 }

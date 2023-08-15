@@ -217,9 +217,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 34025,
+  "EOS_Progressed": 34028,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 887,
+  "EOS_NewPlayers": 881,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -13072,6 +13072,11 @@
       "Time": "2023-08-15T22:06:26.9449967+00:00",
       "NumProgressed": 34025,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-08-15T23:06:44.4021364+00:00",
+      "NumProgressed": 34028,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 29,
@@ -13091,7 +13096,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 6805
+      "UsersEstimate": 6806
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -13123,7 +13128,7 @@
       "Name": "Down Boy!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "ACH_08_HIGHLANDS_SECRET_PASSAGE",
@@ -13195,7 +13200,7 @@
       "Name": "A Snowball\u0027s Chance in Hell",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "ACH_17_DEFEATED_ICE_BEAST",
@@ -13314,7 +13319,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 34025,
+      "Progressed": 34028,
       "Completed": 21
     }
   ],
@@ -13322,8 +13327,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-08-12T21:03:39.1122054+00:00",
-  "LastChanged_Achievements": "2023-08-15T22:06:26.9449963+00:00",
+  "LastChanged_Achievements": "2023-08-15T23:06:44.4021356+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:57.7890504+00:00",
-  "LastUpdate_Ratings": "2023-08-15T21:57:33.9165509+00:00",
-  "LastUpdate_Achievements": "2023-08-15T22:06:26.945092+00:00"
+  "LastUpdate_Ratings": "2023-08-15T22:57:42.245643+00:00",
+  "LastUpdate_Achievements": "2023-08-15T23:06:44.4023061+00:00"
 }

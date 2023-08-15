@@ -5,16 +5,16 @@ Rating: 4.18 (Ranked 869)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~33,927 |
+| First Step Into the Knight | 50.00% | ~33,928 |
 | Har, Har, Har, Very Funny | 35.00% | ~23,749 |
-| Loose Ends | 34.00% | ~23,070 |
+| Loose Ends | 34.00% | ~23,071 |
 | To the Victor Go the Spoils | 28.00% | ~18,999 |
 | Knighthood | 27.00% | ~18,321 |
 | Get ReQ'd | 25.00% | ~16,964 |
 | Whispered Words | 25.00% | ~16,964 |
 | The Batman Family | 22.00% | ~14,928 |
 | Lock and Key | 22.00% | ~14,928 |
-| Something in the Clay | 21.00% | ~14,249 |
+| Something in the Clay | 21.00% | ~14,250 |
 | Quartzer Life Crisis | 20.00% | ~13,571 |
 | Working Hard or Harley Working? | 20.00% | ~13,571 |
 | Unstoppable Force | 20.00% | ~13,571 |
@@ -31,11 +31,11 @@ Rating: 4.18 (Ranked 869)
 | Not On My Watch | 13.00% | ~8,821 |
 | Shock Til They Drop | 13.00% | ~8,821 |
 | Seeking Asylum | 13.00% | ~8,821 |
-| End of an Era | 12.00% | ~8,142 |
-| Bulldozed | 12.00% | ~8,142 |
-| Gotham Knight | 12.00% | ~8,142 |
+| End of an Era | 12.00% | ~8,143 |
+| Bulldozed | 12.00% | ~8,143 |
+| Gotham Knight | 12.00% | ~8,143 |
 | Gotham City Confidential | 11.00% | ~7,464 |
-| Drone You Out | 10.00% | ~6,785 |
+| Drone You Out | 10.00% | ~6,786 |
 | Out of Their League | 9.00% | ~6,107 |
 | Solid Alibi | 9.00% | ~6,107 |
 | Fusion Expert | 7.00% | ~4,750 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 869)
 | Element of Surprise | 0.20% | ~76 |
 | It's Nice to Be Wanted | 0.20% | ~76 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,854 (Ranked 80)  
+Progressed: 67,855 (Ranked 80)  
 Completed: 107 (0.16%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,7 +184,7 @@ Completed: 107 (0.16%) (Ranked 190)
 | 2023-08-12 | 67,793 | 106 |
 | 2023-08-13 | 67,820 | 107 |
 | 2023-08-14 | 67,839 | 107 |
-| 2023-08-15 | 67,854 | 107 |
+| 2023-08-15 | 67,855 | 107 |
 ## Awards
 Max (Great Boss Battles): 2,501  (Ranked 100)  
 Sum: 4,160 (Ranked 140)  

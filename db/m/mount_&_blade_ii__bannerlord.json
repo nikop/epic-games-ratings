@@ -6411,9 +6411,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 58931,
+  "EOS_Progressed": 58933,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 446,
+  "EOS_NewPlayers": 444,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18776,6 +18776,11 @@
       "Time": "2023-08-15T22:05:26.9303464+00:00",
       "NumProgressed": 58931,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-15T23:05:44.9415382+00:00",
+      "NumProgressed": 58933,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -18787,7 +18792,7 @@
       "Name": "Against all odds",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 6482
+      "UsersEstimate": 6483
     },
     {
       "ID": "Apple of my eye",
@@ -18827,7 +18832,7 @@
       "Name": "Butterlord",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 4714
+      "UsersEstimate": 4715
     },
     {
       "ID": "Catch",
@@ -18979,7 +18984,7 @@
       "Name": "King Solomon",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10018
+      "UsersEstimate": 10019
     },
     {
       "ID": "Kingslayer",
@@ -19011,7 +19016,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 18858
+      "UsersEstimate": 18859
     },
     {
       "ID": "Lawbringer",
@@ -19019,7 +19024,7 @@
       "Name": "Lawbringer",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 22394
+      "UsersEstimate": 22395
     },
     {
       "ID": "Lawmaker",
@@ -19194,15 +19199,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 58931,
+      "Progressed": 58933,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-08-15T21:00:42.7110406+00:00",
-  "LastChanged_Achievements": "2023-08-15T22:05:26.9303459+00:00",
+  "LastChanged_Achievements": "2023-08-15T23:05:44.9415376+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:44.6335832+00:00",
-  "LastUpdate_Ratings": "2023-08-15T22:02:24.5479389+00:00",
-  "LastUpdate_Achievements": "2023-08-15T22:05:26.9304368+00:00"
+  "LastUpdate_Ratings": "2023-08-15T23:02:12.8423506+00:00",
+  "LastUpdate_Achievements": "2023-08-15T23:05:44.9416574+00:00"
 }

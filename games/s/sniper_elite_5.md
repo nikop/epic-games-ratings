@@ -19,12 +19,12 @@ Rating: 4.45 (Ranked 633)
 | Change the Channel | 5.00% | ~174 |
 | Climbing the Ladder | 4.00% | ~139 |
 | No Stone Unturned | 4.00% | ~139 |
+| Organ Grinder | 4.00% | ~139 |
 | Gunslinger | 4.00% | ~139 |
 | Resourceful | 4.00% | ~139 |
 | Der Geist | 4.00% | ~139 |
 | Brains of the Operation | 4.00% | ~139 |
 | Opposing Force | 3.00% | ~104 |
-| Organ Grinder | 3.00% | ~104 |
 | Skirmisher | 3.00% | ~104 |
 | Explosive Efficiency | 3.00% | ~104 |
 | Close Quarters | 3.00% | ~104 |

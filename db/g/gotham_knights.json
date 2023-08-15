@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 140,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewPlayers": 103,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -2420,9 +2420,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 67854,
+  "EOS_Progressed": 67855,
   "EOS_Completed": 107,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -12470,6 +12470,11 @@
       "Time": "2023-08-15T20:06:34.6331997+00:00",
       "NumProgressed": 67854,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2023-08-15T23:07:23.1822889+00:00",
+      "NumProgressed": 67855,
+      "NumCompleted": 107
     }
   ],
   "TotalAchievements": 61,
@@ -12561,7 +12566,7 @@
       "Name": "End of an Era",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8142
+      "UsersEstimate": 8143
     },
     {
       "ID": "APPLY_STATUS",
@@ -12585,7 +12590,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 14249
+      "UsersEstimate": 14250
     },
     {
       "ID": "CLAYFACE_2",
@@ -12657,7 +12662,7 @@
       "Name": "Bulldozed",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8142
+      "UsersEstimate": 8143
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -12697,7 +12702,7 @@
       "Name": "Drone You Out",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 6785
+      "UsersEstimate": 6786
     },
     {
       "ID": "FREEZE_1",
@@ -12825,7 +12830,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 33927
+      "UsersEstimate": 33928
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -12873,7 +12878,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 23070
+      "UsersEstimate": 23071
     },
     {
       "ID": "MYSTERY_02",
@@ -12929,7 +12934,7 @@
       "Name": "Gotham Knight",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8142
+      "UsersEstimate": 8143
     },
     {
       "ID": "SECRET_CACHE",
@@ -12968,13 +12973,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 67854,
+      "Progressed": 67855,
       "Completed": 107
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 38134,
+      "Progressed": 38135,
       "Completed": 2658
     }
   ],
@@ -12982,8 +12987,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-08-15T22:02:28.7949616+00:00",
-  "LastChanged_Achievements": "2023-08-15T22:07:05.6880713+00:00",
+  "LastChanged_Achievements": "2023-08-15T23:07:23.1822881+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:49.7416919+00:00",
-  "LastUpdate_Ratings": "2023-08-15T22:02:28.7949627+00:00",
-  "LastUpdate_Achievements": "2023-08-15T22:07:05.6881692+00:00"
+  "LastUpdate_Ratings": "2023-08-15T23:03:07.1950473+00:00",
+  "LastUpdate_Achievements": "2023-08-15T23:07:23.1824521+00:00"
 }

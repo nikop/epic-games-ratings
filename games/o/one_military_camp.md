@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 52.00% | ~73 |
 | The 4 Pillars | 51.00% | ~72 |
+| First Step | 51.00% | ~72 |
 | Capitalism | 20.00% | ~28 |
 | There's something in those trees | 11.00% | ~16 |
 | Indebted | 11.00% | ~16 |
 | Great Producer | 10.00% | ~14 |
 | Desert Rat | 10.00% | ~14 |
-| Desert Power | 9.00% | ~13 |
 | Green Energy | 9.00% | ~13 |
+| Desert Power | 8.00% | ~11 |
 | Health Care | 7.00% | ~10 |
 | Good payer | 7.00% | ~10 |
 | Ammo Tycoon | 7.00% | ~10 |
-| Jantine: the Misfortunes of Evil | 6.00% | ~8 |
-| Perfect Soldier | 6.00% | ~8 |
-| Healing | 6.00% | ~8 |
-| Pathfinder | 6.00% | ~8 |
-| Food Tycoon | 6.00% | ~8 |
-| Fuel Tycoon | 6.00% | ~8 |
+| Jantine: the Misfortunes of Evil | 6.00% | ~9 |
+| Perfect Soldier | 6.00% | ~9 |
+| Healing | 6.00% | ~9 |
+| Pathfinder | 6.00% | ~9 |
+| Food Tycoon | 6.00% | ~9 |
+| Fuel Tycoon | 6.00% | ~9 |
 | Self-sufficient | 5.00% | ~7 |
 | Medicine Tycoon | 5.00% | ~7 |
 | Supersoldier | 4.00% | ~6 |
@@ -49,7 +49,7 @@
 | Against Adversity | 0.00% | ~0 |
 | People's Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 141 (Ranked 303)  
+Progressed: 142 (Ranked 302)  
 Completed: 0 (0.00%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,3 +78,4 @@ Completed: 0 (0.00%) (Ranked 257)
 | 2023-08-11 | 138 | 0 |
 | 2023-08-12 | 140 | 0 |
 | 2023-08-13 | 141 | 0 |
+| 2023-08-15 | 142 | 0 |
