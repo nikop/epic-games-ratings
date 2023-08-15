@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| What is this? | 70.00% | ~63 |
+| What is this? | 69.00% | ~63 |
 | Complete Level 1-1 | 63.00% | ~57 |
 | Immortal | 54.00% | ~49 |
-| Complete Level 1-2 | 47.00% | ~42 |
+| Complete Level 1-2 | 46.00% | ~42 |
 | Scraping by | 33.00% | ~30 |
 | Engineer-mage hybrid | 33.00% | ~30 |
 | Complete Level 1-3 | 30.00% | ~27 |
@@ -15,9 +15,9 @@
 | Get out of my way | 21.00% | ~19 |
 | Redecorator | 20.00% | ~18 |
 | Just a sip | 19.00% | ~17 |
-| Complete Level 2-1 | 17.00% | ~15 |
-| Complete Level 2-2 | 17.00% | ~15 |
-| Versatile | 17.00% | ~15 |
+| Complete Level 2-1 | 16.00% | ~15 |
+| Complete Level 2-2 | 16.00% | ~15 |
+| Versatile | 16.00% | ~15 |
 | Complete Level 2-3 | 14.00% | ~13 |
 | Defeat the engineer boss | 13.00% | ~12 |
 | Well-off | 12.00% | ~11 |
@@ -33,10 +33,10 @@
 | Party popper | 8.00% | ~7 |
 | Mage specialist | 7.00% | ~6 |
 | Way of the mage | 7.00% | ~6 |
-| Defeat the mage boss | 6.00% | ~5 |
-| Remote retrieved | 6.00% | ~5 |
-| Engineer specialist | 6.00% | ~5 |
-| Way of the engineer | 6.00% | ~5 |
+| Defeat the mage boss | 5.00% | ~5 |
+| Remote retrieved | 5.00% | ~5 |
+| Engineer specialist | 5.00% | ~5 |
+| Way of the engineer | 5.00% | ~5 |
 | Rich | 4.00% | ~4 |
 | Warrior specialist | 4.00% | ~4 |
 | The True Trifox | 4.00% | ~4 |
@@ -51,8 +51,8 @@
 | Almost there | 1.00% | ~1 |
 | Go go go | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90 (Ranked 330)  
-Completed: 1 (1.11%) (Ranked 108)  
+Progressed: 91 (Ranked 330)  
+Completed: 1 (1.10%) (Ranked 109)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -66,6 +66,7 @@ Completed: 1 (1.11%) (Ranked 108)
 | 2023-06-17 | 88 | 1 |
 | 2023-06-19 | 89 | 1 |
 | 2023-07-02 | 90 | 1 |
+| 2023-08-15 | 91 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

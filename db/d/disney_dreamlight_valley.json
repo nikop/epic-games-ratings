@@ -3120,9 +3120,9 @@
       "Count": 491
     }
   ],
-  "EOS_Progressed": 8626,
+  "EOS_Progressed": 8627,
   "EOS_Completed": 196,
-  "EOS_NewPlayers": 247,
+  "EOS_NewPlayers": 246,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 2.27,
   "EosHistory": [
@@ -9570,6 +9570,11 @@
       "Time": "2023-08-15T05:04:11.2154506+00:00",
       "NumProgressed": 8626,
       "NumCompleted": 196
+    },
+    {
+      "Time": "2023-08-15T09:04:13.660046+00:00",
+      "NumProgressed": 8627,
+      "NumCompleted": 196
     }
   ],
   "TotalAchievements": 15,
@@ -9589,7 +9594,7 @@
       "Name": "Banker",
       "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 3450
+      "UsersEstimate": 3451
     },
     {
       "ID": "Bestest_Friend",
@@ -9597,7 +9602,7 @@
       "Name": "Bestest Friend",
       "Percentage": 48,
       "XP": 75,
-      "UsersEstimate": 4140
+      "UsersEstimate": 4141
     },
     {
       "ID": "Chef_Cook",
@@ -9605,7 +9610,7 @@
       "Name": "Chef Cook",
       "Percentage": 17,
       "XP": 75,
-      "UsersEstimate": 1466
+      "UsersEstimate": 1467
     },
     {
       "ID": "Chit_Chatter",
@@ -9637,7 +9642,7 @@
       "Name": "Gardener",
       "Percentage": 32,
       "XP": 75,
-      "UsersEstimate": 2760
+      "UsersEstimate": 2761
     },
     {
       "ID": "Generous",
@@ -9669,7 +9674,7 @@
       "Name": "Photographer",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 5952
+      "UsersEstimate": 5953
     },
     {
       "ID": "Renovator",
@@ -9700,7 +9705,7 @@
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 8626,
+      "Progressed": 8627,
       "Completed": 196
     }
   ],
@@ -9708,8 +9713,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-08-14T05:59:11.8701651+00:00",
-  "LastChanged_Achievements": "2023-08-15T08:04:17.5410226+00:00",
+  "LastChanged_Achievements": "2023-08-15T09:04:13.6600454+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:49.8985041+00:00",
-  "LastUpdate_Ratings": "2023-08-15T07:59:07.9150796+00:00",
-  "LastUpdate_Achievements": "2023-08-15T08:04:17.5410749+00:00"
+  "LastUpdate_Ratings": "2023-08-15T08:59:47.7217223+00:00",
+  "LastUpdate_Achievements": "2023-08-15T09:04:13.6601142+00:00"
 }

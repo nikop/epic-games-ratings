@@ -2,13 +2,13 @@
   "ID": "d469e82d91fe4516a00d6566c3d2f8f7",
   "Name": "Going Medieval",
   "ProductSlug": "going-medieval",
-  "Ranking_Rating": 390,
+  "Ranking_Rating": 391,
   "Ranking_Popularity": 315,
   "Ranking_PopularitySum": 240,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 184,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -7567,9 +7567,9 @@
       "ID": "HUNT_DEER_5",
       "SetID": "5349c2e",
       "Name": "Oh Deer!",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1005
+      "UsersEstimate": 1058
     },
     {
       "ID": "HUNT_RABBIT_20",
@@ -7751,8 +7751,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-08-15T08:00:41.1112132+00:00",
-  "LastChanged_Achievements": "2023-08-15T08:04:53.5513975+00:00",
+  "LastChanged_Achievements": "2023-08-15T09:04:57.8370935+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:55.0917319+00:00",
-  "LastUpdate_Ratings": "2023-08-15T08:00:41.1112139+00:00",
-  "LastUpdate_Achievements": "2023-08-15T08:04:53.5514641+00:00"
+  "LastUpdate_Ratings": "2023-08-15T09:01:53.7092232+00:00",
+  "LastUpdate_Achievements": "2023-08-15T09:04:57.8372451+00:00"
 }

@@ -1,12 +1,12 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.58 (Ranked 426)  
+Rating: 4.58 (Ranked 425)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 14.00% | ~29,753 |
+| Sowwy! | 14.00% | ~29,756 |
 | Where's that freaking Dwarf? | 1.00% | ~2,125 |
 | Alt+F4 | 1.00% | ~2,125 |
 | Déjà vu | 0.80% | ~1,700 |
@@ -52,6 +52,7 @@ Number of Ratings: 118  (23.09.2022)
 | The Blood Countess | 0.10% | ~213 |
 | He’s alive! Aliiiive! | 0.10% | ~213 |
 | Restless night | 0.10% | ~213 |
+| King of the Arena | 0.10% | ~213 |
 | Finally free | 0.10% | ~213 |
 | Hoarding | 0.10% | ~213 |
 | Legendary brew | 0.10% | ~213 |
@@ -91,11 +92,10 @@ Number of Ratings: 118  (23.09.2022)
 | Lëgal Legend | 0.10% | ~213 |
 | Dumb and dumber | 0.10% | ~213 |
 | Dwarf Candy | 0.10% | ~213 |
-| King of the Arena | 0.00% | ~0 |
 | Staff cut | 0.00% | ~0 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 212,523 (Ranked 56)  
+Progressed: 212,544 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,7 +171,7 @@ Completed: 2 (0.00%) (Ranked 255)
 | 2023-08-12 | 211,199 | 1 |
 | 2023-08-13 | 211,857 | 2 |
 | 2023-08-14 | 212,372 | 2 |
-| 2023-08-15 | 212,523 | 2 |
+| 2023-08-15 | 212,544 | 2 |
 ## Awards
 Max (Character Customization): 166  (Ranked 289)  
 Sum: 186 (Ranked 375)  

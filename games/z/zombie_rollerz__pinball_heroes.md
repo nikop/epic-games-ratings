@@ -4,48 +4,48 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level Up! | 88.00% | ~122 |
-| Bullseye! | 85.00% | ~118 |
+| Level Up! | 89.00% | ~125 |
+| Bullseye! | 85.00% | ~119 |
 | Graduation! | 81.00% | ~113 |
-| Villfir Forest | 78.00% | ~108 |
-| Right in the kisser! | 62.00% | ~86 |
-| The Thrower | 50.00% | ~70 |
+| Villfir Forest | 79.00% | ~111 |
+| Right in the kisser! | 62.00% | ~87 |
 | Duscot Steamcity | 50.00% | ~70 |
-| The Shaman | 47.00% | ~65 |
+| The Thrower | 49.00% | ~69 |
+| The Shaman | 48.00% | ~67 |
 | The Penguin | 46.00% | ~64 |
-| The Magician | 42.00% | ~58 |
-| The Shield | 39.00% | ~54 |
-| The Tunneler | 39.00% | ~54 |
-| Level Up!! | 38.00% | ~53 |
-| Kill-streak | 32.00% | ~44 |
-| The Bird | 28.00% | ~39 |
-| Topped up | 27.00% | ~38 |
+| The Magician | 43.00% | ~60 |
+| Level Up!! | 39.00% | ~55 |
+| The Shield | 39.00% | ~55 |
+| The Tunneler | 39.00% | ~55 |
+| Kill-streak | 31.00% | ~43 |
+| The Bird | 29.00% | ~41 |
+| Topped up | 28.00% | ~39 |
 | The Idol | 26.00% | ~36 |
 | The Ninja | 26.00% | ~36 |
-| Inferno Ruins | 24.00% | ~33 |
+| Inferno Ruins | 25.00% | ~35 |
+| I'm Rich | 23.00% | ~32 |
 | 1 is all I need | 22.00% | ~31 |
-| I'm Rich | 22.00% | ~31 |
 | Untouchable | 21.00% | ~29 |
 | The Slime | 21.00% | ~29 |
+| The Giant | 18.00% | ~25 |
 | The Flower | 17.00% | ~24 |
-| The Giant | 17.00% | ~24 |
 | Out of the Frying Pan... | 17.00% | ~24 |
 | The Blacksmith | 16.00% | ~22 |
-| The Ooze | 15.00% | ~21 |
-| The Assistant | 14.00% | ~19 |
-| The Steampunk | 14.00% | ~19 |
-| Ember | 14.00% | ~19 |
-| Turquoise | 14.00% | ~19 |
-| Verse | 12.00% | ~17 |
+| The Ooze | 16.00% | ~22 |
+| Ember | 15.00% | ~21 |
+| The Assistant | 14.00% | ~20 |
+| The Steampunk | 14.00% | ~20 |
+| Turquoise | 14.00% | ~20 |
 | The Droid | 11.00% | ~15 |
+| Verse | 11.00% | ~15 |
 | Iron | 11.00% | ~15 |
 | Tested | 9.00% | ~13 |
 | The Bomber | 8.00% | ~11 |
 | The Astronaut | 7.00% | ~10 |
+| Power Overwhelming | 6.00% | ~8 |
+| Mithril | 6.00% | ~8 |
 | Highway to Hell | 6.00% | ~8 |
-| Power Overwhelming | 5.00% | ~7 |
 | The Exorcist | 5.00% | ~7 |
-| Mithril | 5.00% | ~7 |
 | Aluminum | 5.00% | ~7 |
 | Anvil | 5.00% | ~7 |
 | Analyzed | 4.00% | ~6 |
@@ -55,6 +55,7 @@
 | Concluded | 3.00% | ~4 |
 | Platinum | 3.00% | ~4 |
 | Really Bad Luck | 2.00% | ~3 |
+| Blaze | 2.00% | ~3 |
 | Chorus | 2.00% | ~3 |
 | TNT | 2.00% | ~3 |
 | Titanium | 2.00% | ~3 |
@@ -63,7 +64,6 @@
 | Divinity | 2.00% | ~3 |
 | Hammer | 2.00% | ~3 |
 | Gunpowder | 2.00% | ~3 |
-| Blaze | 1.00% | ~1 |
 | Topaz | 1.00% | ~1 |
 | Immortality | 1.00% | ~1 |
 | Inferno | 1.00% | ~1 |
@@ -78,8 +78,8 @@
 | Zombie Hunter | 0.70% | ~1 |
 | Zombie Exterminator | 0.70% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139 (Ranked 305)  
-Completed: 1 (0.72%) (Ranked 125)  
+Progressed: 140 (Ranked 304)  
+Completed: 1 (0.71%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -137,6 +137,7 @@ Completed: 1 (0.72%) (Ranked 125)
 | 2023-08-12 | 136 | 1 |
 | 2023-08-13 | 138 | 1 |
 | 2023-08-14 | 139 | 1 |
+| 2023-08-15 | 140 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

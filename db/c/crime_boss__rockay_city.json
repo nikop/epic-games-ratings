@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 77,
   "Ranking_EOS_Completed": 220,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -2950,10 +2950,16 @@
       "Rating": 3.94,
       "NumberOfAwards": 1894,
       "NumberOfAwardsMax": 402
+    },
+    {
+      "Time": "2023-08-15T08:57:16.1120919+00:00",
+      "Rating": 3.94,
+      "NumberOfAwards": 1895,
+      "NumberOfAwardsMax": 402
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 1894,
+  "NumberOfAwards": 1895,
   "NumberOfAwardsMax": 402,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -2997,7 +3003,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 381
+      "Count": 382
     },
     {
       "Text": "This game has a Silly Community",
@@ -3006,10 +3012,10 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 71843,
-  "EOS_Completed": 38,
-  "EOS_NewPlayers": 314,
-  "EOS_NewCompleters": 1,
+  "EOS_Progressed": 71844,
+  "EOS_Completed": 39,
+  "EOS_NewPlayers": 315,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
     {
@@ -15226,6 +15232,11 @@
       "Time": "2023-08-15T07:08:01.1574462+00:00",
       "NumProgressed": 71843,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-08-15T09:06:55.8895781+00:00",
+      "NumProgressed": 71844,
+      "NumCompleted": 39
     }
   ],
   "TotalAchievements": 37,
@@ -15245,7 +15256,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 20834
+      "UsersEstimate": 20835
     },
     {
       "ID": "ACH_0012",
@@ -15317,7 +15328,7 @@
       "Name": "I Like Trains",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5747
+      "UsersEstimate": 5748
     },
     {
       "ID": "ACH_0050",
@@ -15381,7 +15392,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 46698
+      "UsersEstimate": 46699
     },
     {
       "ID": "ACH_0210",
@@ -15389,7 +15400,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 53164
+      "UsersEstimate": 53165
     },
     {
       "ID": "ACH_0211",
@@ -15405,7 +15416,7 @@
       "Name": "Too Old for This",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 33766
+      "UsersEstimate": 33767
     },
     {
       "ID": "ACH_0300",
@@ -15532,22 +15543,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 71843,
-      "Completed": 38
+      "Progressed": 71844,
+      "Completed": 39
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 190,
-      "Completed": 190
+      "Progressed": 191,
+      "Completed": 191
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-08-15T03:57:09.5773416+00:00",
-  "LastChanged_Achievements": "2023-08-15T08:06:20.3342073+00:00",
+  "LastChanged": "2023-08-15T08:57:16.1120917+00:00",
+  "LastChanged_Achievements": "2023-08-15T09:06:55.8895775+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:57.6056168+00:00",
-  "LastUpdate_Ratings": "2023-08-15T07:57:07.1800214+00:00",
-  "LastUpdate_Achievements": "2023-08-15T08:06:20.33431+00:00"
+  "LastUpdate_Ratings": "2023-08-15T08:57:16.1120926+00:00",
+  "LastUpdate_Achievements": "2023-08-15T09:06:55.8897178+00:00"
 }

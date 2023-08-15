@@ -1,26 +1,26 @@
 # Dying Light 2 Stay Human
 [Store](https://store.epicgames.com/en-US/p/dying-light-2-stay-human)  
 [View Rawdata](../../db/d/dying_light_2_stay_human.json)  
-Rating: 4.58 (Ranked 426)  
+Rating: 4.58 (Ranked 425)  
 Number of Ratings: 7,305  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 11.00% | ~67,320 |
-| Into the Unknown | 10.00% | ~61,200 |
-| First Shot | 10.00% | ~61,200 |
-| Herzlich Wilkommen! | 9.00% | ~55,080 |
-| Good Night & Good Luck | 9.00% | ~55,080 |
-| Sancho Panza | 8.00% | ~48,960 |
-| Oh, So This Is How It Works! | 8.00% | ~48,960 |
-| Under Pressure | 7.00% | ~42,840 |
-| On the Trail of the Enemy | 7.00% | ~42,840 |
-| Light in the Darkness | 7.00% | ~42,840 |
-| Flag Burning | 7.00% | ~42,840 |
-| Night Hunter | 7.00% | ~42,840 |
-| Get Outta My House! | 6.00% | ~36,720 |
-| It Wasn't That Hard, Was It? | 6.00% | ~36,720 |
-| Being All Social | 6.00% | ~36,720 |
+| You Never Forget Your First... | 11.00% | ~67,321 |
+| Into the Unknown | 10.00% | ~61,201 |
+| First Shot | 10.00% | ~61,201 |
+| Herzlich Wilkommen! | 9.00% | ~55,081 |
+| Good Night & Good Luck | 9.00% | ~55,081 |
+| Sancho Panza | 8.00% | ~48,961 |
+| Oh, So This Is How It Works! | 8.00% | ~48,961 |
+| Under Pressure | 7.00% | ~42,841 |
+| On the Trail of the Enemy | 7.00% | ~42,841 |
+| Light in the Darkness | 7.00% | ~42,841 |
+| Flag Burning | 7.00% | ~42,841 |
+| Night Hunter | 7.00% | ~42,841 |
+| Get Outta My House! | 6.00% | ~36,721 |
+| It Wasn't That Hard, Was It? | 6.00% | ~36,721 |
+| Being All Social | 6.00% | ~36,721 |
 | Debris and Ashes | 5.00% | ~30,600 |
 | We Will Be Heard! | 5.00% | ~30,600 |
 | Known Associate | 5.00% | ~30,600 |
@@ -47,8 +47,8 @@ Number of Ratings: 7,305  (23.09.2022)
 | That's Teamwork! | 1.00% | ~6,120 |
 | Fit as a Fiddle | 1.00% | ~6,120 |
 | Ironheart | 1.00% | ~6,120 |
-| Nemesis | 1.00% | ~2,574 |
-| Enter the Hall | 1.00% | ~2,574 |
+| Nemesis | 1.00% | ~2,575 |
+| Enter the Hall | 1.00% | ~2,575 |
 | Find Anything Interesting? | 0.90% | ~5,508 |
 | Boot Licker | 0.90% | ~5,508 |
 | Who Wants To Be a... | 0.90% | ~5,508 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~257 |
 | Connoisseur | 0.10% | ~257 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 611,998 (Ranked 27)  
+Progressed: 612,010 (Ranked 27)  
 Completed: 62 (0.01%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 62 (0.01%) (Ranked 242)
 | 2023-08-12 | 611,100 | 62 |
 | 2023-08-13 | 611,547 | 62 |
 | 2023-08-14 | 611,928 | 62 |
-| 2023-08-15 | 611,998 | 62 |
+| 2023-08-15 | 612,010 | 62 |
 ## Awards
 Max (Character Customization): 8,785  (Ranked 39)  
 Sum: 21,088 (Ranked 54)  

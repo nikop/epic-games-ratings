@@ -5,37 +5,37 @@ Rating: 4.26 (Ranked 815)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~155,122 |
-| Copacetic Coordination | 16.00% | ~53,955 |
-| Fronting the Money | 14.00% | ~47,211 |
-| The Dawn of Automation | 14.00% | ~47,211 |
-| Extraordinary Logistics | 14.00% | ~47,211 |
-| Dirty Money | 13.00% | ~43,839 |
-| Family First | 13.00% | ~43,839 |
-| Cleaning House | 12.00% | ~40,467 |
-| Room in the Back | 12.00% | ~40,467 |
-| Booze Baron | 11.00% | ~37,094 |
-| Beating the Heat | 10.00% | ~33,722 |
-| Friends on the Force | 10.00% | ~33,722 |
-| Neighborhood Watch | 10.00% | ~33,722 |
-| Core Corps | 8.00% | ~26,978 |
-| Sizeable Stash | 8.00% | ~26,978 |
-| Street Fighter | 7.00% | ~23,605 |
-| Friendly Gestures | 7.00% | ~23,605 |
-| People Person | 7.00% | ~23,605 |
-| Liquor Lord | 6.00% | ~20,233 |
-| Safety in Numbers | 6.00% | ~20,233 |
-| Wise Head | 6.00% | ~20,233 |
-| Show ‘em the Sugar | 6.00% | ~20,233 |
-| Killing Them Softly | 6.00% | ~20,233 |
-| Street Knowledge | 5.00% | ~16,861 |
-| Oh Captain | 5.00% | ~16,861 |
-| Branching Out | 5.00% | ~16,861 |
-| Improvement Missions | 5.00% | ~16,861 |
-| Opportunity Knocked | 5.00% | ~16,861 |
-| City of Big Shoulders | 5.00% | ~16,861 |
-| Moving Experiences | 5.00% | ~16,861 |
-| Mission Mastery | 5.00% | ~16,861 |
+| Corner Clout | 46.00% | ~155,128 |
+| Copacetic Coordination | 16.00% | ~53,958 |
+| Fronting the Money | 14.00% | ~47,213 |
+| The Dawn of Automation | 14.00% | ~47,213 |
+| Extraordinary Logistics | 14.00% | ~47,213 |
+| Dirty Money | 13.00% | ~43,841 |
+| Family First | 13.00% | ~43,841 |
+| Cleaning House | 12.00% | ~40,468 |
+| Room in the Back | 12.00% | ~40,468 |
+| Booze Baron | 11.00% | ~37,096 |
+| Beating the Heat | 10.00% | ~33,724 |
+| Friends on the Force | 10.00% | ~33,724 |
+| Neighborhood Watch | 10.00% | ~33,724 |
+| Core Corps | 8.00% | ~26,979 |
+| Sizeable Stash | 8.00% | ~26,979 |
+| Street Fighter | 7.00% | ~23,606 |
+| Friendly Gestures | 7.00% | ~23,606 |
+| People Person | 7.00% | ~23,606 |
+| Liquor Lord | 6.00% | ~20,234 |
+| Safety in Numbers | 6.00% | ~20,234 |
+| Wise Head | 6.00% | ~20,234 |
+| Show ‘em the Sugar | 6.00% | ~20,234 |
+| Killing Them Softly | 6.00% | ~20,234 |
+| Street Knowledge | 5.00% | ~16,862 |
+| Oh Captain | 5.00% | ~16,862 |
+| Branching Out | 5.00% | ~16,862 |
+| Improvement Missions | 5.00% | ~16,862 |
+| Opportunity Knocked | 5.00% | ~16,862 |
+| City of Big Shoulders | 5.00% | ~16,862 |
+| Moving Experiences | 5.00% | ~16,862 |
+| Mission Mastery | 5.00% | ~16,862 |
 | Considerable Clams | 4.00% | ~13,489 |
 | Gin Joint | 4.00% | ~13,489 |
 | An Affront to the Enemy | 4.00% | ~13,489 |
@@ -48,11 +48,11 @@ Rating: 4.26 (Ranked 815)
 | Still Stalwart | 3.00% | ~10,117 |
 | Bees Knees Bootlegger | 3.00% | ~10,117 |
 | Tighten the Screws | 3.00% | ~10,117 |
-| One of Us | 2.00% | ~6,744 |
-| Baker’s Dozen | 2.00% | ~6,744 |
-| Dropping the Dime | 2.00% | ~6,744 |
-| Spiffy Speakeasies | 2.00% | ~6,744 |
-| Keeping Your Word | 2.00% | ~6,744 |
+| One of Us | 2.00% | ~6,745 |
+| Baker’s Dozen | 2.00% | ~6,745 |
+| Dropping the Dime | 2.00% | ~6,745 |
+| Spiffy Speakeasies | 2.00% | ~6,745 |
+| Keeping Your Word | 2.00% | ~6,745 |
 | Boxing Them In | 1.00% | ~3,372 |
 | Backroom Empire | 1.00% | ~3,372 |
 | Corner Control | 1.00% | ~3,372 |
@@ -86,7 +86,7 @@ Rating: 4.26 (Ranked 815)
 | High Pillow | 0.10% | ~337 |
 | Station Master | 0.10% | ~337 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 337,221 (Ranked 41)  
+Progressed: 337,235 (Ranked 41)  
 Completed: 7 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,11 +203,11 @@ Completed: 7 (0.00%) (Ranked 255)
 | 2023-08-12 | 336,681 | 7 |
 | 2023-08-13 | 336,943 | 7 |
 | 2023-08-14 | 337,164 | 7 |
-| 2023-08-15 | 337,221 | 7 |
+| 2023-08-15 | 337,235 | 7 |
 ## Awards
 Max (Great for Beginners): 33  (Ranked 448)  
-Sum: 161 (Ranked 391)  
-Diff (max vs sum): 57  
+Sum: 161 (Ranked 392)  
+Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 33 |

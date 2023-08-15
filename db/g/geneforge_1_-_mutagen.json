@@ -4,11 +4,11 @@
   "ProductSlug": "geneforge-1-mutagen",
   "Ranking_Rating": 864,
   "Ranking_Popularity": 448,
-  "Ranking_PopularitySum": 387,
+  "Ranking_PopularitySum": 388,
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 355,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2021-02-24T14:00:00+00:00",
     "PcReleaseDate": "2021-02-24T14:00:00+00:00",
@@ -688,6 +688,6 @@
   "FirstSeen": "2022-07-22T20:31:43.0453732+00:00",
   "LastChanged": "2023-05-06T21:00:10.5209341+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:29.4804918+00:00",
-  "LastUpdate_Ratings": "2023-08-15T07:59:38.961206+00:00",
-  "LastUpdate_Achievements": "2023-08-15T08:05:59.0180464+00:00"
+  "LastUpdate_Ratings": "2023-08-15T09:00:28.2909498+00:00",
+  "LastUpdate_Achievements": "2023-08-15T09:06:30.2812799+00:00"
 }

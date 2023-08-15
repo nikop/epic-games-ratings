@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 178,
   "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -331,7 +331,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 1805,
+  "EOS_Progressed": 1806,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
@@ -1836,6 +1836,11 @@
       "Time": "2023-08-14T22:03:18.0626884+00:00",
       "NumProgressed": 1805,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-15T09:03:06.1533731+00:00",
+      "NumProgressed": 1806,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -1847,7 +1852,7 @@
       "Name": "Chain Reaction",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "ACH_DEAD_OR_ALIVE",
@@ -1871,7 +1876,7 @@
       "Name": "Dishonored",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "ACH_DOG_DAYS",
@@ -1991,7 +1996,7 @@
       "Name": "Justice Served",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "ACH_LETS_RIDE",
@@ -1999,7 +2004,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 1083
+      "UsersEstimate": 1084
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -2023,7 +2028,7 @@
       "Name": "Loyalty to the Pack",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "ACH_MAN_IN_BLACK",
@@ -2071,7 +2076,7 @@
       "Name": "Mystery Machine",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "ACH_OFF_THE_TRAIL",
@@ -2095,7 +2100,7 @@
       "Name": "Perky",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1173
+      "UsersEstimate": 1174
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -2119,7 +2124,7 @@
       "Name": "Rain of Death",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "ACH_REVENANT",
@@ -2135,7 +2140,7 @@
       "Name": "Scholar",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "ACH_SELF_IMPROVEMENT",
@@ -2191,7 +2196,7 @@
       "Name": "The Philosopher\u2019s Stone",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "ACH_THIS_IS_SPARTA",
@@ -2207,7 +2212,7 @@
       "Name": "Through Their Eyes",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "ACH_TURNING_THE_TABLES",
@@ -2223,7 +2228,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1588
+      "UsersEstimate": 1589
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -2270,15 +2275,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1805,
+      "Progressed": 1806,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-08-02T19:59:24.9286429+00:00",
-  "LastChanged_Achievements": "2023-08-15T08:03:29.9524022+00:00",
+  "LastChanged_Achievements": "2023-08-15T09:03:06.1533723+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:13.6246247+00:00",
-  "LastUpdate_Ratings": "2023-08-15T07:59:27.1893861+00:00",
-  "LastUpdate_Achievements": "2023-08-15T08:03:29.9524596+00:00"
+  "LastUpdate_Ratings": "2023-08-15T09:00:09.991864+00:00",
+  "LastUpdate_Achievements": "2023-08-15T09:03:06.1534397+00:00"
 }

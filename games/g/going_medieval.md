@@ -1,7 +1,7 @@
 # Going Medieval
 [Store](https://store.epicgames.com/en-US/p/going-medieval)  
 [View Rawdata](../../db/g/going_medieval.json)  
-Rating: 4.60 (Ranked 390)  
+Rating: 4.60 (Ranked 391)  
 Number of Ratings: 706  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -29,8 +29,8 @@ Number of Ratings: 706  (23.09.2022)
 | Winter Is Here | 23.00% | ~1,217 |
 | Disassembled | 20.00% | ~1,058 |
 | A Party Now | 20.00% | ~1,058 |
+| Oh Deer! | 20.00% | ~1,058 |
 | All Year Round | 20.00% | ~1,058 |
-| Oh Deer! | 19.00% | ~1,005 |
 | Nothing Wasted | 12.00% | ~635 |
 | Don't Cry Wolf | 12.00% | ~635 |
 | Deerly Departed | 8.00% | ~423 |
