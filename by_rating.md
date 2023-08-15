@@ -312,7 +312,7 @@
 | 298 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 24 | 482 |
 | 298 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.65 | 0 | 512 |
 | 298 | [Tennis Manager 2022](games/t/tennis_manager_2022.md) | 4.65 | 0 | 512 |
-| 298 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.65 | 100 | 335 |
+| 298 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.65 | 101 | 334 |
 | 314 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.64 | 0 | 512 |
 | 314 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 0 | 512 |
 | 314 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 5,961 | 58 |
@@ -478,7 +478,7 @@
 | 470 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.56 | 0 | 512 |
 | 470 | [Minit](games/m/minit.md) | 4.56 | 0 | 512 |
 | 470 | [MultiVersus](games/m/multiversus.md) | 4.56 | 4,746 | 69 |
-| 470 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.56 | 915 | 150 |
+| 470 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.56 | 916 | 150 |
 | 470 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 1,795 | 113 |
 | 470 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.56 | 0 | 512 |
 | 470 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.56 | 334 | 229 |
@@ -601,7 +601,7 @@
 | 590 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 0 | 512 |
 | 590 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.48 | 2,341 | 104 |
 | 590 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.48 | 0 | 512 |
-| 590 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 4.48 | 100 | 335 |
+| 590 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 4.48 | 100 | 336 |
 | 590 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.48 | 7,780 | 42 |
 | 590 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.48 | 0 | 512 |
 | 590 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.48 | 36 | 434 |
@@ -815,32 +815,32 @@
 | 808 | [RiMS Racing](games/r/rims_racing.md) | 4.27 | 0 | 512 |
 | 814 | [Against All Odds](games/a/against_all_odds.md) | 4.26 | 0 | 512 |
 | 814 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.26 | 33 | 448 |
-| 814 | [F1® Manager 2023](games/3/38b4b40752b142e5a503acbb241a8b3c.md) | 4.26 | 0 | 512 |
 | 814 | [Flatout](games/f/flatout.md) | 4.26 | 0 | 512 |
 | 814 | [The Fall](games/t/the_fall.md) | 4.26 | 0 | 512 |
 | 814 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 0 | 512 |
 | 814 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 297 | 237 |
-| 821 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.25 | 22 | 494 |
-| 821 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.25 | 17,338 | 21 |
-| 821 | [EVE Online](games/e/eve_online.md) | 4.25 | 1,060 | 138 |
-| 821 | [R-Type Final 2](games/r/r-type_final_2.md) | 4.25 | 0 | 512 |
-| 821 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 0 | 512 |
-| 821 | [Starsand](games/s/starsand.md) | 4.25 | 0 | 512 |
-| 821 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.25 | 0 | 512 |
-| 821 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 0 | 512 |
-| 829 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 512 |
-| 829 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 31 | 460 |
-| 829 | [OVERPASS™](games/o/overpass™.md) | 4.24 | 0 | 512 |
-| 829 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 550 | 193 |
-| 829 | [Rise of Industry](games/r/rise_of_industry.md) | 4.24 | 0 | 512 |
-| 829 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 45 | 413 |
-| 829 | [The Bridge](games/t/the_bridge.md) | 4.24 | 0 | 512 |
-| 829 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.24 | 0 | 512 |
-| 829 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 24 | 482 |
-| 838 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 0 | 512 |
-| 838 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.23 | 0 | 512 |
-| 838 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 1,010 | 144 |
-| 838 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 0 | 512 |
+| 820 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.25 | 22 | 494 |
+| 820 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.25 | 17,338 | 21 |
+| 820 | [EVE Online](games/e/eve_online.md) | 4.25 | 1,060 | 138 |
+| 820 | [R-Type Final 2](games/r/r-type_final_2.md) | 4.25 | 0 | 512 |
+| 820 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 0 | 512 |
+| 820 | [Starsand](games/s/starsand.md) | 4.25 | 0 | 512 |
+| 820 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.25 | 0 | 512 |
+| 820 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 0 | 512 |
+| 828 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 512 |
+| 828 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 31 | 460 |
+| 828 | [OVERPASS™](games/o/overpass™.md) | 4.24 | 0 | 512 |
+| 828 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 550 | 193 |
+| 828 | [Rise of Industry](games/r/rise_of_industry.md) | 4.24 | 0 | 512 |
+| 828 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 45 | 413 |
+| 828 | [The Bridge](games/t/the_bridge.md) | 4.24 | 0 | 512 |
+| 828 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.24 | 0 | 512 |
+| 828 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 24 | 482 |
+| 837 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 0 | 512 |
+| 837 | [F1® Manager 2023](games/3/38b4b40752b142e5a503acbb241a8b3c.md) | 4.23 | 0 | 512 |
+| 837 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.23 | 0 | 512 |
+| 837 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 1,010 | 144 |
+| 837 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 0 | 512 |
 | 842 | [Deliver Us Mars](games/d/deliver_us_mars.md) | 4.22 | 0 | 512 |
 | 842 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.22 | 179 | 282 |
 | 842 | [Men of War](games/m/men_of_war.md) | 4.22 | 0 | 512 |

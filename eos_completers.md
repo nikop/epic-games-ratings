@@ -161,8 +161,8 @@
 | 159 | [The Surge](games/t/the_surge.md) | 0.35% |
 | 160 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.33% |
 | 160 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.33% |
-| 162 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.32% |
-| 162 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.32% |
+| 160 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.33% |
+| 163 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.32% |
 | 164 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
 | 164 | [Dead Island 2](games/d/dead_island_2.md) | 0.31% |
 | 166 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.30% |
