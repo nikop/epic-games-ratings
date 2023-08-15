@@ -32,7 +32,7 @@
 | 30 | [Sonic Origins](games/s/sonic_origins.md) | 9.64% |
 | 31 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.30% |
 | 32 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.96% |
-| 33 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 8.89% |
+| 33 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 8.70% |
 | 34 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.48% |
 | 35 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 7.81% |
 | 36 | [Smelter](games/s/smelter.md) | 7.69% |
@@ -66,16 +66,16 @@
 | 64 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 65 | [Doodle God](games/d/doodle_god.md) | 3.46% |
 | 66 | [Bunny Park](games/b/bunny_park.md) | 3.39% |
-| 67 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.33% |
+| 67 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.32% |
 | 68 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.17% |
 | 69 | [HordeCore](games/h/hordecore.md) | 3.15% |
 | 70 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.05% |
 | 71 | [The Complex](games/t/the_complex.md) | 2.99% |
-| 72 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.96% |
+| 72 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.95% |
 | 73 | [Monster Harvest](games/m/monster_harvest.md) | 2.94% |
 | 74 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 75 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.78% |
-| 76 | [Destiny 2](games/d/destiny_2.md) | 2.75% |
+| 76 | [Destiny 2](games/d/destiny_2.md) | 2.74% |
 | 77 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
 | 78 | [The Bunker](games/t/the_bunker.md) | 2.68% |
 | 79 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.62% |
