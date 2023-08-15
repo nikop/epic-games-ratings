@@ -22,10 +22,10 @@ Number of Ratings: 25  (23.09.2022)
 | The Admirer | 52.00% | ~315 |
 | Precious | 45.00% | ~272 |
 | Devoted | 42.00% | ~254 |
-| The Farmer | 39.00% | ~236 |
+| The Farmer | 40.00% | ~242 |
 | Ever After | 37.00% | ~224 |
+| Loyal | 29.00% | ~175 |
 | Mandatory Sacrifice | 29.00% | ~175 |
-| Loyal | 28.00% | ~169 |
 | The Collector | 24.00% | ~145 |
 | All Doors Open | 20.00% | ~121 |
 | Faithful | 11.00% | ~67 |

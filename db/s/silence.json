@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 256,
   "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2016-11-15T17:00:00+00:00",
@@ -400,9 +400,9 @@
       "ID": "2009_achv_lifewheel",
       "SetID": "dhn82m5",
       "Name": "Where there is life, there is hope",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "3002_achv_checkmate",
@@ -513,8 +513,8 @@
   "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.5644296+00:00",
   "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
-  "LastChanged_Achievements": "2023-08-15T10:06:24.812558+00:00",
+  "LastChanged_Achievements": "2023-08-15T11:05:43.7944764+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:10.3291859+00:00",
-  "LastUpdate_Ratings": "2023-08-15T10:01:24.8021734+00:00",
-  "LastUpdate_Achievements": "2023-08-15T10:06:24.8125997+00:00"
+  "LastUpdate_Ratings": "2023-08-15T11:00:32.4798819+00:00",
+  "LastUpdate_Achievements": "2023-08-15T11:05:43.794544+00:00"
 }

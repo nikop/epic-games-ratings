@@ -118,6 +118,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Bad Heir Day | 0.40% | ~54 |
 | Ishtar Gate in Babylon | 0.40% | ~54 |
 | Capable | 0.40% | ~54 |
+| Old | 0.40% | ~54 |
 | Ready | 0.40% | ~54 |
 | Strong Difficulty | 0.40% | ~54 |
 | Clerics | 0.40% | ~54 |
@@ -132,7 +133,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kushite Cavalry | 0.40% | ~54 |
 | No Undo | 0.40% | ~54 |
 | Carthage - Ox Hide | 0.30% | ~40 |
-| Old | 0.30% | ~40 |
 | Peacemaker | 0.30% | ~40 |
 | Noble Difficulty | 0.30% | ~40 |
 | Cao'an | 0.30% | ~40 |

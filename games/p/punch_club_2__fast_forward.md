@@ -38,27 +38,28 @@
 | Escaped from a big trouble | 52.00% | ~131 |
 | Now you are worthy | 48.00% | ~121 |
 | Guiding on the right path | 46.00% | ~116 |
+| No blades in the gym | 45.00% | ~113 |
 | Fight is life | 44.00% | ~111 |
 | Mysterious voice | 44.00% | ~111 |
-| No blades in the gym | 44.00% | ~111 |
+| Your own way | 41.00% | ~103 |
 | Champion – no way back | 40.00% | ~101 |
-| Your own way | 40.00% | ~101 |
+| Responsible approach | 39.00% | ~98 |
 | Poisoned fighter | 38.00% | ~96 |
 | Get out of my apartment! | 38.00% | ~96 |
 | Underground dwellers | 38.00% | ~96 |
-| Responsible approach | 38.00% | ~96 |
 | Deal with life | 37.00% | ~93 |
 | GYM professional | 37.00% | ~93 |
 | Mom got better | 36.00% | ~91 |
 | The die is cast | 36.00% | ~91 |
 | Seashell hunter | 35.00% | ~88 |
 | Gang wrangler | 33.00% | ~83 |
-| Problems of cyborgs | 32.00% | ~81 |
+| Problems of cyborgs | 33.00% | ~83 |
 | Absolute Champion! | 32.00% | ~81 |
 | Undercover robot | 32.00% | ~81 |
 | The lonesome road | 31.00% | ~78 |
 | Key memories | 31.00% | ~78 |
 | Not little hacker | 31.00% | ~78 |
+| The last bell ring | 31.00% | ~78 |
 | Careerist | 31.00% | ~78 |
 | Anyone can resist | 31.00% | ~78 |
 | The heart of the Resistance | 31.00% | ~78 |
@@ -66,7 +67,6 @@
 | Another world | 30.00% | ~76 |
 | Keep nature safe | 30.00% | ~76 |
 | Family comes first | 30.00% | ~76 |
-| The last bell ring | 30.00% | ~76 |
 | Silver’s past | 27.00% | ~68 |
 | Better cooking at home | 27.00% | ~68 |
 | The only right decision | 26.00% | ~66 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1247,9 +1247,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 126249,
+  "EOS_Progressed": 126250,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 411,
+  "EOS_NewPlayers": 406,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -12847,6 +12847,11 @@
       "Time": "2023-08-15T10:04:58.5293557+00:00",
       "NumProgressed": 126249,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-08-15T11:04:29.3209265+00:00",
+      "NumProgressed": 126250,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 40,
@@ -12882,7 +12887,7 @@
       "Name": "The Opener Of The Eighth Seal",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3787
+      "UsersEstimate": 3788
     },
     {
       "ID": "ACH_COP_ART",
@@ -12994,7 +12999,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 18937
+      "UsersEstimate": 18938
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -13002,7 +13007,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 13887
+      "UsersEstimate": 13888
     },
     {
       "ID": "ACH_CUNO",
@@ -13082,7 +13087,7 @@
       "Name": "Bother Kim After Hours",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3787
+      "UsersEstimate": 3788
     },
     {
       "ID": "ACH_KIM_JACKET",
@@ -13098,7 +13103,7 @@
       "Name": "Leopard Mindset",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "ACH_MEDAL",
@@ -13177,15 +13182,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 126249,
+      "Progressed": 126250,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-08-14T01:41:04.9413992+00:00",
-  "LastChanged_Achievements": "2023-08-15T10:04:58.529355+00:00",
+  "LastChanged_Achievements": "2023-08-15T11:04:29.320926+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:59.4029348+00:00",
-  "LastUpdate_Ratings": "2023-08-15T10:01:14.9130038+00:00",
-  "LastUpdate_Achievements": "2023-08-15T10:04:58.5294623+00:00"
+  "LastUpdate_Ratings": "2023-08-15T11:00:22.1705196+00:00",
+  "LastUpdate_Achievements": "2023-08-15T11:04:29.3210552+00:00"
 }

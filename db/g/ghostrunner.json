@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 155,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1062,9 +1062,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15064,
+  "EOS_Progressed": 15065,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 389,
+  "EOS_NewPlayers": 388,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -13492,6 +13492,11 @@
       "Time": "2023-08-15T10:05:23.3692437+00:00",
       "NumProgressed": 15064,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-08-15T11:04:51.5199267+00:00",
+      "NumProgressed": 15065,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 45,
@@ -13559,7 +13564,7 @@
       "Name": "Fine addition",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1054
+      "UsersEstimate": 1055
     },
     {
       "ID": "FinishLine",
@@ -13599,7 +13604,7 @@
       "Name": "I call it luck",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 6628
+      "UsersEstimate": 6629
     },
     {
       "ID": "ImproviseAdaptOverrun",
@@ -13655,7 +13660,7 @@
       "Name": "Control freak",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 4067
+      "UsersEstimate": 4068
     },
     {
       "ID": "ObedientMachine",
@@ -13679,7 +13684,7 @@
       "Name": "One Of Those Days",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1054
+      "UsersEstimate": 1055
     },
     {
       "ID": "OutOfOrder",
@@ -13695,7 +13700,7 @@
       "Name": "Perfection",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 4820
+      "UsersEstimate": 4821
     },
     {
       "ID": "PreempativeStrike",
@@ -13735,7 +13740,7 @@
       "Name": "Running Wild",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 4067
+      "UsersEstimate": 4068
     },
     {
       "ID": "Scrapped",
@@ -13839,7 +13844,7 @@
       "Name": "Where are my Keys?",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 6176
+      "UsersEstimate": 6177
     },
     {
       "ID": "WhereHeStood",
@@ -13855,28 +13860,28 @@
       "Name": "Why not both",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 4519
+      "UsersEstimate": 4520
     }
   ],
   "AchievementSets": [
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 15064,
+      "Progressed": 15065,
       "Completed": 36
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 15064,
+      "Progressed": 15065,
       "Completed": 57
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-08-14T19:00:08.1176842+00:00",
-  "LastChanged_Achievements": "2023-08-15T10:05:23.3692429+00:00",
+  "LastChanged_Achievements": "2023-08-15T11:04:51.5199257+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:48.2444445+00:00",
-  "LastUpdate_Ratings": "2023-08-15T10:00:00.4765545+00:00",
-  "LastUpdate_Achievements": "2023-08-15T10:05:23.3693926+00:00"
+  "LastUpdate_Ratings": "2023-08-15T10:59:19.3236287+00:00",
+  "LastUpdate_Achievements": "2023-08-15T11:04:51.5201306+00:00"
 }

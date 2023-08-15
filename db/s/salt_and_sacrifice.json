@@ -8569,9 +8569,9 @@
       "ID": "diablomancer",
       "SetID": "2jelldm",
       "Name": "The Diablomancer",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 13807
+      "UsersEstimate": 14465
     },
     {
       "ID": "dracomancer",
@@ -8881,8 +8881,8 @@
   "FirstSeen": "2022-07-22T20:23:45.0965926+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:04.986715+00:00",
   "LastChanged": "2023-08-12T22:59:16.0799491+00:00",
-  "LastChanged_Achievements": "2023-08-15T10:03:52.7404225+00:00",
+  "LastChanged_Achievements": "2023-08-15T11:03:32.9883737+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:05.0729961+00:00",
-  "LastUpdate_Ratings": "2023-08-15T10:00:14.4853427+00:00",
-  "LastUpdate_Achievements": "2023-08-15T10:03:52.7405235+00:00"
+  "LastUpdate_Ratings": "2023-08-15T10:59:29.3495423+00:00",
+  "LastUpdate_Achievements": "2023-08-15T11:03:32.9885566+00:00"
 }

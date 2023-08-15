@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 264,
   "Ranking_EOS_Progress": 544,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 355,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 354,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2016-03-08T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1406,10 +1406,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 779,
       "NumberOfAwardsMax": 314
+    },
+    {
+      "Time": "2023-08-15T10:57:13.3538675+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 780,
+      "NumberOfAwardsMax": 314
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 779,
+  "NumberOfAwards": 780,
   "NumberOfAwardsMax": 314,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1447,7 +1453,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 29
+      "Count": 30
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1509,8 +1515,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:11.4605071+00:00",
-  "LastChanged": "2023-08-13T08:57:15.1770315+00:00",
+  "LastChanged": "2023-08-15T10:57:13.3538672+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:58:00.6400031+00:00",
-  "LastUpdate_Ratings": "2023-08-15T09:57:26.696981+00:00",
-  "LastUpdate_Achievements": "2023-08-15T10:05:44.8097816+00:00"
+  "LastUpdate_Ratings": "2023-08-15T10:57:13.353868+00:00",
+  "LastUpdate_Achievements": "2023-08-15T11:05:09.3489556+00:00"
 }

@@ -6,23 +6,23 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 26.00% | ~9,213 |
-| Finding Your Footing | 26.00% | ~9,213 |
-| Nomad | 18.00% | ~6,378 |
-| Picking Up Speed | 16.00% | ~5,669 |
-| Welcome Maya | 15.00% | ~5,315 |
+| Rookie | 26.00% | ~9,214 |
+| Finding Your Footing | 26.00% | ~9,214 |
+| Nomad | 18.00% | ~6,379 |
+| Picking Up Speed | 16.00% | ~5,670 |
+| Welcome Maya | 15.00% | ~5,316 |
 | Scout | 11.00% | ~3,898 |
 | Sightseer | 11.00% | ~3,898 |
-| Amateur | 9.00% | ~3,189 |
+| Amateur | 9.00% | ~3,190 |
 | Enter Paz | 8.00% | ~2,835 |
 | Wanderer | 8.00% | ~2,835 |
-| Unlock Maya | 7.00% | ~2,480 |
+| Unlock Maya | 7.00% | ~2,481 |
 | Aviator | 6.00% | ~2,126 |
 | My Little Friend | 5.00% | ~1,772 |
 | One With The Board | 5.00% | ~1,772 |
 | Voyager | 5.00% | ~1,772 |
-| Sandboarder | 4.00% | ~1,417 |
-| Izel Has Arrived | 4.00% | ~1,417 |
+| Sandboarder | 4.00% | ~1,418 |
+| Izel Has Arrived | 4.00% | ~1,418 |
 | Junkie | 3.00% | ~1,063 |
 | Traveler | 3.00% | ~1,063 |
 | Journeyer | 3.00% | ~1,063 |
@@ -36,7 +36,7 @@ Number of Ratings: 332  (23.09.2022)
 | Introducing Sumara | 1.00% | ~354 |
 | Vandal | 1.00% | ~354 |
 | Daredevil | 0.90% | ~319 |
-| Unlock Felipe | 0.80% | ~283 |
+| Unlock Felipe | 0.80% | ~284 |
 | Adventurer | 0.70% | ~248 |
 | Unlock Tupa | 0.50% | ~177 |
 | Master Of The Sands | 0.30% | ~106 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~35 |
 | Windswept | 0.10% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 35,433 (Ranked 96)  
+Progressed: 35,440 (Ranked 96)  
 Completed: 5 (0.01%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 5 (0.01%) (Ranked 243)
 | 2023-08-12 | 35,121 | 5 |
 | 2023-08-13 | 35,253 | 5 |
 | 2023-08-14 | 35,390 | 5 |
-| 2023-08-15 | 35,433 | 5 |
+| 2023-08-15 | 35,440 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 46  (Ranked 410)  
 Sum: 359 (Ranked 327)  

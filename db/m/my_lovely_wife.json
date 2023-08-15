@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 256,
   "Ranking_EOS_NewPlayers": 309,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-06-07T16:00:00+00:00",
     "PcReleaseDate": "2022-06-07T16:00:00+00:00",
@@ -418,9 +418,9 @@
       "ID": "ACH_ASSIGN_RUIN_2",
       "SetID": "ajki3eh",
       "Name": "Loyal",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 175
     },
     {
       "ID": "ACH_ASSIGN_SHRINE_1",
@@ -530,9 +530,9 @@
       "ID": "ACH_SUMMON_SUCC_2",
       "SetID": "ajki3eh",
       "Name": "The Farmer",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 236
+      "UsersEstimate": 242
     },
     {
       "ID": "ACH_SUMMON_SUCC_3",
@@ -650,8 +650,8 @@
   "FirstSeen": "2022-07-22T20:30:06.1147591+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.1712211+00:00",
   "LastChanged": "2023-03-31T05:57:36.3389853+00:00",
-  "LastChanged_Achievements": "2023-08-15T10:06:33.8481988+00:00",
+  "LastChanged_Achievements": "2023-08-15T11:05:51.205441+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:54.1825843+00:00",
-  "LastUpdate_Ratings": "2023-08-15T10:00:03.2546643+00:00",
-  "LastUpdate_Achievements": "2023-08-15T10:06:33.8482283+00:00"
+  "LastUpdate_Ratings": "2023-08-15T10:59:21.4508097+00:00",
+  "LastUpdate_Achievements": "2023-08-15T11:05:51.205475+00:00"
 }

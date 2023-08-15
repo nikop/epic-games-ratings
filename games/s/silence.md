@@ -35,9 +35,9 @@
 | Mumbo Jumbo | 11.00% | ~12 |
 | Useless but beautiful | 8.00% | ~9 |
 | Lollipop | 8.00% | ~9 |
+| Where there is life, there is hope | 8.00% | ~9 |
 | It's nothing personal | 8.00% | ~9 |
 | Artistic master | 7.00% | ~7 |
-| Where there is life, there is hope | 7.00% | ~7 |
 | Sadist | 6.00% | ~6 |
 | Fartjokes! | 6.00% | ~6 |
 | The hands of a healer | 6.00% | ~6 |

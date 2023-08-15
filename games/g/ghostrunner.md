@@ -12,16 +12,16 @@ Number of Ratings: 1,047  (23.09.2022)
 | Wallrunner | 54.00% | ~8,135 |
 | Homerunner | 45.00% | ~6,779 |
 | Out of order | 45.00% | ~6,779 |
-| I call it luck | 44.00% | ~6,628 |
-| Where are my Keys? | 41.00% | ~6,176 |
+| I call it luck | 44.00% | ~6,629 |
+| Where are my Keys? | 41.00% | ~6,177 |
 | Back to hell | 37.00% | ~5,574 |
-| Perfection | 32.00% | ~4,820 |
-| Why not both | 30.00% | ~4,519 |
+| Perfection | 32.00% | ~4,821 |
+| Why not both | 30.00% | ~4,520 |
 | Sword to a gunfight | 29.00% | ~4,369 |
 | Upgrades not mandatory | 29.00% | ~4,369 |
 | Artificial selection | 28.00% | ~4,218 |
-| Control freak | 27.00% | ~4,067 |
-| Running Wild | 27.00% | ~4,067 |
+| Control freak | 27.00% | ~4,068 |
+| Running Wild | 27.00% | ~4,068 |
 | Finish line | 26.00% | ~3,917 |
 | Unstoppable force | 23.00% | ~3,465 |
 | Wave of mutilation | 22.00% | ~3,314 |
@@ -33,8 +33,8 @@ Number of Ratings: 1,047  (23.09.2022)
 | More than human | 12.00% | ~1,808 |
 | Strike | 12.00% | ~1,808 |
 | Triple A | 9.00% | ~1,356 |
-| Fine addition | 7.00% | ~1,054 |
-| One Of Those Days | 7.00% | ~1,054 |
+| Fine addition | 7.00% | ~1,055 |
+| One Of Those Days | 7.00% | ~1,055 |
 | Where He Stood | 5.00% | ~753 |
 | About Adam | 4.00% | ~603 |
 | Push it to the limit | 4.00% | ~603 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Sticks And Stones | 0.40% | ~60 |
 | Up Close And Personal | 0.40% | ~60 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,064 (Ranked 115)  
+Progressed: 15,065 (Ranked 115)  
 Completed: 57 (0.38%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,7 +169,7 @@ Completed: 57 (0.38%) (Ranked 155)
 | 2023-08-12 | 14,913 | 56 |
 | 2023-08-13 | 14,968 | 57 |
 | 2023-08-14 | 15,036 | 57 |
-| 2023-08-15 | 15,064 | 57 |
+| 2023-08-15 | 15,065 | 57 |
 ## Awards
 Max (Great Boss Battles): 477  (Ranked 200)  
 Sum: 664 (Ranked 283)  

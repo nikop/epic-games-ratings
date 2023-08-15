@@ -44,12 +44,12 @@ Rating: 4.56 (Ranked 470)
 | Delivery! | 2.00% | ~61 |
 | Help of the Forgotten Member | 2.00% | ~61 |
 | Pulsar Disciple | 2.00% | ~61 |
+| Better Him Than Me | 1.00% | ~31 |
 | Tiqqun Contender | 1.00% | ~31 |
 | Catastrophe Avoided | 1.00% | ~31 |
 | You Had One Job... | 1.00% | ~31 |
 | Tiqqun Unchained | 1.00% | ~31 |
 | Scientifically Accurate | 1.00% | ~31 |
-| Better Him Than Me | 0.90% | ~28 |
 | Gregor Spinoza | 0.90% | ~28 |
 | Remember the Dead | 0.80% | ~25 |
 | Work Harder | 0.40% | ~12 |

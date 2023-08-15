@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -4568,9 +4568,9 @@
       "ID": "ACH_BASE_12",
       "SetID": "92iocjf",
       "Name": "Better Him Than Me",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_BASE_14",
@@ -5015,8 +5015,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-08-15T09:00:10.9455406+00:00",
-  "LastChanged_Achievements": "2023-08-15T10:06:59.4888065+00:00",
+  "LastChanged_Achievements": "2023-08-15T11:06:13.1593313+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:14.5462015+00:00",
-  "LastUpdate_Ratings": "2023-08-15T10:00:25.2232421+00:00",
-  "LastUpdate_Achievements": "2023-08-15T10:06:59.4889+00:00"
+  "LastUpdate_Ratings": "2023-08-15T10:59:41.2781053+00:00",
+  "LastUpdate_Achievements": "2023-08-15T11:06:13.1594831+00:00"
 }
