@@ -19,7 +19,7 @@
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 21,755 | 4.77 | 107 |
 | 18 | [Dauntless](games/d/dauntless.md) | 21,332 | 4.53 | 511 |
 | 19 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 19,226 | 4.57 | 450 |
-| 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 17,579 | 4.89 | 12 |
+| 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 17,595 | 4.89 | 12 |
 | 21 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 17,338 | 4.25 | 821 |
 | 22 | [Warframe](games/w/warframe.md) | 16,471 | 4.61 | 364 |
 | 23 | [League of Legends](games/l/league_of_legends.md) | 15,350 | 4.21 | 849 |
@@ -38,7 +38,7 @@
 | 36 | [SnowRunner](games/s/snowrunner.md) | 9,940 | 4.76 | 119 |
 | 37 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,803 | 4.61 | 364 |
 | 38 | [HITMAN World of Assassination](games/h/hitman_3.md) | 9,711 | 4.78 | 101 |
-| 39 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 8,785 | 4.58 | 425 |
+| 39 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 8,795 | 4.58 | 425 |
 | 40 | [Control](games/c/control.md) | 8,442 | 4.60 | 391 |
 | 41 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 7,947 | 4.89 | 12 |
 | 42 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 7,780 | 4.48 | 591 |
@@ -65,7 +65,7 @@
 | 63 | [Dead Island 2](games/d/dead_island_2.md) | 5,660 | 4.54 | 499 |
 | 64 | [Prey](games/p/prey.md) | 5,637 | 4.62 | 342 |
 | 65 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,541 | 4.85 | 42 |
-| 66 | [Rogue Company](games/r/rogue_company.md) | 5,257 | 4.33 | 766 |
+| 66 | [Rogue Company](games/r/rogue_company.md) | 5,261 | 4.33 | 766 |
 | 67 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,148 | 4.06 | 919 |
 | 68 | [Cities: Skylines](games/c/cities__skylines.md) | 5,139 | 4.65 | 298 |
 | 69 | [MultiVersus](games/m/multiversus.md) | 4,746 | 4.56 | 470 |

@@ -16,7 +16,7 @@
 | 12 | [Firework](games/f/firework.md) | 4.89 | 0 | 512 |
 | 12 | [RimWorld](games/r/rimworld.md) | 4.89 | 428 | 207 |
 | 12 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.89 | 0 | 512 |
-| 12 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 17,579 | 20 |
+| 12 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 17,595 | 20 |
 | 18 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 136 | 306 |
 | 18 | [God of War](games/g/god_of_war.md) | 4.88 | 4,203 | 77 |
 | 18 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.88 | 0 | 512 |
@@ -429,7 +429,7 @@
 | 425 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 162 | 292 |
 | 425 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 0 | 512 |
 | 425 | [Deceive Inc.](games/d/deceive_inc..md) | 4.58 | 0 | 512 |
-| 425 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 8,785 | 39 |
+| 425 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 8,795 | 39 |
 | 425 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 257 | 249 |
 | 425 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.58 | 0 | 512 |
 | 425 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.58 | 0 | 512 |
@@ -770,7 +770,7 @@
 | 766 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.33 | 0 | 512 |
 | 766 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.33 | 21 | 501 |
 | 766 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 0 | 512 |
-| 766 | [Rogue Company](games/r/rogue_company.md) | 4.33 | 5,257 | 66 |
+| 766 | [Rogue Company](games/r/rogue_company.md) | 4.33 | 5,261 | 66 |
 | 766 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 4.33 | 40 | 426 |
 | 766 | [Speed Brawl](games/s/speed_brawl.md) | 4.33 | 29 | 465 |
 | 766 | [War Mongrels](games/w/war_mongrels.md) | 4.33 | 0 | 512 |
