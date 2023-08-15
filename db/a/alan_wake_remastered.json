@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 60869,
+  "EOS_Progressed": 60870,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 380,
+  "EOS_NewPlayers": 381,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -11277,6 +11277,11 @@
       "Time": "2023-08-15T01:45:38.0329752+00:00",
       "NumProgressed": 60869,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-15T02:19:21.0101404+00:00",
+      "NumProgressed": 60870,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -11368,7 +11373,7 @@
       "Name": "Children of the Elder God",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3043
+      "UsersEstimate": 3044
     },
     {
       "ID": "12",
@@ -11384,7 +11389,7 @@
       "Name": "Drink \u0027Em Both Up",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3043
+      "UsersEstimate": 3044
     },
     {
       "ID": "14",
@@ -11454,9 +11459,9 @@
       "ID": "22",
       "SetID": "212770e",
       "Name": "The Six-Gun Scribe",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7304
+      "UsersEstimate": 7913
     },
     {
       "ID": "23",
@@ -11823,21 +11828,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 60869,
+      "Progressed": 60870,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 24337,
+      "Progressed": 24338,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-15T01:45:38.0329749+00:00",
+  "LastChanged_Achievements": "2023-08-15T02:19:21.0101398+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:20.2881971+00:00",
-  "LastUpdate_Ratings": "2023-08-15T01:38:31.5856803+00:00",
-  "LastUpdate_Achievements": "2023-08-15T01:45:38.0331229+00:00"
+  "LastUpdate_Ratings": "2023-08-15T02:12:26.5809641+00:00",
+  "LastUpdate_Achievements": "2023-08-15T02:19:21.0103797+00:00"
 }

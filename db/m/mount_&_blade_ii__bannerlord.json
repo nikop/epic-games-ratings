@@ -6375,9 +6375,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 58885,
+  "EOS_Progressed": 58886,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 464,
+  "EOS_NewPlayers": 465,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18655,6 +18655,11 @@
       "Time": "2023-08-15T01:44:25.9735949+00:00",
       "NumProgressed": 58885,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-15T02:18:18.5436499+00:00",
+      "NumProgressed": 58886,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -18858,7 +18863,7 @@
       "Name": "King Solomon",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10010
+      "UsersEstimate": 10011
     },
     {
       "ID": "Kingslayer",
@@ -18890,7 +18895,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 18843
+      "UsersEstimate": 18844
     },
     {
       "ID": "Lawbringer",
@@ -18898,7 +18903,7 @@
       "Name": "Lawbringer",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 22376
+      "UsersEstimate": 22377
     },
     {
       "ID": "Lawmaker",
@@ -19010,7 +19015,7 @@
       "Name": "Swordbearer",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 5888
+      "UsersEstimate": 5889
     },
     {
       "ID": "The king is pleased",
@@ -19026,7 +19031,7 @@
       "Name": "This Is Our Land",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 5888
+      "UsersEstimate": 5889
     },
     {
       "ID": "This is Sparta",
@@ -19073,15 +19078,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 58885,
+      "Progressed": 58886,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-08-14T12:02:04.9830039+00:00",
-  "LastChanged_Achievements": "2023-08-15T01:44:25.9735941+00:00",
+  "LastChanged_Achievements": "2023-08-15T02:18:18.5436495+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:44.6335832+00:00",
-  "LastUpdate_Ratings": "2023-08-15T01:41:12.6607473+00:00",
-  "LastUpdate_Achievements": "2023-08-15T01:44:25.9737171+00:00"
+  "LastUpdate_Ratings": "2023-08-15T02:14:37.1264414+00:00",
+  "LastUpdate_Achievements": "2023-08-15T02:18:18.5437734+00:00"
 }

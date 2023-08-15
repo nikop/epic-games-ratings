@@ -97,6 +97,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Devout | 0.50% | ~67 |
 | Invincible | 0.50% | ~67 |
 | Subjugator | 0.50% | ~67 |
+| Hunters | 0.50% | ~67 |
 | Landowners | 0.50% | ~67 |
 | Riders | 0.50% | ~67 |
 | Hittite Iron | 0.50% | ~67 |
@@ -120,7 +121,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ready | 0.40% | ~54 |
 | Strong Difficulty | 0.40% | ~54 |
 | Clerics | 0.40% | ~54 |
-| Hunters | 0.40% | ~54 |
 | Babylonia | 0.40% | ~54 |
 | Rome | 0.40% | ~54 |
 | One True Faith | 0.40% | ~54 |
@@ -138,6 +138,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cao'an | 0.30% | ~40 |
 | Learn to Play 4 | 0.30% | ~40 |
 | Egypt | 0.30% | ~40 |
+| Persia | 0.30% | ~40 |
 | Old World Order | 0.30% | ~40 |
 | Hittite Paganism | 0.30% | ~40 |
 | Cataphract Archer | 0.30% | ~40 |
@@ -157,7 +158,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 5 | 0.20% | ~27 |
 | Assyria | 0.20% | ~27 |
 | Hatti | 0.20% | ~27 |
-| Persia | 0.20% | ~27 |
 | Pantheon of Gods | 0.20% | ~27 |
 | Play a Free-For-All Game (>2 Players) | 0.20% | ~27 |
 | Play a Network Game | 0.20% | ~27 |

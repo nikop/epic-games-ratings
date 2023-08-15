@@ -20,10 +20,10 @@ Number of Ratings: 524  (23.09.2022)
 | Damn Good Cup of Coffee | 14.00% | ~8,522 |
 | Wheels Within Wheels | 13.00% | ~7,913 |
 | They're Heeeeeere! | 13.00% | ~7,913 |
+| The Six-Gun Scribe | 13.00% | ~7,913 |
 | Missed by a Mile | 13.00% | ~7,913 |
 | Heavy Metal | 12.00% | ~7,304 |
 | Iron Horse | 12.00% | ~7,304 |
-| The Six-Gun Scribe | 12.00% | ~7,304 |
 | Collateral Carnage | 12.00% | ~7,304 |
 | Come One, Come All | 12.00% | ~7,304 |
 | Perchance to Dream | 11.00% | ~6,696 |
@@ -40,8 +40,8 @@ Number of Ratings: 524  (23.09.2022)
 | Departure | 7.00% | ~4,261 |
 | Hardboiled Writer | 6.00% | ~3,652 |
 | A Friend Indeed | 6.00% | ~1,460 |
-| Children of the Elder God | 5.00% | ~3,043 |
-| Drink 'Em Both Up | 5.00% | ~3,043 |
+| Children of the Elder God | 5.00% | ~3,044 |
+| Drink 'Em Both Up | 5.00% | ~3,044 |
 | Ding! | 5.00% | ~1,217 |
 | Boob Tube | 4.00% | ~2,435 |
 | If It Flies, It Burns | 4.00% | ~2,435 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~61 |
 | No Punctuation | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,869 (Ranked 85)  
+Progressed: 60,870 (Ranked 85)  
 Completed: 64 (0.11%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 64 (0.11%) (Ranked 199)
 | 2023-08-12 | 60,759 | 64 |
 | 2023-08-13 | 60,816 | 64 |
 | 2023-08-14 | 60,863 | 64 |
-| 2023-08-15 | 60,869 | 64 |
+| 2023-08-15 | 60,870 | 64 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -6,16 +6,16 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 14.00% | ~29,740 |
+| Sowwy! | 14.00% | ~29,742 |
 | Alt+F4 | 1.00% | ~2,124 |
 | Where's that freaking Dwarf? | 0.90% | ~1,912 |
-| Déjà vu | 0.80% | ~1,699 |
-| Sock! SOCK! | 0.80% | ~1,699 |
+| Déjà vu | 0.80% | ~1,700 |
+| Sock! SOCK! | 0.80% | ~1,700 |
 | Speedrun | 0.60% | ~1,275 |
+| Fireproof Wizardess | 0.60% | ~1,275 |
 | A beer, two curses, three companions | 0.50% | ~1,062 |
 | GG EZ | 0.50% | ~1,062 |
 | DM intervention | 0.50% | ~1,062 |
-| Fireproof Wizardess | 0.50% | ~1,062 |
 | Livin' in a dwarven paradise | 0.40% | ~850 |
 | Way of the Wimp | 0.40% | ~850 |
 | The plot thickens... At the tavern | 0.40% | ~850 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Staff cut | 0.00% | ~0 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 212,428 (Ranked 56)  
+Progressed: 212,443 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,7 +171,7 @@ Completed: 2 (0.00%) (Ranked 255)
 | 2023-08-12 | 211,199 | 1 |
 | 2023-08-13 | 211,857 | 2 |
 | 2023-08-14 | 212,372 | 2 |
-| 2023-08-15 | 212,428 | 2 |
+| 2023-08-15 | 212,443 | 2 |
 ## Awards
 Max (Character Customization): 166  (Ranked 289)  
 Sum: 186 (Ranked 375)  

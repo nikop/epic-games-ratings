@@ -6312,9 +6312,9 @@
       "ID": "Ach051",
       "SetID": "12n4k20",
       "Name": "You can pet the cat!",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 351
+      "UsersEstimate": 390
     },
     {
       "ID": "Ach052",
@@ -6495,8 +6495,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-08-10T23:00:09.4128826+00:00",
-  "LastChanged_Achievements": "2023-08-15T01:45:29.9195307+00:00",
+  "LastChanged_Achievements": "2023-08-15T02:19:14.5824815+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:15.2039204+00:00",
-  "LastUpdate_Ratings": "2023-08-15T01:39:37.1012221+00:00",
-  "LastUpdate_Achievements": "2023-08-15T01:45:29.919688+00:00"
+  "LastUpdate_Ratings": "2023-08-15T02:13:17.9834647+00:00",
+  "LastUpdate_Achievements": "2023-08-15T02:19:14.5826778+00:00"
 }

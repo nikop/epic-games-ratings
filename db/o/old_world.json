@@ -10534,9 +10534,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_HUNTERS",
       "SetID": "7l38kb8",
       "Name": "Hunters",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 67
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_LANDOWNERS",
@@ -11326,9 +11326,9 @@
       "ID": "ACHIEVEMENT_NATION_PERSIA",
       "SetID": "7l38kb8",
       "Name": "Persia",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 40
     },
     {
       "ID": "ACHIEVEMENT_NATION_ROME",
@@ -12060,8 +12060,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-12T03:59:31.9297462+00:00",
-  "LastChanged_Achievements": "2023-08-15T01:44:35.756533+00:00",
+  "LastChanged_Achievements": "2023-08-15T02:18:27.1358938+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:38.1291138+00:00",
-  "LastUpdate_Ratings": "2023-08-15T01:38:54.7094774+00:00",
-  "LastUpdate_Achievements": "2023-08-15T01:44:35.7575401+00:00"
+  "LastUpdate_Ratings": "2023-08-15T02:12:44.3421744+00:00",
+  "LastUpdate_Achievements": "2023-08-15T02:18:27.136936+00:00"
 }

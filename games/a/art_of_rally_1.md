@@ -39,8 +39,8 @@ Number of Ratings: 56  (23.09.2022)
 | antilag | 7.00% | ~714 |
 | parking lot | 6.00% | ~612 |
 | oktoberfest | 6.00% | ~612 |
+| in like a lamb, out like a lion | 6.00% | ~612 |
 | group b | 5.00% | ~510 |
-| in like a lamb, out like a lion | 5.00% | ~510 |
 | if in doubt, flat out! | 5.00% | ~510 |
 | comfy seats | 4.00% | ~408 |
 | simulator | 3.00% | ~306 |

@@ -14,7 +14,7 @@ Number of Ratings: 28  (23.09.2022)
 | Collector | 42.00% | ~183 |
 | Need to think | 41.00% | ~179 |
 | Completely nuts! | 39.00% | ~170 |
-| Just in time! | 32.00% | ~140 |
+| Just in time! | 33.00% | ~144 |
 | Europe | 31.00% | ~135 |
 | It's no coincidence. | 30.00% | ~131 |
 | Madness! | 28.00% | ~122 |

@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 906,
+  "EOS_Progressed": 908,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3196,6 +3196,11 @@
       "Time": "2023-08-14T22:02:23.0848855+00:00",
       "NumProgressed": 906,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-15T02:16:09.9859814+00:00",
+      "NumProgressed": 908,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -3215,7 +3220,7 @@
       "Name": "Exterminator",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ach_defeat_players_10",
@@ -3271,7 +3276,7 @@
       "Name": "Silver Competitor",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ach_silver_rewards_50",
@@ -3311,7 +3316,7 @@
       "Name": "Facility Online",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -3343,7 +3348,7 @@
       "Name": "Captain",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -3383,7 +3388,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -3455,7 +3460,7 @@
       "Name": "Factory Expansion",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "objective_multiple_turrets_2",
@@ -3510,14 +3515,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 906,
+      "Progressed": 908,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-15T01:42:09.523887+00:00",
+  "LastChanged_Achievements": "2023-08-15T02:16:09.9859806+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:27.4280109+00:00",
-  "LastUpdate_Ratings": "2023-08-15T01:36:58.0124799+00:00",
-  "LastUpdate_Achievements": "2023-08-15T01:42:09.5239312+00:00"
+  "LastUpdate_Ratings": "2023-08-15T02:11:03.9744734+00:00",
+  "LastUpdate_Achievements": "2023-08-15T02:16:09.9860722+00:00"
 }
