@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adventure Time | 98.00% | ~39 |
-| Master Of The Arts | 70.00% | ~28 |
+| Adventure Time | 95.00% | ~39 |
+| Master Of The Arts | 68.00% | ~28 |
 | Close Call | 20.00% | ~8 |
-| Getting Good At This | 18.00% | ~7 |
+| Getting Good At This | 17.00% | ~7 |
 | Evolution Revolution | 10.00% | ~4 |
-| Five Of A Kind | 8.00% | ~3 |
-| I'm A Wizard | 8.00% | ~3 |
+| Five Of A Kind | 7.00% | ~3 |
+| I'm A Wizard | 7.00% | ~3 |
 | Hold The Line | 5.00% | ~2 |
-| Ender Ender | 3.00% | ~1 |
-| Full House | 3.00% | ~1 |
-| Over 9000 | 3.00% | ~1 |
-| Tactical Spectacular | 3.00% | ~1 |
-| Undead Slayer | 3.00% | ~1 |
-| Worker Wisp | 3.00% | ~1 |
+| Ender Ender | 2.00% | ~1 |
+| Full House | 2.00% | ~1 |
+| Over 9000 | 2.00% | ~1 |
+| Tactical Spectacular | 2.00% | ~1 |
+| Undead Slayer | 2.00% | ~1 |
+| Worker Wisp | 2.00% | ~1 |
 | Adept Summoner | 0.00% | ~0 |
 | Apprentice Summoner | 0.00% | ~0 |
 | Brave Younglings | 0.00% | ~0 |
@@ -32,7 +32,7 @@
 | Who Turned Out The Lights | 0.00% | ~0 |
 | Who's The Boss? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40 (Ranked 379)  
+Progressed: 41 (Ranked 377)  
 Completed: 0 (0.00%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -59,3 +59,4 @@ Completed: 0 (0.00%) (Ranked 257)
 | 2023-06-14 | 38 | 0 |
 | 2023-07-09 | 39 | 0 |
 | 2023-07-28 | 40 | 0 |
+| 2023-08-15 | 41 | 0 |

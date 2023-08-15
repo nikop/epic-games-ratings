@@ -6319,10 +6319,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 14079,
       "NumberOfAwardsMax": 6941
+    },
+    {
+      "Time": "2023-08-15T18:03:30.5299823+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 14080,
+      "NumberOfAwardsMax": 6941
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14079,
+  "NumberOfAwards": 14080,
   "NumberOfAwardsMax": 6941,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6360,7 +6366,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 790
+      "Count": 791
     },
     {
       "Text": "This game has Amazing Characters",
@@ -6399,9 +6405,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 58919,
+  "EOS_Progressed": 58922,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 443,
+  "EOS_NewPlayers": 445,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18739,6 +18745,11 @@
       "Time": "2023-08-15T15:04:43.2358179+00:00",
       "NumProgressed": 58919,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-15T18:06:20.1069765+00:00",
+      "NumProgressed": 58922,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -18766,7 +18777,7 @@
       "Name": "Bannerlord",
       "Percentage": 22,
       "XP": 65,
-      "UsersEstimate": 12962
+      "UsersEstimate": 12963
     },
     {
       "ID": "Best served cold",
@@ -18878,7 +18889,7 @@
       "Name": "God of the Arena",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 7659
+      "UsersEstimate": 7660
     },
     {
       "ID": "Great Granny",
@@ -18910,7 +18921,7 @@
       "Name": "Horde breaker",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 12962
+      "UsersEstimate": 12963
     },
     {
       "ID": "I can do it",
@@ -18942,7 +18953,7 @@
       "Name": "King Solomon",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10016
+      "UsersEstimate": 10017
     },
     {
       "ID": "Kingslayer",
@@ -18974,7 +18985,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 18854
+      "UsersEstimate": 18855
     },
     {
       "ID": "Lawbringer",
@@ -18982,7 +18993,7 @@
       "Name": "Lawbringer",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 22389
+      "UsersEstimate": 22390
     },
     {
       "ID": "Lawmaker",
@@ -18990,7 +19001,7 @@
       "Name": "Lawmaker",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 12962
+      "UsersEstimate": 12963
     },
     {
       "ID": "Long live the Empire",
@@ -19006,7 +19017,7 @@
       "Name": "Mastery",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 4124
+      "UsersEstimate": 4125
     },
     {
       "ID": "Minor Clan",
@@ -19102,7 +19113,7 @@
       "Name": "The king is pleased",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 10605
+      "UsersEstimate": 10606
     },
     {
       "ID": "This Is Our Land",
@@ -19126,7 +19137,7 @@
       "Name": "Trained",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 12962
+      "UsersEstimate": 12963
     },
     {
       "ID": "Undercover",
@@ -19157,15 +19168,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 58919,
+      "Progressed": 58922,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-08-15T17:02:24.3228068+00:00",
-  "LastChanged_Achievements": "2023-08-15T17:05:33.1768986+00:00",
+  "LastChanged": "2023-08-15T18:03:30.529982+00:00",
+  "LastChanged_Achievements": "2023-08-15T18:06:20.106976+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:44.6335832+00:00",
-  "LastUpdate_Ratings": "2023-08-15T17:02:24.3228072+00:00",
-  "LastUpdate_Achievements": "2023-08-15T17:05:33.1769934+00:00"
+  "LastUpdate_Ratings": "2023-08-15T18:03:30.529983+00:00",
+  "LastUpdate_Achievements": "2023-08-15T18:06:20.1070897+00:00"
 }

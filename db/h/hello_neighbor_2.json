@@ -366,11 +366,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2747,
+  "EOS_Progressed": 2748,
   "EOS_Completed": 107,
   "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.9,
+  "EOS_Completed_Percentage": 3.89,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:02.7979813+00:00",
@@ -2676,6 +2676,11 @@
       "Time": "2023-08-15T14:02:27.342156+00:00",
       "NumProgressed": 2747,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2023-08-15T18:04:18.5807981+00:00",
+      "NumProgressed": 2748,
+      "NumCompleted": 107
     }
   ],
   "TotalAchievements": 14,
@@ -2711,7 +2716,7 @@
       "Name": "Climber",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 659
+      "UsersEstimate": 660
     },
     {
       "ID": "ACH_DOG_LOVER",
@@ -2719,7 +2724,7 @@
       "Name": "Dog Person",
       "Percentage": 20,
       "XP": 80,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "ACH_EASY_AS_PIE",
@@ -2759,7 +2764,7 @@
       "Name": "Mad Scientist",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 659
+      "UsersEstimate": 660
     },
     {
       "ID": "ACH_REUNION",
@@ -2767,7 +2772,7 @@
       "Name": "Reunion",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 659
+      "UsersEstimate": 660
     },
     {
       "ID": "ACH_SHOVEL_NIGHT",
@@ -2775,7 +2780,7 @@
       "Name": "Shovel Night",
       "Percentage": 37,
       "XP": 55,
-      "UsersEstimate": 1016
+      "UsersEstimate": 1017
     },
     {
       "ID": "ACH_TREASURE_HUNT",
@@ -2798,7 +2803,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2747,
+      "Progressed": 2748,
       "Completed": 107
     }
   ],
@@ -2806,8 +2811,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-08-12T10:57:00.5102545+00:00",
-  "LastChanged_Achievements": "2023-08-15T17:03:16.4210621+00:00",
+  "LastChanged_Achievements": "2023-08-15T18:04:18.5807973+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:10.1375328+00:00",
-  "LastUpdate_Ratings": "2023-08-15T16:57:46.5274396+00:00",
-  "LastUpdate_Achievements": "2023-08-15T17:03:16.4210837+00:00"
+  "LastUpdate_Ratings": "2023-08-15T17:57:58.0662237+00:00",
+  "LastUpdate_Achievements": "2023-08-15T18:04:18.5808492+00:00"
 }

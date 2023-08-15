@@ -69,7 +69,7 @@
 | Family comes first | 30.00% | ~76 |
 | Silver’s past | 27.00% | ~68 |
 | Better cooking at home | 27.00% | ~68 |
-| The only right decision | 26.00% | ~66 |
+| The only right decision | 27.00% | ~68 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 252 (Ranked 269)  
 Completed: 8 (3.17%) (Ranked 68)  

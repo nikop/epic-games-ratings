@@ -2,13 +2,13 @@
   "ID": "456d95ca54814c8d98db2f52346ff5de",
   "Name": "The Dungeon of Naheulbeuk",
   "ProductSlug": "the-dungeon-of-naheulbeuk",
-  "Ranking_Rating": 425,
+  "Ranking_Rating": 426,
   "Ranking_Popularity": 289,
   "Ranking_PopularitySum": 375,
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 22,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -648,9 +648,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 212763,
+  "EOS_Progressed": 212793,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3847,
+  "EOS_NewPlayers": 3850,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7028,6 +7028,11 @@
       "Time": "2023-08-15T17:05:40.4155445+00:00",
       "NumProgressed": 212763,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-15T18:06:30.5249783+00:00",
+      "NumProgressed": 212793,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -7069,9 +7074,9 @@
       "ID": "BarbarianKillUsingBow",
       "SetID": "50chcgj",
       "Name": "Way of the Wimp",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 851
+      "UsersEstimate": 1064
     },
     {
       "ID": "BookCollection",
@@ -7487,7 +7492,7 @@
       "Name": "Sowwy!",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 29787
+      "UsersEstimate": 29791
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -7589,9 +7594,9 @@
       "ID": "OgreEpic",
       "SetID": "50chcgj",
       "Name": "Gargantua",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 213
+      "UsersEstimate": 426
     },
     {
       "ID": "Orktobearfest",
@@ -7742,21 +7747,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 212763,
+      "Progressed": 212793,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 212763,
+      "Progressed": 212793,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-15T01:40:21.2095498+00:00",
-  "LastChanged_Achievements": "2023-08-15T17:05:40.4155441+00:00",
+  "LastChanged_Achievements": "2023-08-15T18:06:30.5249775+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:49.6773731+00:00",
-  "LastUpdate_Ratings": "2023-08-15T17:01:36.2272399+00:00",
-  "LastUpdate_Achievements": "2023-08-15T17:05:40.4156541+00:00"
+  "LastUpdate_Ratings": "2023-08-15T18:02:31.2815998+00:00",
+  "LastUpdate_Achievements": "2023-08-15T18:06:30.5252306+00:00"
 }

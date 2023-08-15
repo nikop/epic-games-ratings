@@ -33,6 +33,7 @@
 | Making Contact | 2.00% | ~3 |
 | Bounty Hunter | 2.00% | ~3 |
 | Potential Unlocked | 2.00% | ~3 |
+| Huntress Unbound | 2.00% | ~3 |
 | Xevarian Gambit | 2.00% | ~3 |
 | Deputized | 2.00% | ~3 |
 | The Voice of Hereafter | 2.00% | ~3 |
@@ -47,7 +48,6 @@
 | Adept | 0.80% | ~1 |
 | Talent Nurtured | 0.80% | ~1 |
 | Embellished | 0.80% | ~1 |
-| Huntress Unbound | 0.80% | ~1 |
 | Conqueror | 0.80% | ~1 |
 | Legacy of a Mercenary | 0.80% | ~1 |
 | A Real Battle | 0.80% | ~1 |

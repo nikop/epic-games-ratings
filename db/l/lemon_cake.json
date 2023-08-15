@@ -4,7 +4,7 @@
   "ProductSlug": "lemon-cake-c683d8",
   "Ranking_EOS_Progress": 306,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 253,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-09-29T23:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 138,
+  "EOS_Progressed": 139,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -152,6 +152,11 @@
       "Time": "2023-08-15T01:45:16.8195592+00:00",
       "NumProgressed": 138,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-15T18:07:11.4899668+00:00",
+      "NumProgressed": 139,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 17,
@@ -169,9 +174,9 @@
       "ID": "LC-02",
       "SetID": "ap2ljl4",
       "Name": "Bakery Startup",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 59
+      "UsersEstimate": 58
     },
     {
       "ID": "LC-03",
@@ -195,7 +200,7 @@
       "Name": "Apprentice Baker",
       "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "LC-06",
@@ -211,15 +216,15 @@
       "Name": "Expert Baker",
       "Percentage": 9,
       "XP": 75,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "LC-08",
       "SetID": "ap2ljl4",
       "Name": "Master Baker",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "LC-09",
@@ -298,7 +303,7 @@
     {
       "ID": "ap2ljl4",
       "IsBase": true,
-      "Progressed": 138,
+      "Progressed": 139,
       "Completed": 1
     }
   ],
@@ -306,8 +311,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.6780256+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.6062065+00:00",
   "LastChanged": "2023-03-31T05:58:18.6780257+00:00",
-  "LastChanged_Achievements": "2023-08-15T17:06:19.3536228+00:00",
+  "LastChanged_Achievements": "2023-08-15T18:07:11.489966+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:58:03.7728291+00:00",
-  "LastUpdate_Ratings": "2023-08-15T16:57:32.5996686+00:00",
-  "LastUpdate_Achievements": "2023-08-15T17:06:19.3536333+00:00"
+  "LastUpdate_Ratings": "2023-08-15T17:57:35.6675673+00:00",
+  "LastUpdate_Achievements": "2023-08-15T18:07:11.4899884+00:00"
 }

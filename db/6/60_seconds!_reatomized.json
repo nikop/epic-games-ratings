@@ -170,7 +170,7 @@
   "Tags": [],
   "EOS_Progressed": 4926,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -4289,9 +4289,9 @@
       "ID": "ACH_BROKEN",
       "SetID": "5nj1ea3",
       "Name": "All thumbs",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 4483
+      "UsersEstimate": 4532
     },
     {
       "ID": "ACH_BUG_KILLER",
@@ -4706,8 +4706,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-08-11T11:57:12.7338821+00:00",
-  "LastChanged_Achievements": "2023-08-15T17:06:48.5536432+00:00",
+  "LastChanged_Achievements": "2023-08-15T18:07:53.5743289+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:17.6641952+00:00",
-  "LastUpdate_Ratings": "2023-08-15T16:57:56.4720231+00:00",
-  "LastUpdate_Achievements": "2023-08-15T17:06:48.5537071+00:00"
+  "LastUpdate_Ratings": "2023-08-15T17:58:06.7971729+00:00",
+  "LastUpdate_Achievements": "2023-08-15T18:07:53.5744716+00:00"
 }

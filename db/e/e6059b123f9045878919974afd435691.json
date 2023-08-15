@@ -1924,9 +1924,9 @@
       "ID": "KILLR_ACHIEVEMENT_4",
       "SetID": "9lcahn0",
       "Name": "Call The Winchester",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 81
     },
     {
       "ID": "KILLR_ACHIEVEMENT_5",
@@ -2155,8 +2155,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-08-15T17:07:49.0784407+00:00",
+  "LastChanged_Achievements": "2023-08-15T18:09:06.1731371+00:00",
   "LastUpdate_AppInfo": "2023-08-10T15:57:09.1792695+00:00",
-  "LastUpdate_Ratings": "2023-08-15T16:58:37.5713745+00:00",
-  "LastUpdate_Achievements": "2023-08-15T17:07:49.0785024+00:00"
+  "LastUpdate_Ratings": "2023-08-15T17:58:53.7497078+00:00",
+  "LastUpdate_Achievements": "2023-08-15T18:09:06.1732483+00:00"
 }

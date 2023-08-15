@@ -46,9 +46,9 @@ Rating: 4.45 (Ranked 633)
 | Shipbreaker | 1.00% | ~34 |
 | Strategist | 0.90% | ~31 |
 | Burn after reading | 0.90% | ~31 |
+| Operation Foxley | 0.90% | ~31 |
 | Sink or Swim | 0.90% | ~31 |
 | From Paris with Love | 0.80% | ~28 |
-| Operation Foxley | 0.80% | ~27 |
 | Souvenir hunter | 0.70% | ~24 |
 | Eagle Eyed | 0.70% | ~24 |
 | Locomotion Commotion | 0.70% | ~24 |
