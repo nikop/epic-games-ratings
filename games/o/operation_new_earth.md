@@ -11,9 +11,9 @@
 | Sergeant | 14.00% | ~128 |
 | Covert Operative | 14.00% | ~128 |
 | Lieutenant | 11.00% | ~100 |
+| Getting Deployment | 11.00% | ~100 |
 | Stocking Up | 11.00% | ~100 |
 | On Target | 11.00% | ~100 |
-| Getting Deployment | 10.00% | ~91 |
 | Infantry Reporting | 10.00% | ~91 |
 | Fighting for Survival | 9.00% | ~82 |
 | Keeping Busy | 9.00% | ~82 |

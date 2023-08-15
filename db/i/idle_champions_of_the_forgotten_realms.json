@@ -5824,10 +5824,10 @@
       "Count": 3354
     }
   ],
-  "EOS_Progressed": 222061,
-  "EOS_Completed": 2182,
-  "EOS_NewPlayers": 2189,
-  "EOS_NewCompleters": 17,
+  "EOS_Progressed": 222070,
+  "EOS_Completed": 2183,
+  "EOS_NewPlayers": 2192,
+  "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
@@ -18514,6 +18514,11 @@
       "Time": "2023-08-15T12:04:39.4194812+00:00",
       "NumProgressed": 222061,
       "NumCompleted": 2182
+    },
+    {
+      "Time": "2023-08-15T13:06:47.9330083+00:00",
+      "NumProgressed": 222070,
+      "NumCompleted": 2183
     }
   ],
   "TotalAchievements": 516,
@@ -20195,9 +20200,9 @@
       "ID": "objective_completed_3",
       "SetID": "cc37lbc",
       "Name": "The Cursed Farmer",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 444
+      "UsersEstimate": 666
     },
     {
       "ID": "objective_completed_34",
@@ -22652,21 +22657,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 188335,
-      "Completed": 3244
+      "Progressed": 188344,
+      "Completed": 3246
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 222061,
-      "Completed": 2182
+      "Progressed": 222070,
+      "Completed": 2183
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-15T10:00:01.3122911+00:00",
-  "LastChanged_Achievements": "2023-08-15T12:04:39.4194808+00:00",
+  "LastChanged_Achievements": "2023-08-15T13:06:47.9330078+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:51.8567155+00:00",
-  "LastUpdate_Ratings": "2023-08-15T12:00:24.6984919+00:00",
-  "LastUpdate_Achievements": "2023-08-15T12:04:39.4218547+00:00"
+  "LastUpdate_Ratings": "2023-08-15T13:02:30.5232846+00:00",
+  "LastUpdate_Achievements": "2023-08-15T13:06:47.9354306+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
     "PcReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10200,
+  "EOS_Progressed": 10201,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1296,6 +1296,11 @@
       "Time": "2023-08-13T15:07:09.1143964+00:00",
       "NumProgressed": 10200,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-15T13:08:35.8800003+00:00",
+      "NumProgressed": 10201,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -1467,7 +1472,7 @@
       "Name": "keep it tidy",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 7854
+      "UsersEstimate": 7855
     },
     {
       "ID": "ACH_COMPLETE_ON_FIRE",
@@ -1489,9 +1494,9 @@
       "ID": "ACH_FIVE_HUNDRED_KM",
       "SetID": "9002fpg",
       "Name": "comfy seats",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 408
+      "UsersEstimate": 306
     },
     {
       "ID": "ACH_FOG",
@@ -1515,7 +1520,7 @@
       "Name": "brail",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 5814
+      "UsersEstimate": 5815
     },
     {
       "ID": "ACH_FULL_THROTTLE",
@@ -1531,7 +1536,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9792
+      "UsersEstimate": 9793
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -1547,7 +1552,7 @@
       "Name": "medium attack",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 6120
+      "UsersEstimate": 6121
     },
     {
       "ID": "ACH_NIGHT",
@@ -1643,22 +1648,22 @@
       "Name": "podium",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 7344
+      "UsersEstimate": 7345
     }
   ],
   "AchievementSets": [
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10200,
+      "Progressed": 10201,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-08-15T12:06:46.4296204+00:00",
+  "LastChanged_Achievements": "2023-08-15T13:08:35.8799997+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:13.5775402+00:00",
-  "LastUpdate_Ratings": "2023-08-15T11:59:15.2319197+00:00",
-  "LastUpdate_Achievements": "2023-08-15T12:06:46.4296539+00:00"
+  "LastUpdate_Ratings": "2023-08-15T13:01:36.0051902+00:00",
+  "LastUpdate_Achievements": "2023-08-15T13:08:35.8800337+00:00"
 }

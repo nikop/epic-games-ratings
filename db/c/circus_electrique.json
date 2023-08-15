@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 356,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
     "PcReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -635,9 +635,9 @@
       "ID": "ACHIEVEMENT_30",
       "SetID": "631ndc2",
       "Name": "King of District 1",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 73
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -812,8 +812,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-08-15T12:06:43.9383715+00:00",
+  "LastChanged_Achievements": "2023-08-15T13:08:34.0976382+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:46.8241272+00:00",
-  "LastUpdate_Ratings": "2023-08-15T12:01:27.9729228+00:00",
-  "LastUpdate_Achievements": "2023-08-15T12:06:43.9384061+00:00"
+  "LastUpdate_Ratings": "2023-08-15T13:03:21.0249171+00:00",
+  "LastUpdate_Achievements": "2023-08-15T13:08:34.0976755+00:00"
 }

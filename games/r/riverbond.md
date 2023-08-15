@@ -6,30 +6,30 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~367,549 |
-| Now You're Talking | 62.00% | ~325,543 |
-| Steel Yourself | 62.00% | ~325,543 |
-| Window Dressing | 50.00% | ~262,535 |
-| Trigger Happy | 46.00% | ~241,532 |
-| Riverborn | 45.00% | ~236,282 |
-| Starry Eyed | 34.00% | ~178,524 |
-| Poking Around | 34.00% | ~178,524 |
-| Talk of the Town | 24.00% | ~126,017 |
-| AAARR! | 23.00% | ~120,766 |
-| Hello Darkness | 23.00% | ~120,766 |
-| Wind At Our Backs | 22.00% | ~115,515 |
-| To the Beat | 20.00% | ~105,014 |
-| Sunny Shores | 17.00% | ~89,262 |
-| Sunday Best | 16.00% | ~84,011 |
-| To Victory! | 15.00% | ~78,760 |
+| First Step | 70.00% | ~367,552 |
+| Now You're Talking | 62.00% | ~325,546 |
+| Steel Yourself | 62.00% | ~325,546 |
+| Window Dressing | 50.00% | ~262,537 |
+| Trigger Happy | 46.00% | ~241,534 |
+| Riverborn | 45.00% | ~236,283 |
+| Starry Eyed | 34.00% | ~178,525 |
+| Poking Around | 34.00% | ~178,525 |
+| Talk of the Town | 24.00% | ~126,018 |
+| AAARR! | 23.00% | ~120,767 |
+| Hello Darkness | 23.00% | ~120,767 |
+| Wind At Our Backs | 22.00% | ~115,516 |
+| To the Beat | 20.00% | ~105,015 |
+| Sunny Shores | 17.00% | ~89,263 |
+| Sunday Best | 16.00% | ~84,012 |
+| To Victory! | 15.00% | ~78,761 |
 | Two of a Kind | 14.00% | ~73,510 |
-| Keep On Trucking | 13.00% | ~68,259 |
+| Keep On Trucking | 13.00% | ~68,260 |
 | Going on an Adventure | 11.00% | ~57,758 |
 | Make Peace, Not War | 11.00% | ~57,758 |
 | Walking The Line | 10.00% | ~52,507 |
 | Not So Cute Anymore | 10.00% | ~52,507 |
-| Road Less Travelled | 9.00% | ~47,256 |
-| Lost and Found | 9.00% | ~47,256 |
+| Road Less Travelled | 9.00% | ~47,257 |
+| Lost and Found | 9.00% | ~47,257 |
 | Under the Radar | 8.00% | ~42,006 |
 | Partner in Crime | 7.00% | ~36,755 |
 | Hard to Hear | 7.00% | ~36,755 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,575 |
 | Point Taken | 0.10% | ~525 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 525,070 (Ranked 31)  
+Progressed: 525,074 (Ranked 31)  
 Completed: 459 (0.09%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 459 (0.09%) (Ranked 209)
 | 2023-08-12 | 524,862 | 457 |
 | 2023-08-13 | 524,963 | 459 |
 | 2023-08-14 | 525,030 | 459 |
-| 2023-08-15 | 525,070 | 459 |
+| 2023-08-15 | 525,074 | 459 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

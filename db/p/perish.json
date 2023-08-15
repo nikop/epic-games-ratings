@@ -4,8 +4,8 @@
   "ProductSlug": "perish-390141",
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-02-02T14:00:00+00:00",
     "PcReleaseDate": "2023-02-02T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3362,
+  "EOS_Progressed": 3365,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2548,6 +2548,11 @@
       "Time": "2023-08-15T05:05:30.8742466+00:00",
       "NumProgressed": 3362,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-15T13:08:09.7578085+00:00",
+      "NumProgressed": 3365,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 63,
@@ -2607,7 +2612,7 @@
       "Name": "Immolator",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ACH_FH",
@@ -2639,7 +2644,7 @@
       "Name": "Go For the Head",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ACH_K_A2",
@@ -2647,7 +2652,7 @@
       "Name": "Spartan Sandal",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ACH_K_A3",
@@ -2695,7 +2700,7 @@
       "Name": "Modest Earnings",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ACH_M_D2",
@@ -2703,7 +2708,7 @@
       "Name": "War Chest",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ACH_M_D3",
@@ -2775,7 +2780,7 @@
       "Name": "Symbols of Heresy",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ACH_OB_BR",
@@ -2807,7 +2812,7 @@
       "Name": "The Sons of Minos",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ACH_OB_CS",
@@ -2855,7 +2860,7 @@
       "Name": "Eidola",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ACH_OB_LI",
@@ -3062,7 +3067,7 @@
     {
       "ID": "b3fep3o",
       "IsBase": true,
-      "Progressed": 3362,
+      "Progressed": 3365,
       "Completed": 0
     }
   ],
@@ -3070,8 +3075,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-08-15T12:06:12.4642167+00:00",
+  "LastChanged_Achievements": "2023-08-15T13:08:09.757808+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:41.1938813+00:00",
-  "LastUpdate_Ratings": "2023-08-15T12:02:24.1366033+00:00",
-  "LastUpdate_Achievements": "2023-08-15T12:06:12.4642766+00:00"
+  "LastUpdate_Ratings": "2023-08-15T13:04:07.0681708+00:00",
+  "LastUpdate_Achievements": "2023-08-15T13:08:09.7578698+00:00"
 }

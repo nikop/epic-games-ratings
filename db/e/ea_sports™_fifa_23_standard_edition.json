@@ -2,13 +2,13 @@
   "ID": "f5deacee017b4b109476933f7dd2edbd",
   "Name": "EA SPORTS\u2122 FIFA 23 Standard Edition",
   "ProductSlug": "fifa-23",
-  "Ranking_Rating": 821,
+  "Ranking_Rating": 822,
   "Ranking_Popularity": 21,
   "Ranking_PopularitySum": 19,
   "Ranking_EOS_Progress": 544,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 356,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-09-30T07:00:00+00:00",
     "PcReleaseDate": "2022-09-30T07:00:00+00:00",
@@ -5286,10 +5286,16 @@
       "Rating": 4.25,
       "NumberOfAwards": 79293,
       "NumberOfAwardsMax": 17338
+    },
+    {
+      "Time": "2023-08-15T12:59:59.5924168+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 79411,
+      "NumberOfAwardsMax": 17338
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 79293,
+  "NumberOfAwards": 79411,
   "NumberOfAwardsMax": 17338,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5333,7 +5339,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 9444
+      "Count": 9562
     },
     {
       "Text": "This game is Highly Recommended",
@@ -5362,9 +5368,9 @@
   "FirstSeen": "2022-09-30T07:01:34.8859438+00:00",
   "FirstSeenRating": "2022-10-06T07:01:15.4932538+00:00",
   "FirstSeenAchievements": "2023-06-30T22:04:55.4343947+00:00",
-  "LastChanged": "2023-08-15T08:57:15.7839542+00:00",
-  "LastChanged_Achievements": "2023-08-15T12:06:02.8881768+00:00",
+  "LastChanged": "2023-08-15T12:59:59.5924167+00:00",
+  "LastChanged_Achievements": "2023-08-15T13:07:51.8469107+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:58:05.3400606+00:00",
-  "LastUpdate_Ratings": "2023-08-15T11:57:21.1022041+00:00",
-  "LastUpdate_Achievements": "2023-08-15T12:06:02.8881801+00:00"
+  "LastUpdate_Ratings": "2023-08-15T12:59:59.5924176+00:00",
+  "LastUpdate_Achievements": "2023-08-15T13:07:51.8469142+00:00"
 }

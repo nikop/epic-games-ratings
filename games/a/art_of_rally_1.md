@@ -6,11 +6,11 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 96.00% | ~9,792 |
-| keep it tidy | 77.00% | ~7,854 |
-| podium | 72.00% | ~7,344 |
-| medium attack | 60.00% | ~6,120 |
-| brail | 57.00% | ~5,814 |
+| light attack | 96.00% | ~9,793 |
+| keep it tidy | 77.00% | ~7,855 |
+| podium | 72.00% | ~7,345 |
+| medium attack | 60.00% | ~6,121 |
+| brail | 57.00% | ~5,815 |
 | good drivers have dead flies on the side windows | 42.00% | ~4,284 |
 | grocery-getter | 39.00% | ~3,978 |
 | rwd only | 26.00% | ~2,652 |
@@ -42,7 +42,7 @@ Number of Ratings: 56  (23.09.2022)
 | in like a lamb, out like a lion | 6.00% | ~612 |
 | group b | 5.00% | ~510 |
 | if in doubt, flat out! | 5.00% | ~510 |
-| comfy seats | 4.00% | ~408 |
+| comfy seats | 3.00% | ~306 |
 | simulator | 3.00% | ~306 |
 | real roads, real fast | 2.00% | ~204 |
 | absolute drift | 0.90% | ~92 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | if everything seems under control, you're not going fast enough | 0.40% | ~41 |
 | barely keeping it together | 0.30% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,200 (Ranked 121)  
+Progressed: 10,201 (Ranked 121)  
 Completed: 9 (0.09%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,6 +139,7 @@ Completed: 9 (0.09%) (Ranked 209)
 | 2023-08-10 | 10,196 | 9 |
 | 2023-08-12 | 10,199 | 9 |
 | 2023-08-13 | 10,200 | 9 |
+| 2023-08-15 | 10,201 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -3,8 +3,8 @@
   "Name": "Apr 29 clone",
   "Ranking_EOS_Progress": 544,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 356,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -25,6 +25,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:30:51.3718032+00:00",
-  "LastUpdate_Ratings": "2023-08-15T11:59:19.6226951+00:00",
-  "LastUpdate_Achievements": "2023-08-15T12:07:52.0755942+00:00"
+  "LastUpdate_Ratings": "2023-08-15T13:01:39.5710716+00:00",
+  "LastUpdate_Achievements": "2023-08-15T13:09:17.5992841+00:00"
 }

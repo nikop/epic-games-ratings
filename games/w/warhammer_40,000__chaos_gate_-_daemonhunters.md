@@ -8,10 +8,10 @@ Number of Ratings: 371  (23.09.2022)
 | ---- | ---------- | ----- |
 | Not So Fast... | 4.00% | ~126 |
 | Executioner | 4.00% | ~126 |
-| Look Over There! | 3.00% | ~94 |
-| Watch Where You Step... | 3.00% | ~94 |
-| Purging Spree | 3.00% | ~94 |
-| An Ill Omen | 3.00% | ~94 |
+| Look Over There! | 3.00% | ~95 |
+| Watch Where You Step... | 3.00% | ~95 |
+| Purging Spree | 3.00% | ~95 |
+| An Ill Omen | 3.00% | ~95 |
 | Blood for the Blood God! | 2.00% | ~63 |
 | Friendly Fire | 2.00% | ~63 |
 | Bloodless | 2.00% | ~63 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Not a Mote of Corruption | 0.00% | ~0 |
 | Strategic Command | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,150 (Ranked 154)  
+Progressed: 3,151 (Ranked 154)  
 Completed: 0 (0.00%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,7 +186,7 @@ Completed: 0 (0.00%) (Ranked 257)
 | 2023-08-11 | 3,141 | 0 |
 | 2023-08-12 | 3,144 | 0 |
 | 2023-08-14 | 3,148 | 0 |
-| 2023-08-15 | 3,150 | 0 |
+| 2023-08-15 | 3,151 | 0 |
 ## Awards
 Max (Character Customization): 219  (Ranked 264)  
 Sum: 468 (Ranked 305)  

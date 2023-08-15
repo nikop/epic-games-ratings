@@ -5,36 +5,36 @@ Rating: 4.77 (Ranked 107)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 12.00% | ~34,816 |
+| The Sort Who Makes an Entrance | 12.00% | ~34,817 |
 | First Class Student | 11.00% | ~31,915 |
 | Troll with the Punches | 11.00% | ~31,915 |
-| A Keen Sense of Spell | 10.00% | ~29,013 |
-| That's a Keeper | 10.00% | ~29,013 |
-| Grappling with a Graphorn | 9.00% | ~26,112 |
-| The One Who Mastered Memories | 9.00% | ~26,112 |
-| The Hallowed Hero | 9.00% | ~26,112 |
-| The Hero of Hogwarts | 9.00% | ~26,112 |
-| The Defender of Dragons | 9.00% | ~26,112 |
-| Challenge Accepted | 9.00% | ~26,112 |
-| Loom for Improvement | 9.00% | ~26,112 |
-| A Talent for Spending | 9.00% | ~26,112 |
-| Coasting Along | 9.00% | ~26,112 |
+| A Keen Sense of Spell | 10.00% | ~29,014 |
+| That's a Keeper | 10.00% | ~29,014 |
+| Grappling with a Graphorn | 9.00% | ~26,113 |
+| The One Who Mastered Memories | 9.00% | ~26,113 |
+| The Hallowed Hero | 9.00% | ~26,113 |
+| The Hero of Hogwarts | 9.00% | ~26,113 |
+| The Defender of Dragons | 9.00% | ~26,113 |
+| Challenge Accepted | 9.00% | ~26,113 |
+| Loom for Improvement | 9.00% | ~26,113 |
+| A Talent for Spending | 9.00% | ~26,113 |
+| Coasting Along | 9.00% | ~26,113 |
 | Followed the Butterflies | 8.00% | ~23,211 |
 | Rising From the Ashes | 8.00% | ~23,211 |
-| The Avenging Gazelle | 7.00% | ~20,309 |
-| Beast Friends | 7.00% | ~20,309 |
-| A Sallow Grave | 7.00% | ~20,309 |
-| Flight the Good Flight | 7.00% | ~20,309 |
-| The Spell Master | 7.00% | ~20,309 |
+| The Avenging Gazelle | 7.00% | ~20,310 |
+| Beast Friends | 7.00% | ~20,310 |
+| A Sallow Grave | 7.00% | ~20,310 |
+| Flight the Good Flight | 7.00% | ~20,310 |
+| The Spell Master | 7.00% | ~20,310 |
 | The Seeker of Knowledge | 5.00% | ~14,507 |
 | The Root of the Problem | 5.00% | ~14,507 |
 | Third Time's a Charm | 5.00% | ~14,507 |
 | Raising Expectations | 5.00% | ~14,507 |
-| The Toast of the Town | 4.00% | ~11,605 |
-| Room with a View | 4.00% | ~11,605 |
-| The Intrepid Explorer | 4.00% | ~11,605 |
-| The Gryffindor in the Graveyard | 4.00% | ~11,605 |
-| The Ends Petrify the Means | 4.00% | ~11,605 |
+| The Toast of the Town | 4.00% | ~11,606 |
+| Room with a View | 4.00% | ~11,606 |
+| The Intrepid Explorer | 4.00% | ~11,606 |
+| The Gryffindor in the Graveyard | 4.00% | ~11,606 |
+| The Ends Petrify the Means | 4.00% | ~11,606 |
 | Going Through the Potions | 3.00% | ~8,704 |
 | Floo Around the World | 3.00% | ~8,704 |
 | The Wise Owl | 3.00% | ~8,704 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 107)
 | The Nature of the Beast | 0.60% | ~1,741 |
 | Collector's Edition | 0.30% | ~870 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290,134 (Ranked 42)  
+Progressed: 290,139 (Ranked 42)  
 Completed: 451 (0.16%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,10 +168,10 @@ Completed: 451 (0.16%) (Ranked 190)
 | 2023-08-12 | 289,948 | 449 |
 | 2023-08-13 | 290,043 | 451 |
 | 2023-08-14 | 290,112 | 451 |
-| 2023-08-15 | 290,134 | 451 |
+| 2023-08-15 | 290,139 | 451 |
 ## Awards
 Max (Character Customization): 21,755  (Ranked 17)  
-Sum: 41,038 (Ranked 30)  
+Sum: 41,045 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -183,7 +183,7 @@ Diff (max vs sum): -13
 | This game has Amazing Storytelling | 937 |
 | This game has Diverse Characters | 932 |
 | This game has Amazing Characters | 916 |
-| This game is Highly Recommended | 883 |
+| This game is Highly Recommended | 890 |
 | This game has Quickly Understood Controls | 843 |
 | This game has Beautiful Visuals | 785 |
 | This game has a Creative Community | 593 |
@@ -334,4 +334,4 @@ Diff (max vs sum): -13
 | 2023-08-12 | 4.77 | 21,714 | 40,892 |
 | 2023-08-13 | 4.77 | 21,738 | 40,951 |
 | 2023-08-14 | 4.77 | 21,755 | 41,010 |
-| 2023-08-15 | 4.77 | 21,755 | 41,038 |
+| 2023-08-15 | 4.77 | 21,755 | 41,045 |

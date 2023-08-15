@@ -4,8 +4,8 @@
   "ProductSlug": "antstream-arcade",
   "Ranking_EOS_Progress": 544,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 356,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -38,6 +38,6 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0431277+00:00",
   "LastChanged": "2023-03-31T05:57:37.0431278+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:22.3228789+00:00",
-  "LastUpdate_Ratings": "2023-08-15T11:59:43.9632769+00:00",
-  "LastUpdate_Achievements": "2023-08-15T12:06:03.2901404+00:00"
+  "LastUpdate_Ratings": "2023-08-15T13:01:58.1214617+00:00",
+  "LastUpdate_Achievements": "2023-08-15T13:07:52.2678133+00:00"
 }

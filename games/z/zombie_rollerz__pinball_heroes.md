@@ -5,80 +5,80 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Level Up! | 89.00% | ~125 |
-| Bullseye! | 85.00% | ~119 |
-| Graduation! | 81.00% | ~113 |
+| Bullseye! | 85.00% | ~120 |
+| Graduation! | 81.00% | ~114 |
 | Villfir Forest | 79.00% | ~111 |
 | Right in the kisser! | 62.00% | ~87 |
+| The Thrower | 50.00% | ~70 |
 | Duscot Steamcity | 50.00% | ~70 |
-| The Thrower | 49.00% | ~69 |
-| The Shaman | 48.00% | ~67 |
-| The Penguin | 46.00% | ~64 |
-| The Magician | 43.00% | ~60 |
+| The Shaman | 48.00% | ~68 |
+| The Penguin | 47.00% | ~66 |
+| The Magician | 43.00% | ~61 |
+| The Shield | 40.00% | ~56 |
+| The Tunneler | 40.00% | ~56 |
 | Level Up!! | 39.00% | ~55 |
-| The Shield | 39.00% | ~55 |
-| The Tunneler | 39.00% | ~55 |
-| Kill-streak | 31.00% | ~43 |
+| Kill-streak | 32.00% | ~45 |
 | The Bird | 29.00% | ~41 |
 | Topped up | 28.00% | ~39 |
-| The Idol | 26.00% | ~36 |
-| The Ninja | 26.00% | ~36 |
-| Inferno Ruins | 25.00% | ~35 |
+| The Idol | 27.00% | ~38 |
+| The Ninja | 27.00% | ~38 |
+| Inferno Ruins | 26.00% | ~37 |
+| 1 is all I need | 23.00% | ~32 |
 | I'm Rich | 23.00% | ~32 |
-| 1 is all I need | 22.00% | ~31 |
-| Untouchable | 21.00% | ~29 |
-| The Slime | 21.00% | ~29 |
+| Untouchable | 22.00% | ~31 |
+| The Slime | 22.00% | ~31 |
+| The Flower | 18.00% | ~25 |
 | The Giant | 18.00% | ~25 |
-| The Flower | 17.00% | ~24 |
-| Out of the Frying Pan... | 17.00% | ~24 |
-| The Blacksmith | 16.00% | ~22 |
-| The Ooze | 16.00% | ~22 |
-| Ember | 15.00% | ~21 |
-| The Assistant | 14.00% | ~20 |
-| The Steampunk | 14.00% | ~20 |
-| Turquoise | 14.00% | ~20 |
-| The Droid | 11.00% | ~15 |
-| Verse | 11.00% | ~15 |
-| Iron | 11.00% | ~15 |
+| Out of the Frying Pan... | 18.00% | ~25 |
+| The Blacksmith | 17.00% | ~24 |
+| The Ooze | 16.00% | ~23 |
+| Ember | 16.00% | ~23 |
+| The Assistant | 15.00% | ~21 |
+| The Steampunk | 15.00% | ~21 |
+| Turquoise | 15.00% | ~21 |
+| The Droid | 12.00% | ~17 |
+| Verse | 12.00% | ~17 |
+| Iron | 11.00% | ~16 |
+| The Bomber | 9.00% | ~13 |
 | Tested | 9.00% | ~13 |
-| The Bomber | 8.00% | ~11 |
-| The Astronaut | 7.00% | ~10 |
+| The Astronaut | 8.00% | ~11 |
+| Highway to Hell | 7.00% | ~10 |
 | Power Overwhelming | 6.00% | ~8 |
+| The Exorcist | 6.00% | ~8 |
 | Mithril | 6.00% | ~8 |
-| Highway to Hell | 6.00% | ~8 |
-| The Exorcist | 5.00% | ~7 |
-| Aluminum | 5.00% | ~7 |
-| Anvil | 5.00% | ~7 |
+| Aluminum | 6.00% | ~8 |
+| Anvil | 6.00% | ~8 |
+| It's a Trap! | 4.00% | ~6 |
 | Analyzed | 4.00% | ~6 |
 | Tongs | 4.00% | ~6 |
+| Platinum | 4.00% | ~6 |
 | Combo Master | 3.00% | ~4 |
-| It's a Trap! | 3.00% | ~4 |
+| Blaze | 3.00% | ~4 |
+| Chorus | 3.00% | ~4 |
+| TNT | 3.00% | ~4 |
+| Titanium | 3.00% | ~4 |
+| Rocket | 3.00% | ~4 |
 | Concluded | 3.00% | ~4 |
-| Platinum | 3.00% | ~4 |
+| Hammer | 3.00% | ~4 |
+| Gunpowder | 3.00% | ~4 |
 | Really Bad Luck | 2.00% | ~3 |
-| Blaze | 2.00% | ~3 |
-| Chorus | 2.00% | ~3 |
-| TNT | 2.00% | ~3 |
-| Titanium | 2.00% | ~3 |
-| Rocket | 2.00% | ~3 |
+| Topaz | 2.00% | ~3 |
+| Immortality | 2.00% | ~3 |
+| Adamantite | 2.00% | ~3 |
 | Nuclear Bomb | 2.00% | ~3 |
 | Divinity | 2.00% | ~3 |
-| Hammer | 2.00% | ~3 |
-| Gunpowder | 2.00% | ~3 |
-| Topaz | 1.00% | ~1 |
-| Immortality | 1.00% | ~1 |
+| Warp Drive Spacecraft | 2.00% | ~3 |
+| Wu-wei | 2.00% | ~3 |
+| Satellite | 2.00% | ~3 |
+| Zombie Slayer | 2.00% | ~3 |
+| Zombie Hunter | 1.00% | ~1 |
 | Inferno | 1.00% | ~1 |
 | Sapphire | 1.00% | ~1 |
 | Encore | 1.00% | ~1 |
-| Adamantite | 1.00% | ~1 |
-| Warp Drive Spacecraft | 1.00% | ~1 |
-| Wu-wei | 1.00% | ~1 |
-| Satellite | 1.00% | ~1 |
-| Zombie Slayer | 1.00% | ~1 |
 | Divinity | 0.70% | ~1 |
-| Zombie Hunter | 0.70% | ~1 |
 | Zombie Exterminator | 0.70% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 140 (Ranked 304)  
+Progressed: 141 (Ranked 303)  
 Completed: 1 (0.71%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,7 +137,7 @@ Completed: 1 (0.71%) (Ranked 128)
 | 2023-08-12 | 136 | 1 |
 | 2023-08-13 | 138 | 1 |
 | 2023-08-14 | 139 | 1 |
-| 2023-08-15 | 140 | 1 |
+| 2023-08-15 | 141 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

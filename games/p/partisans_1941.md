@@ -6,15 +6,15 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| E1M1 | 38.00% | ~491 |
-| Grenadier | 37.00% | ~478 |
-| War Never Changes | 37.00% | ~478 |
+| E1M1 | 38.00% | ~492 |
+| Grenadier | 37.00% | ~479 |
+| War Never Changes | 37.00% | ~479 |
 | Heroes Never Die | 33.00% | ~427 |
 | Mosquito bite | 32.00% | ~414 |
 | Spice It Up | 28.00% | ~362 |
-| Bomberman | 24.00% | ~310 |
-| Agent 47 | 23.00% | ~297 |
-| You're Gonna Go Far, Kid | 23.00% | ~297 |
+| Bomberman | 24.00% | ~311 |
+| Agent 47 | 23.00% | ~298 |
+| You're Gonna Go Far, Kid | 23.00% | ~298 |
 | Death to the Oppressor! | 16.00% | ~207 |
 | The Gang's All Here | 14.00% | ~181 |
 | Your Answer | 13.00% | ~168 |
@@ -29,15 +29,15 @@ Number of Ratings: 98  (23.09.2022)
 | Experienced Strategist | 2.00% | ~26 |
 | Do a Barrel Roll! | 1.00% | ~13 |
 | How?! | 1.00% | ~13 |
-| Tough as Nails | 0.40% | ~5 |
-| Commandos | 0.20% | ~3 |
+| Tough as Nails | 0.50% | ~6 |
+| Commandos | 0.30% | ~4 |
 | We Weren't There | 0.20% | ~3 |
 | A Little Culture | 0.10% | ~1 |
 | Inspector General | 0.00% | ~0 |
 | Defense of Steel | 0.00% | ~0 |
 | Scout | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,293 (Ranked 186)  
+Progressed: 1,294 (Ranked 186)  
 Completed: 1 (0.08%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 1 (0.08%) (Ranked 214)
 | 2023-08-11 | 1,285 | 1 |
 | 2023-08-13 | 1,287 | 1 |
 | 2023-08-14 | 1,292 | 1 |
-| 2023-08-15 | 1,293 | 1 |
+| 2023-08-15 | 1,294 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

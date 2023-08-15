@@ -5,7 +5,7 @@ Rating: 4.44 (Ranked 645)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Kraken Sleeps | 6.00% | ~208 |
+| The Kraken Sleeps | 6.00% | ~209 |
 | Liberté | 5.00% | ~174 |
 | Meeting Resistance | 5.00% | ~174 |
 | Confirming Suspicions | 5.00% | ~174 |
@@ -77,7 +77,7 @@ Rating: 4.44 (Ranked 645)
 | Alpha | 0.10% | ~3 |
 | Das Familienjuwel | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,475 (Ranked 150)  
+Progressed: 3,476 (Ranked 150)  
 Completed: 9 (0.26%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 9 (0.26%) (Ranked 173)
 | 2023-08-12 | 3,461 | 9 |
 | 2023-08-13 | 3,466 | 9 |
 | 2023-08-14 | 3,472 | 9 |
-| 2023-08-15 | 3,475 | 9 |
+| 2023-08-15 | 3,476 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

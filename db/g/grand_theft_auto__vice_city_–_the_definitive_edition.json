@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 438,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -586,9 +586,9 @@
       "Count": 67
     }
   ],
-  "EOS_Progressed": 9675,
+  "EOS_Progressed": 9677,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -8376,6 +8376,11 @@
       "Time": "2023-08-15T09:06:02.9440199+00:00",
       "NumProgressed": 9675,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-08-15T13:08:26.1502379+00:00",
+      "NumProgressed": 9677,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 34,
@@ -8475,7 +8480,7 @@
       "Name": "Catch Me if You Can",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "ACH13",
@@ -8491,7 +8496,7 @@
       "Name": "Greasy Palms",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3967
+      "UsersEstimate": 3968
     },
     {
       "ID": "ACH15",
@@ -8547,7 +8552,7 @@
       "Name": "Legal Counsel",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4354
+      "UsersEstimate": 4355
     },
     {
       "ID": "ACH22",
@@ -8571,7 +8576,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1451
+      "UsersEstimate": 1452
     },
     {
       "ID": "ACH25",
@@ -8579,7 +8584,7 @@
       "Name": "Chauffeur",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1451
+      "UsersEstimate": 1452
     },
     {
       "ID": "ACH26",
@@ -8587,7 +8592,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1451
+      "UsersEstimate": 1452
     },
     {
       "ID": "ACH27",
@@ -8603,7 +8608,7 @@
       "Name": "Bloodstained Hands",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "ACH29",
@@ -8658,7 +8663,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9675,
+      "Progressed": 9677,
       "Completed": 48
     }
   ],
@@ -8666,8 +8671,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-08-14T19:00:14.711734+00:00",
-  "LastChanged_Achievements": "2023-08-15T12:06:33.8522386+00:00",
+  "LastChanged_Achievements": "2023-08-15T13:08:26.1502373+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:57.4894701+00:00",
-  "LastUpdate_Ratings": "2023-08-15T12:00:31.5493897+00:00",
-  "LastUpdate_Achievements": "2023-08-15T12:06:33.8522941+00:00"
+  "LastUpdate_Ratings": "2023-08-15T13:02:34.275691+00:00",
+  "LastUpdate_Achievements": "2023-08-15T13:08:26.1502941+00:00"
 }
