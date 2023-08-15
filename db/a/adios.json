@@ -2,7 +2,7 @@
   "ID": "a3dd9f3da8ec49c7b25dec42cce2ec46",
   "Name": "Adios",
   "ProductSlug": "adios-b378b4",
-  "Ranking_Rating": 965,
+  "Ranking_Rating": 966,
   "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 79,
@@ -96,7 +96,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 70067,
+  "EOS_Progressed": 70069,
   "EOS_Completed": 702,
   "EOS_NewPlayers": 824,
   "EOS_NewCompleters": 11,
@@ -12931,6 +12931,11 @@
       "Time": "2023-08-15T05:03:22.6705166+00:00",
       "NumProgressed": 70067,
       "NumCompleted": 702
+    },
+    {
+      "Time": "2023-08-15T06:03:20.5444179+00:00",
+      "NumProgressed": 70069,
+      "NumCompleted": 702
     }
   ],
   "TotalAchievements": 25,
@@ -13014,7 +13019,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 14013
+      "UsersEstimate": 14014
     },
     {
       "ID": "Hearty",
@@ -13046,7 +13051,7 @@
       "Name": "Master, Commander",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 14013
+      "UsersEstimate": 14014
     },
     {
       "ID": "Meaty",
@@ -13134,14 +13139,14 @@
       "Name": "Vinyl Vibes",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 5605
+      "UsersEstimate": 5606
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 70067,
+      "Progressed": 70069,
       "Completed": 702
     }
   ],
@@ -13149,8 +13154,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-08-07T22:57:38.0235808+00:00",
-  "LastChanged_Achievements": "2023-08-15T05:03:22.6705159+00:00",
+  "LastChanged_Achievements": "2023-08-15T06:03:20.5444175+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:12.0925901+00:00",
-  "LastUpdate_Ratings": "2023-08-15T04:57:46.3272024+00:00",
-  "LastUpdate_Achievements": "2023-08-15T05:03:22.6707115+00:00"
+  "LastUpdate_Ratings": "2023-08-15T05:57:52.8684169+00:00",
+  "LastUpdate_Achievements": "2023-08-15T06:03:20.544545+00:00"
 }

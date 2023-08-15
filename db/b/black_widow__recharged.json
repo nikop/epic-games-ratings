@@ -2,7 +2,7 @@
   "ID": "a25444fc25e9498781983b58ceba30c5",
   "Name": "Black Widow: Recharged",
   "ProductSlug": "black-widow-recharged",
-  "Ranking_Rating": 853,
+  "Ranking_Rating": 854,
   "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 110,
@@ -146,9 +146,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17213,
+  "EOS_Progressed": 17214,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 178,
+  "EOS_NewPlayers": 179,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -9816,6 +9816,11 @@
       "Time": "2023-08-15T05:03:28.0329852+00:00",
       "NumProgressed": 17213,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-08-15T06:03:25.776253+00:00",
+      "NumProgressed": 17214,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 14,
@@ -9827,7 +9832,7 @@
       "Name": "Across The Border",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 13598
+      "UsersEstimate": 13599
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -9915,7 +9920,7 @@
       "Name": "The Fall",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 3098
+      "UsersEstimate": 3099
     },
     {
       "ID": "ACH_TIME_OF_OUR_LIFE",
@@ -9938,15 +9943,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 17213,
+      "Progressed": 17214,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-05-31T22:01:00.0124016+00:00",
-  "LastChanged_Achievements": "2023-08-15T05:03:28.0329846+00:00",
+  "LastChanged_Achievements": "2023-08-15T06:03:25.7762525+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:20.9472808+00:00",
-  "LastUpdate_Ratings": "2023-08-15T04:57:35.2653136+00:00",
-  "LastUpdate_Achievements": "2023-08-15T05:03:28.0330642+00:00"
+  "LastUpdate_Ratings": "2023-08-15T05:57:42.3467349+00:00",
+  "LastUpdate_Achievements": "2023-08-15T06:03:25.7763907+00:00"
 }

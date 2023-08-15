@@ -1,7 +1,7 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 3.99 (Ranked 929)  
+Rating: 3.99 (Ranked 930)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -89,6 +89,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Moment of Respite | 0.20% | ~269 |
 | Black Friday Special | 0.20% | ~269 |
 | King's Shadow | 0.20% | ~269 |
+| Master Recycler | 0.20% | ~269 |
 | Magical Harmony | 0.20% | ~269 |
 | Special Ingredient | 0.20% | ~269 |
 | Exotic Commodities | 0.20% | ~269 |
@@ -114,7 +115,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~135 |
 | Marvels from the World Over | 0.10% | ~135 |
 | Cash Only Please | 0.10% | ~135 |
-| Master Recycler | 0.10% | ~135 |
 | All Accounted For | 0.10% | ~135 |
 | Economy of Scarce | 0.10% | ~135 |
 | King's Blade | 0.10% | ~135 |

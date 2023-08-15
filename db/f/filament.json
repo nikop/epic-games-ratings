@@ -2,12 +2,12 @@
   "ID": "89fb09a222a54e53b692e9c36e68d0a1",
   "Name": "Filament",
   "ProductSlug": "filament-332a92",
-  "Ranking_Rating": 774,
+  "Ranking_Rating": 775,
   "Ranking_Popularity": 189,
   "Ranking_PopularitySum": 279,
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 69,
+  "Ranking_EOS_NewPlayers": 70,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -237,9 +237,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 199103,
+  "EOS_Progressed": 199104,
   "EOS_Completed": 479,
-  "EOS_NewPlayers": 574,
+  "EOS_NewPlayers": 575,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -12722,6 +12722,11 @@
       "Time": "2023-08-15T05:03:38.9371888+00:00",
       "NumProgressed": 199103,
       "NumCompleted": 479
+    },
+    {
+      "Time": "2023-08-15T06:03:36.8865522+00:00",
+      "NumProgressed": 199104,
+      "NumCompleted": 479
     }
   ],
   "TotalAchievements": 29,
@@ -12757,7 +12762,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 187157
+      "UsersEstimate": 187158
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -12964,7 +12969,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 199103,
+      "Progressed": 199104,
       "Completed": 479
     }
   ],
@@ -12972,8 +12977,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-08-12T04:00:44.2118416+00:00",
-  "LastChanged_Achievements": "2023-08-15T05:03:38.937188+00:00",
+  "LastChanged_Achievements": "2023-08-15T06:03:36.8865515+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:39.8654099+00:00",
-  "LastUpdate_Ratings": "2023-08-15T05:00:20.2815812+00:00",
-  "LastUpdate_Achievements": "2023-08-15T05:03:38.9373803+00:00"
+  "LastUpdate_Ratings": "2023-08-15T06:00:28.8682685+00:00",
+  "LastUpdate_Achievements": "2023-08-15T06:03:36.8866958+00:00"
 }

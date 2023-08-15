@@ -2,13 +2,13 @@
   "ID": "598bbf91c75b4ac9a676d82719acdbb1",
   "Name": "Ghostbusters: Spirits Unleashed",
   "ProductSlug": "ghostbusters-spirits-unleashed",
-  "Ranking_Rating": 575,
+  "Ranking_Rating": 576,
   "Ranking_Popularity": 254,
   "Ranking_PopularitySum": 189,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 181,
   "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -1800,9 +1800,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 25092,
+  "EOS_Progressed": 25093,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 208,
+  "EOS_NewPlayers": 206,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -10445,6 +10445,11 @@
       "Time": "2023-08-15T04:04:07.6974577+00:00",
       "NumProgressed": 25092,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-08-15T06:03:40.4075706+00:00",
+      "NumProgressed": 25093,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 51,
@@ -10456,7 +10461,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 18317
+      "UsersEstimate": 18318
     },
     {
       "ID": "Animated",
@@ -10472,7 +10477,7 @@
       "Name": "Back Off",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 8782
+      "UsersEstimate": 8783
     },
     {
       "ID": "Best_Insurance",
@@ -10528,7 +10533,7 @@
       "Name": "Daily Dose",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 8782
+      "UsersEstimate": 8783
     },
     {
       "ID": "Diabolical",
@@ -10544,7 +10549,7 @@
       "Name": "Discovery",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 15306
+      "UsersEstimate": 15307
     },
     {
       "ID": "Dont_Need_These",
@@ -10568,7 +10573,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 63,
       "XP": 100,
-      "UsersEstimate": 15808
+      "UsersEstimate": 15809
     },
     {
       "ID": "Escape_Artist",
@@ -10688,7 +10693,7 @@
       "Name": "Rift Destroyer",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 4767
+      "UsersEstimate": 4768
     },
     {
       "ID": "Rift_Seeker",
@@ -10696,7 +10701,7 @@
       "Name": "Rift Seeker",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1756
+      "UsersEstimate": 1757
     },
     {
       "ID": "Right_Back",
@@ -10744,7 +10749,7 @@
       "Name": "Solo Capture",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 8029
+      "UsersEstimate": 8030
     },
     {
       "ID": "Stunner",
@@ -10760,7 +10765,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 21579
+      "UsersEstimate": 21580
     },
     {
       "ID": "Summoner",
@@ -10792,7 +10797,7 @@
       "Name": "Teamwork",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 11040
+      "UsersEstimate": 11041
     },
     {
       "ID": "Terrifying",
@@ -10808,7 +10813,7 @@
       "Name": "Therapeutic",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1756
+      "UsersEstimate": 1757
     },
     {
       "ID": "There_You_Are",
@@ -10840,7 +10845,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 12044
+      "UsersEstimate": 12045
     },
     {
       "ID": "Welcome_Crew",
@@ -10863,7 +10868,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 25092,
+      "Progressed": 25093,
       "Completed": 51
     }
   ],
@@ -10871,8 +10876,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-08-15T00:00:37.7777253+00:00",
-  "LastChanged_Achievements": "2023-08-15T05:03:42.5825278+00:00",
+  "LastChanged_Achievements": "2023-08-15T06:03:40.4075701+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:52.55817+00:00",
-  "LastUpdate_Ratings": "2023-08-15T05:00:37.7643486+00:00",
-  "LastUpdate_Achievements": "2023-08-15T05:03:42.5826847+00:00"
+  "LastUpdate_Ratings": "2023-08-15T06:00:47.0529552+00:00",
+  "LastUpdate_Achievements": "2023-08-15T06:03:40.4077019+00:00"
 }

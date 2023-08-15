@@ -4,8 +4,8 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 20,
-  "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 37,
+  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -2346,9 +2346,9 @@
       "ID": "LEVEL_013",
       "SetID": "212bg48",
       "Name": "Higher ground",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 147
     },
     {
       "ID": "LEVEL_014",
@@ -2497,8 +2497,8 @@
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-08-15T05:07:30.6561516+00:00",
+  "LastChanged_Achievements": "2023-08-15T06:07:35.6046504+00:00",
   "LastUpdate_AppInfo": "2023-08-14T18:57:20.2400733+00:00",
-  "LastUpdate_Ratings": "2023-08-15T04:58:27.5411523+00:00",
-  "LastUpdate_Achievements": "2023-08-15T05:07:30.6562207+00:00"
+  "LastUpdate_Ratings": "2023-08-15T05:58:34.6226027+00:00",
+  "LastUpdate_Achievements": "2023-08-15T06:07:35.6047059+00:00"
 }

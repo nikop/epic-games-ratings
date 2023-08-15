@@ -8293,9 +8293,9 @@
       "Count": 647
     }
   ],
-  "EOS_Progressed": 611976,
+  "EOS_Progressed": 611983,
   "EOS_Completed": 62,
-  "EOS_NewPlayers": 2719,
+  "EOS_NewPlayers": 2714,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -21193,6 +21193,11 @@
       "Time": "2023-08-15T05:06:21.5485798+00:00",
       "NumProgressed": 611976,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2023-08-15T06:06:28.6973031+00:00",
+      "NumProgressed": 611983,
+      "NumCompleted": 62
     }
   ],
   "TotalAchievements": 65,
@@ -21228,7 +21233,7 @@
       "Name": "Under Pressure",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 42838
+      "UsersEstimate": 42839
     },
     {
       "ID": "achievement_05",
@@ -21236,7 +21241,7 @@
       "Name": "On the Trail of the Enemy",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 42838
+      "UsersEstimate": 42839
     },
     {
       "ID": "achievement_06",
@@ -21244,7 +21249,7 @@
       "Name": "Light in the Darkness",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 42838
+      "UsersEstimate": 42839
     },
     {
       "ID": "achievement_07",
@@ -21340,7 +21345,7 @@
       "Name": "Sancho Panza",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 48958
+      "UsersEstimate": 48959
     },
     {
       "ID": "achievement_19",
@@ -21396,7 +21401,7 @@
       "Name": "Flag Burning",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 42838
+      "UsersEstimate": 42839
     },
     {
       "ID": "achievement_26",
@@ -21412,7 +21417,7 @@
       "Name": "You Never Forget Your First...",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 67317
+      "UsersEstimate": 67318
     },
     {
       "ID": "achievement_28",
@@ -21420,7 +21425,7 @@
       "Name": "Oh, So This Is How It Works!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 48958
+      "UsersEstimate": 48959
     },
     {
       "ID": "achievement_29",
@@ -21508,7 +21513,7 @@
       "Name": "Night Hunter",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 42838
+      "UsersEstimate": 42839
     },
     {
       "ID": "achievement_40",
@@ -21723,21 +21728,21 @@
     {
       "ID": "3cbf5jh",
       "IsBase": true,
-      "Progressed": 611976,
+      "Progressed": 611983,
       "Completed": 62
     },
     {
       "ID": "likk62",
       "IsBase": false,
-      "Progressed": 257420,
+      "Progressed": 257427,
       "Completed": 1426
     }
   ],
   "FirstSeen": "2022-07-22T20:18:57.6151265+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.1190573+00:00",
   "LastChanged": "2023-08-14T19:57:03.0467462+00:00",
-  "LastChanged_Achievements": "2023-08-15T05:06:21.5485791+00:00",
+  "LastChanged_Achievements": "2023-08-15T06:06:28.6973027+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:58.4996027+00:00",
-  "LastUpdate_Ratings": "2023-08-15T04:57:05.1858076+00:00",
-  "LastUpdate_Achievements": "2023-08-15T05:06:21.5488436+00:00"
+  "LastUpdate_Ratings": "2023-08-15T05:57:10.3827249+00:00",
+  "LastUpdate_Achievements": "2023-08-15T06:06:28.697549+00:00"
 }

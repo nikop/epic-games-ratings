@@ -1,25 +1,25 @@
 # Crime Boss: Rockay City
 [Store](https://store.epicgames.com/en-US/p/crime-boss)  
 [View Rawdata](../../db/c/crime_boss__rockay_city.json)  
-Rating: 3.94 (Ranked 940)  
+Rating: 3.94 (Ranked 941)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~53,161 |
-| First One’s Free | 65.00% | ~46,695 |
-| Neophyte Ninja | 50.00% | ~35,920 |
-| Too Old for This | 47.00% | ~33,764 |
-| Case Closed | 35.00% | ~25,144 |
-| Fancy Pants | 35.00% | ~25,144 |
-| King of the Hill | 34.00% | ~24,425 |
-| Underworld Initiate | 29.00% | ~20,833 |
-| Roid Ranger | 21.00% | ~15,086 |
-| True Player | 19.00% | ~13,649 |
-| Off the Rocks | 19.00% | ~13,649 |
+| Downed but Not Outed | 74.00% | ~53,163 |
+| First One’s Free | 65.00% | ~46,697 |
+| Neophyte Ninja | 50.00% | ~35,921 |
+| Too Old for This | 47.00% | ~33,766 |
+| Case Closed | 35.00% | ~25,145 |
+| Fancy Pants | 35.00% | ~25,145 |
+| King of the Hill | 34.00% | ~24,426 |
+| Underworld Initiate | 29.00% | ~20,834 |
+| Roid Ranger | 21.00% | ~15,087 |
+| True Player | 19.00% | ~13,650 |
+| Off the Rocks | 19.00% | ~13,650 |
 | Raider’s Ruin | 17.00% | ~12,213 |
 | Dragonslayer | 17.00% | ~12,213 |
 | Hidden Sonata | 13.00% | ~9,339 |
-| Rockay Rex | 11.00% | ~7,902 |
+| Rockay Rex | 11.00% | ~7,903 |
 | Freebooter | 10.00% | ~7,184 |
 | Track Star | 9.00% | ~6,466 |
 | Headhunter | 9.00% | ~6,466 |
@@ -27,7 +27,7 @@ Rating: 3.94 (Ranked 940)
 | Classy Joint | 9.00% | ~6,466 |
 | I Like Trains | 8.00% | ~5,747 |
 | Foo Finder | 7.00% | ~5,029 |
-| Savvy Seeker | 6.00% | ~4,310 |
+| Savvy Seeker | 6.00% | ~4,311 |
 | Legend Looter | 5.00% | ~3,592 |
 | Imports and Exports | 4.00% | ~2,874 |
 | Olympus Ascended | 4.00% | ~2,874 |
@@ -43,7 +43,7 @@ Rating: 3.94 (Ranked 940)
 | Geek Out | 0.60% | ~431 |
 | Full House | 0.20% | ~144 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 71,839 (Ranked 77)  
+Progressed: 71,842 (Ranked 77)  
 Completed: 38 (0.05%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,7 +160,7 @@ Completed: 38 (0.05%) (Ranked 220)
 | 2023-08-12 | 71,726 | 38 |
 | 2023-08-13 | 71,794 | 38 |
 | 2023-08-14 | 71,831 | 38 |
-| 2023-08-15 | 71,839 | 38 |
+| 2023-08-15 | 71,842 | 38 |
 ## Awards
 Max (Diverse Characters): 402  (Ranked 214)  
 Sum: 1,894 (Ranked 204)  

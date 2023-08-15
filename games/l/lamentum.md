@@ -1,7 +1,7 @@
 # Lamentum
 [Store](https://store.epicgames.com/en-US/p/lamentum-962e3e)  
 [View Rawdata](../../db/l/lamentum.json)  
-Rating: 4.37 (Ranked 728)  
+Rating: 4.37 (Ranked 729)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -14,7 +14,7 @@ Rating: 4.37 (Ranked 728)
 | Lord Clayton | 22.00% | ~70 |
 | The other side of the mirror | 16.00% | ~51 |
 | Little Mary | 14.00% | ~44 |
-| There is freedom in awakening | 11.00% | ~35 |
+| There is freedom in awakening | 12.00% | ~38 |
 | Ritual | 9.00% | ~28 |
 | Cowardice | 9.00% | ~28 |
 | Bloodrush | 8.00% | ~25 |

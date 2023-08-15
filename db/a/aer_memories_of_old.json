@@ -2,12 +2,12 @@
   "ID": "f3720f53cccb4a20841a392a8ea0457f",
   "Name": "AER Memories of Old",
   "ProductSlug": "aer-memories-of-old",
-  "Ranking_Rating": 632,
+  "Ranking_Rating": 633,
   "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 88,
-  "Ranking_EOS_NewPlayers": 70,
+  "Ranking_EOS_NewPlayers": 69,
   "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -380,9 +380,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17868,
+  "EOS_Progressed": 17871,
   "EOS_Completed": 362,
-  "EOS_NewPlayers": 573,
+  "EOS_NewPlayers": 576,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 2.03,
   "EosHistory": [
@@ -12760,6 +12760,11 @@
       "Time": "2023-08-15T05:05:50.6992111+00:00",
       "NumProgressed": 17868,
       "NumCompleted": 362
+    },
+    {
+      "Time": "2023-08-15T06:05:58.3154009+00:00",
+      "NumProgressed": 17871,
+      "NumCompleted": 362
     }
   ],
   "TotalAchievements": 20,
@@ -12803,7 +12808,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2144
+      "UsersEstimate": 2145
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -12819,7 +12824,7 @@
       "Name": "An uninvited guest",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1429
+      "UsersEstimate": 1430
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -12827,7 +12832,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2144
+      "UsersEstimate": 2145
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -12835,7 +12840,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2680
+      "UsersEstimate": 2681
     },
     {
       "ID": "FOUND_ERIN",
@@ -12843,7 +12848,7 @@
       "Name": "Hide and Seek",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 893
+      "UsersEstimate": 894
     },
     {
       "ID": "FOUND_FOX_STATUE",
@@ -12883,7 +12888,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2144
+      "UsersEstimate": 2145
     },
     {
       "ID": "INTRO_FINISHED",
@@ -12891,7 +12896,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 13580
+      "UsersEstimate": 13582
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -12899,7 +12904,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 5003
+      "UsersEstimate": 5004
     },
     {
       "ID": "NORTH_FINISHED",
@@ -12930,15 +12935,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 17868,
+      "Progressed": 17871,
       "Completed": 362
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-08-12T01:39:46.4098224+00:00",
-  "LastChanged_Achievements": "2023-08-15T05:05:50.6992105+00:00",
+  "LastChanged_Achievements": "2023-08-15T06:05:58.3154003+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:58:04.1120676+00:00",
-  "LastUpdate_Ratings": "2023-08-15T04:57:09.0799433+00:00",
-  "LastUpdate_Achievements": "2023-08-15T05:05:50.6993223+00:00"
+  "LastUpdate_Ratings": "2023-08-15T05:57:14.3529646+00:00",
+  "LastUpdate_Achievements": "2023-08-15T06:05:58.3155199+00:00"
 }

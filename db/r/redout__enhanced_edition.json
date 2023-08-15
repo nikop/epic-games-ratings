@@ -2,7 +2,7 @@
   "ID": "93ea0d593cb04e62afb0741bbf894173",
   "Name": "Redout: Enhanced Edition",
   "ProductSlug": "redout-enhanced-edition",
-  "Ranking_Rating": 541,
+  "Ranking_Rating": 542,
   "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 51,
@@ -328,7 +328,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 229682,
+  "EOS_Progressed": 229683,
   "EOS_Completed": 46,
   "EOS_NewPlayers": 545,
   "EOS_NewCompleters": 0,
@@ -12503,6 +12503,11 @@
       "Time": "2023-08-15T05:03:19.415714+00:00",
       "NumProgressed": 229682,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-08-15T06:03:17.3458957+00:00",
+      "NumProgressed": 229683,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 34,
@@ -12602,7 +12607,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 45936
+      "UsersEstimate": 45937
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -12785,15 +12790,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 229682,
+      "Progressed": 229683,
       "Completed": 46
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-08-15T05:03:19.415713+00:00",
+  "LastChanged_Achievements": "2023-08-15T06:03:17.3458948+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:00.8930351+00:00",
-  "LastUpdate_Ratings": "2023-08-15T04:59:42.3860375+00:00",
-  "LastUpdate_Achievements": "2023-08-15T05:03:19.4159112+00:00"
+  "LastUpdate_Ratings": "2023-08-15T05:59:50.3633298+00:00",
+  "LastUpdate_Achievements": "2023-08-15T06:03:17.3460031+00:00"
 }

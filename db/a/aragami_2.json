@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 40740,
+  "EOS_Progressed": 40741,
   "EOS_Completed": 207,
-  "EOS_NewPlayers": 566,
+  "EOS_NewPlayers": 563,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -11929,6 +11929,11 @@
       "Time": "2023-08-15T05:05:49.49709+00:00",
       "NumProgressed": 40740,
       "NumCompleted": 207
+    },
+    {
+      "Time": "2023-08-15T06:05:57.3041954+00:00",
+      "NumProgressed": 40741,
+      "NumCompleted": 207
     }
   ],
   "TotalAchievements": 44,
@@ -11948,7 +11953,7 @@
       "Name": "Lady",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 12629
+      "UsersEstimate": 12630
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -11956,7 +11961,7 @@
       "Name": "Embers",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 8555
+      "UsersEstimate": 8556
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -11980,7 +11985,7 @@
       "Name": "Ruse",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4481
+      "UsersEstimate": 4482
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -12060,7 +12065,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 32592
+      "UsersEstimate": 32593
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -12100,7 +12105,7 @@
       "Name": "Look Behind You",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 6518
+      "UsersEstimate": 6519
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -12124,7 +12129,7 @@
       "Name": "Sleeping on the Job",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 6518
+      "UsersEstimate": 6519
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -12164,7 +12169,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 22407
+      "UsersEstimate": 22408
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -12180,7 +12185,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 25666
+      "UsersEstimate": 25667
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -12204,7 +12209,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 24444
+      "UsersEstimate": 24445
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -12276,7 +12281,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 37888
+      "UsersEstimate": 37889
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -12291,7 +12296,7 @@
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 40740,
+      "Progressed": 40741,
       "Completed": 207
     }
   ],
@@ -12299,8 +12304,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-06-11T14:58:10.4478603+00:00",
-  "LastChanged_Achievements": "2023-08-15T05:05:49.497089+00:00",
+  "LastChanged_Achievements": "2023-08-15T06:05:57.3041949+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:05.4781923+00:00",
-  "LastUpdate_Ratings": "2023-08-15T04:59:50.3036627+00:00",
-  "LastUpdate_Achievements": "2023-08-15T05:05:49.497293+00:00"
+  "LastUpdate_Ratings": "2023-08-15T05:59:57.200123+00:00",
+  "LastUpdate_Achievements": "2023-08-15T06:05:57.3043407+00:00"
 }

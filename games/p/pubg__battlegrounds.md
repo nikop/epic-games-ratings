@@ -1,49 +1,49 @@
 # PUBG: BATTLEGROUNDS
 [Store](https://store.epicgames.com/en-US/p/pubg-59c1d9)  
 [View Rawdata](../../db/p/pubg__battlegrounds.json)  
-Rating: 3.98 (Ranked 933)  
+Rating: 3.98 (Ranked 934)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blood on My Hands | 75.00% | ~397,513 |
-| Health Junkie | 43.00% | ~227,907 |
-| You Complete Me | 40.00% | ~212,007 |
-| Guardian Angel | 37.00% | ~196,106 |
-| Devil Inside Me | 29.00% | ~153,705 |
-| Fantastic Four | 21.00% | ~111,304 |
-| Killing Spree | 20.00% | ~106,003 |
-| Marksman Novice | 18.00% | ~95,403 |
-| First Blood | 13.00% | ~68,902 |
-| Top 10 | 13.00% | ~68,902 |
-| Now You See Me, Now You Don't | 11.00% | ~58,302 |
-| Marksman Expert | 9.00% | ~47,702 |
-| CQB Novice | 8.00% | ~42,401 |
-| Collateral Damage | 7.00% | ~37,101 |
-| Airborne | 6.00% | ~31,801 |
-| Pacifist | 5.00% | ~26,501 |
-| Last Survivor | 4.00% | ~21,201 |
-| Marksman Master | 4.00% | ~21,201 |
-| Trigonometry Novice | 4.00% | ~21,201 |
-| First Come, First Served | 4.00% | ~21,201 |
-| Dynamic Duo | 3.00% | ~15,901 |
-| Winner Winner Chicken Dinner! | 2.00% | ~10,600 |
-| Okay, Now I'm Ready | 2.00% | ~10,600 |
-| Agent 48 | 2.00% | ~10,600 |
-| Don't Pan Me Bro! | 2.00% | ~10,600 |
-| Fast and Furious | 2.00% | ~10,600 |
-| CQB Expert | 2.00% | ~10,600 |
-| Fury Road | 1.00% | ~5,300 |
-| Ghost | 1.00% | ~5,300 |
-| Cruising with the Enemy | 1.00% | ~5,300 |
-| Nade King Novice | 0.80% | ~4,240 |
-| Master Assassin | 0.70% | ~3,710 |
+| Blood on My Hands | 75.00% | ~397,567 |
+| Health Junkie | 43.00% | ~227,938 |
+| You Complete Me | 40.00% | ~212,036 |
+| Guardian Angel | 37.00% | ~196,133 |
+| Devil Inside Me | 29.00% | ~153,726 |
+| Fantastic Four | 21.00% | ~111,319 |
+| Killing Spree | 20.00% | ~106,018 |
+| Marksman Novice | 18.00% | ~95,416 |
+| First Blood | 13.00% | ~68,912 |
+| Top 10 | 13.00% | ~68,912 |
+| Now You See Me, Now You Don't | 11.00% | ~58,310 |
+| Marksman Expert | 9.00% | ~47,708 |
+| CQB Novice | 8.00% | ~42,407 |
+| Collateral Damage | 7.00% | ~37,106 |
+| Airborne | 6.00% | ~31,805 |
+| Pacifist | 5.00% | ~26,504 |
+| Last Survivor | 4.00% | ~21,204 |
+| Marksman Master | 4.00% | ~21,204 |
+| Trigonometry Novice | 4.00% | ~21,204 |
+| First Come, First Served | 4.00% | ~21,204 |
+| Dynamic Duo | 3.00% | ~15,903 |
+| Winner Winner Chicken Dinner! | 2.00% | ~10,602 |
+| Okay, Now I'm Ready | 2.00% | ~10,602 |
+| Agent 48 | 2.00% | ~10,602 |
+| Don't Pan Me Bro! | 2.00% | ~10,602 |
+| Fast and Furious | 2.00% | ~10,602 |
+| CQB Expert | 2.00% | ~10,602 |
+| Fury Road | 1.00% | ~5,301 |
+| Ghost | 1.00% | ~5,301 |
+| Cruising with the Enemy | 1.00% | ~5,301 |
+| Nade King Novice | 0.80% | ~4,241 |
+| Master Assassin | 0.70% | ~3,711 |
 | CQB Master | 0.30% | ~1,590 |
 | The First Rule Is… | 0.20% | ~1,060 |
 | Nade King Master | 0.10% | ~530 |
 | Nade King Expert | 0.10% | ~530 |
 | Shoot the Knee | 0.10% | ~530 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 530,017 (Ranked 30)  
+Progressed: 530,089 (Ranked 30)  
 Completed: 10 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,14 +160,14 @@ Completed: 10 (0.00%) (Ranked 255)
 | 2023-08-12 | 524,636 | 10 |
 | 2023-08-13 | 527,316 | 10 |
 | 2023-08-14 | 529,573 | 10 |
-| 2023-08-15 | 530,017 | 10 |
+| 2023-08-15 | 530,089 | 10 |
 ## Awards
-Max (Competitive Players): 3,092  (Ranked 94)  
-Sum: 13,006 (Ranked 72)  
+Max (Competitive Players): 3,102  (Ranked 94)  
+Sum: 13,016 (Ranked 72)  
 Diff (max vs sum): 22  
 | Award | Count |
 | ----- | ----- |
-| This game has Competitive Players | 3,092 |
+| This game has Competitive Players | 3,102 |
 | This game has Quickly Understood Controls | 2,939 |
 | This game has Challenging Combat | 2,707 |
 | This game is Highly Recommended | 2,502 |
@@ -347,4 +347,4 @@ Diff (max vs sum): 22
 | 2023-08-12 | 3.98 | 3,069 | 12,909 |
 | 2023-08-13 | 3.98 | 3,082 | 12,961 |
 | 2023-08-14 | 3.98 | 3,092 | 13,000 |
-| 2023-08-15 | 3.98 | 3,092 | 13,006 |
+| 2023-08-15 | 3.98 | 3,102 | 13,016 |

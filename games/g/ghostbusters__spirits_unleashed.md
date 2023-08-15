@@ -1,25 +1,25 @@
 # Ghostbusters: Spirits Unleashed
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.49 (Ranked 575)  
+Rating: 4.49 (Ranked 576)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~21,579 |
-| Advancement | 73.00% | ~18,317 |
-| Meticulously Efficient | 63.00% | ~15,808 |
-| Discovery | 61.00% | ~15,306 |
+| Stylish | 86.00% | ~21,580 |
+| Advancement | 73.00% | ~18,318 |
+| Meticulously Efficient | 63.00% | ~15,809 |
+| Discovery | 61.00% | ~15,307 |
 | Fully Upgraded | 54.00% | ~13,550 |
 | Swift Rift Removers | 54.00% | ~13,550 |
 | I collect Spores, Molds, and Fungi | 51.00% | ~12,797 |
 | Cultured | 51.00% | ~12,797 |
-| Vaporous Expansion | 48.00% | ~12,044 |
-| Teamwork | 44.00% | ~11,040 |
+| Vaporous Expansion | 48.00% | ~12,045 |
+| Teamwork | 44.00% | ~11,041 |
 | There you are! | 42.00% | ~10,539 |
 | Clutch Capture | 40.00% | ~10,037 |
-| Back Off | 35.00% | ~8,782 |
-| Daily Dose | 35.00% | ~8,782 |
-| Solo Capture | 32.00% | ~8,029 |
+| Back Off | 35.00% | ~8,783 |
+| Daily Dose | 35.00% | ~8,783 |
+| Solo Capture | 32.00% | ~8,030 |
 | Welcome to the Crew | 31.00% | ~7,779 |
 | Ghostbuster In Training | 30.00% | ~7,528 |
 | Icing on the Cake | 30.00% | ~7,528 |
@@ -34,7 +34,7 @@ Rating: 4.49 (Ranked 575)
 | Skilled | 24.00% | ~6,022 |
 | Collector | 23.00% | ~5,771 |
 | Ectoplasmic Entity | 23.00% | ~5,771 |
-| Rift Destroyer | 19.00% | ~4,767 |
+| Rift Destroyer | 19.00% | ~4,768 |
 | Terrifying | 18.00% | ~4,517 |
 | Tobin's Prodigy | 18.00% | ~4,517 |
 | Reckless | 17.00% | ~4,266 |
@@ -46,8 +46,8 @@ Rating: 4.49 (Ranked 575)
 | Rivalry | 10.00% | ~2,509 |
 | Fragile Panes | 9.00% | ~2,258 |
 | Surprise! | 9.00% | ~2,258 |
-| Rift Seeker | 7.00% | ~1,756 |
-| Therapeutic | 7.00% | ~1,756 |
+| Rift Seeker | 7.00% | ~1,757 |
+| Therapeutic | 7.00% | ~1,757 |
 | Master Collector | 6.00% | ~1,506 |
 | Ghost Expert | 3.00% | ~753 |
 | Catostrophic Destroyer | 2.00% | ~502 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 575)
 | I don't need these | 1.00% | ~251 |
 | Mycophile | 1.00% | ~251 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,092 (Ranked 101)  
+Progressed: 25,093 (Ranked 101)  
 Completed: 51 (0.20%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,7 +174,7 @@ Completed: 51 (0.20%) (Ranked 181)
 | 2023-08-12 | 25,020 | 50 |
 | 2023-08-13 | 25,058 | 51 |
 | 2023-08-14 | 25,087 | 51 |
-| 2023-08-15 | 25,092 | 51 |
+| 2023-08-15 | 25,093 | 51 |
 ## Awards
 Max (Great for Quick Sessions): 247  (Ranked 254)  
 Sum: 2,233 (Ranked 189)  

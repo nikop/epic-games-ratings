@@ -2,7 +2,7 @@
   "ID": "144f9e231e2846d1a4381d9bb678f69d",
   "Name": "Warhammer 40,000: Mechanicus - Standard Edition",
   "ProductSlug": "warhammer-mechanicus-0e4b71",
-  "Ranking_Rating": 659,
+  "Ranking_Rating": 660,
   "Ranking_Popularity": 240,
   "Ranking_PopularitySum": 195,
   "Ranking_EOS_Progress": 54,
@@ -549,9 +549,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 220212,
+  "EOS_Progressed": 220213,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 593,
+  "EOS_NewPlayers": 591,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13149,6 +13149,11 @@
       "Time": "2023-08-15T05:02:15.594275+00:00",
       "NumProgressed": 220212,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-15T06:02:04.81439+00:00",
+      "NumProgressed": 220213,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -13184,7 +13189,7 @@
       "Name": "Competent Cohort",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 8808
+      "UsersEstimate": 8809
     },
     {
       "ID": "ACH_BASE_13",
@@ -13328,7 +13333,7 @@
       "Name": "Celestial Cartography Catastrophe",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8808
+      "UsersEstimate": 8809
     },
     {
       "ID": "ACH_BASE_30",
@@ -13408,7 +13413,7 @@
       "Name": "Knowledge is power",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 26425
+      "UsersEstimate": 26426
     },
     {
       "ID": "ACH_BASE_8",
@@ -13416,7 +13421,7 @@
       "Name": "One with the Machine",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8808
+      "UsersEstimate": 8809
     },
     {
       "ID": "ACH_BASE_9",
@@ -13431,7 +13436,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 220212,
+      "Progressed": 220213,
       "Completed": 5
     }
   ],
@@ -13439,8 +13444,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-07-29T17:58:35.8211483+00:00",
-  "LastChanged_Achievements": "2023-08-15T05:02:15.5942741+00:00",
+  "LastChanged_Achievements": "2023-08-15T06:02:04.8143894+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:14.4615999+00:00",
-  "LastUpdate_Ratings": "2023-08-15T04:59:58.6680285+00:00",
-  "LastUpdate_Achievements": "2023-08-15T05:02:15.5944907+00:00"
+  "LastUpdate_Ratings": "2023-08-15T06:00:05.9559551+00:00",
+  "LastUpdate_Achievements": "2023-08-15T06:02:04.814536+00:00"
 }
