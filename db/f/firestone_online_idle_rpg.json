@@ -4959,9 +4959,9 @@
       "ID": "angelpower",
       "SetID": "3nl4bcg",
       "Name": "Angel Power",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "arenachallenger",
@@ -5552,8 +5552,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-08-10T20:59:32.9674394+00:00",
-  "LastChanged_Achievements": "2023-08-15T13:08:04.9432749+00:00",
+  "LastChanged_Achievements": "2023-08-15T14:05:04.5004062+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:43.3889946+00:00",
-  "LastUpdate_Ratings": "2023-08-15T13:02:20.9963521+00:00",
-  "LastUpdate_Achievements": "2023-08-15T13:08:04.9433605+00:00"
+  "LastUpdate_Ratings": "2023-08-15T13:59:22.788365+00:00",
+  "LastUpdate_Achievements": "2023-08-15T14:05:04.5005185+00:00"
 }

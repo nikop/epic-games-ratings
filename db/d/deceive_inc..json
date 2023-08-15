@@ -226,7 +226,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17390,
+  "EOS_Progressed": 17391,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 263,
   "EOS_NewCompleters": 0,
@@ -8316,6 +8316,11 @@
       "Time": "2023-08-15T13:07:39.8797254+00:00",
       "NumProgressed": 17390,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-15T14:04:49.2470256+00:00",
+      "NumProgressed": 17391,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -8415,7 +8420,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2782
+      "UsersEstimate": 2783
     },
     {
       "ID": "0013",
@@ -8614,7 +8619,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17390,
+      "Progressed": 17391,
       "Completed": 1
     }
   ],
@@ -8622,8 +8627,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-12T19:04:41.1874293+00:00",
-  "LastChanged_Achievements": "2023-08-15T13:07:39.8797248+00:00",
+  "LastChanged_Achievements": "2023-08-15T14:04:49.247025+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:38.5697724+00:00",
-  "LastUpdate_Ratings": "2023-08-15T13:04:04.203831+00:00",
-  "LastUpdate_Achievements": "2023-08-15T13:07:39.8797836+00:00"
+  "LastUpdate_Ratings": "2023-08-15T14:01:11.47505+00:00",
+  "LastUpdate_Achievements": "2023-08-15T14:04:49.2471091+00:00"
 }

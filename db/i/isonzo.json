@@ -778,9 +778,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6650,
+  "EOS_Progressed": 6651,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -4518,6 +4518,11 @@
       "Time": "2023-08-15T12:07:42.1312466+00:00",
       "NumProgressed": 6650,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-08-15T14:06:10.6154387+00:00",
+      "NumProgressed": 6651,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -4569,7 +4574,7 @@
       "Name": "Compagnia della Morte",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ISONZO_ACH_CONRAD_VON_HOTZENSOCKS",
@@ -4617,7 +4622,7 @@
       "Name": "Donatello",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 1396
+      "UsersEstimate": 1397
     },
     {
       "ID": "ISONZO_ACH_DROP_AND_GIVE_ME_20",
@@ -4625,7 +4630,7 @@
       "Name": "Drop and Give Me 20",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ISONZO_ACH_FAREWELL_TO_ARMS",
@@ -4641,7 +4646,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 2194
+      "UsersEstimate": 2195
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -4649,7 +4654,7 @@
       "Name": "Generalissimo",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "ISONZO_ACH_INSUBORDINATION",
@@ -4681,7 +4686,7 @@
       "Name": "Machiavelli",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "ISONZO_ACH_MALPRACTICE",
@@ -4745,7 +4750,7 @@
       "Name": "Rome Wasn\u0027t Built In A Day",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ISONZO_ACH_SACRO_EGOISMO",
@@ -4769,7 +4774,7 @@
       "Name": "Shaken, Not Stirred",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "ISONZO_ACH_SILVER_LINING",
@@ -4833,7 +4838,7 @@
       "Name": "The Show Must Go On",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "ISONZO_ACH_THUS_WITH_A_KISS",
@@ -4841,7 +4846,7 @@
       "Name": "Thus With A Kiss",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "ISONZO_ACH_TOSCA",
@@ -4849,7 +4854,7 @@
       "Name": "Tosca",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "ISONZO_ACH_TUTTI_EROI",
@@ -4881,14 +4886,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 3524
+      "UsersEstimate": 3525
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6650,
+      "Progressed": 6651,
       "Completed": 8
     }
   ],
@@ -4896,8 +4901,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-08-10T01:59:14.1654715+00:00",
-  "LastChanged_Achievements": "2023-08-15T13:09:10.385403+00:00",
+  "LastChanged_Achievements": "2023-08-15T14:06:10.6154381+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:23.8738209+00:00",
-  "LastUpdate_Ratings": "2023-08-15T13:01:48.7785815+00:00",
-  "LastUpdate_Achievements": "2023-08-15T13:09:10.385452+00:00"
+  "LastUpdate_Ratings": "2023-08-15T13:58:50.9734432+00:00",
+  "LastUpdate_Achievements": "2023-08-15T14:06:10.6155043+00:00"
 }

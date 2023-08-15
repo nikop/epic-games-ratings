@@ -39,8 +39,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Deadly Venom | 0.80% | ~174 |
 | Source of Flying Daggers | 0.70% | ~4,987 |
 | Iron Money | 0.70% | ~4,987 |
+| Legendary Talismans of Wuxing | 0.70% | ~4,987 |
 | A Touch of Acumen | 0.70% | ~152 |
-| Legendary Talismans of Wuxing | 0.60% | ~4,275 |
 | Prodigal Child | 0.60% | ~4,275 |
 | The 36th Chamber of Kung-Fu | 0.60% | ~4,275 |
 | Sword Stained With Blood | 0.60% | ~4,275 |

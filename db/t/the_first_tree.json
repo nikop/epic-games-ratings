@@ -244,9 +244,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 34903,
+  "EOS_Progressed": 34905,
   "EOS_Completed": 106,
-  "EOS_NewPlayers": 284,
+  "EOS_NewPlayers": 286,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -10979,6 +10979,11 @@
       "Time": "2023-08-15T12:07:03.557846+00:00",
       "NumProgressed": 34903,
       "NumCompleted": 106
+    },
+    {
+      "Time": "2023-08-15T14:05:40.5865801+00:00",
+      "NumProgressed": 34905,
+      "NumCompleted": 106
     }
   ],
   "TotalAchievements": 14,
@@ -11078,7 +11083,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 26875
+      "UsersEstimate": 26877
     },
     {
       "ID": "roots",
@@ -11101,15 +11106,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 34903,
+      "Progressed": 34905,
       "Completed": 106
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-07-24T04:01:31.3679912+00:00",
-  "LastChanged_Achievements": "2023-08-15T13:08:40.7801726+00:00",
+  "LastChanged_Achievements": "2023-08-15T14:05:40.5865795+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:25.8798137+00:00",
-  "LastUpdate_Ratings": "2023-08-15T13:00:37.4478819+00:00",
-  "LastUpdate_Achievements": "2023-08-15T13:08:40.780231+00:00"
+  "LastUpdate_Ratings": "2023-08-15T13:57:38.912746+00:00",
+  "LastUpdate_Achievements": "2023-08-15T14:05:40.5866688+00:00"
 }

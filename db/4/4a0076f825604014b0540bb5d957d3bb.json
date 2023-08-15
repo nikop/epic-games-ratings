@@ -314,9 +314,9 @@
       "ID": "CgkInO_K3eIdEAIQBg",
       "SetID": "6bj96in",
       "Name": "BACK TO THE FUTURE",
-      "Percentage": 63,
+      "Percentage": 65,
       "XP": 40,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "CgkInO_K3eIdEAIQBw",
@@ -489,8 +489,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-08-15T13:08:12.3813969+00:00",
+  "LastChanged_Achievements": "2023-08-15T14:05:11.9924878+00:00",
   "LastUpdate_AppInfo": "2023-08-09T15:57:03.9650638+00:00",
-  "LastUpdate_Ratings": "2023-08-15T13:00:58.8235816+00:00",
-  "LastUpdate_Achievements": "2023-08-15T13:08:12.3814139+00:00"
+  "LastUpdate_Ratings": "2023-08-15T13:57:59.5663655+00:00",
+  "LastUpdate_Achievements": "2023-08-15T14:05:11.9925093+00:00"
 }

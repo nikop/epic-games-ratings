@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 263,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewPlayers": 67,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1269,7 +1269,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 21439,
+  "EOS_Progressed": 21442,
   "EOS_Completed": 44,
   "EOS_NewPlayers": 593,
   "EOS_NewCompleters": 2,
@@ -13694,6 +13694,11 @@
       "Time": "2023-08-15T13:06:04.3560542+00:00",
       "NumProgressed": 21439,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-08-15T14:03:04.4850851+00:00",
+      "NumProgressed": 21442,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 22,
@@ -13721,7 +13726,7 @@
       "Name": "We Do Not Sow",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1286
+      "UsersEstimate": 1287
     },
     {
       "ID": "1018",
@@ -13729,7 +13734,7 @@
       "Name": "Unbowed, Unbent, Unbroken",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 1286
+      "UsersEstimate": 1287
     },
     {
       "ID": "1019",
@@ -13753,7 +13758,7 @@
       "Name": "Hear me Roar!",
       "Percentage": 6,
       "XP": 65,
-      "UsersEstimate": 1286
+      "UsersEstimate": 1287
     },
     {
       "ID": "1022",
@@ -13761,7 +13766,7 @@
       "Name": "Defender of the Wall",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 1286
+      "UsersEstimate": 1287
     },
     {
       "ID": "1023",
@@ -13809,7 +13814,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3859
+      "UsersEstimate": 3860
     },
     {
       "ID": "1029",
@@ -13833,7 +13838,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3001
+      "UsersEstimate": 3002
     },
     {
       "ID": "1032",
@@ -13841,7 +13846,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 8576
+      "UsersEstimate": 8577
     },
     {
       "ID": "1033",
@@ -13880,15 +13885,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 21439,
+      "Progressed": 21442,
       "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-08-02T00:02:09.7226533+00:00",
-  "LastChanged_Achievements": "2023-08-15T13:06:04.3560537+00:00",
+  "LastChanged_Achievements": "2023-08-15T14:03:04.4850842+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:21.6201969+00:00",
-  "LastUpdate_Ratings": "2023-08-15T13:00:29.6519327+00:00",
-  "LastUpdate_Achievements": "2023-08-15T13:06:04.3561283+00:00"
+  "LastUpdate_Ratings": "2023-08-15T13:57:29.0409218+00:00",
+  "LastUpdate_Achievements": "2023-08-15T14:03:04.4851841+00:00"
 }

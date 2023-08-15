@@ -172,9 +172,9 @@
       "ID": "SG_AGAINSTALLODDS",
       "SetID": "bj5g0n4",
       "Name": "Against All Odds",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "SG_ALLTHEHELPYOUNEED",
@@ -220,9 +220,9 @@
       "ID": "SG_CUNNING",
       "SetID": "bj5g0n4",
       "Name": "Cunning",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SG_ENDOFTHEROAD",
@@ -364,9 +364,9 @@
       "ID": "SG_THEANSWERISYOU",
       "SetID": "bj5g0n4",
       "Name": "The Answer Is You",
-      "Percentage": 6,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "SG_THECHOICEISYOURS",
@@ -459,8 +459,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-08-15T13:06:17.4751461+00:00",
+  "LastChanged_Achievements": "2023-08-15T14:03:16.9962743+00:00",
   "LastUpdate_AppInfo": "2023-08-10T07:57:00.7529969+00:00",
-  "LastUpdate_Ratings": "2023-08-15T13:00:18.9155353+00:00",
-  "LastUpdate_Achievements": "2023-08-15T13:06:17.4751697+00:00"
+  "LastUpdate_Ratings": "2023-08-15T13:57:18.086858+00:00",
+  "LastUpdate_Achievements": "2023-08-15T14:03:16.9963103+00:00"
 }

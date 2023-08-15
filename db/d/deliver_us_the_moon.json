@@ -2,7 +2,7 @@
   "ID": "34f5834b0c404ed09b54af0b5f976c5d",
   "Name": "Deliver Us The Moon",
   "ProductSlug": "deliver-us-the-moon",
-  "Ranking_Rating": 314,
+  "Ranking_Rating": 298,
   "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 544,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.64,
+  "Rating": 4.65,
   "NumberOfRatings": 24,
   "RatingHistory": [
     {
@@ -155,6 +155,12 @@
       "Rating": 4.64,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-08-15T14:01:23.0707651+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -173,8 +179,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:05.1274339+00:00",
   "FirstSeenRating": "2022-08-21T07:01:44.7037763+00:00",
-  "LastChanged": "2023-07-01T07:00:49.0398537+00:00",
+  "LastChanged": "2023-08-15T14:01:23.0707648+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:50.8022751+00:00",
-  "LastUpdate_Ratings": "2023-08-15T13:04:15.4060489+00:00",
-  "LastUpdate_Achievements": "2023-08-15T13:05:14.9428219+00:00"
+  "LastUpdate_Ratings": "2023-08-15T14:01:23.0707653+00:00",
+  "LastUpdate_Achievements": "2023-08-15T14:02:25.9345481+00:00"
 }

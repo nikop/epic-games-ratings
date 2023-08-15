@@ -554,23 +554,29 @@
       "Rating": 4.5,
       "NumberOfAwards": 215,
       "NumberOfAwardsMax": 215
+    },
+    {
+      "Time": "2023-08-15T14:00:50.2663607+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 216,
+      "NumberOfAwardsMax": 216
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 215,
-  "NumberOfAwardsMax": 215,
+  "NumberOfAwards": 216,
+  "NumberOfAwardsMax": 216,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 215
+      "Count": 216
     }
   ],
-  "EOS_Progressed": 465292,
+  "EOS_Progressed": 465295,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 517,
+  "EOS_NewPlayers": 516,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12723,6 +12729,11 @@
       "Time": "2023-08-15T13:08:17.4488411+00:00",
       "NumProgressed": 465292,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-08-15T14:05:17.5868005+00:00",
+      "NumProgressed": 465295,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 79,
@@ -13365,21 +13376,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 9226,
+      "Progressed": 9229,
       "Completed": 2355
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 465292,
+      "Progressed": 465295,
       "Completed": 17
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
-  "LastChanged": "2023-08-11T15:01:05.19941+00:00",
-  "LastChanged_Achievements": "2023-08-15T13:08:17.4488405+00:00",
+  "LastChanged": "2023-08-15T14:00:50.2663605+00:00",
+  "LastChanged_Achievements": "2023-08-15T14:05:17.5867994+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:04.9098517+00:00",
-  "LastUpdate_Ratings": "2023-08-15T13:03:41.3049074+00:00",
-  "LastUpdate_Achievements": "2023-08-15T13:08:17.4489718+00:00"
+  "LastUpdate_Ratings": "2023-08-15T14:00:50.2663609+00:00",
+  "LastUpdate_Achievements": "2023-08-15T14:05:17.5869728+00:00"
 }

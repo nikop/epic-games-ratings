@@ -554,9 +554,9 @@
       "ID": "Butterfly_eats_Caterpillar_in_007",
       "SetID": "6od1ndi",
       "Name": "ParaPara!",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 35,
-      "UsersEstimate": 75
+      "UsersEstimate": 77
     },
     {
       "ID": "Eliminated_3_Mask_Men_in_009",
@@ -650,17 +650,17 @@
       "ID": "Level_completed_009_007",
       "SetID": "6od1ndi",
       "Name": "Onk Boga IX",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 35,
-      "UsersEstimate": 75
+      "UsersEstimate": 77
     },
     {
       "ID": "Level_completed_010_010",
       "SetID": "6od1ndi",
       "Name": "AKRE!",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 60,
-      "UsersEstimate": 75
+      "UsersEstimate": 77
     },
     {
       "ID": "Monkey_IQ_test_passed_in_004",
@@ -707,8 +707,8 @@
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-08-15T13:07:22.07232+00:00",
+  "LastChanged_Achievements": "2023-08-15T14:04:31.204088+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:50.5819901+00:00",
-  "LastUpdate_Ratings": "2023-08-15T13:04:13.2951961+00:00",
-  "LastUpdate_Achievements": "2023-08-15T13:07:22.0723384+00:00"
+  "LastUpdate_Ratings": "2023-08-15T14:01:20.7262413+00:00",
+  "LastUpdate_Achievements": "2023-08-15T14:04:31.2041114+00:00"
 }

@@ -52,7 +52,7 @@
 | GYM professional | 37.00% | ~93 |
 | The die is cast | 37.00% | ~93 |
 | Seashell hunter | 35.00% | ~88 |
-| Gang wrangler | 33.00% | ~83 |
+| Gang wrangler | 34.00% | ~86 |
 | Problems of cyborgs | 33.00% | ~83 |
 | Undercover robot | 33.00% | ~83 |
 | Absolute Champion! | 32.00% | ~81 |
