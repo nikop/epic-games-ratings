@@ -14,7 +14,7 @@
 | I Believe I Can Fly | 48.00% | ~123 |
 | Early Survivor | 42.00% | ~87 |
 | No Diggity | 41.00% | ~85 |
-| Amateur Survivor | 31.00% | ~64 |
+| Amateur Survivor | 32.00% | ~66 |
 | 10K | 30.00% | ~77 |
 | Bouncemato | 30.00% | ~62 |
 | 15K | 28.00% | ~72 |

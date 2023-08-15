@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 51,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2020-11-12T14:00:00+00:00",
     "PcReleaseDate": "2020-11-12T14:00:00+00:00",
@@ -707,7 +707,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 28137,
+  "EOS_Progressed": 28138,
   "EOS_Completed": 1325,
   "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 4,
@@ -4372,6 +4372,11 @@
       "Time": "2023-08-14T17:04:24.3582269+00:00",
       "NumProgressed": 28137,
       "NumCompleted": 1325
+    },
+    {
+      "Time": "2023-08-15T00:04:22.460695+00:00",
+      "NumProgressed": 28138,
+      "NumCompleted": 1325
     }
   ],
   "TotalAchievements": 30,
@@ -4439,7 +4444,7 @@
       "Name": "Got to Catch a Lot",
       "Percentage": 66,
       "XP": 50,
-      "UsersEstimate": 18570
+      "UsersEstimate": 18571
     },
     {
       "ID": "ACH_CATCH_QUARTER",
@@ -4447,7 +4452,7 @@
       "Name": "Got to Catch a Few",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 21665
+      "UsersEstimate": 21666
     },
     {
       "ID": "ACH_CHEESE_SCAN",
@@ -4479,7 +4484,7 @@
       "Name": "Everybody Gets One",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 27293
+      "UsersEstimate": 27294
     },
     {
       "ID": "ACH_FULL_TRANSFORM",
@@ -4535,7 +4540,7 @@
       "Name": "Vacation\u0027s End",
       "Percentage": 52,
       "XP": 100,
-      "UsersEstimate": 14631
+      "UsersEstimate": 14632
     },
     {
       "ID": "ACH_PUZZLE",
@@ -4575,7 +4580,7 @@
       "Name": "Gone Home",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 26167
+      "UsersEstimate": 26168
     },
     {
       "ID": "ACH_STEAL_DIARY",
@@ -4599,7 +4604,7 @@
       "Name": "Midnight Snak",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 10129
+      "UsersEstimate": 10130
     },
     {
       "ID": "ACH_TRAP_TWO",
@@ -4607,7 +4612,7 @@
       "Name": "Double Trapper",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 21103
+      "UsersEstimate": 21104
     },
     {
       "ID": "ACH_WATERFALL",
@@ -4615,22 +4620,22 @@
       "Name": "Wonderfalls",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 24479
+      "UsersEstimate": 24480
     }
   ],
   "AchievementSets": [
     {
       "ID": "2m0copd",
       "IsBase": true,
-      "Progressed": 28137,
+      "Progressed": 28138,
       "Completed": 1325
     }
   ],
   "FirstSeen": "2022-07-22T20:29:14.9687777+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.3441921+00:00",
   "LastChanged": "2023-08-05T21:00:49.1564319+00:00",
-  "LastChanged_Achievements": "2023-08-14T23:04:13.0877834+00:00",
+  "LastChanged_Achievements": "2023-08-15T00:04:22.4606944+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:54.9305663+00:00",
-  "LastUpdate_Ratings": "2023-08-14T22:57:02.695677+00:00",
-  "LastUpdate_Achievements": "2023-08-14T23:04:13.0878311+00:00"
+  "LastUpdate_Ratings": "2023-08-14T23:57:03.6514186+00:00",
+  "LastUpdate_Achievements": "2023-08-15T00:04:22.4607758+00:00"
 }

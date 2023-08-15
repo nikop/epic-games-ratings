@@ -4,7 +4,7 @@
   "ProductSlug": "no-more-room-in-hell-2-ea1b5c",
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 356,
+  "Ranking_EOS_NewPlayers": 355,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -36,8 +36,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:48:48.9622135+00:00",
-  "LastChanged_Achievements": "2023-08-14T23:04:42.4639729+00:00",
+  "LastChanged_Achievements": "2023-08-15T00:04:56.8821919+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:36.4327397+00:00",
-  "LastUpdate_Ratings": "2023-08-14T22:59:46.2905566+00:00",
-  "LastUpdate_Achievements": "2023-08-14T23:04:42.4639772+00:00"
+  "LastUpdate_Ratings": "2023-08-15T00:00:19.6486616+00:00",
+  "LastUpdate_Achievements": "2023-08-15T00:04:56.882195+00:00"
 }

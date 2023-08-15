@@ -4,7 +4,7 @@
   "ProductSlug": "roccos-island-c4194b",
   "Ranking_EOS_Progress": 478,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 356,
+  "Ranking_EOS_NewPlayers": 355,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-04-08T07:30:00+00:00",
@@ -375,8 +375,8 @@
   "FirstSeenRating": "2023-03-31T05:58:31.3645779+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:18.3748872+00:00",
   "LastChanged": "2023-03-31T05:58:31.364578+00:00",
-  "LastChanged_Achievements": "2023-08-14T23:03:49.3803669+00:00",
+  "LastChanged_Achievements": "2023-08-15T00:03:44.5838241+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:11.717549+00:00",
-  "LastUpdate_Ratings": "2023-08-14T23:00:16.1210634+00:00",
-  "LastUpdate_Achievements": "2023-08-14T23:03:49.3804277+00:00"
+  "LastUpdate_Ratings": "2023-08-15T00:00:57.164055+00:00",
+  "LastUpdate_Achievements": "2023-08-15T00:03:44.5838672+00:00"
 }

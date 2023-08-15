@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 229663,
+  "EOS_Progressed": 229665,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 541,
+  "EOS_NewPlayers": 539,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -12473,6 +12473,11 @@
       "Time": "2023-08-14T23:03:23.4795539+00:00",
       "NumProgressed": 229663,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-08-15T00:03:14.101772+00:00",
+      "NumProgressed": 229665,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 34,
@@ -12524,7 +12529,7 @@
       "Name": "CHALLENGE THE WORLD",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 16076
+      "UsersEstimate": 16077
     },
     {
       "ID": "DRAGOON",
@@ -12652,7 +12657,7 @@
       "Name": "PHOTOFINISH",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 16076
+      "UsersEstimate": 16077
     },
     {
       "ID": "PILEUPTROPHIES",
@@ -12748,22 +12753,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 94162
+      "UsersEstimate": 94163
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 229663,
+      "Progressed": 229665,
       "Completed": 46
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-08-14T23:03:23.4795532+00:00",
+  "LastChanged_Achievements": "2023-08-15T00:03:14.1017713+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:00.8930351+00:00",
-  "LastUpdate_Ratings": "2023-08-14T22:59:17.4726095+00:00",
-  "LastUpdate_Achievements": "2023-08-14T23:03:23.4796553+00:00"
+  "LastUpdate_Ratings": "2023-08-14T23:59:43.1423299+00:00",
+  "LastUpdate_Achievements": "2023-08-15T00:03:14.1019507+00:00"
 }

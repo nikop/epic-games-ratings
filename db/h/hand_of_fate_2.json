@@ -862,9 +862,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 660806,
+  "EOS_Progressed": 660809,
   "EOS_Completed": 168,
-  "EOS_NewPlayers": 317,
+  "EOS_NewPlayers": 318,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -11862,6 +11862,11 @@
       "Time": "2023-08-14T23:04:50.9480553+00:00",
       "NumProgressed": 660806,
       "NumCompleted": 168
+    },
+    {
+      "Time": "2023-08-15T00:05:07.2906137+00:00",
+      "NumProgressed": 660809,
+      "NumCompleted": 168
     }
   ],
   "TotalAchievements": 48,
@@ -11873,7 +11878,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 475780
+      "UsersEstimate": 475782
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -11881,7 +11886,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 383267
+      "UsersEstimate": 383269
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -11889,7 +11894,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 151985
+      "UsersEstimate": 151986
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -11897,7 +11902,7 @@
       "Name": "Adventurer",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 39648
+      "UsersEstimate": 39649
     },
     {
       "ID": "Achievement_05_Protector_of_the_Realm",
@@ -11913,7 +11918,7 @@
       "Name": "Knight",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 52864
+      "UsersEstimate": 52865
     },
     {
       "ID": "Achievement_07_Dungeon_Master",
@@ -11945,7 +11950,7 @@
       "Name": "Long Shot",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 46256
+      "UsersEstimate": 46257
     },
     {
       "ID": "Achievement_11_Grifter",
@@ -12009,7 +12014,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 151985
+      "UsersEstimate": 151986
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -12025,7 +12030,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 112337
+      "UsersEstimate": 112338
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -12033,7 +12038,7 @@
       "Name": "Empire\u0027s Bane",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 39648
+      "UsersEstimate": 39649
     },
     {
       "ID": "Achievement_22_Cure_for_Corruption",
@@ -12041,7 +12046,7 @@
       "Name": "Cure for Corruption",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 52864
+      "UsersEstimate": 52865
     },
     {
       "ID": "Achievement_23_Smithy",
@@ -12097,7 +12102,7 @@
       "Name": "Focused",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 52864
+      "UsersEstimate": 52865
     },
     {
       "ID": "Achievement_30_Devil_Dice",
@@ -12105,7 +12110,7 @@
       "Name": "Devil Dice",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 46256
+      "UsersEstimate": 46257
     },
     {
       "ID": "Achievement_31_Master_of_Arms",
@@ -12169,7 +12174,7 @@
       "Name": "Flurry of Fury",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 52864
+      "UsersEstimate": 52865
     },
     {
       "ID": "Achievement_39_Stuffed_Potato",
@@ -12185,7 +12190,7 @@
       "Name": "Broken Heart",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 46256
+      "UsersEstimate": 46257
     },
     {
       "ID": "Achievement_41_Draknars_Bane",
@@ -12256,15 +12261,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 660806,
+      "Progressed": 660809,
       "Completed": 168
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-07-06T22:58:14.2890682+00:00",
-  "LastChanged_Achievements": "2023-08-14T23:04:50.9480548+00:00",
+  "LastChanged_Achievements": "2023-08-15T00:05:07.2906127+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:21.9809601+00:00",
-  "LastUpdate_Ratings": "2023-08-14T22:58:42.3226299+00:00",
-  "LastUpdate_Achievements": "2023-08-14T23:04:50.9481704+00:00"
+  "LastUpdate_Ratings": "2023-08-14T23:58:59.6699758+00:00",
+  "LastUpdate_Achievements": "2023-08-15T00:05:07.2908058+00:00"
 }

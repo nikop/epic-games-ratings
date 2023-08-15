@@ -13,9 +13,9 @@
 | Fitness professional | 78.00% | ~196 |
 | Depressed visitor | 77.00% | ~193 |
 | First defeat | 76.00% | ~191 |
+| Neurotrainer – power gainer! | 76.00% | ~191 |
 | Employee of the week | 76.00% | ~191 |
 | Your own amateur gym | 75.00% | ~188 |
-| Neurotrainer – power gainer! | 75.00% | ~188 |
 | Run K, run! | 73.00% | ~183 |
 | Fighting is cool | 71.00% | ~178 |
 | Hello, world! | 70.00% | ~176 |

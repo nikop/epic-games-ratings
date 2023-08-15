@@ -6,18 +6,18 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Peak Performance | 55.00% | ~3,654 |
-| Tutti Eroi! | 55.00% | ~3,654 |
-| You Shall Not Pass | 53.00% | ~3,521 |
-| Avanti Savoia! | 47.00% | ~3,123 |
+| Peak Performance | 55.00% | ~3,655 |
+| Tutti Eroi! | 55.00% | ~3,655 |
+| You Shall Not Pass | 53.00% | ~3,522 |
+| Avanti Savoia! | 47.00% | ~3,124 |
 | Mamma Mia! | 38.00% | ~2,525 |
-| Conrad von Hotzensocks | 36.00% | ~2,392 |
+| Conrad von Hotzensocks | 36.00% | ~2,393 |
 | Gabriele D'Annunzio | 33.00% | ~2,193 |
-| Silver Lining | 30.00% | ~1,993 |
-| Aurelio Baruzzi | 23.00% | ~1,528 |
+| Silver Lining | 30.00% | ~1,994 |
+| Aurelio Baruzzi | 23.00% | ~1,529 |
 | Decimation | 22.00% | ~1,462 |
 | Veni Vidi Vici | 22.00% | ~1,462 |
-| Donatello | 21.00% | ~1,395 |
+| Donatello | 21.00% | ~1,396 |
 | Insubordination | 20.00% | ~1,329 |
 | The Italian Job | 20.00% | ~1,329 |
 | Ragazzi del '99 | 18.00% | ~1,196 |
@@ -28,11 +28,11 @@ Number of Ratings: 98  (23.09.2022)
 | Machiavelli | 13.00% | ~864 |
 | Shaken, Not Stirred | 13.00% | ~864 |
 | Thus With A Kiss | 13.00% | ~864 |
-| Die Bosniaken Kommen! | 12.00% | ~797 |
+| Die Bosniaken Kommen! | 12.00% | ~798 |
 | Dante's Inferno | 11.00% | ~731 |
 | The Devil's Paintbrush | 11.00% | ~731 |
-| I Have the High Ground | 10.00% | ~664 |
-| Millenial | 10.00% | ~664 |
+| I Have the High Ground | 10.00% | ~665 |
+| Millenial | 10.00% | ~665 |
 | The Show Must Go On | 9.00% | ~598 |
 | Tosca | 9.00% | ~598 |
 | 12th Bottle of the Isonzo | 6.00% | ~399 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~27 |
 | Can I Go Home Now? | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,644 (Ranked 134)  
+Progressed: 6,646 (Ranked 134)  
 Completed: 8 (0.12%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,6 +164,7 @@ Completed: 8 (0.12%) (Ranked 196)
 | 2023-08-12 | 6,627 | 8 |
 | 2023-08-13 | 6,638 | 8 |
 | 2023-08-14 | 6,644 | 8 |
+| 2023-08-15 | 6,646 | 8 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 438)  
 Sum: 266 (Ranked 351)  

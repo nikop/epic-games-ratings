@@ -6,26 +6,26 @@ Number of Ratings: 425  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Everybody Gets One | 97.00% | ~27,293 |
-| Gone Home | 93.00% | ~26,167 |
-| Wonderfalls | 87.00% | ~24,479 |
-| Got to Catch a Few | 77.00% | ~21,665 |
-| Double Trapper | 75.00% | ~21,103 |
+| Everybody Gets One | 97.00% | ~27,294 |
+| Gone Home | 93.00% | ~26,168 |
+| Wonderfalls | 87.00% | ~24,480 |
+| Got to Catch a Few | 77.00% | ~21,666 |
+| Double Trapper | 75.00% | ~21,104 |
 | I'm Stuffed | 69.00% | ~19,415 |
-| Got to Catch a Lot | 66.00% | ~18,570 |
+| Got to Catch a Lot | 66.00% | ~18,571 |
 | Talkin' 'Bout Bugsnax | 61.00% | ~17,164 |
 | In the Arms of the Gramble | 59.00% | ~16,601 |
 | Know Thy Neighbor | 59.00% | ~16,601 |
 | Launch Party | 56.00% | ~15,757 |
 | Perf Dirt | 56.00% | ~15,757 |
-| Vacation's End | 52.00% | ~14,631 |
+| Vacation's End | 52.00% | ~14,632 |
 | Bossy Bugs | 46.00% | ~12,943 |
 | Survivor | 45.00% | ~12,662 |
 | That Reminds Me of a Puzzle | 43.00% | ~12,099 |
 | Sidetracked | 40.00% | ~11,255 |
 | Film Buff | 38.00% | ~10,692 |
 | Combo Meal | 38.00% | ~10,692 |
-| Midnight Snak | 36.00% | ~10,129 |
+| Midnight Snak | 36.00% | ~10,130 |
 | Candid Cryptid | 35.00% | ~9,848 |
 | Got to Catch Them All | 32.00% | ~9,004 |
 | Deep Impact | 23.00% | ~6,472 |
@@ -37,7 +37,7 @@ Number of Ratings: 425  (23.09.2022)
 | Live Laugh Hut | 8.00% | ~2,251 |
 | Dapper Capper | 6.00% | ~1,688 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,137 (Ranked 99)  
+Progressed: 28,138 (Ranked 99)  
 Completed: 1,325 (4.71%) (Ranked 51)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,6 +154,7 @@ Completed: 1,325 (4.71%) (Ranked 51)
 | 2023-08-12 | 28,127 | 1,324 |
 | 2023-08-13 | 28,133 | 1,324 |
 | 2023-08-14 | 28,137 | 1,325 |
+| 2023-08-15 | 28,138 | 1,325 |
 ## Awards
 Max (Amazing Storytelling): 38  (Ranked 429)  
 Sum: 328 (Ranked 333)  

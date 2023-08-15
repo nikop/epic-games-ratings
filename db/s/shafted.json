@@ -4,7 +4,7 @@
   "ProductSlug": "shafted-0a8b60",
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 356,
+  "Ranking_EOS_NewPlayers": 355,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-06-30T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-12T07:57:53.1348608+00:00",
-  "LastUpdate_Ratings": "2023-08-14T23:00:37.9106015+00:00",
-  "LastUpdate_Achievements": "2023-08-14T23:05:54.4172868+00:00"
+  "LastUpdate_Ratings": "2023-08-15T00:01:30.0103324+00:00",
+  "LastUpdate_Achievements": "2023-08-15T00:06:23.0787917+00:00"
 }

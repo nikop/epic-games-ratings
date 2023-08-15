@@ -27,7 +27,7 @@ Rating: 4.23 (Ranked 837)
 | Dead Again | 18.00% | ~355 |
 | Full Arsenal | 17.00% | ~336 |
 | Can't Trust Banks | 15.00% | ~296 |
-| Mommy Dearest | 13.00% | ~257 |
+| Mommy Dearest | 14.00% | ~276 |
 | Bad Dog | 13.00% | ~257 |
 | Where It All Began | 13.00% | ~257 |
 | Risk Tolerant | 13.00% | ~257 |

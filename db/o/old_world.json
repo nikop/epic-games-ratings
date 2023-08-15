@@ -1601,7 +1601,7 @@
   ],
   "EOS_Progressed": 13412,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -11806,9 +11806,9 @@
       "ID": "ACHIEVEMENT_VICTORY_CONQUEST",
       "SetID": "7l38kb8",
       "Name": "Conquest Victory",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 40
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_DOUBLE",
@@ -12060,8 +12060,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-12T03:59:31.9297462+00:00",
-  "LastChanged_Achievements": "2023-08-14T23:04:45.0115117+00:00",
+  "LastChanged_Achievements": "2023-08-15T00:05:00.2395548+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:38.1291138+00:00",
-  "LastUpdate_Ratings": "2023-08-14T22:59:00.3805804+00:00",
-  "LastUpdate_Achievements": "2023-08-14T23:04:45.012477+00:00"
+  "LastUpdate_Ratings": "2023-08-14T23:59:18.8261948+00:00",
+  "LastUpdate_Achievements": "2023-08-15T00:05:00.2406356+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "the-evil-within-2",
   "Ranking_EOS_Progress": 371,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
@@ -19,7 +19,7 @@
   "Tags": [],
   "EOS_Progressed": 45,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -501,9 +501,9 @@
       "ID": "ACHIEVEMENT_34",
       "SetID": "b36c5kb",
       "Name": "Chatting With Kidman",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -652,8 +652,8 @@
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-08-14T23:04:13.7062061+00:00",
+  "LastChanged_Achievements": "2023-08-15T00:04:23.2578001+00:00",
   "LastUpdate_AppInfo": "2023-08-09T15:57:03.4224426+00:00",
-  "LastUpdate_Ratings": "2023-08-14T22:57:33.6403041+00:00",
-  "LastUpdate_Achievements": "2023-08-14T23:04:13.7062581+00:00"
+  "LastUpdate_Ratings": "2023-08-14T23:57:40.0714754+00:00",
+  "LastUpdate_Achievements": "2023-08-15T00:04:23.2578551+00:00"
 }

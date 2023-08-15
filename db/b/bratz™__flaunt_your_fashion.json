@@ -160,9 +160,9 @@
       "ID": "10",
       "SetID": "41h3j82",
       "Name": "Born to Win",
-      "Percentage": 33,
+      "Percentage": 35,
       "XP": 70,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "11",
@@ -248,9 +248,9 @@
       "ID": "3",
       "SetID": "41h3j82",
       "Name": "Welcome to Seoul",
-      "Percentage": 33,
+      "Percentage": 35,
       "XP": 70,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "4",
@@ -264,9 +264,9 @@
       "ID": "5",
       "SetID": "41h3j82",
       "Name": "We will need a bigger wardrobe",
-      "Percentage": 33,
+      "Percentage": 35,
       "XP": 70,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "6",
@@ -313,8 +313,8 @@
   "FirstSeenRating": "2023-03-31T05:58:31.8996546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.5108841+00:00",
   "LastChanged": "2023-03-31T05:58:31.8996547+00:00",
-  "LastChanged_Achievements": "2023-08-14T23:06:25.9588384+00:00",
+  "LastChanged_Achievements": "2023-08-15T00:06:59.4737126+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:45.3081612+00:00",
-  "LastUpdate_Ratings": "2023-08-14T22:59:54.0823167+00:00",
-  "LastUpdate_Achievements": "2023-08-14T23:06:25.9588537+00:00"
+  "LastUpdate_Ratings": "2023-08-15T00:00:28.533885+00:00",
+  "LastUpdate_Achievements": "2023-08-15T00:06:59.473736+00:00"
 }

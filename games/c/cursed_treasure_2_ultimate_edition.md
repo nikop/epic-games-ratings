@@ -21,16 +21,16 @@
 | V.I.P. Cemetery | 72.00% | ~119 |
 | Takeover | 70.00% | ~115 |
 | Woodcutter | 70.00% | ~115 |
+| Sharpshooter | 70.00% | ~115 |
 | Architect of Darkness | 70.00% | ~115 |
 | Top of the World | 69.00% | ~114 |
-| Sharpshooter | 69.00% | ~114 |
 | The Apotheosis of War | 68.00% | ~112 |
 | Stasis Alcatraz | 67.00% | ~111 |
 | Tastes Like Chicken | 63.00% | ~104 |
 | Combo Breaker | 62.00% | ~102 |
 | Thunderstorm | 62.00% | ~102 |
+| Clean Forests | 61.00% | ~101 |
 | Brilliant: Holy Mountain | 61.00% | ~101 |
-| Clean Forests | 60.00% | ~99 |
 | Lieutenant of the Evil | 56.00% | ~92 |
 | Avada Kedavra | 55.00% | ~91 |
 | Starry: Meadowshire | 55.00% | ~91 |

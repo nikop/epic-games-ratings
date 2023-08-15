@@ -2,12 +2,12 @@
   "ID": "ca8077d80493497188e0ca5bca3ebe60",
   "Name": "Sundered: Eldritch Edition",
   "ProductSlug": "sundered-eldritch-edition",
-  "Ranking_Rating": 411,
+  "Ranking_Rating": 412,
   "Ranking_Popularity": 368,
   "Ranking_PopularitySum": 429,
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 356,
+  "Ranking_EOS_NewPlayers": 355,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2017-07-28T16:00:00+00:00",
@@ -353,6 +353,6 @@
   "FirstSeen": "2022-07-22T20:32:53.2112197+00:00",
   "LastChanged": "2023-06-11T20:59:20.6266587+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:57.0890956+00:00",
-  "LastUpdate_Ratings": "2023-08-14T22:57:01.7672979+00:00",
-  "LastUpdate_Achievements": "2023-08-14T23:06:48.6068927+00:00"
+  "LastUpdate_Ratings": "2023-08-14T23:57:02.2440975+00:00",
+  "LastUpdate_Achievements": "2023-08-15T00:07:27.7689172+00:00"
 }
