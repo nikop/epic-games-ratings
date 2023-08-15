@@ -2,12 +2,12 @@
   "ID": "aa102e1c575d42868a11ac8e79af2126",
   "Name": "Partisans 1941",
   "ProductSlug": "partisans-1941",
-  "Ranking_Rating": 364,
+  "Ranking_Rating": 363,
   "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1294,
+  "EOS_Progressed": 1295,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2210,6 +2210,11 @@
       "Time": "2023-08-15T13:07:50.7438132+00:00",
       "NumProgressed": 1294,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-15T16:06:23.5590931+00:00",
+      "NumProgressed": 1295,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -2245,7 +2250,7 @@
       "Name": "The Big Bertha",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "Boy",
@@ -2325,7 +2330,7 @@
       "Name": "Game Over",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "Grenadier",
@@ -2373,7 +2378,7 @@
       "Name": "Spice It Up",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "KillAllM2",
@@ -2460,15 +2465,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1294,
+      "Progressed": 1295,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-08-15T15:05:22.258674+00:00",
+  "LastChanged_Achievements": "2023-08-15T16:06:23.5590926+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:58.2613302+00:00",
-  "LastUpdate_Ratings": "2023-08-15T15:00:52.8791127+00:00",
-  "LastUpdate_Achievements": "2023-08-15T15:05:22.2587215+00:00"
+  "LastUpdate_Ratings": "2023-08-15T16:02:26.1465611+00:00",
+  "LastUpdate_Achievements": "2023-08-15T16:06:23.5591182+00:00"
 }

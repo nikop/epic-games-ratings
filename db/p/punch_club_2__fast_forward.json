@@ -922,9 +922,9 @@
       "ID": "airpods",
       "SetID": "69co12a",
       "Name": "Now you are worthy",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 123
     },
     {
       "ID": "all_promotion_4",
@@ -954,9 +954,9 @@
       "ID": "another_world",
       "SetID": "69co12a",
       "Name": "Another world",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 78
     },
     {
       "ID": "any_stat_15",
@@ -1441,8 +1441,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-08-15T15:04:44.8812085+00:00",
+  "LastChanged_Achievements": "2023-08-15T16:05:51.5753657+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:18.7618858+00:00",
-  "LastUpdate_Ratings": "2023-08-15T14:59:03.0879757+00:00",
-  "LastUpdate_Achievements": "2023-08-15T15:04:44.8812612+00:00"
+  "LastUpdate_Ratings": "2023-08-15T15:59:40.0079166+00:00",
+  "LastUpdate_Achievements": "2023-08-15T16:05:51.5754187+00:00"
 }

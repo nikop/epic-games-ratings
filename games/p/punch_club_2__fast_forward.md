@@ -36,7 +36,7 @@
 | Legal courier | 55.00% | ~139 |
 | Extreme neuropower! | 54.00% | ~136 |
 | Escaped from a big trouble | 52.00% | ~131 |
-| Now you are worthy | 48.00% | ~121 |
+| Now you are worthy | 49.00% | ~123 |
 | Guiding on the right path | 46.00% | ~116 |
 | No blades in the gym | 45.00% | ~113 |
 | Fight is life | 44.00% | ~111 |
@@ -58,13 +58,13 @@
 | Undercover robot | 33.00% | ~83 |
 | Careerist | 32.00% | ~81 |
 | Trap disarmed | 31.00% | ~78 |
+| Another world | 31.00% | ~78 |
 | The lonesome road | 31.00% | ~78 |
 | Key memories | 31.00% | ~78 |
 | Not little hacker | 31.00% | ~78 |
 | The last bell ring | 31.00% | ~78 |
 | Anyone can resist | 31.00% | ~78 |
 | The heart of the Resistance | 31.00% | ~78 |
-| Another world | 30.00% | ~76 |
 | Keep nature safe | 30.00% | ~76 |
 | Family comes first | 30.00% | ~76 |
 | Silver’s past | 27.00% | ~68 |

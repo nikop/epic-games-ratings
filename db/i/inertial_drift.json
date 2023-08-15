@@ -2,9 +2,9 @@
   "ID": "804924cf93664a5db337e0aaee5c595e",
   "Name": "Inertial Drift",
   "ProductSlug": "inertial-drift",
-  "Ranking_EOS_Progress": 544,
+  "Ranking_EOS_Progress": 545,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewPlayers": 359,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-10-05T15:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:30.1556172+00:00",
   "LastChanged": "2023-03-31T05:57:30.1556173+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:24.1200465+00:00",
-  "LastUpdate_Ratings": "2023-08-15T14:59:11.0221936+00:00",
-  "LastUpdate_Achievements": "2023-08-15T15:05:52.8916959+00:00"
+  "LastUpdate_Ratings": "2023-08-15T15:59:50.9975162+00:00",
+  "LastUpdate_Achievements": "2023-08-15T16:07:01.025106+00:00"
 }

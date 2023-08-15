@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 60885,
+  "EOS_Progressed": 60886,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 368,
+  "EOS_NewPlayers": 364,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -11317,6 +11317,11 @@
       "Time": "2023-08-15T15:05:48.1920526+00:00",
       "NumProgressed": 60885,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-15T16:06:55.6985806+00:00",
+      "NumProgressed": 60886,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -11328,7 +11333,7 @@
       "Name": "Follow the Light",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 22527
+      "UsersEstimate": 22528
     },
     {
       "ID": "02",
@@ -11432,7 +11437,7 @@
       "Name": "Gatekeeper",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6088
+      "UsersEstimate": 6089
     },
     {
       "ID": "15",
@@ -11440,7 +11445,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6088
+      "UsersEstimate": 6089
     },
     {
       "ID": "16",
@@ -11560,7 +11565,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6088
+      "UsersEstimate": 6089
     },
     {
       "ID": "31",
@@ -11592,7 +11597,7 @@
       "Name": "Energized!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6088
+      "UsersEstimate": 6089
     },
     {
       "ID": "35",
@@ -11863,21 +11868,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 60885,
+      "Progressed": 60886,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 24353,
+      "Progressed": 24354,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-15T15:05:48.1920522+00:00",
+  "LastChanged_Achievements": "2023-08-15T16:06:55.6985802+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:20.2881971+00:00",
-  "LastUpdate_Ratings": "2023-08-15T14:59:17.7685494+00:00",
-  "LastUpdate_Achievements": "2023-08-15T15:05:48.1921537+00:00"
+  "LastUpdate_Ratings": "2023-08-15T15:59:59.3456514+00:00",
+  "LastUpdate_Achievements": "2023-08-15T16:06:55.698693+00:00"
 }

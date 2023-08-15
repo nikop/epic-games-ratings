@@ -1,13 +1,13 @@
 # The Surge 2
 [Store](https://store.epicgames.com/en-US/p/the-surge-2-e7df70)  
 [View Rawdata](../../db/t/the_surge_2.json)  
-Rating: 4.23 (Ranked 839)  
+Rating: 4.23 (Ranked 840)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,579 |
-| Don't I Know You...? | 77.00% | ~1,520 |
-| Jailbreak | 65.00% | ~1,283 |
+| Rigged And Ready | 80.00% | ~1,580 |
+| Don't I Know You...? | 77.00% | ~1,521 |
+| Jailbreak | 65.00% | ~1,284 |
 | Suited and Booted | 39.00% | ~770 |
 | HEADSHOT! | 38.00% | ~750 |
 | Sleeping With The Fishes | 35.00% | ~691 |
@@ -24,7 +24,7 @@ Rating: 4.23 (Ranked 839)
 | Court Martial | 19.00% | ~375 |
 | Clean Cut | 19.00% | ~375 |
 | Unforeseeable Consequences | 19.00% | ~375 |
-| Dead Again | 18.00% | ~355 |
+| Dead Again | 18.00% | ~356 |
 | Full Arsenal | 17.00% | ~336 |
 | Can't Trust Banks | 15.00% | ~296 |
 | Mommy Dearest | 14.00% | ~276 |
@@ -35,7 +35,7 @@ Rating: 4.23 (Ranked 839)
 | Marked For Success | 12.00% | ~237 |
 | Sorry, Didn't See You There | 12.00% | ~237 |
 | Corrupted Beauty | 11.00% | ~217 |
-| Triplets | 10.00% | ~197 |
+| Triplets | 10.00% | ~198 |
 | Defense in Depth | 9.00% | ~178 |
 | Stimulating The Local Economy | 9.00% | ~178 |
 | A Little Banged Up | 8.00% | ~158 |
@@ -55,15 +55,15 @@ Rating: 4.23 (Ranked 839)
 | Plank of Wood | 4.00% | ~79 |
 | It Lives! It Sniffs! It Conquers! | 3.00% | ~59 |
 | Gotta Craft 'em All | 3.00% | ~59 |
-| Own Medicine | 2.00% | ~39 |
-| Three Birds With One Stone | 2.00% | ~39 |
-| Box Office Smash | 2.00% | ~39 |
-| Going Postal | 2.00% | ~39 |
-| Loot, Pillage & Craft | 2.00% | ~39 |
+| Own Medicine | 2.00% | ~40 |
+| Three Birds With One Stone | 2.00% | ~40 |
+| Box Office Smash | 2.00% | ~40 |
+| Going Postal | 2.00% | ~40 |
+| Loot, Pillage & Craft | 2.00% | ~40 |
 | Swiss Army Drone | 1.00% | ~20 |
 | The Easy Way Out | 1.00% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,974 (Ranked 169)  
+Progressed: 1,975 (Ranked 169)  
 Completed: 10 (0.51%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,6 +158,7 @@ Completed: 10 (0.51%) (Ranked 142)
 | 2023-08-10 | 1,969 | 10 |
 | 2023-08-11 | 1,972 | 10 |
 | 2023-08-13 | 1,974 | 10 |
+| 2023-08-15 | 1,975 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

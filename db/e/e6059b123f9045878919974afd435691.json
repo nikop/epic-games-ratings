@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 731,
+  "EOS_Progressed": 732,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1606,6 +1606,11 @@
       "Time": "2023-08-15T15:06:52.5186281+00:00",
       "NumProgressed": 731,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-15T16:08:38.1731301+00:00",
+      "NumProgressed": 732,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1617,7 +1622,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -1665,7 +1670,7 @@
       "Name": "Goat Whisperer",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ATK_ACHIEVEMENT_3",
@@ -1689,7 +1694,7 @@
       "Name": "Capraphobia",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -1849,7 +1854,7 @@
       "Name": "End of Rest",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "FREEM_ACHIEVEMENT_1",
@@ -1873,7 +1878,7 @@
       "Name": "Free Like Birds",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "FREE_ACHIEVEMENT_3",
@@ -1977,7 +1982,7 @@
       "Name": "Don\u0027t Turn Your Back",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
@@ -2144,14 +2149,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 731,
+      "Progressed": 732,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-08-15T15:06:52.5186277+00:00",
+  "LastChanged_Achievements": "2023-08-15T16:08:38.1731297+00:00",
   "LastUpdate_AppInfo": "2023-08-10T15:57:09.1792695+00:00",
-  "LastUpdate_Ratings": "2023-08-15T14:58:15.7800387+00:00",
-  "LastUpdate_Achievements": "2023-08-15T15:06:52.5186888+00:00"
+  "LastUpdate_Ratings": "2023-08-15T15:58:39.1298435+00:00",
+  "LastUpdate_Achievements": "2023-08-15T16:08:38.1731915+00:00"
 }

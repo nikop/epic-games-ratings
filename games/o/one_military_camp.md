@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| First Step | 52.00% | ~73 |
 | The 4 Pillars | 51.00% | ~72 |
-| First Step | 51.00% | ~72 |
 | Capitalism | 20.00% | ~28 |
+| There's something in those trees | 11.00% | ~16 |
 | Indebted | 11.00% | ~16 |
-| There's something in those trees | 10.00% | ~14 |
+| Great Producer | 10.00% | ~14 |
 | Desert Rat | 10.00% | ~14 |
-| Great Producer | 9.00% | ~13 |
+| Desert Power | 9.00% | ~13 |
 | Green Energy | 9.00% | ~13 |
-| Desert Power | 8.00% | ~11 |
+| Health Care | 7.00% | ~10 |
 | Good payer | 7.00% | ~10 |
 | Jantine: the Misfortunes of Evil | 6.00% | ~8 |
 | Perfect Soldier | 6.00% | ~8 |
-| Health Care | 6.00% | ~8 |
+| Pathfinder | 6.00% | ~8 |
+| Food Tycoon | 6.00% | ~8 |
 | Fuel Tycoon | 6.00% | ~8 |
 | Ammo Tycoon | 6.00% | ~8 |
 | Healing | 5.00% | ~7 |
-| Pathfinder | 5.00% | ~7 |
 | Self-sufficient | 5.00% | ~7 |
-| Food Tycoon | 5.00% | ~7 |
 | Medicine Tycoon | 5.00% | ~7 |
 | Supersoldier | 4.00% | ~6 |
 | Outdoor Decorator | 4.00% | ~6 |
+| Overpopulation | 4.00% | ~6 |
 | Property Bro | 4.00% | ~6 |
-| Overpopulation | 3.00% | ~4 |
 | Human Resources | 3.00% | ~4 |
 | Training Camp | 3.00% | ~4 |
 | No News is Good News | 2.00% | ~3 |

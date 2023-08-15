@@ -8,6 +8,7 @@ Rating: 4.45 (Ranked 633)
 | The Kraken Sleeps | 6.00% | ~209 |
 | Liberté | 5.00% | ~174 |
 | Meeting Resistance | 5.00% | ~174 |
+| Sharpshooter | 5.00% | ~174 |
 | Confirming Suspicions | 5.00% | ~174 |
 | Lord of War | 5.00% | ~174 |
 | As Quiet as a Mouse | 5.00% | ~174 |
@@ -17,9 +18,9 @@ Rating: 4.45 (Ranked 633)
 | Taking it back | 5.00% | ~174 |
 | Target America | 5.00% | ~174 |
 | Climbing the Ladder | 4.00% | ~139 |
-| Sharpshooter | 4.00% | ~139 |
 | Resourceful | 4.00% | ~139 |
 | Der Geist | 4.00% | ~139 |
+| Brains of the Operation | 4.00% | ~139 |
 | No Stone Unturned | 3.00% | ~104 |
 | Opposing Force | 3.00% | ~104 |
 | Organ Grinder | 3.00% | ~104 |
@@ -28,7 +29,6 @@ Rating: 4.45 (Ranked 633)
 | Explosive Efficiency | 3.00% | ~104 |
 | Close Quarters | 3.00% | ~104 |
 | Snake in the Grass | 3.00% | ~104 |
-| Brains of the Operation | 3.00% | ~104 |
 | Enemy at the Gates | 2.00% | ~70 |
 | Fields of Glory | 2.00% | ~70 |
 | Just a Flesh Wound | 2.00% | ~70 |
@@ -47,14 +47,14 @@ Rating: 4.45 (Ranked 633)
 | Strategist | 0.90% | ~31 |
 | Burn after reading | 0.90% | ~31 |
 | Sink or Swim | 0.90% | ~31 |
+| From Paris with Love | 0.80% | ~28 |
 | Operation Foxley | 0.80% | ~27 |
-| From Paris with Love | 0.70% | ~24 |
 | Souvenir hunter | 0.70% | ~24 |
+| Eagle Eyed | 0.70% | ~24 |
 | Locomotion Commotion | 0.70% | ~24 |
 | Last Resort | 0.70% | ~24 |
 | Siegebreaker | 0.70% | ~24 |
 | Ghost of Falaise | 0.70% | ~24 |
-| Eagle Eyed | 0.60% | ~21 |
 | Shoot for the Moon | 0.60% | ~21 |
 | If You Go Down To The Woods Today | 0.50% | ~17 |
 | Fight Another Day | 0.50% | ~17 |

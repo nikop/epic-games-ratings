@@ -2,9 +2,9 @@
   "ID": "33a7517631754fb3b15c0fbafd4a45b0",
   "Name": "Death or Treat",
   "ProductSlug": "death-or-treat-e15ede",
-  "Ranking_EOS_Progress": 544,
+  "Ranking_EOS_Progress": 545,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewPlayers": 359,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-05-31T00:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:22.9279299+00:00",
-  "LastChanged_Achievements": "2023-08-15T15:05:18.3155831+00:00",
+  "LastChanged_Achievements": "2023-08-15T16:06:19.2269822+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:28.4284285+00:00",
-  "LastUpdate_Ratings": "2023-08-15T14:59:29.1515985+00:00",
-  "LastUpdate_Achievements": "2023-08-15T15:05:18.3155857+00:00"
+  "LastUpdate_Ratings": "2023-08-15T16:00:13.3847388+00:00",
+  "LastUpdate_Achievements": "2023-08-15T16:06:19.226985+00:00"
 }
