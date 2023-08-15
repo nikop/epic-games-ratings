@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 914,
+  "EOS_Progressed": 915,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3221,6 +3221,11 @@
       "Time": "2023-08-15T14:02:21.365864+00:00",
       "NumProgressed": 914,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-15T15:02:10.6630503+00:00",
+      "NumProgressed": 915,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -3336,7 +3341,7 @@
       "Name": "Facility Online",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -3344,7 +3349,7 @@
       "Name": "Corporal",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -3422,9 +3427,9 @@
       "ID": "objective_key_drone_missions_completed_1",
       "SetID": "bm61c2p",
       "Name": "Getting Deployment",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 92
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -3454,9 +3459,9 @@
       "ID": "objective_key_objectives_completed_2",
       "SetID": "bm61c2p",
       "Name": "On Target",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 92
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -3472,7 +3477,7 @@
       "Name": "Infantry Reporting",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -3535,14 +3540,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 914,
+      "Progressed": 915,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-15T14:02:21.3658634+00:00",
+  "LastChanged_Achievements": "2023-08-15T15:02:10.6630498+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:27.4280109+00:00",
-  "LastUpdate_Ratings": "2023-08-15T13:57:41.5982666+00:00",
-  "LastUpdate_Achievements": "2023-08-15T14:02:21.3659143+00:00"
+  "LastUpdate_Ratings": "2023-08-15T14:57:56.0536728+00:00",
+  "LastUpdate_Achievements": "2023-08-15T15:02:10.6630872+00:00"
 }

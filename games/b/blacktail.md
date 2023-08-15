@@ -5,7 +5,7 @@ Rating: 4.68 (Ranked 238)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tooth fairy | 25.00% | ~156 |
+| Tooth fairy | 26.00% | ~162 |
 | Dental maturity | 20.00% | ~125 |
 | Devil's in the details | 15.00% | ~94 |
 | Uprooting | 13.00% | ~81 |
@@ -24,10 +24,10 @@ Rating: 4.68 (Ranked 238)
 | Extensive retelling | 4.00% | ~25 |
 | Favorite | 4.00% | ~25 |
 | Queen | 4.00% | ~25 |
+| Specialist | 4.00% | ~25 |
 | Goal! | 3.00% | ~19 |
 | Gnowlledgeable | 3.00% | ~19 |
 | Both sides | 3.00% | ~19 |
-| Specialist | 3.00% | ~19 |
 | Always worth a try | 3.00% | ~19 |
 | Toxic | 3.00% | ~19 |
 | Witch's cookbook | 3.00% | ~19 |

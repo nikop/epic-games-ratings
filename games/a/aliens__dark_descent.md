@@ -1,32 +1,32 @@
 # Aliens: Dark Descent
 [Store](https://store.epicgames.com/en-US/p/aliens-dark-descent)  
 [View Rawdata](../../db/a/aliens__dark_descent.json)  
-Rating: 4.47 (Ranked 607)  
+Rating: 4.47 (Ranked 606)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 82.00% | ~2,585 |
-| Snatched Out | 75.00% | ~2,365 |
-| Keep 'Em Coming | 74.00% | ~2,333 |
+| This Is Hayes, Pioneer Station, Signing Off | 82.00% | ~2,586 |
+| Snatched Out | 75.00% | ~2,366 |
+| Keep 'Em Coming | 74.00% | ~2,334 |
 | Cleaning Lethe, One Nest At A Time | 67.00% | ~2,113 |
-| Call Me Snake | 63.00% | ~1,986 |
-| Something Lurks Under The Hills | 61.00% | ~1,923 |
-| This Was No Papercut | 59.00% | ~1,860 |
+| Call Me Snake | 63.00% | ~1,987 |
+| Something Lurks Under The Hills | 61.00% | ~1,924 |
+| This Was No Papercut | 59.00% | ~1,861 |
 | People Person | 56.00% | ~1,766 |
 | The Shrink Hates Me | 56.00% | ~1,766 |
-| Use The Bumper, That's What It's For | 53.00% | ~1,671 |
+| Use The Bumper, That's What It's For | 53.00% | ~1,672 |
 | First Steps Into Madness | 52.00% | ~1,640 |
-| Colonial Barrels | 51.00% | ~1,608 |
+| Colonial Barrels | 51.00% | ~1,609 |
 | Harper's Hell | 45.00% | ~1,419 |
 | Making a Stand | 43.00% | ~1,356 |
 | Damn Dude, You Gotta Lose Some Weight! | 41.00% | ~1,293 |
 | Where It All Begun | 39.00% | ~1,230 |
-| Recouped Investment | 38.00% | ~1,198 |
-| Omelette Du Fromage | 33.00% | ~1,040 |
-| The More The Merrier | 33.00% | ~1,040 |
+| Recouped Investment | 38.00% | ~1,199 |
+| Omelette Du Fromage | 33.00% | ~1,041 |
+| The More The Merrier | 33.00% | ~1,041 |
 | Living Nightmare | 32.00% | ~1,009 |
 | The Darwin Era Was Here | 28.00% | ~883 |
-| Deep Into Insanity | 27.00% | ~851 |
+| Deep Into Insanity | 27.00% | ~852 |
 | The Passenger | 26.00% | ~820 |
 | Come on, You Wanna Live Forever? | 25.00% | ~788 |
 | El Riesgo Siempre Vive | 23.00% | ~725 |
@@ -38,7 +38,7 @@ Rating: 4.47 (Ranked 607)
 | The Cable Guy | 19.00% | ~599 |
 | Abysmal Horrors | 19.00% | ~599 |
 | Bandage Lover | 18.00% | ~568 |
-| Regicide | 14.00% | ~441 |
+| Regicide | 14.00% | ~442 |
 | Flawless Victory | 12.00% | ~378 |
 | This Went Smoothly | 12.00% | ~378 |
 | Heavy Steps | 11.00% | ~347 |
@@ -51,7 +51,7 @@ Rating: 4.47 (Ranked 607)
 | Chalk It Up To Experience | 0.70% | ~22 |
 | This Ain't No Picnic | 0.60% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,153 (Ranked 153)  
+Progressed: 3,154 (Ranked 153)  
 Completed: 2 (0.06%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,6 +112,7 @@ Completed: 2 (0.06%) (Ranked 216)
 | 2023-08-12 | 3,145 | 2 |
 | 2023-08-13 | 3,151 | 2 |
 | 2023-08-14 | 3,153 | 2 |
+| 2023-08-15 | 3,154 | 2 |
 ## Awards
 Max (Great Boss Battles): 24  (Ranked 482)  
 Sum: 24 (Ranked 487)  

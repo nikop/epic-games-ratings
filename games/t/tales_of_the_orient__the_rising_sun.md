@@ -10,11 +10,11 @@
 | 10 is good! | 53.00% | ~8 |
 | 1 Hour! | 53.00% | ~8 |
 | One-quarter mark | 40.00% | ~6 |
+| 5 Hours! | 20.00% | ~3 |
 | 10 Hours! | 13.00% | ~2 |
 | Half way! | 13.00% | ~2 |
 | Almost there! | 13.00% | ~2 |
 | You did it! | 13.00% | ~2 |
-| 5 Hours! | 13.00% | ~2 |
 | I can't stop playing! | 7.00% | ~1 |
 | Keep Going | 0.00% | ~0 |
 | Chain Mode | 0.00% | ~0 |

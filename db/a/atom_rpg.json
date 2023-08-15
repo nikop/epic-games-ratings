@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 452,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -358,9 +358,9 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 1135,
+  "EOS_Progressed": 1136,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2138,6 +2138,11 @@
       "Time": "2023-08-15T10:05:32.0095382+00:00",
       "NumProgressed": 1135,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-15T15:05:22.0398876+00:00",
+      "NumProgressed": 1136,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -2205,7 +2210,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1124
+      "UsersEstimate": 1125
     },
     {
       "ID": "EXPERT_1",
@@ -2301,7 +2306,7 @@
       "Name": "One HIT wonder",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -2413,7 +2418,7 @@
       "Name": "The Vitinsky Rifle",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "WANDERER_1",
@@ -2421,7 +2426,7 @@
       "Name": "Wanderer",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "WISHMASTER_1",
@@ -2436,15 +2441,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1135,
+      "Progressed": 1136,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-06-11T18:59:46.5771351+00:00",
-  "LastChanged_Achievements": "2023-08-15T14:05:00.1138062+00:00",
+  "LastChanged_Achievements": "2023-08-15T15:05:22.0398872+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:12.8768865+00:00",
-  "LastUpdate_Ratings": "2023-08-15T13:57:21.1496037+00:00",
-  "LastUpdate_Achievements": "2023-08-15T14:05:00.1138467+00:00"
+  "LastUpdate_Ratings": "2023-08-15T14:57:34.9855727+00:00",
+  "LastUpdate_Achievements": "2023-08-15T15:05:22.0399161+00:00"
 }

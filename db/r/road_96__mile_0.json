@@ -4,8 +4,8 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 140,
-  "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
     "PcReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 379,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -1312,8 +1312,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-08-15T14:04:22.5836492+00:00",
+  "LastChanged_Achievements": "2023-08-15T15:04:31.0405628+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:32.1251065+00:00",
-  "LastUpdate_Ratings": "2023-08-15T14:00:15.8162223+00:00",
-  "LastUpdate_Achievements": "2023-08-15T14:04:22.5836726+00:00"
+  "LastUpdate_Ratings": "2023-08-15T15:00:24.540787+00:00",
+  "LastUpdate_Achievements": "2023-08-15T15:04:31.0405782+00:00"
 }

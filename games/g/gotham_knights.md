@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 868)
 | Read Owl About It | 0.10% | ~68 |
 | History Major | 0.10% | ~68 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,848 (Ranked 80)  
+Progressed: 67,849 (Ranked 80)  
 Completed: 107 (0.16%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,7 +184,7 @@ Completed: 107 (0.16%) (Ranked 190)
 | 2023-08-12 | 67,793 | 106 |
 | 2023-08-13 | 67,820 | 107 |
 | 2023-08-14 | 67,839 | 107 |
-| 2023-08-15 | 67,848 | 107 |
+| 2023-08-15 | 67,849 | 107 |
 ## Awards
 Max (Great Boss Battles): 2,498  (Ranked 100)  
 Sum: 4,156 (Ranked 140)  

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 730,
+  "EOS_Progressed": 731,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1601,6 +1601,11 @@
       "Time": "2023-08-15T04:07:27.5634975+00:00",
       "NumProgressed": 730,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-15T15:06:52.5186281+00:00",
+      "NumProgressed": 731,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1620,7 +1625,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -1652,7 +1657,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -1668,7 +1673,7 @@
       "Name": "I Can Do This All Day",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ATK_ACHIEVEMENT_4",
@@ -1748,7 +1753,7 @@
       "Name": "He\u0027s Getting Crazier",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "BURN_ACHIEVEMENT_4",
@@ -1788,7 +1793,7 @@
       "Name": "The Way It Should Be",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "COOP_ACHIEVEMENT_2",
@@ -1892,7 +1897,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -1932,7 +1937,7 @@
       "Name": "And There We Go",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -1988,7 +1993,7 @@
       "Name": "Hostage of the Elderly",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -2020,7 +2025,7 @@
       "Name": "Ancestral Banquet",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "NOTEM_ACHIEVEMENT_1",
@@ -2060,7 +2065,7 @@
       "Name": "The Clairvoyant Who Doesn\u0027t See",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -2139,14 +2144,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 730,
+      "Progressed": 731,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-08-15T14:06:30.1893733+00:00",
+  "LastChanged_Achievements": "2023-08-15T15:06:52.5186277+00:00",
   "LastUpdate_AppInfo": "2023-08-10T15:57:09.1792695+00:00",
-  "LastUpdate_Ratings": "2023-08-15T13:57:59.469955+00:00",
-  "LastUpdate_Achievements": "2023-08-15T14:06:30.1894532+00:00"
+  "LastUpdate_Ratings": "2023-08-15T14:58:15.7800387+00:00",
+  "LastUpdate_Achievements": "2023-08-15T15:06:52.5186888+00:00"
 }

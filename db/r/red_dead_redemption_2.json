@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 7,
   "Ranking_EOS_Progress": 544,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 356,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2019-11-05T13:00:00+00:00",
     "PcReleaseDate": null,
@@ -11282,10 +11282,16 @@
       "Rating": 4.88,
       "NumberOfAwards": 432060,
       "NumberOfAwardsMax": 167437
+    },
+    {
+      "Time": "2023-08-15T15:00:54.3521579+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 432095,
+      "NumberOfAwardsMax": 167437
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 432060,
+  "NumberOfAwards": 432095,
   "NumberOfAwardsMax": 167437,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
@@ -11353,7 +11359,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 16220
+      "Count": 16255
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -11385,8 +11391,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2023-08-15T14:00:41.8789228+00:00",
+  "LastChanged": "2023-08-15T15:00:54.3521578+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:56.5855554+00:00",
-  "LastUpdate_Ratings": "2023-08-15T14:00:41.8789233+00:00",
-  "LastUpdate_Achievements": "2023-08-15T14:05:40.1404886+00:00"
+  "LastUpdate_Ratings": "2023-08-15T15:00:54.3521584+00:00",
+  "LastUpdate_Achievements": "2023-08-15T15:06:02.4266702+00:00"
 }

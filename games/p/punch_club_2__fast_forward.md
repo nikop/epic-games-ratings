@@ -41,29 +41,29 @@
 | No blades in the gym | 45.00% | ~113 |
 | Fight is life | 44.00% | ~111 |
 | Mysterious voice | 44.00% | ~111 |
+| Champion – no way back | 41.00% | ~103 |
 | Your own way | 41.00% | ~103 |
-| Champion – no way back | 40.00% | ~101 |
+| Poisoned fighter | 39.00% | ~98 |
 | Underground dwellers | 39.00% | ~98 |
 | Responsible approach | 39.00% | ~98 |
-| Poisoned fighter | 38.00% | ~96 |
+| Deal with life | 38.00% | ~96 |
 | Get out of my apartment! | 38.00% | ~96 |
 | Mom got better | 37.00% | ~93 |
-| Deal with life | 37.00% | ~93 |
 | GYM professional | 37.00% | ~93 |
 | The die is cast | 37.00% | ~93 |
 | Seashell hunter | 35.00% | ~88 |
 | Gang wrangler | 34.00% | ~86 |
 | Problems of cyborgs | 33.00% | ~83 |
+| Absolute Champion! | 33.00% | ~83 |
 | Undercover robot | 33.00% | ~83 |
-| Absolute Champion! | 32.00% | ~81 |
+| Careerist | 32.00% | ~81 |
+| Trap disarmed | 31.00% | ~78 |
 | The lonesome road | 31.00% | ~78 |
 | Key memories | 31.00% | ~78 |
 | Not little hacker | 31.00% | ~78 |
 | The last bell ring | 31.00% | ~78 |
-| Careerist | 31.00% | ~78 |
 | Anyone can resist | 31.00% | ~78 |
 | The heart of the Resistance | 31.00% | ~78 |
-| Trap disarmed | 30.00% | ~76 |
 | Another world | 30.00% | ~76 |
 | Keep nature safe | 30.00% | ~76 |
 | Family comes first | 30.00% | ~76 |

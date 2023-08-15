@@ -6,45 +6,45 @@ Number of Ratings: 2,205  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Champion | 90.00% | ~59,178 |
+| The Champion | 90.00% | ~59,179 |
 | The Pyromancer | 86.00% | ~56,548 |
-| The Wastes | 83.00% | ~54,575 |
-| Waste Not | 80.00% | ~52,602 |
-| The Cryomancer | 76.00% | ~49,972 |
-| Stock Up | 75.00% | ~49,315 |
+| The Wastes | 83.00% | ~54,576 |
+| Waste Not | 80.00% | ~52,603 |
+| The Cryomancer | 76.00% | ~49,973 |
+| Stock Up | 75.00% | ~49,316 |
 | The Hydromancer | 73.00% | ~48,000 |
-| The Matriarch | 70.00% | ~46,027 |
-| The Aeromancer | 66.00% | ~43,397 |
-| The Venomancer | 66.00% | ~43,397 |
-| The Huntsman | 65.00% | ~42,739 |
-| Dawnlight Order | 64.00% | ~42,082 |
-| The Electromancer | 61.00% | ~40,109 |
-| The Terramancer | 59.00% | ~38,794 |
-| The Exalted | 57.00% | ~37,479 |
-| Blueheart Runners | 55.00% | ~36,164 |
-| Sheriff Inquisitors | 55.00% | ~36,164 |
+| The Matriarch | 70.00% | ~46,028 |
+| The Aeromancer | 66.00% | ~43,398 |
+| The Venomancer | 66.00% | ~43,398 |
+| The Huntsman | 65.00% | ~42,740 |
+| Dawnlight Order | 64.00% | ~42,083 |
+| The Electromancer | 61.00% | ~40,110 |
+| The Terramancer | 59.00% | ~38,795 |
+| The Exalted | 57.00% | ~37,480 |
+| Blueheart Runners | 55.00% | ~36,165 |
+| Sheriff Inquisitors | 55.00% | ~36,165 |
 | The Necromancer | 52.00% | ~34,192 |
-| The Swamp | 50.00% | ~32,876 |
+| The Swamp | 50.00% | ~32,877 |
 | The Fungalmancer | 47.00% | ~30,904 |
 | The Thaumamancer | 47.00% | ~30,904 |
 | The Hag | 45.00% | ~29,589 |
-| The Corpumancer | 42.00% | ~27,616 |
-| The Mountain | 40.00% | ~26,301 |
-| The Treeheart | 40.00% | ~26,301 |
+| The Corpumancer | 42.00% | ~27,617 |
+| The Mountain | 40.00% | ~26,302 |
+| The Treeheart | 40.00% | ~26,302 |
 | Shroud Alliance | 39.00% | ~25,644 |
 | The Two Monks | 37.00% | ~24,329 |
 | The Neuromancer | 35.00% | ~23,014 |
-| Oathbound Watchers | 33.00% | ~21,698 |
-| The Mechanomancer | 33.00% | ~21,698 |
+| Oathbound Watchers | 33.00% | ~21,699 |
+| The Mechanomancer | 33.00% | ~21,699 |
 | The Chronomancer | 32.00% | ~21,041 |
 | The Copse | 30.00% | ~19,726 |
 | The Dragon | 30.00% | ~19,726 |
 | The Dracomancer | 30.00% | ~19,726 |
 | Well Stocked | 28.00% | ~18,411 |
 | The Umbramancer | 28.00% | ~18,411 |
-| Chaos Hunger | 27.00% | ~17,753 |
-| The Kinetomancer | 27.00% | ~17,753 |
-| The Sanguimancer | 27.00% | ~17,753 |
+| Chaos Hunger | 27.00% | ~17,754 |
+| The Kinetomancer | 27.00% | ~17,754 |
+| The Sanguimancer | 27.00% | ~17,754 |
 | The Luminimancer | 26.00% | ~17,096 |
 | The Bibliomancer | 25.00% | ~16,438 |
 | The Skylord | 25.00% | ~16,438 |
@@ -53,14 +53,14 @@ Number of Ratings: 2,205  (23.09.2022)
 | Want Not | 21.00% | ~13,808 |
 | The Sacrifice | 21.00% | ~13,808 |
 | The King | 19.00% | ~12,493 |
-| Take Your Place | 14.00% | ~9,205 |
-| The Nomad | 14.00% | ~9,205 |
+| Take Your Place | 14.00% | ~9,206 |
+| The Nomad | 14.00% | ~9,206 |
 | The Soldier | 11.00% | ~7,233 |
 | Make The Climb | 10.00% | ~6,575 |
 | The Scholar | 10.00% | ~6,575 |
 | Top Shelf | 5.00% | ~3,288 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,753 (Ranked 81)  
+Progressed: 65,754 (Ranked 81)  
 Completed: 1,209 (1.84%) (Ranked 94)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,10 +177,10 @@ Completed: 1,209 (1.84%) (Ranked 94)
 | 2023-08-12 | 65,711 | 1,207 |
 | 2023-08-13 | 65,732 | 1,207 |
 | 2023-08-14 | 65,742 | 1,208 |
-| 2023-08-15 | 65,753 | 1,209 |
+| 2023-08-15 | 65,754 | 1,209 |
 ## Awards
 Max (Character Customization): 960  (Ranked 146)  
-Sum: 1,923 (Ranked 202)  
+Sum: 1,924 (Ranked 202)  
 Diff (max vs sum): -56  
 | Award | Count |
 | ----- | ----- |
@@ -190,7 +190,7 @@ Diff (max vs sum): -56
 | This game has Challenging Combat | 65 |
 | This game has Unique Visuals | 59 |
 | This game has Diverse Characters | 57 |
-| This game is Highly Recommended | 55 |
+| This game is Highly Recommended | 56 |
 | This game has Quickly Understood Controls | 53 |
 | This game has Amazing Storytelling | 53 |
 | This game has Amazing Characters | 51 |
@@ -326,3 +326,4 @@ Diff (max vs sum): -56
 | 2023-08-02 | 4.31 | - | 959 | 1,920 |
 | 2023-08-06 | 4.31 | - | 960 | 1,922 |
 | 2023-08-12 | 4.31 | - | 960 | 1,923 |
+| 2023-08-15 | 4.31 | - | 960 | 1,924 |

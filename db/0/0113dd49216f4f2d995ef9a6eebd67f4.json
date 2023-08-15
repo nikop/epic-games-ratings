@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 391,
   "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
     "PcReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -300,9 +300,9 @@
       "ID": "SG_MYTIMETOSHINE",
       "SetID": "bj5g0n4",
       "Name": "My Time To Shine",
-      "Percentage": 15,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "SG_NOTALOSTGIRL",
@@ -459,8 +459,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-08-15T14:03:16.9962743+00:00",
+  "LastChanged_Achievements": "2023-08-15T15:03:15.5930181+00:00",
   "LastUpdate_AppInfo": "2023-08-10T07:57:00.7529969+00:00",
-  "LastUpdate_Ratings": "2023-08-15T13:57:18.086858+00:00",
-  "LastUpdate_Achievements": "2023-08-15T14:03:16.9963103+00:00"
+  "LastUpdate_Ratings": "2023-08-15T14:57:31.1854969+00:00",
+  "LastUpdate_Achievements": "2023-08-15T15:03:15.5930387+00:00"
 }

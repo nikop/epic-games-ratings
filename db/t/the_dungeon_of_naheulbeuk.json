@@ -648,9 +648,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 212661,
+  "EOS_Progressed": 212692,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3839,
+  "EOS_NewPlayers": 3837,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7013,6 +7013,11 @@
       "Time": "2023-08-15T14:04:40.7684021+00:00",
       "NumProgressed": 212661,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-15T15:04:50.3425169+00:00",
+      "NumProgressed": 212692,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -7072,7 +7077,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1701
+      "UsersEstimate": 1702
     },
     {
       "ID": "Chapter2",
@@ -7456,7 +7461,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1701
+      "UsersEstimate": 1702
     },
     {
       "ID": "ElfEpic",
@@ -7472,7 +7477,7 @@
       "Name": "Sowwy!",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 29773
+      "UsersEstimate": 29777
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -7727,21 +7732,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 212661,
+      "Progressed": 212692,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 212661,
+      "Progressed": 212692,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-15T01:40:21.2095498+00:00",
-  "LastChanged_Achievements": "2023-08-15T14:04:40.7684015+00:00",
+  "LastChanged_Achievements": "2023-08-15T15:04:50.3425164+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:49.6773731+00:00",
-  "LastUpdate_Ratings": "2023-08-15T14:00:36.6749856+00:00",
-  "LastUpdate_Achievements": "2023-08-15T14:04:40.7685542+00:00"
+  "LastUpdate_Ratings": "2023-08-15T15:00:47.233281+00:00",
+  "LastUpdate_Achievements": "2023-08-15T15:04:50.3426228+00:00"
 }

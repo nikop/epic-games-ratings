@@ -5,8 +5,8 @@ Rating: 4.88 (Ranked 18)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Feeling the beat! | 11.00% | ~430 |
 | Start with a bang! | 10.00% | ~391 |
-| Feeling the beat! | 10.00% | ~391 |
 | You can pet the cat! | 10.00% | ~391 |
 | Who put gears in there? | 9.00% | ~352 |
 | Cream of the Crop | 8.00% | ~313 |
@@ -14,15 +14,15 @@ Rating: 4.88 (Ranked 18)
 | You got this, Peppermint? | 7.00% | ~274 |
 | Perfect Parry | 7.00% | ~274 |
 | Alright, that felt AWESOME! | 7.00% | ~274 |
-| This will cost you big time | 6.00% | ~234 |
-| I play my own way! | 6.00% | ~234 |
-| Uh, they were broken when I got here | 6.00% | ~234 |
-| I look cool. But I can look COOLER. | 6.00% | ~234 |
-| The Negotiator | 5.00% | ~195 |
-| Whoa! There's ANOTHER health bar!? | 5.00% | ~195 |
-| Z-shielding's got nothing on us! | 5.00% | ~195 |
-| Kissing the sky! | 5.00% | ~195 |
-| Does that say weakpoint? | 5.00% | ~195 |
+| This will cost you big time | 6.00% | ~235 |
+| I play my own way! | 6.00% | ~235 |
+| Uh, they were broken when I got here | 6.00% | ~235 |
+| I look cool. But I can look COOLER. | 6.00% | ~235 |
+| The Negotiator | 5.00% | ~196 |
+| Whoa! There's ANOTHER health bar!? | 5.00% | ~196 |
+| Z-shielding's got nothing on us! | 5.00% | ~196 |
+| Kissing the sky! | 5.00% | ~196 |
+| Does that say weakpoint? | 5.00% | ~196 |
 | Headliner | 4.00% | ~156 |
 | Time to pay up! | 4.00% | ~156 |
 | Who's the boss now? | 4.00% | ~156 |
@@ -77,7 +77,7 @@ Rating: 4.88 (Ranked 18)
 | Voices from within | 0.10% | ~2 |
 | Low budget finish | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,908 (Ranked 147)  
+Progressed: 3,910 (Ranked 147)  
 Completed: 7 (0.18%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,7 +192,7 @@ Completed: 7 (0.18%) (Ranked 187)
 | 2023-08-12 | 3,868 | 7 |
 | 2023-08-13 | 3,885 | 7 |
 | 2023-08-14 | 3,899 | 7 |
-| 2023-08-15 | 3,908 | 7 |
+| 2023-08-15 | 3,910 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 263,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -777,9 +777,9 @@
       "ID": "BossKiller",
       "SetID": "82505mn",
       "Name": "Boss Killer",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 98
+      "UsersEstimate": 103
     },
     {
       "ID": "BugHunter",
@@ -1074,8 +1074,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-08-15T14:04:40.9576846+00:00",
+  "LastChanged_Achievements": "2023-08-15T15:04:50.5812626+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:34.0188198+00:00",
-  "LastUpdate_Ratings": "2023-08-15T14:01:06.9212623+00:00",
-  "LastUpdate_Achievements": "2023-08-15T14:04:40.9577222+00:00"
+  "LastUpdate_Ratings": "2023-08-15T15:01:24.2470215+00:00",
+  "LastUpdate_Achievements": "2023-08-15T15:04:50.5812909+00:00"
 }

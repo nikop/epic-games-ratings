@@ -17,9 +17,9 @@
 | Cable guy | 20.00% | ~9 |
 | A good beginning | 20.00% | ~9 |
 | True G4M3R | 20.00% | ~9 |
-| I did it | 18.00% | ~8 |
-| Fashion victim | 18.00% | ~8 |
-| Feels like springtime | 16.00% | ~7 |
+| I did it | 17.00% | ~8 |
+| Fashion victim | 17.00% | ~8 |
+| Feels like springtime | 15.00% | ~7 |
 | In this together | 13.00% | ~6 |
 | Peace walker | 11.00% | ~5 |
 | Half the way | 11.00% | ~5 |
@@ -30,8 +30,8 @@
 | A Link to the Past | 9.00% | ~4 |
 | Alchemists Express | 9.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45 (Ranked 372)  
-Completed: 4 (8.89%) (Ranked 33)  
+Progressed: 46 (Ranked 370)  
+Completed: 4 (8.70%) (Ranked 33)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -63,3 +63,4 @@ Completed: 4 (8.89%) (Ranked 33)
 | 2023-08-12 | 43 | 4 |
 | 2023-08-13 | 44 | 4 |
 | 2023-08-14 | 45 | 4 |
+| 2023-08-15 | 46 | 4 |

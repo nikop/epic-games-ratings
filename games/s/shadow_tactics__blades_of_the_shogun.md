@@ -6,40 +6,40 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~21,333 |
-| Thorough | 10.00% | ~19,394 |
-| A thief's beginning | 9.00% | ~17,454 |
-| Disguised | 8.00% | ~15,515 |
-| Rollin' | 8.00% | ~15,515 |
-| Tanuki Time | 8.00% | ~15,515 |
-| Jonin | 7.00% | ~13,576 |
-| Rescue Takuma | 7.00% | ~13,576 |
-| Stoned Ox | 7.00% | ~13,576 |
-| Chunin | 6.00% | ~11,636 |
-| Happy Planning | 6.00% | ~11,636 |
-| Ice Ice Yuki | 6.00% | ~11,636 |
-| Mugen Unchained | 6.00% | ~11,636 |
-| Yabu | 6.00% | ~11,636 |
-| Flying Rocks | 5.00% | ~9,697 |
-| Okkoto | 5.00% | ~9,697 |
-| Warzone | 5.00% | ~9,697 |
-| Gear up | 4.00% | ~7,757 |
-| Happy little accidents | 4.00% | ~7,757 |
-| Prisoners | 4.00% | ~7,757 |
-| Too Early | 4.00% | ~7,757 |
-| Noboru | 3.00% | ~5,818 |
-| Still Rollin' | 3.00% | ~5,818 |
-| Stoned | 3.00% | ~5,818 |
+| Genin | 11.00% | ~21,335 |
+| Thorough | 10.00% | ~19,396 |
+| A thief's beginning | 9.00% | ~17,456 |
+| Disguised | 8.00% | ~15,517 |
+| Rollin' | 8.00% | ~15,517 |
+| Tanuki Time | 8.00% | ~15,517 |
+| Jonin | 7.00% | ~13,577 |
+| Rescue Takuma | 7.00% | ~13,577 |
+| Stoned Ox | 7.00% | ~13,577 |
+| Chunin | 6.00% | ~11,638 |
+| Happy Planning | 6.00% | ~11,638 |
+| Ice Ice Yuki | 6.00% | ~11,638 |
+| Mugen Unchained | 6.00% | ~11,638 |
+| Yabu | 6.00% | ~11,638 |
+| Flying Rocks | 5.00% | ~9,698 |
+| Okkoto | 5.00% | ~9,698 |
+| Warzone | 5.00% | ~9,698 |
+| Gear up | 4.00% | ~7,758 |
+| Happy little accidents | 4.00% | ~7,758 |
+| Prisoners | 4.00% | ~7,758 |
+| Too Early | 4.00% | ~7,758 |
+| Noboru | 3.00% | ~5,819 |
+| Still Rollin' | 3.00% | ~5,819 |
+| Stoned | 3.00% | ~5,819 |
 | Atheist Ox | 2.00% | ~3,879 |
 | It's raining men | 2.00% | ~3,879 |
 | Old Man | 2.00% | ~3,879 |
 | The Old Way | 2.00% | ~3,879 |
 | Winner Winner | 2.00% | ~3,879 |
-| Meticulous | 1.00% | ~1,939 |
-| No Gimmicks | 1.00% | ~1,939 |
-| The End | 1.00% | ~1,939 |
-| Undeserved Honor | 1.00% | ~1,939 |
-| When Cut Across the Neck | 0.80% | ~1,551 |
+| Meticulous | 1.00% | ~1,940 |
+| No Gimmicks | 1.00% | ~1,940 |
+| The End | 1.00% | ~1,940 |
+| Undeserved Honor | 1.00% | ~1,940 |
+| When Cut Across the Neck | 0.80% | ~1,552 |
 | High Five the Moon | 0.70% | ~1,358 |
 | The Cave | 0.70% | ~1,358 |
 | Merciful | 0.50% | ~970 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~194 |
 | Release the Kraken | 0.10% | ~194 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 193,937 (Ranked 60)  
+Progressed: 193,959 (Ranked 60)  
 Completed: 69 (0.04%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,7 +168,7 @@ Completed: 69 (0.04%) (Ranked 226)
 | 2023-08-12 | 193,172 | 69 |
 | 2023-08-13 | 193,457 | 69 |
 | 2023-08-14 | 193,724 | 69 |
-| 2023-08-15 | 193,937 | 69 |
+| 2023-08-15 | 193,959 | 69 |
 ## Awards
 Max (Great for Beginners): 561  (Ranked 188)  
 Sum: 4,725 (Ranked 134)  

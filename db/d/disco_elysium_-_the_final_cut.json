@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1161,18 +1161,24 @@
       "Rating": 4.87,
       "NumberOfAwards": 1078,
       "NumberOfAwardsMax": 716
+    },
+    {
+      "Time": "2023-08-15T15:00:55.7561735+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1080,
+      "NumberOfAwardsMax": 718
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1078,
-  "NumberOfAwardsMax": 716,
+  "NumberOfAwards": 1080,
+  "NumberOfAwardsMax": 718,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 716
+      "Count": 718
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1247,9 +1253,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 126260,
+  "EOS_Progressed": 126262,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 409,
+  "EOS_NewPlayers": 407,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -12867,6 +12873,11 @@
       "Time": "2023-08-15T14:04:31.9414765+00:00",
       "NumProgressed": 126260,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-08-15T15:04:41.4820124+00:00",
+      "NumProgressed": 126262,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 40,
@@ -12934,7 +12945,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 30302
+      "UsersEstimate": 30303
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -13038,7 +13049,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 11363
+      "UsersEstimate": 11364
     },
     {
       "ID": "ACH_GLUTEN",
@@ -13094,7 +13105,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 17676
+      "UsersEstimate": 17677
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -13197,15 +13208,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 126260,
+      "Progressed": 126262,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
-  "LastChanged": "2023-08-14T01:41:04.9413992+00:00",
-  "LastChanged_Achievements": "2023-08-15T14:04:31.9414751+00:00",
+  "LastChanged": "2023-08-15T15:00:55.7561731+00:00",
+  "LastChanged_Achievements": "2023-08-15T15:04:41.482012+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:59.4029348+00:00",
-  "LastUpdate_Ratings": "2023-08-15T14:00:43.9364426+00:00",
-  "LastUpdate_Achievements": "2023-08-15T14:04:31.9415923+00:00"
+  "LastUpdate_Ratings": "2023-08-15T15:00:55.7561739+00:00",
+  "LastUpdate_Achievements": "2023-08-15T15:04:41.4821127+00:00"
 }
