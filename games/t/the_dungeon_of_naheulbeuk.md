@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 15.00% | ~31,928 |
+| Sowwy! | 15.00% | ~31,931 |
 | Where's that freaking Dwarf? | 1.00% | ~2,129 |
 | Alt+F4 | 1.00% | ~2,129 |
 | Déjà vu | 0.90% | ~1,916 |
@@ -17,12 +17,12 @@ Number of Ratings: 118  (23.09.2022)
 | Speedrun | 0.60% | ~1,277 |
 | Fireproof Wizardess | 0.60% | ~1,277 |
 | Way of the Wimp | 0.50% | ~1,064 |
-| Livin' in a dwarven paradise | 0.40% | ~851 |
-| The plot thickens... At the tavern | 0.40% | ~851 |
-| The demons' feast | 0.40% | ~851 |
-| %#*!$*! | 0.40% | ~851 |
-| Team Building Exercise | 0.40% | ~851 |
-| Oh, when I'll be level 10... | 0.40% | ~851 |
+| Livin' in a dwarven paradise | 0.40% | ~852 |
+| The plot thickens... At the tavern | 0.40% | ~852 |
+| The demons' feast | 0.40% | ~852 |
+| %#*!$*! | 0.40% | ~852 |
+| Team Building Exercise | 0.40% | ~852 |
+| Oh, when I'll be level 10... | 0.40% | ~852 |
 | Shiny and Crôm | 0.30% | ~639 |
 | The Great Library | 0.30% | ~639 |
 | Torture and Sensibility | 0.30% | ~639 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Staff cut | 0.00% | ~0 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 212,854 (Ranked 56)  
+Progressed: 212,876 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,7 +171,7 @@ Completed: 2 (0.00%) (Ranked 257)
 | 2023-08-12 | 211,199 | 1 |
 | 2023-08-13 | 211,857 | 2 |
 | 2023-08-14 | 212,372 | 2 |
-| 2023-08-15 | 212,854 | 2 |
+| 2023-08-15 | 212,876 | 2 |
 ## Awards
 Max (Character Customization): 166  (Ranked 289)  
 Sum: 186 (Ranked 375)  

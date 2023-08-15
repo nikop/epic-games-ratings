@@ -1599,9 +1599,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13418,
+  "EOS_Progressed": 13420,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -9694,6 +9694,11 @@
       "Time": "2023-08-15T21:04:37.5858977+00:00",
       "NumProgressed": 13418,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-15T22:05:38.9302455+00:00",
+      "NumProgressed": 13420,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -10215,9 +10220,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_KEYSTONE",
       "SetID": "9201eeb",
       "Name": "Keystone",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 268
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_LEARNED",
@@ -10599,9 +10604,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_STATESMEN",
       "SetID": "7l38kb8",
       "Name": "Statesmen",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 94
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_TRADERS",
@@ -11711,9 +11716,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_REVELATION",
       "SetID": "7l38kb8",
       "Name": "Revelation",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 67
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_VENERATION",
@@ -12072,21 +12077,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13418,
+      "Progressed": 13420,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13418,
+      "Progressed": 13420,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-12T03:59:31.9297462+00:00",
-  "LastChanged_Achievements": "2023-08-15T21:04:37.5858973+00:00",
+  "LastChanged_Achievements": "2023-08-15T22:05:38.9302451+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:38.1291138+00:00",
-  "LastUpdate_Ratings": "2023-08-15T20:59:05.8023823+00:00",
-  "LastUpdate_Achievements": "2023-08-15T21:04:37.5867481+00:00"
+  "LastUpdate_Ratings": "2023-08-15T22:00:14.5719284+00:00",
+  "LastUpdate_Achievements": "2023-08-15T22:05:38.9310155+00:00"
 }

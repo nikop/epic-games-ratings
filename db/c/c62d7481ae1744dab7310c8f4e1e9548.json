@@ -337,9 +337,9 @@
       "ID": "Kamzik",
       "SetID": "ag48e8e",
       "Name": "Chamois",
-      "Percentage": 45,
+      "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "Kour",
@@ -497,9 +497,9 @@
       "ID": "Xicht",
       "SetID": "ag48e8e",
       "Name": "Rockheads",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Zelvak",
@@ -528,8 +528,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-08-15T21:04:06.7002331+00:00",
+  "LastChanged_Achievements": "2023-08-15T22:05:01.9874473+00:00",
   "LastUpdate_AppInfo": "2023-08-11T16:57:03.8817549+00:00",
-  "LastUpdate_Ratings": "2023-08-15T20:57:52.7531741+00:00",
-  "LastUpdate_Achievements": "2023-08-15T21:04:06.7002576+00:00"
+  "LastUpdate_Ratings": "2023-08-15T21:58:35.3592127+00:00",
+  "LastUpdate_Achievements": "2023-08-15T22:05:01.9874675+00:00"
 }

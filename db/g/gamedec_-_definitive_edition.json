@@ -396,9 +396,9 @@
       "Count": 79
     }
   ],
-  "EOS_Progressed": 242189,
+  "EOS_Progressed": 242192,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1034,
+  "EOS_NewPlayers": 1030,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13266,6 +13266,11 @@
       "Time": "2023-08-15T21:03:43.2508976+00:00",
       "NumProgressed": 242189,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-08-15T22:04:45.0717473+00:00",
+      "NumProgressed": 242192,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -13277,7 +13282,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 65391
+      "UsersEstimate": 65392
     },
     {
       "ID": "ACH_AON",
@@ -13421,7 +13426,7 @@
       "Name": "I will finish what you started",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 67813
+      "UsersEstimate": 67814
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -13493,7 +13498,7 @@
       "Name": "Write that down",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 58125
+      "UsersEstimate": 58126
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -13509,7 +13514,7 @@
       "Name": "Good listener",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 12109
+      "UsersEstimate": 12110
     },
     {
       "ID": "ACH_LETSOTHERTHINKING",
@@ -13557,7 +13562,7 @@
       "Name": "Me smart",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 14531
+      "UsersEstimate": 14532
     },
     {
       "ID": "ACH_MEMORY5",
@@ -13597,7 +13602,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 60547
+      "UsersEstimate": 60548
     },
     {
       "ID": "ACH_SOREAD",
@@ -13645,7 +13650,7 @@
       "Name": "Trash compactor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 14531
+      "UsersEstimate": 14532
     },
     {
       "ID": "ACH_TROLLKING",
@@ -13661,7 +13666,7 @@
       "Name": "Valedictorian",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 12109
+      "UsersEstimate": 12110
     },
     {
       "ID": "ACH_WAKEUP",
@@ -13692,7 +13697,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 242189,
+      "Progressed": 242192,
       "Completed": 7
     }
   ],
@@ -13700,8 +13705,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-08-15T07:59:00.2810594+00:00",
-  "LastChanged_Achievements": "2023-08-15T21:03:43.2508969+00:00",
+  "LastChanged_Achievements": "2023-08-15T22:04:45.071747+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:38.5729047+00:00",
-  "LastUpdate_Ratings": "2023-08-15T20:59:05.1635395+00:00",
-  "LastUpdate_Achievements": "2023-08-15T21:03:43.2510262+00:00"
+  "LastUpdate_Ratings": "2023-08-15T22:00:14.1111334+00:00",
+  "LastUpdate_Achievements": "2023-08-15T22:04:45.071843+00:00"
 }

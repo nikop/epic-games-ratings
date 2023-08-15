@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 201,
   "Ranking_EOS_Progress": 30,
   "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 67,
+  "Ranking_EOS_NewPlayers": 65,
   "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
@@ -2463,9 +2463,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 530567,
+  "EOS_Progressed": 530574,
   "EOS_Completed": 1508,
-  "EOS_NewPlayers": 600,
+  "EOS_NewPlayers": 606,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -15053,6 +15053,11 @@
       "Time": "2023-08-15T21:04:25.2231424+00:00",
       "NumProgressed": 530567,
       "NumCompleted": 1508
+    },
+    {
+      "Time": "2023-08-15T22:05:23.8575004+00:00",
+      "NumProgressed": 530574,
+      "NumCompleted": 1508
     }
   ],
   "TotalAchievements": 37,
@@ -15064,7 +15069,7 @@
       "Name": "Branded",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 68974
+      "UsersEstimate": 68975
     },
     {
       "ID": "COASTROCK",
@@ -15080,7 +15085,7 @@
       "Name": "Devara\u0027s Light",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 159170
+      "UsersEstimate": 159172
     },
     {
       "ID": "DEVOTED",
@@ -15120,7 +15125,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 440371
+      "UsersEstimate": 440376
     },
     {
       "ID": "HONED",
@@ -15168,7 +15173,7 @@
       "Name": "The Alkymancery",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 26528
+      "UsersEstimate": 26529
     },
     {
       "ID": "THE_BANQUET",
@@ -15176,7 +15181,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 212227
+      "UsersEstimate": 212230
     },
     {
       "ID": "THE_CASTLE",
@@ -15184,7 +15189,7 @@
       "Name": "The Castle",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 58362
+      "UsersEstimate": 58363
     },
     {
       "ID": "THE_CAVE",
@@ -15216,7 +15221,7 @@
       "Name": "The Dome",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 47751
+      "UsersEstimate": 47752
     },
     {
       "ID": "THE_FOREST",
@@ -15224,7 +15229,7 @@
       "Name": "The Forest",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 74279
+      "UsersEstimate": 74280
     },
     {
       "ID": "THE_IMPOSTER",
@@ -15232,7 +15237,7 @@
       "Name": "The Imposter",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 68974
+      "UsersEstimate": 68975
     },
     {
       "ID": "THE_IRON_ONES",
@@ -15240,7 +15245,7 @@
       "Name": "The Iron Ones",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 95502
+      "UsersEstimate": 95503
     },
     {
       "ID": "THE_KEEP",
@@ -15248,7 +15253,7 @@
       "Name": "The Keep",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 68974
+      "UsersEstimate": 68975
     },
     {
       "ID": "THE_LAKE",
@@ -15280,7 +15285,7 @@
       "Name": "The Pitchwoods",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 26528
+      "UsersEstimate": 26529
     },
     {
       "ID": "THE_RED_HALL",
@@ -15288,7 +15293,7 @@
       "Name": "The Red Hall",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 47751
+      "UsersEstimate": 47752
     },
     {
       "ID": "THE_RUINS",
@@ -15304,7 +15309,7 @@
       "Name": "The Sacrifice",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 42445
+      "UsersEstimate": 42446
     },
     {
       "ID": "THE_STONE_ROOTS",
@@ -15320,7 +15325,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 339563
+      "UsersEstimate": 339567
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -15336,7 +15341,7 @@
       "Name": "The Village",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 84891
+      "UsersEstimate": 84892
     },
     {
       "ID": "THE_ZIGGURAT",
@@ -15359,15 +15364,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 530567,
+      "Progressed": 530574,
       "Completed": 1508
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-08-13T05:01:01.1614136+00:00",
-  "LastChanged_Achievements": "2023-08-15T21:04:25.223142+00:00",
+  "LastChanged_Achievements": "2023-08-15T22:05:23.8575001+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:13.2289352+00:00",
-  "LastUpdate_Ratings": "2023-08-15T21:00:26.1288749+00:00",
-  "LastUpdate_Achievements": "2023-08-15T21:04:25.2232465+00:00"
+  "LastUpdate_Ratings": "2023-08-15T22:01:59.819421+00:00",
+  "LastUpdate_Achievements": "2023-08-15T22:05:23.8575796+00:00"
 }

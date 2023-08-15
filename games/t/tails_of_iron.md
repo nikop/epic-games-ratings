@@ -25,7 +25,7 @@ Rating: 4.53 (Ranked 512)
 | Return Power To The Depths | 36.00% | ~671 |
 | Meet the Creatures from the Deep | 35.00% | ~652 |
 | Defeat Ratnor Rodentson | 29.00% | ~540 |
-| Return the Statues | 26.00% | ~484 |
+| Return the Statues | 27.00% | ~503 |
 | Defeat Rattus Augustail | 26.00% | ~484 |
 | Complete the Chefs Book | 25.00% | ~466 |
 | Complete Ranger Faction | 21.00% | ~391 |

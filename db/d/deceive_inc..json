@@ -226,7 +226,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17399,
+  "EOS_Progressed": 17400,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 254,
   "EOS_NewCompleters": 0,
@@ -8351,6 +8351,11 @@
       "Time": "2023-08-15T21:04:42.0853042+00:00",
       "NumProgressed": 17399,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-15T22:05:44.4368048+00:00",
+      "NumProgressed": 17400,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -8649,7 +8654,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17399,
+      "Progressed": 17400,
       "Completed": 1
     }
   ],
@@ -8657,8 +8662,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-12T19:04:41.1874293+00:00",
-  "LastChanged_Achievements": "2023-08-15T21:04:42.0853038+00:00",
+  "LastChanged_Achievements": "2023-08-15T22:05:44.4368044+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:38.5697724+00:00",
-  "LastUpdate_Ratings": "2023-08-15T21:00:39.1835488+00:00",
-  "LastUpdate_Achievements": "2023-08-15T21:04:42.0853812+00:00"
+  "LastUpdate_Ratings": "2023-08-15T22:02:19.249372+00:00",
+  "LastUpdate_Achievements": "2023-08-15T22:05:44.4368626+00:00"
 }

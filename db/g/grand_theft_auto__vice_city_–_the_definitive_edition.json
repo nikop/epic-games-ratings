@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 438,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -586,9 +586,9 @@
       "Count": 67
     }
   ],
-  "EOS_Progressed": 9686,
+  "EOS_Progressed": 9687,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -8406,6 +8406,11 @@
       "Time": "2023-08-15T21:05:17.3841139+00:00",
       "NumProgressed": 9686,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-08-15T22:06:28.5678777+00:00",
+      "NumProgressed": 9687,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 34,
@@ -8497,7 +8502,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 1065
+      "UsersEstimate": 1066
     },
     {
       "ID": "ACH12",
@@ -8521,7 +8526,7 @@
       "Name": "Greasy Palms",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3971
+      "UsersEstimate": 3972
     },
     {
       "ID": "ACH15",
@@ -8688,7 +8693,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9686,
+      "Progressed": 9687,
       "Completed": 48
     }
   ],
@@ -8696,8 +8701,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-08-14T19:00:14.711734+00:00",
-  "LastChanged_Achievements": "2023-08-15T21:05:17.3841136+00:00",
+  "LastChanged_Achievements": "2023-08-15T22:06:28.5678768+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:57.4894701+00:00",
-  "LastUpdate_Ratings": "2023-08-15T20:59:20.5349211+00:00",
-  "LastUpdate_Achievements": "2023-08-15T21:05:17.3841867+00:00"
+  "LastUpdate_Ratings": "2023-08-15T22:00:35.1611302+00:00",
+  "LastUpdate_Achievements": "2023-08-15T22:06:28.5679356+00:00"
 }

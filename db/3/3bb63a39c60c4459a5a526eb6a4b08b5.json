@@ -4,7 +4,7 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -1619,9 +1619,9 @@
       "ID": "Debtor",
       "SetID": "1e89b4i",
       "Name": "Debtor",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 44
     },
     {
       "ID": "EdgeOfTheWorld",
@@ -1898,8 +1898,8 @@
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-08-15T21:02:22.6901851+00:00",
+  "LastChanged_Achievements": "2023-08-15T22:03:24.1696407+00:00",
   "LastUpdate_AppInfo": "2023-08-15T09:57:14.6821782+00:00",
-  "LastUpdate_Ratings": "2023-08-15T20:58:02.1194556+00:00",
-  "LastUpdate_Achievements": "2023-08-15T21:02:22.6902269+00:00"
+  "LastUpdate_Ratings": "2023-08-15T21:58:49.2711775+00:00",
+  "LastUpdate_Achievements": "2023-08-15T22:03:24.1696777+00:00"
 }

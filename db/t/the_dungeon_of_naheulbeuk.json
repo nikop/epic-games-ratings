@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 22,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -648,9 +648,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 212854,
+  "EOS_Progressed": 212876,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3813,
+  "EOS_NewPlayers": 3810,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7048,6 +7048,11 @@
       "Time": "2023-08-15T21:04:34.9037981+00:00",
       "NumProgressed": 212854,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-15T22:05:35.7489253+00:00",
+      "NumProgressed": 212876,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -7059,7 +7064,7 @@
       "Name": "Livin\u0027 in a dwarven paradise",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "100Fail",
@@ -7123,7 +7128,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "Chapter4",
@@ -7131,7 +7136,7 @@
       "Name": "The demons\u0027 feast",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "Chapter5",
@@ -7483,7 +7488,7 @@
       "Name": "%#*!$*!",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "DwarfLevel2",
@@ -7507,7 +7512,7 @@
       "Name": "Sowwy!",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 31928
+      "UsersEstimate": 31931
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -7715,7 +7720,7 @@
       "Name": "Team Building Exercise",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "SystematicallyStupid",
@@ -7739,7 +7744,7 @@
       "Name": "Oh, when I\u0027ll be level 10...",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "WizardEpic",
@@ -7762,21 +7767,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 212854,
+      "Progressed": 212876,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 212854,
+      "Progressed": 212876,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-15T01:40:21.2095498+00:00",
-  "LastChanged_Achievements": "2023-08-15T21:04:34.9037977+00:00",
+  "LastChanged_Achievements": "2023-08-15T22:05:35.7489247+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:49.6773731+00:00",
-  "LastUpdate_Ratings": "2023-08-15T21:00:08.6279597+00:00",
-  "LastUpdate_Achievements": "2023-08-15T21:04:34.9039403+00:00"
+  "LastUpdate_Ratings": "2023-08-15T22:01:36.5652136+00:00",
+  "LastUpdate_Achievements": "2023-08-15T22:05:35.7490329+00:00"
 }

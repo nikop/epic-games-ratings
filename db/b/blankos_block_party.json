@@ -3,11 +3,11 @@
   "Name": "Blankos Block Party",
   "ProductSlug": "blankos-block-party-09fc55",
   "Ranking_Rating": 848,
-  "Ranking_Popularity": 460,
-  "Ranking_PopularitySum": 367,
+  "Ranking_Popularity": 453,
+  "Ranking_PopularitySum": 366,
   "Ranking_EOS_Progress": 545,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 364,
+  "Ranking_EOS_NewPlayers": 362,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-09-15T15:00:00+00:00",
@@ -443,18 +443,24 @@
       "Rating": 4.21,
       "NumberOfAwards": 201,
       "NumberOfAwardsMax": 31
+    },
+    {
+      "Time": "2023-08-15T22:01:37.7846188+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 203,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 201,
-  "NumberOfAwardsMax": 31,
+  "NumberOfAwards": 203,
+  "NumberOfAwardsMax": 32,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 31
+      "Count": 32
     },
     {
       "Text": "This game is Highly Recommended",
@@ -496,7 +502,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 20
+      "Count": 21
     }
   ],
   "EOS_Progressed": 0,
@@ -511,8 +517,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-09-15T18:02:36.8331612+00:00",
   "FirstSeenRating": "2022-09-21T21:02:42.6156669+00:00",
-  "LastChanged": "2023-07-31T08:59:41.8620747+00:00",
+  "LastChanged": "2023-08-15T22:01:37.7846187+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:55.2042303+00:00",
-  "LastUpdate_Ratings": "2023-08-15T21:00:09.5260811+00:00",
-  "LastUpdate_Achievements": "2023-08-15T21:05:52.3622522+00:00"
+  "LastUpdate_Ratings": "2023-08-15T22:01:37.7846192+00:00",
+  "LastUpdate_Achievements": "2023-08-15T22:07:12.3250085+00:00"
 }

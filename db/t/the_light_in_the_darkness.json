@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2182,
+  "EOS_Progressed": 2183,
   "EOS_Completed": 195,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 8.94,
+  "EOS_Completed_Percentage": 8.93,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -4978,6 +4978,11 @@
       "Time": "2023-08-15T21:04:09.6713021+00:00",
       "NumProgressed": 2182,
       "NumCompleted": 195
+    },
+    {
+      "Time": "2023-08-15T22:05:05.4261085+00:00",
+      "NumProgressed": 2183,
+      "NumCompleted": 195
     }
   ],
   "TotalAchievements": 12,
@@ -5021,7 +5026,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 807
+      "UsersEstimate": 808
     },
     {
       "ID": "Jakob",
@@ -5029,7 +5034,7 @@
       "Name": "Jakob",
       "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "Jude",
@@ -5069,7 +5074,7 @@
       "Name": "Nazis in Paris",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "Nuremberg Laws",
@@ -5084,7 +5089,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2182,
+      "Progressed": 2183,
       "Completed": 195
     }
   ],
@@ -5092,8 +5097,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-08-15T21:04:09.6713016+00:00",
+  "LastChanged_Achievements": "2023-08-15T22:05:05.426108+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:29.1677091+00:00",
-  "LastUpdate_Ratings": "2023-08-15T21:00:31.5831386+00:00",
-  "LastUpdate_Achievements": "2023-08-15T21:04:09.6713407+00:00"
+  "LastUpdate_Ratings": "2023-08-15T22:02:06.901995+00:00",
+  "LastUpdate_Achievements": "2023-08-15T22:05:05.4261444+00:00"
 }

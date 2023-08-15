@@ -838,9 +838,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 254887,
+  "EOS_Progressed": 254892,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 376,
+  "EOS_NewPlayers": 380,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12853,6 +12853,11 @@
       "Time": "2023-08-15T21:06:35.2594964+00:00",
       "NumProgressed": 254887,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-15T22:08:14.1348703+00:00",
+      "NumProgressed": 254892,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -12872,7 +12877,7 @@
       "Name": "The Ascent",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10195
+      "UsersEstimate": 10196
     },
     {
       "ID": "Act3",
@@ -12912,7 +12917,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 79015
+      "UsersEstimate": 79017
     },
     {
       "ID": "BackHomeNTimes",
@@ -12920,7 +12925,7 @@
       "Name": "Well-oiled machine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12744
+      "UsersEstimate": 12745
     },
     {
       "ID": "BackHomeWithNoDamageCaused",
@@ -12928,7 +12933,7 @@
       "Name": "Pacifist",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10195
+      "UsersEstimate": 10196
     },
     {
       "ID": "BreakNWindows",
@@ -12936,7 +12941,7 @@
       "Name": "Vandalism",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10195
+      "UsersEstimate": 10196
     },
     {
       "ID": "BuyHighValueFurniture",
@@ -12992,7 +12997,7 @@
       "Name": "Saver I",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12744
+      "UsersEstimate": 12745
     },
     {
       "ID": "CreedsInBank2",
@@ -13064,7 +13069,7 @@
       "Name": "Green thumb I",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15293
+      "UsersEstimate": 15294
     },
     {
       "ID": "GrowPlants2",
@@ -13120,7 +13125,7 @@
       "Name": "Cleaning Company",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15293
+      "UsersEstimate": 15294
     },
     {
       "ID": "KillOtherWithKatana",
@@ -13152,7 +13157,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 56075
+      "UsersEstimate": 56076
     },
     {
       "ID": "KillOthers2",
@@ -13232,7 +13237,7 @@
       "Name": "Capitalist I",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10195
+      "UsersEstimate": 10196
     },
     {
       "ID": "Patrimony2",
@@ -13311,7 +13316,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 254887,
+      "Progressed": 254892,
       "Completed": 3
     }
   ],
@@ -13319,8 +13324,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-08-14T15:57:40.5438652+00:00",
-  "LastChanged_Achievements": "2023-08-15T21:06:35.2594959+00:00",
+  "LastChanged_Achievements": "2023-08-15T22:08:14.13487+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:09.7223884+00:00",
-  "LastUpdate_Ratings": "2023-08-15T20:57:19.031798+00:00",
-  "LastUpdate_Achievements": "2023-08-15T21:06:35.259621+00:00"
+  "LastUpdate_Ratings": "2023-08-15T21:57:54.4133714+00:00",
+  "LastUpdate_Achievements": "2023-08-15T22:08:14.1349683+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 113,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewPlayers": 114,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3452,9 +3452,9 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 10958,
+  "EOS_Progressed": 10961,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10792,6 +10792,11 @@
       "Time": "2023-08-15T18:06:05.9876292+00:00",
       "NumProgressed": 10958,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-15T22:05:15.185787+00:00",
+      "NumProgressed": 10961,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -10803,7 +10808,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 2520
+      "UsersEstimate": 2521
     },
     {
       "ID": "02_BurningCity",
@@ -10835,7 +10840,7 @@
       "Name": "Embrace of the Abyss",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "06_HeartOfFallenLand",
@@ -10859,7 +10864,7 @@
       "Name": "Path of the Angel",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "09_PathOfDemon",
@@ -11003,7 +11008,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1206
     },
     {
       "ID": "28_GreatUpstart",
@@ -11171,7 +11176,7 @@
       "Name": "A Spark",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1753
+      "UsersEstimate": 1754
     },
     {
       "ID": "49_Flame",
@@ -11730,21 +11735,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9740,
+      "Progressed": 9743,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10958,
+      "Progressed": 10961,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-08-15T07:59:25.8442587+00:00",
-  "LastChanged_Achievements": "2023-08-15T21:04:17.6588248+00:00",
+  "LastChanged_Achievements": "2023-08-15T22:05:15.1857866+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:11.5447906+00:00",
-  "LastUpdate_Ratings": "2023-08-15T20:59:34.6511581+00:00",
-  "LastUpdate_Achievements": "2023-08-15T21:04:17.6590533+00:00"
+  "LastUpdate_Ratings": "2023-08-15T22:00:51.701679+00:00",
+  "LastUpdate_Achievements": "2023-08-15T22:05:15.185952+00:00"
 }

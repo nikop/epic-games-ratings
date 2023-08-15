@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 229726,
+  "EOS_Progressed": 229730,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 533,
+  "EOS_NewPlayers": 536,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -12573,6 +12573,11 @@
       "Time": "2023-08-15T21:03:07.7132936+00:00",
       "NumProgressed": 229726,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-08-15T22:03:41.115629+00:00",
+      "NumProgressed": 229730,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 34,
@@ -12600,7 +12605,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 64323
+      "UsersEstimate": 64324
     },
     {
       "ID": "CENTAUR",
@@ -12672,7 +12677,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 45945
+      "UsersEstimate": 45946
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -12720,7 +12725,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 75810
+      "UsersEstimate": 75811
     },
     {
       "ID": "NOBUNAGA",
@@ -12744,7 +12749,7 @@
       "Name": "ON A ROLL",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20675
+      "UsersEstimate": 20676
     },
     {
       "ID": "PHOTOFINISH",
@@ -12808,7 +12813,7 @@
       "Name": "SNEAKY SNEAKY",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 50540
+      "UsersEstimate": 50541
     },
     {
       "ID": "TACTICIAN",
@@ -12832,7 +12837,7 @@
       "Name": "TRICK UP YOUR SLEEVE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 50540
+      "UsersEstimate": 50541
     },
     {
       "ID": "TUNINGMANIAC",
@@ -12848,22 +12853,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 94188
+      "UsersEstimate": 94189
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 229726,
+      "Progressed": 229730,
       "Completed": 46
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-08-15T21:03:07.7132931+00:00",
+  "LastChanged_Achievements": "2023-08-15T22:03:41.1156283+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:00.8930351+00:00",
-  "LastUpdate_Ratings": "2023-08-15T20:59:22.5199837+00:00",
-  "LastUpdate_Achievements": "2023-08-15T21:03:07.7133917+00:00"
+  "LastUpdate_Ratings": "2023-08-15T22:00:38.6603453+00:00",
+  "LastUpdate_Achievements": "2023-08-15T22:03:41.1157047+00:00"
 }

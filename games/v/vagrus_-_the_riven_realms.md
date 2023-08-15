@@ -16,18 +16,19 @@
 | Scholar | 6.00% | ~8 |
 | Taskmaster | 6.00% | ~8 |
 | Conciliator | 5.00% | ~7 |
+| The More the Merrier | 5.00% | ~7 |
 | Courier | 5.00% | ~7 |
 | Acquaintance | 5.00% | ~7 |
 | Tail-wind | 5.00% | ~7 |
-| The More the Merrier | 4.00% | ~5 |
 | Been There | 4.00% | ~5 |
+| Inquisitions of Discord | 4.00% | ~5 |
 | Quartermaster | 3.00% | ~4 |
 | Supercargo | 3.00% | ~4 |
 | Strategist | 3.00% | ~4 |
+| Deputized | 3.00% | ~4 |
 | Harbinger | 3.00% | ~4 |
 | Spiritual Journey | 3.00% | ~4 |
 | Pilgrimage's End | 3.00% | ~4 |
-| Inquisitions of Discord | 3.00% | ~4 |
 | Merchant | 3.00% | ~4 |
 | Trouble at Fort Larius | 3.00% | ~4 |
 | Making Contact | 2.00% | ~3 |
@@ -35,7 +36,6 @@
 | Potential Unlocked | 2.00% | ~3 |
 | Huntress Unbound | 2.00% | ~3 |
 | Xevarian Gambit | 2.00% | ~3 |
-| Deputized | 2.00% | ~3 |
 | The Voice of Hereafter | 2.00% | ~3 |
 | Despised | 2.00% | ~3 |
 | Business As Usual | 2.00% | ~3 |
@@ -43,6 +43,7 @@
 | A Terrible Will | 2.00% | ~3 |
 | Delayed | 2.00% | ~3 |
 | The Darkness Within | 2.00% | ~3 |
+| Life... Finds a Way | 2.00% | ~3 |
 | Unseen Patterns | 2.00% | ~3 |
 | Loremaster | 0.80% | ~1 |
 | Adept | 0.80% | ~1 |
@@ -54,7 +55,6 @@
 | A Real Battle | 0.80% | ~1 |
 | Celebrity | 0.80% | ~1 |
 | Ruiner | 0.80% | ~1 |
-| Life... Finds a Way | 0.80% | ~1 |
 | Wyrmslayer | 0.80% | ~1 |
 | Merchant Lord | 0.80% | ~1 |
 | Voracity Confronted | 0.80% | ~1 |

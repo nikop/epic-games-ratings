@@ -4,7 +4,7 @@
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
   "Ranking_EOS_Progress": 308,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 364,
+  "Ranking_EOS_NewPlayers": 362,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
@@ -642,9 +642,9 @@
       "ID": "Vanilla_CompanionsTier1",
       "SetID": "27kik8p",
       "Name": "The More the Merrier",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "Vanilla_CompleteAllSideQuests",
@@ -682,9 +682,9 @@
       "ID": "Vanilla_DeputiesMaxedOut",
       "SetID": "27kik8p",
       "Name": "Deputized",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Vanilla_DiscoverAllLocations",
@@ -1090,9 +1090,9 @@
       "ID": "Vanilla_SpiritIdol",
       "SetID": "27kik8p",
       "Name": "Life... Finds a Way",
-      "Percentage": 0.8,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "Vanilla_TasksCompleted",
@@ -1146,9 +1146,9 @@
       "ID": "Vanilla_TheSourceOfDiscord",
       "SetID": "27kik8p",
       "Name": "Inquisitions of Discord",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Vanilla_ThreeCurses",
@@ -1243,8 +1243,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-08-15T21:05:34.5271877+00:00",
+  "LastChanged_Achievements": "2023-08-15T22:06:48.8628685+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:29.4498571+00:00",
-  "LastUpdate_Ratings": "2023-08-15T20:59:46.365487+00:00",
-  "LastUpdate_Achievements": "2023-08-15T21:05:34.5273144+00:00"
+  "LastUpdate_Ratings": "2023-08-15T22:01:06.2261012+00:00",
+  "LastUpdate_Achievements": "2023-08-15T22:06:48.8629676+00:00"
 }

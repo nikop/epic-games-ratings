@@ -16,6 +16,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Good | 2.00% | ~268 |
 | Intrepid | 2.00% | ~268 |
 | Just | 2.00% | ~268 |
+| Keystone | 2.00% | ~268 |
 | Learned | 2.00% | ~268 |
 | Mason | 2.00% | ~268 |
 | Noble | 2.00% | ~268 |
@@ -34,7 +35,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Fountainhead | 1.00% | ~134 |
 | Glorious | 1.00% | ~134 |
 | Great | 1.00% | ~134 |
-| Keystone | 1.00% | ~134 |
 | Magnificent | 1.00% | ~134 |
 | Warrior | 1.00% | ~134 |
 | Wise | 1.00% | ~134 |
@@ -78,12 +78,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Conqueror | 0.70% | ~94 |
 | Mighty | 0.70% | ~94 |
 | Champions | 0.70% | ~94 |
+| Statesmen | 0.70% | ~94 |
 | Building Wonders | 0.70% | ~94 |
 | Lion | 0.60% | ~81 |
 | Victorious | 0.60% | ~81 |
 | Good Difficulty | 0.60% | ~81 |
 | Patrons | 0.60% | ~81 |
-| Statesmen | 0.60% | ~81 |
 | Traders | 0.60% | ~81 |
 | Temple of Solomon | 0.60% | ~81 |
 | Pantheon | 0.60% | ~81 |
@@ -116,6 +116,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Dualism | 0.50% | ~67 |
 | Enlightenment | 0.50% | ~67 |
 | Redemption | 0.50% | ~67 |
+| Revelation | 0.50% | ~67 |
 | Cimmerian Archer | 0.50% | ~67 |
 | Ambition Victory | 0.50% | ~67 |
 | Bad Heir Day | 0.40% | ~54 |
@@ -129,7 +130,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | One True Faith | 0.40% | ~54 |
 | Military Prestige | 0.40% | ~54 |
 | Gnosticism | 0.40% | ~54 |
-| Revelation | 0.40% | ~54 |
 | Veneration | 0.40% | ~54 |
 | Kushite Cavalry | 0.40% | ~54 |
 | Turreted Elephant | 0.40% | ~54 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,418 (Ranked 117)  
+Progressed: 13,420 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -420,7 +420,7 @@ Completed: 5 (0.04%) (Ranked 226)
 | 2023-08-12 | 13,385 | 5 |
 | 2023-08-13 | 13,400 | 5 |
 | 2023-08-14 | 13,412 | 5 |
-| 2023-08-15 | 13,418 | 5 |
+| 2023-08-15 | 13,420 | 5 |
 ## Awards
 Max (Relaxing): 219  (Ranked 264)  
 Sum: 1,790 (Ranked 206)  

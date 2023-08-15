@@ -32,9 +32,9 @@ Number of Ratings: 836  (23.09.2022)
 | Real Survivor | 22.00% | ~1,828 |
 | Rocket Surgeon | 20.00% | ~1,662 |
 | War Never Changes | 19.00% | ~1,579 |
+| Friendly | 17.00% | ~1,413 |
 | Big Game Hunter | 17.00% | ~1,413 |
 | Spreading Influence | 17.00% | ~1,413 |
-| Friendly | 16.00% | ~1,329 |
 | Around the World | 16.00% | ~1,329 |
 | Bookworm | 15.00% | ~1,246 |
 | Famous Adventurer | 14.00% | ~1,163 |
@@ -186,8 +186,8 @@ Completed: 0 (0.00%) (Ranked 257)
 | 2023-08-15 | 8,309 | 0 |
 ## Awards
 Max (Extremely Fun): 100  (Ranked 336)  
-Sum: 687 (Ranked 276)  
-Diff (max vs sum): 60  
+Sum: 687 (Ranked 277)  
+Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 100 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 240,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewPlayers": 103,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1196,9 +1196,9 @@
       "Count": 67
     }
   ],
-  "EOS_Progressed": 5307,
+  "EOS_Progressed": 5308,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -7541,6 +7541,11 @@
       "Time": "2023-08-15T21:04:33.1894022+00:00",
       "NumProgressed": 5307,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-08-15T22:05:33.5071987+00:00",
+      "NumProgressed": 5308,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 31,
@@ -7552,7 +7557,7 @@
       "Name": "Get A Room",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 3927
+      "UsersEstimate": 3928
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -7568,7 +7573,7 @@
       "Name": "Disassembled",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1061
+      "UsersEstimate": 1062
     },
     {
       "ID": "DISMANTLE_ITEMS_50",
@@ -7592,7 +7597,7 @@
       "Name": "Having A Field Day",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 3927
+      "UsersEstimate": 3928
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -7600,7 +7605,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 3768
+      "UsersEstimate": 3769
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -7608,7 +7613,7 @@
       "Name": "A Party Now",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 1061
+      "UsersEstimate": 1062
     },
     {
       "ID": "HUNT_DEER_20",
@@ -7624,7 +7629,7 @@
       "Name": "Oh Deer!",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1061
+      "UsersEstimate": 1062
     },
     {
       "ID": "HUNT_RABBIT_20",
@@ -7680,7 +7685,7 @@
       "Name": "Feast or Famine",
       "Percentage": 49,
       "XP": 25,
-      "UsersEstimate": 2600
+      "UsersEstimate": 2601
     },
     {
       "ID": "STORE_NUTRITION_20000",
@@ -7696,7 +7701,7 @@
       "Name": "Putting Food on the Table",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 3131
+      "UsersEstimate": 3132
     },
     {
       "ID": "SURVIVE_FIRST_AUTUMN",
@@ -7744,7 +7749,7 @@
       "Name": "All Year Round",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 1061
+      "UsersEstimate": 1062
     },
     {
       "ID": "SURVIVE_SEVEN_DAY",
@@ -7768,15 +7773,15 @@
       "Name": "Adept Researcher",
       "Percentage": 44,
       "XP": 75,
-      "UsersEstimate": 2335
+      "UsersEstimate": 2336
     },
     {
       "ID": "UNLOCK_RESEARCH_25",
       "SetID": "5349c2e",
       "Name": "Luminary Researcher",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 1751
+      "UsersEstimate": 1699
     },
     {
       "ID": "UNLOCK_RESEARCH_3",
@@ -7799,15 +7804,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 5307,
+      "Progressed": 5308,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-08-15T08:00:41.1112132+00:00",
-  "LastChanged_Achievements": "2023-08-15T21:04:33.1894017+00:00",
+  "LastChanged_Achievements": "2023-08-15T22:05:33.5071984+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:55.0917319+00:00",
-  "LastUpdate_Ratings": "2023-08-15T21:00:48.5575144+00:00",
-  "LastUpdate_Achievements": "2023-08-15T21:04:33.1894638+00:00"
+  "LastUpdate_Ratings": "2023-08-15T22:02:31.7500211+00:00",
+  "LastUpdate_Achievements": "2023-08-15T22:05:33.5072462+00:00"
 }

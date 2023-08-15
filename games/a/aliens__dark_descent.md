@@ -19,7 +19,7 @@ Rating: 4.47 (Ranked 607)
 | Colonial Barrels | 51.00% | ~1,610 |
 | Harper's Hell | 45.00% | ~1,421 |
 | Making a Stand | 43.00% | ~1,358 |
-| Damn Dude, You Gotta Lose Some Weight! | 41.00% | ~1,294 |
+| Damn Dude, You Gotta Lose Some Weight! | 42.00% | ~1,326 |
 | Where It All Begun | 39.00% | ~1,231 |
 | Recouped Investment | 38.00% | ~1,200 |
 | Omelette Du Fromage | 33.00% | ~1,042 |

@@ -23,19 +23,19 @@ Rating: 4.88 (Ranked 18)
 | Z-shielding's got nothing on us! | 5.00% | ~196 |
 | Kissing the sky! | 5.00% | ~196 |
 | Does that say weakpoint? | 5.00% | ~196 |
-| Headliner | 4.00% | ~156 |
-| Time to pay up! | 4.00% | ~156 |
-| Who's the boss now? | 4.00% | ~156 |
-| I have to read these things? | 4.00% | ~156 |
-| You must like calling me in, Chai | 4.00% | ~156 |
-| Out in a puff of smoke | 4.00% | ~156 |
-| Perfecter Parry-er! | 4.00% | ~156 |
+| Headliner | 4.00% | ~157 |
+| Time to pay up! | 4.00% | ~157 |
+| Who's the boss now? | 4.00% | ~157 |
+| I have to read these things? | 4.00% | ~157 |
+| You must like calling me in, Chai | 4.00% | ~157 |
+| Out in a puff of smoke | 4.00% | ~157 |
+| Perfecter Parry-er! | 4.00% | ~157 |
 | NOW we got a kickass hideout! | 4.00% | ~97 |
 | Well that was a rush! | 3.00% | ~117 |
 | Beat-hit mania | 3.00% | ~117 |
 | That's a lot of junk metal… | 3.00% | ~117 |
+| There's such a thing as TOO helpful | 3.00% | ~117 |
 | Chip-tuned | 2.00% | ~78 |
-| There's such a thing as TOO helpful | 2.00% | ~78 |
 | I think I found your calling, Macaron | 1.00% | ~39 |
 | Wanna hear my playlist? | 1.00% | ~39 |
 | I told you I'd be fine, Peppermint! | 1.00% | ~39 |
@@ -52,8 +52,8 @@ Rating: 4.88 (Ranked 18)
 | OK, well THEY came after ME! | 0.40% | ~16 |
 | You ever parry a volcano? | 0.40% | ~16 |
 | Choose your own adventure | 0.40% | ~10 |
+| Problem solved... wait, what? | 0.30% | ~12 |
 | And the crowd goes wild! | 0.20% | ~8 |
-| Problem solved... wait, what? | 0.20% | ~8 |
 | Now this is how you fight like a team! | 0.20% | ~8 |
 | With our powers combined…and to the rhythm… | 0.20% | ~8 |
 | It'll do, CNMN | 0.20% | ~5 |
@@ -77,7 +77,7 @@ Rating: 4.88 (Ranked 18)
 | Voices from within | 0.10% | ~2 |
 | Low budget finish | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,912 (Ranked 147)  
+Progressed: 3,913 (Ranked 147)  
 Completed: 7 (0.18%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,7 +192,7 @@ Completed: 7 (0.18%) (Ranked 187)
 | 2023-08-12 | 3,868 | 7 |
 | 2023-08-13 | 3,885 | 7 |
 | 2023-08-14 | 3,899 | 7 |
-| 2023-08-15 | 3,912 | 7 |
+| 2023-08-15 | 3,913 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
