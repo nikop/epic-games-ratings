@@ -18,10 +18,10 @@ Rating: 4.45 (Ranked 633)
 | Taking it back | 5.00% | ~174 |
 | Target America | 5.00% | ~174 |
 | Climbing the Ladder | 4.00% | ~139 |
+| No Stone Unturned | 4.00% | ~139 |
 | Resourceful | 4.00% | ~139 |
 | Der Geist | 4.00% | ~139 |
 | Brains of the Operation | 4.00% | ~139 |
-| No Stone Unturned | 3.00% | ~104 |
 | Opposing Force | 3.00% | ~104 |
 | Organ Grinder | 3.00% | ~104 |
 | Gunslinger | 3.00% | ~104 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 633)
 | Alpha | 0.10% | ~3 |
 | Das Familienjuwel | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,479 (Ranked 150)  
+Progressed: 3,480 (Ranked 150)  
 Completed: 9 (0.26%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 9 (0.26%) (Ranked 173)
 | 2023-08-12 | 3,461 | 9 |
 | 2023-08-13 | 3,466 | 9 |
 | 2023-08-14 | 3,472 | 9 |
-| 2023-08-15 | 3,479 | 9 |
+| 2023-08-15 | 3,480 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

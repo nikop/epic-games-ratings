@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3121,
+  "EOS_Progressed": 3122,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -2759,6 +2759,11 @@
       "Time": "2023-08-13T19:04:35.8037973+00:00",
       "NumProgressed": 3121,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-08-15T17:05:05.1015965+00:00",
+      "NumProgressed": 3122,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 33,
@@ -2818,7 +2823,7 @@
       "Name": "You and what Army?",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2778
+      "UsersEstimate": 2779
     },
     {
       "ID": "campaign10",
@@ -2826,7 +2831,7 @@
       "Name": "Leave Them no Cake",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "campaign11",
@@ -2842,7 +2847,7 @@
       "Name": "Would be a Shame if Someone Would Waste Those Units",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "campaign13",
@@ -2930,7 +2935,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1498
+      "UsersEstimate": 1499
     },
     {
       "ID": "campaign5",
@@ -3033,7 +3038,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3121,
+      "Progressed": 3122,
       "Completed": 10
     }
   ],
@@ -3041,8 +3046,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-08-15T16:05:13.657056+00:00",
+  "LastChanged_Achievements": "2023-08-15T17:05:05.1015961+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:07.7708423+00:00",
-  "LastUpdate_Ratings": "2023-08-15T15:57:39.7773242+00:00",
-  "LastUpdate_Achievements": "2023-08-15T16:05:13.657088+00:00"
+  "LastUpdate_Ratings": "2023-08-15T16:57:43.7017887+00:00",
+  "LastUpdate_Achievements": "2023-08-15T17:05:05.101629+00:00"
 }

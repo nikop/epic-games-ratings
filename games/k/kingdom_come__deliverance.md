@@ -6,25 +6,25 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~255,085 |
-| Cavalier | 25.00% | ~199,285 |
-| Fatso | 23.00% | ~183,342 |
-| Awakening | 21.00% | ~167,399 |
-| Ranger | 20.00% | ~159,428 |
-| Scrooge | 20.00% | ~159,428 |
-| Anorectic | 16.00% | ~127,542 |
-| Bookworm | 15.00% | ~119,571 |
-| Firestarter | 15.00% | ~119,571 |
-| Insomniac | 13.00% | ~103,628 |
-| Buddy | 12.00% | ~95,657 |
-| Thief | 12.00% | ~95,657 |
-| Sinner | 11.00% | ~87,685 |
-| Convict | 10.00% | ~79,714 |
-| Traveller | 10.00% | ~79,714 |
+| Blacksmith's Son | 32.00% | ~255,088 |
+| Cavalier | 25.00% | ~199,287 |
+| Fatso | 23.00% | ~183,344 |
+| Awakening | 21.00% | ~167,401 |
+| Ranger | 20.00% | ~159,430 |
+| Scrooge | 20.00% | ~159,430 |
+| Anorectic | 16.00% | ~127,544 |
+| Bookworm | 15.00% | ~119,572 |
+| Firestarter | 15.00% | ~119,572 |
+| Insomniac | 13.00% | ~103,629 |
+| Buddy | 12.00% | ~95,658 |
+| Thief | 12.00% | ~95,658 |
+| Sinner | 11.00% | ~87,686 |
+| Convict | 10.00% | ~79,715 |
+| Traveller | 10.00% | ~79,715 |
 | Haggler | 9.00% | ~71,743 |
 | McLovin | 7.00% | ~55,800 |
 | Runt | 7.00% | ~55,800 |
-| Casanova | 6.00% | ~47,828 |
+| Casanova | 6.00% | ~47,829 |
 | Bad Trip | 5.00% | ~39,857 |
 | Monk | 5.00% | ~39,857 |
 | Serial Killer | 5.00% | ~39,857 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~797 |
 | Wingman | 0.10% | ~797 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 797,140 (Ranked 15)  
+Progressed: 797,149 (Ranked 15)  
 Completed: 44 (0.01%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,11 +206,11 @@ Completed: 44 (0.01%) (Ranked 244)
 | 2023-08-12 | 796,804 | 44 |
 | 2023-08-13 | 796,963 | 44 |
 | 2023-08-14 | 797,070 | 44 |
-| 2023-08-15 | 797,140 | 44 |
+| 2023-08-15 | 797,149 | 44 |
 ## Awards
-Max (Character Customization): 7,381  (Ranked 46)  
-Sum: 27,497 (Ranked 46)  
-Diff (max vs sum): 0  
+Max (Character Customization): 7,381  (Ranked 47)  
+Sum: 27,498 (Ranked 46)  
+Diff (max vs sum): 1  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,381 |
@@ -219,7 +219,7 @@ Diff (max vs sum): 0
 | This game has Amazing Storytelling | 1,682 |
 | This game has Diverse Characters | 1,666 |
 | This game is Extremely Fun | 1,653 |
-| This game is Highly Recommended | 1,644 |
+| This game is Highly Recommended | 1,645 |
 | This game has Amazing Characters | 1,626 |
 | This game has Realistic Visuals | 1,620 |
 | This game is Educational | 1,564 |
@@ -430,4 +430,4 @@ Diff (max vs sum): 0
 | 2023-08-12 | 4.71 | - | 7,381 | 27,484 |
 | 2023-08-13 | 4.71 | - | 7,381 | 27,489 |
 | 2023-08-14 | 4.71 | - | 7,381 | 27,496 |
-| 2023-08-15 | 4.71 | - | 7,381 | 27,497 |
+| 2023-08-15 | 4.71 | - | 7,381 | 27,498 |

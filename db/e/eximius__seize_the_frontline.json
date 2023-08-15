@@ -300,9 +300,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 194715,
+  "EOS_Progressed": 194719,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 552,
+  "EOS_NewPlayers": 553,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12885,6 +12885,11 @@
       "Time": "2023-08-15T16:04:32.5414586+00:00",
       "NumProgressed": 194715,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-15T17:04:12.6152214+00:00",
+      "NumProgressed": 194719,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -12896,7 +12901,7 @@
       "Name": "Battlesuit Victory",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 15577
+      "UsersEstimate": 15578
     },
     {
       "ID": "ACH_COMPLETE_TUTORIAL",
@@ -12904,7 +12909,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 138248
+      "UsersEstimate": 138250
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -12920,7 +12925,7 @@
       "Name": "Gated Community",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 5841
+      "UsersEstimate": 5842
     },
     {
       "ID": "ACH_INITIATION",
@@ -13023,7 +13028,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 194715,
+      "Progressed": 194719,
       "Completed": 4
     }
   ],
@@ -13031,8 +13036,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-08-12T15:01:47.6654015+00:00",
-  "LastChanged_Achievements": "2023-08-15T16:04:32.5414581+00:00",
+  "LastChanged_Achievements": "2023-08-15T17:04:12.615221+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:36.9380677+00:00",
-  "LastUpdate_Ratings": "2023-08-15T16:03:08.8464529+00:00",
-  "LastUpdate_Achievements": "2023-08-15T16:04:32.5415245+00:00"
+  "LastUpdate_Ratings": "2023-08-15T17:02:15.7465508+00:00",
+  "LastUpdate_Achievements": "2023-08-15T17:04:12.6152928+00:00"
 }

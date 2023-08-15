@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -306,9 +306,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5112,
+  "EOS_Progressed": 5113,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5781,6 +5781,11 @@
       "Time": "2023-08-15T10:06:09.0140504+00:00",
       "NumProgressed": 5112,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-15T17:06:40.3282447+00:00",
+      "NumProgressed": 5113,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 50,
@@ -5808,7 +5813,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "12",
@@ -5832,7 +5837,7 @@
       "Name": "Full Ascension",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "15",
@@ -6008,7 +6013,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "35",
@@ -6024,7 +6029,7 @@
       "Name": "Fiery Friend",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "37",
@@ -6032,7 +6037,7 @@
       "Name": "Against the Odds",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "38",
@@ -6048,7 +6053,7 @@
       "Name": "Impenetrable Fortress",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "4",
@@ -6144,7 +6149,7 @@
       "Name": "Here be Dragons",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "46",
@@ -6191,13 +6196,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5112,
+      "Progressed": 5113,
       "Completed": 4761
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5112,
+      "Progressed": 5113,
       "Completed": 5
     }
   ],
@@ -6205,8 +6210,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-08-15T16:02:42.5917687+00:00",
-  "LastChanged_Achievements": "2023-08-15T16:07:02.7645941+00:00",
+  "LastChanged_Achievements": "2023-08-15T17:06:40.3282443+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:11.8097072+00:00",
-  "LastUpdate_Ratings": "2023-08-15T16:02:42.5917692+00:00",
-  "LastUpdate_Achievements": "2023-08-15T16:07:02.7646589+00:00"
+  "LastUpdate_Ratings": "2023-08-15T17:01:53.0874583+00:00",
+  "LastUpdate_Achievements": "2023-08-15T17:06:40.3283071+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -294,9 +294,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 872,
+  "EOS_Progressed": 873,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1534,6 +1534,11 @@
       "Time": "2023-08-14T16:03:35.8658729+00:00",
       "NumProgressed": 872,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-15T17:03:31.9208134+00:00",
+      "NumProgressed": 873,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -1553,7 +1558,7 @@
       "Name": "Act II Complete",
       "Percentage": 20,
       "XP": 60,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "ACH_ACT_3_COMPLETE",
@@ -1601,7 +1606,7 @@
       "Name": "The best thing money can buy",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "ACH_BING_BANG_BOOM",
@@ -1625,7 +1630,7 @@
       "Name": "Breathe In\u2026 Breathe Out\u2026",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "ACH_CAPTURED_KILLER_OF_CAERBANNOG",
@@ -1655,9 +1660,9 @@
       "ID": "ACH_FIRE_AND_BRIMSTONE",
       "SetID": "108h92c",
       "Name": "Fire and Brimstone",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_GECKO_GOAL_GETTER",
@@ -1689,7 +1694,7 @@
       "Name": "I ain\u2019t afraid of no Ghost",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "ACH_I_CAN_FIX_IT",
@@ -1697,7 +1702,7 @@
       "Name": "I can fix it!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "ACH_LETS_PATCH_THINGS_UP",
@@ -1713,7 +1718,7 @@
       "Name": "No Ni\u00F1os",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "ACH_POST_NO_BILLS",
@@ -1751,16 +1756,16 @@
       "ID": "ACH_TRUELY_SHOCKING",
       "SetID": "108h92c",
       "Name": "Truly Shocking!",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 427
+      "UsersEstimate": 419
     }
   ],
   "AchievementSets": [
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 872,
+      "Progressed": 873,
       "Completed": 0
     }
   ],
@@ -1768,8 +1773,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-06-27T22:57:40.9300302+00:00",
-  "LastChanged_Achievements": "2023-08-15T16:04:19.5308531+00:00",
+  "LastChanged_Achievements": "2023-08-15T17:03:31.9208127+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:21.1884846+00:00",
-  "LastUpdate_Ratings": "2023-08-15T15:59:46.4800481+00:00",
-  "LastUpdate_Achievements": "2023-08-15T16:04:19.5308762+00:00"
+  "LastUpdate_Ratings": "2023-08-15T16:59:37.0149133+00:00",
+  "LastUpdate_Achievements": "2023-08-15T17:03:31.9208333+00:00"
 }

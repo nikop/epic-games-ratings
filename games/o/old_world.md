@@ -7,8 +7,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Clergy | 4.00% | ~537 |
-| Settler | 3.00% | ~402 |
-| Play a Single Player Game | 3.00% | ~402 |
+| Settler | 3.00% | ~403 |
+| Play a Single Player Game | 3.00% | ~403 |
 | Able | 2.00% | ~268 |
 | Architect | 2.00% | ~268 |
 | Enlightened | 2.00% | ~268 |
@@ -78,23 +78,23 @@ Number of Ratings: 1,307  (23.09.2022)
 | Conqueror | 0.70% | ~94 |
 | Champions | 0.70% | ~94 |
 | Building Wonders | 0.70% | ~94 |
-| Lion | 0.60% | ~80 |
-| Mighty | 0.60% | ~80 |
-| Victorious | 0.60% | ~80 |
-| Good Difficulty | 0.60% | ~80 |
-| Patrons | 0.60% | ~80 |
-| Statesmen | 0.60% | ~80 |
-| Traders | 0.60% | ~80 |
-| Temple of Solomon | 0.60% | ~80 |
-| Pantheon | 0.60% | ~80 |
-| Via Recta Souk | 0.60% | ~80 |
-| Power to the People | 0.60% | ~80 |
-| Persian Paganism | 0.60% | ~80 |
-| Legalism | 0.60% | ~80 |
-| Legionary | 0.60% | ~80 |
-| Phalangite | 0.60% | ~80 |
-| Double Victory | 0.60% | ~80 |
-| Win a Single Player Game | 0.60% | ~80 |
+| Lion | 0.60% | ~81 |
+| Mighty | 0.60% | ~81 |
+| Victorious | 0.60% | ~81 |
+| Good Difficulty | 0.60% | ~81 |
+| Patrons | 0.60% | ~81 |
+| Statesmen | 0.60% | ~81 |
+| Traders | 0.60% | ~81 |
+| Temple of Solomon | 0.60% | ~81 |
+| Pantheon | 0.60% | ~81 |
+| Via Recta Souk | 0.60% | ~81 |
+| Power to the People | 0.60% | ~81 |
+| Persian Paganism | 0.60% | ~81 |
+| Legalism | 0.60% | ~81 |
+| Legionary | 0.60% | ~81 |
+| Phalangite | 0.60% | ~81 |
+| Double Victory | 0.60% | ~81 |
+| Win a Single Player Game | 0.60% | ~81 |
 | Devout | 0.50% | ~67 |
 | Invincible | 0.50% | ~67 |
 | Subjugator | 0.50% | ~67 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,415 (Ranked 117)  
+Progressed: 13,417 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -420,7 +420,7 @@ Completed: 5 (0.04%) (Ranked 226)
 | 2023-08-12 | 13,385 | 5 |
 | 2023-08-13 | 13,400 | 5 |
 | 2023-08-14 | 13,412 | 5 |
-| 2023-08-15 | 13,415 | 5 |
+| 2023-08-15 | 13,417 | 5 |
 ## Awards
 Max (Relaxing): 219  (Ranked 264)  
 Sum: 1,790 (Ranked 206)  

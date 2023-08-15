@@ -694,9 +694,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 11974,
+  "EOS_Progressed": 11975,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -8974,6 +8974,11 @@
       "Time": "2023-08-15T16:03:32.2224091+00:00",
       "NumProgressed": 11974,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-08-15T17:02:34.4828382+00:00",
+      "NumProgressed": 11975,
+      "NumCompleted": 39
     }
   ],
   "TotalAchievements": 35,
@@ -8985,7 +8990,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9699
+      "UsersEstimate": 9700
     },
     {
       "ID": "ACH02",
@@ -9017,7 +9022,7 @@
       "Name": "A Legitimate Business",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ACH06",
@@ -9025,7 +9030,7 @@
       "Name": "I\u2019ll Have Two Number 9s",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ACH07",
@@ -9057,7 +9062,7 @@
       "Name": "Who Needs Directions?",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ACH11",
@@ -9073,7 +9078,7 @@
       "Name": "Swiss Army Strife",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ACH13",
@@ -9081,7 +9086,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 2155
+      "UsersEstimate": 2156
     },
     {
       "ID": "ACH14",
@@ -9137,7 +9142,7 @@
       "Name": "Yes I Speak English",
       "Percentage": 2,
       "XP": 45,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ACH21",
@@ -9185,7 +9190,7 @@
       "Name": "Double or Nothin\u0027",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ACH27",
@@ -9193,7 +9198,7 @@
       "Name": "Assassin",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ACH28",
@@ -9217,7 +9222,7 @@
       "Name": "Public Enemy No. 1",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ACH31",
@@ -9233,7 +9238,7 @@
       "Name": "Ain\u2019t Nothing But a G Thing",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ACH33",
@@ -9264,7 +9269,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11974,
+      "Progressed": 11975,
       "Completed": 39
     }
   ],
@@ -9272,8 +9277,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-08-14T18:57:43.9990974+00:00",
-  "LastChanged_Achievements": "2023-08-15T16:03:32.2224085+00:00",
+  "LastChanged_Achievements": "2023-08-15T17:02:34.4828378+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:11.1716171+00:00",
-  "LastUpdate_Ratings": "2023-08-15T15:57:50.2664923+00:00",
-  "LastUpdate_Achievements": "2023-08-15T16:03:32.2224799+00:00"
+  "LastUpdate_Ratings": "2023-08-15T16:57:48.7352243+00:00",
+  "LastUpdate_Achievements": "2023-08-15T17:02:34.4829035+00:00"
 }

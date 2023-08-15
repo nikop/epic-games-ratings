@@ -1628,9 +1628,9 @@
       "ID": "AMMO_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "How Many Do You Need?",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 300
+      "UsersEstimate": 307
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -1660,9 +1660,9 @@
       "ID": "ATK_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Beware of the Goat",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 256
+      "UsersEstimate": 264
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -2044,9 +2044,9 @@
       "ID": "NOTE_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Buy A Book",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 81
     },
     {
       "ID": "OUT_ACHIEVEMENT_1",
@@ -2155,8 +2155,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-08-15T16:08:38.1731297+00:00",
+  "LastChanged_Achievements": "2023-08-15T17:07:49.0784407+00:00",
   "LastUpdate_AppInfo": "2023-08-10T15:57:09.1792695+00:00",
-  "LastUpdate_Ratings": "2023-08-15T15:58:39.1298435+00:00",
-  "LastUpdate_Achievements": "2023-08-15T16:08:38.1731915+00:00"
+  "LastUpdate_Ratings": "2023-08-15T16:58:37.5713745+00:00",
+  "LastUpdate_Achievements": "2023-08-15T17:07:49.0785024+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -212,9 +212,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6970,
+  "EOS_Progressed": 6972,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -5587,6 +5587,11 @@
       "Time": "2023-08-15T16:06:43.5821633+00:00",
       "NumProgressed": 6970,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-08-15T17:06:25.4313047+00:00",
+      "NumProgressed": 6972,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 21,
@@ -5678,7 +5683,7 @@
       "Name": "Happy Camper",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "HISTORIAN",
@@ -5710,7 +5715,7 @@
       "Name": "Liberator",
       "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "LIVE_WIRE",
@@ -5726,7 +5731,7 @@
       "Name": "Shredder",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "SNIP_SNIP",
@@ -5765,7 +5770,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6970,
+      "Progressed": 6972,
       "Completed": 32
     }
   ],
@@ -5773,8 +5778,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-08-07T01:56:04.2387619+00:00",
-  "LastChanged_Achievements": "2023-08-15T16:06:43.5821629+00:00",
+  "LastChanged_Achievements": "2023-08-15T17:06:25.4313043+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:36.6050185+00:00",
-  "LastUpdate_Ratings": "2023-08-15T16:00:25.7823962+00:00",
-  "LastUpdate_Achievements": "2023-08-15T16:06:43.5822004+00:00"
+  "LastUpdate_Ratings": "2023-08-15T17:00:12.8931363+00:00",
+  "LastUpdate_Achievements": "2023-08-15T17:06:25.431341+00:00"
 }

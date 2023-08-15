@@ -6,12 +6,12 @@ Number of Ratings: 74  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Small Community | 56.00% | ~3,937 |
-| A Grove Replanted | 53.00% | ~3,726 |
+| A Small Community | 56.00% | ~3,938 |
+| A Grove Replanted | 53.00% | ~3,727 |
 | Fields Watered | 41.00% | ~2,883 |
 | Settling the Skies | 41.00% | ~2,883 |
-| Seekers Found | 40.00% | ~2,812 |
-| Wind Powered | 40.00% | ~2,812 |
+| Seekers Found | 40.00% | ~2,813 |
+| Wind Powered | 40.00% | ~2,813 |
 | It Takes a Village | 34.00% | ~2,391 |
 | On the Town | 28.00% | ~1,969 |
 | Daylight Found | 26.00% | ~1,828 |
@@ -27,14 +27,14 @@ Number of Ratings: 74  (23.09.2022)
 | A Peaceful Respite | 14.00% | ~984 |
 | A Learned Scholar | 13.00% | ~914 |
 | Prophecy Fulfilled | 13.00% | ~914 |
-| A Wanderer’s Guide | 11.00% | ~773 |
+| A Wanderer’s Guide | 11.00% | ~774 |
 | Knowledge Seeker | 7.00% | ~492 |
 | The Cycle Continues | 3.00% | ~211 |
 | Glowing Waters | 2.00% | ~141 |
 | Sparkling Alloys | 2.00% | ~141 |
 | A True Challenge | 2.00% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,031 (Ranked 132)  
+Progressed: 7,032 (Ranked 132)  
 Completed: 53 (0.75%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 53 (0.75%) (Ranked 124)
 | 2023-08-12 | 7,016 | 53 |
 | 2023-08-13 | 7,020 | 53 |
 | 2023-08-14 | 7,026 | 53 |
-| 2023-08-15 | 7,031 | 53 |
+| 2023-08-15 | 7,032 | 53 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

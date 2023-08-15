@@ -5,58 +5,58 @@ Rating: 4.77 (Ranked 107)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 10.00% | ~15,132 |
-| The Killing Jar | 9.00% | ~13,619 |
-| Not Your Average Trait | 8.00% | ~12,106 |
-| Expanding Horizons | 7.00% | ~10,593 |
-| Quest for Survival | 7.00% | ~10,593 |
-| Gleaming the Cube | 6.00% | ~9,079 |
-| Familiar Face | 6.00% | ~9,079 |
-| Duality | 6.00% | ~9,079 |
-| Boss'n Up | 6.00% | ~9,079 |
-| Trait Chaser | 6.00% | ~9,079 |
-| Not a Janitor | 5.00% | ~7,566 |
-| Equal Measures | 5.00% | ~7,566 |
-| Blue Goddess | 5.00% | ~7,566 |
-| Top Performer | 5.00% | ~7,566 |
-| Almost There | 5.00% | ~7,566 |
-| Make Some Room | 5.00% | ~7,566 |
-| Good, But Could Be Better! | 5.00% | ~7,566 |
-| Chaos | 4.00% | ~6,053 |
-| Traitor | 4.00% | ~6,053 |
-| Power Surge | 4.00% | ~6,053 |
-| The God Gambit | 4.00% | ~6,053 |
-| Dark Designs | 4.00% | ~6,053 |
-| Not So Special Now | 4.00% | ~6,053 |
-| Shhh...It's a Secret | 4.00% | ~6,053 |
-| Was This Supposed To Happen? | 4.00% | ~6,053 |
-| The Web | 4.00% | ~6,053 |
-| Forever is a Long Time Coming | 3.00% | ~4,540 |
-| Madman's Paradise | 3.00% | ~4,540 |
-| The Agenda | 3.00% | ~4,540 |
-| Bad Moon Rising | 3.00% | ~4,540 |
-| Scrap Collector | 3.00% | ~4,540 |
-| All These Traits� | 3.00% | ~4,540 |
-| Am I Seeing This? | 2.00% | ~3,026 |
-| Red Room | 2.00% | ~3,026 |
-| Tall Tales | 2.00% | ~3,026 |
-| Strapped | 2.00% | ~3,026 |
-| Edgelord | 2.00% | ~3,026 |
-| Carnage in C-Minor | 2.00% | ~3,026 |
-| The Ultimate Weapon | 2.00% | ~3,026 |
-| No One Should Have All That Power | 2.00% | ~3,026 |
-| Transmutate | 2.00% | ~3,026 |
-| Crafty | 1.00% | ~1,513 |
-| Only Human | 1.00% | ~1,513 |
-| The Collector | 1.00% | ~1,513 |
-| Scrap Hoarder | 1.00% | ~1,513 |
-| Maxed Out! | 1.00% | ~1,513 |
-| The Trigger | 0.70% | ~1,059 |
-| Cutting Edge | 0.70% | ~1,059 |
-| Ghost in the Machine | 0.60% | ~908 |
-| Proving Grounds | 0.40% | ~605 |
+| First of Many | 10.00% | ~15,144 |
+| The Killing Jar | 9.00% | ~13,630 |
+| Not Your Average Trait | 8.00% | ~12,115 |
+| Expanding Horizons | 7.00% | ~10,601 |
+| Quest for Survival | 7.00% | ~10,601 |
+| Gleaming the Cube | 6.00% | ~9,086 |
+| Familiar Face | 6.00% | ~9,086 |
+| Duality | 6.00% | ~9,086 |
+| Boss'n Up | 6.00% | ~9,086 |
+| Trait Chaser | 6.00% | ~9,086 |
+| Not a Janitor | 5.00% | ~7,572 |
+| Equal Measures | 5.00% | ~7,572 |
+| Blue Goddess | 5.00% | ~7,572 |
+| Top Performer | 5.00% | ~7,572 |
+| Almost There | 5.00% | ~7,572 |
+| Make Some Room | 5.00% | ~7,572 |
+| Good, But Could Be Better! | 5.00% | ~7,572 |
+| Chaos | 4.00% | ~6,058 |
+| Traitor | 4.00% | ~6,058 |
+| Power Surge | 4.00% | ~6,058 |
+| The God Gambit | 4.00% | ~6,058 |
+| Dark Designs | 4.00% | ~6,058 |
+| Not So Special Now | 4.00% | ~6,058 |
+| Shhh...It's a Secret | 4.00% | ~6,058 |
+| Was This Supposed To Happen? | 4.00% | ~6,058 |
+| The Web | 4.00% | ~6,058 |
+| Forever is a Long Time Coming | 3.00% | ~4,543 |
+| Madman's Paradise | 3.00% | ~4,543 |
+| The Agenda | 3.00% | ~4,543 |
+| Bad Moon Rising | 3.00% | ~4,543 |
+| Scrap Collector | 3.00% | ~4,543 |
+| All These Traits� | 3.00% | ~4,543 |
+| Am I Seeing This? | 2.00% | ~3,029 |
+| Red Room | 2.00% | ~3,029 |
+| Tall Tales | 2.00% | ~3,029 |
+| Strapped | 2.00% | ~3,029 |
+| Edgelord | 2.00% | ~3,029 |
+| Carnage in C-Minor | 2.00% | ~3,029 |
+| The Ultimate Weapon | 2.00% | ~3,029 |
+| No One Should Have All That Power | 2.00% | ~3,029 |
+| Transmutate | 2.00% | ~3,029 |
+| Crafty | 1.00% | ~1,514 |
+| Only Human | 1.00% | ~1,514 |
+| The Collector | 1.00% | ~1,514 |
+| Scrap Hoarder | 1.00% | ~1,514 |
+| Maxed Out! | 1.00% | ~1,514 |
+| The Trigger | 0.70% | ~1,060 |
+| Cutting Edge | 0.70% | ~1,060 |
+| Ghost in the Machine | 0.60% | ~909 |
+| Proving Grounds | 0.40% | ~606 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 151,323 (Ranked 63)  
+Progressed: 151,439 (Ranked 63)  
 Completed: 56 (0.04%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 56 (0.04%) (Ranked 226)
 | 2023-08-12 | 145,700 | 42 |
 | 2023-08-13 | 148,269 | 53 |
 | 2023-08-14 | 150,092 | 55 |
-| 2023-08-15 | 151,323 | 56 |
+| 2023-08-15 | 151,439 | 56 |
 ## Awards
 Max (Great Boss Battles): 832  (Ranked 152)  
 Sum: 1,251 (Ranked 228)  

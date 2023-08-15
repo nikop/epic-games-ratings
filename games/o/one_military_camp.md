@@ -15,13 +15,13 @@
 | Green Energy | 9.00% | ~13 |
 | Health Care | 7.00% | ~10 |
 | Good payer | 7.00% | ~10 |
+| Ammo Tycoon | 7.00% | ~10 |
 | Jantine: the Misfortunes of Evil | 6.00% | ~8 |
 | Perfect Soldier | 6.00% | ~8 |
+| Healing | 6.00% | ~8 |
 | Pathfinder | 6.00% | ~8 |
 | Food Tycoon | 6.00% | ~8 |
 | Fuel Tycoon | 6.00% | ~8 |
-| Ammo Tycoon | 6.00% | ~8 |
-| Healing | 5.00% | ~7 |
 | Self-sufficient | 5.00% | ~7 |
 | Medicine Tycoon | 5.00% | ~7 |
 | Supersoldier | 4.00% | ~6 |
@@ -39,11 +39,11 @@
 | Snowman | 1.00% | ~1 |
 | Reconquest | 1.00% | ~1 |
 | Economist | 0.70% | ~1 |
+| Conveyor Belt Madness | 0.70% | ~1 |
 | Attack of the Drones | 0.00% | ~0 |
 | Counter-espionage | 0.00% | ~0 |
 | Self-management | 0.00% | ~0 |
 | War Veteran | 0.00% | ~0 |
-| Conveyor Belt Madness | 0.00% | ~0 |
 | First Victory | 0.00% | ~0 |
 | Sandbox Expert | 0.00% | ~0 |
 | Against Adversity | 0.00% | ~0 |
