@@ -1633,9 +1633,9 @@
       "ID": "AMMO_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "How Many Do You Need?",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 301
+      "UsersEstimate": 308
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -1665,9 +1665,9 @@
       "ID": "ATK_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Beware of the Goat",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 257
+      "UsersEstimate": 264
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -1913,9 +1913,9 @@
       "ID": "KILLR_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "Who You Gonna Call?",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 213
+      "UsersEstimate": 220
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -2057,9 +2057,9 @@
       "ID": "OUT_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "The Last of Us",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 169
     },
     {
       "ID": "PASS_ACHIEVEMENT_1",
@@ -2160,8 +2160,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-08-15T19:06:43.4037537+00:00",
+  "LastChanged_Achievements": "2023-08-15T20:07:23.9098444+00:00",
   "LastUpdate_AppInfo": "2023-08-10T15:57:09.1792695+00:00",
-  "LastUpdate_Ratings": "2023-08-15T18:58:10.3238025+00:00",
-  "LastUpdate_Achievements": "2023-08-15T19:06:43.4038279+00:00"
+  "LastUpdate_Ratings": "2023-08-15T19:58:27.1062359+00:00",
+  "LastUpdate_Achievements": "2023-08-15T20:07:23.9099631+00:00"
 }

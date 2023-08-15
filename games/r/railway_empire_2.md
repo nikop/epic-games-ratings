@@ -10,15 +10,15 @@ Rating: 4.50 (Ranked 559)
 | Departure | 73.00% | ~1,313 |
 | From X to Y | 72.00% | ~1,295 |
 | Way of Iron | 70.00% | ~1,259 |
-| Mystery Tour | 68.00% | ~1,223 |
+| Mystery Tour | 69.00% | ~1,241 |
 | We brake for nobody | 67.00% | ~1,205 |
 | Brainstorm | 66.00% | ~1,187 |
 | Travel Company | 65.00% | ~1,169 |
 | Mind the Gap | 64.00% | ~1,151 |
 | All around the World | 62.00% | ~1,115 |
 | Right through the middle | 57.00% | ~1,025 |
+| Poor Devil | 54.00% | ~971 |
 | Facility Manager | 53.00% | ~953 |
-| Poor Devil | 53.00% | ~953 |
 | Producer | 50.00% | ~900 |
 | Apprentice | 42.00% | ~756 |
 | Bridge Builder | 41.00% | ~738 |

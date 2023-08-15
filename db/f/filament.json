@@ -237,9 +237,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 199155,
+  "EOS_Progressed": 199164,
   "EOS_Completed": 479,
-  "EOS_NewPlayers": 575,
+  "EOS_NewPlayers": 582,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -12792,6 +12792,11 @@
       "Time": "2023-08-15T19:03:44.8112417+00:00",
       "NumProgressed": 199155,
       "NumCompleted": 479
+    },
+    {
+      "Time": "2023-08-15T20:03:34.2520582+00:00",
+      "NumProgressed": 199164,
+      "NumCompleted": 479
     }
   ],
   "TotalAchievements": 29,
@@ -12827,7 +12832,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 187206
+      "UsersEstimate": 187214
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -12939,7 +12944,7 @@
       "Name": "So you\u0027re saying I don\u0027t touch these ones?",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 11949
+      "UsersEstimate": 11950
     },
     {
       "ID": "ACHIEVEMENT_OPUS",
@@ -13034,7 +13039,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 199155,
+      "Progressed": 199164,
       "Completed": 479
     }
   ],
@@ -13042,8 +13047,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-08-12T04:00:44.2118416+00:00",
-  "LastChanged_Achievements": "2023-08-15T19:03:44.8112412+00:00",
+  "LastChanged_Achievements": "2023-08-15T20:03:34.2520577+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:39.8654099+00:00",
-  "LastUpdate_Ratings": "2023-08-15T19:00:06.6390103+00:00",
-  "LastUpdate_Achievements": "2023-08-15T19:03:44.8113549+00:00"
+  "LastUpdate_Ratings": "2023-08-15T20:00:57.5471878+00:00",
+  "LastUpdate_Achievements": "2023-08-15T20:03:34.2521833+00:00"
 }

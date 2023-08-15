@@ -1,7 +1,7 @@
 # Train Valley
 [Store](https://store.epicgames.com/en-US/p/train-valley-ead642)  
 [View Rawdata](../../db/t/train_valley.json)  
-Rating: 4.46 (Ranked 618)  
+Rating: 4.48 (Ranked 589)  
 Number of Ratings: 28  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -132,3 +132,4 @@ Completed: 2 (0.46%) (Ranked 148)
 | 2023-07-28 | 4.46 | - | 0 | 0 |
 | 2023-08-02 | 4.45 | - | 0 | 0 |
 | 2023-08-05 | 4.46 | - | 0 | 0 |
+| 2023-08-15 | 4.48 | - | 0 | 0 |

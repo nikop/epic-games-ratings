@@ -37,7 +37,7 @@
 | Extreme neuropower! | 54.00% | ~136 |
 | Escaped from a big trouble | 52.00% | ~131 |
 | Now you are worthy | 49.00% | ~123 |
-| Guiding on the right path | 46.00% | ~116 |
+| Guiding on the right path | 47.00% | ~118 |
 | No blades in the gym | 45.00% | ~113 |
 | Fight is life | 44.00% | ~111 |
 | Mysterious voice | 44.00% | ~111 |

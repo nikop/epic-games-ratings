@@ -3,8 +3,8 @@
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
   "Ranking_Rating": 887,
-  "Ranking_Popularity": 482,
-  "Ranking_PopularitySum": 487,
+  "Ranking_Popularity": 483,
+  "Ranking_PopularitySum": 488,
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 244,
   "Ranking_EOS_NewPlayers": 122,
@@ -334,9 +334,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 39675,
+  "EOS_Progressed": 39677,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7334,6 +7334,11 @@
       "Time": "2023-08-15T19:04:20.1491202+00:00",
       "NumProgressed": 39675,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-15T20:04:20.0689566+00:00",
+      "NumProgressed": 39677,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -7537,7 +7542,7 @@
       "Name": "Leapfrogger",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2380
+      "UsersEstimate": 2381
     },
     {
       "ID": "LOCATION_FIFTY",
@@ -7633,7 +7638,7 @@
       "Name": "Pilgrimage: Initiate",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2380
+      "UsersEstimate": 2381
     },
     {
       "ID": "MONUMENT_TWENTY",
@@ -7697,7 +7702,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2380
+      "UsersEstimate": 2381
     },
     {
       "ID": "STAYING_AIR",
@@ -7768,22 +7773,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 39675,
+      "Progressed": 39677,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 4512,
-      "Completed": 4512
+      "Progressed": 4514,
+      "Completed": 4514
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-08-08T01:54:06.2401018+00:00",
-  "LastChanged_Achievements": "2023-08-15T19:04:20.1491197+00:00",
+  "LastChanged_Achievements": "2023-08-15T20:04:20.0689557+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:15.0269644+00:00",
-  "LastUpdate_Ratings": "2023-08-15T18:59:47.0926377+00:00",
-  "LastUpdate_Achievements": "2023-08-15T19:04:20.1492141+00:00"
+  "LastUpdate_Ratings": "2023-08-15T20:00:32.532231+00:00",
+  "LastUpdate_Achievements": "2023-08-15T20:04:20.0690661+00:00"
 }

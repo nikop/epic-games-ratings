@@ -76,10 +76,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens in Babylon | 0.70% | ~94 |
 | Beloved | 0.70% | ~94 |
 | Conqueror | 0.70% | ~94 |
+| Mighty | 0.70% | ~94 |
 | Champions | 0.70% | ~94 |
 | Building Wonders | 0.70% | ~94 |
 | Lion | 0.60% | ~81 |
-| Mighty | 0.60% | ~81 |
 | Victorious | 0.60% | ~81 |
 | Good Difficulty | 0.60% | ~81 |
 | Patrons | 0.60% | ~81 |
@@ -88,6 +88,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Temple of Solomon | 0.60% | ~81 |
 | Pantheon | 0.60% | ~81 |
 | Via Recta Souk | 0.60% | ~81 |
+| Learn to Play 3 | 0.60% | ~81 |
 | Power to the People | 0.60% | ~81 |
 | Persian Paganism | 0.60% | ~81 |
 | Legalism | 0.60% | ~81 |
@@ -108,7 +109,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hagia Sophia | 0.50% | ~67 |
 | Church of the Holy Sepulchre | 0.50% | ~67 |
 | Adur Burzen-Mihr | 0.50% | ~67 |
-| Learn to Play 3 | 0.50% | ~67 |
 | Carthage | 0.50% | ~67 |
 | Assyrian Paganism | 0.50% | ~67 |
 | Economic Reform | 0.50% | ~67 |
@@ -122,6 +122,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Old | 0.40% | ~54 |
 | Strong Difficulty | 0.40% | ~54 |
 | Clerics | 0.40% | ~54 |
+| Learn to Play 4 | 0.40% | ~54 |
 | Babylonia | 0.40% | ~54 |
 | Rome | 0.40% | ~54 |
 | One True Faith | 0.40% | ~54 |
@@ -137,7 +138,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Peacemaker | 0.30% | ~40 |
 | Noble Difficulty | 0.30% | ~40 |
 | Cao'an | 0.30% | ~40 |
-| Learn to Play 4 | 0.30% | ~40 |
 | Egypt | 0.30% | ~40 |
 | Persia | 0.30% | ~40 |
 | Old World Order | 0.30% | ~40 |

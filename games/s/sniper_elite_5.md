@@ -5,6 +5,8 @@ Rating: 4.45 (Ranked 633)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Taking it back | 6.00% | ~209 |
+| Target America | 6.00% | ~209 |
 | The Kraken Sleeps | 6.00% | ~209 |
 | Liberté | 5.00% | ~174 |
 | Meeting Resistance | 5.00% | ~174 |
@@ -15,16 +17,14 @@ Rating: 4.45 (Ranked 633)
 | The Kraken Wakes | 5.00% | ~174 |
 | It's Starting to Crack | 5.00% | ~174 |
 | Change the Channel | 5.00% | ~174 |
-| Taking it back | 5.00% | ~174 |
-| Target America | 5.00% | ~174 |
 | Climbing the Ladder | 4.00% | ~139 |
 | No Stone Unturned | 4.00% | ~139 |
+| Gunslinger | 4.00% | ~139 |
 | Resourceful | 4.00% | ~139 |
 | Der Geist | 4.00% | ~139 |
 | Brains of the Operation | 4.00% | ~139 |
 | Opposing Force | 3.00% | ~104 |
 | Organ Grinder | 3.00% | ~104 |
-| Gunslinger | 3.00% | ~104 |
 | Skirmisher | 3.00% | ~104 |
 | Explosive Efficiency | 3.00% | ~104 |
 | Close Quarters | 3.00% | ~104 |
@@ -56,9 +56,9 @@ Rating: 4.45 (Ranked 633)
 | Siegebreaker | 0.70% | ~24 |
 | Ghost of Falaise | 0.70% | ~24 |
 | Shoot for the Moon | 0.60% | ~21 |
+| Up close and personal | 0.50% | ~17 |
 | If You Go Down To The Woods Today | 0.50% | ~17 |
 | Fight Another Day | 0.50% | ~17 |
-| Up close and personal | 0.40% | ~14 |
 | Can't Outrun A Bullet | 0.40% | ~14 |
 | Best of the Best | 0.30% | ~10 |
 | Master of Secondaries | 0.30% | ~10 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 633)
 | Alpha | 0.10% | ~3 |
 | Das Familienjuwel | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,480 (Ranked 150)  
+Progressed: 3,481 (Ranked 150)  
 Completed: 9 (0.26%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 9 (0.26%) (Ranked 173)
 | 2023-08-12 | 3,461 | 9 |
 | 2023-08-13 | 3,466 | 9 |
 | 2023-08-14 | 3,472 | 9 |
-| 2023-08-15 | 3,480 | 9 |
+| 2023-08-15 | 3,481 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

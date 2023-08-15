@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -464,9 +464,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3480,
+  "EOS_Progressed": 3481,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -5979,6 +5979,11 @@
       "Time": "2023-08-15T17:04:21.4417712+00:00",
       "NumProgressed": 3480,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-15T20:03:41.7084372+00:00",
+      "NumProgressed": 3481,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 71,
@@ -6108,9 +6113,9 @@
       "ID": "REWARD_24_GUNSLINGER",
       "SetID": "bm6el81",
       "Name": "Gunslinger",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 139
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -6332,9 +6337,9 @@
       "ID": "REWARD_64_KNIFE_ELITE",
       "SetID": "bm6el81",
       "Name": "Up close and personal",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 17
     },
     {
       "ID": "REWARD_66_VEHICULAR_OMNICIDE",
@@ -6356,9 +6361,9 @@
       "ID": "REWARD_6_BIG_GAME_HUNTER",
       "SetID": "bm6el81",
       "Name": "Taking it back",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 174
+      "UsersEstimate": 209
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -6380,9 +6385,9 @@
       "ID": "REWARD_7_TARGET_AMERICA",
       "SetID": "bm6el81",
       "Name": "Target America",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 174
+      "UsersEstimate": 209
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -6557,13 +6562,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3431,
+      "Progressed": 3432,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3480,
+      "Progressed": 3481,
       "Completed": 9
     }
   ],
@@ -6571,8 +6576,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-08-15T14:58:15.1556932+00:00",
-  "LastChanged_Achievements": "2023-08-15T19:03:50.6378674+00:00",
+  "LastChanged_Achievements": "2023-08-15T20:03:41.7084366+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:04.4888171+00:00",
-  "LastUpdate_Ratings": "2023-08-15T18:58:09.7218008+00:00",
-  "LastUpdate_Achievements": "2023-08-15T19:03:50.6379693+00:00"
+  "LastUpdate_Ratings": "2023-08-15T19:58:26.4700814+00:00",
+  "LastUpdate_Achievements": "2023-08-15T20:03:41.7085741+00:00"
 }

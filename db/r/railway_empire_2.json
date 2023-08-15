@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -4536,9 +4536,9 @@
       "ID": "A38",
       "SetID": "9b7p7eo",
       "Name": "Poor Devil",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 953
+      "UsersEstimate": 971
     },
     {
       "ID": "A39",
@@ -4600,9 +4600,9 @@
       "ID": "A46",
       "SetID": "9b7p7eo",
       "Name": "Mystery Tour",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1223
+      "UsersEstimate": 1241
     },
     {
       "ID": "A47",
@@ -4681,8 +4681,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-08-12T01:37:01.4774443+00:00",
-  "LastChanged_Achievements": "2023-08-15T19:05:29.5280342+00:00",
+  "LastChanged_Achievements": "2023-08-15T20:05:45.0243238+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:49.1747301+00:00",
-  "LastUpdate_Ratings": "2023-08-15T18:59:27.7366842+00:00",
-  "LastUpdate_Achievements": "2023-08-15T19:05:29.5281132+00:00"
+  "LastUpdate_Ratings": "2023-08-15T20:00:06.7732526+00:00",
+  "LastUpdate_Achievements": "2023-08-15T20:05:45.0244062+00:00"
 }

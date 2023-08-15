@@ -6,20 +6,20 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~35,357 |
-| Biggest Communism Builder | 24.00% | ~30,306 |
-| The World's Most Laughable Centrist | 20.00% | ~25,255 |
+| Goodest Of The Good Cops | 28.00% | ~35,358 |
+| Biggest Communism Builder | 24.00% | ~30,307 |
+| The World's Most Laughable Centrist | 20.00% | ~25,256 |
 | Il Coppo Del'Arte! | 18.00% | ~22,730 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,204 |
-| Hyperstellar Law Official | 15.00% | ~18,941 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~17,678 |
+| Hyperstellar Law Official | 15.00% | ~18,942 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~17,679 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~16,416 |
 | Gurdi-Ball Is Lit | 13.00% | ~16,416 |
-| Truly Rabid *Traditionalist* | 11.00% | ~13,890 |
+| Truly Rabid *Traditionalist* | 11.00% | ~13,891 |
 | The Figurines Won't Win Her Back | 9.00% | ~11,365 |
 | Unbelievably Boring **** | 8.00% | ~10,102 |
 | Enemy Of The Physical Realm | 8.00% | ~10,102 |
-| Hardie's Heroes | 6.00% | ~7,576 |
+| Hardie's Heroes | 6.00% | ~7,577 |
 | The Lawbringer | 4.00% | ~5,051 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~5,051 |
 | The Opener Of The Eighth Seal | 3.00% | ~3,788 |
@@ -30,7 +30,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Wheel of Pleasure and Light | 2.00% | ~2,526 |
 | Massive Torque Dork | 1.00% | ~1,263 |
 | Avowed Inframaterialist | 1.00% | ~1,263 |
-| Real Musor | 0.90% | ~1,136 |
+| Real Musor | 0.90% | ~1,137 |
 | Baddest Brow in Town | 0.80% | ~1,010 |
 | Committee of la Responsabilité | 0.80% | ~1,010 |
 | Venture into the HARDCORE | 0.80% | ~1,010 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~126 |
 | What body? | 0.10% | ~126 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,275 (Ranked 67)  
+Progressed: 126,278 (Ranked 67)  
 Completed: 27 (0.02%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,7 +164,7 @@ Completed: 27 (0.02%) (Ranked 237)
 | 2023-08-12 | 126,104 | 27 |
 | 2023-08-13 | 126,181 | 27 |
 | 2023-08-14 | 126,238 | 27 |
-| 2023-08-15 | 126,275 | 27 |
+| 2023-08-15 | 126,278 | 27 |
 ## Awards
 Max (Character Customization): 718  (Ranked 165)  
 Sum: 1,080 (Ranked 235)  
