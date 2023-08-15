@@ -2,10 +2,10 @@
   "ID": "eeeac1c46be840b1a8977237cbeb6b09",
   "Name": "Sylvio And The Mountains Giants",
   "ProductSlug": "sylvio-and-the-mountains-giants-e336bb",
-  "Ranking_EOS_Progress": 543,
-  "Ranking_EOS_Completed": 255,
+  "Ranking_EOS_Progress": 544,
+  "Ranking_EOS_Completed": 256,
   "Ranking_EOS_NewPlayers": 355,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-07-14T17:00:00+00:00",
     "PcReleaseDate": "2023-07-14T17:00:00+00:00",
@@ -119,8 +119,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-13T18:01:13.3280621+00:00",
-  "LastChanged_Achievements": "2023-08-15T09:03:17.9058496+00:00",
+  "LastChanged_Achievements": "2023-08-15T10:03:37.5228277+00:00",
   "LastUpdate_AppInfo": "2023-08-10T19:57:06.001524+00:00",
-  "LastUpdate_Ratings": "2023-08-15T08:58:14.5218222+00:00",
-  "LastUpdate_Achievements": "2023-08-15T09:03:17.9058608+00:00"
+  "LastUpdate_Ratings": "2023-08-15T09:58:23.1000126+00:00",
+  "LastUpdate_Achievements": "2023-08-15T10:03:37.5228383+00:00"
 }

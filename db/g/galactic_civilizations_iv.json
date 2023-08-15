@@ -2,13 +2,13 @@
   "ID": "fbab831cc1c94385b4e311f47f6fdc4f",
   "Name": "Galactic Civilizations IV",
   "ProductSlug": "galactic-civilizations-iv",
-  "Ranking_Rating": 869,
+  "Ranking_Rating": 868,
   "Ranking_Popularity": 348,
   "Ranking_PopularitySum": 281,
   "Ranking_EOS_Progress": 135,
-  "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_Completed": 256,
+  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -858,9 +858,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 6368,
+  "EOS_Progressed": 6369,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5033,6 +5033,11 @@
       "Time": "2023-08-15T07:04:55.9155967+00:00",
       "NumProgressed": 6368,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-15T10:04:21.3954997+00:00",
+      "NumProgressed": 6369,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -5148,7 +5153,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 5031
+      "UsersEstimate": 5032
     },
     {
       "ID": "First_Race_Met",
@@ -5180,7 +5185,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 4967
+      "UsersEstimate": 4968
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -5364,7 +5369,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3948
+      "UsersEstimate": 3949
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -5380,7 +5385,7 @@
       "Name": "Galactic War",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 700
+      "UsersEstimate": 701
     },
     {
       "ID": "War_Without_Translator",
@@ -5540,7 +5545,7 @@
       "Name": "Fleet Victory",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "Win_Conquest",
@@ -5602,9 +5607,9 @@
       "ID": "Win_Quickly",
       "SetID": "4h07amh",
       "Name": "Win Quickly",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 255
+      "UsersEstimate": 318
     },
     {
       "ID": "Win_Research",
@@ -5619,15 +5624,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6368,
+      "Progressed": 6369,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-08-12T04:58:53.0373153+00:00",
-  "LastChanged_Achievements": "2023-08-15T09:04:11.7328464+00:00",
+  "LastChanged_Achievements": "2023-08-15T10:04:21.3954991+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:24.6593665+00:00",
-  "LastUpdate_Ratings": "2023-08-15T08:59:07.0421243+00:00",
-  "LastUpdate_Achievements": "2023-08-15T09:04:11.7329702+00:00"
+  "LastUpdate_Ratings": "2023-08-15T09:59:17.8119248+00:00",
+  "LastUpdate_Achievements": "2023-08-15T10:04:21.3956084+00:00"
 }

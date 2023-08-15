@@ -13,7 +13,7 @@ Number of Ratings: 3,313  (23.09.2022)
 | Hunter in the Forest | 60.00% | ~256,445 |
 | Rot Commander | 60.00% | ~256,445 |
 | Taro's Fear | 56.00% | ~239,348 |
-| Between the Eyes | 46.00% | ~196,608 |
+| Between the Eyes | 47.00% | ~200,882 |
 | Taro's Love | 45.00% | ~192,334 |
 | Taro's Regret | 43.00% | ~183,785 |
 | Spirit Guide | 42.00% | ~179,511 |
@@ -49,7 +49,7 @@ Number of Ratings: 3,313  (23.09.2022)
 | Master Spirit Guide | 0.30% | ~1,282 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 427,408 (Ranked 39)  
-Completed: 525 (0.12%) (Ranked 196)  
+Completed: 525 (0.12%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

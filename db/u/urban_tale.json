@@ -2,10 +2,10 @@
   "ID": "8c72bb5636fe45c5af03d5f53ab25d9a",
   "Name": "Urban Tale",
   "ProductSlug": "urban-tale-75b4f0",
-  "Ranking_EOS_Progress": 543,
-  "Ranking_EOS_Completed": 255,
+  "Ranking_EOS_Progress": 544,
+  "Ranking_EOS_Completed": 256,
   "Ranking_EOS_NewPlayers": 355,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-05-11T17:00:00+00:00",
     "PcReleaseDate": "2021-10-07T05:00:00+00:00",
@@ -40,8 +40,8 @@
   ],
   "FirstSeen": "2023-05-13T08:57:00.6541423+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:15.6976425+00:00",
-  "LastChanged_Achievements": "2023-08-15T09:02:13.7976666+00:00",
+  "LastChanged_Achievements": "2023-08-15T10:03:13.3980886+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:06.1915196+00:00",
-  "LastUpdate_Ratings": "2023-08-15T08:58:37.1311992+00:00",
-  "LastUpdate_Achievements": "2023-08-15T09:02:13.7976714+00:00"
+  "LastUpdate_Ratings": "2023-08-15T09:58:46.5711121+00:00",
+  "LastUpdate_Achievements": "2023-08-15T10:03:13.3980927+00:00"
 }

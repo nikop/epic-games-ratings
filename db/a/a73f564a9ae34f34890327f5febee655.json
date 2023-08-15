@@ -2,10 +2,10 @@
   "ID": "a73f564a9ae34f34890327f5febee655",
   "Name": "Ironclads II American Civil War",
   "ProductSlug": "ironclads-american-civil-war-ii-publisher-ed91f6",
-  "Ranking_EOS_Progress": 543,
-  "Ranking_EOS_Completed": 255,
+  "Ranking_EOS_Progress": 544,
+  "Ranking_EOS_Completed": 256,
   "Ranking_EOS_NewPlayers": 355,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-05-25T04:00:00+00:00",
     "PcReleaseDate": "2015-11-15T04:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-10T08:57:57.8372853+00:00",
-  "LastUpdate_Ratings": "2023-08-15T08:58:31.7559766+00:00",
-  "LastUpdate_Achievements": "2023-08-15T09:03:35.8036882+00:00"
+  "LastUpdate_Ratings": "2023-08-15T09:58:41.5971239+00:00",
+  "LastUpdate_Achievements": "2023-08-15T10:03:55.279681+00:00"
 }

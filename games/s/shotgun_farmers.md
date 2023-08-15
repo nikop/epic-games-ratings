@@ -14,7 +14,7 @@
 | I Believe I Can Fly | 48.00% | ~124 |
 | Early Survivor | 42.00% | ~88 |
 | No Diggity | 41.00% | ~86 |
-| Amateur Survivor | 31.00% | ~65 |
+| Amateur Survivor | 32.00% | ~67 |
 | 10K | 30.00% | ~78 |
 | Bouncemato | 30.00% | ~63 |
 | 15K | 28.00% | ~73 |
@@ -80,7 +80,7 @@
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 259 (Ranked 266)  
-Completed: 0 (0.00%) (Ranked 255)  
+Completed: 0 (0.00%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

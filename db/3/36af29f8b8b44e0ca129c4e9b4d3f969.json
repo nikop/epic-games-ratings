@@ -2,10 +2,10 @@
   "ID": "36af29f8b8b44e0ca129c4e9b4d3f969",
   "Name": "Celestia Ultimate",
   "ProductSlug": "celestia-ultimate-15fae5",
-  "Ranking_EOS_Progress": 543,
-  "Ranking_EOS_Completed": 255,
+  "Ranking_EOS_Progress": 544,
+  "Ranking_EOS_Completed": 256,
   "Ranking_EOS_NewPlayers": 355,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-06-03T19:00:00+00:00",
     "PcReleaseDate": "2023-06-03T19:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-31T03:10:27.3557362+00:00",
   "LastUpdate_AppInfo": "2023-08-09T23:57:02.4744832+00:00",
-  "LastUpdate_Ratings": "2023-08-15T08:58:34.5466734+00:00",
-  "LastUpdate_Achievements": "2023-08-15T09:06:14.9279879+00:00"
+  "LastUpdate_Ratings": "2023-08-15T09:58:44.3890377+00:00",
+  "LastUpdate_Achievements": "2023-08-15T10:06:14.1094761+00:00"
 }

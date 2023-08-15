@@ -3,9 +3,9 @@
   "Name": "The House of Da Vinci 2",
   "ProductSlug": "the-house-of-da-vinci-2-970dc3",
   "Ranking_EOS_Progress": 360,
-  "Ranking_EOS_Completed": 255,
+  "Ranking_EOS_Completed": 256,
   "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2019-12-04T00:00:00+00:00",
@@ -489,8 +489,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-08-15T09:05:41.5815126+00:00",
+  "LastChanged_Achievements": "2023-08-15T10:05:45.7747716+00:00",
   "LastUpdate_AppInfo": "2023-08-09T15:57:03.9650638+00:00",
-  "LastUpdate_Ratings": "2023-08-15T08:58:17.8407992+00:00",
-  "LastUpdate_Achievements": "2023-08-15T09:05:41.5815391+00:00"
+  "LastUpdate_Ratings": "2023-08-15T09:58:26.651527+00:00",
+  "LastUpdate_Achievements": "2023-08-15T10:05:45.7748171+00:00"
 }

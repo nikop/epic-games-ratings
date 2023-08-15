@@ -3,9 +3,9 @@
   "Name": "Stray Gods: The Roleplaying Musical",
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
   "Ranking_EOS_Progress": 391,
-  "Ranking_EOS_Completed": 255,
+  "Ranking_EOS_Completed": 256,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
     "PcReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -327,9 +327,9 @@
       "ID": "SG_SAYINGGOODBYE",
       "SetID": "bj5g0n4",
       "Name": "Saying Goodbye",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SG_SHARETHISDANCE",
@@ -454,8 +454,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-08-15T09:03:21.469837+00:00",
+  "LastChanged_Achievements": "2023-08-15T10:03:41.1185035+00:00",
   "LastUpdate_AppInfo": "2023-08-10T07:57:00.7529969+00:00",
-  "LastUpdate_Ratings": "2023-08-15T08:57:34.686015+00:00",
-  "LastUpdate_Achievements": "2023-08-15T09:03:21.4698735+00:00"
+  "LastUpdate_Ratings": "2023-08-15T09:57:42.0696576+00:00",
+  "LastUpdate_Achievements": "2023-08-15T10:03:41.1185356+00:00"
 }

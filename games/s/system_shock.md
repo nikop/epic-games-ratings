@@ -53,7 +53,7 @@ Rating: 4.62 (Ranked 342)
 | Off The Grid | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2 (Ranked 479)  
-Completed: 0 (0.00%) (Ranked 255)  
+Completed: 0 (0.00%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

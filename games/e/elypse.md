@@ -13,9 +13,9 @@
 | Splash! | 56.00% | ~48 |
 | Masochistic | 52.00% | ~45 |
 | Soft skin | 48.00% | ~41 |
-| Squid game | 40.00% | ~34 |
+| Squid game | 41.00% | ~35 |
 | Sensitive soul | 34.00% | ~29 |
-| Hard Rock | 31.00% | ~27 |
+| Hard Rock | 33.00% | ~28 |
 | Rock Solid | 30.00% | ~26 |
 | The beast within | 30.00% | ~26 |
 | It's getting dark | 30.00% | ~26 |
@@ -27,8 +27,8 @@
 | Nokron tower | 22.00% | ~19 |
 | Full power | 21.00% | ~18 |
 | "Ah sh*t... Here we go again!" | 21.00% | ~18 |
+| Magnitude 5 | 21.00% | ~18 |
 | Compulsive hoarder | 20.00% | ~17 |
-| Magnitude 5 | 20.00% | ~17 |
 | GG EZ | 15.00% | ~13 |
 | Comeback | 15.00% | ~13 |
 | MayDay! MayDay! | 12.00% | ~10 |
@@ -40,7 +40,7 @@
 | Speedrunner | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 86 (Ranked 333)  
-Completed: 0 (0.00%) (Ranked 255)  
+Completed: 0 (0.00%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

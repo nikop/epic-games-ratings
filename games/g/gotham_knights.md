@@ -1,7 +1,7 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.18 (Ranked 869)  
+Rating: 4.18 (Ranked 868)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -68,7 +68,7 @@ Rating: 4.18 (Ranked 869)
 | History Major | 0.10% | ~68 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 67,846 (Ranked 80)  
-Completed: 107 (0.16%) (Ranked 188)  
+Completed: 107 (0.16%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

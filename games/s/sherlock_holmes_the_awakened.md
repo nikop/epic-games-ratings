@@ -26,7 +26,7 @@ Rating: 4.68 (Ranked 238)
 | Bookworm | 44.00% | ~263 |
 | Up In Flames | 44.00% | ~263 |
 | Going Once... | 40.00% | ~239 |
-| Let Me Be Frank | 39.00% | ~233 |
+| Let Me Be Frank | 40.00% | ~239 |
 | Brain Food | 38.00% | ~227 |
 | No Stone Unturned | 37.00% | ~221 |
 | Read It And Weep | 23.00% | ~137 |
@@ -35,7 +35,7 @@ Rating: 4.68 (Ranked 238)
 | Reawakened | 5.00% | ~30 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 597 (Ranked 218)  
-Completed: 25 (4.19%) (Ranked 56)  
+Completed: 25 (4.19%) (Ranked 57)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

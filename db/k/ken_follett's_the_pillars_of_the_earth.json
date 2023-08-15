@@ -6,7 +6,7 @@
   "Ranking_Popularity": 297,
   "Ranking_PopularitySum": 373,
   "Ranking_EOS_Progress": 116,
-  "Ranking_EOS_Completed": 122,
+  "Ranking_EOS_Completed": 123,
   "Ranking_EOS_NewPlayers": 101,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
@@ -495,7 +495,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 14570,
+  "EOS_Progressed": 14572,
   "EOS_Completed": 109,
   "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 2,
@@ -8145,6 +8145,11 @@
       "Time": "2023-08-15T06:04:53.6386802+00:00",
       "NumProgressed": 14570,
       "NumCompleted": 109
+    },
+    {
+      "Time": "2023-08-15T10:04:58.0699499+00:00",
+      "NumProgressed": 14572,
+      "NumCompleted": 109
     }
   ],
   "TotalAchievements": 41,
@@ -8180,7 +8185,7 @@
       "Name": "Staring contest champion",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 728
+      "UsersEstimate": 729
     },
     {
       "ID": "tpote_achievement_13",
@@ -8188,15 +8193,15 @@
       "Name": "Lone wolf",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 728
+      "UsersEstimate": 729
     },
     {
       "ID": "tpote_achievement_14",
       "SetID": "3jcf6c3",
       "Name": "Friends of sorts",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 4954
+      "UsersEstimate": 4809
     },
     {
       "ID": "tpote_achievement_15",
@@ -8260,7 +8265,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4371
+      "UsersEstimate": 4372
     },
     {
       "ID": "tpote_achievement_22",
@@ -8332,7 +8337,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 4662
+      "UsersEstimate": 4663
     },
     {
       "ID": "tpote_achievement_30",
@@ -8396,7 +8401,7 @@
       "Name": "Vox Populi",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 728
+      "UsersEstimate": 729
     },
     {
       "ID": "tpote_achievement_38",
@@ -8420,7 +8425,7 @@
       "Name": "Tattletale",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 5974
+      "UsersEstimate": 5975
     },
     {
       "ID": "tpote_achievement_40",
@@ -8468,7 +8473,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 3205
+      "UsersEstimate": 3206
     },
     {
       "ID": "tpote_achievement_9",
@@ -8483,15 +8488,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 14570,
+      "Progressed": 14572,
       "Completed": 109
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-08-03T13:08:30.3350415+00:00",
-  "LastChanged_Achievements": "2023-08-15T09:04:48.2662023+00:00",
+  "LastChanged_Achievements": "2023-08-15T10:04:58.0699491+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:55.7661895+00:00",
-  "LastUpdate_Ratings": "2023-08-15T08:57:19.4418625+00:00",
-  "LastUpdate_Achievements": "2023-08-15T09:04:48.266304+00:00"
+  "LastUpdate_Ratings": "2023-08-15T09:57:21.8225+00:00",
+  "LastUpdate_Achievements": "2023-08-15T10:04:58.0700719+00:00"
 }

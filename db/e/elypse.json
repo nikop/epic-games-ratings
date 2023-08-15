@@ -3,9 +3,9 @@
   "Name": "Elypse",
   "ProductSlug": "elypse-b177a8",
   "Ranking_EOS_Progress": 333,
-  "Ranking_EOS_Completed": 255,
+  "Ranking_EOS_Completed": 256,
   "Ranking_EOS_NewPlayers": 309,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-05-17T15:00:00+00:00",
     "PcReleaseDate": "2023-05-17T15:00:00+00:00",
@@ -451,9 +451,9 @@
       "ID": "Ach_BossDarkPoulpe",
       "SetID": "4o5gjp0",
       "Name": "Squid game",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "Ach_BossFinal",
@@ -587,9 +587,9 @@
       "ID": "Ach_DiveKillEnnemis",
       "SetID": "4o5gjp0",
       "Name": "Magnitude 5",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "Ach_EnnemyDeathByEnnemy",
@@ -691,9 +691,9 @@
       "ID": "Ach_StunGolemFly",
       "SetID": "4o5gjp0",
       "Name": "Hard Rock",
-      "Percentage": 31,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Ach_TalkToLostSoul",
@@ -714,8 +714,8 @@
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2023-08-15T09:05:58.2578162+00:00",
+  "LastChanged_Achievements": "2023-08-15T10:05:57.3784514+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:48.236431+00:00",
-  "LastUpdate_Ratings": "2023-08-15T08:59:48.0339411+00:00",
-  "LastUpdate_Achievements": "2023-08-15T09:05:58.2578466+00:00"
+  "LastUpdate_Ratings": "2023-08-15T09:59:59.5028687+00:00",
+  "LastUpdate_Achievements": "2023-08-15T10:05:57.3784836+00:00"
 }

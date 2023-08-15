@@ -6,7 +6,7 @@
   "Ranking_Popularity": 337,
   "Ranking_PopularitySum": 415,
   "Ranking_EOS_Progress": 167,
-  "Ranking_EOS_Completed": 18,
+  "Ranking_EOS_Completed": 19,
   "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 48,
   "Store": {
@@ -1940,9 +1940,9 @@
       "ID": "TransShotForce",
       "SetID": "5lok9mm",
       "Name": "So much force",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 747
+      "UsersEstimate": 769
     },
     {
       "ID": "Translocator",
@@ -1980,8 +1980,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-07-21T20:00:23.2474099+00:00",
-  "LastChanged_Achievements": "2023-08-15T09:04:18.5946554+00:00",
+  "LastChanged_Achievements": "2023-08-15T10:04:28.3641851+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:59.4604083+00:00",
-  "LastUpdate_Ratings": "2023-08-15T08:57:19.0640856+00:00",
-  "LastUpdate_Achievements": "2023-08-15T09:04:18.5947205+00:00"
+  "LastUpdate_Ratings": "2023-08-15T09:57:21.430356+00:00",
+  "LastUpdate_Achievements": "2023-08-15T10:04:28.3642551+00:00"
 }

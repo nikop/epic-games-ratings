@@ -42,8 +42,8 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~433 |
 | Road Hazard | 0.10% | ~433 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 432,791 (Ranked 38)  
-Completed: 2 (0.00%) (Ranked 255)  
+Progressed: 432,801 (Ranked 38)  
+Completed: 2 (0.00%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -159,11 +159,11 @@ Completed: 2 (0.00%) (Ranked 255)
 | 2023-08-12 | 431,919 | 2 |
 | 2023-08-13 | 432,353 | 2 |
 | 2023-08-14 | 432,656 | 2 |
-| 2023-08-15 | 432,791 | 2 |
+| 2023-08-15 | 432,801 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 375  (Ranked 221)  
-Sum: 2,888 (Ranked 167)  
-Diff (max vs sum): 54  
+Sum: 2,889 (Ranked 166)  
+Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 375 |
@@ -173,7 +173,7 @@ Diff (max vs sum): 54
 | This game has Realistic Visuals | 310 |
 | This game is Highly Recommended | 307 |
 | This game has Amazing Storytelling | 304 |
-| This game has Amazing Characters | 302 |
+| This game has Amazing Characters | 303 |
 | This game has a Competitive Community | 263 |
 | This game has Obsessive Gameplay | 156 |
 | This game has Diverse Characters | 103 |
@@ -385,3 +385,4 @@ Diff (max vs sum): 54
 | 2023-08-12 | 4.62 | - | 373 | 2,885 |
 | 2023-08-13 | 4.62 | - | 374 | 2,887 |
 | 2023-08-14 | 4.62 | - | 375 | 2,888 |
+| 2023-08-15 | 4.62 | - | 375 | 2,889 |

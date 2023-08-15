@@ -6,9 +6,9 @@
   "Ranking_Popularity": 129,
   "Ranking_PopularitySum": 207,
   "Ranking_EOS_Progress": 39,
-  "Ranking_EOS_Completed": 196,
+  "Ranking_EOS_Completed": 197,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2021-09-21T04:00:00+00:00",
     "PcReleaseDate": "2021-09-21T04:00:00+00:00",
@@ -1258,7 +1258,7 @@
   ],
   "EOS_Progressed": 427408,
   "EOS_Completed": 525,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -9566,9 +9566,9 @@
       "ID": "ACH_CHALLENGE_SHIELD_STICKS",
       "SetID": "231ghgk",
       "Name": "Between the Eyes",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 196608
+      "UsersEstimate": 200882
     },
     {
       "ID": "ACH_CHESTS_ALL",
@@ -9766,8 +9766,8 @@
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-08-08T09:00:07.5291923+00:00",
-  "LastChanged_Achievements": "2023-08-15T09:01:56.6894678+00:00",
+  "LastChanged_Achievements": "2023-08-15T10:02:06.2478973+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:03.7767505+00:00",
-  "LastUpdate_Ratings": "2023-08-15T08:59:59.1975617+00:00",
-  "LastUpdate_Achievements": "2023-08-15T09:01:56.6895913+00:00"
+  "LastUpdate_Ratings": "2023-08-15T10:00:12.9319721+00:00",
+  "LastUpdate_Achievements": "2023-08-15T10:02:06.2480124+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "76939a6fe2b54f9299254c99a9aebd35",
   "Name": "The Smurfs 2 - The Prisoner of the Green Stone",
   "ProductSlug": "the-smurfs-2-the-prisonner-of-the-green-stone-ba4653",
-  "Ranking_EOS_Progress": 543,
-  "Ranking_EOS_Completed": 255,
+  "Ranking_EOS_Progress": 544,
+  "Ranking_EOS_Completed": 256,
   "Ranking_EOS_NewPlayers": 355,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-09T22:56:53.2326947+00:00",
-  "LastUpdate_Ratings": "2023-08-15T08:58:37.4463451+00:00",
-  "LastUpdate_Achievements": "2023-08-15T09:03:08.1888662+00:00"
+  "LastUpdate_Ratings": "2023-08-15T09:58:46.8382394+00:00",
+  "LastUpdate_Achievements": "2023-08-15T10:03:28.0652572+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 150,
-  "Ranking_EOS_Completed": 171,
+  "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -458,9 +458,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3473,
+  "EOS_Progressed": 3474,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -5943,6 +5943,11 @@
       "Time": "2023-08-15T07:04:29.0376305+00:00",
       "NumProgressed": 3473,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-15T10:03:58.8984831+00:00",
+      "NumProgressed": 3474,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 71,
@@ -6024,9 +6029,9 @@
       "ID": "REWARD_19_STRATEGIST",
       "SetID": "bm6el81",
       "Name": "Strategist",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 31
     },
     {
       "ID": "REWARD_1_MEETING_RESISTANCE",
@@ -6521,13 +6526,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3424,
+      "Progressed": 3425,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3473,
+      "Progressed": 3474,
       "Completed": 9
     }
   ],
@@ -6535,8 +6540,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-08-11T01:35:43.0365889+00:00",
-  "LastChanged_Achievements": "2023-08-15T09:03:39.1721507+00:00",
+  "LastChanged_Achievements": "2023-08-15T10:03:58.8984819+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:04.4888171+00:00",
-  "LastUpdate_Ratings": "2023-08-15T08:58:16.9373425+00:00",
-  "LastUpdate_Achievements": "2023-08-15T09:03:39.1722551+00:00"
+  "LastUpdate_Ratings": "2023-08-15T09:58:25.644995+00:00",
+  "LastUpdate_Achievements": "2023-08-15T10:03:58.8987685+00:00"
 }

@@ -55,13 +55,13 @@ Number of Ratings: 209  (23.09.2022)
 | Momentum | 46.00% | ~1,010 |
 | You're unsure if you broke the game or not | 42.00% | ~922 |
 | But wait... ...There's more... | 40.00% | ~878 |
-| So much force | 34.00% | ~747 |
+| So much force | 35.00% | ~769 |
 | You feel fully engaged | 24.00% | ~527 |
 | Too hot | 19.00% | ~417 |
 | All the chests | 13.00% | ~285 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,196 (Ranked 167)  
-Completed: 265 (12.07%) (Ranked 18)  
+Completed: 265 (12.07%) (Ranked 19)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

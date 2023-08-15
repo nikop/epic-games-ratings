@@ -37,18 +37,18 @@
 | Extreme neuropower! | 54.00% | ~136 |
 | Escaped from a big trouble | 52.00% | ~131 |
 | Now you are worthy | 48.00% | ~121 |
-| Guiding on the right path | 45.00% | ~113 |
+| Guiding on the right path | 46.00% | ~116 |
 | Fight is life | 44.00% | ~111 |
 | Mysterious voice | 44.00% | ~111 |
 | No blades in the gym | 44.00% | ~111 |
 | Champion – no way back | 40.00% | ~101 |
 | Your own way | 40.00% | ~101 |
 | Poisoned fighter | 38.00% | ~96 |
+| Get out of my apartment! | 38.00% | ~96 |
 | Underground dwellers | 38.00% | ~96 |
 | Responsible approach | 38.00% | ~96 |
 | Deal with life | 37.00% | ~93 |
 | GYM professional | 37.00% | ~93 |
-| Get out of my apartment! | 37.00% | ~93 |
 | Mom got better | 36.00% | ~91 |
 | The die is cast | 36.00% | ~91 |
 | Seashell hunter | 35.00% | ~88 |
@@ -72,7 +72,7 @@
 | The only right decision | 26.00% | ~66 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 252 (Ranked 269)  
-Completed: 8 (3.17%) (Ranked 66)  
+Completed: 8 (3.17%) (Ranked 67)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

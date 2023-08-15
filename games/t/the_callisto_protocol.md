@@ -1,7 +1,7 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.20 (Ranked 854)  
+Rating: 4.20 (Ranked 853)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -54,7 +54,7 @@ Rating: 4.20 (Ranked 854)
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 15,860 (Ranked 114)  
-Completed: 73 (0.46%) (Ranked 146)  
+Completed: 73 (0.46%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

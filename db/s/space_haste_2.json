@@ -2,10 +2,10 @@
   "ID": "72d96c0df9904eb7b9aebc122ceace6e",
   "Name": "Space Haste 2",
   "ProductSlug": "sapce-haste-2-f9e7d4",
-  "Ranking_EOS_Progress": 543,
-  "Ranking_EOS_Completed": 255,
+  "Ranking_EOS_Progress": 544,
+  "Ranking_EOS_Completed": 256,
   "Ranking_EOS_NewPlayers": 355,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-12-13T17:00:00+00:00",
     "PcReleaseDate": "2001-10-01T04:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-03-31T05:58:28.7193319+00:00",
   "LastChanged": "2023-03-31T05:58:28.719332+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:37.7496125+00:00",
-  "LastUpdate_Ratings": "2023-08-15T08:59:36.2880181+00:00",
-  "LastUpdate_Achievements": "2023-08-15T09:04:35.509302+00:00"
+  "LastUpdate_Ratings": "2023-08-15T09:59:44.9225032+00:00",
+  "LastUpdate_Achievements": "2023-08-15T10:04:45.322326+00:00"
 }

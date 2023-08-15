@@ -18,8 +18,8 @@
 | Achoo!! | 28.00% | ~30 |
 | Chapter III | 27.00% | ~29 |
 | Like a moth in the Wind | 27.00% | ~29 |
+| Bubblekillerfamily | 24.00% | ~26 |
 | Quite a buggy game | 23.00% | ~25 |
-| Bubblekillerfamily | 23.00% | ~25 |
 | Mirror mirror on the wall... | 23.00% | ~25 |
 | Shadow on the wall | 21.00% | ~22 |
 | Handyman | 21.00% | ~22 |
@@ -52,7 +52,7 @@
 | Do not feed the fish! | 0.90% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 107 (Ranked 319)  
-Completed: 0 (0.00%) (Ranked 255)  
+Completed: 0 (0.00%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

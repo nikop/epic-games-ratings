@@ -44,9 +44,9 @@ Rating: 4.44 (Ranked 645)
 | Don't hold your breath | 1.00% | ~35 |
 | Herr Today, Gone Tomorrow | 1.00% | ~34 |
 | Shipbreaker | 1.00% | ~34 |
+| Strategist | 0.90% | ~31 |
 | Burn after reading | 0.90% | ~31 |
 | Sink or Swim | 0.90% | ~31 |
-| Strategist | 0.80% | ~28 |
 | Operation Foxley | 0.80% | ~27 |
 | From Paris with Love | 0.70% | ~24 |
 | Souvenir hunter | 0.70% | ~24 |
@@ -77,8 +77,8 @@ Rating: 4.44 (Ranked 645)
 | Alpha | 0.10% | ~3 |
 | Das Familienjuwel | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,473 (Ranked 150)  
-Completed: 9 (0.26%) (Ranked 171)  
+Progressed: 3,474 (Ranked 150)  
+Completed: 9 (0.26%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -193,7 +193,7 @@ Completed: 9 (0.26%) (Ranked 171)
 | 2023-08-12 | 3,461 | 9 |
 | 2023-08-13 | 3,466 | 9 |
 | 2023-08-14 | 3,472 | 9 |
-| 2023-08-15 | 3,473 | 9 |
+| 2023-08-15 | 3,474 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

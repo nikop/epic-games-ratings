@@ -3,9 +3,9 @@
   "Name": "Blanc",
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 162,
-  "Ranking_EOS_Completed": 173,
+  "Ranking_EOS_Completed": 174,
   "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2506,
+  "EOS_Progressed": 2507,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -2543,6 +2543,11 @@
       "Time": "2023-08-15T00:04:47.0959886+00:00",
       "NumProgressed": 2506,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-08-15T10:04:55.5049417+00:00",
+      "NumProgressed": 2507,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -2586,7 +2591,7 @@
       "Name": "The will to move on",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "REUNION",
@@ -2594,7 +2599,7 @@
       "Name": "Reunion",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "SLIDERS",
@@ -2657,7 +2662,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2506,
+      "Progressed": 2507,
       "Completed": 6
     }
   ],
@@ -2665,8 +2670,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-08-15T09:04:45.7252648+00:00",
+  "LastChanged_Achievements": "2023-08-15T10:04:55.5049408+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:03.9385383+00:00",
-  "LastUpdate_Ratings": "2023-08-15T09:01:16.6878999+00:00",
-  "LastUpdate_Achievements": "2023-08-15T09:04:45.725299+00:00"
+  "LastUpdate_Ratings": "2023-08-15T10:01:19.6320865+00:00",
+  "LastUpdate_Achievements": "2023-08-15T10:04:55.5049729+00:00"
 }

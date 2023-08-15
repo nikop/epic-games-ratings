@@ -3,9 +3,9 @@
   "Name": "Daydream. Forgotten Sorrow",
   "ProductSlug": "daydream-forgotten-sorrow-6025c9",
   "Ranking_EOS_Progress": 393,
-  "Ranking_EOS_Completed": 255,
+  "Ranking_EOS_Completed": 256,
   "Ranking_EOS_NewPlayers": 309,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-06-14T14:00:00+00:00",
     "PcReleaseDate": "2023-06-14T14:00:00+00:00",
@@ -299,8 +299,8 @@
   ],
   "FirstSeen": "2023-06-15T16:57:07.6621394+00:00",
   "FirstSeenAchievements": "2023-06-01T12:01:12.0964223+00:00",
-  "LastChanged_Achievements": "2023-08-15T09:06:26.9135629+00:00",
+  "LastChanged_Achievements": "2023-08-15T10:06:25.9842808+00:00",
   "LastUpdate_AppInfo": "2023-08-10T17:57:18.1297002+00:00",
-  "LastUpdate_Ratings": "2023-08-15T08:58:23.57723+00:00",
-  "LastUpdate_Achievements": "2023-08-15T09:06:26.9135773+00:00"
+  "LastUpdate_Ratings": "2023-08-15T09:58:32.8490477+00:00",
+  "LastUpdate_Achievements": "2023-08-15T10:06:25.9842938+00:00"
 }

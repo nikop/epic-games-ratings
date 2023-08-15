@@ -49,8 +49,8 @@ Rating: 4.50 (Ranked 560)
 | Bold and beautiful | 13.00% | ~233 |
 | A new Hope | 10.00% | ~180 |
 | Tycoon | 10.00% | ~180 |
-| Unstoppable | 7.00% | ~126 |
-| Track to the Future | 7.00% | ~126 |
+| Unstoppable | 8.00% | ~144 |
+| Track to the Future | 8.00% | ~144 |
 | Conductor | 6.00% | ~108 |
 | Call of Duty | 6.00% | ~108 |
 | Engineer | 4.00% | ~72 |
@@ -62,7 +62,7 @@ Rating: 4.50 (Ranked 560)
 | Three Cheers for Progress | 0.40% | ~7 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,796 (Ranked 173)  
-Completed: 0 (0.00%) (Ranked 255)  
+Completed: 0 (0.00%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

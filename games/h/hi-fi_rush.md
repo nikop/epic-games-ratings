@@ -33,9 +33,9 @@ Rating: 4.88 (Ranked 18)
 | NOW we got a kickass hideout! | 4.00% | ~97 |
 | Well that was a rush! | 3.00% | ~117 |
 | Beat-hit mania | 3.00% | ~117 |
-| That's a lot of junk metal… | 2.00% | ~78 |
+| That's a lot of junk metal… | 3.00% | ~117 |
+| Chip-tuned | 2.00% | ~78 |
 | There's such a thing as TOO helpful | 2.00% | ~78 |
-| Chip-tuned | 1.00% | ~39 |
 | I think I found your calling, Macaron | 1.00% | ~39 |
 | Wanna hear my playlist? | 1.00% | ~39 |
 | I told you I'd be fine, Peppermint! | 1.00% | ~39 |
@@ -78,7 +78,7 @@ Rating: 4.88 (Ranked 18)
 | Low budget finish | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,907 (Ranked 147)  
-Completed: 7 (0.18%) (Ranked 185)  
+Completed: 7 (0.18%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
