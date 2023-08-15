@@ -19,7 +19,7 @@
 | 17 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 13.94% |
 | 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.07% |
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.27% |
-| 20 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.21% |
+| 20 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.19% |
 | 21 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 21 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
 | 21 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 11.11% |
@@ -39,7 +39,7 @@
 | 37 | [Scorn](games/s/scorn.md) | 6.92% |
 | 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.86% |
 | 39 | [Time Loader](games/t/time_loader.md) | 6.78% |
-| 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.44% |
+| 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.43% |
 | 41 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 42 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 43 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.98% |
