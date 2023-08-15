@@ -123,10 +123,10 @@
 | 119 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.76 | 0 | 512 |
 | 119 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,299 | 90 |
 | 119 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 923 | 149 |
-| 119 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 4,390 | 75 |
+| 119 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 4,395 | 75 |
 | 119 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 512 |
 | 119 | [Outlast](games/o/outlast.md) | 4.76 | 0 | 512 |
-| 119 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,700 | 117 |
+| 119 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,701 | 117 |
 | 119 | [Quake](games/q/quake.md) | 4.76 | 48 | 407 |
 | 119 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 9,918 | 36 |
 | 119 | [SpiderHeck](games/s/spiderheck.md) | 4.76 | 0 | 512 |
@@ -170,7 +170,7 @@
 | 159 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 0 | 512 |
 | 159 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 80 | 361 |
 | 170 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.72 | 0 | 512 |
-| 170 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.72 | 84 | 358 |
+| 170 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.72 | 85 | 356 |
 | 170 | [Fez](games/f/fez.md) | 4.72 | 23 | 489 |
 | 170 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 477 | 200 |
 | 170 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.72 | 0 | 512 |
@@ -580,7 +580,7 @@
 | 576 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 410 | 211 |
 | 576 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 1,985 | 109 |
 | 576 | [Dark Deception](games/d/dark_deception.md) | 4.49 | 0 | 512 |
-| 576 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 36,326 | 13 |
+| 576 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 36,344 | 13 |
 | 576 | [Duskers](games/d/duskers.md) | 4.49 | 0 | 512 |
 | 576 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 273 | 244 |
 | 576 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 247 | 254 |
@@ -784,7 +784,7 @@
 | 782 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 0 | 512 |
 | 782 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.31 | 0 | 512 |
 | 782 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.31 | 0 | 512 |
-| 782 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.31 | 78 | 363 |
+| 782 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.31 | 79 | 362 |
 | 782 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 960 | 146 |
 | 782 | [Scrapnaut](games/s/scrapnaut.md) | 4.31 | 0 | 512 |
 | 788 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 0 | 512 |
@@ -848,7 +848,7 @@
 | 843 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.22 | 0 | 512 |
 | 843 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 0 | 512 |
 | 843 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 207 | 271 |
-| 843 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.22 | 78 | 363 |
+| 843 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.22 | 78 | 364 |
 | 850 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 31 | 460 |
 | 850 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.21 | 0 | 512 |
 | 850 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 15,326 | 23 |
