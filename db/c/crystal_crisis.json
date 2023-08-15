@@ -3,9 +3,9 @@
   "Name": "Crystal Crisis",
   "ProductSlug": "crystal-crisis",
   "Ranking_EOS_Progress": 544,
-  "Ranking_EOS_Completed": 256,
+  "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-07-08T15:00:00+00:00",
     "PcReleaseDate": "2019-07-31T15:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:11.4892641+00:00",
   "LastChanged": "2023-03-31T05:57:11.4892642+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:08.0475271+00:00",
-  "LastUpdate_Ratings": "2023-08-15T10:58:21.0409904+00:00",
-  "LastUpdate_Achievements": "2023-08-15T11:04:14.0490377+00:00"
+  "LastUpdate_Ratings": "2023-08-15T11:59:06.6866199+00:00",
+  "LastUpdate_Achievements": "2023-08-15T12:05:05.2365053+00:00"
 }

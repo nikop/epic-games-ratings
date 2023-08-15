@@ -3,7 +3,7 @@
   "Name": "Pixel Art Coloring Book",
   "ProductSlug": "pixel-art-coloring-book-a485ef",
   "Ranking_EOS_Progress": 164,
-  "Ranking_EOS_Completed": 128,
+  "Ranking_EOS_Completed": 129,
   "Ranking_EOS_NewPlayers": 97,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2299,
+  "EOS_Progressed": 2300,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 192,
+  "EOS_NewPlayers": 193,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -4261,6 +4261,11 @@
       "Time": "2023-08-15T11:05:55.0242698+00:00",
       "NumProgressed": 2299,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-08-15T12:07:23.8845659+00:00",
+      "NumProgressed": 2300,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 16,
@@ -4304,7 +4309,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 1747
+      "UsersEstimate": 1748
     },
     {
       "ID": "ach_architecture_completed",
@@ -4344,7 +4349,7 @@
       "Name": "Coloring Rookie",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 1862
+      "UsersEstimate": 1863
     },
     {
       "ID": "ach_food_completed",
@@ -4368,7 +4373,7 @@
       "Name": "Game opened",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 1701
+      "UsersEstimate": 1702
     },
     {
       "ID": "ach_magic_wand",
@@ -4399,14 +4404,14 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 2299,
+      "Progressed": 2300,
       "Completed": 15
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-08-15T11:05:55.0242689+00:00",
+  "LastChanged_Achievements": "2023-08-15T12:07:23.8845654+00:00",
   "LastUpdate_AppInfo": "2023-08-11T13:00:05.0186107+00:00",
-  "LastUpdate_Ratings": "2023-08-15T10:58:07.1178785+00:00",
-  "LastUpdate_Achievements": "2023-08-15T11:05:55.0243343+00:00"
+  "LastUpdate_Ratings": "2023-08-15T11:58:45.3288314+00:00",
+  "LastUpdate_Achievements": "2023-08-15T12:07:23.8845952+00:00"
 }

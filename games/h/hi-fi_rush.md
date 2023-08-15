@@ -55,6 +55,7 @@ Rating: 4.88 (Ranked 18)
 | And the crowd goes wild! | 0.20% | ~8 |
 | Problem solved... wait, what? | 0.20% | ~8 |
 | Now this is how you fight like a team! | 0.20% | ~8 |
+| With our powers combined…and to the rhythm… | 0.20% | ~8 |
 | It'll do, CNMN | 0.20% | ~5 |
 | That was just EVIL | 0.20% | ~5 |
 | Didn't skip a beat! | 0.10% | ~4 |
@@ -69,7 +70,6 @@ Rating: 4.88 (Ranked 18)
 | I'm untouchable! | 0.10% | ~4 |
 | I am a good person who likes to help | 0.10% | ~4 |
 | I'm trying to FOCUS HERE! | 0.10% | ~4 |
-| With our powers combined…and to the rhythm… | 0.10% | ~4 |
 | I saw all those hits coming a measure away! | 0.10% | ~4 |
 | OK, I THINK I know what I'm doing now | 0.10% | ~4 |
 | Please don't make this awkward | 0.10% | ~2 |
@@ -78,7 +78,7 @@ Rating: 4.88 (Ranked 18)
 | Low budget finish | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,907 (Ranked 147)  
-Completed: 7 (0.18%) (Ranked 186)  
+Completed: 7 (0.18%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

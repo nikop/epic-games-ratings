@@ -3,9 +3,9 @@
   "Name": "Roll With it!",
   "ProductSlug": "roll-with-it-bad86c",
   "Ranking_EOS_Progress": 544,
-  "Ranking_EOS_Completed": 256,
+  "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-05-01T07:00:00+00:00",
     "PcReleaseDate": "2023-05-01T07:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-12T05:57:14.7294028+00:00",
-  "LastUpdate_Ratings": "2023-08-15T10:58:32.6391474+00:00",
-  "LastUpdate_Achievements": "2023-08-15T11:06:00.4754664+00:00"
+  "LastUpdate_Ratings": "2023-08-15T11:59:18.3834001+00:00",
+  "LastUpdate_Achievements": "2023-08-15T12:07:30.7471009+00:00"
 }

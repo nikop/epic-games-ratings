@@ -13,7 +13,7 @@
 | Artistic fool | 34.00% | ~36 |
 | Keep away from children | 34.00% | ~36 |
 | Open up wide | 32.00% | ~34 |
-| Chapter II | 29.00% | ~31 |
+| Chapter II | 30.00% | ~32 |
 | Let the boot talk | 28.00% | ~30 |
 | Achoo!! | 28.00% | ~30 |
 | Chapter III | 27.00% | ~29 |
@@ -52,7 +52,7 @@
 | Do not feed the fish! | 0.90% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 107 (Ranked 319)  
-Completed: 0 (0.00%) (Ranked 256)  
+Completed: 0 (0.00%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

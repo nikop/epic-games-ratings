@@ -3,9 +3,9 @@
   "Name": "Tiny Troopers Global Ops",
   "ProductSlug": "tiny-troopers-global-ops-4ac32b",
   "Ranking_EOS_Progress": 544,
-  "Ranking_EOS_Completed": 256,
+  "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-03-23T01:00:00+00:00",
     "PcReleaseDate": "2023-03-23T01:00:00+00:00",
@@ -40,8 +40,8 @@
   ],
   "FirstSeen": "2023-07-15T12:04:17.7107304+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:20.7258091+00:00",
-  "LastChanged_Achievements": "2023-08-15T11:06:14.8848548+00:00",
+  "LastChanged_Achievements": "2023-08-15T12:07:48.9368468+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:17.9916014+00:00",
-  "LastUpdate_Ratings": "2023-08-15T10:57:30.5275254+00:00",
-  "LastUpdate_Achievements": "2023-08-15T11:06:14.8848592+00:00"
+  "LastUpdate_Ratings": "2023-08-15T11:57:55.6967591+00:00",
+  "LastUpdate_Achievements": "2023-08-15T12:07:48.9368499+00:00"
 }

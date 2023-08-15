@@ -3,9 +3,9 @@
   "Name": "Silence",
   "ProductSlug": "silence-57bc4e",
   "Ranking_EOS_Progress": 319,
-  "Ranking_EOS_Completed": 256,
+  "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2016-11-15T17:00:00+00:00",
@@ -360,9 +360,9 @@
       "ID": "2005n_achv_chapter2",
       "SetID": "dhn82m5",
       "Name": "Chapter II",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "2008_achv_bubble",
@@ -513,8 +513,8 @@
   "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.5644296+00:00",
   "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
-  "LastChanged_Achievements": "2023-08-15T11:05:43.7944764+00:00",
+  "LastChanged_Achievements": "2023-08-15T12:07:09.3949358+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:10.3291859+00:00",
-  "LastUpdate_Ratings": "2023-08-15T11:00:32.4798819+00:00",
-  "LastUpdate_Achievements": "2023-08-15T11:05:43.794544+00:00"
+  "LastUpdate_Ratings": "2023-08-15T12:01:57.3101746+00:00",
+  "LastUpdate_Achievements": "2023-08-15T12:07:09.3949689+00:00"
 }

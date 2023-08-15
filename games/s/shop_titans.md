@@ -70,6 +70,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ritualist | 0.20% | ~269 |
 | Cranked up to 11 | 0.20% | ~269 |
 | Fit for a King | 0.20% | ~269 |
+| By Your Powers Combined... | 0.20% | ~269 |
 | Trash to Treasure | 0.20% | ~269 |
 | Royal Ransom | 0.20% | ~269 |
 | Mammonite | 0.20% | ~269 |
@@ -101,7 +102,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Oligarch Monarch | 0.10% | ~135 |
 | Unleashed Potential | 0.10% | ~135 |
 | Thank You Tom Nook | 0.10% | ~135 |
-| By Your Powers Combined... | 0.10% | ~135 |
 | A Legend is Born | 0.10% | ~135 |
 | Capitalist Camaraderie | 0.10% | ~135 |
 | Necromancer Queen | 0.10% | ~135 |
@@ -120,7 +120,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | King's Blade | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 134,547 (Ranked 66)  
-Completed: 132 (0.10%) (Ranked 204)  
+Completed: 132 (0.10%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

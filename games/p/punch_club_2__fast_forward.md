@@ -43,19 +43,19 @@
 | Mysterious voice | 44.00% | ~111 |
 | Your own way | 41.00% | ~103 |
 | Champion – no way back | 40.00% | ~101 |
+| Underground dwellers | 39.00% | ~98 |
 | Responsible approach | 39.00% | ~98 |
 | Poisoned fighter | 38.00% | ~96 |
 | Get out of my apartment! | 38.00% | ~96 |
-| Underground dwellers | 38.00% | ~96 |
+| Mom got better | 37.00% | ~93 |
 | Deal with life | 37.00% | ~93 |
 | GYM professional | 37.00% | ~93 |
-| Mom got better | 36.00% | ~91 |
-| The die is cast | 36.00% | ~91 |
+| The die is cast | 37.00% | ~93 |
 | Seashell hunter | 35.00% | ~88 |
 | Gang wrangler | 33.00% | ~83 |
 | Problems of cyborgs | 33.00% | ~83 |
+| Undercover robot | 33.00% | ~83 |
 | Absolute Champion! | 32.00% | ~81 |
-| Undercover robot | 32.00% | ~81 |
 | The lonesome road | 31.00% | ~78 |
 | Key memories | 31.00% | ~78 |
 | Not little hacker | 31.00% | ~78 |
@@ -72,7 +72,7 @@
 | The only right decision | 26.00% | ~66 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 252 (Ranked 269)  
-Completed: 8 (3.17%) (Ranked 67)  
+Completed: 8 (3.17%) (Ranked 68)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

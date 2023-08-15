@@ -6,9 +6,9 @@
   "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 217,
-  "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 309,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_Completed": 257,
+  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-06-07T16:00:00+00:00",
     "PcReleaseDate": "2022-06-07T16:00:00+00:00",
@@ -554,9 +554,9 @@
       "ID": "ACH_UNLOCK_ASMO_ENDING",
       "SetID": "ajki3eh",
       "Name": "Asmodeus",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 48
+      "UsersEstimate": 54
     },
     {
       "ID": "ACH_UNLOCK_CHAPTER_1",
@@ -650,8 +650,8 @@
   "FirstSeen": "2022-07-22T20:30:06.1147591+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.1712211+00:00",
   "LastChanged": "2023-03-31T05:57:36.3389853+00:00",
-  "LastChanged_Achievements": "2023-08-15T11:05:51.205441+00:00",
+  "LastChanged_Achievements": "2023-08-15T12:07:19.0741139+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:54.1825843+00:00",
-  "LastUpdate_Ratings": "2023-08-15T10:59:21.4508097+00:00",
-  "LastUpdate_Achievements": "2023-08-15T11:05:51.205475+00:00"
+  "LastUpdate_Ratings": "2023-08-15T12:00:26.9359383+00:00",
+  "LastUpdate_Achievements": "2023-08-15T12:07:19.0741349+00:00"
 }

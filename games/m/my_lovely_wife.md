@@ -29,8 +29,8 @@ Number of Ratings: 25  (23.09.2022)
 | The Collector | 24.00% | ~145 |
 | All Doors Open | 20.00% | ~121 |
 | Faithful | 11.00% | ~67 |
+| Asmodeus | 9.00% | ~54 |
 | A Close | 9.00% | ~54 |
-| Asmodeus | 8.00% | ~48 |
 | Luna | 8.00% | ~48 |
 | Lover | 1.00% | ~6 |
 | The Harvester | 1.00% | ~6 |
@@ -41,7 +41,7 @@ Number of Ratings: 25  (23.09.2022)
 | Lady Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 605 (Ranked 217)  
-Completed: 0 (0.00%) (Ranked 256)  
+Completed: 0 (0.00%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

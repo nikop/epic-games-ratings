@@ -3,9 +3,9 @@
   "Name": "Punch Club 2: Fast Forward",
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 269,
-  "Ranking_EOS_Completed": 67,
+  "Ranking_EOS_Completed": 68,
   "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
     "PcReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -906,9 +906,9 @@
       "ID": "adriana_recovery",
       "SetID": "69co12a",
       "Name": "Mom got better",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 93
     },
     {
       "ID": "adriana_sick",
@@ -1306,9 +1306,9 @@
       "ID": "prof_promotion_1",
       "SetID": "69co12a",
       "Name": "The die is cast",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 93
     },
     {
       "ID": "prof_promotion_2",
@@ -1322,9 +1322,9 @@
       "ID": "resistance_fake",
       "SetID": "69co12a",
       "Name": "Underground dwellers",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 98
     },
     {
       "ID": "resistance_slime",
@@ -1394,9 +1394,9 @@
       "ID": "undercover_robot",
       "SetID": "69co12a",
       "Name": "Undercover robot",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 83
     },
     {
       "ID": "unlock_way",
@@ -1441,8 +1441,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-08-15T11:04:33.3396895+00:00",
+  "LastChanged_Achievements": "2023-08-15T12:05:29.4662509+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:18.7618858+00:00",
-  "LastUpdate_Ratings": "2023-08-15T10:58:34.7269468+00:00",
-  "LastUpdate_Achievements": "2023-08-15T11:04:33.339813+00:00"
+  "LastUpdate_Ratings": "2023-08-15T11:59:21.735601+00:00",
+  "LastUpdate_Achievements": "2023-08-15T12:05:29.4663042+00:00"
 }

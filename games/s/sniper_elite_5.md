@@ -29,14 +29,14 @@ Rating: 4.44 (Ranked 645)
 | Close Quarters | 3.00% | ~104 |
 | Snake in the Grass | 3.00% | ~104 |
 | Brains of the Operation | 3.00% | ~104 |
-| Enemy at the Gates | 2.00% | ~69 |
-| Fields of Glory | 2.00% | ~69 |
-| Just a Flesh Wound | 2.00% | ~69 |
-| Set Europe Ablaze | 2.00% | ~69 |
-| Precision Is Key | 2.00% | ~69 |
-| Rigged to Blow | 2.00% | ~69 |
-| My Little Friend | 2.00% | ~69 |
-| Die Nussknacker Sweet! | 2.00% | ~69 |
+| Enemy at the Gates | 2.00% | ~70 |
+| Fields of Glory | 2.00% | ~70 |
+| Just a Flesh Wound | 2.00% | ~70 |
+| Set Europe Ablaze | 2.00% | ~70 |
+| Precision Is Key | 2.00% | ~70 |
+| Rigged to Blow | 2.00% | ~70 |
+| My Little Friend | 2.00% | ~70 |
+| Die Nussknacker Sweet! | 2.00% | ~70 |
 | The Long Game | 1.00% | ~35 |
 | Tinkerer | 1.00% | ~35 |
 | It'll Buff Right Out | 1.00% | ~35 |
@@ -77,8 +77,8 @@ Rating: 4.44 (Ranked 645)
 | Alpha | 0.10% | ~3 |
 | Das Familienjuwel | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,474 (Ranked 150)  
-Completed: 9 (0.26%) (Ranked 172)  
+Progressed: 3,475 (Ranked 150)  
+Completed: 9 (0.26%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -193,7 +193,7 @@ Completed: 9 (0.26%) (Ranked 172)
 | 2023-08-12 | 3,461 | 9 |
 | 2023-08-13 | 3,466 | 9 |
 | 2023-08-14 | 3,472 | 9 |
-| 2023-08-15 | 3,474 | 9 |
+| 2023-08-15 | 3,475 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

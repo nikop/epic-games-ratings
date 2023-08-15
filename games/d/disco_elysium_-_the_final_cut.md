@@ -6,17 +6,17 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~35,350 |
+| Goodest Of The Good Cops | 28.00% | ~35,351 |
 | Biggest Communism Builder | 24.00% | ~30,300 |
 | The World's Most Laughable Centrist | 20.00% | ~25,250 |
 | Il Coppo Del'Arte! | 18.00% | ~22,725 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,200 |
 | Hyperstellar Law Official | 15.00% | ~18,938 |
 | Recruit Detective Kim Kitsuragi | 14.00% | ~17,675 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~16,412 |
-| Gurdi-Ball Is Lit | 13.00% | ~16,412 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~16,413 |
+| Gurdi-Ball Is Lit | 13.00% | ~16,413 |
 | Truly Rabid *Traditionalist* | 11.00% | ~13,888 |
-| The Figurines Won't Win Her Back | 9.00% | ~11,362 |
+| The Figurines Won't Win Her Back | 9.00% | ~11,363 |
 | Unbelievably Boring **** | 8.00% | ~10,100 |
 | Enemy Of The Physical Realm | 8.00% | ~10,100 |
 | Hardie's Heroes | 6.00% | ~7,575 |
@@ -28,8 +28,8 @@ Number of Ratings: 1,611  (23.09.2022)
 | Expert Advanced Remote Viewer | 2.00% | ~2,525 |
 | Recruit Detective Kuuno de Ruyter | 2.00% | ~2,525 |
 | Wheel of Pleasure and Light | 2.00% | ~2,525 |
-| Massive Torque Dork | 1.00% | ~1,262 |
-| Avowed Inframaterialist | 1.00% | ~1,262 |
+| Massive Torque Dork | 1.00% | ~1,263 |
+| Avowed Inframaterialist | 1.00% | ~1,263 |
 | Real Musor | 0.90% | ~1,136 |
 | Baddest Brow in Town | 0.80% | ~1,010 |
 | Committee of la Responsabilité | 0.80% | ~1,010 |
@@ -38,17 +38,17 @@ Number of Ratings: 1,611  (23.09.2022)
 | Leopard Mindset | 0.60% | ~758 |
 | Modus: Mullen | 0.30% | ~379 |
 | Palerunner | 0.30% | ~379 |
-| Cause a ****storm | 0.20% | ~252 |
-| True Detective | 0.20% | ~252 |
-| The Icebreaker | 0.20% | ~252 |
+| Cause a ****storm | 0.20% | ~253 |
+| True Detective | 0.20% | ~253 |
+| The Icebreaker | 0.20% | ~253 |
 | The Most Honourable Cop in The Land | 0.10% | ~126 |
 | Gluten-Free Topping Pie | 0.10% | ~126 |
 | Get Kim to Wear *The Jacket* | 0.10% | ~126 |
 | Medal dispenser | 0.10% | ~126 |
 | What body? | 0.10% | ~126 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,250 (Ranked 67)  
-Completed: 27 (0.02%) (Ranked 236)  
+Progressed: 126,252 (Ranked 67)  
+Completed: 27 (0.02%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -164,7 +164,7 @@ Completed: 27 (0.02%) (Ranked 236)
 | 2023-08-12 | 126,104 | 27 |
 | 2023-08-13 | 126,181 | 27 |
 | 2023-08-14 | 126,238 | 27 |
-| 2023-08-15 | 126,250 | 27 |
+| 2023-08-15 | 126,252 | 27 |
 ## Awards
 Max (Character Customization): 716  (Ranked 165)  
 Sum: 1,078 (Ranked 235)  
