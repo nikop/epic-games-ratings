@@ -126,9 +126,9 @@
       "ID": "DRINK_BLUE",
       "SetID": "1k0m0ab",
       "Name": "PRIMA BLUE",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "DRINK_GAZE",
@@ -373,8 +373,8 @@
   ],
   "FirstSeen": "2023-08-13T17:57:40.8250998+00:00",
   "FirstSeenAchievements": "2023-08-07T02:00:19.8030023+00:00",
-  "LastChanged_Achievements": "2023-08-15T03:03:56.8833628+00:00",
+  "LastChanged_Achievements": "2023-08-15T04:04:18.6681221+00:00",
   "LastUpdate_AppInfo": "2023-08-11T01:35:09.7822007+00:00",
-  "LastUpdate_Ratings": "2023-08-15T02:57:29.4667596+00:00",
-  "LastUpdate_Achievements": "2023-08-15T03:03:56.8833945+00:00"
+  "LastUpdate_Ratings": "2023-08-15T03:57:42.8201229+00:00",
+  "LastUpdate_Achievements": "2023-08-15T04:04:18.6681744+00:00"
 }

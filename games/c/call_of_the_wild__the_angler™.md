@@ -6,7 +6,7 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 76.00% | ~3,729 |
+| Fish Just Got Reel | 77.00% | ~3,778 |
 | Hey Good Hookin | 66.00% | ~3,238 |
 | I'm on a Boat! | 57.00% | ~2,796 |
 | Can you smell what the Rod is Hooking | 51.00% | ~2,502 |

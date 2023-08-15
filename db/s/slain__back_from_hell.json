@@ -217,9 +217,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 33926,
+  "EOS_Progressed": 33930,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 864,
+  "EOS_NewPlayers": 863,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -12977,6 +12977,11 @@
       "Time": "2023-08-15T03:05:28.7933632+00:00",
       "NumProgressed": 33926,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-08-15T04:06:10.9431691+00:00",
+      "NumProgressed": 33930,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 29,
@@ -12988,7 +12993,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 5089
+      "UsersEstimate": 5090
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -12996,7 +13001,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 6785
+      "UsersEstimate": 6786
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -13092,7 +13097,7 @@
       "Name": "Death Becomes Her",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "ACH_16_RETURNED_ICE_METEORS",
@@ -13124,7 +13129,7 @@
       "Name": "The Sky Is Falling",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "ACH_20_MULTI_KILL",
@@ -13172,7 +13177,7 @@
       "Name": "That\u0027ll Come In Handy...",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "ACH_26_VROLL_NO_DAMAGE",
@@ -13219,7 +13224,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 33926,
+      "Progressed": 33930,
       "Completed": 21
     }
   ],
@@ -13227,8 +13232,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-08-12T21:03:39.1122054+00:00",
-  "LastChanged_Achievements": "2023-08-15T03:05:28.7933623+00:00",
+  "LastChanged_Achievements": "2023-08-15T04:06:10.9431686+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:57.7890504+00:00",
-  "LastUpdate_Ratings": "2023-08-15T02:57:04.0960959+00:00",
-  "LastUpdate_Achievements": "2023-08-15T03:05:28.7934599+00:00"
+  "LastUpdate_Ratings": "2023-08-15T03:57:12.4409333+00:00",
+  "LastUpdate_Achievements": "2023-08-15T04:06:10.9433404+00:00"
 }

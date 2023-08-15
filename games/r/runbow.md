@@ -29,7 +29,7 @@ Rating: 4.46 (Ranked 617)
 | Thunderstruck | 2.00% | ~4,961 |
 | Just A Bit | 1.00% | ~2,481 |
 | Tubular, Dude | 1.00% | ~2,481 |
-| What A Trip | 0.90% | ~2,233 |
+| What A Trip | 1.00% | ~2,481 |
 | Here We Go! | 0.80% | ~1,985 |
 | Please The King | 0.80% | ~1,985 |
 | Clear-Cut | 0.50% | ~1,240 |

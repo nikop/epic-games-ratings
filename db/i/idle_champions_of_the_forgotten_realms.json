@@ -5818,9 +5818,9 @@
       "Count": 3354
     }
   ],
-  "EOS_Progressed": 221973,
+  "EOS_Progressed": 221978,
   "EOS_Completed": 2181,
-  "EOS_NewPlayers": 2196,
+  "EOS_NewPlayers": 2189,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -18463,6 +18463,11 @@
       "Time": "2023-08-15T03:04:01.3693241+00:00",
       "NumProgressed": 221973,
       "NumCompleted": 2181
+    },
+    {
+      "Time": "2023-08-15T04:04:24.338863+00:00",
+      "NumProgressed": 221978,
+      "NumCompleted": 2181
     }
   ],
   "TotalAchievements": 516,
@@ -18472,9 +18477,9 @@
       "ID": "objective_completed_1",
       "SetID": "cc37lbc",
       "Name": "A Brief Tour of the Realms",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1332
+      "UsersEstimate": 1554
     },
     {
       "ID": "objective_completed_10",
@@ -22578,7 +22583,7 @@
       "Name": "The Chaotic Hunt for The Last Breath",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "objective_completed_1400",
@@ -22594,28 +22599,28 @@
       "Name": "There\u0027s a Flying Snake in my Boot!",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 188247,
+      "Progressed": 188252,
       "Completed": 3236
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 221973,
+      "Progressed": 221978,
       "Completed": 2181
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-14T23:59:35.0367295+00:00",
-  "LastChanged_Achievements": "2023-08-15T03:04:01.3693236+00:00",
+  "LastChanged_Achievements": "2023-08-15T04:04:24.3388625+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:51.8567155+00:00",
-  "LastUpdate_Ratings": "2023-08-15T02:59:04.9638968+00:00",
-  "LastUpdate_Achievements": "2023-08-15T03:04:01.3724895+00:00"
+  "LastUpdate_Ratings": "2023-08-15T03:59:41.2099923+00:00",
+  "LastUpdate_Achievements": "2023-08-15T04:04:24.3418195+00:00"
 }

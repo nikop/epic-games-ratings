@@ -6,20 +6,20 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~21,315 |
-| Thorough | 10.00% | ~19,377 |
+| Genin | 11.00% | ~21,316 |
+| Thorough | 10.00% | ~19,378 |
 | A thief's beginning | 9.00% | ~17,440 |
-| Disguised | 8.00% | ~15,502 |
-| Rollin' | 8.00% | ~15,502 |
-| Tanuki Time | 8.00% | ~15,502 |
-| Jonin | 7.00% | ~13,564 |
-| Rescue Takuma | 7.00% | ~13,564 |
-| Stoned Ox | 7.00% | ~13,564 |
-| Chunin | 6.00% | ~11,626 |
-| Happy Planning | 6.00% | ~11,626 |
-| Ice Ice Yuki | 6.00% | ~11,626 |
-| Mugen Unchained | 6.00% | ~11,626 |
-| Yabu | 6.00% | ~11,626 |
+| Disguised | 8.00% | ~15,503 |
+| Rollin' | 8.00% | ~15,503 |
+| Tanuki Time | 8.00% | ~15,503 |
+| Jonin | 7.00% | ~13,565 |
+| Rescue Takuma | 7.00% | ~13,565 |
+| Stoned Ox | 7.00% | ~13,565 |
+| Chunin | 6.00% | ~11,627 |
+| Happy Planning | 6.00% | ~11,627 |
+| Ice Ice Yuki | 6.00% | ~11,627 |
+| Mugen Unchained | 6.00% | ~11,627 |
+| Yabu | 6.00% | ~11,627 |
 | Flying Rocks | 5.00% | ~9,689 |
 | Okkoto | 5.00% | ~9,689 |
 | Warzone | 5.00% | ~9,689 |
@@ -30,11 +30,11 @@ Number of Ratings: 495  (23.09.2022)
 | Noboru | 3.00% | ~5,813 |
 | Still Rollin' | 3.00% | ~5,813 |
 | Stoned | 3.00% | ~5,813 |
-| Atheist Ox | 2.00% | ~3,875 |
-| It's raining men | 2.00% | ~3,875 |
-| Old Man | 2.00% | ~3,875 |
-| The Old Way | 2.00% | ~3,875 |
-| Winner Winner | 2.00% | ~3,875 |
+| Atheist Ox | 2.00% | ~3,876 |
+| It's raining men | 2.00% | ~3,876 |
+| Old Man | 2.00% | ~3,876 |
+| The Old Way | 2.00% | ~3,876 |
+| Winner Winner | 2.00% | ~3,876 |
 | Meticulous | 1.00% | ~1,938 |
 | No Gimmicks | 1.00% | ~1,938 |
 | The End | 1.00% | ~1,938 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~194 |
 | Release the Kraken | 0.10% | ~194 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 193,774 (Ranked 60)  
+Progressed: 193,783 (Ranked 60)  
 Completed: 69 (0.04%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,11 +168,11 @@ Completed: 69 (0.04%) (Ranked 224)
 | 2023-08-12 | 193,172 | 69 |
 | 2023-08-13 | 193,457 | 69 |
 | 2023-08-14 | 193,724 | 69 |
-| 2023-08-15 | 193,774 | 69 |
+| 2023-08-15 | 193,783 | 69 |
 ## Awards
-Max (Great for Beginners): 561  (Ranked 187)  
+Max (Great for Beginners): 561  (Ranked 188)  
 Sum: 4,724 (Ranked 134)  
-Diff (max vs sum): 53  
+Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 561 |

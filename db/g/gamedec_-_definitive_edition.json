@@ -390,9 +390,9 @@
       "Count": 78
     }
   ],
-  "EOS_Progressed": 242070,
+  "EOS_Progressed": 242072,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1019,
+  "EOS_NewPlayers": 1018,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13170,6 +13170,11 @@
       "Time": "2023-08-15T03:04:07.1145398+00:00",
       "NumProgressed": 242070,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-08-15T04:04:30.6596794+00:00",
+      "NumProgressed": 242072,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -13245,7 +13250,7 @@
       "Name": "Guns, lots of guns",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 29048
+      "UsersEstimate": 29049
     },
     {
       "ID": "ACH_HATTRICK",
@@ -13277,7 +13282,7 @@
       "Name": "I have the high ground",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 1694
+      "UsersEstimate": 1695
     },
     {
       "ID": "ACH_HIGHNOON",
@@ -13341,7 +13346,7 @@
       "Name": "It\u0027s blue, always blue",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 1694
+      "UsersEstimate": 1695
     },
     {
       "ID": "ACH_KACHING",
@@ -13596,7 +13601,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 242070,
+      "Progressed": 242072,
       "Completed": 7
     }
   ],
@@ -13604,8 +13609,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-08-09T23:58:55.2911766+00:00",
-  "LastChanged_Achievements": "2023-08-15T03:04:07.1145394+00:00",
+  "LastChanged_Achievements": "2023-08-15T04:04:30.6596787+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:38.5729047+00:00",
-  "LastUpdate_Ratings": "2023-08-15T02:58:53.9662184+00:00",
-  "LastUpdate_Achievements": "2023-08-15T03:04:07.114649+00:00"
+  "LastUpdate_Ratings": "2023-08-15T03:59:29.5758573+00:00",
+  "LastUpdate_Achievements": "2023-08-15T04:04:30.6599262+00:00"
 }

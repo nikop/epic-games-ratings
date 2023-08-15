@@ -2,7 +2,7 @@
   "ID": "97071dce4a98441d9c0b7f0df92f7b31",
   "Name": "Football Manager 2022",
   "ProductSlug": "football-manager-2022",
-  "Ranking_Rating": 81,
+  "Ranking_Rating": 82,
   "Ranking_Popularity": 54,
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 36,
@@ -6569,7 +6569,7 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 470239,
+  "EOS_Progressed": 470240,
   "EOS_Completed": 20,
   "EOS_NewPlayers": 747,
   "EOS_NewCompleters": 1,
@@ -18799,6 +18799,11 @@
       "Time": "2023-08-15T01:46:33.6216716+00:00",
       "NumProgressed": 470239,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-08-15T04:06:58.6753418+00:00",
+      "NumProgressed": 470240,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 98,
@@ -18834,7 +18839,7 @@
       "Name": "Unbeatable!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 173988
+      "UsersEstimate": 173989
     },
     {
       "ID": "achievement_10_seasons_at_one_club",
@@ -18906,7 +18911,7 @@
       "Name": "Parked The Bus",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 136369
+      "UsersEstimate": 136370
     },
     {
       "ID": "achievement_5_manager_of_the_year_awards",
@@ -18930,7 +18935,7 @@
       "Name": "Fantastic Five",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 112857
+      "UsersEstimate": 112858
     },
     {
       "ID": "achievement_always_a_plan_b",
@@ -18962,7 +18967,7 @@
       "Name": "Thumping",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 173988
+      "UsersEstimate": 173989
     },
     {
       "ID": "achievement_buy_50_million_plus_player",
@@ -19010,7 +19015,7 @@
       "Name": "Do The Double",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 89345
+      "UsersEstimate": 89346
     },
     {
       "ID": "achievement_dont_concede_a_goal_for_10_consecutive_matches",
@@ -19034,7 +19039,7 @@
       "Name": "Eyes and Ears",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 65833
+      "UsersEstimate": 65834
     },
     {
       "ID": "achievement_fine_player",
@@ -19042,7 +19047,7 @@
       "Name": "I\u0027m The Boss!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 197500
+      "UsersEstimate": 197501
     },
     {
       "ID": "achievement_full_board_confidence",
@@ -19050,7 +19055,7 @@
       "Name": "Full Faith",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 112857
+      "UsersEstimate": 112858
     },
     {
       "ID": "achievement_gain_bottom_to_top_promotion",
@@ -19122,7 +19127,7 @@
       "Name": "Shrewd Spender",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 136369
+      "UsersEstimate": 136370
     },
     {
       "ID": "achievement_hattrick",
@@ -19194,7 +19199,7 @@
       "Name": "The Boss",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 112857
+      "UsersEstimate": 112858
     },
     {
       "ID": "achievement_most_goals_scored_in_league",
@@ -19242,7 +19247,7 @@
       "Name": "Total Support",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 150476
+      "UsersEstimate": 150477
     },
     {
       "ID": "achievement_perfect_match_cohesion",
@@ -19282,7 +19287,7 @@
       "Name": "Star Man",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 136369
+      "UsersEstimate": 136370
     },
     {
       "ID": "achievement_player_in_world_cup_best_xi",
@@ -19314,7 +19319,7 @@
       "Name": "Record Signing",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 150476
+      "UsersEstimate": 150477
     },
     {
       "ID": "achievement_rushed_signing",
@@ -19394,7 +19399,7 @@
       "Name": "Armchair Expert",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 112857
+      "UsersEstimate": 112858
     },
     {
       "ID": "achievement_win_3_consecutive_league_titles",
@@ -19593,15 +19598,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 470239,
+      "Progressed": 470240,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-08-15T01:36:43.4344051+00:00",
-  "LastChanged_Achievements": "2023-08-15T03:06:07.6457302+00:00",
+  "LastChanged_Achievements": "2023-08-15T04:06:58.6753414+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:19.9756168+00:00",
-  "LastUpdate_Ratings": "2023-08-15T02:57:27.7506269+00:00",
-  "LastUpdate_Achievements": "2023-08-15T03:06:07.6459317+00:00"
+  "LastUpdate_Ratings": "2023-08-15T03:57:40.6177284+00:00",
+  "LastUpdate_Achievements": "2023-08-15T04:06:58.6755637+00:00"
 }
