@@ -79,9 +79,9 @@
       "ID": "brokenbox",
       "SetID": "bbgli2k",
       "Name": "Out of service",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "energy050",
@@ -119,9 +119,9 @@
       "ID": "gadx",
       "SetID": "bbgli2k",
       "Name": "The GA-DX",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "grilledmouse",
@@ -199,9 +199,9 @@
       "ID": "lightbulbs100",
       "SetID": "bbgli2k",
       "Name": "Lightbulb Detective",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "lightbulbs50",
@@ -239,9 +239,9 @@
       "ID": "neighenergy.west",
       "SetID": "bbgli2k",
       "Name": "West Residence Energy",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "plush",
@@ -311,9 +311,9 @@
       "ID": "quest008",
       "SetID": "bbgli2k",
       "Name": "The Woman and the Stars",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "quest099",
@@ -327,9 +327,9 @@
       "ID": "riddles",
       "SetID": "bbgli2k",
       "Name": "Riddle Master",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "shop.golden",
@@ -400,8 +400,8 @@
   "FirstSeenRating": "2023-03-31T05:58:29.0586638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.5925841+00:00",
   "LastChanged": "2023-03-31T05:58:29.0586639+00:00",
-  "LastChanged_Achievements": "2023-08-15T07:05:09.5958382+00:00",
+  "LastChanged_Achievements": "2023-08-15T08:04:25.1538934+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:06.7711187+00:00",
-  "LastUpdate_Ratings": "2023-08-15T06:59:05.282837+00:00",
-  "LastUpdate_Achievements": "2023-08-15T07:05:09.5958673+00:00"
+  "LastUpdate_Ratings": "2023-08-15T07:58:20.0718302+00:00",
+  "LastUpdate_Achievements": "2023-08-15T08:04:25.1539265+00:00"
 }

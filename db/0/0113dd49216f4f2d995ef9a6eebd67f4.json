@@ -4,7 +4,7 @@
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
   "Ranking_EOS_Progress": 391,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -343,9 +343,9 @@
       "ID": "SG_SNAKECHARMER",
       "SetID": "bj5g0n4",
       "Name": "Snake Charmer",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SG_TALKTOTHEHAND",
@@ -454,8 +454,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-08-15T07:04:07.7693839+00:00",
+  "LastChanged_Achievements": "2023-08-15T08:03:42.4966739+00:00",
   "LastUpdate_AppInfo": "2023-08-10T07:57:00.7529969+00:00",
-  "LastUpdate_Ratings": "2023-08-15T06:57:42.3801141+00:00",
-  "LastUpdate_Achievements": "2023-08-15T07:04:07.7694145+00:00"
+  "LastUpdate_Ratings": "2023-08-15T07:57:25.2657756+00:00",
+  "LastUpdate_Achievements": "2023-08-15T08:03:42.4967287+00:00"
 }

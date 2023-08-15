@@ -8,24 +8,24 @@ Number of Ratings: 706  (23.09.2022)
 | ---- | ---------- | ----- |
 | Get A Room | 74.00% | ~3,915 |
 | Having A Field Day | 74.00% | ~3,915 |
-| Reap What You Sow | 71.00% | ~3,756 |
-| The First Day | 68.00% | ~3,597 |
-| Green Thumb | 66.00% | ~3,491 |
-| Novice Researcher | 65.00% | ~3,438 |
-| Putting Food on the Table | 59.00% | ~3,121 |
-| Home Cooked Meal | 56.00% | ~2,962 |
+| Reap What You Sow | 71.00% | ~3,757 |
+| The First Day | 68.00% | ~3,598 |
+| Green Thumb | 66.00% | ~3,492 |
+| Novice Researcher | 65.00% | ~3,439 |
+| Putting Food on the Table | 59.00% | ~3,122 |
+| Home Cooked Meal | 56.00% | ~2,963 |
 | Onward | 55.00% | ~2,910 |
 | The First Week | 53.00% | ~2,804 |
 | Studious Researcher | 51.00% | ~2,698 |
-| Beam Me Up | 50.00% | ~2,645 |
-| Feast or Famine | 49.00% | ~2,592 |
+| Beam Me Up | 50.00% | ~2,646 |
+| Feast or Famine | 49.00% | ~2,593 |
 | Adept Researcher | 44.00% | ~2,328 |
 | Retribution | 40.00% | ~2,116 |
 | ...And Don’t Come Back! | 40.00% | ~2,116 |
-| Fit For A King | 38.00% | ~2,010 |
+| Fit For A King | 38.00% | ~2,011 |
 | Luminary Researcher | 33.00% | ~1,746 |
 | Heating Up | 29.00% | ~1,534 |
-| Winter Is Coming | 26.00% | ~1,375 |
+| Winter Is Coming | 26.00% | ~1,376 |
 | Winter Is Here | 23.00% | ~1,217 |
 | Disassembled | 20.00% | ~1,058 |
 | A Party Now | 20.00% | ~1,058 |
@@ -34,11 +34,11 @@ Number of Ratings: 706  (23.09.2022)
 | Nothing Wasted | 12.00% | ~635 |
 | Don't Cry Wolf | 12.00% | ~635 |
 | Deerly Departed | 8.00% | ~423 |
-| Where Wolf? | 5.00% | ~264 |
+| Where Wolf? | 5.00% | ~265 |
 | Food Chain | 2.00% | ~106 |
 | Wabbit Season | 0.50% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,290 (Ranked 137)  
+Progressed: 5,291 (Ranked 137)  
 Completed: 10 (0.19%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,16 +134,16 @@ Completed: 10 (0.19%) (Ranked 184)
 | 2023-08-12 | 5,254 | 10 |
 | 2023-08-13 | 5,276 | 10 |
 | 2023-08-14 | 5,286 | 10 |
-| 2023-08-15 | 5,290 | 10 |
+| 2023-08-15 | 5,291 | 10 |
 ## Awards
 Max (Relaxing): 121  (Ranked 315)  
-Sum: 970 (Ranked 240)  
+Sum: 971 (Ranked 240)  
 Diff (max vs sum): 75  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 121 |
 | This game is Great for Beginners | 118 |
-| This game has Diverse Characters | 108 |
+| This game has Diverse Characters | 109 |
 | This game has Quickly Understood Controls | 105 |
 | This game is Extremely Fun | 101 |
 | This game is Highly Recommended | 99 |
@@ -272,3 +272,4 @@ Diff (max vs sum): 75
 | 2023-08-03 | 4.60 | - | 121 | 968 |
 | 2023-08-05 | 4.60 | - | 121 | 969 |
 | 2023-08-09 | 4.60 | - | 121 | 970 |
+| 2023-08-15 | 4.60 | - | 121 | 971 |

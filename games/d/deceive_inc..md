@@ -29,8 +29,8 @@ Rating: 4.58 (Ranked 426)
 | Security Supervisor | 6.00% | ~1,043 |
 | License to Thrill | 5.00% | ~869 |
 | Social of Solace | 4.00% | ~695 |
-| Live and let lie | 3.00% | ~521 |
-| Safe Withdrawal | 3.00% | ~521 |
+| Live and let lie | 3.00% | ~522 |
+| Safe Withdrawal | 3.00% | ~522 |
 | Branch Manager | 2.00% | ~348 |
 | Call Me Maybe | 2.00% | ~348 |
 | PHD in VIP | 2.00% | ~348 |
@@ -42,7 +42,7 @@ Rating: 4.58 (Ranked 426)
 | Extraction Confusion | 0.20% | ~35 |
 | Spyfall | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,382 (Ranked 109)  
+Progressed: 17,384 (Ranked 109)  
 Completed: 1 (0.01%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,7 +159,7 @@ Completed: 1 (0.01%) (Ranked 242)
 | 2023-08-12 | 17,320 | 1 |
 | 2023-08-13 | 17,350 | 1 |
 | 2023-08-14 | 17,375 | 1 |
-| 2023-08-15 | 17,382 | 1 |
+| 2023-08-15 | 17,384 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

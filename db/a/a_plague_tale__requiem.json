@@ -7320,9 +7320,9 @@
       "ID": "ACH_02",
       "SetID": "9d4cf4c",
       "Name": "Newcomers",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 9967
+      "UsersEstimate": 10095
     },
     {
       "ID": "ACH_03",
@@ -7601,8 +7601,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-07-25T21:01:04.4770621+00:00",
-  "LastChanged_Achievements": "2023-08-15T07:05:43.1087308+00:00",
+  "LastChanged_Achievements": "2023-08-15T08:04:47.6875553+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:12.6361661+00:00",
-  "LastUpdate_Ratings": "2023-08-15T07:02:10.4605747+00:00",
-  "LastUpdate_Achievements": "2023-08-15T07:05:43.1088139+00:00"
+  "LastUpdate_Ratings": "2023-08-15T08:00:16.922175+00:00",
+  "LastUpdate_Achievements": "2023-08-15T08:04:47.6876251+00:00"
 }

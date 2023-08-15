@@ -6,30 +6,30 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 68.00% | ~592,238 |
-| Right Back At Ya | 39.00% | ~339,666 |
-| The Lovers | 35.00% | ~304,828 |
-| Stanislavski's Method | 29.00% | ~252,572 |
-| The Wheel of Fortune | 27.00% | ~235,153 |
-| The Hermit | 25.00% | ~217,734 |
+| The Fool | 68.00% | ~592,239 |
+| Right Back At Ya | 39.00% | ~339,667 |
+| The Lovers | 35.00% | ~304,829 |
+| Stanislavski's Method | 29.00% | ~252,573 |
+| The Wheel of Fortune | 27.00% | ~235,154 |
+| The Hermit | 25.00% | ~217,735 |
 | Christmas Tree Attack | 23.00% | ~200,316 |
 | True Soldier | 23.00% | ~200,316 |
-| The High Priestess | 22.00% | ~191,606 |
-| Legend of The Afterlife | 22.00% | ~191,606 |
+| The High Priestess | 22.00% | ~191,607 |
+| Legend of The Afterlife | 22.00% | ~191,607 |
 | Life of the Road | 21.00% | ~182,897 |
 | Full Body Conversion | 18.00% | ~156,769 |
 | The World | 18.00% | ~156,769 |
 | Bushido and Chill | 16.00% | ~139,350 |
 | Gun Fu | 15.00% | ~130,641 |
 | True Warrior | 15.00% | ~130,641 |
-| I Am The Law | 14.00% | ~121,931 |
-| Judy vs Night City | 14.00% | ~121,931 |
+| I Am The Law | 14.00% | ~121,932 |
+| Judy vs Night City | 14.00% | ~121,932 |
 | To Protect and Serve | 13.00% | ~113,222 |
 | Master Crafter | 13.00% | ~113,222 |
 | Two Heads, One Bullet | 12.00% | ~104,513 |
 | The Quick and the Dead | 10.00% | ~87,094 |
-| The Wandering Fool | 9.00% | ~78,384 |
-| Ten out of Ten | 9.00% | ~78,384 |
+| The Wandering Fool | 9.00% | ~78,385 |
+| Ten out of Ten | 9.00% | ~78,385 |
 | Breathtaking | 8.00% | ~69,675 |
 | The Star | 7.00% | ~60,966 |
 | To Bad Decisions! | 6.00% | ~52,256 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~8,709 |
 | Rough Landing | 0.50% | ~4,355 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 870,938 (Ranked 14)  
+Progressed: 870,940 (Ranked 14)  
 Completed: 1,970 (0.23%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,10 +168,10 @@ Completed: 1,970 (0.23%) (Ranked 176)
 | 2023-08-12 | 870,573 | 1,961 |
 | 2023-08-13 | 870,756 | 1,962 |
 | 2023-08-14 | 870,901 | 1,969 |
-| 2023-08-15 | 870,938 | 1,970 |
+| 2023-08-15 | 870,940 | 1,970 |
 ## Awards
 Max (Character Customization): 75,493  (Ranked 9)  
-Sum: 199,511 (Ranked 13)  
+Sum: 199,521 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
@@ -182,7 +182,7 @@ Diff (max vs sum): -4
 | This game has Diverse Characters | 8,852 |
 | This game is Extremely Fun | 8,704 |
 | This game is Highly Recommended | 8,684 |
-| This game is Relaxing | 8,621 |
+| This game is Relaxing | 8,631 |
 | This game has Amazing Characters | 8,526 |
 | This game has Quickly Understood Controls | 8,505 |
 | This game has a Creative Community | 5,585 |
@@ -397,4 +397,4 @@ Diff (max vs sum): -4
 | 2023-08-12 | 4.62 | - | 75,347 | 198,991 |
 | 2023-08-13 | 4.62 | - | 75,429 | 199,261 |
 | 2023-08-14 | 4.62 | - | 75,493 | 199,487 |
-| 2023-08-15 | 4.62 | - | 75,493 | 199,511 |
+| 2023-08-15 | 4.62 | - | 75,493 | 199,521 |

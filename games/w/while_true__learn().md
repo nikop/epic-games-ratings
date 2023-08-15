@@ -6,17 +6,17 @@ Number of Ratings: 896  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First.. Bit? | 93.00% | ~558,359 |
-| Error: Stack Overflow | 66.00% | ~396,255 |
-| We need more gold | 60.00% | ~360,232 |
-| The dawn of civilization | 53.00% | ~318,205 |
-| More FPS for the FPS god! | 49.00% | ~294,189 |
-| Beauty and harmony | 48.00% | ~288,185 |
-| One more! | 44.00% | ~264,170 |
-| Overmind | 24.00% | ~144,093 |
-| RNG is my best friend now | 18.00% | ~108,069 |
-| Cosplay | 13.00% | ~78,050 |
-| Evolution in progress... | 13.00% | ~78,050 |
+| First.. Bit? | 93.00% | ~558,363 |
+| Error: Stack Overflow | 66.00% | ~396,257 |
+| We need more gold | 60.00% | ~360,234 |
+| The dawn of civilization | 53.00% | ~318,207 |
+| More FPS for the FPS god! | 49.00% | ~294,191 |
+| Beauty and harmony | 48.00% | ~288,187 |
+| One more! | 44.00% | ~264,172 |
+| Overmind | 24.00% | ~144,094 |
+| RNG is my best friend now | 18.00% | ~108,070 |
+| Cosplay | 13.00% | ~78,051 |
+| Evolution in progress... | 13.00% | ~78,051 |
 | Step by step | 8.00% | ~48,031 |
 | README reader | 3.00% | ~18,012 |
 | Data scientist | 3.00% | ~18,012 |
@@ -28,14 +28,14 @@ Number of Ratings: 896  (23.09.2022)
 | Cybergeek 2047 | 2.00% | ~12,008 |
 | Ping | 1.00% | ~6,004 |
 | Magna cum laude | 1.00% | ~6,004 |
-| The hoarder | 0.90% | ~5,403 |
+| The hoarder | 0.90% | ~5,404 |
 | Deal with it! | 0.50% | ~3,002 |
 | Gold rush | 0.40% | ~2,402 |
 | Cat-o-holic | 0.40% | ~2,402 |
 | Elements will destroy you! | 0.30% | ~1,801 |
 | The Scrooge | 0.10% | ~600 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 600,386 (Ranked 28)  
+Progressed: 600,390 (Ranked 28)  
 Completed: 516 (0.09%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,7 +152,7 @@ Completed: 516 (0.09%) (Ranked 207)
 | 2023-08-12 | 600,128 | 513 |
 | 2023-08-13 | 600,247 | 515 |
 | 2023-08-14 | 600,359 | 516 |
-| 2023-08-15 | 600,386 | 516 |
+| 2023-08-15 | 600,390 | 516 |
 ## Awards
 Max (Challenging Puzzles): 134  (Ranked 307)  
 Sum: 134 (Ranked 402)  

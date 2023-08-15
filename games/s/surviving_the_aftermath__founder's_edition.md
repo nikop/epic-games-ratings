@@ -18,8 +18,8 @@ Number of Ratings: 836  (23.09.2022)
 | New Opportunities | 34.00% | ~2,818 |
 | Energized | 33.00% | ~2,735 |
 | The Long Haul | 33.00% | ~2,735 |
+| Survivor | 32.00% | ~2,652 |
 | The Great Healer | 31.00% | ~2,570 |
-| Survivor | 31.00% | ~2,570 |
 | Legendary Explorer | 28.00% | ~2,321 |
 | Cleaner | 28.00% | ~2,321 |
 | Catastrofan | 28.00% | ~2,321 |
