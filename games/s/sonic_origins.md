@@ -17,7 +17,7 @@ Number of Ratings: 154  (23.09.2022)
 | Easy Peasy with Shields | 64.00% | ~252 |
 | Knuckles the Echidna | 64.00% | ~252 |
 | Gallant Spin Dash | 63.00% | ~248 |
-| Miles "Tails" Prower | 62.00% | ~244 |
+| Miles "Tails" Prower | 63.00% | ~248 |
 | Bubbly Breath | 60.00% | ~236 |
 | Boss Rush Attempt | 55.00% | ~217 |
 | Cleared Sonic the Hedgehog | 53.00% | ~209 |

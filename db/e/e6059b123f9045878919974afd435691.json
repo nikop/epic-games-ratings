@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 726,
+  "EOS_Progressed": 728,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1591,6 +1591,11 @@
       "Time": "2023-08-14T21:06:28.3166654+00:00",
       "NumProgressed": 726,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-15T03:06:30.8831803+00:00",
+      "NumProgressed": 728,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1602,7 +1607,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 428
+      "UsersEstimate": 430
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -1618,7 +1623,7 @@
       "Name": "FULLCLIP",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "AMMO_ACHIEVEMENT_4",
@@ -1626,7 +1631,7 @@
       "Name": "Out Of Stock",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ATKM_ACHIEVEMENT_1",
@@ -1642,7 +1647,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -1674,7 +1679,7 @@
       "Name": "Capraphobia",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -1722,7 +1727,7 @@
       "Name": "Burnt Smell",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "BURN_ACHIEVEMENT_2",
@@ -1810,7 +1815,7 @@
       "Name": "Think Bullets Will Affect Her?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "EXT_ACHIEVEMENT_1",
@@ -1818,7 +1823,7 @@
       "Name": "Fire Alarm",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "FREEB_ACHIEVEMENT_1",
@@ -1842,7 +1847,7 @@
       "Name": "Where Is Houdini?",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "FREE_ACHIEVEMENT_1",
@@ -1850,7 +1855,7 @@
       "Name": "I\u0027ll Save You!",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "FREE_ACHIEVEMENT_2",
@@ -1874,7 +1879,7 @@
       "Name": "Pest Control or Taxonomist?",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "KILLR_ACHIEVEMENT_1",
@@ -1882,7 +1887,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -1922,7 +1927,7 @@
       "Name": "And There We Go",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -1962,7 +1967,7 @@
       "Name": "Don\u0027t Turn Your Back",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
@@ -1978,7 +1983,7 @@
       "Name": "Hostage of the Elderly",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -2002,7 +2007,7 @@
       "Name": "To Get Stronger",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "MEAT_ACHIEVEMENT_3",
@@ -2129,14 +2134,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 726,
+      "Progressed": 728,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-08-15T02:20:39.0679594+00:00",
+  "LastChanged_Achievements": "2023-08-15T03:06:30.8831797+00:00",
   "LastUpdate_AppInfo": "2023-08-10T15:57:09.1792695+00:00",
-  "LastUpdate_Ratings": "2023-08-15T02:11:23.0504115+00:00",
-  "LastUpdate_Achievements": "2023-08-15T02:20:39.0681014+00:00"
+  "LastUpdate_Ratings": "2023-08-15T02:57:50.4362139+00:00",
+  "LastUpdate_Achievements": "2023-08-15T03:06:30.8832597+00:00"
 }

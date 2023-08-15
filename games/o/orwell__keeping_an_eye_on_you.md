@@ -1,7 +1,7 @@
 # Orwell: Keeping an Eye on You
 [Store](https://store.epicgames.com/en-US/p/orwell-keeping-an-eye-on-you)  
 [View Rawdata](../../db/o/orwell__keeping_an_eye_on_you.json)  
-Rating: 4.38 (Ranked 716)  
+Rating: 4.40 (Ranked 697)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -9,3 +9,4 @@ Rating: 4.38 (Ranked 716)
 | 2023-08-12 | 4.47 | 0 | 0 |
 | 2023-08-13 | 4.39 | 0 | 0 |
 | 2023-08-14 | 4.38 | 0 | 0 |
+| 2023-08-15 | 4.40 | 0 | 0 |

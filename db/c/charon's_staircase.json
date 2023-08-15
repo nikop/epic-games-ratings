@@ -4,7 +4,7 @@
   "ProductSlug": "charons-staircase-b2d05f",
   "Ranking_EOS_Progress": 340,
   "Ranking_EOS_Completed": 79,
-  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewPlayers": 356,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-10-28T07:00:00+00:00",
@@ -262,6 +262,6 @@
   "LastChanged": "2023-03-31T05:58:38.6125589+00:00",
   "LastChanged_Achievements": "2023-08-15T02:16:05.2247376+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:53.4111276+00:00",
-  "LastUpdate_Ratings": "2023-08-15T02:13:54.3717896+00:00",
+  "LastUpdate_Ratings": "2023-08-15T02:59:52.1386974+00:00",
   "LastUpdate_Achievements": "2023-08-15T02:16:05.2247619+00:00"
 }

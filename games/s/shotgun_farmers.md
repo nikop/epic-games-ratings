@@ -10,7 +10,7 @@
 | Survivor | 56.00% | ~117 |
 | Aspairagus | 56.00% | ~117 |
 | No Asperascope | 51.00% | ~132 |
-| Cornivore | 50.00% | ~130 |
+| Cornivore | 51.00% | ~132 |
 | I Believe I Can Fly | 48.00% | ~124 |
 | Early Survivor | 42.00% | ~88 |
 | No Diggity | 41.00% | ~86 |
@@ -22,7 +22,7 @@
 | Drinking Problem | 22.00% | ~57 |
 | Grave Digger | 22.00% | ~46 |
 | Quick-Draw Pod | 21.00% | ~44 |
-| Pork Chop Express | 17.00% | ~44 |
+| Pork Chop Express | 18.00% | ~47 |
 | This Is My Boomstick | 16.00% | ~33 |
 | Skin Of Your Teeth | 15.00% | ~39 |
 | Carrocketeer | 14.00% | ~36 |

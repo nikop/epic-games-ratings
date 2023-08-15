@@ -19,6 +19,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Budding Merchant | 0.60% | ~807 |
 | Own the Means of Production | 0.60% | ~807 |
 | Pretty Penny | 0.50% | ~673 |
+| One-Armed Bandit | 0.50% | ~673 |
 | Through Repetition, Perfection | 0.50% | ~673 |
 | The Daily Grind | 0.40% | ~538 |
 | Bounty Hunters | 0.40% | ~538 |
@@ -26,7 +27,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Flooding the Market | 0.40% | ~538 |
 | Where it Hurts | 0.40% | ~538 |
 | Gild-Gotten Goods | 0.40% | ~538 |
-| One-Armed Bandit | 0.40% | ~538 |
 | Dungeon Imports | 0.40% | ~538 |
 | On the Path to Greatness | 0.30% | ~404 |
 | Ascended | 0.30% | ~404 |
@@ -48,6 +48,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Top of the World | 0.20% | ~269 |
 | Proud Paladin | 0.20% | ~269 |
 | Above the Norm | 0.20% | ~269 |
+| Constellated | 0.20% | ~269 |
 | A Ronin Reborn | 0.20% | ~269 |
 | Tax not Included | 0.20% | ~269 |
 | The King's Caprice | 0.20% | ~269 |
@@ -92,7 +93,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Special Ingredient | 0.20% | ~269 |
 | Exotic Commodities | 0.20% | ~269 |
 | Complete Monopoly | 0.20% | ~269 |
-| Constellated | 0.10% | ~135 |
 | Bane of Legends | 0.10% | ~135 |
 | The Free Encyclopedia | 0.10% | ~135 |
 | Ultimate Collector | 0.10% | ~135 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Economy of Scarce | 0.10% | ~135 |
 | King's Blade | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,535 (Ranked 66)  
+Progressed: 134,539 (Ranked 66)  
 Completed: 132 (0.10%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,7 +236,7 @@ Completed: 132 (0.10%) (Ranked 203)
 | 2023-08-12 | 134,413 | 132 |
 | 2023-08-13 | 134,471 | 132 |
 | 2023-08-14 | 134,532 | 132 |
-| 2023-08-15 | 134,535 | 132 |
+| 2023-08-15 | 134,539 | 132 |
 ## Awards
 Max (Great for Beginners): 4,700  (Ranked 71)  
 Sum: 27,098 (Ranked 47)  

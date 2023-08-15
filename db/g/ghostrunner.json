@@ -1062,7 +1062,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15039,
+  "EOS_Progressed": 15041,
   "EOS_Completed": 57,
   "EOS_NewPlayers": 387,
   "EOS_NewCompleters": 3,
@@ -13452,6 +13452,11 @@
       "Time": "2023-08-15T01:44:51.8987319+00:00",
       "NumProgressed": 15039,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-08-15T03:04:58.3634877+00:00",
+      "NumProgressed": 15041,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 45,
@@ -13487,7 +13492,7 @@
       "Name": "Back to hell",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 5564
+      "UsersEstimate": 5565
     },
     {
       "ID": "CantRunCantHide",
@@ -13527,7 +13532,7 @@
       "Name": "Finish line",
       "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 3910
+      "UsersEstimate": 3911
     },
     {
       "ID": "GRProjectComplete",
@@ -13559,7 +13564,7 @@
       "Name": "I call it luck",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 6617
+      "UsersEstimate": 6618
     },
     {
       "ID": "ImproviseAdaptOverrun",
@@ -13599,7 +13604,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 11430
+      "UsersEstimate": 11431
     },
     {
       "ID": "MoreThanHuman",
@@ -13655,7 +13660,7 @@
       "Name": "Perfection",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 4812
+      "UsersEstimate": 4813
     },
     {
       "ID": "PreempativeStrike",
@@ -13687,7 +13692,7 @@
       "Name": "Running out of breath",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 8121
+      "UsersEstimate": 8122
     },
     {
       "ID": "RunningWild",
@@ -13725,9 +13730,9 @@
       "ID": "Strike",
       "SetID": "6ce5bmd",
       "Name": "Strike",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 1955
+      "UsersEstimate": 1805
     },
     {
       "ID": "SwordRunner",
@@ -13735,7 +13740,7 @@
       "Name": "Sword Runner",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 9324
+      "UsersEstimate": 9325
     },
     {
       "ID": "SwordToAGunfight",
@@ -13743,7 +13748,7 @@
       "Name": "Sword to a gunfight",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 4361
+      "UsersEstimate": 4362
     },
     {
       "ID": "TripleA",
@@ -13775,7 +13780,7 @@
       "Name": "Upgrades not mandatory",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 4361
+      "UsersEstimate": 4362
     },
     {
       "ID": "Wallrunner",
@@ -13783,7 +13788,7 @@
       "Name": "Wallrunner",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 8121
+      "UsersEstimate": 8122
     },
     {
       "ID": "WaveOfMutilation",
@@ -13799,7 +13804,7 @@
       "Name": "Where are my Keys?",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 6166
+      "UsersEstimate": 6167
     },
     {
       "ID": "WhereHeStood",
@@ -13822,21 +13827,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 15039,
+      "Progressed": 15041,
       "Completed": 36
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 15039,
+      "Progressed": 15041,
       "Completed": 57
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-08-14T19:00:08.1176842+00:00",
-  "LastChanged_Achievements": "2023-08-15T02:18:41.5191348+00:00",
+  "LastChanged_Achievements": "2023-08-15T03:04:58.3634873+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:48.2444445+00:00",
-  "LastUpdate_Ratings": "2023-08-15T02:12:56.0987603+00:00",
-  "LastUpdate_Achievements": "2023-08-15T02:18:41.5192894+00:00"
+  "LastUpdate_Ratings": "2023-08-15T02:59:04.4570398+00:00",
+  "LastUpdate_Achievements": "2023-08-15T03:04:58.3636119+00:00"
 }

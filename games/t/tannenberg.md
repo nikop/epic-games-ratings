@@ -1,23 +1,23 @@
 # Tannenberg
 [Store](https://store.epicgames.com/en-US/p/tannenberg)  
 [View Rawdata](../../db/t/tannenberg.json)  
-Rating: 4.39 (Ranked 705)  
+Rating: 4.39 (Ranked 706)  
 Number of Ratings: 13,393  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Immovable Object | 89.00% | ~112,196 |
+| Immovable Object | 89.00% | ~112,197 |
 | Comeback | 82.00% | ~103,372 |
-| Information is Key | 80.00% | ~100,850 |
+| Information is Key | 80.00% | ~100,851 |
 | Unlucky | 71.00% | ~89,505 |
-| Anarchist | 68.00% | ~85,723 |
-| Wallhack | 65.00% | ~81,941 |
+| Anarchist | 68.00% | ~85,724 |
+| Wallhack | 65.00% | ~81,942 |
 | Steady Supply | 60.00% | ~75,638 |
-| Lucky Shot | 53.00% | ~66,813 |
+| Lucky Shot | 53.00% | ~66,814 |
 | Forward Observer | 52.00% | ~65,553 |
 | Ring Ring! | 52.00% | ~65,553 |
-| Bossing Around | 45.00% | ~56,728 |
-| Frostbite | 45.00% | ~56,728 |
+| Bossing Around | 45.00% | ~56,729 |
+| Frostbite | 45.00% | ~56,729 |
 | Night Owl | 44.00% | ~55,468 |
 | Strength in Numbers | 44.00% | ~55,468 |
 | Fog of War | 41.00% | ~51,686 |
@@ -33,12 +33,12 @@ Number of Ratings: 13,393  (23.09.2022)
 | Together As One | 31.00% | ~39,080 |
 | Gavrilo Princip | 27.00% | ~34,037 |
 | Lead Harvest | 25.00% | ~31,516 |
-| Skynet Confirmed | 23.00% | ~28,994 |
+| Skynet Confirmed | 23.00% | ~28,995 |
 | Kesselschlacht | 22.00% | ~27,734 |
 | Democracy Works! | 20.00% | ~25,213 |
 | Switch, Please! | 19.00% | ~23,952 |
-| I've Seen It All | 18.00% | ~22,691 |
-| Tourist | 18.00% | ~22,691 |
+| I've Seen It All | 18.00% | ~22,692 |
+| Tourist | 18.00% | ~22,692 |
 | At Least This Way I Can Win... | 17.00% | ~21,431 |
 | Oops! | 17.00% | ~21,431 |
 | Developers, Developers, Developers, Developers! | 16.00% | ~20,170 |
@@ -74,7 +74,7 @@ Number of Ratings: 13,393  (23.09.2022)
 | Seeing is Believing | 0.90% | ~1,135 |
 | Road to Berlin | 0.60% | ~756 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,063 (Ranked 68)  
+Progressed: 126,064 (Ranked 68)  
 Completed: 28 (0.02%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 28 (0.02%) (Ranked 235)
 | 2023-08-12 | 125,730 | 28 |
 | 2023-08-13 | 125,906 | 28 |
 | 2023-08-14 | 126,050 | 28 |
-| 2023-08-15 | 126,063 | 28 |
+| 2023-08-15 | 126,064 | 28 |
 ## Awards
 Max (Competitive Players): 329  (Ranked 230)  
 Sum: 2,876 (Ranked 168)  

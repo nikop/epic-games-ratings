@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17377,
+  "EOS_Progressed": 17379,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 266,
+  "EOS_NewPlayers": 263,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8271,6 +8271,11 @@
       "Time": "2023-08-15T01:44:47.873801+00:00",
       "NumProgressed": 17377,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-15T03:04:55.5483941+00:00",
+      "NumProgressed": 17379,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -8282,7 +8287,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5039
+      "UsersEstimate": 5040
     },
     {
       "ID": "0002",
@@ -8370,7 +8375,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2780
+      "UsersEstimate": 2781
     },
     {
       "ID": "0013",
@@ -8378,7 +8383,7 @@
       "Name": "Keycards Royale",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1911
+      "UsersEstimate": 1912
     },
     {
       "ID": "0014",
@@ -8434,7 +8439,7 @@
       "Name": "Dr. No Kill",
       "Percentage": 11,
       "XP": 115,
-      "UsersEstimate": 1911
+      "UsersEstimate": 1912
     },
     {
       "ID": "0021",
@@ -8490,7 +8495,7 @@
       "Name": "My Motto, My Creed",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1911
+      "UsersEstimate": 1912
     },
     {
       "ID": "0028",
@@ -8569,7 +8574,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17377,
+      "Progressed": 17379,
       "Completed": 1
     }
   ],
@@ -8577,8 +8582,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-12T19:04:41.1874293+00:00",
-  "LastChanged_Achievements": "2023-08-15T02:18:37.9165272+00:00",
+  "LastChanged_Achievements": "2023-08-15T03:04:55.5483935+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:38.5697724+00:00",
-  "LastUpdate_Ratings": "2023-08-15T02:14:30.5990405+00:00",
-  "LastUpdate_Achievements": "2023-08-15T02:18:37.9166219+00:00"
+  "LastUpdate_Ratings": "2023-08-15T03:00:22.1975853+00:00",
+  "LastUpdate_Achievements": "2023-08-15T03:04:55.5484718+00:00"
 }

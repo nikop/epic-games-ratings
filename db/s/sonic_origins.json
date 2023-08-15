@@ -1779,9 +1779,9 @@
       "ID": "ID_19_TAILS_FLYING",
       "SetID": "7o8nc5m",
       "Name": "Miles \u0022Tails\u0022 Prower",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 244
+      "UsersEstimate": 248
     },
     {
       "ID": "ID_20_CHALLENGE_BOSSRUSH",
@@ -1923,8 +1923,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-08-03T04:58:59.3110812+00:00",
-  "LastChanged_Achievements": "2023-08-15T02:18:17.59131+00:00",
+  "LastChanged_Achievements": "2023-08-15T03:04:39.676729+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:26.225879+00:00",
-  "LastUpdate_Ratings": "2023-08-15T02:12:32.7929013+00:00",
-  "LastUpdate_Achievements": "2023-08-15T02:18:17.5913705+00:00"
+  "LastUpdate_Ratings": "2023-08-15T02:58:42.7893516+00:00",
+  "LastUpdate_Achievements": "2023-08-15T03:04:39.6767626+00:00"
 }

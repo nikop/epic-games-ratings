@@ -4,7 +4,7 @@
   "ProductSlug": "9lives-arena-fb6229",
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewPlayers": 356,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-12T06:58:02.8362569+00:00",
-  "LastUpdate_Ratings": "2023-08-15T02:13:07.0044743+00:00",
-  "LastUpdate_Achievements": "2023-08-15T02:18:12.0757592+00:00"
+  "LastUpdate_Ratings": "2023-08-15T02:59:12.7928719+00:00",
+  "LastUpdate_Achievements": "2023-08-15T03:04:35.4940797+00:00"
 }

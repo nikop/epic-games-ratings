@@ -6,26 +6,26 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 75.00% | ~3,550 |
-| Un-Lonely Island | 47.00% | ~2,225 |
-| The Beginning of a Servantship | 46.00% | ~2,178 |
+| Just One...More...Term... | 75.00% | ~3,552 |
+| Un-Lonely Island | 47.00% | ~2,226 |
+| The Beginning of a Servantship | 46.00% | ~2,179 |
 | Trade Is My Trait | 37.00% | ~1,752 |
-| Number 18 | 24.00% | ~1,136 |
-| We Don't Have Time For That | 19.00% | ~899 |
+| Number 18 | 24.00% | ~1,137 |
+| We Don't Have Time For That | 19.00% | ~900 |
 | The Governator | 18.00% | ~852 |
 | The Legend of Langostino | 17.00% | ~805 |
-| Caribbean Comrade | 16.00% | ~757 |
-| The Dreamer of Dreams | 16.00% | ~757 |
+| Caribbean Comrade | 16.00% | ~758 |
+| The Dreamer of Dreams | 16.00% | ~758 |
 | Go Sovereigns! | 11.00% | ~521 |
 | For Science! | 11.00% | ~521 |
-| Happy Ending? | 10.00% | ~473 |
-| Of Seals And Men | 10.00% | ~473 |
-| Shackadelic | 10.00% | ~473 |
+| Happy Ending? | 10.00% | ~474 |
+| Of Seals And Men | 10.00% | ~474 |
+| Shackadelic | 10.00% | ~474 |
 | Double Trouble | 8.00% | ~379 |
 | Firestarter | 8.00% | ~379 |
 | Make Tropico Great Again! | 8.00% | ~379 |
-| I Owe You Nothing | 7.00% | ~331 |
-| French Connection | 7.00% | ~331 |
+| I Owe You Nothing | 7.00% | ~332 |
+| French Connection | 7.00% | ~332 |
 | Don't Panic! | 6.00% | ~284 |
 | Computer Says "No" | 6.00% | ~284 |
 | Beware The Betman | 6.00% | ~284 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~43 |
 | My Ways | 0.30% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,734 (Ranked 144)  
+Progressed: 4,736 (Ranked 144)  
 Completed: 2 (0.04%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,7 +164,7 @@ Completed: 2 (0.04%) (Ranked 224)
 | 2023-08-12 | 4,705 | 2 |
 | 2023-08-13 | 4,723 | 2 |
 | 2023-08-14 | 4,733 | 2 |
-| 2023-08-15 | 4,734 | 2 |
+| 2023-08-15 | 4,736 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 96  (Ranked 341)  
 Sum: 674 (Ranked 279)  

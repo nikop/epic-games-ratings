@@ -6,26 +6,26 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~28,443 |
-| Just The Two of Us | 32.00% | ~26,770 |
+| Simoon | 34.00% | ~28,444 |
+| Just The Two of Us | 32.00% | ~26,771 |
 | Up On High | 25.00% | ~20,914 |
 | Under The Hood | 25.00% | ~20,914 |
-| Got Your Nose | 24.00% | ~20,077 |
-| The Gift of Gab | 24.00% | ~20,077 |
-| Wrapping Up | 22.00% | ~18,404 |
+| Got Your Nose | 24.00% | ~20,078 |
+| The Gift of Gab | 24.00% | ~20,078 |
+| Wrapping Up | 22.00% | ~18,405 |
 | More Than A Box Of Sand | 18.00% | ~15,058 |
-| The Dunboyne | 17.00% | ~14,221 |
-| Badge Hobbyist | 17.00% | ~14,221 |
+| The Dunboyne | 17.00% | ~14,222 |
+| Badge Hobbyist | 17.00% | ~14,222 |
 | Chum Novice | 16.00% | ~13,385 |
 | Silver-Tongued Sable | 16.00% | ~13,385 |
 | Sticky Paws | 16.00% | ~13,385 |
 | Bubble Up | 16.00% | ~13,385 |
-| Thread The Needle | 15.00% | ~12,548 |
+| Thread The Needle | 15.00% | ~12,549 |
 | Power to the People | 14.00% | ~11,712 |
-| Take That! | 13.00% | ~10,875 |
-| Nesting Giant | 13.00% | ~10,875 |
-| Treasure Tracker | 13.00% | ~10,875 |
-| Big Spender | 13.00% | ~10,875 |
+| Take That! | 13.00% | ~10,876 |
+| Nesting Giant | 13.00% | ~10,876 |
+| Treasure Tracker | 13.00% | ~10,876 |
+| Big Spender | 13.00% | ~10,876 |
 | Badge Collector | 12.00% | ~10,039 |
 | Quite The Catch | 12.00% | ~10,039 |
 | Rowleys Way | 11.00% | ~9,202 |
@@ -39,12 +39,12 @@ Number of Ratings: 43  (23.09.2022)
 | Centre Of Brunswick | 9.00% | ~7,529 |
 | Bike Collector | 9.00% | ~7,529 |
 | Not That Kind Of Gliding | 9.00% | ~7,529 |
-| The Scrapper Mask | 8.00% | ~6,692 |
-| Shadow Of Neave | 8.00% | ~6,692 |
-| Fragile Goods | 8.00% | ~6,692 |
-| Glider on the Storm | 8.00% | ~6,692 |
-| Squeeze One Out | 8.00% | ~6,692 |
-| Dune Rider | 8.00% | ~6,692 |
+| The Scrapper Mask | 8.00% | ~6,693 |
+| Shadow Of Neave | 8.00% | ~6,693 |
+| Fragile Goods | 8.00% | ~6,693 |
+| Glider on the Storm | 8.00% | ~6,693 |
+| Squeeze One Out | 8.00% | ~6,693 |
+| Dune Rider | 8.00% | ~6,693 |
 | Amateur Historian | 7.00% | ~5,856 |
 | The Beetle Mask | 7.00% | ~5,856 |
 | The Guard Mask | 7.00% | ~5,856 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~2,510 |
 | Vivacious Vivarium | 2.00% | ~1,673 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 83,655 (Ranked 73)  
+Progressed: 83,658 (Ranked 73)  
 Completed: 818 (0.98%) (Ranked 115)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 818 (0.98%) (Ranked 115)
 | 2023-08-12 | 83,195 | 812 |
 | 2023-08-13 | 83,431 | 814 |
 | 2023-08-14 | 83,631 | 816 |
-| 2023-08-15 | 83,655 | 818 |
+| 2023-08-15 | 83,658 | 818 |
 ## Awards
 Max (Quickly Understood Controls): 22  (Ranked 494)  
 Sum: 22 (Ranked 496)  

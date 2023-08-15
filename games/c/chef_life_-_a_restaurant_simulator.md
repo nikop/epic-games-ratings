@@ -11,7 +11,7 @@
 | French Flair | 17.00% | ~93 |
 | S is for Scrumptious | 17.00% | ~93 |
 | Next Level Cuisine | 11.00% | ~60 |
-| Haute Cuisine | 8.00% | ~44 |
+| Haute Cuisine | 9.00% | ~49 |
 | Italian Style | 7.00% | ~38 |
 | Sous-Chef | 6.00% | ~33 |
 | Rolling in Dough | 5.00% | ~27 |

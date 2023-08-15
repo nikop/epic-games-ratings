@@ -10,15 +10,15 @@ Rating: 4.77 (Ranked 107)
 | Troll with the Punches | 11.00% | ~31,913 |
 | A Keen Sense of Spell | 10.00% | ~29,012 |
 | That's a Keeper | 10.00% | ~29,012 |
-| Grappling with a Graphorn | 9.00% | ~26,110 |
-| The One Who Mastered Memories | 9.00% | ~26,110 |
-| The Hallowed Hero | 9.00% | ~26,110 |
-| The Hero of Hogwarts | 9.00% | ~26,110 |
-| The Defender of Dragons | 9.00% | ~26,110 |
-| Challenge Accepted | 9.00% | ~26,110 |
-| Loom for Improvement | 9.00% | ~26,110 |
-| A Talent for Spending | 9.00% | ~26,110 |
-| Coasting Along | 9.00% | ~26,110 |
+| Grappling with a Graphorn | 9.00% | ~26,111 |
+| The One Who Mastered Memories | 9.00% | ~26,111 |
+| The Hallowed Hero | 9.00% | ~26,111 |
+| The Hero of Hogwarts | 9.00% | ~26,111 |
+| The Defender of Dragons | 9.00% | ~26,111 |
+| Challenge Accepted | 9.00% | ~26,111 |
+| Loom for Improvement | 9.00% | ~26,111 |
+| A Talent for Spending | 9.00% | ~26,111 |
+| Coasting Along | 9.00% | ~26,111 |
 | Followed the Butterflies | 8.00% | ~23,209 |
 | Rising From the Ashes | 8.00% | ~23,209 |
 | The Avenging Gazelle | 7.00% | ~20,308 |
@@ -35,9 +35,9 @@ Rating: 4.77 (Ranked 107)
 | The Intrepid Explorer | 4.00% | ~11,605 |
 | The Gryffindor in the Graveyard | 4.00% | ~11,605 |
 | The Ends Petrify the Means | 4.00% | ~11,605 |
-| Going Through the Potions | 3.00% | ~8,703 |
-| Floo Around the World | 3.00% | ~8,703 |
-| The Wise Owl | 3.00% | ~8,703 |
+| Going Through the Potions | 3.00% | ~8,704 |
+| Floo Around the World | 3.00% | ~8,704 |
+| The Wise Owl | 3.00% | ~8,704 |
 | The Good Samaritan | 2.00% | ~5,802 |
 | Put Down Roots | 2.00% | ~5,802 |
 | The Auror's Apprentice | 2.00% | ~5,802 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 107)
 | The Nature of the Beast | 0.60% | ~1,741 |
 | Collector's Edition | 0.30% | ~870 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290,116 (Ranked 42)  
+Progressed: 290,118 (Ranked 42)  
 Completed: 451 (0.16%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,10 +168,10 @@ Completed: 451 (0.16%) (Ranked 188)
 | 2023-08-12 | 289,948 | 449 |
 | 2023-08-13 | 290,043 | 451 |
 | 2023-08-14 | 290,112 | 451 |
-| 2023-08-15 | 290,116 | 451 |
+| 2023-08-15 | 290,118 | 451 |
 ## Awards
 Max (Character Customization): 21,755  (Ranked 17)  
-Sum: 41,013 (Ranked 30)  
+Sum: 41,018 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -180,8 +180,8 @@ Diff (max vs sum): -13
 | This game is Great for Beginners | 968 |
 | This game is Extremely Fun | 953 |
 | This game is Relaxing | 950 |
+| This game has Diverse Characters | 932 |
 | This game has Amazing Storytelling | 932 |
-| This game has Diverse Characters | 927 |
 | This game has Amazing Characters | 916 |
 | This game is Highly Recommended | 883 |
 | This game has Quickly Understood Controls | 843 |
@@ -334,4 +334,4 @@ Diff (max vs sum): -13
 | 2023-08-12 | 4.77 | 21,714 | 40,892 |
 | 2023-08-13 | 4.77 | 21,738 | 40,951 |
 | 2023-08-14 | 4.77 | 21,755 | 41,010 |
-| 2023-08-15 | 4.77 | 21,755 | 41,013 |
+| 2023-08-15 | 4.77 | 21,755 | 41,018 |

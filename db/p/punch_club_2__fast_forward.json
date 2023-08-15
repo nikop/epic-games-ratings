@@ -1162,9 +1162,9 @@
       "ID": "league_1",
       "SetID": "69co12a",
       "Name": "Champion \u2013 starter pack",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 149
+      "UsersEstimate": 151
     },
     {
       "ID": "league_2",
@@ -1242,9 +1242,9 @@
       "ID": "nero_extrime",
       "SetID": "69co12a",
       "Name": "Extreme neuropower!",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 136
     },
     {
       "ID": "not_ok",
@@ -1441,8 +1441,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-08-15T02:18:20.3035897+00:00",
+  "LastChanged_Achievements": "2023-08-15T03:04:41.9599371+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:18.7618858+00:00",
-  "LastUpdate_Ratings": "2023-08-15T02:12:12.6572618+00:00",
-  "LastUpdate_Achievements": "2023-08-15T02:18:20.3037008+00:00"
+  "LastUpdate_Ratings": "2023-08-15T02:58:25.0537409+00:00",
+  "LastUpdate_Achievements": "2023-08-15T03:04:41.9600115+00:00"
 }

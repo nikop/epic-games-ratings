@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 161,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -2666,9 +2666,9 @@
       "Count": 313
     }
   ],
-  "EOS_Progressed": 16287,
+  "EOS_Progressed": 16288,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -9051,6 +9051,11 @@
       "Time": "2023-08-14T21:05:21.9280311+00:00",
       "NumProgressed": 16287,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-08-15T03:05:26.0422185+00:00",
+      "NumProgressed": 16288,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 50,
@@ -9158,7 +9163,7 @@
       "Name": "Overcoming Difficulty",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "WinImpossible",
@@ -9222,7 +9227,7 @@
       "Name": "Fertile Meadows",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "WinNearFishmen",
@@ -9326,7 +9331,7 @@
       "Name": "Coral Forest",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "WinOnCursed",
@@ -9350,7 +9355,7 @@
       "Name": "The Scarlet Orchard",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "WinPrestige10",
@@ -9461,15 +9466,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 16287,
+      "Progressed": 16288,
       "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-08-13T16:57:45.4495547+00:00",
-  "LastChanged_Achievements": "2023-08-15T02:19:16.5074945+00:00",
+  "LastChanged_Achievements": "2023-08-15T03:05:26.042218+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:15.5100545+00:00",
-  "LastUpdate_Ratings": "2023-08-15T02:10:47.5346796+00:00",
-  "LastUpdate_Achievements": "2023-08-15T02:19:16.507638+00:00"
+  "LastUpdate_Ratings": "2023-08-15T02:57:23.9032259+00:00",
+  "LastUpdate_Achievements": "2023-08-15T03:05:26.0423012+00:00"
 }
