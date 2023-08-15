@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
@@ -1048,9 +1048,9 @@
       "ID": "22_ouroboros",
       "SetID": "chb1m60",
       "Name": "Ouroboros",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 109
     },
     {
       "ID": "23_closecall",
@@ -1200,8 +1200,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-08-05T18:00:22.7295334+00:00",
-  "LastChanged_Achievements": "2023-08-15T18:07:18.3841429+00:00",
+  "LastChanged_Achievements": "2023-08-15T19:05:30.6062357+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:20.9918701+00:00",
-  "LastUpdate_Ratings": "2023-08-15T18:00:19.087709+00:00",
-  "LastUpdate_Achievements": "2023-08-15T18:07:18.3841792+00:00"
+  "LastUpdate_Ratings": "2023-08-15T18:59:03.7289417+00:00",
+  "LastUpdate_Achievements": "2023-08-15T19:05:30.6062756+00:00"
 }

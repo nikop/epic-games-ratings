@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 220,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -244,9 +244,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 462,
+  "EOS_Progressed": 463,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1329,6 +1329,11 @@
       "Time": "2023-08-14T14:07:42.6696992+00:00",
       "NumProgressed": 462,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-15T19:06:28.0087847+00:00",
+      "NumProgressed": 463,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1450,9 +1455,9 @@
       "ID": "ACH_COLL_20",
       "SetID": "1j25agn",
       "Name": "Prospector",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 199
     },
     {
       "ID": "ACH_COLL_ALL",
@@ -1460,7 +1465,7 @@
       "Name": "Treasure Hunter",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "ACH_COLL_CH01",
@@ -1468,7 +1473,7 @@
       "Name": "Collectibles of Chapter I",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ACH_COLL_CH02",
@@ -1540,7 +1545,7 @@
       "Name": "Collectibles of Chapter X",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_COLL_CH11",
@@ -1562,9 +1567,9 @@
       "ID": "ACH_FIN_CH01",
       "SetID": "1j25agn",
       "Name": "Cowardice",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 259
+      "UsersEstimate": 264
     },
     {
       "ID": "ACH_FIN_CH02",
@@ -1604,7 +1609,7 @@
       "Name": "Opportunities",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "ACH_FIN_CH07",
@@ -1690,17 +1695,17 @@
       "ID": "ACH_JOACHIM_FATE1",
       "SetID": "1j25agn",
       "Name": "The Good Samaritan",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_JOACHIM_FATE2",
       "SetID": "1j25agn",
       "Name": "Without a Second Thought",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 65
     },
     {
       "ID": "ACH_KILL_BRAWL",
@@ -1724,7 +1729,7 @@
       "Name": "NO LIFE IS WORTH SAVING...",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "ACH_KILL_ENV",
@@ -1748,7 +1753,7 @@
       "Name": "Eat Lead!",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ACH_KILL_SAUSAGE",
@@ -1764,7 +1769,7 @@
       "Name": "Sniper Wolf",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "ACH_KILL_THROW",
@@ -1811,15 +1816,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 462,
+      "Progressed": 463,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-08-15T16:59:37.558326+00:00",
-  "LastChanged_Achievements": "2023-08-15T18:08:43.1519729+00:00",
+  "LastChanged_Achievements": "2023-08-15T19:06:28.0087843+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:20.2353835+00:00",
-  "LastUpdate_Ratings": "2023-08-15T18:00:00.3829111+00:00",
-  "LastUpdate_Achievements": "2023-08-15T18:08:43.1520362+00:00"
+  "LastUpdate_Ratings": "2023-08-15T18:58:52.7106531+00:00",
+  "LastUpdate_Achievements": "2023-08-15T19:06:28.008851+00:00"
 }

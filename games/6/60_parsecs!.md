@@ -8,9 +8,9 @@
 | Space Colonization | 80.00% | ~571 |
 | Friendzone | 79.00% | ~564 |
 | Hello World | 74.00% | ~528 |
-| Space Engineer | 63.00% | ~450 |
+| Space Engineer | 64.00% | ~457 |
 | Tinkerer | 63.00% | ~450 |
-| Dust to Dust | 57.00% | ~407 |
+| Dust to Dust | 58.00% | ~414 |
 | Across The Stars | 48.00% | ~343 |
 | Crafty | 47.00% | ~336 |
 | All Seats Taken | 38.00% | ~271 |

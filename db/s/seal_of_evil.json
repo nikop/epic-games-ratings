@@ -4,7 +4,7 @@
   "ProductSlug": "seal-of-evil-17240d",
   "Ranking_EOS_Progress": 545,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 362,
+  "Ranking_EOS_NewPlayers": 361,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-12-09T04:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-03-31T05:58:31.5814913+00:00",
   "LastChanged": "2023-03-31T05:58:31.5814914+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:31.6192169+00:00",
-  "LastUpdate_Ratings": "2023-08-15T18:00:36.7505885+00:00",
-  "LastUpdate_Achievements": "2023-08-15T18:06:46.1014795+00:00"
+  "LastUpdate_Ratings": "2023-08-15T18:59:11.9942168+00:00",
+  "LastUpdate_Achievements": "2023-08-15T19:05:08.7456534+00:00"
 }

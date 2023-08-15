@@ -6,7 +6,7 @@ Number of Ratings: 285  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Death Becomes You | 3.00% | ~23 |
+| Death Becomes You | 4.00% | ~31 |
 | That'll Leave a Mark | 3.00% | ~23 |
 | Debuff Dogpile | 2.00% | ~16 |
 | Faceroll the Bones | 2.00% | ~16 |

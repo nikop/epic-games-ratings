@@ -334,7 +334,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 39674,
+  "EOS_Progressed": 39675,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
@@ -7329,6 +7329,11 @@
       "Time": "2023-08-15T14:03:51.7533644+00:00",
       "NumProgressed": 39674,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-15T19:04:20.1491202+00:00",
+      "NumProgressed": 39675,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -7388,7 +7393,7 @@
       "Name": "Attachments",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 3967
+      "UsersEstimate": 3968
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -7412,7 +7417,7 @@
       "Name": "What Must Be Done",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 793
+      "UsersEstimate": 794
     },
     {
       "ID": "CHAPTER_05_CLEAR",
@@ -7420,7 +7425,7 @@
       "Name": "Might and Main",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 793
+      "UsersEstimate": 794
     },
     {
       "ID": "CHAPTER_06_CLEAR",
@@ -7428,7 +7433,7 @@
       "Name": "Damned If You Do...",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 793
+      "UsersEstimate": 794
     },
     {
       "ID": "CHAPTER_07_CLEAR",
@@ -7540,7 +7545,7 @@
       "Name": "Explorer: Pathfinder",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 793
+      "UsersEstimate": 794
     },
     {
       "ID": "LOCATION_HUNDRED",
@@ -7588,7 +7593,7 @@
       "Name": "Shocker",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 793
+      "UsersEstimate": 794
     },
     {
       "ID": "MAGIC_FLOWER",
@@ -7612,7 +7617,7 @@
       "Name": "From Every Angle",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 793
+      "UsersEstimate": 794
     },
     {
       "ID": "MONUMENT_ALL",
@@ -7763,22 +7768,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 39674,
+      "Progressed": 39675,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 4511,
-      "Completed": 4511
+      "Progressed": 4512,
+      "Completed": 4512
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-08-08T01:54:06.2401018+00:00",
-  "LastChanged_Achievements": "2023-08-15T18:05:35.2726043+00:00",
+  "LastChanged_Achievements": "2023-08-15T19:04:20.1491197+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:15.0269644+00:00",
-  "LastUpdate_Ratings": "2023-08-15T18:01:37.2695174+00:00",
-  "LastUpdate_Achievements": "2023-08-15T18:05:35.2727193+00:00"
+  "LastUpdate_Ratings": "2023-08-15T18:59:47.0926377+00:00",
+  "LastUpdate_Achievements": "2023-08-15T19:04:20.1492141+00:00"
 }

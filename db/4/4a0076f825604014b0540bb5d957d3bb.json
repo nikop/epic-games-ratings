@@ -327,9 +327,9 @@
       "ID": "CgkInO_K3eIdEAIQBw",
       "SetID": "6bj96in",
       "Name": "SCRIPTORIUM SNEAK",
-      "Percentage": 55,
+      "Percentage": 57,
       "XP": 40,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "CgkInO_K3eIdEAIQCA",
@@ -471,9 +471,9 @@
       "ID": "CgkInO_K3eIdEAIQGQ",
       "SetID": "6bj96in",
       "Name": "BLINDED BY THE LIGHT",
-      "Percentage": 40,
+      "Percentage": 42,
       "XP": 40,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "CgkInO_K3eIdEAIQGg",
@@ -494,8 +494,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-08-15T18:07:13.4578991+00:00",
+  "LastChanged_Achievements": "2023-08-15T19:05:27.3783772+00:00",
   "LastUpdate_AppInfo": "2023-08-09T15:57:03.9650638+00:00",
-  "LastUpdate_Ratings": "2023-08-15T17:58:53.9413788+00:00",
-  "LastUpdate_Achievements": "2023-08-15T18:07:13.4579306+00:00"
+  "LastUpdate_Ratings": "2023-08-15T18:58:10.4377298+00:00",
+  "LastUpdate_Achievements": "2023-08-15T19:05:27.3783972+00:00"
 }

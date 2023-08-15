@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Small town | 65.00% | ~203 |
-| I like parks | 53.00% | ~166 |
+| I like parks | 54.00% | ~169 |
 | It is nice to share with friends in the city | 27.00% | ~85 |
 | Sport is good for you | 26.00% | ~81 |
 | The spiritual world... | 24.00% | ~75 |

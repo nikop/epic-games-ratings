@@ -41,8 +41,8 @@
 | No blades in the gym | 45.00% | ~113 |
 | Fight is life | 44.00% | ~111 |
 | Mysterious voice | 44.00% | ~111 |
+| Your own way | 42.00% | ~106 |
 | Champion – no way back | 41.00% | ~103 |
-| Your own way | 41.00% | ~103 |
 | Poisoned fighter | 39.00% | ~98 |
 | Underground dwellers | 39.00% | ~98 |
 | Responsible approach | 39.00% | ~98 |

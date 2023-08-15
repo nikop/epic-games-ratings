@@ -33,6 +33,7 @@ Number of Ratings: 111  (23.09.2022)
 | Globetrotter | 5.00% | ~136 |
 | Laid back | 5.00% | ~136 |
 | NAHELL! | 5.00% | ~136 |
+| Trick shot marksman | 5.00% | ~136 |
 | Cops called! | 4.00% | ~109 |
 | G.O.A.T. status | 4.00% | ~109 |
 | Lines for days | 4.00% | ~109 |
@@ -40,7 +41,6 @@ Number of Ratings: 111  (23.09.2022)
 | Prince of Philly | 4.00% | ~109 |
 | Renaissance man | 4.00% | ~109 |
 | Tank commander | 4.00% | ~109 |
-| Trick shot marksman | 4.00% | ~109 |
 | We get it, you're good | 4.00% | ~109 |
 | Hoarder | 3.00% | ~82 |
 | Pew-Pew | 3.00% | ~82 |

@@ -60,12 +60,12 @@ Rating: 4.45 (Ranked 633)
 | Fight Another Day | 0.50% | ~17 |
 | Up close and personal | 0.40% | ~14 |
 | Can't Outrun A Bullet | 0.40% | ~14 |
+| Best of the Best | 0.30% | ~10 |
 | Master of Secondaries | 0.30% | ~10 |
 | Out of Scope | 0.30% | ~10 |
 | Sight Beyond Sights | 0.30% | ~10 |
 | Führerious Repetition | 0.30% | ~10 |
 | Covert Elimination | 0.30% | ~10 |
-| Best of the Best | 0.20% | ~7 |
 | Master of Pistols | 0.20% | ~7 |
 | Master of Rifles | 0.20% | ~7 |
 | Master-at-arms | 0.20% | ~7 |

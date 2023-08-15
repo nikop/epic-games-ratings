@@ -18,9 +18,9 @@
 | Conciliator | 5.00% | ~7 |
 | Courier | 5.00% | ~7 |
 | Acquaintance | 5.00% | ~7 |
+| Tail-wind | 5.00% | ~7 |
 | The More the Merrier | 4.00% | ~5 |
 | Been There | 4.00% | ~5 |
-| Tail-wind | 4.00% | ~5 |
 | Quartermaster | 3.00% | ~4 |
 | Supercargo | 3.00% | ~4 |
 | Strategist | 3.00% | ~4 |
@@ -50,6 +50,7 @@
 | Embellished | 0.80% | ~1 |
 | Conqueror | 0.80% | ~1 |
 | Legacy of a Mercenary | 0.80% | ~1 |
+| Moving At Odd Angles | 0.80% | ~1 |
 | A Real Battle | 0.80% | ~1 |
 | Celebrity | 0.80% | ~1 |
 | Ruiner | 0.80% | ~1 |
@@ -87,7 +88,6 @@
 | Loader | 0.00% | ~0 |
 | Mercenary | 0.00% | ~0 |
 | Mercenary Lord | 0.00% | ~0 |
-| Moving At Odd Angles | 0.00% | ~0 |
 | Handymen | 0.00% | ~0 |
 | Settler | 0.00% | ~0 |
 | Escort | 0.00% | ~0 |

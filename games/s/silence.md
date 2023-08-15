@@ -25,8 +25,8 @@
 | Handyman | 21.00% | ~22 |
 | Fastidious Clown | 21.00% | ~22 |
 | It's not easy being green! | 21.00% | ~22 |
+| Home is where the heart is | 21.00% | ~22 |
 | Pacifist | 20.00% | ~21 |
-| Home is where the heart is | 20.00% | ~21 |
 | Master of Thermodynamics | 16.00% | ~17 |
 | Death is a part of life | 16.00% | ~17 |
 | Unfullfilled dreams | 14.00% | ~15 |

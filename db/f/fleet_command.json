@@ -4,7 +4,7 @@
   "ProductSlug": "naval-combat-package-34e444",
   "Ranking_EOS_Progress": 545,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 362,
+  "Ranking_EOS_NewPlayers": 361,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-12-05T17:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:05.1116583+00:00",
   "LastChanged": "2023-03-31T05:58:05.1116583+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:54.0219345+00:00",
-  "LastUpdate_Ratings": "2023-08-15T18:01:09.1555234+00:00",
-  "LastUpdate_Achievements": "2023-08-15T18:07:47.9494217+00:00"
+  "LastUpdate_Ratings": "2023-08-15T18:59:30.3560331+00:00",
+  "LastUpdate_Achievements": "2023-08-15T19:05:51.004421+00:00"
 }

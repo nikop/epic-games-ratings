@@ -33,8 +33,8 @@ Rating: 4.60 (Ranked 391)
 | Street Style | 14.00% | ~117 |
 | Cartographer | 14.00% | ~117 |
 | Whiz Kid | 12.00% | ~100 |
+| Chaincrawler Explorer | 11.00% | ~92 |
 | Good Neighbor | 11.00% | ~92 |
-| Chaincrawler Explorer | 10.00% | ~83 |
 | Family Memories | 10.00% | ~83 |
 | Fairgrounds Explorer | 9.00% | ~75 |
 | Sump Explorer | 9.00% | ~75 |

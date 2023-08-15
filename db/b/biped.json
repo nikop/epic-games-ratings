@@ -4,7 +4,7 @@
   "ProductSlug": "biped",
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5277,
+  "EOS_Progressed": 5280,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8421,6 +8421,11 @@
       "Time": "2023-08-15T17:04:21.6253763+00:00",
       "NumProgressed": 5277,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-15T19:03:50.8120865+00:00",
+      "NumProgressed": 5280,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -8432,7 +8437,7 @@
       "Name": "First Step",
       "Percentage": 38,
       "XP": 45,
-      "UsersEstimate": 2005
+      "UsersEstimate": 2006
     },
     {
       "ID": "10",
@@ -8488,7 +8493,7 @@
       "Name": "Dense Forest",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 1636
+      "UsersEstimate": 1637
     },
     {
       "ID": "3",
@@ -8544,14 +8549,14 @@
       "Name": "Speed\u00A0walkers",
       "Percentage": 7,
       "XP": 65,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     }
   ],
   "AchievementSets": [
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 5277,
+      "Progressed": 5280,
       "Completed": 0
     }
   ],
@@ -8559,8 +8564,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-08-15T18:05:07.7420154+00:00",
+  "LastChanged_Achievements": "2023-08-15T19:03:50.8120859+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:39.5407614+00:00",
-  "LastUpdate_Ratings": "2023-08-15T18:00:48.4738083+00:00",
-  "LastUpdate_Achievements": "2023-08-15T18:05:07.742074+00:00"
+  "LastUpdate_Ratings": "2023-08-15T18:59:18.3574061+00:00",
+  "LastUpdate_Achievements": "2023-08-15T19:03:50.8121615+00:00"
 }

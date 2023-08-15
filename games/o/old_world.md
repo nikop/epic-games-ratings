@@ -95,8 +95,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Phalangite | 0.60% | ~81 |
 | Double Victory | 0.60% | ~81 |
 | Win a Single Player Game | 0.60% | ~81 |
+| Capable | 0.50% | ~67 |
 | Devout | 0.50% | ~67 |
 | Invincible | 0.50% | ~67 |
+| Ready | 0.50% | ~67 |
 | Subjugator | 0.50% | ~67 |
 | Hunters | 0.50% | ~67 |
 | Landowners | 0.50% | ~67 |
@@ -117,9 +119,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ambition Victory | 0.50% | ~67 |
 | Bad Heir Day | 0.40% | ~54 |
 | Ishtar Gate in Babylon | 0.40% | ~54 |
-| Capable | 0.40% | ~54 |
 | Old | 0.40% | ~54 |
-| Ready | 0.40% | ~54 |
 | Strong Difficulty | 0.40% | ~54 |
 | Clerics | 0.40% | ~54 |
 | Babylonia | 0.40% | ~54 |
@@ -131,6 +131,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Revelation | 0.40% | ~54 |
 | Veneration | 0.40% | ~54 |
 | Kushite Cavalry | 0.40% | ~54 |
+| Turreted Elephant | 0.40% | ~54 |
 | No Undo | 0.40% | ~54 |
 | Carthage - Ox Hide | 0.30% | ~40 |
 | Peacemaker | 0.30% | ~40 |
@@ -142,7 +143,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Old World Order | 0.30% | ~40 |
 | Hittite Paganism | 0.30% | ~40 |
 | Cataphract Archer | 0.30% | ~40 |
-| Turreted Elephant | 0.30% | ~40 |
 | All Nations | 0.30% | ~40 |
 | Conquest Victory | 0.30% | ~40 |
 | Pilgrimage | 0.30% | ~40 |
