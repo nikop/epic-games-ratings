@@ -87,6 +87,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Traders | 0.60% | ~80 |
 | Temple of Solomon | 0.60% | ~80 |
 | Pantheon | 0.60% | ~80 |
+| Via Recta Souk | 0.60% | ~80 |
 | Power to the People | 0.60% | ~80 |
 | Persian Paganism | 0.60% | ~80 |
 | Legalism | 0.60% | ~80 |
@@ -105,7 +106,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hagia Sophia | 0.50% | ~67 |
 | Church of the Holy Sepulchre | 0.50% | ~67 |
 | Adur Burzen-Mihr | 0.50% | ~67 |
-| Via Recta Souk | 0.50% | ~67 |
 | Learn to Play 3 | 0.50% | ~67 |
 | Carthage | 0.50% | ~67 |
 | Assyrian Paganism | 0.50% | ~67 |

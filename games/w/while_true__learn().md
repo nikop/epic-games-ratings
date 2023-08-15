@@ -6,36 +6,36 @@ Number of Ratings: 896  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First.. Bit? | 93.00% | ~558,348 |
-| Error: Stack Overflow | 66.00% | ~396,247 |
-| We need more gold | 60.00% | ~360,224 |
-| The dawn of civilization | 53.00% | ~318,198 |
-| More FPS for the FPS god! | 49.00% | ~294,183 |
+| First.. Bit? | 93.00% | ~558,349 |
+| Error: Stack Overflow | 66.00% | ~396,248 |
+| We need more gold | 60.00% | ~360,225 |
+| The dawn of civilization | 53.00% | ~318,199 |
+| More FPS for the FPS god! | 49.00% | ~294,184 |
 | Beauty and harmony | 48.00% | ~288,180 |
 | One more! | 44.00% | ~264,165 |
 | Overmind | 24.00% | ~144,090 |
-| RNG is my best friend now | 18.00% | ~108,067 |
+| RNG is my best friend now | 18.00% | ~108,068 |
 | Cosplay | 13.00% | ~78,049 |
 | Evolution in progress... | 13.00% | ~78,049 |
 | Step by step | 8.00% | ~48,030 |
 | README reader | 3.00% | ~18,011 |
 | Data scientist | 3.00% | ~18,011 |
 | One small step for a man... | 3.00% | ~18,011 |
-| To see it all, to learn it all | 2.00% | ~12,007 |
-| Evolution complete | 2.00% | ~12,007 |
-| Best deal on the market | 2.00% | ~12,007 |
-| Is this Skynet? | 2.00% | ~12,007 |
-| Cybergeek 2047 | 2.00% | ~12,007 |
+| To see it all, to learn it all | 2.00% | ~12,008 |
+| Evolution complete | 2.00% | ~12,008 |
+| Best deal on the market | 2.00% | ~12,008 |
+| Is this Skynet? | 2.00% | ~12,008 |
+| Cybergeek 2047 | 2.00% | ~12,008 |
 | Ping | 1.00% | ~6,004 |
 | Magna cum laude | 1.00% | ~6,004 |
 | The hoarder | 0.90% | ~5,403 |
 | Deal with it! | 0.50% | ~3,002 |
-| Gold rush | 0.40% | ~2,401 |
-| Cat-o-holic | 0.40% | ~2,401 |
+| Gold rush | 0.40% | ~2,402 |
+| Cat-o-holic | 0.40% | ~2,402 |
 | Elements will destroy you! | 0.30% | ~1,801 |
 | The Scrooge | 0.10% | ~600 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 600,374 (Ranked 28)  
+Progressed: 600,375 (Ranked 28)  
 Completed: 516 (0.09%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,7 +152,7 @@ Completed: 516 (0.09%) (Ranked 207)
 | 2023-08-12 | 600,128 | 513 |
 | 2023-08-13 | 600,247 | 515 |
 | 2023-08-14 | 600,359 | 516 |
-| 2023-08-15 | 600,374 | 516 |
+| 2023-08-15 | 600,375 | 516 |
 ## Awards
 Max (Challenging Puzzles): 134  (Ranked 307)  
 Sum: 134 (Ranked 402)  

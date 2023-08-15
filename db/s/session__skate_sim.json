@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 308,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -880,9 +880,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2725,
+  "EOS_Progressed": 2726,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4000,6 +4000,11 @@
       "Time": "2023-08-15T00:03:45.9406497+00:00",
       "NumProgressed": 2725,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-15T05:03:52.5685514+00:00",
+      "NumProgressed": 2726,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4051,7 +4056,7 @@
       "Name": "Cross lock country",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ACH_DIPPED",
@@ -4203,7 +4208,7 @@
       "Name": "Many plys later...",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ACH_NAHELL",
@@ -4227,7 +4232,7 @@
       "Name": "Plastic Surgeon",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "ACH_PRINCE-OF-PHILLY",
@@ -4315,7 +4320,7 @@
       "Name": "The finer things in life",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "ACH_THE-FLIP-TRICK-CROWN-JEWEL",
@@ -4387,22 +4392,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 1580
+      "UsersEstimate": 1581
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2725,
+      "Progressed": 2726,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-08-12T21:02:33.3554881+00:00",
-  "LastChanged_Achievements": "2023-08-15T04:04:16.7420653+00:00",
+  "LastChanged_Achievements": "2023-08-15T05:03:52.5685507+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:55.5592566+00:00",
-  "LastUpdate_Ratings": "2023-08-15T04:00:45.6764763+00:00",
-  "LastUpdate_Achievements": "2023-08-15T04:04:16.742166+00:00"
+  "LastUpdate_Ratings": "2023-08-15T05:00:38.2539155+00:00",
+  "LastUpdate_Achievements": "2023-08-15T05:03:52.5686566+00:00"
 }

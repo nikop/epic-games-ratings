@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 86,
+  "Ranking_EOS_NewPlayers": 87,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 60870,
+  "EOS_Progressed": 60871,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 373,
+  "EOS_NewPlayers": 371,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -11282,6 +11282,11 @@
       "Time": "2023-08-15T02:19:21.0101404+00:00",
       "NumProgressed": 60870,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-15T05:05:51.100538+00:00",
+      "NumProgressed": 60871,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -11309,7 +11314,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 13391
+      "UsersEstimate": 13392
     },
     {
       "ID": "04",
@@ -11341,7 +11346,7 @@
       "Name": "Heavy Metal",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7304
+      "UsersEstimate": 7305
     },
     {
       "ID": "08",
@@ -11349,7 +11354,7 @@
       "Name": "Iron Horse",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7304
+      "UsersEstimate": 7305
     },
     {
       "ID": "09",
@@ -11501,7 +11506,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7304
+      "UsersEstimate": 7305
     },
     {
       "ID": "28",
@@ -11509,7 +11514,7 @@
       "Name": "Come One, Come All",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7304
+      "UsersEstimate": 7305
     },
     {
       "ID": "29",
@@ -11533,7 +11538,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9130
+      "UsersEstimate": 9131
     },
     {
       "ID": "32",
@@ -11541,7 +11546,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 17652
+      "UsersEstimate": 17653
     },
     {
       "ID": "33",
@@ -11613,7 +11618,7 @@
       "Name": "Finders Keepers",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9130
+      "UsersEstimate": 9131
     },
     {
       "ID": "42",
@@ -11828,21 +11833,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 60870,
+      "Progressed": 60871,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 24338,
+      "Progressed": 24339,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-15T04:06:12.1163643+00:00",
+  "LastChanged_Achievements": "2023-08-15T05:05:51.1005373+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:20.2881971+00:00",
-  "LastUpdate_Ratings": "2023-08-15T03:59:09.357711+00:00",
-  "LastUpdate_Achievements": "2023-08-15T04:06:12.1165926+00:00"
+  "LastUpdate_Ratings": "2023-08-15T04:59:01.696618+00:00",
+  "LastUpdate_Achievements": "2023-08-15T05:05:51.1007819+00:00"
 }

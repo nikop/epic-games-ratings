@@ -4,7 +4,7 @@
   "ProductSlug": "echoes-of-plum-grove-bf886b",
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 356,
+  "Ranking_EOS_NewPlayers": 355,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-12T07:57:43.9237099+00:00",
-  "LastUpdate_Ratings": "2023-08-15T04:01:25.1069112+00:00",
-  "LastUpdate_Achievements": "2023-08-15T04:04:59.9591984+00:00"
+  "LastUpdate_Ratings": "2023-08-15T05:01:20.0490162+00:00",
+  "LastUpdate_Achievements": "2023-08-15T05:04:37.3848584+00:00"
 }

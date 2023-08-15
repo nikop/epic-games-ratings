@@ -16,10 +16,10 @@ Number of Ratings: 371  (23.09.2022)
 | Friendly Fire | 2.00% | ~63 |
 | Bloodless | 2.00% | ~63 |
 | A Foul Creche | 2.00% | ~63 |
-| Honoured Battle-Brother | 1.00% | ~31 |
-| Surgical Excision | 1.00% | ~31 |
-| The Emperor Protects | 1.00% | ~31 |
-| Gunmaster | 1.00% | ~31 |
+| Honoured Battle-Brother | 1.00% | ~32 |
+| Surgical Excision | 1.00% | ~32 |
+| The Emperor Protects | 1.00% | ~32 |
+| Gunmaster | 1.00% | ~32 |
 | Nemesis Master | 0.90% | ~28 |
 | Execution Force | 0.90% | ~28 |
 | Hold Your Ground | 0.80% | ~25 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Not a Mote of Corruption | 0.00% | ~0 |
 | Strategic Command | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,148 (Ranked 154)  
+Progressed: 3,150 (Ranked 154)  
 Completed: 0 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,6 +186,7 @@ Completed: 0 (0.00%) (Ranked 255)
 | 2023-08-11 | 3,141 | 0 |
 | 2023-08-12 | 3,144 | 0 |
 | 2023-08-14 | 3,148 | 0 |
+| 2023-08-15 | 3,150 | 0 |
 ## Awards
 Max (Character Customization): 219  (Ranked 264)  
 Sum: 468 (Ranked 305)  

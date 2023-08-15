@@ -223,9 +223,9 @@
       "ID": "SG_ENDOFTHEROAD",
       "SetID": "bj5g0n4",
       "Name": "End Of The Road",
-      "Percentage": 63,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "SG_EVERYTHINGHASCHANGED",
@@ -295,17 +295,17 @@
       "ID": "SG_MYTIMETOSHINE",
       "SetID": "bj5g0n4",
       "Name": "My Time To Shine",
-      "Percentage": 13,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "SG_NOTALOSTGIRL",
       "SetID": "bj5g0n4",
       "Name": "Not A Lost Girl",
-      "Percentage": 31,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "SG_NOTTAKINGANYCHANCES",
@@ -454,8 +454,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-08-15T04:03:53.0641937+00:00",
+  "LastChanged_Achievements": "2023-08-15T05:03:27.6359417+00:00",
   "LastUpdate_AppInfo": "2023-08-10T07:57:00.7529969+00:00",
-  "LastUpdate_Ratings": "2023-08-15T03:57:27.6242323+00:00",
-  "LastUpdate_Achievements": "2023-08-15T04:03:53.0642429+00:00"
+  "LastUpdate_Ratings": "2023-08-15T04:57:22.303822+00:00",
+  "LastUpdate_Achievements": "2023-08-15T05:03:27.635992+00:00"
 }

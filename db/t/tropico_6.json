@@ -1038,9 +1038,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 4736,
+  "EOS_Progressed": 4737,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8073,6 +8073,11 @@
       "Time": "2023-08-15T03:06:34.2066889+00:00",
       "NumProgressed": 4736,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-15T05:07:14.1237511+00:00",
+      "NumProgressed": 4737,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -8236,7 +8241,7 @@
       "Name": "The Governator",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 852
+      "UsersEstimate": 853
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -8244,7 +8249,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 3552
+      "UsersEstimate": 3553
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -8356,7 +8361,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1752
+      "UsersEstimate": 1753
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -8403,15 +8408,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 4736,
+      "Progressed": 4737,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-08-13T17:57:30.9466559+00:00",
-  "LastChanged_Achievements": "2023-08-15T04:07:31.8016608+00:00",
+  "LastChanged_Achievements": "2023-08-15T05:07:14.1237504+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:14.0545526+00:00",
-  "LastUpdate_Ratings": "2023-08-15T03:57:34.702603+00:00",
-  "LastUpdate_Achievements": "2023-08-15T04:07:31.8017911+00:00"
+  "LastUpdate_Ratings": "2023-08-15T04:57:27.3465414+00:00",
+  "LastUpdate_Achievements": "2023-08-15T05:07:14.1238893+00:00"
 }
