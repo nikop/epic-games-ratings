@@ -41,7 +41,7 @@
 | 39 | [Scorn](games/s/scorn.md) | 6.96% |
 | 40 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.84% |
 | 41 | [Time Loader](games/t/time_loader.md) | 6.78% |
-| 42 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.43% |
+| 42 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.41% |
 | 43 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 44 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 45 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.98% |
@@ -56,8 +56,8 @@
 | 54 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 4.55% |
 | 54 | [JARS](games/j/jars.md) | 4.55% |
 | 56 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.52% |
-| 57 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.35% |
-| 58 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.19% |
+| 57 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.19% |
+| 58 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
 | 59 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.05% |
 | 60 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 4.00% |
 | 61 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.90% |
@@ -112,7 +112,7 @@
 | 110 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.11% |
 | 111 | [Trifox](games/t/trifox.md) | 1.10% |
 | 112 | [A Musical Story](games/a/a_musical_story.md) | 1.09% |
-| 113 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.05% |
+| 113 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.04% |
 | 114 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.01% |
 | 114 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.01% |
 | 116 | [Adios](games/a/adios.md) | 1.00% |
