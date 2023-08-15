@@ -41,7 +41,7 @@
 | 39 | [Scorn](games/s/scorn.md) | 6.96% |
 | 40 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.84% |
 | 41 | [Time Loader](games/t/time_loader.md) | 6.78% |
-| 42 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.41% |
+| 42 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.39% |
 | 43 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 44 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 45 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.98% |
@@ -56,7 +56,7 @@
 | 54 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 4.55% |
 | 54 | [JARS](games/j/jars.md) | 4.55% |
 | 56 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.52% |
-| 57 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.19% |
+| 57 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.18% |
 | 58 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
 | 59 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.05% |
 | 60 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 4.00% |
@@ -89,7 +89,7 @@
 | 87 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.27% |
 | 88 | [Bloodshore](games/b/bloodshore.md) | 2.21% |
 | 89 | [FORECLOSED](games/f/foreclosed.md) | 2.17% |
-| 90 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.02% |
+| 90 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.03% |
 | 91 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.96% |
 | 92 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.92% |
 | 93 | [Night Book](games/n/night_book.md) | 1.89% |
@@ -542,4 +542,4 @@
 | 257 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 257 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 257 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,048 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,050 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
