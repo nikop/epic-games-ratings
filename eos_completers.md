@@ -31,15 +31,15 @@
 | 29 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 10.00% |
 | 30 | [Sonic Origins](games/s/sonic_origins.md) | 9.60% |
 | 31 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.30% |
-| 32 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.94% |
+| 32 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.93% |
 | 33 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 8.70% |
 | 34 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.48% |
 | 35 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 7.81% |
 | 36 | [Smelter](games/s/smelter.md) | 7.69% |
 | 37 | [Ravenlok](games/r/ravenlok.md) | 7.53% |
-| 38 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.37% |
+| 38 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.33% |
 | 39 | [Scorn](games/s/scorn.md) | 6.95% |
-| 40 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.84% |
+| 40 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.90% |
 | 41 | [Time Loader](games/t/time_loader.md) | 6.78% |
 | 42 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.39% |
 | 43 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
@@ -89,7 +89,7 @@
 | 87 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.26% |
 | 88 | [Bloodshore](games/b/bloodshore.md) | 2.21% |
 | 89 | [FORECLOSED](games/f/foreclosed.md) | 2.17% |
-| 90 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.03% |
+| 90 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.02% |
 | 91 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.96% |
 | 92 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.92% |
 | 93 | [Night Book](games/n/night_book.md) | 1.89% |
@@ -103,7 +103,7 @@
 | 101 | [Five Dates](games/f/five_dates.md) | 1.57% |
 | 101 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.57% |
 | 103 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.49% |
-| 104 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.48% |
+| 104 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.47% |
 | 105 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.46% |
 | 105 | [Ten Dates](games/t/ten_dates.md) | 1.46% |
 | 107 | [Poosh XL](games/p/poosh_xl.md) | 1.43% |
@@ -543,4 +543,4 @@
 | 257 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 257 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 257 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,056 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,057 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
