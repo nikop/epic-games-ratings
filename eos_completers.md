@@ -6,7 +6,7 @@
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 41.30% |
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
 | 6 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
-| 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 26.83% |
+| 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 26.19% |
 | 8 | [Overloop](games/o/overloop.md) | 25.00% |
 | 8 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 25.00% |
 | 10 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
@@ -16,7 +16,7 @@
 | 13 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 15 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
 | 16 | [Island Cities](games/i/island_cities.md) | 18.04% |
-| 17 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 15.70% |
+| 17 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 15.45% |
 | 18 | [Anna's Quest](games/a/anna's_quest.md) | 14.71% |
 | 19 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 13.94% |
 | 20 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.07% |
@@ -37,9 +37,9 @@
 | 35 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 7.81% |
 | 36 | [Smelter](games/s/smelter.md) | 7.69% |
 | 37 | [Ravenlok](games/r/ravenlok.md) | 7.53% |
-| 38 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.33% |
+| 38 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.29% |
 | 39 | [Scorn](games/s/scorn.md) | 6.95% |
-| 40 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.90% |
+| 40 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.89% |
 | 41 | [Time Loader](games/t/time_loader.md) | 6.78% |
 | 42 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.39% |
 | 43 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
@@ -70,7 +70,7 @@
 | 68 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.16% |
 | 69 | [HordeCore](games/h/hordecore.md) | 3.15% |
 | 70 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.05% |
-| 71 | [The Complex](games/t/the_complex.md) | 2.99% |
+| 71 | [The Complex](games/t/the_complex.md) | 2.98% |
 | 72 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.95% |
 | 73 | [Monster Harvest](games/m/monster_harvest.md) | 2.94% |
 | 74 | [MultiVersus](games/m/multiversus.md) | 2.93% |
@@ -331,6 +331,7 @@
 | 257 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 0.00% |
 | 257 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 0.00% |
 | 257 | [Fabular: Once Upon a Spacetime](games/f/fabular__once_upon_a_spacetime.md) | 0.00% |
+| 257 | [Fae Farm Pre-Purchase](games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 0.00% |
 | 257 | [Faraday Protocol](games/f/faraday_protocol.md) | 0.00% |
 | 257 | [Figment 2: Creed Valley](games/f/figment_2__creed_valley.md) | 0.00% |
 | 257 | [Filthy Animals \| Heist Simulator](games/f/filthy_animals___heist_simulator.md) | 0.00% |
