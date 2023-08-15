@@ -4,8 +4,8 @@
   "ProductSlug": "the-house-of-da-vinci-eb6e37",
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 26,
-  "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
     "PcReleaseDate": "2017-11-24T00:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 303,
+  "EOS_Progressed": 304,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 9,
-  "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 10.23,
+  "EOS_NewPlayers": 10,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 10.2,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -1396,6 +1396,11 @@
       "Time": "2023-08-14T03:06:54.4186557+00:00",
       "NumProgressed": 303,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-08-15T01:46:16.0215288+00:00",
+      "NumProgressed": 304,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 6,
@@ -1405,9 +1410,9 @@
       "ID": "CgkIgaGB2J0LEAIQAA",
       "SetID": "4ocea6d",
       "Name": "Printing Press",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 175,
-      "UsersEstimate": 179
+      "UsersEstimate": 182
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAQ",
@@ -1415,15 +1420,15 @@
       "Name": "File-cutter",
       "Percentage": 63,
       "XP": 165,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAg",
       "SetID": "4ocea6d",
       "Name": "Viola Organista",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 165,
-      "UsersEstimate": 152
+      "UsersEstimate": 149
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAw",
@@ -1454,14 +1459,14 @@
     {
       "ID": "4ocea6d",
       "IsBase": true,
-      "Progressed": 303,
+      "Progressed": 304,
       "Completed": 31
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-08-15T00:06:26.3818319+00:00",
+  "LastChanged_Achievements": "2023-08-15T01:46:16.0215282+00:00",
   "LastUpdate_AppInfo": "2023-08-10T15:57:09.369963+00:00",
-  "LastUpdate_Ratings": "2023-08-14T23:58:05.0472347+00:00",
-  "LastUpdate_Achievements": "2023-08-15T00:06:26.3818575+00:00"
+  "LastUpdate_Ratings": "2023-08-15T01:37:27.110947+00:00",
+  "LastUpdate_Achievements": "2023-08-15T01:46:16.0215413+00:00"
 }

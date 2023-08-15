@@ -3,12 +3,12 @@
   "Name": "The Dungeon of Naheulbeuk",
   "ProductSlug": "the-dungeon-of-naheulbeuk",
   "Ranking_Rating": 426,
-  "Ranking_Popularity": 291,
-  "Ranking_PopularitySum": 376,
+  "Ranking_Popularity": 289,
+  "Ranking_PopularitySum": 375,
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 21,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -622,18 +622,24 @@
       "Rating": 4.58,
       "NumberOfAwards": 183,
       "NumberOfAwardsMax": 163
+    },
+    {
+      "Time": "2023-08-15T01:40:21.20955+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 186,
+      "NumberOfAwardsMax": 166
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 183,
-  "NumberOfAwardsMax": 163,
+  "NumberOfAwards": 186,
+  "NumberOfAwardsMax": 166,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 163
+      "Count": 166
     },
     {
       "Text": "This game is Relaxing",
@@ -642,9 +648,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 212399,
+  "EOS_Progressed": 212428,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3844,
+  "EOS_NewPlayers": 3836,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6937,6 +6943,11 @@
       "Time": "2023-08-15T00:05:00.6004778+00:00",
       "NumProgressed": 212399,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-15T01:44:35.7428835+00:00",
+      "NumProgressed": 212428,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -7394,9 +7405,9 @@
       "ID": "ElfHitTwoFriends",
       "SetID": "50chcgj",
       "Name": "Sowwy!",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 27612
+      "UsersEstimate": 29740
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -7596,7 +7607,7 @@
       "Name": "Speedrun",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1275
     },
     {
       "ID": "SupportCount4",
@@ -7651,21 +7662,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 212399,
+      "Progressed": 212428,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 212399,
+      "Progressed": 212428,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
-  "LastChanged": "2023-08-13T20:01:39.3225851+00:00",
-  "LastChanged_Achievements": "2023-08-15T00:05:00.6004774+00:00",
+  "LastChanged": "2023-08-15T01:40:21.2095498+00:00",
+  "LastChanged_Achievements": "2023-08-15T01:44:35.742883+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:49.6773731+00:00",
-  "LastUpdate_Ratings": "2023-08-15T00:00:34.4500542+00:00",
-  "LastUpdate_Achievements": "2023-08-15T00:05:00.6006292+00:00"
+  "LastUpdate_Ratings": "2023-08-15T01:40:21.2095504+00:00",
+  "LastUpdate_Achievements": "2023-08-15T01:44:35.7430702+00:00"
 }

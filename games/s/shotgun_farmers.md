@@ -4,43 +4,43 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Seeds of War | 76.00% | ~195 |
-| First Blood | 58.00% | ~149 |
-| Triple Kill | 57.00% | ~146 |
-| Survivor | 56.00% | ~116 |
-| Aspairagus | 56.00% | ~116 |
-| No Asperascope | 51.00% | ~131 |
-| Cornivore | 51.00% | ~131 |
-| I Believe I Can Fly | 48.00% | ~123 |
-| Early Survivor | 42.00% | ~87 |
-| No Diggity | 41.00% | ~85 |
-| Amateur Survivor | 32.00% | ~66 |
-| 10K | 30.00% | ~77 |
-| Bouncemato | 30.00% | ~62 |
-| 15K | 28.00% | ~72 |
+| Seeds of War | 76.00% | ~197 |
+| First Blood | 58.00% | ~150 |
+| Triple Kill | 57.00% | ~148 |
+| Survivor | 56.00% | ~117 |
+| Aspairagus | 56.00% | ~117 |
+| No Asperascope | 51.00% | ~132 |
+| Cornivore | 50.00% | ~130 |
+| I Believe I Can Fly | 48.00% | ~124 |
+| Early Survivor | 42.00% | ~88 |
+| No Diggity | 41.00% | ~86 |
+| Amateur Survivor | 31.00% | ~65 |
+| 10K | 30.00% | ~78 |
+| Bouncemato | 30.00% | ~63 |
+| 15K | 28.00% | ~73 |
 | Professional Survivor | 23.00% | ~48 |
-| Grave Digger | 23.00% | ~48 |
 | Drinking Problem | 22.00% | ~57 |
-| Quick-Draw Pod | 21.00% | ~43 |
+| Grave Digger | 22.00% | ~46 |
+| Quick-Draw Pod | 21.00% | ~44 |
 | Pork Chop Express | 17.00% | ~44 |
 | This Is My Boomstick | 16.00% | ~33 |
 | Skin Of Your Teeth | 15.00% | ~39 |
 | Carrocketeer | 14.00% | ~36 |
 | Oh My Gourd | 14.00% | ~29 |
-| Getting Started | 13.00% | ~33 |
-| Eggtraordinary | 13.00% | ~33 |
+| Getting Started | 13.00% | ~34 |
+| Eggtraordinary | 13.00% | ~34 |
 | Summers Here | 11.00% | ~23 |
 | Fresh Pancake | 10.00% | ~26 |
 | Quit Horsin' Around | 10.00% | ~26 |
 | Perfect | 10.00% | ~21 |
 | Expert Survivor | 10.00% | ~21 |
-| Bring Home The Bacon | 9.00% | ~23 |
-| Quadsparagus | 9.00% | ~19 |
-| Pyromaniac | 6.00% | ~12 |
+| Bring Home The Bacon | 8.00% | ~21 |
+| Quadsparagus | 8.00% | ~17 |
+| Pyromaniac | 6.00% | ~13 |
 | I Have The High Ground | 5.00% | ~13 |
 | Early Bird | 5.00% | ~13 |
 | Chick Magnet | 4.00% | ~10 |
-| Master Survivor | 4.00% | ~8 |
+| Master Survivor | 3.00% | ~6 |
 | Heart Breaker | 3.00% | ~6 |
 | 15 Days | 2.00% | ~5 |
 | Easy Peasy | 2.00% | ~4 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 257 (Ranked 266)  
+Progressed: 259 (Ranked 266)  
 Completed: 0 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,6 +166,7 @@ Completed: 0 (0.00%) (Ranked 255)
 | 2023-08-11 | 253 | 0 |
 | 2023-08-13 | 256 | 0 |
 | 2023-08-14 | 257 | 0 |
+| 2023-08-15 | 259 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

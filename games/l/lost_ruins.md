@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Inquisitor | 38.00% | ~162 |
-| Goblin Tales | 30.00% | ~128 |
+| Goblin Tales | 31.00% | ~132 |
 | Bug Hunter | 25.00% | ~107 |
 | Boss Killer | 23.00% | ~98 |
 | The Fallen | 22.00% | ~94 |
@@ -15,10 +15,10 @@
 | Iconoclasm | 15.00% | ~64 |
 | Reincarnation | 15.00% | ~64 |
 | Librarian | 14.00% | ~60 |
+| Lumberjack | 13.00% | ~56 |
 | Orcs Must Die! | 13.00% | ~56 |
 | The End | 13.00% | ~56 |
 | Gladiator | 12.00% | ~51 |
-| Lumberjack | 12.00% | ~51 |
 | Troubleshooter | 11.00% | ~47 |
 | Money Swag | 8.00% | ~34 |
 | Oops | 7.00% | ~30 |

@@ -6,12 +6,12 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 13.00% | ~27,612 |
+| Sowwy! | 14.00% | ~29,740 |
 | Alt+F4 | 1.00% | ~2,124 |
 | Where's that freaking Dwarf? | 0.90% | ~1,912 |
 | Déjà vu | 0.80% | ~1,699 |
 | Sock! SOCK! | 0.80% | ~1,699 |
-| Speedrun | 0.60% | ~1,274 |
+| Speedrun | 0.60% | ~1,275 |
 | A beer, two curses, three companions | 0.50% | ~1,062 |
 | GG EZ | 0.50% | ~1,062 |
 | DM intervention | 0.50% | ~1,062 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Staff cut | 0.00% | ~0 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 212,399 (Ranked 56)  
+Progressed: 212,428 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,14 +171,14 @@ Completed: 2 (0.00%) (Ranked 255)
 | 2023-08-12 | 211,199 | 1 |
 | 2023-08-13 | 211,857 | 2 |
 | 2023-08-14 | 212,372 | 2 |
-| 2023-08-15 | 212,399 | 2 |
+| 2023-08-15 | 212,428 | 2 |
 ## Awards
-Max (Character Customization): 163  (Ranked 291)  
-Sum: 183 (Ranked 376)  
-Diff (max vs sum): -85  
+Max (Character Customization): 166  (Ranked 289)  
+Sum: 186 (Ranked 375)  
+Diff (max vs sum): -86  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 163 |
+| This game has Inclusive Character Customization | 166 |
 | This game is Relaxing | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -287,3 +287,4 @@ Diff (max vs sum): -85
 | 2023-08-11 | 4.58 | - | 159 | 159 |
 | 2023-08-12 | 4.58 | - | 160 | 180 |
 | 2023-08-13 | 4.58 | - | 163 | 183 |
+| 2023-08-15 | 4.58 | - | 166 | 186 |

@@ -3,8 +3,8 @@
   "Name": "Lemon Cake",
   "ProductSlug": "lemon-cake-c683d8",
   "Ranking_EOS_Progress": 306,
-  "Ranking_EOS_Completed": 124,
-  "Ranking_EOS_NewPlayers": 282,
+  "Ranking_EOS_Completed": 125,
+  "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-09-29T23:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 137,
+  "EOS_Progressed": 138,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.73,
+  "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:16.6062056+00:00",
@@ -147,6 +147,11 @@
       "Time": "2023-08-14T11:05:11.6303936+00:00",
       "NumProgressed": 137,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-15T01:45:16.8195592+00:00",
+      "NumProgressed": 138,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 17,
@@ -158,7 +163,7 @@
       "Name": "Proving Your Skills",
       "Percentage": 91,
       "XP": 25,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "LC-02",
@@ -254,7 +259,7 @@
       "Name": "The Kitchen Is On Fire",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "LC-14",
@@ -293,7 +298,7 @@
     {
       "ID": "ap2ljl4",
       "IsBase": true,
-      "Progressed": 137,
+      "Progressed": 138,
       "Completed": 1
     }
   ],
@@ -301,8 +306,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.6780256+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.6062065+00:00",
   "LastChanged": "2023-03-31T05:58:18.6780257+00:00",
-  "LastChanged_Achievements": "2023-08-15T00:05:35.9344242+00:00",
+  "LastChanged_Achievements": "2023-08-15T01:45:16.8195587+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:58:03.7728291+00:00",
-  "LastUpdate_Ratings": "2023-08-14T23:57:04.4496336+00:00",
-  "LastUpdate_Achievements": "2023-08-15T00:05:35.9344468+00:00"
+  "LastUpdate_Ratings": "2023-08-15T01:36:11.3153265+00:00",
+  "LastUpdate_Achievements": "2023-08-15T01:45:16.8195723+00:00"
 }

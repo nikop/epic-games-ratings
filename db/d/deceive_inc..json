@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17375,
+  "EOS_Progressed": 17377,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 268,
+  "EOS_NewPlayers": 266,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8266,6 +8266,11 @@
       "Time": "2023-08-14T23:04:54.2474818+00:00",
       "NumProgressed": 17375,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-15T01:44:47.873801+00:00",
+      "NumProgressed": 17377,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -8301,7 +8306,7 @@
       "Name": "Security Supervisor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1042
+      "UsersEstimate": 1043
     },
     {
       "ID": "0005",
@@ -8341,7 +8346,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 3996
+      "UsersEstimate": 3997
     },
     {
       "ID": "0010",
@@ -8405,7 +8410,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3301
+      "UsersEstimate": 3302
     },
     {
       "ID": "0018",
@@ -8461,7 +8466,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 3822
+      "UsersEstimate": 3823
     },
     {
       "ID": "0025",
@@ -8493,7 +8498,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 3996
+      "UsersEstimate": 3997
     },
     {
       "ID": "0029",
@@ -8564,7 +8569,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17375,
+      "Progressed": 17377,
       "Completed": 1
     }
   ],
@@ -8572,8 +8577,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-12T19:04:41.1874293+00:00",
-  "LastChanged_Achievements": "2023-08-15T00:05:11.2301302+00:00",
+  "LastChanged_Achievements": "2023-08-15T01:44:47.8738003+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:38.5697724+00:00",
-  "LastUpdate_Ratings": "2023-08-15T00:01:15.4304191+00:00",
-  "LastUpdate_Achievements": "2023-08-15T00:05:11.2302702+00:00"
+  "LastUpdate_Ratings": "2023-08-15T01:41:04.6574884+00:00",
+  "LastUpdate_Achievements": "2023-08-15T01:44:47.873914+00:00"
 }

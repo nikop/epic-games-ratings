@@ -6375,9 +6375,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 58882,
+  "EOS_Progressed": 58885,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 463,
+  "EOS_NewPlayers": 464,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18650,6 +18650,11 @@
       "Time": "2023-08-15T00:04:52.0672818+00:00",
       "NumProgressed": 58882,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-15T01:44:25.9735949+00:00",
+      "NumProgressed": 58885,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -18669,7 +18674,7 @@
       "Name": "Apple of my eye",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 8832
+      "UsersEstimate": 8833
     },
     {
       "ID": "Bannerlord",
@@ -18677,7 +18682,7 @@
       "Name": "Bannerlord",
       "Percentage": 22,
       "XP": 65,
-      "UsersEstimate": 12954
+      "UsersEstimate": 12955
     },
     {
       "ID": "Best served cold",
@@ -18741,7 +18746,7 @@
       "Name": "Duelist",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5299
+      "UsersEstimate": 5300
     },
     {
       "ID": "Dynasty",
@@ -18749,7 +18754,7 @@
       "Name": "Dynasty",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 5299
+      "UsersEstimate": 5300
     },
     {
       "ID": "Entrepreneur",
@@ -18781,7 +18786,7 @@
       "Name": "Freedom!",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1766
+      "UsersEstimate": 1767
     },
     {
       "ID": "God of the Arena",
@@ -18821,7 +18826,7 @@
       "Name": "Horde breaker",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 12954
+      "UsersEstimate": 12955
     },
     {
       "ID": "I can do it",
@@ -18829,7 +18834,7 @@
       "Name": "I can do it",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 8832
+      "UsersEstimate": 8833
     },
     {
       "ID": "I spit on your grave",
@@ -18837,7 +18842,7 @@
       "Name": "I spit on your grave",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5299
+      "UsersEstimate": 5300
     },
     {
       "ID": "Jack of All Trades",
@@ -18885,7 +18890,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 18842
+      "UsersEstimate": 18843
     },
     {
       "ID": "Lawbringer",
@@ -18893,7 +18898,7 @@
       "Name": "Lawbringer",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 22375
+      "UsersEstimate": 22376
     },
     {
       "ID": "Lawmaker",
@@ -18901,7 +18906,7 @@
       "Name": "Lawmaker",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 12954
+      "UsersEstimate": 12955
     },
     {
       "ID": "Long live the Empire",
@@ -18949,7 +18954,7 @@
       "Name": "Real Estate",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1766
+      "UsersEstimate": 1767
     },
     {
       "ID": "Ride it like you stole it",
@@ -19037,7 +19042,7 @@
       "Name": "Trained",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 12954
+      "UsersEstimate": 12955
     },
     {
       "ID": "Undercover",
@@ -19061,22 +19066,22 @@
       "Name": "What have the Romans ever done for us?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5299
+      "UsersEstimate": 5300
     }
   ],
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 58882,
+      "Progressed": 58885,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-08-14T12:02:04.9830039+00:00",
-  "LastChanged_Achievements": "2023-08-15T00:04:52.0672812+00:00",
+  "LastChanged_Achievements": "2023-08-15T01:44:25.9735941+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:44.6335832+00:00",
-  "LastUpdate_Ratings": "2023-08-15T00:01:22.228622+00:00",
-  "LastUpdate_Achievements": "2023-08-15T00:04:52.0674285+00:00"
+  "LastUpdate_Ratings": "2023-08-15T01:41:12.6607473+00:00",
+  "LastUpdate_Achievements": "2023-08-15T01:44:25.9737171+00:00"
 }

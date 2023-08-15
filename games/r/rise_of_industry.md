@@ -1,27 +1,27 @@
 # Rise of Industry
 [Store](https://store.epicgames.com/en-US/p/rise-of-industry-0af838)  
 [View Rawdata](../../db/r/rise_of_industry.json)  
-Rating: 4.24 (Ranked 828)  
+Rating: 4.24 (Ranked 829)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 48.00% | ~346,915 |
-| Well educated | 37.00% | ~267,414 |
-| City Planner | 19.00% | ~137,321 |
-| Deforester | 17.00% | ~122,866 |
-| Big Hauling | 16.00% | ~115,638 |
-| Apprentice Manufacturer | 13.00% | ~93,956 |
-| Exporter | 13.00% | ~93,956 |
-| I would drive 500 tiles... | 12.00% | ~86,729 |
-| Landscaper | 12.00% | ~86,729 |
-| Railwayman | 8.00% | ~57,819 |
-| Penniless | 6.00% | ~43,364 |
-| Massive Gains | 6.00% | ~43,364 |
-| Salesman | 3.00% | ~21,682 |
+| Entrepreneur | 48.00% | ~346,928 |
+| Well educated | 37.00% | ~267,423 |
+| City Planner | 19.00% | ~137,326 |
+| Deforester | 17.00% | ~122,870 |
+| Big Hauling | 16.00% | ~115,643 |
+| Apprentice Manufacturer | 13.00% | ~93,960 |
+| Exporter | 13.00% | ~93,960 |
+| I would drive 500 tiles... | 12.00% | ~86,732 |
+| Landscaper | 12.00% | ~86,732 |
+| Railwayman | 8.00% | ~57,821 |
+| Penniless | 6.00% | ~43,366 |
+| Massive Gains | 6.00% | ~43,366 |
+| Salesman | 3.00% | ~21,683 |
 | Engineer | 2.00% | ~14,455 |
 | High Flyer | 2.00% | ~14,455 |
 | Captain | 0.80% | ~5,782 |
-| Billionaire | 0.60% | ~4,336 |
+| Billionaire | 0.60% | ~4,337 |
 | Vroom Vroom | 0.40% | ~2,891 |
 | Excavator | 0.30% | ~2,168 |
 | Loan Ranger | 0.30% | ~2,168 |
@@ -33,7 +33,7 @@ Rating: 4.24 (Ranked 828)
 | Master Builder | 0.10% | ~723 |
 | Hard working | 0.10% | ~723 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 722,740 (Ranked 18)  
+Progressed: 722,766 (Ranked 18)  
 Completed: 3 (0.00%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 3 (0.00%) (Ranked 255)
 | 2023-08-12 | 721,771 | 3 |
 | 2023-08-13 | 722,316 | 3 |
 | 2023-08-14 | 722,728 | 3 |
-| 2023-08-15 | 722,740 | 3 |
+| 2023-08-15 | 722,766 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

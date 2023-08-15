@@ -8293,9 +8293,9 @@
       "Count": 647
     }
   ],
-  "EOS_Progressed": 611938,
+  "EOS_Progressed": 611946,
   "EOS_Completed": 62,
-  "EOS_NewPlayers": 2720,
+  "EOS_NewPlayers": 2713,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -21168,6 +21168,11 @@
       "Time": "2023-08-15T00:06:23.8883273+00:00",
       "NumProgressed": 611938,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2023-08-15T01:46:13.0088506+00:00",
+      "NumProgressed": 611946,
+      "NumCompleted": 62
     }
   ],
   "TotalAchievements": 65,
@@ -21179,7 +21184,7 @@
       "Name": "Into the Unknown",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 61194
+      "UsersEstimate": 61195
     },
     {
       "ID": "achievement_02",
@@ -21187,7 +21192,7 @@
       "Name": "First Shot",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 61194
+      "UsersEstimate": 61195
     },
     {
       "ID": "achievement_03",
@@ -21195,7 +21200,7 @@
       "Name": "Herzlich Wilkommen!",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 55074
+      "UsersEstimate": 55075
     },
     {
       "ID": "achievement_04",
@@ -21227,7 +21232,7 @@
       "Name": "Get Outta My House!",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 36716
+      "UsersEstimate": 36717
     },
     {
       "ID": "achievement_08",
@@ -21315,7 +21320,7 @@
       "Name": "Sancho Panza",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 48955
+      "UsersEstimate": 48956
     },
     {
       "ID": "achievement_19",
@@ -21347,7 +21352,7 @@
       "Name": "Find Anything Interesting?",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 5507
+      "UsersEstimate": 5508
     },
     {
       "ID": "achievement_23",
@@ -21355,7 +21360,7 @@
       "Name": "It Wasn\u0027t That Hard, Was It?",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 36716
+      "UsersEstimate": 36717
     },
     {
       "ID": "achievement_24",
@@ -21387,7 +21392,7 @@
       "Name": "You Never Forget Your First...",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 67313
+      "UsersEstimate": 67314
     },
     {
       "ID": "achievement_28",
@@ -21395,7 +21400,7 @@
       "Name": "Oh, So This Is How It Works!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 48955
+      "UsersEstimate": 48956
     },
     {
       "ID": "achievement_29",
@@ -21427,7 +21432,7 @@
       "Name": "Boot Licker",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 5507
+      "UsersEstimate": 5508
     },
     {
       "ID": "achievement_33",
@@ -21435,7 +21440,7 @@
       "Name": "Who Wants To Be a...",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 5507
+      "UsersEstimate": 5508
     },
     {
       "ID": "achievement_34",
@@ -21467,7 +21472,7 @@
       "Name": "Good Night \u0026 Good Luck",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 55074
+      "UsersEstimate": 55075
     },
     {
       "ID": "achievement_38",
@@ -21523,7 +21528,7 @@
       "Name": "Being All Social",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 36716
+      "UsersEstimate": 36717
     },
     {
       "ID": "achievement_45",
@@ -21651,7 +21656,7 @@
       "Name": "Night of Terrors",
       "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 2316
+      "UsersEstimate": 2317
     },
     {
       "ID": "achievement_61",
@@ -21698,21 +21703,21 @@
     {
       "ID": "3cbf5jh",
       "IsBase": true,
-      "Progressed": 611938,
+      "Progressed": 611946,
       "Completed": 62
     },
     {
       "ID": "likk62",
       "IsBase": false,
-      "Progressed": 257382,
+      "Progressed": 257390,
       "Completed": 1426
     }
   ],
   "FirstSeen": "2022-07-22T20:18:57.6151265+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.1190573+00:00",
   "LastChanged": "2023-08-14T19:57:03.0467462+00:00",
-  "LastChanged_Achievements": "2023-08-15T00:06:23.8883267+00:00",
+  "LastChanged_Achievements": "2023-08-15T01:46:13.0088501+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:58.4996027+00:00",
-  "LastUpdate_Ratings": "2023-08-14T23:57:00.3397059+00:00",
-  "LastUpdate_Achievements": "2023-08-15T00:06:23.8886276+00:00"
+  "LastUpdate_Ratings": "2023-08-15T01:36:06.809119+00:00",
+  "LastUpdate_Achievements": "2023-08-15T01:46:13.0090023+00:00"
 }

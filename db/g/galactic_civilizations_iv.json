@@ -858,9 +858,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 6362,
+  "EOS_Progressed": 6363,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5013,6 +5013,11 @@
       "Time": "2023-08-14T23:04:04.5043529+00:00",
       "NumProgressed": 6362,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-15T01:43:39.0658668+00:00",
+      "NumProgressed": 6363,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -5056,7 +5061,7 @@
       "Name": "Commodity Trader",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1972
+      "UsersEstimate": 1973
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -5064,7 +5069,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 4008
+      "UsersEstimate": 4009
     },
     {
       "ID": "Control_All_Relics",
@@ -5104,7 +5109,7 @@
       "Name": "Design a Civilization",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1972
+      "UsersEstimate": 1973
     },
     {
       "ID": "First_Major_Ally",
@@ -5128,7 +5133,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 5026
+      "UsersEstimate": 5027
     },
     {
       "ID": "First_Race_Met",
@@ -5136,7 +5141,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4644
+      "UsersEstimate": 4645
     },
     {
       "ID": "First_Ship_Designed",
@@ -5144,7 +5149,7 @@
       "Name": "Design a Ship",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1781
+      "UsersEstimate": 1782
     },
     {
       "ID": "First_Stream_Travel",
@@ -5160,7 +5165,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 4962
+      "UsersEstimate": 4963
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -5328,7 +5333,7 @@
       "Name": "Commodity Seller",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1590
+      "UsersEstimate": 1591
     },
     {
       "ID": "Take_Iconia_From_Yor_As_Iconians",
@@ -5344,7 +5349,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3944
+      "UsersEstimate": 3945
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -5528,7 +5533,7 @@
       "Name": "Conquest Victory!",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "Win_CustomFaction",
@@ -5552,7 +5557,7 @@
       "Name": "Win an Immense Game",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "Win_Influence",
@@ -5584,7 +5589,7 @@
       "Name": "Win Quickly",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "Win_Research",
@@ -5599,15 +5604,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6362,
+      "Progressed": 6363,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-08-12T04:58:53.0373153+00:00",
-  "LastChanged_Achievements": "2023-08-15T00:04:12.086874+00:00",
+  "LastChanged_Achievements": "2023-08-15T01:43:39.0658661+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:24.6593665+00:00",
-  "LastUpdate_Ratings": "2023-08-14T23:58:51.5817393+00:00",
-  "LastUpdate_Achievements": "2023-08-15T00:04:12.0870608+00:00"
+  "LastUpdate_Ratings": "2023-08-15T01:38:23.4711804+00:00",
+  "LastUpdate_Achievements": "2023-08-15T01:43:39.0659627+00:00"
 }

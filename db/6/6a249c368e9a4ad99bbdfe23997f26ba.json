@@ -4,7 +4,7 @@
   "ProductSlug": "forest-fire-b4bb7e",
   "Ranking_EOS_Progress": 404,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
@@ -174,9 +174,9 @@
       "ID": "A14",
       "SetID": "7f5j12l",
       "Name": "Pentagon Destroyed",
-      "Percentage": 19,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "A15",
@@ -366,9 +366,9 @@
       "ID": "A5",
       "SetID": "7f5j12l",
       "Name": "1M Trees Burnt",
-      "Percentage": 57,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "A6",
@@ -412,8 +412,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-18T00:01:21.9503191+00:00",
-  "LastChanged_Achievements": "2023-08-15T00:04:59.8916108+00:00",
+  "LastChanged_Achievements": "2023-08-15T01:44:35.0042633+00:00",
   "LastUpdate_AppInfo": "2023-08-08T02:56:56.7121844+00:00",
-  "LastUpdate_Ratings": "2023-08-14T23:57:52.0509163+00:00",
-  "LastUpdate_Achievements": "2023-08-15T00:04:59.8916562+00:00"
+  "LastUpdate_Ratings": "2023-08-15T01:37:08.8337741+00:00",
+  "LastUpdate_Achievements": "2023-08-15T01:44:35.0042904+00:00"
 }

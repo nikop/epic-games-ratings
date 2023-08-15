@@ -11,6 +11,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beast Intentions | 0.30% | ~666 |
 | To Infinity's and Beyond | 0.30% | ~565 |
 | The Cursed Farmer | 0.20% | ~444 |
+| The Ring of Regeneration | 0.20% | ~444 |
 | The Mad Wizard | 0.20% | ~444 |
 | The Chaotic Hunt for The Last Breath | 0.20% | ~376 |
 | There's a Flying Snake in my Boot! | 0.20% | ~376 |
@@ -221,7 +222,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Trepidatious Trio | 0.10% | ~222 |
 | Our Time To Shine | 0.10% | ~222 |
 | Review by the Blackstaff | 0.10% | ~188 |
-| The Ring of Regeneration | 0.10% | ~222 |
 | The Crumbling Temple | 0.10% | ~222 |
 | The Death Curse | 0.10% | ~222 |
 | Treasure Hunters | 0.10% | ~222 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~188 |
 | Animated Giff | 0.10% | ~188 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 221,941 (Ranked 53)  
+Progressed: 221,960 (Ranked 53)  
 Completed: 2,181 (0.98%) (Ranked 115)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -640,7 +640,7 @@ Completed: 2,181 (0.98%) (Ranked 115)
 | 2023-08-12 | 221,298 | 2,175 |
 | 2023-08-13 | 221,637 | 2,180 |
 | 2023-08-14 | 221,929 | 2,181 |
-| 2023-08-15 | 221,941 | 2,181 |
+| 2023-08-15 | 221,960 | 2,181 |
 ## Awards
 Max (Diverse Characters): 5,148  (Ranked 67)  
 Sum: 31,054 (Ranked 38)  

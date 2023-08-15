@@ -6,9 +6,9 @@ Number of Ratings: 371  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Not So Fast... | 4.00% | ~126 |
 | Executioner | 4.00% | ~126 |
 | Look Over There! | 3.00% | ~94 |
-| Not So Fast... | 3.00% | ~94 |
 | Watch Where You Step... | 3.00% | ~94 |
 | Purging Spree | 3.00% | ~94 |
 | An Ill Omen | 3.00% | ~94 |
@@ -21,8 +21,8 @@ Number of Ratings: 371  (23.09.2022)
 | The Emperor Protects | 1.00% | ~31 |
 | Gunmaster | 1.00% | ~31 |
 | Nemesis Master | 0.90% | ~28 |
+| Execution Force | 0.90% | ~28 |
 | Hold Your Ground | 0.80% | ~25 |
-| Execution Force | 0.80% | ~25 |
 | Hive Exterminator | 0.80% | ~25 |
 | Corruption Cleanser | 0.70% | ~22 |
 | Just a Scratch | 0.70% | ~22 |

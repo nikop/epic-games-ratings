@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 60866,
+  "EOS_Progressed": 60869,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 384,
+  "EOS_NewPlayers": 380,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -11272,6 +11272,11 @@
       "Time": "2023-08-15T00:05:53.4189756+00:00",
       "NumProgressed": 60866,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-15T01:45:38.0329752+00:00",
+      "NumProgressed": 60869,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -11283,7 +11288,7 @@
       "Name": "Follow the Light",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 22520
+      "UsersEstimate": 22522
     },
     {
       "ID": "02",
@@ -11291,7 +11296,7 @@
       "Name": "Nordic Walking",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 13999
+      "UsersEstimate": 14000
     },
     {
       "ID": "03",
@@ -11315,7 +11320,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 12173
+      "UsersEstimate": 12174
     },
     {
       "ID": "06",
@@ -11371,7 +11376,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6695
+      "UsersEstimate": 6696
     },
     {
       "ID": "13",
@@ -11417,9 +11422,9 @@
       "ID": "18",
       "SetID": "212770e",
       "Name": "Hardboiled Writer",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3043
+      "UsersEstimate": 3652
     },
     {
       "ID": "19",
@@ -11467,7 +11472,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6695
+      "UsersEstimate": 6696
     },
     {
       "ID": "25",
@@ -11475,7 +11480,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4869
+      "UsersEstimate": 4870
     },
     {
       "ID": "26",
@@ -11483,7 +11488,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6695
+      "UsersEstimate": 6696
     },
     {
       "ID": "27",
@@ -11507,7 +11512,7 @@
       "Name": "Sound and Fury",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 8521
+      "UsersEstimate": 8522
     },
     {
       "ID": "30",
@@ -11531,7 +11536,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 17651
+      "UsersEstimate": 17652
     },
     {
       "ID": "33",
@@ -11555,7 +11560,7 @@
       "Name": "Let There Be Light",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 18260
+      "UsersEstimate": 18261
     },
     {
       "ID": "36",
@@ -11643,7 +11648,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 8521
+      "UsersEstimate": 8522
     },
     {
       "ID": "47",
@@ -11818,21 +11823,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 60866,
+      "Progressed": 60869,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 24334,
+      "Progressed": 24337,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-15T00:05:53.4189751+00:00",
+  "LastChanged_Achievements": "2023-08-15T01:45:38.0329749+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:20.2881971+00:00",
-  "LastUpdate_Ratings": "2023-08-14T23:58:57.8486244+00:00",
-  "LastUpdate_Achievements": "2023-08-15T00:05:53.419111+00:00"
+  "LastUpdate_Ratings": "2023-08-15T01:38:31.5856803+00:00",
+  "LastUpdate_Achievements": "2023-08-15T01:45:38.0331229+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 235,
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewPlayers": 81,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
@@ -1247,9 +1247,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 126239,
+  "EOS_Progressed": 126241,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 417,
+  "EOS_NewPlayers": 418,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -12812,6 +12812,11 @@
       "Time": "2023-08-15T00:04:50.1956908+00:00",
       "NumProgressed": 126239,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-08-15T01:44:23.8120931+00:00",
+      "NumProgressed": 126241,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 40,
@@ -12879,7 +12884,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 30297
+      "UsersEstimate": 30298
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -12927,7 +12932,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20198
+      "UsersEstimate": 20199
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -12967,7 +12972,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 13886
+      "UsersEstimate": 13887
     },
     {
       "ID": "ACH_CUNO",
@@ -13039,7 +13044,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 17673
+      "UsersEstimate": 17674
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -13142,15 +13147,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 126239,
+      "Progressed": 126241,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-08-14T01:41:04.9413992+00:00",
-  "LastChanged_Achievements": "2023-08-15T00:04:50.1956902+00:00",
+  "LastChanged_Achievements": "2023-08-15T01:44:23.8120928+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:59.4029348+00:00",
-  "LastUpdate_Ratings": "2023-08-15T00:00:43.1175279+00:00",
-  "LastUpdate_Achievements": "2023-08-15T00:04:50.1957965+00:00"
+  "LastUpdate_Ratings": "2023-08-15T01:40:30.7897081+00:00",
+  "LastUpdate_Achievements": "2023-08-15T01:44:23.812303+00:00"
 }
