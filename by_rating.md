@@ -11,7 +11,7 @@
 | 7 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 0 | 512 |
 | 7 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1,874 | 111 |
 | 7 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.90 | 0 | 512 |
-| 12 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 7,941 | 41 |
+| 12 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 7,947 | 41 |
 | 12 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.89 | 0 | 512 |
 | 12 | [Firework](games/f/firework.md) | 4.89 | 0 | 512 |
 | 12 | [RimWorld](games/r/rimworld.md) | 4.89 | 428 | 207 |
@@ -247,7 +247,7 @@
 | 238 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 5,669 | 62 |
 | 238 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 3,393 | 87 |
 | 238 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 302,069 | 3 |
-| 238 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 211,938 | 4 |
+| 238 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 212,356 | 4 |
 | 238 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 512 |
 | 238 | [King of Retail](games/k/king_of_retail.md) | 4.68 | 0 | 512 |
 | 238 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 432 | 206 |
@@ -426,7 +426,7 @@
 | 412 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 708 | 167 |
 | 412 | [Wall World](games/w/wall_world.md) | 4.59 | 0 | 512 |
 | 426 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.58 | 0 | 512 |
-| 426 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 60,023 | 11 |
+| 426 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 60,056 | 11 |
 | 426 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 162 | 292 |
 | 426 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 0 | 512 |
 | 426 | [Deceive Inc.](games/d/deceive_inc..md) | 4.58 | 0 | 512 |
@@ -500,7 +500,7 @@
 | 484 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,237 | 133 |
 | 499 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 5,660 | 63 |
 | 499 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 34 | 442 |
-| 499 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,278 | 131 |
+| 499 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,282 | 131 |
 | 499 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.54 | 67 | 381 |
 | 499 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.54 | 72 | 374 |
 | 499 | [Oxenfree](games/o/oxenfree.md) | 4.54 | 0 | 512 |
@@ -531,7 +531,7 @@
 | 526 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.52 | 34 | 442 |
 | 526 | [Fall Guys](games/f/fall_guys.md) | 4.52 | 146,219 | 7 |
 | 526 | [For Honor Standard Edition](games/f/for_honor_standard_edition.md) | 4.52 | 0 | 512 |
-| 526 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 523 | 195 |
+| 526 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 525 | 195 |
 | 526 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 102 | 333 |
 | 526 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 124 | 312 |
 | 526 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 0 | 512 |

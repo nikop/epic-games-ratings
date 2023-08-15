@@ -3,14 +3,14 @@
 | 1 | [Fortnite](games/f/fortnite.md) | 1,580,163 | 4.29 | 793 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 502,996 | 4.49 | 576 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 302,069 | 4.68 | 238 |
-| 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 211,938 | 4.68 | 238 |
+| 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 212,356 | 4.68 | 238 |
 | 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 193,687 | 4.19 | 864 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 167,200 | 4.88 | 18 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 146,219 | 4.52 | 526 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 114,706 | 4.69 | 213 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 75,493 | 4.62 | 342 |
 | 10 | [VALORANT](games/v/valorant.md) | 64,736 | 4.53 | 511 |
-| 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 60,023 | 4.58 | 426 |
+| 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 60,056 | 4.58 | 426 |
 | 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 42,978 | 4.61 | 364 |
 | 13 | [Destiny 2](games/d/destiny_2.md) | 36,326 | 4.49 | 576 |
 | 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 36,013 | 4.74 | 145 |
@@ -40,7 +40,7 @@
 | 38 | [HITMAN World of Assassination](games/h/hitman_3.md) | 9,711 | 4.78 | 101 |
 | 39 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 8,785 | 4.58 | 426 |
 | 40 | [Control](games/c/control.md) | 8,442 | 4.60 | 390 |
-| 41 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 7,941 | 4.89 | 12 |
+| 41 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 7,947 | 4.89 | 12 |
 | 42 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 7,780 | 4.48 | 591 |
 | 43 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,764 | 4.85 | 42 |
 | 44 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,674 | 4.57 | 450 |
@@ -130,7 +130,7 @@
 | 128 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 1,383 | 4.86 | 29 |
 | 129 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,314 | 4.70 | 198 |
 | 130 | [DOOM 64](games/d/doom_64.md) | 1,292 | 4.66 | 274 |
-| 131 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 1,278 | 4.54 | 499 |
+| 131 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 1,282 | 4.54 | 499 |
 | 132 | [World of Warships](games/w/world_of_warships.md) | 1,260 | 4.42 | 665 |
 | 133 | [XCOM® 2](games/x/xcom®_2.md) | 1,237 | 4.55 | 484 |
 | 134 | [OUTRIDERS](games/o/outriders.md) | 1,189 | 4.42 | 665 |
@@ -194,7 +194,7 @@
 | 191 | [Vampyr](games/v/vampyr.md) | 555 | 4.32 | 775 |
 | 193 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 550 | 4.24 | 829 |
 | 194 | [Godfall Ultimate Edition](games/g/godfall.md) | 537 | 4.07 | 917 |
-| 195 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 523 | 4.52 | 526 |
+| 195 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 525 | 4.52 | 526 |
 | 196 | [MORDHAU](games/m/mordhau.md) | 515 | 4.39 | 707 |
 | 197 | [Terraforming Mars](games/t/terraforming_mars.md) | 510 | 4.53 | 511 |
 | 198 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 492 | 4.86 | 29 |

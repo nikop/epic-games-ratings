@@ -2,7 +2,7 @@
 | - | ---- | --------- |
 | 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.65% |
 | 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.42% |
-| 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 38.64% |
+| 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 37.78% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
 | 5 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
 | 6 | [Overloop](games/o/overloop.md) | 25.00% |
@@ -53,13 +53,13 @@
 | 51 | [Bugsnax](games/b/bugsnax.md) | 4.71% |
 | 52 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.69% |
 | 53 | [JARS](games/j/jars.md) | 4.55% |
-| 53 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.55% |
+| 54 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.52% |
 | 55 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.35% |
 | 56 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.19% |
 | 57 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.05% |
 | 58 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 4.00% |
 | 59 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.90% |
-| 60 | [ZZT!](games/z/zzt!.md) | 3.75% |
+| 60 | [ZZT!](games/z/zzt!.md) | 3.78% |
 | 61 | [Without Escape](games/w/without_escape.md) | 3.70% |
 | 62 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 63 | [Doodle God](games/d/doodle_god.md) | 3.46% |
@@ -94,7 +94,7 @@
 | 92 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 93 | [Frogun](games/f/frogun.md) | 1.81% |
 | 94 | [Sifu](games/s/sifu.md) | 1.80% |
-| 95 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.68% |
+| 95 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.67% |
 | 96 | [Iron Danger](games/i/iron_danger.md) | 1.62% |
 | 97 | [Somerville](games/s/somerville.md) | 1.61% |
 | 98 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.60% |
