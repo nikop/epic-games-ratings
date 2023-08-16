@@ -6,58 +6,58 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~11,981 |
-| That's a Grand Army | 3.00% | ~8,986 |
-| That is mine! | 3.00% | ~8,986 |
-| Victorious! | 3.00% | ~8,986 |
-| Brothers in Arms | 2.00% | ~5,991 |
-| That's a Grand Navy | 2.00% | ~5,991 |
-| Seriously?! | 2.00% | ~5,991 |
-| Cold War | 1.00% | ~2,995 |
-| Defender of the Faith | 1.00% | ~2,995 |
-| For the Glory | 1.00% | ~2,995 |
-| It's all about the money | 1.00% | ~2,995 |
-| True Catholic | 1.00% | ~2,995 |
-| Respected | 0.90% | ~2,696 |
-| The Princess is in this Castle | 0.90% | ~2,696 |
-| It's all about luck | 0.80% | ~2,396 |
-| Truly Divine Ruler | 0.80% | ~2,396 |
-| Blockader | 0.70% | ~2,097 |
-| Double the Love | 0.70% | ~2,097 |
-| Royal Authority | 0.70% | ~2,097 |
-| Total Control | 0.70% | ~2,097 |
-| Combined Arms | 0.60% | ~1,797 |
-| My armies are invincible! | 0.60% | ~1,797 |
-| Agressive Expander | 0.50% | ~1,498 |
-| City of Cities | 0.50% | ~1,498 |
-| Azur semé de lis or | 0.40% | ~1,198 |
-| Bright Spark | 0.40% | ~1,198 |
-| Factionalism | 0.40% | ~1,198 |
-| Gentle Persuasion | 0.40% | ~1,198 |
-| Queen of Conquest | 0.40% | ~1,198 |
-| This navy can take it all | 0.40% | ~1,198 |
-| All That's Thine Shall Be Mine | 0.30% | ~899 |
-| Down Under | 0.30% | ~899 |
-| The Emperors new clothes | 0.30% | ~899 |
-| A Golden Empire | 0.30% | ~899 |
-| Isn't this the way to India? | 0.30% | ~899 |
-| Market Control | 0.30% | ~899 |
-| The Five Colonies | 0.30% | ~899 |
-| Trustworthy | 0.30% | ~899 |
-| All belongs to Mother Russia | 0.20% | ~599 |
-| At every continent | 0.20% | ~599 |
-| Early-Modern Warfare | 0.20% | ~599 |
-| Electable! | 0.20% | ~599 |
-| Grand Coalition | 0.20% | ~599 |
-| One Family to Rule them All | 0.20% | ~599 |
-| Populists in Government | 0.20% | ~599 |
-| Ruina Imperii | 0.20% | ~599 |
-| The pen is mightier than the sword | 0.20% | ~599 |
-| This is My Faith | 0.20% | ~599 |
-| Time Bandit | 0.20% | ~599 |
-| Traditional Player | 0.20% | ~599 |
-| Trophy Hunter | 0.20% | ~599 |
-| Voting Streak | 0.20% | ~599 |
+| Until death do us apart | 4.00% | ~12,008 |
+| That's a Grand Army | 3.00% | ~9,006 |
+| That is mine! | 3.00% | ~9,006 |
+| Victorious! | 3.00% | ~9,006 |
+| Brothers in Arms | 2.00% | ~6,004 |
+| That's a Grand Navy | 2.00% | ~6,004 |
+| Seriously?! | 2.00% | ~6,004 |
+| Cold War | 1.00% | ~3,002 |
+| Defender of the Faith | 1.00% | ~3,002 |
+| For the Glory | 1.00% | ~3,002 |
+| It's all about the money | 1.00% | ~3,002 |
+| True Catholic | 1.00% | ~3,002 |
+| Respected | 0.90% | ~2,702 |
+| The Princess is in this Castle | 0.90% | ~2,702 |
+| It's all about luck | 0.80% | ~2,402 |
+| Truly Divine Ruler | 0.80% | ~2,402 |
+| Blockader | 0.70% | ~2,101 |
+| Double the Love | 0.70% | ~2,101 |
+| Royal Authority | 0.70% | ~2,101 |
+| Total Control | 0.70% | ~2,101 |
+| Combined Arms | 0.60% | ~1,801 |
+| My armies are invincible! | 0.60% | ~1,801 |
+| Agressive Expander | 0.50% | ~1,501 |
+| City of Cities | 0.50% | ~1,501 |
+| Azur semé de lis or | 0.40% | ~1,201 |
+| Bright Spark | 0.40% | ~1,201 |
+| Factionalism | 0.40% | ~1,201 |
+| Gentle Persuasion | 0.40% | ~1,201 |
+| Queen of Conquest | 0.40% | ~1,201 |
+| This navy can take it all | 0.40% | ~1,201 |
+| All That's Thine Shall Be Mine | 0.30% | ~901 |
+| Down Under | 0.30% | ~901 |
+| The Emperors new clothes | 0.30% | ~901 |
+| A Golden Empire | 0.30% | ~901 |
+| Isn't this the way to India? | 0.30% | ~901 |
+| Market Control | 0.30% | ~901 |
+| The Five Colonies | 0.30% | ~901 |
+| Trustworthy | 0.30% | ~901 |
+| All belongs to Mother Russia | 0.20% | ~600 |
+| At every continent | 0.20% | ~600 |
+| Early-Modern Warfare | 0.20% | ~600 |
+| Electable! | 0.20% | ~600 |
+| Grand Coalition | 0.20% | ~600 |
+| One Family to Rule them All | 0.20% | ~600 |
+| Populists in Government | 0.20% | ~600 |
+| Ruina Imperii | 0.20% | ~600 |
+| The pen is mightier than the sword | 0.20% | ~600 |
+| This is My Faith | 0.20% | ~600 |
+| Time Bandit | 0.20% | ~600 |
+| Traditional Player | 0.20% | ~600 |
+| Trophy Hunter | 0.20% | ~600 |
+| Voting Streak | 0.20% | ~600 |
 | The 52 Garhs | 0.10% | ~300 |
 | I don't like sand | 0.10% | ~300 |
 | A Blessed Nation | 0.10% | ~300 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 299,528 (Ranked 42)  
+Progressed: 300,201 (Ranked 42)  
 Completed: 0 (0.00%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -479,6 +479,7 @@ Completed: 0 (0.00%) (Ranked 257)
 | 2023-08-13 | 254,035 | 0 |
 | 2023-08-14 | 278,277 | 0 |
 | 2023-08-15 | 299,528 | 0 |
+| 2023-08-16 | 300,201 | 0 |
 ## Awards
 Max (Educational): 5,679  (Ranked 62)  
 Sum: 46,869 (Ranked 26)  

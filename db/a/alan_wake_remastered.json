@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 60907,
+  "EOS_Progressed": 60908,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 362,
+  "EOS_NewPlayers": 359,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -11352,6 +11352,11 @@
       "Time": "2023-08-15T23:06:46.445217+00:00",
       "NumProgressed": 60907,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-16T00:06:15.4219166+00:00",
+      "NumProgressed": 60908,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -11377,9 +11382,9 @@
       "ID": "03",
       "SetID": "212770e",
       "Name": "Bright Falls\u0027 Finest",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 13400
+      "UsersEstimate": 14009
     },
     {
       "ID": "04",
@@ -11395,7 +11400,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 12181
+      "UsersEstimate": 12182
     },
     {
       "ID": "06",
@@ -11483,7 +11488,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4263
+      "UsersEstimate": 4264
     },
     {
       "ID": "17",
@@ -11491,7 +11496,7 @@
       "Name": "Departure",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4263
+      "UsersEstimate": 4264
     },
     {
       "ID": "18",
@@ -11771,7 +11776,7 @@
       "Name": "A Friend Indeed",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1462
+      "UsersEstimate": 1463
     },
     {
       "ID": "53",
@@ -11898,21 +11903,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 60907,
+      "Progressed": 60908,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 24375,
+      "Progressed": 24376,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-15T23:06:46.4452163+00:00",
+  "LastChanged_Achievements": "2023-08-16T00:06:15.4219159+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:20.2881971+00:00",
-  "LastUpdate_Ratings": "2023-08-15T22:59:46.9341296+00:00",
-  "LastUpdate_Achievements": "2023-08-15T23:06:46.4454481+00:00"
+  "LastUpdate_Ratings": "2023-08-15T23:59:21.3459085+00:00",
+  "LastUpdate_Achievements": "2023-08-16T00:06:15.4220578+00:00"
 }

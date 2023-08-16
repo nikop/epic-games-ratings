@@ -6,9 +6,9 @@ Rating: 4.18 (Ranked 869)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 50.00% | ~33,928 |
-| Har, Har, Har, Very Funny | 35.00% | ~23,749 |
+| Har, Har, Har, Very Funny | 35.00% | ~23,750 |
 | Loose Ends | 34.00% | ~23,071 |
-| To the Victor Go the Spoils | 28.00% | ~18,999 |
+| To the Victor Go the Spoils | 28.00% | ~19,000 |
 | Knighthood | 27.00% | ~18,321 |
 | Get ReQ'd | 25.00% | ~16,964 |
 | Whispered Words | 25.00% | ~16,964 |
@@ -19,7 +19,7 @@ Rating: 4.18 (Ranked 869)
 | Working Hard or Harley Working? | 20.00% | ~13,571 |
 | Unstoppable Force | 20.00% | ~13,571 |
 | Bad Apples in Every Orchard | 20.00% | ~13,571 |
-| Snow Problem | 19.00% | ~12,892 |
+| Snow Problem | 19.00% | ~12,893 |
 | The Show Mud Go On | 18.00% | ~12,214 |
 | From Inside Gotham's Walls | 18.00% | ~12,214 |
 | Protector of Gotham | 16.00% | ~10,857 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 869)
 | Element of Surprise | 0.20% | ~76 |
 | It's Nice to Be Wanted | 0.20% | ~76 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,855 (Ranked 80)  
+Progressed: 67,856 (Ranked 80)  
 Completed: 107 (0.16%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,9 +185,10 @@ Completed: 107 (0.16%) (Ranked 190)
 | 2023-08-13 | 67,820 | 107 |
 | 2023-08-14 | 67,839 | 107 |
 | 2023-08-15 | 67,855 | 107 |
+| 2023-08-16 | 67,856 | 107 |
 ## Awards
 Max (Great Boss Battles): 2,501  (Ranked 100)  
-Sum: 4,160 (Ranked 140)  
+Sum: 4,161 (Ranked 140)  
 Diff (max vs sum): -40  
 | Award | Count |
 | ----- | ----- |
@@ -199,7 +200,7 @@ Diff (max vs sum): -40
 | This game has Amazing Characters | 206 |
 | This game has Amazing Storytelling | 205 |
 | This game is Great for Beginners | 203 |
-| This game is Highly Recommended | 200 |
+| This game is Highly Recommended | 201 |
 | This game is Great for Quick Sessions | 60 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -378,3 +379,4 @@ Diff (max vs sum): -40
 | 2023-08-13 | 4.18 | 2,491 | 4,145 |
 | 2023-08-14 | 4.18 | 2,498 | 4,156 |
 | 2023-08-15 | 4.18 | 2,501 | 4,160 |
+| 2023-08-16 | 4.18 | 2,501 | 4,161 |

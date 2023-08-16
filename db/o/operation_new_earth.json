@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 918,
+  "EOS_Progressed": 919,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3236,6 +3236,11 @@
       "Time": "2023-08-15T18:04:09.1039438+00:00",
       "NumProgressed": 918,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-16T00:03:27.0390139+00:00",
+      "NumProgressed": 919,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -3311,7 +3316,7 @@
       "Name": "Silver Competitor",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ach_silver_rewards_50",
@@ -3365,9 +3370,9 @@
       "ID": "objective_hero_level_up_2",
       "SetID": "bm61c2p",
       "Name": "Sergeant",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 119
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -3503,7 +3508,7 @@
       "Name": "Defenses Online",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -3550,14 +3555,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 918,
+      "Progressed": 919,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-15T23:03:38.7223254+00:00",
+  "LastChanged_Achievements": "2023-08-16T00:03:27.0390132+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:27.4280109+00:00",
-  "LastUpdate_Ratings": "2023-08-15T22:58:26.5455119+00:00",
-  "LastUpdate_Achievements": "2023-08-15T23:03:38.7223766+00:00"
+  "LastUpdate_Ratings": "2023-08-15T23:58:01.4038264+00:00",
+  "LastUpdate_Achievements": "2023-08-16T00:03:27.0390645+00:00"
 }

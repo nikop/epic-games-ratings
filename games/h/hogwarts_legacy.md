@@ -10,15 +10,15 @@ Rating: 4.77 (Ranked 108)
 | Troll with the Punches | 11.00% | ~31,919 |
 | A Keen Sense of Spell | 10.00% | ~29,017 |
 | That's a Keeper | 10.00% | ~29,017 |
-| Grappling with a Graphorn | 9.00% | ~26,115 |
-| The One Who Mastered Memories | 9.00% | ~26,115 |
-| The Hallowed Hero | 9.00% | ~26,115 |
-| The Hero of Hogwarts | 9.00% | ~26,115 |
-| The Defender of Dragons | 9.00% | ~26,115 |
-| Challenge Accepted | 9.00% | ~26,115 |
-| Loom for Improvement | 9.00% | ~26,115 |
-| A Talent for Spending | 9.00% | ~26,115 |
-| Coasting Along | 9.00% | ~26,115 |
+| Grappling with a Graphorn | 9.00% | ~26,116 |
+| The One Who Mastered Memories | 9.00% | ~26,116 |
+| The Hallowed Hero | 9.00% | ~26,116 |
+| The Hero of Hogwarts | 9.00% | ~26,116 |
+| The Defender of Dragons | 9.00% | ~26,116 |
+| Challenge Accepted | 9.00% | ~26,116 |
+| Loom for Improvement | 9.00% | ~26,116 |
+| A Talent for Spending | 9.00% | ~26,116 |
+| Coasting Along | 9.00% | ~26,116 |
 | Followed the Butterflies | 8.00% | ~23,214 |
 | Rising From the Ashes | 8.00% | ~23,214 |
 | The Avenging Gazelle | 7.00% | ~20,312 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 108)
 | The Nature of the Beast | 0.60% | ~1,741 |
 | Collector's Edition | 0.30% | ~871 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290,171 (Ranked 43)  
+Progressed: 290,174 (Ranked 43)  
 Completed: 451 (0.16%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,6 +169,7 @@ Completed: 451 (0.16%) (Ranked 190)
 | 2023-08-13 | 290,043 | 451 |
 | 2023-08-14 | 290,112 | 451 |
 | 2023-08-15 | 290,171 | 451 |
+| 2023-08-16 | 290,174 | 451 |
 ## Awards
 Max (Character Customization): 21,755  (Ranked 17)  
 Sum: 41,047 (Ranked 30)  

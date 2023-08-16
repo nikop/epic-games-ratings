@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 17,
   "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2023-07-28T07:00:00+00:00",
     "PcReleaseDate": "2022-06-15T07:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 123,
-  "EOS_Completed": 19,
+  "EOS_Completed": 20,
   "EOS_NewPlayers": 13,
-  "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 15.45,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 16.26,
   "EosHistory": [
     {
       "Time": "2023-07-27T20:02:52.2340673+00:00",
@@ -521,6 +521,11 @@
       "Time": "2023-08-15T23:03:35.1178909+00:00",
       "NumProgressed": 123,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-08-16T00:03:23.3045611+00:00",
+      "NumProgressed": 123,
+      "NumCompleted": 20
     }
   ],
   "AchievementsAdded": "2023-07-27T20:02:52.2356404+00:00",
@@ -603,17 +608,17 @@
       "ID": "ach_skip_3",
       "SetID": "5e260i9",
       "Name": "Advance further!",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 80,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ach_skip_5",
       "SetID": "5e260i9",
       "Name": "Skip and conquer!",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 150,
-      "UsersEstimate": 23
+      "UsersEstimate": 25
     }
   ],
   "AchievementSets": [
@@ -621,13 +626,13 @@
       "ID": "5e260i9",
       "IsBase": true,
       "Progressed": 123,
-      "Completed": 19
+      "Completed": 20
     }
   ],
   "FirstSeen": "2023-07-30T16:57:15.6867124+00:00",
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2023-08-15T23:03:35.1178902+00:00",
+  "LastChanged_Achievements": "2023-08-16T00:03:23.3045603+00:00",
   "LastUpdate_AppInfo": "2023-08-10T21:57:07.638473+00:00",
-  "LastUpdate_Ratings": "2023-08-15T22:58:28.9650364+00:00",
-  "LastUpdate_Achievements": "2023-08-15T23:03:35.1179041+00:00"
+  "LastUpdate_Ratings": "2023-08-15T23:58:04.4775485+00:00",
+  "LastUpdate_Achievements": "2023-08-16T00:03:23.3045832+00:00"
 }

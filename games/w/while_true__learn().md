@@ -6,13 +6,13 @@ Number of Ratings: 896  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First.. Bit? | 93.00% | ~558,463 |
-| Error: Stack Overflow | 66.00% | ~396,329 |
-| We need more gold | 60.00% | ~360,299 |
-| The dawn of civilization | 53.00% | ~318,264 |
-| More FPS for the FPS god! | 49.00% | ~294,244 |
-| Beauty and harmony | 48.00% | ~288,239 |
-| One more! | 44.00% | ~264,219 |
+| First.. Bit? | 93.00% | ~558,466 |
+| Error: Stack Overflow | 66.00% | ~396,331 |
+| We need more gold | 60.00% | ~360,301 |
+| The dawn of civilization | 53.00% | ~318,266 |
+| More FPS for the FPS god! | 49.00% | ~294,245 |
+| Beauty and harmony | 48.00% | ~288,240 |
+| One more! | 44.00% | ~264,220 |
 | Overmind | 24.00% | ~144,120 |
 | RNG is my best friend now | 18.00% | ~108,090 |
 | Cosplay | 13.00% | ~78,065 |
@@ -28,14 +28,14 @@ Number of Ratings: 896  (23.09.2022)
 | Cybergeek 2047 | 2.00% | ~12,010 |
 | Ping | 1.00% | ~6,005 |
 | Magna cum laude | 1.00% | ~6,005 |
-| The hoarder | 0.90% | ~5,404 |
-| Deal with it! | 0.50% | ~3,002 |
+| The hoarder | 0.90% | ~5,405 |
+| Deal with it! | 0.50% | ~3,003 |
 | Gold rush | 0.40% | ~2,402 |
 | Cat-o-holic | 0.40% | ~2,402 |
-| Elements will destroy you! | 0.30% | ~1,801 |
-| The Scrooge | 0.10% | ~600 |
+| Elements will destroy you! | 0.30% | ~1,802 |
+| The Scrooge | 0.10% | ~601 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 600,498 (Ranked 28)  
+Progressed: 600,501 (Ranked 28)  
 Completed: 516 (0.09%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,6 +153,7 @@ Completed: 516 (0.09%) (Ranked 209)
 | 2023-08-13 | 600,247 | 515 |
 | 2023-08-14 | 600,359 | 516 |
 | 2023-08-15 | 600,498 | 516 |
+| 2023-08-16 | 600,501 | 516 |
 ## Awards
 Max (Challenging Puzzles): 134  (Ranked 307)  
 Sum: 134 (Ranked 402)  

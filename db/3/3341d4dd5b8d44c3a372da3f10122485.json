@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 74,
-  "EOS_Completed": 36,
+  "EOS_Completed": 37,
   "EOS_NewPlayers": 14,
-  "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 48.65,
+  "EOS_NewCompleters": 9,
+  "EOS_Completed_Percentage": 50,
   "EosHistory": [
     {
       "Time": "2023-06-30T19:02:26.4579198+00:00",
@@ -516,6 +516,11 @@
       "Time": "2023-08-14T15:02:31.0842718+00:00",
       "NumProgressed": 74,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-08-16T00:03:50.626669+00:00",
+      "NumProgressed": 74,
+      "NumCompleted": 37
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.1574321+00:00",
@@ -550,9 +555,9 @@
       "ID": "Kompotarna",
       "SetID": "823jm6g",
       "Name": "Pantry",
-      "Percentage": 86,
+      "Percentage": 88,
       "XP": 80,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "Konec",
@@ -598,25 +603,25 @@
       "ID": "Poklop",
       "SetID": "823jm6g",
       "Name": "Hatch",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 75,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "Snekoun",
       "SetID": "823jm6g",
       "Name": "Snailman",
-      "Percentage": 89,
+      "Percentage": 91,
       "XP": 80,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "Sopouch",
       "SetID": "823jm6g",
       "Name": "Pit",
-      "Percentage": 86,
+      "Percentage": 88,
       "XP": 75,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "Tuleni",
@@ -632,13 +637,13 @@
       "ID": "823jm6g",
       "IsBase": true,
       "Progressed": 74,
-      "Completed": 36
+      "Completed": 37
     }
   ],
   "FirstSeen": "2023-07-09T20:57:11.2117927+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2023-08-15T23:04:22.7987517+00:00",
+  "LastChanged_Achievements": "2023-08-16T00:03:50.6266679+00:00",
   "LastUpdate_AppInfo": "2023-08-11T16:57:04.3242368+00:00",
-  "LastUpdate_Ratings": "2023-08-15T22:58:49.4653102+00:00",
-  "LastUpdate_Achievements": "2023-08-15T23:04:22.7987728+00:00"
+  "LastUpdate_Ratings": "2023-08-15T23:58:22.1065725+00:00",
+  "LastUpdate_Achievements": "2023-08-16T00:03:50.6266904+00:00"
 }

@@ -26,9 +26,9 @@ Number of Ratings: 154  (23.09.2022)
 | Very First Mission Clear! | 47.00% | ~186 |
 | Super Sonic | 47.00% | ~186 |
 | Beware Stingers! | 46.00% | ~182 |
+| Cleared Sonic the Hedgehog 2 | 44.00% | ~174 |
 | Beware Moto Bugs! | 43.00% | ~170 |
 | Cleared Sonic CD | 43.00% | ~170 |
-| Cleared Sonic the Hedgehog 2 | 43.00% | ~170 |
 | Cleared Sonic the Hedgehog 3 & Knuckles | 40.00% | ~158 |
 | All Clear! | 33.00% | ~131 |
 | Lucky Hedgehog | 32.00% | ~127 |

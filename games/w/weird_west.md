@@ -164,9 +164,9 @@ Completed: 4 (0.22%) (Ranked 181)
 | 2023-08-14 | 1,805 | 4 |
 | 2023-08-15 | 1,806 | 4 |
 ## Awards
-Max (Impact the Story): 24  (Ranked 483)  
+Max (Impact the Story): 24  (Ranked 484)  
 Sum: 24 (Ranked 488)  
-Diff (max vs sum): -5  
+Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 24 |
