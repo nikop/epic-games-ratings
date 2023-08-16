@@ -2,7 +2,7 @@
   "ID": "2e92a78949e2474aa89271b8b893f3b0",
   "Name": "Alan Wake Remastered",
   "ProductSlug": "alan-wake-remastered",
-  "Ranking_Rating": 485,
+  "Ranking_Rating": 486,
   "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 85,
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 60937,
+  "EOS_Progressed": 60939,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 356,
+  "EOS_NewPlayers": 357,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -11422,6 +11422,11 @@
       "Time": "2023-08-16T15:05:51.1116841+00:00",
       "NumProgressed": 60937,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-16T16:06:16.4794005+00:00",
+      "NumProgressed": 60939,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -11457,7 +11462,7 @@
       "Name": "Boob Tube",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2437
+      "UsersEstimate": 2438
     },
     {
       "ID": "05",
@@ -11465,7 +11470,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 12187
+      "UsersEstimate": 12188
     },
     {
       "ID": "06",
@@ -11481,7 +11486,7 @@
       "Name": "Heavy Metal",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7312
+      "UsersEstimate": 7313
     },
     {
       "ID": "08",
@@ -11489,7 +11494,7 @@
       "Name": "Iron Horse",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7312
+      "UsersEstimate": 7313
     },
     {
       "ID": "09",
@@ -11585,7 +11590,7 @@
       "Name": "If It Flies, It Burns",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2437
+      "UsersEstimate": 2438
     },
     {
       "ID": "21",
@@ -11641,7 +11646,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7312
+      "UsersEstimate": 7313
     },
     {
       "ID": "28",
@@ -11649,7 +11654,7 @@
       "Name": "Come One, Come All",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7312
+      "UsersEstimate": 7313
     },
     {
       "ID": "29",
@@ -11705,7 +11710,7 @@
       "Name": "Let There Be Light",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 18281
+      "UsersEstimate": 18282
     },
     {
       "ID": "36",
@@ -11745,7 +11750,7 @@
       "Name": "Right of Way",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5484
+      "UsersEstimate": 5485
     },
     {
       "ID": "41",
@@ -11809,7 +11814,7 @@
       "Name": "KBF-FM",
       "Percentage": 4,
       "XP": 110,
-      "UsersEstimate": 2437
+      "UsersEstimate": 2438
     },
     {
       "ID": "49",
@@ -11833,7 +11838,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1952
+      "UsersEstimate": 1953
     },
     {
       "ID": "52",
@@ -11968,21 +11973,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 60937,
+      "Progressed": 60939,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 24405,
+      "Progressed": 24407,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-16T15:05:51.111683+00:00",
+  "LastChanged_Achievements": "2023-08-16T16:06:16.4793998+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:20.2881971+00:00",
-  "LastUpdate_Ratings": "2023-08-16T14:58:59.6480821+00:00",
-  "LastUpdate_Achievements": "2023-08-16T15:05:51.1117854+00:00"
+  "LastUpdate_Ratings": "2023-08-16T15:59:14.0939853+00:00",
+  "LastUpdate_Achievements": "2023-08-16T16:06:16.4796439+00:00"
 }

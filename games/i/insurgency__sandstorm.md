@@ -8,9 +8,9 @@ Number of Ratings: 1,316  (23.09.2022)
 | ---- | ---------- | ----- |
 | Point Shooting | 5.00% | ~21,658 |
 | Wallbanger | 5.00% | ~21,658 |
-| Exploitative | 4.00% | ~17,326 |
-| High Speed Low Drag | 4.00% | ~17,326 |
-| Wet Feet | 4.00% | ~17,326 |
+| Exploitative | 4.00% | ~17,327 |
+| High Speed Low Drag | 4.00% | ~17,327 |
+| Wet Feet | 4.00% | ~17,327 |
 | Lucky | 3.00% | ~12,995 |
 | Stylin' | 3.00% | ~12,995 |
 | Turf War | 3.00% | ~12,995 |
@@ -23,10 +23,10 @@ Number of Ratings: 1,316  (23.09.2022)
 | Blindfire | 1.00% | ~4,332 |
 | Ruthless | 1.00% | ~4,332 |
 | Semper Paratus | 1.00% | ~4,332 |
-| Carrying | 0.90% | ~3,898 |
-| Efficient | 0.90% | ~3,898 |
-| Mount & Gun | 0.90% | ~3,898 |
-| Personal | 0.90% | ~3,898 |
+| Carrying | 0.90% | ~3,899 |
+| Efficient | 0.90% | ~3,899 |
+| Mount & Gun | 0.90% | ~3,899 |
+| Personal | 0.90% | ~3,899 |
 | Grounded | 0.80% | ~3,465 |
 | Play to Win | 0.80% | ~3,465 |
 | #1 | 0.70% | ~3,032 |
@@ -34,15 +34,15 @@ Number of Ratings: 1,316  (23.09.2022)
 | Firefight Victory | 0.60% | ~2,599 |
 | Cinematic | 0.50% | ~2,166 |
 | Thanks Station! | 0.40% | ~1,733 |
-| Knock Knock | 0.30% | ~1,299 |
-| There For You | 0.30% | ~1,299 |
+| Knock Knock | 0.30% | ~1,300 |
+| There For You | 0.30% | ~1,300 |
 | Hit and Run | 0.20% | ~866 |
 | Designated Driver | 0.10% | ~433 |
 | J.R. .50 | 0.10% | ~433 |
 | It's All in the Reflexes | 0.10% | ~433 |
 | Road Hazard | 0.10% | ~433 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 433,153 (Ranked 38)  
+Progressed: 433,170 (Ranked 38)  
 Completed: 2 (0.00%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,17 +160,17 @@ Completed: 2 (0.00%) (Ranked 258)
 | 2023-08-13 | 432,353 | 2 |
 | 2023-08-14 | 432,656 | 2 |
 | 2023-08-15 | 432,984 | 2 |
-| 2023-08-16 | 433,153 | 2 |
+| 2023-08-16 | 433,170 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 375  (Ranked 221)  
-Sum: 2,896 (Ranked 166)  
-Diff (max vs sum): 55  
+Sum: 2,897 (Ranked 167)  
+Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 375 |
 | This game has Challenging Combat | 351 |
 | This game is Extremely Fun | 340 |
-| This game has Competitive Players | 337 |
+| This game has Competitive Players | 338 |
 | This game has Realistic Visuals | 311 |
 | This game is Highly Recommended | 310 |
 | This game has Amazing Storytelling | 305 |
@@ -387,4 +387,4 @@ Diff (max vs sum): 55
 | 2023-08-13 | 4.62 | - | 374 | 2,887 |
 | 2023-08-14 | 4.62 | - | 375 | 2,888 |
 | 2023-08-15 | 4.62 | - | 375 | 2,892 |
-| 2023-08-16 | 4.62 | - | 375 | 2,896 |
+| 2023-08-16 | 4.62 | - | 375 | 2,897 |

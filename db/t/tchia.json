@@ -212,9 +212,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7012,
+  "EOS_Progressed": 7015,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -5687,6 +5687,11 @@
       "Time": "2023-08-16T15:05:41.4450763+00:00",
       "NumProgressed": 7012,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-08-16T16:06:03.9707196+00:00",
+      "NumProgressed": 7015,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 21,
@@ -5698,7 +5703,7 @@
       "Name": "Ahem Ahem",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 701
+      "UsersEstimate": 702
     },
     {
       "ID": "ARRR",
@@ -5722,7 +5727,7 @@
       "Name": "Body and Soul",
       "Percentage": 11,
       "XP": 80,
-      "UsersEstimate": 771
+      "UsersEstimate": 772
     },
     {
       "ID": "CA_DE_WIZZ",
@@ -5746,7 +5751,7 @@
       "Name": "Energy Saver",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 1192
+      "UsersEstimate": 1193
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -5770,7 +5775,7 @@
       "Name": "Globe Trotter",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 771
+      "UsersEstimate": 772
     },
     {
       "ID": "HAPPY_CAMPER",
@@ -5818,7 +5823,7 @@
       "Name": "Live Wire",
       "Percentage": 4,
       "XP": 80,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "SHREDDER",
@@ -5865,7 +5870,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7012,
+      "Progressed": 7015,
       "Completed": 32
     }
   ],
@@ -5873,8 +5878,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-08-07T01:56:04.2387619+00:00",
-  "LastChanged_Achievements": "2023-08-16T15:05:41.4450758+00:00",
+  "LastChanged_Achievements": "2023-08-16T16:06:03.9707189+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:36.6050185+00:00",
-  "LastUpdate_Ratings": "2023-08-16T14:59:16.9943086+00:00",
-  "LastUpdate_Achievements": "2023-08-16T15:05:41.4451131+00:00"
+  "LastUpdate_Ratings": "2023-08-16T15:59:32.549715+00:00",
+  "LastUpdate_Achievements": "2023-08-16T16:06:03.9708086+00:00"
 }

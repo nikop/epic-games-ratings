@@ -4,7 +4,7 @@
   "ProductSlug": "elypse-b177a8",
   "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewPlayers": 309,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-05-17T15:00:00+00:00",
@@ -467,9 +467,9 @@
       "ID": "Ach_BossGolem",
       "SetID": "4o5gjp0",
       "Name": "Rock Solid",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "Ach_BossSlug",
@@ -523,9 +523,9 @@
       "ID": "Ach_DeathXTime",
       "SetID": "4o5gjp0",
       "Name": "Masochistic",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "Ach_DiscoveryCatacombes",
@@ -714,8 +714,8 @@
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2023-08-16T15:05:46.5741918+00:00",
+  "LastChanged_Achievements": "2023-08-16T16:06:10.4744102+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:48.236431+00:00",
-  "LastUpdate_Ratings": "2023-08-16T14:59:28.1522308+00:00",
-  "LastUpdate_Achievements": "2023-08-16T15:05:46.5742137+00:00"
+  "LastUpdate_Ratings": "2023-08-16T15:59:45.5274003+00:00",
+  "LastUpdate_Achievements": "2023-08-16T16:06:10.4744388+00:00"
 }

@@ -3206,9 +3206,9 @@
       "ID": "ExtractorSkullUses",
       "SetID": "3jha1np",
       "Name": "Surgical Excision",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 63
     },
     {
       "ID": "FinalMissionVictory_NoMasterCraft",
@@ -3502,9 +3502,9 @@
       "ID": "Preservationist",
       "SetID": "2im8phi",
       "Name": "Preservationist",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 13
     },
     {
       "ID": "ReaperDefeated_Dolorus",
@@ -3668,8 +3668,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-08-15T20:00:46.6433757+00:00",
-  "LastChanged_Achievements": "2023-08-16T15:05:54.6658327+00:00",
+  "LastChanged_Achievements": "2023-08-16T16:06:20.8669281+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:27.2561106+00:00",
-  "LastUpdate_Ratings": "2023-08-16T14:59:58.44799+00:00",
-  "LastUpdate_Achievements": "2023-08-16T15:05:54.6658989+00:00"
+  "LastUpdate_Ratings": "2023-08-16T16:00:25.4090168+00:00",
+  "LastUpdate_Achievements": "2023-08-16T16:06:20.8670205+00:00"
 }

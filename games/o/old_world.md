@@ -7,28 +7,28 @@ Number of Ratings: 1,307  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Clergy | 4.00% | ~537 |
+| Explorer | 3.00% | ~403 |
 | Settler | 3.00% | ~403 |
 | Play a Single Player Game | 3.00% | ~403 |
-| Able | 2.00% | ~268 |
-| Architect | 2.00% | ~268 |
-| Enlightened | 2.00% | ~268 |
-| Explorer | 2.00% | ~268 |
-| Good | 2.00% | ~268 |
-| Intrepid | 2.00% | ~268 |
-| Just | 2.00% | ~268 |
-| Keystone | 2.00% | ~268 |
-| Learned | 2.00% | ~268 |
-| Mason | 2.00% | ~268 |
-| Noble | 2.00% | ~268 |
-| Pioneer | 2.00% | ~268 |
-| Strong | 2.00% | ~268 |
-| Friendly Family | 2.00% | ~268 |
-| Hanging Gardens | 2.00% | ~268 |
-| Oracle | 2.00% | ~268 |
-| Naming Landmarks | 2.00% | ~268 |
-| Trade Caravan | 2.00% | ~268 |
-| The Great Mage | 2.00% | ~268 |
-| Poetic Leader | 2.00% | ~268 |
+| Able | 2.00% | ~269 |
+| Architect | 2.00% | ~269 |
+| Enlightened | 2.00% | ~269 |
+| Good | 2.00% | ~269 |
+| Intrepid | 2.00% | ~269 |
+| Just | 2.00% | ~269 |
+| Keystone | 2.00% | ~269 |
+| Learned | 2.00% | ~269 |
+| Mason | 2.00% | ~269 |
+| Noble | 2.00% | ~269 |
+| Pioneer | 2.00% | ~269 |
+| Strong | 2.00% | ~269 |
+| Friendly Family | 2.00% | ~269 |
+| Hanging Gardens | 2.00% | ~269 |
+| Oracle | 2.00% | ~269 |
+| Naming Landmarks | 2.00% | ~269 |
+| Trade Caravan | 2.00% | ~269 |
+| The Great Mage | 2.00% | ~269 |
+| Poetic Leader | 2.00% | ~269 |
 | Regicide | 1.00% | ~134 |
 | Ambitious | 1.00% | ~134 |
 | Brilliant | 1.00% | ~134 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,424 (Ranked 117)  
+Progressed: 13,426 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -421,10 +421,10 @@ Completed: 5 (0.04%) (Ranked 227)
 | 2023-08-13 | 13,400 | 5 |
 | 2023-08-14 | 13,412 | 5 |
 | 2023-08-15 | 13,422 | 5 |
-| 2023-08-16 | 13,424 | 5 |
+| 2023-08-16 | 13,426 | 5 |
 ## Awards
 Max (Relaxing): 219  (Ranked 264)  
-Sum: 1,791 (Ranked 206)  
+Sum: 1,792 (Ranked 206)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
@@ -433,7 +433,7 @@ Diff (max vs sum): 58
 | This game is Extremely Fun | 206 |
 | This game is Highly Recommended | 205 |
 | This game is Educational | 203 |
-| This game has Challenging Combat | 193 |
+| This game has Challenging Combat | 194 |
 | This game has Quickly Understood Controls | 189 |
 | This game has Amazing Characters | 188 |
 | This game has Amazing Storytelling | 182 |
@@ -556,3 +556,4 @@ Diff (max vs sum): 58
 | 2023-08-11 | 4.65 | - | 219 | 1,789 |
 | 2023-08-12 | 4.65 | - | 219 | 1,790 |
 | 2023-08-15 | 4.65 | - | 219 | 1,791 |
+| 2023-08-16 | 4.65 | - | 219 | 1,792 |

@@ -5550,9 +5550,9 @@
       "ID": "ACHIEVEMENT_003",
       "SetID": "1a05lfd",
       "Name": "Hey Good Hookin",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 30,
-      "UsersEstimate": 3242
+      "UsersEstimate": 3291
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -5829,8 +5829,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-08-14T16:02:27.7559868+00:00",
-  "LastChanged_Achievements": "2023-08-16T15:05:29.3475994+00:00",
+  "LastChanged_Achievements": "2023-08-16T16:05:47.8234725+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:47.5047155+00:00",
-  "LastUpdate_Ratings": "2023-08-16T15:00:51.1485208+00:00",
-  "LastUpdate_Achievements": "2023-08-16T15:05:29.3476435+00:00"
+  "LastUpdate_Ratings": "2023-08-16T16:01:37.6948639+00:00",
+  "LastUpdate_Achievements": "2023-08-16T16:05:47.823578+00:00"
 }

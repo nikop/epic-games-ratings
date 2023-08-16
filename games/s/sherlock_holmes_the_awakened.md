@@ -10,14 +10,14 @@ Rating: 4.68 (Ranked 238)
 | High Profile | 59.00% | ~353 |
 | Whispers In The Dark | 58.00% | ~347 |
 | Fond Memories | 56.00% | ~335 |
+| History Check | 54.00% | ~323 |
 | A Method To His Madness | 54.00% | ~323 |
-| History Check | 53.00% | ~317 |
 | The New World | 50.00% | ~300 |
+| Gaze Into The Abyss | 49.00% | ~294 |
 | Open Sesame | 49.00% | ~294 |
 | Sticky Fingers | 49.00% | ~294 |
 | Knives Out | 49.00% | ~294 |
 | Lock, Stock, And Barrel | 48.00% | ~288 |
-| Gaze Into The Abyss | 48.00% | ~288 |
 | Back In The Saddle | 48.00% | ~288 |
 | Land, Ho! | 48.00% | ~288 |
 | No Man Is An Island | 47.00% | ~282 |

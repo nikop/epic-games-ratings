@@ -2,12 +2,12 @@
   "ID": "05ae696a3c5f49af91a7433547460c21",
   "Name": "Redout 2",
   "ProductSlug": "redout-2",
-  "Ranking_Rating": 590,
+  "Ranking_Rating": 591,
   "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1102,
+  "EOS_Progressed": 1103,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -785,6 +785,11 @@
       "Time": "2023-08-14T02:19:18.839383+00:00",
       "NumProgressed": 1102,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-16T16:05:52.1956491+00:00",
+      "NumProgressed": 1103,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -946,9 +951,9 @@
       "ID": "CAREERCLASSB",
       "SetID": "3dh70f3",
       "Name": "Enter the Speed Gauntlet",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 276
+      "UsersEstimate": 265
     },
     {
       "ID": "CAREERCLASSMASTERS",
@@ -1090,9 +1095,9 @@
       "ID": "ONEAESTHETIC",
       "SetID": "3dh70f3",
       "Name": "I just can\u0027t choose",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 276
+      "UsersEstimate": 265
     },
     {
       "ID": "ONELIVERY",
@@ -1116,7 +1121,7 @@
       "Name": "It\u0027s like an haircut",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "ONEPLATINUM",
@@ -1132,7 +1137,7 @@
       "Name": "Put it on a shelf",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "OVERTAKE100HUMANS",
@@ -1146,9 +1151,9 @@
       "ID": "PARMESANCHEESE",
       "SetID": "3dh70f3",
       "Name": "A Cheese Grater to the Face",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 220
+      "UsersEstimate": 210
     },
     {
       "ID": "TENPLATINUM",
@@ -1211,7 +1216,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1102,
+      "Progressed": 1103,
       "Completed": 0
     }
   ],
@@ -1219,8 +1224,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-07-10T22:58:27.6839393+00:00",
-  "LastChanged_Achievements": "2023-08-16T15:05:32.244464+00:00",
+  "LastChanged_Achievements": "2023-08-16T16:05:52.1956484+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:11.1989531+00:00",
-  "LastUpdate_Ratings": "2023-08-16T14:57:33.5148606+00:00",
-  "LastUpdate_Achievements": "2023-08-16T15:05:32.2445034+00:00"
+  "LastUpdate_Ratings": "2023-08-16T15:57:29.4827041+00:00",
+  "LastUpdate_Achievements": "2023-08-16T16:05:52.1957212+00:00"
 }

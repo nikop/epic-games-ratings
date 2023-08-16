@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -240,9 +240,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 829,
+  "EOS_Progressed": 830,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1760,6 +1760,11 @@
       "Time": "2023-08-15T12:07:25.3236519+00:00",
       "NumProgressed": 829,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-16T16:06:55.0572761+00:00",
+      "NumProgressed": 830,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -1769,9 +1774,9 @@
       "ID": "ACH000",
       "SetID": "69nfp41",
       "Name": "Cabin boy",
-      "Percentage": 81,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 671
+      "UsersEstimate": 664
     },
     {
       "ID": "ACH001",
@@ -1779,7 +1784,7 @@
       "Name": "Seafarer",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "ACH002",
@@ -1867,7 +1872,7 @@
       "Name": "3, 2, 1, mine",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "ACH013",
@@ -1891,7 +1896,7 @@
       "Name": "Groundskeeper",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "ACH016",
@@ -1915,7 +1920,7 @@
       "Name": "The Grande Bouffe",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH019",
@@ -1937,9 +1942,9 @@
       "ID": "ACH021",
       "SetID": "69nfp41",
       "Name": "Collectionitis",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 232
+      "UsersEstimate": 224
     },
     {
       "ID": "ACH022",
@@ -1955,7 +1960,7 @@
       "Name": "Gofer",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "ACH024",
@@ -2059,7 +2064,7 @@
       "Name": "Every beginning is difficult",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "ACH037",
@@ -2123,7 +2128,7 @@
       "Name": "Greed for gold",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "ACH045",
@@ -2163,22 +2168,22 @@
       "Name": "Wholesale",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     }
   ],
   "AchievementSets": [
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 829,
+      "Progressed": 830,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-07-02T02:29:11.8786643+00:00",
-  "LastChanged_Achievements": "2023-08-16T15:06:21.8021754+00:00",
+  "LastChanged_Achievements": "2023-08-16T16:06:55.0572754+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:10.480025+00:00",
-  "LastUpdate_Ratings": "2023-08-16T14:59:44.6569248+00:00",
-  "LastUpdate_Achievements": "2023-08-16T15:06:21.8022165+00:00"
+  "LastUpdate_Ratings": "2023-08-16T16:00:07.0402547+00:00",
+  "LastUpdate_Achievements": "2023-08-16T16:06:55.0574106+00:00"
 }

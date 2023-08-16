@@ -1,17 +1,17 @@
 # Redout 2
 [Store](https://store.epicgames.com/en-US/p/redout-2)  
 [View Rawdata](../../db/r/redout_2.json)  
-Rating: 4.48 (Ranked 590)  
+Rating: 4.48 (Ranked 591)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Rookie No More | 27.00% | ~298 |
 | Increasing your Power Level | 27.00% | ~298 |
-| Enter the Speed Gauntlet | 25.00% | ~276 |
-| I just can't choose | 25.00% | ~276 |
-| A Cheese Grater to the Face | 20.00% | ~220 |
-| Put it on a shelf | 18.00% | ~198 |
-| It's like an haircut | 17.00% | ~187 |
+| Enter the Speed Gauntlet | 24.00% | ~265 |
+| I just can't choose | 24.00% | ~265 |
+| A Cheese Grater to the Face | 19.00% | ~210 |
+| Put it on a shelf | 18.00% | ~199 |
+| It's like an haircut | 17.00% | ~188 |
 | Suit up | 16.00% | ~176 |
 | Walked like an Egyptian | 15.00% | ~165 |
 | Ride in the rising sun | 15.00% | ~165 |
@@ -58,7 +58,7 @@ Rating: 4.48 (Ranked 590)
 | I, need, more, shelves! | 0.50% | ~6 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,102 (Ranked 191)  
+Progressed: 1,103 (Ranked 191)  
 Completed: 0 (0.00%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,6 +136,7 @@ Completed: 0 (0.00%) (Ranked 258)
 | 2023-08-12 | 1,100 | 0 |
 | 2023-08-13 | 1,101 | 0 |
 | 2023-08-14 | 1,102 | 0 |
+| 2023-08-16 | 1,103 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

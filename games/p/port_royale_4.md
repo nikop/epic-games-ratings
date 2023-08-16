@@ -6,24 +6,24 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 81.00% | ~671 |
+| Cabin boy | 80.00% | ~664 |
 | My little farm | 64.00% | ~531 |
-| Every beginning is difficult | 62.00% | ~514 |
-| 3, 2, 1, mine | 56.00% | ~464 |
-| Gofer | 56.00% | ~464 |
+| Every beginning is difficult | 62.00% | ~515 |
+| 3, 2, 1, mine | 56.00% | ~465 |
+| Gofer | 56.00% | ~465 |
 | O Captain! My Captain! | 54.00% | ~448 |
-| Seafarer | 53.00% | ~439 |
-| Greed for gold | 43.00% | ~356 |
+| Seafarer | 53.00% | ~440 |
+| Greed for gold | 43.00% | ~357 |
 | Intangible | 41.00% | ~340 |
 | I'm out of here for a while | 41.00% | ~340 |
 | In a mint condition | 37.00% | ~307 |
 | Licence to Kill | 35.00% | ~290 |
 | Pirates! | 34.00% | ~282 |
-| Collectionitis | 28.00% | ~232 |
 | Megalomania | 28.00% | ~232 |
 | Christening | 27.00% | ~224 |
-| Groundskeeper | 25.00% | ~207 |
-| Wholesale | 22.00% | ~182 |
+| Collectionitis | 27.00% | ~224 |
+| Groundskeeper | 25.00% | ~208 |
+| Wholesale | 22.00% | ~183 |
 | Walk the plank | 20.00% | ~166 |
 | Pearly gates | 17.00% | ~141 |
 | My precious! | 17.00% | ~141 |
@@ -36,7 +36,7 @@ Number of Ratings: 53  (23.09.2022)
 | Panel of experts | 8.00% | ~66 |
 | Maker | 7.00% | ~58 |
 | Conglomerate | 6.00% | ~50 |
-| The Grande Bouffe | 5.00% | ~41 |
+| The Grande Bouffe | 5.00% | ~42 |
 | Buccaneer | 4.00% | ~33 |
 | Flying Dutchman | 4.00% | ~33 |
 | Premier Maître | 3.00% | ~25 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Fleet Admiral | 0.60% | ~5 |
 | Davy Jones' locker | 0.40% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 829 (Ranked 204)  
+Progressed: 830 (Ranked 204)  
 Completed: 1 (0.12%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,6 +163,7 @@ Completed: 1 (0.12%) (Ranked 199)
 | 2023-08-13 | 825 | 1 |
 | 2023-08-14 | 828 | 1 |
 | 2023-08-15 | 829 | 1 |
+| 2023-08-16 | 830 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 355,
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 86,
+  "Ranking_EOS_NewPlayers": 85,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
@@ -838,9 +838,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 254926,
+  "EOS_Progressed": 254929,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 378,
+  "EOS_NewPlayers": 379,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12933,6 +12933,11 @@
       "Time": "2023-08-16T15:03:05.8843583+00:00",
       "NumProgressed": 254926,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-16T16:02:16.0813878+00:00",
+      "NumProgressed": 254929,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -12992,7 +12997,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 79027
+      "UsersEstimate": 79028
     },
     {
       "ID": "BackHomeNTimes",
@@ -13304,7 +13309,7 @@
       "Name": "Number 1",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1784
+      "UsersEstimate": 1785
     },
     {
       "ID": "Patrimony1",
@@ -13391,7 +13396,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 254926,
+      "Progressed": 254929,
       "Completed": 3
     }
   ],
@@ -13399,8 +13404,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-08-14T15:57:40.5438652+00:00",
-  "LastChanged_Achievements": "2023-08-16T15:03:05.8843579+00:00",
+  "LastChanged_Achievements": "2023-08-16T16:02:16.0813873+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:09.7223884+00:00",
-  "LastUpdate_Ratings": "2023-08-16T14:57:33.1430632+00:00",
-  "LastUpdate_Achievements": "2023-08-16T15:03:05.8844602+00:00"
+  "LastUpdate_Ratings": "2023-08-16T15:57:29.003795+00:00",
+  "LastUpdate_Achievements": "2023-08-16T16:02:16.0815392+00:00"
 }

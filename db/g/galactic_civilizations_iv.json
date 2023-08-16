@@ -864,9 +864,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 6379,
+  "EOS_Progressed": 6380,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5074,6 +5074,11 @@
       "Time": "2023-08-16T11:04:22.8963126+00:00",
       "NumProgressed": 6379,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-16T16:04:30.288923+00:00",
+      "NumProgressed": 6380,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -5117,7 +5122,7 @@
       "Name": "Commodity Trader",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1977
+      "UsersEstimate": 1978
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -5149,7 +5154,7 @@
       "Name": "Xenocide",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2041
+      "UsersEstimate": 2042
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -5165,7 +5170,7 @@
       "Name": "Design a Civilization",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1977
+      "UsersEstimate": 1978
     },
     {
       "ID": "First_Major_Ally",
@@ -5189,7 +5194,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 5039
+      "UsersEstimate": 5040
     },
     {
       "ID": "First_Race_Met",
@@ -5405,7 +5410,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3955
+      "UsersEstimate": 3956
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -5573,7 +5578,7 @@
       "Name": "Win a Battle",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 4274
+      "UsersEstimate": 4275
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -5660,15 +5665,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6379,
+      "Progressed": 6380,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-08-16T06:59:13.2863126+00:00",
-  "LastChanged_Achievements": "2023-08-16T15:04:19.9549114+00:00",
+  "LastChanged_Achievements": "2023-08-16T16:04:30.2889222+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:24.6593665+00:00",
-  "LastUpdate_Ratings": "2023-08-16T14:58:53.8984065+00:00",
-  "LastUpdate_Achievements": "2023-08-16T15:04:19.9549877+00:00"
+  "LastUpdate_Ratings": "2023-08-16T15:59:07.7189452+00:00",
+  "LastUpdate_Achievements": "2023-08-16T16:04:30.2890299+00:00"
 }

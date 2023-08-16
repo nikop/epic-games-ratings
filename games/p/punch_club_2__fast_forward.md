@@ -5,9 +5,9 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Such a strange dream… | 87.00% | ~220 |
+| Good Person Chip | 85.00% | ~215 |
 | Your first fight | 85.00% | ~215 |
-| Good Person Chip | 84.00% | ~213 |
-| First winning | 83.00% | ~210 |
+| First winning | 84.00% | ~213 |
 | Your first job | 83.00% | ~210 |
 | Old movies enjoyer | 79.00% | ~200 |
 | Fitness professional | 78.00% | ~197 |
@@ -25,10 +25,10 @@
 | Spirit of the past | 65.00% | ~164 |
 | Law student | 63.00% | ~159 |
 | Workout professional | 62.00% | ~157 |
+| Champion – starter pack | 61.00% | ~154 |
 | It's good to be alive | 61.00% | ~154 |
 | Own four walls | 61.00% | ~154 |
 | Handyman | 60.00% | ~152 |
-| Champion – starter pack | 60.00% | ~152 |
 | Employee of the year | 60.00% | ~152 |
 | Fight for life | 59.00% | ~149 |
 | Little hacker | 59.00% | ~149 |
@@ -43,8 +43,8 @@
 | No blades in the gym | 45.00% | ~114 |
 | Your own way | 42.00% | ~106 |
 | Champion – no way back | 41.00% | ~104 |
+| Poisoned fighter | 40.00% | ~101 |
 | Responsible approach | 40.00% | ~101 |
-| Poisoned fighter | 39.00% | ~99 |
 | Underground dwellers | 39.00% | ~99 |
 | Deal with life | 38.00% | ~96 |
 | GYM professional | 38.00% | ~96 |
@@ -58,11 +58,11 @@
 | Absolute Champion! | 33.00% | ~83 |
 | Not little hacker | 32.00% | ~81 |
 | Careerist | 32.00% | ~81 |
+| Anyone can resist | 32.00% | ~81 |
 | Trap disarmed | 31.00% | ~78 |
 | The lonesome road | 31.00% | ~78 |
 | Key memories | 31.00% | ~78 |
 | The last bell ring | 31.00% | ~78 |
-| Anyone can resist | 31.00% | ~78 |
 | The heart of the Resistance | 31.00% | ~78 |
 | Another world | 30.00% | ~76 |
 | Keep nature safe | 30.00% | ~76 |

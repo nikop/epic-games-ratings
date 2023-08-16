@@ -12,12 +12,12 @@ Number of Ratings: 371  (23.09.2022)
 | Watch Where You Step... | 3.00% | ~95 |
 | Purging Spree | 3.00% | ~95 |
 | An Ill Omen | 3.00% | ~95 |
+| Surgical Excision | 2.00% | ~63 |
 | Blood for the Blood God! | 2.00% | ~63 |
 | Friendly Fire | 2.00% | ~63 |
 | Bloodless | 2.00% | ~63 |
 | A Foul Creche | 2.00% | ~63 |
 | Honoured Battle-Brother | 1.00% | ~32 |
-| Surgical Excision | 1.00% | ~32 |
 | The Emperor Protects | 1.00% | ~32 |
 | Nemesis Master | 1.00% | ~32 |
 | Gunmaster | 1.00% | ~32 |
@@ -33,12 +33,12 @@ Number of Ratings: 371  (23.09.2022)
 | Daemonkeeper | 0.40% | ~13 |
 | Mind Like a Fortress | 0.40% | ~13 |
 | Only in Death | 0.40% | ~13 |
+| Preservationist | 0.40% | ~13 |
 | Junk Banishment | 0.40% | ~13 |
 | A Gift Spurned | 0.40% | ~13 |
 | Long Distance Call | 0.40% | ~13 |
 | Tactical Flexibility | 0.40% | ~13 |
 | For the Machine God | 0.30% | ~9 |
-| Preservationist | 0.30% | ~9 |
 | Engine Kill | 0.30% | ~9 |
 | Strike Force | 0.20% | ~6 |
 | Exterminator | 0.20% | ~6 |

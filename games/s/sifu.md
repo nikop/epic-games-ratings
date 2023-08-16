@@ -57,8 +57,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,425 |
 | Warriors from the Mountain | 0.10% | ~712 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 712,463 (Ranked 20)  
-Completed: 12,860 (1.81%) (Ranked 95)  
+Progressed: 712,466 (Ranked 20)  
+Completed: 12,860 (1.80%) (Ranked 96)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -175,11 +175,11 @@ Completed: 12,860 (1.81%) (Ranked 95)
 | 2023-08-13 | 712,406 | 12,857 |
 | 2023-08-14 | 712,428 | 12,858 |
 | 2023-08-15 | 712,447 | 12,860 |
-| 2023-08-16 | 712,463 | 12,860 |
+| 2023-08-16 | 712,466 | 12,860 |
 ## Awards
 Max (Great Boss Battles): 6,371  (Ranked 55)  
-Sum: 10,940 (Ranked 82)  
-Diff (max vs sum): -27  
+Sum: 10,940 (Ranked 81)  
+Diff (max vs sum): -26  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,371 |

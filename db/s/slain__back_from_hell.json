@@ -217,9 +217,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 34097,
+  "EOS_Progressed": 34101,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 883,
+  "EOS_NewPlayers": 875,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -13157,6 +13157,11 @@
       "Time": "2023-08-16T15:05:49.1433078+00:00",
       "NumProgressed": 34097,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-08-16T16:06:13.9338561+00:00",
+      "NumProgressed": 34101,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 29,
@@ -13176,7 +13181,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 6819
+      "UsersEstimate": 6820
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -13264,7 +13269,7 @@
       "Name": "Oh God, Mother! Blood! Blood!",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "ACH_15_MOTHER_BEHOLDER_QUICK_KILL",
@@ -13399,7 +13404,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 34097,
+      "Progressed": 34101,
       "Completed": 21
     }
   ],
@@ -13407,8 +13412,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-08-12T21:03:39.1122054+00:00",
-  "LastChanged_Achievements": "2023-08-16T15:05:49.1433073+00:00",
+  "LastChanged_Achievements": "2023-08-16T16:06:13.9338555+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:57.7890504+00:00",
-  "LastUpdate_Ratings": "2023-08-16T14:57:19.078102+00:00",
-  "LastUpdate_Achievements": "2023-08-16T15:05:49.143383+00:00"
+  "LastUpdate_Ratings": "2023-08-16T15:57:11.4114784+00:00",
+  "LastUpdate_Achievements": "2023-08-16T16:06:13.9339603+00:00"
 }

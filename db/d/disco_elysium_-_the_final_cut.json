@@ -1253,9 +1253,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 126316,
+  "EOS_Progressed": 126317,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 401,
+  "EOS_NewPlayers": 398,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -12983,6 +12983,11 @@
       "Time": "2023-08-16T15:04:49.8850779+00:00",
       "NumProgressed": 126316,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-08-16T16:05:08.3187646+00:00",
+      "NumProgressed": 126317,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 40,
@@ -13018,7 +13023,7 @@
       "Name": "The Opener Of The Eighth Seal",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3789
+      "UsersEstimate": 3790
     },
     {
       "ID": "ACH_COP_ART",
@@ -13074,7 +13079,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 35368
+      "UsersEstimate": 35369
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -13130,7 +13135,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 18947
+      "UsersEstimate": 18948
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -13154,7 +13159,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 11368
+      "UsersEstimate": 11369
     },
     {
       "ID": "ACH_GLUTEN",
@@ -13218,7 +13223,7 @@
       "Name": "Bother Kim After Hours",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3789
+      "UsersEstimate": 3790
     },
     {
       "ID": "ACH_KIM_JACKET",
@@ -13313,15 +13318,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 126316,
+      "Progressed": 126317,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-08-15T15:00:55.7561731+00:00",
-  "LastChanged_Achievements": "2023-08-16T15:04:49.8850775+00:00",
+  "LastChanged_Achievements": "2023-08-16T16:05:08.3187639+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:59.4029348+00:00",
-  "LastUpdate_Ratings": "2023-08-16T15:00:24.2396932+00:00",
-  "LastUpdate_Achievements": "2023-08-16T15:04:49.8851552+00:00"
+  "LastUpdate_Ratings": "2023-08-16T16:00:58.8577841+00:00",
+  "LastUpdate_Achievements": "2023-08-16T16:05:08.3188809+00:00"
 }

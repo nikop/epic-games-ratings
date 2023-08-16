@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 113,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3378,10 +3378,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 6888,
       "NumberOfAwardsMax": 1701
+    },
+    {
+      "Time": "2023-08-16T16:00:10.3233014+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6889,
+      "NumberOfAwardsMax": 1701
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6888,
+  "NumberOfAwards": 6889,
   "NumberOfAwardsMax": 1701,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3413,7 +3419,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 615
+      "Count": 616
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3452,9 +3458,9 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 10966,
+  "EOS_Progressed": 10968,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10822,6 +10828,11 @@
       "Time": "2023-08-16T08:04:48.4935221+00:00",
       "NumProgressed": 10966,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-16T16:04:59.9127272+00:00",
+      "NumProgressed": 10968,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -10833,7 +10844,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 2522
+      "UsersEstimate": 2523
     },
     {
       "ID": "02_BurningCity",
@@ -10887,9 +10898,9 @@
       "ID": "08_PathOfAngel",
       "SetID": "989of5o",
       "Name": "Path of the Angel",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 548
+      "UsersEstimate": 658
     },
     {
       "ID": "09_PathOfDemon",
@@ -11729,7 +11740,7 @@
       "Name": "This Wall Won\u0027t Fall",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "DLC4_27_Not the Last Sarkorian",
@@ -11737,7 +11748,7 @@
       "Name": "Not the Last Sarkorian",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "DLC4_29_The Lady of the Forest",
@@ -11760,21 +11771,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9748,
+      "Progressed": 9750,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10966,
+      "Progressed": 10968,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-08-15T07:59:25.8442587+00:00",
-  "LastChanged_Achievements": "2023-08-16T15:04:43.3965436+00:00",
+  "LastChanged": "2023-08-16T16:00:10.3233012+00:00",
+  "LastChanged_Achievements": "2023-08-16T16:04:59.9127263+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:11.5447906+00:00",
-  "LastUpdate_Ratings": "2023-08-16T14:59:47.2274587+00:00",
-  "LastUpdate_Achievements": "2023-08-16T15:04:43.3967462+00:00"
+  "LastUpdate_Ratings": "2023-08-16T16:00:10.323302+00:00",
+  "LastUpdate_Achievements": "2023-08-16T16:04:59.9132025+00:00"
 }

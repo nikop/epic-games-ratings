@@ -11,12 +11,12 @@
 | "Swoosh" | 62.00% | ~53 |
 | The light at the end of the tunnel | 60.00% | ~52 |
 | Splash! | 56.00% | ~48 |
-| Masochistic | 52.00% | ~45 |
+| Masochistic | 53.00% | ~46 |
 | Soft skin | 48.00% | ~41 |
 | Squid game | 41.00% | ~35 |
 | Sensitive soul | 34.00% | ~29 |
 | Hard Rock | 33.00% | ~28 |
-| Rock Solid | 30.00% | ~26 |
+| Rock Solid | 31.00% | ~27 |
 | The beast within | 30.00% | ~26 |
 | It's getting dark | 30.00% | ~26 |
 | Rooftop | 29.00% | ~25 |
