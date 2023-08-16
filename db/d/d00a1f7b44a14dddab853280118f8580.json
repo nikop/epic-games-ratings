@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 17,
   "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2023-07-28T07:00:00+00:00",
     "PcReleaseDate": "2022-06-15T07:00:00+00:00",
@@ -552,9 +552,9 @@
       "ID": "ach_complete_tutorial",
       "SetID": "5e260i9",
       "Name": "Welcome aboard!",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 80,
-      "UsersEstimate": 114
+      "UsersEstimate": 116
     },
     {
       "ID": "ach_hint_3",
@@ -631,8 +631,8 @@
   ],
   "FirstSeen": "2023-07-30T16:57:15.6867124+00:00",
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2023-08-16T12:03:05.5300779+00:00",
+  "LastChanged_Achievements": "2023-08-16T13:06:23.7792877+00:00",
   "LastUpdate_AppInfo": "2023-08-10T21:57:07.638473+00:00",
-  "LastUpdate_Ratings": "2023-08-16T11:57:34.754263+00:00",
-  "LastUpdate_Achievements": "2023-08-16T12:03:05.5301018+00:00"
+  "LastUpdate_Ratings": "2023-08-16T13:01:21.5863304+00:00",
+  "LastUpdate_Achievements": "2023-08-16T13:06:23.7792978+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "flat-heroes-fec628",
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 284,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2021-09-15T22:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 337,
+  "EOS_Progressed": 338,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -301,6 +301,11 @@
       "Time": "2023-08-15T23:08:03.8573909+00:00",
       "NumProgressed": 337,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-16T13:10:06.1383694+00:00",
+      "NumProgressed": 338,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -326,9 +331,9 @@
       "ID": "DashAttack",
       "SetID": "d9ekhim",
       "Name": "Fireball",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 179
+      "UsersEstimate": 176
     },
     {
       "ID": "DashDashDash",
@@ -336,7 +341,7 @@
       "Name": "Be water, my friend",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "DashLevitationDashAttack",
@@ -344,7 +349,7 @@
       "Name": "Black Belt",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "FloorIsLava",
@@ -512,7 +517,7 @@
       "Name": "Quite The Hero",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "SurvivalRecordMiniVertical",
@@ -598,9 +603,9 @@
       "ID": "World2Boss",
       "SetID": "d9ekhim",
       "Name": "Snake Eyes",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 206
+      "UsersEstimate": 203
     },
     {
       "ID": "World3Boss",
@@ -616,7 +621,7 @@
       "Name": "Hit That Ball",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "World5Boss",
@@ -640,7 +645,7 @@
       "Name": "Bomberman",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "World8Boss",
@@ -663,7 +668,7 @@
     {
       "ID": "d9ekhim",
       "IsBase": true,
-      "Progressed": 337,
+      "Progressed": 338,
       "Completed": 0
     }
   ],
@@ -671,8 +676,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2023-08-16T12:06:28.0136202+00:00",
+  "LastChanged_Achievements": "2023-08-16T13:10:06.1383686+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:08.1371776+00:00",
-  "LastUpdate_Ratings": "2023-08-16T11:58:08.6811363+00:00",
-  "LastUpdate_Achievements": "2023-08-16T12:06:28.0136568+00:00"
+  "LastUpdate_Ratings": "2023-08-16T13:02:02.4681534+00:00",
+  "LastUpdate_Achievements": "2023-08-16T13:10:06.138398+00:00"
 }

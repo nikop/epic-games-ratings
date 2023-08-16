@@ -13,15 +13,15 @@
 | Ka-Ching! | 37.00% | ~20 |
 | Stop Right There | 35.00% | ~19 |
 | Get to the Point | 33.00% | ~18 |
-| Toe to Toe | 17.00% | ~9 |
-| The Hidden Secret | 15.00% | ~8 |
+| Toe to Toe | 19.00% | ~10 |
+| The Hidden Secret | 17.00% | ~9 |
 | Mr. Want It All | 15.00% | ~8 |
 | Phew! | 15.00% | ~8 |
 | Grand Escape | 11.00% | ~6 |
 | Space Warrior: Prologue | 11.00% | ~6 |
 | Keep it Up, rookie! | 9.00% | ~5 |
+| Decapitation Strike | 9.00% | ~5 |
 | The Abyss Conqueror | 7.00% | ~4 |
-| Decapitation Strike | 7.00% | ~4 |
 | The Deep Frozen Conqueror | 6.00% | ~3 |
 | The Fortress Conqueror | 6.00% | ~3 |
 | The Paradox Coordinate Conqueror | 6.00% | ~3 |

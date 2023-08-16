@@ -414,9 +414,9 @@
       "ID": "Dangerous_dose",
       "SetID": "cjfnji1",
       "Name": "Dangerous dose",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Dissatisfaction",
@@ -525,8 +525,8 @@
   ],
   "FirstSeen": "2023-08-11T01:35:20.9956349+00:00",
   "FirstSeenAchievements": "2023-08-07T18:00:21.004681+00:00",
-  "LastChanged_Achievements": "2023-08-16T12:02:18.8401637+00:00",
+  "LastChanged_Achievements": "2023-08-16T13:06:18.0281294+00:00",
   "LastUpdate_AppInfo": "2023-08-14T17:57:19.8176911+00:00",
-  "LastUpdate_Ratings": "2023-08-16T11:57:23.2114436+00:00",
-  "LastUpdate_Achievements": "2023-08-16T12:02:18.8401788+00:00"
+  "LastUpdate_Ratings": "2023-08-16T13:01:05.2675666+00:00",
+  "LastUpdate_Achievements": "2023-08-16T13:06:18.028141+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "angelo-and-deemon-one-hell-of-a-quest-94d7e2",
   "Ranking_EOS_Progress": 452,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-08-15T14:00:00+00:00",
@@ -88,9 +88,9 @@
       "ID": "EnterMatrix",
       "SetID": "bl5ebnd",
       "Name": "Enter the Matrix",
-      "Percentage": 17,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "GoldenYouth",
@@ -152,25 +152,25 @@
       "ID": "PortraitMadness",
       "SetID": "bl5ebnd",
       "Name": "Portrait of Madness",
-      "Percentage": 17,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "PrivateVisit",
       "SetID": "bl5ebnd",
       "Name": "Private Visit",
-      "Percentage": 17,
+      "Percentage": 33,
       "XP": 70,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Reincarnation",
       "SetID": "bl5ebnd",
       "Name": "Reincarnation",
-      "Percentage": 17,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SelfieKing",
@@ -206,8 +206,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-07T14:05:00.198888+00:00",
-  "LastChanged_Achievements": "2023-08-16T12:05:17.7460871+00:00",
+  "LastChanged_Achievements": "2023-08-16T13:08:55.8306959+00:00",
   "LastUpdate_AppInfo": "2023-08-10T10:57:09.5773097+00:00",
-  "LastUpdate_Ratings": "2023-08-16T11:57:55.9258943+00:00",
-  "LastUpdate_Achievements": "2023-08-16T12:05:17.7460971+00:00"
+  "LastUpdate_Ratings": "2023-08-16T13:01:47.2374749+00:00",
+  "LastUpdate_Achievements": "2023-08-16T13:08:55.8307069+00:00"
 }

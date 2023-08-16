@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 40813,
+  "EOS_Progressed": 40814,
   "EOS_Completed": 207,
-  "EOS_NewPlayers": 559,
+  "EOS_NewPlayers": 558,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -12029,6 +12029,11 @@
       "Time": "2023-08-16T12:05:24.0718727+00:00",
       "NumProgressed": 40813,
       "NumCompleted": 207
+    },
+    {
+      "Time": "2023-08-16T13:09:02.1744748+00:00",
+      "NumProgressed": 40814,
+      "NumCompleted": 207
     }
   ],
   "TotalAchievements": 44,
@@ -12040,7 +12045,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 23263
+      "UsersEstimate": 23264
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -12080,7 +12085,7 @@
       "Name": "Ruse",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4489
+      "UsersEstimate": 4490
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -12160,7 +12165,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 32650
+      "UsersEstimate": 32651
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -12240,7 +12245,7 @@
       "Name": "Clinging to Life",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 7346
+      "UsersEstimate": 7347
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -12264,7 +12269,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 22447
+      "UsersEstimate": 22448
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -12280,7 +12285,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 25712
+      "UsersEstimate": 25713
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -12376,7 +12381,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 37956
+      "UsersEstimate": 37957
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -12391,7 +12396,7 @@
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 40813,
+      "Progressed": 40814,
       "Completed": 207
     }
   ],
@@ -12399,8 +12404,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-06-11T14:58:10.4478603+00:00",
-  "LastChanged_Achievements": "2023-08-16T12:05:24.0718721+00:00",
+  "LastChanged_Achievements": "2023-08-16T13:09:02.1744741+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:05.4781923+00:00",
-  "LastUpdate_Ratings": "2023-08-16T11:59:14.4550772+00:00",
-  "LastUpdate_Achievements": "2023-08-16T12:05:24.0719888+00:00"
+  "LastUpdate_Ratings": "2023-08-16T13:03:09.47945+00:00",
+  "LastUpdate_Achievements": "2023-08-16T13:09:02.1745597+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 162,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -700,9 +700,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 11980,
+  "EOS_Progressed": 11981,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -9005,6 +9005,11 @@
       "Time": "2023-08-16T11:03:17.9503782+00:00",
       "NumProgressed": 11980,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-08-16T13:06:13.8008738+00:00",
+      "NumProgressed": 11981,
+      "NumCompleted": 39
     }
   ],
   "TotalAchievements": 35,
@@ -9016,7 +9021,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9704
+      "UsersEstimate": 9705
     },
     {
       "ID": "ACH02",
@@ -9112,7 +9117,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 2156
+      "UsersEstimate": 2157
     },
     {
       "ID": "ACH14",
@@ -9295,7 +9300,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11980,
+      "Progressed": 11981,
       "Completed": 39
     }
   ],
@@ -9303,8 +9308,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-08-16T07:57:36.7309666+00:00",
-  "LastChanged_Achievements": "2023-08-16T12:02:14.6858456+00:00",
+  "LastChanged_Achievements": "2023-08-16T13:06:13.8008734+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:11.1716171+00:00",
-  "LastUpdate_Ratings": "2023-08-16T11:57:17.4551521+00:00",
-  "LastUpdate_Achievements": "2023-08-16T12:02:14.6859336+00:00"
+  "LastUpdate_Ratings": "2023-08-16T13:00:58.3124802+00:00",
+  "LastUpdate_Achievements": "2023-08-16T13:06:13.8009342+00:00"
 }

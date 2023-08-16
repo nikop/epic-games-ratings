@@ -1,53 +1,53 @@
 # City of Gangsters
 [Store](https://store.epicgames.com/en-US/p/city-of-gangsters-6c2974)  
 [View Rawdata](../../db/c/city_of_gangsters.json)  
-Rating: 4.26 (Ranked 815)  
+Rating: 4.26 (Ranked 816)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~155,249 |
-| Copacetic Coordination | 16.00% | ~54,000 |
-| Fronting the Money | 14.00% | ~47,250 |
-| The Dawn of Automation | 14.00% | ~47,250 |
-| Extraordinary Logistics | 14.00% | ~47,250 |
-| Dirty Money | 13.00% | ~43,875 |
-| Family First | 13.00% | ~43,875 |
-| Cleaning House | 12.00% | ~40,500 |
-| Room in the Back | 12.00% | ~40,500 |
-| Booze Baron | 11.00% | ~37,125 |
-| Beating the Heat | 10.00% | ~33,750 |
-| Friends on the Force | 10.00% | ~33,750 |
-| Neighborhood Watch | 10.00% | ~33,750 |
-| Core Corps | 8.00% | ~27,000 |
-| Sizeable Stash | 8.00% | ~27,000 |
-| Street Fighter | 7.00% | ~23,625 |
-| Friendly Gestures | 7.00% | ~23,625 |
-| People Person | 7.00% | ~23,625 |
-| Liquor Lord | 6.00% | ~20,250 |
-| Safety in Numbers | 6.00% | ~20,250 |
-| Wise Head | 6.00% | ~20,250 |
-| Show ‘em the Sugar | 6.00% | ~20,250 |
-| Killing Them Softly | 6.00% | ~20,250 |
-| Street Knowledge | 5.00% | ~16,875 |
-| Oh Captain | 5.00% | ~16,875 |
-| Branching Out | 5.00% | ~16,875 |
-| Improvement Missions | 5.00% | ~16,875 |
-| Opportunity Knocked | 5.00% | ~16,875 |
-| City of Big Shoulders | 5.00% | ~16,875 |
-| Moving Experiences | 5.00% | ~16,875 |
-| Mission Mastery | 5.00% | ~16,875 |
-| Considerable Clams | 4.00% | ~13,500 |
-| Gin Joint | 4.00% | ~13,500 |
-| An Affront to the Enemy | 4.00% | ~13,500 |
-| Friends from Back Home | 4.00% | ~13,500 |
-| Half Century Mark | 4.00% | ~13,500 |
-| Corner Opportunities | 3.00% | ~10,125 |
-| 2122 North Clark Street | 3.00% | ~10,125 |
-| Copious Cabbage | 3.00% | ~10,125 |
-| Sockdolager | 3.00% | ~10,125 |
-| Still Stalwart | 3.00% | ~10,125 |
-| Bees Knees Bootlegger | 3.00% | ~10,125 |
-| Tighten the Screws | 3.00% | ~10,125 |
+| Corner Clout | 46.00% | ~155,259 |
+| Copacetic Coordination | 16.00% | ~54,003 |
+| Fronting the Money | 14.00% | ~47,253 |
+| The Dawn of Automation | 14.00% | ~47,253 |
+| Extraordinary Logistics | 14.00% | ~47,253 |
+| Dirty Money | 13.00% | ~43,878 |
+| Family First | 13.00% | ~43,878 |
+| Cleaning House | 12.00% | ~40,502 |
+| Room in the Back | 12.00% | ~40,502 |
+| Booze Baron | 11.00% | ~37,127 |
+| Beating the Heat | 10.00% | ~33,752 |
+| Friends on the Force | 10.00% | ~33,752 |
+| Neighborhood Watch | 10.00% | ~33,752 |
+| Core Corps | 8.00% | ~27,002 |
+| Sizeable Stash | 8.00% | ~27,002 |
+| Street Fighter | 7.00% | ~23,626 |
+| Friendly Gestures | 7.00% | ~23,626 |
+| People Person | 7.00% | ~23,626 |
+| Liquor Lord | 6.00% | ~20,251 |
+| Safety in Numbers | 6.00% | ~20,251 |
+| Wise Head | 6.00% | ~20,251 |
+| Show ‘em the Sugar | 6.00% | ~20,251 |
+| Killing Them Softly | 6.00% | ~20,251 |
+| Street Knowledge | 5.00% | ~16,876 |
+| Oh Captain | 5.00% | ~16,876 |
+| Branching Out | 5.00% | ~16,876 |
+| Improvement Missions | 5.00% | ~16,876 |
+| Opportunity Knocked | 5.00% | ~16,876 |
+| City of Big Shoulders | 5.00% | ~16,876 |
+| Moving Experiences | 5.00% | ~16,876 |
+| Mission Mastery | 5.00% | ~16,876 |
+| Considerable Clams | 4.00% | ~13,501 |
+| Gin Joint | 4.00% | ~13,501 |
+| An Affront to the Enemy | 4.00% | ~13,501 |
+| Friends from Back Home | 4.00% | ~13,501 |
+| Half Century Mark | 4.00% | ~13,501 |
+| Corner Opportunities | 3.00% | ~10,126 |
+| 2122 North Clark Street | 3.00% | ~10,126 |
+| Copious Cabbage | 3.00% | ~10,126 |
+| Sockdolager | 3.00% | ~10,126 |
+| Still Stalwart | 3.00% | ~10,126 |
+| Bees Knees Bootlegger | 3.00% | ~10,126 |
+| Tighten the Screws | 3.00% | ~10,126 |
 | One of Us | 2.00% | ~6,750 |
 | Baker’s Dozen | 2.00% | ~6,750 |
 | Dropping the Dime | 2.00% | ~6,750 |
@@ -59,34 +59,34 @@ Rating: 4.26 (Ranked 815)
 | Full House | 1.00% | ~3,375 |
 | The Rubber Meets the Road | 1.00% | ~3,375 |
 | Cat’s Meow Clubs | 1.00% | ~3,375 |
-| Determined Deliveries | 0.90% | ~3,037 |
-| Stepping It Up | 0.90% | ~3,037 |
+| Determined Deliveries | 0.90% | ~3,038 |
+| Stepping It Up | 0.90% | ~3,038 |
 | Crossing Over | 0.80% | ~2,700 |
-| Boots in the Ground | 0.70% | ~2,362 |
-| Getting Fancy | 0.70% | ~2,362 |
-| Social Butterfly | 0.50% | ~1,687 |
+| Boots in the Ground | 0.70% | ~2,363 |
+| Getting Fancy | 0.70% | ~2,363 |
+| Social Butterfly | 0.50% | ~1,688 |
 | Homemade Hooch | 0.40% | ~1,350 |
 | Still Dreaming | 0.40% | ~1,350 |
 | High End Booze | 0.40% | ~1,350 |
 | Working on the Railroad | 0.40% | ~1,350 |
-| Bottled Up | 0.30% | ~1,012 |
-| Streetwise | 0.30% | ~1,012 |
-| In-House Maintenance | 0.30% | ~1,012 |
+| Bottled Up | 0.30% | ~1,013 |
+| Streetwise | 0.30% | ~1,013 |
+| In-House Maintenance | 0.30% | ~1,013 |
 | Dirty Work | 0.20% | ~675 |
 | Balkan Firewater | 0.20% | ~675 |
-| Windy City Win | 0.10% | ~337 |
-| Steeling Victory | 0.10% | ~337 |
-| Queen of the City | 0.10% | ~337 |
-| Vehicles to Victory | 0.10% | ~337 |
-| Putting on the Ritz | 0.10% | ~337 |
-| Bourbon Barrels | 0.10% | ~337 |
-| Tied Houses | 0.10% | ~337 |
-| Laying Low | 0.10% | ~337 |
-| No Applesauce | 0.10% | ~337 |
-| High Pillow | 0.10% | ~337 |
-| Station Master | 0.10% | ~337 |
+| Windy City Win | 0.10% | ~338 |
+| Steeling Victory | 0.10% | ~338 |
+| Queen of the City | 0.10% | ~338 |
+| Vehicles to Victory | 0.10% | ~338 |
+| Putting on the Ritz | 0.10% | ~338 |
+| Bourbon Barrels | 0.10% | ~338 |
+| Tied Houses | 0.10% | ~338 |
+| Laying Low | 0.10% | ~338 |
+| No Applesauce | 0.10% | ~338 |
+| High Pillow | 0.10% | ~338 |
+| Station Master | 0.10% | ~338 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 337,497 (Ranked 41)  
+Progressed: 337,520 (Ranked 41)  
 Completed: 7 (0.00%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,7 +204,7 @@ Completed: 7 (0.00%) (Ranked 257)
 | 2023-08-13 | 336,943 | 7 |
 | 2023-08-14 | 337,164 | 7 |
 | 2023-08-15 | 337,399 | 7 |
-| 2023-08-16 | 337,497 | 7 |
+| 2023-08-16 | 337,520 | 7 |
 ## Awards
 Max (Great for Beginners): 33  (Ranked 448)  
 Sum: 161 (Ranked 392)  

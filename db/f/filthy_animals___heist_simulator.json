@@ -4,7 +4,7 @@
   "ProductSlug": "filthy-animals-f6c65c",
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewPlayers": 103,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-04-04T17:30:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7747,
+  "EOS_Progressed": 7753,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 143,
+  "EOS_NewPlayers": 147,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4103,6 +4103,11 @@
       "Time": "2023-08-16T12:03:24.7756449+00:00",
       "NumProgressed": 7747,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-16T13:06:42.5040879+00:00",
+      "NumProgressed": 7753,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 28,
@@ -4194,7 +4199,7 @@
       "Name": "Crocodile Maxed Out",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "lootomaticComplete",
@@ -4250,7 +4255,7 @@
       "Name": "Nuclear Plant Heisted",
       "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "prisonAllObjectives",
@@ -4322,7 +4327,7 @@
       "Name": "Sewer Objectives Complete",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "tutorialSuccess",
@@ -4337,7 +4342,7 @@
     {
       "ID": "10d14j0",
       "IsBase": true,
-      "Progressed": 7747,
+      "Progressed": 7753,
       "Completed": 0
     }
   ],
@@ -4345,8 +4350,8 @@
   "FirstSeenRating": "2023-04-05T14:58:37.7953176+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.1467348+00:00",
   "LastChanged": "2023-04-05T14:58:37.7953178+00:00",
-  "LastChanged_Achievements": "2023-08-16T12:03:24.7756442+00:00",
+  "LastChanged_Achievements": "2023-08-16T13:06:42.5040875+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:39.0215084+00:00",
-  "LastUpdate_Ratings": "2023-08-16T11:58:50.1107742+00:00",
-  "LastUpdate_Achievements": "2023-08-16T12:03:24.7756918+00:00"
+  "LastUpdate_Ratings": "2023-08-16T13:02:43.3625867+00:00",
+  "LastUpdate_Achievements": "2023-08-16T13:06:42.5041226+00:00"
 }

@@ -47,23 +47,23 @@
 | Poisoned fighter | 39.00% | ~99 |
 | Underground dwellers | 39.00% | ~99 |
 | Deal with life | 38.00% | ~96 |
+| GYM professional | 38.00% | ~96 |
 | Get out of my apartment! | 38.00% | ~96 |
 | Mom got better | 37.00% | ~94 |
-| GYM professional | 37.00% | ~94 |
 | The die is cast | 37.00% | ~94 |
-| Seashell hunter | 35.00% | ~89 |
+| Seashell hunter | 36.00% | ~91 |
 | Gang wrangler | 34.00% | ~86 |
 | Problems of cyborgs | 34.00% | ~86 |
+| Undercover robot | 34.00% | ~86 |
 | Absolute Champion! | 33.00% | ~83 |
-| Undercover robot | 33.00% | ~83 |
 | Careerist | 32.00% | ~81 |
+| Trap disarmed | 31.00% | ~78 |
 | The lonesome road | 31.00% | ~78 |
 | Key memories | 31.00% | ~78 |
 | Not little hacker | 31.00% | ~78 |
 | The last bell ring | 31.00% | ~78 |
 | Anyone can resist | 31.00% | ~78 |
 | The heart of the Resistance | 31.00% | ~78 |
-| Trap disarmed | 30.00% | ~76 |
 | Another world | 30.00% | ~76 |
 | Keep nature safe | 30.00% | ~76 |
 | Family comes first | 30.00% | ~76 |

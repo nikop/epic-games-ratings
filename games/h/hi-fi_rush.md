@@ -45,7 +45,7 @@ Rating: 4.88 (Ranked 18)
 | I think I deserve some praise, here! | 0.90% | ~35 |
 | We're Jammin' | 0.90% | ~35 |
 | First we parry, then we counter | 0.80% | ~31 |
-| I'm not done with you yet | 0.70% | ~27 |
+| I'm not done with you yet | 0.70% | ~28 |
 | This is a breeze! | 0.60% | ~24 |
 | New bad guys? No problem! | 0.60% | ~15 |
 | Easy Listening | 0.40% | ~16 |
@@ -77,7 +77,7 @@ Rating: 4.88 (Ranked 18)
 | Voices from within | 0.10% | ~2 |
 | Low budget finish | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,928 (Ranked 147)  
+Progressed: 3,929 (Ranked 147)  
 Completed: 7 (0.18%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 7 (0.18%) (Ranked 187)
 | 2023-08-13 | 3,885 | 7 |
 | 2023-08-14 | 3,899 | 7 |
 | 2023-08-15 | 3,914 | 7 |
-| 2023-08-16 | 3,928 | 7 |
+| 2023-08-16 | 3,929 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

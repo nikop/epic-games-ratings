@@ -16,9 +16,9 @@ Rating: 4.45 (Ranked 633)
 | Target America | 25.00% | ~871 |
 | The Kraken Sleeps | 23.00% | ~801 |
 | Organ Grinder | 22.00% | ~766 |
+| As Quiet as a Mouse | 22.00% | ~766 |
 | Liberté | 21.00% | ~732 |
 | Sharpshooter | 21.00% | ~732 |
-| As Quiet as a Mouse | 21.00% | ~732 |
 | Explosive Efficiency | 18.00% | ~627 |
 | Gunslinger | 17.00% | ~592 |
 | Just a Flesh Wound | 16.00% | ~557 |
