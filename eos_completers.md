@@ -3,7 +3,7 @@
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 50.00% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.42% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 41.30% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 40.43% |
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
 | 6 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 26.19% |
@@ -37,7 +37,7 @@
 | 35 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 7.81% |
 | 36 | [Smelter](games/s/smelter.md) | 7.69% |
 | 37 | [Ravenlok](games/r/ravenlok.md) | 7.53% |
-| 38 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.29% |
+| 38 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.25% |
 | 39 | [Scorn](games/s/scorn.md) | 6.95% |
 | 40 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.89% |
 | 41 | [Time Loader](games/t/time_loader.md) | 6.78% |
@@ -61,7 +61,7 @@
 | 59 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.05% |
 | 60 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 3.92% |
 | 61 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.89% |
-| 62 | [ZZT!](games/z/zzt!.md) | 3.78% |
+| 62 | [ZZT!](games/z/zzt!.md) | 3.77% |
 | 63 | [Without Escape](games/w/without_escape.md) | 3.70% |
 | 64 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 65 | [Doodle God](games/d/doodle_god.md) | 3.46% |
@@ -134,8 +134,8 @@
 | 132 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
 | 132 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.62% |
 | 134 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.60% |
-| 135 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.58% |
-| 135 | [Potion Permit](games/p/potion_permit.md) | 0.58% |
+| 134 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.60% |
+| 136 | [Potion Permit](games/p/potion_permit.md) | 0.58% |
 | 137 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.57% |
 | 138 | [Grindstone](games/g/grindstone.md) | 0.56% |
 | 139 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.55% |
@@ -153,8 +153,8 @@
 | 148 | [Train Valley](games/t/train_valley.md) | 0.46% |
 | 152 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.44% |
 | 153 | [Tails of Iron](games/t/tails_of_iron.md) | 0.43% |
-| 154 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.41% |
 | 154 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.41% |
+| 155 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.40% |
 | 156 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.38% |
 | 156 | [Ghostrunner](games/g/ghostrunner.md) | 0.38% |
 | 158 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.37% |
@@ -188,12 +188,12 @@
 | 186 | [Going Medieval](games/g/going_medieval.md) | 0.19% |
 | 187 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.18% |
 | 187 | [RAILGRADE](games/r/railgrade.md) | 0.18% |
-| 189 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.17% |
-| 190 | [BLACKTAIL](games/b/blacktail.md) | 0.16% |
-| 190 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
-| 190 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
-| 190 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.16% |
-| 190 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.16% |
+| 189 | [BLACKTAIL](games/b/blacktail.md) | 0.16% |
+| 189 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
+| 189 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.16% |
+| 189 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
+| 189 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.16% |
+| 189 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.16% |
 | 195 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
 | 196 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.14% |
 | 197 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.13% |
