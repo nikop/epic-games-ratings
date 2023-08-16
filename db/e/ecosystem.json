@@ -3,9 +3,9 @@
   "Name": "Ecosystem",
   "ProductSlug": "ecosystem-27eefe",
   "Ranking_EOS_Progress": 546,
-  "Ranking_EOS_Completed": 257,
+  "Ranking_EOS_Completed": 258,
   "Ranking_EOS_NewPlayers": 355,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-12-07T15:00:00+00:00",
     "PcReleaseDate": "2021-12-07T15:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:34.0866043+00:00",
   "LastChanged": "2023-03-31T05:58:34.0866044+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:50.2267885+00:00",
-  "LastUpdate_Ratings": "2023-08-16T13:03:45.4811184+00:00",
-  "LastUpdate_Achievements": "2023-08-16T13:08:43.383378+00:00"
+  "LastUpdate_Ratings": "2023-08-16T14:01:08.3891606+00:00",
+  "LastUpdate_Achievements": "2023-08-16T14:06:05.1317767+00:00"
 }

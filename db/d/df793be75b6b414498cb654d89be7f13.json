@@ -3,9 +3,9 @@
   "Name": "City Gridlock",
   "ProductSlug": "city-gridlock-7bff10",
   "Ranking_EOS_Progress": 546,
-  "Ranking_EOS_Completed": 257,
+  "Ranking_EOS_Completed": 258,
   "Ranking_EOS_NewPlayers": 355,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-08-21T22:00:00+00:00",
     "PcReleaseDate": "2023-08-21T22:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-10T06:57:08.123096+00:00",
-  "LastUpdate_Ratings": "2023-08-16T13:00:57.3771014+00:00",
-  "LastUpdate_Achievements": "2023-08-16T13:06:16.0799053+00:00"
+  "LastUpdate_Ratings": "2023-08-16T13:57:34.186789+00:00",
+  "LastUpdate_Achievements": "2023-08-16T14:03:06.7998001+00:00"
 }

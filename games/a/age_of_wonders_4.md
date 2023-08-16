@@ -57,7 +57,7 @@ Rating: 4.61 (Ranked 363)
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,116 (Ranked 141)  
-Completed: 5 (0.10%) (Ranked 205)  
+Completed: 5 (0.10%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

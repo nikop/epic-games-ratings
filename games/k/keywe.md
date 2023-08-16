@@ -25,8 +25,8 @@
 | Winter Postmasters | 0.00% | ~0 |
 | Stocking Up | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10 (Ranked 441)  
-Completed: 0 (0.00%) (Ranked 257)  
+Progressed: 10 (Ranked 442)  
+Completed: 0 (0.00%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

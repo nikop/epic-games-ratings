@@ -17,9 +17,9 @@ Number of Ratings: 1,331  (23.09.2022)
 | King and Kin | 0.90% | ~206 |
 | Prequel to the Sequel | 0.90% | ~206 |
 | Truly Blessed | 0.50% | ~114 |
+| Looks Familiar | 0.50% | ~114 |
 | For Glory | 0.50% | ~114 |
 | Pillow Investments | 0.40% | ~92 |
-| Looks Familiar | 0.40% | ~92 |
 | For Justice | 0.40% | ~92 |
 | Good Boy! | 0.40% | ~92 |
 | For Survival | 0.30% | ~69 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Rogue Rogue Legacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 22,890 (Ranked 103)  
-Completed: 35 (0.15%) (Ranked 195)  
+Completed: 35 (0.15%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

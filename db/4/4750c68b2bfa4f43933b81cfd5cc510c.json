@@ -3,9 +3,9 @@
   "Name": "EA SPORTS FC\u2122 24 Standard Edition",
   "ProductSlug": "ea-sports-fc-24",
   "Ranking_EOS_Progress": 546,
-  "Ranking_EOS_Completed": 257,
+  "Ranking_EOS_Completed": 258,
   "Ranking_EOS_NewPlayers": 355,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-09-29T00:00:00+00:00",
     "PcReleaseDate": "2023-09-29T00:00:00+00:00",
@@ -35,8 +35,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-31T02:03:06.7059305+00:00",
-  "LastChanged_Achievements": "2023-08-16T13:06:11.9518992+00:00",
+  "LastChanged_Achievements": "2023-08-16T14:02:31.2461017+00:00",
   "LastUpdate_AppInfo": "2023-08-10T19:57:06.2222167+00:00",
-  "LastUpdate_Ratings": "2023-08-16T13:01:34.0287579+00:00",
-  "LastUpdate_Achievements": "2023-08-16T13:06:11.9519024+00:00"
+  "LastUpdate_Ratings": "2023-08-16T13:58:13.4200855+00:00",
+  "LastUpdate_Achievements": "2023-08-16T14:02:31.2461083+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 49,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3107,
+  "EOS_Progressed": 3108,
   "EOS_Completed": 151,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 4.86,
   "EosHistory": [
@@ -4265,6 +4265,11 @@
       "Time": "2023-08-16T13:10:14.2814916+00:00",
       "NumProgressed": 3107,
       "NumCompleted": 151
+    },
+    {
+      "Time": "2023-08-16T14:08:04.9472121+00:00",
+      "NumProgressed": 3108,
+      "NumCompleted": 151
     }
   ],
   "TotalAchievements": 24,
@@ -4276,7 +4281,7 @@
       "Name": "IT\u0027S A LONG WAY TO THE TOP",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "10",
@@ -4372,7 +4377,7 @@
       "Name": "PROTECTED",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 1025
+      "UsersEstimate": 1026
     },
     {
       "ID": "21",
@@ -4396,7 +4401,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 994
+      "UsersEstimate": 995
     },
     {
       "ID": "24",
@@ -4404,7 +4409,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 994
+      "UsersEstimate": 995
     },
     {
       "ID": "3",
@@ -4420,7 +4425,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 32,
       "XP": 80,
-      "UsersEstimate": 994
+      "UsersEstimate": 995
     },
     {
       "ID": "5",
@@ -4436,7 +4441,7 @@
       "Name": "PRO",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 1056
+      "UsersEstimate": 1057
     },
     {
       "ID": "7",
@@ -4467,13 +4472,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 3107,
+      "Progressed": 3108,
       "Completed": 151
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-08-16T13:10:14.2814912+00:00",
+  "LastChanged_Achievements": "2023-08-16T14:08:04.9472116+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:44.0676288+00:00",
-  "LastUpdate_Ratings": "2023-08-16T13:03:43.1718295+00:00",
-  "LastUpdate_Achievements": "2023-08-16T13:10:14.2815267+00:00"
+  "LastUpdate_Ratings": "2023-08-16T14:01:04.8009232+00:00",
+  "LastUpdate_Achievements": "2023-08-16T14:08:04.94725+00:00"
 }

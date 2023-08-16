@@ -14,11 +14,11 @@
 | Defender | 1.00% | ~1 |
 | GGEZ | 1.00% | ~1 |
 | Rep2 | 1.00% | ~1 |
+| Rep3 | 1.00% | ~1 |
 | Researcher | 1.00% | ~1 |
-| Rep3 | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 77 (Ranked 340)  
-Completed: 0 (0.00%) (Ranked 257)  
+Completed: 1 (1.30%) (Ranked 108)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -66,3 +66,4 @@ Completed: 0 (0.00%) (Ranked 257)
 | 2023-08-02 | 75 | 0 |
 | 2023-08-04 | 76 | 0 |
 | 2023-08-15 | 77 | 0 |
+| 2023-08-16 | 77 | 1 |

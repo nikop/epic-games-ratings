@@ -6,9 +6,9 @@
   "Ranking_Popularity": 268,
   "Ranking_PopularitySum": 363,
   "Ranking_EOS_Progress": 37,
-  "Ranking_EOS_Completed": 257,
+  "Ranking_EOS_Completed": 258,
   "Ranking_EOS_NewPlayers": 76,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -574,7 +574,7 @@
       "Count": 216
     }
   ],
-  "EOS_Progressed": 465352,
+  "EOS_Progressed": 465355,
   "EOS_Completed": 17,
   "EOS_NewPlayers": 519,
   "EOS_NewCompleters": 1,
@@ -12829,6 +12829,11 @@
       "Time": "2023-08-16T13:08:54.3835497+00:00",
       "NumProgressed": 465352,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-08-16T14:06:19.3038753+00:00",
+      "NumProgressed": 465355,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 79,
@@ -12856,7 +12861,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 111684
+      "UsersEstimate": 111685
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -12864,7 +12869,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 102377
+      "UsersEstimate": 102378
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -12880,7 +12885,7 @@
       "Name": "Chapter III: The Man Who Sold the World",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 46535
+      "UsersEstimate": 46536
     },
     {
       "ID": "achievement_story_complete_chapter_4",
@@ -12928,7 +12933,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 307132
+      "UsersEstimate": 307134
     },
     {
       "ID": "achievement_story_landa",
@@ -12960,7 +12965,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 116338
+      "UsersEstimate": 116339
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -13016,7 +13021,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 93070
+      "UsersEstimate": 93071
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -13024,7 +13029,7 @@
       "Name": "Second Coming",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 153566
+      "UsersEstimate": 153567
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -13264,7 +13269,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 204755
+      "UsersEstimate": 204756
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -13296,7 +13301,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 181487
+      "UsersEstimate": 181488
     },
     {
       "ID": "achievement_win_run_hard",
@@ -13352,7 +13357,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 102377
+      "UsersEstimate": 102378
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -13471,21 +13476,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 9286,
+      "Progressed": 9289,
       "Completed": 2355
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 465352,
+      "Progressed": 465355,
       "Completed": 17
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-08-15T14:00:50.2663605+00:00",
-  "LastChanged_Achievements": "2023-08-16T13:08:54.3835491+00:00",
+  "LastChanged_Achievements": "2023-08-16T14:06:19.3038747+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:04.9098517+00:00",
-  "LastUpdate_Ratings": "2023-08-16T13:03:57.5520394+00:00",
-  "LastUpdate_Achievements": "2023-08-16T13:08:54.383674+00:00"
+  "LastUpdate_Ratings": "2023-08-16T14:01:28.0887046+00:00",
+  "LastUpdate_Achievements": "2023-08-16T14:06:19.3040043+00:00"
 }

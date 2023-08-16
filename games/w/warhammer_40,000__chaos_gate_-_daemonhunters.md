@@ -44,6 +44,7 @@ Number of Ratings: 371  (23.09.2022)
 | Exterminator | 0.20% | ~6 |
 | Harvest No More | 0.20% | ~6 |
 | Death Comes For All | 0.20% | ~6 |
+| True Mastery | 0.20% | ~6 |
 | Reign of Confusion | 0.20% | ~6 |
 | Suffer Not the Mutant | 0.20% | ~6 |
 | Arsenal of Destruction | 0.10% | ~3 |
@@ -60,7 +61,6 @@ Number of Ratings: 371  (23.09.2022)
 | Phalanx | 0.10% | ~3 |
 | Exercise in Restraint | 0.10% | ~3 |
 | Firing Squad | 0.10% | ~3 |
-| True Mastery | 0.10% | ~3 |
 | Abomination | 0.10% | ~3 |
 | Killing Rampage | 0.10% | ~3 |
 | Deadshot | 0.10% | ~3 |
@@ -76,7 +76,7 @@ Number of Ratings: 371  (23.09.2022)
 | Strategic Command | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,154 (Ranked 154)  
-Completed: 0 (0.00%) (Ranked 257)  
+Completed: 0 (0.00%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

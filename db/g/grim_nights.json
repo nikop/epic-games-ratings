@@ -3,9 +3,9 @@
   "Name": "Grim Nights",
   "ProductSlug": "grim-nights-fa4c5a",
   "Ranking_EOS_Progress": 378,
-  "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 263,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_Completed": 258,
+  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-04-24T23:00:00+00:00",
     "PcReleaseDate": "2018-10-11T22:00:00+00:00",
@@ -319,9 +319,9 @@
       "ID": "ach_level2",
       "SetID": "c2c0fb6",
       "Name": "Getting somewhere",
-      "Percentage": 57,
+      "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ach_level3",
@@ -376,8 +376,8 @@
   "FirstSeenRating": "2023-04-28T10:59:29.2849969+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:04.6857767+00:00",
   "LastChanged": "2023-04-28T10:59:29.284997+00:00",
-  "LastChanged_Achievements": "2023-08-16T13:06:30.9363326+00:00",
+  "LastChanged_Achievements": "2023-08-16T14:03:27.1177553+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:47.4799592+00:00",
-  "LastUpdate_Ratings": "2023-08-16T13:03:44.0387686+00:00",
-  "LastUpdate_Achievements": "2023-08-16T13:06:30.9363438+00:00"
+  "LastUpdate_Ratings": "2023-08-16T14:01:06.0874831+00:00",
+  "LastUpdate_Achievements": "2023-08-16T14:03:27.1177661+00:00"
 }

@@ -13,7 +13,7 @@ Number of Ratings: 706  (23.09.2022)
 | Green Thumb | 66.00% | ~3,509 |
 | Novice Researcher | 65.00% | ~3,456 |
 | Putting Food on the Table | 59.00% | ~3,137 |
-| Home Cooked Meal | 56.00% | ~2,978 |
+| Home Cooked Meal | 57.00% | ~3,031 |
 | Onward | 55.00% | ~2,924 |
 | The First Week | 53.00% | ~2,818 |
 | Studious Researcher | 51.00% | ~2,712 |
@@ -23,7 +23,7 @@ Number of Ratings: 706  (23.09.2022)
 | Retribution | 40.00% | ~2,127 |
 | ...And Don’t Come Back! | 40.00% | ~2,127 |
 | Fit For A King | 38.00% | ~2,020 |
-| Luminary Researcher | 32.00% | ~1,701 |
+| Luminary Researcher | 33.00% | ~1,755 |
 | Heating Up | 29.00% | ~1,542 |
 | Winter Is Coming | 26.00% | ~1,382 |
 | Winter Is Here | 23.00% | ~1,223 |
@@ -39,7 +39,7 @@ Number of Ratings: 706  (23.09.2022)
 | Wabbit Season | 0.50% | ~27 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,317 (Ranked 137)  
-Completed: 10 (0.19%) (Ranked 186)  
+Completed: 10 (0.19%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

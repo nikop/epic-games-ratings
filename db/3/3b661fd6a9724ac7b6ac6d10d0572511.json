@@ -6,7 +6,7 @@
   "Ranking_Popularity": 51,
   "Ranking_PopularitySum": 73,
   "Ranking_EOS_Progress": 6,
-  "Ranking_EOS_Completed": 233,
+  "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 4,
   "Ranking_EOS_NewCompleters": 4,
   "Store": {
@@ -2992,9 +2992,9 @@
       "Count": 694
     }
   ],
-  "EOS_Progressed": 1575080,
+  "EOS_Progressed": 1575241,
   "EOS_Completed": 504,
-  "EOS_NewPlayers": 25398,
+  "EOS_NewPlayers": 25417,
   "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -10912,6 +10912,11 @@
       "Time": "2023-08-16T13:10:25.1406134+00:00",
       "NumProgressed": 1575080,
       "NumCompleted": 504
+    },
+    {
+      "Time": "2023-08-16T14:08:18.6617396+00:00",
+      "NumProgressed": 1575241,
+      "NumCompleted": 504
     }
   ],
   "TotalAchievements": 1328,
@@ -11105,9 +11110,9 @@
       "ID": "axe_13",
       "SetID": "bkjdbk8",
       "Name": "Dirty Energy",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "axe_14",
@@ -12113,9 +12118,9 @@
       "ID": "brb_9",
       "SetID": "bkjdbk8",
       "Name": "Obsessive Opening",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "brooklyn_1",
@@ -12177,9 +12182,9 @@
       "ID": "bullet_dodger",
       "SetID": "bkjdbk8",
       "Name": "Bullet Dodger",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "cac_1",
@@ -12401,9 +12406,9 @@
       "ID": "cac_34",
       "SetID": "bkjdbk8",
       "Name": "Lieutenant Colonel",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "cac_35",
@@ -12441,9 +12446,9 @@
       "ID": "cac_6",
       "SetID": "bkjdbk8",
       "Name": "Just Shut up and Take My Money!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "cac_7",
@@ -13169,9 +13174,9 @@
       "ID": "death_11",
       "SetID": "61cefe3",
       "Name": "Changing the World...",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "death_12",
@@ -13745,17 +13750,17 @@
       "ID": "eng_2",
       "SetID": "bkjdbk8",
       "Name": "The one that had many names",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "eng_3",
       "SetID": "bkjdbk8",
       "Name": "The one that survived",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "eng_4",
@@ -13969,9 +13974,9 @@
       "ID": "fish_ai",
       "SetID": "bkjdbk8",
       "Name": "Fish A.I.",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "flake_1",
@@ -14001,9 +14006,9 @@
       "ID": "flat_3",
       "SetID": "bkjdbk8",
       "Name": "The Dentist Delight",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "flat_5",
@@ -14033,9 +14038,9 @@
       "ID": "fort_3",
       "SetID": "bkjdbk8",
       "Name": "Tag, You\u0027re It!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "fort_4",
@@ -14233,9 +14238,9 @@
       "ID": "gage3_13",
       "SetID": "bkjdbk8",
       "Name": "Didn\u0027t See That Coming Did You?",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "gage3_14",
@@ -14729,9 +14734,9 @@
       "ID": "ggez_25",
       "SetID": "61cefe3",
       "Name": "Slick Heisting",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "ggez_26",
@@ -15313,9 +15318,9 @@
       "ID": "gmod_2",
       "SetID": "bkjdbk8",
       "Name": "Bullseye",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "gmod_3",
@@ -15401,9 +15406,9 @@
       "ID": "gorilla_1",
       "SetID": "bkjdbk8",
       "Name": "Knockout!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "green_1",
@@ -15489,9 +15494,9 @@
       "ID": "grill_4",
       "SetID": "bkjdbk8",
       "Name": "OVERGRILL",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "grv_1",
@@ -15625,17 +15630,17 @@
       "ID": "halloween_nightmare_1",
       "SetID": "bkjdbk8",
       "Name": "Cheerful Child",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "halloween_nightmare_2",
       "SetID": "bkjdbk8",
       "Name": "Gilliam\u0027s Sweet Little Baby",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "halloween_nightmare_3",
@@ -15937,9 +15942,9 @@
       "ID": "ja22_01",
       "SetID": "bkjdbk8",
       "Name": "CAR vs. Car",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "jerry_1",
@@ -15953,9 +15958,9 @@
       "ID": "jerry_2",
       "SetID": "bkjdbk8",
       "Name": "Pinpoint Landing",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "jerry_3",
@@ -16169,9 +16174,9 @@
       "ID": "lrfo_1",
       "SetID": "bkjdbk8",
       "Name": "Conspiracy Theory",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "mad_1",
@@ -16625,9 +16630,9 @@
       "ID": "nmh_9",
       "SetID": "bkjdbk8",
       "Name": "...or was it the blue one?",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "no_one_cared_who_i_was",
@@ -17617,9 +17622,9 @@
       "ID": "pxp1_1",
       "SetID": "bkjdbk8",
       "Name": "Plague Doctor",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "pxp2_1",
@@ -17641,9 +17646,9 @@
       "ID": "pxp2_3",
       "SetID": "bkjdbk8",
       "Name": "Snake Charmer",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "ranc_1",
@@ -21546,22 +21551,22 @@
     {
       "ID": "61cefe3",
       "IsBase": true,
-      "Progressed": 1575080,
+      "Progressed": 1575241,
       "Completed": 504
     },
     {
       "ID": "bkjdbk8",
       "IsBase": false,
-      "Progressed": 1575080,
-      "Completed": 6
+      "Progressed": 1575241,
+      "Completed": 7
     }
   ],
   "FirstSeen": "2023-06-08T18:57:07.8003815+00:00",
   "FirstSeenRating": "2023-06-09T03:57:04.3869033+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:50.4372379+00:00",
   "LastChanged": "2023-08-16T13:01:54.6493655+00:00",
-  "LastChanged_Achievements": "2023-08-16T13:10:25.1406125+00:00",
+  "LastChanged_Achievements": "2023-08-16T14:08:18.661739+00:00",
   "LastUpdate_AppInfo": "2023-08-10T19:57:07.9529529+00:00",
-  "LastUpdate_Ratings": "2023-08-16T13:01:54.649366+00:00",
-  "LastUpdate_Achievements": "2023-08-16T13:10:25.1545148+00:00"
+  "LastUpdate_Ratings": "2023-08-16T13:58:42.2692895+00:00",
+  "LastUpdate_Achievements": "2023-08-16T14:08:18.6759058+00:00"
 }

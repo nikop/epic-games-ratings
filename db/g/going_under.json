@@ -3,9 +3,9 @@
   "Name": "Going Under",
   "ProductSlug": "going-under",
   "Ranking_EOS_Progress": 546,
-  "Ranking_EOS_Completed": 257,
+  "Ranking_EOS_Completed": 258,
   "Ranking_EOS_NewPlayers": 355,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2020-09-29T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:03.8880203+00:00",
   "LastChanged": "2023-03-31T05:58:03.8880204+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:15.4803414+00:00",
-  "LastUpdate_Ratings": "2023-08-16T13:03:15.6159155+00:00",
-  "LastUpdate_Achievements": "2023-08-16T13:09:42.1102391+00:00"
+  "LastUpdate_Ratings": "2023-08-16T14:00:30.5469583+00:00",
+  "LastUpdate_Achievements": "2023-08-16T14:07:22.7703217+00:00"
 }

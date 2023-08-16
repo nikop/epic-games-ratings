@@ -4,8 +4,8 @@
   "ProductSlug": "skye-tales-02bf5b",
   "Ranking_EOS_Progress": 467,
   "Ranking_EOS_Completed": 7,
-  "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2023-08-16T23:00:00+00:00",
     "PcReleaseDate": "2023-08-16T23:00:00+00:00",
@@ -209,9 +209,9 @@
       "ID": "Hoppy Lil\u0027 Guys",
       "SetID": "dene75h",
       "Name": "Hoppy Lil\u0027 Guys",
-      "Percentage": 25,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Light It Up!",
@@ -353,9 +353,9 @@
       "ID": "Sweeter Shooter",
       "SetID": "dene75h",
       "Name": "Sweeter Shooter",
-      "Percentage": 25,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Travel in Style",
@@ -383,8 +383,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-21T10:01:39.9967766+00:00",
-  "LastChanged_Achievements": "2023-08-16T13:06:31.1400934+00:00",
+  "LastChanged_Achievements": "2023-08-16T14:03:27.3459841+00:00",
   "LastUpdate_AppInfo": "2023-08-11T13:00:04.7323394+00:00",
-  "LastUpdate_Ratings": "2023-08-16T13:01:30.7195147+00:00",
-  "LastUpdate_Achievements": "2023-08-16T13:06:31.1401196+00:00"
+  "LastUpdate_Ratings": "2023-08-16T13:58:10.0448799+00:00",
+  "LastUpdate_Achievements": "2023-08-16T14:03:27.3460048+00:00"
 }

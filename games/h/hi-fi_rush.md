@@ -23,7 +23,7 @@ Rating: 4.88 (Ranked 18)
 | Z-shielding's got nothing on us! | 5.00% | ~196 |
 | Kissing the sky! | 5.00% | ~196 |
 | Does that say weakpoint? | 5.00% | ~196 |
-| NOW we got a kickass hideout! | 5.00% | ~122 |
+| NOW we got a kickass hideout! | 5.00% | ~123 |
 | Headliner | 4.00% | ~157 |
 | Time to pay up! | 4.00% | ~157 |
 | Who's the boss now? | 4.00% | ~157 |
@@ -41,7 +41,7 @@ Rating: 4.88 (Ranked 18)
 | Wanna hear my playlist? | 1.00% | ~39 |
 | I told you I'd be fine, Peppermint! | 1.00% | ~39 |
 | Check out my moves! | 1.00% | ~39 |
-| Call me Turbo Chai | 1.00% | ~24 |
+| Call me Turbo Chai | 1.00% | ~25 |
 | I think I deserve some praise, here! | 0.90% | ~35 |
 | We're Jammin' | 0.90% | ~35 |
 | First we parry, then we counter | 0.80% | ~31 |
@@ -77,8 +77,8 @@ Rating: 4.88 (Ranked 18)
 | Voices from within | 0.10% | ~2 |
 | Low budget finish | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,929 (Ranked 147)  
-Completed: 7 (0.18%) (Ranked 187)  
+Progressed: 3,930 (Ranked 147)  
+Completed: 7 (0.18%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -193,7 +193,7 @@ Completed: 7 (0.18%) (Ranked 187)
 | 2023-08-13 | 3,885 | 7 |
 | 2023-08-14 | 3,899 | 7 |
 | 2023-08-15 | 3,914 | 7 |
-| 2023-08-16 | 3,929 | 7 |
+| 2023-08-16 | 3,930 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

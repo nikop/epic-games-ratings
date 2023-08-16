@@ -6,7 +6,7 @@
   "Ranking_Popularity": 289,
   "Ranking_PopularitySum": 375,
   "Ranking_EOS_Progress": 56,
-  "Ranking_EOS_Completed": 257,
+  "Ranking_EOS_Completed": 258,
   "Ranking_EOS_NewPlayers": 21,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
@@ -648,9 +648,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 213107,
+  "EOS_Progressed": 213119,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3814,
+  "EOS_NewPlayers": 3808,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7128,6 +7128,11 @@
       "Time": "2023-08-16T13:08:19.3689123+00:00",
       "NumProgressed": 213107,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-16T14:05:33.8041858+00:00",
+      "NumProgressed": 213119,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -7233,9 +7238,9 @@
       "ID": "Chapter7",
       "SetID": "50chcgj",
       "Name": "Urik\u0027s Depths",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 639
+      "UsersEstimate": 852
     },
     {
       "ID": "Chapter8",
@@ -7489,9 +7494,9 @@
       "ID": "DifficultyHero",
       "SetID": "50chcgj",
       "Name": "The Famous Dungeon of Naheulbeuk",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 426
+      "UsersEstimate": 639
     },
     {
       "ID": "DifficultyIronManNoCompanion",
@@ -7587,7 +7592,7 @@
       "Name": "Sowwy!",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 31966
+      "UsersEstimate": 31968
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -7842,21 +7847,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 213107,
+      "Progressed": 213119,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 213107,
+      "Progressed": 213119,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-15T01:40:21.2095498+00:00",
-  "LastChanged_Achievements": "2023-08-16T13:08:19.3689119+00:00",
+  "LastChanged_Achievements": "2023-08-16T14:05:33.8041853+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:49.6773731+00:00",
-  "LastUpdate_Ratings": "2023-08-16T13:03:48.666403+00:00",
-  "LastUpdate_Achievements": "2023-08-16T13:08:19.3690235+00:00"
+  "LastUpdate_Ratings": "2023-08-16T14:01:13.883557+00:00",
+  "LastUpdate_Achievements": "2023-08-16T14:05:33.8042999+00:00"
 }
