@@ -41,7 +41,7 @@
 | 39 | [Scorn](games/s/scorn.md) | 6.95% |
 | 40 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.89% |
 | 41 | [Time Loader](games/t/time_loader.md) | 6.78% |
-| 42 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.38% |
+| 42 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.36% |
 | 43 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 44 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 45 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.98% |
@@ -106,7 +106,7 @@
 | 104 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.47% |
 | 105 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.46% |
 | 105 | [Ten Dates](games/t/ten_dates.md) | 1.46% |
-| 107 | [Poosh XL](games/p/poosh_xl.md) | 1.43% |
+| 107 | [Poosh XL](games/p/poosh_xl.md) | 1.42% |
 | 108 | [Late Shift](games/l/late_shift.md) | 1.30% |
 | 109 | [Chorus](games/c/chorus.md) | 1.15% |
 | 110 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.11% |
@@ -140,7 +140,7 @@
 | 138 | [Grindstone](games/g/grindstone.md) | 0.56% |
 | 139 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.55% |
 | 140 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.53% |
-| 140 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.53% |
+| 141 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
 | 142 | [Aragami 2](games/a/aragami_2.md) | 0.51% |
 | 142 | [The Surge 2](games/t/the_surge_2.md) | 0.51% |
 | 144 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.50% |
