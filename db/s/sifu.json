@@ -5688,7 +5688,7 @@
       "Count": 370
     }
   ],
-  "EOS_Progressed": 712450,
+  "EOS_Progressed": 712451,
   "EOS_Completed": 12860,
   "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 11,
@@ -16693,6 +16693,11 @@
       "Time": "2023-08-16T01:42:51.0809981+00:00",
       "NumProgressed": 712450,
       "NumCompleted": 12860
+    },
+    {
+      "Time": "2023-08-16T06:04:34.4354965+00:00",
+      "NumProgressed": 712451,
+      "NumCompleted": 12860
     }
   ],
   "TotalAchievements": 50,
@@ -16744,7 +16749,7 @@
       "Name": "Furious Fists",
       "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 7124
+      "UsersEstimate": 7125
     },
     {
       "ID": "07_Wude_H1",
@@ -16792,7 +16797,7 @@
       "Name": "Scareless",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7124
+      "UsersEstimate": 7125
     },
     {
       "ID": "13_LowAge",
@@ -16856,7 +16861,7 @@
       "Name": "Stuntmaster",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7124
+      "UsersEstimate": 7125
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -16864,7 +16869,7 @@
       "Name": "Dance of the Praying Mantis",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7124
+      "UsersEstimate": 7125
     },
     {
       "ID": "22_ThrowEE_Trophy",
@@ -16896,7 +16901,7 @@
       "Name": "Qi Gong: Mind",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7124
+      "UsersEstimate": 7125
     },
     {
       "ID": "26_ShrineSpirit",
@@ -16936,7 +16941,7 @@
       "Name": "I know Kung-Fu",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7124
+      "UsersEstimate": 7125
     },
     {
       "ID": "31_ComboHigh",
@@ -16952,7 +16957,7 @@
       "Name": "Old Child",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7124
+      "UsersEstimate": 7125
     },
     {
       "ID": "33_BladeOneShot",
@@ -16976,7 +16981,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7124
+      "UsersEstimate": 7125
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -17016,7 +17021,7 @@
       "Name": "Take damage to save time",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7124
+      "UsersEstimate": 7125
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -17103,21 +17108,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 21751,
+      "Progressed": 21752,
       "Completed": 10527
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 712450,
+      "Progressed": 712451,
       "Completed": 12860
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-08-15T13:03:20.7940108+00:00",
-  "LastChanged_Achievements": "2023-08-16T05:04:37.9923294+00:00",
+  "LastChanged_Achievements": "2023-08-16T06:04:34.4354961+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:46.245364+00:00",
-  "LastUpdate_Ratings": "2023-08-16T05:00:48.154176+00:00",
-  "LastUpdate_Achievements": "2023-08-16T05:04:37.9924519+00:00"
+  "LastUpdate_Ratings": "2023-08-16T06:00:44.088849+00:00",
+  "LastUpdate_Achievements": "2023-08-16T06:04:34.4355839+00:00"
 }

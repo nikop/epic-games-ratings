@@ -324,9 +324,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 65715,
+  "EOS_Progressed": 65716,
   "EOS_Completed": 345,
-  "EOS_NewPlayers": 715,
+  "EOS_NewPlayers": 716,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -12999,6 +12999,11 @@
       "Time": "2023-08-16T05:05:13.8801504+00:00",
       "NumProgressed": 65715,
       "NumCompleted": 345
+    },
+    {
+      "Time": "2023-08-16T06:05:09.3996531+00:00",
+      "NumProgressed": 65716,
+      "NumCompleted": 345
     }
   ],
   "TotalAchievements": 24,
@@ -13026,7 +13031,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 44686
+      "UsersEstimate": 44687
     },
     {
       "ID": "BEST_FRIENDS",
@@ -13034,7 +13039,7 @@
       "Name": "BEST FRIENDS",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 14457
+      "UsersEstimate": 14458
     },
     {
       "ID": "BLOOMS_OF_LIGHT",
@@ -13066,7 +13071,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 19057
+      "UsersEstimate": 19058
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -13170,7 +13175,7 @@
       "Name": "SPIRIT FORM",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 10514
+      "UsersEstimate": 10515
     },
     {
       "ID": "UPROOTING_DARKNESS",
@@ -13201,7 +13206,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 65715,
+      "Progressed": 65716,
       "Completed": 345
     }
   ],
@@ -13209,8 +13214,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-08-16T05:05:13.8801499+00:00",
+  "LastChanged_Achievements": "2023-08-16T06:05:09.3996526+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:14.4759947+00:00",
-  "LastUpdate_Ratings": "2023-08-16T05:01:15.2092548+00:00",
-  "LastUpdate_Achievements": "2023-08-16T05:05:13.8802446+00:00"
+  "LastUpdate_Ratings": "2023-08-16T06:01:15.8795038+00:00",
+  "LastUpdate_Achievements": "2023-08-16T06:05:09.399723+00:00"
 }

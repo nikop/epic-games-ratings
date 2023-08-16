@@ -4,8 +4,8 @@
   "ProductSlug": "angelo-and-deemon-one-hell-of-a-quest-94d7e2",
   "Ranking_EOS_Progress": 466,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 263,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-08-15T14:00:00+00:00",
     "PcReleaseDate": "2019-09-27T12:00:00+00:00",
@@ -78,9 +78,9 @@
       "ID": "EnterMatrix",
       "SetID": "bl5ebnd",
       "Name": "Enter the Matrix",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "GoldenYouth",
@@ -142,33 +142,33 @@
       "ID": "PortraitMadness",
       "SetID": "bl5ebnd",
       "Name": "Portrait of Madness",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "PrivateVisit",
       "SetID": "bl5ebnd",
       "Name": "Private Visit",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 70,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Reincarnation",
       "SetID": "bl5ebnd",
       "Name": "Reincarnation",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SelfieKing",
       "SetID": "bl5ebnd",
       "Name": "Selfie King",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 85,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "TrueBlogger",
@@ -196,8 +196,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-07T14:05:00.198888+00:00",
-  "LastChanged_Achievements": "2023-08-16T05:06:08.8830709+00:00",
+  "LastChanged_Achievements": "2023-08-16T06:06:02.2397562+00:00",
   "LastUpdate_AppInfo": "2023-08-10T10:57:09.5773097+00:00",
-  "LastUpdate_Ratings": "2023-08-16T04:58:37.4612915+00:00",
-  "LastUpdate_Achievements": "2023-08-16T05:06:08.8830836+00:00"
+  "LastUpdate_Ratings": "2023-08-16T05:58:25.8565623+00:00",
+  "LastUpdate_Achievements": "2023-08-16T06:06:02.2397664+00:00"
 }

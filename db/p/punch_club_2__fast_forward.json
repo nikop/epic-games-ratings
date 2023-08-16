@@ -4,8 +4,8 @@
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 68,
-  "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
     "PcReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -967,9 +967,9 @@
       "ID": "any_stat_15",
       "SetID": "69co12a",
       "Name": "Workout professional",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 157
     },
     {
       "ID": "any_stat_30",
@@ -1215,9 +1215,9 @@
       "ID": "mick_house",
       "SetID": "69co12a",
       "Name": "Spirit of the past",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 162
+      "UsersEstimate": 164
     },
     {
       "ID": "mike_resurect",
@@ -1431,9 +1431,9 @@
       "ID": "work_promotion_3",
       "SetID": "69co12a",
       "Name": "Employee of the year",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 149
+      "UsersEstimate": 152
     }
   ],
   "AchievementSets": [
@@ -1446,8 +1446,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-08-16T05:05:18.9361438+00:00",
+  "LastChanged_Achievements": "2023-08-16T06:05:14.3026168+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:18.7618858+00:00",
-  "LastUpdate_Ratings": "2023-08-16T04:59:05.8841889+00:00",
-  "LastUpdate_Achievements": "2023-08-16T05:05:18.9362065+00:00"
+  "LastUpdate_Ratings": "2023-08-16T05:58:59.7937526+00:00",
+  "LastUpdate_Achievements": "2023-08-16T06:05:14.3026692+00:00"
 }

@@ -5,10 +5,10 @@
   "Ranking_Rating": 646,
   "Ranking_Popularity": 484,
   "Ranking_PopularitySum": 488,
-  "Ranking_EOS_Progress": 172,
+  "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 181,
   "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -331,7 +331,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 1806,
+  "EOS_Progressed": 1807,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
@@ -1841,6 +1841,11 @@
       "Time": "2023-08-15T09:03:06.1533731+00:00",
       "NumProgressed": 1806,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-16T06:03:16.2053789+00:00",
+      "NumProgressed": 1807,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -1860,7 +1865,7 @@
       "Name": "Dead or Alive",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1012
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -1892,7 +1897,7 @@
       "Name": "Do Not Pass Go\u2026",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "ACH_ELUSIVE_PREY",
@@ -1932,7 +1937,7 @@
       "Name": "Full House",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "ACH_GETTING_THE_GANG_BACK_TOGETHER",
@@ -1956,7 +1961,7 @@
       "Name": "Gold Digger",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "ACH_HEALING_OLD_WOUNDS",
@@ -2036,7 +2041,7 @@
       "Name": "Eternity Can Wait",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "ACH_MA_BARKER",
@@ -2052,7 +2057,7 @@
       "Name": "Monster Hunter",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "ACH_MOONDRUNK",
@@ -2100,7 +2105,7 @@
       "Name": "Perky",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1174
+      "UsersEstimate": 1175
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -2148,7 +2153,7 @@
       "Name": "Self-Improvement",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1300
+      "UsersEstimate": 1301
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -2180,7 +2185,7 @@
       "Name": "The Great Escape",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "ACH_THE_HARD_WAY",
@@ -2188,7 +2193,7 @@
       "Name": "Knuckle Sandwich",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "ACH_THE_PHILOSOPHERS_STONE",
@@ -2228,7 +2233,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1589
+      "UsersEstimate": 1590
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -2236,7 +2241,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 1029
+      "UsersEstimate": 1030
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -2275,15 +2280,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1806,
+      "Progressed": 1807,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-08-02T19:59:24.9286429+00:00",
-  "LastChanged_Achievements": "2023-08-16T05:03:17.6048026+00:00",
+  "LastChanged_Achievements": "2023-08-16T06:03:16.2053782+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:13.6246247+00:00",
-  "LastUpdate_Ratings": "2023-08-16T05:00:13.531069+00:00",
-  "LastUpdate_Achievements": "2023-08-16T05:03:17.6048609+00:00"
+  "LastUpdate_Ratings": "2023-08-16T06:00:11.0558394+00:00",
+  "LastUpdate_Achievements": "2023-08-16T06:03:16.2054264+00:00"
 }

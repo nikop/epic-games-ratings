@@ -31,7 +31,7 @@ Rating: 4.20 (Ranked 854)
 | Desperate Times | 2.00% | ~317 |
 | One Last Job | 2.00% | ~76 |
 | In Striking Distance | 1.00% | ~159 |
-| This Isn't About Escape | 0.80% | ~30 |
+| This Isn't About Escape | 0.90% | ~34 |
 | Armed to the Teeth | 0.60% | ~23 |
 | Information Overload | 0.60% | ~23 |
 | Grim Reaper | 0.50% | ~79 |

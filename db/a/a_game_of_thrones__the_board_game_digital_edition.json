@@ -1269,9 +1269,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 21510,
+  "EOS_Progressed": 21511,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 617,
+  "EOS_NewPlayers": 616,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -13764,6 +13764,11 @@
       "Time": "2023-08-16T05:03:47.3737716+00:00",
       "NumProgressed": 21510,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-08-16T06:03:45.4106523+00:00",
+      "NumProgressed": 21511,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 22,
@@ -13903,7 +13908,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3011
+      "UsersEstimate": 3012
     },
     {
       "ID": "1032",
@@ -13950,15 +13955,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 21510,
+      "Progressed": 21511,
       "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-08-02T00:02:09.7226533+00:00",
-  "LastChanged_Achievements": "2023-08-16T05:03:47.3737711+00:00",
+  "LastChanged_Achievements": "2023-08-16T06:03:45.4106518+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:21.6201969+00:00",
-  "LastUpdate_Ratings": "2023-08-16T04:57:54.9155028+00:00",
-  "LastUpdate_Achievements": "2023-08-16T05:03:47.3738566+00:00"
+  "LastUpdate_Ratings": "2023-08-16T05:57:44.9086793+00:00",
+  "LastUpdate_Achievements": "2023-08-16T06:03:45.4107189+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "space-war-infinity-024a8f",
   "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 263,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-08-15T15:00:00+00:00",
     "PcReleaseDate": "2019-05-28T13:00:00+00:00",
@@ -404,8 +404,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-09T13:13:29.9534062+00:00",
-  "LastChanged_Achievements": "2023-08-16T05:03:55.1519989+00:00",
+  "LastChanged_Achievements": "2023-08-16T06:03:52.9463815+00:00",
   "LastUpdate_AppInfo": "2023-08-09T13:08:24.198542+00:00",
-  "LastUpdate_Ratings": "2023-08-16T04:57:44.7129823+00:00",
-  "LastUpdate_Achievements": "2023-08-16T05:03:55.1520561+00:00"
+  "LastUpdate_Ratings": "2023-08-16T05:57:37.2128177+00:00",
+  "LastUpdate_Achievements": "2023-08-16T06:03:52.9464092+00:00"
 }

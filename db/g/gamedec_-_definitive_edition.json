@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 48,
   "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 50,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -396,9 +396,9 @@
       "Count": 79
     }
   ],
-  "EOS_Progressed": 242221,
+  "EOS_Progressed": 242222,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1032,
+  "EOS_NewPlayers": 1028,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13306,6 +13306,11 @@
       "Time": "2023-08-16T05:04:36.0894485+00:00",
       "NumProgressed": 242221,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-08-16T06:04:32.5167031+00:00",
+      "NumProgressed": 242222,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -13589,7 +13594,7 @@
       "Name": "It\u0027s honest work",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 16955
+      "UsersEstimate": 16956
     },
     {
       "ID": "ACH_MEMESMART",
@@ -13621,7 +13626,7 @@
       "Name": "Griever",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 16955
+      "UsersEstimate": 16956
     },
     {
       "ID": "ACH_PUMPKINJACK",
@@ -13637,7 +13642,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 60555
+      "UsersEstimate": 60556
     },
     {
       "ID": "ACH_SOREAD",
@@ -13732,7 +13737,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 242221,
+      "Progressed": 242222,
       "Completed": 7
     }
   ],
@@ -13740,8 +13745,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-08-15T07:59:00.2810594+00:00",
-  "LastChanged_Achievements": "2023-08-16T05:04:36.0894479+00:00",
+  "LastChanged_Achievements": "2023-08-16T06:04:32.5167026+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:38.5729047+00:00",
-  "LastUpdate_Ratings": "2023-08-16T04:59:40.1753915+00:00",
-  "LastUpdate_Achievements": "2023-08-16T05:04:36.0895812+00:00"
+  "LastUpdate_Ratings": "2023-08-16T05:59:34.0078212+00:00",
+  "LastUpdate_Achievements": "2023-08-16T06:04:32.5167975+00:00"
 }

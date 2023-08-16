@@ -16,12 +16,12 @@
 | It's a Sign! | 28.00% | ~11 |
 | Just Some Improvements | 21.00% | ~8 |
 | A Little Extra Love | 18.00% | ~7 |
+| An Unexpected Visitor | 18.00% | ~7 |
 | Final Announcement | 18.00% | ~7 |
 | A New Strategy | 18.00% | ~7 |
 | My Precious Gems! | 15.00% | ~6 |
 | Isn't It Beautiful? | 15.00% | ~6 |
 | A Generous Leader | 15.00% | ~6 |
-| An Unexpected Visitor | 15.00% | ~6 |
 | Orcharion Boost | 13.00% | ~5 |
 | Case Closed | 13.00% | ~5 |
 | How Do You Like Them Apples? | 13.00% | ~5 |

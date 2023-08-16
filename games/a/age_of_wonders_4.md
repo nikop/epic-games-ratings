@@ -47,7 +47,7 @@ Rating: 4.61 (Ranked 363)
 | Grexolis | 1.00% | ~51 |
 | One for All, All for One | 1.00% | ~51 |
 | Manufactured War | 0.80% | ~41 |
-| Snap Out of It! | 0.60% | ~31 |
+| Snap Out of It! | 0.70% | ~36 |
 | Betrayal Most Foul | 0.40% | ~20 |
 | I Want to Break Free | 0.30% | ~15 |
 | Returning Circle | 0.20% | ~10 |

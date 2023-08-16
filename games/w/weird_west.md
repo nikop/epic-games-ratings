@@ -6,13 +6,13 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 88.00% | ~1,589 |
-| Self-Improvement | 72.00% | ~1,300 |
-| Perky | 65.00% | ~1,174 |
+| Unforgiven | 88.00% | ~1,590 |
+| Self-Improvement | 72.00% | ~1,301 |
+| Perky | 65.00% | ~1,175 |
 | Let’s Ride | 60.00% | ~1,084 |
-| Welcome to the Weird West | 57.00% | ~1,029 |
-| Dead or Alive | 56.00% | ~1,011 |
-| Full House | 37.00% | ~668 |
+| Welcome to the Weird West | 57.00% | ~1,030 |
+| Dead or Alive | 56.00% | ~1,012 |
+| Full House | 37.00% | ~669 |
 | Off the Trail | 34.00% | ~614 |
 | Justice Served | 29.00% | ~524 |
 | Chain Reaction | 27.00% | ~488 |
@@ -20,7 +20,7 @@ Number of Ratings: 125  (23.09.2022)
 | Rain of Death | 25.00% | ~452 |
 | Scholar | 25.00% | ~452 |
 | Through Their Eyes | 25.00% | ~452 |
-| The Great Escape | 23.00% | ~415 |
+| The Great Escape | 23.00% | ~416 |
 | That’s All, Folks | 18.00% | ~325 |
 | Fallen Star | 16.00% | ~289 |
 | Here Comes Santa Claus | 16.00% | ~289 |
@@ -37,11 +37,11 @@ Number of Ratings: 125  (23.09.2022)
 | The Philosopher’s Stone | 10.00% | ~181 |
 | Loyalty to the Pack | 9.00% | ~163 |
 | Mystery Machine | 9.00% | ~163 |
-| Do Not Pass Go… | 8.00% | ~144 |
-| Gold Digger | 8.00% | ~144 |
-| Eternity Can Wait | 8.00% | ~144 |
-| Monster Hunter | 8.00% | ~144 |
-| Knuckle Sandwich | 8.00% | ~144 |
+| Do Not Pass Go… | 8.00% | ~145 |
+| Gold Digger | 8.00% | ~145 |
+| Eternity Can Wait | 8.00% | ~145 |
+| Monster Hunter | 8.00% | ~145 |
+| Knuckle Sandwich | 8.00% | ~145 |
 | Getting the Gang Back Together | 7.00% | ~126 |
 | Healing Old Wounds | 6.00% | ~108 |
 | Who You Gonna Call? | 6.00% | ~108 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Revenant | 0.40% | ~7 |
 | Winter Has Come | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,806 (Ranked 172)  
+Progressed: 1,807 (Ranked 171)  
 Completed: 4 (0.22%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,6 +163,7 @@ Completed: 4 (0.22%) (Ranked 181)
 | 2023-08-13 | 1,801 | 4 |
 | 2023-08-14 | 1,805 | 4 |
 | 2023-08-15 | 1,806 | 4 |
+| 2023-08-16 | 1,807 | 4 |
 ## Awards
 Max (Impact the Story): 24  (Ranked 484)  
 Sum: 24 (Ranked 488)  
