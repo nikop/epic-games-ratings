@@ -2,7 +2,7 @@
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
-  "Ranking_Rating": 681,
+  "Ranking_Rating": 682,
   "Ranking_Popularity": 438,
   "Ranking_PopularitySum": 355,
   "Ranking_EOS_Progress": 44,
@@ -838,7 +838,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 254900,
+  "EOS_Progressed": 254901,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 379,
   "EOS_NewCompleters": 0,
@@ -12878,6 +12878,11 @@
       "Time": "2023-08-16T02:20:05.2713114+00:00",
       "NumProgressed": 254900,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-16T03:06:44.9458468+00:00",
+      "NumProgressed": 254901,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -12913,7 +12918,7 @@
       "Name": "The Gamble",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1275
     },
     {
       "ID": "Act5",
@@ -12921,7 +12926,7 @@
       "Name": "The Descent",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1275
     },
     {
       "ID": "BackHomeAfterTimesUp",
@@ -12969,7 +12974,7 @@
       "Name": "A major purchase",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1275
     },
     {
       "ID": "BuyNWeapons",
@@ -13336,7 +13341,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 254900,
+      "Progressed": 254901,
       "Completed": 3
     }
   ],
@@ -13344,8 +13349,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-08-14T15:57:40.5438652+00:00",
-  "LastChanged_Achievements": "2023-08-16T02:20:05.2713106+00:00",
+  "LastChanged_Achievements": "2023-08-16T03:06:44.9458464+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:09.7223884+00:00",
-  "LastUpdate_Ratings": "2023-08-16T02:10:53.2636776+00:00",
-  "LastUpdate_Achievements": "2023-08-16T02:20:05.271508+00:00"
+  "LastUpdate_Ratings": "2023-08-16T02:57:34.2291511+00:00",
+  "LastUpdate_Achievements": "2023-08-16T03:06:44.9460085+00:00"
 }

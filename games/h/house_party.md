@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | Sucker Punch | 0.00% | ~0 |
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,064 (Ranked 136)  
+Progressed: 6,065 (Ranked 136)  
 Completed: 3 (0.05%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 3 (0.05%) (Ranked 222)
 | 2023-08-13 | 6,058 | 3 |
 | 2023-08-14 | 6,062 | 3 |
 | 2023-08-15 | 6,063 | 3 |
-| 2023-08-16 | 6,064 | 3 |
+| 2023-08-16 | 6,065 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

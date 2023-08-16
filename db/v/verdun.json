@@ -1682,9 +1682,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 55201,
+  "EOS_Progressed": 55202,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 738,
+  "EOS_NewPlayers": 734,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -14357,6 +14357,11 @@
       "Time": "2023-08-16T01:41:18.5571126+00:00",
       "NumProgressed": 55201,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-16T03:02:17.0434541+00:00",
+      "NumProgressed": 55202,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -14600,7 +14605,7 @@
       "Name": "Headhunter I",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 14352
+      "UsersEstimate": 14353
     },
     {
       "ID": "VERDUN_ACH_HEADSHOTS2",
@@ -14624,7 +14629,7 @@
       "Name": "Not alone",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 17664
+      "UsersEstimate": 17665
     },
     {
       "ID": "VERDUN_ACH_KILLS1",
@@ -14632,7 +14637,7 @@
       "Name": "Corpseman I",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 22080
+      "UsersEstimate": 22081
     },
     {
       "ID": "VERDUN_ACH_KILLS2",
@@ -14736,7 +14741,7 @@
       "Name": "Setting an example",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 42505
+      "UsersEstimate": 42506
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -14832,22 +14837,22 @@
       "Name": "Blast fishing",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 20424
+      "UsersEstimate": 20425
     }
   ],
   "AchievementSets": [
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 55201,
+      "Progressed": 55202,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-08-12T10:59:23.0851694+00:00",
-  "LastChanged_Achievements": "2023-08-16T02:16:19.3386684+00:00",
+  "LastChanged_Achievements": "2023-08-16T03:02:17.0434535+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:18.0904756+00:00",
-  "LastUpdate_Ratings": "2023-08-16T02:13:03.7352363+00:00",
-  "LastUpdate_Achievements": "2023-08-16T02:16:19.3388334+00:00"
+  "LastUpdate_Ratings": "2023-08-16T02:59:39.7571664+00:00",
+  "LastUpdate_Achievements": "2023-08-16T03:02:17.0436966+00:00"
 }

@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7851,
+  "EOS_Progressed": 7854,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2291,
+  "EOS_NewPlayers": 2278,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2107,6 +2107,11 @@
       "Time": "2023-08-16T02:19:25.2699012+00:00",
       "NumProgressed": 7851,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-16T03:06:04.5389381+00:00",
+      "NumProgressed": 7854,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -2159,7 +2164,7 @@
       "Name": "Doctor Approved",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 1256
+      "UsersEstimate": 1257
     },
     {
       "ID": "15",
@@ -2167,7 +2172,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 1099
+      "UsersEstimate": 1100
     },
     {
       "ID": "16",
@@ -2358,14 +2363,14 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 7851,
+      "Progressed": 7854,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged_Achievements": "2023-08-16T02:19:25.2699006+00:00",
+  "LastChanged_Achievements": "2023-08-16T03:06:04.5389375+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:56.6215488+00:00",
-  "LastUpdate_Ratings": "2023-08-16T02:13:36.0778533+00:00",
-  "LastUpdate_Achievements": "2023-08-16T02:19:25.2699397+00:00"
+  "LastUpdate_Ratings": "2023-08-16T03:00:07.9334961+00:00",
+  "LastUpdate_Achievements": "2023-08-16T03:06:04.5390009+00:00"
 }

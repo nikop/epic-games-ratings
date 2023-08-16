@@ -6,30 +6,30 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 68.00% | ~592,314 |
-| Right Back At Ya | 39.00% | ~339,710 |
-| The Lovers | 35.00% | ~304,868 |
-| Stanislavski's Method | 29.00% | ~252,604 |
-| The Wheel of Fortune | 27.00% | ~235,184 |
-| The Hermit | 25.00% | ~217,762 |
+| The Fool | 68.00% | ~592,317 |
+| Right Back At Ya | 39.00% | ~339,711 |
+| The Lovers | 35.00% | ~304,869 |
+| Stanislavski's Method | 29.00% | ~252,606 |
+| The Wheel of Fortune | 27.00% | ~235,185 |
+| The Hermit | 25.00% | ~217,764 |
 | Christmas Tree Attack | 23.00% | ~200,342 |
 | True Soldier | 23.00% | ~200,342 |
-| The High Priestess | 22.00% | ~191,631 |
-| Legend of The Afterlife | 22.00% | ~191,631 |
-| Life of the Road | 21.00% | ~182,920 |
-| Full Body Conversion | 18.00% | ~156,789 |
-| The World | 18.00% | ~156,789 |
-| Bushido and Chill | 16.00% | ~139,368 |
+| The High Priestess | 22.00% | ~191,632 |
+| Legend of The Afterlife | 22.00% | ~191,632 |
+| Life of the Road | 21.00% | ~182,921 |
+| Full Body Conversion | 18.00% | ~156,790 |
+| The World | 18.00% | ~156,790 |
+| Bushido and Chill | 16.00% | ~139,369 |
 | Gun Fu | 15.00% | ~130,658 |
 | True Warrior | 15.00% | ~130,658 |
-| I Am The Law | 14.00% | ~121,947 |
-| Judy vs Night City | 14.00% | ~121,947 |
-| To Protect and Serve | 13.00% | ~113,236 |
-| Master Crafter | 13.00% | ~113,236 |
+| I Am The Law | 14.00% | ~121,948 |
+| Judy vs Night City | 14.00% | ~121,948 |
+| To Protect and Serve | 13.00% | ~113,237 |
+| Master Crafter | 13.00% | ~113,237 |
 | Two Heads, One Bullet | 12.00% | ~104,526 |
 | The Quick and the Dead | 10.00% | ~87,105 |
-| The Wandering Fool | 9.00% | ~78,394 |
-| Ten out of Ten | 9.00% | ~78,394 |
+| The Wandering Fool | 9.00% | ~78,395 |
+| Ten out of Ten | 9.00% | ~78,395 |
 | Breathtaking | 8.00% | ~69,684 |
 | The Star | 7.00% | ~60,974 |
 | The Sun | 7.00% | ~60,974 |
@@ -48,10 +48,10 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Wasteland | 2.00% | ~17,421 |
 | Daemon In The Shell | 2.00% | ~17,421 |
 | The Devil | 2.00% | ~17,421 |
-| Gunslinger | 1.00% | ~8,710 |
+| Gunslinger | 1.00% | ~8,711 |
 | Rough Landing | 0.50% | ~4,355 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 871,050 (Ranked 14)  
+Progressed: 871,054 (Ranked 14)  
 Completed: 1,970 (0.23%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,7 +169,7 @@ Completed: 1,970 (0.23%) (Ranked 179)
 | 2023-08-13 | 870,756 | 1,962 |
 | 2023-08-14 | 870,901 | 1,969 |
 | 2023-08-15 | 871,042 | 1,970 |
-| 2023-08-16 | 871,050 | 1,970 |
+| 2023-08-16 | 871,054 | 1,970 |
 ## Awards
 Max (Character Customization): 75,550  (Ranked 9)  
 Sum: 199,689 (Ranked 13)  

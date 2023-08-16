@@ -5,19 +5,19 @@ Rating: 4.05 (Ranked 920)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,680 |
-| World Map | 79.00% | ~1,427 |
-| Temple of Eternals | 56.00% | ~1,011 |
-| Prestigious | 53.00% | ~957 |
-| Fellowship Power | 41.00% | ~740 |
+| Victor | 93.00% | ~1,681 |
+| World Map | 79.00% | ~1,428 |
+| Temple of Eternals | 56.00% | ~1,012 |
+| Prestigious | 53.00% | ~958 |
+| Fellowship Power | 41.00% | ~741 |
 | Guild Power | 25.00% | ~452 |
-| Prestigious x10 | 22.00% | ~397 |
+| Prestigious x10 | 22.00% | ~398 |
 | The game is on | 20.00% | ~361 |
 | Exotic Merchant | 18.00% | ~325 |
 | Dragon Clicker | 17.00% | ~307 |
-| Miner Clicker | 17.00% | ~307 |
 | Full Party | 16.00% | ~289 |
 | Inspection | 16.00% | ~289 |
+| Miner Clicker | 16.00% | ~289 |
 | Dragon Master | 15.00% | ~271 |
 | Enlightenment | 15.00% | ~271 |
 | Hero inspection | 14.00% | ~253 |
@@ -42,15 +42,15 @@ Rating: 4.05 (Ranked 920)
 | Here We Go Again | 9.00% | ~163 |
 | Master Enchanter | 9.00% | ~163 |
 | The father of Dragons | 9.00% | ~163 |
-| Trader | 8.00% | ~144 |
+| Trader | 8.00% | ~145 |
 | Crystal Mining | 7.00% | ~126 |
 | Dragon Slayer | 7.00% | ~126 |
 | Enchanting skill | 7.00% | ~126 |
+| Engineer Mastery | 7.00% | ~126 |
 | The Expeditioner | 7.00% | ~126 |
 | Weekly Quest Completionist | 7.00% | ~126 |
 | Ancient Knowledge | 6.00% | ~108 |
 | Blueprint Upgrades | 6.00% | ~108 |
-| Engineer Mastery | 6.00% | ~108 |
 | How Do You Turn This On? | 6.00% | ~108 |
 | Lock And Load | 6.00% | ~108 |
 | Missions Dedication | 6.00% | ~108 |
@@ -65,8 +65,8 @@ Rating: 4.05 (Ranked 920)
 | Mythic Power | 2.00% | ~36 |
 | Gear Enchanting | 1.00% | ~18 |
 | Guardian Master | 1.00% | ~18 |
+| Cauldron Liberator | 0.90% | ~16 |
 | Training makes a Pro player | 0.90% | ~16 |
-| Cauldron Liberator | 0.80% | ~14 |
 | Titan Power | 0.80% | ~14 |
 | Transmute | 0.80% | ~14 |
 | Enhanced War Machines | 0.70% | ~13 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 920)
 | Silverwood liberator | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,806 (Ranked 171)  
+Progressed: 1,807 (Ranked 171)  
 Completed: 2 (0.11%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,6 +198,7 @@ Completed: 2 (0.11%) (Ranked 201)
 | 2023-08-13 | 1,797 | 2 |
 | 2023-08-14 | 1,802 | 2 |
 | 2023-08-15 | 1,806 | 2 |
+| 2023-08-16 | 1,807 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

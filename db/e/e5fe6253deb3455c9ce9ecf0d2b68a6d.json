@@ -436,9 +436,9 @@
       "ID": "Last_second",
       "SetID": "cjfnji1",
       "Name": "In the last second",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "Master",
@@ -515,8 +515,8 @@
   ],
   "FirstSeen": "2023-08-11T01:35:20.9956349+00:00",
   "FirstSeenAchievements": "2023-08-07T18:00:21.004681+00:00",
-  "LastChanged_Achievements": "2023-08-16T02:16:16.5857184+00:00",
+  "LastChanged_Achievements": "2023-08-16T03:02:14.3060633+00:00",
   "LastUpdate_AppInfo": "2023-08-14T17:57:19.8176911+00:00",
-  "LastUpdate_Ratings": "2023-08-16T02:11:02.2388329+00:00",
-  "LastUpdate_Achievements": "2023-08-16T02:16:16.5857326+00:00"
+  "LastUpdate_Ratings": "2023-08-16T02:57:42.6423729+00:00",
+  "LastUpdate_Achievements": "2023-08-16T03:02:14.306093+00:00"
 }

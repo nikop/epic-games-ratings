@@ -1,7 +1,7 @@
 # Hell is Others
 [Store](https://store.epicgames.com/en-US/p/hell-is-others-789262)  
 [View Rawdata](../../db/h/hell_is_others.json)  
-Rating: 4.41 (Ranked 681)  
+Rating: 4.41 (Ranked 682)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -38,9 +38,9 @@ Rating: 4.41 (Ranked 681)
 | Committed Relationship | 0.80% | ~2,039 |
 | Number 1 | 0.70% | ~1,784 |
 | Interior designer | 0.60% | ~1,529 |
-| The Gamble | 0.50% | ~1,274 |
-| The Descent | 0.50% | ~1,274 |
-| A major purchase | 0.50% | ~1,274 |
+| The Gamble | 0.50% | ~1,275 |
+| The Descent | 0.50% | ~1,275 |
+| A major purchase | 0.50% | ~1,275 |
 | Expert Hunter | 0.40% | ~1,020 |
 | Fungi hunter | 0.40% | ~1,020 |
 | Predator III | 0.40% | ~1,020 |
@@ -62,7 +62,7 @@ Rating: 4.41 (Ranked 681)
 | Capitalist III | 0.10% | ~255 |
 | Hell Is You | 0.10% | ~255 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,900 (Ranked 44)  
+Progressed: 254,901 (Ranked 44)  
 Completed: 3 (0.00%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 3 (0.00%) (Ranked 257)
 | 2023-08-13 | 254,809 | 3 |
 | 2023-08-14 | 254,848 | 3 |
 | 2023-08-15 | 254,893 | 3 |
-| 2023-08-16 | 254,900 | 3 |
+| 2023-08-16 | 254,901 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 35  (Ranked 438)  
 Sum: 239 (Ranked 355)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 76,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -574,9 +574,9 @@
       "Count": 216
     }
   ],
-  "EOS_Progressed": 465322,
+  "EOS_Progressed": 465323,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 509,
+  "EOS_NewPlayers": 510,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12779,6 +12779,11 @@
       "Time": "2023-08-16T01:44:19.2015347+00:00",
       "NumProgressed": 465322,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-08-16T03:05:22.0497561+00:00",
+      "NumProgressed": 465323,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 79,
@@ -12806,7 +12811,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 111677
+      "UsersEstimate": 111678
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -12910,7 +12915,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 116330
+      "UsersEstimate": 116331
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -12942,7 +12947,7 @@
       "Name": "Tetsuo",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 51185
+      "UsersEstimate": 51186
     },
     {
       "ID": "achievement_story_meet_vivar",
@@ -12966,7 +12971,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 93064
+      "UsersEstimate": 93065
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -12974,7 +12979,7 @@
       "Name": "Second Coming",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 153556
+      "UsersEstimate": 153557
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -13238,7 +13243,7 @@
       "Name": "Plan for the worst",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 51185
+      "UsersEstimate": 51186
     },
     {
       "ID": "achievement_win_expedition_without_monster_noloss",
@@ -13421,21 +13426,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 9256,
+      "Progressed": 9257,
       "Completed": 2355
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 465322,
+      "Progressed": 465323,
       "Completed": 17
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-08-15T14:00:50.2663605+00:00",
-  "LastChanged_Achievements": "2023-08-16T02:18:43.0954308+00:00",
+  "LastChanged_Achievements": "2023-08-16T03:05:22.0497555+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:04.9098517+00:00",
-  "LastUpdate_Ratings": "2023-08-16T02:13:42.9052983+00:00",
-  "LastUpdate_Achievements": "2023-08-16T02:18:43.0956166+00:00"
+  "LastUpdate_Ratings": "2023-08-16T03:00:17.8811931+00:00",
+  "LastUpdate_Achievements": "2023-08-16T03:05:22.0500486+00:00"
 }

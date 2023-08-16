@@ -230,9 +230,9 @@
       "ID": "_machinegun",
       "SetID": "2d5739o",
       "Name": "Machinegun",
-      "Percentage": 40,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "_magnet",
@@ -326,9 +326,9 @@
       "ID": "_shotgun",
       "SetID": "2d5739o",
       "Name": "Shotgun",
-      "Percentage": 20,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "_slow_bullets",
@@ -404,8 +404,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-09T13:13:29.9534062+00:00",
-  "LastChanged_Achievements": "2023-08-16T02:16:43.6483987+00:00",
+  "LastChanged_Achievements": "2023-08-16T03:03:21.5825831+00:00",
   "LastUpdate_AppInfo": "2023-08-09T13:08:24.198542+00:00",
-  "LastUpdate_Ratings": "2023-08-16T02:10:55.2671255+00:00",
-  "LastUpdate_Achievements": "2023-08-16T02:16:43.6484343+00:00"
+  "LastUpdate_Ratings": "2023-08-16T02:57:36.3983446+00:00",
+  "LastUpdate_Achievements": "2023-08-16T03:03:21.5826424+00:00"
 }

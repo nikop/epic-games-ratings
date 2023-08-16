@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 47,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewPlayers": 81,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -5558,11 +5558,17 @@
       "Rating": 3.99,
       "NumberOfAwards": 27102,
       "NumberOfAwardsMax": 4700
+    },
+    {
+      "Time": "2023-08-16T02:59:37.0786738+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27103,
+      "NumberOfAwardsMax": 4701
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27102,
-  "NumberOfAwardsMax": 4700,
+  "NumberOfAwards": 27103,
+  "NumberOfAwardsMax": 4701,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -5581,7 +5587,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 4700
+      "Count": 4701
     },
     {
       "Text": "This game has Easy Combat",
@@ -5614,10 +5620,10 @@
       "Count": 3734
     }
   ],
-  "EOS_Progressed": 134578,
-  "EOS_Completed": 132,
-  "EOS_NewPlayers": 404,
-  "EOS_NewCompleters": 1,
+  "EOS_Progressed": 134581,
+  "EOS_Completed": 133,
+  "EOS_NewPlayers": 407,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
     {
@@ -17624,6 +17630,11 @@
       "Time": "2023-08-16T02:18:42.6425673+00:00",
       "NumProgressed": 134578,
       "NumCompleted": 132
+    },
+    {
+      "Time": "2023-08-16T03:05:21.64465+00:00",
+      "NumProgressed": 134581,
+      "NumCompleted": 133
     }
   ],
   "TotalAchievements": 112,
@@ -18409,9 +18420,9 @@
       "ID": "sell01",
       "SetID": "anfd17p",
       "Name": "Capitalism Ho!",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 942
+      "UsersEstimate": 1077
     },
     {
       "ID": "sell02",
@@ -18530,15 +18541,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 134578,
-      "Completed": 132
+      "Progressed": 134581,
+      "Completed": 133
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-08-16T02:13:01.3126354+00:00",
-  "LastChanged_Achievements": "2023-08-16T02:18:42.6425667+00:00",
+  "LastChanged": "2023-08-16T02:59:37.0786736+00:00",
+  "LastChanged_Achievements": "2023-08-16T03:05:21.6446493+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:13.9096409+00:00",
-  "LastUpdate_Ratings": "2023-08-16T02:13:01.312636+00:00",
-  "LastUpdate_Achievements": "2023-08-16T02:18:42.6428603+00:00"
+  "LastUpdate_Ratings": "2023-08-16T02:59:37.0786747+00:00",
+  "LastUpdate_Achievements": "2023-08-16T03:05:21.6450649+00:00"
 }
