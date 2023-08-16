@@ -217,9 +217,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 34035,
+  "EOS_Progressed": 34043,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 883,
+  "EOS_NewPlayers": 882,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -13082,6 +13082,11 @@
       "Time": "2023-08-16T00:06:13.2869331+00:00",
       "NumProgressed": 34035,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-08-16T01:44:27.4665503+00:00",
+      "NumProgressed": 34043,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 29,
@@ -13093,7 +13098,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 5105
+      "UsersEstimate": 5106
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -13101,7 +13106,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 6807
+      "UsersEstimate": 6809
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -13237,7 +13242,7 @@
       "Name": "Kill \u0027Em All",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1361
+      "UsersEstimate": 1362
     },
     {
       "ID": "ACH_21_CRITICAL_STRIKES",
@@ -13253,7 +13258,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2042
+      "UsersEstimate": 2043
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -13324,7 +13329,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 34035,
+      "Progressed": 34043,
       "Completed": 21
     }
   ],
@@ -13332,8 +13337,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-08-12T21:03:39.1122054+00:00",
-  "LastChanged_Achievements": "2023-08-16T00:06:13.2869325+00:00",
+  "LastChanged_Achievements": "2023-08-16T01:44:27.4665499+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:57.7890504+00:00",
-  "LastUpdate_Ratings": "2023-08-15T23:57:23.0958124+00:00",
-  "LastUpdate_Achievements": "2023-08-16T00:06:13.2870344+00:00"
+  "LastUpdate_Ratings": "2023-08-16T01:35:51.8918237+00:00",
+  "LastUpdate_Achievements": "2023-08-16T01:44:27.4666483+00:00"
 }

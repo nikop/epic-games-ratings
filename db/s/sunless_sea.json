@@ -685,9 +685,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 35581,
+  "EOS_Progressed": 35583,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 417,
+  "EOS_NewPlayers": 414,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -12600,6 +12600,11 @@
       "Time": "2023-08-16T00:05:44.6678586+00:00",
       "NumProgressed": 35581,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-16T01:43:59.3323556+00:00",
+      "NumProgressed": 35583,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -12731,7 +12736,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 12809
+      "UsersEstimate": 12810
     },
     {
       "ID": "ach_die10",
@@ -12819,7 +12824,7 @@
       "Name": "Rival",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 4981
+      "UsersEstimate": 4982
     },
     {
       "ID": "ach_legacysalvager",
@@ -13019,7 +13024,7 @@
       "Name": "One Year at Zee",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 2846
+      "UsersEstimate": 2847
     },
     {
       "ID": "ach_year10",
@@ -13042,15 +13047,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 35581,
+      "Progressed": 35583,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-07-28T14:59:59.8138313+00:00",
-  "LastChanged_Achievements": "2023-08-16T00:05:44.6678578+00:00",
+  "LastChanged_Achievements": "2023-08-16T01:43:59.3323548+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:45.6858785+00:00",
-  "LastUpdate_Ratings": "2023-08-16T00:01:34.2561512+00:00",
-  "LastUpdate_Achievements": "2023-08-16T00:05:44.6680756+00:00"
+  "LastUpdate_Ratings": "2023-08-16T01:40:03.8962609+00:00",
+  "LastUpdate_Achievements": "2023-08-16T01:43:59.3324755+00:00"
 }

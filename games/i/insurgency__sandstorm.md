@@ -6,14 +6,14 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~21,650 |
-| Wallbanger | 5.00% | ~21,650 |
-| Exploitative | 4.00% | ~17,320 |
-| High Speed Low Drag | 4.00% | ~17,320 |
-| Wet Feet | 4.00% | ~17,320 |
-| Lucky | 3.00% | ~12,990 |
-| Stylin' | 3.00% | ~12,990 |
-| Turf War | 3.00% | ~12,990 |
+| Point Shooting | 5.00% | ~21,651 |
+| Wallbanger | 5.00% | ~21,651 |
+| Exploitative | 4.00% | ~17,321 |
+| High Speed Low Drag | 4.00% | ~17,321 |
+| Wet Feet | 4.00% | ~17,321 |
+| Lucky | 3.00% | ~12,991 |
+| Stylin' | 3.00% | ~12,991 |
+| Turf War | 3.00% | ~12,991 |
 | Banged | 2.00% | ~8,660 |
 | Checkpoint Victory | 2.00% | ~8,660 |
 | First Blood | 2.00% | ~8,660 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~433 |
 | Road Hazard | 0.10% | ~433 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 433,001 (Ranked 38)  
+Progressed: 433,025 (Ranked 38)  
 Completed: 2 (0.00%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,10 +160,10 @@ Completed: 2 (0.00%) (Ranked 257)
 | 2023-08-13 | 432,353 | 2 |
 | 2023-08-14 | 432,656 | 2 |
 | 2023-08-15 | 432,984 | 2 |
-| 2023-08-16 | 433,001 | 2 |
+| 2023-08-16 | 433,025 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 375  (Ranked 221)  
-Sum: 2,892 (Ranked 166)  
+Sum: 2,895 (Ranked 166)  
 Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
@@ -172,7 +172,7 @@ Diff (max vs sum): 55
 | This game is Extremely Fun | 339 |
 | This game has Competitive Players | 337 |
 | This game has Realistic Visuals | 311 |
-| This game is Highly Recommended | 307 |
+| This game is Highly Recommended | 310 |
 | This game has Amazing Storytelling | 305 |
 | This game has Amazing Characters | 303 |
 | This game has a Competitive Community | 264 |
@@ -387,3 +387,4 @@ Diff (max vs sum): 55
 | 2023-08-13 | 4.62 | - | 374 | 2,887 |
 | 2023-08-14 | 4.62 | - | 375 | 2,888 |
 | 2023-08-15 | 4.62 | - | 375 | 2,892 |
+| 2023-08-16 | 4.62 | - | 375 | 2,895 |

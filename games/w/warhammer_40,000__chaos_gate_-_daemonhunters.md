@@ -24,8 +24,8 @@ Number of Ratings: 371  (23.09.2022)
 | Execution Force | 0.90% | ~28 |
 | Hive Exterminator | 0.90% | ~28 |
 | Hold Your Ground | 0.80% | ~25 |
+| Just a Scratch | 0.80% | ~25 |
 | Corruption Cleanser | 0.70% | ~22 |
-| Just a Scratch | 0.70% | ~22 |
 | Tactical Sabotage | 0.50% | ~16 |
 | Patron of Deimos | 0.40% | ~13 |
 | Daemonkeeper | 0.40% | ~13 |

@@ -9,7 +9,7 @@
 | Tea-ser | 41.00% | ~137 |
 | Coffee Connoisseur | 21.00% | ~70 |
 | Tea Master | 13.00% | ~43 |
-| Brew Master | 7.00% | ~23 |
+| Brew Master | 8.00% | ~27 |
 | Tea Guru | 5.00% | ~17 |
 | Countertop Champion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

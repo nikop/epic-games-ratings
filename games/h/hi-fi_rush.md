@@ -5,10 +5,10 @@ Rating: 4.88 (Ranked 18)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Start with a bang! | 11.00% | ~431 |
 | Feeling the beat! | 11.00% | ~431 |
-| Start with a bang! | 10.00% | ~392 |
 | You can pet the cat! | 10.00% | ~392 |
-| Who put gears in there? | 9.00% | ~352 |
+| Who put gears in there? | 9.00% | ~353 |
 | Cream of the Crop | 8.00% | ~313 |
 | Thanks for the free chip, Peppermint! | 8.00% | ~313 |
 | You got this, Peppermint? | 7.00% | ~274 |
@@ -30,11 +30,11 @@ Rating: 4.88 (Ranked 18)
 | You must like calling me in, Chai | 4.00% | ~157 |
 | Out in a puff of smoke | 4.00% | ~157 |
 | Perfecter Parry-er! | 4.00% | ~157 |
-| NOW we got a kickass hideout! | 4.00% | ~97 |
-| Well that was a rush! | 3.00% | ~117 |
-| Beat-hit mania | 3.00% | ~117 |
-| That's a lot of junk metal… | 3.00% | ~117 |
-| There's such a thing as TOO helpful | 3.00% | ~117 |
+| NOW we got a kickass hideout! | 4.00% | ~98 |
+| Well that was a rush! | 3.00% | ~118 |
+| Beat-hit mania | 3.00% | ~118 |
+| That's a lot of junk metal… | 3.00% | ~118 |
+| There's such a thing as TOO helpful | 3.00% | ~118 |
 | Chip-tuned | 2.00% | ~78 |
 | I think I found your calling, Macaron | 1.00% | ~39 |
 | Wanna hear my playlist? | 1.00% | ~39 |
@@ -46,15 +46,15 @@ Rating: 4.88 (Ranked 18)
 | I hit things with a guitar really well. | 0.90% | ~35 |
 | First we parry, then we counter | 0.80% | ~31 |
 | I'm not done with you yet | 0.70% | ~27 |
-| This is a breeze! | 0.60% | ~23 |
+| This is a breeze! | 0.60% | ~24 |
 | New bad guys? No problem! | 0.60% | ~15 |
 | Easy Listening | 0.40% | ~16 |
 | OK, well THEY came after ME! | 0.40% | ~16 |
 | You ever parry a volcano? | 0.40% | ~16 |
 | Choose your own adventure | 0.40% | ~10 |
 | Problem solved... wait, what? | 0.30% | ~12 |
+| Now this is how you fight like a team! | 0.30% | ~12 |
 | And the crowd goes wild! | 0.20% | ~8 |
-| Now this is how you fight like a team! | 0.20% | ~8 |
 | With our powers combined…and to the rhythm… | 0.20% | ~8 |
 | It'll do, CNMN | 0.20% | ~5 |
 | That was just EVIL | 0.20% | ~5 |
@@ -77,7 +77,7 @@ Rating: 4.88 (Ranked 18)
 | Voices from within | 0.10% | ~2 |
 | Low budget finish | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,915 (Ranked 147)  
+Progressed: 3,917 (Ranked 147)  
 Completed: 7 (0.18%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 7 (0.18%) (Ranked 187)
 | 2023-08-13 | 3,885 | 7 |
 | 2023-08-14 | 3,899 | 7 |
 | 2023-08-15 | 3,914 | 7 |
-| 2023-08-16 | 3,915 | 7 |
+| 2023-08-16 | 3,917 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

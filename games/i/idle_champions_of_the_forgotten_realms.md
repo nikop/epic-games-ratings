@@ -6,13 +6,14 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 0.70% | ~1,556 |
+| A Brief Tour of the Realms | 0.80% | ~1,778 |
 | The Hunt for The Last Breath | 0.40% | ~754 |
 | Beast Intentions | 0.30% | ~667 |
 | The Cursed Farmer | 0.30% | ~667 |
 | To Infinity's and Beyond | 0.30% | ~566 |
-| The Ring of Regeneration | 0.20% | ~444 |
-| The Mad Wizard | 0.20% | ~444 |
+| The Ring of Regeneration | 0.20% | ~445 |
+| Seeking Allies | 0.20% | ~445 |
+| The Mad Wizard | 0.20% | ~445 |
 | The Chaotic Hunt for The Last Breath | 0.20% | ~377 |
 | There's a Flying Snake in my Boot! | 0.20% | ~377 |
 | Maddening | 0.10% | ~222 |
@@ -235,7 +236,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Spirit of the Trickster Gods | 0.10% | ~189 |
 | Flies on the Wall | 0.10% | ~222 |
 | The Killer Mists | 0.10% | ~222 |
-| Seeking Allies | 0.10% | ~222 |
 | Class Vacation | 0.10% | ~222 |
 | A Nod from Strahd | 0.10% | ~189 |
 | Backtracking Through Barovia | 0.10% | ~222 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~189 |
 | Animated Giff | 0.10% | ~189 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 222,249 (Ranked 53)  
+Progressed: 222,266 (Ranked 53)  
 Completed: 2,183 (0.98%) (Ranked 117)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -641,7 +641,7 @@ Completed: 2,183 (0.98%) (Ranked 117)
 | 2023-08-13 | 221,637 | 2,180 |
 | 2023-08-14 | 221,929 | 2,181 |
 | 2023-08-15 | 222,230 | 2,183 |
-| 2023-08-16 | 222,249 | 2,183 |
+| 2023-08-16 | 222,266 | 2,183 |
 ## Awards
 Max (Diverse Characters): 5,152  (Ranked 67)  
 Sum: 31,062 (Ranked 38)  

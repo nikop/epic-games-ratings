@@ -4,7 +4,7 @@
   "ProductSlug": "the-evil-within",
   "Ranking_EOS_Progress": 355,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
@@ -351,17 +351,17 @@
       "ID": "ACHIEVEMENT_05",
       "SetID": "ap8553i",
       "Name": "The First, Not the Last",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_06",
       "SetID": "ap8553i",
       "Name": "Arachnophobia",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_07",
@@ -503,9 +503,9 @@
       "ID": "ACHIEVEMENT_24",
       "SetID": "ap8553i",
       "Name": "Krimson PD Fury",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -535,9 +535,9 @@
       "ID": "ACHIEVEMENT_28",
       "SetID": "ap8553i",
       "Name": "Drop It Like It\u0027s Hot",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_29",
@@ -900,8 +900,8 @@
   ],
   "FirstSeen": "2023-08-04T21:57:01.9865679+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5206267+00:00",
-  "LastChanged_Achievements": "2023-08-16T00:04:57.3861429+00:00",
+  "LastChanged_Achievements": "2023-08-16T01:43:13.8064702+00:00",
   "LastUpdate_AppInfo": "2023-08-09T15:57:03.7516548+00:00",
-  "LastUpdate_Ratings": "2023-08-15T23:57:58.1756044+00:00",
-  "LastUpdate_Achievements": "2023-08-16T00:04:57.386268+00:00"
+  "LastUpdate_Ratings": "2023-08-16T01:36:25.8653437+00:00",
+  "LastUpdate_Achievements": "2023-08-16T01:43:13.8065549+00:00"
 }

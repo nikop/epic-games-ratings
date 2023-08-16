@@ -4,8 +4,8 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 32,
-  "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
     "PcReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2183,
+  "EOS_Progressed": 2184,
   "EOS_Completed": 195,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 8.93,
   "EosHistory": [
@@ -4983,6 +4983,11 @@
       "Time": "2023-08-15T22:05:05.4261085+00:00",
       "NumProgressed": 2183,
       "NumCompleted": 195
+    },
+    {
+      "Time": "2023-08-16T01:43:08.9259479+00:00",
+      "NumProgressed": 2184,
+      "NumCompleted": 195
     }
   ],
   "TotalAchievements": 12,
@@ -4994,7 +4999,7 @@
       "Name": "Arranging Boxes",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "Bernard",
@@ -5058,7 +5063,7 @@
       "Name": "Little Helper",
       "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 720
+      "UsersEstimate": 721
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -5066,7 +5071,7 @@
       "Name": "May Their Memories be a Blessing",
       "Percentage": 9,
       "XP": 200,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "Nazis in Paris",
@@ -5089,7 +5094,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2183,
+      "Progressed": 2184,
       "Completed": 195
     }
   ],
@@ -5097,8 +5102,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-08-16T00:04:52.4382423+00:00",
+  "LastChanged_Achievements": "2023-08-16T01:43:08.9259475+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:29.1677091+00:00",
-  "LastUpdate_Ratings": "2023-08-16T00:01:17.9598474+00:00",
-  "LastUpdate_Achievements": "2023-08-16T00:04:52.4382854+00:00"
+  "LastUpdate_Ratings": "2023-08-16T01:39:48.5958006+00:00",
+  "LastUpdate_Achievements": "2023-08-16T01:43:08.9259924+00:00"
 }

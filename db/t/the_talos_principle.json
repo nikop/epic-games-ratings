@@ -2,12 +2,12 @@
   "ID": "400cc6605aee41de88f976b587a48aa0",
   "Name": "The Talos Principle",
   "ProductSlug": "the-talos-principle",
-  "Ranking_Rating": 159,
+  "Ranking_Rating": 169,
   "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 546,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 363,
+  "Ranking_EOS_NewPlayers": 360,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2019-12-29T16:00:00+00:00",
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.73,
+  "Rating": 4.72,
   "NumberOfRatings": 281,
   "RatingHistory": [
     {
@@ -415,6 +415,12 @@
       "Rating": 4.73,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-08-16T01:37:56.0105858+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -432,8 +438,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:14.4566709+00:00",
-  "LastChanged": "2023-07-05T03:21:28.7745791+00:00",
+  "LastChanged": "2023-08-16T01:37:56.0105857+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:29.7238572+00:00",
-  "LastUpdate_Ratings": "2023-08-15T23:59:31.1722619+00:00",
-  "LastUpdate_Achievements": "2023-08-16T00:07:34.4052943+00:00"
+  "LastUpdate_Ratings": "2023-08-16T01:37:56.0105863+00:00",
+  "LastUpdate_Achievements": "2023-08-16T01:45:46.1831628+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "8b8d2e16c20b4300ae0dc66db4d630ba",
   "Name": "Stray Blade",
   "ProductSlug": "stray-blade",
-  "Ranking_EOS_Progress": 370,
+  "Ranking_EOS_Progress": 371,
   "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 102,
@@ -266,9 +266,9 @@
       "ID": "ACH_CRAFT_15_WEAPONS",
       "SetID": "7i20me3",
       "Name": "Craftsmen",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_CRAFT_ALL_ARMOR",
@@ -633,8 +633,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-08-16T00:07:00.3798319+00:00",
+  "LastChanged_Achievements": "2023-08-16T01:45:13.6299017+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:32.6362658+00:00",
-  "LastUpdate_Ratings": "2023-08-15T23:59:33.5204149+00:00",
-  "LastUpdate_Achievements": "2023-08-16T00:07:00.3799009+00:00"
+  "LastUpdate_Ratings": "2023-08-16T01:37:57.9794009+00:00",
+  "LastUpdate_Achievements": "2023-08-16T01:45:13.6299411+00:00"
 }

@@ -54,9 +54,9 @@
       "ID": "BackFuture",
       "SetID": "bl5ebnd",
       "Name": "Back of the Future",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "BigBrother",
@@ -110,9 +110,9 @@
       "ID": "MilitaryContract",
       "SetID": "bl5ebnd",
       "Name": "Military Contract",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NewLife",
@@ -196,8 +196,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-07T14:05:00.198888+00:00",
-  "LastChanged_Achievements": "2023-08-16T00:06:07.0450128+00:00",
+  "LastChanged_Achievements": "2023-08-16T01:44:21.1271441+00:00",
   "LastUpdate_AppInfo": "2023-08-10T10:57:09.5773097+00:00",
-  "LastUpdate_Ratings": "2023-08-15T23:58:35.3478327+00:00",
-  "LastUpdate_Achievements": "2023-08-16T00:06:07.045032+00:00"
+  "LastUpdate_Ratings": "2023-08-16T01:37:01.4673715+00:00",
+  "LastUpdate_Achievements": "2023-08-16T01:44:21.127158+00:00"
 }

@@ -22,6 +22,7 @@
 | Changing the World | 7.00% | ~3 |
 | Sponsor | 4.00% | ~2 |
 | Mirror, Mirror on the Wall | 2.00% | ~1 |
+| Craftsmen | 2.00% | ~1 |
 | Defeat Ingla | 2.00% | ~1 |
 | Defeat Tezuth | 2.00% | ~1 |
 | Defeat Uskol | 2.00% | ~1 |
@@ -38,7 +39,6 @@
 | The A-Team | 2.00% | ~1 |
 | But what of the Acreans? | 2.00% | ~1 |
 | Expert | 2.00% | ~1 |
-| Craftsmen | 0.00% | ~0 |
 | Style over Stats | 0.00% | ~0 |
 | Collector | 0.00% | ~0 |
 | Explorer by Heart | 0.00% | ~0 |
@@ -51,7 +51,7 @@
 | Unveiling the Truth | 0.00% | ~0 |
 | Master of all Domains | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46 (Ranked 370)  
+Progressed: 46 (Ranked 371)  
 Completed: 0 (0.00%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |

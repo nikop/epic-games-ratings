@@ -23,8 +23,8 @@ Rating: 4.27 (Ranked 809)
 | LAW-ABIDING CITIZEN | 11.00% | ~45 |
 | PRUDENT | 10.00% | ~41 |
 | PATTY-KILLER | 9.00% | ~37 |
+| GOURMET | 8.00% | ~33 |
 | EXPERIMENTALIST | 7.00% | ~28 |
-| GOURMET | 7.00% | ~28 |
 | SCATTERBRAIN | 7.00% | ~28 |
 | TASTE UNTASTY | 4.00% | ~16 |
 | HIGH TECHNOLOGIES | 3.00% | ~12 |
