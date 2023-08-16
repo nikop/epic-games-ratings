@@ -2992,9 +2992,9 @@
       "Count": 694
     }
   ],
-  "EOS_Progressed": 1575614,
+  "EOS_Progressed": 1575769,
   "EOS_Completed": 505,
-  "EOS_NewPlayers": 25389,
+  "EOS_NewPlayers": 25367,
   "EOS_NewCompleters": 32,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -10927,6 +10927,11 @@
       "Time": "2023-08-16T16:07:57.3611604+00:00",
       "NumProgressed": 1575614,
       "NumCompleted": 505
+    },
+    {
+      "Time": "2023-08-16T17:07:16.0610925+00:00",
+      "NumProgressed": 1575769,
+      "NumCompleted": 505
     }
   ],
   "TotalAchievements": 1328,
@@ -11024,9 +11029,9 @@
       "ID": "armored_10",
       "SetID": "bkjdbk8",
       "Name": "Affordable Healthcare",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "armored_11",
@@ -11392,9 +11397,9 @@
       "ID": "axe_47",
       "SetID": "bkjdbk8",
       "Name": "Not Radical Enough For You?",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "axe_48",
@@ -11408,9 +11413,9 @@
       "ID": "axe_49",
       "SetID": "bkjdbk8",
       "Name": "You Goat to be Kidding Me...",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "axe_5",
@@ -11776,9 +11781,9 @@
       "ID": "bigbank_10",
       "SetID": "bkjdbk8",
       "Name": "Funding Father",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "bigbank_2",
@@ -12240,9 +12245,9 @@
       "ID": "cac_14",
       "SetID": "bkjdbk8",
       "Name": "The Safe Words are Police Brutality and Irony",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "cac_15",
@@ -12320,9 +12325,9 @@
       "ID": "cac_23",
       "SetID": "bkjdbk8",
       "Name": "I Feel Like Robin Hood!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "cac_24",
@@ -12384,9 +12389,9 @@
       "ID": "cac_30",
       "SetID": "bkjdbk8",
       "Name": "The Raid Gang",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "cac_31",
@@ -12528,9 +12533,9 @@
       "ID": "caribbean_pirate",
       "SetID": "bkjdbk8",
       "Name": "Caribbean Pirate",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "cee_1",
@@ -12880,9 +12885,9 @@
       "ID": "corp_10",
       "SetID": "bkjdbk8",
       "Name": "System Shocked",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "corp_11",
@@ -13352,9 +13357,9 @@
       "ID": "death_30",
       "SetID": "bkjdbk8",
       "Name": "OVERKILL Salutes You!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 60,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "death_31",
@@ -13448,9 +13453,9 @@
       "ID": "deep_10",
       "SetID": "bkjdbk8",
       "Name": "Texas Treasures, Part 4",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "deep_11",
@@ -13592,9 +13597,9 @@
       "ID": "deer_7",
       "SetID": "bkjdbk8",
       "Name": "Impossible, It Can\u0027t Be. Is It?",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "des_1",
@@ -13720,9 +13725,9 @@
       "ID": "eagle_2",
       "SetID": "bkjdbk8",
       "Name": "Special Operations Execution",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "eagle_3",
@@ -14208,9 +14213,9 @@
       "ID": "gage2_9",
       "SetID": "bkjdbk8",
       "Name": "I Ain\u0027t Got Time to Bleed",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "gage3_1",
@@ -14488,9 +14493,9 @@
       "ID": "gage5_5",
       "SetID": "bkjdbk8",
       "Name": "Artillery Barrage",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "gage5_6",
@@ -14632,9 +14637,9 @@
       "ID": "ggez_12",
       "SetID": "bkjdbk8",
       "Name": "Vlad Will Sing You a Song",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "ggez_13",
@@ -14696,9 +14701,9 @@
       "ID": "ggez_2",
       "SetID": "bkjdbk8",
       "Name": "Crime.net Expert",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "ggez_20",
@@ -15072,9 +15077,9 @@
       "ID": "ggez_62",
       "SetID": "bkjdbk8",
       "Name": "Castle Doctrine",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "ggez_63",
@@ -15512,9 +15517,9 @@
       "ID": "grv_1",
       "SetID": "bkjdbk8",
       "Name": "Russian Arsenal",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "grv_2",
@@ -15560,9 +15565,9 @@
       "ID": "halloween_1",
       "SetID": "bkjdbk8",
       "Name": "I Am the One Who Knocks",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "halloween_10",
@@ -16248,17 +16253,17 @@
       "ID": "man_3",
       "SetID": "bkjdbk8",
       "Name": "Keep Clear of the Windows",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "man_4",
       "SetID": "bkjdbk8",
       "Name": "The Saviour",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "man_5",
@@ -16712,9 +16717,9 @@
       "ID": "ovk_1",
       "SetID": "bkjdbk8",
       "Name": "Cooking With Style",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "ovk_10",
@@ -17000,9 +17005,9 @@
       "ID": "pex_10",
       "SetID": "bkjdbk8",
       "Name": "Paid in Full",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "pex_11",
@@ -17592,9 +17597,9 @@
       "ID": "pim_1",
       "SetID": "bkjdbk8",
       "Name": "Nothing Personal",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "pim_2",
@@ -18136,9 +18141,9 @@
       "ID": "scorpion_3",
       "SetID": "bkjdbk8",
       "Name": "Hedgehog",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "scorpion_4",
@@ -18288,17 +18293,17 @@
       "ID": "skm_22",
       "SetID": "bkjdbk8",
       "Name": "Tie Them to the Chairs",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "skm_23",
       "SetID": "bkjdbk8",
       "Name": "Would you Rather Be Robbing the Place?",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "skm_24",
@@ -18320,9 +18325,9 @@
       "ID": "skm_26",
       "SetID": "bkjdbk8",
       "Name": "A Nice Day for a Hostage Situation",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "skm_27",
@@ -18440,9 +18445,9 @@
       "ID": "skm_7",
       "SetID": "bkjdbk8",
       "Name": "Higher Stock Values",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "skm_8",
@@ -18496,9 +18501,9 @@
       "ID": "slakt_5",
       "SetID": "bkjdbk8",
       "Name": "It\u0027s Getting Hot in Here",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "spa_1",
@@ -18544,9 +18549,9 @@
       "ID": "spa_6",
       "SetID": "bkjdbk8",
       "Name": "Pass the Ammo",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "spend_money_to_make_money",
@@ -18712,9 +18717,9 @@
       "ID": "tango_achieve_4",
       "SetID": "bkjdbk8",
       "Name": "Celsius or Fahrenheit?",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "tawp_1",
@@ -18736,9 +18741,9 @@
       "ID": "the_wire",
       "SetID": "bkjdbk8",
       "Name": "Guessing Game",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "tip_the_scales",
@@ -18968,17 +18973,17 @@
       "ID": "trk_b_2",
       "SetID": "bkjdbk8",
       "Name": "4 Man Army",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "trk_b_3",
       "SetID": "bkjdbk8",
       "Name": "We\u0027ve Become the Bain of their Existence!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "trk_bb_0",
@@ -19696,9 +19701,9 @@
       "ID": "trk_d_6",
       "SetID": "bkjdbk8",
       "Name": "Jaw Dropping",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "trk_dm_0",
@@ -20672,9 +20677,9 @@
       "ID": "trk_sa_6",
       "SetID": "bkjdbk8",
       "Name": "Welcoming the Neighbors",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "trk_sf_0",
@@ -21561,22 +21566,22 @@
     {
       "ID": "61cefe3",
       "IsBase": true,
-      "Progressed": 1575614,
+      "Progressed": 1575769,
       "Completed": 505
     },
     {
       "ID": "bkjdbk8",
       "IsBase": false,
-      "Progressed": 1575614,
-      "Completed": 7
+      "Progressed": 1575769,
+      "Completed": 8
     }
   ],
   "FirstSeen": "2023-06-08T18:57:07.8003815+00:00",
   "FirstSeenRating": "2023-06-09T03:57:04.3869033+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:50.4372379+00:00",
   "LastChanged": "2023-08-16T13:01:54.6493655+00:00",
-  "LastChanged_Achievements": "2023-08-16T16:07:57.3611595+00:00",
+  "LastChanged_Achievements": "2023-08-16T17:07:16.0610919+00:00",
   "LastUpdate_AppInfo": "2023-08-10T19:57:07.9529529+00:00",
-  "LastUpdate_Ratings": "2023-08-16T15:58:36.9309867+00:00",
-  "LastUpdate_Achievements": "2023-08-16T16:07:57.3800741+00:00"
+  "LastUpdate_Ratings": "2023-08-16T16:58:46.9642256+00:00",
+  "LastUpdate_Achievements": "2023-08-16T17:07:16.0833449+00:00"
 }

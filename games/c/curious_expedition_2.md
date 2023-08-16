@@ -6,27 +6,27 @@ Number of Ratings: 20  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Adventure Begins | 61.00% | ~195 |
+| The Adventure Begins | 61.00% | ~196 |
 | Cartographer | 54.00% | ~173 |
 | A Strange Artefact | 50.00% | ~160 |
 | Insomnia | 45.00% | ~144 |
-| From Whence we Came | 41.00% | ~131 |
+| From Whence we Came | 41.00% | ~132 |
 | Lost & Found & Lost Again | 40.00% | ~128 |
 | Fire and Flood | 38.00% | ~122 |
-| Spooky! | 36.00% | ~115 |
+| Spooky! | 36.00% | ~116 |
 | Shennong Herbalist | 33.00% | ~106 |
-| Treasure Hunt | 33.00% | ~106 |
-| Good Mama | 32.00% | ~102 |
+| Treasure Hunt | 32.00% | ~103 |
+| Good Mama | 31.00% | ~100 |
 | O Captain My Captain | 30.00% | ~96 |
-| Taxonomist | 28.00% | ~90 |
-| Plunderer | 28.00% | ~90 |
+| Taxonomist | 27.00% | ~87 |
+| Plunderer | 27.00% | ~87 |
 | Uncertain Loyalties | 25.00% | ~80 |
 | Traveller | 24.00% | ~77 |
 | Nahua Seeker | 23.00% | ~74 |
-| Roll to Save | 22.00% | ~70 |
+| Roll to Save | 22.00% | ~71 |
 | Red Flag Pirate | 19.00% | ~61 |
 | Veteran Explorer | 19.00% | ~61 |
-| Iron Man | 17.00% | ~54 |
+| Iron Man | 17.00% | ~55 |
 | Shortening of the Way | 16.00% | ~51 |
 | Practical Palaeontology | 16.00% | ~51 |
 | For the Club! | 15.00% | ~48 |
@@ -35,10 +35,10 @@ Number of Ratings: 20  (23.09.2022)
 | The Director is Dead | 14.00% | ~45 |
 | Adventurer | 14.00% | ~45 |
 | Dapper | 14.00% | ~45 |
-| And Here Is Your Statue | 13.00% | ~42 |
 | Discovery | 13.00% | ~42 |
 | Plays Well With Others | 13.00% | ~42 |
-| Very Classy | 12.00% | ~38 |
+| And Here Is Your Statue | 12.00% | ~39 |
+| Very Classy | 12.00% | ~39 |
 | Under the Table | 11.00% | ~35 |
 | It's Complicated | 10.00% | ~32 |
 | Errand Runner | 9.00% | ~29 |
@@ -56,18 +56,18 @@ Number of Ratings: 20  (23.09.2022)
 | X Marks the Spot | 4.00% | ~13 |
 | The Round Table | 4.00% | ~13 |
 | Frugal | 4.00% | ~13 |
-| Lunatic | 3.00% | ~10 |
 | A Perfect Map | 3.00% | ~10 |
 | Risk/Reward | 3.00% | ~10 |
-| Look Ma, No Equipment! | 3.00% | ~10 |
 | I Set Forth Again... and Again... and Again... | 3.00% | ~10 |
+| Lunatic | 2.00% | ~6 |
+| Look Ma, No Equipment! | 2.00% | ~6 |
 | Everything is FINE... | 0.90% | ~3 |
 | Abominable Hunger | 0.60% | ~2 |
 | Pacifism Ain't Easy | 0.60% | ~2 |
 | It's Not Too Late | 0.60% | ~2 |
 | Now I've Seen It All | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 320 (Ranked 254)  
+Progressed: 321 (Ranked 254)  
 Completed: 1 (0.31%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,6 +98,7 @@ Completed: 1 (0.31%) (Ranked 167)
 | 2023-06-22 | 318 | 1 |
 | 2023-07-08 | 319 | 1 |
 | 2023-07-20 | 320 | 1 |
+| 2023-08-16 | 321 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 118,
   "Ranking_EOS_NewPlayers": 35,
-  "Ranking_EOS_NewCompleters": 13,
+  "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -5848,10 +5848,10 @@
       "Count": 3355
     }
   ],
-  "EOS_Progressed": 222430,
-  "EOS_Completed": 2183,
-  "EOS_NewPlayers": 2226,
-  "EOS_NewCompleters": 16,
+  "EOS_Progressed": 222445,
+  "EOS_Completed": 2184,
+  "EOS_NewPlayers": 2227,
+  "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
@@ -18678,6 +18678,11 @@
       "Time": "2023-08-16T16:04:39.6967252+00:00",
       "NumProgressed": 222430,
       "NumCompleted": 2183
+    },
+    {
+      "Time": "2023-08-16T17:04:30.1563347+00:00",
+      "NumProgressed": 222445,
+      "NumCompleted": 2184
     }
   ],
   "TotalAchievements": 516,
@@ -18689,7 +18694,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1779
+      "UsersEstimate": 1780
     },
     {
       "ID": "objective_completed_10",
@@ -21831,9 +21836,9 @@
       "ID": "objective_completed_7",
       "SetID": "cc37lbc",
       "Name": "The Mad Wizard",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 445
+      "UsersEstimate": 667
     },
     {
       "ID": "objective_completed_70",
@@ -22816,21 +22821,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 188704,
+      "Progressed": 188719,
       "Completed": 3255
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 222430,
-      "Completed": 2183
+      "Progressed": 222445,
+      "Completed": 2184
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-16T10:00:22.879386+00:00",
-  "LastChanged_Achievements": "2023-08-16T16:04:39.6967246+00:00",
+  "LastChanged_Achievements": "2023-08-16T17:04:30.156334+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:51.8567155+00:00",
-  "LastUpdate_Ratings": "2023-08-16T15:59:47.9211387+00:00",
-  "LastUpdate_Achievements": "2023-08-16T16:04:39.7000219+00:00"
+  "LastUpdate_Ratings": "2023-08-16T16:59:50.1662293+00:00",
+  "LastUpdate_Achievements": "2023-08-16T17:04:30.1593555+00:00"
 }

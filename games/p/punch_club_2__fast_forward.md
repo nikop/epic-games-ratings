@@ -9,7 +9,7 @@
 | Your first fight | 85.00% | ~215 |
 | First winning | 84.00% | ~213 |
 | Your first job | 83.00% | ~210 |
-| Old movies enjoyer | 79.00% | ~200 |
+| Old movies enjoyer | 80.00% | ~202 |
 | Fitness professional | 78.00% | ~197 |
 | Depressed visitor | 77.00% | ~195 |
 | Employee of the week | 77.00% | ~195 |

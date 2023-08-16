@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -464,9 +464,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3484,
+  "EOS_Progressed": 3485,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -5999,6 +5999,11 @@
       "Time": "2023-08-16T11:04:06.0177733+00:00",
       "NumProgressed": 3484,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-16T17:04:05.3221427+00:00",
+      "NumProgressed": 3485,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 71,
@@ -6066,7 +6071,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -6074,7 +6079,7 @@
       "Name": "Organ Grinder",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 766
+      "UsersEstimate": 767
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -6218,7 +6223,7 @@
       "Name": "Lord of War",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1011
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -6250,7 +6255,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 766
+      "UsersEstimate": 767
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -6258,7 +6263,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 1219
+      "UsersEstimate": 1220
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -6346,7 +6351,7 @@
       "Name": "Change the Channel",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1011
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -6418,7 +6423,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -6577,13 +6582,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3435,
+      "Progressed": 3436,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3484,
+      "Progressed": 3485,
       "Completed": 9
     }
   ],
@@ -6591,8 +6596,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-08-15T14:58:15.1556932+00:00",
-  "LastChanged_Achievements": "2023-08-16T16:04:09.418862+00:00",
+  "LastChanged_Achievements": "2023-08-16T17:04:05.3221422+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:04.4888171+00:00",
-  "LastUpdate_Ratings": "2023-08-16T15:58:13.4930663+00:00",
-  "LastUpdate_Achievements": "2023-08-16T16:04:09.4190556+00:00"
+  "LastUpdate_Ratings": "2023-08-16T16:58:28.0905678+00:00",
+  "LastUpdate_Achievements": "2023-08-16T17:04:05.322248+00:00"
 }

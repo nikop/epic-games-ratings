@@ -424,9 +424,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7532,
+  "EOS_Progressed": 7533,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -7364,6 +7364,11 @@
       "Time": "2023-08-16T14:07:19.5147484+00:00",
       "NumProgressed": 7532,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-08-16T17:06:21.7967634+00:00",
+      "NumProgressed": 7533,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 29,
@@ -7399,7 +7404,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 2862
+      "UsersEstimate": 2863
     },
     {
       "ID": "ACH05",
@@ -7479,7 +7484,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 1280
+      "UsersEstimate": 1281
     },
     {
       "ID": "ACH15",
@@ -7501,9 +7506,9 @@
       "ID": "ACH17",
       "SetID": "552d41m",
       "Name": "Offshore Delivery",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 979
+      "UsersEstimate": 1055
     },
     {
       "ID": "ACH18",
@@ -7606,7 +7611,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7532,
+      "Progressed": 7533,
       "Completed": 45
     }
   ],
@@ -7614,8 +7619,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-08-08T10:58:39.8660695+00:00",
-  "LastChanged_Achievements": "2023-08-16T16:07:02.1579634+00:00",
+  "LastChanged_Achievements": "2023-08-16T17:06:21.7967627+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:32.4221981+00:00",
-  "LastUpdate_Ratings": "2023-08-16T15:59:26.903131+00:00",
-  "LastUpdate_Achievements": "2023-08-16T16:07:02.1580803+00:00"
+  "LastUpdate_Ratings": "2023-08-16T16:59:28.767994+00:00",
+  "LastUpdate_Achievements": "2023-08-16T17:06:21.7968669+00:00"
 }

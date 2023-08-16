@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewPlayers": 309,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -208,9 +208,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1733,
+  "EOS_Progressed": 1734,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2178,6 +2178,11 @@
       "Time": "2023-08-10T19:03:32.1250627+00:00",
       "NumProgressed": 1733,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-16T17:03:26.0483509+00:00",
+      "NumProgressed": 1734,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2205,7 +2210,7 @@
       "Name": "Home Is Where the Heart Is",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 1057
+      "UsersEstimate": 1058
     },
     {
       "ID": "Achievement_004",
@@ -2213,7 +2218,7 @@
       "Name": "Enter of Your Own Free Will",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "Achievement_006",
@@ -2245,7 +2250,7 @@
       "Name": "Ne Plus Ultra",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 1057
+      "UsersEstimate": 1058
     },
     {
       "ID": "Achievement_010",
@@ -2325,7 +2330,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 1334
+      "UsersEstimate": 1335
     },
     {
       "ID": "Achievement_020",
@@ -2373,7 +2378,7 @@
       "Name": "Grounded",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "Achievement_026",
@@ -2381,7 +2386,7 @@
       "Name": "Fly Fisher",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     },
     {
       "ID": "Achievement_027",
@@ -2419,9 +2424,9 @@
       "ID": "Achievement_031",
       "SetID": "6b34g18",
       "Name": "Sucks To Be You",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 763
+      "UsersEstimate": 746
     },
     {
       "ID": "Achievement_032",
@@ -2525,7 +2530,7 @@
       "Name": "Skin of Their Teeth",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "Achievement_046",
@@ -2691,9 +2696,9 @@
       "ID": "Achievement_069",
       "SetID": "6b34g18",
       "Name": "Friends \u0027Til The End",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 17
     },
     {
       "ID": "Achievement_070",
@@ -2716,7 +2721,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1733,
+      "Progressed": 1734,
       "Completed": 0
     }
   ],
@@ -2724,8 +2729,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-08-08T16:59:16.4444629+00:00",
-  "LastChanged_Achievements": "2023-08-16T16:03:07.9307158+00:00",
+  "LastChanged_Achievements": "2023-08-16T17:03:26.0483504+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:30.0821973+00:00",
-  "LastUpdate_Ratings": "2023-08-16T15:59:25.5405146+00:00",
-  "LastUpdate_Achievements": "2023-08-16T16:03:07.9308092+00:00"
+  "LastUpdate_Ratings": "2023-08-16T16:59:27.6024446+00:00",
+  "LastUpdate_Achievements": "2023-08-16T17:03:26.0484389+00:00"
 }

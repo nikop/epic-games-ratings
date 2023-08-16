@@ -1103,9 +1103,9 @@
       "ID": "get_tape",
       "SetID": "69co12a",
       "Name": "Old movies enjoyer",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 202
     },
     {
       "ID": "gpp_chip",
@@ -1446,8 +1446,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-08-16T16:05:13.449551+00:00",
+  "LastChanged_Achievements": "2023-08-16T17:04:56.5472859+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:18.7618858+00:00",
-  "LastUpdate_Ratings": "2023-08-16T15:58:58.3413725+00:00",
-  "LastUpdate_Achievements": "2023-08-16T16:05:13.449653+00:00"
+  "LastUpdate_Ratings": "2023-08-16T16:59:04.2231063+00:00",
+  "LastUpdate_Achievements": "2023-08-16T17:04:56.5473656+00:00"
 }

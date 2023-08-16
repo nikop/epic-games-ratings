@@ -43,6 +43,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Helping Hand | 0.30% | ~404 |
 | Accomplished Merchant | 0.30% | ~404 |
 | Natural 20 | 0.30% | ~404 |
+| Magical Harmony | 0.30% | ~404 |
 | Arcane Industries | 0.30% | ~404 |
 | A Notch Above the Rest | 0.20% | ~269 |
 | Cream of the Crop | 0.20% | ~269 |
@@ -92,7 +93,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Black Friday Special | 0.20% | ~269 |
 | King's Shadow | 0.20% | ~269 |
 | Master Recycler | 0.20% | ~269 |
-| Magical Harmony | 0.20% | ~269 |
 | Special Ingredient | 0.20% | ~269 |
 | Exotic Commodities | 0.20% | ~269 |
 | Economy of Scarce | 0.20% | ~269 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.10% | ~135 |
 | All Accounted For | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,609 (Ranked 66)  
+Progressed: 134,610 (Ranked 66)  
 Completed: 133 (0.10%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,7 +237,7 @@ Completed: 133 (0.10%) (Ranked 206)
 | 2023-08-13 | 134,471 | 132 |
 | 2023-08-14 | 134,532 | 132 |
 | 2023-08-15 | 134,574 | 132 |
-| 2023-08-16 | 134,609 | 133 |
+| 2023-08-16 | 134,610 | 133 |
 ## Awards
 Max (Great for Beginners): 4,701  (Ranked 71)  
 Sum: 27,104 (Ranked 47)  

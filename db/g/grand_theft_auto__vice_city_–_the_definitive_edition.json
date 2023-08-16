@@ -586,9 +586,9 @@
       "Count": 67
     }
   ],
-  "EOS_Progressed": 9692,
+  "EOS_Progressed": 9693,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -8431,6 +8431,11 @@
       "Time": "2023-08-16T11:05:55.7659852+00:00",
       "NumProgressed": 9692,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-08-16T17:05:45.217842+00:00",
+      "NumProgressed": 9693,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 34,
@@ -8514,7 +8519,7 @@
       "Name": "Vice City Mogul",
       "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 678
+      "UsersEstimate": 679
     },
     {
       "ID": "ACH11",
@@ -8602,7 +8607,7 @@
       "Name": "Legal Counsel",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4361
+      "UsersEstimate": 4362
     },
     {
       "ID": "ACH22",
@@ -8610,7 +8615,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1938
+      "UsersEstimate": 1939
     },
     {
       "ID": "ACH23",
@@ -8713,7 +8718,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9692,
+      "Progressed": 9693,
       "Completed": 48
     }
   ],
@@ -8721,8 +8726,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-08-14T19:00:14.711734+00:00",
-  "LastChanged_Achievements": "2023-08-16T16:06:16.2822057+00:00",
+  "LastChanged_Achievements": "2023-08-16T17:05:45.2178412+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:57.4894701+00:00",
-  "LastUpdate_Ratings": "2023-08-16T15:59:53.4924097+00:00",
-  "LastUpdate_Achievements": "2023-08-16T16:06:16.2822839+00:00"
+  "LastUpdate_Ratings": "2023-08-16T16:59:54.6406215+00:00",
+  "LastUpdate_Achievements": "2023-08-16T17:05:45.2179431+00:00"
 }

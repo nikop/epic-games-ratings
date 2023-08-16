@@ -5,12 +5,12 @@ Rating: 4.05 (Ranked 920)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,683 |
-| World Map | 79.00% | ~1,430 |
+| Victor | 93.00% | ~1,684 |
+| World Map | 79.00% | ~1,431 |
 | Temple of Eternals | 56.00% | ~1,014 |
-| Prestigious | 53.00% | ~959 |
-| Fellowship Power | 41.00% | ~742 |
-| Guild Power | 25.00% | ~452 |
+| Prestigious | 53.00% | ~960 |
+| Fellowship Power | 41.00% | ~743 |
+| Guild Power | 25.00% | ~453 |
 | Prestigious x10 | 22.00% | ~398 |
 | The game is on | 20.00% | ~362 |
 | Exotic Merchant | 18.00% | ~326 |
@@ -20,9 +20,9 @@ Rating: 4.05 (Ranked 920)
 | Inspection | 16.00% | ~290 |
 | Dragon Master | 15.00% | ~272 |
 | Enlightenment | 15.00% | ~272 |
-| Hero inspection | 14.00% | ~253 |
-| Lieutenant | 14.00% | ~253 |
-| Mysterious Rock | 14.00% | ~253 |
+| Hero inspection | 14.00% | ~254 |
+| Lieutenant | 14.00% | ~254 |
+| Mysterious Rock | 14.00% | ~254 |
 | Natural Talent | 13.00% | ~235 |
 | Superior | 13.00% | ~235 |
 | The Unstoppable | 13.00% | ~235 |
@@ -55,9 +55,9 @@ Rating: 4.05 (Ranked 920)
 | Lock And Load | 6.00% | ~109 |
 | Missions Dedication | 6.00% | ~109 |
 | Sailor | 6.00% | ~109 |
-| Active Member | 5.00% | ~90 |
-| Background Story | 5.00% | ~90 |
-| The Alchemist | 5.00% | ~90 |
+| Active Member | 5.00% | ~91 |
+| Background Story | 5.00% | ~91 |
+| The Alchemist | 5.00% | ~91 |
 | Arena Challenger | 4.00% | ~72 |
 | Ebony Jungle Liberator | 4.00% | ~72 |
 | Legendary | 4.00% | ~72 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 920)
 | Silverwood liberator | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,810 (Ranked 171)  
+Progressed: 1,811 (Ranked 171)  
 Completed: 2 (0.11%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,7 +198,7 @@ Completed: 2 (0.11%) (Ranked 202)
 | 2023-08-13 | 1,797 | 2 |
 | 2023-08-14 | 1,802 | 2 |
 | 2023-08-15 | 1,806 | 2 |
-| 2023-08-16 | 1,810 | 2 |
+| 2023-08-16 | 1,811 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

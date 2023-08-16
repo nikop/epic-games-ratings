@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2315,
+  "EOS_Progressed": 2317,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -4916,6 +4916,11 @@
       "Time": "2023-08-16T15:04:16.6982644+00:00",
       "NumProgressed": 2315,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-16T17:04:18.7544841+00:00",
+      "NumProgressed": 2317,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -4959,7 +4964,7 @@
       "Name": "Harold Rex Interfectus Est",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -5007,7 +5012,7 @@
       "Name": "Novice",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 903
+      "UsersEstimate": 904
     },
     {
       "ID": "GLOVE_SLAP",
@@ -5031,7 +5036,7 @@
       "Name": "Grasshopper",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 1389
+      "UsersEstimate": 1390
     },
     {
       "ID": "GUARD_MAKER",
@@ -5055,7 +5060,7 @@
       "Name": "Clash of Kings",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "KNIGHT_MASTERY",
@@ -5063,7 +5068,7 @@
       "Name": "Knight Commander",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "MEDIC_MASTERY",
@@ -5102,14 +5107,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 2315,
+      "Progressed": 2317,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-08-16T16:04:26.4583956+00:00",
+  "LastChanged_Achievements": "2023-08-16T17:04:18.7544834+00:00",
   "LastUpdate_AppInfo": "2023-08-15T21:57:22.8245515+00:00",
-  "LastUpdate_Ratings": "2023-08-16T15:58:41.5488283+00:00",
-  "LastUpdate_Achievements": "2023-08-16T16:04:26.4584616+00:00"
+  "LastUpdate_Ratings": "2023-08-16T16:58:51.3568534+00:00",
+  "LastUpdate_Achievements": "2023-08-16T17:04:18.7545537+00:00"
 }
