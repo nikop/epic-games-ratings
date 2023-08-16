@@ -211,7 +211,7 @@
 | 198 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 46 | 410 |
 | 198 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.70 | 0 | 512 |
 | 198 | [The Witness](games/t/the_witness.md) | 4.70 | 178 | 283 |
-| 198 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,476 | 74 |
+| 198 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,479 | 74 |
 | 198 | [Ys IX: Monstrum Nox](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.70 | 0 | 512 |
 | 214 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 114,792 | 8 |
 | 214 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 512 |
@@ -250,7 +250,7 @@
 | 238 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 212,718 | 4 |
 | 238 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 512 |
 | 238 | [King of Retail](games/k/king_of_retail.md) | 4.68 | 0 | 512 |
-| 238 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 432 | 206 |
+| 238 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 435 | 206 |
 | 238 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 562 | 186 |
 | 238 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 680 | 170 |
 | 238 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.68 | 52 | 398 |
@@ -294,7 +294,7 @@
 | 274 | [SOMA](games/s/soma.md) | 4.66 | 0 | 512 |
 | 274 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.66 | 0 | 512 |
 | 274 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.66 | 0 | 512 |
-| 274 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,834 | 59 |
+| 274 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,837 | 59 |
 | 274 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 460 | 202 |
 | 274 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 22 | 494 |
 | 274 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 0 | 512 |
@@ -535,7 +535,7 @@
 | 527 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 102 | 333 |
 | 527 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 124 | 312 |
 | 527 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 0 | 512 |
-| 527 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 296 | 238 |
+| 527 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 297 | 237 |
 | 527 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.52 | 0 | 512 |
 | 527 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.52 | 0 | 512 |
 | 527 | [Verdun](games/v/verdun.md) | 4.52 | 96 | 341 |
