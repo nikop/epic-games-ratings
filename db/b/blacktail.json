@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -60,9 +60,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 625,
+  "EOS_Progressed": 626,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1565,6 +1565,11 @@
       "Time": "2023-08-14T23:04:04.2640051+00:00",
       "NumProgressed": 625,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-16T07:04:20.9701744+00:00",
+      "NumProgressed": 626,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -1624,7 +1629,7 @@
       "Name": "Devoted",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "EyeSpy",
@@ -1728,7 +1733,7 @@
       "Name": "Awards unwarded",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Queen",
@@ -1792,7 +1797,7 @@
       "Name": "Tooth fairy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "Toxic",
@@ -1808,7 +1813,7 @@
       "Name": "Entangled",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "YagaHood",
@@ -1831,7 +1836,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 625,
+      "Progressed": 626,
       "Completed": 1
     }
   ],
@@ -1839,8 +1844,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-06-17T03:57:55.2766718+00:00",
-  "LastChanged_Achievements": "2023-08-16T06:04:34.2029518+00:00",
+  "LastChanged_Achievements": "2023-08-16T07:04:20.9701736+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:35.7451795+00:00",
-  "LastUpdate_Ratings": "2023-08-16T05:59:28.8871786+00:00",
-  "LastUpdate_Achievements": "2023-08-16T06:04:34.2029777+00:00"
+  "LastUpdate_Ratings": "2023-08-16T06:59:34.1699664+00:00",
+  "LastUpdate_Achievements": "2023-08-16T07:04:20.9702351+00:00"
 }

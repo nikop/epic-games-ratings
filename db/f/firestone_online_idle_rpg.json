@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1807,
+  "EOS_Progressed": 1808,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -4949,6 +4949,11 @@
       "Time": "2023-08-16T03:05:10.1793257+00:00",
       "NumProgressed": 1807,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-16T07:05:45.9736445+00:00",
+      "NumProgressed": 1808,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -5040,7 +5045,7 @@
       "Name": "Crystal Mining",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "dailyquestcompletionist",
@@ -5080,7 +5085,7 @@
       "Name": "Dragon Slayer",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ebonyjungleliberator",
@@ -5096,7 +5101,7 @@
       "Name": "Enchanting skill",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "enchantingskillx5",
@@ -5112,7 +5117,7 @@
       "Name": "Engineer Mastery",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "enhancedwarmachines",
@@ -5414,9 +5419,9 @@
       "ID": "templeofeternals",
       "SetID": "3nl4bcg",
       "Name": "Temple of Eternals",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 1030
+      "UsersEstimate": 1012
     },
     {
       "ID": "thealchemist",
@@ -5432,7 +5437,7 @@
       "Name": "The Expeditioner",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "thefatherofdragons",
@@ -5448,7 +5453,7 @@
       "Name": "The game is on",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "thepowerofawakening",
@@ -5536,7 +5541,7 @@
       "Name": "Weekly Quest Completionist",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "whatliesbehindthebush",
@@ -5559,7 +5564,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1807,
+      "Progressed": 1808,
       "Completed": 2
     }
   ],
@@ -5567,8 +5572,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-08-10T20:59:32.9674394+00:00",
-  "LastChanged_Achievements": "2023-08-16T06:05:46.625575+00:00",
+  "LastChanged_Achievements": "2023-08-16T07:05:45.9736441+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:43.3889946+00:00",
-  "LastUpdate_Ratings": "2023-08-16T05:59:39.8602084+00:00",
-  "LastUpdate_Achievements": "2023-08-16T06:05:46.6256586+00:00"
+  "LastUpdate_Ratings": "2023-08-16T06:59:42.4353564+00:00",
+  "LastUpdate_Achievements": "2023-08-16T07:05:45.9737576+00:00"
 }

@@ -6262,10 +6262,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 41058,
       "NumberOfAwardsMax": 21765
+    },
+    {
+      "Time": "2023-08-16T06:59:03.101383+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 41059,
+      "NumberOfAwardsMax": 21765
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 41058,
+  "NumberOfAwards": 41059,
   "NumberOfAwardsMax": 21765,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6303,7 +6309,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 953
+      "Count": 954
     },
     {
       "Text": "This game has Diverse Characters",
@@ -6342,9 +6348,9 @@
       "Count": 593
     }
   ],
-  "EOS_Progressed": 290185,
+  "EOS_Progressed": 290186,
   "EOS_Completed": 451,
-  "EOS_NewPlayers": 486,
+  "EOS_NewPlayers": 487,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -19007,6 +19013,11 @@
       "Time": "2023-08-16T05:06:45.170229+00:00",
       "NumProgressed": 290185,
       "NumCompleted": 451
+    },
+    {
+      "Time": "2023-08-16T07:06:37.9301927+00:00",
+      "NumProgressed": 290186,
+      "NumCompleted": 451
     }
   ],
   "TotalAchievements": 45,
@@ -19138,7 +19149,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 29018
+      "UsersEstimate": 29019
     },
     {
       "ID": "PFA_24",
@@ -19362,7 +19373,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 29018
+      "UsersEstimate": 29019
     },
     {
       "ID": "PFA_9",
@@ -19377,16 +19388,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 290185,
+      "Progressed": 290186,
       "Completed": 451
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-08-16T03:58:32.053284+00:00",
-  "LastChanged_Achievements": "2023-08-16T06:06:36.624882+00:00",
+  "LastChanged": "2023-08-16T06:59:03.1013828+00:00",
+  "LastChanged_Achievements": "2023-08-16T07:06:37.9301921+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:17.4814985+00:00",
-  "LastUpdate_Ratings": "2023-08-16T05:58:59.9303902+00:00",
-  "LastUpdate_Achievements": "2023-08-16T06:06:36.6249692+00:00"
+  "LastUpdate_Ratings": "2023-08-16T06:59:03.1013835+00:00",
+  "LastUpdate_Achievements": "2023-08-16T07:06:37.9303932+00:00"
 }

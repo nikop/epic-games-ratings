@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -4225,9 +4225,9 @@
       "ID": "LegacyOfaMasterHunter_55",
       "SetID": "c4hee28",
       "Name": "Legacy of a master hunter",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 17
     },
     {
       "ID": "LetEmEatMagma",
@@ -4449,8 +4449,8 @@
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-07-11T02:15:21.6079736+00:00",
-  "LastChanged_Achievements": "2023-08-16T06:04:52.429508+00:00",
+  "LastChanged_Achievements": "2023-08-16T07:04:39.6384491+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:38.7353115+00:00",
-  "LastUpdate_Ratings": "2023-08-16T05:59:34.7024876+00:00",
-  "LastUpdate_Achievements": "2023-08-16T06:04:52.4295509+00:00"
+  "LastUpdate_Ratings": "2023-08-16T06:59:39.292507+00:00",
+  "LastUpdate_Achievements": "2023-08-16T07:04:39.6385486+00:00"
 }

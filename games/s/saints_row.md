@@ -6,28 +6,28 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 43.00% | ~26,646 |
-| To The Nines | 38.00% | ~23,547 |
-| Optimized | 34.00% | ~21,069 |
-| Performance Review | 33.00% | ~20,449 |
-| Making a Name | 32.00% | ~19,829 |
-| Tune Up | 31.00% | ~19,210 |
-| Wet Work | 29.00% | ~17,970 |
-| Landlord | 29.00% | ~17,970 |
-| The Side Job | 28.00% | ~17,351 |
+| First F#@!ing Day | 43.00% | ~26,647 |
+| To The Nines | 38.00% | ~23,549 |
+| Optimized | 34.00% | ~21,070 |
+| Performance Review | 33.00% | ~20,450 |
+| Making a Name | 32.00% | ~19,830 |
+| Tune Up | 31.00% | ~19,211 |
+| Wet Work | 29.00% | ~17,971 |
+| Landlord | 29.00% | ~17,971 |
+| The Side Job | 28.00% | ~17,352 |
 | Wrecking Ball | 25.00% | ~15,492 |
 | Food for Thought | 25.00% | ~15,492 |
-| Finders Keepers | 23.00% | ~14,252 |
-| A Young Empire | 23.00% | ~14,252 |
-| Work Ethic | 21.00% | ~13,013 |
-| Picking Fights | 18.00% | ~11,154 |
-| Power Players | 17.00% | ~10,534 |
+| Finders Keepers | 23.00% | ~14,253 |
+| A Young Empire | 23.00% | ~14,253 |
+| Work Ethic | 21.00% | ~13,014 |
+| Picking Fights | 18.00% | ~11,155 |
+| Power Players | 17.00% | ~10,535 |
 | Quality Time | 16.00% | ~9,915 |
-| Showdown | 15.00% | ~9,295 |
-| Et tu? | 15.00% | ~9,295 |
-| Took It to The Limit | 15.00% | ~9,295 |
+| Showdown | 15.00% | ~9,296 |
+| Et tu? | 15.00% | ~9,296 |
+| Took It to The Limit | 15.00% | ~9,296 |
 | Kitted Out | 13.00% | ~8,056 |
-| Masters of Santo Ileso | 11.00% | ~6,816 |
+| Masters of Santo Ileso | 11.00% | ~6,817 |
 | Hijacked | 10.00% | ~6,197 |
 | The Spins | 9.00% | ~5,577 |
 | The Mechanic | 9.00% | ~5,577 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.20% | ~124 |
 | Fiesta Time | 0.20% | ~124 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,967 (Ranked 84)  
+Progressed: 61,970 (Ranked 84)  
 Completed: 39 (0.06%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,7 +178,7 @@ Completed: 39 (0.06%) (Ranked 216)
 | 2023-08-13 | 61,564 | 36 |
 | 2023-08-14 | 61,736 | 37 |
 | 2023-08-15 | 61,921 | 38 |
-| 2023-08-16 | 61,967 | 39 |
+| 2023-08-16 | 61,970 | 39 |
 ## Awards
 Max (Extremely Fun): 1,054  (Ranked 141)  
 Sum: 8,567 (Ranked 95)  

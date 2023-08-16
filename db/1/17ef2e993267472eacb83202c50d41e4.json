@@ -4,7 +4,7 @@
   "ProductSlug": "nexus-058364",
   "Ranking_EOS_Progress": 546,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewPlayers": 355,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-15T04:57:02.1695612+00:00",
-  "LastUpdate_Ratings": "2023-08-16T05:57:51.1565447+00:00",
-  "LastUpdate_Achievements": "2023-08-16T06:04:44.7251292+00:00"
+  "LastUpdate_Ratings": "2023-08-16T06:57:56.8161006+00:00",
+  "LastUpdate_Achievements": "2023-08-16T07:04:31.7161071+00:00"
 }

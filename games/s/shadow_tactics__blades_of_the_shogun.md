@@ -6,7 +6,7 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~21,360 |
+| Genin | 11.00% | ~21,361 |
 | Thorough | 10.00% | ~19,419 |
 | A thief's beginning | 9.00% | ~17,477 |
 | Disguised | 8.00% | ~15,535 |
@@ -15,18 +15,18 @@ Number of Ratings: 495  (23.09.2022)
 | Jonin | 7.00% | ~13,593 |
 | Rescue Takuma | 7.00% | ~13,593 |
 | Stoned Ox | 7.00% | ~13,593 |
-| Chunin | 6.00% | ~11,651 |
-| Happy Planning | 6.00% | ~11,651 |
-| Ice Ice Yuki | 6.00% | ~11,651 |
-| Mugen Unchained | 6.00% | ~11,651 |
-| Yabu | 6.00% | ~11,651 |
-| Flying Rocks | 5.00% | ~9,709 |
-| Okkoto | 5.00% | ~9,709 |
-| Warzone | 5.00% | ~9,709 |
-| Gear up | 4.00% | ~7,767 |
-| Happy little accidents | 4.00% | ~7,767 |
-| Prisoners | 4.00% | ~7,767 |
-| Too Early | 4.00% | ~7,767 |
+| Chunin | 6.00% | ~11,652 |
+| Happy Planning | 6.00% | ~11,652 |
+| Ice Ice Yuki | 6.00% | ~11,652 |
+| Mugen Unchained | 6.00% | ~11,652 |
+| Yabu | 6.00% | ~11,652 |
+| Flying Rocks | 5.00% | ~9,710 |
+| Okkoto | 5.00% | ~9,710 |
+| Warzone | 5.00% | ~9,710 |
+| Gear up | 4.00% | ~7,768 |
+| Happy little accidents | 4.00% | ~7,768 |
+| Prisoners | 4.00% | ~7,768 |
+| Too Early | 4.00% | ~7,768 |
 | Noboru | 3.00% | ~5,826 |
 | Still Rollin' | 3.00% | ~5,826 |
 | Stoned | 3.00% | ~5,826 |
@@ -39,7 +39,7 @@ Number of Ratings: 495  (23.09.2022)
 | No Gimmicks | 1.00% | ~1,942 |
 | The End | 1.00% | ~1,942 |
 | Undeserved Honor | 1.00% | ~1,942 |
-| When Cut Across the Neck | 0.80% | ~1,553 |
+| When Cut Across the Neck | 0.80% | ~1,554 |
 | High Five the Moon | 0.70% | ~1,359 |
 | The Cave | 0.70% | ~1,359 |
 | Merciful | 0.50% | ~971 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~194 |
 | Release the Kraken | 0.10% | ~194 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 194,186 (Ranked 60)  
+Progressed: 194,192 (Ranked 60)  
 Completed: 69 (0.04%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,7 +169,7 @@ Completed: 69 (0.04%) (Ranked 226)
 | 2023-08-13 | 193,457 | 69 |
 | 2023-08-14 | 193,724 | 69 |
 | 2023-08-15 | 194,108 | 69 |
-| 2023-08-16 | 194,186 | 69 |
+| 2023-08-16 | 194,192 | 69 |
 ## Awards
 Max (Great for Beginners): 561  (Ranked 188)  
 Sum: 4,725 (Ranked 134)  

@@ -32,7 +32,7 @@ Rating: 3.53 (Ranked 966)
 | Tape Head | 2.00% | ~1,403 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 70,173 (Ranked 79)  
-Completed: 703 (1.00%) (Ranked 116)  
+Completed: 704 (1.00%) (Ranked 116)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -149,7 +149,7 @@ Completed: 703 (1.00%) (Ranked 116)
 | 2023-08-13 | 69,918 | 702 |
 | 2023-08-14 | 70,042 | 702 |
 | 2023-08-15 | 70,152 | 702 |
-| 2023-08-16 | 70,173 | 703 |
+| 2023-08-16 | 70,173 | 704 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

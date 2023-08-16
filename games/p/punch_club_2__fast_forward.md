@@ -30,8 +30,8 @@
 | Champion – starter pack | 60.00% | ~152 |
 | Own four walls | 60.00% | ~152 |
 | Employee of the year | 60.00% | ~152 |
+| Fight for life | 59.00% | ~149 |
 | Little hacker | 59.00% | ~149 |
-| Fight for life | 58.00% | ~147 |
 | Intriguing candies | 57.00% | ~144 |
 | Legal courier | 55.00% | ~139 |
 | Extreme neuropower! | 54.00% | ~137 |
