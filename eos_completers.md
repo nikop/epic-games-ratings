@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
-| 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 50.00% |
+| 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 51.35% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.42% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 41.67% |
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
@@ -31,7 +31,7 @@
 | 29 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 10.00% |
 | 30 | [Sonic Origins](games/s/sonic_origins.md) | 9.60% |
 | 31 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.30% |
-| 32 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.91% |
+| 32 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.90% |
 | 33 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 8.51% |
 | 34 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.48% |
 | 35 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 7.81% |
@@ -60,8 +60,8 @@
 | 56 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.17% |
 | 59 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.04% |
 | 60 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.89% |
-| 61 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 3.85% |
-| 62 | [ZZT!](games/z/zzt!.md) | 3.77% |
+| 61 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 3.77% |
+| 61 | [ZZT!](games/z/zzt!.md) | 3.77% |
 | 63 | [Without Escape](games/w/without_escape.md) | 3.70% |
 | 64 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 65 | [Doodle God](games/d/doodle_god.md) | 3.46% |
@@ -95,7 +95,7 @@
 | 93 | [Night Book](games/n/night_book.md) | 1.89% |
 | 94 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 95 | [Frogun](games/f/frogun.md) | 1.81% |
-| 95 | [Sifu](games/s/sifu.md) | 1.81% |
+| 96 | [Sifu](games/s/sifu.md) | 1.80% |
 | 97 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.67% |
 | 98 | [Iron Danger](games/i/iron_danger.md) | 1.62% |
 | 99 | [Somerville](games/s/somerville.md) | 1.61% |
