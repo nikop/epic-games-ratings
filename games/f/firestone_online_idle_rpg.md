@@ -5,16 +5,16 @@ Rating: 4.05 (Ranked 920)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,681 |
-| World Map | 79.00% | ~1,428 |
-| Temple of Eternals | 56.00% | ~1,012 |
-| Prestigious | 53.00% | ~958 |
-| Fellowship Power | 41.00% | ~741 |
+| Victor | 93.00% | ~1,682 |
+| World Map | 79.00% | ~1,429 |
+| Temple of Eternals | 56.00% | ~1,013 |
+| Prestigious | 53.00% | ~959 |
+| Fellowship Power | 41.00% | ~742 |
 | Guild Power | 25.00% | ~452 |
 | Prestigious x10 | 22.00% | ~398 |
 | The game is on | 20.00% | ~362 |
-| Exotic Merchant | 18.00% | ~325 |
-| Dragon Clicker | 17.00% | ~307 |
+| Exotic Merchant | 18.00% | ~326 |
+| Dragon Clicker | 17.00% | ~308 |
 | Full Party | 16.00% | ~289 |
 | Inspection | 16.00% | ~289 |
 | Miner Clicker | 16.00% | ~289 |
@@ -49,12 +49,12 @@ Rating: 4.05 (Ranked 920)
 | Engineer Mastery | 7.00% | ~127 |
 | The Expeditioner | 7.00% | ~127 |
 | Weekly Quest Completionist | 7.00% | ~127 |
-| Ancient Knowledge | 6.00% | ~108 |
-| Blueprint Upgrades | 6.00% | ~108 |
-| How Do You Turn This On? | 6.00% | ~108 |
-| Lock And Load | 6.00% | ~108 |
-| Missions Dedication | 6.00% | ~108 |
-| Sailor | 6.00% | ~108 |
+| Ancient Knowledge | 6.00% | ~109 |
+| Blueprint Upgrades | 6.00% | ~109 |
+| How Do You Turn This On? | 6.00% | ~109 |
+| Lock And Load | 6.00% | ~109 |
+| Missions Dedication | 6.00% | ~109 |
+| Sailor | 6.00% | ~109 |
 | Active Member | 5.00% | ~90 |
 | Background Story | 5.00% | ~90 |
 | The Alchemist | 5.00% | ~90 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 920)
 | Silverwood liberator | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,808 (Ranked 171)  
+Progressed: 1,809 (Ranked 171)  
 Completed: 2 (0.11%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,7 +198,7 @@ Completed: 2 (0.11%) (Ranked 201)
 | 2023-08-13 | 1,797 | 2 |
 | 2023-08-14 | 1,802 | 2 |
 | 2023-08-15 | 1,806 | 2 |
-| 2023-08-16 | 1,808 | 2 |
+| 2023-08-16 | 1,809 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,24 +5,24 @@ Rating: 4.26 (Ranked 815)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~155,233 |
-| Copacetic Coordination | 16.00% | ~53,994 |
-| Fronting the Money | 14.00% | ~47,245 |
-| The Dawn of Automation | 14.00% | ~47,245 |
-| Extraordinary Logistics | 14.00% | ~47,245 |
-| Dirty Money | 13.00% | ~43,870 |
-| Family First | 13.00% | ~43,870 |
+| Corner Clout | 46.00% | ~155,235 |
+| Copacetic Coordination | 16.00% | ~53,995 |
+| Fronting the Money | 14.00% | ~47,246 |
+| The Dawn of Automation | 14.00% | ~47,246 |
+| Extraordinary Logistics | 14.00% | ~47,246 |
+| Dirty Money | 13.00% | ~43,871 |
+| Family First | 13.00% | ~43,871 |
 | Cleaning House | 12.00% | ~40,496 |
 | Room in the Back | 12.00% | ~40,496 |
 | Booze Baron | 11.00% | ~37,121 |
-| Beating the Heat | 10.00% | ~33,746 |
-| Friends on the Force | 10.00% | ~33,746 |
-| Neighborhood Watch | 10.00% | ~33,746 |
+| Beating the Heat | 10.00% | ~33,747 |
+| Friends on the Force | 10.00% | ~33,747 |
+| Neighborhood Watch | 10.00% | ~33,747 |
 | Core Corps | 8.00% | ~26,997 |
 | Sizeable Stash | 8.00% | ~26,997 |
-| Street Fighter | 7.00% | ~23,622 |
-| Friendly Gestures | 7.00% | ~23,622 |
-| People Person | 7.00% | ~23,622 |
+| Street Fighter | 7.00% | ~23,623 |
+| Friendly Gestures | 7.00% | ~23,623 |
+| People Person | 7.00% | ~23,623 |
 | Liquor Lord | 6.00% | ~20,248 |
 | Safety in Numbers | 6.00% | ~20,248 |
 | Wise Head | 6.00% | ~20,248 |
@@ -86,7 +86,7 @@ Rating: 4.26 (Ranked 815)
 | High Pillow | 0.10% | ~337 |
 | Station Master | 0.10% | ~337 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 337,464 (Ranked 41)  
+Progressed: 337,468 (Ranked 41)  
 Completed: 7 (0.00%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,7 +204,7 @@ Completed: 7 (0.00%) (Ranked 257)
 | 2023-08-13 | 336,943 | 7 |
 | 2023-08-14 | 337,164 | 7 |
 | 2023-08-15 | 337,399 | 7 |
-| 2023-08-16 | 337,464 | 7 |
+| 2023-08-16 | 337,468 | 7 |
 ## Awards
 Max (Great for Beginners): 33  (Ranked 448)  
 Sum: 161 (Ranked 392)  

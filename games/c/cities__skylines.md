@@ -6,44 +6,44 @@ Number of Ratings: 25,248  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pioneer | 71.00% | ~700,818 |
-| Green Energy | 60.00% | ~592,240 |
-| Foggy Weather | 59.00% | ~582,370 |
-| Singing In The- | 59.00% | ~582,370 |
-| Unpopular Mayor | 40.00% | ~394,827 |
-| Power at Your Fingertips | 33.00% | ~325,732 |
-| City Planner | 23.00% | ~227,025 |
-| Rolling in Dough | 20.00% | ~197,413 |
-| Does My Bum Look Big In This? | 17.00% | ~167,801 |
-| Climbing the Social Ladder | 16.00% | ~157,931 |
-| Safe City | 14.00% | ~138,189 |
-| Quay-King | 11.00% | ~108,577 |
-| Lawmaker | 10.00% | ~98,707 |
-| With Canals You Can! | 10.00% | ~98,707 |
-| Nomen Est Omen | 7.00% | ~69,095 |
-| Well Informed | 6.00% | ~59,224 |
-| Fire Watch | 5.00% | ~49,353 |
-| Greenest City | 4.00% | ~39,483 |
-| Heavenly City | 3.00% | ~29,612 |
-| Reporting! | 3.00% | ~29,612 |
-| SIMulated City | 3.00% | ~29,612 |
-| The Safest Town | 3.00% | ~29,612 |
-| Professional Dumper | 2.00% | ~19,741 |
+| Pioneer | 71.00% | ~700,853 |
+| Green Energy | 60.00% | ~592,270 |
+| Foggy Weather | 59.00% | ~582,399 |
+| Singing In The- | 59.00% | ~582,399 |
+| Unpopular Mayor | 40.00% | ~394,847 |
+| Power at Your Fingertips | 33.00% | ~325,749 |
+| City Planner | 23.00% | ~227,037 |
+| Rolling in Dough | 20.00% | ~197,423 |
+| Does My Bum Look Big In This? | 17.00% | ~167,810 |
+| Climbing the Social Ladder | 16.00% | ~157,939 |
+| Safe City | 14.00% | ~138,196 |
+| Quay-King | 11.00% | ~108,583 |
+| Lawmaker | 10.00% | ~98,712 |
+| With Canals You Can! | 10.00% | ~98,712 |
+| Nomen Est Omen | 7.00% | ~69,098 |
+| Well Informed | 6.00% | ~59,227 |
+| Fire Watch | 5.00% | ~49,356 |
+| Greenest City | 4.00% | ~39,485 |
+| Heavenly City | 3.00% | ~29,614 |
+| Reporting! | 3.00% | ~29,614 |
+| SIMulated City | 3.00% | ~29,614 |
+| The Safest Town | 3.00% | ~29,614 |
+| Professional Dumper | 2.00% | ~19,742 |
 | City in Motion | 1.00% | ~9,871 |
 | Earthloving City | 1.00% | ~9,871 |
 | Metropolis | 1.00% | ~9,871 |
 | Higher Education | 0.80% | ~7,897 |
-| Beam Me Up | 0.70% | ~6,909 |
-| Full Capacity | 0.60% | ~5,922 |
-| Terraformer | 0.60% | ~5,922 |
-| Decorator | 0.50% | ~4,935 |
-| Drop the Base | 0.50% | ~4,935 |
-| It's heading right for us! | 0.50% | ~4,935 |
-| Postman | 0.50% | ~4,935 |
-| Shake It Up! | 0.50% | ~4,935 |
-| Speed up! | 0.50% | ~4,935 |
-| The Waters of Our Lives | 0.50% | ~4,935 |
-| Twist and shout | 0.50% | ~4,935 |
+| Beam Me Up | 0.70% | ~6,910 |
+| Full Capacity | 0.60% | ~5,923 |
+| Terraformer | 0.60% | ~5,923 |
+| Decorator | 0.50% | ~4,936 |
+| Drop the Base | 0.50% | ~4,936 |
+| It's heading right for us! | 0.50% | ~4,936 |
+| Postman | 0.50% | ~4,936 |
+| Shake It Up! | 0.50% | ~4,936 |
+| Speed up! | 0.50% | ~4,936 |
+| The Waters of Our Lives | 0.50% | ~4,936 |
+| Twist and shout | 0.50% | ~4,936 |
 | Airfield Expertise | 0.40% | ~3,948 |
 | Airlifter | 0.40% | ~3,948 |
 | Get Your Snowshoes Ready! | 0.40% | ~3,948 |
@@ -126,7 +126,7 @@ Number of Ratings: 25,248  (23.09.2022)
 | World of Rotorcraft | 0.10% | ~987 |
 | Z00 | 0.10% | ~987 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 987,067 (Ranked 13)  
+Progressed: 987,117 (Ranked 13)  
 Completed: 10 (0.00%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,10 +244,10 @@ Completed: 10 (0.00%) (Ranked 257)
 | 2023-08-13 | 982,708 | 10 |
 | 2023-08-14 | 984,667 | 10 |
 | 2023-08-15 | 986,641 | 10 |
-| 2023-08-16 | 987,067 | 10 |
+| 2023-08-16 | 987,117 | 10 |
 ## Awards
 Max (Relaxing): 5,149  (Ranked 68)  
-Sum: 39,019 (Ranked 32)  
+Sum: 39,026 (Ranked 32)  
 Diff (max vs sum): 36  
 | Award | Count |
 | ----- | ----- |
@@ -257,7 +257,7 @@ Diff (max vs sum): 36
 | This game has Quickly Understood Controls | 4,805 |
 | This game is Extremely Fun | 4,495 |
 | This game is Highly Recommended | 4,345 |
-| This game has Amazing Storytelling | 3,641 |
+| This game has Amazing Storytelling | 3,648 |
 | This game has a Creative Community | 3,503 |
 | This game has Amazing Characters | 3,113 |
 | This game has Obsessive Gameplay | 2,497 |
@@ -466,3 +466,4 @@ Diff (max vs sum): 36
 | 2023-08-13 | 4.65 | - | 5,132 | 38,898 |
 | 2023-08-14 | 4.65 | - | 5,139 | 38,951 |
 | 2023-08-15 | 4.65 | - | 5,149 | 39,019 |
+| 2023-08-16 | 4.65 | - | 5,149 | 39,026 |

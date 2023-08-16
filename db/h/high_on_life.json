@@ -244,9 +244,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23927,
+  "EOS_Progressed": 23928,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4269,6 +4269,11 @@
       "Time": "2023-08-16T01:42:04.4057862+00:00",
       "NumProgressed": 23927,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-08-16T08:03:22.3860659+00:00",
+      "NumProgressed": 23928,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 32,
@@ -4296,7 +4301,7 @@
       "Name": "Mods Please Ban",
       "Percentage": 77,
       "XP": 60,
-      "UsersEstimate": 18424
+      "UsersEstimate": 18425
     },
     {
       "ID": "ACH_ALL_LUGLOXES",
@@ -4312,7 +4317,7 @@
       "Name": "Eatin\u0027 Good in the Neighborhood",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 2153
+      "UsersEstimate": 2154
     },
     {
       "ID": "ACH_GET_CREATURE",
@@ -4352,7 +4357,7 @@
       "Name": "Lezduit!",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 4785
+      "UsersEstimate": 4786
     },
     {
       "ID": "ACH_GET_MAGBOOTS",
@@ -4360,7 +4365,7 @@
       "Name": "RIP Davey Glutes",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 5742
+      "UsersEstimate": 5743
     },
     {
       "ID": "ACH_GET_SWEEZY",
@@ -4384,7 +4389,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 19859
+      "UsersEstimate": 19860
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -4400,7 +4405,7 @@
       "Name": "We\u0027re All Very Impressed, Trust Me",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 13638
+      "UsersEstimate": 13639
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -4408,7 +4413,7 @@
       "Name": "First Bounty Down",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 14117
+      "UsersEstimate": 14118
     },
     {
       "ID": "ACH_KILL_DOUGLAS",
@@ -4456,7 +4461,7 @@
       "Name": "Who\u0027s The Boss?",
       "Percentage": 20,
       "XP": 45,
-      "UsersEstimate": 4785
+      "UsersEstimate": 4786
     },
     {
       "ID": "ACH_KILL_SLUMSLEY",
@@ -4535,22 +4540,22 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 23927,
+      "Progressed": 23928,
       "Completed": 12
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1220,
-      "Completed": 1220
+      "Progressed": 1221,
+      "Completed": 1221
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-08-14T02:13:15.3920394+00:00",
-  "LastChanged_Achievements": "2023-08-16T07:03:14.6306608+00:00",
+  "LastChanged_Achievements": "2023-08-16T08:03:22.3860653+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:39.7440833+00:00",
-  "LastUpdate_Ratings": "2023-08-16T06:59:38.8373469+00:00",
-  "LastUpdate_Achievements": "2023-08-16T07:03:14.6307138+00:00"
+  "LastUpdate_Ratings": "2023-08-16T07:59:43.8504854+00:00",
+  "LastUpdate_Achievements": "2023-08-16T08:03:22.3861181+00:00"
 }

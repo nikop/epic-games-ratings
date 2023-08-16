@@ -4,7 +4,7 @@
   "ProductSlug": "against-the-storm",
   "Ranking_Rating": 76,
   "Ranking_Popularity": 208,
-  "Ranking_PopularitySum": 161,
+  "Ranking_PopularitySum": 160,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 120,
@@ -2604,10 +2604,16 @@
       "Rating": 4.81,
       "NumberOfAwards": 3105,
       "NumberOfAwardsMax": 423
+    },
+    {
+      "Time": "2023-08-16T07:57:40.9842148+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 3106,
+      "NumberOfAwardsMax": 423
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3105,
+  "NumberOfAwards": 3106,
   "NumberOfAwardsMax": 423,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -2669,12 +2675,12 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 313
+      "Count": 314
     }
   ],
-  "EOS_Progressed": 16296,
+  "EOS_Progressed": 16297,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -9092,6 +9098,11 @@
       "Time": "2023-08-15T17:06:30.6781342+00:00",
       "NumProgressed": 16296,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-08-16T08:05:55.9294388+00:00",
+      "NumProgressed": 16297,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 50,
@@ -9502,15 +9513,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 16296,
+      "Progressed": 16297,
       "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2023-08-15T13:57:23.5722235+00:00",
-  "LastChanged_Achievements": "2023-08-16T07:06:05.6476656+00:00",
+  "LastChanged": "2023-08-16T07:57:40.9842146+00:00",
+  "LastChanged_Achievements": "2023-08-16T08:05:55.9294382+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:15.5100545+00:00",
-  "LastUpdate_Ratings": "2023-08-16T06:57:44.4082843+00:00",
-  "LastUpdate_Achievements": "2023-08-16T07:06:05.6477573+00:00"
+  "LastUpdate_Ratings": "2023-08-16T07:57:40.9842152+00:00",
+  "LastUpdate_Achievements": "2023-08-16T08:05:55.9295161+00:00"
 }

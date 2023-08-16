@@ -6,18 +6,18 @@ Number of Ratings: 19,160  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sheet | 50.00% | ~235,178 |
-| He's Signed! | 50.00% | ~235,178 |
-| First Victory | 50.00% | ~235,178 |
-| He's Sold! | 48.00% | ~225,771 |
+| Clean Sheet | 50.00% | ~235,179 |
+| He's Signed! | 50.00% | ~235,179 |
+| First Victory | 50.00% | ~235,179 |
+| He's Sold! | 48.00% | ~225,772 |
 | I'm The Boss! | 42.00% | ~197,550 |
-| Hat-trick | 41.00% | ~192,846 |
+| Hat-trick | 41.00% | ~192,847 |
 | Scoring Streak | 38.00% | ~178,736 |
 | Unbeatable! | 37.00% | ~174,032 |
 | Thumping | 37.00% | ~174,032 |
 | Superb Dressing Room Atmosphere | 35.00% | ~164,625 |
-| Total Support | 32.00% | ~150,514 |
-| Record Signing | 32.00% | ~150,514 |
+| Total Support | 32.00% | ~150,515 |
+| Record Signing | 32.00% | ~150,515 |
 | He's a Natural | 31.00% | ~145,811 |
 | Millionaire's Club | 31.00% | ~145,811 |
 | Team Performance | 30.00% | ~141,107 |
@@ -41,8 +41,8 @@ Number of Ratings: 19,160  (23.09.2022)
 | Cup Glory! | 22.00% | ~103,479 |
 | Splashing The Cash | 21.00% | ~98,775 |
 | Clean Bill of Health | 21.00% | ~98,775 |
-| Irresistible Force | 20.00% | ~94,071 |
-| Excellent Match Cohesion | 20.00% | ~94,071 |
+| Irresistible Force | 20.00% | ~94,072 |
+| Excellent Match Cohesion | 20.00% | ~94,072 |
 | Do The Double | 19.00% | ~89,368 |
 | Top Form | 17.00% | ~79,961 |
 | Cash To Burn | 17.00% | ~79,961 |
@@ -51,8 +51,8 @@ Number of Ratings: 19,160  (23.09.2022)
 | Rushed signing | 15.00% | ~70,554 |
 | Window Shopping | 15.00% | ~70,554 |
 | Eyes and Ears | 14.00% | ~65,850 |
-| Comeback King! | 13.00% | ~61,146 |
-| You're Up! | 13.00% | ~61,146 |
+| Comeback King! | 13.00% | ~61,147 |
+| You're Up! | 13.00% | ~61,147 |
 | Money, Money, Money | 12.00% | ~56,443 |
 | Superb Strike | 10.00% | ~47,036 |
 | Invincible! | 10.00% | ~47,036 |
@@ -85,8 +85,8 @@ Number of Ratings: 19,160  (23.09.2022)
 | Living the Dream | 1.00% | ~4,704 |
 | The Greatest | 1.00% | ~4,704 |
 | Beat your Mates | 1.00% | ~4,704 |
-| Perfect Host | 0.70% | ~3,292 |
-| The Rich Get Richer | 0.70% | ~3,292 |
+| Perfect Host | 0.70% | ~3,293 |
+| The Rich Get Richer | 0.70% | ~3,293 |
 | One more draft | 0.60% | ~2,822 |
 | Online Streak | 0.60% | ~2,822 |
 | Set Piece Specialist | 0.60% | ~2,822 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~470 |
 | Shoestring Budget | 0.10% | ~470 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 470,357 (Ranked 36)  
+Progressed: 470,358 (Ranked 36)  
 Completed: 20 (0.00%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 20 (0.00%) (Ranked 257)
 | 2023-08-13 | 470,120 | 20 |
 | 2023-08-14 | 470,235 | 20 |
 | 2023-08-15 | 470,336 | 20 |
-| 2023-08-16 | 470,357 | 20 |
+| 2023-08-16 | 470,358 | 20 |
 ## Awards
 Max (Relaxing): 6,400  (Ranked 54)  
 Sum: 50,383 (Ranked 24)  

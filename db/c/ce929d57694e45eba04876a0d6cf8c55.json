@@ -25,9 +25,259 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-08-16T08:04:33.4859686+00:00",
+  "TotalAchievements": 31,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "Cajas_Abiertas_Bronce",
+      "SetID": "5h5m25g",
+      "Name": "Opens boxes",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Clientes_Atendidos",
+      "SetID": "5h5m25g",
+      "Name": "Serves customers",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Comprar_Marihuana",
+      "SetID": "5h5m25g",
+      "Name": "Buy marijuana",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Cortar_Maquina_Kebab",
+      "SetID": "5h5m25g",
+      "Name": "Use the kebab slicer",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Cucarachas_Matadas_Bronce",
+      "SetID": "5h5m25g",
+      "Name": "Cockroach killer",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "End_Escandalo",
+      "SetID": "5h5m25g",
+      "Name": "A Scandalous ending",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "End_Malaga",
+      "SetID": "5h5m25g",
+      "Name": "We are leaving for the Rose Garden",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Intentar_Irte",
+      "SetID": "5h5m25g",
+      "Name": "Try to leave the square",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Kebab_Cocinados_Bronce",
+      "SetID": "5h5m25g",
+      "Name": "Rolled kebabs",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Kebab_Dorados_Recibidos_Bronce",
+      "SetID": "5h5m25g",
+      "Name": "Receives the Golden Kebab Award",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Kebab_con_Cucaracha",
+      "SetID": "5h5m25g",
+      "Name": "Prepare a kebab with cockroaches",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Kebab_con_Marihuana",
+      "SetID": "5h5m25g",
+      "Name": "Prepare a kebab with marijuana",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Kebab_con_Rata",
+      "SetID": "5h5m25g",
+      "Name": "Prepare a kebab with rat",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Manchas_Limpiadas_Bronce",
+      "SetID": "5h5m25g",
+      "Name": "Clean dirt from the premises",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Meados_Limpiados_Bronce",
+      "SetID": "5h5m25g",
+      "Name": "Clean piss",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Mejora_Local",
+      "SetID": "5h5m25g",
+      "Name": "Improving the premises",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Mierdas_Limpiadas_Bronce",
+      "SetID": "5h5m25g",
+      "Name": "Cleaning poop",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Mucho_Pique",
+      "SetID": "5h5m25g",
+      "Name": "Spice up a kebab with lots of spice",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Pagar_Deuda",
+      "SetID": "5h5m25g",
+      "Name": "Pay the debt to Er Pelusa",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Palo_gitano",
+      "SetID": "5h5m25g",
+      "Name": "Hit a customer with the gypsy stick",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Patatas_Preparadas_Bronce",
+      "SetID": "5h5m25g",
+      "Name": "Prepares potatoes",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Pedir_Prestamo",
+      "SetID": "5h5m25g",
+      "Name": "Ask Er Pelusa for more money",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Ratas_Matadas_Bronce",
+      "SetID": "5h5m25g",
+      "Name": "rat killer",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Rollos_Gastados_Bronce",
+      "SetID": "5h5m25g",
+      "Name": "Spend meat rolls",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Salsa_Mala",
+      "SetID": "5h5m25g",
+      "Name": "Prepares a nasty sauce",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Salsa_con_Cucaracha",
+      "SetID": "5h5m25g",
+      "Name": "Prepare a sauce with cockroach",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Salsa_con_Marihuana",
+      "SetID": "5h5m25g",
+      "Name": "Prepare a sauce with marijuana",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Salsa_con_Rata",
+      "SetID": "5h5m25g",
+      "Name": "Prepare a sauce with rat",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Salsas_Creadas_Bronce",
+      "SetID": "5h5m25g",
+      "Name": "Creates sauces",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Tirar_Basura",
+      "SetID": "5h5m25g",
+      "Name": "Throw away the garbage",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trozos_Cortados_Bronce",
+      "SetID": "5h5m25g",
+      "Name": "Kebab meat cutter",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "5h5m25g",
@@ -37,8 +287,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-15T17:05:11.4365358+00:00",
-  "LastChanged_Achievements": "2023-08-16T07:04:34.8689116+00:00",
+  "LastChanged_Achievements": "2023-08-16T08:04:33.4859666+00:00",
   "LastUpdate_AppInfo": "2023-08-15T14:57:10.166644+00:00",
-  "LastUpdate_Ratings": "2023-08-16T06:58:19.7834791+00:00",
-  "LastUpdate_Achievements": "2023-08-16T07:04:34.8689154+00:00"
+  "LastUpdate_Ratings": "2023-08-16T07:58:16.8618793+00:00",
+  "LastUpdate_Achievements": "2023-08-16T08:04:33.5320191+00:00"
 }

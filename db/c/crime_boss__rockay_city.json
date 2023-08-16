@@ -3018,9 +3018,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 71895,
+  "EOS_Progressed": 71896,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 313,
+  "EOS_NewPlayers": 312,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -15328,6 +15328,11 @@
       "Time": "2023-08-16T07:07:02.2184904+00:00",
       "NumProgressed": 71895,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-08-16T08:06:53.263741+00:00",
+      "NumProgressed": 71896,
+      "NumCompleted": 39
     }
   ],
   "TotalAchievements": 37,
@@ -15491,7 +15496,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 53202
+      "UsersEstimate": 53203
     },
     {
       "ID": "ACH_0211",
@@ -15555,7 +15560,7 @@
       "Name": "Case Closed",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 25163
+      "UsersEstimate": 25164
     },
     {
       "ID": "ACH_0420",
@@ -15563,7 +15568,7 @@
       "Name": "King of the Hill",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 24444
+      "UsersEstimate": 24445
     },
     {
       "ID": "ACH_0430",
@@ -15571,7 +15576,7 @@
       "Name": "Fancy Pants",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 25163
+      "UsersEstimate": 25164
     },
     {
       "ID": "ACH_0431",
@@ -15627,29 +15632,29 @@
       "Name": "Rockay Rex",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 7908
+      "UsersEstimate": 7909
     }
   ],
   "AchievementSets": [
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 71895,
+      "Progressed": 71896,
       "Completed": 39
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 242,
-      "Completed": 242
+      "Progressed": 243,
+      "Completed": 243
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-08-15T14:57:16.0331662+00:00",
-  "LastChanged_Achievements": "2023-08-16T07:07:02.2184899+00:00",
+  "LastChanged_Achievements": "2023-08-16T08:06:53.2637403+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:57.6056168+00:00",
-  "LastUpdate_Ratings": "2023-08-16T06:57:16.4696599+00:00",
-  "LastUpdate_Achievements": "2023-08-16T07:07:02.2186267+00:00"
+  "LastUpdate_Ratings": "2023-08-16T07:57:11.6227455+00:00",
+  "LastUpdate_Achievements": "2023-08-16T08:06:53.2638771+00:00"
 }

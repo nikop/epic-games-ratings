@@ -5,58 +5,58 @@ Rating: 4.76 (Ranked 118)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 10.00% | ~15,237 |
-| The Killing Jar | 9.00% | ~13,714 |
-| Not Your Average Trait | 8.00% | ~12,190 |
-| Expanding Horizons | 7.00% | ~10,666 |
-| Quest for Survival | 7.00% | ~10,666 |
-| Gleaming the Cube | 6.00% | ~9,142 |
-| Familiar Face | 6.00% | ~9,142 |
-| Duality | 6.00% | ~9,142 |
-| Boss'n Up | 6.00% | ~9,142 |
-| Trait Chaser | 6.00% | ~9,142 |
-| Not a Janitor | 5.00% | ~7,619 |
-| Equal Measures | 5.00% | ~7,619 |
-| Blue Goddess | 5.00% | ~7,619 |
-| Top Performer | 5.00% | ~7,619 |
-| Almost There | 5.00% | ~7,619 |
-| Make Some Room | 5.00% | ~7,619 |
-| Good, But Could Be Better! | 5.00% | ~7,619 |
-| Chaos | 4.00% | ~6,095 |
-| Traitor | 4.00% | ~6,095 |
-| Power Surge | 4.00% | ~6,095 |
-| The God Gambit | 4.00% | ~6,095 |
-| Dark Designs | 4.00% | ~6,095 |
-| Not So Special Now | 4.00% | ~6,095 |
-| Madman's Paradise | 4.00% | ~6,095 |
-| Shhh...It's a Secret | 4.00% | ~6,095 |
-| Was This Supposed To Happen? | 4.00% | ~6,095 |
-| The Web | 4.00% | ~6,095 |
-| Forever is a Long Time Coming | 3.00% | ~4,571 |
-| The Agenda | 3.00% | ~4,571 |
-| Bad Moon Rising | 3.00% | ~4,571 |
-| Strapped | 3.00% | ~4,571 |
-| Scrap Collector | 3.00% | ~4,571 |
-| All These Traits� | 3.00% | ~4,571 |
-| Am I Seeing This? | 2.00% | ~3,047 |
-| Red Room | 2.00% | ~3,047 |
-| Tall Tales | 2.00% | ~3,047 |
-| Edgelord | 2.00% | ~3,047 |
-| Carnage in C-Minor | 2.00% | ~3,047 |
-| The Ultimate Weapon | 2.00% | ~3,047 |
-| No One Should Have All That Power | 2.00% | ~3,047 |
-| Maxed Out! | 2.00% | ~3,047 |
-| Transmutate | 2.00% | ~3,047 |
+| First of Many | 10.00% | ~15,243 |
+| The Killing Jar | 9.00% | ~13,719 |
+| Not Your Average Trait | 8.00% | ~12,194 |
+| Expanding Horizons | 7.00% | ~10,670 |
+| Quest for Survival | 7.00% | ~10,670 |
+| Gleaming the Cube | 6.00% | ~9,146 |
+| Familiar Face | 6.00% | ~9,146 |
+| Duality | 6.00% | ~9,146 |
+| Boss'n Up | 6.00% | ~9,146 |
+| Trait Chaser | 6.00% | ~9,146 |
+| Not a Janitor | 5.00% | ~7,621 |
+| Equal Measures | 5.00% | ~7,621 |
+| Blue Goddess | 5.00% | ~7,621 |
+| Top Performer | 5.00% | ~7,621 |
+| Almost There | 5.00% | ~7,621 |
+| Make Some Room | 5.00% | ~7,621 |
+| Good, But Could Be Better! | 5.00% | ~7,621 |
+| Chaos | 4.00% | ~6,097 |
+| Traitor | 4.00% | ~6,097 |
+| Power Surge | 4.00% | ~6,097 |
+| The God Gambit | 4.00% | ~6,097 |
+| Dark Designs | 4.00% | ~6,097 |
+| Not So Special Now | 4.00% | ~6,097 |
+| Madman's Paradise | 4.00% | ~6,097 |
+| Shhh...It's a Secret | 4.00% | ~6,097 |
+| Was This Supposed To Happen? | 4.00% | ~6,097 |
+| The Web | 4.00% | ~6,097 |
+| Forever is a Long Time Coming | 3.00% | ~4,573 |
+| The Agenda | 3.00% | ~4,573 |
+| Bad Moon Rising | 3.00% | ~4,573 |
+| Strapped | 3.00% | ~4,573 |
+| Scrap Collector | 3.00% | ~4,573 |
+| All These Traits� | 3.00% | ~4,573 |
+| Am I Seeing This? | 2.00% | ~3,049 |
+| Red Room | 2.00% | ~3,049 |
+| Tall Tales | 2.00% | ~3,049 |
+| Edgelord | 2.00% | ~3,049 |
+| Carnage in C-Minor | 2.00% | ~3,049 |
+| The Ultimate Weapon | 2.00% | ~3,049 |
+| No One Should Have All That Power | 2.00% | ~3,049 |
+| Transmutate | 2.00% | ~3,049 |
 | Crafty | 1.00% | ~1,524 |
 | Only Human | 1.00% | ~1,524 |
 | The Collector | 1.00% | ~1,524 |
 | Scrap Hoarder | 1.00% | ~1,524 |
+| Maxed Out! | 1.00% | ~1,524 |
 | The Trigger | 0.70% | ~1,067 |
 | Cutting Edge | 0.70% | ~1,067 |
-| Ghost in the Machine | 0.60% | ~914 |
-| Proving Grounds | 0.40% | ~609 |
+| Ghost in the Machine | 0.60% | ~915 |
+| Proving Grounds | 0.40% | ~610 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 152,373 (Ranked 63)  
+Progressed: 152,428 (Ranked 63)  
 Completed: 59 (0.04%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 59 (0.04%) (Ranked 226)
 | 2023-08-13 | 148,269 | 53 |
 | 2023-08-14 | 150,092 | 55 |
 | 2023-08-15 | 151,919 | 58 |
-| 2023-08-16 | 152,373 | 59 |
+| 2023-08-16 | 152,428 | 59 |
 ## Awards
 Max (Great Boss Battles): 832  (Ranked 152)  
 Sum: 1,282 (Ranked 228)  
