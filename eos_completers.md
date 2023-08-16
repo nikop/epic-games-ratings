@@ -19,7 +19,7 @@
 | 17 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 16.26% |
 | 18 | [Anna's Quest](games/a/anna's_quest.md) | 14.71% |
 | 19 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 13.94% |
-| 20 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.05% |
+| 20 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.10% |
 | 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.22% |
 | 22 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.18% |
 | 23 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
@@ -48,7 +48,7 @@
 | 46 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.45% |
 | 47 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.36% |
 | 48 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.19% |
-| 49 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.83% |
+| 49 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.86% |
 | 50 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.78% |
 | 51 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 4.76% |
 | 52 | [Bugsnax](games/b/bugsnax.md) | 4.71% |
@@ -544,4 +544,4 @@
 | 257 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 257 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 257 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,058 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,059 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
