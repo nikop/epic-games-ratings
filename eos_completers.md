@@ -19,7 +19,7 @@
 | 17 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 16.26% |
 | 18 | [Anna's Quest](games/a/anna's_quest.md) | 14.71% |
 | 19 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 13.94% |
-| 20 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.06% |
+| 20 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.05% |
 | 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.22% |
 | 22 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.18% |
 | 23 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
@@ -37,7 +37,7 @@
 | 35 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 7.81% |
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.53% |
 | 37 | [Smelter](games/s/smelter.md) | 7.50% |
-| 38 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.18% |
+| 38 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.14% |
 | 39 | [Scorn](games/s/scorn.md) | 6.94% |
 | 40 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.89% |
 | 41 | [Time Loader](games/t/time_loader.md) | 6.78% |
@@ -54,10 +54,10 @@
 | 52 | [Bugsnax](games/b/bugsnax.md) | 4.71% |
 | 53 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.69% |
 | 54 | [JARS](games/j/jars.md) | 4.55% |
-| 55 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.52% |
-| 56 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 4.35% |
-| 57 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.18% |
-| 58 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
+| 55 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.49% |
+| 56 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.18% |
+| 57 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
+| 57 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 4.17% |
 | 59 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.04% |
 | 60 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.89% |
 | 61 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 3.85% |
