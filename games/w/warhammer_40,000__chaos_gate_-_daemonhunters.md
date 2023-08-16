@@ -26,12 +26,12 @@ Number of Ratings: 371  (23.09.2022)
 | Hold Your Ground | 0.80% | ~25 |
 | Corruption Cleanser | 0.80% | ~25 |
 | Just a Scratch | 0.80% | ~25 |
+| Efficient Killer | 0.50% | ~16 |
 | Tactical Sabotage | 0.50% | ~16 |
 | Patron of Deimos | 0.40% | ~13 |
 | Fleetmaster | 0.40% | ~13 |
 | Daemonkeeper | 0.40% | ~13 |
 | Mind Like a Fortress | 0.40% | ~13 |
-| Efficient Killer | 0.40% | ~13 |
 | Only in Death | 0.40% | ~13 |
 | Junk Banishment | 0.40% | ~13 |
 | A Gift Spurned | 0.40% | ~13 |
@@ -44,6 +44,7 @@ Number of Ratings: 371  (23.09.2022)
 | Exterminator | 0.20% | ~6 |
 | Harvest No More | 0.20% | ~6 |
 | Death Comes For All | 0.20% | ~6 |
+| Reign of Confusion | 0.20% | ~6 |
 | Suffer Not the Mutant | 0.20% | ~6 |
 | Arsenal of Destruction | 0.10% | ~3 |
 | The Flesh is Weak | 0.10% | ~3 |
@@ -60,7 +61,6 @@ Number of Ratings: 371  (23.09.2022)
 | Exercise in Restraint | 0.10% | ~3 |
 | Firing Squad | 0.10% | ~3 |
 | True Mastery | 0.10% | ~3 |
-| Reign of Confusion | 0.10% | ~3 |
 | Abomination | 0.10% | ~3 |
 | Killing Rampage | 0.10% | ~3 |
 | Deadshot | 0.10% | ~3 |

@@ -39,8 +39,8 @@
 | Now you are worthy | 49.00% | ~124 |
 | Guiding on the right path | 47.00% | ~119 |
 | Fight is life | 45.00% | ~114 |
+| Mysterious voice | 45.00% | ~114 |
 | No blades in the gym | 45.00% | ~114 |
-| Mysterious voice | 44.00% | ~111 |
 | Your own way | 42.00% | ~106 |
 | Champion – no way back | 41.00% | ~104 |
 | Responsible approach | 40.00% | ~101 |
@@ -54,8 +54,8 @@
 | Seashell hunter | 35.00% | ~89 |
 | Gang wrangler | 34.00% | ~86 |
 | Problems of cyborgs | 34.00% | ~86 |
+| Absolute Champion! | 33.00% | ~83 |
 | Undercover robot | 33.00% | ~83 |
-| Absolute Champion! | 32.00% | ~81 |
 | Careerist | 32.00% | ~81 |
 | The lonesome road | 31.00% | ~78 |
 | Key memories | 31.00% | ~78 |

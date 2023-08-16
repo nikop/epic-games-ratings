@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 452,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -358,9 +358,9 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 1136,
+  "EOS_Progressed": 1137,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2143,6 +2143,11 @@
       "Time": "2023-08-15T15:05:22.0398876+00:00",
       "NumProgressed": 1136,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-16T10:05:56.0627566+00:00",
+      "NumProgressed": 1137,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -2202,7 +2207,7 @@
       "Name": "Double agent",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "EARLY_ACCESS_1",
@@ -2210,7 +2215,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1125
+      "UsersEstimate": 1126
     },
     {
       "ID": "EXPERT_1",
@@ -2226,7 +2231,7 @@
       "Name": "Explorer",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "GHOSTBUSTER",
@@ -2242,7 +2247,7 @@
       "Name": "Grave Robber",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "HEAD_BURST_1",
@@ -2312,9 +2317,9 @@
       "ID": "ONE_SHOT_ONE_KILL_1",
       "SetID": "bf13m8j",
       "Name": "One shot, one kill",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 329
+      "UsersEstimate": 318
     },
     {
       "ID": "PACIFIST",
@@ -2330,7 +2335,7 @@
       "Name": "Paranoia",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "PRIVATE_EYE",
@@ -2376,9 +2381,9 @@
       "ID": "SAVANT_1",
       "SetID": "bf13m8j",
       "Name": "Savant",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 114
+      "UsersEstimate": 102
     },
     {
       "ID": "SECRET_ROOM",
@@ -2410,7 +2415,7 @@
       "Name": "Traveler",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "VVE",
@@ -2441,15 +2446,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1136,
+      "Progressed": 1137,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-06-11T18:59:46.5771351+00:00",
-  "LastChanged_Achievements": "2023-08-16T09:06:46.3345241+00:00",
+  "LastChanged_Achievements": "2023-08-16T10:05:56.0627559+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:12.8768865+00:00",
-  "LastUpdate_Ratings": "2023-08-16T08:58:08.773148+00:00",
-  "LastUpdate_Achievements": "2023-08-16T09:06:46.3345651+00:00"
+  "LastUpdate_Ratings": "2023-08-16T09:57:50.3296963+00:00",
+  "LastUpdate_Achievements": "2023-08-16T10:05:56.0627995+00:00"
 }

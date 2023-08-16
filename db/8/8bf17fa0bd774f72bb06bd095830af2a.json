@@ -209,9 +209,9 @@
       "ID": "SteamAchievment_BuildOneBuilding",
       "SetID": "b8gj0ip",
       "Name": "Emerging Constructor",
-      "Percentage": 35,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "SteamAchievment_CompleteAllChallenges",
@@ -385,9 +385,9 @@
       "ID": "SteamAchievment_CompleteStoryQuest01",
       "SetID": "b8gj0ip",
       "Name": "Hunger Buster",
-      "Percentage": 29,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "SteamAchievment_CompleteThirtyChallenges",
@@ -401,9 +401,9 @@
       "ID": "SteamAchievment_FirstVisitCapitalCity",
       "SetID": "b8gj0ip",
       "Name": "The Dawn",
-      "Percentage": 41,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "SteamAchievment_MergeAnyArtifactOnMaxLevel",
@@ -424,8 +424,8 @@
   ],
   "FirstSeen": "2023-08-10T10:57:59.2838137+00:00",
   "FirstSeenAchievements": "2023-05-30T14:00:09.5243374+00:00",
-  "LastChanged_Achievements": "2023-08-16T09:05:37.475931+00:00",
+  "LastChanged_Achievements": "2023-08-16T10:05:05.507886+00:00",
   "LastUpdate_AppInfo": "2023-08-15T17:57:21.8113187+00:00",
-  "LastUpdate_Ratings": "2023-08-16T08:59:16.3822091+00:00",
-  "LastUpdate_Achievements": "2023-08-16T09:05:37.4759704+00:00"
+  "LastUpdate_Ratings": "2023-08-16T09:58:56.230231+00:00",
+  "LastUpdate_Achievements": "2023-08-16T10:05:05.507935+00:00"
 }

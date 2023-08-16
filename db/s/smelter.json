@@ -204,9 +204,9 @@
       "ID": "SMELTER_FIRST_MEET",
       "SetID": "1g58k92",
       "Name": "What took you so long?",
-      "Percentage": 88,
+      "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "SMELTER_FISSURES",
@@ -517,8 +517,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.0584882+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:46.9022214+00:00",
   "LastChanged": "2023-03-31T05:58:06.0584883+00:00",
-  "LastChanged_Achievements": "2023-08-16T09:06:48.5423408+00:00",
+  "LastChanged_Achievements": "2023-08-16T10:05:58.0390521+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:42.9592963+00:00",
-  "LastUpdate_Ratings": "2023-08-16T09:02:06.6510102+00:00",
-  "LastUpdate_Achievements": "2023-08-16T09:06:48.5423882+00:00"
+  "LastUpdate_Ratings": "2023-08-16T10:01:16.6100011+00:00",
+  "LastUpdate_Achievements": "2023-08-16T10:05:58.039128+00:00"
 }

@@ -6,14 +6,14 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 16.00% | ~101,518 |
-| Incurious | 16.00% | ~101,518 |
-| Climate Change | 15.00% | ~95,173 |
-| Stroller | 14.00% | ~88,828 |
-| Advanced Hiker | 12.00% | ~76,139 |
-| Toy Train | 12.00% | ~76,139 |
-| Hiker | 11.00% | ~69,794 |
-| Mojave Courier | 5.00% | ~31,724 |
+| Advanced Stroller | 16.00% | ~101,520 |
+| Incurious | 16.00% | ~101,520 |
+| Climate Change | 15.00% | ~95,175 |
+| Stroller | 14.00% | ~88,830 |
+| Advanced Hiker | 12.00% | ~76,140 |
+| Toy Train | 12.00% | ~76,140 |
+| Hiker | 11.00% | ~69,795 |
+| Mojave Courier | 5.00% | ~31,725 |
 | Saved by Nausicaä | 4.00% | ~25,380 |
 | Voyager | 3.00% | ~19,035 |
 | Advanced Voyager | 3.00% | ~19,035 |
@@ -23,43 +23,43 @@ Number of Ratings: 21,990  (23.09.2022)
 | Marathon | 2.00% | ~12,690 |
 | Destructionist | 2.00% | ~12,690 |
 | Lost | 1.00% | ~6,345 |
-| Rocketman | 0.70% | ~4,441 |
+| Rocketman | 0.70% | ~4,442 |
 | Expert Voyager | 0.60% | ~3,807 |
 | Nanuk | 0.60% | ~3,807 |
 | Shopaholic | 0.60% | ~3,807 |
-| Terminal Station | 0.50% | ~3,172 |
-| Dynamite Fishing | 0.50% | ~3,172 |
+| Terminal Station | 0.50% | ~3,173 |
+| Dynamite Fishing | 0.50% | ~3,173 |
 | Scrooge | 0.40% | ~2,538 |
-| Wayfarer | 0.30% | ~1,903 |
-| Advanced Wayfarer | 0.30% | ~1,903 |
-| Trans-Siberian Railway | 0.30% | ~1,903 |
-| Satan's Minion | 0.30% | ~1,903 |
-| Snowman's Land | 0.30% | ~1,903 |
-| Tough Nut! | 0.30% | ~1,903 |
+| Wayfarer | 0.30% | ~1,904 |
+| Advanced Wayfarer | 0.30% | ~1,904 |
+| Trans-Siberian Railway | 0.30% | ~1,904 |
+| Satan's Minion | 0.30% | ~1,904 |
+| Snowman's Land | 0.30% | ~1,904 |
+| Tough Nut! | 0.30% | ~1,904 |
 | Engineer | 0.20% | ~1,269 |
-| Explorer | 0.10% | ~634 |
-| Advanced Explorer | 0.10% | ~634 |
-| Expert Wayfarer | 0.10% | ~634 |
-| Expert Explorer | 0.10% | ~634 |
-| Deep Space Transit | 0.10% | ~634 |
-| Leet | 0.10% | ~634 |
-| Wrong way! | 0.10% | ~634 |
-| Ducky Danger | 0.10% | ~634 |
-| Shepherd | 0.10% | ~634 |
-| Industrialist | 0.10% | ~634 |
-| Missed Opportunities | 0.10% | ~634 |
-| Cowter Space | 0.10% | ~634 |
-| Apollo 13 | 0.10% | ~634 |
-| Collector | 0.10% | ~634 |
-| Achievement Master | 0.10% | ~634 |
-| Fire Fighter | 0.10% | ~634 |
-| Megalomaniac | 0.10% | ~634 |
-| No Space for Improvement | 0.10% | ~634 |
-| Where They Belong | 0.10% | ~634 |
-| Fireworks! | 0.10% | ~634 |
-| 20 Miles under the Sea | 0.10% | ~634 |
+| Explorer | 0.10% | ~635 |
+| Advanced Explorer | 0.10% | ~635 |
+| Expert Wayfarer | 0.10% | ~635 |
+| Expert Explorer | 0.10% | ~635 |
+| Deep Space Transit | 0.10% | ~635 |
+| Leet | 0.10% | ~635 |
+| Wrong way! | 0.10% | ~635 |
+| Ducky Danger | 0.10% | ~635 |
+| Shepherd | 0.10% | ~635 |
+| Industrialist | 0.10% | ~635 |
+| Missed Opportunities | 0.10% | ~635 |
+| Cowter Space | 0.10% | ~635 |
+| Apollo 13 | 0.10% | ~635 |
+| Collector | 0.10% | ~635 |
+| Achievement Master | 0.10% | ~635 |
+| Fire Fighter | 0.10% | ~635 |
+| Megalomaniac | 0.10% | ~635 |
+| No Space for Improvement | 0.10% | ~635 |
+| Where They Belong | 0.10% | ~635 |
+| Fireworks! | 0.10% | ~635 |
+| 20 Miles under the Sea | 0.10% | ~635 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 634,489 (Ranked 26)  
+Progressed: 634,502 (Ranked 26)  
 Completed: 7 (0.00%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,7 +177,7 @@ Completed: 7 (0.00%) (Ranked 257)
 | 2023-08-13 | 633,532 | 7 |
 | 2023-08-14 | 634,017 | 7 |
 | 2023-08-15 | 634,381 | 7 |
-| 2023-08-16 | 634,489 | 7 |
+| 2023-08-16 | 634,502 | 7 |
 ## Awards
 Max (Great for Beginners): 191  (Ranked 276)  
 Sum: 1,550 (Ranked 216)  

@@ -6,25 +6,25 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~255,111 |
-| Cavalier | 25.00% | ~199,305 |
-| Fatso | 23.00% | ~183,361 |
-| Awakening | 21.00% | ~167,416 |
-| Ranger | 20.00% | ~159,444 |
-| Scrooge | 20.00% | ~159,444 |
-| Anorectic | 16.00% | ~127,555 |
-| Bookworm | 15.00% | ~119,583 |
-| Firestarter | 15.00% | ~119,583 |
+| Blacksmith's Son | 32.00% | ~255,112 |
+| Cavalier | 25.00% | ~199,306 |
+| Fatso | 23.00% | ~183,362 |
+| Awakening | 21.00% | ~167,417 |
+| Ranger | 20.00% | ~159,445 |
+| Scrooge | 20.00% | ~159,445 |
+| Anorectic | 16.00% | ~127,556 |
+| Bookworm | 15.00% | ~119,584 |
+| Firestarter | 15.00% | ~119,584 |
 | Insomniac | 13.00% | ~103,639 |
 | Buddy | 12.00% | ~95,667 |
 | Thief | 12.00% | ~95,667 |
-| Sinner | 11.00% | ~87,694 |
+| Sinner | 11.00% | ~87,695 |
 | Convict | 10.00% | ~79,722 |
 | Traveller | 10.00% | ~79,722 |
 | Haggler | 9.00% | ~71,750 |
-| McLovin | 7.00% | ~55,805 |
-| Runt | 7.00% | ~55,805 |
-| Casanova | 6.00% | ~47,833 |
+| McLovin | 7.00% | ~55,806 |
+| Runt | 7.00% | ~55,806 |
+| Casanova | 6.00% | ~47,834 |
 | Bad Trip | 5.00% | ~39,861 |
 | Monk | 5.00% | ~39,861 |
 | Serial Killer | 5.00% | ~39,861 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~797 |
 | Wingman | 0.10% | ~797 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 797,221 (Ranked 15)  
+Progressed: 797,225 (Ranked 15)  
 Completed: 44 (0.01%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,15 +207,15 @@ Completed: 44 (0.01%) (Ranked 244)
 | 2023-08-13 | 796,963 | 44 |
 | 2023-08-14 | 797,070 | 44 |
 | 2023-08-15 | 797,190 | 44 |
-| 2023-08-16 | 797,221 | 44 |
+| 2023-08-16 | 797,225 | 44 |
 ## Awards
 Max (Character Customization): 7,387  (Ranked 47)  
-Sum: 27,504 (Ranked 46)  
+Sum: 27,507 (Ranked 46)  
 Diff (max vs sum): 1  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,387 |
-| This game has Great Boss Battles | 5,431 |
+| This game has Great Boss Battles | 5,434 |
 | This game has Challenging Combat | 1,724 |
 | This game has Amazing Storytelling | 1,682 |
 | This game has Diverse Characters | 1,666 |
@@ -432,4 +432,4 @@ Diff (max vs sum): 1
 | 2023-08-13 | 4.71 | - | 7,381 | 27,489 |
 | 2023-08-14 | 4.71 | - | 7,381 | 27,496 |
 | 2023-08-15 | 4.71 | - | 7,381 | 27,498 |
-| 2023-08-16 | 4.71 | - | 7,387 | 27,504 |
+| 2023-08-16 | 4.71 | - | 7,387 | 27,507 |

@@ -368,9 +368,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12785,
+  "EOS_Progressed": 12786,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -7328,6 +7328,11 @@
       "Time": "2023-08-15T23:05:44.5006452+00:00",
       "NumProgressed": 12785,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-08-16T10:05:25.4081972+00:00",
+      "NumProgressed": 12786,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 35,
@@ -7339,7 +7344,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 11762
+      "UsersEstimate": 11763
     },
     {
       "ID": "ACH_02",
@@ -7347,7 +7352,7 @@
       "Name": "Newcomers",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 10100
+      "UsersEstimate": 10101
     },
     {
       "ID": "ACH_03",
@@ -7355,7 +7360,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 9461
+      "UsersEstimate": 9462
     },
     {
       "ID": "ACH_04",
@@ -7379,7 +7384,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 8310
+      "UsersEstimate": 8311
     },
     {
       "ID": "ACH_07",
@@ -7395,7 +7400,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 7671
+      "UsersEstimate": 7672
     },
     {
       "ID": "ACH_09",
@@ -7403,7 +7408,7 @@
       "Name": "Tales and Revelations",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 7287
+      "UsersEstimate": 7288
     },
     {
       "ID": "ACH_10",
@@ -7411,7 +7416,7 @@
       "Name": "Bloodline",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 6648
+      "UsersEstimate": 6649
     },
     {
       "ID": "ACH_11",
@@ -7427,7 +7432,7 @@
       "Name": "The Life We Deserve",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 5753
+      "UsersEstimate": 5754
     },
     {
       "ID": "ACH_13",
@@ -7435,7 +7440,7 @@
       "Name": "Nothing Left",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 4986
+      "UsersEstimate": 4987
     },
     {
       "ID": "ACH_14",
@@ -7443,7 +7448,7 @@
       "Name": "Healing our Wounds",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 4730
+      "UsersEstimate": 4731
     },
     {
       "ID": "ACH_15",
@@ -7459,7 +7464,7 @@
       "Name": "King Hugo",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 3068
+      "UsersEstimate": 3069
     },
     {
       "ID": "ACH_17",
@@ -7611,14 +7616,14 @@
       "Name": "Mercy",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 3068
+      "UsersEstimate": 3069
     }
   ],
   "AchievementSets": [
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 12785,
+      "Progressed": 12786,
       "Completed": 42
     }
   ],
@@ -7626,8 +7631,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-07-25T21:01:04.4770621+00:00",
-  "LastChanged_Achievements": "2023-08-16T09:06:10.7500289+00:00",
+  "LastChanged_Achievements": "2023-08-16T10:05:25.4081965+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:12.6361661+00:00",
-  "LastUpdate_Ratings": "2023-08-16T09:02:45.5758957+00:00",
-  "LastUpdate_Achievements": "2023-08-16T09:06:10.7500991+00:00"
+  "LastUpdate_Ratings": "2023-08-16T10:01:48.6621302+00:00",
+  "LastUpdate_Achievements": "2023-08-16T10:05:25.408316+00:00"
 }

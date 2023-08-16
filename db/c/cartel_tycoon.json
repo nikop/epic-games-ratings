@@ -1506,9 +1506,9 @@
       "ID": "female-conqueror",
       "SetID": "bed33dd",
       "Name": "Iron Lady",
-      "Percentage": 0.6,
+      "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "finish-tutorial",
@@ -1634,8 +1634,8 @@
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-08-16T09:05:23.8379886+00:00",
+  "LastChanged_Achievements": "2023-08-16T10:04:53.7120476+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:04.7796701+00:00",
-  "LastUpdate_Ratings": "2023-08-16T08:57:59.4247495+00:00",
-  "LastUpdate_Achievements": "2023-08-16T09:05:23.8380157+00:00"
+  "LastUpdate_Ratings": "2023-08-16T09:57:37.7042094+00:00",
+  "LastUpdate_Achievements": "2023-08-16T10:04:53.7120835+00:00"
 }

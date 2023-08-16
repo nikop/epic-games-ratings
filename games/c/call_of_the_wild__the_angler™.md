@@ -37,9 +37,9 @@ Number of Ratings: 281  (23.09.2022)
 | Cache and Carry | 0.30% | ~13 |
 | Golden Ridge Ranger | 0.20% | ~10 |
 | Buckaroo | 0.20% | ~10 |
+| No Fin left to give | 0.10% | ~5 |
 | Lost and Flounder | 0.10% | ~5 |
 | Norway Jose | 0.10% | ~4 |
-| No Fin left to give | 0.00% | ~0 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,910 (Ranked 143)  

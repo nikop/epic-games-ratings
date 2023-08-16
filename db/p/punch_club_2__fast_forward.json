@@ -1183,9 +1183,9 @@
       "ID": "league_3",
       "SetID": "69co12a",
       "Name": "Absolute Champion!",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 83
     },
     {
       "ID": "lil_bobo_fight",
@@ -1231,9 +1231,9 @@
       "ID": "mysterious_voice",
       "SetID": "69co12a",
       "Name": "Mysterious voice",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 114
     },
     {
       "ID": "nero_basic",
@@ -1446,8 +1446,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-08-16T09:06:13.5041856+00:00",
+  "LastChanged_Achievements": "2023-08-16T10:05:27.834397+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:18.7618858+00:00",
-  "LastUpdate_Ratings": "2023-08-16T08:59:58.1755311+00:00",
-  "LastUpdate_Achievements": "2023-08-16T09:06:13.5042706+00:00"
+  "LastUpdate_Ratings": "2023-08-16T09:59:29.4502058+00:00",
+  "LastUpdate_Achievements": "2023-08-16T10:05:27.8345287+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "ebola-3-2c79e9",
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 281,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 227,
+  "EOS_Progressed": 228,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -958,6 +958,11 @@
       "Time": "2023-08-14T21:05:45.4414086+00:00",
       "NumProgressed": 227,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-16T10:06:49.4318374+00:00",
+      "NumProgressed": 228,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -1169,7 +1174,7 @@
       "Name": "Fright \u2714",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "achLizun",
@@ -1297,7 +1302,7 @@
       "Name": "Master of Unlocking \u2714",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "achShahmat",
@@ -1319,9 +1324,9 @@
       "ID": "achTransform",
       "SetID": "72gjli4",
       "Name": "Mutation \u2714",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 57
     },
     {
       "ID": "achVip",
@@ -1368,7 +1373,7 @@
     {
       "ID": "72gjli4",
       "IsBase": true,
-      "Progressed": 227,
+      "Progressed": 228,
       "Completed": 0
     }
   ],
@@ -1376,8 +1381,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-08-16T09:07:48.0565515+00:00",
+  "LastChanged_Achievements": "2023-08-16T10:06:49.4318368+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:05.383002+00:00",
-  "LastUpdate_Ratings": "2023-08-16T08:57:58.4160376+00:00",
-  "LastUpdate_Achievements": "2023-08-16T09:07:48.0566063+00:00"
+  "LastUpdate_Ratings": "2023-08-16T09:57:36.5788474+00:00",
+  "LastUpdate_Achievements": "2023-08-16T10:06:49.4319036+00:00"
 }

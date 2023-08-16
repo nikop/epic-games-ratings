@@ -10,7 +10,7 @@ Number of Ratings: 170  (23.09.2022)
 | Mama? | 28.00% | ~5,028 |
 | People's Haven | 19.00% | ~3,412 |
 | Cartographer | 17.00% | ~3,053 |
-| Antlers of Stone | 15.00% | ~2,693 |
+| Antlers of Stone | 15.00% | ~2,694 |
 | Knowledge for Power | 14.00% | ~2,514 |
 | Mausoleum of Ice | 14.00% | ~2,514 |
 | Gaze into the abyss | 13.00% | ~2,334 |
@@ -19,7 +19,7 @@ Number of Ratings: 170  (23.09.2022)
 | Equilibrium | 12.00% | ~2,155 |
 | Condor condo | 10.00% | ~1,796 |
 | Memorial | 9.00% | ~1,616 |
-| An uninvited guest | 8.00% | ~1,436 |
+| An uninvited guest | 8.00% | ~1,437 |
 | Talk to all the spirit animals | 7.00% | ~1,257 |
 | Ripples on the surface | 6.00% | ~1,077 |
 | Tails of Stone | 6.00% | ~1,077 |
@@ -27,7 +27,7 @@ Number of Ratings: 170  (23.09.2022)
 | Written in stone | 6.00% | ~1,077 |
 | Hide and Seek | 5.00% | ~898 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,956 (Ranked 108)  
+Progressed: 17,957 (Ranked 108)  
 Completed: 363 (2.02%) (Ranked 90)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 363 (2.02%) (Ranked 90)
 | 2023-08-13 | 17,781 | 361 |
 | 2023-08-14 | 17,849 | 362 |
 | 2023-08-15 | 17,933 | 363 |
-| 2023-08-16 | 17,956 | 363 |
+| 2023-08-16 | 17,957 | 363 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
