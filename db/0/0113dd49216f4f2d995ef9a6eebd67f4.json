@@ -4,7 +4,7 @@
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
   "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -438,9 +438,9 @@
       "ID": "SG_THISHELLISMINE",
       "SetID": "bj5g0n4",
       "Name": "This Hell Is Mine",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SG_TOGETHERVICTORIOUS",
@@ -469,8 +469,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-08-16T03:03:25.5550391+00:00",
+  "LastChanged_Achievements": "2023-08-16T04:03:23.3539403+00:00",
   "LastUpdate_AppInfo": "2023-08-10T07:57:00.7529969+00:00",
-  "LastUpdate_Ratings": "2023-08-16T02:57:32.6854332+00:00",
-  "LastUpdate_Achievements": "2023-08-16T03:03:25.5550877+00:00"
+  "LastUpdate_Ratings": "2023-08-16T03:57:23.4867268+00:00",
+  "LastUpdate_Achievements": "2023-08-16T04:03:23.3539714+00:00"
 }

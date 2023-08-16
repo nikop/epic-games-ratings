@@ -7,7 +7,7 @@ Rating: 4.05 (Ranked 920)
 | ---- | ---------- | ----- |
 | Victor | 93.00% | ~1,681 |
 | World Map | 79.00% | ~1,428 |
-| Temple of Eternals | 56.00% | ~1,012 |
+| Temple of Eternals | 57.00% | ~1,030 |
 | Prestigious | 53.00% | ~958 |
 | Fellowship Power | 41.00% | ~741 |
 | Guild Power | 25.00% | ~452 |

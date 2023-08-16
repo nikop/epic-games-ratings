@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 486,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -270,9 +270,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 3157,
+  "EOS_Progressed": 3158,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -3755,6 +3755,11 @@
       "Time": "2023-08-15T20:04:46.8535985+00:00",
       "NumProgressed": 3157,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-16T04:04:20.0047152+00:00",
+      "NumProgressed": 3158,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -3798,7 +3803,7 @@
       "Name": "Use The Bumper, That\u0027s What It\u0027s For",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 1673
+      "UsersEstimate": 1674
     },
     {
       "ID": "ACH_BARREL_KILL",
@@ -3806,7 +3811,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 1610
+      "UsersEstimate": 1611
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -3862,7 +3867,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 2336
+      "UsersEstimate": 2337
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -3878,7 +3883,7 @@
       "Name": "Call Me Snake",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 1989
+      "UsersEstimate": 1990
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -3886,7 +3891,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 2115
+      "UsersEstimate": 2116
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -3942,7 +3947,7 @@
       "Name": "Come on, You Wanna Live Forever?",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 789
+      "UsersEstimate": 790
     },
     {
       "ID": "ACH_MAX_TECKER",
@@ -3990,7 +3995,7 @@
       "Name": "Where It All Begun",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 1231
+      "UsersEstimate": 1232
     },
     {
       "ID": "ACH_MISSION_06",
@@ -3998,7 +4003,7 @@
       "Name": "Living Nightmare",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1011
     },
     {
       "ID": "ACH_MISSION_07",
@@ -4014,7 +4019,7 @@
       "Name": "Deep Into Insanity",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 852
+      "UsersEstimate": 853
     },
     {
       "ID": "ACH_MISSION_09",
@@ -4038,7 +4043,7 @@
       "Name": "Excavating The Truth",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "ACH_MISSION_12",
@@ -4070,7 +4075,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 2589
+      "UsersEstimate": 2590
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -4125,7 +4130,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3157,
+      "Progressed": 3158,
       "Completed": 2
     }
   ],
@@ -4133,8 +4138,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-08-15T20:01:32.7801599+00:00",
-  "LastChanged_Achievements": "2023-08-16T03:04:31.3510879+00:00",
+  "LastChanged_Achievements": "2023-08-16T04:04:20.0047147+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:11.0569937+00:00",
-  "LastUpdate_Ratings": "2023-08-16T03:00:22.6626318+00:00",
-  "LastUpdate_Achievements": "2023-08-16T03:04:31.3511937+00:00"
+  "LastUpdate_Ratings": "2023-08-16T04:00:19.2541974+00:00",
+  "LastUpdate_Achievements": "2023-08-16T04:04:20.0047761+00:00"
 }

@@ -12,7 +12,7 @@ Rating: 4.73 (Ranked 159)
 | In our Wake | 68.00% | ~8,694 |
 | Alchemist | 68.00% | ~8,694 |
 | Leaving all Behind | 65.00% | ~8,310 |
-| Felons | 61.00% | ~7,799 |
+| Felons | 62.00% | ~7,927 |
 | A Sea of Promises | 60.00% | ~7,671 |
 | Tales and Revelations | 57.00% | ~7,287 |
 | Bloodline | 52.00% | ~6,648 |

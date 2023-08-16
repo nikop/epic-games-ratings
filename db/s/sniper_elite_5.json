@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -464,9 +464,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3482,
+  "EOS_Progressed": 3483,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -5989,6 +5989,11 @@
       "Time": "2023-08-16T02:17:12.8981157+00:00",
       "NumProgressed": 3482,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-16T04:03:39.0316433+00:00",
+      "NumProgressed": 3483,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 71,
@@ -6224,7 +6229,7 @@
       "Name": "Resourceful",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 905
+      "UsersEstimate": 906
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -6312,7 +6317,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1114
+      "UsersEstimate": 1115
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -6376,7 +6381,7 @@
       "Name": "Brains of the Operation",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -6392,7 +6397,7 @@
       "Name": "Target America",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -6567,13 +6572,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3433,
+      "Progressed": 3434,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3482,
+      "Progressed": 3483,
       "Completed": 9
     }
   ],
@@ -6581,8 +6586,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-08-15T14:58:15.1556932+00:00",
-  "LastChanged_Achievements": "2023-08-16T03:03:40.3117167+00:00",
+  "LastChanged_Achievements": "2023-08-16T04:03:39.0316428+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:04.4888171+00:00",
-  "LastUpdate_Ratings": "2023-08-16T02:58:06.2381+00:00",
-  "LastUpdate_Achievements": "2023-08-16T03:03:40.3118471+00:00"
+  "LastUpdate_Ratings": "2023-08-16T03:57:57.9671231+00:00",
+  "LastUpdate_Achievements": "2023-08-16T04:03:39.0317537+00:00"
 }

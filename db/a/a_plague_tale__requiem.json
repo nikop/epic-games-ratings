@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 292,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -7385,9 +7385,9 @@
       "ID": "ACH_07",
       "SetID": "9d4cf4c",
       "Name": "Felons",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 7799
+      "UsersEstimate": 7927
     },
     {
       "ID": "ACH_08",
@@ -7626,8 +7626,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-07-25T21:01:04.4770621+00:00",
-  "LastChanged_Achievements": "2023-08-16T03:04:39.7713513+00:00",
+  "LastChanged_Achievements": "2023-08-16T04:04:28.5041287+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:12.6361661+00:00",
-  "LastUpdate_Ratings": "2023-08-16T03:00:24.3899178+00:00",
-  "LastUpdate_Achievements": "2023-08-16T03:04:39.7714756+00:00"
+  "LastUpdate_Ratings": "2023-08-16T04:00:21.2329437+00:00",
+  "LastUpdate_Achievements": "2023-08-16T04:04:28.5042059+00:00"
 }
