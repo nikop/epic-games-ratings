@@ -33,7 +33,7 @@
 | 29 | [Blasphemous](games/b/blasphemous.md) | 4.86 | 147 | 298 |
 | 29 | [Bugsnax](games/b/bugsnax.md) | 4.86 | 38 | 429 |
 | 29 | [Inscryption](games/i/inscryption.md) | 4.86 | 339 | 227 |
-| 29 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.86 | 12,324 | 31 |
+| 29 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.86 | 12,330 | 31 |
 | 29 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 97 | 339 |
 | 29 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 43 | 419 |
 | 29 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 1,385 | 128 |
@@ -171,7 +171,7 @@
 | 169 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.72 | 0 | 512 |
 | 169 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.72 | 85 | 356 |
 | 169 | [Fez](games/f/fez.md) | 4.72 | 23 | 490 |
-| 169 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 477 | 200 |
+| 169 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 478 | 200 |
 | 169 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.72 | 0 | 512 |
 | 169 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 142 | 301 |
 | 169 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 4.72 | 39 | 428 |
@@ -464,7 +464,7 @@
 | 450 | [Observation](games/o/observation.md) | 4.57 | 0 | 512 |
 | 450 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,203 | 92 |
 | 450 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.57 | 0 | 512 |
-| 450 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 3,705 | 83 |
+| 450 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 3,714 | 83 |
 | 450 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.57 | 30 | 463 |
 | 450 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 19,244 | 19 |
 | 450 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,762 | 116 |
@@ -498,7 +498,7 @@
 | 485 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 0 | 512 |
 | 485 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.55 | 79 | 362 |
 | 485 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,238 | 133 |
-| 499 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 5,660 | 63 |
+| 499 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 5,668 | 63 |
 | 499 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 34 | 442 |
 | 499 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,282 | 131 |
 | 499 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.54 | 67 | 381 |
@@ -847,21 +847,21 @@
 | 844 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.22 | 0 | 512 |
 | 844 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 0 | 512 |
 | 844 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 207 | 271 |
+| 848 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.21 | 0 | 512 |
 | 848 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 32 | 454 |
 | 848 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.21 | 0 | 512 |
 | 848 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 15,350 | 23 |
 | 848 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.21 | 0 | 512 |
 | 848 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.21 | 78 | 364 |
-| 853 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 123 | 313 |
-| 853 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 121 | 315 |
-| 853 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.20 | 0 | 512 |
-| 853 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 0 | 512 |
-| 853 | [Druidstone: The Secret of the Menhir Forest](games/d/druidstone__the_secret_of_the_menhir_forest.md) | 4.20 | 0 | 512 |
-| 853 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 22 | 494 |
-| 853 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 0 | 512 |
-| 853 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 76 | 366 |
-| 853 | [Somerville](games/s/somerville.md) | 4.20 | 0 | 512 |
-| 853 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.20 | 72 | 374 |
+| 854 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 123 | 313 |
+| 854 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 121 | 315 |
+| 854 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 0 | 512 |
+| 854 | [Druidstone: The Secret of the Menhir Forest](games/d/druidstone__the_secret_of_the_menhir_forest.md) | 4.20 | 0 | 512 |
+| 854 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 22 | 494 |
+| 854 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 0 | 512 |
+| 854 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 76 | 366 |
+| 854 | [Somerville](games/s/somerville.md) | 4.20 | 0 | 512 |
+| 854 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.20 | 72 | 374 |
 | 863 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 403 |
 | 863 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.19 | 33 | 448 |
 | 863 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 193,891 | 5 |

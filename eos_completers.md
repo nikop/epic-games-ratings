@@ -31,7 +31,7 @@
 | 29 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 10.00% |
 | 30 | [Sonic Origins](games/s/sonic_origins.md) | 9.60% |
 | 31 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.30% |
-| 32 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.93% |
+| 32 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.92% |
 | 33 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 8.70% |
 | 34 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.48% |
 | 35 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 7.81% |
@@ -71,8 +71,8 @@
 | 69 | [HordeCore](games/h/hordecore.md) | 3.15% |
 | 70 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.05% |
 | 71 | [The Complex](games/t/the_complex.md) | 2.98% |
-| 72 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.95% |
-| 73 | [Monster Harvest](games/m/monster_harvest.md) | 2.94% |
+| 72 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.94% |
+| 72 | [Monster Harvest](games/m/monster_harvest.md) | 2.94% |
 | 74 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 75 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.78% |
 | 76 | [Destiny 2](games/d/destiny_2.md) | 2.74% |
@@ -129,7 +129,7 @@
 | 127 | [Lemon Cake](games/l/lemon_cake.md) | 0.72% |
 | 128 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.71% |
 | 129 | [Haven](games/h/haven.md) | 0.65% |
-| 129 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.65% |
+| 130 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.64% |
 | 131 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.63% |
 | 132 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
 | 132 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.62% |
