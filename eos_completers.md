@@ -6,9 +6,9 @@
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 41.67% |
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
 | 6 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
-| 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 25.00% |
-| 7 | [Overloop](games/o/overloop.md) | 25.00% |
-| 7 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 25.00% |
+| 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 26.67% |
+| 8 | [Overloop](games/o/overloop.md) | 25.00% |
+| 8 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 25.00% |
 | 10 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 11 | [Volley Pals](games/v/volley_pals.md) | 23.40% |
 | 12 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 22.66% |
@@ -27,11 +27,11 @@
 | 23 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 11.11% |
 | 26 | [Remains](games/r/remains.md) | 10.64% |
 | 27 | [Out of Bounds](games/o/out_of_bounds.md) | 10.34% |
-| 28 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.10% |
+| 28 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.06% |
 | 29 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 10.00% |
 | 30 | [Sonic Origins](games/s/sonic_origins.md) | 9.60% |
 | 31 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.30% |
-| 32 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.94% |
+| 32 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.93% |
 | 33 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 8.51% |
 | 34 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.48% |
 | 35 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 7.81% |
@@ -67,8 +67,8 @@
 | 65 | [Doodle God](games/d/doodle_god.md) | 3.46% |
 | 66 | [Bunny Park](games/b/bunny_park.md) | 3.39% |
 | 67 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.32% |
-| 68 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.16% |
-| 69 | [HordeCore](games/h/hordecore.md) | 3.15% |
+| 68 | [HordeCore](games/h/hordecore.md) | 3.15% |
+| 68 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.15% |
 | 70 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.05% |
 | 71 | [The Complex](games/t/the_complex.md) | 2.98% |
 | 72 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.94% |
@@ -544,4 +544,4 @@
 | 258 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 258 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 258 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,063 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,064 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |

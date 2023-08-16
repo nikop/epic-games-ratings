@@ -10,6 +10,7 @@
 | [Mortal Street Fighter](games/5/58ac7dee6bc7429db98fdae628f179ce.md) | 2023-08-17 | - |  | - | - |
 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 2023-08-18 | - |  | - | - |
 | [Find the Oil Racing Edition](games/3/3b665944a4764f9882d99296d2010265.md) | 2023-08-19 | - |  | - | - |
+| [The Red Exile: Survival Horror](games/0/092c025d036643c69367ff9da5a34bde.md) | 2023-08-21 | - |  | - | - |
 | [City Gridlock](games/d/df793be75b6b414498cb654d89be7f13.md) | 2023-08-21 | - |  | - | - |
 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 2023-08-22 | - |  | - | - |
 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 2023-08-22 | - |  | - | - |
