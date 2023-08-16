@@ -35,9 +35,9 @@
 | 33 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 8.70% |
 | 34 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.48% |
 | 35 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 7.81% |
-| 36 | [Smelter](games/s/smelter.md) | 7.69% |
-| 37 | [Ravenlok](games/r/ravenlok.md) | 7.53% |
-| 38 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.25% |
+| 36 | [Ravenlok](games/r/ravenlok.md) | 7.53% |
+| 37 | [Smelter](games/s/smelter.md) | 7.50% |
+| 38 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.18% |
 | 39 | [Scorn](games/s/scorn.md) | 6.95% |
 | 40 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.89% |
 | 41 | [Time Loader](games/t/time_loader.md) | 6.78% |
