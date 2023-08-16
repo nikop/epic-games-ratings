@@ -6,9 +6,9 @@
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 40.43% |
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
 | 6 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
-| 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 25.58% |
-| 8 | [Overloop](games/o/overloop.md) | 25.00% |
-| 8 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 25.00% |
+| 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 25.00% |
+| 7 | [Overloop](games/o/overloop.md) | 25.00% |
+| 7 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 25.00% |
 | 10 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 11 | [Volley Pals](games/v/volley_pals.md) | 23.40% |
 | 12 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 23.02% |
@@ -32,7 +32,7 @@
 | 30 | [Sonic Origins](games/s/sonic_origins.md) | 9.60% |
 | 31 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.30% |
 | 32 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.92% |
-| 33 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 8.70% |
+| 33 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 8.51% |
 | 34 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.48% |
 | 35 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 7.81% |
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.53% |
@@ -59,8 +59,8 @@
 | 57 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.18% |
 | 58 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
 | 59 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.04% |
-| 60 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 3.92% |
-| 61 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.89% |
+| 60 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.89% |
+| 61 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 3.85% |
 | 62 | [ZZT!](games/z/zzt!.md) | 3.77% |
 | 63 | [Without Escape](games/w/without_escape.md) | 3.70% |
 | 64 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
@@ -544,4 +544,4 @@
 | 257 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 257 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 257 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,057 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,058 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
