@@ -8,8 +8,8 @@ Number of Ratings: 43  (23.09.2022)
 | ---- | ---------- | ----- |
 | Simoon | 34.00% | ~28,505 |
 | Just The Two of Us | 32.00% | ~26,828 |
-| Up On High | 25.00% | ~20,959 |
-| Under The Hood | 25.00% | ~20,959 |
+| Up On High | 25.00% | ~20,960 |
+| Under The Hood | 25.00% | ~20,960 |
 | Got Your Nose | 24.00% | ~20,121 |
 | The Gift of Gab | 24.00% | ~20,121 |
 | Wrapping Up | 22.00% | ~18,444 |
@@ -26,8 +26,8 @@ Number of Ratings: 43  (23.09.2022)
 | Nesting Giant | 13.00% | ~10,899 |
 | Treasure Tracker | 13.00% | ~10,899 |
 | Big Spender | 13.00% | ~10,899 |
-| Badge Collector | 12.00% | ~10,060 |
-| Quite The Catch | 12.00% | ~10,060 |
+| Badge Collector | 12.00% | ~10,061 |
+| Quite The Catch | 12.00% | ~10,061 |
 | Rowleys Way | 11.00% | ~9,222 |
 | The Machinist Mask | 10.00% | ~8,384 |
 | The Cartographer Mask | 10.00% | ~8,384 |
@@ -56,14 +56,14 @@ Number of Ratings: 43  (23.09.2022)
 | Bikes Don't Fly | 6.00% | ~5,030 |
 | The Gliding | 5.00% | ~4,192 |
 | The Entertainer Mask | 5.00% | ~4,192 |
-| The Quick and the Curious | 4.00% | ~3,353 |
-| Bike Aficionado | 4.00% | ~3,353 |
+| The Quick and the Curious | 4.00% | ~3,354 |
+| Bike Aficionado | 4.00% | ~3,354 |
 | Chum Expert | 3.00% | ~2,515 |
 | Gastric Bypass | 3.00% | ~2,515 |
 | The Angler Mask | 3.00% | ~2,515 |
 | Vivacious Vivarium | 2.00% | ~1,677 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 83,837 (Ranked 73)  
+Progressed: 83,838 (Ranked 73)  
 Completed: 821 (0.98%) (Ranked 117)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 821 (0.98%) (Ranked 117)
 | 2023-08-13 | 83,431 | 814 |
 | 2023-08-14 | 83,631 | 816 |
 | 2023-08-15 | 83,811 | 820 |
-| 2023-08-16 | 83,837 | 821 |
+| 2023-08-16 | 83,838 | 821 |
 ## Awards
 Max (Quickly Understood Controls): 22  (Ranked 494)  
 Sum: 22 (Ranked 496)  

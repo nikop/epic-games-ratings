@@ -648,9 +648,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 212939,
+  "EOS_Progressed": 212945,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3815,
+  "EOS_NewPlayers": 3821,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7068,6 +7068,11 @@
       "Time": "2023-08-16T01:43:37.9357589+00:00",
       "NumProgressed": 212939,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-16T02:18:09.4155996+00:00",
+      "NumProgressed": 212945,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -7127,7 +7132,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1916
+      "UsersEstimate": 1917
     },
     {
       "ID": "Chapter2",
@@ -7511,7 +7516,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1916
+      "UsersEstimate": 1917
     },
     {
       "ID": "ElfEpic",
@@ -7527,7 +7532,7 @@
       "Name": "Sowwy!",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 31941
+      "UsersEstimate": 31942
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -7782,21 +7787,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 212939,
+      "Progressed": 212945,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 212939,
+      "Progressed": 212945,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-15T01:40:21.2095498+00:00",
-  "LastChanged_Achievements": "2023-08-16T01:43:37.9357584+00:00",
+  "LastChanged_Achievements": "2023-08-16T02:18:09.415597+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:49.6773731+00:00",
-  "LastUpdate_Ratings": "2023-08-16T01:39:22.5774815+00:00",
-  "LastUpdate_Achievements": "2023-08-16T01:43:37.9358991+00:00"
+  "LastUpdate_Ratings": "2023-08-16T02:13:34.267954+00:00",
+  "LastUpdate_Achievements": "2023-08-16T02:18:09.415793+00:00"
 }

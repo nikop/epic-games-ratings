@@ -96,6 +96,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Special Ingredient | 0.20% | ~269 |
 | Exotic Commodities | 0.20% | ~269 |
 | Complete Monopoly | 0.20% | ~269 |
+| King's Blade | 0.20% | ~269 |
 | Bane of Legends | 0.10% | ~135 |
 | The Free Encyclopedia | 0.10% | ~135 |
 | Ultimate Collector | 0.10% | ~135 |
@@ -117,9 +118,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.10% | ~135 |
 | All Accounted For | 0.10% | ~135 |
 | Economy of Scarce | 0.10% | ~135 |
-| King's Blade | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,577 (Ranked 66)  
+Progressed: 134,578 (Ranked 66)  
 Completed: 132 (0.10%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,10 +237,10 @@ Completed: 132 (0.10%) (Ranked 205)
 | 2023-08-13 | 134,471 | 132 |
 | 2023-08-14 | 134,532 | 132 |
 | 2023-08-15 | 134,574 | 132 |
-| 2023-08-16 | 134,577 | 132 |
+| 2023-08-16 | 134,578 | 132 |
 ## Awards
 Max (Great for Beginners): 4,700  (Ranked 71)  
-Sum: 27,101 (Ranked 47)  
+Sum: 27,102 (Ranked 47)  
 Diff (max vs sum): 24  
 | Award | Count |
 | ----- | ----- |
@@ -249,7 +249,7 @@ Diff (max vs sum): 24
 | This game has Quickly Understood Controls | 3,986 |
 | This game has Diverse Characters | 3,853 |
 | This game is Highly Recommended | 3,734 |
-| This game has Easy Combat | 3,674 |
+| This game has Easy Combat | 3,675 |
 | This game has Playful Visuals | 3,155 |
 | This game has Inclusive Character Customization | 22 |
 ## Ratings History
@@ -459,3 +459,4 @@ Diff (max vs sum): 24
 | 2023-08-13 | 3.99 | - | 4,698 | 27,088 |
 | 2023-08-14 | 3.99 | - | 4,700 | 27,095 |
 | 2023-08-15 | 3.99 | - | 4,700 | 27,101 |
+| 2023-08-16 | 3.99 | - | 4,700 | 27,102 |

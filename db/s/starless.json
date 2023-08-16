@@ -4,7 +4,7 @@
   "ProductSlug": "starless-bb4b3c",
   "Ranking_EOS_Progress": 546,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 360,
+  "Ranking_EOS_NewPlayers": 359,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-02-07T17:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-03-31T05:58:33.5377947+00:00",
   "LastChanged": "2023-03-31T05:58:33.5377948+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:04.6705008+00:00",
-  "LastUpdate_Ratings": "2023-08-16T01:35:59.953915+00:00",
-  "LastUpdate_Achievements": "2023-08-16T01:43:41.8944422+00:00"
+  "LastUpdate_Ratings": "2023-08-16T02:10:47.0641515+00:00",
+  "LastUpdate_Achievements": "2023-08-16T02:18:12.2894398+00:00"
 }

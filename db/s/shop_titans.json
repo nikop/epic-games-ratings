@@ -5552,10 +5552,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27101,
       "NumberOfAwardsMax": 4700
+    },
+    {
+      "Time": "2023-08-16T02:13:01.3126355+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27102,
+      "NumberOfAwardsMax": 4700
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27101,
+  "NumberOfAwards": 27102,
   "NumberOfAwardsMax": 4700,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5581,7 +5587,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 3674
+      "Count": 3675
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5608,9 +5614,9 @@
       "Count": 3734
     }
   ],
-  "EOS_Progressed": 134577,
+  "EOS_Progressed": 134578,
   "EOS_Completed": 132,
-  "EOS_NewPlayers": 403,
+  "EOS_NewPlayers": 404,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -17613,6 +17619,11 @@
       "Time": "2023-08-16T00:06:04.3826794+00:00",
       "NumProgressed": 134577,
       "NumCompleted": 132
+    },
+    {
+      "Time": "2023-08-16T02:18:42.6425673+00:00",
+      "NumProgressed": 134578,
+      "NumCompleted": 132
     }
   ],
   "TotalAchievements": 112,
@@ -18510,24 +18521,24 @@
       "ID": "yami_a",
       "SetID": "anfd17p",
       "Name": "King\u0027s Blade",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 269
     }
   ],
   "AchievementSets": [
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 134577,
+      "Progressed": 134578,
       "Completed": 132
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-08-15T22:00:53.2486672+00:00",
-  "LastChanged_Achievements": "2023-08-16T01:44:18.5432331+00:00",
+  "LastChanged": "2023-08-16T02:13:01.3126354+00:00",
+  "LastChanged_Achievements": "2023-08-16T02:18:42.6425667+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:13.9096409+00:00",
-  "LastUpdate_Ratings": "2023-08-16T01:38:39.9556549+00:00",
-  "LastUpdate_Achievements": "2023-08-16T01:44:18.5434599+00:00"
+  "LastUpdate_Ratings": "2023-08-16T02:13:01.312636+00:00",
+  "LastUpdate_Achievements": "2023-08-16T02:18:42.6428603+00:00"
 }

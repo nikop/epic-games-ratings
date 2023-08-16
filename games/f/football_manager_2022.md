@@ -11,11 +11,11 @@ Number of Ratings: 19,160  (23.09.2022)
 | First Victory | 50.00% | ~235,174 |
 | He's Sold! | 48.00% | ~225,767 |
 | I'm The Boss! | 42.00% | ~197,546 |
-| Hat-trick | 41.00% | ~192,842 |
+| Hat-trick | 41.00% | ~192,843 |
 | Scoring Streak | 38.00% | ~178,732 |
-| Unbeatable! | 37.00% | ~174,028 |
-| Thumping | 37.00% | ~174,028 |
-| Superb Dressing Room Atmosphere | 35.00% | ~164,621 |
+| Unbeatable! | 37.00% | ~174,029 |
+| Thumping | 37.00% | ~174,029 |
+| Superb Dressing Room Atmosphere | 35.00% | ~164,622 |
 | Total Support | 32.00% | ~150,511 |
 | Record Signing | 32.00% | ~150,511 |
 | He's a Natural | 31.00% | ~145,808 |
@@ -30,19 +30,19 @@ Number of Ratings: 19,160  (23.09.2022)
 | Tremendous Trio | 26.00% | ~122,290 |
 | Unstoppable Force | 26.00% | ~122,290 |
 | Record Sale | 26.00% | ~122,290 |
-| Fantastic Five | 24.00% | ~112,883 |
-| Full Faith | 24.00% | ~112,883 |
-| The Boss | 24.00% | ~112,883 |
-| Armchair Expert | 24.00% | ~112,883 |
+| Fantastic Five | 24.00% | ~112,884 |
+| Full Faith | 24.00% | ~112,884 |
+| The Boss | 24.00% | ~112,884 |
+| Armchair Expert | 24.00% | ~112,884 |
 | Iron Curtain | 23.00% | ~108,180 |
 | Goal Machine | 23.00% | ~108,180 |
-| What A Goal! | 22.00% | ~103,476 |
-| Top Of The Class | 22.00% | ~103,476 |
-| Cup Glory! | 22.00% | ~103,476 |
+| What A Goal! | 22.00% | ~103,477 |
+| Top Of The Class | 22.00% | ~103,477 |
+| Cup Glory! | 22.00% | ~103,477 |
 | Splashing The Cash | 21.00% | ~98,773 |
 | Clean Bill of Health | 21.00% | ~98,773 |
-| Irresistible Force | 20.00% | ~94,069 |
-| Excellent Match Cohesion | 20.00% | ~94,069 |
+| Irresistible Force | 20.00% | ~94,070 |
+| Excellent Match Cohesion | 20.00% | ~94,070 |
 | Do The Double | 19.00% | ~89,366 |
 | Top Form | 17.00% | ~79,959 |
 | Cash To Burn | 17.00% | ~79,959 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~470 |
 | Shoestring Budget | 0.10% | ~470 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 470,347 (Ranked 36)  
+Progressed: 470,348 (Ranked 36)  
 Completed: 20 (0.00%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 20 (0.00%) (Ranked 257)
 | 2023-08-13 | 470,120 | 20 |
 | 2023-08-14 | 470,235 | 20 |
 | 2023-08-15 | 470,336 | 20 |
-| 2023-08-16 | 470,347 | 20 |
+| 2023-08-16 | 470,348 | 20 |
 ## Awards
 Max (Relaxing): 6,400  (Ranked 54)  
 Sum: 50,382 (Ranked 24)  

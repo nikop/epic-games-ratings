@@ -231,9 +231,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 723150,
+  "EOS_Progressed": 723152,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 3003,
+  "EOS_NewPlayers": 3005,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13196,6 +13196,11 @@
       "Time": "2023-08-16T01:42:53.9943563+00:00",
       "NumProgressed": 723150,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-16T02:17:31.3710924+00:00",
+      "NumProgressed": 723152,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 27,
@@ -13335,7 +13340,7 @@
       "Name": "Entrepreneur",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 347112
+      "UsersEstimate": 347113
     },
     {
       "ID": "ach_produced",
@@ -13367,7 +13372,7 @@
       "Name": "Salesman",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 21694
+      "UsersEstimate": 21695
     },
     {
       "ID": "ach_sell_to_state",
@@ -13415,14 +13420,14 @@
       "Name": "City Planner",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 137398
+      "UsersEstimate": 137399
     }
   ],
   "AchievementSets": [
     {
       "ID": "c29op2e",
       "IsBase": true,
-      "Progressed": 723150,
+      "Progressed": 723152,
       "Completed": 3
     }
   ],
@@ -13430,8 +13435,8 @@
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1437733+00:00",
   "LastChanged": "2023-08-13T09:01:00.5135135+00:00",
-  "LastChanged_Achievements": "2023-08-16T01:42:53.9943559+00:00",
+  "LastChanged_Achievements": "2023-08-16T02:17:31.3710915+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:25.9441906+00:00",
-  "LastUpdate_Ratings": "2023-08-16T01:38:50.168691+00:00",
-  "LastUpdate_Achievements": "2023-08-16T01:42:53.9944531+00:00"
+  "LastUpdate_Ratings": "2023-08-16T02:13:10.2922975+00:00",
+  "LastUpdate_Achievements": "2023-08-16T02:17:31.3712514+00:00"
 }

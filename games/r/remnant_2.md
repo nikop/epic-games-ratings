@@ -5,39 +5,39 @@ Rating: 4.76 (Ranked 118)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 10.00% | ~15,208 |
-| The Killing Jar | 9.00% | ~13,687 |
-| Not Your Average Trait | 8.00% | ~12,166 |
-| Expanding Horizons | 7.00% | ~10,646 |
-| Quest for Survival | 7.00% | ~10,646 |
-| Gleaming the Cube | 6.00% | ~9,125 |
-| Familiar Face | 6.00% | ~9,125 |
-| Duality | 6.00% | ~9,125 |
-| Boss'n Up | 6.00% | ~9,125 |
-| Trait Chaser | 6.00% | ~9,125 |
-| Not a Janitor | 5.00% | ~7,604 |
-| Equal Measures | 5.00% | ~7,604 |
-| Blue Goddess | 5.00% | ~7,604 |
-| Top Performer | 5.00% | ~7,604 |
-| Almost There | 5.00% | ~7,604 |
-| Make Some Room | 5.00% | ~7,604 |
-| Good, But Could Be Better! | 5.00% | ~7,604 |
-| Chaos | 4.00% | ~6,083 |
-| Traitor | 4.00% | ~6,083 |
-| Power Surge | 4.00% | ~6,083 |
-| The God Gambit | 4.00% | ~6,083 |
-| Dark Designs | 4.00% | ~6,083 |
-| Not So Special Now | 4.00% | ~6,083 |
-| Madman's Paradise | 4.00% | ~6,083 |
-| Shhh...It's a Secret | 4.00% | ~6,083 |
-| Was This Supposed To Happen? | 4.00% | ~6,083 |
-| The Web | 4.00% | ~6,083 |
-| Forever is a Long Time Coming | 3.00% | ~4,562 |
-| The Agenda | 3.00% | ~4,562 |
-| Bad Moon Rising | 3.00% | ~4,562 |
-| Strapped | 3.00% | ~4,562 |
-| Scrap Collector | 3.00% | ~4,562 |
-| All These Traits� | 3.00% | ~4,562 |
+| First of Many | 10.00% | ~15,211 |
+| The Killing Jar | 9.00% | ~13,690 |
+| Not Your Average Trait | 8.00% | ~12,169 |
+| Expanding Horizons | 7.00% | ~10,648 |
+| Quest for Survival | 7.00% | ~10,648 |
+| Gleaming the Cube | 6.00% | ~9,127 |
+| Familiar Face | 6.00% | ~9,127 |
+| Duality | 6.00% | ~9,127 |
+| Boss'n Up | 6.00% | ~9,127 |
+| Trait Chaser | 6.00% | ~9,127 |
+| Not a Janitor | 5.00% | ~7,606 |
+| Equal Measures | 5.00% | ~7,606 |
+| Blue Goddess | 5.00% | ~7,606 |
+| Top Performer | 5.00% | ~7,606 |
+| Almost There | 5.00% | ~7,606 |
+| Make Some Room | 5.00% | ~7,606 |
+| Good, But Could Be Better! | 5.00% | ~7,606 |
+| Chaos | 4.00% | ~6,084 |
+| Traitor | 4.00% | ~6,084 |
+| Power Surge | 4.00% | ~6,084 |
+| The God Gambit | 4.00% | ~6,084 |
+| Dark Designs | 4.00% | ~6,084 |
+| Not So Special Now | 4.00% | ~6,084 |
+| Madman's Paradise | 4.00% | ~6,084 |
+| Shhh...It's a Secret | 4.00% | ~6,084 |
+| Was This Supposed To Happen? | 4.00% | ~6,084 |
+| The Web | 4.00% | ~6,084 |
+| Forever is a Long Time Coming | 3.00% | ~4,563 |
+| The Agenda | 3.00% | ~4,563 |
+| Bad Moon Rising | 3.00% | ~4,563 |
+| Strapped | 3.00% | ~4,563 |
+| Scrap Collector | 3.00% | ~4,563 |
+| All These Traits� | 3.00% | ~4,563 |
 | Am I Seeing This? | 2.00% | ~3,042 |
 | Red Room | 2.00% | ~3,042 |
 | Tall Tales | 2.00% | ~3,042 |
@@ -53,10 +53,10 @@ Rating: 4.76 (Ranked 118)
 | Maxed Out! | 1.00% | ~1,521 |
 | The Trigger | 0.70% | ~1,065 |
 | Cutting Edge | 0.70% | ~1,065 |
-| Ghost in the Machine | 0.60% | ~912 |
+| Ghost in the Machine | 0.60% | ~913 |
 | Proving Grounds | 0.40% | ~608 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 152,081 (Ranked 63)  
+Progressed: 152,110 (Ranked 63)  
 Completed: 59 (0.04%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,10 +87,10 @@ Completed: 59 (0.04%) (Ranked 226)
 | 2023-08-13 | 148,269 | 53 |
 | 2023-08-14 | 150,092 | 55 |
 | 2023-08-15 | 151,919 | 58 |
-| 2023-08-16 | 152,081 | 59 |
+| 2023-08-16 | 152,110 | 59 |
 ## Awards
 Max (Great Boss Battles): 832  (Ranked 152)  
-Sum: 1,265 (Ranked 228)  
+Sum: 1,273 (Ranked 228)  
 Diff (max vs sum): -76  
 | Award | Count |
 | ----- | ----- |
@@ -99,9 +99,9 @@ Diff (max vs sum): -76
 | This game is Extremely Fun | 53 |
 | This game has Diverse Characters | 52 |
 | This game has Challenging Combat | 50 |
+| This game has Quickly Understood Controls | 50 |
 | This game has Amazing Storytelling | 48 |
 | This game has a Creative Community | 48 |
-| This game has Quickly Understood Controls | 42 |
 | This game has Amazing Characters | 42 |
 | This game has Unique Visuals | 41 |
 ## Ratings History
@@ -128,3 +128,4 @@ Diff (max vs sum): -76
 | 2023-08-13 | 4.77 | 744 | 1,100 |
 | 2023-08-14 | 4.77 | 786 | 1,193 |
 | 2023-08-15 | 4.77 | 832 | 1,265 |
+| 2023-08-16 | 4.76 | 832 | 1,273 |

@@ -8479,9 +8479,9 @@
       "Count": 8394
     }
   ],
-  "EOS_Progressed": 1321547,
+  "EOS_Progressed": 1321549,
   "EOS_Completed": 2122,
-  "EOS_NewPlayers": 2718,
+  "EOS_NewPlayers": 2720,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -21414,6 +21414,11 @@
       "Time": "2023-08-16T01:42:32.0736623+00:00",
       "NumProgressed": 1321547,
       "NumCompleted": 2122
+    },
+    {
+      "Time": "2023-08-16T02:17:13.3707915+00:00",
+      "NumProgressed": 1321549,
+      "NumCompleted": 2122
     }
   ],
   "TotalAchievements": 47,
@@ -21425,7 +21430,7 @@
       "Name": "The Result of Previous Training",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 370033
+      "UsersEstimate": 370034
     },
     {
       "ID": "ACH_001",
@@ -21489,7 +21494,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 370033
+      "UsersEstimate": 370034
     },
     {
       "ID": "ACH_009",
@@ -21497,7 +21502,7 @@
       "Name": "Unseen Assassin",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 607912
+      "UsersEstimate": 607913
     },
     {
       "ID": "ACH_010",
@@ -21513,7 +21518,7 @@
       "Name": "Stylish Assassin",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 264309
+      "UsersEstimate": 264310
     },
     {
       "ID": "ACH_012",
@@ -21521,7 +21526,7 @@
       "Name": "Death From Above",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 607912
+      "UsersEstimate": 607913
     },
     {
       "ID": "ACH_013",
@@ -21569,7 +21574,7 @@
       "Name": "Master of the Household",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 502188
+      "UsersEstimate": 502189
     },
     {
       "ID": "ACH_019",
@@ -21617,7 +21622,7 @@
       "Name": "Death of the Party",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 475757
+      "UsersEstimate": 475758
     },
     {
       "ID": "ACH_025",
@@ -21713,7 +21718,7 @@
       "Name": "The Last Tango",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 422895
+      "UsersEstimate": 422896
     },
     {
       "ID": "ACH_037",
@@ -21800,15 +21805,15 @@
     {
       "ID": "62l33o1",
       "IsBase": true,
-      "Progressed": 1321547,
+      "Progressed": 1321549,
       "Completed": 2122
     }
   ],
   "FirstSeen": "2022-07-22T20:17:51.8099598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:56.7371376+00:00",
   "LastChanged": "2023-08-16T01:39:48.6064233+00:00",
-  "LastChanged_Achievements": "2023-08-16T01:42:32.0736619+00:00",
+  "LastChanged_Achievements": "2023-08-16T02:17:13.3707909+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:30.2265247+00:00",
-  "LastUpdate_Ratings": "2023-08-16T01:39:48.6064239+00:00",
-  "LastUpdate_Achievements": "2023-08-16T01:42:32.0737781+00:00"
+  "LastUpdate_Ratings": "2023-08-16T02:13:55.5900674+00:00",
+  "LastUpdate_Achievements": "2023-08-16T02:17:13.3709282+00:00"
 }

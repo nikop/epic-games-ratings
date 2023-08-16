@@ -5,12 +5,12 @@ Rating: 4.45 (Ranked 633)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 45.00% | ~1,566 |
-| Confirming Suspicions | 40.00% | ~1,392 |
-| The Kraken Wakes | 35.00% | ~1,218 |
+| Meeting Resistance | 45.00% | ~1,567 |
+| Confirming Suspicions | 40.00% | ~1,393 |
+| The Kraken Wakes | 35.00% | ~1,219 |
 | It's Starting to Crack | 32.00% | ~1,114 |
-| Lord of War | 29.00% | ~1,009 |
-| Change the Channel | 29.00% | ~1,009 |
+| Lord of War | 29.00% | ~1,010 |
+| Change the Channel | 29.00% | ~1,010 |
 | Taking it back | 27.00% | ~940 |
 | Resourceful | 26.00% | ~905 |
 | Target America | 25.00% | ~870 |
@@ -25,18 +25,18 @@ Rating: 4.45 (Ranked 633)
 | Climbing the Ladder | 15.00% | ~522 |
 | Der Geist | 15.00% | ~522 |
 | Close Quarters | 15.00% | ~522 |
-| Snake in the Grass | 14.00% | ~487 |
 | Brains of the Operation | 14.00% | ~487 |
 | Opposing Force | 13.00% | ~453 |
 | Enemy at the Gates | 13.00% | ~453 |
 | Fields of Glory | 13.00% | ~453 |
 | Skirmisher | 13.00% | ~453 |
 | Die Nussknacker Sweet! | 13.00% | ~453 |
+| Snake in the Grass | 13.00% | ~453 |
 | No Stone Unturned | 12.00% | ~418 |
 | Set Europe Ablaze | 12.00% | ~418 |
 | Precision Is Key | 9.00% | ~313 |
 | My Little Friend | 9.00% | ~313 |
-| Rigged to Blow | 8.00% | ~278 |
+| Rigged to Blow | 8.00% | ~279 |
 | Herr Today, Gone Tomorrow | 6.00% | ~206 |
 | The Long Game | 5.00% | ~174 |
 | It'll Buff Right Out | 5.00% | ~174 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 633)
 | Stroll in the Woods | 0.60% | ~21 |
 | Going Overboard | 0.60% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,481 (Ranked 150)  
+Progressed: 3,482 (Ranked 150)  
 Completed: 9 (0.26%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,6 +194,7 @@ Completed: 9 (0.26%) (Ranked 173)
 | 2023-08-13 | 3,466 | 9 |
 | 2023-08-14 | 3,472 | 9 |
 | 2023-08-15 | 3,481 | 9 |
+| 2023-08-16 | 3,482 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

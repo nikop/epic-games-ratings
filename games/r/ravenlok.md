@@ -32,9 +32,9 @@
 | All That Glistens | 39.00% | ~419 |
 | Spellbound | 37.00% | ~398 |
 | Extinct Again! | 37.00% | ~398 |
+| Bird of Prey | 37.00% | ~398 |
 | All Skilled Up! | 37.00% | ~398 |
 | It's Pointy! | 37.00% | ~398 |
-| Bird of Prey | 36.00% | ~387 |
 | Stardust | 36.00% | ~387 |
 | Heartbreaker | 36.00% | ~387 |
 | Kidnapped! | 36.00% | ~387 |

@@ -799,17 +799,17 @@
       "ID": "ACH_END_FIRST_MAIL_MISSION",
       "SetID": "al4k4nh",
       "Name": "I love customers",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 193
+      "UsersEstimate": 196
     },
     {
       "ID": "ACH_END_FIRST_TUTORIAL",
       "SetID": "al4k4nh",
       "Name": "Ready to go",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 211
+      "UsersEstimate": 213
     },
     {
       "ID": "ACH_END_FIRST_WORKBENCH_MISSION",
@@ -879,9 +879,9 @@
       "ID": "ACH_GO_TO_MISSION_WITHOUT_NEEDED_ITEMS",
       "SetID": "al4k4nh",
       "Name": "I like the risk",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 64
     },
     {
       "ID": "ACH_LISTEN_ALL_MUSIC",
@@ -966,8 +966,8 @@
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2023-08-16T01:45:14.3618019+00:00",
+  "LastChanged_Achievements": "2023-08-16T02:19:29.0601784+00:00",
   "LastUpdate_AppInfo": "2023-08-09T17:56:58.4992812+00:00",
-  "LastUpdate_Ratings": "2023-08-16T01:37:14.2427018+00:00",
-  "LastUpdate_Achievements": "2023-08-16T01:45:14.3618244+00:00"
+  "LastUpdate_Ratings": "2023-08-16T02:11:48.121547+00:00",
+  "LastUpdate_Achievements": "2023-08-16T02:19:29.0602022+00:00"
 }
