@@ -380,9 +380,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17945,
+  "EOS_Progressed": 17948,
   "EOS_Completed": 363,
-  "EOS_NewPlayers": 575,
+  "EOS_NewPlayers": 578,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 2.02,
   "EosHistory": [
@@ -12865,6 +12865,11 @@
       "Time": "2023-08-16T04:05:18.4520482+00:00",
       "NumProgressed": 17945,
       "NumCompleted": 363
+    },
+    {
+      "Time": "2023-08-16T05:06:16.3514991+00:00",
+      "NumProgressed": 17948,
+      "NumCompleted": 363
     }
   ],
   "TotalAchievements": 20,
@@ -12892,7 +12897,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2512
+      "UsersEstimate": 2513
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -12908,7 +12913,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2153
+      "UsersEstimate": 2154
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -12916,7 +12921,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1794
+      "UsersEstimate": 1795
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -12932,7 +12937,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2153
+      "UsersEstimate": 2154
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -12988,7 +12993,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2153
+      "UsersEstimate": 2154
     },
     {
       "ID": "INTRO_FINISHED",
@@ -12996,7 +13001,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 13638
+      "UsersEstimate": 13640
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -13012,7 +13017,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2512
+      "UsersEstimate": 2513
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -13035,15 +13040,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 17945,
+      "Progressed": 17948,
       "Completed": 363
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-08-12T01:39:46.4098224+00:00",
-  "LastChanged_Achievements": "2023-08-16T04:05:18.4520476+00:00",
+  "LastChanged_Achievements": "2023-08-16T05:06:16.3514986+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:58:04.1120676+00:00",
-  "LastUpdate_Ratings": "2023-08-16T03:57:09.7810345+00:00",
-  "LastUpdate_Achievements": "2023-08-16T04:05:18.4521497+00:00"
+  "LastUpdate_Ratings": "2023-08-16T04:57:23.6490189+00:00",
+  "LastUpdate_Achievements": "2023-08-16T05:06:16.3516183+00:00"
 }

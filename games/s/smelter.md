@@ -9,11 +9,11 @@
 | Time to Bash Some Heads! | 82.00% | ~32 |
 | Shiny! | 72.00% | ~28 |
 | Deep in the Mounds | 69.00% | ~27 |
-| Smeltastic! | 36.00% | ~14 |
+| Smeltastic! | 38.00% | ~15 |
 | Locked Away | 33.00% | ~13 |
 | A Little Renovating | 31.00% | ~12 |
+| Deflect This! | 28.00% | ~11 |
 | It's a Sign! | 28.00% | ~11 |
-| Deflect This! | 26.00% | ~10 |
 | Just Some Improvements | 21.00% | ~8 |
 | A Little Extra Love | 18.00% | ~7 |
 | Final Announcement | 18.00% | ~7 |

@@ -21,9 +21,9 @@ Number of Ratings: 1,023  (23.09.2022)
 | Perfectionist | 5.00% | ~1,032 |
 | I'm Belieber | 2.00% | ~413 |
 | You do it wrong | 1.00% | ~206 |
+| Wall Street Shark | 0.90% | ~186 |
 | Knock, knock | 0.90% | ~186 |
 | Game Over | 0.80% | ~165 |
-| Wall Street Shark | 0.80% | ~165 |
 | Negotiator | 0.80% | ~165 |
 | Car Mechanic | 0.70% | ~144 |
 | Do it ASAP | 0.60% | ~124 |

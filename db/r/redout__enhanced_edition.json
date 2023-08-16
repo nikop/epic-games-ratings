@@ -328,7 +328,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 229747,
+  "EOS_Progressed": 229748,
   "EOS_Completed": 46,
   "EOS_NewPlayers": 533,
   "EOS_NewCompleters": 0,
@@ -12603,6 +12603,11 @@
       "Time": "2023-08-16T04:03:17.6493559+00:00",
       "NumProgressed": 229747,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-08-16T05:03:53.4387226+00:00",
+      "NumProgressed": 229748,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 34,
@@ -12702,7 +12707,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 45949
+      "UsersEstimate": 45950
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -12838,7 +12843,7 @@
       "Name": "SNEAKY SNEAKY",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 50544
+      "UsersEstimate": 50545
     },
     {
       "ID": "TACTICIAN",
@@ -12862,7 +12867,7 @@
       "Name": "TRICK UP YOUR SLEEVE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 50544
+      "UsersEstimate": 50545
     },
     {
       "ID": "TUNINGMANIAC",
@@ -12878,22 +12883,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 94196
+      "UsersEstimate": 94197
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 229747,
+      "Progressed": 229748,
       "Completed": 46
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-08-16T04:03:17.6493553+00:00",
+  "LastChanged_Achievements": "2023-08-16T05:03:53.4387221+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:00.8930351+00:00",
-  "LastUpdate_Ratings": "2023-08-16T03:59:17.9786602+00:00",
-  "LastUpdate_Achievements": "2023-08-16T04:03:17.6494669+00:00"
+  "LastUpdate_Ratings": "2023-08-16T05:00:01.9860041+00:00",
+  "LastUpdate_Achievements": "2023-08-16T05:03:53.4388328+00:00"
 }

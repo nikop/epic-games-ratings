@@ -4,7 +4,7 @@
   "ProductSlug": "silence-57bc4e",
   "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 107,
+  "EOS_Progressed": 108,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -127,6 +127,11 @@
       "Time": "2023-08-14T16:07:18.8150731+00:00",
       "NumProgressed": 107,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-16T05:06:39.8048572+00:00",
+      "NumProgressed": 108,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 46,
@@ -136,15 +141,15 @@
       "ID": "0000_achv_balance",
       "SetID": "dhn82m5",
       "Name": "Artistic master",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 7
+      "UsersEstimate": 6
     },
     {
       "ID": "0000_achv_failbalance",
       "SetID": "dhn82m5",
       "Name": "Artistic fool",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 40,
       "UsersEstimate": 36
     },
@@ -250,7 +255,7 @@
       "Name": "Shadow on the wall",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "1004_achv_farts",
@@ -264,15 +269,15 @@
       "ID": "1004_achv_wormtooth",
       "SetID": "dhn82m5",
       "Name": "Open up wide",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 33
     },
     {
       "ID": "1006_achv_chapter1",
       "SetID": "dhn82m5",
       "Name": "Chapter I",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 20,
       "UsersEstimate": 52
     },
@@ -280,9 +285,9 @@
       "ID": "1006_achv_demoliton",
       "SetID": "dhn82m5",
       "Name": "Demolition expert",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 38
     },
     {
       "ID": "1006_achv_dropball",
@@ -298,13 +303,13 @@
       "Name": "Handyman",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "1006_achv_pacifist",
       "SetID": "dhn82m5",
       "Name": "Pacifist",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
       "UsersEstimate": 21
     },
@@ -312,7 +317,7 @@
       "ID": "2001_achv_shrooms",
       "SetID": "dhn82m5",
       "Name": "Keep away from children",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 36
     },
@@ -338,13 +343,13 @@
       "Name": "Haute cuisine",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "2004_achv_abyss",
       "SetID": "dhn82m5",
       "Name": "Wooooooow!",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 10,
       "UsersEstimate": 37
     },
@@ -426,7 +431,7 @@
       "Name": "Fastidious Clown",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "3004_achv_sneeze",
@@ -456,7 +461,7 @@
       "ID": "3014_achv_sendspot",
       "SetID": "dhn82m5",
       "Name": "It\u0027s not easy being green!",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 20,
       "UsersEstimate": 22
     },
@@ -488,7 +493,7 @@
       "ID": "4004_achv_home",
       "SetID": "dhn82m5",
       "Name": "Home is where the heart is",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 100,
       "UsersEstimate": 22
     },
@@ -505,7 +510,7 @@
     {
       "ID": "dhn82m5",
       "IsBase": true,
-      "Progressed": 107,
+      "Progressed": 108,
       "Completed": 0
     }
   ],
@@ -513,8 +518,8 @@
   "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.5644296+00:00",
   "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
-  "LastChanged_Achievements": "2023-08-16T04:05:37.5772009+00:00",
+  "LastChanged_Achievements": "2023-08-16T05:06:39.8048566+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:10.3291859+00:00",
-  "LastUpdate_Ratings": "2023-08-16T04:00:18.8704872+00:00",
-  "LastUpdate_Achievements": "2023-08-16T04:05:37.5877152+00:00"
+  "LastUpdate_Ratings": "2023-08-16T05:01:11.5917236+00:00",
+  "LastUpdate_Achievements": "2023-08-16T05:06:39.8048954+00:00"
 }

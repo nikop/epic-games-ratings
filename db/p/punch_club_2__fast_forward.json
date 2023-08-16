@@ -4,7 +4,7 @@
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 68,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -1199,9 +1199,9 @@
       "ID": "met_casey",
       "SetID": "69co12a",
       "Name": "Pal of your father?",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 172
     },
     {
       "ID": "met_k",
@@ -1239,9 +1239,9 @@
       "ID": "nero_basic",
       "SetID": "69co12a",
       "Name": "Neurotrainer \u2013 power gainer!",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 190
+      "UsersEstimate": 192
     },
     {
       "ID": "nero_extrime",
@@ -1446,8 +1446,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-08-16T04:04:30.7651753+00:00",
+  "LastChanged_Achievements": "2023-08-16T05:05:18.9361438+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:18.7618858+00:00",
-  "LastUpdate_Ratings": "2023-08-16T03:58:31.9691295+00:00",
-  "LastUpdate_Achievements": "2023-08-16T04:04:30.7652493+00:00"
+  "LastUpdate_Ratings": "2023-08-16T04:59:05.8841889+00:00",
+  "LastUpdate_Achievements": "2023-08-16T05:05:18.9362065+00:00"
 }

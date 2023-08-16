@@ -205,9 +205,9 @@
       "ID": "aq_achievement_2",
       "SetID": "7jh86ne",
       "Name": "Through the woods",
-      "Percentage": 62,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "aq_achievement_20",
@@ -229,9 +229,9 @@
       "ID": "aq_achievement_22",
       "SetID": "7jh86ne",
       "Name": "Makeover",
-      "Percentage": 29,
+      "Percentage": 32,
       "XP": 60,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "aq_achievement_23",
@@ -293,9 +293,9 @@
       "ID": "aq_achievement_3",
       "SetID": "7jh86ne",
       "Name": "My lost nightingale",
-      "Percentage": 62,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "aq_achievement_30",
@@ -365,9 +365,9 @@
       "ID": "aq_achievement_38",
       "SetID": "7jh86ne",
       "Name": "Little genius",
-      "Percentage": 38,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "aq_achievement_39",
@@ -438,8 +438,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.0099942+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.5540856+00:00",
   "LastChanged": "2023-03-31T05:58:28.0099943+00:00",
-  "LastChanged_Achievements": "2023-08-16T04:03:28.9123724+00:00",
+  "LastChanged_Achievements": "2023-08-16T05:04:07.128685+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:55.3569902+00:00",
-  "LastUpdate_Ratings": "2023-08-16T04:00:04.6596665+00:00",
-  "LastUpdate_Achievements": "2023-08-16T04:03:28.912407+00:00"
+  "LastUpdate_Ratings": "2023-08-16T05:00:55.8138217+00:00",
+  "LastUpdate_Achievements": "2023-08-16T05:04:07.1287171+00:00"
 }

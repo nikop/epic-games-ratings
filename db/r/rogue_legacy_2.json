@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 208,
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1365,9 +1365,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 22888,
+  "EOS_Progressed": 22889,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -6850,6 +6850,11 @@
       "Time": "2023-08-15T17:06:09.917768+00:00",
       "NumProgressed": 22888,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-08-16T05:05:48.0413937+00:00",
+      "NumProgressed": 22889,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -6907,9 +6912,9 @@
       "ID": "AllSkills",
       "SetID": "3ojhj46",
       "Name": "Looks Familiar",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 114
+      "UsersEstimate": 92
     },
     {
       "ID": "BossBridgeAdvancedDefeated",
@@ -7172,21 +7177,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 22888,
+      "Progressed": 22889,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 1818,
+      "Progressed": 1819,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-08-15T15:00:55.4936694+00:00",
-  "LastChanged_Achievements": "2023-08-16T04:04:54.754421+00:00",
+  "LastChanged_Achievements": "2023-08-16T05:05:48.041393+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:59.4184193+00:00",
-  "LastUpdate_Ratings": "2023-08-16T04:00:10.3901791+00:00",
-  "LastUpdate_Achievements": "2023-08-16T04:04:54.7544905+00:00"
+  "LastUpdate_Ratings": "2023-08-16T05:01:02.0051101+00:00",
+  "LastUpdate_Achievements": "2023-08-16T05:05:48.0414606+00:00"
 }

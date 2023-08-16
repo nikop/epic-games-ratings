@@ -14,13 +14,13 @@
 | Depressed visitor | 77.00% | ~195 |
 | Employee of the week | 77.00% | ~195 |
 | First defeat | 76.00% | ~192 |
+| Neurotrainer – power gainer! | 76.00% | ~192 |
 | Your own amateur gym | 75.00% | ~190 |
-| Neurotrainer – power gainer! | 75.00% | ~190 |
 | Run K, run! | 73.00% | ~185 |
 | Fighting is cool | 70.00% | ~177 |
 | Hello, world! | 70.00% | ~177 |
 | No bullying more | 69.00% | ~175 |
-| Pal of your father? | 67.00% | ~170 |
+| Pal of your father? | 68.00% | ~172 |
 | Employee of the month | 66.00% | ~167 |
 | Spirit of the past | 64.00% | ~162 |
 | Law student | 63.00% | ~159 |

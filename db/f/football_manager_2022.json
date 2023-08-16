@@ -6507,10 +6507,16 @@
       "Rating": 4.8,
       "NumberOfAwards": 50382,
       "NumberOfAwardsMax": 6400
+    },
+    {
+      "Time": "2023-08-16T04:57:55.4587713+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 50383,
+      "NumberOfAwardsMax": 6400
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 50382,
+  "NumberOfAwards": 50383,
   "NumberOfAwardsMax": 6400,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -6542,7 +6548,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 5834
+      "Count": 5835
     },
     {
       "Text": "This game is Educational",
@@ -6581,9 +6587,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 470355,
+  "EOS_Progressed": 470356,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 772,
+  "EOS_NewPlayers": 770,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18926,6 +18932,11 @@
       "Time": "2023-08-16T04:05:57.8973661+00:00",
       "NumProgressed": 470355,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-08-16T05:07:04.5843301+00:00",
+      "NumProgressed": 470356,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 98,
@@ -18953,7 +18964,7 @@
       "Name": "You\u0027re On Fire",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 122292
+      "UsersEstimate": 122293
     },
     {
       "ID": "achievement_10_matches_without_losing",
@@ -18961,7 +18972,7 @@
       "Name": "Unbeatable!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 174031
+      "UsersEstimate": 174032
     },
     {
       "ID": "achievement_10_seasons_at_one_club",
@@ -18993,7 +19004,7 @@
       "Name": "On A Roll",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 122292
+      "UsersEstimate": 122293
     },
     {
       "ID": "achievement_20_seasons_at_one_club",
@@ -19017,7 +19028,7 @@
       "Name": "Top Form",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 79960
+      "UsersEstimate": 79961
     },
     {
       "ID": "achievement_3_players_in_team_of_the_year",
@@ -19025,7 +19036,7 @@
       "Name": "Tremendous Trio",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 122292
+      "UsersEstimate": 122293
     },
     {
       "ID": "achievement_5_clean_sheets_in_a_row",
@@ -19049,7 +19060,7 @@
       "Name": "Team Performance",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 141106
+      "UsersEstimate": 141107
     },
     {
       "ID": "achievement_5_players_in_team_of_the_year",
@@ -19089,7 +19100,7 @@
       "Name": "Thumping",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 174031
+      "UsersEstimate": 174032
     },
     {
       "ID": "achievement_buy_50_million_plus_player",
@@ -19137,7 +19148,7 @@
       "Name": "Do The Double",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 89367
+      "UsersEstimate": 89368
     },
     {
       "ID": "achievement_dont_concede_a_goal_for_10_consecutive_matches",
@@ -19169,7 +19180,7 @@
       "Name": "I\u0027m The Boss!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 197549
+      "UsersEstimate": 197550
     },
     {
       "ID": "achievement_full_board_confidence",
@@ -19225,7 +19236,7 @@
       "Name": "Attack!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 131699
+      "UsersEstimate": 131700
     },
     {
       "ID": "achievement_goal_scored_in_30_consecutive_matches",
@@ -19329,7 +19340,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 122292
+      "UsersEstimate": 122293
     },
     {
       "ID": "achievement_mr_delegator",
@@ -19361,7 +19372,7 @@
       "Name": "Superb Dressing Room Atmosphere",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 164624
+      "UsersEstimate": 164625
     },
     {
       "ID": "achievement_perfect_managerial_support",
@@ -19433,7 +19444,7 @@
       "Name": "Record Sale",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 122292
+      "UsersEstimate": 122293
     },
     {
       "ID": "achievement_record_signing",
@@ -19473,7 +19484,7 @@
       "Name": "Cash To Burn",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 79960
+      "UsersEstimate": 79961
     },
     {
       "ID": "achievement_sell_player",
@@ -19481,7 +19492,7 @@
       "Name": "He\u0027s Sold!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 225770
+      "UsersEstimate": 225771
     },
     {
       "ID": "achievement_signed_a_player",
@@ -19720,15 +19731,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 470355,
+      "Progressed": 470356,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
-  "LastChanged": "2023-08-15T23:57:52.2835818+00:00",
-  "LastChanged_Achievements": "2023-08-16T04:05:57.8973655+00:00",
+  "LastChanged": "2023-08-16T04:57:55.4587711+00:00",
+  "LastChanged_Achievements": "2023-08-16T05:07:04.5843295+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:19.9756168+00:00",
-  "LastUpdate_Ratings": "2023-08-16T03:57:33.7168426+00:00",
-  "LastUpdate_Achievements": "2023-08-16T04:05:57.8975694+00:00"
+  "LastUpdate_Ratings": "2023-08-16T04:57:55.4587719+00:00",
+  "LastUpdate_Achievements": "2023-08-16T05:07:04.5845348+00:00"
 }

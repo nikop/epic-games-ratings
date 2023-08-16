@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 21,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -648,9 +648,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 212971,
+  "EOS_Progressed": 212988,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3813,
+  "EOS_NewPlayers": 3822,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7083,6 +7083,11 @@
       "Time": "2023-08-16T04:04:36.4606557+00:00",
       "NumProgressed": 212971,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-16T05:05:25.5851196+00:00",
+      "NumProgressed": 212988,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -7156,9 +7161,9 @@
       "ID": "Chapter3",
       "SetID": "50chcgj",
       "Name": "The plot thickens... At the tavern",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 852
+      "UsersEstimate": 1065
     },
     {
       "ID": "Chapter4",
@@ -7542,7 +7547,7 @@
       "Name": "Sowwy!",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 31946
+      "UsersEstimate": 31948
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -7797,21 +7802,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 212971,
+      "Progressed": 212988,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 212971,
+      "Progressed": 212988,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-15T01:40:21.2095498+00:00",
-  "LastChanged_Achievements": "2023-08-16T04:04:36.4606548+00:00",
+  "LastChanged_Achievements": "2023-08-16T05:05:25.5851191+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:49.6773731+00:00",
-  "LastUpdate_Ratings": "2023-08-16T04:00:03.1947704+00:00",
-  "LastUpdate_Achievements": "2023-08-16T04:04:36.4608044+00:00"
+  "LastUpdate_Ratings": "2023-08-16T05:00:53.9889948+00:00",
+  "LastUpdate_Achievements": "2023-08-16T05:05:25.5852815+00:00"
 }

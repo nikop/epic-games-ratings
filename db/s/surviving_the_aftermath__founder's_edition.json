@@ -2,12 +2,12 @@
   "ID": "95b4d5a753d042678f775d5e1eb5ab25",
   "Name": "Surviving the Aftermath",
   "ProductSlug": "surviving-the-aftermath",
-  "Ranking_Rating": 589,
+  "Ranking_Rating": 590,
   "Ranking_Popularity": 336,
   "Ranking_PopularitySum": 277,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1173,9 +1173,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 8313,
+  "EOS_Progressed": 8314,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 179,
+  "EOS_NewPlayers": 178,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10658,6 +10658,11 @@
       "Time": "2023-08-16T01:45:37.8360322+00:00",
       "NumProgressed": 8313,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-16T05:07:27.455161+00:00",
+      "NumProgressed": 8314,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -10709,7 +10714,7 @@
       "Name": "Famous Explorer",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2826
+      "UsersEstimate": 2827
     },
     {
       "ID": "15",
@@ -10725,7 +10730,7 @@
       "Name": "Adventurer",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 3408
+      "UsersEstimate": 3409
     },
     {
       "ID": "17",
@@ -10781,7 +10786,7 @@
       "Name": "First Step",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5985
+      "UsersEstimate": 5986
     },
     {
       "ID": "23",
@@ -10789,7 +10794,7 @@
       "Name": "New Opportunities",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2826
+      "UsersEstimate": 2827
     },
     {
       "ID": "24",
@@ -10821,7 +10826,7 @@
       "Name": "Energized",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2743
+      "UsersEstimate": 2744
     },
     {
       "ID": "28",
@@ -10893,7 +10898,7 @@
       "Name": "War Never Changes",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1579
+      "UsersEstimate": 1580
     },
     {
       "ID": "36",
@@ -10989,7 +10994,7 @@
       "Name": "Finders, Keepers",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 2161
+      "UsersEstimate": 2162
     },
     {
       "ID": "47",
@@ -10997,7 +11002,7 @@
       "Name": "The Long Haul",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2743
+      "UsersEstimate": 2744
     },
     {
       "ID": "48",
@@ -11140,15 +11145,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 8313,
+      "Progressed": 8314,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-08-14T22:02:11.7403244+00:00",
-  "LastChanged_Achievements": "2023-08-16T04:06:17.2751312+00:00",
+  "LastChanged_Achievements": "2023-08-16T05:07:27.4551604+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:55.9792163+00:00",
-  "LastUpdate_Ratings": "2023-08-16T03:57:05.0629503+00:00",
-  "LastUpdate_Achievements": "2023-08-16T04:06:17.2752536+00:00"
+  "LastUpdate_Ratings": "2023-08-16T04:57:18.0389615+00:00",
+  "LastUpdate_Achievements": "2023-08-16T05:07:27.4552695+00:00"
 }

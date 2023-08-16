@@ -6,13 +6,13 @@ Number of Ratings: 896  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First.. Bit? | 93.00% | ~558,486 |
-| Error: Stack Overflow | 66.00% | ~396,345 |
-| We need more gold | 60.00% | ~360,314 |
-| The dawn of civilization | 53.00% | ~318,277 |
-| More FPS for the FPS god! | 49.00% | ~294,256 |
-| Beauty and harmony | 48.00% | ~288,251 |
-| One more! | 44.00% | ~264,230 |
+| First.. Bit? | 93.00% | ~558,488 |
+| Error: Stack Overflow | 66.00% | ~396,346 |
+| We need more gold | 60.00% | ~360,315 |
+| The dawn of civilization | 53.00% | ~318,278 |
+| More FPS for the FPS god! | 49.00% | ~294,257 |
+| Beauty and harmony | 48.00% | ~288,252 |
+| One more! | 44.00% | ~264,231 |
 | Overmind | 24.00% | ~144,126 |
 | RNG is my best friend now | 18.00% | ~108,094 |
 | Cosplay | 13.00% | ~78,068 |
@@ -35,7 +35,7 @@ Number of Ratings: 896  (23.09.2022)
 | Elements will destroy you! | 0.30% | ~1,802 |
 | The Scrooge | 0.10% | ~601 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 600,523 (Ranked 28)  
+Progressed: 600,525 (Ranked 28)  
 Completed: 516 (0.09%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 516 (0.09%) (Ranked 209)
 | 2023-08-13 | 600,247 | 515 |
 | 2023-08-14 | 600,359 | 516 |
 | 2023-08-15 | 600,498 | 516 |
-| 2023-08-16 | 600,523 | 516 |
+| 2023-08-16 | 600,525 | 516 |
 ## Awards
 Max (Challenging Puzzles): 134  (Ranked 307)  
 Sum: 134 (Ranked 402)  

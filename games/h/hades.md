@@ -6,24 +6,24 @@ Number of Ratings: 6,336  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escaped Tartarus | 89.00% | ~624,216 |
-| Escaped Asphodel | 80.00% | ~561,093 |
-| Arms Collector | 71.00% | ~497,970 |
-| Friends in High Places | 68.00% | ~476,929 |
+| Escaped Tartarus | 89.00% | ~624,217 |
+| Escaped Asphodel | 80.00% | ~561,094 |
+| Arms Collector | 71.00% | ~497,971 |
+| Friends in High Places | 68.00% | ~476,930 |
 | Escaped Elysium | 66.00% | ~462,902 |
 | Chthonic Colleagues | 63.00% | ~441,861 |
-| Is There No Escape? | 52.00% | ~364,710 |
+| Is There No Escape? | 52.00% | ~364,711 |
 | Death Dealer | 45.00% | ~315,615 |
 | Skelly Slayer | 42.00% | ~294,574 |
-| Well Stocked | 40.00% | ~280,546 |
+| Well Stocked | 40.00% | ~280,547 |
 | Back to Work | 38.00% | ~266,519 |
-| Day-or-Night Trader | 37.00% | ~259,505 |
-| Blessed by the Gods | 37.00% | ~259,505 |
+| Day-or-Night Trader | 37.00% | ~259,506 |
+| Blessed by the Gods | 37.00% | ~259,506 |
 | Urge to Sing | 36.00% | ~252,492 |
 | Blood Bound | 35.00% | ~245,478 |
 | Three-Headed Boy | 32.00% | ~224,437 |
-| River Denizens | 28.00% | ~196,382 |
-| Grown Close | 28.00% | ~196,382 |
+| River Denizens | 28.00% | ~196,383 |
+| Grown Close | 28.00% | ~196,383 |
 | Home Makeover | 27.00% | ~189,369 |
 | Had to Happen | 25.00% | ~175,342 |
 | The Family Secret | 25.00% | ~175,342 |
@@ -56,7 +56,7 @@ Number of Ratings: 6,336  (23.09.2022)
 | Thorn of Thanatos | 4.00% | ~28,055 |
 | Friends Forever | 4.00% | ~28,055 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 701,366 (Ranked 21)  
+Progressed: 701,367 (Ranked 21)  
 Completed: 6,300 (0.90%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,7 +174,7 @@ Completed: 6,300 (0.90%) (Ranked 120)
 | 2023-08-13 | 701,194 | 6,294 |
 | 2023-08-14 | 701,274 | 6,299 |
 | 2023-08-15 | 701,356 | 6,300 |
-| 2023-08-16 | 701,366 | 6,300 |
+| 2023-08-16 | 701,367 | 6,300 |
 ## Awards
 Max (Character Customization): 3,217  (Ranked 91)  
 Sum: 7,786 (Ranked 101)  

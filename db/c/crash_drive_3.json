@@ -4,7 +4,7 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 285,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 362,
+  "EOS_Progressed": 363,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -371,6 +371,11 @@
       "Time": "2023-08-14T08:05:31.3929731+00:00",
       "NumProgressed": 362,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-16T05:06:20.160374+00:00",
+      "NumProgressed": 363,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -398,7 +403,7 @@
       "Name": "Fore!",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "CATAPULT_THROW",
@@ -430,7 +435,7 @@
       "Name": "A Starting Collector",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "COLLECT_500_COIN",
@@ -452,9 +457,9 @@
       "ID": "COP_3_ROBBERS",
       "SetID": "20koof9",
       "Name": "Special Forces",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 47
     },
     {
       "ID": "CUSTOMIZATION_BANANA",
@@ -518,7 +523,7 @@
       "Name": "Apprentice Mechanic",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "FULLY_LEVEL_ALL_CARS",
@@ -532,9 +537,9 @@
       "ID": "FULLY_LEVEL_CAR",
       "SetID": "20koof9",
       "Name": "Amateur Mechanic",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 105
     },
     {
       "ID": "HIGHEST_ASTEROID",
@@ -542,7 +547,7 @@
       "Name": "433 Eros",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "HIGH_COMBO_SCORE",
@@ -550,7 +555,7 @@
       "Name": "C-C-C-Combo!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "HIT_10_PLAYERS",
@@ -574,7 +579,7 @@
       "Name": "Earth Defense Force",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "HIT_BIG_SNOWMAN",
@@ -590,7 +595,7 @@
       "Name": "Insurance fraud",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "HIT_FLYING_UFO",
@@ -614,7 +619,7 @@
       "Name": "Best Friends!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "KING_CROWN",
@@ -654,7 +659,7 @@
       "Name": "Snow Fun!",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "LOADED_LVL_TANK",
@@ -670,7 +675,7 @@
       "Name": "Multiply that!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ONE_MILLION_CASH",
@@ -692,9 +697,9 @@
       "ID": "SPIN_1080",
       "SetID": "20koof9",
       "Name": "Feeling Dizzy?",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 65
     },
     {
       "ID": "STUNT_EVENT",
@@ -734,7 +739,7 @@
       "Name": "Rocketman",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "USE_TUNNEL",
@@ -758,7 +763,7 @@
       "Name": "Event Amateur",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "WIN_50_EVENTS",
@@ -821,7 +826,7 @@
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 362,
+      "Progressed": 363,
       "Completed": 2
     }
   ],
@@ -829,8 +834,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-08-16T04:05:21.7277611+00:00",
+  "LastChanged_Achievements": "2023-08-16T05:06:20.1603735+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:32.0252411+00:00",
-  "LastUpdate_Ratings": "2023-08-16T03:59:46.2258893+00:00",
-  "LastUpdate_Achievements": "2023-08-16T04:05:21.7278181+00:00"
+  "LastUpdate_Ratings": "2023-08-16T05:00:35.2497635+00:00",
+  "LastUpdate_Achievements": "2023-08-16T05:06:20.1604257+00:00"
 }

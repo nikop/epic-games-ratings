@@ -5,14 +5,14 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Fire in the... nevermind | 50.00% | ~54 |
-| Chapter I | 49.00% | ~52 |
-| Haute cuisine | 44.00% | ~47 |
+| Chapter I | 48.00% | ~52 |
+| Haute cuisine | 44.00% | ~48 |
 | I didn't do it! | 39.00% | ~42 |
-| Demolition expert | 36.00% | ~39 |
-| Wooooooow! | 35.00% | ~37 |
-| Artistic fool | 34.00% | ~36 |
-| Keep away from children | 34.00% | ~36 |
-| Open up wide | 32.00% | ~34 |
+| Demolition expert | 35.00% | ~38 |
+| Wooooooow! | 34.00% | ~37 |
+| Artistic fool | 33.00% | ~36 |
+| Keep away from children | 33.00% | ~36 |
+| Open up wide | 31.00% | ~33 |
 | Chapter II | 30.00% | ~32 |
 | Let the boot talk | 28.00% | ~30 |
 | Achoo!! | 28.00% | ~30 |
@@ -21,12 +21,12 @@
 | Bubblekillerfamily | 24.00% | ~26 |
 | Quite a buggy game | 23.00% | ~25 |
 | Mirror mirror on the wall... | 23.00% | ~25 |
-| Shadow on the wall | 21.00% | ~22 |
-| Handyman | 21.00% | ~22 |
-| Fastidious Clown | 21.00% | ~22 |
-| It's not easy being green! | 21.00% | ~22 |
-| Home is where the heart is | 21.00% | ~22 |
-| Pacifist | 20.00% | ~21 |
+| Shadow on the wall | 21.00% | ~23 |
+| Handyman | 21.00% | ~23 |
+| Fastidious Clown | 21.00% | ~23 |
+| It's not easy being green! | 20.00% | ~22 |
+| Home is where the heart is | 20.00% | ~22 |
+| Pacifist | 19.00% | ~21 |
 | Master of Thermodynamics | 16.00% | ~17 |
 | Death is a part of life | 16.00% | ~17 |
 | Unfullfilled dreams | 14.00% | ~15 |
@@ -37,7 +37,7 @@
 | Lollipop | 8.00% | ~9 |
 | Where there is life, there is hope | 8.00% | ~9 |
 | It's nothing personal | 8.00% | ~9 |
-| Artistic master | 7.00% | ~7 |
+| Artistic master | 6.00% | ~6 |
 | Sadist | 6.00% | ~6 |
 | Fartjokes! | 6.00% | ~6 |
 | The hands of a healer | 6.00% | ~6 |
@@ -51,7 +51,7 @@
 | Done. First! | 0.90% | ~1 |
 | Do not feed the fish! | 0.90% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 107 (Ranked 319)  
+Progressed: 108 (Ranked 319)  
 Completed: 0 (0.00%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,6 +70,7 @@ Completed: 0 (0.00%) (Ranked 257)
 | 2023-08-12 | 102 | 0 |
 | 2023-08-13 | 104 | 0 |
 | 2023-08-14 | 107 | 0 |
+| 2023-08-16 | 108 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

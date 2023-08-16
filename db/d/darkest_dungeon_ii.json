@@ -6837,9 +6837,9 @@
       "Count": 908
     }
   ],
-  "EOS_Progressed": 114662,
+  "EOS_Progressed": 114663,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 681,
+  "EOS_NewPlayers": 679,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18227,6 +18227,11 @@
       "Time": "2023-08-16T04:03:10.4644969+00:00",
       "NumProgressed": 114662,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-16T05:03:44.9147396+00:00",
+      "NumProgressed": 114663,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 65,
@@ -18238,7 +18243,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 80263
+      "UsersEstimate": 80264
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -18246,7 +18251,7 @@
       "Name": "Serenity Now!",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 59624
+      "UsersEstimate": 59625
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -18270,7 +18275,7 @@
       "Name": "Resurrection",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 71090
+      "UsersEstimate": 71091
     },
     {
       "ID": "altar_of_hope_unlock_hero_hellion",
@@ -18278,7 +18283,7 @@
       "Name": "Unleash Hell",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 77970
+      "UsersEstimate": 77971
     },
     {
       "ID": "altar_of_hope_unlock_hero_jester",
@@ -18294,7 +18299,7 @@
       "Name": "Long Live the King",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 75677
+      "UsersEstimate": 75678
     },
     {
       "ID": "altar_of_hope_unlock_hero_occultist",
@@ -18302,7 +18307,7 @@
       "Name": "Wyrdly Reconstructed",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 71090
+      "UsersEstimate": 71091
     },
     {
       "ID": "altar_of_hope_unlock_hero_runaway",
@@ -18310,7 +18315,7 @@
       "Name": "Boxcar Kid",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 68797
+      "UsersEstimate": 68798
     },
     {
       "ID": "altar_of_hope_unlock_hero_vestal",
@@ -18318,7 +18323,7 @@
       "Name": "Unfulfilled Desires",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 77970
+      "UsersEstimate": 77971
     },
     {
       "ID": "altar_of_hope_upgrade_total_full",
@@ -18326,7 +18331,7 @@
       "Name": "The World As It Was",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 4586
+      "UsersEstimate": 4587
     },
     {
       "ID": "altar_of_hope_upgrade_total_half",
@@ -18342,7 +18347,7 @@
       "Name": "Hope Rekindled",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 57331
+      "UsersEstimate": 57332
     },
     {
       "ID": "application_start_on_release_anniversary",
@@ -18398,7 +18403,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 37838
+      "UsersEstimate": 37839
     },
     {
       "ID": "combat_kill_fanatics",
@@ -18406,7 +18411,7 @@
       "Name": "Deprogramming",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 13759
+      "UsersEstimate": 13760
     },
     {
       "ID": "combat_kill_fisherfolk",
@@ -18422,7 +18427,7 @@
       "Name": "Now Stay Dead",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 41278
+      "UsersEstimate": 41279
     },
     {
       "ID": "combat_kill_gentry",
@@ -18462,7 +18467,7 @@
       "Name": "Overdue Notice",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 35545
+      "UsersEstimate": 35546
     },
     {
       "ID": "combat_kill_pillagers",
@@ -18534,7 +18539,7 @@
       "Name": "Rush Hour",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 68797
+      "UsersEstimate": 68798
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -18550,7 +18555,7 @@
       "Name": "Harvest Festival",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 41278
+      "UsersEstimate": 41279
     },
     {
       "ID": "driving_biome_clear_forest",
@@ -18558,7 +18563,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 68797
+      "UsersEstimate": 68798
     },
     {
       "ID": "driving_distance_easy",
@@ -18614,7 +18619,7 @@
       "Name": "Whale",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 35545
+      "UsersEstimate": 35546
     },
     {
       "ID": "hospital_full_service",
@@ -18630,7 +18635,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 106636
+      "UsersEstimate": 106637
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -18686,7 +18691,7 @@
       "Name": "Nope",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 53891
+      "UsersEstimate": 53892
     },
     {
       "ID": "run_victory_act01",
@@ -18702,7 +18707,7 @@
       "Name": "Hot Air",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 41278
+      "UsersEstimate": 41279
     },
     {
       "ID": "run_victory_act03",
@@ -18710,7 +18715,7 @@
       "Name": "Eyes Up",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 22932
+      "UsersEstimate": 22933
     },
     {
       "ID": "run_victory_act04",
@@ -18757,15 +18762,15 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 114662,
+      "Progressed": 114663,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-08-15T10:57:04.970018+00:00",
-  "LastChanged_Achievements": "2023-08-16T04:03:10.4644963+00:00",
+  "LastChanged_Achievements": "2023-08-16T05:03:44.9147377+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:59.9837594+00:00",
-  "LastUpdate_Ratings": "2023-08-16T03:57:04.5783495+00:00",
-  "LastUpdate_Achievements": "2023-08-16T04:03:10.464637+00:00"
+  "LastUpdate_Ratings": "2023-08-16T04:57:17.457951+00:00",
+  "LastUpdate_Achievements": "2023-08-16T05:03:44.9149022+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -214,7 +214,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1503,
+  "EOS_Progressed": 1504,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
@@ -3174,6 +3174,11 @@
       "Time": "2023-08-15T17:06:45.923043+00:00",
       "NumProgressed": 1503,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-16T05:06:30.7575612+00:00",
+      "NumProgressed": 1504,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3255,9 +3260,9 @@
       "ID": "ACHIEVEMENT_THE_COLLECTOR",
       "SetID": "l546gc",
       "Name": "The Collector",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 256
+      "UsersEstimate": 241
     },
     {
       "ID": "ACHIEVEMENT_ZERO_WASTE",
@@ -3441,7 +3446,7 @@
       "Name": "I don\u0027t feel so good",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -3568,7 +3573,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1503,
+      "Progressed": 1504,
       "Completed": 0
     }
   ],
@@ -3576,8 +3581,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-08-11T16:58:33.8212432+00:00",
-  "LastChanged_Achievements": "2023-08-16T04:05:29.9851047+00:00",
+  "LastChanged_Achievements": "2023-08-16T05:06:30.7575607+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:18.7138767+00:00",
-  "LastUpdate_Ratings": "2023-08-16T03:58:32.5617123+00:00",
-  "LastUpdate_Achievements": "2023-08-16T04:05:29.9851606+00:00"
+  "LastUpdate_Ratings": "2023-08-16T04:59:06.9608425+00:00",
+  "LastUpdate_Achievements": "2023-08-16T05:06:30.7576185+00:00"
 }

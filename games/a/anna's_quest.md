@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Escape artist | 76.00% | ~26 |
+| Through the woods | 65.00% | ~22 |
 | Book Worm | 65.00% | ~22 |
+| My lost nightingale | 65.00% | ~22 |
 | Ooh, it's shiny! | 65.00% | ~22 |
-| Through the woods | 62.00% | ~21 |
-| My lost nightingale | 62.00% | ~21 |
 | Back to the anvil | 56.00% | ~19 |
 | Roostwig has entered the building | 53.00% | ~18 |
 | Mystery solved | 50.00% | ~17 |
@@ -23,19 +23,19 @@
 | A very special drink | 44.00% | ~15 |
 | Close the deal | 41.00% | ~14 |
 | Show me your true self | 41.00% | ~14 |
+| Little genius | 41.00% | ~14 |
 | GG | 38.00% | ~13 |
 | You've got mail! | 38.00% | ~13 |
 | No posters allowed | 38.00% | ~13 |
-| Little genius | 38.00% | ~13 |
 | Shattered | 35.00% | ~12 |
 | Memories | 35.00% | ~12 |
 | Ring-a-ding-ding | 35.00% | ~12 |
 | Pain in the hands | 35.00% | ~12 |
 | Mischief maker | 35.00% | ~12 |
 | Beekeeper | 32.00% | ~11 |
+| Makeover | 32.00% | ~11 |
 | Singstar | 32.00% | ~11 |
 | Turn the last page | 29.00% | ~10 |
-| Makeover | 29.00% | ~10 |
 | Guilty conscience | 29.00% | ~10 |
 | Kill it! KILL IT! | 29.00% | ~10 |
 | Cameodalic | 24.00% | ~8 |
