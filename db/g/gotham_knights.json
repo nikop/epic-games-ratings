@@ -2426,9 +2426,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 67861,
+  "EOS_Progressed": 67862,
   "EOS_Completed": 107,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -12491,6 +12491,11 @@
       "Time": "2023-08-16T01:45:04.6106882+00:00",
       "NumProgressed": 67861,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2023-08-16T12:05:55.1909393+00:00",
+      "NumProgressed": 67862,
+      "NumCompleted": 107
     }
   ],
   "TotalAchievements": 61,
@@ -12550,7 +12555,7 @@
       "Name": "The Batman Family",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 14929
+      "UsersEstimate": 14930
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -12686,7 +12691,7 @@
       "Name": "Out of Their League",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6107
+      "UsersEstimate": 6108
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -12806,7 +12811,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 23751
+      "UsersEstimate": 23752
     },
     {
       "ID": "HARLEY_2",
@@ -12814,7 +12819,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 16965
+      "UsersEstimate": 16966
     },
     {
       "ID": "HARLEY_3",
@@ -12846,7 +12851,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 33930
+      "UsersEstimate": 33931
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -12878,7 +12883,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 18322
+      "UsersEstimate": 18323
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -12902,7 +12907,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 16965
+      "UsersEstimate": 16966
     },
     {
       "ID": "MYSTERY_03",
@@ -12910,7 +12915,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 14929
+      "UsersEstimate": 14930
     },
     {
       "ID": "MYSTERY_04",
@@ -12966,7 +12971,7 @@
       "Name": "Solid Alibi",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6107
+      "UsersEstimate": 6108
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -12989,13 +12994,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 67861,
+      "Progressed": 67862,
       "Completed": 107
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 38141,
+      "Progressed": 38142,
       "Completed": 2658
     }
   ],
@@ -13003,8 +13008,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-08-16T00:01:38.1733467+00:00",
-  "LastChanged_Achievements": "2023-08-16T11:06:25.0426559+00:00",
+  "LastChanged_Achievements": "2023-08-16T12:05:55.1909387+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:49.7416919+00:00",
-  "LastUpdate_Ratings": "2023-08-16T11:01:38.9960495+00:00",
-  "LastUpdate_Achievements": "2023-08-16T11:06:25.0427757+00:00"
+  "LastUpdate_Ratings": "2023-08-16T12:00:27.3382412+00:00",
+  "LastUpdate_Achievements": "2023-08-16T12:05:55.1910619+00:00"
 }

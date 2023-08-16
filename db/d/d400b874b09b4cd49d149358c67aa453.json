@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 249,
+  "EOS_Progressed": 250,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -746,6 +746,11 @@
       "Time": "2023-08-16T03:06:08.4617278+00:00",
       "NumProgressed": 249,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-16T12:06:03.2327329+00:00",
+      "NumProgressed": 250,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-04T13:10:46.6045542+00:00",
@@ -796,9 +801,9 @@
       "ID": "ACH_END_ALL_WORKBENCH_MISSIONS",
       "SetID": "al4k4nh",
       "Name": "Enough workbench",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_END_FIRST_MAIL_MISSION",
@@ -806,7 +811,7 @@
       "Name": "I love customers",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "ACH_END_FIRST_TUTORIAL",
@@ -814,7 +819,7 @@
       "Name": "Ready to go",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "ACH_END_FIRST_WORKBENCH_MISSION",
@@ -822,7 +827,7 @@
       "Name": "I can fix that",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "ACH_END_MAIL_MISSION_FAST",
@@ -838,7 +843,7 @@
       "Name": "First shock",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ACH_FIX_LIGHT_SWITCHES",
@@ -846,7 +851,7 @@
       "Name": "Illuminator",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_FIX_OUTLETS",
@@ -854,7 +859,7 @@
       "Name": "Here comes electricity",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_GET_ALL_MAILS",
@@ -902,7 +907,7 @@
       "Name": "Home sweet home",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "ACH_PLACE_MANY_ITEMS_IN_OFFICE",
@@ -910,7 +915,7 @@
       "Name": "Huge electricity bill",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_REPAIR_GAME_ITEMS",
@@ -918,7 +923,7 @@
       "Name": "Video Games Lover",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_SELL_ALL_DEBRIS",
@@ -926,7 +931,7 @@
       "Name": "Unpacked",
       "Percentage": 98,
       "XP": 15,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "ACH_SHOCK_ON_MISSION",
@@ -965,14 +970,14 @@
     {
       "ID": "al4k4nh",
       "IsBase": true,
-      "Progressed": 249,
+      "Progressed": 250,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2023-08-16T11:06:32.787582+00:00",
+  "LastChanged_Achievements": "2023-08-16T12:06:03.2327323+00:00",
   "LastUpdate_AppInfo": "2023-08-09T17:56:58.4992812+00:00",
-  "LastUpdate_Ratings": "2023-08-16T10:58:51.5017467+00:00",
-  "LastUpdate_Achievements": "2023-08-16T11:06:32.7876053+00:00"
+  "LastUpdate_Ratings": "2023-08-16T11:58:05.4537095+00:00",
+  "LastUpdate_Achievements": "2023-08-16T12:06:03.2327569+00:00"
 }

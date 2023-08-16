@@ -21,8 +21,8 @@ Number of Ratings: 368  (23.09.2022)
 | Workers' union | 18.00% | ~2,628 |
 | End of Book Two | 18.00% | ~2,628 |
 | Everything's in order | 17.00% | ~2,482 |
+| Jack was here! | 15.00% | ~2,190 |
 | Twist of Fate | 14.00% | ~2,044 |
-| Jack was here! | 14.00% | ~2,044 |
 | Exterminator | 13.00% | ~1,898 |
 | Whodunnit | 13.00% | ~1,898 |
 | Good midwife | 11.00% | ~1,606 |

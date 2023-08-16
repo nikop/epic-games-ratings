@@ -574,7 +574,7 @@
       "Count": 216
     }
   ],
-  "EOS_Progressed": 465348,
+  "EOS_Progressed": 465349,
   "EOS_Completed": 17,
   "EOS_NewPlayers": 519,
   "EOS_NewCompleters": 1,
@@ -12819,6 +12819,11 @@
       "Time": "2023-08-16T11:05:47.3658028+00:00",
       "NumProgressed": 465348,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-08-16T12:05:16.3036802+00:00",
+      "NumProgressed": 465349,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 79,
@@ -13254,7 +13259,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 204753
+      "UsersEstimate": 204754
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -13262,7 +13267,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 139604
+      "UsersEstimate": 139605
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -13461,21 +13466,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 9282,
+      "Progressed": 9283,
       "Completed": 2355
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 465348,
+      "Progressed": 465349,
       "Completed": 17
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-08-15T14:00:50.2663605+00:00",
-  "LastChanged_Achievements": "2023-08-16T11:05:47.3658022+00:00",
+  "LastChanged_Achievements": "2023-08-16T12:05:16.3036797+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:04.9098517+00:00",
-  "LastUpdate_Ratings": "2023-08-16T11:01:07.7426324+00:00",
-  "LastUpdate_Achievements": "2023-08-16T11:05:47.3659612+00:00"
+  "LastUpdate_Ratings": "2023-08-16T11:59:59.3633136+00:00",
+  "LastUpdate_Achievements": "2023-08-16T12:05:16.3038501+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
@@ -135,9 +135,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 345,
+  "EOS_Progressed": 346,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -980,6 +980,11 @@
       "Time": "2023-08-13T19:04:55.4420213+00:00",
       "NumProgressed": 345,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-16T12:04:20.6004374+00:00",
+      "NumProgressed": 346,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 31,
@@ -991,7 +996,7 @@
       "Name": "Digger",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ACH_ALL_TELEPORTS",
@@ -1021,9 +1026,9 @@
       "ID": "ACH_COLLECT_100_SCRAP",
       "SetID": "7c4cldc",
       "Name": "Scrap Master",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 141
+      "UsersEstimate": 138
     },
     {
       "ID": "ACH_COLLECT_10_HERBS",
@@ -1039,15 +1044,15 @@
       "Name": "Mushroom Picker",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "ACH_COLLECT_20_RED_BOOKS",
       "SetID": "7c4cldc",
       "Name": "Master Of Technology",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 66
+      "UsersEstimate": 62
     },
     {
       "ID": "ACH_COLLECT_20_YELLOW_BOOKS",
@@ -1055,7 +1060,7 @@
       "Name": "Blacksmith",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_COLLECT_30_BLUE_BOOKS",
@@ -1079,7 +1084,7 @@
       "Name": "Scrap Gatherer",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "ACH_COOK",
@@ -1087,7 +1092,7 @@
       "Name": "Cook",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ACH_CUT_100_TREES",
@@ -1127,7 +1132,7 @@
       "Name": "My New Home",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "ACH_KILL_100",
@@ -1143,7 +1148,7 @@
       "Name": "Scrapper",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACH_KILL_50",
@@ -1151,15 +1156,15 @@
       "Name": "Robot Destroyer",
       "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ACH_MAKE_CANNED_FOOD",
       "SetID": "7c4cldc",
       "Name": "Prepper",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH_MAKE_FUEL",
@@ -1167,7 +1172,7 @@
       "Name": "Fuel",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_METEORITE_SMELTER",
@@ -1175,7 +1180,7 @@
       "Name": "Smelting Master",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_MYTHRIL_SMELTER",
@@ -1221,9 +1226,9 @@
       "ID": "ACH_SURVIVE_40_DAYS",
       "SetID": "7c4cldc",
       "Name": "Survival Master",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 21
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_TELEPORT",
@@ -1231,14 +1236,14 @@
       "Name": "Teleport",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     }
   ],
   "AchievementSets": [
     {
       "ID": "7c4cldc",
       "IsBase": true,
-      "Progressed": 345,
+      "Progressed": 346,
       "Completed": 1
     }
   ],
@@ -1246,8 +1251,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-06-01T06:59:03.7150344+00:00",
-  "LastChanged_Achievements": "2023-08-16T11:04:42.2119212+00:00",
+  "LastChanged_Achievements": "2023-08-16T12:04:20.600437+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:12.6952772+00:00",
-  "LastUpdate_Ratings": "2023-08-16T11:00:15.4641625+00:00",
-  "LastUpdate_Achievements": "2023-08-16T11:04:42.2119507+00:00"
+  "LastUpdate_Ratings": "2023-08-16T11:59:19.6230467+00:00",
+  "LastUpdate_Achievements": "2023-08-16T12:04:20.6004618+00:00"
 }

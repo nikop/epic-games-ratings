@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 21,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -648,7 +648,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 213066,
+  "EOS_Progressed": 213086,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 3821,
   "EOS_NewCompleters": 2,
@@ -7118,6 +7118,11 @@
       "Time": "2023-08-16T11:05:12.8968733+00:00",
       "NumProgressed": 213066,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-16T12:04:41.4864457+00:00",
+      "NumProgressed": 213086,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -7127,9 +7132,9 @@
       "ID": "10000Gold",
       "SetID": "50chcgj",
       "Name": "Livin\u0027 in a dwarven paradise",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 852
+      "UsersEstimate": 1065
     },
     {
       "ID": "100Fail",
@@ -7185,7 +7190,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1491
+      "UsersEstimate": 1492
     },
     {
       "ID": "Chapter3",
@@ -7577,7 +7582,7 @@
       "Name": "Sowwy!",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 31960
+      "UsersEstimate": 31963
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -7593,7 +7598,7 @@
       "Name": "GG EZ",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1278
+      "UsersEstimate": 1279
     },
     {
       "ID": "EndCombatOneHp",
@@ -7601,7 +7606,7 @@
       "Name": "DM intervention",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1278
+      "UsersEstimate": 1279
     },
     {
       "ID": "EndGameCursed",
@@ -7777,7 +7782,7 @@
       "Name": "Speedrun",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1491
+      "UsersEstimate": 1492
     },
     {
       "ID": "SupportCount4",
@@ -7823,30 +7828,30 @@
       "ID": "WizardResistBurn",
       "SetID": "50chcgj",
       "Name": "Fireproof Wizardess",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1278
+      "UsersEstimate": 1492
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 213066,
+      "Progressed": 213086,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 213066,
+      "Progressed": 213086,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-15T01:40:21.2095498+00:00",
-  "LastChanged_Achievements": "2023-08-16T11:05:12.8968726+00:00",
+  "LastChanged_Achievements": "2023-08-16T12:04:41.4864452+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:49.6773731+00:00",
-  "LastUpdate_Ratings": "2023-08-16T11:00:53.7097357+00:00",
-  "LastUpdate_Achievements": "2023-08-16T11:05:12.897025+00:00"
+  "LastUpdate_Ratings": "2023-08-16T11:59:49.6525652+00:00",
+  "LastUpdate_Achievements": "2023-08-16T12:04:41.4866032+00:00"
 }

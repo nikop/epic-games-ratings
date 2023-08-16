@@ -237,9 +237,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 199216,
+  "EOS_Progressed": 199219,
   "EOS_Completed": 481,
-  "EOS_NewPlayers": 594,
+  "EOS_NewPlayers": 595,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -12867,6 +12867,11 @@
       "Time": "2023-08-16T11:03:59.5797771+00:00",
       "NumProgressed": 199216,
       "NumCompleted": 481
+    },
+    {
+      "Time": "2023-08-16T12:03:38.5195677+00:00",
+      "NumProgressed": 199219,
+      "NumCompleted": 481
     }
   ],
   "TotalAchievements": 29,
@@ -12902,7 +12907,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 187263
+      "UsersEstimate": 187266
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -12950,7 +12955,7 @@
       "Name": "Answers can be found amongst the stars",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5976
+      "UsersEstimate": 5977
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTED",
@@ -13046,7 +13051,7 @@
       "Name": "Bend to the will of the arrows.",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5976
+      "UsersEstimate": 5977
     },
     {
       "ID": "ACHIEVEMENT_SECRET",
@@ -13109,7 +13114,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 199216,
+      "Progressed": 199219,
       "Completed": 481
     }
   ],
@@ -13117,8 +13122,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-08-12T04:00:44.2118416+00:00",
-  "LastChanged_Achievements": "2023-08-16T11:03:59.5797766+00:00",
+  "LastChanged_Achievements": "2023-08-16T12:03:38.5195672+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:39.8654099+00:00",
-  "LastUpdate_Ratings": "2023-08-16T11:00:38.2386233+00:00",
-  "LastUpdate_Achievements": "2023-08-16T11:03:59.5798743+00:00"
+  "LastUpdate_Ratings": "2023-08-16T11:59:38.8896607+00:00",
+  "LastUpdate_Achievements": "2023-08-16T12:03:38.5196713+00:00"
 }

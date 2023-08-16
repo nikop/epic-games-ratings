@@ -35,8 +35,8 @@ Rating: 4.20 (Ranked 854)
 | Armed to the Teeth | 0.60% | ~23 |
 | Information Overload | 0.60% | ~23 |
 | Grim Reaper | 0.50% | ~79 |
+| Parole Denied | 0.50% | ~19 |
 | Big Spender | 0.50% | ~19 |
-| Parole Denied | 0.40% | ~15 |
 | Quick Pick | 0.40% | ~15 |
 | Mugshot | 0.30% | ~48 |
 | Instigator | 0.30% | ~11 |

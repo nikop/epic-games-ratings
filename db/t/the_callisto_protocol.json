@@ -6607,9 +6607,9 @@
       "ID": "FINISH_NEW_GAME_PLUS",
       "SetID": "6j5ggkc",
       "Name": "Parole Denied",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 19
     },
     {
       "ID": "GRP_25_ENEMIES",
@@ -6902,8 +6902,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-08-14T16:00:12.9614903+00:00",
-  "LastChanged_Achievements": "2023-08-16T11:03:40.2873788+00:00",
+  "LastChanged_Achievements": "2023-08-16T12:03:18.0322407+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:43.323219+00:00",
-  "LastUpdate_Ratings": "2023-08-16T10:59:47.5432824+00:00",
-  "LastUpdate_Achievements": "2023-08-16T11:03:40.2874531+00:00"
+  "LastUpdate_Ratings": "2023-08-16T11:58:55.1377485+00:00",
+  "LastUpdate_Achievements": "2023-08-16T12:03:18.032308+00:00"
 }

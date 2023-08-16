@@ -6,26 +6,26 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 74.00% | ~3,932 |
-| Having A Field Day | 74.00% | ~3,932 |
-| Reap What You Sow | 71.00% | ~3,772 |
-| The First Day | 68.00% | ~3,613 |
-| Green Thumb | 66.00% | ~3,507 |
-| Novice Researcher | 65.00% | ~3,453 |
-| Putting Food on the Table | 59.00% | ~3,135 |
-| Home Cooked Meal | 56.00% | ~2,975 |
-| Onward | 55.00% | ~2,922 |
-| The First Week | 53.00% | ~2,816 |
-| Studious Researcher | 51.00% | ~2,710 |
-| Beam Me Up | 50.00% | ~2,656 |
-| Feast or Famine | 49.00% | ~2,603 |
-| Adept Researcher | 44.00% | ~2,338 |
-| Retribution | 40.00% | ~2,125 |
-| ...And Don’t Come Back! | 40.00% | ~2,125 |
-| Fit For A King | 38.00% | ~2,019 |
-| Luminary Researcher | 33.00% | ~1,753 |
+| Get A Room | 74.00% | ~3,933 |
+| Having A Field Day | 74.00% | ~3,933 |
+| Reap What You Sow | 71.00% | ~3,774 |
+| The First Day | 68.00% | ~3,614 |
+| Green Thumb | 66.00% | ~3,508 |
+| Novice Researcher | 65.00% | ~3,455 |
+| Putting Food on the Table | 59.00% | ~3,136 |
+| Home Cooked Meal | 57.00% | ~3,030 |
+| Onward | 55.00% | ~2,923 |
+| The First Week | 53.00% | ~2,817 |
+| Studious Researcher | 51.00% | ~2,711 |
+| Beam Me Up | 50.00% | ~2,658 |
+| Feast or Famine | 49.00% | ~2,604 |
+| Adept Researcher | 44.00% | ~2,339 |
+| Retribution | 40.00% | ~2,126 |
+| ...And Don’t Come Back! | 40.00% | ~2,126 |
+| Fit For A King | 38.00% | ~2,020 |
+| Luminary Researcher | 33.00% | ~1,754 |
 | Heating Up | 29.00% | ~1,541 |
-| Winter Is Coming | 26.00% | ~1,381 |
+| Winter Is Coming | 26.00% | ~1,382 |
 | Winter Is Here | 23.00% | ~1,222 |
 | Disassembled | 20.00% | ~1,063 |
 | A Party Now | 20.00% | ~1,063 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~106 |
 | Wabbit Season | 0.50% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,313 (Ranked 137)  
+Progressed: 5,315 (Ranked 137)  
 Completed: 10 (0.19%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 10 (0.19%) (Ranked 186)
 | 2023-08-13 | 5,276 | 10 |
 | 2023-08-14 | 5,286 | 10 |
 | 2023-08-15 | 5,308 | 10 |
-| 2023-08-16 | 5,313 | 10 |
+| 2023-08-16 | 5,315 | 10 |
 ## Awards
 Max (Relaxing): 121  (Ranked 315)  
 Sum: 972 (Ranked 240)  

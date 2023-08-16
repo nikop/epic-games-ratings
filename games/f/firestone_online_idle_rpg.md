@@ -15,9 +15,9 @@ Rating: 4.05 (Ranked 920)
 | The game is on | 20.00% | ~362 |
 | Exotic Merchant | 18.00% | ~326 |
 | Dragon Clicker | 17.00% | ~308 |
+| Miner Clicker | 17.00% | ~308 |
 | Full Party | 16.00% | ~290 |
 | Inspection | 16.00% | ~290 |
-| Miner Clicker | 16.00% | ~290 |
 | Dragon Master | 15.00% | ~272 |
 | Enlightenment | 15.00% | ~272 |
 | Hero inspection | 14.00% | ~253 |
@@ -43,6 +43,7 @@ Rating: 4.05 (Ranked 920)
 | Master Enchanter | 9.00% | ~163 |
 | The father of Dragons | 9.00% | ~163 |
 | Trader | 8.00% | ~145 |
+| Blueprint Upgrades | 7.00% | ~127 |
 | Crystal Mining | 7.00% | ~127 |
 | Dragon Slayer | 7.00% | ~127 |
 | Enchanting skill | 7.00% | ~127 |
@@ -50,7 +51,6 @@ Rating: 4.05 (Ranked 920)
 | The Expeditioner | 7.00% | ~127 |
 | Weekly Quest Completionist | 7.00% | ~127 |
 | Ancient Knowledge | 6.00% | ~109 |
-| Blueprint Upgrades | 6.00% | ~109 |
 | How Do You Turn This On? | 6.00% | ~109 |
 | Lock And Load | 6.00% | ~109 |
 | Missions Dedication | 6.00% | ~109 |

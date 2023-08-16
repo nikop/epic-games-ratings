@@ -5021,9 +5021,9 @@
       "ID": "blueprintupgrades",
       "SetID": "3nl4bcg",
       "Name": "Blueprint Upgrades",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 127
     },
     {
       "ID": "cauldronliberator",
@@ -5309,9 +5309,9 @@
       "ID": "minerclicker",
       "SetID": "3nl4bcg",
       "Name": "Miner Clicker",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 290
+      "UsersEstimate": 308
     },
     {
       "ID": "missionsdedication",
@@ -5582,8 +5582,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-08-10T20:59:32.9674394+00:00",
-  "LastChanged_Achievements": "2023-08-16T11:05:35.3589394+00:00",
+  "LastChanged_Achievements": "2023-08-16T12:05:04.4735853+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:43.3889946+00:00",
-  "LastUpdate_Ratings": "2023-08-16T10:59:44.4995036+00:00",
-  "LastUpdate_Achievements": "2023-08-16T11:05:35.3590495+00:00"
+  "LastUpdate_Ratings": "2023-08-16T11:58:53.1765521+00:00",
+  "LastUpdate_Achievements": "2023-08-16T12:05:04.4736967+00:00"
 }

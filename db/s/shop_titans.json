@@ -2,13 +2,13 @@
   "ID": "9696e0c7c26841789a152588c744d506",
   "Name": "Shop Titans",
   "ProductSlug": "shop-titans-d95c1c",
-  "Ranking_Rating": 930,
+  "Ranking_Rating": 931,
   "Ranking_Popularity": 71,
   "Ranking_PopularitySum": 47,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -5620,7 +5620,7 @@
       "Count": 3734
     }
   ],
-  "EOS_Progressed": 134594,
+  "EOS_Progressed": 134598,
   "EOS_Completed": 133,
   "EOS_NewPlayers": 408,
   "EOS_NewCompleters": 2,
@@ -17665,6 +17665,11 @@
       "Time": "2023-08-16T11:05:47.3063079+00:00",
       "NumProgressed": 134594,
       "NumCompleted": 133
+    },
+    {
+      "Time": "2023-08-16T12:05:16.3839717+00:00",
+      "NumProgressed": 134598,
+      "NumCompleted": 133
     }
   ],
   "TotalAchievements": 112,
@@ -18146,9 +18151,9 @@
       "ID": "gold01",
       "SetID": "anfd17p",
       "Name": "Tinkle of Coins",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1211
+      "UsersEstimate": 1346
     },
     {
       "ID": "gold02",
@@ -18571,15 +18576,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 134594,
+      "Progressed": 134598,
       "Completed": 133
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-08-16T02:59:37.0786736+00:00",
-  "LastChanged_Achievements": "2023-08-16T11:05:47.3063074+00:00",
+  "LastChanged_Achievements": "2023-08-16T12:05:16.3839712+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:13.9096409+00:00",
-  "LastUpdate_Ratings": "2023-08-16T11:00:16.2910206+00:00",
-  "LastUpdate_Achievements": "2023-08-16T11:05:47.3065515+00:00"
+  "LastUpdate_Ratings": "2023-08-16T11:59:20.57573+00:00",
+  "LastUpdate_Achievements": "2023-08-16T12:05:16.3842015+00:00"
 }
