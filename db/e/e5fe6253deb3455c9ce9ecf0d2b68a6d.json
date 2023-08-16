@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 132,
+  "EOS_Progressed": 133,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -406,6 +406,11 @@
       "Time": "2023-08-16T17:03:21.6558782+00:00",
       "NumProgressed": 132,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-16T18:03:09.2014125+00:00",
+      "NumProgressed": 133,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-07T18:00:21.0046811+00:00",
@@ -432,9 +437,9 @@
       "ID": "Dissatisfaction",
       "SetID": "cjfnji1",
       "Name": "Critical dissatisfaction",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "Full",
@@ -442,7 +447,7 @@
       "Name": "Full load",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "Island",
@@ -458,7 +463,7 @@
       "Name": "In the last second",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "Master",
@@ -512,9 +517,9 @@
       "ID": "USSR",
       "SetID": "cjfnji1",
       "Name": "Back to USSR",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Upgrades",
@@ -529,14 +534,14 @@
     {
       "ID": "cjfnji1",
       "IsBase": true,
-      "Progressed": 132,
+      "Progressed": 133,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-11T01:35:20.9956349+00:00",
   "FirstSeenAchievements": "2023-08-07T18:00:21.004681+00:00",
-  "LastChanged_Achievements": "2023-08-16T17:03:21.6558774+00:00",
+  "LastChanged_Achievements": "2023-08-16T18:03:09.2014121+00:00",
   "LastUpdate_AppInfo": "2023-08-14T17:57:19.8176911+00:00",
-  "LastUpdate_Ratings": "2023-08-16T16:58:00.0573945+00:00",
-  "LastUpdate_Achievements": "2023-08-16T17:03:21.6558939+00:00"
+  "LastUpdate_Ratings": "2023-08-16T17:57:39.2560636+00:00",
+  "LastUpdate_Achievements": "2023-08-16T18:03:09.2014227+00:00"
 }

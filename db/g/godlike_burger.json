@@ -79,9 +79,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 407,
+  "EOS_Progressed": 408,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -799,6 +799,11 @@
       "Time": "2023-08-15T21:03:21.9152362+00:00",
       "NumProgressed": 407,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-16T18:03:45.138032+00:00",
+      "NumProgressed": 408,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 28,
@@ -850,7 +855,7 @@
       "Name": "EXPERIMENTALIST",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "GB_FIRST_BLOOD",
@@ -858,7 +863,7 @@
       "Name": "FIRST BLOOD",
       "Percentage": 76,
       "XP": 25,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "GB_GOURMET",
@@ -890,7 +895,7 @@
       "Name": "HELL\u0027S KITCHEN",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "GB_HIGH_TECHNOLOGIES",
@@ -904,9 +909,9 @@
       "ID": "GB_HONORS_STUDENT",
       "SetID": "8ga3kd9",
       "Name": "HONORS STUDENT",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 142
+      "UsersEstimate": 147
     },
     {
       "ID": "GB_INDIVIDUAL_APPROACH",
@@ -914,7 +919,7 @@
       "Name": "INDIVIDUAL APPROACH",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "GB_IVE_SEEN_SOME",
@@ -930,7 +935,7 @@
       "Name": "JACK OF ALL TRADES",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "GB_KEVIN",
@@ -954,7 +959,7 @@
       "Name": "MARTYR",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "GB_MASTER_CHEF",
@@ -1033,7 +1038,7 @@
     {
       "ID": "8ga3kd9",
       "IsBase": true,
-      "Progressed": 407,
+      "Progressed": 408,
       "Completed": 2
     }
   ],
@@ -1041,8 +1046,8 @@
   "FirstSeenRating": "2022-10-16T14:30:41.0597875+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.8385233+00:00",
   "LastChanged": "2023-07-21T18:59:24.0510184+00:00",
-  "LastChanged_Achievements": "2023-08-16T17:03:57.8761865+00:00",
+  "LastChanged_Achievements": "2023-08-16T18:03:45.1380315+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:07.5598511+00:00",
-  "LastUpdate_Ratings": "2023-08-16T17:00:03.4819129+00:00",
-  "LastUpdate_Achievements": "2023-08-16T17:03:57.8762144+00:00"
+  "LastUpdate_Ratings": "2023-08-16T17:59:37.4513098+00:00",
+  "LastUpdate_Achievements": "2023-08-16T18:03:45.1380519+00:00"
 }

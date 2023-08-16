@@ -2,7 +2,7 @@
   "ID": "18567c7914ad48f594fd4b6e4c710b9f",
   "Name": "JYDGE",
   "ProductSlug": "jydge-14242d",
-  "Ranking_EOS_Progress": 430,
+  "Ranking_EOS_Progress": 431,
   "Ranking_EOS_Completed": 258,
   "Ranking_EOS_NewPlayers": 359,
   "Ranking_EOS_NewCompleters": 101,
@@ -236,8 +236,8 @@
   "FirstSeenRating": "2023-05-03T05:56:54.7929535+00:00",
   "FirstSeenAchievements": "2023-04-26T13:12:00.0872815+00:00",
   "LastChanged": "2023-05-03T05:56:54.7929535+00:00",
-  "LastChanged_Achievements": "2023-08-16T17:05:43.3971259+00:00",
+  "LastChanged_Achievements": "2023-08-16T18:05:30.6546525+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:07.2367872+00:00",
-  "LastUpdate_Ratings": "2023-08-16T16:58:51.2287249+00:00",
-  "LastUpdate_Achievements": "2023-08-16T17:05:43.397156+00:00"
+  "LastUpdate_Ratings": "2023-08-16T17:58:29.1207555+00:00",
+  "LastUpdate_Achievements": "2023-08-16T18:05:30.6546601+00:00"
 }

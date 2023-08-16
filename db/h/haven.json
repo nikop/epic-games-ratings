@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -174,11 +174,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1395,
+  "EOS_Progressed": 1396,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.65,
+  "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:19.3415137+00:00",
@@ -1519,6 +1519,11 @@
       "Time": "2023-08-16T00:04:39.9382835+00:00",
       "NumProgressed": 1395,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-16T18:04:12.5342141+00:00",
+      "NumProgressed": 1396,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -1578,7 +1583,7 @@
       "Name": "Back to rust",
       "Percentage": 12,
       "XP": 70,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "16",
@@ -1594,7 +1599,7 @@
       "Name": "Balding bloot!",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1102
+      "UsersEstimate": 1103
     },
     {
       "ID": "18",
@@ -1618,7 +1623,7 @@
       "Name": "Flower Powered",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "20",
@@ -1769,15 +1774,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1395,
+      "Progressed": 1396,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-08-10T12:01:06.704766+00:00",
-  "LastChanged_Achievements": "2023-08-16T17:04:25.1457888+00:00",
+  "LastChanged_Achievements": "2023-08-16T18:04:12.5342138+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:14.0477617+00:00",
-  "LastUpdate_Ratings": "2023-08-16T17:01:02.4988231+00:00",
-  "LastUpdate_Achievements": "2023-08-16T17:04:25.1458162+00:00"
+  "LastUpdate_Ratings": "2023-08-16T18:00:41.545216+00:00",
+  "LastUpdate_Achievements": "2023-08-16T18:04:12.5342383+00:00"
 }

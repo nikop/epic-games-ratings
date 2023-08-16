@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7757,
+  "EOS_Progressed": 7759,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 150,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4118,6 +4118,11 @@
       "Time": "2023-08-16T17:03:45.6262457+00:00",
       "NumProgressed": 7757,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-16T18:03:32.9980199+00:00",
+      "NumProgressed": 7759,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 28,
@@ -4345,14 +4350,14 @@
       "Name": "Tutorial Completed",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     }
   ],
   "AchievementSets": [
     {
       "ID": "10d14j0",
       "IsBase": true,
-      "Progressed": 7757,
+      "Progressed": 7759,
       "Completed": 0
     }
   ],
@@ -4360,8 +4365,8 @@
   "FirstSeenRating": "2023-04-05T14:58:37.7953176+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.1467348+00:00",
   "LastChanged": "2023-04-05T14:58:37.7953178+00:00",
-  "LastChanged_Achievements": "2023-08-16T17:03:45.6262452+00:00",
+  "LastChanged_Achievements": "2023-08-16T18:03:32.9980195+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:39.0215084+00:00",
-  "LastUpdate_Ratings": "2023-08-16T16:59:40.3876115+00:00",
-  "LastUpdate_Achievements": "2023-08-16T17:03:45.6262963+00:00"
+  "LastUpdate_Ratings": "2023-08-16T17:59:13.4654832+00:00",
+  "LastUpdate_Achievements": "2023-08-16T18:03:32.9980542+00:00"
 }

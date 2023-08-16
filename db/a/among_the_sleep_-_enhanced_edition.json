@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 148,
   "Ranking_EOS_NewPlayers": 57,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
     "PcReleaseDate": "2017-11-02T15:00:00+00:00",
@@ -443,9 +443,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 82578,
+  "EOS_Progressed": 82586,
   "EOS_Completed": 386,
-  "EOS_NewPlayers": 821,
+  "EOS_NewPlayers": 822,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -13263,6 +13263,11 @@
       "Time": "2023-08-16T17:03:17.2619519+00:00",
       "NumProgressed": 82578,
       "NumCompleted": 386
+    },
+    {
+      "Time": "2023-08-16T18:03:04.6706123+00:00",
+      "NumProgressed": 82586,
+      "NumCompleted": 386
     }
   ],
   "TotalAchievements": 10,
@@ -13322,7 +13327,7 @@
       "Name": "Prologue Drawings",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "GameCompleted",
@@ -13330,7 +13335,7 @@
       "Name": "Completed Among the Sleep",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 8258
+      "UsersEstimate": 8259
     },
     {
       "ID": "Level00BowlingStrike",
@@ -13338,7 +13343,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 28902
+      "UsersEstimate": 28905
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -13353,15 +13358,15 @@
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 82578,
+      "Progressed": 82586,
       "Completed": 386
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-03-31T05:57:32.2303432+00:00",
-  "LastChanged_Achievements": "2023-08-16T17:03:17.2619513+00:00",
+  "LastChanged_Achievements": "2023-08-16T18:03:04.6706118+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:23.206802+00:00",
-  "LastUpdate_Ratings": "2023-08-16T16:58:03.5098231+00:00",
-  "LastUpdate_Achievements": "2023-08-16T17:03:17.2620284+00:00"
+  "LastUpdate_Ratings": "2023-08-16T17:57:41.6744009+00:00",
+  "LastUpdate_Achievements": "2023-08-16T18:03:04.6706657+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 30,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 31,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
     "PcReleaseDate": "2016-05-17T16:00:00+00:00",
@@ -2463,10 +2463,10 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 530637,
+  "EOS_Progressed": 530638,
   "EOS_Completed": 1508,
-  "EOS_NewPlayers": 618,
-  "EOS_NewCompleters": 5,
+  "EOS_NewPlayers": 615,
+  "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
     {
@@ -15143,6 +15143,11 @@
       "Time": "2023-08-16T17:04:51.6424302+00:00",
       "NumProgressed": 530637,
       "NumCompleted": 1508
+    },
+    {
+      "Time": "2023-08-16T18:04:38.448035+00:00",
+      "NumProgressed": 530638,
+      "NumCompleted": 1508
     }
   ],
   "TotalAchievements": 37,
@@ -15210,7 +15215,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 440429
+      "UsersEstimate": 440430
     },
     {
       "ID": "HONED",
@@ -15218,7 +15223,7 @@
       "Name": "Honed",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 21225
+      "UsersEstimate": 21226
     },
     {
       "ID": "HOUSE_OF_SPLENDOR",
@@ -15226,7 +15231,7 @@
       "Name": "The House of Splendor",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 21225
+      "UsersEstimate": 21226
     },
     {
       "ID": "KEEPERS_OF_FIRE",
@@ -15298,7 +15303,7 @@
       "Name": "The Crypt",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 21225
+      "UsersEstimate": 21226
     },
     {
       "ID": "THE_DOME",
@@ -15362,7 +15367,7 @@
       "Name": "The Palace",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 21225
+      "UsersEstimate": 21226
     },
     {
       "ID": "THE_PITCHWOODS",
@@ -15449,15 +15454,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 530637,
+      "Progressed": 530638,
       "Completed": 1508
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-08-13T05:01:01.1614136+00:00",
-  "LastChanged_Achievements": "2023-08-16T17:04:51.6424294+00:00",
+  "LastChanged_Achievements": "2023-08-16T18:04:38.4480345+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:13.2289352+00:00",
-  "LastUpdate_Ratings": "2023-08-16T17:01:02.1231795+00:00",
-  "LastUpdate_Achievements": "2023-08-16T17:04:51.6425781+00:00"
+  "LastUpdate_Ratings": "2023-08-16T18:00:39.3234435+00:00",
+  "LastUpdate_Achievements": "2023-08-16T18:04:38.4481175+00:00"
 }

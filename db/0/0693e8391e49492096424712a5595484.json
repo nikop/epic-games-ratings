@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 42,
   "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 67,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -1507,9 +1507,9 @@
       "ID": "BeggarWomanFishGrilled",
       "SetID": "db30heh",
       "Name": "Tasty Alms",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 39
+      "UsersEstimate": 43
     },
     {
       "ID": "BeggarWomanHut",
@@ -1539,17 +1539,17 @@
       "ID": "DevilPriest",
       "SetID": "db30heh",
       "Name": "Deal with the Devil",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 280
+      "UsersEstimate": 284
     },
     {
       "ID": "DevilRope",
       "SetID": "db30heh",
       "Name": "The Devil is My Friend",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 284
+      "UsersEstimate": 288
     },
     {
       "ID": "Drunkard",
@@ -1579,9 +1579,9 @@
       "ID": "DwarfHobo",
       "SetID": "db30heh",
       "Name": "Funny Hobo",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 142
+      "UsersEstimate": 146
     },
     {
       "ID": "FerrymanBird",
@@ -1627,9 +1627,9 @@
       "ID": "HatFlower",
       "SetID": "db30heh",
       "Name": "Flower",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 201
+      "UsersEstimate": 205
     },
     {
       "ID": "KingDiamond",
@@ -1802,8 +1802,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-08-16T17:03:14.0364381+00:00",
+  "LastChanged_Achievements": "2023-08-16T18:02:21.5161223+00:00",
   "LastUpdate_AppInfo": "2023-08-15T16:57:19.7846089+00:00",
-  "LastUpdate_Ratings": "2023-08-16T16:58:30.8685697+00:00",
-  "LastUpdate_Achievements": "2023-08-16T17:03:14.0364836+00:00"
+  "LastUpdate_Ratings": "2023-08-16T17:58:07.6711178+00:00",
+  "LastUpdate_Achievements": "2023-08-16T18:02:21.516161+00:00"
 }

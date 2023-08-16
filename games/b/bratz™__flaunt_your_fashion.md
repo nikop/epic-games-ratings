@@ -12,7 +12,7 @@
 | Stilesville Hidden Style | 35.00% | ~18 |
 | Welcome to Seoul | 35.00% | ~18 |
 | We will need a bigger wardrobe | 35.00% | ~18 |
-| Barcelona Hidden Style | 25.00% | ~13 |
+| Barcelona Hidden Style | 27.00% | ~14 |
 | Creating New Trends | 22.00% | ~11 |
 | Best Gala Ever | 22.00% | ~11 |
 | Welcome to the The Stylin' Soiree | 22.00% | ~11 |

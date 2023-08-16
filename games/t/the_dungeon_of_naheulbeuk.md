@@ -6,14 +6,14 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 16.00% | ~34,112 |
+| Sowwy! | 16.00% | ~34,116 |
 | Déjà vu | 1.00% | ~2,132 |
 | Where's that freaking Dwarf? | 1.00% | ~2,132 |
 | Alt+F4 | 1.00% | ~2,132 |
 | Sock! SOCK! | 0.90% | ~1,919 |
-| A beer, two curses, three companions | 0.70% | ~1,492 |
-| Speedrun | 0.70% | ~1,492 |
-| Fireproof Wizardess | 0.70% | ~1,492 |
+| A beer, two curses, three companions | 0.70% | ~1,493 |
+| Speedrun | 0.70% | ~1,493 |
+| Fireproof Wizardess | 0.70% | ~1,493 |
 | GG EZ | 0.60% | ~1,279 |
 | DM intervention | 0.60% | ~1,279 |
 | Livin' in a dwarven paradise | 0.50% | ~1,066 |
@@ -42,6 +42,7 @@ Number of Ratings: 118  (23.09.2022)
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.20% | ~426 |
 | Dead for good | 0.20% | ~426 |
 | Gargantua | 0.20% | ~426 |
+| In Navalu's footsteps | 0.20% | ~426 |
 | Lust and Debauchery | 0.20% | ~426 |
 | Material Girl | 0.20% | ~426 |
 | Cursed die | 0.10% | ~213 |
@@ -86,7 +87,6 @@ Number of Ratings: 118  (23.09.2022)
 | Lord of the Drunks | 0.10% | ~213 |
 | Law and Order | 0.10% | ~213 |
 | Inception | 0.10% | ~213 |
-| In Navalu's footsteps | 0.10% | ~213 |
 | It's been a hard day's night | 0.10% | ~213 |
 | Demisemiquaver | 0.10% | ~213 |
 | Lëgal Legend | 0.10% | ~213 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Staff cut | 0.00% | ~0 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 213,203 (Ranked 56)  
+Progressed: 213,222 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,7 +172,7 @@ Completed: 2 (0.00%) (Ranked 258)
 | 2023-08-13 | 211,857 | 2 |
 | 2023-08-14 | 212,372 | 2 |
 | 2023-08-15 | 212,897 | 2 |
-| 2023-08-16 | 213,203 | 2 |
+| 2023-08-16 | 213,222 | 2 |
 ## Awards
 Max (Character Customization): 166  (Ranked 289)  
 Sum: 187 (Ranked 375)  

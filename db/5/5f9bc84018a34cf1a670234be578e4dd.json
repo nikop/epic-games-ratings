@@ -4,8 +4,8 @@
   "ProductSlug": "access-denied-escape-1d486e",
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 12,
-  "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
     "PcReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -666,9 +666,9 @@
       "ID": "Floppy",
       "SetID": "7jbi7el",
       "Name": "Additional Data",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 70,
-      "UsersEstimate": 70
+      "UsersEstimate": 72
     },
     {
       "ID": "Fusses",
@@ -706,9 +706,9 @@
       "ID": "Hologram",
       "SetID": "7jbi7el",
       "Name": "Holographic Scanner",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 70,
-      "UsersEstimate": 65
+      "UsersEstimate": 67
     },
     {
       "ID": "Screwdriver",
@@ -745,8 +745,8 @@
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-08-16T17:05:29.4135681+00:00",
+  "LastChanged_Achievements": "2023-08-16T18:05:16.4164797+00:00",
   "LastUpdate_AppInfo": "2023-08-15T17:57:20.4799472+00:00",
-  "LastUpdate_Ratings": "2023-08-16T16:58:22.842398+00:00",
-  "LastUpdate_Achievements": "2023-08-16T17:05:29.413587+00:00"
+  "LastUpdate_Ratings": "2023-08-16T17:57:57.191044+00:00",
+  "LastUpdate_Achievements": "2023-08-16T18:05:16.4164928+00:00"
 }

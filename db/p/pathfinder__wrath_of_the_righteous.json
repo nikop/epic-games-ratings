@@ -3458,9 +3458,9 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 10968,
+  "EOS_Progressed": 10969,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10833,6 +10833,11 @@
       "Time": "2023-08-16T16:04:59.9127272+00:00",
       "NumProgressed": 10968,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-16T18:04:32.9319918+00:00",
+      "NumProgressed": 10969,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -11044,7 +11049,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1206
+      "UsersEstimate": 1207
     },
     {
       "ID": "28_GreatUpstart",
@@ -11756,7 +11761,7 @@
       "Name": "The Lady of the Forest",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "DLC4_34_Beware of Still Water",
@@ -11764,28 +11769,28 @@
       "Name": "Beware Still Water",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     }
   ],
   "AchievementSets": [
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9750,
+      "Progressed": 9751,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10968,
+      "Progressed": 10969,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-08-16T16:00:10.3233012+00:00",
-  "LastChanged_Achievements": "2023-08-16T17:04:45.582565+00:00",
+  "LastChanged_Achievements": "2023-08-16T18:04:32.9319912+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:11.5447906+00:00",
-  "LastUpdate_Ratings": "2023-08-16T17:00:07.4578303+00:00",
-  "LastUpdate_Achievements": "2023-08-16T17:04:45.5829196+00:00"
+  "LastUpdate_Ratings": "2023-08-16T17:59:44.1773045+00:00",
+  "LastUpdate_Achievements": "2023-08-16T18:04:32.9321618+00:00"
 }

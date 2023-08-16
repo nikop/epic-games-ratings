@@ -2918,10 +2918,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 12875,
       "NumberOfAwardsMax": 6729
+    },
+    {
+      "Time": "2023-08-16T17:58:23.2352268+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 12887,
+      "NumberOfAwardsMax": 6729
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12875,
+  "NumberOfAwards": 12887,
   "NumberOfAwardsMax": 6729,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2935,7 +2941,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 776
+      "Count": 780
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2959,7 +2965,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 689
+      "Count": 697
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2992,9 +2998,9 @@
       "Count": 694
     }
   ],
-  "EOS_Progressed": 1575769,
+  "EOS_Progressed": 1575970,
   "EOS_Completed": 505,
-  "EOS_NewPlayers": 25367,
+  "EOS_NewPlayers": 25362,
   "EOS_NewCompleters": 32,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -10932,6 +10938,11 @@
       "Time": "2023-08-16T17:07:16.0610925+00:00",
       "NumProgressed": 1575769,
       "NumCompleted": 505
+    },
+    {
+      "Time": "2023-08-16T18:07:13.0672691+00:00",
+      "NumProgressed": 1575970,
+      "NumCompleted": 505
     }
   ],
   "TotalAchievements": 1328,
@@ -12053,9 +12064,9 @@
       "ID": "bph_9",
       "SetID": "bkjdbk8",
       "Name": "Prison Rules, B*tch!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "brb_1",
@@ -12253,9 +12264,9 @@
       "ID": "cac_15",
       "SetID": "bkjdbk8",
       "Name": "C-40",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "cac_16",
@@ -12733,9 +12744,9 @@
       "ID": "chca_10",
       "SetID": "bkjdbk8",
       "Name": "Master of Floatation",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "chca_11",
@@ -12805,9 +12816,9 @@
       "ID": "chca_8",
       "SetID": "bkjdbk8",
       "Name": "Second Star to the Right, then Straight On \u0027Til Morning",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "chca_9",
@@ -12965,9 +12976,9 @@
       "ID": "corp_9",
       "SetID": "bkjdbk8",
       "Name": "Texas Treasures, Part 3",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "cow_1",
@@ -13429,9 +13440,9 @@
       "ID": "dec21_01",
       "SetID": "bkjdbk8",
       "Name": "Bloody Grinch",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "dec21_02",
@@ -13541,9 +13552,9 @@
       "ID": "deep_9",
       "SetID": "bkjdbk8",
       "Name": "Seagulls Aren\u2019t Real",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "deer_1",
@@ -13677,9 +13688,9 @@
       "ID": "des_8",
       "SetID": "bkjdbk8",
       "Name": "Heisting on the Salt Flats",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "des_9",
@@ -14141,9 +14152,9 @@
       "ID": "gage2_1",
       "SetID": "bkjdbk8",
       "Name": "Doctor Miserable",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "gage2_10",
@@ -14453,9 +14464,9 @@
       "ID": "gage5_1",
       "SetID": "bkjdbk8",
       "Name": "Precision Aiming",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "gage5_10",
@@ -16397,9 +16408,9 @@
       "ID": "mex_10",
       "SetID": "bkjdbk8",
       "Name": "Two-Step Verification",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "mex_2",
@@ -16725,9 +16736,9 @@
       "ID": "ovk_10",
       "SetID": "bkjdbk8",
       "Name": "Wasteful",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "ovk_2",
@@ -18045,9 +18056,9 @@
       "ID": "sand_11",
       "SetID": "bkjdbk8",
       "Name": "This Calls for a Round of Sputniks!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "sand_2",
@@ -18101,9 +18112,9 @@
       "ID": "sand_8",
       "SetID": "bkjdbk8",
       "Name": "Take care of Your Frenemies",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "sand_9",
@@ -18157,9 +18168,9 @@
       "ID": "short_fuse",
       "SetID": "bkjdbk8",
       "Name": "Short Fuse",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "sinus_1",
@@ -18333,17 +18344,17 @@
       "ID": "skm_27",
       "SetID": "bkjdbk8",
       "Name": "Sit Them Down on the Curb",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "skm_28",
       "SetID": "bkjdbk8",
       "Name": "Money on the Asphalt",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "skm_29",
@@ -18685,9 +18696,9 @@
       "ID": "tag_9",
       "SetID": "bkjdbk8",
       "Name": "A Moment of Silence",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "tango_achieve_1",
@@ -18725,9 +18736,9 @@
       "ID": "tawp_1",
       "SetID": "bkjdbk8",
       "Name": "Cloaker Charmer",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "the_first_line",
@@ -18853,9 +18864,9 @@
       "ID": "trk_a_0",
       "SetID": "bkjdbk8",
       "Name": "Criminal Origins",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "trk_af_0",
@@ -18965,9 +18976,9 @@
       "ID": "trk_b_1",
       "SetID": "bkjdbk8",
       "Name": "Man in the Shadows",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "trk_b_2",
@@ -21566,22 +21577,22 @@
     {
       "ID": "61cefe3",
       "IsBase": true,
-      "Progressed": 1575769,
+      "Progressed": 1575970,
       "Completed": 505
     },
     {
       "ID": "bkjdbk8",
       "IsBase": false,
-      "Progressed": 1575769,
+      "Progressed": 1575970,
       "Completed": 8
     }
   ],
   "FirstSeen": "2023-06-08T18:57:07.8003815+00:00",
   "FirstSeenRating": "2023-06-09T03:57:04.3869033+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:50.4372379+00:00",
-  "LastChanged": "2023-08-16T13:01:54.6493655+00:00",
-  "LastChanged_Achievements": "2023-08-16T17:07:16.0610919+00:00",
+  "LastChanged": "2023-08-16T17:58:23.2352267+00:00",
+  "LastChanged_Achievements": "2023-08-16T18:07:13.0672687+00:00",
   "LastUpdate_AppInfo": "2023-08-10T19:57:07.9529529+00:00",
-  "LastUpdate_Ratings": "2023-08-16T16:58:46.9642256+00:00",
-  "LastUpdate_Achievements": "2023-08-16T17:07:16.0833449+00:00"
+  "LastUpdate_Ratings": "2023-08-16T17:58:23.2352272+00:00",
+  "LastUpdate_Achievements": "2023-08-16T18:07:13.0811657+00:00"
 }

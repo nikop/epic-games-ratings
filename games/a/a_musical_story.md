@@ -20,7 +20,7 @@
 | First Kiss | 34.00% | ~31 |
 | Symbiosis | 33.00% | ~30 |
 | A Bigger Band | 30.00% | ~28 |
-| Fuel | 26.00% | ~24 |
+| Fuel | 27.00% | ~25 |
 | Alone Together | 25.00% | ~23 |
 | Threatening Nature | 23.00% | ~21 |
 | TV Dreams | 22.00% | ~20 |
@@ -30,18 +30,18 @@
 | The Fix | 15.00% | ~14 |
 | Time | 12.00% | ~11 |
 | Regrets | 12.00% | ~11 |
+| The Accident | 11.00% | ~10 |
+| The Awakening | 11.00% | ~10 |
 | The Mountains, The Valleys | 11.00% | ~10 |
 | Bad Trip | 10.00% | ~9 |
-| The Accident | 10.00% | ~9 |
-| The Awakening | 10.00% | ~9 |
-| Love | 9.00% | ~8 |
-| Here we go again! | 9.00% | ~8 |
+| Love | 10.00% | ~9 |
+| Here we go again! | 10.00% | ~9 |
 | Chase the Crow | 8.00% | ~7 |
 | Flight of the Bumblebee | 7.00% | ~6 |
+| Gasoline | 4.00% | ~4 |
 | On the Road Again | 4.00% | ~4 |
 | Under the Bridge | 4.00% | ~4 |
 | Milk and Alcohol | 4.00% | ~4 |
-| Gasoline | 3.00% | ~3 |
 | As the Crow Flies | 3.00% | ~3 |
 | Unintended | 3.00% | ~3 |
 | Voodoo Child | 2.00% | ~2 |
