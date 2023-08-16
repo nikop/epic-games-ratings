@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 488,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -331,9 +331,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 1807,
+  "EOS_Progressed": 1808,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -1846,6 +1846,11 @@
       "Time": "2023-08-16T06:03:16.2053789+00:00",
       "NumProgressed": 1807,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-16T23:03:07.5349544+00:00",
+      "NumProgressed": 1808,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -1945,7 +1950,7 @@
       "Name": "Getting the Gang Back Together",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ACH_GHOST_TOWN",
@@ -2009,7 +2014,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 1084
+      "UsersEstimate": 1085
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -2089,7 +2094,7 @@
       "Name": "Off the Trail",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     },
     {
       "ID": "ACH_OUT_ON_THE_EBB_TIDE",
@@ -2153,7 +2158,7 @@
       "Name": "Self-Improvement",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1301
+      "UsersEstimate": 1302
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -2233,7 +2238,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1590
+      "UsersEstimate": 1591
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -2241,7 +2246,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 1030
+      "UsersEstimate": 1031
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -2280,15 +2285,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1807,
+      "Progressed": 1808,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-08-02T19:59:24.9286429+00:00",
-  "LastChanged_Achievements": "2023-08-16T22:02:19.1204071+00:00",
+  "LastChanged_Achievements": "2023-08-16T23:03:07.5349537+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:13.6246247+00:00",
-  "LastUpdate_Ratings": "2023-08-16T21:59:36.9999387+00:00",
-  "LastUpdate_Achievements": "2023-08-16T22:02:19.1204623+00:00"
+  "LastUpdate_Ratings": "2023-08-16T23:00:22.8730265+00:00",
+  "LastUpdate_Achievements": "2023-08-16T23:03:07.535013+00:00"
 }

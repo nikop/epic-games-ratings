@@ -51,6 +51,7 @@ Number of Ratings: 177  (23.09.2022)
 | The Muse: Derek | 0.20% | ~12 |
 | Howz It Goin Dood | 0.20% | ~12 |
 | Derezzed | 0.20% | ~12 |
+| Snapped | 0.20% | ~12 |
 | Against All Odds | 0.10% | ~6 |
 | Casabrova | 0.10% | ~6 |
 | Congrats, A Celebrity Hates You | 0.10% | ~3 |
@@ -71,7 +72,6 @@ Number of Ratings: 177  (23.09.2022)
 | The Crush(es) | 0.10% | ~6 |
 | La Coochadora | 0.10% | ~6 |
 | Simple Geometry | 0.10% | ~6 |
-| Snapped | 0.10% | ~6 |
 | D-Club Certified | 0.00% | ~0 |
 | Sucker Punch | 0.00% | ~0 |
 | The Most Wonderful Time of the Year | 0.00% | ~0 |

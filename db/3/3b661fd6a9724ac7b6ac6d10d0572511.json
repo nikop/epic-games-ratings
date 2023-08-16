@@ -2998,9 +2998,9 @@
       "Count": 694
     }
   ],
-  "EOS_Progressed": 1576618,
+  "EOS_Progressed": 1576746,
   "EOS_Completed": 505,
-  "EOS_NewPlayers": 25236,
+  "EOS_NewPlayers": 25210,
   "EOS_NewCompleters": 32,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -10963,6 +10963,11 @@
       "Time": "2023-08-16T22:06:44.6512202+00:00",
       "NumProgressed": 1576618,
       "NumCompleted": 505
+    },
+    {
+      "Time": "2023-08-16T23:07:55.2578444+00:00",
+      "NumProgressed": 1576746,
+      "NumCompleted": 505
     }
   ],
   "TotalAchievements": 1328,
@@ -11124,9 +11129,9 @@
       "ID": "armored_8",
       "SetID": "bkjdbk8",
       "Name": "I Did Not Have Se*ual Relations With That Bulldozer",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1577
     },
     {
       "ID": "armored_9",
@@ -13540,33 +13545,33 @@
       "ID": "deep_5",
       "SetID": "bkjdbk8",
       "Name": "Black Gold Burning",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1577
     },
     {
       "ID": "deep_6",
       "SetID": "bkjdbk8",
       "Name": "The Drill Is Down",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1577
     },
     {
       "ID": "deep_7",
       "SetID": "bkjdbk8",
       "Name": "Burn, Baby, Burn",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1577
     },
     {
       "ID": "deep_8",
       "SetID": "bkjdbk8",
       "Name": "Texas Heat",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1577
     },
     {
       "ID": "deep_9",
@@ -21597,13 +21602,13 @@
     {
       "ID": "61cefe3",
       "IsBase": true,
-      "Progressed": 1576618,
+      "Progressed": 1576746,
       "Completed": 505
     },
     {
       "ID": "bkjdbk8",
       "IsBase": false,
-      "Progressed": 1576618,
+      "Progressed": 1576746,
       "Completed": 8
     }
   ],
@@ -21611,8 +21616,8 @@
   "FirstSeenRating": "2023-06-09T03:57:04.3869033+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:50.4372379+00:00",
   "LastChanged": "2023-08-16T17:58:23.2352267+00:00",
-  "LastChanged_Achievements": "2023-08-16T22:06:44.6512198+00:00",
+  "LastChanged_Achievements": "2023-08-16T23:07:55.2578438+00:00",
   "LastUpdate_AppInfo": "2023-08-10T19:57:07.9529529+00:00",
-  "LastUpdate_Ratings": "2023-08-16T21:58:19.7420321+00:00",
-  "LastUpdate_Achievements": "2023-08-16T22:06:44.6670237+00:00"
+  "LastUpdate_Ratings": "2023-08-16T22:58:52.0992331+00:00",
+  "LastUpdate_Achievements": "2023-08-16T23:07:55.2736147+00:00"
 }

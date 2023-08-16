@@ -5,10 +5,10 @@ Rating: 4.60 (Ranked 391)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 25.00% | ~208 |
+| Time Heals All Wounds | 25.00% | ~209 |
 | Rail Rat | 21.00% | ~175 |
 | The Mysterious Stranger | 20.00% | ~167 |
-| Immaculate Aim | 19.00% | ~158 |
+| Immaculate Aim | 19.00% | ~159 |
 | The Steel Shadow | 18.00% | ~150 |
 | Make Up For Lost Time | 18.00% | ~150 |
 | Time Flies | 18.00% | ~150 |
@@ -21,12 +21,12 @@ Rating: 4.60 (Ranked 391)
 | The Wicked Twins | 17.00% | ~142 |
 | Honest Mistake | 17.00% | ~142 |
 | Fast Learner | 17.00% | ~142 |
-| Like Clockwork | 16.00% | ~133 |
-| The Betrayer | 16.00% | ~133 |
-| The Loose Cannon | 16.00% | ~133 |
-| Golem Chaser | 16.00% | ~133 |
-| Check Your Pulse | 16.00% | ~133 |
-| The Family Fortune | 16.00% | ~133 |
+| Like Clockwork | 16.00% | ~134 |
+| The Betrayer | 16.00% | ~134 |
+| The Loose Cannon | 16.00% | ~134 |
+| Golem Chaser | 16.00% | ~134 |
+| Check Your Pulse | 16.00% | ~134 |
+| The Family Fortune | 16.00% | ~134 |
 | Right On Time | 15.00% | ~125 |
 | The Man Who Shattered Time | 15.00% | ~125 |
 | Treasure Trove | 14.00% | ~117 |
@@ -35,7 +35,7 @@ Rating: 4.60 (Ranked 391)
 | Whiz Kid | 12.00% | ~100 |
 | Chaincrawler Explorer | 11.00% | ~92 |
 | Good Neighbor | 11.00% | ~92 |
-| Family Memories | 10.00% | ~83 |
+| Family Memories | 10.00% | ~84 |
 | Fairgrounds Explorer | 9.00% | ~75 |
 | Sump Explorer | 9.00% | ~75 |
 | Syron for Hope | 9.00% | ~75 |
@@ -59,7 +59,7 @@ Rating: 4.60 (Ranked 391)
 | Going to Live Forever | 0.60% | ~5 |
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 834 (Ranked 203)  
+Progressed: 835 (Ranked 203)  
 Completed: 5 (0.60%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,6 +139,7 @@ Completed: 5 (0.60%) (Ranked 135)
 | 2023-08-11 | 831 | 5 |
 | 2023-08-12 | 832 | 5 |
 | 2023-08-14 | 834 | 5 |
+| 2023-08-16 | 835 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

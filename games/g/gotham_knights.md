@@ -5,15 +5,15 @@ Rating: 4.18 (Ranked 869)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~33,935 |
-| Har, Har, Har, Very Funny | 35.00% | ~23,754 |
+| First Step Into the Knight | 50.00% | ~33,936 |
+| Har, Har, Har, Very Funny | 35.00% | ~23,755 |
 | Loose Ends | 34.00% | ~23,076 |
 | To the Victor Go the Spoils | 28.00% | ~19,004 |
 | Knighthood | 27.00% | ~18,325 |
 | Get ReQ'd | 25.00% | ~16,968 |
 | Whispered Words | 25.00% | ~16,968 |
-| The Batman Family | 22.00% | ~14,931 |
-| Lock and Key | 22.00% | ~14,931 |
+| The Batman Family | 22.00% | ~14,932 |
+| Lock and Key | 22.00% | ~14,932 |
 | Something in the Clay | 21.00% | ~14,253 |
 | Quartzer Life Crisis | 20.00% | ~13,574 |
 | Working Hard or Harley Working? | 20.00% | ~13,574 |
@@ -24,16 +24,16 @@ Rating: 4.18 (Ranked 869)
 | From Inside Gotham's Walls | 18.00% | ~12,217 |
 | Protector of Gotham | 16.00% | ~10,859 |
 | Universal Health Scare | 16.00% | ~10,859 |
-| In Your Element | 15.00% | ~10,180 |
-| Voiceless | 15.00% | ~10,180 |
+| In Your Element | 15.00% | ~10,181 |
+| Voiceless | 15.00% | ~10,181 |
 | Rock and a Hard Place | 14.00% | ~9,502 |
 | Cooldown | 14.00% | ~9,502 |
 | Not On My Watch | 13.00% | ~8,823 |
 | Shock Til They Drop | 13.00% | ~8,823 |
 | Seeking Asylum | 13.00% | ~8,823 |
-| End of an Era | 12.00% | ~8,144 |
-| Bulldozed | 12.00% | ~8,144 |
-| Gotham Knight | 12.00% | ~8,144 |
+| End of an Era | 12.00% | ~8,145 |
+| Bulldozed | 12.00% | ~8,145 |
+| Gotham Knight | 12.00% | ~8,145 |
 | Gotham City Confidential | 11.00% | ~7,466 |
 | Drone You Out | 10.00% | ~6,787 |
 | Out of Their League | 9.00% | ~6,108 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 869)
 | Element of Surprise | 0.20% | ~76 |
 | It's Nice to Be Wanted | 0.20% | ~76 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,870 (Ranked 80)  
+Progressed: 67,871 (Ranked 80)  
 Completed: 107 (0.16%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,10 +185,10 @@ Completed: 107 (0.16%) (Ranked 191)
 | 2023-08-13 | 67,820 | 107 |
 | 2023-08-14 | 67,839 | 107 |
 | 2023-08-15 | 67,855 | 107 |
-| 2023-08-16 | 67,870 | 107 |
+| 2023-08-16 | 67,871 | 107 |
 ## Awards
 Max (Great Boss Battles): 2,501  (Ranked 100)  
-Sum: 4,161 (Ranked 140)  
+Sum: 4,162 (Ranked 140)  
 Diff (max vs sum): -40  
 | Award | Count |
 | ----- | ----- |
@@ -198,7 +198,7 @@ Diff (max vs sum): -40
 | This game is Relaxing | 211 |
 | This game has Diverse Characters | 208 |
 | This game has Amazing Characters | 206 |
-| This game has Amazing Storytelling | 205 |
+| This game has Amazing Storytelling | 206 |
 | This game is Great for Beginners | 203 |
 | This game is Highly Recommended | 201 |
 | This game is Great for Quick Sessions | 60 |
@@ -379,4 +379,4 @@ Diff (max vs sum): -40
 | 2023-08-13 | 4.18 | 2,491 | 4,145 |
 | 2023-08-14 | 4.18 | 2,498 | 4,156 |
 | 2023-08-15 | 4.18 | 2,501 | 4,160 |
-| 2023-08-16 | 4.18 | 2,501 | 4,161 |
+| 2023-08-16 | 4.18 | 2,501 | 4,162 |

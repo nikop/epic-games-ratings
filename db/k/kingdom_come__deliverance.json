@@ -6552,9 +6552,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 797298,
+  "EOS_Progressed": 797302,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 900,
+  "EOS_NewPlayers": 899,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -19502,6 +19502,11 @@
       "Time": "2023-08-16T22:05:14.0169365+00:00",
       "NumProgressed": 797298,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-08-16T23:06:07.1314144+00:00",
+      "NumProgressed": 797302,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 82,
@@ -19593,7 +19598,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 255135
+      "UsersEstimate": 255137
     },
     {
       "ID": "Bookworm",
@@ -19625,7 +19630,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 199324
+      "UsersEstimate": 199326
     },
     {
       "ID": "Chivalrous",
@@ -19817,7 +19822,7 @@
       "Name": "I Can Quit Anytime",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3986
+      "UsersEstimate": 3987
     },
     {
       "ID": "InfernalJustice",
@@ -20168,15 +20173,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 797298,
+      "Progressed": 797302,
       "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-08-16T10:00:47.2700578+00:00",
-  "LastChanged_Achievements": "2023-08-16T22:05:14.016936+00:00",
+  "LastChanged_Achievements": "2023-08-16T23:06:07.1314135+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:10.6594463+00:00",
-  "LastUpdate_Ratings": "2023-08-16T21:59:38.5577507+00:00",
-  "LastUpdate_Achievements": "2023-08-16T22:05:14.0171039+00:00"
+  "LastUpdate_Ratings": "2023-08-16T23:00:24.744919+00:00",
+  "LastUpdate_Achievements": "2023-08-16T23:06:07.1315897+00:00"
 }

@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 928,
+  "EOS_Progressed": 929,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
@@ -3266,6 +3266,11 @@
       "Time": "2023-08-16T21:03:27.2910832+00:00",
       "NumProgressed": 928,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-16T23:03:21.3627478+00:00",
+      "NumProgressed": 929,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -3453,7 +3458,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -3580,14 +3585,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 928,
+      "Progressed": 929,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-16T22:03:10.4806775+00:00",
+  "LastChanged_Achievements": "2023-08-16T23:03:21.362747+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:27.4280109+00:00",
-  "LastUpdate_Ratings": "2023-08-16T21:57:49.7053928+00:00",
-  "LastUpdate_Achievements": "2023-08-16T22:03:10.4807249+00:00"
+  "LastUpdate_Ratings": "2023-08-16T22:58:08.9514623+00:00",
+  "LastUpdate_Achievements": "2023-08-16T23:03:21.3627952+00:00"
 }

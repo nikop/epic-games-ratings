@@ -6,9 +6,9 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~35,374 |
+| Goodest Of The Good Cops | 28.00% | ~35,375 |
 | Biggest Communism Builder | 24.00% | ~30,321 |
-| The World's Most Laughable Centrist | 20.00% | ~25,267 |
+| The World's Most Laughable Centrist | 20.00% | ~25,268 |
 | Il Coppo Del'Arte! | 18.00% | ~22,741 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,214 |
 | Hyperstellar Law Official | 15.00% | ~18,951 |
@@ -20,8 +20,8 @@ Number of Ratings: 1,611  (23.09.2022)
 | The Figurines Won't Win Her Back | 9.00% | ~11,370 |
 | Enemy Of The Physical Realm | 8.00% | ~10,107 |
 | Hardie's Heroes | 6.00% | ~7,580 |
-| The Lawbringer | 4.00% | ~5,053 |
-| Fairweather t-500 Vitreous Enamel | 4.00% | ~5,053 |
+| The Lawbringer | 4.00% | ~5,054 |
+| Fairweather t-500 Vitreous Enamel | 4.00% | ~5,054 |
 | The Opener Of The Eighth Seal | 3.00% | ~3,790 |
 | Bother Kim After Hours | 3.00% | ~3,790 |
 | Baddest Of the Bad Cops | 2.00% | ~2,527 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~126 |
 | What body? | 0.10% | ~126 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,337 (Ranked 68)  
+Progressed: 126,338 (Ranked 68)  
 Completed: 27 (0.02%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 27 (0.02%) (Ranked 238)
 | 2023-08-13 | 126,181 | 27 |
 | 2023-08-14 | 126,238 | 27 |
 | 2023-08-15 | 126,286 | 27 |
-| 2023-08-16 | 126,337 | 27 |
+| 2023-08-16 | 126,338 | 27 |
 ## Awards
 Max (Character Customization): 718  (Ranked 165)  
 Sum: 1,080 (Ranked 235)  

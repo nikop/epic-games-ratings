@@ -20,7 +20,7 @@
 | Lover of classics | 10.00% | ~21 |
 | Rest In Peace | 9.00% | ~19 |
 | The Curse Is Real | 9.00% | ~19 |
-| Trapped | 8.00% | ~17 |
+| Trapped | 9.00% | ~19 |
 | Modern Player | 7.00% | ~14 |
 | What A Mansion | 7.00% | ~14 |
 | Researcher | 6.00% | ~12 |

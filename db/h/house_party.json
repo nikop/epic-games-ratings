@@ -364,7 +364,7 @@
   "Tags": [],
   "EOS_Progressed": 6068,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5022,9 +5022,9 @@
       "ID": "snapped",
       "SetID": "bmkn7o4",
       "Name": "Snapped",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 12
     },
     {
       "ID": "tal",
@@ -5052,8 +5052,8 @@
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-07-26T20:57:57.6865468+00:00",
-  "LastChanged_Achievements": "2023-08-16T22:03:58.0842763+00:00",
+  "LastChanged_Achievements": "2023-08-16T23:04:30.3312543+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:16.0596373+00:00",
-  "LastUpdate_Ratings": "2023-08-16T21:58:35.2643586+00:00",
-  "LastUpdate_Achievements": "2023-08-16T22:03:58.084374+00:00"
+  "LastUpdate_Ratings": "2023-08-16T22:59:13.268938+00:00",
+  "LastUpdate_Achievements": "2023-08-16T23:04:30.3313727+00:00"
 }

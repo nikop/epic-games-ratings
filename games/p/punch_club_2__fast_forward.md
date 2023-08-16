@@ -11,12 +11,12 @@
 | Your first job | 83.00% | ~211 |
 | Old movies enjoyer | 80.00% | ~203 |
 | Fitness professional | 78.00% | ~198 |
-| Depressed visitor | 77.00% | ~196 |
+| Depressed visitor | 78.00% | ~198 |
+| Employee of the week | 77.00% | ~196 |
 | First defeat | 76.00% | ~193 |
 | Neurotrainer – power gainer! | 76.00% | ~193 |
-| Employee of the week | 76.00% | ~193 |
 | Your own amateur gym | 75.00% | ~190 |
-| Run K, run! | 73.00% | ~185 |
+| Run K, run! | 74.00% | ~188 |
 | Fighting is cool | 70.00% | ~178 |
 | No bullying more | 69.00% | ~175 |
 | Hello, world! | 69.00% | ~175 |
@@ -43,26 +43,26 @@
 | No blades in the gym | 45.00% | ~114 |
 | Your own way | 42.00% | ~107 |
 | Champion – no way back | 41.00% | ~104 |
+| Underground dwellers | 40.00% | ~102 |
 | Responsible approach | 40.00% | ~102 |
 | Poisoned fighter | 39.00% | ~99 |
-| Underground dwellers | 39.00% | ~99 |
 | Deal with life | 38.00% | ~97 |
 | Get out of my apartment! | 38.00% | ~97 |
 | Mom got better | 37.00% | ~94 |
 | GYM professional | 37.00% | ~94 |
 | The die is cast | 37.00% | ~94 |
-| Seashell hunter | 35.00% | ~89 |
-| Gang wrangler | 34.00% | ~86 |
+| Seashell hunter | 36.00% | ~91 |
+| Gang wrangler | 35.00% | ~89 |
 | Problems of cyborgs | 34.00% | ~86 |
 | Absolute Champion! | 33.00% | ~84 |
 | Undercover robot | 33.00% | ~84 |
 | Careerist | 32.00% | ~81 |
+| Anyone can resist | 32.00% | ~81 |
 | Trap disarmed | 31.00% | ~79 |
 | The lonesome road | 31.00% | ~79 |
 | Key memories | 31.00% | ~79 |
 | Not little hacker | 31.00% | ~79 |
 | The last bell ring | 31.00% | ~79 |
-| Anyone can resist | 31.00% | ~79 |
 | The heart of the Resistance | 31.00% | ~79 |
 | Another world | 30.00% | ~76 |
 | Keep nature safe | 30.00% | ~76 |

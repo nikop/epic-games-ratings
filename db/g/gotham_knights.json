@@ -2358,10 +2358,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 4161,
       "NumberOfAwardsMax": 2501
+    },
+    {
+      "Time": "2023-08-16T23:01:56.4822347+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4162,
+      "NumberOfAwardsMax": 2501
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4161,
+  "NumberOfAwards": 4162,
   "NumberOfAwardsMax": 2501,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2393,7 +2399,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 205
+      "Count": 206
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2426,9 +2432,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 67870,
+  "EOS_Progressed": 67871,
   "EOS_Completed": 107,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -12521,6 +12527,11 @@
       "Time": "2023-08-16T21:06:52.9323331+00:00",
       "NumProgressed": 67870,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2023-08-16T23:06:54.3998089+00:00",
+      "NumProgressed": 67871,
+      "NumCompleted": 107
     }
   ],
   "TotalAchievements": 61,
@@ -12580,7 +12591,7 @@
       "Name": "The Batman Family",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 14931
+      "UsersEstimate": 14932
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -12612,7 +12623,7 @@
       "Name": "End of an Era",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8144
+      "UsersEstimate": 8145
     },
     {
       "ID": "APPLY_STATUS",
@@ -12620,7 +12631,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 10180
+      "UsersEstimate": 10181
     },
     {
       "ID": "CHALLENGES_1",
@@ -12708,7 +12719,7 @@
       "Name": "Bulldozed",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8144
+      "UsersEstimate": 8145
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -12836,7 +12847,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 23754
+      "UsersEstimate": 23755
     },
     {
       "ID": "HARLEY_2",
@@ -12876,7 +12887,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 33935
+      "UsersEstimate": 33936
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -12940,7 +12951,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 14931
+      "UsersEstimate": 14932
     },
     {
       "ID": "MYSTERY_04",
@@ -12964,7 +12975,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 10180
+      "UsersEstimate": 10181
     },
     {
       "ID": "MYSTERY_07",
@@ -12980,7 +12991,7 @@
       "Name": "Gotham Knight",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8144
+      "UsersEstimate": 8145
     },
     {
       "ID": "SECRET_CACHE",
@@ -13019,22 +13030,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 67870,
+      "Progressed": 67871,
       "Completed": 107
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 38150,
+      "Progressed": 38151,
       "Completed": 2658
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-08-16T00:01:38.1733467+00:00",
-  "LastChanged_Achievements": "2023-08-16T22:05:51.2198027+00:00",
+  "LastChanged": "2023-08-16T23:01:56.4822345+00:00",
+  "LastChanged_Achievements": "2023-08-16T23:06:54.3998083+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:49.7416919+00:00",
-  "LastUpdate_Ratings": "2023-08-16T22:00:46.821815+00:00",
-  "LastUpdate_Achievements": "2023-08-16T22:05:51.219921+00:00"
+  "LastUpdate_Ratings": "2023-08-16T23:01:56.4822353+00:00",
+  "LastUpdate_Achievements": "2023-08-16T23:06:54.3999547+00:00"
 }

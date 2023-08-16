@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 137,
+  "EOS_Progressed": 138,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -426,6 +426,11 @@
       "Time": "2023-08-16T21:03:17.7713217+00:00",
       "NumProgressed": 137,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-16T23:03:12.425145+00:00",
+      "NumProgressed": 138,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-07T18:00:21.0046811+00:00",
@@ -454,13 +459,13 @@
       "Name": "Critical dissatisfaction",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Full",
       "SetID": "cjfnji1",
       "Name": "Full load",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 15,
       "UsersEstimate": 97
     },
@@ -478,7 +483,7 @@
       "Name": "In the last second",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "Master",
@@ -494,7 +499,7 @@
       "Name": "Own route",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Serpentine_conquero",
@@ -549,14 +554,14 @@
     {
       "ID": "cjfnji1",
       "IsBase": true,
-      "Progressed": 137,
+      "Progressed": 138,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-11T01:35:20.9956349+00:00",
   "FirstSeenAchievements": "2023-08-07T18:00:21.004681+00:00",
-  "LastChanged_Achievements": "2023-08-16T22:02:22.8275864+00:00",
+  "LastChanged_Achievements": "2023-08-16T23:03:12.4251442+00:00",
   "LastUpdate_AppInfo": "2023-08-14T17:57:19.8176911+00:00",
-  "LastUpdate_Ratings": "2023-08-16T21:57:38.7092064+00:00",
-  "LastUpdate_Achievements": "2023-08-16T22:02:22.8276008+00:00"
+  "LastUpdate_Ratings": "2023-08-16T22:57:55.2633858+00:00",
+  "LastUpdate_Achievements": "2023-08-16T23:03:12.4251623+00:00"
 }
