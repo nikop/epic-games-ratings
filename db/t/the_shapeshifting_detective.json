@@ -368,9 +368,9 @@
       "ID": "put_a_ring_on_it",
       "SetID": "2db2j74",
       "Name": "Put A Ring On It",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 18
+      "UsersEstimate": 20
     },
     {
       "ID": "show_me_some_skin",
@@ -433,8 +433,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2023-08-16T20:03:03.6471045+00:00",
+  "LastChanged_Achievements": "2023-08-16T21:03:31.0156562+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:32.1964187+00:00",
-  "LastUpdate_Ratings": "2023-08-16T20:00:12.6504737+00:00",
-  "LastUpdate_Achievements": "2023-08-16T20:03:03.6471195+00:00"
+  "LastUpdate_Ratings": "2023-08-16T21:00:47.6450991+00:00",
+  "LastUpdate_Achievements": "2023-08-16T21:03:31.0156754+00:00"
 }

@@ -11,11 +11,11 @@ Rating: 4.88 (Ranked 18)
 | Who put gears in there? | 9.00% | ~354 |
 | Cream of the Crop | 8.00% | ~315 |
 | Thanks for the free chip, Peppermint! | 8.00% | ~315 |
+| I play my own way! | 7.00% | ~276 |
 | You got this, Peppermint? | 7.00% | ~276 |
 | Perfect Parry | 7.00% | ~276 |
 | Alright, that felt AWESOME! | 7.00% | ~276 |
 | This will cost you big time | 6.00% | ~236 |
-| I play my own way! | 6.00% | ~236 |
 | Uh, they were broken when I got here | 6.00% | ~236 |
 | I look cool. But I can look COOLER. | 6.00% | ~236 |
 | The Negotiator | 5.00% | ~197 |

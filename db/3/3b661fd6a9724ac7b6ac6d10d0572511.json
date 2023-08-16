@@ -2998,9 +2998,9 @@
       "Count": 694
     }
   ],
-  "EOS_Progressed": 1576333,
+  "EOS_Progressed": 1576490,
   "EOS_Completed": 505,
-  "EOS_NewPlayers": 25321,
+  "EOS_NewPlayers": 25281,
   "EOS_NewCompleters": 32,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -10953,6 +10953,11 @@
       "Time": "2023-08-16T20:07:16.593617+00:00",
       "NumProgressed": 1576333,
       "NumCompleted": 505
+    },
+    {
+      "Time": "2023-08-16T21:08:21.4340793+00:00",
+      "NumProgressed": 1576490,
+      "NumCompleted": 505
     }
   ],
   "TotalAchievements": 1328,
@@ -11426,9 +11431,9 @@
       "ID": "axe_48",
       "SetID": "bkjdbk8",
       "Name": "Making it Rain",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "axe_49",
@@ -11562,9 +11567,9 @@
       "ID": "axe_66",
       "SetID": "bkjdbk8",
       "Name": "A Heister of Legend",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 60,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "axe_666",
@@ -13362,9 +13367,9 @@
       "ID": "death_29",
       "SetID": "bkjdbk8",
       "Name": "Completely OVERKILL!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "death_3",
@@ -14634,9 +14639,9 @@
       "ID": "ggez_1",
       "SetID": "bkjdbk8",
       "Name": "One More Down, No More To Go",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "ggez_10",
@@ -16794,9 +16799,9 @@
       "ID": "ovk_7",
       "SetID": "bkjdbk8",
       "Name": "120 Proof",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "ovk_8",
@@ -17538,9 +17543,9 @@
       "ID": "pick_66",
       "SetID": "bkjdbk8",
       "Name": "Master of Mayhem",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "pick_666",
@@ -20394,9 +20399,9 @@
       "ID": "trk_l_6",
       "SetID": "bkjdbk8",
       "Name": "Completed, Fo\u0027 Sho\u0027",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "trk_lr_0",
@@ -21587,13 +21592,13 @@
     {
       "ID": "61cefe3",
       "IsBase": true,
-      "Progressed": 1576333,
+      "Progressed": 1576490,
       "Completed": 505
     },
     {
       "ID": "bkjdbk8",
       "IsBase": false,
-      "Progressed": 1576333,
+      "Progressed": 1576490,
       "Completed": 8
     }
   ],
@@ -21601,8 +21606,8 @@
   "FirstSeenRating": "2023-06-09T03:57:04.3869033+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:50.4372379+00:00",
   "LastChanged": "2023-08-16T17:58:23.2352267+00:00",
-  "LastChanged_Achievements": "2023-08-16T20:07:16.5936162+00:00",
+  "LastChanged_Achievements": "2023-08-16T21:08:21.4340784+00:00",
   "LastUpdate_AppInfo": "2023-08-10T19:57:07.9529529+00:00",
-  "LastUpdate_Ratings": "2023-08-16T19:58:32.0597892+00:00",
-  "LastUpdate_Achievements": "2023-08-16T20:07:16.609281+00:00"
+  "LastUpdate_Ratings": "2023-08-16T20:58:48.3613144+00:00",
+  "LastUpdate_Achievements": "2023-08-16T21:08:21.4508493+00:00"
 }

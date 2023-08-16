@@ -6,18 +6,18 @@ Number of Ratings: 13,393  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Immovable Object | 89.00% | ~112,439 |
+| Immovable Object | 89.00% | ~112,440 |
 | Comeback | 82.00% | ~103,596 |
-| Information is Key | 80.00% | ~101,069 |
+| Information is Key | 80.00% | ~101,070 |
 | Unlucky | 71.00% | ~89,699 |
-| Anarchist | 68.00% | ~85,908 |
-| Wallhack | 65.00% | ~82,118 |
+| Anarchist | 68.00% | ~85,909 |
+| Wallhack | 65.00% | ~82,119 |
 | Steady Supply | 60.00% | ~75,802 |
-| Lucky Shot | 53.00% | ~66,958 |
+| Lucky Shot | 53.00% | ~66,959 |
 | Forward Observer | 52.00% | ~65,695 |
 | Ring Ring! | 52.00% | ~65,695 |
-| Bossing Around | 45.00% | ~56,851 |
-| Frostbite | 45.00% | ~56,851 |
+| Bossing Around | 45.00% | ~56,852 |
+| Frostbite | 45.00% | ~56,852 |
 | Night Owl | 44.00% | ~55,588 |
 | Strength in Numbers | 44.00% | ~55,588 |
 | Fog of War | 41.00% | ~51,798 |
@@ -33,12 +33,12 @@ Number of Ratings: 13,393  (23.09.2022)
 | Together As One | 31.00% | ~39,164 |
 | Gavrilo Princip | 27.00% | ~34,111 |
 | Lead Harvest | 25.00% | ~31,584 |
-| Skynet Confirmed | 23.00% | ~29,057 |
+| Skynet Confirmed | 23.00% | ~29,058 |
 | Kesselschlacht | 22.00% | ~27,794 |
 | Democracy Works! | 20.00% | ~25,267 |
 | Switch, Please! | 19.00% | ~24,004 |
-| I've Seen It All | 18.00% | ~22,740 |
-| Tourist | 18.00% | ~22,740 |
+| I've Seen It All | 18.00% | ~22,741 |
+| Tourist | 18.00% | ~22,741 |
 | At Least This Way I Can Win... | 17.00% | ~21,477 |
 | Oops! | 17.00% | ~21,477 |
 | Developers, Developers, Developers, Developers! | 16.00% | ~20,214 |
@@ -74,7 +74,7 @@ Number of Ratings: 13,393  (23.09.2022)
 | Seeing is Believing | 0.90% | ~1,137 |
 | Road to Berlin | 0.60% | ~758 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,336 (Ranked 67)  
+Progressed: 126,337 (Ranked 67)  
 Completed: 28 (0.02%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,7 +192,7 @@ Completed: 28 (0.02%) (Ranked 238)
 | 2023-08-13 | 125,906 | 28 |
 | 2023-08-14 | 126,050 | 28 |
 | 2023-08-15 | 126,206 | 28 |
-| 2023-08-16 | 126,336 | 28 |
+| 2023-08-16 | 126,337 | 28 |
 ## Awards
 Max (Competitive Players): 329  (Ranked 230)  
 Sum: 2,876 (Ranked 169)  

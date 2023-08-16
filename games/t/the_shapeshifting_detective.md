@@ -19,7 +19,7 @@
 | Poetent | 13.00% | ~26 |
 | Voyeur | 12.00% | ~24 |
 | Oscar Winning Performance | 11.00% | ~22 |
-| Put A Ring On It | 9.00% | ~18 |
+| Put A Ring On It | 10.00% | ~20 |
 | Chicken | 8.00% | ~16 |
 | Heavy Rayne | 8.00% | ~16 |
 | Show Me Some Skin | 6.00% | ~12 |

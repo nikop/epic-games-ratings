@@ -862,9 +862,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 660891,
+  "EOS_Progressed": 660892,
   "EOS_Completed": 168,
-  "EOS_NewPlayers": 315,
+  "EOS_NewPlayers": 316,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -12047,6 +12047,11 @@
       "Time": "2023-08-16T20:04:57.9287132+00:00",
       "NumProgressed": 660891,
       "NumCompleted": 168
+    },
+    {
+      "Time": "2023-08-16T21:05:32.0003009+00:00",
+      "NumProgressed": 660892,
+      "NumCompleted": 168
     }
   ],
   "TotalAchievements": 48,
@@ -12082,7 +12087,7 @@
       "Name": "Adventurer",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 39653
+      "UsersEstimate": 39654
     },
     {
       "ID": "Achievement_05_Protector_of_the_Realm",
@@ -12210,7 +12215,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 112351
+      "UsersEstimate": 112352
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -12218,7 +12223,7 @@
       "Name": "Empire\u0027s Bane",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 39653
+      "UsersEstimate": 39654
     },
     {
       "ID": "Achievement_22_Cure_for_Corruption",
@@ -12441,15 +12446,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 660891,
+      "Progressed": 660892,
       "Completed": 168
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-07-06T22:58:14.2890682+00:00",
-  "LastChanged_Achievements": "2023-08-16T20:04:57.9287127+00:00",
+  "LastChanged_Achievements": "2023-08-16T21:05:32.0002998+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:21.9809601+00:00",
-  "LastUpdate_Ratings": "2023-08-16T19:59:07.7061984+00:00",
-  "LastUpdate_Achievements": "2023-08-16T20:04:57.9288077+00:00"
+  "LastUpdate_Ratings": "2023-08-16T20:59:30.1998423+00:00",
+  "LastUpdate_Achievements": "2023-08-16T21:05:32.0005026+00:00"
 }

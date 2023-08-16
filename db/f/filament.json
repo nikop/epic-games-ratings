@@ -4,7 +4,7 @@
   "ProductSlug": "filament-332a92",
   "Ranking_Rating": 775,
   "Ranking_Popularity": 189,
-  "Ranking_PopularitySum": 279,
+  "Ranking_PopularitySum": 280,
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 176,
   "Ranking_EOS_NewPlayers": 68,
@@ -237,7 +237,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 199241,
+  "EOS_Progressed": 199245,
   "EOS_Completed": 482,
   "EOS_NewPlayers": 589,
   "EOS_NewCompleters": 4,
@@ -12907,6 +12907,11 @@
       "Time": "2023-08-16T20:03:29.4215602+00:00",
       "NumProgressed": 199241,
       "NumCompleted": 482
+    },
+    {
+      "Time": "2023-08-16T21:04:11.1392263+00:00",
+      "NumProgressed": 199245,
+      "NumCompleted": 482
     }
   ],
   "TotalAchievements": 29,
@@ -12942,7 +12947,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 187287
+      "UsersEstimate": 187290
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -13054,7 +13059,7 @@
       "Name": "So you\u0027re saying I don\u0027t touch these ones?",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 11954
+      "UsersEstimate": 11955
     },
     {
       "ID": "ACHIEVEMENT_OPUS",
@@ -13149,7 +13154,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 199241,
+      "Progressed": 199245,
       "Completed": 482
     }
   ],
@@ -13157,8 +13162,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-08-12T04:00:44.2118416+00:00",
-  "LastChanged_Achievements": "2023-08-16T20:03:29.4215597+00:00",
+  "LastChanged_Achievements": "2023-08-16T21:04:11.1392253+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:39.8654099+00:00",
-  "LastUpdate_Ratings": "2023-08-16T20:00:17.6944949+00:00",
-  "LastUpdate_Achievements": "2023-08-16T20:03:29.4216603+00:00"
+  "LastUpdate_Ratings": "2023-08-16T21:00:53.4590734+00:00",
+  "LastUpdate_Achievements": "2023-08-16T21:04:11.1393574+00:00"
 }

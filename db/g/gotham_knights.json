@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 67,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -2426,9 +2426,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 67868,
+  "EOS_Progressed": 67870,
   "EOS_Completed": 107,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -12516,6 +12516,11 @@
       "Time": "2023-08-16T20:06:16.795208+00:00",
       "NumProgressed": 67868,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2023-08-16T21:06:52.9323331+00:00",
+      "NumProgressed": 67870,
+      "NumCompleted": 107
     }
   ],
   "TotalAchievements": 61,
@@ -12631,7 +12636,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 14252
+      "UsersEstimate": 14253
     },
     {
       "ID": "CLAYFACE_2",
@@ -12639,7 +12644,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 12216
+      "UsersEstimate": 12217
     },
     {
       "ID": "CLAYFACE_3",
@@ -12679,7 +12684,7 @@
       "Name": "Expert Crime Fighter",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 3393
+      "UsersEstimate": 3394
     },
     {
       "ID": "CRIME_FIGHTER_2",
@@ -12751,7 +12756,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 19003
+      "UsersEstimate": 19004
     },
     {
       "ID": "FREEZE_1_5",
@@ -12839,7 +12844,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 16967
+      "UsersEstimate": 16968
     },
     {
       "ID": "HARLEY_3",
@@ -12871,7 +12876,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 33934
+      "UsersEstimate": 33935
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -12903,7 +12908,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 18324
+      "UsersEstimate": 18325
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -12919,7 +12924,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 23075
+      "UsersEstimate": 23076
     },
     {
       "ID": "MYSTERY_02",
@@ -12927,7 +12932,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 16967
+      "UsersEstimate": 16968
     },
     {
       "ID": "MYSTERY_03",
@@ -12951,7 +12956,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 12216
+      "UsersEstimate": 12217
     },
     {
       "ID": "MYSTERY_06",
@@ -12983,7 +12988,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 7465
+      "UsersEstimate": 7466
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -13014,13 +13019,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 67868,
+      "Progressed": 67870,
       "Completed": 107
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 38148,
+      "Progressed": 38150,
       "Completed": 2658
     }
   ],
@@ -13028,8 +13033,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-08-16T00:01:38.1733467+00:00",
-  "LastChanged_Achievements": "2023-08-16T20:06:16.7952071+00:00",
+  "LastChanged_Achievements": "2023-08-16T21:06:52.9323322+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:49.7416919+00:00",
-  "LastUpdate_Ratings": "2023-08-16T20:01:16.994965+00:00",
-  "LastUpdate_Achievements": "2023-08-16T20:06:16.7953434+00:00"
+  "LastUpdate_Ratings": "2023-08-16T21:02:06.3104404+00:00",
+  "LastUpdate_Achievements": "2023-08-16T21:06:52.9324516+00:00"
 }

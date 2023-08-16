@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7975,
+  "EOS_Progressed": 7985,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2119,
+  "EOS_NewPlayers": 2112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2197,6 +2197,11 @@
       "Time": "2023-08-16T20:06:20.5083687+00:00",
       "NumProgressed": 7975,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-16T21:07:07.1974839+00:00",
+      "NumProgressed": 7985,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -2249,7 +2254,7 @@
       "Name": "Doctor Approved",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 1276
+      "UsersEstimate": 1278
     },
     {
       "ID": "15",
@@ -2257,7 +2262,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 1196
+      "UsersEstimate": 1198
     },
     {
       "ID": "16",
@@ -2281,7 +2286,7 @@
       "Name": "Bottoms up!",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "19",
@@ -2289,7 +2294,7 @@
       "Name": "Martian Music",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "2",
@@ -2297,7 +2302,7 @@
       "Name": "Data Logger",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "20",
@@ -2385,7 +2390,7 @@
       "Name": "Captain Drummer",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1196
+      "UsersEstimate": 1198
     },
     {
       "ID": "30",
@@ -2417,7 +2422,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "7",
@@ -2448,14 +2453,14 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 7975,
+      "Progressed": 7985,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged_Achievements": "2023-08-16T20:06:20.5083683+00:00",
+  "LastChanged_Achievements": "2023-08-16T21:07:07.1974828+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:56.6215488+00:00",
-  "LastUpdate_Ratings": "2023-08-16T20:00:36.4007615+00:00",
-  "LastUpdate_Achievements": "2023-08-16T20:06:20.5084049+00:00"
+  "LastUpdate_Ratings": "2023-08-16T21:01:14.152567+00:00",
+  "LastUpdate_Achievements": "2023-08-16T21:07:07.197526+00:00"
 }
