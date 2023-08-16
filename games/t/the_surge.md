@@ -11,7 +11,7 @@ Number of Ratings: 62  (23.09.2022)
 | Sorry, I Dropped This | 77.00% | ~3,543 |
 | First Day on the Job | 77.00% | ~3,543 |
 | Butcher's Bill | 55.00% | ~2,531 |
-| P.A.X | 37.00% | ~1,702 |
+| P.A.X | 38.00% | ~1,748 |
 | Hey Listen | 37.00% | ~1,702 |
 | OPERATOR | 36.00% | ~1,656 |
 | It's Blue Light | 33.00% | ~1,518 |

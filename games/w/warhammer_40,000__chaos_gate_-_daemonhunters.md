@@ -24,10 +24,11 @@ Number of Ratings: 371  (23.09.2022)
 | Execution Force | 0.90% | ~28 |
 | Hive Exterminator | 0.90% | ~28 |
 | Hold Your Ground | 0.80% | ~25 |
+| Corruption Cleanser | 0.80% | ~25 |
 | Just a Scratch | 0.80% | ~25 |
-| Corruption Cleanser | 0.70% | ~22 |
 | Tactical Sabotage | 0.50% | ~16 |
 | Patron of Deimos | 0.40% | ~13 |
+| Fleetmaster | 0.40% | ~13 |
 | Daemonkeeper | 0.40% | ~13 |
 | Mind Like a Fortress | 0.40% | ~13 |
 | Efficient Killer | 0.40% | ~13 |
@@ -36,7 +37,6 @@ Number of Ratings: 371  (23.09.2022)
 | A Gift Spurned | 0.40% | ~13 |
 | Long Distance Call | 0.40% | ~13 |
 | Tactical Flexibility | 0.40% | ~13 |
-| Fleetmaster | 0.30% | ~9 |
 | For the Machine God | 0.30% | ~9 |
 | Preservationist | 0.30% | ~9 |
 | Engine Kill | 0.30% | ~9 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Not a Mote of Corruption | 0.00% | ~0 |
 | Strategic Command | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,153 (Ranked 154)  
+Progressed: 3,154 (Ranked 154)  
 Completed: 0 (0.00%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 0 (0.00%) (Ranked 257)
 | 2023-08-12 | 3,144 | 0 |
 | 2023-08-14 | 3,148 | 0 |
 | 2023-08-15 | 3,151 | 0 |
-| 2023-08-16 | 3,153 | 0 |
+| 2023-08-16 | 3,154 | 0 |
 ## Awards
 Max (Character Customization): 219  (Ranked 264)  
 Sum: 469 (Ranked 305)  

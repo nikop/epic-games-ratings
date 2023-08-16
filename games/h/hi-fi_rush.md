@@ -7,17 +7,17 @@ Rating: 4.88 (Ranked 18)
 | ---- | ---------- | ----- |
 | Start with a bang! | 11.00% | ~432 |
 | Feeling the beat! | 11.00% | ~432 |
-| You can pet the cat! | 10.00% | ~392 |
+| You can pet the cat! | 10.00% | ~393 |
 | Who put gears in there? | 9.00% | ~353 |
 | Cream of the Crop | 8.00% | ~314 |
 | Thanks for the free chip, Peppermint! | 8.00% | ~314 |
 | You got this, Peppermint? | 7.00% | ~275 |
 | Perfect Parry | 7.00% | ~275 |
 | Alright, that felt AWESOME! | 7.00% | ~275 |
-| This will cost you big time | 6.00% | ~235 |
-| I play my own way! | 6.00% | ~235 |
-| Uh, they were broken when I got here | 6.00% | ~235 |
-| I look cool. But I can look COOLER. | 6.00% | ~235 |
+| This will cost you big time | 6.00% | ~236 |
+| I play my own way! | 6.00% | ~236 |
+| Uh, they were broken when I got here | 6.00% | ~236 |
+| I look cool. But I can look COOLER. | 6.00% | ~236 |
 | The Negotiator | 5.00% | ~196 |
 | Whoa! There's ANOTHER health bar!? | 5.00% | ~196 |
 | Z-shielding's got nothing on us! | 5.00% | ~196 |
@@ -35,7 +35,7 @@ Rating: 4.88 (Ranked 18)
 | Beat-hit mania | 3.00% | ~118 |
 | That's a lot of junk metal… | 3.00% | ~118 |
 | There's such a thing as TOO helpful | 3.00% | ~118 |
-| Chip-tuned | 2.00% | ~78 |
+| Chip-tuned | 2.00% | ~79 |
 | I think I found your calling, Macaron | 1.00% | ~39 |
 | I hit things with a guitar really well. | 1.00% | ~39 |
 | Wanna hear my playlist? | 1.00% | ~39 |
@@ -77,7 +77,7 @@ Rating: 4.88 (Ranked 18)
 | Voices from within | 0.10% | ~2 |
 | Low budget finish | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,924 (Ranked 147)  
+Progressed: 3,926 (Ranked 147)  
 Completed: 7 (0.18%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 7 (0.18%) (Ranked 187)
 | 2023-08-13 | 3,885 | 7 |
 | 2023-08-14 | 3,899 | 7 |
 | 2023-08-15 | 3,914 | 7 |
-| 2023-08-16 | 3,924 | 7 |
+| 2023-08-16 | 3,926 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

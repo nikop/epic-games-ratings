@@ -2626,9 +2626,9 @@
       "Count": 238
     }
   ],
-  "EOS_Progressed": 71945,
+  "EOS_Progressed": 71947,
   "EOS_Completed": 92,
-  "EOS_NewPlayers": 1005,
+  "EOS_NewPlayers": 1003,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -15426,6 +15426,11 @@
       "Time": "2023-08-16T08:06:42.5221564+00:00",
       "NumProgressed": 71945,
       "NumCompleted": 92
+    },
+    {
+      "Time": "2023-08-16T09:08:09.2446607+00:00",
+      "NumProgressed": 71947,
+      "NumCompleted": 92
     }
   ],
   "TotalAchievements": 30,
@@ -15437,7 +15442,7 @@
       "Name": "First Journey",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 8633
+      "UsersEstimate": 8634
     },
     {
       "ID": "ACHIEVEMENT_01",
@@ -15485,7 +15490,7 @@
       "Name": "Biggest Reward",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 10072
+      "UsersEstimate": 10073
     },
     {
       "ID": "ACHIEVEMENT_07",
@@ -15493,7 +15498,7 @@
       "Name": "Most Achievements",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 8633
+      "UsersEstimate": 8634
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -15533,7 +15538,7 @@
       "Name": "Prop-M Rover",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 23022
+      "UsersEstimate": 23023
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -15541,7 +15546,7 @@
       "Name": "Spirit",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 7194
+      "UsersEstimate": 7195
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -15573,7 +15578,7 @@
       "Name": "Sojourner",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 19425
+      "UsersEstimate": 19426
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -15605,7 +15610,7 @@
       "Name": "Money money",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 11511
+      "UsersEstimate": 11512
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -15637,7 +15642,7 @@
       "Name": "Hellenic Elysium",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 8633
+      "UsersEstimate": 8634
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -15645,7 +15650,7 @@
       "Name": "Ultimate success",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 7194
+      "UsersEstimate": 7195
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -15653,7 +15658,7 @@
       "Name": "Grand champion",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 8633
+      "UsersEstimate": 8634
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -15676,15 +15681,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 71945,
+      "Progressed": 71947,
       "Completed": 92
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-08-13T22:00:02.0961472+00:00",
-  "LastChanged_Achievements": "2023-08-16T08:06:42.5221561+00:00",
+  "LastChanged_Achievements": "2023-08-16T09:08:09.2446602+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:58.0774257+00:00",
-  "LastUpdate_Ratings": "2023-08-16T08:00:03.3674934+00:00",
-  "LastUpdate_Achievements": "2023-08-16T08:06:42.5223311+00:00"
+  "LastUpdate_Ratings": "2023-08-16T09:01:14.406588+00:00",
+  "LastUpdate_Achievements": "2023-08-16T09:08:09.2447637+00:00"
 }

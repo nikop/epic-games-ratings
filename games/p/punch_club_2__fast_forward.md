@@ -16,7 +16,7 @@
 | First defeat | 76.00% | ~192 |
 | Neurotrainer – power gainer! | 76.00% | ~192 |
 | Your own amateur gym | 75.00% | ~190 |
-| Run K, run! | 73.00% | ~185 |
+| Run K, run! | 74.00% | ~187 |
 | Fighting is cool | 70.00% | ~177 |
 | Hello, world! | 70.00% | ~177 |
 | No bullying more | 69.00% | ~175 |
@@ -26,9 +26,9 @@
 | Law student | 63.00% | ~159 |
 | Workout professional | 62.00% | ~157 |
 | It's good to be alive | 61.00% | ~154 |
+| Own four walls | 61.00% | ~154 |
 | Handyman | 60.00% | ~152 |
 | Champion – starter pack | 60.00% | ~152 |
-| Own four walls | 60.00% | ~152 |
 | Employee of the year | 60.00% | ~152 |
 | Fight for life | 59.00% | ~149 |
 | Little hacker | 59.00% | ~149 |
@@ -53,7 +53,7 @@
 | The die is cast | 37.00% | ~94 |
 | Seashell hunter | 35.00% | ~89 |
 | Gang wrangler | 34.00% | ~86 |
-| Problems of cyborgs | 33.00% | ~83 |
+| Problems of cyborgs | 34.00% | ~86 |
 | Undercover robot | 33.00% | ~83 |
 | Absolute Champion! | 32.00% | ~81 |
 | Careerist | 32.00% | ~81 |

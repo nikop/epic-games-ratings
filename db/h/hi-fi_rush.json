@@ -118,9 +118,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3924,
+  "EOS_Progressed": 3926,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -5993,6 +5993,11 @@
       "Time": "2023-08-16T08:05:54.5857712+00:00",
       "NumProgressed": 3924,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-08-16T09:07:14.3969826+00:00",
+      "NumProgressed": 3926,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 71,
@@ -6020,7 +6025,7 @@
       "Name": "This will cost you big time",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "Ach004",
@@ -6124,7 +6129,7 @@
       "Name": "Chip-tuned",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "Ach017",
@@ -6132,7 +6137,7 @@
       "Name": "I play my own way!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "Ach018",
@@ -6260,7 +6265,7 @@
       "Name": "Uh, they were broken when I got here",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "Ach034",
@@ -6332,7 +6337,7 @@
       "Name": "I look cool. But I can look COOLER.",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "Ach043",
@@ -6404,7 +6409,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "Ach052",
@@ -6571,13 +6576,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 3924,
+      "Progressed": 3926,
       "Completed": 7
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2445,
+      "Progressed": 2447,
       "Completed": 1929
     }
   ],
@@ -6585,8 +6590,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-08-10T23:00:09.4128826+00:00",
-  "LastChanged_Achievements": "2023-08-16T08:05:54.5857707+00:00",
+  "LastChanged_Achievements": "2023-08-16T09:07:14.3969822+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:15.2039204+00:00",
-  "LastUpdate_Ratings": "2023-08-16T08:00:17.8506303+00:00",
-  "LastUpdate_Achievements": "2023-08-16T08:05:54.5858724+00:00"
+  "LastUpdate_Ratings": "2023-08-16T09:01:33.0425034+00:00",
+  "LastUpdate_Achievements": "2023-08-16T09:07:14.3970972+00:00"
 }

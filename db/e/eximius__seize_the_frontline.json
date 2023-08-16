@@ -300,9 +300,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 194749,
+  "EOS_Progressed": 194750,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 551,
+  "EOS_NewPlayers": 550,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12965,6 +12965,11 @@
       "Time": "2023-08-16T08:03:39.0864154+00:00",
       "NumProgressed": 194749,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-16T09:04:40.2522913+00:00",
+      "NumProgressed": 194750,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -12992,7 +12997,7 @@
       "Name": "Flawless Victory",
       "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 9737
+      "UsersEstimate": 9738
     },
     {
       "ID": "ACH_GATED_COMMUNITY",
@@ -13024,7 +13029,7 @@
       "Name": "Total Destruction",
       "Percentage": 1,
       "XP": 60,
-      "UsersEstimate": 1947
+      "UsersEstimate": 1948
     },
     {
       "ID": "ACH_WIN_100_ONLINE_GAME",
@@ -13040,7 +13045,7 @@
       "Name": "Getting There",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 1947
+      "UsersEstimate": 1948
     },
     {
       "ID": "ACH_WIN_30_MAP_CONTROL",
@@ -13048,7 +13053,7 @@
       "Name": "We shall never Surrender!",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "ACH_WIN_3_ONLINE_GAME",
@@ -13056,7 +13061,7 @@
       "Name": "Baby Steps",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 9737
+      "UsersEstimate": 9738
     },
     {
       "ID": "ACH_WIN_50_ONLINE_GAME",
@@ -13064,7 +13069,7 @@
       "Name": "Halfway There",
       "Percentage": 0.2,
       "XP": 70,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "ACH_WIN_90_MAP_CONTROL",
@@ -13088,7 +13093,7 @@
       "Name": "Untouchable",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 1947
+      "UsersEstimate": 1948
     },
     {
       "ID": "ACH_WIN_FIRST_COOP",
@@ -13096,14 +13101,14 @@
       "Name": "First Co-Op Win",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 9737
+      "UsersEstimate": 9738
     }
   ],
   "AchievementSets": [
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 194749,
+      "Progressed": 194750,
       "Completed": 4
     }
   ],
@@ -13111,8 +13116,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-08-12T15:01:47.6654015+00:00",
-  "LastChanged_Achievements": "2023-08-16T08:03:39.0864147+00:00",
+  "LastChanged_Achievements": "2023-08-16T09:04:40.2522907+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:36.9380677+00:00",
-  "LastUpdate_Ratings": "2023-08-16T08:01:39.2691748+00:00",
-  "LastUpdate_Achievements": "2023-08-16T08:03:39.086584+00:00"
+  "LastUpdate_Ratings": "2023-08-16T09:03:05.3809543+00:00",
+  "LastUpdate_Achievements": "2023-08-16T09:04:40.2523836+00:00"
 }

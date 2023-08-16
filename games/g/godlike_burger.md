@@ -16,8 +16,8 @@ Rating: 4.27 (Ranked 809)
 | BUTCHER | 25.00% | ~102 |
 | RAMBO | 22.00% | ~90 |
 | INDIVIDUAL APPROACH | 20.00% | ~81 |
+| MARTYR | 20.00% | ~81 |
 | HELL'S KITCHEN | 19.00% | ~77 |
-| MARTYR | 19.00% | ~77 |
 | CELEBRITY | 17.00% | ~69 |
 | GRATITUDE | 16.00% | ~65 |
 | LAW-ABIDING CITIZEN | 11.00% | ~45 |

@@ -25,13 +25,13 @@ Rating: 4.45 (Ranked 633)
 | Climbing the Ladder | 15.00% | ~522 |
 | Der Geist | 15.00% | ~522 |
 | Close Quarters | 15.00% | ~522 |
+| Snake in the Grass | 14.00% | ~488 |
 | Brains of the Operation | 14.00% | ~488 |
 | Opposing Force | 13.00% | ~453 |
 | Enemy at the Gates | 13.00% | ~453 |
 | Fields of Glory | 13.00% | ~453 |
 | Skirmisher | 13.00% | ~453 |
 | Die Nussknacker Sweet! | 13.00% | ~453 |
-| Snake in the Grass | 13.00% | ~453 |
 | No Stone Unturned | 12.00% | ~418 |
 | Set Europe Ablaze | 12.00% | ~418 |
 | Precision Is Key | 9.00% | ~313 |

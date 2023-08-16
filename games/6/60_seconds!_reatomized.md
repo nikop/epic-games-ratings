@@ -1,7 +1,7 @@
 # 60 Seconds! Reatomized
 [Store](https://store.epicgames.com/en-US/p/60-seconds-reatomized-91ffa3)  
 [View Rawdata](../../db/6/60_seconds!_reatomized.json)  
-Rating: 4.64 (Ranked 314)  
+Rating: 4.64 (Ranked 315)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -60,7 +60,7 @@ Rating: 4.64 (Ranked 314)
 | Cat Lady | 0.80% | ~39 |
 | Pro gamer | 0.70% | ~34 |
 | Naysayer | 0.60% | ~30 |
-| Manhattan Project | 0.50% | ~25 |
+| Manhattan Project | 0.60% | ~30 |
 | Fair Exchange | 0.40% | ~20 |
 | Miracle | 0.30% | ~15 |
 | Tora! Tora! Tora! | 0.20% | ~10 |
