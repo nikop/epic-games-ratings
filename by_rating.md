@@ -135,7 +135,7 @@
 | 118 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 41 | 423 |
 | 118 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.76 | 357 | 225 |
 | 135 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 26 | 474 |
-| 135 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 5,696 | 61 |
+| 135 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 5,704 | 61 |
 | 135 | [Diabotical](games/d/diabotical.md) | 4.75 | 272 | 245 |
 | 135 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 662 | 173 |
 | 135 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 611 | 179 |
@@ -445,7 +445,7 @@
 | 426 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.58 | 0 | 512 |
 | 426 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.58 | 166 | 289 |
 | 426 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 53 | 395 |
-| 426 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,292 | 56 |
+| 426 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,293 | 56 |
 | 426 | [Travellers Rest](games/t/travellers_rest.md) | 4.58 | 0 | 512 |
 | 426 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.58 | 0 | 512 |
 | 426 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 219 | 264 |
@@ -525,7 +525,7 @@
 | 512 | [Tails of Iron](games/t/tails_of_iron.md) | 4.53 | 0 | 512 |
 | 512 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.53 | 510 | 197 |
 | 512 | [The Tenants](games/t/the_tenants.md) | 4.53 | 0 | 512 |
-| 512 | [VALORANT](games/v/valorant.md) | 4.53 | 64,857 | 10 |
+| 512 | [VALORANT](games/v/valorant.md) | 4.53 | 64,991 | 10 |
 | 527 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 31,156 | 15 |
 | 527 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 21 | 501 |
 | 527 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.52 | 34 | 442 |
@@ -680,25 +680,25 @@
 | 666 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.42 | 0 | 512 |
 | 666 | [Star Stable Online](games/s/star_stable_online.md) | 4.42 | 150 | 296 |
 | 666 | [Warpips](games/w/warpips.md) | 4.42 | 26 | 474 |
-| 666 | [World of Warships](games/w/world_of_warships.md) | 4.42 | 1,260 | 132 |
-| 682 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 0 | 512 |
-| 682 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.41 | 0 | 512 |
-| 682 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 248 | 252 |
-| 682 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.41 | 0 | 512 |
-| 682 | [Hell is Others](games/h/hell_is_others.md) | 4.41 | 35 | 438 |
-| 682 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 95 | 346 |
-| 682 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.41 | 0 | 512 |
-| 682 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 0 | 512 |
-| 682 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.41 | 0 | 512 |
-| 682 | [Othercide](games/o/othercide.md) | 4.41 | 0 | 512 |
-| 682 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 0 | 512 |
-| 682 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.41 | 0 | 512 |
-| 682 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 34 | 442 |
-| 682 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 74 | 371 |
-| 682 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,194 | 107 |
-| 682 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 0 | 512 |
-| 682 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.41 | 555 | 191 |
-| 682 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.41 | 0 | 512 |
+| 681 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 0 | 512 |
+| 681 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.41 | 0 | 512 |
+| 681 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 248 | 252 |
+| 681 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.41 | 0 | 512 |
+| 681 | [Hell is Others](games/h/hell_is_others.md) | 4.41 | 35 | 438 |
+| 681 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 95 | 346 |
+| 681 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.41 | 0 | 512 |
+| 681 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 0 | 512 |
+| 681 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.41 | 0 | 512 |
+| 681 | [Othercide](games/o/othercide.md) | 4.41 | 0 | 512 |
+| 681 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 0 | 512 |
+| 681 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.41 | 0 | 512 |
+| 681 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 34 | 442 |
+| 681 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 74 | 371 |
+| 681 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,194 | 107 |
+| 681 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 0 | 512 |
+| 681 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.41 | 555 | 191 |
+| 681 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.41 | 0 | 512 |
+| 681 | [World of Warships](games/w/world_of_warships.md) | 4.41 | 1,266 | 132 |
 | 700 | [Breathedge](games/b/breathedge.md) | 4.40 | 0 | 512 |
 | 700 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.40 | 0 | 512 |
 | 700 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 0 | 512 |
