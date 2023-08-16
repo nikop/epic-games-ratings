@@ -45,23 +45,23 @@
 | 42 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.35% |
 | 44 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 45 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.98% |
-| 46 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.45% |
-| 47 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.36% |
-| 48 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.19% |
-| 49 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.89% |
-| 50 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.77% |
-| 51 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 4.76% |
-| 52 | [Bugsnax](games/b/bugsnax.md) | 4.71% |
-| 53 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.69% |
-| 54 | [JARS](games/j/jars.md) | 4.55% |
-| 55 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.49% |
-| 56 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
-| 56 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.17% |
-| 58 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.04% |
-| 59 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.89% |
-| 60 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 3.85% |
-| 61 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 3.77% |
-| 61 | [ZZT!](games/z/zzt!.md) | 3.77% |
+| 46 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.66% |
+| 47 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.45% |
+| 48 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.36% |
+| 49 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.19% |
+| 50 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.89% |
+| 51 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.77% |
+| 52 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 4.76% |
+| 53 | [Bugsnax](games/b/bugsnax.md) | 4.71% |
+| 54 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.69% |
+| 55 | [JARS](games/j/jars.md) | 4.55% |
+| 56 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.49% |
+| 57 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
+| 57 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.17% |
+| 59 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.04% |
+| 60 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.89% |
+| 61 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 3.85% |
+| 62 | [ZZT!](games/z/zzt!.md) | 3.77% |
 | 63 | [Without Escape](games/w/without_escape.md) | 3.70% |
 | 64 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 65 | [Doodle God](games/d/doodle_god.md) | 3.46% |
@@ -144,14 +144,14 @@
 | 142 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
 | 143 | [Aragami 2](games/a/aragami_2.md) | 0.51% |
 | 143 | [The Surge 2](games/t/the_surge_2.md) | 0.51% |
-| 145 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.50% |
-| 146 | [Godlike Burger](games/g/godlike_burger.md) | 0.49% |
+| 145 | [Godlike Burger](games/g/godlike_burger.md) | 0.49% |
+| 145 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.49% |
 | 147 | [Them and Us](games/t/them_and_us.md) | 0.48% |
 | 148 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
 | 149 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.46% |
-| 149 | [Tchia](games/t/tchia.md) | 0.46% |
 | 149 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.46% |
 | 149 | [Train Valley](games/t/train_valley.md) | 0.46% |
+| 152 | [Tchia](games/t/tchia.md) | 0.45% |
 | 153 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.44% |
 | 154 | [Tails of Iron](games/t/tails_of_iron.md) | 0.43% |
 | 155 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.41% |
