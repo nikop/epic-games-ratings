@@ -80,6 +80,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Champions | 0.70% | ~94 |
 | Statesmen | 0.70% | ~94 |
 | Temple of Solomon | 0.70% | ~94 |
+| Persian Paganism | 0.70% | ~94 |
 | Building Wonders | 0.70% | ~94 |
 | Lion | 0.60% | ~81 |
 | Subjugator | 0.60% | ~81 |
@@ -91,7 +92,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Via Recta Souk | 0.60% | ~81 |
 | Learn to Play 3 | 0.60% | ~81 |
 | Power to the People | 0.60% | ~81 |
-| Persian Paganism | 0.60% | ~81 |
 | Economic Reform | 0.60% | ~81 |
 | Legalism | 0.60% | ~81 |
 | Legionary | 0.60% | ~81 |

@@ -6429,9 +6429,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 59007,
+  "EOS_Progressed": 59009,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 466,
+  "EOS_NewPlayers": 468,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18904,6 +18904,11 @@
       "Time": "2023-08-16T21:05:16.3294919+00:00",
       "NumProgressed": 59007,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-16T22:04:32.3375983+00:00",
+      "NumProgressed": 59009,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -19107,7 +19112,7 @@
       "Name": "King Solomon",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10031
+      "UsersEstimate": 10032
     },
     {
       "ID": "Kingslayer",
@@ -19123,7 +19128,7 @@
       "Name": "Know your enemy",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 3540
+      "UsersEstimate": 3541
     },
     {
       "ID": "Lance-a-lot",
@@ -19139,7 +19144,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 18882
+      "UsersEstimate": 18883
     },
     {
       "ID": "Lawbringer",
@@ -19171,7 +19176,7 @@
       "Name": "Mastery",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 4130
+      "UsersEstimate": 4131
     },
     {
       "ID": "Minor Clan",
@@ -19267,7 +19272,7 @@
       "Name": "The king is pleased",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 10621
+      "UsersEstimate": 10622
     },
     {
       "ID": "This Is Our Land",
@@ -19322,15 +19327,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 59007,
+      "Progressed": 59009,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-08-16T17:01:22.4446842+00:00",
-  "LastChanged_Achievements": "2023-08-16T21:05:16.329491+00:00",
+  "LastChanged_Achievements": "2023-08-16T22:04:32.3375977+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:44.6335832+00:00",
-  "LastUpdate_Ratings": "2023-08-16T21:02:02.672693+00:00",
-  "LastUpdate_Achievements": "2023-08-16T21:05:16.3296264+00:00"
+  "LastUpdate_Ratings": "2023-08-16T22:00:44.806424+00:00",
+  "LastUpdate_Achievements": "2023-08-16T22:04:32.3377151+00:00"
 }

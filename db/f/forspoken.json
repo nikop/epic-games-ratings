@@ -334,7 +334,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 39685,
+  "EOS_Progressed": 39686,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
@@ -7369,6 +7369,11 @@
       "Time": "2023-08-16T20:04:13.6500848+00:00",
       "NumProgressed": 39685,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-16T22:04:01.9129535+00:00",
+      "NumProgressed": 39686,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -7428,7 +7433,7 @@
       "Name": "Attachments",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 3968
+      "UsersEstimate": 3969
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -7666,9 +7671,9 @@
       "ID": "MONUMENT_FIRST",
       "SetID": "6d0g7k8",
       "Name": "Pilgrimage: Initiate",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2381
+      "UsersEstimate": 2778
     },
     {
       "ID": "MONUMENT_TWENTY",
@@ -7803,22 +7808,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 39685,
+      "Progressed": 39686,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 4522,
-      "Completed": 4522
+      "Progressed": 4523,
+      "Completed": 4523
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-08-08T01:54:06.2401018+00:00",
-  "LastChanged_Achievements": "2023-08-16T21:04:39.2776509+00:00",
+  "LastChanged_Achievements": "2023-08-16T22:04:01.9129528+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:15.0269644+00:00",
-  "LastUpdate_Ratings": "2023-08-16T21:00:27.4295063+00:00",
-  "LastUpdate_Achievements": "2023-08-16T21:04:39.2777458+00:00"
+  "LastUpdate_Ratings": "2023-08-16T21:59:38.9096484+00:00",
+  "LastUpdate_Achievements": "2023-08-16T22:04:01.9130434+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "filament-332a92",
   "Ranking_Rating": 775,
   "Ranking_Popularity": 189,
-  "Ranking_PopularitySum": 280,
+  "Ranking_PopularitySum": 281,
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 176,
   "Ranking_EOS_NewPlayers": 68,
@@ -237,9 +237,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 199245,
+  "EOS_Progressed": 199247,
   "EOS_Completed": 482,
-  "EOS_NewPlayers": 589,
+  "EOS_NewPlayers": 587,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -12912,6 +12912,11 @@
       "Time": "2023-08-16T21:04:11.1392263+00:00",
       "NumProgressed": 199245,
       "NumCompleted": 482
+    },
+    {
+      "Time": "2023-08-16T22:03:39.0162157+00:00",
+      "NumProgressed": 199247,
+      "NumCompleted": 482
     }
   ],
   "TotalAchievements": 29,
@@ -12947,7 +12952,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 187290
+      "UsersEstimate": 187292
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -13107,7 +13112,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 19924
+      "UsersEstimate": 19925
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -13154,7 +13159,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 199245,
+      "Progressed": 199247,
       "Completed": 482
     }
   ],
@@ -13162,8 +13167,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-08-12T04:00:44.2118416+00:00",
-  "LastChanged_Achievements": "2023-08-16T21:04:11.1392253+00:00",
+  "LastChanged_Achievements": "2023-08-16T22:03:39.0162151+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:39.8654099+00:00",
-  "LastUpdate_Ratings": "2023-08-16T21:00:53.4590734+00:00",
-  "LastUpdate_Achievements": "2023-08-16T21:04:11.1393574+00:00"
+  "LastUpdate_Ratings": "2023-08-16T21:59:57.9710885+00:00",
+  "LastUpdate_Achievements": "2023-08-16T22:03:39.0163004+00:00"
 }

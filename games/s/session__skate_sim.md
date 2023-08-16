@@ -10,7 +10,7 @@ Number of Ratings: 111  (23.09.2022)
 | Keeping it classy | 27.00% | ~737 |
 | Welcome to the family | 21.00% | ~573 |
 | The finer things in life | 18.00% | ~491 |
-| Backpacker | 13.00% | ~355 |
+| Backpacker | 14.00% | ~382 |
 | Go with the Flow | 13.00% | ~355 |
 | Plastic Surgeon | 10.00% | ~273 |
 | Keep the dream alive | 9.00% | ~246 |

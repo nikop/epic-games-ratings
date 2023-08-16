@@ -6,31 +6,31 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 74.00% | ~3,938 |
-| Having A Field Day | 74.00% | ~3,938 |
+| Get A Room | 74.00% | ~3,939 |
+| Having A Field Day | 74.00% | ~3,939 |
 | Reap What You Sow | 71.00% | ~3,779 |
-| The First Day | 68.00% | ~3,619 |
+| The First Day | 68.00% | ~3,620 |
 | Green Thumb | 66.00% | ~3,513 |
-| Novice Researcher | 65.00% | ~3,459 |
-| Putting Food on the Table | 59.00% | ~3,140 |
+| Novice Researcher | 65.00% | ~3,460 |
+| Putting Food on the Table | 59.00% | ~3,141 |
 | Home Cooked Meal | 57.00% | ~3,034 |
-| Onward | 55.00% | ~2,927 |
+| Onward | 55.00% | ~2,928 |
 | The First Week | 53.00% | ~2,821 |
-| Studious Researcher | 51.00% | ~2,714 |
-| Beam Me Up | 50.00% | ~2,661 |
+| Studious Researcher | 51.00% | ~2,715 |
+| Beam Me Up | 50.00% | ~2,662 |
 | Feast or Famine | 49.00% | ~2,608 |
 | Adept Researcher | 44.00% | ~2,342 |
 | Retribution | 40.00% | ~2,129 |
 | ...And Don’t Come Back! | 40.00% | ~2,129 |
-| Fit For A King | 38.00% | ~2,022 |
-| Luminary Researcher | 33.00% | ~1,756 |
-| Heating Up | 29.00% | ~1,543 |
+| Fit For A King | 38.00% | ~2,023 |
+| Luminary Researcher | 33.00% | ~1,757 |
+| Heating Up | 29.00% | ~1,544 |
 | Winter Is Coming | 26.00% | ~1,384 |
 | Winter Is Here | 23.00% | ~1,224 |
-| Disassembled | 20.00% | ~1,064 |
-| A Party Now | 20.00% | ~1,064 |
-| Oh Deer! | 20.00% | ~1,064 |
-| All Year Round | 20.00% | ~1,064 |
+| Disassembled | 20.00% | ~1,065 |
+| A Party Now | 20.00% | ~1,065 |
+| Oh Deer! | 20.00% | ~1,065 |
+| All Year Round | 20.00% | ~1,065 |
 | Nothing Wasted | 12.00% | ~639 |
 | Don't Cry Wolf | 12.00% | ~639 |
 | Deerly Departed | 8.00% | ~426 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~106 |
 | Wabbit Season | 0.50% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,322 (Ranked 137)  
+Progressed: 5,323 (Ranked 137)  
 Completed: 10 (0.19%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 10 (0.19%) (Ranked 187)
 | 2023-08-13 | 5,276 | 10 |
 | 2023-08-14 | 5,286 | 10 |
 | 2023-08-15 | 5,308 | 10 |
-| 2023-08-16 | 5,322 | 10 |
+| 2023-08-16 | 5,323 | 10 |
 ## Awards
 Max (Relaxing): 121  (Ranked 315)  
 Sum: 972 (Ranked 240)  

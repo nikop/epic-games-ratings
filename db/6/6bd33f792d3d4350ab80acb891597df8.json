@@ -273,17 +273,17 @@
       "ID": "CgkIxYDzrbcPEAIQAg",
       "SetID": "4egpam7",
       "Name": "All in a Day\u0027s Work",
-      "Percentage": 70,
+      "Percentage": 72,
       "XP": 30,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "CgkIxYDzrbcPEAIQAw",
       "SetID": "4egpam7",
       "Name": "The Bald Lady",
-      "Percentage": 70,
+      "Percentage": 72,
       "XP": 30,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "CgkIxYDzrbcPEAIQBA",
@@ -512,8 +512,8 @@
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2023-08-16T21:07:06.4984955+00:00",
+  "LastChanged_Achievements": "2023-08-16T22:05:54.0334272+00:00",
   "LastUpdate_AppInfo": "2023-08-15T14:57:10.6397592+00:00",
-  "LastUpdate_Ratings": "2023-08-16T20:58:40.8980032+00:00",
-  "LastUpdate_Achievements": "2023-08-16T21:07:06.498523+00:00"
+  "LastUpdate_Ratings": "2023-08-16T21:58:14.8007179+00:00",
+  "LastUpdate_Achievements": "2023-08-16T22:05:54.0334512+00:00"
 }

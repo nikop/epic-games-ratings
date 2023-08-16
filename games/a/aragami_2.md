@@ -6,31 +6,31 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~37,981 |
-| First Steps | 80.00% | ~32,672 |
+| Awakening | 93.00% | ~37,982 |
+| First Steps | 80.00% | ~32,673 |
 | Control the Shadows | 67.00% | ~27,363 |
-| Tools of the Trade | 63.00% | ~25,729 |
-| Apprentice | 60.00% | ~24,504 |
+| Tools of the Trade | 63.00% | ~25,730 |
+| Apprentice | 60.00% | ~24,505 |
 | Secret Seeker | 57.00% | ~23,279 |
-| Forge of Assassins | 55.00% | ~22,462 |
+| Forge of Assassins | 55.00% | ~22,463 |
 | Revenant | 52.00% | ~21,237 |
 | I don’t Care! | 45.00% | ~18,378 |
 | Bird of Prey | 37.00% | ~15,111 |
 | Engraved with Power | 32.00% | ~13,069 |
-| Lady | 31.00% | ~12,660 |
+| Lady | 31.00% | ~12,661 |
 | Fashionable Assassin | 27.00% | ~11,027 |
 | Apex Predator | 24.00% | ~9,802 |
 | Soul Reaver | 22.00% | ~8,985 |
-| Embers | 21.00% | ~8,576 |
+| Embers | 21.00% | ~8,577 |
 | Wall Lizard | 20.00% | ~8,168 |
 | Clinging to Life | 18.00% | ~7,351 |
 | Burning | 17.00% | ~6,943 |
-| Look Behind You | 16.00% | ~6,534 |
-| Sleeping on the Job | 16.00% | ~6,534 |
+| Look Behind You | 16.00% | ~6,535 |
+| Sleeping on the Job | 16.00% | ~6,535 |
 | Family | 14.00% | ~5,718 |
 | War Engines | 14.00% | ~5,718 |
 | Signature Move | 14.00% | ~5,718 |
-| Ruse | 11.00% | ~4,492 |
+| Ruse | 11.00% | ~4,493 |
 | Master Ninja | 10.00% | ~4,084 |
 | Hatching | 9.00% | ~3,676 |
 | Bonds | 9.00% | ~3,676 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Hot Potato | 1.00% | ~408 |
 | Anger Management | 1.00% | ~408 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40,840 (Ranked 92)  
+Progressed: 40,841 (Ranked 92)  
 Completed: 207 (0.51%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,7 +169,7 @@ Completed: 207 (0.51%) (Ranked 143)
 | 2023-08-13 | 40,644 | 207 |
 | 2023-08-14 | 40,716 | 207 |
 | 2023-08-15 | 40,778 | 207 |
-| 2023-08-16 | 40,840 | 207 |
+| 2023-08-16 | 40,841 | 207 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

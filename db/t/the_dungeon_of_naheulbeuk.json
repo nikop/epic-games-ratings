@@ -654,9 +654,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 213297,
+  "EOS_Progressed": 213327,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3788,
+  "EOS_NewPlayers": 3794,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7174,6 +7174,11 @@
       "Time": "2023-08-16T21:05:26.0709322+00:00",
       "NumProgressed": 213297,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-16T22:04:40.1710613+00:00",
+      "NumProgressed": 213327,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -7185,7 +7190,7 @@
       "Name": "Livin\u0027 in a dwarven paradise",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1066
+      "UsersEstimate": 1067
     },
     {
       "ID": "100Fail",
@@ -7217,7 +7222,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1066
+      "UsersEstimate": 1067
     },
     {
       "ID": "BookCollection",
@@ -7249,7 +7254,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1066
+      "UsersEstimate": 1067
     },
     {
       "ID": "Chapter4",
@@ -7615,9 +7620,9 @@
       "ID": "DwarfLevel2",
       "SetID": "50chcgj",
       "Name": "Sock! SOCK!",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1920
+      "UsersEstimate": 2133
     },
     {
       "ID": "ElfEpic",
@@ -7633,7 +7638,7 @@
       "Name": "Sowwy!",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 34128
+      "UsersEstimate": 34132
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -7888,21 +7893,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 213297,
+      "Progressed": 213327,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 213297,
+      "Progressed": 213327,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-16T17:00:43.9765875+00:00",
-  "LastChanged_Achievements": "2023-08-16T21:05:26.070931+00:00",
+  "LastChanged_Achievements": "2023-08-16T22:04:40.1710608+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:49.6773731+00:00",
-  "LastUpdate_Ratings": "2023-08-16T21:01:11.4477844+00:00",
-  "LastUpdate_Achievements": "2023-08-16T21:05:26.0710883+00:00"
+  "LastUpdate_Ratings": "2023-08-16T22:00:10.3715813+00:00",
+  "LastUpdate_Achievements": "2023-08-16T22:04:40.171203+00:00"
 }

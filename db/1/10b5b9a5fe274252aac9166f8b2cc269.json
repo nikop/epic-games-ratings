@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 368,
   "Ranking_EOS_Completed": 4,
   "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 26,
+  "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2023-07-28T03:00:00+00:00",
     "PcReleaseDate": "2018-11-16T06:00:00+00:00",
@@ -455,9 +455,9 @@
       "ID": "PORTRAIT_8",
       "SetID": "2fge00i",
       "Name": "Portrait 8",
-      "Percentage": 52,
+      "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "PORTRAIT_9",
@@ -478,8 +478,8 @@
   ],
   "FirstSeen": "2023-07-29T16:57:06.8916907+00:00",
   "FirstSeenAchievements": "2023-07-20T07:01:56.8501716+00:00",
-  "LastChanged_Achievements": "2023-08-16T21:05:27.3892129+00:00",
+  "LastChanged_Achievements": "2023-08-16T22:04:41.1508202+00:00",
   "LastUpdate_AppInfo": "2023-08-10T07:57:00.879788+00:00",
-  "LastUpdate_Ratings": "2023-08-16T20:58:19.496362+00:00",
-  "LastUpdate_Achievements": "2023-08-16T21:05:27.3892344+00:00"
+  "LastUpdate_Ratings": "2023-08-16T21:57:59.2567279+00:00",
+  "LastUpdate_Achievements": "2023-08-16T22:04:41.1508366+00:00"
 }

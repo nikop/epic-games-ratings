@@ -4,7 +4,7 @@
   "ProductSlug": "deverse-world-3ccb84",
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-07-12T02:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 240,
+  "EOS_Progressed": 241,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
@@ -966,6 +966,11 @@
       "Time": "2023-08-16T20:05:45.8516645+00:00",
       "NumProgressed": 240,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-16T22:05:30.8366744+00:00",
+      "NumProgressed": 241,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-19T08:04:21.5092334+00:00",
@@ -1024,9 +1029,9 @@
       "ID": "moon_conquerer",
       "SetID": "5fi1i42",
       "Name": "Moon Conquerer",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "pianist",
@@ -1120,23 +1125,23 @@
       "ID": "waifu_kata",
       "SetID": "5fi1i42",
       "Name": "Waifu Kata",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     }
   ],
   "AchievementSets": [
     {
       "ID": "5fi1i42",
       "IsBase": true,
-      "Progressed": 240,
+      "Progressed": 241,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-12T15:57:01.7070767+00:00",
   "FirstSeenAchievements": "2023-07-18T16:05:27.8243884+00:00",
-  "LastChanged_Achievements": "2023-08-16T21:06:28.1706054+00:00",
+  "LastChanged_Achievements": "2023-08-16T22:05:30.836674+00:00",
   "LastUpdate_AppInfo": "2023-08-10T07:57:01.1620845+00:00",
-  "LastUpdate_Ratings": "2023-08-16T20:58:29.0749946+00:00",
-  "LastUpdate_Achievements": "2023-08-16T21:06:28.1706329+00:00"
+  "LastUpdate_Ratings": "2023-08-16T21:58:06.2597002+00:00",
+  "LastUpdate_Achievements": "2023-08-16T22:05:30.8366906+00:00"
 }

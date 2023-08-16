@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 258,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-03-25T23:00:00+00:00",
@@ -312,9 +312,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9718,
+  "EOS_Progressed": 9719,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -722,6 +722,11 @@
       "Time": "2023-08-12T15:06:44.4015087+00:00",
       "NumProgressed": 9718,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-16T22:06:15.9003449+00:00",
+      "NumProgressed": 9719,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 86,
@@ -987,9 +992,9 @@
       "ID": "ACH_GOTTA_START_SOMEWHERE",
       "SetID": "13614nd",
       "Name": "Gotta Start Somewhere",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_GO_TEAM",
@@ -1420,21 +1425,21 @@
     {
       "ID": "13614nd",
       "IsBase": true,
-      "Progressed": 9718,
+      "Progressed": 9719,
       "Completed": 0
     },
     {
       "ID": "1ejmoln",
       "IsBase": false,
-      "Progressed": 215,
+      "Progressed": 216,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:28:48.0535215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:11.1531533+00:00",
   "LastChanged": "2023-07-15T20:59:23.7762639+00:00",
-  "LastChanged_Achievements": "2023-08-16T21:07:32.758185+00:00",
+  "LastChanged_Achievements": "2023-08-16T22:06:15.9003445+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:40.6571507+00:00",
-  "LastUpdate_Ratings": "2023-08-16T21:00:57.5215515+00:00",
-  "LastUpdate_Achievements": "2023-08-16T21:07:32.7582864+00:00"
+  "LastUpdate_Ratings": "2023-08-16T22:00:02.9322366+00:00",
+  "LastUpdate_Achievements": "2023-08-16T22:06:15.9004484+00:00"
 }

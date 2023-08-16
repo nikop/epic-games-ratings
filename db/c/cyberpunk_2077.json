@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 14,
   "Ranking_EOS_Completed": 180,
   "Ranking_EOS_NewPlayers": 48,
-  "Ranking_EOS_NewCompleters": 9,
+  "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
     "PcReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -10499,10 +10499,10 @@
       "Count": 5594
     }
   ],
-  "EOS_Progressed": 871177,
-  "EOS_Completed": 1973,
-  "EOS_NewPlayers": 1103,
-  "EOS_NewCompleters": 21,
+  "EOS_Progressed": 871178,
+  "EOS_Completed": 1974,
+  "EOS_NewPlayers": 1098,
+  "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
     {
@@ -23524,6 +23524,11 @@
       "Time": "2023-08-16T21:05:52.9687988+00:00",
       "NumProgressed": 871177,
       "NumCompleted": 1973
+    },
+    {
+      "Time": "2023-08-16T22:05:01.935455+00:00",
+      "NumProgressed": 871178,
+      "NumCompleted": 1974
     }
   ],
   "TotalAchievements": 44,
@@ -23711,7 +23716,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 252641
+      "UsersEstimate": 252642
     },
     {
       "ID": "Specialist",
@@ -23751,7 +23756,7 @@
       "Name": "The Fool",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 592400
+      "UsersEstimate": 592401
     },
     {
       "ID": "TheHermit",
@@ -23886,15 +23891,15 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 871177,
-      "Completed": 1973
+      "Progressed": 871178,
+      "Completed": 1974
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-08-16T19:59:24.8303564+00:00",
-  "LastChanged_Achievements": "2023-08-16T21:05:52.9687977+00:00",
+  "LastChanged_Achievements": "2023-08-16T22:05:01.9354544+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:39.9582585+00:00",
-  "LastUpdate_Ratings": "2023-08-16T20:59:50.4448073+00:00",
-  "LastUpdate_Achievements": "2023-08-16T21:05:52.9689962+00:00"
+  "LastUpdate_Ratings": "2023-08-16T21:59:06.3412552+00:00",
+  "LastUpdate_Achievements": "2023-08-16T22:05:01.935568+00:00"
 }

@@ -494,9 +494,9 @@
       "ID": "ACHIEVEMENT_21",
       "SetID": "ap8553i",
       "Name": "Silent Kill",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -915,8 +915,8 @@
   ],
   "FirstSeen": "2023-08-04T21:57:01.9865679+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5206267+00:00",
-  "LastChanged_Achievements": "2023-08-16T21:05:01.5267261+00:00",
+  "LastChanged_Achievements": "2023-08-16T22:04:20.0826309+00:00",
   "LastUpdate_AppInfo": "2023-08-16T16:57:24.4284709+00:00",
-  "LastUpdate_Ratings": "2023-08-16T20:58:01.4522118+00:00",
-  "LastUpdate_Achievements": "2023-08-16T21:05:01.5268097+00:00"
+  "LastUpdate_Ratings": "2023-08-16T21:57:47.0442482+00:00",
+  "LastUpdate_Achievements": "2023-08-16T22:04:20.0827206+00:00"
 }

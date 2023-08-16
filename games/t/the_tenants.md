@@ -7,6 +7,7 @@ Number of Ratings: 82  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | And So It Begins | 0.30% | ~29 |
+| Gotta Start Somewhere | 0.30% | ~29 |
 | Loaded | 0.30% | ~29 |
 | Renovator | 0.30% | ~29 |
 | Still Kind Of Poor | 0.30% | ~29 |
@@ -17,7 +18,6 @@ Number of Ratings: 82  (23.09.2022)
 | A Real Landlord | 0.20% | ~19 |
 | Cleaning Service | 0.20% | ~19 |
 | Filthy Rich | 0.20% | ~19 |
-| Gotta Start Somewhere | 0.20% | ~19 |
 | Home, Sweet Home | 0.20% | ~19 |
 | Kill It With Gas | 0.20% | ~19 |
 | Lured In | 0.20% | ~19 |
@@ -93,7 +93,7 @@ Number of Ratings: 82  (23.09.2022)
 | White House | 0.00% | ~0 |
 | Wondersville Magnate | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,718 (Ranked 123)  
+Progressed: 9,719 (Ranked 123)  
 Completed: 0 (0.00%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,6 +154,7 @@ Completed: 0 (0.00%) (Ranked 258)
 | 2023-08-10 | 9,715 | 0 |
 | 2023-08-11 | 9,717 | 0 |
 | 2023-08-12 | 9,718 | 0 |
+| 2023-08-16 | 9,719 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

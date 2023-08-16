@@ -6,6 +6,7 @@ Rating: 4.20 (Ranked 854)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Get a Grip | 5.00% | ~793 |
+| Float Like A Butterfly | 4.00% | ~635 |
 | Paper Jams | 4.00% | ~635 |
 | Keep Fighting | 4.00% | ~152 |
 | You Need a Gun | 3.00% | ~476 |
@@ -14,7 +15,6 @@ Rating: 4.20 (Ranked 854)
 | Two Heads Are Better Than One | 3.00% | ~476 |
 | Chew 'Em Up | 3.00% | ~476 |
 | Workplace Hazard | 3.00% | ~476 |
-| Float Like A Butterfly | 3.00% | ~476 |
 | Reforged | 3.00% | ~476 |
 | The Outer Way | 3.00% | ~476 |
 | Without A Paddle | 3.00% | ~476 |

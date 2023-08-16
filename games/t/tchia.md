@@ -1,7 +1,7 @@
 # Tchia
 [Store](https://store.epicgames.com/en-US/p/tchia)  
 [View Rawdata](../../db/t/tchia.json)  
-Rating: 4.76 (Ranked 118)  
+Rating: 4.76 (Ranked 117)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -19,7 +19,7 @@ Rating: 4.76 (Ranked 118)
 | Happy Camper | 5.00% | ~352 |
 | Liberator | 5.00% | ~352 |
 | Shredder | 5.00% | ~352 |
-| Live Wire | 4.00% | ~281 |
+| Live Wire | 4.00% | ~282 |
 | Fashion Faux-Pas | 3.00% | ~211 |
 | Fashion Victim | 3.00% | ~211 |
 | Arrr! | 2.00% | ~141 |
@@ -27,7 +27,7 @@ Rating: 4.76 (Ranked 118)
 | Ça de Wizz! | 1.00% | ~70 |
 | Thing | 1.00% | ~70 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,037 (Ranked 132)  
+Progressed: 7,038 (Ranked 132)  
 Completed: 32 (0.45%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 32 (0.45%) (Ranked 152)
 | 2023-08-13 | 6,963 | 32 |
 | 2023-08-14 | 6,967 | 32 |
 | 2023-08-15 | 6,982 | 32 |
-| 2023-08-16 | 7,037 | 32 |
+| 2023-08-16 | 7,038 | 32 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

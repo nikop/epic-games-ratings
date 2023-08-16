@@ -25,6 +25,7 @@
 | Quartermaster | 3.00% | ~4 |
 | Supercargo | 3.00% | ~4 |
 | Strategist | 3.00% | ~4 |
+| Xevarian Gambit | 3.00% | ~4 |
 | Deputized | 3.00% | ~4 |
 | Harbinger | 3.00% | ~4 |
 | Spiritual Journey | 3.00% | ~4 |
@@ -35,7 +36,6 @@
 | Bounty Hunter | 2.00% | ~3 |
 | Potential Unlocked | 2.00% | ~3 |
 | Huntress Unbound | 2.00% | ~3 |
-| Xevarian Gambit | 2.00% | ~3 |
 | The Voice of Hereafter | 2.00% | ~3 |
 | Despised | 2.00% | ~3 |
 | Business As Usual | 2.00% | ~3 |
