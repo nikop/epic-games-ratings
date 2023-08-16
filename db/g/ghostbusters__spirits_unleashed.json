@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 189,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 96,
+  "Ranking_EOS_NewPlayers": 97,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -1818,9 +1818,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 25133,
+  "EOS_Progressed": 25134,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 201,
+  "EOS_NewPlayers": 199,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -10583,6 +10583,11 @@
       "Time": "2023-08-16T19:04:04.0295274+00:00",
       "NumProgressed": 25133,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-08-16T20:03:32.9531653+00:00",
+      "NumProgressed": 25134,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 51,
@@ -10594,7 +10599,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 18347
+      "UsersEstimate": 18348
     },
     {
       "ID": "Animated",
@@ -10634,7 +10639,7 @@
       "Name": "Clutch Capture",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 10053
+      "UsersEstimate": 10054
     },
     {
       "ID": "Collect_Spores",
@@ -10682,7 +10687,7 @@
       "Name": "Discovery",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 15331
+      "UsersEstimate": 15332
     },
     {
       "ID": "Dont_Need_These",
@@ -10810,7 +10815,7 @@
       "Name": "Pesky Jerks",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 6283
+      "UsersEstimate": 6284
     },
     {
       "ID": "Reckless",
@@ -10890,7 +10895,7 @@
       "Name": "Stunner",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 6283
+      "UsersEstimate": 6284
     },
     {
       "ID": "Stylish",
@@ -10898,7 +10903,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 21614
+      "UsersEstimate": 21615
     },
     {
       "ID": "Summoner",
@@ -10930,7 +10935,7 @@
       "Name": "Teamwork",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 10807
+      "UsersEstimate": 10808
     },
     {
       "ID": "Terrifying",
@@ -10986,7 +10991,7 @@
       "Name": "Welcome to the Crew",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 7791
+      "UsersEstimate": 7792
     },
     {
       "ID": "Whoopsie",
@@ -11001,7 +11006,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 25133,
+      "Progressed": 25134,
       "Completed": 51
     }
   ],
@@ -11009,8 +11014,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-08-15T21:00:09.8040027+00:00",
-  "LastChanged_Achievements": "2023-08-16T19:04:04.0295268+00:00",
+  "LastChanged_Achievements": "2023-08-16T20:03:32.9531648+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:52.55817+00:00",
-  "LastUpdate_Ratings": "2023-08-16T19:00:41.342844+00:00",
-  "LastUpdate_Achievements": "2023-08-16T19:04:04.0296233+00:00"
+  "LastUpdate_Ratings": "2023-08-16T20:00:34.2225913+00:00",
+  "LastUpdate_Achievements": "2023-08-16T20:03:32.9532626+00:00"
 }

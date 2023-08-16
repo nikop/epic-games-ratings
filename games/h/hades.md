@@ -6,41 +6,41 @@ Number of Ratings: 6,336  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escaped Tartarus | 89.00% | ~624,247 |
-| Escaped Asphodel | 80.00% | ~561,121 |
-| Arms Collector | 71.00% | ~497,995 |
-| Friends in High Places | 68.00% | ~476,953 |
-| Escaped Elysium | 66.00% | ~462,925 |
-| Chthonic Colleagues | 63.00% | ~441,883 |
-| Is There No Escape? | 52.00% | ~364,729 |
-| Death Dealer | 45.00% | ~315,630 |
-| Skelly Slayer | 42.00% | ~294,588 |
-| Well Stocked | 40.00% | ~280,560 |
-| Back to Work | 38.00% | ~266,532 |
-| Day-or-Night Trader | 37.00% | ~259,518 |
-| Blessed by the Gods | 37.00% | ~259,518 |
-| Urge to Sing | 36.00% | ~252,504 |
-| Blood Bound | 35.00% | ~245,490 |
-| Three-Headed Boy | 32.00% | ~224,448 |
-| River Denizens | 28.00% | ~196,392 |
-| Grown Close | 28.00% | ~196,392 |
-| Home Makeover | 27.00% | ~189,378 |
-| Had to Happen | 25.00% | ~175,350 |
-| The Family Secret | 25.00% | ~175,350 |
-| Tools of the Architect | 23.00% | ~161,322 |
-| Master of Arms | 23.00% | ~161,322 |
-| To Charon's Credit | 22.00% | ~154,308 |
-| Rare Collectible | 22.00% | ~154,308 |
-| Weapon of Fate | 21.00% | ~147,294 |
-| Something From Everyone | 19.00% | ~133,266 |
-| Hold the Onions | 18.00% | ~126,252 |
-| Well Versed | 17.00% | ~119,238 |
-| War-God's Bloodlust | 15.00% | ~105,210 |
-| Musician and Muse | 14.00% | ~98,196 |
-| The Useless Trinket | 13.00% | ~91,182 |
-| Champion of Elysium | 13.00% | ~91,182 |
-| Slashed Benefits | 12.00% | ~84,168 |
-| Haste of Hermes | 11.00% | ~77,154 |
+| Escaped Tartarus | 89.00% | ~624,250 |
+| Escaped Asphodel | 80.00% | ~561,124 |
+| Arms Collector | 71.00% | ~497,998 |
+| Friends in High Places | 68.00% | ~476,955 |
+| Escaped Elysium | 66.00% | ~462,927 |
+| Chthonic Colleagues | 63.00% | ~441,885 |
+| Is There No Escape? | 52.00% | ~364,731 |
+| Death Dealer | 45.00% | ~315,632 |
+| Skelly Slayer | 42.00% | ~294,590 |
+| Well Stocked | 40.00% | ~280,562 |
+| Back to Work | 38.00% | ~266,534 |
+| Day-or-Night Trader | 37.00% | ~259,520 |
+| Blessed by the Gods | 37.00% | ~259,520 |
+| Urge to Sing | 36.00% | ~252,506 |
+| Blood Bound | 35.00% | ~245,492 |
+| Three-Headed Boy | 32.00% | ~224,450 |
+| River Denizens | 28.00% | ~196,393 |
+| Grown Close | 28.00% | ~196,393 |
+| Home Makeover | 27.00% | ~189,379 |
+| Had to Happen | 25.00% | ~175,351 |
+| The Family Secret | 25.00% | ~175,351 |
+| Tools of the Architect | 23.00% | ~161,323 |
+| Master of Arms | 23.00% | ~161,323 |
+| To Charon's Credit | 22.00% | ~154,309 |
+| Rare Collectible | 22.00% | ~154,309 |
+| Weapon of Fate | 21.00% | ~147,295 |
+| Something From Everyone | 19.00% | ~133,267 |
+| Hold the Onions | 18.00% | ~126,253 |
+| Well Versed | 17.00% | ~119,239 |
+| War-God's Bloodlust | 15.00% | ~105,211 |
+| Musician and Muse | 14.00% | ~98,197 |
+| The Useless Trinket | 13.00% | ~91,183 |
+| Champion of Elysium | 13.00% | ~91,183 |
+| Slashed Benefits | 12.00% | ~84,169 |
+| Haste of Hermes | 11.00% | ~77,155 |
 | Bad Call | 10.00% | ~70,140 |
 | Nyx's Mirror | 10.00% | ~70,140 |
 | Night and Darkness | 10.00% | ~70,140 |
@@ -56,7 +56,7 @@ Number of Ratings: 6,336  (23.09.2022)
 | Thorn of Thanatos | 4.00% | ~28,056 |
 | Friends Forever | 4.00% | ~28,056 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 701,401 (Ranked 21)  
+Progressed: 701,405 (Ranked 21)  
 Completed: 6,301 (0.90%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,14 +174,14 @@ Completed: 6,301 (0.90%) (Ranked 121)
 | 2023-08-13 | 701,194 | 6,294 |
 | 2023-08-14 | 701,274 | 6,299 |
 | 2023-08-15 | 701,356 | 6,300 |
-| 2023-08-16 | 701,401 | 6,301 |
+| 2023-08-16 | 701,405 | 6,301 |
 ## Awards
-Max (Character Customization): 3,217  (Ranked 91)  
-Sum: 7,786 (Ranked 101)  
+Max (Character Customization): 3,218  (Ranked 91)  
+Sum: 7,787 (Ranked 101)  
 Diff (max vs sum): -10  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 3,217 |
+| This game has Inclusive Character Customization | 3,218 |
 | This game has Great Boss Battles | 2,248 |
 | This game is Highly Recommended | 257 |
 | This game is Great for Beginners | 249 |
@@ -391,4 +391,4 @@ Diff (max vs sum): -10
 | 2023-08-13 | 4.92 | - | 3,212 | 7,778 |
 | 2023-08-14 | 4.92 | - | 3,213 | 7,781 |
 | 2023-08-15 | 4.92 | - | 3,217 | 7,785 |
-| 2023-08-16 | 4.92 | - | 3,217 | 7,786 |
+| 2023-08-16 | 4.92 | - | 3,218 | 7,787 |

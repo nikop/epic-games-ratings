@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 435,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 137,
-  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -358,9 +358,9 @@
       "Count": 69
     }
   ],
-  "EOS_Progressed": 1540,
+  "EOS_Progressed": 1541,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -1848,6 +1848,11 @@
       "Time": "2023-08-16T04:04:32.5707928+00:00",
       "NumProgressed": 1540,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-16T20:04:48.1092169+00:00",
+      "NumProgressed": 1541,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 38,
@@ -1859,7 +1864,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1509
+      "UsersEstimate": 1510
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -1905,9 +1910,9 @@
       "ID": "ACHIEVEMENTS_07",
       "SetID": "d4o538a",
       "Name": "K.O.!",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 678
+      "UsersEstimate": 663
     },
     {
       "ID": "ACHIEVEMENTS_08",
@@ -1923,7 +1928,7 @@
       "Name": "Rookie Chemist",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 970
+      "UsersEstimate": 971
     },
     {
       "ID": "ACHIEVEMENTS_10",
@@ -1971,7 +1976,7 @@
       "Name": "Friendly",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "ACHIEVEMENTS_16",
@@ -2011,7 +2016,7 @@
       "Name": "Decorative Mind",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "ACHIEVEMENTS_21",
@@ -2019,7 +2024,7 @@
       "Name": "Fishing Guru",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "ACHIEVEMENTS_22",
@@ -2035,7 +2040,7 @@
       "Name": "Lumber Specialist",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "ACHIEVEMENTS_24",
@@ -2131,7 +2136,7 @@
       "Name": "Production Sorter",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACHIEVEMENTS_36",
@@ -2162,7 +2167,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1540,
+      "Progressed": 1541,
       "Completed": 9
     }
   ],
@@ -2170,8 +2175,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-08-05T21:57:06.4008826+00:00",
-  "LastChanged_Achievements": "2023-08-16T19:05:02.31978+00:00",
+  "LastChanged_Achievements": "2023-08-16T20:04:48.1092161+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:27.0725941+00:00",
-  "LastUpdate_Ratings": "2023-08-16T18:57:56.4349123+00:00",
-  "LastUpdate_Achievements": "2023-08-16T19:05:02.3198274+00:00"
+  "LastUpdate_Ratings": "2023-08-16T19:57:55.8114831+00:00",
+  "LastUpdate_Achievements": "2023-08-16T20:04:48.1092574+00:00"
 }

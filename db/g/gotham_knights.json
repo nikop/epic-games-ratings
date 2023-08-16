@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -2426,9 +2426,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 67866,
+  "EOS_Progressed": 67868,
   "EOS_Completed": 107,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -12511,6 +12511,11 @@
       "Time": "2023-08-16T19:06:24.4727622+00:00",
       "NumProgressed": 67866,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2023-08-16T20:06:16.795208+00:00",
+      "NumProgressed": 67868,
+      "NumCompleted": 107
     }
   ],
   "TotalAchievements": 61,
@@ -12642,7 +12647,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 9501
+      "UsersEstimate": 9502
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -12746,7 +12751,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 19002
+      "UsersEstimate": 19003
     },
     {
       "ID": "FREEZE_1_5",
@@ -12754,7 +12759,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 13573
+      "UsersEstimate": 13574
     },
     {
       "ID": "FREEZE_2",
@@ -12770,7 +12775,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 9501
+      "UsersEstimate": 9502
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -12826,7 +12831,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 23753
+      "UsersEstimate": 23754
     },
     {
       "ID": "HARLEY_2",
@@ -12834,7 +12839,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 16966
+      "UsersEstimate": 16967
     },
     {
       "ID": "HARLEY_3",
@@ -12842,7 +12847,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 13573
+      "UsersEstimate": 13574
     },
     {
       "ID": "HARLEY_4",
@@ -12866,7 +12871,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 33933
+      "UsersEstimate": 33934
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -12890,7 +12895,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 13573
+      "UsersEstimate": 13574
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -12914,7 +12919,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 23074
+      "UsersEstimate": 23075
     },
     {
       "ID": "MYSTERY_02",
@@ -12922,7 +12927,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 16966
+      "UsersEstimate": 16967
     },
     {
       "ID": "MYSTERY_03",
@@ -12938,7 +12943,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 13573
+      "UsersEstimate": 13574
     },
     {
       "ID": "MYSTERY_05",
@@ -13009,13 +13014,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 67866,
+      "Progressed": 67868,
       "Completed": 107
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 38146,
+      "Progressed": 38148,
       "Completed": 2658
     }
   ],
@@ -13023,8 +13028,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-08-16T00:01:38.1733467+00:00",
-  "LastChanged_Achievements": "2023-08-16T19:06:24.4727616+00:00",
+  "LastChanged_Achievements": "2023-08-16T20:06:16.7952071+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:49.7416919+00:00",
-  "LastUpdate_Ratings": "2023-08-16T19:01:16.4213721+00:00",
-  "LastUpdate_Achievements": "2023-08-16T19:06:24.4728799+00:00"
+  "LastUpdate_Ratings": "2023-08-16T20:01:16.994965+00:00",
+  "LastUpdate_Achievements": "2023-08-16T20:06:16.7953434+00:00"
 }

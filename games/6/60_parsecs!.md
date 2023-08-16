@@ -18,9 +18,9 @@
 | Meet the Petersons | 32.00% | ~229 |
 | Stay Cool | 29.00% | ~208 |
 | KIA | 27.00% | ~193 |
-| Mutiny in making | 23.00% | ~165 |
+| Mutiny in making | 24.00% | ~172 |
+| Et tu, Astrocitizen? | 20.00% | ~143 |
 | Eco-Shuttle | 19.00% | ~136 |
-| Et tu, Astrocitizen? | 19.00% | ~136 |
 | Space Explorer | 16.00% | ~115 |
 | Hands Full | 14.00% | ~100 |
 | Gold Medalist | 12.00% | ~86 |

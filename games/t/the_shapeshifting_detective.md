@@ -12,18 +12,18 @@
 | Hashtag Winning | 37.00% | ~74 |
 | A Woman Scorned | 25.00% | ~50 |
 | Chameleon | 22.00% | ~44 |
-| Highlander | 20.00% | ~40 |
+| Highlander | 21.00% | ~42 |
 | Look Mum I'm A Detective | 20.00% | ~40 |
 | You Had One Job | 15.00% | ~30 |
+| Book 'em Danny | 13.00% | ~26 |
 | Poetent | 13.00% | ~26 |
-| Book 'em Danny | 12.00% | ~24 |
 | Voyeur | 12.00% | ~24 |
 | Oscar Winning Performance | 11.00% | ~22 |
 | Put A Ring On It | 9.00% | ~18 |
 | Chicken | 8.00% | ~16 |
 | Heavy Rayne | 8.00% | ~16 |
+| Show Me Some Skin | 6.00% | ~12 |
 | Bullseye | 5.00% | ~10 |
-| Show Me Some Skin | 5.00% | ~10 |
 | The Big Sleep | 4.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 199 (Ranked 288)  

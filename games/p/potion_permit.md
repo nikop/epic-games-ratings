@@ -5,22 +5,22 @@ Rating: 3.83 (Ranked 954)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Moonbury | 98.00% | ~1,509 |
+| Welcome to Moonbury | 98.00% | ~1,510 |
 | The First Step | 89.00% | ~1,371 |
 | Moonbury Traveller | 64.00% | ~986 |
-| Rookie Chemist | 63.00% | ~970 |
+| Rookie Chemist | 63.00% | ~971 |
 | Great Doctor | 52.00% | ~801 |
 | Dog Whisperer | 49.00% | ~755 |
-| Friendly | 48.00% | ~739 |
+| Friendly | 48.00% | ~740 |
 | The Capitalist | 45.00% | ~693 |
-| K.O.! | 44.00% | ~678 |
+| K.O.! | 43.00% | ~663 |
 | Intermediate Chemist | 40.00% | ~616 |
-| Decorative Mind | 31.00% | ~477 |
-| Lumber Specialist | 31.00% | ~477 |
+| Decorative Mind | 31.00% | ~478 |
+| Lumber Specialist | 31.00% | ~478 |
 | Kind-hearted | 25.00% | ~385 |
 | Catch of the Day | 25.00% | ~385 |
 | Amateur Chef | 22.00% | ~339 |
-| Fishing Guru | 21.00% | ~323 |
+| Fishing Guru | 21.00% | ~324 |
 | Spark of Love | 18.00% | ~277 |
 | Community Helper | 17.00% | ~262 |
 | Expert Chemist | 14.00% | ~216 |
@@ -28,7 +28,7 @@ Rating: 3.83 (Ranked 954)
 | Sociable | 13.00% | ~200 |
 | Ablutomaniac | 13.00% | ~200 |
 | Line Cook | 12.00% | ~185 |
-| Production Sorter | 11.00% | ~169 |
+| Production Sorter | 11.00% | ~170 |
 | Good Samaritan | 10.00% | ~154 |
 | Acrobatic Adventurer | 9.00% | ~139 |
 | Animal Exterminator | 8.00% | ~123 |
@@ -44,7 +44,7 @@ Rating: 3.83 (Ranked 954)
 | Moonbury Navigator | 1.00% | ~15 |
 | Being a donut... | 0.70% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,540 (Ranked 178)  
+Progressed: 1,541 (Ranked 178)  
 Completed: 9 (0.58%) (Ranked 137)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,7 +137,7 @@ Completed: 9 (0.58%) (Ranked 137)
 | 2023-08-10 | 1,537 | 9 |
 | 2023-08-11 | 1,538 | 9 |
 | 2023-08-15 | 1,539 | 9 |
-| 2023-08-16 | 1,540 | 9 |
+| 2023-08-16 | 1,541 | 9 |
 ## Awards
 Max (Character Customization): 69  (Ranked 378)  
 Sum: 69 (Ranked 435)  

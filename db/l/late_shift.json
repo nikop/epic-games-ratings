@@ -2,9 +2,9 @@
   "ID": "537156dc975644649b905ec6e958506e",
   "Name": "Late Shift",
   "ProductSlug": "late-shift-8b0634",
-  "Ranking_EOS_Progress": 228,
+  "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 108,
-  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 462,
+  "EOS_Progressed": 463,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.3,
   "EosHistory": [
@@ -667,6 +667,11 @@
       "Time": "2023-08-14T11:05:43.2470978+00:00",
       "NumProgressed": 462,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-08-16T20:05:51.3912718+00:00",
+      "NumProgressed": 463,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 20,
@@ -750,7 +755,7 @@
       "Name": "Even Tempered",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -766,7 +771,7 @@
       "Name": "Fair Share",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "GOOD_KARMA",
@@ -798,7 +803,7 @@
       "Name": "Proficient Storyteller",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "PROTECTOR",
@@ -830,14 +835,14 @@
       "Name": "Star-Crossed Lovers",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     }
   ],
   "AchievementSets": [
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 462,
+      "Progressed": 463,
       "Completed": 6
     }
   ],
@@ -845,8 +850,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-08-16T19:06:08.1108076+00:00",
+  "LastChanged_Achievements": "2023-08-16T20:05:51.3912713+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:30.1499657+00:00",
-  "LastUpdate_Ratings": "2023-08-16T18:59:19.9832517+00:00",
-  "LastUpdate_Achievements": "2023-08-16T19:06:08.1108269+00:00"
+  "LastUpdate_Ratings": "2023-08-16T19:59:15.9500061+00:00",
+  "LastUpdate_Achievements": "2023-08-16T20:05:51.3912904+00:00"
 }

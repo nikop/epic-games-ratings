@@ -6,16 +6,16 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 16.00% | ~34,120 |
-| Déjà vu | 1.00% | ~2,132 |
-| Where's that freaking Dwarf? | 1.00% | ~2,132 |
-| Alt+F4 | 1.00% | ~2,132 |
+| Sowwy! | 16.00% | ~34,124 |
+| Déjà vu | 1.00% | ~2,133 |
+| Where's that freaking Dwarf? | 1.00% | ~2,133 |
+| Alt+F4 | 1.00% | ~2,133 |
 | Sock! SOCK! | 0.90% | ~1,919 |
 | A beer, two curses, three companions | 0.70% | ~1,493 |
 | GG EZ | 0.70% | ~1,493 |
 | Speedrun | 0.70% | ~1,493 |
 | Fireproof Wizardess | 0.70% | ~1,493 |
-| DM intervention | 0.60% | ~1,279 |
+| DM intervention | 0.60% | ~1,280 |
 | Livin' in a dwarven paradise | 0.50% | ~1,066 |
 | Way of the Wimp | 0.50% | ~1,066 |
 | The plot thickens... At the tavern | 0.50% | ~1,066 |
@@ -39,12 +39,12 @@ Number of Ratings: 118  (23.09.2022)
 | The Ranger of Chaos | 0.30% | ~640 |
 | I am the night | 0.30% | ~640 |
 | Thieves' Guild Accreditation | 0.30% | ~640 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.20% | ~426 |
-| Dead for good | 0.20% | ~426 |
-| Gargantua | 0.20% | ~426 |
-| In Navalu's footsteps | 0.20% | ~426 |
-| Lust and Debauchery | 0.20% | ~426 |
-| Material Girl | 0.20% | ~426 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.20% | ~427 |
+| Dead for good | 0.20% | ~427 |
+| Gargantua | 0.20% | ~427 |
+| In Navalu's footsteps | 0.20% | ~427 |
+| Lust and Debauchery | 0.20% | ~427 |
+| Material Girl | 0.20% | ~427 |
 | Cursed die | 0.10% | ~213 |
 | Holistic Adventuring Party | 0.10% | ~213 |
 | Scholar of the Lands of Fangh | 0.10% | ~213 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Staff cut | 0.00% | ~0 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 213,248 (Ranked 56)  
+Progressed: 213,274 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,7 +172,7 @@ Completed: 2 (0.00%) (Ranked 258)
 | 2023-08-13 | 211,857 | 2 |
 | 2023-08-14 | 212,372 | 2 |
 | 2023-08-15 | 212,897 | 2 |
-| 2023-08-16 | 213,248 | 2 |
+| 2023-08-16 | 213,274 | 2 |
 ## Awards
 Max (Character Customization): 166  (Ranked 289)  
 Sum: 187 (Ranked 375)  

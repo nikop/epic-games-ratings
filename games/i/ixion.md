@@ -52,7 +52,7 @@ Rating: 4.56 (Ranked 470)
 | Scientifically Accurate | 1.00% | ~31 |
 | Gregor Spinoza | 0.90% | ~28 |
 | Remember the Dead | 0.80% | ~25 |
-| Work Harder | 0.40% | ~12 |
+| Work Harder | 0.50% | ~15 |
 | Soylent Green | 0.30% | ~9 |
 | A Junker's Dream | 0.20% | ~6 |
 | Crunch Culture | 0.20% | ~6 |

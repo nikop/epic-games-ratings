@@ -380,9 +380,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17974,
+  "EOS_Progressed": 17975,
   "EOS_Completed": 363,
-  "EOS_NewPlayers": 557,
+  "EOS_NewPlayers": 555,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 2.02,
   "EosHistory": [
@@ -12930,6 +12930,11 @@
       "Time": "2023-08-16T18:05:32.1169362+00:00",
       "NumProgressed": 17974,
       "NumCompleted": 363
+    },
+    {
+      "Time": "2023-08-16T20:05:35.1338014+00:00",
+      "NumProgressed": 17975,
+      "NumCompleted": 363
     }
   ],
   "TotalAchievements": 20,
@@ -12957,7 +12962,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2516
+      "UsersEstimate": 2517
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -12981,7 +12986,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1797
+      "UsersEstimate": 1798
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -13061,7 +13066,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 13660
+      "UsersEstimate": 13661
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -13077,7 +13082,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2516
+      "UsersEstimate": 2517
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -13100,15 +13105,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 17974,
+      "Progressed": 17975,
       "Completed": 363
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-08-12T01:39:46.4098224+00:00",
-  "LastChanged_Achievements": "2023-08-16T19:05:51.7099824+00:00",
+  "LastChanged_Achievements": "2023-08-16T20:05:35.1338009+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:58:04.1120676+00:00",
-  "LastUpdate_Ratings": "2023-08-16T18:57:24.6413265+00:00",
-  "LastUpdate_Achievements": "2023-08-16T19:05:51.7100781+00:00"
+  "LastUpdate_Ratings": "2023-08-16T19:57:21.5887673+00:00",
+  "LastUpdate_Achievements": "2023-08-16T20:05:35.1338925+00:00"
 }

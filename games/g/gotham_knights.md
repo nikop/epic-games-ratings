@@ -5,20 +5,20 @@ Rating: 4.18 (Ranked 869)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~33,933 |
-| Har, Har, Har, Very Funny | 35.00% | ~23,753 |
-| Loose Ends | 34.00% | ~23,074 |
-| To the Victor Go the Spoils | 28.00% | ~19,002 |
+| First Step Into the Knight | 50.00% | ~33,934 |
+| Har, Har, Har, Very Funny | 35.00% | ~23,754 |
+| Loose Ends | 34.00% | ~23,075 |
+| To the Victor Go the Spoils | 28.00% | ~19,003 |
 | Knighthood | 27.00% | ~18,324 |
-| Get ReQ'd | 25.00% | ~16,966 |
-| Whispered Words | 25.00% | ~16,966 |
+| Get ReQ'd | 25.00% | ~16,967 |
+| Whispered Words | 25.00% | ~16,967 |
 | The Batman Family | 22.00% | ~14,931 |
 | Lock and Key | 22.00% | ~14,931 |
 | Something in the Clay | 21.00% | ~14,252 |
-| Quartzer Life Crisis | 20.00% | ~13,573 |
-| Working Hard or Harley Working? | 20.00% | ~13,573 |
-| Unstoppable Force | 20.00% | ~13,573 |
-| Bad Apples in Every Orchard | 20.00% | ~13,573 |
+| Quartzer Life Crisis | 20.00% | ~13,574 |
+| Working Hard or Harley Working? | 20.00% | ~13,574 |
+| Unstoppable Force | 20.00% | ~13,574 |
+| Bad Apples in Every Orchard | 20.00% | ~13,574 |
 | Snow Problem | 19.00% | ~12,895 |
 | The Show Mud Go On | 18.00% | ~12,216 |
 | From Inside Gotham's Walls | 18.00% | ~12,216 |
@@ -26,8 +26,8 @@ Rating: 4.18 (Ranked 869)
 | Universal Health Scare | 16.00% | ~10,859 |
 | In Your Element | 15.00% | ~10,180 |
 | Voiceless | 15.00% | ~10,180 |
-| Rock and a Hard Place | 14.00% | ~9,501 |
-| Cooldown | 14.00% | ~9,501 |
+| Rock and a Hard Place | 14.00% | ~9,502 |
+| Cooldown | 14.00% | ~9,502 |
 | Not On My Watch | 13.00% | ~8,823 |
 | Shock Til They Drop | 13.00% | ~8,823 |
 | Seeking Asylum | 13.00% | ~8,823 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 869)
 | Element of Surprise | 0.20% | ~76 |
 | It's Nice to Be Wanted | 0.20% | ~76 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,866 (Ranked 80)  
+Progressed: 67,868 (Ranked 80)  
 Completed: 107 (0.16%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,7 +185,7 @@ Completed: 107 (0.16%) (Ranked 191)
 | 2023-08-13 | 67,820 | 107 |
 | 2023-08-14 | 67,839 | 107 |
 | 2023-08-15 | 67,855 | 107 |
-| 2023-08-16 | 67,866 | 107 |
+| 2023-08-16 | 67,868 | 107 |
 ## Awards
 Max (Great Boss Battles): 2,501  (Ranked 100)  
 Sum: 4,161 (Ranked 140)  
