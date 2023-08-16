@@ -48,7 +48,7 @@
 | 46 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.45% |
 | 47 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.36% |
 | 48 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.19% |
-| 49 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.86% |
+| 49 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.89% |
 | 50 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.77% |
 | 51 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 4.76% |
 | 52 | [Bugsnax](games/b/bugsnax.md) | 4.71% |
@@ -114,9 +114,9 @@
 | 112 | [Trifox](games/t/trifox.md) | 1.10% |
 | 113 | [A Musical Story](games/a/a_musical_story.md) | 1.09% |
 | 114 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.04% |
+| 115 | [Adios](games/a/adios.md) | 1.01% |
 | 115 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.01% |
 | 115 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.01% |
-| 117 | [Adios](games/a/adios.md) | 1.00% |
 | 118 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.98% |
 | 118 | [Sable](games/s/sable.md) | 0.98% |
 | 120 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.97% |
@@ -129,8 +129,8 @@
 | 127 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.73% |
 | 128 | [Lemon Cake](games/l/lemon_cake.md) | 0.72% |
 | 129 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.71% |
-| 130 | [Haven](games/h/haven.md) | 0.65% |
-| 131 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.64% |
+| 130 | [Haven](games/h/haven.md) | 0.64% |
+| 130 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.64% |
 | 132 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.63% |
 | 133 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
 | 133 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.62% |
@@ -187,8 +187,8 @@
 | 184 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.20% |
 | 184 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.20% |
 | 187 | [Going Medieval](games/g/going_medieval.md) | 0.19% |
-| 188 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.18% |
-| 188 | [RAILGRADE](games/r/railgrade.md) | 0.18% |
+| 187 | [RAILGRADE](games/r/railgrade.md) | 0.19% |
+| 189 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.18% |
 | 190 | [BLACKTAIL](games/b/blacktail.md) | 0.16% |
 | 190 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
 | 190 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.16% |
@@ -544,4 +544,4 @@
 | 258 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 258 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 258 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,062 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,063 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |

@@ -47,7 +47,7 @@
 | 42 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,541 | 65 |
 | 42 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.85 | 380 | 219 |
 | 42 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 220 | 263 |
-| 42 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.85 | 140 | 303 |
+| 42 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.85 | 140 | 304 |
 | 42 | [Subnautica](games/s/subnautica.md) | 4.85 | 684 | 169 |
 | 50 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 47 | 408 |
 | 50 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 217 | 267 |
@@ -66,7 +66,7 @@
 | 60 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 87 | 354 |
 | 60 | [TUNIC](games/t/tunic.md) | 4.83 | 34 | 442 |
 | 66 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 0 | 512 |
-| 66 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 1,525 | 120 |
+| 66 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 1,528 | 120 |
 | 66 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,722 | 60 |
 | 66 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 0 | 512 |
 | 66 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 512 |
@@ -121,7 +121,7 @@
 | 118 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 85 | 356 |
 | 118 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.76 | 0 | 512 |
 | 118 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,302 | 90 |
-| 118 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 923 | 149 |
+| 118 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 926 | 149 |
 | 118 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 4,396 | 75 |
 | 118 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 512 |
 | 118 | [Outlast](games/o/outlast.md) | 4.76 | 0 | 512 |
@@ -484,7 +484,7 @@
 | 470 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 1,795 | 113 |
 | 470 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.56 | 0 | 512 |
 | 470 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.56 | 337 | 229 |
-| 470 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 4,295 | 76 |
+| 470 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 4,301 | 76 |
 | 486 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.55 | 0 | 512 |
 | 486 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.55 | 0 | 512 |
 | 486 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 0 | 512 |
@@ -650,7 +650,7 @@
 | 646 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 0 | 512 |
 | 646 | [Good Company](games/g/good_company.md) | 4.44 | 0 | 512 |
 | 646 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 868 | 152 |
-| 646 | [SMITE](games/s/smite.md) | 4.44 | 4,159 | 78 |
+| 646 | [SMITE](games/s/smite.md) | 4.44 | 4,164 | 78 |
 | 646 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 573 | 184 |
 | 646 | [STG Football](games/s/stg_football.md) | 4.44 | 42 | 421 |
 | 646 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 0 | 512 |
@@ -739,7 +739,7 @@
 | 737 | [Core](games/c/core.md) | 4.36 | 746 | 162 |
 | 737 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 173 | 285 |
 | 737 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 96 | 341 |
-| 737 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,626 | 29 |
+| 737 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,627 | 29 |
 | 737 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.36 | 0 | 512 |
 | 737 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.36 | 0 | 512 |
 | 737 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 512 |
@@ -873,7 +873,7 @@
 | 869 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 2,501 | 100 |
 | 869 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 341 |
 | 869 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 0 | 512 |
-| 869 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 4.18 | 139 | 304 |
+| 869 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 4.18 | 141 | 303 |
 | 875 | [Deliver Us Mars](games/d/deliver_us_mars.md) | 4.17 | 0 | 512 |
 | 875 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.17 | 0 | 512 |
 | 875 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.17 | 0 | 512 |
