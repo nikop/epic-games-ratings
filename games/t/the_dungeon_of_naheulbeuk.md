@@ -6,11 +6,11 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 15.00% | ~31,958 |
+| Sowwy! | 15.00% | ~31,960 |
 | Where's that freaking Dwarf? | 1.00% | ~2,131 |
 | Alt+F4 | 1.00% | ~2,131 |
-| Déjà vu | 0.90% | ~1,917 |
-| Sock! SOCK! | 0.90% | ~1,917 |
+| Déjà vu | 0.90% | ~1,918 |
+| Sock! SOCK! | 0.90% | ~1,918 |
 | A beer, two curses, three companions | 0.70% | ~1,491 |
 | Speedrun | 0.70% | ~1,491 |
 | GG EZ | 0.60% | ~1,278 |
@@ -31,6 +31,7 @@ Number of Ratings: 118  (23.09.2022)
 | The Dungeon Master | 0.30% | ~639 |
 | The Statuette of Gladeulfeurah | 0.30% | ~639 |
 | A tale of adventurers not quite like the others... | 0.30% | ~639 |
+| Look but don't touch | 0.30% | ~639 |
 | The beards of change | 0.30% | ~639 |
 | The Ranger of Chaos | 0.30% | ~639 |
 | I am the night | 0.30% | ~639 |
@@ -38,7 +39,6 @@ Number of Ratings: 118  (23.09.2022)
 | Res Judicata | 0.20% | ~426 |
 | The Famous Dungeon of Naheulbeuk | 0.20% | ~426 |
 | Dwarf Fortress | 0.20% | ~426 |
-| Look but don't touch | 0.20% | ~426 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.20% | ~426 |
 | Dead for good | 0.20% | ~426 |
 | Gargantua | 0.20% | ~426 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Staff cut | 0.00% | ~0 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 213,051 (Ranked 56)  
+Progressed: 213,066 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,7 +172,7 @@ Completed: 2 (0.00%) (Ranked 257)
 | 2023-08-13 | 211,857 | 2 |
 | 2023-08-14 | 212,372 | 2 |
 | 2023-08-15 | 212,897 | 2 |
-| 2023-08-16 | 213,051 | 2 |
+| 2023-08-16 | 213,066 | 2 |
 ## Awards
 Max (Character Customization): 166  (Ranked 289)  
 Sum: 186 (Ranked 375)  

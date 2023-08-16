@@ -41,6 +41,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Developing Cities | 1.00% | ~134 |
 | Strong Cities | 1.00% | ~134 |
 | Able Difficulty | 1.00% | ~134 |
+| Artisans | 1.00% | ~134 |
 | Furious Family | 1.00% | ~134 |
 | Apadana | 1.00% | ~134 |
 | Colossus | 1.00% | ~134 |
@@ -62,7 +63,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Drillmaster | 0.90% | ~121 |
 | Legendary Cities | 0.90% | ~121 |
 | Just Difficulty | 0.90% | ~121 |
-| Artisans | 0.90% | ~121 |
 | Learn to Play 2 | 0.90% | ~121 |
 | Egyptian Paganism | 0.90% | ~121 |
 | Intercessor | 0.80% | ~107 |

@@ -33,15 +33,15 @@ Rating: 4.27 (Ranked 809)
 | Metropolis | 0.60% | ~6 |
 | The Great Winter | 0.50% | ~5 |
 | Red Tape | 0.40% | ~4 |
-| Knowledge is Power | 0.30% | ~3 |
+| Knowledge is Power | 0.40% | ~4 |
 | The Incarnate | 0.30% | ~3 |
 | Ice and Fire | 0.20% | ~2 |
 | Mad Engineers | 0.20% | ~2 |
 | It's spreading | 0.20% | ~2 |
+| Aesthetics | 0.10% | ~1 |
 | The experiment | 0.10% | ~1 |
 | The Flail | 0.10% | ~1 |
 | The Foul | 0.10% | ~1 |
-| Aesthetics | 0.00% | ~0 |
 | Break the chains | 0.00% | ~0 |
 | Purist | 0.00% | ~0 |
 | Discover the truth | 0.00% | ~0 |

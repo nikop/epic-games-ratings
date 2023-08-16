@@ -5,15 +5,15 @@ Rating: 4.65 (Ranked 299)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eye Scream, You Scream | 83.00% | ~19,860 |
+| Eye Scream, You Scream | 83.00% | ~19,861 |
 | Mods Please Ban | 77.00% | ~18,425 |
-| Bring A Knife to a Gun Fight | 76.00% | ~18,185 |
-| Fallout Doesn't Let You Do This | 73.00% | ~17,467 |
+| Bring A Knife to a Gun Fight | 76.00% | ~18,186 |
+| Fallout Doesn't Let You Do This | 73.00% | ~17,468 |
 | First Bounty Down | 59.00% | ~14,118 |
-| We're All Very Impressed, Trust Me | 57.00% | ~13,639 |
+| We're All Very Impressed, Trust Me | 57.00% | ~13,640 |
 | Luglox Genocide | 43.00% | ~10,289 |
-| Playing Card To Get | 33.00% | ~7,896 |
-| Don't Knife The Hand That Feeds | 33.00% | ~7,896 |
+| Playing Card To Get | 33.00% | ~7,897 |
+| Don't Knife The Hand That Feeds | 33.00% | ~7,897 |
 | Creature Feature | 29.00% | ~6,939 |
 | Satisfied Gus-tomer | 28.00% | ~6,700 |
 | Cold-Blooded Driller | 28.00% | ~6,700 |
@@ -25,10 +25,10 @@ Rating: 4.65 (Ranked 299)
 | Series Wrap on Suit-O | 22.00% | ~5,264 |
 | Lezduit! | 20.00% | ~4,786 |
 | Who's The Boss? | 20.00% | ~4,786 |
-| Self-Actualization | 19.00% | ~4,546 |
-| Spent 15 Hours At The Alien Strip Club | 19.00% | ~4,546 |
+| Self-Actualization | 19.00% | ~4,547 |
+| Spent 15 Hours At The Alien Strip Club | 19.00% | ~4,547 |
 | Legendary Bounty Hunter | 18.00% | ~4,307 |
-| Seeing All The Sights | 16.00% | ~3,828 |
+| Seeing All The Sights | 16.00% | ~3,829 |
 | Carried Stan's Load To Completion | 13.00% | ~3,111 |
 | We Paid For The Rights To Put A Whole Movie In Here | 12.00% | ~2,871 |
 | Eatin' Good in the Neighborhood | 9.00% | ~2,154 |
@@ -38,7 +38,7 @@ Rating: 4.65 (Ranked 299)
 | Epic Legendary Prize | 1.00% | ~239 |
 | A Starfish Is Born | 1.00% | ~239 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,928 (Ranked 102)  
+Progressed: 23,929 (Ranked 102)  
 Completed: 12 (0.05%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,7 +155,7 @@ Completed: 12 (0.05%) (Ranked 222)
 | 2023-08-13 | 23,916 | 12 |
 | 2023-08-14 | 23,922 | 12 |
 | 2023-08-15 | 23,925 | 12 |
-| 2023-08-16 | 23,928 | 12 |
+| 2023-08-16 | 23,929 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

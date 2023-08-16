@@ -4,8 +4,8 @@
   "ProductSlug": "the-expanse-a-telltale-series",
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 35,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 36,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7889,
+  "EOS_Progressed": 7891,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2223,
+  "EOS_NewPlayers": 2216,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2147,6 +2147,11 @@
       "Time": "2023-08-16T10:07:17.3114399+00:00",
       "NumProgressed": 7889,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-16T11:06:28.8177717+00:00",
+      "NumProgressed": 7891,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -2199,7 +2204,7 @@
       "Name": "Doctor Approved",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 1262
+      "UsersEstimate": 1263
     },
     {
       "ID": "15",
@@ -2207,7 +2212,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 1183
+      "UsersEstimate": 1184
     },
     {
       "ID": "16",
@@ -2255,7 +2260,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "21",
@@ -2335,7 +2340,7 @@
       "Name": "Captain Drummer",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1183
+      "UsersEstimate": 1184
     },
     {
       "ID": "30",
@@ -2398,14 +2403,14 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 7889,
+      "Progressed": 7891,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged_Achievements": "2023-08-16T10:07:17.311439+00:00",
+  "LastChanged_Achievements": "2023-08-16T11:06:28.8177709+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:56.6215488+00:00",
-  "LastUpdate_Ratings": "2023-08-16T10:01:30.6623401+00:00",
-  "LastUpdate_Achievements": "2023-08-16T10:07:17.3114996+00:00"
+  "LastUpdate_Ratings": "2023-08-16T11:00:58.1219255+00:00",
+  "LastUpdate_Achievements": "2023-08-16T11:06:28.8178068+00:00"
 }

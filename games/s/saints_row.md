@@ -6,17 +6,17 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 43.00% | ~26,657 |
+| First F#@!ing Day | 43.00% | ~26,658 |
 | To The Nines | 38.00% | ~23,558 |
 | Optimized | 34.00% | ~21,078 |
 | Performance Review | 33.00% | ~20,458 |
 | Making a Name | 32.00% | ~19,838 |
 | Tune Up | 31.00% | ~19,218 |
-| Wet Work | 29.00% | ~17,978 |
-| Landlord | 29.00% | ~17,978 |
-| The Side Job | 28.00% | ~17,358 |
-| Wrecking Ball | 25.00% | ~15,498 |
-| Food for Thought | 25.00% | ~15,498 |
+| Wet Work | 29.00% | ~17,979 |
+| Landlord | 29.00% | ~17,979 |
+| The Side Job | 28.00% | ~17,359 |
+| Wrecking Ball | 25.00% | ~15,499 |
+| Food for Thought | 25.00% | ~15,499 |
 | Finders Keepers | 23.00% | ~14,259 |
 | A Young Empire | 23.00% | ~14,259 |
 | Work Ethic | 21.00% | ~13,019 |
@@ -28,9 +28,9 @@ Number of Ratings: 22,103  (23.09.2022)
 | Took It to The Limit | 15.00% | ~9,299 |
 | Kitted Out | 13.00% | ~8,059 |
 | Masters of Santo Ileso | 11.00% | ~6,819 |
-| Hijacked | 10.00% | ~6,199 |
-| The Spins | 9.00% | ~5,579 |
-| The Mechanic | 9.00% | ~5,579 |
+| Hijacked | 10.00% | ~6,200 |
+| The Spins | 9.00% | ~5,580 |
+| The Mechanic | 9.00% | ~5,580 |
 | Closet Space | 7.00% | ~4,340 |
 | We could go home, or… | 6.00% | ~3,720 |
 | Challenge Accepted | 6.00% | ~3,720 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.20% | ~124 |
 | Fiesta Time | 0.20% | ~124 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,994 (Ranked 84)  
+Progressed: 61,995 (Ranked 84)  
 Completed: 39 (0.06%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,7 +178,7 @@ Completed: 39 (0.06%) (Ranked 216)
 | 2023-08-13 | 61,564 | 36 |
 | 2023-08-14 | 61,736 | 37 |
 | 2023-08-15 | 61,921 | 38 |
-| 2023-08-16 | 61,994 | 39 |
+| 2023-08-16 | 61,995 | 39 |
 ## Awards
 Max (Extremely Fun): 1,054  (Ranked 141)  
 Sum: 8,567 (Ranked 95)  

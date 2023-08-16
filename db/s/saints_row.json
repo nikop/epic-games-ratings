@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 44,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2022-08-23T07:00:00+00:00",
     "PcReleaseDate": "2022-08-23T07:00:00+00:00",
@@ -3282,9 +3282,9 @@
       "Count": 1054
     }
   ],
-  "EOS_Progressed": 61994,
+  "EOS_Progressed": 61995,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 1388,
+  "EOS_NewPlayers": 1380,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -16157,6 +16157,11 @@
       "Time": "2023-08-16T10:03:25.6765931+00:00",
       "NumProgressed": 61994,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-08-16T11:03:32.7588878+00:00",
+      "NumProgressed": 61995,
+      "NumCompleted": 39
     }
   ],
   "TotalAchievements": 53,
@@ -16200,7 +16205,7 @@
       "Name": "Hijacked",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6199
+      "UsersEstimate": 6200
     },
     {
       "ID": "collect_high_amount_hero_props",
@@ -16264,7 +16269,7 @@
       "Name": "The Side Job",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 17358
+      "UsersEstimate": 17359
     },
     {
       "ID": "complete_first_wanted_mission",
@@ -16272,7 +16277,7 @@
       "Name": "Wet Work",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 17978
+      "UsersEstimate": 17979
     },
     {
       "ID": "complete_mission_1",
@@ -16280,7 +16285,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 26657
+      "UsersEstimate": 26658
     },
     {
       "ID": "customize_a_vehicle",
@@ -16336,7 +16341,7 @@
       "Name": "The Spins",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5579
+      "UsersEstimate": 5580
     },
     {
       "ID": "empire_tier_2",
@@ -16376,7 +16381,7 @@
       "Name": "Landlord",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 17978
+      "UsersEstimate": 17979
     },
     {
       "ID": "fully_complete_a_building",
@@ -16392,7 +16397,7 @@
       "Name": "The Mechanic",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 5579
+      "UsersEstimate": 5580
     },
     {
       "ID": "fully_upgrade_a_weapon",
@@ -16448,7 +16453,7 @@
       "Name": "Wrecking Ball",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 15498
+      "UsersEstimate": 15499
     },
     {
       "ID": "kill_tank_driver_with_rail",
@@ -16520,7 +16525,7 @@
       "Name": "Food for Thought",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 15498
+      "UsersEstimate": 15499
     },
     {
       "ID": "two_thirds_purple",
@@ -16591,22 +16596,22 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 61994,
+      "Progressed": 61995,
       "Completed": 39
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 33631,
-      "Completed": 3224
+      "Progressed": 33632,
+      "Completed": 3225
     }
   ],
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-08-15T15:01:35.6297103+00:00",
-  "LastChanged_Achievements": "2023-08-16T10:03:25.6765923+00:00",
+  "LastChanged_Achievements": "2023-08-16T11:03:32.758887+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:43.0045389+00:00",
-  "LastUpdate_Ratings": "2023-08-16T10:02:10.2300545+00:00",
-  "LastUpdate_Achievements": "2023-08-16T10:03:25.6768128+00:00"
+  "LastUpdate_Ratings": "2023-08-16T11:01:34.1832754+00:00",
+  "LastUpdate_Achievements": "2023-08-16T11:03:32.7590097+00:00"
 }

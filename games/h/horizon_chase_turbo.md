@@ -6,15 +6,15 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~924,573 |
-| I Need a Bigger Garage | 63.00% | ~647,201 |
-| Pump my Ride | 47.00% | ~482,832 |
-| Ghostbuster | 33.00% | ~339,010 |
-| That Was Close | 18.00% | ~184,915 |
-| Call Roadside Assistance | 17.00% | ~174,642 |
-| Quickie | 11.00% | ~113,003 |
-| California Dreamer | 7.00% | ~71,911 |
-| Can't Touch This | 5.00% | ~51,365 |
+| The First of Many | 90.00% | ~924,584 |
+| I Need a Bigger Garage | 63.00% | ~647,209 |
+| Pump my Ride | 47.00% | ~482,839 |
+| Ghostbuster | 33.00% | ~339,014 |
+| That Was Close | 18.00% | ~184,917 |
+| Call Roadside Assistance | 17.00% | ~174,644 |
+| Quickie | 11.00% | ~113,005 |
+| California Dreamer | 7.00% | ~71,912 |
+| Can't Touch This | 5.00% | ~51,366 |
 | Carménère Taster | 3.00% | ~30,819 |
 | Supersonic | 3.00% | ~30,819 |
 | Comeback | 3.00% | ~30,819 |
@@ -34,8 +34,8 @@ Number of Ratings: 1,343  (23.09.2022)
 | Brave and Bold | 1.00% | ~10,273 |
 | Crocodile Hunter | 0.90% | ~9,246 |
 | Old Master | 0.90% | ~9,246 |
-| Volcano Surfer | 0.80% | ~8,218 |
-| Otaku | 0.80% | ~8,218 |
+| Volcano Surfer | 0.80% | ~8,219 |
+| Otaku | 0.80% | ~8,219 |
 | Survivor | 0.60% | ~6,164 |
 | Getting Famous | 0.50% | ~5,137 |
 | King of the World | 0.50% | ~5,137 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Transporter | 0.10% | ~1,027 |
 | Look Mom, No Hands! | 0.10% | ~1,027 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,027,303 (Ranked 12)  
+Progressed: 1,027,316 (Ranked 12)  
 Completed: 398 (0.04%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,10 +162,10 @@ Completed: 398 (0.04%) (Ranked 226)
 | 2023-08-13 | 1,026,014 | 395 |
 | 2023-08-14 | 1,026,560 | 396 |
 | 2023-08-15 | 1,027,135 | 397 |
-| 2023-08-16 | 1,027,303 | 398 |
+| 2023-08-16 | 1,027,316 | 398 |
 ## Awards
 Max (Great for Beginners): 153  (Ranked 295)  
-Sum: 1,244 (Ranked 230)  
+Sum: 1,245 (Ranked 230)  
 Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
@@ -177,7 +177,7 @@ Diff (max vs sum): 65
 | This game has Competitive Players | 116 |
 | This game has Playful Visuals | 112 |
 | This game is Extremely Fun | 106 |
-| This game has Amazing Storytelling | 92 |
+| This game has Amazing Storytelling | 93 |
 | This game has Amazing Characters | 90 |
 | This game has a Competitive Community | 79 |
 | This game has Diverse Characters | 75 |
@@ -372,3 +372,4 @@ Diff (max vs sum): 65
 | 2023-08-11 | 4.55 | - | 153 | 1,240 |
 | 2023-08-12 | 4.55 | - | 153 | 1,241 |
 | 2023-08-13 | 4.55 | - | 153 | 1,244 |
+| 2023-08-16 | 4.55 | - | 153 | 1,245 |

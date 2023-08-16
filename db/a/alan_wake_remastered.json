@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,7 +512,7 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 60927,
+  "EOS_Progressed": 60928,
   "EOS_Completed": 64,
   "EOS_NewPlayers": 363,
   "EOS_NewCompleters": 0,
@@ -11397,6 +11397,11 @@
       "Time": "2023-08-16T10:06:25.8528157+00:00",
       "NumProgressed": 60927,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-16T11:05:55.7073267+00:00",
+      "NumProgressed": 60928,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -11440,7 +11445,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 12185
+      "UsersEstimate": 12186
     },
     {
       "ID": "06",
@@ -11720,7 +11725,7 @@
       "Name": "Right of Way",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5483
+      "UsersEstimate": 5484
     },
     {
       "ID": "41",
@@ -11943,21 +11948,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 60927,
+      "Progressed": 60928,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 24395,
+      "Progressed": 24396,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-16T10:06:25.8528145+00:00",
+  "LastChanged_Achievements": "2023-08-16T11:05:55.7073259+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:20.2881971+00:00",
-  "LastUpdate_Ratings": "2023-08-16T09:59:47.4756133+00:00",
-  "LastUpdate_Achievements": "2023-08-16T10:06:25.8530556+00:00"
+  "LastUpdate_Ratings": "2023-08-16T10:59:20.8697837+00:00",
+  "LastUpdate_Achievements": "2023-08-16T11:05:55.7074612+00:00"
 }

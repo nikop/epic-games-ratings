@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 244,
   "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17405,
+  "EOS_Progressed": 17407,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 245,
+  "EOS_NewPlayers": 246,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8376,6 +8376,11 @@
       "Time": "2023-08-16T04:04:43.2885609+00:00",
       "NumProgressed": 17405,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-16T11:05:19.551126+00:00",
+      "NumProgressed": 17407,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -8387,7 +8392,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5047
+      "UsersEstimate": 5048
     },
     {
       "ID": "0002",
@@ -8451,7 +8456,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4003
+      "UsersEstimate": 4004
     },
     {
       "ID": "0010",
@@ -8523,7 +8528,7 @@
       "Name": "In It to Win It",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1740
+      "UsersEstimate": 1741
     },
     {
       "ID": "0019",
@@ -8571,7 +8576,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 3829
+      "UsersEstimate": 3830
     },
     {
       "ID": "0025",
@@ -8603,7 +8608,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4003
+      "UsersEstimate": 4004
     },
     {
       "ID": "0029",
@@ -8674,7 +8679,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17405,
+      "Progressed": 17407,
       "Completed": 1
     }
   ],
@@ -8682,8 +8687,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-12T19:04:41.1874293+00:00",
-  "LastChanged_Achievements": "2023-08-16T10:05:42.4125896+00:00",
+  "LastChanged_Achievements": "2023-08-16T11:05:19.5511254+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:38.5697724+00:00",
-  "LastUpdate_Ratings": "2023-08-16T10:02:07.1702727+00:00",
-  "LastUpdate_Achievements": "2023-08-16T10:05:42.4127229+00:00"
+  "LastUpdate_Ratings": "2023-08-16T11:01:31.5106577+00:00",
+  "LastUpdate_Achievements": "2023-08-16T11:05:19.5512035+00:00"
 }

@@ -4,11 +4,11 @@
   "ProductSlug": "warface",
   "Ranking_Rating": 947,
   "Ranking_Popularity": 213,
-  "Ranking_PopularitySum": 155,
+  "Ranking_PopularitySum": 154,
   "Ranking_EOS_Progress": 546,
   "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 355,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2021-06-29T09:00:00+00:00",
     "PcReleaseDate": "2013-10-21T09:00:00+00:00",
@@ -3295,11 +3295,17 @@
       "Rating": 3.91,
       "NumberOfAwards": 3201,
       "NumberOfAwardsMax": 405
+    },
+    {
+      "Time": "2023-08-16T11:01:38.4901294+00:00",
+      "Rating": 3.91,
+      "NumberOfAwards": 3204,
+      "NumberOfAwardsMax": 406
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3201,
-  "NumberOfAwardsMax": 405,
+  "NumberOfAwards": 3204,
+  "NumberOfAwardsMax": 406,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
     {
@@ -3312,7 +3318,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 355
+      "Count": 356
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3324,7 +3330,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 405
+      "Count": 406
     },
     {
       "Text": "This game is Great for Beginners",
@@ -3336,7 +3342,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 374
+      "Count": 375
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3380,8 +3386,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:34.3823284+00:00",
-  "LastChanged": "2023-08-13T20:02:42.3289449+00:00",
+  "LastChanged": "2023-08-16T11:01:38.490129+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:47.8323469+00:00",
-  "LastUpdate_Ratings": "2023-08-16T10:02:16.1308789+00:00",
-  "LastUpdate_Achievements": "2023-08-16T10:04:34.5456681+00:00"
+  "LastUpdate_Ratings": "2023-08-16T11:01:38.4901299+00:00",
+  "LastUpdate_Achievements": "2023-08-16T11:04:12.4107195+00:00"
 }

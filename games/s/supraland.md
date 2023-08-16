@@ -6,44 +6,44 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~714,638 |
-| The Blues | 85.00% | ~613,578 |
-| Fast | 66.00% | ~476,426 |
-| Healthbar | 55.00% | ~397,021 |
-| Force Cube | 53.00% | ~382,584 |
-| Double Jump | 48.00% | ~346,491 |
-| Regeneration | 47.00% | ~339,273 |
-| Triple Jump | 43.00% | ~310,399 |
-| Climb the hill | 42.00% | ~303,180 |
-| Through the fire pipe | 38.00% | ~274,306 |
-| MacGuffin | 38.00% | ~274,306 |
-| Just once | 36.00% | ~259,869 |
-| Armor | 30.00% | ~216,557 |
-| True holy spirit | 28.00% | ~202,120 |
-| That's how electronics work obviously | 26.00% | ~187,683 |
-| Force Cube Catapult | 25.00% | ~180,464 |
-| Holy Sword | 23.00% | ~166,027 |
+| Out of bed | 99.00% | ~714,641 |
+| The Blues | 85.00% | ~613,581 |
+| Fast | 66.00% | ~476,428 |
+| Healthbar | 55.00% | ~397,023 |
+| Force Cube | 53.00% | ~382,586 |
+| Double Jump | 48.00% | ~346,493 |
+| Regeneration | 47.00% | ~339,274 |
+| Triple Jump | 43.00% | ~310,400 |
+| Climb the hill | 42.00% | ~303,181 |
+| Through the fire pipe | 38.00% | ~274,307 |
+| MacGuffin | 38.00% | ~274,307 |
+| Just once | 36.00% | ~259,870 |
+| Armor | 30.00% | ~216,558 |
+| True holy spirit | 28.00% | ~202,121 |
+| That's how electronics work obviously | 26.00% | ~187,684 |
+| Force Cube Catapult | 25.00% | ~180,465 |
+| Holy Sword | 23.00% | ~166,028 |
 | Telefrag | 22.00% | ~158,809 |
-| Freed from prison | 21.00% | ~151,590 |
-| Stomp | 21.00% | ~151,590 |
-| Double Health | 18.00% | ~129,934 |
+| Freed from prison | 21.00% | ~151,591 |
+| Stomp | 21.00% | ~151,591 |
+| Double Health | 18.00% | ~129,935 |
 | Buckle | 17.00% | ~122,716 |
 | Green Keycard | 17.00% | ~122,716 |
 | Rattle Hag | 15.00% | ~108,279 |
 | All Shells | 14.00% | ~101,060 |
 | Beam | 14.00% | ~101,060 |
-| Health Drink | 13.00% | ~93,841 |
-| 9 | 13.00% | ~93,841 |
-| Purple Cube | 13.00% | ~93,841 |
-| Supraball Noob | 13.00% | ~93,841 |
+| Health Drink | 13.00% | ~93,842 |
+| 9 | 13.00% | ~93,842 |
+| Purple Cube | 13.00% | ~93,842 |
+| Supraball Noob | 13.00% | ~93,842 |
 | Helped a star | 12.00% | ~86,623 |
 | Strong | 12.00% | ~86,623 |
-| Blue King's lair | 11.00% | ~79,404 |
-| Payback | 11.00% | ~79,404 |
-| Got the coins back | 11.00% | ~79,404 |
-| Got the gun back | 11.00% | ~79,404 |
-| Infiltrated | 11.00% | ~79,404 |
-| Robbed | 11.00% | ~79,404 |
+| Blue King's lair | 11.00% | ~79,405 |
+| Payback | 11.00% | ~79,405 |
+| Got the coins back | 11.00% | ~79,405 |
+| Got the gun back | 11.00% | ~79,405 |
+| Infiltrated | 11.00% | ~79,405 |
+| Robbed | 11.00% | ~79,405 |
 | Fire Flies | 10.00% | ~72,186 |
 | Cave Flies | 10.00% | ~72,186 |
 | Gold Scam | 10.00% | ~72,186 |
@@ -56,7 +56,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | Through the tiny pipe | 9.00% | ~64,967 |
 | Win! | 9.00% | ~64,967 |
 | The real real teleported man | 7.00% | ~50,530 |
-| Well deserved | 6.00% | ~43,311 |
+| Well deserved | 6.00% | ~43,312 |
 | Happiness | 3.00% | ~21,656 |
 | Super Sword | 3.00% | ~21,656 |
 | All Chests | 2.00% | ~14,437 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~722 |
 | DLC: Top of the world | 0.10% | ~722 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 721,857 (Ranked 19)  
+Progressed: 721,860 (Ranked 19)  
 Completed: 721 (0.10%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,14 +223,14 @@ Completed: 721 (0.10%) (Ranked 205)
 | 2023-08-13 | 721,511 | 718 |
 | 2023-08-14 | 721,649 | 719 |
 | 2023-08-15 | 721,801 | 720 |
-| 2023-08-16 | 721,857 | 721 |
+| 2023-08-16 | 721,860 | 721 |
 ## Awards
-Max (Challenging Puzzles): 7,669  (Ranked 45)  
-Sum: 9,993 (Ranked 84)  
+Max (Challenging Puzzles): 7,671  (Ranked 45)  
+Sum: 9,995 (Ranked 84)  
 Diff (max vs sum): -39  
 | Award | Count |
 | ----- | ----- |
-| This game features Challenging Puzzles | 7,669 |
+| This game features Challenging Puzzles | 7,671 |
 | This game is Educational | 282 |
 | This game is Relaxing | 277 |
 | This game has Amazing Characters | 274 |
@@ -384,3 +384,4 @@ Diff (max vs sum): -39
 | 2023-08-11 | 4.61 | - | 7,666 | 9,990 |
 | 2023-08-12 | 4.61 | - | 7,668 | 9,992 |
 | 2023-08-15 | 4.61 | - | 7,669 | 9,993 |
+| 2023-08-16 | 4.61 | - | 7,671 | 9,995 |

@@ -26,10 +26,10 @@ Rating: 4.77 (Ranked 108)
 | A Sallow Grave | 7.00% | ~20,313 |
 | Flight the Good Flight | 7.00% | ~20,313 |
 | The Spell Master | 7.00% | ~20,313 |
-| The Seeker of Knowledge | 5.00% | ~14,509 |
-| The Root of the Problem | 5.00% | ~14,509 |
-| Third Time's a Charm | 5.00% | ~14,509 |
-| Raising Expectations | 5.00% | ~14,509 |
+| The Seeker of Knowledge | 5.00% | ~14,510 |
+| The Root of the Problem | 5.00% | ~14,510 |
+| Third Time's a Charm | 5.00% | ~14,510 |
+| Raising Expectations | 5.00% | ~14,510 |
 | The Toast of the Town | 4.00% | ~11,608 |
 | Room with a View | 4.00% | ~11,608 |
 | The Intrepid Explorer | 4.00% | ~11,608 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 108)
 | The Nature of the Beast | 0.60% | ~1,741 |
 | Collector's Edition | 0.30% | ~871 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290,188 (Ranked 43)  
+Progressed: 290,191 (Ranked 43)  
 Completed: 451 (0.16%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,7 +169,7 @@ Completed: 451 (0.16%) (Ranked 189)
 | 2023-08-13 | 290,043 | 451 |
 | 2023-08-14 | 290,112 | 451 |
 | 2023-08-15 | 290,171 | 451 |
-| 2023-08-16 | 290,188 | 451 |
+| 2023-08-16 | 290,191 | 451 |
 ## Awards
 Max (Character Customization): 21,765  (Ranked 17)  
 Sum: 41,059 (Ranked 30)  

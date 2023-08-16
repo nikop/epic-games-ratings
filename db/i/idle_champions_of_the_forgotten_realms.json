@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 38,
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 117,
-  "Ranking_EOS_NewPlayers": 36,
+  "Ranking_EOS_NewPlayers": 35,
   "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -5848,9 +5848,9 @@
       "Count": 3355
     }
   ],
-  "EOS_Progressed": 222342,
+  "EOS_Progressed": 222355,
   "EOS_Completed": 2183,
-  "EOS_NewPlayers": 2218,
+  "EOS_NewPlayers": 2220,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -18648,6 +18648,11 @@
       "Time": "2023-08-16T10:04:52.819545+00:00",
       "NumProgressed": 222342,
       "NumCompleted": 2183
+    },
+    {
+      "Time": "2023-08-16T11:04:28.0707112+00:00",
+      "NumProgressed": 222355,
+      "NumCompleted": 2183
     }
   ],
   "TotalAchievements": 516,
@@ -22755,7 +22760,7 @@
       "Name": "The Hunt for The Last Breath",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 754
+      "UsersEstimate": 755
     },
     {
       "ID": "objective_completed_1396",
@@ -22786,21 +22791,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 188616,
-      "Completed": 3252
+      "Progressed": 188629,
+      "Completed": 3253
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 222342,
+      "Progressed": 222355,
       "Completed": 2183
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-16T10:00:22.879386+00:00",
-  "LastChanged_Achievements": "2023-08-16T10:04:52.8195443+00:00",
+  "LastChanged_Achievements": "2023-08-16T11:04:28.0707106+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:51.8567155+00:00",
-  "LastUpdate_Ratings": "2023-08-16T10:00:22.8793868+00:00",
-  "LastUpdate_Achievements": "2023-08-16T10:04:52.8229917+00:00"
+  "LastUpdate_Ratings": "2023-08-16T10:59:53.7915421+00:00",
+  "LastUpdate_Achievements": "2023-08-16T11:04:28.0734286+00:00"
 }

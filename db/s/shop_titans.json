@@ -5620,9 +5620,9 @@
       "Count": 3734
     }
   ],
-  "EOS_Progressed": 134590,
+  "EOS_Progressed": 134594,
   "EOS_Completed": 133,
-  "EOS_NewPlayers": 407,
+  "EOS_NewPlayers": 408,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -17660,6 +17660,11 @@
       "Time": "2023-08-16T10:06:15.8385506+00:00",
       "NumProgressed": 134590,
       "NumCompleted": 133
+    },
+    {
+      "Time": "2023-08-16T11:05:47.3063079+00:00",
+      "NumProgressed": 134594,
+      "NumCompleted": 133
     }
   ],
   "TotalAchievements": 112,
@@ -18525,9 +18530,9 @@
       "ID": "uncommonres03",
       "SetID": "anfd17p",
       "Name": "Economy of Scarce",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 269
     },
     {
       "ID": "workers01",
@@ -18566,15 +18571,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 134590,
+      "Progressed": 134594,
       "Completed": 133
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-08-16T02:59:37.0786736+00:00",
-  "LastChanged_Achievements": "2023-08-16T10:06:15.8385498+00:00",
+  "LastChanged_Achievements": "2023-08-16T11:05:47.3063074+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:13.9096409+00:00",
-  "LastUpdate_Ratings": "2023-08-16T10:00:47.3669562+00:00",
-  "LastUpdate_Achievements": "2023-08-16T10:06:15.8389249+00:00"
+  "LastUpdate_Ratings": "2023-08-16T11:00:16.2910206+00:00",
+  "LastUpdate_Achievements": "2023-08-16T11:05:47.3065515+00:00"
 }

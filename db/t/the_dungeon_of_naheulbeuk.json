@@ -648,9 +648,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 213051,
+  "EOS_Progressed": 213066,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3819,
+  "EOS_NewPlayers": 3821,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7113,6 +7113,11 @@
       "Time": "2023-08-16T10:05:34.1956609+00:00",
       "NumProgressed": 213051,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-16T11:05:12.8968733+00:00",
+      "NumProgressed": 213066,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -7172,7 +7177,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1917
+      "UsersEstimate": 1918
     },
     {
       "ID": "Chapter2",
@@ -7556,15 +7561,15 @@
       "Name": "Sock! SOCK!",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1917
+      "UsersEstimate": 1918
     },
     {
       "ID": "ElfEpic",
       "SetID": "50chcgj",
       "Name": "Look but don\u0027t touch",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 426
+      "UsersEstimate": 639
     },
     {
       "ID": "ElfHitTwoFriends",
@@ -7572,7 +7577,7 @@
       "Name": "Sowwy!",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 31958
+      "UsersEstimate": 31960
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -7827,21 +7832,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 213051,
+      "Progressed": 213066,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 213051,
+      "Progressed": 213066,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-15T01:40:21.2095498+00:00",
-  "LastChanged_Achievements": "2023-08-16T10:05:34.1956595+00:00",
+  "LastChanged_Achievements": "2023-08-16T11:05:12.8968726+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:49.6773731+00:00",
-  "LastUpdate_Ratings": "2023-08-16T10:01:27.7507918+00:00",
-  "LastUpdate_Achievements": "2023-08-16T10:05:34.1959249+00:00"
+  "LastUpdate_Ratings": "2023-08-16T11:00:53.7097357+00:00",
+  "LastUpdate_Achievements": "2023-08-16T11:05:12.897025+00:00"
 }

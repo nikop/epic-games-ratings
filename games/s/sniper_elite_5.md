@@ -5,26 +5,26 @@ Rating: 4.45 (Ranked 633)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 45.00% | ~1,567 |
-| Confirming Suspicions | 40.00% | ~1,393 |
+| Meeting Resistance | 45.00% | ~1,568 |
+| Confirming Suspicions | 40.00% | ~1,394 |
 | The Kraken Wakes | 35.00% | ~1,219 |
 | It's Starting to Crack | 32.00% | ~1,115 |
 | Lord of War | 29.00% | ~1,010 |
 | Change the Channel | 29.00% | ~1,010 |
-| Taking it back | 27.00% | ~940 |
+| Taking it back | 27.00% | ~941 |
 | Resourceful | 26.00% | ~906 |
 | Target America | 25.00% | ~871 |
 | The Kraken Sleeps | 23.00% | ~801 |
 | Organ Grinder | 22.00% | ~766 |
-| As Quiet as a Mouse | 22.00% | ~766 |
-| Liberté | 21.00% | ~731 |
-| Sharpshooter | 21.00% | ~731 |
+| Liberté | 21.00% | ~732 |
+| Sharpshooter | 21.00% | ~732 |
+| As Quiet as a Mouse | 21.00% | ~732 |
 | Explosive Efficiency | 18.00% | ~627 |
 | Gunslinger | 17.00% | ~592 |
 | Just a Flesh Wound | 16.00% | ~557 |
-| Climbing the Ladder | 15.00% | ~522 |
-| Der Geist | 15.00% | ~522 |
-| Close Quarters | 15.00% | ~522 |
+| Climbing the Ladder | 15.00% | ~523 |
+| Der Geist | 15.00% | ~523 |
+| Close Quarters | 15.00% | ~523 |
 | Snake in the Grass | 14.00% | ~488 |
 | Brains of the Operation | 14.00% | ~488 |
 | Opposing Force | 13.00% | ~453 |
@@ -34,8 +34,8 @@ Rating: 4.45 (Ranked 633)
 | Die Nussknacker Sweet! | 13.00% | ~453 |
 | No Stone Unturned | 12.00% | ~418 |
 | Set Europe Ablaze | 12.00% | ~418 |
-| Precision Is Key | 9.00% | ~313 |
-| My Little Friend | 9.00% | ~313 |
+| Precision Is Key | 9.00% | ~314 |
+| My Little Friend | 9.00% | ~314 |
 | Rigged to Blow | 8.00% | ~279 |
 | Herr Today, Gone Tomorrow | 6.00% | ~206 |
 | The Long Game | 5.00% | ~174 |
@@ -49,8 +49,8 @@ Rating: 4.45 (Ranked 633)
 | Last Resort | 4.00% | ~137 |
 | Siegebreaker | 4.00% | ~137 |
 | Ghost of Falaise | 4.00% | ~137 |
-| Burn after reading | 3.00% | ~104 |
-| Shoot for the Moon | 3.00% | ~104 |
+| Burn after reading | 3.00% | ~105 |
+| Shoot for the Moon | 3.00% | ~105 |
 | If You Go Down To The Woods Today | 3.00% | ~103 |
 | Fight Another Day | 3.00% | ~103 |
 | From Paris with Love | 2.00% | ~70 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 633)
 | Stroll in the Woods | 0.60% | ~21 |
 | Going Overboard | 0.60% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,483 (Ranked 150)  
+Progressed: 3,484 (Ranked 150)  
 Completed: 9 (0.26%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 9 (0.26%) (Ranked 173)
 | 2023-08-13 | 3,466 | 9 |
 | 2023-08-14 | 3,472 | 9 |
 | 2023-08-15 | 3,481 | 9 |
-| 2023-08-16 | 3,483 | 9 |
+| 2023-08-16 | 3,484 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

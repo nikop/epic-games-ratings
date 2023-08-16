@@ -836,9 +836,9 @@
       "ID": "ACH_FIRST_SHOCK",
       "SetID": "al4k4nh",
       "Name": "First shock",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 149
     },
     {
       "ID": "ACH_FIX_LIGHT_SWITCHES",
@@ -971,8 +971,8 @@
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2023-08-16T10:07:22.5260886+00:00",
+  "LastChanged_Achievements": "2023-08-16T11:06:32.787582+00:00",
   "LastUpdate_AppInfo": "2023-08-09T17:56:58.4992812+00:00",
-  "LastUpdate_Ratings": "2023-08-16T09:59:12.1225153+00:00",
-  "LastUpdate_Achievements": "2023-08-16T10:07:22.5261297+00:00"
+  "LastUpdate_Ratings": "2023-08-16T10:58:51.5017467+00:00",
+  "LastUpdate_Achievements": "2023-08-16T11:06:32.7876053+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -464,9 +464,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3483,
+  "EOS_Progressed": 3484,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -5994,6 +5994,11 @@
       "Time": "2023-08-16T04:03:39.0316433+00:00",
       "NumProgressed": 3483,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-16T11:04:06.0177733+00:00",
+      "NumProgressed": 3484,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 71,
@@ -6005,7 +6010,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -6013,7 +6018,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 731
+      "UsersEstimate": 732
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -6085,7 +6090,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 1567
+      "UsersEstimate": 1568
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -6141,7 +6146,7 @@
       "Name": "Sharpshooter",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 731
+      "UsersEstimate": 732
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -6165,7 +6170,7 @@
       "Name": "Precision Is Key",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
@@ -6173,7 +6178,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 1393
+      "UsersEstimate": 1394
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -6197,7 +6202,7 @@
       "Name": "My Little Friend",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "REWARD_34_TRIPLE_KILL",
@@ -6237,15 +6242,15 @@
       "Name": "Der Geist",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
       "SetID": "bm6el81",
       "Name": "As Quiet as a Mouse",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 766
+      "UsersEstimate": 732
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -6261,7 +6266,7 @@
       "Name": "Close Quarters",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -6285,7 +6290,7 @@
       "Name": "Burn after reading",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "REWARD_44_FRIEND_OR_FOE",
@@ -6373,7 +6378,7 @@
       "Name": "Taking it back",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 940
+      "UsersEstimate": 941
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -6405,7 +6410,7 @@
       "Name": "Shoot for the Moon",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "REWARD_8_THE_KRAKEN_SLEEPS",
@@ -6572,13 +6577,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3434,
+      "Progressed": 3435,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3483,
+      "Progressed": 3484,
       "Completed": 9
     }
   ],
@@ -6586,8 +6591,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-08-15T14:58:15.1556932+00:00",
-  "LastChanged_Achievements": "2023-08-16T10:04:26.9194359+00:00",
+  "LastChanged_Achievements": "2023-08-16T11:04:06.0177725+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:04.4888171+00:00",
-  "LastUpdate_Ratings": "2023-08-16T09:58:36.1419222+00:00",
-  "LastUpdate_Achievements": "2023-08-16T10:04:26.9196524+00:00"
+  "LastUpdate_Ratings": "2023-08-16T10:58:23.2155483+00:00",
+  "LastUpdate_Achievements": "2023-08-16T11:04:06.0178682+00:00"
 }
