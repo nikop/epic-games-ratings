@@ -4,7 +4,7 @@
   "ProductSlug": "a-musical-story-973128",
   "Ranking_EOS_Progress": 328,
   "Ranking_EOS_Completed": 113,
-  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewPlayers": 307,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-03-04T18:00:00+00:00",
@@ -511,9 +511,9 @@
       "ID": "L20_PERFECT",
       "SetID": "6finf64",
       "Name": "Hospital Flowers",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "L21_FINISH",
@@ -607,25 +607,25 @@
       "ID": "L6_PERFECT",
       "SetID": "6finf64",
       "Name": "The Mountains, The Valleys",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "L7_5_FINISH",
       "SetID": "6finf64",
       "Name": "Briget\u0027s",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "L7_5_PERFECT",
       "SetID": "6finf64",
       "Name": "As the Crow Flies",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "L7_FINISH",
@@ -639,9 +639,9 @@
       "ID": "L7_PERFECT",
       "SetID": "6finf64",
       "Name": "Flight of the Bumblebee",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "L8_FINISH",
@@ -655,9 +655,9 @@
       "ID": "L8_PERFECT",
       "SetID": "6finf64",
       "Name": "Milk and Alcohol",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "L9_FINISH",
@@ -696,8 +696,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.0267676+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.5327196+00:00",
   "LastChanged": "2023-03-31T05:57:21.0267677+00:00",
-  "LastChanged_Achievements": "2023-08-16T18:07:11.3422732+00:00",
+  "LastChanged_Achievements": "2023-08-16T19:07:12.1344639+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:49.9410769+00:00",
-  "LastUpdate_Ratings": "2023-08-16T17:59:23.2094319+00:00",
-  "LastUpdate_Achievements": "2023-08-16T18:07:11.3423177+00:00"
+  "LastUpdate_Ratings": "2023-08-16T18:59:39.1280738+00:00",
+  "LastUpdate_Achievements": "2023-08-16T19:07:12.1345161+00:00"
 }

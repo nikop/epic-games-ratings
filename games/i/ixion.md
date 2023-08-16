@@ -5,19 +5,19 @@ Rating: 4.56 (Ranked 470)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 26.00% | ~799 |
+| Wakey Wakey | 26.00% | ~800 |
 | Sputnik 2049 | 22.00% | ~676 |
-| Infinite Growth... | 21.00% | ~645 |
+| Infinite Growth... | 21.00% | ~646 |
 | Without Breaking Some Eggs... | 20.00% | ~615 |
 | A Thousand Strong | 15.00% | ~461 |
 | Ready for a New World | 15.00% | ~461 |
-| Space Society | 14.00% | ~430 |
-| Permanent Redesigns | 13.00% | ~399 |
+| Space Society | 14.00% | ~431 |
+| Permanent Redesigns | 13.00% | ~400 |
 | Guy de Borderlands | 11.00% | ~338 |
 | Fully Recycled | 11.00% | ~338 |
 | Ain't Nobody Got Time for That | 11.00% | ~338 |
 | The Ship of Theseus | 11.00% | ~338 |
-| Hope Seeker | 10.00% | ~307 |
+| Hope Seeker | 10.00% | ~308 |
 | A Hunk of Junk | 9.00% | ~277 |
 | Exceeding Capacity | 9.00% | ~277 |
 | Breaking Protocol | 9.00% | ~277 |
@@ -31,19 +31,19 @@ Rating: 4.56 (Ranked 470)
 | From the Past | 5.00% | ~154 |
 | Oats | 4.00% | ~123 |
 | What They Hide From Us | 4.00% | ~123 |
+| ...  in a finite world | 4.00% | ~123 |
 | BRAWL! | 4.00% | ~123 |
 | All in Good Health | 4.00% | ~123 |
 | What the Ruins Teach Us | 4.00% | ~123 |
-| ...  in a finite world | 3.00% | ~92 |
 | Sustainable Energy | 3.00% | ~92 |
 | In Dolos We Trust | 3.00% | ~92 |
 | Pedal to the Metal | 3.00% | ~92 |
-| Mutual Loyalty | 2.00% | ~61 |
-| Praise the Hull! | 2.00% | ~61 |
-| Space Greenhouse | 2.00% | ~61 |
-| Delivery! | 2.00% | ~61 |
-| Help of the Forgotten Member | 2.00% | ~61 |
-| Pulsar Disciple | 2.00% | ~61 |
+| Mutual Loyalty | 2.00% | ~62 |
+| Praise the Hull! | 2.00% | ~62 |
+| Space Greenhouse | 2.00% | ~62 |
+| Delivery! | 2.00% | ~62 |
+| Help of the Forgotten Member | 2.00% | ~62 |
+| Pulsar Disciple | 2.00% | ~62 |
 | Better Him Than Me | 1.00% | ~31 |
 | Tiqqun Contender | 1.00% | ~31 |
 | Catastrophe Avoided | 1.00% | ~31 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 470)
 | Beyond Time and Space | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,073 (Ranked 158)  
+Progressed: 3,075 (Ranked 157)  
 Completed: 0 (0.00%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 0 (0.00%) (Ranked 258)
 | 2023-08-12 | 3,062 | 0 |
 | 2023-08-13 | 3,068 | 0 |
 | 2023-08-15 | 3,071 | 0 |
-| 2023-08-16 | 3,073 | 0 |
+| 2023-08-16 | 3,075 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

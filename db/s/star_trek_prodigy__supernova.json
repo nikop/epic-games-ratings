@@ -247,9 +247,9 @@
       "ID": "Finish_P2L4",
       "SetID": "7270ipa",
       "Name": "Escape from Mirios",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Finish_P3L1",
@@ -351,9 +351,9 @@
       "ID": "RescueMurf",
       "SetID": "7270ipa",
       "Name": "The Crew is Back!",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "RescueRokTahk",
@@ -399,9 +399,9 @@
       "ID": "UseAllCrewMembers",
       "SetID": "7270ipa",
       "Name": "Teamwork makes the dream work",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "UseCrewMember",
@@ -424,8 +424,8 @@
   "FirstSeenRating": "2023-03-31T05:57:13.3030994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.1498676+00:00",
   "LastChanged": "2023-03-31T05:57:13.3030995+00:00",
-  "LastChanged_Achievements": "2023-08-16T18:03:30.6703754+00:00",
+  "LastChanged_Achievements": "2023-08-16T19:03:44.5329892+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:28.0860902+00:00",
-  "LastUpdate_Ratings": "2023-08-16T17:59:02.8906068+00:00",
-  "LastUpdate_Achievements": "2023-08-16T18:03:30.6704011+00:00"
+  "LastUpdate_Ratings": "2023-08-16T18:59:19.1141396+00:00",
+  "LastUpdate_Achievements": "2023-08-16T19:03:44.533021+00:00"
 }

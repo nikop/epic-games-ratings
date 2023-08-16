@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -496,9 +496,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3308,
+  "EOS_Progressed": 3309,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4101,6 +4101,11 @@
       "Time": "2023-08-16T13:07:54.7739944+00:00",
       "NumProgressed": 3308,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-16T19:04:40.4596713+00:00",
+      "NumProgressed": 3309,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 42,
@@ -4152,7 +4157,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1422
+      "UsersEstimate": 1423
     },
     {
       "ID": "CrowdPleaser",
@@ -4208,7 +4213,7 @@
       "Name": "Hold my Mead and Watch This",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "HomeSweetHome_25",
@@ -4296,7 +4301,7 @@
       "Name": "Ready for Summer",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1720
+      "UsersEstimate": 1721
     },
     {
       "ID": "ReadyforWinter_42",
@@ -4304,7 +4309,7 @@
       "Name": "Ready for Winter",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 2150
+      "UsersEstimate": 2151
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -4376,7 +4381,7 @@
       "Name": "The Power of Family",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "ThePowerofFreedom_3",
@@ -4392,7 +4397,7 @@
       "Name": "The stuff of legends.",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "TheyllTellStoriesAboutThis_35",
@@ -4432,7 +4437,7 @@
       "Name": "Venture Outward",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2481
+      "UsersEstimate": 2482
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -4447,15 +4452,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3308,
+      "Progressed": 3309,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-07-11T02:15:21.6079736+00:00",
-  "LastChanged_Achievements": "2023-08-16T18:04:24.1240545+00:00",
+  "LastChanged_Achievements": "2023-08-16T19:04:40.4596706+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:38.7353115+00:00",
-  "LastUpdate_Ratings": "2023-08-16T17:59:12.7067063+00:00",
-  "LastUpdate_Achievements": "2023-08-16T18:04:24.1241057+00:00"
+  "LastUpdate_Ratings": "2023-08-16T18:59:28.2761122+00:00",
+  "LastUpdate_Achievements": "2023-08-16T19:04:40.4597253+00:00"
 }

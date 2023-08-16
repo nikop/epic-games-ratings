@@ -56,10 +56,10 @@
 | Problems of cyborgs | 34.00% | ~86 |
 | Undercover robot | 34.00% | ~86 |
 | Absolute Champion! | 33.00% | ~83 |
+| Trap disarmed | 32.00% | ~81 |
 | Not little hacker | 32.00% | ~81 |
 | Careerist | 32.00% | ~81 |
 | Anyone can resist | 32.00% | ~81 |
-| Trap disarmed | 31.00% | ~78 |
 | The lonesome road | 31.00% | ~78 |
 | Key memories | 31.00% | ~78 |
 | The last bell ring | 31.00% | ~78 |

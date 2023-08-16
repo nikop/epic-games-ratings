@@ -16,8 +16,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Ring of Regeneration | 0.20% | ~445 |
 | Seeking Allies | 0.20% | ~445 |
 | Are Ya Chicken? | 0.20% | ~445 |
-| The Chaotic Hunt for The Last Breath | 0.20% | ~377 |
-| There's a Flying Snake in my Boot! | 0.20% | ~377 |
+| The Chaotic Hunt for The Last Breath | 0.20% | ~378 |
+| There's a Flying Snake in my Boot! | 0.20% | ~378 |
 | Maddening | 0.10% | ~222 |
 | Pros and CONs | 0.10% | ~222 |
 | Upholding the Law | 0.10% | ~222 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~189 |
 | Animated Giff | 0.10% | ~189 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 222,467 (Ranked 53)  
+Progressed: 222,481 (Ranked 53)  
 Completed: 2,184 (0.98%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -641,7 +641,7 @@ Completed: 2,184 (0.98%) (Ranked 118)
 | 2023-08-13 | 221,637 | 2,180 |
 | 2023-08-14 | 221,929 | 2,181 |
 | 2023-08-15 | 222,230 | 2,183 |
-| 2023-08-16 | 222,467 | 2,184 |
+| 2023-08-16 | 222,481 | 2,184 |
 ## Awards
 Max (Diverse Characters): 5,152  (Ranked 67)  
 Sum: 31,065 (Ranked 38)  

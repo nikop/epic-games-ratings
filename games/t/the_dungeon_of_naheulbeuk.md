@@ -6,15 +6,15 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 16.00% | ~34,116 |
+| Sowwy! | 16.00% | ~34,120 |
 | Déjà vu | 1.00% | ~2,132 |
 | Where's that freaking Dwarf? | 1.00% | ~2,132 |
 | Alt+F4 | 1.00% | ~2,132 |
 | Sock! SOCK! | 0.90% | ~1,919 |
 | A beer, two curses, three companions | 0.70% | ~1,493 |
+| GG EZ | 0.70% | ~1,493 |
 | Speedrun | 0.70% | ~1,493 |
 | Fireproof Wizardess | 0.70% | ~1,493 |
-| GG EZ | 0.60% | ~1,279 |
 | DM intervention | 0.60% | ~1,279 |
 | Livin' in a dwarven paradise | 0.50% | ~1,066 |
 | Way of the Wimp | 0.50% | ~1,066 |
@@ -23,12 +23,12 @@ Number of Ratings: 118  (23.09.2022)
 | The Great Library | 0.40% | ~853 |
 | Torture and Sensibility | 0.40% | ~853 |
 | Urik's Depths | 0.40% | ~853 |
+| The Dungeon Master | 0.40% | ~853 |
 | The Woman in the High Castle | 0.40% | ~853 |
 | %#*!$*! | 0.40% | ~853 |
 | Team Building Exercise | 0.40% | ~853 |
 | Oh, when I'll be level 10... | 0.40% | ~853 |
 | Shiny and Crôm | 0.30% | ~640 |
-| The Dungeon Master | 0.30% | ~640 |
 | The Statuette of Gladeulfeurah | 0.30% | ~640 |
 | Res Judicata | 0.30% | ~640 |
 | The Famous Dungeon of Naheulbeuk | 0.30% | ~640 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Staff cut | 0.00% | ~0 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 213,222 (Ranked 56)  
+Progressed: 213,248 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,7 +172,7 @@ Completed: 2 (0.00%) (Ranked 258)
 | 2023-08-13 | 211,857 | 2 |
 | 2023-08-14 | 212,372 | 2 |
 | 2023-08-15 | 212,897 | 2 |
-| 2023-08-16 | 213,222 | 2 |
+| 2023-08-16 | 213,248 | 2 |
 ## Awards
 Max (Character Customization): 166  (Ranked 289)  
 Sum: 187 (Ranked 375)  

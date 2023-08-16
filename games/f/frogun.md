@@ -10,7 +10,7 @@
 | Challenge seeker | 79.00% | ~175 |
 | Coin collector | 73.00% | ~161 |
 | Floater | 59.00% | ~130 |
-| Speedrunner | 44.00% | ~97 |
+| Speedrunner | 45.00% | ~99 |
 | On foot racer | 40.00% | ~88 |
 | Prickly situation handler | 35.00% | ~77 |
 | Hat lover | 33.00% | ~73 |

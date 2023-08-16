@@ -2998,9 +2998,9 @@
       "Count": 694
     }
   ],
-  "EOS_Progressed": 1575970,
+  "EOS_Progressed": 1576145,
   "EOS_Completed": 505,
-  "EOS_NewPlayers": 25362,
+  "EOS_NewPlayers": 25334,
   "EOS_NewCompleters": 32,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -10943,6 +10943,11 @@
       "Time": "2023-08-16T18:07:13.0672691+00:00",
       "NumProgressed": 1575970,
       "NumCompleted": 505
+    },
+    {
+      "Time": "2023-08-16T19:07:15.0949628+00:00",
+      "NumProgressed": 1576145,
+      "NumCompleted": 505
     }
   ],
   "TotalAchievements": 1328,
@@ -11520,9 +11525,9 @@
       "ID": "axe_62",
       "SetID": "bkjdbk8",
       "Name": "A Sad Vlad is Bad",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "axe_63",
@@ -11976,9 +11981,9 @@
       "ID": "born_6",
       "SetID": "bkjdbk8",
       "Name": "Eye for an Eye",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "bph_1",
@@ -12216,9 +12221,9 @@
       "ID": "cac_1",
       "SetID": "bkjdbk8",
       "Name": "Compact Confrontation",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "cac_10",
@@ -12352,9 +12357,9 @@
       "ID": "cac_25",
       "SetID": "bkjdbk8",
       "Name": "Down Payment",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "cac_26",
@@ -12752,9 +12757,9 @@
       "ID": "chca_11",
       "SetID": "bkjdbk8",
       "Name": "Secret Sea Safecracker",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "chca_12",
@@ -12824,9 +12829,9 @@
       "ID": "chca_9",
       "SetID": "bkjdbk8",
       "Name": "Swimming Cat, Silent Burglar",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "ckr_1",
@@ -12968,9 +12973,9 @@
       "ID": "corp_8",
       "SetID": "bkjdbk8",
       "Name": "Corporate Espionage",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "corp_9",
@@ -13328,25 +13333,25 @@
       "ID": "death_26",
       "SetID": "bkjdbk8",
       "Name": "Long-Term Relationship",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "death_27",
       "SetID": "bkjdbk8",
       "Name": "Tough Act to Follow",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "death_28",
       "SetID": "bkjdbk8",
       "Name": "Sh*t Just Got Real",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "death_29",
@@ -14512,9 +14517,9 @@
       "ID": "gage5_6",
       "SetID": "bkjdbk8",
       "Name": "Unusual Suspects",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "gage5_7",
@@ -14544,9 +14549,9 @@
       "ID": "gage_1",
       "SetID": "bkjdbk8",
       "Name": "Wanted",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "gage_10",
@@ -16008,9 +16013,9 @@
       "ID": "jerry_5",
       "SetID": "bkjdbk8",
       "Name": "Black Tie Event",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "kenaz_1",
@@ -16888,9 +16893,9 @@
       "ID": "pent_11",
       "SetID": "bkjdbk8",
       "Name": "For The Mad Hatter",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "pent_12",
@@ -20120,9 +20125,9 @@
       "ID": "trk_gs_3",
       "SetID": "bkjdbk8",
       "Name": "Golf Oscar Alpha Tango Sierra",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "trk_h_0",
@@ -21424,9 +21429,9 @@
       "ID": "voff_4",
       "SetID": "bkjdbk8",
       "Name": "Mellon",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1576
     },
     {
       "ID": "voff_5",
@@ -21577,13 +21582,13 @@
     {
       "ID": "61cefe3",
       "IsBase": true,
-      "Progressed": 1575970,
+      "Progressed": 1576145,
       "Completed": 505
     },
     {
       "ID": "bkjdbk8",
       "IsBase": false,
-      "Progressed": 1575970,
+      "Progressed": 1576145,
       "Completed": 8
     }
   ],
@@ -21591,8 +21596,8 @@
   "FirstSeenRating": "2023-06-09T03:57:04.3869033+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:50.4372379+00:00",
   "LastChanged": "2023-08-16T17:58:23.2352267+00:00",
-  "LastChanged_Achievements": "2023-08-16T18:07:13.0672687+00:00",
+  "LastChanged_Achievements": "2023-08-16T19:07:15.0949623+00:00",
   "LastUpdate_AppInfo": "2023-08-10T19:57:07.9529529+00:00",
-  "LastUpdate_Ratings": "2023-08-16T17:58:23.2352272+00:00",
-  "LastUpdate_Achievements": "2023-08-16T18:07:13.0811657+00:00"
+  "LastUpdate_Ratings": "2023-08-16T18:58:31.5655189+00:00",
+  "LastUpdate_Achievements": "2023-08-16T19:07:15.1107574+00:00"
 }

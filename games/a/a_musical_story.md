@@ -13,7 +13,7 @@
 | The Van | 68.00% | ~63 |
 | Road-Trip | 61.00% | ~56 |
 | A Musical Pause | 59.00% | ~54 |
-| Briget's | 49.00% | ~45 |
+| Briget's | 50.00% | ~46 |
 | Big City Music | 46.00% | ~42 |
 | Sound of Noise | 46.00% | ~42 |
 | Love at First Sight | 41.00% | ~38 |
@@ -30,19 +30,20 @@
 | The Fix | 15.00% | ~14 |
 | Time | 12.00% | ~11 |
 | Regrets | 12.00% | ~11 |
+| The Mountains, The Valleys | 12.00% | ~11 |
 | The Accident | 11.00% | ~10 |
 | The Awakening | 11.00% | ~10 |
-| The Mountains, The Valleys | 11.00% | ~10 |
 | Bad Trip | 10.00% | ~9 |
 | Love | 10.00% | ~9 |
 | Here we go again! | 10.00% | ~9 |
 | Chase the Crow | 8.00% | ~7 |
-| Flight of the Bumblebee | 7.00% | ~6 |
+| Flight of the Bumblebee | 8.00% | ~7 |
+| Milk and Alcohol | 5.00% | ~5 |
 | Gasoline | 4.00% | ~4 |
 | On the Road Again | 4.00% | ~4 |
 | Under the Bridge | 4.00% | ~4 |
-| Milk and Alcohol | 4.00% | ~4 |
-| As the Crow Flies | 3.00% | ~3 |
+| As the Crow Flies | 4.00% | ~4 |
+| Hospital Flowers | 3.00% | ~3 |
 | Unintended | 3.00% | ~3 |
 | Voodoo Child | 2.00% | ~2 |
 | Riders on the Storm | 2.00% | ~2 |
@@ -51,7 +52,6 @@
 | All Apologies | 2.00% | ~2 |
 | Carry On | 2.00% | ~2 |
 | Killer Cars | 2.00% | ~2 |
-| Hospital Flowers | 2.00% | ~2 |
 | Stairway to Heaven | 2.00% | ~2 |
 | Purple Haze | 1.00% | ~1 |
 | The Show Must Go On | 1.00% | ~1 |

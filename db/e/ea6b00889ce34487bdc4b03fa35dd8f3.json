@@ -28,8 +28,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "dab3ahb",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2023-08-16T19:01:22.6123387+00:00",
+  "LastChanged_Achievements": "2023-08-16T19:01:22.6123334+00:00",
   "LastUpdate_AppInfo": "2023-08-16T10:57:17.8472851+00:00",
-  "LastUpdate_Ratings": "2023-08-16T17:57:07.7340655+00:00",
-  "LastUpdate_Achievements": "2023-08-16T18:02:09.4558492+00:00"
+  "LastUpdate_Ratings": "2023-08-16T18:57:11.8016737+00:00",
+  "LastUpdate_Achievements": "2023-08-16T19:01:22.6123402+00:00"
 }

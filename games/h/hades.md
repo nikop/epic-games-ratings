@@ -6,25 +6,25 @@ Number of Ratings: 6,336  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escaped Tartarus | 89.00% | ~624,244 |
-| Escaped Asphodel | 80.00% | ~561,118 |
-| Arms Collector | 71.00% | ~497,993 |
-| Friends in High Places | 68.00% | ~476,951 |
-| Escaped Elysium | 66.00% | ~462,923 |
-| Chthonic Colleagues | 63.00% | ~441,881 |
-| Is There No Escape? | 52.00% | ~364,727 |
-| Death Dealer | 45.00% | ~315,629 |
-| Skelly Slayer | 42.00% | ~294,587 |
-| Well Stocked | 40.00% | ~280,559 |
-| Back to Work | 38.00% | ~266,531 |
-| Day-or-Night Trader | 37.00% | ~259,517 |
-| Blessed by the Gods | 37.00% | ~259,517 |
-| Urge to Sing | 36.00% | ~252,503 |
-| Blood Bound | 35.00% | ~245,489 |
-| Three-Headed Boy | 32.00% | ~224,447 |
-| River Denizens | 28.00% | ~196,391 |
-| Grown Close | 28.00% | ~196,391 |
-| Home Makeover | 27.00% | ~189,377 |
+| Escaped Tartarus | 89.00% | ~624,247 |
+| Escaped Asphodel | 80.00% | ~561,121 |
+| Arms Collector | 71.00% | ~497,995 |
+| Friends in High Places | 68.00% | ~476,953 |
+| Escaped Elysium | 66.00% | ~462,925 |
+| Chthonic Colleagues | 63.00% | ~441,883 |
+| Is There No Escape? | 52.00% | ~364,729 |
+| Death Dealer | 45.00% | ~315,630 |
+| Skelly Slayer | 42.00% | ~294,588 |
+| Well Stocked | 40.00% | ~280,560 |
+| Back to Work | 38.00% | ~266,532 |
+| Day-or-Night Trader | 37.00% | ~259,518 |
+| Blessed by the Gods | 37.00% | ~259,518 |
+| Urge to Sing | 36.00% | ~252,504 |
+| Blood Bound | 35.00% | ~245,490 |
+| Three-Headed Boy | 32.00% | ~224,448 |
+| River Denizens | 28.00% | ~196,392 |
+| Grown Close | 28.00% | ~196,392 |
+| Home Makeover | 27.00% | ~189,378 |
 | Had to Happen | 25.00% | ~175,350 |
 | The Family Secret | 25.00% | ~175,350 |
 | Tools of the Architect | 23.00% | ~161,322 |
@@ -56,7 +56,7 @@ Number of Ratings: 6,336  (23.09.2022)
 | Thorn of Thanatos | 4.00% | ~28,056 |
 | Friends Forever | 4.00% | ~28,056 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 701,398 (Ranked 21)  
+Progressed: 701,401 (Ranked 21)  
 Completed: 6,301 (0.90%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,7 +174,7 @@ Completed: 6,301 (0.90%) (Ranked 121)
 | 2023-08-13 | 701,194 | 6,294 |
 | 2023-08-14 | 701,274 | 6,299 |
 | 2023-08-15 | 701,356 | 6,300 |
-| 2023-08-16 | 701,398 | 6,301 |
+| 2023-08-16 | 701,401 | 6,301 |
 ## Awards
 Max (Character Customization): 3,217  (Ranked 91)  
 Sum: 7,786 (Ranked 101)  

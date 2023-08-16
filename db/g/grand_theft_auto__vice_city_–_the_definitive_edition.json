@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 438,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewPlayers": 125,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -586,9 +586,9 @@
       "Count": 67
     }
   ],
-  "EOS_Progressed": 9693,
+  "EOS_Progressed": 9694,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -8436,6 +8436,11 @@
       "Time": "2023-08-16T17:05:45.217842+00:00",
       "NumProgressed": 9693,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-08-16T19:05:52.2407288+00:00",
+      "NumProgressed": 9694,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 34,
@@ -8551,7 +8556,7 @@
       "Name": "Greasy Palms",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3974
+      "UsersEstimate": 3975
     },
     {
       "ID": "ACH15",
@@ -8623,7 +8628,7 @@
       "Name": "South American Connection",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 2423
+      "UsersEstimate": 2424
     },
     {
       "ID": "ACH24",
@@ -8718,7 +8723,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9693,
+      "Progressed": 9694,
       "Completed": 48
     }
   ],
@@ -8726,8 +8731,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-08-14T19:00:14.711734+00:00",
-  "LastChanged_Achievements": "2023-08-16T18:05:32.5757562+00:00",
+  "LastChanged_Achievements": "2023-08-16T19:05:52.2407282+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:57.4894701+00:00",
-  "LastUpdate_Ratings": "2023-08-16T17:59:29.0760869+00:00",
-  "LastUpdate_Achievements": "2023-08-16T18:05:32.5758167+00:00"
+  "LastUpdate_Ratings": "2023-08-16T18:59:45.4806974+00:00",
+  "LastUpdate_Achievements": "2023-08-16T19:05:52.2408108+00:00"
 }

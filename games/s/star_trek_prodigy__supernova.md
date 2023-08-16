@@ -22,19 +22,21 @@
 | First Contact? | 7.00% | ~1 |
 | Naroan History | 7.00% | ~1 |
 | Playing with Time | 7.00% | ~1 |
+| Escape from Mirios | 7.00% | ~1 |
 | Coming in from the Cold | 7.00% | ~1 |
 | Seeking Discovery | 7.00% | ~1 |
 | Trekkie | 7.00% | ~1 |
+| The Crew is Back! | 7.00% | ~1 |
 | Not Too Long | 7.00% | ~1 |
 | Welcome back | 7.00% | ~1 |
 | Getting Better | 7.00% | ~1 |
+| Teamwork makes the dream work | 7.00% | ~1 |
 | Badge of a Captain | 0.00% | ~0 |
 | A True Merit Badge | 0.00% | ~0 |
 | Wilderness Badge | 0.00% | ~0 |
 | Exobiology Badge | 0.00% | ~0 |
 | All of the Plunder | 0.00% | ~0 |
 | Crew Love | 0.00% | ~0 |
-| Escape from Mirios | 0.00% | ~0 |
 | Searching for Al'Shams | 0.00% | ~0 |
 | Stopping the Supernova | 0.00% | ~0 |
 | Saved the System | 0.00% | ~0 |
@@ -42,9 +44,7 @@
 | Green Thumb | 0.00% | ~0 |
 | Budding Botanist | 0.00% | ~0 |
 | Relic Hunter | 0.00% | ~0 |
-| The Crew is Back! | 0.00% | ~0 |
 | Maxed out | 0.00% | ~0 |
-| Teamwork makes the dream work | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 14 (Ranked 429)  
 Completed: 0 (0.00%) (Ranked 258)  

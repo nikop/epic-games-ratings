@@ -2,7 +2,7 @@
   "ID": "84c76746bce94effb8e1047fabfd7eb7",
   "Name": "World of Warships",
   "ProductSlug": "world-of-warships",
-  "Ranking_Rating": 666,
+  "Ranking_Rating": 681,
   "Ranking_Popularity": 132,
   "Ranking_PopularitySum": 82,
   "Ranking_EOS_Progress": 546,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.42,
+  "Rating": 4.41,
   "NumberOfRatings": 4733,
   "RatingHistory": [
     {
@@ -7762,11 +7762,17 @@
       "Rating": 4.42,
       "NumberOfAwards": 10377,
       "NumberOfAwardsMax": 1260
+    },
+    {
+      "Time": "2023-08-16T19:00:33.6608145+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 10393,
+      "NumberOfAwardsMax": 1266
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10377,
-  "NumberOfAwardsMax": 1260,
+  "NumberOfAwards": 10393,
+  "NumberOfAwardsMax": 1266,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
     {
@@ -7791,7 +7797,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1259
+      "Count": 1263
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -7815,7 +7821,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1014
+      "Count": 1020
     },
     {
       "Text": "This game has Amazing Characters",
@@ -7827,7 +7833,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1260
+      "Count": 1266
     }
   ],
   "EOS_Progressed": 0,
@@ -7841,8 +7847,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:02.7521927+00:00",
-  "LastChanged": "2023-08-16T17:00:38.8713437+00:00",
+  "LastChanged": "2023-08-16T19:00:33.6607944+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:46.7318188+00:00",
-  "LastUpdate_Ratings": "2023-08-16T18:00:16.5042141+00:00",
-  "LastUpdate_Achievements": "2023-08-16T18:05:52.0532294+00:00"
+  "LastUpdate_Ratings": "2023-08-16T19:00:33.6608151+00:00",
+  "LastUpdate_Achievements": "2023-08-16T19:06:12.0076086+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 115,
   "Ranking_EOS_NewPlayers": 58,
-  "Ranking_EOS_NewCompleters": 16,
+  "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -96,9 +96,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 70223,
+  "EOS_Progressed": 70229,
   "EOS_Completed": 706,
-  "EOS_NewPlayers": 817,
+  "EOS_NewPlayers": 818,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 1.01,
   "EosHistory": [
@@ -13111,6 +13111,11 @@
       "Time": "2023-08-16T18:03:33.9923772+00:00",
       "NumProgressed": 70223,
       "NumCompleted": 706
+    },
+    {
+      "Time": "2023-08-16T19:03:48.2585761+00:00",
+      "NumProgressed": 70229,
+      "NumCompleted": 706
     }
   ],
   "TotalAchievements": 25,
@@ -13138,7 +13143,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 18,
       "XP": 150,
-      "UsersEstimate": 12640
+      "UsersEstimate": 12641
     },
     {
       "ID": "Audiophile",
@@ -13146,7 +13151,7 @@
       "Name": "Audiophile",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1404
+      "UsersEstimate": 1405
     },
     {
       "ID": "Be Seeing You",
@@ -13154,7 +13159,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 15449
+      "UsersEstimate": 15450
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -13162,7 +13167,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 12640
+      "UsersEstimate": 12641
     },
     {
       "ID": "Butcher",
@@ -13194,7 +13199,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 14045
+      "UsersEstimate": 14046
     },
     {
       "ID": "Hearty",
@@ -13210,7 +13215,7 @@
       "Name": "Lazy Bones",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 6320
+      "UsersEstimate": 6321
     },
     {
       "ID": "Magnetic Miracles",
@@ -13226,7 +13231,7 @@
       "Name": "Master, Commander",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 14045
+      "UsersEstimate": 14046
     },
     {
       "ID": "Meaty",
@@ -13242,7 +13247,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 13342
+      "UsersEstimate": 13344
     },
     {
       "ID": "Nice Try",
@@ -13250,7 +13255,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 11236
+      "UsersEstimate": 11237
     },
     {
       "ID": "Nothing Left to Say",
@@ -13266,7 +13271,7 @@
       "Name": "Piano Man",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 7022
+      "UsersEstimate": 7023
     },
     {
       "ID": "Right On Target",
@@ -13274,7 +13279,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 9129
+      "UsersEstimate": 9130
     },
     {
       "ID": "Sniper",
@@ -13306,7 +13311,7 @@
       "Name": "Tape Head",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1404
+      "UsersEstimate": 1405
     },
     {
       "ID": "Vinyl Vibes",
@@ -13321,7 +13326,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 70223,
+      "Progressed": 70229,
       "Completed": 706
     }
   ],
@@ -13329,8 +13334,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-08-07T22:57:38.0235808+00:00",
-  "LastChanged_Achievements": "2023-08-16T18:03:33.9923766+00:00",
+  "LastChanged_Achievements": "2023-08-16T19:03:48.2585751+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:12.0925901+00:00",
-  "LastUpdate_Ratings": "2023-08-16T17:57:49.4914636+00:00",
-  "LastUpdate_Achievements": "2023-08-16T18:03:33.9924584+00:00"
+  "LastUpdate_Ratings": "2023-08-16T18:57:57.4723015+00:00",
+  "LastUpdate_Achievements": "2023-08-16T19:03:48.2586699+00:00"
 }

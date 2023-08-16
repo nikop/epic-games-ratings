@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -464,7 +464,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3485,
+  "EOS_Progressed": 3486,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
@@ -6004,6 +6004,11 @@
       "Time": "2023-08-16T17:04:05.3221427+00:00",
       "NumProgressed": 3485,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-16T19:04:07.3445081+00:00",
+      "NumProgressed": 3486,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 71,
@@ -6095,7 +6100,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 1568
+      "UsersEstimate": 1569
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -6135,7 +6140,7 @@
       "Name": "Gunslinger",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -6327,7 +6332,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1115
+      "UsersEstimate": 1116
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -6407,7 +6412,7 @@
       "Name": "Target America",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 871
+      "UsersEstimate": 872
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -6582,13 +6587,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3436,
+      "Progressed": 3437,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3485,
+      "Progressed": 3486,
       "Completed": 9
     }
   ],
@@ -6596,8 +6601,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-08-15T14:58:15.1556932+00:00",
-  "LastChanged_Achievements": "2023-08-16T18:03:52.7236354+00:00",
+  "LastChanged_Achievements": "2023-08-16T19:04:07.3445072+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:04.4888171+00:00",
-  "LastUpdate_Ratings": "2023-08-16T17:58:02.4413622+00:00",
-  "LastUpdate_Achievements": "2023-08-16T18:03:52.7237219+00:00"
+  "LastUpdate_Ratings": "2023-08-16T18:58:10.7190354+00:00",
+  "LastUpdate_Achievements": "2023-08-16T19:04:07.3446228+00:00"
 }
