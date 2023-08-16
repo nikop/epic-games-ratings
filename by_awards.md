@@ -3,7 +3,7 @@
 | 1 | [Fortnite](games/f/fortnite.md) | 1,582,527 | 4.29 | 793 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 503,829 | 4.49 | 575 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 302,255 | 4.68 | 238 |
-| 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 212,356 | 4.68 | 238 |
+| 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 212,718 | 4.68 | 238 |
 | 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 193,891 | 4.19 | 863 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 167,437 | 4.88 | 18 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 146,288 | 4.52 | 527 |
@@ -93,7 +93,7 @@
 | 91 | [Hades](games/h/hades.md) | 3,217 | 4.92 | 4 |
 | 92 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,203 | 4.57 | 450 |
 | 93 | [Trackmania](games/t/trackmania.md) | 3,132 | 4.67 | 258 |
-| 94 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3,102 | 3.98 | 934 |
+| 94 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3,118 | 3.98 | 934 |
 | 95 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 2,719 | 4.82 | 66 |
 | 96 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,652 | 4.51 | 541 |
 | 97 | [Among Us](games/a/among_us.md) | 2,616 | 4.57 | 450 |
@@ -320,8 +320,8 @@
 | 317 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 120 | 4.73 | 159 |
 | 319 | [BIOMUTANT](games/b/biomutant.md) | 119 | 4.34 | 758 |
 | 319 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 119 | 4.79 | 87 |
-| 321 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 116 | 4.37 | 729 |
-| 321 | [Tropico 5](games/t/tropico_5.md) | 116 | 4.45 | 633 |
+| 321 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 118 | 4.37 | 729 |
+| 322 | [Tropico 5](games/t/tropico_5.md) | 116 | 4.45 | 633 |
 | 323 | [Overcooked](games/o/overcooked.md) | 115 | 4.67 | 258 |
 | 324 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 114 | 4.64 | 314 |
 | 325 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 111 | 4.36 | 737 |
@@ -346,8 +346,8 @@
 | 341 | [Tropico 6](games/t/tropico_6.md) | 96 | 4.67 | 258 |
 | 341 | [Verdun](games/v/verdun.md) | 96 | 4.52 | 527 |
 | 346 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 95 | 4.41 | 682 |
+| 347 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 93 | 4.18 | 869 |
 | 347 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 93 | 4.54 | 499 |
-| 348 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 92 | 4.18 | 869 |
 | 349 | [Darksiders III](games/d/darksiders_iii.md) | 91 | 4.50 | 559 |
 | 350 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 89 | 4.54 | 499 |
 | 350 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 89 | 4.68 | 238 |

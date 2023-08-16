@@ -247,7 +247,7 @@
 | 238 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 5,679 | 62 |
 | 238 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 3,419 | 87 |
 | 238 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 302,255 | 3 |
-| 238 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 212,356 | 4 |
+| 238 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 212,718 | 4 |
 | 238 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 512 |
 | 238 | [King of Retail](games/k/king_of_retail.md) | 4.68 | 0 | 512 |
 | 238 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 432 | 206 |
@@ -643,7 +643,7 @@
 | 633 | [Pathway](games/p/pathway.md) | 4.45 | 0 | 512 |
 | 633 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.45 | 53 | 395 |
 | 633 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.45 | 0 | 512 |
-| 633 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 116 | 321 |
+| 633 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 116 | 322 |
 | 633 | [True Fear: Forsaken Souls Part 2](games/t/true_fear__forsaken_souls_part_2.md) | 4.45 | 0 | 512 |
 | 646 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 0 | 512 |
 | 646 | [ELEX](games/e/elex.md) | 4.44 | 24 | 484 |
@@ -734,7 +734,7 @@
 | 729 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 512 |
 | 729 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 4.37 | 51 | 399 |
 | 729 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.37 | 0 | 512 |
-| 729 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.37 | 116 | 321 |
+| 729 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.37 | 118 | 321 |
 | 729 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.37 | 43 | 419 |
 | 737 | [Core](games/c/core.md) | 4.36 | 746 | 162 |
 | 737 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 173 | 285 |
@@ -868,7 +868,7 @@
 | 863 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 512 |
 | 863 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.19 | 0 | 512 |
 | 863 | [Windbound](games/w/windbound.md) | 4.19 | 0 | 512 |
-| 869 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.18 | 92 | 348 |
+| 869 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.18 | 93 | 347 |
 | 869 | [Gone Home](games/g/gone_home.md) | 4.18 | 0 | 512 |
 | 869 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 2,501 | 100 |
 | 869 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 341 |
@@ -934,7 +934,7 @@
 | 930 | [Shop Titans](games/s/shop_titans.md) | 3.99 | 4,701 | 71 |
 | 930 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.99 | 0 | 512 |
 | 934 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 0 | 512 |
-| 934 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 3,102 | 94 |
+| 934 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 3,118 | 94 |
 | 934 | [The First Tree](games/t/the_first_tree.md) | 3.98 | 0 | 512 |
 | 937 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 0 | 512 |
 | 937 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.97 | 0 | 512 |
