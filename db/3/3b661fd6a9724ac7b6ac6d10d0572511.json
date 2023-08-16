@@ -2992,9 +2992,9 @@
       "Count": 694
     }
   ],
-  "EOS_Progressed": 1575241,
+  "EOS_Progressed": 1575435,
   "EOS_Completed": 504,
-  "EOS_NewPlayers": 25417,
+  "EOS_NewPlayers": 25412,
   "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -10917,6 +10917,11 @@
       "Time": "2023-08-16T14:08:18.6617396+00:00",
       "NumProgressed": 1575241,
       "NumCompleted": 504
+    },
+    {
+      "Time": "2023-08-16T15:07:12.8504533+00:00",
+      "NumProgressed": 1575435,
+      "NumCompleted": 504
     }
   ],
   "TotalAchievements": 1328,
@@ -11046,9 +11051,9 @@
       "ID": "armored_4",
       "SetID": "bkjdbk8",
       "Name": "I Do What I Do Best, I Take Scores",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "armored_5",
@@ -11438,9 +11443,9 @@
       "ID": "axe_54",
       "SetID": "bkjdbk8",
       "Name": "On my Twelfth Try with One Down, The True Pain Began",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "axe_55",
@@ -11462,9 +11467,9 @@
       "ID": "axe_57",
       "SetID": "bkjdbk8",
       "Name": "Highly Mother-F*cking-Dangerous",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "axe_59",
@@ -11510,9 +11515,9 @@
       "ID": "axe_64",
       "SetID": "bkjdbk8",
       "Name": "Democracy at Work",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "axe_65",
@@ -11598,9 +11603,9 @@
       "ID": "bat_5",
       "SetID": "bkjdbk8",
       "Name": "Honor Among Thieves",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "bat_6",
@@ -11918,9 +11923,9 @@
       "ID": "born_1",
       "SetID": "bkjdbk8",
       "Name": "You Got Your Patch!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "born_3",
@@ -12174,9 +12179,9 @@
       "ID": "bulldog_4",
       "SetID": "bkjdbk8",
       "Name": "Cavity",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "bullet_dodger",
@@ -12366,9 +12371,9 @@
       "ID": "cac_3",
       "SetID": "bkjdbk8",
       "Name": "Denied",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "cac_30",
@@ -12766,25 +12771,25 @@
       "ID": "chca_5",
       "SetID": "bkjdbk8",
       "Name": "All the Loot (and the Seafood Buffet Too)",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "chca_6",
       "SetID": "bkjdbk8",
       "Name": "Death on the High Seas",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "chca_7",
       "SetID": "bkjdbk8",
       "Name": "Sink the Titanic",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "chca_8",
@@ -13182,9 +13187,9 @@
       "ID": "death_12",
       "SetID": "bkjdbk8",
       "Name": "\u2026 For Better or Worse",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "death_13",
@@ -13718,9 +13723,9 @@
       "ID": "eagle_3",
       "SetID": "bkjdbk8",
       "Name": "Wind of Change",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "eagle_4",
@@ -14310,9 +14315,9 @@
       "ID": "gage3_6",
       "SetID": "bkjdbk8",
       "Name": "Seer of Death",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "gage3_7",
@@ -14398,9 +14403,9 @@
       "ID": "gage4_5",
       "SetID": "bkjdbk8",
       "Name": "Shotguns 101",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "gage4_6",
@@ -14526,17 +14531,17 @@
       "ID": "gage_10",
       "SetID": "bkjdbk8",
       "Name": "Share the Love",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "gage_2",
       "SetID": "bkjdbk8",
       "Name": "3000 Miles to the Safe House",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "gage_3",
@@ -14614,9 +14619,9 @@
       "ID": "ggez_11",
       "SetID": "bkjdbk8",
       "Name": "The Second Statesman",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "ggez_12",
@@ -14742,9 +14747,9 @@
       "ID": "ggez_26",
       "SetID": "bkjdbk8",
       "Name": "Pain Train",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "ggez_27",
@@ -15190,9 +15195,9 @@
       "ID": "ggez_77",
       "SetID": "bkjdbk8",
       "Name": "Drunk Flying",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "ggez_78",
@@ -15326,17 +15331,17 @@
       "ID": "gmod_3",
       "SetID": "bkjdbk8",
       "Name": "My Spider Sense is Tingling",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "gmod_4",
       "SetID": "bkjdbk8",
       "Name": "Eagle Eyes",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "gmod_5",
@@ -15350,9 +15355,9 @@
       "ID": "gmod_6",
       "SetID": "bkjdbk8",
       "Name": "There and Back Again",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "gmod_7",
@@ -15614,9 +15619,9 @@
       "ID": "halloween_8",
       "SetID": "bkjdbk8",
       "Name": "The Pumpkin King Made Me Do It!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "halloween_9",
@@ -15646,9 +15651,9 @@
       "ID": "halloween_nightmare_3",
       "SetID": "bkjdbk8",
       "Name": "Temper Tantrum",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "halloween_nightmare_4",
@@ -16254,9 +16259,9 @@
       "ID": "man_5",
       "SetID": "bkjdbk8",
       "Name": "Blow-Out",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "masked_villain",
@@ -16494,9 +16499,9 @@
       "ID": "moon_6",
       "SetID": "bkjdbk8",
       "Name": "Christmas Party",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "most_wanted",
@@ -16998,9 +17003,9 @@
       "ID": "pex_11",
       "SetID": "bkjdbk8",
       "Name": "Stolen Valor",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "pex_2",
@@ -17438,17 +17443,17 @@
       "ID": "pick_57",
       "SetID": "bkjdbk8",
       "Name": "Harley Harley Harley Wroom! Davidson",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "pick_59",
       "SetID": "bkjdbk8",
       "Name": "His Beard Was as White as Coke",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "pick_60",
@@ -17486,9 +17491,9 @@
       "ID": "pick_64",
       "SetID": "bkjdbk8",
       "Name": "For the Republic",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "pick_65",
@@ -18246,9 +18251,9 @@
       "ID": "skm_19",
       "SetID": "bkjdbk8",
       "Name": "A Different Kind of Exchange in the Docks",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "skm_2",
@@ -18262,9 +18267,9 @@
       "ID": "skm_20",
       "SetID": "bkjdbk8",
       "Name": "Wait for a Bigger Boat",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "skm_21",
@@ -18334,9 +18339,9 @@
       "ID": "skm_29",
       "SetID": "bkjdbk8",
       "Name": "Maybe that Statue is Worth More",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "skm_3",
@@ -18358,9 +18363,9 @@
       "ID": "skm_31",
       "SetID": "bkjdbk8",
       "Name": "This Hostage Belongs in a Museum",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "skm_32",
@@ -18382,9 +18387,9 @@
       "ID": "skm_34",
       "SetID": "bkjdbk8",
       "Name": "Scorpions and Negotiators",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "skm_35",
@@ -18438,9 +18443,9 @@
       "ID": "skm_8",
       "SetID": "bkjdbk8",
       "Name": "The Bank Manager Must Be Worth Something",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "skm_9",
@@ -18694,9 +18699,9 @@
       "ID": "tango_achieve_3",
       "SetID": "bkjdbk8",
       "Name": "The Reckoning",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "tango_achieve_4",
@@ -19678,9 +19683,9 @@
       "ID": "trk_d_5",
       "SetID": "bkjdbk8",
       "Name": "Out of the Jaws of Death",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "trk_d_6",
@@ -19782,9 +19787,9 @@
       "ID": "trk_e_3",
       "SetID": "bkjdbk8",
       "Name": "Friends in High Places",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "trk_ed_0",
@@ -20654,9 +20659,9 @@
       "ID": "trk_sa_5",
       "SetID": "bkjdbk8",
       "Name": "Heister Hospitality",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     },
     {
       "ID": "trk_sa_6",
@@ -21542,22 +21547,22 @@
       "ID": "you_shall_not_pass",
       "SetID": "bkjdbk8",
       "Name": "You Shall Not Pass!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1575
     }
   ],
   "AchievementSets": [
     {
       "ID": "61cefe3",
       "IsBase": true,
-      "Progressed": 1575241,
+      "Progressed": 1575435,
       "Completed": 504
     },
     {
       "ID": "bkjdbk8",
       "IsBase": false,
-      "Progressed": 1575241,
+      "Progressed": 1575435,
       "Completed": 7
     }
   ],
@@ -21565,8 +21570,8 @@
   "FirstSeenRating": "2023-06-09T03:57:04.3869033+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:50.4372379+00:00",
   "LastChanged": "2023-08-16T13:01:54.6493655+00:00",
-  "LastChanged_Achievements": "2023-08-16T14:08:18.661739+00:00",
+  "LastChanged_Achievements": "2023-08-16T15:07:12.8504529+00:00",
   "LastUpdate_AppInfo": "2023-08-10T19:57:07.9529529+00:00",
-  "LastUpdate_Ratings": "2023-08-16T13:58:42.2692895+00:00",
-  "LastUpdate_Achievements": "2023-08-16T14:08:18.6759058+00:00"
+  "LastUpdate_Ratings": "2023-08-16T14:58:28.5609919+00:00",
+  "LastUpdate_Achievements": "2023-08-16T15:07:12.8647376+00:00"
 }

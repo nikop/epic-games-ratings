@@ -1818,9 +1818,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 25129,
+  "EOS_Progressed": 25130,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 205,
+  "EOS_NewPlayers": 204,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -10568,6 +10568,11 @@
       "Time": "2023-08-16T13:07:19.3925269+00:00",
       "NumProgressed": 25129,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-08-16T15:04:00.03637+00:00",
+      "NumProgressed": 25130,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 51,
@@ -10579,7 +10584,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 18344
+      "UsersEstimate": 18345
     },
     {
       "ID": "Animated",
@@ -10595,7 +10600,7 @@
       "Name": "Back Off",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 8795
+      "UsersEstimate": 8796
     },
     {
       "ID": "Best_Insurance",
@@ -10651,7 +10656,7 @@
       "Name": "Daily Dose",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 8795
+      "UsersEstimate": 8796
     },
     {
       "ID": "Diabolical",
@@ -10691,7 +10696,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 63,
       "XP": 100,
-      "UsersEstimate": 15831
+      "UsersEstimate": 15832
     },
     {
       "ID": "Escape_Artist",
@@ -10699,7 +10704,7 @@
       "Name": "Escape Artist",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 3769
+      "UsersEstimate": 3770
     },
     {
       "ID": "Fragile_Panes",
@@ -10715,7 +10720,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 13318
+      "UsersEstimate": 13319
     },
     {
       "ID": "GB_In_Training",
@@ -10867,7 +10872,7 @@
       "Name": "Solo Capture",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 8041
+      "UsersEstimate": 8042
     },
     {
       "ID": "Stunner",
@@ -10883,7 +10888,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 21611
+      "UsersEstimate": 21612
     },
     {
       "ID": "Summoner",
@@ -10915,7 +10920,7 @@
       "Name": "Teamwork",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 10805
+      "UsersEstimate": 10806
     },
     {
       "ID": "Terrifying",
@@ -10939,7 +10944,7 @@
       "Name": "There you are!",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 10554
+      "UsersEstimate": 10555
     },
     {
       "ID": "Tobins_Prodigy",
@@ -10979,14 +10984,14 @@
       "Name": "Whoopsie",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 3015
+      "UsersEstimate": 3016
     }
   ],
   "AchievementSets": [
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 25129,
+      "Progressed": 25130,
       "Completed": 51
     }
   ],
@@ -10994,8 +10999,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-08-15T21:00:09.8040027+00:00",
-  "LastChanged_Achievements": "2023-08-16T14:04:14.6770124+00:00",
+  "LastChanged_Achievements": "2023-08-16T15:04:00.0363695+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:52.55817+00:00",
-  "LastUpdate_Ratings": "2023-08-16T14:01:15.6551785+00:00",
-  "LastUpdate_Achievements": "2023-08-16T14:04:14.6770905+00:00"
+  "LastUpdate_Ratings": "2023-08-16T15:00:19.5466164+00:00",
+  "LastUpdate_Achievements": "2023-08-16T15:04:00.0364449+00:00"
 }

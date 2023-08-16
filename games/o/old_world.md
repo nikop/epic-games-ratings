@@ -91,6 +91,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 3 | 0.60% | ~81 |
 | Power to the People | 0.60% | ~81 |
 | Persian Paganism | 0.60% | ~81 |
+| Economic Reform | 0.60% | ~81 |
 | Legalism | 0.60% | ~81 |
 | Legionary | 0.60% | ~81 |
 | Phalangite | 0.60% | ~81 |
@@ -111,7 +112,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Adur Burzen-Mihr | 0.50% | ~67 |
 | Carthage | 0.50% | ~67 |
 | Assyrian Paganism | 0.50% | ~67 |
-| Economic Reform | 0.50% | ~67 |
 | Industrial Progress | 0.50% | ~67 |
 | Dualism | 0.50% | ~67 |
 | Enlightenment | 0.50% | ~67 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,423 (Ranked 117)  
+Progressed: 13,424 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -421,7 +421,7 @@ Completed: 5 (0.04%) (Ranked 227)
 | 2023-08-13 | 13,400 | 5 |
 | 2023-08-14 | 13,412 | 5 |
 | 2023-08-15 | 13,422 | 5 |
-| 2023-08-16 | 13,423 | 5 |
+| 2023-08-16 | 13,424 | 5 |
 ## Awards
 Max (Relaxing): 219  (Ranked 264)  
 Sum: 1,791 (Ranked 206)  

@@ -6,10 +6,10 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 15.00% | ~31,968 |
+| Sowwy! | 15.00% | ~31,971 |
+| Déjà vu | 1.00% | ~2,131 |
 | Where's that freaking Dwarf? | 1.00% | ~2,131 |
 | Alt+F4 | 1.00% | ~2,131 |
-| Déjà vu | 0.90% | ~1,918 |
 | Sock! SOCK! | 0.90% | ~1,918 |
 | A beer, two curses, three companions | 0.70% | ~1,492 |
 | Speedrun | 0.70% | ~1,492 |
@@ -19,26 +19,26 @@ Number of Ratings: 118  (23.09.2022)
 | Livin' in a dwarven paradise | 0.50% | ~1,066 |
 | Way of the Wimp | 0.50% | ~1,066 |
 | The plot thickens... At the tavern | 0.50% | ~1,066 |
-| The demons' feast | 0.40% | ~852 |
-| The Great Library | 0.40% | ~852 |
-| Torture and Sensibility | 0.40% | ~852 |
-| Urik's Depths | 0.40% | ~852 |
-| The Woman in the High Castle | 0.40% | ~852 |
-| %#*!$*! | 0.40% | ~852 |
-| Team Building Exercise | 0.40% | ~852 |
-| Oh, when I'll be level 10... | 0.40% | ~852 |
+| The demons' feast | 0.40% | ~853 |
+| The Great Library | 0.40% | ~853 |
+| Torture and Sensibility | 0.40% | ~853 |
+| Urik's Depths | 0.40% | ~853 |
+| The Woman in the High Castle | 0.40% | ~853 |
+| %#*!$*! | 0.40% | ~853 |
+| Team Building Exercise | 0.40% | ~853 |
+| Oh, when I'll be level 10... | 0.40% | ~853 |
 | Shiny and Crôm | 0.30% | ~639 |
 | The Dungeon Master | 0.30% | ~639 |
 | The Statuette of Gladeulfeurah | 0.30% | ~639 |
 | Res Judicata | 0.30% | ~639 |
 | The Famous Dungeon of Naheulbeuk | 0.30% | ~639 |
 | A tale of adventurers not quite like the others... | 0.30% | ~639 |
+| Dwarf Fortress | 0.30% | ~639 |
 | Look but don't touch | 0.30% | ~639 |
 | The beards of change | 0.30% | ~639 |
 | The Ranger of Chaos | 0.30% | ~639 |
 | I am the night | 0.30% | ~639 |
 | Thieves' Guild Accreditation | 0.30% | ~639 |
-| Dwarf Fortress | 0.20% | ~426 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.20% | ~426 |
 | Dead for good | 0.20% | ~426 |
 | Gargantua | 0.20% | ~426 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Staff cut | 0.00% | ~0 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 213,119 (Ranked 56)  
+Progressed: 213,141 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,7 +172,7 @@ Completed: 2 (0.00%) (Ranked 258)
 | 2023-08-13 | 211,857 | 2 |
 | 2023-08-14 | 212,372 | 2 |
 | 2023-08-15 | 212,897 | 2 |
-| 2023-08-16 | 213,119 | 2 |
+| 2023-08-16 | 213,141 | 2 |
 ## Awards
 Max (Character Customization): 166  (Ranked 289)  
 Sum: 186 (Ranked 375)  

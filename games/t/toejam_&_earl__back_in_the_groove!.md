@@ -5,13 +5,13 @@ Rating: 4.32 (Ranked 775)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Food Taster | 9.00% | ~5,077 |
+| Food Taster | 9.00% | ~5,078 |
 | Fall Fest | 7.00% | ~3,949 |
 | HFZ Goober | 6.00% | ~3,385 |
 | Thrill Seeker | 6.00% | ~3,385 |
 | Flying Present Catcher | 5.00% | ~2,821 |
 | Sunflower Master | 4.00% | ~2,257 |
-| Hi Fiver | 3.00% | ~1,692 |
+| Hi Fiver | 3.00% | ~1,693 |
 | Backer Visitor | 2.00% | ~1,128 |
 | Hate That Randomizer | 2.00% | ~1,128 |
 | Feet on Funkotron | 2.00% | ~1,128 |
@@ -24,8 +24,8 @@ Rating: 4.32 (Ranked 775)
 | Gimme My Presents Back! | 0.70% | ~395 |
 | Cleaning Out Santa's Sack | 0.70% | ~395 |
 | Teamwork Rules | 0.70% | ~395 |
-| Beaten By A Little Girl | 0.60% | ~338 |
-| Totally Bummed Again | 0.60% | ~338 |
+| Beaten By A Little Girl | 0.60% | ~339 |
+| Totally Bummed Again | 0.60% | ~339 |
 | Piece O' Cake | 0.50% | ~282 |
 | Boom Box Baby | 0.40% | ~226 |
 | I Can't Believe I've Done This | 0.40% | ~226 |
@@ -55,7 +55,7 @@ Rating: 4.32 (Ranked 775)
 | Why Do I Keep Doing That? | 0.10% | ~56 |
 | Hey, You Did It! | 0.10% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,415 (Ranked 87)  
+Progressed: 56,417 (Ranked 87)  
 Completed: 5 (0.01%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,7 +173,7 @@ Completed: 5 (0.01%) (Ranked 245)
 | 2023-08-13 | 56,378 | 5 |
 | 2023-08-14 | 56,393 | 5 |
 | 2023-08-15 | 56,409 | 5 |
-| 2023-08-16 | 56,415 | 5 |
+| 2023-08-16 | 56,417 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

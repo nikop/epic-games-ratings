@@ -4,7 +4,7 @@
   "ProductSlug": "the-evil-within",
   "Ranking_EOS_Progress": 355,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 58,
+  "EOS_Progressed": 60,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -309,6 +309,11 @@
       "Time": "2023-08-15T21:04:13.780622+00:00",
       "NumProgressed": 58,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-16T15:04:38.9687405+00:00",
+      "NumProgressed": 60,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T16:01:32.1694174+00:00",
@@ -319,7 +324,7 @@
       "ID": "ACHIEVEMENT_01",
       "SetID": "ap8553i",
       "Name": "What\u0027s in the Box?",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 20,
       "UsersEstimate": 17
     },
@@ -327,7 +332,7 @@
       "ID": "ACHIEVEMENT_02",
       "SetID": "ap8553i",
       "Name": "Old Flame",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 20,
       "UsersEstimate": 14
     },
@@ -335,7 +340,7 @@
       "ID": "ACHIEVEMENT_03",
       "SetID": "ap8553i",
       "Name": "Weapon of Choice",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 20,
       "UsersEstimate": 12
     },
@@ -495,7 +500,7 @@
       "ID": "ACHIEVEMENT_23",
       "SetID": "ap8553i",
       "Name": "...And the Corpses Mount",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 15
     },
@@ -503,7 +508,7 @@
       "ID": "ACHIEVEMENT_24",
       "SetID": "ap8553i",
       "Name": "Krimson PD Fury",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
       "UsersEstimate": 5
     },
@@ -888,20 +893,20 @@
     {
       "ID": "8ddjaeg",
       "IsBase": false,
-      "Progressed": 58,
+      "Progressed": 60,
       "Completed": 0
     },
     {
       "ID": "ap8553i",
       "IsBase": true,
-      "Progressed": 58,
+      "Progressed": 60,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-04T21:57:01.9865679+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5206267+00:00",
-  "LastChanged_Achievements": "2023-08-16T14:05:05.7650503+00:00",
+  "LastChanged_Achievements": "2023-08-16T15:04:38.9687401+00:00",
   "LastUpdate_AppInfo": "2023-08-09T15:57:03.7516548+00:00",
-  "LastUpdate_Ratings": "2023-08-16T13:57:53.0449432+00:00",
-  "LastUpdate_Achievements": "2023-08-16T14:05:05.7651125+00:00"
+  "LastUpdate_Ratings": "2023-08-16T14:57:48.8926007+00:00",
+  "LastUpdate_Achievements": "2023-08-16T15:04:38.9688086+00:00"
 }

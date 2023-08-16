@@ -15,7 +15,7 @@ Rating: 4.54 (Ranked 499)
 | Salutations My Little Friend | 11.00% | ~1,066 |
 | Iron-y | 10.00% | ~969 |
 | Gun for Hire | 9.00% | ~872 |
-| Mischief Managed | 8.00% | ~775 |
+| Mischief Managed | 9.00% | ~872 |
 | Vice City Mogul | 7.00% | ~678 |
 | Catch Me if You Can | 6.00% | ~582 |
 | Bloodstained Hands | 6.00% | ~582 |

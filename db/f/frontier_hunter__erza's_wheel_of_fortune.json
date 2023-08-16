@@ -4,7 +4,7 @@
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
   "Ranking_EOS_Progress": 337,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 284,
+  "Ranking_EOS_NewPlayers": 283,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
@@ -561,9 +561,9 @@
       "ID": "ACHIEVEMENT_24",
       "SetID": "7pimpda",
       "Name": "Arms Mechanic",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -689,9 +689,9 @@
       "ID": "ACHIEVEMENT_4",
       "SetID": "7pimpda",
       "Name": "Storm Traveller",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -753,9 +753,9 @@
       "ID": "ACHIEVEMENT_5",
       "SetID": "7pimpda",
       "Name": "Wolf King Killer",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -802,8 +802,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-08-16T14:04:38.6295547+00:00",
+  "LastChanged_Achievements": "2023-08-16T15:04:18.5532679+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:43.8775368+00:00",
-  "LastUpdate_Ratings": "2023-08-16T14:02:01.4802477+00:00",
-  "LastUpdate_Achievements": "2023-08-16T14:04:38.6295883+00:00"
+  "LastUpdate_Ratings": "2023-08-16T15:00:49.2567422+00:00",
+  "LastUpdate_Achievements": "2023-08-16T15:04:18.5533016+00:00"
 }

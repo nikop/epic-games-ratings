@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 108)
 | The Nature of the Beast | 0.60% | ~1,741 |
 | Collector's Edition | 0.30% | ~871 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290,196 (Ranked 43)  
+Progressed: 290,199 (Ranked 43)  
 Completed: 451 (0.16%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,10 +169,10 @@ Completed: 451 (0.16%) (Ranked 190)
 | 2023-08-13 | 290,043 | 451 |
 | 2023-08-14 | 290,112 | 451 |
 | 2023-08-15 | 290,171 | 451 |
-| 2023-08-16 | 290,196 | 451 |
+| 2023-08-16 | 290,199 | 451 |
 ## Awards
 Max (Character Customization): 21,765  (Ranked 17)  
-Sum: 41,071 (Ranked 30)  
+Sum: 41,072 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -184,7 +184,7 @@ Diff (max vs sum): -13
 | This game has Amazing Storytelling | 937 |
 | This game has Diverse Characters | 932 |
 | This game has Amazing Characters | 918 |
-| This game is Highly Recommended | 890 |
+| This game is Highly Recommended | 891 |
 | This game has Quickly Understood Controls | 843 |
 | This game has Beautiful Visuals | 786 |
 | This game has a Creative Community | 593 |
@@ -336,4 +336,4 @@ Diff (max vs sum): -13
 | 2023-08-13 | 4.77 | 21,738 | 40,951 |
 | 2023-08-14 | 4.77 | 21,755 | 41,010 |
 | 2023-08-15 | 4.77 | 21,755 | 41,047 |
-| 2023-08-16 | 4.77 | 21,765 | 41,071 |
+| 2023-08-16 | 4.77 | 21,765 | 41,072 |

@@ -6,33 +6,33 @@
 | ---- | ---------- | ----- |
 | Caged tiger | 62.00% | ~169 |
 | Gorilla warfare | 58.00% | ~158 |
-| Isenburg's fall | 49.00% | ~133 |
-| Pieces of eight! | 42.00% | ~114 |
+| Isenburg's fall | 49.00% | ~134 |
+| Pieces of eight! | 42.00% | ~115 |
 | Aboard the Sea Bird | 32.00% | ~87 |
-| Elephant in the room | 31.00% | ~84 |
 | Dark and stinky | 30.00% | ~82 |
+| Elephant in the room | 30.00% | ~82 |
 | Sneak in, sneak out | 26.00% | ~71 |
 | Is this the end? | 25.00% | ~68 |
 | A gift horse | 25.00% | ~68 |
-| You sssaved me | 24.00% | ~65 |
+| You sssaved me | 24.00% | ~66 |
 | Say hello to my little friends | 21.00% | ~57 |
 | Gotcha | 19.00% | ~52 |
 | Heal thyself | 19.00% | ~52 |
-| It's not cheating | 17.00% | ~46 |
 | Double trouble | 16.00% | ~44 |
+| It's not cheating | 16.00% | ~44 |
 | Stronk | 15.00% | ~41 |
 | Welcome to Forte Ailes | 14.00% | ~38 |
 | Super Moth Boy | 13.00% | ~35 |
 | The Bad Place | 10.00% | ~27 |
-| Meet your maker | 9.00% | ~24 |
+| Meet your maker | 9.00% | ~25 |
 | The pelican brief | 8.00% | ~22 |
 | Pacifist fanatic | 8.00% | ~22 |
 | A grave matter | 7.00% | ~19 |
 | Peaceful protest | 7.00% | ~19 |
 | The Good Place | 7.00% | ~19 |
 | Trial by combat | 7.00% | ~19 |
-| A bard day's night | 6.00% | ~16 |
-| Money talks | 6.00% | ~16 |
+| A bard day's night | 5.00% | ~14 |
+| Money talks | 5.00% | ~14 |
 | Squid Game | 4.00% | ~11 |
 | Lyre lyre pants on fyre | 4.00% | ~11 |
 | Be kind to monsters | 3.00% | ~8 |
@@ -46,7 +46,7 @@
 | Force of nature | 0.00% | ~0 |
 | Save it for a Rainier day | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 272 (Ranked 263)  
+Progressed: 273 (Ranked 263)  
 Completed: 0 (0.00%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,6 +69,7 @@ Completed: 0 (0.00%) (Ranked 258)
 | 2023-07-28 | 270 | 0 |
 | 2023-07-29 | 271 | 0 |
 | 2023-07-30 | 272 | 0 |
+| 2023-08-16 | 273 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,9 +5,9 @@ Rating: 4.43 (Ranked 660)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 25.00% | ~55,088 |
-| This is only the beginning | 19.00% | ~41,866 |
-| Knowledge is power | 12.00% | ~26,442 |
+| No aid from the Omnissiah | 25.00% | ~55,089 |
+| This is only the beginning | 19.00% | ~41,868 |
+| Knowledge is power | 12.00% | ~26,443 |
 | Power Ranger | 9.00% | ~19,832 |
 | Galvanic Rifle | 9.00% | ~19,832 |
 | Taser Goad | 9.00% | ~19,832 |
@@ -17,8 +17,8 @@ Rating: 4.43 (Ranked 660)
 | Competent Cohort | 4.00% | ~8,814 |
 | Celestial Cartography Catastrophe | 4.00% | ~8,814 |
 | One with the Machine | 4.00% | ~8,814 |
-| Legio Cybernetica | 3.00% | ~6,610 |
-| Fleshy Disposal | 3.00% | ~6,610 |
+| Legio Cybernetica | 3.00% | ~6,611 |
+| Fleshy Disposal | 3.00% | ~6,611 |
 | Battle Servitor | 2.00% | ~4,407 |
 | Ding Dong Szaregon's Gone | 2.00% | ~4,407 |
 | Impatient destruction | 2.00% | ~4,407 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 660)
 | Perma-live | 0.10% | ~220 |
 | Purge the Heretek | 0.10% | ~220 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,350 (Ranked 54)  
+Progressed: 220,357 (Ranked 54)  
 Completed: 5 (0.00%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,15 +158,15 @@ Completed: 5 (0.00%) (Ranked 258)
 | 2023-08-13 | 220,114 | 5 |
 | 2023-08-14 | 220,189 | 5 |
 | 2023-08-15 | 220,291 | 5 |
-| 2023-08-16 | 220,350 | 5 |
+| 2023-08-16 | 220,357 | 5 |
 ## Awards
-Max (Highly Recommended): 280  (Ranked 240)  
-Sum: 2,124 (Ranked 195)  
+Max (Highly Recommended): 281  (Ranked 240)  
+Sum: 2,126 (Ranked 195)  
 Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
-| This game is Highly Recommended | 280 |
-| This game has Quickly Understood Controls | 273 |
+| This game is Highly Recommended | 281 |
+| This game has Quickly Understood Controls | 274 |
 | This game is Extremely Fun | 270 |
 | This game has Amazing Characters | 259 |
 | This game has Diverse Characters | 257 |
@@ -226,3 +226,4 @@ Diff (max vs sum): 45
 | 2023-07-16 | 4.43 | 280 | 2,121 |
 | 2023-07-21 | 4.43 | 280 | 2,122 |
 | 2023-07-29 | 4.43 | 280 | 2,124 |
+| 2023-08-16 | 4.43 | 281 | 2,126 |

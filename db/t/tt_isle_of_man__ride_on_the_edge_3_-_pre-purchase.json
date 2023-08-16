@@ -4,7 +4,7 @@
   "ProductSlug": "tt-isle-of-man-ride-on-the-edge-3",
   "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 97,
-  "Ranking_EOS_NewPlayers": 284,
+  "Ranking_EOS_NewPlayers": 283,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
@@ -625,9 +625,9 @@
       "ID": "ACHIEVEMENT_04",
       "SetID": "gagif7",
       "Name": "Like Phileas Fogg",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "ACHIEVEMENT_05",
@@ -920,8 +920,8 @@
   ],
   "FirstSeen": "2023-05-15T16:57:57.7851065+00:00",
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2023-08-16T14:06:40.3999512+00:00",
+  "LastChanged_Achievements": "2023-08-16T15:05:58.2720783+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:18.5547646+00:00",
-  "LastUpdate_Ratings": "2023-08-16T13:59:22.9457451+00:00",
-  "LastUpdate_Achievements": "2023-08-16T14:06:40.3999791+00:00"
+  "LastUpdate_Ratings": "2023-08-16T14:58:59.0446661+00:00",
+  "LastUpdate_Achievements": "2023-08-16T15:05:58.2721095+00:00"
 }

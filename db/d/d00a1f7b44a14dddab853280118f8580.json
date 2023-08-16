@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 17,
   "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2023-07-28T07:00:00+00:00",
     "PcReleaseDate": "2022-06-15T07:00:00+00:00",
@@ -544,9 +544,9 @@
       "ID": "ach_complete_30",
       "SetID": "5e260i9",
       "Name": "Brilliant mind!",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 200,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ach_complete_tutorial",
@@ -576,9 +576,9 @@
       "ID": "ach_hint_9",
       "SetID": "5e260i9",
       "Name": "Together is better!",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 55
+      "UsersEstimate": 57
     },
     {
       "ID": "ach_items_50",
@@ -631,8 +631,8 @@
   ],
   "FirstSeen": "2023-07-30T16:57:15.6867124+00:00",
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2023-08-16T14:03:17.6106515+00:00",
+  "LastChanged_Achievements": "2023-08-16T15:03:25.1165833+00:00",
   "LastUpdate_AppInfo": "2023-08-10T21:57:07.638473+00:00",
-  "LastUpdate_Ratings": "2023-08-16T13:57:59.4672312+00:00",
-  "LastUpdate_Achievements": "2023-08-16T14:03:17.6106613+00:00"
+  "LastUpdate_Ratings": "2023-08-16T14:57:54.0838034+00:00",
+  "LastUpdate_Achievements": "2023-08-16T15:03:25.1165936+00:00"
 }

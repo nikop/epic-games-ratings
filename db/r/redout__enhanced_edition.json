@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 51,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 74,
+  "Ranking_EOS_NewPlayers": 75,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 229775,
+  "EOS_Progressed": 229776,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 542,
+  "EOS_NewPlayers": 538,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -12653,6 +12653,11 @@
       "Time": "2023-08-16T14:03:41.6509657+00:00",
       "NumProgressed": 229775,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-08-16T15:03:43.0592328+00:00",
+      "NumProgressed": 229776,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 34,
@@ -12888,7 +12893,7 @@
       "Name": "SNEAKY SNEAKY",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 50550
+      "UsersEstimate": 50551
     },
     {
       "ID": "TACTICIAN",
@@ -12912,7 +12917,7 @@
       "Name": "TRICK UP YOUR SLEEVE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 50550
+      "UsersEstimate": 50551
     },
     {
       "ID": "TUNINGMANIAC",
@@ -12935,15 +12940,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 229775,
+      "Progressed": 229776,
       "Completed": 46
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-08-16T14:03:41.6509651+00:00",
+  "LastChanged_Achievements": "2023-08-16T15:03:43.0592325+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:00.8930351+00:00",
-  "LastUpdate_Ratings": "2023-08-16T14:00:12.8403735+00:00",
-  "LastUpdate_Achievements": "2023-08-16T14:03:41.651041+00:00"
+  "LastUpdate_Ratings": "2023-08-16T14:59:35.6334073+00:00",
+  "LastUpdate_Achievements": "2023-08-16T15:03:43.0593088+00:00"
 }

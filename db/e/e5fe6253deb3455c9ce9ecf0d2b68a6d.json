@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 130,
+  "EOS_Progressed": 131,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -396,6 +396,11 @@
       "Time": "2023-08-16T12:02:18.8401642+00:00",
       "NumProgressed": 130,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-16T15:03:19.41365+00:00",
+      "NumProgressed": 131,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-07T18:00:21.0046811+00:00",
@@ -430,9 +435,9 @@
       "ID": "Full",
       "SetID": "cjfnji1",
       "Name": "Full load",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 90
     },
     {
       "ID": "Island",
@@ -446,9 +451,9 @@
       "ID": "Last_second",
       "SetID": "cjfnji1",
       "Name": "In the last second",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 90
     },
     {
       "ID": "Master",
@@ -504,7 +509,7 @@
       "Name": "Back to USSR",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Upgrades",
@@ -519,14 +524,14 @@
     {
       "ID": "cjfnji1",
       "IsBase": true,
-      "Progressed": 130,
+      "Progressed": 131,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-11T01:35:20.9956349+00:00",
   "FirstSeenAchievements": "2023-08-07T18:00:21.004681+00:00",
-  "LastChanged_Achievements": "2023-08-16T14:03:10.1912734+00:00",
+  "LastChanged_Achievements": "2023-08-16T15:03:19.4136496+00:00",
   "LastUpdate_AppInfo": "2023-08-14T17:57:19.8176911+00:00",
-  "LastUpdate_Ratings": "2023-08-16T13:57:43.6741461+00:00",
-  "LastUpdate_Achievements": "2023-08-16T14:03:10.191285+00:00"
+  "LastUpdate_Ratings": "2023-08-16T14:57:40.6882893+00:00",
+  "LastUpdate_Achievements": "2023-08-16T15:03:19.4136601+00:00"
 }

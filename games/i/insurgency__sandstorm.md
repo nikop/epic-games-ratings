@@ -6,23 +6,23 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~21,657 |
-| Wallbanger | 5.00% | ~21,657 |
+| Point Shooting | 5.00% | ~21,658 |
+| Wallbanger | 5.00% | ~21,658 |
 | Exploitative | 4.00% | ~17,326 |
 | High Speed Low Drag | 4.00% | ~17,326 |
 | Wet Feet | 4.00% | ~17,326 |
-| Lucky | 3.00% | ~12,994 |
-| Stylin' | 3.00% | ~12,994 |
-| Turf War | 3.00% | ~12,994 |
+| Lucky | 3.00% | ~12,995 |
+| Stylin' | 3.00% | ~12,995 |
+| Turf War | 3.00% | ~12,995 |
 | Banged | 2.00% | ~8,663 |
 | Checkpoint Victory | 2.00% | ~8,663 |
 | First Blood | 2.00% | ~8,663 |
 | Flaccid Paralysis | 2.00% | ~8,663 |
 | Push Victory | 2.00% | ~8,663 |
 | Self-destructive | 2.00% | ~8,663 |
-| Blindfire | 1.00% | ~4,331 |
-| Ruthless | 1.00% | ~4,331 |
-| Semper Paratus | 1.00% | ~4,331 |
+| Blindfire | 1.00% | ~4,332 |
+| Ruthless | 1.00% | ~4,332 |
+| Semper Paratus | 1.00% | ~4,332 |
 | Carrying | 0.90% | ~3,898 |
 | Efficient | 0.90% | ~3,898 |
 | Mount & Gun | 0.90% | ~3,898 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~433 |
 | Road Hazard | 0.10% | ~433 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 433,145 (Ranked 38)  
+Progressed: 433,153 (Ranked 38)  
 Completed: 2 (0.00%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,16 +160,16 @@ Completed: 2 (0.00%) (Ranked 258)
 | 2023-08-13 | 432,353 | 2 |
 | 2023-08-14 | 432,656 | 2 |
 | 2023-08-15 | 432,984 | 2 |
-| 2023-08-16 | 433,145 | 2 |
+| 2023-08-16 | 433,153 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 375  (Ranked 221)  
-Sum: 2,895 (Ranked 166)  
+Sum: 2,896 (Ranked 166)  
 Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 375 |
 | This game has Challenging Combat | 351 |
-| This game is Extremely Fun | 339 |
+| This game is Extremely Fun | 340 |
 | This game has Competitive Players | 337 |
 | This game has Realistic Visuals | 311 |
 | This game is Highly Recommended | 310 |
@@ -387,4 +387,4 @@ Diff (max vs sum): 55
 | 2023-08-13 | 4.62 | - | 374 | 2,887 |
 | 2023-08-14 | 4.62 | - | 375 | 2,888 |
 | 2023-08-15 | 4.62 | - | 375 | 2,892 |
-| 2023-08-16 | 4.62 | - | 375 | 2,895 |
+| 2023-08-16 | 4.62 | - | 375 | 2,896 |

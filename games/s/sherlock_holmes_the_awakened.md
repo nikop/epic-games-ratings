@@ -10,32 +10,32 @@ Rating: 4.68 (Ranked 238)
 | High Profile | 59.00% | ~353 |
 | Whispers In The Dark | 58.00% | ~347 |
 | Fond Memories | 56.00% | ~335 |
-| History Check | 54.00% | ~323 |
 | A Method To His Madness | 54.00% | ~323 |
-| The New World | 50.00% | ~299 |
-| Open Sesame | 49.00% | ~293 |
-| Sticky Fingers | 49.00% | ~293 |
-| Knives Out | 49.00% | ~293 |
-| Lock, Stock, And Barrel | 48.00% | ~287 |
-| Gaze Into The Abyss | 48.00% | ~287 |
-| Back In The Saddle | 48.00% | ~287 |
-| Land, Ho! | 48.00% | ~287 |
-| No Man Is An Island | 47.00% | ~281 |
-| At Wits' End | 46.00% | ~275 |
-| Fhtagn! | 45.00% | ~269 |
-| Bookworm | 44.00% | ~263 |
-| Up In Flames | 44.00% | ~263 |
-| Going Once... | 40.00% | ~239 |
-| Let Me Be Frank | 39.00% | ~233 |
-| Brain Food | 38.00% | ~227 |
-| No Stone Unturned | 37.00% | ~221 |
+| History Check | 53.00% | ~317 |
+| The New World | 50.00% | ~300 |
+| Open Sesame | 49.00% | ~294 |
+| Sticky Fingers | 49.00% | ~294 |
+| Knives Out | 49.00% | ~294 |
+| Lock, Stock, And Barrel | 48.00% | ~288 |
+| Gaze Into The Abyss | 48.00% | ~288 |
+| Back In The Saddle | 48.00% | ~288 |
+| Land, Ho! | 48.00% | ~288 |
+| No Man Is An Island | 47.00% | ~282 |
+| At Wits' End | 46.00% | ~276 |
+| Fhtagn! | 45.00% | ~270 |
+| Bookworm | 44.00% | ~264 |
+| Up In Flames | 44.00% | ~264 |
+| Going Once... | 40.00% | ~240 |
+| Let Me Be Frank | 39.00% | ~234 |
+| Brain Food | 38.00% | ~228 |
+| No Stone Unturned | 37.00% | ~222 |
 | Read It And Weep | 23.00% | ~138 |
 | Curiosity Killed The Cat | 21.00% | ~126 |
 | Big Breakthrough | 14.00% | ~84 |
 | Reawakened | 5.00% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 598 (Ranked 218)  
-Completed: 25 (4.18%) (Ranked 56)  
+Progressed: 599 (Ranked 218)  
+Completed: 25 (4.17%) (Ranked 56)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -142,6 +142,7 @@ Completed: 25 (4.18%) (Ranked 56)
 | 2023-08-13 | 596 | 25 |
 | 2023-08-14 | 597 | 25 |
 | 2023-08-15 | 598 | 25 |
+| 2023-08-16 | 599 | 25 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
