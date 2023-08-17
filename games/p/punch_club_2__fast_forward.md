@@ -57,11 +57,11 @@
 | Absolute Champion! | 33.00% | ~84 |
 | Careerist | 33.00% | ~84 |
 | Undercover robot | 33.00% | ~84 |
+| Not little hacker | 32.00% | ~81 |
 | Anyone can resist | 32.00% | ~81 |
 | Trap disarmed | 31.00% | ~79 |
 | The lonesome road | 31.00% | ~79 |
 | Key memories | 31.00% | ~79 |
-| Not little hacker | 31.00% | ~79 |
 | The last bell ring | 31.00% | ~79 |
 | The heart of the Resistance | 31.00% | ~79 |
 | Another world | 30.00% | ~76 |

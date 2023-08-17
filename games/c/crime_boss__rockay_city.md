@@ -5,30 +5,30 @@ Rating: 3.94 (Ranked 942)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~53,228 |
-| First One’s Free | 65.00% | ~46,754 |
-| Neophyte Ninja | 50.00% | ~35,965 |
-| Too Old for This | 47.00% | ~33,807 |
+| Downed but Not Outed | 74.00% | ~53,230 |
+| First One’s Free | 65.00% | ~46,756 |
+| Neophyte Ninja | 50.00% | ~35,966 |
+| Too Old for This | 47.00% | ~33,808 |
 | Case Closed | 35.00% | ~25,176 |
 | Fancy Pants | 35.00% | ~25,176 |
-| King of the Hill | 34.00% | ~24,456 |
+| King of the Hill | 34.00% | ~24,457 |
 | Underworld Initiate | 29.00% | ~20,860 |
-| Roid Ranger | 21.00% | ~15,105 |
+| Roid Ranger | 21.00% | ~15,106 |
 | True Player | 19.00% | ~13,667 |
 | Off the Rocks | 19.00% | ~13,667 |
 | Raider’s Ruin | 17.00% | ~12,228 |
 | Dragonslayer | 17.00% | ~12,228 |
 | Hidden Sonata | 13.00% | ~9,351 |
-| Rockay Rex | 11.00% | ~7,912 |
+| Rockay Rex | 11.00% | ~7,913 |
 | Freebooter | 10.00% | ~7,193 |
 | Track Star | 9.00% | ~6,474 |
 | Headhunter | 9.00% | ~6,474 |
 | Ding Dong | 9.00% | ~6,474 |
 | Classy Joint | 9.00% | ~6,474 |
-| I Like Trains | 8.00% | ~5,754 |
+| I Like Trains | 8.00% | ~5,755 |
 | Foo Finder | 7.00% | ~5,035 |
 | Savvy Seeker | 6.00% | ~4,316 |
-| Legend Looter | 5.00% | ~3,596 |
+| Legend Looter | 5.00% | ~3,597 |
 | Imports and Exports | 4.00% | ~2,877 |
 | Olympus Ascended | 4.00% | ~2,877 |
 | Cracked the Jack | 4.00% | ~2,877 |
@@ -43,7 +43,7 @@ Rating: 3.94 (Ranked 942)
 | Geek Out | 0.60% | ~432 |
 | Full House | 0.20% | ~144 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 71,930 (Ranked 78)  
+Progressed: 71,932 (Ranked 78)  
 Completed: 39 (0.05%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,11 +162,11 @@ Completed: 39 (0.05%) (Ranked 223)
 | 2023-08-14 | 71,831 | 38 |
 | 2023-08-15 | 71,883 | 39 |
 | 2023-08-16 | 71,916 | 39 |
-| 2023-08-17 | 71,930 | 39 |
+| 2023-08-17 | 71,932 | 39 |
 ## Awards
 Max (Diverse Characters): 402  (Ranked 214)  
-Sum: 1,901 (Ranked 203)  
-Diff (max vs sum): 11  
+Sum: 1,901 (Ranked 204)  
+Diff (max vs sum): 10  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 402 |

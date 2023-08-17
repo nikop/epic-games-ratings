@@ -5,10 +5,10 @@ Rating: 4.58 (Ranked 426)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 29.00% | ~5,054 |
+| On Deceive Inc.'s Secret Service | 29.00% | ~5,055 |
 | Mainframe Hacker | 23.00% | ~4,009 |
 | The Spy who eliminated me | 23.00% | ~4,009 |
-| Tomorrow Never Dyes | 22.00% | ~3,834 |
+| Tomorrow Never Dyes | 22.00% | ~3,835 |
 | Never Say Loser Again | 19.00% | ~3,312 |
 | From the Vault with Love | 18.00% | ~3,137 |
 | Tailor-Made | 18.00% | ~3,137 |
@@ -17,17 +17,17 @@ Rating: 4.58 (Ranked 426)
 | Fully Decked Out | 17.00% | ~2,963 |
 | You Only Live Twice | 16.00% | ~2,789 |
 | A view to Win | 13.00% | ~2,266 |
-| The Living Portrait | 12.00% | ~2,091 |
-| Private Collection | 12.00% | ~2,091 |
-| Killer Looks | 12.00% | ~2,091 |
-| Hostile Takeover | 12.00% | ~2,091 |
-| Smells Like Trouble | 12.00% | ~2,091 |
+| The Living Portrait | 12.00% | ~2,092 |
+| Private Collection | 12.00% | ~2,092 |
+| Killer Looks | 12.00% | ~2,092 |
+| Hostile Takeover | 12.00% | ~2,092 |
+| Smells Like Trouble | 12.00% | ~2,092 |
 | Keycards Royale | 11.00% | ~1,917 |
 | Dr. No Kill | 11.00% | ~1,917 |
 | My Motto, My Creed | 11.00% | ~1,917 |
 | In It to Win It | 10.00% | ~1,743 |
 | Security Supervisor | 6.00% | ~1,046 |
-| License to Thrill | 5.00% | ~871 |
+| License to Thrill | 5.00% | ~872 |
 | Social of Solace | 4.00% | ~697 |
 | Live and let lie | 3.00% | ~523 |
 | Safe Withdrawal | 3.00% | ~523 |
@@ -42,7 +42,7 @@ Rating: 4.58 (Ranked 426)
 | Extraction Confusion | 0.20% | ~35 |
 | Spyfall | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,429 (Ranked 109)  
+Progressed: 17,430 (Ranked 109)  
 Completed: 1 (0.01%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,7 +161,7 @@ Completed: 1 (0.01%) (Ranked 245)
 | 2023-08-14 | 17,375 | 1 |
 | 2023-08-15 | 17,401 | 1 |
 | 2023-08-16 | 17,424 | 1 |
-| 2023-08-17 | 17,429 | 1 |
+| 2023-08-17 | 17,430 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

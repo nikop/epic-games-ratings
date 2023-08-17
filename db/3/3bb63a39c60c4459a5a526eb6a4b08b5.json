@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 439,
+  "EOS_Progressed": 440,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -1561,6 +1561,11 @@
       "Time": "2023-08-17T05:03:08.0114025+00:00",
       "NumProgressed": 439,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-17T08:03:09.3808467+00:00",
+      "NumProgressed": 440,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -1604,7 +1609,7 @@
       "Name": "Budget Flight",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "Calculated",
@@ -1620,7 +1625,7 @@
       "Name": "That Was Close!",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "Creator",
@@ -1844,7 +1849,7 @@
       "Name": "Resource Economy",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "Restructuring",
@@ -1852,7 +1857,7 @@
       "Name": "Restructuring",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "Reviewer",
@@ -1907,14 +1912,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 439,
+      "Progressed": 440,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-08-17T07:00:39.5705876+00:00",
+  "LastChanged_Achievements": "2023-08-17T08:03:09.3808459+00:00",
   "LastUpdate_AppInfo": "2023-08-15T09:57:14.6821782+00:00",
-  "LastUpdate_Ratings": "2023-08-17T06:58:01.2551804+00:00",
-  "LastUpdate_Achievements": "2023-08-17T07:00:39.570655+00:00"
+  "LastUpdate_Ratings": "2023-08-17T07:58:32.4362711+00:00",
+  "LastUpdate_Achievements": "2023-08-17T08:03:09.3808943+00:00"
 }

@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2516,
+  "EOS_Progressed": 2517,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -2583,6 +2583,11 @@
       "Time": "2023-08-17T05:05:10.3502577+00:00",
       "NumProgressed": 2516,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-08-17T08:04:45.4640372+00:00",
+      "NumProgressed": 2517,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -2642,7 +2647,7 @@
       "Name": "Sliders",
       "Percentage": 3,
       "XP": 200,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "SNOW_RUINS",
@@ -2697,7 +2702,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2516,
+      "Progressed": 2517,
       "Completed": 6
     }
   ],
@@ -2705,8 +2710,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-08-17T07:04:19.847441+00:00",
+  "LastChanged_Achievements": "2023-08-17T08:04:45.4640369+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:03.9385383+00:00",
-  "LastUpdate_Ratings": "2023-08-17T07:00:04.8751287+00:00",
-  "LastUpdate_Achievements": "2023-08-17T07:04:19.8474742+00:00"
+  "LastUpdate_Ratings": "2023-08-17T08:00:33.9303304+00:00",
+  "LastUpdate_Achievements": "2023-08-17T08:04:45.4640624+00:00"
 }

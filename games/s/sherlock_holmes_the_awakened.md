@@ -10,23 +10,23 @@ Rating: 4.68 (Ranked 238)
 | High Profile | 59.00% | ~354 |
 | Whispers In The Dark | 58.00% | ~348 |
 | Fond Memories | 56.00% | ~336 |
+| A Method To His Madness | 55.00% | ~330 |
 | History Check | 54.00% | ~324 |
-| A Method To His Madness | 54.00% | ~324 |
 | The New World | 50.00% | ~300 |
 | Lock, Stock, And Barrel | 49.00% | ~294 |
 | Gaze Into The Abyss | 49.00% | ~294 |
 | Open Sesame | 49.00% | ~294 |
 | Sticky Fingers | 49.00% | ~294 |
 | Knives Out | 49.00% | ~294 |
+| Land, Ho! | 49.00% | ~294 |
 | Back In The Saddle | 48.00% | ~288 |
-| Land, Ho! | 48.00% | ~288 |
 | No Man Is An Island | 47.00% | ~282 |
 | At Wits' End | 46.00% | ~276 |
 | Fhtagn! | 45.00% | ~270 |
 | Bookworm | 44.00% | ~264 |
 | Up In Flames | 44.00% | ~264 |
 | Going Once... | 40.00% | ~240 |
-| Let Me Be Frank | 39.00% | ~234 |
+| Let Me Be Frank | 40.00% | ~240 |
 | Brain Food | 38.00% | ~228 |
 | No Stone Unturned | 37.00% | ~222 |
 | Read It And Weep | 23.00% | ~138 |

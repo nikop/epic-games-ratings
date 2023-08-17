@@ -2,7 +2,7 @@
   "ID": "ca4058f18b0a4a9e9e2ccc28f7f33000",
   "Name": "Kingdom Come: Deliverance",
   "ProductSlug": "kingdom-come-deliverance",
-  "Ranking_Rating": 185,
+  "Ranking_Rating": 186,
   "Ranking_Popularity": 47,
   "Ranking_PopularitySum": 45,
   "Ranking_EOS_Progress": 15,
@@ -6552,9 +6552,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 797331,
+  "EOS_Progressed": 797332,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 901,
+  "EOS_NewPlayers": 899,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -19542,6 +19542,11 @@
       "Time": "2023-08-17T07:05:07.7289198+00:00",
       "NumProgressed": 797331,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-08-17T08:05:31.6367117+00:00",
+      "NumProgressed": 797332,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 82,
@@ -20089,7 +20094,7 @@
       "Name": "Sinner",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 87706
+      "UsersEstimate": 87707
     },
     {
       "ID": "Sniper",
@@ -20208,15 +20213,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 797331,
+      "Progressed": 797332,
       "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-08-16T10:00:47.2700578+00:00",
-  "LastChanged_Achievements": "2023-08-17T07:05:07.7289193+00:00",
+  "LastChanged_Achievements": "2023-08-17T08:05:31.6367112+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:10.6594463+00:00",
-  "LastUpdate_Ratings": "2023-08-17T06:59:23.7493765+00:00",
-  "LastUpdate_Achievements": "2023-08-17T07:05:07.7290917+00:00"
+  "LastUpdate_Ratings": "2023-08-17T07:59:52.7812739+00:00",
+  "LastUpdate_Achievements": "2023-08-17T08:05:31.6368839+00:00"
 }

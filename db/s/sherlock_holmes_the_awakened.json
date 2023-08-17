@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 57,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -2208,9 +2208,9 @@
       "ID": "MQ03_5",
       "SetID": "bbing49",
       "Name": "A Method To His Madness",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 40,
-      "UsersEstimate": 324
+      "UsersEstimate": 330
     },
     {
       "ID": "MQ04_1",
@@ -2224,9 +2224,9 @@
       "ID": "MQ04_2",
       "SetID": "bbing49",
       "Name": "Let Me Be Frank",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 234
+      "UsersEstimate": 240
     },
     {
       "ID": "MQ04_3",
@@ -2288,9 +2288,9 @@
       "ID": "MQ06_3",
       "SetID": "bbing49",
       "Name": "Land, Ho!",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 288
+      "UsersEstimate": 294
     },
     {
       "ID": "MQ06_4",
@@ -2361,8 +2361,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-08-14T02:12:32.7608826+00:00",
-  "LastChanged_Achievements": "2023-08-17T07:03:16.3682303+00:00",
+  "LastChanged_Achievements": "2023-08-17T08:03:44.3351169+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:13.1188045+00:00",
-  "LastUpdate_Ratings": "2023-08-17T06:58:23.8891957+00:00",
-  "LastUpdate_Achievements": "2023-08-17T07:03:16.3682617+00:00"
+  "LastUpdate_Ratings": "2023-08-17T07:58:56.164046+00:00",
+  "LastUpdate_Achievements": "2023-08-17T08:03:44.3351503+00:00"
 }

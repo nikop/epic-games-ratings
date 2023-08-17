@@ -2122,7 +2122,7 @@
       "Count": 100
     }
   ],
-  "EOS_Progressed": 37763,
+  "EOS_Progressed": 37764,
   "EOS_Completed": 23,
   "EOS_NewPlayers": 636,
   "EOS_NewCompleters": 0,
@@ -14837,6 +14837,11 @@
       "Time": "2023-08-17T07:03:34.7191831+00:00",
       "NumProgressed": 37763,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-08-17T08:04:01.6958605+00:00",
+      "NumProgressed": 37764,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 75,
@@ -14928,7 +14933,7 @@
       "Name": "Lord of Fire",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 8685
+      "UsersEstimate": 8686
     },
     {
       "ID": "achievements_21",
@@ -14976,7 +14981,7 @@
       "Name": "Mountain King - I",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 15860
+      "UsersEstimate": 15861
     },
     {
       "ID": "achievements_27",
@@ -14992,7 +14997,7 @@
       "Name": "Mountain King - III",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 5664
+      "UsersEstimate": 5665
     },
     {
       "ID": "achievements_29",
@@ -15032,7 +15037,7 @@
       "Name": "Cannon Fodder - I",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 12839
+      "UsersEstimate": 12840
     },
     {
       "ID": "achievements_33",
@@ -15040,7 +15045,7 @@
       "Name": "Cannon Fodder - II",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 10951
+      "UsersEstimate": 10952
     },
     {
       "ID": "achievements_34",
@@ -15128,7 +15133,7 @@
       "Name": "Uncommon Warrior",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 8685
+      "UsersEstimate": 8686
     },
     {
       "ID": "achievements_44",
@@ -15136,7 +15141,7 @@
       "Name": "Rare Warrior",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 5664
+      "UsersEstimate": 5665
     },
     {
       "ID": "achievements_45",
@@ -15184,7 +15189,7 @@
       "Name": "Necromancer\u0027s Apprentice",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 19259
+      "UsersEstimate": 19260
     },
     {
       "ID": "achievements_50",
@@ -15208,7 +15213,7 @@
       "Name": "Transmutation",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 15860
+      "UsersEstimate": 15861
     },
     {
       "ID": "achievements_53",
@@ -15224,7 +15229,7 @@
       "Name": "Distillation",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 16238
+      "UsersEstimate": 16239
     },
     {
       "ID": "achievements_55",
@@ -15272,7 +15277,7 @@
       "Name": "Soul of Lies",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 12839
+      "UsersEstimate": 12840
     },
     {
       "ID": "achievements_61",
@@ -15296,7 +15301,7 @@
       "Name": "Revealed Secrets - II",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 9818
+      "UsersEstimate": 9819
     },
     {
       "ID": "achievements_64",
@@ -15424,7 +15429,7 @@
       "Name": "Blood Moon",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 27567
+      "UsersEstimate": 27568
     },
     {
       "ID": "achievements_8",
@@ -15447,15 +15452,15 @@
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 37763,
+      "Progressed": 37764,
       "Completed": 23
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2023-08-16T02:59:49.0729099+00:00",
-  "LastChanged_Achievements": "2023-08-17T07:03:34.7191827+00:00",
+  "LastChanged_Achievements": "2023-08-17T08:04:01.6958599+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:30.6098242+00:00",
-  "LastUpdate_Ratings": "2023-08-17T06:59:35.5966663+00:00",
-  "LastUpdate_Achievements": "2023-08-17T07:03:34.7193652+00:00"
+  "LastUpdate_Ratings": "2023-08-17T08:00:04.587214+00:00",
+  "LastUpdate_Achievements": "2023-08-17T08:04:01.6960368+00:00"
 }

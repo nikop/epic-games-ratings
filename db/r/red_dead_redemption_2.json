@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 7,
   "Ranking_EOS_Progress": 546,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_NewPlayers": 354,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2019-11-05T13:00:00+00:00",
@@ -11384,10 +11384,16 @@
       "Rating": 4.88,
       "NumberOfAwards": 433030,
       "NumberOfAwardsMax": 167691
+    },
+    {
+      "Time": "2023-08-17T08:00:27.7348678+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 433054,
+      "NumberOfAwardsMax": 167691
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 433030,
+  "NumberOfAwards": 433054,
   "NumberOfAwardsMax": 167691,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
@@ -11473,7 +11479,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 11809
+      "Count": 11833
     }
   ],
   "EOS_Progressed": 0,
@@ -11487,8 +11493,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2023-08-17T00:01:54.8588465+00:00",
+  "LastChanged": "2023-08-17T08:00:27.7348676+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:56.5855554+00:00",
-  "LastUpdate_Ratings": "2023-08-17T06:59:59.1213586+00:00",
-  "LastUpdate_Achievements": "2023-08-17T07:05:27.0863509+00:00"
+  "LastUpdate_Ratings": "2023-08-17T08:00:27.7348683+00:00",
+  "LastUpdate_Achievements": "2023-08-17T08:05:50.3391843+00:00"
 }

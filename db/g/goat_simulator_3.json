@@ -3148,9 +3148,9 @@
       "Count": 269
     }
   ],
-  "EOS_Progressed": 240199,
+  "EOS_Progressed": 240201,
   "EOS_Completed": 795,
-  "EOS_NewPlayers": 3467,
+  "EOS_NewPlayers": 3454,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -15968,6 +15968,11 @@
       "Time": "2023-08-17T07:05:07.9368846+00:00",
       "NumProgressed": 240199,
       "NumCompleted": 795
+    },
+    {
+      "Time": "2023-08-17T08:05:31.8201427+00:00",
+      "NumProgressed": 240201,
+      "NumCompleted": 795
     }
   ],
   "TotalAchievements": 39,
@@ -16043,7 +16048,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 218581
+      "UsersEstimate": 218583
     },
     {
       "ID": "AchievementClownID",
@@ -16107,7 +16112,7 @@
       "Name": "Goat Queen",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 127305
+      "UsersEstimate": 127307
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -16147,7 +16152,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 136913
+      "UsersEstimate": 136915
     },
     {
       "ID": "AchievementLootBoxID",
@@ -16211,7 +16216,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 177747
+      "UsersEstimate": 177749
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -16251,7 +16256,7 @@
       "Name": "Covert Consortium",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 132109
+      "UsersEstimate": 132111
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -16275,7 +16280,7 @@
       "Name": "Rogue Guild",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 156129
+      "UsersEstimate": 156131
     },
     {
       "ID": "AchievementWhaleID",
@@ -16290,7 +16295,7 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 240199,
+      "Progressed": 240201,
       "Completed": 795
     }
   ],
@@ -16298,8 +16303,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-08-17T01:34:40.4398199+00:00",
-  "LastChanged_Achievements": "2023-08-17T07:05:07.9368842+00:00",
+  "LastChanged_Achievements": "2023-08-17T08:05:31.8201422+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:14.395829+00:00",
-  "LastUpdate_Ratings": "2023-08-17T06:57:28.9733335+00:00",
-  "LastUpdate_Achievements": "2023-08-17T07:05:07.936993+00:00"
+  "LastUpdate_Ratings": "2023-08-17T07:57:56.7014112+00:00",
+  "LastUpdate_Achievements": "2023-08-17T08:05:31.8202897+00:00"
 }

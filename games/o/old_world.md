@@ -6,7 +6,7 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Clergy | 4.00% | ~537 |
+| The Clergy | 4.00% | ~538 |
 | Explorer | 3.00% | ~403 |
 | Settler | 3.00% | ~403 |
 | Play a Single Player Game | 3.00% | ~403 |
@@ -67,12 +67,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 2 | 0.90% | ~121 |
 | Egyptian Paganism | 0.90% | ~121 |
 | Mythology | 0.90% | ~121 |
-| Intercessor | 0.80% | ~107 |
-| Sages | 0.80% | ~107 |
-| Acropolis | 0.80% | ~107 |
-| Mausoleum | 0.80% | ~107 |
-| Greece | 0.80% | ~107 |
-| Points Victory | 0.80% | ~107 |
+| Intercessor | 0.80% | ~108 |
+| Sages | 0.80% | ~108 |
+| Acropolis | 0.80% | ~108 |
+| Mausoleum | 0.80% | ~108 |
+| Greece | 0.80% | ~108 |
+| Points Victory | 0.80% | ~108 |
 | Hanging Gardens in Babylon | 0.70% | ~94 |
 | Beloved | 0.70% | ~94 |
 | Conqueror | 0.70% | ~94 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,437 (Ranked 117)  
+Progressed: 13,438 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -422,7 +422,7 @@ Completed: 5 (0.04%) (Ranked 227)
 | 2023-08-14 | 13,412 | 5 |
 | 2023-08-15 | 13,422 | 5 |
 | 2023-08-16 | 13,432 | 5 |
-| 2023-08-17 | 13,437 | 5 |
+| 2023-08-17 | 13,438 | 5 |
 ## Awards
 Max (Relaxing): 219  (Ranked 264)  
 Sum: 1,792 (Ranked 206)  
