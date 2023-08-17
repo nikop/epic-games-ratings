@@ -9,11 +9,11 @@ Number of Ratings: 371  (23.09.2022)
 | Look Over There! | 4.00% | ~126 |
 | Not So Fast... | 4.00% | ~126 |
 | Executioner | 4.00% | ~126 |
+| Blood for the Blood God! | 3.00% | ~95 |
 | Watch Where You Step... | 3.00% | ~95 |
 | Purging Spree | 3.00% | ~95 |
 | An Ill Omen | 3.00% | ~95 |
 | Surgical Excision | 2.00% | ~63 |
-| Blood for the Blood God! | 2.00% | ~63 |
 | Friendly Fire | 2.00% | ~63 |
 | Bloodless | 2.00% | ~63 |
 | A Foul Creche | 2.00% | ~63 |

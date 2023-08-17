@@ -15,7 +15,7 @@
 | Get to the Point | 33.00% | ~18 |
 | Toe to Toe | 19.00% | ~10 |
 | The Hidden Secret | 17.00% | ~9 |
-| Mr. Want It All | 15.00% | ~8 |
+| Mr. Want It All | 17.00% | ~9 |
 | Phew! | 15.00% | ~8 |
 | Grand Escape | 11.00% | ~6 |
 | Space Warrior: Prologue | 11.00% | ~6 |
@@ -26,6 +26,7 @@
 | The Fortress Conqueror | 6.00% | ~3 |
 | The Paradox Coordinate Conqueror | 6.00% | ~3 |
 | The Hypergravitational Abyss Conqueror | 6.00% | ~3 |
+| he Ultra Fortress Conqueror | 6.00% | ~3 |
 | Rapidfire | 6.00% | ~3 |
 | Antaeus | 6.00% | ~3 |
 | Air Interception | 6.00% | ~3 |
@@ -35,7 +36,6 @@
 | The Zero Dimensional Capital Conqueror | 4.00% | ~2 |
 | The Inactivated Frozen Conqueror | 4.00% | ~2 |
 | Death Bringer Conqueror | 4.00% | ~2 |
-| he Ultra Fortress Conqueror | 4.00% | ~2 |
 | Break Through the Forbidden | 2.00% | ~1 |
 | Space Ranger: Prologue | 2.00% | ~1 |
 | Breaking the Limit | 2.00% | ~1 |

@@ -15,8 +15,8 @@ Number of Ratings: 1,635  (23.09.2022)
 | The Swamplanders from the swamplands | 44.00% | ~12,113 |
 | The One-Huge-Army-Building Evil | 41.00% | ~11,287 |
 | Rusty Steel | 41.00% | ~11,287 |
+| The last burger | 38.00% | ~10,461 |
 | Braiiiiins! | 38.00% | ~10,461 |
-| The last burger | 37.00% | ~10,186 |
 | Hands off the Dungeonheart! | 36.00% | ~9,911 |
 | A trip on sea, what fun it can be | 34.00% | ~9,360 |
 | Damned good | 33.00% | ~9,085 |

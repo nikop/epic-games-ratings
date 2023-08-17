@@ -6,16 +6,16 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~307,158 |
-| Jeef Skeejj | 44.00% | ~204,772 |
-| Careful planning | 39.00% | ~181,502 |
-| Second Coming | 33.00% | ~153,579 |
-| Jeef Skagg | 30.00% | ~139,617 |
+| The Shutdown | 66.00% | ~307,159 |
+| Jeef Skeejj | 44.00% | ~204,773 |
+| Careful planning | 39.00% | ~181,503 |
+| Second Coming | 33.00% | ~153,580 |
+| Jeef Skagg | 30.00% | ~139,618 |
 | Mother | 25.00% | ~116,348 |
 | In space, no one can hear you scream | 24.00% | ~111,694 |
 | Chapter I: Echoes | 22.00% | ~102,386 |
 | Excelsior Rule | 22.00% | ~102,386 |
-| Things persisted in not being what they seemed | 20.00% | ~93,078 |
+| Things persisted in not being what they seemed | 20.00% | ~93,079 |
 | Knightmare Frames | 15.00% | ~69,809 |
 | May His passing cleanse the world | 15.00% | ~69,809 |
 | Chapter II: Fallible Flesh | 15.00% | ~69,809 |
@@ -28,23 +28,23 @@ Number of Ratings: 1,003  (23.09.2022)
 | General Vivar | 8.00% | ~37,231 |
 | Back to Ganyma | 8.00% | ~37,231 |
 | Kaos Rule | 8.00% | ~37,231 |
-| Admiral Okonkwo | 7.00% | ~32,577 |
-| The Survivalists | 7.00% | ~32,577 |
-| The Tech Specialist | 7.00% | ~32,577 |
-| Chapter V: Memories of None | 6.00% | ~27,923 |
-| Meet your maker | 6.00% | ~27,923 |
-| The Impersonator | 6.00% | ~27,923 |
-| The Kid | 6.00% | ~27,923 |
-| The Evangelist | 6.00% | ~27,923 |
-| The Inquisitor | 6.00% | ~27,923 |
-| The Ace Pilot | 6.00% | ~27,923 |
-| The Tech Med | 6.00% | ~27,923 |
-| The Mech Soldier | 6.00% | ~27,923 |
-| The lucky charm | 6.00% | ~27,923 |
-| The Anonymous | 6.00% | ~27,923 |
-| The Smuggler | 6.00% | ~27,923 |
-| The Crazy Repairman | 6.00% | ~27,923 |
-| The Weasel | 6.00% | ~27,923 |
+| Admiral Okonkwo | 7.00% | ~32,578 |
+| The Survivalists | 7.00% | ~32,578 |
+| The Tech Specialist | 7.00% | ~32,578 |
+| Chapter V: Memories of None | 6.00% | ~27,924 |
+| Meet your maker | 6.00% | ~27,924 |
+| The Impersonator | 6.00% | ~27,924 |
+| The Kid | 6.00% | ~27,924 |
+| The Evangelist | 6.00% | ~27,924 |
+| The Inquisitor | 6.00% | ~27,924 |
+| The Ace Pilot | 6.00% | ~27,924 |
+| The Tech Med | 6.00% | ~27,924 |
+| The Mech Soldier | 6.00% | ~27,924 |
+| The lucky charm | 6.00% | ~27,924 |
+| The Anonymous | 6.00% | ~27,924 |
+| The Smuggler | 6.00% | ~27,924 |
+| The Crazy Repairman | 6.00% | ~27,924 |
+| The Weasel | 6.00% | ~27,924 |
 | Kill the Doctor | 5.00% | ~23,270 |
 | Forsaken | 5.00% | ~23,270 |
 | Mercy | 5.00% | ~23,270 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~9 |
 | Kronos Rule | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 465,391 (Ranked 37)  
+Progressed: 465,393 (Ranked 37)  
 Completed: 17 (0.00%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 17 (0.00%) (Ranked 258)
 | 2023-08-14 | 465,262 | 17 |
 | 2023-08-15 | 465,318 | 17 |
 | 2023-08-16 | 465,377 | 17 |
-| 2023-08-17 | 465,391 | 17 |
+| 2023-08-17 | 465,393 | 17 |
 ## Awards
 Max (Character Customization): 216  (Ranked 268)  
 Sum: 216 (Ranked 363)  

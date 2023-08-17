@@ -6,45 +6,45 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 72.00% | ~269,741 |
-| Full garage | 59.00% | ~221,038 |
-| To the eyeballs! | 50.00% | ~187,320 |
-| Individual delivery | 46.00% | ~172,334 |
-| Non-Stop | 44.00% | ~164,842 |
-| Juggler | 35.00% | ~131,124 |
-| Forgot something | 34.00% | ~127,378 |
-| Close call! | 29.00% | ~108,646 |
-| Get out my way | 27.00% | ~101,153 |
-| Common cause | 25.00% | ~93,660 |
-| Critical care | 25.00% | ~93,660 |
-| Mega-railroad | 22.00% | ~82,421 |
-| Upgrade complete | 22.00% | ~82,421 |
-| Just in time! | 17.00% | ~63,689 |
-| Builder | 16.00% | ~59,942 |
-| Long Haul | 16.00% | ~59,837 |
-| Steam Age | 15.00% | ~56,196 |
-| Multilevel road | 14.00% | ~52,450 |
-| Bridgemania | 13.00% | ~48,703 |
-| Need to think | 13.00% | ~48,703 |
-| The Tortoise | 12.00% | ~44,957 |
-| Beginner | 10.00% | ~37,464 |
-| Without a lunch break | 10.00% | ~37,464 |
-| One way | 9.00% | ~33,718 |
-| Relocation | 9.00% | ~33,718 |
-| Industrial Age | 8.00% | ~29,971 |
-| Just One More Valley | 8.00% | ~29,918 |
-| Prick of conscience | 7.00% | ~26,225 |
-| Missed it! | 6.00% | ~22,478 |
-| At the last moment! | 5.00% | ~18,732 |
-| Overseer | 5.00% | ~18,732 |
+| Dealmaker | 72.00% | ~269,757 |
+| Full garage | 59.00% | ~221,051 |
+| To the eyeballs! | 50.00% | ~187,331 |
+| Individual delivery | 46.00% | ~172,345 |
+| Non-Stop | 44.00% | ~164,851 |
+| Juggler | 35.00% | ~131,132 |
+| Forgot something | 34.00% | ~127,385 |
+| Close call! | 29.00% | ~108,652 |
+| Get out my way | 27.00% | ~101,159 |
+| Common cause | 25.00% | ~93,666 |
+| Critical care | 25.00% | ~93,666 |
+| Mega-railroad | 22.00% | ~82,426 |
+| Upgrade complete | 22.00% | ~82,426 |
+| Just in time! | 17.00% | ~63,693 |
+| Builder | 16.00% | ~59,946 |
+| Long Haul | 16.00% | ~59,840 |
+| Steam Age | 15.00% | ~56,199 |
+| Multilevel road | 14.00% | ~52,453 |
+| Bridgemania | 13.00% | ~48,706 |
+| Need to think | 13.00% | ~48,706 |
+| The Tortoise | 12.00% | ~44,959 |
+| Beginner | 10.00% | ~37,466 |
+| Without a lunch break | 10.00% | ~37,466 |
+| One way | 9.00% | ~33,720 |
+| Relocation | 9.00% | ~33,720 |
+| Industrial Age | 8.00% | ~29,973 |
+| Just One More Valley | 8.00% | ~29,920 |
+| Prick of conscience | 7.00% | ~26,226 |
+| Missed it! | 6.00% | ~22,480 |
+| At the last moment! | 5.00% | ~18,733 |
+| Overseer | 5.00% | ~18,733 |
 | Highlander | 4.00% | ~14,986 |
 | Jewelry accuracy | 4.00% | ~14,986 |
 | Stargazer | 4.00% | ~14,986 |
-| Bridge builder | 3.00% | ~11,239 |
-| Electrical Age | 3.00% | ~11,239 |
-| Engineer | 3.00% | ~11,239 |
-| Large construction | 3.00% | ~11,239 |
-| Squander | 3.00% | ~11,239 |
+| Bridge builder | 3.00% | ~11,240 |
+| Electrical Age | 3.00% | ~11,240 |
+| Engineer | 3.00% | ~11,240 |
+| Large construction | 3.00% | ~11,240 |
+| Squander | 3.00% | ~11,240 |
 | Astronomer | 2.00% | ~7,493 |
 | Globalisation Age | 2.00% | ~7,493 |
 | Living it large | 2.00% | ~7,493 |
@@ -52,10 +52,10 @@ Number of Ratings: 87  (23.09.2022)
 | The Hare | 2.00% | ~7,493 |
 | Woodcutter | 2.00% | ~7,493 |
 | Test Batch | 2.00% | ~7,480 |
-| Innovator | 1.00% | ~3,746 |
-| Lucky vandal | 1.00% | ~3,746 |
-| Vandal | 1.00% | ~3,746 |
-| Will work | 1.00% | ~3,746 |
+| Innovator | 1.00% | ~3,747 |
+| Lucky vandal | 1.00% | ~3,747 |
+| Vandal | 1.00% | ~3,747 |
+| Will work | 1.00% | ~3,747 |
 | Occupied! | 1.00% | ~3,740 |
 | Ouroboros | 0.90% | ~3,372 |
 | Metro builder | 0.80% | ~2,997 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~374 |
 | World Zapper | 0.10% | ~374 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 374,640 (Ranked 40)  
+Progressed: 374,662 (Ranked 40)  
 Completed: 8 (0.00%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,7 +177,7 @@ Completed: 8 (0.00%) (Ranked 258)
 | 2023-08-14 | 372,666 | 8 |
 | 2023-08-15 | 373,616 | 8 |
 | 2023-08-16 | 374,472 | 8 |
-| 2023-08-17 | 374,640 | 8 |
+| 2023-08-17 | 374,662 | 8 |
 ## Awards
 Max (Challenging Puzzles): 383  (Ranked 218)  
 Sum: 685 (Ranked 279)  

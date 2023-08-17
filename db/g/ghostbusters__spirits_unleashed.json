@@ -10716,9 +10716,9 @@
       "ID": "Daily_Dose",
       "SetID": "819popo",
       "Name": "Daily Dose",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 8551
+      "UsersEstimate": 8802
     },
     {
       "ID": "Diabolical",
@@ -11061,8 +11061,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-08-17T04:01:16.0976827+00:00",
-  "LastChanged_Achievements": "2023-08-17T05:04:15.457702+00:00",
+  "LastChanged_Achievements": "2023-08-17T06:03:53.1756528+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:52.55817+00:00",
-  "LastUpdate_Ratings": "2023-08-17T05:00:43.9241175+00:00",
-  "LastUpdate_Achievements": "2023-08-17T05:04:15.457803+00:00"
+  "LastUpdate_Ratings": "2023-08-17T06:00:00.4901497+00:00",
+  "LastUpdate_Achievements": "2023-08-17T06:03:53.1757276+00:00"
 }

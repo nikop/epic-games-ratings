@@ -6,15 +6,15 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~21,397 |
-| Thorough | 10.00% | ~19,451 |
-| A thief's beginning | 9.00% | ~17,506 |
-| Disguised | 8.00% | ~15,561 |
-| Rollin' | 8.00% | ~15,561 |
-| Tanuki Time | 8.00% | ~15,561 |
-| Jonin | 7.00% | ~13,616 |
-| Rescue Takuma | 7.00% | ~13,616 |
-| Stoned Ox | 7.00% | ~13,616 |
+| Genin | 11.00% | ~21,398 |
+| Thorough | 10.00% | ~19,452 |
+| A thief's beginning | 9.00% | ~17,507 |
+| Disguised | 8.00% | ~15,562 |
+| Rollin' | 8.00% | ~15,562 |
+| Tanuki Time | 8.00% | ~15,562 |
+| Jonin | 7.00% | ~13,617 |
+| Rescue Takuma | 7.00% | ~13,617 |
+| Stoned Ox | 7.00% | ~13,617 |
 | Chunin | 6.00% | ~11,671 |
 | Happy Planning | 6.00% | ~11,671 |
 | Ice Ice Yuki | 6.00% | ~11,671 |
@@ -27,9 +27,9 @@ Number of Ratings: 495  (23.09.2022)
 | Happy little accidents | 4.00% | ~7,781 |
 | Prisoners | 4.00% | ~7,781 |
 | Too Early | 4.00% | ~7,781 |
-| Noboru | 3.00% | ~5,835 |
-| Still Rollin' | 3.00% | ~5,835 |
-| Stoned | 3.00% | ~5,835 |
+| Noboru | 3.00% | ~5,836 |
+| Still Rollin' | 3.00% | ~5,836 |
+| Stoned | 3.00% | ~5,836 |
 | Atheist Ox | 2.00% | ~3,890 |
 | It's raining men | 2.00% | ~3,890 |
 | Old Man | 2.00% | ~3,890 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~195 |
 | Release the Kraken | 0.10% | ~195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 194,514 (Ranked 60)  
+Progressed: 194,524 (Ranked 60)  
 Completed: 69 (0.04%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,10 +170,10 @@ Completed: 69 (0.04%) (Ranked 227)
 | 2023-08-14 | 193,724 | 69 |
 | 2023-08-15 | 194,108 | 69 |
 | 2023-08-16 | 194,443 | 69 |
-| 2023-08-17 | 194,514 | 69 |
+| 2023-08-17 | 194,524 | 69 |
 ## Awards
 Max (Great for Beginners): 561  (Ranked 188)  
-Sum: 4,725 (Ranked 134)  
+Sum: 4,726 (Ranked 134)  
 Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
@@ -186,7 +186,7 @@ Diff (max vs sum): 54
 | This game is Relaxing | 479 |
 | This game has Challenging Combat | 477 |
 | This game has Quickly Understood Controls | 445 |
-| This game has a Creative Community | 245 |
+| This game has a Creative Community | 246 |
 | This game has Unique Visuals | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -341,3 +341,4 @@ Diff (max vs sum): 54
 | 2023-08-08 | 4.66 | - | 560 | 4,723 |
 | 2023-08-11 | 4.66 | - | 561 | 4,724 |
 | 2023-08-15 | 4.66 | - | 561 | 4,725 |
+| 2023-08-17 | 4.66 | - | 561 | 4,726 |

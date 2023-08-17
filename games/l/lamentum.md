@@ -13,7 +13,7 @@ Rating: 4.37 (Ranked 729)
 | One step down | 27.00% | ~85 |
 | Lord Clayton | 22.00% | ~70 |
 | The other side of the mirror | 16.00% | ~51 |
-| Little Mary | 14.00% | ~44 |
+| Little Mary | 15.00% | ~47 |
 | There is freedom in awakening | 12.00% | ~38 |
 | Ritual | 9.00% | ~28 |
 | Cowardice | 9.00% | ~28 |
