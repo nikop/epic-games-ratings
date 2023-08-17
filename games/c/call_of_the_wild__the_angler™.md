@@ -25,7 +25,7 @@ Number of Ratings: 281  (23.09.2022)
 | Marathon | 8.00% | ~394 |
 | Big Fish Small Pond | 6.00% | ~295 |
 | I'm the Captain Now | 5.00% | ~246 |
-| School's Out for Summer | 4.00% | ~197 |
+| School's Out for Summer | 5.00% | ~246 |
 | The Beetles | 3.00% | ~148 |
 | Gonna Need a Bigger Boat | 3.00% | ~148 |
 | Rod and Troll | 2.00% | ~86 |

@@ -9,7 +9,7 @@
 | Assassination | 22.00% | ~6 |
 | Great Civil War | 22.00% | ~6 |
 | Princess Crowned | 15.00% | ~4 |
-| Secret War | 11.00% | ~3 |
+| Secret War | 15.00% | ~4 |
 | Investment | 11.00% | ~3 |
 | 2nd AI War | 7.00% | ~2 |
 | Tech Breakthrough | 7.00% | ~2 |
@@ -53,7 +53,7 @@
 | Abolish Edict | 0.00% | ~0 |
 | Compliance Edict | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27 (Ranked 399)  
+Progressed: 27 (Ranked 400)  
 Completed: 0 (0.00%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |

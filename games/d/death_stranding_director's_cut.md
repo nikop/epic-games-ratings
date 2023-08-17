@@ -6,54 +6,54 @@ Number of Ratings: 3,099  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Delivering Is What I Do | 92.00% | ~481,466 |
-| Good Samaritan | 90.00% | ~471,000 |
-| Rebuilding America | 79.00% | ~413,433 |
-| Like and Be Liked | 77.00% | ~402,966 |
-| Apprentice Builder | 72.00% | ~376,800 |
-| A New Day for the UCA | 71.00% | ~371,566 |
-| A Baby Blessing | 64.00% | ~334,933 |
-| Prominent Porter | 64.00% | ~334,933 |
-| Building Bridges | 64.00% | ~334,933 |
-| Well Connected | 61.00% | ~319,233 |
-| The Custom Kid | 60.00% | ~314,000 |
-| Chiral Crafter | 59.00% | ~308,766 |
-| Boots Are a Porter's Best Friend | 59.00% | ~308,766 |
-| The People's Porter | 56.00% | ~293,066 |
-| I Couldn't Hold it In! | 56.00% | ~293,066 |
-| Everyday Delivery | 52.00% | ~272,133 |
-| A Shout in the Dark | 50.00% | ~261,666 |
-| A Thirst for Knowledge | 48.00% | ~251,200 |
-| Snooze 'n' Soothe | 48.00% | ~251,200 |
-| Soothing Sounds | 46.00% | ~240,733 |
-| Catcher Crusher | 45.00% | ~235,500 |
+| Delivering Is What I Do | 92.00% | ~481,468 |
+| Good Samaritan | 90.00% | ~471,002 |
+| Rebuilding America | 79.00% | ~413,435 |
+| Like and Be Liked | 77.00% | ~402,968 |
+| Apprentice Builder | 72.00% | ~376,801 |
+| A New Day for the UCA | 71.00% | ~371,568 |
+| A Baby Blessing | 64.00% | ~334,934 |
+| Prominent Porter | 64.00% | ~334,934 |
+| Building Bridges | 64.00% | ~334,934 |
+| Well Connected | 61.00% | ~319,234 |
+| The Custom Kid | 60.00% | ~314,001 |
+| Chiral Crafter | 59.00% | ~308,768 |
+| Boots Are a Porter's Best Friend | 59.00% | ~308,768 |
+| The People's Porter | 56.00% | ~293,068 |
+| I Couldn't Hold it In! | 56.00% | ~293,068 |
+| Everyday Delivery | 52.00% | ~272,134 |
+| A Shout in the Dark | 50.00% | ~261,668 |
+| A Thirst for Knowledge | 48.00% | ~251,201 |
+| Snooze 'n' Soothe | 48.00% | ~251,201 |
+| Soothing Sounds | 46.00% | ~240,734 |
+| Catcher Crusher | 45.00% | ~235,501 |
 | We Need You | 44.00% | ~230,267 |
-| Sleep Tight, Little BB | 43.00% | ~225,033 |
-| All Roads Lead to the UCA | 39.00% | ~204,100 |
+| Sleep Tight, Little BB | 43.00% | ~225,034 |
+| All Roads Lead to the UCA | 39.00% | ~204,101 |
 | Giver of Gifts | 38.00% | ~198,867 |
-| The Automation Revolution | 36.00% | ~188,400 |
-| Well-Traveled | 36.00% | ~188,400 |
+| The Automation Revolution | 36.00% | ~188,401 |
+| Well-Traveled | 36.00% | ~188,401 |
 | Pathfinder | 35.00% | ~183,167 |
 | I Won't Break | 32.00% | ~167,467 |
 | BB... | 32.00% | ~167,467 |
 | The World's Most Popular Porter | 29.00% | ~151,767 |
-| Pumped Porter | 28.00% | ~146,533 |
-| We're Whole Again | 28.00% | ~146,533 |
-| Soak and Sigh | 25.00% | ~130,833 |
-| BBs: A Bridge Between This World and the One Beyond | 25.00% | ~130,833 |
-| "BB" | 25.00% | ~130,833 |
+| Pumped Porter | 28.00% | ~146,534 |
+| We're Whole Again | 28.00% | ~146,534 |
+| Soak and Sigh | 25.00% | ~130,834 |
+| BBs: A Bridge Between This World and the One Beyond | 25.00% | ~130,834 |
+| "BB" | 25.00% | ~130,834 |
 | Deliveries Done | 24.00% | ~125,600 |
-| Sixty Deaths and Sixty Births in a Day | 22.00% | ~115,133 |
+| Sixty Deaths and Sixty Births in a Day | 22.00% | ~115,134 |
 | The Particle of God | 21.00% | ~109,900 |
 | I'm Your Die-Hardman | 21.00% | ~109,900 |
 | Bring Back My Baby | 21.00% | ~109,900 |
 | She's waiting for you on the Beach. | 20.00% | ~104,667 |
 | Thank You, Sam | 20.00% | ~104,667 |
-| Thanks for Everything | 19.00% | ~99,433 |
-| The Post Guides the Present | 16.00% | ~83,733 |
-| Rest In Pieces | 16.00% | ~83,733 |
+| Thanks for Everything | 19.00% | ~99,434 |
+| The Post Guides the Present | 16.00% | ~83,734 |
+| Rest In Pieces | 16.00% | ~83,734 |
 | Hooked on Delivering!? | 15.00% | ~78,500 |
-| Childminder | 13.00% | ~68,033 |
+| Childminder | 13.00% | ~68,034 |
 | Public Service Porter | 12.00% | ~62,800 |
 | God Particle Go-Getter | 9.00% | ~47,100 |
 | A Helping Hand | 5.00% | ~26,167 |
@@ -70,8 +70,8 @@ Number of Ratings: 3,099  (23.09.2022)
 | Greatest of Great Deliverers | 0.40% | ~2,093 |
 | Homo Faber | 0.40% | ~2,093 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 523,333 (Ranked 32)  
-Completed: 1,924 (0.37%) (Ranked 159)  
+Progressed: 523,335 (Ranked 32)  
+Completed: 1,925 (0.37%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -189,7 +189,7 @@ Completed: 1,924 (0.37%) (Ranked 159)
 | 2023-08-14 | 522,702 | 1,919 |
 | 2023-08-15 | 522,911 | 1,921 |
 | 2023-08-16 | 523,114 | 1,923 |
-| 2023-08-17 | 523,333 | 1,924 |
+| 2023-08-17 | 523,335 | 1,925 |
 ## Awards
 Max (Great Boss Battles): 7,970  (Ranked 41)  
 Sum: 13,559 (Ranked 71)  

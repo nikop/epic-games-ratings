@@ -3048,9 +3048,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 71951,
+  "EOS_Progressed": 71953,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 298,
+  "EOS_NewPlayers": 300,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -15508,6 +15508,11 @@
       "Time": "2023-08-17T19:06:23.5247474+00:00",
       "NumProgressed": 71951,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-08-17T21:06:20.5718633+00:00",
+      "NumProgressed": 71953,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 37,
@@ -15663,7 +15668,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 46768
+      "UsersEstimate": 46769
     },
     {
       "ID": "ACH_0210",
@@ -15671,7 +15676,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 53244
+      "UsersEstimate": 53245
     },
     {
       "ID": "ACH_0211",
@@ -15687,7 +15692,7 @@
       "Name": "Too Old for This",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 33817
+      "UsersEstimate": 33818
     },
     {
       "ID": "ACH_0300",
@@ -15735,7 +15740,7 @@
       "Name": "Case Closed",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 25183
+      "UsersEstimate": 25184
     },
     {
       "ID": "ACH_0420",
@@ -15743,7 +15748,7 @@
       "Name": "King of the Hill",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 24463
+      "UsersEstimate": 24464
     },
     {
       "ID": "ACH_0430",
@@ -15751,7 +15756,7 @@
       "Name": "Fancy Pants",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 25183
+      "UsersEstimate": 25184
     },
     {
       "ID": "ACH_0431",
@@ -15814,22 +15819,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 71951,
+      "Progressed": 71953,
       "Completed": 40
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 298,
-      "Completed": 298
+      "Progressed": 300,
+      "Completed": 300
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-08-17T13:00:02.1804611+00:00",
-  "LastChanged_Achievements": "2023-08-17T20:06:18.6375188+00:00",
+  "LastChanged_Achievements": "2023-08-17T21:06:20.5718628+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:57.6056168+00:00",
-  "LastUpdate_Ratings": "2023-08-17T19:57:05.3549859+00:00",
-  "LastUpdate_Achievements": "2023-08-17T20:06:18.6376015+00:00"
+  "LastUpdate_Ratings": "2023-08-17T20:57:25.8107011+00:00",
+  "LastUpdate_Achievements": "2023-08-17T21:06:20.5719684+00:00"
 }

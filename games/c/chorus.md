@@ -12,11 +12,11 @@ Number of Ratings: 58  (23.09.2022)
 | Demigod | 75.00% | ~850 |
 | The Great Destroyer | 74.00% | ~838 |
 | Shields Down | 71.00% | ~804 |
+| Helping Hand | 67.00% | ~759 |
 | Safe Home | 67.00% | ~759 |
-| Helping Hand | 66.00% | ~748 |
-| Paragon | 62.00% | ~702 |
+| Paragon | 63.00% | ~714 |
 | Old Days Born Anew | 61.00% | ~691 |
-| Full Arsenal | 56.00% | ~634 |
+| Full Arsenal | 57.00% | ~646 |
 | Controlled Demolition | 55.00% | ~623 |
 | Payback | 53.00% | ~600 |
 | Huntress | 52.00% | ~589 |
@@ -38,7 +38,7 @@ Number of Ratings: 58  (23.09.2022)
 | Ghosts | 25.00% | ~283 |
 | Two Birds | 25.00% | ~283 |
 | Uneasy Alliance | 24.00% | ~272 |
-| Mastery of Combat | 21.00% | ~238 |
+| Mastery of Combat | 22.00% | ~249 |
 | Retaliate | 21.00% | ~238 |
 | Mastery of Rites | 20.00% | ~227 |
 | Power Chord | 20.00% | ~227 |

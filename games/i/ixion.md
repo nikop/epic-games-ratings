@@ -5,24 +5,24 @@ Rating: 4.56 (Ranked 472)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 26.00% | ~800 |
+| Wakey Wakey | 26.00% | ~801 |
 | Sputnik 2049 | 22.00% | ~677 |
-| Infinite Growth... | 21.00% | ~646 |
-| Without Breaking Some Eggs... | 20.00% | ~615 |
+| Infinite Growth... | 21.00% | ~647 |
+| Without Breaking Some Eggs... | 20.00% | ~616 |
 | A Thousand Strong | 15.00% | ~462 |
 | Ready for a New World | 15.00% | ~462 |
 | Space Society | 14.00% | ~431 |
 | Permanent Redesigns | 13.00% | ~400 |
-| Guy de Borderlands | 11.00% | ~338 |
-| Fully Recycled | 11.00% | ~338 |
-| Ain't Nobody Got Time for That | 11.00% | ~338 |
-| The Ship of Theseus | 11.00% | ~338 |
+| Guy de Borderlands | 11.00% | ~339 |
+| Fully Recycled | 11.00% | ~339 |
+| Ain't Nobody Got Time for That | 11.00% | ~339 |
+| The Ship of Theseus | 11.00% | ~339 |
 | Hope Seeker | 10.00% | ~308 |
 | A Hunk of Junk | 9.00% | ~277 |
 | Exceeding Capacity | 9.00% | ~277 |
 | Breaking Protocol | 9.00% | ~277 |
-| Power Outage | 7.00% | ~215 |
-| Please Make it Stop! | 7.00% | ~215 |
+| Power Outage | 7.00% | ~216 |
+| Please Make it Stop! | 7.00% | ~216 |
 | Man's Best Friend | 6.00% | ~185 |
 | Sightseeing | 6.00% | ~185 |
 | Convenient Transport | 6.00% | ~185 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 472)
 | Beyond Time and Space | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,077 (Ranked 158)  
+Progressed: 3,079 (Ranked 158)  
 Completed: 0 (0.00%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 0 (0.00%) (Ranked 259)
 | 2023-08-13 | 3,068 | 0 |
 | 2023-08-15 | 3,071 | 0 |
 | 2023-08-16 | 3,075 | 0 |
-| 2023-08-17 | 3,077 | 0 |
+| 2023-08-17 | 3,079 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

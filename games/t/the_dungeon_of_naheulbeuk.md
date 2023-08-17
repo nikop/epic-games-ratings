@@ -6,16 +6,16 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 17.00% | ~36,331 |
+| Sowwy! | 17.00% | ~36,335 |
 | Déjà vu | 1.00% | ~2,137 |
 | Where's that freaking Dwarf? | 1.00% | ~2,137 |
 | Sock! SOCK! | 1.00% | ~2,137 |
 | Alt+F4 | 1.00% | ~2,137 |
 | A beer, two curses, three companions | 0.80% | ~1,710 |
 | Speedrun | 0.80% | ~1,710 |
+| Fireproof Wizardess | 0.80% | ~1,710 |
 | GG EZ | 0.70% | ~1,496 |
 | DM intervention | 0.70% | ~1,496 |
-| Fireproof Wizardess | 0.70% | ~1,496 |
 | Way of the Wimp | 0.60% | ~1,282 |
 | Livin' in a dwarven paradise | 0.50% | ~1,069 |
 | The plot thickens... At the tavern | 0.50% | ~1,069 |
@@ -43,6 +43,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dead for good | 0.20% | ~427 |
 | Gargantua | 0.20% | ~427 |
 | In Navalu's footsteps | 0.20% | ~427 |
+| Lëgal Legend | 0.20% | ~427 |
 | Lust and Debauchery | 0.20% | ~427 |
 | Material Girl | 0.20% | ~427 |
 | Cursed die | 0.10% | ~214 |
@@ -89,13 +90,12 @@ Number of Ratings: 118  (23.09.2022)
 | Inception | 0.10% | ~214 |
 | It's been a hard day's night | 0.10% | ~214 |
 | Demisemiquaver | 0.10% | ~214 |
-| Lëgal Legend | 0.10% | ~214 |
 | Dumb and dumber | 0.10% | ~214 |
 | Dwarf Candy | 0.10% | ~214 |
 | Staff cut | 0.00% | ~0 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 213,712 (Ranked 56)  
+Progressed: 213,735 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,7 +173,7 @@ Completed: 2 (0.00%) (Ranked 259)
 | 2023-08-14 | 212,372 | 2 |
 | 2023-08-15 | 212,897 | 2 |
 | 2023-08-16 | 213,341 | 2 |
-| 2023-08-17 | 213,712 | 2 |
+| 2023-08-17 | 213,735 | 2 |
 ## Awards
 Max (Character Customization): 166  (Ranked 289)  
 Sum: 207 (Ranked 366)  

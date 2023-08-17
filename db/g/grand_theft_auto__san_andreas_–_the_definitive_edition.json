@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 44,
+  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -706,9 +706,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 11988,
+  "EOS_Progressed": 11990,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -9051,6 +9051,11 @@
       "Time": "2023-08-17T18:02:14.3990687+00:00",
       "NumProgressed": 11988,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-08-17T21:02:20.731059+00:00",
+      "NumProgressed": 11990,
+      "NumCompleted": 39
     }
   ],
   "TotalAchievements": 35,
@@ -9062,7 +9067,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9710
+      "UsersEstimate": 9712
     },
     {
       "ID": "ACH02",
@@ -9118,7 +9123,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 6114
+      "UsersEstimate": 6115
     },
     {
       "ID": "ACH09",
@@ -9174,7 +9179,7 @@
       "Name": "They Can\u2019t Stop All of Us",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "ACH16",
@@ -9206,7 +9211,7 @@
       "Name": "Rescue a Kitten Too?",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "ACH20",
@@ -9236,9 +9241,9 @@
       "ID": "ACH23",
       "SetID": "4ck5mbe",
       "Name": "All Dressed Up for San Fierro",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 3117
+      "UsersEstimate": 2998
     },
     {
       "ID": "ACH24",
@@ -9341,7 +9346,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11988,
+      "Progressed": 11990,
       "Completed": 39
     }
   ],
@@ -9349,8 +9354,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-08-17T07:57:54.9555591+00:00",
-  "LastChanged_Achievements": "2023-08-17T20:02:21.2700397+00:00",
+  "LastChanged_Achievements": "2023-08-17T21:02:20.7310584+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:11.1716171+00:00",
-  "LastUpdate_Ratings": "2023-08-17T19:57:24.4396797+00:00",
-  "LastUpdate_Achievements": "2023-08-17T20:02:21.2700978+00:00"
+  "LastUpdate_Ratings": "2023-08-17T20:57:43.8051374+00:00",
+  "LastUpdate_Achievements": "2023-08-17T21:02:20.7311387+00:00"
 }

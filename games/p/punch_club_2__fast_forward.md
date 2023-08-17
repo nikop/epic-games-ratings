@@ -62,14 +62,14 @@
 | Trap disarmed | 31.00% | ~79 |
 | Another world | 31.00% | ~79 |
 | The lonesome road | 31.00% | ~79 |
+| Keep nature safe | 31.00% | ~79 |
 | Family comes first | 31.00% | ~79 |
 | Key memories | 31.00% | ~79 |
 | The last bell ring | 31.00% | ~79 |
 | The heart of the Resistance | 31.00% | ~79 |
-| Keep nature safe | 30.00% | ~76 |
 | Silver’s past | 27.00% | ~69 |
 | Better cooking at home | 27.00% | ~69 |
-| The only right decision | 26.00% | ~66 |
+| The only right decision | 27.00% | ~69 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 255 (Ranked 270)  
 Completed: 8 (3.14%) (Ranked 69)  

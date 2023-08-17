@@ -78,6 +78,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Beloved | 0.70% | ~94 |
 | Conqueror | 0.70% | ~94 |
 | Mighty | 0.70% | ~94 |
+| Victorious | 0.70% | ~94 |
 | Patrons | 0.70% | ~94 |
 | Statesmen | 0.70% | ~94 |
 | Temple of Solomon | 0.70% | ~94 |
@@ -85,7 +86,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Building Wonders | 0.70% | ~94 |
 | Lion | 0.60% | ~81 |
 | Subjugator | 0.60% | ~81 |
-| Victorious | 0.60% | ~81 |
 | Good Difficulty | 0.60% | ~81 |
 | Traders | 0.60% | ~81 |
 | Hittite Iron | 0.60% | ~81 |

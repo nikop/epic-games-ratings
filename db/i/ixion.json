@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -260,9 +260,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3077,
+  "EOS_Progressed": 3079,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4570,6 +4570,11 @@
       "Time": "2023-08-17T18:07:07.4983988+00:00",
       "NumProgressed": 3077,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-17T21:06:25.151691+00:00",
+      "NumProgressed": 3079,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -4581,7 +4586,7 @@
       "Name": "Without Breaking Some Eggs...",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 615
+      "UsersEstimate": 616
     },
     {
       "ID": "ACH_BASE_10",
@@ -4645,7 +4650,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 646
+      "UsersEstimate": 647
     },
     {
       "ID": "ACH_BASE_19",
@@ -4661,7 +4666,7 @@
       "Name": "Guy de Borderlands",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "ACH_BASE_21",
@@ -4669,7 +4674,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 800
+      "UsersEstimate": 801
     },
     {
       "ID": "ACH_BASE_22",
@@ -4757,7 +4762,7 @@
       "Name": "Power Outage",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "ACH_BASE_32",
@@ -4773,7 +4778,7 @@
       "Name": "Fully Recycled",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "ACH_BASE_34",
@@ -4885,7 +4890,7 @@
       "Name": "Ain\u0027t Nobody Got Time for That",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "ACH_BASE_5",
@@ -4933,7 +4938,7 @@
       "Name": "Please Make it Stop!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "ACH_BASE_57",
@@ -4957,7 +4962,7 @@
       "Name": "The Ship of Theseus",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "ACH_BASE_6",
@@ -5036,13 +5041,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1259,
+      "Progressed": 1261,
       "Completed": 6
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3077,
+      "Progressed": 3079,
       "Completed": 0
     }
   ],
@@ -5050,8 +5055,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-08-15T09:00:10.9455406+00:00",
-  "LastChanged_Achievements": "2023-08-17T20:06:23.6378762+00:00",
+  "LastChanged_Achievements": "2023-08-17T21:06:25.1516903+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:14.5462015+00:00",
-  "LastUpdate_Ratings": "2023-08-17T19:59:24.7002941+00:00",
-  "LastUpdate_Achievements": "2023-08-17T20:06:23.6379421+00:00"
+  "LastUpdate_Ratings": "2023-08-17T20:59:46.9748114+00:00",
+  "LastUpdate_Achievements": "2023-08-17T21:06:25.1517764+00:00"
 }
