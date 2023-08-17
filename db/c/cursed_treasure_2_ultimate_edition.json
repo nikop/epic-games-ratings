@@ -4,8 +4,8 @@
   "ProductSlug": "cursed-treasure-2-ultimate-edition-2ebbb4",
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 19,
-  "Ranking_EOS_NewPlayers": 357,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2022-07-14T10:30:00+00:00",
     "PcReleaseDate": "2022-07-14T11:30:00+00:00",
@@ -28,10 +28,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 165,
-  "EOS_Completed": 23,
+  "EOS_Completed": 24,
   "EOS_NewPlayers": 0,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 13.94,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 14.55,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:52.0136119+00:00",
@@ -167,6 +167,11 @@
       "Time": "2023-08-08T17:05:17.4097924+00:00",
       "NumProgressed": 165,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-08-17T01:42:34.4277796+00:00",
+      "NumProgressed": 165,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 53,
@@ -480,9 +485,9 @@
       "ID": "BADGE_HOSTILE_WATERS",
       "SetID": "ak6pfjk",
       "Name": "Hostile Waters",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 28
+      "UsersEstimate": 30
     },
     {
       "ID": "BADGE_LOVELESS",
@@ -602,15 +607,15 @@
       "ID": "ak6pfjk",
       "IsBase": true,
       "Progressed": 165,
-      "Completed": 23
+      "Completed": 24
     }
   ],
   "FirstSeen": "2022-07-22T20:22:36.5493914+00:00",
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-08-17T00:06:30.1205961+00:00",
+  "LastChanged_Achievements": "2023-08-17T01:42:34.4277791+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:19.4683663+00:00",
-  "LastUpdate_Ratings": "2023-08-17T00:01:01.8393725+00:00",
-  "LastUpdate_Achievements": "2023-08-17T00:06:30.1206438+00:00"
+  "LastUpdate_Ratings": "2023-08-17T01:37:02.9734998+00:00",
+  "LastUpdate_Achievements": "2023-08-17T01:42:34.427814+00:00"
 }

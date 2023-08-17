@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 187,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1202,9 +1202,9 @@
       "Count": 67
     }
   ],
-  "EOS_Progressed": 5323,
+  "EOS_Progressed": 5324,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -7602,6 +7602,11 @@
       "Time": "2023-08-16T22:04:37.2251483+00:00",
       "NumProgressed": 5323,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-08-17T01:42:09.1651922+00:00",
+      "NumProgressed": 5324,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 31,
@@ -7613,7 +7618,7 @@
       "Name": "Get A Room",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 3939
+      "UsersEstimate": 3940
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -7645,7 +7650,7 @@
       "Name": "Green Thumb",
       "Percentage": 66,
       "XP": 50,
-      "UsersEstimate": 3513
+      "UsersEstimate": 3514
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -7653,7 +7658,7 @@
       "Name": "Having A Field Day",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 3939
+      "UsersEstimate": 3940
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -7661,7 +7666,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 3779
+      "UsersEstimate": 3780
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -7725,7 +7730,7 @@
       "Name": "Retribution",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 2129
+      "UsersEstimate": 2130
     },
     {
       "ID": "PRODUCE_AT_CAMPFIRE",
@@ -7733,7 +7738,7 @@
       "Name": "Home Cooked Meal",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 3034
+      "UsersEstimate": 3035
     },
     {
       "ID": "STORE_NUTRITION_10000",
@@ -7741,7 +7746,7 @@
       "Name": "Feast or Famine",
       "Percentage": 49,
       "XP": 25,
-      "UsersEstimate": 2608
+      "UsersEstimate": 2609
     },
     {
       "ID": "STORE_NUTRITION_20000",
@@ -7781,7 +7786,7 @@
       "Name": "...And Don\u2019t Come Back!",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2129
+      "UsersEstimate": 2130
     },
     {
       "ID": "SURVIVE_FIRST_SUMMER",
@@ -7797,7 +7802,7 @@
       "Name": "Winter Is Here",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1224
+      "UsersEstimate": 1225
     },
     {
       "ID": "SURVIVE_FIRST_YEAR",
@@ -7813,7 +7818,7 @@
       "Name": "The First Week",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 2821
+      "UsersEstimate": 2822
     },
     {
       "ID": "UNLOCK_RESEARCH",
@@ -7821,7 +7826,7 @@
       "Name": "Novice Researcher",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 3460
+      "UsersEstimate": 3461
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -7829,7 +7834,7 @@
       "Name": "Adept Researcher",
       "Percentage": 44,
       "XP": 75,
-      "UsersEstimate": 2342
+      "UsersEstimate": 2343
     },
     {
       "ID": "UNLOCK_RESEARCH_25",
@@ -7860,15 +7865,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 5323,
+      "Progressed": 5324,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-08-16T08:01:51.9709011+00:00",
-  "LastChanged_Achievements": "2023-08-17T00:05:55.629443+00:00",
+  "LastChanged_Achievements": "2023-08-17T01:42:09.1651918+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:55.0917319+00:00",
-  "LastUpdate_Ratings": "2023-08-17T00:02:47.191017+00:00",
-  "LastUpdate_Achievements": "2023-08-17T00:05:55.6295299+00:00"
+  "LastUpdate_Ratings": "2023-08-17T01:39:07.8550056+00:00",
+  "LastUpdate_Achievements": "2023-08-17T01:42:09.165241+00:00"
 }

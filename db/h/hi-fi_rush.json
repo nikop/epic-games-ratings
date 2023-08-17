@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -118,9 +118,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3937,
+  "EOS_Progressed": 3939,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -6033,6 +6033,11 @@
       "Time": "2023-08-16T19:05:47.5814212+00:00",
       "NumProgressed": 3937,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-08-17T01:42:50.5274359+00:00",
+      "NumProgressed": 3939,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 71,
@@ -6076,7 +6081,7 @@
       "Name": "Headliner",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "Ach006",
@@ -6084,7 +6089,7 @@
       "Name": "Time to pay up!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "Ach007",
@@ -6092,7 +6097,7 @@
       "Name": "Who\u0027s the boss now?",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "Ach008",
@@ -6204,7 +6209,7 @@
       "Name": "I have to read these things?",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "Ach022",
@@ -6244,7 +6249,7 @@
       "Name": "You must like calling me in, Chai",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "Ach027",
@@ -6266,9 +6271,9 @@
       "ID": "Ach029",
       "SetID": "12n4k20",
       "Name": "Out in a puff of smoke",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 157
+      "UsersEstimate": 197
     },
     {
       "ID": "Ach030",
@@ -6292,7 +6297,7 @@
       "Name": "Perfecter Parry-er!",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "Ach033",
@@ -6348,7 +6353,7 @@
       "Name": "First we parry, then we counter",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "Ach040",
@@ -6412,7 +6417,7 @@
       "Name": "Who put gears in there?",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "Ach048",
@@ -6611,13 +6616,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 3937,
+      "Progressed": 3939,
       "Completed": 7
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2458,
+      "Progressed": 2460,
       "Completed": 1929
     }
   ],
@@ -6625,8 +6630,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-08-10T23:00:09.4128826+00:00",
-  "LastChanged_Achievements": "2023-08-17T00:06:52.7202683+00:00",
+  "LastChanged_Achievements": "2023-08-17T01:42:50.5274353+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:15.2039204+00:00",
-  "LastUpdate_Ratings": "2023-08-17T00:00:57.138207+00:00",
-  "LastUpdate_Achievements": "2023-08-17T00:06:52.7203797+00:00"
+  "LastUpdate_Ratings": "2023-08-17T01:37:00.7643439+00:00",
+  "LastUpdate_Achievements": "2023-08-17T01:42:50.5275202+00:00"
 }

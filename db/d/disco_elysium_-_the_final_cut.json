@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 235,
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 81,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1253,9 +1253,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 126339,
+  "EOS_Progressed": 126342,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 404,
+  "EOS_NewPlayers": 403,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -13028,6 +13028,11 @@
       "Time": "2023-08-17T00:05:45.9389947+00:00",
       "NumProgressed": 126339,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-08-17T01:42:02.2854033+00:00",
+      "NumProgressed": 126342,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 40,
@@ -13071,7 +13076,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 22741
+      "UsersEstimate": 22742
     },
     {
       "ID": "ACH_COP_BAD",
@@ -13095,7 +13100,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 30321
+      "UsersEstimate": 30322
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -13119,7 +13124,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 35375
+      "UsersEstimate": 35376
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -13143,7 +13148,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20214
+      "UsersEstimate": 20215
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -13183,7 +13188,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 13897
+      "UsersEstimate": 13898
     },
     {
       "ID": "ACH_CUNO",
@@ -13231,7 +13236,7 @@
       "Name": "Hardie\u0027s Heroes",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 7580
+      "UsersEstimate": 7581
     },
     {
       "ID": "ACH_ICEBREAKER",
@@ -13255,7 +13260,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 17687
+      "UsersEstimate": 17688
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -13358,15 +13363,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 126339,
+      "Progressed": 126342,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-08-15T15:00:55.7561731+00:00",
-  "LastChanged_Achievements": "2023-08-17T00:05:45.9389942+00:00",
+  "LastChanged_Achievements": "2023-08-17T01:42:02.2854029+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:59.4029348+00:00",
-  "LastUpdate_Ratings": "2023-08-17T00:01:55.3208381+00:00",
-  "LastUpdate_Achievements": "2023-08-17T00:05:45.9391508+00:00"
+  "LastUpdate_Ratings": "2023-08-17T01:37:37.8554592+00:00",
+  "LastUpdate_Achievements": "2023-08-17T01:42:02.285485+00:00"
 }

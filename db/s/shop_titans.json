@@ -4,7 +4,7 @@
   "ProductSlug": "shop-titans-d95c1c",
   "Ranking_Rating": 931,
   "Ranking_Popularity": 71,
-  "Ranking_PopularitySum": 47,
+  "Ranking_PopularitySum": 46,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 83,
@@ -5626,9 +5626,9 @@
       "Count": 3734
     }
   ],
-  "EOS_Progressed": 134623,
+  "EOS_Progressed": 134626,
   "EOS_Completed": 133,
-  "EOS_NewPlayers": 399,
+  "EOS_NewPlayers": 397,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -17731,6 +17731,11 @@
       "Time": "2023-08-17T00:06:48.7386412+00:00",
       "NumProgressed": 134623,
       "NumCompleted": 133
+    },
+    {
+      "Time": "2023-08-17T01:42:47.6763483+00:00",
+      "NumProgressed": 134626,
+      "NumCompleted": 133
     }
   ],
   "TotalAchievements": 112,
@@ -17742,7 +17747,7 @@
       "Name": "The Daily Grind",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "advlevel02",
@@ -17878,7 +17883,7 @@
       "Name": "Bounty Hunters",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "boss02",
@@ -17982,7 +17987,7 @@
       "Name": "Demand for Supplies",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "commonres03",
@@ -18014,7 +18019,7 @@
       "Name": "Flooding the Market",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "craft03",
@@ -18046,7 +18051,7 @@
       "Name": "Where it Hurts",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "damage02",
@@ -18230,7 +18235,7 @@
       "Name": "Gild-Gotten Goods",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "gold04",
@@ -18334,7 +18339,7 @@
       "Name": "Accomplished Merchant",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "level03",
@@ -18366,7 +18371,7 @@
       "Name": "Dungeon Imports",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "loot02",
@@ -18454,7 +18459,7 @@
       "Name": "Did we pack lunch?",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "quest02",
@@ -18637,15 +18642,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 134623,
+      "Progressed": 134626,
       "Completed": 133
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-08-16T16:00:12.2700007+00:00",
-  "LastChanged_Achievements": "2023-08-17T00:06:48.7386405+00:00",
+  "LastChanged_Achievements": "2023-08-17T01:42:47.676348+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:13.9096409+00:00",
-  "LastUpdate_Ratings": "2023-08-17T00:00:54.7259714+00:00",
-  "LastUpdate_Achievements": "2023-08-17T00:06:48.7389181+00:00"
+  "LastUpdate_Ratings": "2023-08-17T01:36:57.8361058+00:00",
+  "LastUpdate_Achievements": "2023-08-17T01:42:47.6765195+00:00"
 }

@@ -1,11 +1,11 @@
 # Railway Empire 2
 [Store](https://store.epicgames.com/en-US/p/railway-empire-2-46840c)  
 [View Rawdata](../../db/r/railway_empire_2.json)  
-Rating: 4.50 (Ranked 559)  
+Rating: 4.51 (Ranked 541)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 75.00% | ~1,351 |
+| Country Bumpkin | 75.00% | ~1,352 |
 | A new Journey | 74.00% | ~1,333 |
 | Departure | 73.00% | ~1,315 |
 | From X to Y | 72.00% | ~1,297 |
@@ -19,20 +19,20 @@ Rating: 4.50 (Ranked 559)
 | Right through the middle | 57.00% | ~1,027 |
 | Poor Devil | 54.00% | ~973 |
 | Facility Manager | 53.00% | ~955 |
-| Producer | 50.00% | ~900 |
-| Apprentice | 42.00% | ~756 |
-| Bridge Builder | 41.00% | ~738 |
-| Access granted | 35.00% | ~630 |
-| Going once, going twice, sold | 35.00% | ~630 |
-| Stoker | 33.00% | ~594 |
-| Bull and bear | 33.00% | ~594 |
-| Full Steam ahead | 32.00% | ~576 |
-| Mole | 30.00% | ~540 |
-| Financial Shark | 30.00% | ~540 |
-| All mine | 29.00% | ~522 |
-| Socializer | 29.00% | ~522 |
-| Country Life | 27.00% | ~486 |
-| General Manager | 26.00% | ~468 |
+| Producer | 50.00% | ~901 |
+| Apprentice | 42.00% | ~757 |
+| Bridge Builder | 41.00% | ~739 |
+| Access granted | 35.00% | ~631 |
+| Going once, going twice, sold | 35.00% | ~631 |
+| Stoker | 33.00% | ~595 |
+| Bull and bear | 33.00% | ~595 |
+| Full Steam ahead | 32.00% | ~577 |
+| Mole | 30.00% | ~541 |
+| Financial Shark | 30.00% | ~541 |
+| All mine | 29.00% | ~523 |
+| Socializer | 29.00% | ~523 |
+| Country Life | 27.00% | ~487 |
+| General Manager | 26.00% | ~469 |
 | Hostile Takeover | 25.00% | ~450 |
 | Seven at one stroke | 24.00% | ~432 |
 | Trailblazer | 21.00% | ~378 |
@@ -61,7 +61,7 @@ Rating: 4.50 (Ranked 559)
 | Together we stand | 0.60% | ~11 |
 | Three Cheers for Progress | 0.40% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,801 (Ranked 173)  
+Progressed: 1,802 (Ranked 173)  
 Completed: 0 (0.00%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,6 +156,7 @@ Completed: 0 (0.00%) (Ranked 258)
 | 2023-08-14 | 1,794 | 0 |
 | 2023-08-15 | 1,799 | 0 |
 | 2023-08-16 | 1,801 | 0 |
+| 2023-08-17 | 1,802 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -177,3 +178,4 @@ Completed: 0 (0.00%) (Ranked 258)
 | 2023-07-31 | 4.48 | 0 | 0 |
 | 2023-08-08 | 4.49 | 0 | 0 |
 | 2023-08-12 | 4.50 | 0 | 0 |
+| 2023-08-17 | 4.51 | 0 | 0 |

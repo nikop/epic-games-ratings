@@ -11,7 +11,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Hunt for The Last Breath | 0.40% | ~755 |
 | The Cursed Farmer | 0.30% | ~668 |
 | The Mad Wizard | 0.30% | ~668 |
-| To Infinity's and Beyond | 0.30% | ~566 |
+| To Infinity's and Beyond | 0.30% | ~567 |
 | Were-verpowered | 0.20% | ~445 |
 | The Ring of Regeneration | 0.20% | ~445 |
 | Seeking Allies | 0.20% | ~445 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~189 |
 | Animated Giff | 0.10% | ~189 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 222,542 (Ranked 53)  
+Progressed: 222,569 (Ranked 53)  
 Completed: 2,186 (0.98%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -642,10 +642,10 @@ Completed: 2,186 (0.98%) (Ranked 118)
 | 2023-08-14 | 221,929 | 2,181 |
 | 2023-08-15 | 222,230 | 2,183 |
 | 2023-08-16 | 222,534 | 2,186 |
-| 2023-08-17 | 222,542 | 2,186 |
+| 2023-08-17 | 222,569 | 2,186 |
 ## Awards
 Max (Diverse Characters): 5,152  (Ranked 68)  
-Sum: 31,076 (Ranked 38)  
+Sum: 31,078 (Ranked 38)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -655,7 +655,7 @@ Diff (max vs sum): 30
 | This game is Relaxing | 4,611 |
 | This game has Amazing Characters | 4,072 |
 | This game is Highly Recommended | 4,053 |
-| This game has Playful Visuals | 3,355 |
+| This game has Playful Visuals | 3,357 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -862,3 +862,4 @@ Diff (max vs sum): 30
 | 2023-08-14 | 4.06 | - | 5,148 | 31,054 |
 | 2023-08-15 | 4.06 | - | 5,152 | 31,062 |
 | 2023-08-16 | 4.06 | - | 5,152 | 31,076 |
+| 2023-08-17 | 4.06 | - | 5,152 | 31,078 |

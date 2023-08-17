@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 258,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -6435,9 +6435,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 59012,
+  "EOS_Progressed": 59013,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 467,
+  "EOS_NewPlayers": 465,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18925,6 +18925,11 @@
       "Time": "2023-08-17T00:05:48.4793578+00:00",
       "NumProgressed": 59012,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-17T01:42:04.0937438+00:00",
+      "NumProgressed": 59013,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -18992,7 +18997,7 @@
       "Name": "Crowdfunded",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2360
+      "UsersEstimate": 2361
     },
     {
       "ID": "Crackshot",
@@ -19008,7 +19013,7 @@
       "Name": "Crush your enemies",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2360
+      "UsersEstimate": 2361
     },
     {
       "ID": "Duelist",
@@ -19328,7 +19333,7 @@
       "Name": "Veni vidi vici",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2360
+      "UsersEstimate": 2361
     },
     {
       "ID": "What have the Romans ever done for us",
@@ -19343,15 +19348,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 59012,
+      "Progressed": 59013,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-08-17T00:02:40.2763173+00:00",
-  "LastChanged_Achievements": "2023-08-17T00:05:48.4793572+00:00",
+  "LastChanged_Achievements": "2023-08-17T01:42:04.0937434+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:44.6335832+00:00",
   "LastUpdate_Ratings": "2023-08-17T00:02:40.2763181+00:00",
-  "LastUpdate_Achievements": "2023-08-17T00:05:48.4794971+00:00"
+  "LastUpdate_Achievements": "2023-08-17T01:42:04.0938435+00:00"
 }

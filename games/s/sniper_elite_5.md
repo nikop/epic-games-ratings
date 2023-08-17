@@ -5,13 +5,13 @@ Rating: 4.45 (Ranked 633)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 45.00% | ~1,569 |
+| Meeting Resistance | 45.00% | ~1,570 |
 | Confirming Suspicions | 40.00% | ~1,395 |
-| The Kraken Wakes | 35.00% | ~1,220 |
+| The Kraken Wakes | 35.00% | ~1,221 |
 | It's Starting to Crack | 32.00% | ~1,116 |
-| Lord of War | 29.00% | ~1,011 |
-| Change the Channel | 29.00% | ~1,011 |
-| Taking it back | 27.00% | ~941 |
+| Lord of War | 29.00% | ~1,012 |
+| Change the Channel | 29.00% | ~1,012 |
+| Taking it back | 27.00% | ~942 |
 | Resourceful | 26.00% | ~907 |
 | Target America | 25.00% | ~872 |
 | The Kraken Sleeps | 23.00% | ~802 |
@@ -32,8 +32,8 @@ Rating: 4.45 (Ranked 633)
 | Fields of Glory | 13.00% | ~453 |
 | Skirmisher | 13.00% | ~453 |
 | Die Nussknacker Sweet! | 13.00% | ~453 |
-| No Stone Unturned | 12.00% | ~418 |
-| Set Europe Ablaze | 12.00% | ~418 |
+| No Stone Unturned | 12.00% | ~419 |
+| Set Europe Ablaze | 12.00% | ~419 |
 | Precision Is Key | 9.00% | ~314 |
 | My Little Friend | 9.00% | ~314 |
 | Rigged to Blow | 8.00% | ~279 |
@@ -42,10 +42,10 @@ Rating: 4.45 (Ranked 633)
 | It'll Buff Right Out | 5.00% | ~174 |
 | Don't hold your breath | 5.00% | ~174 |
 | Operation Foxley | 5.00% | ~172 |
-| Strategist | 4.00% | ~139 |
-| Tinkerer | 4.00% | ~139 |
-| Locomotion Commotion | 4.00% | ~139 |
-| Road Rage | 4.00% | ~139 |
+| Strategist | 4.00% | ~140 |
+| Tinkerer | 4.00% | ~140 |
+| Locomotion Commotion | 4.00% | ~140 |
+| Road Rage | 4.00% | ~140 |
 | Last Resort | 4.00% | ~138 |
 | Siegebreaker | 4.00% | ~138 |
 | Ghost of Falaise | 4.00% | ~138 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 633)
 | Stroll in the Woods | 0.60% | ~21 |
 | Going Overboard | 0.60% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,487 (Ranked 150)  
+Progressed: 3,488 (Ranked 150)  
 Completed: 9 (0.26%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 9 (0.26%) (Ranked 174)
 | 2023-08-14 | 3,472 | 9 |
 | 2023-08-15 | 3,481 | 9 |
 | 2023-08-16 | 3,486 | 9 |
-| 2023-08-17 | 3,487 | 9 |
+| 2023-08-17 | 3,488 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

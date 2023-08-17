@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 292,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
     "PcReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -368,7 +368,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12792,
+  "EOS_Progressed": 12793,
   "EOS_Completed": 42,
   "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
@@ -7363,6 +7363,11 @@
       "Time": "2023-08-17T00:05:48.1553701+00:00",
       "NumProgressed": 12792,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-08-17T01:42:03.8645244+00:00",
+      "NumProgressed": 12793,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 35,
@@ -7374,7 +7379,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 11769
+      "UsersEstimate": 11770
     },
     {
       "ID": "ACH_02",
@@ -7390,7 +7395,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 9466
+      "UsersEstimate": 9467
     },
     {
       "ID": "ACH_04",
@@ -7398,7 +7403,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 8954
+      "UsersEstimate": 8955
     },
     {
       "ID": "ACH_05",
@@ -7422,7 +7427,7 @@
       "Name": "Felons",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 7931
+      "UsersEstimate": 7932
     },
     {
       "ID": "ACH_08",
@@ -7430,7 +7435,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 7675
+      "UsersEstimate": 7676
     },
     {
       "ID": "ACH_09",
@@ -7438,7 +7443,7 @@
       "Name": "Tales and Revelations",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 7291
+      "UsersEstimate": 7292
     },
     {
       "ID": "ACH_10",
@@ -7454,7 +7459,7 @@
       "Name": "The Cradle of Centuries",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 6140
+      "UsersEstimate": 6141
     },
     {
       "ID": "ACH_12",
@@ -7462,7 +7467,7 @@
       "Name": "The Life We Deserve",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 5756
+      "UsersEstimate": 5757
     },
     {
       "ID": "ACH_13",
@@ -7486,7 +7491,7 @@
       "Name": "Dying Sun",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 4221
+      "UsersEstimate": 4222
     },
     {
       "ID": "ACH_16",
@@ -7502,7 +7507,7 @@
       "Name": "Knights!",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 2558
+      "UsersEstimate": 2559
     },
     {
       "ID": "ACH_18",
@@ -7510,7 +7515,7 @@
       "Name": "Herbalist",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 895
+      "UsersEstimate": 896
     },
     {
       "ID": "ACH_19",
@@ -7606,7 +7611,7 @@
       "Name": "Fighter",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 895
+      "UsersEstimate": 896
     },
     {
       "ID": "ACH_31",
@@ -7628,9 +7633,9 @@
       "ID": "ACH_33",
       "SetID": "9d4cf4c",
       "Name": "Perfect throw",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 2686
+      "UsersEstimate": 2814
     },
     {
       "ID": "ACH_34",
@@ -7653,7 +7658,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 12792,
+      "Progressed": 12793,
       "Completed": 42
     }
   ],
@@ -7661,8 +7666,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-07-25T21:01:04.4770621+00:00",
-  "LastChanged_Achievements": "2023-08-17T00:05:48.1553695+00:00",
+  "LastChanged_Achievements": "2023-08-17T01:42:03.8645237+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:12.6361661+00:00",
-  "LastUpdate_Ratings": "2023-08-17T00:02:14.0089915+00:00",
-  "LastUpdate_Achievements": "2023-08-17T00:05:48.1555209+00:00"
+  "LastUpdate_Ratings": "2023-08-17T01:37:51.6172001+00:00",
+  "LastUpdate_Achievements": "2023-08-17T01:42:03.8645783+00:00"
 }

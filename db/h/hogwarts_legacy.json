@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 77,
-  "Ranking_EOS_NewCompleters": 20,
+  "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -6304,18 +6304,24 @@
       "Rating": 4.77,
       "NumberOfAwards": 41080,
       "NumberOfAwardsMax": 21765
+    },
+    {
+      "Time": "2023-08-17T01:35:57.2731656+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 41095,
+      "NumberOfAwardsMax": 21780
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 41080,
-  "NumberOfAwardsMax": 21765,
+  "NumberOfAwards": 41095,
+  "NumberOfAwardsMax": 21780,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 21765
+      "Count": 21780
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -6384,10 +6390,10 @@
       "Count": 593
     }
   ],
-  "EOS_Progressed": 290232,
+  "EOS_Progressed": 290237,
   "EOS_Completed": 452,
-  "EOS_NewPlayers": 492,
-  "EOS_NewCompleters": 8,
+  "EOS_NewPlayers": 491,
+  "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
     {
@@ -19129,6 +19135,11 @@
       "Time": "2023-08-17T00:07:32.5364019+00:00",
       "NumProgressed": 290232,
       "NumCompleted": 452
+    },
+    {
+      "Time": "2023-08-17T01:43:18.1066745+00:00",
+      "NumProgressed": 290237,
+      "NumCompleted": 452
     }
   ],
   "TotalAchievements": 45,
@@ -19188,7 +19199,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20316
+      "UsersEstimate": 20317
     },
     {
       "ID": "PFA_16",
@@ -19204,7 +19215,7 @@
       "Name": "Beast Friends",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20316
+      "UsersEstimate": 20317
     },
     {
       "ID": "PFA_18",
@@ -19212,7 +19223,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20316
+      "UsersEstimate": 20317
     },
     {
       "ID": "PFA_19",
@@ -19220,7 +19231,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 20316
+      "UsersEstimate": 20317
     },
     {
       "ID": "PFA_2",
@@ -19260,7 +19271,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 29023
+      "UsersEstimate": 29024
     },
     {
       "ID": "PFA_24",
@@ -19444,7 +19455,7 @@
       "Name": "The Spell Master",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 20316
+      "UsersEstimate": 20317
     },
     {
       "ID": "PFA_45",
@@ -19484,7 +19495,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 29023
+      "UsersEstimate": 29024
     },
     {
       "ID": "PFA_9",
@@ -19499,16 +19510,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 290232,
+      "Progressed": 290237,
       "Completed": 452
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-08-16T23:59:29.6483177+00:00",
-  "LastChanged_Achievements": "2023-08-17T00:07:32.5364013+00:00",
+  "LastChanged": "2023-08-17T01:35:57.2731655+00:00",
+  "LastChanged_Achievements": "2023-08-17T01:43:18.1066737+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:17.4814985+00:00",
-  "LastUpdate_Ratings": "2023-08-16T23:59:29.6483184+00:00",
-  "LastUpdate_Achievements": "2023-08-17T00:07:32.5365302+00:00"
+  "LastUpdate_Ratings": "2023-08-17T01:35:57.2731659+00:00",
+  "LastUpdate_Achievements": "2023-08-17T01:43:18.1067675+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 50,
   "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 23,
+  "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3109,
+  "EOS_Progressed": 3110,
   "EOS_Completed": 152,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 4.89,
   "EosHistory": [
@@ -4275,6 +4275,11 @@
       "Time": "2023-08-16T18:07:04.0467815+00:00",
       "NumProgressed": 3109,
       "NumCompleted": 152
+    },
+    {
+      "Time": "2023-08-17T01:44:24.0145478+00:00",
+      "NumProgressed": 3110,
+      "NumCompleted": 152
     }
   ],
   "TotalAchievements": 24,
@@ -4358,7 +4363,7 @@
       "Name": "ACE BRAWLER",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "19",
@@ -4477,13 +4482,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 3109,
+      "Progressed": 3110,
       "Completed": 152
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-08-17T00:08:35.7412142+00:00",
+  "LastChanged_Achievements": "2023-08-17T01:44:24.0145474+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:44.0676288+00:00",
-  "LastUpdate_Ratings": "2023-08-17T00:01:34.8956488+00:00",
-  "LastUpdate_Achievements": "2023-08-17T00:08:35.7412619+00:00"
+  "LastUpdate_Ratings": "2023-08-17T01:37:25.6429879+00:00",
+  "LastUpdate_Achievements": "2023-08-17T01:44:24.0145801+00:00"
 }

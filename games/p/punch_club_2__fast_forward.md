@@ -53,7 +53,7 @@
 | The die is cast | 37.00% | ~94 |
 | Seashell hunter | 36.00% | ~91 |
 | Gang wrangler | 35.00% | ~89 |
-| Problems of cyborgs | 34.00% | ~86 |
+| Problems of cyborgs | 35.00% | ~89 |
 | Absolute Champion! | 33.00% | ~84 |
 | Undercover robot | 33.00% | ~84 |
 | Careerist | 32.00% | ~81 |

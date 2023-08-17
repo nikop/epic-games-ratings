@@ -12,13 +12,13 @@
 | Can't touch this | 17.00% | ~8 |
 | Apprentice | 17.00% | ~8 |
 | Freezing Cold | 9.00% | ~4 |
+| The Golden Flash | 9.00% | ~4 |
 | The Power of the Mountains | 9.00% | ~4 |
 | Bringing guns to a sword fight | 7.00% | ~3 |
 | Searing Heat | 7.00% | ~3 |
 | Through Dangers Untold | 7.00% | ~3 |
 | Locked and Loaded | 7.00% | ~3 |
 | Nothing but the Truth | 7.00% | ~3 |
-| The Golden Flash | 7.00% | ~3 |
 | Changing the World | 7.00% | ~3 |
 | Sponsor | 4.00% | ~2 |
 | Mirror, Mirror on the Wall | 2.00% | ~1 |
@@ -51,7 +51,7 @@
 | Unveiling the Truth | 0.00% | ~0 |
 | Master of all Domains | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46 (Ranked 373)  
+Progressed: 46 (Ranked 374)  
 Completed: 0 (0.00%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -4,7 +4,7 @@
   "ProductSlug": "dodo-peak-159276",
   "Ranking_EOS_Progress": 401,
   "Ranking_EOS_Completed": 61,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2023-08-03T05:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 26,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.85,
   "EosHistory": [
@@ -314,8 +314,8 @@
   ],
   "FirstSeen": "2023-08-08T23:57:15.7691389+00:00",
   "FirstSeenAchievements": "2023-08-03T06:01:19.3820026+00:00",
-  "LastChanged_Achievements": "2023-08-17T00:03:29.0502519+00:00",
+  "LastChanged_Achievements": "2023-08-17T01:40:11.2209839+00:00",
   "LastUpdate_AppInfo": "2023-08-10T06:57:08.1237157+00:00",
-  "LastUpdate_Ratings": "2023-08-16T23:58:07.1308988+00:00",
-  "LastUpdate_Achievements": "2023-08-17T00:03:29.0502698+00:00"
+  "LastUpdate_Ratings": "2023-08-17T01:34:49.8400728+00:00",
+  "LastUpdate_Achievements": "2023-08-17T01:40:11.2209953+00:00"
 }
