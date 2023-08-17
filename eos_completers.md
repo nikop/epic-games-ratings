@@ -39,7 +39,7 @@
 | 37 | [Smelter](games/s/smelter.md) | 7.50% |
 | 38 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.04% |
 | 39 | [Scorn](games/s/scorn.md) | 6.94% |
-| 40 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.88% |
+| 40 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.87% |
 | 41 | [Time Loader](games/t/time_loader.md) | 6.78% |
 | 42 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 43 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.31% |
@@ -57,7 +57,7 @@
 | 55 | [JARS](games/j/jars.md) | 4.55% |
 | 56 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.49% |
 | 57 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
-| 57 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.17% |
+| 58 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.16% |
 | 59 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.04% |
 | 60 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.88% |
 | 61 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 3.85% |
@@ -97,8 +97,8 @@
 | 95 | [Frogun](games/f/frogun.md) | 1.81% |
 | 96 | [Sifu](games/s/sifu.md) | 1.80% |
 | 97 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.67% |
-| 98 | [Iron Danger](games/i/iron_danger.md) | 1.62% |
-| 99 | [Somerville](games/s/somerville.md) | 1.61% |
+| 98 | [Iron Danger](games/i/iron_danger.md) | 1.61% |
+| 98 | [Somerville](games/s/somerville.md) | 1.61% |
 | 100 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.60% |
 | 101 | [Five Dates](games/f/five_dates.md) | 1.57% |
 | 101 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.57% |
@@ -131,9 +131,9 @@
 | 129 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.70% |
 | 130 | [Haven](games/h/haven.md) | 0.64% |
 | 130 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.64% |
-| 132 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.63% |
-| 133 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
-| 133 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.62% |
+| 132 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
+| 132 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.62% |
+| 132 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.62% |
 | 135 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.60% |
 | 135 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.60% |
 | 137 | [Potion Permit](games/p/potion_permit.md) | 0.58% |
