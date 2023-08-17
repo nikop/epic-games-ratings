@@ -245,7 +245,7 @@
 | 238 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 7,326 | 48 |
 | 238 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,911 | 81 |
 | 238 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 5,682 | 62 |
-| 238 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 3,419 | 87 |
+| 238 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 3,441 | 87 |
 | 238 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 302,680 | 3 |
 | 238 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 212,718 | 4 |
 | 238 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 512 |
@@ -796,19 +796,19 @@
 | 793 | [Dark Light](games/d/dark_light.md) | 4.29 | 0 | 512 |
 | 793 | [F1® Manager 2023](games/3/38b4b40752b142e5a503acbb241a8b3c.md) | 4.29 | 0 | 512 |
 | 793 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,584,789 | 1 |
+| 793 | [Murder by Numbers](games/m/murder_by_numbers.md) | 4.29 | 0 | 512 |
 | 793 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 715 | 166 |
 | 793 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 44 | 418 |
 | 793 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 142 | 301 |
 | 793 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 126 | 310 |
-| 801 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.28 | 0 | 512 |
-| 801 | [Chess Ultra](games/c/chess_ultra.md) | 4.28 | 0 | 512 |
-| 801 | [ELEX II](games/e/elex_ii.md) | 4.28 | 0 | 512 |
-| 801 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.28 | 0 | 512 |
-| 801 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.28 | 3,725 | 82 |
-| 801 | [Mortal Shell](games/m/mortal_shell.md) | 4.28 | 0 | 512 |
-| 801 | [Murder by Numbers](games/m/murder_by_numbers.md) | 4.28 | 0 | 512 |
-| 801 | [Steelrising](games/s/steelrising.md) | 4.28 | 36 | 434 |
-| 801 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 173 | 285 |
+| 802 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.28 | 0 | 512 |
+| 802 | [Chess Ultra](games/c/chess_ultra.md) | 4.28 | 0 | 512 |
+| 802 | [ELEX II](games/e/elex_ii.md) | 4.28 | 0 | 512 |
+| 802 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.28 | 0 | 512 |
+| 802 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.28 | 3,725 | 82 |
+| 802 | [Mortal Shell](games/m/mortal_shell.md) | 4.28 | 0 | 512 |
+| 802 | [Steelrising](games/s/steelrising.md) | 4.28 | 36 | 434 |
+| 802 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 173 | 285 |
 | 810 | [Dice Legacy](games/d/dice_legacy.md) | 4.27 | 0 | 512 |
 | 810 | [Franchise Hockey Manager 8](games/f/franchise_hockey_manager_8.md) | 4.27 | 0 | 512 |
 | 810 | [Godlike Burger](games/g/godlike_burger.md) | 4.27 | 0 | 512 |
