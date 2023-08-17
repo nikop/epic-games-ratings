@@ -10,7 +10,7 @@
 | 8 | [Overloop](games/o/overloop.md) | 25.00% |
 | 8 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 25.00% |
 | 10 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 11 | [Volley Pals](games/v/volley_pals.md) | 23.40% |
+| 11 | [Volley Pals](games/v/volley_pals.md) | 23.16% |
 | 12 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 22.66% |
 | 13 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 13 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
