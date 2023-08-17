@@ -50,9 +50,9 @@ Number of Ratings: 1,354  (23.09.2022)
 | This Wall Won't Fall | 1.00% | ~98 |
 | Not the Last Sarkorian | 1.00% | ~98 |
 | Path of the Legend | 0.90% | ~99 |
+| Truly Profane Gift | 0.90% | ~99 |
 | Path of the Dragon | 0.80% | ~88 |
 | End of Eternal Guard | 0.80% | ~88 |
-| Truly Profane Gift | 0.80% | ~88 |
 | Playful Mood | 0.70% | ~77 |
 | Dreadful Dragon | 0.70% | ~77 |
 | Masterful Charge | 0.60% | ~66 |

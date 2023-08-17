@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 245,
   "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -226,7 +226,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17426,
+  "EOS_Progressed": 17427,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 233,
   "EOS_NewCompleters": 0,
@@ -8421,6 +8421,11 @@
       "Time": "2023-08-17T02:18:10.2347018+00:00",
       "NumProgressed": 17426,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-17T03:05:51.3827868+00:00",
+      "NumProgressed": 17427,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -8448,7 +8453,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2962
+      "UsersEstimate": 2963
     },
     {
       "ID": "0004",
@@ -8536,7 +8541,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2962
+      "UsersEstimate": 2963
     },
     {
       "ID": "0015",
@@ -8656,7 +8661,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2265
+      "UsersEstimate": 2266
     },
     {
       "ID": "0030",
@@ -8719,7 +8724,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17426,
+      "Progressed": 17427,
       "Completed": 1
     }
   ],
@@ -8727,8 +8732,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-12T19:04:41.1874293+00:00",
-  "LastChanged_Achievements": "2023-08-17T02:18:10.2347012+00:00",
+  "LastChanged_Achievements": "2023-08-17T03:05:51.3827862+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:38.5697724+00:00",
-  "LastUpdate_Ratings": "2023-08-17T02:14:39.4443896+00:00",
-  "LastUpdate_Achievements": "2023-08-17T02:18:10.234799+00:00"
+  "LastUpdate_Ratings": "2023-08-17T03:02:23.3072519+00:00",
+  "LastUpdate_Achievements": "2023-08-17T03:05:51.3828761+00:00"
 }

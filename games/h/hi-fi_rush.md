@@ -5,8 +5,8 @@ Rating: 4.88 (Ranked 18)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 11.00% | ~433 |
-| Feeling the beat! | 11.00% | ~433 |
+| Start with a bang! | 11.00% | ~434 |
+| Feeling the beat! | 11.00% | ~434 |
 | You can pet the cat! | 10.00% | ~394 |
 | Who put gears in there? | 9.00% | ~355 |
 | Cream of the Crop | 8.00% | ~315 |
@@ -16,17 +16,17 @@ Rating: 4.88 (Ranked 18)
 | Perfect Parry | 7.00% | ~276 |
 | Alright, that felt AWESOME! | 7.00% | ~276 |
 | This will cost you big time | 6.00% | ~236 |
+| Z-shielding's got nothing on us! | 6.00% | ~236 |
 | Uh, they were broken when I got here | 6.00% | ~236 |
 | Kissing the sky! | 6.00% | ~236 |
 | I look cool. But I can look COOLER. | 6.00% | ~236 |
 | The Negotiator | 5.00% | ~197 |
+| Time to pay up! | 5.00% | ~197 |
 | Whoa! There's ANOTHER health bar!? | 5.00% | ~197 |
-| Z-shielding's got nothing on us! | 5.00% | ~197 |
 | Out in a puff of smoke | 5.00% | ~197 |
 | Does that say weakpoint? | 5.00% | ~197 |
 | NOW we got a kickass hideout! | 5.00% | ~123 |
 | Headliner | 4.00% | ~158 |
-| Time to pay up! | 4.00% | ~158 |
 | Who's the boss now? | 4.00% | ~158 |
 | I have to read these things? | 4.00% | ~158 |
 | You must like calling me in, Chai | 4.00% | ~158 |
@@ -77,7 +77,7 @@ Rating: 4.88 (Ranked 18)
 | Voices from within | 0.10% | ~2 |
 | Low budget finish | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,940 (Ranked 147)  
+Progressed: 3,941 (Ranked 147)  
 Completed: 7 (0.18%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 7 (0.18%) (Ranked 189)
 | 2023-08-14 | 3,899 | 7 |
 | 2023-08-15 | 3,914 | 7 |
 | 2023-08-16 | 3,937 | 7 |
-| 2023-08-17 | 3,940 | 7 |
+| 2023-08-17 | 3,941 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -94,6 +94,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Power to the People | 0.60% | ~81 |
 | Economic Reform | 0.60% | ~81 |
 | Legalism | 0.60% | ~81 |
+| Redemption | 0.60% | ~81 |
 | Legionary | 0.60% | ~81 |
 | Phalangite | 0.60% | ~81 |
 | Double Victory | 0.60% | ~81 |
@@ -116,7 +117,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Industrial Progress | 0.50% | ~67 |
 | Dualism | 0.50% | ~67 |
 | Enlightenment | 0.50% | ~67 |
-| Redemption | 0.50% | ~67 |
 | Revelation | 0.50% | ~67 |
 | Veneration | 0.50% | ~67 |
 | Cimmerian Archer | 0.50% | ~67 |

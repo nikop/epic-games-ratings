@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 189,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -118,9 +118,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3940,
+  "EOS_Progressed": 3941,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -6043,6 +6043,11 @@
       "Time": "2023-08-17T02:18:54.3880517+00:00",
       "NumProgressed": 3940,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-08-17T03:06:29.4323767+00:00",
+      "NumProgressed": 3941,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 71,
@@ -6054,7 +6059,7 @@
       "Name": "Start with a bang!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "Ach002",
@@ -6092,9 +6097,9 @@
       "ID": "Ach006",
       "SetID": "12n4k20",
       "Name": "Time to pay up!",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 158
+      "UsersEstimate": 197
     },
     {
       "ID": "Ach007",
@@ -6230,7 +6235,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "Ach024",
@@ -6260,9 +6265,9 @@
       "ID": "Ach027",
       "SetID": "12n4k20",
       "Name": "Z-shielding\u0027s got nothing on us!",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 197
+      "UsersEstimate": 236
     },
     {
       "ID": "Ach028",
@@ -6621,13 +6626,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 3940,
+      "Progressed": 3941,
       "Completed": 7
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2461,
+      "Progressed": 2462,
       "Completed": 1929
     }
   ],
@@ -6635,8 +6640,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-08-10T23:00:09.4128826+00:00",
-  "LastChanged_Achievements": "2023-08-17T02:18:54.3880509+00:00",
+  "LastChanged_Achievements": "2023-08-17T03:06:29.432376+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:15.2039204+00:00",
-  "LastUpdate_Ratings": "2023-08-17T02:13:01.0721045+00:00",
-  "LastUpdate_Achievements": "2023-08-17T02:18:54.3881798+00:00"
+  "LastUpdate_Ratings": "2023-08-17T03:00:52.4644663+00:00",
+  "LastUpdate_Achievements": "2023-08-17T03:06:29.4324997+00:00"
 }

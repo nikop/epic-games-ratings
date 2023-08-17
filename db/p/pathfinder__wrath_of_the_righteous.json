@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 113,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -11265,9 +11265,9 @@
       "ID": "53_TrulyProfaneGift",
       "SetID": "989of5o",
       "Name": "Truly Profane Gift",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 99
     },
     {
       "ID": "54_DeathByColumn",
@@ -11799,8 +11799,8 @@
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-08-16T16:00:10.3233012+00:00",
-  "LastChanged_Achievements": "2023-08-17T02:17:40.2668598+00:00",
+  "LastChanged_Achievements": "2023-08-17T03:05:25.6229635+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:11.5447906+00:00",
-  "LastUpdate_Ratings": "2023-08-17T02:12:55.5857589+00:00",
-  "LastUpdate_Achievements": "2023-08-17T02:17:40.2670844+00:00"
+  "LastUpdate_Ratings": "2023-08-17T03:00:45.1763787+00:00",
+  "LastUpdate_Achievements": "2023-08-17T03:05:25.6231719+00:00"
 }

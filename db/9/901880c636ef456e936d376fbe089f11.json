@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 356,
   "Ranking_EOS_Completed": 258,
   "Ranking_EOS_NewPlayers": 280,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
     "PcReleaseDate": "2023-04-20T13:00:00+00:00",
@@ -371,9 +371,9 @@
       "ID": "ACH_BLOODISH_RED",
       "SetID": "8h8m55b",
       "Name": "Blood(ish) Red",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_BREW_FIRST_TIME",
@@ -667,9 +667,9 @@
       "ID": "ACH_UNLOCK_ALL_CHARACTER",
       "SetID": "8h8m55b",
       "Name": "We are all friends",
-      "Percentage": 41,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_UNLOCK_ALL_DRINK",
@@ -746,8 +746,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-08-17T02:14:58.1679066+00:00",
+  "LastChanged_Achievements": "2023-08-17T03:02:42.1595363+00:00",
   "LastUpdate_AppInfo": "2023-08-15T09:57:15.0054374+00:00",
-  "LastUpdate_Ratings": "2023-08-17T02:10:49.2678366+00:00",
-  "LastUpdate_Achievements": "2023-08-17T02:14:58.1679607+00:00"
+  "LastUpdate_Ratings": "2023-08-17T02:58:40.572451+00:00",
+  "LastUpdate_Achievements": "2023-08-17T03:02:42.1595904+00:00"
 }
