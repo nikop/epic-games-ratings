@@ -33,7 +33,7 @@
 | 29 | [Blasphemous](games/b/blasphemous.md) | 4.86 | 147 | 298 |
 | 29 | [Bugsnax](games/b/bugsnax.md) | 4.86 | 38 | 428 |
 | 29 | [Inscryption](games/i/inscryption.md) | 4.86 | 339 | 227 |
-| 29 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.86 | 12,330 | 31 |
+| 29 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.86 | 12,334 | 31 |
 | 29 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 97 | 339 |
 | 29 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 43 | 420 |
 | 29 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 1,385 | 128 |
@@ -210,7 +210,7 @@
 | 198 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.70 | 0 | 511 |
 | 198 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 46 | 410 |
 | 198 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.70 | 0 | 511 |
-| 198 | [The Witness](games/t/the_witness.md) | 4.70 | 178 | 283 |
+| 198 | [The Witness](games/t/the_witness.md) | 4.70 | 179 | 282 |
 | 198 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,479 | 74 |
 | 198 | [Ys IX: Monstrum Nox](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.70 | 0 | 511 |
 | 214 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 114,792 | 8 |
@@ -627,24 +627,24 @@
 | 618 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 0 | 511 |
 | 618 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.46 | 0 | 511 |
 | 618 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.46 | 0 | 511 |
+| 618 | [Ratchet & Clank: Rift Apart](games/0/046aeb7098b94ac3961dad6c5dbe68c0.md) | 4.46 | 0 | 511 |
 | 618 | [Runbow](games/r/runbow.md) | 4.46 | 0 | 511 |
 | 618 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.46 | 0 | 511 |
 | 618 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 287 | 239 |
 | 618 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.46 | 0 | 511 |
-| 632 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 0 | 511 |
-| 632 | [Chorus](games/c/chorus.md) | 4.45 | 32 | 453 |
-| 632 | [Death Coming](games/d/death_coming.md) | 4.45 | 0 | 511 |
-| 632 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 244 | 256 |
-| 632 | [Faeria](games/f/faeria.md) | 4.45 | 109 | 326 |
-| 632 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.45 | 801 | 157 |
-| 632 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 11,138 | 34 |
-| 632 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.45 | 31 | 460 |
-| 632 | [Pathway](games/p/pathway.md) | 4.45 | 0 | 511 |
-| 632 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.45 | 53 | 395 |
-| 632 | [Ratchet & Clank: Rift Apart](games/0/046aeb7098b94ac3961dad6c5dbe68c0.md) | 4.45 | 0 | 511 |
-| 632 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.45 | 0 | 511 |
-| 632 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 116 | 322 |
-| 632 | [True Fear: Forsaken Souls Part 2](games/t/true_fear__forsaken_souls_part_2.md) | 4.45 | 0 | 511 |
+| 633 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 0 | 511 |
+| 633 | [Chorus](games/c/chorus.md) | 4.45 | 32 | 453 |
+| 633 | [Death Coming](games/d/death_coming.md) | 4.45 | 0 | 511 |
+| 633 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 244 | 256 |
+| 633 | [Faeria](games/f/faeria.md) | 4.45 | 109 | 326 |
+| 633 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.45 | 801 | 157 |
+| 633 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 11,138 | 34 |
+| 633 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.45 | 31 | 460 |
+| 633 | [Pathway](games/p/pathway.md) | 4.45 | 0 | 511 |
+| 633 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.45 | 53 | 395 |
+| 633 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.45 | 0 | 511 |
+| 633 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 116 | 322 |
+| 633 | [True Fear: Forsaken Souls Part 2](games/t/true_fear__forsaken_souls_part_2.md) | 4.45 | 0 | 511 |
 | 646 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 0 | 511 |
 | 646 | [ELEX](games/e/elex.md) | 4.44 | 24 | 483 |
 | 646 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 0 | 511 |
