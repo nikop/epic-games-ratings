@@ -18,7 +18,7 @@
 | 12 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.89 | 0 | 511 |
 | 12 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 17,620 | 20 |
 | 18 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 136 | 306 |
-| 18 | [God of War](games/g/god_of_war.md) | 4.88 | 4,205 | 77 |
+| 18 | [God of War](games/g/god_of_war.md) | 4.88 | 4,207 | 77 |
 | 18 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.88 | 0 | 511 |
 | 18 | [Ooblets](games/o/ooblets.md) | 4.88 | 1,020 | 142 |
 | 18 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 167,691 | 6 |
@@ -344,7 +344,7 @@
 | 328 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.63 | 67 | 381 |
 | 328 | [Transistor](games/t/transistor.md) | 4.63 | 0 | 511 |
 | 344 | [Assassin's Creed Chronicles: Russia](games/a/assassin's_creed_chronicles__russia.md) | 4.62 | 0 | 511 |
-| 344 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.62 | 75,608 | 9 |
+| 344 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.62 | 75,670 | 9 |
 | 344 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 279 | 241 |
 | 344 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 34 | 441 |
 | 344 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 75 | 368 |
@@ -359,7 +359,7 @@
 | 344 | [Roguebook](games/r/roguebook.md) | 4.62 | 0 | 511 |
 | 344 | [System Shock](games/s/system_shock.md) | 4.62 | 0 | 511 |
 | 344 | [The Medium](games/t/the_medium.md) | 4.62 | 0 | 511 |
-| 344 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.62 | 729 | 164 |
+| 344 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.62 | 733 | 164 |
 | 344 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.62 | 20 | 508 |
 | 344 | [Warhammer 40,000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.62 | 0 | 511 |
 | 363 | [20XX](games/2/20xx.md) | 4.61 | 36 | 433 |
@@ -547,7 +547,7 @@
 | 541 | [CryoFall](games/c/cryofall.md) | 4.51 | 0 | 511 |
 | 541 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 41 | 422 |
 | 541 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.51 | 2,652 | 96 |
-| 541 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 107 | 327 |
+| 541 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 107 | 328 |
 | 541 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 148 | 297 |
 | 541 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 188 | 277 |
 | 541 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.51 | 23 | 491 |
@@ -560,7 +560,7 @@
 | 541 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 134 | 307 |
 | 541 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.51 | 28 | 467 |
 | 560 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 410 | 211 |
-| 560 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.50 | 107 | 327 |
+| 560 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.50 | 108 | 327 |
 | 560 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 216 | 268 |
 | 560 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 91 | 349 |
 | 560 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 511 |
@@ -623,7 +623,7 @@
 | 618 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,496 | 86 |
 | 618 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.46 | 0 | 511 |
 | 618 | [Figment](games/f/figment.md) | 4.46 | 20 | 508 |
-| 618 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 107 | 327 |
+| 618 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 107 | 328 |
 | 618 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 0 | 511 |
 | 618 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.46 | 0 | 511 |
 | 618 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.46 | 0 | 511 |

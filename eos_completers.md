@@ -11,7 +11,7 @@
 | 8 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 25.00% |
 | 10 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 11 | [Volley Pals](games/v/volley_pals.md) | 23.16% |
-| 12 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 22.66% |
+| 12 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 22.48% |
 | 13 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 13 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 15 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
@@ -71,9 +71,9 @@
 | 68 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.15% |
 | 70 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.05% |
 | 71 | [The Complex](games/t/the_complex.md) | 2.98% |
-| 72 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.94% |
 | 72 | [Monster Harvest](games/m/monster_harvest.md) | 2.94% |
-| 74 | [MultiVersus](games/m/multiversus.md) | 2.93% |
+| 73 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.93% |
+| 73 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 75 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.78% |
 | 76 | [Destiny 2](games/d/destiny_2.md) | 2.74% |
 | 77 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
