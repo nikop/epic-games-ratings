@@ -654,7 +654,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 213454,
+  "EOS_Progressed": 213466,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 3790,
   "EOS_NewCompleters": 2,
@@ -7229,6 +7229,11 @@
       "Time": "2023-08-17T08:04:57.8787027+00:00",
       "NumProgressed": 213454,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-17T09:06:03.0426998+00:00",
+      "NumProgressed": 213466,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -7350,9 +7355,9 @@
       "ID": "Chapter9",
       "SetID": "50chcgj",
       "Name": "The Statuette of Gladeulfeurah",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 640
+      "UsersEstimate": 854
     },
     {
       "ID": "CollateralVictim",
@@ -7622,9 +7627,9 @@
       "ID": "DifficultyStory",
       "SetID": "50chcgj",
       "Name": "A tale of adventurers not quite like the others...",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 640
+      "UsersEstimate": 854
     },
     {
       "ID": "Dwarf30Insult",
@@ -7688,7 +7693,7 @@
       "Name": "Sowwy!",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 34153
+      "UsersEstimate": 34155
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -7870,9 +7875,9 @@
       "ID": "Rogue30Backstab",
       "SetID": "50chcgj",
       "Name": "I am the night",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 640
+      "UsersEstimate": 854
     },
     {
       "ID": "RogueEpic",
@@ -7943,21 +7948,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 213454,
+      "Progressed": 213466,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 213454,
+      "Progressed": 213466,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-16T17:00:43.9765875+00:00",
-  "LastChanged_Achievements": "2023-08-17T08:04:57.8787019+00:00",
+  "LastChanged_Achievements": "2023-08-17T09:06:03.0426992+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:49.6773731+00:00",
-  "LastUpdate_Ratings": "2023-08-17T08:00:21.8464696+00:00",
-  "LastUpdate_Achievements": "2023-08-17T08:04:57.8788484+00:00"
+  "LastUpdate_Ratings": "2023-08-17T09:01:36.172452+00:00",
+  "LastUpdate_Achievements": "2023-08-17T09:06:03.0428311+00:00"
 }

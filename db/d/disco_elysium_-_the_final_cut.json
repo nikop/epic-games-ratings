@@ -1253,9 +1253,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 126353,
+  "EOS_Progressed": 126356,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 406,
+  "EOS_NewPlayers": 405,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -13063,6 +13063,11 @@
       "Time": "2023-08-17T08:04:48.182192+00:00",
       "NumProgressed": 126353,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-08-17T09:05:48.9374918+00:00",
+      "NumProgressed": 126356,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 40,
@@ -13154,7 +13159,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 35379
+      "UsersEstimate": 35380
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -13178,7 +13183,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20216
+      "UsersEstimate": 20217
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -13290,7 +13295,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 17689
+      "UsersEstimate": 17690
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -13393,15 +13398,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 126353,
+      "Progressed": 126356,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-08-15T15:00:55.7561731+00:00",
-  "LastChanged_Achievements": "2023-08-17T08:04:48.1821914+00:00",
+  "LastChanged_Achievements": "2023-08-17T09:05:48.9374912+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:59.4029348+00:00",
-  "LastUpdate_Ratings": "2023-08-17T08:00:28.0147884+00:00",
-  "LastUpdate_Achievements": "2023-08-17T08:04:48.1823005+00:00"
+  "LastUpdate_Ratings": "2023-08-17T09:01:46.5388636+00:00",
+  "LastUpdate_Achievements": "2023-08-17T09:05:48.9376106+00:00"
 }

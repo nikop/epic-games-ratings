@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 40869,
+  "EOS_Progressed": 40871,
   "EOS_Completed": 207,
-  "EOS_NewPlayers": 519,
+  "EOS_NewPlayers": 521,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -12119,6 +12119,11 @@
       "Time": "2023-08-17T07:05:14.8535141+00:00",
       "NumProgressed": 40869,
       "NumCompleted": 207
+    },
+    {
+      "Time": "2023-08-17T09:07:01.6831723+00:00",
+      "NumProgressed": 40871,
+      "NumCompleted": 207
     }
   ],
   "TotalAchievements": 44,
@@ -12130,7 +12135,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 23295
+      "UsersEstimate": 23296
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -12138,7 +12143,7 @@
       "Name": "Lady",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 12669
+      "UsersEstimate": 12670
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -12146,7 +12151,7 @@
       "Name": "Embers",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 8582
+      "UsersEstimate": 8583
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -12210,7 +12215,7 @@
       "Name": "The Lookout",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 2043
+      "UsersEstimate": 2044
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -12250,7 +12255,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 32695
+      "UsersEstimate": 32697
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -12306,7 +12311,7 @@
       "Name": "Soul Reaver",
       "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 8991
+      "UsersEstimate": 8992
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -12330,7 +12335,7 @@
       "Name": "Clinging to Life",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 7356
+      "UsersEstimate": 7357
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -12354,7 +12359,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 22478
+      "UsersEstimate": 22479
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -12362,7 +12367,7 @@
       "Name": "Engraved with Power",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 13078
+      "UsersEstimate": 13079
     },
     {
       "ID": "ACHIEVEMENT_38",
@@ -12370,7 +12375,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 25747
+      "UsersEstimate": 25749
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -12394,7 +12399,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 24521
+      "UsersEstimate": 24523
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -12402,7 +12407,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 27382
+      "UsersEstimate": 27384
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -12410,7 +12415,7 @@
       "Name": "The Spirit of Vengeance",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 2043
+      "UsersEstimate": 2044
     },
     {
       "ID": "ACHIEVEMENT_43",
@@ -12434,7 +12439,7 @@
       "Name": "I don\u2019t Care!",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 18391
+      "UsersEstimate": 18392
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -12442,7 +12447,7 @@
       "Name": "Hollow",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 2043
+      "UsersEstimate": 2044
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -12466,7 +12471,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 38008
+      "UsersEstimate": 38010
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -12474,14 +12479,14 @@
       "Name": "Revenant",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 21252
+      "UsersEstimate": 21253
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 40869,
+      "Progressed": 40871,
       "Completed": 207
     }
   ],
@@ -12489,8 +12494,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-06-11T14:58:10.4478603+00:00",
-  "LastChanged_Achievements": "2023-08-17T08:05:38.4976611+00:00",
+  "LastChanged_Achievements": "2023-08-17T09:07:01.6831715+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:05.4781923+00:00",
-  "LastUpdate_Ratings": "2023-08-17T07:59:48.2987767+00:00",
-  "LastUpdate_Achievements": "2023-08-17T08:05:38.4977733+00:00"
+  "LastUpdate_Ratings": "2023-08-17T09:00:45.8844005+00:00",
+  "LastUpdate_Achievements": "2023-08-17T09:07:01.6833043+00:00"
 }

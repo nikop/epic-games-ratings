@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1103,
+  "EOS_Progressed": 1104,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -790,6 +790,11 @@
       "Time": "2023-08-16T16:05:52.1956491+00:00",
       "NumProgressed": 1103,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-17T09:06:36.3547281+00:00",
+      "NumProgressed": 1104,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -857,7 +862,7 @@
       "Name": "Walked like an Egyptian",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "ALLTRACKSCLOUD",
@@ -873,7 +878,7 @@
       "Name": "Ride in the rising sun",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "ALLTRACKSGENESIS",
@@ -1033,7 +1038,7 @@
       "Name": "Running at the speed of sound",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "FLYLONG",
@@ -1105,7 +1110,7 @@
       "Name": "Suit up",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ONEMODULE",
@@ -1216,7 +1221,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1103,
+      "Progressed": 1104,
       "Completed": 0
     }
   ],
@@ -1224,8 +1229,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-07-10T22:58:27.6839393+00:00",
-  "LastChanged_Achievements": "2023-08-17T08:05:20.693996+00:00",
+  "LastChanged_Achievements": "2023-08-17T09:06:36.3547274+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:11.1989531+00:00",
-  "LastUpdate_Ratings": "2023-08-17T07:57:53.2303915+00:00",
-  "LastUpdate_Achievements": "2023-08-17T08:05:20.6940463+00:00"
+  "LastUpdate_Ratings": "2023-08-17T08:57:55.480445+00:00",
+  "LastUpdate_Achievements": "2023-08-17T09:06:36.3547684+00:00"
 }

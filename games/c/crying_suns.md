@@ -6,16 +6,16 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~307,162 |
-| Jeef Skeejj | 44.00% | ~204,775 |
-| Careful planning | 39.00% | ~181,505 |
-| Second Coming | 33.00% | ~153,581 |
-| Jeef Skagg | 30.00% | ~139,619 |
-| Mother | 25.00% | ~116,349 |
-| In space, no one can hear you scream | 24.00% | ~111,695 |
-| Chapter I: Echoes | 22.00% | ~102,387 |
-| Excelsior Rule | 22.00% | ~102,387 |
-| Things persisted in not being what they seemed | 20.00% | ~93,079 |
+| The Shutdown | 66.00% | ~307,165 |
+| Jeef Skeejj | 44.00% | ~204,776 |
+| Careful planning | 39.00% | ~181,506 |
+| Second Coming | 33.00% | ~153,582 |
+| Jeef Skagg | 30.00% | ~139,620 |
+| Mother | 25.00% | ~116,350 |
+| In space, no one can hear you scream | 24.00% | ~111,696 |
+| Chapter I: Echoes | 22.00% | ~102,388 |
+| Excelsior Rule | 22.00% | ~102,388 |
+| Things persisted in not being what they seemed | 20.00% | ~93,080 |
 | Knightmare Frames | 15.00% | ~69,810 |
 | May His passing cleanse the world | 15.00% | ~69,810 |
 | Chapter II: Fallible Flesh | 15.00% | ~69,810 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~9 |
 | Kronos Rule | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 465,397 (Ranked 37)  
+Progressed: 465,401 (Ranked 37)  
 Completed: 17 (0.00%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 17 (0.00%) (Ranked 258)
 | 2023-08-14 | 465,262 | 17 |
 | 2023-08-15 | 465,318 | 17 |
 | 2023-08-16 | 465,377 | 17 |
-| 2023-08-17 | 465,397 | 17 |
+| 2023-08-17 | 465,401 | 17 |
 ## Awards
 Max (Character Customization): 216  (Ranked 268)  
 Sum: 216 (Ranked 363)  

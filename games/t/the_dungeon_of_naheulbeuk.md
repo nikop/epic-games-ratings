@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 16.00% | ~34,153 |
+| Sowwy! | 16.00% | ~34,155 |
 | Déjà vu | 1.00% | ~2,135 |
 | Where's that freaking Dwarf? | 1.00% | ~2,135 |
 | Sock! SOCK! | 1.00% | ~2,135 |
@@ -24,20 +24,20 @@ Number of Ratings: 118  (23.09.2022)
 | Torture and Sensibility | 0.40% | ~854 |
 | Urik's Depths | 0.40% | ~854 |
 | The Dungeon Master | 0.40% | ~854 |
+| The Statuette of Gladeulfeurah | 0.40% | ~854 |
 | The Woman in the High Castle | 0.40% | ~854 |
+| A tale of adventurers not quite like the others... | 0.40% | ~854 |
 | %#*!$*! | 0.40% | ~854 |
+| I am the night | 0.40% | ~854 |
 | Team Building Exercise | 0.40% | ~854 |
 | Oh, when I'll be level 10... | 0.40% | ~854 |
 | Shiny and Crôm | 0.30% | ~640 |
-| The Statuette of Gladeulfeurah | 0.30% | ~640 |
 | Res Judicata | 0.30% | ~640 |
 | The Famous Dungeon of Naheulbeuk | 0.30% | ~640 |
-| A tale of adventurers not quite like the others... | 0.30% | ~640 |
 | Dwarf Fortress | 0.30% | ~640 |
 | Look but don't touch | 0.30% | ~640 |
 | The beards of change | 0.30% | ~640 |
 | The Ranger of Chaos | 0.30% | ~640 |
-| I am the night | 0.30% | ~640 |
 | Thieves' Guild Accreditation | 0.30% | ~640 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.20% | ~427 |
 | Dead for good | 0.20% | ~427 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Staff cut | 0.00% | ~0 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 213,454 (Ranked 56)  
+Progressed: 213,466 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,7 +173,7 @@ Completed: 2 (0.00%) (Ranked 258)
 | 2023-08-14 | 212,372 | 2 |
 | 2023-08-15 | 212,897 | 2 |
 | 2023-08-16 | 213,341 | 2 |
-| 2023-08-17 | 213,454 | 2 |
+| 2023-08-17 | 213,466 | 2 |
 ## Awards
 Max (Character Customization): 166  (Ranked 289)  
 Sum: 187 (Ranked 375)  

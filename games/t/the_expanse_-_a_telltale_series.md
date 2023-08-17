@@ -35,7 +35,7 @@
 | Data Recoverer | 0.00% | ~0 |
 | Impossible Objects | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,057 (Ranked 129)  
+Progressed: 8,059 (Ranked 129)  
 Completed: 0 (0.00%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -61,4 +61,4 @@ Completed: 0 (0.00%) (Ranked 258)
 | 2023-08-14 | 7,662 | 0 |
 | 2023-08-15 | 7,826 | 0 |
 | 2023-08-16 | 8,000 | 0 |
-| 2023-08-17 | 8,057 | 0 |
+| 2023-08-17 | 8,059 | 0 |

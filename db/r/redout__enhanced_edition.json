@@ -328,7 +328,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 229827,
+  "EOS_Progressed": 229829,
   "EOS_Completed": 46,
   "EOS_NewPlayers": 539,
   "EOS_NewCompleters": 0,
@@ -12733,6 +12733,11 @@
       "Time": "2023-08-17T08:03:45.6020334+00:00",
       "NumProgressed": 229827,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-08-17T09:04:17.4905736+00:00",
+      "NumProgressed": 229829,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 34,
@@ -12832,7 +12837,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 45965
+      "UsersEstimate": 45966
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -12880,7 +12885,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 75843
+      "UsersEstimate": 75844
     },
     {
       "ID": "NOBUNAGA",
@@ -12904,7 +12909,7 @@
       "Name": "ON A ROLL",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20684
+      "UsersEstimate": 20685
     },
     {
       "ID": "PHOTOFINISH",
@@ -13008,22 +13013,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 94229
+      "UsersEstimate": 94230
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 229827,
+      "Progressed": 229829,
       "Completed": 46
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-08-17T08:03:45.6020329+00:00",
+  "LastChanged_Achievements": "2023-08-17T09:04:17.4905725+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:00.8930351+00:00",
-  "LastUpdate_Ratings": "2023-08-17T07:59:42.5767054+00:00",
-  "LastUpdate_Achievements": "2023-08-17T08:03:45.6021414+00:00"
+  "LastUpdate_Ratings": "2023-08-17T09:00:37.1146202+00:00",
+  "LastUpdate_Achievements": "2023-08-17T09:04:17.4906976+00:00"
 }
