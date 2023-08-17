@@ -33,12 +33,12 @@
 | 31 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.30% |
 | 32 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.91% |
 | 33 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.48% |
-| 34 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 7.81% |
-| 35 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.69% |
+| 34 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.69% |
+| 34 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 7.69% |
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.53% |
 | 37 | [Smelter](games/s/smelter.md) | 7.50% |
-| 38 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.00% |
-| 39 | [Scorn](games/s/scorn.md) | 6.94% |
+| 38 | [Scorn](games/s/scorn.md) | 6.94% |
+| 39 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.93% |
 | 40 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.87% |
 | 41 | [Time Loader](games/t/time_loader.md) | 6.78% |
 | 42 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
@@ -232,18 +232,18 @@
 | 227 | [Old World](games/o/old_world.md) | 0.04% |
 | 227 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.04% |
 | 227 | [Tropico 6](games/t/tropico_6.md) | 0.04% |
-| 233 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.03% |
 | 233 | [Football Manager 2023](games/f/football_manager_2023.md) | 0.03% |
 | 233 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 0.03% |
 | 233 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
 | 233 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 0.03% |
-| 238 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 0.02% |
-| 238 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
-| 238 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 0.02% |
-| 238 | [Good Company](games/g/good_company.md) | 0.02% |
-| 238 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 0.02% |
-| 238 | [Saturnalia](games/s/saturnalia.md) | 0.02% |
-| 238 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
+| 237 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 0.02% |
+| 237 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
+| 237 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.02% |
+| 237 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 0.02% |
+| 237 | [Good Company](games/g/good_company.md) | 0.02% |
+| 237 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 0.02% |
+| 237 | [Saturnalia](games/s/saturnalia.md) | 0.02% |
+| 237 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
 | 245 | [Dead by Daylight](games/d/dead_by_daylight.md) | 0.01% |
 | 245 | [Deceive Inc.](games/d/deceive_inc..md) | 0.01% |
 | 245 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 0.01% |
@@ -544,4 +544,4 @@
 | 258 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 258 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 258 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,070 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,071 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
