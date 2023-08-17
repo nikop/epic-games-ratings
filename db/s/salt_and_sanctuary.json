@@ -2463,9 +2463,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 530674,
+  "EOS_Progressed": 530675,
   "EOS_Completed": 1508,
-  "EOS_NewPlayers": 618,
+  "EOS_NewPlayers": 616,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -15193,6 +15193,11 @@
       "Time": "2023-08-17T03:05:32.052254+00:00",
       "NumProgressed": 530674,
       "NumCompleted": 1508
+    },
+    {
+      "Time": "2023-08-17T04:05:29.846203+00:00",
+      "NumProgressed": 530675,
+      "NumCompleted": 1508
     }
   ],
   "TotalAchievements": 37,
@@ -15212,7 +15217,7 @@
       "Name": "Coastrock",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 10613
+      "UsersEstimate": 10614
     },
     {
       "ID": "DEVARAS_LIGHT",
@@ -15228,7 +15233,7 @@
       "Name": "Devoted",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 10613
+      "UsersEstimate": 10614
     },
     {
       "ID": "DOMINION",
@@ -15236,7 +15241,7 @@
       "Name": "Dominion",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 10613
+      "UsersEstimate": 10614
     },
     {
       "ID": "FADING_FAST",
@@ -15260,7 +15265,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 440459
+      "UsersEstimate": 440460
     },
     {
       "ID": "HONED",
@@ -15284,7 +15289,7 @@
       "Name": "Keepers of Fire and Sky",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 10613
+      "UsersEstimate": 10614
     },
     {
       "ID": "ORDER_OF_BETRAYER",
@@ -15292,7 +15297,7 @@
       "Name": "Order of the Betrayer",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 10613
+      "UsersEstimate": 10614
     },
     {
       "ID": "STORIED",
@@ -15380,7 +15385,7 @@
       "Name": "The Iron Ones",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 95521
+      "UsersEstimate": 95522
     },
     {
       "ID": "THE_KEEP",
@@ -15460,7 +15465,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 339631
+      "UsersEstimate": 339632
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -15492,22 +15497,22 @@
       "Name": "Wise Words",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 10613
+      "UsersEstimate": 10614
     }
   ],
   "AchievementSets": [
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 530674,
+      "Progressed": 530675,
       "Completed": 1508
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-08-13T05:01:01.1614136+00:00",
-  "LastChanged_Achievements": "2023-08-17T03:05:32.0522533+00:00",
+  "LastChanged_Achievements": "2023-08-17T04:05:29.8462024+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:13.2289352+00:00",
-  "LastUpdate_Ratings": "2023-08-17T03:02:02.2991931+00:00",
-  "LastUpdate_Achievements": "2023-08-17T03:05:32.0523933+00:00"
+  "LastUpdate_Ratings": "2023-08-17T04:01:37.4422418+00:00",
+  "LastUpdate_Achievements": "2023-08-17T04:05:29.8463094+00:00"
 }

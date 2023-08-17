@@ -3,11 +3,11 @@
   "Name": "Saturnalia",
   "ProductSlug": "saturnalia",
   "Ranking_Rating": 823,
-  "Ranking_Popularity": 512,
-  "Ranking_PopularitySum": 512,
+  "Ranking_Popularity": 511,
+  "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 95,
+  "Ranking_EOS_NewPlayers": 94,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -240,9 +240,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 65587,
+  "EOS_Progressed": 65589,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 232,
+  "EOS_NewPlayers": 233,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -7910,6 +7910,11 @@
       "Time": "2023-08-17T01:43:28.6355078+00:00",
       "NumProgressed": 65587,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-08-17T04:07:29.1448236+00:00",
+      "NumProgressed": 65589,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 20,
@@ -8057,7 +8062,7 @@
       "Name": "Out of Shape",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2623
+      "UsersEstimate": 2624
     },
     {
       "ID": "ACH_TECLAMISSION",
@@ -8080,7 +8085,7 @@
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 65587,
+      "Progressed": 65589,
       "Completed": 13
     }
   ],
@@ -8088,8 +8093,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-05-14T20:57:12.1011944+00:00",
-  "LastChanged_Achievements": "2023-08-17T03:07:35.2909598+00:00",
+  "LastChanged_Achievements": "2023-08-17T04:07:29.1448232+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:21.0259321+00:00",
-  "LastUpdate_Ratings": "2023-08-17T02:59:30.2150574+00:00",
-  "LastUpdate_Achievements": "2023-08-17T03:07:35.2910634+00:00"
+  "LastUpdate_Ratings": "2023-08-17T03:59:16.1217659+00:00",
+  "LastUpdate_Achievements": "2023-08-17T04:07:29.1448953+00:00"
 }

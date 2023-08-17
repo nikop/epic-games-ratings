@@ -3,8 +3,8 @@
   "Name": "Redout: Enhanced Edition",
   "ProductSlug": "redout-enhanced-edition",
   "Ranking_Rating": 541,
-  "Ranking_Popularity": 512,
-  "Ranking_PopularitySum": 512,
+  "Ranking_Popularity": 511,
+  "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 51,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 71,
@@ -330,7 +330,7 @@
   "Tags": [],
   "EOS_Progressed": 229820,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 540,
+  "EOS_NewPlayers": 539,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -13007,8 +13007,8 @@
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-08-17T03:04:03.9654365+00:00",
+  "LastChanged_Achievements": "2023-08-17T04:03:44.8108431+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:00.8930351+00:00",
-  "LastUpdate_Ratings": "2023-08-17T03:00:28.9761739+00:00",
-  "LastUpdate_Achievements": "2023-08-17T03:04:03.9655595+00:00"
+  "LastUpdate_Ratings": "2023-08-17T04:00:13.1611555+00:00",
+  "LastUpdate_Achievements": "2023-08-17T04:03:44.8109871+00:00"
 }

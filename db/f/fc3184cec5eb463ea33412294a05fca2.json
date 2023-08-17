@@ -4,7 +4,7 @@
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 38,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 197,
+  "EOS_Progressed": 198,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 7.11,
+  "EOS_Completed_Percentage": 7.07,
   "EosHistory": [
     {
       "Time": "2023-06-10T10:01:48.8314977+00:00",
@@ -801,6 +801,11 @@
       "Time": "2023-08-17T01:40:28.6508566+00:00",
       "NumProgressed": 197,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-08-17T04:03:34.8531356+00:00",
+      "NumProgressed": 198,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 16,
@@ -812,7 +817,7 @@
       "Name": "Three is company",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -852,7 +857,7 @@
       "Name": "High-rise",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -860,7 +865,7 @@
       "Name": "Putting challenge",
       "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_15",
@@ -882,9 +887,9 @@
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "8d3ci0",
       "Name": "Make a wish",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 75
+      "UsersEstimate": 73
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -898,9 +903,9 @@
       "ID": "NEW_ACHIEVEMENT_1_5",
       "SetID": "8d3ci0",
       "Name": "Way to the shore",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 71
+      "UsersEstimate": 69
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -908,7 +913,7 @@
       "Name": "Private pool",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -916,7 +921,7 @@
       "Name": "Abducktion",
       "Percentage": 20,
       "XP": 95,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
@@ -932,21 +937,21 @@
       "Name": "Watery help",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     }
   ],
   "AchievementSets": [
     {
       "ID": "8d3ci0",
       "IsBase": true,
-      "Progressed": 197,
+      "Progressed": 198,
       "Completed": 14
     }
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-08-17T03:03:35.4077823+00:00",
+  "LastChanged_Achievements": "2023-08-17T04:03:34.8531349+00:00",
   "LastUpdate_AppInfo": "2023-08-12T15:56:58.9050315+00:00",
-  "LastUpdate_Ratings": "2023-08-17T02:58:35.4102696+00:00",
-  "LastUpdate_Achievements": "2023-08-17T03:03:35.4078058+00:00"
+  "LastUpdate_Ratings": "2023-08-17T03:58:28.0750759+00:00",
+  "LastUpdate_Achievements": "2023-08-17T04:03:34.8531543+00:00"
 }

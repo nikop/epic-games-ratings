@@ -2,9 +2,9 @@
   "ID": "a46cade12846436281c910ddc51411f3",
   "Name": "Dros",
   "ProductSlug": "dros-6da0b2",
-  "Ranking_EOS_Progress": 452,
+  "Ranking_EOS_Progress": 449,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewPlayers": 222,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-08-11T01:30:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7,
+  "EOS_Progressed": 8,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -56,6 +56,11 @@
       "Time": "2023-08-17T02:16:52.0066074+00:00",
       "NumProgressed": 7,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-17T04:04:33.8673614+00:00",
+      "NumProgressed": 8,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T00:02:23.2553608+00:00",
@@ -74,7 +79,7 @@
       "ID": "CAPTAIN_ARM",
       "SetID": "1k0m0ab",
       "Name": "Handy Man",
-      "Percentage": 71,
+      "Percentage": 63,
       "XP": 25,
       "UsersEstimate": 5
     },
@@ -82,7 +87,7 @@
       "ID": "CATCHDROG_ZLOFF",
       "SetID": "1k0m0ab",
       "Name": "Engineer Zloff",
-      "Percentage": 29,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -90,7 +95,7 @@
       "ID": "CATCHMENT_SEAL",
       "SetID": "1k0m0ab",
       "Name": "Earth Seal",
-      "Percentage": 29,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -98,7 +103,7 @@
       "ID": "CATCH_MADAME_BOUVINE",
       "SetID": "1k0m0ab",
       "Name": "Tower of Love",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -106,7 +111,7 @@
       "ID": "CATCH_PIPES_TUNNEL",
       "SetID": "1k0m0ab",
       "Name": "Hidden Refuge",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -114,7 +119,7 @@
       "ID": "CATCH_SOUNDPROOF",
       "SetID": "1k0m0ab",
       "Name": "Padded Hut",
-      "Percentage": 29,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -122,7 +127,7 @@
       "ID": "DISTILLERY_SEAL",
       "SetID": "1k0m0ab",
       "Name": "Air Seal",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -130,7 +135,7 @@
       "ID": "DLR_MEMBER",
       "SetID": "1k0m0ab",
       "Name": "Resistance Fighter",
-      "Percentage": 29,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -146,7 +151,7 @@
       "ID": "DRINK_BLUE",
       "SetID": "1k0m0ab",
       "Name": "PRIMA BLUE",
-      "Percentage": 29,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -154,7 +159,7 @@
       "ID": "DRINK_GAZE",
       "SetID": "1k0m0ab",
       "Name": "PRIMA GAZE",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -162,7 +167,7 @@
       "ID": "DRINK_JOLT",
       "SetID": "1k0m0ab",
       "Name": "PRIMA JOLT",
-      "Percentage": 29,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -170,7 +175,7 @@
       "ID": "DRINK_RUSH",
       "SetID": "1k0m0ab",
       "Name": "PRIMA RUSH",
-      "Percentage": 29,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -178,7 +183,7 @@
       "ID": "DROSTOWN_TICKET",
       "SetID": "1k0m0ab",
       "Name": "Fair Trade",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -250,7 +255,7 @@
       "ID": "JAILBREAK",
       "SetID": "1k0m0ab",
       "Name": "Jailbreak",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -274,7 +279,7 @@
       "ID": "MODERAT_EARTH",
       "SetID": "1k0m0ab",
       "Name": "Moderat Earth",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -306,7 +311,7 @@
       "ID": "NEWFLESH",
       "SetID": "1k0m0ab",
       "Name": "New Flesh",
-      "Percentage": 29,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -387,14 +392,14 @@
     {
       "ID": "1k0m0ab",
       "IsBase": true,
-      "Progressed": 7,
+      "Progressed": 8,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-13T17:57:40.8250998+00:00",
   "FirstSeenAchievements": "2023-08-07T02:00:19.8030023+00:00",
-  "LastChanged_Achievements": "2023-08-17T03:04:33.4665009+00:00",
+  "LastChanged_Achievements": "2023-08-17T04:04:33.8673607+00:00",
   "LastUpdate_AppInfo": "2023-08-11T01:35:09.7822007+00:00",
-  "LastUpdate_Ratings": "2023-08-17T02:57:57.7710668+00:00",
-  "LastUpdate_Achievements": "2023-08-17T03:04:33.4665336+00:00"
+  "LastUpdate_Ratings": "2023-08-17T03:57:50.7893898+00:00",
+  "LastUpdate_Achievements": "2023-08-17T04:04:33.8673921+00:00"
 }

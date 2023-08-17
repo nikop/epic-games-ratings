@@ -2942,10 +2942,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 12944,
       "NumberOfAwardsMax": 6772
+    },
+    {
+      "Time": "2023-08-17T03:58:47.3791539+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 12960,
+      "NumberOfAwardsMax": 6772
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12944,
+  "NumberOfAwards": 12960,
   "NumberOfAwardsMax": 6772,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2977,7 +2983,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 654
+      "Count": 661
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3001,7 +3007,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 564
+      "Count": 573
     },
     {
       "Text": "This game is Relaxing",
@@ -3016,9 +3022,9 @@
       "Count": 700
     }
   ],
-  "EOS_Progressed": 1577203,
+  "EOS_Progressed": 1577321,
   "EOS_Completed": 505,
-  "EOS_NewPlayers": 25131,
+  "EOS_NewPlayers": 25132,
   "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -11006,6 +11012,11 @@
       "Time": "2023-08-17T03:08:29.2245379+00:00",
       "NumProgressed": 1577203,
       "NumCompleted": 505
+    },
+    {
+      "Time": "2023-08-17T04:08:31.3770548+00:00",
+      "NumProgressed": 1577321,
+      "NumCompleted": 505
     }
   ],
   "TotalAchievements": 1328,
@@ -12367,9 +12378,9 @@
       "ID": "cac_2",
       "SetID": "bkjdbk8",
       "Name": "Human Sentry Gun",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1577
     },
     {
       "ID": "cac_20",
@@ -21640,22 +21651,22 @@
     {
       "ID": "61cefe3",
       "IsBase": true,
-      "Progressed": 1577203,
+      "Progressed": 1577321,
       "Completed": 505
     },
     {
       "ID": "bkjdbk8",
       "IsBase": false,
-      "Progressed": 1577203,
+      "Progressed": 1577321,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-06-08T18:57:07.8003815+00:00",
   "FirstSeenRating": "2023-06-09T03:57:04.3869033+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:50.4372379+00:00",
-  "LastChanged": "2023-08-17T02:11:04.0235024+00:00",
-  "LastChanged_Achievements": "2023-08-17T03:08:29.2245373+00:00",
+  "LastChanged": "2023-08-17T03:58:47.3791538+00:00",
+  "LastChanged_Achievements": "2023-08-17T04:08:31.377054+00:00",
   "LastUpdate_AppInfo": "2023-08-10T19:57:07.9529529+00:00",
-  "LastUpdate_Ratings": "2023-08-17T02:58:56.1110425+00:00",
-  "LastUpdate_Achievements": "2023-08-17T03:08:29.2408826+00:00"
+  "LastUpdate_Ratings": "2023-08-17T03:58:47.3791544+00:00",
+  "LastUpdate_Achievements": "2023-08-17T04:08:31.3953572+00:00"
 }

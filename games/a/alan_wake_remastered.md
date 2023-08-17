@@ -7,8 +7,8 @@ Number of Ratings: 524  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Follow the Light | 37.00% | ~22,563 |
-| Let There Be Light | 30.00% | ~18,294 |
-| Float Like a Butterfly | 29.00% | ~17,684 |
+| Let There Be Light | 30.00% | ~18,295 |
+| Float Like a Butterfly | 29.00% | ~17,685 |
 | Nordic Walking | 23.00% | ~14,026 |
 | Bright Falls' Finest | 23.00% | ~14,026 |
 | Under a Thin Layer of Skin | 20.00% | ~12,196 |
@@ -34,7 +34,7 @@ Number of Ratings: 524  (23.09.2022)
 | Two For the Price of One | 10.00% | ~6,098 |
 | Energized! | 10.00% | ~6,098 |
 | Right of Way | 9.00% | ~5,488 |
-| What Light Through Yonder Window | 8.00% | ~4,878 |
+| What Light Through Yonder Window | 8.00% | ~4,879 |
 | A Friend in Need | 8.00% | ~1,956 |
 | Tornado Wrangler | 7.00% | ~4,269 |
 | Departure | 7.00% | ~4,269 |
@@ -47,8 +47,8 @@ Number of Ratings: 524  (23.09.2022)
 | If It Flies, It Burns | 4.00% | ~2,439 |
 | KBF-FM | 4.00% | ~2,439 |
 | Carny | 3.00% | ~1,829 |
-| Kill Your Darlings | 3.00% | ~733 |
-| Heartbreaker | 3.00% | ~733 |
+| Kill Your Darlings | 3.00% | ~734 |
+| Heartbreaker | 3.00% | ~734 |
 | Medical Opinions | 2.00% | ~1,220 |
 | Taken Season | 2.00% | ~1,220 |
 | An Idyllic Small Town | 2.00% | ~1,220 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~61 |
 | No Punctuation | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,981 (Ranked 85)  
+Progressed: 60,982 (Ranked 85)  
 Completed: 64 (0.10%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 64 (0.10%) (Ranked 205)
 | 2023-08-14 | 60,863 | 64 |
 | 2023-08-15 | 60,907 | 64 |
 | 2023-08-16 | 60,965 | 64 |
-| 2023-08-17 | 60,981 | 64 |
+| 2023-08-17 | 60,982 | 64 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

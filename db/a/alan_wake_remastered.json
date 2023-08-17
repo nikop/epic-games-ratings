@@ -3,8 +3,8 @@
   "Name": "Alan Wake Remastered",
   "ProductSlug": "alan-wake-remastered",
   "Ranking_Rating": 485,
-  "Ranking_Popularity": 512,
-  "Ranking_PopularitySum": 512,
+  "Ranking_Popularity": 511,
+  "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 88,
@@ -512,7 +512,7 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 60981,
+  "EOS_Progressed": 60982,
   "EOS_Completed": 64,
   "EOS_NewPlayers": 365,
   "EOS_NewCompleters": 0,
@@ -11482,6 +11482,11 @@
       "Time": "2023-08-17T03:06:35.103335+00:00",
       "NumProgressed": 60981,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-17T04:06:43.1134077+00:00",
+      "NumProgressed": 60982,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -11685,7 +11690,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4878
+      "UsersEstimate": 4879
     },
     {
       "ID": "26",
@@ -11741,7 +11746,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 17684
+      "UsersEstimate": 17685
     },
     {
       "ID": "33",
@@ -11765,7 +11770,7 @@
       "Name": "Let There Be Light",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 18294
+      "UsersEstimate": 18295
     },
     {
       "ID": "36",
@@ -11965,7 +11970,7 @@
       "Name": "Kill Your Darlings",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 733
+      "UsersEstimate": 734
     },
     {
       "ID": "61",
@@ -12021,28 +12026,28 @@
       "Name": "Heartbreaker",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 733
+      "UsersEstimate": 734
     }
   ],
   "AchievementSets": [
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 60981,
+      "Progressed": 60982,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 24449,
+      "Progressed": 24450,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-17T03:06:35.103334+00:00",
+  "LastChanged_Achievements": "2023-08-17T04:06:43.113407+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:20.2881971+00:00",
-  "LastUpdate_Ratings": "2023-08-17T02:59:43.4238048+00:00",
-  "LastUpdate_Achievements": "2023-08-17T03:06:35.1034651+00:00"
+  "LastUpdate_Ratings": "2023-08-17T03:59:29.2194892+00:00",
+  "LastUpdate_Achievements": "2023-08-17T04:06:43.1135184+00:00"
 }

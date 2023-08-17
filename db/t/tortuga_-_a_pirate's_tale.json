@@ -3,11 +3,11 @@
   "Name": "Tortuga - A Pirate\u0027s Tale",
   "ProductSlug": "tortuga-a-pirates-tale-e02635",
   "Ranking_Rating": 962,
-  "Ranking_Popularity": 512,
-  "Ranking_PopularitySum": 512,
+  "Ranking_Popularity": 511,
+  "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -4207,8 +4207,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-08-03T01:53:52.0652569+00:00",
-  "LastChanged_Achievements": "2023-08-17T03:07:12.3645075+00:00",
+  "LastChanged_Achievements": "2023-08-17T04:07:02.4976296+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:01.2181889+00:00",
-  "LastUpdate_Ratings": "2023-08-17T02:57:33.5314248+00:00",
-  "LastUpdate_Achievements": "2023-08-17T03:07:12.3645567+00:00"
+  "LastUpdate_Ratings": "2023-08-17T03:57:28.9466168+00:00",
+  "LastUpdate_Achievements": "2023-08-17T04:07:02.4976759+00:00"
 }

@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | All systems go | 82.00% | ~41 |
-| Do a barrel roll! | 64.00% | ~32 |
-| Huh? What was that? | 52.00% | ~26 |
+| Do a barrel roll! | 66.00% | ~33 |
+| Huh? What was that? | 54.00% | ~27 |
 | Whatever it is, fix it! | 36.00% | ~18 |
 | The opposite of good news | 30.00% | ~15 |
 | My Emperor... I've failed you! | 24.00% | ~12 |

@@ -31,10 +31,10 @@ Number of Ratings: 177  (23.09.2022)
 | Stephanie | 0.50% | ~30 |
 | The Magic Number | 0.50% | ~30 |
 | Vickie | 0.50% | ~30 |
+| Te Amo Lety | 0.50% | ~30 |
 | Benedict Brahrnold | 0.40% | ~24 |
 | I'll Be Back | 0.40% | ~24 |
 | Love Conquers All | 0.40% | ~24 |
-| Te Amo Lety | 0.40% | ~24 |
 | Ashley | 0.30% | ~18 |
 | The Bride | 0.30% | ~18 |
 | Deck the Balls | 0.30% | ~9 |
