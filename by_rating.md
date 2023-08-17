@@ -247,7 +247,7 @@
 | 238 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 5,682 | 62 |
 | 238 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 3,441 | 87 |
 | 238 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 302,680 | 3 |
-| 238 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 212,718 | 4 |
+| 238 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 213,069 | 4 |
 | 238 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 511 |
 | 238 | [King of Retail](games/k/king_of_retail.md) | 4.68 | 0 | 511 |
 | 238 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 435 | 206 |
@@ -389,7 +389,7 @@
 | 363 | [Supraland](games/s/supraland.md) | 4.61 | 7,671 | 45 |
 | 363 | [The Colonists](games/t/the_colonists.md) | 4.61 | 0 | 511 |
 | 363 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.61 | 32 | 453 |
-| 363 | [Warframe](games/w/warframe.md) | 4.61 | 16,490 | 22 |
+| 363 | [Warframe](games/w/warframe.md) | 4.61 | 16,510 | 22 |
 | 391 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.60 | 709 | 167 |
 | 391 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 13,214 | 28 |
 | 391 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.60 | 0 | 511 |
@@ -470,7 +470,7 @@
 | 451 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,762 | 116 |
 | 451 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.57 | 58 | 393 |
 | 470 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.56 | 0 | 511 |
-| 470 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 827 | 153 |
+| 470 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 829 | 153 |
 | 470 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.56 | 261 | 249 |
 | 470 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 35 | 437 |
 | 470 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 0 | 511 |
@@ -582,7 +582,7 @@
 | 576 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 36,368 | 13 |
 | 576 | [Duskers](games/d/duskers.md) | 4.49 | 0 | 511 |
 | 576 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 273 | 244 |
-| 576 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 247 | 254 |
+| 576 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 248 | 252 |
 | 576 | [Maneater](games/m/maneater.md) | 4.49 | 13,628 | 26 |
 | 576 | [MythForce](games/m/mythforce.md) | 4.49 | 32 | 453 |
 | 576 | [Rocket League®](games/r/rocket_league®.md) | 4.49 | 504,930 | 2 |
@@ -935,7 +935,7 @@
 | 931 | [Shop Titans](games/s/shop_titans.md) | 3.99 | 4,701 | 71 |
 | 931 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.99 | 0 | 511 |
 | 935 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 0 | 511 |
-| 935 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 3,118 | 94 |
+| 935 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 3,131 | 94 |
 | 935 | [The First Tree](games/t/the_first_tree.md) | 3.98 | 0 | 511 |
 | 938 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 0 | 511 |
 | 938 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.97 | 0 | 511 |
