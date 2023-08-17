@@ -20,8 +20,8 @@
 | 18 | [Anna's Quest](games/a/anna's_quest.md) | 14.71% |
 | 19 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.55% |
 | 20 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.08% |
-| 21 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.18% |
-| 22 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.17% |
+| 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.17% |
+| 22 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.16% |
 | 23 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 23 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
 | 23 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 11.11% |
@@ -544,4 +544,4 @@
 | 258 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 258 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 258 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,065 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,066 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
