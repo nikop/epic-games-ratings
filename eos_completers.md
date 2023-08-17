@@ -95,7 +95,7 @@
 | 93 | [Night Book](games/n/night_book.md) | 1.89% |
 | 94 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 95 | [Frogun](games/f/frogun.md) | 1.81% |
-| 96 | [Sifu](games/s/sifu.md) | 1.80% |
+| 95 | [Sifu](games/s/sifu.md) | 1.81% |
 | 97 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.67% |
 | 98 | [Iron Danger](games/i/iron_danger.md) | 1.61% |
 | 98 | [Somerville](games/s/somerville.md) | 1.61% |
