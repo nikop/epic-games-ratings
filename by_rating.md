@@ -72,7 +72,7 @@
 | 67 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 0 | 512 |
 | 67 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 512 |
 | 67 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 33 | 447 |
-| 67 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 2,726 | 95 |
+| 67 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 2,731 | 95 |
 | 67 | [Sifu](games/s/sifu.md) | 4.82 | 6,373 | 55 |
 | 67 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 400 | 215 |
 | 67 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.82 | 0 | 512 |
@@ -151,7 +151,7 @@
 | 146 | [Haven](games/h/haven.md) | 4.74 | 0 | 512 |
 | 146 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 7,655 | 46 |
 | 146 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 661 | 174 |
-| 146 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,946 | 50 |
+| 146 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,948 | 50 |
 | 146 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.74 | 0 | 512 |
 | 146 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 36,091 | 14 |
 | 146 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 0 | 512 |
@@ -551,7 +551,6 @@
 | 542 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 107 | 328 |
 | 542 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 148 | 297 |
 | 542 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 188 | 277 |
-| 542 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.51 | 23 | 491 |
 | 542 | [Railway Empire 2](games/r/railway_empire_2.md) | 4.51 | 0 | 512 |
 | 542 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.51 | 0 | 512 |
 | 542 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.51 | 764 | 160 |
@@ -560,22 +559,23 @@
 | 542 | [UnMetal](games/u/unmetal.md) | 4.51 | 0 | 512 |
 | 542 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 134 | 307 |
 | 542 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.51 | 28 | 467 |
-| 561 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 410 | 211 |
-| 561 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.50 | 108 | 327 |
-| 561 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 216 | 268 |
-| 561 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 91 | 349 |
-| 561 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 512 |
-| 561 | [First Class Trouble](games/f/first_class_trouble.md) | 4.50 | 120 | 318 |
-| 561 | [Horace](games/h/horace.md) | 4.50 | 0 | 512 |
-| 561 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.50 | 0 | 512 |
-| 561 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 0 | 512 |
-| 561 | [Knockout City™](games/k/knockout_city™.md) | 4.50 | 0 | 512 |
-| 561 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 99 | 337 |
-| 561 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 627 | 177 |
-| 561 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.50 | 0 | 512 |
-| 561 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 757 | 161 |
-| 561 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 0 | 512 |
-| 561 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 36 | 433 |
+| 560 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 410 | 211 |
+| 560 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.50 | 108 | 327 |
+| 560 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 216 | 268 |
+| 560 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 91 | 349 |
+| 560 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 512 |
+| 560 | [First Class Trouble](games/f/first_class_trouble.md) | 4.50 | 120 | 318 |
+| 560 | [Horace](games/h/horace.md) | 4.50 | 0 | 512 |
+| 560 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.50 | 0 | 512 |
+| 560 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 0 | 512 |
+| 560 | [Knockout City™](games/k/knockout_city™.md) | 4.50 | 0 | 512 |
+| 560 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 99 | 337 |
+| 560 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 627 | 177 |
+| 560 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.50 | 23 | 491 |
+| 560 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.50 | 0 | 512 |
+| 560 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 757 | 161 |
+| 560 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 0 | 512 |
+| 560 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 36 | 433 |
 | 577 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 64 | 386 |
 | 577 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.49 | 0 | 512 |
 | 577 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 1,986 | 109 |
@@ -713,7 +713,7 @@
 | 709 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 1,016 | 143 |
 | 709 | [Democracy 4](games/d/democracy_4.md) | 4.39 | 0 | 512 |
 | 709 | [Hero's Hour](games/h/hero's_hour.md) | 4.39 | 0 | 512 |
-| 709 | [MORDHAU](games/m/mordhau.md) | 4.39 | 520 | 196 |
+| 709 | [MORDHAU](games/m/mordhau.md) | 4.39 | 524 | 196 |
 | 709 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,742 | 32 |
 | 709 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 4.39 | 0 | 512 |
 | 709 | [Startup Panic](games/s/startup_panic.md) | 4.39 | 0 | 512 |
