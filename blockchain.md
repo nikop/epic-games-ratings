@@ -5,6 +5,7 @@
 | [ANIMO Stars Arena](games/a/animo_stars_arena.md) | 2099-01-01 | - |  | - | - |
 | [Defimons](games/8/82b2eb4986c94409baca6597ce30c0cb.md) | 2099-01-01 | - |  | - | - |
 | [Delysium](games/d/delysium.md) | 2099-01-01 | - |  | - | - |
+| [HELIX](games/b/bfaeb968e658400db8cc48fd4bae1081.md) | 2099-01-01 | - |  | - | - |
 | [Kingdom Karnage](games/6/69df793223b24b2aafcc36babbfb8f67.md) | 2099-01-01 | - |  | - | - |
 | [Legends of Bezogia](games/l/legends_of_bezogia.md) | 2099-01-01 | - |  | - | - |
 | [Meta Nemesis](games/m/meta_nemesis.md) | 2099-01-01 | - |  | - | - |

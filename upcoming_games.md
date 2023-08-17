@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 2023-08-17 | 5 (1,000 XP) | 2 | - | - |
 | [Mortal Street Fighter](games/5/58ac7dee6bc7429db98fdae628f179ce.md) | 2023-08-17 | - |  | - | - |
 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 2023-08-18 | - |  | - | - |
 | [Find the Oil Racing Edition](games/3/3b665944a4764f9882d99296d2010265.md) | 2023-08-19 | - |  | - | - |
@@ -296,6 +295,7 @@
 | [Gray Dawn](games/9/9704cc138a58450abe19bbb318866b1c.md) | 2099-01-01 | - |  | - | - |
 | [Guardians of Elderon](games/g/guardians_of_elderon.md) | 2099-01-01 | - |  | - | - |
 | [Headquarters World War 2](games/h/headquarters_world_war_2.md) | 2099-01-01 | - |  | - | - |
+| [HELIX](games/b/bfaeb968e658400db8cc48fd4bae1081.md) | 2099-01-01 | - |  | - | - |
 | [Highwater](games/h/highwater.md) | 2099-01-01 | - |  | - | - |
 | [Hit and Boom](games/h/hit_and_boom.md) | 2099-01-01 | - |  | - | - |
 | [Hold On](games/h/hold_on.md) | 2099-01-01 | - |  | - | - |
