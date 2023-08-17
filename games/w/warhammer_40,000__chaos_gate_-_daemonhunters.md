@@ -22,8 +22,8 @@ Number of Ratings: 371  (23.09.2022)
 | Nemesis Master | 1.00% | ~32 |
 | Gunmaster | 1.00% | ~32 |
 | Hive Exterminator | 1.00% | ~32 |
+| Hold Your Ground | 0.90% | ~28 |
 | Execution Force | 0.90% | ~28 |
-| Hold Your Ground | 0.80% | ~25 |
 | Corruption Cleanser | 0.80% | ~25 |
 | Just a Scratch | 0.80% | ~25 |
 | Efficient Killer | 0.50% | ~16 |

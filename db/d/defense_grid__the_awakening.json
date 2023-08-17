@@ -1759,9 +1759,9 @@
       "Count": 71
     }
   ],
-  "EOS_Progressed": 484132,
+  "EOS_Progressed": 484133,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 536,
+  "EOS_NewPlayers": 537,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14179,6 +14179,11 @@
       "Time": "2023-08-17T06:04:45.9581305+00:00",
       "NumProgressed": 484132,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-17T07:04:27.493655+00:00",
+      "NumProgressed": 484133,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 87,
@@ -14238,7 +14243,7 @@
       "Name": "Boot Camp",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 217859
+      "UsersEstimate": 217860
     },
     {
       "ID": "BURNBABYBURN",
@@ -14334,7 +14339,7 @@
       "Name": "Eradicator",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 324368
+      "UsersEstimate": 324369
     },
     {
       "ID": "EXTERMINATOR",
@@ -14382,7 +14387,7 @@
       "Name": "First Blood",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 392147
+      "UsersEstimate": 392148
     },
     {
       "ID": "FLAWLESSVICTORY",
@@ -14390,7 +14395,7 @@
       "Name": "Flawless Victory",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 203335
+      "UsersEstimate": 203336
     },
     {
       "ID": "FLURRY",
@@ -14446,7 +14451,7 @@
       "Name": "Great Ball of Fire",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 154922
+      "UsersEstimate": 154923
     },
     {
       "ID": "GUNCRAZY",
@@ -14478,7 +14483,7 @@
       "Name": "Hey! That\u0027s mine!",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 377623
+      "UsersEstimate": 377624
     },
     {
       "ID": "HIGHVOLTAGE",
@@ -14502,7 +14507,7 @@
       "Name": "I Spy",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 309844
+      "UsersEstimate": 309845
     },
     {
       "ID": "KABOOM",
@@ -14534,7 +14539,7 @@
       "Name": "Liquidator",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 140398
+      "UsersEstimate": 140399
     },
     {
       "ID": "MAJESTICPONY",
@@ -14670,7 +14675,7 @@
       "Name": "Power Builder",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 82302
+      "UsersEstimate": 82303
     },
     {
       "ID": "PYRRHICVICTORY",
@@ -14678,7 +14683,7 @@
       "Name": "Pyrrhic Victory",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 82302
+      "UsersEstimate": 82303
     },
     {
       "ID": "REGIONALDELUGE",
@@ -14885,15 +14890,15 @@
     {
       "ID": "bko38ff",
       "IsBase": true,
-      "Progressed": 484132,
+      "Progressed": 484133,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:21:41.4012807+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:40.5516265+00:00",
   "LastChanged": "2023-08-17T01:36:50.3590587+00:00",
-  "LastChanged_Achievements": "2023-08-17T06:04:45.95813+00:00",
+  "LastChanged_Achievements": "2023-08-17T07:04:27.4936541+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:06.2248213+00:00",
-  "LastUpdate_Ratings": "2023-08-17T05:59:23.8121423+00:00",
-  "LastUpdate_Achievements": "2023-08-17T06:04:45.9582614+00:00"
+  "LastUpdate_Ratings": "2023-08-17T06:59:17.8338976+00:00",
+  "LastUpdate_Achievements": "2023-08-17T07:04:27.493831+00:00"
 }

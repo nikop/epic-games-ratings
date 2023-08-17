@@ -6,23 +6,23 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Imprint | 88.00% | ~122,206 |
-| Taste | 84.00% | ~116,651 |
-| The Hunt | 66.00% | ~91,654 |
-| Ravenous | 63.00% | ~87,488 |
-| Weeper | 43.00% | ~59,714 |
-| Devourer | 22.00% | ~30,551 |
-| Harmless | 19.00% | ~26,385 |
-| Silenced Whispers | 19.00% | ~26,385 |
-| Yank | 15.00% | ~20,830 |
-| Sharpened Vessel | 15.00% | ~20,830 |
-| Feast | 12.00% | ~16,664 |
+| Imprint | 88.00% | ~122,210 |
+| Taste | 84.00% | ~116,655 |
+| The Hunt | 66.00% | ~91,658 |
+| Ravenous | 63.00% | ~87,491 |
+| Weeper | 43.00% | ~59,716 |
+| Devourer | 22.00% | ~30,552 |
+| Harmless | 19.00% | ~26,386 |
+| Silenced Whispers | 19.00% | ~26,386 |
+| Yank | 15.00% | ~20,831 |
+| Sharpened Vessel | 15.00% | ~20,831 |
+| Feast | 12.00% | ~16,665 |
 | Scion | 11.00% | ~15,230 |
 | Jawcrab | 11.00% | ~15,276 |
 | Jawstag | 11.00% | ~15,276 |
-| Watcher | 10.00% | ~13,887 |
+| Watcher | 10.00% | ~13,888 |
 | Shapely | 8.00% | ~11,110 |
-| Glare | 8.00% | ~11,076 |
+| Glare | 8.00% | ~11,077 |
 | Predator | 8.00% | ~11,110 |
 | Assimilation | 6.00% | ~8,332 |
 | Host | 6.00% | ~8,307 |
@@ -38,9 +38,9 @@ Number of Ratings: 46  (23.09.2022)
 | All-Seeing | 3.00% | ~4,166 |
 | Passage | 3.00% | ~4,166 |
 | Proportions | 3.00% | ~4,166 |
-| Bloodhunter | 2.00% | ~2,777 |
+| Bloodhunter | 2.00% | ~2,778 |
 | Zygote | 2.00% | ~2,769 |
-| Kinship | 2.00% | ~2,777 |
+| Kinship | 2.00% | ~2,778 |
 | Kin | 2.00% | ~2,769 |
 | Listen | 2.00% | ~2,769 |
 | Weakness | 1.00% | ~1,389 |
@@ -49,7 +49,7 @@ Number of Ratings: 46  (23.09.2022)
 | Instruments | 0.70% | ~972 |
 | Spiral Heart | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,870 (Ranked 64)  
+Progressed: 138,875 (Ranked 64)  
 Completed: 1 (0.00%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,7 +149,7 @@ Completed: 1 (0.00%) (Ranked 258)
 | 2023-08-14 | 137,893 | 1 |
 | 2023-08-15 | 138,364 | 1 |
 | 2023-08-16 | 138,779 | 1 |
-| 2023-08-17 | 138,870 | 1 |
+| 2023-08-17 | 138,875 | 1 |
 ## Awards
 Max (Challenging Combat): 25  (Ranked 481)  
 Sum: 71 (Ranked 434)  

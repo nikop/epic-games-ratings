@@ -480,7 +480,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 525191,
+  "EOS_Progressed": 525192,
   "EOS_Completed": 460,
   "EOS_NewPlayers": 581,
   "EOS_NewCompleters": 5,
@@ -13010,6 +13010,11 @@
       "Time": "2023-08-17T06:05:20.8436433+00:00",
       "NumProgressed": 525191,
       "NumCompleted": 460
+    },
+    {
+      "Time": "2023-08-17T07:05:02.8463574+00:00",
+      "NumProgressed": 525192,
+      "NumCompleted": 460
     }
   ],
   "TotalAchievements": 57,
@@ -13085,7 +13090,7 @@
       "Name": "Moving On Up",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 31511
+      "UsersEstimate": 31512
     },
     {
       "ID": "18",
@@ -13101,7 +13106,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 325618
+      "UsersEstimate": 325619
     },
     {
       "ID": "2",
@@ -13157,7 +13162,7 @@
       "Name": "Owl Knows Best",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 31511
+      "UsersEstimate": 31512
     },
     {
       "ID": "26",
@@ -13165,7 +13170,7 @@
       "Name": "Mind the Moose",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 31511
+      "UsersEstimate": 31512
     },
     {
       "ID": "27",
@@ -13261,7 +13266,7 @@
       "Name": "Dressed to Kill",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 31511
+      "UsersEstimate": 31512
     },
     {
       "ID": "38",
@@ -13285,7 +13290,7 @@
       "Name": "Beast Mode",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 31511
+      "UsersEstimate": 31512
     },
     {
       "ID": "40",
@@ -13317,7 +13322,7 @@
       "Name": "Sunny Shores",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 89282
+      "UsersEstimate": 89283
     },
     {
       "ID": "44",
@@ -13349,7 +13354,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 325618
+      "UsersEstimate": 325619
     },
     {
       "ID": "48",
@@ -13476,15 +13481,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 525191,
+      "Progressed": 525192,
       "Completed": 460
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
-  "LastChanged_Achievements": "2023-08-17T06:05:20.8436428+00:00",
+  "LastChanged_Achievements": "2023-08-17T07:05:02.8463568+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:16.1872639+00:00",
-  "LastUpdate_Ratings": "2023-08-17T05:58:32.6885408+00:00",
-  "LastUpdate_Achievements": "2023-08-17T06:05:20.8437518+00:00"
+  "LastUpdate_Ratings": "2023-08-17T06:58:26.589974+00:00",
+  "LastUpdate_Achievements": "2023-08-17T07:05:02.8465092+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "the-expanse-a-telltale-series",
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 36,
+  "Ranking_EOS_NewPlayers": 37,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8052,
+  "EOS_Progressed": 8056,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2016,
+  "EOS_NewPlayers": 2006,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2247,6 +2247,11 @@
       "Time": "2023-08-17T06:06:05.6520343+00:00",
       "NumProgressed": 8052,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-17T07:05:48.5811981+00:00",
+      "NumProgressed": 8056,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -2299,7 +2304,7 @@
       "Name": "Doctor Approved",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 1288
+      "UsersEstimate": 1289
     },
     {
       "ID": "15",
@@ -2323,7 +2328,7 @@
       "Name": "Spore Taste",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 805
+      "UsersEstimate": 806
     },
     {
       "ID": "18",
@@ -2339,7 +2344,7 @@
       "Name": "Martian Music",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 805
+      "UsersEstimate": 806
     },
     {
       "ID": "2",
@@ -2498,14 +2503,14 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 8052,
+      "Progressed": 8056,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged_Achievements": "2023-08-17T06:06:05.6520339+00:00",
+  "LastChanged_Achievements": "2023-08-17T07:05:48.5811974+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:56.6215488+00:00",
-  "LastUpdate_Ratings": "2023-08-17T06:00:01.5159681+00:00",
-  "LastUpdate_Achievements": "2023-08-17T06:06:05.6520613+00:00"
+  "LastUpdate_Ratings": "2023-08-17T06:59:55.2737142+00:00",
+  "LastUpdate_Achievements": "2023-08-17T07:05:48.5812356+00:00"
 }

@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 932,
+  "EOS_Progressed": 933,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3276,6 +3276,11 @@
       "Time": "2023-08-17T00:03:43.8183018+00:00",
       "NumProgressed": 932,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-17T07:03:04.1415967+00:00",
+      "NumProgressed": 933,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -3399,7 +3404,7 @@
       "Name": "Corporal",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -3407,7 +3412,7 @@
       "Name": "Sergeant",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -3463,7 +3468,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -3471,7 +3476,7 @@
       "Name": "Covert Operative",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -3543,7 +3548,7 @@
       "Name": "Defenses Online",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -3590,14 +3595,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 932,
+      "Progressed": 933,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-17T06:03:23.2760681+00:00",
+  "LastChanged_Achievements": "2023-08-17T07:03:04.141596+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:27.4280109+00:00",
-  "LastUpdate_Ratings": "2023-08-17T05:57:48.3095262+00:00",
-  "LastUpdate_Achievements": "2023-08-17T06:03:23.2761052+00:00"
+  "LastUpdate_Ratings": "2023-08-17T06:57:41.7600466+00:00",
+  "LastUpdate_Achievements": "2023-08-17T07:03:04.1416399+00:00"
 }

@@ -5,58 +5,58 @@ Rating: 4.76 (Ranked 117)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 10.00% | ~15,386 |
-| The Killing Jar | 8.00% | ~12,309 |
-| Not Your Average Trait | 8.00% | ~12,309 |
-| Expanding Horizons | 7.00% | ~10,770 |
-| Quest for Survival | 7.00% | ~10,770 |
-| Gleaming the Cube | 6.00% | ~9,232 |
-| Familiar Face | 6.00% | ~9,232 |
-| Duality | 6.00% | ~9,232 |
-| Boss'n Up | 6.00% | ~9,232 |
-| Trait Chaser | 6.00% | ~9,232 |
-| Not a Janitor | 5.00% | ~7,693 |
-| Equal Measures | 5.00% | ~7,693 |
-| Blue Goddess | 5.00% | ~7,693 |
-| Top Performer | 5.00% | ~7,693 |
-| Almost There | 5.00% | ~7,693 |
-| Make Some Room | 5.00% | ~7,693 |
-| Good, But Could Be Better! | 5.00% | ~7,693 |
-| Chaos | 4.00% | ~6,154 |
-| Traitor | 4.00% | ~6,154 |
-| Power Surge | 4.00% | ~6,154 |
-| The God Gambit | 4.00% | ~6,154 |
-| Dark Designs | 4.00% | ~6,154 |
-| Not So Special Now | 4.00% | ~6,154 |
-| Madman's Paradise | 4.00% | ~6,154 |
-| Shhh...It's a Secret | 4.00% | ~6,154 |
-| Was This Supposed To Happen? | 4.00% | ~6,154 |
-| The Web | 4.00% | ~6,154 |
-| Forever is a Long Time Coming | 3.00% | ~4,616 |
-| The Agenda | 3.00% | ~4,616 |
-| Bad Moon Rising | 3.00% | ~4,616 |
-| Strapped | 3.00% | ~4,616 |
-| Scrap Collector | 3.00% | ~4,616 |
-| All These Traits� | 3.00% | ~4,616 |
-| Am I Seeing This? | 2.00% | ~3,077 |
-| Red Room | 2.00% | ~3,077 |
-| Tall Tales | 2.00% | ~3,077 |
-| Edgelord | 2.00% | ~3,077 |
-| Scrap Hoarder | 2.00% | ~3,077 |
-| Carnage in C-Minor | 2.00% | ~3,077 |
-| The Ultimate Weapon | 2.00% | ~3,077 |
-| No One Should Have All That Power | 2.00% | ~3,077 |
-| Maxed Out! | 2.00% | ~3,077 |
-| Transmutate | 2.00% | ~3,077 |
+| First of Many | 10.00% | ~15,390 |
+| The Killing Jar | 8.00% | ~12,312 |
+| Not Your Average Trait | 8.00% | ~12,312 |
+| Expanding Horizons | 7.00% | ~10,773 |
+| Quest for Survival | 7.00% | ~10,773 |
+| Gleaming the Cube | 6.00% | ~9,234 |
+| Familiar Face | 6.00% | ~9,234 |
+| Duality | 6.00% | ~9,234 |
+| Boss'n Up | 6.00% | ~9,234 |
+| Trait Chaser | 6.00% | ~9,234 |
+| Not a Janitor | 5.00% | ~7,695 |
+| Equal Measures | 5.00% | ~7,695 |
+| Blue Goddess | 5.00% | ~7,695 |
+| Top Performer | 5.00% | ~7,695 |
+| Almost There | 5.00% | ~7,695 |
+| Make Some Room | 5.00% | ~7,695 |
+| Good, But Could Be Better! | 5.00% | ~7,695 |
+| Chaos | 4.00% | ~6,156 |
+| Traitor | 4.00% | ~6,156 |
+| Power Surge | 4.00% | ~6,156 |
+| The God Gambit | 4.00% | ~6,156 |
+| Dark Designs | 4.00% | ~6,156 |
+| Not So Special Now | 4.00% | ~6,156 |
+| Madman's Paradise | 4.00% | ~6,156 |
+| Shhh...It's a Secret | 4.00% | ~6,156 |
+| Was This Supposed To Happen? | 4.00% | ~6,156 |
+| The Web | 4.00% | ~6,156 |
+| Forever is a Long Time Coming | 3.00% | ~4,617 |
+| The Agenda | 3.00% | ~4,617 |
+| Bad Moon Rising | 3.00% | ~4,617 |
+| Strapped | 3.00% | ~4,617 |
+| Scrap Collector | 3.00% | ~4,617 |
+| All These Traits� | 3.00% | ~4,617 |
+| Am I Seeing This? | 2.00% | ~3,078 |
+| Red Room | 2.00% | ~3,078 |
+| Tall Tales | 2.00% | ~3,078 |
+| Edgelord | 2.00% | ~3,078 |
+| Scrap Hoarder | 2.00% | ~3,078 |
+| Carnage in C-Minor | 2.00% | ~3,078 |
+| The Ultimate Weapon | 2.00% | ~3,078 |
+| No One Should Have All That Power | 2.00% | ~3,078 |
+| Maxed Out! | 2.00% | ~3,078 |
+| Transmutate | 2.00% | ~3,078 |
 | Crafty | 1.00% | ~1,539 |
 | Only Human | 1.00% | ~1,539 |
 | The Collector | 1.00% | ~1,539 |
 | The Trigger | 0.70% | ~1,077 |
 | Cutting Edge | 0.70% | ~1,077 |
 | Ghost in the Machine | 0.60% | ~923 |
-| Proving Grounds | 0.40% | ~615 |
+| Proving Grounds | 0.40% | ~616 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 153,861 (Ranked 63)  
+Progressed: 153,904 (Ranked 63)  
 Completed: 66 (0.04%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 66 (0.04%) (Ranked 227)
 | 2023-08-14 | 150,092 | 55 |
 | 2023-08-15 | 151,919 | 58 |
 | 2023-08-16 | 153,562 | 65 |
-| 2023-08-17 | 153,861 | 66 |
+| 2023-08-17 | 153,904 | 66 |
 ## Awards
 Max (Great Boss Battles): 875  (Ranked 151)  
 Sum: 1,357 (Ranked 226)  
