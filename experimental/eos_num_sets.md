@@ -1,6 +1,5 @@
 | Game | Total Achievements | Total XP | Sets |
 | ---- | ------------------ | -------- | ---- |
-| [](../games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 48 | 1,440 | 2 |
 | [](../games/4/4ceb047b661d401e95132c459fb00f9a.md) | 0 | 0 | 2 |
 | [Age of Wonders 4](../games/a/age_of_wonders_4.md) | 50 | 1,215 | 2 |
 | [Alan Wake Remastered](../games/a/alan_wake_remastered.md) | 67 | 1,500 | 2 |
@@ -21,6 +20,7 @@
 | [GRIME](../games/g/grime.md) | 42 | 1,100 | 2 |
 | [Hi-Fi RUSH](../games/h/hi-fi_rush.md) | 71 | 1,250 | 2 |
 | [High On Life](../games/h/high_on_life.md) | 32 | 1,000 | 2 |
+| [Homeworld: Deserts of Kharak](../games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 48 | 1,440 | 2 |
 | [House Party](../games/h/house_party.md) | 69 | 1,040 | 2 |
 | [Idle Champions of the Forgotten Realms](../games/i/idle_champions_of_the_forgotten_realms.md) | 516 | 2,580 | 2 |
 | [IXION](../games/i/ixion.md) | 57 | 1,050 | 2 |
