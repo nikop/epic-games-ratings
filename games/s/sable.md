@@ -6,29 +6,29 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~28,555 |
-| Just The Two of Us | 32.00% | ~26,876 |
-| Up On High | 25.00% | ~20,996 |
-| Under The Hood | 25.00% | ~20,996 |
-| Got Your Nose | 24.00% | ~20,157 |
-| The Gift of Gab | 24.00% | ~20,157 |
-| Wrapping Up | 22.00% | ~18,477 |
-| More Than A Box Of Sand | 18.00% | ~15,117 |
+| Simoon | 34.00% | ~28,557 |
+| Just The Two of Us | 32.00% | ~26,877 |
+| Up On High | 25.00% | ~20,998 |
+| Under The Hood | 25.00% | ~20,998 |
+| Got Your Nose | 24.00% | ~20,158 |
+| The Gift of Gab | 24.00% | ~20,158 |
+| Wrapping Up | 22.00% | ~18,478 |
+| More Than A Box Of Sand | 18.00% | ~15,118 |
 | The Dunboyne | 17.00% | ~14,278 |
 | Badge Hobbyist | 17.00% | ~14,278 |
-| Chum Novice | 16.00% | ~13,438 |
-| Silver-Tongued Sable | 16.00% | ~13,438 |
-| Sticky Paws | 16.00% | ~13,438 |
-| Bubble Up | 16.00% | ~13,438 |
-| Thread The Needle | 15.00% | ~12,598 |
-| Power to the People | 14.00% | ~11,758 |
-| Take That! | 13.00% | ~10,918 |
-| Nesting Giant | 13.00% | ~10,918 |
-| Treasure Tracker | 13.00% | ~10,918 |
-| Big Spender | 13.00% | ~10,918 |
-| Badge Collector | 12.00% | ~10,078 |
-| Quite The Catch | 12.00% | ~10,078 |
-| Rowleys Way | 11.00% | ~9,238 |
+| Chum Novice | 16.00% | ~13,439 |
+| Silver-Tongued Sable | 16.00% | ~13,439 |
+| Sticky Paws | 16.00% | ~13,439 |
+| Bubble Up | 16.00% | ~13,439 |
+| Thread The Needle | 15.00% | ~12,599 |
+| Power to the People | 14.00% | ~11,759 |
+| Take That! | 13.00% | ~10,919 |
+| Nesting Giant | 13.00% | ~10,919 |
+| Treasure Tracker | 13.00% | ~10,919 |
+| Big Spender | 13.00% | ~10,919 |
+| Badge Collector | 12.00% | ~10,079 |
+| Quite The Catch | 12.00% | ~10,079 |
+| Rowleys Way | 11.00% | ~9,239 |
 | The Machinist Mask | 10.00% | ~8,399 |
 | The Cartographer Mask | 10.00% | ~8,399 |
 | Balfron Connection | 10.00% | ~8,399 |
@@ -54,16 +54,16 @@ Number of Ratings: 43  (23.09.2022)
 | Honorary Chum | 6.00% | ~5,039 |
 | A Hard Place | 6.00% | ~5,039 |
 | Bikes Don't Fly | 6.00% | ~5,039 |
-| The Gliding | 5.00% | ~4,199 |
-| The Entertainer Mask | 5.00% | ~4,199 |
-| The Quick and the Curious | 4.00% | ~3,359 |
-| Bike Aficionado | 4.00% | ~3,359 |
+| The Gliding | 5.00% | ~4,200 |
+| The Entertainer Mask | 5.00% | ~4,200 |
+| The Quick and the Curious | 4.00% | ~3,360 |
+| Bike Aficionado | 4.00% | ~3,360 |
 | Chum Expert | 3.00% | ~2,520 |
 | Gastric Bypass | 3.00% | ~2,520 |
 | The Angler Mask | 3.00% | ~2,520 |
 | Vivacious Vivarium | 2.00% | ~1,680 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 83,986 (Ranked 73)  
+Progressed: 83,991 (Ranked 73)  
 Completed: 823 (0.98%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,6 +182,7 @@ Completed: 823 (0.98%) (Ranked 118)
 | 2023-08-14 | 83,631 | 816 |
 | 2023-08-15 | 83,811 | 820 |
 | 2023-08-16 | 83,986 | 823 |
+| 2023-08-17 | 83,991 | 823 |
 ## Awards
 Max (Quickly Understood Controls): 22  (Ranked 494)  
 Sum: 22 (Ranked 496)  

@@ -5,13 +5,13 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Fire in the... nevermind | 50.00% | ~54 |
-| Chapter I | 48.00% | ~52 |
+| Chapter I | 49.00% | ~53 |
 | Haute cuisine | 44.00% | ~48 |
-| I didn't do it! | 39.00% | ~42 |
+| I didn't do it! | 40.00% | ~43 |
 | Demolition expert | 35.00% | ~38 |
+| Keep away from children | 34.00% | ~37 |
 | Wooooooow! | 34.00% | ~37 |
 | Artistic fool | 33.00% | ~36 |
-| Keep away from children | 33.00% | ~36 |
 | Open up wide | 31.00% | ~33 |
 | Chapter II | 30.00% | ~32 |
 | Let the boot talk | 28.00% | ~30 |

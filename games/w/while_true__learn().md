@@ -6,17 +6,17 @@ Number of Ratings: 896  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First.. Bit? | 93.00% | ~558,567 |
-| Error: Stack Overflow | 66.00% | ~396,403 |
-| We need more gold | 60.00% | ~360,366 |
-| The dawn of civilization | 53.00% | ~318,323 |
-| More FPS for the FPS god! | 49.00% | ~294,299 |
-| Beauty and harmony | 48.00% | ~288,293 |
-| One more! | 44.00% | ~264,268 |
-| Overmind | 24.00% | ~144,146 |
-| RNG is my best friend now | 18.00% | ~108,110 |
-| Cosplay | 13.00% | ~78,079 |
-| Evolution in progress... | 13.00% | ~78,079 |
+| First.. Bit? | 93.00% | ~558,572 |
+| Error: Stack Overflow | 66.00% | ~396,406 |
+| We need more gold | 60.00% | ~360,369 |
+| The dawn of civilization | 53.00% | ~318,326 |
+| More FPS for the FPS god! | 49.00% | ~294,301 |
+| Beauty and harmony | 48.00% | ~288,295 |
+| One more! | 44.00% | ~264,271 |
+| Overmind | 24.00% | ~144,148 |
+| RNG is my best friend now | 18.00% | ~108,111 |
+| Cosplay | 13.00% | ~78,080 |
+| Evolution in progress... | 13.00% | ~78,080 |
 | Step by step | 8.00% | ~48,049 |
 | README reader | 3.00% | ~18,018 |
 | Data scientist | 3.00% | ~18,018 |
@@ -28,14 +28,14 @@ Number of Ratings: 896  (23.09.2022)
 | Cybergeek 2047 | 2.00% | ~12,012 |
 | Ping | 1.00% | ~6,006 |
 | Magna cum laude | 1.00% | ~6,006 |
-| The hoarder | 0.90% | ~5,405 |
+| The hoarder | 0.90% | ~5,406 |
 | Deal with it! | 0.50% | ~3,003 |
 | Gold rush | 0.40% | ~2,402 |
 | Cat-o-holic | 0.40% | ~2,402 |
 | Elements will destroy you! | 0.30% | ~1,802 |
 | The Scrooge | 0.10% | ~601 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 600,610 (Ranked 28)  
+Progressed: 600,615 (Ranked 28)  
 Completed: 516 (0.09%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,6 +154,7 @@ Completed: 516 (0.09%) (Ranked 210)
 | 2023-08-14 | 600,359 | 516 |
 | 2023-08-15 | 600,498 | 516 |
 | 2023-08-16 | 600,610 | 516 |
+| 2023-08-17 | 600,615 | 516 |
 ## Awards
 Max (Challenging Puzzles): 134  (Ranked 307)  
 Sum: 134 (Ranked 402)  

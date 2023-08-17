@@ -6298,10 +6298,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 41077,
       "NumberOfAwardsMax": 21765
+    },
+    {
+      "Time": "2023-08-16T23:59:29.6483179+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 41080,
+      "NumberOfAwardsMax": 21765
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 41077,
+  "NumberOfAwards": 41080,
   "NumberOfAwardsMax": 21765,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6333,7 +6339,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 970
+      "Count": 973
     },
     {
       "Text": "This game is Extremely Fun",
@@ -6378,9 +6384,9 @@
       "Count": 593
     }
   ],
-  "EOS_Progressed": 290231,
+  "EOS_Progressed": 290232,
   "EOS_Completed": 452,
-  "EOS_NewPlayers": 495,
+  "EOS_NewPlayers": 492,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -19118,6 +19124,11 @@
       "Time": "2023-08-16T23:06:46.1883974+00:00",
       "NumProgressed": 290231,
       "NumCompleted": 452
+    },
+    {
+      "Time": "2023-08-17T00:07:32.5364019+00:00",
+      "NumProgressed": 290232,
+      "NumCompleted": 452
     }
   ],
   "TotalAchievements": 45,
@@ -19353,7 +19364,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 23218
+      "UsersEstimate": 23219
     },
     {
       "ID": "PFA_36",
@@ -19457,7 +19468,7 @@
       "Name": "First Class Student",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 31925
+      "UsersEstimate": 31926
     },
     {
       "ID": "PFA_7",
@@ -19465,7 +19476,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 31925
+      "UsersEstimate": 31926
     },
     {
       "ID": "PFA_8",
@@ -19481,23 +19492,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23218
+      "UsersEstimate": 23219
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 290231,
+      "Progressed": 290232,
       "Completed": 452
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-08-16T22:59:13.3387327+00:00",
-  "LastChanged_Achievements": "2023-08-16T23:06:46.1883965+00:00",
+  "LastChanged": "2023-08-16T23:59:29.6483177+00:00",
+  "LastChanged_Achievements": "2023-08-17T00:07:32.5364013+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:17.4814985+00:00",
-  "LastUpdate_Ratings": "2023-08-16T22:59:13.3387336+00:00",
-  "LastUpdate_Achievements": "2023-08-16T23:06:46.1885379+00:00"
+  "LastUpdate_Ratings": "2023-08-16T23:59:29.6483184+00:00",
+  "LastUpdate_Achievements": "2023-08-17T00:07:32.5365302+00:00"
 }

@@ -237,9 +237,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 199250,
+  "EOS_Progressed": 199252,
   "EOS_Completed": 482,
-  "EOS_NewPlayers": 590,
+  "EOS_NewPlayers": 583,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -12922,6 +12922,11 @@
       "Time": "2023-08-16T23:04:06.0992187+00:00",
       "NumProgressed": 199250,
       "NumCompleted": 482
+    },
+    {
+      "Time": "2023-08-17T00:04:32.7253244+00:00",
+      "NumProgressed": 199252,
+      "NumCompleted": 482
     }
   ],
   "TotalAchievements": 29,
@@ -12957,7 +12962,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 187295
+      "UsersEstimate": 187297
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -12973,7 +12978,7 @@
       "Name": "I hope you\u0027re ready.",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1992
+      "UsersEstimate": 1993
     },
     {
       "ID": "ACHIEVEMENT_CARDS",
@@ -13013,7 +13018,7 @@
       "Name": "Corrupted.",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 9962
+      "UsersEstimate": 9963
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTEDCOMPLETE",
@@ -13093,7 +13098,7 @@
       "Name": "Good things come in pairs... Coloured Pairs.",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 9962
+      "UsersEstimate": 9963
     },
     {
       "ID": "ACHIEVEMENT_REQUISITE",
@@ -13164,7 +13169,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 199250,
+      "Progressed": 199252,
       "Completed": 482
     }
   ],
@@ -13172,8 +13177,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-08-12T04:00:44.2118416+00:00",
-  "LastChanged_Achievements": "2023-08-16T23:04:06.0992178+00:00",
+  "LastChanged_Achievements": "2023-08-17T00:04:32.7253237+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:39.8654099+00:00",
-  "LastUpdate_Ratings": "2023-08-16T23:00:50.3952143+00:00",
-  "LastUpdate_Achievements": "2023-08-16T23:04:06.0994124+00:00"
+  "LastUpdate_Ratings": "2023-08-17T00:01:26.2619765+00:00",
+  "LastUpdate_Achievements": "2023-08-17T00:04:32.7254555+00:00"
 }

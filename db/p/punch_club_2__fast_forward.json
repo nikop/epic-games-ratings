@@ -4,8 +4,8 @@
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 68,
-  "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
     "PcReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 254,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.15,
   "EosHistory": [
@@ -972,9 +972,9 @@
       "ID": "any_stat_15",
       "SetID": "69co12a",
       "Name": "Workout professional",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 157
     },
     {
       "ID": "any_stat_30",
@@ -1372,9 +1372,9 @@
       "ID": "soft_install",
       "SetID": "69co12a",
       "Name": "Hello, world!",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 175
+      "UsersEstimate": 178
     },
     {
       "ID": "trainer_promotion_1",
@@ -1428,9 +1428,9 @@
       "ID": "work_promotion_2",
       "SetID": "69co12a",
       "Name": "Employee of the month",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 168
+      "UsersEstimate": 170
     },
     {
       "ID": "work_promotion_3",
@@ -1451,8 +1451,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-08-16T23:05:16.690036+00:00",
+  "LastChanged_Achievements": "2023-08-17T00:05:51.5754336+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:18.7618858+00:00",
-  "LastUpdate_Ratings": "2023-08-16T22:59:13.1047011+00:00",
-  "LastUpdate_Achievements": "2023-08-16T23:05:16.690118+00:00"
+  "LastUpdate_Ratings": "2023-08-16T23:59:29.4204043+00:00",
+  "LastUpdate_Achievements": "2023-08-17T00:05:51.5755191+00:00"
 }

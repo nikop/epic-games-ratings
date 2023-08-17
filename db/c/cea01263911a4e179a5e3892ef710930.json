@@ -4,7 +4,7 @@
   "ProductSlug": "dodo-peak-159276",
   "Ranking_EOS_Progress": 401,
   "Ranking_EOS_Completed": 61,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2023-08-03T05:00:00+00:00",
@@ -179,9 +179,9 @@
       "ID": "grp_beet",
       "SetID": "2gd32f",
       "Name": "The early bird gets the beet",
-      "Percentage": 38,
+      "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "grp_collect_ruby",
@@ -211,9 +211,9 @@
       "ID": "grp_freebird",
       "SetID": "2gd32f",
       "Name": "Play Free Bird",
-      "Percentage": 42,
+      "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "grp_level10",
@@ -259,9 +259,9 @@
       "ID": "grp_lots_of_money",
       "SetID": "2gd32f",
       "Name": "Investing in BirdCoin",
-      "Percentage": 50,
+      "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "grp_money_tree",
@@ -291,9 +291,9 @@
       "ID": "grp_store_ftux",
       "SetID": "2gd32f",
       "Name": "Birds of a Feather",
-      "Percentage": 62,
+      "Percentage": 65,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "grp_weekly_beaten",
@@ -314,8 +314,8 @@
   ],
   "FirstSeen": "2023-08-08T23:57:15.7691389+00:00",
   "FirstSeenAchievements": "2023-08-03T06:01:19.3820026+00:00",
-  "LastChanged_Achievements": "2023-08-16T23:03:08.4591227+00:00",
+  "LastChanged_Achievements": "2023-08-17T00:03:29.0502519+00:00",
   "LastUpdate_AppInfo": "2023-08-10T06:57:08.1237157+00:00",
-  "LastUpdate_Ratings": "2023-08-16T22:58:01.8008898+00:00",
-  "LastUpdate_Achievements": "2023-08-16T23:03:08.4591381+00:00"
+  "LastUpdate_Ratings": "2023-08-16T23:58:07.1308988+00:00",
+  "LastUpdate_Achievements": "2023-08-17T00:03:29.0502698+00:00"
 }

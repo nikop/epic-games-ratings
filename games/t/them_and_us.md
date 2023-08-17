@@ -21,7 +21,7 @@
 | Rest In Peace | 9.00% | ~19 |
 | The Curse Is Real | 9.00% | ~19 |
 | Trapped | 9.00% | ~19 |
-| Modern Player | 7.00% | ~14 |
+| Modern Player | 8.00% | ~17 |
 | What A Mansion | 7.00% | ~14 |
 | Researcher | 6.00% | ~12 |
 | I Am The Gate Keeper! | 6.00% | ~12 |

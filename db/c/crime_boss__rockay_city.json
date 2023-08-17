@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 203,
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 90,
+  "Ranking_EOS_NewPlayers": 91,
   "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -3030,9 +3030,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 71916,
+  "EOS_Progressed": 71917,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 293,
+  "EOS_NewPlayers": 291,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -15400,6 +15400,11 @@
       "Time": "2023-08-16T22:06:03.2490898+00:00",
       "NumProgressed": 71916,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-08-17T00:07:58.746498+00:00",
+      "NumProgressed": 71917,
+      "NumCompleted": 39
     }
   ],
   "TotalAchievements": 37,
@@ -15427,7 +15432,7 @@
       "Name": "Roid Ranger",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 15102
+      "UsersEstimate": 15103
     },
     {
       "ID": "ACH_0013",
@@ -15443,7 +15448,7 @@
       "Name": "Track Star",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 6472
+      "UsersEstimate": 6473
     },
     {
       "ID": "ACH_0015",
@@ -15515,7 +15520,7 @@
       "Name": "Privateer",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2157
+      "UsersEstimate": 2158
     },
     {
       "ID": "ACH_0100",
@@ -15523,7 +15528,7 @@
       "Name": "Headhunter",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 6472
+      "UsersEstimate": 6473
     },
     {
       "ID": "ACH_0101",
@@ -15547,7 +15552,7 @@
       "Name": "Moneybags",
       "Percentage": 3,
       "XP": 55,
-      "UsersEstimate": 2157
+      "UsersEstimate": 2158
     },
     {
       "ID": "ACH_0200",
@@ -15555,7 +15560,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 46745
+      "UsersEstimate": 46746
     },
     {
       "ID": "ACH_0210",
@@ -15563,7 +15568,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 53218
+      "UsersEstimate": 53219
     },
     {
       "ID": "ACH_0211",
@@ -15571,7 +15576,7 @@
       "Name": "Groundhog Days",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 2157
+      "UsersEstimate": 2158
     },
     {
       "ID": "ACH_0220",
@@ -15603,7 +15608,7 @@
       "Name": "Ding Dong",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 6472
+      "UsersEstimate": 6473
     },
     {
       "ID": "ACH_0340",
@@ -15619,7 +15624,7 @@
       "Name": "Geek Out",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "ACH_0400",
@@ -15635,7 +15640,7 @@
       "Name": "King of the Hill",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 24451
+      "UsersEstimate": 24452
     },
     {
       "ID": "ACH_0430",
@@ -15651,7 +15656,7 @@
       "Name": "Classy Joint",
       "Percentage": 9,
       "XP": 55,
-      "UsersEstimate": 6472
+      "UsersEstimate": 6473
     },
     {
       "ID": "ACH_0440",
@@ -15706,22 +15711,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 71916,
+      "Progressed": 71917,
       "Completed": 39
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 263,
-      "Completed": 263
+      "Progressed": 264,
+      "Completed": 264
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-08-16T14:57:15.7688268+00:00",
-  "LastChanged_Achievements": "2023-08-16T23:07:09.6743315+00:00",
+  "LastChanged_Achievements": "2023-08-17T00:07:58.7464974+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:57.6056168+00:00",
-  "LastUpdate_Ratings": "2023-08-16T22:57:21.2607509+00:00",
-  "LastUpdate_Achievements": "2023-08-16T23:07:09.6744597+00:00"
+  "LastUpdate_Ratings": "2023-08-16T23:57:23.4297057+00:00",
+  "LastUpdate_Achievements": "2023-08-17T00:07:58.7466038+00:00"
 }

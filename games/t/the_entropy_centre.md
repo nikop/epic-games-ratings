@@ -16,8 +16,8 @@
 | Handyman | 24.00% | ~59 |
 | No Time To Relax | 20.00% | ~49 |
 | Bad Robots | 18.00% | ~44 |
+| Archivist | 18.00% | ~44 |
 | Running Boots | 17.00% | ~41 |
-| Archivist | 17.00% | ~41 |
 | Fashionista | 17.00% | ~41 |
 | Looper | 15.00% | ~37 |
 | Kaboom! | 14.00% | ~34 |

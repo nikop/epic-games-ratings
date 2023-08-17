@@ -17,11 +17,11 @@ Rating: 4.88 (Ranked 18)
 | Alright, that felt AWESOME! | 7.00% | ~276 |
 | This will cost you big time | 6.00% | ~236 |
 | Uh, they were broken when I got here | 6.00% | ~236 |
+| Kissing the sky! | 6.00% | ~236 |
 | I look cool. But I can look COOLER. | 6.00% | ~236 |
 | The Negotiator | 5.00% | ~197 |
 | Whoa! There's ANOTHER health bar!? | 5.00% | ~197 |
 | Z-shielding's got nothing on us! | 5.00% | ~197 |
-| Kissing the sky! | 5.00% | ~197 |
 | Does that say weakpoint? | 5.00% | ~197 |
 | NOW we got a kickass hideout! | 5.00% | ~123 |
 | Headliner | 4.00% | ~157 |

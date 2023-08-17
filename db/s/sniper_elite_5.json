@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 174,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -464,9 +464,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3486,
+  "EOS_Progressed": 3487,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -6009,6 +6009,11 @@
       "Time": "2023-08-16T19:04:07.3445081+00:00",
       "NumProgressed": 3486,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-17T00:04:41.9346315+00:00",
+      "NumProgressed": 3487,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 71,
@@ -6188,7 +6193,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 1394
+      "UsersEstimate": 1395
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -6220,7 +6225,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -6244,7 +6249,7 @@
       "Name": "Resourceful",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 906
+      "UsersEstimate": 907
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -6508,7 +6513,7 @@
       "Name": "Last Resort",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "REWARD_DLC02_01_SIEGEBREAKER",
@@ -6516,7 +6521,7 @@
       "Name": "Siegebreaker",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "REWARD_DLC02_02_GHOST_OF_FALAISE",
@@ -6524,7 +6529,7 @@
       "Name": "Ghost of Falaise",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "REWARD_DLC02_02_OPERATION_OVERLORD",
@@ -6587,13 +6592,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3437,
+      "Progressed": 3438,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3486,
+      "Progressed": 3487,
       "Completed": 9
     }
   ],
@@ -6601,8 +6606,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-08-15T14:58:15.1556932+00:00",
-  "LastChanged_Achievements": "2023-08-16T23:04:14.223971+00:00",
+  "LastChanged_Achievements": "2023-08-17T00:04:41.9346309+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:04.4888171+00:00",
-  "LastUpdate_Ratings": "2023-08-16T22:58:28.0562676+00:00",
-  "LastUpdate_Achievements": "2023-08-16T23:04:14.2240992+00:00"
+  "LastUpdate_Ratings": "2023-08-16T23:58:34.4383501+00:00",
+  "LastUpdate_Achievements": "2023-08-17T00:04:41.934878+00:00"
 }

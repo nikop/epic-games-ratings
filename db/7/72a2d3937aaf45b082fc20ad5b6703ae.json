@@ -4,8 +4,8 @@
   "ProductSlug": "the-making-of-karateka-7d9a6c",
   "Ranking_EOS_Progress": 546,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 358,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -25,9 +25,163 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-08-17T00:04:53.817175+00:00",
+  "TotalAchievements": 19,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "bouncemaster",
+      "SetID": "l4g2eh",
+      "Name": "BounceMaster",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "deathbouncer",
+      "SetID": "l4g2eh",
+      "Name": "Deathbouncer",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "down_ship",
+      "SetID": "l4g2eh",
+      "Name": "Down With The Ship",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "fancy_footwork",
+      "SetID": "l4g2eh",
+      "Name": "Fancy Footwork",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "feather_cap",
+      "SetID": "l4g2eh",
+      "Name": "Feather in Your Cap",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "getting_point",
+      "SetID": "l4g2eh",
+      "Name": "Getting The Point",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "hit_target",
+      "SetID": "l4g2eh",
+      "Name": "Hit the Target",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "karate_master",
+      "SetID": "l4g2eh",
+      "Name": "Karate Master",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "little_star",
+      "SetID": "l4g2eh",
+      "Name": "Little Star",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "minimalist",
+      "SetID": "l4g2eh",
+      "Name": "Minimalist",
+      "Percentage": 0,
+      "XP": 70,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "modern_hero",
+      "SetID": "l4g2eh",
+      "Name": "Modern Hero",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "nothing_personal",
+      "SetID": "l4g2eh",
+      "Name": "Nothing Personal",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "one_down",
+      "SetID": "l4g2eh",
+      "Name": "One Down",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "original",
+      "SetID": "l4g2eh",
+      "Name": "The Original",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ran_trouble",
+      "SetID": "l4g2eh",
+      "Name": "Ran Into Trouble",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "show_respect",
+      "SetID": "l4g2eh",
+      "Name": "Show Some Respect!",
+      "Percentage": 0,
+      "XP": 70,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "sound_victory",
+      "SetID": "l4g2eh",
+      "Name": "The Sound of Victory",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "sudden_death",
+      "SetID": "l4g2eh",
+      "Name": "Sudden Death",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "work_progress",
+      "SetID": "l4g2eh",
+      "Name": "Work In Progress",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "l4g2eh",
@@ -37,8 +191,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-04T19:02:29.8301885+00:00",
-  "LastChanged_Achievements": "2023-08-16T23:04:24.8713949+00:00",
+  "LastChanged_Achievements": "2023-08-17T00:04:53.8171711+00:00",
   "LastUpdate_AppInfo": "2023-08-11T19:57:06.726034+00:00",
-  "LastUpdate_Ratings": "2023-08-16T22:57:58.4522672+00:00",
-  "LastUpdate_Achievements": "2023-08-16T23:04:24.871399+00:00"
+  "LastUpdate_Ratings": "2023-08-16T23:58:03.3117159+00:00",
+  "LastUpdate_Achievements": "2023-08-17T00:04:53.819164+00:00"
 }

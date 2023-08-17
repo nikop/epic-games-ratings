@@ -6,8 +6,8 @@ Rating: 4.77 (Ranked 108)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 12.00% | ~34,828 |
-| First Class Student | 11.00% | ~31,925 |
-| Troll with the Punches | 11.00% | ~31,925 |
+| First Class Student | 11.00% | ~31,926 |
+| Troll with the Punches | 11.00% | ~31,926 |
 | A Keen Sense of Spell | 10.00% | ~29,023 |
 | That's a Keeper | 10.00% | ~29,023 |
 | Grappling with a Graphorn | 9.00% | ~26,121 |
@@ -19,8 +19,8 @@ Rating: 4.77 (Ranked 108)
 | Loom for Improvement | 9.00% | ~26,121 |
 | A Talent for Spending | 9.00% | ~26,121 |
 | Coasting Along | 9.00% | ~26,121 |
-| Followed the Butterflies | 8.00% | ~23,218 |
-| Rising From the Ashes | 8.00% | ~23,218 |
+| Followed the Butterflies | 8.00% | ~23,219 |
+| Rising From the Ashes | 8.00% | ~23,219 |
 | The Avenging Gazelle | 7.00% | ~20,316 |
 | Beast Friends | 7.00% | ~20,316 |
 | A Sallow Grave | 7.00% | ~20,316 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 108)
 | The Nature of the Beast | 0.60% | ~1,741 |
 | Collector's Edition | 0.30% | ~871 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290,231 (Ranked 43)  
+Progressed: 290,232 (Ranked 43)  
 Completed: 452 (0.16%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,15 +170,16 @@ Completed: 452 (0.16%) (Ranked 191)
 | 2023-08-14 | 290,112 | 451 |
 | 2023-08-15 | 290,171 | 451 |
 | 2023-08-16 | 290,231 | 452 |
+| 2023-08-17 | 290,232 | 452 |
 ## Awards
 Max (Character Customization): 21,765  (Ranked 17)  
-Sum: 41,077 (Ranked 30)  
+Sum: 41,080 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 21,765 |
 | This game has Great Boss Battles | 10,529 |
-| This game is Great for Beginners | 970 |
+| This game is Great for Beginners | 973 |
 | This game is Extremely Fun | 954 |
 | This game is Relaxing | 954 |
 | This game has Amazing Storytelling | 939 |
@@ -336,4 +337,4 @@ Diff (max vs sum): -13
 | 2023-08-13 | 4.77 | 21,738 | 40,951 |
 | 2023-08-14 | 4.77 | 21,755 | 41,010 |
 | 2023-08-15 | 4.77 | 21,755 | 41,047 |
-| 2023-08-16 | 4.77 | 21,765 | 41,077 |
+| 2023-08-16 | 4.77 | 21,765 | 41,080 |

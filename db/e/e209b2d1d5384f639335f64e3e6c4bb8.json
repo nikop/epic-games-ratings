@@ -4,7 +4,7 @@
   "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 258,
   "Ranking_EOS_NewPlayers": 266,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -171,9 +171,9 @@
       "ID": "ACHV_M12_COMPLETE",
       "SetID": "2l5j4fd",
       "Name": "Torin Crater",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHV_M13_COMPLETE",
@@ -187,9 +187,9 @@
       "ID": "ACHV_MP_1V1_TIER_LV_1",
       "SetID": "2l5j4fd",
       "Name": "Multiplayer: 1v1 - Bronze",
-      "Percentage": 21,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHV_MP_2V2_TIER_LV_1",
@@ -275,9 +275,9 @@
       "ID": "ACHV_MP_C_ANNIHILATION_KHAANEPH_10",
       "SetID": "a9dj9gi",
       "Name": "Multiplayer: Carrier Annihilation Khaaneph",
-      "Percentage": 5,
+      "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHV_MP_C_ANNIHILATION_KHAANEPH_100",
@@ -455,7 +455,7 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-01T13:08:41.5079141+00:00",
-  "LastChanged_Achievements": "2023-08-16T23:04:25.8913656+00:00",
-  "LastUpdate_Ratings": "2023-08-16T22:58:06.4409114+00:00",
-  "LastUpdate_Achievements": "2023-08-16T23:04:25.8914147+00:00"
+  "LastChanged_Achievements": "2023-08-17T00:04:55.0009002+00:00",
+  "LastUpdate_Ratings": "2023-08-16T23:58:10.7975629+00:00",
+  "LastUpdate_Achievements": "2023-08-17T00:04:55.0009414+00:00"
 }

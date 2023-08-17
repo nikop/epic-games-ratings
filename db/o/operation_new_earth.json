@@ -4,8 +4,8 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 929,
+  "EOS_Progressed": 932,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3271,6 +3271,11 @@
       "Time": "2023-08-16T23:03:21.3627478+00:00",
       "NumProgressed": 929,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-17T00:03:43.8183018+00:00",
+      "NumProgressed": 932,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -3346,7 +3351,7 @@
       "Name": "Silver Competitor",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ach_silver_rewards_50",
@@ -3386,7 +3391,7 @@
       "Name": "Facility Online",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -3410,7 +3415,7 @@
       "Name": "Lieutenant",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -3450,15 +3455,15 @@
       "Name": "Brothers in Arms",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "objective_key_alliance_join_1",
       "SetID": "bm61c2p",
       "Name": "It\u0027s Good to have Allies",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 307
+      "UsersEstimate": 298
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -3490,7 +3495,7 @@
       "Name": "Stocking Up",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -3506,7 +3511,7 @@
       "Name": "On Target",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -3538,7 +3543,7 @@
       "Name": "Defenses Online",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -3585,14 +3590,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 929,
+      "Progressed": 932,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-16T23:03:21.362747+00:00",
+  "LastChanged_Achievements": "2023-08-17T00:03:43.8183012+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:27.4280109+00:00",
-  "LastUpdate_Ratings": "2023-08-16T22:58:08.9514623+00:00",
-  "LastUpdate_Achievements": "2023-08-16T23:03:21.3627952+00:00"
+  "LastUpdate_Ratings": "2023-08-16T23:58:13.1025992+00:00",
+  "LastUpdate_Achievements": "2023-08-17T00:03:43.8183567+00:00"
 }

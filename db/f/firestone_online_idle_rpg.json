@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1811,
+  "EOS_Progressed": 1812,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -4969,6 +4969,11 @@
       "Time": "2023-08-16T17:05:24.9019512+00:00",
       "NumProgressed": 1811,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-17T00:06:31.1144917+00:00",
+      "NumProgressed": 1812,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -5356,7 +5361,7 @@
       "Name": "Natural Talent",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "pokerface",
@@ -5380,7 +5385,7 @@
       "Name": "Prestigious x10",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "relicofthepast",
@@ -5428,7 +5433,7 @@
       "Name": "Superior",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "templeofeternals",
@@ -5436,7 +5441,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1032
+      "UsersEstimate": 1033
     },
     {
       "ID": "thealchemist",
@@ -5484,7 +5489,7 @@
       "Name": "The Unstoppable",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "titanpower",
@@ -5540,7 +5545,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1684
+      "UsersEstimate": 1685
     },
     {
       "ID": "warmachinesarmy",
@@ -5579,7 +5584,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1811,
+      "Progressed": 1812,
       "Completed": 2
     }
   ],
@@ -5587,8 +5592,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-08-10T20:59:32.9674394+00:00",
-  "LastChanged_Achievements": "2023-08-16T23:05:51.6758391+00:00",
+  "LastChanged_Achievements": "2023-08-17T00:06:31.114491+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:43.3889946+00:00",
-  "LastUpdate_Ratings": "2023-08-16T22:59:51.5349797+00:00",
-  "LastUpdate_Achievements": "2023-08-16T23:05:51.6760014+00:00"
+  "LastUpdate_Ratings": "2023-08-17T00:00:17.8110184+00:00",
+  "LastUpdate_Achievements": "2023-08-17T00:06:31.1146287+00:00"
 }

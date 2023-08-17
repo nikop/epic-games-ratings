@@ -25,6 +25,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Friendly Family | 2.00% | ~269 |
 | Hanging Gardens | 2.00% | ~269 |
 | Oracle | 2.00% | ~269 |
+| Judaism | 2.00% | ~269 |
 | Naming Landmarks | 2.00% | ~269 |
 | Trade Caravan | 2.00% | ~269 |
 | The Great Mage | 2.00% | ~269 |
@@ -53,7 +54,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pyramids | 1.00% | ~134 |
 | Learn to Play 1 | 1.00% | ~134 |
 | Christianity | 1.00% | ~134 |
-| Judaism | 1.00% | ~134 |
 | Manichaeism | 1.00% | ~134 |
 | Babylonian Paganism | 1.00% | ~134 |
 | Carthaginian Paganism | 1.00% | ~134 |
@@ -118,6 +118,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Enlightenment | 0.50% | ~67 |
 | Redemption | 0.50% | ~67 |
 | Revelation | 0.50% | ~67 |
+| Veneration | 0.50% | ~67 |
 | Cimmerian Archer | 0.50% | ~67 |
 | Ambition Victory | 0.50% | ~67 |
 | Bad Heir Day | 0.40% | ~54 |
@@ -130,7 +131,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | One True Faith | 0.40% | ~54 |
 | Military Prestige | 0.40% | ~54 |
 | Gnosticism | 0.40% | ~54 |
-| Veneration | 0.40% | ~54 |
 | Kushite Cavalry | 0.40% | ~54 |
 | Turreted Elephant | 0.40% | ~54 |
 | No Undo | 0.40% | ~54 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,432 (Ranked 117)  
+Progressed: 13,436 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -422,6 +422,7 @@ Completed: 5 (0.04%) (Ranked 227)
 | 2023-08-14 | 13,412 | 5 |
 | 2023-08-15 | 13,422 | 5 |
 | 2023-08-16 | 13,432 | 5 |
+| 2023-08-17 | 13,436 | 5 |
 ## Awards
 Max (Relaxing): 219  (Ranked 264)  
 Sum: 1,792 (Ranked 206)  

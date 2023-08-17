@@ -2924,10 +2924,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 12887,
       "NumberOfAwardsMax": 6729
+    },
+    {
+      "Time": "2023-08-16T23:59:01.3790258+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 12893,
+      "NumberOfAwardsMax": 6729
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12887,
+  "NumberOfAwards": 12893,
   "NumberOfAwardsMax": 6729,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2995,12 +3001,12 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 694
+      "Count": 700
     }
   ],
-  "EOS_Progressed": 1576746,
+  "EOS_Progressed": 1576865,
   "EOS_Completed": 505,
-  "EOS_NewPlayers": 25210,
+  "EOS_NewPlayers": 25171,
   "EOS_NewCompleters": 32,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -10968,6 +10974,11 @@
       "Time": "2023-08-16T23:07:55.2578444+00:00",
       "NumProgressed": 1576746,
       "NumCompleted": 505
+    },
+    {
+      "Time": "2023-08-17T00:08:49.1455183+00:00",
+      "NumProgressed": 1576865,
+      "NumCompleted": 505
     }
   ],
   "TotalAchievements": 1328,
@@ -12505,9 +12516,9 @@
       "ID": "cac_7",
       "SetID": "bkjdbk8",
       "Name": "Golden Grin Anonymous",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1577
     },
     {
       "ID": "cac_8",
@@ -17545,9 +17556,9 @@
       "ID": "pick_65",
       "SetID": "bkjdbk8",
       "Name": "Trusted Friends",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1577
     },
     {
       "ID": "pick_66",
@@ -21602,22 +21613,22 @@
     {
       "ID": "61cefe3",
       "IsBase": true,
-      "Progressed": 1576746,
+      "Progressed": 1576865,
       "Completed": 505
     },
     {
       "ID": "bkjdbk8",
       "IsBase": false,
-      "Progressed": 1576746,
+      "Progressed": 1576865,
       "Completed": 8
     }
   ],
   "FirstSeen": "2023-06-08T18:57:07.8003815+00:00",
   "FirstSeenRating": "2023-06-09T03:57:04.3869033+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:50.4372379+00:00",
-  "LastChanged": "2023-08-16T17:58:23.2352267+00:00",
-  "LastChanged_Achievements": "2023-08-16T23:07:55.2578438+00:00",
+  "LastChanged": "2023-08-16T23:59:01.3790256+00:00",
+  "LastChanged_Achievements": "2023-08-17T00:08:49.1455178+00:00",
   "LastUpdate_AppInfo": "2023-08-10T19:57:07.9529529+00:00",
-  "LastUpdate_Ratings": "2023-08-16T22:58:52.0992331+00:00",
-  "LastUpdate_Achievements": "2023-08-16T23:07:55.2736147+00:00"
+  "LastUpdate_Ratings": "2023-08-16T23:59:01.3790265+00:00",
+  "LastUpdate_Achievements": "2023-08-17T00:08:49.1644197+00:00"
 }
