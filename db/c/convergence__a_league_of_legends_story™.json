@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -2377,9 +2377,9 @@
       "ID": "TheaterChests1",
       "SetID": "a9e499d",
       "Name": "Theater Explorer",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 84
     },
     {
       "ID": "TimewinderMultiKill1",
@@ -2442,8 +2442,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-08-17T16:06:21.3658992+00:00",
+  "LastChanged_Achievements": "2023-08-17T17:06:12.1826745+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:10.6633578+00:00",
-  "LastUpdate_Ratings": "2023-08-17T16:01:35.6902701+00:00",
-  "LastUpdate_Achievements": "2023-08-17T16:06:21.3659686+00:00"
+  "LastUpdate_Ratings": "2023-08-17T17:01:26.821682+00:00",
+  "LastUpdate_Achievements": "2023-08-17T17:06:12.1827362+00:00"
 }

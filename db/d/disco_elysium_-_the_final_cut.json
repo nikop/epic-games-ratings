@@ -1259,9 +1259,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 126374,
+  "EOS_Progressed": 126378,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 405,
+  "EOS_NewPlayers": 407,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -13109,6 +13109,11 @@
       "Time": "2023-08-17T16:05:21.7743176+00:00",
       "NumProgressed": 126374,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-08-17T17:05:12.8652665+00:00",
+      "NumProgressed": 126378,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 40,
@@ -13152,7 +13157,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 22747
+      "UsersEstimate": 22748
     },
     {
       "ID": "ACH_COP_BAD",
@@ -13160,7 +13165,7 @@
       "Name": "Baddest Of the Bad Cops",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2527
+      "UsersEstimate": 2528
     },
     {
       "ID": "ACH_COP_BORING",
@@ -13176,7 +13181,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 30330
+      "UsersEstimate": 30331
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -13200,7 +13205,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 35385
+      "UsersEstimate": 35386
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -13232,7 +13237,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 25275
+      "UsersEstimate": 25276
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -13240,7 +13245,7 @@
       "Name": "Expert Advanced Remote Viewer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2527
+      "UsersEstimate": 2528
     },
     {
       "ID": "ACH_COP_SORRY",
@@ -13256,7 +13261,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 18956
+      "UsersEstimate": 18957
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -13264,7 +13269,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 13901
+      "UsersEstimate": 13902
     },
     {
       "ID": "ACH_CUNO",
@@ -13272,7 +13277,7 @@
       "Name": "Recruit Detective Kuuno de Ruyter",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2527
+      "UsersEstimate": 2528
     },
     {
       "ID": "ACH_DOLORES",
@@ -13312,7 +13317,7 @@
       "Name": "Hardie\u0027s Heroes",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 7582
+      "UsersEstimate": 7583
     },
     {
       "ID": "ACH_ICEBREAKER",
@@ -13336,7 +13341,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 17692
+      "UsersEstimate": 17693
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -13408,7 +13413,7 @@
       "Name": "Wheel of Pleasure and Light",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2527
+      "UsersEstimate": 2528
     },
     {
       "ID": "ACH_POWERARMOR",
@@ -13439,15 +13444,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 126374,
+      "Progressed": 126378,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-08-17T15:01:08.2269277+00:00",
-  "LastChanged_Achievements": "2023-08-17T16:05:21.7743167+00:00",
+  "LastChanged_Achievements": "2023-08-17T17:05:12.8652658+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:59.4029348+00:00",
-  "LastUpdate_Ratings": "2023-08-17T16:01:22.9656278+00:00",
-  "LastUpdate_Achievements": "2023-08-17T16:05:21.7744591+00:00"
+  "LastUpdate_Ratings": "2023-08-17T17:01:17.0908855+00:00",
+  "LastUpdate_Achievements": "2023-08-17T17:05:12.8653814+00:00"
 }

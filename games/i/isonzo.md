@@ -6,18 +6,18 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Peak Performance | 55.00% | ~3,662 |
-| Tutti Eroi! | 55.00% | ~3,662 |
-| You Shall Not Pass | 53.00% | ~3,529 |
+| Peak Performance | 55.00% | ~3,663 |
+| Tutti Eroi! | 55.00% | ~3,663 |
+| You Shall Not Pass | 53.00% | ~3,530 |
 | Avanti Savoia! | 47.00% | ~3,130 |
-| Mamma Mia! | 38.00% | ~2,530 |
-| Conrad von Hotzensocks | 36.00% | ~2,397 |
-| Gabriele D'Annunzio | 33.00% | ~2,197 |
+| Mamma Mia! | 38.00% | ~2,531 |
+| Conrad von Hotzensocks | 36.00% | ~2,398 |
+| Gabriele D'Annunzio | 33.00% | ~2,198 |
 | Silver Lining | 30.00% | ~1,998 |
 | Aurelio Baruzzi | 23.00% | ~1,532 |
 | Decimation | 22.00% | ~1,465 |
 | Veni Vidi Vici | 22.00% | ~1,465 |
-| Donatello | 21.00% | ~1,398 |
+| Donatello | 21.00% | ~1,399 |
 | Insubordination | 20.00% | ~1,332 |
 | The Italian Job | 20.00% | ~1,332 |
 | Ragazzi del '99 | 18.00% | ~1,199 |
@@ -29,8 +29,8 @@ Number of Ratings: 98  (23.09.2022)
 | Shaken, Not Stirred | 13.00% | ~866 |
 | Thus With A Kiss | 13.00% | ~866 |
 | Die Bosniaken Kommen! | 12.00% | ~799 |
-| Dante's Inferno | 11.00% | ~732 |
-| The Devil's Paintbrush | 11.00% | ~732 |
+| Dante's Inferno | 11.00% | ~733 |
+| The Devil's Paintbrush | 11.00% | ~733 |
 | I Have the High Ground | 10.00% | ~666 |
 | Millenial | 10.00% | ~666 |
 | The Show Must Go On | 9.00% | ~599 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~27 |
 | Can I Go Home Now? | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,659 (Ranked 134)  
+Progressed: 6,660 (Ranked 134)  
 Completed: 8 (0.12%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 8 (0.12%) (Ranked 198)
 | 2023-08-14 | 6,644 | 8 |
 | 2023-08-15 | 6,654 | 8 |
 | 2023-08-16 | 6,658 | 8 |
-| 2023-08-17 | 6,659 | 8 |
+| 2023-08-17 | 6,660 | 8 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 437)  
 Sum: 266 (Ranked 351)  

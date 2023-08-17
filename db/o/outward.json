@@ -6,8 +6,8 @@
   "Ranking_Popularity": 447,
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 152,
-  "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_Completed": 209,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -502,9 +502,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3309,
+  "EOS_Progressed": 3310,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4112,6 +4112,11 @@
       "Time": "2023-08-16T19:04:40.4596713+00:00",
       "NumProgressed": 3309,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-17T17:04:53.641802+00:00",
+      "NumProgressed": 3310,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 42,
@@ -4123,7 +4128,7 @@
       "Name": "A Fortress Toppled!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "AceDetective_9",
@@ -4147,7 +4152,7 @@
       "Name": "Apex Predator",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "BloodAndJustice_50",
@@ -4155,7 +4160,7 @@
       "Name": "Blood and justice",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "CordonBleu_28",
@@ -4315,7 +4320,7 @@
       "Name": "Ready for Winter",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 2151
+      "UsersEstimate": 2152
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -4331,7 +4336,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 860
+      "UsersEstimate": 861
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -4347,7 +4352,7 @@
       "Name": "Tapped!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1224
+      "UsersEstimate": 1225
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -4458,15 +4463,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3309,
+      "Progressed": 3310,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-08-16T21:59:07.0719809+00:00",
-  "LastChanged_Achievements": "2023-08-17T16:05:01.9972959+00:00",
+  "LastChanged_Achievements": "2023-08-17T17:04:53.6418013+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:38.7353115+00:00",
-  "LastUpdate_Ratings": "2023-08-17T15:59:58.2176829+00:00",
-  "LastUpdate_Achievements": "2023-08-17T16:05:01.9973567+00:00"
+  "LastUpdate_Ratings": "2023-08-17T16:59:54.3322095+00:00",
+  "LastUpdate_Achievements": "2023-08-17T17:04:53.6418606+00:00"
 }

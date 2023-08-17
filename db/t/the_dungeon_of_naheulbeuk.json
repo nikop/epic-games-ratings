@@ -4,11 +4,11 @@
   "ProductSlug": "the-dungeon-of-naheulbeuk",
   "Ranking_Rating": 427,
   "Ranking_Popularity": 289,
-  "Ranking_PopularitySum": 375,
+  "Ranking_PopularitySum": 376,
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 258,
   "Ranking_EOS_NewPlayers": 21,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -654,9 +654,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 213598,
+  "EOS_Progressed": 213619,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3776,
+  "EOS_NewPlayers": 3769,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7269,6 +7269,11 @@
       "Time": "2023-08-17T16:05:34.5821121+00:00",
       "NumProgressed": 213598,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-17T17:05:26.0196575+00:00",
+      "NumProgressed": 213619,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -7702,9 +7707,9 @@
       "ID": "DwarfInsultWin",
       "SetID": "50chcgj",
       "Name": "%#*!$*!",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 854
+      "UsersEstimate": 1068
     },
     {
       "ID": "DwarfLevel2",
@@ -7728,7 +7733,7 @@
       "Name": "Sowwy!",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 36312
+      "UsersEstimate": 36315
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -7983,21 +7988,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 213598,
+      "Progressed": 213619,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 213598,
+      "Progressed": 213619,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-16T17:00:43.9765875+00:00",
-  "LastChanged_Achievements": "2023-08-17T16:05:34.5821116+00:00",
+  "LastChanged_Achievements": "2023-08-17T17:05:26.0196566+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:49.6773731+00:00",
-  "LastUpdate_Ratings": "2023-08-17T16:01:14.7522071+00:00",
-  "LastUpdate_Achievements": "2023-08-17T16:05:34.5822597+00:00"
+  "LastUpdate_Ratings": "2023-08-17T17:01:09.1591298+00:00",
+  "LastUpdate_Achievements": "2023-08-17T17:05:26.0199045+00:00"
 }

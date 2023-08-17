@@ -6,7 +6,7 @@
   "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 102,
-  "Ranking_EOS_Completed": 224,
+  "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
@@ -244,9 +244,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23935,
+  "EOS_Progressed": 23937,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4299,6 +4299,11 @@
       "Time": "2023-08-17T15:03:31.2907186+00:00",
       "NumProgressed": 23935,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-08-17T17:03:36.8283736+00:00",
+      "NumProgressed": 23937,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 32,
@@ -4326,7 +4331,7 @@
       "Name": "Mods Please Ban",
       "Percentage": 77,
       "XP": 60,
-      "UsersEstimate": 18430
+      "UsersEstimate": 18431
     },
     {
       "ID": "ACH_ALL_LUGLOXES",
@@ -4334,7 +4339,7 @@
       "Name": "Luglox Genocide",
       "Percentage": 43,
       "XP": 60,
-      "UsersEstimate": 10292
+      "UsersEstimate": 10293
     },
     {
       "ID": "ACH_APPLEBEES_BILL",
@@ -4350,7 +4355,7 @@
       "Name": "Creature Feature",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 6941
+      "UsersEstimate": 6942
     },
     {
       "ID": "ACH_GET_GUS",
@@ -4374,7 +4379,7 @@
       "Name": "Bring A Knife to a Gun Fight",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 18191
+      "UsersEstimate": 18192
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -4390,7 +4395,7 @@
       "Name": "RIP Davey Glutes",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 5744
+      "UsersEstimate": 5745
     },
     {
       "ID": "ACH_GET_SWEEZY",
@@ -4414,7 +4419,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 19866
+      "UsersEstimate": 19868
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -4430,7 +4435,7 @@
       "Name": "We\u0027re All Very Impressed, Trust Me",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 13643
+      "UsersEstimate": 13644
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -4438,7 +4443,7 @@
       "Name": "First Bounty Down",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 14122
+      "UsersEstimate": 14123
     },
     {
       "ID": "ACH_KILL_DOUGLAS",
@@ -4454,7 +4459,7 @@
       "Name": "Legendary Bounty Hunter",
       "Percentage": 18,
       "XP": 60,
-      "UsersEstimate": 4308
+      "UsersEstimate": 4309
     },
     {
       "ID": "ACH_KILL_GIBLETS",
@@ -4494,7 +4499,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 17473
+      "UsersEstimate": 17474
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -4510,7 +4515,7 @@
       "Name": "Gunning For Your Job",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1675
+      "UsersEstimate": 1676
     },
     {
       "ID": "ACH_MOVIE_THEATER",
@@ -4565,22 +4570,22 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 23935,
+      "Progressed": 23937,
       "Completed": 12
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1228,
-      "Completed": 1228
+      "Progressed": 1230,
+      "Completed": 1230
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-08-14T02:13:15.3920394+00:00",
-  "LastChanged_Achievements": "2023-08-17T16:03:56.3641545+00:00",
+  "LastChanged_Achievements": "2023-08-17T17:03:36.8283716+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:39.7440833+00:00",
-  "LastUpdate_Ratings": "2023-08-17T15:59:56.2797795+00:00",
-  "LastUpdate_Achievements": "2023-08-17T16:03:56.3642157+00:00"
+  "LastUpdate_Ratings": "2023-08-17T16:59:51.6943709+00:00",
+  "LastUpdate_Achievements": "2023-08-17T17:03:36.8284261+00:00"
 }

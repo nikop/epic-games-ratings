@@ -15,7 +15,7 @@ Rating: 4.54 (Ranked 500)
 | Salutations My Little Friend | 11.00% | ~1,067 |
 | Iron-y | 10.00% | ~970 |
 | Gun for Hire | 9.00% | ~873 |
-| Mischief Managed | 8.00% | ~776 |
+| Mischief Managed | 9.00% | ~873 |
 | Vice City Mogul | 7.00% | ~679 |
 | Catch Me if You Can | 6.00% | ~582 |
 | Bloodstained Hands | 6.00% | ~582 |
@@ -162,8 +162,8 @@ Completed: 48 (0.49%) (Ranked 144)
 | 2023-08-17 | 9,701 | 48 |
 ## Awards
 Max (Great Boss Battles): 67  (Ranked 382)  
-Sum: 67 (Ranked 439)  
-Diff (max vs sum): -57  
+Sum: 67 (Ranked 440)  
+Diff (max vs sum): -58  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 67 |

@@ -4,7 +4,7 @@
   "ProductSlug": "the-expanse-a-telltale-series",
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 38,
+  "Ranking_EOS_NewPlayers": 39,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8090,
+  "EOS_Progressed": 8092,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1873,
+  "EOS_NewPlayers": 1862,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2297,6 +2297,11 @@
       "Time": "2023-08-17T16:07:11.9730379+00:00",
       "NumProgressed": 8090,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-17T17:07:04.0672418+00:00",
+      "NumProgressed": 8092,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -2349,7 +2354,7 @@
       "Name": "Doctor Approved",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 1294
+      "UsersEstimate": 1295
     },
     {
       "ID": "15",
@@ -2405,7 +2410,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "21",
@@ -2548,14 +2553,14 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 8090,
+      "Progressed": 8092,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged_Achievements": "2023-08-17T16:07:11.9730373+00:00",
+  "LastChanged_Achievements": "2023-08-17T17:07:04.0672413+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:56.6215488+00:00",
-  "LastUpdate_Ratings": "2023-08-17T16:01:17.2084006+00:00",
-  "LastUpdate_Achievements": "2023-08-17T16:07:11.9731166+00:00"
+  "LastUpdate_Ratings": "2023-08-17T17:01:11.6121894+00:00",
+  "LastUpdate_Achievements": "2023-08-17T17:07:04.0672792+00:00"
 }

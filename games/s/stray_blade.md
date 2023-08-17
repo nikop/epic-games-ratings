@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self-Defence | 83.00% | ~38 |
-| Tinkerer | 59.00% | ~27 |
+| Self-Defence | 83.00% | ~39 |
+| Tinkerer | 60.00% | ~28 |
 | Welcome to the Club | 30.00% | ~14 |
 | A new World ahead | 26.00% | ~12 |
-| Don't Cry Wolf | 22.00% | ~10 |
+| Don't Cry Wolf | 21.00% | ~10 |
 | Can't touch this | 17.00% | ~8 |
 | Apprentice | 17.00% | ~8 |
 | Freezing Cold | 9.00% | ~4 |
 | The Golden Flash | 9.00% | ~4 |
 | The Power of the Mountains | 9.00% | ~4 |
-| Bringing guns to a sword fight | 7.00% | ~3 |
-| Searing Heat | 7.00% | ~3 |
-| Through Dangers Untold | 7.00% | ~3 |
-| Locked and Loaded | 7.00% | ~3 |
-| Nothing but the Truth | 7.00% | ~3 |
-| Changing the World | 7.00% | ~3 |
+| Bringing guns to a sword fight | 6.00% | ~3 |
+| Searing Heat | 6.00% | ~3 |
+| Through Dangers Untold | 6.00% | ~3 |
+| Locked and Loaded | 6.00% | ~3 |
+| Nothing but the Truth | 6.00% | ~3 |
+| Changing the World | 6.00% | ~3 |
 | Sponsor | 4.00% | ~2 |
 | Mirror, Mirror on the Wall | 2.00% | ~1 |
 | Craftsmen | 2.00% | ~1 |
@@ -51,7 +51,7 @@
 | Unveiling the Truth | 0.00% | ~0 |
 | Master of all Domains | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46 (Ranked 375)  
+Progressed: 47 (Ranked 375)  
 Completed: 0 (0.00%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,6 +89,7 @@ Completed: 0 (0.00%) (Ranked 258)
 | 2023-08-10 | 44 | 0 |
 | 2023-08-12 | 45 | 0 |
 | 2023-08-13 | 46 | 0 |
+| 2023-08-17 | 47 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

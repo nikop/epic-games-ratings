@@ -37,7 +37,7 @@ Rating: 4.20 (Ranked 855)
 | Grim Reaper | 0.50% | ~79 |
 | Parole Denied | 0.50% | ~19 |
 | Big Spender | 0.50% | ~19 |
-| Quick Pick | 0.40% | ~15 |
+| Quick Pick | 0.50% | ~19 |
 | Mugshot | 0.30% | ~48 |
 | Instigator | 0.30% | ~11 |
 | Subject Alpha | 0.20% | ~8 |

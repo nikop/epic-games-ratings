@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 333,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 53,
-  "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2020-11-12T14:00:00+00:00",
     "PcReleaseDate": "2020-11-12T14:00:00+00:00",
@@ -633,10 +633,16 @@
       "Rating": 4.86,
       "NumberOfAwards": 329,
       "NumberOfAwardsMax": 38
+    },
+    {
+      "Time": "2023-08-17T16:57:27.0458788+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 330,
+      "NumberOfAwardsMax": 38
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 329,
+  "NumberOfAwards": 330,
   "NumberOfAwardsMax": 38,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -692,7 +698,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 26
+      "Count": 27
     },
     {
       "Text": "This game has a Creative Community",
@@ -714,10 +720,10 @@
     }
   ],
   "EOS_Progressed": 28144,
-  "EOS_Completed": 1326,
-  "EOS_NewPlayers": 30,
-  "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 4.71,
+  "EOS_Completed": 1327,
+  "EOS_NewPlayers": 28,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 4.72,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:18.3441913+00:00",
@@ -4418,6 +4424,11 @@
       "Time": "2023-08-16T23:04:42.8948938+00:00",
       "NumProgressed": 28144,
       "NumCompleted": 1326
+    },
+    {
+      "Time": "2023-08-17T17:04:43.1568723+00:00",
+      "NumProgressed": 28144,
+      "NumCompleted": 1327
     }
   ],
   "TotalAchievements": 30,
@@ -4669,14 +4680,14 @@
       "ID": "2m0copd",
       "IsBase": true,
       "Progressed": 28144,
-      "Completed": 1326
+      "Completed": 1327
     }
   ],
   "FirstSeen": "2022-07-22T20:29:14.9687777+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.3441921+00:00",
-  "LastChanged": "2023-08-15T11:57:25.512061+00:00",
-  "LastChanged_Achievements": "2023-08-17T16:04:51.9773347+00:00",
+  "LastChanged": "2023-08-17T16:57:27.0458786+00:00",
+  "LastChanged_Achievements": "2023-08-17T17:04:43.1568716+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:54.9305663+00:00",
-  "LastUpdate_Ratings": "2023-08-17T15:57:28.8868585+00:00",
-  "LastUpdate_Achievements": "2023-08-17T16:04:51.9774371+00:00"
+  "LastUpdate_Ratings": "2023-08-17T16:57:27.0458794+00:00",
+  "LastUpdate_Achievements": "2023-08-17T17:04:43.1569207+00:00"
 }

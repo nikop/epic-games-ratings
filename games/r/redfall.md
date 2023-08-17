@@ -13,7 +13,7 @@ Rating: 3.50 (Ranked 970)
 | ICU | 47.00% | ~815 |
 | Catch and Release | 45.00% | ~780 |
 | Peek-a-boo | 44.00% | ~763 |
-| Sucks To Be You | 43.00% | ~746 |
+| Sucks To Be You | 44.00% | ~763 |
 | Welcome to the Neighborhood | 39.00% | ~676 |
 | Fly Fisher | 37.00% | ~642 |
 | Throw The First Stone | 36.00% | ~624 |
@@ -72,7 +72,7 @@ Rating: 3.50 (Ranked 970)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,734 (Ranked 174)  
+Progressed: 1,734 (Ranked 175)  
 Completed: 0 (0.00%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |

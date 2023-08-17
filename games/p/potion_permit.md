@@ -5,23 +5,23 @@ Rating: 3.83 (Ranked 956)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Moonbury | 98.00% | ~1,510 |
-| The First Step | 89.00% | ~1,371 |
-| Moonbury Traveller | 64.00% | ~986 |
+| Welcome to Moonbury | 98.00% | ~1,511 |
+| The First Step | 89.00% | ~1,372 |
+| Moonbury Traveller | 64.00% | ~987 |
 | Rookie Chemist | 63.00% | ~971 |
-| Great Doctor | 52.00% | ~801 |
-| Dog Whisperer | 49.00% | ~755 |
+| Great Doctor | 52.00% | ~802 |
+| Dog Whisperer | 49.00% | ~756 |
 | Friendly | 48.00% | ~740 |
-| The Capitalist | 45.00% | ~693 |
+| The Capitalist | 45.00% | ~694 |
 | K.O.! | 44.00% | ~678 |
-| Intermediate Chemist | 40.00% | ~616 |
-| Decorative Mind | 31.00% | ~478 |
+| Intermediate Chemist | 40.00% | ~617 |
+| Decorative Mind | 32.00% | ~493 |
 | Lumber Specialist | 31.00% | ~478 |
-| Kind-hearted | 25.00% | ~385 |
-| Catch of the Day | 25.00% | ~385 |
+| Kind-hearted | 25.00% | ~386 |
+| Catch of the Day | 25.00% | ~386 |
 | Amateur Chef | 22.00% | ~339 |
-| Fishing Guru | 21.00% | ~324 |
-| Spark of Love | 18.00% | ~277 |
+| Fishing Guru | 20.00% | ~308 |
+| Spark of Love | 18.00% | ~278 |
 | Community Helper | 17.00% | ~262 |
 | Expert Chemist | 14.00% | ~216 |
 | Stone Specialist | 14.00% | ~216 |
@@ -32,8 +32,8 @@ Rating: 3.83 (Ranked 956)
 | Good Samaritan | 10.00% | ~154 |
 | Acrobatic Adventurer | 9.00% | ~139 |
 | Animal Exterminator | 8.00% | ~123 |
-| Adolescent Love | 6.00% | ~92 |
-| Mail Carrier | 6.00% | ~92 |
+| Adolescent Love | 6.00% | ~93 |
+| Mail Carrier | 6.00% | ~93 |
 | Plantation Exterminator | 5.00% | ~77 |
 | Grape Supplier | 4.00% | ~62 |
 | Sous Chef | 3.00% | ~46 |
@@ -44,7 +44,7 @@ Rating: 3.83 (Ranked 956)
 | Moonbury Navigator | 1.00% | ~15 |
 | Being a donut... | 0.70% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,541 (Ranked 178)  
+Progressed: 1,542 (Ranked 179)  
 Completed: 9 (0.58%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,10 +138,11 @@ Completed: 9 (0.58%) (Ranked 136)
 | 2023-08-11 | 1,538 | 9 |
 | 2023-08-15 | 1,539 | 9 |
 | 2023-08-16 | 1,541 | 9 |
+| 2023-08-17 | 1,542 | 9 |
 ## Awards
 Max (Character Customization): 69  (Ranked 378)  
-Sum: 69 (Ranked 436)  
-Diff (max vs sum): -58  
+Sum: 69 (Ranked 437)  
+Diff (max vs sum): -59  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 69 |

@@ -5,7 +5,7 @@
   "Ranking_Rating": 921,
   "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 512,
-  "Ranking_EOS_Progress": 171,
+  "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 98,
@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1815,
+  "EOS_Progressed": 1816,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -4989,6 +4989,11 @@
       "Time": "2023-08-17T12:05:25.5023564+00:00",
       "NumProgressed": 1815,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-17T17:05:54.7272018+00:00",
+      "NumProgressed": 1816,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -5038,9 +5043,9 @@
       "ID": "beastwarmachines",
       "SetID": "3nl4bcg",
       "Name": "Beast War Machines",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "blueprintupgrades",
@@ -5184,7 +5189,7 @@
       "Name": "Fellowship Power",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 744
+      "UsersEstimate": 745
     },
     {
       "ID": "fourleafclover",
@@ -5208,7 +5213,7 @@
       "Name": "Full Party",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "gearenchanting",
@@ -5272,7 +5277,7 @@
       "Name": "Inspection",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "jewelenchanting",
@@ -5400,7 +5405,7 @@
       "Name": "Prestigious x10",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "relicofthepast",
@@ -5454,9 +5459,9 @@
       "ID": "templeofeternals",
       "SetID": "3nl4bcg",
       "Name": "Temple of Eternals",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 1035
+      "UsersEstimate": 1017
     },
     {
       "ID": "thealchemist",
@@ -5560,7 +5565,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1688
+      "UsersEstimate": 1689
     },
     {
       "ID": "warmachinesarmy",
@@ -5592,14 +5597,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1434
+      "UsersEstimate": 1435
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1815,
+      "Progressed": 1816,
       "Completed": 2
     }
   ],
@@ -5607,8 +5612,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-08-10T20:59:32.9674394+00:00",
-  "LastChanged_Achievements": "2023-08-17T16:06:03.4126924+00:00",
+  "LastChanged_Achievements": "2023-08-17T17:05:54.7272013+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:43.3889946+00:00",
-  "LastUpdate_Ratings": "2023-08-17T16:00:00.5973784+00:00",
-  "LastUpdate_Achievements": "2023-08-17T16:06:03.4128076+00:00"
+  "LastUpdate_Ratings": "2023-08-17T16:59:56.7244056+00:00",
+  "LastUpdate_Achievements": "2023-08-17T17:05:54.727315+00:00"
 }

@@ -1538,9 +1538,9 @@
       "ID": "BroomAmanita",
       "SetID": "db30heh",
       "Name": "Gone Cooking",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 195
+      "UsersEstimate": 198
     },
     {
       "ID": "BroomPistol",
@@ -1562,9 +1562,9 @@
       "ID": "DevilRope",
       "SetID": "db30heh",
       "Name": "The Devil is My Friend",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 286
+      "UsersEstimate": 290
     },
     {
       "ID": "Drunkard",
@@ -1666,9 +1666,9 @@
       "ID": "PriestBroom",
       "SetID": "db30heh",
       "Name": "Chastisement",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 99
+      "UsersEstimate": 103
     },
     {
       "ID": "PriestPistol",
@@ -1754,9 +1754,9 @@
       "ID": "RogueRum",
       "SetID": "db30heh",
       "Name": "In Good Spirits",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 25,
-      "UsersEstimate": 322
+      "UsersEstimate": 326
     },
     {
       "ID": "SleepingBasiliskAmanita",
@@ -1786,9 +1786,9 @@
       "ID": "SwordDiamond",
       "SetID": "db30heh",
       "Name": "Precious Barter",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 187
+      "UsersEstimate": 191
     },
     {
       "ID": "SwordMoneyBag",
@@ -1817,8 +1817,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-08-17T16:03:26.0513117+00:00",
+  "LastChanged_Achievements": "2023-08-17T17:03:05.8165284+00:00",
   "LastUpdate_AppInfo": "2023-08-15T16:57:19.7846089+00:00",
-  "LastUpdate_Ratings": "2023-08-17T15:58:34.1862849+00:00",
-  "LastUpdate_Achievements": "2023-08-17T16:03:26.0513666+00:00"
+  "LastUpdate_Ratings": "2023-08-17T16:58:35.4111176+00:00",
+  "LastUpdate_Achievements": "2023-08-17T17:03:05.8165769+00:00"
 }

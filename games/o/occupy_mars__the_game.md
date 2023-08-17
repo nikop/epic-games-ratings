@@ -1,25 +1,25 @@
 # Occupy Mars: The Game
 [Store](https://store.epicgames.com/en-US/p/occupy-mars)  
 [View Rawdata](../../db/o/occupy_mars__the_game.json)  
-Rating: 3.95 (Ranked 941)  
+Rating: 3.96 (Ranked 941)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I don't feel so good | 41.00% | ~617 |
-| Electrician | 33.00% | ~497 |
-| Fear my botany powers, Mars | 32.00% | ~482 |
+| I don't feel so good | 41.00% | ~618 |
+| Electrician | 33.00% | ~498 |
+| Fear my botany powers, Mars | 32.00% | ~483 |
 | Zero Waste | 29.00% | ~437 |
 | Bob The Builder | 29.00% | ~437 |
 | I am the greatest botanist on this planet. | 28.00% | ~422 |
-| Gardener | 25.00% | ~376 |
-| Miner | 25.00% | ~376 |
-| Occupy Mars! | 24.00% | ~361 |
-| Houston we have a problem | 21.00% | ~316 |
+| Gardener | 25.00% | ~377 |
+| Miner | 25.00% | ~377 |
+| Occupy Mars! | 24.00% | ~362 |
+| Houston we have a problem | 21.00% | ~317 |
 | Detective | 18.00% | ~271 |
 | The Collector | 17.00% | ~256 |
 | Get your hands dirty | 9.00% | ~136 |
-| All Wheel Trouble | 7.00% | ~105 |
-| Space Forest | 7.00% | ~105 |
+| All Wheel Trouble | 7.00% | ~106 |
+| Space Forest | 7.00% | ~106 |
 | DeDust | 5.00% | ~75 |
 | ITS crash site | 5.00% | ~75 |
 | “Aliens” | 4.00% | ~60 |
@@ -54,7 +54,7 @@ Rating: 3.95 (Ranked 941)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,506 (Ranked 179)  
+Progressed: 1,508 (Ranked 180)  
 Completed: 0 (0.00%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 0 (0.00%) (Ranked 258)
 | 2023-08-14 | 1,501 | 0 |
 | 2023-08-15 | 1,503 | 0 |
 | 2023-08-16 | 1,505 | 0 |
-| 2023-08-17 | 1,506 | 0 |
+| 2023-08-17 | 1,508 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -192,3 +192,4 @@ Completed: 0 (0.00%) (Ranked 258)
 | 2023-07-27 | 3.97 | 0 | 0 |
 | 2023-07-31 | 3.93 | 0 | 0 |
 | 2023-08-11 | 3.95 | 0 | 0 |
+| 2023-08-17 | 3.96 | 0 | 0 |

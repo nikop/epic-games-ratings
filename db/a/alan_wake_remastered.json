@@ -6,8 +6,8 @@
   "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 85,
-  "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 87,
+  "Ranking_EOS_Completed": 204,
+  "Ranking_EOS_NewPlayers": 88,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 61005,
+  "EOS_Progressed": 61007,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 371,
+  "EOS_NewPlayers": 368,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11537,6 +11537,11 @@
       "Time": "2023-08-17T16:06:30.2614413+00:00",
       "NumProgressed": 61005,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-17T17:06:21.2058192+00:00",
+      "NumProgressed": 61007,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -11548,7 +11553,7 @@
       "Name": "Follow the Light",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 22572
+      "UsersEstimate": 22573
     },
     {
       "ID": "02",
@@ -11556,7 +11561,7 @@
       "Name": "Nordic Walking",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 14031
+      "UsersEstimate": 14032
     },
     {
       "ID": "03",
@@ -11564,7 +11569,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 14031
+      "UsersEstimate": 14032
     },
     {
       "ID": "04",
@@ -11652,7 +11657,7 @@
       "Name": "Gatekeeper",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6100
+      "UsersEstimate": 6101
     },
     {
       "ID": "15",
@@ -11660,7 +11665,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6100
+      "UsersEstimate": 6101
     },
     {
       "ID": "16",
@@ -11740,7 +11745,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4880
+      "UsersEstimate": 4881
     },
     {
       "ID": "26",
@@ -11780,7 +11785,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6100
+      "UsersEstimate": 6101
     },
     {
       "ID": "31",
@@ -11796,7 +11801,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 17691
+      "UsersEstimate": 17692
     },
     {
       "ID": "33",
@@ -11812,7 +11817,7 @@
       "Name": "Energized!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6100
+      "UsersEstimate": 6101
     },
     {
       "ID": "35",
@@ -11860,7 +11865,7 @@
       "Name": "Right of Way",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5490
+      "UsersEstimate": 5491
     },
     {
       "ID": "41",
@@ -11882,9 +11887,9 @@
       "ID": "43",
       "SetID": "212770e",
       "Name": "Paging Mr. Wake",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 9761
+      "UsersEstimate": 10371
     },
     {
       "ID": "44",
@@ -12044,7 +12049,7 @@
       "Name": "Iron Will",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "64",
@@ -12083,21 +12088,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 61005,
+      "Progressed": 61007,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 24473,
+      "Progressed": 24475,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-17T16:06:30.2614405+00:00",
+  "LastChanged_Achievements": "2023-08-17T17:06:21.2058186+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:20.2881971+00:00",
-  "LastUpdate_Ratings": "2023-08-17T15:59:34.3585189+00:00",
-  "LastUpdate_Achievements": "2023-08-17T16:06:30.2616427+00:00"
+  "LastUpdate_Ratings": "2023-08-17T16:59:32.2304222+00:00",
+  "LastUpdate_Achievements": "2023-08-17T17:06:21.2059628+00:00"
 }

@@ -5,19 +5,19 @@ Rating: 4.05 (Ranked 921)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,688 |
-| World Map | 79.00% | ~1,434 |
-| Temple of Eternals | 57.00% | ~1,035 |
+| Victor | 93.00% | ~1,689 |
+| World Map | 79.00% | ~1,435 |
+| Temple of Eternals | 56.00% | ~1,017 |
 | Prestigious | 53.00% | ~962 |
-| Fellowship Power | 41.00% | ~744 |
+| Fellowship Power | 41.00% | ~745 |
 | Guild Power | 25.00% | ~454 |
-| Prestigious x10 | 22.00% | ~399 |
+| Prestigious x10 | 22.00% | ~400 |
 | The game is on | 20.00% | ~363 |
 | Exotic Merchant | 18.00% | ~327 |
 | Dragon Clicker | 17.00% | ~309 |
 | Miner Clicker | 17.00% | ~309 |
-| Full Party | 16.00% | ~290 |
-| Inspection | 16.00% | ~290 |
+| Full Party | 16.00% | ~291 |
+| Inspection | 16.00% | ~291 |
 | Dragon Master | 15.00% | ~272 |
 | Enlightenment | 15.00% | ~272 |
 | Hero inspection | 14.00% | ~254 |
@@ -71,8 +71,8 @@ Rating: 4.05 (Ranked 921)
 | Transmute | 0.90% | ~16 |
 | Enhanced War Machines | 0.70% | ~13 |
 | Tree of Life | 0.60% | ~11 |
+| Beast War Machines | 0.50% | ~9 |
 | Angel Power | 0.40% | ~7 |
-| Beast War Machines | 0.40% | ~7 |
 | Enchanting skill x5 | 0.40% | ~7 |
 | Pokerface | 0.40% | ~7 |
 | Ultimate War Machines | 0.40% | ~7 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 921)
 | Silverwood liberator | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,815 (Ranked 171)  
+Progressed: 1,816 (Ranked 172)  
 Completed: 2 (0.11%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,7 +199,7 @@ Completed: 2 (0.11%) (Ranked 201)
 | 2023-08-14 | 1,802 | 2 |
 | 2023-08-15 | 1,806 | 2 |
 | 2023-08-16 | 1,811 | 2 |
-| 2023-08-17 | 1,815 | 2 |
+| 2023-08-17 | 1,816 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

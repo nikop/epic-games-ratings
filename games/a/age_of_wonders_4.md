@@ -56,8 +56,8 @@ Rating: 4.61 (Ranked 364)
 | The Grey Wizard | 0.10% | ~5 |
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,118 (Ranked 141)  
-Completed: 5 (0.10%) (Ranked 205)  
+Progressed: 5,119 (Ranked 141)  
+Completed: 5 (0.10%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -159,7 +159,7 @@ Completed: 5 (0.10%) (Ranked 205)
 | 2023-08-12 | 5,108 | 5 |
 | 2023-08-13 | 5,111 | 5 |
 | 2023-08-15 | 5,116 | 5 |
-| 2023-08-17 | 5,118 | 5 |
+| 2023-08-17 | 5,119 | 5 |
 ## Awards
 Max (Great for Beginners): 20  (Ranked 508)  
 Sum: 20 (Ranked 508)  

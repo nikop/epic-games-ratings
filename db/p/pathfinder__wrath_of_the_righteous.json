@@ -3470,9 +3470,9 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 10977,
+  "EOS_Progressed": 10979,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10885,6 +10885,11 @@
       "Time": "2023-08-17T14:04:42.5662374+00:00",
       "NumProgressed": 10977,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-17T17:05:06.6176998+00:00",
+      "NumProgressed": 10979,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -10920,7 +10925,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 768
+      "UsersEstimate": 769
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -11096,7 +11101,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1207
+      "UsersEstimate": 1208
     },
     {
       "ID": "28_GreatUpstart",
@@ -11238,9 +11243,9 @@
       "ID": "45_VoiceFromDreams",
       "SetID": "989of5o",
       "Name": "Voice from Your Dreams",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 549
+      "UsersEstimate": 439
     },
     {
       "ID": "46_AllPathsOpen",
@@ -11264,7 +11269,7 @@
       "Name": "A Spark",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1756
+      "UsersEstimate": 1757
     },
     {
       "ID": "49_Flame",
@@ -11286,9 +11291,9 @@
       "ID": "51_DemonicAndDivine",
       "SetID": "989of5o",
       "Name": "Demonic and Divine",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 549
+      "UsersEstimate": 659
     },
     {
       "ID": "52_TrulyImportantDeed",
@@ -11823,21 +11828,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9759,
+      "Progressed": 9761,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10977,
+      "Progressed": 10979,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-08-17T16:00:31.1424714+00:00",
-  "LastChanged_Achievements": "2023-08-17T16:05:15.5227634+00:00",
+  "LastChanged_Achievements": "2023-08-17T17:05:06.6176992+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:11.5447906+00:00",
-  "LastUpdate_Ratings": "2023-08-17T16:00:31.1424722+00:00",
-  "LastUpdate_Achievements": "2023-08-17T16:05:15.5230058+00:00"
+  "LastUpdate_Ratings": "2023-08-17T17:00:26.7254697+00:00",
+  "LastUpdate_Achievements": "2023-08-17T17:05:06.6179207+00:00"
 }

@@ -4,10 +4,10 @@
   "ProductSlug": "songs-of-conquest",
   "Ranking_Rating": 215,
   "Ranking_Popularity": 470,
-  "Ranking_PopularitySum": 384,
+  "Ranking_PopularitySum": 372,
   "Ranking_EOS_Progress": 546,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewPlayers": 358,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -367,10 +367,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 174,
       "NumberOfAwardsMax": 27
+    },
+    {
+      "Time": "2023-08-17T17:01:15.9766122+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 194,
+      "NumberOfAwardsMax": 27
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 174,
+  "NumberOfAwards": 194,
   "NumberOfAwardsMax": 27,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -421,6 +427,12 @@
       "Prefix": "This game has",
       "Type": "Competitive Players",
       "Count": 21
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -442,9 +454,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
-  "LastChanged": "2023-08-17T16:01:21.4970338+00:00",
-  "LastChanged_Achievements": "2023-08-17T16:06:50.6251807+00:00",
+  "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
+  "LastChanged_Achievements": "2023-08-17T17:06:41.881327+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:59.9038237+00:00",
-  "LastUpdate_Ratings": "2023-08-17T16:01:21.4970344+00:00",
-  "LastUpdate_Achievements": "2023-08-17T16:06:50.6251825+00:00"
+  "LastUpdate_Ratings": "2023-08-17T17:01:15.9766125+00:00",
+  "LastUpdate_Achievements": "2023-08-17T17:06:41.8813285+00:00"
 }

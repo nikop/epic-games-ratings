@@ -4,7 +4,7 @@
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 38,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 199,
+  "EOS_Progressed": 200,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 7.04,
+  "EOS_Completed_Percentage": 7,
   "EosHistory": [
     {
       "Time": "2023-06-10T10:01:48.8314977+00:00",
@@ -811,6 +811,11 @@
       "Time": "2023-08-17T11:04:00.5899215+00:00",
       "NumProgressed": 199,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-08-17T17:03:29.9470216+00:00",
+      "NumProgressed": 200,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 16,
@@ -822,7 +827,7 @@
       "Name": "Three is company",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -862,7 +867,7 @@
       "Name": "High-rise",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -900,9 +905,9 @@
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "8d3ci0",
       "Name": "Catch a flight",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 62
+      "UsersEstimate": 64
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -918,7 +923,7 @@
       "Name": "Private pool",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -949,14 +954,14 @@
     {
       "ID": "8d3ci0",
       "IsBase": true,
-      "Progressed": 199,
+      "Progressed": 200,
       "Completed": 14
     }
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-08-17T16:03:49.525877+00:00",
+  "LastChanged_Achievements": "2023-08-17T17:03:29.947021+00:00",
   "LastUpdate_AppInfo": "2023-08-12T15:56:58.9050315+00:00",
-  "LastUpdate_Ratings": "2023-08-17T15:58:34.0203338+00:00",
-  "LastUpdate_Achievements": "2023-08-17T16:03:49.5258966+00:00"
+  "LastUpdate_Ratings": "2023-08-17T16:58:35.248325+00:00",
+  "LastUpdate_Achievements": "2023-08-17T17:03:29.9470399+00:00"
 }

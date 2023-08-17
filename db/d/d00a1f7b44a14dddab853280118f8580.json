@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 17,
   "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-07-28T07:00:00+00:00",
     "PcReleaseDate": "2022-06-15T07:00:00+00:00",
@@ -589,9 +589,9 @@
       "ID": "ach_items_50",
       "SetID": "5e260i9",
       "Name": "Sharp-sighted!",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 60,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ach_minigames_10",
@@ -636,8 +636,8 @@
   ],
   "FirstSeen": "2023-07-30T16:57:15.6867124+00:00",
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2023-08-17T16:03:37.7329012+00:00",
+  "LastChanged_Achievements": "2023-08-17T17:03:17.740183+00:00",
   "LastUpdate_AppInfo": "2023-08-10T21:57:07.638473+00:00",
-  "LastUpdate_Ratings": "2023-08-17T15:58:14.1766582+00:00",
-  "LastUpdate_Achievements": "2023-08-17T16:03:37.7329187+00:00"
+  "LastUpdate_Ratings": "2023-08-17T16:58:10.3256237+00:00",
+  "LastUpdate_Achievements": "2023-08-17T17:03:17.7401979+00:00"
 }
