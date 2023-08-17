@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -2980,11 +2980,17 @@
       "Rating": 3.94,
       "NumberOfAwards": 1901,
       "NumberOfAwardsMax": 402
+    },
+    {
+      "Time": "2023-08-17T10:57:14.4264805+00:00",
+      "Rating": 3.94,
+      "NumberOfAwards": 1902,
+      "NumberOfAwardsMax": 403
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 1901,
-  "NumberOfAwardsMax": 402,
+  "NumberOfAwards": 1902,
+  "NumberOfAwardsMax": 403,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -2997,7 +3003,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 402
+      "Count": 403
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3036,7 +3042,7 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 71936,
+  "EOS_Progressed": 71937,
   "EOS_Completed": 39,
   "EOS_NewPlayers": 298,
   "EOS_NewCompleters": 2,
@@ -15456,6 +15462,11 @@
       "Time": "2023-08-17T10:06:30.2311689+00:00",
       "NumProgressed": 71936,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-08-17T11:07:23.755567+00:00",
+      "NumProgressed": 71937,
+      "NumCompleted": 39
     }
   ],
   "TotalAchievements": 37,
@@ -15475,7 +15486,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 20861
+      "UsersEstimate": 20862
     },
     {
       "ID": "ACH_0012",
@@ -15611,7 +15622,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 46758
+      "UsersEstimate": 46759
     },
     {
       "ID": "ACH_0210",
@@ -15691,7 +15702,7 @@
       "Name": "King of the Hill",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 24458
+      "UsersEstimate": 24459
     },
     {
       "ID": "ACH_0430",
@@ -15762,22 +15773,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 71936,
+      "Progressed": 71937,
       "Completed": 39
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 283,
-      "Completed": 283
+      "Progressed": 284,
+      "Completed": 284
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-08-17T06:57:10.0839364+00:00",
-  "LastChanged_Achievements": "2023-08-17T10:06:30.2311682+00:00",
+  "LastChanged": "2023-08-17T10:57:14.4264803+00:00",
+  "LastChanged_Achievements": "2023-08-17T11:07:23.7555664+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:57.6056168+00:00",
-  "LastUpdate_Ratings": "2023-08-17T09:57:20.3341003+00:00",
-  "LastUpdate_Achievements": "2023-08-17T10:06:30.2312749+00:00"
+  "LastUpdate_Ratings": "2023-08-17T10:57:14.426481+00:00",
+  "LastUpdate_Achievements": "2023-08-17T11:07:23.7556554+00:00"
 }

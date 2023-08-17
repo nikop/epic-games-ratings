@@ -1775,9 +1775,9 @@
       "ID": "BURN_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Burnt Smell",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 134
     },
     {
       "ID": "BURN_ACHIEVEMENT_2",
@@ -2190,8 +2190,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-08-17T10:06:50.9064759+00:00",
+  "LastChanged_Achievements": "2023-08-17T11:07:48.9645542+00:00",
   "LastUpdate_AppInfo": "2023-08-10T15:57:09.1792695+00:00",
-  "LastUpdate_Ratings": "2023-08-17T09:58:12.7677502+00:00",
-  "LastUpdate_Achievements": "2023-08-17T10:06:50.9065533+00:00"
+  "LastUpdate_Ratings": "2023-08-17T10:58:14.3966721+00:00",
+  "LastUpdate_Achievements": "2023-08-17T11:07:48.9646341+00:00"
 }

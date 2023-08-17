@@ -14,8 +14,10 @@
 | FIRST LOVE | 50.00% | ~2 |
 | Are You Alright? | 50.00% | ~2 |
 | You're Really Something Else | 50.00% | ~2 |
+| Doesn't Matter I'll Handle It | 25.00% | ~1 |
 | Life Is A Rollercoaster | 25.00% | ~1 |
 | Lover In Dark Alley | 25.00% | ~1 |
+| Boys Need To Protect Themselves | 25.00% | ~1 |
 | Days Of Innocence | 25.00% | ~1 |
 | A Slap In The Face! | 25.00% | ~1 |
 | Love You Three Thousand | 25.00% | ~1 |
@@ -24,10 +26,8 @@
 | ONE PUNCH | 25.00% | ~1 |
 | Go Clean up In Your Own Way | 25.00% | ~1 |
 | My Dear Love! | 0.00% | ~0 |
-| Doesn't Matter I'll Handle It | 0.00% | ~0 |
 | Off We Sail Tonight | 0.00% | ~0 |
 | All I Have Is Money | 0.00% | ~0 |
-| Boys Need To Protect Themselves | 0.00% | ~0 |
 | Go Get Some Fries On The Pier | 0.00% | ~0 |
 | Happy Family | 0.00% | ~0 |
 | Let Me Be Your Toy Boy | 0.00% | ~0 |

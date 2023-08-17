@@ -3,11 +3,11 @@
   "Name": "Far Cry",
   "ProductSlug": "far-cry",
   "Ranking_Rating": 512,
-  "Ranking_Popularity": 511,
-  "Ranking_PopularitySum": 511,
+  "Ranking_Popularity": 512,
+  "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 546,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewPlayers": 356,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2020-08-18T15:00:00+00:00",
@@ -365,6 +365,6 @@
   "FirstSeen": "2022-07-22T20:26:40.9407197+00:00",
   "LastChanged": "2023-08-13T23:02:07.7446216+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:58:01.8506344+00:00",
-  "LastUpdate_Ratings": "2023-08-17T10:00:56.492985+00:00",
-  "LastUpdate_Achievements": "2023-08-17T10:05:09.5106387+00:00"
+  "LastUpdate_Ratings": "2023-08-17T11:03:06.8964128+00:00",
+  "LastUpdate_Achievements": "2023-08-17T11:05:46.5885564+00:00"
 }

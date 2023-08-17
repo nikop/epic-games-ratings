@@ -2,6 +2,13 @@
 [Store](https://store.epicgames.com/en-US/p/kerbal-space-program-2)  
 [View Rawdata](../../db/k/kerbal_space_program_2.json)  
 Rating: 4.10 (Ranked 903)  
+## Awards
+Max (Educational): 20  (Ranked 508)  
+Sum: 20 (Ranked 508)  
+Diff (max vs sum): 0  
+| Award | Count |
+| ----- | ----- |
+| This game is Educational | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -51,3 +58,4 @@ Rating: 4.10 (Ranked 903)
 | 2023-07-12 | 4.10 | 0 | 0 |
 | 2023-07-25 | 4.09 | 0 | 0 |
 | 2023-07-31 | 4.10 | 0 | 0 |
+| 2023-08-17 | 4.10 | 20 | 20 |

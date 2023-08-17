@@ -143,6 +143,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Old World Order | 0.30% | ~40 |
 | Hittite Paganism | 0.30% | ~40 |
 | Cataphract Archer | 0.30% | ~40 |
+| Three Man Chariot | 0.30% | ~40 |
 | All Nations | 0.30% | ~40 |
 | Conquest Victory | 0.30% | ~40 |
 | Pilgrimage | 0.30% | ~40 |
@@ -165,7 +166,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Play-By-Cloud Game | 0.20% | ~27 |
 | Capturing Cities | 0.20% | ~27 |
 | Ten Crowns | 0.20% | ~27 |
-| Three Man Chariot | 0.20% | ~27 |
 | Siege Tower | 0.20% | ~27 |
 | Necropolis in Waset | 0.20% | ~27 |
 | Centenarian | 0.10% | ~13 |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 360,
   "Ranking_EOS_Completed": 46,
   "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2016-03-24T11:00:00+00:00",
@@ -344,9 +344,9 @@
       "ID": "Jing",
       "SetID": "ag48e8e",
       "Name": "Jing Jang",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "Kamzik",
@@ -543,8 +543,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-08-17T10:04:35.6556352+00:00",
+  "LastChanged_Achievements": "2023-08-17T11:05:05.7863436+00:00",
   "LastUpdate_AppInfo": "2023-08-11T16:57:03.8817549+00:00",
-  "LastUpdate_Ratings": "2023-08-17T09:58:07.6946635+00:00",
-  "LastUpdate_Achievements": "2023-08-17T10:04:35.6556596+00:00"
+  "LastUpdate_Ratings": "2023-08-17T10:58:09.2350285+00:00",
+  "LastUpdate_Achievements": "2023-08-17T11:05:05.7863689+00:00"
 }

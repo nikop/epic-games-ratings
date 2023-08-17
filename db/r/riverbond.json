@@ -3,12 +3,12 @@
   "Name": "Riverbond",
   "ProductSlug": "riverbond-782aa4",
   "Ranking_Rating": 608,
-  "Ranking_Popularity": 511,
-  "Ranking_PopularitySum": 511,
+  "Ranking_Popularity": 512,
+  "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 31,
   "Ranking_EOS_Completed": 210,
   "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 35,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
     "PcReleaseDate": "2019-06-09T00:00:00+00:00",
@@ -480,9 +480,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 525196,
+  "EOS_Progressed": 525197,
   "EOS_Completed": 460,
-  "EOS_NewPlayers": 580,
+  "EOS_NewPlayers": 575,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -13030,6 +13030,11 @@
       "Time": "2023-08-17T10:05:35.3559359+00:00",
       "NumProgressed": 525196,
       "NumCompleted": 460
+    },
+    {
+      "Time": "2023-08-17T11:06:17.4175862+00:00",
+      "NumProgressed": 525197,
+      "NumCompleted": 460
     }
   ],
   "TotalAchievements": 57,
@@ -13049,7 +13054,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 236338
+      "UsersEstimate": 236339
     },
     {
       "ID": "11",
@@ -13057,7 +13062,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 367637
+      "UsersEstimate": 367638
     },
     {
       "ID": "12",
@@ -13073,7 +13078,7 @@
       "Name": "Keep On Trucking",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 68275
+      "UsersEstimate": 68276
     },
     {
       "ID": "14",
@@ -13113,7 +13118,7 @@
       "Name": "To Victory!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 78779
+      "UsersEstimate": 78780
     },
     {
       "ID": "19",
@@ -13273,7 +13278,7 @@
       "Name": "Sunday Best",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 84031
+      "UsersEstimate": 84032
     },
     {
       "ID": "37",
@@ -13401,7 +13406,7 @@
       "Name": "Two of a Kind",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 73527
+      "UsersEstimate": 73528
     },
     {
       "ID": "51",
@@ -13417,7 +13422,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 241590
+      "UsersEstimate": 241591
     },
     {
       "ID": "53",
@@ -13496,15 +13501,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 525196,
+      "Progressed": 525197,
       "Completed": 460
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
-  "LastChanged_Achievements": "2023-08-17T10:05:35.3559354+00:00",
+  "LastChanged_Achievements": "2023-08-17T11:06:17.4175858+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:16.1872639+00:00",
-  "LastUpdate_Ratings": "2023-08-17T09:58:44.3765832+00:00",
-  "LastUpdate_Achievements": "2023-08-17T10:05:35.3560684+00:00"
+  "LastUpdate_Ratings": "2023-08-17T10:58:51.9650137+00:00",
+  "LastUpdate_Achievements": "2023-08-17T11:06:17.4177682+00:00"
 }

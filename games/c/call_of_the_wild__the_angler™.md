@@ -15,9 +15,9 @@ Number of Ratings: 281  (23.09.2022)
 | More Fish in the Sea | 42.00% | ~2,065 |
 | License to Gill | 34.00% | ~1,671 |
 | Fish Out of Water | 33.00% | ~1,622 |
-| Things that go Splash in the Night | 27.00% | ~1,327 |
+| Things that go Splash in the Night | 28.00% | ~1,376 |
 | Goldfish? | 27.00% | ~1,327 |
-| Going for Gold | 24.00% | ~1,180 |
+| Going for Gold | 25.00% | ~1,229 |
 | I'm Hooked! | 19.00% | ~934 |
 | Diamond in the Rough | 13.00% | ~639 |
 | More than a Tourist | 12.00% | ~590 |
