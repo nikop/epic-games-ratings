@@ -31,9 +31,9 @@
 | 29 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 10.00% |
 | 30 | [Sonic Origins](games/s/sonic_origins.md) | 9.60% |
 | 31 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.30% |
-| 32 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.92% |
+| 32 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.91% |
 | 33 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.48% |
-| 34 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 8.16% |
+| 34 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.84% |
 | 35 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 7.81% |
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.53% |
 | 37 | [Smelter](games/s/smelter.md) | 7.50% |
@@ -46,8 +46,8 @@
 | 44 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 45 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.98% |
 | 46 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.66% |
-| 47 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.45% |
-| 48 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.36% |
+| 47 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.36% |
+| 47 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.36% |
 | 49 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.19% |
 | 50 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.89% |
 | 51 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.77% |
@@ -106,9 +106,9 @@
 | 104 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.47% |
 | 105 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.46% |
 | 105 | [Ten Dates](games/t/ten_dates.md) | 1.46% |
-| 107 | [Poosh XL](games/p/poosh_xl.md) | 1.42% |
-| 108 | [Infindustry](games/i/infindustry.md) | 1.30% |
+| 107 | [Poosh XL](games/p/poosh_xl.md) | 1.41% |
 | 108 | [Late Shift](games/l/late_shift.md) | 1.30% |
+| 109 | [Infindustry](games/i/infindustry.md) | 1.28% |
 | 110 | [Chorus](games/c/chorus.md) | 1.15% |
 | 111 | [Trifox](games/t/trifox.md) | 1.10% |
 | 112 | [A Musical Story](games/a/a_musical_story.md) | 1.09% |
@@ -140,8 +140,8 @@
 | 138 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.57% |
 | 139 | [Grindstone](games/g/grindstone.md) | 0.56% |
 | 140 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.55% |
-| 141 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.53% |
-| 142 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
+| 141 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.52% |
+| 141 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
 | 143 | [Aragami 2](games/a/aragami_2.md) | 0.51% |
 | 143 | [The Surge 2](games/t/the_surge_2.md) | 0.51% |
 | 145 | [Godlike Burger](games/g/godlike_burger.md) | 0.49% |
@@ -217,15 +217,15 @@
 | 215 | [Partisans 1941](games/p/partisans_1941.md) | 0.08% |
 | 216 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
 | 217 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 0.06% |
+| 217 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.06% |
 | 217 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.06% |
 | 217 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
 | 217 | [Saints Row](games/s/saints_row.md) | 0.06% |
 | 217 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.06% |
 | 217 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
-| 223 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.05% |
-| 223 | [DEATH STRANDING](games/d/death_stranding.md) | 0.05% |
-| 223 | [High On Life](games/h/high_on_life.md) | 0.05% |
-| 223 | [House Party](games/h/house_party.md) | 0.05% |
+| 224 | [DEATH STRANDING](games/d/death_stranding.md) | 0.05% |
+| 224 | [High On Life](games/h/high_on_life.md) | 0.05% |
+| 224 | [House Party](games/h/house_party.md) | 0.05% |
 | 227 | [Absolute Drift](games/a/absolute_drift.md) | 0.04% |
 | 227 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.04% |
 | 227 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.04% |
@@ -544,4 +544,4 @@
 | 258 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 258 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 258 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,067 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,068 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
