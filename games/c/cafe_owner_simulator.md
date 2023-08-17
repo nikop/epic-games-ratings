@@ -10,8 +10,8 @@
 | FIREFIGHTER | 57.00% | ~535 |
 | ADVANCED | 41.00% | ~385 |
 | CHIEF | 21.00% | ~197 |
+| INTRODUCTION | 14.00% | ~131 |
 | SECOND_FLOOR | 14.00% | ~131 |
-| INTRODUCTION | 13.00% | ~122 |
 | DEBTOR | 10.00% | ~94 |
 | SUCCESSFUL | 5.00% | ~47 |
 | THINGS ARE GOING WELL | 5.00% | ~47 |
@@ -19,7 +19,7 @@
 | FIRST $100K | 2.00% | ~19 |
 | 500K$. | 1.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 938 (Ranked 199)  
+Progressed: 938 (Ranked 200)  
 Completed: 0 (0.00%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |

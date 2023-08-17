@@ -16,12 +16,12 @@ Number of Ratings: 1,354  (23.09.2022)
 | Fifth Crusade | 7.00% | ~768 |
 | Embrace of the Abyss | 6.00% | ~658 |
 | Path of the Angel | 6.00% | ~658 |
+| Transformation | 5.00% | ~549 |
 | Great Upstart | 5.00% | ~549 |
 | Voice from Your Dreams | 5.00% | ~549 |
 | All Paths Open | 5.00% | ~549 |
 | Demonic and Divine | 5.00% | ~549 |
 | Path of the Azata | 4.00% | ~439 |
-| Transformation | 4.00% | ~439 |
 | The Legacy | 4.00% | ~439 |
 | Divide and Rule | 4.00% | ~439 |
 | A Flame | 4.00% | ~439 |

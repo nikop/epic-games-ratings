@@ -864,9 +864,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 6387,
+  "EOS_Progressed": 6388,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5099,6 +5099,11 @@
       "Time": "2023-08-17T04:04:49.5332277+00:00",
       "NumProgressed": 6387,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-17T12:04:23.7033878+00:00",
+      "NumProgressed": 6388,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -5214,7 +5219,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 5046
+      "UsersEstimate": 5047
     },
     {
       "ID": "First_Race_Met",
@@ -5230,7 +5235,7 @@
       "Name": "Design a Ship",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1788
+      "UsersEstimate": 1789
     },
     {
       "ID": "First_Stream_Travel",
@@ -5246,7 +5251,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 4982
+      "UsersEstimate": 4983
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -5430,7 +5435,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3960
+      "UsersEstimate": 3961
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -5598,7 +5603,7 @@
       "Name": "Win a Battle",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 4279
+      "UsersEstimate": 4280
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -5614,7 +5619,7 @@
       "Name": "Conquest Victory!",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "Win_CustomFaction",
@@ -5638,7 +5643,7 @@
       "Name": "Win an Immense Game",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "Win_Influence",
@@ -5685,15 +5690,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6387,
+      "Progressed": 6388,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-08-16T06:59:13.2863126+00:00",
-  "LastChanged_Achievements": "2023-08-17T11:04:52.1455104+00:00",
+  "LastChanged_Achievements": "2023-08-17T12:04:23.7033872+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:24.6593665+00:00",
-  "LastUpdate_Ratings": "2023-08-17T10:59:04.5339623+00:00",
-  "LastUpdate_Achievements": "2023-08-17T11:04:52.1456114+00:00"
+  "LastUpdate_Ratings": "2023-08-17T11:58:57.1113008+00:00",
+  "LastUpdate_Achievements": "2023-08-17T12:04:23.7035481+00:00"
 }

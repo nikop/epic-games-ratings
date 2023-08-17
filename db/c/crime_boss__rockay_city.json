@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -3042,9 +3042,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 71937,
+  "EOS_Progressed": 71938,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 298,
+  "EOS_NewPlayers": 297,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -15467,6 +15467,11 @@
       "Time": "2023-08-17T11:07:23.755567+00:00",
       "NumProgressed": 71937,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-08-17T12:06:27.3212099+00:00",
+      "NumProgressed": 71938,
+      "NumCompleted": 39
     }
   ],
   "TotalAchievements": 37,
@@ -15478,7 +15483,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 35968
+      "UsersEstimate": 35969
     },
     {
       "ID": "ACH_0011",
@@ -15526,7 +15531,7 @@
       "Name": "Imports and Exports",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2877
+      "UsersEstimate": 2878
     },
     {
       "ID": "ACH_0021",
@@ -15622,7 +15627,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 46759
+      "UsersEstimate": 46760
     },
     {
       "ID": "ACH_0210",
@@ -15630,7 +15635,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 53233
+      "UsersEstimate": 53234
     },
     {
       "ID": "ACH_0211",
@@ -15646,7 +15651,7 @@
       "Name": "Too Old for This",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 33810
+      "UsersEstimate": 33811
     },
     {
       "ID": "ACH_0300",
@@ -15654,7 +15659,7 @@
       "Name": "Olympus Ascended",
       "Percentage": 4,
       "XP": 55,
-      "UsersEstimate": 2877
+      "UsersEstimate": 2878
     },
     {
       "ID": "ACH_0310",
@@ -15662,7 +15667,7 @@
       "Name": "Cracked the Jack",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2877
+      "UsersEstimate": 2878
     },
     {
       "ID": "ACH_0330",
@@ -15678,7 +15683,7 @@
       "Name": "Red Star",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2877
+      "UsersEstimate": 2878
     },
     {
       "ID": "ACH_0350",
@@ -15773,22 +15778,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 71937,
+      "Progressed": 71938,
       "Completed": 39
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 284,
-      "Completed": 284
+      "Progressed": 285,
+      "Completed": 285
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-08-17T10:57:14.4264803+00:00",
-  "LastChanged_Achievements": "2023-08-17T11:07:23.7555664+00:00",
+  "LastChanged_Achievements": "2023-08-17T12:06:27.3212093+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:57.6056168+00:00",
-  "LastUpdate_Ratings": "2023-08-17T10:57:14.426481+00:00",
-  "LastUpdate_Achievements": "2023-08-17T11:07:23.7556554+00:00"
+  "LastUpdate_Ratings": "2023-08-17T11:57:19.1840993+00:00",
+  "LastUpdate_Achievements": "2023-08-17T12:06:27.3213193+00:00"
 }

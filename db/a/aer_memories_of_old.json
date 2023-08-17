@@ -380,9 +380,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18011,
+  "EOS_Progressed": 18016,
   "EOS_Completed": 364,
-  "EOS_NewPlayers": 547,
+  "EOS_NewPlayers": 549,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 2.02,
   "EosHistory": [
@@ -13005,6 +13005,11 @@
       "Time": "2023-08-17T10:05:47.1471276+00:00",
       "NumProgressed": 18011,
       "NumCompleted": 364
+    },
+    {
+      "Time": "2023-08-17T12:05:44.5611553+00:00",
+      "NumProgressed": 18016,
+      "NumCompleted": 364
     }
   ],
   "TotalAchievements": 20,
@@ -13016,7 +13021,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 3062
+      "UsersEstimate": 3063
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -13048,7 +13053,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2161
+      "UsersEstimate": 2162
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -13056,7 +13061,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1801
+      "UsersEstimate": 1802
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -13072,7 +13077,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2161
+      "UsersEstimate": 2162
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -13112,7 +13117,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2341
+      "UsersEstimate": 2342
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -13128,7 +13133,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2161
+      "UsersEstimate": 2162
     },
     {
       "ID": "INTRO_FINISHED",
@@ -13136,7 +13141,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 13688
+      "UsersEstimate": 13692
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -13144,7 +13149,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 5043
+      "UsersEstimate": 5044
     },
     {
       "ID": "NORTH_FINISHED",
@@ -13168,22 +13173,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 3422
+      "UsersEstimate": 3423
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 18011,
+      "Progressed": 18016,
       "Completed": 364
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-08-12T01:39:46.4098224+00:00",
-  "LastChanged_Achievements": "2023-08-17T11:06:31.5377614+00:00",
+  "LastChanged_Achievements": "2023-08-17T12:05:44.5611547+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:58:04.1120676+00:00",
-  "LastUpdate_Ratings": "2023-08-17T10:57:19.6570355+00:00",
-  "LastUpdate_Achievements": "2023-08-17T11:06:31.5378735+00:00"
+  "LastUpdate_Ratings": "2023-08-17T11:57:23.0639886+00:00",
+  "LastUpdate_Achievements": "2023-08-17T12:05:44.5613401+00:00"
 }

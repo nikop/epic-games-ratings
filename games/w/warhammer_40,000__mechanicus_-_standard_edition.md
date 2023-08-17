@@ -5,8 +5,8 @@ Rating: 4.43 (Ranked 661)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 25.00% | ~55,103 |
-| This is only the beginning | 19.00% | ~41,878 |
+| No aid from the Omnissiah | 25.00% | ~55,104 |
+| This is only the beginning | 19.00% | ~41,879 |
 | Knowledge is power | 12.00% | ~26,450 |
 | Power Ranger | 9.00% | ~19,837 |
 | Galvanic Rifle | 9.00% | ~19,837 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 661)
 | Perma-live | 0.10% | ~220 |
 | Purge the Heretek | 0.10% | ~220 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,413 (Ranked 54)  
+Progressed: 220,416 (Ranked 54)  
 Completed: 5 (0.00%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,7 +159,7 @@ Completed: 5 (0.00%) (Ranked 258)
 | 2023-08-14 | 220,189 | 5 |
 | 2023-08-15 | 220,291 | 5 |
 | 2023-08-16 | 220,392 | 5 |
-| 2023-08-17 | 220,413 | 5 |
+| 2023-08-17 | 220,416 | 5 |
 ## Awards
 Max (Highly Recommended): 281  (Ranked 240)  
 Sum: 2,127 (Ranked 195)  

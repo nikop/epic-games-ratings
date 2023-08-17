@@ -88,6 +88,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Good Difficulty | 0.60% | ~81 |
 | Patrons | 0.60% | ~81 |
 | Traders | 0.60% | ~81 |
+| Circus Maximus | 0.60% | ~81 |
 | Pantheon | 0.60% | ~81 |
 | Via Recta Souk | 0.60% | ~81 |
 | Learn to Play 3 | 0.60% | ~81 |
@@ -107,7 +108,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Landowners | 0.50% | ~67 |
 | Riders | 0.50% | ~67 |
 | Hittite Iron | 0.50% | ~67 |
-| Circus Maximus | 0.50% | ~67 |
 | Hagia Sophia | 0.50% | ~67 |
 | Church of the Holy Sepulchre | 0.50% | ~67 |
 | Adur Burzen-Mihr | 0.50% | ~67 |

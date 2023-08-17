@@ -687,9 +687,9 @@
       "ID": "GameComplete",
       "SetID": "7jbi7el",
       "Name": "Savior",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "GasDeath",
@@ -727,17 +727,17 @@
       "ID": "SecretRoom",
       "SetID": "7jbi7el",
       "Name": "Researcher",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 80,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "Synthesis",
       "SetID": "7jbi7el",
       "Name": "Beginner Chemist",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 80,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     }
   ],
   "AchievementSets": [
@@ -750,8 +750,8 @@
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-08-17T11:06:12.6807654+00:00",
+  "LastChanged_Achievements": "2023-08-17T12:05:29.1570111+00:00",
   "LastUpdate_AppInfo": "2023-08-15T17:57:20.4799472+00:00",
-  "LastUpdate_Ratings": "2023-08-17T10:58:07.4586122+00:00",
-  "LastUpdate_Achievements": "2023-08-17T11:06:12.680777+00:00"
+  "LastUpdate_Ratings": "2023-08-17T11:58:04.2933155+00:00",
+  "LastUpdate_Achievements": "2023-08-17T12:05:29.1570437+00:00"
 }
