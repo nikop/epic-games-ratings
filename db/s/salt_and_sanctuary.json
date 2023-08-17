@@ -2,13 +2,13 @@
   "ID": "79d9bff700bb46a790b21e8c73b34899",
   "Name": "Salt and Sanctuary",
   "ProductSlug": "salt-and-sanctuary",
-  "Ranking_Rating": 364,
+  "Ranking_Rating": 365,
   "Ranking_Popularity": 242,
   "Ranking_PopularitySum": 201,
   "Ranking_EOS_Progress": 30,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
     "PcReleaseDate": "2016-05-17T16:00:00+00:00",
@@ -2469,9 +2469,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 530732,
+  "EOS_Progressed": 530734,
   "EOS_Completed": 1509,
-  "EOS_NewPlayers": 614,
+  "EOS_NewPlayers": 613,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -15279,6 +15279,11 @@
       "Time": "2023-08-17T21:04:45.4654366+00:00",
       "NumProgressed": 530732,
       "NumCompleted": 1509
+    },
+    {
+      "Time": "2023-08-17T22:04:55.6154949+00:00",
+      "NumProgressed": 530734,
+      "NumCompleted": 1509
     }
   ],
   "TotalAchievements": 37,
@@ -15346,7 +15351,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 440508
+      "UsersEstimate": 440509
     },
     {
       "ID": "HONED",
@@ -15402,7 +15407,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 212293
+      "UsersEstimate": 212294
     },
     {
       "ID": "THE_CASTLE",
@@ -15450,7 +15455,7 @@
       "Name": "The Forest",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 74302
+      "UsersEstimate": 74303
     },
     {
       "ID": "THE_IMPOSTER",
@@ -15546,7 +15551,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 339668
+      "UsersEstimate": 339670
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -15585,15 +15590,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 530732,
+      "Progressed": 530734,
       "Completed": 1509
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-08-17T14:00:34.3186764+00:00",
-  "LastChanged_Achievements": "2023-08-17T21:04:45.465436+00:00",
+  "LastChanged_Achievements": "2023-08-17T22:04:55.6154945+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:13.2289352+00:00",
-  "LastUpdate_Ratings": "2023-08-17T21:00:34.3556306+00:00",
-  "LastUpdate_Achievements": "2023-08-17T21:04:45.4655453+00:00"
+  "LastUpdate_Ratings": "2023-08-17T22:00:33.9596106+00:00",
+  "LastUpdate_Achievements": "2023-08-17T22:04:55.6155869+00:00"
 }

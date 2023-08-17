@@ -7,8 +7,8 @@ Rating: 4.18 (Ranked 870)
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 50.00% | ~33,940 |
 | Har, Har, Har, Very Funny | 35.00% | ~23,758 |
-| Loose Ends | 34.00% | ~23,079 |
-| To the Victor Go the Spoils | 28.00% | ~19,006 |
+| Loose Ends | 34.00% | ~23,080 |
+| To the Victor Go the Spoils | 28.00% | ~19,007 |
 | Knighthood | 27.00% | ~18,328 |
 | Get ReQ'd | 25.00% | ~16,970 |
 | Whispered Words | 25.00% | ~16,970 |
@@ -20,8 +20,8 @@ Rating: 4.18 (Ranked 870)
 | Unstoppable Force | 20.00% | ~13,576 |
 | Bad Apples in Every Orchard | 20.00% | ~13,576 |
 | Snow Problem | 19.00% | ~12,897 |
-| The Show Mud Go On | 18.00% | ~12,218 |
-| From Inside Gotham's Walls | 18.00% | ~12,218 |
+| The Show Mud Go On | 18.00% | ~12,219 |
+| From Inside Gotham's Walls | 18.00% | ~12,219 |
 | Protector of Gotham | 16.00% | ~10,861 |
 | Universal Health Scare | 16.00% | ~10,861 |
 | In Your Element | 15.00% | ~10,182 |
@@ -29,8 +29,8 @@ Rating: 4.18 (Ranked 870)
 | Rock and a Hard Place | 14.00% | ~9,503 |
 | Cooldown | 14.00% | ~9,503 |
 | Seeking Asylum | 14.00% | ~9,503 |
-| Not On My Watch | 13.00% | ~8,824 |
-| Shock Til They Drop | 13.00% | ~8,824 |
+| Not On My Watch | 13.00% | ~8,825 |
+| Shock Til They Drop | 13.00% | ~8,825 |
 | End of an Era | 12.00% | ~8,146 |
 | Bulldozed | 12.00% | ~8,146 |
 | Gotham Knight | 12.00% | ~8,146 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 870)
 | Element of Surprise | 0.20% | ~76 |
 | It's Nice to Be Wanted | 0.20% | ~76 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,880 (Ranked 80)  
+Progressed: 67,881 (Ranked 80)  
 Completed: 107 (0.16%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,10 +186,10 @@ Completed: 107 (0.16%) (Ranked 191)
 | 2023-08-14 | 67,839 | 107 |
 | 2023-08-15 | 67,855 | 107 |
 | 2023-08-16 | 67,871 | 107 |
-| 2023-08-17 | 67,880 | 107 |
+| 2023-08-17 | 67,881 | 107 |
 ## Awards
 Max (Great Boss Battles): 2,505  (Ranked 100)  
-Sum: 4,167 (Ranked 139)  
+Sum: 4,168 (Ranked 139)  
 Diff (max vs sum): -39  
 | Award | Count |
 | ----- | ----- |
@@ -198,7 +198,7 @@ Diff (max vs sum): -39
 | This game has Quickly Understood Controls | 212 |
 | This game is Relaxing | 212 |
 | This game has Diverse Characters | 208 |
-| This game has Amazing Characters | 206 |
+| This game has Amazing Characters | 207 |
 | This game has Amazing Storytelling | 206 |
 | This game is Great for Beginners | 203 |
 | This game is Highly Recommended | 201 |
@@ -381,4 +381,4 @@ Diff (max vs sum): -39
 | 2023-08-14 | 4.18 | 2,498 | 4,156 |
 | 2023-08-15 | 4.18 | 2,501 | 4,160 |
 | 2023-08-16 | 4.18 | 2,501 | 4,162 |
-| 2023-08-17 | 4.18 | 2,505 | 4,167 |
+| 2023-08-17 | 4.18 | 2,505 | 4,168 |

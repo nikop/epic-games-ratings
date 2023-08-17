@@ -6,7 +6,7 @@
   "Ranking_Popularity": 51,
   "Ranking_PopularitySum": 73,
   "Ranking_EOS_Progress": 6,
-  "Ranking_EOS_Completed": 234,
+  "Ranking_EOS_Completed": 235,
   "Ranking_EOS_NewPlayers": 4,
   "Ranking_EOS_NewCompleters": 4,
   "Store": {
@@ -2966,10 +2966,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 12997,
       "NumberOfAwardsMax": 6772
+    },
+    {
+      "Time": "2023-08-17T21:58:33.1358448+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 13013,
+      "NumberOfAwardsMax": 6772
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12997,
+  "NumberOfAwards": 13013,
   "NumberOfAwardsMax": 6772,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2983,7 +2989,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 780
+      "Count": 796
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3040,9 +3046,9 @@
       "Count": 700
     }
   ],
-  "EOS_Progressed": 1579785,
+  "EOS_Progressed": 1579927,
   "EOS_Completed": 508,
-  "EOS_NewPlayers": 24973,
+  "EOS_NewPlayers": 24943,
   "EOS_NewCompleters": 33,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -11120,6 +11126,11 @@
       "Time": "2023-08-17T21:06:55.7557815+00:00",
       "NumProgressed": 1579785,
       "NumCompleted": 508
+    },
+    {
+      "Time": "2023-08-17T22:07:05.6648989+00:00",
+      "NumProgressed": 1579927,
+      "NumCompleted": 508
     }
   ],
   "TotalAchievements": 1328,
@@ -12331,7 +12342,7 @@
       "Name": "I Want to Get Away",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 4739
+      "UsersEstimate": 4740
     },
     {
       "ID": "brooklyn_2",
@@ -21754,22 +21765,22 @@
     {
       "ID": "61cefe3",
       "IsBase": true,
-      "Progressed": 1579785,
+      "Progressed": 1579927,
       "Completed": 508
     },
     {
       "ID": "bkjdbk8",
       "IsBase": false,
-      "Progressed": 1579785,
+      "Progressed": 1579927,
       "Completed": 16
     }
   ],
   "FirstSeen": "2023-06-08T18:57:07.8003815+00:00",
   "FirstSeenRating": "2023-06-09T03:57:04.3869033+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:50.4372379+00:00",
-  "LastChanged": "2023-08-17T17:58:44.3177636+00:00",
-  "LastChanged_Achievements": "2023-08-17T21:06:55.7557808+00:00",
+  "LastChanged": "2023-08-17T21:58:33.1358447+00:00",
+  "LastChanged_Achievements": "2023-08-17T22:07:05.6648985+00:00",
   "LastUpdate_AppInfo": "2023-08-17T20:57:10.4408604+00:00",
-  "LastUpdate_Ratings": "2023-08-17T20:58:28.9607507+00:00",
-  "LastUpdate_Achievements": "2023-08-17T21:06:55.7713263+00:00"
+  "LastUpdate_Ratings": "2023-08-17T21:58:33.1358452+00:00",
+  "LastUpdate_Achievements": "2023-08-17T22:07:05.680495+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "c1adccb6ce8344ebac8cb4e3c81f01ef",
   "Name": "Evalina The Sorceress",
   "ProductSlug": "evalinathe-sorceress-a9a60a",
-  "Ranking_EOS_Progress": 351,
+  "Ranking_EOS_Progress": 350,
   "Ranking_EOS_Completed": 38,
-  "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-06-20T08:00:00+00:00",
     "PcReleaseDate": "2023-06-28T22:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 67,
+  "EOS_Progressed": 70,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.46,
+  "EOS_Completed_Percentage": 7.14,
   "EosHistory": [
     {
       "Time": "2023-06-26T21:03:11.1861868+00:00",
@@ -376,6 +376,11 @@
       "Time": "2023-08-17T21:05:48.7171726+00:00",
       "NumProgressed": 67,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-17T22:05:59.2672707+00:00",
+      "NumProgressed": 70,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-06-26T21:03:11.1861911+00:00",
@@ -394,7 +399,7 @@
       "ID": "BlueSkeleton",
       "SetID": "a76l54k",
       "Name": "Blue Skeleton",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 200,
       "UsersEstimate": 10
     },
@@ -412,7 +417,7 @@
       "Name": "Orange Skeleton",
       "Percentage": 37,
       "XP": 100,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "RedSkeleton",
@@ -420,13 +425,13 @@
       "Name": "Red Skeleton",
       "Percentage": 57,
       "XP": 100,
-      "UsersEstimate": 38
+      "UsersEstimate": 40
     },
     {
       "ID": "YellowSkeleton",
       "SetID": "a76l54k",
       "Name": "Yellow Skeleton",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 200,
       "UsersEstimate": 10
     }
@@ -435,14 +440,14 @@
     {
       "ID": "a76l54k",
       "IsBase": true,
-      "Progressed": 67,
+      "Progressed": 70,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-06-27T08:56:55.4742028+00:00",
   "FirstSeenAchievements": "2023-06-15T10:01:05.3060571+00:00",
-  "LastChanged_Achievements": "2023-08-17T21:05:48.717172+00:00",
+  "LastChanged_Achievements": "2023-08-17T22:05:59.2672702+00:00",
   "LastUpdate_AppInfo": "2023-08-17T16:57:04.8692302+00:00",
-  "LastUpdate_Ratings": "2023-08-17T20:58:14.658421+00:00",
-  "LastUpdate_Achievements": "2023-08-17T21:05:48.7171824+00:00"
+  "LastUpdate_Ratings": "2023-08-17T21:58:18.5574916+00:00",
+  "LastUpdate_Achievements": "2023-08-17T22:05:59.2672814+00:00"
 }

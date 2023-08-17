@@ -12,8 +12,8 @@
 | Secret War | 15.00% | ~4 |
 | Investment | 11.00% | ~3 |
 | 2nd AI War | 7.00% | ~2 |
+| Punish Eastgalaxy | 7.00% | ~2 |
 | Tech Breakthrough | 7.00% | ~2 |
-| Punish Eastgalaxy | 4.00% | ~1 |
 | Sendai Shogunate | 4.00% | ~1 |
 | Pirate Raid | 4.00% | ~1 |
 | Heaven Tower | 4.00% | ~1 |

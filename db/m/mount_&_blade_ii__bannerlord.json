@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -6379,10 +6379,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 14099,
       "NumberOfAwardsMax": 6948
+    },
+    {
+      "Time": "2023-08-17T21:57:19.1518628+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 14102,
+      "NumberOfAwardsMax": 6948
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14099,
+  "NumberOfAwards": 14102,
   "NumberOfAwardsMax": 6948,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6432,7 +6438,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 772
+      "Count": 775
     },
     {
       "Text": "This game has Diverse Characters",
@@ -6459,7 +6465,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 59063,
+  "EOS_Progressed": 59064,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 448,
   "EOS_NewCompleters": 0,
@@ -19044,6 +19050,11 @@
       "Time": "2023-08-17T21:04:48.1288571+00:00",
       "NumProgressed": 59063,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-17T22:04:58.2715486+00:00",
+      "NumProgressed": 59064,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -19063,7 +19074,7 @@
       "Name": "Apple of my eye",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 8859
+      "UsersEstimate": 8860
     },
     {
       "ID": "Bannerlord",
@@ -19223,7 +19234,7 @@
       "Name": "I can do it",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 8859
+      "UsersEstimate": 8860
     },
     {
       "ID": "I spit on your grave",
@@ -19407,7 +19418,7 @@
       "Name": "The king is pleased",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 10631
+      "UsersEstimate": 10632
     },
     {
       "ID": "This Is Our Land",
@@ -19462,15 +19473,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 59063,
+      "Progressed": 59064,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-08-17T19:56:57.4483216+00:00",
-  "LastChanged_Achievements": "2023-08-17T21:04:48.1288564+00:00",
+  "LastChanged": "2023-08-17T21:57:19.1518624+00:00",
+  "LastChanged_Achievements": "2023-08-17T22:04:58.2715484+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:44.6335832+00:00",
-  "LastUpdate_Ratings": "2023-08-17T20:57:18.4756857+00:00",
-  "LastUpdate_Achievements": "2023-08-17T21:04:48.1289763+00:00"
+  "LastUpdate_Ratings": "2023-08-17T21:57:19.1518633+00:00",
+  "LastUpdate_Achievements": "2023-08-17T22:04:58.2716623+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 61023,
+  "EOS_Progressed": 61024,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 370,
+  "EOS_NewPlayers": 368,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11562,6 +11562,11 @@
       "Time": "2023-08-17T21:05:38.9214906+00:00",
       "NumProgressed": 61023,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-17T22:05:49.24668+00:00",
+      "NumProgressed": 61024,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -11581,7 +11586,7 @@
       "Name": "Nordic Walking",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 14035
+      "UsersEstimate": 14036
     },
     {
       "ID": "03",
@@ -11589,7 +11594,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 14035
+      "UsersEstimate": 14036
     },
     {
       "ID": "04",
@@ -11813,7 +11818,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9153
+      "UsersEstimate": 9154
     },
     {
       "ID": "32",
@@ -11893,7 +11898,7 @@
       "Name": "Finders Keepers",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9153
+      "UsersEstimate": 9154
     },
     {
       "ID": "42",
@@ -11981,7 +11986,7 @@
       "Name": "A Friend Indeed",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1469
+      "UsersEstimate": 1470
     },
     {
       "ID": "53",
@@ -12108,21 +12113,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 61023,
+      "Progressed": 61024,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 24491,
+      "Progressed": 24492,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-17T21:05:38.92149+00:00",
+  "LastChanged_Achievements": "2023-08-17T22:05:49.2466796+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:20.2881971+00:00",
-  "LastUpdate_Ratings": "2023-08-17T20:59:03.9299403+00:00",
-  "LastUpdate_Achievements": "2023-08-17T21:05:38.9216321+00:00"
+  "LastUpdate_Ratings": "2023-08-17T21:59:05.3266852+00:00",
+  "LastUpdate_Achievements": "2023-08-17T22:05:49.2468119+00:00"
 }

@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A New Journey | 55.00% | ~78 |
-| The Adventure Begins | 18.00% | ~25 |
-| Swabbie | 2.00% | ~3 |
+| A New Journey | 55.00% | ~80 |
+| The Adventure Begins | 19.00% | ~28 |
+| Swabbie | 3.00% | ~4 |
 | With Great Power… | 2.00% | ~3 |
+| Powder Monkey | 1.00% | ~1 |
 | This Belongs in a Museum | 0.70% | ~1 |
 | The Gambit Has Begun | 0.70% | ~1 |
-| Powder Monkey | 0.70% | ~1 |
 | Buccaneer | 0.70% | ~1 |
 | Seadog | 0.70% | ~1 |
 | Privateer | 0.70% | ~1 |
@@ -31,7 +31,7 @@
 | Jaded Judge | 0.00% | ~0 |
 | Rustic Recipe | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 141 (Ranked 308)  
+Progressed: 145 (Ranked 303)  
 Completed: 0 (0.00%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -43,4 +43,4 @@ Completed: 0 (0.00%) (Ranked 259)
 | 2023-08-14 | 27 | 0 |
 | 2023-08-15 | 29 | 0 |
 | 2023-08-16 | 38 | 0 |
-| 2023-08-17 | 141 | 0 |
+| 2023-08-17 | 145 | 0 |

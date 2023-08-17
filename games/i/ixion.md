@@ -9,9 +9,9 @@ Rating: 4.56 (Ranked 472)
 | Sputnik 2049 | 22.00% | ~677 |
 | Infinite Growth... | 21.00% | ~647 |
 | Without Breaking Some Eggs... | 20.00% | ~616 |
+| Space Society | 15.00% | ~462 |
 | A Thousand Strong | 15.00% | ~462 |
 | Ready for a New World | 15.00% | ~462 |
-| Space Society | 14.00% | ~431 |
 | Permanent Redesigns | 13.00% | ~400 |
 | Guy de Borderlands | 11.00% | ~339 |
 | Fully Recycled | 11.00% | ~339 |

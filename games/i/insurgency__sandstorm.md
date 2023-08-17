@@ -1,12 +1,12 @@
 # Insurgency: Sandstorm
 [Store](https://store.epicgames.com/en-US/p/insurgency-sandstorm)  
 [View Rawdata](../../db/i/insurgency__sandstorm.json)  
-Rating: 4.62 (Ranked 345)  
+Rating: 4.62 (Ranked 347)  
 Number of Ratings: 1,316  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~21,678 |
+| Wallbanger | 5.00% | ~21,679 |
 | Exploitative | 4.00% | ~17,343 |
 | High Speed Low Drag | 4.00% | ~17,343 |
 | Point Shooting | 4.00% | ~17,343 |
@@ -14,12 +14,12 @@ Number of Ratings: 1,316  (23.09.2022)
 | Lucky | 3.00% | ~13,007 |
 | Stylin' | 3.00% | ~13,007 |
 | Turf War | 3.00% | ~13,007 |
-| Banged | 2.00% | ~8,671 |
-| Checkpoint Victory | 2.00% | ~8,671 |
-| First Blood | 2.00% | ~8,671 |
-| Flaccid Paralysis | 2.00% | ~8,671 |
-| Push Victory | 2.00% | ~8,671 |
-| Self-destructive | 2.00% | ~8,671 |
+| Banged | 2.00% | ~8,672 |
+| Checkpoint Victory | 2.00% | ~8,672 |
+| First Blood | 2.00% | ~8,672 |
+| Flaccid Paralysis | 2.00% | ~8,672 |
+| Push Victory | 2.00% | ~8,672 |
+| Self-destructive | 2.00% | ~8,672 |
 | Blindfire | 1.00% | ~4,336 |
 | Ruthless | 1.00% | ~4,336 |
 | Semper Paratus | 1.00% | ~4,336 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~434 |
 | Road Hazard | 0.10% | ~434 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 433,568 (Ranked 38)  
+Progressed: 433,578 (Ranked 38)  
 Completed: 2 (0.00%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,7 +161,7 @@ Completed: 2 (0.00%) (Ranked 259)
 | 2023-08-14 | 432,656 | 2 |
 | 2023-08-15 | 432,984 | 2 |
 | 2023-08-16 | 433,280 | 2 |
-| 2023-08-17 | 433,568 | 2 |
+| 2023-08-17 | 433,578 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 375  (Ranked 222)  
 Sum: 2,898 (Ranked 166)  

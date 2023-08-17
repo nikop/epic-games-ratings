@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17449,
+  "EOS_Progressed": 17450,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 225,
+  "EOS_NewPlayers": 224,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8496,6 +8496,11 @@
       "Time": "2023-08-17T21:05:01.8684769+00:00",
       "NumProgressed": 17449,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-17T22:05:11.8122245+00:00",
+      "NumProgressed": 17450,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -8571,7 +8576,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4013
+      "UsersEstimate": 4014
     },
     {
       "ID": "0010",
@@ -8603,7 +8608,7 @@
       "Name": "Keycards Royale",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1919
+      "UsersEstimate": 1920
     },
     {
       "ID": "0014",
@@ -8627,7 +8632,7 @@
       "Name": "Live and let lie",
       "Percentage": 3,
       "XP": 115,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "0017",
@@ -8635,7 +8640,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3315
+      "UsersEstimate": 3316
     },
     {
       "ID": "0018",
@@ -8659,7 +8664,7 @@
       "Name": "Dr. No Kill",
       "Percentage": 11,
       "XP": 115,
-      "UsersEstimate": 1919
+      "UsersEstimate": 1920
     },
     {
       "ID": "0021",
@@ -8683,7 +8688,7 @@
       "Name": "Safe Withdrawal",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "0024",
@@ -8715,7 +8720,7 @@
       "Name": "My Motto, My Creed",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1919
+      "UsersEstimate": 1920
     },
     {
       "ID": "0028",
@@ -8723,7 +8728,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4013
+      "UsersEstimate": 4014
     },
     {
       "ID": "0029",
@@ -8794,7 +8799,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17449,
+      "Progressed": 17450,
       "Completed": 1
     }
   ],
@@ -8802,8 +8807,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-12T19:04:41.1874293+00:00",
-  "LastChanged_Achievements": "2023-08-17T21:05:01.8684762+00:00",
+  "LastChanged_Achievements": "2023-08-17T22:05:11.8122241+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:38.5697724+00:00",
-  "LastUpdate_Ratings": "2023-08-17T20:57:11.4179364+00:00",
-  "LastUpdate_Achievements": "2023-08-17T21:05:01.8685626+00:00"
+  "LastUpdate_Ratings": "2023-08-17T21:57:13.7287812+00:00",
+  "LastUpdate_Achievements": "2023-08-17T22:05:11.812302+00:00"
 }

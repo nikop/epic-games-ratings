@@ -4,8 +4,8 @@
   "ProductSlug": "bug-fables-the-everlasting-sapling-851aa9",
   "Ranking_EOS_Progress": 335,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 311,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-04-08T00:00:00+00:00",
     "PcReleaseDate": "2022-04-08T00:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 86,
+  "EOS_Progressed": 87,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -141,6 +141,11 @@
       "Time": "2023-08-15T16:06:18.0082952+00:00",
       "NumProgressed": 86,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-17T22:05:19.9374836+00:00",
+      "NumProgressed": 87,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -166,7 +171,7 @@
       "ID": "BFT_CH1",
       "SetID": "7o7kd30",
       "Name": "Chapter 1 Complete",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 15,
       "UsersEstimate": 61
     },
@@ -198,7 +203,7 @@
       "ID": "BFT_CH3",
       "SetID": "7o7kd30",
       "Name": "Chapter 3 Complete",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 15,
       "UsersEstimate": 29
     },
@@ -214,7 +219,7 @@
       "ID": "BFT_CH4",
       "SetID": "7o7kd30",
       "Name": "Chapter 4 Complete",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 15,
       "UsersEstimate": 23
     },
@@ -222,7 +227,7 @@
       "ID": "BFT_CH4HB",
       "SetID": "7o7kd30",
       "Name": "Always Watchful",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 30,
       "UsersEstimate": 16
     },
@@ -262,7 +267,7 @@
       "ID": "BFT_CH7",
       "SetID": "7o7kd30",
       "Name": "Chapter 7 Complete",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
       "UsersEstimate": 16
     },
@@ -278,7 +283,7 @@
       "ID": "BFT_CHOMP",
       "SetID": "7o7kd30",
       "Name": "Plant Enchanter",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 65,
       "UsersEstimate": 16
     },
@@ -350,7 +355,7 @@
       "ID": "BFT_MUSIC",
       "SetID": "7o7kd30",
       "Name": "Music Collector",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
       "UsersEstimate": 10
     },
@@ -382,7 +387,7 @@
       "ID": "BFT_VI",
       "SetID": "7o7kd30",
       "Name": "Reconciliation",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 65,
       "UsersEstimate": 16
     }
@@ -391,7 +396,7 @@
     {
       "ID": "7o7kd30",
       "IsBase": true,
-      "Progressed": 86,
+      "Progressed": 87,
       "Completed": 0
     }
   ],
@@ -399,8 +404,8 @@
   "FirstSeenRating": "2023-03-31T05:58:05.5070215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:45.7911439+00:00",
   "LastChanged": "2023-03-31T05:58:05.5070216+00:00",
-  "LastChanged_Achievements": "2023-08-17T21:05:09.7926686+00:00",
+  "LastChanged_Achievements": "2023-08-17T22:05:19.9374832+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:58.772193+00:00",
-  "LastUpdate_Ratings": "2023-08-17T20:57:24.8474713+00:00",
-  "LastUpdate_Achievements": "2023-08-17T21:05:09.7926931+00:00"
+  "LastUpdate_Ratings": "2023-08-17T21:57:26.2320824+00:00",
+  "LastUpdate_Achievements": "2023-08-17T22:05:19.9375109+00:00"
 }

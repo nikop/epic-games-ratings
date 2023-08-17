@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -1947,9 +1947,9 @@
       "ID": "ACH021",
       "SetID": "69nfp41",
       "Name": "Collectionitis",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 224
+      "UsersEstimate": 233
     },
     {
       "ID": "ACH022",
@@ -2187,8 +2187,8 @@
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-07-02T02:29:11.8786643+00:00",
-  "LastChanged_Achievements": "2023-08-17T21:02:21.461495+00:00",
+  "LastChanged_Achievements": "2023-08-17T22:03:12.724402+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:10.480025+00:00",
-  "LastUpdate_Ratings": "2023-08-17T20:59:41.8240257+00:00",
-  "LastUpdate_Achievements": "2023-08-17T21:02:21.4615514+00:00"
+  "LastUpdate_Ratings": "2023-08-17T21:59:42.8711229+00:00",
+  "LastUpdate_Achievements": "2023-08-17T22:03:12.7244532+00:00"
 }

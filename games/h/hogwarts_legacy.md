@@ -5,9 +5,9 @@ Rating: 4.77 (Ranked 109)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 12.00% | ~34,833 |
-| First Class Student | 11.00% | ~31,930 |
-| Troll with the Punches | 11.00% | ~31,930 |
+| The Sort Who Makes an Entrance | 12.00% | ~34,834 |
+| First Class Student | 11.00% | ~31,931 |
+| Troll with the Punches | 11.00% | ~31,931 |
 | A Keen Sense of Spell | 10.00% | ~29,028 |
 | That's a Keeper | 10.00% | ~29,028 |
 | Grappling with a Graphorn | 9.00% | ~26,125 |
@@ -21,11 +21,11 @@ Rating: 4.77 (Ranked 109)
 | Coasting Along | 9.00% | ~26,125 |
 | Followed the Butterflies | 8.00% | ~23,222 |
 | Rising From the Ashes | 8.00% | ~23,222 |
-| The Avenging Gazelle | 7.00% | ~20,319 |
-| Beast Friends | 7.00% | ~20,319 |
-| A Sallow Grave | 7.00% | ~20,319 |
-| Flight the Good Flight | 7.00% | ~20,319 |
-| The Spell Master | 7.00% | ~20,319 |
+| The Avenging Gazelle | 7.00% | ~20,320 |
+| Beast Friends | 7.00% | ~20,320 |
+| A Sallow Grave | 7.00% | ~20,320 |
+| Flight the Good Flight | 7.00% | ~20,320 |
+| The Spell Master | 7.00% | ~20,320 |
 | The Seeker of Knowledge | 5.00% | ~14,514 |
 | The Root of the Problem | 5.00% | ~14,514 |
 | Third Time's a Charm | 5.00% | ~14,514 |
@@ -46,12 +46,12 @@ Rating: 4.77 (Ranked 109)
 | Demiguise Dread | 1.00% | ~2,903 |
 | Finishing Touches | 1.00% | ~2,903 |
 | A Forte for Achievement | 1.00% | ~2,903 |
-| Merlin's Beard! | 0.90% | ~2,612 |
+| Merlin's Beard! | 0.90% | ~2,613 |
 | Spilled Milk | 0.80% | ~2,322 |
 | The Nature of the Beast | 0.60% | ~1,742 |
 | Collector's Edition | 0.30% | ~871 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290,277 (Ranked 43)  
+Progressed: 290,281 (Ranked 43)  
 Completed: 452 (0.16%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 452 (0.16%) (Ranked 191)
 | 2023-08-14 | 290,112 | 451 |
 | 2023-08-15 | 290,171 | 451 |
 | 2023-08-16 | 290,231 | 452 |
-| 2023-08-17 | 290,277 | 452 |
+| 2023-08-17 | 290,281 | 452 |
 ## Awards
 Max (Character Customization): 21,780  (Ranked 17)  
 Sum: 41,136 (Ranked 30)  

@@ -36,10 +36,10 @@ Rating: 4.88 (Ranked 19)
 | That's a lot of junk metal… | 3.00% | ~118 |
 | There's such a thing as TOO helpful | 3.00% | ~118 |
 | Chip-tuned | 2.00% | ~79 |
+| Wanna hear my playlist? | 2.00% | ~79 |
 | I think I deserve some praise, here! | 1.00% | ~39 |
 | I think I found your calling, Macaron | 1.00% | ~39 |
 | I hit things with a guitar really well. | 1.00% | ~39 |
-| Wanna hear my playlist? | 1.00% | ~39 |
 | I told you I'd be fine, Peppermint! | 1.00% | ~39 |
 | Check out my moves! | 1.00% | ~39 |
 | Call me Turbo Chai | 1.00% | ~25 |

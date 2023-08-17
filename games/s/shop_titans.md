@@ -19,9 +19,9 @@ Number of Ratings: 12,664  (23.09.2022)
 | Another Satisfied Customer | 0.60% | ~808 |
 | Pretty Penny | 0.60% | ~808 |
 | Own the Means of Production | 0.60% | ~808 |
+| The Daily Grind | 0.50% | ~673 |
 | One-Armed Bandit | 0.50% | ~673 |
 | Through Repetition, Perfection | 0.50% | ~673 |
-| The Daily Grind | 0.40% | ~539 |
 | Bounty Hunters | 0.40% | ~539 |
 | Demand for Supplies | 0.40% | ~539 |
 | Flooding the Market | 0.40% | ~539 |
@@ -47,6 +47,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Royal Ransom | 0.30% | ~404 |
 | Helping Hand | 0.30% | ~404 |
 | Natural 20 | 0.30% | ~404 |
+| Seasoned Journeyman | 0.30% | ~404 |
 | Magical Harmony | 0.30% | ~404 |
 | A Notch Above the Rest | 0.20% | ~269 |
 | Cream of the Crop | 0.20% | ~269 |
@@ -85,7 +86,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Miracle Alchemist | 0.20% | ~269 |
 | Laden with Loot | 0.20% | ~269 |
 | Bountiful Harvest | 0.20% | ~269 |
-| Seasoned Journeyman | 0.20% | ~269 |
 | Precision Engineering | 0.20% | ~269 |
 | Scourge of the Seas | 0.20% | ~269 |
 | Attrition Mission | 0.20% | ~269 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.10% | ~135 |
 | All Accounted For | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,677 (Ranked 66)  
+Progressed: 134,684 (Ranked 66)  
 Completed: 133 (0.10%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,7 +238,7 @@ Completed: 133 (0.10%) (Ranked 205)
 | 2023-08-14 | 134,532 | 132 |
 | 2023-08-15 | 134,574 | 132 |
 | 2023-08-16 | 134,622 | 133 |
-| 2023-08-17 | 134,677 | 133 |
+| 2023-08-17 | 134,684 | 133 |
 ## Awards
 Max (Great for Beginners): 4,704  (Ranked 71)  
 Sum: 27,109 (Ranked 46)  

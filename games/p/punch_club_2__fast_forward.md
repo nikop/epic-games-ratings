@@ -67,7 +67,7 @@
 | Key memories | 31.00% | ~79 |
 | The last bell ring | 31.00% | ~79 |
 | The heart of the Resistance | 31.00% | ~79 |
-| Silver’s past | 27.00% | ~69 |
+| Silver’s past | 28.00% | ~71 |
 | Better cooking at home | 27.00% | ~69 |
 | The only right decision | 27.00% | ~69 |
 ## Popularity (Based on EOS Achievements)

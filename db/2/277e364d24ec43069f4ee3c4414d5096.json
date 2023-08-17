@@ -6,7 +6,7 @@
   "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 72,
-  "Ranking_EOS_Completed": 234,
+  "Ranking_EOS_Completed": 235,
   "Ranking_EOS_NewPlayers": 44,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 103326,
+  "EOS_Progressed": 103329,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 1400,
+  "EOS_NewPlayers": 1393,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -7492,6 +7492,11 @@
       "Time": "2023-08-17T21:06:16.8814417+00:00",
       "NumProgressed": 103326,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-08-17T22:06:27.5058755+00:00",
+      "NumProgressed": 103329,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 49,
@@ -7511,7 +7516,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 78528
+      "UsersEstimate": 78530
     },
     {
       "ID": "EAwards_10",
@@ -7559,7 +7564,7 @@
       "Name": "He Looks Portable",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 9299
+      "UsersEstimate": 9300
     },
     {
       "ID": "EAwards_16",
@@ -7575,7 +7580,7 @@
       "Name": "Talented Player",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 36164
+      "UsersEstimate": 36165
     },
     {
       "ID": "EAwards_18",
@@ -7599,7 +7604,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 48563
+      "UsersEstimate": 48565
     },
     {
       "ID": "EAwards_20",
@@ -7637,9 +7642,9 @@
       "ID": "EAwards_24",
       "SetID": "69kac5j",
       "Name": "Temple Raider",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 6200
+      "UsersEstimate": 7233
     },
     {
       "ID": "EAwards_25",
@@ -7663,7 +7668,7 @@
       "Name": "One down...",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 9299
+      "UsersEstimate": 9300
     },
     {
       "ID": "EAwards_28",
@@ -7703,7 +7708,7 @@
       "Name": "Luchonarrative Resonance",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 9299
+      "UsersEstimate": 9300
     },
     {
       "ID": "EAwards_32",
@@ -7855,7 +7860,7 @@
       "Name": "Prickly Pair",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 9299
+      "UsersEstimate": 9300
     },
     {
       "ID": "EAwards_6",
@@ -7894,7 +7899,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 103326,
+      "Progressed": 103329,
       "Completed": 35
     }
   ],
@@ -7902,8 +7907,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-08-06T04:57:36.0350486+00:00",
-  "LastChanged_Achievements": "2023-08-17T21:06:16.8814406+00:00",
+  "LastChanged_Achievements": "2023-08-17T22:06:27.505875+00:00",
   "LastUpdate_AppInfo": "2023-08-17T20:57:09.1579235+00:00",
-  "LastUpdate_Ratings": "2023-08-17T20:58:18.4760052+00:00",
-  "LastUpdate_Achievements": "2023-08-17T21:06:16.8815328+00:00"
+  "LastUpdate_Ratings": "2023-08-17T21:58:22.5391272+00:00",
+  "LastUpdate_Achievements": "2023-08-17T22:06:27.5059638+00:00"
 }

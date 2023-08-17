@@ -6,20 +6,21 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 17.00% | ~36,335 |
-| Déjà vu | 1.00% | ~2,137 |
-| Where's that freaking Dwarf? | 1.00% | ~2,137 |
-| Sock! SOCK! | 1.00% | ~2,137 |
-| Alt+F4 | 1.00% | ~2,137 |
+| Sowwy! | 17.00% | ~36,339 |
+| Déjà vu | 1.00% | ~2,138 |
+| Where's that freaking Dwarf? | 1.00% | ~2,138 |
+| Sock! SOCK! | 1.00% | ~2,138 |
+| Alt+F4 | 1.00% | ~2,138 |
 | A beer, two curses, three companions | 0.80% | ~1,710 |
 | Speedrun | 0.80% | ~1,710 |
 | Fireproof Wizardess | 0.80% | ~1,710 |
 | GG EZ | 0.70% | ~1,496 |
 | DM intervention | 0.70% | ~1,496 |
-| Way of the Wimp | 0.60% | ~1,282 |
+| Way of the Wimp | 0.60% | ~1,283 |
 | Livin' in a dwarven paradise | 0.50% | ~1,069 |
 | The plot thickens... At the tavern | 0.50% | ~1,069 |
 | %#*!$*! | 0.50% | ~1,069 |
+| Oh, when I'll be level 10... | 0.50% | ~1,069 |
 | Shiny and Crôm | 0.40% | ~855 |
 | The demons' feast | 0.40% | ~855 |
 | The Great Library | 0.40% | ~855 |
@@ -32,20 +33,19 @@ Number of Ratings: 118  (23.09.2022)
 | The Ranger of Chaos | 0.40% | ~855 |
 | I am the night | 0.40% | ~855 |
 | Team Building Exercise | 0.40% | ~855 |
-| Oh, when I'll be level 10... | 0.40% | ~855 |
 | Res Judicata | 0.30% | ~641 |
 | The Famous Dungeon of Naheulbeuk | 0.30% | ~641 |
 | Dwarf Fortress | 0.30% | ~641 |
 | Look but don't touch | 0.30% | ~641 |
 | The beards of change | 0.30% | ~641 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.30% | ~641 |
 | Thieves' Guild Accreditation | 0.30% | ~641 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.20% | ~427 |
-| Dead for good | 0.20% | ~427 |
-| Gargantua | 0.20% | ~427 |
-| In Navalu's footsteps | 0.20% | ~427 |
-| Lëgal Legend | 0.20% | ~427 |
-| Lust and Debauchery | 0.20% | ~427 |
-| Material Girl | 0.20% | ~427 |
+| Dead for good | 0.20% | ~428 |
+| Gargantua | 0.20% | ~428 |
+| In Navalu's footsteps | 0.20% | ~428 |
+| Lëgal Legend | 0.20% | ~428 |
+| Lust and Debauchery | 0.20% | ~428 |
+| Material Girl | 0.20% | ~428 |
 | Cursed die | 0.10% | ~214 |
 | Holistic Adventuring Party | 0.10% | ~214 |
 | Scholar of the Lands of Fangh | 0.10% | ~214 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Staff cut | 0.00% | ~0 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 213,735 (Ranked 56)  
+Progressed: 213,759 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,7 +173,7 @@ Completed: 2 (0.00%) (Ranked 259)
 | 2023-08-14 | 212,372 | 2 |
 | 2023-08-15 | 212,897 | 2 |
 | 2023-08-16 | 213,341 | 2 |
-| 2023-08-17 | 213,735 | 2 |
+| 2023-08-17 | 213,759 | 2 |
 ## Awards
 Max (Character Customization): 166  (Ranked 289)  
 Sum: 207 (Ranked 366)  

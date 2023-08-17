@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 196,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1377,9 +1377,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 22903,
+  "EOS_Progressed": 22905,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -6922,6 +6922,11 @@
       "Time": "2023-08-17T21:05:13.8082695+00:00",
       "NumProgressed": 22903,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-08-17T22:05:23.9503743+00:00",
+      "NumProgressed": 22905,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -7003,9 +7008,9 @@
       "ID": "BossCastleAdvancedDefeated",
       "SetID": "3ojhj46",
       "Name": "For Glory",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 115
+      "UsersEstimate": 137
     },
     {
       "ID": "BossCastleDefeated",
@@ -7244,21 +7249,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 22903,
+      "Progressed": 22905,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 1833,
+      "Progressed": 1835,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-08-16T23:01:14.2964517+00:00",
-  "LastChanged_Achievements": "2023-08-17T21:05:13.808269+00:00",
+  "LastChanged_Achievements": "2023-08-17T22:05:23.9503737+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:59.4184193+00:00",
-  "LastUpdate_Ratings": "2023-08-17T21:00:24.6277875+00:00",
-  "LastUpdate_Achievements": "2023-08-17T21:05:13.8083368+00:00"
+  "LastUpdate_Ratings": "2023-08-17T22:00:22.76428+00:00",
+  "LastUpdate_Achievements": "2023-08-17T22:05:23.9504373+00:00"
 }

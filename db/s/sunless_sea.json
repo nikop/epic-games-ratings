@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -685,9 +685,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 35693,
+  "EOS_Progressed": 35695,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 438,
+  "EOS_NewPlayers": 437,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -12795,6 +12795,11 @@
       "Time": "2023-08-17T21:05:13.4640872+00:00",
       "NumProgressed": 35693,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-17T22:05:23.6075772+00:00",
+      "NumProgressed": 35695,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -12926,7 +12931,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 12849
+      "UsersEstimate": 12850
     },
     {
       "ID": "ach_die10",
@@ -13214,7 +13219,7 @@
       "Name": "One Year at Zee",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 2855
+      "UsersEstimate": 2856
     },
     {
       "ID": "ach_year10",
@@ -13237,15 +13242,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 35693,
+      "Progressed": 35695,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-07-28T14:59:59.8138313+00:00",
-  "LastChanged_Achievements": "2023-08-17T21:05:13.4640866+00:00",
+  "LastChanged_Achievements": "2023-08-17T22:05:23.6075767+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:45.6858785+00:00",
-  "LastUpdate_Ratings": "2023-08-17T20:57:14.2820885+00:00",
-  "LastUpdate_Achievements": "2023-08-17T21:05:13.464211+00:00"
+  "LastUpdate_Ratings": "2023-08-17T21:57:16.4522418+00:00",
+  "LastUpdate_Achievements": "2023-08-17T22:05:23.6077063+00:00"
 }

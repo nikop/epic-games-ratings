@@ -6,18 +6,18 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~225,119 |
-| Uncharted Territory | 89.00% | ~208,704 |
-| Getting A Glimpse | 73.00% | ~171,184 |
-| A Quick Escape | 65.00% | ~152,424 |
-| Explorer | 62.00% | ~145,389 |
-| Defeat The Dark | 61.00% | ~143,044 |
-| An Offering | 61.00% | ~143,044 |
-| Colorful Corpse | 58.00% | ~136,009 |
-| That Was Quick | 56.00% | ~131,319 |
-| A Donation | 56.00% | ~131,319 |
-| Goodbye, Frog Friend | 54.00% | ~126,629 |
-| Heavy Hitter | 53.00% | ~124,284 |
+| First Steps | 96.00% | ~225,120 |
+| Uncharted Territory | 89.00% | ~208,705 |
+| Getting A Glimpse | 73.00% | ~171,185 |
+| A Quick Escape | 65.00% | ~152,425 |
+| Explorer | 62.00% | ~145,390 |
+| Defeat The Dark | 61.00% | ~143,045 |
+| An Offering | 61.00% | ~143,045 |
+| Colorful Corpse | 58.00% | ~136,010 |
+| That Was Quick | 56.00% | ~131,320 |
+| A Donation | 56.00% | ~131,320 |
+| Goodbye, Frog Friend | 54.00% | ~126,630 |
+| Heavy Hitter | 53.00% | ~124,285 |
 | Heartless | 46.00% | ~107,870 |
 | Spine Breaker | 46.00% | ~107,870 |
 | Deflection | 45.00% | ~105,525 |
@@ -115,8 +115,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | Tunnel Vision | 1.00% | ~2,345 |
 | Martial Master | 1.00% | ~2,345 |
 | You Call That A Knife? | 1.00% | ~2,345 |
-| Disposal | 0.90% | ~2,110 |
-| Master of Strategy | 0.90% | ~2,110 |
+| Disposal | 0.90% | ~2,111 |
+| Master of Strategy | 0.90% | ~2,111 |
 | Blizzard | 0.80% | ~1,876 |
 | Need An Antidote? | 0.80% | ~1,876 |
 | No Swapsies | 0.80% | ~1,876 |
@@ -127,9 +127,9 @@ Number of Ratings: 15,086  (23.09.2022)
 | Nudie Run | 0.60% | ~1,407 |
 | Down Under | 0.50% | ~1,172 |
 | Never Too Many Hats | 0.40% | ~938 |
-| Near Death Experience | 0.30% | ~703 |
+| Near Death Experience | 0.30% | ~704 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 234,499 (Ranked 50)  
+Progressed: 234,500 (Ranked 50)  
 Completed: 259 (0.11%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,7 +248,7 @@ Completed: 259 (0.11%) (Ranked 202)
 | 2023-08-14 | 234,337 | 259 |
 | 2023-08-15 | 234,405 | 259 |
 | 2023-08-16 | 234,449 | 259 |
-| 2023-08-17 | 234,499 | 259 |
+| 2023-08-17 | 234,500 | 259 |
 ## Awards
 Max (Quickly Understood Controls): 1,488  (Ranked 121)  
 Sum: 11,526 (Ranked 79)  

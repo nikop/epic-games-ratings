@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -174,9 +174,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1396,
+  "EOS_Progressed": 1397,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -1524,6 +1524,11 @@
       "Time": "2023-08-16T18:04:12.5342141+00:00",
       "NumProgressed": 1396,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-17T22:04:30.1574386+00:00",
+      "NumProgressed": 1397,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -1535,7 +1540,7 @@
       "Name": "Lovebirds",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     },
     {
       "ID": "10",
@@ -1599,7 +1604,7 @@
       "Name": "Balding bloot!",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1103
+      "UsersEstimate": 1104
     },
     {
       "ID": "18",
@@ -1607,7 +1612,7 @@
       "Name": "Like new!",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "19",
@@ -1631,7 +1636,7 @@
       "Name": "Don\u0027t look back",
       "Percentage": 13,
       "XP": 70,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "21",
@@ -1671,7 +1676,7 @@
       "Name": "Heartstrings",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "27",
@@ -1695,7 +1700,7 @@
       "Name": "Hug therapy",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     },
     {
       "ID": "30",
@@ -1727,7 +1732,7 @@
       "Name": "Head in the clouds",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "5",
@@ -1743,7 +1748,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "7",
@@ -1759,7 +1764,7 @@
       "Name": "Over my dead body",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "9",
@@ -1774,15 +1779,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1396,
+      "Progressed": 1397,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-08-10T12:01:06.704766+00:00",
-  "LastChanged_Achievements": "2023-08-17T21:04:20.0972977+00:00",
+  "LastChanged_Achievements": "2023-08-17T22:04:30.1574382+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:14.0477617+00:00",
-  "LastUpdate_Ratings": "2023-08-17T21:00:35.4368114+00:00",
-  "LastUpdate_Achievements": "2023-08-17T21:04:20.0973333+00:00"
+  "LastUpdate_Ratings": "2023-08-17T22:00:34.9398016+00:00",
+  "LastUpdate_Achievements": "2023-08-17T22:04:30.1574672+00:00"
 }

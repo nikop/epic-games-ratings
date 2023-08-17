@@ -2376,10 +2376,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 4167,
       "NumberOfAwardsMax": 2505
+    },
+    {
+      "Time": "2023-08-17T21:57:17.7539614+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4168,
+      "NumberOfAwardsMax": 2505
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4167,
+  "NumberOfAwards": 4168,
   "NumberOfAwardsMax": 2505,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2399,7 +2405,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 206
+      "Count": 207
     },
     {
       "Text": "This game is Great for Beginners",
@@ -2444,9 +2450,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 67880,
+  "EOS_Progressed": 67881,
   "EOS_Completed": 107,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -12579,6 +12585,11 @@
       "Time": "2023-08-17T18:06:47.606512+00:00",
       "NumProgressed": 67880,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2023-08-17T22:06:19.1751288+00:00",
+      "NumProgressed": 67881,
+      "NumCompleted": 107
     }
   ],
   "TotalAchievements": 61,
@@ -12702,7 +12713,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 12218
+      "UsersEstimate": 12219
     },
     {
       "ID": "CLAYFACE_3",
@@ -12750,7 +12761,7 @@
       "Name": "Not On My Watch",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 8824
+      "UsersEstimate": 8825
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -12798,7 +12809,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 8824
+      "UsersEstimate": 8825
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -12814,7 +12825,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 19006
+      "UsersEstimate": 19007
     },
     {
       "ID": "FREEZE_1_5",
@@ -12982,7 +12993,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 23079
+      "UsersEstimate": 23080
     },
     {
       "ID": "MYSTERY_02",
@@ -13014,7 +13025,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 12218
+      "UsersEstimate": 12219
     },
     {
       "ID": "MYSTERY_06",
@@ -13077,22 +13088,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 67880,
+      "Progressed": 67881,
       "Completed": 107
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 38160,
+      "Progressed": 38161,
       "Completed": 2658
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-08-17T15:57:12.2213429+00:00",
-  "LastChanged_Achievements": "2023-08-17T21:06:08.4533676+00:00",
+  "LastChanged": "2023-08-17T21:57:17.7539613+00:00",
+  "LastChanged_Achievements": "2023-08-17T22:06:19.1751284+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:49.7416919+00:00",
-  "LastUpdate_Ratings": "2023-08-17T20:57:15.9035976+00:00",
-  "LastUpdate_Achievements": "2023-08-17T21:06:08.4534884+00:00"
+  "LastUpdate_Ratings": "2023-08-17T21:57:17.7539619+00:00",
+  "LastUpdate_Achievements": "2023-08-17T22:06:19.1752469+00:00"
 }

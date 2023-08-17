@@ -12,10 +12,10 @@ Number of Ratings: 5,603  (23.09.2022)
 | Horde breaker | 22.00% | ~12,994 |
 | Lawmaker | 22.00% | ~12,994 |
 | Trained | 22.00% | ~12,994 |
-| The king is pleased | 18.00% | ~10,631 |
+| The king is pleased | 18.00% | ~10,632 |
 | King Solomon | 17.00% | ~10,041 |
-| Apple of my eye | 15.00% | ~8,859 |
-| I can do it | 15.00% | ~8,859 |
+| Apple of my eye | 15.00% | ~8,860 |
+| I can do it | 15.00% | ~8,860 |
 | God of the Arena | 13.00% | ~7,678 |
 | Against all odds | 11.00% | ~6,497 |
 | Swordbearer | 10.00% | ~5,906 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59,063 (Ranked 86)  
+Progressed: 59,064 (Ranked 86)  
 Completed: 0 (0.00%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,10 +177,10 @@ Completed: 0 (0.00%) (Ranked 259)
 | 2023-08-14 | 58,880 | 0 |
 | 2023-08-15 | 58,933 | 0 |
 | 2023-08-16 | 59,010 | 0 |
-| 2023-08-17 | 59,063 | 0 |
+| 2023-08-17 | 59,064 | 0 |
 ## Awards
 Max (Character Customization): 6,948  (Ranked 50)  
-Sum: 14,099 (Ranked 67)  
+Sum: 14,102 (Ranked 67)  
 Diff (max vs sum): -17  
 | Award | Count |
 | ----- | ----- |
@@ -192,7 +192,7 @@ Diff (max vs sum): -17
 | This game has Amazing Storytelling | 793 |
 | This game is Relaxing | 783 |
 | This game has Amazing Characters | 776 |
-| This game has Quickly Understood Controls | 772 |
+| This game has Quickly Understood Controls | 775 |
 | This game has a Creative Community | 573 |
 | This game has Obsessive Gameplay | 376 |
 | This game has Competitive Players | 107 |
@@ -413,4 +413,4 @@ Diff (max vs sum): -17
 | 2023-08-14 | 4.74 | - | 6,935 | 14,068 |
 | 2023-08-15 | 4.74 | - | 6,941 | 14,083 |
 | 2023-08-16 | 4.74 | - | 6,946 | 14,091 |
-| 2023-08-17 | 4.74 | - | 6,948 | 14,099 |
+| 2023-08-17 | 4.74 | - | 6,948 | 14,102 |
