@@ -73,7 +73,7 @@
 | 71 | [Shop Titans](games/s/shop_titans.md) | 4,704 | 3.99 | 932 |
 | 72 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,556 | 4.70 | 199 |
 | 73 | [Chivalry 2](games/c/chivalry_2.md) | 4,505 | 4.60 | 391 |
-| 74 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,479 | 4.70 | 199 |
+| 74 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,482 | 4.70 | 199 |
 | 75 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4,396 | 4.76 | 118 |
 | 76 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4,301 | 4.55 | 486 |
 | 77 | [God of War](games/g/god_of_war.md) | 4,207 | 4.88 | 19 |
@@ -228,7 +228,7 @@
 | 225 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 357 | 4.76 | 118 |
 | 227 | [Inscryption](games/i/inscryption.md) | 339 | 4.86 | 30 |
 | 228 | [Dungeons 3](games/d/dungeons_3.md) | 338 | 4.66 | 275 |
-| 229 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 337 | 4.56 | 472 |
+| 228 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 338 | 4.56 | 472 |
 | 230 | [Tannenberg](games/t/tannenberg.md) | 329 | 4.39 | 709 |
 | 231 | [The Messenger](games/t/the_messenger.md) | 325 | 4.80 | 83 |
 | 232 | [Darkwood](games/d/darkwood.md) | 322 | 4.61 | 364 |
@@ -302,8 +302,8 @@
 | 300 | [Predecessor](games/p/predecessor.md) | 144 | 4.42 | 667 |
 | 301 | [Night in the Woods](games/n/night_in_the_woods.md) | 142 | 4.73 | 160 |
 | 301 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 142 | 4.29 | 795 |
+| 303 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 141 | 4.85 | 43 |
 | 303 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 141 | 4.18 | 870 |
-| 304 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 140 | 4.85 | 43 |
 | 305 | [Encased](games/e/encased.md) | 138 | 4.34 | 759 |
 | 306 | [Atomicrops](games/a/atomicrops.md) | 136 | 4.88 | 19 |
 | 307 | [while True: learn()](games/w/while_true__learn().md) | 134 | 4.51 | 542 |
