@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 16.00% | ~34,163 |
+| Sowwy! | 16.00% | ~34,167 |
 | Déjà vu | 1.00% | ~2,135 |
 | Where's that freaking Dwarf? | 1.00% | ~2,135 |
 | Sock! SOCK! | 1.00% | ~2,135 |
@@ -19,6 +19,7 @@ Number of Ratings: 118  (23.09.2022)
 | Livin' in a dwarven paradise | 0.50% | ~1,068 |
 | Way of the Wimp | 0.50% | ~1,068 |
 | The plot thickens... At the tavern | 0.50% | ~1,068 |
+| Shiny and Crôm | 0.40% | ~854 |
 | The demons' feast | 0.40% | ~854 |
 | The Great Library | 0.40% | ~854 |
 | Torture and Sensibility | 0.40% | ~854 |
@@ -31,7 +32,6 @@ Number of Ratings: 118  (23.09.2022)
 | I am the night | 0.40% | ~854 |
 | Team Building Exercise | 0.40% | ~854 |
 | Oh, when I'll be level 10... | 0.40% | ~854 |
-| Shiny and Crôm | 0.30% | ~641 |
 | Res Judicata | 0.30% | ~641 |
 | The Famous Dungeon of Naheulbeuk | 0.30% | ~641 |
 | Dwarf Fortress | 0.30% | ~641 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Staff cut | 0.00% | ~0 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 213,518 (Ranked 56)  
+Progressed: 213,541 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,7 +173,7 @@ Completed: 2 (0.00%) (Ranked 258)
 | 2023-08-14 | 212,372 | 2 |
 | 2023-08-15 | 212,897 | 2 |
 | 2023-08-16 | 213,341 | 2 |
-| 2023-08-17 | 213,518 | 2 |
+| 2023-08-17 | 213,541 | 2 |
 ## Awards
 Max (Character Customization): 166  (Ranked 289)  
 Sum: 187 (Ranked 375)  

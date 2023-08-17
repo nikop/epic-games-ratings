@@ -46,10 +46,10 @@ Number of Ratings: 2,536  (23.09.2022)
 | The Arkanis Sector | 2.00% | ~1,001 |
 | ''A little short for a Stormtrooper...'' | 2.00% | ~1,001 |
 | ''Power! Unlimited power!'' | 2.00% | ~1,001 |
+| ''No more training, do you require'' | 2.00% | ~1,001 |
 | ''You needn't worry about your reward'' | 2.00% | ~1,001 |
 | ''Now I am the Master'' | 2.00% | ~1,001 |
 | ''Jedi Business'' | 1.00% | ~501 |
-| ''No more training, do you require'' | 1.00% | ~501 |
 | ''I've never seen a real one!'' | 0.90% | ~451 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 50,068 (Ranked 89)  

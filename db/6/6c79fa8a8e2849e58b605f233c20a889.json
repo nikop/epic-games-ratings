@@ -4,8 +4,8 @@
   "ProductSlug": "feud-19b141",
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
     "PcReleaseDate": "2019-05-21T15:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2322,
+  "EOS_Progressed": 2324,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -4946,6 +4946,11 @@
       "Time": "2023-08-17T08:04:16.3041431+00:00",
       "NumProgressed": 2322,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-17T13:06:56.0300596+00:00",
+      "NumProgressed": 2324,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -4965,7 +4970,7 @@
       "Name": "Puppetmaster",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "BOT_DESTROYER",
@@ -5061,7 +5066,7 @@
       "Name": "Grasshopper",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 1393
+      "UsersEstimate": 1394
     },
     {
       "ID": "GUARD_MAKER",
@@ -5132,14 +5137,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 2322,
+      "Progressed": 2324,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-08-17T12:04:20.1829223+00:00",
+  "LastChanged_Achievements": "2023-08-17T13:06:56.0300587+00:00",
   "LastUpdate_AppInfo": "2023-08-15T21:57:22.8245515+00:00",
-  "LastUpdate_Ratings": "2023-08-17T11:58:34.1031601+00:00",
-  "LastUpdate_Achievements": "2023-08-17T12:04:20.1829722+00:00"
+  "LastUpdate_Ratings": "2023-08-17T13:01:10.9852766+00:00",
+  "LastUpdate_Achievements": "2023-08-17T13:06:56.0301057+00:00"
 }

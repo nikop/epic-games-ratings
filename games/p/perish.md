@@ -31,20 +31,20 @@
 | Ophiolatreia | 3.00% | ~101 |
 | Halls of Marble | 3.00% | ~101 |
 | Serpentine | 3.00% | ~101 |
-| Wayward Son of Hephaestus | 2.00% | ~67 |
-| Lament of the Constellations | 2.00% | ~67 |
-| Forged in Fire | 2.00% | ~67 |
-| Rock and a Hard Place | 2.00% | ~67 |
-| The Midas Touch | 2.00% | ~67 |
-| Hapax Legomenon | 2.00% | ~67 |
-| Don't Pay the Ferryman | 2.00% | ~67 |
-| Veneration of Hephaestus | 2.00% | ~67 |
-| Vandili | 2.00% | ~67 |
-| No Scylla in Sight | 2.00% | ~67 |
-| Cloaca Maxima | 2.00% | ~67 |
-| Baby Crabs They Ain't | 2.00% | ~67 |
-| Mors Omnibus | 2.00% | ~67 |
-| Blot Out the Sky | 2.00% | ~67 |
+| Wayward Son of Hephaestus | 2.00% | ~68 |
+| Lament of the Constellations | 2.00% | ~68 |
+| Forged in Fire | 2.00% | ~68 |
+| Rock and a Hard Place | 2.00% | ~68 |
+| The Midas Touch | 2.00% | ~68 |
+| Hapax Legomenon | 2.00% | ~68 |
+| Don't Pay the Ferryman | 2.00% | ~68 |
+| Veneration of Hephaestus | 2.00% | ~68 |
+| Vandili | 2.00% | ~68 |
+| No Scylla in Sight | 2.00% | ~68 |
+| Cloaca Maxima | 2.00% | ~68 |
+| Baby Crabs They Ain't | 2.00% | ~68 |
+| Mors Omnibus | 2.00% | ~68 |
+| Blot Out the Sky | 2.00% | ~68 |
 | The Nameless One | 1.00% | ~34 |
 | Rule of Thirds | 1.00% | ~34 |
 | Pyr Demon | 1.00% | ~34 |
@@ -56,11 +56,11 @@
 | Athenian Treasury | 0.90% | ~30 |
 | Invicta | 0.80% | ~27 |
 | Olympian | 0.60% | ~20 |
-| Hipparchia's Labour | 0.40% | ~13 |
-| Debauchery | 0.40% | ~13 |
-| Blessing of Spring | 0.40% | ~13 |
-| Interrupt the Interloper | 0.40% | ~13 |
-| Elephantine | 0.40% | ~13 |
+| Hipparchia's Labour | 0.40% | ~14 |
+| Debauchery | 0.40% | ~14 |
+| Blessing of Spring | 0.40% | ~14 |
+| Interrupt the Interloper | 0.40% | ~14 |
+| Elephantine | 0.40% | ~14 |
 | Window Shopping | 0.30% | ~10 |
 | Buyer's Remorse | 0.20% | ~7 |
 | Library of Alexandria | 0.10% | ~3 |
@@ -68,7 +68,7 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,374 (Ranked 151)  
+Progressed: 3,375 (Ranked 151)  
 Completed: 0 (0.00%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 0 (0.00%) (Ranked 258)
 | 2023-08-14 | 3,361 | 0 |
 | 2023-08-15 | 3,368 | 0 |
 | 2023-08-16 | 3,371 | 0 |
-| 2023-08-17 | 3,374 | 0 |
+| 2023-08-17 | 3,375 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

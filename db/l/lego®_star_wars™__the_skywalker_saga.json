@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 118,
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -10368,9 +10368,9 @@
       "ID": "LEVEL_CHALLENGES_ALL_LEVELS",
       "SetID": "3fcpmbm",
       "Name": "\u0027\u0027No more training, do you require\u0027\u0027",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 501
+      "UsersEstimate": 1001
     },
     {
       "ID": "LEVEL_CHALLENGES_ONE_LEVEL",
@@ -10440,8 +10440,8 @@
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-08-16T16:58:16.0447819+00:00",
-  "LastChanged_Achievements": "2023-08-17T12:04:37.0489052+00:00",
+  "LastChanged_Achievements": "2023-08-17T13:07:12.7563978+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:13.8812017+00:00",
-  "LastUpdate_Ratings": "2023-08-17T11:57:58.5196848+00:00",
-  "LastUpdate_Achievements": "2023-08-17T12:04:37.0489932+00:00"
+  "LastUpdate_Ratings": "2023-08-17T13:00:38.4289343+00:00",
+  "LastUpdate_Achievements": "2023-08-17T13:07:12.7565183+00:00"
 }

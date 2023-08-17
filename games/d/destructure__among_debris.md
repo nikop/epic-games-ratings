@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Graduation | 79.00% | ~126 |
-| You Have Been Deaded | 75.00% | ~120 |
-| Rookie | 70.00% | ~112 |
+| Graduation | 79.00% | ~127 |
+| You Have Been Deaded | 75.00% | ~121 |
+| Rookie | 70.00% | ~113 |
 | Apprentice Destructor | 30.00% | ~48 |
 | I Prefer Jazz Fusion | 12.00% | ~19 |
 | Master Destructor | 11.00% | ~18 |
 | Avaricerite | 9.00% | ~14 |
 | Ball Galore | 8.00% | ~13 |
-| Easy Victory | 8.00% | ~13 |
+| Easy Victory | 7.00% | ~11 |
 | Back From The Dead | 6.00% | ~10 |
 | You Are Actually Supposed To Use Those | 6.00% | ~10 |
 | Ball Collector | 5.00% | ~8 |
@@ -23,11 +23,11 @@
 | Ticking Clock | 4.00% | ~6 |
 | Collector | 3.00% | ~5 |
 | Detoxed | 3.00% | ~5 |
-| Monster of Fashion | 3.00% | ~5 |
-| Scrap Collector | 3.00% | ~5 |
-| Single Person On Earth | 3.00% | ~5 |
 | Bullet Hell | 2.00% | ~3 |
 | Ice Breaker | 2.00% | ~3 |
+| Monster of Fashion | 2.00% | ~3 |
+| Scrap Collector | 2.00% | ~3 |
+| Single Person On Earth | 2.00% | ~3 |
 | Untouchable | 2.00% | ~3 |
 | Machine Man | 1.00% | ~2 |
 | Mushroom Man | 1.00% | ~2 |
@@ -36,8 +36,8 @@
 | Victory That Is Even More True | 1.00% | ~2 |
 | What Even Are You? | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 160 (Ranked 300)  
-Completed: 1 (0.62%) (Ranked 133)  
+Progressed: 161 (Ranked 300)  
+Completed: 1 (0.62%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -96,6 +96,7 @@ Completed: 1 (0.62%) (Ranked 133)
 | 2023-08-13 | 158 | 1 |
 | 2023-08-14 | 159 | 1 |
 | 2023-08-15 | 160 | 1 |
+| 2023-08-17 | 161 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

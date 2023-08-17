@@ -51,12 +51,12 @@
 | Meet Me at HQ | 7.00% | ~23 |
 | Maximum Reuse | 7.00% | ~23 |
 | Revenue Royalty | 7.00% | ~23 |
+| Golden Opportunity | 7.00% | ~23 |
 | Pipe Up | 7.00% | ~23 |
 | I'm Busy Ruling | 6.00% | ~19 |
 | Careful Constructor | 6.00% | ~19 |
 | Sky High Stature | 6.00% | ~19 |
 | Profound Proceeds | 6.00% | ~19 |
-| Golden Opportunity | 6.00% | ~19 |
 | It's a Gas | 6.00% | ~19 |
 | Meet ADA/360 | 5.00% | ~16 |
 | Penthouse in the Sky | 5.00% | ~16 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 245,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2019-03-01T05:00:00+00:00",
@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 56436,
+  "EOS_Progressed": 56438,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7677,6 +7677,11 @@
       "Time": "2023-08-17T12:06:32.8778723+00:00",
       "NumProgressed": 56436,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-17T13:09:08.7101235+00:00",
+      "NumProgressed": 56438,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 49,
@@ -7864,7 +7869,7 @@
       "Name": "Level Diver",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "LittleGirl",
@@ -8000,7 +8005,7 @@
       "Name": "Sunflower Master",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2257
+      "UsersEstimate": 2258
     },
     {
       "ID": "Teamwork",
@@ -8079,7 +8084,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 56436,
+      "Progressed": 56438,
       "Completed": 5
     }
   ],
@@ -8087,8 +8092,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-03-31T17:59:29.6978698+00:00",
-  "LastChanged_Achievements": "2023-08-17T12:06:32.877872+00:00",
+  "LastChanged_Achievements": "2023-08-17T13:09:08.7101229+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:14.9013233+00:00",
-  "LastUpdate_Ratings": "2023-08-17T11:58:00.0890498+00:00",
-  "LastUpdate_Achievements": "2023-08-17T12:06:32.877987+00:00"
+  "LastUpdate_Ratings": "2023-08-17T13:00:39.8144379+00:00",
+  "LastUpdate_Achievements": "2023-08-17T13:09:08.7102008+00:00"
 }

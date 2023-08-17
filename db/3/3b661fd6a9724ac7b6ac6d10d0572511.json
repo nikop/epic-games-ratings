@@ -3022,9 +3022,9 @@
       "Count": 700
     }
   ],
-  "EOS_Progressed": 1578226,
+  "EOS_Progressed": 1578394,
   "EOS_Completed": 506,
-  "EOS_NewPlayers": 25103,
+  "EOS_NewPlayers": 25051,
   "EOS_NewCompleters": 32,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -11057,6 +11057,11 @@
       "Time": "2023-08-17T12:07:02.9098771+00:00",
       "NumProgressed": 1578226,
       "NumCompleted": 506
+    },
+    {
+      "Time": "2023-08-17T13:11:08.6864036+00:00",
+      "NumProgressed": 1578394,
+      "NumCompleted": 506
     }
   ],
   "TotalAchievements": 1328,
@@ -12268,7 +12273,7 @@
       "Name": "I Want to Get Away",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3156
+      "UsersEstimate": 3157
     },
     {
       "ID": "brooklyn_2",
@@ -16778,9 +16783,9 @@
       "ID": "no_one_cared_who_i_was",
       "SetID": "61cefe3",
       "Name": "No One Cared Who I Was...",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 1578
+      "UsersEstimate": 3157
     },
     {
       "ID": "no_turning_back",
@@ -21674,9 +21679,9 @@
       "ID": "you_gotta_start_somewhere",
       "SetID": "61cefe3",
       "Name": "You Gotta Start Somewhere",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 1578
+      "UsersEstimate": 3157
     },
     {
       "ID": "you_shall_not_pass",
@@ -21691,13 +21696,13 @@
     {
       "ID": "61cefe3",
       "IsBase": true,
-      "Progressed": 1578226,
+      "Progressed": 1578394,
       "Completed": 506
     },
     {
       "ID": "bkjdbk8",
       "IsBase": false,
-      "Progressed": 1578226,
+      "Progressed": 1578394,
       "Completed": 13
     }
   ],
@@ -21705,8 +21710,8 @@
   "FirstSeenRating": "2023-06-09T03:57:04.3869033+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:50.4372379+00:00",
   "LastChanged": "2023-08-17T03:58:47.3791538+00:00",
-  "LastChanged_Achievements": "2023-08-17T12:07:02.9098763+00:00",
+  "LastChanged_Achievements": "2023-08-17T13:11:08.6864027+00:00",
   "LastUpdate_AppInfo": "2023-08-10T19:57:07.9529529+00:00",
-  "LastUpdate_Ratings": "2023-08-17T11:58:30.8274413+00:00",
-  "LastUpdate_Achievements": "2023-08-17T12:07:02.9255634+00:00"
+  "LastUpdate_Ratings": "2023-08-17T13:01:07.7572038+00:00",
+  "LastUpdate_Achievements": "2023-08-17T13:11:08.702683+00:00"
 }

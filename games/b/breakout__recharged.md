@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Is There Anybody Out There? | 92.00% | ~95 |
-| Cluster One | 83.00% | ~85 |
-| Another Brick in the Wall (Part 1) | 72.00% | ~74 |
-| High Hopes | 60.00% | ~62 |
-| Comfortably Numb | 57.00% | ~59 |
-| Echoes | 51.00% | ~53 |
-| Another Brick in the Wall (Part 2) | 47.00% | ~48 |
-| Biding My Time | 43.00% | ~44 |
-| The Gunner's Dream | 40.00% | ~41 |
-| Another Brick in the Wall (Part 3) | 34.00% | ~35 |
-| Burning Bridges | 25.00% | ~26 |
-| The Last Few Bricks | 25.00% | ~26 |
+| Is There Anybody Out There? | 93.00% | ~96 |
+| Cluster One | 84.00% | ~87 |
+| Another Brick in the Wall (Part 1) | 73.00% | ~75 |
+| High Hopes | 61.00% | ~63 |
+| Comfortably Numb | 58.00% | ~60 |
+| Echoes | 52.00% | ~54 |
+| Another Brick in the Wall (Part 2) | 48.00% | ~49 |
+| Biding My Time | 44.00% | ~45 |
+| The Gunner's Dream | 41.00% | ~42 |
+| Another Brick in the Wall (Part 3) | 35.00% | ~36 |
+| Burning Bridges | 26.00% | ~27 |
+| The Last Few Bricks | 26.00% | ~27 |
 | The Dogs of War | 13.00% | ~13 |
 | I'm a King Bee | 7.00% | ~7 |
 | What Shall We Do Now? | 2.00% | ~2 |

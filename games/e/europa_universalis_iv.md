@@ -6,340 +6,340 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~13,075 |
-| That's a Grand Army | 3.00% | ~9,806 |
-| That is mine! | 3.00% | ~9,806 |
-| Victorious! | 3.00% | ~9,806 |
-| Brothers in Arms | 2.00% | ~6,537 |
-| That's a Grand Navy | 2.00% | ~6,537 |
-| Seriously?! | 2.00% | ~6,537 |
-| Cold War | 1.00% | ~3,269 |
-| For the Glory | 1.00% | ~3,269 |
-| It's all about the money | 1.00% | ~3,269 |
-| True Catholic | 1.00% | ~3,269 |
-| Defender of the Faith | 0.90% | ~2,942 |
-| It's all about luck | 0.80% | ~2,615 |
-| Respected | 0.80% | ~2,615 |
-| The Princess is in this Castle | 0.80% | ~2,615 |
-| Truly Divine Ruler | 0.80% | ~2,615 |
-| Blockader | 0.70% | ~2,288 |
-| Double the Love | 0.60% | ~1,961 |
-| Royal Authority | 0.60% | ~1,961 |
-| Total Control | 0.60% | ~1,961 |
-| Combined Arms | 0.50% | ~1,634 |
-| My armies are invincible! | 0.50% | ~1,634 |
-| Agressive Expander | 0.40% | ~1,307 |
-| Azur semé de lis or | 0.40% | ~1,307 |
-| City of Cities | 0.40% | ~1,307 |
-| Gentle Persuasion | 0.40% | ~1,307 |
-| Queen of Conquest | 0.40% | ~1,307 |
-| This navy can take it all | 0.40% | ~1,307 |
-| All That's Thine Shall Be Mine | 0.30% | ~981 |
-| Bright Spark | 0.30% | ~981 |
-| The Emperors new clothes | 0.30% | ~981 |
-| Factionalism | 0.30% | ~981 |
-| A Golden Empire | 0.30% | ~981 |
-| Isn't this the way to India? | 0.30% | ~981 |
-| Market Control | 0.30% | ~981 |
-| The Five Colonies | 0.30% | ~981 |
-| All belongs to Mother Russia | 0.20% | ~654 |
-| At every continent | 0.20% | ~654 |
-| Down Under | 0.20% | ~654 |
-| Electable! | 0.20% | ~654 |
-| One Family to Rule them All | 0.20% | ~654 |
-| Populists in Government | 0.20% | ~654 |
-| Ruina Imperii | 0.20% | ~654 |
-| The pen is mightier than the sword | 0.20% | ~654 |
-| Time Bandit | 0.20% | ~654 |
-| Traditional Player | 0.20% | ~654 |
-| Trustworthy | 0.20% | ~654 |
-| The 52 Garhs | 0.10% | ~327 |
-| I don't like sand | 0.10% | ~327 |
-| A Blessed Nation | 0.10% | ~327 |
-| A Decent Reserve | 0.10% | ~327 |
-| A Hero’s Welcome | 0.10% | ~327 |
-| A Manchurian Candidate | 0.10% | ~327 |
-| A Pile of Gold | 0.10% | ~327 |
-| A Protected Market | 0.10% | ~327 |
-| A Sun God | 0.10% | ~327 |
-| A tale of two Families | 0.10% | ~327 |
-| AAA Credit | 0.10% | ~327 |
-| Absolutely | 0.10% | ~327 |
-| Abu Bakr II’s Ambition | 0.10% | ~327 |
-| Academical | 0.10% | ~327 |
-| AEIOU | 0.10% | ~327 |
-| African Power | 0.10% | ~327 |
-| Albania or Iberia | 0.10% | ~327 |
-| All Blue | 0.10% | ~327 |
-| All Your Trade Are Belong to Us | 0.10% | ~327 |
-| Almost Prussian Blue | 0.10% | ~327 |
-| An early Reich | 0.10% | ~327 |
-| An Unlikely Candidate | 0.10% | ~327 |
-| Anglophile | 0.10% | ~327 |
-| The Animal Kingdom | 0.10% | ~327 |
-| Arabian Coffee | 0.10% | ~327 |
-| Around the World in 80 Years | 0.10% | ~327 |
-| Assembly Instructions Needed | 0.10% | ~327 |
-| Atwix Legacy | 0.10% | ~327 |
-| Auld Alliance Reversed | 0.10% | ~327 |
-| Australia-Hungary | 0.10% | ~327 |
-| Avar Khaganate | 0.10% | ~327 |
-| Baa Baa Black Sheep | 0.10% | ~327 |
-| Back in Control | 0.10% | ~327 |
-| Back to the Piast | 0.10% | ~327 |
-| Baltic Crusader | 0.10% | ~327 |
-| These Banners need a Saga | 0.10% | ~327 |
-| Barbarossa | 0.10% | ~327 |
-| Basileus | 0.10% | ~327 |
-| Basque in Glory | 0.10% | ~327 |
-| Bengal Tiger | 0.10% | ~327 |
-| Better than Napoleon | 0.10% | ~327 |
-| Big Blue Blob | 0.10% | ~327 |
-| Black Jack | 0.10% | ~327 |
-| Bleed Them Dry | 0.10% | ~327 |
-| Blood for the Sky God! | 0.10% | ~327 |
-| Breaking the Yoke | 0.10% | ~327 |
-| Brentry! | 0.10% | ~327 |
-| Brick by Brick | 0.10% | ~327 |
-| The Buddhists Strike Back | 0.10% | ~327 |
-| Carthago Delenda Est | 0.10% | ~327 |
-| Center of Attention | 0.10% | ~327 |
-| Cherrypicking | 0.10% | ~327 |
-| Chop Chop | 0.10% | ~327 |
-| Choson One | 0.10% | ~327 |
-| Cities of Cibola | 0.10% | ~327 |
-| Colonial Management | 0.10% | ~327 |
-| Consulate of the Sea | 0.10% | ~327 |
-| Copium Wars | 0.10% | ~327 |
-| Core-fu | 0.10% | ~327 |
-| Cotton Kandy | 0.10% | ~327 |
-| Cowardly Tactics | 0.10% | ~327 |
-| Crossing the Finnish Line | 0.10% | ~327 |
-| Czechs and Balances | 0.10% | ~327 |
-| Dar al-Islam | 0.10% | ~327 |
-| David the Builder | 0.10% | ~327 |
-| Definitely the Sultan of Rum | 0.10% | ~327 |
-| Die Please Die | 0.10% | ~327 |
-| Disciples of Enlightenment | 0.10% | ~327 |
-| Don’t be Cilli | 0.10% | ~327 |
-| Dovmont's Own | 0.10% | ~327 |
-| Dracula's Revenge | 0.10% | ~327 |
-| Dude, Where's my Boat? | 0.10% | ~327 |
-| Early-Modern Warfare | 0.10% | ~327 |
-| Eat your Greens | 0.10% | ~327 |
-| Emperor of Hindustan | 0.10% | ~327 |
-| Empire of Mann | 0.10% | ~327 |
-| Even Better than Piet Heyn | 0.10% | ~327 |
-| Everything's Coming Up Mulhouse | 0.10% | ~327 |
-| Fanatic Collectivist | 0.10% | ~327 |
-| The Fezzan Corridors | 0.10% | ~327 |
-| Fine Financials | 0.10% | ~327 |
-| A Fine Goosestep | 0.10% | ~327 |
-| First Come, First Serve | 0.10% | ~327 |
-| The First Toungoo Empire | 0.10% | ~327 |
-| For Odin! | 0.10% | ~327 |
-| For the Emperor! | 0.10% | ~327 |
-| Forever Golden | 0.10% | ~327 |
-| Forgive me, for I have Sindh | 0.10% | ~327 |
-| Foul Mouthed | 0.10% | ~327 |
-| Four For Trade | 0.10% | ~327 |
-| From Frankfurt to the Andes | 0.10% | ~327 |
-| From Humble Origins | 0.10% | ~327 |
-| Frozen Assets | 0.10% | ~327 |
-| Fugger Banking | 0.10% | ~327 |
-| Full House | 0.10% | ~327 |
-| Ganges Khan | 0.10% | ~327 |
-| Georgia on my Mind | 0.10% | ~327 |
-| Global Hegemony | 0.10% | ~327 |
-| God Tier | 0.10% | ~327 |
-| Gold Rush | 0.10% | ~327 |
-| Golden Horn | 0.10% | ~327 |
-| Golden Wind | 0.10% | ~327 |
-| Good King Renee | 0.10% | ~327 |
-| Grand Coalition | 0.10% | ~327 |
-| Grand Duchy | 0.10% | ~327 |
-| I'll graze my horse here.. And here… | 0.10% | ~327 |
-| Great Moravia | 0.10% | ~327 |
-| Guarantor of Peace | 0.10% | ~327 |
-| Hanukkah Mutapa | 0.10% | ~327 |
-| Hard Bargaining | 0.10% | ~327 |
-| Hessian Mercenaries | 0.10% | ~327 |
-| Hoarder | 0.10% | ~327 |
-| Holiest Roman Empire | 0.10% | ~327 |
-| Holy Horder | 0.10% | ~327 |
-| Holy Trinity | 0.10% | ~327 |
-| Home and Away | 0.10% | ~327 |
-| Ideas Guy | 0.10% | ~327 |
-| Imperio español | 0.10% | ~327 |
-| Imposter Syndrome | 0.10% | ~327 |
-| In the Name of the Father | 0.10% | ~327 |
-| An Industrial Evolution | 0.10% | ~327 |
-| Industrial Powerhouse | 0.10% | ~327 |
-| The Iron Price | 0.10% | ~327 |
-| Italian Ambition | 0.10% | ~327 |
-| It's All Greek To Me | 0.10% | ~327 |
-| Je maintiendrai | 0.10% | ~327 |
-| Just a Little Patience | 0.10% | ~327 |
-| Just Resting In My Account | 0.10% | ~327 |
-| A Kaiser not just in name | 0.10% | ~327 |
-| Keep the Flame Burning | 0.10% | ~327 |
-| KHAAAAAAN | 0.10% | ~327 |
-| King of Jerusalem | 0.10% | ~327 |
-| Kingdom of God | 0.10% | ~327 |
-| Kinslayer | 0.10% | ~327 |
-| Kirishitan Japan | 0.10% | ~327 |
-| Knights of the Caribbean | 0.10% | ~327 |
-| Kow-Tow | 0.10% | ~327 |
-| Krabater | 0.10% | ~327 |
-| Kuban Cigars | 0.10% | ~327 |
-| Kushite Restoration | 0.10% | ~327 |
-| Land of Eastern Jade | 0.10% | ~327 |
-| Laughingstock | 0.10% | ~327 |
-| Lazarus | 0.10% | ~327 |
-| Lessons of Hemmingstedt | 0.10% | ~327 |
-| Let It Go! | 0.10% | ~327 |
-| The Levant Turnabout | 0.10% | ~327 |
-| Liberty or Death | 0.10% | ~327 |
-| Lion of the North | 0.10% | ~327 |
-| Live Long and Prosper | 0.10% | ~327 |
-| Luck of the Irish | 0.10% | ~327 |
-| Lucky Lucca | 0.10% | ~327 |
-| Made in Japan | 0.10% | ~327 |
-| Magellan’s Voyage | 0.10% | ~327 |
-| Maharana Pratap | 0.10% | ~327 |
-| Mansa Musa | 0.10% | ~327 |
-| Mare Nostrum | 0.10% | ~327 |
-| Marshy March | 0.10% | ~327 |
-| Mary of Lotharingia | 0.10% | ~327 |
-| Master of India | 0.10% | ~327 |
-| Mehmet's Ambition | 0.10% | ~327 |
-| Mewar Never Changes | 0.10% | ~327 |
-| Multiculturalism | 0.10% | ~327 |
-| My True Friend | 0.10% | ~327 |
-| Napoleon’s Ambition | 0.10% | ~327 |
-| Narcissism | 0.10% | ~327 |
-| Neither Holy, Nor German | 0.10% | ~327 |
-| Networking | 0.10% | ~327 |
-| Never say Nevers | 0.10% | ~327 |
-| New, New Deli | 0.10% | ~327 |
-| No Country for Old Tercios | 0.10% | ~327 |
-| No Pirates in my Caribbean | 0.10% | ~327 |
-| Nobody wants to die | 0.10% | ~327 |
-| Not just Pizza | 0.10% | ~327 |
-| Not so sad a state... | 0.10% | ~327 |
-| On the Edge of Madness | 0.10% | ~327 |
-| On the Rhodes Again | 0.10% | ~327 |
-| One Faith | 0.10% | ~327 |
-| One King to Rule! | 0.10% | ~327 |
-| One Night in Paris | 0.10% | ~327 |
-| Østindisk Kompagni Te | 0.10% | ~327 |
-| Over a Thousand! | 0.10% | ~327 |
-| Pandya Empire | 0.10% | ~327 |
-| Parisian Pasha | 0.10% | ~327 |
-| Philippine Tiger | 0.10% | ~327 |
-| Pirate Bay of Janjira | 0.10% | ~327 |
-| Poland can into space | 0.10% | ~327 |
-| Prester John | 0.10% | ~327 |
-| The Prince of Egypt | 0.10% | ~327 |
-| Protect the Secret | 0.10% | ~327 |
-| Purify the Temple | 0.10% | ~327 |
-| Pyramid of Skulls | 0.10% | ~327 |
-| Qing of China | 0.10% | ~327 |
-| Queen of Mercury | 0.10% | ~327 |
-| Rags and Riches | 0.10% | ~327 |
-| The Reapers | 0.10% | ~327 |
-| Redecorating | 0.10% | ~327 |
-| Rekindling the Flames | 0.10% | ~327 |
-| Relentless Push East | 0.10% | ~327 |
-| Rise of the White Sheep | 0.10% | ~327 |
-| Rozwi Empire | 0.10% | ~327 |
-| Sailor Mon | 0.10% | ~327 |
-| Sakoku Law | 0.10% | ~327 |
-| Saladins Legacy | 0.10% | ~327 |
-| Foremost Servitor of Jagannath | 0.10% | ~327 |
-| Shahanshah | 0.10% | ~327 |
-| Shemot is Not | 0.10% | ~327 |
-| Sikh Pun | 0.10% | ~327 |
-| Sinaasappel! | 0.10% | ~327 |
-| The Six Nations | 0.10% | ~327 |
-| Sleepless in Seattle | 0.10% | ~327 |
-| Sons of Carthage | 0.10% | ~327 |
-| Spaghetti Western | 0.10% | ~327 |
-| Spain is the Emperor | 0.10% | ~327 |
-| Spanish Fly | 0.10% | ~327 |
-| Spice Girls | 0.10% | ~327 |
-| The Spice Must Flow | 0.10% | ~327 |
-| Stern des Südens | 0.10% | ~327 |
-| Stiff Upper Lippe | 0.10% | ~327 |
-| Strait Talk | 0.10% | ~327 |
-| Subsidize my Love | 0.10% | ~327 |
-| The Sudanese Expedition | 0.10% | ~327 |
-| Sun Invasion | 0.10% | ~327 |
-| The Sun Never Sets on the Indian Empire | 0.10% | ~327 |
-| Sunset Invasion | 0.10% | ~327 |
-| Super Trooper | 0.10% | ~327 |
-| Surfing USA | 0.10% | ~327 |
-| Swahili Persuasion | 0.10% | ~327 |
-| Sweden is not overpowered! | 0.10% | ~327 |
-| Sweet Harmony | 0.10% | ~327 |
-| Sweet Home Qaraqorum | 0.10% | ~327 |
-| Switzerlake | 0.10% | ~327 |
-| Take that, von Habsburgs! | 0.10% | ~327 |
-| Tatarstan | 0.10% | ~327 |
-| Tear Down This Wall | 0.10% | ~327 |
-| Terra Mariana | 0.10% | ~327 |
-| That's a Silk Road | 0.10% | ~327 |
-| That's No Mon | 0.10% | ~327 |
-| The Bohemians | 0.10% | ~327 |
-| The Burgundian Conquest | 0.10% | ~327 |
-| The Chrysanthemum Throne | 0.10% | ~327 |
-| The Coin is Stronger than the Sword | 0.10% | ~327 |
-| The Continuation of Diplomacy | 0.10% | ~327 |
-| The Freest Man in the World | 0.10% | ~327 |
-| The Grand Armada | 0.10% | ~327 |
-| The Great Khan | 0.10% | ~327 |
-| The League of Mayapan | 0.10% | ~327 |
-| The Navigator | 0.10% | ~327 |
-| The Ostenders | 0.10% | ~327 |
-| The Power of Three | 0.10% | ~327 |
-| The Re-Reconquista | 0.10% | ~327 |
-| The Rising Sun | 0.10% | ~327 |
-| The Third Way | 0.10% | ~327 |
-| The Three Mountains | 0.10% | ~327 |
-| The Uncommonwealth | 0.10% | ~327 |
-| The White Company | 0.10% | ~327 |
-| This is fine | 0.10% | ~327 |
-| This is My Faith | 0.10% | ~327 |
-| This is Persia! | 0.10% | ~327 |
-| This Revolution Was Crushed | 0.10% | ~327 |
-| Three Trivial Tributary Tribes | 0.10% | ~327 |
-| Tiger of Mysore | 0.10% | ~327 |
-| To the Bone | 0.10% | ~327 |
-| Trade Hegemon | 0.10% | ~327 |
-| Triple the Rome | 0.10% | ~327 |
-| Trophy Hunter | 0.10% | ~327 |
-| True Heir of Timur | 0.10% | ~327 |
-| Turn the Table | 0.10% | ~327 |
-| Turning the Tide | 0.10% | ~327 |
-| Turtles all the way down | 0.10% | ~327 |
-| Ultimate Military | 0.10% | ~327 |
-| Vasa or Wettin? | 0.10% | ~327 |
-| Venetian Sea | 0.10% | ~327 |
-| Victorian Three | 0.10% | ~327 |
-| Viva la Revolución! | 0.10% | ~327 |
-| Voltaire's Nightmare | 0.10% | ~327 |
-| Voting Streak | 0.10% | ~327 |
-| We bled for this | 0.10% | ~327 |
-| Where are the penguins? | 0.10% | ~327 |
-| Where the heart is | 0.10% | ~327 |
-| The White Elephant | 0.10% | ~327 |
-| Why is the Rûm gone!? | 0.10% | ~327 |
-| Winged Hussars | 0.10% | ~327 |
-| Wonderful | 0.10% | ~327 |
-| World Conqueror | 0.10% | ~327 |
-| World Discoverer | 0.10% | ~327 |
-| Yarr Harr a Pirate's Life For Me | 0.10% | ~327 |
-| You Get A New Home, And You Get A New Home | 0.10% | ~327 |
+| Until death do us apart | 4.00% | ~13,115 |
+| That's a Grand Army | 3.00% | ~9,836 |
+| That is mine! | 3.00% | ~9,836 |
+| Victorious! | 3.00% | ~9,836 |
+| Brothers in Arms | 2.00% | ~6,558 |
+| That's a Grand Navy | 2.00% | ~6,558 |
+| Seriously?! | 2.00% | ~6,558 |
+| Cold War | 1.00% | ~3,279 |
+| For the Glory | 1.00% | ~3,279 |
+| It's all about the money | 1.00% | ~3,279 |
+| True Catholic | 1.00% | ~3,279 |
+| Defender of the Faith | 0.90% | ~2,951 |
+| It's all about luck | 0.80% | ~2,623 |
+| Respected | 0.80% | ~2,623 |
+| The Princess is in this Castle | 0.80% | ~2,623 |
+| Truly Divine Ruler | 0.80% | ~2,623 |
+| Blockader | 0.70% | ~2,295 |
+| Double the Love | 0.60% | ~1,967 |
+| Royal Authority | 0.60% | ~1,967 |
+| Total Control | 0.60% | ~1,967 |
+| Combined Arms | 0.50% | ~1,639 |
+| My armies are invincible! | 0.50% | ~1,639 |
+| Agressive Expander | 0.40% | ~1,312 |
+| Azur semé de lis or | 0.40% | ~1,312 |
+| City of Cities | 0.40% | ~1,312 |
+| Gentle Persuasion | 0.40% | ~1,312 |
+| Queen of Conquest | 0.40% | ~1,312 |
+| This navy can take it all | 0.40% | ~1,312 |
+| All That's Thine Shall Be Mine | 0.30% | ~984 |
+| Bright Spark | 0.30% | ~984 |
+| The Emperors new clothes | 0.30% | ~984 |
+| Factionalism | 0.30% | ~984 |
+| A Golden Empire | 0.30% | ~984 |
+| Isn't this the way to India? | 0.30% | ~984 |
+| Market Control | 0.30% | ~984 |
+| The Five Colonies | 0.30% | ~984 |
+| All belongs to Mother Russia | 0.20% | ~656 |
+| At every continent | 0.20% | ~656 |
+| Down Under | 0.20% | ~656 |
+| Electable! | 0.20% | ~656 |
+| One Family to Rule them All | 0.20% | ~656 |
+| Populists in Government | 0.20% | ~656 |
+| Ruina Imperii | 0.20% | ~656 |
+| The pen is mightier than the sword | 0.20% | ~656 |
+| Time Bandit | 0.20% | ~656 |
+| Traditional Player | 0.20% | ~656 |
+| Trustworthy | 0.20% | ~656 |
+| The 52 Garhs | 0.10% | ~328 |
+| I don't like sand | 0.10% | ~328 |
+| A Blessed Nation | 0.10% | ~328 |
+| A Decent Reserve | 0.10% | ~328 |
+| A Hero’s Welcome | 0.10% | ~328 |
+| A Manchurian Candidate | 0.10% | ~328 |
+| A Pile of Gold | 0.10% | ~328 |
+| A Protected Market | 0.10% | ~328 |
+| A Sun God | 0.10% | ~328 |
+| A tale of two Families | 0.10% | ~328 |
+| AAA Credit | 0.10% | ~328 |
+| Absolutely | 0.10% | ~328 |
+| Abu Bakr II’s Ambition | 0.10% | ~328 |
+| Academical | 0.10% | ~328 |
+| AEIOU | 0.10% | ~328 |
+| African Power | 0.10% | ~328 |
+| Albania or Iberia | 0.10% | ~328 |
+| All Blue | 0.10% | ~328 |
+| All Your Trade Are Belong to Us | 0.10% | ~328 |
+| Almost Prussian Blue | 0.10% | ~328 |
+| An early Reich | 0.10% | ~328 |
+| An Unlikely Candidate | 0.10% | ~328 |
+| Anglophile | 0.10% | ~328 |
+| The Animal Kingdom | 0.10% | ~328 |
+| Arabian Coffee | 0.10% | ~328 |
+| Around the World in 80 Years | 0.10% | ~328 |
+| Assembly Instructions Needed | 0.10% | ~328 |
+| Atwix Legacy | 0.10% | ~328 |
+| Auld Alliance Reversed | 0.10% | ~328 |
+| Australia-Hungary | 0.10% | ~328 |
+| Avar Khaganate | 0.10% | ~328 |
+| Baa Baa Black Sheep | 0.10% | ~328 |
+| Back in Control | 0.10% | ~328 |
+| Back to the Piast | 0.10% | ~328 |
+| Baltic Crusader | 0.10% | ~328 |
+| These Banners need a Saga | 0.10% | ~328 |
+| Barbarossa | 0.10% | ~328 |
+| Basileus | 0.10% | ~328 |
+| Basque in Glory | 0.10% | ~328 |
+| Bengal Tiger | 0.10% | ~328 |
+| Better than Napoleon | 0.10% | ~328 |
+| Big Blue Blob | 0.10% | ~328 |
+| Black Jack | 0.10% | ~328 |
+| Bleed Them Dry | 0.10% | ~328 |
+| Blood for the Sky God! | 0.10% | ~328 |
+| Breaking the Yoke | 0.10% | ~328 |
+| Brentry! | 0.10% | ~328 |
+| Brick by Brick | 0.10% | ~328 |
+| The Buddhists Strike Back | 0.10% | ~328 |
+| Carthago Delenda Est | 0.10% | ~328 |
+| Center of Attention | 0.10% | ~328 |
+| Cherrypicking | 0.10% | ~328 |
+| Chop Chop | 0.10% | ~328 |
+| Choson One | 0.10% | ~328 |
+| Cities of Cibola | 0.10% | ~328 |
+| Colonial Management | 0.10% | ~328 |
+| Consulate of the Sea | 0.10% | ~328 |
+| Copium Wars | 0.10% | ~328 |
+| Core-fu | 0.10% | ~328 |
+| Cotton Kandy | 0.10% | ~328 |
+| Cowardly Tactics | 0.10% | ~328 |
+| Crossing the Finnish Line | 0.10% | ~328 |
+| Czechs and Balances | 0.10% | ~328 |
+| Dar al-Islam | 0.10% | ~328 |
+| David the Builder | 0.10% | ~328 |
+| Definitely the Sultan of Rum | 0.10% | ~328 |
+| Die Please Die | 0.10% | ~328 |
+| Disciples of Enlightenment | 0.10% | ~328 |
+| Don’t be Cilli | 0.10% | ~328 |
+| Dovmont's Own | 0.10% | ~328 |
+| Dracula's Revenge | 0.10% | ~328 |
+| Dude, Where's my Boat? | 0.10% | ~328 |
+| Early-Modern Warfare | 0.10% | ~328 |
+| Eat your Greens | 0.10% | ~328 |
+| Emperor of Hindustan | 0.10% | ~328 |
+| Empire of Mann | 0.10% | ~328 |
+| Even Better than Piet Heyn | 0.10% | ~328 |
+| Everything's Coming Up Mulhouse | 0.10% | ~328 |
+| Fanatic Collectivist | 0.10% | ~328 |
+| The Fezzan Corridors | 0.10% | ~328 |
+| Fine Financials | 0.10% | ~328 |
+| A Fine Goosestep | 0.10% | ~328 |
+| First Come, First Serve | 0.10% | ~328 |
+| The First Toungoo Empire | 0.10% | ~328 |
+| For Odin! | 0.10% | ~328 |
+| For the Emperor! | 0.10% | ~328 |
+| Forever Golden | 0.10% | ~328 |
+| Forgive me, for I have Sindh | 0.10% | ~328 |
+| Foul Mouthed | 0.10% | ~328 |
+| Four For Trade | 0.10% | ~328 |
+| From Frankfurt to the Andes | 0.10% | ~328 |
+| From Humble Origins | 0.10% | ~328 |
+| Frozen Assets | 0.10% | ~328 |
+| Fugger Banking | 0.10% | ~328 |
+| Full House | 0.10% | ~328 |
+| Ganges Khan | 0.10% | ~328 |
+| Georgia on my Mind | 0.10% | ~328 |
+| Global Hegemony | 0.10% | ~328 |
+| God Tier | 0.10% | ~328 |
+| Gold Rush | 0.10% | ~328 |
+| Golden Horn | 0.10% | ~328 |
+| Golden Wind | 0.10% | ~328 |
+| Good King Renee | 0.10% | ~328 |
+| Grand Coalition | 0.10% | ~328 |
+| Grand Duchy | 0.10% | ~328 |
+| I'll graze my horse here.. And here… | 0.10% | ~328 |
+| Great Moravia | 0.10% | ~328 |
+| Guarantor of Peace | 0.10% | ~328 |
+| Hanukkah Mutapa | 0.10% | ~328 |
+| Hard Bargaining | 0.10% | ~328 |
+| Hessian Mercenaries | 0.10% | ~328 |
+| Hoarder | 0.10% | ~328 |
+| Holiest Roman Empire | 0.10% | ~328 |
+| Holy Horder | 0.10% | ~328 |
+| Holy Trinity | 0.10% | ~328 |
+| Home and Away | 0.10% | ~328 |
+| Ideas Guy | 0.10% | ~328 |
+| Imperio español | 0.10% | ~328 |
+| Imposter Syndrome | 0.10% | ~328 |
+| In the Name of the Father | 0.10% | ~328 |
+| An Industrial Evolution | 0.10% | ~328 |
+| Industrial Powerhouse | 0.10% | ~328 |
+| The Iron Price | 0.10% | ~328 |
+| Italian Ambition | 0.10% | ~328 |
+| It's All Greek To Me | 0.10% | ~328 |
+| Je maintiendrai | 0.10% | ~328 |
+| Just a Little Patience | 0.10% | ~328 |
+| Just Resting In My Account | 0.10% | ~328 |
+| A Kaiser not just in name | 0.10% | ~328 |
+| Keep the Flame Burning | 0.10% | ~328 |
+| KHAAAAAAN | 0.10% | ~328 |
+| King of Jerusalem | 0.10% | ~328 |
+| Kingdom of God | 0.10% | ~328 |
+| Kinslayer | 0.10% | ~328 |
+| Kirishitan Japan | 0.10% | ~328 |
+| Knights of the Caribbean | 0.10% | ~328 |
+| Kow-Tow | 0.10% | ~328 |
+| Krabater | 0.10% | ~328 |
+| Kuban Cigars | 0.10% | ~328 |
+| Kushite Restoration | 0.10% | ~328 |
+| Land of Eastern Jade | 0.10% | ~328 |
+| Laughingstock | 0.10% | ~328 |
+| Lazarus | 0.10% | ~328 |
+| Lessons of Hemmingstedt | 0.10% | ~328 |
+| Let It Go! | 0.10% | ~328 |
+| The Levant Turnabout | 0.10% | ~328 |
+| Liberty or Death | 0.10% | ~328 |
+| Lion of the North | 0.10% | ~328 |
+| Live Long and Prosper | 0.10% | ~328 |
+| Luck of the Irish | 0.10% | ~328 |
+| Lucky Lucca | 0.10% | ~328 |
+| Made in Japan | 0.10% | ~328 |
+| Magellan’s Voyage | 0.10% | ~328 |
+| Maharana Pratap | 0.10% | ~328 |
+| Mansa Musa | 0.10% | ~328 |
+| Mare Nostrum | 0.10% | ~328 |
+| Marshy March | 0.10% | ~328 |
+| Mary of Lotharingia | 0.10% | ~328 |
+| Master of India | 0.10% | ~328 |
+| Mehmet's Ambition | 0.10% | ~328 |
+| Mewar Never Changes | 0.10% | ~328 |
+| Multiculturalism | 0.10% | ~328 |
+| My True Friend | 0.10% | ~328 |
+| Napoleon’s Ambition | 0.10% | ~328 |
+| Narcissism | 0.10% | ~328 |
+| Neither Holy, Nor German | 0.10% | ~328 |
+| Networking | 0.10% | ~328 |
+| Never say Nevers | 0.10% | ~328 |
+| New, New Deli | 0.10% | ~328 |
+| No Country for Old Tercios | 0.10% | ~328 |
+| No Pirates in my Caribbean | 0.10% | ~328 |
+| Nobody wants to die | 0.10% | ~328 |
+| Not just Pizza | 0.10% | ~328 |
+| Not so sad a state... | 0.10% | ~328 |
+| On the Edge of Madness | 0.10% | ~328 |
+| On the Rhodes Again | 0.10% | ~328 |
+| One Faith | 0.10% | ~328 |
+| One King to Rule! | 0.10% | ~328 |
+| One Night in Paris | 0.10% | ~328 |
+| Østindisk Kompagni Te | 0.10% | ~328 |
+| Over a Thousand! | 0.10% | ~328 |
+| Pandya Empire | 0.10% | ~328 |
+| Parisian Pasha | 0.10% | ~328 |
+| Philippine Tiger | 0.10% | ~328 |
+| Pirate Bay of Janjira | 0.10% | ~328 |
+| Poland can into space | 0.10% | ~328 |
+| Prester John | 0.10% | ~328 |
+| The Prince of Egypt | 0.10% | ~328 |
+| Protect the Secret | 0.10% | ~328 |
+| Purify the Temple | 0.10% | ~328 |
+| Pyramid of Skulls | 0.10% | ~328 |
+| Qing of China | 0.10% | ~328 |
+| Queen of Mercury | 0.10% | ~328 |
+| Rags and Riches | 0.10% | ~328 |
+| The Reapers | 0.10% | ~328 |
+| Redecorating | 0.10% | ~328 |
+| Rekindling the Flames | 0.10% | ~328 |
+| Relentless Push East | 0.10% | ~328 |
+| Rise of the White Sheep | 0.10% | ~328 |
+| Rozwi Empire | 0.10% | ~328 |
+| Sailor Mon | 0.10% | ~328 |
+| Sakoku Law | 0.10% | ~328 |
+| Saladins Legacy | 0.10% | ~328 |
+| Foremost Servitor of Jagannath | 0.10% | ~328 |
+| Shahanshah | 0.10% | ~328 |
+| Shemot is Not | 0.10% | ~328 |
+| Sikh Pun | 0.10% | ~328 |
+| Sinaasappel! | 0.10% | ~328 |
+| The Six Nations | 0.10% | ~328 |
+| Sleepless in Seattle | 0.10% | ~328 |
+| Sons of Carthage | 0.10% | ~328 |
+| Spaghetti Western | 0.10% | ~328 |
+| Spain is the Emperor | 0.10% | ~328 |
+| Spanish Fly | 0.10% | ~328 |
+| Spice Girls | 0.10% | ~328 |
+| The Spice Must Flow | 0.10% | ~328 |
+| Stern des Südens | 0.10% | ~328 |
+| Stiff Upper Lippe | 0.10% | ~328 |
+| Strait Talk | 0.10% | ~328 |
+| Subsidize my Love | 0.10% | ~328 |
+| The Sudanese Expedition | 0.10% | ~328 |
+| Sun Invasion | 0.10% | ~328 |
+| The Sun Never Sets on the Indian Empire | 0.10% | ~328 |
+| Sunset Invasion | 0.10% | ~328 |
+| Super Trooper | 0.10% | ~328 |
+| Surfing USA | 0.10% | ~328 |
+| Swahili Persuasion | 0.10% | ~328 |
+| Sweden is not overpowered! | 0.10% | ~328 |
+| Sweet Harmony | 0.10% | ~328 |
+| Sweet Home Qaraqorum | 0.10% | ~328 |
+| Switzerlake | 0.10% | ~328 |
+| Take that, von Habsburgs! | 0.10% | ~328 |
+| Tatarstan | 0.10% | ~328 |
+| Tear Down This Wall | 0.10% | ~328 |
+| Terra Mariana | 0.10% | ~328 |
+| That's a Silk Road | 0.10% | ~328 |
+| That's No Mon | 0.10% | ~328 |
+| The Bohemians | 0.10% | ~328 |
+| The Burgundian Conquest | 0.10% | ~328 |
+| The Chrysanthemum Throne | 0.10% | ~328 |
+| The Coin is Stronger than the Sword | 0.10% | ~328 |
+| The Continuation of Diplomacy | 0.10% | ~328 |
+| The Freest Man in the World | 0.10% | ~328 |
+| The Grand Armada | 0.10% | ~328 |
+| The Great Khan | 0.10% | ~328 |
+| The League of Mayapan | 0.10% | ~328 |
+| The Navigator | 0.10% | ~328 |
+| The Ostenders | 0.10% | ~328 |
+| The Power of Three | 0.10% | ~328 |
+| The Re-Reconquista | 0.10% | ~328 |
+| The Rising Sun | 0.10% | ~328 |
+| The Third Way | 0.10% | ~328 |
+| The Three Mountains | 0.10% | ~328 |
+| The Uncommonwealth | 0.10% | ~328 |
+| The White Company | 0.10% | ~328 |
+| This is fine | 0.10% | ~328 |
+| This is My Faith | 0.10% | ~328 |
+| This is Persia! | 0.10% | ~328 |
+| This Revolution Was Crushed | 0.10% | ~328 |
+| Three Trivial Tributary Tribes | 0.10% | ~328 |
+| Tiger of Mysore | 0.10% | ~328 |
+| To the Bone | 0.10% | ~328 |
+| Trade Hegemon | 0.10% | ~328 |
+| Triple the Rome | 0.10% | ~328 |
+| Trophy Hunter | 0.10% | ~328 |
+| True Heir of Timur | 0.10% | ~328 |
+| Turn the Table | 0.10% | ~328 |
+| Turning the Tide | 0.10% | ~328 |
+| Turtles all the way down | 0.10% | ~328 |
+| Ultimate Military | 0.10% | ~328 |
+| Vasa or Wettin? | 0.10% | ~328 |
+| Venetian Sea | 0.10% | ~328 |
+| Victorian Three | 0.10% | ~328 |
+| Viva la Revolución! | 0.10% | ~328 |
+| Voltaire's Nightmare | 0.10% | ~328 |
+| Voting Streak | 0.10% | ~328 |
+| We bled for this | 0.10% | ~328 |
+| Where are the penguins? | 0.10% | ~328 |
+| Where the heart is | 0.10% | ~328 |
+| The White Elephant | 0.10% | ~328 |
+| Why is the Rûm gone!? | 0.10% | ~328 |
+| Winged Hussars | 0.10% | ~328 |
+| Wonderful | 0.10% | ~328 |
+| World Conqueror | 0.10% | ~328 |
+| World Discoverer | 0.10% | ~328 |
+| Yarr Harr a Pirate's Life For Me | 0.10% | ~328 |
+| You Get A New Home, And You Get A New Home | 0.10% | ~328 |
 | Bunte Kuh | 0.00% | ~0 |
 | Gothic Invasion | 0.00% | ~0 |
 | Great Perm | 0.00% | ~0 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 326,874 (Ranked 42)  
+Progressed: 327,880 (Ranked 42)  
 Completed: 0 (0.00%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -480,7 +480,7 @@ Completed: 0 (0.00%) (Ranked 258)
 | 2023-08-14 | 278,277 | 0 |
 | 2023-08-15 | 299,528 | 0 |
 | 2023-08-16 | 319,424 | 0 |
-| 2023-08-17 | 326,874 | 0 |
+| 2023-08-17 | 327,880 | 0 |
 ## Awards
 Max (Educational): 5,682  (Ranked 62)  
 Sum: 46,972 (Ranked 26)  

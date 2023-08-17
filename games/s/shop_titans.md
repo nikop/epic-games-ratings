@@ -30,6 +30,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Accomplished Merchant | 0.40% | ~539 |
 | Dungeon Imports | 0.40% | ~539 |
 | Did we pack lunch? | 0.40% | ~539 |
+| Arcane Industries | 0.40% | ~539 |
 | On the Path to Greatness | 0.30% | ~404 |
 | Ascended | 0.30% | ~404 |
 | Research & Development | 0.30% | ~404 |
@@ -44,7 +45,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Helping Hand | 0.30% | ~404 |
 | Natural 20 | 0.30% | ~404 |
 | Magical Harmony | 0.30% | ~404 |
-| Arcane Industries | 0.30% | ~404 |
 | A Notch Above the Rest | 0.20% | ~269 |
 | Cream of the Crop | 0.20% | ~269 |
 | Top of the World | 0.20% | ~269 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.10% | ~135 |
 | All Accounted For | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,643 (Ranked 66)  
+Progressed: 134,647 (Ranked 66)  
 Completed: 133 (0.10%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,7 +238,7 @@ Completed: 133 (0.10%) (Ranked 205)
 | 2023-08-14 | 134,532 | 132 |
 | 2023-08-15 | 134,574 | 132 |
 | 2023-08-16 | 134,622 | 133 |
-| 2023-08-17 | 134,643 | 133 |
+| 2023-08-17 | 134,647 | 133 |
 ## Awards
 Max (Great for Beginners): 4,701  (Ranked 71)  
 Sum: 27,105 (Ranked 46)  

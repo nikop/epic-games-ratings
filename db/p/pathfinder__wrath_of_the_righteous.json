@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 258,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3458,9 +3458,9 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 10975,
+  "EOS_Progressed": 10976,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10863,6 +10863,11 @@
       "Time": "2023-08-17T09:05:41.1195377+00:00",
       "NumProgressed": 10975,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-17T13:07:23.3191955+00:00",
+      "NumProgressed": 10976,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -10906,7 +10911,7 @@
       "Name": "Embrace of the Abyss",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "06_HeartOfFallenLand",
@@ -10930,7 +10935,7 @@
       "Name": "Path of the Angel",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "09_PathOfDemon",
@@ -11801,21 +11806,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9757,
+      "Progressed": 9758,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10975,
+      "Progressed": 10976,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-08-16T16:00:10.3233012+00:00",
-  "LastChanged_Achievements": "2023-08-17T12:04:47.5452539+00:00",
+  "LastChanged_Achievements": "2023-08-17T13:07:23.3191946+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:11.5447906+00:00",
-  "LastUpdate_Ratings": "2023-08-17T11:59:43.7739016+00:00",
-  "LastUpdate_Achievements": "2023-08-17T12:04:47.5455332+00:00"
+  "LastUpdate_Ratings": "2023-08-17T13:02:16.5096562+00:00",
+  "LastUpdate_Achievements": "2023-08-17T13:07:23.3194081+00:00"
 }

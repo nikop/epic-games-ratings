@@ -4,8 +4,8 @@
   "ProductSlug": "endling-extinction-is-forever",
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 479,
+  "EOS_Progressed": 480,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.63,
+  "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:20.8598224+00:00",
@@ -601,6 +601,11 @@
       "Time": "2023-08-16T11:05:23.3082602+00:00",
       "NumProgressed": 479,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-17T13:07:48.5535887+00:00",
+      "NumProgressed": 480,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -652,7 +657,7 @@
       "Name": "A Friend in Need",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "TROP006",
@@ -676,7 +681,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "TROP009",
@@ -780,7 +785,7 @@
       "Name": "Tasty",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "TROP022",
@@ -820,7 +825,7 @@
       "Name": "Lullaby",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "TROP027",
@@ -835,7 +840,7 @@
     {
       "ID": "9n0dl35",
       "IsBase": true,
-      "Progressed": 479,
+      "Progressed": 480,
       "Completed": 3
     }
   ],
@@ -843,8 +848,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2023-08-17T12:05:13.0177869+00:00",
+  "LastChanged_Achievements": "2023-08-17T13:07:48.553588+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:40.342585+00:00",
-  "LastUpdate_Ratings": "2023-08-17T12:00:06.5741116+00:00",
-  "LastUpdate_Achievements": "2023-08-17T12:05:13.0178081+00:00"
+  "LastUpdate_Ratings": "2023-08-17T13:02:38.2093655+00:00",
+  "LastUpdate_Achievements": "2023-08-17T13:07:48.5536133+00:00"
 }

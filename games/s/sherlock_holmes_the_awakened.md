@@ -5,27 +5,27 @@ Rating: 4.68 (Ranked 238)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| To Hell In A Handcart | 67.00% | ~402 |
-| Read Between The Lines | 65.00% | ~390 |
-| High Profile | 60.00% | ~360 |
-| Whispers In The Dark | 58.00% | ~348 |
-| Fond Memories | 56.00% | ~336 |
-| A Method To His Madness | 55.00% | ~330 |
-| History Check | 54.00% | ~324 |
+| To Hell In A Handcart | 67.00% | ~403 |
+| Read Between The Lines | 65.00% | ~391 |
+| High Profile | 59.00% | ~355 |
+| Whispers In The Dark | 58.00% | ~349 |
+| Fond Memories | 56.00% | ~337 |
+| History Check | 54.00% | ~325 |
+| A Method To His Madness | 54.00% | ~325 |
 | The New World | 50.00% | ~300 |
 | Lock, Stock, And Barrel | 49.00% | ~294 |
 | Gaze Into The Abyss | 49.00% | ~294 |
 | Open Sesame | 49.00% | ~294 |
 | Sticky Fingers | 49.00% | ~294 |
 | Knives Out | 49.00% | ~294 |
-| Land, Ho! | 49.00% | ~294 |
 | Back In The Saddle | 48.00% | ~288 |
+| Land, Ho! | 48.00% | ~288 |
 | No Man Is An Island | 47.00% | ~282 |
 | At Wits' End | 46.00% | ~276 |
 | Fhtagn! | 45.00% | ~270 |
 | Bookworm | 44.00% | ~264 |
 | Up In Flames | 44.00% | ~264 |
-| Going Once... | 41.00% | ~246 |
+| Going Once... | 40.00% | ~240 |
 | Let Me Be Frank | 40.00% | ~240 |
 | Brain Food | 38.00% | ~228 |
 | No Stone Unturned | 37.00% | ~222 |
@@ -34,8 +34,8 @@ Rating: 4.68 (Ranked 238)
 | Big Breakthrough | 14.00% | ~84 |
 | Reawakened | 5.00% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 600 (Ranked 218)  
-Completed: 25 (4.17%) (Ranked 57)  
+Progressed: 601 (Ranked 218)  
+Completed: 25 (4.16%) (Ranked 58)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -143,6 +143,7 @@ Completed: 25 (4.17%) (Ranked 57)
 | 2023-08-14 | 597 | 25 |
 | 2023-08-15 | 598 | 25 |
 | 2023-08-16 | 600 | 25 |
+| 2023-08-17 | 601 | 25 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

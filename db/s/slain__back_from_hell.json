@@ -2,13 +2,13 @@
   "ID": "5a85738bd9e74940ad8409ed8a2c680a",
   "Name": "Slain: Back From Hell",
   "ProductSlug": "slain-aea303",
-  "Ranking_Rating": 793,
+  "Ranking_Rating": 794,
   "Ranking_Popularity": 310,
   "Ranking_PopularitySum": 403,
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 217,
   "Ranking_EOS_NewPlayers": 55,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -217,7 +217,7 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 34177,
+  "EOS_Progressed": 34183,
   "EOS_Completed": 21,
   "EOS_NewPlayers": 871,
   "EOS_NewCompleters": 0,
@@ -13262,6 +13262,11 @@
       "Time": "2023-08-17T12:05:42.8727327+00:00",
       "NumProgressed": 34177,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-08-17T13:08:18.4274474+00:00",
+      "NumProgressed": 34183,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 29,
@@ -13281,7 +13286,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 6835
+      "UsersEstimate": 6837
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -13504,7 +13509,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 34177,
+      "Progressed": 34183,
       "Completed": 21
     }
   ],
@@ -13512,8 +13517,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-08-12T21:03:39.1122054+00:00",
-  "LastChanged_Achievements": "2023-08-17T12:05:42.8727323+00:00",
+  "LastChanged_Achievements": "2023-08-17T13:08:18.4274466+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:57.7890504+00:00",
-  "LastUpdate_Ratings": "2023-08-17T11:57:21.7030414+00:00",
-  "LastUpdate_Achievements": "2023-08-17T12:05:42.8729274+00:00"
+  "LastUpdate_Ratings": "2023-08-17T13:00:04.648605+00:00",
+  "LastUpdate_Achievements": "2023-08-17T13:08:18.4275468+00:00"
 }

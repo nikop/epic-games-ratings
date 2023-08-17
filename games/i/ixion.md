@@ -6,12 +6,12 @@ Rating: 4.56 (Ranked 471)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 26.00% | ~800 |
-| Sputnik 2049 | 22.00% | ~676 |
+| Sputnik 2049 | 22.00% | ~677 |
 | Infinite Growth... | 21.00% | ~646 |
 | Without Breaking Some Eggs... | 20.00% | ~615 |
-| Space Society | 15.00% | ~461 |
 | A Thousand Strong | 15.00% | ~461 |
 | Ready for a New World | 15.00% | ~461 |
+| Space Society | 14.00% | ~431 |
 | Permanent Redesigns | 13.00% | ~400 |
 | Guy de Borderlands | 11.00% | ~338 |
 | Fully Recycled | 11.00% | ~338 |
@@ -24,8 +24,8 @@ Rating: 4.56 (Ranked 471)
 | Man's Best Friend | 7.00% | ~215 |
 | Power Outage | 7.00% | ~215 |
 | Please Make it Stop! | 7.00% | ~215 |
-| Sightseeing | 6.00% | ~184 |
-| Convenient Transport | 6.00% | ~184 |
+| Sightseeing | 6.00% | ~185 |
+| Convenient Transport | 6.00% | ~185 |
 | Access Granted | 5.00% | ~154 |
 | Necessary Enhancement | 5.00% | ~154 |
 | From the Past | 5.00% | ~154 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 471)
 | Beyond Time and Space | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,075 (Ranked 157)  
+Progressed: 3,076 (Ranked 157)  
 Completed: 0 (0.00%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,6 +181,7 @@ Completed: 0 (0.00%) (Ranked 258)
 | 2023-08-13 | 3,068 | 0 |
 | 2023-08-15 | 3,071 | 0 |
 | 2023-08-16 | 3,075 | 0 |
+| 2023-08-17 | 3,076 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

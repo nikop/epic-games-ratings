@@ -6,9 +6,9 @@
   "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 218,
-  "Ranking_EOS_Completed": 57,
-  "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_Completed": 58,
+  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -64,11 +64,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 600,
+  "EOS_Progressed": 601,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.17,
+  "EOS_Completed_Percentage": 4.16,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -2119,6 +2119,11 @@
       "Time": "2023-08-16T21:03:42.521686+00:00",
       "NumProgressed": 600,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-08-17T13:06:22.6135956+00:00",
+      "NumProgressed": 601,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 28,
@@ -2130,7 +2135,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "MQ01_2",
@@ -2138,15 +2143,15 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 67,
       "XP": 40,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "MQ02_1",
       "SetID": "bbing49",
       "Name": "High Profile",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 360
+      "UsersEstimate": 355
     },
     {
       "ID": "MQ02_2",
@@ -2170,7 +2175,7 @@
       "Name": "Whispers In The Dark",
       "Percentage": 58,
       "XP": 40,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "MQ03_1",
@@ -2178,7 +2183,7 @@
       "Name": "Fond Memories",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "MQ03_2",
@@ -2194,7 +2199,7 @@
       "Name": "History Check",
       "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "MQ03_4",
@@ -2208,17 +2213,17 @@
       "ID": "MQ03_5",
       "SetID": "bbing49",
       "Name": "A Method To His Madness",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 330
+      "UsersEstimate": 325
     },
     {
       "ID": "MQ04_1",
       "SetID": "bbing49",
       "Name": "Going Once...",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 246
+      "UsersEstimate": 240
     },
     {
       "ID": "MQ04_2",
@@ -2288,9 +2293,9 @@
       "ID": "MQ06_3",
       "SetID": "bbing49",
       "Name": "Land, Ho!",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 294
+      "UsersEstimate": 288
     },
     {
       "ID": "MQ06_4",
@@ -2353,7 +2358,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 600,
+      "Progressed": 601,
       "Completed": 25
     }
   ],
@@ -2361,8 +2366,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-08-14T02:12:32.7608826+00:00",
-  "LastChanged_Achievements": "2023-08-17T12:03:46.5554268+00:00",
+  "LastChanged_Achievements": "2023-08-17T13:06:22.6135948+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:13.1188045+00:00",
-  "LastUpdate_Ratings": "2023-08-17T11:58:44.2228253+00:00",
-  "LastUpdate_Achievements": "2023-08-17T12:03:46.5554628+00:00"
+  "LastUpdate_Ratings": "2023-08-17T13:01:17.455791+00:00",
+  "LastUpdate_Achievements": "2023-08-17T13:06:22.6136337+00:00"
 }

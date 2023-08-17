@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 258,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 940,
+  "EOS_Progressed": 942,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
@@ -3301,6 +3301,11 @@
       "Time": "2023-08-17T12:03:34.6055773+00:00",
       "NumProgressed": 940,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-17T13:06:10.209177+00:00",
+      "NumProgressed": 942,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -3416,7 +3421,7 @@
       "Name": "Facility Online",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -3430,9 +3435,9 @@
       "ID": "objective_hero_level_up_2",
       "SetID": "bm61c2p",
       "Name": "Sergeant",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 122
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -3440,7 +3445,7 @@
       "Name": "Lieutenant",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -3536,7 +3541,7 @@
       "Name": "On Target",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -3590,7 +3595,7 @@
       "ID": "objective_research_unlock_heavy_infantry_tier_4",
       "SetID": "bm61c2p",
       "Name": "Shock Troops",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -3615,14 +3620,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 940,
+      "Progressed": 942,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-17T12:03:34.6055768+00:00",
+  "LastChanged_Achievements": "2023-08-17T13:06:10.2091761+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:27.4280109+00:00",
-  "LastUpdate_Ratings": "2023-08-17T11:57:53.4283177+00:00",
-  "LastUpdate_Achievements": "2023-08-17T12:03:34.6056384+00:00"
+  "LastUpdate_Ratings": "2023-08-17T13:00:35.1728688+00:00",
+  "LastUpdate_Achievements": "2023-08-17T13:06:10.2092265+00:00"
 }

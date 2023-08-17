@@ -4,8 +4,8 @@
   "ProductSlug": "perish-390141",
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-02-02T14:00:00+00:00",
     "PcReleaseDate": "2023-02-02T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3374,
+  "EOS_Progressed": 3375,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2588,6 +2588,11 @@
       "Time": "2023-08-17T04:06:21.3645384+00:00",
       "NumProgressed": 3374,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-17T13:08:05.4851449+00:00",
+      "NumProgressed": 3375,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 63,
@@ -2615,7 +2620,7 @@
       "Name": "Wayward Son of Hephaestus",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ACH_B_K",
@@ -2631,7 +2636,7 @@
       "Name": "Lament of the Constellations",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ACH_ELY",
@@ -2655,7 +2660,7 @@
       "Name": "Forged in Fire",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ACH_GE",
@@ -2703,7 +2708,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ACH_M_AI",
@@ -2759,7 +2764,7 @@
       "Name": "The Midas Touch",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ACH_M_D5",
@@ -2783,7 +2788,7 @@
       "Name": "Hipparchia\u0027s Labour",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_M_PW",
@@ -2831,7 +2836,7 @@
       "Name": "Hapax Legomenon",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ACH_OB_CC",
@@ -2839,7 +2844,7 @@
       "Name": "Don\u0027t Pay the Ferryman",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ACH_OB_CR",
@@ -2879,7 +2884,7 @@
       "Name": "Veneration of Hephaestus",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ACH_OB_FT",
@@ -2919,7 +2924,7 @@
       "Name": "Vandili",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ACH_OB_RE",
@@ -2927,7 +2932,7 @@
       "Name": "No Scylla in Sight",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ACH_OB_SC",
@@ -2943,7 +2948,7 @@
       "Name": "Cloaca Maxima",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ACH_OB_TDS",
@@ -2991,7 +2996,7 @@
       "Name": "Debauchery",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_R_P",
@@ -2999,7 +3004,7 @@
       "Name": "Blessing of Spring",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_TAR",
@@ -3015,7 +3020,7 @@
       "Name": "Baby Crabs They Ain\u0027t",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ACH_TOTN",
@@ -3039,7 +3044,7 @@
       "Name": "Mors Omnibus",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "KA2",
@@ -3055,7 +3060,7 @@
       "Name": "Interrupt the Interloper",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "KC",
@@ -3063,7 +3068,7 @@
       "Name": "Elephantine",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "KF",
@@ -3071,7 +3076,7 @@
       "Name": "Blot Out the Sky",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "KK",
@@ -3102,7 +3107,7 @@
     {
       "ID": "b3fep3o",
       "IsBase": true,
-      "Progressed": 3374,
+      "Progressed": 3375,
       "Completed": 0
     }
   ],
@@ -3110,8 +3115,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-08-17T12:05:30.0224203+00:00",
+  "LastChanged_Achievements": "2023-08-17T13:08:05.485144+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:41.1938813+00:00",
-  "LastUpdate_Ratings": "2023-08-17T11:57:15.4636127+00:00",
-  "LastUpdate_Achievements": "2023-08-17T12:05:30.0224915+00:00"
+  "LastUpdate_Ratings": "2023-08-17T12:59:58.5414487+00:00",
+  "LastUpdate_Achievements": "2023-08-17T13:08:05.4852251+00:00"
 }

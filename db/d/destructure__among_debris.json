@@ -3,9 +3,9 @@
   "Name": "DESTRUCTURE: Among Debris",
   "ProductSlug": "destructure-among-debris-b4aaf8",
   "Ranking_EOS_Progress": 300,
-  "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 246,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_Completed": 132,
+  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-04-27T13:00:00+00:00",
     "PcReleaseDate": "2023-04-27T13:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 160,
+  "EOS_Progressed": 161,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -758,6 +758,11 @@
       "Time": "2023-08-15T09:06:25.5457222+00:00",
       "NumProgressed": 160,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-17T13:08:37.8971886+00:00",
+      "NumProgressed": 161,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 31,
@@ -841,15 +846,15 @@
       "Name": "You Have Been Deaded",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "easy_victory",
       "SetID": "jig50d",
       "Name": "Easy Victory",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "graduation",
@@ -857,7 +862,7 @@
       "Name": "Graduation",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "i_prefer_fusion_jazz",
@@ -911,9 +916,9 @@
       "ID": "monster_of_fashion",
       "SetID": "jig50d",
       "Name": "Monster of Fashion",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "mushroom_man",
@@ -937,23 +942,23 @@
       "Name": "Rookie",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "scrap_collector",
       "SetID": "jig50d",
       "Name": "Scrap Collector",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "single_person",
       "SetID": "jig50d",
       "Name": "Single Person On Earth",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 150,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "ticking_clock",
@@ -1016,7 +1021,7 @@
     {
       "ID": "jig50d",
       "IsBase": true,
-      "Progressed": 160,
+      "Progressed": 161,
       "Completed": 1
     }
   ],
@@ -1024,8 +1029,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-08-17T12:06:02.3363667+00:00",
+  "LastChanged_Achievements": "2023-08-17T13:08:37.8971879+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:58:00.7268441+00:00",
-  "LastUpdate_Ratings": "2023-08-17T11:57:23.8200796+00:00",
-  "LastUpdate_Achievements": "2023-08-17T12:06:02.3363952+00:00"
+  "LastUpdate_Ratings": "2023-08-17T13:00:06.6428021+00:00",
+  "LastUpdate_Achievements": "2023-08-17T13:08:37.8972178+00:00"
 }

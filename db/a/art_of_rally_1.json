@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
     "PcReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10202,
+  "EOS_Progressed": 10203,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1306,6 +1306,11 @@
       "Time": "2023-08-15T14:05:35.4753663+00:00",
       "NumProgressed": 10202,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-17T13:08:29.1743991+00:00",
+      "NumProgressed": 10203,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -1325,7 +1330,7 @@
       "Name": "to finish first, first you must finish",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 2142
+      "UsersEstimate": 2143
     },
     {
       "ID": "ACH_ABSOLUTE_DRIFT",
@@ -1341,7 +1346,7 @@
       "Name": "autopilot",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 2142
+      "UsersEstimate": 2143
     },
     {
       "ID": "ACH_ALL_BONUSES",
@@ -1437,7 +1442,7 @@
       "Name": "turbo",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 2040
+      "UsersEstimate": 2041
     },
     {
       "ID": "ACH_COMPLETE_GROUPA",
@@ -1525,7 +1530,7 @@
       "Name": "brail",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 5815
+      "UsersEstimate": 5816
     },
     {
       "ID": "ACH_FULL_THROTTLE",
@@ -1541,7 +1546,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9794
+      "UsersEstimate": 9795
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -1557,7 +1562,7 @@
       "Name": "medium attack",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 6121
+      "UsersEstimate": 6122
     },
     {
       "ID": "ACH_NIGHT",
@@ -1589,7 +1594,7 @@
       "Name": "you can\u0027t treat a car like a human being. a car requires love",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 2142
+      "UsersEstimate": 2143
     },
     {
       "ID": "ACH_SIMULATOR",
@@ -1629,7 +1634,7 @@
       "Name": "food tour: pretzel",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1938
+      "UsersEstimate": 1939
     },
     {
       "ID": "ACH_TOUR_ITALY",
@@ -1653,22 +1658,22 @@
       "Name": "podium",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 7345
+      "UsersEstimate": 7346
     }
   ],
   "AchievementSets": [
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10202,
+      "Progressed": 10203,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-08-17T12:05:53.58642+00:00",
+  "LastChanged_Achievements": "2023-08-17T13:08:29.1743981+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:13.5775402+00:00",
-  "LastUpdate_Ratings": "2023-08-17T11:58:45.4252333+00:00",
-  "LastUpdate_Achievements": "2023-08-17T12:05:53.5864591+00:00"
+  "LastUpdate_Ratings": "2023-08-17T13:01:18.4972854+00:00",
+  "LastUpdate_Achievements": "2023-08-17T13:08:29.1744405+00:00"
 }

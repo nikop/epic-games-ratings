@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 72,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-10-22T11:18:36+00:00",
     "PcReleaseDate": "2022-10-22T11:18:36+00:00",
@@ -300,9 +300,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 194808,
+  "EOS_Progressed": 194812,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 533,
+  "EOS_NewPlayers": 535,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13100,6 +13100,11 @@
       "Time": "2023-08-17T12:03:57.8738504+00:00",
       "NumProgressed": 194808,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-17T13:06:33.7736089+00:00",
+      "NumProgressed": 194812,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -13119,7 +13124,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 138314
+      "UsersEstimate": 138317
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -13127,7 +13132,7 @@
       "Name": "Flawless Victory",
       "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 9740
+      "UsersEstimate": 9741
     },
     {
       "ID": "ACH_GATED_COMMUNITY",
@@ -13143,7 +13148,7 @@
       "Name": "Initiation",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 35065
+      "UsersEstimate": 35066
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -13191,7 +13196,7 @@
       "Name": "Baby Steps",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 9740
+      "UsersEstimate": 9741
     },
     {
       "ID": "ACH_WIN_50_ONLINE_GAME",
@@ -13231,14 +13236,14 @@
       "Name": "First Co-Op Win",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 9740
+      "UsersEstimate": 9741
     }
   ],
   "AchievementSets": [
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 194808,
+      "Progressed": 194812,
       "Completed": 4
     }
   ],
@@ -13246,8 +13251,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-08-12T15:01:47.6654015+00:00",
-  "LastChanged_Achievements": "2023-08-17T12:03:57.8738501+00:00",
+  "LastChanged_Achievements": "2023-08-17T13:06:33.7736082+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:36.9380677+00:00",
-  "LastUpdate_Ratings": "2023-08-17T12:00:42.9136153+00:00",
-  "LastUpdate_Achievements": "2023-08-17T12:03:57.8739859+00:00"
+  "LastUpdate_Ratings": "2023-08-17T13:05:05.7777986+00:00",
+  "LastUpdate_Achievements": "2023-08-17T13:06:33.7736872+00:00"
 }

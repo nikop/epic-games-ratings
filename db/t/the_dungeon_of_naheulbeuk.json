@@ -654,9 +654,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 213518,
+  "EOS_Progressed": 213541,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3795,
+  "EOS_NewPlayers": 3787,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7249,6 +7249,11 @@
       "Time": "2023-08-17T12:05:03.122273+00:00",
       "NumProgressed": 213518,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-17T13:07:38.4680905+00:00",
+      "NumProgressed": 213541,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -7282,9 +7287,9 @@
       "ID": "BarbarianEpic",
       "SetID": "50chcgj",
       "Name": "Shiny and Cr\u00F4m",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 641
+      "UsersEstimate": 854
     },
     {
       "ID": "BarbarianKillUsingBow",
@@ -7708,7 +7713,7 @@
       "Name": "Sowwy!",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 34163
+      "UsersEstimate": 34167
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -7963,21 +7968,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 213518,
+      "Progressed": 213541,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 213518,
+      "Progressed": 213541,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-16T17:00:43.9765875+00:00",
-  "LastChanged_Achievements": "2023-08-17T12:05:03.1222718+00:00",
+  "LastChanged_Achievements": "2023-08-17T13:07:38.4680898+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:49.6773731+00:00",
-  "LastUpdate_Ratings": "2023-08-17T12:00:15.805458+00:00",
-  "LastUpdate_Achievements": "2023-08-17T12:05:03.1224198+00:00"
+  "LastUpdate_Ratings": "2023-08-17T13:02:46.0917479+00:00",
+  "LastUpdate_Achievements": "2023-08-17T13:07:38.4682384+00:00"
 }

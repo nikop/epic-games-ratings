@@ -15,7 +15,7 @@
 | Is this the end? | 25.00% | ~68 |
 | A gift horse | 25.00% | ~68 |
 | You sssaved me | 24.00% | ~66 |
-| Say hello to my little friends | 21.00% | ~57 |
+| Say hello to my little friends | 22.00% | ~60 |
 | Gotcha | 19.00% | ~52 |
 | Heal thyself | 19.00% | ~52 |
 | Double trouble | 16.00% | ~44 |
