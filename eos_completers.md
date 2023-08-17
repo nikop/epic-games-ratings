@@ -90,7 +90,7 @@
 | 88 | [Bloodshore](games/b/bloodshore.md) | 2.21% |
 | 89 | [FORECLOSED](games/f/foreclosed.md) | 2.17% |
 | 90 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.02% |
-| 91 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.96% |
+| 91 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.94% |
 | 92 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.92% |
 | 93 | [Night Book](games/n/night_book.md) | 1.89% |
 | 94 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
@@ -110,9 +110,9 @@
 | 108 | [Infindustry](games/i/infindustry.md) | 1.30% |
 | 108 | [Late Shift](games/l/late_shift.md) | 1.30% |
 | 110 | [Chorus](games/c/chorus.md) | 1.15% |
-| 111 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.10% |
 | 111 | [Trifox](games/t/trifox.md) | 1.10% |
-| 113 | [A Musical Story](games/a/a_musical_story.md) | 1.09% |
+| 112 | [A Musical Story](games/a/a_musical_story.md) | 1.09% |
+| 112 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.09% |
 | 114 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.04% |
 | 115 | [Adios](games/a/adios.md) | 1.01% |
 | 115 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.01% |

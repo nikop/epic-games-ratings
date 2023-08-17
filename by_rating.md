@@ -108,7 +108,7 @@
 | 100 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 931 | 148 |
 | 100 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.78 | 0 | 512 |
 | 108 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 4,111 | 80 |
-| 108 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 6,687 | 53 |
+| 108 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 6,698 | 52 |
 | 108 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 21,780 | 17 |
 | 108 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.77 | 38 | 428 |
 | 108 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 0 | 512 |
@@ -126,7 +126,7 @@
 | 117 | [Outlast](games/o/outlast.md) | 4.76 | 0 | 512 |
 | 117 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,701 | 117 |
 | 117 | [Quake](games/q/quake.md) | 4.76 | 49 | 405 |
-| 117 | [Remnant 2](games/r/remnant_2.md) | 4.76 | 875 | 151 |
+| 117 | [Remnant 2](games/r/remnant_2.md) | 4.76 | 911 | 151 |
 | 117 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.76 | 0 | 512 |
 | 117 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 9,960 | 36 |
 | 117 | [SpiderHeck](games/s/spiderheck.md) | 4.76 | 0 | 512 |
@@ -309,7 +309,7 @@
 | 299 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.65 | 0 | 512 |
 | 299 | [Old World](games/o/old_world.md) | 4.65 | 219 | 264 |
 | 299 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.65 | 0 | 512 |
-| 299 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 28,782 | 16 |
+| 299 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 28,786 | 16 |
 | 299 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 24 | 483 |
 | 299 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.65 | 0 | 512 |
 | 299 | [Tennis Manager 2022](games/t/tennis_manager_2022.md) | 4.65 | 0 | 512 |
@@ -383,7 +383,7 @@
 | 363 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 105 | 330 |
 | 363 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 484 | 199 |
 | 363 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 9,813 | 37 |
-| 363 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,073 | 138 |
+| 363 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,074 | 138 |
 | 363 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 277 | 243 |
 | 363 | [Supraland](games/s/supraland.md) | 4.61 | 7,671 | 45 |
 | 363 | [The Colonists](games/t/the_colonists.md) | 4.61 | 0 | 512 |
@@ -498,7 +498,7 @@
 | 485 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.55 | 79 | 362 |
 | 485 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.55 | 4,301 | 76 |
 | 485 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,239 | 133 |
-| 499 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 5,668 | 63 |
+| 499 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 5,679 | 63 |
 | 499 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 34 | 441 |
 | 499 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,283 | 131 |
 | 499 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.54 | 67 | 381 |
@@ -643,7 +643,7 @@
 | 633 | [Pathway](games/p/pathway.md) | 4.45 | 0 | 512 |
 | 633 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.45 | 53 | 395 |
 | 633 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.45 | 0 | 512 |
-| 633 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 116 | 322 |
+| 633 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 117 | 322 |
 | 633 | [True Fear: Forsaken Souls Part 2](games/t/true_fear__forsaken_souls_part_2.md) | 4.45 | 0 | 512 |
 | 646 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 0 | 512 |
 | 646 | [ELEX](games/e/elex.md) | 4.44 | 24 | 483 |
@@ -674,7 +674,7 @@
 | 666 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 1,191 | 134 |
 | 666 | [Predecessor](games/p/predecessor.md) | 4.42 | 144 | 300 |
 | 666 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.42 | 0 | 512 |
-| 666 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 52 |
+| 666 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 53 |
 | 666 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 67 | 381 |
 | 666 | [Sheltered](games/s/sheltered.md) | 4.42 | 269 | 247 |
 | 666 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.42 | 0 | 512 |
