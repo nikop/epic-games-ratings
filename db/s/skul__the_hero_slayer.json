@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 253,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -4474,9 +4474,9 @@
       "ID": "Manners",
       "SetID": "97dk767",
       "Name": "Rules of Etiquette",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 3248
+      "UsersEstimate": 3329
     },
     {
       "ID": "RookieWelcome",
@@ -4562,8 +4562,8 @@
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-08-14T16:01:32.2234315+00:00",
-  "LastChanged_Achievements": "2023-08-17T04:07:25.1038741+00:00",
+  "LastChanged_Achievements": "2023-08-17T05:06:52.9648365+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:53.035021+00:00",
-  "LastUpdate_Ratings": "2023-08-17T04:01:13.9761536+00:00",
-  "LastUpdate_Achievements": "2023-08-17T04:07:25.1039109+00:00"
+  "LastUpdate_Ratings": "2023-08-17T05:00:42.3652072+00:00",
+  "LastUpdate_Achievements": "2023-08-17T05:06:52.9648815+00:00"
 }

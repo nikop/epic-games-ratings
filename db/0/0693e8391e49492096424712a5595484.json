@@ -1453,9 +1453,9 @@
       "ID": "BasiliskBroom",
       "SetID": "db30heh",
       "Name": "Sweeping Prop",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 91
+      "UsersEstimate": 95
     },
     {
       "ID": "BasiliskFishingRod",
@@ -1765,9 +1765,9 @@
       "ID": "SleepingBasiliskPistol",
       "SetID": "db30heh",
       "Name": "Knockout",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 63
+      "UsersEstimate": 67
     },
     {
       "ID": "SleepingBasiliskPoppiesBroth",
@@ -1812,8 +1812,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-08-17T04:03:06.8413993+00:00",
+  "LastChanged_Achievements": "2023-08-17T05:03:23.7240828+00:00",
   "LastUpdate_AppInfo": "2023-08-15T16:57:19.7846089+00:00",
-  "LastUpdate_Ratings": "2023-08-17T03:58:27.3143737+00:00",
-  "LastUpdate_Achievements": "2023-08-17T04:03:06.8414596+00:00"
+  "LastUpdate_Ratings": "2023-08-17T04:58:21.7473527+00:00",
+  "LastUpdate_Achievements": "2023-08-17T05:03:23.7241395+00:00"
 }

@@ -574,9 +574,9 @@
       "Count": 216
     }
   ],
-  "EOS_Progressed": 465388,
+  "EOS_Progressed": 465391,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 501,
+  "EOS_NewPlayers": 502,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12904,6 +12904,11 @@
       "Time": "2023-08-17T04:06:31.9468799+00:00",
       "NumProgressed": 465388,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-08-17T05:06:06.9498264+00:00",
+      "NumProgressed": 465391,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 79,
@@ -12915,7 +12920,7 @@
       "Name": "Knightmare Frames",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 69808
+      "UsersEstimate": 69809
     },
     {
       "ID": "achievement_expedition_overcome_sandworm",
@@ -12923,7 +12928,7 @@
       "Name": "May His passing cleanse the world",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 69808
+      "UsersEstimate": 69809
     },
     {
       "ID": "achievement_first_death",
@@ -12931,7 +12936,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 111693
+      "UsersEstimate": 111694
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -12939,7 +12944,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 102385
+      "UsersEstimate": 102386
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -12947,7 +12952,7 @@
       "Name": "Chapter II: Fallible Flesh",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 69808
+      "UsersEstimate": 69809
     },
     {
       "ID": "achievement_story_complete_chapter_3",
@@ -13003,7 +13008,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 307156
+      "UsersEstimate": 307158
     },
     {
       "ID": "achievement_story_landa",
@@ -13011,7 +13016,7 @@
       "Name": "Kill the Doctor",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23269
+      "UsersEstimate": 23270
     },
     {
       "ID": "achievement_story_meet_cryo_rebecca",
@@ -13019,7 +13024,7 @@
       "Name": "Forsaken",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23269
+      "UsersEstimate": 23270
     },
     {
       "ID": "achievement_story_meet_idaho_b",
@@ -13035,7 +13040,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 116347
+      "UsersEstimate": 116348
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -13083,7 +13088,7 @@
       "Name": "Pope Zenon",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 69808
+      "UsersEstimate": 69809
     },
     {
       "ID": "achievement_story_neon_child",
@@ -13099,7 +13104,7 @@
       "Name": "Second Coming",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 153578
+      "UsersEstimate": 153579
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -13115,7 +13120,7 @@
       "Name": "Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23269
+      "UsersEstimate": 23270
     },
     {
       "ID": "achievement_unlock_officer_as_1",
@@ -13323,7 +13328,7 @@
       "Name": "Excelsior Mastery",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 4188
+      "UsersEstimate": 4189
     },
     {
       "ID": "achievement_win_all_chapers_with_starter_hard",
@@ -13339,7 +13344,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 204771
+      "UsersEstimate": 204772
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -13347,7 +13352,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 139616
+      "UsersEstimate": 139617
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -13371,7 +13376,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 181501
+      "UsersEstimate": 181502
     },
     {
       "ID": "achievement_win_run_hard",
@@ -13395,7 +13400,7 @@
       "Name": "Jericho Rule",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23269
+      "UsersEstimate": 23270
     },
     {
       "ID": "achievement_win_run_with_kb",
@@ -13427,7 +13432,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 102385
+      "UsersEstimate": 102386
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -13546,21 +13551,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 9322,
+      "Progressed": 9325,
       "Completed": 2355
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 465388,
+      "Progressed": 465391,
       "Completed": 17
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-08-15T14:00:50.2663605+00:00",
-  "LastChanged_Achievements": "2023-08-17T04:06:31.9468793+00:00",
+  "LastChanged_Achievements": "2023-08-17T05:06:06.9498256+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:04.9098517+00:00",
-  "LastUpdate_Ratings": "2023-08-17T04:01:27.7391119+00:00",
-  "LastUpdate_Achievements": "2023-08-17T04:06:31.947088+00:00"
+  "LastUpdate_Ratings": "2023-08-17T05:00:53.9689945+00:00",
+  "LastUpdate_Achievements": "2023-08-17T05:06:06.9499917+00:00"
 }

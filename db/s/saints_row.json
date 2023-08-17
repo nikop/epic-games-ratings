@@ -3294,9 +3294,9 @@
       "Count": 1056
     }
   ],
-  "EOS_Progressed": 62126,
+  "EOS_Progressed": 62128,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 1335,
+  "EOS_NewPlayers": 1334,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -16259,6 +16259,11 @@
       "Time": "2023-08-17T04:03:27.8761855+00:00",
       "NumProgressed": 62126,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-08-17T05:03:41.6460853+00:00",
+      "NumProgressed": 62128,
+      "NumCompleted": 39
     }
   ],
   "TotalAchievements": 53,
@@ -16366,7 +16371,7 @@
       "Name": "The Side Job",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 17395
+      "UsersEstimate": 17396
     },
     {
       "ID": "complete_first_wanted_mission",
@@ -16382,7 +16387,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 26714
+      "UsersEstimate": 26715
     },
     {
       "ID": "customize_a_vehicle",
@@ -16390,7 +16395,7 @@
       "Name": "Tune Up",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 19259
+      "UsersEstimate": 19260
     },
     {
       "ID": "customize_a_weapon",
@@ -16398,7 +16403,7 @@
       "Name": "Optimized",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 21123
+      "UsersEstimate": 21124
     },
     {
       "ID": "cutting_edge_materials",
@@ -16438,7 +16443,7 @@
       "Name": "The Spins",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5591
+      "UsersEstimate": 5592
     },
     {
       "ID": "empire_tier_2",
@@ -16454,7 +16459,7 @@
       "Name": "Power Players",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 10561
+      "UsersEstimate": 10562
     },
     {
       "ID": "empire_tier_4",
@@ -16486,7 +16491,7 @@
       "Name": "Work Ethic",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 13046
+      "UsersEstimate": 13047
     },
     {
       "ID": "fully_upgrade_1_vehicle",
@@ -16494,7 +16499,7 @@
       "Name": "The Mechanic",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 5591
+      "UsersEstimate": 5592
     },
     {
       "ID": "fully_upgrade_a_weapon",
@@ -16502,7 +16507,7 @@
       "Name": "Kitted Out",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 8076
+      "UsersEstimate": 8077
     },
     {
       "ID": "get_betrayed",
@@ -16566,7 +16571,7 @@
       "Name": "Making a Name",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 19880
+      "UsersEstimate": 19881
     },
     {
       "ID": "one_third_purple",
@@ -16654,7 +16659,7 @@
       "Name": "To The Nines",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 24229
+      "UsersEstimate": 24230
     },
     {
       "ID": "whole_map_purple",
@@ -16693,22 +16698,22 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 62126,
+      "Progressed": 62128,
       "Completed": 39
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 33763,
-      "Completed": 3238
+      "Progressed": 33765,
+      "Completed": 3240
     }
   ],
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-08-16T20:01:12.4411562+00:00",
-  "LastChanged_Achievements": "2023-08-17T04:03:27.8761848+00:00",
+  "LastChanged_Achievements": "2023-08-17T05:03:41.6460847+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:43.0045389+00:00",
-  "LastUpdate_Ratings": "2023-08-17T04:02:00.031362+00:00",
-  "LastUpdate_Achievements": "2023-08-17T04:03:27.8763405+00:00"
+  "LastUpdate_Ratings": "2023-08-17T05:01:21.8127636+00:00",
+  "LastUpdate_Achievements": "2023-08-17T05:03:41.6462677+00:00"
 }

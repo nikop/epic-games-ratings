@@ -6,20 +6,20 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~307,156 |
-| Jeef Skeejj | 44.00% | ~204,771 |
-| Careful planning | 39.00% | ~181,501 |
-| Second Coming | 33.00% | ~153,578 |
-| Jeef Skagg | 30.00% | ~139,616 |
-| Mother | 25.00% | ~116,347 |
-| In space, no one can hear you scream | 24.00% | ~111,693 |
-| Chapter I: Echoes | 22.00% | ~102,385 |
-| Excelsior Rule | 22.00% | ~102,385 |
+| The Shutdown | 66.00% | ~307,158 |
+| Jeef Skeejj | 44.00% | ~204,772 |
+| Careful planning | 39.00% | ~181,502 |
+| Second Coming | 33.00% | ~153,579 |
+| Jeef Skagg | 30.00% | ~139,617 |
+| Mother | 25.00% | ~116,348 |
+| In space, no one can hear you scream | 24.00% | ~111,694 |
+| Chapter I: Echoes | 22.00% | ~102,386 |
+| Excelsior Rule | 22.00% | ~102,386 |
 | Things persisted in not being what they seemed | 20.00% | ~93,078 |
-| Knightmare Frames | 15.00% | ~69,808 |
-| May His passing cleanse the world | 15.00% | ~69,808 |
-| Chapter II: Fallible Flesh | 15.00% | ~69,808 |
-| Pope Zenon | 15.00% | ~69,808 |
+| Knightmare Frames | 15.00% | ~69,809 |
+| May His passing cleanse the world | 15.00% | ~69,809 |
+| Chapter II: Fallible Flesh | 15.00% | ~69,809 |
+| Pope Zenon | 15.00% | ~69,809 |
 | Tetsuo | 11.00% | ~51,193 |
 | Plan for the worst | 11.00% | ~51,193 |
 | Chapter III: The Man Who Sold the World | 10.00% | ~46,539 |
@@ -45,10 +45,10 @@ Number of Ratings: 1,003  (23.09.2022)
 | The Smuggler | 6.00% | ~27,923 |
 | The Crazy Repairman | 6.00% | ~27,923 |
 | The Weasel | 6.00% | ~27,923 |
-| Kill the Doctor | 5.00% | ~23,269 |
-| Forsaken | 5.00% | ~23,269 |
-| Mercy | 5.00% | ~23,269 |
-| Jericho Rule | 5.00% | ~23,269 |
+| Kill the Doctor | 5.00% | ~23,270 |
+| Forsaken | 5.00% | ~23,270 |
+| Mercy | 5.00% | ~23,270 |
+| Jericho Rule | 5.00% | ~23,270 |
 | Geno Rule | 3.00% | ~13,962 |
 | Hammer Rule | 3.00% | ~13,962 |
 | Survivor | 2.00% | ~9,308 |
@@ -56,7 +56,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Emperor of Misery | 1.00% | ~4,654 |
 | A Frozen Lady | 1.00% | ~4,654 |
 | Void Rule | 1.00% | ~4,654 |
-| Excelsior Mastery | 0.90% | ~4,188 |
+| Excelsior Mastery | 0.90% | ~4,189 |
 | The greatest admiral of all time | 0.50% | ~2,327 |
 | Hand of the Emperor | 0.30% | ~28 |
 | Soldiers of Fortune | 0.20% | ~19 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~9 |
 | Kronos Rule | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 465,388 (Ranked 37)  
+Progressed: 465,391 (Ranked 37)  
 Completed: 17 (0.00%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 17 (0.00%) (Ranked 258)
 | 2023-08-14 | 465,262 | 17 |
 | 2023-08-15 | 465,318 | 17 |
 | 2023-08-16 | 465,377 | 17 |
-| 2023-08-17 | 465,388 | 17 |
+| 2023-08-17 | 465,391 | 17 |
 ## Awards
 Max (Character Customization): 216  (Ranked 268)  
 Sum: 216 (Ranked 363)  

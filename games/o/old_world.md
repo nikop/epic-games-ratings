@@ -238,6 +238,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pharaoh | 0.10% | ~13 |
 | A Tyresome Siege | 0.10% | ~13 |
 | Alexander the Mediocre | 0.10% | ~13 |
+| Alexander the Great | 0.10% | ~13 |
 | Alexander the Alright | 0.10% | ~13 |
 | Toppling the Giants | 0.10% | ~13 |
 | Hardcore | 0.10% | ~13 |
@@ -293,7 +294,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | That Also Works | 0.00% | ~0 |
 | Not a Chance | 0.00% | ~0 |
 | Not a Scratch | 0.00% | ~0 |
-| Alexander the Great | 0.00% | ~0 |
 | Youth Prevails | 0.00% | ~0 |
 | Rule of Pharaohs | 0.00% | ~0 |
 | The Eastern Empire | 0.00% | ~0 |

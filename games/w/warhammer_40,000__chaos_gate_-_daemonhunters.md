@@ -42,6 +42,7 @@ Number of Ratings: 371  (23.09.2022)
 | Engine Kill | 0.30% | ~9 |
 | Strike Force | 0.20% | ~6 |
 | Exterminator | 0.20% | ~6 |
+| Exercise in Restraint | 0.20% | ~6 |
 | Harvest No More | 0.20% | ~6 |
 | Death Comes For All | 0.20% | ~6 |
 | True Mastery | 0.20% | ~6 |
@@ -59,7 +60,6 @@ Number of Ratings: 371  (23.09.2022)
 | Field Apothecarion | 0.10% | ~3 |
 | Warp Flickers | 0.10% | ~3 |
 | Phalanx | 0.10% | ~3 |
-| Exercise in Restraint | 0.10% | ~3 |
 | Firing Squad | 0.10% | ~3 |
 | Abomination | 0.10% | ~3 |
 | Killing Rampage | 0.10% | ~3 |

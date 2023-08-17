@@ -16,20 +16,20 @@
 | Antidote | 52.00% | ~85 |
 | Pick the right door | 24.00% | ~39 |
 | The third floor | 16.00% | ~26 |
+| One-way | 14.00% | ~23 |
 | On the right path | 13.00% | ~21 |
-| One-way | 13.00% | ~21 |
-| It can't be true | 12.00% | ~20 |
-| I'm close now | 10.00% | ~16 |
-| Failed attempt | 10.00% | ~16 |
-| The real escape | 10.00% | ~16 |
+| It can't be true | 13.00% | ~21 |
+| I'm close now | 11.00% | ~18 |
+| Failed attempt | 11.00% | ~18 |
+| The real escape | 11.00% | ~18 |
+| Good choice | 11.00% | ~18 |
+| Take the long way round | 11.00% | ~18 |
 | Nightmare in the kitchen | 10.00% | ~16 |
-| Good choice | 10.00% | ~16 |
-| Take the long way round | 10.00% | ~16 |
 | He who seeks, finds! | 10.00% | ~16 |
-| Born again | 6.00% | ~10 |
+| Born again | 7.00% | ~11 |
 | 373 | 5.00% | ~8 |
 | The experiment | 5.00% | ~8 |
-| Matthew's revenge | 4.00% | ~7 |
+| Matthew's revenge | 5.00% | ~8 |
 | Eva's diary | 2.00% | ~3 |
 | Horror book | 1.00% | ~2 |
 | A dark past | 1.00% | ~2 |

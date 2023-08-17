@@ -562,9 +562,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 515066,
+  "EOS_Progressed": 515070,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2504,
+  "EOS_NewPlayers": 2500,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13447,6 +13447,11 @@
       "Time": "2023-08-17T04:07:29.5891374+00:00",
       "NumProgressed": 515066,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-17T05:06:56.7466106+00:00",
+      "NumProgressed": 515070,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -13458,7 +13463,7 @@
       "Name": "A Bit On The Side",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 133917
+      "UsersEstimate": 133918
     },
     {
       "ID": "Backdoor",
@@ -13466,7 +13471,7 @@
       "Name": "Backdoor",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 128766
+      "UsersEstimate": 128768
     },
     {
       "ID": "BeforeYouWreckYourself",
@@ -13554,7 +13559,7 @@
       "Name": "Cold Caller",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 200876
+      "UsersEstimate": 200877
     },
     {
       "ID": "DeadlyAssassin",
@@ -13610,7 +13615,7 @@
       "Name": "Handy",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 211177
+      "UsersEstimate": 211179
     },
     {
       "ID": "HoldingYourOwn",
@@ -13706,7 +13711,7 @@
       "Name": "Pro Creation",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 391450
+      "UsersEstimate": 391453
     },
     {
       "ID": "ProPlayer",
@@ -13730,7 +13735,7 @@
       "Name": "Rank Amateur",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 108164
+      "UsersEstimate": 108165
     },
     {
       "ID": "RegularPunter",
@@ -13786,7 +13791,7 @@
       "Name": "Three Way",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 92712
+      "UsersEstimate": 92713
     },
     {
       "ID": "TopDog",
@@ -13802,7 +13807,7 @@
       "Name": "Total Knock Out",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 41205
+      "UsersEstimate": 41206
     },
     {
       "ID": "WHIP",
@@ -13810,14 +13815,14 @@
       "Name": "W.H.I.P.",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 56657
+      "UsersEstimate": 56658
     }
   ],
   "AchievementSets": [
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 515066,
+      "Progressed": 515070,
       "Completed": 2
     }
   ],
@@ -13825,8 +13830,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2023-08-16T02:57:17.1651546+00:00",
-  "LastChanged_Achievements": "2023-08-17T04:07:29.5891367+00:00",
+  "LastChanged_Achievements": "2023-08-17T05:06:56.74661+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:56.1017925+00:00",
-  "LastUpdate_Ratings": "2023-08-17T03:57:14.6544385+00:00",
-  "LastUpdate_Achievements": "2023-08-17T04:07:29.589246+00:00"
+  "LastUpdate_Ratings": "2023-08-17T04:57:19.7501645+00:00",
+  "LastUpdate_Achievements": "2023-08-17T05:06:56.7467273+00:00"
 }
