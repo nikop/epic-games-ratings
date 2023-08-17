@@ -31,7 +31,7 @@
 | 29 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 10.00% |
 | 30 | [Sonic Origins](games/s/sonic_origins.md) | 9.60% |
 | 31 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.30% |
-| 32 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.93% |
+| 32 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.92% |
 | 33 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 8.51% |
 | 34 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.48% |
 | 35 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 7.81% |
