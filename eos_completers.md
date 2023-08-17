@@ -32,8 +32,8 @@
 | 30 | [Sonic Origins](games/s/sonic_origins.md) | 9.60% |
 | 31 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.30% |
 | 32 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.92% |
-| 33 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 8.51% |
-| 34 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.48% |
+| 33 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.48% |
+| 34 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 8.33% |
 | 35 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 7.81% |
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.53% |
 | 37 | [Smelter](games/s/smelter.md) | 7.50% |
@@ -59,7 +59,7 @@
 | 57 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
 | 57 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.17% |
 | 59 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.04% |
-| 60 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.89% |
+| 60 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.88% |
 | 61 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 3.85% |
 | 62 | [ZZT!](games/z/zzt!.md) | 3.77% |
 | 63 | [Without Escape](games/w/without_escape.md) | 3.57% |
@@ -77,7 +77,7 @@
 | 75 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.78% |
 | 76 | [Destiny 2](games/d/destiny_2.md) | 2.74% |
 | 77 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
-| 78 | [The Bunker](games/t/the_bunker.md) | 2.68% |
+| 78 | [The Bunker](games/t/the_bunker.md) | 2.65% |
 | 79 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.62% |
 | 80 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.60% |
 | 80 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.60% |
