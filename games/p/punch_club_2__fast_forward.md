@@ -51,7 +51,7 @@
 | Mom got better | 37.00% | ~94 |
 | GYM professional | 37.00% | ~94 |
 | The die is cast | 37.00% | ~94 |
-| Seashell hunter | 36.00% | ~92 |
+| Seashell hunter | 37.00% | ~94 |
 | Gang wrangler | 35.00% | ~89 |
 | Problems of cyborgs | 35.00% | ~89 |
 | Undercover robot | 34.00% | ~87 |
@@ -60,13 +60,13 @@
 | Not little hacker | 32.00% | ~82 |
 | Anyone can resist | 32.00% | ~82 |
 | Trap disarmed | 31.00% | ~79 |
+| Another world | 31.00% | ~79 |
 | The lonesome road | 31.00% | ~79 |
+| Family comes first | 31.00% | ~79 |
 | Key memories | 31.00% | ~79 |
 | The last bell ring | 31.00% | ~79 |
 | The heart of the Resistance | 31.00% | ~79 |
-| Another world | 30.00% | ~76 |
 | Keep nature safe | 30.00% | ~76 |
-| Family comes first | 30.00% | ~76 |
 | Silver’s past | 27.00% | ~69 |
 | Better cooking at home | 27.00% | ~69 |
 | The only right decision | 26.00% | ~66 |

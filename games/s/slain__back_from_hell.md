@@ -5,12 +5,12 @@ Rating: 4.29 (Ranked 795)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Man 'O War | 20.00% | ~6,842 |
+| Man 'O War | 20.00% | ~6,843 |
 | A Good Day To Die | 15.00% | ~5,132 |
 | Right Back Atcha | 6.00% | ~2,053 |
 | Killed by Death | 5.00% | ~1,711 |
 | Guard! Turn! Parry! Dodge! Spin! Ha! | 5.00% | ~1,711 |
-| Kill 'Em All | 4.00% | ~1,368 |
+| Kill 'Em All | 4.00% | ~1,369 |
 | Down Boy! | 2.00% | ~684 |
 | A Snowball's Chance in Hell | 2.00% | ~684 |
 | Enjoy The Silence | 1.00% | ~342 |
@@ -18,10 +18,10 @@ Rating: 4.29 (Ranked 795)
 | Backdoor Man | 0.90% | ~308 |
 | Thorn in My Herbicide | 0.80% | ~274 |
 | Schadenfreude | 0.80% | ~274 |
-| Red In Tooth And Claw | 0.70% | ~239 |
-| Death Becomes Her | 0.70% | ~239 |
-| The Sky Is Falling | 0.70% | ~239 |
-| That'll Come In Handy... | 0.70% | ~239 |
+| Red In Tooth And Claw | 0.70% | ~240 |
+| Death Becomes Her | 0.70% | ~240 |
+| The Sky Is Falling | 0.70% | ~240 |
+| That'll Come In Handy... | 0.70% | ~240 |
 | Start As You Mean To Go On | 0.60% | ~205 |
 | Hail the Great Horned Metal God! | 0.60% | ~205 |
 | Oh God, Mother! Blood! Blood! | 0.50% | ~171 |
@@ -35,7 +35,7 @@ Rating: 4.29 (Ranked 795)
 | Heart Of Steel | 0.10% | ~34 |
 | Death or Glory | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 34,212 (Ranked 98)  
+Progressed: 34,216 (Ranked 98)  
 Completed: 21 (0.06%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,7 +154,7 @@ Completed: 21 (0.06%) (Ranked 216)
 | 2023-08-14 | 33,904 | 21 |
 | 2023-08-15 | 34,028 | 21 |
 | 2023-08-16 | 34,130 | 21 |
-| 2023-08-17 | 34,212 | 21 |
+| 2023-08-17 | 34,216 | 21 |
 ## Awards
 Max (Great Boss Battles): 126  (Ranked 310)  
 Sum: 126 (Ranked 403)  

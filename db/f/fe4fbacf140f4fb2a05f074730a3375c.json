@@ -18,6 +18,8 @@
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 10,
   "EOS_Completed": 0,
@@ -100,17 +102,17 @@
       "ID": "CustomerService",
       "SetID": "bl5ebnd",
       "Name": "Customer Service",
-      "Percentage": 30,
+      "Percentage": 40,
       "XP": 80,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "EnterMatrix",
       "SetID": "bl5ebnd",
       "Name": "Enter the Matrix",
-      "Percentage": 20,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "GoldenYouth",
@@ -225,9 +227,10 @@
       "Completed": 0
     }
   ],
+  "FirstSeen": "2023-08-17T18:58:24.9645981+00:00",
   "FirstSeenAchievements": "2023-08-07T14:05:00.198888+00:00",
-  "LastChanged_Achievements": "2023-08-17T18:06:00.1898588+00:00",
+  "LastChanged_Achievements": "2023-08-17T19:05:31.2219285+00:00",
   "LastUpdate_AppInfo": "2023-08-17T11:57:07.9760361+00:00",
-  "LastUpdate_Ratings": "2023-08-17T17:58:36.4653931+00:00",
-  "LastUpdate_Achievements": "2023-08-17T18:06:00.1898708+00:00"
+  "LastUpdate_Ratings": "2023-08-17T18:58:24.964602+00:00",
+  "LastUpdate_Achievements": "2023-08-17T19:05:31.2219443+00:00"
 }

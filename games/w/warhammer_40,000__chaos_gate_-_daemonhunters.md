@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Not a Mote of Corruption | 0.00% | ~0 |
 | Strategic Command | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,154 (Ranked 155)  
+Progressed: 3,155 (Ranked 155)  
 Completed: 0 (0.00%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,6 +188,7 @@ Completed: 0 (0.00%) (Ranked 258)
 | 2023-08-14 | 3,148 | 0 |
 | 2023-08-15 | 3,151 | 0 |
 | 2023-08-16 | 3,154 | 0 |
+| 2023-08-17 | 3,155 | 0 |
 ## Awards
 Max (Character Customization): 219  (Ranked 264)  
 Sum: 469 (Ranked 305)  

@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~10 |
 | The Absolute Pinnacle. | 0.30% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,310 (Ranked 152)  
+Progressed: 3,310 (Ranked 153)  
 Completed: 3 (0.09%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |

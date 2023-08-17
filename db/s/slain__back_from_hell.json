@@ -217,9 +217,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 34212,
+  "EOS_Progressed": 34216,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 878,
+  "EOS_NewPlayers": 874,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -13292,6 +13292,11 @@
       "Time": "2023-08-17T18:06:07.3333095+00:00",
       "NumProgressed": 34212,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-08-17T19:05:37.0583818+00:00",
+      "NumProgressed": 34216,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 29,
@@ -13311,7 +13316,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 6842
+      "UsersEstimate": 6843
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -13391,7 +13396,7 @@
       "Name": "Red In Tooth And Claw",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ACH_14_DEFEATED_MOTHER_BEHOLDER",
@@ -13407,7 +13412,7 @@
       "Name": "Death Becomes Her",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ACH_16_RETURNED_ICE_METEORS",
@@ -13439,7 +13444,7 @@
       "Name": "The Sky Is Falling",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ACH_20_MULTI_KILL",
@@ -13447,7 +13452,7 @@
       "Name": "Kill \u0027Em All",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1368
+      "UsersEstimate": 1369
     },
     {
       "ID": "ACH_21_CRITICAL_STRIKES",
@@ -13487,7 +13492,7 @@
       "Name": "That\u0027ll Come In Handy...",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ACH_26_VROLL_NO_DAMAGE",
@@ -13534,7 +13539,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 34212,
+      "Progressed": 34216,
       "Completed": 21
     }
   ],
@@ -13542,8 +13547,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-08-12T21:03:39.1122054+00:00",
-  "LastChanged_Achievements": "2023-08-17T18:06:07.3333092+00:00",
+  "LastChanged_Achievements": "2023-08-17T19:05:37.0583812+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:57.7890504+00:00",
-  "LastUpdate_Ratings": "2023-08-17T17:57:26.4862719+00:00",
-  "LastUpdate_Achievements": "2023-08-17T18:06:07.3334085+00:00"
+  "LastUpdate_Ratings": "2023-08-17T18:57:21.5729082+00:00",
+  "LastUpdate_Achievements": "2023-08-17T19:05:37.0584822+00:00"
 }

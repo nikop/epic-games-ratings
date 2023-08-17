@@ -2,12 +2,12 @@
   "ID": "6daaf10529e94fccaa8ee43b66adbe4a",
   "Name": "Pathfinder: Kingmaker - Enhanced Plus Edition",
   "ProductSlug": "pathfinder-kingmaker",
-  "Ranking_Rating": 451,
+  "Ranking_Rating": 450,
   "Ranking_Popularity": 92,
   "Ranking_PopularitySum": 96,
   "Ranking_EOS_Progress": 546,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewPlayers": 357,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-05-13T19:30:00+00:00",
@@ -4437,10 +4437,16 @@
       "Rating": 4.57,
       "NumberOfAwards": 8549,
       "NumberOfAwardsMax": 3205
+    },
+    {
+      "Time": "2023-08-17T18:57:07.4313049+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 8552,
+      "NumberOfAwardsMax": 3205
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8549,
+  "NumberOfAwards": 8552,
   "NumberOfAwardsMax": 3205,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4484,7 +4490,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 360
+      "Count": 363
     },
     {
       "Text": "This game is Relaxing",
@@ -4534,8 +4540,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:35.6101884+00:00",
-  "LastChanged": "2023-08-17T13:57:13.9956832+00:00",
+  "LastChanged": "2023-08-17T18:57:07.4313044+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:31.8844238+00:00",
-  "LastUpdate_Ratings": "2023-08-17T17:57:09.8872163+00:00",
-  "LastUpdate_Achievements": "2023-08-17T18:04:17.875041+00:00"
+  "LastUpdate_Ratings": "2023-08-17T18:57:07.4313054+00:00",
+  "LastUpdate_Achievements": "2023-08-17T19:03:52.6156429+00:00"
 }

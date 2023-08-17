@@ -5,15 +5,15 @@ Rating: 4.45 (Ranked 634)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 45.00% | ~1,570 |
+| Meeting Resistance | 45.00% | ~1,571 |
 | Confirming Suspicions | 40.00% | ~1,396 |
 | The Kraken Wakes | 35.00% | ~1,222 |
 | It's Starting to Crack | 32.00% | ~1,117 |
 | Lord of War | 29.00% | ~1,012 |
 | Change the Channel | 29.00% | ~1,012 |
-| Taking it back | 27.00% | ~942 |
-| Resourceful | 26.00% | ~907 |
-| Target America | 25.00% | ~872 |
+| Taking it back | 27.00% | ~943 |
+| Resourceful | 26.00% | ~908 |
+| Target America | 25.00% | ~873 |
 | The Kraken Sleeps | 23.00% | ~803 |
 | Organ Grinder | 22.00% | ~768 |
 | As Quiet as a Mouse | 22.00% | ~768 |
@@ -21,7 +21,7 @@ Rating: 4.45 (Ranked 634)
 | Sharpshooter | 21.00% | ~733 |
 | Explosive Efficiency | 18.00% | ~628 |
 | Gunslinger | 17.00% | ~593 |
-| Just a Flesh Wound | 16.00% | ~558 |
+| Just a Flesh Wound | 16.00% | ~559 |
 | Climbing the Ladder | 15.00% | ~524 |
 | Der Geist | 15.00% | ~524 |
 | Close Quarters | 15.00% | ~524 |
@@ -37,10 +37,10 @@ Rating: 4.45 (Ranked 634)
 | Precision Is Key | 9.00% | ~314 |
 | My Little Friend | 9.00% | ~314 |
 | Rigged to Blow | 8.00% | ~279 |
-| Herr Today, Gone Tomorrow | 6.00% | ~206 |
-| The Long Game | 5.00% | ~174 |
-| It'll Buff Right Out | 5.00% | ~174 |
-| Don't hold your breath | 5.00% | ~174 |
+| Herr Today, Gone Tomorrow | 6.00% | ~207 |
+| The Long Game | 5.00% | ~175 |
+| It'll Buff Right Out | 5.00% | ~175 |
+| Don't hold your breath | 5.00% | ~175 |
 | Operation Foxley | 5.00% | ~172 |
 | Strategist | 4.00% | ~140 |
 | Tinkerer | 4.00% | ~140 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 634)
 | Stroll in the Woods | 0.60% | ~21 |
 | Going Overboard | 0.60% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,490 (Ranked 150)  
+Progressed: 3,491 (Ranked 151)  
 Completed: 9 (0.26%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 9 (0.26%) (Ranked 173)
 | 2023-08-14 | 3,472 | 9 |
 | 2023-08-15 | 3,481 | 9 |
 | 2023-08-16 | 3,486 | 9 |
-| 2023-08-17 | 3,490 | 9 |
+| 2023-08-17 | 3,491 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

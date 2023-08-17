@@ -1173,7 +1173,7 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 8337,
+  "EOS_Progressed": 8338,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 0,
@@ -10738,6 +10738,11 @@
       "Time": "2023-08-17T18:07:21.3931684+00:00",
       "NumProgressed": 8337,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-17T19:06:39.2058907+00:00",
+      "NumProgressed": 8338,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -10749,7 +10754,7 @@
       "Name": "Leader",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 5002
+      "UsersEstimate": 5003
     },
     {
       "ID": "10",
@@ -10797,7 +10802,7 @@
       "Name": "Legendary Explorer",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2334
+      "UsersEstimate": 2335
     },
     {
       "ID": "16",
@@ -10805,7 +10810,7 @@
       "Name": "Adventurer",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 3418
+      "UsersEstimate": 3419
     },
     {
       "ID": "17",
@@ -10829,7 +10834,7 @@
       "Name": "Healer",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 4335
+      "UsersEstimate": 4336
     },
     {
       "ID": "2",
@@ -10853,7 +10858,7 @@
       "Name": "The Great Healer",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 2584
+      "UsersEstimate": 2585
     },
     {
       "ID": "22",
@@ -10885,7 +10890,7 @@
       "Name": "Cleaner",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2334
+      "UsersEstimate": 2335
     },
     {
       "ID": "26",
@@ -10901,7 +10906,7 @@
       "Name": "Energized",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2751
+      "UsersEstimate": 2752
     },
     {
       "ID": "28",
@@ -10981,7 +10986,7 @@
       "Name": "Luxurious Living",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "37",
@@ -10997,7 +11002,7 @@
       "Name": "Aspiring Inventor",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 3668
+      "UsersEstimate": 3669
     },
     {
       "ID": "39",
@@ -11005,7 +11010,7 @@
       "Name": "Rocket Surgeon",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1667
+      "UsersEstimate": 1668
     },
     {
       "ID": "4",
@@ -11013,7 +11018,7 @@
       "Name": "Catastrofan",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2334
+      "UsersEstimate": 2335
     },
     {
       "ID": "40",
@@ -11077,7 +11082,7 @@
       "Name": "The Long Haul",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2751
+      "UsersEstimate": 2752
     },
     {
       "ID": "48",
@@ -11197,7 +11202,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 2584
+      "UsersEstimate": 2585
     },
     {
       "ID": "8",
@@ -11220,15 +11225,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 8337,
+      "Progressed": 8338,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-08-14T22:02:11.7403244+00:00",
-  "LastChanged_Achievements": "2023-08-17T18:07:21.393168+00:00",
+  "LastChanged_Achievements": "2023-08-17T19:06:39.2058902+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:55.9792163+00:00",
-  "LastUpdate_Ratings": "2023-08-17T17:57:22.8798507+00:00",
-  "LastUpdate_Achievements": "2023-08-17T18:07:21.3932816+00:00"
+  "LastUpdate_Ratings": "2023-08-17T18:57:18.6269837+00:00",
+  "LastUpdate_Achievements": "2023-08-17T19:06:39.20599+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 324,
+  "EOS_Progressed": 325,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -827,6 +827,11 @@
       "Time": "2023-08-13T22:05:12.5021057+00:00",
       "NumProgressed": 324,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-17T19:04:47.6265281+00:00",
+      "NumProgressed": 325,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -998,7 +1003,7 @@
       "Name": "I\u0027m Busy Ruling",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ach_consultants_c",
@@ -1006,7 +1011,7 @@
       "Name": "Smooth Operator",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ach_contracts_1",
@@ -1142,7 +1147,7 @@
       "Name": "Starting Skyward",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "ach_floors_1",
@@ -1150,7 +1155,7 @@
       "Name": "Careful Constructor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ach_floors_2",
@@ -1172,9 +1177,9 @@
       "ID": "ach_grime",
       "SetID": "b8gh1fi",
       "Name": "Grime is Not Good",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 156
+      "UsersEstimate": 153
     },
     {
       "ID": "ach_grime_1",
@@ -1182,7 +1187,7 @@
       "Name": "Delegate Maintenance",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ach_grime_2",
@@ -1206,7 +1211,7 @@
       "Name": "Don\u0027t Feel a Loan",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ach_mod_1",
@@ -1294,7 +1299,7 @@
       "Name": "Sky High Stature",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ach_profit_0",
@@ -1302,7 +1307,7 @@
       "Name": "In the Black",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "ach_profit_1",
@@ -1318,7 +1323,7 @@
       "Name": "Profound Proceeds",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ach_recycling_1",
@@ -1406,7 +1411,7 @@
       "Name": "Boutique Benefits",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ach_revs_1",
@@ -1470,7 +1475,7 @@
       "Name": "Terrifically Trashed",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ach_tutorial",
@@ -1494,7 +1499,7 @@
       "Name": "It\u0027s a Gas",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ach_util_phone",
@@ -1534,14 +1539,14 @@
       "Name": "Destination Destiny",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 324,
+      "Progressed": 325,
       "Completed": 0
     }
   ],
@@ -1549,8 +1554,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-08-17T18:05:09.2919234+00:00",
+  "LastChanged_Achievements": "2023-08-17T19:04:47.6265271+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:40.3614757+00:00",
-  "LastUpdate_Ratings": "2023-08-17T17:59:45.3885318+00:00",
-  "LastUpdate_Achievements": "2023-08-17T18:05:09.2920311+00:00"
+  "LastUpdate_Ratings": "2023-08-17T18:59:22.8029305+00:00",
+  "LastUpdate_Achievements": "2023-08-17T19:04:47.6266398+00:00"
 }

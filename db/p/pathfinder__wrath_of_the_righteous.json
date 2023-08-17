@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 113,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewPlayers": 120,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3470,9 +3470,9 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 10979,
+  "EOS_Progressed": 10980,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10890,6 +10890,11 @@
       "Time": "2023-08-17T17:05:06.6176998+00:00",
       "NumProgressed": 10979,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-17T19:04:40.0910291+00:00",
+      "NumProgressed": 10980,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -10917,7 +10922,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1317
+      "UsersEstimate": 1318
     },
     {
       "ID": "04_FithCrusade",
@@ -11243,9 +11248,9 @@
       "ID": "45_VoiceFromDreams",
       "SetID": "989of5o",
       "Name": "Voice from Your Dreams",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 439
+      "UsersEstimate": 549
     },
     {
       "ID": "46_AllPathsOpen",
@@ -11828,21 +11833,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9761,
+      "Progressed": 9762,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10979,
+      "Progressed": 10980,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-08-17T16:00:31.1424714+00:00",
-  "LastChanged_Achievements": "2023-08-17T18:05:00.1685828+00:00",
+  "LastChanged_Achievements": "2023-08-17T19:04:40.0910279+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:11.5447906+00:00",
-  "LastUpdate_Ratings": "2023-08-17T18:00:14.3297838+00:00",
-  "LastUpdate_Achievements": "2023-08-17T18:05:00.1687935+00:00"
+  "LastUpdate_Ratings": "2023-08-17T18:59:46.4159169+00:00",
+  "LastUpdate_Achievements": "2023-08-17T19:04:40.0912357+00:00"
 }

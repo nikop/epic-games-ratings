@@ -2,9 +2,9 @@
   "ID": "267b56359a8c45ee9154861187de210b",
   "Name": "Marble It Up! Ultra",
   "ProductSlug": "marble-it-up-ultra-7b5692",
-  "Ranking_EOS_Progress": 476,
+  "Ranking_EOS_Progress": 470,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-08-17T07:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3,
+  "EOS_Progressed": 4,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38,6 +38,11 @@
     {
       "Time": "2023-08-17T18:03:46.9477415+00:00",
       "NumProgressed": 3,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-17T19:03:25.8170471+00:00",
+      "NumProgressed": 4,
       "NumCompleted": 0
     }
   ],
@@ -177,9 +182,9 @@
       "ID": "beat_c1_silver",
       "SetID": "3448go",
       "Name": "Treasured Momentum",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "beat_c1a_bronze",
@@ -633,7 +638,7 @@
       "ID": "rolldist_short",
       "SetID": "3448go",
       "Name": "Rolling the Competition",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -738,13 +743,13 @@
     {
       "ID": "3448go",
       "IsBase": true,
-      "Progressed": 3,
+      "Progressed": 4,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2023-08-17T18:03:46.9477411+00:00",
+  "LastChanged_Achievements": "2023-08-17T19:03:25.817046+00:00",
   "LastUpdate_AppInfo": "2023-08-16T18:57:08.5743948+00:00",
-  "LastUpdate_Ratings": "2023-08-17T17:57:42.1075101+00:00",
-  "LastUpdate_Achievements": "2023-08-17T18:03:46.9478411+00:00"
+  "LastUpdate_Ratings": "2023-08-17T18:57:37.0287674+00:00",
+  "LastUpdate_Achievements": "2023-08-17T19:03:25.8171365+00:00"
 }

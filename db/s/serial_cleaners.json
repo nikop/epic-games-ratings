@@ -465,9 +465,9 @@
       "ID": "CHAPTER3_COMPLETE",
       "SetID": "2lk004m",
       "Name": "Eyes Yet To Open",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 75,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "CHAPTER4_COMPLETE",
@@ -632,8 +632,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-08-17T18:06:18.9687447+00:00",
+  "LastChanged_Achievements": "2023-08-17T19:05:47.0126809+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:03.4393011+00:00",
-  "LastUpdate_Ratings": "2023-08-17T18:01:01.9531274+00:00",
-  "LastUpdate_Achievements": "2023-08-17T18:06:18.9687638+00:00"
+  "LastUpdate_Ratings": "2023-08-17T19:00:28.2743555+00:00",
+  "LastUpdate_Achievements": "2023-08-17T19:05:47.012701+00:00"
 }

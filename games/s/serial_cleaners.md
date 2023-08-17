@@ -12,7 +12,7 @@
 | Business as usual | 11.00% | ~25 |
 | Mr. Hygeni | 9.00% | ~21 |
 | Pride and Joy | 8.00% | ~18 |
-| Eyes Yet To Open | 6.00% | ~14 |
+| Eyes Yet To Open | 7.00% | ~16 |
 | Hackathon | 6.00% | ~14 |
 | Total Recall | 4.00% | ~9 |
 | The Wing and the Thigh | 4.00% | ~9 |

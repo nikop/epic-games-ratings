@@ -65,11 +65,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Drillmaster | 0.90% | ~121 |
 | Valiant | 0.90% | ~121 |
 | Just Difficulty | 0.90% | ~121 |
+| Acropolis | 0.90% | ~121 |
 | Learn to Play 2 | 0.90% | ~121 |
 | Mythology | 0.90% | ~121 |
 | Intercessor | 0.80% | ~108 |
+| Champions | 0.80% | ~108 |
 | Sages | 0.80% | ~108 |
-| Acropolis | 0.80% | ~108 |
 | Mausoleum | 0.80% | ~108 |
 | Greece | 0.80% | ~108 |
 | Points Victory | 0.80% | ~108 |
@@ -77,7 +78,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Beloved | 0.70% | ~94 |
 | Conqueror | 0.70% | ~94 |
 | Mighty | 0.70% | ~94 |
-| Champions | 0.70% | ~94 |
+| Patrons | 0.70% | ~94 |
 | Statesmen | 0.70% | ~94 |
 | Temple of Solomon | 0.70% | ~94 |
 | Persian Paganism | 0.70% | ~94 |
@@ -86,7 +87,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Subjugator | 0.60% | ~81 |
 | Victorious | 0.60% | ~81 |
 | Good Difficulty | 0.60% | ~81 |
-| Patrons | 0.60% | ~81 |
 | Traders | 0.60% | ~81 |
 | Hittite Iron | 0.60% | ~81 |
 | Circus Maximus | 0.60% | ~81 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,442 (Ranked 117)  
+Progressed: 13,443 (Ranked 117)  
 Completed: 5 (0.04%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -422,7 +422,7 @@ Completed: 5 (0.04%) (Ranked 227)
 | 2023-08-14 | 13,412 | 5 |
 | 2023-08-15 | 13,422 | 5 |
 | 2023-08-16 | 13,432 | 5 |
-| 2023-08-17 | 13,442 | 5 |
+| 2023-08-17 | 13,443 | 5 |
 ## Awards
 Max (Relaxing): 219  (Ranked 264)  
 Sum: 1,792 (Ranked 206)  

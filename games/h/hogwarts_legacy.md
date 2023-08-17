@@ -8,8 +8,8 @@ Rating: 4.77 (Ranked 109)
 | The Sort Who Makes an Entrance | 12.00% | ~34,832 |
 | First Class Student | 11.00% | ~31,929 |
 | Troll with the Punches | 11.00% | ~31,929 |
-| A Keen Sense of Spell | 10.00% | ~29,026 |
-| That's a Keeper | 10.00% | ~29,026 |
+| A Keen Sense of Spell | 10.00% | ~29,027 |
+| That's a Keeper | 10.00% | ~29,027 |
 | Grappling with a Graphorn | 9.00% | ~26,124 |
 | The One Who Mastered Memories | 9.00% | ~26,124 |
 | The Hallowed Hero | 9.00% | ~26,124 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,742 |
 | Collector's Edition | 0.30% | ~871 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290,265 (Ranked 43)  
+Progressed: 290,268 (Ranked 43)  
 Completed: 452 (0.16%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,10 +170,10 @@ Completed: 452 (0.16%) (Ranked 190)
 | 2023-08-14 | 290,112 | 451 |
 | 2023-08-15 | 290,171 | 451 |
 | 2023-08-16 | 290,231 | 452 |
-| 2023-08-17 | 290,265 | 452 |
+| 2023-08-17 | 290,268 | 452 |
 ## Awards
 Max (Character Customization): 21,780  (Ranked 17)  
-Sum: 41,120 (Ranked 30)  
+Sum: 41,127 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -184,8 +184,8 @@ Diff (max vs sum): -13
 | This game is Extremely Fun | 954 |
 | This game has Amazing Storytelling | 939 |
 | This game has Diverse Characters | 932 |
-| This game has Amazing Characters | 918 |
-| This game is Highly Recommended | 891 |
+| This game has Amazing Characters | 920 |
+| This game is Highly Recommended | 896 |
 | This game has Quickly Understood Controls | 846 |
 | This game has Beautiful Visuals | 786 |
 | This game has a Creative Community | 596 |
@@ -338,4 +338,4 @@ Diff (max vs sum): -13
 | 2023-08-14 | 4.77 | 21,755 | 41,010 |
 | 2023-08-15 | 4.77 | 21,755 | 41,047 |
 | 2023-08-16 | 4.77 | 21,765 | 41,080 |
-| 2023-08-17 | 4.77 | 21,780 | 41,120 |
+| 2023-08-17 | 4.77 | 21,780 | 41,127 |

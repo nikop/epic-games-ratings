@@ -4,7 +4,7 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 43,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
@@ -1498,9 +1498,9 @@
       "ID": "BearRum",
       "SetID": "db30heh",
       "Name": "Ready for Bed",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 75
+      "UsersEstimate": 79
     },
     {
       "ID": "BearSword",
@@ -1650,9 +1650,9 @@
       "ID": "KingDiamond",
       "SetID": "db30heh",
       "Name": "King\u0027s Jewel",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 163
+      "UsersEstimate": 167
     },
     {
       "ID": "PitSoul",
@@ -1690,9 +1690,9 @@
       "ID": "PriestRogue",
       "SetID": "db30heh",
       "Name": "Direct Hit",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 99
+      "UsersEstimate": 103
     },
     {
       "ID": "PriestRum",
@@ -1794,9 +1794,9 @@
       "ID": "SwordMoneyBag",
       "SetID": "db30heh",
       "Name": "Expensive Deal",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 163
+      "UsersEstimate": 167
     },
     {
       "ID": "WormGrilled",
@@ -1817,8 +1817,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-08-17T18:03:16.6224804+00:00",
+  "LastChanged_Achievements": "2023-08-17T19:02:19.8714241+00:00",
   "LastUpdate_AppInfo": "2023-08-15T16:57:19.7846089+00:00",
-  "LastUpdate_Ratings": "2023-08-17T17:58:26.3764336+00:00",
-  "LastUpdate_Achievements": "2023-08-17T18:03:16.6225257+00:00"
+  "LastUpdate_Ratings": "2023-08-17T18:58:18.2539476+00:00",
+  "LastUpdate_Achievements": "2023-08-17T19:02:19.8714758+00:00"
 }
