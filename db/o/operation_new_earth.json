@@ -4,7 +4,7 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 934,
+  "EOS_Progressed": 936,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3286,6 +3286,11 @@
       "Time": "2023-08-17T08:03:32.2996994+00:00",
       "NumProgressed": 934,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-17T10:03:33.2910161+00:00",
+      "NumProgressed": 936,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -3305,7 +3310,7 @@
       "Name": "Exterminator",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ach_defeat_players_10",
@@ -3417,7 +3422,7 @@
       "Name": "Sergeant",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -3433,7 +3438,7 @@
       "Name": "Captain",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -3473,7 +3478,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -3489,7 +3494,7 @@
       "Name": "Getting Deployment",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -3505,7 +3510,7 @@
       "Name": "Stocking Up",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -3537,7 +3542,7 @@
       "Name": "Infantry Reporting",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -3545,7 +3550,7 @@
       "Name": "Factory Expansion",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "objective_multiple_turrets_2",
@@ -3600,14 +3605,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 934,
+      "Progressed": 936,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-17T09:03:37.987449+00:00",
+  "LastChanged_Achievements": "2023-08-17T10:03:33.2910157+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:27.4280109+00:00",
-  "LastUpdate_Ratings": "2023-08-17T08:58:20.7934702+00:00",
-  "LastUpdate_Achievements": "2023-08-17T09:03:37.9874942+00:00"
+  "LastUpdate_Ratings": "2023-08-17T09:57:56.379589+00:00",
+  "LastUpdate_Achievements": "2023-08-17T10:03:33.2910646+00:00"
 }

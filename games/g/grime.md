@@ -6,26 +6,26 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Imprint | 88.00% | ~122,225 |
-| Taste | 84.00% | ~116,669 |
-| The Hunt | 66.00% | ~91,669 |
-| Ravenous | 63.00% | ~87,502 |
-| Weeper | 43.00% | ~59,724 |
-| Devourer | 22.00% | ~30,556 |
-| Harmless | 19.00% | ~26,389 |
-| Silenced Whispers | 19.00% | ~26,389 |
-| Yank | 15.00% | ~20,834 |
-| Sharpened Vessel | 15.00% | ~20,834 |
-| Feast | 12.00% | ~16,667 |
-| Scion | 11.00% | ~15,232 |
-| Jawcrab | 11.00% | ~15,278 |
-| Jawstag | 11.00% | ~15,278 |
-| Watcher | 10.00% | ~13,889 |
-| Shapely | 8.00% | ~11,111 |
-| Glare | 8.00% | ~11,078 |
-| Predator | 8.00% | ~11,111 |
+| Imprint | 88.00% | ~122,236 |
+| Taste | 84.00% | ~116,679 |
+| The Hunt | 66.00% | ~91,677 |
+| Ravenous | 63.00% | ~87,510 |
+| Weeper | 43.00% | ~59,729 |
+| Devourer | 22.00% | ~30,559 |
+| Harmless | 19.00% | ~26,392 |
+| Silenced Whispers | 19.00% | ~26,392 |
+| Yank | 15.00% | ~20,836 |
+| Sharpened Vessel | 15.00% | ~20,836 |
+| Feast | 12.00% | ~16,668 |
+| Scion | 11.00% | ~15,234 |
+| Jawcrab | 11.00% | ~15,279 |
+| Jawstag | 11.00% | ~15,279 |
+| Watcher | 10.00% | ~13,890 |
+| Shapely | 8.00% | ~11,112 |
+| Glare | 8.00% | ~11,079 |
+| Predator | 8.00% | ~11,112 |
 | Assimilation | 6.00% | ~8,334 |
-| Host | 6.00% | ~8,308 |
+| Host | 6.00% | ~8,309 |
 | Celebration | 6.00% | ~8,334 |
 | Hunt Down | 5.00% | ~6,945 |
 | Artisan | 4.00% | ~5,556 |
@@ -49,7 +49,7 @@ Number of Ratings: 46  (23.09.2022)
 | Instruments | 0.70% | ~972 |
 | Spiral Heart | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,892 (Ranked 64)  
+Progressed: 138,904 (Ranked 64)  
 Completed: 1 (0.00%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,7 +149,7 @@ Completed: 1 (0.00%) (Ranked 258)
 | 2023-08-14 | 137,893 | 1 |
 | 2023-08-15 | 138,364 | 1 |
 | 2023-08-16 | 138,779 | 1 |
-| 2023-08-17 | 138,892 | 1 |
+| 2023-08-17 | 138,904 | 1 |
 ## Awards
 Max (Challenging Combat): 25  (Ranked 481)  
 Sum: 71 (Ranked 434)  

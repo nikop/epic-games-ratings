@@ -6,27 +6,27 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 76.00% | ~11,526 |
-| Sword Runner | 62.00% | ~9,403 |
-| Running out of breath | 54.00% | ~8,190 |
-| Wallrunner | 54.00% | ~8,190 |
-| Homerunner | 45.00% | ~6,825 |
-| Out of order | 45.00% | ~6,825 |
-| I call it luck | 44.00% | ~6,673 |
-| Where are my Keys? | 41.00% | ~6,218 |
-| Back to hell | 37.00% | ~5,611 |
-| Perfection | 32.00% | ~4,853 |
+| Longrunner | 76.00% | ~11,528 |
+| Sword Runner | 62.00% | ~9,404 |
+| Running out of breath | 54.00% | ~8,191 |
+| Wallrunner | 54.00% | ~8,191 |
+| Homerunner | 45.00% | ~6,826 |
+| Out of order | 45.00% | ~6,826 |
+| I call it luck | 44.00% | ~6,674 |
+| Where are my Keys? | 41.00% | ~6,219 |
+| Back to hell | 37.00% | ~5,612 |
+| Perfection | 32.00% | ~4,854 |
 | Why not both | 30.00% | ~4,550 |
-| Sword to a gunfight | 29.00% | ~4,398 |
-| Upgrades not mandatory | 29.00% | ~4,398 |
-| Artificial selection | 28.00% | ~4,246 |
+| Sword to a gunfight | 29.00% | ~4,399 |
+| Upgrades not mandatory | 29.00% | ~4,399 |
+| Artificial selection | 28.00% | ~4,247 |
 | Control freak | 27.00% | ~4,095 |
 | Running Wild | 27.00% | ~4,095 |
-| Finish line | 26.00% | ~3,943 |
-| Unstoppable force | 23.00% | ~3,488 |
+| Finish line | 26.00% | ~3,944 |
+| Unstoppable force | 23.00% | ~3,489 |
 | Wave of mutilation | 22.00% | ~3,337 |
-| Can't Run Can't Hide | 17.00% | ~2,578 |
-| R is for Running | 17.00% | ~2,578 |
+| Can't Run Can't Hide | 17.00% | ~2,579 |
+| R is for Running | 17.00% | ~2,579 |
 | Dead in the air | 15.00% | ~2,275 |
 | Improvise, adapt, overrun | 13.00% | ~1,972 |
 | Pre-empative strike | 13.00% | ~1,972 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Sticks And Stones | 0.40% | ~61 |
 | Up Close And Personal | 0.40% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,166 (Ranked 115)  
+Progressed: 15,168 (Ranked 115)  
 Completed: 57 (0.38%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,7 +171,7 @@ Completed: 57 (0.38%) (Ranked 157)
 | 2023-08-14 | 15,036 | 57 |
 | 2023-08-15 | 15,097 | 57 |
 | 2023-08-16 | 15,144 | 57 |
-| 2023-08-17 | 15,166 | 57 |
+| 2023-08-17 | 15,168 | 57 |
 ## Awards
 Max (Great Boss Battles): 478  (Ranked 200)  
 Sum: 666 (Ranked 283)  

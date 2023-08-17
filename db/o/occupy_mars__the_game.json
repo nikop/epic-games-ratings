@@ -3286,9 +3286,9 @@
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
       "SetID": "l546gc",
       "Name": "5G Network",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "NEW_ACHIEVEMENT_ALIENS",
@@ -3591,8 +3591,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-08-11T16:58:33.8212432+00:00",
-  "LastChanged_Achievements": "2023-08-17T09:07:17.28101+00:00",
+  "LastChanged_Achievements": "2023-08-17T10:05:58.2925601+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:18.7138767+00:00",
-  "LastUpdate_Ratings": "2023-08-17T08:59:35.4289885+00:00",
-  "LastUpdate_Achievements": "2023-08-17T09:07:17.2811357+00:00"
+  "LastUpdate_Ratings": "2023-08-17T09:58:49.6220414+00:00",
+  "LastUpdate_Achievements": "2023-08-17T10:05:58.2926232+00:00"
 }

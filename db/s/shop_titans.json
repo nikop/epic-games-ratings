@@ -5570,10 +5570,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27104,
       "NumberOfAwardsMax": 4701
+    },
+    {
+      "Time": "2023-08-17T09:59:46.8343176+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27105,
+      "NumberOfAwardsMax": 4701
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27104,
+  "NumberOfAwards": 27105,
   "NumberOfAwardsMax": 4701,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5611,7 +5617,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 3999
+      "Count": 4000
     },
     {
       "Text": "This game has Playful Visuals",
@@ -5626,9 +5632,9 @@
       "Count": 3734
     }
   ],
-  "EOS_Progressed": 134637,
+  "EOS_Progressed": 134638,
   "EOS_Completed": 133,
-  "EOS_NewPlayers": 395,
+  "EOS_NewPlayers": 394,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -17771,6 +17777,11 @@
       "Time": "2023-08-17T09:06:52.7354606+00:00",
       "NumProgressed": 134637,
       "NumCompleted": 133
+    },
+    {
+      "Time": "2023-08-17T10:05:40.9855149+00:00",
+      "NumProgressed": 134638,
+      "NumCompleted": 133
     }
   ],
   "TotalAchievements": 112,
@@ -18228,9 +18239,9 @@
       "ID": "fuselegendary",
       "SetID": "anfd17p",
       "Name": "A Legend is Born",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 269
     },
     {
       "ID": "fuseuncommon",
@@ -18677,15 +18688,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 134637,
+      "Progressed": 134638,
       "Completed": 133
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-08-16T16:00:12.2700007+00:00",
-  "LastChanged_Achievements": "2023-08-17T09:06:52.7354598+00:00",
+  "LastChanged": "2023-08-17T09:59:46.8343175+00:00",
+  "LastChanged_Achievements": "2023-08-17T10:05:40.9855144+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:13.9096409+00:00",
-  "LastUpdate_Ratings": "2023-08-17T09:00:53.3451118+00:00",
-  "LastUpdate_Achievements": "2023-08-17T09:06:52.7357808+00:00"
+  "LastUpdate_Ratings": "2023-08-17T09:59:46.8343182+00:00",
+  "LastUpdate_Achievements": "2023-08-17T10:05:40.9857403+00:00"
 }

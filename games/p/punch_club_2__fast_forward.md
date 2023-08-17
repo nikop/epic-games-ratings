@@ -33,7 +33,7 @@
 | Little hacker | 59.00% | ~150 |
 | Employee of the year | 59.00% | ~150 |
 | Intriguing candies | 57.00% | ~145 |
-| Legal courier | 55.00% | ~140 |
+| Legal courier | 56.00% | ~142 |
 | Extreme neuropower! | 54.00% | ~137 |
 | Escaped from a big trouble | 53.00% | ~135 |
 | Now you are worthy | 49.00% | ~124 |

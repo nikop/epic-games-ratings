@@ -21,17 +21,17 @@
 | Fashion victim | 17.00% | ~8 |
 | Feels like springtime | 15.00% | ~7 |
 | In this together | 13.00% | ~6 |
-| Peace walker | 11.00% | ~5 |
-| Half the way | 11.00% | ~5 |
-| Open door | 11.00% | ~5 |
-| Free at last | 9.00% | ~4 |
-| A great audience | 9.00% | ~4 |
-| For its own good | 9.00% | ~4 |
-| A Link to the Past | 9.00% | ~4 |
-| Alchemists Express | 9.00% | ~4 |
+| Peace walker | 10.00% | ~5 |
+| Half the way | 10.00% | ~5 |
+| Open door | 10.00% | ~5 |
+| Free at last | 8.00% | ~4 |
+| A great audience | 8.00% | ~4 |
+| For its own good | 8.00% | ~4 |
+| A Link to the Past | 8.00% | ~4 |
+| Alchemists Express | 8.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47 (Ranked 371)  
-Completed: 4 (8.51%) (Ranked 33)  
+Progressed: 48 (Ranked 368)  
+Completed: 4 (8.33%) (Ranked 34)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -65,3 +65,4 @@ Completed: 4 (8.51%) (Ranked 33)
 | 2023-08-14 | 45 | 4 |
 | 2023-08-15 | 46 | 4 |
 | 2023-08-16 | 47 | 4 |
+| 2023-08-17 | 48 | 4 |

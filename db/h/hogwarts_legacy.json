@@ -6396,9 +6396,9 @@
       "Count": 596
     }
   ],
-  "EOS_Progressed": 290249,
+  "EOS_Progressed": 290250,
   "EOS_Completed": 452,
-  "EOS_NewPlayers": 487,
+  "EOS_NewPlayers": 484,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -19176,6 +19176,11 @@
       "Time": "2023-08-17T09:07:34.9176072+00:00",
       "NumProgressed": 290249,
       "NumCompleted": 452
+    },
+    {
+      "Time": "2023-08-17T10:06:10.8549212+00:00",
+      "NumProgressed": 290250,
+      "NumCompleted": 452
     }
   ],
   "TotalAchievements": 45,
@@ -19235,7 +19240,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20317
+      "UsersEstimate": 20318
     },
     {
       "ID": "PFA_16",
@@ -19251,7 +19256,7 @@
       "Name": "Beast Friends",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20317
+      "UsersEstimate": 20318
     },
     {
       "ID": "PFA_18",
@@ -19259,7 +19264,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20317
+      "UsersEstimate": 20318
     },
     {
       "ID": "PFA_19",
@@ -19267,7 +19272,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 20317
+      "UsersEstimate": 20318
     },
     {
       "ID": "PFA_2",
@@ -19331,7 +19336,7 @@
       "Name": "The Nature of the Beast",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 1741
+      "UsersEstimate": 1742
     },
     {
       "ID": "PFA_27",
@@ -19339,7 +19344,7 @@
       "Name": "Going Through the Potions",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 8707
+      "UsersEstimate": 8708
     },
     {
       "ID": "PFA_28",
@@ -19403,7 +19408,7 @@
       "Name": "Floo Around the World",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8707
+      "UsersEstimate": 8708
     },
     {
       "ID": "PFA_35",
@@ -19491,7 +19496,7 @@
       "Name": "The Spell Master",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 20317
+      "UsersEstimate": 20318
     },
     {
       "ID": "PFA_45",
@@ -19507,7 +19512,7 @@
       "Name": "The Wise Owl",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8707
+      "UsersEstimate": 8708
     },
     {
       "ID": "PFA_6",
@@ -19515,7 +19520,7 @@
       "Name": "First Class Student",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 31927
+      "UsersEstimate": 31928
     },
     {
       "ID": "PFA_7",
@@ -19523,7 +19528,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 31927
+      "UsersEstimate": 31928
     },
     {
       "ID": "PFA_8",
@@ -19546,7 +19551,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 290249,
+      "Progressed": 290250,
       "Completed": 452
     }
   ],
@@ -19554,8 +19559,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-08-17T04:59:01.9508559+00:00",
-  "LastChanged_Achievements": "2023-08-17T09:07:34.9176064+00:00",
+  "LastChanged_Achievements": "2023-08-17T10:06:10.8549207+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:17.4814985+00:00",
-  "LastUpdate_Ratings": "2023-08-17T08:59:32.3905029+00:00",
-  "LastUpdate_Achievements": "2023-08-17T09:07:34.9177831+00:00"
+  "LastUpdate_Ratings": "2023-08-17T09:58:47.5139044+00:00",
+  "LastUpdate_Achievements": "2023-08-17T10:06:10.8550389+00:00"
 }

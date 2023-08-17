@@ -2,9 +2,9 @@
   "ID": "abdc79e549e949708213288d680727a6",
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
-  "Ranking_EOS_Progress": 371,
-  "Ranking_EOS_Completed": 33,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_Progress": 368,
+  "Ranking_EOS_Completed": 34,
+  "Ranking_EOS_NewPlayers": 222,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -17,11 +17,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 47,
+  "EOS_Progressed": 48,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 8.51,
+  "EOS_Completed_Percentage": 8.33,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -272,6 +272,11 @@
       "Time": "2023-08-16T11:06:10.4730734+00:00",
       "NumProgressed": 47,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-17T10:06:02.0568279+00:00",
+      "NumProgressed": 48,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 25,
@@ -297,7 +302,7 @@
       "ID": "META_ALL_LINK",
       "SetID": "2gma9an",
       "Name": "Peace walker",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 100,
       "UsersEstimate": 5
     },
@@ -321,7 +326,7 @@
       "ID": "META_HALF_LINK",
       "SetID": "2gma9an",
       "Name": "Half the way",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 50,
       "UsersEstimate": 5
     },
@@ -329,7 +334,7 @@
       "ID": "META_RESULT_1-2",
       "SetID": "2gma9an",
       "Name": "Open door",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -337,7 +342,7 @@
       "ID": "META_RESULT_1-3",
       "SetID": "2gma9an",
       "Name": "Free at last",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -353,7 +358,7 @@
       "ID": "META_RESULT_2-3",
       "SetID": "2gma9an",
       "Name": "A great audience",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -361,7 +366,7 @@
       "ID": "META_RESULT_2-4",
       "SetID": "2gma9an",
       "Name": "For its own good",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -369,7 +374,7 @@
       "ID": "META_RESULT_3-4",
       "SetID": "2gma9an",
       "Name": "A Link to the Past",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -377,7 +382,7 @@
       "ID": "OPTIONNAL_AIRLINES",
       "SetID": "2gma9an",
       "Name": "Alchemists Express",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -482,13 +487,13 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 47,
+      "Progressed": 48,
       "Completed": 4
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-08-17T09:07:22.5233667+00:00",
+  "LastChanged_Achievements": "2023-08-17T10:06:02.0568274+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:49.4047854+00:00",
-  "LastUpdate_Ratings": "2023-08-17T09:01:34.0604244+00:00",
-  "LastUpdate_Achievements": "2023-08-17T09:07:22.5233849+00:00"
+  "LastUpdate_Ratings": "2023-08-17T10:00:16.8345547+00:00",
+  "LastUpdate_Achievements": "2023-08-17T10:06:02.0568466+00:00"
 }

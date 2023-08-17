@@ -2,12 +2,12 @@
   "ID": "a8a489c0a58646ec88aec778d015fc73",
   "Name": "Edge Of Eternity",
   "ProductSlug": "edge-of-eternity",
-  "Ranking_Rating": 955,
+  "Ranking_Rating": 956,
   "Ranking_Popularity": 511,
   "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 546,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewPlayers": 357,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2021-06-08T15:00:00+00:00",
@@ -126,6 +126,6 @@
   "FirstSeenRating": "2022-09-05T18:00:46.7188152+00:00",
   "LastChanged": "2023-07-20T05:58:33.0932295+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:50.6276133+00:00",
-  "LastUpdate_Ratings": "2023-08-17T09:00:28.7843911+00:00",
-  "LastUpdate_Achievements": "2023-08-17T09:08:01.3115653+00:00"
+  "LastUpdate_Ratings": "2023-08-17T09:59:27.9299241+00:00",
+  "LastUpdate_Achievements": "2023-08-17T10:06:29.8742503+00:00"
 }

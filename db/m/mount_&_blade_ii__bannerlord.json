@@ -6447,7 +6447,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 59025,
+  "EOS_Progressed": 59027,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 463,
   "EOS_NewCompleters": 0,
@@ -18977,6 +18977,11 @@
       "Time": "2023-08-17T09:05:51.7765557+00:00",
       "NumProgressed": 59025,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-17T10:04:56.1998185+00:00",
+      "NumProgressed": 59027,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -19116,7 +19121,7 @@
       "Name": "God of the Arena",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 7673
+      "UsersEstimate": 7674
     },
     {
       "ID": "Great Granny",
@@ -19180,7 +19185,7 @@
       "Name": "King Solomon",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10034
+      "UsersEstimate": 10035
     },
     {
       "ID": "Kingslayer",
@@ -19212,7 +19217,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 18888
+      "UsersEstimate": 18889
     },
     {
       "ID": "Lawbringer",
@@ -19236,7 +19241,7 @@
       "Name": "Long live the Empire!",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1180
+      "UsersEstimate": 1181
     },
     {
       "ID": "Mastery",
@@ -19332,7 +19337,7 @@
       "Name": "Swordbearer",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 5902
+      "UsersEstimate": 5903
     },
     {
       "ID": "The king is pleased",
@@ -19340,7 +19345,7 @@
       "Name": "The king is pleased",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 10624
+      "UsersEstimate": 10625
     },
     {
       "ID": "This Is Our Land",
@@ -19348,7 +19353,7 @@
       "Name": "This Is Our Land",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 5902
+      "UsersEstimate": 5903
     },
     {
       "ID": "This is Sparta",
@@ -19395,15 +19400,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 59025,
+      "Progressed": 59027,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-08-17T07:57:30.2735854+00:00",
-  "LastChanged_Achievements": "2023-08-17T09:05:51.7765551+00:00",
+  "LastChanged_Achievements": "2023-08-17T10:04:56.199818+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:44.6335832+00:00",
-  "LastUpdate_Ratings": "2023-08-17T08:57:17.8950915+00:00",
-  "LastUpdate_Achievements": "2023-08-17T09:05:51.7766712+00:00"
+  "LastUpdate_Ratings": "2023-08-17T09:57:12.0451387+00:00",
+  "LastUpdate_Achievements": "2023-08-17T10:04:56.1999406+00:00"
 }

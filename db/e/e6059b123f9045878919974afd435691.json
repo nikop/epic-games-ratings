@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 741,
+  "EOS_Progressed": 742,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1641,6 +1641,11 @@
       "Time": "2023-08-17T09:08:30.5188588+00:00",
       "NumProgressed": 741,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-17T10:06:50.9064764+00:00",
+      "NumProgressed": 742,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1660,7 +1665,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -1724,7 +1729,7 @@
       "Name": "Capraphobia",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -1850,17 +1855,17 @@
       "ID": "DUCHESS_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Greetings from Royalty",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 223
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Think Bullets Will Affect Her?",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 59
     },
     {
       "ID": "EXT_ACHIEVEMENT_1",
@@ -1898,9 +1903,9 @@
       "ID": "FREE_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "I\u0027ll Save You!",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 104
     },
     {
       "ID": "FREE_ACHIEVEMENT_2",
@@ -1930,9 +1935,9 @@
       "ID": "KILLR_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Breaking Twigs",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 356
+      "UsersEstimate": 364
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -1940,15 +1945,15 @@
       "Name": "Who You Gonna Call?",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
       "SetID": "9lcahn0",
       "Name": "Decakill!",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 170
+      "UsersEstimate": 178
     },
     {
       "ID": "KILLR_ACHIEVEMENT_4",
@@ -1964,7 +1969,7 @@
       "Name": "Do This In Silence",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_1",
@@ -1972,7 +1977,7 @@
       "Name": "And There We Go",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -2010,9 +2015,9 @@
       "ID": "LEECHER_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Don\u0027t Turn Your Back",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 178
+      "UsersEstimate": 186
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
@@ -2050,9 +2055,9 @@
       "ID": "MEAT_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "To Get Stronger",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 59
     },
     {
       "ID": "MEAT_ACHIEVEMENT_3",
@@ -2084,7 +2089,7 @@
       "Name": "The Last of Us",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "PASS_ACHIEVEMENT_1",
@@ -2098,9 +2103,9 @@
       "ID": "RAPTOR_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "The Clairvoyant Who Doesn\u0027t See",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 304
+      "UsersEstimate": 312
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -2179,14 +2184,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 741,
+      "Progressed": 742,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-08-17T09:08:30.518858+00:00",
+  "LastChanged_Achievements": "2023-08-17T10:06:50.9064759+00:00",
   "LastUpdate_AppInfo": "2023-08-10T15:57:09.1792695+00:00",
-  "LastUpdate_Ratings": "2023-08-17T08:58:43.0299223+00:00",
-  "LastUpdate_Achievements": "2023-08-17T09:08:30.5189475+00:00"
+  "LastUpdate_Ratings": "2023-08-17T09:58:12.7677502+00:00",
+  "LastUpdate_Achievements": "2023-08-17T10:06:50.9065533+00:00"
 }

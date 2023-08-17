@@ -39,8 +39,8 @@ Number of Ratings: 371  (23.09.2022)
 | Long Distance Call | 0.40% | ~13 |
 | Tactical Flexibility | 0.40% | ~13 |
 | For the Machine God | 0.30% | ~9 |
+| Strike Force | 0.30% | ~9 |
 | Engine Kill | 0.30% | ~9 |
-| Strike Force | 0.20% | ~6 |
 | Exterminator | 0.20% | ~6 |
 | Exercise in Restraint | 0.20% | ~6 |
 | Harvest No More | 0.20% | ~6 |

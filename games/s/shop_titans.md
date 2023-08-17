@@ -74,6 +74,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cranked up to 11 | 0.20% | ~269 |
 | Fit for a King | 0.20% | ~269 |
 | By Your Powers Combined... | 0.20% | ~269 |
+| A Legend is Born | 0.20% | ~269 |
 | Trash to Treasure | 0.20% | ~269 |
 | Mammonite | 0.20% | ~269 |
 | Wealth Beyond Measure | 0.20% | ~269 |
@@ -104,7 +105,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Oligarch Monarch | 0.10% | ~135 |
 | Unleashed Potential | 0.10% | ~135 |
 | Thank You Tom Nook | 0.10% | ~135 |
-| A Legend is Born | 0.10% | ~135 |
 | Capitalist Camaraderie | 0.10% | ~135 |
 | Necromancer Queen | 0.10% | ~135 |
 | Jackpot! | 0.10% | ~135 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.10% | ~135 |
 | All Accounted For | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,637 (Ranked 66)  
+Progressed: 134,638 (Ranked 66)  
 Completed: 133 (0.10%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,15 +238,15 @@ Completed: 133 (0.10%) (Ranked 205)
 | 2023-08-14 | 134,532 | 132 |
 | 2023-08-15 | 134,574 | 132 |
 | 2023-08-16 | 134,622 | 133 |
-| 2023-08-17 | 134,637 | 133 |
+| 2023-08-17 | 134,638 | 133 |
 ## Awards
 Max (Great for Beginners): 4,701  (Ranked 71)  
-Sum: 27,104 (Ranked 46)  
+Sum: 27,105 (Ranked 46)  
 Diff (max vs sum): 25  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,701 |
-| This game is Relaxing | 3,999 |
+| This game is Relaxing | 4,000 |
 | This game has Quickly Understood Controls | 3,986 |
 | This game has Diverse Characters | 3,854 |
 | This game is Highly Recommended | 3,734 |
@@ -461,3 +461,4 @@ Diff (max vs sum): 25
 | 2023-08-14 | 3.99 | - | 4,700 | 27,095 |
 | 2023-08-15 | 3.99 | - | 4,700 | 27,101 |
 | 2023-08-16 | 3.99 | - | 4,701 | 27,104 |
+| 2023-08-17 | 3.99 | - | 4,701 | 27,105 |
