@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 61007,
+  "EOS_Progressed": 61008,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 368,
+  "EOS_NewPlayers": 365,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11542,6 +11542,11 @@
       "Time": "2023-08-17T17:06:21.2058192+00:00",
       "NumProgressed": 61007,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-17T18:06:10.919957+00:00",
+      "NumProgressed": 61008,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -11585,7 +11590,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 12201
+      "UsersEstimate": 12202
     },
     {
       "ID": "06",
@@ -11673,7 +11678,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4270
+      "UsersEstimate": 4271
     },
     {
       "ID": "17",
@@ -11681,7 +11686,7 @@
       "Name": "Departure",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4270
+      "UsersEstimate": 4271
     },
     {
       "ID": "18",
@@ -11961,7 +11966,7 @@
       "Name": "A Friend Indeed",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1468
+      "UsersEstimate": 1469
     },
     {
       "ID": "53",
@@ -12088,21 +12093,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 61007,
+      "Progressed": 61008,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 24475,
+      "Progressed": 24476,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-17T17:06:21.2058186+00:00",
+  "LastChanged_Achievements": "2023-08-17T18:06:10.9199567+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:20.2881971+00:00",
-  "LastUpdate_Ratings": "2023-08-17T16:59:32.2304222+00:00",
-  "LastUpdate_Achievements": "2023-08-17T17:06:21.2059628+00:00"
+  "LastUpdate_Ratings": "2023-08-17T17:59:22.8556605+00:00",
+  "LastUpdate_Achievements": "2023-08-17T18:06:10.9200908+00:00"
 }

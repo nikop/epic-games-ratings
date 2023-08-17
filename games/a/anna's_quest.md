@@ -10,9 +10,9 @@
 | My lost nightingale | 65.00% | ~22 |
 | Ooh, it's shiny! | 65.00% | ~22 |
 | Back to the anvil | 56.00% | ~19 |
+| So soothing... | 53.00% | ~18 |
 | Roostwig has entered the building | 53.00% | ~18 |
 | Mystery solved | 50.00% | ~17 |
-| So soothing... | 50.00% | ~17 |
 | NOW GO AWAY! | 50.00% | ~17 |
 | Honey, honey, honey… | 47.00% | ~16 |
 | Fussy eater | 47.00% | ~16 |
@@ -35,9 +35,9 @@
 | Beekeeper | 32.00% | ~11 |
 | Makeover | 32.00% | ~11 |
 | Singstar | 32.00% | ~11 |
+| Kill it! KILL IT! | 32.00% | ~11 |
 | Turn the last page | 29.00% | ~10 |
 | Guilty conscience | 29.00% | ~10 |
-| Kill it! KILL IT! | 29.00% | ~10 |
 | Cameodalic | 24.00% | ~8 |
 | Bahahahaha... | 24.00% | ~8 |
 | Clever reference #451 | 21.00% | ~7 |

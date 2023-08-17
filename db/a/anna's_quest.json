@@ -373,9 +373,9 @@
       "ID": "aq_achievement_39",
       "SetID": "7jh86ne",
       "Name": "Kill it! KILL IT!",
-      "Percentage": 29,
+      "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "aq_achievement_4",
@@ -389,9 +389,9 @@
       "ID": "aq_achievement_5",
       "SetID": "7jh86ne",
       "Name": "So soothing...",
-      "Percentage": 50,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "aq_achievement_6",
@@ -438,8 +438,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.0099942+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.5540856+00:00",
   "LastChanged": "2023-03-31T05:58:28.0099943+00:00",
-  "LastChanged_Achievements": "2023-08-17T17:03:52.318005+00:00",
+  "LastChanged_Achievements": "2023-08-17T18:03:59.7128238+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:55.3569902+00:00",
-  "LastUpdate_Ratings": "2023-08-17T17:01:12.3304404+00:00",
-  "LastUpdate_Achievements": "2023-08-17T17:03:52.318042+00:00"
+  "LastUpdate_Ratings": "2023-08-17T18:00:55.2376807+00:00",
+  "LastUpdate_Achievements": "2023-08-17T18:03:59.7128575+00:00"
 }

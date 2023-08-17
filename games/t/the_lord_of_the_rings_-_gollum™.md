@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | The Wraith | 63.00% | ~318 |
 | Welcome to Mordor! | 53.00% | ~268 |
-| Collectibles Part 1 | 51.00% | ~258 |
+| Collectibles Part 1 | 52.00% | ~263 |
 | Wait! Wait! Not yet! | 38.00% | ~192 |
 | Like Flying... | 33.00% | ~167 |
 | The Maggot | 28.00% | ~141 |

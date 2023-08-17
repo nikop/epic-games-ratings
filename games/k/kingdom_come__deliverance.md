@@ -6,19 +6,19 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~255,167 |
-| Cavalier | 25.00% | ~199,349 |
-| Fatso | 23.00% | ~183,401 |
-| Awakening | 21.00% | ~167,453 |
-| Ranger | 20.00% | ~159,479 |
-| Scrooge | 20.00% | ~159,479 |
-| Anorectic | 16.00% | ~127,583 |
-| Bookworm | 15.00% | ~119,609 |
-| Firestarter | 15.00% | ~119,609 |
-| Insomniac | 13.00% | ~103,661 |
-| Buddy | 12.00% | ~95,688 |
-| Thief | 12.00% | ~95,688 |
-| Sinner | 11.00% | ~87,714 |
+| Blacksmith's Son | 32.00% | ~255,170 |
+| Cavalier | 25.00% | ~199,351 |
+| Fatso | 23.00% | ~183,403 |
+| Awakening | 21.00% | ~167,455 |
+| Ranger | 20.00% | ~159,481 |
+| Scrooge | 20.00% | ~159,481 |
+| Anorectic | 16.00% | ~127,585 |
+| Bookworm | 15.00% | ~119,611 |
+| Firestarter | 15.00% | ~119,611 |
+| Insomniac | 13.00% | ~103,663 |
+| Buddy | 12.00% | ~95,689 |
+| Thief | 12.00% | ~95,689 |
+| Sinner | 11.00% | ~87,715 |
 | Convict | 10.00% | ~79,740 |
 | Traveller | 10.00% | ~79,740 |
 | Haggler | 9.00% | ~71,766 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~797 |
 | Wingman | 0.10% | ~797 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 797,396 (Ranked 15)  
+Progressed: 797,405 (Ranked 15)  
 Completed: 44 (0.01%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,10 +208,10 @@ Completed: 44 (0.01%) (Ranked 245)
 | 2023-08-14 | 797,070 | 44 |
 | 2023-08-15 | 797,190 | 44 |
 | 2023-08-16 | 797,302 | 44 |
-| 2023-08-17 | 797,396 | 44 |
+| 2023-08-17 | 797,405 | 44 |
 ## Awards
 Max (Character Customization): 7,389  (Ranked 47)  
-Sum: 27,515 (Ranked 45)  
+Sum: 27,516 (Ranked 45)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
@@ -222,7 +222,7 @@ Diff (max vs sum): 2
 | This game has Diverse Characters | 1,666 |
 | This game is Extremely Fun | 1,653 |
 | This game is Highly Recommended | 1,646 |
-| This game has Amazing Characters | 1,626 |
+| This game has Amazing Characters | 1,627 |
 | This game has Realistic Visuals | 1,622 |
 | This game is Educational | 1,564 |
 | This game is Relaxing | 1,506 |
@@ -434,4 +434,4 @@ Diff (max vs sum): 2
 | 2023-08-14 | 4.71 | - | 7,381 | 27,496 |
 | 2023-08-15 | 4.71 | - | 7,381 | 27,498 |
 | 2023-08-16 | 4.71 | - | 7,387 | 27,507 |
-| 2023-08-17 | 4.71 | - | 7,389 | 27,515 |
+| 2023-08-17 | 4.71 | - | 7,389 | 27,516 |

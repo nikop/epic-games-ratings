@@ -6,17 +6,18 @@ Rating: 4.20 (Ranked 855)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Get a Grip | 5.00% | ~793 |
+| Flesh Wound | 4.00% | ~635 |
 | Float Like A Butterfly | 4.00% | ~635 |
 | Paper Jams | 4.00% | ~635 |
 | Keep Fighting | 4.00% | ~152 |
 | You Need a Gun | 3.00% | ~476 |
-| Flesh Wound | 3.00% | ~476 |
 | I Do Belong Here | 3.00% | ~476 |
 | Two Heads Are Better Than One | 3.00% | ~476 |
 | Chew 'Em Up | 3.00% | ~476 |
 | Workplace Hazard | 3.00% | ~476 |
 | Reforged | 3.00% | ~476 |
 | The Outer Way | 3.00% | ~476 |
+| If the SHU Fits... | 3.00% | ~476 |
 | Without A Paddle | 3.00% | ~476 |
 | In the Pipe, Five by Five | 3.00% | ~476 |
 | What Lies Beneath | 3.00% | ~476 |
@@ -27,7 +28,6 @@ Rating: 4.20 (Ranked 855)
 | Giving Back | 2.00% | ~317 |
 | Terminated | 2.00% | ~317 |
 | The Commonality | 2.00% | ~317 |
-| If the SHU Fits... | 2.00% | ~317 |
 | Desperate Times | 2.00% | ~317 |
 | One Last Job | 2.00% | ~76 |
 | In Striking Distance | 1.00% | ~159 |

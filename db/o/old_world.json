@@ -6,8 +6,8 @@
   "Ranking_Popularity": 264,
   "Ranking_PopularitySum": 206,
   "Ranking_EOS_Progress": 117,
-  "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_Completed": 227,
+  "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -1611,9 +1611,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13441,
+  "EOS_Progressed": 13442,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -9776,6 +9776,11 @@
       "Time": "2023-08-17T16:05:45.6536487+00:00",
       "NumProgressed": 13441,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-17T18:05:29.1272975+00:00",
+      "NumProgressed": 13442,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -10489,9 +10494,9 @@
       "ID": "ACHIEVEMENT_CULTURE_LEGENDARY",
       "SetID": "9201eeb",
       "Name": "Legendary Cities",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 121
+      "UsersEstimate": 134
     },
     {
       "ID": "ACHIEVEMENT_CULTURE_STRONG",
@@ -11737,9 +11742,9 @@
       "ID": "ACHIEVEMENT_TECH_MILITARY_PRESTIGE",
       "SetID": "9201eeb",
       "Name": "Military Prestige",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 54
+      "UsersEstimate": 67
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_DUALISM",
@@ -11761,9 +11766,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_GNOSTICISM",
       "SetID": "7l38kb8",
       "Name": "Gnosticism",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 67
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_LEGALISM",
@@ -12154,21 +12159,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13441,
+      "Progressed": 13442,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13441,
+      "Progressed": 13442,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-16T15:59:34.3416467+00:00",
-  "LastChanged_Achievements": "2023-08-17T17:05:37.1899921+00:00",
+  "LastChanged_Achievements": "2023-08-17T18:05:29.1272971+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:38.1291138+00:00",
-  "LastUpdate_Ratings": "2023-08-17T16:59:51.8071595+00:00",
-  "LastUpdate_Achievements": "2023-08-17T17:05:37.1908774+00:00"
+  "LastUpdate_Ratings": "2023-08-17T17:59:42.0939113+00:00",
+  "LastUpdate_Achievements": "2023-08-17T18:05:29.1283018+00:00"
 }

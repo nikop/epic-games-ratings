@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let the Adventure Begin! | 60.00% | ~15 |
-| Prized Possession | 32.00% | ~8 |
-| Creature Evolution | 28.00% | ~7 |
-| Spirit of competition | 28.00% | ~7 |
-| Kingdom Party Time | 24.00% | ~6 |
-| Think Positive | 20.00% | ~5 |
-| Festival Fever | 16.00% | ~4 |
-| Entering New Territory | 16.00% | ~4 |
+| Let the Adventure Begin! | 58.00% | ~15 |
+| Prized Possession | 31.00% | ~8 |
+| Creature Evolution | 27.00% | ~7 |
+| Spirit of competition | 27.00% | ~7 |
+| Kingdom Party Time | 23.00% | ~6 |
+| Think Positive | 19.00% | ~5 |
+| Festival Fever | 15.00% | ~4 |
+| Entering New Territory | 15.00% | ~4 |
 | Landscaper | 12.00% | ~3 |
 | Diamonds in the Rough | 8.00% | ~2 |
 | Dream Big | 8.00% | ~2 |
@@ -30,7 +30,7 @@
 | Job Done! | 0.00% | ~0 |
 | Claim to Fame | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25 (Ranked 403)  
+Progressed: 26 (Ranked 403)  
 Completed: 0 (0.00%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -57,6 +57,7 @@ Completed: 0 (0.00%) (Ranked 258)
 | 2023-07-10 | 22 | 0 |
 | 2023-07-29 | 24 | 0 |
 | 2023-08-01 | 25 | 0 |
+| 2023-08-17 | 26 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

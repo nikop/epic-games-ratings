@@ -40,6 +40,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Warrior | 1.00% | ~134 |
 | Wise | 1.00% | ~134 |
 | Developing Cities | 1.00% | ~134 |
+| Legendary Cities | 1.00% | ~134 |
 | Strong Cities | 1.00% | ~134 |
 | Able Difficulty | 1.00% | ~134 |
 | Artisans | 1.00% | ~134 |
@@ -63,7 +64,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Zoroastrianism | 1.00% | ~134 |
 | Drillmaster | 0.90% | ~121 |
 | Valiant | 0.90% | ~121 |
-| Legendary Cities | 0.90% | ~121 |
 | Just Difficulty | 0.90% | ~121 |
 | Learn to Play 2 | 0.90% | ~121 |
 | Mythology | 0.90% | ~121 |
@@ -115,8 +115,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage | 0.50% | ~67 |
 | Assyrian Paganism | 0.50% | ~67 |
 | Industrial Progress | 0.50% | ~67 |
+| Military Prestige | 0.50% | ~67 |
 | Dualism | 0.50% | ~67 |
 | Enlightenment | 0.50% | ~67 |
+| Gnosticism | 0.50% | ~67 |
 | Revelation | 0.50% | ~67 |
 | Veneration | 0.50% | ~67 |
 | Cimmerian Archer | 0.50% | ~67 |
@@ -129,8 +131,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 4 | 0.40% | ~54 |
 | Rome | 0.40% | ~54 |
 | One True Faith | 0.40% | ~54 |
-| Military Prestige | 0.40% | ~54 |
-| Gnosticism | 0.40% | ~54 |
 | Kushite Cavalry | 0.40% | ~54 |
 | Turreted Elephant | 0.40% | ~54 |
 | No Undo | 0.40% | ~54 |
@@ -303,8 +303,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,441 (Ranked 117)  
-Completed: 5 (0.04%) (Ranked 228)  
+Progressed: 13,442 (Ranked 117)  
+Completed: 5 (0.04%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -422,7 +422,7 @@ Completed: 5 (0.04%) (Ranked 228)
 | 2023-08-14 | 13,412 | 5 |
 | 2023-08-15 | 13,422 | 5 |
 | 2023-08-16 | 13,432 | 5 |
-| 2023-08-17 | 13,441 | 5 |
+| 2023-08-17 | 13,442 | 5 |
 ## Awards
 Max (Relaxing): 219  (Ranked 264)  
 Sum: 1,792 (Ranked 206)  

@@ -8,8 +8,8 @@ Number of Ratings: 111  (23.09.2022)
 | ---- | ---------- | ----- |
 | You're free now! | 59.00% | ~1,611 |
 | Keeping it classy | 27.00% | ~737 |
-| Welcome to the family | 21.00% | ~573 |
-| The finer things in life | 18.00% | ~491 |
+| Welcome to the family | 21.00% | ~574 |
+| The finer things in life | 18.00% | ~492 |
 | Backpacker | 14.00% | ~382 |
 | Go with the Flow | 13.00% | ~355 |
 | Plastic Surgeon | 10.00% | ~273 |
@@ -28,12 +28,12 @@ Number of Ratings: 111  (23.09.2022)
 | Squad goals | 6.00% | ~164 |
 | Sup widdit big dog! | 6.00% | ~164 |
 | Tight lipslides | 6.00% | ~164 |
-| Commence the Hijinx! | 5.00% | ~136 |
-| DIY Boss | 5.00% | ~136 |
-| Globetrotter | 5.00% | ~136 |
-| Laid back | 5.00% | ~136 |
-| NAHELL! | 5.00% | ~136 |
-| Trick shot marksman | 5.00% | ~136 |
+| Commence the Hijinx! | 5.00% | ~137 |
+| DIY Boss | 5.00% | ~137 |
+| Globetrotter | 5.00% | ~137 |
+| Laid back | 5.00% | ~137 |
+| NAHELL! | 5.00% | ~137 |
+| Trick shot marksman | 5.00% | ~137 |
 | Cops called! | 4.00% | ~109 |
 | G.O.A.T. status | 4.00% | ~109 |
 | Lines for days | 4.00% | ~109 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,730 (Ranked 160)  
+Progressed: 2,731 (Ranked 161)  
 Completed: 0 (0.00%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 0 (0.00%) (Ranked 258)
 | 2023-08-14 | 2,723 | 0 |
 | 2023-08-15 | 2,727 | 0 |
 | 2023-08-16 | 2,729 | 0 |
-| 2023-08-17 | 2,730 | 0 |
+| 2023-08-17 | 2,731 | 0 |
 ## Awards
 Max (Highly Recommended): 52  (Ranked 398)  
 Sum: 451 (Ranked 308)  

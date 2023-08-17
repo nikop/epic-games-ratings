@@ -13,9 +13,9 @@ Rating: 4.42 (Ranked 667)
 | Lumberjack | 53.00% | ~725 |
 | Croaked | 49.00% | ~670 |
 | Limp Richard | 48.00% | ~657 |
+| From Darkness to Light | 48.00% | ~657 |
 | Editor Adept | 47.00% | ~643 |
 | Exorcist | 47.00% | ~643 |
-| From Darkness to Light | 47.00% | ~643 |
 | Giant Killer | 45.00% | ~616 |
 | Sensei | 43.00% | ~588 |
 | Firestarter | 42.00% | ~575 |
@@ -28,7 +28,7 @@ Rating: 4.42 (Ranked 667)
 | Infiltrator | 33.00% | ~451 |
 | Pushing Daisy | 32.00% | ~438 |
 | Experienced | 31.00% | ~424 |
-| Hold The Line | 29.00% | ~397 |
+| Hold The Line | 30.00% | ~410 |
 | Endgame | 26.00% | ~356 |
 | Savior | 26.00% | ~356 |
 | There Can Be Only One! | 25.00% | ~342 |

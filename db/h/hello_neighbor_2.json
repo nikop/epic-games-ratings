@@ -5,9 +5,9 @@
   "Ranking_Rating": 610,
   "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 512,
-  "Ranking_EOS_Progress": 159,
+  "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 60,
-  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -366,11 +366,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2756,
-  "EOS_Completed": 107,
-  "EOS_NewPlayers": 31,
+  "EOS_Progressed": 2757,
+  "EOS_Completed": 108,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.88,
+  "EOS_Completed_Percentage": 3.92,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:02.7979813+00:00",
@@ -2706,6 +2706,11 @@
       "Time": "2023-08-17T17:02:16.9002767+00:00",
       "NumProgressed": 2756,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2023-08-17T18:02:18.1603112+00:00",
+      "NumProgressed": 2757,
+      "NumCompleted": 108
     }
   ],
   "TotalAchievements": 14,
@@ -2725,7 +2730,7 @@
       "Name": "Case Closed",
       "Percentage": 36,
       "XP": 55,
-      "UsersEstimate": 992
+      "UsersEstimate": 993
     },
     {
       "ID": "ACH_CAT_LOVER",
@@ -2741,7 +2746,7 @@
       "Name": "Climber",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "ACH_DOG_LOVER",
@@ -2757,7 +2762,7 @@
       "Name": "Easy As Pie",
       "Percentage": 33,
       "XP": 55,
-      "UsersEstimate": 909
+      "UsersEstimate": 910
     },
     {
       "ID": "ACH_FAMILY_LOST",
@@ -2789,7 +2794,7 @@
       "Name": "Mad Scientist",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "ACH_REUNION",
@@ -2797,7 +2802,7 @@
       "Name": "Reunion",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "ACH_SHOVEL_NIGHT",
@@ -2828,16 +2833,16 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2756,
-      "Completed": 107
+      "Progressed": 2757,
+      "Completed": 108
     }
   ],
   "FirstSeen": "2022-12-06T19:57:03.5315641+00:00",
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-08-12T10:57:00.5102545+00:00",
-  "LastChanged_Achievements": "2023-08-17T17:02:16.900276+00:00",
+  "LastChanged_Achievements": "2023-08-17T18:02:18.1603108+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:10.1375328+00:00",
-  "LastUpdate_Ratings": "2023-08-17T16:57:43.7443556+00:00",
-  "LastUpdate_Achievements": "2023-08-17T17:02:16.9003081+00:00"
+  "LastUpdate_Ratings": "2023-08-17T17:57:42.2612499+00:00",
+  "LastUpdate_Achievements": "2023-08-17T18:02:18.1603602+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -4498,9 +4498,9 @@
       "ID": "A30",
       "SetID": "9b7p7eo",
       "Name": "All mine",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 523
+      "UsersEstimate": 541
     },
     {
       "ID": "A31",
@@ -4514,9 +4514,9 @@
       "ID": "A32",
       "SetID": "9b7p7eo",
       "Name": "Assimilated",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 270
+      "UsersEstimate": 288
     },
     {
       "ID": "A33",
@@ -4707,8 +4707,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-08-17T01:36:37.2422818+00:00",
-  "LastChanged_Achievements": "2023-08-17T17:06:06.8432489+00:00",
+  "LastChanged_Achievements": "2023-08-17T18:05:57.2120485+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:49.1747301+00:00",
-  "LastUpdate_Ratings": "2023-08-17T17:00:06.1086573+00:00",
-  "LastUpdate_Achievements": "2023-08-17T17:06:06.8433287+00:00"
+  "LastUpdate_Ratings": "2023-08-17T17:59:54.4207235+00:00",
+  "LastUpdate_Achievements": "2023-08-17T18:05:57.2121236+00:00"
 }
