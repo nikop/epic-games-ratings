@@ -54,9 +54,9 @@
 | Seashell hunter | 37.00% | ~94 |
 | Gang wrangler | 35.00% | ~89 |
 | Problems of cyborgs | 35.00% | ~89 |
+| Undercover robot | 34.00% | ~86 |
 | Absolute Champion! | 33.00% | ~84 |
 | Careerist | 33.00% | ~84 |
-| Undercover robot | 33.00% | ~84 |
 | Not little hacker | 32.00% | ~81 |
 | Anyone can resist | 32.00% | ~81 |
 | Trap disarmed | 31.00% | ~79 |
@@ -71,8 +71,8 @@
 | Better cooking at home | 27.00% | ~69 |
 | The only right decision | 26.00% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254 (Ranked 269)  
-Completed: 8 (3.15%) (Ranked 68)  
+Progressed: 254 (Ranked 270)  
+Completed: 8 (3.15%) (Ranked 67)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

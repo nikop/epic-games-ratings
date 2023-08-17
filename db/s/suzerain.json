@@ -2,20 +2,20 @@
   "ID": "4586d456108e4a03810c5927453ce6da",
   "Name": "Suzerain",
   "ProductSlug": "suzerain",
-  "Ranking_Rating": 215,
+  "Ranking_Rating": 258,
   "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 546,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 360,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
     "PcReleaseDate": "2020-12-04T15:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.69,
+  "Rating": 4.67,
   "RatingHistory": [
     {
       "Time": "2022-11-13T17:58:37.9841255+00:00",
@@ -54,6 +54,12 @@
       "Rating": 4.69,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-08-17T16:01:19.4355369+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -72,8 +78,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:09.9621281+00:00",
   "FirstSeenRating": "2022-11-13T17:58:37.984125+00:00",
-  "LastChanged": "2023-06-19T06:59:54.4759041+00:00",
+  "LastChanged": "2023-08-17T16:01:19.4355367+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:58.8199435+00:00",
-  "LastUpdate_Ratings": "2023-08-17T15:01:05.2600768+00:00",
-  "LastUpdate_Achievements": "2023-08-17T15:02:20.7900491+00:00"
+  "LastUpdate_Ratings": "2023-08-17T16:01:19.4355377+00:00",
+  "LastUpdate_Achievements": "2023-08-17T16:03:24.6909321+00:00"
 }

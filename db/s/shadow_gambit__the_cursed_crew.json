@@ -2,10 +2,10 @@
   "ID": "42b8b899a3f349bd8376264ccee3cd2a",
   "Name": "Shadow Gambit: The Cursed Crew",
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
-  "Ranking_EOS_Progress": 377,
+  "Ranking_EOS_Progress": 378,
   "Ranking_EOS_Completed": 258,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -438,8 +438,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-17T15:03:13.1829496+00:00",
+  "LastChanged_Achievements": "2023-08-17T16:03:37.1296172+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:42.1902661+00:00",
-  "LastUpdate_Ratings": "2023-08-17T14:59:47.2048147+00:00",
-  "LastUpdate_Achievements": "2023-08-17T15:03:13.1829767+00:00"
+  "LastUpdate_Ratings": "2023-08-17T15:59:59.938126+00:00",
+  "LastUpdate_Achievements": "2023-08-17T16:03:37.1296367+00:00"
 }

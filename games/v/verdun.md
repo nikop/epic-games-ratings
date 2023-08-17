@@ -1,23 +1,23 @@
 # Verdun
 [Store](https://store.epicgames.com/en-US/p/verdun)  
 [View Rawdata](../../db/v/verdun.json)  
-Rating: 4.52 (Ranked 528)  
+Rating: 4.52 (Ranked 527)  
 Number of Ratings: 1,999  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 77.00% | ~42,620 |
-| Worth it | 63.00% | ~34,870 |
-| Eagle Eye | 55.00% | ~30,443 |
-| Corpseman I | 40.00% | ~22,140 |
-| Blast fishing | 37.00% | ~20,480 |
-| Not alone | 32.00% | ~17,712 |
-| Headhunter I | 26.00% | ~14,391 |
-| Manual Labour I | 25.00% | ~13,838 |
-| Developers, Developers, Developers | 24.00% | ~13,284 |
-| Basic Training | 24.00% | ~13,284 |
+| Setting an example | 77.00% | ~42,623 |
+| Worth it | 63.00% | ~34,874 |
+| Eagle Eye | 55.00% | ~30,445 |
+| Corpseman I | 40.00% | ~22,142 |
+| Blast fishing | 37.00% | ~20,481 |
+| Not alone | 32.00% | ~17,714 |
+| Headhunter I | 26.00% | ~14,392 |
+| Manual Labour I | 25.00% | ~13,839 |
+| Developers, Developers, Developers | 24.00% | ~13,285 |
+| Basic Training | 24.00% | ~13,285 |
 | Furchtlos und Treu | 13.00% | ~7,196 |
-| Gott Mit Uns | 12.00% | ~6,642 |
+| Gott Mit Uns | 12.00% | ~6,643 |
 | This We'll Defend! | 9.00% | ~4,982 |
 | Anker wirf! | 9.00% | ~4,982 |
 | Providentiea Memor | 9.00% | ~4,982 |
@@ -35,12 +35,12 @@ Number of Ratings: 1,999  (23.09.2022)
 | Let them, come to us | 4.00% | ~2,214 |
 | Corpseman II | 4.00% | ~2,214 |
 | Manual Labour II | 4.00% | ~2,214 |
-| Offense is the best defence | 3.00% | ~1,660 |
-| There is no I in team | 3.00% | ~1,660 |
-| Veteran | 3.00% | ~1,660 |
-| In My Defens God Me Defend | 3.00% | ~1,660 |
-| Silver x100 | 3.00% | ~1,660 |
-| Impavidum Ferient Bella! | 3.00% | ~1,660 |
+| Offense is the best defence | 3.00% | ~1,661 |
+| There is no I in team | 3.00% | ~1,661 |
+| Veteran | 3.00% | ~1,661 |
+| In My Defens God Me Defend | 3.00% | ~1,661 |
+| Silver x100 | 3.00% | ~1,661 |
+| Impavidum Ferient Bella! | 3.00% | ~1,661 |
 | Bronze x100 | 2.00% | ~1,107 |
 | Shoot, Cover, Reload, Repeat | 2.00% | ~1,107 |
 | Gold x100 | 1.00% | ~554 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~55 |
 | Blood Brother | 0.10% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,350 (Ranked 88)  
+Progressed: 55,355 (Ranked 88)  
 Completed: 4 (0.01%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,7 +185,7 @@ Completed: 4 (0.01%) (Ranked 245)
 | 2023-08-14 | 55,087 | 4 |
 | 2023-08-15 | 55,188 | 4 |
 | 2023-08-16 | 55,298 | 4 |
-| 2023-08-17 | 55,350 | 4 |
+| 2023-08-17 | 55,355 | 4 |
 ## Awards
 Max (Highly Recommended): 96  (Ranked 342)  
 Sum: 765 (Ranked 266)  

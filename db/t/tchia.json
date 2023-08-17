@@ -6,8 +6,8 @@
   "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 132,
-  "Ranking_EOS_Completed": 152,
-  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_Completed": 151,
+  "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -212,9 +212,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7056,
+  "EOS_Progressed": 7060,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -5762,6 +5762,11 @@
       "Time": "2023-08-17T13:08:10.5066666+00:00",
       "NumProgressed": 7056,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-08-17T16:06:15.8361329+00:00",
+      "NumProgressed": 7060,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 21,
@@ -5797,7 +5802,7 @@
       "Name": "Body and Soul",
       "Percentage": 11,
       "XP": 80,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "CA_DE_WIZZ",
@@ -5813,7 +5818,7 @@
       "Name": "Clay Pigeon",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "ENERGY_SAVER",
@@ -5845,7 +5850,7 @@
       "Name": "Globe Trotter",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "HAPPY_CAMPER",
@@ -5861,7 +5866,7 @@
       "Name": "Historian",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "ICONOCLAST",
@@ -5869,7 +5874,7 @@
       "Name": "Iconoclast",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "IN_A_PINCH",
@@ -5877,7 +5882,7 @@
       "Name": "In a Pinch",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1482
+      "UsersEstimate": 1483
     },
     {
       "ID": "LIBERATOR",
@@ -5917,7 +5922,7 @@
       "Name": "Soul-Canon",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "THE_JOURNEY_ONWARDS",
@@ -5940,7 +5945,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7056,
+      "Progressed": 7060,
       "Completed": 32
     }
   ],
@@ -5948,8 +5953,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-08-07T01:56:04.2387619+00:00",
-  "LastChanged_Achievements": "2023-08-17T15:05:53.8757712+00:00",
+  "LastChanged_Achievements": "2023-08-17T16:06:15.8361321+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:36.6050185+00:00",
-  "LastUpdate_Ratings": "2023-08-17T14:59:43.362054+00:00",
-  "LastUpdate_Achievements": "2023-08-17T15:05:53.8758357+00:00"
+  "LastUpdate_Ratings": "2023-08-17T15:59:54.3082879+00:00",
+  "LastUpdate_Achievements": "2023-08-17T16:06:15.8361914+00:00"
 }

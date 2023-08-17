@@ -4,10 +4,10 @@
   "ProductSlug": "gotham-knights",
   "Ranking_Rating": 870,
   "Ranking_Popularity": 100,
-  "Ranking_PopularitySum": 140,
+  "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 80,
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_Completed": 190,
+  "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -2370,18 +2370,24 @@
       "Rating": 4.18,
       "NumberOfAwards": 4163,
       "NumberOfAwardsMax": 2501
+    },
+    {
+      "Time": "2023-08-17T15:57:12.221343+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4167,
+      "NumberOfAwardsMax": 2505
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4163,
-  "NumberOfAwardsMax": 2501,
+  "NumberOfAwards": 4167,
+  "NumberOfAwardsMax": 2505,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2501
+      "Count": 2505
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2440,7 +2446,7 @@
   ],
   "EOS_Progressed": 67877,
   "EOS_Completed": 107,
-  "EOS_NewPlayers": 143,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -13074,9 +13080,9 @@
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-08-17T01:39:05.4152819+00:00",
-  "LastChanged_Achievements": "2023-08-17T15:06:43.136842+00:00",
+  "LastChanged": "2023-08-17T15:57:12.2213429+00:00",
+  "LastChanged_Achievements": "2023-08-17T16:07:08.1538353+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:49.7416919+00:00",
-  "LastUpdate_Ratings": "2023-08-17T14:57:12.8527733+00:00",
-  "LastUpdate_Achievements": "2023-08-17T15:06:43.136964+00:00"
+  "LastUpdate_Ratings": "2023-08-17T15:57:12.2213435+00:00",
+  "LastUpdate_Achievements": "2023-08-17T16:07:08.1539385+00:00"
 }

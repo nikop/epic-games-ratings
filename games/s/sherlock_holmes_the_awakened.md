@@ -1,7 +1,7 @@
 # Sherlock Holmes The Awakened
 [Store](https://store.epicgames.com/en-US/p/sherlock-holmes-the-awakened)  
 [View Rawdata](../../db/s/sherlock_holmes_the_awakened.json)  
-Rating: 4.68 (Ranked 239)  
+Rating: 4.68 (Ranked 238)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -18,8 +18,8 @@ Rating: 4.68 (Ranked 239)
 | Open Sesame | 49.00% | ~294 |
 | Sticky Fingers | 49.00% | ~294 |
 | Knives Out | 49.00% | ~294 |
+| Land, Ho! | 49.00% | ~294 |
 | Back In The Saddle | 48.00% | ~288 |
-| Land, Ho! | 48.00% | ~288 |
 | No Man Is An Island | 47.00% | ~282 |
 | At Wits' End | 46.00% | ~276 |
 | Fhtagn! | 45.00% | ~270 |
@@ -34,7 +34,7 @@ Rating: 4.68 (Ranked 239)
 | Big Breakthrough | 14.00% | ~84 |
 | Reawakened | 5.00% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 601 (Ranked 218)  
+Progressed: 601 (Ranked 219)  
 Completed: 25 (4.16%) (Ranked 58)  
 ## EOS Players History
 | Date | Progressed | Completed |

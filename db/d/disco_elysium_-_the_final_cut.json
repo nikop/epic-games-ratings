@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1259,7 +1259,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 126371,
+  "EOS_Progressed": 126374,
   "EOS_Completed": 27,
   "EOS_NewPlayers": 405,
   "EOS_NewCompleters": 0,
@@ -13104,6 +13104,11 @@
       "Time": "2023-08-17T15:05:02.083141+00:00",
       "NumProgressed": 126371,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-08-17T16:05:21.7743176+00:00",
+      "NumProgressed": 126374,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 40,
@@ -13163,7 +13168,7 @@
       "Name": "Unbelievably Boring ****",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 11373
+      "UsersEstimate": 11374
     },
     {
       "ID": "ACH_COP_COMMUNIST",
@@ -13171,7 +13176,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 30329
+      "UsersEstimate": 30330
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -13195,7 +13200,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 35384
+      "UsersEstimate": 35385
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -13219,7 +13224,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20219
+      "UsersEstimate": 20220
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -13227,7 +13232,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 25274
+      "UsersEstimate": 25275
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -13243,7 +13248,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 16428
+      "UsersEstimate": 16429
     },
     {
       "ID": "ACH_COP_STAR",
@@ -13275,7 +13280,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 11373
+      "UsersEstimate": 11374
     },
     {
       "ID": "ACH_GLUTEN",
@@ -13395,7 +13400,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 16428
+      "UsersEstimate": 16429
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -13434,15 +13439,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 126371,
+      "Progressed": 126374,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-08-17T15:01:08.2269277+00:00",
-  "LastChanged_Achievements": "2023-08-17T15:05:02.0831399+00:00",
+  "LastChanged_Achievements": "2023-08-17T16:05:21.7743167+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:59.4029348+00:00",
-  "LastUpdate_Ratings": "2023-08-17T15:01:08.2269284+00:00",
-  "LastUpdate_Achievements": "2023-08-17T15:05:02.0833012+00:00"
+  "LastUpdate_Ratings": "2023-08-17T16:01:22.9656278+00:00",
+  "LastUpdate_Achievements": "2023-08-17T16:05:21.7744591+00:00"
 }

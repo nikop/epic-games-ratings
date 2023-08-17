@@ -23,10 +23,10 @@ Rating: 4.05 (Ranked 921)
 | Hero inspection | 14.00% | ~254 |
 | Lieutenant | 14.00% | ~254 |
 | Mysterious Rock | 14.00% | ~254 |
+| Milestone collector | 13.00% | ~236 |
 | Natural Talent | 13.00% | ~236 |
 | Superior | 13.00% | ~236 |
 | The Unstoppable | 13.00% | ~236 |
-| Milestone collector | 12.00% | ~218 |
 | Scientist | 12.00% | ~218 |
 | Doing My Part | 11.00% | ~200 |
 | Hunter | 11.00% | ~200 |
@@ -82,7 +82,7 @@ Rating: 4.05 (Ranked 921)
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,815 (Ranked 171)  
-Completed: 2 (0.11%) (Ranked 202)  
+Completed: 2 (0.11%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

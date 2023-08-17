@@ -13,7 +13,7 @@ Number of Ratings: 154  (23.09.2022)
 | Welcome to Sonic 3 & Knuckles | 76.00% | ~301 |
 | Time Traveler | 71.00% | ~281 |
 | Ring Collector | 71.00% | ~281 |
-| Everyone's Hero | 66.00% | ~261 |
+| Everyone's Hero | 67.00% | ~265 |
 | Knuckles the Echidna | 65.00% | ~257 |
 | Easy Peasy with Shields | 64.00% | ~253 |
 | Gallant Spin Dash | 63.00% | ~249 |
@@ -42,7 +42,7 @@ Number of Ratings: 154  (23.09.2022)
 | S3 & K Mission Master | 16.00% | ~63 |
 | Sonic the Hedgehog 2 Mission Master | 14.00% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 396 (Ranked 239)  
+Progressed: 396 (Ranked 241)  
 Completed: 38 (9.60%) (Ranked 30)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -3,12 +3,12 @@
   "Name": "Ticket to Ride",
   "ProductSlug": "ticket-to-ride",
   "Ranking_Rating": 329,
-  "Ranking_Popularity": 381,
+  "Ranking_Popularity": 380,
   "Ranking_PopularitySum": 320,
   "Ranking_EOS_Progress": 546,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 360,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2012-05-24T08:00:00+00:00",
     "PcReleaseDate": null,
@@ -563,18 +563,24 @@
       "Rating": 4.63,
       "NumberOfAwards": 386,
       "NumberOfAwardsMax": 67
+    },
+    {
+      "Time": "2023-08-17T16:01:58.9461234+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 388,
+      "NumberOfAwardsMax": 68
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 386,
-  "NumberOfAwardsMax": 67,
+  "NumberOfAwards": 388,
+  "NumberOfAwardsMax": 68,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 67
+      "Count": 68
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -604,7 +610,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 45
+      "Count": 46
     },
     {
       "Text": "This game has Competitive Players",
@@ -662,9 +668,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:53.9949813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.6058604+00:00",
-  "LastChanged": "2023-08-09T21:02:16.1397789+00:00",
-  "LastChanged_Achievements": "2023-08-17T15:06:16.1987911+00:00",
+  "LastChanged": "2023-08-17T16:01:58.9461233+00:00",
+  "LastChanged_Achievements": "2023-08-17T16:06:40.3824556+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:46.4807038+00:00",
-  "LastUpdate_Ratings": "2023-08-17T15:01:38.7965544+00:00",
-  "LastUpdate_Achievements": "2023-08-17T15:06:16.1987956+00:00"
+  "LastUpdate_Ratings": "2023-08-17T16:01:58.9461239+00:00",
+  "LastUpdate_Achievements": "2023-08-17T16:06:40.3824594+00:00"
 }

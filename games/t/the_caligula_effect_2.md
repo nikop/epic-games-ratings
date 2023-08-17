@@ -56,8 +56,8 @@ Number of Ratings: 32  (23.09.2022)
 | Topical Conversationalist | 1.00% | ~2 |
 | The Caligula Effect 2 | 0.90% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235 (Ranked 276)  
-Completed: 2 (0.85%) (Ranked 122)  
+Progressed: 235 (Ranked 277)  
+Completed: 2 (0.85%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

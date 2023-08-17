@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 278,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1173,7 +1173,7 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 8334,
+  "EOS_Progressed": 8335,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 0,
@@ -10728,6 +10728,11 @@
       "Time": "2023-08-17T15:07:16.9788701+00:00",
       "NumProgressed": 8334,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-17T16:07:43.3527163+00:00",
+      "NumProgressed": 8335,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -10739,7 +10744,7 @@
       "Name": "Leader",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 5000
+      "UsersEstimate": 5001
     },
     {
       "ID": "10",
@@ -10747,7 +10752,7 @@
       "Name": "Friendly",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1333
+      "UsersEstimate": 1334
     },
     {
       "ID": "11",
@@ -10771,7 +10776,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 4417
+      "UsersEstimate": 4418
     },
     {
       "ID": "14",
@@ -10851,7 +10856,7 @@
       "Name": "First Step",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 6000
+      "UsersEstimate": 6001
     },
     {
       "ID": "23",
@@ -10867,7 +10872,7 @@
       "Name": "It\u0027s a Finnish Thing",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 833
+      "UsersEstimate": 834
     },
     {
       "ID": "25",
@@ -10891,7 +10896,7 @@
       "Name": "Energized",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2750
+      "UsersEstimate": 2751
     },
     {
       "ID": "28",
@@ -10899,7 +10904,7 @@
       "Name": "Merchant",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1833
+      "UsersEstimate": 1834
     },
     {
       "ID": "29",
@@ -10947,7 +10952,7 @@
       "Name": "Around the World",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1333
+      "UsersEstimate": 1334
     },
     {
       "ID": "34",
@@ -10963,7 +10968,7 @@
       "Name": "War Never Changes",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1583
+      "UsersEstimate": 1584
     },
     {
       "ID": "36",
@@ -11035,7 +11040,7 @@
       "Name": "Prepared for Anything",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1083
+      "UsersEstimate": 1084
     },
     {
       "ID": "44",
@@ -11067,7 +11072,7 @@
       "Name": "The Long Haul",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2750
+      "UsersEstimate": 2751
     },
     {
       "ID": "48",
@@ -11091,7 +11096,7 @@
       "Name": "Big Catastrofan",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1083
+      "UsersEstimate": 1084
     },
     {
       "ID": "50",
@@ -11195,7 +11200,7 @@
       "Name": "Real Survivor",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1833
+      "UsersEstimate": 1834
     },
     {
       "ID": "9",
@@ -11210,15 +11215,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 8334,
+      "Progressed": 8335,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-08-14T22:02:11.7403244+00:00",
-  "LastChanged_Achievements": "2023-08-17T15:07:16.9788693+00:00",
+  "LastChanged_Achievements": "2023-08-17T16:07:43.3527158+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:55.9792163+00:00",
-  "LastUpdate_Ratings": "2023-08-17T14:57:23.9861154+00:00",
-  "LastUpdate_Achievements": "2023-08-17T15:07:16.9789854+00:00"
+  "LastUpdate_Ratings": "2023-08-17T15:57:24.8528622+00:00",
+  "LastUpdate_Achievements": "2023-08-17T16:07:43.3528542+00:00"
 }

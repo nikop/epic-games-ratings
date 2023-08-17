@@ -58,7 +58,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Warriors from the Mountain | 0.10% | ~712 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 712,486 (Ranked 20)  
-Completed: 12,860 (1.80%) (Ranked 96)  
+Completed: 12,860 (1.80%) (Ranked 95)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -179,8 +179,8 @@ Completed: 12,860 (1.80%) (Ranked 96)
 | 2023-08-17 | 712,486 | 12,860 |
 ## Awards
 Max (Great Boss Battles): 6,373  (Ranked 55)  
-Sum: 10,942 (Ranked 81)  
-Diff (max vs sum): -26  
+Sum: 10,942 (Ranked 82)  
+Diff (max vs sum): -27  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,373 |

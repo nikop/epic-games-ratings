@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -2924,9 +2924,9 @@
       "ID": "CROAKED",
       "SetID": "9a4jnji",
       "Name": "Croaked",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 657
+      "UsersEstimate": 670
     },
     {
       "ID": "CRUELTY",
@@ -3261,8 +3261,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-08-14T09:59:51.5997828+00:00",
-  "LastChanged_Achievements": "2023-08-17T15:06:10.7085829+00:00",
+  "LastChanged_Achievements": "2023-08-17T16:06:34.572166+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:56.2809501+00:00",
-  "LastUpdate_Ratings": "2023-08-17T15:00:02.4338253+00:00",
-  "LastUpdate_Achievements": "2023-08-17T15:06:10.7086517+00:00"
+  "LastUpdate_Ratings": "2023-08-17T16:00:14.672756+00:00",
+  "LastUpdate_Achievements": "2023-08-17T16:06:34.5722382+00:00"
 }

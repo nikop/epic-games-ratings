@@ -6,7 +6,7 @@
   "Ranking_Popularity": 297,
   "Ranking_PopularitySum": 373,
   "Ranking_EOS_Progress": 116,
-  "Ranking_EOS_Completed": 125,
+  "Ranking_EOS_Completed": 124,
   "Ranking_EOS_NewPlayers": 102,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
@@ -495,9 +495,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 14623,
+  "EOS_Progressed": 14624,
   "EOS_Completed": 109,
-  "EOS_NewPlayers": 161,
+  "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -8290,6 +8290,11 @@
       "Time": "2023-08-17T14:04:46.2479257+00:00",
       "NumProgressed": 14623,
       "NumCompleted": 109
+    },
+    {
+      "Time": "2023-08-17T16:05:20.3078185+00:00",
+      "NumProgressed": 14624,
+      "NumCompleted": 109
     }
   ],
   "TotalAchievements": 41,
@@ -8477,7 +8482,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 4679
+      "UsersEstimate": 4680
     },
     {
       "ID": "tpote_achievement_30",
@@ -8565,7 +8570,7 @@
       "Name": "Tattletale",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 5995
+      "UsersEstimate": 5996
     },
     {
       "ID": "tpote_achievement_40",
@@ -8628,15 +8633,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 14623,
+      "Progressed": 14624,
       "Completed": 109
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-08-03T13:08:30.3350415+00:00",
-  "LastChanged_Achievements": "2023-08-17T15:05:00.7145789+00:00",
+  "LastChanged_Achievements": "2023-08-17T16:05:20.307818+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:55.7661895+00:00",
-  "LastUpdate_Ratings": "2023-08-17T14:57:26.3940619+00:00",
-  "LastUpdate_Achievements": "2023-08-17T15:05:00.7146639+00:00"
+  "LastUpdate_Ratings": "2023-08-17T15:57:27.6071859+00:00",
+  "LastUpdate_Achievements": "2023-08-17T16:05:20.3079005+00:00"
 }

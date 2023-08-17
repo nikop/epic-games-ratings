@@ -49,7 +49,7 @@
 | Against Adversity | 0.00% | ~0 |
 | People's Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 143 (Ranked 302)  
+Progressed: 143 (Ranked 303)  
 Completed: 0 (0.00%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -42,7 +42,7 @@ Rating: 4.57 (Ranked 451)
 | Love me like I love my posters | 0.80% | ~5 |
 | The Age of Mutationem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 660 (Ranked 215)  
+Progressed: 660 (Ranked 216)  
 Completed: 0 (0.00%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |

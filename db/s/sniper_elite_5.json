@@ -6,9 +6,9 @@
   "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 150,
-  "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_Completed": 173,
+  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -464,9 +464,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3489,
+  "EOS_Progressed": 3490,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -6024,6 +6024,11 @@
       "Time": "2023-08-17T14:04:02.5675112+00:00",
       "NumProgressed": 3489,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-17T16:04:23.5914115+00:00",
+      "NumProgressed": 3490,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 71,
@@ -6035,7 +6040,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -6267,7 +6272,7 @@
       "Name": "Der Geist",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -6283,7 +6288,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 1221
+      "UsersEstimate": 1222
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -6291,7 +6296,7 @@
       "Name": "Close Quarters",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -6299,7 +6304,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -6347,7 +6352,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1116
+      "UsersEstimate": 1117
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -6411,7 +6416,7 @@
       "Name": "Brains of the Operation",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -6443,7 +6448,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 802
+      "UsersEstimate": 803
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -6602,13 +6607,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3440,
+      "Progressed": 3441,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3489,
+      "Progressed": 3490,
       "Completed": 9
     }
   ],
@@ -6616,8 +6621,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-08-15T14:58:15.1556932+00:00",
-  "LastChanged_Achievements": "2023-08-17T15:04:06.895019+00:00",
+  "LastChanged_Achievements": "2023-08-17T16:04:23.5914109+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:04.4888171+00:00",
-  "LastUpdate_Ratings": "2023-08-17T14:58:24.4232703+00:00",
-  "LastUpdate_Achievements": "2023-08-17T15:04:06.8951407+00:00"
+  "LastUpdate_Ratings": "2023-08-17T15:58:29.6514909+00:00",
+  "LastUpdate_Achievements": "2023-08-17T16:04:23.5915362+00:00"
 }

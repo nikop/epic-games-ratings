@@ -2,13 +2,13 @@
   "ID": "b7773a08a6fa41e3a0fbc4c1e51c95a4",
   "Name": "F1\u00AE 23",
   "ProductSlug": "f1-23",
-  "Ranking_Rating": 259,
+  "Ranking_Rating": 258,
   "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 546,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 360,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
     "PcReleaseDate": "2023-06-13T04:00:00+00:00",
@@ -259,8 +259,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-08-16T20:58:56.6089123+00:00",
-  "LastChanged_Achievements": "2023-08-17T15:05:48.7382895+00:00",
+  "LastChanged_Achievements": "2023-08-17T16:06:10.4163826+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:08.1756189+00:00",
-  "LastUpdate_Ratings": "2023-08-17T14:58:54.4017267+00:00",
-  "LastUpdate_Achievements": "2023-08-17T15:05:48.7382934+00:00"
+  "LastUpdate_Ratings": "2023-08-17T15:58:59.7017865+00:00",
+  "LastUpdate_Achievements": "2023-08-17T16:06:10.4163864+00:00"
 }

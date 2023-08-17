@@ -6,9 +6,9 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 72.00% | ~6,000 |
-| Leader | 60.00% | ~5,000 |
-| Explorer | 53.00% | ~4,417 |
+| First Step | 72.00% | ~6,001 |
+| Leader | 60.00% | ~5,001 |
+| Explorer | 53.00% | ~4,418 |
 | Healer | 52.00% | ~4,334 |
 | Aspiring Inventor | 44.00% | ~3,667 |
 | Adventurer | 41.00% | ~3,417 |
@@ -16,8 +16,8 @@ Number of Ratings: 836  (23.09.2022)
 | Local Leader | 35.00% | ~2,917 |
 | Famous Explorer | 34.00% | ~2,834 |
 | New Opportunities | 34.00% | ~2,834 |
-| Energized | 33.00% | ~2,750 |
-| The Long Haul | 33.00% | ~2,750 |
+| Energized | 33.00% | ~2,751 |
+| The Long Haul | 33.00% | ~2,751 |
 | The Great Healer | 31.00% | ~2,584 |
 | Survivor | 31.00% | ~2,584 |
 | Legendary Explorer | 28.00% | ~2,334 |
@@ -28,19 +28,19 @@ Number of Ratings: 836  (23.09.2022)
 | Great Leader | 23.00% | ~1,917 |
 | Ice Lakes | 23.00% | ~1,917 |
 | Mentor | 23.00% | ~1,917 |
-| Merchant | 22.00% | ~1,833 |
-| Real Survivor | 22.00% | ~1,833 |
+| Merchant | 22.00% | ~1,834 |
+| Real Survivor | 22.00% | ~1,834 |
 | Rocket Surgeon | 20.00% | ~1,667 |
-| War Never Changes | 19.00% | ~1,583 |
+| War Never Changes | 19.00% | ~1,584 |
 | Big Game Hunter | 17.00% | ~1,417 |
 | Spreading Influence | 17.00% | ~1,417 |
-| Friendly | 16.00% | ~1,333 |
-| Around the World | 16.00% | ~1,333 |
+| Friendly | 16.00% | ~1,334 |
+| Around the World | 16.00% | ~1,334 |
 | Bookworm | 15.00% | ~1,250 |
 | Famous Adventurer | 14.00% | ~1,167 |
-| Prepared for Anything | 13.00% | ~1,083 |
-| Big Catastrofan | 13.00% | ~1,083 |
-| It's a Finnish Thing | 10.00% | ~833 |
+| Prepared for Anything | 13.00% | ~1,084 |
+| Big Catastrofan | 13.00% | ~1,084 |
+| It's a Finnish Thing | 10.00% | ~834 |
 | Trader | 9.00% | ~750 |
 | Sky Burial | 9.00% | ~750 |
 | Bread and Circuses | 8.00% | ~667 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~17 |
 | Customized calamities | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,334 (Ranked 127)  
+Progressed: 8,335 (Ranked 127)  
 Completed: 0 (0.00%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,7 +185,7 @@ Completed: 0 (0.00%) (Ranked 258)
 | 2023-08-14 | 8,286 | 0 |
 | 2023-08-15 | 8,310 | 0 |
 | 2023-08-16 | 8,328 | 0 |
-| 2023-08-17 | 8,334 | 0 |
+| 2023-08-17 | 8,335 | 0 |
 ## Awards
 Max (Extremely Fun): 100  (Ranked 336)  
 Sum: 687 (Ranked 278)  

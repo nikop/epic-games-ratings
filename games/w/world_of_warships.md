@@ -5,8 +5,8 @@ Rating: 4.41 (Ranked 682)
 Number of Ratings: 4,733  (23.09.2022)  
 ## Awards
 Max (Relaxing): 1,266  (Ranked 132)  
-Sum: 10,396 (Ranked 82)  
-Diff (max vs sum): 50  
+Sum: 11,324 (Ranked 80)  
+Diff (max vs sum): 52  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 1,266 |
@@ -15,10 +15,10 @@ Diff (max vs sum): 50
 | This game has Challenging Combat | 1,215 |
 | This game is Extremely Fun | 1,190 |
 | This game is Highly Recommended | 1,186 |
-| This game has Realistic Visuals | 1,085 |
+| This game has Realistic Visuals | 1,089 |
 | This game has Amazing Storytelling | 1,020 |
 | This game has a Competitive Community | 954 |
-| This game has Amazing Characters | 915 |
+| This game has Amazing Characters | 924 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -239,4 +239,4 @@ Diff (max vs sum): 50
 | 2023-08-14 | 4.42 | - | 1,260 | 11,246 |
 | 2023-08-15 | 4.42 | - | 1,260 | 11,271 |
 | 2023-08-16 | 4.42 | - | 1,266 | 11,289 |
-| 2023-08-17 | 4.41 | - | 1,266 | 10,396 |
+| 2023-08-17 | 4.41 | - | 1,266 | 11,324 |

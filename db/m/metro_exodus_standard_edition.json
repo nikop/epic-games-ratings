@@ -4,11 +4,11 @@
   "ProductSlug": "metro-exodus",
   "Ranking_Rating": 88,
   "Ranking_Popularity": 57,
-  "Ranking_PopularitySum": 80,
+  "Ranking_PopularitySum": 81,
   "Ranking_EOS_Progress": 546,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 360,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2019-02-15T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -4085,8 +4085,8 @@
   "FirstSeen": "2022-07-22T20:18:26.6430541+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.9783491+00:00",
   "LastChanged": "2023-08-17T10:00:24.8494086+00:00",
-  "LastChanged_Achievements": "2023-08-17T15:06:48.3321592+00:00",
+  "LastChanged_Achievements": "2023-08-17T16:07:13.702169+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:00.1573972+00:00",
-  "LastUpdate_Ratings": "2023-08-17T15:01:07.9127444+00:00",
-  "LastUpdate_Achievements": "2023-08-17T15:06:48.3321629+00:00"
+  "LastUpdate_Ratings": "2023-08-17T16:01:22.6500552+00:00",
+  "LastUpdate_Achievements": "2023-08-17T16:07:13.7021723+00:00"
 }

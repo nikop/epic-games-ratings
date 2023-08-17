@@ -2,13 +2,13 @@
   "ID": "0584d2013f0149a791e7b9bad0eec102",
   "Name": "Grand Theft Auto V: Premium Edition",
   "ProductSlug": "grand-theft-auto-v",
-  "Ranking_Rating": 239,
+  "Ranking_Rating": 238,
   "Ranking_Popularity": 4,
   "Ranking_PopularitySum": 3,
   "Ranking_EOS_Progress": 546,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 360,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2020-05-14T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -7349,6 +7349,6 @@
   "FirstSeen": "2022-07-22T20:18:49.586898+00:00",
   "LastChanged": "2023-08-17T10:57:40.0845476+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:14.0844944+00:00",
-  "LastUpdate_Ratings": "2023-08-17T14:57:48.4793953+00:00",
-  "LastUpdate_Achievements": "2023-08-17T15:07:16.4133657+00:00"
+  "LastUpdate_Ratings": "2023-08-17T15:57:51.2095225+00:00",
+  "LastUpdate_Achievements": "2023-08-17T16:07:42.812497+00:00"
 }

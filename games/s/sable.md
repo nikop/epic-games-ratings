@@ -1,34 +1,34 @@
 # Sable
 [Store](https://store.epicgames.com/en-US/p/sable)  
 [View Rawdata](../../db/s/sable.json)  
-Rating: 4.53 (Ranked 513)  
+Rating: 4.52 (Ranked 527)  
 Number of Ratings: 43  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~28,596 |
-| Just The Two of Us | 32.00% | ~26,914 |
-| Up On High | 25.00% | ~21,027 |
-| Under The Hood | 25.00% | ~21,027 |
-| Got Your Nose | 24.00% | ~20,186 |
-| The Gift of Gab | 24.00% | ~20,186 |
-| Wrapping Up | 22.00% | ~18,504 |
-| More Than A Box Of Sand | 18.00% | ~15,139 |
-| The Dunboyne | 17.00% | ~14,298 |
-| Badge Hobbyist | 17.00% | ~14,298 |
-| Chum Novice | 16.00% | ~13,457 |
-| Silver-Tongued Sable | 16.00% | ~13,457 |
-| Sticky Paws | 16.00% | ~13,457 |
-| Bubble Up | 16.00% | ~13,457 |
-| Thread The Needle | 15.00% | ~12,616 |
-| Power to the People | 14.00% | ~11,775 |
-| Take That! | 13.00% | ~10,934 |
-| Nesting Giant | 13.00% | ~10,934 |
-| Treasure Tracker | 13.00% | ~10,934 |
-| Big Spender | 13.00% | ~10,934 |
-| Badge Collector | 12.00% | ~10,093 |
-| Quite The Catch | 12.00% | ~10,093 |
-| Rowleys Way | 11.00% | ~9,252 |
+| Simoon | 34.00% | ~28,599 |
+| Just The Two of Us | 32.00% | ~26,916 |
+| Up On High | 25.00% | ~21,028 |
+| Under The Hood | 25.00% | ~21,028 |
+| Got Your Nose | 24.00% | ~20,187 |
+| The Gift of Gab | 24.00% | ~20,187 |
+| Wrapping Up | 22.00% | ~18,505 |
+| More Than A Box Of Sand | 18.00% | ~15,141 |
+| The Dunboyne | 17.00% | ~14,299 |
+| Badge Hobbyist | 17.00% | ~14,299 |
+| Chum Novice | 16.00% | ~13,458 |
+| Silver-Tongued Sable | 16.00% | ~13,458 |
+| Sticky Paws | 16.00% | ~13,458 |
+| Bubble Up | 16.00% | ~13,458 |
+| Thread The Needle | 15.00% | ~12,617 |
+| Power to the People | 14.00% | ~11,776 |
+| Take That! | 13.00% | ~10,935 |
+| Nesting Giant | 13.00% | ~10,935 |
+| Treasure Tracker | 13.00% | ~10,935 |
+| Big Spender | 13.00% | ~10,935 |
+| Badge Collector | 12.00% | ~10,094 |
+| Quite The Catch | 12.00% | ~10,094 |
+| Rowleys Way | 11.00% | ~9,253 |
 | The Machinist Mask | 10.00% | ~8,411 |
 | The Cartographer Mask | 10.00% | ~8,411 |
 | Balfron Connection | 10.00% | ~8,411 |
@@ -45,26 +45,26 @@ Number of Ratings: 43  (23.09.2022)
 | Glider on the Storm | 8.00% | ~6,729 |
 | Squeeze One Out | 8.00% | ~6,729 |
 | Dune Rider | 8.00% | ~6,729 |
-| Amateur Historian | 7.00% | ~5,887 |
-| The Beetle Mask | 7.00% | ~5,887 |
-| The Guard Mask | 7.00% | ~5,887 |
-| Smoked Out | 7.00% | ~5,887 |
-| The Climber Mask | 6.00% | ~5,046 |
-| The Merchant Mask | 6.00% | ~5,046 |
-| Honorary Chum | 6.00% | ~5,046 |
-| A Hard Place | 6.00% | ~5,046 |
-| Bikes Don't Fly | 6.00% | ~5,046 |
-| The Gliding | 5.00% | ~4,205 |
-| The Entertainer Mask | 5.00% | ~4,205 |
-| The Quick and the Curious | 4.00% | ~3,364 |
-| Bike Aficionado | 4.00% | ~3,364 |
+| Amateur Historian | 7.00% | ~5,888 |
+| The Beetle Mask | 7.00% | ~5,888 |
+| The Guard Mask | 7.00% | ~5,888 |
+| Smoked Out | 7.00% | ~5,888 |
+| The Climber Mask | 6.00% | ~5,047 |
+| The Merchant Mask | 6.00% | ~5,047 |
+| Honorary Chum | 6.00% | ~5,047 |
+| A Hard Place | 6.00% | ~5,047 |
+| Bikes Don't Fly | 6.00% | ~5,047 |
+| The Gliding | 5.00% | ~4,206 |
+| The Entertainer Mask | 5.00% | ~4,206 |
+| The Quick and the Curious | 4.00% | ~3,365 |
+| Bike Aficionado | 4.00% | ~3,365 |
 | Chum Expert | 3.00% | ~2,523 |
 | Gastric Bypass | 3.00% | ~2,523 |
 | The Angler Mask | 3.00% | ~2,523 |
 | Vivacious Vivarium | 2.00% | ~1,682 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 84,107 (Ranked 73)  
-Completed: 825 (0.98%) (Ranked 118)  
+Progressed: 84,114 (Ranked 73)  
+Completed: 825 (0.98%) (Ranked 117)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -182,7 +182,7 @@ Completed: 825 (0.98%) (Ranked 118)
 | 2023-08-14 | 83,631 | 816 |
 | 2023-08-15 | 83,811 | 820 |
 | 2023-08-16 | 83,986 | 823 |
-| 2023-08-17 | 84,107 | 825 |
+| 2023-08-17 | 84,114 | 825 |
 ## Awards
 Max (Quickly Understood Controls): 22  (Ranked 493)  
 Sum: 22 (Ranked 495)  
@@ -263,3 +263,4 @@ Diff (max vs sum): -2
 | 2023-08-11 | 4.52 | - | 21 | 21 |
 | 2023-08-14 | 4.52 | - | 22 | 22 |
 | 2023-08-15 | 4.53 | - | 22 | 22 |
+| 2023-08-17 | 4.52 | - | 22 | 22 |

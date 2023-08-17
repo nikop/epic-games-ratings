@@ -2,10 +2,10 @@
   "ID": "de876d33cd8742ab90988913097c4ade",
   "Name": "Alex Kidd in Miracle World DX",
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
-  "Ranking_EOS_Progress": 264,
-  "Ranking_EOS_Completed": 104,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_Progress": 266,
+  "Ranking_EOS_Completed": 103,
+  "Ranking_EOS_NewPlayers": 281,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
     "PcReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -28,7 +28,7 @@
   "Tags": [],
   "EOS_Progressed": 272,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.47,
   "EosHistory": [
@@ -412,8 +412,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2023-08-17T15:03:14.9243007+00:00",
+  "LastChanged_Achievements": "2023-08-17T16:03:38.8751236+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:51.7221646+00:00",
-  "LastUpdate_Ratings": "2023-08-17T14:59:58.1290381+00:00",
-  "LastUpdate_Achievements": "2023-08-17T15:03:14.9243177+00:00"
+  "LastUpdate_Ratings": "2023-08-17T16:00:11.6398515+00:00",
+  "LastUpdate_Achievements": "2023-08-17T16:03:38.8751588+00:00"
 }

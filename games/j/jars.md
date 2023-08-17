@@ -11,8 +11,8 @@
 | Uncle will be happy | 70.00% | ~46 |
 | I have an army! | 65.00% | ~43 |
 | Sticky fingers | 42.00% | ~28 |
-| A horrible thing will happen... | 41.00% | ~27 |
-| Vampires | 33.00% | ~22 |
+| A horrible thing will happen... | 42.00% | ~28 |
+| Vampires | 35.00% | ~23 |
 | Bloody stream | 30.00% | ~20 |
 | Fangs | 21.00% | ~14 |
 | Mirrors | 12.00% | ~8 |
@@ -25,7 +25,7 @@
 | Missing pages | 5.00% | ~3 |
 | Master of puppets | 5.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66 (Ranked 349)  
+Progressed: 66 (Ranked 350)  
 Completed: 3 (4.55%) (Ranked 55)  
 ## EOS Players History
 | Date | Progressed | Completed |
