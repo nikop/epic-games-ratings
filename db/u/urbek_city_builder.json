@@ -2,9 +2,9 @@
   "ID": "5d2e14c5f6ac427b8a8466508cf81f6d",
   "Name": "Urbek City Builder",
   "ProductSlug": "urbek-city-builder-17cf7d",
-  "Ranking_EOS_Progress": 257,
+  "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 314,
+  "EOS_Progressed": 315,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -927,6 +927,11 @@
       "Time": "2023-08-16T20:03:35.216562+00:00",
       "NumProgressed": 314,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-17T14:04:01.5566323+00:00",
+      "NumProgressed": 315,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -1154,7 +1159,7 @@
       "Name": "The spiritual world...",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "FAITH_2",
@@ -1298,7 +1303,7 @@
       "Name": "Clean energy",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "MURICA_1",
@@ -1370,7 +1375,7 @@
       "Name": "Small town",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "POPULATION_2",
@@ -1569,7 +1574,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 314,
+      "Progressed": 315,
       "Completed": 0
     }
   ],
@@ -1577,8 +1582,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-08-17T13:06:42.4317171+00:00",
+  "LastChanged_Achievements": "2023-08-17T14:04:01.5566312+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:38.0477913+00:00",
-  "LastUpdate_Ratings": "2023-08-17T13:02:34.2978272+00:00",
-  "LastUpdate_Achievements": "2023-08-17T13:06:42.4318029+00:00"
+  "LastUpdate_Ratings": "2023-08-17T14:00:05.416616+00:00",
+  "LastUpdate_Achievements": "2023-08-17T14:04:01.5567983+00:00"
 }

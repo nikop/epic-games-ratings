@@ -6367,10 +6367,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 14095,
       "NumberOfAwardsMax": 6946
+    },
+    {
+      "Time": "2023-08-17T13:57:16.8256045+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 14097,
+      "NumberOfAwardsMax": 6946
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14095,
+  "NumberOfAwards": 14097,
   "NumberOfAwardsMax": 6946,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6426,7 +6432,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 887
+      "Count": 889
     },
     {
       "Text": "This game is Relaxing",
@@ -6447,9 +6453,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 59039,
+  "EOS_Progressed": 59041,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 459,
+  "EOS_NewPlayers": 458,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18997,6 +19003,11 @@
       "Time": "2023-08-17T13:07:30.7055123+00:00",
       "NumProgressed": 59039,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-17T14:04:49.8190303+00:00",
+      "NumProgressed": 59041,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -19008,7 +19019,7 @@
       "Name": "Against all odds",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 6494
+      "UsersEstimate": 6495
     },
     {
       "ID": "Apple of my eye",
@@ -19232,7 +19243,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 18892
+      "UsersEstimate": 18893
     },
     {
       "ID": "Lawbringer",
@@ -19240,7 +19251,7 @@
       "Name": "Lawbringer",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 22435
+      "UsersEstimate": 22436
     },
     {
       "ID": "Lawmaker",
@@ -19415,15 +19426,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 59039,
+      "Progressed": 59041,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-08-17T07:57:30.2735854+00:00",
-  "LastChanged_Achievements": "2023-08-17T13:07:30.7055116+00:00",
+  "LastChanged": "2023-08-17T13:57:16.8256044+00:00",
+  "LastChanged_Achievements": "2023-08-17T14:04:49.8190295+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:44.6335832+00:00",
-  "LastUpdate_Ratings": "2023-08-17T12:59:54.3451147+00:00",
-  "LastUpdate_Achievements": "2023-08-17T13:07:30.7056325+00:00"
+  "LastUpdate_Ratings": "2023-08-17T13:57:16.8256051+00:00",
+  "LastUpdate_Achievements": "2023-08-17T14:04:49.8191316+00:00"
 }

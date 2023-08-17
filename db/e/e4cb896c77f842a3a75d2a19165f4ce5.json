@@ -4,7 +4,7 @@
   "ProductSlug": "dolmenjord-viking-islands-965b06",
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 73,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 375,
+  "EOS_Progressed": 376,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.93,
   "EosHistory": [
@@ -1041,6 +1041,11 @@
       "Time": "2023-08-17T09:07:49.4245904+00:00",
       "NumProgressed": 375,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-08-17T14:06:13.796814+00:00",
+      "NumProgressed": 376,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 11,
@@ -1052,7 +1057,7 @@
       "Name": "Pit-house",
       "Percentage": 94,
       "XP": 45,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "LEVEL_003",
@@ -1060,7 +1065,7 @@
       "Name": "Smith house",
       "Percentage": 86,
       "XP": 45,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "LEVEL_004",
@@ -1076,7 +1081,7 @@
       "Name": "Market",
       "Percentage": 60,
       "XP": 95,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "LEVEL_012",
@@ -1139,14 +1144,14 @@
     {
       "ID": "7jk5g4e",
       "IsBase": true,
-      "Progressed": 375,
+      "Progressed": 376,
       "Completed": 11
     }
   ],
   "FirstSeen": "2023-06-17T14:57:03.8937157+00:00",
   "FirstSeenAchievements": "2023-05-29T15:00:12.8359596+00:00",
-  "LastChanged_Achievements": "2023-08-17T13:08:54.1136669+00:00",
+  "LastChanged_Achievements": "2023-08-17T14:06:13.7968131+00:00",
   "LastUpdate_AppInfo": "2023-08-14T18:57:20.1952258+00:00",
-  "LastUpdate_Ratings": "2023-08-17T13:01:01.2016974+00:00",
-  "LastUpdate_Achievements": "2023-08-17T13:08:54.1136842+00:00"
+  "LastUpdate_Ratings": "2023-08-17T13:58:25.3412796+00:00",
+  "LastUpdate_Achievements": "2023-08-17T14:06:13.7968395+00:00"
 }

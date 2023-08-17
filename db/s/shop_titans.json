@@ -5632,9 +5632,9 @@
       "Count": 3734
     }
   ],
-  "EOS_Progressed": 134647,
+  "EOS_Progressed": 134648,
   "EOS_Completed": 133,
-  "EOS_NewPlayers": 394,
+  "EOS_NewPlayers": 395,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -17797,6 +17797,11 @@
       "Time": "2023-08-17T13:08:14.1465633+00:00",
       "NumProgressed": 134647,
       "NumCompleted": 133
+    },
+    {
+      "Time": "2023-08-17T14:05:33.4902693+00:00",
+      "NumProgressed": 134648,
+      "NumCompleted": 133
     }
   ],
   "TotalAchievements": 112,
@@ -17982,9 +17987,9 @@
       "ID": "chest02",
       "SetID": "anfd17p",
       "Name": "For the Hoard!",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 269
+      "UsersEstimate": 404
     },
     {
       "ID": "chest03",
@@ -18703,15 +18708,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 134647,
+      "Progressed": 134648,
       "Completed": 133
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-08-17T09:59:46.8343175+00:00",
-  "LastChanged_Achievements": "2023-08-17T13:08:14.1465626+00:00",
+  "LastChanged_Achievements": "2023-08-17T14:05:33.4902686+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:13.9096409+00:00",
-  "LastUpdate_Ratings": "2023-08-17T13:02:17.8573626+00:00",
-  "LastUpdate_Achievements": "2023-08-17T13:08:14.1467977+00:00"
+  "LastUpdate_Ratings": "2023-08-17T13:59:46.964465+00:00",
+  "LastUpdate_Achievements": "2023-08-17T14:05:33.4905011+00:00"
 }

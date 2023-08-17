@@ -8,14 +8,14 @@ Number of Ratings: 429  (23.09.2022)
 | ---- | ---------- | ----- |
 | Colonize a Planet | 79.00% | ~5,047 |
 | Worker Specialization | 78.00% | ~4,983 |
-| First Contact | 73.00% | ~4,663 |
-| Win a Battle | 67.00% | ~4,280 |
-| Anomaly Researcher | 63.00% | ~4,024 |
+| First Contact | 73.00% | ~4,664 |
+| Win a Battle | 67.00% | ~4,281 |
+| Anomaly Researcher | 63.00% | ~4,025 |
 | Unleash My Power | 62.00% | ~3,961 |
 | Own 30 Planets | 34.00% | ~2,172 |
 | Xenocide | 32.00% | ~2,044 |
-| Commodity Trader | 31.00% | ~1,980 |
-| Design a Civilization | 31.00% | ~1,980 |
+| Commodity Trader | 31.00% | ~1,981 |
+| Design a Civilization | 31.00% | ~1,981 |
 | Design a Ship | 28.00% | ~1,789 |
 | Commodity Seller | 25.00% | ~1,597 |
 | Prestige Victory! | 14.00% | ~894 |
@@ -38,7 +38,7 @@ Number of Ratings: 429  (23.09.2022)
 | Win as Arceans | 1.00% | ~64 |
 | Win as the Baratak | 1.00% | ~64 |
 | Win as Festron | 1.00% | ~64 |
-| Win as the Navigators | 0.90% | ~57 |
+| Win as the Navigators | 0.90% | ~58 |
 | Win as the Drengin | 0.80% | ~51 |
 | Win as the Krynn | 0.80% | ~51 |
 | Win as Torians | 0.80% | ~51 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,388 (Ranked 135)  
+Progressed: 6,389 (Ranked 135)  
 Completed: 0 (0.00%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,7 +198,7 @@ Completed: 0 (0.00%) (Ranked 258)
 | 2023-08-14 | 6,362 | 0 |
 | 2023-08-15 | 6,375 | 0 |
 | 2023-08-16 | 6,382 | 0 |
-| 2023-08-17 | 6,388 | 0 |
+| 2023-08-17 | 6,389 | 0 |
 ## Awards
 Max (Diverse Characters): 93  (Ranked 347)  
 Sum: 674 (Ranked 281)  

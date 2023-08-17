@@ -2137,9 +2137,9 @@
       "ID": "FutureEkko2Defeated",
       "SetID": "a9e499d",
       "Name": "The Betrayer",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 142
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -2321,9 +2321,9 @@
       "ID": "ScrambotProgress1",
       "SetID": "a9e499d",
       "Name": "Golem Chaser",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 142
     },
     {
       "ID": "SkillCompletion1",
@@ -2442,8 +2442,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-08-17T13:08:14.3973361+00:00",
+  "LastChanged_Achievements": "2023-08-17T14:05:33.8513834+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:10.6633578+00:00",
-  "LastUpdate_Ratings": "2023-08-17T13:03:01.0235474+00:00",
-  "LastUpdate_Achievements": "2023-08-17T13:08:14.3973976+00:00"
+  "LastUpdate_Ratings": "2023-08-17T14:00:32.437199+00:00",
+  "LastUpdate_Achievements": "2023-08-17T14:05:33.851488+00:00"
 }

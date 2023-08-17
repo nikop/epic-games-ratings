@@ -36,8 +36,9 @@
 | The Zero Dimensional Capital Conqueror | 4.00% | ~2 |
 | The Inactivated Frozen Conqueror | 4.00% | ~2 |
 | Death Bringer Conqueror | 4.00% | ~2 |
-| Break Through the Forbidden | 2.00% | ~1 |
-| Space Ranger: Prologue | 2.00% | ~1 |
+| Break Through the Forbidden | 4.00% | ~2 |
+| Space Ranger: Prologue | 4.00% | ~2 |
+| The Looping Space Conqueror | 2.00% | ~1 |
 | Breaking the Limit | 2.00% | ~1 |
 | The Truth? | 2.00% | ~1 |
 | Easy Peasy | 2.00% | ~1 |
@@ -45,7 +46,6 @@
 | Clean Sweep | 2.00% | ~1 |
 | Bye Bye Gravity | 2.00% | ~1 |
 | Burn After Reading | 2.00% | ~1 |
-| The Looping Space Conqueror | 0.00% | ~0 |
 | Alloy Rangers, Assemble! | 0.00% | ~0 |
 | Pumped Up | 0.00% | ~0 |
 | Flawless | 0.00% | ~0 |

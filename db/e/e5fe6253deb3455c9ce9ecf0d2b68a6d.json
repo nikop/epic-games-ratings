@@ -472,9 +472,9 @@
       "ID": "Dissatisfaction",
       "SetID": "cjfnji1",
       "Name": "Critical dissatisfaction",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Full",
@@ -544,9 +544,9 @@
       "ID": "Tangentially",
       "SetID": "cjfnji1",
       "Name": "Tangentially",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "USSR",
@@ -575,8 +575,8 @@
   ],
   "FirstSeen": "2023-08-11T01:35:20.9956349+00:00",
   "FirstSeenAchievements": "2023-08-07T18:00:21.004681+00:00",
-  "LastChanged_Achievements": "2023-08-17T13:06:03.7110019+00:00",
+  "LastChanged_Achievements": "2023-08-17T14:03:23.1942102+00:00",
   "LastUpdate_AppInfo": "2023-08-14T17:57:19.8176911+00:00",
-  "LastUpdate_Ratings": "2023-08-17T13:00:25.1265343+00:00",
-  "LastUpdate_Achievements": "2023-08-17T13:06:03.7110182+00:00"
+  "LastUpdate_Ratings": "2023-08-17T13:57:48.9668462+00:00",
+  "LastUpdate_Achievements": "2023-08-17T14:03:23.1942315+00:00"
 }

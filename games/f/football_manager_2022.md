@@ -92,8 +92,8 @@ Number of Ratings: 19,160  (23.09.2022)
 | Set Piece Specialist | 0.60% | ~2,823 |
 | Draft Rivalry | 0.50% | ~2,352 |
 | Beat all the AI Managers | 0.40% | ~1,882 |
-| Outstanding Defence | 0.30% | ~1,411 |
-| Club Legend | 0.30% | ~1,411 |
+| Outstanding Defence | 0.30% | ~1,412 |
+| Club Legend | 0.30% | ~1,412 |
 | Immortality | 0.20% | ~941 |
 | Impervious | 0.20% | ~941 |
 | Immovable Object | 0.10% | ~470 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~470 |
 | Shoestring Budget | 0.10% | ~470 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 470,499 (Ranked 36)  
+Progressed: 470,500 (Ranked 36)  
 Completed: 20 (0.00%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,7 +224,7 @@ Completed: 20 (0.00%) (Ranked 258)
 | 2023-08-14 | 470,235 | 20 |
 | 2023-08-15 | 470,336 | 20 |
 | 2023-08-16 | 470,456 | 20 |
-| 2023-08-17 | 470,499 | 20 |
+| 2023-08-17 | 470,500 | 20 |
 ## Awards
 Max (Relaxing): 6,400  (Ranked 54)  
 Sum: 50,386 (Ranked 24)  

@@ -4,7 +4,7 @@
   "ProductSlug": "super-alloy-ranger-4252cc",
   "Ranking_EOS_Progress": 359,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewPlayers": 358,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-04-30T16:00:00+00:00",
@@ -380,9 +380,9 @@
       "ID": "Achi_12",
       "SetID": "51a97k7",
       "Name": "The Looping Space Conqueror",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Achi_13",
@@ -396,9 +396,9 @@
       "ID": "Achi_14",
       "SetID": "51a97k7",
       "Name": "Break Through the Forbidden",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Achi_15",
@@ -412,9 +412,9 @@
       "ID": "Achi_16",
       "SetID": "51a97k7",
       "Name": "Space Ranger: Prologue",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Achi_17",
@@ -701,8 +701,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2023-08-17T13:08:26.3722507+00:00",
+  "LastChanged_Achievements": "2023-08-17T14:05:46.1061362+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:03.5115433+00:00",
-  "LastUpdate_Ratings": "2023-08-17T13:00:10.8094655+00:00",
-  "LastUpdate_Achievements": "2023-08-17T13:08:26.3722993+00:00"
+  "LastUpdate_Ratings": "2023-08-17T13:57:34.6467245+00:00",
+  "LastUpdate_Achievements": "2023-08-17T14:05:46.1062163+00:00"
 }

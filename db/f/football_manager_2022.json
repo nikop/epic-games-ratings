@@ -6593,9 +6593,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 470499,
+  "EOS_Progressed": 470500,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 787,
+  "EOS_NewPlayers": 782,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19093,6 +19093,11 @@
       "Time": "2023-08-17T13:09:01.4788126+00:00",
       "NumProgressed": 470499,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-08-17T14:06:21.3530867+00:00",
+      "NumProgressed": 470500,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 98,
@@ -19144,7 +19149,7 @@
       "Name": "Outstanding Defence",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1411
+      "UsersEstimate": 1412
     },
     {
       "ID": "achievement_20_manager_of_the_year_awards",
@@ -19168,7 +19173,7 @@
       "Name": "Club Legend",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 1411
+      "UsersEstimate": 1412
     },
     {
       "ID": "achievement_30_matches_without_conceding_goal",
@@ -19887,15 +19892,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 470499,
+      "Progressed": 470500,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-08-17T01:34:46.0382601+00:00",
-  "LastChanged_Achievements": "2023-08-17T13:09:01.4788119+00:00",
+  "LastChanged_Achievements": "2023-08-17T14:06:21.3530859+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:19.9756168+00:00",
-  "LastUpdate_Ratings": "2023-08-17T13:00:27.7243879+00:00",
-  "LastUpdate_Achievements": "2023-08-17T13:09:01.4789882+00:00"
+  "LastUpdate_Ratings": "2023-08-17T13:57:50.5597761+00:00",
+  "LastUpdate_Achievements": "2023-08-17T14:06:21.3534369+00:00"
 }

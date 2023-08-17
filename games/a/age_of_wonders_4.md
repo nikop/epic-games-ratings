@@ -26,12 +26,12 @@ Rating: 4.61 (Ranked 363)
 | Against the Odds | 4.00% | ~205 |
 | Impenetrable Fortress | 4.00% | ~205 |
 | Here be Dragons | 4.00% | ~205 |
-| Valley of Wonders | 3.00% | ~153 |
-| Return of the Wizard King | 3.00% | ~153 |
-| Arch Mage | 3.00% | ~153 |
-| Enchanted Archipelago | 3.00% | ~153 |
-| Digging for Treasure | 3.00% | ~153 |
-| Preparation Is Everything | 3.00% | ~153 |
+| Valley of Wonders | 3.00% | ~154 |
+| Return of the Wizard King | 3.00% | ~154 |
+| Arch Mage | 3.00% | ~154 |
+| Enchanted Archipelago | 3.00% | ~154 |
+| Digging for Treasure | 3.00% | ~154 |
+| Preparation Is Everything | 3.00% | ~154 |
 | The Magic That Empowers Me! | 2.00% | ~102 |
 | God Emperor | 2.00% | ~102 |
 | Lord of Chaos | 2.00% | ~102 |
@@ -56,7 +56,7 @@ Rating: 4.61 (Ranked 363)
 | The Grey Wizard | 0.10% | ~5 |
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,116 (Ranked 141)  
+Progressed: 5,117 (Ranked 141)  
 Completed: 5 (0.10%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,6 +159,7 @@ Completed: 5 (0.10%) (Ranked 205)
 | 2023-08-12 | 5,108 | 5 |
 | 2023-08-13 | 5,111 | 5 |
 | 2023-08-15 | 5,116 | 5 |
+| 2023-08-17 | 5,117 | 5 |
 ## Awards
 Max (Great for Beginners): 20  (Ranked 508)  
 Sum: 20 (Ranked 508)  

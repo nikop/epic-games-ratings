@@ -6,20 +6,20 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~440,483 |
-| The Three | 64.00% | ~339,650 |
-| The Banquet | 40.00% | ~212,281 |
-| Devara's Light | 30.00% | ~159,211 |
+| Find Sanctuary | 83.00% | ~440,487 |
+| The Three | 64.00% | ~339,652 |
+| The Banquet | 40.00% | ~212,283 |
+| Devara's Light | 30.00% | ~159,212 |
 | The Iron Ones | 18.00% | ~95,527 |
-| The Village | 16.00% | ~84,912 |
-| The Forest | 14.00% | ~74,298 |
-| Branded | 13.00% | ~68,991 |
-| The Imposter | 13.00% | ~68,991 |
-| The Keep | 13.00% | ~68,991 |
-| The Castle | 11.00% | ~58,377 |
-| The Dome | 9.00% | ~47,763 |
-| The Red Hall | 9.00% | ~47,763 |
-| The Sacrifice | 8.00% | ~42,456 |
+| The Village | 16.00% | ~84,913 |
+| The Forest | 14.00% | ~74,299 |
+| Branded | 13.00% | ~68,992 |
+| The Imposter | 13.00% | ~68,992 |
+| The Keep | 13.00% | ~68,992 |
+| The Castle | 11.00% | ~58,378 |
+| The Dome | 9.00% | ~47,764 |
+| The Red Hall | 9.00% | ~47,764 |
+| The Sacrifice | 8.00% | ~42,457 |
 | The Cave | 7.00% | ~37,149 |
 | The Mire | 7.00% | ~37,149 |
 | The Stone Roots | 7.00% | ~37,149 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,614 |
 | Fading Fast | 1.00% | ~5,307 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 530,703 (Ranked 30)  
+Progressed: 530,707 (Ranked 30)  
 Completed: 1,509 (0.28%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,14 +163,14 @@ Completed: 1,509 (0.28%) (Ranked 172)
 | 2023-08-14 | 530,491 | 1,508 |
 | 2023-08-15 | 530,577 | 1,508 |
 | 2023-08-16 | 530,660 | 1,508 |
-| 2023-08-17 | 530,703 | 1,509 |
+| 2023-08-17 | 530,707 | 1,509 |
 ## Awards
-Max (Challenging Combat): 277  (Ranked 243)  
-Sum: 1,927 (Ranked 201)  
-Diff (max vs sum): 42  
+Max (Challenging Combat): 278  (Ranked 242)  
+Sum: 1,928 (Ranked 201)  
+Diff (max vs sum): 41  
 | Award | Count |
 | ----- | ----- |
-| This game has Challenging Combat | 277 |
+| This game has Challenging Combat | 278 |
 | This game has Quickly Understood Controls | 256 |
 | This game is Highly Recommended | 254 |
 | This game has Diverse Characters | 235 |
@@ -325,3 +325,4 @@ Diff (max vs sum): 42
 | 2023-08-05 | 4.61 | - | 277 | 1,925 |
 | 2023-08-11 | 4.61 | - | 277 | 1,926 |
 | 2023-08-13 | 4.61 | - | 277 | 1,927 |
+| 2023-08-17 | 4.61 | - | 278 | 1,928 |

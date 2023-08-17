@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 482,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -282,9 +282,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 3162,
+  "EOS_Progressed": 3163,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -3792,6 +3792,11 @@
       "Time": "2023-08-17T03:05:24.9261652+00:00",
       "NumProgressed": 3162,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-17T14:04:41.2778391+00:00",
+      "NumProgressed": 3163,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -3811,7 +3816,7 @@
       "Name": "Flawless Victory",
       "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "ACH_ALL_WEAPONS",
@@ -3851,7 +3856,7 @@
       "Name": "Omelette Du Fromage",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 1043
+      "UsersEstimate": 1044
     },
     {
       "ID": "ACH_EMBRAYO_EXTRACTION",
@@ -3883,7 +3888,7 @@
       "Name": "This Went Smoothly",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "ACH_FINISH_NIGHTMARE",
@@ -3899,7 +3904,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 2340
+      "UsersEstimate": 2341
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -3915,7 +3920,7 @@
       "Name": "Call Me Snake",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 1992
+      "UsersEstimate": 1993
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -3931,7 +3936,7 @@
       "Name": "Heavy Steps",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "ACH_MARINE_PROSTHESIS",
@@ -3979,7 +3984,7 @@
       "Name": "Come on, You Wanna Live Forever?",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 790
+      "UsersEstimate": 791
     },
     {
       "ID": "ACH_MAX_TECKER",
@@ -4003,7 +4008,7 @@
       "Name": "First Steps Into Madness",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1644
+      "UsersEstimate": 1645
     },
     {
       "ID": "ACH_MISSION_03",
@@ -4027,7 +4032,7 @@
       "Name": "Where It All Begun",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 1233
+      "UsersEstimate": 1234
     },
     {
       "ID": "ACH_MISSION_06",
@@ -4043,7 +4048,7 @@
       "Name": "The Darwin Era Was Here",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 885
+      "UsersEstimate": 886
     },
     {
       "ID": "ACH_MISSION_08",
@@ -4075,7 +4080,7 @@
       "Name": "Excavating The Truth",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     },
     {
       "ID": "ACH_MISSION_12",
@@ -4107,7 +4112,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 2593
+      "UsersEstimate": 2594
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -4147,7 +4152,7 @@
       "Name": "The More The Merrier",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1043
+      "UsersEstimate": 1044
     },
     {
       "ID": "ACH_USE_REDEMPTION",
@@ -4162,7 +4167,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3162,
+      "Progressed": 3163,
       "Completed": 2
     }
   ],
@@ -4170,8 +4175,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-08-17T00:02:11.0066132+00:00",
-  "LastChanged_Achievements": "2023-08-17T13:07:21.7254881+00:00",
+  "LastChanged_Achievements": "2023-08-17T14:04:41.2778383+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:11.0569937+00:00",
-  "LastUpdate_Ratings": "2023-08-17T13:03:01.3150804+00:00",
-  "LastUpdate_Achievements": "2023-08-17T13:07:21.7255483+00:00"
+  "LastUpdate_Ratings": "2023-08-17T14:00:31.9076248+00:00",
+  "LastUpdate_Achievements": "2023-08-17T14:04:41.2779409+00:00"
 }

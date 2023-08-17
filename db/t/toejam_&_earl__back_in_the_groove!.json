@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 56438,
+  "EOS_Progressed": 56442,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 120,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7682,6 +7682,11 @@
       "Time": "2023-08-17T13:09:08.7101235+00:00",
       "NumProgressed": 56438,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-17T14:06:29.1766056+00:00",
+      "NumProgressed": 56442,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 49,
@@ -7781,7 +7786,7 @@
       "Name": "Food Taster",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 5079
+      "UsersEstimate": 5080
     },
     {
       "ID": "FoolMeTwice",
@@ -7837,7 +7842,7 @@
       "Name": "HFZ Goober",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3386
+      "UsersEstimate": 3387
     },
     {
       "ID": "HarshLove",
@@ -8029,7 +8034,7 @@
       "Name": "Thrill Seeker",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3386
+      "UsersEstimate": 3387
     },
     {
       "ID": "TimelySplash",
@@ -8084,7 +8089,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 56438,
+      "Progressed": 56442,
       "Completed": 5
     }
   ],
@@ -8092,8 +8097,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-03-31T17:59:29.6978698+00:00",
-  "LastChanged_Achievements": "2023-08-17T13:09:08.7101229+00:00",
+  "LastChanged_Achievements": "2023-08-17T14:06:29.1766048+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:14.9013233+00:00",
-  "LastUpdate_Ratings": "2023-08-17T13:00:39.8144379+00:00",
-  "LastUpdate_Achievements": "2023-08-17T13:09:08.7102008+00:00"
+  "LastUpdate_Ratings": "2023-08-17T13:58:02.6490347+00:00",
+  "LastUpdate_Achievements": "2023-08-17T14:06:29.1767576+00:00"
 }
