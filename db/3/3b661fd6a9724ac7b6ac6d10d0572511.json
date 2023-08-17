@@ -2,7 +2,7 @@
   "ID": "3b661fd6a9724ac7b6ac6d10d0572511",
   "Name": "PAYDAY 2",
   "ProductSlug": "payday-2-c66369",
-  "Ranking_Rating": 427,
+  "Ranking_Rating": 428,
   "Ranking_Popularity": 51,
   "Ranking_PopularitySum": 73,
   "Ranking_EOS_Progress": 6,
@@ -3046,9 +3046,9 @@
       "Count": 700
     }
   ],
-  "EOS_Progressed": 1579927,
+  "EOS_Progressed": 1580065,
   "EOS_Completed": 508,
-  "EOS_NewPlayers": 24943,
+  "EOS_NewPlayers": 24912,
   "EOS_NewCompleters": 33,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -11130,6 +11130,11 @@
     {
       "Time": "2023-08-17T22:07:05.6648989+00:00",
       "NumProgressed": 1579927,
+      "NumCompleted": 508
+    },
+    {
+      "Time": "2023-08-17T23:06:39.4790446+00:00",
+      "NumProgressed": 1580065,
       "NumCompleted": 508
     }
   ],
@@ -21765,13 +21770,13 @@
     {
       "ID": "61cefe3",
       "IsBase": true,
-      "Progressed": 1579927,
+      "Progressed": 1580065,
       "Completed": 508
     },
     {
       "ID": "bkjdbk8",
       "IsBase": false,
-      "Progressed": 1579927,
+      "Progressed": 1580065,
       "Completed": 16
     }
   ],
@@ -21779,8 +21784,8 @@
   "FirstSeenRating": "2023-06-09T03:57:04.3869033+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:50.4372379+00:00",
   "LastChanged": "2023-08-17T21:58:33.1358447+00:00",
-  "LastChanged_Achievements": "2023-08-17T22:07:05.6648985+00:00",
+  "LastChanged_Achievements": "2023-08-17T23:06:39.479044+00:00",
   "LastUpdate_AppInfo": "2023-08-17T20:57:10.4408604+00:00",
-  "LastUpdate_Ratings": "2023-08-17T21:58:33.1358452+00:00",
-  "LastUpdate_Achievements": "2023-08-17T22:07:05.680495+00:00"
+  "LastUpdate_Ratings": "2023-08-17T22:58:24.1029592+00:00",
+  "LastUpdate_Achievements": "2023-08-17T23:06:39.4948506+00:00"
 }

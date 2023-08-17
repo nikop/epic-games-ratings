@@ -6,13 +6,13 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 96.00% | ~9,795 |
-| keep it tidy | 77.00% | ~7,856 |
-| podium | 72.00% | ~7,346 |
+| light attack | 96.00% | ~9,796 |
+| keep it tidy | 77.00% | ~7,857 |
+| podium | 72.00% | ~7,347 |
 | medium attack | 60.00% | ~6,122 |
 | brail | 57.00% | ~5,816 |
-| good drivers have dead flies on the side windows | 42.00% | ~4,285 |
-| grocery-getter | 39.00% | ~3,979 |
+| good drivers have dead flies on the side windows | 42.00% | ~4,286 |
+| grocery-getter | 39.00% | ~3,980 |
 | rwd only | 26.00% | ~2,653 |
 | food tour: pasta | 26.00% | ~2,653 |
 | to finish first, first you must finish | 21.00% | ~2,143 |
@@ -20,13 +20,13 @@ Number of Ratings: 56  (23.09.2022)
 | you can't treat a car like a human being. a car requires love | 21.00% | ~2,143 |
 | turbo | 20.00% | ~2,041 |
 | food tour: pretzel | 19.00% | ~1,939 |
-| bicycle race | 15.00% | ~1,530 |
-| car wash | 14.00% | ~1,428 |
-| monster | 14.00% | ~1,428 |
-| perkele | 13.00% | ~1,326 |
-| night ride | 13.00% | ~1,326 |
-| the artist | 13.00% | ~1,326 |
-| snorkel | 13.00% | ~1,326 |
+| bicycle race | 15.00% | ~1,531 |
+| car wash | 14.00% | ~1,429 |
+| monster | 14.00% | ~1,429 |
+| perkele | 13.00% | ~1,327 |
+| night ride | 13.00% | ~1,327 |
+| the artist | 13.00% | ~1,327 |
+| snorkel | 13.00% | ~1,327 |
 | where is the stage? | 12.00% | ~1,224 |
 | maximum attack | 11.00% | ~1,122 |
 | espresso | 10.00% | ~1,020 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | if everything seems under control, you're not going fast enough | 0.40% | ~41 |
 | barely keeping it together | 0.30% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,203 (Ranked 121)  
+Progressed: 10,204 (Ranked 121)  
 Completed: 9 (0.09%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 9 (0.09%) (Ranked 210)
 | 2023-08-12 | 10,199 | 9 |
 | 2023-08-13 | 10,200 | 9 |
 | 2023-08-15 | 10,202 | 9 |
-| 2023-08-17 | 10,203 | 9 |
+| 2023-08-17 | 10,204 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

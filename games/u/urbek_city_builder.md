@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Small town | 66.00% | ~208 |
-| I like parks | 54.00% | ~170 |
+| Small town | 66.00% | ~209 |
+| I like parks | 54.00% | ~171 |
 | It is nice to share with friends in the city | 27.00% | ~85 |
 | Sport is good for you | 26.00% | ~82 |
 | The spiritual world... | 24.00% | ~76 |
-| The woodcutter | 23.00% | ~72 |
+| The woodcutter | 23.00% | ~73 |
 | I like my life | 20.00% | ~63 |
 | I like books | 19.00% | ~60 |
 | Soviet town | 18.00% | ~57 |
@@ -30,14 +30,14 @@
 | Read! Everyone should read! | 2.00% | ~6 |
 | Oh, I love parks, listening to birds! | 2.00% | ~6 |
 | Temperate builder | 2.00% | ~6 |
-| Anarchist Utopia | 1.00% | ~3 |
 | Archipelago builder | 1.00% | ~3 |
 | Food provider master | 1.00% | ~3 |
 | What is there after death? | 1.00% | ~3 |
-| Oh, I am sad | 1.00% | ~3 |
-| Freedom to go to the mall! | 1.00% | ~3 |
 | Town planner | 1.00% | ~3 |
 | Temperate urban planner | 1.00% | ~3 |
+| Anarchist Utopia | 0.90% | ~3 |
+| Oh, I am sad | 0.90% | ~3 |
+| Freedom to go to the mall! | 0.90% | ~3 |
 | Archipelago urban planner | 0.60% | ~2 |
 | I can't see the sky | 0.60% | ~2 |
 | Desert builder | 0.60% | ~2 |
@@ -84,7 +84,7 @@
 | Full rainforest | 0.00% | ~0 |
 | Rainforest master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 315 (Ranked 257)  
+Progressed: 316 (Ranked 256)  
 Completed: 0 (0.00%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,7 +175,7 @@ Completed: 0 (0.00%) (Ranked 259)
 | 2023-08-13 | 312 | 0 |
 | 2023-08-14 | 313 | 0 |
 | 2023-08-16 | 314 | 0 |
-| 2023-08-17 | 315 | 0 |
+| 2023-08-17 | 316 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

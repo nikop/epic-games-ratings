@@ -2,9 +2,9 @@
   "ID": "5d2e14c5f6ac427b8a8466508cf81f6d",
   "Name": "Urbek City Builder",
   "ProductSlug": "urbek-city-builder-17cf7d",
-  "Ranking_EOS_Progress": 257,
+  "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 315,
+  "EOS_Progressed": 316,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -932,6 +932,11 @@
       "Time": "2023-08-17T14:04:01.5566323+00:00",
       "NumProgressed": 315,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-17T23:03:41.3223718+00:00",
+      "NumProgressed": 316,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -941,7 +946,7 @@
       "ID": "ANARQUIA_1",
       "SetID": "44dlcg0",
       "Name": "Anarchist Utopia",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -1189,7 +1194,7 @@
       "ID": "FELIZ_01",
       "SetID": "44dlcg0",
       "Name": "Oh, I am sad",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -1271,7 +1276,7 @@
       "Name": "I like parks",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "GREEN_AREAS_2",
@@ -1295,7 +1300,7 @@
       "Name": "The woodcutter",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "MILLS",
@@ -1309,7 +1314,7 @@
       "ID": "MURICA_1",
       "SetID": "44dlcg0",
       "Name": "Freedom to go to the mall!",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -1375,7 +1380,7 @@
       "Name": "Small town",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "POPULATION_2",
@@ -1574,7 +1579,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 315,
+      "Progressed": 316,
       "Completed": 0
     }
   ],
@@ -1582,8 +1587,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-08-17T22:04:10.2310929+00:00",
+  "LastChanged_Achievements": "2023-08-17T23:03:41.3223714+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:38.0477913+00:00",
-  "LastUpdate_Ratings": "2023-08-17T22:00:04.335848+00:00",
-  "LastUpdate_Achievements": "2023-08-17T22:04:10.2311843+00:00"
+  "LastUpdate_Ratings": "2023-08-17T22:59:53.5703081+00:00",
+  "LastUpdate_Achievements": "2023-08-17T23:03:41.3224476+00:00"
 }

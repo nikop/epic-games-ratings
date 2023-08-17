@@ -3,7 +3,7 @@
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
   "Ranking_Rating": 920,
-  "Ranking_Popularity": 67,
+  "Ranking_Popularity": 68,
   "Ranking_PopularitySum": 38,
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 118,
@@ -5822,10 +5822,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 31088,
       "NumberOfAwardsMax": 5162
+    },
+    {
+      "Time": "2023-08-17T22:59:18.3466631+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 31100,
+      "NumberOfAwardsMax": 5162
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 31088,
+  "NumberOfAwards": 31100,
   "NumberOfAwardsMax": 5162,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5833,7 +5839,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 5110
+      "Count": 5119
     },
     {
       "Text": "This game has Diverse Characters",
@@ -5851,7 +5857,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 4611
+      "Count": 4614
     },
     {
       "Text": "This game is Highly Recommended",
@@ -5872,9 +5878,9 @@
       "Count": 3357
     }
   ],
-  "EOS_Progressed": 222840,
+  "EOS_Progressed": 222852,
   "EOS_Completed": 2189,
-  "EOS_NewPlayers": 2267,
+  "EOS_NewPlayers": 2266,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -18852,6 +18858,11 @@
       "Time": "2023-08-17T22:04:45.3164925+00:00",
       "NumProgressed": 222840,
       "NumCompleted": 2189
+    },
+    {
+      "Time": "2023-08-17T23:04:17.8871275+00:00",
+      "NumProgressed": 222852,
+      "NumCompleted": 2189
     }
   ],
   "TotalAchievements": 516,
@@ -18861,9 +18872,9 @@
       "ID": "objective_completed_1",
       "SetID": "cc37lbc",
       "Name": "A Brief Tour of the Realms",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2006
+      "UsersEstimate": 2229
     },
     {
       "ID": "objective_completed_10",
@@ -22959,7 +22970,7 @@
       "Name": "The Hunt for The Last Breath",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "objective_completed_1396",
@@ -22990,21 +23001,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 189114,
+      "Progressed": 189126,
       "Completed": 3262
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 222840,
+      "Progressed": 222852,
       "Completed": 2189
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-08-17T04:59:46.8137372+00:00",
-  "LastChanged_Achievements": "2023-08-17T22:04:45.316492+00:00",
+  "LastChanged": "2023-08-17T22:59:18.346663+00:00",
+  "LastChanged_Achievements": "2023-08-17T23:04:17.887127+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:51.8567155+00:00",
-  "LastUpdate_Ratings": "2023-08-17T21:59:30.3002994+00:00",
-  "LastUpdate_Achievements": "2023-08-17T22:04:45.3195205+00:00"
+  "LastUpdate_Ratings": "2023-08-17T22:59:18.3466637+00:00",
+  "LastUpdate_Achievements": "2023-08-17T23:04:17.8899703+00:00"
 }

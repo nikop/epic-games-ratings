@@ -6,14 +6,14 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~714,829 |
-| The Blues | 85.00% | ~613,742 |
-| Fast | 66.00% | ~476,552 |
-| Healthbar | 55.00% | ~397,127 |
-| Force Cube | 53.00% | ~382,686 |
+| Out of bed | 99.00% | ~714,830 |
+| The Blues | 85.00% | ~613,743 |
+| Fast | 66.00% | ~476,554 |
+| Healthbar | 55.00% | ~397,128 |
+| Force Cube | 53.00% | ~382,687 |
 | Double Jump | 48.00% | ~346,584 |
-| Regeneration | 47.00% | ~339,363 |
-| Triple Jump | 43.00% | ~310,481 |
+| Regeneration | 47.00% | ~339,364 |
+| Triple Jump | 43.00% | ~310,482 |
 | Climb the hill | 42.00% | ~303,261 |
 | Through the fire pipe | 38.00% | ~274,379 |
 | MacGuffin | 38.00% | ~274,379 |
@@ -21,51 +21,51 @@ Number of Ratings: 25,175  (23.09.2022)
 | Armor | 30.00% | ~216,615 |
 | True holy spirit | 28.00% | ~202,174 |
 | That's how electronics work obviously | 26.00% | ~187,733 |
-| Force Cube Catapult | 25.00% | ~180,512 |
-| Holy Sword | 23.00% | ~166,071 |
+| Force Cube Catapult | 25.00% | ~180,513 |
+| Holy Sword | 23.00% | ~166,072 |
 | Telefrag | 22.00% | ~158,851 |
-| Freed from prison | 21.00% | ~151,630 |
-| Stomp | 21.00% | ~151,630 |
+| Freed from prison | 21.00% | ~151,631 |
+| Stomp | 21.00% | ~151,631 |
 | Double Health | 18.00% | ~129,969 |
-| Buckle | 17.00% | ~122,748 |
-| Green Keycard | 17.00% | ~122,748 |
-| Rattle Hag | 15.00% | ~108,307 |
+| Buckle | 17.00% | ~122,749 |
+| Green Keycard | 17.00% | ~122,749 |
+| Rattle Hag | 15.00% | ~108,308 |
 | All Shells | 14.00% | ~101,087 |
 | Beam | 14.00% | ~101,087 |
-| Health Drink | 13.00% | ~93,866 |
-| 9 | 13.00% | ~93,866 |
-| Purple Cube | 13.00% | ~93,866 |
-| Supraball Noob | 13.00% | ~93,866 |
+| Health Drink | 13.00% | ~93,867 |
+| 9 | 13.00% | ~93,867 |
+| Purple Cube | 13.00% | ~93,867 |
+| Supraball Noob | 13.00% | ~93,867 |
 | Helped a star | 12.00% | ~86,646 |
 | Strong | 12.00% | ~86,646 |
-| Blue King's lair | 11.00% | ~79,425 |
-| Payback | 11.00% | ~79,425 |
-| Got the coins back | 11.00% | ~79,425 |
-| Got the gun back | 11.00% | ~79,425 |
-| Infiltrated | 11.00% | ~79,425 |
-| Robbed | 11.00% | ~79,425 |
+| Blue King's lair | 11.00% | ~79,426 |
+| Payback | 11.00% | ~79,426 |
+| Got the coins back | 11.00% | ~79,426 |
+| Got the gun back | 11.00% | ~79,426 |
+| Infiltrated | 11.00% | ~79,426 |
+| Robbed | 11.00% | ~79,426 |
 | Fire Flies | 10.00% | ~72,205 |
 | Cave Flies | 10.00% | ~72,205 |
 | Gold Scam | 10.00% | ~72,205 |
 | Gold Scam Uncovered | 10.00% | ~72,205 |
 | Translocator | 10.00% | ~72,205 |
 | Yellow Shot Button | 10.00% | ~72,205 |
-| Moon Door | 9.00% | ~64,984 |
-| Momentum | 9.00% | ~64,984 |
-| Panic Lights | 9.00% | ~64,984 |
-| Through the tiny pipe | 9.00% | ~64,984 |
-| Win! | 9.00% | ~64,984 |
-| The real real teleported man | 7.00% | ~50,543 |
+| Moon Door | 9.00% | ~64,985 |
+| Momentum | 9.00% | ~64,985 |
+| Panic Lights | 9.00% | ~64,985 |
+| Through the tiny pipe | 9.00% | ~64,985 |
+| Win! | 9.00% | ~64,985 |
+| The real real teleported man | 7.00% | ~50,544 |
 | Well deserved | 6.00% | ~43,323 |
-| Happiness | 3.00% | ~21,661 |
-| Super Sword | 3.00% | ~21,661 |
+| Happiness | 3.00% | ~21,662 |
+| Super Sword | 3.00% | ~21,662 |
 | All Chests | 2.00% | ~14,441 |
 | Poor ancestors | 2.00% | ~14,441 |
 | Shelf filled | 2.00% | ~14,441 |
 | Invisible Wall | 2.00% | ~14,441 |
-| Groupies | 1.00% | ~7,220 |
-| Jesus Christ Suprastar | 1.00% | ~7,220 |
-| Redstone Pickaxe | 1.00% | ~7,220 |
+| Groupies | 1.00% | ~7,221 |
+| Jesus Christ Suprastar | 1.00% | ~7,221 |
+| Redstone Pickaxe | 1.00% | ~7,221 |
 | DLC: Green Bird | 0.50% | ~3,610 |
 | DLC: Basement Robbery | 0.50% | ~3,610 |
 | DLC: Rooftop Chase | 0.50% | ~3,610 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~722 |
 | DLC: Top of the world | 0.10% | ~722 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 722,049 (Ranked 19)  
+Progressed: 722,051 (Ranked 19)  
 Completed: 723 (0.10%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,7 +224,7 @@ Completed: 723 (0.10%) (Ranked 205)
 | 2023-08-14 | 721,649 | 719 |
 | 2023-08-15 | 721,801 | 720 |
 | 2023-08-16 | 721,948 | 723 |
-| 2023-08-17 | 722,049 | 723 |
+| 2023-08-17 | 722,051 | 723 |
 ## Awards
 Max (Challenging Puzzles): 7,671  (Ranked 45)  
 Sum: 9,995 (Ranked 84)  

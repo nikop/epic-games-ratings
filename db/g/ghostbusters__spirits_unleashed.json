@@ -1838,7 +1838,7 @@
   ],
   "EOS_Progressed": 25166,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 206,
+  "EOS_NewPlayers": 204,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -10841,9 +10841,9 @@
       "ID": "Fully_Upgraded",
       "SetID": "819popo",
       "Name": "Fully Upgraded",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 13338
+      "UsersEstimate": 13590
     },
     {
       "ID": "GB_In_Training",
@@ -11122,8 +11122,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-08-17T06:59:54.3022131+00:00",
-  "LastChanged_Achievements": "2023-08-17T22:04:07.3472875+00:00",
+  "LastChanged_Achievements": "2023-08-17T23:03:38.4916033+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:52.55817+00:00",
-  "LastUpdate_Ratings": "2023-08-17T22:00:17.2505562+00:00",
-  "LastUpdate_Achievements": "2023-08-17T22:04:07.3475456+00:00"
+  "LastUpdate_Ratings": "2023-08-17T23:00:07.8196566+00:00",
+  "LastUpdate_Achievements": "2023-08-17T23:03:38.4917008+00:00"
 }

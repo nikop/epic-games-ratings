@@ -9,8 +9,8 @@ Rating: 4.88 (Ranked 19)
 | Feeling the beat! | 11.00% | ~434 |
 | You can pet the cat! | 10.00% | ~394 |
 | Who put gears in there? | 9.00% | ~355 |
-| Cream of the Crop | 8.00% | ~315 |
-| Thanks for the free chip, Peppermint! | 8.00% | ~315 |
+| Cream of the Crop | 8.00% | ~316 |
+| Thanks for the free chip, Peppermint! | 8.00% | ~316 |
 | I play my own way! | 7.00% | ~276 |
 | You got this, Peppermint? | 7.00% | ~276 |
 | Perfect Parry | 7.00% | ~276 |
@@ -43,7 +43,7 @@ Rating: 4.88 (Ranked 19)
 | I told you I'd be fine, Peppermint! | 1.00% | ~39 |
 | Check out my moves! | 1.00% | ~39 |
 | Call me Turbo Chai | 1.00% | ~25 |
-| We're Jammin' | 0.90% | ~35 |
+| We're Jammin' | 0.90% | ~36 |
 | First we parry, then we counter | 0.80% | ~32 |
 | I'm not done with you yet | 0.70% | ~28 |
 | This is a breeze! | 0.60% | ~24 |
@@ -77,7 +77,7 @@ Rating: 4.88 (Ranked 19)
 | Voices from within | 0.10% | ~2 |
 | Low budget finish | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,943 (Ranked 148)  
+Progressed: 3,945 (Ranked 148)  
 Completed: 7 (0.18%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 7 (0.18%) (Ranked 189)
 | 2023-08-14 | 3,899 | 7 |
 | 2023-08-15 | 3,914 | 7 |
 | 2023-08-16 | 3,937 | 7 |
-| 2023-08-17 | 3,943 | 7 |
+| 2023-08-17 | 3,945 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

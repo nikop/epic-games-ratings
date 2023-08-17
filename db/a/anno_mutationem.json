@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewPlayers": 258,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
@@ -103,9 +103,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 660,
+  "EOS_Progressed": 661,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -458,6 +458,11 @@
       "Time": "2023-08-16T23:02:22.372657+00:00",
       "NumProgressed": 660,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-17T23:02:25.4392184+00:00",
+      "NumProgressed": 661,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -477,7 +482,7 @@
       "Name": "Annakin Skyscroller",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "Arm_Wrestling",
@@ -509,7 +514,7 @@
       "Name": "Club Star",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "Combine",
@@ -557,7 +562,7 @@
       "Name": "I just love stuff!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "I_think_its_broke",
@@ -581,7 +586,7 @@
       "Name": "Keep \u0027em coming!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "Lady_Luck",
@@ -597,7 +602,7 @@
       "Name": "Omnipotence",
       "Percentage": 19,
       "XP": 75,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "SERENITY_NOW",
@@ -733,7 +738,7 @@
       "Name": "Don\u0027t judge a manhole by its cover",
       "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "posters",
@@ -756,7 +761,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 660,
+      "Progressed": 661,
       "Completed": 0
     }
   ],
@@ -764,8 +769,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-08-11T17:59:11.6901866+00:00",
-  "LastChanged_Achievements": "2023-08-17T22:03:24.5215049+00:00",
+  "LastChanged_Achievements": "2023-08-17T23:02:25.4392179+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:16.109066+00:00",
-  "LastUpdate_Ratings": "2023-08-17T21:59:02.4438128+00:00",
-  "LastUpdate_Achievements": "2023-08-17T22:03:24.5215341+00:00"
+  "LastUpdate_Ratings": "2023-08-17T22:58:49.951298+00:00",
+  "LastUpdate_Achievements": "2023-08-17T23:02:25.4392452+00:00"
 }

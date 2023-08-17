@@ -2,12 +2,12 @@
   "ID": "8b9fc0e3ee7d478abc047d1a3596c568",
   "Name": "Far Cry 3: Blood Dragon",
   "ProductSlug": "far-cry-3-blood-dragon",
-  "Ranking_Rating": 427,
+  "Ranking_Rating": 414,
   "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 546,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewPlayers": 357,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2020-02-18T16:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.58,
+  "Rating": 4.59,
   "NumberOfRatings": 54,
   "RatingHistory": [
     {
@@ -225,6 +225,12 @@
       "Rating": 4.58,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-08-17T22:59:02.3629853+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -242,8 +248,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:24.1119308+00:00",
-  "LastChanged": "2023-07-12T11:58:05.330053+00:00",
+  "LastChanged": "2023-08-17T22:59:02.3629851+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:30.7653066+00:00",
-  "LastUpdate_Ratings": "2023-08-17T21:59:13.7991442+00:00",
-  "LastUpdate_Achievements": "2023-08-17T22:06:13.1808429+00:00"
+  "LastUpdate_Ratings": "2023-08-17T22:59:02.3629857+00:00",
+  "LastUpdate_Achievements": "2023-08-17T23:05:44.658411+00:00"
 }

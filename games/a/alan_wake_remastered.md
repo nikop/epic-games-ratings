@@ -7,7 +7,7 @@ Number of Ratings: 524  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Follow the Light | 37.00% | ~22,579 |
-| Let There Be Light | 30.00% | ~18,307 |
+| Let There Be Light | 30.00% | ~18,308 |
 | Float Like a Butterfly | 29.00% | ~17,697 |
 | Nordic Walking | 23.00% | ~14,036 |
 | Bright Falls' Finest | 23.00% | ~14,036 |
@@ -16,9 +16,9 @@ Number of Ratings: 524  (23.09.2022)
 | Park Ranger | 16.00% | ~9,764 |
 | Back! Back, I Say! | 15.00% | ~9,154 |
 | Finders Keepers | 15.00% | ~9,154 |
-| Sound and Fury | 14.00% | ~8,543 |
-| Missed by a Mile | 14.00% | ~8,543 |
-| Damn Good Cup of Coffee | 14.00% | ~8,543 |
+| Sound and Fury | 14.00% | ~8,544 |
+| Missed by a Mile | 14.00% | ~8,544 |
+| Damn Good Cup of Coffee | 14.00% | ~8,544 |
 | Wheels Within Wheels | 13.00% | ~7,933 |
 | They're Heeeeeere! | 13.00% | ~7,933 |
 | The Six-Gun Scribe | 13.00% | ~7,933 |
@@ -38,7 +38,7 @@ Number of Ratings: 524  (23.09.2022)
 | A Friend in Need | 8.00% | ~1,959 |
 | Tornado Wrangler | 7.00% | ~4,272 |
 | Departure | 7.00% | ~4,272 |
-| Hardboiled Writer | 6.00% | ~3,661 |
+| Hardboiled Writer | 6.00% | ~3,662 |
 | A Friend Indeed | 6.00% | ~1,470 |
 | Children of the Elder God | 5.00% | ~3,051 |
 | Drink 'Em Both Up | 5.00% | ~3,051 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~61 |
 | No Punctuation | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,024 (Ranked 85)  
+Progressed: 61,025 (Ranked 85)  
 Completed: 64 (0.10%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 64 (0.10%) (Ranked 205)
 | 2023-08-14 | 60,863 | 64 |
 | 2023-08-15 | 60,907 | 64 |
 | 2023-08-16 | 60,965 | 64 |
-| 2023-08-17 | 61,024 | 64 |
+| 2023-08-17 | 61,025 | 64 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

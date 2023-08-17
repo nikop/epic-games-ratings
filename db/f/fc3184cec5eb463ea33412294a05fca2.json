@@ -830,17 +830,17 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "8d3ci0",
       "Name": "Three is company",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 111
+      "UsersEstimate": 113
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "8d3ci0",
       "Name": "Duck invasion",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 61
+      "UsersEstimate": 63
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -870,17 +870,17 @@
       "ID": "NEW_ACHIEVEMENT_1_13",
       "SetID": "8d3ci0",
       "Name": "High-rise",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 117
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
       "SetID": "8d3ci0",
       "Name": "Putting challenge",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_15",
@@ -918,17 +918,17 @@
       "ID": "NEW_ACHIEVEMENT_1_5",
       "SetID": "8d3ci0",
       "Name": "Way to the shore",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 71
+      "UsersEstimate": 73
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
       "SetID": "8d3ci0",
       "Name": "Private pool",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 123
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -950,9 +950,9 @@
       "ID": "NEW_ACHIEVEMENT_1_9",
       "SetID": "8d3ci0",
       "Name": "Watery help",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 38
+      "UsersEstimate": 40
     }
   ],
   "AchievementSets": [
@@ -965,8 +965,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-08-17T22:03:44.3673483+00:00",
+  "LastChanged_Achievements": "2023-08-17T23:03:15.4327025+00:00",
   "LastUpdate_AppInfo": "2023-08-12T15:56:58.9050315+00:00",
-  "LastUpdate_Ratings": "2023-08-17T21:58:19.9514266+00:00",
-  "LastUpdate_Achievements": "2023-08-17T22:03:44.3673636+00:00"
+  "LastUpdate_Ratings": "2023-08-17T22:58:10.4814504+00:00",
+  "LastUpdate_Achievements": "2023-08-17T23:03:15.4327488+00:00"
 }

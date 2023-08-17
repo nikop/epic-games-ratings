@@ -3,11 +3,11 @@
   "Name": "The Witcher 3: Wild Hunt \u2013 Complete Edition",
   "ProductSlug": "the-witcher-3-wild-hunt",
   "Ranking_Rating": 13,
-  "Ranking_Popularity": 20,
+  "Ranking_Popularity": 21,
   "Ranking_PopularitySum": 29,
   "Ranking_EOS_Progress": 546,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewPlayers": 357,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2020-05-14T14:00:00+00:00",
@@ -9482,6 +9482,6 @@
   "FirstSeen": "2022-07-22T20:24:37.9019948+00:00",
   "LastChanged": "2023-08-17T22:00:26.0923448+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:03.6014641+00:00",
-  "LastUpdate_Ratings": "2023-08-17T22:00:26.0923455+00:00",
-  "LastUpdate_Achievements": "2023-08-17T22:03:20.7369343+00:00"
+  "LastUpdate_Ratings": "2023-08-17T23:00:16.4529659+00:00",
+  "LastUpdate_Achievements": "2023-08-17T23:02:21.5298005+00:00"
 }

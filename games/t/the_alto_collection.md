@@ -6,21 +6,21 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 26.00% | ~9,300 |
-| Finding Your Footing | 26.00% | ~9,300 |
-| Nomad | 18.00% | ~6,438 |
-| Picking Up Speed | 16.00% | ~5,723 |
-| Welcome Maya | 15.00% | ~5,365 |
-| Scout | 11.00% | ~3,934 |
-| Sightseer | 11.00% | ~3,934 |
-| Amateur | 9.00% | ~3,219 |
-| Unlock Maya | 8.00% | ~2,861 |
-| Enter Paz | 8.00% | ~2,861 |
-| Wanderer | 8.00% | ~2,861 |
+| Rookie | 26.00% | ~9,301 |
+| Finding Your Footing | 26.00% | ~9,301 |
+| Nomad | 18.00% | ~6,439 |
+| Picking Up Speed | 16.00% | ~5,724 |
+| Welcome Maya | 15.00% | ~5,366 |
+| Scout | 11.00% | ~3,935 |
+| Sightseer | 11.00% | ~3,935 |
+| Amateur | 9.00% | ~3,220 |
+| Unlock Maya | 8.00% | ~2,862 |
+| Enter Paz | 8.00% | ~2,862 |
+| Wanderer | 8.00% | ~2,862 |
 | Aviator | 6.00% | ~2,146 |
-| My Little Friend | 5.00% | ~1,788 |
-| One With The Board | 5.00% | ~1,788 |
-| Voyager | 5.00% | ~1,788 |
+| My Little Friend | 5.00% | ~1,789 |
+| One With The Board | 5.00% | ~1,789 |
+| Voyager | 5.00% | ~1,789 |
 | Sandboarder | 4.00% | ~1,431 |
 | Izel Has Arrived | 4.00% | ~1,431 |
 | Junkie | 3.00% | ~1,073 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~36 |
 | Windswept | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 35,768 (Ranked 95)  
+Progressed: 35,774 (Ranked 95)  
 Completed: 5 (0.01%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 5 (0.01%) (Ranked 246)
 | 2023-08-14 | 35,390 | 5 |
 | 2023-08-15 | 35,527 | 5 |
 | 2023-08-16 | 35,649 | 5 |
-| 2023-08-17 | 35,768 | 5 |
+| 2023-08-17 | 35,774 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 46  (Ranked 410)  
 Sum: 359 (Ranked 328)  
