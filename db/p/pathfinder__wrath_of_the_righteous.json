@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 113,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3458,9 +3458,9 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 10970,
+  "EOS_Progressed": 10971,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10843,6 +10843,11 @@
       "Time": "2023-08-16T22:04:24.4728219+00:00",
       "NumProgressed": 10970,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-17T02:17:40.2668606+00:00",
+      "NumProgressed": 10971,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -10870,7 +10875,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1316
+      "UsersEstimate": 1317
     },
     {
       "ID": "04_FithCrusade",
@@ -11062,7 +11067,7 @@
       "Name": "Great Upstart",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "29_StrategicVictory",
@@ -11206,7 +11211,7 @@
       "Name": "All Paths Open",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -11246,7 +11251,7 @@
       "Name": "Demonic and Divine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "52_TrulyImportantDeed",
@@ -11781,21 +11786,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9752,
+      "Progressed": 9753,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10970,
+      "Progressed": 10971,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-08-16T16:00:10.3233012+00:00",
-  "LastChanged_Achievements": "2023-08-17T01:41:56.2868748+00:00",
+  "LastChanged_Achievements": "2023-08-17T02:17:40.2668598+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:11.5447906+00:00",
-  "LastUpdate_Ratings": "2023-08-17T01:36:56.3933881+00:00",
-  "LastUpdate_Achievements": "2023-08-17T01:41:56.287035+00:00"
+  "LastUpdate_Ratings": "2023-08-17T02:12:55.5857589+00:00",
+  "LastUpdate_Achievements": "2023-08-17T02:17:40.2670844+00:00"
 }

@@ -480,9 +480,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 525177,
+  "EOS_Progressed": 525178,
   "EOS_Completed": 460,
-  "EOS_NewPlayers": 577,
+  "EOS_NewPlayers": 578,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -12985,6 +12985,11 @@
       "Time": "2023-08-17T01:42:42.6080954+00:00",
       "NumProgressed": 525177,
       "NumCompleted": 460
+    },
+    {
+      "Time": "2023-08-17T02:18:43.3672899+00:00",
+      "NumProgressed": 525178,
+      "NumCompleted": 460
     }
   ],
   "TotalAchievements": 57,
@@ -13012,7 +13017,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 367624
+      "UsersEstimate": 367625
     },
     {
       "ID": "12",
@@ -13036,7 +13041,7 @@
       "Name": "Going on an Adventure",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 57769
+      "UsersEstimate": 57770
     },
     {
       "ID": "15",
@@ -13092,7 +13097,7 @@
       "Name": "Talk of the Town",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 126042
+      "UsersEstimate": 126043
     },
     {
       "ID": "21",
@@ -13100,7 +13105,7 @@
       "Name": "Make Peace, Not War",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 57769
+      "UsersEstimate": 57770
     },
     {
       "ID": "22",
@@ -13220,7 +13225,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 262588
+      "UsersEstimate": 262589
     },
     {
       "ID": "36",
@@ -13252,7 +13257,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 178560
+      "UsersEstimate": 178561
     },
     {
       "ID": "4",
@@ -13332,7 +13337,7 @@
       "Name": "To the Beat",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 105035
+      "UsersEstimate": 105036
     },
     {
       "ID": "49",
@@ -13340,7 +13345,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 178560
+      "UsersEstimate": 178561
     },
     {
       "ID": "5",
@@ -13372,7 +13377,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 241581
+      "UsersEstimate": 241582
     },
     {
       "ID": "53",
@@ -13451,15 +13456,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 525177,
+      "Progressed": 525178,
       "Completed": 460
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
-  "LastChanged_Achievements": "2023-08-17T01:42:42.608095+00:00",
+  "LastChanged_Achievements": "2023-08-17T02:18:43.3672891+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:16.1872639+00:00",
-  "LastUpdate_Ratings": "2023-08-17T01:35:51.1519096+00:00",
-  "LastUpdate_Achievements": "2023-08-17T01:42:42.6081999+00:00"
+  "LastUpdate_Ratings": "2023-08-17T02:11:27.0526831+00:00",
+  "LastUpdate_Achievements": "2023-08-17T02:18:43.367447+00:00"
 }

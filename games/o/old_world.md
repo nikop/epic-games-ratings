@@ -61,13 +61,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Roman Paganism | 1.00% | ~134 |
 | Zoroastrianism | 1.00% | ~134 |
 | Drillmaster | 0.90% | ~121 |
+| Valiant | 0.90% | ~121 |
 | Legendary Cities | 0.90% | ~121 |
 | Just Difficulty | 0.90% | ~121 |
 | Learn to Play 2 | 0.90% | ~121 |
 | Egyptian Paganism | 0.90% | ~121 |
 | Mythology | 0.90% | ~121 |
 | Intercessor | 0.80% | ~107 |
-| Valiant | 0.80% | ~107 |
 | Sages | 0.80% | ~107 |
 | Acropolis | 0.80% | ~107 |
 | Mausoleum | 0.80% | ~107 |

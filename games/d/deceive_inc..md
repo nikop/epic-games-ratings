@@ -5,14 +5,14 @@ Rating: 4.58 (Ranked 426)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 29.00% | ~5,053 |
+| On Deceive Inc.'s Secret Service | 29.00% | ~5,054 |
 | Mainframe Hacker | 23.00% | ~4,008 |
 | The Spy who eliminated me | 23.00% | ~4,008 |
 | Tomorrow Never Dyes | 22.00% | ~3,834 |
 | Never Say Loser Again | 19.00% | ~3,311 |
-| From the Vault with Love | 18.00% | ~3,136 |
-| Tailor-Made | 18.00% | ~3,136 |
-| For your Eyes only | 18.00% | ~3,136 |
+| From the Vault with Love | 18.00% | ~3,137 |
+| Tailor-Made | 18.00% | ~3,137 |
+| For your Eyes only | 18.00% | ~3,137 |
 | Assistant Accountant | 17.00% | ~2,962 |
 | Fully Decked Out | 17.00% | ~2,962 |
 | You Only Live Twice | 16.00% | ~2,788 |
@@ -25,15 +25,15 @@ Rating: 4.58 (Ranked 426)
 | Keycards Royale | 11.00% | ~1,917 |
 | Dr. No Kill | 11.00% | ~1,917 |
 | My Motto, My Creed | 11.00% | ~1,917 |
-| In It to Win It | 10.00% | ~1,742 |
+| In It to Win It | 10.00% | ~1,743 |
 | Security Supervisor | 6.00% | ~1,046 |
 | License to Thrill | 5.00% | ~871 |
 | Social of Solace | 4.00% | ~697 |
 | Live and let lie | 3.00% | ~523 |
 | Safe Withdrawal | 3.00% | ~523 |
-| Branch Manager | 2.00% | ~348 |
-| Call Me Maybe | 2.00% | ~348 |
-| PHD in VIP | 2.00% | ~348 |
+| Branch Manager | 2.00% | ~349 |
+| Call Me Maybe | 2.00% | ~349 |
+| PHD in VIP | 2.00% | ~349 |
 | The terminals are not enough | 1.00% | ~174 |
 | Lose Another Day | 1.00% | ~174 |
 | Chairman of Deceive Inc. | 0.90% | ~157 |
@@ -42,7 +42,7 @@ Rating: 4.58 (Ranked 426)
 | Extraction Confusion | 0.20% | ~35 |
 | Spyfall | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,425 (Ranked 109)  
+Progressed: 17,426 (Ranked 109)  
 Completed: 1 (0.01%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,7 +161,7 @@ Completed: 1 (0.01%) (Ranked 245)
 | 2023-08-14 | 17,375 | 1 |
 | 2023-08-15 | 17,401 | 1 |
 | 2023-08-16 | 17,424 | 1 |
-| 2023-08-17 | 17,425 | 1 |
+| 2023-08-17 | 17,426 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

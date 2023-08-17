@@ -2936,10 +2936,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 12936,
       "NumberOfAwardsMax": 6772
+    },
+    {
+      "Time": "2023-08-17T02:11:04.0235027+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 12944,
+      "NumberOfAwardsMax": 6772
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12936,
+  "NumberOfAwards": 12944,
   "NumberOfAwardsMax": 6772,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2983,7 +2989,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 664
+      "Count": 672
     },
     {
       "Text": "This game has Unique Visuals",
@@ -3010,9 +3016,9 @@
       "Count": 700
     }
   ],
-  "EOS_Progressed": 1577044,
+  "EOS_Progressed": 1577112,
   "EOS_Completed": 505,
-  "EOS_NewPlayers": 25098,
+  "EOS_NewPlayers": 25166,
   "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -10990,6 +10996,11 @@
       "Time": "2023-08-17T01:44:34.2463493+00:00",
       "NumProgressed": 1577044,
       "NumCompleted": 505
+    },
+    {
+      "Time": "2023-08-17T02:20:48.788734+00:00",
+      "NumProgressed": 1577112,
+      "NumCompleted": 505
     }
   ],
   "TotalAchievements": 1328,
@@ -14983,9 +14994,9 @@
       "ID": "ggez_45",
       "SetID": "bkjdbk8",
       "Name": "GOTs!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1577
     },
     {
       "ID": "ggez_46",
@@ -17015,9 +17026,9 @@
       "ID": "peta_1",
       "SetID": "bkjdbk8",
       "Name": "Coffee Stain",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1577
     },
     {
       "ID": "peta_2",
@@ -17447,9 +17458,9 @@
       "ID": "pick_49",
       "SetID": "bkjdbk8",
       "Name": "There is no Goat Level",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1577
     },
     {
       "ID": "pick_5",
@@ -21624,22 +21635,22 @@
     {
       "ID": "61cefe3",
       "IsBase": true,
-      "Progressed": 1577044,
+      "Progressed": 1577112,
       "Completed": 505
     },
     {
       "ID": "bkjdbk8",
       "IsBase": false,
-      "Progressed": 1577044,
+      "Progressed": 1577112,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-06-08T18:57:07.8003815+00:00",
   "FirstSeenRating": "2023-06-09T03:57:04.3869033+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:50.4372379+00:00",
-  "LastChanged": "2023-08-17T01:35:36.07706+00:00",
-  "LastChanged_Achievements": "2023-08-17T01:44:34.2463489+00:00",
+  "LastChanged": "2023-08-17T02:11:04.0235024+00:00",
+  "LastChanged_Achievements": "2023-08-17T02:20:48.7887328+00:00",
   "LastUpdate_AppInfo": "2023-08-10T19:57:07.9529529+00:00",
-  "LastUpdate_Ratings": "2023-08-17T01:35:36.0770607+00:00",
-  "LastUpdate_Achievements": "2023-08-17T01:44:34.2601127+00:00"
+  "LastUpdate_Ratings": "2023-08-17T02:11:04.0235031+00:00",
+  "LastUpdate_Achievements": "2023-08-17T02:20:48.807599+00:00"
 }

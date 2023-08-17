@@ -6,27 +6,27 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Imprint | 88.00% | ~122,162 |
-| Taste | 84.00% | ~116,609 |
-| The Hunt | 66.00% | ~91,621 |
-| Ravenous | 63.00% | ~87,457 |
-| Weeper | 43.00% | ~59,693 |
-| Devourer | 22.00% | ~30,540 |
-| Harmless | 19.00% | ~26,376 |
-| Silenced Whispers | 19.00% | ~26,376 |
-| Yank | 15.00% | ~20,823 |
-| Sharpened Vessel | 15.00% | ~20,823 |
-| Feast | 12.00% | ~16,658 |
-| Scion | 11.00% | ~15,224 |
-| Jawcrab | 11.00% | ~15,270 |
-| Jawstag | 11.00% | ~15,270 |
-| Watcher | 10.00% | ~13,882 |
+| Imprint | 88.00% | ~122,170 |
+| Taste | 84.00% | ~116,616 |
+| The Hunt | 66.00% | ~91,627 |
+| Ravenous | 63.00% | ~87,462 |
+| Weeper | 43.00% | ~59,696 |
+| Devourer | 22.00% | ~30,542 |
+| Harmless | 19.00% | ~26,378 |
+| Silenced Whispers | 19.00% | ~26,378 |
+| Yank | 15.00% | ~20,824 |
+| Sharpened Vessel | 15.00% | ~20,824 |
+| Feast | 12.00% | ~16,659 |
+| Scion | 11.00% | ~15,225 |
+| Jawcrab | 11.00% | ~15,271 |
+| Jawstag | 11.00% | ~15,271 |
+| Watcher | 10.00% | ~13,883 |
 | Shapely | 8.00% | ~11,106 |
-| Glare | 8.00% | ~11,072 |
+| Glare | 8.00% | ~11,073 |
 | Predator | 8.00% | ~11,106 |
-| Assimilation | 6.00% | ~8,329 |
-| Host | 6.00% | ~8,304 |
-| Celebration | 6.00% | ~8,329 |
+| Assimilation | 6.00% | ~8,330 |
+| Host | 6.00% | ~8,305 |
+| Celebration | 6.00% | ~8,330 |
 | Hunt Down | 5.00% | ~6,941 |
 | Artisan | 4.00% | ~5,553 |
 | Hush | 4.00% | ~5,553 |
@@ -38,9 +38,9 @@ Number of Ratings: 46  (23.09.2022)
 | All-Seeing | 3.00% | ~4,165 |
 | Passage | 3.00% | ~4,165 |
 | Proportions | 3.00% | ~4,165 |
-| Bloodhunter | 2.00% | ~2,776 |
+| Bloodhunter | 2.00% | ~2,777 |
 | Zygote | 2.00% | ~2,768 |
-| Kinship | 2.00% | ~2,776 |
+| Kinship | 2.00% | ~2,777 |
 | Kin | 2.00% | ~2,768 |
 | Listen | 2.00% | ~2,768 |
 | Weakness | 1.00% | ~1,388 |
@@ -49,7 +49,7 @@ Number of Ratings: 46  (23.09.2022)
 | Instruments | 0.70% | ~972 |
 | Spiral Heart | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,820 (Ranked 64)  
+Progressed: 138,829 (Ranked 64)  
 Completed: 1 (0.00%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,7 +149,7 @@ Completed: 1 (0.00%) (Ranked 258)
 | 2023-08-14 | 137,893 | 1 |
 | 2023-08-15 | 138,364 | 1 |
 | 2023-08-16 | 138,779 | 1 |
-| 2023-08-17 | 138,820 | 1 |
+| 2023-08-17 | 138,829 | 1 |
 ## Awards
 Max (Challenging Combat): 25  (Ranked 482)  
 Sum: 71 (Ranked 434)  

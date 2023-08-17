@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 245,
-  "Ranking_EOS_NewPlayers": 95,
+  "Ranking_EOS_NewPlayers": 94,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17425,
+  "EOS_Progressed": 17426,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 232,
+  "EOS_NewPlayers": 233,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8416,6 +8416,11 @@
       "Time": "2023-08-17T00:06:07.9681955+00:00",
       "NumProgressed": 17425,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-17T02:18:10.2347018+00:00",
+      "NumProgressed": 17426,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -8427,7 +8432,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5053
+      "UsersEstimate": 5054
     },
     {
       "ID": "0002",
@@ -8459,7 +8464,7 @@
       "Name": "Branch Manager",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "0006",
@@ -8483,7 +8488,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3136
+      "UsersEstimate": 3137
     },
     {
       "ID": "0009",
@@ -8563,7 +8568,7 @@
       "Name": "In It to Win It",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1742
+      "UsersEstimate": 1743
     },
     {
       "ID": "0019",
@@ -8587,7 +8592,7 @@
       "Name": "Call Me Maybe",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "0022",
@@ -8595,7 +8600,7 @@
       "Name": "PHD in VIP",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "0023",
@@ -8619,7 +8624,7 @@
       "Name": "Tailor-Made",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3136
+      "UsersEstimate": 3137
     },
     {
       "ID": "0026",
@@ -8659,7 +8664,7 @@
       "Name": "For your Eyes only",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3136
+      "UsersEstimate": 3137
     },
     {
       "ID": "0031",
@@ -8714,7 +8719,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17425,
+      "Progressed": 17426,
       "Completed": 1
     }
   ],
@@ -8722,8 +8727,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-12T19:04:41.1874293+00:00",
-  "LastChanged_Achievements": "2023-08-17T01:42:18.0002084+00:00",
+  "LastChanged_Achievements": "2023-08-17T02:18:10.2347012+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:38.5697724+00:00",
-  "LastUpdate_Ratings": "2023-08-17T01:38:04.4028972+00:00",
-  "LastUpdate_Achievements": "2023-08-17T01:42:18.0002672+00:00"
+  "LastUpdate_Ratings": "2023-08-17T02:14:39.4443896+00:00",
+  "LastUpdate_Achievements": "2023-08-17T02:18:10.234799+00:00"
 }

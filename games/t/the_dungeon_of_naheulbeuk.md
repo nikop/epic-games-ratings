@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 16.00% | ~34,139 |
+| Sowwy! | 16.00% | ~34,140 |
 | Déjà vu | 1.00% | ~2,134 |
 | Where's that freaking Dwarf? | 1.00% | ~2,134 |
 | Sock! SOCK! | 1.00% | ~2,134 |
@@ -19,15 +19,15 @@ Number of Ratings: 118  (23.09.2022)
 | Livin' in a dwarven paradise | 0.50% | ~1,067 |
 | Way of the Wimp | 0.50% | ~1,067 |
 | The plot thickens... At the tavern | 0.50% | ~1,067 |
-| The demons' feast | 0.40% | ~853 |
-| The Great Library | 0.40% | ~853 |
-| Torture and Sensibility | 0.40% | ~853 |
-| Urik's Depths | 0.40% | ~853 |
-| The Dungeon Master | 0.40% | ~853 |
-| The Woman in the High Castle | 0.40% | ~853 |
-| %#*!$*! | 0.40% | ~853 |
-| Team Building Exercise | 0.40% | ~853 |
-| Oh, when I'll be level 10... | 0.40% | ~853 |
+| The demons' feast | 0.40% | ~854 |
+| The Great Library | 0.40% | ~854 |
+| Torture and Sensibility | 0.40% | ~854 |
+| Urik's Depths | 0.40% | ~854 |
+| The Dungeon Master | 0.40% | ~854 |
+| The Woman in the High Castle | 0.40% | ~854 |
+| %#*!$*! | 0.40% | ~854 |
+| Team Building Exercise | 0.40% | ~854 |
+| Oh, when I'll be level 10... | 0.40% | ~854 |
 | Shiny and Crôm | 0.30% | ~640 |
 | The Statuette of Gladeulfeurah | 0.30% | ~640 |
 | Res Judicata | 0.30% | ~640 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Staff cut | 0.00% | ~0 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 213,369 (Ranked 56)  
+Progressed: 213,376 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,7 +173,7 @@ Completed: 2 (0.00%) (Ranked 258)
 | 2023-08-14 | 212,372 | 2 |
 | 2023-08-15 | 212,897 | 2 |
 | 2023-08-16 | 213,341 | 2 |
-| 2023-08-17 | 213,369 | 2 |
+| 2023-08-17 | 213,376 | 2 |
 ## Awards
 Max (Character Customization): 166  (Ranked 289)  
 Sum: 187 (Ranked 375)  
