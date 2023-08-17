@@ -183,9 +183,9 @@
 | 180 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.23% |
 | 182 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
 | 182 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.22% |
-| 184 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.20% |
-| 184 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.20% |
-| 184 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.20% |
+| 184 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.21% |
+| 185 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.20% |
+| 185 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.20% |
 | 187 | [Going Medieval](games/g/going_medieval.md) | 0.19% |
 | 187 | [RAILGRADE](games/r/railgrade.md) | 0.19% |
 | 189 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.18% |

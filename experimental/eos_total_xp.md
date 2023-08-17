@@ -59,6 +59,7 @@
 | [Aegis Descent](../games/a/aegis_descent.md) | 44 | 1,000 |
 | [Aeon Must Die!](../games/a/aeon_must_die!.md) | 35 | 1,000 |
 | [AER Memories of Old](../games/a/aer_memories_of_old.md) | 20 | 1,000 |
+| [Aerial Platforms](../games/e/ea6b00889ce34487bdc4b03fa35dd8f3.md) | 11 | 1,000 |
 | [Afterglitch](../games/a/afterglitch.md) | 10 | 1,000 |
 | [Against the Storm](../games/a/against_the_storm.md) | 50 | 1,000 |
 | [Airborne Kingdom](../games/a/airborne_kingdom.md) | 27 | 1,000 |
@@ -526,6 +527,7 @@
 | [The Light in the Darkness](../games/t/the_light_in_the_darkness.md) | 12 | 1,000 |
 | [The Lord of the Rings - Gollum™](../games/t/the_lord_of_the_rings_-_gollum™.md) | 36 | 1,000 |
 | [The Mageseeker: A League of Legends Story™](../games/t/the_mageseeker__a_league_of_legends_story™.md) | 53 | 1,000 |
+| [The Making of Karateka](../games/7/72a2d3937aaf45b082fc20ad5b6703ae.md) | 19 | 1,000 |
 | [The Many Pieces of Mr. Coo](../games/t/the_many_pieces_of_mr._coo.md) | 21 | 1,000 |
 | [The Outbound Ghost](../games/t/the_outbound_ghost.md) | 31 | 1,000 |
 | [The Shapeshifting Detective](../games/t/the_shapeshifting_detective.md) | 21 | 1,000 |

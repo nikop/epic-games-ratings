@@ -54,7 +54,7 @@
 | 50 | [Grindstone](games/g/grindstone.md) | 4.84 | 0 | 512 |
 | 50 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 417 | 209 |
 | 50 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 262 | 248 |
-| 50 | [Rayman Origins](games/r/rayman_origins.md) | 4.84 | 25 | 481 |
+| 50 | [Rayman Origins](games/r/rayman_origins.md) | 4.84 | 25 | 482 |
 | 50 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.84 | 240 | 257 |
 | 50 | [Star Atlas](games/s/star_atlas.md) | 4.84 | 23 | 491 |
 | 50 | [The Last Campfire](games/t/the_last_campfire.md) | 4.84 | 0 | 512 |
@@ -98,7 +98,7 @@
 | 87 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 386 | 217 |
 | 87 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 119 | 319 |
 | 87 | [Sailing Era](games/s/sailing_era.md) | 4.79 | 0 | 512 |
-| 87 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.79 | 101 | 334 |
+| 87 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.79 | 101 | 335 |
 | 100 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.78 | 0 | 512 |
 | 100 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 9,720 | 38 |
 | 100 | [Journey](games/j/journey.md) | 4.78 | 0 | 512 |
@@ -313,7 +313,7 @@
 | 299 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 24 | 484 |
 | 299 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.65 | 0 | 512 |
 | 299 | [Tennis Manager 2022](games/t/tennis_manager_2022.md) | 4.65 | 0 | 512 |
-| 299 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.65 | 101 | 334 |
+| 299 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.65 | 102 | 333 |
 | 315 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.64 | 0 | 512 |
 | 315 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 0 | 512 |
 | 315 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 5,962 | 58 |
@@ -327,6 +327,7 @@
 | 315 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 67 | 381 |
 | 315 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.64 | 0 | 512 |
 | 315 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 191 | 276 |
+| 328 | [ABZU](games/a/abzu.md) | 4.63 | 0 | 512 |
 | 328 | [Aimlabs](games/a/aimlabs.md) | 4.63 | 0 | 512 |
 | 328 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.63 | 21 | 501 |
 | 328 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.63 | 0 | 512 |
@@ -342,26 +343,25 @@
 | 328 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 1,768 | 115 |
 | 328 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.63 | 67 | 381 |
 | 328 | [Transistor](games/t/transistor.md) | 4.63 | 0 | 512 |
-| 343 | [ABZU](games/a/abzu.md) | 4.62 | 0 | 512 |
-| 343 | [Assassin's Creed Chronicles: Russia](games/a/assassin's_creed_chronicles__russia.md) | 4.62 | 0 | 512 |
-| 343 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.62 | 75,608 | 9 |
-| 343 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 279 | 241 |
-| 343 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 34 | 442 |
-| 343 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 75 | 368 |
-| 343 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,436 | 123 |
-| 343 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.62 | 375 | 222 |
-| 343 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 556 | 190 |
-| 343 | [Limbo](games/l/limbo.md) | 4.62 | 0 | 512 |
-| 343 | [NORCO](games/n/norco.md) | 4.62 | 0 | 512 |
-| 343 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.62 | 0 | 512 |
-| 343 | [Prey](games/p/prey.md) | 4.62 | 5,638 | 64 |
-| 343 | [Returnal™](games/r/returnal™.md) | 4.62 | 63 | 388 |
-| 343 | [Roguebook](games/r/roguebook.md) | 4.62 | 0 | 512 |
-| 343 | [System Shock](games/s/system_shock.md) | 4.62 | 0 | 512 |
-| 343 | [The Medium](games/t/the_medium.md) | 4.62 | 0 | 512 |
-| 343 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.62 | 729 | 164 |
-| 343 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.62 | 20 | 509 |
-| 343 | [Warhammer 40,000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.62 | 0 | 512 |
+| 344 | [Assassin's Creed Chronicles: Russia](games/a/assassin's_creed_chronicles__russia.md) | 4.62 | 0 | 512 |
+| 344 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.62 | 75,608 | 9 |
+| 344 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 279 | 241 |
+| 344 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 34 | 442 |
+| 344 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 75 | 368 |
+| 344 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,436 | 123 |
+| 344 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.62 | 375 | 222 |
+| 344 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 556 | 190 |
+| 344 | [Limbo](games/l/limbo.md) | 4.62 | 0 | 512 |
+| 344 | [NORCO](games/n/norco.md) | 4.62 | 0 | 512 |
+| 344 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.62 | 0 | 512 |
+| 344 | [Prey](games/p/prey.md) | 4.62 | 5,638 | 64 |
+| 344 | [Returnal™](games/r/returnal™.md) | 4.62 | 63 | 388 |
+| 344 | [Roguebook](games/r/roguebook.md) | 4.62 | 0 | 512 |
+| 344 | [System Shock](games/s/system_shock.md) | 4.62 | 0 | 512 |
+| 344 | [The Medium](games/t/the_medium.md) | 4.62 | 0 | 512 |
+| 344 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.62 | 729 | 164 |
+| 344 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.62 | 20 | 509 |
+| 344 | [Warhammer 40,000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.62 | 0 | 512 |
 | 363 | [20XX](games/2/20xx.md) | 4.61 | 36 | 434 |
 | 363 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.61 | 0 | 512 |
 | 363 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 4.61 | 20 | 509 |
@@ -398,7 +398,7 @@
 | 391 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 4.60 | 0 | 512 |
 | 391 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 219 | 264 |
 | 391 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 74 | 371 |
-| 391 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,585 | 27 |
+| 391 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,587 | 27 |
 | 391 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.60 | 26 | 474 |
 | 391 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 121 | 315 |
 | 391 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.60 | 0 | 512 |
@@ -414,7 +414,7 @@
 | 391 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 0 | 512 |
 | 413 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 45 | 413 |
 | 413 | [DOOM 3](games/d/doom_3.md) | 4.59 | 68 | 380 |
-| 413 | [GRIME](games/g/grime.md) | 4.59 | 25 | 481 |
+| 413 | [GRIME](games/g/grime.md) | 4.59 | 25 | 482 |
 | 413 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 59 | 390 |
 | 413 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.59 | 222 | 262 |
 | 413 | [Moving Out](games/m/moving_out.md) | 4.59 | 21 | 501 |
@@ -590,7 +590,7 @@
 | 576 | [Solitairica](games/s/solitairica.md) | 4.49 | 83 | 359 |
 | 576 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 0 | 512 |
 | 576 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.49 | 0 | 512 |
-| 591 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 4.48 | 25 | 481 |
+| 591 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 4.48 | 26 | 474 |
 | 591 | [Anno 2070](games/a/anno_2070.md) | 4.48 | 0 | 512 |
 | 591 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.48 | 0 | 512 |
 | 591 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.48 | 0 | 512 |
