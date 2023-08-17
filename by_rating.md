@@ -246,7 +246,7 @@
 | 238 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,912 | 81 |
 | 238 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 5,682 | 62 |
 | 238 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 3,441 | 87 |
-| 238 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 302,680 | 3 |
+| 238 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 302,922 | 3 |
 | 238 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 213,069 | 4 |
 | 238 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 512 |
 | 238 | [King of Retail](games/k/king_of_retail.md) | 4.68 | 0 | 512 |
@@ -384,7 +384,7 @@
 | 363 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 484 | 199 |
 | 363 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 9,813 | 37 |
 | 363 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,074 | 138 |
-| 363 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 277 | 243 |
+| 363 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 278 | 242 |
 | 363 | [Supraland](games/s/supraland.md) | 4.61 | 7,671 | 45 |
 | 363 | [The Colonists](games/t/the_colonists.md) | 4.61 | 0 | 512 |
 | 363 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.61 | 32 | 453 |
@@ -462,7 +462,7 @@
 | 451 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.57 | 0 | 512 |
 | 451 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,682 | 44 |
 | 451 | [Observation](games/o/observation.md) | 4.57 | 0 | 512 |
-| 451 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,203 | 92 |
+| 451 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,205 | 92 |
 | 451 | [Risen](games/r/risen.md) | 4.57 | 0 | 512 |
 | 451 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.57 | 0 | 512 |
 | 451 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 3,722 | 83 |
@@ -546,7 +546,7 @@
 | 541 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,112 | 79 |
 | 541 | [CryoFall](games/c/cryofall.md) | 4.51 | 0 | 512 |
 | 541 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 41 | 422 |
-| 541 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.51 | 2,652 | 96 |
+| 541 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.51 | 2,656 | 96 |
 | 541 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 107 | 328 |
 | 541 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 148 | 297 |
 | 541 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 188 | 277 |
@@ -579,7 +579,7 @@
 | 576 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.49 | 0 | 512 |
 | 576 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 1,986 | 109 |
 | 576 | [Dark Deception](games/d/dark_deception.md) | 4.49 | 0 | 512 |
-| 576 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 36,368 | 13 |
+| 576 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 36,390 | 13 |
 | 576 | [Duskers](games/d/duskers.md) | 4.49 | 0 | 512 |
 | 576 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 273 | 244 |
 | 576 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 248 | 252 |

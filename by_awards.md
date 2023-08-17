@@ -2,7 +2,7 @@
 | - | ---- | ------ | ------ | -------------- |
 | 1 | [Fortnite](games/f/fortnite.md) | 1,584,789 | 4.29 | 794 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 504,930 | 4.49 | 576 |
-| 3 | [Genshin Impact](games/g/genshin_impact.md) | 302,680 | 4.68 | 238 |
+| 3 | [Genshin Impact](games/g/genshin_impact.md) | 302,922 | 4.68 | 238 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 213,069 | 4.68 | 238 |
 | 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 194,069 | 4.19 | 863 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 167,903 | 4.88 | 18 |
@@ -12,7 +12,7 @@
 | 10 | [VALORANT](games/v/valorant.md) | 64,991 | 4.53 | 512 |
 | 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 60,129 | 4.58 | 426 |
 | 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 43,087 | 4.61 | 363 |
-| 13 | [Destiny 2](games/d/destiny_2.md) | 36,368 | 4.49 | 576 |
+| 13 | [Destiny 2](games/d/destiny_2.md) | 36,390 | 4.49 | 576 |
 | 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 36,091 | 4.74 | 145 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 31,203 | 4.52 | 527 |
 | 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,786 | 4.65 | 299 |
@@ -91,11 +91,11 @@
 | 89 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,340 | 4.68 | 238 |
 | 90 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,304 | 4.76 | 117 |
 | 91 | [Hades](games/h/hades.md) | 3,218 | 4.92 | 4 |
-| 92 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,203 | 4.57 | 451 |
+| 92 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,205 | 4.57 | 451 |
 | 93 | [Trackmania](games/t/trackmania.md) | 3,142 | 4.67 | 258 |
 | 94 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3,131 | 3.98 | 935 |
 | 95 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 2,726 | 4.82 | 66 |
-| 96 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,652 | 4.51 | 541 |
+| 96 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,656 | 4.51 | 541 |
 | 97 | [Among Us](games/a/among_us.md) | 2,617 | 4.57 | 451 |
 | 98 | [Path of Exile](games/p/path_of_exile.md) | 2,555 | 4.61 | 363 |
 | 99 | [RAGE 2](games/r/rage_2.md) | 2,524 | 4.27 | 810 |
@@ -242,7 +242,7 @@
 | 240 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 281 | 4.43 | 661 |
 | 241 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 279 | 4.62 | 344 |
 | 242 | [Dead Cells](games/d/dead_cells.md) | 278 | 4.87 | 25 |
-| 243 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 277 | 4.61 | 363 |
+| 242 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 278 | 4.61 | 363 |
 | 244 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 273 | 4.49 | 576 |
 | 245 | [Diabotical](games/d/diabotical.md) | 272 | 4.75 | 135 |
 | 246 | [Brawlhalla](games/b/brawlhalla.md) | 271 | 4.60 | 390 |
