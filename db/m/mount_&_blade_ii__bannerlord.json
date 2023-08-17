@@ -6,9 +6,9 @@
   "Ranking_Popularity": 50,
   "Ranking_PopularitySum": 67,
   "Ranking_EOS_Progress": 86,
-  "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_Completed": 259,
+  "Ranking_EOS_NewPlayers": 80,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -6373,18 +6373,24 @@
       "Rating": 4.74,
       "NumberOfAwards": 14097,
       "NumberOfAwardsMax": 6946
+    },
+    {
+      "Time": "2023-08-17T19:56:57.4483217+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 14099,
+      "NumberOfAwardsMax": 6948
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14097,
-  "NumberOfAwardsMax": 6946,
+  "NumberOfAwards": 14099,
+  "NumberOfAwardsMax": 6948,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 6946
+      "Count": 6948
     },
     {
       "Text": "This game is Highly Recommended",
@@ -6455,7 +6461,7 @@
   ],
   "EOS_Progressed": 59062,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 459,
+  "EOS_NewPlayers": 452,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19457,9 +19463,9 @@
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-08-17T13:57:16.8256044+00:00",
-  "LastChanged_Achievements": "2023-08-17T19:04:47.0315955+00:00",
+  "LastChanged": "2023-08-17T19:56:57.4483216+00:00",
+  "LastChanged_Achievements": "2023-08-17T20:04:42.7069822+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:44.6335832+00:00",
-  "LastUpdate_Ratings": "2023-08-17T18:57:10.3851122+00:00",
-  "LastUpdate_Achievements": "2023-08-17T19:04:47.0317125+00:00"
+  "LastUpdate_Ratings": "2023-08-17T19:56:57.4483221+00:00",
+  "LastUpdate_Achievements": "2023-08-17T20:04:42.707073+00:00"
 }

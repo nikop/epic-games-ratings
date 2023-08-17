@@ -3,9 +3,9 @@
   "Name": "The Evil Within",
   "ProductSlug": "the-evil-within",
   "Ranking_EOS_Progress": 352,
-  "Ranking_EOS_Completed": 258,
+  "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
     "PcReleaseDate": "2014-07-13T00:00:00+00:00",
@@ -453,17 +453,17 @@
       "ID": "ACHIEVEMENT_14",
       "SetID": "ap8553i",
       "Name": "Hardbody",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_15",
       "SetID": "ap8553i",
       "Name": "My Best Friend",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -930,8 +930,8 @@
   ],
   "FirstSeen": "2023-08-04T21:57:01.9865679+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5206267+00:00",
-  "LastChanged_Achievements": "2023-08-17T19:04:34.4611293+00:00",
+  "LastChanged_Achievements": "2023-08-17T20:04:29.3162887+00:00",
   "LastUpdate_AppInfo": "2023-08-16T16:57:24.4284709+00:00",
-  "LastUpdate_Ratings": "2023-08-17T18:57:55.5678722+00:00",
-  "LastUpdate_Achievements": "2023-08-17T19:04:34.4612203+00:00"
+  "LastUpdate_Ratings": "2023-08-17T19:57:37.8040826+00:00",
+  "LastUpdate_Achievements": "2023-08-17T20:04:29.3163488+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 117,
   "Ranking_PopularitySum": 113,
   "Ranking_EOS_Progress": 120,
-  "Ranking_EOS_Completed": 258,
+  "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3470,9 +3470,9 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 10980,
+  "EOS_Progressed": 10982,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10895,6 +10895,11 @@
       "Time": "2023-08-17T19:04:40.0910291+00:00",
       "NumProgressed": 10980,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-17T20:04:35.1257869+00:00",
+      "NumProgressed": 10982,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -10906,7 +10911,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 2525
+      "UsersEstimate": 2526
     },
     {
       "ID": "02_BurningCity",
@@ -11042,7 +11047,7 @@
       "Name": "Mythic Choices",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1427
+      "UsersEstimate": 1428
     },
     {
       "ID": "19_EqualToAroden",
@@ -11154,7 +11159,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1427
+      "UsersEstimate": 1428
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -11296,9 +11301,9 @@
       "ID": "51_DemonicAndDivine",
       "SetID": "989of5o",
       "Name": "Demonic and Divine",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 659
+      "UsersEstimate": 549
     },
     {
       "ID": "52_TrulyImportantDeed",
@@ -11833,21 +11838,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9762,
+      "Progressed": 9764,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10980,
+      "Progressed": 10982,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-08-17T16:00:31.1424714+00:00",
-  "LastChanged_Achievements": "2023-08-17T19:04:40.0910279+00:00",
+  "LastChanged_Achievements": "2023-08-17T20:04:35.1257866+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:11.5447906+00:00",
-  "LastUpdate_Ratings": "2023-08-17T18:59:46.4159169+00:00",
-  "LastUpdate_Achievements": "2023-08-17T19:04:40.0912357+00:00"
+  "LastUpdate_Ratings": "2023-08-17T19:59:23.8283473+00:00",
+  "LastUpdate_Achievements": "2023-08-17T20:04:35.1259476+00:00"
 }

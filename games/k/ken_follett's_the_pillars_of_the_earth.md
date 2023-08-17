@@ -6,16 +6,16 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 41.00% | ~5,997 |
+| Tattletale | 41.00% | ~5,998 |
 | Man of politics | 35.00% | ~5,120 |
 | Yet another secret | 34.00% | ~4,974 |
-| Friends of sorts | 33.00% | ~4,827 |
-| Let there be darkness | 32.00% | ~4,681 |
-| End of Book One | 30.00% | ~4,388 |
+| Friends of sorts | 33.00% | ~4,828 |
+| Let there be darkness | 32.00% | ~4,682 |
+| End of Book One | 30.00% | ~4,389 |
 | Wannabe knight | 24.00% | ~3,511 |
 | Garden of Eden | 24.00% | ~3,511 |
 | Full house | 24.00% | ~3,511 |
-| Help an old friend | 22.00% | ~3,218 |
+| Help an old friend | 22.00% | ~3,219 |
 | Two of us | 20.00% | ~2,926 |
 | Negotiation skills | 18.00% | ~2,633 |
 | Workers' union | 18.00% | ~2,633 |
@@ -38,9 +38,9 @@ Number of Ratings: 368  (23.09.2022)
 | A cry for help | 8.00% | ~1,170 |
 | Silentium est aureum | 7.00% | ~1,024 |
 | Rebel without a cause | 6.00% | ~878 |
-| Staring contest champion | 5.00% | ~731 |
-| Lone wolf | 5.00% | ~731 |
-| Vox Populi | 5.00% | ~731 |
+| Staring contest champion | 5.00% | ~732 |
+| Lone wolf | 5.00% | ~732 |
+| Vox Populi | 5.00% | ~732 |
 | Revenge | 4.00% | ~585 |
 | Self-defense | 4.00% | ~585 |
 | Countess Aliena | 4.00% | ~585 |
@@ -48,8 +48,8 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~439 |
 | Boy of mystery | 2.00% | ~293 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,628 (Ranked 116)  
-Completed: 109 (0.75%) (Ranked 124)  
+Progressed: 14,630 (Ranked 116)  
+Completed: 109 (0.75%) (Ranked 125)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -167,7 +167,7 @@ Completed: 109 (0.75%) (Ranked 124)
 | 2023-08-14 | 14,560 | 109 |
 | 2023-08-15 | 14,593 | 109 |
 | 2023-08-16 | 14,610 | 109 |
-| 2023-08-17 | 14,628 | 109 |
+| 2023-08-17 | 14,630 | 109 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 297)  
 Sum: 188 (Ranked 375)  

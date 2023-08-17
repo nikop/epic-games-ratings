@@ -6,21 +6,21 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 76.00% | ~3,621 |
+| Just One...More...Term... | 75.00% | ~3,575 |
 | Un-Lonely Island | 47.00% | ~2,240 |
-| The Beginning of a Servantship | 46.00% | ~2,192 |
-| Trade Is My Trait | 37.00% | ~1,763 |
+| The Beginning of a Servantship | 46.00% | ~2,193 |
+| Trade Is My Trait | 37.00% | ~1,764 |
 | Number 18 | 24.00% | ~1,144 |
-| We Don't Have Time For That | 19.00% | ~905 |
+| We Don't Have Time For That | 19.00% | ~906 |
 | The Governator | 18.00% | ~858 |
 | The Legend of Langostino | 17.00% | ~810 |
-| Caribbean Comrade | 16.00% | ~762 |
-| The Dreamer of Dreams | 16.00% | ~762 |
+| Caribbean Comrade | 16.00% | ~763 |
+| The Dreamer of Dreams | 16.00% | ~763 |
 | Go Sovereigns! | 11.00% | ~524 |
 | For Science! | 11.00% | ~524 |
-| Happy Ending? | 10.00% | ~476 |
-| Of Seals And Men | 10.00% | ~476 |
-| Shackadelic | 10.00% | ~476 |
+| Happy Ending? | 10.00% | ~477 |
+| Of Seals And Men | 10.00% | ~477 |
+| Shackadelic | 10.00% | ~477 |
 | Double Trouble | 8.00% | ~381 |
 | Firestarter | 8.00% | ~381 |
 | Make Tropico Great Again! | 8.00% | ~381 |
@@ -47,8 +47,8 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~43 |
 | My Ways | 0.30% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,765 (Ranked 144)  
-Completed: 2 (0.04%) (Ranked 227)  
+Progressed: 4,767 (Ranked 145)  
+Completed: 2 (0.04%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -166,10 +166,10 @@ Completed: 2 (0.04%) (Ranked 227)
 | 2023-08-14 | 4,733 | 2 |
 | 2023-08-15 | 4,747 | 2 |
 | 2023-08-16 | 4,756 | 2 |
-| 2023-08-17 | 4,765 | 2 |
+| 2023-08-17 | 4,767 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 97  (Ranked 339)  
-Sum: 675 (Ranked 280)  
+Sum: 676 (Ranked 280)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
@@ -181,7 +181,7 @@ Diff (max vs sum): 59
 | This game has Amazing Characters | 84 |
 | This game is Educational | 83 |
 | This game is Extremely Fun | 82 |
-| This game has a Creative Community | 62 |
+| This game has a Creative Community | 63 |
 | This game has Obsessive Gameplay | 52 |
 | This game has Diverse Characters | 46 |
 ## Ratings History
@@ -309,3 +309,4 @@ Diff (max vs sum): 59
 | 2023-08-06 | 4.67 | - | 96 | 673 |
 | 2023-08-13 | 4.67 | - | 96 | 674 |
 | 2023-08-16 | 4.66 | - | 97 | 675 |
+| 2023-08-17 | 4.66 | - | 97 | 676 |

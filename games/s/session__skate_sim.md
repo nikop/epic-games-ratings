@@ -47,8 +47,8 @@ Number of Ratings: 111  (23.09.2022)
 | Cross lock country | 2.00% | ~55 |
 | Many plys later... | 2.00% | ~55 |
 | Dipped! | 1.00% | ~27 |
+| Skatepark hero | 1.00% | ~27 |
 | That was wheelie fun | 1.00% | ~27 |
-| Skatepark hero | 0.90% | ~25 |
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 | Bing Bong! | 0.00% | ~0 |
@@ -56,7 +56,7 @@ Number of Ratings: 111  (23.09.2022)
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,731 (Ranked 161)  
-Completed: 0 (0.00%) (Ranked 258)  
+Completed: 0 (0.00%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

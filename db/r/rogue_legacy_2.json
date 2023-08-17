@@ -6,9 +6,9 @@
   "Ranking_Popularity": 263,
   "Ranking_PopularitySum": 208,
   "Ranking_EOS_Progress": 103,
-  "Ranking_EOS_Completed": 195,
+  "Ranking_EOS_Completed": 196,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1377,9 +1377,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 22900,
+  "EOS_Progressed": 22901,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -6912,6 +6912,11 @@
       "Time": "2023-08-17T15:05:36.7417236+00:00",
       "NumProgressed": 22900,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-08-17T20:05:09.4514659+00:00",
+      "NumProgressed": 22901,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -6931,7 +6936,7 @@
       "Name": "Truly Blessed",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "AllEquipment",
@@ -6971,7 +6976,7 @@
       "Name": "Looks Familiar",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "BossBridgeAdvancedDefeated",
@@ -6995,7 +7000,7 @@
       "Name": "For Glory",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "BossCastleDefeated",
@@ -7234,21 +7239,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 22900,
+      "Progressed": 22901,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 1830,
+      "Progressed": 1831,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-08-16T23:01:14.2964517+00:00",
-  "LastChanged_Achievements": "2023-08-17T19:05:13.5835248+00:00",
+  "LastChanged_Achievements": "2023-08-17T20:05:09.4514648+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:59.4184193+00:00",
-  "LastUpdate_Ratings": "2023-08-17T19:00:24.451437+00:00",
-  "LastUpdate_Achievements": "2023-08-17T19:05:13.5835841+00:00"
+  "LastUpdate_Ratings": "2023-08-17T20:00:02.2463016+00:00",
+  "LastUpdate_Achievements": "2023-08-17T20:05:09.4515131+00:00"
 }

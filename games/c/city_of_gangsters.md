@@ -87,7 +87,7 @@ Rating: 4.26 (Ranked 817)
 | Station Master | 0.10% | ~338 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 337,824 (Ranked 41)  
-Completed: 7 (0.00%) (Ranked 258)  
+Completed: 7 (0.00%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

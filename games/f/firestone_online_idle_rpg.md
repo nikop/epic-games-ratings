@@ -5,10 +5,10 @@ Rating: 4.05 (Ranked 921)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,689 |
+| Victor | 93.00% | ~1,690 |
 | World Map | 79.00% | ~1,435 |
-| Temple of Eternals | 57.00% | ~1,035 |
-| Prestigious | 53.00% | ~962 |
+| Temple of Eternals | 57.00% | ~1,036 |
+| Prestigious | 53.00% | ~963 |
 | Fellowship Power | 41.00% | ~745 |
 | Guild Power | 25.00% | ~454 |
 | Prestigious x10 | 22.00% | ~400 |
@@ -18,8 +18,8 @@ Rating: 4.05 (Ranked 921)
 | Miner Clicker | 17.00% | ~309 |
 | Full Party | 16.00% | ~291 |
 | Inspection | 16.00% | ~291 |
-| Dragon Master | 15.00% | ~272 |
-| Enlightenment | 15.00% | ~272 |
+| Dragon Master | 15.00% | ~273 |
+| Enlightenment | 15.00% | ~273 |
 | Hero inspection | 14.00% | ~254 |
 | Lieutenant | 14.00% | ~254 |
 | Mysterious Rock | 14.00% | ~254 |
@@ -39,9 +39,9 @@ Rating: 4.05 (Ranked 921)
 | Moving Up The Ladder | 10.00% | ~182 |
 | Relic Of The Past | 10.00% | ~182 |
 | Scroll Master | 10.00% | ~182 |
-| Here We Go Again | 9.00% | ~163 |
-| Master Enchanter | 9.00% | ~163 |
-| The father of Dragons | 9.00% | ~163 |
+| Here We Go Again | 9.00% | ~164 |
+| Master Enchanter | 9.00% | ~164 |
+| The father of Dragons | 9.00% | ~164 |
 | Trader | 8.00% | ~145 |
 | Blueprint Upgrades | 7.00% | ~127 |
 | Crystal Mining | 7.00% | ~127 |
@@ -61,14 +61,14 @@ Rating: 4.05 (Ranked 921)
 | Arena Challenger | 4.00% | ~73 |
 | Ebony Jungle Liberator | 4.00% | ~73 |
 | Legendary | 4.00% | ~73 |
-| What lies behind the bush | 3.00% | ~54 |
+| What lies behind the bush | 3.00% | ~55 |
 | Mythic Power | 2.00% | ~36 |
 | Gear Enchanting | 1.00% | ~18 |
 | Guardian Master | 1.00% | ~18 |
+| Transmute | 1.00% | ~18 |
 | Cauldron Liberator | 0.90% | ~16 |
 | Titan Power | 0.90% | ~16 |
 | Training makes a Pro player | 0.90% | ~16 |
-| Transmute | 0.90% | ~16 |
 | Enhanced War Machines | 0.70% | ~13 |
 | Tree of Life | 0.60% | ~11 |
 | Beast War Machines | 0.50% | ~9 |
@@ -81,8 +81,8 @@ Rating: 4.05 (Ranked 921)
 | Silverwood liberator | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,816 (Ranked 172)  
-Completed: 2 (0.11%) (Ranked 201)  
+Progressed: 1,817 (Ranked 172)  
+Completed: 2 (0.11%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -199,7 +199,7 @@ Completed: 2 (0.11%) (Ranked 201)
 | 2023-08-14 | 1,802 | 2 |
 | 2023-08-15 | 1,806 | 2 |
 | 2023-08-16 | 1,811 | 2 |
-| 2023-08-17 | 1,816 | 2 |
+| 2023-08-17 | 1,817 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,8 +6,8 @@
   "Ranking_Popularity": 71,
   "Ranking_PopularitySum": 46,
   "Ranking_EOS_Progress": 66,
-  "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_Completed": 205,
+  "Ranking_EOS_NewPlayers": 83,
   "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -5644,9 +5644,9 @@
       "Count": 3735
     }
   ],
-  "EOS_Progressed": 134666,
+  "EOS_Progressed": 134674,
   "EOS_Completed": 133,
-  "EOS_NewPlayers": 398,
+  "EOS_NewPlayers": 405,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -17839,6 +17839,11 @@
       "Time": "2023-08-17T19:05:33.1051837+00:00",
       "NumProgressed": 134666,
       "NumCompleted": 133
+    },
+    {
+      "Time": "2023-08-17T20:05:28.3299156+00:00",
+      "NumProgressed": 134674,
+      "NumCompleted": 133
     }
   ],
   "TotalAchievements": 112,
@@ -17936,9 +17941,9 @@
       "ID": "bigsale02",
       "SetID": "anfd17p",
       "Name": "Tax not Included",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 269
+      "UsersEstimate": 404
     },
     {
       "ID": "bigsale03",
@@ -18392,9 +18397,9 @@
       "ID": "hemma_a",
       "SetID": "anfd17p",
       "Name": "Necromancer Queen",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 269
     },
     {
       "ID": "jackslot01",
@@ -18745,15 +18750,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 134666,
+      "Progressed": 134674,
       "Completed": 133
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-08-17T17:00:28.4677719+00:00",
-  "LastChanged_Achievements": "2023-08-17T19:05:33.1051832+00:00",
+  "LastChanged_Achievements": "2023-08-17T20:05:28.3299152+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:13.9096409+00:00",
-  "LastUpdate_Ratings": "2023-08-17T18:59:47.7223999+00:00",
-  "LastUpdate_Achievements": "2023-08-17T19:05:33.1053949+00:00"
+  "LastUpdate_Ratings": "2023-08-17T19:59:25.0727923+00:00",
+  "LastUpdate_Achievements": "2023-08-17T20:05:28.3300891+00:00"
 }

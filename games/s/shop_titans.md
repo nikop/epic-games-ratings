@@ -33,6 +33,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Arcane Industries | 0.40% | ~539 |
 | On the Path to Greatness | 0.30% | ~404 |
 | Ascended | 0.30% | ~404 |
+| Tax not Included | 0.30% | ~404 |
 | Research & Development | 0.30% | ~404 |
 | Vanity, Verily | 0.30% | ~404 |
 | Fated Encounters | 0.30% | ~404 |
@@ -53,7 +54,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Above the Norm | 0.20% | ~269 |
 | Constellated | 0.20% | ~269 |
 | A Ronin Reborn | 0.20% | ~269 |
-| Tax not Included | 0.20% | ~269 |
 | The King's Caprice | 0.20% | ~269 |
 | Thirst for Knowledge | 0.20% | ~269 |
 | Big Game Hunting | 0.20% | ~269 |
@@ -79,6 +79,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Mammonite | 0.20% | ~269 |
 | Wealth Beyond Measure | 0.20% | ~269 |
 | Fat Cat Tag Team | 0.20% | ~269 |
+| Necromancer Queen | 0.20% | ~269 |
 | Item of Renown | 0.20% | ~269 |
 | Master Merchant | 0.20% | ~269 |
 | Miracle Alchemist | 0.20% | ~269 |
@@ -106,7 +107,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Unleashed Potential | 0.10% | ~135 |
 | Thank You Tom Nook | 0.10% | ~135 |
 | Capitalist Camaraderie | 0.10% | ~135 |
-| Necromancer Queen | 0.10% | ~135 |
 | Jackpot! | 0.10% | ~135 |
 | JACKPOT!!! | 0.10% | ~135 |
 | Merchant Extraordinaire | 0.10% | ~135 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.10% | ~135 |
 | All Accounted For | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,666 (Ranked 66)  
-Completed: 133 (0.10%) (Ranked 204)  
+Progressed: 134,674 (Ranked 66)  
+Completed: 133 (0.10%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -238,7 +238,7 @@ Completed: 133 (0.10%) (Ranked 204)
 | 2023-08-14 | 134,532 | 132 |
 | 2023-08-15 | 134,574 | 132 |
 | 2023-08-16 | 134,622 | 133 |
-| 2023-08-17 | 134,666 | 133 |
+| 2023-08-17 | 134,674 | 133 |
 ## Awards
 Max (Great for Beginners): 4,704  (Ranked 71)  
 Sum: 27,109 (Ranked 46)  

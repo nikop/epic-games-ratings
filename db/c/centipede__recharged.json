@@ -6,9 +6,9 @@
   "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 111,
-  "Ranking_EOS_Completed": 131,
+  "Ranking_EOS_Completed": 132,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
     "PcReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -302,9 +302,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16372,
+  "EOS_Progressed": 16373,
   "EOS_Completed": 101,
-  "EOS_NewPlayers": 187,
+  "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -9447,6 +9447,11 @@
       "Time": "2023-08-17T19:05:41.5791811+00:00",
       "NumProgressed": 16372,
       "NumCompleted": 101
+    },
+    {
+      "Time": "2023-08-17T20:05:36.7506464+00:00",
+      "NumProgressed": 16373,
+      "NumCompleted": 101
     }
   ],
   "TotalAchievements": 16,
@@ -9458,7 +9463,7 @@
       "Name": "Beat \u0027em Up",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 4420
+      "UsersEstimate": 4421
     },
     {
       "ID": "Burning_For_You",
@@ -9530,7 +9535,7 @@
       "Name": "Make Rock Not War",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 6876
+      "UsersEstimate": 6877
     },
     {
       "ID": "Mirrors",
@@ -9585,15 +9590,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 16372,
+      "Progressed": 16373,
       "Completed": 101
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-07-21T02:04:12.2963456+00:00",
-  "LastChanged_Achievements": "2023-08-17T19:05:41.5791792+00:00",
+  "LastChanged_Achievements": "2023-08-17T20:05:36.750646+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:47.6667565+00:00",
-  "LastUpdate_Ratings": "2023-08-17T19:00:14.4373852+00:00",
-  "LastUpdate_Achievements": "2023-08-17T19:05:41.5792521+00:00"
+  "LastUpdate_Ratings": "2023-08-17T19:59:51.6788299+00:00",
+  "LastUpdate_Achievements": "2023-08-17T20:05:36.7506967+00:00"
 }

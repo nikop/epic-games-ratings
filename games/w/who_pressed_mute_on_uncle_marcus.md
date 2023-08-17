@@ -10,7 +10,7 @@
 | You are Carol Vorderman | 59.00% | ~122 |
 | Toby foolery | 51.00% | ~105 |
 | Don't fear the baldness | 40.00% | ~82 |
-| Instinct | 38.00% | ~78 |
+| Instinct | 39.00% | ~80 |
 | Blow | 35.00% | ~72 |
 | I bless the rain down in London | 32.00% | ~66 |
 | Just like me | 32.00% | ~66 |

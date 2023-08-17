@@ -3,9 +3,9 @@
   "Name": "Aya \u0026 Naya",
   "ProductSlug": "aya-and-naya-b7791e",
   "Ranking_EOS_Progress": 483,
-  "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 357,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_Completed": 259,
+  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-08-17T20:00:00+00:00",
     "PcReleaseDate": "2023-08-31T16:00:00+00:00",
@@ -90,8 +90,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-08T21:02:12.6548497+00:00",
-  "LastChanged_Achievements": "2023-08-17T19:03:39.9197649+00:00",
+  "LastChanged_Achievements": "2023-08-17T20:03:47.6190247+00:00",
   "LastUpdate_AppInfo": "2023-08-14T08:57:17.4876993+00:00",
-  "LastUpdate_Ratings": "2023-08-17T18:57:52.212063+00:00",
-  "LastUpdate_Achievements": "2023-08-17T19:03:39.919775+00:00"
+  "LastUpdate_Ratings": "2023-08-17T19:57:33.1533145+00:00",
+  "LastUpdate_Achievements": "2023-08-17T20:03:47.6190324+00:00"
 }

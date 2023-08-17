@@ -6,26 +6,26 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 88.00% | ~1,592 |
-| Self-Improvement | 72.00% | ~1,302 |
+| Unforgiven | 88.00% | ~1,593 |
+| Self-Improvement | 71.00% | ~1,285 |
 | Perky | 65.00% | ~1,176 |
-| Let’s Ride | 60.00% | ~1,085 |
-| Welcome to the Weird West | 57.00% | ~1,031 |
-| Dead or Alive | 56.00% | ~1,013 |
-| Full House | 37.00% | ~669 |
+| Let’s Ride | 60.00% | ~1,086 |
+| Welcome to the Weird West | 57.00% | ~1,032 |
+| Dead or Alive | 56.00% | ~1,014 |
+| Full House | 37.00% | ~670 |
 | Off the Trail | 34.00% | ~615 |
 | Justice Served | 29.00% | ~525 |
-| Chain Reaction | 27.00% | ~488 |
-| Through Their Eyes | 26.00% | ~470 |
+| Chain Reaction | 27.00% | ~489 |
+| Through Their Eyes | 26.00% | ~471 |
 | Dishonored | 25.00% | ~452 |
 | Rain of Death | 25.00% | ~452 |
 | Scholar | 25.00% | ~452 |
 | The Great Escape | 23.00% | ~416 |
 | That’s All, Folks | 18.00% | ~326 |
-| Fallen Star | 16.00% | ~289 |
-| Here Comes Santa Claus | 16.00% | ~289 |
-| Winds of War | 16.00% | ~289 |
-| For Balance | 15.00% | ~271 |
+| Fallen Star | 16.00% | ~290 |
+| Here Comes Santa Claus | 16.00% | ~290 |
+| Winds of War | 16.00% | ~290 |
+| For Balance | 15.00% | ~272 |
 | Dog Days | 13.00% | ~235 |
 | Out on the Ebb Tide | 13.00% | ~235 |
 | Elusive Prey | 12.00% | ~217 |
@@ -60,8 +60,8 @@ Number of Ratings: 125  (23.09.2022)
 | Revenant | 0.40% | ~7 |
 | Winter Has Come | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,809 (Ranked 173)  
-Completed: 4 (0.22%) (Ranked 181)  
+Progressed: 1,810 (Ranked 173)  
+Completed: 4 (0.22%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -164,7 +164,7 @@ Completed: 4 (0.22%) (Ranked 181)
 | 2023-08-14 | 1,805 | 4 |
 | 2023-08-15 | 1,806 | 4 |
 | 2023-08-16 | 1,808 | 4 |
-| 2023-08-17 | 1,809 | 4 |
+| 2023-08-17 | 1,810 | 4 |
 ## Awards
 Max (Impact the Story): 24  (Ranked 483)  
 Sum: 24 (Ranked 487)  

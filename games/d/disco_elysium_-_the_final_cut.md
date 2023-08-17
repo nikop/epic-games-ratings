@@ -6,15 +6,15 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~35,386 |
+| Goodest Of The Good Cops | 28.00% | ~35,387 |
 | Biggest Communism Builder | 24.00% | ~30,331 |
 | The World's Most Laughable Centrist | 20.00% | ~25,276 |
-| Il Coppo Del'Arte! | 18.00% | ~22,748 |
+| Il Coppo Del'Arte! | 18.00% | ~22,749 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,221 |
 | Hyperstellar Law Official | 15.00% | ~18,957 |
 | Recruit Detective Kim Kitsuragi | 14.00% | ~17,693 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~16,429 |
-| Gurdi-Ball Is Lit | 13.00% | ~16,429 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~16,430 |
+| Gurdi-Ball Is Lit | 13.00% | ~16,430 |
 | Truly Rabid *Traditionalist* | 11.00% | ~13,902 |
 | Unbelievably Boring **** | 9.00% | ~11,374 |
 | The Figurines Won't Win Her Back | 9.00% | ~11,374 |
@@ -47,8 +47,8 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~126 |
 | What body? | 0.10% | ~126 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,380 (Ranked 68)  
-Completed: 27 (0.02%) (Ranked 237)  
+Progressed: 126,381 (Ranked 68)  
+Completed: 27 (0.02%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -166,10 +166,10 @@ Completed: 27 (0.02%) (Ranked 237)
 | 2023-08-14 | 126,238 | 27 |
 | 2023-08-15 | 126,286 | 27 |
 | 2023-08-16 | 126,338 | 27 |
-| 2023-08-17 | 126,380 | 27 |
+| 2023-08-17 | 126,381 | 27 |
 ## Awards
 Max (Character Customization): 719  (Ranked 165)  
-Sum: 1,081 (Ranked 235)  
+Sum: 1,082 (Ranked 235)  
 Diff (max vs sum): -70  
 | Award | Count |
 | ----- | ----- |
@@ -178,8 +178,8 @@ Diff (max vs sum): -70
 | This game is Educational | 44 |
 | This game is Highly Recommended | 42 |
 | This game has Quickly Understood Controls | 40 |
+| This game has Unique Visuals | 36 |
 | This game has Amazing Characters | 36 |
-| This game has Unique Visuals | 35 |
 | This game is Relaxing | 35 |
 | This game is Extremely Fun | 30 |
 | This game has Diverse Characters | 30 |
@@ -309,4 +309,4 @@ Diff (max vs sum): -70
 | 2023-08-04 | 4.87 | - | 715 | 1,077 |
 | 2023-08-14 | 4.87 | - | 716 | 1,078 |
 | 2023-08-15 | 4.87 | - | 718 | 1,080 |
-| 2023-08-17 | 4.87 | - | 719 | 1,081 |
+| 2023-08-17 | 4.87 | - | 719 | 1,082 |

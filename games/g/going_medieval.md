@@ -20,7 +20,7 @@ Number of Ratings: 706  (23.09.2022)
 | Beam Me Up | 50.00% | ~2,668 |
 | Feast or Famine | 49.00% | ~2,614 |
 | Adept Researcher | 44.00% | ~2,347 |
-| Retribution | 40.00% | ~2,134 |
+| Retribution | 41.00% | ~2,187 |
 | ...And Don’t Come Back! | 40.00% | ~2,134 |
 | Fit For A King | 38.00% | ~2,027 |
 | Luminary Researcher | 33.00% | ~1,761 |
@@ -38,8 +38,8 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~107 |
 | Wabbit Season | 0.50% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,335 (Ranked 137)  
-Completed: 10 (0.19%) (Ranked 186)  
+Progressed: 5,335 (Ranked 138)  
+Completed: 10 (0.19%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

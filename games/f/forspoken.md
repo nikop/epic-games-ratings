@@ -60,7 +60,7 @@ Rating: 4.15 (Ranked 888)
 | Cat Person | 0.10% | ~40 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 39,697 (Ranked 93)  
-Completed: 3 (0.01%) (Ranked 245)  
+Completed: 3 (0.01%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

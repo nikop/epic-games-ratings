@@ -6,9 +6,9 @@
   "Ranking_Popularity": 453,
   "Ranking_PopularitySum": 472,
   "Ranking_EOS_Progress": 191,
-  "Ranking_EOS_Completed": 109,
+  "Ranking_EOS_Completed": 110,
   "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
     "PcReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -1898,9 +1898,9 @@
       "ID": "MissionLiberateEnclave",
       "SetID": "a6c395p",
       "Name": "Safe Home",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 748
+      "UsersEstimate": 759
     },
     {
       "ID": "MissionMasterAndDisciple",
@@ -2066,8 +2066,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-07-09T07:00:38.7677324+00:00",
-  "LastChanged_Achievements": "2023-08-17T19:05:46.2701438+00:00",
+  "LastChanged_Achievements": "2023-08-17T20:05:41.2301672+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:58:03.9507413+00:00",
-  "LastUpdate_Ratings": "2023-08-17T18:57:12.5938687+00:00",
-  "LastUpdate_Achievements": "2023-08-17T19:05:46.2701883+00:00"
+  "LastUpdate_Ratings": "2023-08-17T19:56:59.4211338+00:00",
+  "LastUpdate_Achievements": "2023-08-17T20:05:41.2302012+00:00"
 }

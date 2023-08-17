@@ -6,7 +6,7 @@
   "Ranking_Popularity": 289,
   "Ranking_PopularitySum": 366,
   "Ranking_EOS_Progress": 56,
-  "Ranking_EOS_Completed": 258,
+  "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 22,
   "Ranking_EOS_NewCompleters": 50,
   "Store": {
@@ -666,9 +666,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 213682,
+  "EOS_Progressed": 213712,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3771,
+  "EOS_NewPlayers": 3763,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7296,6 +7296,11 @@
       "Time": "2023-08-17T19:04:55.640928+00:00",
       "NumProgressed": 213682,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-17T20:04:51.0810536+00:00",
+      "NumProgressed": 213712,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -7307,7 +7312,7 @@
       "Name": "Livin\u0027 in a dwarven paradise",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1068
+      "UsersEstimate": 1069
     },
     {
       "ID": "100Fail",
@@ -7363,7 +7368,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1709
+      "UsersEstimate": 1710
     },
     {
       "ID": "Chapter3",
@@ -7371,7 +7376,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1068
+      "UsersEstimate": 1069
     },
     {
       "ID": "Chapter4",
@@ -7731,7 +7736,7 @@
       "Name": "%#*!$*!",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1068
+      "UsersEstimate": 1069
     },
     {
       "ID": "DwarfLevel2",
@@ -7755,7 +7760,7 @@
       "Name": "Sowwy!",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 36326
+      "UsersEstimate": 36331
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -7955,7 +7960,7 @@
       "Name": "Speedrun",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1709
+      "UsersEstimate": 1710
     },
     {
       "ID": "SupportCount4",
@@ -8010,21 +8015,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 213682,
+      "Progressed": 213712,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 213682,
+      "Progressed": 213712,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-17T18:00:52.3354753+00:00",
-  "LastChanged_Achievements": "2023-08-17T19:04:55.6409273+00:00",
+  "LastChanged_Achievements": "2023-08-17T20:04:51.0810532+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:49.6773731+00:00",
-  "LastUpdate_Ratings": "2023-08-17T19:00:19.4434491+00:00",
-  "LastUpdate_Achievements": "2023-08-17T19:04:55.6410677+00:00"
+  "LastUpdate_Ratings": "2023-08-17T19:59:56.9542938+00:00",
+  "LastUpdate_Achievements": "2023-08-17T20:04:51.0811684+00:00"
 }
