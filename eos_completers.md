@@ -37,7 +37,7 @@
 | 35 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 7.81% |
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.53% |
 | 37 | [Smelter](games/s/smelter.md) | 7.50% |
-| 38 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.11% |
+| 38 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.07% |
 | 39 | [Scorn](games/s/scorn.md) | 6.94% |
 | 40 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.88% |
 | 41 | [Time Loader](games/t/time_loader.md) | 6.78% |
@@ -62,7 +62,7 @@
 | 60 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.89% |
 | 61 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 3.85% |
 | 62 | [ZZT!](games/z/zzt!.md) | 3.77% |
-| 63 | [Without Escape](games/w/without_escape.md) | 3.70% |
+| 63 | [Without Escape](games/w/without_escape.md) | 3.57% |
 | 64 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 65 | [Doodle God](games/d/doodle_god.md) | 3.46% |
 | 66 | [Bunny Park](games/b/bunny_park.md) | 3.39% |
