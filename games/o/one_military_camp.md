@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 51.00% | ~73 |
-| The 4 Pillars | 50.00% | ~72 |
+| First Step | 52.00% | ~74 |
+| The 4 Pillars | 51.00% | ~73 |
 | Capitalism | 20.00% | ~29 |
-| Indebted | 11.00% | ~16 |
+| Indebted | 12.00% | ~17 |
 | There's something in those trees | 10.00% | ~14 |
 | Great Producer | 10.00% | ~14 |
 | Desert Rat | 10.00% | ~14 |
-| Green Energy | 9.00% | ~13 |
+| Green Energy | 10.00% | ~14 |
 | Desert Power | 8.00% | ~11 |
 | Health Care | 7.00% | ~10 |
 | Good payer | 7.00% | ~10 |
@@ -22,9 +22,9 @@
 | Pathfinder | 6.00% | ~9 |
 | Food Tycoon | 6.00% | ~9 |
 | Fuel Tycoon | 6.00% | ~9 |
+| Supersoldier | 5.00% | ~7 |
 | Self-sufficient | 5.00% | ~7 |
 | Medicine Tycoon | 5.00% | ~7 |
-| Supersoldier | 4.00% | ~6 |
 | Outdoor Decorator | 4.00% | ~6 |
 | Property Bro | 4.00% | ~6 |
 | Overpopulation | 3.00% | ~4 |

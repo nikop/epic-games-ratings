@@ -1,12 +1,12 @@
 # Riders Republic
 [Store](https://store.epicgames.com/en-US/p/riders-republic)  
 [View Rawdata](../../db/r/riders_republic.json)  
-Rating: 4.75 (Ranked 135)  
+Rating: 4.75 (Ranked 136)  
 Number of Ratings: 4,120  (23.09.2022)  
 ## Awards
 Max (Extremely Fun): 565  (Ranked 186)  
-Sum: 5,585 (Ranked 125)  
-Diff (max vs sum): 61  
+Sum: 5,137 (Ranked 128)  
+Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 565 |

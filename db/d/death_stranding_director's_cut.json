@@ -2,7 +2,7 @@
   "ID": "0a9e3c5ab6684506bd624a849ca0cf39",
   "Name": "DEATH STRANDING DIRECTOR\u0027S CUT",
   "ProductSlug": "death-stranding-directors-cut",
-  "Ranking_Rating": 12,
+  "Ranking_Rating": 13,
   "Ranking_Popularity": 41,
   "Ranking_PopularitySum": 71,
   "Ranking_EOS_Progress": 32,
@@ -5630,18 +5630,24 @@
       "Rating": 4.89,
       "NumberOfAwards": 13543,
       "NumberOfAwardsMax": 7961
+    },
+    {
+      "Time": "2023-08-17T14:58:12.1402189+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 13559,
+      "NumberOfAwardsMax": 7970
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13543,
-  "NumberOfAwardsMax": 7961,
+  "NumberOfAwards": 13559,
+  "NumberOfAwardsMax": 7970,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 7961
+      "Count": 7970
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -5659,7 +5665,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 523
+      "Count": 525
     },
     {
       "Text": "This game is Extremely Fun",
@@ -5677,7 +5683,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 484
+      "Count": 486
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5713,12 +5719,12 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 552
+      "Count": 555
     }
   ],
-  "EOS_Progressed": 523263,
+  "EOS_Progressed": 523279,
   "EOS_Completed": 1924,
-  "EOS_NewPlayers": 1574,
+  "EOS_NewPlayers": 1566,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -18826,6 +18832,11 @@
       "Time": "2023-08-17T14:06:00.5038995+00:00",
       "NumProgressed": 523263,
       "NumCompleted": 1924
+    },
+    {
+      "Time": "2023-08-17T15:06:31.0636906+00:00",
+      "NumProgressed": 523279,
+      "NumCompleted": 1924
     }
   ],
   "TotalAchievements": 63,
@@ -18845,7 +18856,7 @@
       "Name": "Delivering Is What I Do",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 481402
+      "UsersEstimate": 481417
     },
     {
       "ID": "10",
@@ -18853,7 +18864,7 @@
       "Name": "The Particle of God",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 109885
+      "UsersEstimate": 109889
     },
     {
       "ID": "11",
@@ -18861,7 +18872,7 @@
       "Name": "I\u0027m Your Die-Hardman",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 109885
+      "UsersEstimate": 109889
     },
     {
       "ID": "12",
@@ -18869,7 +18880,7 @@
       "Name": "Bring Back My Baby",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 109885
+      "UsersEstimate": 109889
     },
     {
       "ID": "13",
@@ -18877,7 +18888,7 @@
       "Name": "She\u0027s waiting for you on the Beach.",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 104653
+      "UsersEstimate": 104656
     },
     {
       "ID": "14",
@@ -18885,7 +18896,7 @@
       "Name": "Thank You, Sam",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 104653
+      "UsersEstimate": 104656
     },
     {
       "ID": "15",
@@ -18893,7 +18904,7 @@
       "Name": "Thanks for Everything",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 99420
+      "UsersEstimate": 99423
     },
     {
       "ID": "16",
@@ -18901,7 +18912,7 @@
       "Name": "Everyday Delivery",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 272097
+      "UsersEstimate": 272105
     },
     {
       "ID": "17",
@@ -18909,7 +18920,7 @@
       "Name": "Deliveries Done",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 125583
+      "UsersEstimate": 125587
     },
     {
       "ID": "18",
@@ -18917,7 +18928,7 @@
       "Name": "Birth of a Legend",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 10465
+      "UsersEstimate": 10466
     },
     {
       "ID": "19",
@@ -18933,7 +18944,7 @@
       "Name": "Rebuilding America",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 413378
+      "UsersEstimate": 413390
     },
     {
       "ID": "20",
@@ -18941,7 +18952,7 @@
       "Name": "A Helping Hand",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 26163
+      "UsersEstimate": 26164
     },
     {
       "ID": "21",
@@ -18949,7 +18960,7 @@
       "Name": "The Automation Revolution",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 188375
+      "UsersEstimate": 188380
     },
     {
       "ID": "22",
@@ -18957,7 +18968,7 @@
       "Name": "Apprentice Builder",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 376749
+      "UsersEstimate": 376761
     },
     {
       "ID": "23",
@@ -18965,7 +18976,7 @@
       "Name": "Master Builder",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 4709
+      "UsersEstimate": 4710
     },
     {
       "ID": "24",
@@ -18973,7 +18984,7 @@
       "Name": "A New Day for the UCA",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 371517
+      "UsersEstimate": 371528
     },
     {
       "ID": "25",
@@ -18981,7 +18992,7 @@
       "Name": "In Sam We Trust",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 10465
+      "UsersEstimate": 10466
     },
     {
       "ID": "26",
@@ -18989,7 +19000,7 @@
       "Name": "Well Connected",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 319190
+      "UsersEstimate": 319200
     },
     {
       "ID": "27",
@@ -18997,7 +19008,7 @@
       "Name": "Best Beloved",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 10465
+      "UsersEstimate": 10466
     },
     {
       "ID": "28",
@@ -19005,7 +19016,7 @@
       "Name": "Like and Be Liked",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 402913
+      "UsersEstimate": 402925
     },
     {
       "ID": "29",
@@ -19013,7 +19024,7 @@
       "Name": "The People\u0027s Porter",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 293027
+      "UsersEstimate": 293036
     },
     {
       "ID": "3",
@@ -19021,7 +19032,7 @@
       "Name": "We Need You",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 230236
+      "UsersEstimate": 230243
     },
     {
       "ID": "30",
@@ -19029,7 +19040,7 @@
       "Name": "The World\u0027s Most Popular Porter",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 151746
+      "UsersEstimate": 151751
     },
     {
       "ID": "31",
@@ -19037,7 +19048,7 @@
       "Name": "Good Samaritan",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 470937
+      "UsersEstimate": 470951
     },
     {
       "ID": "32",
@@ -19045,7 +19056,7 @@
       "Name": "Giver of Gifts",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 198840
+      "UsersEstimate": 198846
     },
     {
       "ID": "33",
@@ -19053,7 +19064,7 @@
       "Name": "Chiral Crafter",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 308725
+      "UsersEstimate": 308735
     },
     {
       "ID": "34",
@@ -19061,7 +19072,7 @@
       "Name": "A Thirst for Knowledge",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 251166
+      "UsersEstimate": 251174
     },
     {
       "ID": "35",
@@ -19077,7 +19088,7 @@
       "Name": "The Custom Kid",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 313958
+      "UsersEstimate": 313967
     },
     {
       "ID": "37",
@@ -19085,7 +19096,7 @@
       "Name": "Soak and Sigh",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 130816
+      "UsersEstimate": 130820
     },
     {
       "ID": "38",
@@ -19093,7 +19104,7 @@
       "Name": "The Post Guides the Present",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 83722
+      "UsersEstimate": 83725
     },
     {
       "ID": "39",
@@ -19101,7 +19112,7 @@
       "Name": "The Past Guides the Present",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 26163
+      "UsersEstimate": 26164
     },
     {
       "ID": "4",
@@ -19109,7 +19120,7 @@
       "Name": "I Won\u0027t Break",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 167444
+      "UsersEstimate": 167449
     },
     {
       "ID": "40",
@@ -19117,7 +19128,7 @@
       "Name": "Pathfinder",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 183142
+      "UsersEstimate": 183148
     },
     {
       "ID": "41",
@@ -19125,7 +19136,7 @@
       "Name": "Childminder",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 68024
+      "UsersEstimate": 68026
     },
     {
       "ID": "42",
@@ -19133,7 +19144,7 @@
       "Name": "A Baby Blessing",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 334888
+      "UsersEstimate": 334899
     },
     {
       "ID": "43",
@@ -19141,7 +19152,7 @@
       "Name": "Prominent Porter",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 334888
+      "UsersEstimate": 334899
     },
     {
       "ID": "44",
@@ -19149,7 +19160,7 @@
       "Name": "Great Deliverer",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 10465
+      "UsersEstimate": 10466
     },
     {
       "ID": "45",
@@ -19157,7 +19168,7 @@
       "Name": "Catcher Crusher",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 235468
+      "UsersEstimate": 235476
     },
     {
       "ID": "46",
@@ -19165,7 +19176,7 @@
       "Name": "Snooze \u0027n\u0027 Soothe",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 251166
+      "UsersEstimate": 251174
     },
     {
       "ID": "47",
@@ -19173,7 +19184,7 @@
       "Name": "Boots Are a Porter\u0027s Best Friend",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 303493
+      "UsersEstimate": 303502
     },
     {
       "ID": "48",
@@ -19181,7 +19192,7 @@
       "Name": "Hooked on Delivering!?",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 78489
+      "UsersEstimate": 78492
     },
     {
       "ID": "49",
@@ -19189,7 +19200,7 @@
       "Name": "Pumped Porter",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 146514
+      "UsersEstimate": 146518
     },
     {
       "ID": "5",
@@ -19197,7 +19208,7 @@
       "Name": "BB...",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 167444
+      "UsersEstimate": 167449
     },
     {
       "ID": "50",
@@ -19205,7 +19216,7 @@
       "Name": "Well-Traveled",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 188375
+      "UsersEstimate": 188380
     },
     {
       "ID": "51",
@@ -19213,7 +19224,7 @@
       "Name": "God Particle Go-Getter",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 47094
+      "UsersEstimate": 47095
     },
     {
       "ID": "52",
@@ -19221,7 +19232,7 @@
       "Name": "Rest In Pieces",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 83722
+      "UsersEstimate": 83725
     },
     {
       "ID": "53",
@@ -19237,7 +19248,7 @@
       "Name": "Sleep Tight, Little BB",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 225003
+      "UsersEstimate": 225010
     },
     {
       "ID": "55",
@@ -19245,7 +19256,7 @@
       "Name": "A Shout in the Dark",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 261632
+      "UsersEstimate": 261640
     },
     {
       "ID": "56",
@@ -19253,7 +19264,7 @@
       "Name": "Public Service Porter",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 62792
+      "UsersEstimate": 62793
     },
     {
       "ID": "57",
@@ -19269,7 +19280,7 @@
       "Name": "I Couldn\u0027t Hold it In!",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 293027
+      "UsersEstimate": 293036
     },
     {
       "ID": "59",
@@ -19277,7 +19288,7 @@
       "Name": "All Roads Lead to the UCA",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 204073
+      "UsersEstimate": 204079
     },
     {
       "ID": "6",
@@ -19285,7 +19296,7 @@
       "Name": "We\u0027re Whole Again",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 146514
+      "UsersEstimate": 146518
     },
     {
       "ID": "60",
@@ -19293,7 +19304,7 @@
       "Name": "Soothing Sounds",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 240701
+      "UsersEstimate": 240708
     },
     {
       "ID": "61",
@@ -19301,7 +19312,7 @@
       "Name": "Building Bridges",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 334888
+      "UsersEstimate": 334899
     },
     {
       "ID": "62",
@@ -19317,7 +19328,7 @@
       "Name": "BBs: A Bridge Between This World and the One Beyond",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 130816
+      "UsersEstimate": 130820
     },
     {
       "ID": "8",
@@ -19325,7 +19336,7 @@
       "Name": "\u0022BB\u0022",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 130816
+      "UsersEstimate": 130820
     },
     {
       "ID": "9",
@@ -19333,22 +19344,22 @@
       "Name": "Sixty Deaths and Sixty Births in a Day",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 115118
+      "UsersEstimate": 115121
     }
   ],
   "AchievementSets": [
     {
       "ID": "aho6p5h",
       "IsBase": true,
-      "Progressed": 523263,
+      "Progressed": 523279,
       "Completed": 1924
     }
   ],
   "FirstSeen": "2022-07-22T20:27:07.1002044+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.0381621+00:00",
-  "LastChanged": "2023-08-17T09:58:01.7741816+00:00",
-  "LastChanged_Achievements": "2023-08-17T14:06:00.5038986+00:00",
+  "LastChanged": "2023-08-17T14:58:12.1402186+00:00",
+  "LastChanged_Achievements": "2023-08-17T15:06:31.0636898+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:14.5656174+00:00",
-  "LastUpdate_Ratings": "2023-08-17T13:58:02.4044609+00:00",
-  "LastUpdate_Achievements": "2023-08-17T14:06:00.5041504+00:00"
+  "LastUpdate_Ratings": "2023-08-17T14:58:12.1402196+00:00",
+  "LastUpdate_Achievements": "2023-08-17T15:06:31.0638601+00:00"
 }

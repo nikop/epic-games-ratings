@@ -2,12 +2,12 @@
   "ID": "6b753bd045604be89d9779e741c604b1",
   "Name": "Void Bastards",
   "ProductSlug": "void-bastards",
-  "Ranking_Rating": 390,
+  "Ranking_Rating": 391,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 442,
   "Ranking_EOS_Progress": 546,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewPlayers": 360,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2021-08-19T15:00:00+00:00",
@@ -683,6 +683,6 @@
   "FirstSeen": "2022-07-22T20:25:35.6625013+00:00",
   "LastChanged": "2023-08-13T15:59:48.8436159+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:40.1831997+00:00",
-  "LastUpdate_Ratings": "2023-08-17T14:00:07.3787391+00:00",
-  "LastUpdate_Achievements": "2023-08-17T14:04:43.4908491+00:00"
+  "LastUpdate_Ratings": "2023-08-17T15:00:47.7346037+00:00",
+  "LastUpdate_Achievements": "2023-08-17T15:04:57.0686455+00:00"
 }

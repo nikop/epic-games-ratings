@@ -644,9 +644,9 @@
       "ID": "Batteries",
       "SetID": "7jbi7el",
       "Name": "Batteries",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 70,
-      "UsersEstimate": 75
+      "UsersEstimate": 77
     },
     {
       "ID": "Compiling",
@@ -724,9 +724,9 @@
       "ID": "Screwdriver",
       "SetID": "7jbi7el",
       "Name": "Screwdriver",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 70,
-      "UsersEstimate": 101
+      "UsersEstimate": 103
     },
     {
       "ID": "SecretRoom",
@@ -755,8 +755,8 @@
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-08-17T14:05:23.5855034+00:00",
+  "LastChanged_Achievements": "2023-08-17T15:05:46.5630595+00:00",
   "LastUpdate_AppInfo": "2023-08-15T17:57:20.4799472+00:00",
-  "LastUpdate_Ratings": "2023-08-17T13:58:07.303353+00:00",
-  "LastUpdate_Achievements": "2023-08-17T14:05:23.5855272+00:00"
+  "LastUpdate_Ratings": "2023-08-17T14:58:18.2802618+00:00",
+  "LastUpdate_Achievements": "2023-08-17T15:05:46.5630804+00:00"
 }

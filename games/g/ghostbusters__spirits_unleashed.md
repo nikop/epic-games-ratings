@@ -1,35 +1,35 @@
 # Ghostbusters: Spirits Unleashed
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.49 (Ranked 576)  
+Rating: 4.49 (Ranked 577)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~21,635 |
+| Stylish | 86.00% | ~21,636 |
 | Advancement | 73.00% | ~18,365 |
-| Meticulously Efficient | 63.00% | ~15,849 |
+| Meticulously Efficient | 63.00% | ~15,850 |
 | Discovery | 61.00% | ~15,346 |
 | Fully Upgraded | 54.00% | ~13,585 |
 | Swift Rift Removers | 54.00% | ~13,585 |
-| I collect Spores, Molds, and Fungi | 51.00% | ~12,830 |
-| Cultured | 51.00% | ~12,830 |
-| Vaporous Expansion | 48.00% | ~12,075 |
+| I collect Spores, Molds, and Fungi | 51.00% | ~12,831 |
+| Cultured | 51.00% | ~12,831 |
+| Vaporous Expansion | 48.00% | ~12,076 |
 | Teamwork | 43.00% | ~10,818 |
 | There you are! | 42.00% | ~10,566 |
 | Clutch Capture | 40.00% | ~10,063 |
 | Back Off | 35.00% | ~8,805 |
-| Daily Dose | 34.00% | ~8,553 |
-| Solo Capture | 32.00% | ~8,050 |
+| Daily Dose | 34.00% | ~8,554 |
+| Solo Capture | 32.00% | ~8,051 |
 | Welcome to the Crew | 31.00% | ~7,799 |
 | Ghostbuster In Training | 30.00% | ~7,547 |
 | Icing on the Cake | 30.00% | ~7,547 |
-| Side Hustle | 27.00% | ~6,792 |
+| Side Hustle | 27.00% | ~6,793 |
 | We have the best insurance | 26.00% | ~6,541 |
 | Legions | 26.00% | ~6,541 |
 | Right back at ya | 26.00% | ~6,541 |
 | Summoner | 26.00% | ~6,541 |
-| Pesky Jerks | 25.00% | ~6,289 |
-| Stunner | 25.00% | ~6,289 |
+| Pesky Jerks | 25.00% | ~6,290 |
+| Stunner | 25.00% | ~6,290 |
 | Animated | 24.00% | ~6,038 |
 | Skilled | 24.00% | ~6,038 |
 | Collector | 23.00% | ~5,786 |
@@ -41,7 +41,7 @@ Rating: 4.49 (Ranked 576)
 | Diabolical | 16.00% | ~4,025 |
 | Seasoned | 16.00% | ~4,025 |
 | Escape Artist | 15.00% | ~3,774 |
-| Whoopsie | 13.00% | ~3,270 |
+| Whoopsie | 13.00% | ~3,271 |
 | Liability | 10.00% | ~2,516 |
 | Rivalry | 10.00% | ~2,516 |
 | Fragile Panes | 9.00% | ~2,264 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 576)
 | I don't need these | 1.00% | ~252 |
 | Mycophile | 1.00% | ~252 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,157 (Ranked 101)  
+Progressed: 25,158 (Ranked 101)  
 Completed: 52 (0.21%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,7 +176,7 @@ Completed: 52 (0.21%) (Ranked 184)
 | 2023-08-14 | 25,087 | 51 |
 | 2023-08-15 | 25,115 | 51 |
 | 2023-08-16 | 25,140 | 51 |
-| 2023-08-17 | 25,157 | 52 |
+| 2023-08-17 | 25,158 | 52 |
 ## Awards
 Max (Great for Quick Sessions): 248  (Ranked 252)  
 Sum: 2,241 (Ranked 188)  

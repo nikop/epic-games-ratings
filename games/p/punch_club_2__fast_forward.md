@@ -51,7 +51,7 @@
 | Mom got better | 37.00% | ~94 |
 | GYM professional | 37.00% | ~94 |
 | The die is cast | 37.00% | ~94 |
-| Seashell hunter | 36.00% | ~91 |
+| Seashell hunter | 37.00% | ~94 |
 | Gang wrangler | 35.00% | ~89 |
 | Problems of cyborgs | 35.00% | ~89 |
 | Absolute Champion! | 33.00% | ~84 |

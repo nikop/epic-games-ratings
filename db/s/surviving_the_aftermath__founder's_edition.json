@@ -2,7 +2,7 @@
   "ID": "95b4d5a753d042678f775d5e1eb5ab25",
   "Name": "Surviving the Aftermath",
   "ProductSlug": "surviving-the-aftermath",
-  "Ranking_Rating": 590,
+  "Ranking_Rating": 592,
   "Ranking_Popularity": 336,
   "Ranking_PopularitySum": 278,
   "Ranking_EOS_Progress": 127,
@@ -1173,9 +1173,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 8333,
+  "EOS_Progressed": 8334,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10723,6 +10723,11 @@
       "Time": "2023-08-17T08:06:34.7376575+00:00",
       "NumProgressed": 8333,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-17T15:07:16.9788701+00:00",
+      "NumProgressed": 8334,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -10766,7 +10771,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 4416
+      "UsersEstimate": 4417
     },
     {
       "ID": "14",
@@ -10774,7 +10779,7 @@
       "Name": "Famous Explorer",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2833
+      "UsersEstimate": 2834
     },
     {
       "ID": "15",
@@ -10782,7 +10787,7 @@
       "Name": "Legendary Explorer",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2333
+      "UsersEstimate": 2334
     },
     {
       "ID": "16",
@@ -10814,7 +10819,7 @@
       "Name": "Healer",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 4333
+      "UsersEstimate": 4334
     },
     {
       "ID": "2",
@@ -10838,7 +10843,7 @@
       "Name": "The Great Healer",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 2583
+      "UsersEstimate": 2584
     },
     {
       "ID": "22",
@@ -10854,7 +10859,7 @@
       "Name": "New Opportunities",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2833
+      "UsersEstimate": 2834
     },
     {
       "ID": "24",
@@ -10870,7 +10875,7 @@
       "Name": "Cleaner",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2333
+      "UsersEstimate": 2334
     },
     {
       "ID": "26",
@@ -10998,7 +11003,7 @@
       "Name": "Catastrofan",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2333
+      "UsersEstimate": 2334
     },
     {
       "ID": "40",
@@ -11126,7 +11131,7 @@
       "Name": "Top Notch",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2083
+      "UsersEstimate": 2084
     },
     {
       "ID": "55",
@@ -11182,7 +11187,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 2583
+      "UsersEstimate": 2584
     },
     {
       "ID": "8",
@@ -11196,24 +11201,24 @@
       "ID": "9",
       "SetID": "8idi9ml",
       "Name": "True Survivor",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 167
+      "UsersEstimate": 83
     }
   ],
   "AchievementSets": [
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 8333,
+      "Progressed": 8334,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-08-14T22:02:11.7403244+00:00",
-  "LastChanged_Achievements": "2023-08-17T14:06:38.7978414+00:00",
+  "LastChanged_Achievements": "2023-08-17T15:07:16.9788693+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:55.9792163+00:00",
-  "LastUpdate_Ratings": "2023-08-17T13:57:25.0029333+00:00",
-  "LastUpdate_Achievements": "2023-08-17T14:06:38.797952+00:00"
+  "LastUpdate_Ratings": "2023-08-17T14:57:23.9861154+00:00",
+  "LastUpdate_Achievements": "2023-08-17T15:07:16.9789854+00:00"
 }

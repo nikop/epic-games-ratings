@@ -2,7 +2,7 @@
   "ID": "d469e82d91fe4516a00d6566c3d2f8f7",
   "Name": "Going Medieval",
   "ProductSlug": "going-medieval",
-  "Ranking_Rating": 390,
+  "Ranking_Rating": 391,
   "Ranking_Popularity": 316,
   "Ranking_PopularitySum": 240,
   "Ranking_EOS_Progress": 137,
@@ -1122,10 +1122,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 972,
       "NumberOfAwardsMax": 121
+    },
+    {
+      "Time": "2023-08-17T15:01:41.6967358+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 973,
+      "NumberOfAwardsMax": 121
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 972,
+  "NumberOfAwards": 973,
   "NumberOfAwardsMax": 121,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -1181,7 +1187,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 77
+      "Count": 78
     },
     {
       "Text": "This game is Educational",
@@ -1202,9 +1208,9 @@
       "Count": 67
     }
   ],
-  "EOS_Progressed": 5332,
+  "EOS_Progressed": 5333,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -7632,6 +7638,11 @@
       "Time": "2023-08-17T14:04:54.6681525+00:00",
       "NumProgressed": 5332,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-08-17T15:05:11.6590578+00:00",
+      "NumProgressed": 5333,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 31,
@@ -7659,7 +7670,7 @@
       "Name": "Disassembled",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1066
+      "UsersEstimate": 1067
     },
     {
       "ID": "DISMANTLE_ITEMS_50",
@@ -7675,7 +7686,7 @@
       "Name": "Green Thumb",
       "Percentage": 66,
       "XP": 50,
-      "UsersEstimate": 3519
+      "UsersEstimate": 3520
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -7699,7 +7710,7 @@
       "Name": "A Party Now",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 1066
+      "UsersEstimate": 1067
     },
     {
       "ID": "HUNT_DEER_20",
@@ -7715,7 +7726,7 @@
       "Name": "Oh Deer!",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1066
+      "UsersEstimate": 1067
     },
     {
       "ID": "HUNT_RABBIT_20",
@@ -7763,7 +7774,7 @@
       "Name": "Home Cooked Meal",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 3039
+      "UsersEstimate": 3040
     },
     {
       "ID": "STORE_NUTRITION_10000",
@@ -7779,7 +7790,7 @@
       "Name": "Fit For A King",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 2026
+      "UsersEstimate": 2027
     },
     {
       "ID": "STORE_NUTRITION_5000",
@@ -7795,7 +7806,7 @@
       "Name": "Winter Is Coming",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1387
     },
     {
       "ID": "SURVIVE_FIRST_DAY",
@@ -7819,7 +7830,7 @@
       "Name": "Heating Up",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 1546
+      "UsersEstimate": 1547
     },
     {
       "ID": "SURVIVE_FIRST_WINTER",
@@ -7827,7 +7838,7 @@
       "Name": "Winter Is Here",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1226
+      "UsersEstimate": 1227
     },
     {
       "ID": "SURVIVE_FIRST_YEAR",
@@ -7835,7 +7846,7 @@
       "Name": "All Year Round",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 1066
+      "UsersEstimate": 1067
     },
     {
       "ID": "SURVIVE_SEVEN_DAY",
@@ -7859,7 +7870,7 @@
       "Name": "Adept Researcher",
       "Percentage": 44,
       "XP": 75,
-      "UsersEstimate": 2346
+      "UsersEstimate": 2347
     },
     {
       "ID": "UNLOCK_RESEARCH_25",
@@ -7883,22 +7894,22 @@
       "Name": "Studious Researcher",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 2719
+      "UsersEstimate": 2720
     }
   ],
   "AchievementSets": [
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 5332,
+      "Progressed": 5333,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
-  "LastChanged": "2023-08-16T08:01:51.9709011+00:00",
-  "LastChanged_Achievements": "2023-08-17T14:04:54.6681516+00:00",
+  "LastChanged": "2023-08-17T15:01:41.6967356+00:00",
+  "LastChanged_Achievements": "2023-08-17T15:05:11.659057+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:55.0917319+00:00",
-  "LastUpdate_Ratings": "2023-08-17T14:00:52.8762852+00:00",
-  "LastUpdate_Achievements": "2023-08-17T14:04:54.6682689+00:00"
+  "LastUpdate_Ratings": "2023-08-17T15:01:41.6967363+00:00",
+  "LastUpdate_Achievements": "2023-08-17T15:05:11.659138+00:00"
 }

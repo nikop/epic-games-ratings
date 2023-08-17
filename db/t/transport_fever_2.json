@@ -2,7 +2,7 @@
   "ID": "1760fff3738043f2870594d94487fa4b",
   "Name": "Transport Fever 2",
   "ProductSlug": "transport-fever-2",
-  "Ranking_Rating": 214,
+  "Ranking_Rating": 215,
   "Ranking_Popularity": 426,
   "Ranking_PopularitySum": 345,
   "Ranking_EOS_Progress": 177,
@@ -478,10 +478,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 278,
       "NumberOfAwardsMax": 40
+    },
+    {
+      "Time": "2023-08-17T14:57:18.7494825+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 279,
+      "NumberOfAwardsMax": 40
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 278,
+  "NumberOfAwards": 279,
   "NumberOfAwardsMax": 40,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -507,7 +513,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 34
+      "Count": 35
     },
     {
       "Text": "This game is Relaxing",
@@ -3675,9 +3681,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
-  "LastChanged": "2023-08-16T09:57:13.2522541+00:00",
-  "LastChanged_Achievements": "2023-08-17T14:05:51.4402049+00:00",
+  "LastChanged": "2023-08-17T14:57:18.7494823+00:00",
+  "LastChanged_Achievements": "2023-08-17T15:06:20.1995649+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:41.7725812+00:00",
-  "LastUpdate_Ratings": "2023-08-17T13:57:19.9729804+00:00",
-  "LastUpdate_Achievements": "2023-08-17T14:05:51.440365+00:00"
+  "LastUpdate_Ratings": "2023-08-17T14:57:18.749483+00:00",
+  "LastUpdate_Achievements": "2023-08-17T15:06:20.1996568+00:00"
 }

@@ -1,7 +1,7 @@
 # Going Medieval
 [Store](https://store.epicgames.com/en-US/p/going-medieval)  
 [View Rawdata](../../db/g/going_medieval.json)  
-Rating: 4.60 (Ranked 390)  
+Rating: 4.60 (Ranked 391)  
 Number of Ratings: 706  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -10,27 +10,27 @@ Number of Ratings: 706  (23.09.2022)
 | Having A Field Day | 74.00% | ~3,946 |
 | Reap What You Sow | 71.00% | ~3,786 |
 | The First Day | 68.00% | ~3,626 |
-| Green Thumb | 66.00% | ~3,519 |
+| Green Thumb | 66.00% | ~3,520 |
 | Novice Researcher | 65.00% | ~3,466 |
 | Putting Food on the Table | 59.00% | ~3,146 |
-| Home Cooked Meal | 57.00% | ~3,039 |
+| Home Cooked Meal | 57.00% | ~3,040 |
 | Onward | 55.00% | ~2,933 |
 | The First Week | 53.00% | ~2,826 |
-| Studious Researcher | 51.00% | ~2,719 |
+| Studious Researcher | 51.00% | ~2,720 |
 | Beam Me Up | 50.00% | ~2,666 |
 | Feast or Famine | 49.00% | ~2,613 |
-| Adept Researcher | 44.00% | ~2,346 |
+| Adept Researcher | 44.00% | ~2,347 |
 | Retribution | 40.00% | ~2,133 |
 | ...And Don’t Come Back! | 40.00% | ~2,133 |
-| Fit For A King | 38.00% | ~2,026 |
+| Fit For A King | 38.00% | ~2,027 |
 | Luminary Researcher | 33.00% | ~1,760 |
-| Heating Up | 29.00% | ~1,546 |
-| Winter Is Coming | 26.00% | ~1,386 |
-| Winter Is Here | 23.00% | ~1,226 |
-| Disassembled | 20.00% | ~1,066 |
-| A Party Now | 20.00% | ~1,066 |
-| Oh Deer! | 20.00% | ~1,066 |
-| All Year Round | 20.00% | ~1,066 |
+| Heating Up | 29.00% | ~1,547 |
+| Winter Is Coming | 26.00% | ~1,387 |
+| Winter Is Here | 23.00% | ~1,227 |
+| Disassembled | 20.00% | ~1,067 |
+| A Party Now | 20.00% | ~1,067 |
+| Oh Deer! | 20.00% | ~1,067 |
+| All Year Round | 20.00% | ~1,067 |
 | Nothing Wasted | 12.00% | ~640 |
 | Don't Cry Wolf | 12.00% | ~640 |
 | Deerly Departed | 8.00% | ~427 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~107 |
 | Wabbit Season | 0.50% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,332 (Ranked 137)  
+Progressed: 5,333 (Ranked 137)  
 Completed: 10 (0.19%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,10 +136,10 @@ Completed: 10 (0.19%) (Ranked 187)
 | 2023-08-14 | 5,286 | 10 |
 | 2023-08-15 | 5,308 | 10 |
 | 2023-08-16 | 5,323 | 10 |
-| 2023-08-17 | 5,332 | 10 |
+| 2023-08-17 | 5,333 | 10 |
 ## Awards
 Max (Relaxing): 121  (Ranked 316)  
-Sum: 972 (Ranked 240)  
+Sum: 973 (Ranked 240)  
 Diff (max vs sum): 76  
 | Award | Count |
 | ----- | ----- |
@@ -151,7 +151,7 @@ Diff (max vs sum): 76
 | This game is Highly Recommended | 99 |
 | This game has Amazing Characters | 91 |
 | This game has Amazing Storytelling | 84 |
-| This game has Unique Visuals | 77 |
+| This game has Unique Visuals | 78 |
 | This game has a Creative Community | 67 |
 | This game has Obsessive Gameplay | 56 |
 | This game is Educational | 21 |
@@ -276,3 +276,4 @@ Diff (max vs sum): 76
 | 2023-08-09 | 4.60 | - | 121 | 970 |
 | 2023-08-15 | 4.60 | - | 121 | 971 |
 | 2023-08-16 | 4.60 | - | 121 | 972 |
+| 2023-08-17 | 4.60 | - | 121 | 973 |

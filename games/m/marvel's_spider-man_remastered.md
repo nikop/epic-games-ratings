@@ -1,18 +1,18 @@
 # Marvel's Spider-Man Remastered
 [Store](https://store.epicgames.com/en-US/p/marvels-spider-man-remastered)  
 [View Rawdata](../../db/m/marvel's_spider-man_remastered.json)  
-Rating: 4.86 (Ranked 29)  
+Rating: 4.86 (Ranked 30)  
 Number of Ratings: 14,015  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 12,334  (Ranked 31)  
-Sum: 20,766 (Ranked 55)  
+Sum: 20,768 (Ranked 55)  
 Diff (max vs sum): -24  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 12,334 |
 | This game has Quickly Understood Controls | 999 |
 | This game is Great for Beginners | 986 |
-| This game is Extremely Fun | 983 |
+| This game is Extremely Fun | 985 |
 | This game is Highly Recommended | 976 |
 | This game has Amazing Characters | 961 |
 | This game is Relaxing | 956 |
@@ -212,4 +212,4 @@ Diff (max vs sum): -24
 | 2023-08-14 | 4.86 | - | 12,317 | 20,743 |
 | 2023-08-15 | 4.86 | - | 12,324 | 20,752 |
 | 2023-08-16 | 4.86 | - | 12,330 | 20,760 |
-| 2023-08-17 | 4.86 | - | 12,334 | 20,766 |
+| 2023-08-17 | 4.86 | - | 12,334 | 20,768 |

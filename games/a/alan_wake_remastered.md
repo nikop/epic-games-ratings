@@ -1,14 +1,14 @@
 # Alan Wake Remastered
 [Store](https://store.epicgames.com/en-US/p/alan-wake-remastered)  
 [View Rawdata](../../db/a/alan_wake_remastered.json)  
-Rating: 4.55 (Ranked 485)  
+Rating: 4.55 (Ranked 486)  
 Number of Ratings: 524  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 37.00% | ~22,569 |
-| Let There Be Light | 30.00% | ~18,299 |
-| Float Like a Butterfly | 29.00% | ~17,689 |
+| Follow the Light | 37.00% | ~22,571 |
+| Let There Be Light | 30.00% | ~18,301 |
+| Float Like a Butterfly | 29.00% | ~17,691 |
 | Nordic Walking | 23.00% | ~14,030 |
 | Bright Falls' Finest | 23.00% | ~14,030 |
 | Under a Thin Layer of Skin | 20.00% | ~12,200 |
@@ -35,14 +35,14 @@ Number of Ratings: 524  (23.09.2022)
 | Energized! | 10.00% | ~6,100 |
 | Right of Way | 9.00% | ~5,490 |
 | What Light Through Yonder Window | 8.00% | ~4,880 |
-| A Friend in Need | 8.00% | ~1,957 |
+| A Friend in Need | 8.00% | ~1,958 |
 | Tornado Wrangler | 7.00% | ~4,270 |
 | Departure | 7.00% | ~4,270 |
 | Hardboiled Writer | 6.00% | ~3,660 |
 | A Friend Indeed | 6.00% | ~1,468 |
 | Children of the Elder God | 5.00% | ~3,050 |
 | Drink 'Em Both Up | 5.00% | ~3,050 |
-| Ding! | 5.00% | ~1,223 |
+| Ding! | 5.00% | ~1,224 |
 | Boob Tube | 4.00% | ~2,440 |
 | If It Flies, It Burns | 4.00% | ~2,440 |
 | KBF-FM | 4.00% | ~2,440 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~61 |
 | No Punctuation | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,998 (Ranked 85)  
+Progressed: 61,002 (Ranked 85)  
 Completed: 64 (0.10%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 64 (0.10%) (Ranked 205)
 | 2023-08-14 | 60,863 | 64 |
 | 2023-08-15 | 60,907 | 64 |
 | 2023-08-16 | 60,965 | 64 |
-| 2023-08-17 | 60,998 | 64 |
+| 2023-08-17 | 61,002 | 64 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

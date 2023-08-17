@@ -1,7 +1,7 @@
 # Disco Elysium - The Final Cut
 [Store](https://store.epicgames.com/en-US/p/disco-elysium)  
 [View Rawdata](../../db/d/disco_elysium_-_the_final_cut.json)  
-Rating: 4.87 (Ranked 25)  
+Rating: 4.87 (Ranked 26)  
 Number of Ratings: 1,611  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~126 |
 | What body? | 0.10% | ~126 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,370 (Ranked 68)  
+Progressed: 126,371 (Ranked 68)  
 Completed: 27 (0.02%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,14 +166,14 @@ Completed: 27 (0.02%) (Ranked 238)
 | 2023-08-14 | 126,238 | 27 |
 | 2023-08-15 | 126,286 | 27 |
 | 2023-08-16 | 126,338 | 27 |
-| 2023-08-17 | 126,370 | 27 |
+| 2023-08-17 | 126,371 | 27 |
 ## Awards
-Max (Character Customization): 718  (Ranked 165)  
-Sum: 1,080 (Ranked 235)  
+Max (Character Customization): 719  (Ranked 165)  
+Sum: 1,081 (Ranked 235)  
 Diff (max vs sum): -70  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 718 |
+| This game has Inclusive Character Customization | 719 |
 | This game has Amazing Storytelling | 47 |
 | This game is Educational | 44 |
 | This game is Highly Recommended | 42 |
@@ -309,3 +309,4 @@ Diff (max vs sum): -70
 | 2023-08-04 | 4.87 | - | 715 | 1,077 |
 | 2023-08-14 | 4.87 | - | 716 | 1,078 |
 | 2023-08-15 | 4.87 | - | 718 | 1,080 |
+| 2023-08-17 | 4.87 | - | 719 | 1,081 |

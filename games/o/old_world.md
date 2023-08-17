@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 299)  
+Rating: 4.65 (Ranked 300)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -13,6 +13,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able | 2.00% | ~269 |
 | Architect | 2.00% | ~269 |
 | Enlightened | 2.00% | ~269 |
+| Glorious | 2.00% | ~269 |
 | Good | 2.00% | ~269 |
 | Intrepid | 2.00% | ~269 |
 | Just | 2.00% | ~269 |
@@ -34,7 +35,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ambitious | 1.00% | ~134 |
 | Brilliant | 1.00% | ~134 |
 | Fountainhead | 1.00% | ~134 |
-| Glorious | 1.00% | ~134 |
 | Great | 1.00% | ~134 |
 | Magnificent | 1.00% | ~134 |
 | Warrior | 1.00% | ~134 |
@@ -157,6 +157,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Run, Pheidippides, Run! | 0.20% | ~27 |
 | Nenikekamen | 0.20% | ~27 |
 | Learn to Play 5 | 0.20% | ~27 |
+| Macedonian Wars | 0.20% | ~27 |
 | Assyria | 0.20% | ~27 |
 | Hatti | 0.20% | ~27 |
 | Pantheon of Gods | 0.20% | ~27 |
@@ -246,7 +247,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn By Playing 2 - Just | 0.10% | ~13 |
 | Learn By Playing 3 - Good | 0.10% | ~13 |
 | Learn By Playing 4 - Strong | 0.10% | ~13 |
-| Macedonian Wars | 0.10% | ~13 |
 | Medo-Babylonian Conquest | 0.10% | ~13 |
 | Pyramids in Menefer | 0.10% | ~13 |
 | Merchants of the Levant | 0.10% | ~13 |

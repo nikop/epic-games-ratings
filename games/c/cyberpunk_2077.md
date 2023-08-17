@@ -1,48 +1,48 @@
 # Cyberpunk 2077
 [Store](https://store.epicgames.com/en-US/p/cyberpunk-2077)  
 [View Rawdata](../../db/c/cyberpunk_2077.json)  
-Rating: 4.62 (Ranked 344)  
+Rating: 4.62 (Ranked 345)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 68.00% | ~592,468 |
-| Right Back At Ya | 39.00% | ~339,798 |
-| The Lovers | 35.00% | ~304,947 |
-| Stanislavski's Method | 29.00% | ~252,670 |
-| The Wheel of Fortune | 27.00% | ~235,245 |
-| The Hermit | 25.00% | ~217,819 |
-| Christmas Tree Attack | 23.00% | ~200,394 |
-| True Soldier | 23.00% | ~200,394 |
-| The High Priestess | 22.00% | ~191,681 |
-| Legend of The Afterlife | 22.00% | ~191,681 |
-| Life of the Road | 21.00% | ~182,968 |
-| Full Body Conversion | 18.00% | ~156,830 |
-| The World | 18.00% | ~156,830 |
-| Bushido and Chill | 16.00% | ~139,404 |
-| Gun Fu | 15.00% | ~130,692 |
-| True Warrior | 15.00% | ~130,692 |
-| To Protect and Serve | 14.00% | ~121,979 |
-| I Am The Law | 14.00% | ~121,979 |
-| Judy vs Night City | 14.00% | ~121,979 |
-| Master Crafter | 13.00% | ~113,266 |
-| Two Heads, One Bullet | 12.00% | ~104,553 |
+| The Fool | 68.00% | ~592,473 |
+| Right Back At Ya | 39.00% | ~339,801 |
+| The Lovers | 35.00% | ~304,949 |
+| Stanislavski's Method | 29.00% | ~252,672 |
+| The Wheel of Fortune | 27.00% | ~235,247 |
+| The Hermit | 25.00% | ~217,821 |
+| Christmas Tree Attack | 23.00% | ~200,395 |
+| True Soldier | 23.00% | ~200,395 |
+| The High Priestess | 22.00% | ~191,682 |
+| Legend of The Afterlife | 22.00% | ~191,682 |
+| Life of the Road | 21.00% | ~182,970 |
+| Full Body Conversion | 18.00% | ~156,831 |
+| The World | 18.00% | ~156,831 |
+| Bushido and Chill | 16.00% | ~139,405 |
+| Gun Fu | 15.00% | ~130,693 |
+| True Warrior | 15.00% | ~130,693 |
+| To Protect and Serve | 14.00% | ~121,980 |
+| I Am The Law | 14.00% | ~121,980 |
+| Judy vs Night City | 14.00% | ~121,980 |
+| Master Crafter | 13.00% | ~113,267 |
+| Two Heads, One Bullet | 12.00% | ~104,554 |
 | The Quick and the Dead | 10.00% | ~87,128 |
-| The Wandering Fool | 9.00% | ~78,415 |
-| Ten out of Ten | 9.00% | ~78,415 |
-| Breathtaking | 8.00% | ~69,702 |
-| The Star | 7.00% | ~60,989 |
-| The Sun | 7.00% | ~60,989 |
+| The Wandering Fool | 9.00% | ~78,416 |
+| Ten out of Ten | 9.00% | ~78,416 |
+| Breathtaking | 8.00% | ~69,703 |
+| The Star | 7.00% | ~60,990 |
+| The Sun | 7.00% | ~60,990 |
 | To Bad Decisions! | 6.00% | ~52,277 |
 | Must Be Rats | 4.00% | ~34,851 |
 | Temperance | 4.00% | ~34,851 |
-| City Lights | 3.00% | ~26,138 |
-| Mean Streets | 3.00% | ~26,138 |
-| Little Tokyo | 3.00% | ~26,138 |
-| Greetings from Pacifica! | 3.00% | ~26,138 |
-| The Jungle | 3.00% | ~26,138 |
-| V for Vendetta | 3.00% | ~26,138 |
-| It's Elementary | 3.00% | ~26,138 |
+| City Lights | 3.00% | ~26,139 |
+| Mean Streets | 3.00% | ~26,139 |
+| Little Tokyo | 3.00% | ~26,139 |
+| Greetings from Pacifica! | 3.00% | ~26,139 |
+| The Jungle | 3.00% | ~26,139 |
+| V for Vendetta | 3.00% | ~26,139 |
+| It's Elementary | 3.00% | ~26,139 |
 | Autojock | 2.00% | ~17,426 |
 | Frequent Flyer | 2.00% | ~17,426 |
 | The Wasteland | 2.00% | ~17,426 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~8,713 |
 | Rough Landing | 0.50% | ~4,356 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 871,277 (Ranked 14)  
+Progressed: 871,284 (Ranked 14)  
 Completed: 1,975 (0.23%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,15 +170,15 @@ Completed: 1,975 (0.23%) (Ranked 180)
 | 2023-08-14 | 870,901 | 1,969 |
 | 2023-08-15 | 871,042 | 1,970 |
 | 2023-08-16 | 871,183 | 1,974 |
-| 2023-08-17 | 871,277 | 1,975 |
+| 2023-08-17 | 871,284 | 1,975 |
 ## Awards
 Max (Character Customization): 75,670  (Ranked 9)  
-Sum: 199,994 (Ranked 13)  
+Sum: 200,033 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 75,670 |
-| This game has Great Boss Battles | 48,913 |
+| This game has Great Boss Battles | 48,952 |
 | This game is Great for Beginners | 8,881 |
 | This game has Amazing Storytelling | 8,879 |
 | This game has Diverse Characters | 8,873 |
@@ -401,4 +401,4 @@ Diff (max vs sum): -4
 | 2023-08-14 | 4.62 | - | 75,493 | 199,487 |
 | 2023-08-15 | 4.62 | - | 75,550 | 199,689 |
 | 2023-08-16 | 4.62 | - | 75,608 | 199,883 |
-| 2023-08-17 | 4.62 | - | 75,670 | 199,994 |
+| 2023-08-17 | 4.62 | - | 75,670 | 200,033 |

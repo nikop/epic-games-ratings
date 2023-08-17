@@ -2,13 +2,13 @@
   "ID": "598bbf91c75b4ac9a676d82719acdbb1",
   "Name": "Ghostbusters: Spirits Unleashed",
   "ProductSlug": "ghostbusters-spirits-unleashed",
-  "Ranking_Rating": 576,
+  "Ranking_Rating": 577,
   "Ranking_Popularity": 252,
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 184,
   "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -1836,9 +1836,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 25157,
+  "EOS_Progressed": 25158,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 210,
+  "EOS_NewPlayers": 211,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -10666,6 +10666,11 @@
       "Time": "2023-08-17T12:04:04.2868321+00:00",
       "NumProgressed": 25157,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-08-17T15:03:52.4200386+00:00",
+      "NumProgressed": 25158,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 51,
@@ -10725,7 +10730,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 12830
+      "UsersEstimate": 12831
     },
     {
       "ID": "Collector",
@@ -10741,7 +10746,7 @@
       "Name": "Cultured",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 12830
+      "UsersEstimate": 12831
     },
     {
       "ID": "Daily_Dose",
@@ -10749,7 +10754,7 @@
       "Name": "Daily Dose",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 8553
+      "UsersEstimate": 8554
     },
     {
       "ID": "Diabolical",
@@ -10789,7 +10794,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 63,
       "XP": 100,
-      "UsersEstimate": 15849
+      "UsersEstimate": 15850
     },
     {
       "ID": "Escape_Artist",
@@ -10893,7 +10898,7 @@
       "Name": "Pesky Jerks",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 6289
+      "UsersEstimate": 6290
     },
     {
       "ID": "Reckless",
@@ -10949,7 +10954,7 @@
       "Name": "Side Hustle",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 6792
+      "UsersEstimate": 6793
     },
     {
       "ID": "Skilled",
@@ -10965,7 +10970,7 @@
       "Name": "Solo Capture",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 8050
+      "UsersEstimate": 8051
     },
     {
       "ID": "Stunner",
@@ -10973,7 +10978,7 @@
       "Name": "Stunner",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 6289
+      "UsersEstimate": 6290
     },
     {
       "ID": "Stylish",
@@ -10981,7 +10986,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 21635
+      "UsersEstimate": 21636
     },
     {
       "ID": "Summoner",
@@ -11061,7 +11066,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 12075
+      "UsersEstimate": 12076
     },
     {
       "ID": "Welcome_Crew",
@@ -11077,14 +11082,14 @@
       "Name": "Whoopsie",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 3270
+      "UsersEstimate": 3271
     }
   ],
   "AchievementSets": [
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 25157,
+      "Progressed": 25158,
       "Completed": 52
     }
   ],
@@ -11092,8 +11097,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-08-17T06:59:54.3022131+00:00",
-  "LastChanged_Achievements": "2023-08-17T14:03:58.9725775+00:00",
+  "LastChanged_Achievements": "2023-08-17T15:03:52.4200378+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:52.55817+00:00",
-  "LastUpdate_Ratings": "2023-08-17T14:00:18.0344743+00:00",
-  "LastUpdate_Achievements": "2023-08-17T14:03:58.9727402+00:00"
+  "LastUpdate_Ratings": "2023-08-17T15:01:01.2810529+00:00",
+  "LastUpdate_Achievements": "2023-08-17T15:03:52.4201677+00:00"
 }

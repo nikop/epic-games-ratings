@@ -1,7 +1,7 @@
 # Sifu
 [Store](https://store.epicgames.com/en-US/p/sifu)  
 [View Rawdata](../../db/s/sifu.json)  
-Rating: 4.82 (Ranked 66)  
+Rating: 4.82 (Ranked 67)  
 Number of Ratings: 9,492  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -40,7 +40,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Source of Flying Daggers | 0.70% | ~4,987 |
 | Iron Money | 0.70% | ~4,987 |
 | Legendary Talismans of Wuxing | 0.70% | ~4,987 |
-| A Touch of Acumen | 0.70% | ~152 |
+| A Touch of Acumen | 0.70% | ~153 |
 | Prodigal Child | 0.60% | ~4,275 |
 | The 36th Chamber of Kung-Fu | 0.60% | ~4,275 |
 | Sword Stained With Blood | 0.60% | ~4,275 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,425 |
 | Warriors from the Mountain | 0.10% | ~712 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 712,484 (Ranked 20)  
+Progressed: 712,486 (Ranked 20)  
 Completed: 12,860 (1.80%) (Ranked 96)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,7 +176,7 @@ Completed: 12,860 (1.80%) (Ranked 96)
 | 2023-08-14 | 712,428 | 12,858 |
 | 2023-08-15 | 712,447 | 12,860 |
 | 2023-08-16 | 712,473 | 12,860 |
-| 2023-08-17 | 712,484 | 12,860 |
+| 2023-08-17 | 712,486 | 12,860 |
 ## Awards
 Max (Great Boss Battles): 6,373  (Ranked 55)  
 Sum: 10,942 (Ranked 81)  

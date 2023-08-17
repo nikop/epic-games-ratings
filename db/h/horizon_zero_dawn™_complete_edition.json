@@ -2,12 +2,12 @@
   "ID": "3328b08ac1c14540aa265a1a85c07839",
   "Name": "Horizon Zero Dawn\u2122 Complete Edition",
   "ProductSlug": "horizon-zero-dawn-complete-edition",
-  "Ranking_Rating": 117,
+  "Ranking_Rating": 118,
   "Ranking_Popularity": 75,
   "Ranking_PopularitySum": 89,
   "Ranking_EOS_Progress": 546,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewPlayers": 360,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2020-08-07T15:00:00+00:00",
@@ -4976,6 +4976,6 @@
   "FirstSeen": "2022-07-22T20:25:54.5867721+00:00",
   "LastChanged": "2023-08-17T03:57:53.9755418+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:20.6263679+00:00",
-  "LastUpdate_Ratings": "2023-08-17T13:57:52.3250872+00:00",
-  "LastUpdate_Achievements": "2023-08-17T14:04:59.2293132+00:00"
+  "LastUpdate_Ratings": "2023-08-17T14:57:58.850973+00:00",
+  "LastUpdate_Achievements": "2023-08-17T15:05:17.4588382+00:00"
 }

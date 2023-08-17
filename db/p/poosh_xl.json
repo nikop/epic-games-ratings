@@ -2,9 +2,9 @@
   "ID": "a32fec328323428da84e902b3d3f98fb",
   "Name": "Poosh XL",
   "ProductSlug": "poosh-xl-c580f2",
-  "Ranking_EOS_Progress": 305,
+  "Ranking_EOS_Progress": 303,
   "Ranking_EOS_Completed": 107,
-  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewPlayers": 283,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
@@ -19,11 +19,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 141,
+  "EOS_Progressed": 142,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.42,
+  "EOS_Completed_Percentage": 1.41,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:46:01.034139+00:00",
@@ -669,6 +669,11 @@
       "Time": "2023-08-16T05:07:32.5970291+00:00",
       "NumProgressed": 141,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-17T15:07:21.9892522+00:00",
+      "NumProgressed": 142,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 20,
@@ -798,9 +803,9 @@
       "ID": "Poosh Past 2500",
       "SetID": "5n829i",
       "Name": "Pooshed Past 2500",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 102
+      "UsersEstimate": 101
     },
     {
       "ID": "Poosh Past 5000",
@@ -808,15 +813,15 @@
       "Name": "Pooshed Past 5000",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "Poosh Past 7500",
       "SetID": "5n829i",
       "Name": "Pooshed Past 7500",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 75,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "Poosh over 250000",
@@ -824,28 +829,28 @@
       "Name": "Pooshed over 250000",
       "Percentage": 49,
       "XP": 100,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "Terrible Start",
       "SetID": "5n829i",
       "Name": "Terrible Start",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 23
+      "UsersEstimate": 21
     }
   ],
   "AchievementSets": [
     {
       "ID": "5n829i",
       "IsBase": true,
-      "Progressed": 141,
+      "Progressed": 142,
       "Completed": 2
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:01.0341399+00:00",
-  "LastChanged_Achievements": "2023-08-17T14:06:42.6678115+00:00",
+  "LastChanged_Achievements": "2023-08-17T15:07:21.9892513+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:17.4499876+00:00",
-  "LastUpdate_Ratings": "2023-08-17T13:58:59.4676568+00:00",
-  "LastUpdate_Achievements": "2023-08-17T14:06:42.6678422+00:00"
+  "LastUpdate_Ratings": "2023-08-17T14:59:20.6023406+00:00",
+  "LastUpdate_Achievements": "2023-08-17T15:07:21.9892719+00:00"
 }

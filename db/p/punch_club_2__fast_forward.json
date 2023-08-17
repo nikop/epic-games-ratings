@@ -1356,9 +1356,9 @@
       "ID": "seashell_hunter",
       "SetID": "69co12a",
       "Name": "Seashell hunter",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 94
     },
     {
       "ID": "sleep_candy",
@@ -1451,8 +1451,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-08-17T14:04:52.2394819+00:00",
+  "LastChanged_Achievements": "2023-08-17T15:05:08.0857196+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:18.7618858+00:00",
-  "LastUpdate_Ratings": "2023-08-17T13:58:48.6033461+00:00",
-  "LastUpdate_Achievements": "2023-08-17T14:04:52.2396069+00:00"
+  "LastUpdate_Ratings": "2023-08-17T14:59:08.6195329+00:00",
+  "LastUpdate_Achievements": "2023-08-17T15:05:08.0857952+00:00"
 }

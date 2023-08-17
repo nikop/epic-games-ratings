@@ -2,12 +2,12 @@
   "ID": "f4a7772a4da24870a3ea6dfb8aeac662",
   "Name": "Borderlands 2",
   "ProductSlug": "borderlands-2",
-  "Ranking_Rating": 117,
+  "Ranking_Rating": 118,
   "Ranking_Popularity": 24,
   "Ranking_PopularitySum": 34,
   "Ranking_EOS_Progress": 546,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewPlayers": 360,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2020-05-28T15:00:00+00:00",
@@ -7644,10 +7644,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 37740,
       "NumberOfAwardsMax": 15078
+    },
+    {
+      "Time": "2023-08-17T14:57:58.6774322+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 37743,
+      "NumberOfAwardsMax": 15078
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 37740,
+  "NumberOfAwards": 37743,
   "NumberOfAwardsMax": 15078,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -7691,7 +7697,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 2435
+      "Count": 2438
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -7735,8 +7741,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:04.5825777+00:00",
-  "LastChanged": "2023-08-17T05:57:42.86734+00:00",
+  "LastChanged": "2023-08-17T14:57:58.6774321+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:21.5894511+00:00",
-  "LastUpdate_Ratings": "2023-08-17T13:57:52.1525712+00:00",
-  "LastUpdate_Achievements": "2023-08-17T14:03:51.6355442+00:00"
+  "LastUpdate_Ratings": "2023-08-17T14:57:58.6774328+00:00",
+  "LastUpdate_Achievements": "2023-08-17T15:03:43.4712837+00:00"
 }

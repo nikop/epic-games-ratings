@@ -2,12 +2,12 @@
   "ID": "207b765975664e9db1e29129aafae69c",
   "Name": "Star Stable Online",
   "ProductSlug": "star-stable",
-  "Ranking_Rating": 666,
+  "Ranking_Rating": 667,
   "Ranking_Popularity": 296,
   "Ranking_PopularitySum": 236,
   "Ranking_EOS_Progress": 546,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewPlayers": 360,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-06-22T16:00:00+00:00",
@@ -1883,6 +1883,6 @@
   "FirstSeen": "2022-07-22T20:17:59.036031+00:00",
   "LastChanged": "2023-08-16T13:02:54.9638216+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:53.2198366+00:00",
-  "LastUpdate_Ratings": "2023-08-17T13:59:29.7805995+00:00",
-  "LastUpdate_Achievements": "2023-08-17T14:05:38.1317615+00:00"
+  "LastUpdate_Ratings": "2023-08-17T14:59:56.5451455+00:00",
+  "LastUpdate_Achievements": "2023-08-17T15:06:03.9188868+00:00"
 }

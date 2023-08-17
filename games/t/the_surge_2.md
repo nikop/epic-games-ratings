@@ -1,32 +1,32 @@
 # The Surge 2
 [Store](https://store.epicgames.com/en-US/p/the-surge-2-e7df70)  
 [View Rawdata](../../db/t/the_surge_2.json)  
-Rating: 4.23 (Ranked 840)  
+Rating: 4.23 (Ranked 841)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,581 |
+| Rigged And Ready | 80.00% | ~1,582 |
 | Don't I Know You...? | 77.00% | ~1,522 |
-| Jailbreak | 65.00% | ~1,284 |
+| Jailbreak | 65.00% | ~1,285 |
 | Suited and Booted | 39.00% | ~771 |
 | HEADSHOT! | 38.00% | ~751 |
 | Sleeping With The Fishes | 35.00% | ~692 |
 | Overheated | 30.00% | ~593 |
 | High Performance | 30.00% | ~593 |
-| Powered Up | 28.00% | ~553 |
+| Powered Up | 28.00% | ~554 |
 | Studied The Blade | 24.00% | ~474 |
-| Home Invasion | 23.00% | ~454 |
+| Home Invasion | 23.00% | ~455 |
 | Luminary | 22.00% | ~435 |
 | It's a Trap | 22.00% | ~435 |
 | True Survivor | 21.00% | ~415 |
 | Offensive Defense | 20.00% | ~395 |
 | Shocking | 20.00% | ~395 |
-| Court Martial | 19.00% | ~375 |
-| Clean Cut | 19.00% | ~375 |
-| Unforeseeable Consequences | 19.00% | ~375 |
+| Court Martial | 19.00% | ~376 |
+| Clean Cut | 19.00% | ~376 |
+| Unforeseeable Consequences | 19.00% | ~376 |
 | Dead Again | 18.00% | ~356 |
 | Full Arsenal | 16.00% | ~316 |
-| Can't Trust Banks | 15.00% | ~296 |
+| Can't Trust Banks | 15.00% | ~297 |
 | Mommy Dearest | 14.00% | ~277 |
 | Bad Dog | 13.00% | ~257 |
 | Where It All Began | 13.00% | ~257 |
@@ -63,7 +63,7 @@ Rating: 4.23 (Ranked 840)
 | Swiss Army Drone | 1.00% | ~20 |
 | The Easy Way Out | 1.00% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,976 (Ranked 169)  
+Progressed: 1,977 (Ranked 169)  
 Completed: 10 (0.51%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,7 +159,7 @@ Completed: 10 (0.51%) (Ranked 143)
 | 2023-08-11 | 1,972 | 10 |
 | 2023-08-13 | 1,974 | 10 |
 | 2023-08-15 | 1,975 | 10 |
-| 2023-08-17 | 1,976 | 10 |
+| 2023-08-17 | 1,977 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

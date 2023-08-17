@@ -1,7 +1,7 @@
 # Hi-Fi RUSH
 [Store](https://store.epicgames.com/en-US/p/hi-fi-rush)  
 [View Rawdata](../../db/h/hi-fi_rush.json)  
-Rating: 4.88 (Ranked 18)  
+Rating: 4.88 (Ranked 19)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -36,21 +36,21 @@ Rating: 4.88 (Ranked 18)
 | That's a lot of junk metal… | 3.00% | ~118 |
 | There's such a thing as TOO helpful | 3.00% | ~118 |
 | Chip-tuned | 2.00% | ~79 |
+| I think I deserve some praise, here! | 1.00% | ~39 |
 | I think I found your calling, Macaron | 1.00% | ~39 |
 | I hit things with a guitar really well. | 1.00% | ~39 |
 | Wanna hear my playlist? | 1.00% | ~39 |
 | I told you I'd be fine, Peppermint! | 1.00% | ~39 |
 | Check out my moves! | 1.00% | ~39 |
 | Call me Turbo Chai | 1.00% | ~25 |
-| I think I deserve some praise, here! | 0.90% | ~35 |
 | We're Jammin' | 0.90% | ~35 |
 | First we parry, then we counter | 0.80% | ~32 |
 | I'm not done with you yet | 0.70% | ~28 |
 | This is a breeze! | 0.60% | ~24 |
 | New bad guys? No problem! | 0.60% | ~15 |
+| You ever parry a volcano? | 0.50% | ~20 |
 | Easy Listening | 0.40% | ~16 |
 | OK, well THEY came after ME! | 0.40% | ~16 |
-| You ever parry a volcano? | 0.40% | ~16 |
 | Choose your own adventure | 0.40% | ~10 |
 | Problem solved... wait, what? | 0.30% | ~12 |
 | Now this is how you fight like a team! | 0.30% | ~12 |

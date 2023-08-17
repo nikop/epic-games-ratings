@@ -2,12 +2,12 @@
   "ID": "144f9e231e2846d1a4381d9bb678f69d",
   "Name": "Warhammer 40,000: Mechanicus - Standard Edition",
   "ProductSlug": "warhammer-mechanicus-0e4b71",
-  "Ranking_Rating": 661,
+  "Ranking_Rating": 662,
   "Ranking_Popularity": 240,
   "Ranking_PopularitySum": 194,
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 66,
+  "Ranking_EOS_NewPlayers": 65,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -561,9 +561,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 220422,
+  "EOS_Progressed": 220426,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 625,
+  "EOS_NewPlayers": 629,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13431,6 +13431,11 @@
       "Time": "2023-08-17T14:03:32.2955838+00:00",
       "NumProgressed": 220422,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-17T15:03:19.7872017+00:00",
+      "NumProgressed": 220426,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -13442,7 +13447,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 41880
+      "UsersEstimate": 41881
     },
     {
       "ID": "ACH_BASE_10",
@@ -13514,7 +13519,7 @@
       "Name": "Battle Servitor",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4408
+      "UsersEstimate": 4409
     },
     {
       "ID": "ACH_BASE_2",
@@ -13522,7 +13527,7 @@
       "Name": "Watch them crumble",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13225
+      "UsersEstimate": 13226
     },
     {
       "ID": "ACH_BASE_20",
@@ -13538,7 +13543,7 @@
       "Name": "Ding Dong Szaregon\u0027s Gone",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4408
+      "UsersEstimate": 4409
     },
     {
       "ID": "ACH_BASE_22",
@@ -13546,7 +13551,7 @@
       "Name": "Impatient destruction",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 4408
+      "UsersEstimate": 4409
     },
     {
       "ID": "ACH_BASE_23",
@@ -13674,7 +13679,7 @@
       "Name": "Vivisected Vizier",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4408
+      "UsersEstimate": 4409
     },
     {
       "ID": "ACH_BASE_6",
@@ -13682,7 +13687,7 @@
       "Name": "Architect Abortion",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4408
+      "UsersEstimate": 4409
     },
     {
       "ID": "ACH_BASE_7",
@@ -13713,7 +13718,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 220422,
+      "Progressed": 220426,
       "Completed": 5
     }
   ],
@@ -13721,8 +13726,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-08-17T07:59:55.1961024+00:00",
-  "LastChanged_Achievements": "2023-08-17T14:03:32.2955829+00:00",
+  "LastChanged_Achievements": "2023-08-17T15:03:19.7872008+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:14.4615999+00:00",
-  "LastUpdate_Ratings": "2023-08-17T13:59:49.0625041+00:00",
-  "LastUpdate_Achievements": "2023-08-17T14:03:32.2957733+00:00"
+  "LastUpdate_Ratings": "2023-08-17T15:00:24.3179814+00:00",
+  "LastUpdate_Achievements": "2023-08-17T15:03:19.7873505+00:00"
 }

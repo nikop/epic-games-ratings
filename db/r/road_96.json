@@ -2,12 +2,12 @@
   "ID": "755d1aa0a0154fe7a602caaec1f18c10",
   "Name": "Road 96",
   "ProductSlug": "road-96",
-  "Ranking_Rating": 328,
+  "Ranking_Rating": 329,
   "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 482,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewPlayers": 360,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2021-08-16T12:00:00+00:00",
@@ -416,8 +416,8 @@
   "FirstSeen": "2022-07-22T20:25:33.5631582+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:28.2855569+00:00",
   "LastChanged": "2023-06-04T22:59:10.4678298+00:00",
-  "LastChanged_Achievements": "2023-08-17T14:04:00.4145407+00:00",
+  "LastChanged_Achievements": "2023-08-17T15:04:04.2034895+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:29.6144169+00:00",
-  "LastUpdate_Ratings": "2023-08-17T13:59:58.1805417+00:00",
-  "LastUpdate_Achievements": "2023-08-17T14:04:00.4145553+00:00"
+  "LastUpdate_Ratings": "2023-08-17T15:00:36.2919959+00:00",
+  "LastUpdate_Achievements": "2023-08-17T15:04:04.2035009+00:00"
 }

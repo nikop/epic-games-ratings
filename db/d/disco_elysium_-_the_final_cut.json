@@ -2,12 +2,12 @@
   "ID": "ff52981b1d9947978153c7a7f8bc6d90",
   "Name": "Disco Elysium - The Final Cut",
   "ProductSlug": "disco-elysium",
-  "Ranking_Rating": 25,
+  "Ranking_Rating": 26,
   "Ranking_Popularity": 165,
   "Ranking_PopularitySum": 235,
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 81,
+  "Ranking_EOS_NewPlayers": 82,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
@@ -1167,18 +1167,24 @@
       "Rating": 4.87,
       "NumberOfAwards": 1080,
       "NumberOfAwardsMax": 718
+    },
+    {
+      "Time": "2023-08-17T15:01:08.2269279+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1081,
+      "NumberOfAwardsMax": 719
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1080,
-  "NumberOfAwardsMax": 718,
+  "NumberOfAwards": 1081,
+  "NumberOfAwardsMax": 719,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 718
+      "Count": 719
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1253,9 +1259,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 126370,
+  "EOS_Progressed": 126371,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 407,
+  "EOS_NewPlayers": 405,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -13093,6 +13099,11 @@
       "Time": "2023-08-17T14:04:47.3336566+00:00",
       "NumProgressed": 126370,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-08-17T15:05:02.083141+00:00",
+      "NumProgressed": 126371,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 40,
@@ -13423,15 +13434,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 126370,
+      "Progressed": 126371,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
-  "LastChanged": "2023-08-15T15:00:55.7561731+00:00",
-  "LastChanged_Achievements": "2023-08-17T14:04:47.3336556+00:00",
+  "LastChanged": "2023-08-17T15:01:08.2269277+00:00",
+  "LastChanged_Achievements": "2023-08-17T15:05:02.0831399+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:59.4029348+00:00",
-  "LastUpdate_Ratings": "2023-08-17T14:00:23.8489528+00:00",
-  "LastUpdate_Achievements": "2023-08-17T14:04:47.333829+00:00"
+  "LastUpdate_Ratings": "2023-08-17T15:01:08.2269284+00:00",
+  "LastUpdate_Achievements": "2023-08-17T15:05:02.0833012+00:00"
 }

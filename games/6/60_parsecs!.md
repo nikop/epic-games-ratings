@@ -32,7 +32,7 @@
 | Flawless Maegangement | 7.00% | ~50 |
 | Second Life | 7.00% | ~50 |
 | Axel jump in space! | 6.00% | ~43 |
-| Extreme Makeover | 4.00% | ~29 |
+| Extreme Makeover | 5.00% | ~36 |
 | The Improvinator | 3.00% | ~21 |
 | The Last Supper | 3.00% | ~21 |
 | 2018: A Soup Odyssey | 3.00% | ~21 |

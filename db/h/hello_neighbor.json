@@ -2,12 +2,12 @@
   "ID": "helloneighbor",
   "Name": "Hello Neighbor",
   "ProductSlug": "hello-neighbor",
-  "Ranking_Rating": 485,
-  "Ranking_Popularity": 259,
+  "Ranking_Rating": 486,
+  "Ranking_Popularity": 258,
   "Ranking_PopularitySum": 212,
   "Ranking_EOS_Progress": 546,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewPlayers": 360,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2018-12-08T12:00:00+00:00",
@@ -2779,12 +2779,18 @@
       "Rating": 4.55,
       "NumberOfAwards": 1597,
       "NumberOfAwardsMax": 234
+    },
+    {
+      "Time": "2023-08-17T15:00:20.666118+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 1599,
+      "NumberOfAwardsMax": 236
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1597,
-  "NumberOfAwardsMax": 234,
-  "MaxAwardTitle": "Great for Beginners",
+  "NumberOfAwards": 1599,
+  "NumberOfAwardsMax": 236,
+  "MaxAwardTitle": "Relaxing",
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2802,7 +2808,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 234
+      "Count": 236
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2858,8 +2864,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:23.0108388+00:00",
-  "LastChanged": "2023-08-16T21:00:24.726038+00:00",
+  "LastChanged": "2023-08-17T15:00:20.6661178+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:12.9719142+00:00",
-  "LastUpdate_Ratings": "2023-08-17T13:59:46.2372989+00:00",
-  "LastUpdate_Achievements": "2023-08-17T14:04:14.0554579+00:00"
+  "LastUpdate_Ratings": "2023-08-17T15:00:20.6661185+00:00",
+  "LastUpdate_Achievements": "2023-08-17T15:04:21.3378721+00:00"
 }

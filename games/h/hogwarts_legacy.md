@@ -1,7 +1,7 @@
 # Hogwarts Legacy
 [Store](https://store.epicgames.com/en-US/p/hogwarts-legacy)  
 [View Rawdata](../../db/h/hogwarts_legacy.json)  
-Rating: 4.77 (Ranked 108)  
+Rating: 4.77 (Ranked 109)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -19,8 +19,8 @@ Rating: 4.77 (Ranked 108)
 | Loom for Improvement | 9.00% | ~26,123 |
 | A Talent for Spending | 9.00% | ~26,123 |
 | Coasting Along | 9.00% | ~26,123 |
-| Followed the Butterflies | 8.00% | ~23,220 |
-| Rising From the Ashes | 8.00% | ~23,220 |
+| Followed the Butterflies | 8.00% | ~23,221 |
+| Rising From the Ashes | 8.00% | ~23,221 |
 | The Avenging Gazelle | 7.00% | ~20,318 |
 | Beast Friends | 7.00% | ~20,318 |
 | A Sallow Grave | 7.00% | ~20,318 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 108)
 | The Nature of the Beast | 0.60% | ~1,742 |
 | Collector's Edition | 0.30% | ~871 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290,256 (Ranked 43)  
+Progressed: 290,257 (Ranked 43)  
 Completed: 452 (0.16%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 452 (0.16%) (Ranked 191)
 | 2023-08-14 | 290,112 | 451 |
 | 2023-08-15 | 290,171 | 451 |
 | 2023-08-16 | 290,231 | 452 |
-| 2023-08-17 | 290,256 | 452 |
+| 2023-08-17 | 290,257 | 452 |
 ## Awards
 Max (Character Customization): 21,780  (Ranked 17)  
 Sum: 41,115 (Ranked 30)  
