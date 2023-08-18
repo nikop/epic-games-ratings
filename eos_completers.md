@@ -44,7 +44,7 @@
 | 42 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 43 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.30% |
 | 44 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 45 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 6.17% |
+| 45 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 6.10% |
 | 46 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.98% |
 | 47 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.56% |
 | 48 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.36% |
@@ -150,9 +150,9 @@
 | 148 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
 | 149 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.46% |
 | 149 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.46% |
-| 149 | [Train Valley](games/t/train_valley.md) | 0.46% |
-| 152 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.45% |
-| 152 | [Tchia](games/t/tchia.md) | 0.45% |
+| 151 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.45% |
+| 151 | [Tchia](games/t/tchia.md) | 0.45% |
+| 151 | [Train Valley](games/t/train_valley.md) | 0.45% |
 | 154 | [Tails of Iron](games/t/tails_of_iron.md) | 0.43% |
 | 155 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.41% |
 | 156 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.40% |

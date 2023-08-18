@@ -108,7 +108,7 @@
 | 101 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.78 | 1,422 | 125 |
 | 101 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 931 | 148 |
 | 101 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.78 | 0 | 512 |
-| 109 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 4,111 | 80 |
+| 109 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 4,135 | 79 |
 | 109 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 6,698 | 52 |
 | 109 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 21,799 | 17 |
 | 109 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.77 | 38 | 428 |
@@ -375,7 +375,7 @@
 | 365 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 43,133 | 12 |
 | 365 | [GigaBash](games/g/gigabash.md) | 4.61 | 0 | 512 |
 | 365 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.61 | 37 | 432 |
-| 365 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,163 | 137 |
+| 365 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,165 | 137 |
 | 365 | [MudRunner](games/m/mudrunner.md) | 4.61 | 252 | 251 |
 | 365 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.61 | 0 | 512 |
 | 365 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 0 | 512 |
@@ -422,7 +422,7 @@
 | 414 | [Moving Out](games/m/moving_out.md) | 4.59 | 21 | 500 |
 | 414 | [Operation: Tango](games/o/operation__tango.md) | 4.59 | 0 | 512 |
 | 414 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 75 | 369 |
-| 414 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 314 | 234 |
+| 414 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 315 | 234 |
 | 414 | [Torchlight II](games/t/torchlight_ii.md) | 4.59 | 1,007 | 145 |
 | 414 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.59 | 0 | 512 |
 | 414 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 708 | 168 |
@@ -544,7 +544,7 @@
 | 542 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.51 | 1,699 | 118 |
 | 542 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 96 | 342 |
 | 542 | [Auto Chess](games/a/auto_chess.md) | 4.51 | 774 | 159 |
-| 542 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,112 | 79 |
+| 542 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,112 | 80 |
 | 542 | [CryoFall](games/c/cryofall.md) | 4.51 | 0 | 512 |
 | 542 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 41 | 422 |
 | 542 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.51 | 2,656 | 96 |
@@ -903,14 +903,14 @@
 | 900 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.13 | 0 | 512 |
 | 902 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.12 | 0 | 512 |
 | 903 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 88 | 352 |
-| 903 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.10 | 0 | 512 |
 | 903 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.10 | 20 | 508 |
 | 903 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,494 | 101 |
-| 907 | [Fangs](games/f/fangs.md) | 4.09 | 0 | 512 |
-| 907 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.09 | 0 | 512 |
-| 907 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.09 | 0 | 512 |
-| 907 | [Obduction](games/o/obduction.md) | 4.09 | 53 | 395 |
-| 907 | [Submerged](games/s/submerged.md) | 4.09 | 0 | 512 |
+| 906 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.09 | 0 | 512 |
+| 906 | [Fangs](games/f/fangs.md) | 4.09 | 0 | 512 |
+| 906 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.09 | 0 | 512 |
+| 906 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.09 | 0 | 512 |
+| 906 | [Obduction](games/o/obduction.md) | 4.09 | 53 | 395 |
+| 906 | [Submerged](games/s/submerged.md) | 4.09 | 0 | 512 |
 | 912 | [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 4.08 | 0 | 512 |
 | 912 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.08 | 0 | 512 |
 | 912 | [Banished](games/b/banished.md) | 4.08 | 0 | 512 |
