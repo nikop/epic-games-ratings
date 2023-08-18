@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 18.00% | ~38,504 |
+| Sowwy! | 18.00% | ~38,505 |
 | Alt+F4 | 2.00% | ~4,278 |
 | Déjà vu | 1.00% | ~2,139 |
 | Where's that freaking Dwarf? | 1.00% | ~2,139 |
@@ -16,13 +16,14 @@ Number of Ratings: 118  (23.09.2022)
 | Speedrun | 0.80% | ~1,711 |
 | Fireproof Wizardess | 0.80% | ~1,711 |
 | DM intervention | 0.70% | ~1,497 |
-| Way of the Wimp | 0.60% | ~1,283 |
+| Way of the Wimp | 0.60% | ~1,284 |
 | Livin' in a dwarven paradise | 0.50% | ~1,070 |
 | The plot thickens... At the tavern | 0.50% | ~1,070 |
+| The demons' feast | 0.50% | ~1,070 |
 | %#*!$*! | 0.50% | ~1,070 |
+| Team Building Exercise | 0.50% | ~1,070 |
 | Oh, when I'll be level 10... | 0.50% | ~1,070 |
 | Shiny and Crôm | 0.40% | ~856 |
-| The demons' feast | 0.40% | ~856 |
 | The Great Library | 0.40% | ~856 |
 | Torture and Sensibility | 0.40% | ~856 |
 | Urik's Depths | 0.40% | ~856 |
@@ -30,14 +31,13 @@ Number of Ratings: 118  (23.09.2022)
 | The Statuette of Gladeulfeurah | 0.40% | ~856 |
 | The Woman in the High Castle | 0.40% | ~856 |
 | A tale of adventurers not quite like the others... | 0.40% | ~856 |
+| The beards of change | 0.40% | ~856 |
 | The Ranger of Chaos | 0.40% | ~856 |
 | I am the night | 0.40% | ~856 |
-| Team Building Exercise | 0.40% | ~856 |
 | Res Judicata | 0.30% | ~642 |
 | The Famous Dungeon of Naheulbeuk | 0.30% | ~642 |
 | Dwarf Fortress | 0.30% | ~642 |
 | Look but don't touch | 0.30% | ~642 |
-| The beards of change | 0.30% | ~642 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.30% | ~642 |
 | Thieves' Guild Accreditation | 0.30% | ~642 |
 | Dead for good | 0.20% | ~428 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Staff cut | 0.00% | ~0 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 213,909 (Ranked 56)  
+Progressed: 213,919 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,14 +174,14 @@ Completed: 2 (0.00%) (Ranked 259)
 | 2023-08-15 | 212,897 | 2 |
 | 2023-08-16 | 213,341 | 2 |
 | 2023-08-17 | 213,783 | 2 |
-| 2023-08-18 | 213,909 | 2 |
+| 2023-08-18 | 213,919 | 2 |
 ## Awards
-Max (Character Customization): 166  (Ranked 289)  
-Sum: 207 (Ranked 366)  
+Max (Character Customization): 168  (Ranked 289)  
+Sum: 209 (Ranked 366)  
 Diff (max vs sum): -77  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 166 |
+| This game has Inclusive Character Customization | 168 |
 | This game is Relaxing | 21 |
 | This game is Great for Beginners | 20 |
 ## Ratings History
@@ -294,3 +294,4 @@ Diff (max vs sum): -77
 | 2023-08-15 | 4.58 | - | 166 | 186 |
 | 2023-08-16 | 4.58 | - | 166 | 187 |
 | 2023-08-17 | 4.58 | - | 166 | 207 |
+| 2023-08-18 | 4.58 | - | 168 | 209 |

@@ -32,11 +32,11 @@ Number of Ratings: 111  (23.09.2022)
 | DIY Boss | 5.00% | ~137 |
 | Globetrotter | 5.00% | ~137 |
 | Laid back | 5.00% | ~137 |
+| Lines for days | 5.00% | ~137 |
 | NAHELL! | 5.00% | ~137 |
 | Trick shot marksman | 5.00% | ~137 |
 | Cops called! | 4.00% | ~109 |
 | G.O.A.T. status | 4.00% | ~109 |
-| Lines for days | 4.00% | ~109 |
 | Manny Destroys All | 4.00% | ~109 |
 | Prince of Philly | 4.00% | ~109 |
 | Renaissance man | 4.00% | ~109 |

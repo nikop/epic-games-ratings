@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 281,
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -864,9 +864,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 6398,
+  "EOS_Progressed": 6399,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5144,6 +5144,11 @@
       "Time": "2023-08-18T05:04:14.6624325+00:00",
       "NumProgressed": 6398,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-18T09:04:54.7261001+00:00",
+      "NumProgressed": 6399,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -5187,7 +5192,7 @@
       "Name": "Commodity Trader",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1983
+      "UsersEstimate": 1984
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -5219,7 +5224,7 @@
       "Name": "Xenocide",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2047
+      "UsersEstimate": 2048
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -5235,7 +5240,7 @@
       "Name": "Design a Civilization",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1983
+      "UsersEstimate": 1984
     },
     {
       "ID": "First_Major_Ally",
@@ -5259,7 +5264,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 5054
+      "UsersEstimate": 5055
     },
     {
       "ID": "First_Race_Met",
@@ -5275,7 +5280,7 @@
       "Name": "Design a Ship",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1791
+      "UsersEstimate": 1792
     },
     {
       "ID": "First_Stream_Travel",
@@ -5291,7 +5296,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 4990
+      "UsersEstimate": 4991
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -5371,7 +5376,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2175
+      "UsersEstimate": 2176
     },
     {
       "ID": "Play_1000_Hours",
@@ -5617,9 +5622,9 @@
       "ID": "Win_As_Torian",
       "SetID": "4h07amh",
       "Name": "Win as Torians",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 58
     },
     {
       "ID": "Win_As_Xeloxi",
@@ -5730,15 +5735,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6398,
+      "Progressed": 6399,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-08-16T06:59:13.2863126+00:00",
-  "LastChanged_Achievements": "2023-08-18T08:05:00.722281+00:00",
+  "LastChanged_Achievements": "2023-08-18T09:04:54.7260995+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:24.6593665+00:00",
-  "LastUpdate_Ratings": "2023-08-18T07:59:36.2785573+00:00",
-  "LastUpdate_Achievements": "2023-08-18T08:05:00.7223573+00:00"
+  "LastUpdate_Ratings": "2023-08-18T08:59:29.715961+00:00",
+  "LastUpdate_Achievements": "2023-08-18T09:04:54.7261986+00:00"
 }

@@ -6,24 +6,24 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Imprint | 88.00% | ~122,563 |
-| Taste | 84.00% | ~116,992 |
-| The Hunt | 66.00% | ~91,922 |
-| Ravenous | 63.00% | ~87,744 |
-| Weeper | 43.00% | ~59,889 |
-| Devourer | 22.00% | ~30,641 |
-| Harmless | 19.00% | ~26,462 |
-| Silenced Whispers | 19.00% | ~26,462 |
-| Sharpened Vessel | 16.00% | ~22,284 |
-| Yank | 15.00% | ~20,891 |
-| Feast | 12.00% | ~16,713 |
-| Scion | 11.00% | ~15,274 |
-| Jawcrab | 11.00% | ~15,320 |
-| Jawstag | 11.00% | ~15,320 |
-| Watcher | 10.00% | ~13,928 |
-| Shapely | 8.00% | ~11,142 |
-| Glare | 8.00% | ~11,109 |
-| Predator | 8.00% | ~11,142 |
+| Imprint | 88.00% | ~122,572 |
+| Taste | 84.00% | ~117,000 |
+| The Hunt | 66.00% | ~91,929 |
+| Ravenous | 63.00% | ~87,750 |
+| Weeper | 43.00% | ~59,893 |
+| Devourer | 22.00% | ~30,643 |
+| Harmless | 19.00% | ~26,464 |
+| Silenced Whispers | 19.00% | ~26,464 |
+| Sharpened Vessel | 16.00% | ~22,286 |
+| Yank | 15.00% | ~20,893 |
+| Feast | 12.00% | ~16,714 |
+| Scion | 11.00% | ~15,276 |
+| Jawcrab | 11.00% | ~15,321 |
+| Jawstag | 11.00% | ~15,321 |
+| Watcher | 10.00% | ~13,929 |
+| Shapely | 8.00% | ~11,143 |
+| Glare | 8.00% | ~11,110 |
+| Predator | 8.00% | ~11,143 |
 | Assimilation | 6.00% | ~8,357 |
 | Host | 6.00% | ~8,332 |
 | Celebration | 6.00% | ~8,357 |
@@ -33,11 +33,11 @@ Number of Ratings: 46  (23.09.2022)
 | Inevitable | 4.00% | ~5,571 |
 | Breathsmith | 4.00% | ~5,571 |
 | Unwrap the Gift | 4.00% | ~5,571 |
-| Dream | 4.00% | ~5,554 |
-| Breath | 3.00% | ~4,178 |
-| All-Seeing | 3.00% | ~4,178 |
-| Passage | 3.00% | ~4,178 |
-| Proportions | 3.00% | ~4,178 |
+| Dream | 4.00% | ~5,555 |
+| Breath | 3.00% | ~4,179 |
+| All-Seeing | 3.00% | ~4,179 |
+| Passage | 3.00% | ~4,179 |
+| Proportions | 3.00% | ~4,179 |
 | Bloodhunter | 2.00% | ~2,786 |
 | Zygote | 2.00% | ~2,777 |
 | Kinship | 2.00% | ~2,786 |
@@ -49,7 +49,7 @@ Number of Ratings: 46  (23.09.2022)
 | Instruments | 0.70% | ~975 |
 | Spiral Heart | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139,276 (Ranked 64)  
+Progressed: 139,286 (Ranked 64)  
 Completed: 1 (0.00%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 1 (0.00%) (Ranked 259)
 | 2023-08-15 | 138,364 | 1 |
 | 2023-08-16 | 138,779 | 1 |
 | 2023-08-17 | 139,141 | 1 |
-| 2023-08-18 | 139,276 | 1 |
+| 2023-08-18 | 139,286 | 1 |
 ## Awards
 Max (Challenging Combat): 25  (Ranked 481)  
 Sum: 71 (Ranked 435)  

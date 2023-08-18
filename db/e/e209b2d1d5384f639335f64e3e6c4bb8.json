@@ -2,9 +2,9 @@
   "ID": "e209b2d1d5384f639335f64e3e6c4bb8",
   "Name": "Homeworld: Deserts of Kharak",
   "ProductSlug": "homeworld-deserts-of-kharak",
-  "Ranking_EOS_Progress": 410,
+  "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-08-24T15:00:00+00:00",
@@ -17,9 +17,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 20,
+  "EOS_Progressed": 21,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -56,6 +56,11 @@
     {
       "Time": "2023-08-17T04:04:40.203024+00:00",
       "NumProgressed": 20,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-18T09:04:45.5678855+00:00",
+      "NumProgressed": 21,
       "NumCompleted": 0
     }
   ],
@@ -195,7 +200,7 @@
       "ID": "ACHV_MP_1V1_TIER_LV_1",
       "SetID": "2l5j4fd",
       "Name": "Multiplayer: 1v1 - Bronze",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 20,
       "UsersEstimate": 6
     },
@@ -211,7 +216,7 @@
       "ID": "ACHV_MP_3V3_TIER_LV_1",
       "SetID": "2l5j4fd",
       "Name": "Multiplayer: 3v3 - Bronze",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -267,7 +272,7 @@
       "ID": "ACHV_MP_C_ANNIHILATION_GAALSI_10",
       "SetID": "2l5j4fd",
       "Name": "Multiplayer: Carrier Annihilation Gaalsien",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -452,19 +457,19 @@
     {
       "ID": "2l5j4fd",
       "IsBase": true,
-      "Progressed": 20,
+      "Progressed": 21,
       "Completed": 0
     },
     {
       "ID": "a9dj9gi",
       "IsBase": false,
-      "Progressed": 9,
+      "Progressed": 10,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-01T13:08:41.5079141+00:00",
-  "LastChanged_Achievements": "2023-08-18T08:04:50.2258488+00:00",
+  "LastChanged_Achievements": "2023-08-18T09:04:45.567885+00:00",
   "LastUpdate_AppInfo": "2023-08-17T14:57:09.1245406+00:00",
-  "LastUpdate_Ratings": "2023-08-18T07:58:11.6176591+00:00",
-  "LastUpdate_Achievements": "2023-08-18T08:04:50.225883+00:00"
+  "LastUpdate_Ratings": "2023-08-18T08:58:15.4818577+00:00",
+  "LastUpdate_Achievements": "2023-08-18T09:04:45.5679157+00:00"
 }

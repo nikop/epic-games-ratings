@@ -640,18 +640,24 @@
       "Rating": 4.58,
       "NumberOfAwards": 207,
       "NumberOfAwardsMax": 166
+    },
+    {
+      "Time": "2023-08-18T09:01:01.9370601+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 209,
+      "NumberOfAwardsMax": 168
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 207,
-  "NumberOfAwardsMax": 166,
+  "NumberOfAwards": 209,
+  "NumberOfAwardsMax": 168,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 166
+      "Count": 168
     },
     {
       "Text": "This game is Relaxing",
@@ -666,9 +672,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 213909,
+  "EOS_Progressed": 213919,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3758,
+  "EOS_NewPlayers": 3740,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7361,6 +7367,11 @@
       "Time": "2023-08-18T08:05:54.1275535+00:00",
       "NumProgressed": 213909,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-18T09:05:42.1050007+00:00",
+      "NumProgressed": 213919,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -7404,7 +7415,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1283
+      "UsersEstimate": 1284
     },
     {
       "ID": "BookCollection",
@@ -7442,9 +7453,9 @@
       "ID": "Chapter4",
       "SetID": "50chcgj",
       "Name": "The demons\u0027 feast",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 856
+      "UsersEstimate": 1070
     },
     {
       "ID": "Chapter5",
@@ -7820,7 +7831,7 @@
       "Name": "Sowwy!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 38504
+      "UsersEstimate": 38505
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -7874,9 +7885,9 @@
       "ID": "FollowBraztok",
       "SetID": "50chcgj",
       "Name": "The beards of change",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 642
+      "UsersEstimate": 856
     },
     {
       "ID": "FollowNarzatok",
@@ -8026,9 +8037,9 @@
       "ID": "SupportCount4",
       "SetID": "50chcgj",
       "Name": "Team Building Exercise",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 856
+      "UsersEstimate": 1070
     },
     {
       "ID": "SystematicallyStupid",
@@ -8075,21 +8086,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 213909,
+      "Progressed": 213919,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 213909,
+      "Progressed": 213919,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
-  "LastChanged": "2023-08-17T18:00:52.3354753+00:00",
-  "LastChanged_Achievements": "2023-08-18T08:05:54.1275532+00:00",
+  "LastChanged": "2023-08-18T09:01:01.93706+00:00",
+  "LastChanged_Achievements": "2023-08-18T09:05:42.1050002+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:49.6773731+00:00",
-  "LastUpdate_Ratings": "2023-08-18T08:01:28.687151+00:00",
-  "LastUpdate_Achievements": "2023-08-18T08:05:54.1276654+00:00"
+  "LastUpdate_Ratings": "2023-08-18T09:01:01.9370604+00:00",
+  "LastUpdate_Achievements": "2023-08-18T09:05:42.1051141+00:00"
 }

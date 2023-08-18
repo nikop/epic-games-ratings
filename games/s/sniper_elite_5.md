@@ -5,7 +5,7 @@ Rating: 4.44 (Ranked 647)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 45.00% | ~1,571 |
+| Meeting Resistance | 46.00% | ~1,606 |
 | Confirming Suspicions | 40.00% | ~1,397 |
 | The Kraken Wakes | 35.00% | ~1,222 |
 | It's Starting to Crack | 32.00% | ~1,117 |
@@ -27,12 +27,12 @@ Rating: 4.44 (Ranked 647)
 | Close Quarters | 15.00% | ~524 |
 | Snake in the Grass | 14.00% | ~489 |
 | Brains of the Operation | 14.00% | ~489 |
+| No Stone Unturned | 13.00% | ~454 |
 | Opposing Force | 13.00% | ~454 |
 | Enemy at the Gates | 13.00% | ~454 |
 | Fields of Glory | 13.00% | ~454 |
 | Skirmisher | 13.00% | ~454 |
 | Die Nussknacker Sweet! | 13.00% | ~454 |
-| No Stone Unturned | 12.00% | ~419 |
 | Set Europe Ablaze | 12.00% | ~419 |
 | Precision Is Key | 9.00% | ~314 |
 | My Little Friend | 9.00% | ~314 |

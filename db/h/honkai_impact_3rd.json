@@ -2,12 +2,12 @@
   "ID": "d2d162953fec40e381867d7af8371362",
   "Name": "Honkai Impact 3rd",
   "ProductSlug": "honkai-impact-3rd",
-  "Ranking_Rating": 542,
+  "Ranking_Rating": 543,
   "Ranking_Popularity": 96,
   "Ranking_PopularitySum": 87,
   "Ranking_EOS_Progress": 547,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewPlayers": 353,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-10-27T06:00:00+00:00",
@@ -5288,10 +5288,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 9473,
       "NumberOfAwardsMax": 2656
+    },
+    {
+      "Time": "2023-08-18T09:00:24.6857087+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 9474,
+      "NumberOfAwardsMax": 2656
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9473,
+  "NumberOfAwards": 9474,
   "NumberOfAwardsMax": 2656,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5329,7 +5335,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 451
+      "Count": 452
     },
     {
       "Text": "This game has Challenging Combat",
@@ -5392,8 +5398,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-27T11:30:26.4233372+00:00",
   "FirstSeenRating": "2022-10-28T11:32:15.7744841+00:00",
-  "LastChanged": "2023-08-18T08:00:41.6549146+00:00",
+  "LastChanged": "2023-08-18T09:00:24.6857083+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:12.8888602+00:00",
-  "LastUpdate_Ratings": "2023-08-18T08:00:41.6549151+00:00",
-  "LastUpdate_Achievements": "2023-08-18T08:04:55.2143423+00:00"
+  "LastUpdate_Ratings": "2023-08-18T09:00:24.6857099+00:00",
+  "LastUpdate_Achievements": "2023-08-18T09:04:49.8133232+00:00"
 }

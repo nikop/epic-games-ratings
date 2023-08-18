@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 308,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -4207,9 +4207,9 @@
       "ID": "ACH_LINES-FOR-DAYS",
       "SetID": "72olkc5",
       "Name": "Lines for days",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 137
     },
     {
       "ID": "ACH_LOVES-YOU-BACK",
@@ -4431,8 +4431,8 @@
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-08-12T21:02:33.3554881+00:00",
-  "LastChanged_Achievements": "2023-08-18T08:04:44.9454873+00:00",
+  "LastChanged_Achievements": "2023-08-18T09:04:40.8778537+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:55.5592566+00:00",
-  "LastUpdate_Ratings": "2023-08-18T08:01:30.6992988+00:00",
-  "LastUpdate_Achievements": "2023-08-18T08:04:44.9455317+00:00"
+  "LastUpdate_Ratings": "2023-08-18T09:01:03.9120781+00:00",
+  "LastUpdate_Achievements": "2023-08-18T09:04:40.8778993+00:00"
 }

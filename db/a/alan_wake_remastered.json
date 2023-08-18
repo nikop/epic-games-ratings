@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 61039,
+  "EOS_Progressed": 61041,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 374,
+  "EOS_NewPlayers": 376,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11602,6 +11602,11 @@
       "Time": "2023-08-18T08:06:50.7349488+00:00",
       "NumProgressed": 61039,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-18T09:06:33.2422023+00:00",
+      "NumProgressed": 61041,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -11613,7 +11618,7 @@
       "Name": "Follow the Light",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 22584
+      "UsersEstimate": 22585
     },
     {
       "ID": "02",
@@ -11653,7 +11658,7 @@
       "Name": "Park Ranger",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 9766
+      "UsersEstimate": 9767
     },
     {
       "ID": "07",
@@ -11701,7 +11706,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6714
+      "UsersEstimate": 6715
     },
     {
       "ID": "13",
@@ -11797,7 +11802,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6714
+      "UsersEstimate": 6715
     },
     {
       "ID": "25",
@@ -11813,7 +11818,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6714
+      "UsersEstimate": 6715
     },
     {
       "ID": "27",
@@ -11837,7 +11842,7 @@
       "Name": "Sound and Fury",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 8545
+      "UsersEstimate": 8546
     },
     {
       "ID": "30",
@@ -11861,7 +11866,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 17701
+      "UsersEstimate": 17702
     },
     {
       "ID": "33",
@@ -11869,7 +11874,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 8545
+      "UsersEstimate": 8546
     },
     {
       "ID": "34",
@@ -11973,7 +11978,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 8545
+      "UsersEstimate": 8546
     },
     {
       "ID": "47",
@@ -12021,7 +12026,7 @@
       "Name": "A Friend Indeed",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1470
+      "UsersEstimate": 1471
     },
     {
       "ID": "53",
@@ -12148,21 +12153,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 61039,
+      "Progressed": 61041,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 24507,
+      "Progressed": 24509,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-18T08:06:50.7349483+00:00",
+  "LastChanged_Achievements": "2023-08-18T09:06:33.2422019+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:20.2881971+00:00",
-  "LastUpdate_Ratings": "2023-08-18T07:59:43.71461+00:00",
-  "LastUpdate_Achievements": "2023-08-18T08:06:50.7350512+00:00"
+  "LastUpdate_Ratings": "2023-08-18T08:59:35.764832+00:00",
+  "LastUpdate_Achievements": "2023-08-18T09:06:33.2423035+00:00"
 }

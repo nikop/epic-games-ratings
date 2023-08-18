@@ -6,17 +6,17 @@ Number of Ratings: 429  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 79.00% | ~5,054 |
-| Worker Specialization | 78.00% | ~4,990 |
+| Colonize a Planet | 79.00% | ~5,055 |
+| Worker Specialization | 78.00% | ~4,991 |
 | First Contact | 73.00% | ~4,671 |
 | Win a Battle | 67.00% | ~4,287 |
 | Anomaly Researcher | 63.00% | ~4,031 |
 | Unleash My Power | 62.00% | ~3,967 |
-| Own 30 Planets | 34.00% | ~2,175 |
-| Xenocide | 32.00% | ~2,047 |
-| Commodity Trader | 31.00% | ~1,983 |
-| Design a Civilization | 31.00% | ~1,983 |
-| Design a Ship | 28.00% | ~1,791 |
+| Own 30 Planets | 34.00% | ~2,176 |
+| Xenocide | 32.00% | ~2,048 |
+| Commodity Trader | 31.00% | ~1,984 |
+| Design a Civilization | 31.00% | ~1,984 |
+| Design a Ship | 28.00% | ~1,792 |
 | Commodity Seller | 25.00% | ~1,600 |
 | Prestige Victory! | 14.00% | ~896 |
 | Galactic War | 11.00% | ~704 |
@@ -39,9 +39,9 @@ Number of Ratings: 429  (23.09.2022)
 | Win as the Baratak | 1.00% | ~64 |
 | Win as Festron | 1.00% | ~64 |
 | Win as the Navigators | 0.90% | ~58 |
+| Win as Torians | 0.90% | ~58 |
 | Win as the Drengin | 0.80% | ~51 |
 | Win as the Krynn | 0.80% | ~51 |
-| Win as Torians | 0.80% | ~51 |
 | Win as Xeloxi | 0.80% | ~51 |
 | Win as the Drath | 0.70% | ~45 |
 | Win as the Manti | 0.70% | ~45 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,398 (Ranked 136)  
+Progressed: 6,399 (Ranked 136)  
 Completed: 0 (0.00%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,7 +199,7 @@ Completed: 0 (0.00%) (Ranked 259)
 | 2023-08-15 | 6,375 | 0 |
 | 2023-08-16 | 6,382 | 0 |
 | 2023-08-17 | 6,394 | 0 |
-| 2023-08-18 | 6,398 | 0 |
+| 2023-08-18 | 6,399 | 0 |
 ## Awards
 Max (Diverse Characters): 93  (Ranked 347)  
 Sum: 674 (Ranked 281)  

@@ -23,6 +23,7 @@ Number of Ratings: 37  (23.09.2022)
 | Full-time job I | 6.00% | ~255 |
 | Knee deep in snow | 6.00% | ~255 |
 | Not a small trader anymore | 5.00% | ~212 |
+| Builder II | 5.00% | ~212 |
 | Full-time job II | 5.00% | ~212 |
 | Tax-man III | 5.00% | ~212 |
 | A time consuming game II | 5.00% | ~212 |
@@ -30,7 +31,6 @@ Number of Ratings: 37  (23.09.2022)
 | Bread for the people II | 4.00% | ~170 |
 | I like to build stuff... III | 4.00% | ~170 |
 | The King's new clothes I | 4.00% | ~170 |
-| Builder II | 4.00% | ~170 |
 | An honorable Governor II | 4.00% | ~170 |
 | Tax-man IV | 4.00% | ~170 |
 | A time consuming game III | 4.00% | ~170 |
@@ -40,6 +40,7 @@ Number of Ratings: 37  (23.09.2022)
 | I like to build stuff... IV | 3.00% | ~127 |
 | The King's new clothes II | 3.00% | ~127 |
 | Experienced decorator | 3.00% | ~127 |
+| Saint Florian | 3.00% | ~127 |
 | My precious... I | 3.00% | ~127 |
 | Cosmas and Damian | 3.00% | ~127 |
 | Full-time job III | 3.00% | ~127 |
@@ -48,7 +49,6 @@ Number of Ratings: 37  (23.09.2022)
 | Five brews are a schnitzel | 2.00% | ~85 |
 | I like to build stuff... V | 2.00% | ~85 |
 | The King's new clothes III | 2.00% | ~85 |
-| Saint Florian | 2.00% | ~85 |
 | My precious... II | 2.00% | ~85 |
 | Builder III | 2.00% | ~85 |
 | Completionist II | 2.00% | ~85 |

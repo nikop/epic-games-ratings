@@ -4,7 +4,7 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 60,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1187,
+  "EOS_Progressed": 1188,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 4.04,
   "EosHistory": [
@@ -2066,6 +2066,11 @@
       "Time": "2023-08-16T10:03:15.536996+00:00",
       "NumProgressed": 1187,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-08-18T09:03:51.240594+00:00",
+      "NumProgressed": 1188,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 16,
@@ -2085,7 +2090,7 @@
       "Name": "Deep Listener",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "ACH_DREAMLISTENER",
@@ -2133,7 +2138,7 @@
       "Name": "Home Leaver",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 973
+      "UsersEstimate": 974
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -2141,7 +2146,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 973
+      "UsersEstimate": 974
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -2204,7 +2209,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1187,
+      "Progressed": 1188,
       "Completed": 48
     }
   ],
@@ -2212,8 +2217,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-08-18T08:03:38.3616048+00:00",
+  "LastChanged_Achievements": "2023-08-18T09:03:51.2405935+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:18.2482587+00:00",
-  "LastUpdate_Ratings": "2023-08-18T08:00:48.2399304+00:00",
-  "LastUpdate_Achievements": "2023-08-18T08:03:38.3616252+00:00"
+  "LastUpdate_Ratings": "2023-08-18T09:00:30.8829018+00:00",
+  "LastUpdate_Achievements": "2023-08-18T09:03:51.2406137+00:00"
 }

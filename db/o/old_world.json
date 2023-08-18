@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 206,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -1611,9 +1611,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13449,
+  "EOS_Progressed": 13450,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -9816,6 +9816,11 @@
       "Time": "2023-08-18T07:06:20.2365424+00:00",
       "NumProgressed": 13449,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-18T09:05:55.1038719+00:00",
+      "NumProgressed": 13450,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -10259,7 +10264,7 @@
       "Name": "Explorer",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_FOUNTAINHEAD",
@@ -10451,7 +10456,7 @@
       "Name": "Settler",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
@@ -11579,7 +11584,7 @@
       "Name": "Play a Single Player Game",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "ACHIEVEMENT_POWER_TO_THE_PEOPLE",
@@ -12194,21 +12199,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13449,
+      "Progressed": 13450,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13449,
+      "Progressed": 13450,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-16T15:59:34.3416467+00:00",
-  "LastChanged_Achievements": "2023-08-18T08:06:08.1328179+00:00",
+  "LastChanged_Achievements": "2023-08-18T09:05:55.1038714+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:38.1291138+00:00",
-  "LastUpdate_Ratings": "2023-08-18T08:00:04.3939213+00:00",
-  "LastUpdate_Achievements": "2023-08-18T08:06:08.1335794+00:00"
+  "LastUpdate_Ratings": "2023-08-18T08:59:53.0612784+00:00",
+  "LastUpdate_Achievements": "2023-08-18T09:05:55.1046198+00:00"
 }

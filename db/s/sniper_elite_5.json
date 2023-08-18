@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -6078,9 +6078,9 @@
       "ID": "REWARD_13_OPTIONAL_TASK",
       "SetID": "bm6el81",
       "Name": "No Stone Unturned",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 419
+      "UsersEstimate": 454
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -6134,9 +6134,9 @@
       "ID": "REWARD_1_MEETING_RESISTANCE",
       "SetID": "bm6el81",
       "Name": "Meeting Resistance",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1571
+      "UsersEstimate": 1606
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -6637,8 +6637,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-08-17T21:58:16.5576579+00:00",
-  "LastChanged_Achievements": "2023-08-18T08:04:40.0673363+00:00",
+  "LastChanged_Achievements": "2023-08-18T09:04:36.6446019+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:04.4888171+00:00",
-  "LastUpdate_Ratings": "2023-08-18T07:58:34.4370495+00:00",
-  "LastUpdate_Achievements": "2023-08-18T08:04:40.067419+00:00"
+  "LastUpdate_Ratings": "2023-08-18T08:58:34.9496076+00:00",
+  "LastUpdate_Achievements": "2023-08-18T09:04:36.6446819+00:00"
 }
