@@ -2,13 +2,13 @@
   "ID": "4966d5da285c4f2c876937844b0e23ee",
   "Name": "Rogue Legacy 2",
   "ProductSlug": "rogue-legacy-2",
-  "Ranking_Rating": 43,
+  "Ranking_Rating": 42,
   "Ranking_Popularity": 263,
   "Ranking_PopularitySum": 209,
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1377,9 +1377,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 22909,
+  "EOS_Progressed": 22910,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -6947,6 +6947,11 @@
       "Time": "2023-08-18T14:05:01.2651823+00:00",
       "NumProgressed": 22909,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-08-18T15:06:51.9084923+00:00",
+      "NumProgressed": 22910,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -7028,9 +7033,9 @@
       "ID": "BossCastleAdvancedDefeated",
       "SetID": "3ojhj46",
       "Name": "For Glory",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 137
+      "UsersEstimate": 115
     },
     {
       "ID": "BossCastleDefeated",
@@ -7269,21 +7274,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 22909,
+      "Progressed": 22910,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 1839,
+      "Progressed": 1840,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-08-16T23:01:14.2964517+00:00",
-  "LastChanged_Achievements": "2023-08-18T14:05:01.2651816+00:00",
+  "LastChanged_Achievements": "2023-08-18T15:06:51.9084917+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:59.4184193+00:00",
-  "LastUpdate_Ratings": "2023-08-18T14:00:20.6675457+00:00",
-  "LastUpdate_Achievements": "2023-08-18T14:05:01.2652523+00:00"
+  "LastUpdate_Ratings": "2023-08-18T15:02:14.1346125+00:00",
+  "LastUpdate_Achievements": "2023-08-18T15:06:51.9086035+00:00"
 }

@@ -13,10 +13,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | Disintermediation | 0.80% | ~1,078 |
 | It's Free Real Estate | 0.80% | ~1,078 |
 | Capitalism Ho! | 0.80% | ~1,078 |
+| Another Satisfied Customer | 0.70% | ~943 |
 | Budding Merchant | 0.70% | ~943 |
 | One Easy Payment | 0.60% | ~808 |
 | Some Assembly Required | 0.60% | ~808 |
-| Another Satisfied Customer | 0.60% | ~808 |
 | Pretty Penny | 0.60% | ~808 |
 | Own the Means of Production | 0.60% | ~808 |
 | The Daily Grind | 0.50% | ~674 |
@@ -37,9 +37,11 @@ Number of Ratings: 12,664  (23.09.2022)
 | Tax not Included | 0.30% | ~404 |
 | Research & Development | 0.30% | ~404 |
 | Vanity, Verily | 0.30% | ~404 |
+| Big Game Hunting | 0.30% | ~404 |
 | Fated Encounters | 0.30% | ~404 |
 | For the Hoard! | 0.30% | ~404 |
 | Master of Transmutation | 0.30% | ~404 |
+| Hidden Potential | 0.30% | ~404 |
 | Power of Love | 0.30% | ~404 |
 | Efficient Floor Space | 0.30% | ~404 |
 | Flawless Fusion | 0.30% | ~404 |
@@ -58,7 +60,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | A Ronin Reborn | 0.20% | ~269 |
 | The King's Caprice | 0.20% | ~269 |
 | Thirst for Knowledge | 0.20% | ~269 |
-| Big Game Hunting | 0.20% | ~269 |
 | Booty by the Boatload | 0.20% | ~269 |
 | Scrapbooker | 0.20% | ~269 |
 | Archivist | 0.20% | ~269 |
@@ -68,7 +69,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Industrial Evolution | 0.20% | ~269 |
 | This Power Level...! | 0.20% | ~269 |
 | Omae wa Mou Shindeiru | 0.20% | ~269 |
-| Hidden Potential | 0.20% | ~269 |
 | Supercharged | 0.20% | ~269 |
 | Expansion in Session | 0.20% | ~269 |
 | Ritualist | 0.20% | ~269 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.10% | ~135 |
 | All Accounted For | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,712 (Ranked 66)  
+Progressed: 134,714 (Ranked 66)  
 Completed: 133 (0.10%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,7 +239,7 @@ Completed: 133 (0.10%) (Ranked 205)
 | 2023-08-15 | 134,574 | 132 |
 | 2023-08-16 | 134,622 | 133 |
 | 2023-08-17 | 134,688 | 133 |
-| 2023-08-18 | 134,712 | 133 |
+| 2023-08-18 | 134,714 | 133 |
 ## Awards
 Max (Great for Beginners): 4,704  (Ranked 71)  
 Sum: 27,110 (Ranked 46)  

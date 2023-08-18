@@ -1,7 +1,7 @@
 # Rogue Legacy 2
 [Store](https://store.epicgames.com/en-US/p/rogue-legacy-2)  
 [View Rawdata](../../db/r/rogue_legacy_2.json)  
-Rating: 4.85 (Ranked 43)  
+Rating: 4.85 (Ranked 42)  
 Number of Ratings: 1,331  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -16,9 +16,9 @@ Number of Ratings: 1,331  (23.09.2022)
 | No Harm in Looking | 1.00% | ~229 |
 | King and Kin | 0.90% | ~206 |
 | Prequel to the Sequel | 0.90% | ~206 |
-| For Glory | 0.60% | ~137 |
 | Truly Blessed | 0.50% | ~115 |
 | Looks Familiar | 0.50% | ~115 |
+| For Glory | 0.50% | ~115 |
 | Pillow Investments | 0.40% | ~92 |
 | For Justice | 0.40% | ~92 |
 | Good Boy! | 0.40% | ~92 |
@@ -46,7 +46,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Thanatwophobia | 0.00% | ~0 |
 | Rogue Rogue Legacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,909 (Ranked 103)  
+Progressed: 22,910 (Ranked 103)  
 Completed: 35 (0.15%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 35 (0.15%) (Ranked 196)
 | 2023-08-15 | 22,888 | 35 |
 | 2023-08-16 | 22,895 | 35 |
 | 2023-08-17 | 22,905 | 35 |
-| 2023-08-18 | 22,909 | 35 |
+| 2023-08-18 | 22,910 | 35 |
 ## Awards
 Max (Extremely Fun): 220  (Ranked 263)  
 Sum: 1,682 (Ranked 209)  

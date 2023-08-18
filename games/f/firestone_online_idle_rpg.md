@@ -31,13 +31,13 @@ Rating: 4.05 (Ranked 922)
 | Doing My Part | 11.00% | ~200 |
 | Hunter | 11.00% | ~200 |
 | Mastery | 11.00% | ~200 |
+| Relic Of The Past | 11.00% | ~200 |
 | The power of Awakening | 11.00% | ~200 |
 | Challenger | 10.00% | ~182 |
 | Daily Quest Completionist | 10.00% | ~182 |
 | Four Leaf Clover | 10.00% | ~182 |
 | Frostfire Liberator | 10.00% | ~182 |
 | Moving Up The Ladder | 10.00% | ~182 |
-| Relic Of The Past | 10.00% | ~182 |
 | Scroll Master | 10.00% | ~182 |
 | Here We Go Again | 9.00% | ~164 |
 | Master Enchanter | 9.00% | ~164 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 922)
 | Silverwood liberator | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,818 (Ranked 172)  
+Progressed: 1,818 (Ranked 173)  
 Completed: 2 (0.11%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -5650,9 +5650,9 @@
       "Count": 3735
     }
   ],
-  "EOS_Progressed": 134712,
+  "EOS_Progressed": 134714,
   "EOS_Completed": 133,
-  "EOS_NewPlayers": 383,
+  "EOS_NewPlayers": 382,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -17925,6 +17925,11 @@
       "Time": "2023-08-18T14:05:20.8314889+00:00",
       "NumProgressed": 134712,
       "NumCompleted": 133
+    },
+    {
+      "Time": "2023-08-18T15:07:19.6080015+00:00",
+      "NumProgressed": 134714,
+      "NumCompleted": 133
     }
   ],
   "TotalAchievements": 112,
@@ -18078,9 +18083,9 @@
       "ID": "boss02",
       "SetID": "anfd17p",
       "Name": "Big Game Hunting",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 269
+      "UsersEstimate": 404
     },
     {
       "ID": "boss03",
@@ -18270,9 +18275,9 @@
       "ID": "enchant01",
       "SetID": "anfd17p",
       "Name": "Hidden Potential",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 269
+      "UsersEstimate": 404
     },
     {
       "ID": "enchant02",
@@ -18286,9 +18291,9 @@
       "ID": "energy01",
       "SetID": "anfd17p",
       "Name": "Another Satisfied Customer",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 808
+      "UsersEstimate": 943
     },
     {
       "ID": "energy02",
@@ -18831,15 +18836,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 134712,
+      "Progressed": 134714,
       "Completed": 133
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-08-18T01:38:04.3174786+00:00",
-  "LastChanged_Achievements": "2023-08-18T14:05:20.8314879+00:00",
+  "LastChanged_Achievements": "2023-08-18T15:07:19.6080008+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:13.9096409+00:00",
-  "LastUpdate_Ratings": "2023-08-18T13:59:43.1123368+00:00",
-  "LastUpdate_Achievements": "2023-08-18T14:05:20.8317287+00:00"
+  "LastUpdate_Ratings": "2023-08-18T15:01:16.545333+00:00",
+  "LastUpdate_Achievements": "2023-08-18T15:07:19.6082443+00:00"
 }

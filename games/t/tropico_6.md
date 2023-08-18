@@ -6,21 +6,21 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 76.00% | ~3,627 |
-| Un-Lonely Island | 47.00% | ~2,243 |
+| Just One...More...Term... | 76.00% | ~3,629 |
+| Un-Lonely Island | 47.00% | ~2,244 |
 | The Beginning of a Servantship | 46.00% | ~2,196 |
-| Trade Is My Trait | 37.00% | ~1,766 |
+| Trade Is My Trait | 37.00% | ~1,767 |
 | Number 18 | 24.00% | ~1,146 |
 | We Don't Have Time For That | 19.00% | ~907 |
-| The Governator | 18.00% | ~859 |
-| The Legend of Langostino | 17.00% | ~811 |
+| The Governator | 18.00% | ~860 |
+| The Legend of Langostino | 17.00% | ~812 |
 | Caribbean Comrade | 16.00% | ~764 |
 | The Dreamer of Dreams | 16.00% | ~764 |
 | Go Sovereigns! | 11.00% | ~525 |
 | For Science! | 11.00% | ~525 |
-| Happy Ending? | 10.00% | ~477 |
-| Of Seals And Men | 10.00% | ~477 |
-| Shackadelic | 10.00% | ~477 |
+| Happy Ending? | 10.00% | ~478 |
+| Of Seals And Men | 10.00% | ~478 |
+| Shackadelic | 10.00% | ~478 |
 | Double Trouble | 8.00% | ~382 |
 | Firestarter | 8.00% | ~382 |
 | Make Tropico Great Again! | 8.00% | ~382 |
@@ -37,17 +37,17 @@ Number of Ratings: 398  (23.09.2022)
 | Narcissist | 3.00% | ~143 |
 | Promising Endeavors | 3.00% | ~143 |
 | The Time For Wonders | 3.00% | ~143 |
-| Chain Gang | 2.00% | ~95 |
-| One Does Not Simply Stage A Coup | 2.00% | ~95 |
-| Sublime Subliminal Supreme | 2.00% | ~95 |
-| Terraformer | 2.00% | ~95 |
-| Curse of the Mummy | 2.00% | ~95 |
+| Chain Gang | 2.00% | ~96 |
+| One Does Not Simply Stage A Coup | 2.00% | ~96 |
+| Sublime Subliminal Supreme | 2.00% | ~96 |
+| Terraformer | 2.00% | ~96 |
+| Curse of the Mummy | 2.00% | ~96 |
 | From Knight to Little Duck | 1.00% | ~48 |
 | Teamplayer | 1.00% | ~48 |
 | Survivor | 0.90% | ~43 |
 | My Ways | 0.30% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,773 (Ranked 145)  
+Progressed: 4,775 (Ranked 145)  
 Completed: 2 (0.04%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,7 +167,7 @@ Completed: 2 (0.04%) (Ranked 229)
 | 2023-08-15 | 4,747 | 2 |
 | 2023-08-16 | 4,756 | 2 |
 | 2023-08-17 | 4,769 | 2 |
-| 2023-08-18 | 4,773 | 2 |
+| 2023-08-18 | 4,775 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 97  (Ranked 339)  
 Sum: 676 (Ranked 280)  

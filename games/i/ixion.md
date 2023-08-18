@@ -6,7 +6,7 @@ Rating: 4.56 (Ranked 472)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 26.00% | ~801 |
-| Sputnik 2049 | 22.00% | ~677 |
+| Sputnik 2049 | 22.00% | ~678 |
 | Infinite Growth... | 21.00% | ~647 |
 | Without Breaking Some Eggs... | 20.00% | ~616 |
 | Space Society | 15.00% | ~462 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 472)
 | Beyond Time and Space | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,079 (Ranked 159)  
+Progressed: 3,080 (Ranked 159)  
 Completed: 0 (0.00%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,6 +182,7 @@ Completed: 0 (0.00%) (Ranked 259)
 | 2023-08-15 | 3,071 | 0 |
 | 2023-08-16 | 3,075 | 0 |
 | 2023-08-17 | 3,079 | 0 |
+| 2023-08-18 | 3,080 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

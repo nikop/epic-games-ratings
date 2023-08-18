@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 22,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -672,9 +672,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 213995,
+  "EOS_Progressed": 214022,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3711,
+  "EOS_NewPlayers": 3705,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7397,6 +7397,11 @@
       "Time": "2023-08-18T14:04:43.7953719+00:00",
       "NumProgressed": 213995,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-18T15:06:26.9608983+00:00",
+      "NumProgressed": 214022,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -7558,9 +7563,9 @@
       "ID": "CompanionPriestress",
       "SetID": "50chcgj",
       "Name": "The Woman in the High Castle",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 856
+      "UsersEstimate": 1070
     },
     {
       "ID": "DLC1ChooseNecro",
@@ -7856,7 +7861,7 @@
       "Name": "Sowwy!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 38519
+      "UsersEstimate": 38524
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -8111,21 +8116,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 213995,
+      "Progressed": 214022,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 213995,
+      "Progressed": 214022,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-18T09:01:01.93706+00:00",
-  "LastChanged_Achievements": "2023-08-18T14:04:43.795371+00:00",
+  "LastChanged_Achievements": "2023-08-18T15:06:26.9608961+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:49.6773731+00:00",
-  "LastUpdate_Ratings": "2023-08-18T14:00:15.7713966+00:00",
-  "LastUpdate_Achievements": "2023-08-18T14:04:43.7955118+00:00"
+  "LastUpdate_Ratings": "2023-08-18T15:02:05.5891941+00:00",
+  "LastUpdate_Achievements": "2023-08-18T15:06:26.9610628+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -6450,10 +6450,10 @@
       "Count": 596
     }
   ],
-  "EOS_Progressed": 290323,
+  "EOS_Progressed": 290326,
   "EOS_Completed": 452,
-  "EOS_NewPlayers": 494,
-  "EOS_NewCompleters": 5,
+  "EOS_NewPlayers": 495,
+  "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
     {
@@ -19370,6 +19370,11 @@
       "Time": "2023-08-18T14:05:49.7993674+00:00",
       "NumProgressed": 290323,
       "NumCompleted": 452
+    },
+    {
+      "Time": "2023-08-18T15:08:00.5874834+00:00",
+      "NumProgressed": 290326,
+      "NumCompleted": 452
     }
   ],
   "TotalAchievements": 45,
@@ -19477,7 +19482,7 @@
       "Name": "The Good Samaritan",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 5806
+      "UsersEstimate": 5807
     },
     {
       "ID": "PFA_21",
@@ -19501,7 +19506,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 29032
+      "UsersEstimate": 29033
     },
     {
       "ID": "PFA_24",
@@ -19541,7 +19546,7 @@
       "Name": "Put Down Roots",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 5806
+      "UsersEstimate": 5807
     },
     {
       "ID": "PFA_29",
@@ -19557,7 +19562,7 @@
       "Name": "The Auror\u0027s Apprentice",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5806
+      "UsersEstimate": 5807
     },
     {
       "ID": "PFA_30",
@@ -19613,7 +19618,7 @@
       "Name": "Rise to the Challenges",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 5806
+      "UsersEstimate": 5807
     },
     {
       "ID": "PFA_37",
@@ -19725,7 +19730,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 29032
+      "UsersEstimate": 29033
     },
     {
       "ID": "PFA_9",
@@ -19740,7 +19745,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 290323,
+      "Progressed": 290326,
       "Completed": 452
     }
   ],
@@ -19748,8 +19753,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-08-18T13:58:46.7729091+00:00",
-  "LastChanged_Achievements": "2023-08-18T14:05:49.7993665+00:00",
+  "LastChanged_Achievements": "2023-08-18T15:08:00.5874825+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:17.4814985+00:00",
-  "LastUpdate_Ratings": "2023-08-18T13:58:46.7729097+00:00",
-  "LastUpdate_Achievements": "2023-08-18T14:05:49.7994967+00:00"
+  "LastUpdate_Ratings": "2023-08-18T14:59:52.6126832+00:00",
+  "LastUpdate_Achievements": "2023-08-18T15:08:00.5876216+00:00"
 }

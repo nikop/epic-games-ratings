@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 18.00% | ~38,519 |
+| Sowwy! | 18.00% | ~38,524 |
 | Alt+F4 | 2.00% | ~4,280 |
 | Déjà vu | 1.00% | ~2,140 |
 | Where's that freaking Dwarf? | 1.00% | ~2,140 |
@@ -20,6 +20,7 @@ Number of Ratings: 118  (23.09.2022)
 | The plot thickens... At the tavern | 0.60% | ~1,284 |
 | Livin' in a dwarven paradise | 0.50% | ~1,070 |
 | The demons' feast | 0.50% | ~1,070 |
+| The Woman in the High Castle | 0.50% | ~1,070 |
 | %#*!$*! | 0.50% | ~1,070 |
 | Team Building Exercise | 0.50% | ~1,070 |
 | Oh, when I'll be level 10... | 0.50% | ~1,070 |
@@ -29,7 +30,6 @@ Number of Ratings: 118  (23.09.2022)
 | Urik's Depths | 0.40% | ~856 |
 | The Dungeon Master | 0.40% | ~856 |
 | The Statuette of Gladeulfeurah | 0.40% | ~856 |
-| The Woman in the High Castle | 0.40% | ~856 |
 | A tale of adventurers not quite like the others... | 0.40% | ~856 |
 | The beards of change | 0.40% | ~856 |
 | The Ranger of Chaos | 0.40% | ~856 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Staff cut | 0.00% | ~0 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 213,995 (Ranked 56)  
+Progressed: 214,022 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,7 +174,7 @@ Completed: 2 (0.00%) (Ranked 259)
 | 2023-08-15 | 212,897 | 2 |
 | 2023-08-16 | 213,341 | 2 |
 | 2023-08-17 | 213,783 | 2 |
-| 2023-08-18 | 213,995 | 2 |
+| 2023-08-18 | 214,022 | 2 |
 ## Awards
 Max (Character Customization): 168  (Ranked 289)  
 Sum: 209 (Ranked 366)  

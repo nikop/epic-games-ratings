@@ -25,12 +25,12 @@ Number of Ratings: 285  (23.09.2022)
 | On this Episode! | 1.00% | ~8 |
 | Season Finale | 1.00% | ~8 |
 | Spending Spree | 1.00% | ~8 |
-| The Fourth Gate | 0.90% | ~7 |
+| The Fourth Gate | 0.80% | ~7 |
 | We've Got a Kaiju on the Field | 0.10% | ~1 |
 | Deadalus and Loving It | 0.00% | ~0 |
 | Vexed Her | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 822 (Ranked 207)  
+Progressed: 825 (Ranked 207)  
 Completed: 0 (0.00%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,7 +64,7 @@ Completed: 0 (0.00%) (Ranked 259)
 | 2023-08-15 | 784 | 0 |
 | 2023-08-16 | 793 | 0 |
 | 2023-08-17 | 813 | 0 |
-| 2023-08-18 | 822 | 0 |
+| 2023-08-18 | 825 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 453)  
 Sum: 226 (Ranked 358)  
