@@ -11,8 +11,8 @@ Rating: 4.88 (Ranked 19)
 | Who put gears in there? | 9.00% | ~356 |
 | Cream of the Crop | 8.00% | ~316 |
 | Thanks for the free chip, Peppermint! | 8.00% | ~316 |
+| You got this, Peppermint? | 8.00% | ~316 |
 | I play my own way! | 7.00% | ~277 |
-| You got this, Peppermint? | 7.00% | ~277 |
 | Perfect Parry | 7.00% | ~277 |
 | Alright, that felt AWESOME! | 7.00% | ~277 |
 | This will cost you big time | 6.00% | ~237 |

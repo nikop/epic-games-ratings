@@ -4,8 +4,8 @@
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 101,
-  "Ranking_EOS_NewPlayers": 243,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
     "PcReleaseDate": "2020-11-17T18:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 510,
+  "EOS_Progressed": 511,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.57,
   "EosHistory": [
@@ -907,6 +907,11 @@
       "Time": "2023-08-15T17:08:03.6893414+00:00",
       "NumProgressed": 510,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-08-18T16:07:56.9244053+00:00",
+      "NumProgressed": 511,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 15,
@@ -918,7 +923,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "booty_call",
@@ -942,7 +947,7 @@
       "Name": "Digital Casanova",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "hold_my_beer",
@@ -998,7 +1003,7 @@
       "Name": "Only Thyme Will Tell",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "planting_the_seed",
@@ -1037,7 +1042,7 @@
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 510,
+      "Progressed": 511,
       "Completed": 8
     }
   ],
@@ -1045,8 +1050,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-08-18T15:08:56.5518369+00:00",
+  "LastChanged_Achievements": "2023-08-18T16:07:56.9244048+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:48.9733154+00:00",
-  "LastUpdate_Ratings": "2023-08-18T15:00:45.2389556+00:00",
-  "LastUpdate_Achievements": "2023-08-18T15:08:56.5518559+00:00"
+  "LastUpdate_Ratings": "2023-08-18T16:00:15.6646365+00:00",
+  "LastUpdate_Achievements": "2023-08-18T16:07:56.9244258+00:00"
 }

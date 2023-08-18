@@ -23,6 +23,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Bounty Hunters | 0.50% | ~674 |
 | One-Armed Bandit | 0.50% | ~674 |
 | Through Repetition, Perfection | 0.50% | ~674 |
+| Ascended | 0.40% | ~539 |
 | Blank Page Syndrome | 0.40% | ~539 |
 | Demand for Supplies | 0.40% | ~539 |
 | Flooding the Market | 0.40% | ~539 |
@@ -33,7 +34,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Did we pack lunch? | 0.40% | ~539 |
 | Arcane Industries | 0.40% | ~539 |
 | On the Path to Greatness | 0.30% | ~404 |
-| Ascended | 0.30% | ~404 |
 | Tax not Included | 0.30% | ~404 |
 | Research & Development | 0.30% | ~404 |
 | Vanity, Verily | 0.30% | ~404 |
@@ -43,6 +43,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Master of Transmutation | 0.30% | ~404 |
 | Hidden Potential | 0.30% | ~404 |
 | Power of Love | 0.30% | ~404 |
+| Expansion in Session | 0.30% | ~404 |
 | Efficient Floor Space | 0.30% | ~404 |
 | Flawless Fusion | 0.30% | ~404 |
 | Gem Expert | 0.30% | ~404 |
@@ -70,7 +71,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | This Power Level...! | 0.20% | ~269 |
 | Omae wa Mou Shindeiru | 0.20% | ~269 |
 | Supercharged | 0.20% | ~269 |
-| Expansion in Session | 0.20% | ~269 |
 | Ritualist | 0.20% | ~269 |
 | Cranked up to 11 | 0.20% | ~269 |
 | Fit for a King | 0.20% | ~269 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.10% | ~135 |
 | All Accounted For | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,714 (Ranked 66)  
+Progressed: 134,716 (Ranked 66)  
 Completed: 133 (0.10%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,7 +239,7 @@ Completed: 133 (0.10%) (Ranked 205)
 | 2023-08-15 | 134,574 | 132 |
 | 2023-08-16 | 134,622 | 133 |
 | 2023-08-17 | 134,688 | 133 |
-| 2023-08-18 | 134,714 | 133 |
+| 2023-08-18 | 134,716 | 133 |
 ## Awards
 Max (Great for Beginners): 4,704  (Ranked 71)  
 Sum: 27,110 (Ranked 46)  

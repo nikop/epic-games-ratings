@@ -14,7 +14,7 @@ Rating: 4.23 (Ranked 841)
 | Overheated | 30.00% | ~593 |
 | High Performance | 30.00% | ~593 |
 | Powered Up | 28.00% | ~554 |
-| Studied The Blade | 24.00% | ~474 |
+| Studied The Blade | 25.00% | ~494 |
 | Home Invasion | 23.00% | ~455 |
 | Luminary | 22.00% | ~435 |
 | It's a Trap | 22.00% | ~435 |
@@ -63,7 +63,7 @@ Rating: 4.23 (Ranked 841)
 | Swiss Army Drone | 1.00% | ~20 |
 | The Easy Way Out | 1.00% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,977 (Ranked 170)  
+Progressed: 1,977 (Ranked 171)  
 Completed: 10 (0.51%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |

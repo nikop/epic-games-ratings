@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2019-03-01T05:00:00+00:00",
@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 56457,
+  "EOS_Progressed": 56459,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7737,6 +7737,11 @@
       "Time": "2023-08-18T13:11:26.933809+00:00",
       "NumProgressed": 56457,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-18T16:07:37.9520993+00:00",
+      "NumProgressed": 56459,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 49,
@@ -7892,7 +7897,7 @@
       "Name": "HFZ Goober",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3387
+      "UsersEstimate": 3388
     },
     {
       "ID": "HarshLove",
@@ -8084,7 +8089,7 @@
       "Name": "Thrill Seeker",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3387
+      "UsersEstimate": 3388
     },
     {
       "ID": "TimelySplash",
@@ -8139,7 +8144,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 56457,
+      "Progressed": 56459,
       "Completed": 5
     }
   ],
@@ -8147,8 +8152,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-03-31T17:59:29.6978698+00:00",
-  "LastChanged_Achievements": "2023-08-18T15:08:34.5232733+00:00",
+  "LastChanged_Achievements": "2023-08-18T16:07:37.9520987+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:14.9013233+00:00",
-  "LastUpdate_Ratings": "2023-08-18T14:58:39.8747199+00:00",
-  "LastUpdate_Achievements": "2023-08-18T15:08:34.5234899+00:00"
+  "LastUpdate_Ratings": "2023-08-18T15:58:33.1405045+00:00",
+  "LastUpdate_Achievements": "2023-08-18T16:07:37.952198+00:00"
 }

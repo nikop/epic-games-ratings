@@ -3060,9 +3060,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 71978,
+  "EOS_Progressed": 71979,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 310,
+  "EOS_NewPlayers": 309,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -15600,6 +15600,11 @@
       "Time": "2023-08-18T15:08:25.7891626+00:00",
       "NumProgressed": 71978,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-08-18T16:07:30.4637551+00:00",
+      "NumProgressed": 71979,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 37,
@@ -15611,7 +15616,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 35989
+      "UsersEstimate": 35990
     },
     {
       "ID": "ACH_0011",
@@ -15627,7 +15632,7 @@
       "Name": "Roid Ranger",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 15115
+      "UsersEstimate": 15116
     },
     {
       "ID": "ACH_0013",
@@ -15699,7 +15704,7 @@
       "Name": "Foo Finder",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 5038
+      "UsersEstimate": 5039
     },
     {
       "ID": "ACH_0060",
@@ -15827,7 +15832,7 @@
       "Name": "Case Closed",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 25192
+      "UsersEstimate": 25193
     },
     {
       "ID": "ACH_0420",
@@ -15843,7 +15848,7 @@
       "Name": "Fancy Pants",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 25192
+      "UsersEstimate": 25193
     },
     {
       "ID": "ACH_0431",
@@ -15906,22 +15911,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 71978,
+      "Progressed": 71979,
       "Completed": 41
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 325,
-      "Completed": 325
+      "Progressed": 326,
+      "Completed": 326
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-08-18T14:57:41.7090014+00:00",
-  "LastChanged_Achievements": "2023-08-18T15:08:25.7891618+00:00",
+  "LastChanged_Achievements": "2023-08-18T16:07:30.4637546+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:57.6056168+00:00",
-  "LastUpdate_Ratings": "2023-08-18T14:57:41.7090021+00:00",
-  "LastUpdate_Achievements": "2023-08-18T15:08:25.7892935+00:00"
+  "LastUpdate_Ratings": "2023-08-18T15:57:44.5760853+00:00",
+  "LastUpdate_Achievements": "2023-08-18T16:07:30.4638658+00:00"
 }

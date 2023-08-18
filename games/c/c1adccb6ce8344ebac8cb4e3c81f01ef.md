@@ -11,7 +11,7 @@
 | Green Skeleton | 9.00% | ~8 |
 | Black Skeleton | 6.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 85 (Ranked 339)  
+Progressed: 85 (Ranked 340)  
 Completed: 5 (5.88%) (Ranked 46)  
 ## EOS Players History
 | Date | Progressed | Completed |

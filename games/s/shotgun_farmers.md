@@ -4,32 +4,32 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Seeds of War | 77.00% | ~200 |
-| First Blood | 59.00% | ~153 |
-| Triple Kill | 57.00% | ~148 |
+| Seeds of War | 76.00% | ~198 |
+| First Blood | 59.00% | ~154 |
+| Triple Kill | 57.00% | ~149 |
 | Aspairagus | 57.00% | ~120 |
 | Survivor | 56.00% | ~118 |
-| No Asperascope | 52.00% | ~135 |
+| No Asperascope | 52.00% | ~136 |
 | Cornivore | 51.00% | ~133 |
 | I Believe I Can Fly | 48.00% | ~125 |
-| Early Survivor | 42.00% | ~88 |
-| No Diggity | 41.00% | ~86 |
-| Amateur Survivor | 32.00% | ~67 |
+| Early Survivor | 42.00% | ~89 |
+| No Diggity | 41.00% | ~87 |
 | Bouncemato | 31.00% | ~65 |
+| Amateur Survivor | 31.00% | ~65 |
 | 10K | 30.00% | ~78 |
 | 15K | 28.00% | ~73 |
-| Professional Survivor | 23.00% | ~48 |
-| Drinking Problem | 22.00% | ~57 |
-| Quick-Draw Pod | 22.00% | ~46 |
+| Professional Survivor | 23.00% | ~49 |
 | Grave Digger | 22.00% | ~46 |
+| Drinking Problem | 21.00% | ~55 |
+| Quick-Draw Pod | 21.00% | ~44 |
 | Pork Chop Express | 18.00% | ~47 |
 | This Is My Boomstick | 16.00% | ~34 |
 | Skin Of Your Teeth | 15.00% | ~39 |
 | Oh My Gourd | 15.00% | ~32 |
-| Carrocketeer | 14.00% | ~36 |
+| Carrocketeer | 14.00% | ~37 |
 | Getting Started | 13.00% | ~34 |
 | Eggtraordinary | 13.00% | ~34 |
-| Summers Here | 12.00% | ~25 |
+| Summers Here | 11.00% | ~23 |
 | Fresh Pancake | 10.00% | ~26 |
 | Quit Horsin' Around | 10.00% | ~26 |
 | Perfect | 10.00% | ~21 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 260 (Ranked 270)  
+Progressed: 261 (Ranked 270)  
 Completed: 0 (0.00%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,6 +168,7 @@ Completed: 0 (0.00%) (Ranked 259)
 | 2023-08-14 | 257 | 0 |
 | 2023-08-15 | 259 | 0 |
 | 2023-08-16 | 260 | 0 |
+| 2023-08-18 | 261 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

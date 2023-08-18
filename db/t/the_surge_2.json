@@ -5,10 +5,10 @@
   "Ranking_Rating": 841,
   "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 512,
-  "Ranking_EOS_Progress": 170,
+  "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 143,
-  "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -257,7 +257,7 @@
   "Tags": [],
   "EOS_Progressed": 1977,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -2241,9 +2241,9 @@
       "ID": "ACHV_05",
       "SetID": "8p5mlmc",
       "Name": "Studied The Blade",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 474
+      "UsersEstimate": 494
     },
     {
       "ID": "ACHV_06",
@@ -2674,8 +2674,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-08-11T22:58:17.9643661+00:00",
-  "LastChanged_Achievements": "2023-08-18T15:06:48.4663425+00:00",
+  "LastChanged_Achievements": "2023-08-18T16:06:06.470341+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:03.0186923+00:00",
-  "LastUpdate_Ratings": "2023-08-18T14:58:46.490095+00:00",
-  "LastUpdate_Achievements": "2023-08-18T15:06:48.4664094+00:00"
+  "LastUpdate_Ratings": "2023-08-18T15:58:39.3600511+00:00",
+  "LastUpdate_Achievements": "2023-08-18T16:06:06.4704088+00:00"
 }

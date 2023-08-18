@@ -6,20 +6,20 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~35,398 |
-| Biggest Communism Builder | 24.00% | ~30,341 |
-| The World's Most Laughable Centrist | 20.00% | ~25,284 |
+| Goodest Of The Good Cops | 28.00% | ~35,399 |
+| Biggest Communism Builder | 24.00% | ~30,342 |
+| The World's Most Laughable Centrist | 20.00% | ~25,285 |
 | Il Coppo Del'Arte! | 18.00% | ~22,756 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,227 |
-| Hyperstellar Law Official | 15.00% | ~18,963 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~17,699 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,228 |
+| Hyperstellar Law Official | 15.00% | ~18,964 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~17,700 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~16,435 |
 | Gurdi-Ball Is Lit | 13.00% | ~16,435 |
-| Truly Rabid *Traditionalist* | 11.00% | ~13,906 |
+| Truly Rabid *Traditionalist* | 11.00% | ~13,907 |
 | Unbelievably Boring **** | 9.00% | ~11,378 |
 | The Figurines Won't Win Her Back | 9.00% | ~11,378 |
 | Enemy Of The Physical Realm | 8.00% | ~10,114 |
-| Hardie's Heroes | 6.00% | ~7,585 |
+| Hardie's Heroes | 6.00% | ~7,586 |
 | The Lawbringer | 4.00% | ~5,057 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~5,057 |
 | The Opener Of The Eighth Seal | 3.00% | ~3,793 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~126 |
 | What body? | 0.10% | ~126 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,421 (Ranked 68)  
+Progressed: 126,425 (Ranked 68)  
 Completed: 27 (0.02%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,7 +167,7 @@ Completed: 27 (0.02%) (Ranked 239)
 | 2023-08-15 | 126,286 | 27 |
 | 2023-08-16 | 126,338 | 27 |
 | 2023-08-17 | 126,389 | 27 |
-| 2023-08-18 | 126,421 | 27 |
+| 2023-08-18 | 126,425 | 27 |
 ## Awards
 Max (Character Customization): 719  (Ranked 165)  
 Sum: 1,083 (Ranked 235)  

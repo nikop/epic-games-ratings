@@ -61,12 +61,12 @@
 | The lonesome road | 32.00% | ~82 |
 | Key memories | 32.00% | ~82 |
 | Anyone can resist | 32.00% | ~82 |
+| The heart of the Resistance | 32.00% | ~82 |
 | Trap disarmed | 31.00% | ~79 |
 | Another world | 31.00% | ~79 |
 | Keep nature safe | 31.00% | ~79 |
 | Family comes first | 31.00% | ~79 |
 | The last bell ring | 31.00% | ~79 |
-| The heart of the Resistance | 31.00% | ~79 |
 | Silver’s past | 28.00% | ~71 |
 | Better cooking at home | 28.00% | ~71 |
 | The only right decision | 27.00% | ~69 |

@@ -5,10 +5,10 @@
   "Ranking_Rating": 428,
   "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 512,
-  "Ranking_EOS_Progress": 109,
+  "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17460,
+  "EOS_Progressed": 17462,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 198,
+  "EOS_NewPlayers": 197,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8536,6 +8536,11 @@
       "Time": "2023-08-18T12:06:23.7900518+00:00",
       "NumProgressed": 17460,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-18T16:05:54.5924163+00:00",
+      "NumProgressed": 17462,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -8547,7 +8552,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5063
+      "UsersEstimate": 5064
     },
     {
       "ID": "0002",
@@ -8563,7 +8568,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2968
+      "UsersEstimate": 2969
     },
     {
       "ID": "0004",
@@ -8651,7 +8656,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2968
+      "UsersEstimate": 2969
     },
     {
       "ID": "0015",
@@ -8675,7 +8680,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3317
+      "UsersEstimate": 3318
     },
     {
       "ID": "0018",
@@ -8731,7 +8736,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 3841
+      "UsersEstimate": 3842
     },
     {
       "ID": "0025",
@@ -8834,7 +8839,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17460,
+      "Progressed": 17462,
       "Completed": 1
     }
   ],
@@ -8842,8 +8847,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-12T19:04:41.1874293+00:00",
-  "LastChanged_Achievements": "2023-08-18T15:06:34.4747221+00:00",
+  "LastChanged_Achievements": "2023-08-18T16:05:54.5924158+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:38.5697724+00:00",
-  "LastUpdate_Ratings": "2023-08-18T14:57:21.9468792+00:00",
-  "LastUpdate_Achievements": "2023-08-18T15:06:34.4748741+00:00"
+  "LastUpdate_Ratings": "2023-08-18T15:57:27.5707093+00:00",
+  "LastUpdate_Achievements": "2023-08-18T16:05:54.5924964+00:00"
 }
