@@ -9,8 +9,8 @@
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 27.08% |
 | 8 | [Overloop](games/o/overloop.md) | 25.00% |
 | 9 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 10 | [Volley Pals](games/v/volley_pals.md) | 23.16% |
-| 11 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 22.90% |
+| 10 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 22.90% |
+| 11 | [Volley Pals](games/v/volley_pals.md) | 22.68% |
 | 12 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 12 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 12 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 20.00% |
@@ -31,15 +31,15 @@
 | 29 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 10.00% |
 | 30 | [Sonic Origins](games/s/sonic_origins.md) | 9.60% |
 | 31 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.30% |
-| 32 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.90% |
+| 32 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.89% |
 | 33 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.48% |
 | 34 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 8.33% |
 | 35 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.69% |
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.53% |
 | 37 | [Smelter](games/s/smelter.md) | 7.50% |
 | 38 | [Scorn](games/s/scorn.md) | 6.94% |
-| 39 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.86% |
-| 40 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.84% |
+| 39 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.83% |
+| 39 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.83% |
 | 41 | [Time Loader](games/t/time_loader.md) | 6.78% |
 | 42 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.52% |
 | 43 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
@@ -162,10 +162,10 @@
 | 159 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 159 | [Wildermyth](games/w/wildermyth.md) | 0.37% |
 | 162 | [The Surge](games/t/the_surge.md) | 0.35% |
-| 163 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.33% |
-| 163 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.33% |
-| 163 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.33% |
-| 166 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.32% |
+| 162 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.35% |
+| 164 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.33% |
+| 164 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.33% |
+| 164 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.33% |
 | 167 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
 | 167 | [Dead Island 2](games/d/dead_island_2.md) | 0.31% |
 | 169 | [The First Tree](games/t/the_first_tree.md) | 0.30% |
