@@ -47,9 +47,9 @@
 | Responsible approach | 40.00% | ~102 |
 | Poisoned fighter | 39.00% | ~99 |
 | Deal with life | 38.00% | ~97 |
+| GYM professional | 38.00% | ~97 |
 | Get out of my apartment! | 38.00% | ~97 |
 | Mom got better | 37.00% | ~94 |
-| GYM professional | 37.00% | ~94 |
 | The die is cast | 37.00% | ~94 |
 | Seashell hunter | 37.00% | ~94 |
 | Gang wrangler | 35.00% | ~89 |
@@ -68,7 +68,7 @@
 | The last bell ring | 31.00% | ~79 |
 | The heart of the Resistance | 31.00% | ~79 |
 | Silver’s past | 28.00% | ~71 |
-| Better cooking at home | 27.00% | ~69 |
+| Better cooking at home | 28.00% | ~71 |
 | The only right decision | 27.00% | ~69 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 255 (Ranked 271)  

@@ -4,7 +4,7 @@
   "ProductSlug": "poosh-xl-c580f2",
   "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 107,
-  "Ranking_EOS_NewPlayers": 287,
+  "Ranking_EOS_NewPlayers": 286,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
@@ -849,8 +849,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:01.0341399+00:00",
-  "LastChanged_Achievements": "2023-08-18T11:08:32.51903+00:00",
+  "LastChanged_Achievements": "2023-08-18T12:08:46.0411935+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:17.4499876+00:00",
-  "LastUpdate_Ratings": "2023-08-18T10:59:58.4603717+00:00",
-  "LastUpdate_Achievements": "2023-08-18T11:08:32.5190535+00:00"
+  "LastUpdate_Ratings": "2023-08-18T12:00:06.2016904+00:00",
+  "LastUpdate_Achievements": "2023-08-18T12:08:46.0412174+00:00"
 }

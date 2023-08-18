@@ -985,9 +985,9 @@
       "ID": "any_stat_30",
       "SetID": "69co12a",
       "Name": "GYM professional",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 97
     },
     {
       "ID": "any_stat_5",
@@ -1105,9 +1105,9 @@
       "ID": "flash_yakuza",
       "SetID": "69co12a",
       "Name": "Better cooking at home",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 71
     },
     {
       "ID": "get_tape",
@@ -1456,8 +1456,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-08-18T11:05:56.0348587+00:00",
+  "LastChanged_Achievements": "2023-08-18T12:06:09.2904709+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:18.7618858+00:00",
-  "LastUpdate_Ratings": "2023-08-18T10:59:44.0908963+00:00",
-  "LastUpdate_Achievements": "2023-08-18T11:05:56.0349689+00:00"
+  "LastUpdate_Ratings": "2023-08-18T11:59:51.5545136+00:00",
+  "LastUpdate_Achievements": "2023-08-18T12:06:09.2905487+00:00"
 }

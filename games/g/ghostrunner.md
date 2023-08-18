@@ -6,28 +6,28 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 76.00% | ~11,575 |
+| Longrunner | 76.00% | ~11,576 |
 | Sword Runner | 62.00% | ~9,443 |
-| Running out of breath | 54.00% | ~8,224 |
-| Wallrunner | 54.00% | ~8,224 |
+| Running out of breath | 54.00% | ~8,225 |
+| Wallrunner | 54.00% | ~8,225 |
 | Homerunner | 45.00% | ~6,854 |
 | Out of order | 45.00% | ~6,854 |
-| I call it luck | 44.00% | ~6,701 |
-| Where are my Keys? | 41.00% | ~6,244 |
+| I call it luck | 44.00% | ~6,702 |
+| Where are my Keys? | 41.00% | ~6,245 |
 | Back to hell | 37.00% | ~5,635 |
 | Perfection | 32.00% | ~4,874 |
 | Why not both | 30.00% | ~4,569 |
 | Sword to a gunfight | 29.00% | ~4,417 |
 | Upgrades not mandatory | 29.00% | ~4,417 |
-| Artificial selection | 28.00% | ~4,264 |
-| Control freak | 28.00% | ~4,264 |
+| Artificial selection | 28.00% | ~4,265 |
+| Control freak | 28.00% | ~4,265 |
 | Running Wild | 27.00% | ~4,112 |
 | Finish line | 26.00% | ~3,960 |
 | Unstoppable force | 23.00% | ~3,503 |
 | Wave of mutilation | 22.00% | ~3,351 |
 | Can't Run Can't Hide | 17.00% | ~2,589 |
 | R is for Running | 17.00% | ~2,589 |
-| Dead in the air | 15.00% | ~2,284 |
+| Dead in the air | 15.00% | ~2,285 |
 | Improvise, adapt, overrun | 13.00% | ~1,980 |
 | Pre-empative strike | 13.00% | ~1,980 |
 | More than human | 12.00% | ~1,828 |
@@ -45,14 +45,14 @@ Number of Ratings: 1,047  (23.09.2022)
 | Junkrunner | 2.00% | ~305 |
 | One man's trash | 2.00% | ~305 |
 | Obedient Machine | 0.80% | ~122 |
-| Everyone Needs A Hobby | 0.70% | ~107 |
+| Everyone Needs A Hobby | 0.60% | ~91 |
 | Legacy Drivers | 0.50% | ~76 |
 | A Grade | 0.40% | ~61 |
 | GR Project Complete | 0.40% | ~61 |
 | Sticks And Stones | 0.40% | ~61 |
 | Up Close And Personal | 0.40% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,230 (Ranked 115)  
+Progressed: 15,231 (Ranked 115)  
 Completed: 58 (0.38%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,7 +172,7 @@ Completed: 58 (0.38%) (Ranked 157)
 | 2023-08-15 | 15,097 | 57 |
 | 2023-08-16 | 15,144 | 57 |
 | 2023-08-17 | 15,200 | 58 |
-| 2023-08-18 | 15,230 | 58 |
+| 2023-08-18 | 15,231 | 58 |
 ## Awards
 Max (Great Boss Battles): 479  (Ranked 200)  
 Sum: 667 (Ranked 283)  

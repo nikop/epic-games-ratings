@@ -436,9 +436,9 @@
       "ID": "killBoxes50",
       "SetID": "ci65fo0",
       "Name": "Loot collector",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "killElk50",
@@ -572,9 +572,9 @@
       "ID": "killTree50",
       "SetID": "ci65fo0",
       "Name": "Lumberjack",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "killZombie10",
@@ -945,8 +945,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-08-18T11:05:30.725797+00:00",
+  "LastChanged_Achievements": "2023-08-18T12:05:43.3260711+00:00",
   "LastUpdate_AppInfo": "2023-08-16T13:00:32.6077063+00:00",
-  "LastUpdate_Ratings": "2023-08-18T10:58:58.2062964+00:00",
-  "LastUpdate_Achievements": "2023-08-18T11:05:30.7258882+00:00"
+  "LastUpdate_Ratings": "2023-08-18T11:58:59.213498+00:00",
+  "LastUpdate_Achievements": "2023-08-18T12:05:43.326181+00:00"
 }

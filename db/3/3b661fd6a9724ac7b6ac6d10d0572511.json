@@ -3064,9 +3064,9 @@
       "Count": 711
     }
   ],
-  "EOS_Progressed": 1581524,
+  "EOS_Progressed": 1581696,
   "EOS_Completed": 510,
-  "EOS_NewPlayers": 24982,
+  "EOS_NewPlayers": 25011,
   "EOS_NewCompleters": 35,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -11214,6 +11214,11 @@
       "Time": "2023-08-18T11:08:50.5510685+00:00",
       "NumProgressed": 1581524,
       "NumCompleted": 510
+    },
+    {
+      "Time": "2023-08-18T12:09:04.2587563+00:00",
+      "NumProgressed": 1581696,
+      "NumCompleted": 510
     }
   ],
   "TotalAchievements": 1328,
@@ -12425,7 +12430,7 @@
       "Name": "I Want to Get Away",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6326
+      "UsersEstimate": 6327
     },
     {
       "ID": "brooklyn_2",
@@ -21848,13 +21853,13 @@
     {
       "ID": "61cefe3",
       "IsBase": true,
-      "Progressed": 1581524,
+      "Progressed": 1581696,
       "Completed": 510
     },
     {
       "ID": "bkjdbk8",
       "IsBase": false,
-      "Progressed": 1581524,
+      "Progressed": 1581696,
       "Completed": 17
     }
   ],
@@ -21862,8 +21867,8 @@
   "FirstSeenRating": "2023-06-09T03:57:04.3869033+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:50.4372379+00:00",
   "LastChanged": "2023-08-18T07:58:59.9067364+00:00",
-  "LastChanged_Achievements": "2023-08-18T11:08:50.5510677+00:00",
+  "LastChanged_Achievements": "2023-08-18T12:09:04.2587558+00:00",
   "LastUpdate_AppInfo": "2023-08-17T20:57:10.4408604+00:00",
-  "LastUpdate_Ratings": "2023-08-18T10:59:18.3305281+00:00",
-  "LastUpdate_Achievements": "2023-08-18T11:08:50.5667812+00:00"
+  "LastUpdate_Ratings": "2023-08-18T11:59:19.3028842+00:00",
+  "LastUpdate_Achievements": "2023-08-18T12:09:04.2780645+00:00"
 }
