@@ -16,7 +16,7 @@
 | 12 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 20.00% |
 | 15 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
 | 16 | [Island Cities](games/i/island_cities.md) | 18.04% |
-| 17 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 16.94% |
+| 17 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 17.74% |
 | 18 | [Anna's Quest](games/a/anna's_quest.md) | 14.71% |
 | 19 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.55% |
 | 20 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.11% |
@@ -78,9 +78,9 @@
 | 76 | [Destiny 2](games/d/destiny_2.md) | 2.74% |
 | 77 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
 | 78 | [The Bunker](games/t/the_bunker.md) | 2.65% |
-| 79 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.61% |
-| 80 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.60% |
-| 80 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.60% |
+| 79 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.60% |
+| 79 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.60% |
+| 79 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.60% |
 | 82 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.56% |
 | 83 | [Lamentum](games/l/lamentum.md) | 2.53% |
 | 84 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.52% |
@@ -168,9 +168,9 @@
 | 166 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.32% |
 | 167 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
 | 167 | [Dead Island 2](games/d/dead_island_2.md) | 0.31% |
-| 169 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.30% |
 | 169 | [The First Tree](games/t/the_first_tree.md) | 0.30% |
-| 171 | [Scrapnaut](games/s/scrapnaut.md) | 0.29% |
+| 170 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.29% |
+| 170 | [Scrapnaut](games/s/scrapnaut.md) | 0.29% |
 | 172 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
 | 173 | [Against the Storm](games/a/against_the_storm.md) | 0.27% |
 | 174 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.26% |
