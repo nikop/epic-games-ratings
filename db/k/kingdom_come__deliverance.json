@@ -2,7 +2,7 @@
   "ID": "ca4058f18b0a4a9e9e2ccc28f7f33000",
   "Name": "Kingdom Come: Deliverance",
   "ProductSlug": "kingdom-come-deliverance",
-  "Ranking_Rating": 187,
+  "Ranking_Rating": 186,
   "Ranking_Popularity": 47,
   "Ranking_PopularitySum": 45,
   "Ranking_EOS_Progress": 15,
@@ -6496,10 +6496,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 27516,
       "NumberOfAwardsMax": 7389
+    },
+    {
+      "Time": "2023-08-18T06:00:11.0080713+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 27518,
+      "NumberOfAwardsMax": 7389
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27516,
+  "NumberOfAwards": 27518,
   "NumberOfAwardsMax": 7389,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6531,7 +6537,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1666
+      "Count": 1668
     },
     {
       "Text": "This game has Challenging Combat",
@@ -6582,9 +6588,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 797461,
+  "EOS_Progressed": 797462,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 910,
+  "EOS_NewPlayers": 908,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -19682,6 +19688,11 @@
       "Time": "2023-08-18T05:05:26.8517145+00:00",
       "NumProgressed": 797461,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-08-18T06:05:53.4241595+00:00",
+      "NumProgressed": 797462,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 82,
@@ -19805,7 +19816,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 199365
+      "UsersEstimate": 199366
     },
     {
       "ID": "Chivalrous",
@@ -19973,7 +19984,7 @@
       "Name": "Haggler",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 71771
+      "UsersEstimate": 71772
     },
     {
       "ID": "HardcoreHenry",
@@ -20348,15 +20359,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 797461,
+      "Progressed": 797462,
       "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2023-08-17T18:00:15.9992461+00:00",
-  "LastChanged_Achievements": "2023-08-18T05:05:26.8517139+00:00",
+  "LastChanged": "2023-08-18T06:00:11.0080712+00:00",
+  "LastChanged_Achievements": "2023-08-18T06:05:53.4241591+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:10.6594463+00:00",
-  "LastUpdate_Ratings": "2023-08-18T04:59:22.2600554+00:00",
-  "LastUpdate_Achievements": "2023-08-18T05:05:26.8519094+00:00"
+  "LastUpdate_Ratings": "2023-08-18T06:00:11.0080717+00:00",
+  "LastUpdate_Achievements": "2023-08-18T06:05:53.4242868+00:00"
 }

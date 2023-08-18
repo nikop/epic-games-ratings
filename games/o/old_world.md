@@ -54,6 +54,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Necropolis | 1.00% | ~134 |
 | Pyramids | 1.00% | ~134 |
 | Learn to Play 1 | 1.00% | ~134 |
+| Learn to Play 2 | 1.00% | ~134 |
 | Christianity | 1.00% | ~134 |
 | Manichaeism | 1.00% | ~134 |
 | Babylonian Paganism | 1.00% | ~134 |
@@ -66,7 +67,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Valiant | 0.90% | ~121 |
 | Just Difficulty | 0.90% | ~121 |
 | Acropolis | 0.90% | ~121 |
-| Learn to Play 2 | 0.90% | ~121 |
 | Mythology | 0.90% | ~121 |
 | Intercessor | 0.80% | ~108 |
 | Champions | 0.80% | ~108 |

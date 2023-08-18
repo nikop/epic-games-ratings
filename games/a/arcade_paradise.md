@@ -11,9 +11,9 @@ Rating: 4.58 (Ranked 428)
 | Swish | 56.00% | ~379 |
 | Clean up on Aisle 9 | 40.00% | ~270 |
 | Machine Maxed | 30.00% | ~203 |
+| Gerald of Riviera | 26.00% | ~176 |
 | Bug Fixer | 25.00% | ~169 |
 | Existential dread | 25.00% | ~169 |
-| Gerald of Riviera | 25.00% | ~169 |
 | Goal | 22.00% | ~149 |
 | I ran the numbers | 15.00% | ~101 |
 | Taking the plunge | 13.00% | ~88 |

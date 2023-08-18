@@ -1,13 +1,13 @@
 # Kingdom Come: Deliverance
 [Store](https://store.epicgames.com/en-US/p/kingdom-come-deliverance)  
 [View Rawdata](../../db/k/kingdom_come__deliverance.json)  
-Rating: 4.71 (Ranked 187)  
+Rating: 4.71 (Ranked 186)  
 Number of Ratings: 9,133  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Blacksmith's Son | 32.00% | ~255,188 |
-| Cavalier | 25.00% | ~199,365 |
+| Cavalier | 25.00% | ~199,366 |
 | Fatso | 23.00% | ~183,416 |
 | Awakening | 21.00% | ~167,467 |
 | Ranger | 20.00% | ~159,492 |
@@ -21,7 +21,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Sinner | 11.00% | ~87,721 |
 | Convict | 10.00% | ~79,746 |
 | Traveller | 10.00% | ~79,746 |
-| Haggler | 9.00% | ~71,771 |
+| Haggler | 9.00% | ~71,772 |
 | McLovin | 7.00% | ~55,822 |
 | Runt | 7.00% | ~55,822 |
 | Casanova | 6.00% | ~47,848 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~797 |
 | Wingman | 0.10% | ~797 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 797,461 (Ranked 15)  
+Progressed: 797,462 (Ranked 15)  
 Completed: 44 (0.01%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,10 +209,10 @@ Completed: 44 (0.01%) (Ranked 246)
 | 2023-08-15 | 797,190 | 44 |
 | 2023-08-16 | 797,302 | 44 |
 | 2023-08-17 | 797,440 | 44 |
-| 2023-08-18 | 797,461 | 44 |
+| 2023-08-18 | 797,462 | 44 |
 ## Awards
 Max (Character Customization): 7,389  (Ranked 47)  
-Sum: 27,516 (Ranked 45)  
+Sum: 27,518 (Ranked 45)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
@@ -220,7 +220,7 @@ Diff (max vs sum): 2
 | This game has Great Boss Battles | 5,437 |
 | This game has Challenging Combat | 1,724 |
 | This game has Amazing Storytelling | 1,682 |
-| This game has Diverse Characters | 1,666 |
+| This game has Diverse Characters | 1,668 |
 | This game is Extremely Fun | 1,653 |
 | This game is Highly Recommended | 1,646 |
 | This game has Amazing Characters | 1,627 |
@@ -436,3 +436,4 @@ Diff (max vs sum): 2
 | 2023-08-15 | 4.71 | - | 7,381 | 27,498 |
 | 2023-08-16 | 4.71 | - | 7,387 | 27,507 |
 | 2023-08-17 | 4.71 | - | 7,389 | 27,516 |
+| 2023-08-18 | 4.71 | - | 7,389 | 27,518 |
