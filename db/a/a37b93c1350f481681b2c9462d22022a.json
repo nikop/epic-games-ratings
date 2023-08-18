@@ -2,10 +2,10 @@
   "ID": "a37b93c1350f481681b2c9462d22022a",
   "Name": "Phantom Blade Executioners BETA",
   "ProductSlug": "phantom-blade-executioners-918ac0",
-  "Ranking_EOS_Progress": 546,
+  "Ranking_EOS_Progress": 547,
   "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 352,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-07-02T00:00:00+00:00",
     "PcReleaseDate": "2023-07-02T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-13T13:14:49.9131564+00:00",
   "LastUpdate_AppInfo": "2023-08-12T08:56:57.7963389+00:00",
-  "LastUpdate_Ratings": "2023-08-18T06:58:47.0565231+00:00",
-  "LastUpdate_Achievements": "2023-08-18T07:07:01.063605+00:00"
+  "LastUpdate_Ratings": "2023-08-18T07:58:32.2430881+00:00",
+  "LastUpdate_Achievements": "2023-08-18T08:06:45.946237+00:00"
 }

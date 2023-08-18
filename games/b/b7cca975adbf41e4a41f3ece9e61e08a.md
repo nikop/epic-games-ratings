@@ -47,7 +47,7 @@
 | This Ain't Right In Many Ways... | 0.00% | ~0 |
 | SALUTE | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4 (Ranked 472)  
+Progressed: 4 (Ranked 473)  
 Completed: 0 (0.00%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |

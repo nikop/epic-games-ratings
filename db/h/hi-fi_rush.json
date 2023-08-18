@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 189,
   "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -118,9 +118,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3947,
+  "EOS_Progressed": 3949,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -6073,6 +6073,11 @@
       "Time": "2023-08-18T05:05:30.8092733+00:00",
       "NumProgressed": 3947,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-08-18T08:06:46.476687+00:00",
+      "NumProgressed": 3949,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 71,
@@ -6572,7 +6577,7 @@
       "Name": "NOW we got a kickass hideout!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "Ach063",
@@ -6651,13 +6656,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 3947,
+      "Progressed": 3949,
       "Completed": 7
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2468,
+      "Progressed": 2470,
       "Completed": 1929
     }
   ],
@@ -6665,8 +6670,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-08-10T23:00:09.4128826+00:00",
-  "LastChanged_Achievements": "2023-08-18T07:07:01.4382751+00:00",
+  "LastChanged_Achievements": "2023-08-18T08:06:46.4766865+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:15.2039204+00:00",
-  "LastUpdate_Ratings": "2023-08-18T07:01:10.2399688+00:00",
-  "LastUpdate_Achievements": "2023-08-18T07:07:01.4384727+00:00"
+  "LastUpdate_Ratings": "2023-08-18T08:00:45.9060185+00:00",
+  "LastUpdate_Achievements": "2023-08-18T08:06:46.4767714+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "15d28244bc5f498bb296b51055b7e786",
   "Name": "M.A.X. - Mechanized Assault and Exploration",
   "ProductSlug": "max-mechanized-assault-and-exploration-0722cb",
-  "Ranking_EOS_Progress": 546,
+  "Ranking_EOS_Progress": 547,
   "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 352,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-09-02T16:00:00+00:00",
     "PcReleaseDate": "2022-09-02T16:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:30.713941+00:00",
   "LastChanged": "2023-03-31T05:58:30.7139411+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:14.8934369+00:00",
-  "LastUpdate_Ratings": "2023-08-18T06:58:35.6343383+00:00",
-  "LastUpdate_Achievements": "2023-08-18T07:05:38.5424751+00:00"
+  "LastUpdate_Ratings": "2023-08-18T07:58:21.3810632+00:00",
+  "LastUpdate_Achievements": "2023-08-18T08:05:28.5778435+00:00"
 }

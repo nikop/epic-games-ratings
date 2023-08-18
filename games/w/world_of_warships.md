@@ -3,6 +3,60 @@
 [View Rawdata](../../db/w/world_of_warships.json)  
 Rating: 4.41 (Ranked 682)  
 Number of Ratings: 4,733  (23.09.2022)  
+## Achievements
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Initial Capital | 73.00% | ~158 |
+| Junior Naval Designer | 73.00% | ~158 |
+| Moneybags | 65.00% | ~140 |
+| Junior Supply Officer | 65.00% | ~140 |
+| Naval Constructor | 57.00% | ~123 |
+| Naval Warfare. Arson | 56.00% | ~121 |
+| Naval Warfare. Tactics | 55.00% | ~119 |
+| Amateur | 54.00% | ~117 |
+| Naval Warfare. Ramming | 54.00% | ~117 |
+| Business Magnate | 50.00% | ~108 |
+| Naval Warfare. Weaponry Basics | 49.00% | ~106 |
+| Naval Warfare. Flooding | 46.00% | ~99 |
+| Battle Hero | 45.00% | ~97 |
+| Supply Officer | 45.00% | ~97 |
+| Smooth Supply | 45.00% | ~97 |
+| Warrior | 41.00% | ~89 |
+| Naval Warfare. Lucky Shot | 41.00% | ~89 |
+| Veteran | 35.00% | ~76 |
+| Chief Naval Architect | 24.00% | ~52 |
+| Shield | 23.00% | ~50 |
+| Legend of the Seas | 18.00% | ~39 |
+| Important Missions | 18.00% | ~39 |
+| Senior Supply Officer | 17.00% | ~37 |
+| Guardian | 15.00% | ~32 |
+| Weather Beaten | 14.00% | ~30 |
+| "Science of Victory" | 13.00% | ~28 |
+| Bane of the Oceans | 12.00% | ~26 |
+| Exterminator | 12.00% | ~26 |
+| Special Orders | 11.00% | ~24 |
+| Protector | 11.00% | ~24 |
+| Old-Timer | 10.00% | ~22 |
+| Secret Instructions | 10.00% | ~22 |
+| Raider | 9.00% | ~19 |
+| American Cruisers | 9.00% | ~19 |
+| Experienced One | 7.00% | ~15 |
+| Ravager | 6.00% | ~13 |
+| "Yamamoto Isoroku" | 6.00% | ~13 |
+| "Yamamoto Isoroku" | 4.00% | ~9 |
+| Hit Hard! Hit Fast! Hit Often! | 4.00% | ~9 |
+| "Honorable Service" | 3.00% | ~6 |
+| "Science of Victory" with Honors | 1.00% | ~2 |
+| "Honorable Service" with Honors | 0.00% | ~0 |
+| "Yamamoto Isoroku" with Honors | 0.00% | ~0 |
+| Hit Hard! Hit Fast! Hit Often! with Honors | 0.00% | ~0 |
+## Popularity (Based on EOS Achievements)
+Progressed: 216 (Ranked 283)  
+Completed: 0 (0.00%) (Ranked 259)  
+## EOS Players History
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2023-08-18 | 216 | 0 |
 ## Awards
 Max (Relaxing): 1,272  (Ranked 132)  
 Sum: 11,349 (Ranked 80)  

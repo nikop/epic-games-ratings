@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 51,
   "Ranking_EOS_Completed": 239,
   "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 229891,
+  "EOS_Progressed": 229894,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 532,
+  "EOS_NewPlayers": 534,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -12838,6 +12838,11 @@
       "Time": "2023-08-18T07:04:16.7963462+00:00",
       "NumProgressed": 229891,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-08-18T08:04:12.5607621+00:00",
+      "NumProgressed": 229894,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 34,
@@ -12865,7 +12870,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 64369
+      "UsersEstimate": 64370
     },
     {
       "ID": "CENTAUR",
@@ -12873,7 +12878,7 @@
       "Name": "CENTAUR",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 18391
+      "UsersEstimate": 18392
     },
     {
       "ID": "CHALLENGER",
@@ -12889,7 +12894,7 @@
       "Name": "CHALLENGE THE WORLD",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 16092
+      "UsersEstimate": 16093
     },
     {
       "ID": "DRAGOON",
@@ -12913,7 +12918,7 @@
       "Name": "FASTER THAN EVER",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 18391
+      "UsersEstimate": 18392
     },
     {
       "ID": "FLAWLESS",
@@ -12937,7 +12942,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 45978
+      "UsersEstimate": 45979
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -12985,7 +12990,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 75864
+      "UsersEstimate": 75865
     },
     {
       "ID": "NOBUNAGA",
@@ -13017,7 +13022,7 @@
       "Name": "PHOTOFINISH",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 16092
+      "UsersEstimate": 16093
     },
     {
       "ID": "PILEUPTROPHIES",
@@ -13073,7 +13078,7 @@
       "Name": "SNEAKY SNEAKY",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 50576
+      "UsersEstimate": 50577
     },
     {
       "ID": "TACTICIAN",
@@ -13097,7 +13102,7 @@
       "Name": "TRICK UP YOUR SLEEVE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 50576
+      "UsersEstimate": 50577
     },
     {
       "ID": "TUNINGMANIAC",
@@ -13113,22 +13118,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 94255
+      "UsersEstimate": 94257
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 229891,
+      "Progressed": 229894,
       "Completed": 46
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-08-18T07:04:16.7963456+00:00",
+  "LastChanged_Achievements": "2023-08-18T08:04:12.5607614+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:00.8930351+00:00",
-  "LastUpdate_Ratings": "2023-08-18T07:00:49.2352427+00:00",
-  "LastUpdate_Achievements": "2023-08-18T07:04:16.7965085+00:00"
+  "LastUpdate_Ratings": "2023-08-18T08:00:26.2935128+00:00",
+  "LastUpdate_Achievements": "2023-08-18T08:04:12.5608367+00:00"
 }

@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~189 |
 | Animated Giff | 0.10% | ~189 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 222,929 (Ranked 53)  
+Progressed: 222,939 (Ranked 53)  
 Completed: 2,190 (0.98%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -643,7 +643,7 @@ Completed: 2,190 (0.98%) (Ranked 118)
 | 2023-08-15 | 222,230 | 2,183 |
 | 2023-08-16 | 222,534 | 2,186 |
 | 2023-08-17 | 222,852 | 2,189 |
-| 2023-08-18 | 222,929 | 2,190 |
+| 2023-08-18 | 222,939 | 2,190 |
 ## Awards
 Max (Diverse Characters): 5,162  (Ranked 68)  
 Sum: 31,106 (Ranked 38)  

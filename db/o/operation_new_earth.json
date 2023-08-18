@@ -4,8 +4,8 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 952,
+  "EOS_Progressed": 955,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3331,6 +3331,11 @@
       "Time": "2023-08-17T22:03:37.5970305+00:00",
       "NumProgressed": 952,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-18T08:02:30.0548825+00:00",
+      "NumProgressed": 955,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -3404,9 +3409,9 @@
       "ID": "ach_silver_rewards_10",
       "SetID": "bm61c2p",
       "Name": "Silver Competitor",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 67
+      "UsersEstimate": 76
     },
     {
       "ID": "ach_silver_rewards_50",
@@ -3446,7 +3451,7 @@
       "Name": "Facility Online",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -3468,9 +3473,9 @@
       "ID": "objective_hero_level_up_3",
       "SetID": "bm61c2p",
       "Name": "Lieutenant",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 115
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -3518,7 +3523,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -3526,7 +3531,7 @@
       "Name": "Covert Operative",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -3534,7 +3539,7 @@
       "Name": "Getting Deployment",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -3550,7 +3555,7 @@
       "Name": "Stocking Up",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -3580,9 +3585,9 @@
       "ID": "objective_multiple_barracks_1",
       "SetID": "bm61c2p",
       "Name": "Infantry Reporting",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 96
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -3598,7 +3603,7 @@
       "Name": "Defenses Online",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -3645,14 +3650,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 952,
+      "Progressed": 955,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-18T07:02:48.4220276+00:00",
+  "LastChanged_Achievements": "2023-08-18T08:02:30.054882+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:27.4280109+00:00",
-  "LastUpdate_Ratings": "2023-08-18T06:58:27.0214195+00:00",
-  "LastUpdate_Achievements": "2023-08-18T07:02:48.4220884+00:00"
+  "LastUpdate_Ratings": "2023-08-18T07:58:13.4897884+00:00",
+  "LastUpdate_Achievements": "2023-08-18T08:02:30.0549231+00:00"
 }

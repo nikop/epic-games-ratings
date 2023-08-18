@@ -2632,9 +2632,9 @@
       "Count": 239
     }
   ],
-  "EOS_Progressed": 72196,
+  "EOS_Progressed": 72197,
   "EOS_Completed": 92,
-  "EOS_NewPlayers": 1017,
+  "EOS_NewPlayers": 1014,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -15652,6 +15652,11 @@
       "Time": "2023-08-18T07:07:52.0288103+00:00",
       "NumProgressed": 72196,
       "NumCompleted": 92
+    },
+    {
+      "Time": "2023-08-18T08:07:33.9307103+00:00",
+      "NumProgressed": 72197,
+      "NumCompleted": 92
     }
   ],
   "TotalAchievements": 30,
@@ -15711,7 +15716,7 @@
       "Name": "Biggest Reward",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 10107
+      "UsersEstimate": 10108
     },
     {
       "ID": "ACHIEVEMENT_07",
@@ -15823,7 +15828,7 @@
       "Name": "Acquired knowledge",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 9385
+      "UsersEstimate": 9386
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -15831,7 +15836,7 @@
       "Name": "Money money",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 11551
+      "UsersEstimate": 11552
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -15902,15 +15907,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 72196,
+      "Progressed": 72197,
       "Completed": 92
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-08-16T23:00:11.0472169+00:00",
-  "LastChanged_Achievements": "2023-08-18T07:07:52.0288098+00:00",
+  "LastChanged_Achievements": "2023-08-18T08:07:33.9307098+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:58.0774257+00:00",
-  "LastUpdate_Ratings": "2023-08-18T07:00:52.0074117+00:00",
-  "LastUpdate_Achievements": "2023-08-18T07:07:52.0289136+00:00"
+  "LastUpdate_Ratings": "2023-08-18T08:00:28.8592293+00:00",
+  "LastUpdate_Achievements": "2023-08-18T08:07:33.9307882+00:00"
 }

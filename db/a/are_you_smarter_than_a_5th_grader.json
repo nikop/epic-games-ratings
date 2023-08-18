@@ -2,10 +2,10 @@
   "ID": "1293d5a9bfc84e7e8574d02b6ee5a3af",
   "Name": "Are You Smarter Than A 5th Grader",
   "ProductSlug": "are-you-smarter-than-a-5th-grader-bc328a",
-  "Ranking_EOS_Progress": 258,
+  "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 285,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-08-23T13:00:00+00:00",
     "PcReleaseDate": "2022-08-23T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 315,
+  "EOS_Progressed": 316,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -267,6 +267,11 @@
       "Time": "2023-08-15T00:05:30.7068638+00:00",
       "NumProgressed": 315,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-18T08:06:22.6362377+00:00",
+      "NumProgressed": 316,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 19,
@@ -310,7 +315,7 @@
       "Name": "Exam Time",
       "Percentage": 85,
       "XP": 25,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "FifthGrade",
@@ -326,7 +331,7 @@
       "Name": "1st Grade",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "FourthGrade",
@@ -340,7 +345,7 @@
       "ID": "FullHouse",
       "SetID": "6l18k14",
       "Name": "Full House",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -398,7 +403,7 @@
       "Name": "Smarter than a 5th Grader",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "StudySession",
@@ -412,7 +417,7 @@
       "ID": "ThirdGrade",
       "SetID": "6l18k14",
       "Name": "3rd Grade",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -429,7 +434,7 @@
     {
       "ID": "6l18k14",
       "IsBase": true,
-      "Progressed": 315,
+      "Progressed": 316,
       "Completed": 0
     }
   ],
@@ -437,8 +442,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.561977+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.3990521+00:00",
   "LastChanged": "2023-03-31T05:58:18.5619771+00:00",
-  "LastChanged_Achievements": "2023-08-18T07:06:35.9755187+00:00",
+  "LastChanged_Achievements": "2023-08-18T08:06:22.6362372+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:18.9679476+00:00",
-  "LastUpdate_Ratings": "2023-08-18T06:58:15.0140393+00:00",
-  "LastUpdate_Achievements": "2023-08-18T07:06:35.9755376+00:00"
+  "LastUpdate_Ratings": "2023-08-18T07:58:02.1564683+00:00",
+  "LastUpdate_Achievements": "2023-08-18T08:06:22.6362529+00:00"
 }

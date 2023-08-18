@@ -5,31 +5,31 @@ Rating: 4.48 (Ranked 592)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 75.00% | ~1,352 |
-| A new Journey | 74.00% | ~1,334 |
-| Departure | 73.00% | ~1,316 |
-| From X to Y | 72.00% | ~1,298 |
-| Way of Iron | 70.00% | ~1,262 |
-| Mystery Tour | 69.00% | ~1,244 |
-| We brake for nobody | 67.00% | ~1,208 |
-| Brainstorm | 66.00% | ~1,190 |
-| Travel Company | 65.00% | ~1,172 |
-| Mind the Gap | 64.00% | ~1,154 |
+| Country Bumpkin | 75.00% | ~1,353 |
+| A new Journey | 74.00% | ~1,335 |
+| Departure | 73.00% | ~1,317 |
+| From X to Y | 72.00% | ~1,299 |
+| Way of Iron | 70.00% | ~1,263 |
+| Mystery Tour | 69.00% | ~1,245 |
+| We brake for nobody | 67.00% | ~1,209 |
+| Brainstorm | 66.00% | ~1,191 |
+| Travel Company | 65.00% | ~1,173 |
+| Mind the Gap | 64.00% | ~1,155 |
 | All around the World | 62.00% | ~1,118 |
 | Right through the middle | 57.00% | ~1,028 |
 | Poor Devil | 54.00% | ~974 |
 | Facility Manager | 53.00% | ~956 |
 | Producer | 50.00% | ~902 |
-| Apprentice | 42.00% | ~757 |
-| Bridge Builder | 41.00% | ~739 |
+| Apprentice | 42.00% | ~758 |
+| Bridge Builder | 41.00% | ~740 |
 | Access granted | 35.00% | ~631 |
 | Going once, going twice, sold | 35.00% | ~631 |
 | Stoker | 33.00% | ~595 |
 | Bull and bear | 33.00% | ~595 |
 | Full Steam ahead | 32.00% | ~577 |
 | All mine | 30.00% | ~541 |
-| Mole | 30.00% | ~541 |
 | Financial Shark | 30.00% | ~541 |
+| Mole | 29.00% | ~523 |
 | Socializer | 29.00% | ~523 |
 | Country Life | 27.00% | ~487 |
 | General Manager | 26.00% | ~469 |
@@ -40,13 +40,13 @@ Rating: 4.48 (Ranked 592)
 | Traffic Junction | 20.00% | ~361 |
 | Traffic Jam | 18.00% | ~325 |
 | Networker | 17.00% | ~307 |
-| Resistance is futile | 16.00% | ~288 |
-| Assimilated | 16.00% | ~288 |
-| Locusts | 15.00% | ~270 |
-| Settler | 14.00% | ~252 |
-| Go West | 13.00% | ~234 |
-| Max Power | 13.00% | ~234 |
-| Bold and beautiful | 13.00% | ~234 |
+| Resistance is futile | 16.00% | ~289 |
+| Assimilated | 16.00% | ~289 |
+| Locusts | 15.00% | ~271 |
+| Settler | 14.00% | ~253 |
+| Go West | 13.00% | ~235 |
+| Max Power | 13.00% | ~235 |
+| Bold and beautiful | 13.00% | ~235 |
 | A new Hope | 10.00% | ~180 |
 | Tycoon | 10.00% | ~180 |
 | Unstoppable | 8.00% | ~144 |
@@ -61,7 +61,7 @@ Rating: 4.48 (Ranked 592)
 | Together we stand | 0.60% | ~11 |
 | Three Cheers for Progress | 0.40% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,803 (Ranked 174)  
+Progressed: 1,804 (Ranked 174)  
 Completed: 0 (0.00%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,6 +157,7 @@ Completed: 0 (0.00%) (Ranked 259)
 | 2023-08-15 | 1,799 | 0 |
 | 2023-08-16 | 1,801 | 0 |
 | 2023-08-17 | 1,803 | 0 |
+| 2023-08-18 | 1,804 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,7 +1,7 @@
 # SUPERHOT
 [Store](https://store.epicgames.com/en-US/p/superhot)  
 [View Rawdata](../../db/s/superhot.json)  
-Rating: 4.71 (Ranked 186)  
+Rating: 4.71 (Ranked 185)  
 Number of Ratings: 146  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |

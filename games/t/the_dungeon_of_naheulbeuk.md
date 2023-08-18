@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 18.00% | ~38,500 |
+| Sowwy! | 18.00% | ~38,504 |
 | Alt+F4 | 2.00% | ~4,278 |
 | Déjà vu | 1.00% | ~2,139 |
 | Where's that freaking Dwarf? | 1.00% | ~2,139 |
@@ -17,10 +17,10 @@ Number of Ratings: 118  (23.09.2022)
 | Fireproof Wizardess | 0.80% | ~1,711 |
 | DM intervention | 0.70% | ~1,497 |
 | Way of the Wimp | 0.60% | ~1,283 |
-| Livin' in a dwarven paradise | 0.50% | ~1,069 |
-| The plot thickens... At the tavern | 0.50% | ~1,069 |
-| %#*!$*! | 0.50% | ~1,069 |
-| Oh, when I'll be level 10... | 0.50% | ~1,069 |
+| Livin' in a dwarven paradise | 0.50% | ~1,070 |
+| The plot thickens... At the tavern | 0.50% | ~1,070 |
+| %#*!$*! | 0.50% | ~1,070 |
+| Oh, when I'll be level 10... | 0.50% | ~1,070 |
 | Shiny and Crôm | 0.40% | ~856 |
 | The demons' feast | 0.40% | ~856 |
 | The Great Library | 0.40% | ~856 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Staff cut | 0.00% | ~0 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 213,891 (Ranked 56)  
+Progressed: 213,909 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,7 +174,7 @@ Completed: 2 (0.00%) (Ranked 259)
 | 2023-08-15 | 212,897 | 2 |
 | 2023-08-16 | 213,341 | 2 |
 | 2023-08-17 | 213,783 | 2 |
-| 2023-08-18 | 213,891 | 2 |
+| 2023-08-18 | 213,909 | 2 |
 ## Awards
 Max (Character Customization): 166  (Ranked 289)  
 Sum: 207 (Ranked 366)  

@@ -27,6 +27,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens | 2.00% | ~269 |
 | Oracle | 2.00% | ~269 |
 | Judaism | 2.00% | ~269 |
+| Greek Paganism | 2.00% | ~269 |
 | Naming Landmarks | 2.00% | ~269 |
 | Trade Caravan | 2.00% | ~269 |
 | The Great Mage | 2.00% | ~269 |
@@ -60,7 +61,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Babylonian Paganism | 1.00% | ~134 |
 | Carthaginian Paganism | 1.00% | ~134 |
 | Egyptian Paganism | 1.00% | ~134 |
-| Greek Paganism | 1.00% | ~134 |
 | Roman Paganism | 1.00% | ~134 |
 | Zoroastrianism | 1.00% | ~134 |
 | Drillmaster | 0.90% | ~121 |
@@ -304,7 +304,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 13,449 (Ranked 117)  
-Completed: 5 (0.04%) (Ranked 228)  
+Completed: 5 (0.04%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

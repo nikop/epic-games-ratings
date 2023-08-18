@@ -4,8 +4,8 @@
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 104,
-  "Ranking_EOS_NewPlayers": 285,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
     "PcReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -323,9 +323,9 @@
       "ID": "GOOSEKA_DEFEATED",
       "SetID": "7im05fi",
       "Name": "First Commander",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 60,
-      "UsersEstimate": 54
+      "UsersEstimate": 57
     },
     {
       "ID": "GRIZZLY_DEFEATED",
@@ -395,9 +395,9 @@
       "ID": "TELEPATHY_BALL_OBTAINED",
       "SetID": "7im05fi",
       "Name": "Magic Ball",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 101
+      "UsersEstimate": 103
     }
   ],
   "AchievementSets": [
@@ -412,8 +412,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2023-08-18T07:03:46.4909507+00:00",
+  "LastChanged_Achievements": "2023-08-18T08:03:43.7041972+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:51.7221646+00:00",
-  "LastUpdate_Ratings": "2023-08-18T07:00:42.8853301+00:00",
-  "LastUpdate_Achievements": "2023-08-18T07:03:46.4909642+00:00"
+  "LastUpdate_Ratings": "2023-08-18T08:00:20.111996+00:00",
+  "LastUpdate_Achievements": "2023-08-18T08:03:43.7042097+00:00"
 }

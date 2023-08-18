@@ -2,10 +2,10 @@
   "ID": "b5cf25c05580437a86a74319dac4f182",
   "Name": "Solargene",
   "ProductSlug": "solargene-2a2af5",
-  "Ranking_EOS_Progress": 546,
+  "Ranking_EOS_Progress": 547,
   "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 352,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-05-14T22:00:00+00:00",
     "PcReleaseDate": "2022-01-30T22:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-15T21:57:11.5293712+00:00",
   "LastUpdate_AppInfo": "2023-08-14T01:36:57.9303498+00:00",
-  "LastUpdate_Ratings": "2023-08-18T06:59:19.4534635+00:00",
-  "LastUpdate_Achievements": "2023-08-18T07:07:59.9526343+00:00"
+  "LastUpdate_Ratings": "2023-08-18T07:59:02.3911024+00:00",
+  "LastUpdate_Achievements": "2023-08-18T08:07:41.4480096+00:00"
 }

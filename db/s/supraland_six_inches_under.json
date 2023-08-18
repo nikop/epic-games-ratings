@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 20,
   "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2022-06-15T09:00:00+00:00",
     "PcReleaseDate": "2022-01-14T10:00:00+00:00",
@@ -352,7 +352,7 @@
   "EOS_Progressed": 2204,
   "EOS_Completed": 267,
   "EOS_NewPlayers": 12,
-  "EOS_NewCompleters": 4,
+  "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 12.11,
   "EosHistory": [
     {
@@ -1689,9 +1689,9 @@
       "ID": "ElasticBeam",
       "SetID": "5lok9mm",
       "Name": "Bouncy",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 1344
+      "UsersEstimate": 1366
     },
     {
       "ID": "ElectricGun",
@@ -2025,8 +2025,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-07-21T20:00:23.2474099+00:00",
-  "LastChanged_Achievements": "2023-08-18T07:05:17.5416347+00:00",
+  "LastChanged_Achievements": "2023-08-18T08:05:08.9326241+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:59.4604083+00:00",
-  "LastUpdate_Ratings": "2023-08-18T06:57:39.9498438+00:00",
-  "LastUpdate_Achievements": "2023-08-18T07:05:17.5417276+00:00"
+  "LastUpdate_Ratings": "2023-08-18T07:57:31.1788655+00:00",
+  "LastUpdate_Achievements": "2023-08-18T08:05:08.932666+00:00"
 }
