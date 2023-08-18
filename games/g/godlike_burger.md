@@ -21,7 +21,7 @@ Rating: 4.27 (Ranked 812)
 | CELEBRITY | 17.00% | ~69 |
 | GRATITUDE | 16.00% | ~65 |
 | LAW-ABIDING CITIZEN | 11.00% | ~45 |
-| PRUDENT | 10.00% | ~41 |
+| PRUDENT | 11.00% | ~45 |
 | PATTY-KILLER | 9.00% | ~37 |
 | GOURMET | 8.00% | ~33 |
 | SCATTERBRAIN | 8.00% | ~33 |

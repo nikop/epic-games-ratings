@@ -3008,10 +3008,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 13120,
       "NumberOfAwardsMax": 6814
+    },
+    {
+      "Time": "2023-08-18T20:59:01.4506823+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 13135,
+      "NumberOfAwardsMax": 6814
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13120,
+  "NumberOfAwards": 13135,
   "NumberOfAwardsMax": 6814,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3049,7 +3055,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 708
+      "Count": 723
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3082,9 +3088,9 @@
       "Count": 711
     }
   ],
-  "EOS_Progressed": 1583254,
+  "EOS_Progressed": 1583432,
   "EOS_Completed": 512,
-  "EOS_NewPlayers": 25021,
+  "EOS_NewPlayers": 25011,
   "EOS_NewCompleters": 34,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -11277,6 +11283,11 @@
       "Time": "2023-08-18T20:07:05.159242+00:00",
       "NumProgressed": 1583254,
       "NumCompleted": 512
+    },
+    {
+      "Time": "2023-08-18T21:08:19.9930481+00:00",
+      "NumProgressed": 1583432,
+      "NumCompleted": 512
     }
   ],
   "TotalAchievements": 1328,
@@ -12488,7 +12499,7 @@
       "Name": "I Want to Get Away",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 7916
+      "UsersEstimate": 7917
     },
     {
       "ID": "brooklyn_2",
@@ -17000,7 +17011,7 @@
       "Name": "No One Cared Who I Was...",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6333
+      "UsersEstimate": 6334
     },
     {
       "ID": "no_turning_back",
@@ -17008,7 +17019,7 @@
       "Name": "No Turning Back",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6333
+      "UsersEstimate": 6334
     },
     {
       "ID": "orange_1",
@@ -21896,7 +21907,7 @@
       "Name": "You Gotta Start Somewhere",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6333
+      "UsersEstimate": 6334
     },
     {
       "ID": "you_shall_not_pass",
@@ -21911,22 +21922,22 @@
     {
       "ID": "61cefe3",
       "IsBase": true,
-      "Progressed": 1583254,
+      "Progressed": 1583432,
       "Completed": 512
     },
     {
       "ID": "bkjdbk8",
       "IsBase": false,
-      "Progressed": 1583254,
+      "Progressed": 1583432,
       "Completed": 20
     }
   ],
   "FirstSeen": "2023-06-08T18:57:07.8003815+00:00",
   "FirstSeenRating": "2023-06-09T03:57:04.3869033+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:50.4372379+00:00",
-  "LastChanged": "2023-08-18T16:59:11.377246+00:00",
-  "LastChanged_Achievements": "2023-08-18T20:07:05.159241+00:00",
+  "LastChanged": "2023-08-18T20:59:01.4506821+00:00",
+  "LastChanged_Achievements": "2023-08-18T21:08:19.9930477+00:00",
   "LastUpdate_AppInfo": "2023-08-17T20:57:10.4408604+00:00",
-  "LastUpdate_Ratings": "2023-08-18T19:58:35.3665974+00:00",
-  "LastUpdate_Achievements": "2023-08-18T20:07:05.1747895+00:00"
+  "LastUpdate_Ratings": "2023-08-18T20:59:01.4506827+00:00",
+  "LastUpdate_Achievements": "2023-08-18T21:08:20.0067441+00:00"
 }

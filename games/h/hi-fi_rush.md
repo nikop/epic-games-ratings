@@ -48,9 +48,9 @@ Rating: 4.88 (Ranked 19)
 | I'm not done with you yet | 0.70% | ~28 |
 | This is a breeze! | 0.60% | ~24 |
 | New bad guys? No problem! | 0.60% | ~15 |
+| OK, well THEY came after ME! | 0.50% | ~20 |
 | You ever parry a volcano? | 0.50% | ~20 |
 | Easy Listening | 0.40% | ~16 |
-| OK, well THEY came after ME! | 0.40% | ~16 |
 | Choose your own adventure | 0.40% | ~10 |
 | Problem solved... wait, what? | 0.30% | ~12 |
 | Now this is how you fight like a team! | 0.30% | ~12 |

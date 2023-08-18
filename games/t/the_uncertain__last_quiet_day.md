@@ -11,7 +11,7 @@
 | Hands up! | 52.00% | ~274 |
 | Short circuit | 52.00% | ~274 |
 | Curious | 41.00% | ~216 |
-| Everybody lies | 35.00% | ~184 |
+| Everybody lies | 36.00% | ~189 |
 | Trick or Treat? | 23.00% | ~121 |
 | There is another way | 22.00% | ~116 |
 | Sysadmin | 21.00% | ~110 |

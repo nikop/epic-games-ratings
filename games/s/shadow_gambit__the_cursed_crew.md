@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A New Journey | 64.00% | ~154 |
-| The Adventure Begins | 30.00% | ~72 |
+| A New Journey | 67.00% | ~162 |
+| The Adventure Begins | 30.00% | ~73 |
+| Swabbie | 12.00% | ~29 |
 | With Great Power… | 12.00% | ~29 |
-| Swabbie | 11.00% | ~26 |
-| This Belongs in a Museum | 6.00% | ~14 |
+| This Belongs in a Museum | 6.00% | ~15 |
 | Persistent Parasite | 4.00% | ~10 |
 | The Gambit Has Begun | 3.00% | ~7 |
 | Powder Monkey | 3.00% | ~7 |
 | Fishy Fish | 3.00% | ~7 |
+| Somewhere Deep in the Lost Caribbean | 0.80% | ~2 |
 | Pirates Assemble! | 0.80% | ~2 |
-| Somewhere Deep in the Lost Caribbean | 0.40% | ~1 |
 | Mirror Mirror on the Wall | 0.40% | ~1 |
 | Buccaneer | 0.40% | ~1 |
 | Seadog | 0.40% | ~1 |
@@ -24,14 +24,14 @@
 | Marauder | 0.40% | ~1 |
 | Fully Decked | 0.40% | ~1 |
 | Accursed Artifacts | 0.40% | ~1 |
+| Lyrical Longing | 0.40% | ~1 |
 | Welcome Back Jester | 0.40% | ~1 |
 | All Good Things | 0.00% | ~0 |
 | Tobacco Travesty | 0.00% | ~0 |
-| Lyrical Longing | 0.00% | ~0 |
 | Jaded Judge | 0.00% | ~0 |
 | Rustic Recipe | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240 (Ranked 278)  
+Progressed: 242 (Ranked 278)  
 Completed: 0 (0.00%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -44,4 +44,4 @@ Completed: 0 (0.00%) (Ranked 259)
 | 2023-08-15 | 29 | 0 |
 | 2023-08-16 | 38 | 0 |
 | 2023-08-17 | 146 | 0 |
-| 2023-08-18 | 240 | 0 |
+| 2023-08-18 | 242 | 0 |

@@ -1,12 +1,12 @@
 # A Plague Tale: Requiem
 [Store](https://store.epicgames.com/en-US/p/a-plague-tale-requiem)  
 [View Rawdata](../../db/a/a_plague_tale__requiem.json)  
-Rating: 4.73 (Ranked 161)  
+Rating: 4.73 (Ranked 162)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 92.00% | ~11,777 |
-| Newcomers | 79.00% | ~10,113 |
+| Under a New Sun | 92.00% | ~11,778 |
+| Newcomers | 79.00% | ~10,114 |
 | A Burden of Blood | 74.00% | ~9,473 |
 | Protector's Duty | 70.00% | ~8,961 |
 | In our Wake | 68.00% | ~8,705 |
@@ -16,13 +16,13 @@ Rating: 4.73 (Ranked 161)
 | A Sea of Promises | 60.00% | ~7,681 |
 | Tales and Revelations | 57.00% | ~7,297 |
 | Bloodline | 52.00% | ~6,657 |
-| The Cradle of Centuries | 48.00% | ~6,144 |
-| The Life We Deserve | 46.00% | ~5,888 |
-| Night guard | 43.00% | ~5,504 |
-| Nothing Left | 39.00% | ~4,992 |
-| Healing our Wounds | 37.00% | ~4,736 |
-| Dying Sun | 33.00% | ~4,224 |
-| Improved crossbow | 27.00% | ~3,456 |
+| The Cradle of Centuries | 48.00% | ~6,145 |
+| The Life We Deserve | 46.00% | ~5,889 |
+| Night guard | 43.00% | ~5,505 |
+| Nothing Left | 39.00% | ~4,993 |
+| Healing our Wounds | 37.00% | ~4,737 |
+| Dying Sun | 33.00% | ~4,225 |
+| Improved crossbow | 27.00% | ~3,457 |
 | King Hugo | 25.00% | ~3,200 |
 | Mercy | 24.00% | ~3,072 |
 | Effective instruments | 22.00% | ~2,816 |
@@ -41,7 +41,7 @@ Rating: 4.73 (Ranked 161)
 | Explorer | 1.00% | ~128 |
 | Malignant | 1.00% | ~128 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,801 (Ranked 119)  
+Progressed: 12,802 (Ranked 119)  
 Completed: 42 (0.33%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,7 +161,7 @@ Completed: 42 (0.33%) (Ranked 164)
 | 2023-08-15 | 12,785 | 42 |
 | 2023-08-16 | 12,791 | 42 |
 | 2023-08-17 | 12,797 | 42 |
-| 2023-08-18 | 12,801 | 42 |
+| 2023-08-18 | 12,802 | 42 |
 ## Awards
 Max (Great Boss Battles): 410  (Ranked 212)  
 Sum: 628 (Ranked 292)  

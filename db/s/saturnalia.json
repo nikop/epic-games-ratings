@@ -240,9 +240,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 65642,
+  "EOS_Progressed": 65644,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 229,
+  "EOS_NewPlayers": 228,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -8050,6 +8050,11 @@
       "Time": "2023-08-18T20:06:26.0061648+00:00",
       "NumProgressed": 65642,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-08-18T21:07:28.3010171+00:00",
+      "NumProgressed": 65644,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 20,
@@ -8117,7 +8122,7 @@
       "Name": "Power of Friendship",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "ACH_LIGHTMINES",
@@ -8165,7 +8170,7 @@
       "Name": "Phone Bill",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "ACH_READCLUES",
@@ -8220,7 +8225,7 @@
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 65642,
+      "Progressed": 65644,
       "Completed": 13
     }
   ],
@@ -8228,8 +8233,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-05-14T20:57:12.1011944+00:00",
-  "LastChanged_Achievements": "2023-08-18T20:06:26.0061641+00:00",
+  "LastChanged_Achievements": "2023-08-18T21:07:28.3010164+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:21.0259321+00:00",
-  "LastUpdate_Ratings": "2023-08-18T19:58:57.0098371+00:00",
-  "LastUpdate_Achievements": "2023-08-18T20:06:26.0062256+00:00"
+  "LastUpdate_Ratings": "2023-08-18T20:59:31.7363869+00:00",
+  "LastUpdate_Achievements": "2023-08-18T21:07:28.3010666+00:00"
 }

@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 61074,
+  "EOS_Progressed": 61076,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 387,
+  "EOS_NewPlayers": 384,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11652,6 +11652,11 @@
       "Time": "2023-08-18T20:05:53.8042272+00:00",
       "NumProgressed": 61074,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-18T21:06:43.207887+00:00",
+      "NumProgressed": 61076,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -11663,7 +11668,7 @@
       "Name": "Follow the Light",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 22597
+      "UsersEstimate": 22598
     },
     {
       "ID": "02",
@@ -11735,7 +11740,7 @@
       "Name": "Medical Opinions",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1221
+      "UsersEstimate": 1222
     },
     {
       "ID": "11",
@@ -11767,7 +11772,7 @@
       "Name": "Gatekeeper",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6107
+      "UsersEstimate": 6108
     },
     {
       "ID": "15",
@@ -11775,7 +11780,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6107
+      "UsersEstimate": 6108
     },
     {
       "ID": "16",
@@ -11799,7 +11804,7 @@
       "Name": "Hardboiled Writer",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3664
+      "UsersEstimate": 3665
     },
     {
       "ID": "19",
@@ -11839,7 +11844,7 @@
       "Name": "Taken Season",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1221
+      "UsersEstimate": 1222
     },
     {
       "ID": "24",
@@ -11887,7 +11892,7 @@
       "Name": "Sound and Fury",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 8550
+      "UsersEstimate": 8551
     },
     {
       "ID": "30",
@@ -11895,7 +11900,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6107
+      "UsersEstimate": 6108
     },
     {
       "ID": "31",
@@ -11911,7 +11916,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 17711
+      "UsersEstimate": 17712
     },
     {
       "ID": "33",
@@ -11919,7 +11924,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 8550
+      "UsersEstimate": 8551
     },
     {
       "ID": "34",
@@ -11927,7 +11932,7 @@
       "Name": "Energized!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6107
+      "UsersEstimate": 6108
     },
     {
       "ID": "35",
@@ -11935,7 +11940,7 @@
       "Name": "Let There Be Light",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 18322
+      "UsersEstimate": 18323
     },
     {
       "ID": "36",
@@ -11959,7 +11964,7 @@
       "Name": "An Idyllic Small Town",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1221
+      "UsersEstimate": 1222
     },
     {
       "ID": "39",
@@ -12023,7 +12028,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 8550
+      "UsersEstimate": 8551
     },
     {
       "ID": "47",
@@ -12047,7 +12052,7 @@
       "Name": "Couch Potato",
       "Percentage": 2,
       "XP": 110,
-      "UsersEstimate": 1221
+      "UsersEstimate": 1222
     },
     {
       "ID": "50",
@@ -12063,7 +12068,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1963
+      "UsersEstimate": 1964
     },
     {
       "ID": "52",
@@ -12198,21 +12203,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 61074,
+      "Progressed": 61076,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 24542,
+      "Progressed": 24544,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-18T20:05:53.8042267+00:00",
+  "LastChanged_Achievements": "2023-08-18T21:06:43.2078866+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:20.2881971+00:00",
-  "LastUpdate_Ratings": "2023-08-18T19:59:09.3416519+00:00",
-  "LastUpdate_Achievements": "2023-08-18T20:05:53.8043435+00:00"
+  "LastUpdate_Ratings": "2023-08-18T20:59:44.7989969+00:00",
+  "LastUpdate_Achievements": "2023-08-18T21:06:43.2079912+00:00"
 }

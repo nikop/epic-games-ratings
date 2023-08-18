@@ -2,12 +2,12 @@
   "ID": "abd29ccc8c2a4a40a31f27de63cb0603",
   "Name": "Night in the Woods",
   "ProductSlug": "night-in-the-woods",
-  "Ranking_Rating": 161,
+  "Ranking_Rating": 162,
   "Ranking_Popularity": 301,
   "Ranking_PopularitySum": 397,
   "Ranking_EOS_Progress": 548,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewPlayers": 356,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2020-12-27T16:00:00+00:00",
@@ -541,6 +541,6 @@
   "FirstSeen": "2022-07-22T20:30:36.3686737+00:00",
   "LastChanged": "2023-08-16T16:01:31.3776564+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:40.2222412+00:00",
-  "LastUpdate_Ratings": "2023-08-18T19:57:05.5073911+00:00",
-  "LastUpdate_Achievements": "2023-08-18T20:05:32.1100401+00:00"
+  "LastUpdate_Ratings": "2023-08-18T20:56:57.6249316+00:00",
+  "LastUpdate_Achievements": "2023-08-18T21:06:13.383724+00:00"
 }

@@ -6450,9 +6450,9 @@
       "Count": 596
     }
   ],
-  "EOS_Progressed": 290345,
+  "EOS_Progressed": 290349,
   "EOS_Completed": 452,
-  "EOS_NewPlayers": 492,
+  "EOS_NewPlayers": 493,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -19400,6 +19400,11 @@
       "Time": "2023-08-18T20:06:16.5734781+00:00",
       "NumProgressed": 290345,
       "NumCompleted": 452
+    },
+    {
+      "Time": "2023-08-18T21:07:14.6506363+00:00",
+      "NumProgressed": 290349,
+      "NumCompleted": 452
     }
   ],
   "TotalAchievements": 45,
@@ -19411,7 +19416,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 34841
+      "UsersEstimate": 34842
     },
     {
       "ID": "PFA_10",
@@ -19531,7 +19536,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 29034
+      "UsersEstimate": 29035
     },
     {
       "ID": "PFA_24",
@@ -19705,9 +19710,9 @@
       "ID": "PFA_43",
       "SetID": "1hf4dep",
       "Name": "Finishing Touches",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 2903
+      "UsersEstimate": 5807
     },
     {
       "ID": "PFA_44",
@@ -19755,7 +19760,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 29034
+      "UsersEstimate": 29035
     },
     {
       "ID": "PFA_9",
@@ -19770,7 +19775,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 290345,
+      "Progressed": 290349,
       "Completed": 452
     }
   ],
@@ -19778,8 +19783,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-08-18T13:58:46.7729091+00:00",
-  "LastChanged_Achievements": "2023-08-18T20:06:16.5734774+00:00",
+  "LastChanged_Achievements": "2023-08-18T21:07:14.6506359+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:17.4814985+00:00",
-  "LastUpdate_Ratings": "2023-08-18T19:58:54.1291087+00:00",
-  "LastUpdate_Achievements": "2023-08-18T20:06:16.5735917+00:00"
+  "LastUpdate_Ratings": "2023-08-18T20:59:27.3694204+00:00",
+  "LastUpdate_Achievements": "2023-08-18T21:07:14.6507261+00:00"
 }

@@ -21,6 +21,7 @@
 | Acquaintance | 5.00% | ~7 |
 | Tail-wind | 5.00% | ~7 |
 | Been There | 4.00% | ~5 |
+| Spiritual Journey | 4.00% | ~5 |
 | Inquisitions of Discord | 4.00% | ~5 |
 | Quartermaster | 3.00% | ~4 |
 | Supercargo | 3.00% | ~4 |
@@ -28,7 +29,6 @@
 | Xevarian Gambit | 3.00% | ~4 |
 | Deputized | 3.00% | ~4 |
 | Harbinger | 3.00% | ~4 |
-| Spiritual Journey | 3.00% | ~4 |
 | Pilgrimage's End | 3.00% | ~4 |
 | Merchant | 3.00% | ~4 |
 | Trouble at Fort Larius | 3.00% | ~4 |

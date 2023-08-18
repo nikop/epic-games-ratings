@@ -4,7 +4,7 @@
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 549,
+  "EOS_Progressed": 550,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2359,6 +2359,11 @@
       "Time": "2023-08-18T15:04:04.0203414+00:00",
       "NumProgressed": 549,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-18T21:03:29.3025619+00:00",
+      "NumProgressed": 550,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -2418,7 +2423,7 @@
       "Name": "French Flair",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "CleanRestaurantDays10",
@@ -2530,7 +2535,7 @@
       "Name": "Haute Cuisine",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "Money10000",
@@ -2538,7 +2543,7 @@
       "Name": "Rolling in Dough",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "OpenRestaurant",
@@ -2570,7 +2575,7 @@
       "Name": "Home Cook",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "RecipeDifferent30",
@@ -2594,7 +2599,7 @@
       "Name": "S is for Scrumptious",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "ServiceMaxClient",
@@ -2634,7 +2639,7 @@
       "Name": "Italian Style",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "UnlockAssiette",
@@ -2682,14 +2687,14 @@
       "Name": "Well-Stocked Kitchen",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     }
   ],
   "AchievementSets": [
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 549,
+      "Progressed": 550,
       "Completed": 0
     }
   ],
@@ -2697,8 +2702,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-08-18T20:03:33.7701785+00:00",
+  "LastChanged_Achievements": "2023-08-18T21:03:29.3025615+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:14.6263196+00:00",
-  "LastUpdate_Ratings": "2023-08-18T19:59:53.448733+00:00",
-  "LastUpdate_Achievements": "2023-08-18T20:03:33.7702231+00:00"
+  "LastUpdate_Ratings": "2023-08-18T21:00:44.9989473+00:00",
+  "LastUpdate_Achievements": "2023-08-18T21:03:29.3025978+00:00"
 }

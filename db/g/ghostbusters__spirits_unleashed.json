@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 184,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -1842,9 +1842,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 25182,
+  "EOS_Progressed": 25183,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 202,
+  "EOS_NewPlayers": 199,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -10762,6 +10762,11 @@
       "Time": "2023-08-18T20:04:13.1254262+00:00",
       "NumProgressed": 25182,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-08-18T21:04:23.6222635+00:00",
+      "NumProgressed": 25183,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 51,
@@ -10773,7 +10778,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 18383
+      "UsersEstimate": 18384
     },
     {
       "ID": "Animated",
@@ -10797,7 +10802,7 @@
       "Name": "We have the best insurance",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 6547
+      "UsersEstimate": 6548
     },
     {
       "ID": "Catostrophic_Destroyer",
@@ -10861,7 +10866,7 @@
       "Name": "Discovery",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 15361
+      "UsersEstimate": 15362
     },
     {
       "ID": "Dont_Need_These",
@@ -10907,9 +10912,9 @@
       "ID": "Fully_Upgraded",
       "SetID": "819popo",
       "Name": "Fully Upgraded",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 13346
+      "UsersEstimate": 13599
     },
     {
       "ID": "GB_In_Training",
@@ -10941,7 +10946,7 @@
       "Name": "Legions",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 6547
+      "UsersEstimate": 6548
     },
     {
       "ID": "Liability",
@@ -11021,7 +11026,7 @@
       "Name": "Right back at ya",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 6547
+      "UsersEstimate": 6548
     },
     {
       "ID": "Rivalry",
@@ -11061,7 +11066,7 @@
       "Name": "Solo Capture",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 8058
+      "UsersEstimate": 8059
     },
     {
       "ID": "Stunner",
@@ -11085,7 +11090,7 @@
       "Name": "Summoner",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 6547
+      "UsersEstimate": 6548
     },
     {
       "ID": "Surprise",
@@ -11101,7 +11106,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 13598
+      "UsersEstimate": 13599
     },
     {
       "ID": "Teamwork",
@@ -11109,7 +11114,7 @@
       "Name": "Teamwork",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 10828
+      "UsersEstimate": 10829
     },
     {
       "ID": "Terrifying",
@@ -11133,7 +11138,7 @@
       "Name": "There you are!",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 10576
+      "UsersEstimate": 10577
     },
     {
       "ID": "Tobins_Prodigy",
@@ -11157,7 +11162,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 12087
+      "UsersEstimate": 12088
     },
     {
       "ID": "Welcome_Crew",
@@ -11165,7 +11170,7 @@
       "Name": "Welcome to the Crew",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 7806
+      "UsersEstimate": 7807
     },
     {
       "ID": "Whoopsie",
@@ -11180,7 +11185,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 25182,
+      "Progressed": 25183,
       "Completed": 52
     }
   ],
@@ -11188,8 +11193,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-08-18T01:38:35.2005933+00:00",
-  "LastChanged_Achievements": "2023-08-18T20:04:13.1254254+00:00",
+  "LastChanged_Achievements": "2023-08-18T21:04:23.6222629+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:52.55817+00:00",
-  "LastUpdate_Ratings": "2023-08-18T20:00:26.367318+00:00",
-  "LastUpdate_Achievements": "2023-08-18T20:04:13.1255245+00:00"
+  "LastUpdate_Ratings": "2023-08-18T21:01:35.575155+00:00",
+  "LastUpdate_Achievements": "2023-08-18T21:04:23.6223374+00:00"
 }

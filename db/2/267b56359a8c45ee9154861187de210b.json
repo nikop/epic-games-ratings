@@ -189,17 +189,17 @@
       "ID": "beat_c1_gold",
       "SetID": "3448go",
       "Name": "Venture Time",
-      "Percentage": 22,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "beat_c1_silver",
       "SetID": "3448go",
       "Name": "Treasured Momentum",
-      "Percentage": 44,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "beat_c1a_bronze",
@@ -653,9 +653,9 @@
       "ID": "rolldist_short",
       "SetID": "3448go",
       "Name": "Rolling the Competition",
-      "Percentage": 56,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "soccer_hattrick",
@@ -693,9 +693,9 @@
       "ID": "trophies_10",
       "SetID": "3448go",
       "Name": "Look What I Found!",
-      "Percentage": 11,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "trophies_117",
@@ -763,8 +763,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2023-08-18T20:03:58.4319345+00:00",
+  "LastChanged_Achievements": "2023-08-18T21:04:02.8934854+00:00",
   "LastUpdate_AppInfo": "2023-08-16T18:57:08.5743948+00:00",
-  "LastUpdate_Ratings": "2023-08-18T19:57:43.476873+00:00",
-  "LastUpdate_Achievements": "2023-08-18T20:03:58.4320412+00:00"
+  "LastUpdate_Ratings": "2023-08-18T20:57:49.7147209+00:00",
+  "LastUpdate_Achievements": "2023-08-18T21:04:02.8935597+00:00"
 }

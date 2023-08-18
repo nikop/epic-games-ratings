@@ -21,9 +21,9 @@ Rating: 4.56 (Ranked 472)
 | Hope Seeker | 10.00% | ~308 |
 | A Hunk of Junk | 9.00% | ~277 |
 | Breaking Protocol | 9.00% | ~277 |
+| Man's Best Friend | 7.00% | ~216 |
 | Power Outage | 7.00% | ~216 |
 | Please Make it Stop! | 7.00% | ~216 |
-| Man's Best Friend | 6.00% | ~185 |
 | Sightseeing | 6.00% | ~185 |
 | Convenient Transport | 6.00% | ~185 |
 | Access Granted | 5.00% | ~154 |

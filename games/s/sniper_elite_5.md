@@ -6,17 +6,17 @@ Rating: 4.44 (Ranked 648)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 46.00% | ~1,607 |
-| Confirming Suspicions | 40.00% | ~1,397 |
+| Confirming Suspicions | 40.00% | ~1,398 |
 | The Kraken Wakes | 35.00% | ~1,223 |
 | It's Starting to Crack | 32.00% | ~1,118 |
 | Lord of War | 29.00% | ~1,013 |
 | Change the Channel | 29.00% | ~1,013 |
 | Taking it back | 27.00% | ~943 |
 | Resourceful | 26.00% | ~908 |
-| Target America | 25.00% | ~873 |
-| The Kraken Sleeps | 23.00% | ~803 |
-| Organ Grinder | 22.00% | ~768 |
-| As Quiet as a Mouse | 22.00% | ~768 |
+| Target America | 25.00% | ~874 |
+| The Kraken Sleeps | 23.00% | ~804 |
+| Organ Grinder | 22.00% | ~769 |
+| As Quiet as a Mouse | 22.00% | ~769 |
 | Liberté | 21.00% | ~734 |
 | Sharpshooter | 21.00% | ~734 |
 | Explosive Efficiency | 18.00% | ~629 |
@@ -36,7 +36,7 @@ Rating: 4.44 (Ranked 648)
 | Set Europe Ablaze | 12.00% | ~419 |
 | Precision Is Key | 9.00% | ~314 |
 | My Little Friend | 9.00% | ~314 |
-| Rigged to Blow | 8.00% | ~279 |
+| Rigged to Blow | 8.00% | ~280 |
 | Herr Today, Gone Tomorrow | 6.00% | ~207 |
 | The Long Game | 5.00% | ~175 |
 | It'll Buff Right Out | 5.00% | ~175 |
@@ -77,7 +77,7 @@ Rating: 4.44 (Ranked 648)
 | Stroll in the Woods | 0.60% | ~21 |
 | Going Overboard | 0.60% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,493 (Ranked 151)  
+Progressed: 3,494 (Ranked 151)  
 Completed: 9 (0.26%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 9 (0.26%) (Ranked 174)
 | 2023-08-15 | 3,481 | 9 |
 | 2023-08-16 | 3,486 | 9 |
 | 2023-08-17 | 3,491 | 9 |
-| 2023-08-18 | 3,493 | 9 |
+| 2023-08-18 | 3,494 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
