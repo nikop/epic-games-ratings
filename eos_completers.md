@@ -38,11 +38,11 @@
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.53% |
 | 37 | [Smelter](games/s/smelter.md) | 7.50% |
 | 38 | [Scorn](games/s/scorn.md) | 6.94% |
-| 39 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.93% |
-| 40 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.86% |
+| 39 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.90% |
+| 40 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.85% |
 | 41 | [Time Loader](games/t/time_loader.md) | 6.78% |
-| 42 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 6.41% |
-| 43 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
+| 42 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
+| 43 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 6.33% |
 | 44 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.30% |
 | 45 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 46 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.98% |
@@ -183,9 +183,9 @@
 | 180 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.23% |
 | 182 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
 | 182 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.22% |
+| 184 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.21% |
 | 184 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.21% |
-| 185 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.20% |
-| 185 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.20% |
+| 186 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.20% |
 | 187 | [Going Medieval](games/g/going_medieval.md) | 0.19% |
 | 187 | [RAILGRADE](games/r/railgrade.md) | 0.19% |
 | 189 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.18% |

@@ -88,7 +88,7 @@
 | 83 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 0 | 512 |
 | 83 | [The Messenger](games/t/the_messenger.md) | 4.80 | 326 | 231 |
 | 88 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,481 | 122 |
-| 88 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 455 | 204 |
+| 88 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 459 | 204 |
 | 88 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.79 | 159 | 293 |
 | 88 | [Huntdown](games/h/huntdown.md) | 4.79 | 0 | 512 |
 | 88 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.79 | 0 | 512 |
@@ -243,7 +243,7 @@
 | 238 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 69 | 378 |
 | 238 | [BLACKTAIL](games/b/blacktail.md) | 4.68 | 0 | 512 |
 | 238 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 7,329 | 48 |
-| 238 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,912 | 81 |
+| 238 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,914 | 81 |
 | 238 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 5,693 | 62 |
 | 238 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 3,479 | 87 |
 | 238 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 302,922 | 3 |
@@ -261,7 +261,7 @@
 | 258 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 665 | 172 |
 | 258 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 512 |
 | 258 | [F1® 23](games/f/f1®_23_standard_edition.md) | 4.67 | 0 | 512 |
-| 258 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 625 | 178 |
+| 258 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 626 | 178 |
 | 258 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,244 | 105 |
 | 258 | [Overcooked](games/o/overcooked.md) | 4.67 | 115 | 323 |
 | 258 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.67 | 32 | 453 |
@@ -372,7 +372,7 @@
 | 365 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 383 | 219 |
 | 365 | [Darkwood](games/d/darkwood.md) | 4.61 | 322 | 232 |
 | 365 | [Dead Space](games/d/dead_space.md) | 4.61 | 87 | 354 |
-| 365 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 43,087 | 12 |
+| 365 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 43,133 | 12 |
 | 365 | [GigaBash](games/g/gigabash.md) | 4.61 | 0 | 512 |
 | 365 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.61 | 37 | 432 |
 | 365 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,163 | 137 |
@@ -394,7 +394,7 @@
 | 391 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 13,230 | 28 |
 | 391 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.60 | 0 | 512 |
 | 391 | [Brawlhalla](games/b/brawlhalla.md) | 4.60 | 271 | 246 |
-| 391 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 4,505 | 73 |
+| 391 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 4,510 | 73 |
 | 391 | [Control](games/c/control.md) | 4.60 | 8,449 | 40 |
 | 391 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 4.60 | 0 | 512 |
 | 391 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 219 | 264 |
@@ -798,18 +798,18 @@
 | 795 | [Chess Ultra](games/c/chess_ultra.md) | 4.29 | 0 | 512 |
 | 795 | [Dark Light](games/d/dark_light.md) | 4.29 | 0 | 512 |
 | 795 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,586,940 | 1 |
-| 795 | [Murder by Numbers](games/m/murder_by_numbers.md) | 4.29 | 0 | 512 |
 | 795 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 715 | 166 |
 | 795 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 44 | 418 |
 | 795 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 142 | 301 |
 | 795 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 126 | 310 |
-| 804 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.28 | 0 | 512 |
-| 804 | [ELEX II](games/e/elex_ii.md) | 4.28 | 0 | 512 |
-| 804 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.28 | 0 | 512 |
-| 804 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.28 | 3,727 | 82 |
-| 804 | [Mortal Shell](games/m/mortal_shell.md) | 4.28 | 0 | 512 |
-| 804 | [Steelrising](games/s/steelrising.md) | 4.28 | 36 | 433 |
-| 804 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 173 | 285 |
+| 803 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.28 | 0 | 512 |
+| 803 | [ELEX II](games/e/elex_ii.md) | 4.28 | 0 | 512 |
+| 803 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.28 | 0 | 512 |
+| 803 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.28 | 3,727 | 82 |
+| 803 | [Mortal Shell](games/m/mortal_shell.md) | 4.28 | 0 | 512 |
+| 803 | [Murder by Numbers](games/m/murder_by_numbers.md) | 4.28 | 0 | 512 |
+| 803 | [Steelrising](games/s/steelrising.md) | 4.28 | 36 | 433 |
+| 803 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 173 | 285 |
 | 811 | [Dice Legacy](games/d/dice_legacy.md) | 4.27 | 0 | 512 |
 | 811 | [Franchise Hockey Manager 8](games/f/franchise_hockey_manager_8.md) | 4.27 | 0 | 512 |
 | 811 | [Godlike Burger](games/g/godlike_burger.md) | 4.27 | 0 | 512 |
