@@ -4,18 +4,18 @@
   "ProductSlug": "madden-nfl-24",
   "Ranking_EOS_Progress": 546,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 354,
+  "Ranking_EOS_NewPlayers": 352,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
-    "PcReleaseDate": "2023-08-15T04:00:00+00:00",
+    "PcReleaseDate": "2023-08-18T00:00:00+00:00",
     "isBlockchainUsed": false,
-    "CustomAttributes": {
-      "isPrepurchase": "true"
-    }
+    "CustomAttributes": {}
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 0,
   "EOS_Completed": 0,
@@ -34,9 +34,10 @@
       "Completed": 0
     }
   ],
+  "FirstSeen": "2023-08-18T01:36:55.7733992+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
-  "LastChanged_Achievements": "2023-08-18T00:06:47.302676+00:00",
+  "LastChanged_Achievements": "2023-08-18T01:43:59.3858326+00:00",
   "LastUpdate_AppInfo": "2023-08-16T21:57:03.8626234+00:00",
-  "LastUpdate_Ratings": "2023-08-17T23:59:14.8961321+00:00",
-  "LastUpdate_Achievements": "2023-08-18T00:06:47.3026797+00:00"
+  "LastUpdate_Ratings": "2023-08-18T01:36:55.7734032+00:00",
+  "LastUpdate_Achievements": "2023-08-18T01:43:59.3858356+00:00"
 }

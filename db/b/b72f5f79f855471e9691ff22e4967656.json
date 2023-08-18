@@ -804,9 +804,9 @@
       "ID": "questKillSwampMonster",
       "SetID": "ci65fo0",
       "Name": "Threat of the swamps",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "questNorthGraveyard",
@@ -945,8 +945,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-08-18T00:05:32.0139333+00:00",
+  "LastChanged_Achievements": "2023-08-18T01:43:08.7408434+00:00",
   "LastUpdate_AppInfo": "2023-08-16T13:00:32.6077063+00:00",
-  "LastUpdate_Ratings": "2023-08-17T23:58:56.229728+00:00",
-  "LastUpdate_Achievements": "2023-08-18T00:05:32.0140062+00:00"
+  "LastUpdate_Ratings": "2023-08-18T01:36:42.7843605+00:00",
+  "LastUpdate_Achievements": "2023-08-18T01:43:08.7409292+00:00"
 }

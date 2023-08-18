@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A New Journey | 57.00% | ~84 |
-| The Adventure Begins | 20.00% | ~30 |
+| A New Journey | 58.00% | ~89 |
+| The Adventure Begins | 22.00% | ~34 |
+| With Great Power… | 5.00% | ~8 |
 | Swabbie | 4.00% | ~6 |
-| With Great Power… | 4.00% | ~6 |
-| The Gambit Has Begun | 1.00% | ~1 |
-| Powder Monkey | 1.00% | ~1 |
-| Somewhere Deep in the Lost Caribbean | 0.70% | ~1 |
-| This Belongs in a Museum | 0.70% | ~1 |
-| Buccaneer | 0.70% | ~1 |
-| Seadog | 0.70% | ~1 |
-| Privateer | 0.70% | ~1 |
-| Corsair | 0.70% | ~1 |
-| Freebooter | 0.70% | ~1 |
-| Marauder | 0.70% | ~1 |
-| Pirates Assemble! | 0.70% | ~1 |
-| Fully Decked | 0.70% | ~1 |
-| Persistent Parasite | 0.70% | ~1 |
-| Fishy Fish | 0.70% | ~1 |
-| Accursed Artifacts | 0.70% | ~1 |
-| Welcome Back Jester | 0.70% | ~1 |
-| Mirror Mirror on the Wall | 0.00% | ~0 |
+| The Gambit Has Begun | 1.00% | ~2 |
+| Powder Monkey | 1.00% | ~2 |
+| Pirates Assemble! | 1.00% | ~2 |
+| Persistent Parasite | 1.00% | ~2 |
+| Somewhere Deep in the Lost Caribbean | 0.60% | ~1 |
+| This Belongs in a Museum | 0.60% | ~1 |
+| Mirror Mirror on the Wall | 0.60% | ~1 |
+| Buccaneer | 0.60% | ~1 |
+| Seadog | 0.60% | ~1 |
+| Privateer | 0.60% | ~1 |
+| Corsair | 0.60% | ~1 |
+| Freebooter | 0.60% | ~1 |
+| Marauder | 0.60% | ~1 |
+| Fully Decked | 0.60% | ~1 |
+| Fishy Fish | 0.60% | ~1 |
+| Accursed Artifacts | 0.60% | ~1 |
+| Welcome Back Jester | 0.60% | ~1 |
 | All Good Things | 0.00% | ~0 |
 | Tobacco Travesty | 0.00% | ~0 |
 | Lyrical Longing | 0.00% | ~0 |
 | Jaded Judge | 0.00% | ~0 |
 | Rustic Recipe | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 148 (Ranked 303)  
+Progressed: 154 (Ranked 302)  
 Completed: 0 (0.00%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -44,4 +44,4 @@ Completed: 0 (0.00%) (Ranked 259)
 | 2023-08-15 | 29 | 0 |
 | 2023-08-16 | 38 | 0 |
 | 2023-08-17 | 146 | 0 |
-| 2023-08-18 | 148 | 0 |
+| 2023-08-18 | 154 | 0 |

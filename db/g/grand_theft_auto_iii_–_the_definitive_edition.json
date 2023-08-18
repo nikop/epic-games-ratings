@@ -2,20 +2,20 @@
   "ID": "ec64a50e79884e28be9ac3d3cd4f5c12",
   "Name": "Grand Theft Auto III \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-iii-the-definitive-edition",
-  "Ranking_Rating": 880,
+  "Ranking_Rating": 876,
   "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.16,
+  "Rating": 4.17,
   "RatingHistory": [
     {
       "Time": "2023-02-24T19:57:59.6714906+00:00",
@@ -418,15 +418,21 @@
       "Rating": 4.16,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-08-18T01:37:32.2923001+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7544,
+  "EOS_Progressed": 7545,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -7419,6 +7425,11 @@
       "Time": "2023-08-17T22:06:24.458926+00:00",
       "NumProgressed": 7544,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-08-18T01:44:47.7183889+00:00",
+      "NumProgressed": 7545,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 29,
@@ -7502,7 +7513,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2112
+      "UsersEstimate": 2113
     },
     {
       "ID": "ACH11",
@@ -7534,7 +7545,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 1282
+      "UsersEstimate": 1283
     },
     {
       "ID": "ACH15",
@@ -7661,16 +7672,16 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7544,
+      "Progressed": 7545,
       "Completed": 45
     }
   ],
   "FirstSeen": "2023-02-16T16:58:44.0672808+00:00",
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
-  "LastChanged": "2023-08-08T10:58:39.8660695+00:00",
-  "LastChanged_Achievements": "2023-08-18T00:07:58.0279102+00:00",
+  "LastChanged": "2023-08-18T01:37:32.2922999+00:00",
+  "LastChanged_Achievements": "2023-08-18T01:44:47.7183884+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:32.4221981+00:00",
-  "LastUpdate_Ratings": "2023-08-18T00:00:12.5831821+00:00",
-  "LastUpdate_Achievements": "2023-08-18T00:07:58.0279753+00:00"
+  "LastUpdate_Ratings": "2023-08-18T01:37:32.2923007+00:00",
+  "LastUpdate_Achievements": "2023-08-18T01:44:47.7184563+00:00"
 }

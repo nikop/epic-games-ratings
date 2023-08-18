@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 22,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -666,9 +666,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 213805,
+  "EOS_Progressed": 213828,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3778,
+  "EOS_NewPlayers": 3774,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7321,6 +7321,11 @@
       "Time": "2023-08-18T00:06:04.712465+00:00",
       "NumProgressed": 213805,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-18T01:43:31.1315493+00:00",
+      "NumProgressed": 213828,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -7388,7 +7393,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1710
+      "UsersEstimate": 1711
     },
     {
       "ID": "Chapter3",
@@ -7778,9 +7783,9 @@
       "ID": "ElfHitTwoFriends",
       "SetID": "50chcgj",
       "Name": "Sowwy!",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 36347
+      "UsersEstimate": 38489
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -7980,7 +7985,7 @@
       "Name": "Speedrun",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1710
+      "UsersEstimate": 1711
     },
     {
       "ID": "SupportCount4",
@@ -8028,28 +8033,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1710
+      "UsersEstimate": 1711
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 213805,
+      "Progressed": 213828,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 213805,
+      "Progressed": 213828,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-17T18:00:52.3354753+00:00",
-  "LastChanged_Achievements": "2023-08-18T00:06:04.7124644+00:00",
+  "LastChanged_Achievements": "2023-08-18T01:43:31.1315489+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:49.6773731+00:00",
-  "LastUpdate_Ratings": "2023-08-18T00:01:49.4271597+00:00",
-  "LastUpdate_Achievements": "2023-08-18T00:06:04.7125848+00:00"
+  "LastUpdate_Ratings": "2023-08-18T01:38:34.3140196+00:00",
+  "LastUpdate_Achievements": "2023-08-18T01:43:31.1316952+00:00"
 }

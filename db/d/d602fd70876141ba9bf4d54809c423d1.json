@@ -2,9 +2,9 @@
   "ID": "d602fd70876141ba9bf4d54809c423d1",
   "Name": "The Evil Within",
   "ProductSlug": "the-evil-within",
-  "Ranking_EOS_Progress": 353,
+  "Ranking_EOS_Progress": 352,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 65,
+  "EOS_Progressed": 66,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -339,6 +339,11 @@
       "Time": "2023-08-17T19:04:34.46113+00:00",
       "NumProgressed": 65,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-18T01:43:10.2904402+00:00",
+      "NumProgressed": 66,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T16:01:32.1694174+00:00",
@@ -357,7 +362,7 @@
       "ID": "ACHIEVEMENT_02",
       "SetID": "ap8553i",
       "Name": "Old Flame",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 20,
       "UsersEstimate": 14
     },
@@ -405,17 +410,17 @@
       "ID": "ACHIEVEMENT_08",
       "SetID": "ap8553i",
       "Name": "One of the Many",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 45,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_09",
       "SetID": "ap8553i",
       "Name": "First Step into Darkness",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -525,7 +530,7 @@
       "ID": "ACHIEVEMENT_23",
       "SetID": "ap8553i",
       "Name": "...And the Corpses Mount",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
       "UsersEstimate": 16
     },
@@ -613,7 +618,7 @@
       "ID": "ACHIEVEMENT_34",
       "SetID": "ap8553i",
       "Name": "Home is Where the Hospice is",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 15,
       "UsersEstimate": 14
     },
@@ -918,20 +923,20 @@
     {
       "ID": "8ddjaeg",
       "IsBase": false,
-      "Progressed": 65,
+      "Progressed": 66,
       "Completed": 0
     },
     {
       "ID": "ap8553i",
       "IsBase": true,
-      "Progressed": 65,
+      "Progressed": 66,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-04T21:57:01.9865679+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5206267+00:00",
-  "LastChanged_Achievements": "2023-08-18T00:05:33.9097294+00:00",
+  "LastChanged_Achievements": "2023-08-18T01:43:10.2904397+00:00",
   "LastUpdate_AppInfo": "2023-08-16T16:57:24.4284709+00:00",
-  "LastUpdate_Ratings": "2023-08-17T23:58:23.4148365+00:00",
-  "LastUpdate_Achievements": "2023-08-18T00:05:33.9098028+00:00"
+  "LastUpdate_Ratings": "2023-08-18T01:36:20.7258292+00:00",
+  "LastUpdate_Achievements": "2023-08-18T01:43:10.2905185+00:00"
 }

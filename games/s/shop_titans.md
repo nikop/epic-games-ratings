@@ -23,6 +23,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | One-Armed Bandit | 0.50% | ~673 |
 | Through Repetition, Perfection | 0.50% | ~673 |
 | Bounty Hunters | 0.40% | ~539 |
+| Blank Page Syndrome | 0.40% | ~539 |
 | Demand for Supplies | 0.40% | ~539 |
 | Flooding the Market | 0.40% | ~539 |
 | Where it Hurts | 0.40% | ~539 |
@@ -38,7 +39,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Vanity, Verily | 0.30% | ~404 |
 | Fated Encounters | 0.30% | ~404 |
 | For the Hoard! | 0.30% | ~404 |
-| Blank Page Syndrome | 0.30% | ~404 |
 | Master of Transmutation | 0.30% | ~404 |
 | Power of Love | 0.30% | ~404 |
 | Efficient Floor Space | 0.30% | ~404 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.10% | ~135 |
 | All Accounted For | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,689 (Ranked 66)  
+Progressed: 134,692 (Ranked 66)  
 Completed: 133 (0.10%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,16 +239,16 @@ Completed: 133 (0.10%) (Ranked 205)
 | 2023-08-15 | 134,574 | 132 |
 | 2023-08-16 | 134,622 | 133 |
 | 2023-08-17 | 134,688 | 133 |
-| 2023-08-18 | 134,689 | 133 |
+| 2023-08-18 | 134,692 | 133 |
 ## Awards
 Max (Great for Beginners): 4,704  (Ranked 71)  
-Sum: 27,109 (Ranked 46)  
+Sum: 27,110 (Ranked 46)  
 Diff (max vs sum): 25  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,704 |
 | This game is Relaxing | 4,000 |
-| This game has Quickly Understood Controls | 3,986 |
+| This game has Quickly Understood Controls | 3,987 |
 | This game has Diverse Characters | 3,854 |
 | This game is Highly Recommended | 3,735 |
 | This game has Easy Combat | 3,675 |
@@ -463,3 +463,4 @@ Diff (max vs sum): 25
 | 2023-08-15 | 3.99 | - | 4,700 | 27,101 |
 | 2023-08-16 | 3.99 | - | 4,701 | 27,104 |
 | 2023-08-17 | 3.99 | - | 4,704 | 27,109 |
+| 2023-08-18 | 3.99 | - | 4,704 | 27,110 |

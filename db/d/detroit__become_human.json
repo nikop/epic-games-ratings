@@ -4,10 +4,10 @@
   "ProductSlug": "detroit-become-human",
   "Ranking_Rating": 26,
   "Ranking_Popularity": 124,
-  "Ranking_PopularitySum": 219,
+  "Ranking_PopularitySum": 217,
   "Ranking_EOS_Progress": 546,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 354,
+  "Ranking_EOS_NewPlayers": 352,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2019-12-12T13:00:00+00:00",
@@ -1261,10 +1261,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 1536,
       "NumberOfAwardsMax": 1426
+    },
+    {
+      "Time": "2023-08-18T01:36:35.2550569+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1556,
+      "NumberOfAwardsMax": 1426
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1536,
+  "NumberOfAwards": 1556,
   "NumberOfAwardsMax": 1426,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
@@ -1303,6 +1309,12 @@
       "Prefix": "This game is",
       "Type": "Highly Recommended",
       "Count": 20
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -1316,8 +1328,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:06.5181893+00:00",
-  "LastChanged": "2023-08-14T19:58:03.3533619+00:00",
+  "LastChanged": "2023-08-18T01:36:35.2550567+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:05.4175253+00:00",
-  "LastUpdate_Ratings": "2023-08-17T23:58:46.5086358+00:00",
-  "LastUpdate_Achievements": "2023-08-18T00:08:34.1384798+00:00"
+  "LastUpdate_Ratings": "2023-08-18T01:36:35.2550571+00:00",
+  "LastUpdate_Achievements": "2023-08-18T01:45:13.1782033+00:00"
 }

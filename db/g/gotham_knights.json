@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -2388,10 +2388,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 4169,
       "NumberOfAwardsMax": 2505
+    },
+    {
+      "Time": "2023-08-18T01:35:41.8013774+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4170,
+      "NumberOfAwardsMax": 2505
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4169,
+  "NumberOfAwards": 4170,
   "NumberOfAwardsMax": 2505,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2405,7 +2411,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 212
+      "Count": 213
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2456,9 +2462,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 67882,
+  "EOS_Progressed": 67883,
   "EOS_Completed": 107,
-  "EOS_NewPlayers": 140,
+  "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -12601,6 +12607,11 @@
       "Time": "2023-08-18T00:07:50.6584568+00:00",
       "NumProgressed": 67882,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2023-08-18T01:44:42.79401+00:00",
+      "NumProgressed": 67883,
+      "NumCompleted": 107
     }
   ],
   "TotalAchievements": 61,
@@ -12732,7 +12743,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 9503
+      "UsersEstimate": 9504
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -12844,7 +12855,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 13576
+      "UsersEstimate": 13577
     },
     {
       "ID": "FREEZE_2",
@@ -12860,7 +12871,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 9503
+      "UsersEstimate": 9504
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -12924,7 +12935,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 16970
+      "UsersEstimate": 16971
     },
     {
       "ID": "HARLEY_3",
@@ -12932,7 +12943,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 13576
+      "UsersEstimate": 13577
     },
     {
       "ID": "HARLEY_4",
@@ -12956,7 +12967,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 33941
+      "UsersEstimate": 33942
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -12980,7 +12991,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 13576
+      "UsersEstimate": 13577
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -13012,7 +13023,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 16970
+      "UsersEstimate": 16971
     },
     {
       "ID": "MYSTERY_03",
@@ -13028,7 +13039,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 13576
+      "UsersEstimate": 13577
     },
     {
       "ID": "MYSTERY_05",
@@ -13052,7 +13063,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 9503
+      "UsersEstimate": 9504
     },
     {
       "ID": "MYSTERY_08",
@@ -13099,22 +13110,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 67882,
+      "Progressed": 67883,
       "Completed": 107
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 38162,
+      "Progressed": 38163,
       "Completed": 2658
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-08-17T23:57:23.5466413+00:00",
-  "LastChanged_Achievements": "2023-08-18T00:07:50.6584558+00:00",
+  "LastChanged": "2023-08-18T01:35:41.8013772+00:00",
+  "LastChanged_Achievements": "2023-08-18T01:44:42.7940095+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:49.7416919+00:00",
-  "LastUpdate_Ratings": "2023-08-17T23:57:23.5466419+00:00",
-  "LastUpdate_Achievements": "2023-08-18T00:07:50.6586085+00:00"
+  "LastUpdate_Ratings": "2023-08-18T01:35:41.8013778+00:00",
+  "LastUpdate_Achievements": "2023-08-18T01:44:42.7941299+00:00"
 }

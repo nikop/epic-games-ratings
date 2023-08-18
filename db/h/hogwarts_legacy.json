@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 35,
+  "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -6352,18 +6352,24 @@
       "Rating": 4.77,
       "NumberOfAwards": 41138,
       "NumberOfAwardsMax": 21780
+    },
+    {
+      "Time": "2023-08-18T01:37:12.078568+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 41157,
+      "NumberOfAwardsMax": 21799
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 41138,
-  "NumberOfAwardsMax": 21780,
+  "NumberOfAwards": 41157,
+  "NumberOfAwardsMax": 21799,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 21780
+      "Count": 21799
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -6432,9 +6438,9 @@
       "Count": 596
     }
   ],
-  "EOS_Progressed": 290288,
+  "EOS_Progressed": 290294,
   "EOS_Completed": 452,
-  "EOS_NewPlayers": 486,
+  "EOS_NewPlayers": 489,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -19282,6 +19288,11 @@
       "Time": "2023-08-18T00:07:40.3015026+00:00",
       "NumProgressed": 290288,
       "NumCompleted": 452
+    },
+    {
+      "Time": "2023-08-18T01:44:35.7213291+00:00",
+      "NumProgressed": 290294,
+      "NumCompleted": 452
     }
   ],
   "TotalAchievements": 45,
@@ -19333,7 +19344,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 5,
       "XP": 70,
-      "UsersEstimate": 14514
+      "UsersEstimate": 14515
     },
     {
       "ID": "PFA_15",
@@ -19341,7 +19352,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20320
+      "UsersEstimate": 20321
     },
     {
       "ID": "PFA_16",
@@ -19357,7 +19368,7 @@
       "Name": "Beast Friends",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20320
+      "UsersEstimate": 20321
     },
     {
       "ID": "PFA_18",
@@ -19365,7 +19376,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20320
+      "UsersEstimate": 20321
     },
     {
       "ID": "PFA_19",
@@ -19373,7 +19384,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 20320
+      "UsersEstimate": 20321
     },
     {
       "ID": "PFA_2",
@@ -19429,7 +19440,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14514
+      "UsersEstimate": 14515
     },
     {
       "ID": "PFA_26",
@@ -19461,7 +19472,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14514
+      "UsersEstimate": 14515
     },
     {
       "ID": "PFA_3",
@@ -19517,7 +19528,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 23223
+      "UsersEstimate": 23224
     },
     {
       "ID": "PFA_36",
@@ -19581,7 +19592,7 @@
       "Name": "Raising Expectations",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 14514
+      "UsersEstimate": 14515
     },
     {
       "ID": "PFA_43",
@@ -19597,7 +19608,7 @@
       "Name": "The Spell Master",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23223
+      "UsersEstimate": 23224
     },
     {
       "ID": "PFA_45",
@@ -19645,23 +19656,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23223
+      "UsersEstimate": 23224
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 290288,
+      "Progressed": 290294,
       "Completed": 452
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-08-17T22:58:41.2655468+00:00",
-  "LastChanged_Achievements": "2023-08-18T00:07:40.3015022+00:00",
+  "LastChanged": "2023-08-18T01:37:12.0785679+00:00",
+  "LastChanged_Achievements": "2023-08-18T01:44:35.7213282+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:17.4814985+00:00",
-  "LastUpdate_Ratings": "2023-08-17T23:59:39.9687056+00:00",
-  "LastUpdate_Achievements": "2023-08-18T00:07:40.3016028+00:00"
+  "LastUpdate_Ratings": "2023-08-18T01:37:12.0785688+00:00",
+  "LastUpdate_Achievements": "2023-08-18T01:44:35.7214453+00:00"
 }

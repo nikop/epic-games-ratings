@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7045,
+  "EOS_Progressed": 7046,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -3703,6 +3703,11 @@
       "Time": "2023-08-17T22:04:17.8508898+00:00",
       "NumProgressed": 7045,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-08-18T01:42:43.0293503+00:00",
+      "NumProgressed": 7046,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 27,
@@ -3730,7 +3735,7 @@
       "Name": "Fields Watered",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2888
+      "UsersEstimate": 2889
     },
     {
       "ID": "AK_GLOWING_WATERS",
@@ -3754,7 +3759,7 @@
       "Name": "Harp Tuned",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1620
+      "UsersEstimate": 1621
     },
     {
       "ID": "AK_HOPES_HOISTED",
@@ -3770,7 +3775,7 @@
       "Name": "Irons Scorched",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1761
+      "UsersEstimate": 1762
     },
     {
       "ID": "AK_ISLANDS_RECONNECTED",
@@ -3778,7 +3783,7 @@
       "Name": "Islands Connected",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1761
+      "UsersEstimate": 1762
     },
     {
       "ID": "AK_KNOWLEDGE_SEEKER",
@@ -3834,7 +3839,7 @@
       "Name": "Pyre Ignited",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1620
+      "UsersEstimate": 1621
     },
     {
       "ID": "AK_RELIC_FINDER",
@@ -3858,7 +3863,7 @@
       "Name": "Settling the Skies",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2888
+      "UsersEstimate": 2889
     },
     {
       "ID": "AK_SMALL_COMMUNITY",
@@ -3866,7 +3871,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 3945
+      "UsersEstimate": 3946
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -3882,7 +3887,7 @@
       "Name": "It Takes a Village",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 2395
+      "UsersEstimate": 2396
     },
     {
       "ID": "AK_TRAVELERS_RETURNED",
@@ -3890,7 +3895,7 @@
       "Name": "Travelers Returned",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1620
+      "UsersEstimate": 1621
     },
     {
       "ID": "AK_TRUE_CHALLENGE",
@@ -3929,15 +3934,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7045,
+      "Progressed": 7046,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-08-18T00:04:53.9667909+00:00",
+  "LastChanged_Achievements": "2023-08-18T01:42:43.0293498+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:19.8609046+00:00",
-  "LastUpdate_Ratings": "2023-08-17T23:59:42.7899988+00:00",
-  "LastUpdate_Achievements": "2023-08-18T00:04:53.9668539+00:00"
+  "LastUpdate_Ratings": "2023-08-18T01:37:13.4754458+00:00",
+  "LastUpdate_Achievements": "2023-08-18T01:42:43.0293923+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "42b8b899a3f349bd8376264ccee3cd2a",
   "Name": "Shadow Gambit: The Cursed Crew",
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
-  "Ranking_EOS_Progress": 303,
+  "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 104,
   "Ranking_EOS_NewCompleters": 97,
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 148,
+  "EOS_Progressed": 154,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 140,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -256,6 +256,11 @@
       "Time": "2023-08-18T00:03:41.231178+00:00",
       "NumProgressed": 148,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-18T01:41:40.5393171+00:00",
+      "NumProgressed": 154,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -266,7 +271,7 @@
       "ID": "_01_AllIslands",
       "SetID": "8a1io5d",
       "Name": "Somewhere Deep in the Lost Caribbean",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -274,23 +279,23 @@
       "ID": "_02_FinishFirstMission",
       "SetID": "8a1io5d",
       "Name": "A New Journey",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 89
     },
     {
       "ID": "_03_FinishAct1",
       "SetID": "8a1io5d",
       "Name": "The Adventure Begins",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 34
     },
     {
       "ID": "_04_CollectAllRelics",
       "SetID": "8a1io5d",
       "Name": "This Belongs in a Museum",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -300,15 +305,15 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
       "SetID": "8a1io5d",
       "Name": "Mirror Mirror on the Wall",
-      "Percentage": 0,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "_07_FinishAct3",
@@ -332,13 +337,13 @@
       "Name": "Powder Monkey",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "_10_Completion_30",
       "SetID": "8a1io5d",
       "Name": "Buccaneer",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -346,7 +351,7 @@
       "ID": "_11_Completion_40",
       "SetID": "8a1io5d",
       "Name": "Seadog",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -354,7 +359,7 @@
       "ID": "_12_Completion_50",
       "SetID": "8a1io5d",
       "Name": "Privateer",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -362,7 +367,7 @@
       "ID": "_13_Completion_60",
       "SetID": "8a1io5d",
       "Name": "Corsair",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -370,7 +375,7 @@
       "ID": "_14_Completion_70",
       "SetID": "8a1io5d",
       "Name": "Freebooter",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -378,7 +383,7 @@
       "ID": "_15_Completion_80",
       "SetID": "8a1io5d",
       "Name": "Marauder",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 125,
       "UsersEstimate": 1
     },
@@ -386,23 +391,23 @@
       "ID": "_16_UnlockCore8Characters",
       "SetID": "8a1io5d",
       "Name": "Pirates Assemble!",
-      "Percentage": 0.7,
+      "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
       "SetID": "8a1io5d",
       "Name": "With Great Power\u2026",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "_18_UpgradeAllCharacters",
       "SetID": "8a1io5d",
       "Name": "Fully Decked",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 125,
       "UsersEstimate": 1
     },
@@ -410,15 +415,15 @@
       "ID": "_19_CrewTale_BSP",
       "SetID": "8a1io5d",
       "Name": "Persistent Parasite",
-      "Percentage": 0.7,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "_20_CrewTale_TPB",
       "SetID": "8a1io5d",
       "Name": "Fishy Fish",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -434,7 +439,7 @@
       "ID": "_22_CrewTale_FSH",
       "SetID": "8a1io5d",
       "Name": "Accursed Artifacts",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -466,7 +471,7 @@
       "ID": "_26_ReviveVirgilio",
       "SetID": "8a1io5d",
       "Name": "Welcome Back Jester",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 140,
       "UsersEstimate": 1
     }
@@ -475,14 +480,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 148,
+      "Progressed": 154,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-18T00:03:41.2311775+00:00",
+  "LastChanged_Achievements": "2023-08-18T01:41:40.5393166+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:42.1902661+00:00",
-  "LastUpdate_Ratings": "2023-08-18T00:00:25.8785065+00:00",
-  "LastUpdate_Achievements": "2023-08-18T00:03:41.2312022+00:00"
+  "LastUpdate_Ratings": "2023-08-18T01:37:40.3103797+00:00",
+  "LastUpdate_Achievements": "2023-08-18T01:41:40.5393415+00:00"
 }

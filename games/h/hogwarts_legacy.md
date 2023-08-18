@@ -19,17 +19,17 @@ Rating: 4.77 (Ranked 109)
 | Loom for Improvement | 9.00% | ~26,126 |
 | A Talent for Spending | 9.00% | ~26,126 |
 | Coasting Along | 9.00% | ~26,126 |
-| Followed the Butterflies | 8.00% | ~23,223 |
-| The Spell Master | 8.00% | ~23,223 |
-| Rising From the Ashes | 8.00% | ~23,223 |
-| The Avenging Gazelle | 7.00% | ~20,320 |
-| Beast Friends | 7.00% | ~20,320 |
-| A Sallow Grave | 7.00% | ~20,320 |
-| Flight the Good Flight | 7.00% | ~20,320 |
-| The Seeker of Knowledge | 5.00% | ~14,514 |
-| The Root of the Problem | 5.00% | ~14,514 |
-| Third Time's a Charm | 5.00% | ~14,514 |
-| Raising Expectations | 5.00% | ~14,514 |
+| Followed the Butterflies | 8.00% | ~23,224 |
+| The Spell Master | 8.00% | ~23,224 |
+| Rising From the Ashes | 8.00% | ~23,224 |
+| The Avenging Gazelle | 7.00% | ~20,321 |
+| Beast Friends | 7.00% | ~20,321 |
+| A Sallow Grave | 7.00% | ~20,321 |
+| Flight the Good Flight | 7.00% | ~20,321 |
+| The Seeker of Knowledge | 5.00% | ~14,515 |
+| The Root of the Problem | 5.00% | ~14,515 |
+| Third Time's a Charm | 5.00% | ~14,515 |
+| Raising Expectations | 5.00% | ~14,515 |
 | The Toast of the Town | 4.00% | ~11,612 |
 | Room with a View | 4.00% | ~11,612 |
 | The Intrepid Explorer | 4.00% | ~11,612 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,742 |
 | Collector's Edition | 0.30% | ~871 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290,288 (Ranked 43)  
+Progressed: 290,294 (Ranked 43)  
 Completed: 452 (0.16%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,14 +171,14 @@ Completed: 452 (0.16%) (Ranked 191)
 | 2023-08-15 | 290,171 | 451 |
 | 2023-08-16 | 290,231 | 452 |
 | 2023-08-17 | 290,286 | 452 |
-| 2023-08-18 | 290,288 | 452 |
+| 2023-08-18 | 290,294 | 452 |
 ## Awards
-Max (Character Customization): 21,780  (Ranked 17)  
-Sum: 41,138 (Ranked 30)  
+Max (Character Customization): 21,799  (Ranked 17)  
+Sum: 41,157 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 21,780 |
+| This game has Inclusive Character Customization | 21,799 |
 | This game has Great Boss Battles | 10,546 |
 | This game is Great for Beginners | 973 |
 | This game is Relaxing | 959 |
@@ -340,3 +340,4 @@ Diff (max vs sum): -13
 | 2023-08-15 | 4.77 | 21,755 | 41,047 |
 | 2023-08-16 | 4.77 | 21,765 | 41,080 |
 | 2023-08-17 | 4.77 | 21,780 | 41,138 |
+| 2023-08-18 | 4.77 | 21,799 | 41,157 |
