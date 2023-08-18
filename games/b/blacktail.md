@@ -21,9 +21,9 @@ Rating: 4.68 (Ranked 238)
 | The word around is... | 5.00% | ~31 |
 | Liar Liar | 5.00% | ~31 |
 | The cycle acknowledged | 5.00% | ~31 |
+| Queen | 5.00% | ~31 |
 | Extensive retelling | 4.00% | ~25 |
 | Favorite | 4.00% | ~25 |
-| Queen | 4.00% | ~25 |
 | Specialist | 4.00% | ~25 |
 | Goal! | 3.00% | ~19 |
 | Gnowlledgeable | 3.00% | ~19 |

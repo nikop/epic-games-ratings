@@ -4,7 +4,7 @@
   "ProductSlug": "infindustry-cccc40",
   "Ranking_EOS_Progress": 344,
   "Ranking_EOS_Completed": 109,
-  "Ranking_EOS_NewPlayers": 285,
+  "Ranking_EOS_NewPlayers": 284,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-05-11T23:00:00+00:00",
@@ -470,9 +470,9 @@
       "ID": "Harvester",
       "SetID": "82ojhod",
       "Name": "Harvester",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Healer",
@@ -533,8 +533,8 @@
   ],
   "FirstSeen": "2023-05-14T11:57:16.2628162+00:00",
   "FirstSeenAchievements": "2023-04-26T07:04:01.8730756+00:00",
-  "LastChanged_Achievements": "2023-08-18T22:04:38.935631+00:00",
+  "LastChanged_Achievements": "2023-08-18T23:05:06.4789357+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:07.7294344+00:00",
-  "LastUpdate_Ratings": "2023-08-18T21:58:43.7634256+00:00",
-  "LastUpdate_Achievements": "2023-08-18T22:04:38.9356421+00:00"
+  "LastUpdate_Ratings": "2023-08-18T22:59:09.8201323+00:00",
+  "LastUpdate_Achievements": "2023-08-18T23:05:06.4789472+00:00"
 }

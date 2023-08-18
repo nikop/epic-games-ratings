@@ -52,6 +52,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Natural 20 | 0.30% | ~404 |
 | Seasoned Journeyman | 0.30% | ~404 |
 | Magical Harmony | 0.30% | ~404 |
+| Complete Monopoly | 0.30% | ~404 |
 | A Notch Above the Rest | 0.20% | ~269 |
 | Cream of the Crop | 0.20% | ~269 |
 | Top of the World | 0.20% | ~269 |
@@ -98,7 +99,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Special Ingredient | 0.20% | ~269 |
 | Exotic Commodities | 0.20% | ~269 |
 | Economy of Scarce | 0.20% | ~269 |
-| Complete Monopoly | 0.20% | ~269 |
 | King's Blade | 0.20% | ~269 |
 | Bane of Legends | 0.10% | ~135 |
 | The Free Encyclopedia | 0.10% | ~135 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.10% | ~135 |
 | All Accounted For | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,734 (Ranked 66)  
+Progressed: 134,736 (Ranked 66)  
 Completed: 133 (0.10%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,11 +239,11 @@ Completed: 133 (0.10%) (Ranked 205)
 | 2023-08-15 | 134,574 | 132 |
 | 2023-08-16 | 134,622 | 133 |
 | 2023-08-17 | 134,688 | 133 |
-| 2023-08-18 | 134,734 | 133 |
+| 2023-08-18 | 134,736 | 133 |
 ## Awards
 Max (Great for Beginners): 4,704  (Ranked 71)  
-Sum: 27,110 (Ranked 46)  
-Diff (max vs sum): 25  
+Sum: 27,110 (Ranked 47)  
+Diff (max vs sum): 24  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,704 |

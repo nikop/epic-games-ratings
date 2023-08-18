@@ -2,7 +2,7 @@
   "ID": "42b8b899a3f349bd8376264ccee3cd2a",
   "Name": "Shadow Gambit: The Cursed Crew",
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
-  "Ranking_EOS_Progress": 277,
+  "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 96,
   "Ranking_EOS_NewCompleters": 95,
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 245,
+  "EOS_Progressed": 249,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 236,
+  "EOS_NewPlayers": 240,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -366,6 +366,11 @@
       "Time": "2023-08-18T22:03:30.1346362+00:00",
       "NumProgressed": 245,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-18T23:03:42.9632112+00:00",
+      "NumProgressed": 249,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -376,25 +381,25 @@
       "ID": "_01_AllIslands",
       "SetID": "8a1io5d",
       "Name": "Somewhere Deep in the Lost Caribbean",
-      "Percentage": 0.8,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "_02_FinishFirstMission",
       "SetID": "8a1io5d",
       "Name": "A New Journey",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 162
+      "UsersEstimate": 167
     },
     {
       "ID": "_03_FinishAct1",
       "SetID": "8a1io5d",
       "Name": "The Adventure Begins",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 80
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -432,9 +437,9 @@
       "ID": "_08_Completion_10",
       "SetID": "8a1io5d",
       "Name": "Swabbie",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 30
     },
     {
       "ID": "_09_Completion_20",
@@ -506,7 +511,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -585,14 +590,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 245,
+      "Progressed": 249,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-18T22:03:30.1346357+00:00",
+  "LastChanged_Achievements": "2023-08-18T23:03:42.9632108+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:42.1902661+00:00",
-  "LastUpdate_Ratings": "2023-08-18T21:59:24.1096329+00:00",
-  "LastUpdate_Achievements": "2023-08-18T22:03:30.1346517+00:00"
+  "LastUpdate_Ratings": "2023-08-18T23:00:05.8461467+00:00",
+  "LastUpdate_Achievements": "2023-08-18T23:03:42.9632666+00:00"
 }

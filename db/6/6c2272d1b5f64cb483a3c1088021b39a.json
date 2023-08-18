@@ -4,7 +4,7 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 949,
+  "EOS_Progressed": 951,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2991,6 +2991,11 @@
       "Time": "2023-08-18T18:06:41.8556117+00:00",
       "NumProgressed": 949,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-18T23:07:04.2502602+00:00",
+      "NumProgressed": 951,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3002,7 +3007,7 @@
       "Name": "Adventurous 1",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "adventurous_2",
@@ -3026,7 +3031,7 @@
       "Name": "Archmage 1",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "archmage_2",
@@ -3050,7 +3055,7 @@
       "Name": "Call of Mana 1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "call_of_mana_2",
@@ -3098,7 +3103,7 @@
       "Name": "Collector 1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "collector_2",
@@ -3130,7 +3135,7 @@
       "Name": "Conqueror 2",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "conqueror_3",
@@ -3146,7 +3151,7 @@
       "Name": "Diehard 1",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "diehard_2",
@@ -3178,7 +3183,7 @@
       "Name": "Elemental stones 2",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "elemental_stones_3",
@@ -3218,7 +3223,7 @@
       "Name": "From Day to Day 1",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "from_day_to_day_2",
@@ -3242,7 +3247,7 @@
       "Name": "Glitter of Gold 1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "glitter_of_gold_2",
@@ -3314,7 +3319,7 @@
       "Name": "Lord of the Tower 1",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "lord_of_the_tower_2",
@@ -3418,7 +3423,7 @@
       "Name": "Sophisticated Alchemist 2",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "sophisticated_alchemist_3",
@@ -3434,7 +3439,7 @@
       "Name": "Soul Shards 1",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "soul_shards_2",
@@ -3482,7 +3487,7 @@
       "Name": "Taste of Victory 1",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "taste_of_victory_2",
@@ -3506,7 +3511,7 @@
       "Name": "Tomb Raider 1",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "tomb_raider_2",
@@ -3529,14 +3534,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 949,
+      "Progressed": 951,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-08-18T22:06:14.3041678+00:00",
+  "LastChanged_Achievements": "2023-08-18T23:07:04.2502598+00:00",
   "LastUpdate_AppInfo": "2023-08-15T05:57:05.8516233+00:00",
-  "LastUpdate_Ratings": "2023-08-18T21:58:30.3075947+00:00",
-  "LastUpdate_Achievements": "2023-08-18T22:06:14.3042317+00:00"
+  "LastUpdate_Ratings": "2023-08-18T22:58:53.3159713+00:00",
+  "LastUpdate_Achievements": "2023-08-18T23:07:04.2503745+00:00"
 }

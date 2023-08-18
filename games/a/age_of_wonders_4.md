@@ -6,10 +6,10 @@ Rating: 4.61 (Ranked 365)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Secret Technique | 7.00% | ~358 |
+| Walls Cannot Stop Us | 6.00% | ~307 |
 | Tipping the Scales | 6.00% | ~307 |
 | Realm Estate | 5.00% | ~256 |
 | A Wonderful Discovery | 5.00% | ~256 |
-| Walls Cannot Stop Us | 5.00% | ~256 |
 | Bone Peddler | 5.00% | ~256 |
 | From Friends to Family | 5.00% | ~256 |
 | Stronger Together | 5.00% | ~256 |

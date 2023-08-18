@@ -1,7 +1,7 @@
 # Aliens: Dark Descent
 [Store](https://store.epicgames.com/en-US/p/aliens-dark-descent)  
 [View Rawdata](../../db/a/aliens__dark_descent.json)  
-Rating: 4.49 (Ranked 576)  
+Rating: 4.49 (Ranked 577)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -38,7 +38,7 @@ Rating: 4.49 (Ranked 576)
 | The Cable Guy | 19.00% | ~602 |
 | Abysmal Horrors | 19.00% | ~602 |
 | Bandage Lover | 18.00% | ~570 |
-| Regicide | 14.00% | ~444 |
+| Regicide | 15.00% | ~475 |
 | Flawless Victory | 12.00% | ~380 |
 | This Went Smoothly | 12.00% | ~380 |
 | Heavy Steps | 12.00% | ~380 |

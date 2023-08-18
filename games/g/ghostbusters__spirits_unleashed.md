@@ -1,7 +1,7 @@
 # Ghostbusters: Spirits Unleashed
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.49 (Ranked 576)  
+Rating: 4.49 (Ranked 577)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -9,8 +9,8 @@ Rating: 4.49 (Ranked 576)
 | Advancement | 73.00% | ~18,384 |
 | Meticulously Efficient | 63.00% | ~15,865 |
 | Discovery | 61.00% | ~15,362 |
-| Fully Upgraded | 54.00% | ~13,599 |
 | Swift Rift Removers | 54.00% | ~13,599 |
+| Fully Upgraded | 53.00% | ~13,347 |
 | I collect Spores, Molds, and Fungi | 51.00% | ~12,843 |
 | Cultured | 51.00% | ~12,843 |
 | Vaporous Expansion | 48.00% | ~12,088 |
@@ -179,9 +179,9 @@ Completed: 52 (0.21%) (Ranked 184)
 | 2023-08-17 | 25,166 | 52 |
 | 2023-08-18 | 25,183 | 52 |
 ## Awards
-Max (Great for Quick Sessions): 248  (Ranked 253)  
+Max (Great for Quick Sessions): 248  (Ranked 254)  
 Sum: 2,242 (Ranked 188)  
-Diff (max vs sum): 65  
+Diff (max vs sum): 66  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 248 |

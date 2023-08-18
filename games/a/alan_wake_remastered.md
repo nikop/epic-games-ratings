@@ -6,26 +6,26 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 37.00% | ~22,599 |
-| Let There Be Light | 30.00% | ~18,323 |
+| Follow the Light | 37.00% | ~22,600 |
+| Let There Be Light | 30.00% | ~18,324 |
 | Float Like a Butterfly | 29.00% | ~17,713 |
-| Nordic Walking | 23.00% | ~14,048 |
-| Bright Falls' Finest | 23.00% | ~14,048 |
+| Nordic Walking | 23.00% | ~14,049 |
+| Bright Falls' Finest | 23.00% | ~14,049 |
 | Under a Thin Layer of Skin | 20.00% | ~12,216 |
-| Paging Mr. Wake | 17.00% | ~10,383 |
-| Park Ranger | 16.00% | ~9,772 |
+| Paging Mr. Wake | 17.00% | ~10,384 |
+| Park Ranger | 16.00% | ~9,773 |
 | Back! Back, I Say! | 15.00% | ~9,162 |
 | Finders Keepers | 15.00% | ~9,162 |
 | Sound and Fury | 14.00% | ~8,551 |
 | Missed by a Mile | 14.00% | ~8,551 |
 | Damn Good Cup of Coffee | 14.00% | ~8,551 |
-| Wheels Within Wheels | 13.00% | ~7,940 |
-| They're Heeeeeere! | 13.00% | ~7,940 |
-| The Six-Gun Scribe | 13.00% | ~7,940 |
-| Heavy Metal | 12.00% | ~7,329 |
-| Iron Horse | 12.00% | ~7,329 |
-| Collateral Carnage | 12.00% | ~7,329 |
-| Come One, Come All | 12.00% | ~7,329 |
+| Wheels Within Wheels | 13.00% | ~7,941 |
+| They're Heeeeeere! | 13.00% | ~7,941 |
+| The Six-Gun Scribe | 13.00% | ~7,941 |
+| Heavy Metal | 12.00% | ~7,330 |
+| Iron Horse | 12.00% | ~7,330 |
+| Collateral Carnage | 12.00% | ~7,330 |
+| Come One, Come All | 12.00% | ~7,330 |
 | Perchance to Dream | 11.00% | ~6,719 |
 | It's Not Just a Typewriter Brand | 11.00% | ~6,719 |
 | Thunder and Lightning | 11.00% | ~6,719 |
@@ -36,8 +36,8 @@ Number of Ratings: 524  (23.09.2022)
 | Right of Way | 9.00% | ~5,497 |
 | What Light Through Yonder Window | 8.00% | ~4,886 |
 | A Friend in Need | 8.00% | ~1,964 |
-| Tornado Wrangler | 7.00% | ~4,275 |
-| Departure | 7.00% | ~4,275 |
+| Tornado Wrangler | 7.00% | ~4,276 |
+| Departure | 7.00% | ~4,276 |
 | Hardboiled Writer | 6.00% | ~3,665 |
 | A Friend Indeed | 6.00% | ~1,473 |
 | Children of the Elder God | 5.00% | ~3,054 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~61 |
 | No Punctuation | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,078 (Ranked 85)  
+Progressed: 61,081 (Ranked 85)  
 Completed: 64 (0.10%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 64 (0.10%) (Ranked 205)
 | 2023-08-15 | 60,907 | 64 |
 | 2023-08-16 | 60,965 | 64 |
 | 2023-08-17 | 61,025 | 64 |
-| 2023-08-18 | 61,078 | 64 |
+| 2023-08-18 | 61,081 | 64 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

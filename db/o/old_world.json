@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 206,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -1611,9 +1611,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13458,
+  "EOS_Progressed": 13460,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -9846,6 +9846,11 @@
       "Time": "2023-08-18T21:06:01.1209556+00:00",
       "NumProgressed": 13458,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-18T23:05:50.6470918+00:00",
+      "NumProgressed": 13460,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -10391,9 +10396,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_LION",
       "SetID": "9201eeb",
       "Name": "Lion",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 94
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_MAGNIFICENT",
@@ -10551,9 +10556,9 @@
       "ID": "ACHIEVEMENT_CULTURE_DEVELOPING",
       "SetID": "9201eeb",
       "Name": "Developing Cities",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 269
     },
     {
       "ID": "ACHIEVEMENT_CULTURE_LEGENDARY",
@@ -11215,9 +11220,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_HAGIA_SOPHIA",
       "SetID": "9201eeb",
       "Name": "Hagia Sophia",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 81
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HANGING_GARDENS",
@@ -11311,9 +11316,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_PANTHEON",
       "SetID": "9201eeb",
       "Name": "Pantheon",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 94
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_PYRAMIDS",
@@ -11919,9 +11924,9 @@
       "ID": "ACHIEVEMENT_UNIT_KUSHITE_CAVALRY",
       "SetID": "9201eeb",
       "Name": "Kushite Cavalry",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 67
     },
     {
       "ID": "ACHIEVEMENT_UNIT_LEGIONARY",
@@ -12224,21 +12229,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13458,
+      "Progressed": 13460,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13458,
+      "Progressed": 13460,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-16T15:59:34.3416467+00:00",
-  "LastChanged_Achievements": "2023-08-18T22:05:13.4021858+00:00",
+  "LastChanged_Achievements": "2023-08-18T23:05:50.6470913+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:38.1291138+00:00",
-  "LastUpdate_Ratings": "2023-08-18T21:59:22.8009887+00:00",
-  "LastUpdate_Achievements": "2023-08-18T22:05:13.4028955+00:00"
+  "LastUpdate_Ratings": "2023-08-18T23:00:02.0932327+00:00",
+  "LastUpdate_Achievements": "2023-08-18T23:05:50.6479448+00:00"
 }
