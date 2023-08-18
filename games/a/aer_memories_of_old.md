@@ -1,24 +1,24 @@
 # AER Memories of Old
 [Store](https://store.epicgames.com/en-US/p/aer-memories-of-old)  
 [View Rawdata](../../db/a/aer_memories_of_old.json)  
-Rating: 4.45 (Ranked 635)  
+Rating: 4.45 (Ranked 636)  
 Number of Ratings: 170  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Light at the end of the tunnel | 76.00% | ~13,751 |
-| Mama? | 28.00% | ~5,066 |
-| People's Haven | 19.00% | ~3,438 |
-| Cartographer | 17.00% | ~3,076 |
-| Antlers of Stone | 15.00% | ~2,714 |
-| Knowledge for Power | 14.00% | ~2,533 |
-| Mausoleum of Ice | 14.00% | ~2,533 |
-| Gaze into the abyss | 13.00% | ~2,352 |
-| In the belly of the beast | 12.00% | ~2,171 |
-| Wings of Stone | 12.00% | ~2,171 |
-| Equilibrium | 12.00% | ~2,171 |
-| Condor condo | 10.00% | ~1,809 |
-| Memorial | 9.00% | ~1,628 |
+| Light at the end of the tunnel | 76.00% | ~13,754 |
+| Mama? | 28.00% | ~5,067 |
+| People's Haven | 19.00% | ~3,439 |
+| Cartographer | 17.00% | ~3,077 |
+| Antlers of Stone | 15.00% | ~2,715 |
+| Knowledge for Power | 14.00% | ~2,534 |
+| Mausoleum of Ice | 14.00% | ~2,534 |
+| Gaze into the abyss | 13.00% | ~2,353 |
+| In the belly of the beast | 12.00% | ~2,172 |
+| Wings of Stone | 12.00% | ~2,172 |
+| Equilibrium | 12.00% | ~2,172 |
+| Condor condo | 10.00% | ~1,810 |
+| Memorial | 9.00% | ~1,629 |
 | An uninvited guest | 8.00% | ~1,448 |
 | Talk to all the spirit animals | 7.00% | ~1,267 |
 | Ripples on the surface | 6.00% | ~1,086 |
@@ -27,7 +27,7 @@ Number of Ratings: 170  (23.09.2022)
 | Written in stone | 6.00% | ~1,086 |
 | Hide and Seek | 5.00% | ~905 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,094 (Ranked 108)  
+Progressed: 18,098 (Ranked 108)  
 Completed: 365 (2.02%) (Ranked 90)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 365 (2.02%) (Ranked 90)
 | 2023-08-15 | 17,933 | 363 |
 | 2023-08-16 | 17,984 | 363 |
 | 2023-08-17 | 18,059 | 365 |
-| 2023-08-18 | 18,094 | 365 |
+| 2023-08-18 | 18,098 | 365 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -4,8 +4,8 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 958,
+  "EOS_Progressed": 960,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3351,6 +3351,11 @@
       "Time": "2023-08-18T13:06:09.6290971+00:00",
       "NumProgressed": 958,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-18T14:00:52.1760482+00:00",
+      "NumProgressed": 960,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -3490,7 +3495,7 @@
       "Name": "Lieutenant",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -3586,7 +3591,7 @@
       "Name": "On Target",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -3665,14 +3670,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 958,
+      "Progressed": 960,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-18T13:06:09.6290966+00:00",
+  "LastChanged_Achievements": "2023-08-18T14:00:52.1760476+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:27.4280109+00:00",
-  "LastUpdate_Ratings": "2023-08-18T13:01:35.0545892+00:00",
-  "LastUpdate_Achievements": "2023-08-18T13:06:09.6291691+00:00"
+  "LastUpdate_Ratings": "2023-08-18T13:57:51.5078905+00:00",
+  "LastUpdate_Achievements": "2023-08-18T14:00:52.176104+00:00"
 }

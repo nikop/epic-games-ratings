@@ -34,6 +34,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Poetic Leader | 2.00% | ~269 |
 | Regicide | 1.00% | ~135 |
 | Ambitious | 1.00% | ~135 |
+| Drillmaster | 1.00% | ~135 |
 | Brilliant | 1.00% | ~135 |
 | Fountainhead | 1.00% | ~135 |
 | Great | 1.00% | ~135 |
@@ -63,7 +64,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egyptian Paganism | 1.00% | ~135 |
 | Roman Paganism | 1.00% | ~135 |
 | Zoroastrianism | 1.00% | ~135 |
-| Drillmaster | 0.90% | ~121 |
 | Valiant | 0.90% | ~121 |
 | Just Difficulty | 0.90% | ~121 |
 | Acropolis | 0.90% | ~121 |
@@ -150,6 +150,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Patriarch St Paul | 0.30% | ~40 |
 | Hypatia the Teacher | 0.30% | ~40 |
 | Bronze Victory (Carthage 1) | 0.20% | ~27 |
+| Silver Victory (Carthage 1) | 0.20% | ~27 |
 | Carthage - Riches and Influence | 0.20% | ~27 |
 | Ancient | 0.20% | ~27 |
 | Glorious Difficulty | 0.20% | ~27 |
@@ -181,7 +182,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Blade of the Monkey | 0.10% | ~13 |
 | Epic Victory (Carthage 1) | 0.10% | ~13 |
 | Gold Victory (Carthage 1) | 0.10% | ~13 |
-| Silver Victory (Carthage 1) | 0.10% | ~13 |
 | Bronze Victory (Carthage 2) | 0.10% | ~13 |
 | Epic Victory (Carthage 2) | 0.10% | ~13 |
 | Gold Victory (Carthage 2) | 0.10% | ~13 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 169,
   "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-09-14T15:00:00+00:00",
@@ -244,9 +244,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 35006,
+  "EOS_Progressed": 35009,
   "EOS_Completed": 106,
-  "EOS_NewPlayers": 276,
+  "EOS_NewPlayers": 277,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -11234,6 +11234,11 @@
       "Time": "2023-08-18T13:10:35.4452211+00:00",
       "NumProgressed": 35006,
       "NumCompleted": 106
+    },
+    {
+      "Time": "2023-08-18T14:05:38.1503897+00:00",
+      "NumProgressed": 35009,
+      "NumCompleted": 106
     }
   ],
   "TotalAchievements": 14,
@@ -11333,7 +11338,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 26955
+      "UsersEstimate": 26957
     },
     {
       "ID": "roots",
@@ -11341,7 +11346,7 @@
       "Name": "The Way Forward",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 5951
+      "UsersEstimate": 5952
     },
     {
       "ID": "secretItem",
@@ -11356,15 +11361,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 35006,
+      "Progressed": 35009,
       "Completed": 106
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-07-24T04:01:31.3679912+00:00",
-  "LastChanged_Achievements": "2023-08-18T13:10:35.4452201+00:00",
+  "LastChanged_Achievements": "2023-08-18T14:05:38.1503889+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:25.8798137+00:00",
-  "LastUpdate_Ratings": "2023-08-18T13:01:30.2585111+00:00",
-  "LastUpdate_Achievements": "2023-08-18T13:10:35.4453782+00:00"
+  "LastUpdate_Ratings": "2023-08-18T13:57:48.5877121+00:00",
+  "LastUpdate_Achievements": "2023-08-18T14:05:38.1504798+00:00"
 }

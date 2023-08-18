@@ -9,8 +9,8 @@ Number of Ratings: 74  (23.09.2022)
 | A Small Community | 56.00% | ~3,946 |
 | A Grove Replanted | 53.00% | ~3,734 |
 | Fields Watered | 41.00% | ~2,889 |
+| Seekers Found | 41.00% | ~2,889 |
 | Settling the Skies | 41.00% | ~2,889 |
-| Seekers Found | 40.00% | ~2,818 |
 | Wind Powered | 40.00% | ~2,818 |
 | It Takes a Village | 34.00% | ~2,396 |
 | On the Town | 28.00% | ~1,973 |

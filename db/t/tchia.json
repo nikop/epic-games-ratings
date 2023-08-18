@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -212,9 +212,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7103,
+  "EOS_Progressed": 7108,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -5857,6 +5857,11 @@
       "Time": "2023-08-18T13:10:03.3169696+00:00",
       "NumProgressed": 7103,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-08-18T14:05:15.0778586+00:00",
+      "NumProgressed": 7108,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 21,
@@ -5868,7 +5873,7 @@
       "Name": "Ahem Ahem",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 710
+      "UsersEstimate": 711
     },
     {
       "ID": "ARRR",
@@ -5884,7 +5889,7 @@
       "Name": "Audiophile",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "BODY_AND_SOUL",
@@ -5892,7 +5897,7 @@
       "Name": "Body and Soul",
       "Percentage": 11,
       "XP": 80,
-      "UsersEstimate": 781
+      "UsersEstimate": 782
     },
     {
       "ID": "CA_DE_WIZZ",
@@ -5940,7 +5945,7 @@
       "Name": "Globe Trotter",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 781
+      "UsersEstimate": 782
     },
     {
       "ID": "HAPPY_CAMPER",
@@ -5972,7 +5977,7 @@
       "Name": "In a Pinch",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1492
+      "UsersEstimate": 1493
     },
     {
       "ID": "LIBERATOR",
@@ -6020,7 +6025,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 994
+      "UsersEstimate": 995
     },
     {
       "ID": "THING",
@@ -6035,7 +6040,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7103,
+      "Progressed": 7108,
       "Completed": 32
     }
   ],
@@ -6043,8 +6048,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-08-07T01:56:04.2387619+00:00",
-  "LastChanged_Achievements": "2023-08-18T13:10:03.3169688+00:00",
+  "LastChanged_Achievements": "2023-08-18T14:05:15.0778579+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:36.6050185+00:00",
-  "LastUpdate_Ratings": "2023-08-18T13:03:34.2201471+00:00",
-  "LastUpdate_Achievements": "2023-08-18T13:10:03.3170312+00:00"
+  "LastUpdate_Ratings": "2023-08-18T13:59:12.7898384+00:00",
+  "LastUpdate_Achievements": "2023-08-18T14:05:15.0779171+00:00"
 }

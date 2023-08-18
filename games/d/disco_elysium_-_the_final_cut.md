@@ -6,24 +6,24 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~35,396 |
+| Goodest Of The Good Cops | 28.00% | ~35,397 |
 | Biggest Communism Builder | 24.00% | ~30,340 |
-| The World's Most Laughable Centrist | 20.00% | ~25,283 |
+| The World's Most Laughable Centrist | 20.00% | ~25,284 |
 | Il Coppo Del'Arte! | 18.00% | ~22,755 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,227 |
-| Hyperstellar Law Official | 15.00% | ~18,962 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~17,698 |
+| Hyperstellar Law Official | 15.00% | ~18,963 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~17,699 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~16,434 |
 | Gurdi-Ball Is Lit | 13.00% | ~16,434 |
 | Truly Rabid *Traditionalist* | 11.00% | ~13,906 |
-| Unbelievably Boring **** | 9.00% | ~11,377 |
-| The Figurines Won't Win Her Back | 9.00% | ~11,377 |
+| Unbelievably Boring **** | 9.00% | ~11,378 |
+| The Figurines Won't Win Her Back | 9.00% | ~11,378 |
 | Enemy Of The Physical Realm | 8.00% | ~10,113 |
 | Hardie's Heroes | 6.00% | ~7,585 |
 | The Lawbringer | 4.00% | ~5,057 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~5,057 |
-| The Opener Of The Eighth Seal | 3.00% | ~3,792 |
-| Bother Kim After Hours | 3.00% | ~3,792 |
+| The Opener Of The Eighth Seal | 3.00% | ~3,793 |
+| Bother Kim After Hours | 3.00% | ~3,793 |
 | Baddest Of the Bad Cops | 2.00% | ~2,528 |
 | Expert Advanced Remote Viewer | 2.00% | ~2,528 |
 | Recruit Detective Kuuno de Ruyter | 2.00% | ~2,528 |
@@ -35,7 +35,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Baddest Brow in Town | 0.80% | ~1,011 |
 | Venture into the HARDCORE | 0.80% | ~1,011 |
 | Networthy Individual | 0.70% | ~885 |
-| Leopard Mindset | 0.60% | ~758 |
+| Leopard Mindset | 0.60% | ~759 |
 | Modus: Mullen | 0.30% | ~379 |
 | Palerunner | 0.30% | ~379 |
 | Cause a ****storm | 0.20% | ~253 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~126 |
 | What body? | 0.10% | ~126 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,416 (Ranked 68)  
+Progressed: 126,418 (Ranked 68)  
 Completed: 27 (0.02%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,10 +167,10 @@ Completed: 27 (0.02%) (Ranked 239)
 | 2023-08-15 | 126,286 | 27 |
 | 2023-08-16 | 126,338 | 27 |
 | 2023-08-17 | 126,389 | 27 |
-| 2023-08-18 | 126,416 | 27 |
+| 2023-08-18 | 126,418 | 27 |
 ## Awards
 Max (Character Customization): 719  (Ranked 165)  
-Sum: 1,082 (Ranked 235)  
+Sum: 1,083 (Ranked 235)  
 Diff (max vs sum): -70  
 | Award | Count |
 | ----- | ----- |
@@ -178,7 +178,7 @@ Diff (max vs sum): -70
 | This game has Amazing Storytelling | 47 |
 | This game is Educational | 44 |
 | This game is Highly Recommended | 42 |
-| This game has Quickly Understood Controls | 40 |
+| This game has Quickly Understood Controls | 41 |
 | This game has Unique Visuals | 36 |
 | This game has Amazing Characters | 36 |
 | This game is Relaxing | 35 |
@@ -311,3 +311,4 @@ Diff (max vs sum): -70
 | 2023-08-14 | 4.87 | - | 716 | 1,078 |
 | 2023-08-15 | 4.87 | - | 718 | 1,080 |
 | 2023-08-17 | 4.87 | - | 719 | 1,082 |
+| 2023-08-18 | 4.87 | - | 719 | 1,083 |

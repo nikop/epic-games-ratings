@@ -23,23 +23,24 @@
 | Keep it Up, rookie! | 9.00% | ~5 |
 | Decapitation Strike | 9.00% | ~5 |
 | The Fortress Conqueror | 7.00% | ~4 |
+| The Hypergravitational Abyss Conqueror | 7.00% | ~4 |
+| Antaeus | 7.00% | ~4 |
 | The Deep Frozen Conqueror | 6.00% | ~3 |
 | The Infinite Train Conqueror | 6.00% | ~3 |
 | The Paradox Coordinate Conqueror | 6.00% | ~3 |
 | The Zero Dimensional Capital Conqueror | 6.00% | ~3 |
-| The Hypergravitational Abyss Conqueror | 6.00% | ~3 |
+| The Inactivated Frozen Conqueror | 6.00% | ~3 |
 | he Ultra Fortress Conqueror | 6.00% | ~3 |
 | Rapidfire | 6.00% | ~3 |
-| Antaeus | 6.00% | ~3 |
 | Air Interception | 6.00% | ~3 |
 | Hell of a Fight | 6.00% | ~3 |
 | The Sunken City Conqueror | 4.00% | ~2 |
-| The Inactivated Frozen Conqueror | 4.00% | ~2 |
 | Death Bringer Conqueror | 4.00% | ~2 |
+| The Looping Space Conqueror | 4.00% | ~2 |
 | Break Through the Forbidden | 4.00% | ~2 |
 | Space Ranger: Prologue | 4.00% | ~2 |
-| The Looping Space Conqueror | 2.00% | ~1 |
 | Breaking the Limit | 2.00% | ~1 |
+| Pumped Up | 2.00% | ~1 |
 | The Truth? | 2.00% | ~1 |
 | Easy Peasy | 2.00% | ~1 |
 | Proliferation | 2.00% | ~1 |
@@ -47,7 +48,6 @@
 | Bye Bye Gravity | 2.00% | ~1 |
 | Burn After Reading | 2.00% | ~1 |
 | Alloy Rangers, Assemble! | 0.00% | ~0 |
-| Pumped Up | 0.00% | ~0 |
 | Flawless | 0.00% | ~0 |
 | Peace Out | 0.00% | ~0 |
 | Mischief Time | 0.00% | ~0 |

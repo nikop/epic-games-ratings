@@ -2992,10 +2992,16 @@
       "Rating": 3.94,
       "NumberOfAwards": 1904,
       "NumberOfAwardsMax": 403
+    },
+    {
+      "Time": "2023-08-18T13:57:17.3563167+00:00",
+      "Rating": 3.94,
+      "NumberOfAwards": 1907,
+      "NumberOfAwardsMax": 403
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 1904,
+  "NumberOfAwards": 1907,
   "NumberOfAwardsMax": 403,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3015,7 +3021,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 360
+      "Count": 363
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3048,7 +3054,7 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 71977,
+  "EOS_Progressed": 71978,
   "EOS_Completed": 40,
   "EOS_NewPlayers": 313,
   "EOS_NewCompleters": 2,
@@ -15578,6 +15584,11 @@
       "Time": "2023-08-18T13:11:18.0280886+00:00",
       "NumProgressed": 71977,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-08-18T14:06:07.1030314+00:00",
+      "NumProgressed": 71978,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 37,
@@ -15589,7 +15600,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 35988
+      "UsersEstimate": 35989
     },
     {
       "ID": "ACH_0011",
@@ -15597,7 +15608,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 20873
+      "UsersEstimate": 20874
     },
     {
       "ID": "ACH_0012",
@@ -15733,7 +15744,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 46785
+      "UsersEstimate": 46786
     },
     {
       "ID": "ACH_0210",
@@ -15741,7 +15752,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 53263
+      "UsersEstimate": 53264
     },
     {
       "ID": "ACH_0211",
@@ -15757,7 +15768,7 @@
       "Name": "Too Old for This",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 33829
+      "UsersEstimate": 33830
     },
     {
       "ID": "ACH_0300",
@@ -15813,7 +15824,7 @@
       "Name": "King of the Hill",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 24472
+      "UsersEstimate": 24473
     },
     {
       "ID": "ACH_0430",
@@ -15877,29 +15888,29 @@
       "Name": "Rockay Rex",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 7917
+      "UsersEstimate": 7918
     }
   ],
   "AchievementSets": [
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 71977,
+      "Progressed": 71978,
       "Completed": 40
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 324,
-      "Completed": 324
+      "Progressed": 325,
+      "Completed": 325
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-08-17T13:00:02.1804611+00:00",
-  "LastChanged_Achievements": "2023-08-18T13:11:18.028088+00:00",
+  "LastChanged": "2023-08-18T13:57:17.3563166+00:00",
+  "LastChanged_Achievements": "2023-08-18T14:06:07.1030305+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:57.6056168+00:00",
-  "LastUpdate_Ratings": "2023-08-18T13:00:42.1669483+00:00",
-  "LastUpdate_Achievements": "2023-08-18T13:11:18.0282188+00:00"
+  "LastUpdate_Ratings": "2023-08-18T13:57:17.3563171+00:00",
+  "LastUpdate_Achievements": "2023-08-18T14:06:07.1031491+00:00"
 }

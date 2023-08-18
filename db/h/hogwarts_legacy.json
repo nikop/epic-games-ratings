@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 37,
+  "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -6364,10 +6364,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 41160,
       "NumberOfAwardsMax": 21799
+    },
+    {
+      "Time": "2023-08-18T13:58:46.7729092+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 41179,
+      "NumberOfAwardsMax": 21799
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 41160,
+  "NumberOfAwards": 41179,
   "NumberOfAwardsMax": 21799,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6381,7 +6387,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 10546
+      "Count": 10565
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -6444,10 +6450,10 @@
       "Count": 596
     }
   ],
-  "EOS_Progressed": 290319,
+  "EOS_Progressed": 290323,
   "EOS_Completed": 452,
   "EOS_NewPlayers": 494,
-  "EOS_NewCompleters": 4,
+  "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
     {
@@ -19359,6 +19365,11 @@
       "Time": "2023-08-18T13:10:52.6459704+00:00",
       "NumProgressed": 290319,
       "NumCompleted": 452
+    },
+    {
+      "Time": "2023-08-18T14:05:49.7993674+00:00",
+      "NumProgressed": 290323,
+      "NumCompleted": 452
     }
   ],
   "TotalAchievements": 45,
@@ -19370,7 +19381,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 34838
+      "UsersEstimate": 34839
     },
     {
       "ID": "PFA_10",
@@ -19418,7 +19429,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20322
+      "UsersEstimate": 20323
     },
     {
       "ID": "PFA_16",
@@ -19434,7 +19445,7 @@
       "Name": "Beast Friends",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20322
+      "UsersEstimate": 20323
     },
     {
       "ID": "PFA_18",
@@ -19442,7 +19453,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20322
+      "UsersEstimate": 20323
     },
     {
       "ID": "PFA_19",
@@ -19450,7 +19461,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 20322
+      "UsersEstimate": 20323
     },
     {
       "ID": "PFA_2",
@@ -19698,7 +19709,7 @@
       "Name": "First Class Student",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 31935
+      "UsersEstimate": 31936
     },
     {
       "ID": "PFA_7",
@@ -19706,7 +19717,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 31935
+      "UsersEstimate": 31936
     },
     {
       "ID": "PFA_8",
@@ -19729,16 +19740,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 290319,
+      "Progressed": 290323,
       "Completed": 452
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-08-18T09:59:45.1744514+00:00",
-  "LastChanged_Achievements": "2023-08-18T13:10:52.6459698+00:00",
+  "LastChanged": "2023-08-18T13:58:46.7729091+00:00",
+  "LastChanged_Achievements": "2023-08-18T14:05:49.7993665+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:17.4814985+00:00",
-  "LastUpdate_Ratings": "2023-08-18T13:02:53.5610244+00:00",
-  "LastUpdate_Achievements": "2023-08-18T13:10:52.6461677+00:00"
+  "LastUpdate_Ratings": "2023-08-18T13:58:46.7729097+00:00",
+  "LastUpdate_Achievements": "2023-08-18T14:05:49.7994967+00:00"
 }

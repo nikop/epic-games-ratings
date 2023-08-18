@@ -3,9 +3,9 @@
   "Name": "Touch Type Tale",
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 156,
-  "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 261,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_Completed": 162,
+  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3122,
-  "EOS_Completed": 10,
-  "EOS_NewPlayers": 4,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.32,
+  "EOS_Progressed": 3123,
+  "EOS_Completed": 11,
+  "EOS_NewPlayers": 5,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:09.3745824+00:00",
@@ -2764,6 +2764,11 @@
       "Time": "2023-08-15T17:05:05.1015965+00:00",
       "NumProgressed": 3122,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-08-18T14:04:07.4871559+00:00",
+      "NumProgressed": 3123,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -2863,7 +2868,7 @@
       "Name": "Well Supplied",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "campaign15",
@@ -2911,7 +2916,7 @@
       "Name": "Flanked!",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 2466
+      "UsersEstimate": 2467
     },
     {
       "ID": "campaign20",
@@ -2927,7 +2932,7 @@
       "Name": "Economics 101",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 2029
+      "UsersEstimate": 2030
     },
     {
       "ID": "campaign4",
@@ -2959,7 +2964,7 @@
       "Name": "Maestro",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 905
+      "UsersEstimate": 906
     },
     {
       "ID": "campaign8",
@@ -2983,7 +2988,7 @@
       "Name": "Do the Splits",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 1311
+      "UsersEstimate": 1312
     },
     {
       "ID": "scenario2",
@@ -2991,15 +2996,15 @@
       "Name": "Full Employment",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "scenario3",
       "SetID": "2h56gn1",
       "Name": "Not a Drop Wasted",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 156
+      "UsersEstimate": 187
     },
     {
       "ID": "scenario4",
@@ -3038,16 +3043,16 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3122,
-      "Completed": 10
+      "Progressed": 3123,
+      "Completed": 11
     }
   ],
   "FirstSeen": "2023-03-28T17:57:30.7246301+00:00",
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-08-18T13:08:26.3770563+00:00",
+  "LastChanged_Achievements": "2023-08-18T14:04:07.4871551+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:07.7708423+00:00",
-  "LastUpdate_Ratings": "2023-08-18T13:01:00.8072278+00:00",
-  "LastUpdate_Achievements": "2023-08-18T13:08:26.3771038+00:00"
+  "LastUpdate_Ratings": "2023-08-18T13:57:30.3898387+00:00",
+  "LastUpdate_Achievements": "2023-08-18T14:04:07.4872059+00:00"
 }
