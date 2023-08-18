@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1819,
+  "EOS_Progressed": 1820,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -5009,6 +5009,11 @@
       "Time": "2023-08-18T19:06:07.9365493+00:00",
       "NumProgressed": 1819,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-18T20:05:33.9197791+00:00",
+      "NumProgressed": 1820,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -5074,9 +5079,9 @@
       "ID": "cauldronliberator",
       "SetID": "3nl4bcg",
       "Name": "Cauldron Liberator",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "challenger",
@@ -5196,7 +5201,7 @@
       "Name": "Exotic Merchant",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "fellowshippower",
@@ -5348,7 +5353,7 @@
       "Name": "Milestone collector",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "minerclicker",
@@ -5396,7 +5401,7 @@
       "Name": "Natural Talent",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "pokerface",
@@ -5412,7 +5417,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 964
+      "UsersEstimate": 965
     },
     {
       "ID": "prestigiousx10",
@@ -5426,9 +5431,9 @@
       "ID": "relicofthepast",
       "SetID": "3nl4bcg",
       "Name": "Relic Of The Past",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 200
+      "UsersEstimate": 182
     },
     {
       "ID": "sailor",
@@ -5468,7 +5473,7 @@
       "Name": "Superior",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "templeofeternals",
@@ -5524,7 +5529,7 @@
       "Name": "The Unstoppable",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "titanpower",
@@ -5580,7 +5585,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1692
+      "UsersEstimate": 1693
     },
     {
       "ID": "warmachinesarmy",
@@ -5612,14 +5617,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1437
+      "UsersEstimate": 1438
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1819,
+      "Progressed": 1820,
       "Completed": 2
     }
   ],
@@ -5627,8 +5632,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-08-10T20:59:32.9674394+00:00",
-  "LastChanged_Achievements": "2023-08-18T19:06:07.9365486+00:00",
+  "LastChanged_Achievements": "2023-08-18T20:05:33.9197784+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:43.3889946+00:00",
-  "LastUpdate_Ratings": "2023-08-18T19:00:11.5332303+00:00",
-  "LastUpdate_Achievements": "2023-08-18T19:06:07.9366866+00:00"
+  "LastUpdate_Ratings": "2023-08-18T19:59:29.0013031+00:00",
+  "LastUpdate_Achievements": "2023-08-18T20:05:33.9198838+00:00"
 }

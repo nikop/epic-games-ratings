@@ -4,7 +4,7 @@
   "ProductSlug": "maid-of-sker-2ae24e",
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 356,
+  "Ranking_EOS_NewPlayers": 316,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 174,
+  "EOS_Progressed": 175,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -262,6 +262,11 @@
       "Time": "2023-08-12T14:07:34.6989047+00:00",
       "NumProgressed": 174,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-18T20:03:16.7773892+00:00",
+      "NumProgressed": 175,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -273,7 +278,7 @@
       "Name": "Animal Lover",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "axe_of_kindness",
@@ -311,9 +316,9 @@
       "ID": "choking_hazzard",
       "SetID": "3j2phem",
       "Name": "Choking Hazard",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 77
+      "UsersEstimate": 75
     },
     {
       "ID": "dodgy_geezer",
@@ -345,7 +350,7 @@
       "Name": "Ending on a High Note",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "hard_times",
@@ -457,7 +462,7 @@
       "Name": "Rapturous Applause!",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "scholar",
@@ -479,9 +484,9 @@
       "ID": "smooth_operator",
       "SetID": "3j2phem",
       "Name": "Smooth Operator",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 28
+      "UsersEstimate": 26
     },
     {
       "ID": "the_long_night",
@@ -489,7 +494,7 @@
       "Name": "The Long Night",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "the_longest_night",
@@ -505,14 +510,14 @@
       "Name": "Wales Interactive",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     }
   ],
   "AchievementSets": [
     {
       "ID": "3j2phem",
       "IsBase": true,
-      "Progressed": 174,
+      "Progressed": 175,
       "Completed": 0
     }
   ],
@@ -520,8 +525,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2023-08-18T19:03:18.2907689+00:00",
+  "LastChanged_Achievements": "2023-08-18T20:03:16.7773886+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:56.9714004+00:00",
-  "LastUpdate_Ratings": "2023-08-18T19:01:23.9343495+00:00",
-  "LastUpdate_Achievements": "2023-08-18T19:03:18.2908133+00:00"
+  "LastUpdate_Ratings": "2023-08-18T20:00:29.1226187+00:00",
+  "LastUpdate_Achievements": "2023-08-18T20:03:16.7774116+00:00"
 }

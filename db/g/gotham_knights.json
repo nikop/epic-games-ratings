@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -2480,9 +2480,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 67890,
+  "EOS_Progressed": 67893,
   "EOS_Completed": 107,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -12655,6 +12655,11 @@
       "Time": "2023-08-18T18:06:42.7814183+00:00",
       "NumProgressed": 67890,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2023-08-18T20:06:23.6370211+00:00",
+      "NumProgressed": 67893,
+      "NumCompleted": 107
     }
   ],
   "TotalAchievements": 61,
@@ -12762,7 +12767,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 10862
+      "UsersEstimate": 10863
     },
     {
       "ID": "CLAYFACE_1",
@@ -12770,7 +12775,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 14257
+      "UsersEstimate": 14258
     },
     {
       "ID": "CLAYFACE_2",
@@ -12778,7 +12783,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 12220
+      "UsersEstimate": 12221
     },
     {
       "ID": "CLAYFACE_3",
@@ -12810,7 +12815,7 @@
       "Name": "Fusion Expert",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 4752
+      "UsersEstimate": 4753
     },
     {
       "ID": "CRIME_FIGHTER_1",
@@ -12818,7 +12823,7 @@
       "Name": "Expert Crime Fighter",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 3394
+      "UsersEstimate": 3395
     },
     {
       "ID": "CRIME_FIGHTER_2",
@@ -12866,7 +12871,7 @@
       "Name": "Family Meeting",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 4073
+      "UsersEstimate": 4074
     },
     {
       "ID": "DEFEAT_OC_2",
@@ -12890,7 +12895,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 19009
+      "UsersEstimate": 19010
     },
     {
       "ID": "FREEZE_1_5",
@@ -12898,7 +12903,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 13578
+      "UsersEstimate": 13579
     },
     {
       "ID": "FREEZE_2",
@@ -12906,7 +12911,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 12899
+      "UsersEstimate": 12900
     },
     {
       "ID": "FREEZE_3",
@@ -12970,7 +12975,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 23762
+      "UsersEstimate": 23763
     },
     {
       "ID": "HARLEY_2",
@@ -12978,7 +12983,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 16972
+      "UsersEstimate": 16973
     },
     {
       "ID": "HARLEY_3",
@@ -12986,7 +12991,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 13578
+      "UsersEstimate": 13579
     },
     {
       "ID": "HARLEY_4",
@@ -12994,7 +12999,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 10862
+      "UsersEstimate": 10863
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -13010,7 +13015,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 33945
+      "UsersEstimate": 33946
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -13034,7 +13039,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 13578
+      "UsersEstimate": 13579
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -13042,7 +13047,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 18330
+      "UsersEstimate": 18331
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -13050,7 +13055,7 @@
       "Name": "A Worthy Successor",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 4073
+      "UsersEstimate": 4074
     },
     {
       "ID": "MYSTERY_01",
@@ -13058,7 +13063,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 23083
+      "UsersEstimate": 23084
     },
     {
       "ID": "MYSTERY_02",
@@ -13066,7 +13071,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 16972
+      "UsersEstimate": 16973
     },
     {
       "ID": "MYSTERY_03",
@@ -13082,7 +13087,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 13578
+      "UsersEstimate": 13579
     },
     {
       "ID": "MYSTERY_05",
@@ -13090,7 +13095,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 12220
+      "UsersEstimate": 12221
     },
     {
       "ID": "MYSTERY_06",
@@ -13153,13 +13158,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 67890,
+      "Progressed": 67893,
       "Completed": 107
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 38170,
+      "Progressed": 38173,
       "Completed": 2658
     }
   ],
@@ -13167,8 +13172,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-08-18T16:57:23.9002364+00:00",
-  "LastChanged_Achievements": "2023-08-18T19:07:09.1352689+00:00",
+  "LastChanged_Achievements": "2023-08-18T20:06:23.6370205+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:49.7416919+00:00",
-  "LastUpdate_Ratings": "2023-08-18T18:57:26.6152339+00:00",
-  "LastUpdate_Achievements": "2023-08-18T19:07:09.1354332+00:00"
+  "LastUpdate_Ratings": "2023-08-18T19:57:16.0580847+00:00",
+  "LastUpdate_Achievements": "2023-08-18T20:06:23.6371395+00:00"
 }

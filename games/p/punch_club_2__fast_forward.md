@@ -43,9 +43,9 @@
 | No blades in the gym | 45.00% | ~115 |
 | Your own way | 42.00% | ~107 |
 | Champion – no way back | 41.00% | ~105 |
+| Poisoned fighter | 40.00% | ~102 |
 | Underground dwellers | 40.00% | ~102 |
 | Responsible approach | 40.00% | ~102 |
-| Poisoned fighter | 39.00% | ~99 |
 | Deal with life | 38.00% | ~97 |
 | GYM professional | 38.00% | ~97 |
 | Get out of my apartment! | 38.00% | ~97 |
@@ -58,11 +58,11 @@
 | Not little hacker | 33.00% | ~84 |
 | Absolute Champion! | 33.00% | ~84 |
 | Careerist | 33.00% | ~84 |
+| Trap disarmed | 32.00% | ~82 |
 | The lonesome road | 32.00% | ~82 |
 | Key memories | 32.00% | ~82 |
 | Anyone can resist | 32.00% | ~82 |
 | The heart of the Resistance | 32.00% | ~82 |
-| Trap disarmed | 31.00% | ~79 |
 | Another world | 31.00% | ~79 |
 | Keep nature safe | 31.00% | ~79 |
 | Family comes first | 31.00% | ~79 |

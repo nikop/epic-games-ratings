@@ -5908,9 +5908,9 @@
       "Count": 3360
     }
   ],
-  "EOS_Progressed": 223092,
+  "EOS_Progressed": 223107,
   "EOS_Completed": 2190,
-  "EOS_NewPlayers": 2242,
+  "EOS_NewPlayers": 2234,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -18993,6 +18993,11 @@
       "Time": "2023-08-18T19:05:24.6423285+00:00",
       "NumProgressed": 223092,
       "NumCompleted": 2190
+    },
+    {
+      "Time": "2023-08-18T20:04:59.069884+00:00",
+      "NumProgressed": 223107,
+      "NumCompleted": 2190
     }
   ],
   "TotalAchievements": 516,
@@ -19978,9 +19983,9 @@
       "ID": "objective_completed_13",
       "SetID": "cc37lbc",
       "Name": "A Persistent Buzzing",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 223
+      "UsersEstimate": 446
     },
     {
       "ID": "objective_completed_130",
@@ -23100,7 +23105,7 @@
       "Name": "The Hunt for The Last Breath",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "objective_completed_1396",
@@ -23131,21 +23136,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 189366,
+      "Progressed": 189381,
       "Completed": 3265
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 223092,
+      "Progressed": 223107,
       "Completed": 2190
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-18T19:00:19.1737747+00:00",
-  "LastChanged_Achievements": "2023-08-18T19:05:24.6423275+00:00",
+  "LastChanged_Achievements": "2023-08-18T20:04:59.0698833+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:51.8567155+00:00",
-  "LastUpdate_Ratings": "2023-08-18T19:00:19.1737755+00:00",
-  "LastUpdate_Achievements": "2023-08-18T19:05:24.6456508+00:00"
+  "LastUpdate_Ratings": "2023-08-18T19:59:35.3140975+00:00",
+  "LastUpdate_Achievements": "2023-08-18T20:04:59.0725228+00:00"
 }

@@ -6450,9 +6450,9 @@
       "Count": 596
     }
   ],
-  "EOS_Progressed": 290341,
+  "EOS_Progressed": 290345,
   "EOS_Completed": 452,
-  "EOS_NewPlayers": 496,
+  "EOS_NewPlayers": 492,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -19395,6 +19395,11 @@
       "Time": "2023-08-18T19:06:59.931999+00:00",
       "NumProgressed": 290341,
       "NumCompleted": 452
+    },
+    {
+      "Time": "2023-08-18T20:06:16.5734781+00:00",
+      "NumProgressed": 290345,
+      "NumCompleted": 452
     }
   ],
   "TotalAchievements": 45,
@@ -19630,7 +19635,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 23227
+      "UsersEstimate": 23228
     },
     {
       "ID": "PFA_36",
@@ -19710,7 +19715,7 @@
       "Name": "The Spell Master",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23227
+      "UsersEstimate": 23228
     },
     {
       "ID": "PFA_45",
@@ -19758,14 +19763,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23227
+      "UsersEstimate": 23228
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 290341,
+      "Progressed": 290345,
       "Completed": 452
     }
   ],
@@ -19773,8 +19778,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-08-18T13:58:46.7729091+00:00",
-  "LastChanged_Achievements": "2023-08-18T19:06:59.9319983+00:00",
+  "LastChanged_Achievements": "2023-08-18T20:06:16.5734774+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:17.4814985+00:00",
-  "LastUpdate_Ratings": "2023-08-18T18:59:30.8800968+00:00",
-  "LastUpdate_Achievements": "2023-08-18T19:06:59.9321388+00:00"
+  "LastUpdate_Ratings": "2023-08-18T19:58:54.1291087+00:00",
+  "LastUpdate_Achievements": "2023-08-18T20:06:16.5735917+00:00"
 }

@@ -3043,7 +3043,7 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 433840,
+  "EOS_Progressed": 433858,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 2334,
   "EOS_NewCompleters": 0,
@@ -16303,6 +16303,11 @@
       "Time": "2023-08-18T19:07:20.0393662+00:00",
       "NumProgressed": 433840,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-18T20:06:32.0791779+00:00",
+      "NumProgressed": 433858,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -16322,7 +16327,7 @@
       "Name": "Blindfire",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 4338
+      "UsersEstimate": 4339
     },
     {
       "ID": "ACH_CARRYING",
@@ -16442,7 +16447,7 @@
       "Name": "Lucky",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 13015
+      "UsersEstimate": 13016
     },
     {
       "ID": "ACH_MOUNT_AND_GUN",
@@ -16514,7 +16519,7 @@
       "Name": "Ruthless",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 4338
+      "UsersEstimate": 4339
     },
     {
       "ID": "ACH_SELF_DESTRUCTIVE",
@@ -16530,7 +16535,7 @@
       "Name": "Semper Paratus",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 4338
+      "UsersEstimate": 4339
     },
     {
       "ID": "ACH_SPECIAL_DELIVERY",
@@ -16546,7 +16551,7 @@
       "Name": "Stylin\u0027",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 13015
+      "UsersEstimate": 13016
     },
     {
       "ID": "ACH_THANKS_STATION",
@@ -16570,7 +16575,7 @@
       "Name": "Turf War",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 13015
+      "UsersEstimate": 13016
     },
     {
       "ID": "ACH_WALLBANGER",
@@ -16578,7 +16583,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 21692
+      "UsersEstimate": 21693
     },
     {
       "ID": "ACH_WET_FEET",
@@ -16593,15 +16598,15 @@
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 433840,
+      "Progressed": 433858,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-08-17T10:59:33.5999314+00:00",
-  "LastChanged_Achievements": "2023-08-18T19:07:20.0393656+00:00",
+  "LastChanged_Achievements": "2023-08-18T20:06:32.0791774+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:41.0153429+00:00",
-  "LastUpdate_Ratings": "2023-08-18T19:00:10.0934487+00:00",
-  "LastUpdate_Achievements": "2023-08-18T19:07:20.0395002+00:00"
+  "LastUpdate_Ratings": "2023-08-18T19:59:27.9372522+00:00",
+  "LastUpdate_Achievements": "2023-08-18T20:06:32.0792807+00:00"
 }

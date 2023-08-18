@@ -5,15 +5,15 @@ Rating: 4.05 (Ranked 922)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,692 |
-| World Map | 79.00% | ~1,437 |
+| Victor | 93.00% | ~1,693 |
+| World Map | 79.00% | ~1,438 |
 | Temple of Eternals | 57.00% | ~1,037 |
-| Prestigious | 53.00% | ~964 |
+| Prestigious | 53.00% | ~965 |
 | Fellowship Power | 41.00% | ~746 |
 | Guild Power | 25.00% | ~455 |
 | Prestigious x10 | 22.00% | ~400 |
 | The game is on | 20.00% | ~364 |
-| Exotic Merchant | 18.00% | ~327 |
+| Exotic Merchant | 18.00% | ~328 |
 | Dragon Clicker | 17.00% | ~309 |
 | Miner Clicker | 17.00% | ~309 |
 | Full Party | 16.00% | ~291 |
@@ -23,21 +23,21 @@ Rating: 4.05 (Ranked 922)
 | Hero inspection | 14.00% | ~255 |
 | Lieutenant | 14.00% | ~255 |
 | Mysterious Rock | 14.00% | ~255 |
-| Milestone collector | 13.00% | ~236 |
-| Natural Talent | 13.00% | ~236 |
-| Superior | 13.00% | ~236 |
-| The Unstoppable | 13.00% | ~236 |
+| Milestone collector | 13.00% | ~237 |
+| Natural Talent | 13.00% | ~237 |
+| Superior | 13.00% | ~237 |
+| The Unstoppable | 13.00% | ~237 |
 | Scientist | 12.00% | ~218 |
 | Doing My Part | 11.00% | ~200 |
 | Hunter | 11.00% | ~200 |
 | Mastery | 11.00% | ~200 |
-| Relic Of The Past | 11.00% | ~200 |
 | The power of Awakening | 11.00% | ~200 |
 | Challenger | 10.00% | ~182 |
 | Daily Quest Completionist | 10.00% | ~182 |
 | Four Leaf Clover | 10.00% | ~182 |
 | Frostfire Liberator | 10.00% | ~182 |
 | Moving Up The Ladder | 10.00% | ~182 |
+| Relic Of The Past | 10.00% | ~182 |
 | Scroll Master | 10.00% | ~182 |
 | Here We Go Again | 9.00% | ~164 |
 | Master Enchanter | 9.00% | ~164 |
@@ -63,10 +63,10 @@ Rating: 4.05 (Ranked 922)
 | Legendary | 4.00% | ~73 |
 | What lies behind the bush | 3.00% | ~55 |
 | Mythic Power | 2.00% | ~36 |
+| Cauldron Liberator | 1.00% | ~18 |
 | Gear Enchanting | 1.00% | ~18 |
 | Guardian Master | 1.00% | ~18 |
 | Transmute | 1.00% | ~18 |
-| Cauldron Liberator | 0.90% | ~16 |
 | Titan Power | 0.90% | ~16 |
 | Training makes a Pro player | 0.90% | ~16 |
 | Enhanced War Machines | 0.70% | ~13 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 922)
 | Silverwood liberator | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,819 (Ranked 173)  
+Progressed: 1,820 (Ranked 173)  
 Completed: 2 (0.11%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,7 +200,7 @@ Completed: 2 (0.11%) (Ranked 202)
 | 2023-08-15 | 1,806 | 2 |
 | 2023-08-16 | 1,811 | 2 |
 | 2023-08-17 | 1,817 | 2 |
-| 2023-08-18 | 1,819 | 2 |
+| 2023-08-18 | 1,820 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

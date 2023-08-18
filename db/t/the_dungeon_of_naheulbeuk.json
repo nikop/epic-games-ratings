@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 22,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -672,9 +672,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 214138,
+  "EOS_Progressed": 214165,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3707,
+  "EOS_NewPlayers": 3709,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7422,6 +7422,11 @@
       "Time": "2023-08-18T19:05:40.8150204+00:00",
       "NumProgressed": 214138,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-18T20:05:11.8299352+00:00",
+      "NumProgressed": 214165,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -7481,7 +7486,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2141
+      "UsersEstimate": 2142
     },
     {
       "ID": "Chapter2",
@@ -7833,7 +7838,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2141
+      "UsersEstimate": 2142
     },
     {
       "ID": "DwarfElf15Support",
@@ -7865,7 +7870,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2141
+      "UsersEstimate": 2142
     },
     {
       "ID": "ElfEpic",
@@ -7879,9 +7884,9 @@
       "ID": "ElfHitTwoFriends",
       "SetID": "50chcgj",
       "Name": "Sowwy!",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 38545
+      "UsersEstimate": 40691
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -8071,9 +8076,9 @@
       "ID": "RogueEpic",
       "SetID": "50chcgj",
       "Name": "Thieves\u0027 Guild Accreditation",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 642
+      "UsersEstimate": 857
     },
     {
       "ID": "Speedrun",
@@ -8136,21 +8141,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 214138,
+      "Progressed": 214165,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 214138,
+      "Progressed": 214165,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-18T09:01:01.93706+00:00",
-  "LastChanged_Achievements": "2023-08-18T19:05:40.8150198+00:00",
+  "LastChanged_Achievements": "2023-08-18T20:05:11.8299343+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:49.6773731+00:00",
-  "LastUpdate_Ratings": "2023-08-18T19:01:20.4202433+00:00",
-  "LastUpdate_Achievements": "2023-08-18T19:05:40.815181+00:00"
+  "LastUpdate_Ratings": "2023-08-18T20:00:25.7414854+00:00",
+  "LastUpdate_Achievements": "2023-08-18T20:05:11.8300606+00:00"
 }

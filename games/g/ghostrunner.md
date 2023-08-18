@@ -6,25 +6,25 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 76.00% | ~11,592 |
-| Sword Runner | 62.00% | ~9,456 |
-| Running out of breath | 54.00% | ~8,236 |
-| Wallrunner | 54.00% | ~8,236 |
-| Homerunner | 45.00% | ~6,863 |
-| Out of order | 45.00% | ~6,863 |
-| I call it luck | 44.00% | ~6,711 |
-| Where are my Keys? | 41.00% | ~6,253 |
-| Back to hell | 37.00% | ~5,643 |
+| Longrunner | 76.00% | ~11,593 |
+| Sword Runner | 62.00% | ~9,457 |
+| Running out of breath | 54.00% | ~8,237 |
+| Wallrunner | 54.00% | ~8,237 |
+| Homerunner | 45.00% | ~6,864 |
+| Out of order | 45.00% | ~6,864 |
+| I call it luck | 44.00% | ~6,712 |
+| Where are my Keys? | 41.00% | ~6,254 |
+| Back to hell | 37.00% | ~5,644 |
 | Perfection | 32.00% | ~4,881 |
 | Why not both | 30.00% | ~4,576 |
-| Sword to a gunfight | 29.00% | ~4,423 |
-| Upgrades not mandatory | 29.00% | ~4,423 |
+| Sword to a gunfight | 29.00% | ~4,424 |
+| Upgrades not mandatory | 29.00% | ~4,424 |
 | Artificial selection | 28.00% | ~4,271 |
 | Control freak | 28.00% | ~4,271 |
-| Running Wild | 27.00% | ~4,118 |
+| Running Wild | 27.00% | ~4,119 |
 | Finish line | 26.00% | ~3,966 |
 | Unstoppable force | 23.00% | ~3,508 |
-| Wave of mutilation | 22.00% | ~3,355 |
+| Wave of mutilation | 22.00% | ~3,356 |
 | Can't Run Can't Hide | 17.00% | ~2,593 |
 | R is for Running | 17.00% | ~2,593 |
 | Dead in the air | 15.00% | ~2,288 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Sticks And Stones | 0.40% | ~61 |
 | Up Close And Personal | 0.40% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,252 (Ranked 116)  
+Progressed: 15,254 (Ranked 116)  
 Completed: 58 (0.38%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,7 +172,7 @@ Completed: 58 (0.38%) (Ranked 157)
 | 2023-08-15 | 15,097 | 57 |
 | 2023-08-16 | 15,144 | 57 |
 | 2023-08-17 | 15,200 | 58 |
-| 2023-08-18 | 15,252 | 58 |
+| 2023-08-18 | 15,254 | 58 |
 ## Awards
 Max (Great Boss Battles): 479  (Ranked 200)  
 Sum: 667 (Ranked 283)  
