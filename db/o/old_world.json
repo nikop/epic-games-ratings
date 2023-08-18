@@ -6,7 +6,7 @@
   "Ranking_Popularity": 264,
   "Ranking_PopularitySum": 206,
   "Ranking_EOS_Progress": 117,
-  "Ranking_EOS_Completed": 228,
+  "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
@@ -1611,9 +1611,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13444,
+  "EOS_Progressed": 13445,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -9791,6 +9791,11 @@
       "Time": "2023-08-17T20:05:00.5317035+00:00",
       "NumProgressed": 13444,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-18T00:06:18.8812241+00:00",
+      "NumProgressed": 13445,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -11640,9 +11645,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_HITTITE",
       "SetID": "9201eeb",
       "Name": "Hittite Paganism",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 54
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_PERSIA",
@@ -11784,9 +11789,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_LEGALISM",
       "SetID": "7l38kb8",
       "Name": "Legalism",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 94
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_MYTHOLOGY",
@@ -12169,21 +12174,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13444,
+      "Progressed": 13445,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13444,
+      "Progressed": 13445,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-16T15:59:34.3416467+00:00",
-  "LastChanged_Achievements": "2023-08-17T23:04:47.9163738+00:00",
+  "LastChanged_Achievements": "2023-08-18T00:06:18.8812235+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:38.1291138+00:00",
-  "LastUpdate_Ratings": "2023-08-17T22:59:08.7741059+00:00",
-  "LastUpdate_Achievements": "2023-08-17T23:04:47.9173939+00:00"
+  "LastUpdate_Ratings": "2023-08-18T00:00:22.4899146+00:00",
+  "LastUpdate_Achievements": "2023-08-18T00:06:18.8821919+00:00"
 }

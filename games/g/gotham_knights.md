@@ -5,8 +5,8 @@ Rating: 4.18 (Ranked 870)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~33,940 |
-| Har, Har, Har, Very Funny | 35.00% | ~23,758 |
+| First Step Into the Knight | 50.00% | ~33,941 |
+| Har, Har, Har, Very Funny | 35.00% | ~23,759 |
 | Loose Ends | 34.00% | ~23,080 |
 | To the Victor Go the Spoils | 28.00% | ~19,007 |
 | Knighthood | 27.00% | ~18,328 |
@@ -19,7 +19,7 @@ Rating: 4.18 (Ranked 870)
 | Working Hard or Harley Working? | 20.00% | ~13,576 |
 | Unstoppable Force | 20.00% | ~13,576 |
 | Bad Apples in Every Orchard | 20.00% | ~13,576 |
-| Snow Problem | 19.00% | ~12,897 |
+| Snow Problem | 19.00% | ~12,898 |
 | The Show Mud Go On | 18.00% | ~12,219 |
 | From Inside Gotham's Walls | 18.00% | ~12,219 |
 | Protector of Gotham | 16.00% | ~10,861 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 870)
 | Element of Surprise | 0.20% | ~76 |
 | It's Nice to Be Wanted | 0.20% | ~76 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,881 (Ranked 80)  
+Progressed: 67,882 (Ranked 80)  
 Completed: 107 (0.16%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,14 +187,15 @@ Completed: 107 (0.16%) (Ranked 191)
 | 2023-08-15 | 67,855 | 107 |
 | 2023-08-16 | 67,871 | 107 |
 | 2023-08-17 | 67,881 | 107 |
+| 2023-08-18 | 67,882 | 107 |
 ## Awards
 Max (Great Boss Battles): 2,505  (Ranked 100)  
-Sum: 4,168 (Ranked 139)  
+Sum: 4,169 (Ranked 139)  
 Diff (max vs sum): -39  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,505 |
-| This game is Extremely Fun | 214 |
+| This game is Extremely Fun | 215 |
 | This game has Quickly Understood Controls | 212 |
 | This game is Relaxing | 212 |
 | This game has Diverse Characters | 208 |
@@ -381,4 +382,4 @@ Diff (max vs sum): -39
 | 2023-08-14 | 4.18 | 2,498 | 4,156 |
 | 2023-08-15 | 4.18 | 2,501 | 4,160 |
 | 2023-08-16 | 4.18 | 2,501 | 4,162 |
-| 2023-08-17 | 4.18 | 2,505 | 4,168 |
+| 2023-08-17 | 4.18 | 2,505 | 4,169 |

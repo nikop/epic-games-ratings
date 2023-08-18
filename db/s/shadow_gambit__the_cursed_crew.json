@@ -4,7 +4,7 @@
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
   "Ranking_EOS_Progress": 303,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewPlayers": 104,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 146,
+  "EOS_Progressed": 148,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -251,6 +251,11 @@
       "Time": "2023-08-17T23:03:05.7393668+00:00",
       "NumProgressed": 146,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-18T00:03:41.231178+00:00",
+      "NumProgressed": 148,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -261,9 +266,9 @@
       "ID": "_01_AllIslands",
       "SetID": "8a1io5d",
       "Name": "Somewhere Deep in the Lost Caribbean",
-      "Percentage": 0,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -271,7 +276,7 @@
       "Name": "A New Journey",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "_03_FinishAct1",
@@ -279,7 +284,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -317,9 +322,9 @@
       "ID": "_08_Completion_10",
       "SetID": "8a1io5d",
       "Name": "Swabbie",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "_09_Completion_20",
@@ -389,9 +394,9 @@
       "ID": "_17_UpgradeFirstCharacter",
       "SetID": "8a1io5d",
       "Name": "With Great Power\u2026",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -429,9 +434,9 @@
       "ID": "_22_CrewTale_FSH",
       "SetID": "8a1io5d",
       "Name": "Accursed Artifacts",
-      "Percentage": 0,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "_23_CrewTale_CNN",
@@ -470,14 +475,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 146,
+      "Progressed": 148,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-17T23:03:05.7393661+00:00",
+  "LastChanged_Achievements": "2023-08-18T00:03:41.2311775+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:42.1902661+00:00",
-  "LastUpdate_Ratings": "2023-08-17T22:59:10.9191928+00:00",
-  "LastUpdate_Achievements": "2023-08-17T23:03:05.7393857+00:00"
+  "LastUpdate_Ratings": "2023-08-18T00:00:25.8785065+00:00",
+  "LastUpdate_Achievements": "2023-08-18T00:03:41.2312022+00:00"
 }

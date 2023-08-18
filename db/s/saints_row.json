@@ -3312,9 +3312,9 @@
       "Count": 1056
     }
   ],
-  "EOS_Progressed": 62253,
+  "EOS_Progressed": 62254,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 1329,
+  "EOS_NewPlayers": 1313,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -16372,6 +16372,11 @@
       "Time": "2023-08-17T23:03:10.7745342+00:00",
       "NumProgressed": 62253,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-08-18T00:03:48.3812662+00:00",
+      "NumProgressed": 62254,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 53,
@@ -16399,7 +16404,7 @@
       "Name": "Quality Time",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 9960
+      "UsersEstimate": 9961
     },
     {
       "ID": "buy_1_thing_from_every_store",
@@ -16487,7 +16492,7 @@
       "Name": "Wet Work",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 18053
+      "UsersEstimate": 18054
     },
     {
       "ID": "complete_mission_1",
@@ -16503,7 +16508,7 @@
       "Name": "Tune Up",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 19298
+      "UsersEstimate": 19299
     },
     {
       "ID": "customize_a_weapon",
@@ -16631,7 +16636,7 @@
       "Name": "Performance Review",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 20543
+      "UsersEstimate": 20544
     },
     {
       "ID": "hit_max_level",
@@ -16663,7 +16668,7 @@
       "Name": "Wrecking Ball",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 15563
+      "UsersEstimate": 15564
     },
     {
       "ID": "kill_tank_driver_with_rail",
@@ -16735,7 +16740,7 @@
       "Name": "Food for Thought",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 15563
+      "UsersEstimate": 15564
     },
     {
       "ID": "two_thirds_purple",
@@ -16799,20 +16804,20 @@
       "Name": "Hazardous Heist",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 1694
+      "UsersEstimate": 1695
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 62253,
+      "Progressed": 62254,
       "Completed": 42
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 33890,
+      "Progressed": 33891,
       "Completed": 3254
     }
   ],
@@ -16820,8 +16825,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-08-17T19:56:56.2714774+00:00",
-  "LastChanged_Achievements": "2023-08-17T23:03:10.7745336+00:00",
+  "LastChanged_Achievements": "2023-08-18T00:03:48.3812655+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:43.0045389+00:00",
-  "LastUpdate_Ratings": "2023-08-17T22:57:06.521507+00:00",
-  "LastUpdate_Achievements": "2023-08-17T23:03:10.7747109+00:00"
+  "LastUpdate_Ratings": "2023-08-17T23:57:23.7904506+00:00",
+  "LastUpdate_Achievements": "2023-08-18T00:03:48.3813767+00:00"
 }

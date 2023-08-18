@@ -8,7 +8,7 @@
 | Supermart Objectives Complete | 2.00% | ~156 |
 | Supermart Heisted | 2.00% | ~156 |
 | Sewer Objectives Complete | 1.00% | ~78 |
-| Bank Heisted | 0.50% | ~39 |
+| Bank Heisted | 0.60% | ~47 |
 | Crocodile Maxed Out | 0.20% | ~16 |
 | Nuclear Plant Heisted | 0.20% | ~16 |
 | All Objectives Complete | 0.10% | ~8 |

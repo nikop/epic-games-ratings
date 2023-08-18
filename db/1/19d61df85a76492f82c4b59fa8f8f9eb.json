@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-eb6e37",
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 28,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
@@ -1454,9 +1454,9 @@
       "ID": "CgkIgaGB2J0LEAIQAw",
       "SetID": "4ocea6d",
       "Name": "Scythed Chariot",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 165,
-      "UsersEstimate": 86
+      "UsersEstimate": 89
     },
     {
       "ID": "CgkIgaGB2J0LEAIQBA",
@@ -1485,8 +1485,8 @@
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-08-17T23:05:44.3733785+00:00",
+  "LastChanged_Achievements": "2023-08-18T00:07:40.7671675+00:00",
   "LastUpdate_AppInfo": "2023-08-17T16:57:05.1055694+00:00",
-  "LastUpdate_Ratings": "2023-08-17T22:58:10.3596089+00:00",
-  "LastUpdate_Achievements": "2023-08-17T23:05:44.3734163+00:00"
+  "LastUpdate_Ratings": "2023-08-17T23:58:54.5711037+00:00",
+  "LastUpdate_Achievements": "2023-08-18T00:07:40.7672023+00:00"
 }

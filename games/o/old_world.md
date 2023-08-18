@@ -84,6 +84,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Temple of Solomon | 0.70% | ~94 |
 | Persian Paganism | 0.70% | ~94 |
 | Building Wonders | 0.70% | ~94 |
+| Legalism | 0.70% | ~94 |
 | Lion | 0.60% | ~81 |
 | Subjugator | 0.60% | ~81 |
 | Good Difficulty | 0.60% | ~81 |
@@ -95,7 +96,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 3 | 0.60% | ~81 |
 | Power to the People | 0.60% | ~81 |
 | Economic Reform | 0.60% | ~81 |
-| Legalism | 0.60% | ~81 |
 | Redemption | 0.60% | ~81 |
 | Legionary | 0.60% | ~81 |
 | Phalangite | 0.60% | ~81 |
@@ -131,6 +131,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 4 | 0.40% | ~54 |
 | Rome | 0.40% | ~54 |
 | One True Faith | 0.40% | ~54 |
+| Hittite Paganism | 0.40% | ~54 |
 | Kushite Cavalry | 0.40% | ~54 |
 | Turreted Elephant | 0.40% | ~54 |
 | No Undo | 0.40% | ~54 |
@@ -141,7 +142,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egypt | 0.30% | ~40 |
 | Persia | 0.30% | ~40 |
 | Old World Order | 0.30% | ~40 |
-| Hittite Paganism | 0.30% | ~40 |
 | Cataphract Archer | 0.30% | ~40 |
 | Three Man Chariot | 0.30% | ~40 |
 | All Nations | 0.30% | ~40 |
@@ -303,8 +303,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,444 (Ranked 117)  
-Completed: 5 (0.04%) (Ranked 228)  
+Progressed: 13,445 (Ranked 117)  
+Completed: 5 (0.04%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -423,6 +423,7 @@ Completed: 5 (0.04%) (Ranked 228)
 | 2023-08-15 | 13,422 | 5 |
 | 2023-08-16 | 13,432 | 5 |
 | 2023-08-17 | 13,444 | 5 |
+| 2023-08-18 | 13,445 | 5 |
 ## Awards
 Max (Relaxing): 219  (Ranked 264)  
 Sum: 1,792 (Ranked 206)  

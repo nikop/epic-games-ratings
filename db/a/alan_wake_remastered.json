@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 61025,
+  "EOS_Progressed": 61027,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 367,
+  "EOS_NewPlayers": 369,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11572,6 +11572,11 @@
       "Time": "2023-08-17T23:05:21.0588493+00:00",
       "NumProgressed": 61025,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-18T00:07:07.4182273+00:00",
+      "NumProgressed": 61027,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -11583,7 +11588,7 @@
       "Name": "Follow the Light",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 22579
+      "UsersEstimate": 22580
     },
     {
       "ID": "02",
@@ -11647,7 +11652,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7933
+      "UsersEstimate": 7934
     },
     {
       "ID": "10",
@@ -11655,7 +11660,7 @@
       "Name": "Medical Opinions",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1220
+      "UsersEstimate": 1221
     },
     {
       "ID": "11",
@@ -11687,7 +11692,7 @@
       "Name": "Gatekeeper",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6102
+      "UsersEstimate": 6103
     },
     {
       "ID": "15",
@@ -11695,7 +11700,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6102
+      "UsersEstimate": 6103
     },
     {
       "ID": "16",
@@ -11743,7 +11748,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7933
+      "UsersEstimate": 7934
     },
     {
       "ID": "22",
@@ -11751,7 +11756,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7933
+      "UsersEstimate": 7934
     },
     {
       "ID": "23",
@@ -11759,7 +11764,7 @@
       "Name": "Taken Season",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1220
+      "UsersEstimate": 1221
     },
     {
       "ID": "24",
@@ -11815,7 +11820,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6102
+      "UsersEstimate": 6103
     },
     {
       "ID": "31",
@@ -11831,7 +11836,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 17697
+      "UsersEstimate": 17698
     },
     {
       "ID": "33",
@@ -11847,7 +11852,7 @@
       "Name": "Energized!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6102
+      "UsersEstimate": 6103
     },
     {
       "ID": "35",
@@ -11879,7 +11884,7 @@
       "Name": "An Idyllic Small Town",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1220
+      "UsersEstimate": 1221
     },
     {
       "ID": "39",
@@ -11919,7 +11924,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 10374
+      "UsersEstimate": 10375
     },
     {
       "ID": "44",
@@ -11983,7 +11988,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1959
+      "UsersEstimate": 1960
     },
     {
       "ID": "52",
@@ -12118,21 +12123,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 61025,
+      "Progressed": 61027,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 24493,
+      "Progressed": 24495,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-17T23:05:21.0588488+00:00",
+  "LastChanged_Achievements": "2023-08-18T00:07:07.4182266+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:20.2881971+00:00",
-  "LastUpdate_Ratings": "2023-08-17T22:58:53.3488456+00:00",
-  "LastUpdate_Achievements": "2023-08-17T23:05:21.0590436+00:00"
+  "LastUpdate_Ratings": "2023-08-17T23:59:59.6683373+00:00",
+  "LastUpdate_Achievements": "2023-08-18T00:07:07.4183839+00:00"
 }

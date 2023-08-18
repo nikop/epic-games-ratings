@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewPlayers": 104,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -2382,10 +2382,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 4168,
       "NumberOfAwardsMax": 2505
+    },
+    {
+      "Time": "2023-08-17T23:57:23.5466416+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4169,
+      "NumberOfAwardsMax": 2505
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4168,
+  "NumberOfAwards": 4169,
   "NumberOfAwardsMax": 2505,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2435,7 +2441,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 214
+      "Count": 215
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2450,7 +2456,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 67881,
+  "EOS_Progressed": 67882,
   "EOS_Completed": 107,
   "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 1,
@@ -12590,6 +12596,11 @@
       "Time": "2023-08-17T22:06:19.1751288+00:00",
       "NumProgressed": 67881,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2023-08-18T00:07:50.6584568+00:00",
+      "NumProgressed": 67882,
+      "NumCompleted": 107
     }
   ],
   "TotalAchievements": 61,
@@ -12841,7 +12852,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 12897
+      "UsersEstimate": 12898
     },
     {
       "ID": "FREEZE_3",
@@ -12905,7 +12916,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 23758
+      "UsersEstimate": 23759
     },
     {
       "ID": "HARLEY_2",
@@ -12945,7 +12956,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 33940
+      "UsersEstimate": 33941
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -13088,22 +13099,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 67881,
+      "Progressed": 67882,
       "Completed": 107
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 38161,
+      "Progressed": 38162,
       "Completed": 2658
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-08-17T21:57:17.7539613+00:00",
-  "LastChanged_Achievements": "2023-08-17T23:05:51.1404212+00:00",
+  "LastChanged": "2023-08-17T23:57:23.5466413+00:00",
+  "LastChanged_Achievements": "2023-08-18T00:07:50.6584558+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:49.7416919+00:00",
-  "LastUpdate_Ratings": "2023-08-17T22:57:06.2933555+00:00",
-  "LastUpdate_Achievements": "2023-08-17T23:05:51.1405548+00:00"
+  "LastUpdate_Ratings": "2023-08-17T23:57:23.5466419+00:00",
+  "LastUpdate_Achievements": "2023-08-18T00:07:50.6586085+00:00"
 }

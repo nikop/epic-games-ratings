@@ -6,30 +6,30 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 91.00% | ~7,798 |
-| Photogenic | 88.00% | ~7,541 |
+| Let's Get This Party Started | 91.00% | ~7,799 |
+| Photogenic | 88.00% | ~7,542 |
 | Surge Gauntlet Jockey | 85.00% | ~7,284 |
-| Plug It In | 84.00% | ~7,198 |
-| Adventure Time | 80.00% | ~6,855 |
-| Playing With Power | 77.00% | ~6,598 |
+| Plug It In | 84.00% | ~7,199 |
+| Adventure Time | 80.00% | ~6,856 |
+| Playing With Power | 77.00% | ~6,599 |
 | Coup d'Etat | 59.00% | ~5,056 |
-| You're Fired | 58.00% | ~4,970 |
+| You're Fired | 58.00% | ~4,971 |
 | Get Furious | 56.00% | ~4,799 |
-| Gunplay And Cosplay | 55.00% | ~4,713 |
-| Hacks In Stacks | 55.00% | ~4,713 |
+| Gunplay And Cosplay | 55.00% | ~4,714 |
+| Hacks In Stacks | 55.00% | ~4,714 |
 | Meching Enemies | 49.00% | ~4,199 |
-| Ticket Toddler | 44.00% | ~3,770 |
+| Ticket Toddler | 44.00% | ~3,771 |
 | Booty Bashing | 40.00% | ~3,428 |
-| Field Medic | 38.00% | ~3,256 |
-| Here Comes a New Challenger | 38.00% | ~3,256 |
+| Field Medic | 38.00% | ~3,257 |
+| Here Comes a New Challenger | 38.00% | ~3,257 |
 | Rapid Response | 33.00% | ~2,828 |
-| Surge Ahead | 31.00% | ~2,656 |
-| The Full Monty | 31.00% | ~2,656 |
+| Surge Ahead | 31.00% | ~2,657 |
+| The Full Monty | 31.00% | ~2,657 |
 | Guardian Angel | 29.00% | ~2,485 |
 | Poppin Noggins | 25.00% | ~2,142 |
 | Clips and Crits | 20.00% | ~1,714 |
-| Grey Goo | 18.00% | ~1,542 |
-| Boss of Bosses | 15.00% | ~1,285 |
+| Grey Goo | 18.00% | ~1,543 |
+| Boss of Bosses | 15.00% | ~1,286 |
 | The Final Blow | 14.00% | ~1,200 |
 | To Be Continued | 13.00% | ~1,114 |
 | Light My Fire | 12.00% | ~1,028 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~34 |
 | Pyrotechnical | 0.20% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,569 (Ranked 126)  
+Progressed: 8,570 (Ranked 126)  
 Completed: 0 (0.00%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,6 +177,7 @@ Completed: 0 (0.00%) (Ranked 259)
 | 2023-08-15 | 8,553 | 0 |
 | 2023-08-16 | 8,560 | 0 |
 | 2023-08-17 | 8,569 | 0 |
+| 2023-08-18 | 8,570 | 0 |
 ## Awards
 Max (Relaxing): 64  (Ranked 386)  
 Sum: 457 (Ranked 307)  
