@@ -24,7 +24,7 @@
 | 22 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.16% |
 | 23 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 23 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
-| 23 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 11.11% |
+| 25 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.71% |
 | 26 | [Remains](games/r/remains.md) | 10.64% |
 | 27 | [Out of Bounds](games/o/out_of_bounds.md) | 10.34% |
 | 28 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.03% |
@@ -61,7 +61,7 @@
 | 59 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.15% |
 | 60 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.04% |
 | 61 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.92% |
-| 62 | [ZZT!](games/z/zzt!.md) | 3.77% |
+| 62 | [ZZT!](games/z/zzt!.md) | 3.76% |
 | 63 | [Without Escape](games/w/without_escape.md) | 3.57% |
 | 64 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 65 | [Doodle God](games/d/doodle_god.md) | 3.45% |
@@ -214,10 +214,10 @@
 | 210 | [Riverbond](games/r/riverbond.md) | 0.09% |
 | 210 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
 | 210 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
+| 215 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.08% |
 | 215 | [Partisans 1941](games/p/partisans_1941.md) | 0.08% |
-| 216 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.07% |
-| 216 | [Saints Row](games/s/saints_row.md) | 0.07% |
-| 216 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
+| 217 | [Saints Row](games/s/saints_row.md) | 0.07% |
+| 217 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
 | 219 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 0.06% |
 | 219 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.06% |
 | 219 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.06% |
