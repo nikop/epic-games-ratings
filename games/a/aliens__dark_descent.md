@@ -27,7 +27,7 @@ Rating: 4.48 (Ranked 591)
 | Living Nightmare | 32.00% | ~1,012 |
 | The Darwin Era Was Here | 28.00% | ~886 |
 | Deep Into Insanity | 27.00% | ~854 |
-| The Passenger | 26.00% | ~823 |
+| The Passenger | 27.00% | ~854 |
 | Come on, You Wanna Live Forever? | 25.00% | ~791 |
 | El Riesgo Siempre Vive | 23.00% | ~728 |
 | The Spire | 23.00% | ~728 |

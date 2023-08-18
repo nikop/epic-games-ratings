@@ -1,36 +1,36 @@
 # Defense Grid: The Awakening
 [Store](https://store.epicgames.com/en-US/p/defense-grid)  
 [View Rawdata](../../db/d/defense_grid__the_awakening.json)  
-Rating: 4.45 (Ranked 634)  
+Rating: 4.45 (Ranked 635)  
 Number of Ratings: 1,225  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~392,192 |
+| First Blood | 81.00% | ~392,193 |
 | Hey! That's mine! | 78.00% | ~377,667 |
-| Happy Returns | 77.00% | ~372,825 |
-| Field Promotion | 74.00% | ~358,299 |
-| Leadhead | 71.00% | ~343,773 |
-| Eradicator | 67.00% | ~324,406 |
-| Surplus | 65.00% | ~314,722 |
-| I Spy | 64.00% | ~309,880 |
-| Burn Baby Burn | 59.00% | ~285,671 |
-| Yellow Beats Green | 55.00% | ~266,303 |
+| Happy Returns | 77.00% | ~372,826 |
+| Field Promotion | 74.00% | ~358,300 |
+| Leadhead | 71.00% | ~343,774 |
+| Eradicator | 67.00% | ~324,407 |
+| Surplus | 65.00% | ~314,723 |
+| I Spy | 64.00% | ~309,881 |
+| Burn Baby Burn | 59.00% | ~285,672 |
+| Yellow Beats Green | 55.00% | ~266,304 |
 | Salvage Rights | 53.00% | ~256,620 |
 | Close Call | 50.00% | ~242,094 |
 | Pew Pew | 50.00% | ~242,094 |
 | What IS that? | 50.00% | ~242,094 |
-| Penny Pincher | 49.00% | ~237,252 |
-| Arsenal | 46.00% | ~222,726 |
+| Penny Pincher | 49.00% | ~237,253 |
+| Arsenal | 46.00% | ~222,727 |
 | Boot Camp | 45.00% | ~217,885 |
 | Flawless Victory | 42.00% | ~203,359 |
-| Confident | 40.00% | ~193,675 |
+| Confident | 40.00% | ~193,676 |
 | Exterminator | 36.00% | ~174,308 |
 | Not So Fast | 33.00% | ~159,782 |
 | Sharpshooter | 33.00% | ~159,782 |
 | Great Ball of Fire | 32.00% | ~154,940 |
-| No Sale | 31.00% | ~150,098 |
-| Kaboom! | 30.00% | ~145,256 |
+| No Sale | 31.00% | ~150,099 |
+| Kaboom! | 30.00% | ~145,257 |
 | Liquidator | 29.00% | ~140,415 |
 | High Voltage | 24.00% | ~116,205 |
 | Filthy Rich | 19.00% | ~91,996 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~484 |
 | You Monster | 0.10% | ~484 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 484,188 (Ranked 35)  
+Progressed: 484,189 (Ranked 35)  
 Completed: 4 (0.00%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,7 +214,7 @@ Completed: 4 (0.00%) (Ranked 259)
 | 2023-08-15 | 484,050 | 4 |
 | 2023-08-16 | 484,115 | 4 |
 | 2023-08-17 | 484,177 | 4 |
-| 2023-08-18 | 484,188 | 4 |
+| 2023-08-18 | 484,189 | 4 |
 ## Awards
 Max (Great for Beginners): 244  (Ranked 256)  
 Sum: 1,676 (Ranked 209)  

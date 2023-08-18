@@ -52,7 +52,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Rough Landing | 0.50% | ~4,357 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 871,357 (Ranked 14)  
-Completed: 1,976 (0.23%) (Ranked 180)  
+Completed: 1,977 (0.23%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -171,7 +171,7 @@ Completed: 1,976 (0.23%) (Ranked 180)
 | 2023-08-15 | 871,042 | 1,970 |
 | 2023-08-16 | 871,183 | 1,974 |
 | 2023-08-17 | 871,341 | 1,976 |
-| 2023-08-18 | 871,357 | 1,976 |
+| 2023-08-18 | 871,357 | 1,977 |
 ## Awards
 Max (Character Customization): 75,670  (Ranked 9)  
 Sum: 200,097 (Ranked 13)  

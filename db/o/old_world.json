@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 206,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewPlayers": 114,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -1611,9 +1611,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13447,
+  "EOS_Progressed": 13448,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -9806,6 +9806,11 @@
       "Time": "2023-08-18T02:18:44.4671499+00:00",
       "NumProgressed": 13447,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-18T03:05:11.3734568+00:00",
+      "NumProgressed": 13448,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -11895,9 +11900,9 @@
       "ID": "ACHIEVEMENT_UNIT_PHALANGITE",
       "SetID": "9201eeb",
       "Name": "Phalangite",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 94
     },
     {
       "ID": "ACHIEVEMENT_UNIT_SIEGE_TOWER",
@@ -12184,21 +12189,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13447,
+      "Progressed": 13448,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13447,
+      "Progressed": 13448,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-16T15:59:34.3416467+00:00",
-  "LastChanged_Achievements": "2023-08-18T02:18:44.4671493+00:00",
+  "LastChanged_Achievements": "2023-08-18T03:05:11.3734562+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:38.1291138+00:00",
-  "LastUpdate_Ratings": "2023-08-18T02:12:49.2274877+00:00",
-  "LastUpdate_Achievements": "2023-08-18T02:18:44.4681524+00:00"
+  "LastUpdate_Ratings": "2023-08-18T02:59:09.5004809+00:00",
+  "LastUpdate_Achievements": "2023-08-18T03:05:11.3743022+00:00"
 }

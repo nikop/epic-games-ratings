@@ -5620,18 +5620,24 @@
       "Rating": 4.82,
       "NumberOfAwards": 10944,
       "NumberOfAwardsMax": 6373
+    },
+    {
+      "Time": "2023-08-18T02:59:59.6627926+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10948,
+      "NumberOfAwardsMax": 6377
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10944,
-  "NumberOfAwardsMax": 6373,
+  "NumberOfAwards": 10948,
+  "NumberOfAwardsMax": 6377,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 6373
+      "Count": 6377
     },
     {
       "Text": "This game is Extremely Fun",
@@ -5700,7 +5706,7 @@
       "Count": 370
     }
   ],
-  "EOS_Progressed": 712500,
+  "EOS_Progressed": 712501,
   "EOS_Completed": 12861,
   "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 10,
@@ -16850,6 +16856,11 @@
       "Time": "2023-08-18T02:17:45.5238091+00:00",
       "NumProgressed": 712500,
       "NumCompleted": 12861
+    },
+    {
+      "Time": "2023-08-18T03:04:20.9414566+00:00",
+      "NumProgressed": 712501,
+      "NumCompleted": 12861
     }
   ],
   "TotalAchievements": 50,
@@ -16925,7 +16936,7 @@
       "Name": "Source of Flying Daggers",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 4987
+      "UsersEstimate": 4988
     },
     {
       "ID": "10_Wude_H4",
@@ -16933,7 +16944,7 @@
       "Name": "Iron Money",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 4987
+      "UsersEstimate": 4988
     },
     {
       "ID": "11_Wude_H5",
@@ -16941,7 +16952,7 @@
       "Name": "Legendary Talismans of Wuxing",
       "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 4987
+      "UsersEstimate": 4988
     },
     {
       "ID": "12_MidAge",
@@ -17181,7 +17192,7 @@
       "Name": "Warriors from the Mountain",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 712
+      "UsersEstimate": 713
     },
     {
       "ID": "42_PhotoMode_Trophy",
@@ -17260,21 +17271,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 21801,
+      "Progressed": 21802,
       "Completed": 10531
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 712500,
+      "Progressed": 712501,
       "Completed": 12861
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-08-17T17:01:02.5036417+00:00",
-  "LastChanged_Achievements": "2023-08-18T02:17:45.5238087+00:00",
+  "LastChanged": "2023-08-18T02:59:59.6627925+00:00",
+  "LastChanged_Achievements": "2023-08-18T03:04:20.941456+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:46.245364+00:00",
-  "LastUpdate_Ratings": "2023-08-18T02:13:52.5832195+00:00",
-  "LastUpdate_Achievements": "2023-08-18T02:17:45.5239121+00:00"
+  "LastUpdate_Ratings": "2023-08-18T02:59:59.6627935+00:00",
+  "LastUpdate_Achievements": "2023-08-18T03:04:20.9415633+00:00"
 }

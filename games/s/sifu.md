@@ -37,9 +37,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | Tiger on Fire | 0.80% | ~5,700 |
 | Detective Story | 0.80% | ~5,700 |
 | Deadly Venom | 0.80% | ~174 |
-| Source of Flying Daggers | 0.70% | ~4,987 |
-| Iron Money | 0.70% | ~4,987 |
-| Legendary Talismans of Wuxing | 0.70% | ~4,987 |
+| Source of Flying Daggers | 0.70% | ~4,988 |
+| Iron Money | 0.70% | ~4,988 |
+| Legendary Talismans of Wuxing | 0.70% | ~4,988 |
 | A Touch of Acumen | 0.70% | ~153 |
 | Prodigal Child | 0.60% | ~4,275 |
 | The 36th Chamber of Kung-Fu | 0.60% | ~4,275 |
@@ -55,9 +55,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | Be like water my friend | 0.30% | ~2,138 |
 | Come Snap With Me | 0.30% | ~2,138 |
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,425 |
-| Warriors from the Mountain | 0.10% | ~712 |
+| Warriors from the Mountain | 0.10% | ~713 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 712,500 (Ranked 20)  
+Progressed: 712,501 (Ranked 20)  
 Completed: 12,861 (1.81%) (Ranked 95)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,14 +177,14 @@ Completed: 12,861 (1.81%) (Ranked 95)
 | 2023-08-15 | 712,447 | 12,860 |
 | 2023-08-16 | 712,473 | 12,860 |
 | 2023-08-17 | 712,495 | 12,861 |
-| 2023-08-18 | 712,500 | 12,861 |
+| 2023-08-18 | 712,501 | 12,861 |
 ## Awards
-Max (Great Boss Battles): 6,373  (Ranked 55)  
-Sum: 10,944 (Ranked 82)  
+Max (Great Boss Battles): 6,377  (Ranked 55)  
+Sum: 10,948 (Ranked 82)  
 Diff (max vs sum): -27  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 6,373 |
+| This game has Great Boss Battles | 6,377 |
 | This game has Diverse Characters | 570 |
 | This game has Challenging Combat | 541 |
 | This game has Quickly Understood Controls | 535 |
@@ -412,3 +412,4 @@ Diff (max vs sum): -27
 | 2023-08-15 | 4.82 | - | 6,371 | 10,940 |
 | 2023-08-16 | 4.82 | - | 6,373 | 10,942 |
 | 2023-08-17 | 4.82 | - | 6,373 | 10,944 |
+| 2023-08-18 | 4.82 | - | 6,377 | 10,948 |

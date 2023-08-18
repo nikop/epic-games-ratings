@@ -3277,10 +3277,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 3661,
       "NumberOfAwardsMax": 437
+    },
+    {
+      "Time": "2023-08-18T02:57:22.5340549+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 3663,
+      "NumberOfAwardsMax": 437
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3661,
+  "NumberOfAwards": 3663,
   "NumberOfAwardsMax": 437,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3342,7 +3348,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 233
+      "Count": 235
     }
   ],
   "EOS_Progressed": 0,
@@ -3356,8 +3362,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:49.2794881+00:00",
-  "LastChanged": "2023-08-17T18:57:21.9781549+00:00",
+  "LastChanged": "2023-08-18T02:57:22.5340547+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:54.3407721+00:00",
-  "LastUpdate_Ratings": "2023-08-18T02:10:37.7315333+00:00",
-  "LastUpdate_Achievements": "2023-08-18T02:17:12.7474797+00:00"
+  "LastUpdate_Ratings": "2023-08-18T02:57:22.5340553+00:00",
+  "LastUpdate_Achievements": "2023-08-18T03:03:53.7549467+00:00"
 }

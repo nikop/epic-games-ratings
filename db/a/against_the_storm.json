@@ -9531,9 +9531,9 @@
       "ID": "WinWithResolve",
       "SetID": "cfbk359",
       "Name": "Victory through Prosperity",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 131
+      "UsersEstimate": 147
     },
     {
       "ID": "WinWithRuins",
@@ -9595,8 +9595,8 @@
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-08-16T07:57:40.9842146+00:00",
-  "LastChanged_Achievements": "2023-08-18T02:19:19.5922079+00:00",
+  "LastChanged_Achievements": "2023-08-18T03:05:40.2511023+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:15.5100545+00:00",
-  "LastUpdate_Ratings": "2023-08-18T02:10:59.0486188+00:00",
-  "LastUpdate_Achievements": "2023-08-18T02:19:19.5922956+00:00"
+  "LastUpdate_Ratings": "2023-08-18T02:57:41.5026804+00:00",
+  "LastUpdate_Achievements": "2023-08-18T03:05:40.2511826+00:00"
 }

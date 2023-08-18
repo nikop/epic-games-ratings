@@ -6,34 +6,34 @@ Number of Ratings: 25,248  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pioneer | 71.00% | ~703,141 |
-| Green Energy | 60.00% | ~594,204 |
-| Foggy Weather | 59.00% | ~584,301 |
-| Singing In The- | 59.00% | ~584,301 |
-| Unpopular Mayor | 40.00% | ~396,136 |
-| Power at Your Fingertips | 33.00% | ~326,812 |
-| City Planner | 23.00% | ~227,778 |
-| Rolling in Dough | 20.00% | ~198,068 |
-| Does My Bum Look Big In This? | 17.00% | ~168,358 |
-| Climbing the Social Ladder | 16.00% | ~158,454 |
-| Safe City | 14.00% | ~138,648 |
-| Quay-King | 11.00% | ~108,937 |
-| Lawmaker | 10.00% | ~99,034 |
-| With Canals You Can! | 10.00% | ~99,034 |
-| Nomen Est Omen | 7.00% | ~69,324 |
-| Well Informed | 6.00% | ~59,420 |
-| Fire Watch | 5.00% | ~49,517 |
-| Greenest City | 4.00% | ~39,614 |
-| Heavenly City | 3.00% | ~29,710 |
-| Reporting! | 3.00% | ~29,710 |
-| SIMulated City | 3.00% | ~29,710 |
-| The Safest Town | 3.00% | ~29,710 |
-| Professional Dumper | 2.00% | ~19,807 |
-| City in Motion | 1.00% | ~9,903 |
-| Earthloving City | 1.00% | ~9,903 |
-| Metropolis | 1.00% | ~9,903 |
+| Pioneer | 71.00% | ~703,166 |
+| Green Energy | 60.00% | ~594,225 |
+| Foggy Weather | 59.00% | ~584,321 |
+| Singing In The- | 59.00% | ~584,321 |
+| Unpopular Mayor | 40.00% | ~396,150 |
+| Power at Your Fingertips | 33.00% | ~326,824 |
+| City Planner | 23.00% | ~227,786 |
+| Rolling in Dough | 20.00% | ~198,075 |
+| Does My Bum Look Big In This? | 17.00% | ~168,364 |
+| Climbing the Social Ladder | 16.00% | ~158,460 |
+| Safe City | 14.00% | ~138,652 |
+| Quay-King | 11.00% | ~108,941 |
+| Lawmaker | 10.00% | ~99,038 |
+| With Canals You Can! | 10.00% | ~99,038 |
+| Nomen Est Omen | 7.00% | ~69,326 |
+| Well Informed | 6.00% | ~59,422 |
+| Fire Watch | 5.00% | ~49,519 |
+| Greenest City | 4.00% | ~39,615 |
+| Heavenly City | 3.00% | ~29,711 |
+| Reporting! | 3.00% | ~29,711 |
+| SIMulated City | 3.00% | ~29,711 |
+| The Safest Town | 3.00% | ~29,711 |
+| Professional Dumper | 2.00% | ~19,808 |
+| City in Motion | 1.00% | ~9,904 |
+| Earthloving City | 1.00% | ~9,904 |
+| Metropolis | 1.00% | ~9,904 |
 | Higher Education | 0.80% | ~7,923 |
-| Beam Me Up | 0.70% | ~6,932 |
+| Beam Me Up | 0.70% | ~6,933 |
 | Full Capacity | 0.60% | ~5,942 |
 | Terraformer | 0.60% | ~5,942 |
 | Decorator | 0.50% | ~4,952 |
@@ -44,13 +44,13 @@ Number of Ratings: 25,248  (23.09.2022)
 | Speed up! | 0.50% | ~4,952 |
 | The Waters of Our Lives | 0.50% | ~4,952 |
 | Twist and shout | 0.50% | ~4,952 |
-| Airfield Expertise | 0.40% | ~3,961 |
-| Airlifter | 0.40% | ~3,961 |
-| Get Your Snowshoes Ready! | 0.40% | ~3,961 |
-| Happy Town | 0.40% | ~3,961 |
-| I Want It All | 0.40% | ~3,961 |
-| Just Tolling | 0.40% | ~3,961 |
-| Thunder and Lightning | 0.40% | ~3,961 |
+| Airfield Expertise | 0.40% | ~3,962 |
+| Airlifter | 0.40% | ~3,962 |
+| Get Your Snowshoes Ready! | 0.40% | ~3,962 |
+| Happy Town | 0.40% | ~3,962 |
+| I Want It All | 0.40% | ~3,962 |
+| Just Tolling | 0.40% | ~3,962 |
+| Thunder and Lightning | 0.40% | ~3,962 |
 | A Huge Hadron | 0.30% | ~2,971 |
 | Airport Architect | 0.30% | ~2,971 |
 | Are They Naked In There? | 0.30% | ~2,971 |
@@ -126,7 +126,7 @@ Number of Ratings: 25,248  (23.09.2022)
 | World of Rotorcraft | 0.10% | ~990 |
 | Z00 | 0.10% | ~990 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 990,340 (Ranked 13)  
+Progressed: 990,375 (Ranked 13)  
 Completed: 10 (0.00%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,17 +246,17 @@ Completed: 10 (0.00%) (Ranked 259)
 | 2023-08-15 | 986,641 | 10 |
 | 2023-08-16 | 988,445 | 10 |
 | 2023-08-17 | 990,188 | 10 |
-| 2023-08-18 | 990,340 | 10 |
+| 2023-08-18 | 990,375 | 10 |
 ## Awards
 Max (Relaxing): 5,163  (Ranked 67)  
-Sum: 39,124 (Ranked 32)  
+Sum: 39,135 (Ranked 32)  
 Diff (max vs sum): 35  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 5,163 |
 | This game is Great for Beginners | 5,159 |
 | This game is Educational | 4,839 |
-| This game has Quickly Understood Controls | 4,811 |
+| This game has Quickly Understood Controls | 4,822 |
 | This game is Extremely Fun | 4,508 |
 | This game is Highly Recommended | 4,357 |
 | This game has Amazing Storytelling | 3,654 |
@@ -470,4 +470,4 @@ Diff (max vs sum): 35
 | 2023-08-15 | 4.65 | - | 5,149 | 39,019 |
 | 2023-08-16 | 4.65 | - | 5,155 | 39,071 |
 | 2023-08-17 | 4.65 | - | 5,163 | 39,117 |
-| 2023-08-18 | 4.65 | - | 5,163 | 39,124 |
+| 2023-08-18 | 4.65 | - | 5,163 | 39,135 |

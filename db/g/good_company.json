@@ -2,12 +2,12 @@
   "ID": "b595ab13a93a4be8b6857cc14d2d6e8b",
   "Name": "Good Company",
   "ProductSlug": "good-company",
-  "Ranking_Rating": 646,
+  "Ranking_Rating": 647,
   "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5299,
+  "EOS_Progressed": 5300,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2985,6 +2985,11 @@
       "Time": "2023-08-17T15:04:42.5928955+00:00",
       "NumProgressed": 5299,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-18T03:04:34.9793053+00:00",
+      "NumProgressed": 5300,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -3603,15 +3608,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5299,
+      "Progressed": 5300,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-07-16T00:00:06.2705867+00:00",
-  "LastChanged_Achievements": "2023-08-18T02:18:01.9723867+00:00",
+  "LastChanged_Achievements": "2023-08-18T03:04:34.9793048+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:43.4719321+00:00",
-  "LastUpdate_Ratings": "2023-08-18T02:13:47.4287998+00:00",
-  "LastUpdate_Achievements": "2023-08-18T02:18:01.9724731+00:00"
+  "LastUpdate_Ratings": "2023-08-18T02:59:55.989454+00:00",
+  "LastUpdate_Achievements": "2023-08-18T03:04:34.979412+00:00"
 }
