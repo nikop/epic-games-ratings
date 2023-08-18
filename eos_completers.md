@@ -15,13 +15,13 @@
 | 12 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 12 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 20.00% |
 | 15 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
-| 16 | [Island Cities](games/i/island_cities.md) | 18.04% |
+| 16 | [Island Cities](games/i/island_cities.md) | 18.00% |
 | 17 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 17.74% |
 | 18 | [Anna's Quest](games/a/anna's_quest.md) | 14.71% |
 | 19 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.55% |
 | 20 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.11% |
 | 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.17% |
-| 22 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.16% |
+| 22 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.14% |
 | 23 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 23 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
 | 25 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.71% |
@@ -31,7 +31,7 @@
 | 29 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 10.00% |
 | 30 | [Sonic Origins](games/s/sonic_origins.md) | 9.60% |
 | 31 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.30% |
-| 32 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.94% |
+| 32 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.93% |
 | 33 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.48% |
 | 34 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 8.33% |
 | 35 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.69% |
@@ -86,7 +86,7 @@
 | 84 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.52% |
 | 85 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 86 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.35% |
-| 87 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.28% |
+| 87 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.27% |
 | 88 | [Bloodshore](games/b/bloodshore.md) | 2.21% |
 | 89 | [FORECLOSED](games/f/foreclosed.md) | 2.17% |
 | 90 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.03% |
@@ -171,8 +171,8 @@
 | 169 | [The First Tree](games/t/the_first_tree.md) | 0.30% |
 | 170 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.29% |
 | 170 | [Scrapnaut](games/s/scrapnaut.md) | 0.29% |
+| 172 | [Against the Storm](games/a/against_the_storm.md) | 0.28% |
 | 172 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
-| 173 | [Against the Storm](games/a/against_the_storm.md) | 0.27% |
 | 174 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.26% |
 | 175 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
 | 176 | [Blanc](games/b/blanc.md) | 0.24% |
