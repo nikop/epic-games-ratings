@@ -38,7 +38,7 @@
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.53% |
 | 37 | [Smelter](games/s/smelter.md) | 7.50% |
 | 38 | [Scorn](games/s/scorn.md) | 6.94% |
-| 39 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.83% |
+| 39 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.89% |
 | 40 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.80% |
 | 41 | [Time Loader](games/t/time_loader.md) | 6.78% |
 | 42 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.52% |
@@ -107,7 +107,7 @@
 | 105 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.46% |
 | 105 | [Ten Dates](games/t/ten_dates.md) | 1.46% |
 | 107 | [Poosh XL](games/p/poosh_xl.md) | 1.41% |
-| 108 | [Late Shift](games/l/late_shift.md) | 1.30% |
+| 108 | [Late Shift](games/l/late_shift.md) | 1.29% |
 | 109 | [Infindustry](games/i/infindustry.md) | 1.27% |
 | 110 | [Chorus](games/c/chorus.md) | 1.15% |
 | 111 | [Trifox](games/t/trifox.md) | 1.10% |
@@ -119,7 +119,7 @@
 | 115 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.01% |
 | 118 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.98% |
 | 118 | [Sable](games/s/sable.md) | 0.98% |
-| 120 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.97% |
+| 120 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.96% |
 | 121 | [Hades](games/h/hades.md) | 0.90% |
 | 122 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 123 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |

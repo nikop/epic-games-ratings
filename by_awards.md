@@ -9,7 +9,7 @@
 | 7 | [Fall Guys](games/f/fall_guys.md) | 146,437 | 4.52 | 527 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 114,878 | 4.69 | 216 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 75,741 | 4.62 | 348 |
-| 10 | [VALORANT](games/v/valorant.md) | 65,097 | 4.53 | 514 |
+| 10 | [VALORANT](games/v/valorant.md) | 65,209 | 4.53 | 514 |
 | 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 60,163 | 4.58 | 428 |
 | 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 43,133 | 4.61 | 365 |
 | 13 | [Destiny 2](games/d/destiny_2.md) | 36,405 | 4.49 | 576 |
@@ -26,7 +26,7 @@
 | 24 | [Borderlands 2](games/b/borderlands_2.md) | 15,083 | 4.76 | 118 |
 | 25 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,448 | 4.58 | 428 |
 | 26 | [Maneater](games/m/maneater.md) | 13,629 | 4.49 | 576 |
-| 27 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,587 | 4.60 | 391 |
+| 27 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,591 | 4.60 | 391 |
 | 28 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 13,230 | 4.60 | 391 |
 | 29 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,631 | 4.36 | 740 |
 | 30 | [Killing Floor 2](games/k/killing_floor_2.md) | 12,629 | 4.42 | 668 |
@@ -123,8 +123,8 @@
 | 121 | [Ring of Pain](games/r/ring_of_pain.md) | 1,488 | 4.58 | 428 |
 | 122 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,481 | 4.79 | 88 |
 | 123 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 1,437 | 4.62 | 348 |
-| 124 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,426 | 4.87 | 26 |
-| 124 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 1,426 | 4.78 | 101 |
+| 124 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,429 | 4.87 | 26 |
+| 125 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 1,426 | 4.78 | 101 |
 | 126 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 1,399 | 4.53 | 514 |
 | 127 | [Conan Exiles](games/c/conan_exiles.md) | 1,387 | 4.55 | 487 |
 | 128 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 1,386 | 4.86 | 30 |
@@ -145,7 +145,7 @@
 | 143 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 1,016 | 4.39 | 710 |
 | 144 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 1,010 | 4.23 | 841 |
 | 145 | [Torchlight II](games/t/torchlight_ii.md) | 1,007 | 4.59 | 414 |
-| 146 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 960 | 4.31 | 785 |
+| 146 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 961 | 4.31 | 785 |
 | 147 | [Remnant 2](games/r/remnant_2.md) | 954 | 4.76 | 118 |
 | 147 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 954 | 4.69 | 216 |
 | 149 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 931 | 4.76 | 118 |
@@ -173,7 +173,7 @@
 | 171 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 670 | 4.61 | 365 |
 | 172 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 665 | 4.67 | 258 |
 | 172 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 665 | 4.75 | 136 |
-| 174 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 661 | 4.74 | 146 |
+| 174 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 663 | 4.74 | 146 |
 | 175 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 642 | 4.74 | 146 |
 | 176 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 638 | 4.60 | 391 |
 | 177 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 628 | 4.50 | 559 |
@@ -212,7 +212,7 @@
 | 210 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 415 | 4.60 | 391 |
 | 211 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 411 | 4.50 | 559 |
 | 212 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 410 | 4.73 | 161 |
-| 213 | [Warface](games/w/warface.md) | 406 | 3.91 | 951 |
+| 213 | [Warface](games/w/warface.md) | 407 | 3.91 | 951 |
 | 214 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 403 | 3.94 | 945 |
 | 215 | [Slime Rancher](games/s/slime_rancher.md) | 400 | 4.82 | 67 |
 | 216 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 398 | 4.70 | 199 |
@@ -243,9 +243,9 @@
 | 241 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 280 | 4.62 | 348 |
 | 242 | [Dead Cells](games/d/dead_cells.md) | 278 | 4.87 | 26 |
 | 242 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 278 | 4.61 | 365 |
-| 244 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 273 | 4.49 | 576 |
-| 245 | [Diabotical](games/d/diabotical.md) | 272 | 4.75 | 136 |
-| 246 | [Brawlhalla](games/b/brawlhalla.md) | 271 | 4.60 | 391 |
+| 244 | [Brawlhalla](games/b/brawlhalla.md) | 277 | 4.60 | 391 |
+| 245 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 273 | 4.49 | 576 |
+| 246 | [Diabotical](games/d/diabotical.md) | 272 | 4.75 | 136 |
 | 247 | [Sheltered](games/s/sheltered.md) | 269 | 4.42 | 668 |
 | 248 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 262 | 4.84 | 51 |
 | 249 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 261 | 4.57 | 450 |
@@ -307,7 +307,7 @@
 | 305 | [Encased](games/e/encased.md) | 139 | 4.34 | 760 |
 | 306 | [Atomicrops](games/a/atomicrops.md) | 136 | 4.88 | 19 |
 | 307 | [while True: learn()](games/w/while_true__learn().md) | 134 | 4.51 | 543 |
-| 308 | [Timberborn](games/t/timberborn.md) | 131 | 4.72 | 171 |
+| 308 | [Timberborn](games/t/timberborn.md) | 132 | 4.72 | 171 |
 | 309 | [Alien: Isolation](games/a/alien__isolation.md) | 130 | 4.61 | 365 |
 | 310 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 126 | 4.29 | 796 |
 | 311 | [Sonic Origins](games/s/sonic_origins.md) | 125 | 4.58 | 428 |
