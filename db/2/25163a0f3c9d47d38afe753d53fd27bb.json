@@ -4,8 +4,8 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 22,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 672,
+  "EOS_Progressed": 673,
   "EOS_Completed": 75,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 11.16,
+  "EOS_Completed_Percentage": 11.14,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -2251,6 +2251,11 @@
       "Time": "2023-08-17T05:03:06.1635722+00:00",
       "NumProgressed": 672,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2023-08-18T18:03:04.205061+00:00",
+      "NumProgressed": 673,
+      "NumCompleted": 75
     }
   ],
   "TotalAchievements": 30,
@@ -2260,9 +2265,9 @@
       "ID": "LEVEL_001",
       "SetID": "212bg48",
       "Name": "A fresh start",
-      "Percentage": 97,
+      "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 652
+      "UsersEstimate": 646
     },
     {
       "ID": "LEVEL_002",
@@ -2270,7 +2275,7 @@
       "Name": "Promising crop",
       "Percentage": 82,
       "XP": 15,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "LEVEL_003",
@@ -2278,7 +2283,7 @@
       "Name": "A horse in the country",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "LEVEL_004",
@@ -2302,7 +2307,7 @@
       "Name": "Nothing like fresh food",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "LEVEL_007",
@@ -2318,7 +2323,7 @@
       "Name": "Let\u0027s go to the market",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "LEVEL_009",
@@ -2334,7 +2339,7 @@
       "Name": "Rocks around the island",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "LEVEL_011",
@@ -2366,7 +2371,7 @@
       "Name": "Cross-country",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "LEVEL_015",
@@ -2470,7 +2475,7 @@
       "Name": "A farm island lost in time...",
       "Percentage": 9,
       "XP": 55,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "LEVEL_028",
@@ -2478,7 +2483,7 @@
       "Name": "What is the country?",
       "Percentage": 9,
       "XP": 55,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "LEVEL_029",
@@ -2486,7 +2491,7 @@
       "Name": "Bridges connect us",
       "Percentage": 9,
       "XP": 55,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "LEVEL_030",
@@ -2501,14 +2506,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 672,
+      "Progressed": 673,
       "Completed": 75
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-08-18T17:03:34.5755332+00:00",
+  "LastChanged_Achievements": "2023-08-18T18:03:04.2050605+00:00",
   "LastUpdate_AppInfo": "2023-08-14T18:57:20.2400733+00:00",
-  "LastUpdate_Ratings": "2023-08-18T16:59:12.6630712+00:00",
-  "LastUpdate_Achievements": "2023-08-18T17:03:34.5755611+00:00"
+  "LastUpdate_Ratings": "2023-08-18T17:58:44.7595647+00:00",
+  "LastUpdate_Achievements": "2023-08-18T18:03:04.2050898+00:00"
 }

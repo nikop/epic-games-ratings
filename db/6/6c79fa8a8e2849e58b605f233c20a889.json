@@ -2,7 +2,7 @@
   "ID": "6c79fa8a8e2849e58b605f233c20a889",
   "Name": "Feud",
   "ProductSlug": "feud-19b141",
-  "Ranking_EOS_Progress": 165,
+  "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 95,
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2337,
+  "EOS_Progressed": 2338,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -4996,6 +4996,11 @@
       "Time": "2023-08-18T17:05:00.6643366+00:00",
       "NumProgressed": 2337,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-18T18:04:20.4543487+00:00",
+      "NumProgressed": 2338,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -5023,7 +5028,7 @@
       "Name": "Bot Destroyer",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "CLUMSY",
@@ -5087,7 +5092,7 @@
       "Name": "Novice",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 911
+      "UsersEstimate": 912
     },
     {
       "ID": "GLOVE_SLAP",
@@ -5111,7 +5116,7 @@
       "Name": "Grasshopper",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 1402
+      "UsersEstimate": 1403
     },
     {
       "ID": "GUARD_MAKER",
@@ -5182,14 +5187,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 2337,
+      "Progressed": 2338,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-08-18T17:05:00.6643362+00:00",
+  "LastChanged_Achievements": "2023-08-18T18:04:20.4543481+00:00",
   "LastUpdate_AppInfo": "2023-08-15T21:57:22.8245515+00:00",
-  "LastUpdate_Ratings": "2023-08-18T16:59:17.0412358+00:00",
-  "LastUpdate_Achievements": "2023-08-18T17:05:00.664372+00:00"
+  "LastUpdate_Ratings": "2023-08-18T17:58:49.2209921+00:00",
+  "LastUpdate_Achievements": "2023-08-18T18:04:20.454395+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "return-to-abyss-226301",
   "Ranking_EOS_Progress": 326,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewPlayers": 285,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
@@ -635,9 +635,9 @@
       "ID": "Epic_KillElite_500",
       "SetID": "ba1m2fc",
       "Name": "Mousetrap",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Epic_Kill_1000000",
@@ -826,8 +826,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-08-18T17:08:08.9406679+00:00",
+  "LastChanged_Achievements": "2023-08-18T18:07:07.6707253+00:00",
   "LastUpdate_AppInfo": "2023-08-17T07:57:28.3102259+00:00",
-  "LastUpdate_Ratings": "2023-08-18T16:59:04.0884816+00:00",
-  "LastUpdate_Achievements": "2023-08-18T17:08:08.940721+00:00"
+  "LastUpdate_Ratings": "2023-08-18T17:58:38.4141037+00:00",
+  "LastUpdate_Achievements": "2023-08-18T18:07:07.6707587+00:00"
 }

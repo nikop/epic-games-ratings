@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 363,
   "Ranking_EOS_Completed": 47,
   "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2016-03-24T11:00:00+00:00",
@@ -413,9 +413,9 @@
       "ID": "Netopyrci",
       "SetID": "ag48e8e",
       "Name": "Cave Bats",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Netopyrek",
@@ -461,9 +461,9 @@
       "ID": "Sova",
       "SetID": "ag48e8e",
       "Name": "Owl",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "SpiciPapouch",
@@ -477,17 +477,17 @@
       "ID": "Sputnik2",
       "SetID": "ag48e8e",
       "Name": "Sputnik",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Stonozka",
       "SetID": "ag48e8e",
       "Name": "Centipede",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Strom",
@@ -548,8 +548,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-08-18T17:05:20.6848067+00:00",
+  "LastChanged_Achievements": "2023-08-18T18:04:38.6153787+00:00",
   "LastUpdate_AppInfo": "2023-08-18T16:57:06.9691951+00:00",
-  "LastUpdate_Ratings": "2023-08-18T16:58:39.7181914+00:00",
-  "LastUpdate_Achievements": "2023-08-18T17:05:20.6848256+00:00"
+  "LastUpdate_Ratings": "2023-08-18T17:58:17.5236274+00:00",
+  "LastUpdate_Achievements": "2023-08-18T18:04:38.6153981+00:00"
 }

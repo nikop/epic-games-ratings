@@ -14,6 +14,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | A Lady's Blood in the Snow | 2.00% | ~14,250 |
 | Lady Wing Chun | 2.00% | ~14,250 |
 | Kill Nil | 2.00% | ~14,250 |
+| Stuntmaster | 2.00% | ~14,250 |
 | Street Fighting | 2.00% | ~14,250 |
 | Life is your teacher | 2.00% | ~14,250 |
 | State of constant learning | 2.00% | ~14,250 |
@@ -25,7 +26,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bloody Sport | 2.00% | ~436 |
 | Furious Fists | 1.00% | ~7,125 |
 | Scareless | 1.00% | ~7,125 |
-| Stuntmaster | 1.00% | ~7,125 |
 | Dance of the Praying Mantis | 1.00% | ~7,125 |
 | Qi Gong: Mind | 1.00% | ~7,125 |
 | I know Kung-Fu | 1.00% | ~7,125 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,425 |
 | Warriors from the Mountain | 0.10% | ~713 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 712,508 (Ranked 20)  
+Progressed: 712,509 (Ranked 20)  
 Completed: 12,863 (1.81%) (Ranked 95)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,7 +177,7 @@ Completed: 12,863 (1.81%) (Ranked 95)
 | 2023-08-15 | 712,447 | 12,860 |
 | 2023-08-16 | 712,473 | 12,860 |
 | 2023-08-17 | 712,495 | 12,861 |
-| 2023-08-18 | 712,508 | 12,863 |
+| 2023-08-18 | 712,509 | 12,863 |
 ## Awards
 Max (Great Boss Battles): 6,377  (Ranked 55)  
 Sum: 10,950 (Ranked 82)  

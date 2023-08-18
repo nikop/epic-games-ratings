@@ -564,9 +564,9 @@
       "ID": "CLG_SKILL_LEVEL5_1",
       "SetID": "89cjc9l",
       "Name": "Topped up",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "CLG_SKILL_LEVEL5_2",
@@ -676,9 +676,9 @@
       "ID": "PRG_ACCUM_GOLD",
       "SetID": "89cjc9l",
       "Name": "I\u0027m Rich",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "PRG_BOSS_BIRD",
@@ -1093,8 +1093,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-03-31T05:56:59.5373099+00:00",
-  "LastChanged_Achievements": "2023-08-18T17:03:17.3436645+00:00",
+  "LastChanged_Achievements": "2023-08-18T18:02:18.7990061+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:19.6868587+00:00",
-  "LastUpdate_Ratings": "2023-08-18T16:59:38.6373939+00:00",
-  "LastUpdate_Achievements": "2023-08-18T17:03:17.3437316+00:00"
+  "LastUpdate_Ratings": "2023-08-18T17:59:05.8714268+00:00",
+  "LastUpdate_Achievements": "2023-08-18T18:02:18.7990797+00:00"
 }

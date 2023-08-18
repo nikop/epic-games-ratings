@@ -495,7 +495,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 14646,
+  "EOS_Progressed": 14647,
   "EOS_Completed": 109,
   "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 1,
@@ -8370,6 +8370,11 @@
       "Time": "2023-08-18T17:05:43.321043+00:00",
       "NumProgressed": 14646,
       "NumCompleted": 109
+    },
+    {
+      "Time": "2023-08-18T18:04:58.8374932+00:00",
+      "NumProgressed": 14647,
+      "NumCompleted": 109
     }
   ],
   "TotalAchievements": 41,
@@ -8421,7 +8426,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 4833
+      "UsersEstimate": 4834
     },
     {
       "ID": "tpote_achievement_15",
@@ -8437,7 +8442,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2050
+      "UsersEstimate": 2051
     },
     {
       "ID": "tpote_achievement_17",
@@ -8581,7 +8586,7 @@
       "Name": "Jack was here!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2050
+      "UsersEstimate": 2051
     },
     {
       "ID": "tpote_achievement_33",
@@ -8708,15 +8713,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 14646,
+      "Progressed": 14647,
       "Completed": 109
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-08-03T13:08:30.3350415+00:00",
-  "LastChanged_Achievements": "2023-08-18T17:05:43.3210425+00:00",
+  "LastChanged_Achievements": "2023-08-18T18:04:58.8374928+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:55.7661895+00:00",
-  "LastUpdate_Ratings": "2023-08-18T16:57:39.6108406+00:00",
-  "LastUpdate_Achievements": "2023-08-18T17:05:43.3211223+00:00"
+  "LastUpdate_Ratings": "2023-08-18T17:57:27.3867054+00:00",
+  "LastUpdate_Achievements": "2023-08-18T18:04:58.8375557+00:00"
 }

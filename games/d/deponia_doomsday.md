@@ -5,23 +5,23 @@ Rating: 4.56 (Ranked 472)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Huzza, he's back. | 87.00% | ~326 |
-| And again, and again, and... | 64.00% | ~240 |
-| Burn, Elysium, burn! | 62.00% | ~232 |
-| Kuvaq Minigame-Master | 61.00% | ~229 |
-| FunScore | 55.00% | ~206 |
+| Huzza, he's back. | 87.00% | ~327 |
+| And again, and again, and... | 64.00% | ~241 |
+| Burn, Elysium, burn! | 62.00% | ~233 |
+| Kuvaq Minigame-Master | 60.00% | ~226 |
+| FunScore | 55.00% | ~207 |
 | Funtime's over | 53.00% | ~199 |
 | Chunky | 50.00% | ~188 |
-| Shall we play a game? | 49.00% | ~184 |
+| Shall we play a game? | 48.00% | ~180 |
 | Boat of love, boat of love | 48.00% | ~180 |
-| School's out | 43.00% | ~161 |
+| School's out | 43.00% | ~162 |
 | Scaffolding Expert | 37.00% | ~139 |
 | Elysian Minigame-Master | 37.00% | ~139 |
 | Sole Music | 36.00% | ~135 |
-| Portals come in packs | 30.00% | ~112 |
+| Portals come in packs | 30.00% | ~113 |
 | No man left behind! | 29.00% | ~109 |
 | Photo Friend | 26.00% | ~98 |
-| Brainfreeze | 22.00% | ~82 |
+| Brainfreeze | 22.00% | ~83 |
 | And everything comes full circle. | 20.00% | ~75 |
 | Masseltov | 19.00% | ~71 |
 | Thuna...? | 15.00% | ~56 |
@@ -36,13 +36,13 @@ Rating: 4.56 (Ranked 472)
 | Sadist | 8.00% | ~30 |
 | The customer is always right | 7.00% | ~26 |
 | Apoca...huh? | 7.00% | ~26 |
-| Pacifist | 6.00% | ~22 |
-| Against better judgement | 6.00% | ~22 |
+| Pacifist | 6.00% | ~23 |
+| Against better judgement | 6.00% | ~23 |
 | Distraction | 5.00% | ~19 |
 | Every man for himself! | 5.00% | ~19 |
 | 1001 Jackalopes | 2.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 375 (Ranked 247)  
+Progressed: 376 (Ranked 246)  
 Completed: 6 (1.60%) (Ranked 100)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,6 +69,7 @@ Completed: 6 (1.60%) (Ranked 100)
 | 2023-08-09 | 373 | 6 |
 | 2023-08-13 | 374 | 6 |
 | 2023-08-16 | 375 | 6 |
+| 2023-08-18 | 376 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

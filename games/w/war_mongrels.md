@@ -43,11 +43,11 @@ Number of Ratings: 34  (23.09.2022)
 | Piece of Cake | 7.00% | ~33 |
 | Collectibles of Chapter VII | 6.00% | ~28 |
 | Collectibles of Chapter VIII | 5.00% | ~23 |
+| The Good Samaritan | 5.00% | ~23 |
 | It Will Rain | 5.00% | ~23 |
 | Not Spill a Drop | 5.00% | ~23 |
 | Collectibles of Chapter X | 4.00% | ~19 |
 | Collectibles of Chapter XI | 4.00% | ~19 |
-| The Good Samaritan | 4.00% | ~19 |
 | Collectibles of Chapter VI | 3.00% | ~14 |
 | Collectibles of Chapter IX | 3.00% | ~14 |
 | Daddy Would Be Proud | 2.00% | ~9 |

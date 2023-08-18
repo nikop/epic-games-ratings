@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -190,9 +190,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1368,
+  "EOS_Progressed": 1369,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2835,6 +2835,11 @@
       "Time": "2023-08-16T10:06:28.7023075+00:00",
       "NumProgressed": 1368,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-18T18:06:09.579062+00:00",
+      "NumProgressed": 1369,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -2862,7 +2867,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 1026
+      "UsersEstimate": 1027
     },
     {
       "ID": "ATTENBOROUGH",
@@ -2886,7 +2891,7 @@
       "Name": "Bot Whisperer",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "CHAIN_KILLER",
@@ -2926,7 +2931,7 @@
       "Name": "Croaked",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 670
+      "UsersEstimate": 671
     },
     {
       "ID": "CRUELTY",
@@ -2942,7 +2947,7 @@
       "Name": "Curveball",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "DEAD_DD",
@@ -3052,9 +3057,9 @@
       "ID": "FROM_DARKNESS",
       "SetID": "9a4jnji",
       "Name": "From Darkness to Light",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 657
+      "UsersEstimate": 643
     },
     {
       "ID": "GIANT_KILLER",
@@ -3086,7 +3091,7 @@
       "Name": "Hold The Line",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "IM_THE_LAW",
@@ -3102,7 +3107,7 @@
       "Name": "Infiltrator",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "LUMBERJACK",
@@ -3110,7 +3115,7 @@
       "Name": "Lumberjack",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 725
+      "UsersEstimate": 726
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -3150,7 +3155,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 1067
+      "UsersEstimate": 1068
     },
     {
       "ID": "RECYCLER",
@@ -3182,7 +3187,7 @@
       "Name": "Sensei",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "SHADOW_BOXING",
@@ -3198,7 +3203,7 @@
       "Name": "Side Order",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "SILENT_BUT_VIOLENT",
@@ -3214,7 +3219,7 @@
       "Name": "Technophobe",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "THERE_CAN_BE_ONLY_ONE",
@@ -3253,7 +3258,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1368,
+      "Progressed": 1369,
       "Completed": 0
     }
   ],
@@ -3261,8 +3266,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-08-14T09:59:51.5997828+00:00",
-  "LastChanged_Achievements": "2023-08-18T17:07:04.3070447+00:00",
+  "LastChanged_Achievements": "2023-08-18T18:06:09.5790614+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:56.2809501+00:00",
-  "LastUpdate_Ratings": "2023-08-18T17:00:37.5399195+00:00",
-  "LastUpdate_Achievements": "2023-08-18T17:07:04.3070889+00:00"
+  "LastUpdate_Ratings": "2023-08-18T17:59:57.2258785+00:00",
+  "LastUpdate_Achievements": "2023-08-18T18:06:09.579113+00:00"
 }

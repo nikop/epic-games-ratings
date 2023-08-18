@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| [Tier 1] Fireworks | 33.00% | ~5 |
+| [Tier 1] Fireworks | 40.00% | ~6 |
 | [Tier 1] Instant Karma | 20.00% | ~3 |
 | [Tier 1] Worth the trouble | 13.00% | ~2 |
 | [Tier 1] Mix and match | 13.00% | ~2 |

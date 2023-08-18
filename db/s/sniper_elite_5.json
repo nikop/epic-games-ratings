@@ -470,9 +470,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3492,
+  "EOS_Progressed": 3493,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -6045,6 +6045,11 @@
       "Time": "2023-08-18T01:42:36.5387116+00:00",
       "NumProgressed": 3492,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-18T18:04:08.2740993+00:00",
+      "NumProgressed": 3493,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 71,
@@ -6064,7 +6069,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 733
+      "UsersEstimate": 734
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -6136,7 +6141,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1606
+      "UsersEstimate": 1607
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -6192,7 +6197,7 @@
       "Name": "Sharpshooter",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 733
+      "UsersEstimate": 734
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -6304,7 +6309,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 1222
+      "UsersEstimate": 1223
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -6368,7 +6373,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1117
+      "UsersEstimate": 1118
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -6623,13 +6628,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3443,
+      "Progressed": 3444,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3492,
+      "Progressed": 3493,
       "Completed": 9
     }
   ],
@@ -6637,8 +6642,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-08-17T21:58:16.5576579+00:00",
-  "LastChanged_Achievements": "2023-08-18T17:04:46.7631387+00:00",
+  "LastChanged_Achievements": "2023-08-18T18:04:08.2740989+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:04.4888171+00:00",
-  "LastUpdate_Ratings": "2023-08-18T16:58:45.4435279+00:00",
-  "LastUpdate_Achievements": "2023-08-18T17:04:46.7632189+00:00"
+  "LastUpdate_Ratings": "2023-08-18T17:58:21.9429171+00:00",
+  "LastUpdate_Achievements": "2023-08-18T18:04:08.2741837+00:00"
 }

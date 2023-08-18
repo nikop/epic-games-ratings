@@ -8,20 +8,20 @@ Number of Ratings: 524  (23.09.2022)
 | ---- | ---------- | ----- |
 | Follow the Light | 37.00% | ~22,591 |
 | Let There Be Light | 30.00% | ~18,317 |
-| Float Like a Butterfly | 29.00% | ~17,706 |
+| Float Like a Butterfly | 29.00% | ~17,707 |
 | Nordic Walking | 23.00% | ~14,043 |
 | Bright Falls' Finest | 23.00% | ~14,043 |
-| Under a Thin Layer of Skin | 20.00% | ~12,211 |
+| Under a Thin Layer of Skin | 20.00% | ~12,212 |
 | Paging Mr. Wake | 17.00% | ~10,380 |
 | Park Ranger | 16.00% | ~9,769 |
-| Back! Back, I Say! | 15.00% | ~9,158 |
-| Finders Keepers | 15.00% | ~9,158 |
+| Back! Back, I Say! | 15.00% | ~9,159 |
+| Finders Keepers | 15.00% | ~9,159 |
 | Sound and Fury | 14.00% | ~8,548 |
 | Missed by a Mile | 14.00% | ~8,548 |
 | Damn Good Cup of Coffee | 14.00% | ~8,548 |
-| Wheels Within Wheels | 13.00% | ~7,937 |
-| They're Heeeeeere! | 13.00% | ~7,937 |
-| The Six-Gun Scribe | 13.00% | ~7,937 |
+| Wheels Within Wheels | 13.00% | ~7,938 |
+| They're Heeeeeere! | 13.00% | ~7,938 |
+| The Six-Gun Scribe | 13.00% | ~7,938 |
 | Heavy Metal | 12.00% | ~7,327 |
 | Iron Horse | 12.00% | ~7,327 |
 | Collateral Carnage | 12.00% | ~7,327 |
@@ -34,12 +34,12 @@ Number of Ratings: 524  (23.09.2022)
 | Two For the Price of One | 10.00% | ~6,106 |
 | Energized! | 10.00% | ~6,106 |
 | Right of Way | 9.00% | ~5,495 |
-| What Light Through Yonder Window | 8.00% | ~4,884 |
+| What Light Through Yonder Window | 8.00% | ~4,885 |
 | A Friend in Need | 8.00% | ~1,962 |
 | Tornado Wrangler | 7.00% | ~4,274 |
 | Departure | 7.00% | ~4,274 |
 | Hardboiled Writer | 6.00% | ~3,663 |
-| A Friend Indeed | 6.00% | ~1,471 |
+| A Friend Indeed | 6.00% | ~1,472 |
 | Children of the Elder God | 5.00% | ~3,053 |
 | Drink 'Em Both Up | 5.00% | ~3,053 |
 | Ding! | 5.00% | ~1,226 |
@@ -53,7 +53,7 @@ Number of Ratings: 524  (23.09.2022)
 | Taken Season | 2.00% | ~1,221 |
 | An Idyllic Small Town | 2.00% | ~1,221 |
 | Couch Potato | 2.00% | ~1,221 |
-| Iron Will | 2.00% | ~490 |
+| Iron Will | 2.00% | ~491 |
 | Go Gentle Into That Good Light | 1.00% | ~245 |
 | Words Will Never Harm You | 0.70% | ~172 |
 | Cardboard Companions | 0.60% | ~147 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~61 |
 | No Punctuation | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,056 (Ranked 85)  
+Progressed: 61,058 (Ranked 85)  
 Completed: 64 (0.10%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 64 (0.10%) (Ranked 205)
 | 2023-08-15 | 60,907 | 64 |
 | 2023-08-16 | 60,965 | 64 |
 | 2023-08-17 | 61,025 | 64 |
-| 2023-08-18 | 61,056 | 64 |
+| 2023-08-18 | 61,058 | 64 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

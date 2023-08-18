@@ -4,7 +4,7 @@
   "ProductSlug": "warstone-td-8fe138",
   "Ranking_EOS_Progress": 441,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -67,9 +67,9 @@
       "ID": "11",
       "SetID": "5e3maia",
       "Name": "Snow White",
-      "Percentage": 73,
+      "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "12",
@@ -83,17 +83,17 @@
       "ID": "13",
       "SetID": "5e3maia",
       "Name": "Stalker",
-      "Percentage": 73,
+      "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "14",
       "SetID": "5e3maia",
       "Name": "Trafficker",
-      "Percentage": 73,
+      "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "15",
@@ -219,9 +219,9 @@
       "ID": "29",
       "SetID": "5e3maia",
       "Name": "Park ranger",
-      "Percentage": 55,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "3",
@@ -299,9 +299,9 @@
       "ID": "4",
       "SetID": "5e3maia",
       "Name": "Epic Alliance",
-      "Percentage": 136,
+      "Percentage": 155,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "40",
@@ -387,9 +387,9 @@
       "ID": "5",
       "SetID": "5e3maia",
       "Name": "Tax official",
-      "Percentage": 118,
+      "Percentage": 136,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "50",
@@ -475,9 +475,9 @@
       "ID": "6",
       "SetID": "5e3maia",
       "Name": "Blacksmith",
-      "Percentage": 127,
+      "Percentage": 145,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "60",
@@ -563,9 +563,9 @@
       "ID": "7",
       "SetID": "5e3maia",
       "Name": "Shamanslayer",
-      "Percentage": 91,
+      "Percentage": 109,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "70",
@@ -602,8 +602,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-08-18T17:05:05.6157894+00:00",
+  "LastChanged_Achievements": "2023-08-18T18:04:25.2173078+00:00",
   "LastUpdate_AppInfo": "2023-08-11T20:57:02.2957043+00:00",
-  "LastUpdate_Ratings": "2023-08-18T16:58:15.7443179+00:00",
-  "LastUpdate_Achievements": "2023-08-18T17:05:05.6158461+00:00"
+  "LastUpdate_Ratings": "2023-08-18T17:57:58.393854+00:00",
+  "LastUpdate_Achievements": "2023-08-18T18:04:25.2173679+00:00"
 }
