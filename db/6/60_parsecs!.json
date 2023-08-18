@@ -4,7 +4,7 @@
   "ProductSlug": "60-parsecs-0481c5",
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
@@ -904,9 +904,9 @@
       "ID": "Achievement_IntergalacticBreakup",
       "SetID": "c01p6e5",
       "Name": "Intergalactic Breakup",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 57
     },
     {
       "ID": "Achievement_KIA",
@@ -976,9 +976,9 @@
       "ID": "Achievement_SecondLife",
       "SetID": "c01p6e5",
       "Name": "Second Life",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 57
     },
     {
       "ID": "Achievement_SmallStep",
@@ -1073,8 +1073,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-08-18T05:02:20.3573111+00:00",
+  "LastChanged_Achievements": "2023-08-18T07:02:37.349336+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:01.5091521+00:00",
-  "LastUpdate_Ratings": "2023-08-18T05:58:10.6808348+00:00",
-  "LastUpdate_Achievements": "2023-08-18T05:02:20.3573572+00:00"
+  "LastUpdate_Ratings": "2023-08-18T06:58:38.5772721+00:00",
+  "LastUpdate_Achievements": "2023-08-18T07:02:37.349584+00:00"
 }

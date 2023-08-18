@@ -380,9 +380,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18076,
+  "EOS_Progressed": 18078,
   "EOS_Completed": 365,
-  "EOS_NewPlayers": 539,
+  "EOS_NewPlayers": 537,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 2.02,
   "EosHistory": [
@@ -13100,6 +13100,11 @@
       "Time": "2023-08-18T06:06:00.398368+00:00",
       "NumProgressed": 18076,
       "NumCompleted": 365
+    },
+    {
+      "Time": "2023-08-18T07:07:04.2913504+00:00",
+      "NumProgressed": 18078,
+      "NumCompleted": 365
     }
   ],
   "TotalAchievements": 20,
@@ -13175,7 +13180,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2711
+      "UsersEstimate": 2712
     },
     {
       "ID": "FOUND_ERIN",
@@ -13231,7 +13236,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 13738
+      "UsersEstimate": 13739
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -13239,7 +13244,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 5061
+      "UsersEstimate": 5062
     },
     {
       "ID": "NORTH_FINISHED",
@@ -13263,22 +13268,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 3434
+      "UsersEstimate": 3435
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 18076,
+      "Progressed": 18078,
       "Completed": 365
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-08-12T01:39:46.4098224+00:00",
-  "LastChanged_Achievements": "2023-08-18T06:06:00.3983673+00:00",
+  "LastChanged_Achievements": "2023-08-18T07:07:04.2913499+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:58:04.1120676+00:00",
-  "LastUpdate_Ratings": "2023-08-18T05:57:26.7391769+00:00",
-  "LastUpdate_Achievements": "2023-08-18T06:06:00.3984359+00:00"
+  "LastUpdate_Ratings": "2023-08-18T06:57:42.8185645+00:00",
+  "LastUpdate_Achievements": "2023-08-18T07:07:04.291442+00:00"
 }

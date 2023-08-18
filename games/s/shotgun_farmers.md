@@ -29,7 +29,7 @@
 | Carrocketeer | 14.00% | ~36 |
 | Getting Started | 13.00% | ~34 |
 | Eggtraordinary | 13.00% | ~34 |
-| Summers Here | 11.00% | ~23 |
+| Summers Here | 12.00% | ~25 |
 | Fresh Pancake | 10.00% | ~26 |
 | Quit Horsin' Around | 10.00% | ~26 |
 | Perfect | 10.00% | ~21 |

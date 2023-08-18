@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -706,9 +706,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 11992,
+  "EOS_Progressed": 11993,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -9066,6 +9066,11 @@
       "Time": "2023-08-18T02:16:18.9885835+00:00",
       "NumProgressed": 11992,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-08-18T07:03:13.3461364+00:00",
+      "NumProgressed": 11993,
+      "NumCompleted": 39
     }
   ],
   "TotalAchievements": 35,
@@ -9085,7 +9090,7 @@
       "Name": "With Extra Dip",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 839
+      "UsersEstimate": 840
     },
     {
       "ID": "ACH03",
@@ -9093,7 +9098,7 @@
       "Name": "The End of the Line",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 839
+      "UsersEstimate": 840
     },
     {
       "ID": "ACH04",
@@ -9125,7 +9130,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 2278
+      "UsersEstimate": 2279
     },
     {
       "ID": "ACH08",
@@ -9251,9 +9256,9 @@
       "ID": "ACH23",
       "SetID": "4ck5mbe",
       "Name": "All Dressed Up for San Fierro",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 3118
+      "UsersEstimate": 2998
     },
     {
       "ID": "ACH24",
@@ -9356,7 +9361,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11992,
+      "Progressed": 11993,
       "Completed": 39
     }
   ],
@@ -9364,8 +9369,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-08-17T07:57:54.9555591+00:00",
-  "LastChanged_Achievements": "2023-08-18T06:02:19.7723384+00:00",
+  "LastChanged_Achievements": "2023-08-18T07:03:13.3461361+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:11.1716171+00:00",
-  "LastUpdate_Ratings": "2023-08-18T05:57:44.1658701+00:00",
-  "LastUpdate_Achievements": "2023-08-18T06:02:19.772569+00:00"
+  "LastUpdate_Ratings": "2023-08-18T06:58:05.0693017+00:00",
+  "LastUpdate_Achievements": "2023-08-18T07:03:13.3462478+00:00"
 }

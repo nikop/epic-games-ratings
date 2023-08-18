@@ -4,7 +4,7 @@
   "ProductSlug": "hush-hush-5c1fa0",
   "Ranking_EOS_Progress": 416,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_NewPlayers": 352,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-07-27T17:00:00+00:00",
@@ -147,9 +147,9 @@
       "ID": "ACHIEVEMENT_Ach_MioScene4_Flex",
       "SetID": "70j9o42",
       "Name": "Make It Rain",
-      "Percentage": 5,
+      "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_Ach_PotatoChip",
@@ -291,9 +291,9 @@
       "ID": "ACHIEVEMENT_Lilianna_Respect",
       "SetID": "70j9o42",
       "Name": "Find Out What It Means To Me",
-      "Percentage": 11,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_Love_Machine",
@@ -450,8 +450,8 @@
   ],
   "FirstSeen": "2023-07-28T15:57:49.6060029+00:00",
   "FirstSeenAchievements": "2023-07-12T17:04:29.8033729+00:00",
-  "LastChanged_Achievements": "2023-08-18T06:05:33.1676128+00:00",
+  "LastChanged_Achievements": "2023-08-18T07:06:31.2291878+00:00",
   "LastUpdate_AppInfo": "2023-08-15T09:57:15.1154878+00:00",
-  "LastUpdate_Ratings": "2023-08-18T05:58:31.2943552+00:00",
-  "LastUpdate_Achievements": "2023-08-18T06:05:33.1676372+00:00"
+  "LastUpdate_Ratings": "2023-08-18T06:59:05.4182194+00:00",
+  "LastUpdate_Achievements": "2023-08-18T07:06:31.2292204+00:00"
 }

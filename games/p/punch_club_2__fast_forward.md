@@ -55,9 +55,9 @@
 | Gang wrangler | 35.00% | ~89 |
 | Problems of cyborgs | 35.00% | ~89 |
 | Undercover robot | 34.00% | ~87 |
+| Not little hacker | 33.00% | ~84 |
 | Absolute Champion! | 33.00% | ~84 |
 | Careerist | 33.00% | ~84 |
-| Not little hacker | 32.00% | ~82 |
 | Anyone can resist | 32.00% | ~82 |
 | Trap disarmed | 31.00% | ~79 |
 | Another world | 31.00% | ~79 |

@@ -2978,10 +2978,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 13066,
       "NumberOfAwardsMax": 6814
+    },
+    {
+      "Time": "2023-08-18T06:59:17.4842094+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 13088,
+      "NumberOfAwardsMax": 6814
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13066,
+  "NumberOfAwards": 13088,
   "NumberOfAwardsMax": 6814,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3037,7 +3043,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 573
+      "Count": 584
     },
     {
       "Text": "This game is Relaxing",
@@ -3049,13 +3055,13 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 700
+      "Count": 711
     }
   ],
-  "EOS_Progressed": 1580951,
-  "EOS_Completed": 509,
-  "EOS_NewPlayers": 24989,
-  "EOS_NewCompleters": 34,
+  "EOS_Progressed": 1581035,
+  "EOS_Completed": 510,
+  "EOS_NewPlayers": 24970,
+  "EOS_NewCompleters": 35,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
     {
@@ -11177,6 +11183,11 @@
       "Time": "2023-08-18T06:07:27.9074171+00:00",
       "NumProgressed": 1580951,
       "NumCompleted": 509
+    },
+    {
+      "Time": "2023-08-18T07:08:50.3343446+00:00",
+      "NumProgressed": 1581035,
+      "NumCompleted": 510
     }
   ],
   "TotalAchievements": 1328,
@@ -11242,9 +11253,9 @@
       "ID": "ameno_8",
       "SetID": "bkjdbk8",
       "Name": "The Collector",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 1581
+      "UsersEstimate": 3162
     },
     {
       "ID": "armed_and_dangerous",
@@ -21811,22 +21822,22 @@
     {
       "ID": "61cefe3",
       "IsBase": true,
-      "Progressed": 1580951,
-      "Completed": 509
+      "Progressed": 1581035,
+      "Completed": 510
     },
     {
       "ID": "bkjdbk8",
       "IsBase": false,
-      "Progressed": 1580951,
+      "Progressed": 1581035,
       "Completed": 16
     }
   ],
   "FirstSeen": "2023-06-08T18:57:07.8003815+00:00",
   "FirstSeenRating": "2023-06-09T03:57:04.3869033+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:50.4372379+00:00",
-  "LastChanged": "2023-08-18T02:11:57.072018+00:00",
-  "LastChanged_Achievements": "2023-08-18T06:07:27.9074167+00:00",
+  "LastChanged": "2023-08-18T06:59:17.4842091+00:00",
+  "LastChanged_Achievements": "2023-08-18T07:08:50.3343441+00:00",
   "LastUpdate_AppInfo": "2023-08-17T20:57:10.4408604+00:00",
-  "LastUpdate_Ratings": "2023-08-18T05:58:40.1424866+00:00",
-  "LastUpdate_Achievements": "2023-08-18T06:07:27.920904+00:00"
+  "LastUpdate_Ratings": "2023-08-18T06:59:17.4842103+00:00",
+  "LastUpdate_Achievements": "2023-08-18T07:08:50.3548546+00:00"
 }

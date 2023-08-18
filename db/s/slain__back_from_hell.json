@@ -217,9 +217,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 34277,
+  "EOS_Progressed": 34280,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 879,
+  "EOS_NewPlayers": 880,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -13352,6 +13352,11 @@
       "Time": "2023-08-18T06:05:57.9078336+00:00",
       "NumProgressed": 34277,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-08-18T07:07:01.0638978+00:00",
+      "NumProgressed": 34280,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 29,
@@ -13371,7 +13376,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 6855
+      "UsersEstimate": 6856
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -13411,7 +13416,7 @@
       "Name": "Backdoor Man",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "ACH_09_HIGHLANDS_NO_FLAME_KILLS",
@@ -13594,7 +13599,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 34277,
+      "Progressed": 34280,
       "Completed": 21
     }
   ],
@@ -13602,8 +13607,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-08-12T21:03:39.1122054+00:00",
-  "LastChanged_Achievements": "2023-08-18T06:05:57.9078332+00:00",
+  "LastChanged_Achievements": "2023-08-18T07:07:01.0638974+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:57.7890504+00:00",
-  "LastUpdate_Ratings": "2023-08-18T05:57:24.7401155+00:00",
-  "LastUpdate_Achievements": "2023-08-18T06:05:57.907909+00:00"
+  "LastUpdate_Ratings": "2023-08-18T06:57:40.7368272+00:00",
+  "LastUpdate_Achievements": "2023-08-18T07:07:01.0640151+00:00"
 }

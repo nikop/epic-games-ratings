@@ -21,6 +21,7 @@
 | Westwasters Dynasty | 4.00% | ~1 |
 | Merchant Republic | 4.00% | ~1 |
 | Jihad Uprising | 4.00% | ~1 |
+| Compliance Edict | 4.00% | ~1 |
 | Mercenary March | 0.00% | ~0 |
 | Takeover Planet | 0.00% | ~0 |
 | Punish Southsea | 0.00% | ~0 |
@@ -51,7 +52,6 @@
 | Heaven War | 0.00% | ~0 |
 | Glorious Dedication | 0.00% | ~0 |
 | Abolish Edict | 0.00% | ~0 |
-| Compliance Edict | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 27 (Ranked 401)  
 Completed: 0 (0.00%) (Ranked 259)  

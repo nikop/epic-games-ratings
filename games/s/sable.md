@@ -12,7 +12,7 @@ Number of Ratings: 43  (23.09.2022)
 | Under The Hood | 25.00% | ~21,053 |
 | Got Your Nose | 24.00% | ~20,211 |
 | The Gift of Gab | 24.00% | ~20,211 |
-| Wrapping Up | 22.00% | ~18,526 |
+| Wrapping Up | 22.00% | ~18,527 |
 | More Than A Box Of Sand | 18.00% | ~15,158 |
 | The Dunboyne | 17.00% | ~14,316 |
 | Badge Hobbyist | 17.00% | ~14,316 |
@@ -22,10 +22,10 @@ Number of Ratings: 43  (23.09.2022)
 | Bubble Up | 16.00% | ~13,474 |
 | Thread The Needle | 15.00% | ~12,632 |
 | Power to the People | 14.00% | ~11,790 |
-| Take That! | 13.00% | ~10,947 |
-| Nesting Giant | 13.00% | ~10,947 |
-| Treasure Tracker | 13.00% | ~10,947 |
-| Big Spender | 13.00% | ~10,947 |
+| Take That! | 13.00% | ~10,948 |
+| Nesting Giant | 13.00% | ~10,948 |
+| Treasure Tracker | 13.00% | ~10,948 |
+| Big Spender | 13.00% | ~10,948 |
 | Badge Collector | 12.00% | ~10,105 |
 | Quite The Catch | 12.00% | ~10,105 |
 | Rowleys Way | 11.00% | ~9,263 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~2,526 |
 | Vivacious Vivarium | 2.00% | ~1,684 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 84,211 (Ranked 73)  
+Progressed: 84,212 (Ranked 73)  
 Completed: 826 (0.98%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 826 (0.98%) (Ranked 118)
 | 2023-08-15 | 83,811 | 820 |
 | 2023-08-16 | 83,986 | 823 |
 | 2023-08-17 | 84,165 | 826 |
-| 2023-08-18 | 84,211 | 826 |
+| 2023-08-18 | 84,212 | 826 |
 ## Awards
 Max (Quickly Understood Controls): 22  (Ranked 493)  
 Sum: 22 (Ranked 495)  

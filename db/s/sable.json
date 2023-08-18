@@ -398,9 +398,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 84211,
+  "EOS_Progressed": 84212,
   "EOS_Completed": 826,
-  "EOS_NewPlayers": 1360,
+  "EOS_NewPlayers": 1350,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -13628,6 +13628,11 @@
       "Time": "2023-08-18T06:05:31.1048543+00:00",
       "NumProgressed": 84211,
       "NumCompleted": 826
+    },
+    {
+      "Time": "2023-08-18T07:06:28.7496256+00:00",
+      "NumProgressed": 84212,
+      "NumCompleted": 826
     }
   ],
   "TotalAchievements": 56,
@@ -13863,7 +13868,7 @@
       "Name": "Take That!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 10947
+      "UsersEstimate": 10948
     },
     {
       "ID": "ach_029_collect_lightning_crystal",
@@ -13887,7 +13892,7 @@
       "Name": "Nesting Giant",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 10947
+      "UsersEstimate": 10948
     },
     {
       "ID": "ach_032_collect_elephant_beetle",
@@ -13999,7 +14004,7 @@
       "Name": "Treasure Tracker",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 10947
+      "UsersEstimate": 10948
     },
     {
       "ID": "ach_046_stay_airborne",
@@ -14039,7 +14044,7 @@
       "Name": "Wrapping Up",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 18526
+      "UsersEstimate": 18527
     },
     {
       "ID": "ach_051_collect_clothing_items_2",
@@ -14055,7 +14060,7 @@
       "Name": "Big Spender",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 10947
+      "UsersEstimate": 10948
     },
     {
       "ID": "ach_053_angler_mask",
@@ -14086,15 +14091,15 @@
     {
       "ID": "585ckk9",
       "IsBase": true,
-      "Progressed": 84211,
+      "Progressed": 84212,
       "Completed": 826
     }
   ],
   "FirstSeen": "2022-07-22T20:31:24.3265081+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:25.3097347+00:00",
   "LastChanged": "2023-08-17T16:01:40.1946959+00:00",
-  "LastChanged_Achievements": "2023-08-18T06:05:31.1048535+00:00",
+  "LastChanged_Achievements": "2023-08-18T07:06:28.7496249+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:13.5719501+00:00",
-  "LastUpdate_Ratings": "2023-08-18T06:01:05.6390961+00:00",
-  "LastUpdate_Achievements": "2023-08-18T06:05:31.1049511+00:00"
+  "LastUpdate_Ratings": "2023-08-18T07:02:18.5502767+00:00",
+  "LastUpdate_Achievements": "2023-08-18T07:06:28.7498519+00:00"
 }

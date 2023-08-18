@@ -4,7 +4,7 @@
   "ProductSlug": "chaos-galaxy-a33dac",
   "Ranking_EOS_Progress": 401,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_NewPlayers": 352,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-04-10T11:00:00+00:00",
@@ -506,9 +506,9 @@
       "ID": "9",
       "SetID": "4fgie3j",
       "Name": "Compliance Edict",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
@@ -521,8 +521,8 @@
   ],
   "FirstSeen": "2023-07-23T23:01:17.0693395+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:09.8728342+00:00",
-  "LastChanged_Achievements": "2023-08-18T06:03:16.5399935+00:00",
+  "LastChanged_Achievements": "2023-08-18T07:03:33.68011+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:35.7107923+00:00",
-  "LastUpdate_Ratings": "2023-08-18T05:57:04.8468038+00:00",
-  "LastUpdate_Achievements": "2023-08-18T06:03:16.5400305+00:00"
+  "LastUpdate_Ratings": "2023-08-18T06:57:14.8022136+00:00",
+  "LastUpdate_Achievements": "2023-08-18T07:03:33.6801498+00:00"
 }
