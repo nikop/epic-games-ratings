@@ -37,8 +37,8 @@
 | 35 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.69% |
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.53% |
 | 37 | [Smelter](games/s/smelter.md) | 7.50% |
-| 38 | [Scorn](games/s/scorn.md) | 6.94% |
-| 39 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.88% |
+| 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.94% |
+| 39 | [Scorn](games/s/scorn.md) | 6.93% |
 | 40 | [Time Loader](games/t/time_loader.md) | 6.78% |
 | 41 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.76% |
 | 42 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.52% |
@@ -130,10 +130,10 @@
 | 127 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.72% |
 | 129 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.70% |
 | 130 | [Haven](games/h/haven.md) | 0.64% |
-| 131 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.63% |
-| 132 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
-| 132 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.62% |
-| 132 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.62% |
+| 131 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
+| 131 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.62% |
+| 131 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.62% |
+| 131 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.62% |
 | 135 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.60% |
 | 135 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.60% |
 | 137 | [Potion Permit](games/p/potion_permit.md) | 0.58% |
@@ -165,7 +165,7 @@
 | 162 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.35% |
 | 164 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.33% |
 | 164 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.33% |
-| 164 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.33% |
+| 166 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.32% |
 | 167 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
 | 167 | [Dead Island 2](games/d/dead_island_2.md) | 0.31% |
 | 169 | [The First Tree](games/t/the_first_tree.md) | 0.30% |
@@ -210,12 +210,12 @@
 | 205 | [Shop Titans](games/s/shop_titans.md) | 0.10% |
 | 205 | [Supraland](games/s/supraland.md) | 0.10% |
 | 210 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
-| 210 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.09% |
 | 210 | [Outward Definitive Edition](games/o/outward.md) | 0.09% |
 | 210 | [Riverbond](games/r/riverbond.md) | 0.09% |
 | 210 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
 | 210 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
-| 216 | [Partisans 1941](games/p/partisans_1941.md) | 0.08% |
+| 215 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.08% |
+| 215 | [Partisans 1941](games/p/partisans_1941.md) | 0.08% |
 | 217 | [Saints Row](games/s/saints_row.md) | 0.07% |
 | 217 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
 | 219 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 0.06% |
