@@ -2,10 +2,10 @@
   "ID": "30c72c5bafdd4e0bab04706867756ea1",
   "Name": "Operation Wolf Returns: First Mission VR",
   "ProductSlug": "operation-wolf-returns-first-mission-vr-446fba",
-  "Ranking_EOS_Progress": 547,
+  "Ranking_EOS_Progress": 548,
   "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 352,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-09-30T00:00:00+00:00",
     "PcReleaseDate": "2023-07-12T22:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-03T13:20:24.1974184+00:00",
-  "LastChanged_Achievements": "2023-08-18T12:04:31.6927217+00:00",
+  "LastChanged_Achievements": "2023-08-18T13:07:44.365721+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:03.5447491+00:00",
-  "LastUpdate_Ratings": "2023-08-18T11:58:43.3143945+00:00",
-  "LastUpdate_Achievements": "2023-08-18T12:04:31.6927251+00:00"
+  "LastUpdate_Ratings": "2023-08-18T13:01:49.2337414+00:00",
+  "LastUpdate_Achievements": "2023-08-18T13:07:44.3657244+00:00"
 }

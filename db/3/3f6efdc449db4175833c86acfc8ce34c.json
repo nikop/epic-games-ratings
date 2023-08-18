@@ -2,10 +2,10 @@
   "ID": "3f6efdc449db4175833c86acfc8ce34c",
   "Name": "Aya \u0026 Naya",
   "ProductSlug": "aya-and-naya-b7791e",
-  "Ranking_EOS_Progress": 357,
+  "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-08-17T20:00:00+00:00",
     "PcReleaseDate": "2023-08-31T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 63,
+  "EOS_Progressed": 67,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -114,6 +114,11 @@
       "Time": "2023-08-18T12:04:34.8471987+00:00",
       "NumProgressed": 63,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-18T13:07:47.7685668+00:00",
+      "NumProgressed": 67,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T22:02:18.1743145+00:00",
@@ -124,15 +129,15 @@
       "ID": "Mission1",
       "SetID": "6igjng7",
       "Name": "Played!",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 200,
-      "UsersEstimate": 53
+      "UsersEstimate": 57
     },
     {
       "ID": "Mission2",
       "SetID": "6igjng7",
       "Name": "Mission 1 clear",
-      "Percentage": 35,
+      "Percentage": 33,
       "XP": 200,
       "UsersEstimate": 22
     },
@@ -140,7 +145,7 @@
       "ID": "Mission3",
       "SetID": "6igjng7",
       "Name": "Mission 2 clear",
-      "Percentage": 24,
+      "Percentage": 22,
       "XP": 200,
       "UsersEstimate": 15
     },
@@ -148,7 +153,7 @@
       "ID": "Mission4",
       "SetID": "6igjng7",
       "Name": "Mission 3 clear",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 200,
       "UsersEstimate": 1
     },
@@ -156,7 +161,7 @@
       "ID": "Mission5",
       "SetID": "6igjng7",
       "Name": "Finished!",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 200,
       "UsersEstimate": 1
     }
@@ -165,13 +170,13 @@
     {
       "ID": "6igjng7",
       "IsBase": true,
-      "Progressed": 63,
+      "Progressed": 67,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-08T21:02:12.6548497+00:00",
-  "LastChanged_Achievements": "2023-08-18T12:04:34.8471982+00:00",
+  "LastChanged_Achievements": "2023-08-18T13:07:47.7685658+00:00",
   "LastUpdate_AppInfo": "2023-08-14T08:57:17.4876993+00:00",
-  "LastUpdate_Ratings": "2023-08-18T11:58:20.1912343+00:00",
-  "LastUpdate_Achievements": "2023-08-18T12:04:34.8472062+00:00"
+  "LastUpdate_Ratings": "2023-08-18T13:01:23.5294817+00:00",
+  "LastUpdate_Achievements": "2023-08-18T13:07:47.7685748+00:00"
 }

@@ -6,14 +6,14 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 38.00% | ~22,454 |
-| Landlord | 32.00% | ~18,909 |
+| Lawbringer | 38.00% | ~22,455 |
+| Landlord | 32.00% | ~18,910 |
 | Bannerlord | 22.00% | ~13,000 |
 | Horde breaker | 22.00% | ~13,000 |
 | Lawmaker | 22.00% | ~13,000 |
 | Trained | 22.00% | ~13,000 |
-| The king is pleased | 18.00% | ~10,636 |
-| King Solomon | 17.00% | ~10,045 |
+| The king is pleased | 18.00% | ~10,637 |
+| King Solomon | 17.00% | ~10,046 |
 | Apple of my eye | 15.00% | ~8,864 |
 | I can do it | 15.00% | ~8,864 |
 | God of the Arena | 13.00% | ~7,682 |
@@ -25,9 +25,9 @@ Number of Ratings: 5,603  (23.09.2022)
 | I spit on your grave | 9.00% | ~5,318 |
 | What have the Romans ever done for us? | 9.00% | ~5,318 |
 | Butterlord | 8.00% | ~4,727 |
-| Mastery | 7.00% | ~4,136 |
-| Know your enemy | 6.00% | ~3,545 |
-| My way | 5.00% | ~2,954 |
+| Mastery | 7.00% | ~4,137 |
+| Know your enemy | 6.00% | ~3,546 |
+| My way | 5.00% | ~2,955 |
 | Crowdfunded | 4.00% | ~2,364 |
 | Crush your enemies | 4.00% | ~2,364 |
 | Veni vidi vici | 4.00% | ~2,364 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59,090 (Ranked 86)  
+Progressed: 59,093 (Ranked 86)  
 Completed: 0 (0.00%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,7 +178,7 @@ Completed: 0 (0.00%) (Ranked 259)
 | 2023-08-15 | 58,933 | 0 |
 | 2023-08-16 | 59,010 | 0 |
 | 2023-08-17 | 59,065 | 0 |
-| 2023-08-18 | 59,090 | 0 |
+| 2023-08-18 | 59,093 | 0 |
 ## Awards
 Max (Character Customization): 6,948  (Ranked 50)  
 Sum: 14,106 (Ranked 67)  

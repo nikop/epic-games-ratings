@@ -2,10 +2,10 @@
   "ID": "cf4a60d4237e4f26886af91c5daef605",
   "Name": "Beat Stickman: Infinity Clones",
   "ProductSlug": "beat-stickman-infinity-clones-c58d2e",
-  "Ranking_EOS_Progress": 547,
+  "Ranking_EOS_Progress": 548,
   "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 352,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2017-11-30T18:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-12T07:57:35.7423898+00:00",
-  "LastUpdate_Ratings": "2023-08-18T11:57:16.7664973+00:00",
-  "LastUpdate_Achievements": "2023-08-18T12:08:36.1991898+00:00"
+  "LastUpdate_Ratings": "2023-08-18T13:00:23.2439183+00:00",
+  "LastUpdate_Achievements": "2023-08-18T13:11:36.662954+00:00"
 }

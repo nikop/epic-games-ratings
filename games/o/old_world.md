@@ -150,6 +150,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Patriarch St Paul | 0.30% | ~40 |
 | Hypatia the Teacher | 0.30% | ~40 |
 | Bronze Victory (Carthage 1) | 0.20% | ~27 |
+| Carthage - Riches and Influence | 0.20% | ~27 |
 | Ancient | 0.20% | ~27 |
 | Glorious Difficulty | 0.20% | ~27 |
 | Magnificent Difficulty | 0.20% | ~27 |
@@ -181,7 +182,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Epic Victory (Carthage 1) | 0.10% | ~13 |
 | Gold Victory (Carthage 1) | 0.10% | ~13 |
 | Silver Victory (Carthage 1) | 0.10% | ~13 |
-| Carthage - Riches and Influence | 0.10% | ~13 |
 | Bronze Victory (Carthage 2) | 0.10% | ~13 |
 | Epic Victory (Carthage 2) | 0.10% | ~13 |
 | Gold Victory (Carthage 2) | 0.10% | ~13 |

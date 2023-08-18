@@ -2,10 +2,10 @@
   "ID": "9bcf5a4dc1d54cb6ab1a42f3a70c5cf4",
   "Name": "Assassin\u0027s Creed\u00AE Mirage",
   "ProductSlug": "assassins-creed-mirage",
-  "Ranking_EOS_Progress": 547,
+  "Ranking_EOS_Progress": 548,
   "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 352,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-10-05T11:00:00+00:00",
     "PcReleaseDate": "2023-10-05T11:00:00+00:00",
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-12T06:58:31.9582052+00:00",
-  "LastUpdate_Ratings": "2023-08-18T12:01:35.5683325+00:00",
-  "LastUpdate_Achievements": "2023-08-18T12:05:06.7228224+00:00"
+  "LastUpdate_Ratings": "2023-08-18T13:04:38.3818863+00:00",
+  "LastUpdate_Achievements": "2023-08-18T13:08:09.2150286+00:00"
 }

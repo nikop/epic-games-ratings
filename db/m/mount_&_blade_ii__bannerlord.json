@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 67,
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 81,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -6471,9 +6471,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 59090,
+  "EOS_Progressed": 59093,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 445,
+  "EOS_NewPlayers": 439,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19121,6 +19121,11 @@
       "Time": "2023-08-18T12:06:04.5117941+00:00",
       "NumProgressed": 59090,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-18T13:09:06.1566+00:00",
+      "NumProgressed": 59093,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -19324,7 +19329,7 @@
       "Name": "King Solomon",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10045
+      "UsersEstimate": 10046
     },
     {
       "ID": "Kingslayer",
@@ -19340,7 +19345,7 @@
       "Name": "Know your enemy",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 3545
+      "UsersEstimate": 3546
     },
     {
       "ID": "Lance-a-lot",
@@ -19356,7 +19361,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 18909
+      "UsersEstimate": 18910
     },
     {
       "ID": "Lawbringer",
@@ -19364,7 +19369,7 @@
       "Name": "Lawbringer",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 22454
+      "UsersEstimate": 22455
     },
     {
       "ID": "Lawmaker",
@@ -19388,7 +19393,7 @@
       "Name": "Mastery",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 4136
+      "UsersEstimate": 4137
     },
     {
       "ID": "Minor Clan",
@@ -19412,7 +19417,7 @@
       "Name": "My way",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 2954
+      "UsersEstimate": 2955
     },
     {
       "ID": "Real Estate",
@@ -19484,7 +19489,7 @@
       "Name": "The king is pleased",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 10636
+      "UsersEstimate": 10637
     },
     {
       "ID": "This Is Our Land",
@@ -19539,15 +19544,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 59090,
+      "Progressed": 59093,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-08-18T08:57:26.0297501+00:00",
-  "LastChanged_Achievements": "2023-08-18T12:06:04.5117935+00:00",
+  "LastChanged_Achievements": "2023-08-18T13:09:06.1565993+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:44.6335832+00:00",
-  "LastUpdate_Ratings": "2023-08-18T11:57:23.4669258+00:00",
-  "LastUpdate_Achievements": "2023-08-18T12:06:04.5119144+00:00"
+  "LastUpdate_Ratings": "2023-08-18T13:00:29.5605822+00:00",
+  "LastUpdate_Achievements": "2023-08-18T13:09:06.1567983+00:00"
 }

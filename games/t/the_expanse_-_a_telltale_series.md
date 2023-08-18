@@ -9,7 +9,7 @@
 | Captain Drummer | 15.00% | ~1,231 |
 | Spore Taste | 10.00% | ~820 |
 | Martian Music | 10.00% | ~820 |
-| Celebrations are in Order | 7.00% | ~574 |
+| Celebrations are in Order | 8.00% | ~656 |
 | Thorston Mayer | 5.00% | ~410 |
 | Bottoms up! | 4.00% | ~328 |
 | Data Logger | 3.00% | ~246 |

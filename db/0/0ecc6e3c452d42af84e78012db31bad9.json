@@ -4,8 +4,8 @@
   "ProductSlug": "pixel-art-coloring-book-a485ef",
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 67,
+  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
     "PcReleaseDate": "2021-04-01T07:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 2381,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 192,
+  "EOS_NewPlayers": 189,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -4630,8 +4630,8 @@
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-08-18T12:07:57.5255045+00:00",
-  "LastUpdate_AppInfo": "2023-08-11T13:00:05.0186107+00:00",
-  "LastUpdate_Ratings": "2023-08-18T11:59:07.1519164+00:00",
-  "LastUpdate_Achievements": "2023-08-18T12:07:57.5255466+00:00"
+  "LastChanged_Achievements": "2023-08-18T13:10:58.131766+00:00",
+  "LastUpdate_AppInfo": "2023-08-18T13:00:08.552411+00:00",
+  "LastUpdate_Ratings": "2023-08-18T13:02:14.3702954+00:00",
+  "LastUpdate_Achievements": "2023-08-18T13:10:58.1318461+00:00"
 }
