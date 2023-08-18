@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -220,9 +220,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1509,
+  "EOS_Progressed": 1510,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3205,6 +3205,11 @@
       "Time": "2023-08-18T17:07:14.1058511+00:00",
       "NumProgressed": 1509,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-18T19:06:44.7141482+00:00",
+      "NumProgressed": 1510,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3286,9 +3291,9 @@
       "ID": "ACHIEVEMENT_THE_COLLECTOR",
       "SetID": "l546gc",
       "Name": "The Collector",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 257
+      "UsersEstimate": 242
     },
     {
       "ID": "ACHIEVEMENT_ZERO_WASTE",
@@ -3376,7 +3381,7 @@
       "Name": "DeDust",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "NEW_ACHIEVEMENT_DUMB_WAYS",
@@ -3408,7 +3413,7 @@
       "Name": "Gardener",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "NEW_ACHIEVEMENT_GET_HANDS_DIRTY",
@@ -3448,7 +3453,7 @@
       "Name": "ITS crash site",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "NEW_ACHIEVEMENT_KOROLEV",
@@ -3464,7 +3469,7 @@
       "Name": "Miner",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
@@ -3599,7 +3604,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1509,
+      "Progressed": 1510,
       "Completed": 0
     }
   ],
@@ -3607,8 +3612,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-08-17T16:59:18.1470659+00:00",
-  "LastChanged_Achievements": "2023-08-18T18:06:18.3013649+00:00",
+  "LastChanged_Achievements": "2023-08-18T19:06:44.7141475+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:18.7138767+00:00",
-  "LastUpdate_Ratings": "2023-08-18T17:59:07.1291118+00:00",
-  "LastUpdate_Achievements": "2023-08-18T18:06:18.3014138+00:00"
+  "LastUpdate_Ratings": "2023-08-18T18:59:32.9113538+00:00",
+  "LastUpdate_Achievements": "2023-08-18T19:06:44.7142105+00:00"
 }

@@ -212,9 +212,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7115,
+  "EOS_Progressed": 7118,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 166,
+  "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -5872,6 +5872,11 @@
       "Time": "2023-08-18T16:06:26.3958563+00:00",
       "NumProgressed": 7115,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-08-18T19:06:18.4562578+00:00",
+      "NumProgressed": 7118,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 21,
@@ -5939,7 +5944,7 @@
       "Name": "Fashion Faux-Pas",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "FASHION_VICTIM",
@@ -5947,7 +5952,7 @@
       "Name": "Fashion Victim",
       "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "GLOBE_TROTTER",
@@ -5987,7 +5992,7 @@
       "Name": "In a Pinch",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1494
+      "UsersEstimate": 1495
     },
     {
       "ID": "LIBERATOR",
@@ -6035,7 +6040,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 996
+      "UsersEstimate": 997
     },
     {
       "ID": "THING",
@@ -6050,7 +6055,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7115,
+      "Progressed": 7118,
       "Completed": 32
     }
   ],
@@ -6058,8 +6063,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-08-07T01:56:04.2387619+00:00",
-  "LastChanged_Achievements": "2023-08-18T18:05:51.5422935+00:00",
+  "LastChanged_Achievements": "2023-08-18T19:06:18.4562572+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:36.6050185+00:00",
-  "LastUpdate_Ratings": "2023-08-18T17:59:37.447656+00:00",
-  "LastUpdate_Achievements": "2023-08-18T18:05:51.542332+00:00"
+  "LastUpdate_Ratings": "2023-08-18T19:00:06.2582504+00:00",
+  "LastUpdate_Achievements": "2023-08-18T19:06:18.4563231+00:00"
 }

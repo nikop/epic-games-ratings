@@ -98,6 +98,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Power to the People | 0.60% | ~81 |
 | Economic Reform | 0.60% | ~81 |
 | Redemption | 0.60% | ~81 |
+| Cimmerian Archer | 0.60% | ~81 |
 | Legionary | 0.60% | ~81 |
 | Double Victory | 0.60% | ~81 |
 | Win a Single Player Game | 0.60% | ~81 |
@@ -121,7 +122,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Gnosticism | 0.50% | ~67 |
 | Revelation | 0.50% | ~67 |
 | Veneration | 0.50% | ~67 |
-| Cimmerian Archer | 0.50% | ~67 |
 | Ambition Victory | 0.50% | ~67 |
 | Bad Heir Day | 0.40% | ~54 |
 | Ishtar Gate in Babylon | 0.40% | ~54 |

@@ -42,7 +42,7 @@ Rating: 4.58 (Ranked 428)
 | Extraction Confusion | 0.20% | ~35 |
 | Spyfall | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,466 (Ranked 110)  
+Progressed: 17,467 (Ranked 110)  
 Completed: 1 (0.01%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,7 +162,7 @@ Completed: 1 (0.01%) (Ranked 246)
 | 2023-08-15 | 17,401 | 1 |
 | 2023-08-16 | 17,424 | 1 |
 | 2023-08-17 | 17,450 | 1 |
-| 2023-08-18 | 17,466 | 1 |
+| 2023-08-18 | 17,467 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

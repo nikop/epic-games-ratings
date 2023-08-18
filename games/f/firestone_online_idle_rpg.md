@@ -5,12 +5,12 @@ Rating: 4.05 (Ranked 922)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,691 |
-| World Map | 79.00% | ~1,436 |
-| Temple of Eternals | 57.00% | ~1,036 |
+| Victor | 93.00% | ~1,692 |
+| World Map | 79.00% | ~1,437 |
+| Temple of Eternals | 57.00% | ~1,037 |
 | Prestigious | 53.00% | ~964 |
-| Fellowship Power | 41.00% | ~745 |
-| Guild Power | 25.00% | ~454 |
+| Fellowship Power | 41.00% | ~746 |
+| Guild Power | 25.00% | ~455 |
 | Prestigious x10 | 22.00% | ~400 |
 | The game is on | 20.00% | ~364 |
 | Exotic Merchant | 18.00% | ~327 |
@@ -42,7 +42,7 @@ Rating: 4.05 (Ranked 922)
 | Here We Go Again | 9.00% | ~164 |
 | Master Enchanter | 9.00% | ~164 |
 | The father of Dragons | 9.00% | ~164 |
-| Trader | 8.00% | ~145 |
+| Trader | 8.00% | ~146 |
 | Blueprint Upgrades | 7.00% | ~127 |
 | Crystal Mining | 7.00% | ~127 |
 | Dragon Slayer | 7.00% | ~127 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 922)
 | Silverwood liberator | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,818 (Ranked 173)  
+Progressed: 1,819 (Ranked 173)  
 Completed: 2 (0.11%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,7 +200,7 @@ Completed: 2 (0.11%) (Ranked 202)
 | 2023-08-15 | 1,806 | 2 |
 | 2023-08-16 | 1,811 | 2 |
 | 2023-08-17 | 1,817 | 2 |
-| 2023-08-18 | 1,818 | 2 |
+| 2023-08-18 | 1,819 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

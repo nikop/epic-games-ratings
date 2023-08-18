@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 341,
   "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 315,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -529,9 +529,9 @@
       "ID": "MasterTravelerQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Setting Off",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "MasterTravelerQuestlineLast",
@@ -746,8 +746,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2023-08-18T18:05:29.5562774+00:00",
+  "LastChanged_Achievements": "2023-08-18T19:05:56.2903687+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:10.4134341+00:00",
-  "LastUpdate_Ratings": "2023-08-18T17:58:54.867938+00:00",
-  "LastUpdate_Achievements": "2023-08-18T18:05:29.5563035+00:00"
+  "LastUpdate_Ratings": "2023-08-18T18:59:20.3723444+00:00",
+  "LastUpdate_Achievements": "2023-08-18T19:05:56.290422+00:00"
 }

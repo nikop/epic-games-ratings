@@ -2,10 +2,10 @@
   "ID": "e18be81f77f346dfbc4467f4ed715e27",
   "Name": "Blanc",
   "ProductSlug": "blanc-703b40",
-  "Ranking_EOS_Progress": 162,
+  "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 176,
-  "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2519,
+  "EOS_Progressed": 2520,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -2598,6 +2598,11 @@
       "Time": "2023-08-17T22:04:52.7761237+00:00",
       "NumProgressed": 2519,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-08-18T19:05:22.0501447+00:00",
+      "NumProgressed": 2520,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -2705,14 +2710,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2519,
+      "Progressed": 2520,
       "Completed": 6
     }
   ],
@@ -2720,8 +2725,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-08-18T18:04:55.7993397+00:00",
+  "LastChanged_Achievements": "2023-08-18T19:05:22.050144+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:03.9385383+00:00",
-  "LastUpdate_Ratings": "2023-08-18T18:01:08.6303679+00:00",
-  "LastUpdate_Achievements": "2023-08-18T18:04:55.7993604+00:00"
+  "LastUpdate_Ratings": "2023-08-18T19:01:34.7441983+00:00",
+  "LastUpdate_Achievements": "2023-08-18T19:05:22.0501797+00:00"
 }

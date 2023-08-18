@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -224,7 +224,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1818,
+  "EOS_Progressed": 1819,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
@@ -5004,6 +5004,11 @@
       "Time": "2023-08-18T08:06:24.0912272+00:00",
       "NumProgressed": 1818,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-18T19:06:07.9365493+00:00",
+      "NumProgressed": 1819,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -5199,7 +5204,7 @@
       "Name": "Fellowship Power",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 745
+      "UsersEstimate": 746
     },
     {
       "ID": "fourleafclover",
@@ -5247,7 +5252,7 @@
       "Name": "Guild Power",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "herewegoagain",
@@ -5471,7 +5476,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1036
+      "UsersEstimate": 1037
     },
     {
       "ID": "thealchemist",
@@ -5535,7 +5540,7 @@
       "Name": "Trader",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "trainingmakesaproplayer",
@@ -5575,7 +5580,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1691
+      "UsersEstimate": 1692
     },
     {
       "ID": "warmachinesarmy",
@@ -5607,14 +5612,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1436
+      "UsersEstimate": 1437
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1818,
+      "Progressed": 1819,
       "Completed": 2
     }
   ],
@@ -5622,8 +5627,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-08-10T20:59:32.9674394+00:00",
-  "LastChanged_Achievements": "2023-08-18T18:05:41.3225854+00:00",
+  "LastChanged_Achievements": "2023-08-18T19:06:07.9365486+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:43.3889946+00:00",
-  "LastUpdate_Ratings": "2023-08-18T17:59:43.3922059+00:00",
-  "LastUpdate_Achievements": "2023-08-18T18:05:41.3226682+00:00"
+  "LastUpdate_Ratings": "2023-08-18T19:00:11.5332303+00:00",
+  "LastUpdate_Achievements": "2023-08-18T19:06:07.9366866+00:00"
 }

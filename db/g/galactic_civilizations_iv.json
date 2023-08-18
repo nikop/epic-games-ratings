@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -864,9 +864,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 6405,
+  "EOS_Progressed": 6406,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5169,6 +5169,11 @@
       "Time": "2023-08-18T16:04:58.4348545+00:00",
       "NumProgressed": 6405,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-18T19:04:51.9748053+00:00",
+      "NumProgressed": 6406,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -5220,7 +5225,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 4035
+      "UsersEstimate": 4036
     },
     {
       "ID": "Control_All_Relics",
@@ -5284,7 +5289,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 5060
+      "UsersEstimate": 5061
     },
     {
       "ID": "First_Race_Met",
@@ -5300,7 +5305,7 @@
       "Name": "Design a Ship",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1793
+      "UsersEstimate": 1794
     },
     {
       "ID": "First_Stream_Travel",
@@ -5316,7 +5321,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 4996
+      "UsersEstimate": 4997
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -5372,7 +5377,7 @@
       "Name": "Trading Partner",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "Level_5_Ship",
@@ -5484,7 +5489,7 @@
       "Name": "Commodity Seller",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1601
+      "UsersEstimate": 1602
     },
     {
       "ID": "Take_Iconia_From_Yor_As_Iconians",
@@ -5500,7 +5505,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3971
+      "UsersEstimate": 3972
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -5562,9 +5567,9 @@
       "ID": "Win_As_Drengin",
       "SetID": "4h07amh",
       "Name": "Win as the Drengin",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 51
     },
     {
       "ID": "Win_As_Festron",
@@ -5594,9 +5599,9 @@
       "ID": "Win_As_Krynn",
       "SetID": "4h07amh",
       "Name": "Win as the Krynn",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 51
     },
     {
       "ID": "Win_As_Manti",
@@ -5650,9 +5655,9 @@
       "ID": "Win_As_Xeloxi",
       "SetID": "4h07amh",
       "Name": "Win as Xeloxi",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 51
     },
     {
       "ID": "Win_As_Yor",
@@ -5668,7 +5673,7 @@
       "Name": "Win a Battle",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 4291
+      "UsersEstimate": 4292
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -5698,9 +5703,9 @@
       "ID": "Win_Diplomacy",
       "SetID": "4h07amh",
       "Name": "Diplomatic Victory!",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 38
+      "UsersEstimate": 45
     },
     {
       "ID": "Win_ImmenseMap",
@@ -5755,15 +5760,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6405,
+      "Progressed": 6406,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-08-16T06:59:13.2863126+00:00",
-  "LastChanged_Achievements": "2023-08-18T18:04:26.1753332+00:00",
+  "LastChanged_Achievements": "2023-08-18T19:04:51.9748047+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:24.6593665+00:00",
-  "LastUpdate_Ratings": "2023-08-18T17:59:13.9754395+00:00",
-  "LastUpdate_Achievements": "2023-08-18T18:04:26.1754134+00:00"
+  "LastUpdate_Ratings": "2023-08-18T18:59:40.0752217+00:00",
+  "LastUpdate_Achievements": "2023-08-18T19:04:51.9749279+00:00"
 }

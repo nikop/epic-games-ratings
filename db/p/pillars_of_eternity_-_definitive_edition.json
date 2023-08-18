@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 135,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2020-12-10T16:00:00+00:00",
     "PcReleaseDate": "2015-03-26T16:00:00+00:00",
@@ -2844,9 +2844,9 @@
       "Count": 185
     }
   ],
-  "EOS_Progressed": 1090,
+  "EOS_Progressed": 1091,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2934,6 +2934,11 @@
       "Time": "2023-08-10T05:05:17.3716054+00:00",
       "NumProgressed": 1090,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-18T19:05:39.8828592+00:00",
+      "NumProgressed": 1091,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 48,
@@ -2953,7 +2958,7 @@
       "Name": "Completed Act II",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "achievement_03",
@@ -3033,7 +3038,7 @@
       "Name": "5 Upgrades in Stronghold",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "achievement_13",
@@ -3049,7 +3054,7 @@
       "Name": "From the Clouds to the Depths",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "achievement_15",
@@ -3129,7 +3134,7 @@
       "Name": "Terror of the White March",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "achievement_25",
@@ -3225,7 +3230,7 @@
       "Name": "Kickstarter Backer",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 894
+      "UsersEstimate": 895
     },
     {
       "ID": "achievement_37",
@@ -3247,9 +3252,9 @@
       "ID": "achievement_39",
       "SetID": "70p237j",
       "Name": "Expert",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "achievement_40",
@@ -3263,25 +3268,25 @@
       "ID": "achievement_41",
       "SetID": "70p237j",
       "Name": "Solo",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "achievement_42",
       "SetID": "70p237j",
       "Name": "Triple Crown",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "achievement_43",
       "SetID": "70p237j",
       "Name": "Trial of Iron",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "achievement_44",
@@ -3311,9 +3316,9 @@
       "ID": "achievement_47",
       "SetID": "70p237j",
       "Name": "Frozen Crown Solo",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "achievement_48",
@@ -3328,15 +3333,15 @@
     {
       "ID": "70p237j",
       "IsBase": true,
-      "Progressed": 1090,
+      "Progressed": 1091,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:19.0250263+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.7524763+00:00",
   "LastChanged": "2023-08-15T18:00:20.48656+00:00",
-  "LastChanged_Achievements": "2023-08-18T18:05:13.4390942+00:00",
+  "LastChanged_Achievements": "2023-08-18T19:05:39.8828586+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:21.9084753+00:00",
-  "LastUpdate_Ratings": "2023-08-18T17:59:22.6361906+00:00",
-  "LastUpdate_Achievements": "2023-08-18T18:05:13.4391277+00:00"
+  "LastUpdate_Ratings": "2023-08-18T18:59:49.6217742+00:00",
+  "LastUpdate_Achievements": "2023-08-18T19:05:39.8829089+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
     "PcReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -60,9 +60,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 627,
+  "EOS_Progressed": 628,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1575,6 +1575,11 @@
       "Time": "2023-08-17T14:04:16.3779822+00:00",
       "NumProgressed": 627,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-18T19:04:49.843489+00:00",
+      "NumProgressed": 628,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -1610,7 +1615,7 @@
       "Name": "Dental maturity",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "DevilDetail",
@@ -1762,7 +1767,7 @@
       "Name": "Slavic squatter",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "Specialist",
@@ -1841,7 +1846,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 627,
+      "Progressed": 628,
       "Completed": 1
     }
   ],
@@ -1849,8 +1854,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-06-17T03:57:55.2766718+00:00",
-  "LastChanged_Achievements": "2023-08-18T18:04:23.9553646+00:00",
+  "LastChanged_Achievements": "2023-08-18T19:04:49.8434881+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:35.7451795+00:00",
-  "LastUpdate_Ratings": "2023-08-18T17:59:33.9189109+00:00",
-  "LastUpdate_Achievements": "2023-08-18T18:04:23.9553915+00:00"
+  "LastUpdate_Ratings": "2023-08-18T19:00:02.7026743+00:00",
+  "LastUpdate_Achievements": "2023-08-18T19:04:49.8435263+00:00"
 }

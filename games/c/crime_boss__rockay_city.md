@@ -5,15 +5,15 @@ Rating: 3.94 (Ranked 945)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~53,267 |
-| First One’s Free | 65.00% | ~46,789 |
+| Downed but Not Outed | 74.00% | ~53,268 |
+| First One’s Free | 65.00% | ~46,790 |
 | Neophyte Ninja | 50.00% | ~35,992 |
 | Too Old for This | 47.00% | ~33,832 |
 | Case Closed | 35.00% | ~25,194 |
 | Fancy Pants | 35.00% | ~25,194 |
-| King of the Hill | 34.00% | ~24,474 |
+| King of the Hill | 34.00% | ~24,475 |
 | Underworld Initiate | 29.00% | ~20,875 |
-| Roid Ranger | 21.00% | ~15,116 |
+| Roid Ranger | 21.00% | ~15,117 |
 | True Player | 19.00% | ~13,677 |
 | Off the Rocks | 19.00% | ~13,677 |
 | Raider’s Ruin | 17.00% | ~12,237 |
@@ -21,10 +21,10 @@ Rating: 3.94 (Ranked 945)
 | Hidden Sonata | 13.00% | ~9,358 |
 | Rockay Rex | 11.00% | ~7,918 |
 | Freebooter | 10.00% | ~7,198 |
-| Track Star | 9.00% | ~6,478 |
-| Headhunter | 9.00% | ~6,478 |
-| Ding Dong | 9.00% | ~6,478 |
-| Classy Joint | 9.00% | ~6,478 |
+| Track Star | 9.00% | ~6,479 |
+| Headhunter | 9.00% | ~6,479 |
+| Ding Dong | 9.00% | ~6,479 |
+| Classy Joint | 9.00% | ~6,479 |
 | I Like Trains | 8.00% | ~5,759 |
 | Foo Finder | 7.00% | ~5,039 |
 | Savvy Seeker | 6.00% | ~4,319 |
@@ -33,9 +33,9 @@ Rating: 3.94 (Ranked 945)
 | Olympus Ascended | 4.00% | ~2,879 |
 | Cracked the Jack | 4.00% | ~2,879 |
 | Red Star | 4.00% | ~2,879 |
-| Privateer | 3.00% | ~2,159 |
-| Moneybags | 3.00% | ~2,159 |
-| Groundhog Days | 3.00% | ~2,159 |
+| Privateer | 3.00% | ~2,160 |
+| Moneybags | 3.00% | ~2,160 |
+| Groundhog Days | 3.00% | ~2,160 |
 | Rockay Raider | 2.00% | ~1,440 |
 | Impossible Dreamer | 2.00% | ~1,440 |
 | Rockay Knight | 1.00% | ~720 |
@@ -43,7 +43,7 @@ Rating: 3.94 (Ranked 945)
 | Geek Out | 0.60% | ~432 |
 | Full House | 0.20% | ~144 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 71,983 (Ranked 78)  
+Progressed: 71,984 (Ranked 78)  
 Completed: 41 (0.06%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 41 (0.06%) (Ranked 219)
 | 2023-08-15 | 71,883 | 39 |
 | 2023-08-16 | 71,916 | 39 |
 | 2023-08-17 | 71,955 | 40 |
-| 2023-08-18 | 71,983 | 41 |
+| 2023-08-18 | 71,984 | 41 |
 ## Awards
 Max (Diverse Characters): 403  (Ranked 214)  
 Sum: 1,908 (Ranked 204)  

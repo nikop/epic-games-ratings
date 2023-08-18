@@ -6,12 +6,12 @@ Number of Ratings: 2,847  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Kickstarter Backer | 82.00% | ~894 |
+| Kickstarter Backer | 82.00% | ~895 |
 | Completed Act I | 30.00% | ~327 |
-| 5 Upgrades in Stronghold | 26.00% | ~283 |
+| 5 Upgrades in Stronghold | 26.00% | ~284 |
 | First 5 Levels of Od Nua | 24.00% | ~262 |
 | Make an Adventurer | 23.00% | ~251 |
-| Completed Act II | 16.00% | ~174 |
+| Completed Act II | 16.00% | ~175 |
 | Enchanter | 15.00% | ~164 |
 | Disposition | 15.00% | ~164 |
 | Middle 5 Levels of Od Nua | 15.00% | ~164 |
@@ -33,8 +33,8 @@ Number of Ratings: 2,847  (23.09.2022)
 | Explorer | 6.00% | ~65 |
 | A Voice from the Deep | 6.00% | ~65 |
 | Called to their Labor | 6.00% | ~65 |
-| From the Clouds to the Depths | 5.00% | ~54 |
-| Terror of the White March | 5.00% | ~54 |
+| From the Clouds to the Depths | 5.00% | ~55 |
+| Terror of the White March | 5.00% | ~55 |
 | Chef | 4.00% | ~44 |
 | Scribe | 4.00% | ~44 |
 | Appease All of the Gods | 4.00% | ~44 |
@@ -43,19 +43,19 @@ Number of Ratings: 2,847  (23.09.2022)
 | Among the Moss and Peat | 2.00% | ~22 |
 | Legendary Enchanter | 1.00% | ~11 |
 | Path of the Damned | 0.60% | ~7 |
-| Expert | 0.60% | ~7 |
-| Solo | 0.60% | ~7 |
-| Triple Crown | 0.60% | ~7 |
-| Trial of Iron | 0.60% | ~7 |
-| Frozen Crown Solo | 0.60% | ~7 |
 | Relative Pacifism | 0.50% | ~5 |
+| Expert | 0.50% | ~5 |
 | Zero Knockouts | 0.50% | ~5 |
+| Solo | 0.50% | ~5 |
+| Triple Crown | 0.50% | ~5 |
+| Trial of Iron | 0.50% | ~5 |
 | No Rest for the Pro | 0.50% | ~5 |
 | Triple Crown Solo | 0.50% | ~5 |
 | Frozen Crown | 0.50% | ~5 |
+| Frozen Crown Solo | 0.50% | ~5 |
 | The Ultimate | 0.50% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,090 (Ranked 194)  
+Progressed: 1,091 (Ranked 194)  
 Completed: 4 (0.37%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,6 +76,7 @@ Completed: 4 (0.37%) (Ranked 159)
 | 2023-07-31 | 1,088 | 4 |
 | 2023-08-02 | 1,089 | 4 |
 | 2023-08-10 | 1,090 | 4 |
+| 2023-08-18 | 1,091 | 4 |
 ## Awards
 Max (Character Customization): 1,906  (Ranked 110)  
 Sum: 4,675 (Ranked 135)  

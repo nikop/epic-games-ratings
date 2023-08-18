@@ -6,8 +6,8 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 18.00% | ~38,540 |
-| Alt+F4 | 2.00% | ~4,282 |
+| Sowwy! | 18.00% | ~38,545 |
+| Alt+F4 | 2.00% | ~4,283 |
 | Déjà vu | 1.00% | ~2,141 |
 | Where's that freaking Dwarf? | 1.00% | ~2,141 |
 | Sock! SOCK! | 1.00% | ~2,141 |
@@ -20,31 +20,31 @@ Number of Ratings: 118  (23.09.2022)
 | Way of the Wimp | 0.60% | ~1,285 |
 | The plot thickens... At the tavern | 0.60% | ~1,285 |
 | The demons' feast | 0.50% | ~1,071 |
+| The Great Library | 0.50% | ~1,071 |
 | Torture and Sensibility | 0.50% | ~1,071 |
 | The Woman in the High Castle | 0.50% | ~1,071 |
 | %#*!$*! | 0.50% | ~1,071 |
 | Team Building Exercise | 0.50% | ~1,071 |
 | Oh, when I'll be level 10... | 0.50% | ~1,071 |
-| Shiny and Crôm | 0.40% | ~856 |
-| The Great Library | 0.40% | ~856 |
-| Urik's Depths | 0.40% | ~856 |
-| The Dungeon Master | 0.40% | ~856 |
-| The Statuette of Gladeulfeurah | 0.40% | ~856 |
-| A tale of adventurers not quite like the others... | 0.40% | ~856 |
-| The beards of change | 0.40% | ~856 |
-| The Ranger of Chaos | 0.40% | ~856 |
-| I am the night | 0.40% | ~856 |
+| Shiny and Crôm | 0.40% | ~857 |
+| Urik's Depths | 0.40% | ~857 |
+| The Dungeon Master | 0.40% | ~857 |
+| The Statuette of Gladeulfeurah | 0.40% | ~857 |
+| A tale of adventurers not quite like the others... | 0.40% | ~857 |
+| The beards of change | 0.40% | ~857 |
+| The Ranger of Chaos | 0.40% | ~857 |
+| I am the night | 0.40% | ~857 |
 | Res Judicata | 0.30% | ~642 |
 | The Famous Dungeon of Naheulbeuk | 0.30% | ~642 |
 | Dwarf Fortress | 0.30% | ~642 |
 | Look but don't touch | 0.30% | ~642 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.30% | ~642 |
+| Lust and Debauchery | 0.30% | ~642 |
 | Thieves' Guild Accreditation | 0.30% | ~642 |
 | Dead for good | 0.20% | ~428 |
 | Gargantua | 0.20% | ~428 |
 | In Navalu's footsteps | 0.20% | ~428 |
 | Lëgal Legend | 0.20% | ~428 |
-| Lust and Debauchery | 0.20% | ~428 |
 | Material Girl | 0.20% | ~428 |
 | Cursed die | 0.10% | ~214 |
 | Holistic Adventuring Party | 0.10% | ~214 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Staff cut | 0.00% | ~0 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 214,112 (Ranked 56)  
+Progressed: 214,138 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,7 +174,7 @@ Completed: 2 (0.00%) (Ranked 259)
 | 2023-08-15 | 212,897 | 2 |
 | 2023-08-16 | 213,341 | 2 |
 | 2023-08-17 | 213,783 | 2 |
-| 2023-08-18 | 214,112 | 2 |
+| 2023-08-18 | 214,138 | 2 |
 ## Awards
 Max (Character Customization): 168  (Ranked 289)  
 Sum: 209 (Ranked 366)  

@@ -4,11 +4,11 @@
   "ProductSlug": "arcadegeddon",
   "Ranking_Rating": 576,
   "Ranking_Popularity": 386,
-  "Ranking_PopularitySum": 307,
+  "Ranking_PopularitySum": 308,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-07-05T16:00:00+00:00",
     "PcReleaseDate": "2021-07-08T21:30:00+00:00",
@@ -783,7 +783,7 @@
   ],
   "EOS_Progressed": 8572,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8178,8 +8178,8 @@
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-08-15T01:39:32.7569592+00:00",
-  "LastChanged_Achievements": "2023-08-18T18:07:29.9271985+00:00",
+  "LastChanged_Achievements": "2023-08-18T19:08:07.4338829+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:12.454352+00:00",
-  "LastUpdate_Ratings": "2023-08-18T18:00:11.3633777+00:00",
-  "LastUpdate_Achievements": "2023-08-18T18:07:29.9272714+00:00"
+  "LastUpdate_Ratings": "2023-08-18T19:00:40.9011237+00:00",
+  "LastUpdate_Achievements": "2023-08-18T19:08:07.4339977+00:00"
 }

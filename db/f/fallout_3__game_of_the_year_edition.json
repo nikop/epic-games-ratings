@@ -4,11 +4,11 @@
   "ProductSlug": "fallout-3-game-of-the-year-edition",
   "Ranking_Rating": 391,
   "Ranking_Popularity": 27,
-  "Ranking_PopularitySum": 44,
+  "Ranking_PopularitySum": 43,
   "Ranking_EOS_Progress": 548,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 356,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-10-20T17:50:00+00:00",
     "PcReleaseDate": "2009-10-13T13:00:00+00:00",
@@ -3140,18 +3140,24 @@
       "Rating": 4.6,
       "NumberOfAwards": 27852,
       "NumberOfAwardsMax": 13587
+    },
+    {
+      "Time": "2023-08-18T19:00:28.1925092+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 27858,
+      "NumberOfAwardsMax": 13591
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27852,
-  "NumberOfAwardsMax": 13587,
+  "NumberOfAwards": 27858,
+  "NumberOfAwardsMax": 13591,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 13587
+      "Count": 13591
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3187,7 +3193,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1483
+      "Count": 1485
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3232,8 +3238,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-20T18:02:29.378678+00:00",
   "FirstSeenRating": "2022-10-21T00:33:04.5526796+00:00",
-  "LastChanged": "2023-08-18T03:59:15.2395682+00:00",
+  "LastChanged": "2023-08-18T19:00:28.192509+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:01.2261306+00:00",
-  "LastUpdate_Ratings": "2023-08-18T18:00:00.0695317+00:00",
-  "LastUpdate_Achievements": "2023-08-18T18:05:00.3321527+00:00"
+  "LastUpdate_Ratings": "2023-08-18T19:00:28.1925099+00:00",
+  "LastUpdate_Achievements": "2023-08-18T19:05:26.4169088+00:00"
 }
