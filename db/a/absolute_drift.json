@@ -442,9 +442,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1535669,
+  "EOS_Progressed": 1535673,
   "EOS_Completed": 662,
-  "EOS_NewPlayers": 1194,
+  "EOS_NewPlayers": 1193,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -13637,6 +13637,11 @@
       "Time": "2023-08-18T03:03:19.914114+00:00",
       "NumProgressed": 1535669,
       "NumCompleted": 662
+    },
+    {
+      "Time": "2023-08-18T04:02:19.5623322+00:00",
+      "NumProgressed": 1535673,
+      "NumCompleted": 662
     }
   ],
   "TotalAchievements": 20,
@@ -13696,7 +13701,7 @@
       "Name": "Good Skills",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 138210
+      "UsersEstimate": 138211
     },
     {
       "ID": "ACH_HOON_AIRLINES",
@@ -13760,7 +13765,7 @@
       "Name": "Multiplier Master",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 138210
+      "UsersEstimate": 138211
     },
     {
       "ID": "ACH_SAKE_BOMBS",
@@ -13792,7 +13797,7 @@
       "Name": "The Long Drift",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 76783
+      "UsersEstimate": 76784
     },
     {
       "ID": "ACH_WASHING_MACHINE",
@@ -13807,15 +13812,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1535669,
+      "Progressed": 1535673,
       "Completed": 662
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-07-23T19:00:00.3270793+00:00",
-  "LastChanged_Achievements": "2023-08-18T03:03:19.9141135+00:00",
+  "LastChanged_Achievements": "2023-08-18T04:02:19.5623317+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:58:04.9297366+00:00",
-  "LastUpdate_Ratings": "2023-08-18T02:57:17.9735166+00:00",
-  "LastUpdate_Achievements": "2023-08-18T03:03:19.9142049+00:00"
+  "LastUpdate_Ratings": "2023-08-18T03:57:09.6653794+00:00",
+  "LastUpdate_Achievements": "2023-08-18T04:02:19.5624284+00:00"
 }

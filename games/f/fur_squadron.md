@@ -7,8 +7,8 @@
 | All systems go | 82.00% | ~41 |
 | Do a barrel roll! | 66.00% | ~33 |
 | Huh? What was that? | 54.00% | ~27 |
-| Whatever it is, fix it! | 36.00% | ~18 |
-| The opposite of good news | 30.00% | ~15 |
+| Whatever it is, fix it! | 38.00% | ~19 |
+| The opposite of good news | 32.00% | ~16 |
 | My Emperor... I've failed you! | 24.00% | ~12 |
 | Priceless company | 20.00% | ~10 |
 | Enemy shield analyzed | 6.00% | ~3 |

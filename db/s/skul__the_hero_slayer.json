@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 253,
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -974,9 +974,9 @@
       "Count": 124
     }
   ],
-  "EOS_Progressed": 8121,
+  "EOS_Progressed": 8122,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -4364,6 +4364,11 @@
       "Time": "2023-08-18T03:06:12.353677+00:00",
       "NumProgressed": 8121,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-08-18T04:05:39.4208897+00:00",
+      "NumProgressed": 8122,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 24,
@@ -4399,7 +4404,7 @@
       "Name": "Focus!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5116
+      "UsersEstimate": 5117
     },
     {
       "ID": "DemonCastleRestoration",
@@ -4423,7 +4428,7 @@
       "Name": "False Goddess, Disappear",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 3248
+      "UsersEstimate": 3249
     },
     {
       "ID": "FakeGoddessGone_2",
@@ -4431,7 +4436,7 @@
       "Name": "Deadly Power",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 1299
+      "UsersEstimate": 1300
     },
     {
       "ID": "FirstHeroLastBattle",
@@ -4479,7 +4484,7 @@
       "Name": "The Levitator",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "Manners",
@@ -4487,7 +4492,7 @@
       "Name": "Rules of Etiquette",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 3248
+      "UsersEstimate": 3249
     },
     {
       "ID": "RookieWelcome",
@@ -4503,7 +4508,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5116
+      "UsersEstimate": 5117
     },
     {
       "ID": "SavedElderEnt_2",
@@ -4543,7 +4548,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 3898
+      "UsersEstimate": 3899
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -4566,15 +4571,15 @@
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8121,
+      "Progressed": 8122,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-08-17T17:01:08.9786666+00:00",
-  "LastChanged_Achievements": "2023-08-18T03:06:12.3536764+00:00",
+  "LastChanged_Achievements": "2023-08-18T04:05:39.4208892+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:53.035021+00:00",
-  "LastUpdate_Ratings": "2023-08-18T03:00:03.314272+00:00",
-  "LastUpdate_Achievements": "2023-08-18T03:06:12.3537108+00:00"
+  "LastUpdate_Ratings": "2023-08-18T03:59:54.4748464+00:00",
+  "LastUpdate_Achievements": "2023-08-18T04:05:39.4209263+00:00"
 }

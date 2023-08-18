@@ -6,35 +6,35 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~225,130 |
-| Uncharted Territory | 89.00% | ~208,714 |
-| Getting A Glimpse | 73.00% | ~171,192 |
+| First Steps | 96.00% | ~225,131 |
+| Uncharted Territory | 89.00% | ~208,715 |
+| Getting A Glimpse | 73.00% | ~171,193 |
 | A Quick Escape | 65.00% | ~152,432 |
-| Explorer | 62.00% | ~145,396 |
-| Defeat The Dark | 61.00% | ~143,051 |
-| An Offering | 61.00% | ~143,051 |
+| Explorer | 62.00% | ~145,397 |
+| Defeat The Dark | 61.00% | ~143,052 |
+| An Offering | 61.00% | ~143,052 |
 | Colorful Corpse | 58.00% | ~136,016 |
 | That Was Quick | 56.00% | ~131,326 |
 | A Donation | 56.00% | ~131,326 |
-| Goodbye, Frog Friend | 54.00% | ~126,635 |
-| Heavy Hitter | 53.00% | ~124,290 |
+| Goodbye, Frog Friend | 54.00% | ~126,636 |
+| Heavy Hitter | 53.00% | ~124,291 |
 | Heartless | 46.00% | ~107,875 |
 | Spine Breaker | 46.00% | ~107,875 |
 | Deflection | 45.00% | ~105,530 |
-| Sneaky | 43.00% | ~100,839 |
-| Delving Deeper | 42.00% | ~98,494 |
-| C-C-Combo | 42.00% | ~98,494 |
-| Ambitious Intent | 41.00% | ~96,149 |
+| Sneaky | 43.00% | ~100,840 |
+| Delving Deeper | 42.00% | ~98,495 |
+| C-C-Combo | 42.00% | ~98,495 |
+| Ambitious Intent | 41.00% | ~96,150 |
 | Nothing To Lose | 40.00% | ~93,804 |
 | The Bestiary | 40.00% | ~93,804 |
 | What's Yours Is Mine | 38.00% | ~89,114 |
 | R.I.P | 36.00% | ~84,424 |
 | Shootout | 36.00% | ~84,424 |
-| I Am Overburdened | 35.00% | ~82,078 |
-| Cold Hearted | 34.00% | ~79,733 |
-| Dig Your Own Grave | 33.00% | ~77,388 |
-| Toxic | 33.00% | ~77,388 |
-| Who To Trust? | 32.00% | ~75,043 |
+| I Am Overburdened | 35.00% | ~82,079 |
+| Cold Hearted | 34.00% | ~79,734 |
+| Dig Your Own Grave | 33.00% | ~77,389 |
+| Toxic | 33.00% | ~77,389 |
+| Who To Trust? | 32.00% | ~75,044 |
 | Flesh Wound | 29.00% | ~68,008 |
 | Stone Touch | 28.00% | ~65,663 |
 | Shadow Walker | 28.00% | ~65,663 |
@@ -55,8 +55,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | Illuminate, Eliminate | 17.00% | ~39,867 |
 | Max Damage! | 16.00% | ~37,522 |
 | Doing Time | 16.00% | ~37,522 |
-| Spreading Plague | 15.00% | ~35,176 |
-| The Long Run | 14.00% | ~32,831 |
+| Spreading Plague | 15.00% | ~35,177 |
+| The Long Run | 14.00% | ~32,832 |
 | A Rough Road | 13.00% | ~30,486 |
 | Chain Reaction | 13.00% | ~30,486 |
 | Berzerker | 12.00% | ~28,141 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Never Too Many Hats | 0.40% | ~938 |
 | Near Death Experience | 0.30% | ~704 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 234,510 (Ranked 50)  
+Progressed: 234,511 (Ranked 50)  
 Completed: 259 (0.11%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,10 +249,10 @@ Completed: 259 (0.11%) (Ranked 202)
 | 2023-08-15 | 234,405 | 259 |
 | 2023-08-16 | 234,449 | 259 |
 | 2023-08-17 | 234,501 | 259 |
-| 2023-08-18 | 234,510 | 259 |
+| 2023-08-18 | 234,511 | 259 |
 ## Awards
 Max (Quickly Understood Controls): 1,488  (Ranked 121)  
-Sum: 11,526 (Ranked 79)  
+Sum: 11,528 (Ranked 79)  
 Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
@@ -261,10 +261,10 @@ Diff (max vs sum): 42
 | This game is Relaxing | 1,419 |
 | This game has Challenging Combat | 1,409 |
 | This game is Extremely Fun | 1,399 |
-| This game is Highly Recommended | 1,357 |
+| This game is Highly Recommended | 1,358 |
 | This game has Amazing Storytelling | 1,307 |
 | This game has Amazing Characters | 1,213 |
-| This game has Unique Visuals | 1,202 |
+| This game has Unique Visuals | 1,203 |
 | This game has Obsessive Gameplay | 1,088 |
 | This game has a Creative Community | 732 |
 ## Ratings History
@@ -409,3 +409,4 @@ Diff (max vs sum): 42
 | 2023-08-15 | 4.58 | - | 1,488 | 11,523 |
 | 2023-08-16 | 4.58 | - | 1,488 | 11,524 |
 | 2023-08-17 | 4.58 | - | 1,488 | 11,526 |
+| 2023-08-18 | 4.58 | - | 1,488 | 11,528 |

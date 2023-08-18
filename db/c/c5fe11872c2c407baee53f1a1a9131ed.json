@@ -4,7 +4,7 @@
   "ProductSlug": "spingun-843f78",
   "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 285,
+  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-06-02T04:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 125,
+  "EOS_Progressed": 126,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -574,6 +574,11 @@
       "Time": "2023-08-18T00:07:37.3310364+00:00",
       "NumProgressed": 125,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-18T04:05:30.6379434+00:00",
+      "NumProgressed": 126,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -593,7 +598,7 @@
       "Name": "Won Super Boss",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_boss3_zone",
@@ -649,13 +654,13 @@
       "Name": "Endless 2 Minutes",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_endless_30",
       "SetID": "5a4225j",
       "Name": "Endless 30 Seconds",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 35,
       "UsersEstimate": 91
     },
@@ -743,9 +748,9 @@
       "ID": "ach_practiceperfect",
       "SetID": "5a4225j",
       "Name": "Practice Makes Perfect",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ach_pulser_zone",
@@ -761,7 +766,7 @@
       "Name": "Won Sploder Zone",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_spreader_zone",
@@ -777,7 +782,7 @@
       "Name": "Too Soon",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_zones_complete",
@@ -792,13 +797,13 @@
     {
       "ID": "5a4225j",
       "IsBase": true,
-      "Progressed": 125,
+      "Progressed": 126,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-06-02T21:05:45.273905+00:00",
-  "LastChanged_Achievements": "2023-08-18T03:06:03.4395202+00:00",
+  "LastChanged_Achievements": "2023-08-18T04:05:30.6379423+00:00",
   "LastUpdate_AppInfo": "2023-08-12T03:56:57.6721177+00:00",
-  "LastUpdate_Ratings": "2023-08-18T02:58:23.8729813+00:00",
-  "LastUpdate_Achievements": "2023-08-18T03:06:03.4395437+00:00"
+  "LastUpdate_Ratings": "2023-08-18T03:58:11.7391572+00:00",
+  "LastUpdate_Achievements": "2023-08-18T04:05:30.637967+00:00"
 }

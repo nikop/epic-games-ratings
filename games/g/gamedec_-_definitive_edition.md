@@ -6,21 +6,21 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~67,886 |
+| I will finish what you started | 28.00% | ~67,887 |
 | Powergamer | 27.00% | ~65,462 |
-| Barely scratched the surface | 25.00% | ~60,612 |
+| Barely scratched the surface | 25.00% | ~60,613 |
 | Write that down | 24.00% | ~58,188 |
 | Guns, lots of guns | 12.00% | ~29,094 |
 | Collector | 11.00% | ~26,670 |
-| Elementary! | 9.00% | ~21,820 |
+| Elementary! | 9.00% | ~21,821 |
 | Pumpkin Jack | 8.00% | ~19,396 |
 | Wake up! | 8.00% | ~19,396 |
 | It's honest work | 7.00% | ~16,972 |
 | Griever | 7.00% | ~16,972 |
 | Me smart | 6.00% | ~14,547 |
 | Trash compactor | 6.00% | ~14,547 |
-| Good listener | 5.00% | ~12,122 |
-| Valedictorian | 5.00% | ~12,122 |
+| Good listener | 5.00% | ~12,123 |
+| Valedictorian | 5.00% | ~12,123 |
 | BOY! | 4.00% | ~9,698 |
 | Ka-ching! | 4.00% | ~9,698 |
 | So you like to read? | 4.00% | ~9,698 |
@@ -34,14 +34,14 @@ Number of Ratings: 33  (23.09.2022)
 | Rinse and repeat | 2.00% | ~4,849 |
 | Mama, I'm a criminal | 2.00% | ~4,849 |
 | Never gonna give you up | 2.00% | ~4,849 |
-| A muscle to rely on | 1.00% | ~2,424 |
-| Catnip | 1.00% | ~2,424 |
-| I am in great pain, please help me | 1.00% | ~2,424 |
-| High noon | 1.00% | ~2,424 |
-| Random encounter | 1.00% | ~2,424 |
-| SysOp on duty | 1.00% | ~2,424 |
-| Take the blue pill | 1.00% | ~2,424 |
-| The power of three | 1.00% | ~2,424 |
+| A muscle to rely on | 1.00% | ~2,425 |
+| Catnip | 1.00% | ~2,425 |
+| I am in great pain, please help me | 1.00% | ~2,425 |
+| High noon | 1.00% | ~2,425 |
+| Random encounter | 1.00% | ~2,425 |
+| SysOp on duty | 1.00% | ~2,425 |
+| Take the blue pill | 1.00% | ~2,425 |
+| The power of three | 1.00% | ~2,425 |
 | A true blacksmith | 0.90% | ~2,182 |
 | Let's try another | 0.80% | ~1,940 |
 | Home run | 0.80% | ~1,940 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~485 |
 | Memory 5 | 0.10% | ~242 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,450 (Ranked 48)  
+Progressed: 242,452 (Ranked 48)  
 Completed: 7 (0.00%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 7 (0.00%) (Ranked 259)
 | 2023-08-15 | 242,197 | 7 |
 | 2023-08-16 | 242,305 | 7 |
 | 2023-08-17 | 242,438 | 7 |
-| 2023-08-18 | 242,450 | 7 |
+| 2023-08-18 | 242,452 | 7 |
 ## Awards
 Max (Character Customization): 79  (Ranked 362)  
 Sum: 79 (Ranked 426)  

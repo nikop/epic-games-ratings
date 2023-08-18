@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 250,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -841,9 +841,9 @@
       "ID": "ACH_FIRST_SHOCK",
       "SetID": "al4k4nh",
       "Name": "First shock",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 150
+      "UsersEstimate": 152
     },
     {
       "ID": "ACH_FIX_LIGHT_SWITCHES",
@@ -953,17 +953,17 @@
       "ID": "ACH_UNSCREW",
       "SetID": "al4k4nh",
       "Name": "Unscrew you",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 108
+      "UsersEstimate": 110
     },
     {
       "ID": "ACH_WATCH_ALL_TV_CHANNELS",
       "SetID": "al4k4nh",
       "Name": "Watch me",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     }
   ],
   "AchievementSets": [
@@ -976,8 +976,8 @@
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2023-08-18T03:06:19.7416329+00:00",
+  "LastChanged_Achievements": "2023-08-18T04:05:46.8081624+00:00",
   "LastUpdate_AppInfo": "2023-08-16T17:57:06.0190201+00:00",
-  "LastUpdate_Ratings": "2023-08-18T02:58:29.8859913+00:00",
-  "LastUpdate_Achievements": "2023-08-18T03:06:19.7416581+00:00"
+  "LastUpdate_Ratings": "2023-08-18T03:58:17.7752097+00:00",
+  "LastUpdate_Achievements": "2023-08-18T04:05:46.8081854+00:00"
 }

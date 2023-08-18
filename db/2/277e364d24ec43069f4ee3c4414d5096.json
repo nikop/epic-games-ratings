@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 103367,
+  "EOS_Progressed": 103369,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 1386,
+  "EOS_NewPlayers": 1381,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -7522,6 +7522,11 @@
       "Time": "2023-08-18T03:06:20.6318638+00:00",
       "NumProgressed": 103367,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-08-18T04:05:47.7092092+00:00",
+      "NumProgressed": 103369,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 49,
@@ -7541,7 +7546,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 78559
+      "UsersEstimate": 78560
     },
     {
       "ID": "EAwards_10",
@@ -7565,7 +7570,7 @@
       "Name": "Cluckstorm",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 14471
+      "UsersEstimate": 14472
     },
     {
       "ID": "EAwards_13",
@@ -7605,7 +7610,7 @@
       "Name": "Talented Player",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 36178
+      "UsersEstimate": 36179
     },
     {
       "ID": "EAwards_18",
@@ -7613,7 +7618,7 @@
       "Name": "You Survived",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 8269
+      "UsersEstimate": 8270
     },
     {
       "ID": "EAwards_19",
@@ -7629,7 +7634,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 48582
+      "UsersEstimate": 48583
     },
     {
       "ID": "EAwards_20",
@@ -7805,7 +7810,7 @@
       "Name": "Severed",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 11370
+      "UsersEstimate": 11371
     },
     {
       "ID": "EAwards_40",
@@ -7893,7 +7898,7 @@
       "Name": "Severed 2",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 8269
+      "UsersEstimate": 8270
     },
     {
       "ID": "EAwards_7",
@@ -7901,7 +7906,7 @@
       "Name": "Questionable Plumbing",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 11370
+      "UsersEstimate": 11371
     },
     {
       "ID": "EAwards_8",
@@ -7909,7 +7914,7 @@
       "Name": "Santa Golpiza!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 11370
+      "UsersEstimate": 11371
     },
     {
       "ID": "EAwards_9",
@@ -7924,7 +7929,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 103367,
+      "Progressed": 103369,
       "Completed": 35
     }
   ],
@@ -7932,8 +7937,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-08-06T04:57:36.0350486+00:00",
-  "LastChanged_Achievements": "2023-08-18T03:06:20.6318633+00:00",
+  "LastChanged_Achievements": "2023-08-18T04:05:47.7092084+00:00",
   "LastUpdate_AppInfo": "2023-08-17T20:57:09.1579235+00:00",
-  "LastUpdate_Ratings": "2023-08-18T02:58:15.1269987+00:00",
-  "LastUpdate_Achievements": "2023-08-18T03:06:20.6319497+00:00"
+  "LastUpdate_Ratings": "2023-08-18T03:58:04.6327789+00:00",
+  "LastUpdate_Achievements": "2023-08-18T04:05:47.7092985+00:00"
 }
