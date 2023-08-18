@@ -5,7 +5,7 @@
 | 3 | [Rain World](games/r/rain_world.md) | 4.95 | 0 | 512 |
 | 3 | [Raini: The Lords of Light](games/5/5efded9de1d049758206a501425d8209.md) | 4.95 | 0 | 512 |
 | 5 | [Celeste](games/c/celeste.md) | 4.92 | 1,557 | 119 |
-| 5 | [Hades](games/h/hades.md) | 4.92 | 3,218 | 91 |
+| 5 | [Hades](games/h/hades.md) | 4.92 | 3,219 | 91 |
 | 7 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.91 | 0 | 512 |
 | 8 | [Flatout 2](games/f/flatout_2.md) | 4.90 | 0 | 512 |
 | 8 | [Mago](games/m/mago.md) | 4.90 | 0 | 512 |
@@ -122,7 +122,7 @@
 | 118 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.76 | 0 | 512 |
 | 118 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,304 | 90 |
 | 118 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 926 | 149 |
-| 118 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 4,396 | 75 |
+| 118 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 4,399 | 75 |
 | 118 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 512 |
 | 118 | [Outlast](games/o/outlast.md) | 4.76 | 0 | 512 |
 | 118 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,701 | 117 |
@@ -218,7 +218,7 @@
 | 215 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 512 |
 | 215 | [CARRION](games/c/carrion.md) | 4.69 | 0 | 512 |
 | 215 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 398 | 216 |
-| 215 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.69 | 4,746 | 69 |
+| 215 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.69 | 4,755 | 69 |
 | 215 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.69 | 0 | 512 |
 | 215 | [House Flipper](games/h/house_flipper.md) | 4.69 | 307 | 235 |
 | 215 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.69 | 0 | 512 |
@@ -357,7 +357,7 @@
 | 347 | [Limbo](games/l/limbo.md) | 4.62 | 0 | 512 |
 | 347 | [NORCO](games/n/norco.md) | 4.62 | 0 | 512 |
 | 347 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.62 | 0 | 512 |
-| 347 | [Prey](games/p/prey.md) | 4.62 | 5,638 | 64 |
+| 347 | [Prey](games/p/prey.md) | 4.62 | 5,639 | 64 |
 | 347 | [Roguebook](games/r/roguebook.md) | 4.62 | 0 | 512 |
 | 347 | [System Shock](games/s/system_shock.md) | 4.62 | 0 | 512 |
 | 347 | [The Medium](games/t/the_medium.md) | 4.62 | 0 | 512 |
@@ -391,7 +391,7 @@
 | 365 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.61 | 32 | 453 |
 | 365 | [Warframe](games/w/warframe.md) | 4.61 | 16,510 | 22 |
 | 391 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.60 | 711 | 167 |
-| 391 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 13,214 | 28 |
+| 391 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 13,230 | 28 |
 | 391 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.60 | 0 | 512 |
 | 391 | [Brawlhalla](games/b/brawlhalla.md) | 4.60 | 271 | 246 |
 | 391 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 4,505 | 73 |
@@ -406,7 +406,7 @@
 | 391 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 637 | 176 |
 | 391 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 63 | 388 |
 | 391 | [RiME](games/r/rime.md) | 4.60 | 0 | 512 |
-| 391 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 474 | 201 |
+| 391 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 475 | 201 |
 | 391 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.60 | 230 | 261 |
 | 391 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.60 | 0 | 512 |
 | 391 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 22 | 493 |
@@ -480,7 +480,7 @@
 | 472 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.56 | 0 | 512 |
 | 472 | [Little Inferno](games/l/little_inferno.md) | 4.56 | 0 | 512 |
 | 472 | [Minit](games/m/minit.md) | 4.56 | 0 | 512 |
-| 472 | [MultiVersus](games/m/multiversus.md) | 4.56 | 4,746 | 69 |
+| 472 | [MultiVersus](games/m/multiversus.md) | 4.56 | 4,746 | 70 |
 | 472 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.56 | 917 | 150 |
 | 472 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 1,796 | 113 |
 | 472 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.56 | 0 | 512 |
@@ -570,7 +570,7 @@
 | 560 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 0 | 512 |
 | 560 | [Knockout City™](games/k/knockout_city™.md) | 4.50 | 0 | 512 |
 | 560 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 99 | 337 |
-| 560 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 627 | 177 |
+| 560 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 628 | 177 |
 | 560 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.50 | 23 | 491 |
 | 560 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.50 | 0 | 512 |
 | 560 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 757 | 161 |

@@ -37,7 +37,7 @@
 | 35 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.69% |
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.53% |
 | 37 | [Smelter](games/s/smelter.md) | 7.50% |
-| 38 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 7.14% |
+| 38 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 7.04% |
 | 39 | [Scorn](games/s/scorn.md) | 6.94% |
 | 40 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.93% |
 | 41 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.86% |
@@ -53,7 +53,7 @@
 | 51 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.92% |
 | 52 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 4.76% |
 | 52 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.76% |
-| 54 | [Bugsnax](games/b/bugsnax.md) | 4.72% |
+| 54 | [Bugsnax](games/b/bugsnax.md) | 4.71% |
 | 55 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.69% |
 | 56 | [JARS](games/j/jars.md) | 4.55% |
 | 57 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.49% |
@@ -224,16 +224,16 @@
 | 218 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.06% |
 | 218 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
 | 224 | [DEATH STRANDING](games/d/death_stranding.md) | 0.05% |
+| 224 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.05% |
 | 224 | [High On Life](games/h/high_on_life.md) | 0.05% |
 | 224 | [House Party](games/h/house_party.md) | 0.05% |
 | 224 | [Remnant 2](games/r/remnant_2.md) | 0.05% |
-| 228 | [Absolute Drift](games/a/absolute_drift.md) | 0.04% |
-| 228 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.04% |
-| 228 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.04% |
-| 228 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.04% |
-| 228 | [Old World](games/o/old_world.md) | 0.04% |
-| 228 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.04% |
-| 228 | [Tropico 6](games/t/tropico_6.md) | 0.04% |
+| 229 | [Absolute Drift](games/a/absolute_drift.md) | 0.04% |
+| 229 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.04% |
+| 229 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.04% |
+| 229 | [Old World](games/o/old_world.md) | 0.04% |
+| 229 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.04% |
+| 229 | [Tropico 6](games/t/tropico_6.md) | 0.04% |
 | 235 | [Football Manager 2023](games/f/football_manager_2023.md) | 0.03% |
 | 235 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 0.03% |
 | 235 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
