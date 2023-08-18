@@ -21,7 +21,7 @@
 | 19 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.55% |
 | 20 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.11% |
 | 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.17% |
-| 22 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.14% |
+| 22 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.13% |
 | 23 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 23 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
 | 25 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.71% |
@@ -39,8 +39,8 @@
 | 37 | [Smelter](games/s/smelter.md) | 7.50% |
 | 38 | [Scorn](games/s/scorn.md) | 6.94% |
 | 39 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.88% |
-| 40 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.80% |
-| 41 | [Time Loader](games/t/time_loader.md) | 6.78% |
+| 40 | [Time Loader](games/t/time_loader.md) | 6.78% |
+| 41 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.76% |
 | 42 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.52% |
 | 43 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 44 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -68,7 +68,7 @@
 | 66 | [Bunny Park](games/b/bunny_park.md) | 3.39% |
 | 67 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.30% |
 | 68 | [HordeCore](games/h/hordecore.md) | 3.15% |
-| 69 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.14% |
+| 69 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.12% |
 | 70 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.04% |
 | 71 | [The Complex](games/t/the_complex.md) | 2.98% |
 | 72 | [Monster Harvest](games/m/monster_harvest.md) | 2.94% |
@@ -210,12 +210,12 @@
 | 205 | [Shop Titans](games/s/shop_titans.md) | 0.10% |
 | 205 | [Supraland](games/s/supraland.md) | 0.10% |
 | 210 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
+| 210 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.09% |
 | 210 | [Outward Definitive Edition](games/o/outward.md) | 0.09% |
 | 210 | [Riverbond](games/r/riverbond.md) | 0.09% |
 | 210 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
 | 210 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
-| 215 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.08% |
-| 215 | [Partisans 1941](games/p/partisans_1941.md) | 0.08% |
+| 216 | [Partisans 1941](games/p/partisans_1941.md) | 0.08% |
 | 217 | [Saints Row](games/s/saints_row.md) | 0.07% |
 | 217 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
 | 219 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 0.06% |
