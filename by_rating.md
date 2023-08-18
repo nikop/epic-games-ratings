@@ -101,7 +101,7 @@
 | 88 | [Sailing Era](games/s/sailing_era.md) | 4.79 | 0 | 512 |
 | 88 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.79 | 101 | 335 |
 | 101 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.78 | 0 | 512 |
-| 101 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 9,730 | 38 |
+| 101 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 9,747 | 38 |
 | 101 | [Journey](games/j/journey.md) | 4.78 | 0 | 512 |
 | 101 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.78 | 0 | 512 |
 | 101 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,379 | 103 |
@@ -120,7 +120,7 @@
 | 118 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 15,083 | 24 |
 | 118 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 85 | 357 |
 | 118 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.76 | 0 | 512 |
-| 118 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,304 | 90 |
+| 118 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,307 | 90 |
 | 118 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 931 | 149 |
 | 118 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 4,399 | 75 |
 | 118 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 512 |
@@ -472,7 +472,7 @@
 | 450 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,762 | 116 |
 | 450 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.57 | 58 | 393 |
 | 472 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.56 | 0 | 512 |
-| 472 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 829 | 153 |
+| 472 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 830 | 153 |
 | 472 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 35 | 437 |
 | 472 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 0 | 512 |
 | 472 | [Hue](games/h/hue.md) | 4.56 | 0 | 512 |
@@ -526,7 +526,7 @@
 | 514 | [Tails of Iron](games/t/tails_of_iron.md) | 4.53 | 0 | 512 |
 | 514 | [The Tenants](games/t/the_tenants.md) | 4.53 | 0 | 512 |
 | 514 | [VALORANT](games/v/valorant.md) | 4.53 | 65,097 | 10 |
-| 527 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 774 | 159 |
+| 527 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 775 | 159 |
 | 527 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 31,240 | 15 |
 | 527 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 21 | 500 |
 | 527 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.52 | 34 | 441 |
