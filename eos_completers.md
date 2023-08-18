@@ -31,7 +31,7 @@
 | 29 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 10.00% |
 | 30 | [Sonic Origins](games/s/sonic_origins.md) | 9.60% |
 | 31 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.30% |
-| 32 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.91% |
+| 32 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.90% |
 | 33 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.48% |
 | 34 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 8.33% |
 | 35 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.69% |
@@ -44,8 +44,8 @@
 | 42 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 43 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.28% |
 | 44 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 45 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 6.02% |
-| 46 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.98% |
+| 45 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.98% |
+| 46 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 5.88% |
 | 47 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.56% |
 | 48 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.36% |
 | 48 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.36% |
@@ -180,9 +180,9 @@
 | 176 | [Filament](games/f/filament.md) | 0.24% |
 | 176 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.24% |
 | 180 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.23% |
-| 180 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.23% |
-| 182 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
-| 182 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.22% |
+| 181 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
+| 181 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.22% |
+| 181 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.22% |
 | 184 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.21% |
 | 184 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.21% |
 | 186 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.20% |
@@ -219,15 +219,15 @@
 | 216 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
 | 218 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 0.06% |
 | 218 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.06% |
+| 218 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.06% |
 | 218 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.06% |
 | 218 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
 | 218 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.06% |
 | 218 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
-| 224 | [DEATH STRANDING](games/d/death_stranding.md) | 0.05% |
-| 224 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.05% |
-| 224 | [High On Life](games/h/high_on_life.md) | 0.05% |
-| 224 | [House Party](games/h/house_party.md) | 0.05% |
-| 224 | [Remnant 2](games/r/remnant_2.md) | 0.05% |
+| 225 | [DEATH STRANDING](games/d/death_stranding.md) | 0.05% |
+| 225 | [High On Life](games/h/high_on_life.md) | 0.05% |
+| 225 | [House Party](games/h/house_party.md) | 0.05% |
+| 225 | [Remnant 2](games/r/remnant_2.md) | 0.05% |
 | 229 | [Absolute Drift](games/a/absolute_drift.md) | 0.04% |
 | 229 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.04% |
 | 229 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.04% |
