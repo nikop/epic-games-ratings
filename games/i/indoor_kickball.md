@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hat Unlocked | 84.00% | ~71 |
-| Accessory Unlocked | 82.00% | ~70 |
-| Character Unlocked | 81.00% | ~69 |
-| Homer | 75.00% | ~64 |
-| Settle Down | 74.00% | ~63 |
-| Butter Fingers | 72.00% | ~61 |
-| Have a good trip! | 71.00% | ~60 |
+| Hat Unlocked | 83.00% | ~71 |
+| Accessory Unlocked | 81.00% | ~70 |
+| Character Unlocked | 80.00% | ~69 |
+| Homer | 74.00% | ~64 |
+| Settle Down | 73.00% | ~63 |
+| Butter Fingers | 71.00% | ~61 |
+| Have a good trip! | 70.00% | ~60 |
 | Kickball Unlocked | 69.00% | ~59 |
-| Stay Hydrated | 67.00% | ~57 |
-| First Win | 65.00% | ~55 |
-| True Story! | 45.00% | ~38 |
-| Bedroom Secret Spot | 39.00% | ~33 |
-| Kick It | 32.00% | ~27 |
-| Spooky | 31.00% | ~26 |
+| Stay Hydrated | 66.00% | ~57 |
+| First Win | 64.00% | ~55 |
+| True Story! | 44.00% | ~38 |
+| Bedroom Secret Spot | 38.00% | ~33 |
+| Kick It | 31.00% | ~27 |
+| Spooky | 30.00% | ~26 |
+| Classroom Secret Spot | 27.00% | ~23 |
 | Grand Slam! | 26.00% | ~22 |
-| Classroom Secret Spot | 26.00% | ~22 |
-| Save some water for the fishies | 24.00% | ~20 |
-| Bathroom Secret Spot | 24.00% | ~20 |
+| Save some water for the fishies | 23.00% | ~20 |
+| Bathroom Secret Spot | 23.00% | ~20 |
 | Have Mercy | 22.00% | ~19 |
 | Angry Dad | 22.00% | ~19 |
 | At least everyone still had fun | 22.00% | ~19 |
@@ -34,7 +34,7 @@
 | You broke it, you bought it | 7.00% | ~6 |
 | Found the Secret Formula! | 6.00% | ~5 |
 | Attic Secret Spot | 5.00% | ~4 |
-| Basement Secret Spot | 4.00% | ~3 |
+| Basement Secret Spot | 3.00% | ~3 |
 | Garage Secret Spot | 2.00% | ~2 |
 | Gamer Room Secret Spot | 1.00% | ~1 |
 | Kickball Kup | 1.00% | ~1 |
@@ -45,7 +45,7 @@
 | The Champ | 0.00% | ~0 |
 | He's heating Up! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 85 (Ranked 337)  
+Progressed: 86 (Ranked 336)  
 Completed: 0 (0.00%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,3 +89,4 @@ Completed: 0 (0.00%) (Ranked 259)
 | 2023-08-06 | 83 | 0 |
 | 2023-08-08 | 84 | 0 |
 | 2023-08-17 | 85 | 0 |
+| 2023-08-18 | 86 | 0 |

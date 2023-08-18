@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-eb6e37",
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 28,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 308,
+  "EOS_Progressed": 309,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 10.06,
+  "EOS_Completed_Percentage": 10.03,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -1421,6 +1421,11 @@
       "Time": "2023-08-16T22:05:45.7301494+00:00",
       "NumProgressed": 308,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-08-18T02:19:50.7131352+00:00",
+      "NumProgressed": 309,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 6,
@@ -1438,9 +1443,9 @@
       "ID": "CgkIgaGB2J0LEAIQAQ",
       "SetID": "4ocea6d",
       "Name": "File-cutter",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 165,
-      "UsersEstimate": 194
+      "UsersEstimate": 192
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAg",
@@ -1454,17 +1459,17 @@
       "ID": "CgkIgaGB2J0LEAIQAw",
       "SetID": "4ocea6d",
       "Name": "Scythed Chariot",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 165,
-      "UsersEstimate": 89
+      "UsersEstimate": 87
     },
     {
       "ID": "CgkIgaGB2J0LEAIQBA",
       "SetID": "4ocea6d",
       "Name": "Revolving Bridge",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 165,
-      "UsersEstimate": 89
+      "UsersEstimate": 87
     },
     {
       "ID": "CgkIgaGB2J0LEAIQBQ",
@@ -1479,14 +1484,14 @@
     {
       "ID": "4ocea6d",
       "IsBase": true,
-      "Progressed": 308,
+      "Progressed": 309,
       "Completed": 31
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-08-18T01:44:36.0586872+00:00",
+  "LastChanged_Achievements": "2023-08-18T02:19:50.7131346+00:00",
   "LastUpdate_AppInfo": "2023-08-17T16:57:05.1055694+00:00",
-  "LastUpdate_Ratings": "2023-08-18T01:36:41.6454873+00:00",
-  "LastUpdate_Achievements": "2023-08-18T01:44:36.0587029+00:00"
+  "LastUpdate_Ratings": "2023-08-18T02:11:41.0533595+00:00",
+  "LastUpdate_Achievements": "2023-08-18T02:19:50.71315+00:00"
 }

@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sweep | 94.00% | ~376 |
-| Scavenger | 75.00% | ~300 |
-| Line of Duty | 73.00% | ~292 |
-| Gunner | 56.00% | ~224 |
+| Clean Sweep | 94.00% | ~377 |
+| Scavenger | 75.00% | ~301 |
+| Line of Duty | 72.00% | ~289 |
+| Gunner | 56.00% | ~225 |
 | DocKing | 47.00% | ~188 |
 | What-A-Shot | 45.00% | ~180 |
 | Batteries Included | 39.00% | ~156 |
@@ -18,38 +18,38 @@
 | Splash Damage | 19.00% | ~76 |
 | Hazardous Duty | 17.00% | ~68 |
 | Perky | 15.00% | ~60 |
-| Salvage | 12.00% | ~48 |
 | Perk King | 11.00% | ~44 |
+| Salvage | 11.00% | ~44 |
 | Shocking | 11.00% | ~44 |
 | Perfect Timing | 10.00% | ~40 |
 | Sixty Seconds | 10.00% | ~40 |
-| Killer Elite | 7.00% | ~28 |
-| Bumper Car | 5.00% | ~20 |
-| First Victory | 5.00% | ~20 |
+| Killer Elite | 6.00% | ~24 |
 | OP | 5.00% | ~20 |
-| Thirty Birds... | 5.00% | ~20 |
+| Bumper Car | 4.00% | ~16 |
 | The Disruptor | 4.00% | ~16 |
 | Early Bird | 4.00% | ~16 |
+| First Victory | 4.00% | ~16 |
+| Thirty Birds... | 4.00% | ~16 |
 | Swiss Cheese | 3.00% | ~12 |
-| Heavy Metal | 2.00% | ~8 |
 | Mister Fix It | 2.00% | ~8 |
-| Power Up | 2.00% | ~8 |
 | Shell Shock | 2.00% | ~8 |
 | Hornet Lock On | 2.00% | ~8 |
 | Specialized | 2.00% | ~8 |
 | The First Step | 2.00% | ~8 |
 | Having a Blast | 1.00% | ~4 |
+| Heavy Metal | 1.00% | ~4 |
+| Power Up | 1.00% | ~4 |
 | The Cannoneer | 1.00% | ~4 |
-| Demolition Derby | 0.80% | ~3 |
-| Military Intelligence | 0.80% | ~3 |
-| Time Run | 0.80% | ~3 |
+| Demolition Derby | 0.70% | ~3 |
+| Military Intelligence | 0.70% | ~3 |
+| Time Run | 0.70% | ~3 |
 | Halfway There | 0.50% | ~2 |
 | Intel King | 0.50% | ~2 |
-| Big Spender | 0.30% | ~1 |
-| Burn Them | 0.30% | ~1 |
-| Final Ascension | 0.30% | ~1 |
+| Big Spender | 0.20% | ~1 |
+| Burn Them | 0.20% | ~1 |
+| Final Ascension | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 400 (Ranked 239)  
+Progressed: 401 (Ranked 239)  
 Completed: 1 (0.25%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,6 +89,7 @@ Completed: 1 (0.25%) (Ranked 175)
 | 2023-07-31 | 398 | 1 |
 | 2023-08-04 | 399 | 1 |
 | 2023-08-05 | 400 | 1 |
+| 2023-08-18 | 401 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

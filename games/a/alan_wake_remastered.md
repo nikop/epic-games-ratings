@@ -8,17 +8,17 @@ Number of Ratings: 524  (23.09.2022)
 | ---- | ---------- | ----- |
 | Follow the Light | 37.00% | ~22,582 |
 | Let There Be Light | 30.00% | ~18,310 |
-| Float Like a Butterfly | 29.00% | ~17,699 |
-| Nordic Walking | 23.00% | ~14,037 |
-| Bright Falls' Finest | 23.00% | ~14,037 |
-| Under a Thin Layer of Skin | 20.00% | ~12,206 |
-| Paging Mr. Wake | 17.00% | ~10,375 |
+| Float Like a Butterfly | 29.00% | ~17,700 |
+| Nordic Walking | 23.00% | ~14,038 |
+| Bright Falls' Finest | 23.00% | ~14,038 |
+| Under a Thin Layer of Skin | 20.00% | ~12,207 |
+| Paging Mr. Wake | 17.00% | ~10,376 |
 | Park Ranger | 16.00% | ~9,765 |
 | Back! Back, I Say! | 15.00% | ~9,155 |
 | Finders Keepers | 15.00% | ~9,155 |
-| Sound and Fury | 14.00% | ~8,544 |
-| Missed by a Mile | 14.00% | ~8,544 |
-| Damn Good Cup of Coffee | 14.00% | ~8,544 |
+| Sound and Fury | 14.00% | ~8,545 |
+| Missed by a Mile | 14.00% | ~8,545 |
+| Damn Good Cup of Coffee | 14.00% | ~8,545 |
 | Wheels Within Wheels | 13.00% | ~7,934 |
 | They're Heeeeeere! | 13.00% | ~7,934 |
 | The Six-Gun Scribe | 13.00% | ~7,934 |
@@ -55,9 +55,9 @@ Number of Ratings: 524  (23.09.2022)
 | Couch Potato | 2.00% | ~1,221 |
 | Iron Will | 2.00% | ~490 |
 | Go Gentle Into That Good Light | 1.00% | ~245 |
-| Words Will Never Harm You | 0.70% | ~171 |
+| Words Will Never Harm You | 0.70% | ~172 |
 | Cardboard Companions | 0.60% | ~147 |
-| Fast and Furious | 0.50% | ~122 |
+| Fast and Furious | 0.50% | ~123 |
 | Run-On Sentence | 0.40% | ~98 |
 | License Revoked | 0.40% | ~98 |
 | Whirlwind | 0.40% | ~98 |
@@ -72,9 +72,9 @@ Number of Ratings: 524  (23.09.2022)
 | Licensed Properties | 0.20% | ~49 |
 | Collector's Edition | 0.10% | ~61 |
 | Hypercaffeinated | 0.10% | ~61 |
-| No Punctuation | 0.10% | ~24 |
+| No Punctuation | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,032 (Ranked 85)  
+Progressed: 61,033 (Ranked 85)  
 Completed: 64 (0.10%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 64 (0.10%) (Ranked 205)
 | 2023-08-15 | 60,907 | 64 |
 | 2023-08-16 | 60,965 | 64 |
 | 2023-08-17 | 61,025 | 64 |
-| 2023-08-18 | 61,032 | 64 |
+| 2023-08-18 | 61,033 | 64 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

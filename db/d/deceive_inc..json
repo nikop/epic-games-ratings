@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17450,
+  "EOS_Progressed": 17452,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 211,
+  "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8501,6 +8501,11 @@
       "Time": "2023-08-17T22:05:11.8122245+00:00",
       "NumProgressed": 17450,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-18T02:18:39.1256465+00:00",
+      "NumProgressed": 17452,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -8512,7 +8517,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5060
+      "UsersEstimate": 5061
     },
     {
       "ID": "0002",
@@ -8520,7 +8525,7 @@
       "Name": "License to Thrill",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "0003",
@@ -8528,7 +8533,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2966
+      "UsersEstimate": 2967
     },
     {
       "ID": "0004",
@@ -8616,7 +8621,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2966
+      "UsersEstimate": 2967
     },
     {
       "ID": "0015",
@@ -8624,7 +8629,7 @@
       "Name": "The terminals are not enough",
       "Percentage": 1,
       "XP": 115,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "0016",
@@ -8656,7 +8661,7 @@
       "Name": "Lose Another Day",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "0020",
@@ -8736,7 +8741,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2268
+      "UsersEstimate": 2269
     },
     {
       "ID": "0030",
@@ -8799,7 +8804,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17450,
+      "Progressed": 17452,
       "Completed": 1
     }
   ],
@@ -8807,8 +8812,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-12T19:04:41.1874293+00:00",
-  "LastChanged_Achievements": "2023-08-18T01:43:36.5485407+00:00",
+  "LastChanged_Achievements": "2023-08-18T02:18:39.1256459+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:38.5697724+00:00",
-  "LastUpdate_Ratings": "2023-08-18T01:35:37.3234137+00:00",
-  "LastUpdate_Achievements": "2023-08-18T01:43:36.548618+00:00"
+  "LastUpdate_Ratings": "2023-08-18T02:10:16.5555874+00:00",
+  "LastUpdate_Achievements": "2023-08-18T02:18:39.1257266+00:00"
 }

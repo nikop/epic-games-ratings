@@ -413,9 +413,9 @@
       "ID": "_shield",
       "SetID": "2d5739o",
       "Name": "Shield",
-      "Percentage": 3,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "_shotgun",
@@ -499,8 +499,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-09T13:13:29.9534062+00:00",
-  "LastChanged_Achievements": "2023-08-18T01:41:10.1710968+00:00",
+  "LastChanged_Achievements": "2023-08-18T02:16:09.2128473+00:00",
   "LastUpdate_AppInfo": "2023-08-16T13:57:00.4273956+00:00",
-  "LastUpdate_Ratings": "2023-08-18T01:36:07.6230999+00:00",
-  "LastUpdate_Achievements": "2023-08-18T01:41:10.1711393+00:00"
+  "LastUpdate_Ratings": "2023-08-18T02:10:56.3862071+00:00",
+  "LastUpdate_Achievements": "2023-08-18T02:16:09.2128891+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "good-heavens-323f08",
   "Ranking_EOS_Progress": 546,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewPlayers": 353,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-12T05:57:25.4645486+00:00",
-  "LastUpdate_Ratings": "2023-08-18T01:37:19.9791491+00:00",
-  "LastUpdate_Achievements": "2023-08-18T01:44:46.9061461+00:00"
+  "LastUpdate_Ratings": "2023-08-18T02:12:25.7712294+00:00",
+  "LastUpdate_Achievements": "2023-08-18T02:20:04.0430174+00:00"
 }

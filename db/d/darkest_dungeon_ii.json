@@ -6873,9 +6873,9 @@
       "Count": 908
     }
   ],
-  "EOS_Progressed": 114857,
+  "EOS_Progressed": 114858,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 700,
+  "EOS_NewPlayers": 697,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18483,6 +18483,11 @@
       "Time": "2023-08-18T01:42:10.0999298+00:00",
       "NumProgressed": 114857,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-18T02:16:56.3343444+00:00",
+      "NumProgressed": 114858,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 65,
@@ -18494,7 +18499,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 80400
+      "UsersEstimate": 80401
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -18526,7 +18531,7 @@
       "Name": "Resurrection",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 71211
+      "UsersEstimate": 71212
     },
     {
       "ID": "altar_of_hope_unlock_hero_hellion",
@@ -18542,7 +18547,7 @@
       "Name": "Funny Guy",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 76954
+      "UsersEstimate": 76955
     },
     {
       "ID": "altar_of_hope_unlock_hero_leper",
@@ -18558,7 +18563,7 @@
       "Name": "Wyrdly Reconstructed",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 71211
+      "UsersEstimate": 71212
     },
     {
       "ID": "altar_of_hope_unlock_hero_runaway",
@@ -18566,7 +18571,7 @@
       "Name": "Boxcar Kid",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 68914
+      "UsersEstimate": 68915
     },
     {
       "ID": "altar_of_hope_unlock_hero_vestal",
@@ -18598,7 +18603,7 @@
       "Name": "Hope Rekindled",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 57428
+      "UsersEstimate": 57429
     },
     {
       "ID": "application_start_on_release_anniversary",
@@ -18646,7 +18651,7 @@
       "Name": "Not Today!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 14931
+      "UsersEstimate": 14932
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -18790,7 +18795,7 @@
       "Name": "Rush Hour",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 68914
+      "UsersEstimate": 68915
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -18814,7 +18819,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 68914
+      "UsersEstimate": 68915
     },
     {
       "ID": "driving_distance_easy",
@@ -18822,7 +18827,7 @@
       "Name": "Ramble On",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 55131
+      "UsersEstimate": 55132
     },
     {
       "ID": "driving_distance_hard",
@@ -18862,7 +18867,7 @@
       "Name": "A Clear Conscience",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 79251
+      "UsersEstimate": 79252
     },
     {
       "ID": "hoarder_buy_epic_trinket",
@@ -18886,7 +18891,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 106817
+      "UsersEstimate": 106818
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -18950,7 +18955,7 @@
       "Name": "Unshackled",
       "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 76954
+      "UsersEstimate": 76955
     },
     {
       "ID": "run_victory_act02",
@@ -18966,7 +18971,7 @@
       "Name": "Eyes Up",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 22971
+      "UsersEstimate": 22972
     },
     {
       "ID": "run_victory_act04",
@@ -19013,15 +19018,15 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 114857,
+      "Progressed": 114858,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-08-17T21:57:26.195527+00:00",
-  "LastChanged_Achievements": "2023-08-18T01:42:10.0999294+00:00",
+  "LastChanged_Achievements": "2023-08-18T02:16:56.3343438+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:59.9837594+00:00",
-  "LastUpdate_Ratings": "2023-08-18T01:35:49.6340596+00:00",
-  "LastUpdate_Achievements": "2023-08-18T01:42:10.1000607+00:00"
+  "LastUpdate_Ratings": "2023-08-18T02:10:32.3956229+00:00",
+  "LastUpdate_Achievements": "2023-08-18T02:16:56.3345703+00:00"
 }

@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 18.00% | ~38,489 |
+| Sowwy! | 18.00% | ~38,491 |
 | Déjà vu | 1.00% | ~2,138 |
 | Where's that freaking Dwarf? | 1.00% | ~2,138 |
 | Sock! SOCK! | 1.00% | ~2,138 |
@@ -33,13 +33,13 @@ Number of Ratings: 118  (23.09.2022)
 | The Ranger of Chaos | 0.40% | ~855 |
 | I am the night | 0.40% | ~855 |
 | Team Building Exercise | 0.40% | ~855 |
-| Res Judicata | 0.30% | ~641 |
-| The Famous Dungeon of Naheulbeuk | 0.30% | ~641 |
-| Dwarf Fortress | 0.30% | ~641 |
-| Look but don't touch | 0.30% | ~641 |
-| The beards of change | 0.30% | ~641 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.30% | ~641 |
-| Thieves' Guild Accreditation | 0.30% | ~641 |
+| Res Judicata | 0.30% | ~642 |
+| The Famous Dungeon of Naheulbeuk | 0.30% | ~642 |
+| Dwarf Fortress | 0.30% | ~642 |
+| Look but don't touch | 0.30% | ~642 |
+| The beards of change | 0.30% | ~642 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.30% | ~642 |
+| Thieves' Guild Accreditation | 0.30% | ~642 |
 | Dead for good | 0.20% | ~428 |
 | Gargantua | 0.20% | ~428 |
 | In Navalu's footsteps | 0.20% | ~428 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Staff cut | 0.00% | ~0 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 213,828 (Ranked 56)  
+Progressed: 213,837 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,7 +174,7 @@ Completed: 2 (0.00%) (Ranked 259)
 | 2023-08-15 | 212,897 | 2 |
 | 2023-08-16 | 213,341 | 2 |
 | 2023-08-17 | 213,783 | 2 |
-| 2023-08-18 | 213,828 | 2 |
+| 2023-08-18 | 213,837 | 2 |
 ## Awards
 Max (Character Customization): 166  (Ranked 289)  
 Sum: 207 (Ranked 366)  

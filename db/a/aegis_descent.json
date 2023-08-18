@@ -4,7 +4,7 @@
   "ProductSlug": "aegis-descent-a1f5a0",
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 175,
-  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewPlayers": 312,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-07-08T16:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 400,
+  "EOS_Progressed": 401,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -292,6 +292,11 @@
       "Time": "2023-08-05T23:07:26.7021429+00:00",
       "NumProgressed": 400,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-18T02:20:25.312342+00:00",
+      "NumProgressed": 401,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -309,7 +314,7 @@
       "ID": "Award_BigSpender",
       "SetID": "9ojec6n",
       "Name": "Big Spender",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -325,15 +330,15 @@
       "ID": "Award_BumperCar",
       "SetID": "9ojec6n",
       "Name": "Bumper Car",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 16
     },
     {
       "ID": "Award_BurnThem",
       "SetID": "9ojec6n",
       "Name": "Burn Them",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -343,7 +348,7 @@
       "Name": "Clean Sweep",
       "Percentage": 94,
       "XP": 20,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "Award_DeathFromAbove",
@@ -357,7 +362,7 @@
       "ID": "Award_DemolitionDerby",
       "SetID": "9ojec6n",
       "Name": "Demolition Derby",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -397,7 +402,7 @@
       "ID": "Award_FinalAscension",
       "SetID": "9ojec6n",
       "Name": "Final Ascension",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -405,9 +410,9 @@
       "ID": "Award_FirstVictory",
       "SetID": "9ojec6n",
       "Name": "First Victory",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 16
     },
     {
       "ID": "Award_Gunner",
@@ -415,7 +420,7 @@
       "Name": "Gunner",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "Award_HalfwayThere",
@@ -445,9 +450,9 @@
       "ID": "Award_HeavyMetal",
       "SetID": "9ojec6n",
       "Name": "Heavy Metal",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 4
     },
     {
       "ID": "Award_HullKing",
@@ -469,23 +474,23 @@
       "ID": "Award_KillerElite",
       "SetID": "9ojec6n",
       "Name": "Killer Elite",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 28
+      "UsersEstimate": 24
     },
     {
       "ID": "Award_LineOfDuty",
       "SetID": "9ojec6n",
       "Name": "Line of Duty",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 292
+      "UsersEstimate": 289
     },
     {
       "ID": "Award_MilitaryIntelligence",
       "SetID": "9ojec6n",
       "Name": "Military Intelligence",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -533,17 +538,17 @@
       "ID": "Award_PowerUp",
       "SetID": "9ojec6n",
       "Name": "Power Up",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 4
     },
     {
       "ID": "Award_Salvage",
       "SetID": "9ojec6n",
       "Name": "Salvage",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 44
     },
     {
       "ID": "Award_Scavenger",
@@ -551,7 +556,7 @@
       "Name": "Scavenger",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "Award_ShellShock",
@@ -629,15 +634,15 @@
       "ID": "Award_ThirtyBirds",
       "SetID": "9ojec6n",
       "Name": "Thirty Birds...",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 16
     },
     {
       "ID": "Award_TimeRun",
       "SetID": "9ojec6n",
       "Name": "Time Run",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -654,7 +659,7 @@
     {
       "ID": "9ojec6n",
       "IsBase": true,
-      "Progressed": 400,
+      "Progressed": 401,
       "Completed": 1
     }
   ],
@@ -662,8 +667,8 @@
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "LastChanged_Achievements": "2023-08-18T01:45:05.6372496+00:00",
+  "LastChanged_Achievements": "2023-08-18T02:20:25.3123407+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:58.7450556+00:00",
-  "LastUpdate_Ratings": "2023-08-18T01:37:51.5984884+00:00",
-  "LastUpdate_Achievements": "2023-08-18T01:45:05.6372888+00:00"
+  "LastUpdate_Ratings": "2023-08-18T02:13:06.6290176+00:00",
+  "LastUpdate_Achievements": "2023-08-18T02:20:25.3123839+00:00"
 }
