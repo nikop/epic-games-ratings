@@ -23,7 +23,7 @@ Rating: 4.73 (Ranked 160)
 | Healing our Wounds | 37.00% | ~4,735 |
 | Dying Sun | 33.00% | ~4,223 |
 | Improved crossbow | 27.00% | ~3,455 |
-| King Hugo | 24.00% | ~3,072 |
+| King Hugo | 25.00% | ~3,200 |
 | Mercy | 24.00% | ~3,072 |
 | Effective instruments | 22.00% | ~2,816 |
 | Perfect shot | 22.00% | ~2,816 |

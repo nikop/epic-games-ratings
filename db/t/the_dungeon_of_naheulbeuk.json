@@ -672,9 +672,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 213919,
+  "EOS_Progressed": 213931,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3740,
+  "EOS_NewPlayers": 3730,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7372,6 +7372,11 @@
       "Time": "2023-08-18T09:05:42.1050007+00:00",
       "NumProgressed": 213919,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-18T10:06:13.7545843+00:00",
+      "NumProgressed": 213931,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -7445,9 +7450,9 @@
       "ID": "Chapter3",
       "SetID": "50chcgj",
       "Name": "The plot thickens... At the tavern",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1070
+      "UsersEstimate": 1284
     },
     {
       "ID": "Chapter4",
@@ -7831,7 +7836,7 @@
       "Name": "Sowwy!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 38505
+      "UsersEstimate": 38508
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -7855,7 +7860,7 @@
       "Name": "DM intervention",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1497
+      "UsersEstimate": 1498
     },
     {
       "ID": "EndGameCursed",
@@ -7879,7 +7884,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4278
+      "UsersEstimate": 4279
     },
     {
       "ID": "FollowBraztok",
@@ -8086,21 +8091,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 213919,
+      "Progressed": 213931,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 213919,
+      "Progressed": 213931,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-18T09:01:01.93706+00:00",
-  "LastChanged_Achievements": "2023-08-18T09:05:42.1050002+00:00",
+  "LastChanged_Achievements": "2023-08-18T10:06:13.7545837+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:49.6773731+00:00",
-  "LastUpdate_Ratings": "2023-08-18T09:01:01.9370604+00:00",
-  "LastUpdate_Achievements": "2023-08-18T09:05:42.1051141+00:00"
+  "LastUpdate_Ratings": "2023-08-18T10:01:59.1047528+00:00",
+  "LastUpdate_Achievements": "2023-08-18T10:06:13.7548486+00:00"
 }

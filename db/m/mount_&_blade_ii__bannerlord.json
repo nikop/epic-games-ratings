@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 67,
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 79,
+  "Ranking_EOS_NewPlayers": 80,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
@@ -6471,9 +6471,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 59079,
+  "EOS_Progressed": 59080,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 446,
+  "EOS_NewPlayers": 443,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19106,6 +19106,11 @@
       "Time": "2023-08-18T09:05:32.7422329+00:00",
       "NumProgressed": 59079,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-18T10:06:01.2177897+00:00",
+      "NumProgressed": 59080,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -19133,7 +19138,7 @@
       "Name": "Bannerlord",
       "Percentage": 22,
       "XP": 65,
-      "UsersEstimate": 12997
+      "UsersEstimate": 12998
     },
     {
       "ID": "Best served cold",
@@ -19277,7 +19282,7 @@
       "Name": "Horde breaker",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 12997
+      "UsersEstimate": 12998
     },
     {
       "ID": "I can do it",
@@ -19309,7 +19314,7 @@
       "Name": "King Solomon",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10043
+      "UsersEstimate": 10044
     },
     {
       "ID": "Kingslayer",
@@ -19341,7 +19346,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 18905
+      "UsersEstimate": 18906
     },
     {
       "ID": "Lawbringer",
@@ -19357,7 +19362,7 @@
       "Name": "Lawmaker",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 12997
+      "UsersEstimate": 12998
     },
     {
       "ID": "Long live the Empire",
@@ -19493,7 +19498,7 @@
       "Name": "Trained",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 12997
+      "UsersEstimate": 12998
     },
     {
       "ID": "Undercover",
@@ -19524,15 +19529,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 59079,
+      "Progressed": 59080,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-08-18T08:57:26.0297501+00:00",
-  "LastChanged_Achievements": "2023-08-18T09:05:32.7422325+00:00",
+  "LastChanged_Achievements": "2023-08-18T10:06:01.2177891+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:44.6335832+00:00",
-  "LastUpdate_Ratings": "2023-08-18T08:57:26.029751+00:00",
-  "LastUpdate_Achievements": "2023-08-18T09:05:32.7423222+00:00"
+  "LastUpdate_Ratings": "2023-08-18T09:57:27.1227238+00:00",
+  "LastUpdate_Achievements": "2023-08-18T10:06:01.2180035+00:00"
 }

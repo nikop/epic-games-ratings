@@ -6,12 +6,12 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~307,229 |
-| Jeef Skeejj | 44.00% | ~204,819 |
-| Careful planning | 39.00% | ~181,544 |
-| Second Coming | 33.00% | ~153,614 |
-| Jeef Skagg | 30.00% | ~139,649 |
-| Mother | 25.00% | ~116,374 |
+| The Shutdown | 66.00% | ~307,230 |
+| Jeef Skeejj | 44.00% | ~204,820 |
+| Careful planning | 39.00% | ~181,545 |
+| Second Coming | 33.00% | ~153,615 |
+| Jeef Skagg | 30.00% | ~139,650 |
+| Mother | 25.00% | ~116,375 |
 | In space, no one can hear you scream | 24.00% | ~111,720 |
 | Chapter I: Echoes | 22.00% | ~102,410 |
 | Excelsior Rule | 22.00% | ~102,410 |
@@ -56,23 +56,23 @@ Number of Ratings: 1,003  (23.09.2022)
 | Emperor of Misery | 1.00% | ~4,655 |
 | A Frozen Lady | 1.00% | ~4,655 |
 | Void Rule | 1.00% | ~4,655 |
-| Excelsior Mastery | 0.90% | ~4,189 |
-| The greatest admiral of all time | 0.50% | ~2,327 |
+| Excelsior Mastery | 0.90% | ~4,190 |
+| The greatest admiral of all time | 0.50% | ~2,328 |
 | Hand of the Emperor | 0.30% | ~28 |
 | Soldiers of Fortune | 0.20% | ~19 |
-| Liberator | 0.10% | ~465 |
-| The Art of War | 0.10% | ~465 |
-| Geno Mastery | 0.10% | ~465 |
-| Geno Supremacy | 0.10% | ~465 |
-| Jericho Mastery | 0.10% | ~465 |
-| Jericho Supremacy | 0.10% | ~465 |
-| Hammer Mastery | 0.10% | ~465 |
-| Hammer Supremacy | 0.10% | ~465 |
-| Void Mastery | 0.10% | ~465 |
-| Void Supremacy | 0.10% | ~465 |
-| Kaos Mastery | 0.10% | ~465 |
-| Kaos Supremacy | 0.10% | ~465 |
-| Excelsior Supremacy | 0.10% | ~465 |
+| Liberator | 0.10% | ~466 |
+| The Art of War | 0.10% | ~466 |
+| Geno Mastery | 0.10% | ~466 |
+| Geno Supremacy | 0.10% | ~466 |
+| Jericho Mastery | 0.10% | ~466 |
+| Jericho Supremacy | 0.10% | ~466 |
+| Hammer Mastery | 0.10% | ~466 |
+| Hammer Supremacy | 0.10% | ~466 |
+| Void Mastery | 0.10% | ~466 |
+| Void Supremacy | 0.10% | ~466 |
+| Kaos Mastery | 0.10% | ~466 |
+| Kaos Supremacy | 0.10% | ~466 |
+| Excelsior Supremacy | 0.10% | ~466 |
 | The Blade | 0.10% | ~9 |
 | The Ghost | 0.10% | ~9 |
 | The Extractor | 0.10% | ~9 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~9 |
 | Kronos Rule | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 465,498 (Ranked 37)  
+Progressed: 465,500 (Ranked 37)  
 Completed: 17 (0.00%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,7 +206,7 @@ Completed: 17 (0.00%) (Ranked 259)
 | 2023-08-15 | 465,318 | 17 |
 | 2023-08-16 | 465,377 | 17 |
 | 2023-08-17 | 465,460 | 17 |
-| 2023-08-18 | 465,498 | 17 |
+| 2023-08-18 | 465,500 | 17 |
 ## Awards
 Max (Character Customization): 217  (Ranked 267)  
 Sum: 217 (Ranked 363)  

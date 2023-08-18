@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 204,
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 91,
+  "Ranking_EOS_NewPlayers": 92,
   "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -3048,9 +3048,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 71970,
+  "EOS_Progressed": 71971,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 312,
+  "EOS_NewPlayers": 313,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -15558,6 +15558,11 @@
       "Time": "2023-08-18T09:07:20.9654975+00:00",
       "NumProgressed": 71970,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-08-18T10:08:14.6288455+00:00",
+      "NumProgressed": 71971,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 37,
@@ -15569,7 +15574,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 35985
+      "UsersEstimate": 35986
     },
     {
       "ID": "ACH_0011",
@@ -15577,7 +15582,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 20871
+      "UsersEstimate": 20872
     },
     {
       "ID": "ACH_0012",
@@ -15609,7 +15614,7 @@
       "Name": "Legend Looter",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3598
+      "UsersEstimate": 3599
     },
     {
       "ID": "ACH_0016",
@@ -15713,7 +15718,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 46780
+      "UsersEstimate": 46781
     },
     {
       "ID": "ACH_0210",
@@ -15721,7 +15726,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 53258
+      "UsersEstimate": 53259
     },
     {
       "ID": "ACH_0211",
@@ -15864,22 +15869,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 71970,
+      "Progressed": 71971,
       "Completed": 40
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 317,
-      "Completed": 317
+      "Progressed": 318,
+      "Completed": 318
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-08-17T13:00:02.1804611+00:00",
-  "LastChanged_Achievements": "2023-08-18T09:07:20.965497+00:00",
+  "LastChanged_Achievements": "2023-08-18T10:08:14.6288449+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:57.6056168+00:00",
-  "LastUpdate_Ratings": "2023-08-18T08:57:35.7158604+00:00",
-  "LastUpdate_Achievements": "2023-08-18T09:07:20.9655836+00:00"
+  "LastUpdate_Ratings": "2023-08-18T09:57:39.5931267+00:00",
+  "LastUpdate_Achievements": "2023-08-18T10:08:14.6290437+00:00"
 }

@@ -26,10 +26,10 @@ Rating: 4.77 (Ranked 109)
 | Beast Friends | 7.00% | ~20,322 |
 | A Sallow Grave | 7.00% | ~20,322 |
 | Flight the Good Flight | 7.00% | ~20,322 |
-| The Seeker of Knowledge | 5.00% | ~14,515 |
-| The Root of the Problem | 5.00% | ~14,515 |
-| Third Time's a Charm | 5.00% | ~14,515 |
-| Raising Expectations | 5.00% | ~14,515 |
+| The Seeker of Knowledge | 5.00% | ~14,516 |
+| The Root of the Problem | 5.00% | ~14,516 |
+| Third Time's a Charm | 5.00% | ~14,516 |
+| Raising Expectations | 5.00% | ~14,516 |
 | The Toast of the Town | 4.00% | ~11,612 |
 | Room with a View | 4.00% | ~11,612 |
 | The Intrepid Explorer | 4.00% | ~11,612 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,742 |
 | Collector's Edition | 0.30% | ~871 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290,308 (Ranked 43)  
+Progressed: 290,312 (Ranked 43)  
 Completed: 452 (0.16%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,10 +171,10 @@ Completed: 452 (0.16%) (Ranked 191)
 | 2023-08-15 | 290,171 | 451 |
 | 2023-08-16 | 290,231 | 452 |
 | 2023-08-17 | 290,286 | 452 |
-| 2023-08-18 | 290,308 | 452 |
+| 2023-08-18 | 290,312 | 452 |
 ## Awards
 Max (Character Customization): 21,799  (Ranked 17)  
-Sum: 41,157 (Ranked 30)  
+Sum: 41,160 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -183,7 +183,7 @@ Diff (max vs sum): -13
 | This game is Great for Beginners | 973 |
 | This game is Relaxing | 959 |
 | This game is Extremely Fun | 956 |
-| This game has Amazing Storytelling | 939 |
+| This game has Amazing Storytelling | 942 |
 | This game has Diverse Characters | 938 |
 | This game has Amazing Characters | 920 |
 | This game is Highly Recommended | 896 |
@@ -340,4 +340,4 @@ Diff (max vs sum): -13
 | 2023-08-15 | 4.77 | 21,755 | 41,047 |
 | 2023-08-16 | 4.77 | 21,765 | 41,080 |
 | 2023-08-17 | 4.77 | 21,780 | 41,138 |
-| 2023-08-18 | 4.77 | 21,799 | 41,157 |
+| 2023-08-18 | 4.77 | 21,799 | 41,160 |

@@ -9,6 +9,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Clergy | 4.00% | ~538 |
 | Explorer | 3.00% | ~404 |
 | Settler | 3.00% | ~404 |
+| Friendly Family | 3.00% | ~404 |
 | Play a Single Player Game | 3.00% | ~404 |
 | Able | 2.00% | ~269 |
 | Architect | 2.00% | ~269 |
@@ -23,7 +24,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble | 2.00% | ~269 |
 | Pioneer | 2.00% | ~269 |
 | Strong | 2.00% | ~269 |
-| Friendly Family | 2.00% | ~269 |
 | Hanging Gardens | 2.00% | ~269 |
 | Oracle | 2.00% | ~269 |
 | Judaism | 2.00% | ~269 |
@@ -32,46 +32,46 @@ Number of Ratings: 1,307  (23.09.2022)
 | Trade Caravan | 2.00% | ~269 |
 | The Great Mage | 2.00% | ~269 |
 | Poetic Leader | 2.00% | ~269 |
-| Regicide | 1.00% | ~134 |
-| Ambitious | 1.00% | ~134 |
-| Brilliant | 1.00% | ~134 |
-| Fountainhead | 1.00% | ~134 |
-| Great | 1.00% | ~134 |
-| Magnificent | 1.00% | ~134 |
-| Warrior | 1.00% | ~134 |
-| Wise | 1.00% | ~134 |
-| Developing Cities | 1.00% | ~134 |
-| Legendary Cities | 1.00% | ~134 |
-| Strong Cities | 1.00% | ~134 |
-| Able Difficulty | 1.00% | ~134 |
-| Artisans | 1.00% | ~134 |
-| Furious Family | 1.00% | ~134 |
-| Apadana | 1.00% | ~134 |
-| Colossus | 1.00% | ~134 |
-| Great Ziggurat | 1.00% | ~134 |
-| Ishtar Gate | 1.00% | ~134 |
-| Lighthouse | 1.00% | ~134 |
-| Musaeum | 1.00% | ~134 |
-| Necropolis | 1.00% | ~134 |
-| Pyramids | 1.00% | ~134 |
-| Learn to Play 1 | 1.00% | ~134 |
-| Learn to Play 2 | 1.00% | ~134 |
-| Christianity | 1.00% | ~134 |
-| Manichaeism | 1.00% | ~134 |
-| Babylonian Paganism | 1.00% | ~134 |
-| Carthaginian Paganism | 1.00% | ~134 |
-| Egyptian Paganism | 1.00% | ~134 |
-| Roman Paganism | 1.00% | ~134 |
-| Zoroastrianism | 1.00% | ~134 |
+| Regicide | 1.00% | ~135 |
+| Ambitious | 1.00% | ~135 |
+| Brilliant | 1.00% | ~135 |
+| Fountainhead | 1.00% | ~135 |
+| Great | 1.00% | ~135 |
+| Magnificent | 1.00% | ~135 |
+| Warrior | 1.00% | ~135 |
+| Wise | 1.00% | ~135 |
+| Developing Cities | 1.00% | ~135 |
+| Legendary Cities | 1.00% | ~135 |
+| Strong Cities | 1.00% | ~135 |
+| Able Difficulty | 1.00% | ~135 |
+| Artisans | 1.00% | ~135 |
+| Furious Family | 1.00% | ~135 |
+| Apadana | 1.00% | ~135 |
+| Colossus | 1.00% | ~135 |
+| Great Ziggurat | 1.00% | ~135 |
+| Ishtar Gate | 1.00% | ~135 |
+| Lighthouse | 1.00% | ~135 |
+| Musaeum | 1.00% | ~135 |
+| Necropolis | 1.00% | ~135 |
+| Pyramids | 1.00% | ~135 |
+| Learn to Play 1 | 1.00% | ~135 |
+| Learn to Play 2 | 1.00% | ~135 |
+| Christianity | 1.00% | ~135 |
+| Manichaeism | 1.00% | ~135 |
+| Babylonian Paganism | 1.00% | ~135 |
+| Carthaginian Paganism | 1.00% | ~135 |
+| Egyptian Paganism | 1.00% | ~135 |
+| Roman Paganism | 1.00% | ~135 |
+| Zoroastrianism | 1.00% | ~135 |
 | Drillmaster | 0.90% | ~121 |
 | Valiant | 0.90% | ~121 |
 | Just Difficulty | 0.90% | ~121 |
 | Acropolis | 0.90% | ~121 |
+| Mausoleum | 0.90% | ~121 |
 | Mythology | 0.90% | ~121 |
 | Intercessor | 0.80% | ~108 |
 | Champions | 0.80% | ~108 |
 | Sages | 0.80% | ~108 |
-| Mausoleum | 0.80% | ~108 |
 | Greece | 0.80% | ~108 |
 | Points Victory | 0.80% | ~108 |
 | Hanging Gardens in Babylon | 0.70% | ~94 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,450 (Ranked 117)  
+Progressed: 13,452 (Ranked 118)  
 Completed: 5 (0.04%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -423,7 +423,7 @@ Completed: 5 (0.04%) (Ranked 229)
 | 2023-08-15 | 13,422 | 5 |
 | 2023-08-16 | 13,432 | 5 |
 | 2023-08-17 | 13,444 | 5 |
-| 2023-08-18 | 13,450 | 5 |
+| 2023-08-18 | 13,452 | 5 |
 ## Awards
 Max (Relaxing): 219  (Ranked 264)  
 Sum: 1,792 (Ranked 206)  

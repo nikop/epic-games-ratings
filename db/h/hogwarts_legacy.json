@@ -6358,10 +6358,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 41157,
       "NumberOfAwardsMax": 21799
+    },
+    {
+      "Time": "2023-08-18T09:59:45.1744516+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 41160,
+      "NumberOfAwardsMax": 21799
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 41157,
+  "NumberOfAwards": 41160,
   "NumberOfAwardsMax": 21799,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6423,7 +6429,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 939
+      "Count": 942
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -6438,9 +6444,9 @@
       "Count": 596
     }
   ],
-  "EOS_Progressed": 290308,
+  "EOS_Progressed": 290312,
   "EOS_Completed": 452,
-  "EOS_NewPlayers": 493,
+  "EOS_NewPlayers": 496,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -19333,6 +19339,11 @@
       "Time": "2023-08-18T09:07:00.0696627+00:00",
       "NumProgressed": 290308,
       "NumCompleted": 452
+    },
+    {
+      "Time": "2023-08-18T10:07:48.6505756+00:00",
+      "NumProgressed": 290312,
+      "NumCompleted": 452
     }
   ],
   "TotalAchievements": 45,
@@ -19384,7 +19395,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 5,
       "XP": 70,
-      "UsersEstimate": 14515
+      "UsersEstimate": 14516
     },
     {
       "ID": "PFA_15",
@@ -19480,7 +19491,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14515
+      "UsersEstimate": 14516
     },
     {
       "ID": "PFA_26",
@@ -19512,7 +19523,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14515
+      "UsersEstimate": 14516
     },
     {
       "ID": "PFA_3",
@@ -19632,7 +19643,7 @@
       "Name": "Raising Expectations",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 14515
+      "UsersEstimate": 14516
     },
     {
       "ID": "PFA_43",
@@ -19703,16 +19714,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 290308,
+      "Progressed": 290312,
       "Completed": 452
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-08-18T01:37:12.0785679+00:00",
-  "LastChanged_Achievements": "2023-08-18T09:07:00.0696623+00:00",
+  "LastChanged": "2023-08-18T09:59:45.1744514+00:00",
+  "LastChanged_Achievements": "2023-08-18T10:07:48.6505752+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:17.4814985+00:00",
-  "LastUpdate_Ratings": "2023-08-18T08:59:17.9749449+00:00",
-  "LastUpdate_Achievements": "2023-08-18T09:07:00.0697493+00:00"
+  "LastUpdate_Ratings": "2023-08-18T09:59:45.1744523+00:00",
+  "LastUpdate_Achievements": "2023-08-18T10:07:48.6507053+00:00"
 }

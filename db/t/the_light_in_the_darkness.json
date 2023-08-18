@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2201,
+  "EOS_Progressed": 2202,
   "EOS_Completed": 196,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 8.91,
+  "EOS_Completed_Percentage": 8.9,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -5063,6 +5063,11 @@
       "Time": "2023-08-18T09:05:09.5678553+00:00",
       "NumProgressed": 2201,
       "NumCompleted": 196
+    },
+    {
+      "Time": "2023-08-18T10:05:32.8558137+00:00",
+      "NumProgressed": 2202,
+      "NumCompleted": 196
     }
   ],
   "TotalAchievements": 12,
@@ -5106,7 +5111,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "Jakob",
@@ -5138,7 +5143,7 @@
       "Name": "Little Helper",
       "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -5154,7 +5159,7 @@
       "Name": "Nazis in Paris",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "Nuremberg Laws",
@@ -5169,7 +5174,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2201,
+      "Progressed": 2202,
       "Completed": 196
     }
   ],
@@ -5177,8 +5182,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-08-18T09:05:09.5678548+00:00",
+  "LastChanged_Achievements": "2023-08-18T10:05:32.855813+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:29.1677091+00:00",
-  "LastUpdate_Ratings": "2023-08-18T09:01:26.6108822+00:00",
-  "LastUpdate_Achievements": "2023-08-18T09:05:09.5678872+00:00"
+  "LastUpdate_Ratings": "2023-08-18T10:02:32.239224+00:00",
+  "LastUpdate_Achievements": "2023-08-18T10:05:32.8558845+00:00"
 }
