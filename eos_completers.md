@@ -41,8 +41,8 @@
 | 39 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.90% |
 | 40 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.84% |
 | 41 | [Time Loader](games/t/time_loader.md) | 6.78% |
-| 42 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
-| 43 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.28% |
+| 42 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.52% |
+| 43 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 44 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 45 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.98% |
 | 46 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 5.88% |
