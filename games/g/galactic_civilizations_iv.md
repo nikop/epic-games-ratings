@@ -1,17 +1,17 @@
 # Galactic Civilizations IV
 [Store](https://store.epicgames.com/en-US/p/galactic-civilizations-iv)  
 [View Rawdata](../../db/g/galactic_civilizations_iv.json)  
-Rating: 4.18 (Ranked 870)  
+Rating: 4.18 (Ranked 871)  
 Number of Ratings: 429  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 79.00% | ~5,055 |
-| Worker Specialization | 78.00% | ~4,991 |
-| First Contact | 73.00% | ~4,671 |
-| Win a Battle | 67.00% | ~4,287 |
-| Anomaly Researcher | 63.00% | ~4,031 |
-| Unleash My Power | 62.00% | ~3,967 |
+| Colonize a Planet | 79.00% | ~5,057 |
+| Worker Specialization | 78.00% | ~4,993 |
+| First Contact | 73.00% | ~4,673 |
+| Win a Battle | 67.00% | ~4,289 |
+| Anomaly Researcher | 63.00% | ~4,033 |
+| Unleash My Power | 62.00% | ~3,969 |
 | Own 30 Planets | 34.00% | ~2,176 |
 | Xenocide | 32.00% | ~2,048 |
 | Commodity Trader | 31.00% | ~1,984 |
@@ -40,17 +40,17 @@ Number of Ratings: 429  (23.09.2022)
 | Win as Festron | 1.00% | ~64 |
 | Win as the Navigators | 0.90% | ~58 |
 | Win as Torians | 0.90% | ~58 |
-| Win as the Drengin | 0.80% | ~51 |
-| Win as the Krynn | 0.80% | ~51 |
-| Win as Xeloxi | 0.80% | ~51 |
 | Win as the Drath | 0.70% | ~45 |
+| Win as the Drengin | 0.70% | ~45 |
+| Win as the Krynn | 0.70% | ~45 |
 | Win as the Manti | 0.70% | ~45 |
+| Win as Xeloxi | 0.70% | ~45 |
 | Win as the Iconians | 0.60% | ~38 |
 | Win as the Iridium | 0.60% | ~38 |
 | Win as the Onyx | 0.60% | ~38 |
 | Diplomatic Victory! | 0.60% | ~38 |
-| Relic Hoarder | 0.30% | ~19 |
 | Iconia Reclaimed! | 0.30% | ~19 |
+| Relic Hoarder | 0.20% | ~13 |
 | Discover a Nebula | 0.20% | ~13 |
 | Commodity Seller, Level 2 | 0.20% | ~13 |
 | Commodity Trader - Level 2 | 0.10% | ~6 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,399 (Ranked 136)  
+Progressed: 6,401 (Ranked 136)  
 Completed: 0 (0.00%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,7 +199,7 @@ Completed: 0 (0.00%) (Ranked 259)
 | 2023-08-15 | 6,375 | 0 |
 | 2023-08-16 | 6,382 | 0 |
 | 2023-08-17 | 6,394 | 0 |
-| 2023-08-18 | 6,399 | 0 |
+| 2023-08-18 | 6,401 | 0 |
 ## Awards
 Max (Diverse Characters): 93  (Ranked 347)  
 Sum: 674 (Ranked 281)  

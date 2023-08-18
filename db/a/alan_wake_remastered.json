@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 61042,
+  "EOS_Progressed": 61045,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 377,
+  "EOS_NewPlayers": 380,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11612,6 +11612,11 @@
       "Time": "2023-08-18T10:07:15.4391192+00:00",
       "NumProgressed": 61042,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-18T11:07:04.9195509+00:00",
+      "NumProgressed": 61045,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -11623,7 +11628,7 @@
       "Name": "Follow the Light",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 22586
+      "UsersEstimate": 22587
     },
     {
       "ID": "02",
@@ -11655,7 +11660,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 12208
+      "UsersEstimate": 12209
     },
     {
       "ID": "06",
@@ -11687,7 +11692,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7935
+      "UsersEstimate": 7936
     },
     {
       "ID": "10",
@@ -11783,7 +11788,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7935
+      "UsersEstimate": 7936
     },
     {
       "ID": "22",
@@ -11791,7 +11796,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7935
+      "UsersEstimate": 7936
     },
     {
       "ID": "23",
@@ -11815,7 +11820,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4883
+      "UsersEstimate": 4884
     },
     {
       "ID": "26",
@@ -11863,7 +11868,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9156
+      "UsersEstimate": 9157
     },
     {
       "ID": "32",
@@ -11871,7 +11876,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 17702
+      "UsersEstimate": 17703
     },
     {
       "ID": "33",
@@ -11895,7 +11900,7 @@
       "Name": "Let There Be Light",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 18313
+      "UsersEstimate": 18314
     },
     {
       "ID": "36",
@@ -11943,7 +11948,7 @@
       "Name": "Finders Keepers",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9156
+      "UsersEstimate": 9157
     },
     {
       "ID": "42",
@@ -11959,7 +11964,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 10377
+      "UsersEstimate": 10378
     },
     {
       "ID": "44",
@@ -12158,21 +12163,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 61042,
+      "Progressed": 61045,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 24510,
+      "Progressed": 24513,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-18T10:07:15.4391185+00:00",
+  "LastChanged_Achievements": "2023-08-18T11:07:04.9195497+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:20.2881971+00:00",
-  "LastUpdate_Ratings": "2023-08-18T10:00:07.213183+00:00",
-  "LastUpdate_Achievements": "2023-08-18T10:07:15.4393353+00:00"
+  "LastUpdate_Ratings": "2023-08-18T11:00:04.5426258+00:00",
+  "LastUpdate_Achievements": "2023-08-18T11:07:04.9197227+00:00"
 }

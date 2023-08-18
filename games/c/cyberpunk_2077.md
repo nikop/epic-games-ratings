@@ -6,43 +6,43 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 68.00% | ~592,538 |
-| Right Back At Ya | 39.00% | ~339,838 |
-| The Lovers | 35.00% | ~304,983 |
-| Stanislavski's Method | 29.00% | ~252,700 |
-| The Wheel of Fortune | 27.00% | ~235,272 |
-| The Hermit | 25.00% | ~217,845 |
-| Christmas Tree Attack | 23.00% | ~200,417 |
-| True Soldier | 23.00% | ~200,417 |
-| The High Priestess | 22.00% | ~191,703 |
-| Legend of The Afterlife | 22.00% | ~191,703 |
-| Life of the Road | 21.00% | ~182,990 |
-| Full Body Conversion | 18.00% | ~156,848 |
-| The World | 18.00% | ~156,848 |
+| The Fool | 68.00% | ~592,541 |
+| Right Back At Ya | 39.00% | ~339,840 |
+| The Lovers | 35.00% | ~304,984 |
+| Stanislavski's Method | 29.00% | ~252,701 |
+| The Wheel of Fortune | 27.00% | ~235,274 |
+| The Hermit | 25.00% | ~217,846 |
+| Christmas Tree Attack | 23.00% | ~200,418 |
+| True Soldier | 23.00% | ~200,418 |
+| The High Priestess | 22.00% | ~191,704 |
+| Legend of The Afterlife | 22.00% | ~191,704 |
+| Life of the Road | 21.00% | ~182,991 |
+| Full Body Conversion | 18.00% | ~156,849 |
+| The World | 18.00% | ~156,849 |
 | Bushido and Chill | 16.00% | ~139,421 |
-| Gun Fu | 15.00% | ~130,707 |
-| True Warrior | 15.00% | ~130,707 |
-| To Protect and Serve | 14.00% | ~121,993 |
-| I Am The Law | 14.00% | ~121,993 |
-| Judy vs Night City | 14.00% | ~121,993 |
-| Master Crafter | 13.00% | ~113,279 |
-| Two Heads, One Bullet | 12.00% | ~104,565 |
+| Gun Fu | 15.00% | ~130,708 |
+| True Warrior | 15.00% | ~130,708 |
+| To Protect and Serve | 14.00% | ~121,994 |
+| I Am The Law | 14.00% | ~121,994 |
+| Judy vs Night City | 14.00% | ~121,994 |
+| Master Crafter | 13.00% | ~113,280 |
+| Two Heads, One Bullet | 12.00% | ~104,566 |
 | The Quick and the Dead | 10.00% | ~87,138 |
-| The Wandering Fool | 9.00% | ~78,424 |
-| Ten out of Ten | 9.00% | ~78,424 |
-| Breathtaking | 8.00% | ~69,710 |
+| The Wandering Fool | 9.00% | ~78,425 |
+| Ten out of Ten | 9.00% | ~78,425 |
+| Breathtaking | 8.00% | ~69,711 |
 | The Star | 7.00% | ~60,997 |
 | The Sun | 7.00% | ~60,997 |
 | To Bad Decisions! | 6.00% | ~52,283 |
 | Must Be Rats | 4.00% | ~34,855 |
 | Temperance | 4.00% | ~34,855 |
-| City Lights | 3.00% | ~26,141 |
-| Mean Streets | 3.00% | ~26,141 |
-| Little Tokyo | 3.00% | ~26,141 |
-| Greetings from Pacifica! | 3.00% | ~26,141 |
-| The Jungle | 3.00% | ~26,141 |
-| V for Vendetta | 3.00% | ~26,141 |
-| It's Elementary | 3.00% | ~26,141 |
+| City Lights | 3.00% | ~26,142 |
+| Mean Streets | 3.00% | ~26,142 |
+| Little Tokyo | 3.00% | ~26,142 |
+| Greetings from Pacifica! | 3.00% | ~26,142 |
+| The Jungle | 3.00% | ~26,142 |
+| V for Vendetta | 3.00% | ~26,142 |
+| It's Elementary | 3.00% | ~26,142 |
 | Autojock | 2.00% | ~17,428 |
 | Frequent Flyer | 2.00% | ~17,428 |
 | The Wasteland | 2.00% | ~17,428 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~8,714 |
 | Rough Landing | 0.50% | ~4,357 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 871,379 (Ranked 14)  
+Progressed: 871,384 (Ranked 14)  
 Completed: 1,977 (0.23%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,10 +171,10 @@ Completed: 1,977 (0.23%) (Ranked 180)
 | 2023-08-15 | 871,042 | 1,970 |
 | 2023-08-16 | 871,183 | 1,974 |
 | 2023-08-17 | 871,341 | 1,976 |
-| 2023-08-18 | 871,379 | 1,977 |
+| 2023-08-18 | 871,384 | 1,977 |
 ## Awards
 Max (Character Customization): 75,741  (Ranked 9)  
-Sum: 200,191 (Ranked 13)  
+Sum: 200,198 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
@@ -188,7 +188,7 @@ Diff (max vs sum): -4
 | This game is Relaxing | 8,649 |
 | This game has Quickly Understood Controls | 8,560 |
 | This game has Amazing Characters | 8,548 |
-| This game has a Creative Community | 5,602 |
+| This game has a Creative Community | 5,609 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -403,4 +403,4 @@ Diff (max vs sum): -4
 | 2023-08-15 | 4.62 | - | 75,550 | 199,689 |
 | 2023-08-16 | 4.62 | - | 75,608 | 199,883 |
 | 2023-08-17 | 4.62 | - | 75,670 | 200,097 |
-| 2023-08-18 | 4.62 | - | 75,741 | 200,191 |
+| 2023-08-18 | 4.62 | - | 75,741 | 200,198 |

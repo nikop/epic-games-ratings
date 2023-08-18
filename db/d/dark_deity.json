@@ -2,13 +2,13 @@
   "ID": "be69d6b9214f4bc594c4cb1cd310a553",
   "Name": "Dark Deity",
   "ProductSlug": "dark-deity-0b08d1",
-  "Ranking_Rating": 882,
+  "Ranking_Rating": 883,
   "Ranking_Popularity": 180,
   "Ranking_PopularitySum": 255,
   "Ranking_EOS_Progress": 547,
   "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 352,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-12-17T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -254,11 +254,17 @@
       "Rating": 4.16,
       "NumberOfAwards": 857,
       "NumberOfAwardsMax": 609
+    },
+    {
+      "Time": "2023-08-18T10:57:15.0273031+00:00",
+      "Rating": 4.16,
+      "NumberOfAwards": 858,
+      "NumberOfAwardsMax": 610
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 857,
-  "NumberOfAwardsMax": 609,
+  "NumberOfAwards": 858,
+  "NumberOfAwardsMax": 610,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
@@ -271,7 +277,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 609
+      "Count": 610
     },
     {
       "Text": "This game has Diverse Characters",
@@ -334,8 +340,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:09.3077466+00:00",
   "FirstSeenRating": "2022-08-09T18:32:09.805547+00:00",
-  "LastChanged": "2023-08-10T13:13:19.0241059+00:00",
+  "LastChanged": "2023-08-18T10:57:15.027303+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:34.5142762+00:00",
-  "LastUpdate_Ratings": "2023-08-18T09:57:20.7644139+00:00",
-  "LastUpdate_Achievements": "2023-08-18T10:04:56.0966996+00:00"
+  "LastUpdate_Ratings": "2023-08-18T10:57:15.0273036+00:00",
+  "LastUpdate_Achievements": "2023-08-18T11:04:46.1157656+00:00"
 }

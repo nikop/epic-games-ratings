@@ -6,9 +6,9 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 76.00% | ~3,625 |
+| Just One...More...Term... | 76.00% | ~3,626 |
 | Un-Lonely Island | 47.00% | ~2,242 |
-| The Beginning of a Servantship | 46.00% | ~2,194 |
+| The Beginning of a Servantship | 46.00% | ~2,195 |
 | Trade Is My Trait | 37.00% | ~1,765 |
 | Number 18 | 24.00% | ~1,145 |
 | We Don't Have Time For That | 19.00% | ~906 |
@@ -29,9 +29,9 @@ Number of Ratings: 398  (23.09.2022)
 | Don't Panic! | 6.00% | ~286 |
 | Computer Says "No" | 6.00% | ~286 |
 | Beware The Betman | 6.00% | ~286 |
-| Viva Tropico! | 5.00% | ~238 |
-| Watch The World Burn | 5.00% | ~238 |
-| Fairy Tale Come True | 5.00% | ~238 |
+| Viva Tropico! | 5.00% | ~239 |
+| Watch The World Burn | 5.00% | ~239 |
+| Fairy Tale Come True | 5.00% | ~239 |
 | Been there, Done That | 3.00% | ~143 |
 | Apocalypso | 3.00% | ~143 |
 | Narcissist | 3.00% | ~143 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~43 |
 | My Ways | 0.30% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,770 (Ranked 145)  
+Progressed: 4,771 (Ranked 145)  
 Completed: 2 (0.04%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,7 +167,7 @@ Completed: 2 (0.04%) (Ranked 229)
 | 2023-08-15 | 4,747 | 2 |
 | 2023-08-16 | 4,756 | 2 |
 | 2023-08-17 | 4,769 | 2 |
-| 2023-08-18 | 4,770 | 2 |
+| 2023-08-18 | 4,771 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 97  (Ranked 339)  
 Sum: 676 (Ranked 280)  

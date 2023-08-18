@@ -2,13 +2,13 @@
   "ID": "4b792f5770e84675b971a523a4ab9621",
   "Name": "Martha Is Dead",
   "ProductSlug": "martha-is-dead",
-  "Ranking_Rating": 932,
+  "Ranking_Rating": 933,
   "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 547,
   "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 352,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-02-24T14:00:00+00:00",
     "PcReleaseDate": "2022-02-24T14:00:00+00:00",
@@ -285,6 +285,6 @@
   "FirstSeen": "2022-07-22T20:18:17.5021839+00:00",
   "LastChanged": "2023-08-10T09:01:56.0605513+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:33.3537937+00:00",
-  "LastUpdate_Ratings": "2023-08-18T10:02:37.1601492+00:00",
-  "LastUpdate_Achievements": "2023-08-18T10:04:06.639591+00:00"
+  "LastUpdate_Ratings": "2023-08-18T11:02:36.1814551+00:00",
+  "LastUpdate_Achievements": "2023-08-18T11:03:55.9742458+00:00"
 }

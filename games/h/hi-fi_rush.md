@@ -8,7 +8,7 @@ Rating: 4.88 (Ranked 19)
 | Start with a bang! | 11.00% | ~434 |
 | Feeling the beat! | 11.00% | ~434 |
 | You can pet the cat! | 10.00% | ~395 |
-| Who put gears in there? | 9.00% | ~355 |
+| Who put gears in there? | 9.00% | ~356 |
 | Cream of the Crop | 8.00% | ~316 |
 | Thanks for the free chip, Peppermint! | 8.00% | ~316 |
 | I play my own way! | 7.00% | ~276 |
@@ -20,11 +20,11 @@ Rating: 4.88 (Ranked 19)
 | Uh, they were broken when I got here | 6.00% | ~237 |
 | Kissing the sky! | 6.00% | ~237 |
 | I look cool. But I can look COOLER. | 6.00% | ~237 |
-| The Negotiator | 5.00% | ~197 |
-| Time to pay up! | 5.00% | ~197 |
-| Whoa! There's ANOTHER health bar!? | 5.00% | ~197 |
-| Out in a puff of smoke | 5.00% | ~197 |
-| Does that say weakpoint? | 5.00% | ~197 |
+| The Negotiator | 5.00% | ~198 |
+| Time to pay up! | 5.00% | ~198 |
+| Whoa! There's ANOTHER health bar!? | 5.00% | ~198 |
+| Out in a puff of smoke | 5.00% | ~198 |
+| Does that say weakpoint? | 5.00% | ~198 |
 | NOW we got a kickass hideout! | 5.00% | ~124 |
 | Headliner | 4.00% | ~158 |
 | Who's the boss now? | 4.00% | ~158 |
@@ -37,12 +37,12 @@ Rating: 4.88 (Ranked 19)
 | There's such a thing as TOO helpful | 3.00% | ~118 |
 | Chip-tuned | 2.00% | ~79 |
 | Wanna hear my playlist? | 2.00% | ~79 |
-| I think I deserve some praise, here! | 1.00% | ~39 |
-| I think I found your calling, Macaron | 1.00% | ~39 |
-| We're Jammin' | 1.00% | ~39 |
-| I hit things with a guitar really well. | 1.00% | ~39 |
-| I told you I'd be fine, Peppermint! | 1.00% | ~39 |
-| Check out my moves! | 1.00% | ~39 |
+| I think I deserve some praise, here! | 1.00% | ~40 |
+| I think I found your calling, Macaron | 1.00% | ~40 |
+| We're Jammin' | 1.00% | ~40 |
+| I hit things with a guitar really well. | 1.00% | ~40 |
+| I told you I'd be fine, Peppermint! | 1.00% | ~40 |
+| Check out my moves! | 1.00% | ~40 |
 | Call me Turbo Chai | 1.00% | ~25 |
 | First we parry, then we counter | 0.80% | ~32 |
 | I'm not done with you yet | 0.70% | ~28 |
@@ -77,7 +77,7 @@ Rating: 4.88 (Ranked 19)
 | Voices from within | 0.10% | ~2 |
 | Low budget finish | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,949 (Ranked 148)  
+Progressed: 3,950 (Ranked 148)  
 Completed: 7 (0.18%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 7 (0.18%) (Ranked 189)
 | 2023-08-15 | 3,914 | 7 |
 | 2023-08-16 | 3,937 | 7 |
 | 2023-08-17 | 3,945 | 7 |
-| 2023-08-18 | 3,949 | 7 |
+| 2023-08-18 | 3,950 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

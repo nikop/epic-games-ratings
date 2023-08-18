@@ -2,13 +2,13 @@
   "ID": "489c2ca47aaa4190b694184b979d3b23",
   "Name": "The First Tree",
   "ProductSlug": "the-first-tree",
-  "Ranking_Rating": 936,
+  "Ranking_Rating": 937,
   "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 169,
   "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-09-14T15:00:00+00:00",
@@ -246,7 +246,7 @@
   "Tags": [],
   "EOS_Progressed": 35005,
   "EOS_Completed": 106,
-  "EOS_NewPlayers": 280,
+  "EOS_NewPlayers": 278,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -11358,8 +11358,8 @@
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-07-24T04:01:31.3679912+00:00",
-  "LastChanged_Achievements": "2023-08-18T10:07:31.9467615+00:00",
+  "LastChanged_Achievements": "2023-08-18T11:07:21.0599295+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:25.8798137+00:00",
-  "LastUpdate_Ratings": "2023-08-18T09:58:28.1966884+00:00",
-  "LastUpdate_Achievements": "2023-08-18T10:07:31.9468984+00:00"
+  "LastUpdate_Ratings": "2023-08-18T10:58:21.3861561+00:00",
+  "LastUpdate_Achievements": "2023-08-18T11:07:21.0600337+00:00"
 }

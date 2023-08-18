@@ -1,21 +1,21 @@
 # Crime Boss: Rockay City
 [Store](https://store.epicgames.com/en-US/p/crime-boss)  
 [View Rawdata](../../db/c/crime_boss__rockay_city.json)  
-Rating: 3.94 (Ranked 944)  
+Rating: 3.94 (Ranked 945)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Downed but Not Outed | 74.00% | ~53,259 |
-| First One’s Free | 65.00% | ~46,781 |
+| First One’s Free | 65.00% | ~46,782 |
 | Neophyte Ninja | 50.00% | ~35,986 |
-| Too Old for This | 47.00% | ~33,826 |
+| Too Old for This | 47.00% | ~33,827 |
 | Case Closed | 35.00% | ~25,190 |
 | Fancy Pants | 35.00% | ~25,190 |
 | King of the Hill | 34.00% | ~24,470 |
 | Underworld Initiate | 29.00% | ~20,872 |
 | Roid Ranger | 21.00% | ~15,114 |
-| True Player | 19.00% | ~13,674 |
-| Off the Rocks | 19.00% | ~13,674 |
+| True Player | 19.00% | ~13,675 |
+| Off the Rocks | 19.00% | ~13,675 |
 | Raider’s Ruin | 17.00% | ~12,235 |
 | Dragonslayer | 17.00% | ~12,235 |
 | Hidden Sonata | 13.00% | ~9,356 |
@@ -43,7 +43,7 @@ Rating: 3.94 (Ranked 944)
 | Geek Out | 0.60% | ~432 |
 | Full House | 0.20% | ~144 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 71,971 (Ranked 78)  
+Progressed: 71,972 (Ranked 78)  
 Completed: 40 (0.06%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 40 (0.06%) (Ranked 218)
 | 2023-08-15 | 71,883 | 39 |
 | 2023-08-16 | 71,916 | 39 |
 | 2023-08-17 | 71,955 | 40 |
-| 2023-08-18 | 71,971 | 40 |
+| 2023-08-18 | 71,972 | 40 |
 ## Awards
 Max (Diverse Characters): 403  (Ranked 214)  
 Sum: 1,904 (Ranked 204)  

@@ -6,22 +6,22 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 37.00% | ~22,586 |
-| Let There Be Light | 30.00% | ~18,313 |
-| Float Like a Butterfly | 29.00% | ~17,702 |
+| Follow the Light | 37.00% | ~22,587 |
+| Let There Be Light | 30.00% | ~18,314 |
+| Float Like a Butterfly | 29.00% | ~17,703 |
 | Nordic Walking | 23.00% | ~14,040 |
 | Bright Falls' Finest | 23.00% | ~14,040 |
-| Under a Thin Layer of Skin | 20.00% | ~12,208 |
-| Paging Mr. Wake | 17.00% | ~10,377 |
+| Under a Thin Layer of Skin | 20.00% | ~12,209 |
+| Paging Mr. Wake | 17.00% | ~10,378 |
 | Park Ranger | 16.00% | ~9,767 |
-| Back! Back, I Say! | 15.00% | ~9,156 |
-| Finders Keepers | 15.00% | ~9,156 |
+| Back! Back, I Say! | 15.00% | ~9,157 |
+| Finders Keepers | 15.00% | ~9,157 |
 | Sound and Fury | 14.00% | ~8,546 |
 | Missed by a Mile | 14.00% | ~8,546 |
 | Damn Good Cup of Coffee | 14.00% | ~8,546 |
-| Wheels Within Wheels | 13.00% | ~7,935 |
-| They're Heeeeeere! | 13.00% | ~7,935 |
-| The Six-Gun Scribe | 13.00% | ~7,935 |
+| Wheels Within Wheels | 13.00% | ~7,936 |
+| They're Heeeeeere! | 13.00% | ~7,936 |
+| The Six-Gun Scribe | 13.00% | ~7,936 |
 | Heavy Metal | 12.00% | ~7,325 |
 | Iron Horse | 12.00% | ~7,325 |
 | Collateral Carnage | 12.00% | ~7,325 |
@@ -34,7 +34,7 @@ Number of Ratings: 524  (23.09.2022)
 | Two For the Price of One | 10.00% | ~6,104 |
 | Energized! | 10.00% | ~6,104 |
 | Right of Way | 9.00% | ~5,494 |
-| What Light Through Yonder Window | 8.00% | ~4,883 |
+| What Light Through Yonder Window | 8.00% | ~4,884 |
 | A Friend in Need | 8.00% | ~1,961 |
 | Tornado Wrangler | 7.00% | ~4,273 |
 | Departure | 7.00% | ~4,273 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~61 |
 | No Punctuation | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,042 (Ranked 85)  
+Progressed: 61,045 (Ranked 85)  
 Completed: 64 (0.10%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 64 (0.10%) (Ranked 205)
 | 2023-08-15 | 60,907 | 64 |
 | 2023-08-16 | 60,965 | 64 |
 | 2023-08-17 | 61,025 | 64 |
-| 2023-08-18 | 61,042 | 64 |
+| 2023-08-18 | 61,045 | 64 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -2,10 +2,10 @@
   "ID": "8b8d2e16c20b4300ae0dc66db4d630ba",
   "Name": "Stray Blade",
   "ProductSlug": "stray-blade",
-  "Ranking_EOS_Progress": 378,
+  "Ranking_EOS_Progress": 374,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 272,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 47,
+  "EOS_Progressed": 48,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -246,6 +246,11 @@
       "Time": "2023-08-17T17:07:10.3772175+00:00",
       "NumProgressed": 47,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-18T11:08:00.39751+00:00",
+      "NumProgressed": 48,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 46,
@@ -297,7 +302,7 @@
       "Name": "Tinkerer",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_DEFEAT_BOSS_INGLA",
@@ -311,9 +316,9 @@
       "ID": "ACH_DEFEAT_BOSS_TEZUTH",
       "SetID": "7i20me3",
       "Name": "Defeat Tezuth",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_DEFEAT_BOSS_USKOL",
@@ -337,13 +342,13 @@
       "Name": "Self-Defence",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_ENTER_REGION_BEAR",
       "SetID": "7i20me3",
       "Name": "Freezing Cold",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -503,9 +508,9 @@
       "ID": "ACH_FIND_WOODEN_CLUB",
       "SetID": "7i20me3",
       "Name": "Welcome to the Club",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_FINISH_GAME",
@@ -527,7 +532,7 @@
       "ID": "ACH_OPEN_TEMPLE_GATE",
       "SetID": "7i20me3",
       "Name": "A new World ahead",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 12
     },
@@ -599,7 +604,7 @@
       "ID": "ACH_UNLOCK_ABILITY_INTIUM",
       "SetID": "7i20me3",
       "Name": "The Golden Flash",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -607,7 +612,7 @@
       "ID": "ACH_UNLOCK_ABILITY_MANNINITE",
       "SetID": "7i20me3",
       "Name": "The Power of the Mountains",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -624,22 +629,22 @@
     {
       "ID": "7i20me3",
       "IsBase": true,
-      "Progressed": 47,
+      "Progressed": 48,
       "Completed": 0
     },
     {
       "ID": "doc1i1",
       "IsBase": false,
-      "Progressed": 45,
-      "Completed": 45
+      "Progressed": 46,
+      "Completed": 46
     }
   ],
   "FirstSeen": "2023-04-20T22:59:51.7384582+00:00",
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-08-18T10:08:10.6909403+00:00",
+  "LastChanged_Achievements": "2023-08-18T11:08:00.3975093+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:32.6362658+00:00",
-  "LastUpdate_Ratings": "2023-08-18T10:00:20.4275684+00:00",
-  "LastUpdate_Achievements": "2023-08-18T10:08:10.6910282+00:00"
+  "LastUpdate_Ratings": "2023-08-18T11:00:18.7340692+00:00",
+  "LastUpdate_Achievements": "2023-08-18T11:08:00.3975476+00:00"
 }

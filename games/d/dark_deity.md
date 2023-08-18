@@ -1,15 +1,15 @@
 # Dark Deity
 [Store](https://store.epicgames.com/en-US/p/dark-deity-0b08d1)  
 [View Rawdata](../../db/d/dark_deity.json)  
-Rating: 4.16 (Ranked 882)  
+Rating: 4.16 (Ranked 883)  
 Number of Ratings: 24  (23.09.2022)  
 ## Awards
-Max (Character Customization): 609  (Ranked 180)  
-Sum: 857 (Ranked 255)  
+Max (Character Customization): 610  (Ranked 180)  
+Sum: 858 (Ranked 255)  
 Diff (max vs sum): -75  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 609 |
+| This game has Inclusive Character Customization | 610 |
 | This game has Quickly Understood Controls | 34 |
 | This game has Amazing Storytelling | 31 |
 | This game has Diverse Characters | 30 |
@@ -55,3 +55,4 @@ Diff (max vs sum): -75
 | 2023-07-26 | 4.16 | - | 609 | 855 |
 | 2023-08-02 | 4.16 | - | 609 | 856 |
 | 2023-08-10 | 4.16 | - | 609 | 857 |
+| 2023-08-18 | 4.16 | - | 610 | 858 |

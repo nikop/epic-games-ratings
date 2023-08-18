@@ -2,13 +2,13 @@
   "ID": "144f9e231e2846d1a4381d9bb678f69d",
   "Name": "Warhammer 40,000: Mechanicus - Standard Edition",
   "ProductSlug": "warhammer-mechanicus-0e4b71",
-  "Ranking_Rating": 662,
+  "Ranking_Rating": 663,
   "Ranking_Popularity": 240,
   "Ranking_PopularitySum": 194,
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 67,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -563,7 +563,7 @@
   ],
   "EOS_Progressed": 220492,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 624,
+  "EOS_NewPlayers": 620,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13811,8 +13811,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-08-17T07:59:55.1961024+00:00",
-  "LastChanged_Achievements": "2023-08-18T10:04:08.5714632+00:00",
+  "LastChanged_Achievements": "2023-08-18T11:03:57.746648+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:14.4615999+00:00",
-  "LastUpdate_Ratings": "2023-08-18T10:01:17.1897468+00:00",
-  "LastUpdate_Achievements": "2023-08-18T10:04:08.5715717+00:00"
+  "LastUpdate_Ratings": "2023-08-18T11:01:15.0651275+00:00",
+  "LastUpdate_Achievements": "2023-08-18T11:03:57.746822+00:00"
 }

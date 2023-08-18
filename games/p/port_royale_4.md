@@ -1,7 +1,7 @@
 # Port Royale 4
 [Store](https://store.epicgames.com/en-US/p/port-royale-4)  
 [View Rawdata](../../db/p/port_royale_4.json)  
-Rating: 4.03 (Ranked 928)  
+Rating: 4.03 (Ranked 929)  
 Number of Ratings: 53  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -13,8 +13,8 @@ Number of Ratings: 53  (23.09.2022)
 | Gofer | 56.00% | ~466 |
 | O Captain! My Captain! | 54.00% | ~450 |
 | Seafarer | 53.00% | ~441 |
+| Intangible | 42.00% | ~350 |
 | Greed for gold | 42.00% | ~350 |
-| Intangible | 41.00% | ~342 |
 | I'm out of here for a while | 41.00% | ~342 |
 | In a mint condition | 37.00% | ~308 |
 | Licence to Kill | 35.00% | ~292 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Fleet Admiral | 0.60% | ~5 |
 | Davy Jones' locker | 0.40% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 833 (Ranked 205)  
+Progressed: 833 (Ranked 206)  
 Completed: 1 (0.12%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |

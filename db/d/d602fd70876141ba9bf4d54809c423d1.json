@@ -4,8 +4,8 @@
   "ProductSlug": "the-evil-within",
   "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
     "PcReleaseDate": "2014-07-13T00:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 66,
+  "EOS_Progressed": 67,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -344,6 +344,11 @@
       "Time": "2023-08-18T01:43:10.2904402+00:00",
       "NumProgressed": 66,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-18T11:05:32.8174138+00:00",
+      "NumProgressed": 67,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T16:01:32.1694174+00:00",
@@ -354,7 +359,7 @@
       "ID": "ACHIEVEMENT_01",
       "SetID": "ap8553i",
       "Name": "What\u0027s in the Box?",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 20,
       "UsersEstimate": 19
     },
@@ -362,7 +367,7 @@
       "ID": "ACHIEVEMENT_02",
       "SetID": "ap8553i",
       "Name": "Old Flame",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 20,
       "UsersEstimate": 15
     },
@@ -370,7 +375,7 @@
       "ID": "ACHIEVEMENT_03",
       "SetID": "ap8553i",
       "Name": "Weapon of Choice",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
       "UsersEstimate": 13
     },
@@ -378,7 +383,7 @@
       "ID": "ACHIEVEMENT_04",
       "SetID": "ap8553i",
       "Name": "Two on Two",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 25,
       "UsersEstimate": 11
     },
@@ -386,7 +391,7 @@
       "ID": "ACHIEVEMENT_05",
       "SetID": "ap8553i",
       "Name": "The First, Not the Last",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 40,
       "UsersEstimate": 7
     },
@@ -394,7 +399,7 @@
       "ID": "ACHIEVEMENT_06",
       "SetID": "ap8553i",
       "Name": "Arachnophobia",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
       "UsersEstimate": 5
     },
@@ -410,7 +415,7 @@
       "ID": "ACHIEVEMENT_08",
       "SetID": "ap8553i",
       "Name": "One of the Many",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 45,
       "UsersEstimate": 3
     },
@@ -418,7 +423,7 @@
       "ID": "ACHIEVEMENT_09",
       "SetID": "ap8553i",
       "Name": "First Step into Darkness",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -426,7 +431,7 @@
       "ID": "ACHIEVEMENT_10",
       "SetID": "ap8553i",
       "Name": "Another Day on the Job",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -474,7 +479,7 @@
       "ID": "ACHIEVEMENT_16",
       "SetID": "ap8553i",
       "Name": "The Power of Three",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -482,7 +487,7 @@
       "ID": "ACHIEVEMENT_17",
       "SetID": "ap8553i",
       "Name": "Unstoppable Arsenal",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -490,7 +495,7 @@
       "ID": "ACHIEVEMENT_18",
       "SetID": "ap8553i",
       "Name": "Why Can\u0027t I Hold All This Ammo?",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -530,7 +535,7 @@
       "ID": "ACHIEVEMENT_23",
       "SetID": "ap8553i",
       "Name": "...And the Corpses Mount",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 17
     },
@@ -570,7 +575,7 @@
       "ID": "ACHIEVEMENT_28",
       "SetID": "ap8553i",
       "Name": "Drop It Like It\u0027s Hot",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -626,7 +631,7 @@
       "ID": "ACHIEVEMENT_35",
       "SetID": "ap8553i",
       "Name": "Not Part of the Job Description",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -682,7 +687,7 @@
       "ID": "ACHIEVEMENT_42",
       "SetID": "8ddjaeg",
       "Name": "Prank Call",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -690,7 +695,7 @@
       "ID": "ACHIEVEMENT_43",
       "SetID": "8ddjaeg",
       "Name": "Clutch!",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -714,7 +719,7 @@
       "ID": "ACHIEVEMENT_46",
       "SetID": "8ddjaeg",
       "Name": "A Different Beginning",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -722,7 +727,7 @@
       "ID": "ACHIEVEMENT_47",
       "SetID": "8ddjaeg",
       "Name": "Not as it Seems",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -730,7 +735,7 @@
       "ID": "ACHIEVEMENT_48",
       "SetID": "8ddjaeg",
       "Name": "Doctor\u0027s Notes",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -738,7 +743,7 @@
       "ID": "ACHIEVEMENT_49",
       "SetID": "8ddjaeg",
       "Name": "A Piece of My Past",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -746,7 +751,7 @@
       "ID": "ACHIEVEMENT_50",
       "SetID": "8ddjaeg",
       "Name": "A Warning",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -754,7 +759,7 @@
       "ID": "ACHIEVEMENT_51",
       "SetID": "8ddjaeg",
       "Name": "Not Afraid of the Dark",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -762,7 +767,7 @@
       "ID": "ACHIEVEMENT_52",
       "SetID": "8ddjaeg",
       "Name": "Fumbling in the Dark",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -794,7 +799,7 @@
       "ID": "ACHIEVEMENT_56",
       "SetID": "8ddjaeg",
       "Name": "Things Fall Apart",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -802,7 +807,7 @@
       "ID": "ACHIEVEMENT_57",
       "SetID": "8ddjaeg",
       "Name": "Where Do We Go From Here?",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -818,7 +823,7 @@
       "ID": "ACHIEVEMENT_59",
       "SetID": "8ddjaeg",
       "Name": "Becoming an Agent",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -923,20 +928,20 @@
     {
       "ID": "8ddjaeg",
       "IsBase": false,
-      "Progressed": 66,
+      "Progressed": 67,
       "Completed": 0
     },
     {
       "ID": "ap8553i",
       "IsBase": true,
-      "Progressed": 66,
+      "Progressed": 67,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-04T21:57:01.9865679+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5206267+00:00",
-  "LastChanged_Achievements": "2023-08-18T10:05:42.6305847+00:00",
+  "LastChanged_Achievements": "2023-08-18T11:05:32.817413+00:00",
   "LastUpdate_AppInfo": "2023-08-16T16:57:24.4284709+00:00",
-  "LastUpdate_Ratings": "2023-08-18T09:58:28.5956524+00:00",
-  "LastUpdate_Achievements": "2023-08-18T10:05:42.6307329+00:00"
+  "LastUpdate_Ratings": "2023-08-18T10:58:21.7978376+00:00",
+  "LastUpdate_Achievements": "2023-08-18T11:05:32.8175201+00:00"
 }

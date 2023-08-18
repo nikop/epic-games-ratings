@@ -1,22 +1,22 @@
 # Lawn Mowing Simulator
 [Store](https://store.epicgames.com/en-US/p/lawn-mowing-simulator-838bf3)  
 [View Rawdata](../../db/l/lawn_mowing_simulator.json)  
-Rating: 4.07 (Ranked 918)  
+Rating: 4.07 (Ranked 919)  
 Number of Ratings: 5,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 80.00% | ~524,557 |
-| Every story has a beginning | 36.00% | ~236,051 |
-| The first of many | 32.00% | ~209,823 |
-| Positive word of mouth | 18.00% | ~118,025 |
-| Lawn in the U.S.A. | 15.00% | ~98,354 |
-| Blade Runner | 9.00% | ~59,013 |
-| Credible | 7.00% | ~45,899 |
-| Teamwork makes the dream work | 6.00% | ~39,342 |
-| Where there's muck there's brass | 4.00% | ~26,228 |
-| Bigger and better | 4.00% | ~26,228 |
-| Aggressive expansion | 4.00% | ~26,228 |
+| The dream begins | 80.00% | ~524,570 |
+| Every story has a beginning | 36.00% | ~236,057 |
+| The first of many | 32.00% | ~209,828 |
+| Positive word of mouth | 18.00% | ~118,028 |
+| Lawn in the U.S.A. | 15.00% | ~98,357 |
+| Blade Runner | 9.00% | ~59,014 |
+| Credible | 7.00% | ~45,900 |
+| Teamwork makes the dream work | 6.00% | ~39,343 |
+| Where there's muck there's brass | 4.00% | ~26,229 |
+| Bigger and better | 4.00% | ~26,229 |
+| Aggressive expansion | 4.00% | ~26,229 |
 | Size isn't everything | 3.00% | ~19,671 |
 | Close shave | 3.00% | ~19,671 |
 | Established | 3.00% | ~19,671 |
@@ -61,7 +61,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~656 |
 | Mo mowers, mo problems | 0.10% | ~656 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 655,696 (Ranked 24)  
+Progressed: 655,713 (Ranked 24)  
 Completed: 15 (0.00%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 15 (0.00%) (Ranked 259)
 | 2023-08-15 | 654,953 | 15 |
 | 2023-08-16 | 655,270 | 15 |
 | 2023-08-17 | 655,587 | 15 |
-| 2023-08-18 | 655,696 | 15 |
+| 2023-08-18 | 655,713 | 15 |
 ## Awards
 Max (Quickly Understood Controls): 181  (Ranked 281)  
 Sum: 974 (Ranked 239)  

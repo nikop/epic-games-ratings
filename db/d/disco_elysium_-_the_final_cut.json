@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 239,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1265,9 +1265,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 126413,
+  "EOS_Progressed": 126414,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 402,
+  "EOS_NewPlayers": 399,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -13200,6 +13200,11 @@
       "Time": "2023-08-18T10:05:57.7496246+00:00",
       "NumProgressed": 126413,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-08-18T11:05:47.7485234+00:00",
+      "NumProgressed": 126414,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 40,
@@ -13243,7 +13248,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 22754
+      "UsersEstimate": 22755
     },
     {
       "ID": "ACH_COP_BAD",
@@ -13355,7 +13360,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 13905
+      "UsersEstimate": 13906
     },
     {
       "ID": "ACH_CUNO",
@@ -13530,15 +13535,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 126413,
+      "Progressed": 126414,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-08-17T20:00:03.2931441+00:00",
-  "LastChanged_Achievements": "2023-08-18T10:05:57.749624+00:00",
+  "LastChanged_Achievements": "2023-08-18T11:05:47.7485227+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:59.4029348+00:00",
-  "LastUpdate_Ratings": "2023-08-18T10:02:09.667306+00:00",
-  "LastUpdate_Achievements": "2023-08-18T10:05:57.7498133+00:00"
+  "LastUpdate_Ratings": "2023-08-18T11:02:10.4650251+00:00",
+  "LastUpdate_Achievements": "2023-08-18T11:05:47.7486537+00:00"
 }
