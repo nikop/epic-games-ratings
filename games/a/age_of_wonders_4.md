@@ -30,13 +30,13 @@ Rating: 4.61 (Ranked 365)
 | Return of the Wizard King | 3.00% | ~154 |
 | Arch Mage | 3.00% | ~154 |
 | Enchanted Archipelago | 3.00% | ~154 |
+| The Goddess of Nature | 3.00% | ~154 |
 | Digging for Treasure | 3.00% | ~154 |
 | Preparation Is Everything | 3.00% | ~154 |
 | The Magic That Empowers Me! | 2.00% | ~102 |
 | God Emperor | 2.00% | ~102 |
 | Lord of Chaos | 2.00% | ~102 |
 | The Creator | 2.00% | ~102 |
-| The Goddess of Nature | 2.00% | ~102 |
 | Eternal Lord | 2.00% | ~102 |
 | Crimson Caldera | 2.00% | ~102 |
 | The Eternal Court | 2.00% | ~102 |

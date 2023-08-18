@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 219,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 44,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -3060,7 +3060,7 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 71989,
+  "EOS_Progressed": 71990,
   "EOS_Completed": 41,
   "EOS_NewPlayers": 310,
   "EOS_NewCompleters": 3,
@@ -15630,6 +15630,11 @@
       "Time": "2023-08-18T21:07:38.7962436+00:00",
       "NumProgressed": 71989,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-08-18T22:06:25.5978148+00:00",
+      "NumProgressed": 71990,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 37,
@@ -15641,7 +15646,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 35994
+      "UsersEstimate": 35995
     },
     {
       "ID": "ACH_0011",
@@ -15681,7 +15686,7 @@
       "Name": "Legend Looter",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3599
+      "UsersEstimate": 3600
     },
     {
       "ID": "ACH_0016",
@@ -15785,7 +15790,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 46793
+      "UsersEstimate": 46794
     },
     {
       "ID": "ACH_0210",
@@ -15793,7 +15798,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 53272
+      "UsersEstimate": 53273
     },
     {
       "ID": "ACH_0211",
@@ -15865,7 +15870,7 @@
       "Name": "King of the Hill",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 24476
+      "UsersEstimate": 24477
     },
     {
       "ID": "ACH_0430",
@@ -15936,22 +15941,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 71989,
+      "Progressed": 71990,
       "Completed": 41
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 336,
-      "Completed": 336
+      "Progressed": 337,
+      "Completed": 337
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-08-18T14:57:41.7090014+00:00",
-  "LastChanged_Achievements": "2023-08-18T21:07:38.796243+00:00",
+  "LastChanged_Achievements": "2023-08-18T22:06:25.5978143+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:57.6056168+00:00",
-  "LastUpdate_Ratings": "2023-08-18T20:57:26.9406794+00:00",
-  "LastUpdate_Achievements": "2023-08-18T21:07:38.7963217+00:00"
+  "LastUpdate_Ratings": "2023-08-18T21:57:27.6833936+00:00",
+  "LastUpdate_Achievements": "2023-08-18T22:06:25.5978956+00:00"
 }

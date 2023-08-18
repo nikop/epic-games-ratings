@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 113,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3482,9 +3482,9 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 10991,
+  "EOS_Progressed": 10992,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10952,6 +10952,11 @@
       "Time": "2023-08-18T17:05:40.875952+00:00",
       "NumProgressed": 10991,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-18T22:04:46.4537235+00:00",
+      "NumProgressed": 10992,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -10995,7 +11000,7 @@
       "Name": "Embrace of the Abyss",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 659
+      "UsersEstimate": 660
     },
     {
       "ID": "06_HeartOfFallenLand",
@@ -11019,7 +11024,7 @@
       "Name": "Path of the Angel",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 659
+      "UsersEstimate": 660
     },
     {
       "ID": "09_PathOfDemon",
@@ -11355,7 +11360,7 @@
       "Name": "Demonic and Divine",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 659
+      "UsersEstimate": 660
     },
     {
       "ID": "52_TrulyImportantDeed",
@@ -11890,21 +11895,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9773,
+      "Progressed": 9774,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10991,
+      "Progressed": 10992,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-08-18T19:00:41.4029375+00:00",
-  "LastChanged_Achievements": "2023-08-18T21:05:24.2501308+00:00",
+  "LastChanged_Achievements": "2023-08-18T22:04:46.453723+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:11.5447906+00:00",
-  "LastUpdate_Ratings": "2023-08-18T21:00:44.4372014+00:00",
-  "LastUpdate_Achievements": "2023-08-18T21:05:24.2502859+00:00"
+  "LastUpdate_Ratings": "2023-08-18T21:59:50.1595719+00:00",
+  "LastUpdate_Achievements": "2023-08-18T22:04:46.4539011+00:00"
 }

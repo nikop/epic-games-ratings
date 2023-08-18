@@ -5,15 +5,15 @@ Rating: 4.18 (Ranked 871)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~33,946 |
+| First Step Into the Knight | 50.00% | ~33,948 |
 | Har, Har, Har, Very Funny | 35.00% | ~23,763 |
 | Loose Ends | 34.00% | ~23,084 |
-| To the Victor Go the Spoils | 28.00% | ~19,010 |
-| Knighthood | 27.00% | ~18,331 |
-| Get ReQ'd | 25.00% | ~16,973 |
-| Whispered Words | 25.00% | ~16,973 |
-| The Batman Family | 22.00% | ~14,936 |
-| Lock and Key | 22.00% | ~14,936 |
+| To the Victor Go the Spoils | 28.00% | ~19,011 |
+| Knighthood | 27.00% | ~18,332 |
+| Get ReQ'd | 25.00% | ~16,974 |
+| Whispered Words | 25.00% | ~16,974 |
+| The Batman Family | 22.00% | ~14,937 |
+| Lock and Key | 22.00% | ~14,937 |
 | Something in the Clay | 21.00% | ~14,258 |
 | Quartzer Life Crisis | 20.00% | ~13,579 |
 | Working Hard or Harley Working? | 20.00% | ~13,579 |
@@ -35,9 +35,9 @@ Rating: 4.18 (Ranked 871)
 | Bulldozed | 12.00% | ~8,147 |
 | Gotham Knight | 12.00% | ~8,147 |
 | Gotham City Confidential | 11.00% | ~7,468 |
-| Drone You Out | 10.00% | ~6,789 |
-| Out of Their League | 9.00% | ~6,110 |
-| Solid Alibi | 9.00% | ~6,110 |
+| Drone You Out | 10.00% | ~6,790 |
+| Out of Their League | 9.00% | ~6,111 |
+| Solid Alibi | 9.00% | ~6,111 |
 | Fusion Expert | 7.00% | ~4,753 |
 | Family Meeting | 6.00% | ~4,074 |
 | A Worthy Successor | 6.00% | ~4,074 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 871)
 | Element of Surprise | 0.20% | ~76 |
 | It's Nice to Be Wanted | 0.20% | ~76 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,893 (Ranked 80)  
+Progressed: 67,895 (Ranked 80)  
 Completed: 107 (0.16%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 107 (0.16%) (Ranked 191)
 | 2023-08-15 | 67,855 | 107 |
 | 2023-08-16 | 67,871 | 107 |
 | 2023-08-17 | 67,881 | 107 |
-| 2023-08-18 | 67,893 | 107 |
+| 2023-08-18 | 67,895 | 107 |
 ## Awards
 Max (Great Boss Battles): 2,507  (Ranked 100)  
 Sum: 4,175 (Ranked 139)  

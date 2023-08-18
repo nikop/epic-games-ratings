@@ -5,7 +5,7 @@ Rating: 4.56 (Ranked 472)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Huzza, he's back. | 87.00% | ~327 |
+| Huzza, he's back. | 88.00% | ~331 |
 | And again, and again, and... | 64.00% | ~241 |
 | Burn, Elysium, burn! | 62.00% | ~233 |
 | Kuvaq Minigame-Master | 60.00% | ~226 |
@@ -36,9 +36,9 @@ Rating: 4.56 (Ranked 472)
 | Sadist | 8.00% | ~30 |
 | The customer is always right | 7.00% | ~26 |
 | Apoca...huh? | 7.00% | ~26 |
+| Distraction | 6.00% | ~23 |
 | Pacifist | 6.00% | ~23 |
 | Against better judgement | 6.00% | ~23 |
-| Distraction | 5.00% | ~19 |
 | Every man for himself! | 5.00% | ~19 |
 | 1001 Jackalopes | 2.00% | ~8 |
 ## Popularity (Based on EOS Achievements)

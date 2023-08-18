@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -226,7 +226,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17469,
+  "EOS_Progressed": 17471,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 190,
   "EOS_NewCompleters": 0,
@@ -8556,6 +8556,11 @@
       "Time": "2023-08-18T21:05:50.9898094+00:00",
       "NumProgressed": 17469,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-18T22:05:06.1222376+00:00",
+      "NumProgressed": 17471,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -8567,7 +8572,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5066
+      "UsersEstimate": 5067
     },
     {
       "ID": "0002",
@@ -8575,7 +8580,7 @@
       "Name": "License to Thrill",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "0003",
@@ -8623,7 +8628,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3144
+      "UsersEstimate": 3145
     },
     {
       "ID": "0009",
@@ -8751,7 +8756,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 3843
+      "UsersEstimate": 3844
     },
     {
       "ID": "0025",
@@ -8759,7 +8764,7 @@
       "Name": "Tailor-Made",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3144
+      "UsersEstimate": 3145
     },
     {
       "ID": "0026",
@@ -8767,7 +8772,7 @@
       "Name": "The Living Portrait",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2096
+      "UsersEstimate": 2097
     },
     {
       "ID": "0027",
@@ -8799,7 +8804,7 @@
       "Name": "For your Eyes only",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3144
+      "UsersEstimate": 3145
     },
     {
       "ID": "0031",
@@ -8807,7 +8812,7 @@
       "Name": "Private Collection",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2096
+      "UsersEstimate": 2097
     },
     {
       "ID": "0032",
@@ -8815,7 +8820,7 @@
       "Name": "Killer Looks",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2096
+      "UsersEstimate": 2097
     },
     {
       "ID": "0033",
@@ -8823,7 +8828,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2096
+      "UsersEstimate": 2097
     },
     {
       "ID": "0034",
@@ -8831,7 +8836,7 @@
       "Name": "Smells Like Trouble",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2096
+      "UsersEstimate": 2097
     },
     {
       "ID": "0035",
@@ -8854,7 +8859,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17469,
+      "Progressed": 17471,
       "Completed": 1
     }
   ],
@@ -8862,8 +8867,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-12T19:04:41.1874293+00:00",
-  "LastChanged_Achievements": "2023-08-18T21:05:50.989809+00:00",
+  "LastChanged_Achievements": "2023-08-18T22:05:06.1222368+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:38.5697724+00:00",
-  "LastUpdate_Ratings": "2023-08-18T20:57:06.3060179+00:00",
-  "LastUpdate_Achievements": "2023-08-18T21:05:50.9898686+00:00"
+  "LastUpdate_Ratings": "2023-08-18T21:57:13.1916515+00:00",
+  "LastUpdate_Achievements": "2023-08-18T22:05:06.1223029+00:00"
 }

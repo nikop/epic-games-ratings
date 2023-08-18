@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 143,
-  "Ranking_EOS_NewPlayers": 77,
+  "Ranking_EOS_NewPlayers": 76,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 40970,
+  "EOS_Progressed": 40971,
   "EOS_Completed": 208,
-  "EOS_NewPlayers": 519,
+  "EOS_NewPlayers": 517,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -12284,6 +12284,11 @@
       "Time": "2023-08-18T21:06:42.3203421+00:00",
       "NumProgressed": 40970,
       "NumCompleted": 208
+    },
+    {
+      "Time": "2023-08-18T22:05:44.4434594+00:00",
+      "NumProgressed": 40971,
+      "NumCompleted": 208
     }
   ],
   "TotalAchievements": 44,
@@ -12375,7 +12380,7 @@
       "Name": "The Lookout",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 2048
+      "UsersEstimate": 2049
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -12415,7 +12420,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 32776
+      "UsersEstimate": 32777
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -12471,7 +12476,7 @@
       "Name": "Soul Reaver",
       "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 9013
+      "UsersEstimate": 9014
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -12527,7 +12532,7 @@
       "Name": "Engraved with Power",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 13110
+      "UsersEstimate": 13111
     },
     {
       "ID": "ACHIEVEMENT_38",
@@ -12535,7 +12540,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 25811
+      "UsersEstimate": 25812
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -12559,7 +12564,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 24582
+      "UsersEstimate": 24583
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -12567,7 +12572,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 27450
+      "UsersEstimate": 27451
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -12575,7 +12580,7 @@
       "Name": "The Spirit of Vengeance",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 2048
+      "UsersEstimate": 2049
     },
     {
       "ID": "ACHIEVEMENT_43",
@@ -12599,7 +12604,7 @@
       "Name": "I don\u2019t Care!",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 18436
+      "UsersEstimate": 18437
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -12607,7 +12612,7 @@
       "Name": "Hollow",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 2048
+      "UsersEstimate": 2049
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -12631,7 +12636,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 38102
+      "UsersEstimate": 38103
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -12639,14 +12644,14 @@
       "Name": "Revenant",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 21304
+      "UsersEstimate": 21305
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 40970,
+      "Progressed": 40971,
       "Completed": 208
     }
   ],
@@ -12654,8 +12659,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-06-11T14:58:10.4478603+00:00",
-  "LastChanged_Achievements": "2023-08-18T21:06:42.3203416+00:00",
+  "LastChanged_Achievements": "2023-08-18T22:05:44.443459+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:05.4781923+00:00",
-  "LastUpdate_Ratings": "2023-08-18T21:00:38.9521757+00:00",
-  "LastUpdate_Achievements": "2023-08-18T21:06:42.3204267+00:00"
+  "LastUpdate_Ratings": "2023-08-18T21:59:44.9135825+00:00",
+  "LastUpdate_Achievements": "2023-08-18T22:05:44.4435441+00:00"
 }

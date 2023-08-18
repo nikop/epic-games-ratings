@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 68,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -561,9 +561,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 220525,
+  "EOS_Progressed": 220527,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 613,
+  "EOS_NewPlayers": 615,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13571,6 +13571,11 @@
       "Time": "2023-08-18T21:03:46.4951449+00:00",
       "NumProgressed": 220525,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-18T22:03:34.1968765+00:00",
+      "NumProgressed": 220527,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -13590,7 +13595,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 55131
+      "UsersEstimate": 55132
     },
     {
       "ID": "ACH_BASE_11",
@@ -13654,7 +13659,7 @@
       "Name": "Battle Servitor",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4410
+      "UsersEstimate": 4411
     },
     {
       "ID": "ACH_BASE_2",
@@ -13678,7 +13683,7 @@
       "Name": "Ding Dong Szaregon\u0027s Gone",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4410
+      "UsersEstimate": 4411
     },
     {
       "ID": "ACH_BASE_22",
@@ -13686,7 +13691,7 @@
       "Name": "Impatient destruction",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 4410
+      "UsersEstimate": 4411
     },
     {
       "ID": "ACH_BASE_23",
@@ -13814,7 +13819,7 @@
       "Name": "Vivisected Vizier",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4410
+      "UsersEstimate": 4411
     },
     {
       "ID": "ACH_BASE_6",
@@ -13822,7 +13827,7 @@
       "Name": "Architect Abortion",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4410
+      "UsersEstimate": 4411
     },
     {
       "ID": "ACH_BASE_7",
@@ -13853,7 +13858,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 220525,
+      "Progressed": 220527,
       "Completed": 5
     }
   ],
@@ -13861,8 +13866,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-08-17T07:59:55.1961024+00:00",
-  "LastChanged_Achievements": "2023-08-18T21:03:46.4951437+00:00",
+  "LastChanged_Achievements": "2023-08-18T22:03:34.1968761+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:14.4615999+00:00",
-  "LastUpdate_Ratings": "2023-08-18T21:00:49.6293357+00:00",
-  "LastUpdate_Achievements": "2023-08-18T21:03:46.495223+00:00"
+  "LastUpdate_Ratings": "2023-08-18T21:59:53.2604058+00:00",
+  "LastUpdate_Achievements": "2023-08-18T22:03:34.1969573+00:00"
 }

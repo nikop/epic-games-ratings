@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
     "PcReleaseDate": "2017-06-30T00:00:00+00:00",
@@ -362,9 +362,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6071,
+  "EOS_Progressed": 6072,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4492,6 +4492,11 @@
       "Time": "2023-08-18T05:04:11.8746009+00:00",
       "NumProgressed": 6071,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-18T22:04:17.752347+00:00",
+      "NumProgressed": 6072,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -4511,7 +4516,7 @@
       "Name": "Amy",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "Amy_Scav",
@@ -4751,15 +4756,15 @@
       "Name": "Inspector",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ItSmellsLikeRoses",
       "SetID": "5f3a6d9",
       "Name": "It Smells Like Roses",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "Katherine",
@@ -4887,7 +4892,7 @@
       "Name": "Social Butterfly",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "Stephanie",
@@ -5054,21 +5059,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 3110,
+      "Progressed": 3111,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 6071,
+      "Progressed": 6072,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-07-26T20:57:57.6865468+00:00",
-  "LastChanged_Achievements": "2023-08-18T21:04:46.0781057+00:00",
+  "LastChanged_Achievements": "2023-08-18T22:04:17.7523466+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:16.0596373+00:00",
-  "LastUpdate_Ratings": "2023-08-18T20:59:27.736354+00:00",
-  "LastUpdate_Achievements": "2023-08-18T21:04:46.0781806+00:00"
+  "LastUpdate_Ratings": "2023-08-18T21:58:54.5457756+00:00",
+  "LastUpdate_Achievements": "2023-08-18T22:04:17.7524201+00:00"
 }

@@ -7,25 +7,25 @@ Number of Ratings: 45  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Cost of Heroism | 39.00% | ~534 |
-| Me and My Familiar | 37.00% | ~506 |
+| Me and My Familiar | 37.00% | ~507 |
 | This Too Shall Pass | 31.00% | ~424 |
-| Passing Shadow | 30.00% | ~410 |
-| Cutthroat Competitors | 30.00% | ~410 |
+| Passing Shadow | 30.00% | ~411 |
+| Cutthroat Competitors | 30.00% | ~411 |
 | How Romantic! | 28.00% | ~383 |
-| Daybreak | 27.00% | ~369 |
-| Gotta Ca... Must Collect All of Them | 26.00% | ~356 |
+| Daybreak | 27.00% | ~370 |
+| Gotta Ca... Must Collect All of Them | 25.00% | ~342 |
 | Completing the Look | 14.00% | ~192 |
 | War Endured | 14.00% | ~192 |
 | Core Failure | 14.00% | ~192 |
 | A Mythic Menagerie | 13.00% | ~178 |
 | Who's Counting? | 13.00% | ~178 |
-| Pyrrhic Victory | 11.00% | ~150 |
+| Pyrrhic Victory | 11.00% | ~151 |
 | Echoes Die | 10.00% | ~137 |
 | Thematic Divergence | 9.00% | ~123 |
-| Plague Doctor | 8.00% | ~109 |
-| Chain Reaction | 8.00% | ~109 |
-| Everfading | 8.00% | ~109 |
-| Another Tale to Tell | 8.00% | ~109 |
+| Plague Doctor | 8.00% | ~110 |
+| Chain Reaction | 8.00% | ~110 |
+| Everfading | 8.00% | ~110 |
+| Another Tale to Tell | 8.00% | ~110 |
 | Let Me Get My Chisel | 7.00% | ~96 |
 | A Story of Heroes | 7.00% | ~96 |
 | All My Birds, Safely Home | 6.00% | ~82 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | We Call That Mortificient! | 0.90% | ~12 |
 | Peacemaker | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,368 (Ranked 187)  
+Progressed: 1,369 (Ranked 186)  
 Completed: 5 (0.37%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 5 (0.37%) (Ranked 159)
 | 2023-08-12 | 1,364 | 5 |
 | 2023-08-13 | 1,366 | 5 |
 | 2023-08-14 | 1,367 | 5 |
-| 2023-08-18 | 1,368 | 5 |
+| 2023-08-18 | 1,369 | 5 |
 ## Awards
 Max (Character Customization): 28  (Ranked 467)  
 Sum: 28 (Ranked 479)  

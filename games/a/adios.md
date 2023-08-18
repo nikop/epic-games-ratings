@@ -18,7 +18,7 @@ Rating: 3.53 (Ranked 970)
 | Vinyl Vibes | 8.00% | ~5,636 |
 | Nothing Left to Say | 7.00% | ~4,931 |
 | Sniper | 7.00% | ~4,931 |
-| Cut Call | 5.00% | ~3,522 |
+| Cut Call | 6.00% | ~4,227 |
 | Butcher | 4.00% | ~2,818 |
 | Magnetic Miracles | 4.00% | ~2,818 |
 | Spicy | 4.00% | ~2,818 |
@@ -31,7 +31,7 @@ Rating: 3.53 (Ranked 970)
 | Audiophile | 2.00% | ~1,409 |
 | Tape Head | 2.00% | ~1,409 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 70,448 (Ranked 79)  
+Progressed: 70,449 (Ranked 79)  
 Completed: 712 (1.01%) (Ranked 115)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 712 (1.01%) (Ranked 115)
 | 2023-08-15 | 70,152 | 702 |
 | 2023-08-16 | 70,242 | 707 |
 | 2023-08-17 | 70,358 | 712 |
-| 2023-08-18 | 70,448 | 712 |
+| 2023-08-18 | 70,449 | 712 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
