@@ -6,15 +6,15 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 16.00% | ~101,646 |
-| Incurious | 16.00% | ~101,646 |
-| Climate Change | 15.00% | ~95,293 |
-| Stroller | 14.00% | ~88,940 |
-| Advanced Hiker | 12.00% | ~76,234 |
-| Toy Train | 12.00% | ~76,234 |
-| Hiker | 11.00% | ~69,881 |
-| Mojave Courier | 5.00% | ~31,764 |
-| Saved by Nausicaä | 4.00% | ~25,411 |
+| Advanced Stroller | 16.00% | ~101,649 |
+| Incurious | 16.00% | ~101,649 |
+| Climate Change | 15.00% | ~95,296 |
+| Stroller | 14.00% | ~88,943 |
+| Advanced Hiker | 12.00% | ~76,237 |
+| Toy Train | 12.00% | ~76,237 |
+| Hiker | 11.00% | ~69,884 |
+| Mojave Courier | 5.00% | ~31,765 |
+| Saved by Nausicaä | 4.00% | ~25,412 |
 | Voyager | 3.00% | ~19,059 |
 | Advanced Voyager | 3.00% | ~19,059 |
 | Expert Stroller | 3.00% | ~19,059 |
@@ -27,8 +27,8 @@ Number of Ratings: 21,990  (23.09.2022)
 | Expert Voyager | 0.60% | ~3,812 |
 | Nanuk | 0.60% | ~3,812 |
 | Shopaholic | 0.60% | ~3,812 |
-| Terminal Station | 0.50% | ~3,176 |
-| Dynamite Fishing | 0.50% | ~3,176 |
+| Terminal Station | 0.50% | ~3,177 |
+| Dynamite Fishing | 0.50% | ~3,177 |
 | Scrooge | 0.40% | ~2,541 |
 | Wayfarer | 0.30% | ~1,906 |
 | Advanced Wayfarer | 0.30% | ~1,906 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~635 |
 | 20 Miles under the Sea | 0.10% | ~635 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 635,286 (Ranked 26)  
+Progressed: 635,307 (Ranked 26)  
 Completed: 7 (0.00%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 7 (0.00%) (Ranked 259)
 | 2023-08-15 | 634,381 | 7 |
 | 2023-08-16 | 634,727 | 7 |
 | 2023-08-17 | 635,064 | 7 |
-| 2023-08-18 | 635,286 | 7 |
+| 2023-08-18 | 635,307 | 7 |
 ## Awards
 Max (Great for Beginners): 191  (Ranked 276)  
 Sum: 1,552 (Ranked 218)  

@@ -6,9 +6,9 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 23.00% | ~2,527 |
-| A Spark | 16.00% | ~1,758 |
-| Burning City | 15.00% | ~1,648 |
+| Devoured by Darkness | 23.00% | ~2,528 |
+| A Spark | 16.00% | ~1,759 |
+| Burning City | 15.00% | ~1,649 |
 | Mythic Choices | 13.00% | ~1,429 |
 | Defender's Heart | 13.00% | ~1,429 |
 | Banner over the Citadel | 12.00% | ~1,319 |
@@ -17,10 +17,10 @@ Number of Ratings: 1,354  (23.09.2022)
 | Embrace of the Abyss | 6.00% | ~659 |
 | Path of the Angel | 6.00% | ~659 |
 | Demonic and Divine | 6.00% | ~659 |
-| Transformation | 5.00% | ~549 |
-| Great Upstart | 5.00% | ~549 |
-| Voice from Your Dreams | 5.00% | ~549 |
-| All Paths Open | 5.00% | ~549 |
+| Transformation | 5.00% | ~550 |
+| Great Upstart | 5.00% | ~550 |
+| Voice from Your Dreams | 5.00% | ~550 |
+| All Paths Open | 5.00% | ~550 |
 | Path of the Azata | 4.00% | ~440 |
 | The Legacy | 4.00% | ~440 |
 | Divide and Rule | 4.00% | ~440 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,989 (Ranked 121)  
+Progressed: 10,991 (Ranked 121)  
 Completed: 0 (0.00%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,10 +243,10 @@ Completed: 0 (0.00%) (Ranked 259)
 | 2023-08-15 | 10,961 | 0 |
 | 2023-08-16 | 10,970 | 0 |
 | 2023-08-17 | 10,984 | 0 |
-| 2023-08-18 | 10,989 | 0 |
+| 2023-08-18 | 10,991 | 0 |
 ## Awards
 Max (Character Customization): 1,701  (Ranked 117)  
-Sum: 6,891 (Ranked 113)  
+Sum: 6,892 (Ranked 113)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
@@ -256,7 +256,7 @@ Diff (max vs sum): 4
 | This game has Amazing Characters | 628 |
 | This game has Diverse Characters | 616 |
 | This game has Amazing Storytelling | 606 |
-| This game has Challenging Combat | 572 |
+| This game has Challenging Combat | 573 |
 | This game has Quickly Understood Controls | 565 |
 | This game is Relaxing | 543 |
 | This game has a Creative Community | 384 |
@@ -458,3 +458,4 @@ Diff (max vs sum): 4
 | 2023-08-15 | 4.76 | - | 1,701 | 6,888 |
 | 2023-08-16 | 4.76 | - | 1,701 | 6,889 |
 | 2023-08-17 | 4.76 | - | 1,701 | 6,891 |
+| 2023-08-18 | 4.76 | - | 1,701 | 6,892 |

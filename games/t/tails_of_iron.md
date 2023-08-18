@@ -13,7 +13,7 @@ Rating: 4.53 (Ranked 514)
 | Two Handed Weapon | 57.00% | ~1,064 |
 | Defeat 25 Grubs | 53.00% | ~990 |
 | Rescue Redgi's Brothers | 52.00% | ~971 |
-| Collect Iron Ore | 47.00% | ~877 |
+| Collect Iron Ore | 48.00% | ~896 |
 | Kitchen Ready To Cook | 47.00% | ~877 |
 | Defeat 25 Mozis | 46.00% | ~859 |
 | Collect Gold | 45.00% | ~840 |

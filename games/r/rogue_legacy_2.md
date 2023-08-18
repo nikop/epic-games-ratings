@@ -24,10 +24,10 @@ Number of Ratings: 1,331  (23.09.2022)
 | Good Boy! | 0.40% | ~92 |
 | For Survival | 0.30% | ~69 |
 | For Love | 0.30% | ~69 |
+| For Pride | 0.30% | ~69 |
 | Jack of all Trades | 0.30% | ~69 |
 | For Wrath | 0.20% | ~46 |
 | For Penance | 0.20% | ~46 |
-| For Pride | 0.20% | ~46 |
 | K.O. | 0.20% | ~46 |
 | Just the Beginning | 0.20% | ~46 |
 | Wasted Betrayal | 0.20% | ~46 |
@@ -169,7 +169,7 @@ Completed: 35 (0.15%) (Ranked 196)
 | 2023-08-18 | 22,911 | 35 |
 ## Awards
 Max (Extremely Fun): 220  (Ranked 263)  
-Sum: 1,682 (Ranked 209)  
+Sum: 1,683 (Ranked 209)  
 Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
@@ -177,7 +177,7 @@ Diff (max vs sum): 54
 | This game has Quickly Understood Controls | 204 |
 | This game has Diverse Characters | 197 |
 | This game has Challenging Combat | 196 |
-| This game is Highly Recommended | 191 |
+| This game is Highly Recommended | 192 |
 | This game is Relaxing | 186 |
 | This game has Amazing Characters | 168 |
 | This game has Amazing Storytelling | 166 |
@@ -295,3 +295,4 @@ Diff (max vs sum): 54
 | 2023-08-14 | 4.85 | - | 220 | 1,679 |
 | 2023-08-15 | 4.85 | - | 220 | 1,680 |
 | 2023-08-16 | 4.85 | - | 220 | 1,682 |
+| 2023-08-18 | 4.85 | - | 220 | 1,683 |

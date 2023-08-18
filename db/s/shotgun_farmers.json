@@ -1178,9 +1178,9 @@
       "ID": "ach_first_harvest",
       "SetID": "cmg602e",
       "Name": "Seeds of War",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 198
+      "UsersEstimate": 201
     },
     {
       "ID": "ach_first_rocket_jump",
@@ -1402,9 +1402,9 @@
       "ID": "ach_sextaKill",
       "SetID": "cmg602e",
       "Name": "Eggtraordinary",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 37
     },
     {
       "ID": "ach_sniperKillNoScope",
@@ -1729,8 +1729,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-08-18T16:07:48.1841573+00:00",
+  "LastChanged_Achievements": "2023-08-18T17:08:14.8016902+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:01.056491+00:00",
-  "LastUpdate_Ratings": "2023-08-18T16:00:27.0558955+00:00",
-  "LastUpdate_Achievements": "2023-08-18T16:07:48.1842489+00:00"
+  "LastUpdate_Ratings": "2023-08-18T17:00:39.7951177+00:00",
+  "LastUpdate_Achievements": "2023-08-18T17:08:14.8017542+00:00"
 }

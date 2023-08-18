@@ -40,11 +40,11 @@ Number of Ratings: 371  (23.09.2022)
 | Tactical Flexibility | 0.40% | ~13 |
 | For the Machine God | 0.30% | ~9 |
 | Strike Force | 0.30% | ~9 |
+| Exterminator | 0.30% | ~9 |
 | Engine Kill | 0.30% | ~9 |
-| Exterminator | 0.20% | ~6 |
+| Death Comes For All | 0.30% | ~9 |
 | Exercise in Restraint | 0.20% | ~6 |
 | Harvest No More | 0.20% | ~6 |
-| Death Comes For All | 0.20% | ~6 |
 | True Mastery | 0.20% | ~6 |
 | Reign of Confusion | 0.20% | ~6 |
 | Suffer Not the Mutant | 0.20% | ~6 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Not a Mote of Corruption | 0.00% | ~0 |
 | Strategic Command | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,155 (Ranked 155)  
+Progressed: 3,156 (Ranked 155)  
 Completed: 0 (0.00%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,6 +189,7 @@ Completed: 0 (0.00%) (Ranked 259)
 | 2023-08-15 | 3,151 | 0 |
 | 2023-08-16 | 3,154 | 0 |
 | 2023-08-17 | 3,155 | 0 |
+| 2023-08-18 | 3,156 | 0 |
 ## Awards
 Max (Character Customization): 219  (Ranked 264)  
 Sum: 469 (Ranked 305)  

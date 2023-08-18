@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 113,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3396,10 +3396,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 6891,
       "NumberOfAwardsMax": 1701
+    },
+    {
+      "Time": "2023-08-18T17:00:57.3694203+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6892,
+      "NumberOfAwardsMax": 1701
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6891,
+  "NumberOfAwards": 6892,
   "NumberOfAwardsMax": 1701,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3461,7 +3467,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 572
+      "Count": 573
     },
     {
       "Text": "This game has a Creative Community",
@@ -3470,9 +3476,9 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 10989,
+  "EOS_Progressed": 10991,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10935,6 +10941,11 @@
       "Time": "2023-08-18T14:04:28.8829309+00:00",
       "NumProgressed": 10989,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-18T17:05:40.875952+00:00",
+      "NumProgressed": 10991,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -10946,7 +10957,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 2527
+      "UsersEstimate": 2528
     },
     {
       "ID": "02_BurningCity",
@@ -10954,7 +10965,7 @@
       "Name": "Burning City",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1648
+      "UsersEstimate": 1649
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -11074,7 +11085,7 @@
       "Name": "Transformation",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "18_MythicChoices",
@@ -11154,7 +11165,7 @@
       "Name": "Great Upstart",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "29_StrategicVictory",
@@ -11290,7 +11301,7 @@
       "Name": "Voice from Your Dreams",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "46_AllPathsOpen",
@@ -11298,7 +11309,7 @@
       "Name": "All Paths Open",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -11314,7 +11325,7 @@
       "Name": "A Spark",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1758
+      "UsersEstimate": 1759
     },
     {
       "ID": "49_Flame",
@@ -11873,21 +11884,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9771,
+      "Progressed": 9773,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10989,
+      "Progressed": 10991,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-08-17T16:00:31.1424714+00:00",
-  "LastChanged_Achievements": "2023-08-18T16:05:30.6764618+00:00",
+  "LastChanged": "2023-08-18T17:00:57.3694201+00:00",
+  "LastChanged_Achievements": "2023-08-18T17:05:40.8759515+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:11.5447906+00:00",
-  "LastUpdate_Ratings": "2023-08-18T16:00:39.8410044+00:00",
-  "LastUpdate_Achievements": "2023-08-18T16:05:30.6766893+00:00"
+  "LastUpdate_Ratings": "2023-08-18T17:00:57.3694207+00:00",
+  "LastUpdate_Achievements": "2023-08-18T17:05:40.8761119+00:00"
 }

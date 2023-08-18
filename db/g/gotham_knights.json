@@ -2406,18 +2406,24 @@
       "Rating": 4.18,
       "NumberOfAwards": 4173,
       "NumberOfAwardsMax": 2505
+    },
+    {
+      "Time": "2023-08-18T16:57:23.9002365+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4175,
+      "NumberOfAwardsMax": 2507
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4173,
-  "NumberOfAwardsMax": 2505,
+  "NumberOfAwards": 4175,
+  "NumberOfAwardsMax": 2507,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2505
+      "Count": 2507
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2474,9 +2480,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 67888,
+  "EOS_Progressed": 67889,
   "EOS_Completed": 107,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -12639,6 +12645,11 @@
       "Time": "2023-08-18T16:07:17.5379157+00:00",
       "NumProgressed": 67888,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2023-08-18T17:07:40.7788848+00:00",
+      "NumProgressed": 67889,
+      "NumCompleted": 107
     }
   ],
   "TotalAchievements": 61,
@@ -12698,7 +12709,7 @@
       "Name": "The Batman Family",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 14935
+      "UsersEstimate": 14936
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -12754,7 +12765,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 14256
+      "UsersEstimate": 14257
     },
     {
       "ID": "CLAYFACE_2",
@@ -12810,7 +12821,7 @@
       "Name": "Not On My Watch",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 8825
+      "UsersEstimate": 8826
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -12858,7 +12869,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 8825
+      "UsersEstimate": 8826
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -13058,7 +13069,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 14935
+      "UsersEstimate": 14936
     },
     {
       "ID": "MYSTERY_04",
@@ -13137,22 +13148,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 67888,
+      "Progressed": 67889,
       "Completed": 107
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 38168,
+      "Progressed": 38169,
       "Completed": 2658
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-08-18T07:57:13.5344378+00:00",
-  "LastChanged_Achievements": "2023-08-18T16:07:17.5379149+00:00",
+  "LastChanged": "2023-08-18T16:57:23.9002364+00:00",
+  "LastChanged_Achievements": "2023-08-18T17:07:40.7788842+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:49.7416919+00:00",
-  "LastUpdate_Ratings": "2023-08-18T15:57:33.7218208+00:00",
-  "LastUpdate_Achievements": "2023-08-18T16:07:17.5380487+00:00"
+  "LastUpdate_Ratings": "2023-08-18T16:57:23.9002369+00:00",
+  "LastUpdate_Achievements": "2023-08-18T17:07:40.7789771+00:00"
 }

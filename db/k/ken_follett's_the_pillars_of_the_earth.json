@@ -495,9 +495,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 14645,
+  "EOS_Progressed": 14646,
   "EOS_Completed": 109,
-  "EOS_NewPlayers": 166,
+  "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -8365,6 +8365,11 @@
       "Time": "2023-08-18T14:04:30.6818733+00:00",
       "NumProgressed": 14645,
       "NumCompleted": 109
+    },
+    {
+      "Time": "2023-08-18T17:05:43.321043+00:00",
+      "NumProgressed": 14646,
+      "NumCompleted": 109
     }
   ],
   "TotalAchievements": 41,
@@ -8464,7 +8469,7 @@
       "Name": "Yet another secret",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 4979
+      "UsersEstimate": 4980
     },
     {
       "ID": "tpote_achievement_20",
@@ -8552,7 +8557,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 4686
+      "UsersEstimate": 4687
     },
     {
       "ID": "tpote_achievement_30",
@@ -8560,7 +8565,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1464
+      "UsersEstimate": 1465
     },
     {
       "ID": "tpote_achievement_31",
@@ -8640,7 +8645,7 @@
       "Name": "Tattletale",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 6004
+      "UsersEstimate": 6005
     },
     {
       "ID": "tpote_achievement_40",
@@ -8703,15 +8708,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 14645,
+      "Progressed": 14646,
       "Completed": 109
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-08-03T13:08:30.3350415+00:00",
-  "LastChanged_Achievements": "2023-08-18T16:05:32.5748456+00:00",
+  "LastChanged_Achievements": "2023-08-18T17:05:43.3210425+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:55.7661895+00:00",
-  "LastUpdate_Ratings": "2023-08-18T15:57:46.8854399+00:00",
-  "LastUpdate_Achievements": "2023-08-18T16:05:32.5749292+00:00"
+  "LastUpdate_Ratings": "2023-08-18T16:57:39.6108406+00:00",
+  "LastUpdate_Achievements": "2023-08-18T17:05:43.3211223+00:00"
 }

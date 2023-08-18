@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewPlayers": 286,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -208,9 +208,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1734,
+  "EOS_Progressed": 1735,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2183,6 +2183,11 @@
       "Time": "2023-08-16T17:03:26.0483509+00:00",
       "NumProgressed": 1734,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-18T17:04:01.2693935+00:00",
+      "NumProgressed": 1735,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2194,7 +2199,7 @@
       "Name": "Neighborhood Revitalization",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "Achievement_002",
@@ -2242,7 +2247,7 @@
       "Name": "Blood Will Have Blood",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 884
+      "UsersEstimate": 885
     },
     {
       "ID": "Achievement_009",
@@ -2258,7 +2263,7 @@
       "Name": "Welcome to the Neighborhood",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "Achievement_011",
@@ -2314,7 +2319,7 @@
       "Name": "Bad Wiring",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "Achievement_018",
@@ -2330,7 +2335,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 1335
+      "UsersEstimate": 1336
     },
     {
       "ID": "Achievement_020",
@@ -2346,7 +2351,7 @@
       "Name": "Radio Silence",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "Achievement_022",
@@ -2410,7 +2415,7 @@
       "Name": "Throw The First Stone",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "Achievement_030",
@@ -2442,7 +2447,7 @@
       "Name": "Wounded Whispers",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 1040
+      "UsersEstimate": 1041
     },
     {
       "ID": "Achievement_034",
@@ -2450,7 +2455,7 @@
       "Name": "Catch and Release",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 780
+      "UsersEstimate": 781
     },
     {
       "ID": "Achievement_035",
@@ -2498,7 +2503,7 @@
       "Name": "Heart Attack",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "Achievement_041",
@@ -2658,7 +2663,7 @@
       "Name": "Helping Hand",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "Achievement_064",
@@ -2714,14 +2719,14 @@
       "Name": "I Spit On Your Grave",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     }
   ],
   "AchievementSets": [
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1734,
+      "Progressed": 1735,
       "Completed": 0
     }
   ],
@@ -2729,8 +2734,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-08-08T16:59:16.4444629+00:00",
-  "LastChanged_Achievements": "2023-08-18T16:03:57.3935364+00:00",
+  "LastChanged_Achievements": "2023-08-18T17:04:01.269393+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:30.0821973+00:00",
-  "LastUpdate_Ratings": "2023-08-18T15:59:58.2315598+00:00",
-  "LastUpdate_Achievements": "2023-08-18T16:03:57.3936221+00:00"
+  "LastUpdate_Ratings": "2023-08-18T17:00:07.4862148+00:00",
+  "LastUpdate_Achievements": "2023-08-18T17:04:01.2694553+00:00"
 }

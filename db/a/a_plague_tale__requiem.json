@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 292,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 125,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -7532,9 +7532,9 @@
       "ID": "ACH_16",
       "SetID": "9d4cf4c",
       "Name": "King Hugo",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 3072
+      "UsersEstimate": 3200
     },
     {
       "ID": "ACH_17",
@@ -7701,8 +7701,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-07-25T21:01:04.4770621+00:00",
-  "LastChanged_Achievements": "2023-08-18T16:05:36.5413107+00:00",
+  "LastChanged_Achievements": "2023-08-18T17:05:48.2316833+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:12.6361661+00:00",
-  "LastUpdate_Ratings": "2023-08-18T16:01:38.5015253+00:00",
-  "LastUpdate_Achievements": "2023-08-18T16:05:36.5413817+00:00"
+  "LastUpdate_Ratings": "2023-08-18T17:02:06.6172375+00:00",
+  "LastUpdate_Achievements": "2023-08-18T17:05:48.2317367+00:00"
 }

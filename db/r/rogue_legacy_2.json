@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 209,
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1309,10 +1309,16 @@
       "Rating": 4.85,
       "NumberOfAwards": 1682,
       "NumberOfAwardsMax": 220
+    },
+    {
+      "Time": "2023-08-18T17:01:52.2929922+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 1683,
+      "NumberOfAwardsMax": 220
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1682,
+  "NumberOfAwards": 1683,
   "NumberOfAwardsMax": 220,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -1350,7 +1356,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 191
+      "Count": 192
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -7134,9 +7140,9 @@
       "ID": "BossTowerAdvancedDefeated",
       "SetID": "3ojhj46",
       "Name": "For Pride",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 46
+      "UsersEstimate": 69
     },
     {
       "ID": "BossTowerDefeated",
@@ -7291,9 +7297,9 @@
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
-  "LastChanged": "2023-08-16T23:01:14.2964517+00:00",
-  "LastChanged_Achievements": "2023-08-18T16:06:09.3873728+00:00",
+  "LastChanged": "2023-08-18T17:01:52.2929921+00:00",
+  "LastChanged_Achievements": "2023-08-18T17:06:26.0900017+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:59.4184193+00:00",
-  "LastUpdate_Ratings": "2023-08-18T16:01:26.2607124+00:00",
-  "LastUpdate_Achievements": "2023-08-18T16:06:09.3874366+00:00"
+  "LastUpdate_Ratings": "2023-08-18T17:01:52.292993+00:00",
+  "LastUpdate_Achievements": "2023-08-18T17:06:26.0900548+00:00"
 }

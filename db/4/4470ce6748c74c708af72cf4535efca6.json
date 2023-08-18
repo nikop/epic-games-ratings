@@ -18,6 +18,8 @@
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 11,
   "EOS_Completed": 0,
@@ -49,9 +51,9 @@
       "ID": "1",
       "SetID": "5e3maia",
       "Name": "Adventurer",
-      "Percentage": 109,
+      "Percentage": 118,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "10",
@@ -137,9 +139,9 @@
       "ID": "2",
       "SetID": "5e3maia",
       "Name": "Clairvoyant",
-      "Percentage": 145,
+      "Percentage": 155,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "20",
@@ -225,9 +227,9 @@
       "ID": "3",
       "SetID": "5e3maia",
       "Name": "Feudal lord",
-      "Percentage": 136,
+      "Percentage": 145,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "32",
@@ -297,9 +299,9 @@
       "ID": "4",
       "SetID": "5e3maia",
       "Name": "Epic Alliance",
-      "Percentage": 127,
+      "Percentage": 136,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "40",
@@ -385,9 +387,9 @@
       "ID": "5",
       "SetID": "5e3maia",
       "Name": "Tax official",
-      "Percentage": 100,
+      "Percentage": 118,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "50",
@@ -473,9 +475,9 @@
       "ID": "6",
       "SetID": "5e3maia",
       "Name": "Blacksmith",
-      "Percentage": 109,
+      "Percentage": 127,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "60",
@@ -598,9 +600,10 @@
       "Completed": 0
     }
   ],
+  "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-08-18T16:04:57.5946428+00:00",
+  "LastChanged_Achievements": "2023-08-18T17:05:05.6157894+00:00",
   "LastUpdate_AppInfo": "2023-08-11T20:57:02.2957043+00:00",
-  "LastUpdate_Ratings": "2023-08-18T15:58:20.0266538+00:00",
-  "LastUpdate_Achievements": "2023-08-18T16:04:57.5947183+00:00"
+  "LastUpdate_Ratings": "2023-08-18T16:58:15.7443179+00:00",
+  "LastUpdate_Achievements": "2023-08-18T17:05:05.6158461+00:00"
 }

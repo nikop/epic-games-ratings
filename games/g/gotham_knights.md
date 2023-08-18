@@ -12,9 +12,9 @@ Rating: 4.18 (Ranked 871)
 | Knighthood | 27.00% | ~18,330 |
 | Get ReQ'd | 25.00% | ~16,972 |
 | Whispered Words | 25.00% | ~16,972 |
-| The Batman Family | 22.00% | ~14,935 |
-| Lock and Key | 22.00% | ~14,935 |
-| Something in the Clay | 21.00% | ~14,256 |
+| The Batman Family | 22.00% | ~14,936 |
+| Lock and Key | 22.00% | ~14,936 |
+| Something in the Clay | 21.00% | ~14,257 |
 | Quartzer Life Crisis | 20.00% | ~13,578 |
 | Working Hard or Harley Working? | 20.00% | ~13,578 |
 | Unstoppable Force | 20.00% | ~13,578 |
@@ -29,8 +29,8 @@ Rating: 4.18 (Ranked 871)
 | Rock and a Hard Place | 14.00% | ~9,504 |
 | Cooldown | 14.00% | ~9,504 |
 | Seeking Asylum | 14.00% | ~9,504 |
-| Not On My Watch | 13.00% | ~8,825 |
-| Shock Til They Drop | 13.00% | ~8,825 |
+| Not On My Watch | 13.00% | ~8,826 |
+| Shock Til They Drop | 13.00% | ~8,826 |
 | End of an Era | 12.00% | ~8,147 |
 | Bulldozed | 12.00% | ~8,147 |
 | Gotham Knight | 12.00% | ~8,147 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 871)
 | Element of Surprise | 0.20% | ~76 |
 | It's Nice to Be Wanted | 0.20% | ~76 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,888 (Ranked 80)  
+Progressed: 67,889 (Ranked 80)  
 Completed: 107 (0.16%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,14 +187,14 @@ Completed: 107 (0.16%) (Ranked 191)
 | 2023-08-15 | 67,855 | 107 |
 | 2023-08-16 | 67,871 | 107 |
 | 2023-08-17 | 67,881 | 107 |
-| 2023-08-18 | 67,888 | 107 |
+| 2023-08-18 | 67,889 | 107 |
 ## Awards
-Max (Great Boss Battles): 2,505  (Ranked 100)  
-Sum: 4,173 (Ranked 139)  
+Max (Great Boss Battles): 2,507  (Ranked 100)  
+Sum: 4,175 (Ranked 139)  
 Diff (max vs sum): -39  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,505 |
+| This game has Great Boss Battles | 2,507 |
 | This game is Extremely Fun | 215 |
 | This game is Relaxing | 214 |
 | This game has Quickly Understood Controls | 213 |
@@ -383,4 +383,4 @@ Diff (max vs sum): -39
 | 2023-08-15 | 4.18 | 2,501 | 4,160 |
 | 2023-08-16 | 4.18 | 2,501 | 4,162 |
 | 2023-08-17 | 4.18 | 2,505 | 4,169 |
-| 2023-08-18 | 4.18 | 2,505 | 4,173 |
+| 2023-08-18 | 4.18 | 2,507 | 4,175 |
