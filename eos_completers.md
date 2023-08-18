@@ -42,9 +42,9 @@
 | 40 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.85% |
 | 41 | [Time Loader](games/t/time_loader.md) | 6.78% |
 | 42 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
-| 43 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 6.33% |
-| 44 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.30% |
-| 45 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
+| 43 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.30% |
+| 44 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
+| 44 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 6.25% |
 | 46 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.98% |
 | 47 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.56% |
 | 48 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.36% |
@@ -224,16 +224,16 @@
 | 218 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.06% |
 | 218 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
 | 224 | [DEATH STRANDING](games/d/death_stranding.md) | 0.05% |
-| 224 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.05% |
 | 224 | [High On Life](games/h/high_on_life.md) | 0.05% |
 | 224 | [House Party](games/h/house_party.md) | 0.05% |
 | 224 | [Remnant 2](games/r/remnant_2.md) | 0.05% |
-| 229 | [Absolute Drift](games/a/absolute_drift.md) | 0.04% |
-| 229 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.04% |
-| 229 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.04% |
-| 229 | [Old World](games/o/old_world.md) | 0.04% |
-| 229 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.04% |
-| 229 | [Tropico 6](games/t/tropico_6.md) | 0.04% |
+| 228 | [Absolute Drift](games/a/absolute_drift.md) | 0.04% |
+| 228 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.04% |
+| 228 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.04% |
+| 228 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.04% |
+| 228 | [Old World](games/o/old_world.md) | 0.04% |
+| 228 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.04% |
+| 228 | [Tropico 6](games/t/tropico_6.md) | 0.04% |
 | 235 | [Football Manager 2023](games/f/football_manager_2023.md) | 0.03% |
 | 235 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 0.03% |
 | 235 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
