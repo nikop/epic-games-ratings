@@ -9,7 +9,7 @@
 | A Grand Show | 70.00% | ~38 |
 | Freshen Up | 59.00% | ~32 |
 | GG EZ | 59.00% | ~32 |
-| Hydrophobia | 41.00% | ~22 |
+| Hydrophobia | 43.00% | ~23 |
 | Ka-Ching! | 37.00% | ~20 |
 | Stop Right There | 35.00% | ~19 |
 | Get to the Point | 33.00% | ~18 |
@@ -19,11 +19,12 @@
 | Phew! | 15.00% | ~8 |
 | Grand Escape | 11.00% | ~6 |
 | Space Warrior: Prologue | 11.00% | ~6 |
+| The Abyss Conqueror | 9.00% | ~5 |
 | Keep it Up, rookie! | 9.00% | ~5 |
 | Decapitation Strike | 9.00% | ~5 |
-| The Abyss Conqueror | 7.00% | ~4 |
+| The Fortress Conqueror | 7.00% | ~4 |
 | The Deep Frozen Conqueror | 6.00% | ~3 |
-| The Fortress Conqueror | 6.00% | ~3 |
+| The Infinite Train Conqueror | 6.00% | ~3 |
 | The Paradox Coordinate Conqueror | 6.00% | ~3 |
 | The Hypergravitational Abyss Conqueror | 6.00% | ~3 |
 | he Ultra Fortress Conqueror | 6.00% | ~3 |
@@ -32,7 +33,6 @@
 | Air Interception | 6.00% | ~3 |
 | Hell of a Fight | 6.00% | ~3 |
 | The Sunken City Conqueror | 4.00% | ~2 |
-| The Infinite Train Conqueror | 4.00% | ~2 |
 | The Zero Dimensional Capital Conqueror | 4.00% | ~2 |
 | The Inactivated Frozen Conqueror | 4.00% | ~2 |
 | Death Bringer Conqueror | 4.00% | ~2 |

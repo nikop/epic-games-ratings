@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A New Journey | 58.00% | ~95 |
-| The Adventure Begins | 21.00% | ~34 |
+| A New Journey | 59.00% | ~99 |
+| The Adventure Begins | 22.00% | ~37 |
 | With Great Power… | 5.00% | ~8 |
 | Swabbie | 4.00% | ~7 |
 | Persistent Parasite | 2.00% | ~3 |
@@ -31,7 +31,7 @@
 | Jaded Judge | 0.00% | ~0 |
 | Rustic Recipe | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 163 (Ranked 301)  
+Progressed: 167 (Ranked 299)  
 Completed: 0 (0.00%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -44,4 +44,4 @@ Completed: 0 (0.00%) (Ranked 259)
 | 2023-08-15 | 29 | 0 |
 | 2023-08-16 | 38 | 0 |
 | 2023-08-17 | 146 | 0 |
-| 2023-08-18 | 163 | 0 |
+| 2023-08-18 | 167 | 0 |

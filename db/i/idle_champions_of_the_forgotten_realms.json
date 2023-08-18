@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 118,
   "Ranking_EOS_NewPlayers": 36,
-  "Ranking_EOS_NewCompleters": 8,
+  "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -5884,10 +5884,10 @@
       "Count": 3357
     }
   ],
-  "EOS_Progressed": 222900,
+  "EOS_Progressed": 222912,
   "EOS_Completed": 2190,
-  "EOS_NewPlayers": 2258,
-  "EOS_NewCompleters": 20,
+  "EOS_NewPlayers": 2260,
+  "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
@@ -18894,6 +18894,11 @@
       "Time": "2023-08-18T04:04:11.0332263+00:00",
       "NumProgressed": 222900,
       "NumCompleted": 2190
+    },
+    {
+      "Time": "2023-08-18T05:04:35.4609108+00:00",
+      "NumProgressed": 222912,
+      "NumCompleted": 2190
     }
   ],
   "TotalAchievements": 516,
@@ -22119,9 +22124,9 @@
       "ID": "objective_completed_8",
       "SetID": "cc37lbc",
       "Name": "Friendly Imps",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 223
+      "UsersEstimate": 446
     },
     {
       "ID": "objective_completed_80",
@@ -23032,21 +23037,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 189174,
+      "Progressed": 189186,
       "Completed": 3264
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 222900,
+      "Progressed": 222912,
       "Completed": 2190
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-18T00:00:36.7712491+00:00",
-  "LastChanged_Achievements": "2023-08-18T04:04:11.0332254+00:00",
+  "LastChanged_Achievements": "2023-08-18T05:04:35.4609101+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:51.8567155+00:00",
-  "LastUpdate_Ratings": "2023-08-18T03:59:08.7733776+00:00",
-  "LastUpdate_Achievements": "2023-08-18T04:04:11.0363533+00:00"
+  "LastUpdate_Ratings": "2023-08-18T04:59:04.7373548+00:00",
+  "LastUpdate_Achievements": "2023-08-18T05:04:35.4635972+00:00"
 }

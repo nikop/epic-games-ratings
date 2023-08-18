@@ -4,7 +4,7 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 140,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 364,
+  "EOS_Progressed": 365,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -381,6 +381,11 @@
       "Time": "2023-08-17T12:05:48.566902+00:00",
       "NumProgressed": 364,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-18T05:05:37.3993292+00:00",
+      "NumProgressed": 365,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -392,7 +397,7 @@
       "Name": "Brace for impact!",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "ALL_ACHIEVEMENTS",
@@ -416,7 +421,7 @@
       "Name": "Car-Tapult",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "COIN_COLLECT",
@@ -424,7 +429,7 @@
       "Name": "The Collector",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "COLLECT_1_CAR",
@@ -432,7 +437,7 @@
       "Name": "Baby\u0027s First Car",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "COLLECT_20_CARS",
@@ -502,9 +507,9 @@
       "ID": "FIND_THE_GAP",
       "SetID": "20koof9",
       "Name": "First Come, First Serve",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 80
     },
     {
       "ID": "FRONT_AND_BACKFLIP",
@@ -560,7 +565,7 @@
       "Name": "C-C-C-Combo!",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "HIT_10_PLAYERS",
@@ -568,7 +573,7 @@
       "Name": "Anger Issues",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "HIT_50_PUSHABLES",
@@ -576,7 +581,7 @@
       "Name": "Pushover",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "HIT_ALIEN",
@@ -608,7 +613,7 @@
       "Name": "Space Crash",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "HONK_100_TIMES",
@@ -632,7 +637,7 @@
       "Name": "Your Highness",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "LEFT_LEVEL",
@@ -648,7 +653,7 @@
       "Name": "The Wild West",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "LOADED_LVL_FOREST",
@@ -656,7 +661,7 @@
       "Name": "A Forest Walk",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "LOADED_LVL_SNOW",
@@ -680,7 +685,7 @@
       "Name": "Multiply that!",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ONE_MILLION_CASH",
@@ -696,7 +701,7 @@
       "Name": "To war!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "SPIN_1080",
@@ -712,7 +717,7 @@
       "Name": "Bag of Tricks",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "STUNT_SCORE_DOUBLE",
@@ -816,7 +821,7 @@
       "Name": "You\u0027re it",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "WIN_TANK_BATTLES",
@@ -831,7 +836,7 @@
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 364,
+      "Progressed": 365,
       "Completed": 2
     }
   ],
@@ -839,8 +844,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-08-18T04:05:13.9521971+00:00",
+  "LastChanged_Achievements": "2023-08-18T05:05:37.3993285+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:32.0252411+00:00",
-  "LastUpdate_Ratings": "2023-08-18T03:59:38.5290423+00:00",
-  "LastUpdate_Achievements": "2023-08-18T04:05:13.9522503+00:00"
+  "LastUpdate_Ratings": "2023-08-18T04:59:36.2273457+00:00",
+  "LastUpdate_Achievements": "2023-08-18T05:05:37.3993736+00:00"
 }

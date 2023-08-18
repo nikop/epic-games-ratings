@@ -24,7 +24,7 @@ Number of Ratings: 28  (23.09.2022)
 | Non Stop! | 24.00% | ~105 |
 | Foreman | 21.00% | ~92 |
 | Missed it! | 19.00% | ~83 |
-| Russia | 17.00% | ~75 |
+| Russia | 18.00% | ~79 |
 | Sabotage | 17.00% | ~75 |
 | America | 16.00% | ~70 |
 | Woodcutter | 11.00% | ~48 |

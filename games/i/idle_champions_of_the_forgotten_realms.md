@@ -18,6 +18,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Seeking Allies | 0.20% | ~446 |
 | Are Ya Chicken? | 0.20% | ~446 |
 | Mad Cow Disease | 0.20% | ~446 |
+| Friendly Imps | 0.20% | ~446 |
 | The Chaotic Hunt for The Last Breath | 0.20% | ~378 |
 | There's a Flying Snake in my Boot! | 0.20% | ~378 |
 | Pros and CONs | 0.10% | ~223 |
@@ -412,7 +413,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Easily Distracted | 0.10% | ~223 |
 | Rude Welcome | 0.10% | ~223 |
 | Underdeep Cartography | 0.10% | ~223 |
-| Friendly Imps | 0.10% | ~223 |
 | Overdue Rendezvous | 0.10% | ~223 |
 | Moose Tracks | 0.10% | ~189 |
 | An Awakened Axe | 0.10% | ~189 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~189 |
 | Animated Giff | 0.10% | ~189 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 222,900 (Ranked 53)  
+Progressed: 222,912 (Ranked 53)  
 Completed: 2,190 (0.98%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -643,7 +643,7 @@ Completed: 2,190 (0.98%) (Ranked 118)
 | 2023-08-15 | 222,230 | 2,183 |
 | 2023-08-16 | 222,534 | 2,186 |
 | 2023-08-17 | 222,852 | 2,189 |
-| 2023-08-18 | 222,900 | 2,190 |
+| 2023-08-18 | 222,912 | 2,190 |
 ## Awards
 Max (Diverse Characters): 5,162  (Ranked 68)  
 Sum: 31,104 (Ranked 38)  

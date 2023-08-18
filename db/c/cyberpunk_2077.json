@@ -2,7 +2,7 @@
   "ID": "77f2b98e2cef40c8a7437518bf420e47",
   "Name": "Cyberpunk 2077",
   "ProductSlug": "cyberpunk-2077",
-  "Ranking_Rating": 347,
+  "Ranking_Rating": 348,
   "Ranking_Popularity": 9,
   "Ranking_PopularitySum": 13,
   "Ranking_EOS_Progress": 14,
@@ -10553,9 +10553,9 @@
       "Count": 5602
     }
   ],
-  "EOS_Progressed": 871360,
+  "EOS_Progressed": 871362,
   "EOS_Completed": 1977,
-  "EOS_NewPlayers": 1117,
+  "EOS_NewPlayers": 1115,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -23733,6 +23733,11 @@
       "Time": "2023-08-18T04:04:50.7544999+00:00",
       "NumProgressed": 871360,
       "NumCompleted": 1977
+    },
+    {
+      "Time": "2023-08-18T05:05:14.3621272+00:00",
+      "NumProgressed": 871362,
+      "NumCompleted": 1977
     }
   ],
   "TotalAchievements": 44,
@@ -23776,7 +23781,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 339830
+      "UsersEstimate": 339831
     },
     {
       "ID": "FollowingTheRiver",
@@ -23784,7 +23789,7 @@
       "Name": "To Protect and Serve",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 121990
+      "UsersEstimate": 121991
     },
     {
       "ID": "Fortuneteller",
@@ -23792,7 +23797,7 @@
       "Name": "The Wandering Fool",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 78422
+      "UsersEstimate": 78423
     },
     {
       "ID": "Gearhead",
@@ -23840,7 +23845,7 @@
       "Name": "I Am The Law",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 121990
+      "UsersEstimate": 121991
     },
     {
       "ID": "LikeFatherLikeSon",
@@ -23920,7 +23925,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 252694
+      "UsersEstimate": 252695
     },
     {
       "ID": "Specialist",
@@ -23928,7 +23933,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 78422
+      "UsersEstimate": 78423
     },
     {
       "ID": "Temperance",
@@ -23960,7 +23965,7 @@
       "Name": "The Fool",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 592525
+      "UsersEstimate": 592526
     },
     {
       "ID": "TheHermit",
@@ -23976,7 +23981,7 @@
       "Name": "The High Priestess",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 191699
+      "UsersEstimate": 191700
     },
     {
       "ID": "TheLovers",
@@ -23984,7 +23989,7 @@
       "Name": "The Lovers",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 304976
+      "UsersEstimate": 304977
     },
     {
       "ID": "TheStar",
@@ -24008,7 +24013,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 235267
+      "UsersEstimate": 235268
     },
     {
       "ID": "TheWorld",
@@ -24064,7 +24069,7 @@
       "Name": "Judy vs Night City",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 121990
+      "UsersEstimate": 121991
     },
     {
       "ID": "VForVendetta",
@@ -24088,22 +24093,22 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 191699
+      "UsersEstimate": 191700
     }
   ],
   "AchievementSets": [
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 871360,
+      "Progressed": 871362,
       "Completed": 1977
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-08-17T20:59:19.7621295+00:00",
-  "LastChanged_Achievements": "2023-08-18T04:04:50.7544991+00:00",
+  "LastChanged_Achievements": "2023-08-18T05:05:14.3621266+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:39.9582585+00:00",
-  "LastUpdate_Ratings": "2023-08-18T03:58:58.5206987+00:00",
-  "LastUpdate_Achievements": "2023-08-18T04:04:50.7546161+00:00"
+  "LastUpdate_Ratings": "2023-08-18T04:58:55.5924371+00:00",
+  "LastUpdate_Achievements": "2023-08-18T05:05:14.3622283+00:00"
 }

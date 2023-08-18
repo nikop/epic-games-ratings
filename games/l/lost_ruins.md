@@ -11,7 +11,7 @@
 | The Fallen | 22.00% | ~94 |
 | Artifact Collector | 20.00% | ~86 |
 | Trap Master | 20.00% | ~86 |
-| Ghost Buster | 15.00% | ~64 |
+| Ghost Buster | 16.00% | ~68 |
 | Iconoclasm | 15.00% | ~64 |
 | Reincarnation | 15.00% | ~64 |
 | Librarian | 14.00% | ~60 |

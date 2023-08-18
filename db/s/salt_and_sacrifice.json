@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 202,
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 94,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -1578,7 +1578,7 @@
   ],
   "EOS_Progressed": 65785,
   "EOS_Completed": 1209,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 1.84,
   "EosHistory": [
@@ -8710,9 +8710,9 @@
       "ID": "diablomancer",
       "SetID": "2jelldm",
       "Name": "The Diablomancer",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 13815
+      "UsersEstimate": 14473
     },
     {
       "ID": "dracomancer",
@@ -9022,8 +9022,8 @@
   "FirstSeen": "2022-07-22T20:23:45.0965926+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:04.986715+00:00",
   "LastChanged": "2023-08-15T15:00:01.3957541+00:00",
-  "LastChanged_Achievements": "2023-08-18T04:03:30.3972389+00:00",
+  "LastChanged_Achievements": "2023-08-18T05:03:54.8044905+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:05.0729961+00:00",
-  "LastUpdate_Ratings": "2023-08-18T03:59:17.4727886+00:00",
-  "LastUpdate_Achievements": "2023-08-18T04:03:30.3973293+00:00"
+  "LastUpdate_Ratings": "2023-08-18T04:59:14.2405477+00:00",
+  "LastUpdate_Achievements": "2023-08-18T05:03:54.8045675+00:00"
 }

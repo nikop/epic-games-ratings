@@ -49,8 +49,8 @@ Number of Ratings: 2,205  (23.09.2022)
 | The Bibliomancer | 25.00% | ~16,446 |
 | The Skylord | 25.00% | ~16,446 |
 | The Firelord | 24.00% | ~15,788 |
+| The Diablomancer | 22.00% | ~14,473 |
 | Want Not | 21.00% | ~13,815 |
-| The Diablomancer | 21.00% | ~13,815 |
 | The Sacrifice | 21.00% | ~13,815 |
 | The King | 19.00% | ~12,499 |
 | Take Your Place | 14.00% | ~9,210 |
