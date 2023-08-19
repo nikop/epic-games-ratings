@@ -6,7 +6,7 @@ Rating: 4.55 (Ranked 486)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 26.00% | ~802 |
-| Sputnik 2049 | 22.00% | ~679 |
+| Sputnik 2049 | 23.00% | ~710 |
 | Infinite Growth... | 21.00% | ~648 |
 | Without Breaking Some Eggs... | 20.00% | ~617 |
 | Space Society | 15.00% | ~463 |

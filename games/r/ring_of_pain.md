@@ -14,7 +14,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Defeat The Dark | 61.00% | ~143,102 |
 | An Offering | 61.00% | ~143,102 |
 | Colorful Corpse | 58.00% | ~136,064 |
-| That Was Quick | 56.00% | ~131,372 |
+| That Was Quick | 57.00% | ~133,718 |
 | A Donation | 56.00% | ~131,372 |
 | Goodbye, Frog Friend | 54.00% | ~126,680 |
 | Heavy Hitter | 53.00% | ~124,334 |

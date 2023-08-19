@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 90,
-  "Ranking_EOS_NewPlayers": 73,
+  "Ranking_EOS_NewPlayers": 72,
   "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -380,9 +380,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18182,
+  "EOS_Progressed": 18188,
   "EOS_Completed": 368,
-  "EOS_NewPlayers": 537,
+  "EOS_NewPlayers": 542,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 2.02,
   "EosHistory": [
@@ -13255,6 +13255,11 @@
       "Time": "2023-08-19T13:08:05.8579332+00:00",
       "NumProgressed": 18182,
       "NumCompleted": 368
+    },
+    {
+      "Time": "2023-08-19T14:07:50.0743549+00:00",
+      "NumProgressed": 18188,
+      "NumCompleted": 368
     }
   ],
   "TotalAchievements": 20,
@@ -13266,7 +13271,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 3091
+      "UsersEstimate": 3092
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -13282,7 +13287,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2545
+      "UsersEstimate": 2546
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -13290,7 +13295,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1636
+      "UsersEstimate": 1637
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -13298,7 +13303,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2182
+      "UsersEstimate": 2183
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -13306,7 +13311,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1818
+      "UsersEstimate": 1819
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -13322,7 +13327,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2182
+      "UsersEstimate": 2183
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -13330,7 +13335,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2727
+      "UsersEstimate": 2728
     },
     {
       "ID": "FOUND_ERIN",
@@ -13378,7 +13383,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2182
+      "UsersEstimate": 2183
     },
     {
       "ID": "INTRO_FINISHED",
@@ -13386,7 +13391,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 13818
+      "UsersEstimate": 13823
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -13394,7 +13399,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 5091
+      "UsersEstimate": 5093
     },
     {
       "ID": "NORTH_FINISHED",
@@ -13402,7 +13407,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2545
+      "UsersEstimate": 2546
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -13418,22 +13423,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 3455
+      "UsersEstimate": 3456
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 18182,
+      "Progressed": 18188,
       "Completed": 368
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-08-12T01:39:46.4098224+00:00",
-  "LastChanged_Achievements": "2023-08-19T13:08:05.8579328+00:00",
+  "LastChanged_Achievements": "2023-08-19T14:07:50.0743543+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:54.5287855+00:00",
-  "LastUpdate_Ratings": "2023-08-19T12:59:16.6638355+00:00",
-  "LastUpdate_Achievements": "2023-08-19T13:08:05.8580256+00:00"
+  "LastUpdate_Ratings": "2023-08-19T13:58:16.8317946+00:00",
+  "LastUpdate_Achievements": "2023-08-19T14:07:50.0744622+00:00"
 }

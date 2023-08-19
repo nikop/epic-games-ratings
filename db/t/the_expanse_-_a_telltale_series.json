@@ -4,8 +4,8 @@
   "ProductSlug": "the-expanse-a-telltale-series",
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 45,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 46,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8358,
+  "EOS_Progressed": 8363,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1373,
+  "EOS_NewPlayers": 1363,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2517,6 +2517,11 @@
       "Time": "2023-08-19T13:08:47.684333+00:00",
       "NumProgressed": 8358,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-19T14:08:38.3509805+00:00",
+      "NumProgressed": 8363,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -2569,7 +2574,7 @@
       "Name": "Doctor Approved",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 1337
+      "UsersEstimate": 1338
     },
     {
       "ID": "15",
@@ -2577,7 +2582,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 1337
+      "UsersEstimate": 1338
     },
     {
       "ID": "16",
@@ -2593,7 +2598,7 @@
       "Name": "Spore Taste",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "18",
@@ -2601,7 +2606,7 @@
       "Name": "Bottoms up!",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "19",
@@ -2625,7 +2630,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "21",
@@ -2768,14 +2773,14 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 8358,
+      "Progressed": 8363,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged_Achievements": "2023-08-19T13:08:47.6843323+00:00",
+  "LastChanged_Achievements": "2023-08-19T14:08:38.3509798+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:40.3624587+00:00",
-  "LastUpdate_Ratings": "2023-08-19T13:03:16.4601336+00:00",
-  "LastUpdate_Achievements": "2023-08-19T13:08:47.6843975+00:00"
+  "LastUpdate_Ratings": "2023-08-19T14:03:04.6284792+00:00",
+  "LastUpdate_Achievements": "2023-08-19T14:08:38.3510245+00:00"
 }

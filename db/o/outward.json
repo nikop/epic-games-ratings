@@ -3,12 +3,12 @@
   "Name": "Outward Definitive Edition",
   "ProductSlug": "outward",
   "Ranking_Rating": 486,
-  "Ranking_Popularity": 447,
+  "Ranking_Popularity": 448,
   "Ranking_PopularitySum": 355,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -502,9 +502,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3315,
+  "EOS_Progressed": 3316,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4132,6 +4132,11 @@
       "Time": "2023-08-19T08:08:30.9378842+00:00",
       "NumProgressed": 3315,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-19T14:06:17.0316879+00:00",
+      "NumProgressed": 3316,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 42,
@@ -4143,7 +4148,7 @@
       "Name": "A Fortress Toppled!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "AceDetective_9",
@@ -4167,7 +4172,7 @@
       "Name": "Apex Predator",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "BloodAndJustice_50",
@@ -4183,7 +4188,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1425
+      "UsersEstimate": 1426
     },
     {
       "ID": "CrowdPleaser",
@@ -4215,7 +4220,7 @@
       "Name": "Exceptional Skill",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 729
+      "UsersEstimate": 730
     },
     {
       "ID": "ForAllAurai_8",
@@ -4247,7 +4252,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 729
+      "UsersEstimate": 730
     },
     {
       "ID": "HouseofCards_19",
@@ -4343,7 +4348,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -4463,7 +4468,7 @@
       "Name": "Venture Outward",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2486
+      "UsersEstimate": 2487
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -4478,15 +4483,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3315,
+      "Progressed": 3316,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-08-16T21:59:07.0719809+00:00",
-  "LastChanged_Achievements": "2023-08-19T13:06:44.6926308+00:00",
+  "LastChanged_Achievements": "2023-08-19T14:06:17.0316873+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:00.6102177+00:00",
-  "LastUpdate_Ratings": "2023-08-19T13:01:49.7492541+00:00",
-  "LastUpdate_Achievements": "2023-08-19T13:06:44.6927326+00:00"
+  "LastUpdate_Ratings": "2023-08-19T14:01:24.0296018+00:00",
+  "LastUpdate_Achievements": "2023-08-19T14:06:17.0317569+00:00"
 }

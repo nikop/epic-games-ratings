@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -174,9 +174,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1398,
+  "EOS_Progressed": 1399,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -1534,6 +1534,11 @@
       "Time": "2023-08-19T08:08:15.8804222+00:00",
       "NumProgressed": 1398,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-19T14:06:02.1220762+00:00",
+      "NumProgressed": 1399,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -1545,7 +1550,7 @@
       "Name": "Lovebirds",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "10",
@@ -1609,7 +1614,7 @@
       "Name": "Balding bloot!",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1104
+      "UsersEstimate": 1105
     },
     {
       "ID": "18",
@@ -1705,7 +1710,7 @@
       "Name": "Hug therapy",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 615
+      "UsersEstimate": 616
     },
     {
       "ID": "30",
@@ -1753,7 +1758,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "7",
@@ -1769,7 +1774,7 @@
       "Name": "Over my dead body",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "9",
@@ -1784,15 +1789,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1398,
+      "Progressed": 1399,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-08-10T12:01:06.704766+00:00",
-  "LastChanged_Achievements": "2023-08-19T13:06:31.8598657+00:00",
+  "LastChanged_Achievements": "2023-08-19T14:06:02.1220754+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:59.8230708+00:00",
-  "LastUpdate_Ratings": "2023-08-19T13:03:35.7954103+00:00",
-  "LastUpdate_Achievements": "2023-08-19T13:06:31.859917+00:00"
+  "LastUpdate_Ratings": "2023-08-19T14:03:27.0336017+00:00",
+  "LastUpdate_Achievements": "2023-08-19T14:06:02.1221122+00:00"
 }

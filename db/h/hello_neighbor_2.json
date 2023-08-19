@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 61,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -378,9 +378,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2760,
+  "EOS_Progressed": 2761,
   "EOS_Completed": 108,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.91,
   "EosHistory": [
@@ -2738,6 +2738,11 @@
       "Time": "2023-08-19T12:02:28.9377187+00:00",
       "NumProgressed": 2760,
       "NumCompleted": 108
+    },
+    {
+      "Time": "2023-08-19T14:04:23.6405667+00:00",
+      "NumProgressed": 2761,
+      "NumCompleted": 108
     }
   ],
   "TotalAchievements": 14,
@@ -2757,7 +2762,7 @@
       "Name": "Case Closed",
       "Percentage": 37,
       "XP": 55,
-      "UsersEstimate": 1021
+      "UsersEstimate": 1022
     },
     {
       "ID": "ACH_CAT_LOVER",
@@ -2773,7 +2778,7 @@
       "Name": "Climber",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "ACH_DOG_LOVER",
@@ -2789,7 +2794,7 @@
       "Name": "Easy As Pie",
       "Percentage": 34,
       "XP": 55,
-      "UsersEstimate": 938
+      "UsersEstimate": 939
     },
     {
       "ID": "ACH_FAMILY_LOST",
@@ -2797,7 +2802,7 @@
       "Name": "Family Lost",
       "Percentage": 32,
       "XP": 80,
-      "UsersEstimate": 883
+      "UsersEstimate": 884
     },
     {
       "ID": "ACH_HIDDEN_SECRETS",
@@ -2821,7 +2826,7 @@
       "Name": "Mad Scientist",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "ACH_REUNION",
@@ -2829,7 +2834,7 @@
       "Name": "Reunion",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "ACH_SHOVEL_NIGHT",
@@ -2837,7 +2842,7 @@
       "Name": "Shovel Night",
       "Percentage": 37,
       "XP": 55,
-      "UsersEstimate": 1021
+      "UsersEstimate": 1022
     },
     {
       "ID": "ACH_TREASURE_HUNT",
@@ -2860,7 +2865,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2760,
+      "Progressed": 2761,
       "Completed": 108
     }
   ],
@@ -2868,8 +2873,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-08-19T10:58:04.2929001+00:00",
-  "LastChanged_Achievements": "2023-08-19T13:05:07.4628672+00:00",
+  "LastChanged_Achievements": "2023-08-19T14:04:23.6405661+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:01.4911861+00:00",
-  "LastUpdate_Ratings": "2023-08-19T12:59:33.7358254+00:00",
-  "LastUpdate_Achievements": "2023-08-19T13:05:07.4628925+00:00"
+  "LastUpdate_Ratings": "2023-08-19T13:58:37.5021346+00:00",
+  "LastUpdate_Achievements": "2023-08-19T14:04:23.6405963+00:00"
 }

@@ -6,11 +6,11 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 96.00% | ~9,796 |
-| keep it tidy | 77.00% | ~7,857 |
-| podium | 72.00% | ~7,347 |
-| medium attack | 60.00% | ~6,122 |
-| brail | 57.00% | ~5,816 |
+| light attack | 96.00% | ~9,797 |
+| keep it tidy | 77.00% | ~7,858 |
+| podium | 72.00% | ~7,348 |
+| medium attack | 60.00% | ~6,123 |
+| brail | 57.00% | ~5,817 |
 | good drivers have dead flies on the side windows | 42.00% | ~4,286 |
 | grocery-getter | 39.00% | ~3,980 |
 | rwd only | 26.00% | ~2,653 |
@@ -27,8 +27,8 @@ Number of Ratings: 56  (23.09.2022)
 | night ride | 13.00% | ~1,327 |
 | the artist | 13.00% | ~1,327 |
 | snorkel | 13.00% | ~1,327 |
-| where is the stage? | 12.00% | ~1,224 |
-| maximum attack | 11.00% | ~1,122 |
+| where is the stage? | 12.00% | ~1,225 |
+| maximum attack | 11.00% | ~1,123 |
 | espresso | 10.00% | ~1,020 |
 | parallel universe | 10.00% | ~1,020 |
 | mittens | 8.00% | ~816 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | if everything seems under control, you're not going fast enough | 0.40% | ~41 |
 | barely keeping it together | 0.30% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,204 (Ranked 122)  
+Progressed: 10,205 (Ranked 122)  
 Completed: 9 (0.09%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,6 +141,7 @@ Completed: 9 (0.09%) (Ranked 211)
 | 2023-08-13 | 10,200 | 9 |
 | 2023-08-15 | 10,202 | 9 |
 | 2023-08-17 | 10,204 | 9 |
+| 2023-08-19 | 10,205 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

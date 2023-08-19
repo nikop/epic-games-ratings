@@ -1,7 +1,7 @@
 # Weird West: Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/weird-west-906661)  
 [View Rawdata](../../db/w/weird_west.json)  
-Rating: 4.44 (Ranked 648)  
+Rating: 4.44 (Ranked 649)  
 Number of Ratings: 125  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -36,10 +36,10 @@ Number of Ratings: 125  (23.09.2022)
 | There is Hope | 11.00% | ~199 |
 | The Philosopher’s Stone | 10.00% | ~181 |
 | Loyalty to the Pack | 9.00% | ~163 |
+| Eternity Can Wait | 9.00% | ~163 |
 | Mystery Machine | 9.00% | ~163 |
 | Do Not Pass Go… | 8.00% | ~145 |
 | Gold Digger | 8.00% | ~145 |
-| Eternity Can Wait | 8.00% | ~145 |
 | Monster Hunter | 8.00% | ~145 |
 | Knuckle Sandwich | 8.00% | ~145 |
 | Getting the Gang Back Together | 7.00% | ~127 |

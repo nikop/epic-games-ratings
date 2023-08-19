@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -244,9 +244,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23942,
+  "EOS_Progressed": 23943,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4329,6 +4329,11 @@
       "Time": "2023-08-18T21:03:59.0469333+00:00",
       "NumProgressed": 23942,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-08-19T14:05:05.9336403+00:00",
+      "NumProgressed": 23943,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 32,
@@ -4356,7 +4361,7 @@
       "Name": "Mods Please Ban",
       "Percentage": 77,
       "XP": 60,
-      "UsersEstimate": 18435
+      "UsersEstimate": 18436
     },
     {
       "ID": "ACH_ALL_LUGLOXES",
@@ -4404,7 +4409,7 @@
       "Name": "Bring A Knife to a Gun Fight",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 18196
+      "UsersEstimate": 18197
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -4412,7 +4417,7 @@
       "Name": "Lezduit!",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 4788
+      "UsersEstimate": 4789
     },
     {
       "ID": "ACH_GET_MAGBOOTS",
@@ -4444,7 +4449,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 19872
+      "UsersEstimate": 19873
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -4460,7 +4465,7 @@
       "Name": "We\u0027re All Very Impressed, Trust Me",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 13647
+      "UsersEstimate": 13648
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -4516,7 +4521,7 @@
       "Name": "Who\u0027s The Boss?",
       "Percentage": 20,
       "XP": 45,
-      "UsersEstimate": 4788
+      "UsersEstimate": 4789
     },
     {
       "ID": "ACH_KILL_SLUMSLEY",
@@ -4580,7 +4585,7 @@
       "Name": "Carried Stan\u0027s Load To Completion",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 3112
+      "UsersEstimate": 3113
     },
     {
       "ID": "ACH_SUITO_SUICIDE",
@@ -4595,22 +4600,22 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 23942,
+      "Progressed": 23943,
       "Completed": 12
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1235,
-      "Completed": 1235
+      "Progressed": 1236,
+      "Completed": 1236
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-08-14T02:13:15.3920394+00:00",
-  "LastChanged_Achievements": "2023-08-19T13:05:43.6786615+00:00",
+  "LastChanged_Achievements": "2023-08-19T14:05:05.9336397+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:58.3808281+00:00",
-  "LastUpdate_Ratings": "2023-08-19T13:01:48.2923231+00:00",
-  "LastUpdate_Achievements": "2023-08-19T13:05:43.6787123+00:00"
+  "LastUpdate_Ratings": "2023-08-19T14:01:22.5483148+00:00",
+  "LastUpdate_Achievements": "2023-08-19T14:05:05.9337012+00:00"
 }

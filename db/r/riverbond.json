@@ -480,9 +480,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 525356,
+  "EOS_Progressed": 525358,
   "EOS_Completed": 461,
-  "EOS_NewPlayers": 549,
+  "EOS_NewPlayers": 548,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -13280,6 +13280,11 @@
       "Time": "2023-08-19T13:07:53.6685116+00:00",
       "NumProgressed": 525356,
       "NumCompleted": 461
+    },
+    {
+      "Time": "2023-08-19T14:07:36.188105+00:00",
+      "NumProgressed": 525358,
+      "NumCompleted": 461
     }
   ],
   "TotalAchievements": 57,
@@ -13299,7 +13304,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 236410
+      "UsersEstimate": 236411
     },
     {
       "ID": "11",
@@ -13307,7 +13312,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 367749
+      "UsersEstimate": 367751
     },
     {
       "ID": "12",
@@ -13315,7 +13320,7 @@
       "Name": "Wind At Our Backs",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 115578
+      "UsersEstimate": 115579
     },
     {
       "ID": "13",
@@ -13323,7 +13328,7 @@
       "Name": "Keep On Trucking",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 68296
+      "UsersEstimate": 68297
     },
     {
       "ID": "14",
@@ -13363,7 +13368,7 @@
       "Name": "To Victory!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 78803
+      "UsersEstimate": 78804
     },
     {
       "ID": "19",
@@ -13371,7 +13376,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 325721
+      "UsersEstimate": 325722
     },
     {
       "ID": "2",
@@ -13387,7 +13392,7 @@
       "Name": "Talk of the Town",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 126085
+      "UsersEstimate": 126086
     },
     {
       "ID": "21",
@@ -13515,7 +13520,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 262678
+      "UsersEstimate": 262679
     },
     {
       "ID": "36",
@@ -13547,7 +13552,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 178621
+      "UsersEstimate": 178622
     },
     {
       "ID": "4",
@@ -13595,7 +13600,7 @@
       "Name": "Under the Radar",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 42028
+      "UsersEstimate": 42029
     },
     {
       "ID": "45",
@@ -13619,7 +13624,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 325721
+      "UsersEstimate": 325722
     },
     {
       "ID": "48",
@@ -13627,7 +13632,7 @@
       "Name": "To the Beat",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 105071
+      "UsersEstimate": 105072
     },
     {
       "ID": "49",
@@ -13635,7 +13640,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 178621
+      "UsersEstimate": 178622
     },
     {
       "ID": "5",
@@ -13667,7 +13672,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 241664
+      "UsersEstimate": 241665
     },
     {
       "ID": "53",
@@ -13746,15 +13751,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 525356,
+      "Progressed": 525358,
       "Completed": 461
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
-  "LastChanged_Achievements": "2023-08-19T13:07:53.6685109+00:00",
+  "LastChanged_Achievements": "2023-08-19T14:07:36.188104+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:51.7319714+00:00",
-  "LastUpdate_Ratings": "2023-08-19T13:01:06.7876022+00:00",
-  "LastUpdate_Achievements": "2023-08-19T13:07:53.6687346+00:00"
+  "LastUpdate_Ratings": "2023-08-19T14:00:27.6980571+00:00",
+  "LastUpdate_Achievements": "2023-08-19T14:07:36.1882594+00:00"
 }
