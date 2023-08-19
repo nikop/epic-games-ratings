@@ -4,7 +4,7 @@
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 42,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 210,
+  "EOS_Progressed": 211,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 6.67,
+  "EOS_Completed_Percentage": 6.64,
   "EosHistory": [
     {
       "Time": "2023-06-10T10:01:48.8314977+00:00",
@@ -861,6 +861,11 @@
       "Time": "2023-08-19T13:05:38.1378588+00:00",
       "NumProgressed": 210,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-08-19T17:04:37.6227531+00:00",
+      "NumProgressed": 211,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 16,
@@ -920,7 +925,7 @@
       "Name": "Putting challenge",
       "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_15",
@@ -968,15 +973,15 @@
       "Name": "Private pool",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
       "SetID": "8d3ci0",
       "Name": "Abducktion",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 95,
-      "UsersEstimate": 42
+      "UsersEstimate": 40
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
@@ -999,14 +1004,14 @@
     {
       "ID": "8d3ci0",
       "IsBase": true,
-      "Progressed": 210,
+      "Progressed": 211,
       "Completed": 14
     }
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-08-19T16:04:43.7996261+00:00",
+  "LastChanged_Achievements": "2023-08-19T17:04:37.6227521+00:00",
   "LastUpdate_AppInfo": "2023-08-19T15:57:11.7507588+00:00",
-  "LastUpdate_Ratings": "2023-08-19T15:59:35.6404741+00:00",
-  "LastUpdate_Achievements": "2023-08-19T16:04:43.7996571+00:00"
+  "LastUpdate_Ratings": "2023-08-19T16:59:22.7384336+00:00",
+  "LastUpdate_Achievements": "2023-08-19T17:04:37.6227698+00:00"
 }

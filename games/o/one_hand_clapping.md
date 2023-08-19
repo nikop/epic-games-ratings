@@ -33,8 +33,8 @@
 | Rondo | 0.00% | ~0 |
 | Tritone | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 798 (Ranked 208)  
-Completed: 0 (0.00%) (Ranked 260)  
+Progressed: 799 (Ranked 208)  
+Completed: 0 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -73,6 +73,7 @@ Completed: 0 (0.00%) (Ranked 260)
 | 2023-08-08 | 794 | 0 |
 | 2023-08-09 | 796 | 0 |
 | 2023-08-12 | 798 | 0 |
+| 2023-08-19 | 799 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,8 +6,8 @@
   "Ranking_Popularity": 100,
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 80,
-  "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_Completed": 193,
+  "Ranking_EOS_NewPlayers": 109,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -2412,10 +2412,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 4175,
       "NumberOfAwardsMax": 2507
+    },
+    {
+      "Time": "2023-08-19T16:57:53.0638708+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4176,
+      "NumberOfAwardsMax": 2507
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4175,
+  "NumberOfAwards": 4176,
   "NumberOfAwardsMax": 2507,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2453,7 +2459,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 201
+      "Count": 202
     },
     {
       "Text": "This game is Relaxing",
@@ -2480,7 +2486,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 67911,
+  "EOS_Progressed": 67912,
   "EOS_Completed": 108,
   "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 2,
@@ -12730,6 +12736,11 @@
       "Time": "2023-08-19T16:08:27.3969938+00:00",
       "NumProgressed": 67911,
       "NumCompleted": 108
+    },
+    {
+      "Time": "2023-08-19T17:08:10.6397558+00:00",
+      "NumProgressed": 67912,
+      "NumCompleted": 108
     }
   ],
   "TotalAchievements": 61,
@@ -12789,7 +12800,7 @@
       "Name": "The Batman Family",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 14940
+      "UsersEstimate": 14941
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -12845,7 +12856,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 14261
+      "UsersEstimate": 14262
     },
     {
       "ID": "CLAYFACE_2",
@@ -12901,7 +12912,7 @@
       "Name": "Not On My Watch",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 8828
+      "UsersEstimate": 8829
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -12949,7 +12960,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 8828
+      "UsersEstimate": 8829
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -13149,7 +13160,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 14940
+      "UsersEstimate": 14941
     },
     {
       "ID": "MYSTERY_04",
@@ -13228,22 +13239,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 67911,
+      "Progressed": 67912,
       "Completed": 108
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 38191,
+      "Progressed": 38192,
       "Completed": 2658
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-08-18T16:57:23.9002364+00:00",
-  "LastChanged_Achievements": "2023-08-19T16:08:27.3969929+00:00",
+  "LastChanged": "2023-08-19T16:57:53.0638706+00:00",
+  "LastChanged_Achievements": "2023-08-19T17:08:10.6397551+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:36.1459925+00:00",
-  "LastUpdate_Ratings": "2023-08-19T15:57:36.4566227+00:00",
-  "LastUpdate_Achievements": "2023-08-19T16:08:27.397178+00:00"
+  "LastUpdate_Ratings": "2023-08-19T16:57:53.0638712+00:00",
+  "LastUpdate_Achievements": "2023-08-19T17:08:10.6398878+00:00"
 }

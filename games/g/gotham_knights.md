@@ -12,9 +12,9 @@ Rating: 4.18 (Ranked 873)
 | Knighthood | 27.00% | ~18,336 |
 | Get ReQ'd | 25.00% | ~16,978 |
 | Whispered Words | 25.00% | ~16,978 |
-| The Batman Family | 22.00% | ~14,940 |
-| Lock and Key | 22.00% | ~14,940 |
-| Something in the Clay | 21.00% | ~14,261 |
+| The Batman Family | 22.00% | ~14,941 |
+| Lock and Key | 22.00% | ~14,941 |
+| Something in the Clay | 21.00% | ~14,262 |
 | Quartzer Life Crisis | 20.00% | ~13,582 |
 | Working Hard or Harley Working? | 20.00% | ~13,582 |
 | Unstoppable Force | 20.00% | ~13,582 |
@@ -29,8 +29,8 @@ Rating: 4.18 (Ranked 873)
 | Rock and a Hard Place | 14.00% | ~9,508 |
 | Cooldown | 14.00% | ~9,508 |
 | Seeking Asylum | 14.00% | ~9,508 |
-| Not On My Watch | 13.00% | ~8,828 |
-| Shock Til They Drop | 13.00% | ~8,828 |
+| Not On My Watch | 13.00% | ~8,829 |
+| Shock Til They Drop | 13.00% | ~8,829 |
 | End of an Era | 12.00% | ~8,149 |
 | Bulldozed | 12.00% | ~8,149 |
 | Gotham Knight | 12.00% | ~8,149 |
@@ -67,8 +67,8 @@ Rating: 4.18 (Ranked 873)
 | Element of Surprise | 0.20% | ~76 |
 | It's Nice to Be Wanted | 0.20% | ~76 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,911 (Ranked 80)  
-Completed: 108 (0.16%) (Ranked 192)  
+Progressed: 67,912 (Ranked 80)  
+Completed: 108 (0.16%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -188,10 +188,10 @@ Completed: 108 (0.16%) (Ranked 192)
 | 2023-08-16 | 67,871 | 107 |
 | 2023-08-17 | 67,881 | 107 |
 | 2023-08-18 | 67,896 | 107 |
-| 2023-08-19 | 67,911 | 108 |
+| 2023-08-19 | 67,912 | 108 |
 ## Awards
 Max (Great Boss Battles): 2,507  (Ranked 100)  
-Sum: 4,175 (Ranked 139)  
+Sum: 4,176 (Ranked 139)  
 Diff (max vs sum): -39  
 | Award | Count |
 | ----- | ----- |
@@ -203,7 +203,7 @@ Diff (max vs sum): -39
 | This game has Amazing Characters | 207 |
 | This game has Amazing Storytelling | 206 |
 | This game is Great for Beginners | 204 |
-| This game is Highly Recommended | 201 |
+| This game is Highly Recommended | 202 |
 | This game is Great for Quick Sessions | 60 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -385,3 +385,4 @@ Diff (max vs sum): -39
 | 2023-08-16 | 4.18 | 2,501 | 4,162 |
 | 2023-08-17 | 4.18 | 2,505 | 4,169 |
 | 2023-08-18 | 4.18 | 2,507 | 4,175 |
+| 2023-08-19 | 4.18 | 2,507 | 4,176 |

@@ -54,13 +54,13 @@
 | Curious | 3.00% | ~2 |
 | Pilgrim | 3.00% | ~2 |
 | Diligent | 3.00% | ~2 |
+| Food Poisoning | 3.00% | ~2 |
 | Silver Foundation | 3.00% | ~2 |
 | Silver Pest Control | 3.00% | ~2 |
 | Beetle | 3.00% | ~2 |
 | Anger Management | 3.00% | ~2 |
 | Revenge | 2.00% | ~1 |
 | Bronze BBQ | 2.00% | ~1 |
-| Food Poisoning | 2.00% | ~1 |
 | Golden Foundation | 2.00% | ~1 |
 | Sectoral Admiral | 2.00% | ~1 |
 | 80Gb HDD | 2.00% | ~1 |
@@ -138,7 +138,7 @@
 | Fighting Fit V | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 61 (Ranked 358)  
-Completed: 0 (0.00%) (Ranked 260)  
+Completed: 0 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

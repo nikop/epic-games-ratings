@@ -7,7 +7,7 @@ Rating: 4.68 (Ranked 238)
 | ---- | ---------- | ----- |
 | To Hell In A Handcart | 67.00% | ~404 |
 | Read Between The Lines | 65.00% | ~392 |
-| High Profile | 59.00% | ~356 |
+| High Profile | 60.00% | ~362 |
 | Whispers In The Dark | 58.00% | ~350 |
 | Fond Memories | 56.00% | ~338 |
 | History Check | 54.00% | ~326 |

@@ -82,7 +82,7 @@ Rating: 4.05 (Ranked 924)
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,822 (Ranked 173)  
-Completed: 2 (0.11%) (Ranked 203)  
+Completed: 2 (0.11%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

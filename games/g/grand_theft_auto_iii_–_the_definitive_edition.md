@@ -32,11 +32,11 @@ Rating: 4.17 (Ranked 879)
 | Man Toyz | 1.00% | ~76 |
 | Going Rogue | 1.00% | ~76 |
 | Furious First Responder | 0.90% | ~68 |
-| Is That All You've Got? | 0.80% | ~60 |
+| Is That All You've Got? | 0.90% | ~68 |
 | King of Liberty City | 0.60% | ~45 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 7,555 (Ranked 132)  
-Completed: 46 (0.61%) (Ranked 135)  
+Completed: 46 (0.61%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

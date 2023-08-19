@@ -6,9 +6,9 @@
   "Ranking_Popularity": 117,
   "Ranking_PopularitySum": 113,
   "Ranking_EOS_Progress": 121,
-  "Ranking_EOS_Completed": 260,
+  "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3408,10 +3408,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 6893,
       "NumberOfAwardsMax": 1701
+    },
+    {
+      "Time": "2023-08-19T17:01:34.9267744+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6895,
+      "NumberOfAwardsMax": 1701
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6893,
+  "NumberOfAwards": 6895,
   "NumberOfAwardsMax": 1701,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3467,7 +3473,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 565
+      "Count": 567
     },
     {
       "Text": "This game has Challenging Combat",
@@ -3482,7 +3488,7 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 11001,
+  "EOS_Progressed": 11002,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
@@ -10987,6 +10993,11 @@
       "Time": "2023-08-19T16:06:29.0291701+00:00",
       "NumProgressed": 11001,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-19T17:06:11.3732363+00:00",
+      "NumProgressed": 11002,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -11910,7 +11921,7 @@
       "Name": "The Lady of the Forest",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "DLC4_34_Beware of Still Water",
@@ -11918,28 +11929,28 @@
       "Name": "Beware Still Water",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     }
   ],
   "AchievementSets": [
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9783,
+      "Progressed": 9784,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11001,
+      "Progressed": 11002,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-08-18T19:00:41.4029375+00:00",
-  "LastChanged_Achievements": "2023-08-19T16:06:29.0291694+00:00",
+  "LastChanged": "2023-08-19T17:01:34.9267743+00:00",
+  "LastChanged_Achievements": "2023-08-19T17:06:11.3732357+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:48.9326646+00:00",
-  "LastUpdate_Ratings": "2023-08-19T16:02:07.1778436+00:00",
-  "LastUpdate_Achievements": "2023-08-19T16:06:29.029398+00:00"
+  "LastUpdate_Ratings": "2023-08-19T17:01:34.926775+00:00",
+  "LastUpdate_Achievements": "2023-08-19T17:06:11.3734244+00:00"
 }

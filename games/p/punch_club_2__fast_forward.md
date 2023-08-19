@@ -17,13 +17,13 @@
 | Employee of the week | 76.00% | ~197 |
 | Your own amateur gym | 75.00% | ~194 |
 | Run K, run! | 74.00% | ~192 |
-| Fighting is cool | 69.00% | ~179 |
+| Fighting is cool | 70.00% | ~181 |
+| No bullying more | 69.00% | ~179 |
 | Hello, world! | 69.00% | ~179 |
-| No bullying more | 68.00% | ~176 |
-| Pal of your father? | 66.00% | ~171 |
+| Pal of your father? | 67.00% | ~174 |
 | Employee of the month | 66.00% | ~171 |
 | Spirit of the past | 64.00% | ~166 |
-| Law student | 62.00% | ~161 |
+| Law student | 63.00% | ~163 |
 | Workout professional | 61.00% | ~158 |
 | Own four walls | 61.00% | ~158 |
 | Champion – starter pack | 60.00% | ~155 |
@@ -56,15 +56,15 @@
 | Problems of cyborgs | 34.00% | ~88 |
 | Undercover robot | 34.00% | ~88 |
 | Absolute Champion! | 33.00% | ~85 |
+| The lonesome road | 32.00% | ~83 |
+| Key memories | 32.00% | ~83 |
 | Not little hacker | 32.00% | ~83 |
 | Careerist | 32.00% | ~83 |
 | Anyone can resist | 32.00% | ~83 |
 | Trap disarmed | 31.00% | ~80 |
 | Another world | 31.00% | ~80 |
-| The lonesome road | 31.00% | ~80 |
 | Keep nature safe | 31.00% | ~80 |
 | Family comes first | 31.00% | ~80 |
-| Key memories | 31.00% | ~80 |
 | The last bell ring | 31.00% | ~80 |
 | The heart of the Resistance | 31.00% | ~80 |
 | Silver’s past | 28.00% | ~73 |

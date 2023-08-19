@@ -6,8 +6,8 @@ Number of Ratings: 75  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level: Returning Home | 50.00% | ~2,650 |
-| Returning Home: Quick Learner | 26.00% | ~1,378 |
+| Level: Returning Home | 50.00% | ~2,651 |
+| Returning Home: Quick Learner | 26.00% | ~1,379 |
 | Level: Charlie's Circuits | 22.00% | ~1,166 |
 | Level: Rising Markets | 9.00% | ~477 |
 | Peddler | 8.00% | ~424 |
@@ -49,9 +49,9 @@ Number of Ratings: 75  (23.09.2022)
 | Level: Eye In The Sky | 0.60% | ~32 |
 | Bet On Bots: Inspector's Favorite | 0.60% | ~32 |
 | Trendsetter | 0.60% | ~32 |
-| Level: Heating-Up | 0.50% | ~26 |
-| CEO | 0.50% | ~26 |
-| Rockstar | 0.50% | ~26 |
+| Level: Heating-Up | 0.50% | ~27 |
+| CEO | 0.50% | ~27 |
+| Rockstar | 0.50% | ~27 |
 | Campaign: Man vs. Machine | 0.40% | ~21 |
 | A Happy Taskforce: Interior Designer | 0.40% | ~21 |
 | Champion | 0.30% | ~16 |
@@ -83,8 +83,8 @@ Number of Ratings: 75  (23.09.2022)
 | Know-it-all | 0.10% | ~5 |
 | Prestigious | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,300 (Ranked 140)  
-Completed: 1 (0.02%) (Ranked 240)  
+Progressed: 5,302 (Ranked 140)  
+Completed: 1 (0.02%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -203,6 +203,7 @@ Completed: 1 (0.02%) (Ranked 240)
 | 2023-08-16 | 5,296 | 1 |
 | 2023-08-17 | 5,299 | 1 |
 | 2023-08-18 | 5,300 | 1 |
+| 2023-08-19 | 5,302 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

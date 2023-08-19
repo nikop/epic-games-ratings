@@ -6,15 +6,15 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 19.00% | ~40,775 |
-| Where's that freaking Dwarf? | 2.00% | ~4,292 |
-| Alt+F4 | 2.00% | ~4,292 |
+| Sowwy! | 19.00% | ~40,781 |
+| Where's that freaking Dwarf? | 2.00% | ~4,293 |
+| Alt+F4 | 2.00% | ~4,293 |
 | Déjà vu | 1.00% | ~2,146 |
 | Sock! SOCK! | 1.00% | ~2,146 |
-| A beer, two curses, three companions | 0.90% | ~1,931 |
-| GG EZ | 0.90% | ~1,931 |
-| Speedrun | 0.90% | ~1,931 |
-| Fireproof Wizardess | 0.90% | ~1,931 |
+| A beer, two curses, three companions | 0.90% | ~1,932 |
+| GG EZ | 0.90% | ~1,932 |
+| Speedrun | 0.90% | ~1,932 |
+| Fireproof Wizardess | 0.90% | ~1,932 |
 | DM intervention | 0.80% | ~1,717 |
 | Way of the Wimp | 0.70% | ~1,502 |
 | Livin' in a dwarven paradise | 0.60% | ~1,288 |
@@ -28,13 +28,13 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.50% | ~1,073 |
 | Team Building Exercise | 0.50% | ~1,073 |
 | Oh, when I'll be level 10... | 0.50% | ~1,073 |
-| Shiny and Crôm | 0.40% | ~858 |
-| The Statuette of Gladeulfeurah | 0.40% | ~858 |
-| A tale of adventurers not quite like the others... | 0.40% | ~858 |
-| The beards of change | 0.40% | ~858 |
-| The Ranger of Chaos | 0.40% | ~858 |
-| I am the night | 0.40% | ~858 |
-| Thieves' Guild Accreditation | 0.40% | ~858 |
+| Shiny and Crôm | 0.40% | ~859 |
+| The Statuette of Gladeulfeurah | 0.40% | ~859 |
+| A tale of adventurers not quite like the others... | 0.40% | ~859 |
+| The beards of change | 0.40% | ~859 |
+| The Ranger of Chaos | 0.40% | ~859 |
+| I am the night | 0.40% | ~859 |
+| Thieves' Guild Accreditation | 0.40% | ~859 |
 | Res Judicata | 0.30% | ~644 |
 | The Famous Dungeon of Naheulbeuk | 0.30% | ~644 |
 | Dwarf Fortress | 0.30% | ~644 |
@@ -95,8 +95,8 @@ Number of Ratings: 118  (23.09.2022)
 | Staff cut | 0.00% | ~0 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 214,606 (Ranked 56)  
-Completed: 2 (0.00%) (Ranked 260)  
+Progressed: 214,638 (Ranked 56)  
+Completed: 2 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -175,7 +175,7 @@ Completed: 2 (0.00%) (Ranked 260)
 | 2023-08-16 | 213,341 | 2 |
 | 2023-08-17 | 213,783 | 2 |
 | 2023-08-18 | 214,230 | 2 |
-| 2023-08-19 | 214,606 | 2 |
+| 2023-08-19 | 214,638 | 2 |
 ## Awards
 Max (Character Customization): 170  (Ranked 287)  
 Sum: 211 (Ranked 365)  

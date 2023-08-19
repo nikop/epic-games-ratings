@@ -3,9 +3,9 @@
   "Name": "Three Kingdoms The Last Warlord",
   "ProductSlug": "hmby-8a8452",
   "Ranking_EOS_Progress": 548,
-  "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 351,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_Completed": 261,
+  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2019-06-17T16:00:00+00:00",
@@ -1574,8 +1574,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:47:35.044621+00:00",
-  "LastChanged_Achievements": "2023-08-19T16:06:25.9078385+00:00",
+  "LastChanged_Achievements": "2023-08-19T17:06:07.4118169+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:22.1857074+00:00",
-  "LastUpdate_Ratings": "2023-08-19T16:01:50.4621391+00:00",
-  "LastUpdate_Achievements": "2023-08-19T16:06:25.9082905+00:00"
+  "LastUpdate_Ratings": "2023-08-19T17:01:20.2551138+00:00",
+  "LastUpdate_Achievements": "2023-08-19T17:06:07.4122574+00:00"
 }

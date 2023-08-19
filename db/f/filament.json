@@ -6,7 +6,7 @@
   "Ranking_Popularity": 190,
   "Ranking_PopularitySum": 281,
   "Ranking_EOS_Progress": 58,
-  "Ranking_EOS_Completed": 177,
+  "Ranking_EOS_Completed": 178,
   "Ranking_EOS_NewPlayers": 70,
   "Ranking_EOS_NewCompleters": 29,
   "Store": {
@@ -237,9 +237,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 199467,
+  "EOS_Progressed": 199472,
   "EOS_Completed": 483,
-  "EOS_NewPlayers": 579,
+  "EOS_NewPlayers": 582,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -13227,6 +13227,11 @@
       "Time": "2023-08-19T16:05:07.6632768+00:00",
       "NumProgressed": 199467,
       "NumCompleted": 483
+    },
+    {
+      "Time": "2023-08-19T17:05:03.9079045+00:00",
+      "NumProgressed": 199472,
+      "NumCompleted": 483
     }
   ],
   "TotalAchievements": 29,
@@ -13262,7 +13267,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 187499
+      "UsersEstimate": 187504
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -13318,7 +13323,7 @@
       "Name": "Corrupted.",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 9973
+      "UsersEstimate": 9974
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTEDCOMPLETE",
@@ -13398,7 +13403,7 @@
       "Name": "Good things come in pairs... Coloured Pairs.",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 9973
+      "UsersEstimate": 9974
     },
     {
       "ID": "ACHIEVEMENT_REQUISITE",
@@ -13469,7 +13474,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 199467,
+      "Progressed": 199472,
       "Completed": 483
     }
   ],
@@ -13477,8 +13482,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-08-12T04:00:44.2118416+00:00",
-  "LastChanged_Achievements": "2023-08-19T16:05:07.6632762+00:00",
+  "LastChanged_Achievements": "2023-08-19T17:05:03.9079039+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:20.1074044+00:00",
-  "LastUpdate_Ratings": "2023-08-19T16:02:40.3416851+00:00",
-  "LastUpdate_Achievements": "2023-08-19T16:05:07.6634182+00:00"
+  "LastUpdate_Ratings": "2023-08-19T17:02:05.3485909+00:00",
+  "LastUpdate_Achievements": "2023-08-19T17:05:03.9080355+00:00"
 }
