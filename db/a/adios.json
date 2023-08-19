@@ -2,7 +2,7 @@
   "ID": "a3dd9f3da8ec49c7b25dec42cce2ec46",
   "Name": "Adios",
   "ProductSlug": "adios-b378b4",
-  "Ranking_Rating": 970,
+  "Ranking_Rating": 971,
   "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 79,
@@ -96,9 +96,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 70475,
+  "EOS_Progressed": 70476,
   "EOS_Completed": 713,
-  "EOS_NewPlayers": 790,
+  "EOS_NewPlayers": 786,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.01,
   "EosHistory": [
@@ -13406,6 +13406,11 @@
       "Time": "2023-08-19T06:05:07.5076271+00:00",
       "NumProgressed": 70475,
       "NumCompleted": 713
+    },
+    {
+      "Time": "2023-08-19T07:04:09.1601648+00:00",
+      "NumProgressed": 70476,
+      "NumCompleted": 713
     }
   ],
   "TotalAchievements": 25,
@@ -13449,7 +13454,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 15504
+      "UsersEstimate": 15505
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -13473,7 +13478,7 @@
       "Name": "Cut Call",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 4228
+      "UsersEstimate": 4229
     },
     {
       "ID": "Fair\u0027sFair",
@@ -13616,7 +13621,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 70475,
+      "Progressed": 70476,
       "Completed": 713
     }
   ],
@@ -13624,8 +13629,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-08-07T22:57:38.0235808+00:00",
-  "LastChanged_Achievements": "2023-08-19T06:05:07.5076261+00:00",
+  "LastChanged_Achievements": "2023-08-19T07:04:09.1601642+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:12.0925901+00:00",
-  "LastUpdate_Ratings": "2023-08-19T05:59:22.4065353+00:00",
-  "LastUpdate_Achievements": "2023-08-19T06:05:07.5077152+00:00"
+  "LastUpdate_Ratings": "2023-08-19T06:58:22.8894645+00:00",
+  "LastUpdate_Achievements": "2023-08-19T07:04:09.1602641+00:00"
 }

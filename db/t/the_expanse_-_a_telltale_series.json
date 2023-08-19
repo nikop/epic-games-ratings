@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8326,
+  "EOS_Progressed": 8330,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1403,
+  "EOS_NewPlayers": 1400,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2482,6 +2482,11 @@
       "Time": "2023-08-19T06:08:03.2344385+00:00",
       "NumProgressed": 8326,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-19T07:07:09.8123596+00:00",
+      "NumProgressed": 8330,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -2534,7 +2539,7 @@
       "Name": "Doctor Approved",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 1332
+      "UsersEstimate": 1333
     },
     {
       "ID": "15",
@@ -2542,7 +2547,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 1332
+      "UsersEstimate": 1333
     },
     {
       "ID": "16",
@@ -2670,7 +2675,7 @@
       "Name": "Captain Drummer",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1249
+      "UsersEstimate": 1250
     },
     {
       "ID": "30",
@@ -2733,14 +2738,14 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 8326,
+      "Progressed": 8330,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged_Achievements": "2023-08-19T06:08:03.2344379+00:00",
+  "LastChanged_Achievements": "2023-08-19T07:07:09.812359+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:56.6215488+00:00",
-  "LastUpdate_Ratings": "2023-08-19T06:02:17.3353464+00:00",
-  "LastUpdate_Achievements": "2023-08-19T06:08:03.2344844+00:00"
+  "LastUpdate_Ratings": "2023-08-19T07:01:20.9269755+00:00",
+  "LastUpdate_Achievements": "2023-08-19T07:07:09.8123959+00:00"
 }

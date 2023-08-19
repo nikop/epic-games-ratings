@@ -10613,9 +10613,9 @@
       "Count": 5609
     }
   ],
-  "EOS_Progressed": 871498,
+  "EOS_Progressed": 871501,
   "EOS_Completed": 1981,
-  "EOS_NewPlayers": 1069,
+  "EOS_NewPlayers": 1062,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -23923,6 +23923,11 @@
       "Time": "2023-08-19T06:07:00.9234884+00:00",
       "NumProgressed": 871498,
       "NumCompleted": 1981
+    },
+    {
+      "Time": "2023-08-19T07:06:06.3245166+00:00",
+      "NumProgressed": 871501,
+      "NumCompleted": 1981
     }
   ],
   "TotalAchievements": 44,
@@ -23966,7 +23971,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 339884
+      "UsersEstimate": 339885
     },
     {
       "ID": "FollowingTheRiver",
@@ -24110,7 +24115,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 252734
+      "UsersEstimate": 252735
     },
     {
       "ID": "Specialist",
@@ -24134,7 +24139,7 @@
       "Name": "Rough Landing",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4357
+      "UsersEstimate": 4358
     },
     {
       "ID": "TheDevil",
@@ -24150,7 +24155,7 @@
       "Name": "The Fool",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 592619
+      "UsersEstimate": 592621
     },
     {
       "ID": "TheHermit",
@@ -24158,7 +24163,7 @@
       "Name": "The Hermit",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 217874
+      "UsersEstimate": 217875
     },
     {
       "ID": "TheHightPriestess",
@@ -24174,7 +24179,7 @@
       "Name": "The Lovers",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 305024
+      "UsersEstimate": 305025
     },
     {
       "ID": "TheStar",
@@ -24198,7 +24203,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 235304
+      "UsersEstimate": 235305
     },
     {
       "ID": "TheWorld",
@@ -24285,21 +24290,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 871498,
+      "Progressed": 871501,
       "Completed": 1981
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 121,
-      "Completed": 121
+      "Progressed": 124,
+      "Completed": 124
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-08-19T00:00:41.305543+00:00",
-  "LastChanged_Achievements": "2023-08-19T06:07:00.9234864+00:00",
+  "LastChanged_Achievements": "2023-08-19T07:06:06.3245161+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:39.9582585+00:00",
-  "LastUpdate_Ratings": "2023-08-19T06:00:59.2292327+00:00",
-  "LastUpdate_Achievements": "2023-08-19T06:07:00.9235958+00:00"
+  "LastUpdate_Ratings": "2023-08-19T07:00:03.9332755+00:00",
+  "LastUpdate_Achievements": "2023-08-19T07:06:06.3246335+00:00"
 }

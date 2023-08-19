@@ -4,7 +4,7 @@
   "ProductSlug": "world-of-contraptions-6dbc07",
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-05-29T11:00:00+00:00",
@@ -1307,8 +1307,8 @@
   ],
   "FirstSeen": "2023-05-29T16:58:58.1647905+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:26.7720125+00:00",
-  "LastChanged_Achievements": "2023-08-19T06:06:16.2292926+00:00",
+  "LastChanged_Achievements": "2023-08-19T07:05:19.7142293+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:51.6962188+00:00",
-  "LastUpdate_Ratings": "2023-08-19T06:01:13.2088043+00:00",
-  "LastUpdate_Achievements": "2023-08-19T06:06:16.2293155+00:00"
+  "LastUpdate_Ratings": "2023-08-19T07:00:18.0954205+00:00",
+  "LastUpdate_Achievements": "2023-08-19T07:05:19.7142592+00:00"
 }

@@ -1,7 +1,7 @@
 # Hercule Poirot - The First Cases
 [Store](https://store.epicgames.com/en-US/p/hercule-poirot-the-first-cases-584238)  
 [View Rawdata](../../db/h/hercule_poirot_-_the_first_cases.json)  
-Rating: 4.35 (Ranked 752)  
+Rating: 4.35 (Ranked 753)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -19,8 +19,8 @@ Rating: 4.35 (Ranked 752)
 | The Altercation | 50.00% | ~206 |
 | Truth from Within | 49.00% | ~202 |
 | The Major | 48.00% | ~198 |
+| Comtesse Margaux de Vos | 46.00% | ~190 |
 | Curious and Beautiful | 45.00% | ~185 |
-| Comtesse Margaux de Vos | 45.00% | ~185 |
 | Jacqueline “Jackie” Conrad | 44.00% | ~181 |
 | The Interrogations | 44.00% | ~181 |
 | Well-acquainted | 42.00% | ~173 |

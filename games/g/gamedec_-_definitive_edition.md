@@ -1,26 +1,26 @@
 # Gamedec - Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/gamedec)  
 [View Rawdata](../../db/g/gamedec_-_definitive_edition.json)  
-Rating: 4.31 (Ranked 785)  
+Rating: 4.31 (Ranked 786)  
 Number of Ratings: 33  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~67,930 |
-| Powergamer | 27.00% | ~65,504 |
-| Barely scratched the surface | 25.00% | ~60,652 |
-| Write that down | 24.00% | ~58,225 |
+| I will finish what you started | 28.00% | ~67,931 |
+| Powergamer | 27.00% | ~65,505 |
+| Barely scratched the surface | 25.00% | ~60,653 |
+| Write that down | 24.00% | ~58,227 |
 | Guns, lots of guns | 12.00% | ~29,113 |
 | Collector | 11.00% | ~26,687 |
 | Elementary! | 9.00% | ~21,835 |
-| Pumpkin Jack | 8.00% | ~19,408 |
-| Wake up! | 8.00% | ~19,408 |
-| It's honest work | 7.00% | ~16,982 |
-| Griever | 7.00% | ~16,982 |
-| Me smart | 6.00% | ~14,556 |
-| Trash compactor | 6.00% | ~14,556 |
-| Good listener | 5.00% | ~12,130 |
-| Valedictorian | 5.00% | ~12,130 |
+| Pumpkin Jack | 8.00% | ~19,409 |
+| Wake up! | 8.00% | ~19,409 |
+| It's honest work | 7.00% | ~16,983 |
+| Griever | 7.00% | ~16,983 |
+| Me smart | 6.00% | ~14,557 |
+| Trash compactor | 6.00% | ~14,557 |
+| Good listener | 5.00% | ~12,131 |
+| Valedictorian | 5.00% | ~12,131 |
 | BOY! | 4.00% | ~9,704 |
 | Ka-ching! | 4.00% | ~9,704 |
 | So you like to read? | 4.00% | ~9,704 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~485 |
 | Memory 5 | 0.10% | ~243 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,606 (Ranked 48)  
+Progressed: 242,611 (Ranked 48)  
 Completed: 7 (0.00%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 7 (0.00%) (Ranked 260)
 | 2023-08-16 | 242,305 | 7 |
 | 2023-08-17 | 242,438 | 7 |
 | 2023-08-18 | 242,570 | 7 |
-| 2023-08-19 | 242,606 | 7 |
+| 2023-08-19 | 242,611 | 7 |
 ## Awards
 Max (Character Customization): 79  (Ranked 363)  
 Sum: 79 (Ranked 428)  

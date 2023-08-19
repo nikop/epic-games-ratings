@@ -3,11 +3,11 @@
   "Name": "Old World",
   "ProductSlug": "old-world",
   "Ranking_Rating": 300,
-  "Ranking_Popularity": 264,
+  "Ranking_Popularity": 263,
   "Ranking_PopularitySum": 206,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -1531,11 +1531,17 @@
       "Rating": 4.65,
       "NumberOfAwards": 1792,
       "NumberOfAwardsMax": 219
+    },
+    {
+      "Time": "2023-08-19T07:00:05.602757+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1793,
+      "NumberOfAwardsMax": 220
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1792,
-  "NumberOfAwardsMax": 219,
+  "NumberOfAwards": 1793,
+  "NumberOfAwardsMax": 220,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
     {
@@ -1584,7 +1590,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 219
+      "Count": 220
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -12256,9 +12262,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
-  "LastChanged": "2023-08-16T15:59:34.3416467+00:00",
-  "LastChanged_Achievements": "2023-08-19T06:06:51.2098438+00:00",
+  "LastChanged": "2023-08-19T07:00:05.6027568+00:00",
+  "LastChanged_Achievements": "2023-08-19T07:05:55.7752409+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:38.1291138+00:00",
-  "LastUpdate_Ratings": "2023-08-19T06:01:01.2973694+00:00",
-  "LastUpdate_Achievements": "2023-08-19T06:06:51.2107376+00:00"
+  "LastUpdate_Ratings": "2023-08-19T07:00:05.6027574+00:00",
+  "LastUpdate_Achievements": "2023-08-19T07:05:55.7761049+00:00"
 }

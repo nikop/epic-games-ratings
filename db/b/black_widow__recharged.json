@@ -2,7 +2,7 @@
   "ID": "a25444fc25e9498781983b58ceba30c5",
   "Name": "Black Widow: Recharged",
   "ProductSlug": "black-widow-recharged",
-  "Ranking_Rating": 849,
+  "Ranking_Rating": 850,
   "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 111,
@@ -152,9 +152,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17315,
+  "EOS_Progressed": 17316,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 186,
+  "EOS_NewPlayers": 187,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -10137,6 +10137,11 @@
       "Time": "2023-08-19T06:05:11.2772718+00:00",
       "NumProgressed": 17315,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-08-19T07:04:12.924712+00:00",
+      "NumProgressed": 17316,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 14,
@@ -10148,7 +10153,7 @@
       "Name": "Across The Border",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 13679
+      "UsersEstimate": 13680
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -10188,7 +10193,7 @@
       "Name": "Everyone\u0027s Born to Die",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 2770
+      "UsersEstimate": 2771
     },
     {
       "ID": "ACH_HELLO_MY_OLD_FRIEND",
@@ -10259,15 +10264,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 17315,
+      "Progressed": 17316,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-08-16T03:57:34.8125865+00:00",
-  "LastChanged_Achievements": "2023-08-19T06:05:11.2772713+00:00",
+  "LastChanged_Achievements": "2023-08-19T07:04:12.9247114+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:20.9472808+00:00",
-  "LastUpdate_Ratings": "2023-08-19T05:59:11.9507533+00:00",
-  "LastUpdate_Achievements": "2023-08-19T06:05:11.2773598+00:00"
+  "LastUpdate_Ratings": "2023-08-19T06:58:08.2940484+00:00",
+  "LastUpdate_Achievements": "2023-08-19T07:04:12.9247848+00:00"
 }

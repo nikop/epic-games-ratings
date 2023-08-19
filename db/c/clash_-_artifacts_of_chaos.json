@@ -4,7 +4,7 @@
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewPlayers": 311,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -357,9 +357,9 @@
       "ID": "Achievement19",
       "SetID": "jf6ho5",
       "Name": "Corwid Hill",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "Achievement2",
@@ -413,9 +413,9 @@
       "ID": "Achievement6",
       "SetID": "jf6ho5",
       "Name": "Total Eclipse",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Achievement7",
@@ -454,8 +454,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2023-08-19T06:07:40.6539605+00:00",
+  "LastChanged_Achievements": "2023-08-19T07:06:46.7414612+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:11.5271676+00:00",
-  "LastUpdate_Ratings": "2023-08-19T05:58:58.5327784+00:00",
-  "LastUpdate_Achievements": "2023-08-19T06:07:40.6539767+00:00"
+  "LastUpdate_Ratings": "2023-08-19T06:57:57.6425133+00:00",
+  "LastUpdate_Achievements": "2023-08-19T07:06:46.7414773+00:00"
 }

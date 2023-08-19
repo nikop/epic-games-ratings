@@ -2,13 +2,13 @@
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
-  "Ranking_Rating": 871,
+  "Ranking_Rating": 872,
   "Ranking_Popularity": 100,
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -2480,9 +2480,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 67905,
+  "EOS_Progressed": 67907,
   "EOS_Completed": 107,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -12700,6 +12700,11 @@
       "Time": "2023-08-19T06:08:01.6974657+00:00",
       "NumProgressed": 67905,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2023-08-19T07:07:08.2910234+00:00",
+      "NumProgressed": 67907,
+      "NumCompleted": 107
     }
   ],
   "TotalAchievements": 61,
@@ -12759,7 +12764,7 @@
       "Name": "The Batman Family",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 14939
+      "UsersEstimate": 14940
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -12895,7 +12900,7 @@
       "Name": "Out of Their League",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6111
+      "UsersEstimate": 6112
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -12927,7 +12932,7 @@
       "Name": "Drone You Out",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 6790
+      "UsersEstimate": 6791
     },
     {
       "ID": "FREEZE_1",
@@ -12935,7 +12940,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 19013
+      "UsersEstimate": 19014
     },
     {
       "ID": "FREEZE_1_5",
@@ -13023,7 +13028,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 16976
+      "UsersEstimate": 16977
     },
     {
       "ID": "HARLEY_3",
@@ -13055,7 +13060,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 33952
+      "UsersEstimate": 33954
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -13087,7 +13092,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 18334
+      "UsersEstimate": 18335
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -13111,7 +13116,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 16976
+      "UsersEstimate": 16977
     },
     {
       "ID": "MYSTERY_03",
@@ -13119,7 +13124,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 14939
+      "UsersEstimate": 14940
     },
     {
       "ID": "MYSTERY_04",
@@ -13175,7 +13180,7 @@
       "Name": "Solid Alibi",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6111
+      "UsersEstimate": 6112
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -13198,13 +13203,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 67905,
+      "Progressed": 67907,
       "Completed": 107
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 38185,
+      "Progressed": 38187,
       "Completed": 2658
     }
   ],
@@ -13212,8 +13217,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-08-18T16:57:23.9002364+00:00",
-  "LastChanged_Achievements": "2023-08-19T06:08:01.6974652+00:00",
+  "LastChanged_Achievements": "2023-08-19T07:07:08.2910228+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:49.7416919+00:00",
-  "LastUpdate_Ratings": "2023-08-19T05:58:24.8900761+00:00",
-  "LastUpdate_Achievements": "2023-08-19T06:08:01.6975981+00:00"
+  "LastUpdate_Ratings": "2023-08-19T06:57:21.1235247+00:00",
+  "LastUpdate_Achievements": "2023-08-19T07:07:08.2911448+00:00"
 }

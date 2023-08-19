@@ -6,8 +6,8 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 19.00% | ~40,727 |
-| Alt+F4 | 2.00% | ~4,287 |
+| Sowwy! | 19.00% | ~40,731 |
+| Alt+F4 | 2.00% | ~4,288 |
 | Déjà vu | 1.00% | ~2,144 |
 | Where's that freaking Dwarf? | 1.00% | ~2,144 |
 | Sock! SOCK! | 1.00% | ~2,144 |
@@ -27,14 +27,14 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.50% | ~1,072 |
 | Team Building Exercise | 0.50% | ~1,072 |
 | Oh, when I'll be level 10... | 0.50% | ~1,072 |
-| Shiny and Crôm | 0.40% | ~857 |
-| The Dungeon Master | 0.40% | ~857 |
-| The Statuette of Gladeulfeurah | 0.40% | ~857 |
-| A tale of adventurers not quite like the others... | 0.40% | ~857 |
-| The beards of change | 0.40% | ~857 |
-| The Ranger of Chaos | 0.40% | ~857 |
-| I am the night | 0.40% | ~857 |
-| Thieves' Guild Accreditation | 0.40% | ~857 |
+| Shiny and Crôm | 0.40% | ~858 |
+| The Dungeon Master | 0.40% | ~858 |
+| The Statuette of Gladeulfeurah | 0.40% | ~858 |
+| A tale of adventurers not quite like the others... | 0.40% | ~858 |
+| The beards of change | 0.40% | ~858 |
+| The Ranger of Chaos | 0.40% | ~858 |
+| I am the night | 0.40% | ~858 |
+| Thieves' Guild Accreditation | 0.40% | ~858 |
 | Res Judicata | 0.30% | ~643 |
 | The Famous Dungeon of Naheulbeuk | 0.30% | ~643 |
 | Dwarf Fortress | 0.30% | ~643 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Staff cut | 0.00% | ~0 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 214,354 (Ranked 56)  
+Progressed: 214,375 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,7 +175,7 @@ Completed: 2 (0.00%) (Ranked 260)
 | 2023-08-16 | 213,341 | 2 |
 | 2023-08-17 | 213,783 | 2 |
 | 2023-08-18 | 214,230 | 2 |
-| 2023-08-19 | 214,354 | 2 |
+| 2023-08-19 | 214,375 | 2 |
 ## Awards
 Max (Character Customization): 168  (Ranked 289)  
 Sum: 209 (Ranked 366)  

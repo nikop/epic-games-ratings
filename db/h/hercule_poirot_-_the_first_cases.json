@@ -2,12 +2,12 @@
   "ID": "711c559363934d6eb17c6ff3f0539b2b",
   "Name": "Hercule Poirot - The First Cases",
   "ProductSlug": "hercule-poirot-the-first-cases-584238",
-  "Ranking_Rating": 752,
+  "Ranking_Rating": 753,
   "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 105,
-  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewPlayers": 311,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-02-28T00:00:00+00:00",
@@ -667,9 +667,9 @@
       "ID": "ACH_034",
       "SetID": "72imik0",
       "Name": "Comtesse Margaux de Vos",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 185
+      "UsersEstimate": 190
     },
     {
       "ID": "ACH_035",
@@ -828,8 +828,8 @@
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "LastChanged": "2023-07-07T15:57:52.1284059+00:00",
-  "LastChanged_Achievements": "2023-08-19T06:07:18.3156091+00:00",
+  "LastChanged_Achievements": "2023-08-19T07:06:23.9669635+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:27.247224+00:00",
-  "LastUpdate_Ratings": "2023-08-19T06:00:48.0648622+00:00",
-  "LastUpdate_Achievements": "2023-08-19T06:07:18.3156486+00:00"
+  "LastUpdate_Ratings": "2023-08-19T06:59:52.0497086+00:00",
+  "LastUpdate_Achievements": "2023-08-19T07:06:23.9670096+00:00"
 }
