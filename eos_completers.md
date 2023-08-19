@@ -87,8 +87,8 @@
 | 85 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.52% |
 | 86 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 87 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.35% |
-| 88 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 2.29% |
-| 89 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.26% |
+| 88 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.26% |
+| 89 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 2.23% |
 | 90 | [Bloodshore](games/b/bloodshore.md) | 2.21% |
 | 91 | [FORECLOSED](games/f/foreclosed.md) | 2.17% |
 | 92 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.04% |
@@ -102,8 +102,8 @@
 | 99 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.67% |
 | 101 | [Iron Danger](games/i/iron_danger.md) | 1.60% |
 | 102 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.59% |
-| 103 | [Five Dates](games/f/five_dates.md) | 1.57% |
 | 103 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.57% |
+| 104 | [Five Dates](games/f/five_dates.md) | 1.56% |
 | 105 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.49% |
 | 106 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.47% |
 | 107 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.46% |
