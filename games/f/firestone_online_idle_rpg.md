@@ -7,17 +7,17 @@ Rating: 4.05 (Ranked 924)
 | ---- | ---------- | ----- |
 | Victor | 93.00% | ~1,694 |
 | World Map | 79.00% | ~1,439 |
-| Temple of Eternals | 57.00% | ~1,038 |
-| Prestigious | 53.00% | ~965 |
+| Temple of Eternals | 57.00% | ~1,039 |
+| Prestigious | 53.00% | ~966 |
 | Fellowship Power | 41.00% | ~747 |
-| Guild Power | 25.00% | ~455 |
+| Guild Power | 25.00% | ~456 |
 | Prestigious x10 | 22.00% | ~401 |
 | The game is on | 20.00% | ~364 |
 | Exotic Merchant | 18.00% | ~328 |
 | Dragon Clicker | 17.00% | ~310 |
 | Miner Clicker | 17.00% | ~310 |
-| Full Party | 16.00% | ~291 |
-| Inspection | 16.00% | ~291 |
+| Full Party | 16.00% | ~292 |
+| Inspection | 16.00% | ~292 |
 | Dragon Master | 15.00% | ~273 |
 | Enlightenment | 15.00% | ~273 |
 | Hero inspection | 14.00% | ~255 |
@@ -43,13 +43,13 @@ Rating: 4.05 (Ranked 924)
 | Master Enchanter | 9.00% | ~164 |
 | The father of Dragons | 9.00% | ~164 |
 | Trader | 8.00% | ~146 |
-| Blueprint Upgrades | 7.00% | ~127 |
-| Crystal Mining | 7.00% | ~127 |
-| Dragon Slayer | 7.00% | ~127 |
-| Enchanting skill | 7.00% | ~127 |
-| Engineer Mastery | 7.00% | ~127 |
-| The Expeditioner | 7.00% | ~127 |
-| Weekly Quest Completionist | 7.00% | ~127 |
+| Blueprint Upgrades | 7.00% | ~128 |
+| Crystal Mining | 7.00% | ~128 |
+| Dragon Slayer | 7.00% | ~128 |
+| Enchanting skill | 7.00% | ~128 |
+| Engineer Mastery | 7.00% | ~128 |
+| The Expeditioner | 7.00% | ~128 |
+| Weekly Quest Completionist | 7.00% | ~128 |
 | Ancient Knowledge | 6.00% | ~109 |
 | How Do You Turn This On? | 6.00% | ~109 |
 | Lock And Load | 6.00% | ~109 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 924)
 | Silverwood liberator | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,821 (Ranked 173)  
+Progressed: 1,822 (Ranked 173)  
 Completed: 2 (0.11%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 2 (0.11%) (Ranked 203)
 | 2023-08-16 | 1,811 | 2 |
 | 2023-08-17 | 1,817 | 2 |
 | 2023-08-18 | 1,820 | 2 |
-| 2023-08-19 | 1,821 | 2 |
+| 2023-08-19 | 1,822 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

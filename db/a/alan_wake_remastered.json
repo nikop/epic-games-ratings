@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 61105,
+  "EOS_Progressed": 61108,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 392,
+  "EOS_NewPlayers": 393,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11717,6 +11717,11 @@
       "Time": "2023-08-19T10:05:33.4558168+00:00",
       "NumProgressed": 61105,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-19T12:05:54.5085552+00:00",
+      "NumProgressed": 61108,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -11728,7 +11733,7 @@
       "Name": "Follow the Light",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 22609
+      "UsersEstimate": 22610
     },
     {
       "ID": "02",
@@ -11736,7 +11741,7 @@
       "Name": "Nordic Walking",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 14054
+      "UsersEstimate": 14055
     },
     {
       "ID": "03",
@@ -11744,7 +11749,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 14054
+      "UsersEstimate": 14055
     },
     {
       "ID": "04",
@@ -11760,7 +11765,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 12221
+      "UsersEstimate": 12222
     },
     {
       "ID": "06",
@@ -11832,7 +11837,7 @@
       "Name": "Gatekeeper",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6110
+      "UsersEstimate": 6111
     },
     {
       "ID": "15",
@@ -11840,7 +11845,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6110
+      "UsersEstimate": 6111
     },
     {
       "ID": "16",
@@ -11848,7 +11853,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4277
+      "UsersEstimate": 4278
     },
     {
       "ID": "17",
@@ -11856,7 +11861,7 @@
       "Name": "Departure",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4277
+      "UsersEstimate": 4278
     },
     {
       "ID": "18",
@@ -11920,7 +11925,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4888
+      "UsersEstimate": 4889
     },
     {
       "ID": "26",
@@ -11960,7 +11965,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6110
+      "UsersEstimate": 6111
     },
     {
       "ID": "31",
@@ -11976,7 +11981,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 17720
+      "UsersEstimate": 17721
     },
     {
       "ID": "33",
@@ -11992,7 +11997,7 @@
       "Name": "Energized!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6110
+      "UsersEstimate": 6111
     },
     {
       "ID": "35",
@@ -12040,7 +12045,7 @@
       "Name": "Right of Way",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5499
+      "UsersEstimate": 5500
     },
     {
       "ID": "41",
@@ -12136,7 +12141,7 @@
       "Name": "A Friend Indeed",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1474
+      "UsersEstimate": 1475
     },
     {
       "ID": "53",
@@ -12224,7 +12229,7 @@
       "Name": "Iron Will",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "64",
@@ -12263,21 +12268,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 61105,
+      "Progressed": 61108,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 24573,
+      "Progressed": 24576,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-19T11:06:41.2912772+00:00",
+  "LastChanged_Achievements": "2023-08-19T12:05:54.5085546+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:35.5614422+00:00",
-  "LastUpdate_Ratings": "2023-08-19T10:59:52.2117081+00:00",
-  "LastUpdate_Achievements": "2023-08-19T11:06:41.291416+00:00"
+  "LastUpdate_Ratings": "2023-08-19T11:59:18.9971992+00:00",
+  "LastUpdate_Achievements": "2023-08-19T12:05:54.5086888+00:00"
 }

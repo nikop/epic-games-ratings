@@ -6,31 +6,31 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~38,148 |
-| First Steps | 80.00% | ~32,815 |
-| Control the Shadows | 67.00% | ~27,483 |
-| Tools of the Trade | 63.00% | ~25,842 |
-| Apprentice | 60.00% | ~24,611 |
-| Secret Seeker | 57.00% | ~23,381 |
-| Forge of Assassins | 55.00% | ~22,560 |
-| Revenant | 52.00% | ~21,330 |
-| I don’t Care! | 45.00% | ~18,459 |
-| Bird of Prey | 37.00% | ~15,177 |
-| Engraved with Power | 32.00% | ~13,126 |
-| Lady | 31.00% | ~12,716 |
-| Fashionable Assassin | 27.00% | ~11,075 |
-| Apex Predator | 24.00% | ~9,845 |
-| Soul Reaver | 22.00% | ~9,024 |
-| Embers | 21.00% | ~8,614 |
-| Wall Lizard | 20.00% | ~8,204 |
-| Clinging to Life | 18.00% | ~7,383 |
-| Burning | 17.00% | ~6,973 |
-| Look Behind You | 16.00% | ~6,563 |
-| Sleeping on the Job | 16.00% | ~6,563 |
+| Awakening | 93.00% | ~38,151 |
+| First Steps | 80.00% | ~32,818 |
+| Control the Shadows | 67.00% | ~27,485 |
+| Tools of the Trade | 63.00% | ~25,844 |
+| Apprentice | 60.00% | ~24,614 |
+| Secret Seeker | 57.00% | ~23,383 |
+| Forge of Assassins | 55.00% | ~22,563 |
+| Revenant | 52.00% | ~21,332 |
+| I don’t Care! | 45.00% | ~18,460 |
+| Bird of Prey | 37.00% | ~15,179 |
+| Engraved with Power | 32.00% | ~13,127 |
+| Lady | 31.00% | ~12,717 |
+| Fashionable Assassin | 27.00% | ~11,076 |
+| Apex Predator | 24.00% | ~9,846 |
+| Soul Reaver | 22.00% | ~9,025 |
+| Embers | 21.00% | ~8,615 |
+| Wall Lizard | 20.00% | ~8,205 |
+| Clinging to Life | 18.00% | ~7,384 |
+| Burning | 17.00% | ~6,974 |
+| Look Behind You | 16.00% | ~6,564 |
+| Sleeping on the Job | 16.00% | ~6,564 |
 | Family | 14.00% | ~5,743 |
 | War Engines | 14.00% | ~5,743 |
 | Signature Move | 14.00% | ~5,743 |
-| Ruse | 11.00% | ~4,512 |
+| Ruse | 11.00% | ~4,513 |
 | Master Ninja | 10.00% | ~4,102 |
 | Hatching | 9.00% | ~3,692 |
 | Bonds | 9.00% | ~3,692 |
@@ -38,7 +38,7 @@ Number of Ratings: 88  (23.09.2022)
 | The Hidden Village | 9.00% | ~3,692 |
 | Denouement | 8.00% | ~3,282 |
 | A Pleasant Stay | 8.00% | ~3,282 |
-| Pilgrimage | 7.00% | ~2,871 |
+| Pilgrimage | 7.00% | ~2,872 |
 | The Lookout | 5.00% | ~2,051 |
 | The Spirit of Vengeance | 5.00% | ~2,051 |
 | Hollow | 5.00% | ~2,051 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Hot Potato | 1.00% | ~410 |
 | Anger Management | 1.00% | ~410 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41,019 (Ranked 92)  
+Progressed: 41,023 (Ranked 92)  
 Completed: 208 (0.51%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,7 +172,7 @@ Completed: 208 (0.51%) (Ranked 144)
 | 2023-08-16 | 40,843 | 207 |
 | 2023-08-17 | 40,912 | 207 |
 | 2023-08-18 | 40,980 | 208 |
-| 2023-08-19 | 41,019 | 208 |
+| 2023-08-19 | 41,023 | 208 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

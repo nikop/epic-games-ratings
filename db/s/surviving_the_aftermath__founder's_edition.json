@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 278,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewPlayers": 103,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1185,9 +1185,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 8378,
+  "EOS_Progressed": 8379,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 178,
+  "EOS_NewPlayers": 179,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10885,6 +10885,11 @@
       "Time": "2023-08-19T11:07:48.173665+00:00",
       "NumProgressed": 8378,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-19T12:06:48.4882359+00:00",
+      "NumProgressed": 8379,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -10904,7 +10909,7 @@
       "Name": "Friendly",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1340
+      "UsersEstimate": 1341
     },
     {
       "ID": "11",
@@ -10928,7 +10933,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 4440
+      "UsersEstimate": 4441
     },
     {
       "ID": "14",
@@ -10984,7 +10989,7 @@
       "Name": "Local Leader",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 2932
+      "UsersEstimate": 2933
     },
     {
       "ID": "20",
@@ -11008,7 +11013,7 @@
       "Name": "First Step",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 6032
+      "UsersEstimate": 6033
     },
     {
       "ID": "23",
@@ -11070,9 +11075,9 @@
       "ID": "3",
       "SetID": "8idi9ml",
       "Name": "Great Leader",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1843
+      "UsersEstimate": 1927
     },
     {
       "ID": "30",
@@ -11104,7 +11109,7 @@
       "Name": "Around the World",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1340
+      "UsersEstimate": 1341
     },
     {
       "ID": "34",
@@ -11144,7 +11149,7 @@
       "Name": "Aspiring Inventor",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 3686
+      "UsersEstimate": 3687
     },
     {
       "ID": "39",
@@ -11176,7 +11181,7 @@
       "Name": "New Eden",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "42",
@@ -11216,7 +11221,7 @@
       "Name": "Finders, Keepers",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 2178
+      "UsersEstimate": 2179
     },
     {
       "ID": "47",
@@ -11288,7 +11293,7 @@
       "Name": "Top Notch",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2094
+      "UsersEstimate": 2095
     },
     {
       "ID": "55",
@@ -11320,7 +11325,7 @@
       "Name": "Tailored to fit",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "59",
@@ -11367,15 +11372,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 8378,
+      "Progressed": 8379,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-08-19T04:57:29.3183117+00:00",
-  "LastChanged_Achievements": "2023-08-19T11:07:48.1736643+00:00",
+  "LastChanged_Achievements": "2023-08-19T12:06:48.4882354+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:48.2219404+00:00",
-  "LastUpdate_Ratings": "2023-08-19T10:57:41.7365688+00:00",
-  "LastUpdate_Achievements": "2023-08-19T11:07:48.1738022+00:00"
+  "LastUpdate_Ratings": "2023-08-19T11:57:32.7174871+00:00",
+  "LastUpdate_Achievements": "2023-08-19T12:06:48.4883498+00:00"
 }

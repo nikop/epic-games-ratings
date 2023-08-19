@@ -266,7 +266,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3084,
+  "EOS_Progressed": 3085,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
@@ -4601,6 +4601,11 @@
       "Time": "2023-08-19T11:07:34.8701825+00:00",
       "NumProgressed": 3084,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-19T12:06:37.9563112+00:00",
+      "NumProgressed": 3085,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -4722,9 +4727,9 @@
       "ID": "ACH_BASE_24",
       "SetID": "92iocjf",
       "Name": "Sputnik 2049",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 709
+      "UsersEstimate": 679
     },
     {
       "ID": "ACH_BASE_25",
@@ -5067,13 +5072,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1266,
+      "Progressed": 1267,
       "Completed": 6
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3084,
+      "Progressed": 3085,
       "Completed": 0
     }
   ],
@@ -5081,8 +5086,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-08-19T11:00:48.8517492+00:00",
-  "LastChanged_Achievements": "2023-08-19T11:07:34.8701817+00:00",
+  "LastChanged_Achievements": "2023-08-19T12:06:37.9563107+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:49.8768726+00:00",
-  "LastUpdate_Ratings": "2023-08-19T11:00:48.85175+00:00",
-  "LastUpdate_Achievements": "2023-08-19T11:07:34.870284+00:00"
+  "LastUpdate_Ratings": "2023-08-19T12:00:06.1402054+00:00",
+  "LastUpdate_Achievements": "2023-08-19T12:06:37.9563973+00:00"
 }

@@ -14,8 +14,8 @@
 | Biding My Time | 44.00% | ~45 |
 | The Gunner's Dream | 41.00% | ~42 |
 | Another Brick in the Wall (Part 3) | 35.00% | ~36 |
-| Burning Bridges | 26.00% | ~27 |
-| The Last Few Bricks | 26.00% | ~27 |
+| Burning Bridges | 27.00% | ~28 |
+| The Last Few Bricks | 27.00% | ~28 |
 | The Dogs of War | 13.00% | ~13 |
 | I'm a King Bee | 7.00% | ~7 |
 | What Shall We Do Now? | 2.00% | ~2 |

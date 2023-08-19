@@ -1549,9 +1549,9 @@
       "ID": "ACHIEVEMENT_SCENARIO_FARMLAND",
       "SetID": "9eacipp",
       "Name": "Little place in the country",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 21
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_FESTIVITIES",
@@ -1565,9 +1565,9 @@
       "ID": "ACHIEVEMENT_SCENARIO_GIRLSDESIRES",
       "SetID": "9eacipp",
       "Name": "Treat her well\u2026",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 42
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_HARSHWINTER",
@@ -1621,9 +1621,9 @@
       "ID": "ACHIEVEMENT_SCENARIO_MONEYBAGS",
       "SetID": "9eacipp",
       "Name": "Penny pincher",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 30
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_MONUMENTAL",
@@ -1693,9 +1693,9 @@
       "ID": "ACHIEVEMENT_SCENARIO_WEDDING",
       "SetID": "9eacipp",
       "Name": "I\u0027ve been everywhere VI",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 34
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_WOODSHORTAGE",
@@ -1885,8 +1885,8 @@
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-06-06T06:58:15.5941175+00:00",
-  "LastChanged_Achievements": "2023-08-19T11:08:04.5784876+00:00",
+  "LastChanged_Achievements": "2023-08-19T12:07:11.0543653+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:01.292647+00:00",
-  "LastUpdate_Ratings": "2023-08-19T11:00:14.8442142+00:00",
-  "LastUpdate_Achievements": "2023-08-19T11:08:04.5786327+00:00"
+  "LastUpdate_Ratings": "2023-08-19T11:59:39.9291064+00:00",
+  "LastUpdate_Achievements": "2023-08-19T12:07:11.0544995+00:00"
 }

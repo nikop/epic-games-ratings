@@ -26,17 +26,18 @@
 | Quartermaster | 3.00% | ~4 |
 | Supercargo | 3.00% | ~4 |
 | Strategist | 3.00% | ~4 |
+| Potential Unlocked | 3.00% | ~4 |
 | Xevarian Gambit | 3.00% | ~4 |
 | Deputized | 3.00% | ~4 |
 | Harbinger | 3.00% | ~4 |
+| The Voice of Hereafter | 3.00% | ~4 |
 | Pilgrimage's End | 3.00% | ~4 |
 | Merchant | 3.00% | ~4 |
 | Trouble at Fort Larius | 3.00% | ~4 |
 | Making Contact | 2.00% | ~3 |
 | Bounty Hunter | 2.00% | ~3 |
-| Potential Unlocked | 2.00% | ~3 |
+| Adept | 2.00% | ~3 |
 | Huntress Unbound | 2.00% | ~3 |
-| The Voice of Hereafter | 2.00% | ~3 |
 | Despised | 2.00% | ~3 |
 | Business As Usual | 2.00% | ~3 |
 | Trailblazer | 2.00% | ~3 |
@@ -46,7 +47,6 @@
 | Life... Finds a Way | 2.00% | ~3 |
 | Unseen Patterns | 2.00% | ~3 |
 | Loremaster | 0.80% | ~1 |
-| Adept | 0.80% | ~1 |
 | Talent Nurtured | 0.80% | ~1 |
 | Embellished | 0.80% | ~1 |
 | Conqueror | 0.80% | ~1 |
@@ -57,6 +57,7 @@
 | Ruiner | 0.80% | ~1 |
 | Wyrmslayer | 0.80% | ~1 |
 | Merchant Lord | 0.80% | ~1 |
+| Glorious leader | 0.80% | ~1 |
 | Voracity Confronted | 0.80% | ~1 |
 | Liberator | 0.00% | ~0 |
 | For the Cause! | 0.00% | ~0 |
@@ -100,7 +101,6 @@
 | Theory to Practice | 0.00% | ~0 |
 | Defiant | 0.00% | ~0 |
 | Vagrus Supreme | 0.00% | ~0 |
-| Glorious leader | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
 | Insectoid Propagator | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

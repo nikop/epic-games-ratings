@@ -6,19 +6,19 @@ Number of Ratings: 2,536  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 97.00% | ~48,572 |
-| ''I don't like you either!'' | 79.00% | ~39,558 |
-| ''Impressive, most impressive'' | 72.00% | ~36,053 |
-| ''You think you're some kind of Jedi?'' | 72.00% | ~36,053 |
+| ''You guys got yourself a ship!'' | 97.00% | ~48,573 |
+| ''I don't like you either!'' | 79.00% | ~39,559 |
+| ''Impressive, most impressive'' | 72.00% | ~36,054 |
+| ''You think you're some kind of Jedi?'' | 72.00% | ~36,054 |
 | The Phantom Menace | 59.00% | ~29,544 |
 | ''Aggressive Negotiations'' | 59.00% | ~29,544 |
-| ''I can fly anything'' | 57.00% | ~28,542 |
+| ''I can fly anything'' | 57.00% | ~28,543 |
 | ''And who gave you permission...?'' | 54.00% | ~27,040 |
 | A New Hope | 48.00% | ~24,036 |
 | Attack of the Clones | 47.00% | ~23,535 |
 | Revenge of the Sith | 40.00% | ~20,030 |
 | The Empire Strikes Back | 38.00% | ~19,028 |
-| ''A fine addition to my collection'' | 37.00% | ~18,527 |
+| ''A fine addition to my collection'' | 37.00% | ~18,528 |
 | Return of the Jedi | 32.00% | ~16,024 |
 | The Force Awakens | 27.00% | ~13,520 |
 | The Last Jedi | 23.00% | ~11,517 |
@@ -33,26 +33,26 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''GONK!'' | 3.00% | ~1,502 |
 | ''Hey, what are you trying to push on us?'' | 3.00% | ~1,502 |
 | The Slice | 3.00% | ~1,502 |
-| ''Hello there!'' | 2.00% | ~1,001 |
-| Unknown Regions | 2.00% | ~1,001 |
-| ''Do or do not. There is no try'' | 2.00% | ~1,001 |
-| ''See you around, kid'' | 2.00% | ~1,001 |
-| ''The fastest hunk of junk in the galaxy'' | 2.00% | ~1,001 |
-| Greater Javin | 2.00% | ~1,001 |
-| New Territories | 2.00% | ~1,001 |
-| The Interior | 2.00% | ~1,001 |
-| Western Reaches | 2.00% | ~1,001 |
-| Trailing Sectors | 2.00% | ~1,001 |
-| The Arkanis Sector | 2.00% | ~1,001 |
-| ''A little short for a Stormtrooper...'' | 2.00% | ~1,001 |
-| ''Power! Unlimited power!'' | 2.00% | ~1,001 |
-| ''No more training, do you require'' | 2.00% | ~1,001 |
-| ''You needn't worry about your reward'' | 2.00% | ~1,001 |
-| ''Now I am the Master'' | 2.00% | ~1,001 |
+| ''Hello there!'' | 2.00% | ~1,002 |
+| Unknown Regions | 2.00% | ~1,002 |
+| ''Do or do not. There is no try'' | 2.00% | ~1,002 |
+| ''See you around, kid'' | 2.00% | ~1,002 |
+| ''The fastest hunk of junk in the galaxy'' | 2.00% | ~1,002 |
+| Greater Javin | 2.00% | ~1,002 |
+| New Territories | 2.00% | ~1,002 |
+| The Interior | 2.00% | ~1,002 |
+| Western Reaches | 2.00% | ~1,002 |
+| Trailing Sectors | 2.00% | ~1,002 |
+| The Arkanis Sector | 2.00% | ~1,002 |
+| ''A little short for a Stormtrooper...'' | 2.00% | ~1,002 |
+| ''Power! Unlimited power!'' | 2.00% | ~1,002 |
+| ''No more training, do you require'' | 2.00% | ~1,002 |
+| ''You needn't worry about your reward'' | 2.00% | ~1,002 |
+| ''Now I am the Master'' | 2.00% | ~1,002 |
 | ''Jedi Business'' | 1.00% | ~501 |
 | ''I've never seen a real one!'' | 0.90% | ~451 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50,074 (Ranked 89)  
+Progressed: 50,075 (Ranked 89)  
 Completed: 223 (0.45%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,7 +173,7 @@ Completed: 223 (0.45%) (Ranked 152)
 | 2023-08-16 | 50,067 | 222 |
 | 2023-08-17 | 50,069 | 223 |
 | 2023-08-18 | 50,073 | 223 |
-| 2023-08-19 | 50,074 | 223 |
+| 2023-08-19 | 50,075 | 223 |
 ## Awards
 Max (Great Boss Battles): 2,379  (Ranked 103)  
 Sum: 6,544 (Ranked 118)  

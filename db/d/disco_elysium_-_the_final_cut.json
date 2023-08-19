@@ -1271,9 +1271,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 126473,
+  "EOS_Progressed": 126474,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 401,
+  "EOS_NewPlayers": 399,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -13326,6 +13326,11 @@
       "Time": "2023-08-19T11:05:35.3472667+00:00",
       "NumProgressed": 126473,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-08-19T12:04:51.1730457+00:00",
+      "NumProgressed": 126474,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 40,
@@ -13417,7 +13422,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 35412
+      "UsersEstimate": 35413
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -13465,7 +13470,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 16441
+      "UsersEstimate": 16442
     },
     {
       "ID": "ACH_COP_STAR",
@@ -13617,7 +13622,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 16441
+      "UsersEstimate": 16442
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -13656,15 +13661,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 126473,
+      "Progressed": 126474,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-08-18T14:00:21.7656873+00:00",
-  "LastChanged_Achievements": "2023-08-19T11:05:35.347266+00:00",
+  "LastChanged_Achievements": "2023-08-19T12:04:51.1730452+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:47.5856644+00:00",
-  "LastUpdate_Ratings": "2023-08-19T11:01:43.313147+00:00",
-  "LastUpdate_Achievements": "2023-08-19T11:05:35.3474159+00:00"
+  "LastUpdate_Ratings": "2023-08-19T12:00:49.8773688+00:00",
+  "LastUpdate_Achievements": "2023-08-19T12:04:51.1731486+00:00"
 }

@@ -9,9 +9,9 @@
 | Learn the Ropes | 55.00% | ~6 |
 | A Startling Discovery | 55.00% | ~6 |
 | Practice Makes Postmasters | 45.00% | ~5 |
+| Pumpkins and Postage Stamps | 27.00% | ~3 |
 | Fun in the Bungalow Basin Sun | 27.00% | ~3 |
 | Secrets of the Telepost | 18.00% | ~2 |
-| Pumpkins and Postage Stamps | 18.00% | ~2 |
 | Kiwinter Kiwonderland | 18.00% | ~2 |
 | Autumn Postmasters | 9.00% | ~1 |
 | Summer Postmasters | 9.00% | ~1 |

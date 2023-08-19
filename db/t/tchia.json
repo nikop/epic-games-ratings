@@ -212,9 +212,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7160,
+  "EOS_Progressed": 7163,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 209,
+  "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -5957,6 +5957,11 @@
       "Time": "2023-08-19T11:06:26.5219109+00:00",
       "NumProgressed": 7160,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-08-19T12:05:42.7061988+00:00",
+      "NumProgressed": 7163,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 21,
@@ -6080,7 +6085,7 @@
       "Name": "Liberator",
       "Percentage": 4,
       "XP": 80,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "LIVE_WIRE",
@@ -6088,7 +6093,7 @@
       "Name": "Live Wire",
       "Percentage": 4,
       "XP": 80,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "SHREDDER",
@@ -6135,7 +6140,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7160,
+      "Progressed": 7163,
       "Completed": 32
     }
   ],
@@ -6143,8 +6148,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-08-07T01:56:04.2387619+00:00",
-  "LastChanged_Achievements": "2023-08-19T11:06:26.5219099+00:00",
+  "LastChanged_Achievements": "2023-08-19T12:05:42.706198+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:55.8261903+00:00",
-  "LastUpdate_Ratings": "2023-08-19T11:00:10.9660521+00:00",
-  "LastUpdate_Achievements": "2023-08-19T11:06:26.5219965+00:00"
+  "LastUpdate_Ratings": "2023-08-19T11:59:37.3083368+00:00",
+  "LastUpdate_Achievements": "2023-08-19T12:05:42.7062492+00:00"
 }

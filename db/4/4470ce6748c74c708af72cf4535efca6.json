@@ -4,7 +4,7 @@
   "ProductSlug": "warstone-td-8fe138",
   "Ranking_EOS_Progress": 427,
   "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -412,9 +412,9 @@
       "ID": "5",
       "SetID": "5e3maia",
       "Name": "Tax official",
-      "Percentage": 106,
+      "Percentage": 113,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "50",
@@ -500,9 +500,9 @@
       "ID": "6",
       "SetID": "5e3maia",
       "Name": "Blacksmith",
-      "Percentage": 113,
+      "Percentage": 119,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "60",
@@ -588,9 +588,9 @@
       "ID": "7",
       "SetID": "5e3maia",
       "Name": "Shamanslayer",
-      "Percentage": 94,
+      "Percentage": 100,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "70",
@@ -627,8 +627,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-08-19T11:04:59.5052121+00:00",
+  "LastChanged_Achievements": "2023-08-19T12:04:23.1106009+00:00",
   "LastUpdate_AppInfo": "2023-08-18T21:57:04.0506989+00:00",
-  "LastUpdate_Ratings": "2023-08-19T10:58:21.1432328+00:00",
-  "LastUpdate_Achievements": "2023-08-19T11:04:59.5052876+00:00"
+  "LastUpdate_Ratings": "2023-08-19T11:58:02.0966629+00:00",
+  "LastUpdate_Achievements": "2023-08-19T12:04:23.1106716+00:00"
 }

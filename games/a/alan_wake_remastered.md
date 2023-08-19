@@ -6,12 +6,12 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 37.00% | ~22,609 |
+| Follow the Light | 37.00% | ~22,610 |
 | Let There Be Light | 30.00% | ~18,332 |
-| Float Like a Butterfly | 29.00% | ~17,720 |
-| Nordic Walking | 23.00% | ~14,054 |
-| Bright Falls' Finest | 23.00% | ~14,054 |
-| Under a Thin Layer of Skin | 20.00% | ~12,221 |
+| Float Like a Butterfly | 29.00% | ~17,721 |
+| Nordic Walking | 23.00% | ~14,055 |
+| Bright Falls' Finest | 23.00% | ~14,055 |
+| Under a Thin Layer of Skin | 20.00% | ~12,222 |
 | Paging Mr. Wake | 17.00% | ~10,388 |
 | Park Ranger | 16.00% | ~9,777 |
 | Back! Back, I Say! | 15.00% | ~9,166 |
@@ -29,17 +29,17 @@ Number of Ratings: 524  (23.09.2022)
 | Perchance to Dream | 11.00% | ~6,722 |
 | It's Not Just a Typewriter Brand | 11.00% | ~6,722 |
 | Thunder and Lightning | 11.00% | ~6,722 |
-| Gatekeeper | 10.00% | ~6,110 |
-| The Lady of the Light | 10.00% | ~6,110 |
-| Two For the Price of One | 10.00% | ~6,110 |
-| Energized! | 10.00% | ~6,110 |
-| Right of Way | 9.00% | ~5,499 |
-| What Light Through Yonder Window | 8.00% | ~4,888 |
+| Gatekeeper | 10.00% | ~6,111 |
+| The Lady of the Light | 10.00% | ~6,111 |
+| Two For the Price of One | 10.00% | ~6,111 |
+| Energized! | 10.00% | ~6,111 |
+| Right of Way | 9.00% | ~5,500 |
+| What Light Through Yonder Window | 8.00% | ~4,889 |
 | A Friend in Need | 8.00% | ~1,966 |
-| Tornado Wrangler | 7.00% | ~4,277 |
-| Departure | 7.00% | ~4,277 |
+| Tornado Wrangler | 7.00% | ~4,278 |
+| Departure | 7.00% | ~4,278 |
 | Hardboiled Writer | 6.00% | ~3,666 |
-| A Friend Indeed | 6.00% | ~1,474 |
+| A Friend Indeed | 6.00% | ~1,475 |
 | Children of the Elder God | 5.00% | ~3,055 |
 | Drink 'Em Both Up | 5.00% | ~3,055 |
 | Ding! | 5.00% | ~1,229 |
@@ -53,7 +53,7 @@ Number of Ratings: 524  (23.09.2022)
 | Taken Season | 2.00% | ~1,222 |
 | An Idyllic Small Town | 2.00% | ~1,222 |
 | Couch Potato | 2.00% | ~1,222 |
-| Iron Will | 2.00% | ~491 |
+| Iron Will | 2.00% | ~492 |
 | Go Gentle Into That Good Light | 1.00% | ~246 |
 | Words Will Never Harm You | 0.70% | ~172 |
 | Cardboard Companions | 0.60% | ~147 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~61 |
 | No Punctuation | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,105 (Ranked 85)  
+Progressed: 61,108 (Ranked 85)  
 Completed: 64 (0.10%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 64 (0.10%) (Ranked 206)
 | 2023-08-16 | 60,965 | 64 |
 | 2023-08-17 | 61,025 | 64 |
 | 2023-08-18 | 61,081 | 64 |
-| 2023-08-19 | 61,105 | 64 |
+| 2023-08-19 | 61,108 | 64 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

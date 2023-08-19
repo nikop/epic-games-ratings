@@ -66,21 +66,22 @@ Number of Ratings: 37  (23.09.2022)
 | Completionist III | 1.00% | ~42 |
 | Only the sausage has two ends. | 1.00% | ~42 |
 | Reunification | 1.00% | ~42 |
+| Treat her well… | 1.00% | ~42 |
 | I've been everywhere I | 1.00% | ~42 |
 | Tax-man V | 1.00% | ~42 |
 | A time consuming game V | 1.00% | ~42 |
-| Treat her well… | 0.90% | ~38 |
 | I've been everywhere II | 0.90% | ~38 |
 | When there's fire... | 0.80% | ~34 |
+| I've been everywhere VI | 0.80% | ~34 |
 | Last man standing | 0.70% | ~30 |
 | Builder V | 0.70% | ~30 |
 | Ten-Hut! | 0.70% | ~30 |
-| I've been everywhere VI | 0.70% | ~30 |
+| Penny pincher | 0.70% | ~30 |
 | The wood shortage | 0.70% | ~30 |
 | Buried | 0.60% | ~25 |
 | Craftsmen challenge | 0.60% | ~25 |
-| Penny pincher | 0.60% | ~25 |
 | I've been everywhere III | 0.50% | ~21 |
+| Little place in the country | 0.50% | ~21 |
 | Made my choice | 0.50% | ~21 |
 | An honorable departure | 0.50% | ~21 |
 | I've been everywhere VII | 0.50% | ~21 |
@@ -91,7 +92,6 @@ Number of Ratings: 37  (23.09.2022)
 | Panacea | 0.40% | ~17 |
 | I've been everywhere IV | 0.40% | ~17 |
 | Governor-elect | 0.40% | ~17 |
-| Little place in the country | 0.40% | ~17 |
 | I've been everywhere VIII | 0.40% | ~17 |
 | I've been everywhere IX | 0.40% | ~17 |
 | I've been everywhere X | 0.40% | ~17 |
