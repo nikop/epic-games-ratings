@@ -1268,9 +1268,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 427489,
+  "EOS_Progressed": 427490,
   "EOS_Completed": 525,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -9678,6 +9678,11 @@
       "Time": "2023-08-19T20:02:09.0169531+00:00",
       "NumProgressed": 427489,
       "NumCompleted": 525
+    },
+    {
+      "Time": "2023-08-19T21:02:17.8905533+00:00",
+      "NumProgressed": 427490,
+      "NumCompleted": 525
     }
   ],
   "TotalAchievements": 41,
@@ -9689,7 +9694,7 @@
       "Name": "Skillful Spirit Guide",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 64123
+      "UsersEstimate": 64124
     },
     {
       "ID": "ACH_ABILITY_BOMB",
@@ -9705,7 +9710,7 @@
       "Name": "Hunter in the Forest",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 256493
+      "UsersEstimate": 256494
     },
     {
       "ID": "ACH_ABILITY_DASH",
@@ -9729,7 +9734,7 @@
       "Name": "Spirit Guide",
       "Percentage": 42,
       "XP": 60,
-      "UsersEstimate": 179545
+      "UsersEstimate": 179546
     },
     {
       "ID": "ACH_BOSS_TOSHI",
@@ -9753,7 +9758,7 @@
       "Name": "Piercing Blow",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 59848
+      "UsersEstimate": 59849
     },
     {
       "ID": "ACH_CHALLENGE_BOMB",
@@ -9769,7 +9774,7 @@
       "Name": "Rot Commander",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 256493
+      "UsersEstimate": 256494
     },
     {
       "ID": "ACH_CHALLENGE_CRIT",
@@ -9857,7 +9862,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 406115
+      "UsersEstimate": 406116
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -9873,7 +9878,7 @@
       "Name": "Good as New",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 307792
+      "UsersEstimate": 307793
     },
     {
       "ID": "ACH_LOCATION_FARM",
@@ -9889,7 +9894,7 @@
       "Name": "Into the Woods",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 294967
+      "UsersEstimate": 294968
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -9905,7 +9910,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 341991
+      "UsersEstimate": 341992
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -9945,7 +9950,7 @@
       "Name": "Adira\u0027s Fear",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 141071
+      "UsersEstimate": 141072
     },
     {
       "ID": "ACH_RELIC_HARPOON",
@@ -9977,7 +9982,7 @@
       "Name": "Taro\u0027s Regret",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 183820
+      "UsersEstimate": 183821
     },
     {
       "ID": "ACH_RELIC_OX",
@@ -9985,7 +9990,7 @@
       "Name": "Adira\u0027s Love",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 145346
+      "UsersEstimate": 145347
     },
     {
       "ID": "ACH_RELIC_VILLAGE_CREST",
@@ -10016,15 +10021,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 427489,
+      "Progressed": 427490,
       "Completed": 525
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-08-18T15:01:03.2016492+00:00",
-  "LastChanged_Achievements": "2023-08-19T20:02:09.0169526+00:00",
+  "LastChanged_Achievements": "2023-08-19T21:02:17.8905522+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:25.46969+00:00",
-  "LastUpdate_Ratings": "2023-08-19T19:59:56.2609434+00:00",
-  "LastUpdate_Achievements": "2023-08-19T20:02:09.01709+00:00"
+  "LastUpdate_Ratings": "2023-08-19T21:00:09.7836027+00:00",
+  "LastUpdate_Achievements": "2023-08-19T21:02:17.8907013+00:00"
 }

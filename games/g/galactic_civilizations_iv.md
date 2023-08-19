@@ -7,20 +7,20 @@ Number of Ratings: 429  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Colonize a Planet | 79.00% | ~5,069 |
-| Worker Specialization | 78.00% | ~5,004 |
+| Worker Specialization | 78.00% | ~5,005 |
 | First Contact | 73.00% | ~4,684 |
 | Win a Battle | 67.00% | ~4,299 |
-| Anomaly Researcher | 63.00% | ~4,042 |
-| Unleash My Power | 62.00% | ~3,978 |
-| Own 30 Planets | 34.00% | ~2,181 |
+| Anomaly Researcher | 63.00% | ~4,043 |
+| Unleash My Power | 62.00% | ~3,979 |
+| Own 30 Planets | 34.00% | ~2,182 |
 | Xenocide | 32.00% | ~2,053 |
 | Design a Civilization | 32.00% | ~2,053 |
 | Commodity Trader | 31.00% | ~1,989 |
-| Design a Ship | 28.00% | ~1,796 |
+| Design a Ship | 28.00% | ~1,797 |
 | Commodity Seller | 25.00% | ~1,604 |
 | Prestige Victory! | 14.00% | ~898 |
 | Galactic War | 11.00% | ~706 |
-| Trading Partner | 9.00% | ~577 |
+| Trading Partner | 9.00% | ~578 |
 | Fleet Victory | 8.00% | ~513 |
 | Win as Terrans | 7.00% | ~449 |
 | Gain an Ally | 6.00% | ~385 |
@@ -29,7 +29,7 @@ Number of Ratings: 429  (23.09.2022)
 | Win Quickly | 5.00% | ~321 |
 | Conquest Victory! | 4.00% | ~257 |
 | Win an Immense Game | 4.00% | ~257 |
-| Pirate Cleansing | 3.00% | ~192 |
+| Pirate Cleansing | 3.00% | ~193 |
 | Artifact Mastery | 2.00% | ~128 |
 | Win as Altarians | 2.00% | ~128 |
 | Win as the Mimot | 2.00% | ~128 |
@@ -46,9 +46,9 @@ Number of Ratings: 429  (23.09.2022)
 | Win as the Drath | 0.70% | ~45 |
 | Win as the Manti | 0.70% | ~45 |
 | Diplomatic Victory! | 0.70% | ~45 |
-| Win as the Iconians | 0.60% | ~38 |
-| Win as the Iridium | 0.60% | ~38 |
-| Win as the Onyx | 0.60% | ~38 |
+| Win as the Iconians | 0.60% | ~39 |
+| Win as the Iridium | 0.60% | ~39 |
+| Win as the Onyx | 0.60% | ~39 |
 | Iconia Reclaimed! | 0.30% | ~19 |
 | Relic Hoarder | 0.20% | ~13 |
 | Discover a Nebula | 0.20% | ~13 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,416 (Ranked 136)  
+Progressed: 6,417 (Ranked 136)  
 Completed: 0 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,7 +200,7 @@ Completed: 0 (0.00%) (Ranked 261)
 | 2023-08-16 | 6,382 | 0 |
 | 2023-08-17 | 6,394 | 0 |
 | 2023-08-18 | 6,408 | 0 |
-| 2023-08-19 | 6,416 | 0 |
+| 2023-08-19 | 6,417 | 0 |
 ## Awards
 Max (Diverse Characters): 93  (Ranked 349)  
 Sum: 674 (Ranked 282)  

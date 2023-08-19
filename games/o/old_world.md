@@ -12,6 +12,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Friendly Family | 3.00% | ~405 |
 | Play a Single Player Game | 3.00% | ~405 |
 | Able | 2.00% | ~270 |
+| Ambitious | 2.00% | ~270 |
 | Architect | 2.00% | ~270 |
 | Enlightened | 2.00% | ~270 |
 | Glorious | 2.00% | ~270 |
@@ -28,6 +29,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Warrior | 2.00% | ~270 |
 | Developing Cities | 2.00% | ~270 |
 | Hanging Gardens | 2.00% | ~270 |
+| Lighthouse | 2.00% | ~270 |
 | Oracle | 2.00% | ~270 |
 | Pyramids | 2.00% | ~270 |
 | Judaism | 2.00% | ~270 |
@@ -38,7 +40,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Great Mage | 2.00% | ~270 |
 | Poetic Leader | 2.00% | ~270 |
 | Regicide | 1.00% | ~135 |
-| Ambitious | 1.00% | ~135 |
 | Drillmaster | 1.00% | ~135 |
 | Brilliant | 1.00% | ~135 |
 | Fountainhead | 1.00% | ~135 |
@@ -55,7 +56,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus | 1.00% | ~135 |
 | Great Ziggurat | 1.00% | ~135 |
 | Ishtar Gate | 1.00% | ~135 |
-| Lighthouse | 1.00% | ~135 |
 | Musaeum | 1.00% | ~135 |
 | Necropolis | 1.00% | ~135 |
 | Learn to Play 1 | 1.00% | ~135 |
@@ -72,12 +72,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Acropolis | 0.90% | ~121 |
 | Mausoleum | 0.90% | ~121 |
 | Hanging Gardens in Babylon | 0.80% | ~108 |
+| Beloved | 0.80% | ~108 |
 | Mighty | 0.80% | ~108 |
 | Champions | 0.80% | ~108 |
 | Greece | 0.80% | ~108 |
 | Building Wonders | 0.80% | ~108 |
 | Points Victory | 0.80% | ~108 |
-| Beloved | 0.70% | ~94 |
 | Conqueror | 0.70% | ~94 |
 | Lion | 0.70% | ~94 |
 | Victorious | 0.70% | ~94 |
@@ -92,7 +92,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Persian Paganism | 0.70% | ~94 |
 | Economic Reform | 0.70% | ~94 |
 | Legalism | 0.70% | ~94 |
+| Legionary | 0.70% | ~94 |
 | Phalangite | 0.70% | ~94 |
+| Capable | 0.60% | ~81 |
 | Invincible | 0.60% | ~81 |
 | Subjugator | 0.60% | ~81 |
 | Riders | 0.60% | ~81 |
@@ -101,15 +103,14 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hagia Sophia | 0.60% | ~81 |
 | Church of the Holy Sepulchre | 0.60% | ~81 |
 | Learn to Play 3 | 0.60% | ~81 |
+| Carthage | 0.60% | ~81 |
 | Assyrian Paganism | 0.60% | ~81 |
 | Dualism | 0.60% | ~81 |
 | Redemption | 0.60% | ~81 |
 | Cimmerian Archer | 0.60% | ~81 |
-| Legionary | 0.60% | ~81 |
 | Double Victory | 0.60% | ~81 |
 | Win a Single Player Game | 0.60% | ~81 |
 | Bad Heir Day | 0.50% | ~67 |
-| Capable | 0.50% | ~67 |
 | Devout | 0.50% | ~67 |
 | Ready | 0.50% | ~67 |
 | Strong Difficulty | 0.50% | ~67 |
@@ -117,7 +118,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Landowners | 0.50% | ~67 |
 | Adur Burzen-Mihr | 0.50% | ~67 |
 | Babylonia | 0.50% | ~67 |
-| Carthage | 0.50% | ~67 |
 | Industrial Progress | 0.50% | ~67 |
 | Military Prestige | 0.50% | ~67 |
 | Enlightenment | 0.50% | ~67 |
@@ -139,6 +139,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | No Undo | 0.40% | ~54 |
 | Carthage - Ox Hide | 0.30% | ~40 |
 | Peacemaker | 0.30% | ~40 |
+| Glorious Difficulty | 0.30% | ~40 |
 | Noble Difficulty | 0.30% | ~40 |
 | Cao'an | 0.30% | ~40 |
 | Persia | 0.30% | ~40 |
@@ -154,7 +155,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Silver Victory (Carthage 1) | 0.20% | ~27 |
 | Carthage - Riches and Influence | 0.20% | ~27 |
 | Ancient | 0.20% | ~27 |
-| Glorious Difficulty | 0.20% | ~27 |
+| Great Difficulty | 0.20% | ~27 |
 | Magnificent Difficulty | 0.20% | ~27 |
 | Event Level High | 0.20% | ~27 |
 | The Eternal Treaty | 0.20% | ~27 |
@@ -205,7 +206,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Destroyer | 0.10% | ~13 |
 | Holy | 0.10% | ~13 |
 | Rebuilder | 0.10% | ~13 |
-| Great Difficulty | 0.10% | ~13 |
 | Et tu Brutus? | 0.10% | ~13 |
 | Battle of the Fertile Crescent | 0.10% | ~13 |
 | Five Routs | 0.10% | ~13 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,484 (Ranked 118)  
+Progressed: 13,485 (Ranked 118)  
 Completed: 5 (0.04%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -424,7 +424,7 @@ Completed: 5 (0.04%) (Ranked 231)
 | 2023-08-16 | 13,432 | 5 |
 | 2023-08-17 | 13,444 | 5 |
 | 2023-08-18 | 13,460 | 5 |
-| 2023-08-19 | 13,484 | 5 |
+| 2023-08-19 | 13,485 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,795 (Ranked 206)  

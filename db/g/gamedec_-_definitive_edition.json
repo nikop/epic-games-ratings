@@ -396,9 +396,9 @@
       "Count": 79
     }
   ],
-  "EOS_Progressed": 242697,
+  "EOS_Progressed": 242705,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1014,
+  "EOS_NewPlayers": 1015,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13736,6 +13736,11 @@
       "Time": "2023-08-19T20:04:10.647066+00:00",
       "NumProgressed": 242697,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-08-19T21:04:31.5001254+00:00",
+      "NumProgressed": 242705,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -13747,7 +13752,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 65528
+      "UsersEstimate": 65530
     },
     {
       "ID": "ACH_AON",
@@ -13787,7 +13792,7 @@
       "Name": "Collector",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 26697
+      "UsersEstimate": 26698
     },
     {
       "ID": "ACH_ENJOY",
@@ -13795,7 +13800,7 @@
       "Name": "Enjoy these little moments",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1213
+      "UsersEstimate": 1214
     },
     {
       "ID": "ACH_GENTLEMAN",
@@ -13811,7 +13816,7 @@
       "Name": "Guns, lots of guns",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 29124
+      "UsersEstimate": 29125
     },
     {
       "ID": "ACH_HATTRICK",
@@ -13891,7 +13896,7 @@
       "Name": "I will finish what you started",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 67955
+      "UsersEstimate": 67957
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -13963,7 +13968,7 @@
       "Name": "Write that down",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 58247
+      "UsersEstimate": 58249
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -14067,7 +14072,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 60674
+      "UsersEstimate": 60676
     },
     {
       "ID": "ACH_SOREAD",
@@ -14155,14 +14160,14 @@
       "Name": "Who wouldn\u0027t love a troll?",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 1213
+      "UsersEstimate": 1214
     }
   ],
   "AchievementSets": [
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 242697,
+      "Progressed": 242705,
       "Completed": 7
     }
   ],
@@ -14170,8 +14175,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-08-15T07:59:00.2810594+00:00",
-  "LastChanged_Achievements": "2023-08-19T20:04:10.6470653+00:00",
+  "LastChanged_Achievements": "2023-08-19T21:04:31.5001247+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:56.7497354+00:00",
-  "LastUpdate_Ratings": "2023-08-19T19:59:34.7997905+00:00",
-  "LastUpdate_Achievements": "2023-08-19T20:04:10.6471946+00:00"
+  "LastUpdate_Ratings": "2023-08-19T20:59:48.1815348+00:00",
+  "LastUpdate_Achievements": "2023-08-19T21:04:31.5002562+00:00"
 }

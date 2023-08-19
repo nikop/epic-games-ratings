@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 118,
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -2960,9 +2960,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 50076,
+  "EOS_Progressed": 50077,
   "EOS_Completed": 223,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -10120,6 +10120,11 @@
       "Time": "2023-08-19T20:04:27.5831842+00:00",
       "NumProgressed": 50076,
       "NumCompleted": 223
+    },
+    {
+      "Time": "2023-08-19T21:04:48.8378653+00:00",
+      "NumProgressed": 50077,
+      "NumCompleted": 223
     }
   ],
   "TotalAchievements": 45,
@@ -10155,7 +10160,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 39560
+      "UsersEstimate": 39561
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -10259,7 +10264,7 @@
       "Name": "Revenge of the Sith",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 20030
+      "UsersEstimate": 20031
     },
     {
       "ID": "COMPLETE_EPISODE_4",
@@ -10267,7 +10272,7 @@
       "Name": "A New Hope",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 24036
+      "UsersEstimate": 24037
     },
     {
       "ID": "COMPLETE_EPISODE_5",
@@ -10283,7 +10288,7 @@
       "Name": "Return of the Jedi",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 16024
+      "UsersEstimate": 16025
     },
     {
       "ID": "COMPLETE_EPISODE_7",
@@ -10299,7 +10304,7 @@
       "Name": "The Last Jedi",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 11517
+      "UsersEstimate": 11518
     },
     {
       "ID": "COMPLETE_EPISODE_9",
@@ -10323,7 +10328,7 @@
       "Name": "\u0027\u0027I can fly anything\u0027\u0027",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 28543
+      "UsersEstimate": 28544
     },
     {
       "ID": "COMPLETE_GEONOSIS_TATOOINE",
@@ -10355,7 +10360,7 @@
       "Name": "\u0027\u0027It\u0027s true... all of it\u0027\u0027",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 9514
+      "UsersEstimate": 9515
     },
     {
       "ID": "CREATE_25_REBEL_DISGUISES",
@@ -10379,7 +10384,7 @@
       "Name": "\u0027\u0027Get the crews to their fighters\u0027\u0027",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 9514
+      "UsersEstimate": 9515
     },
     {
       "ID": "EARN_10B_STUDS",
@@ -10395,7 +10400,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 48574
+      "UsersEstimate": 48575
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -10467,7 +10472,7 @@
       "Name": "\u0027\u0027And who gave you permission...?\u0027\u0027",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 27041
+      "UsersEstimate": 27042
     },
     {
       "ID": "TRUE_JEDI_ALL_LEVELS",
@@ -10490,15 +10495,15 @@
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 50076,
+      "Progressed": 50077,
       "Completed": 223
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-08-19T13:59:17.1109122+00:00",
-  "LastChanged_Achievements": "2023-08-19T20:04:27.5831837+00:00",
+  "LastChanged_Achievements": "2023-08-19T21:04:48.8378647+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:27.7678655+00:00",
-  "LastUpdate_Ratings": "2023-08-19T19:58:09.153021+00:00",
-  "LastUpdate_Achievements": "2023-08-19T20:04:27.5832635+00:00"
+  "LastUpdate_Ratings": "2023-08-19T20:58:21.0890036+00:00",
+  "LastUpdate_Achievements": "2023-08-19T21:04:48.8380015+00:00"
 }

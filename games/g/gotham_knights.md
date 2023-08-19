@@ -5,9 +5,9 @@ Rating: 4.18 (Ranked 873)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~33,956 |
+| First Step Into the Knight | 50.00% | ~33,957 |
 | Har, Har, Har, Very Funny | 35.00% | ~23,770 |
-| Loose Ends | 34.00% | ~23,090 |
+| Loose Ends | 34.00% | ~23,091 |
 | To the Victor Go the Spoils | 28.00% | ~19,016 |
 | Knighthood | 27.00% | ~18,337 |
 | Get ReQ'd | 25.00% | ~16,978 |
@@ -19,9 +19,9 @@ Rating: 4.18 (Ranked 873)
 | Working Hard or Harley Working? | 20.00% | ~13,583 |
 | Unstoppable Force | 20.00% | ~13,583 |
 | Bad Apples in Every Orchard | 20.00% | ~13,583 |
-| Snow Problem | 19.00% | ~12,903 |
-| The Show Mud Go On | 18.00% | ~12,224 |
-| From Inside Gotham's Walls | 18.00% | ~12,224 |
+| Snow Problem | 19.00% | ~12,904 |
+| The Show Mud Go On | 18.00% | ~12,225 |
+| From Inside Gotham's Walls | 18.00% | ~12,225 |
 | Protector of Gotham | 16.00% | ~10,866 |
 | Universal Health Scare | 16.00% | ~10,866 |
 | In Your Element | 15.00% | ~10,187 |
@@ -34,7 +34,7 @@ Rating: 4.18 (Ranked 873)
 | End of an Era | 12.00% | ~8,150 |
 | Bulldozed | 12.00% | ~8,150 |
 | Gotham Knight | 12.00% | ~8,150 |
-| Gotham City Confidential | 11.00% | ~7,470 |
+| Gotham City Confidential | 11.00% | ~7,471 |
 | Drone You Out | 10.00% | ~6,791 |
 | Out of Their League | 9.00% | ~6,112 |
 | Solid Alibi | 9.00% | ~6,112 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 873)
 | Element of Surprise | 0.20% | ~76 |
 | It's Nice to Be Wanted | 0.20% | ~76 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,913 (Ranked 80)  
+Progressed: 67,914 (Ranked 80)  
 Completed: 108 (0.16%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,7 +188,7 @@ Completed: 108 (0.16%) (Ranked 193)
 | 2023-08-16 | 67,871 | 107 |
 | 2023-08-17 | 67,881 | 107 |
 | 2023-08-18 | 67,896 | 107 |
-| 2023-08-19 | 67,913 | 108 |
+| 2023-08-19 | 67,914 | 108 |
 ## Awards
 Max (Great Boss Battles): 2,507  (Ranked 100)  
 Sum: 4,176 (Ranked 139)  

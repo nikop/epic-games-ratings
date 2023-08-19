@@ -4,7 +4,7 @@
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 351,
+  "Ranking_EOS_NewPlayers": 353,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
@@ -996,9 +996,9 @@
       "ID": "ETUA_IsThemAndUs",
       "SetID": "65jc0ap",
       "Name": "Them and Us",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 37
     },
     {
       "ID": "ETUA_LifeOfTheThousandGods",
@@ -1012,9 +1012,9 @@
       "ID": "ETUA_MissionOver",
       "SetID": "65jc0ap",
       "Name": "Run and Gun",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "ETUA_ModernPlayer",
@@ -1221,8 +1221,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-08-19T20:04:45.4650901+00:00",
+  "LastChanged_Achievements": "2023-08-19T21:05:16.9020671+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:40.8025886+00:00",
-  "LastUpdate_Ratings": "2023-08-19T19:58:45.168058+00:00",
-  "LastUpdate_Achievements": "2023-08-19T20:04:45.465126+00:00"
+  "LastUpdate_Ratings": "2023-08-19T20:58:55.6056152+00:00",
+  "LastUpdate_Achievements": "2023-08-19T21:05:16.9021314+00:00"
 }

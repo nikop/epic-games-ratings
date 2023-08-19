@@ -34,11 +34,11 @@ Number of Ratings: 45  (23.09.2022)
 | In Soil, In Smoke | 5.00% | ~68 |
 | A Hunger, Sated | 5.00% | ~68 |
 | Wingknight's Prowess | 5.00% | ~68 |
+| Storied Past | 4.00% | ~55 |
 | Worldwalker | 4.00% | ~55 |
 | Grillmaster | 4.00% | ~55 |
 | No Time for Clawmonsters | 4.00% | ~55 |
 | We Emerge Changed | 3.00% | ~41 |
-| Storied Past | 3.00% | ~41 |
 | Empty the Caves | 3.00% | ~41 |
 | Bonebreakers | 3.00% | ~41 |
 | No More Nightmares | 3.00% | ~41 |

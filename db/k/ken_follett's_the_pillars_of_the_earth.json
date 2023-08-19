@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 375,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -495,9 +495,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 14673,
+  "EOS_Progressed": 14675,
   "EOS_Completed": 109,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -8450,6 +8450,11 @@
       "Time": "2023-08-19T20:04:38.8476526+00:00",
       "NumProgressed": 14673,
       "NumCompleted": 109
+    },
+    {
+      "Time": "2023-08-19T21:05:10.2696822+00:00",
+      "NumProgressed": 14675,
+      "NumCompleted": 109
     }
   ],
   "TotalAchievements": 41,
@@ -8501,7 +8506,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 4842
+      "UsersEstimate": 4843
     },
     {
       "ID": "tpote_achievement_15",
@@ -8525,7 +8530,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2494
+      "UsersEstimate": 2495
     },
     {
       "ID": "tpote_achievement_18",
@@ -8541,7 +8546,7 @@
       "Name": "Negotiation skills",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2641
+      "UsersEstimate": 2642
     },
     {
       "ID": "tpote_achievement_2",
@@ -8549,7 +8554,7 @@
       "Name": "Yet another secret",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 4989
+      "UsersEstimate": 4990
     },
     {
       "ID": "tpote_achievement_20",
@@ -8557,7 +8562,7 @@
       "Name": "Boy of mystery",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "tpote_achievement_21",
@@ -8605,7 +8610,7 @@
       "Name": "Exterminator",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1907
+      "UsersEstimate": 1908
     },
     {
       "ID": "tpote_achievement_27",
@@ -8613,7 +8618,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2641
+      "UsersEstimate": 2642
     },
     {
       "ID": "tpote_achievement_28",
@@ -8621,7 +8626,7 @@
       "Name": "Whodunnit",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1907
+      "UsersEstimate": 1908
     },
     {
       "ID": "tpote_achievement_29",
@@ -8637,7 +8642,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 4695
+      "UsersEstimate": 4696
     },
     {
       "ID": "tpote_achievement_30",
@@ -8645,7 +8650,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1467
+      "UsersEstimate": 1468
     },
     {
       "ID": "tpote_achievement_31",
@@ -8653,7 +8658,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2641
+      "UsersEstimate": 2642
     },
     {
       "ID": "tpote_achievement_32",
@@ -8725,7 +8730,7 @@
       "Name": "Tattletale",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 6016
+      "UsersEstimate": 6017
     },
     {
       "ID": "tpote_achievement_40",
@@ -8788,15 +8793,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 14673,
+      "Progressed": 14675,
       "Completed": 109
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-08-03T13:08:30.3350415+00:00",
-  "LastChanged_Achievements": "2023-08-19T20:04:38.8476522+00:00",
+  "LastChanged_Achievements": "2023-08-19T21:05:10.2696815+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:51.0435439+00:00",
-  "LastUpdate_Ratings": "2023-08-19T19:57:28.5370223+00:00",
-  "LastUpdate_Achievements": "2023-08-19T20:04:38.847733+00:00"
+  "LastUpdate_Ratings": "2023-08-19T20:57:36.7461052+00:00",
+  "LastUpdate_Achievements": "2023-08-19T21:05:10.2698024+00:00"
 }

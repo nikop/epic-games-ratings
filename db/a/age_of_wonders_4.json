@@ -5,9 +5,9 @@
   "Ranking_Rating": 365,
   "Ranking_Popularity": 508,
   "Ranking_PopularitySum": 508,
-  "Ranking_EOS_Progress": 142,
+  "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -308,7 +308,7 @@
   ],
   "EOS_Progressed": 5121,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5947,9 +5947,9 @@
       "ID": "22",
       "SetID": "3aa2279",
       "Name": "Realm Estate",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 256
+      "UsersEstimate": 307
     },
     {
       "ID": "23",
@@ -6250,8 +6250,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-08-15T16:02:42.5917687+00:00",
-  "LastChanged_Achievements": "2023-08-19T20:05:53.8736993+00:00",
+  "LastChanged_Achievements": "2023-08-19T21:06:22.2006363+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:57.2565325+00:00",
-  "LastUpdate_Ratings": "2023-08-19T20:00:58.8561849+00:00",
-  "LastUpdate_Achievements": "2023-08-19T20:05:53.8737768+00:00"
+  "LastUpdate_Ratings": "2023-08-19T21:01:16.6876467+00:00",
+  "LastUpdate_Achievements": "2023-08-19T21:06:22.2007464+00:00"
 }

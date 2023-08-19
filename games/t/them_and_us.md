@@ -9,8 +9,8 @@
 | A Night To Remember | 41.00% | ~85 |
 | Safe...For now? | 33.00% | ~68 |
 | Open Sesame | 29.00% | ~60 |
+| Them and Us | 18.00% | ~37 |
 | What have I done!? | 18.00% | ~37 |
-| Them and Us | 17.00% | ~35 |
 | OUTRAGE | 17.00% | ~35 |
 | Alone In The Dark | 14.00% | ~29 |
 | The Cultists | 14.00% | ~29 |
@@ -26,10 +26,10 @@
 | Researcher | 6.00% | ~12 |
 | I Am The Gate Keeper! | 6.00% | ~12 |
 | This Mansion Is Clean | 4.00% | ~8 |
+| Run and Gun | 3.00% | ~6 |
 | The bus stop | 3.00% | ~6 |
 | Armed To The Teeth | 2.00% | ~4 |
 | Spiritual essence well spent | 2.00% | ~4 |
-| Run and Gun | 2.00% | ~4 |
 | Pet The Dog | 2.00% | ~4 |
 | Back In Time | 1.00% | ~2 |
 | Box Of Ploutus | 1.00% | ~2 |
