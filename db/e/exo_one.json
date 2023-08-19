@@ -3,9 +3,9 @@
   "Name": "Exo One",
   "ProductSlug": "exo-one",
   "Ranking_EOS_Progress": 548,
-  "Ranking_EOS_Completed": 259,
+  "Ranking_EOS_Completed": 260,
   "Ranking_EOS_NewPlayers": 355,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2021-11-18T15:00:00+00:00",
     "PcReleaseDate": "2021-11-18T15:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:46.2956858+00:00",
   "LastChanged": "2023-03-31T05:57:46.2956859+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:09.9873797+00:00",
-  "LastUpdate_Ratings": "2023-08-18T23:01:36.9062458+00:00",
-  "LastUpdate_Achievements": "2023-08-18T23:07:49.7113109+00:00"
+  "LastUpdate_Ratings": "2023-08-19T00:02:36.0928109+00:00",
+  "LastUpdate_Achievements": "2023-08-19T00:08:59.8059755+00:00"
 }

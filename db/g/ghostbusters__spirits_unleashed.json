@@ -6,7 +6,7 @@
   "Ranking_Popularity": 254,
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 101,
-  "Ranking_EOS_Completed": 184,
+  "Ranking_EOS_Completed": 185,
   "Ranking_EOS_NewPlayers": 98,
   "Ranking_EOS_NewCompleters": 51,
   "Store": {
@@ -1844,7 +1844,7 @@
   ],
   "EOS_Progressed": 25183,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 199,
+  "EOS_NewPlayers": 197,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -10912,9 +10912,9 @@
       "ID": "Fully_Upgraded",
       "SetID": "819popo",
       "Name": "Fully Upgraded",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 13347
+      "UsersEstimate": 13599
     },
     {
       "ID": "GB_In_Training",
@@ -11193,8 +11193,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-08-18T01:38:35.2005933+00:00",
-  "LastChanged_Achievements": "2023-08-18T23:04:21.4209871+00:00",
+  "LastChanged_Achievements": "2023-08-19T00:04:46.6275528+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:52.55817+00:00",
-  "LastUpdate_Ratings": "2023-08-18T23:01:18.87257+00:00",
-  "LastUpdate_Achievements": "2023-08-18T23:04:21.4211156+00:00"
+  "LastUpdate_Ratings": "2023-08-19T00:02:16.3765889+00:00",
+  "LastUpdate_Achievements": "2023-08-19T00:04:46.6276589+00:00"
 }

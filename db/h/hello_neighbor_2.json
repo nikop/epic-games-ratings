@@ -372,7 +372,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2757,
+  "EOS_Progressed": 2758,
   "EOS_Completed": 108,
   "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 1,
@@ -2717,6 +2717,11 @@
       "Time": "2023-08-17T18:02:18.1603112+00:00",
       "NumProgressed": 2757,
       "NumCompleted": 108
+    },
+    {
+      "Time": "2023-08-19T00:03:26.7390641+00:00",
+      "NumProgressed": 2758,
+      "NumCompleted": 108
     }
   ],
   "TotalAchievements": 14,
@@ -2760,7 +2765,7 @@
       "Name": "Dog Person",
       "Percentage": 20,
       "XP": 80,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "ACH_EASY_AS_PIE",
@@ -2768,7 +2773,7 @@
       "Name": "Easy As Pie",
       "Percentage": 34,
       "XP": 55,
-      "UsersEstimate": 937
+      "UsersEstimate": 938
     },
     {
       "ID": "ACH_FAMILY_LOST",
@@ -2776,7 +2781,7 @@
       "Name": "Family Lost",
       "Percentage": 32,
       "XP": 80,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "ACH_HIDDEN_SECRETS",
@@ -2784,7 +2789,7 @@
       "Name": "Hidden Secrets",
       "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "ACH_IMPRISONMENT",
@@ -2832,14 +2837,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 76,
       "XP": 35,
-      "UsersEstimate": 2095
+      "UsersEstimate": 2096
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2757,
+      "Progressed": 2758,
       "Completed": 108
     }
   ],
@@ -2847,8 +2852,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-08-18T10:57:57.6054039+00:00",
-  "LastChanged_Achievements": "2023-08-18T23:03:19.6288597+00:00",
+  "LastChanged_Achievements": "2023-08-19T00:03:26.7390635+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:10.1375328+00:00",
-  "LastUpdate_Ratings": "2023-08-18T22:57:55.3489846+00:00",
-  "LastUpdate_Achievements": "2023-08-18T23:03:19.6288876+00:00"
+  "LastUpdate_Ratings": "2023-08-18T23:58:13.2975442+00:00",
+  "LastUpdate_Achievements": "2023-08-19T00:03:26.7390928+00:00"
 }

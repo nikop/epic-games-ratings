@@ -380,10 +380,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18135,
+  "EOS_Progressed": 18139,
   "EOS_Completed": 367,
-  "EOS_NewPlayers": 530,
-  "EOS_NewCompleters": 8,
+  "EOS_NewPlayers": 531,
+  "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 2.02,
   "EosHistory": [
     {
@@ -13185,6 +13185,11 @@
       "Time": "2023-08-18T23:06:25.1474154+00:00",
       "NumProgressed": 18135,
       "NumCompleted": 367
+    },
+    {
+      "Time": "2023-08-19T00:07:17.583032+00:00",
+      "NumProgressed": 18139,
+      "NumCompleted": 367
     }
   ],
   "TotalAchievements": 20,
@@ -13196,7 +13201,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 3083
+      "UsersEstimate": 3084
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -13220,7 +13225,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1632
+      "UsersEstimate": 1633
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -13228,7 +13233,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2176
+      "UsersEstimate": 2177
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -13252,7 +13257,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2176
+      "UsersEstimate": 2177
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -13260,7 +13265,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2720
+      "UsersEstimate": 2721
     },
     {
       "ID": "FOUND_ERIN",
@@ -13308,7 +13313,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2176
+      "UsersEstimate": 2177
     },
     {
       "ID": "INTRO_FINISHED",
@@ -13316,7 +13321,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 13783
+      "UsersEstimate": 13786
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -13324,7 +13329,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 5078
+      "UsersEstimate": 5079
     },
     {
       "ID": "NORTH_FINISHED",
@@ -13340,7 +13345,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1269
+      "UsersEstimate": 1270
     },
     {
       "ID": "WEST_FINISHED",
@@ -13355,15 +13360,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 18135,
+      "Progressed": 18139,
       "Completed": 367
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-08-12T01:39:46.4098224+00:00",
-  "LastChanged_Achievements": "2023-08-18T23:06:25.147415+00:00",
+  "LastChanged_Achievements": "2023-08-19T00:07:17.5830312+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:58:04.1120676+00:00",
-  "LastUpdate_Ratings": "2023-08-18T22:57:41.1422988+00:00",
-  "LastUpdate_Achievements": "2023-08-18T23:06:25.1475373+00:00"
+  "LastUpdate_Ratings": "2023-08-18T23:57:55.2196691+00:00",
+  "LastUpdate_Achievements": "2023-08-19T00:07:17.5831417+00:00"
 }

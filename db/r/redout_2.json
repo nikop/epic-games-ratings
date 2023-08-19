@@ -6,9 +6,9 @@
   "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 193,
-  "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 247,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_Completed": 260,
+  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1105,
+  "EOS_Progressed": 1106,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -800,6 +800,11 @@
       "Time": "2023-08-18T10:06:47.8379692+00:00",
       "NumProgressed": 1105,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-19T00:06:52.5047381+00:00",
+      "NumProgressed": 1106,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -915,7 +920,7 @@
       "Name": "To the core",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ALLTRACKSTOKYO",
@@ -939,7 +944,7 @@
       "Name": "Rookie No More",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "CAREERADVANCED",
@@ -1033,9 +1038,9 @@
       "ID": "FINISHFAST",
       "SetID": "3dh70f3",
       "Name": "Blurred photofinish",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 88
     },
     {
       "ID": "FINISHSOUND",
@@ -1123,7 +1128,7 @@
       "Name": "Increasing your Power Level",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "ONEPAINT",
@@ -1226,7 +1231,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1105,
+      "Progressed": 1106,
       "Completed": 0
     }
   ],
@@ -1234,8 +1239,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-07-10T22:58:27.6839393+00:00",
-  "LastChanged_Achievements": "2023-08-18T23:06:03.7629499+00:00",
+  "LastChanged_Achievements": "2023-08-19T00:06:52.5047374+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:11.1989531+00:00",
-  "LastUpdate_Ratings": "2023-08-18T22:57:56.4956153+00:00",
-  "LastUpdate_Achievements": "2023-08-18T23:06:03.7629949+00:00"
+  "LastUpdate_Ratings": "2023-08-18T23:58:17.018627+00:00",
+  "LastUpdate_Achievements": "2023-08-19T00:06:52.5047888+00:00"
 }

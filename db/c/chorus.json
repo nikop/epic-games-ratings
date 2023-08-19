@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 472,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 110,
-  "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
     "PcReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -1903,9 +1903,9 @@
       "ID": "MissionLiberateEnclave",
       "SetID": "a6c395p",
       "Name": "Safe Home",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 748
+      "UsersEstimate": 760
     },
     {
       "ID": "MissionMasterAndDisciple",
@@ -1935,9 +1935,9 @@
       "ID": "MissionSalvage",
       "SetID": "a6c395p",
       "Name": "Shields Down",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 805
+      "UsersEstimate": 816
     },
     {
       "ID": "MissionScavengingJob",
@@ -2071,8 +2071,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-07-09T07:00:38.7677324+00:00",
-  "LastChanged_Achievements": "2023-08-18T23:06:35.1188401+00:00",
+  "LastChanged_Achievements": "2023-08-19T00:07:28.3361779+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:58:03.9507413+00:00",
-  "LastUpdate_Ratings": "2023-08-18T22:57:27.9798997+00:00",
-  "LastUpdate_Achievements": "2023-08-18T23:06:35.1188831+00:00"
+  "LastUpdate_Ratings": "2023-08-18T23:57:40.528157+00:00",
+  "LastUpdate_Achievements": "2023-08-19T00:07:28.3362341+00:00"
 }

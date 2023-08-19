@@ -6,9 +6,9 @@
   "Ranking_Popularity": 50,
   "Ranking_PopularitySum": 67,
   "Ranking_EOS_Progress": 86,
-  "Ranking_EOS_Completed": 259,
+  "Ranking_EOS_Completed": 260,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -6483,9 +6483,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 59126,
+  "EOS_Progressed": 59127,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 444,
+  "EOS_NewPlayers": 445,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19188,6 +19188,11 @@
       "Time": "2023-08-18T23:05:25.0692058+00:00",
       "NumProgressed": 59126,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-19T00:06:08.9103727+00:00",
+      "NumProgressed": 59127,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -19327,7 +19332,7 @@
       "Name": "God of the Arena",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 7686
+      "UsersEstimate": 7687
     },
     {
       "ID": "Great Granny",
@@ -19391,7 +19396,7 @@
       "Name": "King Solomon",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10051
+      "UsersEstimate": 10052
     },
     {
       "ID": "Kingslayer",
@@ -19423,7 +19428,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 18920
+      "UsersEstimate": 18921
     },
     {
       "ID": "Lawbringer",
@@ -19606,15 +19611,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 59126,
+      "Progressed": 59127,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-08-18T21:57:19.3945663+00:00",
-  "LastChanged_Achievements": "2023-08-18T23:05:25.0692053+00:00",
+  "LastChanged_Achievements": "2023-08-19T00:06:08.910372+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:44.6335832+00:00",
-  "LastUpdate_Ratings": "2023-08-18T22:57:26.0470701+00:00",
-  "LastUpdate_Achievements": "2023-08-18T23:05:25.069363+00:00"
+  "LastUpdate_Ratings": "2023-08-18T23:57:38.2181132+00:00",
+  "LastUpdate_Achievements": "2023-08-19T00:06:08.9105019+00:00"
 }

@@ -54,7 +54,7 @@ Rating: 4.20 (Ranked 856)
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 15,869 (Ranked 115)  
-Completed: 73 (0.46%) (Ranked 149)  
+Completed: 73 (0.46%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -173,12 +173,12 @@ Completed: 73 (0.46%) (Ranked 149)
 | 2023-08-16 | 15,867 | 73 |
 | 2023-08-18 | 15,869 | 73 |
 ## Awards
-Max (Amazing Storytelling): 72  (Ranked 375)  
-Sum: 408 (Ranked 316)  
-Diff (max vs sum): 59  
+Max (Amazing Storytelling): 73  (Ranked 373)  
+Sum: 409 (Ranked 316)  
+Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
-| This game has Amazing Storytelling | 72 |
+| This game has Amazing Storytelling | 73 |
 | This game has Amazing Characters | 70 |
 | This game is Highly Recommended | 68 |
 | This game has Quickly Understood Controls | 63 |
@@ -296,3 +296,4 @@ Diff (max vs sum): 59
 | 2023-08-08 | 4.20 | 72 | 406 |
 | 2023-08-13 | 4.20 | 72 | 407 |
 | 2023-08-14 | 4.20 | 72 | 408 |
+| 2023-08-19 | 4.20 | 73 | 409 |

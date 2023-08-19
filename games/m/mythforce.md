@@ -31,7 +31,7 @@ Number of Ratings: 285  (23.09.2022)
 | Vexed Her | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 840 (Ranked 205)  
-Completed: 0 (0.00%) (Ranked 259)  
+Completed: 0 (0.00%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -67,16 +67,16 @@ Completed: 0 (0.00%) (Ranked 259)
 | 2023-08-18 | 840 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 453)  
-Sum: 226 (Ranked 358)  
-Diff (max vs sum): 95  
+Sum: 254 (Ranked 352)  
+Diff (max vs sum): 101  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 32 |
 | This game has Amazing Characters | 29 |
+| This game is Great for Beginners | 28 |
 | This game has Quickly Understood Controls | 26 |
 | This game has Unique Visuals | 26 |
 | This game has Diverse Characters | 25 |
-| This game is Great for Beginners | 24 |
 | This game has Challenging Combat | 24 |
 | This game has Amazing Storytelling | 23 |
 | This game is Relaxing | 21 |
@@ -157,3 +157,4 @@ Diff (max vs sum): 95
 | 2023-07-22 | 4.49 | - | 32 | 226 |
 | 2023-07-25 | 4.50 | - | 32 | 226 |
 | 2023-07-26 | 4.49 | - | 32 | 226 |
+| 2023-08-19 | 4.49 | - | 32 | 254 |

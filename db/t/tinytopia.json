@@ -3,9 +3,9 @@
   "Name": "Tinytopia",
   "ProductSlug": "tinytopia",
   "Ranking_EOS_Progress": 548,
-  "Ranking_EOS_Completed": 259,
+  "Ranking_EOS_Completed": 260,
   "Ranking_EOS_NewPlayers": 355,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2021-08-30T12:00:00+00:00",
     "PcReleaseDate": "2021-08-30T12:00:00+00:00",
@@ -47,8 +47,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.0651025+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.2228983+00:00",
   "LastChanged": "2023-03-31T05:57:45.0651026+00:00",
-  "LastChanged_Achievements": "2023-08-18T23:07:37.2872253+00:00",
+  "LastChanged_Achievements": "2023-08-19T00:08:41.3128698+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:06.1051596+00:00",
-  "LastUpdate_Ratings": "2023-08-18T23:01:30.8507797+00:00",
-  "LastUpdate_Achievements": "2023-08-18T23:07:37.2872284+00:00"
+  "LastUpdate_Ratings": "2023-08-19T00:02:29.2705779+00:00",
+  "LastUpdate_Achievements": "2023-08-19T00:08:41.3128732+00:00"
 }

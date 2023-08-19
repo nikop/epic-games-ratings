@@ -3,9 +3,9 @@
   "Name": "Marble It Up! Ultra",
   "ProductSlug": "marble-it-up-ultra-7b5692",
   "Ranking_EOS_Progress": 452,
-  "Ranking_EOS_Completed": 259,
+  "Ranking_EOS_Completed": 260,
   "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-08-17T07:00:00+00:00",
     "PcReleaseDate": "2023-08-17T07:00:00+00:00",
@@ -763,8 +763,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2023-08-18T23:04:02.9241401+00:00",
+  "LastChanged_Achievements": "2023-08-19T00:04:25.4319278+00:00",
   "LastUpdate_AppInfo": "2023-08-16T18:57:08.5743948+00:00",
-  "LastUpdate_Ratings": "2023-08-18T22:57:56.4100536+00:00",
-  "LastUpdate_Achievements": "2023-08-18T23:04:02.9243504+00:00"
+  "LastUpdate_Ratings": "2023-08-18T23:58:16.9858426+00:00",
+  "LastUpdate_Achievements": "2023-08-19T00:04:25.4320337+00:00"
 }
