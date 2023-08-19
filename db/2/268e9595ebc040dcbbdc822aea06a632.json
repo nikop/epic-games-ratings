@@ -4,7 +4,7 @@
   "ProductSlug": "nostalgic-train-32f08a",
   "Ranking_EOS_Progress": 548,
   "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 354,
+  "Ranking_EOS_NewPlayers": 353,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-07-02T10:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-09T10:57:02.2459823+00:00",
   "LastUpdate_AppInfo": "2023-08-18T14:57:11.0752585+00:00",
-  "LastUpdate_Ratings": "2023-08-19T02:04:59.7301412+00:00",
-  "LastUpdate_Achievements": "2023-08-19T02:11:42.6155493+00:00"
+  "LastUpdate_Ratings": "2023-08-19T02:58:41.0301619+00:00",
+  "LastUpdate_Achievements": "2023-08-19T03:05:32.0111366+00:00"
 }

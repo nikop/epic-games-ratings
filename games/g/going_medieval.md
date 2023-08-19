@@ -19,11 +19,11 @@ Number of Ratings: 706  (23.09.2022)
 | Studious Researcher | 51.00% | ~2,732 |
 | Beam Me Up | 50.00% | ~2,678 |
 | Feast or Famine | 49.00% | ~2,625 |
-| Adept Researcher | 44.00% | ~2,357 |
+| Adept Researcher | 45.00% | ~2,411 |
 | Retribution | 40.00% | ~2,143 |
 | ...And Don’t Come Back! | 40.00% | ~2,143 |
 | Fit For A King | 37.00% | ~1,982 |
-| Luminary Researcher | 32.00% | ~1,714 |
+| Luminary Researcher | 33.00% | ~1,768 |
 | Heating Up | 29.00% | ~1,554 |
 | Winter Is Coming | 26.00% | ~1,393 |
 | Winter Is Here | 23.00% | ~1,232 |

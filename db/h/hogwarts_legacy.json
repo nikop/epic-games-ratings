@@ -6376,18 +6376,24 @@
       "Rating": 4.77,
       "NumberOfAwards": 41181,
       "NumberOfAwardsMax": 21799
+    },
+    {
+      "Time": "2023-08-19T02:59:21.9272754+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 41200,
+      "NumberOfAwardsMax": 21818
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 41181,
-  "NumberOfAwardsMax": 21799,
+  "NumberOfAwards": 41200,
+  "NumberOfAwardsMax": 21818,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 21799
+      "Count": 21818
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -6456,9 +6462,9 @@
       "Count": 596
     }
   ],
-  "EOS_Progressed": 290367,
+  "EOS_Progressed": 290371,
   "EOS_Completed": 452,
-  "EOS_NewPlayers": 492,
+  "EOS_NewPlayers": 493,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -19436,6 +19442,11 @@
       "Time": "2023-08-19T02:13:00.2609067+00:00",
       "NumProgressed": 290367,
       "NumCompleted": 452
+    },
+    {
+      "Time": "2023-08-19T03:06:50.1743686+00:00",
+      "NumProgressed": 290371,
+      "NumCompleted": 452
     }
   ],
   "TotalAchievements": 45,
@@ -19447,7 +19458,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 34844
+      "UsersEstimate": 34845
     },
     {
       "ID": "PFA_10",
@@ -19487,7 +19498,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 5,
       "XP": 70,
-      "UsersEstimate": 14518
+      "UsersEstimate": 14519
     },
     {
       "ID": "PFA_15",
@@ -19583,7 +19594,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14518
+      "UsersEstimate": 14519
     },
     {
       "ID": "PFA_26",
@@ -19615,7 +19626,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14518
+      "UsersEstimate": 14519
     },
     {
       "ID": "PFA_3",
@@ -19671,7 +19682,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 23229
+      "UsersEstimate": 23230
     },
     {
       "ID": "PFA_36",
@@ -19735,7 +19746,7 @@
       "Name": "Raising Expectations",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 14518
+      "UsersEstimate": 14519
     },
     {
       "ID": "PFA_43",
@@ -19751,7 +19762,7 @@
       "Name": "The Spell Master",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23229
+      "UsersEstimate": 23230
     },
     {
       "ID": "PFA_45",
@@ -19775,7 +19786,7 @@
       "Name": "First Class Student",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 31940
+      "UsersEstimate": 31941
     },
     {
       "ID": "PFA_7",
@@ -19783,7 +19794,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 31940
+      "UsersEstimate": 31941
     },
     {
       "ID": "PFA_8",
@@ -19799,23 +19810,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23229
+      "UsersEstimate": 23230
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 290367,
+      "Progressed": 290371,
       "Completed": 452
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-08-19T01:34:57.7401437+00:00",
-  "LastChanged_Achievements": "2023-08-19T02:13:00.2609061+00:00",
+  "LastChanged": "2023-08-19T02:59:21.9272753+00:00",
+  "LastChanged_Achievements": "2023-08-19T03:06:50.174368+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:17.4814985+00:00",
-  "LastUpdate_Ratings": "2023-08-19T02:05:41.5906673+00:00",
-  "LastUpdate_Achievements": "2023-08-19T02:13:00.2610289+00:00"
+  "LastUpdate_Ratings": "2023-08-19T02:59:21.927276+00:00",
+  "LastUpdate_Achievements": "2023-08-19T03:06:50.1744885+00:00"
 }

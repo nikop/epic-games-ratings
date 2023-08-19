@@ -3020,18 +3020,24 @@
       "Rating": 4.58,
       "NumberOfAwards": 13146,
       "NumberOfAwardsMax": 6814
+    },
+    {
+      "Time": "2023-08-19T02:58:59.8501226+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 13207,
+      "NumberOfAwardsMax": 6875
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13146,
-  "NumberOfAwardsMax": 6814,
+  "NumberOfAwards": 13207,
+  "NumberOfAwardsMax": 6875,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 6814
+      "Count": 6875
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3094,9 +3100,9 @@
       "Count": 711
     }
   ],
-  "EOS_Progressed": 1584211,
+  "EOS_Progressed": 1584347,
   "EOS_Completed": 513,
-  "EOS_NewPlayers": 25062,
+  "EOS_NewPlayers": 25086,
   "EOS_NewCompleters": 33,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -11314,6 +11320,11 @@
       "Time": "2023-08-19T02:08:11.6307664+00:00",
       "NumProgressed": 1584211,
       "NumCompleted": 513
+    },
+    {
+      "Time": "2023-08-19T03:02:12.900412+00:00",
+      "NumProgressed": 1584347,
+      "NumCompleted": 513
     }
   ],
   "TotalAchievements": 1328,
@@ -11381,7 +11392,7 @@
       "Name": "The Collector",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3168
+      "UsersEstimate": 3169
     },
     {
       "ID": "armed_and_dangerous",
@@ -12525,7 +12536,7 @@
       "Name": "I Want to Get Away",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 7921
+      "UsersEstimate": 7922
     },
     {
       "ID": "brooklyn_2",
@@ -15797,7 +15808,7 @@
       "Name": "Smooth Criminal",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3168
+      "UsersEstimate": 3169
     },
     {
       "ID": "gorilla_1",
@@ -20677,7 +20688,7 @@
       "Name": "There is Always a First Time",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3168
+      "UsersEstimate": 3169
     },
     {
       "ID": "trk_js_1",
@@ -21948,22 +21959,22 @@
     {
       "ID": "61cefe3",
       "IsBase": true,
-      "Progressed": 1584211,
+      "Progressed": 1584347,
       "Completed": 513
     },
     {
       "ID": "bkjdbk8",
       "IsBase": false,
-      "Progressed": 1584211,
+      "Progressed": 1584347,
       "Completed": 21
     }
   ],
   "FirstSeen": "2023-06-08T18:57:07.8003815+00:00",
   "FirstSeenRating": "2023-06-09T03:57:04.3869033+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:50.4372379+00:00",
-  "LastChanged": "2023-08-19T01:34:34.1230071+00:00",
-  "LastChanged_Achievements": "2023-08-19T02:08:11.6307656+00:00",
+  "LastChanged": "2023-08-19T02:58:59.8501222+00:00",
+  "LastChanged_Achievements": "2023-08-19T03:02:12.9004114+00:00",
   "LastUpdate_AppInfo": "2023-08-17T20:57:10.4408604+00:00",
-  "LastUpdate_Ratings": "2023-08-19T02:05:20.2974047+00:00",
-  "LastUpdate_Achievements": "2023-08-19T02:08:11.6505657+00:00"
+  "LastUpdate_Ratings": "2023-08-19T02:58:59.8501232+00:00",
+  "LastUpdate_Achievements": "2023-08-19T03:02:12.9192213+00:00"
 }

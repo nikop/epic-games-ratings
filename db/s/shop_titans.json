@@ -5650,9 +5650,9 @@
       "Count": 3735
     }
   ],
-  "EOS_Progressed": 134743,
+  "EOS_Progressed": 134746,
   "EOS_Completed": 133,
-  "EOS_NewPlayers": 385,
+  "EOS_NewPlayers": 387,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -17985,6 +17985,11 @@
       "Time": "2023-08-19T02:12:26.7045531+00:00",
       "NumProgressed": 134743,
       "NumCompleted": 133
+    },
+    {
+      "Time": "2023-08-19T03:06:16.2977867+00:00",
+      "NumProgressed": 134746,
+      "NumCompleted": 133
     }
   ],
   "TotalAchievements": 112,
@@ -18554,9 +18559,9 @@
       "ID": "jackslot02",
       "SetID": "anfd17p",
       "Name": "Jackpot!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 269
     },
     {
       "ID": "jackslot03",
@@ -18891,15 +18896,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 134743,
+      "Progressed": 134746,
       "Completed": 133
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-08-18T01:38:04.3174786+00:00",
-  "LastChanged_Achievements": "2023-08-19T02:12:26.7045524+00:00",
+  "LastChanged_Achievements": "2023-08-19T03:06:16.2977862+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:13.9096409+00:00",
-  "LastUpdate_Ratings": "2023-08-19T02:06:50.3035025+00:00",
-  "LastUpdate_Achievements": "2023-08-19T02:12:26.7048807+00:00"
+  "LastUpdate_Ratings": "2023-08-19T03:00:30.6412126+00:00",
+  "LastUpdate_Achievements": "2023-08-19T03:06:16.2980268+00:00"
 }

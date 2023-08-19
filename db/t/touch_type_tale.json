@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewPlayers": 246,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -3051,8 +3051,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-08-19T02:11:00.8532892+00:00",
+  "LastChanged_Achievements": "2023-08-19T03:04:50.0642941+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:07.7708423+00:00",
-  "LastUpdate_Ratings": "2023-08-19T02:04:14.7857716+00:00",
-  "LastUpdate_Achievements": "2023-08-19T02:11:00.8533334+00:00"
+  "LastUpdate_Ratings": "2023-08-19T02:57:56.7628058+00:00",
+  "LastUpdate_Achievements": "2023-08-19T03:04:50.0643378+00:00"
 }

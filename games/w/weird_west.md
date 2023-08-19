@@ -1,7 +1,7 @@
 # Weird West: Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/weird-west-906661)  
 [View Rawdata](../../db/w/weird_west.json)  
-Rating: 4.44 (Ranked 648)  
+Rating: 4.44 (Ranked 647)  
 Number of Ratings: 125  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -48,8 +48,8 @@ Number of Ratings: 125  (23.09.2022)
 | This Is Sparta | 5.00% | ~90 |
 | What’s in the Box? | 5.00% | ~90 |
 | Ghost Town | 3.00% | ~54 |
+| Lord Inut Sends His Regards | 3.00% | ~54 |
 | Moondrunk | 3.00% | ~54 |
-| Lord Inut Sends His Regards | 2.00% | ~36 |
 | 'Ma Barker | 2.00% | ~36 |
 | Hog Wild | 1.00% | ~18 |
 | I Kicked a Bird and I Liked it | 0.90% | ~16 |

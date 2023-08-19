@@ -82,6 +82,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Wealth Beyond Measure | 0.20% | ~269 |
 | Fat Cat Tag Team | 0.20% | ~269 |
 | Necromancer Queen | 0.20% | ~269 |
+| Jackpot! | 0.20% | ~269 |
 | Item of Renown | 0.20% | ~269 |
 | Master Merchant | 0.20% | ~269 |
 | Miracle Alchemist | 0.20% | ~269 |
@@ -107,7 +108,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Unleashed Potential | 0.10% | ~135 |
 | Thank You Tom Nook | 0.10% | ~135 |
 | Capitalist Camaraderie | 0.10% | ~135 |
-| Jackpot! | 0.10% | ~135 |
 | JACKPOT!!! | 0.10% | ~135 |
 | Merchant Extraordinaire | 0.10% | ~135 |
 | Anything not Nailed Down | 0.10% | ~135 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.10% | ~135 |
 | All Accounted For | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,743 (Ranked 66)  
+Progressed: 134,746 (Ranked 66)  
 Completed: 133 (0.10%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,7 +240,7 @@ Completed: 133 (0.10%) (Ranked 206)
 | 2023-08-16 | 134,622 | 133 |
 | 2023-08-17 | 134,688 | 133 |
 | 2023-08-18 | 134,736 | 133 |
-| 2023-08-19 | 134,743 | 133 |
+| 2023-08-19 | 134,746 | 133 |
 ## Awards
 Max (Great for Beginners): 4,704  (Ranked 71)  
 Sum: 27,110 (Ranked 47)  

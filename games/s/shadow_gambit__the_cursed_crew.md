@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A New Journey | 68.00% | ~172 |
+| A New Journey | 68.00% | ~173 |
 | The Adventure Begins | 34.00% | ~86 |
 | Swabbie | 13.00% | ~33 |
 | With Great Power… | 12.00% | ~30 |
@@ -14,7 +14,7 @@
 | Persistent Parasite | 4.00% | ~10 |
 | Fishy Fish | 3.00% | ~8 |
 | Somewhere Deep in the Lost Caribbean | 2.00% | ~5 |
-| Mirror Mirror on the Wall | 1.00% | ~3 |
+| Mirror Mirror on the Wall | 2.00% | ~5 |
 | Pirates Assemble! | 1.00% | ~3 |
 | Buccaneer | 0.40% | ~1 |
 | Seadog | 0.40% | ~1 |
@@ -23,15 +23,15 @@
 | Freebooter | 0.40% | ~1 |
 | Marauder | 0.40% | ~1 |
 | Fully Decked | 0.40% | ~1 |
+| Tobacco Travesty | 0.40% | ~1 |
 | Accursed Artifacts | 0.40% | ~1 |
 | Lyrical Longing | 0.40% | ~1 |
 | Jaded Judge | 0.40% | ~1 |
 | Rustic Recipe | 0.40% | ~1 |
 | Welcome Back Jester | 0.40% | ~1 |
 | All Good Things | 0.00% | ~0 |
-| Tobacco Travesty | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253 (Ranked 272)  
+Progressed: 254 (Ranked 272)  
 Completed: 0 (0.00%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -45,4 +45,4 @@ Completed: 0 (0.00%) (Ranked 260)
 | 2023-08-16 | 38 | 0 |
 | 2023-08-17 | 146 | 0 |
 | 2023-08-18 | 249 | 0 |
-| 2023-08-19 | 253 | 0 |
+| 2023-08-19 | 254 | 0 |

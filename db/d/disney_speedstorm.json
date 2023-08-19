@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 51,
   "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 28,
+  "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -4350,9 +4350,9 @@
       "ID": "16",
       "SetID": "9p3jgda",
       "Name": "RELEASE THE KRAKEN",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 45,
-      "UsersEstimate": 404
+      "UsersEstimate": 436
     },
     {
       "ID": "17",
@@ -4492,8 +4492,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-08-19T02:13:50.813648+00:00",
+  "LastChanged_Achievements": "2023-08-19T03:07:40.6718497+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:44.0676288+00:00",
-  "LastUpdate_Ratings": "2023-08-19T02:07:19.8127482+00:00",
-  "LastUpdate_Achievements": "2023-08-19T02:13:50.8136926+00:00"
+  "LastUpdate_Ratings": "2023-08-19T03:01:01.4840298+00:00",
+  "LastUpdate_Achievements": "2023-08-19T03:07:40.6718958+00:00"
 }

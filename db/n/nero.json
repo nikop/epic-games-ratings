@@ -4,7 +4,7 @@
   "ProductSlug": "nero-0011a8",
   "Ranking_EOS_Progress": 548,
   "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 354,
+  "Ranking_EOS_NewPlayers": 353,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-09-21T06:30:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:35.5794403+00:00",
   "LastChanged": "2023-03-31T05:58:35.5794404+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:40.9726067+00:00",
-  "LastUpdate_Ratings": "2023-08-19T02:07:14.1851932+00:00",
-  "LastUpdate_Achievements": "2023-08-19T02:10:43.4223945+00:00"
+  "LastUpdate_Ratings": "2023-08-19T03:00:55.8273796+00:00",
+  "LastUpdate_Achievements": "2023-08-19T03:04:32.0323557+00:00"
 }

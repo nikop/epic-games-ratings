@@ -2969,10 +2969,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 2898,
       "NumberOfAwardsMax": 375
+    },
+    {
+      "Time": "2023-08-19T02:59:58.8318116+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 2900,
+      "NumberOfAwardsMax": 375
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2898,
+  "NumberOfAwards": 2900,
   "NumberOfAwardsMax": 375,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3028,7 +3034,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 264
+      "Count": 266
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3043,9 +3049,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 433969,
+  "EOS_Progressed": 433984,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2355,
+  "EOS_NewPlayers": 2351,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16338,6 +16344,11 @@
       "Time": "2023-08-19T02:13:19.0604114+00:00",
       "NumProgressed": 433969,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-19T03:07:09.0109149+00:00",
+      "NumProgressed": 433984,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -16349,7 +16360,7 @@
       "Name": "Banged",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 8679
+      "UsersEstimate": 8680
     },
     {
       "ID": "ACH_BLINDFIRE",
@@ -16373,7 +16384,7 @@
       "Name": "Checkpoint Victory",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 8679
+      "UsersEstimate": 8680
     },
     {
       "ID": "ACH_CINEMATIC",
@@ -16421,7 +16432,7 @@
       "Name": "First Blood",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 8679
+      "UsersEstimate": 8680
     },
     {
       "ID": "ACH_FLACCID_PARALYSIS",
@@ -16429,7 +16440,7 @@
       "Name": "Flaccid Paralysis",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 8679
+      "UsersEstimate": 8680
     },
     {
       "ID": "ACH_GROUNDED",
@@ -16477,7 +16488,7 @@
       "Name": "Lucky",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 13019
+      "UsersEstimate": 13020
     },
     {
       "ID": "ACH_MOUNT_AND_GUN",
@@ -16525,7 +16536,7 @@
       "Name": "Push Victory",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 8679
+      "UsersEstimate": 8680
     },
     {
       "ID": "ACH_REFLEXES",
@@ -16557,7 +16568,7 @@
       "Name": "Self-destructive",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 8679
+      "UsersEstimate": 8680
     },
     {
       "ID": "ACH_SEMPER_PARATUS",
@@ -16581,7 +16592,7 @@
       "Name": "Stylin\u0027",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 13019
+      "UsersEstimate": 13020
     },
     {
       "ID": "ACH_THANKS_STATION",
@@ -16605,7 +16616,7 @@
       "Name": "Turf War",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 13019
+      "UsersEstimate": 13020
     },
     {
       "ID": "ACH_WALLBANGER",
@@ -16613,7 +16624,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 21698
+      "UsersEstimate": 21699
     },
     {
       "ID": "ACH_WET_FEET",
@@ -16628,15 +16639,15 @@
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 433969,
+      "Progressed": 433984,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
-  "LastChanged": "2023-08-17T10:59:33.5999314+00:00",
-  "LastChanged_Achievements": "2023-08-19T02:13:19.0604107+00:00",
+  "LastChanged": "2023-08-19T02:59:58.8318114+00:00",
+  "LastChanged_Achievements": "2023-08-19T03:07:09.0109139+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:41.0153429+00:00",
-  "LastUpdate_Ratings": "2023-08-19T02:06:17.5105191+00:00",
-  "LastUpdate_Achievements": "2023-08-19T02:13:19.0606026+00:00"
+  "LastUpdate_Ratings": "2023-08-19T02:59:58.8318124+00:00",
+  "LastUpdate_Achievements": "2023-08-19T03:07:09.0110278+00:00"
 }

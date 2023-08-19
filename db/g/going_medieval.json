@@ -1210,7 +1210,7 @@
   ],
   "EOS_Progressed": 5357,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 120,
+  "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -7938,17 +7938,17 @@
       "ID": "UNLOCK_RESEARCH_10",
       "SetID": "5349c2e",
       "Name": "Adept Researcher",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 2357
+      "UsersEstimate": 2411
     },
     {
       "ID": "UNLOCK_RESEARCH_25",
       "SetID": "5349c2e",
       "Name": "Luminary Researcher",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 1714
+      "UsersEstimate": 1768
     },
     {
       "ID": "UNLOCK_RESEARCH_3",
@@ -7978,8 +7978,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-08-17T15:01:41.6967356+00:00",
-  "LastChanged_Achievements": "2023-08-19T02:11:38.830027+00:00",
+  "LastChanged_Achievements": "2023-08-19T03:05:28.2348482+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:55.0917319+00:00",
-  "LastUpdate_Ratings": "2023-08-19T02:03:38.2450961+00:00",
-  "LastUpdate_Achievements": "2023-08-19T02:11:38.8300923+00:00"
+  "LastUpdate_Ratings": "2023-08-19T02:57:21.7272141+00:00",
+  "LastUpdate_Achievements": "2023-08-19T03:05:28.2349184+00:00"
 }

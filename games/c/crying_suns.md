@@ -6,12 +6,12 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~307,262 |
-| Jeef Skeejj | 44.00% | ~204,841 |
+| The Shutdown | 66.00% | ~307,263 |
+| Jeef Skeejj | 44.00% | ~204,842 |
 | Careful planning | 39.00% | ~181,564 |
-| Second Coming | 33.00% | ~153,631 |
-| Jeef Skagg | 30.00% | ~139,664 |
-| Mother | 25.00% | ~116,387 |
+| Second Coming | 33.00% | ~153,632 |
+| Jeef Skagg | 30.00% | ~139,665 |
+| Mother | 25.00% | ~116,388 |
 | In space, no one can hear you scream | 24.00% | ~111,732 |
 | Chapter I: Echoes | 22.00% | ~102,421 |
 | Excelsior Rule | 22.00% | ~102,421 |
@@ -28,9 +28,9 @@ Number of Ratings: 1,003  (23.09.2022)
 | General Vivar | 8.00% | ~37,244 |
 | Back to Ganyma | 8.00% | ~37,244 |
 | Kaos Rule | 8.00% | ~37,244 |
-| Admiral Okonkwo | 7.00% | ~32,588 |
-| The Survivalists | 7.00% | ~32,588 |
-| The Tech Specialist | 7.00% | ~32,588 |
+| Admiral Okonkwo | 7.00% | ~32,589 |
+| The Survivalists | 7.00% | ~32,589 |
+| The Tech Specialist | 7.00% | ~32,589 |
 | Chapter V: Memories of None | 6.00% | ~27,933 |
 | Meet your maker | 6.00% | ~27,933 |
 | The Impersonator | 6.00% | ~27,933 |
@@ -45,17 +45,17 @@ Number of Ratings: 1,003  (23.09.2022)
 | The Smuggler | 6.00% | ~27,933 |
 | The Crazy Repairman | 6.00% | ~27,933 |
 | The Weasel | 6.00% | ~27,933 |
-| Kill the Doctor | 5.00% | ~23,277 |
-| Forsaken | 5.00% | ~23,277 |
-| Mercy | 5.00% | ~23,277 |
-| Jericho Rule | 5.00% | ~23,277 |
+| Kill the Doctor | 5.00% | ~23,278 |
+| Forsaken | 5.00% | ~23,278 |
+| Mercy | 5.00% | ~23,278 |
+| Jericho Rule | 5.00% | ~23,278 |
 | Geno Rule | 3.00% | ~13,966 |
 | Hammer Rule | 3.00% | ~13,966 |
 | Survivor | 2.00% | ~9,311 |
-| A Rock in the Dark | 1.00% | ~4,655 |
-| Emperor of Misery | 1.00% | ~4,655 |
-| A Frozen Lady | 1.00% | ~4,655 |
-| Void Rule | 1.00% | ~4,655 |
+| A Rock in the Dark | 1.00% | ~4,656 |
+| Emperor of Misery | 1.00% | ~4,656 |
+| A Frozen Lady | 1.00% | ~4,656 |
+| Void Rule | 1.00% | ~4,656 |
 | Excelsior Mastery | 0.90% | ~4,190 |
 | The greatest admiral of all time | 0.50% | ~2,328 |
 | Hand of the Emperor | 0.30% | ~28 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~9 |
 | Kronos Rule | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 465,548 (Ranked 37)  
+Progressed: 465,550 (Ranked 37)  
 Completed: 17 (0.00%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,7 +207,7 @@ Completed: 17 (0.00%) (Ranked 260)
 | 2023-08-16 | 465,377 | 17 |
 | 2023-08-17 | 465,460 | 17 |
 | 2023-08-18 | 465,542 | 17 |
-| 2023-08-19 | 465,548 | 17 |
+| 2023-08-19 | 465,550 | 17 |
 ## Awards
 Max (Character Customization): 217  (Ranked 267)  
 Sum: 217 (Ranked 363)  

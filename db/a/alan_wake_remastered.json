@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 61089,
+  "EOS_Progressed": 61091,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 389,
+  "EOS_NewPlayers": 390,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11677,6 +11677,11 @@
       "Time": "2023-08-19T02:12:33.5263741+00:00",
       "NumProgressed": 61089,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-19T03:06:23.1574094+00:00",
+      "NumProgressed": 61091,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -11688,7 +11693,7 @@
       "Name": "Follow the Light",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 22603
+      "UsersEstimate": 22604
     },
     {
       "ID": "02",
@@ -11696,7 +11701,7 @@
       "Name": "Nordic Walking",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 14050
+      "UsersEstimate": 14051
     },
     {
       "ID": "03",
@@ -11704,7 +11709,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 14050
+      "UsersEstimate": 14051
     },
     {
       "ID": "04",
@@ -11728,7 +11733,7 @@
       "Name": "Park Ranger",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 9774
+      "UsersEstimate": 9775
     },
     {
       "ID": "07",
@@ -11768,7 +11773,7 @@
       "Name": "Children of the Elder God",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3054
+      "UsersEstimate": 3055
     },
     {
       "ID": "12",
@@ -11784,7 +11789,7 @@
       "Name": "Drink \u0027Em Both Up",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3054
+      "UsersEstimate": 3055
     },
     {
       "ID": "14",
@@ -11912,7 +11917,7 @@
       "Name": "Sound and Fury",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 8552
+      "UsersEstimate": 8553
     },
     {
       "ID": "30",
@@ -11928,7 +11933,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9163
+      "UsersEstimate": 9164
     },
     {
       "ID": "32",
@@ -11944,7 +11949,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 8552
+      "UsersEstimate": 8553
     },
     {
       "ID": "34",
@@ -12008,7 +12013,7 @@
       "Name": "Finders Keepers",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9163
+      "UsersEstimate": 9164
     },
     {
       "ID": "42",
@@ -12048,7 +12053,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 8552
+      "UsersEstimate": 8553
     },
     {
       "ID": "47",
@@ -12096,7 +12101,7 @@
       "Name": "A Friend Indeed",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1473
+      "UsersEstimate": 1474
     },
     {
       "ID": "53",
@@ -12223,21 +12228,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 61089,
+      "Progressed": 61091,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 24557,
+      "Progressed": 24559,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-19T02:12:33.5263733+00:00",
+  "LastChanged_Achievements": "2023-08-19T03:06:23.1574087+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:20.2881971+00:00",
-  "LastUpdate_Ratings": "2023-08-19T02:05:57.8453717+00:00",
-  "LastUpdate_Achievements": "2023-08-19T02:12:33.5265146+00:00"
+  "LastUpdate_Ratings": "2023-08-19T02:59:39.8875007+00:00",
+  "LastUpdate_Achievements": "2023-08-19T03:06:23.1575468+00:00"
 }

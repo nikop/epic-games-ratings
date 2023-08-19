@@ -4,7 +4,7 @@
   "ProductSlug": "need-for-speed-unbound",
   "Ranking_EOS_Progress": 548,
   "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 354,
+  "Ranking_EOS_NewPlayers": 353,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-12-02T07:00:00+00:00",
@@ -33,8 +33,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-25T22:03:37.4196764+00:00",
-  "LastChanged_Achievements": "2023-08-19T02:11:49.1999823+00:00",
+  "LastChanged_Achievements": "2023-08-19T03:05:38.7371741+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:15.9379998+00:00",
-  "LastUpdate_Ratings": "2023-08-19T02:05:53.4748237+00:00",
-  "LastUpdate_Achievements": "2023-08-19T02:11:49.1999865+00:00"
+  "LastUpdate_Ratings": "2023-08-19T02:59:35.7484383+00:00",
+  "LastUpdate_Achievements": "2023-08-19T03:05:38.7371786+00:00"
 }
