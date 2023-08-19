@@ -2,8 +2,8 @@
 | - | ---- | --------- |
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 51.35% |
-| 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.42% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 41.18% |
+| 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 43.14% |
+| 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.42% |
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
 | 6 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 26.00% |
@@ -34,9 +34,9 @@
 | 32 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.93% |
 | 33 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.48% |
 | 34 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 7.69% |
-| 35 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.55% |
-| 36 | [Ravenlok](games/r/ravenlok.md) | 7.53% |
-| 37 | [Smelter](games/s/smelter.md) | 7.50% |
+| 35 | [Ravenlok](games/r/ravenlok.md) | 7.53% |
+| 36 | [Smelter](games/s/smelter.md) | 7.50% |
+| 37 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.41% |
 | 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.00% |
 | 39 | [Scorn](games/s/scorn.md) | 6.93% |
 | 40 | [Time Loader](games/t/time_loader.md) | 6.78% |
@@ -44,7 +44,7 @@
 | 42 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.67% |
 | 43 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 44 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 45 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.98% |
+| 45 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.96% |
 | 46 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.45% |
 | 47 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.36% |
 | 47 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.36% |
@@ -59,7 +59,7 @@
 | 57 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.49% |
 | 58 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
 | 59 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.15% |
-| 60 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.04% |
+| 60 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.12% |
 | 61 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.91% |
 | 62 | [ZZT!](games/z/zzt!.md) | 3.82% |
 | 63 | [Without Escape](games/w/without_escape.md) | 3.57% |
@@ -98,9 +98,9 @@
 | 95 | [Sifu](games/s/sifu.md) | 1.81% |
 | 97 | [Somerville](games/s/somerville.md) | 1.67% |
 | 97 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.67% |
-| 99 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 1.62% |
-| 100 | [Iron Danger](games/i/iron_danger.md) | 1.61% |
-| 101 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.59% |
+| 99 | [Iron Danger](games/i/iron_danger.md) | 1.61% |
+| 100 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 1.59% |
+| 100 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.59% |
 | 102 | [Five Dates](games/f/five_dates.md) | 1.57% |
 | 102 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.57% |
 | 104 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.49% |
@@ -207,15 +207,15 @@
 | 203 | [Ring of Pain](games/r/ring_of_pain.md) | 0.11% |
 | 206 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.10% |
 | 206 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
+| 206 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.10% |
 | 206 | [House Flipper](games/h/house_flipper.md) | 0.10% |
 | 206 | [Shop Titans](games/s/shop_titans.md) | 0.10% |
 | 206 | [Supraland](games/s/supraland.md) | 0.10% |
-| 211 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
-| 211 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.09% |
-| 211 | [Outward Definitive Edition](games/o/outward.md) | 0.09% |
-| 211 | [Riverbond](games/r/riverbond.md) | 0.09% |
-| 211 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
-| 211 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
+| 212 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
+| 212 | [Outward Definitive Edition](games/o/outward.md) | 0.09% |
+| 212 | [Riverbond](games/r/riverbond.md) | 0.09% |
+| 212 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
+| 212 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
 | 217 | [Partisans 1941](games/p/partisans_1941.md) | 0.08% |
 | 218 | [Saints Row](games/s/saints_row.md) | 0.07% |
 | 218 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
