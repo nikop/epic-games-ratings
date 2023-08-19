@@ -6,21 +6,21 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 76.00% | ~3,637 |
+| Just One...More...Term... | 75.00% | ~3,590 |
 | Un-Lonely Island | 47.00% | ~2,249 |
-| The Beginning of a Servantship | 46.00% | ~2,201 |
-| Trade Is My Trait | 37.00% | ~1,770 |
-| Number 18 | 24.00% | ~1,148 |
+| The Beginning of a Servantship | 46.00% | ~2,202 |
+| Trade Is My Trait | 37.00% | ~1,771 |
+| Number 18 | 24.00% | ~1,149 |
 | We Don't Have Time For That | 19.00% | ~909 |
 | The Governator | 18.00% | ~861 |
-| The Legend of Langostino | 17.00% | ~813 |
+| The Legend of Langostino | 17.00% | ~814 |
 | Caribbean Comrade | 16.00% | ~766 |
 | The Dreamer of Dreams | 16.00% | ~766 |
 | Go Sovereigns! | 11.00% | ~526 |
 | For Science! | 11.00% | ~526 |
-| Happy Ending? | 10.00% | ~478 |
-| Of Seals And Men | 10.00% | ~478 |
-| Shackadelic | 10.00% | ~478 |
+| Happy Ending? | 10.00% | ~479 |
+| Of Seals And Men | 10.00% | ~479 |
+| Shackadelic | 10.00% | ~479 |
 | Double Trouble | 8.00% | ~383 |
 | Firestarter | 8.00% | ~383 |
 | Make Tropico Great Again! | 8.00% | ~383 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~43 |
 | My Ways | 0.30% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,785 (Ranked 145)  
+Progressed: 4,786 (Ranked 145)  
 Completed: 2 (0.04%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,17 +168,17 @@ Completed: 2 (0.04%) (Ranked 230)
 | 2023-08-16 | 4,756 | 2 |
 | 2023-08-17 | 4,769 | 2 |
 | 2023-08-18 | 4,780 | 2 |
-| 2023-08-19 | 4,785 | 2 |
+| 2023-08-19 | 4,786 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 97  (Ranked 340)  
-Sum: 676 (Ranked 280)  
+Sum: 677 (Ranked 280)  
 Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 106 |
 | This game has Quickly Understood Controls | 97 |
 | This game is Relaxing | 92 |
-| This game is Highly Recommended | 88 |
+| This game is Highly Recommended | 89 |
 | This game has Amazing Storytelling | 87 |
 | This game has Amazing Characters | 84 |
 | This game is Educational | 83 |
@@ -312,3 +312,4 @@ Diff (max vs sum): 60
 | 2023-08-13 | 4.67 | - | 96 | 674 |
 | 2023-08-16 | 4.66 | - | 97 | 675 |
 | 2023-08-17 | 4.66 | - | 97 | 676 |
+| 2023-08-19 | 4.66 | - | 97 | 677 |

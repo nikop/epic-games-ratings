@@ -15,10 +15,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalism Ho! | 0.80% | ~1,078 |
 | Another Satisfied Customer | 0.70% | ~943 |
 | Budding Merchant | 0.70% | ~943 |
-| One Easy Payment | 0.60% | ~808 |
-| Some Assembly Required | 0.60% | ~808 |
-| Pretty Penny | 0.60% | ~808 |
-| Own the Means of Production | 0.60% | ~808 |
+| One Easy Payment | 0.60% | ~809 |
+| Some Assembly Required | 0.60% | ~809 |
+| Pretty Penny | 0.60% | ~809 |
+| Own the Means of Production | 0.60% | ~809 |
 | The Daily Grind | 0.50% | ~674 |
 | Bounty Hunters | 0.50% | ~674 |
 | One-Armed Bandit | 0.50% | ~674 |
@@ -40,6 +40,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Big Game Hunting | 0.30% | ~404 |
 | Fated Encounters | 0.30% | ~404 |
 | For the Hoard! | 0.30% | ~404 |
+| Flying off the Shelves | 0.30% | ~404 |
 | This Power Level...! | 0.30% | ~404 |
 | Master of Transmutation | 0.30% | ~404 |
 | Hidden Potential | 0.30% | ~404 |
@@ -69,7 +70,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Archivist | 0.20% | ~270 |
 | Locally Sourced | 0.20% | ~270 |
 | Fillin' the Bin | 0.20% | ~270 |
-| Flying off the Shelves | 0.20% | ~270 |
 | Industrial Evolution | 0.20% | ~270 |
 | Omae wa Mou Shindeiru | 0.20% | ~270 |
 | Supercharged | 0.20% | ~270 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.10% | ~135 |
 | All Accounted For | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,750 (Ranked 66)  
+Progressed: 134,751 (Ranked 66)  
 Completed: 133 (0.10%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,7 +240,7 @@ Completed: 133 (0.10%) (Ranked 206)
 | 2023-08-16 | 134,622 | 133 |
 | 2023-08-17 | 134,688 | 133 |
 | 2023-08-18 | 134,736 | 133 |
-| 2023-08-19 | 134,750 | 133 |
+| 2023-08-19 | 134,751 | 133 |
 ## Awards
 Max (Great for Beginners): 4,704  (Ranked 71)  
 Sum: 27,110 (Ranked 47)  

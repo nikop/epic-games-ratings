@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 83,
-  "Ranking_EOS_NewPlayers": 351,
+  "Ranking_EOS_NewPlayers": 349,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-05-12T16:00:00+00:00",
@@ -343,9 +343,9 @@
       "ID": "achievement_02",
       "SetID": "7881h0d",
       "Name": "Ritual",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 28
+      "UsersEstimate": 32
     },
     {
       "ID": "achievement_03",
@@ -488,8 +488,8 @@
   "FirstSeenRating": "2022-10-04T02:32:44.3620857+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.4947982+00:00",
   "LastChanged": "2023-03-31T05:57:59.5947046+00:00",
-  "LastChanged_Achievements": "2023-08-19T05:06:26.3070331+00:00",
+  "LastChanged_Achievements": "2023-08-19T06:08:46.8584596+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:27.9156995+00:00",
-  "LastUpdate_Ratings": "2023-08-19T04:59:14.1824867+00:00",
-  "LastUpdate_Achievements": "2023-08-19T05:06:26.3070454+00:00"
+  "LastUpdate_Ratings": "2023-08-19T06:00:50.0446925+00:00",
+  "LastUpdate_Achievements": "2023-08-19T06:08:46.8584759+00:00"
 }

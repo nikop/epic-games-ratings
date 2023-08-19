@@ -5650,9 +5650,9 @@
       "Count": 3735
     }
   ],
-  "EOS_Progressed": 134750,
+  "EOS_Progressed": 134751,
   "EOS_Completed": 133,
-  "EOS_NewPlayers": 386,
+  "EOS_NewPlayers": 384,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -17995,6 +17995,11 @@
       "Time": "2023-08-19T05:05:14.5026188+00:00",
       "NumProgressed": 134750,
       "NumCompleted": 133
+    },
+    {
+      "Time": "2023-08-19T06:07:19.294429+00:00",
+      "NumProgressed": 134751,
+      "NumCompleted": 133
     }
   ],
   "TotalAchievements": 112,
@@ -18086,7 +18091,7 @@
       "Name": "One Easy Payment",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 808
+      "UsersEstimate": 809
     },
     {
       "ID": "bigsale02",
@@ -18110,7 +18115,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 808
+      "UsersEstimate": 809
     },
     {
       "ID": "blueprint02",
@@ -18284,9 +18289,9 @@
       "ID": "craft03",
       "SetID": "anfd17p",
       "Name": "Flying off the Shelves",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 404
     },
     {
       "ID": "craft04",
@@ -18486,7 +18491,7 @@
       "Name": "Pretty Penny",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 808
+      "UsersEstimate": 809
     },
     {
       "ID": "gold03",
@@ -18870,7 +18875,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 808
+      "UsersEstimate": 809
     },
     {
       "ID": "workers02",
@@ -18901,15 +18906,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 134750,
+      "Progressed": 134751,
       "Completed": 133
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-08-18T01:38:04.3174786+00:00",
-  "LastChanged_Achievements": "2023-08-19T05:05:14.5026184+00:00",
+  "LastChanged_Achievements": "2023-08-19T06:07:19.2944284+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:13.9096409+00:00",
-  "LastUpdate_Ratings": "2023-08-19T04:59:50.3768728+00:00",
-  "LastUpdate_Achievements": "2023-08-19T05:05:14.5028331+00:00"
+  "LastUpdate_Ratings": "2023-08-19T06:01:36.9092547+00:00",
+  "LastUpdate_Achievements": "2023-08-19T06:07:19.2946474+00:00"
 }

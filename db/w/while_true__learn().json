@@ -490,9 +490,9 @@
       "Count": 134
     }
   ],
-  "EOS_Progressed": 600863,
+  "EOS_Progressed": 600864,
   "EOS_Completed": 516,
-  "EOS_NewPlayers": 845,
+  "EOS_NewPlayers": 844,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -13690,6 +13690,11 @@
       "Time": "2023-08-19T05:05:22.9460298+00:00",
       "NumProgressed": 600863,
       "NumCompleted": 516
+    },
+    {
+      "Time": "2023-08-19T06:07:29.5598787+00:00",
+      "NumProgressed": 600864,
+      "NumCompleted": 516
     }
   ],
   "TotalAchievements": 28,
@@ -13813,7 +13818,7 @@
       "Name": "Beauty and harmony",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 288414
+      "UsersEstimate": 288415
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -13829,7 +13834,7 @@
       "Name": "First.. Bit?",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 558803
+      "UsersEstimate": 558804
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -13869,7 +13874,7 @@
       "Name": "RNG is my best friend now",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 108155
+      "UsersEstimate": 108156
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -13877,7 +13882,7 @@
       "Name": "The dawn of civilization",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 318457
+      "UsersEstimate": 318458
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -13924,15 +13929,15 @@
     {
       "ID": "c2jc46f",
       "IsBase": true,
-      "Progressed": 600863,
+      "Progressed": 600864,
       "Completed": 516
     }
   ],
   "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.0744995+00:00",
   "LastChanged": "2023-07-16T08:00:08.7749167+00:00",
-  "LastChanged_Achievements": "2023-08-19T05:05:22.9460291+00:00",
+  "LastChanged_Achievements": "2023-08-19T06:07:29.5598781+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:46.582638+00:00",
-  "LastUpdate_Ratings": "2023-08-19T05:00:16.1725072+00:00",
-  "LastUpdate_Achievements": "2023-08-19T05:05:22.9461367+00:00"
+  "LastUpdate_Ratings": "2023-08-19T06:02:08.4823194+00:00",
+  "LastUpdate_Achievements": "2023-08-19T06:07:29.5600163+00:00"
 }

@@ -15,7 +15,7 @@ Rating: 4.37 (Ranked 732)
 | The other side of the mirror | 16.00% | ~51 |
 | Little Mary | 15.00% | ~47 |
 | There is freedom in awakening | 12.00% | ~38 |
-| Ritual | 9.00% | ~28 |
+| Ritual | 10.00% | ~32 |
 | Cowardice | 9.00% | ~28 |
 | Bloodrush | 8.00% | ~25 |
 | True magic doesn't exist | 7.00% | ~22 |

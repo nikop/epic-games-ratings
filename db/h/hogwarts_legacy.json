@@ -6388,10 +6388,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 41206,
       "NumberOfAwardsMax": 21818
+    },
+    {
+      "Time": "2023-08-19T06:00:24.5332032+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 41208,
+      "NumberOfAwardsMax": 21818
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 41206,
+  "NumberOfAwards": 41208,
   "NumberOfAwardsMax": 21818,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6435,7 +6441,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 938
+      "Count": 940
     },
     {
       "Text": "This game is Relaxing",
@@ -6468,9 +6474,9 @@
       "Count": 596
     }
   ],
-  "EOS_Progressed": 290378,
+  "EOS_Progressed": 290379,
   "EOS_Completed": 452,
-  "EOS_NewPlayers": 499,
+  "EOS_NewPlayers": 498,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -19463,6 +19469,11 @@
       "Time": "2023-08-19T05:05:42.3956185+00:00",
       "NumProgressed": 290378,
       "NumCompleted": 452
+    },
+    {
+      "Time": "2023-08-19T06:07:52.55378+00:00",
+      "NumProgressed": 290379,
+      "NumCompleted": 452
     }
   ],
   "TotalAchievements": 45,
@@ -19522,7 +19533,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20326
+      "UsersEstimate": 20327
     },
     {
       "ID": "PFA_16",
@@ -19538,7 +19549,7 @@
       "Name": "Beast Friends",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20326
+      "UsersEstimate": 20327
     },
     {
       "ID": "PFA_18",
@@ -19546,7 +19557,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20326
+      "UsersEstimate": 20327
     },
     {
       "ID": "PFA_19",
@@ -19554,7 +19565,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 20326
+      "UsersEstimate": 20327
     },
     {
       "ID": "PFA_2",
@@ -19833,16 +19844,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 290378,
+      "Progressed": 290379,
       "Completed": 452
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-08-19T04:58:55.6534852+00:00",
-  "LastChanged_Achievements": "2023-08-19T05:05:42.3956181+00:00",
-  "LastUpdate_AppInfo": "2023-08-12T05:57:17.4814985+00:00",
-  "LastUpdate_Ratings": "2023-08-19T04:58:55.6534857+00:00",
-  "LastUpdate_Achievements": "2023-08-19T05:05:42.3957441+00:00"
+  "LastChanged": "2023-08-19T06:00:24.5332031+00:00",
+  "LastChanged_Achievements": "2023-08-19T06:07:52.5537794+00:00",
+  "LastUpdate_AppInfo": "2023-08-19T05:57:55.8476503+00:00",
+  "LastUpdate_Ratings": "2023-08-19T06:00:24.5332038+00:00",
+  "LastUpdate_Achievements": "2023-08-19T06:07:52.5538936+00:00"
 }

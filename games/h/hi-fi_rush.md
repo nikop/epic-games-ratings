@@ -45,8 +45,8 @@ Rating: 4.88 (Ranked 19)
 | Check out my moves! | 1.00% | ~40 |
 | Call me Turbo Chai | 1.00% | ~25 |
 | First we parry, then we counter | 0.80% | ~32 |
+| This is a breeze! | 0.70% | ~28 |
 | I'm not done with you yet | 0.70% | ~28 |
-| This is a breeze! | 0.60% | ~24 |
 | New bad guys? No problem! | 0.60% | ~15 |
 | OK, well THEY came after ME! | 0.50% | ~20 |
 | You ever parry a volcano? | 0.50% | ~20 |
@@ -77,7 +77,7 @@ Rating: 4.88 (Ranked 19)
 | Voices from within | 0.10% | ~2 |
 | Low budget finish | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,951 (Ranked 148)  
+Progressed: 3,951 (Ranked 149)  
 Completed: 7 (0.18%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |

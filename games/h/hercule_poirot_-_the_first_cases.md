@@ -13,9 +13,9 @@ Rating: 4.35 (Ranked 752)
 | The Bracelet | 64.00% | ~264 |
 | The Blackmail | 55.00% | ~227 |
 | Major Felix Hagen | 55.00% | ~227 |
+| Order and Method | 53.00% | ~218 |
 | Fine-toothed Comb | 53.00% | ~218 |
 | Florette Duval | 53.00% | ~218 |
-| Order and Method | 52.00% | ~214 |
 | The Altercation | 50.00% | ~206 |
 | Truth from Within | 49.00% | ~202 |
 | The Major | 48.00% | ~198 |
@@ -53,7 +53,7 @@ Rating: 4.35 (Ranked 752)
 | Work-life Balance | 2.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 412 (Ranked 237)  
-Completed: 6 (1.46%) (Ranked 106)  
+Completed: 6 (1.46%) (Ranked 105)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

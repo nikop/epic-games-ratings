@@ -3106,9 +3106,9 @@
       "Count": 711
     }
   ],
-  "EOS_Progressed": 1584619,
+  "EOS_Progressed": 1584758,
   "EOS_Completed": 513,
-  "EOS_NewPlayers": 25122,
+  "EOS_NewPlayers": 25135,
   "EOS_NewCompleters": 33,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -11341,6 +11341,11 @@
       "Time": "2023-08-19T05:00:57.4163832+00:00",
       "NumProgressed": 1584619,
       "NumCompleted": 513
+    },
+    {
+      "Time": "2023-08-19T06:03:10.3877499+00:00",
+      "NumProgressed": 1584758,
+      "NumCompleted": 513
     }
   ],
   "TotalAchievements": 1328,
@@ -12552,7 +12557,7 @@
       "Name": "I Want to Get Away",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 7923
+      "UsersEstimate": 7924
     },
     {
       "ID": "brooklyn_2",
@@ -15824,7 +15829,7 @@
       "Name": "Smooth Criminal",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3169
+      "UsersEstimate": 3170
     },
     {
       "ID": "gorilla_1",
@@ -17064,7 +17069,7 @@
       "Name": "No One Cared Who I Was...",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6338
+      "UsersEstimate": 6339
     },
     {
       "ID": "no_turning_back",
@@ -17072,7 +17077,7 @@
       "Name": "No Turning Back",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6338
+      "UsersEstimate": 6339
     },
     {
       "ID": "orange_1",
@@ -20704,7 +20709,7 @@
       "Name": "There is Always a First Time",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3169
+      "UsersEstimate": 3170
     },
     {
       "ID": "trk_js_1",
@@ -21958,9 +21963,9 @@
       "ID": "you_gotta_start_somewhere",
       "SetID": "61cefe3",
       "Name": "You Gotta Start Somewhere",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 6338
+      "UsersEstimate": 7924
     },
     {
       "ID": "you_shall_not_pass",
@@ -21975,22 +21980,22 @@
     {
       "ID": "61cefe3",
       "IsBase": true,
-      "Progressed": 1584619,
+      "Progressed": 1584758,
       "Completed": 513
     },
     {
       "ID": "bkjdbk8",
       "IsBase": false,
-      "Progressed": 1584619,
-      "Completed": 21
+      "Progressed": 1584758,
+      "Completed": 22
     }
   ],
   "FirstSeen": "2023-06-08T18:57:07.8003815+00:00",
   "FirstSeenRating": "2023-06-09T03:57:04.3869033+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:50.4372379+00:00",
   "LastChanged": "2023-08-19T04:58:38.7823859+00:00",
-  "LastChanged_Achievements": "2023-08-19T05:00:57.4163828+00:00",
+  "LastChanged_Achievements": "2023-08-19T06:03:10.3877492+00:00",
   "LastUpdate_AppInfo": "2023-08-17T20:57:10.4408604+00:00",
-  "LastUpdate_Ratings": "2023-08-19T04:58:38.7823865+00:00",
-  "LastUpdate_Achievements": "2023-08-19T05:00:57.4321314+00:00"
+  "LastUpdate_Ratings": "2023-08-19T06:00:02.9226415+00:00",
+  "LastUpdate_Achievements": "2023-08-19T06:03:10.4043807+00:00"
 }
