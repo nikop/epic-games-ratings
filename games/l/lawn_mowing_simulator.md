@@ -6,17 +6,17 @@ Number of Ratings: 5,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 80.00% | ~524,840 |
-| Every story has a beginning | 36.00% | ~236,178 |
-| The first of many | 32.00% | ~209,936 |
-| Positive word of mouth | 18.00% | ~118,089 |
-| Lawn in the U.S.A. | 15.00% | ~98,408 |
-| Blade Runner | 9.00% | ~59,044 |
-| Credible | 7.00% | ~45,924 |
-| Teamwork makes the dream work | 6.00% | ~39,363 |
-| Where there's muck there's brass | 4.00% | ~26,242 |
-| Bigger and better | 4.00% | ~26,242 |
-| Aggressive expansion | 4.00% | ~26,242 |
+| The dream begins | 80.00% | ~524,853 |
+| Every story has a beginning | 36.00% | ~236,184 |
+| The first of many | 32.00% | ~209,941 |
+| Positive word of mouth | 18.00% | ~118,092 |
+| Lawn in the U.S.A. | 15.00% | ~98,410 |
+| Blade Runner | 9.00% | ~59,046 |
+| Credible | 7.00% | ~45,925 |
+| Teamwork makes the dream work | 6.00% | ~39,364 |
+| Where there's muck there's brass | 4.00% | ~26,243 |
+| Bigger and better | 4.00% | ~26,243 |
+| Aggressive expansion | 4.00% | ~26,243 |
 | Size isn't everything | 3.00% | ~19,682 |
 | Close shave | 3.00% | ~19,682 |
 | Established | 3.00% | ~19,682 |
@@ -26,14 +26,14 @@ Number of Ratings: 5,086  (23.09.2022)
 | Leaner and meaner | 2.00% | ~13,121 |
 | First step on the ladder | 2.00% | ~13,121 |
 | Trusted | 2.00% | ~13,121 |
-| The top of the mountain | 1.00% | ~6,560 |
-| Earn your stripes | 0.90% | ~5,904 |
-| Lawn & Order | 0.90% | ~5,904 |
-| Jack of all trades | 0.90% | ~5,904 |
-| Professional | 0.90% | ~5,904 |
-| The grass is always greener | 0.80% | ~5,248 |
-| All hands on deck | 0.80% | ~5,248 |
-| Worked your grass off | 0.80% | ~5,248 |
+| The top of the mountain | 1.00% | ~6,561 |
+| Earn your stripes | 0.90% | ~5,905 |
+| Lawn & Order | 0.90% | ~5,905 |
+| Jack of all trades | 0.90% | ~5,905 |
+| Professional | 0.90% | ~5,905 |
+| The grass is always greener | 0.80% | ~5,249 |
+| All hands on deck | 0.80% | ~5,249 |
+| Worked your grass off | 0.80% | ~5,249 |
 | Phoenix rises | 0.40% | ~2,624 |
 | Cut Loose | 0.40% | ~2,624 |
 | Esteemed | 0.40% | ~2,624 |
@@ -61,7 +61,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~656 |
 | Mo mowers, mo problems | 0.10% | ~656 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 656,050 (Ranked 24)  
+Progressed: 656,066 (Ranked 24)  
 Completed: 15 (0.00%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,7 +182,7 @@ Completed: 15 (0.00%) (Ranked 260)
 | 2023-08-16 | 655,270 | 15 |
 | 2023-08-17 | 655,587 | 15 |
 | 2023-08-18 | 655,917 | 15 |
-| 2023-08-19 | 656,050 | 15 |
+| 2023-08-19 | 656,066 | 15 |
 ## Awards
 Max (Quickly Understood Controls): 181  (Ranked 281)  
 Sum: 974 (Ranked 239)  

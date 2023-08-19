@@ -2,7 +2,7 @@
   "ID": "1efd3d783b814b8b8548fb60c5983825",
   "Name": "IXION",
   "ProductSlug": "ixion-88cda4",
-  "Ranking_Rating": 472,
+  "Ranking_Rating": 486,
   "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 160,
@@ -19,7 +19,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.56,
+  "Rating": 4.55,
   "RatingHistory": [
     {
       "Time": "2022-12-11T21:57:21.9707652+00:00",
@@ -254,15 +254,21 @@
       "Rating": 4.56,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-08-19T11:00:48.8517496+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3083,
+  "EOS_Progressed": 3084,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4590,6 +4596,11 @@
       "Time": "2023-08-18T19:07:26.999899+00:00",
       "NumProgressed": 3083,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-19T11:07:34.8701825+00:00",
+      "NumProgressed": 3084,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -4665,7 +4676,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "ACH_BASE_19",
@@ -4697,23 +4708,23 @@
       "Name": "Sustainable Energy",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ACH_BASE_23",
       "SetID": "92iocjf",
       "Name": "Space Society",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 432
+      "UsersEstimate": 463
     },
     {
       "ID": "ACH_BASE_24",
       "SetID": "92iocjf",
       "Name": "Sputnik 2049",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 678
+      "UsersEstimate": 709
     },
     {
       "ID": "ACH_BASE_25",
@@ -4737,7 +4748,7 @@
       "Name": "A Hunk of Junk",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "ACH_BASE_28",
@@ -4745,7 +4756,7 @@
       "Name": "In Dolos We Trust",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ACH_BASE_29",
@@ -4753,7 +4764,7 @@
       "Name": "A Thousand Strong",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "ACH_BASE_3",
@@ -4801,7 +4812,7 @@
       "Name": "Ready for a New World",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "ACH_BASE_35",
@@ -4809,7 +4820,7 @@
       "Name": "Breaking Protocol",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "ACH_BASE_36",
@@ -4961,7 +4972,7 @@
       "Name": "Pedal to the Metal",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ACH_BASE_58",
@@ -5056,22 +5067,22 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1265,
+      "Progressed": 1266,
       "Completed": 6
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3083,
+      "Progressed": 3084,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-12-07T21:57:33.3706141+00:00",
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
-  "LastChanged": "2023-08-15T09:00:10.9455406+00:00",
-  "LastChanged_Achievements": "2023-08-19T10:06:16.5584289+00:00",
+  "LastChanged": "2023-08-19T11:00:48.8517492+00:00",
+  "LastChanged_Achievements": "2023-08-19T11:07:34.8701817+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:49.8768726+00:00",
-  "LastUpdate_Ratings": "2023-08-19T09:59:44.0337428+00:00",
-  "LastUpdate_Achievements": "2023-08-19T10:06:16.5585088+00:00"
+  "LastUpdate_Ratings": "2023-08-19T11:00:48.85175+00:00",
+  "LastUpdate_Achievements": "2023-08-19T11:07:34.870284+00:00"
 }

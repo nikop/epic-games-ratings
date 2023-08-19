@@ -57,11 +57,11 @@
 | Careful Constructor | 6.00% | ~20 |
 | Sky High Stature | 6.00% | ~20 |
 | Profound Proceeds | 6.00% | ~20 |
+| Tuned In | 6.00% | ~20 |
 | It's a Gas | 6.00% | ~20 |
 | Meet ADA/360 | 5.00% | ~16 |
 | Penthouse in the Sky | 5.00% | ~16 |
 | Baron of Business | 5.00% | ~16 |
-| Tuned In | 5.00% | ~16 |
 | Office Bigwigs | 4.00% | ~13 |
 | Decorator's Touch | 3.00% | ~10 |
 | Apartment Awareness | 3.00% | ~10 |
@@ -77,8 +77,8 @@
 | Four of a Kind | 2.00% | ~7 |
 | In the Money | 2.00% | ~7 |
 | It is Payday | 2.00% | ~7 |
+| Scenario Success | 2.00% | ~7 |
 | Full House | 1.00% | ~3 |
-| Scenario Success | 1.00% | ~3 |
 | Double Down | 0.90% | ~3 |
 | Such Great Heights | 0.90% | ~3 |
 | Lofty Landlord | 0.90% | ~3 |

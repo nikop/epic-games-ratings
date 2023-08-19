@@ -5,9 +5,9 @@ Rating: 4.77 (Ranked 109)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 12.00% | ~34,846 |
-| First Class Student | 11.00% | ~31,942 |
-| Troll with the Punches | 11.00% | ~31,942 |
+| The Sort Who Makes an Entrance | 12.00% | ~34,847 |
+| First Class Student | 11.00% | ~31,943 |
+| Troll with the Punches | 11.00% | ~31,943 |
 | A Keen Sense of Spell | 10.00% | ~29,039 |
 | That's a Keeper | 10.00% | ~29,039 |
 | Grappling with a Graphorn | 9.00% | ~26,135 |
@@ -26,15 +26,15 @@ Rating: 4.77 (Ranked 109)
 | Beast Friends | 7.00% | ~20,327 |
 | A Sallow Grave | 7.00% | ~20,327 |
 | Flight the Good Flight | 7.00% | ~20,327 |
-| The Seeker of Knowledge | 5.00% | ~14,519 |
-| The Root of the Problem | 5.00% | ~14,519 |
-| Third Time's a Charm | 5.00% | ~14,519 |
-| Raising Expectations | 5.00% | ~14,519 |
-| The Toast of the Town | 4.00% | ~11,615 |
-| Room with a View | 4.00% | ~11,615 |
-| The Intrepid Explorer | 4.00% | ~11,615 |
-| The Gryffindor in the Graveyard | 4.00% | ~11,615 |
-| The Ends Petrify the Means | 4.00% | ~11,615 |
+| The Seeker of Knowledge | 5.00% | ~14,520 |
+| The Root of the Problem | 5.00% | ~14,520 |
+| Third Time's a Charm | 5.00% | ~14,520 |
+| Raising Expectations | 5.00% | ~14,520 |
+| The Toast of the Town | 4.00% | ~11,616 |
+| Room with a View | 4.00% | ~11,616 |
+| The Intrepid Explorer | 4.00% | ~11,616 |
+| The Gryffindor in the Graveyard | 4.00% | ~11,616 |
+| The Ends Petrify the Means | 4.00% | ~11,616 |
 | Going Through the Potions | 3.00% | ~8,712 |
 | Floo Around the World | 3.00% | ~8,712 |
 | The Wise Owl | 3.00% | ~8,712 |
@@ -46,12 +46,12 @@ Rating: 4.77 (Ranked 109)
 | Savvy Spender | 1.00% | ~2,904 |
 | Demiguise Dread | 1.00% | ~2,904 |
 | A Forte for Achievement | 1.00% | ~2,904 |
-| Merlin's Beard! | 0.90% | ~2,613 |
+| Merlin's Beard! | 0.90% | ~2,614 |
 | Spilled Milk | 0.80% | ~2,323 |
 | The Nature of the Beast | 0.60% | ~1,742 |
 | Collector's Edition | 0.30% | ~871 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290,386 (Ranked 43)  
+Progressed: 290,390 (Ranked 43)  
 Completed: 452 (0.16%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,18 +172,18 @@ Completed: 452 (0.16%) (Ranked 192)
 | 2023-08-16 | 290,231 | 452 |
 | 2023-08-17 | 290,286 | 452 |
 | 2023-08-18 | 290,355 | 452 |
-| 2023-08-19 | 290,386 | 452 |
+| 2023-08-19 | 290,390 | 452 |
 ## Awards
 Max (Character Customization): 21,818  (Ranked 17)  
-Sum: 41,215 (Ranked 30)  
+Sum: 41,218 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 21,818 |
 | This game has Great Boss Battles | 10,565 |
 | This game is Great for Beginners | 977 |
+| This game is Extremely Fun | 959 |
 | This game is Relaxing | 959 |
-| This game is Extremely Fun | 956 |
 | This game has Amazing Storytelling | 942 |
 | This game has Diverse Characters | 940 |
 | This game has Amazing Characters | 923 |
@@ -342,4 +342,4 @@ Diff (max vs sum): -13
 | 2023-08-16 | 4.77 | 21,765 | 41,080 |
 | 2023-08-17 | 4.77 | 21,780 | 41,138 |
 | 2023-08-18 | 4.77 | 21,799 | 41,179 |
-| 2023-08-19 | 4.77 | 21,818 | 41,215 |
+| 2023-08-19 | 4.77 | 21,818 | 41,218 |

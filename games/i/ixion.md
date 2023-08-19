@@ -1,17 +1,17 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.56 (Ranked 472)  
+Rating: 4.55 (Ranked 486)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 26.00% | ~802 |
-| Sputnik 2049 | 22.00% | ~678 |
-| Infinite Growth... | 21.00% | ~647 |
+| Sputnik 2049 | 23.00% | ~709 |
+| Infinite Growth... | 21.00% | ~648 |
 | Without Breaking Some Eggs... | 20.00% | ~617 |
-| A Thousand Strong | 15.00% | ~462 |
-| Ready for a New World | 15.00% | ~462 |
-| Space Society | 14.00% | ~432 |
+| Space Society | 15.00% | ~463 |
+| A Thousand Strong | 15.00% | ~463 |
+| Ready for a New World | 15.00% | ~463 |
 | Permanent Redesigns | 13.00% | ~401 |
 | Guy de Borderlands | 11.00% | ~339 |
 | Fully Recycled | 11.00% | ~339 |
@@ -19,8 +19,8 @@ Rating: 4.56 (Ranked 472)
 | The Ship of Theseus | 11.00% | ~339 |
 | Exceeding Capacity | 10.00% | ~308 |
 | Hope Seeker | 10.00% | ~308 |
-| A Hunk of Junk | 9.00% | ~277 |
-| Breaking Protocol | 9.00% | ~277 |
+| A Hunk of Junk | 9.00% | ~278 |
+| Breaking Protocol | 9.00% | ~278 |
 | Man's Best Friend | 7.00% | ~216 |
 | Power Outage | 7.00% | ~216 |
 | Please Make it Stop! | 7.00% | ~216 |
@@ -35,9 +35,9 @@ Rating: 4.56 (Ranked 472)
 | BRAWL! | 4.00% | ~123 |
 | All in Good Health | 4.00% | ~123 |
 | What the Ruins Teach Us | 4.00% | ~123 |
-| Sustainable Energy | 3.00% | ~92 |
-| In Dolos We Trust | 3.00% | ~92 |
-| Pedal to the Metal | 3.00% | ~92 |
+| Sustainable Energy | 3.00% | ~93 |
+| In Dolos We Trust | 3.00% | ~93 |
+| Pedal to the Metal | 3.00% | ~93 |
 | Mutual Loyalty | 2.00% | ~62 |
 | Praise the Hull! | 2.00% | ~62 |
 | Space Greenhouse | 2.00% | ~62 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 472)
 | Beyond Time and Space | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,083 (Ranked 160)  
+Progressed: 3,084 (Ranked 160)  
 Completed: 0 (0.00%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,6 +183,7 @@ Completed: 0 (0.00%) (Ranked 260)
 | 2023-08-16 | 3,075 | 0 |
 | 2023-08-17 | 3,079 | 0 |
 | 2023-08-18 | 3,083 | 0 |
+| 2023-08-19 | 3,084 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -232,3 +233,4 @@ Completed: 0 (0.00%) (Ranked 260)
 | 2023-07-08 | 4.56 | 0 | 0 |
 | 2023-07-23 | 4.55 | 0 | 0 |
 | 2023-08-15 | 4.56 | 0 | 0 |
+| 2023-08-19 | 4.55 | 0 | 0 |

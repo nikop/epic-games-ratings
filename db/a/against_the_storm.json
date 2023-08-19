@@ -2622,18 +2622,24 @@
       "Rating": 4.81,
       "NumberOfAwards": 3111,
       "NumberOfAwardsMax": 423
+    },
+    {
+      "Time": "2023-08-19T10:58:11.8444141+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 3112,
+      "NumberOfAwardsMax": 424
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3111,
-  "NumberOfAwardsMax": 423,
+  "NumberOfAwards": 3112,
+  "NumberOfAwardsMax": 424,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 423
+      "Count": 424
     },
     {
       "Text": "This game is Relaxing",
@@ -2692,7 +2698,7 @@
   ],
   "EOS_Progressed": 16328,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -9459,9 +9465,9 @@
       "ID": "WinNearMines",
       "SetID": "cfbk359",
       "Name": "Flooded Mines",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 327
+      "UsersEstimate": 490
     },
     {
       "ID": "WinNearMonastery",
@@ -9666,9 +9672,9 @@
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2023-08-18T11:58:10.323375+00:00",
-  "LastChanged_Achievements": "2023-08-19T10:05:29.2679685+00:00",
+  "LastChanged": "2023-08-19T10:58:11.8444138+00:00",
+  "LastChanged_Achievements": "2023-08-19T11:06:36.0918287+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:07.3508245+00:00",
-  "LastUpdate_Ratings": "2023-08-19T09:57:35.9051306+00:00",
-  "LastUpdate_Achievements": "2023-08-19T10:05:29.268053+00:00"
+  "LastUpdate_Ratings": "2023-08-19T10:58:11.8444148+00:00",
+  "LastUpdate_Achievements": "2023-08-19T11:06:36.0919294+00:00"
 }

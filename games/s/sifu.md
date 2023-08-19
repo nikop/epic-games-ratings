@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 5.00% | ~1,091 |
+| Diligence as a goal | 5.00% | ~1,092 |
 | Project Arena | 4.00% | ~873 |
 | The Old Grandmaster | 2.00% | ~14,251 |
 | The Assault | 2.00% | ~14,251 |
@@ -44,11 +44,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | Prodigal Child | 0.60% | ~4,275 |
 | The 36th Chamber of Kung-Fu | 0.60% | ~4,275 |
 | Sword Stained With Blood | 0.60% | ~4,275 |
+| Martial Hub | 0.50% | ~109 |
 | Drunken Fighter | 0.40% | ~2,850 |
 | Martial Artist | 0.40% | ~2,850 |
 | Knowledge Greed | 0.40% | ~2,850 |
 | The Pit Protector | 0.40% | ~2,850 |
-| Martial Hub | 0.40% | ~87 |
 | Secure, Protect, Leave | 0.40% | ~87 |
 | Healing Memory | 0.30% | ~2,138 |
 | Master of the Phoenix Eye Fist | 0.30% | ~2,138 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,425 |
 | Warriors from the Mountain | 0.10% | ~713 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 712,528 (Ranked 20)  
+Progressed: 712,530 (Ranked 20)  
 Completed: 12,863 (1.81%) (Ranked 95)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,7 +178,7 @@ Completed: 12,863 (1.81%) (Ranked 95)
 | 2023-08-16 | 712,473 | 12,860 |
 | 2023-08-17 | 712,495 | 12,861 |
 | 2023-08-18 | 712,513 | 12,863 |
-| 2023-08-19 | 712,528 | 12,863 |
+| 2023-08-19 | 712,530 | 12,863 |
 ## Awards
 Max (Great Boss Battles): 6,377  (Ranked 55)  
 Sum: 10,953 (Ranked 82)  

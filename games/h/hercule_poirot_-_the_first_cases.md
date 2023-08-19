@@ -10,12 +10,12 @@ Rating: 4.35 (Ranked 753)
 | Angeline Van den Bosch | 73.00% | ~301 |
 | Elizabeth Padget | 69.00% | ~284 |
 | Little Grey Cells | 68.00% | ~280 |
-| The Bracelet | 64.00% | ~264 |
+| The Bracelet | 65.00% | ~268 |
 | The Blackmail | 55.00% | ~227 |
 | Major Felix Hagen | 55.00% | ~227 |
+| Florette Duval | 54.00% | ~222 |
 | Order and Method | 53.00% | ~218 |
 | Fine-toothed Comb | 53.00% | ~218 |
-| Florette Duval | 53.00% | ~218 |
 | The Altercation | 50.00% | ~206 |
 | Truth from Within | 49.00% | ~202 |
 | The Major | 48.00% | ~198 |

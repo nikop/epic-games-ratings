@@ -6,15 +6,15 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~307,276 |
-| Jeef Skeejj | 44.00% | ~204,851 |
-| Careful planning | 39.00% | ~181,572 |
-| Second Coming | 33.00% | ~153,638 |
-| Jeef Skagg | 30.00% | ~139,671 |
-| Mother | 25.00% | ~116,392 |
+| The Shutdown | 66.00% | ~307,278 |
+| Jeef Skeejj | 44.00% | ~204,852 |
+| Careful planning | 39.00% | ~181,573 |
+| Second Coming | 33.00% | ~153,639 |
+| Jeef Skagg | 30.00% | ~139,672 |
+| Mother | 25.00% | ~116,393 |
 | In space, no one can hear you scream | 24.00% | ~111,737 |
-| Chapter I: Echoes | 22.00% | ~102,425 |
-| Excelsior Rule | 22.00% | ~102,425 |
+| Chapter I: Echoes | 22.00% | ~102,426 |
+| Excelsior Rule | 22.00% | ~102,426 |
 | Things persisted in not being what they seemed | 20.00% | ~93,114 |
 | Knightmare Frames | 15.00% | ~69,836 |
 | May His passing cleanse the world | 15.00% | ~69,836 |
@@ -45,10 +45,10 @@ Number of Ratings: 1,003  (23.09.2022)
 | The Smuggler | 6.00% | ~27,934 |
 | The Crazy Repairman | 6.00% | ~27,934 |
 | The Weasel | 6.00% | ~27,934 |
-| Kill the Doctor | 5.00% | ~23,278 |
-| Forsaken | 5.00% | ~23,278 |
-| Mercy | 5.00% | ~23,278 |
-| Jericho Rule | 5.00% | ~23,278 |
+| Kill the Doctor | 5.00% | ~23,279 |
+| Forsaken | 5.00% | ~23,279 |
+| Mercy | 5.00% | ~23,279 |
+| Jericho Rule | 5.00% | ~23,279 |
 | Geno Rule | 3.00% | ~13,967 |
 | Hammer Rule | 3.00% | ~13,967 |
 | Survivor | 2.00% | ~9,311 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~10 |
 | Kronos Rule | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 465,570 (Ranked 37)  
+Progressed: 465,572 (Ranked 37)  
 Completed: 17 (0.00%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,7 +207,7 @@ Completed: 17 (0.00%) (Ranked 260)
 | 2023-08-16 | 465,377 | 17 |
 | 2023-08-17 | 465,460 | 17 |
 | 2023-08-18 | 465,542 | 17 |
-| 2023-08-19 | 465,570 | 17 |
+| 2023-08-19 | 465,572 | 17 |
 ## Awards
 Max (Character Customization): 217  (Ranked 267)  
 Sum: 217 (Ranked 363)  

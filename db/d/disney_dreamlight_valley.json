@@ -3180,9 +3180,9 @@
       "Count": 492
     }
   ],
-  "EOS_Progressed": 8769,
+  "EOS_Progressed": 8770,
   "EOS_Completed": 199,
-  "EOS_NewPlayers": 245,
+  "EOS_NewPlayers": 246,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 2.27,
   "EosHistory": [
@@ -9980,6 +9980,11 @@
       "Time": "2023-08-19T10:04:10.0712931+00:00",
       "NumProgressed": 8769,
       "NumCompleted": 199
+    },
+    {
+      "Time": "2023-08-19T11:04:58.1393878+00:00",
+      "NumProgressed": 8770,
+      "NumCompleted": 199
     }
   ],
   "TotalAchievements": 15,
@@ -10007,7 +10012,7 @@
       "Name": "Bestest Friend",
       "Percentage": 48,
       "XP": 75,
-      "UsersEstimate": 4209
+      "UsersEstimate": 4210
     },
     {
       "ID": "Chef_Cook",
@@ -10063,7 +10068,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 71,
       "XP": 75,
-      "UsersEstimate": 6226
+      "UsersEstimate": 6227
     },
     {
       "ID": "Miner",
@@ -10103,14 +10108,14 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 5612
+      "UsersEstimate": 5613
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 8769,
+      "Progressed": 8770,
       "Completed": 199
     }
   ],
@@ -10118,8 +10123,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-08-18T17:59:51.6718753+00:00",
-  "LastChanged_Achievements": "2023-08-19T10:04:10.0712924+00:00",
+  "LastChanged_Achievements": "2023-08-19T11:04:58.1393871+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:11.7023574+00:00",
-  "LastUpdate_Ratings": "2023-08-19T09:59:25.1761343+00:00",
-  "LastUpdate_Achievements": "2023-08-19T10:04:10.0713476+00:00"
+  "LastUpdate_Ratings": "2023-08-19T11:00:23.9782499+00:00",
+  "LastUpdate_Achievements": "2023-08-19T11:04:58.1394776+00:00"
 }

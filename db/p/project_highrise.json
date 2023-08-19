@@ -1454,9 +1454,9 @@
       "ID": "ach_scenarios_2",
       "SetID": "b8gh1fi",
       "Name": "Scenario Success",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 7
     },
     {
       "ID": "ach_scenarios_3",
@@ -1494,9 +1494,9 @@
       "ID": "ach_util_cable",
       "SetID": "b8gh1fi",
       "Name": "Tuned In",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 20
     },
     {
       "ID": "ach_util_gas",
@@ -1559,8 +1559,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-08-19T10:04:43.5643885+00:00",
+  "LastChanged_Achievements": "2023-08-19T11:05:40.5356148+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:02.7017252+00:00",
-  "LastUpdate_Ratings": "2023-08-19T09:59:18.7005866+00:00",
-  "LastUpdate_Achievements": "2023-08-19T10:04:43.5645003+00:00"
+  "LastUpdate_Ratings": "2023-08-19T11:00:15.8293527+00:00",
+  "LastUpdate_Achievements": "2023-08-19T11:05:40.5357292+00:00"
 }

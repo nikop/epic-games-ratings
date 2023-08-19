@@ -21,6 +21,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Sparkdew Crystals | 3.00% | ~490 |
 | Haunted Forest | 3.00% | ~490 |
 | Levitating Monument | 3.00% | ~490 |
+| Flooded Mines | 3.00% | ~490 |
 | Monastery of the Holy Flame | 3.00% | ~490 |
 | Royal Outpost | 3.00% | ~490 |
 | Lost Colonies | 3.00% | ~490 |
@@ -36,7 +37,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Dangerous Lands | 2.00% | ~327 |
 | Fishmen Ritual Site | 2.00% | ~327 |
 | Forbidden Lands | 2.00% | ~327 |
-| Flooded Mines | 2.00% | ~327 |
 | Forsaken Gods Temple | 2.00% | ~327 |
 | Corrosive Torrent | 2.00% | ~327 |
 | Like a Machine | 2.00% | ~327 |
@@ -180,12 +180,12 @@ Completed: 45 (0.28%) (Ranked 173)
 | 2023-08-18 | 16,322 | 45 |
 | 2023-08-19 | 16,328 | 45 |
 ## Awards
-Max (Quickly Understood Controls): 423  (Ranked 208)  
-Sum: 3,111 (Ranked 161)  
+Max (Quickly Understood Controls): 424  (Ranked 208)  
+Sum: 3,112 (Ranked 161)  
 Diff (max vs sum): 47  
 | Award | Count |
 | ----- | ----- |
-| This game has Quickly Understood Controls | 423 |
+| This game has Quickly Understood Controls | 424 |
 | This game is Relaxing | 420 |
 | This game is Extremely Fun | 398 |
 | This game is Great for Beginners | 394 |
@@ -371,3 +371,4 @@ Diff (max vs sum): 47
 | 2023-08-15 | 4.81 | - | 423 | 3,105 |
 | 2023-08-16 | 4.81 | - | 423 | 3,106 |
 | 2023-08-18 | 4.81 | - | 423 | 3,111 |
+| 2023-08-19 | 4.81 | - | 424 | 3,112 |

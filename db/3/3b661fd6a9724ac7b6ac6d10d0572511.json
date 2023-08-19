@@ -3044,10 +3044,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 13236,
       "NumberOfAwardsMax": 6875
+    },
+    {
+      "Time": "2023-08-19T10:59:10.7222044+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 13242,
+      "NumberOfAwardsMax": 6875
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13236,
+  "NumberOfAwards": 13242,
   "NumberOfAwardsMax": 6875,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3103,7 +3109,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 584
+      "Count": 590
     },
     {
       "Text": "This game is Relaxing",
@@ -3118,9 +3124,9 @@
       "Count": 719
     }
   ],
-  "EOS_Progressed": 1585318,
+  "EOS_Progressed": 1585482,
   "EOS_Completed": 514,
-  "EOS_NewPlayers": 25186,
+  "EOS_NewPlayers": 25203,
   "EOS_NewCompleters": 33,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -11373,6 +11379,11 @@
       "Time": "2023-08-19T10:00:45.5456404+00:00",
       "NumProgressed": 1585318,
       "NumCompleted": 514
+    },
+    {
+      "Time": "2023-08-19T11:02:14.5228039+00:00",
+      "NumProgressed": 1585482,
+      "NumCompleted": 514
     }
   ],
   "TotalAchievements": 1328,
@@ -12584,7 +12595,7 @@
       "Name": "I Want to Get Away",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 9512
+      "UsersEstimate": 9513
     },
     {
       "ID": "brooklyn_2",
@@ -12808,7 +12819,7 @@
       "Name": "Virus",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6341
+      "UsersEstimate": 6342
     },
     {
       "ID": "cac_29",
@@ -16000,7 +16011,7 @@
       "Name": "Guilty of Crime",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6341
+      "UsersEstimate": 6342
     },
     {
       "ID": "halloween_1",
@@ -22007,22 +22018,22 @@
     {
       "ID": "61cefe3",
       "IsBase": true,
-      "Progressed": 1585318,
+      "Progressed": 1585482,
       "Completed": 514
     },
     {
       "ID": "bkjdbk8",
       "IsBase": false,
-      "Progressed": 1585318,
+      "Progressed": 1585482,
       "Completed": 22
     }
   ],
   "FirstSeen": "2023-06-08T18:57:07.8003815+00:00",
   "FirstSeenRating": "2023-06-09T03:57:04.3869033+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:50.4372379+00:00",
-  "LastChanged": "2023-08-19T08:02:20.8577002+00:00",
-  "LastChanged_Achievements": "2023-08-19T10:00:45.5456392+00:00",
+  "LastChanged": "2023-08-19T10:59:10.7222042+00:00",
+  "LastChanged_Achievements": "2023-08-19T11:02:14.5228032+00:00",
   "LastUpdate_AppInfo": "2023-08-17T20:57:10.4408604+00:00",
-  "LastUpdate_Ratings": "2023-08-19T09:58:23.5609431+00:00",
-  "LastUpdate_Achievements": "2023-08-19T10:00:45.5612068+00:00"
+  "LastUpdate_Ratings": "2023-08-19T10:59:10.722205+00:00",
+  "LastUpdate_Achievements": "2023-08-19T11:02:14.541776+00:00"
 }
