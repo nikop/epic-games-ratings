@@ -449,9 +449,9 @@
 | 427 | [Travellers Rest](games/t/travellers_rest.md) | 4.58 | 0 | 513 |
 | 427 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.58 | 0 | 513 |
 | 427 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 219 | 265 |
-| 427 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,448 | 25 |
+| 427 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,452 | 25 |
 | 451 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 0 | 513 |
-| 451 | [Among Us](games/a/among_us.md) | 4.57 | 2,618 | 97 |
+| 451 | [Among Us](games/a/among_us.md) | 4.57 | 2,622 | 97 |
 | 451 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.57 | 0 | 513 |
 | 451 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.57 | 46 | 410 |
 | 451 | [Aztez](games/a/aztez.md) | 4.57 | 0 | 513 |
@@ -531,7 +531,7 @@
 | 528 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 31,273 | 15 |
 | 528 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 21 | 501 |
 | 528 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.52 | 34 | 441 |
-| 528 | [Fall Guys](games/f/fall_guys.md) | 4.52 | 146,490 | 7 |
+| 528 | [Fall Guys](games/f/fall_guys.md) | 4.52 | 146,546 | 7 |
 | 528 | [For Honor Standard Edition](games/f/for_honor_standard_edition.md) | 4.52 | 0 | 513 |
 | 528 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 528 | 195 |
 | 528 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 102 | 335 |
@@ -768,7 +768,7 @@
 | 762 | [Encased](games/e/encased.md) | 4.34 | 140 | 306 |
 | 762 | [F1® Manager 2023](games/3/38b4b40752b142e5a503acbb241a8b3c.md) | 4.34 | 0 | 513 |
 | 762 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.34 | 0 | 513 |
-| 762 | [Paladins](games/p/paladins.md) | 4.34 | 3,526 | 84 |
+| 762 | [Paladins](games/p/paladins.md) | 4.34 | 3,531 | 84 |
 | 762 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 249 | 252 |
 | 762 | [Torchlight](games/t/torchlight.md) | 4.34 | 21 | 501 |
 | 762 | [War Mongrels](games/w/war_mongrels.md) | 4.34 | 0 | 513 |

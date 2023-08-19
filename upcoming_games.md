@@ -1,6 +1,7 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
 | [GO TO HELL or Die Trying](games/8/8dd803604799447fa19f637a05991e98.md) | 2023-08-21 | - |  | - | - |
+| [The Lost Glitches](games/f/fa193e6390404683a6002376f276bfed.md) | 2023-08-21 | - |  | - | - |
 | [The Red Exile: Survival Horror](games/0/092c025d036643c69367ff9da5a34bde.md) | 2023-08-21 | - |  | - | - |
 | [City Gridlock](games/d/df793be75b6b414498cb654d89be7f13.md) | 2023-08-21 | - |  | - | - |
 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 2023-08-22 | - |  | - | - |
@@ -400,7 +401,6 @@
 | [The Golden Eyed Ghosts](games/t/the_golden_eyed_ghosts.md) | 2099-01-01 | - |  | - | - |
 | [The Hive](games/3/3778010ababa48d387d44ee9fd61b517.md) | 2099-01-01 | - |  | - | - |
 | [The Last Three](games/b/b4c33404eb6f4c7c938efb3ca8f0c264.md) | 2099-01-01 | - |  | - | - |
-| [The Lost Glitches](games/f/fa193e6390404683a6002376f276bfed.md) | 2099-01-01 | - |  | - | - |
 | [The Machines Arena](games/t/the_machines_arena.md) | 2099-01-01 | - |  | 4.74 | 0 |
 | [The Most Awesome Game Ever Made](games/t/the_most_awesome_game_ever_made.md) | 2099-01-01 | - |  | - | - |
 | [The Precinct](games/2/2d1432c62a8c49ab80feaefa176a9671.md) | 2099-01-01 | - |  | - | - |

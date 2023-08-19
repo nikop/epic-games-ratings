@@ -6,7 +6,7 @@
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 213,811 | 4.68 | 238 |
 | 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 194,667 | 4.19 | 867 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 168,412 | 4.88 | 19 |
-| 7 | [Fall Guys](games/f/fall_guys.md) | 146,490 | 4.52 | 528 |
+| 7 | [Fall Guys](games/f/fall_guys.md) | 146,546 | 4.52 | 528 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 114,927 | 4.69 | 217 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 75,809 | 4.62 | 347 |
 | 10 | [VALORANT](games/v/valorant.md) | 65,353 | 4.53 | 514 |
@@ -24,7 +24,7 @@
 | 22 | [Warframe](games/w/warframe.md) | 16,528 | 4.61 | 365 |
 | 23 | [League of Legends](games/l/league_of_legends.md) | 15,429 | 4.21 | 851 |
 | 24 | [Borderlands 2](games/b/borderlands_2.md) | 15,090 | 4.76 | 118 |
-| 25 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,448 | 4.58 | 427 |
+| 25 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,452 | 4.58 | 427 |
 | 26 | [Maneater](games/m/maneater.md) | 13,629 | 4.49 | 577 |
 | 27 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,591 | 4.60 | 391 |
 | 28 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 13,260 | 4.60 | 391 |
@@ -83,7 +83,7 @@
 | 81 | [Days Gone](games/d/days_gone.md) | 3,914 | 4.68 | 238 |
 | 82 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,742 | 4.57 | 451 |
 | 83 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,730 | 4.28 | 806 |
-| 84 | [Paladins](games/p/paladins.md) | 3,526 | 4.34 | 762 |
+| 84 | [Paladins](games/p/paladins.md) | 3,531 | 4.34 | 762 |
 | 85 | [Gloomhaven](games/g/gloomhaven.md) | 3,501 | 4.47 | 610 |
 | 86 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 3,499 | 4.68 | 238 |
 | 87 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,498 | 4.46 | 621 |
@@ -96,7 +96,7 @@
 | 94 | [Trackmania](games/t/trackmania.md) | 3,153 | 4.67 | 258 |
 | 95 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 2,737 | 4.82 | 67 |
 | 96 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,660 | 4.51 | 543 |
-| 97 | [Among Us](games/a/among_us.md) | 2,618 | 4.57 | 451 |
+| 97 | [Among Us](games/a/among_us.md) | 2,622 | 4.57 | 451 |
 | 98 | [Path of Exile](games/p/path_of_exile.md) | 2,557 | 4.61 | 365 |
 | 99 | [RAGE 2](games/r/rage_2.md) | 2,524 | 4.27 | 814 |
 | 100 | [Gotham Knights](games/g/gotham_knights.md) | 2,507 | 4.18 | 873 |

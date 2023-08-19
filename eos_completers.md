@@ -86,8 +86,8 @@
 | 84 | [Lamentum](games/l/lamentum.md) | 2.53% |
 | 85 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.52% |
 | 86 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 87 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 2.37% |
-| 88 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.35% |
+| 87 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.35% |
+| 88 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 2.34% |
 | 89 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.26% |
 | 90 | [Bloodshore](games/b/bloodshore.md) | 2.21% |
 | 91 | [FORECLOSED](games/f/foreclosed.md) | 2.17% |
@@ -208,15 +208,15 @@
 | 204 | [Ring of Pain](games/r/ring_of_pain.md) | 0.11% |
 | 207 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.10% |
 | 207 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
+| 207 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.10% |
 | 207 | [House Flipper](games/h/house_flipper.md) | 0.10% |
 | 207 | [Shop Titans](games/s/shop_titans.md) | 0.10% |
 | 207 | [Supraland](games/s/supraland.md) | 0.10% |
-| 212 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
-| 212 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.09% |
-| 212 | [Outward Definitive Edition](games/o/outward.md) | 0.09% |
-| 212 | [Riverbond](games/r/riverbond.md) | 0.09% |
-| 212 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
-| 212 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
+| 213 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
+| 213 | [Outward Definitive Edition](games/o/outward.md) | 0.09% |
+| 213 | [Riverbond](games/r/riverbond.md) | 0.09% |
+| 213 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
+| 213 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
 | 218 | [Partisans 1941](games/p/partisans_1941.md) | 0.08% |
 | 219 | [Saints Row](games/s/saints_row.md) | 0.07% |
 | 219 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
