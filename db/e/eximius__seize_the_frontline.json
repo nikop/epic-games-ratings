@@ -300,9 +300,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 194931,
+  "EOS_Progressed": 194938,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 496,
+  "EOS_NewPlayers": 499,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13325,6 +13325,11 @@
       "Time": "2023-08-19T12:03:37.6685752+00:00",
       "NumProgressed": 194931,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-19T13:05:56.478788+00:00",
+      "NumProgressed": 194938,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -13336,7 +13341,7 @@
       "Name": "Battlesuit Victory",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 15594
+      "UsersEstimate": 15595
     },
     {
       "ID": "ACH_COMPLETE_TUTORIAL",
@@ -13344,7 +13349,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 138401
+      "UsersEstimate": 138406
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -13368,7 +13373,7 @@
       "Name": "Initiation",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 35088
+      "UsersEstimate": 35089
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -13463,7 +13468,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 194931,
+      "Progressed": 194938,
       "Completed": 4
     }
   ],
@@ -13471,8 +13476,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-08-12T15:01:47.6654015+00:00",
-  "LastChanged_Achievements": "2023-08-19T12:03:37.6685748+00:00",
+  "LastChanged_Achievements": "2023-08-19T13:05:56.4787873+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:27.2686844+00:00",
-  "LastUpdate_Ratings": "2023-08-19T11:57:14.2705205+00:00",
-  "LastUpdate_Achievements": "2023-08-19T12:03:37.6686684+00:00"
+  "LastUpdate_Ratings": "2023-08-19T12:58:51.3308798+00:00",
+  "LastUpdate_Achievements": "2023-08-19T13:05:56.4789507+00:00"
 }

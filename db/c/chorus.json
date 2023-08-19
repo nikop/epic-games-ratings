@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 472,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -1810,9 +1810,9 @@
       "ID": "MasteryOfRites",
       "SetID": "a6c395p",
       "Name": "Mastery of Rites",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 227
+      "UsersEstimate": 238
     },
     {
       "ID": "MasteryOfWeapons",
@@ -2082,8 +2082,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-08-19T10:57:32.3642226+00:00",
-  "LastChanged_Achievements": "2023-08-19T12:05:59.8606389+00:00",
+  "LastChanged_Achievements": "2023-08-19T13:08:16.1235987+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:41.1503098+00:00",
-  "LastUpdate_Ratings": "2023-08-19T11:57:24.5465667+00:00",
-  "LastUpdate_Achievements": "2023-08-19T12:05:59.8606816+00:00"
+  "LastUpdate_Ratings": "2023-08-19T12:59:04.4328467+00:00",
+  "LastUpdate_Achievements": "2023-08-19T13:08:16.123671+00:00"
 }

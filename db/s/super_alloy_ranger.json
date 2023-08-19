@@ -4,7 +4,7 @@
   "ProductSlug": "super-alloy-ranger-4252cc",
   "Ranking_EOS_Progress": 364,
   "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewPlayers": 348,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-04-30T16:00:00+00:00",
@@ -364,9 +364,9 @@
       "ID": "Achi_10",
       "SetID": "51a97k7",
       "Name": "Death Bringer Conqueror",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Achi_11",
@@ -388,9 +388,9 @@
       "ID": "Achi_13",
       "SetID": "51a97k7",
       "Name": "Grand Escape",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Achi_14",
@@ -420,9 +420,9 @@
       "ID": "Achi_17",
       "SetID": "51a97k7",
       "Name": "Space Warrior: Prologue",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Achi_18",
@@ -701,8 +701,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2023-08-19T12:05:58.8705538+00:00",
+  "LastChanged_Achievements": "2023-08-19T13:08:14.926653+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:18.0009608+00:00",
-  "LastUpdate_Ratings": "2023-08-19T11:57:41.5638203+00:00",
-  "LastUpdate_Achievements": "2023-08-19T12:05:58.8705973+00:00"
+  "LastUpdate_Ratings": "2023-08-19T12:59:25.7432136+00:00",
+  "LastUpdate_Achievements": "2023-08-19T13:08:14.9267338+00:00"
 }

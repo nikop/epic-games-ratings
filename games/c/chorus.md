@@ -39,8 +39,8 @@ Number of Ratings: 58  (23.09.2022)
 | Two Birds | 25.00% | ~284 |
 | Uneasy Alliance | 24.00% | ~272 |
 | Mastery of Combat | 21.00% | ~238 |
+| Mastery of Rites | 21.00% | ~238 |
 | Retaliate | 21.00% | ~238 |
-| Mastery of Rites | 20.00% | ~227 |
 | Power Chord | 20.00% | ~227 |
 | Crash Test | 20.00% | ~227 |
 | Ascension | 19.00% | ~216 |

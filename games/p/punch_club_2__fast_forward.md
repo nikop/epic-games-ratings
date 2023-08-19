@@ -6,15 +6,15 @@
 | ---- | ---------- | ----- |
 | Such a strange dream… | 87.00% | ~224 |
 | Your first fight | 85.00% | ~219 |
+| First winning | 84.00% | ~217 |
 | Good Person Chip | 84.00% | ~217 |
-| First winning | 83.00% | ~214 |
 | Your first job | 83.00% | ~214 |
 | Old movies enjoyer | 79.00% | ~204 |
 | Fitness professional | 77.00% | ~199 |
 | Depressed visitor | 77.00% | ~199 |
+| First defeat | 76.00% | ~196 |
 | Neurotrainer – power gainer! | 76.00% | ~196 |
 | Employee of the week | 76.00% | ~196 |
-| First defeat | 75.00% | ~194 |
 | Your own amateur gym | 74.00% | ~191 |
 | Run K, run! | 73.00% | ~188 |
 | Fighting is cool | 69.00% | ~178 |
@@ -25,9 +25,9 @@
 | Spirit of the past | 64.00% | ~165 |
 | Law student | 62.00% | ~160 |
 | Workout professional | 61.00% | ~157 |
+| Own four walls | 61.00% | ~157 |
 | Champion – starter pack | 60.00% | ~155 |
 | It's good to be alive | 60.00% | ~155 |
-| Own four walls | 60.00% | ~155 |
 | Fight for life | 59.00% | ~152 |
 | Little hacker | 59.00% | ~152 |
 | Handyman | 59.00% | ~152 |

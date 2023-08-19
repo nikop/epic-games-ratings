@@ -17,8 +17,8 @@
 | The Hidden Secret | 17.00% | ~9 |
 | Mr. Want It All | 17.00% | ~9 |
 | Phew! | 15.00% | ~8 |
-| Grand Escape | 11.00% | ~6 |
-| Space Warrior: Prologue | 11.00% | ~6 |
+| Grand Escape | 13.00% | ~7 |
+| Space Warrior: Prologue | 13.00% | ~7 |
 | The Abyss Conqueror | 9.00% | ~5 |
 | Keep it Up, rookie! | 9.00% | ~5 |
 | Decapitation Strike | 9.00% | ~5 |
@@ -30,12 +30,12 @@
 | The Paradox Coordinate Conqueror | 6.00% | ~3 |
 | The Zero Dimensional Capital Conqueror | 6.00% | ~3 |
 | The Inactivated Frozen Conqueror | 6.00% | ~3 |
+| Death Bringer Conqueror | 6.00% | ~3 |
 | he Ultra Fortress Conqueror | 6.00% | ~3 |
 | Rapidfire | 6.00% | ~3 |
 | Air Interception | 6.00% | ~3 |
 | Hell of a Fight | 6.00% | ~3 |
 | The Sunken City Conqueror | 4.00% | ~2 |
-| Death Bringer Conqueror | 4.00% | ~2 |
 | The Looping Space Conqueror | 4.00% | ~2 |
 | Break Through the Forbidden | 4.00% | ~2 |
 | Space Ranger: Prologue | 4.00% | ~2 |

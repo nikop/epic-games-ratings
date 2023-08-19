@@ -29,6 +29,7 @@ Number of Ratings: 371  (23.09.2022)
 | Daemonkeeper | 0.50% | ~16 |
 | Efficient Killer | 0.50% | ~16 |
 | Only in Death | 0.50% | ~16 |
+| A Gift Spurned | 0.50% | ~16 |
 | Long Distance Call | 0.50% | ~16 |
 | Tactical Sabotage | 0.50% | ~16 |
 | Patron of Deimos | 0.40% | ~13 |
@@ -36,7 +37,6 @@ Number of Ratings: 371  (23.09.2022)
 | Mind Like a Fortress | 0.40% | ~13 |
 | Preservationist | 0.40% | ~13 |
 | Junk Banishment | 0.40% | ~13 |
-| A Gift Spurned | 0.40% | ~13 |
 | Tactical Flexibility | 0.40% | ~13 |
 | For the Machine God | 0.30% | ~9 |
 | Strike Force | 0.30% | ~9 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Not a Mote of Corruption | 0.00% | ~0 |
 | Strategic Command | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,156 (Ranked 156)  
+Progressed: 3,157 (Ranked 156)  
 Completed: 0 (0.00%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,6 +190,7 @@ Completed: 0 (0.00%) (Ranked 260)
 | 2023-08-16 | 3,154 | 0 |
 | 2023-08-17 | 3,155 | 0 |
 | 2023-08-18 | 3,156 | 0 |
+| 2023-08-19 | 3,157 | 0 |
 ## Awards
 Max (Character Customization): 219  (Ranked 265)  
 Sum: 469 (Ranked 306)  

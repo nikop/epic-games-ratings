@@ -2202,9 +2202,9 @@
       "ID": "ACH_Appuntamento",
       "SetID": "7a9m7mj",
       "Name": "Cutepie",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 571
+      "UsersEstimate": 585
     },
     {
       "ID": "ACH_BloccatoInGhiacciaia",
@@ -2298,8 +2298,8 @@
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-08-04T14:01:27.152223+00:00",
-  "LastChanged_Achievements": "2023-08-19T12:03:12.1921071+00:00",
+  "LastChanged_Achievements": "2023-08-19T13:05:23.7638882+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:43.5353424+00:00",
-  "LastUpdate_Ratings": "2023-08-19T11:57:26.7580122+00:00",
-  "LastUpdate_Achievements": "2023-08-19T12:03:12.1921557+00:00"
+  "LastUpdate_Ratings": "2023-08-19T12:59:07.0964797+00:00",
+  "LastUpdate_Achievements": "2023-08-19T13:05:23.763925+00:00"
 }

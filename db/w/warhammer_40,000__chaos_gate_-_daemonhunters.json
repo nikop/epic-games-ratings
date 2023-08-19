@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 306,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -696,9 +696,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3156,
+  "EOS_Progressed": 3157,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3111,6 +3111,11 @@
       "Time": "2023-08-18T17:07:06.6958141+00:00",
       "NumProgressed": 3156,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-19T13:08:15.2322582+00:00",
+      "NumProgressed": 3157,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -3544,9 +3549,9 @@
       "ID": "ReaperDefeated_Poxus",
       "SetID": "3jha1np",
       "Name": "A Gift Spurned",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 16
     },
     {
       "ID": "ReaperDefeated_Tentarus",
@@ -3665,21 +3670,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3156,
+      "Progressed": 3157,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3156,
+      "Progressed": 3157,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-08-15T20:00:46.6433757+00:00",
-  "LastChanged_Achievements": "2023-08-19T12:05:59.0316384+00:00",
+  "LastChanged_Achievements": "2023-08-19T13:08:15.2322576+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:07.2457107+00:00",
-  "LastUpdate_Ratings": "2023-08-19T12:00:20.0628019+00:00",
-  "LastUpdate_Achievements": "2023-08-19T12:05:59.0317227+00:00"
+  "LastUpdate_Ratings": "2023-08-19T13:02:42.9586667+00:00",
+  "LastUpdate_Achievements": "2023-08-19T13:08:15.2324229+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "abdc79e549e949708213288d680727a6",
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
-  "Ranking_EOS_Progress": 366,
-  "Ranking_EOS_Completed": 34,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_Progress": 365,
+  "Ranking_EOS_Completed": 35,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -17,11 +17,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 52,
+  "EOS_Progressed": 53,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.69,
+  "EOS_Completed_Percentage": 7.55,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -292,6 +292,11 @@
       "Time": "2023-08-17T18:06:28.5142674+00:00",
       "NumProgressed": 52,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-19T13:08:26.0852192+00:00",
+      "NumProgressed": 53,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 25,
@@ -309,7 +314,7 @@
       "ID": "END_GOOD",
       "SetID": "2gma9an",
       "Name": "In this together",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 200,
       "UsersEstimate": 6
     },
@@ -317,7 +322,7 @@
       "ID": "META_ALL_LINK",
       "SetID": "2gma9an",
       "Name": "Peace walker",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 100,
       "UsersEstimate": 5
     },
@@ -341,7 +346,7 @@
       "ID": "META_HALF_LINK",
       "SetID": "2gma9an",
       "Name": "Half the way",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 50,
       "UsersEstimate": 5
     },
@@ -349,7 +354,7 @@
       "ID": "META_RESULT_1-2",
       "SetID": "2gma9an",
       "Name": "Open door",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -502,13 +507,13 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 52,
+      "Progressed": 53,
       "Completed": 4
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-08-19T12:06:07.8101359+00:00",
+  "LastChanged_Achievements": "2023-08-19T13:08:26.0852187+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:34.6386277+00:00",
-  "LastUpdate_Ratings": "2023-08-19T12:00:40.5327532+00:00",
-  "LastUpdate_Achievements": "2023-08-19T12:06:07.8101562+00:00"
+  "LastUpdate_Ratings": "2023-08-19T13:03:10.1843632+00:00",
+  "LastUpdate_Achievements": "2023-08-19T13:08:26.0852407+00:00"
 }

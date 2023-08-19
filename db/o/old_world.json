@@ -1537,10 +1537,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 1793,
       "NumberOfAwardsMax": 220
+    },
+    {
+      "Time": "2023-08-19T13:01:48.8262224+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1795,
+      "NumberOfAwardsMax": 220
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1793,
+  "NumberOfAwards": 1795,
   "NumberOfAwardsMax": 220,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -1554,7 +1560,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 206
+      "Count": 207
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1596,7 +1602,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 182
+      "Count": 183
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1619,7 +1625,7 @@
   ],
   "EOS_Progressed": 13468,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -11936,9 +11942,9 @@
       "ID": "ACHIEVEMENT_UNIT_CATAPHRACT_ARCHER",
       "SetID": "9201eeb",
       "Name": "Cataphract Archer",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 54
     },
     {
       "ID": "ACHIEVEMENT_UNIT_CIMMERIAN_ARCHER",
@@ -12277,9 +12283,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
-  "LastChanged": "2023-08-19T07:00:05.6027568+00:00",
-  "LastChanged_Achievements": "2023-08-19T12:05:26.7851645+00:00",
+  "LastChanged": "2023-08-19T13:01:48.8262222+00:00",
+  "LastChanged_Achievements": "2023-08-19T13:07:34.4528052+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:59.678182+00:00",
-  "LastUpdate_Ratings": "2023-08-19T11:59:39.2072819+00:00",
-  "LastUpdate_Achievements": "2023-08-19T12:05:26.7861629+00:00"
+  "LastUpdate_Ratings": "2023-08-19T13:01:48.826223+00:00",
+  "LastUpdate_Achievements": "2023-08-19T13:07:34.4539466+00:00"
 }
