@@ -3,10 +3,10 @@
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 51.35% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.42% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 40.00% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 39.22% |
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
 | 6 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
-| 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 26.53% |
+| 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 26.00% |
 | 8 | [Overloop](games/o/overloop.md) | 25.00% |
 | 9 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 10 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 22.90% |
@@ -45,7 +45,7 @@
 | 43 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 44 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 45 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.98% |
-| 46 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 5.68% |
+| 46 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 5.49% |
 | 47 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.45% |
 | 48 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.36% |
 | 48 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.36% |
@@ -121,10 +121,10 @@
 | 118 | [Sable](games/s/sable.md) | 0.98% |
 | 120 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.96% |
 | 121 | [Hades](games/h/hades.md) | 0.90% |
-| 122 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 0.85% |
 | 122 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
-| 124 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
-| 125 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.80% |
+| 123 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
+| 124 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.80% |
+| 125 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 0.79% |
 | 126 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.75% |
 | 127 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.74% |
 | 128 | [Lemon Cake](games/l/lemon_cake.md) | 0.72% |
