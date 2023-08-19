@@ -3,12 +3,12 @@
   "Name": "Galactic Civilizations IV: Supernova",
   "ProductSlug": "galactic-civilizations-iv-supernova",
   "Ranking_Rating": 636,
-  "Ranking_Popularity": 512,
-  "Ranking_PopularitySum": 512,
+  "Ranking_Popularity": 513,
+  "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-04-27T14:45:00+00:00",
     "PcReleaseDate": "2023-04-27T14:45:00+00:00",
@@ -4716,8 +4716,8 @@
   "FirstSeenRating": "2023-04-27T21:57:06.0421025+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.6199843+00:00",
   "LastChanged": "2023-08-19T06:59:11.7173961+00:00",
-  "LastChanged_Achievements": "2023-08-19T18:05:22.2875196+00:00",
+  "LastChanged_Achievements": "2023-08-19T19:06:08.0107955+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:41.9223283+00:00",
-  "LastUpdate_Ratings": "2023-08-19T17:58:41.7727234+00:00",
-  "LastUpdate_Achievements": "2023-08-19T18:05:22.2876247+00:00"
+  "LastUpdate_Ratings": "2023-08-19T18:59:02.2627038+00:00",
+  "LastUpdate_Achievements": "2023-08-19T19:06:08.0108974+00:00"
 }

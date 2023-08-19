@@ -3,12 +3,12 @@
   "Name": "Tchia",
   "ProductSlug": "tchia",
   "Ranking_Rating": 118,
-  "Ranking_Popularity": 512,
-  "Ranking_PopularitySum": 512,
+  "Ranking_Popularity": 513,
+  "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 153,
   "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -212,9 +212,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7180,
+  "EOS_Progressed": 7184,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 227,
+  "EOS_NewPlayers": 231,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -5987,6 +5987,11 @@
       "Time": "2023-08-19T18:05:29.4482146+00:00",
       "NumProgressed": 7180,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-08-19T19:06:16.8741027+00:00",
+      "NumProgressed": 7184,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 21,
@@ -5998,7 +6003,7 @@
       "Name": "Ahem Ahem",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 646
+      "UsersEstimate": 647
     },
     {
       "ID": "ARRR",
@@ -6054,7 +6059,7 @@
       "Name": "Fashion Faux-Pas",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "FASHION_VICTIM",
@@ -6062,7 +6067,7 @@
       "Name": "Fashion Victim",
       "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "GLOBE_TROTTER",
@@ -6102,7 +6107,7 @@
       "Name": "In a Pinch",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1508
+      "UsersEstimate": 1509
     },
     {
       "ID": "LIBERATOR",
@@ -6150,7 +6155,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 933
+      "UsersEstimate": 934
     },
     {
       "ID": "THING",
@@ -6165,7 +6170,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7180,
+      "Progressed": 7184,
       "Completed": 32
     }
   ],
@@ -6173,8 +6178,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-08-07T01:56:04.2387619+00:00",
-  "LastChanged_Achievements": "2023-08-19T18:05:29.4482142+00:00",
+  "LastChanged_Achievements": "2023-08-19T19:06:16.8741022+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:55.8261903+00:00",
-  "LastUpdate_Ratings": "2023-08-19T17:59:20.5745819+00:00",
-  "LastUpdate_Achievements": "2023-08-19T18:05:29.4482673+00:00"
+  "LastUpdate_Ratings": "2023-08-19T19:00:01.3140273+00:00",
+  "LastUpdate_Achievements": "2023-08-19T19:06:16.8741551+00:00"
 }

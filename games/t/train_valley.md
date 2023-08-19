@@ -28,8 +28,8 @@ Number of Ratings: 28  (23.09.2022)
 | Sabotage | 17.00% | ~75 |
 | America | 16.00% | ~70 |
 | Woodcutter | 11.00% | ~48 |
+| Achtung! | 11.00% | ~48 |
 | Engineer | 10.00% | ~44 |
-| Achtung! | 10.00% | ~44 |
 | Japan | 9.00% | ~40 |
 | Tycoon | 8.00% | ~35 |
 | Germany | 6.00% | ~26 |

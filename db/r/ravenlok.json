@@ -4,8 +4,8 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 35,
-  "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
     "PcReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1076,
+  "EOS_Progressed": 1077,
   "EOS_Completed": 81,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 7.53,
+  "EOS_Completed_Percentage": 7.52,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:45:40.9336133+00:00",
@@ -2807,6 +2807,11 @@
       "Time": "2023-08-16T23:02:02.618529+00:00",
       "NumProgressed": 1076,
       "NumCompleted": 81
+    },
+    {
+      "Time": "2023-08-19T19:02:30.2384242+00:00",
+      "NumProgressed": 1077,
+      "NumCompleted": 81
     }
   ],
   "TotalAchievements": 50,
@@ -2818,7 +2823,7 @@
       "Name": "Once Upon a Time",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 1033
+      "UsersEstimate": 1034
     },
     {
       "ID": "10",
@@ -2834,7 +2839,7 @@
       "Name": "Nightmare Fuel",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "12",
@@ -2856,9 +2861,9 @@
       "ID": "14",
       "SetID": "d0g98p",
       "Name": "Bird of Prey",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 398
+      "UsersEstimate": 388
     },
     {
       "ID": "15",
@@ -2906,7 +2911,7 @@
       "Name": "Waff!",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 1022
+      "UsersEstimate": 1023
     },
     {
       "ID": "20",
@@ -2914,7 +2919,7 @@
       "Name": "Stardust",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "21",
@@ -2922,7 +2927,7 @@
       "Name": "Take Heart",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "22",
@@ -2930,7 +2935,7 @@
       "Name": "Heartbreaker",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "23",
@@ -2946,7 +2951,7 @@
       "Name": "Kidnapped!",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "25",
@@ -2978,7 +2983,7 @@
       "Name": "Sword, Shield, Fight!",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 818
+      "UsersEstimate": 819
     },
     {
       "ID": "29",
@@ -2994,7 +2999,7 @@
       "Name": "Vibing",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "30",
@@ -3016,9 +3021,9 @@
       "ID": "32",
       "SetID": "d0g98p",
       "Name": "The Guardian",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 441
+      "UsersEstimate": 431
     },
     {
       "ID": "33",
@@ -3042,7 +3047,7 @@
       "Name": "Teacups for Toppy",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "36",
@@ -3058,7 +3063,7 @@
       "Name": "Stronger!",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "38",
@@ -3090,7 +3095,7 @@
       "Name": "Mirror, Mirror",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "41",
@@ -3138,7 +3143,7 @@
       "Name": "Flower Power",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "47",
@@ -3146,7 +3151,7 @@
       "Name": "Crowned",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "48",
@@ -3154,7 +3159,7 @@
       "Name": "Into the Barn",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 936
+      "UsersEstimate": 937
     },
     {
       "ID": "49",
@@ -3170,7 +3175,7 @@
       "Name": "Well Rested",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "50",
@@ -3194,7 +3199,7 @@
       "Name": "Fun Guy",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 678
+      "UsersEstimate": 679
     },
     {
       "ID": "8",
@@ -3202,7 +3207,7 @@
       "Name": "Tragic Brave",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "9",
@@ -3210,14 +3215,14 @@
       "Name": "Curtain Call",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     }
   ],
   "AchievementSets": [
     {
       "ID": "d0g98p",
       "IsBase": true,
-      "Progressed": 1076,
+      "Progressed": 1077,
       "Completed": 81
     }
   ],
@@ -3225,8 +3230,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-08-19T18:02:08.9155859+00:00",
+  "LastChanged_Achievements": "2023-08-19T19:02:30.2384233+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:54.1849843+00:00",
-  "LastUpdate_Ratings": "2023-08-19T17:58:52.4958541+00:00",
-  "LastUpdate_Achievements": "2023-08-19T18:02:08.9156494+00:00"
+  "LastUpdate_Ratings": "2023-08-19T18:59:17.4742429+00:00",
+  "LastUpdate_Achievements": "2023-08-19T19:02:30.2384948+00:00"
 }

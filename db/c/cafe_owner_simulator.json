@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-04-12T13:00:00+00:00",
     "PcReleaseDate": "2022-12-05T12:00:00+00:00",
@@ -2899,9 +2899,9 @@
       "ID": "INTRODUCTION",
       "SetID": "64e5lgf",
       "Name": "INTRODUCTION",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 132
     },
     {
       "ID": "SECOND_FLOOR",
@@ -2948,8 +2948,8 @@
   "FirstSeenRating": "2023-04-13T01:55:49.9064105+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.5408639+00:00",
   "LastChanged": "2023-04-13T01:55:49.9064106+00:00",
-  "LastChanged_Achievements": "2023-08-19T18:06:46.4608462+00:00",
+  "LastChanged_Achievements": "2023-08-19T19:07:51.251353+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:09.6834321+00:00",
-  "LastUpdate_Ratings": "2023-08-19T17:57:07.2477466+00:00",
-  "LastUpdate_Achievements": "2023-08-19T18:06:46.4608752+00:00"
+  "LastUpdate_Ratings": "2023-08-19T18:57:01.945825+00:00",
+  "LastUpdate_Achievements": "2023-08-19T19:07:51.2513827+00:00"
 }

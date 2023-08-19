@@ -3,12 +3,12 @@
   "Name": "Alan Wake Remastered",
   "ProductSlug": "alan-wake-remastered",
   "Ranking_Rating": 486,
-  "Ranking_Popularity": 512,
-  "Ranking_PopularitySum": 512,
+  "Ranking_Popularity": 513,
+  "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 61130,
+  "EOS_Progressed": 61134,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 394,
+  "EOS_NewPlayers": 396,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11752,6 +11752,11 @@
       "Time": "2023-08-19T18:05:41.8130271+00:00",
       "NumProgressed": 61130,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-19T19:06:31.9934528+00:00",
+      "NumProgressed": 61134,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -11763,7 +11768,7 @@
       "Name": "Follow the Light",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 22618
+      "UsersEstimate": 22620
     },
     {
       "ID": "02",
@@ -11771,7 +11776,7 @@
       "Name": "Nordic Walking",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 14060
+      "UsersEstimate": 14061
     },
     {
       "ID": "03",
@@ -11779,7 +11784,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 14060
+      "UsersEstimate": 14061
     },
     {
       "ID": "04",
@@ -11795,7 +11800,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 12226
+      "UsersEstimate": 12227
     },
     {
       "ID": "06",
@@ -11843,7 +11848,7 @@
       "Name": "Children of the Elder God",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3056
+      "UsersEstimate": 3057
     },
     {
       "ID": "12",
@@ -11851,7 +11856,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6724
+      "UsersEstimate": 6725
     },
     {
       "ID": "13",
@@ -11859,7 +11864,7 @@
       "Name": "Drink \u0027Em Both Up",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3056
+      "UsersEstimate": 3057
     },
     {
       "ID": "14",
@@ -11947,7 +11952,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6724
+      "UsersEstimate": 6725
     },
     {
       "ID": "25",
@@ -11955,7 +11960,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4890
+      "UsersEstimate": 4891
     },
     {
       "ID": "26",
@@ -11963,7 +11968,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6724
+      "UsersEstimate": 6725
     },
     {
       "ID": "27",
@@ -11987,7 +11992,7 @@
       "Name": "Sound and Fury",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 8558
+      "UsersEstimate": 8559
     },
     {
       "ID": "30",
@@ -12011,7 +12016,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 17728
+      "UsersEstimate": 17729
     },
     {
       "ID": "33",
@@ -12019,7 +12024,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 8558
+      "UsersEstimate": 8559
     },
     {
       "ID": "34",
@@ -12035,7 +12040,7 @@
       "Name": "Let There Be Light",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 18339
+      "UsersEstimate": 18340
     },
     {
       "ID": "36",
@@ -12099,7 +12104,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 10392
+      "UsersEstimate": 10393
     },
     {
       "ID": "44",
@@ -12123,7 +12128,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 8558
+      "UsersEstimate": 8559
     },
     {
       "ID": "47",
@@ -12298,21 +12303,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 61130,
+      "Progressed": 61134,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 24598,
+      "Progressed": 24602,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-19T18:05:41.8130266+00:00",
+  "LastChanged_Achievements": "2023-08-19T19:06:31.9934523+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:35.5614422+00:00",
-  "LastUpdate_Ratings": "2023-08-19T17:59:08.8481098+00:00",
-  "LastUpdate_Achievements": "2023-08-19T18:05:41.8131686+00:00"
+  "LastUpdate_Ratings": "2023-08-19T18:59:40.3345295+00:00",
+  "LastUpdate_Achievements": "2023-08-19T19:06:31.9936074+00:00"
 }

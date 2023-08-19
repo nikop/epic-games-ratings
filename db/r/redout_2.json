@@ -3,12 +3,12 @@
   "Name": "Redout 2",
   "ProductSlug": "redout-2",
   "Ranking_Rating": 592,
-  "Ranking_Popularity": 512,
-  "Ranking_PopularitySum": 512,
+  "Ranking_Popularity": 513,
+  "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 235,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1107,
+  "EOS_Progressed": 1108,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -810,6 +810,11 @@
       "Time": "2023-08-19T01:41:43.4231322+00:00",
       "NumProgressed": 1107,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-19T19:06:07.8069037+00:00",
+      "NumProgressed": 1108,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -1101,7 +1106,7 @@
       "Name": "First step into a larger world",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "LOSEONEONLINE",
@@ -1173,7 +1178,7 @@
       "Name": "A Cheese Grater to the Face",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "TENPLATINUM",
@@ -1236,7 +1241,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1107,
+      "Progressed": 1108,
       "Completed": 0
     }
   ],
@@ -1244,8 +1249,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-07-10T22:58:27.6839393+00:00",
-  "LastChanged_Achievements": "2023-08-19T18:05:22.1311361+00:00",
+  "LastChanged_Achievements": "2023-08-19T19:06:07.8069032+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:25.0884142+00:00",
-  "LastUpdate_Ratings": "2023-08-19T17:57:46.6554423+00:00",
-  "LastUpdate_Achievements": "2023-08-19T18:05:22.1311867+00:00"
+  "LastUpdate_Ratings": "2023-08-19T18:57:52.5439106+00:00",
+  "LastUpdate_Achievements": "2023-08-19T19:06:07.8069589+00:00"
 }

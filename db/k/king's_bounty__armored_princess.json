@@ -3,12 +3,12 @@
   "Name": "King\u0027s Bounty: Armored Princess",
   "ProductSlug": "kings-bounty-armored-princess-2fbc57",
   "Ranking_Rating": 61,
-  "Ranking_Popularity": 512,
-  "Ranking_PopularitySum": 512,
+  "Ranking_Popularity": 513,
+  "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 548,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 351,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-03-08T00:00:00+00:00",
     "PcReleaseDate": "2009-11-19T00:00:00+00:00",
@@ -80,6 +80,6 @@
   "FirstSeenRating": "2022-09-15T21:32:29.6730065+00:00",
   "LastChanged": "2023-05-30T04:59:28.6461171+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:52.4686121+00:00",
-  "LastUpdate_Ratings": "2023-08-19T18:00:40.7380911+00:00",
-  "LastUpdate_Achievements": "2023-08-19T18:03:40.5257514+00:00"
+  "LastUpdate_Ratings": "2023-08-19T19:01:35.2571577+00:00",
+  "LastUpdate_Achievements": "2023-08-19T19:04:15.1206348+00:00"
 }

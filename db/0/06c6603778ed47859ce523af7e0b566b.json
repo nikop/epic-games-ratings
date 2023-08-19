@@ -4,8 +4,8 @@
   "ProductSlug": "skye-tales-02bf5b",
   "Ranking_EOS_Progress": 458,
   "Ranking_EOS_Completed": 19,
-  "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-08-16T23:00:00+00:00",
     "PcReleaseDate": "2023-08-16T23:00:00+00:00",
@@ -120,9 +120,9 @@
       "ID": "Buckets and Bouquets",
       "SetID": "dene75h",
       "Name": "Buckets and Bouquets",
-      "Percentage": 29,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Concerted Effort",
@@ -184,17 +184,17 @@
       "ID": "Fruit Salad",
       "SetID": "dene75h",
       "Name": "Fruit Salad",
-      "Percentage": 43,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Grand Circus",
       "SetID": "dene75h",
       "Name": "Grand Circus",
-      "Percentage": 29,
+      "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Gummed Up",
@@ -224,17 +224,17 @@
       "ID": "Hoppy Lil\u0027 Guys",
       "SetID": "dene75h",
       "Name": "Hoppy Lil\u0027 Guys",
-      "Percentage": 29,
+      "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Light It Up!",
       "SetID": "dene75h",
       "Name": "Light It Up!",
-      "Percentage": 14,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Light Work",
@@ -398,8 +398,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-21T10:01:39.9967766+00:00",
-  "LastChanged_Achievements": "2023-08-19T18:02:22.9830327+00:00",
+  "LastChanged_Achievements": "2023-08-19T19:03:16.6819406+00:00",
   "LastUpdate_AppInfo": "2023-08-18T13:00:08.0871715+00:00",
-  "LastUpdate_Ratings": "2023-08-19T17:58:15.5011551+00:00",
-  "LastUpdate_Achievements": "2023-08-19T18:02:22.9830648+00:00"
+  "LastUpdate_Ratings": "2023-08-19T18:58:26.9279772+00:00",
+  "LastUpdate_Achievements": "2023-08-19T19:03:16.6819758+00:00"
 }

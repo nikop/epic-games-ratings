@@ -101,6 +101,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hagia Sophia | 0.60% | ~81 |
 | Church of the Holy Sepulchre | 0.60% | ~81 |
 | Learn to Play 3 | 0.60% | ~81 |
+| Assyrian Paganism | 0.60% | ~81 |
 | Dualism | 0.60% | ~81 |
 | Redemption | 0.60% | ~81 |
 | Cimmerian Archer | 0.60% | ~81 |
@@ -117,7 +118,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Adur Burzen-Mihr | 0.50% | ~67 |
 | Babylonia | 0.50% | ~67 |
 | Carthage | 0.50% | ~67 |
-| Assyrian Paganism | 0.50% | ~67 |
 | Industrial Progress | 0.50% | ~67 |
 | Military Prestige | 0.50% | ~67 |
 | Enlightenment | 0.50% | ~67 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,481 (Ranked 118)  
+Progressed: 13,483 (Ranked 118)  
 Completed: 5 (0.04%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -424,7 +424,7 @@ Completed: 5 (0.04%) (Ranked 231)
 | 2023-08-16 | 13,432 | 5 |
 | 2023-08-17 | 13,444 | 5 |
 | 2023-08-18 | 13,460 | 5 |
-| 2023-08-19 | 13,481 | 5 |
+| 2023-08-19 | 13,483 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,795 (Ranked 206)  

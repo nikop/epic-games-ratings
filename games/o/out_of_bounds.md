@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Compiling (15)... | 43.00% | ~13 |
+| Compiling (15)... | 47.00% | ~14 |
 | Noisy saturation | 43.00% | ~13 |
+| Errors found you | 43.00% | ~13 |
 | Almost there! | 43.00% | ~13 |
 | EnergyBackup >= 15 | 40.00% | ~12 |
-| Errors found you | 40.00% | ~12 |
+| SoundsFun = 15; | 40.00% | ~12 |
+| 64 bugs fixed | 37.00% | ~11 |
 | No AI, only humans | 37.00% | ~11 |
 | Gamedev level 15 | 37.00% | ~11 |
 | Package ready! | 37.00% | ~11 |
-| SoundsFun = 15; | 37.00% | ~11 |
-| 64 bugs fixed | 33.00% | ~10 |
 | The dev life | 33.00% | ~10 |
 | Pro-dev | 27.00% | ~8 |
 | 128 bugs fixed | 27.00% | ~8 |
@@ -30,9 +30,9 @@
 | SoundsFun = 45; | 20.00% | ~6 |
 | 192 bugs fixed | 17.00% | ~5 |
 | Guru-dev | 17.00% | ~5 |
+| Going under... | 17.00% | ~5 |
 | What am I doing?! | 17.00% | ~5 |
 | EnergyBackup >= 45 | 17.00% | ~5 |
-| Going under... | 13.00% | ~4 |
 | Gamedev level 45 | 13.00% | ~4 |
 | Damn, I'm GOOD! | 10.00% | ~3 |
 | Just in time! | 10.00% | ~3 |

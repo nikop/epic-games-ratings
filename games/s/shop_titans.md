@@ -21,19 +21,20 @@ Number of Ratings: 12,664  (23.09.2022)
 | Own the Means of Production | 0.60% | ~809 |
 | The Daily Grind | 0.50% | ~674 |
 | Bounty Hunters | 0.50% | ~674 |
+| Flooding the Market | 0.50% | ~674 |
 | One-Armed Bandit | 0.50% | ~674 |
 | Dungeon Imports | 0.50% | ~674 |
 | Through Repetition, Perfection | 0.50% | ~674 |
+| On the Path to Greatness | 0.40% | ~539 |
 | Ascended | 0.40% | ~539 |
 | Blank Page Syndrome | 0.40% | ~539 |
 | Demand for Supplies | 0.40% | ~539 |
-| Flooding the Market | 0.40% | ~539 |
 | Where it Hurts | 0.40% | ~539 |
 | Gild-Gotten Goods | 0.40% | ~539 |
 | Accomplished Merchant | 0.40% | ~539 |
 | Did we pack lunch? | 0.40% | ~539 |
 | Arcane Industries | 0.40% | ~539 |
-| On the Path to Greatness | 0.30% | ~404 |
+| A Ronin Reborn | 0.30% | ~404 |
 | Tax not Included | 0.30% | ~404 |
 | Research & Development | 0.30% | ~404 |
 | Vanity, Verily | 0.30% | ~404 |
@@ -62,7 +63,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Proud Paladin | 0.20% | ~270 |
 | Above the Norm | 0.20% | ~270 |
 | Constellated | 0.20% | ~270 |
-| A Ronin Reborn | 0.20% | ~270 |
 | The King's Caprice | 0.20% | ~270 |
 | Thirst for Knowledge | 0.20% | ~270 |
 | Booty by the Boatload | 0.20% | ~270 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.10% | ~135 |
 | All Accounted For | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,775 (Ranked 66)  
+Progressed: 134,778 (Ranked 66)  
 Completed: 133 (0.10%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,7 +240,7 @@ Completed: 133 (0.10%) (Ranked 207)
 | 2023-08-16 | 134,622 | 133 |
 | 2023-08-17 | 134,688 | 133 |
 | 2023-08-18 | 134,736 | 133 |
-| 2023-08-19 | 134,775 | 133 |
+| 2023-08-19 | 134,778 | 133 |
 ## Awards
 Max (Great for Beginners): 4,705  (Ranked 71)  
 Sum: 27,112 (Ranked 47)  

@@ -6,9 +6,9 @@ Rating: 4.20 (Ranked 858)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Get a Grip | 5.00% | ~794 |
+| Paper Jams | 5.00% | ~794 |
 | Flesh Wound | 4.00% | ~635 |
 | Float Like A Butterfly | 4.00% | ~635 |
-| Paper Jams | 4.00% | ~635 |
 | Keep Fighting | 4.00% | ~152 |
 | You Need a Gun | 3.00% | ~476 |
 | I Do Belong Here | 3.00% | ~476 |

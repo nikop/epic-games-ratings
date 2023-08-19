@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 54.00% | ~1,680 |
-| EXTRA BOOST | 43.00% | ~1,338 |
-| IT MAKES BOOM! | 43.00% | ~1,338 |
+| ROOKIE | 54.00% | ~1,681 |
+| IT MAKES BOOM! | 43.00% | ~1,339 |
+| EXTRA BOOST | 42.00% | ~1,307 |
 | PRO | 34.00% | ~1,058 |
 | PROTECTED | 33.00% | ~1,027 |
 | A TIGER'S FEAR | 32.00% | ~996 |
 | HERE ARE SOME BARE NECESSITIES | 32.00% | ~996 |
 | AGGRESSIVE RACER | 32.00% | ~996 |
 | ACE SPEEDSTER | 24.00% | ~747 |
-| IT'S A LONG WAY TO THE TOP | 20.00% | ~622 |
+| IT'S A LONG WAY TO THE TOP | 20.00% | ~623 |
 | MASTER | 17.00% | ~529 |
 | ACE BRAWLER | 16.00% | ~498 |
 | TRAINING HARD | 15.00% | ~467 |
@@ -23,14 +23,14 @@
 | DEFEAT OUR CHAMPION | 14.00% | ~436 |
 | FRIENDLY | 14.00% | ~436 |
 | LEGENDARY HERO | 14.00% | ~436 |
-| PERFECTLY POISED | 12.00% | ~373 |
-| THE EYE OF THE HUNTER | 12.00% | ~373 |
-| ACE TRICKSTER | 12.00% | ~373 |
+| PERFECTLY POISED | 12.00% | ~374 |
+| THE EYE OF THE HUNTER | 12.00% | ~374 |
+| ACE TRICKSTER | 12.00% | ~374 |
 | EXPERIENCED CREW | 6.00% | ~187 |
 | FRAMED! | 6.00% | ~187 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,112 (Ranked 158)  
-Completed: 153 (4.92%) (Ranked 51)  
+Progressed: 3,113 (Ranked 158)  
+Completed: 153 (4.91%) (Ranked 51)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -147,4 +147,4 @@ Completed: 153 (4.92%) (Ranked 51)
 | 2023-08-15 | 3,106 | 150 |
 | 2023-08-16 | 3,109 | 152 |
 | 2023-08-17 | 3,111 | 153 |
-| 2023-08-19 | 3,112 | 153 |
+| 2023-08-19 | 3,113 | 153 |

@@ -4,8 +4,8 @@
   "ProductSlug": "perish-390141",
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-02-02T14:00:00+00:00",
     "PcReleaseDate": "2023-02-02T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3383,
+  "EOS_Progressed": 3384,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2623,6 +2623,11 @@
       "Time": "2023-08-19T17:07:06.8026031+00:00",
       "NumProgressed": 3383,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-19T19:06:12.9174889+00:00",
+      "NumProgressed": 3384,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 63,
@@ -2642,7 +2647,7 @@
       "Name": "Comedy and Tragedy",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ACH_B_FS",
@@ -2658,7 +2663,7 @@
       "Name": "Pillars of Eternity",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ACH_B_KK",
@@ -2786,7 +2791,7 @@
       "Name": "Chthonic Investor",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ACH_M_D4",
@@ -2858,7 +2863,7 @@
       "Name": "First Fragment",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ACH_OB_CA",
@@ -2890,7 +2895,7 @@
       "Name": "Sisters of the Pantheon",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ACH_OB_DS",
@@ -2898,7 +2903,7 @@
       "Name": "Labour of Apollo",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ACH_OB_FB",
@@ -2906,7 +2911,7 @@
       "Name": "Siege Unit",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ACH_OB_FC",
@@ -2946,7 +2951,7 @@
       "Name": "Divine Assemblage",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ACH_OB_PR",
@@ -3002,7 +3007,7 @@
       "Name": "Ophiolatreia",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ACH_OT",
@@ -3066,7 +3071,7 @@
       "Name": "Halls of Marble",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "KA",
@@ -3130,14 +3135,14 @@
       "Name": "Serpentine",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     }
   ],
   "AchievementSets": [
     {
       "ID": "b3fep3o",
       "IsBase": true,
-      "Progressed": 3383,
+      "Progressed": 3384,
       "Completed": 0
     }
   ],
@@ -3145,8 +3150,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-08-19T18:05:26.2239354+00:00",
+  "LastChanged_Achievements": "2023-08-19T19:06:12.9174883+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:42.998014+00:00",
-  "LastUpdate_Ratings": "2023-08-19T17:57:25.4133207+00:00",
-  "LastUpdate_Achievements": "2023-08-19T18:05:26.2240123+00:00"
+  "LastUpdate_Ratings": "2023-08-19T18:57:24.6242553+00:00",
+  "LastUpdate_Achievements": "2023-08-19T19:06:12.9175755+00:00"
 }

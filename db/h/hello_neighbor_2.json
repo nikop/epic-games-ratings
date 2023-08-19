@@ -3,11 +3,11 @@
   "Name": "Hello Neighbor 2",
   "ProductSlug": "hello-neighbor-2",
   "Ranking_Rating": 610,
-  "Ranking_Popularity": 512,
-  "Ranking_PopularitySum": 512,
+  "Ranking_Popularity": 513,
+  "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 61,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -378,11 +378,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2762,
+  "EOS_Progressed": 2763,
   "EOS_Completed": 109,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 3.95,
+  "EOS_Completed_Percentage": 3.94,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:02.7979813+00:00",
@@ -2753,6 +2753,11 @@
       "Time": "2023-08-19T16:04:12.4343146+00:00",
       "NumProgressed": 2762,
       "NumCompleted": 109
+    },
+    {
+      "Time": "2023-08-19T19:02:14.0780502+00:00",
+      "NumProgressed": 2763,
+      "NumCompleted": 109
     }
   ],
   "TotalAchievements": 14,
@@ -2764,7 +2769,7 @@
       "Name": "Ancient Curse",
       "Percentage": 28,
       "XP": 80,
-      "UsersEstimate": 773
+      "UsersEstimate": 774
     },
     {
       "ID": "ACH_CASE_CLOSED",
@@ -2772,7 +2777,7 @@
       "Name": "Case Closed",
       "Percentage": 36,
       "XP": 55,
-      "UsersEstimate": 994
+      "UsersEstimate": 995
     },
     {
       "ID": "ACH_CAT_LOVER",
@@ -2796,7 +2801,7 @@
       "Name": "Dog Person",
       "Percentage": 20,
       "XP": 80,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "ACH_EASY_AS_PIE",
@@ -2820,7 +2825,7 @@
       "Name": "Hidden Secrets",
       "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "ACH_IMPRISONMENT",
@@ -2860,7 +2865,7 @@
       "Name": "Treasure Hunt",
       "Percentage": 31,
       "XP": 80,
-      "UsersEstimate": 856
+      "UsersEstimate": 857
     },
     {
       "ID": "ACH_WELCOME_TO_RAVEN_BROOKS",
@@ -2868,14 +2873,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 76,
       "XP": 35,
-      "UsersEstimate": 2099
+      "UsersEstimate": 2100
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2762,
+      "Progressed": 2763,
       "Completed": 109
     }
   ],
@@ -2883,8 +2888,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-08-19T10:58:04.2929001+00:00",
-  "LastChanged_Achievements": "2023-08-19T18:00:55.0998746+00:00",
+  "LastChanged_Achievements": "2023-08-19T19:02:14.0780496+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:01.4911861+00:00",
-  "LastUpdate_Ratings": "2023-08-19T17:57:45.112823+00:00",
-  "LastUpdate_Achievements": "2023-08-19T18:00:55.1008097+00:00"
+  "LastUpdate_Ratings": "2023-08-19T18:57:50.7859721+00:00",
+  "LastUpdate_Achievements": "2023-08-19T19:02:14.07808+00:00"
 }

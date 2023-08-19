@@ -29,9 +29,9 @@ Number of Ratings: 266  (23.09.2022)
 | House of Cards | 7.00% | ~232 |
 | Let ‘em eat magma! | 7.00% | ~232 |
 | The power of ambition | 7.00% | ~232 |
+| Blood and justice | 6.00% | ~199 |
 | Hold my Mead and Watch This | 6.00% | ~199 |
 | The stuff of legends. | 6.00% | ~199 |
-| Blood and justice | 5.00% | ~166 |
 | Ancestor's Pride | 4.00% | ~133 |
 | For All Aurai | 4.00% | ~133 |
 | Memory of a legend | 4.00% | ~133 |

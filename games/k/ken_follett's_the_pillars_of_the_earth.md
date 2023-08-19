@@ -6,20 +6,20 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 41.00% | ~6,014 |
-| Man of politics | 35.00% | ~5,134 |
-| Yet another secret | 34.00% | ~4,987 |
-| Friends of sorts | 33.00% | ~4,841 |
-| Let there be darkness | 32.00% | ~4,694 |
-| End of Book One | 30.00% | ~4,401 |
+| Tattletale | 41.00% | ~6,016 |
+| Man of politics | 35.00% | ~5,135 |
+| Yet another secret | 34.00% | ~4,988 |
+| Friends of sorts | 33.00% | ~4,842 |
+| Let there be darkness | 32.00% | ~4,695 |
+| End of Book One | 30.00% | ~4,402 |
 | Wannabe knight | 24.00% | ~3,521 |
 | Garden of Eden | 24.00% | ~3,521 |
 | Full house | 24.00% | ~3,521 |
-| Help an old friend | 22.00% | ~3,227 |
+| Help an old friend | 22.00% | ~3,228 |
 | Two of us | 20.00% | ~2,934 |
-| Negotiation skills | 18.00% | ~2,640 |
-| Workers' union | 18.00% | ~2,640 |
-| End of Book Two | 18.00% | ~2,640 |
+| Negotiation skills | 18.00% | ~2,641 |
+| Workers' union | 18.00% | ~2,641 |
+| End of Book Two | 18.00% | ~2,641 |
 | Everything's in order | 17.00% | ~2,494 |
 | Twist of Fate | 14.00% | ~2,054 |
 | Jack was here! | 14.00% | ~2,054 |
@@ -38,9 +38,9 @@ Number of Ratings: 368  (23.09.2022)
 | A cry for help | 8.00% | ~1,174 |
 | Silentium est aureum | 7.00% | ~1,027 |
 | Rebel without a cause | 6.00% | ~880 |
-| Staring contest champion | 5.00% | ~733 |
-| Lone wolf | 5.00% | ~733 |
-| Vox Populi | 5.00% | ~733 |
+| Staring contest champion | 5.00% | ~734 |
+| Lone wolf | 5.00% | ~734 |
+| Vox Populi | 5.00% | ~734 |
 | Revenge | 4.00% | ~587 |
 | Self-defense | 4.00% | ~587 |
 | Countess Aliena | 4.00% | ~587 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~440 |
 | Boy of mystery | 2.00% | ~293 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,669 (Ranked 117)  
+Progressed: 14,672 (Ranked 117)  
 Completed: 109 (0.74%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,7 +169,7 @@ Completed: 109 (0.74%) (Ranked 128)
 | 2023-08-16 | 14,610 | 109 |
 | 2023-08-17 | 14,635 | 109 |
 | 2023-08-18 | 14,655 | 109 |
-| 2023-08-19 | 14,669 | 109 |
+| 2023-08-19 | 14,672 | 109 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 298)  
 Sum: 188 (Ranked 375)  
