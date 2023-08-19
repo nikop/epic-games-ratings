@@ -23,7 +23,7 @@
 | 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.17% |
 | 22 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 22 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
-| 24 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.09% |
+| 24 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.08% |
 | 25 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.71% |
 | 26 | [Remains](games/r/remains.md) | 10.64% |
 | 27 | [Out of Bounds](games/o/out_of_bounds.md) | 10.34% |
@@ -60,7 +60,7 @@
 | 58 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
 | 59 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.15% |
 | 60 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.04% |
-| 61 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.92% |
+| 61 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.91% |
 | 62 | [ZZT!](games/z/zzt!.md) | 3.82% |
 | 63 | [Without Escape](games/w/without_escape.md) | 3.57% |
 | 64 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
@@ -89,14 +89,14 @@
 | 87 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.27% |
 | 88 | [Bloodshore](games/b/bloodshore.md) | 2.21% |
 | 89 | [FORECLOSED](games/f/foreclosed.md) | 2.17% |
-| 90 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.03% |
+| 90 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.02% |
 | 91 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.94% |
 | 92 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.92% |
 | 93 | [Night Book](games/n/night_book.md) | 1.89% |
 | 94 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
-| 95 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 1.81% |
 | 95 | [Frogun](games/f/frogun.md) | 1.81% |
 | 95 | [Sifu](games/s/sifu.md) | 1.81% |
+| 97 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 1.75% |
 | 98 | [Somerville](games/s/somerville.md) | 1.67% |
 | 98 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.67% |
 | 100 | [Iron Danger](games/i/iron_danger.md) | 1.61% |
