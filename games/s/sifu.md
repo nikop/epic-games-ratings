@@ -8,22 +8,22 @@ Number of Ratings: 9,492  (23.09.2022)
 | ---- | ---------- | ----- |
 | Diligence as a goal | 5.00% | ~1,091 |
 | Project Arena | 4.00% | ~873 |
-| The Old Grandmaster | 2.00% | ~14,250 |
-| The Assault | 2.00% | ~14,250 |
-| The Hateful Pole Fighter | 2.00% | ~14,250 |
-| A Lady's Blood in the Snow | 2.00% | ~14,250 |
-| Lady Wing Chun | 2.00% | ~14,250 |
-| Kill Nil | 2.00% | ~14,250 |
-| Stuntmaster | 2.00% | ~14,250 |
-| Street Fighting | 2.00% | ~14,250 |
-| Life is your teacher | 2.00% | ~14,250 |
-| State of constant learning | 2.00% | ~14,250 |
-| Qi Gong: Breath | 2.00% | ~14,250 |
-| Qi Gong: Essence | 2.00% | ~14,250 |
-| Lightning Hands | 2.00% | ~14,250 |
-| Path of the Prospect | 2.00% | ~14,250 |
-| Rumble in the Hangar | 2.00% | ~14,250 |
-| Bloody Sport | 2.00% | ~436 |
+| The Old Grandmaster | 2.00% | ~14,251 |
+| The Assault | 2.00% | ~14,251 |
+| The Hateful Pole Fighter | 2.00% | ~14,251 |
+| A Lady's Blood in the Snow | 2.00% | ~14,251 |
+| Lady Wing Chun | 2.00% | ~14,251 |
+| Kill Nil | 2.00% | ~14,251 |
+| Stuntmaster | 2.00% | ~14,251 |
+| Street Fighting | 2.00% | ~14,251 |
+| Life is your teacher | 2.00% | ~14,251 |
+| State of constant learning | 2.00% | ~14,251 |
+| Qi Gong: Breath | 2.00% | ~14,251 |
+| Qi Gong: Essence | 2.00% | ~14,251 |
+| Lightning Hands | 2.00% | ~14,251 |
+| Path of the Prospect | 2.00% | ~14,251 |
+| Rumble in the Hangar | 2.00% | ~14,251 |
+| Bloody Sport | 2.00% | ~437 |
 | Furious Fists | 1.00% | ~7,125 |
 | Scareless | 1.00% | ~7,125 |
 | Dance of the Praying Mantis | 1.00% | ~7,125 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,425 |
 | Warriors from the Mountain | 0.10% | ~713 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 712,524 (Ranked 20)  
+Progressed: 712,528 (Ranked 20)  
 Completed: 12,863 (1.81%) (Ranked 96)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,10 +178,10 @@ Completed: 12,863 (1.81%) (Ranked 96)
 | 2023-08-16 | 712,473 | 12,860 |
 | 2023-08-17 | 712,495 | 12,861 |
 | 2023-08-18 | 712,513 | 12,863 |
-| 2023-08-19 | 712,524 | 12,863 |
+| 2023-08-19 | 712,528 | 12,863 |
 ## Awards
 Max (Great Boss Battles): 6,377  (Ranked 55)  
-Sum: 10,952 (Ranked 82)  
+Sum: 10,953 (Ranked 82)  
 Diff (max vs sum): -27  
 | Award | Count |
 | ----- | ----- |
@@ -192,7 +192,7 @@ Diff (max vs sum): -27
 | This game has Amazing Storytelling | 526 |
 | This game is Extremely Fun | 522 |
 | This game has Amazing Characters | 515 |
-| This game is Highly Recommended | 513 |
+| This game is Highly Recommended | 514 |
 | This game has Unique Visuals | 481 |
 | This game is Relaxing | 401 |
 | This game has a Creative Community | 370 |
@@ -414,4 +414,4 @@ Diff (max vs sum): -27
 | 2023-08-16 | 4.82 | - | 6,373 | 10,942 |
 | 2023-08-17 | 4.82 | - | 6,373 | 10,944 |
 | 2023-08-18 | 4.82 | - | 6,377 | 10,950 |
-| 2023-08-19 | 4.82 | - | 6,377 | 10,952 |
+| 2023-08-19 | 4.82 | - | 6,377 | 10,953 |

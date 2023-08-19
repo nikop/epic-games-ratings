@@ -8,7 +8,7 @@
 | Your first fight | 85.00% | ~218 |
 | Good Person Chip | 84.00% | ~216 |
 | First winning | 83.00% | ~213 |
-| Your first job | 82.00% | ~211 |
+| Your first job | 83.00% | ~213 |
 | Old movies enjoyer | 79.00% | ~203 |
 | Fitness professional | 77.00% | ~198 |
 | Depressed visitor | 77.00% | ~198 |
@@ -39,8 +39,8 @@
 | Now you are worthy | 49.00% | ~126 |
 | Guiding on the right path | 47.00% | ~121 |
 | Fight is life | 45.00% | ~116 |
+| Mysterious voice | 45.00% | ~116 |
 | No blades in the gym | 45.00% | ~116 |
-| Mysterious voice | 44.00% | ~113 |
 | Champion – no way back | 41.00% | ~105 |
 | Your own way | 41.00% | ~105 |
 | Responsible approach | 40.00% | ~103 |
@@ -55,17 +55,17 @@
 | Gang wrangler | 34.00% | ~87 |
 | Problems of cyborgs | 34.00% | ~87 |
 | Undercover robot | 34.00% | ~87 |
+| Not little hacker | 33.00% | ~85 |
 | Absolute Champion! | 33.00% | ~85 |
 | Careerist | 33.00% | ~85 |
 | Trap disarmed | 32.00% | ~82 |
 | The lonesome road | 32.00% | ~82 |
+| Family comes first | 32.00% | ~82 |
 | Key memories | 32.00% | ~82 |
-| Not little hacker | 32.00% | ~82 |
 | Anyone can resist | 32.00% | ~82 |
 | The heart of the Resistance | 32.00% | ~82 |
 | Another world | 31.00% | ~80 |
 | Keep nature safe | 31.00% | ~80 |
-| Family comes first | 31.00% | ~80 |
 | The last bell ring | 31.00% | ~80 |
 | Silver’s past | 28.00% | ~72 |
 | Better cooking at home | 28.00% | ~72 |

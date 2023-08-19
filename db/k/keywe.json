@@ -2,10 +2,10 @@
   "ID": "2f85e4b21b8b459fa78a34e59ccac2a2",
   "Name": "KeyWe",
   "ProductSlug": "keywe-c3a70e",
-  "Ranking_EOS_Progress": 450,
+  "Ranking_EOS_Progress": 443,
   "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-04-28T09:00:00+00:00",
     "PcReleaseDate": "2021-08-31T00:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10,
+  "EOS_Progressed": 11,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -72,6 +72,11 @@
       "Time": "2023-08-15T14:04:46.6067809+00:00",
       "NumProgressed": 10,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-19T09:07:46.8171184+00:00",
+      "NumProgressed": 11,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T17:04:51.255408+00:00",
@@ -90,7 +95,7 @@
       "ID": "allCollectiblesFound",
       "SetID": "cfe0fhi",
       "Name": "Secrets of the Telepost",
-      "Percentage": 20,
+      "Percentage": 18,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -130,7 +135,7 @@
       "ID": "beatOwnScore",
       "SetID": "cfe0fhi",
       "Name": "Practice Makes Postmasters",
-      "Percentage": 50,
+      "Percentage": 45,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -138,7 +143,7 @@
       "ID": "completeFall",
       "SetID": "cfe0fhi",
       "Name": "Pumpkins and Postage Stamps",
-      "Percentage": 20,
+      "Percentage": 18,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -146,7 +151,7 @@
       "ID": "completeGame",
       "SetID": "cfe0fhi",
       "Name": "Kiwinter Kiwonderland",
-      "Percentage": 20,
+      "Percentage": 18,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -154,15 +159,15 @@
       "ID": "completeOnboarding",
       "SetID": "cfe0fhi",
       "Name": "You\u0027re Hired",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "completeSummer",
       "SetID": "cfe0fhi",
       "Name": "Fun in the Bungalow Basin Sun",
-      "Percentage": 30,
+      "Percentage": 27,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -170,7 +175,7 @@
       "ID": "completeTheFirstWeek",
       "SetID": "cfe0fhi",
       "Name": "Learn the Ropes",
-      "Percentage": 60,
+      "Percentage": 55,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -178,7 +183,7 @@
       "ID": "findFirstCollectible",
       "SetID": "cfe0fhi",
       "Name": "A Startling Discovery",
-      "Percentage": 60,
+      "Percentage": 55,
       "XP": 15,
       "UsersEstimate": 6
     },
@@ -186,7 +191,7 @@
       "ID": "getABonusReward",
       "SetID": "cfe0fhi",
       "Name": "Working for the Kiweekend",
-      "Percentage": 80,
+      "Percentage": 73,
       "XP": 15,
       "UsersEstimate": 8
     },
@@ -202,7 +207,7 @@
       "ID": "goldOnFall",
       "SetID": "cfe0fhi",
       "Name": "Autumn Postmasters",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -218,7 +223,7 @@
       "ID": "goldOnSummer",
       "SetID": "cfe0fhi",
       "Name": "Summer Postmasters",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -243,13 +248,13 @@
     {
       "ID": "cfe0fhi",
       "IsBase": true,
-      "Progressed": 10,
+      "Progressed": 11,
       "Completed": 0
     },
     {
       "ID": "cfj6lld",
       "IsBase": false,
-      "Progressed": 10,
+      "Progressed": 11,
       "Completed": 0
     }
   ],
@@ -257,8 +262,8 @@
   "FirstSeenRating": "2023-03-31T05:58:13.8503401+00:00",
   "FirstSeenAchievements": "2023-07-21T11:01:23.8514145+00:00",
   "LastChanged": "2023-03-31T05:58:13.8503402+00:00",
-  "LastChanged_Achievements": "2023-08-19T08:09:12.0059825+00:00",
-  "LastUpdate_AppInfo": "2023-08-12T07:57:53.4766965+00:00",
-  "LastUpdate_Ratings": "2023-08-19T08:00:21.2863182+00:00",
-  "LastUpdate_Achievements": "2023-08-19T08:09:12.0059971+00:00"
+  "LastChanged_Achievements": "2023-08-19T09:07:46.8171178+00:00",
+  "LastUpdate_AppInfo": "2023-08-19T08:57:29.875131+00:00",
+  "LastUpdate_Ratings": "2023-08-19T08:58:45.926782+00:00",
+  "LastUpdate_Achievements": "2023-08-19T09:07:46.8171364+00:00"
 }

@@ -2480,9 +2480,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 67907,
+  "EOS_Progressed": 67908,
   "EOS_Completed": 107,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -12705,6 +12705,11 @@
       "Time": "2023-08-19T07:07:08.2910234+00:00",
       "NumProgressed": 67907,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2023-08-19T09:09:26.3882687+00:00",
+      "NumProgressed": 67908,
+      "NumCompleted": 107
     }
   ],
   "TotalAchievements": 61,
@@ -12820,7 +12825,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 14260
+      "UsersEstimate": 14261
     },
     {
       "ID": "CLAYFACE_2",
@@ -12860,7 +12865,7 @@
       "Name": "Fusion Expert",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 4753
+      "UsersEstimate": 4754
     },
     {
       "ID": "CRIME_FIGHTER_1",
@@ -12948,7 +12953,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 13581
+      "UsersEstimate": 13582
     },
     {
       "ID": "FREEZE_2",
@@ -12956,7 +12961,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 12902
+      "UsersEstimate": 12903
     },
     {
       "ID": "FREEZE_3",
@@ -12972,7 +12977,7 @@
       "Name": "Icebreaker",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "FREEZE_SHOWDOWN_2",
@@ -13020,7 +13025,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 23767
+      "UsersEstimate": 23768
     },
     {
       "ID": "HARLEY_2",
@@ -13036,7 +13041,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 13581
+      "UsersEstimate": 13582
     },
     {
       "ID": "HARLEY_4",
@@ -13052,7 +13057,7 @@
       "Name": "A Sophisticated Mallet",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "HERO_PROGRESSION_1",
@@ -13084,7 +13089,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 13581
+      "UsersEstimate": 13582
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -13108,7 +13113,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 23088
+      "UsersEstimate": 23089
     },
     {
       "ID": "MYSTERY_02",
@@ -13132,7 +13137,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 13581
+      "UsersEstimate": 13582
     },
     {
       "ID": "MYSTERY_05",
@@ -13203,13 +13208,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 67907,
+      "Progressed": 67908,
       "Completed": 107
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 38187,
+      "Progressed": 38188,
       "Completed": 2658
     }
   ],
@@ -13217,8 +13222,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-08-18T16:57:23.9002364+00:00",
-  "LastChanged_Achievements": "2023-08-19T08:10:50.6813946+00:00",
-  "LastUpdate_AppInfo": "2023-08-12T07:57:49.7416919+00:00",
-  "LastUpdate_Ratings": "2023-08-19T08:00:26.7114809+00:00",
-  "LastUpdate_Achievements": "2023-08-19T08:10:50.681502+00:00"
+  "LastChanged_Achievements": "2023-08-19T09:09:26.3882674+00:00",
+  "LastUpdate_AppInfo": "2023-08-19T08:57:36.1459925+00:00",
+  "LastUpdate_Ratings": "2023-08-19T08:58:51.398908+00:00",
+  "LastUpdate_Achievements": "2023-08-19T09:09:26.3883759+00:00"
 }

@@ -10,18 +10,18 @@ Rating: 4.77 (Ranked 109)
 | Troll with the Punches | 11.00% | ~31,942 |
 | A Keen Sense of Spell | 10.00% | ~29,038 |
 | That's a Keeper | 10.00% | ~29,038 |
-| Grappling with a Graphorn | 9.00% | ~26,134 |
-| The One Who Mastered Memories | 9.00% | ~26,134 |
-| The Hallowed Hero | 9.00% | ~26,134 |
-| The Hero of Hogwarts | 9.00% | ~26,134 |
-| The Defender of Dragons | 9.00% | ~26,134 |
-| Challenge Accepted | 9.00% | ~26,134 |
-| Loom for Improvement | 9.00% | ~26,134 |
-| A Talent for Spending | 9.00% | ~26,134 |
-| Coasting Along | 9.00% | ~26,134 |
-| Followed the Butterflies | 8.00% | ~23,230 |
-| The Spell Master | 8.00% | ~23,230 |
-| Rising From the Ashes | 8.00% | ~23,230 |
+| Grappling with a Graphorn | 9.00% | ~26,135 |
+| The One Who Mastered Memories | 9.00% | ~26,135 |
+| The Hallowed Hero | 9.00% | ~26,135 |
+| The Hero of Hogwarts | 9.00% | ~26,135 |
+| The Defender of Dragons | 9.00% | ~26,135 |
+| Challenge Accepted | 9.00% | ~26,135 |
+| Loom for Improvement | 9.00% | ~26,135 |
+| A Talent for Spending | 9.00% | ~26,135 |
+| Coasting Along | 9.00% | ~26,135 |
+| Followed the Butterflies | 8.00% | ~23,231 |
+| The Spell Master | 8.00% | ~23,231 |
+| Rising From the Ashes | 8.00% | ~23,231 |
 | The Avenging Gazelle | 7.00% | ~20,327 |
 | Beast Friends | 7.00% | ~20,327 |
 | A Sallow Grave | 7.00% | ~20,327 |
@@ -35,9 +35,9 @@ Rating: 4.77 (Ranked 109)
 | The Intrepid Explorer | 4.00% | ~11,615 |
 | The Gryffindor in the Graveyard | 4.00% | ~11,615 |
 | The Ends Petrify the Means | 4.00% | ~11,615 |
-| Going Through the Potions | 3.00% | ~8,711 |
-| Floo Around the World | 3.00% | ~8,711 |
-| The Wise Owl | 3.00% | ~8,711 |
+| Going Through the Potions | 3.00% | ~8,712 |
+| Floo Around the World | 3.00% | ~8,712 |
+| The Wise Owl | 3.00% | ~8,712 |
 | The Good Samaritan | 2.00% | ~5,808 |
 | Put Down Roots | 2.00% | ~5,808 |
 | The Auror's Apprentice | 2.00% | ~5,808 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,742 |
 | Collector's Edition | 0.30% | ~871 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290,381 (Ranked 43)  
+Progressed: 290,384 (Ranked 43)  
 Completed: 452 (0.16%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,10 +172,10 @@ Completed: 452 (0.16%) (Ranked 192)
 | 2023-08-16 | 290,231 | 452 |
 | 2023-08-17 | 290,286 | 452 |
 | 2023-08-18 | 290,355 | 452 |
-| 2023-08-19 | 290,381 | 452 |
+| 2023-08-19 | 290,384 | 452 |
 ## Awards
 Max (Character Customization): 21,818  (Ranked 17)  
-Sum: 41,208 (Ranked 30)  
+Sum: 41,211 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -186,7 +186,7 @@ Diff (max vs sum): -13
 | This game is Extremely Fun | 956 |
 | This game has Amazing Storytelling | 942 |
 | This game has Diverse Characters | 940 |
-| This game has Amazing Characters | 920 |
+| This game has Amazing Characters | 923 |
 | This game is Highly Recommended | 899 |
 | This game has Quickly Understood Controls | 848 |
 | This game has Beautiful Visuals | 792 |
@@ -342,4 +342,4 @@ Diff (max vs sum): -13
 | 2023-08-16 | 4.77 | 21,765 | 41,080 |
 | 2023-08-17 | 4.77 | 21,780 | 41,138 |
 | 2023-08-18 | 4.77 | 21,799 | 41,179 |
-| 2023-08-19 | 4.77 | 21,818 | 41,208 |
+| 2023-08-19 | 4.77 | 21,818 | 41,211 |

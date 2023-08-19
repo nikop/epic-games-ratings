@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 260,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -864,9 +864,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 6412,
+  "EOS_Progressed": 6413,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5194,6 +5194,11 @@
       "Time": "2023-08-19T07:04:51.993265+00:00",
       "NumProgressed": 6412,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-19T09:06:47.8032534+00:00",
+      "NumProgressed": 6413,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -5309,7 +5314,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 5065
+      "UsersEstimate": 5066
     },
     {
       "ID": "First_Race_Met",
@@ -5325,7 +5330,7 @@
       "Name": "Design a Ship",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1795
+      "UsersEstimate": 1796
     },
     {
       "ID": "First_Stream_Travel",
@@ -5341,7 +5346,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 5001
+      "UsersEstimate": 5002
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -5525,7 +5530,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3975
+      "UsersEstimate": 3976
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -5693,7 +5698,7 @@
       "Name": "Win a Battle",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 4296
+      "UsersEstimate": 4297
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -5709,7 +5714,7 @@
       "Name": "Conquest Victory!",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "Win_CustomFaction",
@@ -5733,7 +5738,7 @@
       "Name": "Win an Immense Game",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "Win_Influence",
@@ -5780,15 +5785,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6412,
+      "Progressed": 6413,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-08-16T06:59:13.2863126+00:00",
-  "LastChanged_Achievements": "2023-08-19T08:08:12.5548973+00:00",
+  "LastChanged_Achievements": "2023-08-19T09:06:47.8032525+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:58:05.9741454+00:00",
-  "LastUpdate_Ratings": "2023-08-19T08:02:59.1400308+00:00",
-  "LastUpdate_Achievements": "2023-08-19T08:08:12.5550088+00:00"
+  "LastUpdate_Ratings": "2023-08-19T09:01:24.415243+00:00",
+  "LastUpdate_Achievements": "2023-08-19T09:06:47.8033867+00:00"
 }

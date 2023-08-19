@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 61102,
+  "EOS_Progressed": 61103,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 393,
+  "EOS_NewPlayers": 392,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11707,6 +11707,11 @@
       "Time": "2023-08-19T08:10:08.0288834+00:00",
       "NumProgressed": 61102,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-19T09:08:43.4767867+00:00",
+      "NumProgressed": 61103,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -11726,7 +11731,7 @@
       "Name": "Nordic Walking",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 14053
+      "UsersEstimate": 14054
     },
     {
       "ID": "03",
@@ -11734,7 +11739,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 14053
+      "UsersEstimate": 14054
     },
     {
       "ID": "04",
@@ -11750,7 +11755,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 12220
+      "UsersEstimate": 12221
     },
     {
       "ID": "06",
@@ -12054,7 +12059,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 10387
+      "UsersEstimate": 10388
     },
     {
       "ID": "44",
@@ -12182,7 +12187,7 @@
       "Name": "Ding!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 1228
+      "UsersEstimate": 1229
     },
     {
       "ID": "60",
@@ -12253,21 +12258,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 61102,
+      "Progressed": 61103,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 24570,
+      "Progressed": 24571,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-19T08:10:08.0288827+00:00",
+  "LastChanged_Achievements": "2023-08-19T09:08:43.4767856+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:35.5614422+00:00",
-  "LastUpdate_Ratings": "2023-08-19T08:03:07.313489+00:00",
-  "LastUpdate_Achievements": "2023-08-19T08:10:08.0290762+00:00"
+  "LastUpdate_Ratings": "2023-08-19T09:01:32.588888+00:00",
+  "LastUpdate_Achievements": "2023-08-19T09:08:43.4769576+00:00"
 }

@@ -6,24 +6,25 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 1.00% | ~2,232 |
+| A Brief Tour of the Realms | 1.00% | ~2,233 |
 | Beast Intentions | 0.40% | ~893 |
 | The Cursed Farmer | 0.40% | ~893 |
 | The Hunt for The Last Breath | 0.40% | ~758 |
 | To Infinity's and Beyond | 0.40% | ~758 |
 | The Mad Wizard | 0.30% | ~670 |
-| Maddening | 0.20% | ~446 |
-| Were-verpowered | 0.20% | ~446 |
-| A Persistent Buzzing | 0.20% | ~446 |
-| Terror in the Dark | 0.20% | ~446 |
-| The Ring of Regeneration | 0.20% | ~446 |
-| The Crumbling Temple | 0.20% | ~446 |
-| Seeking Allies | 0.20% | ~446 |
-| Are Ya Chicken? | 0.20% | ~446 |
-| Mad Cow Disease | 0.20% | ~446 |
-| Exploring Port Nyanzaru | 0.20% | ~446 |
-| Friendly Imps | 0.20% | ~446 |
-| Pure Energy | 0.20% | ~446 |
+| Maddening | 0.20% | ~447 |
+| Supply Run | 0.20% | ~447 |
+| Were-verpowered | 0.20% | ~447 |
+| A Persistent Buzzing | 0.20% | ~447 |
+| Terror in the Dark | 0.20% | ~447 |
+| The Ring of Regeneration | 0.20% | ~447 |
+| The Crumbling Temple | 0.20% | ~447 |
+| Seeking Allies | 0.20% | ~447 |
+| Are Ya Chicken? | 0.20% | ~447 |
+| Mad Cow Disease | 0.20% | ~447 |
+| Exploring Port Nyanzaru | 0.20% | ~447 |
+| Friendly Imps | 0.20% | ~447 |
+| Pure Energy | 0.20% | ~447 |
 | The Chaotic Hunt for The Last Breath | 0.20% | ~379 |
 | There's a Flying Snake in my Boot! | 0.20% | ~379 |
 | Pros and CONs | 0.10% | ~223 |
@@ -93,7 +94,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Roots of Loomlurch | 0.10% | ~190 |
 | The Loots of Loomlurch | 0.10% | ~190 |
 | The Lutes of Loomlurch | 0.10% | ~190 |
-| Supply Run | 0.10% | ~223 |
 | Best Laid Plans | 0.10% | ~190 |
 | Pincushion Party | 0.10% | ~190 |
 | G. O. A. T. | 0.10% | ~190 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~190 |
 | Animated Giff | 0.10% | ~190 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 223,250 (Ranked 53)  
+Progressed: 223,257 (Ranked 53)  
 Completed: 2,193 (0.98%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -644,7 +644,7 @@ Completed: 2,193 (0.98%) (Ranked 119)
 | 2023-08-16 | 222,534 | 2,186 |
 | 2023-08-17 | 222,852 | 2,189 |
 | 2023-08-18 | 223,142 | 2,190 |
-| 2023-08-19 | 223,250 | 2,193 |
+| 2023-08-19 | 223,257 | 2,193 |
 ## Awards
 Max (Diverse Characters): 5,167  (Ranked 68)  
 Sum: 31,122 (Ranked 38)  

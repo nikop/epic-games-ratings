@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 73,
   "Ranking_EOS_Progress": 6,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 4,
+  "Ranking_EOS_NewPlayers": 5,
   "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2023-06-08T15:00:00+00:00",
@@ -3118,9 +3118,9 @@
       "Count": 719
     }
   ],
-  "EOS_Progressed": 1585012,
+  "EOS_Progressed": 1585153,
   "EOS_Completed": 514,
-  "EOS_NewPlayers": 25139,
+  "EOS_NewPlayers": 25167,
   "EOS_NewCompleters": 33,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -11363,6 +11363,11 @@
       "Time": "2023-08-19T08:05:41.305763+00:00",
       "NumProgressed": 1585012,
       "NumCompleted": 514
+    },
+    {
+      "Time": "2023-08-19T09:04:19.6597923+00:00",
+      "NumProgressed": 1585153,
+      "NumCompleted": 514
     }
   ],
   "TotalAchievements": 1328,
@@ -12574,7 +12579,7 @@
       "Name": "I Want to Get Away",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 9510
+      "UsersEstimate": 9511
     },
     {
       "ID": "brooklyn_2",
@@ -12798,7 +12803,7 @@
       "Name": "Virus",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6340
+      "UsersEstimate": 6341
     },
     {
       "ID": "cac_29",
@@ -15990,7 +15995,7 @@
       "Name": "Guilty of Crime",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6340
+      "UsersEstimate": 6341
     },
     {
       "ID": "halloween_1",
@@ -17084,17 +17089,17 @@
       "ID": "no_one_cared_who_i_was",
       "SetID": "61cefe3",
       "Name": "No One Cared Who I Was...",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 6340
+      "UsersEstimate": 7926
     },
     {
       "ID": "no_turning_back",
       "SetID": "61cefe3",
       "Name": "No Turning Back",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 6340
+      "UsersEstimate": 7926
     },
     {
       "ID": "orange_1",
@@ -19452,9 +19457,9 @@
       "ID": "trk_bc_0",
       "SetID": "61cefe3",
       "Name": "No Thermal Drill was Harmed During the Heist",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 1585
+      "UsersEstimate": 3170
     },
     {
       "ID": "trk_bc_1",
@@ -21982,7 +21987,7 @@
       "Name": "You Gotta Start Somewhere",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 7925
+      "UsersEstimate": 7926
     },
     {
       "ID": "you_shall_not_pass",
@@ -21997,13 +22002,13 @@
     {
       "ID": "61cefe3",
       "IsBase": true,
-      "Progressed": 1585012,
+      "Progressed": 1585153,
       "Completed": 514
     },
     {
       "ID": "bkjdbk8",
       "IsBase": false,
-      "Progressed": 1585012,
+      "Progressed": 1585153,
       "Completed": 22
     }
   ],
@@ -22011,8 +22016,8 @@
   "FirstSeenRating": "2023-06-09T03:57:04.3869033+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:50.4372379+00:00",
   "LastChanged": "2023-08-19T08:02:20.8577002+00:00",
-  "LastChanged_Achievements": "2023-08-19T08:05:41.3057622+00:00",
+  "LastChanged_Achievements": "2023-08-19T09:04:19.6597913+00:00",
   "LastUpdate_AppInfo": "2023-08-17T20:57:10.4408604+00:00",
-  "LastUpdate_Ratings": "2023-08-19T08:02:20.8577009+00:00",
-  "LastUpdate_Achievements": "2023-08-19T08:05:41.325274+00:00"
+  "LastUpdate_Ratings": "2023-08-19T09:00:48.1085002+00:00",
+  "LastUpdate_Achievements": "2023-08-19T09:04:19.6772351+00:00"
 }

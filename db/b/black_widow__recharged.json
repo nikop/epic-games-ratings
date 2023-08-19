@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
     "PcReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -152,9 +152,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17318,
+  "EOS_Progressed": 17319,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 186,
+  "EOS_NewPlayers": 187,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -10147,6 +10147,11 @@
       "Time": "2023-08-19T08:07:26.3675531+00:00",
       "NumProgressed": 17318,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-08-19T09:06:01.9977393+00:00",
+      "NumProgressed": 17319,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 14,
@@ -10158,7 +10163,7 @@
       "Name": "Across The Border",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 13681
+      "UsersEstimate": 13682
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -10190,7 +10195,7 @@
       "Name": "Don\u0027t Bring Me Down",
       "Percentage": 19,
       "XP": 90,
-      "UsersEstimate": 3290
+      "UsersEstimate": 3291
     },
     {
       "ID": "ACH_EVEYONE_IS_BORN_TO_DIE",
@@ -10269,15 +10274,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 17318,
+      "Progressed": 17319,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-08-16T03:57:34.8125865+00:00",
-  "LastChanged_Achievements": "2023-08-19T08:07:26.3675526+00:00",
-  "LastUpdate_AppInfo": "2023-08-12T07:57:20.9472808+00:00",
-  "LastUpdate_Ratings": "2023-08-19T08:01:18.7292092+00:00",
-  "LastUpdate_Achievements": "2023-08-19T08:07:26.3676407+00:00"
+  "LastChanged_Achievements": "2023-08-19T09:06:01.9977384+00:00",
+  "LastUpdate_AppInfo": "2023-08-19T08:58:14.8695583+00:00",
+  "LastUpdate_Ratings": "2023-08-19T08:59:46.2858824+00:00",
+  "LastUpdate_Achievements": "2023-08-19T09:06:01.9978419+00:00"
 }

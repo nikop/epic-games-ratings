@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 260,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 263,
+  "EOS_Progressed": 267,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 254,
+  "EOS_NewPlayers": 258,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -411,6 +411,11 @@
       "Time": "2023-08-19T08:06:51.5551084+00:00",
       "NumProgressed": 263,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-19T09:05:37.67677+00:00",
+      "NumProgressed": 267,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -431,7 +436,7 @@
       "Name": "A New Journey",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 179
+      "UsersEstimate": 182
     },
     {
       "ID": "_03_FinishAct1",
@@ -439,23 +444,23 @@
       "Name": "The Adventure Begins",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 99
     },
     {
       "ID": "_04_CollectAllRelics",
       "SetID": "8a1io5d",
       "Name": "This Belongs in a Museum",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 24
     },
     {
       "ID": "_05_FinishAct2",
       "SetID": "8a1io5d",
       "Name": "The Gambit Has Begun",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 11
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -479,7 +484,7 @@
       "Name": "Swabbie",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "_09_Completion_20",
@@ -493,7 +498,7 @@
       "ID": "_10_Completion_30",
       "SetID": "8a1io5d",
       "Name": "Buccaneer",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -551,7 +556,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -573,9 +578,9 @@
       "ID": "_20_CrewTale_TPB",
       "SetID": "8a1io5d",
       "Name": "Fishy Fish",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 11
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -630,14 +635,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 263,
+      "Progressed": 267,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-19T08:06:51.5551079+00:00",
+  "LastChanged_Achievements": "2023-08-19T09:05:37.6767694+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:01.7621403+00:00",
-  "LastUpdate_Ratings": "2023-08-19T08:03:33.6966032+00:00",
-  "LastUpdate_Achievements": "2023-08-19T08:06:51.555131+00:00"
+  "LastUpdate_Ratings": "2023-08-19T09:01:58.828185+00:00",
+  "LastUpdate_Achievements": "2023-08-19T09:05:37.6767932+00:00"
 }

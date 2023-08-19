@@ -5914,9 +5914,9 @@
       "Count": 3360
     }
   ],
-  "EOS_Progressed": 223250,
+  "EOS_Progressed": 223257,
   "EOS_Completed": 2193,
-  "EOS_NewPlayers": 2209,
+  "EOS_NewPlayers": 2200,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -19064,6 +19064,11 @@
       "Time": "2023-08-19T08:08:55.4382201+00:00",
       "NumProgressed": 223250,
       "NumCompleted": 2193
+    },
+    {
+      "Time": "2023-08-19T09:07:30.5743546+00:00",
+      "NumProgressed": 223257,
+      "NumCompleted": 2193
     }
   ],
   "TotalAchievements": 516,
@@ -19075,7 +19080,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2232
+      "UsersEstimate": 2233
     },
     {
       "ID": "objective_completed_10",
@@ -19083,7 +19088,7 @@
       "Name": "Maddening",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "objective_completed_100",
@@ -19633,9 +19638,9 @@
       "ID": "objective_completed_114",
       "SetID": "cc37lbc",
       "Name": "Supply Run",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 223
+      "UsersEstimate": 447
     },
     {
       "ID": "objective_completed_1142",
@@ -19939,7 +19944,7 @@
       "Name": "Were-verpowered",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "objective_completed_1203",
@@ -20051,7 +20056,7 @@
       "Name": "A Persistent Buzzing",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "objective_completed_130",
@@ -20195,7 +20200,7 @@
       "Name": "Terror in the Dark",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "objective_completed_150",
@@ -20755,7 +20760,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "objective_completed_35",
@@ -20763,7 +20768,7 @@
       "Name": "The Crumbling Temple",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "objective_completed_36",
@@ -20867,7 +20872,7 @@
       "Name": "Seeking Allies",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "objective_completed_390",
@@ -20939,7 +20944,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "objective_completed_40",
@@ -21211,7 +21216,7 @@
       "Name": "Mad Cow Disease",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "objective_completed_54",
@@ -21219,7 +21224,7 @@
       "Name": "Exploring Port Nyanzaru",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "objective_completed_540",
@@ -22291,7 +22296,7 @@
       "Name": "Friendly Imps",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "objective_completed_80",
@@ -22819,7 +22824,7 @@
       "Name": "Pure Energy",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "objective_completed_902",
@@ -23202,21 +23207,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 189524,
+      "Progressed": 189531,
       "Completed": 3267
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 223250,
+      "Progressed": 223257,
       "Completed": 2193
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-18T23:00:15.4961669+00:00",
-  "LastChanged_Achievements": "2023-08-19T08:08:55.4382195+00:00",
+  "LastChanged_Achievements": "2023-08-19T09:07:30.5743539+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:12.3267162+00:00",
-  "LastUpdate_Ratings": "2023-08-19T08:03:44.0299299+00:00",
-  "LastUpdate_Achievements": "2023-08-19T08:08:55.4415871+00:00"
+  "LastUpdate_Ratings": "2023-08-19T09:02:09.0910924+00:00",
+  "LastUpdate_Achievements": "2023-08-19T09:07:30.5774033+00:00"
 }

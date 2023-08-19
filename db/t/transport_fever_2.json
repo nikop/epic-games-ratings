@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 260,
   "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
     "PcReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -552,9 +552,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 1569,
+  "EOS_Progressed": 1570,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3192,6 +3192,11 @@
       "Time": "2023-08-18T21:07:00.1213783+00:00",
       "NumProgressed": 1569,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-19T09:09:00.882156+00:00",
+      "NumProgressed": 1570,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 61,
@@ -3203,7 +3208,7 @@
       "Name": "Transport shark",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "achAccumulate100MHard",
@@ -3243,7 +3248,7 @@
       "Name": "Transport millionaire",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "achAircraftEarnings",
@@ -3299,7 +3304,7 @@
       "Name": "First bus stop",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 1114
+      "UsersEstimate": 1115
     },
     {
       "ID": "achBuildTrainStation",
@@ -3307,7 +3312,7 @@
       "Name": "First train station",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1004
+      "UsersEstimate": 1005
     },
     {
       "ID": "achCannotGetEnough",
@@ -3323,7 +3328,7 @@
       "Name": "City",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "achCollectAllMedals",
@@ -3353,9 +3358,9 @@
       "ID": "achCompleteCampaignC",
       "SetID": "dgl390n",
       "Name": "Campaign shark",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 94
     },
     {
       "ID": "achCompleteFirstMission",
@@ -3371,7 +3376,7 @@
       "Name": "First line",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 1208
+      "UsersEstimate": 1209
     },
     {
       "ID": "achCrowdInATrain",
@@ -3379,7 +3384,7 @@
       "Name": "Crowd in a train",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "achEmissionLevel",
@@ -3403,7 +3408,7 @@
       "Name": "First aircraft arrived",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "achFirstBusArrived",
@@ -3419,7 +3424,7 @@
       "Name": "First cargo item on board",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 1114
+      "UsersEstimate": 1115
     },
     {
       "ID": "achFirstCargoWaiting",
@@ -3427,7 +3432,7 @@
       "Name": "First cargo item waiting",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 1114
+      "UsersEstimate": 1115
     },
     {
       "ID": "achFirstElectricTrainArrived",
@@ -3435,7 +3440,7 @@
       "Name": "First electric train arrived",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "achFirstIndustryUpgrade",
@@ -3451,7 +3456,7 @@
       "Name": "First passenger on board",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 1051
+      "UsersEstimate": 1052
     },
     {
       "ID": "achFirstPassengerWaiting",
@@ -3459,7 +3464,7 @@
       "Name": "First passenger waiting",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 1051
+      "UsersEstimate": 1052
     },
     {
       "ID": "achFirstShipArrived",
@@ -3475,7 +3480,7 @@
       "Name": "First steam train arrived",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 941
+      "UsersEstimate": 942
     },
     {
       "ID": "achGlacierExpress",
@@ -3491,7 +3496,7 @@
       "Name": "Heavily loaded",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "achHq",
@@ -3523,7 +3528,7 @@
       "Name": "Sculpturer",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "achLongestTrain",
@@ -3547,7 +3552,7 @@
       "Name": "Mass production",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "achMetropolis",
@@ -3603,7 +3608,7 @@
       "Name": "The future is now, old man",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "achShipEarnings",
@@ -3690,15 +3695,15 @@
     {
       "ID": "dgl390n",
       "IsBase": true,
-      "Progressed": 1569,
+      "Progressed": 1570,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-08-17T14:57:18.7494823+00:00",
-  "LastChanged_Achievements": "2023-08-19T08:10:25.4140134+00:00",
-  "LastUpdate_AppInfo": "2023-08-12T07:57:41.7725812+00:00",
-  "LastUpdate_Ratings": "2023-08-19T08:00:33.9332535+00:00",
-  "LastUpdate_Achievements": "2023-08-19T08:10:25.4140918+00:00"
+  "LastChanged_Achievements": "2023-08-19T09:09:00.8821552+00:00",
+  "LastUpdate_AppInfo": "2023-08-19T08:57:42.2047578+00:00",
+  "LastUpdate_Ratings": "2023-08-19T08:58:58.1180948+00:00",
+  "LastUpdate_Achievements": "2023-08-19T09:09:00.882234+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
     "PcReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -280,9 +280,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 529,
+  "EOS_Progressed": 530,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1505,6 +1505,11 @@
       "Time": "2023-08-18T20:04:35.9917264+00:00",
       "NumProgressed": 529,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-19T09:06:52.0951766+00:00",
+      "NumProgressed": 530,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 19,
@@ -1516,7 +1521,7 @@
       "Name": "Safe Pair of Hands",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "cool-shirts",
@@ -1580,7 +1585,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "play-at-night",
@@ -1602,9 +1607,9 @@
       "ID": "rage-quit",
       "SetID": "bed33dd",
       "Name": "Bad Trip",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 249
+      "UsersEstimate": 244
     },
     {
       "ID": "rename-lieutenant",
@@ -1650,9 +1655,9 @@
       "ID": "upgrade-building",
       "SetID": "bed33dd",
       "Name": "Take-Off",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 423
+      "UsersEstimate": 419
     },
     {
       "ID": "use-submarine",
@@ -1667,15 +1672,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 529,
+      "Progressed": 530,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-08-19T08:08:16.6050469+00:00",
+  "LastChanged_Achievements": "2023-08-19T09:06:52.0951755+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:20.196846+00:00",
-  "LastUpdate_Ratings": "2023-08-19T08:00:57.3287873+00:00",
-  "LastUpdate_Achievements": "2023-08-19T08:08:16.6050746+00:00"
+  "LastUpdate_Ratings": "2023-08-19T08:59:24.3201469+00:00",
+  "LastUpdate_Achievements": "2023-08-19T09:06:52.0951985+00:00"
 }
