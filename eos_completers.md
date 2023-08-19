@@ -9,7 +9,7 @@
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 26.00% |
 | 8 | [Overloop](games/o/overloop.md) | 25.00% |
 | 9 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 10 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 22.90% |
+| 10 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 22.73% |
 | 11 | [Volley Pals](games/v/volley_pals.md) | 22.45% |
 | 12 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 12 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
@@ -19,7 +19,7 @@
 | 17 | [Island Cities](games/i/island_cities.md) | 18.00% |
 | 18 | [Anna's Quest](games/a/anna's_quest.md) | 14.71% |
 | 19 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.55% |
-| 20 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.11% |
+| 20 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.15% |
 | 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.17% |
 | 22 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 22 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
@@ -37,7 +37,7 @@
 | 34 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.69% |
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.53% |
 | 37 | [Smelter](games/s/smelter.md) | 7.50% |
-| 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.94% |
+| 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.00% |
 | 39 | [Scorn](games/s/scorn.md) | 6.93% |
 | 40 | [Time Loader](games/t/time_loader.md) | 6.78% |
 | 41 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.77% |
@@ -61,7 +61,7 @@
 | 59 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.15% |
 | 60 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.04% |
 | 61 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.92% |
-| 62 | [ZZT!](games/z/zzt!.md) | 3.83% |
+| 62 | [ZZT!](games/z/zzt!.md) | 3.82% |
 | 63 | [Without Escape](games/w/without_escape.md) | 3.57% |
 | 64 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 65 | [Doodle God](games/d/doodle_god.md) | 3.45% |
@@ -93,10 +93,10 @@
 | 91 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.94% |
 | 92 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.92% |
 | 93 | [Night Book](games/n/night_book.md) | 1.89% |
-| 94 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 1.86% |
-| 95 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
-| 96 | [Frogun](games/f/frogun.md) | 1.81% |
-| 96 | [Sifu](games/s/sifu.md) | 1.81% |
+| 94 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
+| 95 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 1.81% |
+| 95 | [Frogun](games/f/frogun.md) | 1.81% |
+| 95 | [Sifu](games/s/sifu.md) | 1.81% |
 | 98 | [Somerville](games/s/somerville.md) | 1.67% |
 | 98 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.67% |
 | 100 | [Iron Danger](games/i/iron_danger.md) | 1.61% |
@@ -131,11 +131,11 @@
 | 128 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.72% |
 | 130 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.70% |
 | 131 | [Haven](games/h/haven.md) | 0.64% |
-| 132 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
 | 132 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.62% |
 | 132 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.62% |
 | 132 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.62% |
-| 136 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.61% |
+| 135 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.61% |
+| 135 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.61% |
 | 137 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.60% |
 | 138 | [Potion Permit](games/p/potion_permit.md) | 0.58% |
 | 139 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.57% |
