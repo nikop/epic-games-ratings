@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 152,
-  "Ranking_EOS_NewPlayers": 100,
+  "Ranking_EOS_NewPlayers": 98,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -212,9 +212,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7144,
+  "EOS_Progressed": 7150,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 194,
+  "EOS_NewPlayers": 199,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -5937,6 +5937,11 @@
       "Time": "2023-08-19T07:06:17.1219091+00:00",
       "NumProgressed": 7144,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-08-19T08:09:51.5576373+00:00",
+      "NumProgressed": 7150,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 21,
@@ -5948,7 +5953,7 @@
       "Name": "Ahem Ahem",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 714
+      "UsersEstimate": 715
     },
     {
       "ID": "ARRR",
@@ -5964,7 +5969,7 @@
       "Name": "Audiophile",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "BODY_AND_SOUL",
@@ -5980,7 +5985,7 @@
       "Name": "\u00C7a de Wizz!",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "CLAY_PIGEON",
@@ -5996,7 +6001,7 @@
       "Name": "Energy Saver",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 1143
+      "UsersEstimate": 1144
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -6028,7 +6033,7 @@
       "Name": "Happy Camper",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "HISTORIAN",
@@ -6052,7 +6057,7 @@
       "Name": "In a Pinch",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1500
+      "UsersEstimate": 1502
     },
     {
       "ID": "LIBERATOR",
@@ -6076,7 +6081,7 @@
       "Name": "Shredder",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "SNIP_SNIP",
@@ -6100,7 +6105,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "THING",
@@ -6108,14 +6113,14 @@
       "Name": "Thing",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     }
   ],
   "AchievementSets": [
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7144,
+      "Progressed": 7150,
       "Completed": 32
     }
   ],
@@ -6123,8 +6128,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-08-07T01:56:04.2387619+00:00",
-  "LastChanged_Achievements": "2023-08-19T07:06:17.1219085+00:00",
-  "LastUpdate_AppInfo": "2023-08-12T06:57:36.6050185+00:00",
-  "LastUpdate_Ratings": "2023-08-19T07:00:02.9371385+00:00",
-  "LastUpdate_Achievements": "2023-08-19T07:06:17.1219605+00:00"
+  "LastChanged_Achievements": "2023-08-19T08:09:51.5576367+00:00",
+  "LastUpdate_AppInfo": "2023-08-19T07:57:55.8261903+00:00",
+  "LastUpdate_Ratings": "2023-08-19T08:03:29.0506923+00:00",
+  "LastUpdate_Achievements": "2023-08-19T08:09:51.5576968+00:00"
 }

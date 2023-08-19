@@ -7,8 +7,8 @@ Rating: 4.44 (Ranked 648)
 | ---- | ---------- | ----- |
 | Meeting Resistance | 46.00% | ~1,608 |
 | Confirming Suspicions | 40.00% | ~1,398 |
-| The Kraken Wakes | 35.00% | ~1,223 |
-| It's Starting to Crack | 32.00% | ~1,118 |
+| The Kraken Wakes | 35.00% | ~1,224 |
+| It's Starting to Crack | 32.00% | ~1,119 |
 | Lord of War | 29.00% | ~1,014 |
 | Change the Channel | 29.00% | ~1,014 |
 | Taking it back | 27.00% | ~944 |
@@ -33,7 +33,7 @@ Rating: 4.44 (Ranked 648)
 | Fields of Glory | 13.00% | ~454 |
 | Skirmisher | 13.00% | ~454 |
 | Die Nussknacker Sweet! | 13.00% | ~454 |
-| Set Europe Ablaze | 12.00% | ~419 |
+| Set Europe Ablaze | 12.00% | ~420 |
 | Precision Is Key | 9.00% | ~315 |
 | My Little Friend | 9.00% | ~315 |
 | Rigged to Blow | 8.00% | ~280 |
@@ -77,7 +77,7 @@ Rating: 4.44 (Ranked 648)
 | Stroll in the Woods | 0.60% | ~21 |
 | Going Overboard | 0.60% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,495 (Ranked 152)  
+Progressed: 3,496 (Ranked 152)  
 Completed: 9 (0.26%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 9 (0.26%) (Ranked 175)
 | 2023-08-16 | 3,486 | 9 |
 | 2023-08-17 | 3,491 | 9 |
 | 2023-08-18 | 3,494 | 9 |
-| 2023-08-19 | 3,495 | 9 |
+| 2023-08-19 | 3,496 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

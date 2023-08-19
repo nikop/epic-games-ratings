@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 161,
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -2690,7 +2690,7 @@
       "Count": 315
     }
   ],
-  "EOS_Progressed": 16325,
+  "EOS_Progressed": 16327,
   "EOS_Completed": 45,
   "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 3,
@@ -9240,6 +9240,11 @@
       "Time": "2023-08-19T03:06:18.3416565+00:00",
       "NumProgressed": 16325,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-08-19T08:10:02.4848416+00:00",
+      "NumProgressed": 16327,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 50,
@@ -9251,7 +9256,7 @@
       "Name": "Serving Ale",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "AllFood",
@@ -9323,7 +9328,7 @@
       "Name": "Refinery",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "Win5Years",
@@ -9355,7 +9360,7 @@
       "Name": "Against All Odds",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "WinNearArmory",
@@ -9363,7 +9368,7 @@
       "Name": "Ruined Armory",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "WinNearBandit",
@@ -9403,7 +9408,7 @@
       "Name": "Dangerous Lands",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "WinNearFertile",
@@ -9419,7 +9424,7 @@
       "Name": "Fishmen Ritual Site",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "WinNearForbidden",
@@ -9427,7 +9432,7 @@
       "Name": "Forbidden Lands",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "WinNearHaunted",
@@ -9451,7 +9456,7 @@
       "Name": "Flooded Mines",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "WinNearMonastery",
@@ -9491,7 +9496,7 @@
       "Name": "Forsaken Gods Temple",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "WinNearTorrent",
@@ -9499,7 +9504,7 @@
       "Name": "Corrosive Torrent",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "WinNearWatchtower",
@@ -9611,7 +9616,7 @@
       "Name": "Like a Machine",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "WinWithTradeRoutes",
@@ -9635,7 +9640,7 @@
       "Name": "Defying the Crown",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "Year1Dangerous",
@@ -9643,22 +9648,22 @@
       "Name": "Into the Forest",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     }
   ],
   "AchievementSets": [
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 16325,
+      "Progressed": 16327,
       "Completed": 45
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-08-18T11:58:10.323375+00:00",
-  "LastChanged_Achievements": "2023-08-19T07:06:26.8795167+00:00",
+  "LastChanged_Achievements": "2023-08-19T08:10:02.4848407+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:15.5100545+00:00",
-  "LastUpdate_Ratings": "2023-08-19T06:58:01.6877059+00:00",
-  "LastUpdate_Achievements": "2023-08-19T07:06:26.8796041+00:00"
+  "LastUpdate_Ratings": "2023-08-19T08:01:10.5595385+00:00",
+  "LastUpdate_Achievements": "2023-08-19T08:10:02.4849905+00:00"
 }

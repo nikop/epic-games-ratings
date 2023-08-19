@@ -324,9 +324,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 66011,
+  "EOS_Progressed": 66015,
   "EOS_Completed": 346,
-  "EOS_NewPlayers": 736,
+  "EOS_NewPlayers": 739,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -13349,6 +13349,11 @@
       "Time": "2023-08-19T07:05:23.9886491+00:00",
       "NumProgressed": 66011,
       "NumCompleted": 346
+    },
+    {
+      "Time": "2023-08-19T08:08:50.4019101+00:00",
+      "NumProgressed": 66015,
+      "NumCompleted": 346
     }
   ],
   "TotalAchievements": 24,
@@ -13368,7 +13373,7 @@
       "Name": "AWAKEN",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 13862
+      "UsersEstimate": 13863
     },
     {
       "ID": "A_GUARDIAN_FORGOTTEN",
@@ -13376,7 +13381,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 44887
+      "UsersEstimate": 44890
     },
     {
       "ID": "BEST_FRIENDS",
@@ -13384,7 +13389,7 @@
       "Name": "BEST FRIENDS",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 14522
+      "UsersEstimate": 14523
     },
     {
       "ID": "BLOOMS_OF_LIGHT",
@@ -13392,7 +13397,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 17163
+      "UsersEstimate": 17164
     },
     {
       "ID": "ERADICATE",
@@ -13400,7 +13405,7 @@
       "Name": "ERADICATE",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 13862
+      "UsersEstimate": 13863
     },
     {
       "ID": "FETCH",
@@ -13408,7 +13413,7 @@
       "Name": "FETCH",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 17823
+      "UsersEstimate": 17824
     },
     {
       "ID": "FOXIN_AROUND",
@@ -13416,7 +13421,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 19143
+      "UsersEstimate": 19144
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -13424,7 +13429,7 @@
       "Name": "FOX? OR FLYING SQUIRREL?",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2640
+      "UsersEstimate": 2641
     },
     {
       "ID": "GARDEN_OF_LIGHT",
@@ -13432,7 +13437,7 @@
       "Name": "GARDEN OF LIGHT",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 11882
+      "UsersEstimate": 11883
     },
     {
       "ID": "INFUSED_WITH_LIGHT",
@@ -13440,7 +13445,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 34986
+      "UsersEstimate": 34988
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -13504,7 +13509,7 @@
       "Name": "SPIRIT BARK",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 13862
+      "UsersEstimate": 13863
     },
     {
       "ID": "SPIRIT_DASH",
@@ -13512,7 +13517,7 @@
       "Name": "SPIRIT DASH",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 7261
+      "UsersEstimate": 7262
     },
     {
       "ID": "SPIRIT_FORM",
@@ -13536,7 +13541,7 @@
       "Name": "WEIGHTLESS",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7921
+      "UsersEstimate": 7922
     },
     {
       "ID": "WRITTEN_IN_STONE",
@@ -13551,7 +13556,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 66011,
+      "Progressed": 66015,
       "Completed": 346
     }
   ],
@@ -13559,8 +13564,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-08-19T07:05:23.9886486+00:00",
-  "LastUpdate_AppInfo": "2023-08-12T06:59:14.4759947+00:00",
-  "LastUpdate_Ratings": "2023-08-19T07:01:36.4428215+00:00",
-  "LastUpdate_Achievements": "2023-08-19T07:05:23.9887544+00:00"
+  "LastChanged_Achievements": "2023-08-19T08:08:50.4019095+00:00",
+  "LastUpdate_AppInfo": "2023-08-19T08:00:00.2454686+00:00",
+  "LastUpdate_Ratings": "2023-08-19T08:05:22.7840884+00:00",
+  "LastUpdate_Achievements": "2023-08-19T08:08:50.4020493+00:00"
 }

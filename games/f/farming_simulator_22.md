@@ -8,16 +8,16 @@ Number of Ratings: 7,683  (23.09.2022)
 | ---- | ---------- | ----- |
 | Own use | 75.00% | ~35,536 |
 | I read Shakespeare and stuff | 64.00% | ~30,324 |
-| Just a sprinkle | 63.00% | ~29,850 |
-| I'm stumped | 61.00% | ~28,902 |
+| Just a sprinkle | 63.00% | ~29,851 |
+| I'm stumped | 61.00% | ~28,903 |
 | Plant get enough | 60.00% | ~28,429 |
 | It's just the beginning | 59.00% | ~27,955 |
-| This is just my weekend vehicle | 58.00% | ~27,481 |
+| This is just my weekend vehicle | 58.00% | ~27,482 |
 | Hard work pays off | 53.00% | ~25,112 |
 | It's never too late to farm | 49.00% | ~23,217 |
 | All out of Land | 44.00% | ~20,848 |
 | Field Trip | 43.00% | ~20,374 |
-| I like to switch it up | 40.00% | ~18,952 |
+| I like to switch it up | 40.00% | ~18,953 |
 | Help me to help you | 38.00% | ~18,005 |
 | Ultimutt Pawesomeness | 28.00% | ~13,267 |
 | Van Gogh | 26.00% | ~12,319 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~190 |
 | Raisin the stakes | 0.30% | ~142 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,381 (Ranked 90)  
+Progressed: 47,382 (Ranked 90)  
 Completed: 6 (0.01%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,15 +171,15 @@ Completed: 6 (0.01%) (Ranked 247)
 | 2023-08-16 | 47,278 | 6 |
 | 2023-08-17 | 47,322 | 6 |
 | 2023-08-18 | 47,370 | 6 |
-| 2023-08-19 | 47,381 | 6 |
+| 2023-08-19 | 47,382 | 6 |
 ## Awards
 Max (Great for Beginners): 4,760  (Ranked 69)  
-Sum: 39,252 (Ranked 31)  
+Sum: 39,254 (Ranked 31)  
 Diff (max vs sum): 38  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,760 |
-| This game is Educational | 4,084 |
+| This game is Educational | 4,086 |
 | This game is Relaxing | 4,077 |
 | This game has Quickly Understood Controls | 4,022 |
 | This game has Diverse Characters | 4,003 |
@@ -407,4 +407,4 @@ Diff (max vs sum): 38
 | 2023-08-16 | 4.69 | - | 4,746 | 39,201 |
 | 2023-08-17 | 4.69 | - | 4,746 | 39,213 |
 | 2023-08-18 | 4.69 | - | 4,755 | 39,244 |
-| 2023-08-19 | 4.69 | - | 4,760 | 39,252 |
+| 2023-08-19 | 4.69 | - | 4,760 | 39,254 |

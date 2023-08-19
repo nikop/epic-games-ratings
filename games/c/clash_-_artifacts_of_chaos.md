@@ -14,8 +14,8 @@
 | Freedom | 27.00% | ~28 |
 | Armored | 27.00% | ~28 |
 | Winner | 23.00% | ~24 |
+| Omnia Vincit Amor | 22.00% | ~23 |
 | The Pride of Moozhaw | 21.00% | ~22 |
-| Omnia Vincit Amor | 21.00% | ~22 |
 | Stilt House | 17.00% | ~18 |
 | Armor Collector | 13.00% | ~14 |
 | Corwid Hill | 13.00% | ~14 |
@@ -23,7 +23,7 @@
 | Total Eclipse | 9.00% | ~9 |
 | Your Training Is Complete | 7.00% | ~7 |
 | Red in Tooth and Claw | 6.00% | ~6 |
-| Vivid Dreams | 2.00% | ~2 |
+| Vivid Dreams | 3.00% | ~3 |
 | Broken Reflection | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 104 (Ranked 324)  

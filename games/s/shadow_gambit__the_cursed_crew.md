@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A New Journey | 68.00% | ~176 |
-| The Adventure Begins | 37.00% | ~96 |
-| Swabbie | 14.00% | ~36 |
-| With Great Power… | 12.00% | ~31 |
-| This Belongs in a Museum | 7.00% | ~18 |
-| Powder Monkey | 4.00% | ~10 |
+| A New Journey | 68.00% | ~179 |
+| The Adventure Begins | 37.00% | ~97 |
+| Swabbie | 15.00% | ~39 |
+| With Great Power… | 13.00% | ~34 |
+| This Belongs in a Museum | 8.00% | ~21 |
+| Powder Monkey | 4.00% | ~11 |
 | The Gambit Has Begun | 3.00% | ~8 |
 | Persistent Parasite | 3.00% | ~8 |
 | Fishy Fish | 3.00% | ~8 |
 | Somewhere Deep in the Lost Caribbean | 2.00% | ~5 |
 | Mirror Mirror on the Wall | 2.00% | ~5 |
 | Pirates Assemble! | 1.00% | ~3 |
-| Buccaneer | 0.40% | ~1 |
+| Buccaneer | 0.80% | ~2 |
 | Seadog | 0.40% | ~1 |
 | Privateer | 0.40% | ~1 |
 | Corsair | 0.40% | ~1 |
@@ -31,7 +31,7 @@
 | Welcome Back Jester | 0.40% | ~1 |
 | All Good Things | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 259 (Ranked 271)  
+Progressed: 263 (Ranked 269)  
 Completed: 0 (0.00%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -45,4 +45,4 @@ Completed: 0 (0.00%) (Ranked 260)
 | 2023-08-16 | 38 | 0 |
 | 2023-08-17 | 146 | 0 |
 | 2023-08-18 | 249 | 0 |
-| 2023-08-19 | 259 | 0 |
+| 2023-08-19 | 263 | 0 |

@@ -5,25 +5,25 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 51.00% | ~74 |
-| The 4 Pillars | 50.00% | ~72 |
+| The 4 Pillars | 50.00% | ~73 |
 | Capitalism | 19.00% | ~28 |
-| Indebted | 12.00% | ~17 |
-| There's something in those trees | 10.00% | ~14 |
-| Great Producer | 10.00% | ~14 |
-| Desert Rat | 10.00% | ~14 |
-| Green Energy | 10.00% | ~14 |
+| Indebted | 12.00% | ~18 |
+| There's something in those trees | 10.00% | ~15 |
+| Great Producer | 10.00% | ~15 |
+| Desert Rat | 10.00% | ~15 |
+| Green Energy | 10.00% | ~15 |
 | Desert Power | 8.00% | ~12 |
 | Health Care | 7.00% | ~10 |
 | Good payer | 7.00% | ~10 |
 | Ammo Tycoon | 7.00% | ~10 |
-| Jantine: the Misfortunes of Evil | 6.00% | ~9 |
 | Perfect Soldier | 6.00% | ~9 |
-| Healing | 6.00% | ~9 |
-| Pathfinder | 6.00% | ~9 |
-| Food Tycoon | 6.00% | ~9 |
 | Fuel Tycoon | 6.00% | ~9 |
+| Jantine: the Misfortunes of Evil | 5.00% | ~7 |
 | Supersoldier | 5.00% | ~7 |
+| Healing | 5.00% | ~7 |
+| Pathfinder | 5.00% | ~7 |
 | Self-sufficient | 5.00% | ~7 |
+| Food Tycoon | 5.00% | ~7 |
 | Medicine Tycoon | 5.00% | ~7 |
 | Outdoor Decorator | 4.00% | ~6 |
 | Property Bro | 4.00% | ~6 |
@@ -49,7 +49,7 @@
 | Against Adversity | 0.00% | ~0 |
 | People's Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 145 (Ranked 307)  
+Progressed: 146 (Ranked 307)  
 Completed: 0 (0.00%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,4 +81,4 @@ Completed: 0 (0.00%) (Ranked 260)
 | 2023-08-15 | 142 | 0 |
 | 2023-08-16 | 143 | 0 |
 | 2023-08-18 | 144 | 0 |
-| 2023-08-19 | 145 | 0 |
+| 2023-08-19 | 146 | 0 |

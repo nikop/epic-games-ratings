@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 61099,
+  "EOS_Progressed": 61102,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 392,
+  "EOS_NewPlayers": 393,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11702,6 +11702,11 @@
       "Time": "2023-08-19T07:06:31.5854048+00:00",
       "NumProgressed": 61099,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-19T08:10:08.0288834+00:00",
+      "NumProgressed": 61102,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -11713,7 +11718,7 @@
       "Name": "Follow the Light",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 22607
+      "UsersEstimate": 22608
     },
     {
       "ID": "02",
@@ -11961,7 +11966,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 17719
+      "UsersEstimate": 17720
     },
     {
       "ID": "33",
@@ -11985,7 +11990,7 @@
       "Name": "Let There Be Light",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 18330
+      "UsersEstimate": 18331
     },
     {
       "ID": "36",
@@ -12113,7 +12118,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1965
+      "UsersEstimate": 1966
     },
     {
       "ID": "52",
@@ -12248,21 +12253,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 61099,
+      "Progressed": 61102,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 24567,
+      "Progressed": 24570,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-19T07:06:31.5854042+00:00",
-  "LastUpdate_AppInfo": "2023-08-12T06:57:20.2881971+00:00",
-  "LastUpdate_Ratings": "2023-08-19T06:59:45.7034641+00:00",
-  "LastUpdate_Achievements": "2023-08-19T07:06:31.5855427+00:00"
+  "LastChanged_Achievements": "2023-08-19T08:10:08.0288827+00:00",
+  "LastUpdate_AppInfo": "2023-08-19T07:57:35.5614422+00:00",
+  "LastUpdate_Ratings": "2023-08-19T08:03:07.313489+00:00",
+  "LastUpdate_Achievements": "2023-08-19T08:10:08.0290762+00:00"
 }

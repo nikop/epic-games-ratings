@@ -2,7 +2,7 @@
   "ID": "3b661fd6a9724ac7b6ac6d10d0572511",
   "Name": "PAYDAY 2",
   "ProductSlug": "payday-2-c66369",
-  "Ranking_Rating": 428,
+  "Ranking_Rating": 427,
   "Ranking_Popularity": 51,
   "Ranking_PopularitySum": 73,
   "Ranking_EOS_Progress": 6,
@@ -3038,10 +3038,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 13225,
       "NumberOfAwardsMax": 6875
+    },
+    {
+      "Time": "2023-08-19T08:02:20.8577003+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 13236,
+      "NumberOfAwardsMax": 6875
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13225,
+  "NumberOfAwards": 13236,
   "NumberOfAwardsMax": 6875,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3073,7 +3079,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 669
+      "Count": 680
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3112,9 +3118,9 @@
       "Count": 719
     }
   ],
-  "EOS_Progressed": 1584758,
-  "EOS_Completed": 513,
-  "EOS_NewPlayers": 25135,
+  "EOS_Progressed": 1585012,
+  "EOS_Completed": 514,
+  "EOS_NewPlayers": 25139,
   "EOS_NewCompleters": 33,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -11352,6 +11358,11 @@
       "Time": "2023-08-19T06:03:10.3877499+00:00",
       "NumProgressed": 1584758,
       "NumCompleted": 513
+    },
+    {
+      "Time": "2023-08-19T08:05:41.305763+00:00",
+      "NumProgressed": 1585012,
+      "NumCompleted": 514
     }
   ],
   "TotalAchievements": 1328,
@@ -11419,7 +11430,7 @@
       "Name": "The Collector",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 4754
+      "UsersEstimate": 4755
     },
     {
       "ID": "armed_and_dangerous",
@@ -11435,7 +11446,7 @@
       "Name": "Would You Like Your Receipt?",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 4754
+      "UsersEstimate": 4755
     },
     {
       "ID": "armored_1",
@@ -12561,9 +12572,9 @@
       "ID": "brooklyn_1",
       "SetID": "bkjdbk8",
       "Name": "I Want to Get Away",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 7924
+      "UsersEstimate": 9510
     },
     {
       "ID": "brooklyn_2",
@@ -12785,9 +12796,9 @@
       "ID": "cac_28",
       "SetID": "bkjdbk8",
       "Name": "Virus",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 4754
+      "UsersEstimate": 6340
     },
     {
       "ID": "cac_29",
@@ -15977,9 +15988,9 @@
       "ID": "guilty_of_crime",
       "SetID": "61cefe3",
       "Name": "Guilty of Crime",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 4754
+      "UsersEstimate": 6340
     },
     {
       "ID": "halloween_1",
@@ -16115,7 +16126,7 @@
       "Name": "How Do You Like Me Now?",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 4754
+      "UsersEstimate": 4755
     },
     {
       "ID": "i_knew_what_i_was_doing_was_wrong",
@@ -17075,7 +17086,7 @@
       "Name": "No One Cared Who I Was...",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6339
+      "UsersEstimate": 6340
     },
     {
       "ID": "no_turning_back",
@@ -17083,7 +17094,7 @@
       "Name": "No Turning Back",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6339
+      "UsersEstimate": 6340
     },
     {
       "ID": "orange_1",
@@ -21867,7 +21878,7 @@
       "Name": "Armed to the Teeth",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 4754
+      "UsersEstimate": 4755
     },
     {
       "ID": "wwh_1",
@@ -21971,7 +21982,7 @@
       "Name": "You Gotta Start Somewhere",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 7924
+      "UsersEstimate": 7925
     },
     {
       "ID": "you_shall_not_pass",
@@ -21986,22 +21997,22 @@
     {
       "ID": "61cefe3",
       "IsBase": true,
-      "Progressed": 1584758,
-      "Completed": 513
+      "Progressed": 1585012,
+      "Completed": 514
     },
     {
       "ID": "bkjdbk8",
       "IsBase": false,
-      "Progressed": 1584758,
+      "Progressed": 1585012,
       "Completed": 22
     }
   ],
   "FirstSeen": "2023-06-08T18:57:07.8003815+00:00",
   "FirstSeenRating": "2023-06-09T03:57:04.3869033+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:50.4372379+00:00",
-  "LastChanged": "2023-08-19T06:59:07.371665+00:00",
-  "LastChanged_Achievements": "2023-08-19T06:03:10.3877492+00:00",
+  "LastChanged": "2023-08-19T08:02:20.8577002+00:00",
+  "LastChanged_Achievements": "2023-08-19T08:05:41.3057622+00:00",
   "LastUpdate_AppInfo": "2023-08-17T20:57:10.4408604+00:00",
-  "LastUpdate_Ratings": "2023-08-19T06:59:07.3716657+00:00",
-  "LastUpdate_Achievements": "2023-08-19T06:03:10.4043807+00:00"
+  "LastUpdate_Ratings": "2023-08-19T08:02:20.8577009+00:00",
+  "LastUpdate_Achievements": "2023-08-19T08:05:41.325274+00:00"
 }

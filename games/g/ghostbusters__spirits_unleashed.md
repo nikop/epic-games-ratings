@@ -181,13 +181,13 @@ Completed: 52 (0.21%) (Ranked 185)
 | 2023-08-19 | 25,188 | 52 |
 ## Awards
 Max (Great for Quick Sessions): 248  (Ranked 254)  
-Sum: 2,242 (Ranked 188)  
+Sum: 2,243 (Ranked 188)  
 Diff (max vs sum): 66  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 248 |
 | This game is Great for Beginners | 244 |
-| This game has Competitive Players | 230 |
+| This game has Competitive Players | 231 |
 | This game has Amazing Storytelling | 226 |
 | This game has Diverse Characters | 221 |
 | This game is Extremely Fun | 220 |
@@ -340,3 +340,4 @@ Diff (max vs sum): 66
 | 2023-08-15 | 4.49 | 247 | 2,237 |
 | 2023-08-17 | 4.49 | 248 | 2,241 |
 | 2023-08-18 | 4.49 | 248 | 2,242 |
+| 2023-08-19 | 4.49 | 248 | 2,243 |

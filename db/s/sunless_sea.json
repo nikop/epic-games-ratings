@@ -2,7 +2,7 @@
   "ID": "f672c20984f04f69936e6057feefe3d1",
   "Name": "Sunless Sea",
   "ProductSlug": "sunless-sea",
-  "Ranking_Rating": 428,
+  "Ranking_Rating": 427,
   "Ranking_Popularity": 269,
   "Ranking_PopularitySum": 342,
   "Ranking_EOS_Progress": 96,
@@ -685,7 +685,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 35777,
+  "EOS_Progressed": 35779,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 436,
   "EOS_NewCompleters": 0,
@@ -12950,6 +12950,11 @@
       "Time": "2023-08-19T07:05:59.4595695+00:00",
       "NumProgressed": 35777,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-19T08:09:31.4308112+00:00",
+      "NumProgressed": 35779,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -13025,7 +13030,7 @@
       "Name": "Salt\u0027s Curse",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3935
+      "UsersEstimate": 3936
     },
     {
       "ID": "ach_cursestone",
@@ -13049,7 +13054,7 @@
       "Name": "HE SUN THE SUN THE SUN T",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3935
+      "UsersEstimate": 3936
     },
     {
       "ID": "ach_deathofermod",
@@ -13129,7 +13134,7 @@
       "Name": "The Fall of the House",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 3935
+      "UsersEstimate": 3936
     },
     {
       "ID": "ach_invictus",
@@ -13161,7 +13166,7 @@
       "Name": "Pupil",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2504
+      "UsersEstimate": 2505
     },
     {
       "ID": "ach_legacyrival",
@@ -13177,7 +13182,7 @@
       "Name": "Salvager",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2504
+      "UsersEstimate": 2505
     },
     {
       "ID": "ach_legacyshipmate",
@@ -13185,7 +13190,7 @@
       "Name": "Shipmate",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3935
+      "UsersEstimate": 3936
     },
     {
       "ID": "ach_newstories",
@@ -13193,7 +13198,7 @@
       "Name": "Open Your Ears",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2504
+      "UsersEstimate": 2505
     },
     {
       "ID": "ach_portbell",
@@ -13305,7 +13310,7 @@
       "Name": "The Ascent of Man",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2504
+      "UsersEstimate": 2505
     },
     {
       "ID": "ach_sweetheart",
@@ -13392,15 +13397,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 35777,
+      "Progressed": 35779,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-07-28T14:59:59.8138313+00:00",
-  "LastChanged_Achievements": "2023-08-19T07:05:59.459569+00:00",
+  "LastChanged_Achievements": "2023-08-19T08:09:31.4308106+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:45.6858785+00:00",
-  "LastUpdate_Ratings": "2023-08-19T06:57:17.9628601+00:00",
-  "LastUpdate_Achievements": "2023-08-19T07:05:59.4596939+00:00"
+  "LastUpdate_Ratings": "2023-08-19T08:00:24.401405+00:00",
+  "LastUpdate_Achievements": "2023-08-19T08:09:31.4309391+00:00"
 }

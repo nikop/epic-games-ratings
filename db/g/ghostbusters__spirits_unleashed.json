@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewPlayers": 100,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -1762,10 +1762,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 2242,
       "NumberOfAwardsMax": 248
+    },
+    {
+      "Time": "2023-08-19T08:05:01.622971+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 2243,
+      "NumberOfAwardsMax": 248
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2242,
+  "NumberOfAwards": 2243,
   "NumberOfAwardsMax": 248,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1833,7 +1839,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 230
+      "Count": 231
     },
     {
       "Text": "This game has Playful Visuals",
@@ -1844,7 +1850,7 @@
   ],
   "EOS_Progressed": 25188,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 196,
+  "EOS_NewPlayers": 195,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -11207,9 +11213,9 @@
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-08-18T01:38:35.2005933+00:00",
-  "LastChanged_Achievements": "2023-08-19T07:04:28.4950881+00:00",
-  "LastUpdate_AppInfo": "2023-08-12T06:58:52.55817+00:00",
-  "LastUpdate_Ratings": "2023-08-19T07:01:19.2216281+00:00",
-  "LastUpdate_Achievements": "2023-08-19T07:04:28.4951865+00:00"
+  "LastChanged": "2023-08-19T08:05:01.6229709+00:00",
+  "LastChanged_Achievements": "2023-08-19T08:07:44.3501461+00:00",
+  "LastUpdate_AppInfo": "2023-08-19T07:59:37.9111082+00:00",
+  "LastUpdate_Ratings": "2023-08-19T08:05:01.6229714+00:00",
+  "LastUpdate_Achievements": "2023-08-19T08:07:44.3502834+00:00"
 }

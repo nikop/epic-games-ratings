@@ -6,9 +6,9 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 37.00% | ~22,607 |
-| Let There Be Light | 30.00% | ~18,330 |
-| Float Like a Butterfly | 29.00% | ~17,719 |
+| Follow the Light | 37.00% | ~22,608 |
+| Let There Be Light | 30.00% | ~18,331 |
+| Float Like a Butterfly | 29.00% | ~17,720 |
 | Nordic Walking | 23.00% | ~14,053 |
 | Bright Falls' Finest | 23.00% | ~14,053 |
 | Under a Thin Layer of Skin | 20.00% | ~12,220 |
@@ -35,7 +35,7 @@ Number of Ratings: 524  (23.09.2022)
 | Energized! | 10.00% | ~6,110 |
 | Right of Way | 9.00% | ~5,499 |
 | What Light Through Yonder Window | 8.00% | ~4,888 |
-| A Friend in Need | 8.00% | ~1,965 |
+| A Friend in Need | 8.00% | ~1,966 |
 | Tornado Wrangler | 7.00% | ~4,277 |
 | Departure | 7.00% | ~4,277 |
 | Hardboiled Writer | 6.00% | ~3,666 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~61 |
 | No Punctuation | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,099 (Ranked 85)  
+Progressed: 61,102 (Ranked 85)  
 Completed: 64 (0.10%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 64 (0.10%) (Ranked 206)
 | 2023-08-16 | 60,965 | 64 |
 | 2023-08-17 | 61,025 | 64 |
 | 2023-08-18 | 61,081 | 64 |
-| 2023-08-19 | 61,099 | 64 |
+| 2023-08-19 | 61,102 | 64 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

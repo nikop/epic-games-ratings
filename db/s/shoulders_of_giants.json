@@ -2,12 +2,12 @@
   "ID": "fa7346c113ff48d8b9a1b48f44a3a48e",
   "Name": "Shoulders of Giants",
   "ProductSlug": "shoulders-of-giants-61381f",
-  "Ranking_Rating": 733,
+  "Ranking_Rating": 732,
   "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-01-26T06:00:00+00:00",
@@ -72,9 +72,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2206,
+  "EOS_Progressed": 2207,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -1462,6 +1462,11 @@
       "Time": "2023-08-19T03:03:45.2540104+00:00",
       "NumProgressed": 2206,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-19T08:07:12.4281688+00:00",
+      "NumProgressed": 2207,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 19,
@@ -1513,7 +1518,7 @@
       "Name": "On the Shoulders of Giants",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 1941
+      "UsersEstimate": 1942
     },
     {
       "ID": "deal_damage",
@@ -1521,7 +1526,7 @@
       "Name": "Ouch",
       "Percentage": 55,
       "XP": 40,
-      "UsersEstimate": 1213
+      "UsersEstimate": 1214
     },
     {
       "ID": "defeat_enemies",
@@ -1545,7 +1550,7 @@
       "Name": "At Least We Have Each Other...",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 1654
+      "UsersEstimate": 1655
     },
     {
       "ID": "piercing_beam",
@@ -1561,7 +1566,7 @@
       "Name": "Turn Up The HEAT",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "reach_high_heat",
@@ -1577,7 +1582,7 @@
       "Name": "Frogbot",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1588
+      "UsersEstimate": 1589
     },
     {
       "ID": "save_planet_bestfriend",
@@ -1609,7 +1614,7 @@
       "Name": "Fun in the Stun",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 1169
+      "UsersEstimate": 1170
     },
     {
       "ID": "trash_truck",
@@ -1624,7 +1629,7 @@
     {
       "ID": "236b9eg",
       "IsBase": true,
-      "Progressed": 2206,
+      "Progressed": 2207,
       "Completed": 9
     }
   ],
@@ -1632,8 +1637,8 @@
   "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
   "LastChanged": "2023-06-30T03:59:49.3890269+00:00",
-  "LastChanged_Achievements": "2023-08-19T07:03:50.7442708+00:00",
+  "LastChanged_Achievements": "2023-08-19T08:07:12.4281682+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:11.546366+00:00",
-  "LastUpdate_Ratings": "2023-08-19T06:57:59.4069266+00:00",
-  "LastUpdate_Achievements": "2023-08-19T07:03:50.7442927+00:00"
+  "LastUpdate_Ratings": "2023-08-19T08:01:07.8473992+00:00",
+  "LastUpdate_Achievements": "2023-08-19T08:07:12.4282076+00:00"
 }

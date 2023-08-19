@@ -27,8 +27,8 @@ Rating: 4.35 (Ranked 753)
 | Zakariya Demir | 42.00% | ~173 |
 | Well-read | 39.00% | ~161 |
 | Cassandra Van den Bosch | 38.00% | ~157 |
-| The Secret | 37.00% | ~152 |
-| Gedeon Demir | 35.00% | ~144 |
+| The Secret | 38.00% | ~157 |
+| Gedeon Demir | 36.00% | ~148 |
 | Rehana Piette | 35.00% | ~144 |
 | Instinct is Marvellous | 33.00% | ~136 |
 | Ernesto da Silva | 33.00% | ~136 |
@@ -53,7 +53,7 @@ Rating: 4.35 (Ranked 753)
 | Work-life Balance | 2.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 412 (Ranked 237)  
-Completed: 6 (1.46%) (Ranked 105)  
+Completed: 6 (1.46%) (Ranked 106)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -2,7 +2,7 @@
   "ID": "456d95ca54814c8d98db2f52346ff5de",
   "Name": "The Dungeon of Naheulbeuk",
   "ProductSlug": "the-dungeon-of-naheulbeuk",
-  "Ranking_Rating": 428,
+  "Ranking_Rating": 427,
   "Ranking_Popularity": 289,
   "Ranking_PopularitySum": 366,
   "Ranking_EOS_Progress": 56,
@@ -672,9 +672,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 214375,
+  "EOS_Progressed": 214406,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3701,
+  "EOS_NewPlayers": 3717,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7482,6 +7482,11 @@
       "Time": "2023-08-19T07:05:39.6059775+00:00",
       "NumProgressed": 214375,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-19T08:09:08.9758577+00:00",
+      "NumProgressed": 214406,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -7549,7 +7554,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1929
+      "UsersEstimate": 1930
     },
     {
       "ID": "Chapter3",
@@ -7941,7 +7946,7 @@
       "Name": "Sowwy!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 40731
+      "UsersEstimate": 40737
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -8141,7 +8146,7 @@
       "Name": "Speedrun",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1929
+      "UsersEstimate": 1930
     },
     {
       "ID": "SupportCount4",
@@ -8196,21 +8201,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 214375,
+      "Progressed": 214406,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 214375,
+      "Progressed": 214406,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-18T09:01:01.93706+00:00",
-  "LastChanged_Achievements": "2023-08-19T07:05:39.6059769+00:00",
-  "LastUpdate_AppInfo": "2023-08-12T06:58:49.6773731+00:00",
-  "LastUpdate_Ratings": "2023-08-19T07:01:18.038791+00:00",
-  "LastUpdate_Achievements": "2023-08-19T07:05:39.6061289+00:00"
+  "LastChanged_Achievements": "2023-08-19T08:09:08.9758571+00:00",
+  "LastUpdate_AppInfo": "2023-08-19T07:59:36.4163589+00:00",
+  "LastUpdate_Ratings": "2023-08-19T08:05:00.2668926+00:00",
+  "LastUpdate_Achievements": "2023-08-19T08:09:08.9760701+00:00"
 }

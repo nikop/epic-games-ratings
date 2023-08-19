@@ -2,7 +2,7 @@
   "ID": "27d2f156f77b4202b9bc78e40a408b03",
   "Name": "Where The Water Tastes Like Wine",
   "ProductSlug": "where-the-water-tastes-like-wine",
-  "Ranking_Rating": 703,
+  "Ranking_Rating": 685,
   "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 548,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.4,
+  "Rating": 4.41,
   "NumberOfRatings": 34,
   "RatingHistory": [
     {
@@ -135,6 +135,12 @@
       "Rating": 4.4,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-08-19T08:02:33.5961967+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -152,8 +158,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:08.2507114+00:00",
-  "LastChanged": "2023-06-04T23:57:31.5398735+00:00",
+  "LastChanged": "2023-08-19T08:02:33.5961965+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:45.6766667+00:00",
-  "LastUpdate_Ratings": "2023-08-19T06:59:17.7677453+00:00",
-  "LastUpdate_Achievements": "2023-08-19T07:05:52.7213288+00:00"
+  "LastUpdate_Ratings": "2023-08-19T08:02:33.5961973+00:00",
+  "LastUpdate_Achievements": "2023-08-19T08:09:23.8234109+00:00"
 }
