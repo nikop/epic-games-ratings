@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 231,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1623,9 +1623,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13479,
+  "EOS_Progressed": 13481,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -9913,6 +9913,11 @@
       "Time": "2023-08-19T17:06:49.9163672+00:00",
       "NumProgressed": 13479,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-19T18:05:14.5173127+00:00",
+      "NumProgressed": 13481,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -10002,9 +10007,9 @@
       "ID": "ACHIEVEMENT_BABYLON_HANGING_GARDENS",
       "SetID": "9201eeb",
       "Name": "Hanging Gardens in Babylon",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 108
     },
     {
       "ID": "ACHIEVEMENT_BABYLON_ISHTAR_GATE",
@@ -10066,9 +10071,9 @@
       "ID": "ACHIEVEMENT_BYZANTIUM_HAGIA_SOPHIA",
       "SetID": "9201eeb",
       "Name": "Hagia Sophia in Byzantion",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_1",
@@ -10482,9 +10487,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_MIGHTY",
       "SetID": "9201eeb",
       "Name": "Mighty",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 108
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_NOBLE",
@@ -10570,9 +10575,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_VALIANT",
       "SetID": "9201eeb",
       "Name": "Valiant",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 121
+      "UsersEstimate": 135
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_VICTORIOUS",
@@ -11298,9 +11303,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_CHRISTIANITY",
       "SetID": "9201eeb",
       "Name": "Church of the Holy Sepulchre",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 81
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_JUDAISM",
@@ -11386,9 +11391,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_PYRAMIDS",
       "SetID": "9201eeb",
       "Name": "Pyramids",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 270
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_VIA_RECTA_SOUK",
@@ -11546,9 +11551,9 @@
       "ID": "ACHIEVEMENT_NATION_EGYPT",
       "SetID": "7l38kb8",
       "Name": "Egypt",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 54
     },
     {
       "ID": "ACHIEVEMENT_NATION_GREECE",
@@ -11730,9 +11735,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_BABYLONIA",
       "SetID": "7l38kb8",
       "Name": "Babylonian Paganism",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 270
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_CARTHAGE",
@@ -11810,9 +11815,9 @@
       "ID": "ACHIEVEMENT_ROMA_CIRCUS_MAXIMUS",
       "SetID": "9201eeb",
       "Name": "Circus Maximus in Roma",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 27
     },
     {
       "ID": "ACHIEVEMENT_ROMA_PANTHEON",
@@ -12291,21 +12296,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13479,
+      "Progressed": 13481,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13479,
+      "Progressed": 13481,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-19T13:01:48.8262222+00:00",
-  "LastChanged_Achievements": "2023-08-19T17:06:49.9163666+00:00",
+  "LastChanged_Achievements": "2023-08-19T18:05:14.5173123+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:59.678182+00:00",
-  "LastUpdate_Ratings": "2023-08-19T17:00:55.0690442+00:00",
-  "LastUpdate_Achievements": "2023-08-19T17:06:49.9174401+00:00"
+  "LastUpdate_Ratings": "2023-08-19T17:59:22.476548+00:00",
+  "LastUpdate_Achievements": "2023-08-19T18:05:14.5182401+00:00"
 }

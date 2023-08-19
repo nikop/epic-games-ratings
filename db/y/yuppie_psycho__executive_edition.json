@@ -2,13 +2,13 @@
   "ID": "ae51a606e31f409bac9e0216f3e757a2",
   "Name": "Yuppie Psycho: Executive Edition",
   "ProductSlug": "yuppie-psycho",
-  "Ranking_Rating": 257,
+  "Ranking_Rating": 258,
   "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 548,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 352,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 351,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2021-06-30T17:00:00+00:00",
     "PcReleaseDate": "2019-04-25T11:00:00+00:00",
@@ -88,8 +88,8 @@
   "FirstSeenRating": "2022-11-22T13:21:53.1522337+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.3839887+00:00",
   "LastChanged": "2023-07-16T13:58:53.0983559+00:00",
-  "LastChanged_Achievements": "2023-08-19T17:06:34.7943697+00:00",
+  "LastChanged_Achievements": "2023-08-19T18:05:02.8652776+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:52.6618336+00:00",
-  "LastUpdate_Ratings": "2023-08-19T17:01:38.9524306+00:00",
-  "LastUpdate_Achievements": "2023-08-19T17:06:34.7943738+00:00"
+  "LastUpdate_Ratings": "2023-08-19T17:59:53.9488871+00:00",
+  "LastUpdate_Achievements": "2023-08-19T18:05:02.8652807+00:00"
 }

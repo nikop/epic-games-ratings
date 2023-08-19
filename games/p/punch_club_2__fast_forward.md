@@ -61,12 +61,12 @@
 | Not little hacker | 32.00% | ~83 |
 | Careerist | 32.00% | ~83 |
 | Anyone can resist | 32.00% | ~83 |
+| The heart of the Resistance | 32.00% | ~83 |
 | Trap disarmed | 31.00% | ~80 |
 | Another world | 31.00% | ~80 |
 | Keep nature safe | 31.00% | ~80 |
 | Family comes first | 31.00% | ~80 |
 | The last bell ring | 31.00% | ~80 |
-| The heart of the Resistance | 31.00% | ~80 |
 | Silver’s past | 28.00% | ~73 |
 | Better cooking at home | 28.00% | ~73 |
 | The only right decision | 27.00% | ~70 |

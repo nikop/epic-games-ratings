@@ -6,17 +6,17 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 19.00% | ~40,781 |
+| Sowwy! | 19.00% | ~40,787 |
 | Where's that freaking Dwarf? | 2.00% | ~4,293 |
 | Alt+F4 | 2.00% | ~4,293 |
-| Déjà vu | 1.00% | ~2,146 |
-| Sock! SOCK! | 1.00% | ~2,146 |
+| Déjà vu | 1.00% | ~2,147 |
+| Sock! SOCK! | 1.00% | ~2,147 |
 | A beer, two curses, three companions | 0.90% | ~1,932 |
 | GG EZ | 0.90% | ~1,932 |
 | Speedrun | 0.90% | ~1,932 |
 | Fireproof Wizardess | 0.90% | ~1,932 |
 | DM intervention | 0.80% | ~1,717 |
-| Way of the Wimp | 0.70% | ~1,502 |
+| Way of the Wimp | 0.70% | ~1,503 |
 | Livin' in a dwarven paradise | 0.60% | ~1,288 |
 | The plot thickens... At the tavern | 0.60% | ~1,288 |
 | The demons' feast | 0.50% | ~1,073 |
@@ -30,23 +30,23 @@ Number of Ratings: 118  (23.09.2022)
 | Oh, when I'll be level 10... | 0.50% | ~1,073 |
 | Shiny and Crôm | 0.40% | ~859 |
 | The Statuette of Gladeulfeurah | 0.40% | ~859 |
+| The Famous Dungeon of Naheulbeuk | 0.40% | ~859 |
 | A tale of adventurers not quite like the others... | 0.40% | ~859 |
+| Look but don't touch | 0.40% | ~859 |
 | The beards of change | 0.40% | ~859 |
 | The Ranger of Chaos | 0.40% | ~859 |
 | I am the night | 0.40% | ~859 |
 | Thieves' Guild Accreditation | 0.40% | ~859 |
 | Res Judicata | 0.30% | ~644 |
-| The Famous Dungeon of Naheulbeuk | 0.30% | ~644 |
 | Dwarf Fortress | 0.30% | ~644 |
-| Look but don't touch | 0.30% | ~644 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.30% | ~644 |
 | Lust and Debauchery | 0.30% | ~644 |
+| Material Girl | 0.30% | ~644 |
 | Dead for good | 0.20% | ~429 |
 | We come in peace | 0.20% | ~429 |
 | Gargantua | 0.20% | ~429 |
 | In Navalu's footsteps | 0.20% | ~429 |
 | Lëgal Legend | 0.20% | ~429 |
-| Material Girl | 0.20% | ~429 |
 | Cursed die | 0.10% | ~215 |
 | Holistic Adventuring Party | 0.10% | ~215 |
 | Scholar of the Lands of Fangh | 0.10% | ~215 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Staff cut | 0.00% | ~0 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 214,638 (Ranked 56)  
+Progressed: 214,670 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,7 +175,7 @@ Completed: 2 (0.00%) (Ranked 261)
 | 2023-08-16 | 213,341 | 2 |
 | 2023-08-17 | 213,783 | 2 |
 | 2023-08-18 | 214,230 | 2 |
-| 2023-08-19 | 214,638 | 2 |
+| 2023-08-19 | 214,670 | 2 |
 ## Awards
 Max (Character Customization): 170  (Ranked 287)  
 Sum: 211 (Ranked 365)  

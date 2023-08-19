@@ -29,7 +29,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Developing Cities | 2.00% | ~270 |
 | Hanging Gardens | 2.00% | ~270 |
 | Oracle | 2.00% | ~270 |
+| Pyramids | 2.00% | ~270 |
 | Judaism | 2.00% | ~270 |
+| Babylonian Paganism | 2.00% | ~270 |
 | Greek Paganism | 2.00% | ~270 |
 | Naming Landmarks | 2.00% | ~270 |
 | Trade Caravan | 2.00% | ~270 |
@@ -41,6 +43,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Brilliant | 1.00% | ~135 |
 | Fountainhead | 1.00% | ~135 |
 | Great | 1.00% | ~135 |
+| Valiant | 1.00% | ~135 |
 | Wise | 1.00% | ~135 |
 | Legendary Cities | 1.00% | ~135 |
 | Strong Cities | 1.00% | ~135 |
@@ -55,31 +58,28 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lighthouse | 1.00% | ~135 |
 | Musaeum | 1.00% | ~135 |
 | Necropolis | 1.00% | ~135 |
-| Pyramids | 1.00% | ~135 |
 | Learn to Play 1 | 1.00% | ~135 |
 | Learn to Play 2 | 1.00% | ~135 |
 | Christianity | 1.00% | ~135 |
 | Manichaeism | 1.00% | ~135 |
-| Babylonian Paganism | 1.00% | ~135 |
 | Carthaginian Paganism | 1.00% | ~135 |
 | Egyptian Paganism | 1.00% | ~135 |
 | Roman Paganism | 1.00% | ~135 |
 | Zoroastrianism | 1.00% | ~135 |
 | Mythology | 1.00% | ~135 |
 | Intercessor | 0.90% | ~121 |
-| Valiant | 0.90% | ~121 |
 | Sages | 0.90% | ~121 |
 | Acropolis | 0.90% | ~121 |
 | Mausoleum | 0.90% | ~121 |
+| Hanging Gardens in Babylon | 0.80% | ~108 |
+| Mighty | 0.80% | ~108 |
 | Champions | 0.80% | ~108 |
 | Greece | 0.80% | ~108 |
 | Building Wonders | 0.80% | ~108 |
 | Points Victory | 0.80% | ~108 |
-| Hanging Gardens in Babylon | 0.70% | ~94 |
 | Beloved | 0.70% | ~94 |
 | Conqueror | 0.70% | ~94 |
 | Lion | 0.70% | ~94 |
-| Mighty | 0.70% | ~94 |
 | Victorious | 0.70% | ~94 |
 | Good Difficulty | 0.70% | ~94 |
 | Patrons | 0.70% | ~94 |
@@ -99,6 +99,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Iron | 0.60% | ~81 |
 | Circus Maximus | 0.60% | ~81 |
 | Hagia Sophia | 0.60% | ~81 |
+| Church of the Holy Sepulchre | 0.60% | ~81 |
 | Learn to Play 3 | 0.60% | ~81 |
 | Dualism | 0.60% | ~81 |
 | Redemption | 0.60% | ~81 |
@@ -113,7 +114,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong Difficulty | 0.50% | ~67 |
 | Hunters | 0.50% | ~67 |
 | Landowners | 0.50% | ~67 |
-| Church of the Holy Sepulchre | 0.50% | ~67 |
 | Adur Burzen-Mihr | 0.50% | ~67 |
 | Babylonia | 0.50% | ~67 |
 | Carthage | 0.50% | ~67 |
@@ -130,6 +130,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Old | 0.40% | ~54 |
 | Clerics | 0.40% | ~54 |
 | Learn to Play 4 | 0.40% | ~54 |
+| Egypt | 0.40% | ~54 |
 | Rome | 0.40% | ~54 |
 | One True Faith | 0.40% | ~54 |
 | Hittite Paganism | 0.40% | ~54 |
@@ -140,7 +141,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Peacemaker | 0.30% | ~40 |
 | Noble Difficulty | 0.30% | ~40 |
 | Cao'an | 0.30% | ~40 |
-| Egypt | 0.30% | ~40 |
 | Persia | 0.30% | ~40 |
 | Old World Order | 0.30% | ~40 |
 | Three Man Chariot | 0.30% | ~40 |
@@ -168,6 +168,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a MP Teams Game | 0.20% | ~27 |
 | Play a Network Game | 0.20% | ~27 |
 | Play a Play-By-Cloud Game | 0.20% | ~27 |
+| Circus Maximus in Roma | 0.20% | ~27 |
 | Capturing Cities | 0.20% | ~27 |
 | Ten Crowns | 0.20% | ~27 |
 | Siege Tower | 0.20% | ~27 |
@@ -181,6 +182,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Barbarian Horde | 0.10% | ~13 |
 | Battle of Opis | 0.10% | ~13 |
 | Blade of the Monkey | 0.10% | ~13 |
+| Hagia Sophia in Byzantion | 0.10% | ~13 |
 | Epic Victory (Carthage 1) | 0.10% | ~13 |
 | Gold Victory (Carthage 1) | 0.10% | ~13 |
 | Bronze Victory (Carthage 2) | 0.10% | ~13 |
@@ -257,7 +259,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a LAN Game | 0.10% | ~13 |
 | Punic Wars | 0.10% | ~13 |
 | Roman Papacy | 0.10% | ~13 |
-| Circus Maximus in Roma | 0.10% | ~13 |
 | Pantheon in Roma | 0.10% | ~13 |
 | Word of God | 0.10% | ~13 |
 | Great Ziggurat in Ur | 0.10% | ~13 |
@@ -282,7 +283,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Great Raging Horde | 0.00% | ~0 |
 | United Against The Horde | 0.00% | ~0 |
 | Before the Mongol Horde | 0.00% | ~0 |
-| Hagia Sophia in Byzantion | 0.00% | ~0 |
 | Liberator | 0.00% | ~0 |
 | Restorer | 0.00% | ~0 |
 | White Death | 0.00% | ~0 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,479 (Ranked 118)  
+Progressed: 13,481 (Ranked 118)  
 Completed: 5 (0.04%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -424,7 +424,7 @@ Completed: 5 (0.04%) (Ranked 231)
 | 2023-08-16 | 13,432 | 5 |
 | 2023-08-17 | 13,444 | 5 |
 | 2023-08-18 | 13,460 | 5 |
-| 2023-08-19 | 13,479 | 5 |
+| 2023-08-19 | 13,481 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,795 (Ranked 206)  

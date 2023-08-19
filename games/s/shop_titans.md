@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.10% | ~135 |
 | All Accounted For | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,773 (Ranked 66)  
+Progressed: 134,775 (Ranked 66)  
 Completed: 133 (0.10%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,10 +240,10 @@ Completed: 133 (0.10%) (Ranked 207)
 | 2023-08-16 | 134,622 | 133 |
 | 2023-08-17 | 134,688 | 133 |
 | 2023-08-18 | 134,736 | 133 |
-| 2023-08-19 | 134,773 | 133 |
+| 2023-08-19 | 134,775 | 133 |
 ## Awards
 Max (Great for Beginners): 4,705  (Ranked 71)  
-Sum: 27,111 (Ranked 47)  
+Sum: 27,112 (Ranked 47)  
 Diff (max vs sum): 24  
 | Award | Count |
 | ----- | ----- |
@@ -253,7 +253,7 @@ Diff (max vs sum): 24
 | This game has Diverse Characters | 3,854 |
 | This game is Highly Recommended | 3,735 |
 | This game has Easy Combat | 3,675 |
-| This game has Playful Visuals | 3,155 |
+| This game has Playful Visuals | 3,156 |
 | This game has Inclusive Character Customization | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -465,4 +465,4 @@ Diff (max vs sum): 24
 | 2023-08-16 | 3.99 | - | 4,701 | 27,104 |
 | 2023-08-17 | 3.99 | - | 4,704 | 27,109 |
 | 2023-08-18 | 3.99 | - | 4,704 | 27,110 |
-| 2023-08-19 | 3.99 | - | 4,705 | 27,111 |
+| 2023-08-19 | 3.99 | - | 4,705 | 27,112 |

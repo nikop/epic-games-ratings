@@ -14,7 +14,7 @@ Rating: 4.56 (Ranked 472)
 | Chunky | 50.00% | ~188 |
 | Shall we play a game? | 48.00% | ~181 |
 | Boat of love, boat of love | 48.00% | ~181 |
-| School's out | 42.00% | ~158 |
+| School's out | 43.00% | ~162 |
 | Scaffolding Expert | 37.00% | ~139 |
 | Elysian Minigame-Master | 37.00% | ~139 |
 | Sole Music | 36.00% | ~136 |

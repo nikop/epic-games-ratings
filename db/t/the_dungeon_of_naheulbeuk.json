@@ -678,9 +678,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 214638,
+  "EOS_Progressed": 214670,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3637,
+  "EOS_NewPlayers": 3629,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7538,6 +7538,11 @@
       "Time": "2023-08-19T17:06:30.7790416+00:00",
       "NumProgressed": 214638,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-19T18:05:00.1836597+00:00",
+      "NumProgressed": 214670,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -7581,7 +7586,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1502
+      "UsersEstimate": 1503
     },
     {
       "ID": "BookCollection",
@@ -7597,7 +7602,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2146
+      "UsersEstimate": 2147
     },
     {
       "ID": "Chapter2",
@@ -7899,9 +7904,9 @@
       "ID": "DifficultyHero",
       "SetID": "50chcgj",
       "Name": "The Famous Dungeon of Naheulbeuk",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 644
+      "UsersEstimate": 859
     },
     {
       "ID": "DifficultyIronManNoCompanion",
@@ -7981,15 +7986,15 @@
       "Name": "Sock! SOCK!",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2146
+      "UsersEstimate": 2147
     },
     {
       "ID": "ElfEpic",
       "SetID": "50chcgj",
       "Name": "Look but don\u0027t touch",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 644
+      "UsersEstimate": 859
     },
     {
       "ID": "ElfHitTwoFriends",
@@ -7997,7 +8002,7 @@
       "Name": "Sowwy!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 40781
+      "UsersEstimate": 40787
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -8235,9 +8240,9 @@
       "ID": "WizardEpic",
       "SetID": "50chcgj",
       "Name": "Material Girl",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 429
+      "UsersEstimate": 644
     },
     {
       "ID": "WizardResistBurn",
@@ -8252,21 +8257,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 214638,
+      "Progressed": 214670,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 214638,
+      "Progressed": 214670,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-19T12:00:42.0371469+00:00",
-  "LastChanged_Achievements": "2023-08-19T17:06:30.7790412+00:00",
+  "LastChanged_Achievements": "2023-08-19T18:05:00.1836591+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:36.4163589+00:00",
-  "LastUpdate_Ratings": "2023-08-19T17:02:22.9733268+00:00",
-  "LastUpdate_Achievements": "2023-08-19T17:06:30.779164+00:00"
+  "LastUpdate_Ratings": "2023-08-19T18:00:28.6144578+00:00",
+  "LastUpdate_Achievements": "2023-08-19T18:05:00.1838075+00:00"
 }
