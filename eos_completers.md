@@ -22,8 +22,8 @@
 | 20 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.11% |
 | 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.17% |
 | 22 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
-| 22 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.11% |
 | 22 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
+| 24 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.09% |
 | 25 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.71% |
 | 26 | [Remains](games/r/remains.md) | 10.64% |
 | 27 | [Out of Bounds](games/o/out_of_bounds.md) | 10.34% |
@@ -52,7 +52,7 @@
 | 50 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.19% |
 | 51 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.92% |
 | 52 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 4.76% |
-| 53 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.75% |
+| 53 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.74% |
 | 54 | [Bugsnax](games/b/bugsnax.md) | 4.71% |
 | 55 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.69% |
 | 56 | [JARS](games/j/jars.md) | 4.55% |
@@ -72,8 +72,8 @@
 | 70 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.12% |
 | 71 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.04% |
 | 72 | [Monster Harvest](games/m/monster_harvest.md) | 2.94% |
-| 73 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.93% |
 | 73 | [MultiVersus](games/m/multiversus.md) | 2.93% |
+| 74 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.92% |
 | 75 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.78% |
 | 76 | [Destiny 2](games/d/destiny_2.md) | 2.74% |
 | 77 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
@@ -104,10 +104,10 @@
 | 101 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.57% |
 | 103 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.49% |
 | 104 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.47% |
-| 104 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 1.47% |
-| 106 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.46% |
-| 106 | [Ten Dates](games/t/ten_dates.md) | 1.46% |
-| 108 | [Poosh XL](games/p/poosh_xl.md) | 1.41% |
+| 105 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.46% |
+| 105 | [Ten Dates](games/t/ten_dates.md) | 1.46% |
+| 107 | [Poosh XL](games/p/poosh_xl.md) | 1.41% |
+| 108 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 1.38% |
 | 109 | [Late Shift](games/l/late_shift.md) | 1.29% |
 | 110 | [Infindustry](games/i/infindustry.md) | 1.27% |
 | 111 | [Chorus](games/c/chorus.md) | 1.15% |
