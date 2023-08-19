@@ -672,9 +672,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 214421,
+  "EOS_Progressed": 214443,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3709,
+  "EOS_NewPlayers": 3701,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7492,6 +7492,11 @@
       "Time": "2023-08-19T09:07:43.8863378+00:00",
       "NumProgressed": 214421,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-19T10:04:50.7528278+00:00",
+      "NumProgressed": 214443,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -7951,7 +7956,7 @@
       "Name": "Sowwy!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 40740
+      "UsersEstimate": 40744
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -7967,7 +7972,7 @@
       "Name": "GG EZ",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1715
+      "UsersEstimate": 1716
     },
     {
       "ID": "EndCombatOneHp",
@@ -7975,7 +7980,7 @@
       "Name": "DM intervention",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1715
+      "UsersEstimate": 1716
     },
     {
       "ID": "EndGameCursed",
@@ -7999,7 +8004,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4288
+      "UsersEstimate": 4289
     },
     {
       "ID": "FollowBraztok",
@@ -8197,30 +8202,30 @@
       "ID": "WizardResistBurn",
       "SetID": "50chcgj",
       "Name": "Fireproof Wizardess",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1715
+      "UsersEstimate": 1930
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 214421,
+      "Progressed": 214443,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 214421,
+      "Progressed": 214443,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-18T09:01:01.93706+00:00",
-  "LastChanged_Achievements": "2023-08-19T09:07:43.886337+00:00",
+  "LastChanged_Achievements": "2023-08-19T10:04:50.752826+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:36.4163589+00:00",
-  "LastUpdate_Ratings": "2023-08-19T09:03:23.7095163+00:00",
-  "LastUpdate_Achievements": "2023-08-19T09:07:43.8864824+00:00"
+  "LastUpdate_Ratings": "2023-08-19T10:00:14.3930562+00:00",
+  "LastUpdate_Achievements": "2023-08-19T10:04:50.7529759+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "a80b932e696e43e09ffbc8e01de1f90b",
   "Name": "Stygian: Reign of the Old Ones",
   "ProductSlug": "stygian-reign-of-the-old-ones-56e1d7",
-  "Ranking_Rating": 956,
+  "Ranking_Rating": 957,
   "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 548,
   "Ranking_EOS_Completed": 260,
   "Ranking_EOS_NewPlayers": 350,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-03-03T10:00:00+00:00",
     "PcReleaseDate": "2019-09-26T00:00:00+00:00",
@@ -50,6 +50,6 @@
   "FirstSeenRating": "2023-03-31T05:57:01.557654+00:00",
   "LastChanged": "2023-04-28T23:00:21.2649826+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:42.9078936+00:00",
-  "LastUpdate_Ratings": "2023-08-19T09:03:29.6814683+00:00",
-  "LastUpdate_Achievements": "2023-08-19T09:05:13.8489425+00:00"
+  "LastUpdate_Ratings": "2023-08-19T10:00:17.870321+00:00",
+  "LastUpdate_Achievements": "2023-08-19T10:03:06.9569149+00:00"
 }

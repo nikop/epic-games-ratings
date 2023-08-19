@@ -2,13 +2,13 @@
   "ID": "5a85738bd9e74940ad8409ed8a2c680a",
   "Name": "Slain: Back From Hell",
   "ProductSlug": "slain-aea303",
-  "Ranking_Rating": 798,
+  "Ranking_Rating": 799,
   "Ranking_Popularity": 311,
   "Ranking_PopularitySum": 403,
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 58,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 57,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -217,9 +217,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 34392,
+  "EOS_Progressed": 34394,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 842,
+  "EOS_NewPlayers": 840,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -13482,6 +13482,11 @@
       "Time": "2023-08-19T09:08:36.9738619+00:00",
       "NumProgressed": 34392,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-08-19T10:05:28.3066642+00:00",
+      "NumProgressed": 34394,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 29,
@@ -13501,7 +13506,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 6878
+      "UsersEstimate": 6879
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -13724,7 +13729,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 34392,
+      "Progressed": 34394,
       "Completed": 21
     }
   ],
@@ -13732,8 +13737,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-08-12T21:03:39.1122054+00:00",
-  "LastChanged_Achievements": "2023-08-19T09:08:36.9738612+00:00",
+  "LastChanged_Achievements": "2023-08-19T10:05:28.3066635+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:52.0390033+00:00",
-  "LastUpdate_Ratings": "2023-08-19T08:59:11.897538+00:00",
-  "LastUpdate_Achievements": "2023-08-19T09:08:36.9739854+00:00"
+  "LastUpdate_Ratings": "2023-08-19T09:57:16.3438048+00:00",
+  "LastUpdate_Achievements": "2023-08-19T10:05:28.3067682+00:00"
 }

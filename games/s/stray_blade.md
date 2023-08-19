@@ -9,7 +9,7 @@
 | Welcome to the Club | 31.00% | ~15 |
 | A new World ahead | 25.00% | ~12 |
 | Don't Cry Wolf | 21.00% | ~10 |
-| Can't touch this | 17.00% | ~8 |
+| Can't touch this | 19.00% | ~9 |
 | Apprentice | 17.00% | ~8 |
 | Freezing Cold | 8.00% | ~4 |
 | The Golden Flash | 8.00% | ~4 |

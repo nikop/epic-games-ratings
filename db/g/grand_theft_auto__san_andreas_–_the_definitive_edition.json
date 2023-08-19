@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewPlayers": 127,
   "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -712,9 +712,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12002,
+  "EOS_Progressed": 12003,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -9112,6 +9112,11 @@
       "Time": "2023-08-19T08:06:23.571586+00:00",
       "NumProgressed": 12002,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-08-19T10:03:04.3580368+00:00",
+      "NumProgressed": 12003,
+      "NumCompleted": 39
     }
   ],
   "TotalAchievements": 35,
@@ -9171,7 +9176,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 2280
+      "UsersEstimate": 2281
     },
     {
       "ID": "ACH08",
@@ -9179,7 +9184,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 6121
+      "UsersEstimate": 6122
     },
     {
       "ID": "ACH09",
@@ -9219,7 +9224,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 2160
+      "UsersEstimate": 2161
     },
     {
       "ID": "ACH14",
@@ -9243,7 +9248,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2040
+      "UsersEstimate": 2041
     },
     {
       "ID": "ACH17",
@@ -9402,7 +9407,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 12002,
+      "Progressed": 12003,
       "Completed": 39
     }
   ],
@@ -9410,8 +9415,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-08-18T21:57:47.3163804+00:00",
-  "LastChanged_Achievements": "2023-08-19T09:05:10.0274551+00:00",
+  "LastChanged_Achievements": "2023-08-19T10:03:04.3580361+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:04.3712405+00:00",
-  "LastUpdate_Ratings": "2023-08-19T08:59:33.9348017+00:00",
-  "LastUpdate_Achievements": "2023-08-19T09:05:10.0275416+00:00"
+  "LastUpdate_Ratings": "2023-08-19T09:57:33.6045786+00:00",
+  "LastUpdate_Achievements": "2023-08-19T10:03:04.3581133+00:00"
 }

@@ -1,24 +1,24 @@
 # A Game Of Thrones: The Board Game Digital Edition
 [Store](https://store.epicgames.com/en-US/p/a-game-of-thrones-5858a3)  
 [View Rawdata](../../db/a/a_game_of_thrones__the_board_game_digital_edition.json)  
-Rating: 4.20 (Ranked 857)  
+Rating: 4.20 (Ranked 858)  
 Number of Ratings: 2,500  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~8,717 |
-| Battering Crew | 20.00% | ~4,358 |
+| Conqueror | 40.00% | ~8,718 |
+| Battering Crew | 20.00% | ~4,359 |
 | The Kingsroad | 18.00% | ~3,923 |
 | Well Stocked | 14.00% | ~3,051 |
 | Royal Fleet | 13.00% | ~2,833 |
-| The Kraken’s Grasp | 9.00% | ~1,961 |
-| Daggers in the Dark | 8.00% | ~1,743 |
-| Oathkeeper | 8.00% | ~1,743 |
-| Alliance | 8.00% | ~1,743 |
-| A Long Journey | 8.00% | ~1,743 |
-| Ours is the Fury | 7.00% | ~1,525 |
-| Winter is Coming | 7.00% | ~1,525 |
-| Influential | 7.00% | ~1,525 |
+| The Kraken’s Grasp | 9.00% | ~1,962 |
+| Daggers in the Dark | 8.00% | ~1,744 |
+| Oathkeeper | 8.00% | ~1,744 |
+| Alliance | 8.00% | ~1,744 |
+| A Long Journey | 8.00% | ~1,744 |
+| Ours is the Fury | 7.00% | ~1,526 |
+| Winter is Coming | 7.00% | ~1,526 |
+| Influential | 7.00% | ~1,526 |
 | We Do Not Sow | 6.00% | ~1,308 |
 | Unbowed, Unbent, Unbroken | 6.00% | ~1,308 |
 | Hear me Roar! | 6.00% | ~1,308 |
@@ -29,7 +29,7 @@ Number of Ratings: 2,500  (23.09.2022)
 | King in the North | 2.00% | ~436 |
 | War of the Five Kings | 1.00% | ~218 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,792 (Ranked 105)  
+Progressed: 21,795 (Ranked 105)  
 Completed: 46 (0.21%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 46 (0.21%) (Ranked 185)
 | 2023-08-16 | 21,571 | 44 |
 | 2023-08-17 | 21,665 | 44 |
 | 2023-08-18 | 21,761 | 46 |
-| 2023-08-19 | 21,792 | 46 |
+| 2023-08-19 | 21,795 | 46 |
 ## Awards
 Max (Quickly Understood Controls): 123  (Ranked 315)  
 Sum: 786 (Ranked 263)  

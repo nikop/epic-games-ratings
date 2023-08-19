@@ -1,31 +1,31 @@
 # Call of the Wild: The Angler™
 [Store](https://store.epicgames.com/en-US/p/call-of-the-wild-the-angler)  
 [View Rawdata](../../db/c/call_of_the_wild__the_angler™.json)  
-Rating: 4.15 (Ranked 892)  
+Rating: 4.15 (Ranked 893)  
 Number of Ratings: 281  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 77.00% | ~3,796 |
-| Hey Good Hookin | 67.00% | ~3,303 |
-| I'm on a Boat! | 57.00% | ~2,810 |
-| Can you smell what the Rod is Hooking | 51.00% | ~2,514 |
-| Scaling up | 51.00% | ~2,514 |
+| Fish Just Got Reel | 77.00% | ~3,797 |
+| Hey Good Hookin | 67.00% | ~3,304 |
+| I'm on a Boat! | 57.00% | ~2,811 |
+| Can you smell what the Rod is Hooking | 51.00% | ~2,515 |
+| Scaling up | 51.00% | ~2,515 |
 | Ready to Rod and Roll | 43.00% | ~2,120 |
 | More Fish in the Sea | 42.00% | ~2,071 |
 | Fish Out of Water | 33.00% | ~1,627 |
 | License to Gill | 33.00% | ~1,627 |
-| Things that go Splash in the Night | 28.00% | ~1,380 |
+| Things that go Splash in the Night | 28.00% | ~1,381 |
 | Goldfish? | 27.00% | ~1,331 |
-| Going for Gold | 25.00% | ~1,232 |
+| Going for Gold | 25.00% | ~1,233 |
 | I'm Hooked! | 19.00% | ~937 |
 | Diamond in the Rough | 13.00% | ~641 |
 | More than a Tourist | 12.00% | ~592 |
 | Hook, Line and Sinker | 8.00% | ~394 |
 | Marathon | 8.00% | ~394 |
 | Big Fish Small Pond | 6.00% | ~296 |
-| I'm the Captain Now | 5.00% | ~246 |
-| School's Out for Summer | 5.00% | ~246 |
+| I'm the Captain Now | 5.00% | ~247 |
+| School's Out for Summer | 5.00% | ~247 |
 | The Beetles | 3.00% | ~148 |
 | Gonna Need a Bigger Boat | 3.00% | ~148 |
 | Rod and Troll | 2.00% | ~86 |
@@ -42,7 +42,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.10% | ~4 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,930 (Ranked 144)  
+Progressed: 4,931 (Ranked 144)  
 Completed: 0 (0.00%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 0 (0.00%) (Ranked 260)
 | 2023-08-16 | 4,914 | 0 |
 | 2023-08-17 | 4,921 | 0 |
 | 2023-08-18 | 4,927 | 0 |
-| 2023-08-19 | 4,930 | 0 |
+| 2023-08-19 | 4,931 | 0 |
 ## Awards
 Max (Relaxing): 32  (Ranked 453)  
 Sum: 159 (Ranked 393)  

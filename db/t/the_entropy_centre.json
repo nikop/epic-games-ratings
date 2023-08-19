@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 260,
   "Ranking_EOS_NewPlayers": 248,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2022-11-03T16:00:00+00:00",
@@ -915,17 +915,17 @@
       "ID": "ACH_ACT5",
       "SetID": "2310cb1",
       "Name": "Extendable Bridges",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 100
+      "UsersEstimate": 103
     },
     {
       "ID": "ACH_ACT6",
       "SetID": "2310cb1",
       "Name": "48 Attempts",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 88
+      "UsersEstimate": 91
     },
     {
       "ID": "ACH_ACT7",
@@ -1052,8 +1052,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-08-19T09:04:15.1073001+00:00",
+  "LastChanged_Achievements": "2023-08-19T10:00:40.8059788+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:59.681078+00:00",
-  "LastUpdate_Ratings": "2023-08-19T09:01:17.3968859+00:00",
-  "LastUpdate_Achievements": "2023-08-19T09:04:15.1073345+00:00"
+  "LastUpdate_Ratings": "2023-08-19T09:58:45.0433566+00:00",
+  "LastUpdate_Achievements": "2023-08-19T10:00:40.8060042+00:00"
 }

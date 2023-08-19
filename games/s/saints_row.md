@@ -1,28 +1,28 @@
 # Saints Row
 [Store](https://store.epicgames.com/en-US/p/saints-row)  
 [View Rawdata](../../db/s/saints_row.json)  
-Rating: 3.78 (Ranked 963)  
+Rating: 3.78 (Ranked 964)  
 Number of Ratings: 22,103  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 43.00% | ~26,874 |
-| To The Nines | 39.00% | ~24,374 |
-| Optimized | 34.00% | ~21,249 |
-| Performance Review | 33.00% | ~20,624 |
-| Making a Name | 32.00% | ~19,999 |
-| Tune Up | 31.00% | ~19,374 |
-| Landlord | 30.00% | ~18,749 |
-| Wet Work | 29.00% | ~18,124 |
-| The Side Job | 28.00% | ~17,499 |
-| Wrecking Ball | 25.00% | ~15,624 |
-| Food for Thought | 25.00% | ~15,624 |
-| Finders Keepers | 23.00% | ~14,374 |
-| A Young Empire | 23.00% | ~14,374 |
-| Work Ethic | 22.00% | ~13,749 |
-| Picking Fights | 18.00% | ~11,249 |
-| Quality Time | 17.00% | ~10,624 |
-| Power Players | 17.00% | ~10,624 |
+| First F#@!ing Day | 43.00% | ~26,875 |
+| To The Nines | 39.00% | ~24,375 |
+| Optimized | 34.00% | ~21,250 |
+| Performance Review | 33.00% | ~20,625 |
+| Making a Name | 32.00% | ~20,000 |
+| Tune Up | 31.00% | ~19,375 |
+| Landlord | 30.00% | ~18,750 |
+| The Side Job | 29.00% | ~18,125 |
+| Wet Work | 29.00% | ~18,125 |
+| Wrecking Ball | 25.00% | ~15,625 |
+| Food for Thought | 25.00% | ~15,625 |
+| Finders Keepers | 23.00% | ~14,375 |
+| A Young Empire | 23.00% | ~14,375 |
+| Work Ethic | 22.00% | ~13,750 |
+| Picking Fights | 18.00% | ~11,250 |
+| Quality Time | 17.00% | ~10,625 |
+| Power Players | 17.00% | ~10,625 |
 | Showdown | 15.00% | ~9,375 |
 | Et tu? | 15.00% | ~9,375 |
 | Took It to The Limit | 15.00% | ~9,375 |
@@ -53,14 +53,14 @@ Number of Ratings: 22,103  (23.09.2022)
 | It's a Bird! | 1.00% | ~625 |
 | The Collector | 1.00% | ~625 |
 | All Mine | 1.00% | ~625 |
-| Armor Piercing | 0.70% | ~437 |
+| Armor Piercing | 0.70% | ~438 |
 | Jack of All Trades | 0.60% | ~375 |
 | Heard You Like Wheels | 0.60% | ~375 |
-| Statement Pieces | 0.50% | ~312 |
+| Statement Pieces | 0.50% | ~313 |
 | A Car Named Simone | 0.20% | ~125 |
 | Fiesta Time | 0.20% | ~125 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,497 (Ranked 84)  
+Progressed: 62,501 (Ranked 84)  
 Completed: 42 (0.07%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 42 (0.07%) (Ranked 218)
 | 2023-08-16 | 62,100 | 39 |
 | 2023-08-17 | 62,253 | 42 |
 | 2023-08-18 | 62,418 | 42 |
-| 2023-08-19 | 62,497 | 42 |
+| 2023-08-19 | 62,501 | 42 |
 ## Awards
 Max (Extremely Fun): 1,056  (Ranked 141)  
 Sum: 8,579 (Ranked 95)  

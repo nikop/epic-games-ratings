@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 260,
   "Ranking_EOS_NewPlayers": 248,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -1638,9 +1638,9 @@
       "ID": "ACH_BREATHE_IN_BREATHE_OUT",
       "SetID": "108h92c",
       "Name": "Breathe In\u2026 Breathe Out\u2026",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 639
+      "UsersEstimate": 648
     },
     {
       "ID": "ACH_CAPTURED_KILLER_OF_CAERBANNOG",
@@ -1783,8 +1783,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-06-27T22:57:40.9300302+00:00",
-  "LastChanged_Achievements": "2023-08-19T09:05:59.3258315+00:00",
+  "LastChanged_Achievements": "2023-08-19T10:03:38.914119+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:58:01.1920213+00:00",
-  "LastUpdate_Ratings": "2023-08-19T09:01:18.3668175+00:00",
-  "LastUpdate_Achievements": "2023-08-19T09:05:59.3258579+00:00"
+  "LastUpdate_Ratings": "2023-08-19T09:58:47.0889559+00:00",
+  "LastUpdate_Achievements": "2023-08-19T10:03:38.9141896+00:00"
 }

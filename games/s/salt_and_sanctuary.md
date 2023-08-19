@@ -6,17 +6,17 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~440,613 |
-| The Three | 64.00% | ~339,750 |
+| Find Sanctuary | 83.00% | ~440,615 |
+| The Three | 64.00% | ~339,751 |
 | The Banquet | 40.00% | ~212,344 |
 | Devara's Light | 30.00% | ~159,258 |
 | The Iron Ones | 18.00% | ~95,555 |
-| The Village | 16.00% | ~84,937 |
-| The Forest | 14.00% | ~74,320 |
+| The Village | 16.00% | ~84,938 |
+| The Forest | 14.00% | ~74,321 |
 | Branded | 13.00% | ~69,012 |
 | The Imposter | 13.00% | ~69,012 |
 | The Keep | 13.00% | ~69,012 |
-| The Castle | 11.00% | ~58,394 |
+| The Castle | 11.00% | ~58,395 |
 | The Dome | 9.00% | ~47,777 |
 | The Red Hall | 9.00% | ~47,777 |
 | The Sacrifice | 8.00% | ~42,469 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,617 |
 | Fading Fast | 1.00% | ~5,309 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 530,859 (Ranked 30)  
+Progressed: 530,861 (Ranked 30)  
 Completed: 1,509 (0.28%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,10 +165,10 @@ Completed: 1,509 (0.28%) (Ranked 173)
 | 2023-08-16 | 530,660 | 1,508 |
 | 2023-08-17 | 530,735 | 1,509 |
 | 2023-08-18 | 530,819 | 1,509 |
-| 2023-08-19 | 530,859 | 1,509 |
+| 2023-08-19 | 530,861 | 1,509 |
 ## Awards
 Max (Challenging Combat): 278  (Ranked 242)  
-Sum: 1,928 (Ranked 201)  
+Sum: 1,929 (Ranked 201)  
 Diff (max vs sum): 41  
 | Award | Count |
 | ----- | ----- |
@@ -179,7 +179,7 @@ Diff (max vs sum): 41
 | This game is Extremely Fun | 235 |
 | This game has Amazing Storytelling | 229 |
 | This game has Amazing Characters | 224 |
-| This game has Unique Visuals | 217 |
+| This game has Unique Visuals | 218 |
 | This game has Obsessive Gameplay | 164 |
 | This game has a Creative Community | 94 |
 ## Ratings History
@@ -328,3 +328,4 @@ Diff (max vs sum): 41
 | 2023-08-11 | 4.61 | - | 277 | 1,926 |
 | 2023-08-13 | 4.61 | - | 277 | 1,927 |
 | 2023-08-17 | 4.61 | - | 278 | 1,928 |
+| 2023-08-19 | 4.61 | - | 278 | 1,929 |

@@ -2,7 +2,7 @@
   "ID": "af0ea01162704696bebf8633a52a7a6d",
   "Name": "Crime Boss: Rockay City",
   "ProductSlug": "crime-boss",
-  "Ranking_Rating": 946,
+  "Ranking_Rating": 947,
   "Ranking_Popularity": 215,
   "Ranking_PopularitySum": 204,
   "Ranking_EOS_Progress": 78,
@@ -3060,9 +3060,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 72022,
+  "EOS_Progressed": 72023,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 332,
+  "EOS_NewPlayers": 329,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -15685,6 +15685,11 @@
       "Time": "2023-08-19T09:09:39.9653902+00:00",
       "NumProgressed": 72022,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-08-19T10:06:12.2919955+00:00",
+      "NumProgressed": 72023,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 37,
@@ -15696,7 +15701,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 36011
+      "UsersEstimate": 36012
     },
     {
       "ID": "ACH_0011",
@@ -15704,7 +15709,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 20886
+      "UsersEstimate": 20887
     },
     {
       "ID": "ACH_0012",
@@ -15840,7 +15845,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 46814
+      "UsersEstimate": 46815
     },
     {
       "ID": "ACH_0210",
@@ -15848,7 +15853,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 53296
+      "UsersEstimate": 53297
     },
     {
       "ID": "ACH_0211",
@@ -15864,7 +15869,7 @@
       "Name": "Too Old for This",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 33850
+      "UsersEstimate": 33851
     },
     {
       "ID": "ACH_0300",
@@ -15920,7 +15925,7 @@
       "Name": "King of the Hill",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 24487
+      "UsersEstimate": 24488
     },
     {
       "ID": "ACH_0430",
@@ -15984,29 +15989,29 @@
       "Name": "Rockay Rex",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 7922
+      "UsersEstimate": 7923
     }
   ],
   "AchievementSets": [
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 72022,
+      "Progressed": 72023,
       "Completed": 41
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 369,
-      "Completed": 369
+      "Progressed": 370,
+      "Completed": 370
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-08-18T14:57:41.7090014+00:00",
-  "LastChanged_Achievements": "2023-08-19T09:09:39.9653895+00:00",
+  "LastChanged_Achievements": "2023-08-19T10:06:12.2919945+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:48.5211502+00:00",
-  "LastUpdate_Ratings": "2023-08-19T08:59:08.0584893+00:00",
-  "LastUpdate_Achievements": "2023-08-19T09:09:39.9655095+00:00"
+  "LastUpdate_Ratings": "2023-08-19T09:57:14.2727318+00:00",
+  "LastUpdate_Achievements": "2023-08-19T10:06:12.2921018+00:00"
 }

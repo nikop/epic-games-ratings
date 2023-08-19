@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 61,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -2739,9 +2739,9 @@
       "ID": "ACH_CASE_CLOSED",
       "SetID": "4kfb9pd",
       "Name": "Case Closed",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 55,
-      "UsersEstimate": 993
+      "UsersEstimate": 1020
     },
     {
       "ID": "ACH_CAT_LOVER",
@@ -2852,8 +2852,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-08-18T10:57:57.6054039+00:00",
-  "LastChanged_Achievements": "2023-08-19T09:05:11.9099847+00:00",
+  "LastChanged_Achievements": "2023-08-19T10:03:05.6247821+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:01.4911861+00:00",
-  "LastUpdate_Ratings": "2023-08-19T08:59:30.0385342+00:00",
-  "LastUpdate_Achievements": "2023-08-19T09:05:11.9100153+00:00"
+  "LastUpdate_Ratings": "2023-08-19T09:57:30.3349712+00:00",
+  "LastUpdate_Achievements": "2023-08-19T10:03:05.6248083+00:00"
 }

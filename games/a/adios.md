@@ -1,27 +1,27 @@
 # Adios
 [Store](https://store.epicgames.com/en-US/p/adios-b378b4)  
 [View Rawdata](../../db/a/adios.json)  
-Rating: 3.53 (Ranked 971)  
+Rating: 3.53 (Ranked 972)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Be Seeing You | 22.00% | ~15,507 |
-| Hard Worker | 20.00% | ~14,097 |
-| Master, Commander | 20.00% | ~14,097 |
-| Mechanic | 19.00% | ~13,392 |
-| Adios, Friendo | 18.00% | ~12,687 |
-| Bottom's Up | 18.00% | ~12,687 |
+| Be Seeing You | 22.00% | ~15,508 |
+| Hard Worker | 20.00% | ~14,098 |
+| Master, Commander | 20.00% | ~14,098 |
+| Mechanic | 19.00% | ~13,393 |
+| Adios, Friendo | 18.00% | ~12,688 |
+| Bottom's Up | 18.00% | ~12,688 |
 | Nice Try | 16.00% | ~11,278 |
-| Right On Target | 13.00% | ~9,163 |
-| Piano Man | 10.00% | ~7,048 |
+| Right On Target | 13.00% | ~9,164 |
+| Piano Man | 10.00% | ~7,049 |
 | Lazy Bones | 9.00% | ~6,344 |
 | Vinyl Vibes | 8.00% | ~5,639 |
 | Nothing Left to Say | 7.00% | ~4,934 |
 | Sniper | 7.00% | ~4,934 |
 | Cut Call | 6.00% | ~4,229 |
-| Butcher | 4.00% | ~2,819 |
-| Magnetic Miracles | 4.00% | ~2,819 |
-| Spicy | 4.00% | ~2,819 |
+| Butcher | 4.00% | ~2,820 |
+| Magnetic Miracles | 4.00% | ~2,820 |
+| Spicy | 4.00% | ~2,820 |
 | A Man Of Taste | 3.00% | ~2,115 |
 | Ace in the Hole | 3.00% | ~2,115 |
 | Fair's Fair | 3.00% | ~2,115 |
@@ -31,7 +31,7 @@ Rating: 3.53 (Ranked 971)
 | Audiophile | 2.00% | ~1,410 |
 | Tape Head | 2.00% | ~1,410 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 70,485 (Ranked 79)  
+Progressed: 70,489 (Ranked 79)  
 Completed: 713 (1.01%) (Ranked 116)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,7 +152,7 @@ Completed: 713 (1.01%) (Ranked 116)
 | 2023-08-16 | 70,242 | 707 |
 | 2023-08-17 | 70,358 | 712 |
 | 2023-08-18 | 70,451 | 713 |
-| 2023-08-19 | 70,485 | 713 |
+| 2023-08-19 | 70,489 | 713 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
