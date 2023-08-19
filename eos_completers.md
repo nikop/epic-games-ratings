@@ -52,7 +52,7 @@
 | 50 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.19% |
 | 51 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.92% |
 | 52 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 4.76% |
-| 53 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.74% |
+| 53 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.73% |
 | 54 | [Bugsnax](games/b/bugsnax.md) | 4.71% |
 | 55 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.69% |
 | 56 | [JARS](games/j/jars.md) | 4.55% |
@@ -69,7 +69,7 @@
 | 67 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.30% |
 | 68 | [The Complex](games/t/the_complex.md) | 3.17% |
 | 69 | [HordeCore](games/h/hordecore.md) | 3.15% |
-| 70 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.10% |
+| 70 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.09% |
 | 71 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.04% |
 | 72 | [Monster Harvest](games/m/monster_harvest.md) | 2.94% |
 | 73 | [MultiVersus](games/m/multiversus.md) | 2.93% |
@@ -96,9 +96,9 @@
 | 94 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 95 | [Frogun](games/f/frogun.md) | 1.81% |
 | 95 | [Sifu](games/s/sifu.md) | 1.81% |
-| 97 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 1.69% |
-| 98 | [Somerville](games/s/somerville.md) | 1.67% |
-| 98 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.67% |
+| 97 | [Somerville](games/s/somerville.md) | 1.67% |
+| 97 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.67% |
+| 99 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 1.62% |
 | 100 | [Iron Danger](games/i/iron_danger.md) | 1.61% |
 | 101 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.59% |
 | 102 | [Five Dates](games/f/five_dates.md) | 1.57% |
