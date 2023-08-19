@@ -5,12 +5,12 @@ Rating: 4.09 (Ranked 907)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Who Needs Keys? | 50.00% | ~1,787 |
-| Totally Intentional | 45.00% | ~1,608 |
-| Each Sold Separately | 37.00% | ~1,322 |
+| Who Needs Keys? | 50.00% | ~1,788 |
+| Totally Intentional | 45.00% | ~1,609 |
+| Each Sold Separately | 37.00% | ~1,323 |
 | We're In | 32.00% | ~1,144 |
-| You're Not Naked | 29.00% | ~1,036 |
-| Tale in the Toilet | 29.00% | ~1,036 |
+| You're Not Naked | 29.00% | ~1,037 |
+| Tale in the Toilet | 29.00% | ~1,037 |
 | From Zeroes... | 28.00% | ~1,001 |
 | Don't Get Cocky | 27.00% | ~965 |
 | Shard Snatchers | 24.00% | ~858 |
@@ -20,9 +20,9 @@ Rating: 4.09 (Ranked 907)
 | You Got the Goods, Kid | 20.00% | ~715 |
 | The Shardmenstration | 19.00% | ~679 |
 | Those Were the Days... | 19.00% | ~679 |
-| ...To Heroes | 18.00% | ~643 |
+| ...To Heroes | 18.00% | ~644 |
 | Mas, Por Favor | 17.00% | ~608 |
-| And Still Champion... | 14.00% | ~500 |
+| And Still Champion... | 14.00% | ~501 |
 | Super Trusting Friend! | 9.00% | ~322 |
 | Bring back the butt! | 4.00% | ~143 |
 | Hey, thanks! | 4.00% | ~143 |
@@ -32,7 +32,7 @@ Rating: 4.09 (Ranked 907)
 | Not Dolls. Action Figures! | 0.20% | ~7 |
 | You Played This Before? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,574 (Ranked 150)  
+Progressed: 3,575 (Ranked 150)  
 Completed: 0 (0.00%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,6 +127,7 @@ Completed: 0 (0.00%) (Ranked 260)
 | 2023-08-16 | 3,571 | 0 |
 | 2023-08-17 | 3,572 | 0 |
 | 2023-08-18 | 3,574 | 0 |
+| 2023-08-19 | 3,575 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -181,13 +181,13 @@ Completed: 0 (0.00%) (Ranked 260)
 | 2023-08-19 | 8,578 | 0 |
 ## Awards
 Max (Relaxing): 64  (Ranked 387)  
-Sum: 457 (Ranked 309)  
+Sum: 458 (Ranked 309)  
 Diff (max vs sum): 78  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 64 |
 | This game is Great for Beginners | 63 |
-| This game has Quickly Understood Controls | 60 |
+| This game has Quickly Understood Controls | 61 |
 | This game has Amazing Characters | 58 |
 | This game is Extremely Fun | 58 |
 | This game has Diverse Characters | 58 |
@@ -280,3 +280,4 @@ Diff (max vs sum): 78
 | 2023-08-10 | 4.49 | - | 63 | 455 |
 | 2023-08-11 | 4.49 | - | 63 | 456 |
 | 2023-08-15 | 4.49 | - | 64 | 457 |
+| 2023-08-19 | 4.49 | - | 64 | 458 |

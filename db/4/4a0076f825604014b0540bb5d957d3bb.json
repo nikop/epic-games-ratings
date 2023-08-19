@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 365,
   "Ranking_EOS_Completed": 260,
   "Ranking_EOS_NewPlayers": 283,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2019-12-04T00:00:00+00:00",
@@ -399,9 +399,9 @@
       "ID": "CgkInO_K3eIdEAIQEA",
       "SetID": "6bj96in",
       "Name": "EAGLE EYED",
-      "Percentage": 75,
+      "Percentage": 77,
       "XP": 40,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "CgkInO_K3eIdEAIQEQ",
@@ -494,8 +494,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-08-19T03:06:04.956869+00:00",
+  "LastChanged_Achievements": "2023-08-19T04:06:01.7868205+00:00",
   "LastUpdate_AppInfo": "2023-08-16T16:57:25.0969981+00:00",
-  "LastUpdate_Ratings": "2023-08-19T02:58:40.248574+00:00",
-  "LastUpdate_Achievements": "2023-08-19T03:06:04.9568889+00:00"
+  "LastUpdate_Ratings": "2023-08-19T03:58:31.5348835+00:00",
+  "LastUpdate_Achievements": "2023-08-19T04:06:01.7868393+00:00"
 }

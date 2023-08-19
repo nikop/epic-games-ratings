@@ -1,7 +1,7 @@
 # Farmer's Dynasty
 [Store](https://store.epicgames.com/en-US/p/farmers-dynasty)  
 [View Rawdata](../../db/f/farmer's_dynasty.json)  
-Rating: 4.23 (Ranked 841)  
+Rating: 4.21 (Ranked 849)  
 Number of Ratings: 64  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -61,3 +61,4 @@ Number of Ratings: 64  (23.09.2022)
 | 2023-06-30 | 4.21 | - | 0 | 0 |
 | 2023-07-01 | 4.22 | - | 0 | 0 |
 | 2023-07-02 | 4.23 | - | 0 | 0 |
+| 2023-08-19 | 4.21 | - | 0 | 0 |

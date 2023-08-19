@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,7 +512,7 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 61091,
+  "EOS_Progressed": 61092,
   "EOS_Completed": 64,
   "EOS_NewPlayers": 390,
   "EOS_NewCompleters": 0,
@@ -11682,6 +11682,11 @@
       "Time": "2023-08-19T03:06:23.1574094+00:00",
       "NumProgressed": 61091,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-19T04:06:20.2013996+00:00",
+      "NumProgressed": 61092,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -11829,7 +11834,7 @@
       "Name": "Hardboiled Writer",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3665
+      "UsersEstimate": 3666
     },
     {
       "ID": "19",
@@ -11941,7 +11946,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 17716
+      "UsersEstimate": 17717
     },
     {
       "ID": "33",
@@ -11965,7 +11970,7 @@
       "Name": "Let There Be Light",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 18327
+      "UsersEstimate": 18328
     },
     {
       "ID": "36",
@@ -12029,7 +12034,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 10385
+      "UsersEstimate": 10386
     },
     {
       "ID": "44",
@@ -12228,21 +12233,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 61091,
+      "Progressed": 61092,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 24559,
+      "Progressed": 24560,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-19T03:06:23.1574087+00:00",
+  "LastChanged_Achievements": "2023-08-19T04:06:20.2013991+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:20.2881971+00:00",
-  "LastUpdate_Ratings": "2023-08-19T02:59:39.8875007+00:00",
-  "LastUpdate_Achievements": "2023-08-19T03:06:23.1575468+00:00"
+  "LastUpdate_Ratings": "2023-08-19T03:59:28.2077875+00:00",
+  "LastUpdate_Achievements": "2023-08-19T04:06:20.2015272+00:00"
 }

@@ -41,11 +41,11 @@ Rating: 4.61 (Ranked 365)
 | Crimson Caldera | 2.00% | ~102 |
 | The Eternal Court | 2.00% | ~102 |
 | Jack of All Tomes | 2.00% | ~102 |
+| Grexolis | 2.00% | ~102 |
+| One for All, All for One | 2.00% | ~102 |
 | Duality | 2.00% | ~102 |
 | I've Got Everything I Need Right Here | 1.00% | ~51 |
 | Pruning for Progress | 1.00% | ~51 |
-| Grexolis | 1.00% | ~51 |
-| One for All, All for One | 1.00% | ~51 |
 | Manufactured War | 0.80% | ~41 |
 | Snap Out of It! | 0.70% | ~36 |
 | Betrayal Most Foul | 0.40% | ~20 |

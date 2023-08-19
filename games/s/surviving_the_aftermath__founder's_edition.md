@@ -58,9 +58,9 @@ Number of Ratings: 836  (23.09.2022)
 | The Friendliest | 1.00% | ~84 |
 | Legendary Adventurer | 1.00% | ~84 |
 | Slimy yet Satisfying | 1.00% | ~84 |
+| Feng Shui | 1.00% | ~84 |
 | A Closer Look | 1.00% | ~84 |
 | True Survivor | 1.00% | ~84 |
-| Feng Shui | 0.90% | ~75 |
 | Finnished | 0.40% | ~33 |
 | Fun and Games | 0.20% | ~17 |
 | Choo-choo! | 0.20% | ~17 |
