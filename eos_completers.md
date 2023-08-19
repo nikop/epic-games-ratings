@@ -21,9 +21,9 @@
 | 19 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.55% |
 | 20 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.11% |
 | 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.17% |
-| 22 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.13% |
-| 23 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
-| 23 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
+| 22 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
+| 22 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.11% |
+| 22 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
 | 25 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.71% |
 | 26 | [Remains](games/r/remains.md) | 10.64% |
 | 27 | [Out of Bounds](games/o/out_of_bounds.md) | 10.34% |
@@ -61,7 +61,7 @@
 | 59 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.15% |
 | 60 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.04% |
 | 61 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.92% |
-| 62 | [ZZT!](games/z/zzt!.md) | 3.79% |
+| 62 | [ZZT!](games/z/zzt!.md) | 3.83% |
 | 63 | [Without Escape](games/w/without_escape.md) | 3.57% |
 | 64 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 65 | [Doodle God](games/d/doodle_god.md) | 3.45% |
@@ -102,7 +102,7 @@
 | 100 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.60% |
 | 101 | [Five Dates](games/f/five_dates.md) | 1.57% |
 | 101 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.57% |
-| 103 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 1.55% |
+| 103 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 1.52% |
 | 104 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.49% |
 | 105 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.47% |
 | 106 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.46% |

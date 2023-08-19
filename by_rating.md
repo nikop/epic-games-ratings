@@ -245,7 +245,7 @@
 | 238 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 7,329 | 48 |
 | 238 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,914 | 81 |
 | 238 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 5,706 | 62 |
-| 238 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 3,479 | 87 |
+| 238 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 3,499 | 86 |
 | 238 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 303,069 | 3 |
 | 238 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 213,413 | 4 |
 | 238 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 512 |
@@ -372,7 +372,7 @@
 | 365 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 383 | 219 |
 | 365 | [Darkwood](games/d/darkwood.md) | 4.61 | 322 | 232 |
 | 365 | [Dead Space](games/d/dead_space.md) | 4.61 | 87 | 355 |
-| 365 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 43,133 | 12 |
+| 365 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 43,200 | 12 |
 | 365 | [GigaBash](games/g/gigabash.md) | 4.61 | 0 | 512 |
 | 365 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.61 | 37 | 432 |
 | 365 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,165 | 137 |
@@ -391,7 +391,7 @@
 | 365 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.61 | 32 | 453 |
 | 365 | [Warframe](games/w/warframe.md) | 4.61 | 16,519 | 22 |
 | 391 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.60 | 711 | 167 |
-| 391 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 13,230 | 28 |
+| 391 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 13,260 | 28 |
 | 391 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.60 | 0 | 512 |
 | 391 | [Brawlhalla](games/b/brawlhalla.md) | 4.60 | 277 | 244 |
 | 391 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 4,510 | 73 |
@@ -621,7 +621,7 @@
 | 609 | [The Escapists](games/t/the_escapists.md) | 4.47 | 0 | 512 |
 | 620 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.46 | 0 | 512 |
 | 620 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.46 | 0 | 512 |
-| 620 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,496 | 86 |
+| 620 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,496 | 87 |
 | 620 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.46 | 0 | 512 |
 | 620 | [Figment](games/f/figment.md) | 4.46 | 20 | 508 |
 | 620 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 107 | 329 |
@@ -807,7 +807,7 @@
 | 804 | [Chess Ultra](games/c/chess_ultra.md) | 4.28 | 0 | 512 |
 | 804 | [ELEX II](games/e/elex_ii.md) | 4.28 | 0 | 512 |
 | 804 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.28 | 0 | 512 |
-| 804 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.28 | 3,727 | 83 |
+| 804 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.28 | 3,730 | 83 |
 | 804 | [Mortal Shell](games/m/mortal_shell.md) | 4.28 | 0 | 512 |
 | 804 | [Steelrising](games/s/steelrising.md) | 4.28 | 36 | 433 |
 | 804 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 173 | 285 |
@@ -841,20 +841,20 @@
 | 833 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.24 | 0 | 512 |
 | 833 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 24 | 483 |
 | 841 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 0 | 512 |
-| 841 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.23 | 0 | 512 |
 | 841 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 1,010 | 144 |
 | 841 | [Rise of Industry](games/r/rise_of_industry.md) | 4.23 | 0 | 512 |
 | 841 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 0 | 512 |
-| 846 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.22 | 179 | 282 |
-| 846 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.22 | 0 | 512 |
-| 846 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 0 | 512 |
-| 846 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 207 | 271 |
-| 850 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.21 | 0 | 512 |
-| 850 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 32 | 453 |
-| 850 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.21 | 0 | 512 |
-| 850 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 15,408 | 23 |
-| 850 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.21 | 0 | 512 |
-| 850 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.21 | 78 | 365 |
+| 845 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.22 | 179 | 282 |
+| 845 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.22 | 0 | 512 |
+| 845 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 0 | 512 |
+| 845 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 207 | 271 |
+| 849 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.21 | 0 | 512 |
+| 849 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 32 | 453 |
+| 849 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.21 | 0 | 512 |
+| 849 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.21 | 0 | 512 |
+| 849 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 15,408 | 23 |
+| 849 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.21 | 0 | 512 |
+| 849 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.21 | 78 | 365 |
 | 856 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 123 | 315 |
 | 856 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 121 | 317 |
 | 856 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 0 | 512 |
