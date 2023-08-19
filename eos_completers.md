@@ -41,7 +41,7 @@
 | 39 | [Scorn](games/s/scorn.md) | 6.93% |
 | 40 | [Time Loader](games/t/time_loader.md) | 6.78% |
 | 41 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.77% |
-| 42 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.73% |
+| 42 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.70% |
 | 43 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 44 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 45 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.98% |
@@ -69,7 +69,7 @@
 | 67 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.30% |
 | 68 | [The Complex](games/t/the_complex.md) | 3.17% |
 | 69 | [HordeCore](games/h/hordecore.md) | 3.15% |
-| 70 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.11% |
+| 70 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.10% |
 | 71 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.04% |
 | 72 | [Monster Harvest](games/m/monster_harvest.md) | 2.94% |
 | 73 | [MultiVersus](games/m/multiversus.md) | 2.93% |
@@ -96,7 +96,7 @@
 | 94 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 95 | [Frogun](games/f/frogun.md) | 1.81% |
 | 95 | [Sifu](games/s/sifu.md) | 1.81% |
-| 97 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 1.75% |
+| 97 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 1.69% |
 | 98 | [Somerville](games/s/somerville.md) | 1.67% |
 | 98 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.67% |
 | 100 | [Iron Danger](games/i/iron_danger.md) | 1.61% |
@@ -106,7 +106,7 @@
 | 104 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.49% |
 | 105 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.47% |
 | 106 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.46% |
-| 106 | [Ten Dates](games/t/ten_dates.md) | 1.46% |
+| 107 | [Ten Dates](games/t/ten_dates.md) | 1.45% |
 | 108 | [Poosh XL](games/p/poosh_xl.md) | 1.41% |
 | 109 | [Late Shift](games/l/late_shift.md) | 1.29% |
 | 110 | [Infindustry](games/i/infindustry.md) | 1.27% |
