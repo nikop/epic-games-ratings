@@ -6,7 +6,7 @@ Number of Ratings: 38  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| My New Home | 61.00% | ~213 |
+| My New Home | 62.00% | ~216 |
 | Scrap Gatherer | 59.00% | ~206 |
 | Mushroom Picker | 58.00% | ~202 |
 | Scrapper | 49.00% | ~171 |
@@ -16,13 +16,13 @@ Number of Ratings: 38  (23.09.2022)
 | Smelter | 37.00% | ~129 |
 | Electro-Scrap Gatherer | 35.00% | ~122 |
 | Digger | 34.00% | ~119 |
-| Survivor | 33.00% | ~115 |
+| Survivor | 34.00% | ~119 |
 | Robot Destroyer | 32.00% | ~112 |
 | Lumberjack | 31.00% | ~108 |
 | Herbalist | 30.00% | ~105 |
 | Electro-Scrap Master | 26.00% | ~91 |
-| Prepper | 25.00% | ~87 |
-| Robot Hunter | 22.00% | ~77 |
+| Prepper | 26.00% | ~91 |
+| Robot Hunter | 23.00% | ~80 |
 | Advanced Survivalist | 20.00% | ~70 |
 | Master Of Technology | 18.00% | ~63 |
 | Treasure Hunter | 17.00% | ~59 |

@@ -3062,10 +3062,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 13268,
       "NumberOfAwardsMax": 6875
+    },
+    {
+      "Time": "2023-08-19T19:58:43.7479344+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 13274,
+      "NumberOfAwardsMax": 6875
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13268,
+  "NumberOfAwards": 13274,
   "NumberOfAwardsMax": 6875,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3085,7 +3091,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 691
+      "Count": 697
     },
     {
       "Text": "This game is Great for Beginners",
@@ -3136,9 +3142,9 @@
       "Count": 719
     }
   ],
-  "EOS_Progressed": 1587199,
+  "EOS_Progressed": 1587406,
   "EOS_Completed": 516,
-  "EOS_NewPlayers": 25251,
+  "EOS_NewPlayers": 25222,
   "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -11436,6 +11442,11 @@
       "Time": "2023-08-19T19:03:08.7798348+00:00",
       "NumProgressed": 1587199,
       "NumCompleted": 516
+    },
+    {
+      "Time": "2023-08-19T20:02:21.7399324+00:00",
+      "NumProgressed": 1587406,
+      "NumCompleted": 516
     }
   ],
   "TotalAchievements": 1328,
@@ -12647,7 +12658,7 @@
       "Name": "I Want to Get Away",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 11110
+      "UsersEstimate": 11112
     },
     {
       "ID": "brooklyn_2",
@@ -12663,7 +12674,7 @@
       "Name": "I Never Asked for This",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3174
+      "UsersEstimate": 3175
     },
     {
       "ID": "brooklyn_4",
@@ -12871,7 +12882,7 @@
       "Name": "Virus",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6349
+      "UsersEstimate": 6350
     },
     {
       "ID": "cac_29",
@@ -14551,7 +14562,7 @@
       "Name": "Pink Slip",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3174
+      "UsersEstimate": 3175
     },
     {
       "ID": "fort_3",
@@ -14711,7 +14722,7 @@
       "Name": "HOLY SHI-",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3174
+      "UsersEstimate": 3175
     },
     {
       "ID": "gage2_9",
@@ -15919,7 +15930,7 @@
       "Name": "Smooth Criminal",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3174
+      "UsersEstimate": 3175
     },
     {
       "ID": "gorilla_1",
@@ -16063,7 +16074,7 @@
       "Name": "Guilty of Crime",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6349
+      "UsersEstimate": 6350
     },
     {
       "ID": "halloween_1",
@@ -16199,7 +16210,7 @@
       "Name": "How Do You Like Me Now?",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6349
+      "UsersEstimate": 6350
     },
     {
       "ID": "i_knew_what_i_was_doing_was_wrong",
@@ -17157,17 +17168,17 @@
       "ID": "no_one_cared_who_i_was",
       "SetID": "61cefe3",
       "Name": "No One Cared Who I Was...",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 7936
+      "UsersEstimate": 9524
     },
     {
       "ID": "no_turning_back",
       "SetID": "61cefe3",
       "Name": "No Turning Back",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 7936
+      "UsersEstimate": 9524
     },
     {
       "ID": "orange_1",
@@ -19527,7 +19538,7 @@
       "Name": "No Thermal Drill was Harmed During the Heist",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3174
+      "UsersEstimate": 3175
     },
     {
       "ID": "trk_bc_1",
@@ -20799,7 +20810,7 @@
       "Name": "There is Always a First Time",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3174
+      "UsersEstimate": 3175
     },
     {
       "ID": "trk_js_1",
@@ -22055,7 +22066,7 @@
       "Name": "You Gotta Start Somewhere",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 9523
+      "UsersEstimate": 9524
     },
     {
       "ID": "you_shall_not_pass",
@@ -22070,22 +22081,22 @@
     {
       "ID": "61cefe3",
       "IsBase": true,
-      "Progressed": 1587199,
+      "Progressed": 1587406,
       "Completed": 516
     },
     {
       "ID": "bkjdbk8",
       "IsBase": false,
-      "Progressed": 1587199,
+      "Progressed": 1587406,
       "Completed": 25
     }
   ],
   "FirstSeen": "2023-06-08T18:57:07.8003815+00:00",
   "FirstSeenRating": "2023-06-09T03:57:04.3869033+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:50.4372379+00:00",
-  "LastChanged": "2023-08-19T16:00:04.7925275+00:00",
-  "LastChanged_Achievements": "2023-08-19T19:03:08.7798339+00:00",
+  "LastChanged": "2023-08-19T19:58:43.7479342+00:00",
+  "LastChanged_Achievements": "2023-08-19T20:02:21.7399319+00:00",
   "LastUpdate_AppInfo": "2023-08-17T20:57:10.4408604+00:00",
-  "LastUpdate_Ratings": "2023-08-19T18:58:57.0200583+00:00",
-  "LastUpdate_Achievements": "2023-08-19T19:03:08.7984585+00:00"
+  "LastUpdate_Ratings": "2023-08-19T19:58:43.7479348+00:00",
+  "LastUpdate_Achievements": "2023-08-19T20:02:21.7559782+00:00"
 }

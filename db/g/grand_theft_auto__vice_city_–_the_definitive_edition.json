@@ -5,10 +5,10 @@
   "Ranking_Rating": 500,
   "Ranking_Popularity": 383,
   "Ranking_PopularitySum": 440,
-  "Ranking_EOS_Progress": 125,
+  "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 147,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -586,7 +586,7 @@
       "Count": 67
     }
   ],
-  "EOS_Progressed": 9718,
+  "EOS_Progressed": 9719,
   "EOS_Completed": 48,
   "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 1,
@@ -8541,6 +8541,11 @@
       "Time": "2023-08-19T18:05:40.7452883+00:00",
       "NumProgressed": 9718,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-08-19T20:05:48.2699208+00:00",
+      "NumProgressed": 9719,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 34,
@@ -8656,7 +8661,7 @@
       "Name": "Greasy Palms",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3984
+      "UsersEstimate": 3985
     },
     {
       "ID": "ACH15",
@@ -8712,7 +8717,7 @@
       "Name": "Legal Counsel",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4373
+      "UsersEstimate": 4374
     },
     {
       "ID": "ACH22",
@@ -8823,7 +8828,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9718,
+      "Progressed": 9719,
       "Completed": 48
     }
   ],
@@ -8831,8 +8836,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-08-14T19:00:14.711734+00:00",
-  "LastChanged_Achievements": "2023-08-19T19:06:30.5993508+00:00",
+  "LastChanged_Achievements": "2023-08-19T20:05:48.2699204+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:19.3350346+00:00",
-  "LastUpdate_Ratings": "2023-08-19T19:00:20.537131+00:00",
-  "LastUpdate_Achievements": "2023-08-19T19:06:30.5994309+00:00"
+  "LastUpdate_Ratings": "2023-08-19T19:59:52.3310514+00:00",
+  "LastUpdate_Achievements": "2023-08-19T20:05:48.2699855+00:00"
 }

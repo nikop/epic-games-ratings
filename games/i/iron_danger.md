@@ -11,7 +11,7 @@
 | Death is Merely a Setback | 8.00% | ~20 |
 | Ring of Fire! | 8.00% | ~20 |
 | Third Shard | 8.00% | ~20 |
-| Berry Nice | 7.00% | ~17 |
+| Berry Nice | 7.00% | ~18 |
 | Keyu Exterminator | 6.00% | ~15 |
 | Fourth Shard | 6.00% | ~15 |
 | Big Fish | 5.00% | ~12 |
@@ -19,17 +19,17 @@
 | Fifth Shard | 5.00% | ~12 |
 | Green Thumb | 4.00% | ~10 |
 | Finished Iron Danger | 4.00% | ~10 |
-| Good Stew | 3.00% | ~7 |
-| Avian Veterinarian | 3.00% | ~7 |
-| Bird Butcherer | 3.00% | ~7 |
+| Good Stew | 3.00% | ~8 |
+| Avian Veterinarian | 3.00% | ~8 |
+| Bird Butcherer | 3.00% | ~8 |
 | Mushroom Forager | 2.00% | ~5 |
 | Knock, Knock! | 2.00% | ~5 |
 | Natural Selection | 2.00% | ~5 |
 | Trolled | 2.00% | ~5 |
 | Troll Hunter | 2.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249 (Ranked 276)  
-Completed: 4 (1.61%) (Ranked 101)  
+Progressed: 250 (Ranked 276)  
+Completed: 4 (1.60%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -86,6 +86,7 @@ Completed: 4 (1.61%) (Ranked 101)
 | 2023-08-12 | 246 | 4 |
 | 2023-08-14 | 247 | 4 |
 | 2023-08-17 | 249 | 4 |
+| 2023-08-19 | 250 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

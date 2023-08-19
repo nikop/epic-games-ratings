@@ -12,9 +12,9 @@
 | Old movies enjoyer | 80.00% | ~207 |
 | Fitness professional | 78.00% | ~202 |
 | Depressed visitor | 78.00% | ~202 |
+| Employee of the week | 77.00% | ~199 |
 | First defeat | 76.00% | ~197 |
 | Neurotrainer – power gainer! | 76.00% | ~197 |
-| Employee of the week | 76.00% | ~197 |
 | Your own amateur gym | 75.00% | ~194 |
 | Run K, run! | 74.00% | ~192 |
 | Fighting is cool | 70.00% | ~181 |
@@ -26,10 +26,10 @@
 | Law student | 63.00% | ~163 |
 | Workout professional | 61.00% | ~158 |
 | Own four walls | 61.00% | ~158 |
+| Handyman | 60.00% | ~155 |
 | Champion – starter pack | 60.00% | ~155 |
 | It's good to be alive | 60.00% | ~155 |
 | Little hacker | 59.00% | ~153 |
-| Handyman | 59.00% | ~153 |
 | Employee of the year | 59.00% | ~153 |
 | Fight for life | 58.00% | ~150 |
 | Intriguing candies | 57.00% | ~148 |
@@ -38,7 +38,7 @@
 | Escaped from a big trouble | 52.00% | ~135 |
 | Now you are worthy | 49.00% | ~127 |
 | Guiding on the right path | 47.00% | ~122 |
-| Fight is life | 45.00% | ~117 |
+| Fight is life | 46.00% | ~119 |
 | No blades in the gym | 45.00% | ~117 |
 | Mysterious voice | 44.00% | ~114 |
 | Champion – no way back | 41.00% | ~106 |
@@ -48,8 +48,8 @@
 | Underground dwellers | 39.00% | ~101 |
 | Deal with life | 38.00% | ~98 |
 | GYM professional | 38.00% | ~98 |
+| Get out of my apartment! | 38.00% | ~98 |
 | Mom got better | 37.00% | ~96 |
-| Get out of my apartment! | 37.00% | ~96 |
 | The die is cast | 37.00% | ~96 |
 | Seashell hunter | 36.00% | ~93 |
 | Gang wrangler | 34.00% | ~88 |
@@ -72,7 +72,7 @@
 | The only right decision | 27.00% | ~70 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 259 (Ranked 272)  
-Completed: 8 (3.09%) (Ranked 70)  
+Completed: 8 (3.09%) (Ranked 71)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

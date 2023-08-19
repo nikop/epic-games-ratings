@@ -6,20 +6,20 @@ Number of Ratings: 425  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Everybody Gets One | 97.00% | ~27,312 |
-| Gone Home | 93.00% | ~26,186 |
+| Everybody Gets One | 97.00% | ~27,313 |
+| Gone Home | 93.00% | ~26,187 |
 | Wonderfalls | 87.00% | ~24,497 |
-| Got to Catch a Few | 77.00% | ~21,681 |
+| Got to Catch a Few | 77.00% | ~21,682 |
 | Double Trapper | 75.00% | ~21,118 |
-| I'm Stuffed | 69.00% | ~19,428 |
+| I'm Stuffed | 69.00% | ~19,429 |
 | Got to Catch a Lot | 66.00% | ~18,584 |
 | Talkin' 'Bout Bugsnax | 61.00% | ~17,176 |
 | In the Arms of the Gramble | 59.00% | ~16,613 |
 | Know Thy Neighbor | 59.00% | ~16,613 |
 | Launch Party | 56.00% | ~15,768 |
 | Perf Dirt | 56.00% | ~15,768 |
-| Vacation's End | 53.00% | ~14,923 |
-| Bossy Bugs | 46.00% | ~12,952 |
+| Vacation's End | 53.00% | ~14,924 |
+| Bossy Bugs | 46.00% | ~12,953 |
 | Survivor | 45.00% | ~12,671 |
 | That Reminds Me of a Puzzle | 43.00% | ~12,108 |
 | Sidetracked | 40.00% | ~11,263 |
@@ -27,7 +27,7 @@ Number of Ratings: 425  (23.09.2022)
 | Combo Meal | 38.00% | ~10,700 |
 | Midnight Snak | 36.00% | ~10,137 |
 | Candid Cryptid | 35.00% | ~9,855 |
-| Got to Catch Them All | 32.00% | ~9,010 |
+| Got to Catch Them All | 32.00% | ~9,011 |
 | Deep Impact | 23.00% | ~6,476 |
 | Grab Bag | 23.00% | ~6,476 |
 | Feeding Frenzy | 18.00% | ~5,068 |
@@ -37,8 +37,8 @@ Number of Ratings: 425  (23.09.2022)
 | Live Laugh Hut | 8.00% | ~2,253 |
 | Dapper Capper | 6.00% | ~1,689 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,157 (Ranked 100)  
-Completed: 1,327 (4.71%) (Ranked 54)  
+Progressed: 28,158 (Ranked 100)  
+Completed: 1,327 (4.71%) (Ranked 55)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -158,7 +158,7 @@ Completed: 1,327 (4.71%) (Ranked 54)
 | 2023-08-16 | 28,144 | 1,326 |
 | 2023-08-17 | 28,144 | 1,327 |
 | 2023-08-18 | 28,152 | 1,327 |
-| 2023-08-19 | 28,157 | 1,327 |
+| 2023-08-19 | 28,158 | 1,327 |
 ## Awards
 Max (Amazing Storytelling): 38  (Ranked 428)  
 Sum: 331 (Ranked 334)  

@@ -4,32 +4,32 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Finish the Tutorial | 75.00% | ~15 |
-| A Map for Benedek | 50.00% | ~10 |
-| A Map for Nikolay | 50.00% | ~10 |
-| The Wall of Laments | 40.00% | ~8 |
-| Death Whistle | 40.00% | ~8 |
-| Burial Mound | 35.00% | ~7 |
-| Make the Prophet Your Ally | 30.00% | ~6 |
-| Become a Half-Child | 30.00% | ~6 |
-| Find the Road of Cadavers | 30.00% | ~6 |
-| A Catacomb | 30.00% | ~6 |
-| Put Kata out of Her Misery | 25.00% | ~5 |
-| The Dreaded Klek | 25.00% | ~5 |
-| Found Ulric's Portrait | 25.00% | ~5 |
-| Veil of Vera | 25.00% | ~5 |
-| The Crypt of Ivan Kotar | 25.00% | ~5 |
-| Lore and Background Story | 25.00% | ~5 |
-| Ulric's Painting Acquired | 20.00% | ~4 |
-| Save Arsen | 20.00% | ~4 |
-| You Abandoned God | 20.00% | ~4 |
-| Kabeer is Dead | 15.00% | ~3 |
-| You Ended the Bloodline Curse! | 15.00% | ~3 |
-| Become the Hero of Sveti Kotar | 15.00% | ~3 |
-| The Warden's Room | 15.00% | ~3 |
-| Infuriate Elizabeta | 15.00% | ~3 |
-| Warden's Monstrosities | 15.00% | ~3 |
-| Nikolay's Nonsense | 15.00% | ~3 |
+| Finish the Tutorial | 76.00% | ~16 |
+| A Map for Benedek | 52.00% | ~11 |
+| A Map for Nikolay | 48.00% | ~10 |
+| The Wall of Laments | 43.00% | ~9 |
+| Death Whistle | 38.00% | ~8 |
+| Burial Mound | 33.00% | ~7 |
+| Make the Prophet Your Ally | 29.00% | ~6 |
+| Become a Half-Child | 29.00% | ~6 |
+| Find the Road of Cadavers | 29.00% | ~6 |
+| A Catacomb | 29.00% | ~6 |
+| Put Kata out of Her Misery | 24.00% | ~5 |
+| The Dreaded Klek | 24.00% | ~5 |
+| Found Ulric's Portrait | 24.00% | ~5 |
+| Veil of Vera | 24.00% | ~5 |
+| The Crypt of Ivan Kotar | 24.00% | ~5 |
+| Lore and Background Story | 24.00% | ~5 |
+| Ulric's Painting Acquired | 19.00% | ~4 |
+| Save Arsen | 19.00% | ~4 |
+| You Abandoned God | 19.00% | ~4 |
+| Kabeer is Dead | 14.00% | ~3 |
+| You Ended the Bloodline Curse! | 14.00% | ~3 |
+| Become the Hero of Sveti Kotar | 14.00% | ~3 |
+| The Warden's Room | 14.00% | ~3 |
+| Infuriate Elizabeta | 14.00% | ~3 |
+| Warden's Monstrosities | 14.00% | ~3 |
+| Nikolay's Nonsense | 14.00% | ~3 |
 | Leave the Town | 10.00% | ~2 |
 | Forgive Ida | 10.00% | ~2 |
 | Davor Was Deported | 10.00% | ~2 |
@@ -50,7 +50,7 @@
 | That's Viktoria | 5.00% | ~1 |
 | Antun Has a Father Now | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20 (Ranked 413)  
+Progressed: 21 (Ranked 410)  
 Completed: 0 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -58,6 +58,7 @@ Completed: 0 (0.00%) (Ranked 261)
 | 2023-04-25 | 18 | 0 |
 | 2023-06-22 | 19 | 0 |
 | 2023-07-07 | 20 | 0 |
+| 2023-08-19 | 21 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

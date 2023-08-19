@@ -6,8 +6,8 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 38.00% | ~22,496 |
-| Landlord | 32.00% | ~18,944 |
+| Lawbringer | 38.00% | ~22,497 |
+| Landlord | 32.00% | ~18,945 |
 | Bannerlord | 22.00% | ~13,024 |
 | Horde breaker | 22.00% | ~13,024 |
 | Lawmaker | 22.00% | ~13,024 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59,199 (Ranked 86)  
+Progressed: 59,202 (Ranked 86)  
 Completed: 0 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,10 +179,10 @@ Completed: 0 (0.00%) (Ranked 261)
 | 2023-08-16 | 59,010 | 0 |
 | 2023-08-17 | 59,065 | 0 |
 | 2023-08-18 | 59,126 | 0 |
-| 2023-08-19 | 59,199 | 0 |
+| 2023-08-19 | 59,202 | 0 |
 ## Awards
 Max (Character Customization): 6,953  (Ranked 50)  
-Sum: 14,121 (Ranked 67)  
+Sum: 14,122 (Ranked 67)  
 Diff (max vs sum): -17  
 | Award | Count |
 | ----- | ----- |
@@ -191,7 +191,7 @@ Diff (max vs sum): -17
 | This game has Diverse Characters | 890 |
 | This game is Highly Recommended | 842 |
 | This game is Extremely Fun | 805 |
-| This game has Amazing Storytelling | 793 |
+| This game has Amazing Storytelling | 794 |
 | This game is Relaxing | 786 |
 | This game has Amazing Characters | 777 |
 | This game has Quickly Understood Controls | 777 |
@@ -417,4 +417,4 @@ Diff (max vs sum): -17
 | 2023-08-16 | 4.74 | - | 6,946 | 14,091 |
 | 2023-08-17 | 4.74 | - | 6,948 | 14,102 |
 | 2023-08-18 | 4.74 | - | 6,953 | 14,114 |
-| 2023-08-19 | 4.74 | - | 6,953 | 14,121 |
+| 2023-08-19 | 4.74 | - | 6,953 | 14,122 |

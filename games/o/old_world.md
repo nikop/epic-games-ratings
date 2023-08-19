@@ -7,10 +7,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Clergy | 4.00% | ~539 |
-| Explorer | 3.00% | ~404 |
-| Settler | 3.00% | ~404 |
-| Friendly Family | 3.00% | ~404 |
-| Play a Single Player Game | 3.00% | ~404 |
+| Explorer | 3.00% | ~405 |
+| Settler | 3.00% | ~405 |
+| Friendly Family | 3.00% | ~405 |
+| Play a Single Player Game | 3.00% | ~405 |
 | Able | 2.00% | ~270 |
 | Architect | 2.00% | ~270 |
 | Enlightened | 2.00% | ~270 |
@@ -143,6 +143,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cao'an | 0.30% | ~40 |
 | Persia | 0.30% | ~40 |
 | Old World Order | 0.30% | ~40 |
+| Ten Crowns | 0.30% | ~40 |
 | Three Man Chariot | 0.30% | ~40 |
 | All Nations | 0.30% | ~40 |
 | Conquest Victory | 0.30% | ~40 |
@@ -170,7 +171,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Play-By-Cloud Game | 0.20% | ~27 |
 | Circus Maximus in Roma | 0.20% | ~27 |
 | Capturing Cities | 0.20% | ~27 |
-| Ten Crowns | 0.20% | ~27 |
 | Siege Tower | 0.20% | ~27 |
 | Necropolis in Waset | 0.20% | ~27 |
 | Centenarian | 0.10% | ~13 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,483 (Ranked 118)  
+Progressed: 13,484 (Ranked 118)  
 Completed: 5 (0.04%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -424,7 +424,7 @@ Completed: 5 (0.04%) (Ranked 231)
 | 2023-08-16 | 13,432 | 5 |
 | 2023-08-17 | 13,444 | 5 |
 | 2023-08-18 | 13,460 | 5 |
-| 2023-08-19 | 13,483 | 5 |
+| 2023-08-19 | 13,484 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,795 (Ranked 206)  

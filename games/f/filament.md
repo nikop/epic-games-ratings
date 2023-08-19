@@ -5,14 +5,14 @@ Rating: 4.32 (Ranked 780)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Boarded! | 94.00% | ~187,514 |
-| Snooper. | 10.00% | ~19,948 |
+| Boarded! | 94.00% | ~187,518 |
+| Snooper. | 10.00% | ~19,949 |
 | You have to start somewhere, right? | 7.00% | ~13,964 |
 | So you're saying I don't touch these ones? | 6.00% | ~11,969 |
 | Corrupted. | 5.00% | ~9,974 |
 | Good things come in pairs... Coloured Pairs. | 5.00% | ~9,974 |
-| Answers can be found amongst the stars | 3.00% | ~5,984 |
-| Bend to the will of the arrows. | 3.00% | ~5,984 |
+| Answers can be found amongst the stars | 3.00% | ~5,985 |
+| Bend to the will of the arrows. | 3.00% | ~5,985 |
 | You've been through a lot. | 2.00% | ~3,990 |
 | People's feelings on these ones are very... Binary... | 2.00% | ~3,990 |
 | I hope your remember your colour theory. | 2.00% | ~3,990 |
@@ -35,7 +35,7 @@ Rating: 4.32 (Ranked 780)
 | Corrupted + | 0.40% | ~798 |
 | Snooper + | 0.40% | ~798 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 199,483 (Ranked 58)  
+Progressed: 199,487 (Ranked 58)  
 Completed: 483 (0.24%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,14 +156,14 @@ Completed: 483 (0.24%) (Ranked 178)
 | 2023-08-16 | 199,250 | 482 |
 | 2023-08-17 | 199,331 | 483 |
 | 2023-08-18 | 199,404 | 483 |
-| 2023-08-19 | 199,483 | 483 |
+| 2023-08-19 | 199,487 | 483 |
 ## Awards
-Max (Challenging Puzzles): 560  (Ranked 190)  
-Sum: 674 (Ranked 281)  
-Diff (max vs sum): -91  
+Max (Challenging Puzzles): 561  (Ranked 189)  
+Sum: 675 (Ranked 281)  
+Diff (max vs sum): -92  
 | Award | Count |
 | ----- | ----- |
-| This game features Challenging Puzzles | 560 |
+| This game features Challenging Puzzles | 561 |
 | This game has Amazing Characters | 25 |
 | This game is Highly Recommended | 24 |
 | This game has Quickly Understood Controls | 23 |
@@ -199,3 +199,4 @@ Diff (max vs sum): -91
 | 2023-06-26 | 4.32 | 558 | 672 |
 | 2023-07-27 | 4.32 | 559 | 673 |
 | 2023-08-12 | 4.32 | 560 | 674 |
+| 2023-08-19 | 4.32 | 561 | 675 |

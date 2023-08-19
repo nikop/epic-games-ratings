@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -2486,7 +2486,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 67912,
+  "EOS_Progressed": 67913,
   "EOS_Completed": 108,
   "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 2,
@@ -12741,6 +12741,11 @@
       "Time": "2023-08-19T17:08:10.6397558+00:00",
       "NumProgressed": 67912,
       "NumCompleted": 108
+    },
+    {
+      "Time": "2023-08-19T20:06:19.1192294+00:00",
+      "NumProgressed": 67913,
+      "NumCompleted": 108
     }
   ],
   "TotalAchievements": 61,
@@ -12832,7 +12837,7 @@
       "Name": "End of an Era",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8149
+      "UsersEstimate": 8150
     },
     {
       "ID": "APPLY_STATUS",
@@ -12888,7 +12893,7 @@
       "Name": "Dressed to Impress",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2716
+      "UsersEstimate": 2717
     },
     {
       "ID": "CRAFTING_MOD_CHIPS",
@@ -12928,7 +12933,7 @@
       "Name": "Bulldozed",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8149
+      "UsersEstimate": 8150
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -12976,7 +12981,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 19015
+      "UsersEstimate": 19016
     },
     {
       "ID": "FREEZE_1_5",
@@ -12984,7 +12989,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 13582
+      "UsersEstimate": 13583
     },
     {
       "ID": "FREEZE_2",
@@ -13056,7 +13061,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 23769
+      "UsersEstimate": 23770
     },
     {
       "ID": "HARLEY_2",
@@ -13072,7 +13077,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 13582
+      "UsersEstimate": 13583
     },
     {
       "ID": "HARLEY_4",
@@ -13120,7 +13125,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 13582
+      "UsersEstimate": 13583
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -13128,7 +13133,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 18336
+      "UsersEstimate": 18337
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -13168,7 +13173,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 13582
+      "UsersEstimate": 13583
     },
     {
       "ID": "MYSTERY_05",
@@ -13200,7 +13205,7 @@
       "Name": "Gotham Knight",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8149
+      "UsersEstimate": 8150
     },
     {
       "ID": "SECRET_CACHE",
@@ -13239,13 +13244,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 67912,
+      "Progressed": 67913,
       "Completed": 108
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 38192,
+      "Progressed": 38193,
       "Completed": 2658
     }
   ],
@@ -13253,8 +13258,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-08-19T16:57:53.0638706+00:00",
-  "LastChanged_Achievements": "2023-08-19T19:07:08.52925+00:00",
+  "LastChanged_Achievements": "2023-08-19T20:06:19.1192286+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:36.1459925+00:00",
-  "LastUpdate_Ratings": "2023-08-19T18:57:14.7004166+00:00",
-  "LastUpdate_Achievements": "2023-08-19T19:07:08.5293778+00:00"
+  "LastUpdate_Ratings": "2023-08-19T19:57:13.480176+00:00",
+  "LastUpdate_Achievements": "2023-08-19T20:06:19.11935+00:00"
 }

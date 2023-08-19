@@ -13,10 +13,10 @@ Rating: 4.55 (Ranked 486)
 | A Thousand Strong | 15.00% | ~463 |
 | Ready for a New World | 15.00% | ~463 |
 | Permanent Redesigns | 13.00% | ~401 |
+| The Ship of Theseus | 12.00% | ~370 |
 | Guy de Borderlands | 11.00% | ~339 |
 | Fully Recycled | 11.00% | ~339 |
 | Ain't Nobody Got Time for That | 11.00% | ~339 |
-| The Ship of Theseus | 11.00% | ~339 |
 | Exceeding Capacity | 10.00% | ~309 |
 | Hope Seeker | 10.00% | ~309 |
 | A Hunk of Junk | 9.00% | ~278 |
@@ -39,6 +39,7 @@ Rating: 4.55 (Ranked 486)
 | In Dolos We Trust | 3.00% | ~93 |
 | Pedal to the Metal | 3.00% | ~93 |
 | Mutual Loyalty | 2.00% | ~62 |
+| Catastrophe Avoided | 2.00% | ~62 |
 | Praise the Hull! | 2.00% | ~62 |
 | Space Greenhouse | 2.00% | ~62 |
 | Delivery! | 2.00% | ~62 |
@@ -46,7 +47,6 @@ Rating: 4.55 (Ranked 486)
 | Pulsar Disciple | 2.00% | ~62 |
 | Better Him Than Me | 1.00% | ~31 |
 | Tiqqun Contender | 1.00% | ~31 |
-| Catastrophe Avoided | 1.00% | ~31 |
 | You Had One Job... | 1.00% | ~31 |
 | Tiqqun Unchained | 1.00% | ~31 |
 | Scientifically Accurate | 1.00% | ~31 |
