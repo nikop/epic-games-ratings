@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 48,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8417,
+  "EOS_Progressed": 8423,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1272,
+  "EOS_NewPlayers": 1265,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2557,6 +2557,11 @@
       "Time": "2023-08-19T21:06:48.5570724+00:00",
       "NumProgressed": 8417,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-19T22:07:25.395717+00:00",
+      "NumProgressed": 8423,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -2609,7 +2614,7 @@
       "Name": "Doctor Approved",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 1347
+      "UsersEstimate": 1348
     },
     {
       "ID": "15",
@@ -2617,7 +2622,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 1347
+      "UsersEstimate": 1348
     },
     {
       "ID": "16",
@@ -2633,7 +2638,7 @@
       "Name": "Spore Taste",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 926
+      "UsersEstimate": 927
     },
     {
       "ID": "18",
@@ -2649,7 +2654,7 @@
       "Name": "Martian Music",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 926
+      "UsersEstimate": 927
     },
     {
       "ID": "2",
@@ -2777,7 +2782,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "7",
@@ -2808,14 +2813,14 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 8417,
+      "Progressed": 8423,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged_Achievements": "2023-08-19T21:06:48.5570719+00:00",
+  "LastChanged_Achievements": "2023-08-19T22:07:25.3957164+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:40.3624587+00:00",
-  "LastUpdate_Ratings": "2023-08-19T21:01:04.3048686+00:00",
-  "LastUpdate_Achievements": "2023-08-19T21:06:48.5571241+00:00"
+  "LastUpdate_Ratings": "2023-08-19T22:02:04.3174081+00:00",
+  "LastUpdate_Achievements": "2023-08-19T22:07:25.3957554+00:00"
 }

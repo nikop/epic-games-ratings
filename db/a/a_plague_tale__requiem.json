@@ -3,12 +3,12 @@
   "Name": "A Plague Tale: Requiem",
   "ProductSlug": "a-plague-tale-requiem",
   "Ranking_Rating": 162,
-  "Ranking_Popularity": 213,
+  "Ranking_Popularity": 212,
   "Ranking_PopularitySum": 292,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 166,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
     "PcReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -300,18 +300,24 @@
       "Rating": 4.73,
       "NumberOfAwards": 628,
       "NumberOfAwardsMax": 410
+    },
+    {
+      "Time": "2023-08-19T22:02:21.6119124+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 629,
+      "NumberOfAwardsMax": 411
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 628,
-  "NumberOfAwardsMax": 410,
+  "NumberOfAwards": 629,
+  "NumberOfAwardsMax": 411,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 410
+      "Count": 411
     },
     {
       "Text": "This game is Great for Beginners",
@@ -368,9 +374,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12809,
+  "EOS_Progressed": 12810,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -7433,6 +7439,11 @@
       "Time": "2023-08-19T21:05:13.9261072+00:00",
       "NumProgressed": 12809,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-08-19T22:05:42.1331056+00:00",
+      "NumProgressed": 12810,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 35,
@@ -7444,7 +7455,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 11784
+      "UsersEstimate": 11785
     },
     {
       "ID": "ACH_02",
@@ -7452,7 +7463,7 @@
       "Name": "Newcomers",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 10119
+      "UsersEstimate": 10120
     },
     {
       "ID": "ACH_03",
@@ -7468,7 +7479,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 8966
+      "UsersEstimate": 8967
     },
     {
       "ID": "ACH_05",
@@ -7476,7 +7487,7 @@
       "Name": "In our Wake",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 8710
+      "UsersEstimate": 8711
     },
     {
       "ID": "ACH_06",
@@ -7500,7 +7511,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 7685
+      "UsersEstimate": 7686
     },
     {
       "ID": "ACH_09",
@@ -7508,7 +7519,7 @@
       "Name": "Tales and Revelations",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 7301
+      "UsersEstimate": 7302
     },
     {
       "ID": "ACH_10",
@@ -7524,7 +7535,7 @@
       "Name": "The Cradle of Centuries",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 6148
+      "UsersEstimate": 6149
     },
     {
       "ID": "ACH_12",
@@ -7532,7 +7543,7 @@
       "Name": "The Life We Deserve",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 5892
+      "UsersEstimate": 5893
     },
     {
       "ID": "ACH_13",
@@ -7548,7 +7559,7 @@
       "Name": "Healing our Wounds",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 4739
+      "UsersEstimate": 4740
     },
     {
       "ID": "ACH_15",
@@ -7620,7 +7631,7 @@
       "Name": "Improved crossbow",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 3458
+      "UsersEstimate": 3459
     },
     {
       "ID": "ACH_24",
@@ -7660,7 +7671,7 @@
       "Name": "Alchemist",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 8710
+      "UsersEstimate": 8711
     },
     {
       "ID": "ACH_29",
@@ -7723,16 +7734,16 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 12809,
+      "Progressed": 12810,
       "Completed": 42
     }
   ],
   "FirstSeen": "2022-10-18T03:00:59.1275304+00:00",
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
-  "LastChanged": "2023-07-25T21:01:04.4770621+00:00",
-  "LastChanged_Achievements": "2023-08-19T21:05:13.9261066+00:00",
+  "LastChanged": "2023-08-19T22:02:21.6119122+00:00",
+  "LastChanged_Achievements": "2023-08-19T22:05:42.1331048+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:59.2474343+00:00",
-  "LastUpdate_Ratings": "2023-08-19T21:01:18.1181218+00:00",
-  "LastUpdate_Achievements": "2023-08-19T21:05:13.9261787+00:00"
+  "LastUpdate_Ratings": "2023-08-19T22:02:21.6119129+00:00",
+  "LastUpdate_Achievements": "2023-08-19T22:05:42.133232+00:00"
 }

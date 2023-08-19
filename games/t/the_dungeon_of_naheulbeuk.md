@@ -6,9 +6,9 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 20.00% | ~42,951 |
-| Where's that freaking Dwarf? | 2.00% | ~4,295 |
-| Alt+F4 | 2.00% | ~4,295 |
+| Sowwy! | 20.00% | ~42,957 |
+| Where's that freaking Dwarf? | 2.00% | ~4,296 |
+| Alt+F4 | 2.00% | ~4,296 |
 | Déjà vu | 1.00% | ~2,148 |
 | Sock! SOCK! | 1.00% | ~2,148 |
 | Speedrun | 1.00% | ~2,148 |
@@ -40,9 +40,9 @@ Number of Ratings: 118  (23.09.2022)
 | Res Judicata | 0.30% | ~644 |
 | Dwarf Fortress | 0.30% | ~644 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.30% | ~644 |
+| Dead for good | 0.30% | ~644 |
 | Lust and Debauchery | 0.30% | ~644 |
 | Material Girl | 0.30% | ~644 |
-| Dead for good | 0.20% | ~430 |
 | We come in peace | 0.20% | ~430 |
 | Gargantua | 0.20% | ~430 |
 | In Navalu's footsteps | 0.20% | ~430 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Staff cut | 0.00% | ~0 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 214,757 (Ranked 56)  
+Progressed: 214,785 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,7 +175,7 @@ Completed: 2 (0.00%) (Ranked 261)
 | 2023-08-16 | 213,341 | 2 |
 | 2023-08-17 | 213,783 | 2 |
 | 2023-08-18 | 214,230 | 2 |
-| 2023-08-19 | 214,757 | 2 |
+| 2023-08-19 | 214,785 | 2 |
 ## Awards
 Max (Character Customization): 170  (Ranked 287)  
 Sum: 211 (Ranked 365)  

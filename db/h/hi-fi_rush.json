@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -6209,9 +6209,9 @@
       "ID": "Ach015",
       "SetID": "12n4k20",
       "Name": "Thanks for the free chip, Peppermint!",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 316
+      "UsersEstimate": 356
     },
     {
       "ID": "Ach016",
@@ -6680,8 +6680,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-08-10T23:00:09.4128826+00:00",
-  "LastChanged_Achievements": "2023-08-19T21:06:14.4384023+00:00",
+  "LastChanged_Achievements": "2023-08-19T22:06:42.3703115+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:54.770039+00:00",
-  "LastUpdate_Ratings": "2023-08-19T21:00:25.4200825+00:00",
-  "LastUpdate_Achievements": "2023-08-19T21:06:14.4385245+00:00"
+  "LastUpdate_Ratings": "2023-08-19T22:01:16.3752268+00:00",
+  "LastUpdate_Achievements": "2023-08-19T22:06:42.3705195+00:00"
 }

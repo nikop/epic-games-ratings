@@ -6,24 +6,24 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 26.00% | ~43,126 |
-| Get Busy Living | 16.00% | ~26,539 |
-| Samuel Norton | 9.00% | ~14,928 |
-| Spare The Rod | 5.00% | ~8,293 |
+| Stone Walls | 26.00% | ~43,129 |
+| Get Busy Living | 16.00% | ~26,541 |
+| Samuel Norton | 9.00% | ~14,929 |
+| Spare The Rod | 5.00% | ~8,294 |
 | Don't Put Me In The Dark | 3.00% | ~4,976 |
 | Wait and Hope | 3.00% | ~4,976 |
 | I May Have Found A Way Out Of Here | 3.00% | ~4,976 |
 | Iron Bars | 3.00% | ~4,976 |
-| Throw The Book At Them | 2.00% | ~3,317 |
+| Throw The Book At Them | 2.00% | ~3,318 |
 | D.B. Cooper | 1.00% | ~1,659 |
 | Reformation | 0.60% | ~995 |
 | Crowd Control | 0.50% | ~829 |
-| Freedom | 0.40% | ~663 |
-| Confined | 0.40% | ~663 |
+| Freedom | 0.40% | ~664 |
+| Confined | 0.40% | ~664 |
 | It's Not What You Know... | 0.10% | ~166 |
 | ... It's What You Can Prove | 0.10% | ~166 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 165,869 (Ranked 62)  
+Progressed: 165,882 (Ranked 62)  
 Completed: 7 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,10 +144,10 @@ Completed: 7 (0.00%) (Ranked 261)
 | 2023-08-16 | 164,823 | 6 |
 | 2023-08-17 | 165,196 | 6 |
 | 2023-08-18 | 165,529 | 6 |
-| 2023-08-19 | 165,869 | 7 |
+| 2023-08-19 | 165,882 | 7 |
 ## Awards
 Max (Extremely Fun): 486  (Ranked 199)  
-Sum: 3,756 (Ranked 149)  
+Sum: 3,757 (Ranked 149)  
 Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
@@ -160,7 +160,7 @@ Diff (max vs sum): 50
 | This game has Amazing Storytelling | 397 |
 | This game is Educational | 381 |
 | This game has Amazing Characters | 374 |
-| This game has a Creative Community | 289 |
+| This game has a Creative Community | 290 |
 | This game has Obsessive Gameplay | 234 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -374,4 +374,4 @@ Diff (max vs sum): 50
 | 2023-08-16 | 4.61 | - | 481 | 3,742 |
 | 2023-08-17 | 4.61 | - | 484 | 3,747 |
 | 2023-08-18 | 4.61 | - | 484 | 3,753 |
-| 2023-08-19 | 4.61 | - | 486 | 3,756 |
+| 2023-08-19 | 4.61 | - | 486 | 3,757 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 176,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -6378,9 +6378,9 @@
       "ID": "REWARD_44_FRIEND_OR_FOE",
       "SetID": "bm6el81",
       "Name": "Souvenir hunter",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 105
     },
     {
       "ID": "REWARD_45_STONE_CARVING",
@@ -6673,8 +6673,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-08-19T13:59:32.9786794+00:00",
-  "LastChanged_Achievements": "2023-08-19T21:04:20.8142213+00:00",
+  "LastChanged_Achievements": "2023-08-19T22:04:49.3190367+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:38.9761253+00:00",
-  "LastUpdate_Ratings": "2023-08-19T20:58:34.5504738+00:00",
-  "LastUpdate_Achievements": "2023-08-19T21:04:20.8143704+00:00"
+  "LastUpdate_Ratings": "2023-08-19T21:58:57.2812837+00:00",
+  "LastUpdate_Achievements": "2023-08-19T22:04:49.3192257+00:00"
 }

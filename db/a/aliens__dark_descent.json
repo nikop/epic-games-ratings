@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 221,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -288,9 +288,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 3173,
+  "EOS_Progressed": 3174,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -3843,6 +3843,11 @@
       "Time": "2023-08-19T17:06:06.7536769+00:00",
       "NumProgressed": 3173,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-19T22:05:34.4078386+00:00",
+      "NumProgressed": 3174,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -3894,7 +3899,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 1618
+      "UsersEstimate": 1619
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -3950,7 +3955,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 2348
+      "UsersEstimate": 2349
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -3966,7 +3971,7 @@
       "Name": "Call Me Snake",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 1999
+      "UsersEstimate": 2000
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -3974,7 +3979,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 2126
+      "UsersEstimate": 2127
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -4030,7 +4035,7 @@
       "Name": "Come on, You Wanna Live Forever?",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 793
+      "UsersEstimate": 794
     },
     {
       "ID": "ACH_MAX_TECKER",
@@ -4070,7 +4075,7 @@
       "Name": "Making a Stand",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1364
+      "UsersEstimate": 1365
     },
     {
       "ID": "ACH_MISSION_05",
@@ -4078,7 +4083,7 @@
       "Name": "Where It All Begun",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 1237
+      "UsersEstimate": 1238
     },
     {
       "ID": "ACH_MISSION_06",
@@ -4086,7 +4091,7 @@
       "Name": "Living Nightmare",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 1015
+      "UsersEstimate": 1016
     },
     {
       "ID": "ACH_MISSION_07",
@@ -4094,7 +4099,7 @@
       "Name": "The Darwin Era Was Here",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "ACH_MISSION_08",
@@ -4158,7 +4163,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 2602
+      "UsersEstimate": 2603
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -4166,7 +4171,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 1872
+      "UsersEstimate": 1873
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -4213,7 +4218,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3173,
+      "Progressed": 3174,
       "Completed": 2
     }
   ],
@@ -4221,8 +4226,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-08-18T05:57:00.7172404+00:00",
-  "LastChanged_Achievements": "2023-08-19T21:05:07.5771657+00:00",
+  "LastChanged_Achievements": "2023-08-19T22:05:34.4078377+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:11.1811549+00:00",
-  "LastUpdate_Ratings": "2023-08-19T20:57:11.702874+00:00",
-  "LastUpdate_Achievements": "2023-08-19T21:05:07.5772761+00:00"
+  "LastUpdate_Ratings": "2023-08-19T21:57:17.4555305+00:00",
+  "LastUpdate_Achievements": "2023-08-19T22:05:34.4079192+00:00"
 }

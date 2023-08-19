@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -580,7 +580,7 @@
       "Count": 217
     }
   ],
-  "EOS_Progressed": 465612,
+  "EOS_Progressed": 465614,
   "EOS_Completed": 17,
   "EOS_NewPlayers": 499,
   "EOS_NewCompleters": 0,
@@ -13225,6 +13225,11 @@
       "Time": "2023-08-19T21:06:09.8698318+00:00",
       "NumProgressed": 465612,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-08-19T22:06:36.8229194+00:00",
+      "NumProgressed": 465614,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 79,
@@ -13324,7 +13329,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 307304
+      "UsersEstimate": 307305
     },
     {
       "ID": "achievement_story_landa",
@@ -13356,7 +13361,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 116403
+      "UsersEstimate": 116404
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -13388,7 +13393,7 @@
       "Name": "Tetsuo",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 51217
+      "UsersEstimate": 51218
     },
     {
       "ID": "achievement_story_meet_vivar",
@@ -13412,7 +13417,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 93122
+      "UsersEstimate": 93123
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -13420,7 +13425,7 @@
       "Name": "Second Coming",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 153652
+      "UsersEstimate": 153653
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -13660,7 +13665,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 204869
+      "UsersEstimate": 204870
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -13684,7 +13689,7 @@
       "Name": "Plan for the worst",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 51217
+      "UsersEstimate": 51218
     },
     {
       "ID": "achievement_win_expedition_without_monster_noloss",
@@ -13867,21 +13872,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 9546,
+      "Progressed": 9548,
       "Completed": 2355
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 465612,
+      "Progressed": 465614,
       "Completed": 17
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-08-18T08:01:42.2884894+00:00",
-  "LastChanged_Achievements": "2023-08-19T21:06:09.869831+00:00",
+  "LastChanged_Achievements": "2023-08-19T22:06:36.8229186+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:50.0833763+00:00",
-  "LastUpdate_Ratings": "2023-08-19T21:01:10.5183346+00:00",
-  "LastUpdate_Achievements": "2023-08-19T21:06:09.8701457+00:00"
+  "LastUpdate_Ratings": "2023-08-19T22:02:12.7657024+00:00",
+  "LastUpdate_Achievements": "2023-08-19T22:06:36.82321+00:00"
 }

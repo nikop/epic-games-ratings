@@ -24,7 +24,7 @@ Number of Ratings: 546  (23.09.2022)
 | Deadly Power | 16.00% | ~1,300 |
 | Castle Restoration Plans | 14.00% | ~1,138 |
 | The Dwarven Chandelier | 12.00% | ~975 |
-| Master of Speed | 9.00% | ~731 |
+| Master of Speed | 10.00% | ~812 |
 | The Levitator | 7.00% | ~569 |
 | The God of Battle | 3.00% | ~244 |
 | Too Much of a Talker | 2.00% | ~162 |

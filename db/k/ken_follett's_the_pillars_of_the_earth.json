@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 128,
   "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -495,7 +495,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 14675,
+  "EOS_Progressed": 14676,
   "EOS_Completed": 109,
   "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
@@ -8455,6 +8455,11 @@
       "Time": "2023-08-19T21:05:10.2696822+00:00",
       "NumProgressed": 14675,
       "NumCompleted": 109
+    },
+    {
+      "Time": "2023-08-19T22:05:37.7292692+00:00",
+      "NumProgressed": 14676,
+      "NumCompleted": 109
     }
   ],
   "TotalAchievements": 41,
@@ -8474,7 +8479,7 @@
       "Name": "Rebel without a cause",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 880
+      "UsersEstimate": 881
     },
     {
       "ID": "tpote_achievement_11",
@@ -8522,7 +8527,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2054
+      "UsersEstimate": 2055
     },
     {
       "ID": "tpote_achievement_17",
@@ -8570,7 +8575,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4402
+      "UsersEstimate": 4403
     },
     {
       "ID": "tpote_achievement_22",
@@ -8666,7 +8671,7 @@
       "Name": "Jack was here!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2054
+      "UsersEstimate": 2055
     },
     {
       "ID": "tpote_achievement_33",
@@ -8778,7 +8783,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 3228
+      "UsersEstimate": 3229
     },
     {
       "ID": "tpote_achievement_9",
@@ -8786,22 +8791,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 5136
+      "UsersEstimate": 5137
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 14675,
+      "Progressed": 14676,
       "Completed": 109
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-08-03T13:08:30.3350415+00:00",
-  "LastChanged_Achievements": "2023-08-19T21:05:10.2696815+00:00",
+  "LastChanged_Achievements": "2023-08-19T22:05:37.7292687+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:51.0435439+00:00",
-  "LastUpdate_Ratings": "2023-08-19T20:57:36.7461052+00:00",
-  "LastUpdate_Achievements": "2023-08-19T21:05:10.2698024+00:00"
+  "LastUpdate_Ratings": "2023-08-19T21:57:45.5352521+00:00",
+  "LastUpdate_Achievements": "2023-08-19T22:05:37.7293533+00:00"
 }

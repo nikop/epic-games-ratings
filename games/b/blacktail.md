@@ -11,7 +11,7 @@ Rating: 4.68 (Ranked 238)
 | Uprooting | 13.00% | ~82 |
 | Forbidden techniques | 12.00% | ~75 |
 | Devoted | 10.00% | ~63 |
-| Slavic squatter | 9.00% | ~57 |
+| Slavic squatter | 10.00% | ~63 |
 | Gold rush | 8.00% | ~50 |
 | Spirit animal | 8.00% | ~50 |
 | A friend in need... | 6.00% | ~38 |

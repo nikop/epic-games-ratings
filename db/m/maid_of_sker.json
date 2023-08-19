@@ -4,8 +4,8 @@
   "ProductSlug": "maid-of-sker-2ae24e",
   "Ranking_EOS_Progress": 299,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 307,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 284,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 175,
+  "EOS_Progressed": 176,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -267,6 +267,11 @@
       "Time": "2023-08-18T20:03:16.7773892+00:00",
       "NumProgressed": 175,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-19T22:02:33.3659191+00:00",
+      "NumProgressed": 176,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -276,9 +281,9 @@
       "ID": "animal_lover",
       "SetID": "3j2phem",
       "Name": "Animal Lover",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 58
+      "UsersEstimate": 60
     },
     {
       "ID": "axe_of_kindness",
@@ -302,7 +307,7 @@
       "Name": "Bull in a China Shop",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "chief_butler",
@@ -334,7 +339,7 @@
       "Name": "Don\u0027t Breathe",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "easy_listening",
@@ -517,7 +522,7 @@
     {
       "ID": "3j2phem",
       "IsBase": true,
-      "Progressed": 175,
+      "Progressed": 176,
       "Completed": 0
     }
   ],
@@ -525,8 +530,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2023-08-19T20:02:14.4440278+00:00",
+  "LastChanged_Achievements": "2023-08-19T22:02:33.3659185+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:41.1918552+00:00",
-  "LastUpdate_Ratings": "2023-08-19T21:01:05.0533901+00:00",
-  "LastUpdate_Achievements": "2023-08-19T20:02:14.4440518+00:00"
+  "LastUpdate_Ratings": "2023-08-19T22:02:05.1270013+00:00",
+  "LastUpdate_Achievements": "2023-08-19T22:02:33.3666187+00:00"
 }

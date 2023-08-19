@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 235,
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 241,
-  "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1271,7 +1271,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 126497,
+  "EOS_Progressed": 126500,
   "EOS_Completed": 27,
   "EOS_NewPlayers": 396,
   "EOS_NewCompleters": 0,
@@ -13376,6 +13376,11 @@
       "Time": "2023-08-19T21:05:13.274725+00:00",
       "NumProgressed": 126497,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-08-19T22:05:41.2781903+00:00",
+      "NumProgressed": 126500,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 40,
@@ -13403,7 +13408,7 @@
       "Name": "Committee of la Responsabilit\u00E9",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 1138
+      "UsersEstimate": 1139
     },
     {
       "ID": "ACH_COP_APO",
@@ -13419,7 +13424,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 22769
+      "UsersEstimate": 22770
     },
     {
       "ID": "ACH_COP_BAD",
@@ -13443,7 +13448,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 30359
+      "UsersEstimate": 30360
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -13467,7 +13472,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 35419
+      "UsersEstimate": 35420
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -13499,7 +13504,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 25299
+      "UsersEstimate": 25300
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -13643,7 +13648,7 @@
       "Name": "Modus: Mullen",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "ACH_NETWORTHY",
@@ -13659,7 +13664,7 @@
       "Name": "Palerunner",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "ACH_PINBALL",
@@ -13691,7 +13696,7 @@
       "Name": "Real Musor",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1138
+      "UsersEstimate": 1139
     },
     {
       "ID": "ACH_WHATBODY",
@@ -13706,15 +13711,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 126497,
+      "Progressed": 126500,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-08-18T14:00:21.7656873+00:00",
-  "LastChanged_Achievements": "2023-08-19T21:05:13.2747242+00:00",
+  "LastChanged_Achievements": "2023-08-19T22:05:41.2781896+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:47.5856644+00:00",
-  "LastUpdate_Ratings": "2023-08-19T21:01:08.8976412+00:00",
-  "LastUpdate_Achievements": "2023-08-19T21:05:13.2749113+00:00"
+  "LastUpdate_Ratings": "2023-08-19T22:02:10.4353829+00:00",
+  "LastUpdate_Achievements": "2023-08-19T22:05:41.2783788+00:00"
 }

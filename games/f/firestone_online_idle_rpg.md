@@ -31,13 +31,13 @@ Rating: 4.05 (Ranked 924)
 | Doing My Part | 11.00% | ~200 |
 | Hunter | 11.00% | ~200 |
 | Mastery | 11.00% | ~200 |
+| Relic Of The Past | 11.00% | ~200 |
 | The power of Awakening | 11.00% | ~200 |
 | Challenger | 10.00% | ~182 |
 | Daily Quest Completionist | 10.00% | ~182 |
 | Four Leaf Clover | 10.00% | ~182 |
 | Frostfire Liberator | 10.00% | ~182 |
 | Moving Up The Ladder | 10.00% | ~182 |
-| Relic Of The Past | 10.00% | ~182 |
 | Scroll Master | 10.00% | ~182 |
 | Here We Go Again | 9.00% | ~164 |
 | Master Enchanter | 9.00% | ~164 |

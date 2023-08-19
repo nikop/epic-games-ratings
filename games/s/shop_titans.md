@@ -13,8 +13,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Disintermediation | 0.90% | ~1,213 |
 | It's Free Real Estate | 0.80% | ~1,078 |
 | Capitalism Ho! | 0.80% | ~1,078 |
-| Another Satisfied Customer | 0.70% | ~943 |
-| Budding Merchant | 0.70% | ~943 |
+| Another Satisfied Customer | 0.70% | ~944 |
+| Budding Merchant | 0.70% | ~944 |
 | One Easy Payment | 0.60% | ~809 |
 | Some Assembly Required | 0.60% | ~809 |
 | Pretty Penny | 0.60% | ~809 |
@@ -30,6 +30,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Blank Page Syndrome | 0.40% | ~539 |
 | Demand for Supplies | 0.40% | ~539 |
 | Where it Hurts | 0.40% | ~539 |
+| Gem Expert | 0.40% | ~539 |
 | Gild-Gotten Goods | 0.40% | ~539 |
 | Accomplished Merchant | 0.40% | ~539 |
 | Did we pack lunch? | 0.40% | ~539 |
@@ -50,7 +51,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Efficient Floor Space | 0.30% | ~404 |
 | Flawless Fusion | 0.30% | ~404 |
 | Trash to Treasure | 0.30% | ~404 |
-| Gem Expert | 0.30% | ~404 |
 | Royal Ransom | 0.30% | ~404 |
 | Helping Hand | 0.30% | ~404 |
 | Natural 20 | 0.30% | ~404 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.10% | ~135 |
 | All Accounted For | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,784 (Ranked 66)  
+Progressed: 134,789 (Ranked 66)  
 Completed: 133 (0.10%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,15 +240,15 @@ Completed: 133 (0.10%) (Ranked 207)
 | 2023-08-16 | 134,622 | 133 |
 | 2023-08-17 | 134,688 | 133 |
 | 2023-08-18 | 134,736 | 133 |
-| 2023-08-19 | 134,784 | 133 |
+| 2023-08-19 | 134,789 | 133 |
 ## Awards
 Max (Great for Beginners): 4,705  (Ranked 71)  
-Sum: 27,112 (Ranked 47)  
+Sum: 27,114 (Ranked 47)  
 Diff (max vs sum): 24  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,705 |
-| This game is Relaxing | 4,000 |
+| This game is Relaxing | 4,002 |
 | This game has Quickly Understood Controls | 3,987 |
 | This game has Diverse Characters | 3,854 |
 | This game is Highly Recommended | 3,735 |
@@ -465,4 +465,4 @@ Diff (max vs sum): 24
 | 2023-08-16 | 3.99 | - | 4,701 | 27,104 |
 | 2023-08-17 | 3.99 | - | 4,704 | 27,109 |
 | 2023-08-18 | 3.99 | - | 4,704 | 27,110 |
-| 2023-08-19 | 3.99 | - | 4,705 | 27,112 |
+| 2023-08-19 | 3.99 | - | 4,705 | 27,114 |

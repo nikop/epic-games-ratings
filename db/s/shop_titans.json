@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 47,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 89,
+  "Ranking_EOS_NewPlayers": 88,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -5606,10 +5606,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27112,
       "NumberOfAwardsMax": 4705
+    },
+    {
+      "Time": "2023-08-19T22:01:14.0366609+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27114,
+      "NumberOfAwardsMax": 4705
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27112,
+  "NumberOfAwards": 27114,
   "NumberOfAwardsMax": 4705,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5647,7 +5653,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 4000
+      "Count": 4002
     },
     {
       "Text": "This game has Playful Visuals",
@@ -5662,9 +5668,9 @@
       "Count": 3735
     }
   ],
-  "EOS_Progressed": 134784,
+  "EOS_Progressed": 134789,
   "EOS_Completed": 133,
-  "EOS_NewPlayers": 373,
+  "EOS_NewPlayers": 378,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -18077,6 +18083,11 @@
       "Time": "2023-08-19T21:06:12.8564289+00:00",
       "NumProgressed": 134784,
       "NumCompleted": 133
+    },
+    {
+      "Time": "2023-08-19T22:06:40.5091087+00:00",
+      "NumProgressed": 134789,
+      "NumCompleted": 133
     }
   ],
   "TotalAchievements": 112,
@@ -18440,7 +18451,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 943
+      "UsersEstimate": 944
     },
     {
       "ID": "energy02",
@@ -18550,9 +18561,9 @@
       "ID": "gemsspent",
       "SetID": "anfd17p",
       "Name": "Gem Expert",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 404
+      "UsersEstimate": 539
     },
     {
       "ID": "gold01",
@@ -18672,7 +18683,7 @@
       "Name": "Budding Merchant",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 943
+      "UsersEstimate": 944
     },
     {
       "ID": "level02",
@@ -18983,15 +18994,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 134784,
+      "Progressed": 134789,
       "Completed": 133
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-08-19T17:59:52.8437502+00:00",
-  "LastChanged_Achievements": "2023-08-19T21:06:12.856428+00:00",
+  "LastChanged": "2023-08-19T22:01:14.0366607+00:00",
+  "LastChanged_Achievements": "2023-08-19T22:06:40.5091079+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:50.7489496+00:00",
-  "LastUpdate_Ratings": "2023-08-19T21:00:21.5818445+00:00",
-  "LastUpdate_Achievements": "2023-08-19T21:06:12.8568474+00:00"
+  "LastUpdate_Ratings": "2023-08-19T22:01:14.0366615+00:00",
+  "LastUpdate_Achievements": "2023-08-19T22:06:40.5094405+00:00"
 }

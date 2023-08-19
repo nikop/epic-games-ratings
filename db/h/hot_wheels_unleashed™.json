@@ -3,12 +3,12 @@
   "Name": "HOT WHEELS UNLEASHED\u2122",
   "ProductSlug": "hot-wheels-unleashed",
   "Ranking_Rating": 365,
-  "Ranking_Popularity": 432,
+  "Ranking_Popularity": 428,
   "Ranking_PopularitySum": 330,
   "Ranking_EOS_Progress": 548,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 353,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 354,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2021-09-30T16:00:00+00:00",
     "PcReleaseDate": "2021-09-30T16:00:00+00:00",
@@ -528,18 +528,24 @@
       "Rating": 4.61,
       "NumberOfAwards": 352,
       "NumberOfAwardsMax": 37
+    },
+    {
+      "Time": "2023-08-19T21:59:53.9787411+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 353,
+      "NumberOfAwardsMax": 38
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 352,
-  "NumberOfAwardsMax": 37,
+  "NumberOfAwards": 353,
+  "NumberOfAwardsMax": 38,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 37
+      "Count": 38
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -619,8 +625,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:07.8982996+00:00",
-  "LastChanged": "2023-08-11T03:58:58.8914993+00:00",
+  "LastChanged": "2023-08-19T21:59:53.9787409+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:58:04.140679+00:00",
-  "LastUpdate_Ratings": "2023-08-19T20:59:26.0632647+00:00",
-  "LastUpdate_Achievements": "2023-08-19T21:07:23.3180618+00:00"
+  "LastUpdate_Ratings": "2023-08-19T21:59:53.9787415+00:00",
+  "LastUpdate_Achievements": "2023-08-19T22:07:55.3907167+00:00"
 }

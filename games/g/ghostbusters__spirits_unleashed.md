@@ -6,17 +6,17 @@ Rating: 4.49 (Ranked 577)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Stylish | 86.00% | ~21,669 |
-| Advancement | 73.00% | ~18,393 |
-| Meticulously Efficient | 63.00% | ~15,873 |
+| Advancement | 73.00% | ~18,394 |
+| Meticulously Efficient | 63.00% | ~15,874 |
 | Discovery | 61.00% | ~15,370 |
 | Fully Upgraded | 54.00% | ~13,606 |
 | Swift Rift Removers | 54.00% | ~13,606 |
 | I collect Spores, Molds, and Fungi | 51.00% | ~12,850 |
 | Cultured | 51.00% | ~12,850 |
-| Vaporous Expansion | 48.00% | ~12,094 |
-| Teamwork | 43.00% | ~10,834 |
-| There you are! | 42.00% | ~10,582 |
-| Clutch Capture | 40.00% | ~10,078 |
+| Vaporous Expansion | 48.00% | ~12,095 |
+| Teamwork | 43.00% | ~10,835 |
+| There you are! | 42.00% | ~10,583 |
+| Clutch Capture | 40.00% | ~10,079 |
 | Back Off | 35.00% | ~8,819 |
 | Daily Dose | 34.00% | ~8,567 |
 | Solo Capture | 32.00% | ~8,063 |
@@ -38,10 +38,10 @@ Rating: 4.49 (Ranked 577)
 | Terrifying | 18.00% | ~4,535 |
 | Tobin's Prodigy | 18.00% | ~4,535 |
 | Reckless | 17.00% | ~4,283 |
-| Diabolical | 16.00% | ~4,031 |
-| Seasoned | 16.00% | ~4,031 |
-| Escape Artist | 15.00% | ~3,779 |
-| Whoopsie | 13.00% | ~3,275 |
+| Diabolical | 16.00% | ~4,032 |
+| Seasoned | 16.00% | ~4,032 |
+| Escape Artist | 15.00% | ~3,780 |
+| Whoopsie | 13.00% | ~3,276 |
 | Liability | 10.00% | ~2,520 |
 | Rivalry | 10.00% | ~2,520 |
 | Fragile Panes | 9.00% | ~2,268 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 577)
 | I don't need these | 1.00% | ~252 |
 | Mycophile | 1.00% | ~252 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,196 (Ranked 102)  
+Progressed: 25,197 (Ranked 102)  
 Completed: 52 (0.21%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,7 +178,7 @@ Completed: 52 (0.21%) (Ranked 186)
 | 2023-08-16 | 25,140 | 51 |
 | 2023-08-17 | 25,166 | 52 |
 | 2023-08-18 | 25,183 | 52 |
-| 2023-08-19 | 25,196 | 52 |
+| 2023-08-19 | 25,197 | 52 |
 ## Awards
 Max (Great for Quick Sessions): 248  (Ranked 254)  
 Sum: 2,244 (Ranked 188)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 159,
   "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1080,9 +1080,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15319,
+  "EOS_Progressed": 15320,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 410,
+  "EOS_NewPlayers": 409,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -13990,6 +13990,11 @@
       "Time": "2023-08-19T21:05:35.2949547+00:00",
       "NumProgressed": 15319,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-08-19T22:06:07.8647328+00:00",
+      "NumProgressed": 15320,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 45,
@@ -14017,7 +14022,7 @@
       "Name": "Artificial selection",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 4289
+      "UsersEstimate": 4290
     },
     {
       "ID": "BackToHell",
@@ -14097,7 +14102,7 @@
       "Name": "I call it luck",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 6740
+      "UsersEstimate": 6741
     },
     {
       "ID": "ImproviseAdaptOverrun",
@@ -14105,7 +14110,7 @@
       "Name": "Improvise, adapt, overrun",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 1991
+      "UsersEstimate": 1992
     },
     {
       "ID": "Junkrunner",
@@ -14137,7 +14142,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 11642
+      "UsersEstimate": 11643
     },
     {
       "ID": "MoreThanHuman",
@@ -14153,7 +14158,7 @@
       "Name": "Control freak",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 4289
+      "UsersEstimate": 4290
     },
     {
       "ID": "ObedientMachine",
@@ -14201,7 +14206,7 @@
       "Name": "Pre-empative strike",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1991
+      "UsersEstimate": 1992
     },
     {
       "ID": "PushItToTheLimit",
@@ -14225,7 +14230,7 @@
       "Name": "Running out of breath",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 8272
+      "UsersEstimate": 8273
     },
     {
       "ID": "RunningWild",
@@ -14297,7 +14302,7 @@
       "Name": "Unstoppable force",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 3523
+      "UsersEstimate": 3524
     },
     {
       "ID": "UpCloseAndPersonal",
@@ -14321,7 +14326,7 @@
       "Name": "Wallrunner",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 8272
+      "UsersEstimate": 8273
     },
     {
       "ID": "WaveOfMutilation",
@@ -14360,21 +14365,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 15319,
+      "Progressed": 15320,
       "Completed": 36
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 15319,
+      "Progressed": 15320,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-08-18T11:00:46.3223186+00:00",
-  "LastChanged_Achievements": "2023-08-19T21:05:35.2949541+00:00",
+  "LastChanged_Achievements": "2023-08-19T22:06:07.8647322+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:12.9191128+00:00",
-  "LastUpdate_Ratings": "2023-08-19T21:00:01.3938349+00:00",
-  "LastUpdate_Achievements": "2023-08-19T21:05:35.2951603+00:00"
+  "LastUpdate_Ratings": "2023-08-19T22:00:46.6689108+00:00",
+  "LastUpdate_Achievements": "2023-08-19T22:06:07.8648549+00:00"
 }

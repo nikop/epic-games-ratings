@@ -22,19 +22,19 @@ Rating: 4.77 (Ranked 109)
 | Followed the Butterflies | 8.00% | ~23,235 |
 | The Spell Master | 8.00% | ~23,235 |
 | Rising From the Ashes | 8.00% | ~23,235 |
-| The Avenging Gazelle | 7.00% | ~20,330 |
-| Beast Friends | 7.00% | ~20,330 |
-| A Sallow Grave | 7.00% | ~20,330 |
-| Flight the Good Flight | 7.00% | ~20,330 |
+| The Avenging Gazelle | 7.00% | ~20,331 |
+| Beast Friends | 7.00% | ~20,331 |
+| A Sallow Grave | 7.00% | ~20,331 |
+| Flight the Good Flight | 7.00% | ~20,331 |
 | The Seeker of Knowledge | 5.00% | ~14,522 |
 | The Root of the Problem | 5.00% | ~14,522 |
 | Third Time's a Charm | 5.00% | ~14,522 |
 | Raising Expectations | 5.00% | ~14,522 |
-| The Toast of the Town | 4.00% | ~11,617 |
-| Room with a View | 4.00% | ~11,617 |
-| The Intrepid Explorer | 4.00% | ~11,617 |
-| The Gryffindor in the Graveyard | 4.00% | ~11,617 |
-| The Ends Petrify the Means | 4.00% | ~11,617 |
+| The Toast of the Town | 4.00% | ~11,618 |
+| Room with a View | 4.00% | ~11,618 |
+| The Intrepid Explorer | 4.00% | ~11,618 |
+| The Gryffindor in the Graveyard | 4.00% | ~11,618 |
+| The Ends Petrify the Means | 4.00% | ~11,618 |
 | Going Through the Potions | 3.00% | ~8,713 |
 | Floo Around the World | 3.00% | ~8,713 |
 | The Wise Owl | 3.00% | ~8,713 |
@@ -47,11 +47,11 @@ Rating: 4.77 (Ranked 109)
 | Demiguise Dread | 1.00% | ~2,904 |
 | A Forte for Achievement | 1.00% | ~2,904 |
 | Merlin's Beard! | 0.90% | ~2,614 |
-| Spilled Milk | 0.80% | ~2,323 |
+| Spilled Milk | 0.80% | ~2,324 |
 | The Nature of the Beast | 0.60% | ~1,743 |
 | Collector's Edition | 0.30% | ~871 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290,435 (Ranked 43)  
+Progressed: 290,438 (Ranked 43)  
 Completed: 453 (0.16%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,7 +172,7 @@ Completed: 453 (0.16%) (Ranked 193)
 | 2023-08-16 | 290,231 | 452 |
 | 2023-08-17 | 290,286 | 452 |
 | 2023-08-18 | 290,355 | 452 |
-| 2023-08-19 | 290,435 | 453 |
+| 2023-08-19 | 290,438 | 453 |
 ## Awards
 Max (Character Customization): 21,818  (Ranked 17)  
 Sum: 41,239 (Ranked 30)  
