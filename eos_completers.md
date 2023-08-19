@@ -92,15 +92,15 @@
 | 90 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.03% |
 | 91 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.94% |
 | 92 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.92% |
-| 93 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 1.91% |
-| 94 | [Night Book](games/n/night_book.md) | 1.89% |
+| 93 | [Night Book](games/n/night_book.md) | 1.89% |
+| 94 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 1.86% |
 | 95 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 96 | [Frogun](games/f/frogun.md) | 1.81% |
 | 96 | [Sifu](games/s/sifu.md) | 1.81% |
 | 98 | [Somerville](games/s/somerville.md) | 1.67% |
 | 98 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.67% |
 | 100 | [Iron Danger](games/i/iron_danger.md) | 1.61% |
-| 101 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.60% |
+| 101 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.59% |
 | 102 | [Five Dates](games/f/five_dates.md) | 1.57% |
 | 102 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.57% |
 | 104 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.49% |
@@ -546,4 +546,4 @@
 | 260 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 260 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 260 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,075 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,076 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
