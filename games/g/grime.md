@@ -6,34 +6,34 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Imprint | 88.00% | ~122,847 |
-| Taste | 84.00% | ~117,263 |
-| The Hunt | 66.00% | ~92,135 |
-| Ravenous | 63.00% | ~87,947 |
-| Weeper | 43.00% | ~60,028 |
-| Devourer | 22.00% | ~30,712 |
-| Harmless | 19.00% | ~26,524 |
-| Silenced Whispers | 19.00% | ~26,524 |
-| Sharpened Vessel | 16.00% | ~22,336 |
-| Yank | 15.00% | ~20,940 |
-| Jawcrab | 12.00% | ~16,752 |
-| Feast | 12.00% | ~16,752 |
-| Scion | 11.00% | ~15,310 |
-| Jawstag | 11.00% | ~15,356 |
-| Watcher | 10.00% | ~13,960 |
-| Shapely | 8.00% | ~11,168 |
+| Imprint | 88.00% | ~122,857 |
+| Taste | 84.00% | ~117,272 |
+| The Hunt | 66.00% | ~92,143 |
+| Ravenous | 63.00% | ~87,954 |
+| Weeper | 43.00% | ~60,032 |
+| Devourer | 22.00% | ~30,714 |
+| Harmless | 19.00% | ~26,526 |
+| Silenced Whispers | 19.00% | ~26,526 |
+| Sharpened Vessel | 16.00% | ~22,338 |
+| Yank | 15.00% | ~20,942 |
+| Feast | 12.00% | ~16,753 |
+| Scion | 11.00% | ~15,311 |
+| Jawcrab | 11.00% | ~15,357 |
+| Jawstag | 11.00% | ~15,357 |
+| Watcher | 10.00% | ~13,961 |
+| Shapely | 8.00% | ~11,169 |
 | Glare | 8.00% | ~11,135 |
-| Predator | 8.00% | ~11,168 |
-| Assimilation | 6.00% | ~8,376 |
-| Host | 6.00% | ~8,351 |
-| Celebration | 6.00% | ~8,376 |
+| Predator | 8.00% | ~11,169 |
+| Assimilation | 6.00% | ~8,377 |
+| Host | 6.00% | ~8,352 |
+| Celebration | 6.00% | ~8,377 |
 | Hunt Down | 5.00% | ~6,980 |
 | Breathsmith | 5.00% | ~6,980 |
 | Artisan | 4.00% | ~5,584 |
 | Hush | 4.00% | ~5,584 |
 | Inevitable | 4.00% | ~5,584 |
 | Unwrap the Gift | 4.00% | ~5,584 |
-| Dream | 4.00% | ~5,567 |
+| Dream | 4.00% | ~5,568 |
 | Breath | 3.00% | ~4,188 |
 | All-Seeing | 3.00% | ~4,188 |
 | Passage | 3.00% | ~4,188 |
@@ -49,7 +49,7 @@ Number of Ratings: 46  (23.09.2022)
 | Instruments | 0.70% | ~977 |
 | Spiral Heart | 0.10% | ~140 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139,599 (Ranked 64)  
+Progressed: 139,610 (Ranked 64)  
 Completed: 1 (0.00%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 1 (0.00%) (Ranked 260)
 | 2023-08-16 | 138,779 | 1 |
 | 2023-08-17 | 139,141 | 1 |
 | 2023-08-18 | 139,554 | 1 |
-| 2023-08-19 | 139,599 | 1 |
+| 2023-08-19 | 139,610 | 1 |
 ## Awards
 Max (Highly Recommended): 26  (Ranked 473)  
 Sum: 112 (Ranked 413)  

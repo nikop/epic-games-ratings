@@ -27,7 +27,7 @@
 | The Big Sleep | 4.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 199 (Ranked 292)  
-Completed: 2 (1.01%) (Ranked 115)  
+Completed: 2 (1.01%) (Ranked 116)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

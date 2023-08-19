@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 871)
 | Element of Surprise | 0.20% | ~76 |
 | It's Nice to Be Wanted | 0.20% | ~76 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,899 (Ranked 80)  
+Progressed: 67,901 (Ranked 80)  
 Completed: 107 (0.16%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,7 +188,7 @@ Completed: 107 (0.16%) (Ranked 192)
 | 2023-08-16 | 67,871 | 107 |
 | 2023-08-17 | 67,881 | 107 |
 | 2023-08-18 | 67,896 | 107 |
-| 2023-08-19 | 67,899 | 107 |
+| 2023-08-19 | 67,901 | 107 |
 ## Awards
 Max (Great Boss Battles): 2,507  (Ranked 100)  
 Sum: 4,175 (Ranked 139)  

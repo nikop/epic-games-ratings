@@ -6,29 +6,29 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 43.00% | ~26,851 |
-| To The Nines | 39.00% | ~24,353 |
-| Optimized | 34.00% | ~21,231 |
-| Performance Review | 33.00% | ~20,607 |
-| Making a Name | 32.00% | ~19,982 |
-| Tune Up | 31.00% | ~19,358 |
-| Landlord | 30.00% | ~18,733 |
-| Wet Work | 29.00% | ~18,109 |
-| The Side Job | 28.00% | ~17,484 |
-| Wrecking Ball | 25.00% | ~15,611 |
-| Food for Thought | 25.00% | ~15,611 |
-| Finders Keepers | 23.00% | ~14,362 |
-| A Young Empire | 23.00% | ~14,362 |
+| First F#@!ing Day | 43.00% | ~26,852 |
+| To The Nines | 39.00% | ~24,354 |
+| Optimized | 34.00% | ~21,232 |
+| Performance Review | 33.00% | ~20,608 |
+| Making a Name | 32.00% | ~19,983 |
+| Tune Up | 31.00% | ~19,359 |
+| Landlord | 30.00% | ~18,734 |
+| Wet Work | 29.00% | ~18,110 |
+| The Side Job | 28.00% | ~17,485 |
+| Wrecking Ball | 25.00% | ~15,612 |
+| Food for Thought | 25.00% | ~15,612 |
+| Finders Keepers | 23.00% | ~14,363 |
+| A Young Empire | 23.00% | ~14,363 |
 | Work Ethic | 22.00% | ~13,738 |
 | Picking Fights | 18.00% | ~11,240 |
-| Power Players | 17.00% | ~10,615 |
-| Quality Time | 16.00% | ~9,991 |
+| Power Players | 17.00% | ~10,616 |
+| Quality Time | 16.00% | ~9,992 |
 | Showdown | 15.00% | ~9,367 |
 | Et tu? | 15.00% | ~9,367 |
 | Took It to The Limit | 15.00% | ~9,367 |
 | Kitted Out | 13.00% | ~8,118 |
 | Masters of Santo Ileso | 11.00% | ~6,869 |
-| Hijacked | 10.00% | ~6,244 |
+| Hijacked | 10.00% | ~6,245 |
 | The Spins | 9.00% | ~5,620 |
 | The Mechanic | 9.00% | ~5,620 |
 | Closet Space | 7.00% | ~4,371 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.20% | ~125 |
 | Fiesta Time | 0.20% | ~125 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,444 (Ranked 84)  
+Progressed: 62,447 (Ranked 84)  
 Completed: 42 (0.07%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,17 +181,17 @@ Completed: 42 (0.07%) (Ranked 218)
 | 2023-08-16 | 62,100 | 39 |
 | 2023-08-17 | 62,253 | 42 |
 | 2023-08-18 | 62,418 | 42 |
-| 2023-08-19 | 62,444 | 42 |
+| 2023-08-19 | 62,447 | 42 |
 ## Awards
 Max (Extremely Fun): 1,056  (Ranked 141)  
-Sum: 8,577 (Ranked 95)  
+Sum: 8,578 (Ranked 95)  
 Diff (max vs sum): 46  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 1,056 |
 | This game has Quickly Understood Controls | 1,030 |
 | This game is Highly Recommended | 997 |
-| This game has Diverse Characters | 991 |
+| This game has Diverse Characters | 992 |
 | This game is Great for Beginners | 990 |
 | This game is Relaxing | 978 |
 | This game has Amazing Characters | 976 |
@@ -354,3 +354,4 @@ Diff (max vs sum): 46
 | 2023-08-16 | 3.78 | - | 1,056 | 8,570 |
 | 2023-08-17 | 3.78 | - | 1,056 | 8,574 |
 | 2023-08-18 | 3.78 | - | 1,056 | 8,577 |
+| 2023-08-19 | 3.78 | - | 1,056 | 8,578 |

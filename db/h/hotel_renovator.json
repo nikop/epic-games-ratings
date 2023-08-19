@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 101,
   "Ranking_EOS_NewPlayers": 225,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
     "PcReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -1492,9 +1492,9 @@
       "ID": "ACH_HOTEL_NAMED",
       "SetID": "7k95e4n",
       "Name": "And so it begins",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 688
+      "UsersEstimate": 698
     },
     {
       "ID": "ACH_INSTRUMENTS_FOUND",
@@ -1613,8 +1613,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-08-10T10:58:10.9295179+00:00",
-  "LastChanged_Achievements": "2023-08-19T01:42:36.0261438+00:00",
+  "LastChanged_Achievements": "2023-08-19T02:13:01.1384396+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:07.3402469+00:00",
-  "LastUpdate_Ratings": "2023-08-19T01:34:37.3655183+00:00",
-  "LastUpdate_Achievements": "2023-08-19T01:42:36.0261724+00:00"
+  "LastUpdate_Ratings": "2023-08-19T02:05:24.3710763+00:00",
+  "LastUpdate_Achievements": "2023-08-19T02:13:01.1384687+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "Pilgrims",
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 241,
-  "Ranking_EOS_Completed": 42,
-  "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_Completed": 41,
+  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 399,
-  "EOS_Completed": 26,
-  "EOS_NewPlayers": 14,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 6.52,
+  "EOS_Completed": 27,
+  "EOS_NewPlayers": 13,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 6.77,
   "EosHistory": [
     {
       "Time": "2023-06-13T12:01:22.5999936+00:00",
@@ -1451,6 +1451,11 @@
       "Time": "2023-08-18T11:03:40.2804144+00:00",
       "NumProgressed": 399,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-08-19T02:09:28.4440246+00:00",
+      "NumProgressed": 399,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 45,
@@ -1484,9 +1489,9 @@
       "ID": "BearBroom",
       "SetID": "db30heh",
       "Name": "Dusted",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 56
+      "UsersEstimate": 60
     },
     {
       "ID": "BearPistol",
@@ -1692,9 +1697,9 @@
       "ID": "PriestPoppiesBroth",
       "SetID": "db30heh",
       "Name": "Zonked",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 132
+      "UsersEstimate": 136
     },
     {
       "ID": "PriestRogue",
@@ -1822,13 +1827,13 @@
       "ID": "db30heh",
       "IsBase": true,
       "Progressed": 399,
-      "Completed": 26
+      "Completed": 27
     }
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-08-19T01:39:14.8387236+00:00",
+  "LastChanged_Achievements": "2023-08-19T02:09:28.4440239+00:00",
   "LastUpdate_AppInfo": "2023-08-15T16:57:19.7846089+00:00",
-  "LastUpdate_Ratings": "2023-08-19T01:34:15.2784736+00:00",
-  "LastUpdate_Achievements": "2023-08-19T01:39:14.8387969+00:00"
+  "LastUpdate_Ratings": "2023-08-19T02:05:02.6018418+00:00",
+  "LastUpdate_Achievements": "2023-08-19T02:09:28.4440727+00:00"
 }

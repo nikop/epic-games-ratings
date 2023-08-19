@@ -19,7 +19,7 @@ Number of Ratings: 216  (23.09.2022)
 | Spin Doctor | 2.00% | ~30,717 |
 | Hoon Airlines | 1.00% | ~15,358 |
 | Midnight Master | 1.00% | ~15,358 |
-| Sake Bombs | 0.90% | ~13,822 |
+| Sake Bombs | 0.90% | ~13,823 |
 | Drift Line Master | 0.70% | ~10,751 |
 | Insane Skills | 0.70% | ~10,751 |
 | Bacon Donuts | 0.60% | ~9,215 |
@@ -27,7 +27,7 @@ Number of Ratings: 216  (23.09.2022)
 | Washing Machine | 0.40% | ~6,143 |
 | The Completionist | 0.10% | ~1,536 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,535,831 (Ranked 7)  
+Progressed: 1,535,834 (Ranked 7)  
 Completed: 663 (0.04%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,7 +148,7 @@ Completed: 663 (0.04%) (Ranked 230)
 | 2023-08-16 | 1,535,486 | 662 |
 | 2023-08-17 | 1,535,652 | 662 |
 | 2023-08-18 | 1,535,821 | 663 |
-| 2023-08-19 | 1,535,831 | 663 |
+| 2023-08-19 | 1,535,834 | 663 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

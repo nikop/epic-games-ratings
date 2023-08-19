@@ -6456,9 +6456,9 @@
       "Count": 596
     }
   ],
-  "EOS_Progressed": 290365,
+  "EOS_Progressed": 290367,
   "EOS_Completed": 452,
-  "EOS_NewPlayers": 490,
+  "EOS_NewPlayers": 492,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -19431,6 +19431,11 @@
       "Time": "2023-08-19T01:42:35.0347898+00:00",
       "NumProgressed": 290365,
       "NumCompleted": 452
+    },
+    {
+      "Time": "2023-08-19T02:13:00.2609067+00:00",
+      "NumProgressed": 290367,
+      "NumCompleted": 452
     }
   ],
   "TotalAchievements": 45,
@@ -19562,7 +19567,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 29036
+      "UsersEstimate": 29037
     },
     {
       "ID": "PFA_24",
@@ -19786,7 +19791,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 29036
+      "UsersEstimate": 29037
     },
     {
       "ID": "PFA_9",
@@ -19801,7 +19806,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 290365,
+      "Progressed": 290367,
       "Completed": 452
     }
   ],
@@ -19809,8 +19814,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-08-19T01:34:57.7401437+00:00",
-  "LastChanged_Achievements": "2023-08-19T01:42:35.0347892+00:00",
+  "LastChanged_Achievements": "2023-08-19T02:13:00.2609061+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:17.4814985+00:00",
-  "LastUpdate_Ratings": "2023-08-19T01:34:57.7401443+00:00",
-  "LastUpdate_Achievements": "2023-08-19T01:42:35.0349914+00:00"
+  "LastUpdate_Ratings": "2023-08-19T02:05:41.5906673+00:00",
+  "LastUpdate_Achievements": "2023-08-19T02:13:00.2610289+00:00"
 }

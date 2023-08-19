@@ -2,10 +2,10 @@
   "ID": "3f6efdc449db4175833c86acfc8ce34c",
   "Name": "Aya \u0026 Naya",
   "ProductSlug": "aya-and-naya-b7791e",
-  "Ranking_EOS_Progress": 315,
-  "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_Progress": 314,
+  "Ranking_EOS_Completed": 103,
+  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-08-17T20:00:00+00:00",
     "PcReleaseDate": "2023-08-31T16:00:00+00:00",
@@ -19,11 +19,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 126,
-  "EOS_Completed": 1,
-  "EOS_NewPlayers": 124,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.79,
+  "EOS_Progressed": 128,
+  "EOS_Completed": 2,
+  "EOS_NewPlayers": 126,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 1.56,
   "EosHistory": [
     {
       "Time": "2023-08-08T23:02:04.1783243+00:00",
@@ -179,6 +179,11 @@
       "Time": "2023-08-19T01:39:56.7714876+00:00",
       "NumProgressed": 126,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-19T02:10:28.8911913+00:00",
+      "NumProgressed": 128,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-08-08T22:02:18.1743145+00:00",
@@ -191,7 +196,7 @@
       "Name": "Played!",
       "Percentage": 84,
       "XP": 200,
-      "UsersEstimate": 106
+      "UsersEstimate": 108
     },
     {
       "ID": "Mission2",
@@ -199,7 +204,7 @@
       "Name": "Mission 1 clear",
       "Percentage": 38,
       "XP": 200,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "Mission3",
@@ -207,36 +212,36 @@
       "Name": "Mission 2 clear",
       "Percentage": 24,
       "XP": 200,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "Mission4",
       "SetID": "6igjng7",
       "Name": "Mission 3 clear",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 200,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Mission5",
       "SetID": "6igjng7",
       "Name": "Finished!",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 200,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     }
   ],
   "AchievementSets": [
     {
       "ID": "6igjng7",
       "IsBase": true,
-      "Progressed": 126,
-      "Completed": 1
+      "Progressed": 128,
+      "Completed": 2
     }
   ],
   "FirstSeenAchievements": "2023-08-08T21:02:12.6548497+00:00",
-  "LastChanged_Achievements": "2023-08-19T01:39:56.771487+00:00",
+  "LastChanged_Achievements": "2023-08-19T02:10:28.8911904+00:00",
   "LastUpdate_AppInfo": "2023-08-14T08:57:17.4876993+00:00",
-  "LastUpdate_Ratings": "2023-08-19T01:33:43.9257043+00:00",
-  "LastUpdate_Achievements": "2023-08-19T01:39:56.7714979+00:00"
+  "LastUpdate_Ratings": "2023-08-19T02:04:32.0698929+00:00",
+  "LastUpdate_Achievements": "2023-08-19T02:10:28.8912028+00:00"
 }

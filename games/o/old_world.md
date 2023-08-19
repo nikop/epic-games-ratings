@@ -83,6 +83,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Good Difficulty | 0.70% | ~94 |
 | Patrons | 0.70% | ~94 |
 | Statesmen | 0.70% | ~94 |
+| Traders | 0.70% | ~94 |
 | Temple of Solomon | 0.70% | ~94 |
 | Pantheon | 0.70% | ~94 |
 | Persian Paganism | 0.70% | ~94 |
@@ -91,7 +92,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Phalangite | 0.70% | ~94 |
 | Invincible | 0.60% | ~81 |
 | Subjugator | 0.60% | ~81 |
-| Traders | 0.60% | ~81 |
 | Hittite Iron | 0.60% | ~81 |
 | Circus Maximus | 0.60% | ~81 |
 | Hagia Sophia | 0.60% | ~81 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,461 (Ranked 118)  
+Progressed: 13,462 (Ranked 118)  
 Completed: 5 (0.04%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -424,7 +424,7 @@ Completed: 5 (0.04%) (Ranked 230)
 | 2023-08-16 | 13,432 | 5 |
 | 2023-08-17 | 13,444 | 5 |
 | 2023-08-18 | 13,460 | 5 |
-| 2023-08-19 | 13,461 | 5 |
+| 2023-08-19 | 13,462 | 5 |
 ## Awards
 Max (Relaxing): 219  (Ranked 264)  
 Sum: 1,792 (Ranked 206)  
