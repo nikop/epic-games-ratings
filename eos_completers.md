@@ -34,14 +34,14 @@
 | 32 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.93% |
 | 33 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.48% |
 | 34 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 7.69% |
-| 34 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.69% |
+| 35 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.55% |
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.53% |
 | 37 | [Smelter](games/s/smelter.md) | 7.50% |
 | 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.00% |
 | 39 | [Scorn](games/s/scorn.md) | 6.93% |
 | 40 | [Time Loader](games/t/time_loader.md) | 6.78% |
-| 41 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.77% |
-| 42 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.70% |
+| 41 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.75% |
+| 42 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.67% |
 | 43 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 44 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 45 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.98% |
@@ -223,12 +223,12 @@
 | 220 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.06% |
 | 220 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.06% |
 | 220 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
+| 220 | [Remnant 2](games/r/remnant_2.md) | 0.06% |
 | 220 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.06% |
 | 220 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
-| 226 | [DEATH STRANDING](games/d/death_stranding.md) | 0.05% |
-| 226 | [High On Life](games/h/high_on_life.md) | 0.05% |
-| 226 | [House Party](games/h/house_party.md) | 0.05% |
-| 226 | [Remnant 2](games/r/remnant_2.md) | 0.05% |
+| 227 | [DEATH STRANDING](games/d/death_stranding.md) | 0.05% |
+| 227 | [High On Life](games/h/high_on_life.md) | 0.05% |
+| 227 | [House Party](games/h/house_party.md) | 0.05% |
 | 230 | [Absolute Drift](games/a/absolute_drift.md) | 0.04% |
 | 230 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.04% |
 | 230 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.04% |
