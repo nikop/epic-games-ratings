@@ -3014,10 +3014,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 13135,
       "NumberOfAwardsMax": 6814
+    },
+    {
+      "Time": "2023-08-19T01:34:34.1230073+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 13146,
+      "NumberOfAwardsMax": 6814
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13135,
+  "NumberOfAwards": 13146,
   "NumberOfAwardsMax": 6814,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3031,7 +3037,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 796
+      "Count": 807
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3088,10 +3094,10 @@
       "Count": 711
     }
   ],
-  "EOS_Progressed": 1583903,
+  "EOS_Progressed": 1584134,
   "EOS_Completed": 513,
-  "EOS_NewPlayers": 25061,
-  "EOS_NewCompleters": 35,
+  "EOS_NewPlayers": 25073,
+  "EOS_NewCompleters": 33,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
     {
@@ -11298,6 +11304,11 @@
       "Time": "2023-08-19T00:02:54.7142271+00:00",
       "NumProgressed": 1583903,
       "NumCompleted": 513
+    },
+    {
+      "Time": "2023-08-19T01:37:33.3723297+00:00",
+      "NumProgressed": 1584134,
+      "NumCompleted": 513
     }
   ],
   "TotalAchievements": 1328,
@@ -11379,9 +11390,9 @@
       "ID": "armed_to_the_teeth",
       "SetID": "61cefe3",
       "Name": "Would You Like Your Receipt?",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 3168
+      "UsersEstimate": 4752
     },
     {
       "ID": "armored_1",
@@ -12509,7 +12520,7 @@
       "Name": "I Want to Get Away",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 7920
+      "UsersEstimate": 7921
     },
     {
       "ID": "brooklyn_2",
@@ -17021,7 +17032,7 @@
       "Name": "No One Cared Who I Was...",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6336
+      "UsersEstimate": 6337
     },
     {
       "ID": "no_turning_back",
@@ -17029,7 +17040,7 @@
       "Name": "No Turning Back",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6336
+      "UsersEstimate": 6337
     },
     {
       "ID": "orange_1",
@@ -21811,9 +21822,9 @@
       "ID": "would_you_like_your_receipt",
       "SetID": "61cefe3",
       "Name": "Armed to the Teeth",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 3168
+      "UsersEstimate": 4752
     },
     {
       "ID": "wwh_1",
@@ -21917,7 +21928,7 @@
       "Name": "You Gotta Start Somewhere",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6336
+      "UsersEstimate": 6337
     },
     {
       "ID": "you_shall_not_pass",
@@ -21932,22 +21943,22 @@
     {
       "ID": "61cefe3",
       "IsBase": true,
-      "Progressed": 1583903,
+      "Progressed": 1584134,
       "Completed": 513
     },
     {
       "ID": "bkjdbk8",
       "IsBase": false,
-      "Progressed": 1583903,
+      "Progressed": 1584134,
       "Completed": 21
     }
   ],
   "FirstSeen": "2023-06-08T18:57:07.8003815+00:00",
   "FirstSeenRating": "2023-06-09T03:57:04.3869033+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:50.4372379+00:00",
-  "LastChanged": "2023-08-18T20:59:01.4506821+00:00",
-  "LastChanged_Achievements": "2023-08-19T00:02:54.7142264+00:00",
+  "LastChanged": "2023-08-19T01:34:34.1230071+00:00",
+  "LastChanged_Achievements": "2023-08-19T01:37:33.3723292+00:00",
   "LastUpdate_AppInfo": "2023-08-17T20:57:10.4408604+00:00",
-  "LastUpdate_Ratings": "2023-08-18T23:59:35.495244+00:00",
-  "LastUpdate_Achievements": "2023-08-19T00:02:54.7377006+00:00"
+  "LastUpdate_Ratings": "2023-08-19T01:34:34.1230077+00:00",
+  "LastUpdate_Achievements": "2023-08-19T01:37:33.3913014+00:00"
 }

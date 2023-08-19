@@ -12,14 +12,14 @@ Number of Ratings: 58  (23.09.2022)
 | Demigod | 75.00% | ~850 |
 | The Great Destroyer | 74.00% | ~839 |
 | Shields Down | 72.00% | ~816 |
+| Helping Hand | 67.00% | ~760 |
 | Safe Home | 67.00% | ~760 |
-| Helping Hand | 66.00% | ~748 |
 | Paragon | 63.00% | ~714 |
 | Old Days Born Anew | 61.00% | ~692 |
 | Full Arsenal | 57.00% | ~646 |
 | Controlled Demolition | 55.00% | ~624 |
 | Payback | 53.00% | ~601 |
-| Huntress | 52.00% | ~590 |
+| Huntress | 53.00% | ~601 |
 | Born to Drift | 51.00% | ~578 |
 | Relentless | 48.00% | ~544 |
 | The Path Forward | 45.00% | ~510 |

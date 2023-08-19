@@ -22,7 +22,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Pope Zenon | 15.00% | ~69,832 |
 | Tetsuo | 11.00% | ~51,210 |
 | Plan for the worst | 11.00% | ~51,210 |
-| Chapter III: The Man Who Sold the World | 10.00% | ~46,554 |
+| Chapter III: The Man Who Sold the World | 10.00% | ~46,555 |
 | Chapter IV: Through the Looking Glass | 8.00% | ~37,244 |
 | Through the mirror | 8.00% | ~37,244 |
 | General Vivar | 8.00% | ~37,244 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~9 |
 | Kronos Rule | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 465,545 (Ranked 37)  
+Progressed: 465,546 (Ranked 37)  
 Completed: 17 (0.00%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,7 +207,7 @@ Completed: 17 (0.00%) (Ranked 260)
 | 2023-08-16 | 465,377 | 17 |
 | 2023-08-17 | 465,460 | 17 |
 | 2023-08-18 | 465,542 | 17 |
-| 2023-08-19 | 465,545 | 17 |
+| 2023-08-19 | 465,546 | 17 |
 ## Awards
 Max (Character Customization): 217  (Ranked 267)  
 Sum: 217 (Ranked 363)  

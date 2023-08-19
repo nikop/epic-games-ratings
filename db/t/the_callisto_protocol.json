@@ -3,12 +3,12 @@
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
   "Ranking_Rating": 856,
-  "Ranking_Popularity": 373,
-  "Ranking_PopularitySum": 316,
+  "Ranking_Popularity": 374,
+  "Ranking_PopularitySum": 317,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -6938,8 +6938,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-08-19T00:00:49.2799601+00:00",
-  "LastChanged_Achievements": "2023-08-19T00:04:17.0724404+00:00",
+  "LastChanged_Achievements": "2023-08-19T01:39:35.4621529+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:43.323219+00:00",
-  "LastUpdate_Ratings": "2023-08-19T00:00:49.2799607+00:00",
-  "LastUpdate_Achievements": "2023-08-19T00:04:17.0725434+00:00"
+  "LastUpdate_Ratings": "2023-08-19T01:35:42.3654349+00:00",
+  "LastUpdate_Achievements": "2023-08-19T01:39:35.4622305+00:00"
 }

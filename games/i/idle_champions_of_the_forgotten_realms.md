@@ -10,7 +10,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beast Intentions | 0.40% | ~893 |
 | The Cursed Farmer | 0.40% | ~893 |
 | The Hunt for The Last Breath | 0.40% | ~758 |
-| The Mad Wizard | 0.30% | ~669 |
+| The Mad Wizard | 0.30% | ~670 |
 | To Infinity's and Beyond | 0.30% | ~568 |
 | Maddening | 0.20% | ~446 |
 | Were-verpowered | 0.20% | ~446 |
@@ -523,8 +523,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~189 |
 | Animated Giff | 0.10% | ~189 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 223,155 (Ranked 53)  
-Completed: 2,190 (0.98%) (Ranked 118)  
+Progressed: 223,181 (Ranked 53)  
+Completed: 2,191 (0.98%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -644,11 +644,11 @@ Completed: 2,190 (0.98%) (Ranked 118)
 | 2023-08-16 | 222,534 | 2,186 |
 | 2023-08-17 | 222,852 | 2,189 |
 | 2023-08-18 | 223,142 | 2,190 |
-| 2023-08-19 | 223,155 | 2,190 |
+| 2023-08-19 | 223,181 | 2,191 |
 ## Awards
-Max (Diverse Characters): 5,167  (Ranked 67)  
+Max (Diverse Characters): 5,167  (Ranked 68)  
 Sum: 31,122 (Ranked 38)  
-Diff (max vs sum): 29  
+Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 5,167 |

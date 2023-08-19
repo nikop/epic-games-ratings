@@ -23,13 +23,13 @@ Rating: 4.88 (Ranked 19)
 | The Negotiator | 5.00% | ~198 |
 | Time to pay up! | 5.00% | ~198 |
 | Whoa! There's ANOTHER health bar!? | 5.00% | ~198 |
+| You must like calling me in, Chai | 5.00% | ~198 |
 | Out in a puff of smoke | 5.00% | ~198 |
 | Does that say weakpoint? | 5.00% | ~198 |
 | NOW we got a kickass hideout! | 5.00% | ~124 |
 | Headliner | 4.00% | ~158 |
 | Who's the boss now? | 4.00% | ~158 |
 | I have to read these things? | 4.00% | ~158 |
-| You must like calling me in, Chai | 4.00% | ~158 |
 | Perfecter Parry-er! | 4.00% | ~158 |
 | Well that was a rush! | 3.00% | ~119 |
 | Beat-hit mania | 3.00% | ~119 |

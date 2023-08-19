@@ -4,11 +4,11 @@
   "ProductSlug": "the-alto-collection",
   "Ranking_Rating": 199,
   "Ranking_Popularity": 410,
-  "Ranking_PopularitySum": 328,
+  "Ranking_PopularitySum": 329,
   "Ranking_EOS_Progress": 95,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 55,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 56,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
     "PcReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -745,9 +745,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 35898,
+  "EOS_Progressed": 35905,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 901,
+  "EOS_NewPlayers": 898,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -13965,6 +13965,11 @@
       "Time": "2023-08-19T00:06:41.8162706+00:00",
       "NumProgressed": 35898,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-19T01:41:33.339196+00:00",
+      "NumProgressed": 35905,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -14000,7 +14005,7 @@
       "Name": "Scout",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3949
+      "UsersEstimate": 3950
     },
     {
       "ID": "distance500000",
@@ -14016,7 +14021,7 @@
       "Name": "Rookie",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 9333
+      "UsersEstimate": 9335
     },
     {
       "ID": "goals180",
@@ -14096,7 +14101,7 @@
       "Name": "Nomad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 6462
+      "UsersEstimate": 6463
     },
     {
       "ID": "novice",
@@ -14104,7 +14109,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 5744
+      "UsersEstimate": 5745
     },
     {
       "ID": "playerFelipe",
@@ -14152,7 +14157,7 @@
       "Name": "Unlock Tupa",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "playerWingsuit",
@@ -14184,7 +14189,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 9333
+      "UsersEstimate": 9335
     },
     {
       "ID": "sandboarder",
@@ -14200,7 +14205,7 @@
       "Name": "Sightseer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3949
+      "UsersEstimate": 3950
     },
     {
       "ID": "ultimate",
@@ -14240,7 +14245,7 @@
       "Name": "Welcome Maya",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 5385
+      "UsersEstimate": 5386
     },
     {
       "ID": "unlockpaz",
@@ -14287,15 +14292,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 35898,
+      "Progressed": 35905,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-07-28T06:00:25.7046366+00:00",
-  "LastChanged_Achievements": "2023-08-19T00:06:41.8162696+00:00",
+  "LastChanged_Achievements": "2023-08-19T01:41:33.3391954+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:59:07.3471244+00:00",
-  "LastUpdate_Ratings": "2023-08-19T00:02:31.9647663+00:00",
-  "LastUpdate_Achievements": "2023-08-19T00:06:41.8163923+00:00"
+  "LastUpdate_Ratings": "2023-08-19T01:37:11.1705194+00:00",
+  "LastUpdate_Achievements": "2023-08-19T01:41:33.3393072+00:00"
 }

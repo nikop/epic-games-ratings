@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 299)  
+Rating: 4.65 (Ranked 300)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -24,6 +24,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble | 2.00% | ~269 |
 | Pioneer | 2.00% | ~269 |
 | Strong | 2.00% | ~269 |
+| Warrior | 2.00% | ~269 |
 | Developing Cities | 2.00% | ~269 |
 | Hanging Gardens | 2.00% | ~269 |
 | Oracle | 2.00% | ~269 |
@@ -40,7 +41,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Fountainhead | 1.00% | ~135 |
 | Great | 1.00% | ~135 |
 | Magnificent | 1.00% | ~135 |
-| Warrior | 1.00% | ~135 |
 | Wise | 1.00% | ~135 |
 | Legendary Cities | 1.00% | ~135 |
 | Strong Cities | 1.00% | ~135 |
@@ -65,11 +65,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egyptian Paganism | 1.00% | ~135 |
 | Roman Paganism | 1.00% | ~135 |
 | Zoroastrianism | 1.00% | ~135 |
+| Intercessor | 0.90% | ~121 |
 | Valiant | 0.90% | ~121 |
 | Acropolis | 0.90% | ~121 |
 | Mausoleum | 0.90% | ~121 |
 | Mythology | 0.90% | ~121 |
-| Intercessor | 0.80% | ~108 |
 | Champions | 0.80% | ~108 |
 | Sages | 0.80% | ~108 |
 | Greece | 0.80% | ~108 |
@@ -80,6 +80,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lion | 0.70% | ~94 |
 | Mighty | 0.70% | ~94 |
 | Victorious | 0.70% | ~94 |
+| Good Difficulty | 0.70% | ~94 |
 | Patrons | 0.70% | ~94 |
 | Statesmen | 0.70% | ~94 |
 | Temple of Solomon | 0.70% | ~94 |
@@ -90,7 +91,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Phalangite | 0.70% | ~94 |
 | Invincible | 0.60% | ~81 |
 | Subjugator | 0.60% | ~81 |
-| Good Difficulty | 0.60% | ~81 |
 | Traders | 0.60% | ~81 |
 | Hittite Iron | 0.60% | ~81 |
 | Circus Maximus | 0.60% | ~81 |
@@ -105,6 +105,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legionary | 0.60% | ~81 |
 | Double Victory | 0.60% | ~81 |
 | Win a Single Player Game | 0.60% | ~81 |
+| Bad Heir Day | 0.50% | ~67 |
 | Capable | 0.50% | ~67 |
 | Devout | 0.50% | ~67 |
 | Ready | 0.50% | ~67 |
@@ -124,7 +125,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Veneration | 0.50% | ~67 |
 | Kushite Cavalry | 0.50% | ~67 |
 | Ambition Victory | 0.50% | ~67 |
-| Bad Heir Day | 0.40% | ~54 |
 | Ishtar Gate in Babylon | 0.40% | ~54 |
 | Old | 0.40% | ~54 |
 | Strong Difficulty | 0.40% | ~54 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,460 (Ranked 118)  
+Progressed: 13,461 (Ranked 118)  
 Completed: 5 (0.04%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -424,6 +424,7 @@ Completed: 5 (0.04%) (Ranked 230)
 | 2023-08-16 | 13,432 | 5 |
 | 2023-08-17 | 13,444 | 5 |
 | 2023-08-18 | 13,460 | 5 |
+| 2023-08-19 | 13,461 | 5 |
 ## Awards
 Max (Relaxing): 219  (Ranked 264)  
 Sum: 1,792 (Ranked 206)  

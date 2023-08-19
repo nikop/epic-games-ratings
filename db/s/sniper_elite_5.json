@@ -5,10 +5,10 @@
   "Ranking_Rating": 648,
   "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 512,
-  "Ranking_EOS_Progress": 151,
+  "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 175,
-  "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -470,9 +470,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3494,
+  "EOS_Progressed": 3495,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -6055,6 +6055,11 @@
       "Time": "2023-08-18T21:04:29.7244834+00:00",
       "NumProgressed": 3494,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-19T01:40:06.6102463+00:00",
+      "NumProgressed": 3495,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 71,
@@ -6146,7 +6151,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1607
+      "UsersEstimate": 1608
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -6226,7 +6231,7 @@
       "Name": "Precision Is Key",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
@@ -6258,7 +6263,7 @@
       "Name": "My Little Friend",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "REWARD_34_TRIPLE_KILL",
@@ -6274,7 +6279,7 @@
       "Name": "Lord of War",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1013
+      "UsersEstimate": 1014
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -6290,7 +6295,7 @@
       "Name": "Resourceful",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 908
+      "UsersEstimate": 909
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -6402,7 +6407,7 @@
       "Name": "Change the Channel",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1013
+      "UsersEstimate": 1014
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -6434,7 +6439,7 @@
       "Name": "Taking it back",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 943
+      "UsersEstimate": 944
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -6633,13 +6638,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3445,
+      "Progressed": 3446,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3494,
+      "Progressed": 3495,
       "Completed": 9
     }
   ],
@@ -6647,8 +6652,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-08-17T21:58:16.5576579+00:00",
-  "LastChanged_Achievements": "2023-08-19T00:04:52.7351664+00:00",
+  "LastChanged_Achievements": "2023-08-19T01:40:06.6102456+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:04.4888171+00:00",
-  "LastUpdate_Ratings": "2023-08-18T23:59:06.0174077+00:00",
-  "LastUpdate_Achievements": "2023-08-19T00:04:52.7352891+00:00"
+  "LastUpdate_Ratings": "2023-08-19T01:34:10.7195953+00:00",
+  "LastUpdate_Achievements": "2023-08-19T01:40:06.6104328+00:00"
 }

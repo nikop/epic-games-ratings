@@ -3,12 +3,12 @@
   "Name": "Slain: Back From Hell",
   "ProductSlug": "slain-aea303",
   "Ranking_Rating": 797,
-  "Ranking_Popularity": 310,
+  "Ranking_Popularity": 311,
   "Ranking_PopularitySum": 403,
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 220,
   "Ranking_EOS_NewPlayers": 58,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -217,9 +217,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 34351,
+  "EOS_Progressed": 34357,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 840,
+  "EOS_NewPlayers": 833,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -13437,6 +13437,11 @@
       "Time": "2023-08-19T00:07:14.6372388+00:00",
       "NumProgressed": 34351,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-08-19T01:42:02.1658927+00:00",
+      "NumProgressed": 34357,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 29,
@@ -13448,7 +13453,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 5153
+      "UsersEstimate": 5154
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -13456,7 +13461,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 6870
+      "UsersEstimate": 6871
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -13679,7 +13684,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 34351,
+      "Progressed": 34357,
       "Completed": 21
     }
   ],
@@ -13687,8 +13692,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-08-12T21:03:39.1122054+00:00",
-  "LastChanged_Achievements": "2023-08-19T00:07:14.6372377+00:00",
+  "LastChanged_Achievements": "2023-08-19T01:42:02.1658921+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:57.7890504+00:00",
-  "LastUpdate_Ratings": "2023-08-18T23:57:53.4789202+00:00",
-  "LastUpdate_Achievements": "2023-08-19T00:07:14.63738+00:00"
+  "LastUpdate_Ratings": "2023-08-19T01:33:11.8949346+00:00",
+  "LastUpdate_Achievements": "2023-08-19T01:42:02.1660668+00:00"
 }

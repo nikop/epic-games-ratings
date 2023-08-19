@@ -4,8 +4,8 @@
   "ProductSlug": "maid-of-sker-2ae24e",
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 316,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 314,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -316,9 +316,9 @@
       "ID": "choking_hazzard",
       "SetID": "3j2phem",
       "Name": "Choking Hazard",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 75
+      "UsersEstimate": 77
     },
     {
       "ID": "dodgy_geezer",
@@ -525,8 +525,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2023-08-19T00:02:55.2339484+00:00",
+  "LastChanged_Achievements": "2023-08-19T01:37:31.5005806+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:58:56.9714004+00:00",
-  "LastUpdate_Ratings": "2023-08-19T00:02:19.4492614+00:00",
-  "LastUpdate_Achievements": "2023-08-19T00:02:55.233979+00:00"
+  "LastUpdate_Ratings": "2023-08-19T01:37:01.2124025+00:00",
+  "LastUpdate_Achievements": "2023-08-19T01:37:31.5006226+00:00"
 }

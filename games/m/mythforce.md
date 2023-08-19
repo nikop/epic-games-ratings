@@ -19,18 +19,18 @@ Number of Ratings: 285  (23.09.2022)
 | Cold-Blooded Critters | 1.00% | ~8 |
 | Deadication | 1.00% | ~8 |
 | Everything Must Go! | 1.00% | ~8 |
-| The Harder They Fall | 1.00% | ~8 |
 | Horder Better Faster Stronger | 1.00% | ~8 |
-| Next Time on MythForce... | 1.00% | ~8 |
-| On this Episode! | 1.00% | ~8 |
 | Season Finale | 1.00% | ~8 |
 | Spending Spree | 1.00% | ~8 |
+| The Harder They Fall | 0.90% | ~8 |
+| Next Time on MythForce... | 0.90% | ~8 |
+| On this Episode! | 0.90% | ~8 |
 | The Fourth Gate | 0.80% | ~7 |
 | We've Got a Kaiju on the Field | 0.10% | ~1 |
 | Deadalus and Loving It | 0.00% | ~0 |
 | Vexed Her | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 840 (Ranked 205)  
+Progressed: 845 (Ranked 205)  
 Completed: 0 (0.00%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,6 +65,7 @@ Completed: 0 (0.00%) (Ranked 260)
 | 2023-08-16 | 793 | 0 |
 | 2023-08-17 | 813 | 0 |
 | 2023-08-18 | 840 | 0 |
+| 2023-08-19 | 845 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 453)  
 Sum: 254 (Ranked 352)  

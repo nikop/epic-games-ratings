@@ -1572,17 +1572,17 @@
       "ID": "DevilRope",
       "SetID": "db30heh",
       "Name": "The Devil is My Friend",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 287
+      "UsersEstimate": 291
     },
     {
       "ID": "Drunkard",
       "SetID": "db30heh",
       "Name": "Drunkard",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 108
+      "UsersEstimate": 112
     },
     {
       "ID": "DwarDevil",
@@ -1684,9 +1684,9 @@
       "ID": "PriestPistol",
       "SetID": "db30heh",
       "Name": "Unexpected Hit",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 72
+      "UsersEstimate": 76
     },
     {
       "ID": "PriestPoppiesBroth",
@@ -1708,9 +1708,9 @@
       "ID": "PriestRum",
       "SetID": "db30heh",
       "Name": "Rummy",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 148
+      "UsersEstimate": 152
     },
     {
       "ID": "Priestess",
@@ -1772,9 +1772,9 @@
       "ID": "SleepingBasiliskAmanita",
       "SetID": "db30heh",
       "Name": "Wild Dreams",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 68
+      "UsersEstimate": 72
     },
     {
       "ID": "SleepingBasiliskPistol",
@@ -1788,9 +1788,9 @@
       "ID": "SleepingBasiliskPoppiesBroth",
       "SetID": "db30heh",
       "Name": "Poppy Sleep",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 64
+      "UsersEstimate": 68
     },
     {
       "ID": "SwordDiamond",
@@ -1812,9 +1812,9 @@
       "ID": "WormGrilled",
       "SetID": "db30heh",
       "Name": "Bratwurm",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 52
     }
   ],
   "AchievementSets": [
@@ -1827,8 +1827,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-08-19T00:03:43.4942056+00:00",
+  "LastChanged_Achievements": "2023-08-19T01:39:14.8387236+00:00",
   "LastUpdate_AppInfo": "2023-08-15T16:57:19.7846089+00:00",
-  "LastUpdate_Ratings": "2023-08-18T23:59:13.6112246+00:00",
-  "LastUpdate_Achievements": "2023-08-19T00:03:43.4942523+00:00"
+  "LastUpdate_Ratings": "2023-08-19T01:34:15.2784736+00:00",
+  "LastUpdate_Achievements": "2023-08-19T01:39:14.8387969+00:00"
 }

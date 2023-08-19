@@ -4,8 +4,8 @@
   "ProductSlug": "test-product-42740e",
   "Ranking_EOS_Progress": 548,
   "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 355,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 354,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-06-26T00:00:00+00:00",
     "PcReleaseDate": "2022-03-09T23:00:00+00:00",
@@ -214,8 +214,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-06T06:00:02.3428806+00:00",
-  "LastChanged_Achievements": "2023-08-19T00:08:14.4339685+00:00",
+  "LastChanged_Achievements": "2023-08-19T01:42:52.6924882+00:00",
   "LastUpdate_AppInfo": "2023-08-15T09:57:15.3473042+00:00",
-  "LastUpdate_Ratings": "2023-08-18T23:59:26.1145468+00:00",
-  "LastUpdate_Achievements": "2023-08-19T00:08:14.4339824+00:00"
+  "LastUpdate_Ratings": "2023-08-19T01:34:26.9772265+00:00",
+  "LastUpdate_Achievements": "2023-08-19T01:42:52.6925051+00:00"
 }

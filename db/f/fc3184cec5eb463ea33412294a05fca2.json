@@ -895,9 +895,9 @@
       "ID": "NEW_ACHIEVEMENT_1_13",
       "SetID": "8d3ci0",
       "Name": "High-rise",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 120
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -990,8 +990,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-08-19T00:04:14.1318323+00:00",
+  "LastChanged_Achievements": "2023-08-19T01:39:32.8395297+00:00",
   "LastUpdate_AppInfo": "2023-08-12T15:56:58.9050315+00:00",
-  "LastUpdate_Ratings": "2023-08-18T23:59:12.9193864+00:00",
-  "LastUpdate_Achievements": "2023-08-19T00:04:14.1318498+00:00"
+  "LastUpdate_Ratings": "2023-08-19T01:34:14.9521989+00:00",
+  "LastUpdate_Achievements": "2023-08-19T01:39:32.8395475+00:00"
 }

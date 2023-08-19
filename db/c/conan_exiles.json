@@ -3,12 +3,12 @@
   "Name": "Conan Exiles",
   "ProductSlug": "conan-exiles",
   "Ranking_Rating": 487,
-  "Ranking_Popularity": 128,
+  "Ranking_Popularity": 127,
   "Ranking_PopularitySum": 86,
   "Ranking_EOS_Progress": 548,
   "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 355,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 354,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2021-11-23T16:00:00+00:00",
     "PcReleaseDate": "2018-05-08T16:00:00+00:00",
@@ -5731,18 +5731,24 @@
       "Rating": 4.55,
       "NumberOfAwards": 9687,
       "NumberOfAwardsMax": 1387
+    },
+    {
+      "Time": "2023-08-19T01:33:49.7282045+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 9693,
+      "NumberOfAwardsMax": 1390
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9687,
-  "NumberOfAwardsMax": 1387,
+  "NumberOfAwards": 9693,
+  "NumberOfAwardsMax": 1390,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1387
+      "Count": 1390
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -5778,7 +5784,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1231
+      "Count": 1234
     },
     {
       "Text": "This game has Amazing Characters",
@@ -5804,8 +5810,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:49.0940249+00:00",
-  "LastChanged": "2023-08-18T13:57:48.953796+00:00",
+  "LastChanged": "2023-08-19T01:33:49.7282043+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:57:24.8620472+00:00",
-  "LastUpdate_Ratings": "2023-08-18T23:58:41.4228608+00:00",
-  "LastUpdate_Achievements": "2023-08-19T00:04:43.9321239+00:00"
+  "LastUpdate_Ratings": "2023-08-19T01:33:49.728205+00:00",
+  "LastUpdate_Achievements": "2023-08-19T01:39:58.7334327+00:00"
 }

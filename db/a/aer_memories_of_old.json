@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 90,
-  "Ranking_EOS_NewPlayers": 73,
+  "Ranking_EOS_NewPlayers": 71,
   "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -380,9 +380,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18139,
+  "EOS_Progressed": 18144,
   "EOS_Completed": 367,
-  "EOS_NewPlayers": 531,
+  "EOS_NewPlayers": 534,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 2.02,
   "EosHistory": [
@@ -13190,6 +13190,11 @@
       "Time": "2023-08-19T00:07:17.583032+00:00",
       "NumProgressed": 18139,
       "NumCompleted": 367
+    },
+    {
+      "Time": "2023-08-19T01:42:04.7480784+00:00",
+      "NumProgressed": 18144,
+      "NumCompleted": 367
     }
   ],
   "TotalAchievements": 20,
@@ -13209,7 +13214,7 @@
       "Name": "Ripples on the surface",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1088
+      "UsersEstimate": 1089
     },
     {
       "ID": "EAST_FINISHED",
@@ -13217,7 +13222,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2539
+      "UsersEstimate": 2540
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -13249,7 +13254,7 @@
       "Name": "An uninvited guest",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1451
+      "UsersEstimate": 1452
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -13265,7 +13270,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2721
+      "UsersEstimate": 2722
     },
     {
       "ID": "FOUND_ERIN",
@@ -13281,7 +13286,7 @@
       "Name": "Tails of Stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1088
+      "UsersEstimate": 1089
     },
     {
       "ID": "FOUND_MAMBA",
@@ -13289,7 +13294,7 @@
       "Name": "Baa from the past",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1088
+      "UsersEstimate": 1089
     },
     {
       "ID": "FOUND_RIFT_CAVE",
@@ -13297,7 +13302,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2358
+      "UsersEstimate": 2359
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -13305,7 +13310,7 @@
       "Name": "Written in stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1088
+      "UsersEstimate": 1089
     },
     {
       "ID": "GAME_FINISHED",
@@ -13321,7 +13326,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 13786
+      "UsersEstimate": 13789
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -13329,7 +13334,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 5079
+      "UsersEstimate": 5080
     },
     {
       "ID": "NORTH_FINISHED",
@@ -13337,7 +13342,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2539
+      "UsersEstimate": 2540
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -13353,22 +13358,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 3446
+      "UsersEstimate": 3447
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 18139,
+      "Progressed": 18144,
       "Completed": 367
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-08-12T01:39:46.4098224+00:00",
-  "LastChanged_Achievements": "2023-08-19T00:07:17.5830312+00:00",
+  "LastChanged_Achievements": "2023-08-19T01:42:04.7480778+00:00",
   "LastUpdate_AppInfo": "2023-08-12T07:58:04.1120676+00:00",
-  "LastUpdate_Ratings": "2023-08-18T23:57:55.2196691+00:00",
-  "LastUpdate_Achievements": "2023-08-19T00:07:17.5831417+00:00"
+  "LastUpdate_Ratings": "2023-08-19T01:33:13.4710043+00:00",
+  "LastUpdate_Achievements": "2023-08-19T01:42:04.7481867+00:00"
 }

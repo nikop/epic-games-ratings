@@ -1,7 +1,7 @@
 # ATOM RPG
 [Store](https://store.epicgames.com/en-US/p/atom-rpg-3adb54)  
 [View Rawdata](../../db/a/atom_rpg.json)  
-Rating: 4.47 (Ranked 610)  
+Rating: 4.47 (Ranked 609)  
 Number of Ratings: 54  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -148,9 +148,9 @@ Completed: 0 (0.00%) (Ranked 260)
 | 2023-08-15 | 1,136 | 0 |
 | 2023-08-16 | 1,139 | 0 |
 ## Awards
-Max (Character Customization): 49  (Ranked 405)  
+Max (Character Customization): 49  (Ranked 406)  
 Sum: 49 (Ranked 452)  
-Diff (max vs sum): -47  
+Diff (max vs sum): -46  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 49 |

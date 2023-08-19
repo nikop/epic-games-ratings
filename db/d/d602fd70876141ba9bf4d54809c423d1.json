@@ -2,10 +2,10 @@
   "ID": "d602fd70876141ba9bf4d54809c423d1",
   "Name": "The Evil Within",
   "ProductSlug": "the-evil-within",
-  "Ranking_EOS_Progress": 354,
+  "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
     "PcReleaseDate": "2014-07-13T00:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 67,
+  "EOS_Progressed": 68,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -348,6 +348,11 @@
     {
       "Time": "2023-08-18T11:05:32.8174138+00:00",
       "NumProgressed": 67,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-19T01:40:49.0760576+00:00",
+      "NumProgressed": 68,
       "NumCompleted": 0
     }
   ],
@@ -928,20 +933,20 @@
     {
       "ID": "8ddjaeg",
       "IsBase": false,
-      "Progressed": 67,
+      "Progressed": 68,
       "Completed": 0
     },
     {
       "ID": "ap8553i",
       "IsBase": true,
-      "Progressed": 67,
+      "Progressed": 68,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-04T21:57:01.9865679+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5206267+00:00",
-  "LastChanged_Achievements": "2023-08-19T00:05:40.6452149+00:00",
+  "LastChanged_Achievements": "2023-08-19T01:40:49.076057+00:00",
   "LastUpdate_AppInfo": "2023-08-16T16:57:24.4284709+00:00",
-  "LastUpdate_Ratings": "2023-08-18T23:58:41.2242799+00:00",
-  "LastUpdate_Achievements": "2023-08-19T00:05:40.6452999+00:00"
+  "LastUpdate_Ratings": "2023-08-19T01:33:49.5268779+00:00",
+  "LastUpdate_Achievements": "2023-08-19T01:40:49.0762104+00:00"
 }
