@@ -14,9 +14,9 @@
 | 12 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 12 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 12 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 20.00% |
-| 15 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
-| 16 | [Island Cities](games/i/island_cities.md) | 18.00% |
-| 17 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 17.74% |
+| 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 18.55% |
+| 16 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
+| 17 | [Island Cities](games/i/island_cities.md) | 18.00% |
 | 18 | [Anna's Quest](games/a/anna's_quest.md) | 14.71% |
 | 19 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.55% |
 | 20 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.11% |
@@ -46,9 +46,9 @@
 | 44 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 45 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.98% |
 | 46 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.45% |
-| 47 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 5.38% |
-| 48 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.36% |
-| 48 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.36% |
+| 47 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.36% |
+| 47 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.36% |
+| 49 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 5.32% |
 | 50 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.19% |
 | 51 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.92% |
 | 52 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 4.76% |
@@ -107,7 +107,7 @@
 | 105 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.46% |
 | 105 | [Ten Dates](games/t/ten_dates.md) | 1.46% |
 | 107 | [Poosh XL](games/p/poosh_xl.md) | 1.41% |
-| 108 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 1.38% |
+| 108 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 1.31% |
 | 109 | [Late Shift](games/l/late_shift.md) | 1.29% |
 | 110 | [Infindustry](games/i/infindustry.md) | 1.27% |
 | 111 | [Chorus](games/c/chorus.md) | 1.15% |
