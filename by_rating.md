@@ -154,7 +154,7 @@
 | 146 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.74 | 0 | 512 |
 | 146 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,953 | 50 |
 | 146 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.74 | 0 | 512 |
-| 146 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 36,126 | 14 |
+| 146 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 36,172 | 14 |
 | 146 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 0 | 512 |
 | 146 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 0 | 512 |
 | 146 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 793 | 158 |
@@ -250,29 +250,29 @@
 | 238 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 213,413 | 4 |
 | 238 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 512 |
 | 238 | [King of Retail](games/k/king_of_retail.md) | 4.68 | 0 | 512 |
+| 238 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 439 | 206 |
 | 238 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 562 | 188 |
 | 238 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 681 | 170 |
 | 238 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.68 | 52 | 399 |
 | 238 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.68 | 0 | 512 |
 | 238 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.68 | 0 | 512 |
 | 238 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 89 | 351 |
-| 257 | [APE OUT](games/a/ape_out.md) | 4.67 | 0 | 512 |
-| 257 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 665 | 172 |
-| 257 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 512 |
-| 257 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 626 | 178 |
-| 257 | [Loop Hero](games/l/loop_hero.md) | 4.67 | 437 | 206 |
-| 257 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,244 | 105 |
-| 257 | [Overcooked](games/o/overcooked.md) | 4.67 | 115 | 324 |
-| 257 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.67 | 32 | 453 |
-| 257 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.67 | 0 | 512 |
-| 257 | [Suzerain](games/s/suzerain.md) | 4.67 | 0 | 512 |
-| 257 | [Tavern Master](games/t/tavern_master.md) | 4.67 | 0 | 512 |
-| 257 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 576 | 183 |
-| 257 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.67 | 0 | 512 |
-| 257 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 0 | 512 |
-| 257 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 0 | 512 |
-| 257 | [Trackmania](games/t/trackmania.md) | 4.67 | 3,148 | 93 |
-| 257 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 0 | 512 |
+| 258 | [APE OUT](games/a/ape_out.md) | 4.67 | 0 | 512 |
+| 258 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 665 | 172 |
+| 258 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 512 |
+| 258 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 627 | 178 |
+| 258 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,244 | 105 |
+| 258 | [Overcooked](games/o/overcooked.md) | 4.67 | 115 | 324 |
+| 258 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.67 | 32 | 453 |
+| 258 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.67 | 0 | 512 |
+| 258 | [Suzerain](games/s/suzerain.md) | 4.67 | 0 | 512 |
+| 258 | [Tavern Master](games/t/tavern_master.md) | 4.67 | 0 | 512 |
+| 258 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 576 | 183 |
+| 258 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.67 | 0 | 512 |
+| 258 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 0 | 512 |
+| 258 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 0 | 512 |
+| 258 | [Trackmania](games/t/trackmania.md) | 4.67 | 3,148 | 93 |
+| 258 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 0 | 512 |
 | 274 | [Carcassonne](games/c/carcassonne.md) | 4.66 | 76 | 367 |
 | 274 | [Coromon](games/c/coromon.md) | 4.66 | 41 | 422 |
 | 274 | [Crashlands](games/c/crashlands.md) | 4.66 | 193 | 275 |
@@ -327,7 +327,7 @@
 | 314 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.64 | 28,789 | 16 |
 | 314 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 67 | 383 |
 | 314 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.64 | 0 | 512 |
-| 314 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 191 | 276 |
+| 314 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 192 | 276 |
 | 329 | [ABZU](games/a/abzu.md) | 4.63 | 0 | 512 |
 | 329 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.63 | 21 | 501 |
 | 329 | [Assassin's Creed Chronicles: China](games/a/assassin's_creed_chronicles__china.md) | 4.63 | 0 | 512 |
@@ -394,7 +394,7 @@
 | 391 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 13,260 | 28 |
 | 391 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.60 | 0 | 512 |
 | 391 | [Brawlhalla](games/b/brawlhalla.md) | 4.60 | 277 | 244 |
-| 391 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 4,510 | 73 |
+| 391 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 4,514 | 73 |
 | 391 | [Control](games/c/control.md) | 4.60 | 8,449 | 40 |
 | 391 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 4.60 | 0 | 512 |
 | 391 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 219 | 264 |

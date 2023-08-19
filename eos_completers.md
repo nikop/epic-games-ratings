@@ -28,7 +28,7 @@
 | 26 | [Remains](games/r/remains.md) | 10.64% |
 | 27 | [Out of Bounds](games/o/out_of_bounds.md) | 10.34% |
 | 28 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.03% |
-| 29 | [Sonic Origins](games/s/sonic_origins.md) | 9.57% |
+| 29 | [Sonic Origins](games/s/sonic_origins.md) | 9.55% |
 | 30 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.52% |
 | 31 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.30% |
 | 32 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.93% |
@@ -46,7 +46,7 @@
 | 44 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 45 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.98% |
 | 46 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.45% |
-| 47 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 5.43% |
+| 47 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 5.38% |
 | 48 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.36% |
 | 48 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.36% |
 | 50 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.19% |
@@ -67,10 +67,10 @@
 | 65 | [Doodle God](games/d/doodle_god.md) | 3.45% |
 | 66 | [Bunny Park](games/b/bunny_park.md) | 3.39% |
 | 67 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.30% |
-| 68 | [HordeCore](games/h/hordecore.md) | 3.15% |
-| 69 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.12% |
-| 70 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.04% |
-| 71 | [The Complex](games/t/the_complex.md) | 2.98% |
+| 68 | [The Complex](games/t/the_complex.md) | 3.17% |
+| 69 | [HordeCore](games/h/hordecore.md) | 3.15% |
+| 70 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.12% |
+| 71 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.04% |
 | 72 | [Monster Harvest](games/m/monster_harvest.md) | 2.94% |
 | 73 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.93% |
 | 73 | [MultiVersus](games/m/multiversus.md) | 2.93% |
@@ -102,9 +102,9 @@
 | 100 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.60% |
 | 101 | [Five Dates](games/f/five_dates.md) | 1.57% |
 | 101 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.57% |
-| 103 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 1.52% |
-| 104 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.49% |
-| 105 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.47% |
+| 103 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.49% |
+| 104 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.47% |
+| 104 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 1.47% |
 | 106 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.46% |
 | 106 | [Ten Dates](games/t/ten_dates.md) | 1.46% |
 | 108 | [Poosh XL](games/p/poosh_xl.md) | 1.41% |
@@ -123,7 +123,7 @@
 | 121 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.96% |
 | 122 | [Hades](games/h/hades.md) | 0.90% |
 | 123 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
-| 124 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
+| 124 | [Dungeons 3](games/d/dungeons_3.md) | 0.81% |
 | 125 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.80% |
 | 126 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.75% |
 | 127 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.74% |
@@ -135,8 +135,8 @@
 | 132 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.62% |
 | 132 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.62% |
 | 132 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.62% |
-| 136 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.60% |
-| 136 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.60% |
+| 136 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.61% |
+| 137 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.60% |
 | 138 | [Potion Permit](games/p/potion_permit.md) | 0.58% |
 | 139 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.57% |
 | 140 | [Grindstone](games/g/grindstone.md) | 0.56% |
