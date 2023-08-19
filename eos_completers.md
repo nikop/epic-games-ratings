@@ -3,7 +3,7 @@
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 51.35% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.42% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 39.22% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 41.18% |
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
 | 6 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 26.00% |
@@ -28,7 +28,7 @@
 | 26 | [Remains](games/r/remains.md) | 10.64% |
 | 27 | [Out of Bounds](games/o/out_of_bounds.md) | 10.34% |
 | 28 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.03% |
-| 29 | [Sonic Origins](games/s/sonic_origins.md) | 9.60% |
+| 29 | [Sonic Origins](games/s/sonic_origins.md) | 9.57% |
 | 30 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.52% |
 | 31 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.30% |
 | 32 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.93% |
@@ -41,7 +41,7 @@
 | 39 | [Scorn](games/s/scorn.md) | 6.93% |
 | 40 | [Time Loader](games/t/time_loader.md) | 6.78% |
 | 41 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.77% |
-| 42 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.76% |
+| 42 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.73% |
 | 43 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 44 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 45 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.98% |
@@ -61,7 +61,7 @@
 | 59 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.15% |
 | 60 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.04% |
 | 61 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.92% |
-| 62 | [ZZT!](games/z/zzt!.md) | 3.76% |
+| 62 | [ZZT!](games/z/zzt!.md) | 3.79% |
 | 63 | [Without Escape](games/w/without_escape.md) | 3.57% |
 | 64 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 65 | [Doodle God](games/d/doodle_god.md) | 3.45% |
@@ -102,7 +102,7 @@
 | 100 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.60% |
 | 101 | [Five Dates](games/f/five_dates.md) | 1.57% |
 | 101 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.57% |
-| 103 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 1.56% |
+| 103 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 1.55% |
 | 104 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.49% |
 | 105 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.47% |
 | 106 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.46% |
@@ -211,12 +211,12 @@
 | 206 | [Shop Titans](games/s/shop_titans.md) | 0.10% |
 | 206 | [Supraland](games/s/supraland.md) | 0.10% |
 | 211 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
+| 211 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.09% |
 | 211 | [Outward Definitive Edition](games/o/outward.md) | 0.09% |
 | 211 | [Riverbond](games/r/riverbond.md) | 0.09% |
 | 211 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
 | 211 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
-| 216 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.08% |
-| 216 | [Partisans 1941](games/p/partisans_1941.md) | 0.08% |
+| 217 | [Partisans 1941](games/p/partisans_1941.md) | 0.08% |
 | 218 | [Saints Row](games/s/saints_row.md) | 0.07% |
 | 218 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
 | 220 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 0.06% |
