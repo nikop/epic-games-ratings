@@ -33,8 +33,8 @@
 | 31 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.30% |
 | 32 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.93% |
 | 33 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.48% |
-| 34 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 8.33% |
-| 35 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.69% |
+| 34 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 7.69% |
+| 34 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.69% |
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.53% |
 | 37 | [Smelter](games/s/smelter.md) | 7.50% |
 | 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.94% |
@@ -69,7 +69,7 @@
 | 67 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.30% |
 | 68 | [The Complex](games/t/the_complex.md) | 3.17% |
 | 69 | [HordeCore](games/h/hordecore.md) | 3.15% |
-| 70 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.12% |
+| 70 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.11% |
 | 71 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.04% |
 | 72 | [Monster Harvest](games/m/monster_harvest.md) | 2.94% |
 | 73 | [MultiVersus](games/m/multiversus.md) | 2.93% |
@@ -89,25 +89,25 @@
 | 87 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.27% |
 | 88 | [Bloodshore](games/b/bloodshore.md) | 2.21% |
 | 89 | [FORECLOSED](games/f/foreclosed.md) | 2.17% |
-| 90 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.02% |
+| 90 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.03% |
 | 91 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.94% |
 | 92 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.92% |
-| 93 | [Night Book](games/n/night_book.md) | 1.89% |
-| 94 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
-| 95 | [Frogun](games/f/frogun.md) | 1.81% |
-| 95 | [Sifu](games/s/sifu.md) | 1.81% |
-| 97 | [Somerville](games/s/somerville.md) | 1.67% |
-| 97 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.67% |
-| 99 | [Iron Danger](games/i/iron_danger.md) | 1.61% |
-| 100 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.60% |
-| 101 | [Five Dates](games/f/five_dates.md) | 1.57% |
-| 101 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.57% |
-| 103 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.49% |
-| 104 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.47% |
-| 105 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.46% |
-| 105 | [Ten Dates](games/t/ten_dates.md) | 1.46% |
-| 107 | [Poosh XL](games/p/poosh_xl.md) | 1.41% |
-| 108 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 1.31% |
+| 93 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 1.91% |
+| 94 | [Night Book](games/n/night_book.md) | 1.89% |
+| 95 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
+| 96 | [Frogun](games/f/frogun.md) | 1.81% |
+| 96 | [Sifu](games/s/sifu.md) | 1.81% |
+| 98 | [Somerville](games/s/somerville.md) | 1.67% |
+| 98 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.67% |
+| 100 | [Iron Danger](games/i/iron_danger.md) | 1.61% |
+| 101 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.60% |
+| 102 | [Five Dates](games/f/five_dates.md) | 1.57% |
+| 102 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.57% |
+| 104 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.49% |
+| 105 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.47% |
+| 106 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.46% |
+| 106 | [Ten Dates](games/t/ten_dates.md) | 1.46% |
+| 108 | [Poosh XL](games/p/poosh_xl.md) | 1.41% |
 | 109 | [Late Shift](games/l/late_shift.md) | 1.29% |
 | 110 | [Infindustry](games/i/infindustry.md) | 1.27% |
 | 111 | [Chorus](games/c/chorus.md) | 1.15% |
