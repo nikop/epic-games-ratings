@@ -43,7 +43,7 @@
 | 41 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 7,975 | 4.89 | 13 |
 | 42 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 7,806 | 4.48 | 592 |
 | 43 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 7,798 | 4.74 | 146 |
-| 44 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,772 | 4.85 | 42 |
+| 44 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,775 | 4.85 | 42 |
 | 45 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,685 | 4.57 | 451 |
 | 46 | [Supraland](games/s/supraland.md) | 7,672 | 4.61 | 365 |
 | 47 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,392 | 4.71 | 185 |
@@ -68,12 +68,12 @@
 | 66 | [Rogue Company](games/r/rogue_company.md) | 5,270 | 4.33 | 770 |
 | 67 | [Cities: Skylines](games/c/cities__skylines.md) | 5,171 | 4.65 | 300 |
 | 68 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,167 | 4.06 | 921 |
-| 69 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,755 | 4.69 | 216 |
+| 69 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,760 | 4.69 | 216 |
 | 70 | [MultiVersus](games/m/multiversus.md) | 4,746 | 4.56 | 472 |
 | 71 | [Shop Titans](games/s/shop_titans.md) | 4,704 | 3.99 | 933 |
 | 72 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,556 | 4.70 | 199 |
 | 73 | [Chivalry 2](games/c/chivalry_2.md) | 4,510 | 4.60 | 391 |
-| 74 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,482 | 4.70 | 199 |
+| 74 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,487 | 4.70 | 199 |
 | 75 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4,399 | 4.76 | 118 |
 | 76 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4,310 | 4.55 | 487 |
 | 77 | [God of War](games/g/god_of_war.md) | 4,207 | 4.88 | 19 |
@@ -139,7 +139,7 @@
 | 137 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,165 | 4.61 | 365 |
 | 138 | [Rogue Legacy](games/r/rogue_legacy.md) | 1,074 | 4.61 | 365 |
 | 139 | [EVE Online](games/e/eve_online.md) | 1,062 | 4.25 | 825 |
-| 140 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,057 | 4.66 | 274 |
+| 140 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,058 | 4.66 | 274 |
 | 141 | [Saints Row](games/s/saints_row.md) | 1,056 | 3.78 | 962 |
 | 142 | [Ooblets](games/o/ooblets.md) | 1,020 | 4.88 | 19 |
 | 143 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 1,016 | 4.39 | 710 |
@@ -195,7 +195,7 @@
 | 193 | [Vampyr](games/v/vampyr.md) | 555 | 4.32 | 777 |
 | 194 | [Godfall Ultimate Edition](games/g/godfall.md) | 538 | 4.07 | 919 |
 | 195 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 528 | 4.52 | 527 |
-| 196 | [MORDHAU](games/m/mordhau.md) | 524 | 4.39 | 710 |
+| 196 | [MORDHAU](games/m/mordhau.md) | 525 | 4.39 | 710 |
 | 197 | [Terraforming Mars](games/t/terraforming_mars.md) | 510 | 4.53 | 513 |
 | 198 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 492 | 4.86 | 30 |
 | 199 | [Prison Architect](games/p/prison_architect.md) | 486 | 4.61 | 365 |

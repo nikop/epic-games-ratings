@@ -44,7 +44,7 @@
 | 42 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.85 | 21 | 501 |
 | 42 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.85 | 51 | 400 |
 | 42 | [Black Book](games/b/black_book.md) | 4.85 | 21 | 501 |
-| 42 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,772 | 44 |
+| 42 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,775 | 44 |
 | 42 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,541 | 65 |
 | 42 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.85 | 380 | 220 |
 | 42 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 220 | 263 |
@@ -213,12 +213,12 @@
 | 199 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 46 | 410 |
 | 199 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.70 | 0 | 512 |
 | 199 | [The Witness](games/t/the_witness.md) | 4.70 | 179 | 282 |
-| 199 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,482 | 74 |
+| 199 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,487 | 74 |
 | 199 | [Ys IX: Monstrum Nox](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.70 | 0 | 512 |
 | 216 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 114,878 | 8 |
 | 216 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 512 |
 | 216 | [CARRION](games/c/carrion.md) | 4.69 | 0 | 512 |
-| 216 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.69 | 4,755 | 69 |
+| 216 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.69 | 4,760 | 69 |
 | 216 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.69 | 0 | 512 |
 | 216 | [House Flipper](games/h/house_flipper.md) | 4.69 | 307 | 235 |
 | 216 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.69 | 0 | 512 |
@@ -287,7 +287,7 @@
 | 274 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.66 | 159 | 293 |
 | 274 | [LEGO® 2K Drive](games/l/lego®_2k_drive.md) | 4.66 | 0 | 512 |
 | 274 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.66 | 51 | 400 |
-| 274 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 1,057 | 140 |
+| 274 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 1,058 | 140 |
 | 274 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 1,906 | 110 |
 | 274 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.66 | 54 | 395 |
 | 274 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 561 | 189 |
@@ -714,7 +714,7 @@
 | 710 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 1,016 | 143 |
 | 710 | [Democracy 4](games/d/democracy_4.md) | 4.39 | 0 | 512 |
 | 710 | [Hero's Hour](games/h/hero's_hour.md) | 4.39 | 0 | 512 |
-| 710 | [MORDHAU](games/m/mordhau.md) | 4.39 | 524 | 196 |
+| 710 | [MORDHAU](games/m/mordhau.md) | 4.39 | 525 | 196 |
 | 710 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,744 | 32 |
 | 710 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 4.39 | 0 | 512 |
 | 710 | [Startup Panic](games/s/startup_panic.md) | 4.39 | 0 | 512 |
