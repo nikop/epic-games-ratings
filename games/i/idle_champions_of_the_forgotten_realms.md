@@ -20,6 +20,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Seeking Allies | 0.20% | ~446 |
 | Are Ya Chicken? | 0.20% | ~446 |
 | Mad Cow Disease | 0.20% | ~446 |
+| Exploring Port Nyanzaru | 0.20% | ~446 |
 | Friendly Imps | 0.20% | ~446 |
 | The Chaotic Hunt for The Last Breath | 0.20% | ~379 |
 | There's a Flying Snake in my Boot! | 0.20% | ~379 |
@@ -280,7 +281,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | An Abyssal Situation | 0.10% | ~223 |
 | Dino Nightmare | 0.10% | ~223 |
 | A Familiar Friend | 0.10% | ~189 |
-| Exploring Port Nyanzaru | 0.10% | ~223 |
 | A Tale of Two Cities | 0.10% | ~223 |
 | A Tale of Two Fiends | 0.10% | ~223 |
 | A Tale of Two Champions | 0.10% | ~223 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~189 |
 | Animated Giff | 0.10% | ~189 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 223,207 (Ranked 53)  
+Progressed: 223,217 (Ranked 53)  
 Completed: 2,192 (0.98%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -644,7 +644,7 @@ Completed: 2,192 (0.98%) (Ranked 119)
 | 2023-08-16 | 222,534 | 2,186 |
 | 2023-08-17 | 222,852 | 2,189 |
 | 2023-08-18 | 223,142 | 2,190 |
-| 2023-08-19 | 223,207 | 2,192 |
+| 2023-08-19 | 223,217 | 2,192 |
 ## Awards
 Max (Diverse Characters): 5,167  (Ranked 68)  
 Sum: 31,122 (Ranked 38)  

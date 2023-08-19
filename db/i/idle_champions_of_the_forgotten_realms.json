@@ -5914,9 +5914,9 @@
       "Count": 3360
     }
   ],
-  "EOS_Progressed": 223207,
+  "EOS_Progressed": 223217,
   "EOS_Completed": 2192,
-  "EOS_NewPlayers": 2219,
+  "EOS_NewPlayers": 2220,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -19044,6 +19044,11 @@
       "Time": "2023-08-19T04:05:16.7233301+00:00",
       "NumProgressed": 223207,
       "NumCompleted": 2192
+    },
+    {
+      "Time": "2023-08-19T05:04:28.0380957+00:00",
+      "NumProgressed": 223217,
+      "NumCompleted": 2192
     }
   ],
   "TotalAchievements": 516,
@@ -21197,9 +21202,9 @@
       "ID": "objective_completed_54",
       "SetID": "cc37lbc",
       "Name": "Exploring Port Nyanzaru",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 223
+      "UsersEstimate": 446
     },
     {
       "ID": "objective_completed_540",
@@ -23182,21 +23187,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 189481,
+      "Progressed": 189491,
       "Completed": 3267
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 223207,
+      "Progressed": 223217,
       "Completed": 2192
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-18T23:00:15.4961669+00:00",
-  "LastChanged_Achievements": "2023-08-19T04:05:16.7233294+00:00",
+  "LastChanged_Achievements": "2023-08-19T05:04:28.0380953+00:00",
   "LastUpdate_AppInfo": "2023-08-12T06:57:51.8567155+00:00",
-  "LastUpdate_Ratings": "2023-08-19T03:59:58.5486911+00:00",
-  "LastUpdate_Achievements": "2023-08-19T04:05:16.7256078+00:00"
+  "LastUpdate_Ratings": "2023-08-19T04:59:32.4578936+00:00",
+  "LastUpdate_Achievements": "2023-08-19T05:04:28.0408264+00:00"
 }

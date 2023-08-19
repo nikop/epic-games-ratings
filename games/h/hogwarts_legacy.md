@@ -6,10 +6,10 @@ Rating: 4.77 (Ranked 109)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 12.00% | ~34,845 |
-| First Class Student | 11.00% | ~31,941 |
-| Troll with the Punches | 11.00% | ~31,941 |
-| A Keen Sense of Spell | 10.00% | ~29,037 |
-| That's a Keeper | 10.00% | ~29,037 |
+| First Class Student | 11.00% | ~31,942 |
+| Troll with the Punches | 11.00% | ~31,942 |
+| A Keen Sense of Spell | 10.00% | ~29,038 |
+| That's a Keeper | 10.00% | ~29,038 |
 | Grappling with a Graphorn | 9.00% | ~26,134 |
 | The One Who Mastered Memories | 9.00% | ~26,134 |
 | The Hallowed Hero | 9.00% | ~26,134 |
@@ -38,11 +38,11 @@ Rating: 4.77 (Ranked 109)
 | Going Through the Potions | 3.00% | ~8,711 |
 | Floo Around the World | 3.00% | ~8,711 |
 | The Wise Owl | 3.00% | ~8,711 |
-| The Good Samaritan | 2.00% | ~5,807 |
-| Put Down Roots | 2.00% | ~5,807 |
-| The Auror's Apprentice | 2.00% | ~5,807 |
-| Rise to the Challenges | 2.00% | ~5,807 |
-| Finishing Touches | 2.00% | ~5,807 |
+| The Good Samaritan | 2.00% | ~5,808 |
+| Put Down Roots | 2.00% | ~5,808 |
+| The Auror's Apprentice | 2.00% | ~5,808 |
+| Rise to the Challenges | 2.00% | ~5,808 |
+| Finishing Touches | 2.00% | ~5,808 |
 | Savvy Spender | 1.00% | ~2,904 |
 | Demiguise Dread | 1.00% | ~2,904 |
 | A Forte for Achievement | 1.00% | ~2,904 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,742 |
 | Collector's Edition | 0.30% | ~871 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290,374 (Ranked 43)  
+Progressed: 290,378 (Ranked 43)  
 Completed: 452 (0.16%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,10 +172,10 @@ Completed: 452 (0.16%) (Ranked 192)
 | 2023-08-16 | 290,231 | 452 |
 | 2023-08-17 | 290,286 | 452 |
 | 2023-08-18 | 290,355 | 452 |
-| 2023-08-19 | 290,374 | 452 |
+| 2023-08-19 | 290,378 | 452 |
 ## Awards
 Max (Character Customization): 21,818  (Ranked 17)  
-Sum: 41,200 (Ranked 30)  
+Sum: 41,206 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -187,9 +187,9 @@ Diff (max vs sum): -13
 | This game has Amazing Storytelling | 942 |
 | This game has Diverse Characters | 938 |
 | This game has Amazing Characters | 920 |
-| This game is Highly Recommended | 896 |
+| This game is Highly Recommended | 899 |
 | This game has Quickly Understood Controls | 848 |
-| This game has Beautiful Visuals | 789 |
+| This game has Beautiful Visuals | 792 |
 | This game has a Creative Community | 596 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -342,4 +342,4 @@ Diff (max vs sum): -13
 | 2023-08-16 | 4.77 | 21,765 | 41,080 |
 | 2023-08-17 | 4.77 | 21,780 | 41,138 |
 | 2023-08-18 | 4.77 | 21,799 | 41,179 |
-| 2023-08-19 | 4.77 | 21,818 | 41,200 |
+| 2023-08-19 | 4.77 | 21,818 | 41,206 |

@@ -6,13 +6,13 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 16.00% | ~101,680 |
-| Incurious | 16.00% | ~101,680 |
-| Climate Change | 15.00% | ~95,325 |
-| Stroller | 14.00% | ~88,970 |
-| Advanced Hiker | 12.00% | ~76,260 |
-| Toy Train | 12.00% | ~76,260 |
-| Hiker | 11.00% | ~69,905 |
+| Advanced Stroller | 16.00% | ~101,681 |
+| Incurious | 16.00% | ~101,681 |
+| Climate Change | 15.00% | ~95,326 |
+| Stroller | 14.00% | ~88,971 |
+| Advanced Hiker | 12.00% | ~76,261 |
+| Toy Train | 12.00% | ~76,261 |
+| Hiker | 11.00% | ~69,906 |
 | Mojave Courier | 5.00% | ~31,775 |
 | Saved by Nausicaä | 4.00% | ~25,420 |
 | Voyager | 3.00% | ~19,065 |
@@ -23,43 +23,43 @@ Number of Ratings: 21,990  (23.09.2022)
 | Marathon | 2.00% | ~12,710 |
 | Destructionist | 2.00% | ~12,710 |
 | Lost | 1.00% | ~6,355 |
-| Rocketman | 0.70% | ~4,448 |
+| Rocketman | 0.70% | ~4,449 |
 | Expert Voyager | 0.60% | ~3,813 |
 | Nanuk | 0.60% | ~3,813 |
 | Shopaholic | 0.60% | ~3,813 |
-| Terminal Station | 0.50% | ~3,177 |
-| Dynamite Fishing | 0.50% | ~3,177 |
+| Terminal Station | 0.50% | ~3,178 |
+| Dynamite Fishing | 0.50% | ~3,178 |
 | Scrooge | 0.40% | ~2,542 |
-| Wayfarer | 0.30% | ~1,906 |
-| Advanced Wayfarer | 0.30% | ~1,906 |
-| Trans-Siberian Railway | 0.30% | ~1,906 |
-| Satan's Minion | 0.30% | ~1,906 |
-| Snowman's Land | 0.30% | ~1,906 |
-| Tough Nut! | 0.30% | ~1,906 |
+| Wayfarer | 0.30% | ~1,907 |
+| Advanced Wayfarer | 0.30% | ~1,907 |
+| Trans-Siberian Railway | 0.30% | ~1,907 |
+| Satan's Minion | 0.30% | ~1,907 |
+| Snowman's Land | 0.30% | ~1,907 |
+| Tough Nut! | 0.30% | ~1,907 |
 | Engineer | 0.20% | ~1,271 |
-| Explorer | 0.10% | ~635 |
-| Advanced Explorer | 0.10% | ~635 |
-| Expert Wayfarer | 0.10% | ~635 |
-| Expert Explorer | 0.10% | ~635 |
-| Deep Space Transit | 0.10% | ~635 |
-| Leet | 0.10% | ~635 |
-| Wrong way! | 0.10% | ~635 |
-| Ducky Danger | 0.10% | ~635 |
-| Shepherd | 0.10% | ~635 |
-| Industrialist | 0.10% | ~635 |
-| Missed Opportunities | 0.10% | ~635 |
-| Cowter Space | 0.10% | ~635 |
-| Apollo 13 | 0.10% | ~635 |
-| Collector | 0.10% | ~635 |
-| Achievement Master | 0.10% | ~635 |
-| Fire Fighter | 0.10% | ~635 |
-| Megalomaniac | 0.10% | ~635 |
-| No Space for Improvement | 0.10% | ~635 |
-| Where They Belong | 0.10% | ~635 |
-| Fireworks! | 0.10% | ~635 |
-| 20 Miles under the Sea | 0.10% | ~635 |
+| Explorer | 0.10% | ~636 |
+| Advanced Explorer | 0.10% | ~636 |
+| Expert Wayfarer | 0.10% | ~636 |
+| Expert Explorer | 0.10% | ~636 |
+| Deep Space Transit | 0.10% | ~636 |
+| Leet | 0.10% | ~636 |
+| Wrong way! | 0.10% | ~636 |
+| Ducky Danger | 0.10% | ~636 |
+| Shepherd | 0.10% | ~636 |
+| Industrialist | 0.10% | ~636 |
+| Missed Opportunities | 0.10% | ~636 |
+| Cowter Space | 0.10% | ~636 |
+| Apollo 13 | 0.10% | ~636 |
+| Collector | 0.10% | ~636 |
+| Achievement Master | 0.10% | ~636 |
+| Fire Fighter | 0.10% | ~636 |
+| Megalomaniac | 0.10% | ~636 |
+| No Space for Improvement | 0.10% | ~636 |
+| Where They Belong | 0.10% | ~636 |
+| Fireworks! | 0.10% | ~636 |
+| 20 Miles under the Sea | 0.10% | ~636 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 635,499 (Ranked 26)  
+Progressed: 635,509 (Ranked 26)  
 Completed: 7 (0.00%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,14 +180,14 @@ Completed: 7 (0.00%) (Ranked 260)
 | 2023-08-16 | 634,727 | 7 |
 | 2023-08-17 | 635,064 | 7 |
 | 2023-08-18 | 635,421 | 7 |
-| 2023-08-19 | 635,499 | 7 |
+| 2023-08-19 | 635,509 | 7 |
 ## Awards
-Max (Great for Beginners): 191  (Ranked 276)  
-Sum: 1,552 (Ranked 218)  
+Max (Great for Beginners): 192  (Ranked 276)  
+Sum: 1,553 (Ranked 218)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 191 |
+| This game is Great for Beginners | 192 |
 | This game has Diverse Characters | 190 |
 | This game has Quickly Understood Controls | 189 |
 | This game is Extremely Fun | 182 |
@@ -307,3 +307,4 @@ Diff (max vs sum): 58
 | 2023-08-09 | 4.64 | - | 191 | 1,548 |
 | 2023-08-10 | 4.64 | - | 191 | 1,550 |
 | 2023-08-17 | 4.64 | - | 191 | 1,552 |
+| 2023-08-19 | 4.64 | - | 192 | 1,553 |

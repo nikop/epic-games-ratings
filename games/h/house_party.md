@@ -44,6 +44,7 @@ Number of Ratings: 177  (23.09.2022)
 | Beyond the Call of Dude-y | 0.20% | ~12 |
 | Drunk and Disorderly: Madison | 0.20% | ~12 |
 | Do Not Burn | 0.20% | ~12 |
+| First Impressions | 0.20% | ~12 |
 | The Harder They Fall...Dood | 0.20% | ~12 |
 | Rule 34 | 0.20% | ~12 |
 | Ronin | 0.20% | ~12 |
@@ -57,7 +58,6 @@ Number of Ratings: 177  (23.09.2022)
 | Congrats, A Celebrity Hates You | 0.10% | ~3 |
 | Doja's Dope-Ass Dinolicious Danceapalooza | 0.10% | ~3 |
 | Duck n' Weave | 0.10% | ~6 |
-| First Impressions | 0.10% | ~6 |
 | Good Riddance! | 0.10% | ~6 |
 | I Know Grump-Fu | 0.10% | ~6 |
 | Hijinks Averted | 0.10% | ~6 |

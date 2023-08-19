@@ -21,12 +21,12 @@
 | Get Out Of This Alive | 10.00% | ~54 |
 | The Promise | 10.00% | ~54 |
 | People Pleaser | 9.00% | ~48 |
-| The Nano Glitches And The Martyr | 7.00% | ~38 |
+| The Nano Glitches And The Martyr | 8.00% | ~43 |
 | Second Chances | 7.00% | ~38 |
 | Not A People Person | 4.00% | ~21 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 537 (Ranked 222)  
-Completed: 16 (2.98%) (Ranked 71)  
+Completed: 17 (3.17%) (Ranked 68)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -88,6 +88,7 @@ Completed: 16 (2.98%) (Ranked 71)
 | 2023-08-10 | 532 | 16 |
 | 2023-08-12 | 535 | 16 |
 | 2023-08-15 | 537 | 16 |
+| 2023-08-19 | 537 | 17 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

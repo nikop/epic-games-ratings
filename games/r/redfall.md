@@ -22,7 +22,7 @@ Rating: 3.50 (Ranked 971)
 | Skin of Their Teeth | 31.00% | ~538 |
 | Grounded | 25.00% | ~434 |
 | Bad Wiring | 22.00% | ~382 |
-| I Spit On Your Grave | 19.00% | ~330 |
+| I Spit On Your Grave | 20.00% | ~347 |
 | Neighborhood Revitalization | 16.00% | ~278 |
 | Radio Silence | 16.00% | ~278 |
 | Helping Hand | 13.00% | ~226 |

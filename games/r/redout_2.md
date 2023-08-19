@@ -54,7 +54,7 @@ Rating: 4.48 (Ranked 592)
 | Better than half the studio... | 1.00% | ~11 |
 | Grandslam | 1.00% | ~11 |
 | Redout Grandmaster | 0.90% | ~10 |
-| Beat you to it! | 0.70% | ~8 |
+| Beat you to it! | 0.80% | ~9 |
 | I, need, more, shelves! | 0.50% | ~6 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)

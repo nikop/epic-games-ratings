@@ -3,9 +3,9 @@
   "Name": "The Complex",
   "ProductSlug": "the-complex-0ca5bb",
   "Ranking_EOS_Progress": 222,
-  "Ranking_EOS_Completed": 71,
+  "Ranking_EOS_Completed": 68,
   "Ranking_EOS_NewPlayers": 262,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
     "PcReleaseDate": "2020-03-31T05:00:00+00:00",
@@ -28,10 +28,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 537,
-  "EOS_Completed": 16,
+  "EOS_Completed": 17,
   "EOS_NewPlayers": 4,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.98,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 3.17,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:48.1616312+00:00",
@@ -497,6 +497,11 @@
       "Time": "2023-08-15T23:06:27.4114843+00:00",
       "NumProgressed": 537,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-08-19T05:05:03.4344025+00:00",
+      "NumProgressed": 537,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 20,
@@ -530,9 +535,9 @@
       "ID": "ending_1",
       "SetID": "d4f4pll",
       "Name": "The Nano Glitches And The Martyr",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 38
+      "UsersEstimate": 43
     },
     {
       "ID": "ending_2",
@@ -668,15 +673,15 @@
       "ID": "d4f4pll",
       "IsBase": true,
       "Progressed": 537,
-      "Completed": 16
+      "Completed": 17
     }
   ],
   "FirstSeen": "2022-10-09T13:32:29.6918033+00:00",
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-08-19T04:06:00.0118191+00:00",
+  "LastChanged_Achievements": "2023-08-19T05:05:03.4344019+00:00",
   "LastUpdate_AppInfo": "2023-08-12T05:57:07.5988993+00:00",
-  "LastUpdate_Ratings": "2023-08-19T03:58:56.4644392+00:00",
-  "LastUpdate_Achievements": "2023-08-19T04:06:00.0118367+00:00"
+  "LastUpdate_Ratings": "2023-08-19T04:58:43.439948+00:00",
+  "LastUpdate_Achievements": "2023-08-19T05:05:03.4344195+00:00"
 }
