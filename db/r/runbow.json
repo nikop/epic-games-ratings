@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 260,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 248243,
+  "EOS_Progressed": 248248,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 310,
+  "EOS_NewPlayers": 313,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11659,6 +11659,11 @@
       "Time": "2023-08-19T14:06:10.9774175+00:00",
       "NumProgressed": 248243,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-19T15:04:44.8776055+00:00",
+      "NumProgressed": 248248,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 46,
@@ -11694,7 +11699,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 52131
+      "UsersEstimate": 52132
     },
     {
       "ID": "blotbuster",
@@ -11726,7 +11731,7 @@
       "Name": "Can You Dig It?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 42201
+      "UsersEstimate": 42202
     },
     {
       "ID": "cantBeKeptDown",
@@ -11742,7 +11747,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 37236
+      "UsersEstimate": 37237
     },
     {
       "ID": "clearCut",
@@ -11766,7 +11771,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 44684
+      "UsersEstimate": 44685
     },
     {
       "ID": "curator",
@@ -11774,7 +11779,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 49649
+      "UsersEstimate": 49650
     },
     {
       "ID": "didYourTime",
@@ -11846,7 +11851,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 131569
+      "UsersEstimate": 131571
     },
     {
       "ID": "indegestible",
@@ -11870,7 +11875,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 64543
+      "UsersEstimate": 64544
     },
     {
       "ID": "justABit",
@@ -11886,7 +11891,7 @@
       "Name": "Lazy Laser",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 19859
+      "UsersEstimate": 19860
     },
     {
       "ID": "lockupLockdown",
@@ -11902,7 +11907,7 @@
       "Name": "Muddy Waters",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 34754
+      "UsersEstimate": 34755
     },
     {
       "ID": "myFirstRunbow",
@@ -11910,7 +11915,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 124122
+      "UsersEstimate": 124124
     },
     {
       "ID": "notScared",
@@ -11974,7 +11979,7 @@
       "Name": "The Stunner",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 54613
+      "UsersEstimate": 54615
     },
     {
       "ID": "thunderstruck",
@@ -12030,14 +12035,14 @@
       "Name": "You Juan-A-Go?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 39719
+      "UsersEstimate": 39720
     }
   ],
   "AchievementSets": [
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 248243,
+      "Progressed": 248248,
       "Completed": 3
     }
   ],
@@ -12045,8 +12050,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-08-19T14:06:10.9774168+00:00",
+  "LastChanged_Achievements": "2023-08-19T15:04:44.877605+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:44.1764965+00:00",
-  "LastUpdate_Ratings": "2023-08-19T14:03:08.4788812+00:00",
-  "LastUpdate_Achievements": "2023-08-19T14:06:10.9775547+00:00"
+  "LastUpdate_Ratings": "2023-08-19T15:01:34.4243569+00:00",
+  "LastUpdate_Achievements": "2023-08-19T15:04:44.8776866+00:00"
 }

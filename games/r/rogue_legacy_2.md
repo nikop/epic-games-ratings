@@ -29,6 +29,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | For Wrath | 0.20% | ~46 |
 | For Penance | 0.20% | ~46 |
 | K.O. | 0.20% | ~46 |
+| A Glimpse of the Future | 0.20% | ~46 |
 | Just the Beginning | 0.20% | ~46 |
 | Wasted Betrayal | 0.20% | ~46 |
 | Color Coordination | 0.20% | ~46 |
@@ -39,14 +40,13 @@ Number of Ratings: 1,331  (23.09.2022)
 | It Was Just an Estimate | 0.10% | ~23 |
 | Good Practice | 0.10% | ~23 |
 | Maybe Wax Doesn't Melt | 0.10% | ~23 |
-| A Glimpse of the Future | 0.10% | ~23 |
 | Had to Do It | 0.10% | ~23 |
 | Rogue's Legacy | 0.00% | ~0 |
 | Thanatophobia | 0.00% | ~0 |
 | Thanatwophobia | 0.00% | ~0 |
 | Rogue Rogue Legacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,918 (Ranked 104)  
+Progressed: 22,919 (Ranked 104)  
 Completed: 35 (0.15%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,7 +167,7 @@ Completed: 35 (0.15%) (Ranked 197)
 | 2023-08-16 | 22,895 | 35 |
 | 2023-08-17 | 22,905 | 35 |
 | 2023-08-18 | 22,911 | 35 |
-| 2023-08-19 | 22,918 | 35 |
+| 2023-08-19 | 22,919 | 35 |
 ## Awards
 Max (Extremely Fun): 220  (Ranked 263)  
 Sum: 1,683 (Ranked 209)  

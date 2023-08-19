@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 260,
   "Ranking_EOS_NewPlayers": 249,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
     "PcReleaseDate": "2022-09-19T00:00:00+00:00",
@@ -1046,9 +1046,9 @@
       "ID": "achChest",
       "SetID": "72gjli4",
       "Name": "Chest \u2714",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 127
     },
     {
       "ID": "achCity",
@@ -1391,8 +1391,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-08-19T14:08:22.5850524+00:00",
+  "LastChanged_Achievements": "2023-08-19T15:06:39.6902391+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:19.7272959+00:00",
-  "LastUpdate_Ratings": "2023-08-19T13:58:27.9821028+00:00",
-  "LastUpdate_Achievements": "2023-08-19T14:08:22.5851046+00:00"
+  "LastUpdate_Ratings": "2023-08-19T14:57:46.5240537+00:00",
+  "LastUpdate_Achievements": "2023-08-19T15:06:39.6902778+00:00"
 }

@@ -29,6 +29,7 @@ Number of Ratings: 371  (23.09.2022)
 | Daemonkeeper | 0.50% | ~16 |
 | Efficient Killer | 0.50% | ~16 |
 | Only in Death | 0.50% | ~16 |
+| Junk Banishment | 0.50% | ~16 |
 | A Gift Spurned | 0.50% | ~16 |
 | Long Distance Call | 0.50% | ~16 |
 | Tactical Sabotage | 0.50% | ~16 |
@@ -36,7 +37,6 @@ Number of Ratings: 371  (23.09.2022)
 | Fleetmaster | 0.40% | ~13 |
 | Mind Like a Fortress | 0.40% | ~13 |
 | Preservationist | 0.40% | ~13 |
-| Junk Banishment | 0.40% | ~13 |
 | Tactical Flexibility | 0.40% | ~13 |
 | For the Machine God | 0.30% | ~9 |
 | Strike Force | 0.30% | ~9 |

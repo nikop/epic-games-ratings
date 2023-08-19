@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Fright ✔ | 57.00% | ~131 |
-| Chest ✔ | 54.00% | ~124 |
+| Chest ✔ | 55.00% | ~127 |
 | Inventory ✔ | 53.00% | ~122 |
 | Police officers ✔ | 28.00% | ~64 |
 | Mutation ✔ | 25.00% | ~58 |

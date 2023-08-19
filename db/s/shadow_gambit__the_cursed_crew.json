@@ -4,8 +4,8 @@
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 94,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 278,
+  "EOS_Progressed": 281,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 268,
+  "EOS_NewPlayers": 270,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -441,6 +441,11 @@
       "Time": "2023-08-19T14:04:49.8994072+00:00",
       "NumProgressed": 278,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-19T15:03:47.4646541+00:00",
+      "NumProgressed": 281,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -461,7 +466,7 @@
       "Name": "A New Journey",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 197
+      "UsersEstimate": 200
     },
     {
       "ID": "_03_FinishAct1",
@@ -469,7 +474,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -507,9 +512,9 @@
       "ID": "_08_Completion_10",
       "SetID": "8a1io5d",
       "Name": "Swabbie",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 56
     },
     {
       "ID": "_09_Completion_20",
@@ -581,7 +586,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -660,14 +665,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 278,
+      "Progressed": 281,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-19T14:04:49.8994066+00:00",
+  "LastChanged_Achievements": "2023-08-19T15:03:47.4646536+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:01.7621403+00:00",
-  "LastUpdate_Ratings": "2023-08-19T14:01:24.8759798+00:00",
-  "LastUpdate_Achievements": "2023-08-19T14:04:49.8994339+00:00"
+  "LastUpdate_Ratings": "2023-08-19T15:00:09.6114385+00:00",
+  "LastUpdate_Achievements": "2023-08-19T15:03:47.4646722+00:00"
 }

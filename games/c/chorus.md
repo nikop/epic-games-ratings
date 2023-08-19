@@ -23,8 +23,8 @@ Number of Ratings: 58  (23.09.2022)
 | Born to Drift | 51.00% | ~579 |
 | Relentless | 48.00% | ~545 |
 | The Path Forward | 45.00% | ~511 |
+| Disruption | 44.00% | ~499 |
 | Phoenix | 44.00% | ~499 |
-| Disruption | 43.00% | ~488 |
 | Cult Slayer | 40.00% | ~454 |
 | Origin | 40.00% | ~454 |
 | It Was An Accident | 39.00% | ~443 |
@@ -33,8 +33,8 @@ Number of Ratings: 58  (23.09.2022)
 | The Crimson Void | 34.00% | ~386 |
 | The Nameless Dread | 34.00% | ~386 |
 | Time to Spear | 31.00% | ~352 |
+| Mastery of Weapons | 30.00% | ~340 |
 | Disciple | 30.00% | ~340 |
-| Mastery of Weapons | 29.00% | ~329 |
 | Ghosts | 25.00% | ~284 |
 | Two Birds | 25.00% | ~284 |
 | Uneasy Alliance | 24.00% | ~272 |

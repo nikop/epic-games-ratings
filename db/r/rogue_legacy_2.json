@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 197,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1383,9 +1383,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 22918,
+  "EOS_Progressed": 22919,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -6993,6 +6993,11 @@
       "Time": "2023-08-19T14:07:18.3227796+00:00",
       "NumProgressed": 22918,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-08-19T15:05:43.1913939+00:00",
+      "NumProgressed": 22919,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -7242,9 +7247,9 @@
       "ID": "NightmareKhidr",
       "SetID": "3ojhj46",
       "Name": "A Glimpse of the Future",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 46
     },
     {
       "ID": "PetDragon",
@@ -7315,21 +7320,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 22918,
+      "Progressed": 22919,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 1848,
+      "Progressed": 1849,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-08-18T17:01:52.2929921+00:00",
-  "LastChanged_Achievements": "2023-08-19T14:07:18.3227791+00:00",
+  "LastChanged_Achievements": "2023-08-19T15:05:43.1913937+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:45.6730049+00:00",
-  "LastUpdate_Ratings": "2023-08-19T14:03:09.034207+00:00",
-  "LastUpdate_Achievements": "2023-08-19T14:07:18.3228614+00:00"
+  "LastUpdate_Ratings": "2023-08-19T15:01:34.8228612+00:00",
+  "LastUpdate_Achievements": "2023-08-19T15:05:43.1914493+00:00"
 }

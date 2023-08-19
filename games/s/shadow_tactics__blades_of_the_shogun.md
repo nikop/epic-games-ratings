@@ -6,35 +6,35 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~21,502 |
-| Thorough | 10.00% | ~19,547 |
-| A thief's beginning | 9.00% | ~17,593 |
-| Disguised | 8.00% | ~15,638 |
-| Rollin' | 8.00% | ~15,638 |
-| Tanuki Time | 8.00% | ~15,638 |
-| Jonin | 7.00% | ~13,683 |
-| Rescue Takuma | 7.00% | ~13,683 |
-| Stoned Ox | 7.00% | ~13,683 |
-| Chunin | 6.00% | ~11,728 |
-| Happy Planning | 6.00% | ~11,728 |
-| Ice Ice Yuki | 6.00% | ~11,728 |
-| Mugen Unchained | 6.00% | ~11,728 |
-| Yabu | 6.00% | ~11,728 |
-| Flying Rocks | 5.00% | ~9,774 |
-| Okkoto | 5.00% | ~9,774 |
-| Warzone | 5.00% | ~9,774 |
-| Gear up | 4.00% | ~7,819 |
-| Happy little accidents | 4.00% | ~7,819 |
-| Prisoners | 4.00% | ~7,819 |
-| Too Early | 4.00% | ~7,819 |
-| Noboru | 3.00% | ~5,864 |
-| Still Rollin' | 3.00% | ~5,864 |
-| Stoned | 3.00% | ~5,864 |
-| The Old Way | 3.00% | ~5,864 |
-| Atheist Ox | 2.00% | ~3,909 |
-| It's raining men | 2.00% | ~3,909 |
-| Old Man | 2.00% | ~3,909 |
-| Winner Winner | 2.00% | ~3,909 |
+| Genin | 11.00% | ~21,505 |
+| Thorough | 10.00% | ~19,550 |
+| A thief's beginning | 9.00% | ~17,595 |
+| Disguised | 8.00% | ~15,640 |
+| Rollin' | 8.00% | ~15,640 |
+| Tanuki Time | 8.00% | ~15,640 |
+| Jonin | 7.00% | ~13,685 |
+| Rescue Takuma | 7.00% | ~13,685 |
+| Stoned Ox | 7.00% | ~13,685 |
+| Chunin | 6.00% | ~11,730 |
+| Happy Planning | 6.00% | ~11,730 |
+| Ice Ice Yuki | 6.00% | ~11,730 |
+| Mugen Unchained | 6.00% | ~11,730 |
+| Yabu | 6.00% | ~11,730 |
+| Flying Rocks | 5.00% | ~9,775 |
+| Okkoto | 5.00% | ~9,775 |
+| Warzone | 5.00% | ~9,775 |
+| Gear up | 4.00% | ~7,820 |
+| Happy little accidents | 4.00% | ~7,820 |
+| Prisoners | 4.00% | ~7,820 |
+| Too Early | 4.00% | ~7,820 |
+| Noboru | 3.00% | ~5,865 |
+| Still Rollin' | 3.00% | ~5,865 |
+| Stoned | 3.00% | ~5,865 |
+| The Old Way | 3.00% | ~5,865 |
+| Atheist Ox | 2.00% | ~3,910 |
+| It's raining men | 2.00% | ~3,910 |
+| Old Man | 2.00% | ~3,910 |
+| Winner Winner | 2.00% | ~3,910 |
 | Meticulous | 1.00% | ~1,955 |
 | No Gimmicks | 1.00% | ~1,955 |
 | The End | 1.00% | ~1,955 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~195 |
 | Release the Kraken | 0.10% | ~195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 195,474 (Ranked 59)  
+Progressed: 195,496 (Ranked 59)  
 Completed: 70 (0.04%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,7 +172,7 @@ Completed: 70 (0.04%) (Ranked 230)
 | 2023-08-16 | 194,443 | 69 |
 | 2023-08-17 | 194,836 | 69 |
 | 2023-08-18 | 195,215 | 69 |
-| 2023-08-19 | 195,474 | 70 |
+| 2023-08-19 | 195,496 | 70 |
 ## Awards
 Max (Great for Beginners): 561  (Ranked 189)  
 Sum: 4,727 (Ranked 134)  

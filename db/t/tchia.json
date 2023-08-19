@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 152,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -212,9 +212,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7166,
+  "EOS_Progressed": 7169,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 215,
+  "EOS_NewPlayers": 217,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -5967,6 +5967,11 @@
       "Time": "2023-08-19T13:07:54.1898223+00:00",
       "NumProgressed": 7166,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-08-19T15:06:06.6082035+00:00",
+      "NumProgressed": 7169,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 21,
@@ -6002,7 +6007,7 @@
       "Name": "Body and Soul",
       "Percentage": 11,
       "XP": 80,
-      "UsersEstimate": 788
+      "UsersEstimate": 789
     },
     {
       "ID": "CA_DE_WIZZ",
@@ -6050,7 +6055,7 @@
       "Name": "Globe Trotter",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 788
+      "UsersEstimate": 789
     },
     {
       "ID": "HAPPY_CAMPER",
@@ -6145,7 +6150,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7166,
+      "Progressed": 7169,
       "Completed": 32
     }
   ],
@@ -6153,8 +6158,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-08-07T01:56:04.2387619+00:00",
-  "LastChanged_Achievements": "2023-08-19T14:07:36.7585295+00:00",
+  "LastChanged_Achievements": "2023-08-19T15:06:06.6082029+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:55.8261903+00:00",
-  "LastUpdate_Ratings": "2023-08-19T14:01:19.2032756+00:00",
-  "LastUpdate_Achievements": "2023-08-19T14:07:36.7585837+00:00"
+  "LastUpdate_Ratings": "2023-08-19T15:00:02.6645366+00:00",
+  "LastUpdate_Achievements": "2023-08-19T15:06:06.6082412+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 135,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 160,
-  "Ranking_EOS_NewPlayers": 303,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 284,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2020-12-10T16:00:00+00:00",
     "PcReleaseDate": "2015-03-26T16:00:00+00:00",
@@ -2862,9 +2862,9 @@
       "Count": 185
     }
   ],
-  "EOS_Progressed": 1091,
+  "EOS_Progressed": 1092,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2957,6 +2957,11 @@
       "Time": "2023-08-18T19:05:39.8828592+00:00",
       "NumProgressed": 1091,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-19T15:05:24.3201433+00:00",
+      "NumProgressed": 1092,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 48,
@@ -2968,7 +2973,7 @@
       "Name": "Completed Act I",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "achievement_02",
@@ -3088,7 +3093,7 @@
       "Name": "Explorer",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "achievement_17",
@@ -3128,7 +3133,7 @@
       "Name": "A Voice from the Deep",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "achievement_22",
@@ -3144,7 +3149,7 @@
       "Name": "Called to their Labor",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "achievement_24",
@@ -3351,15 +3356,15 @@
     {
       "ID": "70p237j",
       "IsBase": true,
-      "Progressed": 1091,
+      "Progressed": 1092,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:19.0250263+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.7524763+00:00",
   "LastChanged": "2023-08-19T08:03:08.3219116+00:00",
-  "LastChanged_Achievements": "2023-08-19T14:06:52.382694+00:00",
+  "LastChanged_Achievements": "2023-08-19T15:05:24.3201427+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:36.8674937+00:00",
-  "LastUpdate_Ratings": "2023-08-19T14:00:58.4214753+00:00",
-  "LastUpdate_Achievements": "2023-08-19T14:06:52.3827731+00:00"
+  "LastUpdate_Ratings": "2023-08-19T14:59:47.1061206+00:00",
+  "LastUpdate_Achievements": "2023-08-19T15:05:24.3201753+00:00"
 }

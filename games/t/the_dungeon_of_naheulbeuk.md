@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 19.00% | ~40,765 |
+| Sowwy! | 19.00% | ~40,769 |
 | Where's that freaking Dwarf? | 2.00% | ~4,291 |
 | Alt+F4 | 2.00% | ~4,291 |
 | Déjà vu | 1.00% | ~2,146 |
@@ -15,7 +15,7 @@ Number of Ratings: 118  (23.09.2022)
 | GG EZ | 0.90% | ~1,931 |
 | Speedrun | 0.90% | ~1,931 |
 | Fireproof Wizardess | 0.90% | ~1,931 |
-| DM intervention | 0.80% | ~1,716 |
+| DM intervention | 0.80% | ~1,717 |
 | Livin' in a dwarven paradise | 0.60% | ~1,287 |
 | Way of the Wimp | 0.60% | ~1,287 |
 | The plot thickens... At the tavern | 0.60% | ~1,287 |
@@ -42,6 +42,7 @@ Number of Ratings: 118  (23.09.2022)
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.30% | ~644 |
 | Lust and Debauchery | 0.30% | ~644 |
 | Dead for good | 0.20% | ~429 |
+| We come in peace | 0.20% | ~429 |
 | Gargantua | 0.20% | ~429 |
 | In Navalu's footsteps | 0.20% | ~429 |
 | Lëgal Legend | 0.20% | ~429 |
@@ -83,7 +84,6 @@ Number of Ratings: 118  (23.09.2022)
 | 100% satisfaction guarantee | 0.10% | ~215 |
 | Death is for wimps | 0.10% | ~215 |
 | An old poacher makes the best gamekeeper | 0.10% | ~215 |
-| We come in peace | 0.10% | ~215 |
 | Super-Ultra-Lydian | 0.10% | ~215 |
 | Lord of the Drunks | 0.10% | ~215 |
 | Law and Order | 0.10% | ~215 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Staff cut | 0.00% | ~0 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 214,555 (Ranked 56)  
+Progressed: 214,574 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,7 +175,7 @@ Completed: 2 (0.00%) (Ranked 260)
 | 2023-08-16 | 213,341 | 2 |
 | 2023-08-17 | 213,783 | 2 |
 | 2023-08-18 | 214,230 | 2 |
-| 2023-08-19 | 214,555 | 2 |
+| 2023-08-19 | 214,574 | 2 |
 ## Awards
 Max (Character Customization): 170  (Ranked 287)  
 Sum: 211 (Ranked 365)  
