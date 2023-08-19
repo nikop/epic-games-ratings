@@ -28,9 +28,9 @@ Number of Ratings: 45  (23.09.2022)
 | Another Tale to Tell | 8.00% | ~110 |
 | Let Me Get My Chisel | 7.00% | ~96 |
 | A Story of Heroes | 7.00% | ~96 |
+| Legends Never Die | 6.00% | ~82 |
 | All My Birds, Safely Home | 6.00% | ~82 |
 | Turncoat | 6.00% | ~82 |
-| Legends Never Die | 5.00% | ~68 |
 | In Soil, In Smoke | 5.00% | ~68 |
 | A Hunger, Sated | 5.00% | ~68 |
 | Wingknight's Prowess | 5.00% | ~68 |

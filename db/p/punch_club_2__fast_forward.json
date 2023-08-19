@@ -949,9 +949,9 @@
       "ID": "adriana_sick",
       "SetID": "69co12a",
       "Name": "Deal with life",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 98
     },
     {
       "ID": "airpods",
@@ -1245,9 +1245,9 @@
       "ID": "mick_house",
       "SetID": "69co12a",
       "Name": "Spirit of the past",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 166
     },
     {
       "ID": "mike_resurect",
@@ -1421,9 +1421,9 @@
       "ID": "trainer_promotion_3",
       "SetID": "69co12a",
       "Name": "Responsible approach",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 101
+      "UsersEstimate": 104
     },
     {
       "ID": "undercover_robot",
@@ -1453,9 +1453,9 @@
       "ID": "work_promotion_2",
       "SetID": "69co12a",
       "Name": "Employee of the month",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 168
+      "UsersEstimate": 171
     },
     {
       "ID": "work_promotion_3",
@@ -1476,8 +1476,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-08-19T15:05:21.2936064+00:00",
+  "LastChanged_Achievements": "2023-08-19T16:06:41.0821876+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:55.5083268+00:00",
-  "LastUpdate_Ratings": "2023-08-19T14:59:26.6452745+00:00",
-  "LastUpdate_Achievements": "2023-08-19T15:05:21.2936619+00:00"
+  "LastUpdate_Ratings": "2023-08-19T16:00:30.3388642+00:00",
+  "LastUpdate_Achievements": "2023-08-19T16:06:41.0822653+00:00"
 }

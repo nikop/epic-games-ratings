@@ -2,12 +2,12 @@
   "ID": "24285307a56445f1bc5d546df7af3025",
   "Name": "Sins of a Solar Empire 2",
   "ProductSlug": "sins-of-a-solar-empire-ii",
-  "Ranking_Rating": 527,
+  "Ranking_Rating": 528,
   "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 548,
   "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewPlayers": 351,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-10-27T17:00:00+00:00",
@@ -234,6 +234,6 @@
   "FirstSeenRating": "2022-10-28T20:01:29.0144781+00:00",
   "LastChanged": "2023-07-14T03:20:22.2181429+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:20.3425181+00:00",
-  "LastUpdate_Ratings": "2023-08-19T15:00:29.4135058+00:00",
-  "LastUpdate_Achievements": "2023-08-19T15:06:18.9394936+00:00"
+  "LastUpdate_Ratings": "2023-08-19T16:01:45.9333289+00:00",
+  "LastUpdate_Achievements": "2023-08-19T16:07:48.5984575+00:00"
 }

@@ -1117,9 +1117,9 @@
       "ID": "28_nonstop",
       "SetID": "chb1m60",
       "Name": "Non Stop!",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 110
     },
     {
       "ID": "29_madness",
@@ -1221,8 +1221,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-08-15T19:59:30.756961+00:00",
-  "LastChanged_Achievements": "2023-08-19T15:06:09.0872398+00:00",
+  "LastChanged_Achievements": "2023-08-19T16:07:36.8040338+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:35.3683118+00:00",
-  "LastUpdate_Ratings": "2023-08-19T14:59:44.9494236+00:00",
-  "LastUpdate_Achievements": "2023-08-19T15:06:09.087267+00:00"
+  "LastUpdate_Ratings": "2023-08-19T16:00:53.4700801+00:00",
+  "LastUpdate_Achievements": "2023-08-19T16:07:36.8040985+00:00"
 }

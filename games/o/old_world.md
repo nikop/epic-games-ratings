@@ -11,36 +11,36 @@ Number of Ratings: 1,307  (23.09.2022)
 | Settler | 3.00% | ~404 |
 | Friendly Family | 3.00% | ~404 |
 | Play a Single Player Game | 3.00% | ~404 |
-| Able | 2.00% | ~269 |
-| Architect | 2.00% | ~269 |
-| Enlightened | 2.00% | ~269 |
-| Glorious | 2.00% | ~269 |
-| Good | 2.00% | ~269 |
-| Intrepid | 2.00% | ~269 |
-| Just | 2.00% | ~269 |
-| Keystone | 2.00% | ~269 |
-| Learned | 2.00% | ~269 |
-| Mason | 2.00% | ~269 |
-| Noble | 2.00% | ~269 |
-| Pioneer | 2.00% | ~269 |
-| Strong | 2.00% | ~269 |
-| Warrior | 2.00% | ~269 |
-| Developing Cities | 2.00% | ~269 |
-| Hanging Gardens | 2.00% | ~269 |
-| Oracle | 2.00% | ~269 |
-| Judaism | 2.00% | ~269 |
-| Greek Paganism | 2.00% | ~269 |
-| Naming Landmarks | 2.00% | ~269 |
-| Trade Caravan | 2.00% | ~269 |
-| The Great Mage | 2.00% | ~269 |
-| Poetic Leader | 2.00% | ~269 |
+| Able | 2.00% | ~270 |
+| Architect | 2.00% | ~270 |
+| Enlightened | 2.00% | ~270 |
+| Glorious | 2.00% | ~270 |
+| Good | 2.00% | ~270 |
+| Intrepid | 2.00% | ~270 |
+| Just | 2.00% | ~270 |
+| Keystone | 2.00% | ~270 |
+| Learned | 2.00% | ~270 |
+| Magnificent | 2.00% | ~270 |
+| Mason | 2.00% | ~270 |
+| Noble | 2.00% | ~270 |
+| Pioneer | 2.00% | ~270 |
+| Strong | 2.00% | ~270 |
+| Warrior | 2.00% | ~270 |
+| Developing Cities | 2.00% | ~270 |
+| Hanging Gardens | 2.00% | ~270 |
+| Oracle | 2.00% | ~270 |
+| Judaism | 2.00% | ~270 |
+| Greek Paganism | 2.00% | ~270 |
+| Naming Landmarks | 2.00% | ~270 |
+| Trade Caravan | 2.00% | ~270 |
+| The Great Mage | 2.00% | ~270 |
+| Poetic Leader | 2.00% | ~270 |
 | Regicide | 1.00% | ~135 |
 | Ambitious | 1.00% | ~135 |
 | Drillmaster | 1.00% | ~135 |
 | Brilliant | 1.00% | ~135 |
 | Fountainhead | 1.00% | ~135 |
 | Great | 1.00% | ~135 |
-| Magnificent | 1.00% | ~135 |
 | Wise | 1.00% | ~135 |
 | Legendary Cities | 1.00% | ~135 |
 | Strong Cities | 1.00% | ~135 |
@@ -67,12 +67,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Zoroastrianism | 1.00% | ~135 |
 | Intercessor | 0.90% | ~121 |
 | Valiant | 0.90% | ~121 |
+| Sages | 0.90% | ~121 |
 | Acropolis | 0.90% | ~121 |
 | Mausoleum | 0.90% | ~121 |
 | Mythology | 0.90% | ~121 |
 | Champions | 0.80% | ~108 |
-| Sages | 0.80% | ~108 |
 | Greece | 0.80% | ~108 |
+| Building Wonders | 0.80% | ~108 |
 | Points Victory | 0.80% | ~108 |
 | Hanging Gardens in Babylon | 0.70% | ~94 |
 | Beloved | 0.70% | ~94 |
@@ -86,19 +87,19 @@ Number of Ratings: 1,307  (23.09.2022)
 | Traders | 0.70% | ~94 |
 | Temple of Solomon | 0.70% | ~94 |
 | Pantheon | 0.70% | ~94 |
+| Via Recta Souk | 0.70% | ~94 |
+| Power to the People | 0.70% | ~94 |
 | Persian Paganism | 0.70% | ~94 |
-| Building Wonders | 0.70% | ~94 |
+| Economic Reform | 0.70% | ~94 |
 | Legalism | 0.70% | ~94 |
 | Phalangite | 0.70% | ~94 |
 | Invincible | 0.60% | ~81 |
 | Subjugator | 0.60% | ~81 |
+| Riders | 0.60% | ~81 |
 | Hittite Iron | 0.60% | ~81 |
 | Circus Maximus | 0.60% | ~81 |
 | Hagia Sophia | 0.60% | ~81 |
-| Via Recta Souk | 0.60% | ~81 |
 | Learn to Play 3 | 0.60% | ~81 |
-| Power to the People | 0.60% | ~81 |
-| Economic Reform | 0.60% | ~81 |
 | Dualism | 0.60% | ~81 |
 | Redemption | 0.60% | ~81 |
 | Cimmerian Archer | 0.60% | ~81 |
@@ -109,9 +110,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Capable | 0.50% | ~67 |
 | Devout | 0.50% | ~67 |
 | Ready | 0.50% | ~67 |
+| Strong Difficulty | 0.50% | ~67 |
 | Hunters | 0.50% | ~67 |
 | Landowners | 0.50% | ~67 |
-| Riders | 0.50% | ~67 |
 | Church of the Holy Sepulchre | 0.50% | ~67 |
 | Adur Burzen-Mihr | 0.50% | ~67 |
 | Babylonia | 0.50% | ~67 |
@@ -127,7 +128,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ambition Victory | 0.50% | ~67 |
 | Ishtar Gate in Babylon | 0.40% | ~54 |
 | Old | 0.40% | ~54 |
-| Strong Difficulty | 0.40% | ~54 |
 | Clerics | 0.40% | ~54 |
 | Learn to Play 4 | 0.40% | ~54 |
 | Rome | 0.40% | ~54 |
@@ -155,6 +155,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ancient | 0.20% | ~27 |
 | Glorious Difficulty | 0.20% | ~27 |
 | Magnificent Difficulty | 0.20% | ~27 |
+| Event Level High | 0.20% | ~27 |
 | The Eternal Treaty | 0.20% | ~27 |
 | Run, Pheidippides, Run! | 0.20% | ~27 |
 | Nenikekamen | 0.20% | ~27 |
@@ -204,7 +205,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Rebuilder | 0.10% | ~13 |
 | Great Difficulty | 0.10% | ~13 |
 | Et tu Brutus? | 0.10% | ~13 |
-| Event Level High | 0.10% | ~13 |
 | Battle of the Fertile Crescent | 0.10% | ~13 |
 | Five Routs | 0.10% | ~13 |
 | Game of the Week | 0.10% | ~13 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,472 (Ranked 118)  
+Progressed: 13,477 (Ranked 118)  
 Completed: 5 (0.04%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -424,11 +424,11 @@ Completed: 5 (0.04%) (Ranked 230)
 | 2023-08-16 | 13,432 | 5 |
 | 2023-08-17 | 13,444 | 5 |
 | 2023-08-18 | 13,460 | 5 |
-| 2023-08-19 | 13,472 | 5 |
+| 2023-08-19 | 13,477 | 5 |
 ## Awards
-Max (Relaxing): 220  (Ranked 263)  
+Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,795 (Ranked 206)  
-Diff (max vs sum): 57  
+Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 220 |

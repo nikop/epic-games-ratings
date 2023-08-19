@@ -535,9 +535,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 338295,
+  "EOS_Progressed": 338305,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1729,
+  "EOS_NewPlayers": 1719,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13865,6 +13865,11 @@
       "Time": "2023-08-19T15:03:22.5039717+00:00",
       "NumProgressed": 338295,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-08-19T16:04:03.8504992+00:00",
+      "NumProgressed": 338305,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -13892,7 +13897,7 @@
       "Name": "Cleaning House",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 40595
+      "UsersEstimate": 40597
     },
     {
       "ID": "ach004",
@@ -13932,7 +13937,7 @@
       "Name": "Room in the Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 40595
+      "UsersEstimate": 40597
     },
     {
       "ID": "ach009",
@@ -13980,7 +13985,7 @@
       "Name": "Fronting the Money",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 50744
+      "UsersEstimate": 50746
     },
     {
       "ID": "ach015",
@@ -14004,7 +14009,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 43978
+      "UsersEstimate": 43980
     },
     {
       "ID": "ach018",
@@ -14084,7 +14089,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 155616
+      "UsersEstimate": 155620
     },
     {
       "ID": "ach028",
@@ -14100,7 +14105,7 @@
       "Name": "Beating the Heat",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 37212
+      "UsersEstimate": 37214
     },
     {
       "ID": "ach030",
@@ -14228,7 +14233,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 43978
+      "UsersEstimate": 43980
     },
     {
       "ID": "ach046",
@@ -14276,7 +14281,7 @@
       "Name": "Booze Baron",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 37212
+      "UsersEstimate": 37214
     },
     {
       "ID": "ach052",
@@ -14388,7 +14393,7 @@
       "Name": "The Dawn of Automation",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 47361
+      "UsersEstimate": 47363
     },
     {
       "ID": "ach067",
@@ -14404,7 +14409,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 54127
+      "UsersEstimate": 54129
     },
     {
       "ID": "ach069",
@@ -14412,7 +14417,7 @@
       "Name": "Extraordinary Logistics",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 47361
+      "UsersEstimate": 47363
     },
     {
       "ID": "ach070",
@@ -14492,7 +14497,7 @@
       "Name": "Social Butterfly",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1691
+      "UsersEstimate": 1692
     },
     {
       "ID": "ach080",
@@ -14515,7 +14520,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 338295,
+      "Progressed": 338305,
       "Completed": 7
     }
   ],
@@ -14523,8 +14528,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-08-19T09:01:48.6070505+00:00",
-  "LastChanged_Achievements": "2023-08-19T15:03:22.5039711+00:00",
+  "LastChanged_Achievements": "2023-08-19T16:04:03.8504987+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:50.072917+00:00",
-  "LastUpdate_Ratings": "2023-08-19T14:59:58.6530186+00:00",
-  "LastUpdate_Achievements": "2023-08-19T15:03:22.5041011+00:00"
+  "LastUpdate_Ratings": "2023-08-19T16:01:08.8208303+00:00",
+  "LastUpdate_Achievements": "2023-08-19T16:04:03.8506837+00:00"
 }

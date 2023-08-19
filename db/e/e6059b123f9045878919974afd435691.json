@@ -1774,9 +1774,9 @@
       "ID": "BRO_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Main Course",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 37
     },
     {
       "ID": "BRO_ACHIEVEMENT_2",
@@ -1894,9 +1894,9 @@
       "ID": "FREEB_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Rare Steak",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "FREED_ACHIEVEMENT_1",
@@ -2086,9 +2086,9 @@
       "ID": "NOTEM_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Reading and More Reading",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 30
     },
     {
       "ID": "NOTE_ACHIEVEMENT_1",
@@ -2190,9 +2190,9 @@
       "ID": "WINS_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Do You Accept The Challenge?",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 80,
-      "UsersEstimate": 7
+      "UsersEstimate": 15
     }
   ],
   "AchievementSets": [
@@ -2205,8 +2205,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-08-19T15:07:31.4365828+00:00",
+  "LastChanged_Achievements": "2023-08-19T16:09:16.1197493+00:00",
   "LastUpdate_AppInfo": "2023-08-17T16:57:04.6677463+00:00",
-  "LastUpdate_Ratings": "2023-08-19T14:58:40.9828654+00:00",
-  "LastUpdate_Achievements": "2023-08-19T15:07:31.4366489+00:00"
+  "LastUpdate_Ratings": "2023-08-19T15:59:30.4375553+00:00",
+  "LastUpdate_Achievements": "2023-08-19T16:09:16.1198629+00:00"
 }

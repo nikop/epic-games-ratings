@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 94,
+  "EOS_Progressed": 95,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 5.32,
+  "EOS_Completed_Percentage": 5.26,
   "EosHistory": [
     {
       "Time": "2023-06-26T21:03:11.1861868+00:00",
@@ -461,6 +461,11 @@
       "Time": "2023-08-19T07:06:42.2455171+00:00",
       "NumProgressed": 94,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-19T16:07:59.5749097+00:00",
+      "NumProgressed": 95,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-06-26T21:03:11.1861911+00:00",
@@ -487,7 +492,7 @@
       "ID": "GreenSkeleton",
       "SetID": "a76l54k",
       "Name": "Green Skeleton",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 200,
       "UsersEstimate": 8
     },
@@ -520,14 +525,14 @@
     {
       "ID": "a76l54k",
       "IsBase": true,
-      "Progressed": 94,
+      "Progressed": 95,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-06-27T08:56:55.4742028+00:00",
   "FirstSeenAchievements": "2023-06-15T10:01:05.3060571+00:00",
-  "LastChanged_Achievements": "2023-08-19T15:06:28.1067154+00:00",
+  "LastChanged_Achievements": "2023-08-19T16:07:59.574909+00:00",
   "LastUpdate_AppInfo": "2023-08-17T16:57:04.8692302+00:00",
-  "LastUpdate_Ratings": "2023-08-19T14:58:41.5995147+00:00",
-  "LastUpdate_Achievements": "2023-08-19T15:06:28.106725+00:00"
+  "LastUpdate_Ratings": "2023-08-19T15:59:31.2622912+00:00",
+  "LastUpdate_Achievements": "2023-08-19T16:07:59.5749255+00:00"
 }

@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 281,
+  "EOS_Progressed": 284,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 270,
+  "EOS_NewPlayers": 271,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -446,6 +446,11 @@
       "Time": "2023-08-19T15:03:47.4646541+00:00",
       "NumProgressed": 281,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-19T16:04:35.2602661+00:00",
+      "NumProgressed": 284,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -456,9 +461,9 @@
       "ID": "_01_AllIslands",
       "SetID": "8a1io5d",
       "Name": "Somewhere Deep in the Lost Caribbean",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 11
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -466,7 +471,7 @@
       "Name": "A New Journey",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 202
     },
     {
       "ID": "_03_FinishAct1",
@@ -474,15 +479,15 @@
       "Name": "The Adventure Begins",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "_04_CollectAllRelics",
       "SetID": "8a1io5d",
       "Name": "This Belongs in a Museum",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 34
     },
     {
       "ID": "_05_FinishAct2",
@@ -498,7 +503,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "_07_FinishAct3",
@@ -514,7 +519,7 @@
       "Name": "Swabbie",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "_09_Completion_20",
@@ -528,9 +533,9 @@
       "ID": "_10_Completion_30",
       "SetID": "8a1io5d",
       "Name": "Buccaneer",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "_11_Completion_40",
@@ -608,9 +613,9 @@
       "ID": "_20_CrewTale_TPB",
       "SetID": "8a1io5d",
       "Name": "Fishy Fish",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 20
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -624,17 +629,17 @@
       "ID": "_22_CrewTale_FSH",
       "SetID": "8a1io5d",
       "Name": "Accursed Artifacts",
-      "Percentage": 0.7,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "_23_CrewTale_CNN",
       "SetID": "8a1io5d",
       "Name": "Lyrical Longing",
-      "Percentage": 0.7,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "_24_CrewTale_SNP",
@@ -648,9 +653,9 @@
       "ID": "_25_CrewTale_GCW",
       "SetID": "8a1io5d",
       "Name": "Rustic Recipe",
-      "Percentage": 0.4,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "_26_ReviveVirgilio",
@@ -665,14 +670,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 281,
+      "Progressed": 284,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-19T15:03:47.4646536+00:00",
+  "LastChanged_Achievements": "2023-08-19T16:04:35.2602653+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:01.7621403+00:00",
-  "LastUpdate_Ratings": "2023-08-19T15:00:09.6114385+00:00",
-  "LastUpdate_Achievements": "2023-08-19T15:03:47.4646722+00:00"
+  "LastUpdate_Ratings": "2023-08-19T16:01:24.3287126+00:00",
+  "LastUpdate_Achievements": "2023-08-19T16:04:35.2603014+00:00"
 }

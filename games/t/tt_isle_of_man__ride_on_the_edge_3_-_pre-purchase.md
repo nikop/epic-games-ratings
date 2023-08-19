@@ -28,13 +28,13 @@
 | POI Hunter | 3.00% | ~4 |
 | Geek | 3.00% | ~4 |
 | Last One Standing | 3.00% | ~4 |
+| The Immortal One | 3.00% | ~4 |
 | Time Lord | 3.00% | ~4 |
 | First Things First | 3.00% | ~4 |
 | Tailor-Made for Two | 3.00% | ~4 |
 | Tempus Fugit | 3.00% | ~4 |
 | Golden Ratio | 2.00% | ~2 |
 | The Joy of Discovery | 2.00% | ~2 |
-| The Immortal One | 2.00% | ~2 |
 | Shopping List | 2.00% | ~2 |
 | Checklist | 2.00% | ~2 |
 | Time Is of the Essence | 2.00% | ~2 |
@@ -45,7 +45,7 @@
 | Playing Favourites | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 120 (Ranked 317)  
-Completed: 2 (1.67%) (Ranked 97)  
+Completed: 2 (1.67%) (Ranked 98)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

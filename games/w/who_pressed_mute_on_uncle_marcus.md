@@ -8,7 +8,7 @@
 | And away we go! | 89.00% | ~183 |
 | Job one. DONE! | 62.00% | ~128 |
 | You are Carol Vorderman | 59.00% | ~122 |
-| Toby foolery | 51.00% | ~105 |
+| Toby foolery | 52.00% | ~107 |
 | Don't fear the baldness | 40.00% | ~82 |
 | Instinct | 39.00% | ~80 |
 | Blow | 35.00% | ~72 |
@@ -19,7 +19,7 @@
 | Delusions | 28.00% | ~58 |
 | Prove it | 26.00% | ~54 |
 | The truth | 26.00% | ~54 |
-| Making a murderer | 18.00% | ~37 |
+| Making a murderer | 19.00% | ~39 |
 | The whole truth | 15.00% | ~31 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 206 (Ranked 291)  

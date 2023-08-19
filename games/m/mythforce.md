@@ -6,8 +6,8 @@ Number of Ratings: 285  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Death Becomes You | 3.00% | ~25 |
-| That'll Leave a Mark | 3.00% | ~25 |
+| Death Becomes You | 3.00% | ~26 |
+| That'll Leave a Mark | 3.00% | ~26 |
 | Debuff Dogpile | 2.00% | ~17 |
 | Faceroll the Bones | 2.00% | ~17 |
 | First Strike | 2.00% | ~17 |
@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | Deadalus and Loving It | 0.00% | ~0 |
 | Vexed Her | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 849 (Ranked 205)  
+Progressed: 850 (Ranked 205)  
 Completed: 0 (0.00%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,11 +65,11 @@ Completed: 0 (0.00%) (Ranked 260)
 | 2023-08-16 | 793 | 0 |
 | 2023-08-17 | 813 | 0 |
 | 2023-08-18 | 840 | 0 |
-| 2023-08-19 | 849 | 0 |
+| 2023-08-19 | 850 | 0 |
 ## Awards
-Max (Highly Recommended): 32  (Ranked 453)  
+Max (Highly Recommended): 32  (Ranked 454)  
 Sum: 254 (Ranked 352)  
-Diff (max vs sum): 101  
+Diff (max vs sum): 102  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 32 |

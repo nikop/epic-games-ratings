@@ -1210,7 +1210,7 @@
   ],
   "EOS_Progressed": 5367,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -7989,9 +7989,9 @@
       "ID": "UNLOCK_RESEARCH_3",
       "SetID": "5349c2e",
       "Name": "Onward",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 2952
+      "UsersEstimate": 3006
     },
     {
       "ID": "UNLOCK_RESEARCH_5",
@@ -8013,8 +8013,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-08-17T15:01:41.6967356+00:00",
-  "LastChanged_Achievements": "2023-08-19T15:05:21.9007786+00:00",
+  "LastChanged_Achievements": "2023-08-19T16:06:41.703412+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:24.7738983+00:00",
-  "LastUpdate_Ratings": "2023-08-19T14:57:10.3964016+00:00",
-  "LastUpdate_Achievements": "2023-08-19T15:05:21.9008302+00:00"
+  "LastUpdate_Ratings": "2023-08-19T15:57:22.2611107+00:00",
+  "LastUpdate_Achievements": "2023-08-19T16:06:41.7034861+00:00"
 }

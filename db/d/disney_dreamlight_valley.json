@@ -3106,11 +3106,17 @@
       "Rating": 4.76,
       "NumberOfAwards": 7421,
       "NumberOfAwardsMax": 931
+    },
+    {
+      "Time": "2023-08-19T16:01:37.0075904+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7422,
+      "NumberOfAwardsMax": 932
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7421,
-  "NumberOfAwardsMax": 931,
+  "NumberOfAwards": 7422,
+  "NumberOfAwardsMax": 932,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -3123,7 +3129,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 931
+      "Count": 932
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3180,9 +3186,9 @@
       "Count": 492
     }
   ],
-  "EOS_Progressed": 8775,
+  "EOS_Progressed": 8777,
   "EOS_Completed": 199,
-  "EOS_NewPlayers": 247,
+  "EOS_NewPlayers": 248,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 2.27,
   "EosHistory": [
@@ -10005,6 +10011,11 @@
       "Time": "2023-08-19T15:04:34.1607513+00:00",
       "NumProgressed": 8775,
       "NumCompleted": 199
+    },
+    {
+      "Time": "2023-08-19T16:05:33.9520371+00:00",
+      "NumProgressed": 8777,
+      "NumCompleted": 199
     }
   ],
   "TotalAchievements": 15,
@@ -10024,7 +10035,7 @@
       "Name": "Banker",
       "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 3510
+      "UsersEstimate": 3511
     },
     {
       "ID": "Bestest_Friend",
@@ -10032,7 +10043,7 @@
       "Name": "Bestest Friend",
       "Percentage": 48,
       "XP": 75,
-      "UsersEstimate": 4212
+      "UsersEstimate": 4213
     },
     {
       "ID": "Chef_Cook",
@@ -10056,7 +10067,7 @@
       "Name": "Constructor",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 4563
+      "UsersEstimate": 4564
     },
     {
       "ID": "Duty_Bound",
@@ -10064,7 +10075,7 @@
       "Name": "Duty Bound",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "Gardener",
@@ -10072,7 +10083,7 @@
       "Name": "Gardener",
       "Percentage": 32,
       "XP": 75,
-      "UsersEstimate": 2808
+      "UsersEstimate": 2809
     },
     {
       "ID": "Generous",
@@ -10080,7 +10091,7 @@
       "Name": "Generous",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 2018
+      "UsersEstimate": 2019
     },
     {
       "ID": "Goofys_Investor",
@@ -10088,7 +10099,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 71,
       "XP": 75,
-      "UsersEstimate": 6230
+      "UsersEstimate": 6232
     },
     {
       "ID": "Miner",
@@ -10104,7 +10115,7 @@
       "Name": "Photographer",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 6055
+      "UsersEstimate": 6056
     },
     {
       "ID": "Renovator",
@@ -10112,7 +10123,7 @@
       "Name": "Renovator",
       "Percentage": 52,
       "XP": 100,
-      "UsersEstimate": 4563
+      "UsersEstimate": 4564
     },
     {
       "ID": "Thorn_Cleaner",
@@ -10128,23 +10139,23 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 5616
+      "UsersEstimate": 5617
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 8775,
+      "Progressed": 8777,
       "Completed": 199
     }
   ],
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
-  "LastChanged": "2023-08-18T17:59:51.6718753+00:00",
-  "LastChanged_Achievements": "2023-08-19T15:04:34.1607508+00:00",
+  "LastChanged": "2023-08-19T16:01:37.00759+00:00",
+  "LastChanged_Achievements": "2023-08-19T16:05:33.9520365+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:11.7023574+00:00",
-  "LastUpdate_Ratings": "2023-08-19T15:00:21.2912926+00:00",
-  "LastUpdate_Achievements": "2023-08-19T15:04:34.1607909+00:00"
+  "LastUpdate_Ratings": "2023-08-19T16:01:37.0075909+00:00",
+  "LastUpdate_Achievements": "2023-08-19T16:05:33.952093+00:00"
 }

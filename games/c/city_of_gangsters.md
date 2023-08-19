@@ -5,17 +5,17 @@ Rating: 4.26 (Ranked 820)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~155,616 |
-| Copacetic Coordination | 16.00% | ~54,127 |
-| Fronting the Money | 15.00% | ~50,744 |
-| The Dawn of Automation | 14.00% | ~47,361 |
-| Extraordinary Logistics | 14.00% | ~47,361 |
-| Dirty Money | 13.00% | ~43,978 |
-| Family First | 13.00% | ~43,978 |
-| Cleaning House | 12.00% | ~40,595 |
-| Room in the Back | 12.00% | ~40,595 |
-| Beating the Heat | 11.00% | ~37,212 |
-| Booze Baron | 11.00% | ~37,212 |
+| Corner Clout | 46.00% | ~155,620 |
+| Copacetic Coordination | 16.00% | ~54,129 |
+| Fronting the Money | 15.00% | ~50,746 |
+| The Dawn of Automation | 14.00% | ~47,363 |
+| Extraordinary Logistics | 14.00% | ~47,363 |
+| Dirty Money | 13.00% | ~43,980 |
+| Family First | 13.00% | ~43,980 |
+| Cleaning House | 12.00% | ~40,597 |
+| Room in the Back | 12.00% | ~40,597 |
+| Beating the Heat | 11.00% | ~37,214 |
+| Booze Baron | 11.00% | ~37,214 |
 | Friends on the Force | 10.00% | ~33,830 |
 | Neighborhood Watch | 10.00% | ~33,830 |
 | Core Corps | 8.00% | ~27,064 |
@@ -64,7 +64,7 @@ Rating: 4.26 (Ranked 820)
 | Crossing Over | 0.80% | ~2,706 |
 | Boots in the Ground | 0.70% | ~2,368 |
 | Getting Fancy | 0.70% | ~2,368 |
-| Social Butterfly | 0.50% | ~1,691 |
+| Social Butterfly | 0.50% | ~1,692 |
 | Homemade Hooch | 0.40% | ~1,353 |
 | Still Dreaming | 0.40% | ~1,353 |
 | High End Booze | 0.40% | ~1,353 |
@@ -86,7 +86,7 @@ Rating: 4.26 (Ranked 820)
 | High Pillow | 0.10% | ~338 |
 | Station Master | 0.10% | ~338 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 338,295 (Ranked 42)  
+Progressed: 338,305 (Ranked 42)  
 Completed: 7 (0.00%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,7 +207,7 @@ Completed: 7 (0.00%) (Ranked 260)
 | 2023-08-16 | 337,653 | 7 |
 | 2023-08-17 | 337,878 | 7 |
 | 2023-08-18 | 338,131 | 7 |
-| 2023-08-19 | 338,295 | 7 |
+| 2023-08-19 | 338,305 | 7 |
 ## Awards
 Max (Great for Beginners): 33  (Ranked 448)  
 Sum: 162 (Ranked 391)  

@@ -1,7 +1,7 @@
 # DAEMON X MACHINA
 [Store](https://store.epicgames.com/en-US/p/daemon-x-machina)  
 [View Rawdata](../../db/d/daemon_x_machina.json)  
-Rating: 4.39 (Ranked 711)  
+Rating: 4.40 (Ranked 704)  
 Number of Ratings: 2,096  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 1,016  (Ranked 143)  
@@ -153,3 +153,4 @@ Diff (max vs sum): -79
 | 2023-08-09 | 4.39 | - | 1,014 | 1,471 |
 | 2023-08-15 | 4.39 | - | 1,015 | 1,472 |
 | 2023-08-16 | 4.39 | - | 1,016 | 1,473 |
+| 2023-08-19 | 4.40 | - | 1,016 | 1,473 |

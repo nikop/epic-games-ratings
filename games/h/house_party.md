@@ -1,7 +1,7 @@
 # House Party
 [Store](https://store.epicgames.com/en-US/p/house-party-ae8b27)  
 [View Rawdata](../../db/h/house_party.json)  
-Rating: 4.33 (Ranked 772)  
+Rating: 4.33 (Ranked 773)  
 Number of Ratings: 177  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | Sucker Punch | 0.00% | ~0 |
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,076 (Ranked 137)  
+Progressed: 6,077 (Ranked 137)  
 Completed: 3 (0.05%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 3 (0.05%) (Ranked 227)
 | 2023-08-16 | 6,068 | 3 |
 | 2023-08-17 | 6,070 | 3 |
 | 2023-08-18 | 6,073 | 3 |
-| 2023-08-19 | 6,076 | 3 |
+| 2023-08-19 | 6,077 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

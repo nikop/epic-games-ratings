@@ -21,7 +21,7 @@ Number of Ratings: 28  (23.09.2022)
 | Philatelist | 25.00% | ~110 |
 | Let's roll! | 25.00% | ~110 |
 | Ouroboros | 25.00% | ~110 |
-| Non Stop! | 24.00% | ~106 |
+| Non Stop! | 25.00% | ~110 |
 | Foreman | 21.00% | ~92 |
 | Missed it! | 19.00% | ~84 |
 | Russia | 18.00% | ~79 |

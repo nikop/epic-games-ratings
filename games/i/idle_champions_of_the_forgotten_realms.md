@@ -11,13 +11,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beast Intentions | 0.40% | ~893 |
 | The Cursed Farmer | 0.40% | ~893 |
 | To Infinity's and Beyond | 0.40% | ~758 |
+| The Ring of Regeneration | 0.30% | ~670 |
 | The Mad Wizard | 0.30% | ~670 |
 | Maddening | 0.20% | ~447 |
 | Supply Run | 0.20% | ~447 |
 | Were-verpowered | 0.20% | ~447 |
 | A Persistent Buzzing | 0.20% | ~447 |
 | Terror in the Dark | 0.20% | ~447 |
-| The Ring of Regeneration | 0.20% | ~447 |
 | The Crumbling Temple | 0.20% | ~447 |
 | Seeking Allies | 0.20% | ~447 |
 | Are Ya Chicken? | 0.20% | ~447 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~190 |
 | Animated Giff | 0.10% | ~190 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 223,332 (Ranked 53)  
+Progressed: 223,347 (Ranked 53)  
 Completed: 2,193 (0.98%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -644,7 +644,7 @@ Completed: 2,193 (0.98%) (Ranked 119)
 | 2023-08-16 | 222,534 | 2,186 |
 | 2023-08-17 | 222,852 | 2,189 |
 | 2023-08-18 | 223,142 | 2,190 |
-| 2023-08-19 | 223,332 | 2,193 |
+| 2023-08-19 | 223,347 | 2,193 |
 ## Awards
 Max (Diverse Characters): 5,169  (Ranked 68)  
 Sum: 31,128 (Ranked 38)  

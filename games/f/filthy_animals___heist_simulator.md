@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tutorial Completed | 6.00% | ~467 |
+| Tutorial Completed | 6.00% | ~468 |
 | Supermart Objectives Complete | 2.00% | ~156 |
 | Supermart Heisted | 2.00% | ~156 |
 | Sewer Objectives Complete | 1.00% | ~78 |
@@ -33,7 +33,7 @@
 | Temple Objectives Complete | 0.00% | ~0 |
 | Temple Heisted | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,791 (Ranked 131)  
+Progressed: 7,792 (Ranked 131)  
 Completed: 0 (0.00%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,7 +154,7 @@ Completed: 0 (0.00%) (Ranked 260)
 | 2023-08-16 | 7,763 | 0 |
 | 2023-08-17 | 7,776 | 0 |
 | 2023-08-18 | 7,787 | 0 |
-| 2023-08-19 | 7,791 | 0 |
+| 2023-08-19 | 7,792 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
