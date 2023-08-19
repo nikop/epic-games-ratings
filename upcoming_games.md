@@ -70,6 +70,7 @@
 | [MidEvil](games/c/c5a7105b5a09460b9bc3bfb9c8e5e719.md) | 2023-09-30 | - |  | - | - |
 | [Millennium Conflict](games/m/millennium_conflict.md) | 2023-09-30 | - |  | - | - |
 | [Molten Horn](games/m/molten_horn.md) | 2023-09-30 | - |  | - | - |
+| [Moons of Ardan](games/8/820b1fcc8d6c46e59d7ae15218b06834.md) | 2023-09-30 | - |  | - | - |
 | [My Demon Wife](games/m/my_demon_wife.md) | 2023-09-30 | - |  | - | - |
 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 2023-09-30 | - |  | - | - |
 | [Operation Wolf Returns: First Mission VR](games/o/operation_wolf.md) | 2023-09-30 | - |  | - | - |
@@ -463,7 +464,7 @@
 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 2099-02-01 | - |  | - | - |
 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 2099-03-09 | - |  | - | - |
 | [Blazing Sails](games/b/blazing_sails.md) | 2099-04-06 | - |  | - | - |
-| [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2099-06-08 | - |  | 4.10 | 2,494 |
+| [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2099-06-08 | - |  | 4.10 | 2,496 |
 | [Tower of Fantasy](games/t/tower_of_fantasy_1.md) | 2099-06-26 | - |  | - | - |
 | [Matchpoint - Tennis Championships](games/m/matchpoint_-_tennis_championships.md) | 2099-07-07 | - |  | - | 0 |
 | [Video Horror Society](games/v/video_horror_society.md) | 2099-07-18 | - |  | 4.26 | 297 |
