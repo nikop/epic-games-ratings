@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 310,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -880,9 +880,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2734,
+  "EOS_Progressed": 2735,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4045,6 +4045,11 @@
       "Time": "2023-08-19T17:05:19.3262181+00:00",
       "NumProgressed": 2734,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-19T23:04:31.0910978+00:00",
+      "NumProgressed": 2735,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4160,7 +4165,7 @@
       "Name": "Go with the Flow",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "ACH_GOAT-STATUS",
@@ -4272,7 +4277,7 @@
       "Name": "Plastic Surgeon",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "ACH_PRINCE-OF-PHILLY",
@@ -4432,22 +4437,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 1613
+      "UsersEstimate": 1614
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2734,
+      "Progressed": 2735,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-08-12T21:02:33.3554881+00:00",
-  "LastChanged_Achievements": "2023-08-19T22:04:52.9720512+00:00",
+  "LastChanged_Achievements": "2023-08-19T23:04:31.0910973+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:39.161743+00:00",
-  "LastUpdate_Ratings": "2023-08-19T22:02:04.3464091+00:00",
-  "LastUpdate_Achievements": "2023-08-19T22:04:52.9721584+00:00"
+  "LastUpdate_Ratings": "2023-08-19T23:01:35.8473542+00:00",
+  "LastUpdate_Achievements": "2023-08-19T23:04:31.0911768+00:00"
 }

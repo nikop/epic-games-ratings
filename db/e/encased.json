@@ -2,7 +2,7 @@
   "ID": "48ee23bbc7c34ac09604253e74d17b49",
   "Name": "Encased",
   "ProductSlug": "encased",
-  "Ranking_Rating": 761,
+  "Ranking_Rating": 760,
   "Ranking_Popularity": 306,
   "Ranking_PopularitySum": 400,
   "Ranking_EOS_Progress": 548,
@@ -462,6 +462,6 @@
   "FirstSeen": "2022-07-22T20:20:17.8710965+00:00",
   "LastChanged": "2023-08-19T06:02:06.5923838+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:27.1775541+00:00",
-  "LastUpdate_Ratings": "2023-08-19T22:01:49.7606056+00:00",
-  "LastUpdate_Achievements": "2023-08-19T22:07:41.3180174+00:00"
+  "LastUpdate_Ratings": "2023-08-19T23:01:25.093295+00:00",
+  "LastUpdate_Achievements": "2023-08-19T23:07:19.5731016+00:00"
 }

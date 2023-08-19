@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level Up! | 88.00% | ~125 |
+| Level Up! | 89.00% | ~126 |
 | Bullseye! | 85.00% | ~121 |
 | Graduation! | 81.00% | ~115 |
 | Villfir Forest | 78.00% | ~111 |

@@ -29,13 +29,13 @@
 | Run and Gun | 3.00% | ~6 |
 | The bus stop | 3.00% | ~6 |
 | Armed To The Teeth | 2.00% | ~4 |
+| Back In Time | 2.00% | ~4 |
 | Spiritual essence well spent | 2.00% | ~4 |
 | Pet The Dog | 2.00% | ~4 |
-| Back In Time | 1.00% | ~2 |
+| The 5th Element | 2.00% | ~4 |
 | Box Of Ploutus | 1.00% | ~2 |
 | Retro Player | 1.00% | ~2 |
 | Survival Hero | 1.00% | ~2 |
-| The 5th Element | 1.00% | ~2 |
 | Before The Eclipse | 0.50% | ~1 |
 | Chosen One | 0.50% | ~1 |
 | Die Another Day | 0.50% | ~1 |

@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let the Adventure Begin! | 56.00% | ~15 |
+| Let the Adventure Begin! | 59.00% | ~16 |
 | Prized Possession | 30.00% | ~8 |
 | Creature Evolution | 26.00% | ~7 |
 | Spirit of competition | 26.00% | ~7 |
+| Think Positive | 22.00% | ~6 |
 | Kingdom Party Time | 22.00% | ~6 |
-| Think Positive | 19.00% | ~5 |
 | Festival Fever | 15.00% | ~4 |
 | Entering New Territory | 15.00% | ~4 |
 | Landscaper | 11.00% | ~3 |

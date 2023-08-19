@@ -4037,10 +4037,16 @@
       "Rating": 4.92,
       "NumberOfAwards": 7805,
       "NumberOfAwardsMax": 3225
+    },
+    {
+      "Time": "2023-08-19T23:00:04.4114604+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 7806,
+      "NumberOfAwardsMax": 3225
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7805,
+  "NumberOfAwards": 7806,
   "NumberOfAwardsMax": 3225,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4072,7 +4078,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 237
+      "Count": 238
     },
     {
       "Text": "This game has Unique Visuals",
@@ -4135,9 +4141,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 701619,
-  "EOS_Completed": 6305,
-  "EOS_NewPlayers": 507,
+  "EOS_Progressed": 701620,
+  "EOS_Completed": 6306,
+  "EOS_NewPlayers": 508,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.9,
   "EosHistory": [
@@ -17070,6 +17076,11 @@
       "Time": "2023-08-19T22:06:11.494317+00:00",
       "NumProgressed": 701619,
       "NumCompleted": 6305
+    },
+    {
+      "Time": "2023-08-19T23:05:49.937044+00:00",
+      "NumProgressed": 701620,
+      "NumCompleted": 6306
     }
   ],
   "TotalAchievements": 49,
@@ -17081,7 +17092,7 @@
       "Name": "Back to Work",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 266615
+      "UsersEstimate": 266616
     },
     {
       "ID": "AchAresKills",
@@ -17105,7 +17116,7 @@
       "Name": "The Useless Trinket",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 91210
+      "UsersEstimate": 91211
     },
     {
       "ID": "AchBuffedButterfly",
@@ -17145,7 +17156,7 @@
       "Name": "Escaped Asphodel",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 561295
+      "UsersEstimate": 561296
     },
     {
       "ID": "AchClearElysium",
@@ -17161,7 +17172,7 @@
       "Name": "Champion of Elysium",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 91210
+      "UsersEstimate": 91211
     },
     {
       "ID": "AchClearHeatGate",
@@ -17169,7 +17180,7 @@
       "Name": "Hold the Onions",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 126291
+      "UsersEstimate": 126292
     },
     {
       "ID": "AchClearRun4thAspect",
@@ -17185,7 +17196,7 @@
       "Name": "Escaped Tartarus",
       "Percentage": 89,
       "XP": 25,
-      "UsersEstimate": 624441
+      "UsersEstimate": 624442
     },
     {
       "ID": "AchCrushedThanatos",
@@ -17209,7 +17220,7 @@
       "Name": "River Denizens",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 196453
+      "UsersEstimate": 196454
     },
     {
       "ID": "AchForgedBond",
@@ -17217,7 +17228,7 @@
       "Name": "Grown Close",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 196453
+      "UsersEstimate": 196454
     },
     {
       "ID": "AchFoundAllSummons",
@@ -17249,7 +17260,7 @@
       "Name": "Friends in High Places",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 477101
+      "UsersEstimate": 477102
     },
     {
       "ID": "AchGreaterCallSpurned",
@@ -17305,7 +17316,7 @@
       "Name": "Chthonic Colleagues",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 442020
+      "UsersEstimate": 442021
     },
     {
       "ID": "AchMirrorAllUnlocked",
@@ -17377,7 +17388,7 @@
       "Name": "Tools of the Architect",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 161372
+      "UsersEstimate": 161373
     },
     {
       "ID": "AchPurgedLegendBoon",
@@ -17441,7 +17452,7 @@
       "Name": "Arms Collector",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 498149
+      "UsersEstimate": 498150
     },
     {
       "ID": "AchWeaponClears",
@@ -17449,7 +17460,7 @@
       "Name": "Master of Arms",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 161372
+      "UsersEstimate": 161373
     },
     {
       "ID": "AchWellShopItems",
@@ -17472,15 +17483,15 @@
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 701619,
-      "Completed": 6305
+      "Progressed": 701620,
+      "Completed": 6306
     }
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
-  "LastChanged": "2023-08-19T15:00:01.3765379+00:00",
-  "LastChanged_Achievements": "2023-08-19T22:06:11.4943165+00:00",
+  "LastChanged": "2023-08-19T23:00:04.4114602+00:00",
+  "LastChanged_Achievements": "2023-08-19T23:05:49.9370435+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:54.0652189+00:00",
-  "LastUpdate_Ratings": "2023-08-19T22:00:28.7223394+00:00",
-  "LastUpdate_Achievements": "2023-08-19T22:06:11.4944386+00:00"
+  "LastUpdate_Ratings": "2023-08-19T23:00:04.411461+00:00",
+  "LastUpdate_Achievements": "2023-08-19T23:05:49.937239+00:00"
 }

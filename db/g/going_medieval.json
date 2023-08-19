@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 240,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1208,9 +1208,9 @@
       "Count": 67
     }
   ],
-  "EOS_Progressed": 5375,
+  "EOS_Progressed": 5376,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -7773,6 +7773,11 @@
       "Time": "2023-08-19T22:05:50.041763+00:00",
       "NumProgressed": 5375,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-08-19T23:05:28.1398512+00:00",
+      "NumProgressed": 5376,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 31,
@@ -7832,7 +7837,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 3816
+      "UsersEstimate": 3817
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -7944,7 +7949,7 @@
       "Name": "The First Day",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 3655
+      "UsersEstimate": 3656
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -8016,7 +8021,7 @@
       "Name": "Onward",
       "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 2956
+      "UsersEstimate": 2957
     },
     {
       "ID": "UNLOCK_RESEARCH_5",
@@ -8024,22 +8029,22 @@
       "Name": "Studious Researcher",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 2741
+      "UsersEstimate": 2742
     }
   ],
   "AchievementSets": [
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 5375,
+      "Progressed": 5376,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-08-17T15:01:41.6967356+00:00",
-  "LastChanged_Achievements": "2023-08-19T22:05:50.0417623+00:00",
+  "LastChanged_Achievements": "2023-08-19T23:05:28.1398507+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:24.7738983+00:00",
-  "LastUpdate_Ratings": "2023-08-19T21:57:20.4739163+00:00",
-  "LastUpdate_Achievements": "2023-08-19T22:05:50.0418493+00:00"
+  "LastUpdate_Ratings": "2023-08-19T22:57:11.481109+00:00",
+  "LastUpdate_Achievements": "2023-08-19T23:05:28.1399164+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 178,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -243,9 +243,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 199500,
+  "EOS_Progressed": 199501,
   "EOS_Completed": 483,
-  "EOS_NewPlayers": 591,
+  "EOS_NewPlayers": 587,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -13263,6 +13263,11 @@
       "Time": "2023-08-19T22:04:38.4290204+00:00",
       "NumProgressed": 199500,
       "NumCompleted": 483
+    },
+    {
+      "Time": "2023-08-19T23:04:17.5819942+00:00",
+      "NumProgressed": 199501,
+      "NumCompleted": 483
     }
   ],
   "TotalAchievements": 29,
@@ -13298,7 +13303,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 187530
+      "UsersEstimate": 187531
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -13306,7 +13311,7 @@
       "Name": "Bridge crossed.",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 1396
+      "UsersEstimate": 1397
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_ENTER",
@@ -13370,7 +13375,7 @@
       "Name": "Names to faces.",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 1396
+      "UsersEstimate": 1397
     },
     {
       "ID": "ACHIEVEMENT_CRYOSLEEP",
@@ -13505,7 +13510,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 199500,
+      "Progressed": 199501,
       "Completed": 483
     }
   ],
@@ -13513,8 +13518,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-08-19T20:00:31.8399303+00:00",
-  "LastChanged_Achievements": "2023-08-19T22:04:38.4290197+00:00",
+  "LastChanged_Achievements": "2023-08-19T23:04:17.5819936+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:20.1074044+00:00",
-  "LastUpdate_Ratings": "2023-08-19T22:01:42.8206565+00:00",
-  "LastUpdate_Achievements": "2023-08-19T22:04:38.4291948+00:00"
+  "LastUpdate_Ratings": "2023-08-19T23:01:16.4472482+00:00",
+  "LastUpdate_Achievements": "2023-08-19T23:04:17.5821637+00:00"
 }

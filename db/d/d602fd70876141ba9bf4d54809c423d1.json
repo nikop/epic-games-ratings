@@ -4,7 +4,7 @@
   "ProductSlug": "the-evil-within",
   "Ranking_EOS_Progress": 351,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 72,
+  "EOS_Progressed": 73,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -369,6 +369,11 @@
       "Time": "2023-08-19T17:06:01.8276199+00:00",
       "NumProgressed": 72,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-19T23:05:08.2052768+00:00",
+      "NumProgressed": 73,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T16:01:32.1694174+00:00",
@@ -379,7 +384,7 @@
       "ID": "ACHIEVEMENT_01",
       "SetID": "ap8553i",
       "Name": "What\u0027s in the Box?",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 20,
       "UsersEstimate": 22
     },
@@ -435,7 +440,7 @@
       "ID": "ACHIEVEMENT_08",
       "SetID": "ap8553i",
       "Name": "One of the Many",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 45,
       "UsersEstimate": 4
     },
@@ -443,7 +448,7 @@
       "ID": "ACHIEVEMENT_09",
       "SetID": "ap8553i",
       "Name": "First Step into Darkness",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 30,
       "UsersEstimate": 4
     },
@@ -555,7 +560,7 @@
       "ID": "ACHIEVEMENT_23",
       "SetID": "ap8553i",
       "Name": "...And the Corpses Mount",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
       "UsersEstimate": 20
     },
@@ -643,7 +648,7 @@
       "ID": "ACHIEVEMENT_34",
       "SetID": "ap8553i",
       "Name": "Home is Where the Hospice is",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 15,
       "UsersEstimate": 17
     },
@@ -948,20 +953,20 @@
     {
       "ID": "8ddjaeg",
       "IsBase": false,
-      "Progressed": 72,
+      "Progressed": 73,
       "Completed": 0
     },
     {
       "ID": "ap8553i",
       "IsBase": true,
-      "Progressed": 72,
+      "Progressed": 73,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-04T21:57:01.9865679+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5206267+00:00",
-  "LastChanged_Achievements": "2023-08-19T22:05:30.260363+00:00",
+  "LastChanged_Achievements": "2023-08-19T23:05:08.2052761+00:00",
   "LastUpdate_AppInfo": "2023-08-16T16:57:24.4284709+00:00",
-  "LastUpdate_Ratings": "2023-08-19T21:58:31.1691774+00:00",
-  "LastUpdate_Achievements": "2023-08-19T22:05:30.2605499+00:00"
+  "LastUpdate_Ratings": "2023-08-19T22:58:17.4288163+00:00",
+  "LastUpdate_Achievements": "2023-08-19T23:05:08.2053664+00:00"
 }

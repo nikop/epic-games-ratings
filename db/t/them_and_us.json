@@ -924,9 +924,9 @@
       "ID": "ETUA_BackInTime",
       "SetID": "65jc0ap",
       "Name": "Back In Time",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ETUA_BeforeTheEclipse",
@@ -1124,9 +1124,9 @@
       "ID": "ETUA_The5thElement",
       "SetID": "65jc0ap",
       "Name": "The 5th Element",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ETUA_TheBusStop",
@@ -1221,8 +1221,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-08-19T22:05:45.7894711+00:00",
+  "LastChanged_Achievements": "2023-08-19T23:05:24.1689562+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:40.8025886+00:00",
-  "LastUpdate_Ratings": "2023-08-19T21:59:20.75365+00:00",
-  "LastUpdate_Achievements": "2023-08-19T22:05:45.7895379+00:00"
+  "LastUpdate_Ratings": "2023-08-19T22:59:05.6365679+00:00",
+  "LastUpdate_Achievements": "2023-08-19T23:05:24.169033+00:00"
 }

@@ -6,7 +6,7 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~35,420 |
+| Goodest Of The Good Cops | 28.00% | ~35,421 |
 | Biggest Communism Builder | 24.00% | ~30,360 |
 | The World's Most Laughable Centrist | 20.00% | ~25,300 |
 | Il Coppo Del'Arte! | 18.00% | ~22,770 |
@@ -34,20 +34,20 @@ Number of Ratings: 1,611  (23.09.2022)
 | Real Musor | 0.90% | ~1,139 |
 | Baddest Brow in Town | 0.80% | ~1,012 |
 | Venture into the HARDCORE | 0.80% | ~1,012 |
-| Networthy Individual | 0.70% | ~885 |
+| Networthy Individual | 0.70% | ~886 |
 | Leopard Mindset | 0.60% | ~759 |
 | Modus: Mullen | 0.30% | ~380 |
 | Palerunner | 0.30% | ~380 |
 | Cause a ****storm | 0.20% | ~253 |
 | True Detective | 0.20% | ~253 |
 | The Icebreaker | 0.20% | ~253 |
-| The Most Honourable Cop in The Land | 0.10% | ~126 |
-| Gluten-Free Topping Pie | 0.10% | ~126 |
-| Get Kim to Wear *The Jacket* | 0.10% | ~126 |
-| Medal dispenser | 0.10% | ~126 |
-| What body? | 0.10% | ~126 |
+| The Most Honourable Cop in The Land | 0.10% | ~127 |
+| Gluten-Free Topping Pie | 0.10% | ~127 |
+| Get Kim to Wear *The Jacket* | 0.10% | ~127 |
+| Medal dispenser | 0.10% | ~127 |
+| What body? | 0.10% | ~127 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,500 (Ranked 68)  
+Progressed: 126,502 (Ranked 68)  
 Completed: 27 (0.02%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,7 +168,7 @@ Completed: 27 (0.02%) (Ranked 241)
 | 2023-08-16 | 126,338 | 27 |
 | 2023-08-17 | 126,389 | 27 |
 | 2023-08-18 | 126,443 | 27 |
-| 2023-08-19 | 126,500 | 27 |
+| 2023-08-19 | 126,502 | 27 |
 ## Awards
 Max (Character Customization): 719  (Ranked 165)  
 Sum: 1,083 (Ranked 235)  

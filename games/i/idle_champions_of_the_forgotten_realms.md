@@ -18,6 +18,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Were-verpowered | 0.20% | ~447 |
 | A Persistent Buzzing | 0.20% | ~447 |
 | Terror in the Dark | 0.20% | ~447 |
+| A Mysterious Summons | 0.20% | ~447 |
 | The Crumbling Temple | 0.20% | ~447 |
 | Seeking Allies | 0.20% | ~447 |
 | Are Ya Chicken? | 0.20% | ~447 |
@@ -169,7 +170,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Double Vision | 0.10% | ~223 |
 | Underground Railroad | 0.10% | ~223 |
 | Low Initiative | 0.10% | ~223 |
-| A Mysterious Summons | 0.10% | ~223 |
 | Street War | 0.10% | ~223 |
 | Force Grey Unleashed | 0.10% | ~223 |
 | Vajra's Guards | 0.10% | ~223 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~190 |
 | Animated Giff | 0.10% | ~190 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 223,430 (Ranked 53)  
+Progressed: 223,443 (Ranked 53)  
 Completed: 2,193 (0.98%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -644,7 +644,7 @@ Completed: 2,193 (0.98%) (Ranked 120)
 | 2023-08-16 | 222,534 | 2,186 |
 | 2023-08-17 | 222,852 | 2,189 |
 | 2023-08-18 | 223,142 | 2,190 |
-| 2023-08-19 | 223,430 | 2,193 |
+| 2023-08-19 | 223,443 | 2,193 |
 ## Awards
 Max (Diverse Characters): 5,169  (Ranked 68)  
 Sum: 31,135 (Ranked 38)  

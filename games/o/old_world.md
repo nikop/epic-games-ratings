@@ -52,6 +52,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Just Difficulty | 1.00% | ~135 |
 | Artisans | 1.00% | ~135 |
 | Furious Family | 1.00% | ~135 |
+| Acropolis | 1.00% | ~135 |
 | Apadana | 1.00% | ~135 |
 | Colossus | 1.00% | ~135 |
 | Great Ziggurat | 1.00% | ~135 |
@@ -69,7 +70,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mythology | 1.00% | ~135 |
 | Intercessor | 0.90% | ~121 |
 | Sages | 0.90% | ~121 |
-| Acropolis | 0.90% | ~121 |
 | Mausoleum | 0.90% | ~121 |
 | Hanging Gardens in Babylon | 0.80% | ~108 |
 | Beloved | 0.80% | ~108 |

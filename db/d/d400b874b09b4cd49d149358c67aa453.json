@@ -4,7 +4,7 @@
   "ProductSlug": "electrician-simulator-164e9f",
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-08-04T16:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 253,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -856,9 +856,9 @@
       "ID": "ACH_FIRST_SHOCK",
       "SetID": "al4k4nh",
       "Name": "First shock",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 157
     },
     {
       "ID": "ACH_FIX_LIGHT_SWITCHES",
@@ -960,9 +960,9 @@
       "ID": "ACH_START_CAR",
       "SetID": "al4k4nh",
       "Name": "That\u2019s not very ecological",
-      "Percentage": 0.4,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_UNSCREW",
@@ -991,8 +991,8 @@
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2023-08-19T22:07:31.1440146+00:00",
+  "LastChanged_Achievements": "2023-08-19T23:07:09.4485394+00:00",
   "LastUpdate_AppInfo": "2023-08-16T17:57:06.0190201+00:00",
-  "LastUpdate_Ratings": "2023-08-19T21:59:23.2108518+00:00",
-  "LastUpdate_Achievements": "2023-08-19T22:07:31.1440391+00:00"
+  "LastUpdate_Ratings": "2023-08-19T22:59:08.8914676+00:00",
+  "LastUpdate_Achievements": "2023-08-19T23:07:09.448623+00:00"
 }

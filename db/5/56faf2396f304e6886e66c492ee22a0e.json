@@ -4,7 +4,7 @@
   "ProductSlug": "hush-hush-5c1fa0",
   "Ranking_EOS_Progress": 414,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewPlayers": 311,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-07-27T17:00:00+00:00",
@@ -200,9 +200,9 @@
       "ID": "ACHIEVEMENT_Dorian_Impress_D2",
       "SetID": "70j9o42",
       "Name": "Impressive",
-      "Percentage": 25,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_Dorian_Spare_You",
@@ -455,8 +455,8 @@
   ],
   "FirstSeen": "2023-07-28T15:57:49.6060029+00:00",
   "FirstSeenAchievements": "2023-07-12T17:04:29.8033729+00:00",
-  "LastChanged_Achievements": "2023-08-19T22:06:15.8391953+00:00",
+  "LastChanged_Achievements": "2023-08-19T23:05:54.1821227+00:00",
   "LastUpdate_AppInfo": "2023-08-15T09:57:15.1154878+00:00",
-  "LastUpdate_Ratings": "2023-08-19T21:59:07.9591303+00:00",
-  "LastUpdate_Achievements": "2023-08-19T22:06:15.8392286+00:00"
+  "LastUpdate_Ratings": "2023-08-19T22:58:51.9334323+00:00",
+  "LastUpdate_Achievements": "2023-08-19T23:05:54.182188+00:00"
 }

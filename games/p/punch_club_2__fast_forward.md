@@ -55,10 +55,10 @@
 | Gang wrangler | 34.00% | ~88 |
 | Problems of cyborgs | 34.00% | ~88 |
 | Undercover robot | 34.00% | ~88 |
+| Not little hacker | 33.00% | ~85 |
 | Absolute Champion! | 33.00% | ~85 |
 | The lonesome road | 32.00% | ~83 |
 | Key memories | 32.00% | ~83 |
-| Not little hacker | 32.00% | ~83 |
 | Careerist | 32.00% | ~83 |
 | Anyone can resist | 32.00% | ~83 |
 | The heart of the Resistance | 32.00% | ~83 |
