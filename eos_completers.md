@@ -9,16 +9,16 @@
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 26.00% |
 | 8 | [Overloop](games/o/overloop.md) | 25.00% |
 | 9 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 10 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 22.56% |
+| 10 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 23.31% |
 | 11 | [Volley Pals](games/v/volley_pals.md) | 22.45% |
 | 12 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 12 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 14 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 18.55% |
 | 15 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
 | 16 | [Island Cities](games/i/island_cities.md) | 18.00% |
-| 17 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 16.67% |
-| 18 | [Anna's Quest](games/a/anna's_quest.md) | 14.71% |
-| 19 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.55% |
+| 17 | [Anna's Quest](games/a/anna's_quest.md) | 14.71% |
+| 18 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.55% |
+| 19 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 14.29% |
 | 20 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.15% |
 | 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.17% |
 | 22 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
@@ -26,8 +26,8 @@
 | 24 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.08% |
 | 25 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.71% |
 | 26 | [Remains](games/r/remains.md) | 10.64% |
-| 27 | [Out of Bounds](games/o/out_of_bounds.md) | 10.34% |
-| 28 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.03% |
+| 27 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.03% |
+| 28 | [Out of Bounds](games/o/out_of_bounds.md) | 10.00% |
 | 29 | [Sonic Origins](games/s/sonic_origins.md) | 9.52% |
 | 29 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.52% |
 | 31 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.30% |
@@ -37,7 +37,7 @@
 | 35 | [Ravenlok](games/r/ravenlok.md) | 7.53% |
 | 36 | [Smelter](games/s/smelter.md) | 7.50% |
 | 37 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.41% |
-| 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.99% |
+| 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.98% |
 | 39 | [Scorn](games/s/scorn.md) | 6.93% |
 | 40 | [Time Loader](games/t/time_loader.md) | 6.78% |
 | 41 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.75% |
@@ -61,7 +61,7 @@
 | 59 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.15% |
 | 60 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.12% |
 | 61 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.95% |
-| 62 | [ZZT!](games/z/zzt!.md) | 3.82% |
+| 62 | [ZZT!](games/z/zzt!.md) | 3.85% |
 | 63 | [Without Escape](games/w/without_escape.md) | 3.57% |
 | 64 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 65 | [Doodle God](games/d/doodle_god.md) | 3.45% |
@@ -86,12 +86,12 @@
 | 84 | [Lamentum](games/l/lamentum.md) | 2.53% |
 | 85 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.52% |
 | 86 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 87 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.35% |
-| 88 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.27% |
-| 89 | [Bloodshore](games/b/bloodshore.md) | 2.21% |
-| 90 | [FORECLOSED](games/f/foreclosed.md) | 2.17% |
-| 91 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.03% |
-| 91 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 2.03% |
+| 87 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 2.48% |
+| 88 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.35% |
+| 89 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.27% |
+| 90 | [Bloodshore](games/b/bloodshore.md) | 2.21% |
+| 91 | [FORECLOSED](games/f/foreclosed.md) | 2.17% |
+| 92 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.03% |
 | 93 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.94% |
 | 94 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.92% |
 | 95 | [Night Book](games/n/night_book.md) | 1.89% |
