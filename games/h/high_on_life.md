@@ -5,18 +5,18 @@ Rating: 4.65 (Ranked 301)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eye Scream, You Scream | 83.00% | ~19,879 |
-| Mods Please Ban | 77.00% | ~18,442 |
-| Bring A Knife to a Gun Fight | 76.00% | ~18,203 |
-| Fallout Doesn't Let You Do This | 73.00% | ~17,484 |
-| First Bounty Down | 59.00% | ~14,131 |
-| We're All Very Impressed, Trust Me | 57.00% | ~13,652 |
+| Eye Scream, You Scream | 83.00% | ~19,880 |
+| Mods Please Ban | 77.00% | ~18,443 |
+| Bring A Knife to a Gun Fight | 76.00% | ~18,204 |
+| Fallout Doesn't Let You Do This | 73.00% | ~17,485 |
+| First Bounty Down | 59.00% | ~14,132 |
+| We're All Very Impressed, Trust Me | 57.00% | ~13,653 |
 | Luglox Genocide | 43.00% | ~10,299 |
 | Playing Card To Get | 33.00% | ~7,904 |
 | Don't Knife The Hand That Feeds | 33.00% | ~7,904 |
 | Creature Feature | 29.00% | ~6,946 |
-| Satisfied Gus-tomer | 28.00% | ~6,706 |
-| Cold-Blooded Driller | 28.00% | ~6,706 |
+| Satisfied Gus-tomer | 28.00% | ~6,707 |
+| Cold-Blooded Driller | 28.00% | ~6,707 |
 | Are You Packin'? | 25.00% | ~5,988 |
 | Sweezy Like Sunday Morning | 25.00% | ~5,988 |
 | G3 Graduation | 25.00% | ~5,988 |
@@ -38,7 +38,7 @@ Rating: 4.65 (Ranked 301)
 | Epic Legendary Prize | 1.00% | ~240 |
 | A Starfish Is Born | 1.00% | ~240 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,951 (Ranked 103)  
+Progressed: 23,952 (Ranked 103)  
 Completed: 12 (0.05%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,7 +159,7 @@ Completed: 12 (0.05%) (Ranked 228)
 | 2023-08-17 | 23,938 | 12 |
 | 2023-08-18 | 23,942 | 12 |
 | 2023-08-19 | 23,945 | 12 |
-| 2023-08-20 | 23,951 | 12 |
+| 2023-08-20 | 23,952 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

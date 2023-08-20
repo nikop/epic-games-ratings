@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 56500,
+  "EOS_Progressed": 56501,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7877,6 +7877,11 @@
       "Time": "2023-08-20T19:07:57.6318338+00:00",
       "NumProgressed": 56500,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-20T22:06:36.5346109+00:00",
+      "NumProgressed": 56501,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 49,
@@ -7888,7 +7893,7 @@
       "Name": "Achievement Achiever",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "BackerVisitor",
@@ -7912,7 +7917,7 @@
       "Name": "Boom Box Wipeout",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "CantBelieve",
@@ -7928,7 +7933,7 @@
       "Name": "Can\u0027t Touch This",
       "Percentage": 0.1,
       "XP": 90,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ElfChaser",
@@ -7992,7 +7997,7 @@
       "Name": "Found All The Backers!",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "FunklordPower",
@@ -8000,7 +8005,7 @@
       "Name": "FunkLord Power",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "Generous",
@@ -8016,7 +8021,7 @@
       "Name": "Gotta Get \u0027Em All",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "GimmieMyPresentBack",
@@ -8024,7 +8029,7 @@
       "Name": "Gimme My Presents Back!",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "HFZGoober",
@@ -8056,7 +8061,7 @@
       "Name": "Is This Really Possible?",
       "Percentage": 0.1,
       "XP": 75,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "LevelDiver",
@@ -8080,7 +8085,7 @@
       "Name": "Lord Of The HFZ",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "MadHatter",
@@ -8088,7 +8093,7 @@
       "Name": "Mad Hatter",
       "Percentage": 0.1,
       "XP": 70,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "MadeIt",
@@ -8104,7 +8109,7 @@
       "Name": "99 Problems (But A Buck Ain\u0027t One)",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "NinePlayers",
@@ -8128,7 +8133,7 @@
       "Name": "Pacifist Victory",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "PieceOfCake",
@@ -8136,7 +8141,7 @@
       "Name": "Piece O\u0027 Cake",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "Randomizer",
@@ -8152,7 +8157,7 @@
       "Name": "Rhythm Star",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "RiskTaker",
@@ -8176,7 +8181,7 @@
       "Name": "Cleaning Out Santa\u0027s Sack",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "SecretLevel",
@@ -8208,7 +8213,7 @@
       "Name": "Teamwork Rules",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "TheWorstPossibleLuck",
@@ -8264,7 +8269,7 @@
       "Name": "Why Do I Keep Doing That?",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "YouDidIt",
@@ -8272,14 +8277,14 @@
       "Name": "Hey, You Did It!",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     }
   ],
   "AchievementSets": [
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 56500,
+      "Progressed": 56501,
       "Completed": 5
     }
   ],
@@ -8287,8 +8292,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-03-31T17:59:29.6978698+00:00",
-  "LastChanged_Achievements": "2023-08-20T21:08:45.2856917+00:00",
+  "LastChanged_Achievements": "2023-08-20T22:06:36.5346104+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:28.2137385+00:00",
-  "LastUpdate_Ratings": "2023-08-20T20:59:08.6556314+00:00",
-  "LastUpdate_Achievements": "2023-08-20T21:08:45.2857989+00:00"
+  "LastUpdate_Ratings": "2023-08-20T21:58:19.9897618+00:00",
+  "LastUpdate_Achievements": "2023-08-20T22:06:36.5346892+00:00"
 }

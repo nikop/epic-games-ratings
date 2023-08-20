@@ -4,7 +4,7 @@
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 551,
+  "EOS_Progressed": 552,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2369,6 +2369,11 @@
       "Time": "2023-08-19T21:03:28.1271842+00:00",
       "NumProgressed": 551,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-20T22:03:32.3915968+00:00",
+      "NumProgressed": 552,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -2556,7 +2561,7 @@
       "Name": "The Big Day",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "Packing20",
@@ -2636,7 +2641,7 @@
       "Name": "You\u0027re the Expert!",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "TrattoriaSet",
@@ -2699,7 +2704,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 551,
+      "Progressed": 552,
       "Completed": 0
     }
   ],
@@ -2707,8 +2712,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-08-20T21:04:29.2898579+00:00",
+  "LastChanged_Achievements": "2023-08-20T22:03:32.391596+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:49.5877268+00:00",
-  "LastUpdate_Ratings": "2023-08-20T21:01:40.9219471+00:00",
-  "LastUpdate_Achievements": "2023-08-20T21:04:29.2899088+00:00"
+  "LastUpdate_Ratings": "2023-08-20T22:00:22.6755602+00:00",
+  "LastUpdate_Achievements": "2023-08-20T22:03:32.3916418+00:00"
 }

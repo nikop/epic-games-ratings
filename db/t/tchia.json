@@ -212,9 +212,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7248,
+  "EOS_Progressed": 7251,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 285,
+  "EOS_NewPlayers": 287,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -6097,6 +6097,11 @@
       "Time": "2023-08-20T21:07:22.5402219+00:00",
       "NumProgressed": 7248,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-08-20T22:05:36.3708481+00:00",
+      "NumProgressed": 7251,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 21,
@@ -6108,7 +6113,7 @@
       "Name": "Ahem Ahem",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "ARRR",
@@ -6124,7 +6129,7 @@
       "Name": "Audiophile",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "BODY_AND_SOUL",
@@ -6140,7 +6145,7 @@
       "Name": "\u00C7a de Wizz!",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "CLAY_PIGEON",
@@ -6156,7 +6161,7 @@
       "Name": "Energy Saver",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 1232
+      "UsersEstimate": 1233
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -6164,7 +6169,7 @@
       "Name": "Fashion Faux-Pas",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "FASHION_VICTIM",
@@ -6172,7 +6177,7 @@
       "Name": "Fashion Victim",
       "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "GLOBE_TROTTER",
@@ -6180,7 +6185,7 @@
       "Name": "Globe Trotter",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 797
+      "UsersEstimate": 798
     },
     {
       "ID": "HAPPY_CAMPER",
@@ -6188,7 +6193,7 @@
       "Name": "Happy Camper",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "HISTORIAN",
@@ -6204,7 +6209,7 @@
       "Name": "Iconoclast",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "IN_A_PINCH",
@@ -6212,7 +6217,7 @@
       "Name": "In a Pinch",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1522
+      "UsersEstimate": 1523
     },
     {
       "ID": "LIBERATOR",
@@ -6236,7 +6241,7 @@
       "Name": "Shredder",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "SNIP_SNIP",
@@ -6260,7 +6265,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     },
     {
       "ID": "THING",
@@ -6268,14 +6273,14 @@
       "Name": "Thing",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     }
   ],
   "AchievementSets": [
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7248,
+      "Progressed": 7251,
       "Completed": 32
     }
   ],
@@ -6283,8 +6288,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-08-07T01:56:04.2387619+00:00",
-  "LastChanged_Achievements": "2023-08-20T21:07:22.5402214+00:00",
+  "LastChanged_Achievements": "2023-08-20T22:05:36.3708474+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:55.8261903+00:00",
-  "LastUpdate_Ratings": "2023-08-20T21:00:57.946806+00:00",
-  "LastUpdate_Achievements": "2023-08-20T21:07:22.5402727+00:00"
+  "LastUpdate_Ratings": "2023-08-20T21:59:42.8638204+00:00",
+  "LastUpdate_Achievements": "2023-08-20T22:05:36.3709042+00:00"
 }

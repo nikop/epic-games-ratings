@@ -22,9 +22,9 @@
 | Captain | 7.00% | ~71 |
 | Factory Expansion | 7.00% | ~71 |
 | Brothers in Arms | 5.00% | ~50 |
+| Know The Enemy | 4.00% | ~40 |
 | Player Betrayer | 4.00% | ~40 |
 | Moving On Up | 4.00% | ~40 |
-| Know The Enemy | 3.00% | ~30 |
 | Silver Achiever | 3.00% | ~30 |
 | Major | 3.00% | ~30 |
 | Gold Achiever | 2.00% | ~20 |

@@ -21,12 +21,12 @@ Rating: 4.32 (Ranked 778)
 | Old School Jammin' | 1.00% | ~565 |
 | Wakey Wakey | 1.00% | ~565 |
 | Level Diver | 0.80% | ~452 |
-| Gimme My Presents Back! | 0.70% | ~395 |
-| Cleaning Out Santa's Sack | 0.70% | ~395 |
-| Teamwork Rules | 0.70% | ~395 |
+| Gimme My Presents Back! | 0.70% | ~396 |
+| Cleaning Out Santa's Sack | 0.70% | ~396 |
+| Teamwork Rules | 0.70% | ~396 |
 | Beaten By A Little Girl | 0.60% | ~339 |
 | Totally Bummed Again | 0.60% | ~339 |
-| Piece O' Cake | 0.50% | ~282 |
+| Piece O' Cake | 0.50% | ~283 |
 | Boom Box Baby | 0.40% | ~226 |
 | I Can't Believe I've Done This | 0.40% | ~226 |
 | Flying Present Ultimate Master | 0.40% | ~226 |
@@ -40,22 +40,22 @@ Rating: 4.32 (Ranked 778)
 | The Worst Possible Luck | 0.30% | ~170 |
 | Broken Present Risk Taker | 0.20% | ~113 |
 | Truly Evil | 0.20% | ~113 |
-| Achievement Achiever | 0.10% | ~56 |
-| Boom Box Wipeout | 0.10% | ~56 |
-| Can't Touch This | 0.10% | ~56 |
-| Found All The Backers! | 0.10% | ~56 |
-| FunkLord Power | 0.10% | ~56 |
-| Gotta Get 'Em All | 0.10% | ~56 |
-| Is This Really Possible? | 0.10% | ~56 |
-| Lord Of The HFZ | 0.10% | ~56 |
-| Mad Hatter | 0.10% | ~56 |
-| 99 Problems (But A Buck Ain't One) | 0.10% | ~56 |
-| Pacifist Victory | 0.10% | ~56 |
-| Rhythm Star | 0.10% | ~56 |
-| Why Do I Keep Doing That? | 0.10% | ~56 |
-| Hey, You Did It! | 0.10% | ~56 |
+| Achievement Achiever | 0.10% | ~57 |
+| Boom Box Wipeout | 0.10% | ~57 |
+| Can't Touch This | 0.10% | ~57 |
+| Found All The Backers! | 0.10% | ~57 |
+| FunkLord Power | 0.10% | ~57 |
+| Gotta Get 'Em All | 0.10% | ~57 |
+| Is This Really Possible? | 0.10% | ~57 |
+| Lord Of The HFZ | 0.10% | ~57 |
+| Mad Hatter | 0.10% | ~57 |
+| 99 Problems (But A Buck Ain't One) | 0.10% | ~57 |
+| Pacifist Victory | 0.10% | ~57 |
+| Rhythm Star | 0.10% | ~57 |
+| Why Do I Keep Doing That? | 0.10% | ~57 |
+| Hey, You Did It! | 0.10% | ~57 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,500 (Ranked 87)  
+Progressed: 56,501 (Ranked 87)  
 Completed: 5 (0.01%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,7 +177,7 @@ Completed: 5 (0.01%) (Ranked 248)
 | 2023-08-17 | 56,451 | 5 |
 | 2023-08-18 | 56,462 | 5 |
 | 2023-08-19 | 56,483 | 5 |
-| 2023-08-20 | 56,500 | 5 |
+| 2023-08-20 | 56,501 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

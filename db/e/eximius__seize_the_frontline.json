@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 78,
+  "Ranking_EOS_NewPlayers": 77,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-10-22T11:18:36+00:00",
@@ -300,7 +300,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 195054,
+  "EOS_Progressed": 195058,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 485,
   "EOS_NewCompleters": 0,
@@ -13485,6 +13485,11 @@
       "Time": "2023-08-20T21:05:09.3479113+00:00",
       "NumProgressed": 195054,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-20T22:04:01.4843537+00:00",
+      "NumProgressed": 195058,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -13496,7 +13501,7 @@
       "Name": "Battlesuit Victory",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 15604
+      "UsersEstimate": 15605
     },
     {
       "ID": "ACH_COMPLETE_TUTORIAL",
@@ -13504,7 +13509,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 138488
+      "UsersEstimate": 138491
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -13623,7 +13628,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 195054,
+      "Progressed": 195058,
       "Completed": 4
     }
   ],
@@ -13631,8 +13636,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-08-12T15:01:47.6654015+00:00",
-  "LastChanged_Achievements": "2023-08-20T21:05:09.3479106+00:00",
+  "LastChanged_Achievements": "2023-08-20T22:04:01.4843527+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:27.2686844+00:00",
-  "LastUpdate_Ratings": "2023-08-20T20:57:42.6410974+00:00",
-  "LastUpdate_Achievements": "2023-08-20T21:05:09.3480316+00:00"
+  "LastUpdate_Ratings": "2023-08-20T21:57:17.9894445+00:00",
+  "LastUpdate_Achievements": "2023-08-20T22:04:01.4844457+00:00"
 }

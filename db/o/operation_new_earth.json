@@ -3540,9 +3540,9 @@
       "ID": "ach_defeat_aliens_250",
       "SetID": "bm61c2p",
       "Name": "Know The Enemy",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 75,
-      "UsersEstimate": 30
+      "UsersEstimate": 40
     },
     {
       "ID": "ach_defeat_aliens_50",
@@ -3851,8 +3851,8 @@
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-20T21:04:08.3285633+00:00",
+  "LastChanged_Achievements": "2023-08-20T22:03:18.100134+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:20.8459338+00:00",
-  "LastUpdate_Ratings": "2023-08-20T20:58:58.6609959+00:00",
-  "LastUpdate_Achievements": "2023-08-20T21:04:08.3286175+00:00"
+  "LastUpdate_Ratings": "2023-08-20T21:58:14.2735913+00:00",
+  "LastUpdate_Achievements": "2023-08-20T22:03:18.1001841+00:00"
 }
