@@ -15,12 +15,12 @@
 | Lieutenant | 6.00% | ~2 |
 | Flawless Victory | 6.00% | ~2 |
 | Gibbing Love | 3.00% | ~1 |
+| Vintage Collector | 3.00% | ~1 |
 | Dust to Dust | 3.00% | ~1 |
 | Knife Juggler | 3.00% | ~1 |
 | Head of the Snake | 0.00% | ~0 |
 | Barbecue Time | 0.00% | ~0 |
 | Vehicular Mayhem | 0.00% | ~0 |
-| Vintage Collector | 0.00% | ~0 |
 | Losing your Head | 0.00% | ~0 |
 | Captain | 0.00% | ~0 |
 | Chief | 0.00% | ~0 |

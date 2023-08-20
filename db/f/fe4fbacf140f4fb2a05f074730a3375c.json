@@ -146,9 +146,9 @@
       "ID": "Highway2Hell",
       "SetID": "bl5ebnd",
       "Name": "Highway to Hell",
-      "Percentage": 43,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "LikeDislike",
@@ -170,9 +170,9 @@
       "ID": "NewLife",
       "SetID": "bl5ebnd",
       "Name": "New Life for a Blogger",
-      "Percentage": 43,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "PersonalHell",
@@ -186,9 +186,9 @@
       "ID": "PetLover",
       "SetID": "bl5ebnd",
       "Name": "Pet Lover",
-      "Percentage": 36,
+      "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "PortraitMadness",
@@ -249,8 +249,8 @@
   ],
   "FirstSeen": "2023-08-17T18:58:24.9645981+00:00",
   "FirstSeenAchievements": "2023-08-07T14:05:00.198888+00:00",
-  "LastChanged_Achievements": "2023-08-20T22:05:38.3899597+00:00",
+  "LastChanged_Achievements": "2023-08-20T23:05:41.4089582+00:00",
   "LastUpdate_AppInfo": "2023-08-17T11:57:07.9760361+00:00",
-  "LastUpdate_Ratings": "2023-08-20T21:58:45.5081027+00:00",
-  "LastUpdate_Achievements": "2023-08-20T22:05:38.3899768+00:00"
+  "LastUpdate_Ratings": "2023-08-20T22:58:44.9421465+00:00",
+  "LastUpdate_Achievements": "2023-08-20T23:05:41.4089736+00:00"
 }

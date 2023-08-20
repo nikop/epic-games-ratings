@@ -23,7 +23,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Lightning Hands | 2.00% | ~14,251 |
 | Path of the Prospect | 2.00% | ~14,251 |
 | Rumble in the Hangar | 2.00% | ~14,251 |
-| Bloody Sport | 2.00% | ~437 |
+| Bloody Sport | 2.00% | ~438 |
 | Furious Fists | 1.00% | ~7,126 |
 | Scareless | 1.00% | ~7,126 |
 | Dance of the Praying Mantis | 1.00% | ~7,126 |
@@ -49,7 +49,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Martial Artist | 0.40% | ~2,850 |
 | Knowledge Greed | 0.40% | ~2,850 |
 | The Pit Protector | 0.40% | ~2,850 |
-| Secure, Protect, Leave | 0.40% | ~87 |
+| Secure, Protect, Leave | 0.40% | ~88 |
 | Healing Memory | 0.30% | ~2,138 |
 | Master of the Phoenix Eye Fist | 0.30% | ~2,138 |
 | Be like water my friend | 0.30% | ~2,138 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,425 |
 | Warriors from the Mountain | 0.10% | ~713 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 712,571 (Ranked 20)  
+Progressed: 712,574 (Ranked 20)  
 Completed: 12,870 (1.81%) (Ranked 97)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 12,870 (1.81%) (Ranked 97)
 | 2023-08-17 | 712,495 | 12,861 |
 | 2023-08-18 | 712,513 | 12,863 |
 | 2023-08-19 | 712,545 | 12,866 |
-| 2023-08-20 | 712,571 | 12,870 |
+| 2023-08-20 | 712,574 | 12,870 |
 ## Awards
 Max (Great Boss Battles): 6,382  (Ranked 55)  
 Sum: 10,960 (Ranked 82)  

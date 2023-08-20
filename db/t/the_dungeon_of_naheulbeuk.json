@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 24,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -678,9 +678,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 215262,
+  "EOS_Progressed": 215307,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3461,
+  "EOS_NewPlayers": 3450,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7673,6 +7673,11 @@
       "Time": "2023-08-20T21:03:26.0809435+00:00",
       "NumProgressed": 215262,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-20T23:01:00.9175633+00:00",
+      "NumProgressed": 215307,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -7708,7 +7713,7 @@
       "Name": "Shiny and Cr\u00F4m",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1076
+      "UsersEstimate": 1077
     },
     {
       "ID": "BarbarianKillUsingBow",
@@ -7780,7 +7785,7 @@
       "Name": "Urik\u0027s Depths",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1076
+      "UsersEstimate": 1077
     },
     {
       "ID": "Chapter8",
@@ -7788,7 +7793,7 @@
       "Name": "The Dungeon Master",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1076
+      "UsersEstimate": 1077
     },
     {
       "ID": "Chapter9",
@@ -7796,7 +7801,7 @@
       "Name": "The Statuette of Gladeulfeurah",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1076
+      "UsersEstimate": 1077
     },
     {
       "ID": "CollateralVictim",
@@ -8068,7 +8073,7 @@
       "Name": "A tale of adventurers not quite like the others...",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1076
+      "UsersEstimate": 1077
     },
     {
       "ID": "Dwarf30Insult",
@@ -8084,7 +8089,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4305
+      "UsersEstimate": 4306
     },
     {
       "ID": "DwarfElf15Support",
@@ -8132,7 +8137,7 @@
       "Name": "Sowwy!",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 43052
+      "UsersEstimate": 43061
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -8156,7 +8161,7 @@
       "Name": "DM intervention",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1937
+      "UsersEstimate": 1938
     },
     {
       "ID": "EndGameCursed",
@@ -8180,7 +8185,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4305
+      "UsersEstimate": 4306
     },
     {
       "ID": "FollowBraztok",
@@ -8308,7 +8313,7 @@
       "Name": "The Ranger of Chaos",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1076
+      "UsersEstimate": 1077
     },
     {
       "ID": "Rogue30Backstab",
@@ -8316,7 +8321,7 @@
       "Name": "I am the night",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1076
+      "UsersEstimate": 1077
     },
     {
       "ID": "RogueEpic",
@@ -8387,21 +8392,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 215262,
+      "Progressed": 215307,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 215262,
+      "Progressed": 215307,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-19T12:00:42.0371469+00:00",
-  "LastChanged_Achievements": "2023-08-20T21:03:26.0809431+00:00",
+  "LastChanged_Achievements": "2023-08-20T23:01:00.9175626+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:36.4163589+00:00",
-  "LastUpdate_Ratings": "2023-08-20T22:00:53.1137993+00:00",
-  "LastUpdate_Achievements": "2023-08-20T21:03:26.0813811+00:00"
+  "LastUpdate_Ratings": "2023-08-20T23:00:41.4656778+00:00",
+  "LastUpdate_Achievements": "2023-08-20T23:01:00.9178371+00:00"
 }

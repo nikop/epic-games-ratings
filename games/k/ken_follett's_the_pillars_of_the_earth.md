@@ -6,21 +6,21 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 41.00% | ~6,026 |
-| Man of politics | 35.00% | ~5,144 |
-| Yet another secret | 34.00% | ~4,997 |
-| Friends of sorts | 33.00% | ~4,850 |
-| Let there be darkness | 32.00% | ~4,703 |
-| End of Book One | 30.00% | ~4,409 |
-| Wannabe knight | 24.00% | ~3,527 |
-| Garden of Eden | 24.00% | ~3,527 |
-| Full house | 24.00% | ~3,527 |
-| Help an old friend | 22.00% | ~3,233 |
-| Two of us | 20.00% | ~2,939 |
-| Negotiation skills | 18.00% | ~2,645 |
-| Workers' union | 18.00% | ~2,645 |
-| End of Book Two | 18.00% | ~2,645 |
-| Everything's in order | 17.00% | ~2,498 |
+| Tattletale | 41.00% | ~6,027 |
+| Man of politics | 35.00% | ~5,145 |
+| Yet another secret | 34.00% | ~4,998 |
+| Friends of sorts | 33.00% | ~4,851 |
+| Let there be darkness | 32.00% | ~4,704 |
+| End of Book One | 30.00% | ~4,410 |
+| Wannabe knight | 24.00% | ~3,528 |
+| Garden of Eden | 24.00% | ~3,528 |
+| Full house | 24.00% | ~3,528 |
+| Help an old friend | 22.00% | ~3,234 |
+| Two of us | 20.00% | ~2,940 |
+| Negotiation skills | 18.00% | ~2,646 |
+| Workers' union | 18.00% | ~2,646 |
+| End of Book Two | 18.00% | ~2,646 |
+| Everything's in order | 17.00% | ~2,499 |
 | Twist of Fate | 14.00% | ~2,058 |
 | Jack was here! | 14.00% | ~2,058 |
 | Exterminator | 13.00% | ~1,911 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~441 |
 | Boy of mystery | 2.00% | ~294 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,697 (Ranked 117)  
+Progressed: 14,699 (Ranked 117)  
 Completed: 109 (0.74%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 109 (0.74%) (Ranked 128)
 | 2023-08-17 | 14,635 | 109 |
 | 2023-08-18 | 14,655 | 109 |
 | 2023-08-19 | 14,676 | 109 |
-| 2023-08-20 | 14,697 | 109 |
+| 2023-08-20 | 14,699 | 109 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 298)  
 Sum: 188 (Ranked 375)  

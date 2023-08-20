@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1828,
+  "EOS_Progressed": 1829,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -5049,6 +5049,11 @@
       "Time": "2023-08-20T21:07:11.9053544+00:00",
       "NumProgressed": 1828,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-20T23:05:32.3628448+00:00",
+      "NumProgressed": 1829,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -5244,7 +5249,7 @@
       "Name": "Fellowship Power",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "fourleafclover",
@@ -5268,7 +5273,7 @@
       "Name": "Full Party",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "gearenchanting",
@@ -5332,7 +5337,7 @@
       "Name": "Inspection",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "jewelenchanting",
@@ -5516,7 +5521,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1042
+      "UsersEstimate": 1043
     },
     {
       "ID": "thealchemist",
@@ -5620,7 +5625,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1700
+      "UsersEstimate": 1701
     },
     {
       "ID": "warmachinesarmy",
@@ -5652,14 +5657,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1444
+      "UsersEstimate": 1445
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1828,
+      "Progressed": 1829,
       "Completed": 2
     }
   ],
@@ -5667,8 +5672,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-08-10T20:59:32.9674394+00:00",
-  "LastChanged_Achievements": "2023-08-20T22:05:28.8888726+00:00",
+  "LastChanged_Achievements": "2023-08-20T23:05:32.3628444+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:03.2567748+00:00",
-  "LastUpdate_Ratings": "2023-08-20T21:59:46.0188412+00:00",
-  "LastUpdate_Achievements": "2023-08-20T22:05:28.8889787+00:00"
+  "LastUpdate_Ratings": "2023-08-20T22:59:40.9349081+00:00",
+  "LastUpdate_Achievements": "2023-08-20T23:05:32.3629619+00:00"
 }

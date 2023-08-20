@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,502 (Ranked 118)  
+Progressed: 13,503 (Ranked 118)  
 Completed: 5 (0.04%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -425,7 +425,7 @@ Completed: 5 (0.04%) (Ranked 231)
 | 2023-08-17 | 13,444 | 5 |
 | 2023-08-18 | 13,460 | 5 |
 | 2023-08-19 | 13,485 | 5 |
-| 2023-08-20 | 13,502 | 5 |
+| 2023-08-20 | 13,503 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,796 (Ranked 207)  

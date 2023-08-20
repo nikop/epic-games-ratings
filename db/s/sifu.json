@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 97,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 17,
+  "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -5754,9 +5754,9 @@
       "Count": 370
     }
   ],
-  "EOS_Progressed": 712571,
+  "EOS_Progressed": 712574,
   "EOS_Completed": 12870,
-  "EOS_NewPlayers": 165,
+  "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -17134,6 +17134,11 @@
       "Time": "2023-08-20T21:05:47.5497596+00:00",
       "NumProgressed": 712571,
       "NumCompleted": 12870
+    },
+    {
+      "Time": "2023-08-20T23:04:33.1478163+00:00",
+      "NumProgressed": 712574,
+      "NumCompleted": 12870
     }
   ],
   "TotalAchievements": 50,
@@ -17497,7 +17502,7 @@
       "Name": "Bloody Sport",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "46_Arena_45Challenges",
@@ -17521,7 +17526,7 @@
       "Name": "Secure, Protect, Leave",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "49_Arena_GoldSurvival",
@@ -17544,21 +17549,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 21872,
+      "Progressed": 21875,
       "Completed": 10541
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 712571,
+      "Progressed": 712574,
       "Completed": 12870
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-08-20T04:01:22.7590244+00:00",
-  "LastChanged_Achievements": "2023-08-20T22:04:28.6767433+00:00",
+  "LastChanged_Achievements": "2023-08-20T23:04:33.1478157+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:30.1863986+00:00",
-  "LastUpdate_Ratings": "2023-08-20T22:00:49.2640141+00:00",
-  "LastUpdate_Achievements": "2023-08-20T22:04:28.6768544+00:00"
+  "LastUpdate_Ratings": "2023-08-20T23:00:37.3983947+00:00",
+  "LastUpdate_Achievements": "2023-08-20T23:04:33.1480212+00:00"
 }
