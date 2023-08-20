@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 171,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-09-14T15:00:00+00:00",
@@ -244,9 +244,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 35073,
+  "EOS_Progressed": 35074,
   "EOS_Completed": 106,
-  "EOS_NewPlayers": 260,
+  "EOS_NewPlayers": 259,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -11389,6 +11389,11 @@
       "Time": "2023-08-20T06:07:55.652114+00:00",
       "NumProgressed": 35073,
       "NumCompleted": 106
+    },
+    {
+      "Time": "2023-08-20T07:06:17.3961503+00:00",
+      "NumProgressed": 35074,
+      "NumCompleted": 106
     }
   ],
   "TotalAchievements": 14,
@@ -11488,7 +11493,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 27006
+      "UsersEstimate": 27007
     },
     {
       "ID": "roots",
@@ -11496,7 +11501,7 @@
       "Name": "The Way Forward",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 5962
+      "UsersEstimate": 5963
     },
     {
       "ID": "secretItem",
@@ -11511,15 +11516,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 35073,
+      "Progressed": 35074,
       "Completed": 106
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-07-24T04:01:31.3679912+00:00",
-  "LastChanged_Achievements": "2023-08-20T06:07:55.6521133+00:00",
+  "LastChanged_Achievements": "2023-08-20T07:06:17.3961495+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:18.9588261+00:00",
-  "LastUpdate_Ratings": "2023-08-20T05:59:06.6012668+00:00",
-  "LastUpdate_Achievements": "2023-08-20T06:07:55.6521888+00:00"
+  "LastUpdate_Ratings": "2023-08-20T06:58:02.2903145+00:00",
+  "LastUpdate_Achievements": "2023-08-20T07:06:17.3962119+00:00"
 }

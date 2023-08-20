@@ -71,13 +71,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Intercessor | 0.90% | ~121 |
 | Sages | 0.90% | ~121 |
 | Mausoleum | 0.90% | ~121 |
+| Points Victory | 0.90% | ~121 |
 | Hanging Gardens in Babylon | 0.80% | ~108 |
 | Beloved | 0.80% | ~108 |
 | Mighty | 0.80% | ~108 |
 | Champions | 0.80% | ~108 |
 | Greece | 0.80% | ~108 |
 | Building Wonders | 0.80% | ~108 |
-| Points Victory | 0.80% | ~108 |
 | Conqueror | 0.70% | ~94 |
 | Lion | 0.70% | ~94 |
 | Victorious | 0.70% | ~94 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,485 (Ranked 118)  
+Progressed: 13,486 (Ranked 118)  
 Completed: 5 (0.04%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -425,6 +425,7 @@ Completed: 5 (0.04%) (Ranked 231)
 | 2023-08-17 | 13,444 | 5 |
 | 2023-08-18 | 13,460 | 5 |
 | 2023-08-19 | 13,485 | 5 |
+| 2023-08-20 | 13,486 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,796 (Ranked 207)  

@@ -5,7 +5,7 @@ Rating: 4.56 (Ranked 473)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Huzza, he's back. | 87.00% | ~329 |
+| Huzza, he's back. | 88.00% | ~333 |
 | And again, and again, and... | 63.00% | ~238 |
 | Burn, Elysium, burn! | 62.00% | ~234 |
 | Kuvaq Minigame-Master | 60.00% | ~227 |
@@ -43,7 +43,7 @@ Rating: 4.56 (Ranked 473)
 | 1001 Jackalopes | 2.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 378 (Ranked 246)  
-Completed: 6 (1.59%) (Ranked 102)  
+Completed: 6 (1.59%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
