@@ -22,6 +22,7 @@
 | Changing the World | 6.00% | ~3 |
 | Sponsor | 4.00% | ~2 |
 | Defeat Tezuth | 4.00% | ~2 |
+| The A-Team | 4.00% | ~2 |
 | Mirror, Mirror on the Wall | 2.00% | ~1 |
 | Craftsmen | 2.00% | ~1 |
 | Defeat Ingla | 2.00% | ~1 |
@@ -36,7 +37,6 @@
 | Globetrotter | 2.00% | ~1 |
 | Finally! | 2.00% | ~1 |
 | The End | 2.00% | ~1 |
-| The A-Team | 2.00% | ~1 |
 | But what of the Acreans? | 2.00% | ~1 |
 | Expert | 2.00% | ~1 |
 | Style over Stats | 0.00% | ~0 |

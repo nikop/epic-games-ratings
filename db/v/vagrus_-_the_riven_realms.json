@@ -546,9 +546,9 @@
       "ID": "Vanilla_ChurchOfAhskul",
       "SetID": "27kik8p",
       "Name": "Watcher",
-      "Percentage": 0,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Vanilla_ChurchOfSergorod",
@@ -1002,9 +1002,9 @@
       "ID": "Vanilla_Ratharnak",
       "SetID": "27kik8p",
       "Name": "Despoiler",
-      "Percentage": 0,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Vanilla_RealBattle",
@@ -1243,8 +1243,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-08-20T12:07:38.5324224+00:00",
+  "LastChanged_Achievements": "2023-08-20T13:09:01.9578221+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:09.3358169+00:00",
-  "LastUpdate_Ratings": "2023-08-20T12:01:20.5460385+00:00",
-  "LastUpdate_Achievements": "2023-08-20T12:07:38.5325182+00:00"
+  "LastUpdate_Ratings": "2023-08-20T13:02:55.1412463+00:00",
+  "LastUpdate_Achievements": "2023-08-20T13:09:01.9579597+00:00"
 }

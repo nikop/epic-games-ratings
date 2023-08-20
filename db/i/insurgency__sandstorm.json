@@ -3061,9 +3061,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 434536,
+  "EOS_Progressed": 434547,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2397,
+  "EOS_NewPlayers": 2398,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16526,6 +16526,11 @@
       "Time": "2023-08-20T12:08:04.7694052+00:00",
       "NumProgressed": 434536,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-20T13:09:30.3953891+00:00",
+      "NumProgressed": 434547,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -16593,7 +16598,7 @@
       "Name": "Exploitative",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 17381
+      "UsersEstimate": 17382
     },
     {
       "ID": "ACH_FIREFIGHT_VICTORY",
@@ -16641,7 +16646,7 @@
       "Name": "High Speed Low Drag",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 17381
+      "UsersEstimate": 17382
     },
     {
       "ID": "ACH_JR_50",
@@ -16705,7 +16710,7 @@
       "Name": "Point Shooting",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 17381
+      "UsersEstimate": 17382
     },
     {
       "ID": "ACH_PUSH_VICTORY",
@@ -16809,22 +16814,22 @@
       "Name": "Wet Feet",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 17381
+      "UsersEstimate": 17382
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 434536,
+      "Progressed": 434547,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-08-19T13:01:49.7124519+00:00",
-  "LastChanged_Achievements": "2023-08-20T12:08:04.7694039+00:00",
+  "LastChanged_Achievements": "2023-08-20T13:09:30.3953885+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:00.8075845+00:00",
-  "LastUpdate_Ratings": "2023-08-20T12:00:24.4875308+00:00",
-  "LastUpdate_Achievements": "2023-08-20T12:08:04.7694852+00:00"
+  "LastUpdate_Ratings": "2023-08-20T13:01:57.1953584+00:00",
+  "LastUpdate_Achievements": "2023-08-20T13:09:30.3955087+00:00"
 }

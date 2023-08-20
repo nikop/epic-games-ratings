@@ -1602,9 +1602,9 @@
       "ID": "ACH_FIN_CH01",
       "SetID": "1j25agn",
       "Name": "Cowardice",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 264
+      "UsersEstimate": 269
     },
     {
       "ID": "ACH_FIN_CH02",
@@ -1858,8 +1858,8 @@
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-08-15T16:59:37.558326+00:00",
-  "LastChanged_Achievements": "2023-08-20T12:08:11.8064716+00:00",
+  "LastChanged_Achievements": "2023-08-20T13:09:37.9536075+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:58:01.1730523+00:00",
-  "LastUpdate_Ratings": "2023-08-20T11:59:46.9425047+00:00",
-  "LastUpdate_Achievements": "2023-08-20T12:08:11.8065263+00:00"
+  "LastUpdate_Ratings": "2023-08-20T13:01:16.406421+00:00",
+  "LastUpdate_Achievements": "2023-08-20T13:09:37.9537011+00:00"
 }

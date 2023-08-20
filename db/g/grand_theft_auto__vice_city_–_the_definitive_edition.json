@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 439,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 147,
-  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -592,9 +592,9 @@
       "Count": 68
     }
   ],
-  "EOS_Progressed": 9724,
+  "EOS_Progressed": 9725,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -8572,6 +8572,11 @@
       "Time": "2023-08-20T11:06:37.6864288+00:00",
       "NumProgressed": 9724,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-08-20T13:08:34.8724071+00:00",
+      "NumProgressed": 9725,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -8671,7 +8676,7 @@
       "Name": "Catch Me if You Can",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "ACH13",
@@ -8799,7 +8804,7 @@
       "Name": "Bloodstained Hands",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "ACH29",
@@ -8854,7 +8859,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9724,
+      "Progressed": 9725,
       "Completed": 49
     }
   ],
@@ -8862,8 +8867,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-08-19T22:00:52.464405+00:00",
-  "LastChanged_Achievements": "2023-08-20T12:07:13.3909354+00:00",
+  "LastChanged_Achievements": "2023-08-20T13:08:34.872406+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:19.3350346+00:00",
-  "LastUpdate_Ratings": "2023-08-20T12:00:44.0201113+00:00",
-  "LastUpdate_Achievements": "2023-08-20T12:07:13.3909908+00:00"
+  "LastUpdate_Ratings": "2023-08-20T13:02:16.2796794+00:00",
+  "LastUpdate_Achievements": "2023-08-20T13:08:34.8724874+00:00"
 }

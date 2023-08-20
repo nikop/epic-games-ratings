@@ -46,12 +46,14 @@
 | The Darkness Within | 2.00% | ~3 |
 | Life... Finds a Way | 2.00% | ~3 |
 | Unseen Patterns | 2.00% | ~3 |
+| Watcher | 0.80% | ~1 |
 | Loremaster | 0.80% | ~1 |
 | Talent Nurtured | 0.80% | ~1 |
 | Embellished | 0.80% | ~1 |
 | Conqueror | 0.80% | ~1 |
 | Legacy of a Mercenary | 0.80% | ~1 |
 | Moving At Odd Angles | 0.80% | ~1 |
+| Despoiler | 0.80% | ~1 |
 | A Real Battle | 0.80% | ~1 |
 | Celebrity | 0.80% | ~1 |
 | Ruiner | 0.80% | ~1 |
@@ -66,7 +68,6 @@
 | Beloved by Irafons | 0.00% | ~0 |
 | Deceptions Disclosed | 0.00% | ~0 |
 | Carpenter | 0.00% | ~0 |
-| Watcher | 0.00% | ~0 |
 | Executor | 0.00% | ~0 |
 | General | 0.00% | ~0 |
 | Company of Heroes | 0.00% | ~0 |
@@ -92,7 +93,6 @@
 | Handymen | 0.00% | ~0 |
 | Settler | 0.00% | ~0 |
 | Escort | 0.00% | ~0 |
-| Despoiler | 0.00% | ~0 |
 | Arcanite | 0.00% | ~0 |
 | What Lies Below | 0.00% | ~0 |
 | Rage Repressed | 0.00% | ~0 |

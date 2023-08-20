@@ -2,9 +2,9 @@
   "ID": "42b8b899a3f349bd8376264ccee3cd2a",
   "Name": "Shadow Gambit: The Cursed Crew",
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
-  "Ranking_EOS_Progress": 254,
+  "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 93,
+  "Ranking_EOS_NewPlayers": 92,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 335,
+  "EOS_Progressed": 340,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 316,
+  "EOS_NewPlayers": 321,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -546,6 +546,11 @@
       "Time": "2023-08-20T12:04:25.6926069+00:00",
       "NumProgressed": 335,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-20T13:05:35.5133996+00:00",
+      "NumProgressed": 340,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -566,7 +571,7 @@
       "Name": "A New Journey",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 241
+      "UsersEstimate": 245
     },
     {
       "ID": "_03_FinishAct1",
@@ -574,7 +579,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 150
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -590,15 +595,15 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
       "SetID": "8a1io5d",
       "Name": "Mirror Mirror on the Wall",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 17
     },
     {
       "ID": "_07_FinishAct3",
@@ -612,17 +617,17 @@
       "ID": "_08_Completion_10",
       "SetID": "8a1io5d",
       "Name": "Swabbie",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 88
     },
     {
       "ID": "_09_Completion_20",
       "SetID": "8a1io5d",
       "Name": "Powder Monkey",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 31
     },
     {
       "ID": "_10_Completion_30",
@@ -636,17 +641,17 @@
       "ID": "_11_Completion_40",
       "SetID": "8a1io5d",
       "Name": "Seadog",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 7
     },
     {
       "ID": "_12_Completion_50",
       "SetID": "8a1io5d",
       "Name": "Privateer",
-      "Percentage": 0.6,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "_13_Completion_60",
@@ -678,7 +683,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -686,7 +691,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -710,7 +715,7 @@
       "Name": "Fishy Fish",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -740,17 +745,17 @@
       "ID": "_24_CrewTale_SNP",
       "SetID": "8a1io5d",
       "Name": "Jaded Judge",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 7
     },
     {
       "ID": "_25_CrewTale_GCW",
       "SetID": "8a1io5d",
       "Name": "Rustic Recipe",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 7
     },
     {
       "ID": "_26_ReviveVirgilio",
@@ -765,14 +770,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 335,
+      "Progressed": 340,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-20T12:04:25.6926062+00:00",
+  "LastChanged_Achievements": "2023-08-20T13:05:35.5133989+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:01.7621403+00:00",
-  "LastUpdate_Ratings": "2023-08-20T12:00:24.7397458+00:00",
-  "LastUpdate_Achievements": "2023-08-20T12:04:25.6926252+00:00"
+  "LastUpdate_Ratings": "2023-08-20T13:01:57.5472255+00:00",
+  "LastUpdate_Achievements": "2023-08-20T13:05:35.5134232+00:00"
 }

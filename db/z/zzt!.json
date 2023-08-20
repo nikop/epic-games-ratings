@@ -4,7 +4,7 @@
   "ProductSlug": "zzt",
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2023-03-31T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3090,
+  "EOS_Progressed": 3091,
   "EOS_Completed": 120,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 3.88,
   "EosHistory": [
@@ -4086,6 +4086,11 @@
       "Time": "2023-08-20T10:04:29.3929449+00:00",
       "NumProgressed": 3090,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2023-08-20T13:06:29.2125549+00:00",
+      "NumProgressed": 3091,
+      "NumCompleted": 120
     }
   ],
   "TotalAchievements": 5,
@@ -4097,7 +4102,7 @@
       "Name": "Potomac Computer Systems",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 3090
+      "UsersEstimate": 3091
     },
     {
       "ID": "2",
@@ -4113,7 +4118,7 @@
       "Name": "Explorer",
       "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "4",
@@ -4136,7 +4141,7 @@
     {
       "ID": "dm385hd",
       "IsBase": true,
-      "Progressed": 3090,
+      "Progressed": 3091,
       "Completed": 120
     }
   ],
@@ -4144,8 +4149,8 @@
   "FirstSeenRating": "2023-03-31T21:57:04.3858764+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6096499+00:00",
   "LastChanged": "2023-03-31T21:57:04.3858765+00:00",
-  "LastChanged_Achievements": "2023-08-20T12:05:15.4348963+00:00",
+  "LastChanged_Achievements": "2023-08-20T13:06:29.2125542+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:23.1655196+00:00",
-  "LastUpdate_Ratings": "2023-08-20T12:00:50.071869+00:00",
-  "LastUpdate_Achievements": "2023-08-20T12:05:15.4349212+00:00"
+  "LastUpdate_Ratings": "2023-08-20T13:02:22.8838214+00:00",
+  "LastUpdate_Achievements": "2023-08-20T13:06:29.2125903+00:00"
 }

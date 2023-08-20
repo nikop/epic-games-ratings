@@ -384,9 +384,9 @@
       "ID": "CgkIxYDzrbcPEAIQDg",
       "SetID": "4egpam7",
       "Name": "Fireman",
-      "Percentage": 38,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "CgkIxYDzrbcPEAIQDw",
@@ -527,8 +527,8 @@
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2023-08-20T12:07:56.0576808+00:00",
+  "LastChanged_Achievements": "2023-08-20T13:09:20.9636678+00:00",
   "LastUpdate_AppInfo": "2023-08-15T14:57:10.6397592+00:00",
-  "LastUpdate_Ratings": "2023-08-20T11:59:10.0959133+00:00",
-  "LastUpdate_Achievements": "2023-08-20T12:07:56.0576999+00:00"
+  "LastUpdate_Ratings": "2023-08-20T13:00:36.0905217+00:00",
+  "LastUpdate_Achievements": "2023-08-20T13:09:20.9636969+00:00"
 }

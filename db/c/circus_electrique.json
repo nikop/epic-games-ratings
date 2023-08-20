@@ -659,9 +659,9 @@
       "ID": "ACHIEVEMENT_33",
       "SetID": "631ndc2",
       "Name": "King of District 4",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 27
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -812,8 +812,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-08-20T12:07:26.1762223+00:00",
+  "LastChanged_Achievements": "2023-08-20T13:08:49.0049556+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:29.7361108+00:00",
-  "LastUpdate_Ratings": "2023-08-20T12:01:40.4169814+00:00",
-  "LastUpdate_Achievements": "2023-08-20T12:07:26.1762586+00:00"
+  "LastUpdate_Ratings": "2023-08-20T13:03:16.683818+00:00",
+  "LastUpdate_Achievements": "2023-08-20T13:08:49.0050173+00:00"
 }

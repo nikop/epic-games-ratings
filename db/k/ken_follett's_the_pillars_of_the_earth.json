@@ -495,9 +495,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 14684,
+  "EOS_Progressed": 14685,
   "EOS_Completed": 109,
-  "EOS_NewPlayers": 157,
+  "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -8485,6 +8485,11 @@
       "Time": "2023-08-20T12:06:00.9478109+00:00",
       "NumProgressed": 14684,
       "NumCompleted": 109
+    },
+    {
+      "Time": "2023-08-20T13:07:17.514904+00:00",
+      "NumProgressed": 14685,
+      "NumCompleted": 109
     }
   ],
   "TotalAchievements": 41,
@@ -8600,7 +8605,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4405
+      "UsersEstimate": 4406
     },
     {
       "ID": "tpote_achievement_22",
@@ -8760,7 +8765,7 @@
       "Name": "Tattletale",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 6020
+      "UsersEstimate": 6021
     },
     {
       "ID": "tpote_achievement_40",
@@ -8808,7 +8813,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 3230
+      "UsersEstimate": 3231
     },
     {
       "ID": "tpote_achievement_9",
@@ -8816,22 +8821,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 5139
+      "UsersEstimate": 5140
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 14684,
+      "Progressed": 14685,
       "Completed": 109
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-08-03T13:08:30.3350415+00:00",
-  "LastChanged_Achievements": "2023-08-20T12:06:00.9478103+00:00",
+  "LastChanged_Achievements": "2023-08-20T13:07:17.5149034+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:51.0435439+00:00",
-  "LastUpdate_Ratings": "2023-08-20T11:57:49.194135+00:00",
-  "LastUpdate_Achievements": "2023-08-20T12:06:00.9478736+00:00"
+  "LastUpdate_Ratings": "2023-08-20T12:59:05.1252337+00:00",
+  "LastUpdate_Achievements": "2023-08-20T13:07:17.5150083+00:00"
 }

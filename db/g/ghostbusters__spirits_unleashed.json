@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewPlayers": 104,
   "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -1780,10 +1780,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 2245,
       "NumberOfAwardsMax": 248
+    },
+    {
+      "Time": "2023-08-20T13:03:23.6537223+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 2246,
+      "NumberOfAwardsMax": 248
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2245,
+  "NumberOfAwards": 2246,
   "NumberOfAwardsMax": 248,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1827,7 +1833,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 221
+      "Count": 222
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1860,9 +1866,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 25209,
+  "EOS_Progressed": 25210,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 175,
+  "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -10860,6 +10866,11 @@
       "Time": "2023-08-20T10:04:21.0648908+00:00",
       "NumProgressed": 25209,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-08-20T13:06:17.1757123+00:00",
+      "NumProgressed": 25210,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 51,
@@ -10887,7 +10898,7 @@
       "Name": "Back Off",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 8823
+      "UsersEstimate": 8824
     },
     {
       "ID": "Best_Insurance",
@@ -10895,7 +10906,7 @@
       "Name": "We have the best insurance",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 6554
+      "UsersEstimate": 6555
     },
     {
       "ID": "Catostrophic_Destroyer",
@@ -10951,7 +10962,7 @@
       "Name": "Diabolical",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 4033
+      "UsersEstimate": 4034
     },
     {
       "ID": "Discovery",
@@ -10959,7 +10970,7 @@
       "Name": "Discovery",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 15377
+      "UsersEstimate": 15378
     },
     {
       "ID": "Dont_Need_These",
@@ -10991,7 +11002,7 @@
       "Name": "Escape Artist",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 3781
+      "UsersEstimate": 3782
     },
     {
       "ID": "Fragile_Panes",
@@ -11039,7 +11050,7 @@
       "Name": "Legions",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 6554
+      "UsersEstimate": 6555
     },
     {
       "ID": "Liability",
@@ -11119,7 +11130,7 @@
       "Name": "Right back at ya",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 6554
+      "UsersEstimate": 6555
     },
     {
       "ID": "Rivalry",
@@ -11135,7 +11146,7 @@
       "Name": "Seasoned",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 4033
+      "UsersEstimate": 4034
     },
     {
       "ID": "Side_Hustle",
@@ -11143,7 +11154,7 @@
       "Name": "Side Hustle",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 6806
+      "UsersEstimate": 6807
     },
     {
       "ID": "Skilled",
@@ -11175,7 +11186,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 21680
+      "UsersEstimate": 21681
     },
     {
       "ID": "Summoner",
@@ -11183,7 +11194,7 @@
       "Name": "Summoner",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 6554
+      "UsersEstimate": 6555
     },
     {
       "ID": "Surprise",
@@ -11255,7 +11266,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 12100
+      "UsersEstimate": 12101
     },
     {
       "ID": "Welcome_Crew",
@@ -11278,16 +11289,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 25209,
+      "Progressed": 25210,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-08-20T04:01:34.8847489+00:00",
-  "LastChanged_Achievements": "2023-08-20T12:05:04.0782626+00:00",
+  "LastChanged": "2023-08-20T13:03:23.6537221+00:00",
+  "LastChanged_Achievements": "2023-08-20T13:06:17.1757117+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:37.9111082+00:00",
-  "LastUpdate_Ratings": "2023-08-20T12:01:47.3892442+00:00",
-  "LastUpdate_Achievements": "2023-08-20T12:05:04.0783409+00:00"
+  "LastUpdate_Ratings": "2023-08-20T13:03:23.6537228+00:00",
+  "LastUpdate_Achievements": "2023-08-20T13:06:17.175821+00:00"
 }

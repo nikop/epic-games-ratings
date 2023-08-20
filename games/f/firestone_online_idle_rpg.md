@@ -20,7 +20,7 @@ Rating: 4.05 (Ranked 925)
 | Inspection | 16.00% | ~292 |
 | Dragon Master | 15.00% | ~274 |
 | Enlightenment | 15.00% | ~274 |
-| Hero inspection | 14.00% | ~256 |
+| Hero inspection | 15.00% | ~274 |
 | Lieutenant | 14.00% | ~256 |
 | Mysterious Rock | 14.00% | ~256 |
 | Milestone collector | 13.00% | ~237 |

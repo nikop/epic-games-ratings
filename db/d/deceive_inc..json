@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17503,
+  "EOS_Progressed": 17504,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8661,6 +8661,11 @@
       "Time": "2023-08-20T11:05:54.9780451+00:00",
       "NumProgressed": 17503,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-20T13:07:43.8334496+00:00",
+      "NumProgressed": 17504,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -8760,7 +8765,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2800
+      "UsersEstimate": 2801
     },
     {
       "ID": "0013",
@@ -8896,7 +8901,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2275
+      "UsersEstimate": 2276
     },
     {
       "ID": "0030",
@@ -8959,7 +8964,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17503,
+      "Progressed": 17504,
       "Completed": 1
     }
   ],
@@ -8967,8 +8972,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-12T19:04:41.1874293+00:00",
-  "LastChanged_Achievements": "2023-08-20T12:06:25.9431797+00:00",
+  "LastChanged_Achievements": "2023-08-20T13:07:43.8334488+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:28.6624095+00:00",
-  "LastUpdate_Ratings": "2023-08-20T11:57:28.5098159+00:00",
-  "LastUpdate_Achievements": "2023-08-20T12:06:25.9432378+00:00"
+  "LastUpdate_Ratings": "2023-08-20T12:58:42.8717341+00:00",
+  "LastUpdate_Achievements": "2023-08-20T13:07:43.8335981+00:00"
 }

@@ -5296,9 +5296,9 @@
       "ID": "heroinspection",
       "SetID": "3nl4bcg",
       "Name": "Hero inspection",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 256
+      "UsersEstimate": 274
     },
     {
       "ID": "howdoyouturnthison",
@@ -5657,8 +5657,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-08-10T20:59:32.9674394+00:00",
-  "LastChanged_Achievements": "2023-08-20T12:06:47.6040255+00:00",
+  "LastChanged_Achievements": "2023-08-20T13:08:07.2440845+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:03.2567748+00:00",
-  "LastUpdate_Ratings": "2023-08-20T12:00:25.5418326+00:00",
-  "LastUpdate_Achievements": "2023-08-20T12:06:47.6041207+00:00"
+  "LastUpdate_Ratings": "2023-08-20T13:01:58.3486111+00:00",
+  "LastUpdate_Achievements": "2023-08-20T13:08:07.2442044+00:00"
 }

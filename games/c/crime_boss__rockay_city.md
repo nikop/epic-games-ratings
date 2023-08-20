@@ -5,21 +5,21 @@ Rating: 3.94 (Ranked 947)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~53,344 |
-| First One’s Free | 65.00% | ~46,856 |
-| Neophyte Ninja | 50.00% | ~36,043 |
-| Too Old for This | 47.00% | ~33,880 |
-| Case Closed | 35.00% | ~25,230 |
-| Fancy Pants | 35.00% | ~25,230 |
-| King of the Hill | 34.00% | ~24,509 |
-| Underworld Initiate | 29.00% | ~20,905 |
+| Downed but Not Outed | 74.00% | ~53,345 |
+| First One’s Free | 65.00% | ~46,857 |
+| Neophyte Ninja | 50.00% | ~36,044 |
+| Too Old for This | 47.00% | ~33,881 |
+| Case Closed | 35.00% | ~25,231 |
+| Fancy Pants | 35.00% | ~25,231 |
+| King of the Hill | 34.00% | ~24,510 |
+| Underworld Initiate | 29.00% | ~20,906 |
 | Roid Ranger | 21.00% | ~15,138 |
-| Off the Rocks | 20.00% | ~14,417 |
-| True Player | 19.00% | ~13,696 |
+| Off the Rocks | 20.00% | ~14,418 |
+| True Player | 19.00% | ~13,697 |
 | Raider’s Ruin | 17.00% | ~12,255 |
 | Dragonslayer | 17.00% | ~12,255 |
 | Hidden Sonata | 13.00% | ~9,371 |
-| Rockay Rex | 11.00% | ~7,929 |
+| Rockay Rex | 11.00% | ~7,930 |
 | Freebooter | 10.00% | ~7,209 |
 | Track Star | 9.00% | ~6,488 |
 | Headhunter | 9.00% | ~6,488 |
@@ -29,10 +29,10 @@ Rating: 3.94 (Ranked 947)
 | Foo Finder | 7.00% | ~5,046 |
 | Savvy Seeker | 6.00% | ~4,325 |
 | Legend Looter | 5.00% | ~3,604 |
-| Imports and Exports | 4.00% | ~2,883 |
-| Olympus Ascended | 4.00% | ~2,883 |
-| Cracked the Jack | 4.00% | ~2,883 |
-| Red Star | 4.00% | ~2,883 |
+| Imports and Exports | 4.00% | ~2,884 |
+| Olympus Ascended | 4.00% | ~2,884 |
+| Cracked the Jack | 4.00% | ~2,884 |
+| Red Star | 4.00% | ~2,884 |
 | Privateer | 3.00% | ~2,163 |
 | Moneybags | 3.00% | ~2,163 |
 | Groundhog Days | 3.00% | ~2,163 |
@@ -43,7 +43,7 @@ Rating: 3.94 (Ranked 947)
 | Geek Out | 0.60% | ~433 |
 | Full House | 0.20% | ~144 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,086 (Ranked 78)  
+Progressed: 72,088 (Ranked 78)  
 Completed: 41 (0.06%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 41 (0.06%) (Ranked 221)
 | 2023-08-17 | 71,955 | 40 |
 | 2023-08-18 | 71,991 | 41 |
 | 2023-08-19 | 72,061 | 41 |
-| 2023-08-20 | 72,086 | 41 |
+| 2023-08-20 | 72,088 | 41 |
 ## Awards
 Max (Diverse Characters): 403  (Ranked 215)  
 Sum: 1,913 (Ranked 203)  

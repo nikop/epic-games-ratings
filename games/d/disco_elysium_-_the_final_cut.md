@@ -6,20 +6,20 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~35,431 |
-| Biggest Communism Builder | 24.00% | ~30,369 |
+| Goodest Of The Good Cops | 28.00% | ~35,432 |
+| Biggest Communism Builder | 24.00% | ~30,370 |
 | The World's Most Laughable Centrist | 20.00% | ~25,308 |
-| Il Coppo Del'Arte! | 18.00% | ~22,777 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,246 |
+| Il Coppo Del'Arte! | 18.00% | ~22,778 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,247 |
 | Hyperstellar Law Official | 15.00% | ~18,981 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~17,715 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~17,716 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~16,450 |
 | Gurdi-Ball Is Lit | 13.00% | ~16,450 |
-| Truly Rabid *Traditionalist* | 11.00% | ~13,919 |
-| Unbelievably Boring **** | 9.00% | ~11,388 |
-| The Figurines Won't Win Her Back | 9.00% | ~11,388 |
+| Truly Rabid *Traditionalist* | 11.00% | ~13,920 |
+| Unbelievably Boring **** | 9.00% | ~11,389 |
+| The Figurines Won't Win Her Back | 9.00% | ~11,389 |
 | Enemy Of The Physical Realm | 8.00% | ~10,123 |
-| Hardie's Heroes | 6.00% | ~7,592 |
+| Hardie's Heroes | 6.00% | ~7,593 |
 | The Lawbringer | 4.00% | ~5,062 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~5,062 |
 | The Opener Of The Eighth Seal | 3.00% | ~3,796 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~127 |
 | What body? | 0.10% | ~127 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,538 (Ranked 68)  
+Progressed: 126,542 (Ranked 68)  
 Completed: 27 (0.02%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,7 +169,7 @@ Completed: 27 (0.02%) (Ranked 241)
 | 2023-08-17 | 126,389 | 27 |
 | 2023-08-18 | 126,443 | 27 |
 | 2023-08-19 | 126,502 | 27 |
-| 2023-08-20 | 126,538 | 27 |
+| 2023-08-20 | 126,542 | 27 |
 ## Awards
 Max (Character Customization): 719  (Ranked 165)  
 Sum: 1,083 (Ranked 235)  

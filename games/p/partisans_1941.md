@@ -29,7 +29,7 @@ Number of Ratings: 98  (23.09.2022)
 | Experienced Strategist | 2.00% | ~26 |
 | Do a Barrel Roll! | 1.00% | ~13 |
 | How?! | 1.00% | ~13 |
-| Tough as Nails | 0.50% | ~6 |
+| Tough as Nails | 0.50% | ~7 |
 | Commandos | 0.30% | ~4 |
 | We Weren't There | 0.20% | ~3 |
 | A Little Culture | 0.10% | ~1 |
@@ -37,7 +37,7 @@ Number of Ratings: 98  (23.09.2022)
 | Defense of Steel | 0.00% | ~0 |
 | Scout | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,300 (Ranked 188)  
+Progressed: 1,301 (Ranked 188)  
 Completed: 1 (0.08%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,7 +146,7 @@ Completed: 1 (0.08%) (Ranked 218)
 | 2023-08-16 | 1,296 | 1 |
 | 2023-08-18 | 1,297 | 1 |
 | 2023-08-19 | 1,298 | 1 |
-| 2023-08-20 | 1,300 | 1 |
+| 2023-08-20 | 1,301 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

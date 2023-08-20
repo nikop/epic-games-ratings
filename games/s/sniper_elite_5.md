@@ -57,6 +57,7 @@ Rating: 4.45 (Ranked 636)
 | From Paris with Love | 2.00% | ~70 |
 | Eagle Eyed | 2.00% | ~70 |
 | Up close and personal | 2.00% | ~70 |
+| Can't Outrun A Bullet | 2.00% | ~70 |
 | Führerious Repetition | 2.00% | ~69 |
 | Reich To The Point | 2.00% | ~69 |
 | Covert Elimination | 2.00% | ~69 |
@@ -64,7 +65,6 @@ Rating: 4.45 (Ranked 636)
 | Best of the Best | 1.00% | ~35 |
 | Out of Scope | 1.00% | ~35 |
 | Sight Beyond Sights | 1.00% | ~35 |
-| Can't Outrun A Bullet | 1.00% | ~35 |
 | From Führer Away | 1.00% | ~35 |
 | Alpha | 1.00% | ~35 |
 | Das Familienjuwel | 1.00% | ~35 |

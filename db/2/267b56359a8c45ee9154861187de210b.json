@@ -4,7 +4,7 @@
   "ProductSlug": "marble-it-up-ultra-7b5692",
   "Ranking_EOS_Progress": 435,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-08-17T07:00:00+00:00",
@@ -187,9 +187,9 @@
       "ID": "airtime_short",
       "SetID": "3448go",
       "Name": "Glider",
-      "Percentage": 21,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "beat_c1_bronze",
@@ -275,17 +275,17 @@
       "ID": "beat_c2_gold",
       "SetID": "3448go",
       "Name": "In Good Company",
-      "Percentage": 7,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "beat_c2_silver",
       "SetID": "3448go",
       "Name": "Gone for a Whirl",
-      "Percentage": 14,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "beat_c2a_bronze",
@@ -667,9 +667,9 @@
       "ID": "rolldist_mid",
       "SetID": "3448go",
       "Name": "Marathon",
-      "Percentage": 14,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "rolldist_short",
@@ -786,8 +786,8 @@
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2023-08-20T12:04:46.587539+00:00",
+  "LastChanged_Achievements": "2023-08-20T13:05:58.3136626+00:00",
   "LastUpdate_AppInfo": "2023-08-16T18:57:08.5743948+00:00",
-  "LastUpdate_Ratings": "2023-08-20T11:58:09.0947994+00:00",
-  "LastUpdate_Achievements": "2023-08-20T12:04:46.5876177+00:00"
+  "LastUpdate_Ratings": "2023-08-20T12:59:26.8367633+00:00",
+  "LastUpdate_Achievements": "2023-08-20T13:05:58.3137867+00:00"
 }

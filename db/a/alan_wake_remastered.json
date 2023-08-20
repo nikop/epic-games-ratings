@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 61178,
+  "EOS_Progressed": 61180,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 397,
+  "EOS_NewPlayers": 396,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11827,6 +11827,11 @@
       "Time": "2023-08-20T12:07:15.4281272+00:00",
       "NumProgressed": 61178,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-20T13:08:37.3162385+00:00",
+      "NumProgressed": 61180,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -11838,7 +11843,7 @@
       "Name": "Follow the Light",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 22636
+      "UsersEstimate": 22637
     },
     {
       "ID": "02",
@@ -11878,7 +11883,7 @@
       "Name": "Park Ranger",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 9788
+      "UsersEstimate": 9789
     },
     {
       "ID": "07",
@@ -11886,7 +11891,7 @@
       "Name": "Heavy Metal",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7341
+      "UsersEstimate": 7342
     },
     {
       "ID": "08",
@@ -11894,7 +11899,7 @@
       "Name": "Iron Horse",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7341
+      "UsersEstimate": 7342
     },
     {
       "ID": "09",
@@ -11958,7 +11963,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4282
+      "UsersEstimate": 4283
     },
     {
       "ID": "17",
@@ -11966,7 +11971,7 @@
       "Name": "Departure",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4282
+      "UsersEstimate": 4283
     },
     {
       "ID": "18",
@@ -12046,7 +12051,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7341
+      "UsersEstimate": 7342
     },
     {
       "ID": "28",
@@ -12054,7 +12059,7 @@
       "Name": "Come One, Come All",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7341
+      "UsersEstimate": 7342
     },
     {
       "ID": "29",
@@ -12078,7 +12083,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 9788
+      "UsersEstimate": 9789
     },
     {
       "ID": "32",
@@ -12110,7 +12115,7 @@
       "Name": "Let There Be Light",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 18353
+      "UsersEstimate": 18354
     },
     {
       "ID": "36",
@@ -12174,7 +12179,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 10400
+      "UsersEstimate": 10401
     },
     {
       "ID": "44",
@@ -12373,21 +12378,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 61178,
+      "Progressed": 61180,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 24646,
+      "Progressed": 24648,
       "Completed": 50
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-20T12:07:15.4281264+00:00",
+  "LastChanged_Achievements": "2023-08-20T13:08:37.3162379+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:35.5614422+00:00",
-  "LastUpdate_Ratings": "2023-08-20T11:59:59.6976944+00:00",
-  "LastUpdate_Achievements": "2023-08-20T12:07:15.4282262+00:00"
+  "LastUpdate_Ratings": "2023-08-20T13:01:30.3454591+00:00",
+  "LastUpdate_Achievements": "2023-08-20T13:08:37.316427+00:00"
 }
