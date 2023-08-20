@@ -4,7 +4,7 @@
   "ProductSlug": "asteroids-recharged",
   "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 115,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-12-14T16:00:00+00:00",
@@ -279,9 +279,9 @@
       "ID": "ACH_NOW_IM_HERE",
       "SetID": "ca3jj1k",
       "Name": "Now I\u0027m Here",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 50,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ACH_PUT_OUT_THE_FIRE",
@@ -352,8 +352,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.8457032+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.0797767+00:00",
   "LastChanged": "2023-03-31T05:58:41.8457033+00:00",
-  "LastChanged_Achievements": "2023-08-20T03:08:48.4193829+00:00",
+  "LastChanged_Achievements": "2023-08-20T04:06:34.0357373+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:14.8426371+00:00",
-  "LastUpdate_Ratings": "2023-08-20T03:03:28.2064283+00:00",
-  "LastUpdate_Achievements": "2023-08-20T03:08:48.4193972+00:00"
+  "LastUpdate_Ratings": "2023-08-20T04:01:07.6549065+00:00",
+  "LastUpdate_Achievements": "2023-08-20T04:06:34.0357509+00:00"
 }

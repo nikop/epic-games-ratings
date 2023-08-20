@@ -182,9 +182,9 @@
       "ID": "airtime_short",
       "SetID": "3448go",
       "Name": "Glider",
-      "Percentage": 15,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "beat_c1_bronze",
@@ -334,17 +334,17 @@
       "ID": "beat_c3_gold",
       "SetID": "3448go",
       "Name": "Storm the Citadel",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "beat_c3_silver",
       "SetID": "3448go",
       "Name": "Power-Ups and Downs",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "beat_c3a_bronze",
@@ -781,8 +781,8 @@
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2023-08-20T03:06:25.3703154+00:00",
+  "LastChanged_Achievements": "2023-08-20T04:04:27.8887123+00:00",
   "LastUpdate_AppInfo": "2023-08-16T18:57:08.5743948+00:00",
-  "LastUpdate_Ratings": "2023-08-20T02:59:59.3027027+00:00",
-  "LastUpdate_Achievements": "2023-08-20T03:06:25.3704223+00:00"
+  "LastUpdate_Ratings": "2023-08-20T03:57:59.5509734+00:00",
+  "LastUpdate_Achievements": "2023-08-20T04:04:27.8888933+00:00"
 }

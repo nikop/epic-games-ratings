@@ -752,9 +752,9 @@
       "ID": "ACHIEVEMENT_47",
       "SetID": "8ddjaeg",
       "Name": "Not as it Seems",
-      "Percentage": 1,
+      "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_48",
@@ -965,8 +965,8 @@
   ],
   "FirstSeen": "2023-08-04T21:57:01.9865679+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5206267+00:00",
-  "LastChanged_Achievements": "2023-08-20T03:07:35.9325906+00:00",
+  "LastChanged_Achievements": "2023-08-20T04:05:29.1429874+00:00",
   "LastUpdate_AppInfo": "2023-08-16T16:57:24.4284709+00:00",
-  "LastUpdate_Ratings": "2023-08-20T03:00:20.6480895+00:00",
-  "LastUpdate_Achievements": "2023-08-20T03:07:35.9326832+00:00"
+  "LastUpdate_Ratings": "2023-08-20T03:58:20.4737265+00:00",
+  "LastUpdate_Achievements": "2023-08-20T04:05:29.1430749+00:00"
 }

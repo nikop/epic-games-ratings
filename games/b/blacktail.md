@@ -5,7 +5,7 @@ Rating: 4.68 (Ranked 238)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tooth fairy | 26.00% | ~163 |
+| Tooth fairy | 26.00% | ~164 |
 | Dental maturity | 20.00% | ~126 |
 | Devil's in the details | 15.00% | ~94 |
 | Uprooting | 13.00% | ~82 |
@@ -24,10 +24,10 @@ Rating: 4.68 (Ranked 238)
 | Queen | 5.00% | ~31 |
 | Extensive retelling | 4.00% | ~25 |
 | Favorite | 4.00% | ~25 |
-| Specialist | 4.00% | ~25 |
 | Goal! | 3.00% | ~19 |
 | Gnowlledgeable | 3.00% | ~19 |
 | Both sides | 3.00% | ~19 |
+| Specialist | 3.00% | ~19 |
 | Always worth a try | 3.00% | ~19 |
 | Toxic | 3.00% | ~19 |
 | Witch's cookbook | 3.00% | ~19 |
@@ -38,7 +38,7 @@ Rating: 4.68 (Ranked 238)
 | Mushrooming enthusiast | 0.50% | ~3 |
 | Apex predator | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 628 (Ranked 218)  
+Progressed: 629 (Ranked 218)  
 Completed: 1 (0.16%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,6 +149,7 @@ Completed: 1 (0.16%) (Ranked 193)
 | 2023-08-16 | 626 | 1 |
 | 2023-08-17 | 627 | 1 |
 | 2023-08-18 | 628 | 1 |
+| 2023-08-20 | 629 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

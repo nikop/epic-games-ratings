@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 154,
   "Ranking_EOS_Progress": 49,
   "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 37,
+  "Ranking_EOS_NewPlayers": 38,
   "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2022-11-17T15:00:00+00:00",
@@ -3202,9 +3202,9 @@
       "Count": 272
     }
   ],
-  "EOS_Progressed": 240675,
+  "EOS_Progressed": 240676,
   "EOS_Completed": 803,
-  "EOS_NewPlayers": 2149,
+  "EOS_NewPlayers": 2130,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -16362,6 +16362,11 @@
       "Time": "2023-08-20T03:08:49.6135545+00:00",
       "NumProgressed": 240675,
       "NumCompleted": 803
+    },
+    {
+      "Time": "2023-08-20T04:06:35.1012732+00:00",
+      "NumProgressed": 240676,
+      "NumCompleted": 803
     }
   ],
   "TotalAchievements": 39,
@@ -16421,7 +16426,7 @@
       "Name": "New Goat Order",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 72202
+      "UsersEstimate": 72203
     },
     {
       "ID": "AchievementBoulderID",
@@ -16437,7 +16442,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 219014
+      "UsersEstimate": 219015
     },
     {
       "ID": "AchievementClownID",
@@ -16549,7 +16554,7 @@
       "Name": "Black Market",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 33694
+      "UsersEstimate": 33695
     },
     {
       "ID": "AchievementMascotPoopID",
@@ -16637,7 +16642,7 @@
       "Name": "401(K.O.)",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 33694
+      "UsersEstimate": 33695
     },
     {
       "ID": "AchievementThroneID",
@@ -16645,7 +16650,7 @@
       "Name": "Covert Consortium",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 132371
+      "UsersEstimate": 132372
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -16653,7 +16658,7 @@
       "Name": "Synchronization Complete",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 113117
+      "UsersEstimate": 113118
     },
     {
       "ID": "AchievementTrinketID",
@@ -16684,7 +16689,7 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 240675,
+      "Progressed": 240676,
       "Completed": 803
     }
   ],
@@ -16692,8 +16697,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-08-19T18:57:56.3823375+00:00",
-  "LastChanged_Achievements": "2023-08-20T03:08:49.6135539+00:00",
+  "LastChanged_Achievements": "2023-08-20T04:06:35.1012726+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:06.889898+00:00",
-  "LastUpdate_Ratings": "2023-08-20T03:00:06.435589+00:00",
-  "LastUpdate_Achievements": "2023-08-20T03:08:49.6136907+00:00"
+  "LastUpdate_Ratings": "2023-08-20T03:58:07.3398689+00:00",
+  "LastUpdate_Achievements": "2023-08-20T04:06:35.1013972+00:00"
 }

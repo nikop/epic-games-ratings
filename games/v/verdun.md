@@ -6,16 +6,16 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 77.00% | ~42,829 |
-| Worth it | 63.00% | ~35,042 |
-| Eagle Eye | 55.00% | ~30,592 |
-| Corpseman I | 40.00% | ~22,249 |
-| Blast fishing | 37.00% | ~20,580 |
-| Not alone | 32.00% | ~17,799 |
-| Headhunter I | 26.00% | ~14,462 |
+| Setting an example | 77.00% | ~42,832 |
+| Worth it | 63.00% | ~35,044 |
+| Eagle Eye | 55.00% | ~30,594 |
+| Corpseman I | 40.00% | ~22,250 |
+| Blast fishing | 37.00% | ~20,582 |
+| Not alone | 32.00% | ~17,800 |
+| Headhunter I | 26.00% | ~14,463 |
 | Manual Labour I | 25.00% | ~13,906 |
-| Developers, Developers, Developers | 24.00% | ~13,349 |
-| Basic Training | 24.00% | ~13,349 |
+| Developers, Developers, Developers | 24.00% | ~13,350 |
+| Basic Training | 24.00% | ~13,350 |
 | Furchtlos und Treu | 13.00% | ~7,231 |
 | Gott Mit Uns | 12.00% | ~6,675 |
 | This We'll Defend! | 9.00% | ~5,006 |
@@ -41,8 +41,8 @@ Number of Ratings: 1,999  (23.09.2022)
 | In My Defens God Me Defend | 3.00% | ~1,669 |
 | Silver x100 | 3.00% | ~1,669 |
 | Impavidum Ferient Bella! | 3.00% | ~1,669 |
-| Bronze x100 | 2.00% | ~1,112 |
-| Shoot, Cover, Reload, Repeat | 2.00% | ~1,112 |
+| Bronze x100 | 2.00% | ~1,113 |
+| Shoot, Cover, Reload, Repeat | 2.00% | ~1,113 |
 | Gold x100 | 1.00% | ~556 |
 | Hunting the Hun | 1.00% | ~556 |
 | #1 | 1.00% | ~556 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~56 |
 | Blood Brother | 0.10% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,622 (Ranked 88)  
+Progressed: 55,626 (Ranked 88)  
 Completed: 4 (0.01%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,7 +188,7 @@ Completed: 4 (0.01%) (Ranked 248)
 | 2023-08-17 | 55,395 | 4 |
 | 2023-08-18 | 55,499 | 4 |
 | 2023-08-19 | 55,611 | 4 |
-| 2023-08-20 | 55,622 | 4 |
+| 2023-08-20 | 55,626 | 4 |
 ## Awards
 Max (Highly Recommended): 96  (Ranked 343)  
 Sum: 765 (Ranked 267)  

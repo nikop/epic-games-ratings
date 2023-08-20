@@ -14,7 +14,7 @@ Rating: 4.49 (Ranked 577)
 | I collect Spores, Molds, and Fungi | 51.00% | ~12,850 |
 | Cultured | 51.00% | ~12,850 |
 | Vaporous Expansion | 48.00% | ~12,095 |
-| Teamwork | 43.00% | ~10,835 |
+| Teamwork | 44.00% | ~11,087 |
 | There you are! | 42.00% | ~10,583 |
 | Clutch Capture | 40.00% | ~10,079 |
 | Back Off | 35.00% | ~8,819 |
@@ -181,14 +181,14 @@ Completed: 52 (0.21%) (Ranked 186)
 | 2023-08-19 | 25,197 | 52 |
 ## Awards
 Max (Great for Quick Sessions): 248  (Ranked 254)  
-Sum: 2,244 (Ranked 188)  
+Sum: 2,245 (Ranked 188)  
 Diff (max vs sum): 66  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 248 |
 | This game is Great for Beginners | 244 |
 | This game has Competitive Players | 231 |
-| This game has Amazing Storytelling | 226 |
+| This game has Amazing Storytelling | 227 |
 | This game is Extremely Fun | 221 |
 | This game has Diverse Characters | 221 |
 | This game is Highly Recommended | 219 |
@@ -341,3 +341,4 @@ Diff (max vs sum): 66
 | 2023-08-17 | 4.49 | 248 | 2,241 |
 | 2023-08-18 | 4.49 | 248 | 2,242 |
 | 2023-08-19 | 4.49 | 248 | 2,244 |
+| 2023-08-20 | 4.49 | 248 | 2,245 |
