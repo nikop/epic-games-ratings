@@ -24,7 +24,7 @@
 | Employee of the month | 66.00% | ~172 |
 | Spirit of the past | 64.00% | ~166 |
 | Law student | 63.00% | ~164 |
-| Workout professional | 61.00% | ~159 |
+| Workout professional | 62.00% | ~161 |
 | It's good to be alive | 61.00% | ~159 |
 | Own four walls | 61.00% | ~159 |
 | Little hacker | 60.00% | ~156 |

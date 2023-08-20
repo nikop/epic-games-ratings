@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 52,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3113,
+  "EOS_Progressed": 3114,
   "EOS_Completed": 153,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 4.91,
   "EosHistory": [
@@ -4295,6 +4295,11 @@
       "Time": "2023-08-19T19:07:48.4482637+00:00",
       "NumProgressed": 3113,
       "NumCompleted": 153
+    },
+    {
+      "Time": "2023-08-20T11:08:03.9551278+00:00",
+      "NumProgressed": 3114,
+      "NumCompleted": 153
     }
   ],
   "TotalAchievements": 24,
@@ -4402,7 +4407,7 @@
       "Name": "PROTECTED",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 1027
+      "UsersEstimate": 1028
     },
     {
       "ID": "21",
@@ -4458,7 +4463,7 @@
       "Name": "ROOKIE",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1681
+      "UsersEstimate": 1682
     },
     {
       "ID": "6",
@@ -4466,7 +4471,7 @@
       "Name": "PRO",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 1058
+      "UsersEstimate": 1059
     },
     {
       "ID": "7",
@@ -4497,13 +4502,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 3113,
+      "Progressed": 3114,
       "Completed": 153
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-08-20T10:07:02.0941786+00:00",
+  "LastChanged_Achievements": "2023-08-20T11:08:03.9551266+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:27.4246453+00:00",
-  "LastUpdate_Ratings": "2023-08-20T10:00:16.2278021+00:00",
-  "LastUpdate_Achievements": "2023-08-20T10:07:02.0942257+00:00"
+  "LastUpdate_Ratings": "2023-08-20T11:01:10.9134881+00:00",
+  "LastUpdate_Achievements": "2023-08-20T11:08:03.9551731+00:00"
 }

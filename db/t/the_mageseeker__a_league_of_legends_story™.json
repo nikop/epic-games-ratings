@@ -6,9 +6,9 @@
   "Ranking_Popularity": 513,
   "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 164,
-  "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 284,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_Completed": 173,
+  "Ranking_EOS_NewPlayers": 285,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -131,10 +131,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 2519,
-  "EOS_Completed": 6,
+  "EOS_Completed": 7,
   "EOS_NewPlayers": 2,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.24,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:35.6138039+00:00",
@@ -3390,6 +3390,11 @@
       "Time": "2023-08-16T23:05:21.6440333+00:00",
       "NumProgressed": 2519,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-08-20T11:05:47.4026616+00:00",
+      "NumProgressed": 2519,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -3719,9 +3724,9 @@
       "ID": "STB_PLATINUM",
       "SetID": "3pe2bac",
       "Name": "The Unshackled",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 200,
-      "UsersEstimate": 20
+      "UsersEstimate": 23
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_ALL",
@@ -3825,15 +3830,15 @@
       "ID": "3pe2bac",
       "IsBase": true,
       "Progressed": 2519,
-      "Completed": 6
+      "Completed": 7
     }
   ],
   "FirstSeen": "2023-04-18T18:57:53.9681419+00:00",
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-08-06T02:15:52.3932671+00:00",
-  "LastChanged_Achievements": "2023-08-20T10:05:14.697468+00:00",
+  "LastChanged_Achievements": "2023-08-20T11:05:47.4026611+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:30.177742+00:00",
-  "LastUpdate_Ratings": "2023-08-20T09:59:00.9393009+00:00",
-  "LastUpdate_Achievements": "2023-08-20T10:05:14.6975372+00:00"
+  "LastUpdate_Ratings": "2023-08-20T10:59:41.483237+00:00",
+  "LastUpdate_Achievements": "2023-08-20T11:05:47.4027452+00:00"
 }

@@ -39,6 +39,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | A Notch Above the Rest | 0.30% | ~404 |
 | A Ronin Reborn | 0.30% | ~404 |
 | Tax not Included | 0.30% | ~404 |
+| The King's Caprice | 0.30% | ~404 |
 | Research & Development | 0.30% | ~404 |
 | Vanity, Verily | 0.30% | ~404 |
 | Big Game Hunting | 0.30% | ~404 |
@@ -66,7 +67,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Proud Paladin | 0.20% | ~270 |
 | Above the Norm | 0.20% | ~270 |
 | Constellated | 0.20% | ~270 |
-| The King's Caprice | 0.20% | ~270 |
 | Thirst for Knowledge | 0.20% | ~270 |
 | Booty by the Boatload | 0.20% | ~270 |
 | Scrapbooker | 0.20% | ~270 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.10% | ~135 |
 | All Accounted For | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,818 (Ranked 66)  
+Progressed: 134,821 (Ranked 66)  
 Completed: 133 (0.10%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,7 +241,7 @@ Completed: 133 (0.10%) (Ranked 208)
 | 2023-08-17 | 134,688 | 133 |
 | 2023-08-18 | 134,736 | 133 |
 | 2023-08-19 | 134,791 | 133 |
-| 2023-08-20 | 134,818 | 133 |
+| 2023-08-20 | 134,821 | 133 |
 ## Awards
 Max (Great for Beginners): 4,705  (Ranked 71)  
 Sum: 27,114 (Ranked 47)  

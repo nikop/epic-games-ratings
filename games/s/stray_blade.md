@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self-Defence | 82.00% | ~41 |
-| Tinkerer | 58.00% | ~29 |
-| Welcome to the Club | 30.00% | ~15 |
-| A new World ahead | 24.00% | ~12 |
+| Self-Defence | 84.00% | ~42 |
+| Tinkerer | 60.00% | ~30 |
+| Welcome to the Club | 32.00% | ~16 |
+| A new World ahead | 26.00% | ~13 |
+| Apprentice | 22.00% | ~11 |
 | Don't Cry Wolf | 20.00% | ~10 |
 | Can't touch this | 20.00% | ~10 |
-| Apprentice | 20.00% | ~10 |
+| Bringing guns to a sword fight | 8.00% | ~4 |
 | Freezing Cold | 8.00% | ~4 |
 | The Golden Flash | 8.00% | ~4 |
 | The Power of the Mountains | 8.00% | ~4 |
-| Bringing guns to a sword fight | 6.00% | ~3 |
 | Searing Heat | 6.00% | ~3 |
 | Through Dangers Untold | 6.00% | ~3 |
 | Locked and Loaded | 6.00% | ~3 |

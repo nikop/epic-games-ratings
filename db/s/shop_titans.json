@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -5668,9 +5668,9 @@
       "Count": 3735
     }
   ],
-  "EOS_Progressed": 134818,
+  "EOS_Progressed": 134821,
   "EOS_Completed": 133,
-  "EOS_NewPlayers": 375,
+  "EOS_NewPlayers": 378,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -18143,6 +18143,11 @@
       "Time": "2023-08-20T10:05:53.3975751+00:00",
       "NumProgressed": 134818,
       "NumCompleted": 133
+    },
+    {
+      "Time": "2023-08-20T11:06:33.8419081+00:00",
+      "NumProgressed": 134821,
+      "NumCompleted": 133
     }
   ],
   "TotalAchievements": 112,
@@ -18248,9 +18253,9 @@
       "ID": "bigsale03",
       "SetID": "anfd17p",
       "Name": "The King\u0027s Caprice",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 404
     },
     {
       "ID": "blueprint01",
@@ -19049,15 +19054,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 134818,
+      "Progressed": 134821,
       "Completed": 133
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-08-19T22:01:14.0366607+00:00",
-  "LastChanged_Achievements": "2023-08-20T10:05:53.3975742+00:00",
+  "LastChanged_Achievements": "2023-08-20T11:06:33.8419074+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:50.7489496+00:00",
-  "LastUpdate_Ratings": "2023-08-20T09:59:47.7545796+00:00",
-  "LastUpdate_Achievements": "2023-08-20T10:05:53.3978161+00:00"
+  "LastUpdate_Ratings": "2023-08-20T11:00:40.8888926+00:00",
+  "LastUpdate_Achievements": "2023-08-20T11:06:33.842206+00:00"
 }

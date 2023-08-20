@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewPlayers": 75,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
     "PcReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 41102,
+  "EOS_Progressed": 41103,
   "EOS_Completed": 208,
-  "EOS_NewPlayers": 517,
+  "EOS_NewPlayers": 514,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -12464,6 +12464,11 @@
       "Time": "2023-08-20T10:05:56.8710294+00:00",
       "NumProgressed": 41102,
       "NumCompleted": 208
+    },
+    {
+      "Time": "2023-08-20T11:06:38.1924436+00:00",
+      "NumProgressed": 41103,
+      "NumCompleted": 208
     }
   ],
   "TotalAchievements": 44,
@@ -12475,7 +12480,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 23428
+      "UsersEstimate": 23429
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -12491,7 +12496,7 @@
       "Name": "Embers",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 8631
+      "UsersEstimate": 8632
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -12499,7 +12504,7 @@
       "Name": "Burning",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 6987
+      "UsersEstimate": 6988
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -12651,7 +12656,7 @@
       "Name": "Soul Reaver",
       "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 9042
+      "UsersEstimate": 9043
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -12675,7 +12680,7 @@
       "Name": "Clinging to Life",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 7398
+      "UsersEstimate": 7399
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -12683,7 +12688,7 @@
       "Name": "Wall Lizard",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 8220
+      "UsersEstimate": 8221
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -12691,7 +12696,7 @@
       "Name": "Apex Predator",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 9864
+      "UsersEstimate": 9865
     },
     {
       "ID": "ACHIEVEMENT_36",
@@ -12699,7 +12704,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 22606
+      "UsersEstimate": 22607
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -12715,7 +12720,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 25894
+      "UsersEstimate": 25895
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -12739,7 +12744,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 24661
+      "UsersEstimate": 24662
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -12747,7 +12752,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 27538
+      "UsersEstimate": 27539
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -12811,7 +12816,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 38225
+      "UsersEstimate": 38226
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -12819,14 +12824,14 @@
       "Name": "Revenant",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 21373
+      "UsersEstimate": 21374
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 41102,
+      "Progressed": 41103,
       "Completed": 208
     }
   ],
@@ -12834,8 +12839,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-06-11T14:58:10.4478603+00:00",
-  "LastChanged_Achievements": "2023-08-20T10:05:56.8710286+00:00",
+  "LastChanged_Achievements": "2023-08-20T11:06:38.192443+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:33.5311215+00:00",
-  "LastUpdate_Ratings": "2023-08-20T09:59:43.8192391+00:00",
-  "LastUpdate_Achievements": "2023-08-20T10:05:56.8711484+00:00"
+  "LastUpdate_Ratings": "2023-08-20T11:00:35.2130356+00:00",
+  "LastUpdate_Achievements": "2023-08-20T11:06:38.192586+00:00"
 }

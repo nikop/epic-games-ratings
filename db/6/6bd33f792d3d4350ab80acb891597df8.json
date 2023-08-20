@@ -4,8 +4,8 @@
   "ProductSlug": "the-house-of-da-vinci-3-b0c022",
   "Ranking_EOS_Progress": 373,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2022-12-23T00:00:00+00:00",
@@ -328,9 +328,9 @@
       "ID": "CgkIxYDzrbcPEAIQBw",
       "SetID": "4egpam7",
       "Name": "Cave Exploration",
-      "Percentage": 44,
+      "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "CgkIxYDzrbcPEAIQCA",
@@ -527,8 +527,8 @@
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2023-08-20T10:06:31.2558883+00:00",
+  "LastChanged_Achievements": "2023-08-20T11:07:16.1722797+00:00",
   "LastUpdate_AppInfo": "2023-08-15T14:57:10.6397592+00:00",
-  "LastUpdate_Ratings": "2023-08-20T09:58:32.4618195+00:00",
-  "LastUpdate_Achievements": "2023-08-20T10:06:31.2559102+00:00"
+  "LastUpdate_Ratings": "2023-08-20T10:59:01.6097156+00:00",
+  "LastUpdate_Achievements": "2023-08-20T11:07:16.1723054+00:00"
 }

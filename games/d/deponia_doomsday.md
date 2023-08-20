@@ -24,8 +24,8 @@ Rating: 4.56 (Ranked 473)
 | Brainfreeze | 21.00% | ~80 |
 | And everything comes full circle. | 20.00% | ~76 |
 | Masseltov | 19.00% | ~72 |
+| Quickdraw | 15.00% | ~57 |
 | Thuna...? | 15.00% | ~57 |
-| Quickdraw | 14.00% | ~53 |
 | Monstrous Harassment | 14.00% | ~53 |
 | Blast from the Past | 14.00% | ~53 |
 | Heading the inverter | 13.00% | ~49 |

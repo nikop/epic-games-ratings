@@ -5,14 +5,14 @@ Rating: 4.55 (Ranked 488)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 45.00% | ~4,375 |
-| Greasy Palms | 41.00% | ~3,986 |
-| South American Connection | 25.00% | ~2,430 |
-| Life of the Party | 20.00% | ~1,944 |
-| Big Heat from Little Havana | 15.00% | ~1,458 |
-| Chauffeur | 15.00% | ~1,458 |
-| Tommy Two-Wheels | 15.00% | ~1,458 |
-| Salutations My Little Friend | 11.00% | ~1,069 |
+| Legal Counsel | 45.00% | ~4,376 |
+| Greasy Palms | 41.00% | ~3,987 |
+| South American Connection | 25.00% | ~2,431 |
+| Life of the Party | 20.00% | ~1,945 |
+| Big Heat from Little Havana | 15.00% | ~1,459 |
+| Chauffeur | 15.00% | ~1,459 |
+| Tommy Two-Wheels | 15.00% | ~1,459 |
+| Salutations My Little Friend | 11.00% | ~1,070 |
 | Iron-y | 10.00% | ~972 |
 | Gun for Hire | 9.00% | ~875 |
 | Mischief Managed | 9.00% | ~875 |
@@ -36,12 +36,12 @@ Rating: 4.55 (Ranked 488)
 | Keepie-Uppy Okie Dokie | 1.00% | ~97 |
 | I'm Famous! | 1.00% | ~97 |
 | Daredevil | 1.00% | ~97 |
-| Born in the 80’s | 0.90% | ~87 |
-| Done it All | 0.90% | ~87 |
+| Born in the 80’s | 0.90% | ~88 |
+| Done it All | 0.90% | ~88 |
 | Kingpin | 0.50% | ~49 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,722 (Ranked 124)  
-Completed: 48 (0.49%) (Ranked 147)  
+Progressed: 9,724 (Ranked 124)  
+Completed: 49 (0.50%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -162,7 +162,7 @@ Completed: 48 (0.49%) (Ranked 147)
 | 2023-08-17 | 9,703 | 48 |
 | 2023-08-18 | 9,711 | 48 |
 | 2023-08-19 | 9,720 | 48 |
-| 2023-08-20 | 9,722 | 48 |
+| 2023-08-20 | 9,724 | 49 |
 ## Awards
 Max (Great Boss Battles): 68  (Ranked 381)  
 Sum: 68 (Ranked 439)  

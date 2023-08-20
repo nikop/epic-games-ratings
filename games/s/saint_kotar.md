@@ -12,10 +12,10 @@
 | Burial Mound | 38.00% | ~8 |
 | Make the Prophet Your Ally | 29.00% | ~6 |
 | Become a Half-Child | 29.00% | ~6 |
+| The Dreaded Klek | 29.00% | ~6 |
 | Find the Road of Cadavers | 29.00% | ~6 |
 | A Catacomb | 29.00% | ~6 |
 | Put Kata out of Her Misery | 24.00% | ~5 |
-| The Dreaded Klek | 24.00% | ~5 |
 | Found Ulric's Portrait | 24.00% | ~5 |
 | Veil of Vera | 24.00% | ~5 |
 | The Crypt of Ivan Kotar | 24.00% | ~5 |

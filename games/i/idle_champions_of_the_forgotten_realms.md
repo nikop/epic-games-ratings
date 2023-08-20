@@ -8,8 +8,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 1.00% | ~2,235 |
 | Beast Intentions | 0.50% | ~1,118 |
+| The Cursed Farmer | 0.50% | ~1,118 |
 | The Hunt for The Last Breath | 0.50% | ~949 |
-| The Cursed Farmer | 0.40% | ~894 |
 | The Mad Wizard | 0.40% | ~894 |
 | To Infinity's and Beyond | 0.40% | ~759 |
 | The Ring of Regeneration | 0.30% | ~671 |
@@ -18,6 +18,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Supply Run | 0.20% | ~447 |
 | Were-verpowered | 0.20% | ~447 |
 | A Persistent Buzzing | 0.20% | ~447 |
+| Beast Mode | 0.20% | ~447 |
 | Terror in the Dark | 0.20% | ~447 |
 | A Mysterious Summons | 0.20% | ~447 |
 | Unearthed Evil | 0.20% | ~447 |
@@ -161,7 +162,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Anchors Aweigh | 0.10% | ~190 |
 | Welcome to the Rock | 0.10% | ~190 |
 | Welcome to the Band | 0.10% | ~190 |
-| Beast Mode | 0.10% | ~224 |
 | The Forbidden City | 0.10% | ~224 |
 | Periodic Petrification | 0.10% | ~224 |
 | No Good at All | 0.10% | ~224 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~190 |
 | Animated Giff | 0.10% | ~190 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 223,537 (Ranked 53)  
+Progressed: 223,546 (Ranked 53)  
 Completed: 2,193 (0.98%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -645,7 +645,7 @@ Completed: 2,193 (0.98%) (Ranked 120)
 | 2023-08-17 | 222,852 | 2,189 |
 | 2023-08-18 | 223,142 | 2,190 |
 | 2023-08-19 | 223,443 | 2,193 |
-| 2023-08-20 | 223,537 | 2,193 |
+| 2023-08-20 | 223,546 | 2,193 |
 ## Awards
 Max (Diverse Characters): 5,169  (Ranked 68)  
 Sum: 31,141 (Ranked 38)  
