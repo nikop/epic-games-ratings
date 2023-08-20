@@ -212,7 +212,7 @@
 | 199 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 46 | 410 |
 | 199 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.70 | 0 | 513 |
 | 199 | [The Witness](games/t/the_witness.md) | 4.70 | 179 | 282 |
-| 199 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,487 | 74 |
+| 199 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,490 | 74 |
 | 199 | [Ys IX: Monstrum Nox](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.70 | 0 | 513 |
 | 215 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 114,967 | 8 |
 | 215 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 513 |
@@ -516,7 +516,7 @@
 | 514 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 513 |
 | 514 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.53 | 24 | 483 |
 | 514 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 513 |
-| 514 | [Dauntless](games/d/dauntless.md) | 4.53 | 21,402 | 18 |
+| 514 | [Dauntless](games/d/dauntless.md) | 4.53 | 21,415 | 18 |
 | 514 | [Everything](games/e/everything.md) | 4.53 | 0 | 513 |
 | 514 | [Far Cry](games/f/far_cry.md) | 4.53 | 0 | 513 |
 | 514 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.53 | 1,407 | 126 |
@@ -525,7 +525,7 @@
 | 514 | [RUINER](games/r/ruiner.md) | 4.53 | 24 | 483 |
 | 514 | [Tails of Iron](games/t/tails_of_iron.md) | 4.53 | 0 | 513 |
 | 514 | [The Tenants](games/t/the_tenants.md) | 4.53 | 0 | 513 |
-| 514 | [VALORANT](games/v/valorant.md) | 4.53 | 65,353 | 10 |
+| 514 | [VALORANT](games/v/valorant.md) | 4.53 | 65,500 | 10 |
 | 527 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 775 | 159 |
 | 527 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 31,299 | 15 |
 | 527 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 21 | 501 |
@@ -786,16 +786,16 @@
 | 778 | [Vampyr](games/v/vampyr.md) | 4.32 | 555 | 193 |
 | 785 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 0 | 513 |
 | 785 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.31 | 0 | 513 |
+| 785 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.31 | 0 | 513 |
 | 785 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.31 | 0 | 513 |
 | 785 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.31 | 79 | 363 |
 | 785 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 961 | 147 |
 | 785 | [Scrapnaut](games/s/scrapnaut.md) | 4.31 | 0 | 513 |
-| 791 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 0 | 513 |
-| 791 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.30 | 0 | 513 |
-| 791 | [Hammerting](games/h/hammerting.md) | 4.30 | 0 | 513 |
-| 791 | [Hellpoint](games/h/hellpoint.md) | 4.30 | 0 | 513 |
-| 791 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 0 | 513 |
-| 791 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.30 | 0 | 513 |
+| 792 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 0 | 513 |
+| 792 | [Hammerting](games/h/hammerting.md) | 4.30 | 0 | 513 |
+| 792 | [Hellpoint](games/h/hellpoint.md) | 4.30 | 0 | 513 |
+| 792 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 0 | 513 |
+| 792 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.30 | 0 | 513 |
 | 797 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.29 | 0 | 513 |
 | 797 | [Dark Light](games/d/dark_light.md) | 4.29 | 0 | 513 |
 | 797 | [ELEX II](games/e/elex_ii.md) | 4.29 | 0 | 513 |
