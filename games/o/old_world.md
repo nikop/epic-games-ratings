@@ -75,12 +75,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens in Babylon | 0.80% | ~108 |
 | Beloved | 0.80% | ~108 |
 | Mighty | 0.80% | ~108 |
+| Victorious | 0.80% | ~108 |
 | Champions | 0.80% | ~108 |
 | Greece | 0.80% | ~108 |
 | Building Wonders | 0.80% | ~108 |
 | Conqueror | 0.70% | ~94 |
 | Lion | 0.70% | ~94 |
-| Victorious | 0.70% | ~94 |
 | Good Difficulty | 0.70% | ~94 |
 | Patrons | 0.70% | ~94 |
 | Statesmen | 0.70% | ~94 |

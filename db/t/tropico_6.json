@@ -1056,9 +1056,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 4806,
+  "EOS_Progressed": 4807,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8341,6 +8341,11 @@
       "Time": "2023-08-20T07:07:19.1493997+00:00",
       "NumProgressed": 4806,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-20T08:07:46.9434441+00:00",
+      "NumProgressed": 4807,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -8368,7 +8373,7 @@
       "Name": "Double Trouble",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "ACH_EP_ACTSOFGOD",
@@ -8472,7 +8477,7 @@
       "Name": "Number 18",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1153
+      "UsersEstimate": 1154
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -8480,7 +8485,7 @@
       "Name": "Firestarter",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "ACH_EP_THEREFERENDUM",
@@ -8624,7 +8629,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1778
+      "UsersEstimate": 1779
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -8632,7 +8637,7 @@
       "Name": "Make Tropico Great Again!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "ACH_WATCHTHEWORLDBURN",
@@ -8671,15 +8676,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 4806,
+      "Progressed": 4807,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-08-19T05:59:02.5104499+00:00",
-  "LastChanged_Achievements": "2023-08-20T07:07:19.1493993+00:00",
+  "LastChanged_Achievements": "2023-08-20T08:07:46.943443+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:05.8526024+00:00",
-  "LastUpdate_Ratings": "2023-08-20T06:57:47.3469692+00:00",
-  "LastUpdate_Achievements": "2023-08-20T07:07:19.1494574+00:00"
+  "LastUpdate_Ratings": "2023-08-20T07:58:01.6528268+00:00",
+  "LastUpdate_Achievements": "2023-08-20T08:07:46.9437743+00:00"
 }

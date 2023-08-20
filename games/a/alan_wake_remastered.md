@@ -6,19 +6,19 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 37.00% | ~22,631 |
-| Let There Be Light | 30.00% | ~18,350 |
-| Float Like a Butterfly | 29.00% | ~17,738 |
-| Nordic Walking | 23.00% | ~14,068 |
-| Bright Falls' Finest | 23.00% | ~14,068 |
-| Under a Thin Layer of Skin | 20.00% | ~12,233 |
-| Paging Mr. Wake | 17.00% | ~10,398 |
+| Follow the Light | 37.00% | ~22,633 |
+| Let There Be Light | 30.00% | ~18,351 |
+| Float Like a Butterfly | 29.00% | ~17,739 |
+| Nordic Walking | 23.00% | ~14,069 |
+| Bright Falls' Finest | 23.00% | ~14,069 |
+| Under a Thin Layer of Skin | 20.00% | ~12,234 |
+| Paging Mr. Wake | 17.00% | ~10,399 |
 | Park Ranger | 16.00% | ~9,787 |
 | Back! Back, I Say! | 16.00% | ~9,787 |
 | Finders Keepers | 15.00% | ~9,175 |
-| Sound and Fury | 14.00% | ~8,563 |
-| Missed by a Mile | 14.00% | ~8,563 |
-| Damn Good Cup of Coffee | 14.00% | ~8,563 |
+| Sound and Fury | 14.00% | ~8,564 |
+| Missed by a Mile | 14.00% | ~8,564 |
+| Damn Good Cup of Coffee | 14.00% | ~8,564 |
 | Wheels Within Wheels | 13.00% | ~7,952 |
 | They're Heeeeeere! | 13.00% | ~7,952 |
 | The Six-Gun Scribe | 13.00% | ~7,952 |
@@ -26,15 +26,15 @@ Number of Ratings: 524  (23.09.2022)
 | Iron Horse | 12.00% | ~7,340 |
 | Collateral Carnage | 12.00% | ~7,340 |
 | Come One, Come All | 12.00% | ~7,340 |
-| Perchance to Dream | 11.00% | ~6,728 |
-| It's Not Just a Typewriter Brand | 11.00% | ~6,728 |
-| Thunder and Lightning | 11.00% | ~6,728 |
+| Perchance to Dream | 11.00% | ~6,729 |
+| It's Not Just a Typewriter Brand | 11.00% | ~6,729 |
+| Thunder and Lightning | 11.00% | ~6,729 |
 | Gatekeeper | 10.00% | ~6,117 |
 | The Lady of the Light | 10.00% | ~6,117 |
 | Two For the Price of One | 10.00% | ~6,117 |
 | Energized! | 10.00% | ~6,117 |
 | Right of Way | 9.00% | ~5,505 |
-| What Light Through Yonder Window | 8.00% | ~4,893 |
+| What Light Through Yonder Window | 8.00% | ~4,894 |
 | A Friend in Need | 8.00% | ~1,971 |
 | Tornado Wrangler | 7.00% | ~4,282 |
 | Departure | 7.00% | ~4,282 |
@@ -62,9 +62,9 @@ Number of Ratings: 524  (23.09.2022)
 | License Revoked | 0.40% | ~99 |
 | Whirlwind | 0.40% | ~99 |
 | Creative Space | 0.40% | ~99 |
-| Alan, Wake Up | 0.30% | ~183 |
-| Meet the Deadline | 0.30% | ~183 |
-| Picking Up After Yourself | 0.30% | ~183 |
+| Alan, Wake Up | 0.30% | ~184 |
+| Meet the Deadline | 0.30% | ~184 |
+| Picking Up After Yourself | 0.30% | ~184 |
 | Tick Tock | 0.30% | ~74 |
 | Gunless Wonder | 0.20% | ~122 |
 | Every Nook and Cranny | 0.20% | ~122 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~61 |
 | No Punctuation | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,166 (Ranked 85)  
+Progressed: 61,169 (Ranked 85)  
 Completed: 64 (0.10%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 64 (0.10%) (Ranked 208)
 | 2023-08-17 | 61,025 | 64 |
 | 2023-08-18 | 61,081 | 64 |
 | 2023-08-19 | 61,152 | 64 |
-| 2023-08-20 | 61,166 | 64 |
+| 2023-08-20 | 61,169 | 64 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

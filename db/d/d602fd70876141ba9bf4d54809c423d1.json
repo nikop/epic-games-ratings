@@ -424,9 +424,9 @@
       "ID": "ACHIEVEMENT_06",
       "SetID": "ap8553i",
       "Name": "Arachnophobia",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_07",
@@ -965,8 +965,8 @@
   ],
   "FirstSeen": "2023-08-04T21:57:01.9865679+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5206267+00:00",
-  "LastChanged_Achievements": "2023-08-20T07:04:53.3422551+00:00",
+  "LastChanged_Achievements": "2023-08-20T08:05:19.1822733+00:00",
   "LastUpdate_AppInfo": "2023-08-16T16:57:24.4284709+00:00",
-  "LastUpdate_Ratings": "2023-08-20T06:58:02.8340317+00:00",
-  "LastUpdate_Achievements": "2023-08-20T07:04:53.3423179+00:00"
+  "LastUpdate_Ratings": "2023-08-20T07:58:17.0130811+00:00",
+  "LastUpdate_Achievements": "2023-08-20T08:05:19.1824355+00:00"
 }

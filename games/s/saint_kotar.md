@@ -6,9 +6,9 @@
 | ---- | ---------- | ----- |
 | Finish the Tutorial | 76.00% | ~16 |
 | A Map for Benedek | 52.00% | ~11 |
-| A Map for Nikolay | 48.00% | ~10 |
+| A Map for Nikolay | 52.00% | ~11 |
 | The Wall of Laments | 43.00% | ~9 |
-| Death Whistle | 38.00% | ~8 |
+| Death Whistle | 43.00% | ~9 |
 | Burial Mound | 33.00% | ~7 |
 | Make the Prophet Your Ally | 29.00% | ~6 |
 | Become a Half-Child | 29.00% | ~6 |
@@ -26,8 +26,10 @@
 | Kabeer is Dead | 14.00% | ~3 |
 | You Ended the Bloodline Curse! | 14.00% | ~3 |
 | Become the Hero of Sveti Kotar | 14.00% | ~3 |
+| The Sanctuary | 14.00% | ~3 |
 | The Warden's Room | 14.00% | ~3 |
 | Infuriate Elizabeta | 14.00% | ~3 |
+| Goldin's Fate | 14.00% | ~3 |
 | Warden's Monstrosities | 14.00% | ~3 |
 | Nikolay's Nonsense | 14.00% | ~3 |
 | Leave the Town | 10.00% | ~2 |
@@ -36,10 +38,8 @@
 | Gregor Was Punished | 10.00% | ~2 |
 | Silenced the Voices | 10.00% | ~2 |
 | The Chapel | 10.00% | ~2 |
-| The Sanctuary | 10.00% | ~2 |
 | The Sewers | 10.00% | ~2 |
 | Incapacitated by the Death Whistle | 10.00% | ~2 |
-| Goldin's Fate | 10.00% | ~2 |
 | Lodge's Secret Passage Shortcut | 10.00% | ~2 |
 | You Decided to Stay With God | 10.00% | ~2 |
 | Found Vilim's Body | 5.00% | ~1 |

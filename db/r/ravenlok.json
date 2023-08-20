@@ -4,7 +4,7 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 36,
-  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewPlayers": 256,
   "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1077,
+  "EOS_Progressed": 1078,
   "EOS_Completed": 81,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 7.52,
+  "EOS_Completed_Percentage": 7.51,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:45:40.9336133+00:00",
@@ -2812,6 +2812,11 @@
       "Time": "2023-08-19T19:02:30.2384242+00:00",
       "NumProgressed": 1077,
       "NumCompleted": 81
+    },
+    {
+      "Time": "2023-08-20T08:03:23.4083013+00:00",
+      "NumProgressed": 1078,
+      "NumCompleted": 81
     }
   ],
   "TotalAchievements": 50,
@@ -2823,7 +2828,7 @@
       "Name": "Once Upon a Time",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 1034
+      "UsersEstimate": 1035
     },
     {
       "ID": "10",
@@ -2831,7 +2836,7 @@
       "Name": "Piece of Cake",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "11",
@@ -2847,7 +2852,7 @@
       "Name": "Spellbound",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "13",
@@ -2855,7 +2860,7 @@
       "Name": "Extinct Again!",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "14",
@@ -2887,7 +2892,7 @@
       "Name": "The Downfall",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "18",
@@ -2895,7 +2900,7 @@
       "Name": "Surprise!",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "19",
@@ -2903,7 +2908,7 @@
       "Name": "A Grand Visit",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 775
+      "UsersEstimate": 776
     },
     {
       "ID": "2",
@@ -2911,7 +2916,7 @@
       "Name": "Waff!",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 1023
+      "UsersEstimate": 1024
     },
     {
       "ID": "20",
@@ -2973,9 +2978,9 @@
       "ID": "27",
       "SetID": "d0g98p",
       "Name": "Frog Facts!",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 420
+      "UsersEstimate": 410
     },
     {
       "ID": "28",
@@ -3007,15 +3012,15 @@
       "Name": "Gooey Delight!",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "31",
       "SetID": "d0g98p",
       "Name": "Little Shop",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 549
+      "UsersEstimate": 539
     },
     {
       "ID": "32",
@@ -3031,7 +3036,7 @@
       "Name": "Awakened Spirits",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "34",
@@ -3039,7 +3044,7 @@
       "Name": "Glimmer of Hope",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "35",
@@ -3069,9 +3074,9 @@
       "ID": "38",
       "SetID": "d0g98p",
       "Name": "Max Level!",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 172
+      "UsersEstimate": 162
     },
     {
       "ID": "39",
@@ -3079,7 +3084,7 @@
       "Name": "All Skilled Up!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "4",
@@ -3087,7 +3092,7 @@
       "Name": "A Prophecy",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 915
+      "UsersEstimate": 916
     },
     {
       "ID": "40",
@@ -3111,7 +3116,7 @@
       "Name": "Shopping Spree!",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "43",
@@ -3119,15 +3124,15 @@
       "Name": "An Actor!",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "44",
       "SetID": "d0g98p",
       "Name": "It\u0027s Pointy!",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 409
+      "UsersEstimate": 399
     },
     {
       "ID": "45",
@@ -3135,7 +3140,7 @@
       "Name": "Extraordinary!",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "46",
@@ -3159,7 +3164,7 @@
       "Name": "Into the Barn",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 937
+      "UsersEstimate": 938
     },
     {
       "ID": "49",
@@ -3183,7 +3188,7 @@
       "Name": "Spot of Tea?",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "6",
@@ -3191,7 +3196,7 @@
       "Name": "Going Home",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "7",
@@ -3222,7 +3227,7 @@
     {
       "ID": "d0g98p",
       "IsBase": true,
-      "Progressed": 1077,
+      "Progressed": 1078,
       "Completed": 81
     }
   ],
@@ -3230,8 +3235,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-08-20T07:02:21.7944188+00:00",
+  "LastChanged_Achievements": "2023-08-20T08:03:23.4083006+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:54.1849843+00:00",
-  "LastUpdate_Ratings": "2023-08-20T06:59:05.8585457+00:00",
-  "LastUpdate_Achievements": "2023-08-20T07:02:21.7944664+00:00"
+  "LastUpdate_Ratings": "2023-08-20T07:59:18.9154767+00:00",
+  "LastUpdate_Achievements": "2023-08-20T08:03:23.4083667+00:00"
 }

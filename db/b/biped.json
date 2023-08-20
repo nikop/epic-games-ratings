@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5327,
+  "EOS_Progressed": 5328,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8581,6 +8581,11 @@
       "Time": "2023-08-20T06:05:24.3468921+00:00",
       "NumProgressed": 5327,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-20T08:04:35.547155+00:00",
+      "NumProgressed": 5328,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -8592,7 +8597,7 @@
       "Name": "First Step",
       "Percentage": 38,
       "XP": 45,
-      "UsersEstimate": 2024
+      "UsersEstimate": 2025
     },
     {
       "ID": "10",
@@ -8648,7 +8653,7 @@
       "Name": "Dense Forest",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 1651
+      "UsersEstimate": 1652
     },
     {
       "ID": "3",
@@ -8672,7 +8677,7 @@
       "Name": "Snowy Peak",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "6",
@@ -8711,7 +8716,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 5327,
+      "Progressed": 5328,
       "Completed": 0
     }
   ],
@@ -8719,8 +8724,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-08-20T07:04:11.1369367+00:00",
+  "LastChanged_Achievements": "2023-08-20T08:04:35.5471543+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:57.4704491+00:00",
-  "LastUpdate_Ratings": "2023-08-20T06:59:43.0408958+00:00",
-  "LastUpdate_Achievements": "2023-08-20T07:04:11.1369842+00:00"
+  "LastUpdate_Ratings": "2023-08-20T07:59:58.2458602+00:00",
+  "LastUpdate_Achievements": "2023-08-20T08:04:35.5472252+00:00"
 }

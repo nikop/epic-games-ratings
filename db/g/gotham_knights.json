@@ -2492,9 +2492,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 67920,
+  "EOS_Progressed": 67922,
   "EOS_Completed": 108,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -12782,6 +12782,11 @@
       "Time": "2023-08-20T07:06:42.80823+00:00",
       "NumProgressed": 67920,
       "NumCompleted": 108
+    },
+    {
+      "Time": "2023-08-20T08:07:10.3134971+00:00",
+      "NumProgressed": 67922,
+      "NumCompleted": 108
     }
   ],
   "TotalAchievements": 61,
@@ -12841,7 +12846,7 @@
       "Name": "The Batman Family",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 14942
+      "UsersEstimate": 14943
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -12873,7 +12878,7 @@
       "Name": "End of an Era",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8150
+      "UsersEstimate": 8151
     },
     {
       "ID": "APPLY_STATUS",
@@ -12889,7 +12894,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 10867
+      "UsersEstimate": 10868
     },
     {
       "ID": "CLAYFACE_1",
@@ -12897,7 +12902,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 14263
+      "UsersEstimate": 14264
     },
     {
       "ID": "CLAYFACE_2",
@@ -12937,7 +12942,7 @@
       "Name": "Fusion Expert",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 4754
+      "UsersEstimate": 4755
     },
     {
       "ID": "CRIME_FIGHTER_1",
@@ -12969,7 +12974,7 @@
       "Name": "Bulldozed",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8150
+      "UsersEstimate": 8151
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -13097,7 +13102,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 23772
+      "UsersEstimate": 23773
     },
     {
       "ID": "HARLEY_2",
@@ -13121,7 +13126,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 10867
+      "UsersEstimate": 10868
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -13137,7 +13142,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 33960
+      "UsersEstimate": 33961
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -13169,7 +13174,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 18338
+      "UsersEstimate": 18339
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -13201,7 +13206,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 14942
+      "UsersEstimate": 14943
     },
     {
       "ID": "MYSTERY_04",
@@ -13241,7 +13246,7 @@
       "Name": "Gotham Knight",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8150
+      "UsersEstimate": 8151
     },
     {
       "ID": "SECRET_CACHE",
@@ -13280,13 +13285,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 67920,
+      "Progressed": 67922,
       "Completed": 108
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 38200,
+      "Progressed": 38202,
       "Completed": 2658
     }
   ],
@@ -13294,8 +13299,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-08-20T05:58:05.4521608+00:00",
-  "LastChanged_Achievements": "2023-08-20T07:06:42.8082296+00:00",
+  "LastChanged_Achievements": "2023-08-20T08:07:10.3134963+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:36.1459925+00:00",
-  "LastUpdate_Ratings": "2023-08-20T06:57:15.0203852+00:00",
-  "LastUpdate_Achievements": "2023-08-20T07:06:42.8083214+00:00"
+  "LastUpdate_Ratings": "2023-08-20T07:57:25.5398902+00:00",
+  "LastUpdate_Achievements": "2023-08-20T08:07:10.3137241+00:00"
 }

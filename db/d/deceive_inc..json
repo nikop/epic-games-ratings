@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17500,
+  "EOS_Progressed": 17501,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 175,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8646,6 +8646,11 @@
       "Time": "2023-08-20T06:06:50.6894573+00:00",
       "NumProgressed": 17500,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-20T08:05:48.8433159+00:00",
+      "NumProgressed": 17501,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -8697,7 +8702,7 @@
       "Name": "Chief Information Officer",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "0007",
@@ -8944,7 +8949,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17500,
+      "Progressed": 17501,
       "Completed": 1
     }
   ],
@@ -8952,8 +8957,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-12T19:04:41.1874293+00:00",
-  "LastChanged_Achievements": "2023-08-20T07:05:22.2310006+00:00",
+  "LastChanged_Achievements": "2023-08-20T08:05:48.8433152+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:28.6624095+00:00",
-  "LastUpdate_Ratings": "2023-08-20T06:57:09.8112597+00:00",
-  "LastUpdate_Achievements": "2023-08-20T07:05:22.2310607+00:00"
+  "LastUpdate_Ratings": "2023-08-20T07:57:19.2049662+00:00",
+  "LastUpdate_Achievements": "2023-08-20T08:05:48.8434606+00:00"
 }

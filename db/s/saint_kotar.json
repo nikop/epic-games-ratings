@@ -4,7 +4,7 @@
   "ProductSlug": "saint-kotar-7f0c47",
   "Ranking_EOS_Progress": 410,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewPlayers": 359,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-10-28T11:00:00+00:00",
@@ -140,9 +140,9 @@
       "ID": "death_whistle_acquired",
       "SetID": "4akddl8",
       "Name": "Death Whistle",
-      "Percentage": 38,
+      "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "denouncement_declined_Ida",
@@ -292,9 +292,9 @@
       "ID": "hidden_location_sanctuary_discovered",
       "SetID": "4akddl8",
       "Name": "The Sanctuary",
-      "Percentage": 10,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "hidden_location_sewers_discovered",
@@ -332,9 +332,9 @@
       "ID": "learned_Goldins_fate",
       "SetID": "4akddl8",
       "Name": "Goldin\u0027s Fate",
-      "Percentage": 10,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "learned_about_warden_monstrosities",
@@ -380,9 +380,9 @@
       "ID": "map_enabled_for_Nikolay",
       "SetID": "4akddl8",
       "Name": "A Map for Nikolay",
-      "Percentage": 48,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "opened_passage_with_walking_stick",
@@ -429,8 +429,8 @@
   "FirstSeenRating": "2023-03-31T05:58:43.0246209+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.7285802+00:00",
   "LastChanged": "2023-03-31T05:58:43.024621+00:00",
-  "LastChanged_Achievements": "2023-08-20T07:04:40.3166814+00:00",
+  "LastChanged_Achievements": "2023-08-20T08:05:05.5140499+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:35.2595879+00:00",
-  "LastUpdate_Ratings": "2023-08-20T06:58:20.4213749+00:00",
-  "LastUpdate_Achievements": "2023-08-20T07:04:40.3167081+00:00"
+  "LastUpdate_Ratings": "2023-08-20T07:58:31.7963648+00:00",
+  "LastUpdate_Achievements": "2023-08-20T08:05:05.5141181+00:00"
 }
