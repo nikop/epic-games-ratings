@@ -16,6 +16,7 @@ Rating: 4.88 (Ranked 19)
 | Perfect Parry | 7.00% | ~277 |
 | Alright, that felt AWESOME! | 7.00% | ~277 |
 | This will cost you big time | 6.00% | ~237 |
+| Whoa! There's ANOTHER health bar!? | 6.00% | ~237 |
 | Z-shielding's got nothing on us! | 6.00% | ~237 |
 | Uh, they were broken when I got here | 6.00% | ~237 |
 | Kissing the sky! | 6.00% | ~237 |
@@ -24,7 +25,6 @@ Rating: 4.88 (Ranked 19)
 | Headliner | 5.00% | ~198 |
 | Time to pay up! | 5.00% | ~198 |
 | Who's the boss now? | 5.00% | ~198 |
-| Whoa! There's ANOTHER health bar!? | 5.00% | ~198 |
 | You must like calling me in, Chai | 5.00% | ~198 |
 | Out in a puff of smoke | 5.00% | ~198 |
 | Does that say weakpoint? | 5.00% | ~198 |

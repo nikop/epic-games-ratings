@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 7,
   "Ranking_EOS_Completed": 231,
   "Ranking_EOS_NewPlayers": 49,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2021-02-18T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -442,9 +442,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1536032,
+  "EOS_Progressed": 1536036,
   "EOS_Completed": 665,
-  "EOS_NewPlayers": 1206,
+  "EOS_NewPlayers": 1202,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -13902,6 +13902,11 @@
       "Time": "2023-08-20T08:03:47.4405789+00:00",
       "NumProgressed": 1536032,
       "NumCompleted": 665
+    },
+    {
+      "Time": "2023-08-20T09:03:33.2289817+00:00",
+      "NumProgressed": 1536036,
+      "NumCompleted": 665
     }
   ],
   "TotalAchievements": 20,
@@ -13921,7 +13926,7 @@
       "Name": "Maverick",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 107522
+      "UsersEstimate": 107523
     },
     {
       "ID": "ACH_CUBIC_RUCKUS",
@@ -14009,7 +14014,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 153603
+      "UsersEstimate": 153604
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -14072,15 +14077,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1536032,
+      "Progressed": 1536036,
       "Completed": 665
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-07-23T19:00:00.3270793+00:00",
-  "LastChanged_Achievements": "2023-08-20T08:03:47.4405782+00:00",
+  "LastChanged_Achievements": "2023-08-20T09:03:33.2289811+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:46.5539985+00:00",
-  "LastUpdate_Ratings": "2023-08-20T07:57:37.5000788+00:00",
-  "LastUpdate_Achievements": "2023-08-20T08:03:47.4406899+00:00"
+  "LastUpdate_Ratings": "2023-08-20T08:57:36.7417193+00:00",
+  "LastUpdate_Achievements": "2023-08-20T09:03:33.2290559+00:00"
 }

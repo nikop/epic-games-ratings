@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Choking Hazard | 44.00% | ~77 |
-| Animal Lover | 34.00% | ~60 |
+| Choking Hazard | 44.00% | ~78 |
+| Animal Lover | 33.00% | ~58 |
 | Don't Breathe | 30.00% | ~53 |
-| Easy Listening | 15.00% | ~26 |
-| Smooth Operator | 15.00% | ~26 |
+| Easy Listening | 15.00% | ~27 |
+| Smooth Operator | 15.00% | ~27 |
 | Rapturous Applause! | 14.00% | ~25 |
-| Perfect Harmony! | 13.00% | ~23 |
+| Perfect Harmony! | 12.00% | ~21 |
 | Wales Interactive | 10.00% | ~18 |
-| Chief Butler | 9.00% | ~16 |
+| Chief Butler | 8.00% | ~14 |
 | Bull in a China Shop | 6.00% | ~11 |
 | Sker Explorer | 5.00% | ~9 |
 | Ending on a High Note | 2.00% | ~4 |
@@ -35,7 +35,7 @@
 | Nuisance Caller | 0.00% | ~0 |
 | The Longest Night | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 176 (Ranked 299)  
+Progressed: 177 (Ranked 299)  
 Completed: 0 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,6 +77,7 @@ Completed: 0 (0.00%) (Ranked 261)
 | 2023-08-12 | 174 | 0 |
 | 2023-08-18 | 175 | 0 |
 | 2023-08-19 | 176 | 0 |
+| 2023-08-20 | 177 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

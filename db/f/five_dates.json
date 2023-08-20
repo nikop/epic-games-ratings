@@ -4,8 +4,8 @@
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 103,
-  "Ranking_EOS_NewPlayers": 256,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
     "PcReleaseDate": "2020-11-17T18:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 512,
+  "EOS_Progressed": 513,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.56,
   "EosHistory": [
@@ -917,6 +917,11 @@
       "Time": "2023-08-19T23:07:38.3186539+00:00",
       "NumProgressed": 512,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-08-20T09:08:04.4543346+00:00",
+      "NumProgressed": 513,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 15,
@@ -928,7 +933,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "booty_call",
@@ -936,7 +941,7 @@
       "Name": "Booty Call",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "crash_and_burn",
@@ -968,7 +973,7 @@
       "Name": "In Contempt of Duvet",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "interrogation",
@@ -992,7 +997,7 @@
       "Name": "Not Alone",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "nueva_beginnings",
@@ -1000,7 +1005,7 @@
       "Name": "Nueva Beginnings",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "only_thyme_will_tell",
@@ -1047,7 +1052,7 @@
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 512,
+      "Progressed": 513,
       "Completed": 8
     }
   ],
@@ -1055,8 +1060,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-08-20T08:07:44.1013634+00:00",
+  "LastChanged_Achievements": "2023-08-20T09:08:04.4543341+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:09.1269688+00:00",
-  "LastUpdate_Ratings": "2023-08-20T08:00:05.595988+00:00",
-  "LastUpdate_Achievements": "2023-08-20T08:07:44.1013939+00:00"
+  "LastUpdate_Ratings": "2023-08-20T09:00:25.1610469+00:00",
+  "LastUpdate_Achievements": "2023-08-20T09:08:04.4543489+00:00"
 }

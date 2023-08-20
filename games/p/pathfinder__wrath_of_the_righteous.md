@@ -13,10 +13,10 @@ Number of Ratings: 1,354  (23.09.2022)
 | Defender's Heart | 13.00% | ~1,431 |
 | Banner over the Citadel | 12.00% | ~1,321 |
 | Queen's Gratitude | 11.00% | ~1,211 |
-| Fifth Crusade | 7.00% | ~770 |
-| Embrace of the Abyss | 6.00% | ~660 |
-| Path of the Angel | 6.00% | ~660 |
-| Demonic and Divine | 6.00% | ~660 |
+| Fifth Crusade | 7.00% | ~771 |
+| Embrace of the Abyss | 6.00% | ~661 |
+| Path of the Angel | 6.00% | ~661 |
+| Demonic and Divine | 6.00% | ~661 |
 | Transformation | 5.00% | ~550 |
 | Great Upstart | 5.00% | ~550 |
 | Voice from Your Dreams | 5.00% | ~550 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,007 (Ranked 121)  
+Progressed: 11,009 (Ranked 121)  
 Completed: 0 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,11 +245,11 @@ Completed: 0 (0.00%) (Ranked 261)
 | 2023-08-17 | 10,984 | 0 |
 | 2023-08-18 | 10,992 | 0 |
 | 2023-08-19 | 11,004 | 0 |
-| 2023-08-20 | 11,007 | 0 |
+| 2023-08-20 | 11,009 | 0 |
 ## Awards
-Max (Character Customization): 1,701  (Ranked 117)  
+Max (Character Customization): 1,701  (Ranked 118)  
 Sum: 6,896 (Ranked 113)  
-Diff (max vs sum): 4  
+Diff (max vs sum): 5  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,701 |

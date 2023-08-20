@@ -4,8 +4,8 @@
   "ProductSlug": "maid-of-sker-2ae24e",
   "Ranking_EOS_Progress": 299,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 283,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 176,
+  "EOS_Progressed": 177,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -272,6 +272,11 @@
       "Time": "2023-08-19T22:02:33.3659191+00:00",
       "NumProgressed": 176,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-20T09:02:12.0052228+00:00",
+      "NumProgressed": 177,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -281,9 +286,9 @@
       "ID": "animal_lover",
       "SetID": "3j2phem",
       "Name": "Animal Lover",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 60
+      "UsersEstimate": 58
     },
     {
       "ID": "axe_of_kindness",
@@ -313,9 +318,9 @@
       "ID": "chief_butler",
       "SetID": "3j2phem",
       "Name": "Chief Butler",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "choking_hazzard",
@@ -323,7 +328,7 @@
       "Name": "Choking Hazard",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "dodgy_geezer",
@@ -347,7 +352,7 @@
       "Name": "Easy Listening",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ending_on_a_high_note",
@@ -449,9 +454,9 @@
       "ID": "perfect_harmony",
       "SetID": "3j2phem",
       "Name": "Perfect Harmony!",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 23
+      "UsersEstimate": 21
     },
     {
       "ID": "phonic_boom",
@@ -491,7 +496,7 @@
       "Name": "Smooth Operator",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "the_long_night",
@@ -522,7 +527,7 @@
     {
       "ID": "3j2phem",
       "IsBase": true,
-      "Progressed": 176,
+      "Progressed": 177,
       "Completed": 0
     }
   ],
@@ -530,8 +535,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2023-08-20T08:02:08.6869645+00:00",
+  "LastChanged_Achievements": "2023-08-20T09:02:12.0052219+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:41.1918552+00:00",
-  "LastUpdate_Ratings": "2023-08-20T08:01:13.4155009+00:00",
-  "LastUpdate_Achievements": "2023-08-20T08:02:08.6870422+00:00"
+  "LastUpdate_Ratings": "2023-08-20T09:01:41.2243508+00:00",
+  "LastUpdate_Achievements": "2023-08-20T09:02:12.0052616+00:00"
 }

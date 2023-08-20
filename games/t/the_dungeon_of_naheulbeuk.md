@@ -6,19 +6,20 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 20.00% | ~42,986 |
+| Sowwy! | 20.00% | ~42,992 |
 | Where's that freaking Dwarf? | 2.00% | ~4,299 |
 | Alt+F4 | 2.00% | ~4,299 |
-| Déjà vu | 1.00% | ~2,149 |
-| Sock! SOCK! | 1.00% | ~2,149 |
-| Speedrun | 1.00% | ~2,149 |
-| A beer, two curses, three companions | 0.90% | ~1,934 |
-| GG EZ | 0.90% | ~1,934 |
-| DM intervention | 0.90% | ~1,934 |
-| Fireproof Wizardess | 0.90% | ~1,934 |
+| Déjà vu | 1.00% | ~2,150 |
+| A beer, two curses, three companions | 1.00% | ~2,150 |
+| Sock! SOCK! | 1.00% | ~2,150 |
+| Speedrun | 1.00% | ~2,150 |
+| GG EZ | 0.90% | ~1,935 |
+| DM intervention | 0.90% | ~1,935 |
+| Fireproof Wizardess | 0.90% | ~1,935 |
 | Way of the Wimp | 0.70% | ~1,505 |
 | The plot thickens... At the tavern | 0.70% | ~1,505 |
 | Livin' in a dwarven paradise | 0.60% | ~1,290 |
+| Oh, when I'll be level 10... | 0.60% | ~1,290 |
 | Shiny and Crôm | 0.50% | ~1,075 |
 | The demons' feast | 0.50% | ~1,075 |
 | The Great Library | 0.50% | ~1,075 |
@@ -31,7 +32,6 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.50% | ~1,075 |
 | I am the night | 0.50% | ~1,075 |
 | Team Building Exercise | 0.50% | ~1,075 |
-| Oh, when I'll be level 10... | 0.50% | ~1,075 |
 | The Famous Dungeon of Naheulbeuk | 0.40% | ~860 |
 | Dwarf Fortress | 0.40% | ~860 |
 | Look but don't touch | 0.40% | ~860 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Staff cut | 0.00% | ~0 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 214,932 (Ranked 56)  
+Progressed: 214,958 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,7 +176,7 @@ Completed: 2 (0.00%) (Ranked 261)
 | 2023-08-17 | 213,783 | 2 |
 | 2023-08-18 | 214,230 | 2 |
 | 2023-08-19 | 214,804 | 2 |
-| 2023-08-20 | 214,932 | 2 |
+| 2023-08-20 | 214,958 | 2 |
 ## Awards
 Max (Character Customization): 170  (Ranked 287)  
 Sum: 211 (Ranked 365)  

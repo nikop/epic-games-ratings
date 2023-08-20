@@ -15,7 +15,7 @@
 | Employee of the week | 77.00% | ~200 |
 | First defeat | 76.00% | ~198 |
 | Neurotrainer – power gainer! | 76.00% | ~198 |
-| Your own amateur gym | 74.00% | ~192 |
+| Your own amateur gym | 75.00% | ~195 |
 | Run K, run! | 74.00% | ~192 |
 | Fighting is cool | 70.00% | ~182 |
 | Hello, world! | 70.00% | ~182 |
@@ -26,9 +26,9 @@
 | Law student | 63.00% | ~164 |
 | Workout professional | 61.00% | ~159 |
 | It's good to be alive | 61.00% | ~159 |
+| Own four walls | 61.00% | ~159 |
 | Handyman | 60.00% | ~156 |
 | Champion – starter pack | 60.00% | ~156 |
-| Own four walls | 60.00% | ~156 |
 | Employee of the year | 60.00% | ~156 |
 | Fight for life | 59.00% | ~153 |
 | Little hacker | 59.00% | ~153 |

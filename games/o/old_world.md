@@ -144,6 +144,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cao'an | 0.30% | ~40 |
 | Persia | 0.30% | ~40 |
 | Old World Order | 0.30% | ~40 |
+| Play a Network Game | 0.30% | ~40 |
 | Ten Crowns | 0.30% | ~40 |
 | Three Man Chariot | 0.30% | ~40 |
 | All Nations | 0.30% | ~40 |
@@ -168,7 +169,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon of Gods | 0.20% | ~27 |
 | Play a Free-For-All Game (>2 Players) | 0.20% | ~27 |
 | Play a MP Teams Game | 0.20% | ~27 |
-| Play a Network Game | 0.20% | ~27 |
 | Play a Play-By-Cloud Game | 0.20% | ~27 |
 | Circus Maximus in Roma | 0.20% | ~27 |
 | Capturing Cities | 0.20% | ~27 |

@@ -9,7 +9,7 @@
 | A Map for Nikolay | 52.00% | ~11 |
 | The Wall of Laments | 43.00% | ~9 |
 | Death Whistle | 43.00% | ~9 |
-| Burial Mound | 33.00% | ~7 |
+| Burial Mound | 38.00% | ~8 |
 | Make the Prophet Your Ally | 29.00% | ~6 |
 | Become a Half-Child | 29.00% | ~6 |
 | Find the Road of Cadavers | 29.00% | ~6 |

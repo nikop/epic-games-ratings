@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
     "PcReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -60,9 +60,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 629,
+  "EOS_Progressed": 630,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1585,6 +1585,11 @@
       "Time": "2023-08-20T04:05:05.0500234+00:00",
       "NumProgressed": 629,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-20T09:04:57.2955044+00:00",
+      "NumProgressed": 630,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -1652,7 +1657,7 @@
       "Name": "Sneak peek",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "Favourite",
@@ -1668,7 +1673,7 @@
       "Name": "Fishing fanatic",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "Goal",
@@ -1692,7 +1697,7 @@
       "Name": "The word around is...",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "HeadOnHerShoulders",
@@ -1716,7 +1721,7 @@
       "Name": "Liar Liar",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "LittleHelper",
@@ -1740,7 +1745,7 @@
       "Name": "The cycle acknowledged",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "NoMoreWards",
@@ -1756,7 +1761,7 @@
       "Name": "Queen",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "Rats",
@@ -1836,7 +1841,7 @@
       "Name": "Forbidden techniques",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "YagaProfessional",
@@ -1851,7 +1856,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 629,
+      "Progressed": 630,
       "Completed": 1
     }
   ],
@@ -1859,8 +1864,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-06-17T03:57:55.2766718+00:00",
-  "LastChanged_Achievements": "2023-08-20T08:04:54.8610053+00:00",
+  "LastChanged_Achievements": "2023-08-20T09:04:57.2955038+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:51.366929+00:00",
-  "LastUpdate_Ratings": "2023-08-20T07:59:52.6073184+00:00",
-  "LastUpdate_Achievements": "2023-08-20T08:04:54.8610502+00:00"
+  "LastUpdate_Ratings": "2023-08-20T09:00:10.460047+00:00",
+  "LastUpdate_Achievements": "2023-08-20T09:04:57.2955314+00:00"
 }

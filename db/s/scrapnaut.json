@@ -6,9 +6,9 @@
   "Ranking_Popularity": 513,
   "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 249,
-  "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 240,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_Completed": 173,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -135,11 +135,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 350,
+  "EOS_Progressed": 351,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.29,
+  "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:37.3117405+00:00",
@@ -1005,6 +1005,11 @@
       "Time": "2023-08-20T06:06:11.9362271+00:00",
       "NumProgressed": 350,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-20T09:05:20.327121+00:00",
+      "NumProgressed": 351,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 31,
@@ -1064,7 +1069,7 @@
       "Name": "Mushroom Picker",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "ACH_COLLECT_20_RED_BOOKS",
@@ -1088,15 +1093,15 @@
       "Name": "Master Of Management",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_COLLECT_50_ELECTROSCRAP",
       "SetID": "7c4cldc",
       "Name": "Electro-Scrap Gatherer",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 122
+      "UsersEstimate": 119
     },
     {
       "ID": "ACH_COLLECT_50_SCRAP",
@@ -1104,7 +1109,7 @@
       "Name": "Scrap Gatherer",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "ACH_COOK",
@@ -1112,7 +1117,7 @@
       "Name": "Cook",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_CUT_100_TREES",
@@ -1126,9 +1131,9 @@
       "ID": "ACH_CUT_20_TREES",
       "SetID": "7c4cldc",
       "Name": "Lumberjack",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 108
+      "UsersEstimate": 105
     },
     {
       "ID": "ACH_CUT_50_TREES",
@@ -1136,7 +1141,7 @@
       "Name": "Forest Lord",
       "Percentage": 11,
       "XP": 35,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_FIND_10_TREASURES",
@@ -1160,15 +1165,15 @@
       "Name": "Robot Hunter",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ACH_KILL_20",
       "SetID": "7c4cldc",
       "Name": "Scrapper",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 172
+      "UsersEstimate": 168
     },
     {
       "ID": "ACH_KILL_50",
@@ -1254,16 +1259,16 @@
       "ID": "ACH_TELEPORT",
       "SetID": "7c4cldc",
       "Name": "Teleport",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 158
+      "UsersEstimate": 154
     }
   ],
   "AchievementSets": [
     {
       "ID": "7c4cldc",
       "IsBase": true,
-      "Progressed": 350,
+      "Progressed": 351,
       "Completed": 1
     }
   ],
@@ -1271,8 +1276,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-06-01T06:59:03.7150344+00:00",
-  "LastChanged_Achievements": "2023-08-20T08:05:15.8215863+00:00",
+  "LastChanged_Achievements": "2023-08-20T09:05:20.3271205+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:50.1715597+00:00",
-  "LastUpdate_Ratings": "2023-08-20T08:00:30.8370569+00:00",
-  "LastUpdate_Achievements": "2023-08-20T08:05:15.8216176+00:00"
+  "LastUpdate_Ratings": "2023-08-20T09:00:54.123291+00:00",
+  "LastUpdate_Achievements": "2023-08-20T09:05:20.3271429+00:00"
 }
