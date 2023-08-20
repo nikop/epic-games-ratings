@@ -54,7 +54,7 @@
 | 52 | [DEATH STRANDING](games/d/death_stranding.md) | 6,722 | 4.77 | 109 |
 | 53 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 672 |
 | 54 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,406 | 4.80 | 82 |
-| 55 | [Sifu](games/s/sifu.md) | 6,377 | 4.82 | 67 |
+| 55 | [Sifu](games/s/sifu.md) | 6,382 | 4.82 | 67 |
 | 56 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,302 | 4.58 | 427 |
 | 57 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 5,972 | 4.79 | 87 |
 | 58 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,962 | 4.64 | 314 |
@@ -139,7 +139,7 @@
 | 137 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,168 | 4.61 | 365 |
 | 138 | [Rogue Legacy](games/r/rogue_legacy.md) | 1,074 | 4.61 | 365 |
 | 139 | [EVE Online](games/e/eve_online.md) | 1,062 | 4.25 | 826 |
-| 140 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,058 | 4.66 | 274 |
+| 140 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,060 | 4.66 | 274 |
 | 141 | [Saints Row](games/s/saints_row.md) | 1,056 | 3.78 | 964 |
 | 142 | [Ooblets](games/o/ooblets.md) | 1,020 | 4.88 | 19 |
 | 143 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 1,016 | 4.40 | 704 |
@@ -216,7 +216,7 @@
 | 214 | [Warface](games/w/warface.md) | 407 | 3.91 | 953 |
 | 215 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 403 | 3.94 | 947 |
 | 215 | [Slime Rancher](games/s/slime_rancher.md) | 403 | 4.82 | 67 |
-| 217 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 398 | 4.70 | 199 |
+| 217 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 399 | 4.70 | 199 |
 | 218 | [Nuclear Throne](games/n/nuclear_throne.md) | 386 | 4.79 | 87 |
 | 219 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 384 | 4.61 | 365 |
 | 220 | [For The King](games/f/for_the_king.md) | 380 | 4.70 | 199 |

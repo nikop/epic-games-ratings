@@ -29,7 +29,7 @@
 | 27 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.03% |
 | 28 | [Out of Bounds](games/o/out_of_bounds.md) | 10.00% |
 | 29 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.52% |
-| 30 | [Sonic Origins](games/s/sonic_origins.md) | 9.45% |
+| 30 | [Sonic Origins](games/s/sonic_origins.md) | 9.43% |
 | 31 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.30% |
 | 32 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.96% |
 | 33 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.48% |
@@ -38,7 +38,7 @@
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.52% |
 | 37 | [Smelter](games/s/smelter.md) | 7.50% |
 | 38 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.41% |
-| 39 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.03% |
+| 39 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.02% |
 | 40 | [Scorn](games/s/scorn.md) | 6.92% |
 | 41 | [Time Loader](games/t/time_loader.md) | 6.78% |
 | 42 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.75% |
@@ -66,7 +66,7 @@
 | 64 | [Without Escape](games/w/without_escape.md) | 3.57% |
 | 65 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 66 | [Doodle God](games/d/doodle_god.md) | 3.43% |
-| 67 | [Bunny Park](games/b/bunny_park.md) | 3.38% |
+| 67 | [Bunny Park](games/b/bunny_park.md) | 3.37% |
 | 68 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.30% |
 | 69 | [The Complex](games/t/the_complex.md) | 3.17% |
 | 70 | [HordeCore](games/h/hordecore.md) | 3.15% |
@@ -74,18 +74,18 @@
 | 72 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.04% |
 | 73 | [Monster Harvest](games/m/monster_harvest.md) | 2.94% |
 | 74 | [MultiVersus](games/m/multiversus.md) | 2.93% |
+| 75 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 2.92% |
 | 75 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.92% |
-| 76 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.78% |
-| 77 | [Destiny 2](games/d/destiny_2.md) | 2.74% |
-| 78 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
-| 79 | [The Bunker](games/t/the_bunker.md) | 2.65% |
-| 80 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.60% |
-| 80 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.60% |
-| 80 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.60% |
-| 83 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.56% |
-| 84 | [Lamentum](games/l/lamentum.md) | 2.53% |
-| 85 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.52% |
-| 86 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 2.51% |
+| 77 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.78% |
+| 78 | [Destiny 2](games/d/destiny_2.md) | 2.74% |
+| 79 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
+| 80 | [The Bunker](games/t/the_bunker.md) | 2.65% |
+| 81 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.60% |
+| 81 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.60% |
+| 81 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.60% |
+| 84 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.56% |
+| 85 | [Lamentum](games/l/lamentum.md) | 2.53% |
+| 86 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.52% |
 | 87 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 88 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.35% |
 | 89 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.27% |

@@ -73,7 +73,7 @@
 | 67 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 513 |
 | 67 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 33 | 448 |
 | 67 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 2,737 | 95 |
-| 67 | [Sifu](games/s/sifu.md) | 4.82 | 6,377 | 55 |
+| 67 | [Sifu](games/s/sifu.md) | 4.82 | 6,382 | 55 |
 | 67 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 403 | 215 |
 | 67 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.82 | 0 | 513 |
 | 77 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 424 | 208 |
@@ -201,7 +201,7 @@
 | 199 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,556 | 72 |
 | 199 | [DOOM II](games/d/doom_ii.md) | 4.70 | 26 | 473 |
 | 199 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 376 | 222 |
-| 199 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.70 | 398 | 217 |
+| 199 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.70 | 399 | 217 |
 | 199 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.70 | 0 | 513 |
 | 199 | [For The King](games/f/for_the_king.md) | 4.70 | 380 | 220 |
 | 199 | [GNOG](games/g/gnog.md) | 4.70 | 0 | 513 |
@@ -287,7 +287,7 @@
 | 274 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.66 | 159 | 294 |
 | 274 | [LEGO® 2K Drive](games/l/lego®_2k_drive.md) | 4.66 | 0 | 513 |
 | 274 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.66 | 51 | 400 |
-| 274 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 1,058 | 140 |
+| 274 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 1,060 | 140 |
 | 274 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 1,909 | 110 |
 | 274 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.66 | 54 | 395 |
 | 274 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 561 | 189 |
