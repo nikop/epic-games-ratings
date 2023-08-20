@@ -3,7 +3,7 @@
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 51.35% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 43.14% |
-| 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.58% |
+| 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.57% |
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
 | 6 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
 | 7 | [Overloop](games/o/overloop.md) | 25.00% |
@@ -14,8 +14,8 @@
 | 12 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 12 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 14 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 18.40% |
-| 15 | [Island Cities](games/i/island_cities.md) | 18.22% |
-| 16 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
+| 15 | [Island Cities](games/i/island_cities.md) | 18.18% |
+| 15 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
 | 17 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.55% |
 | 18 | [Anna's Quest](games/a/anna's_quest.md) | 14.29% |
 | 18 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 14.29% |
@@ -23,15 +23,15 @@
 | 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.17% |
 | 22 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 22 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
-| 24 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.08% |
+| 24 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.06% |
 | 25 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.71% |
 | 26 | [Remains](games/r/remains.md) | 10.64% |
-| 27 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.03% |
-| 28 | [Out of Bounds](games/o/out_of_bounds.md) | 10.00% |
+| 27 | [Out of Bounds](games/o/out_of_bounds.md) | 10.00% |
+| 27 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.00% |
 | 29 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.52% |
-| 30 | [Sonic Origins](games/s/sonic_origins.md) | 9.41% |
+| 30 | [Sonic Origins](games/s/sonic_origins.md) | 9.38% |
 | 31 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.30% |
-| 32 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.96% |
+| 32 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.95% |
 | 33 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.48% |
 | 34 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.11% |
 | 35 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 7.69% |
@@ -50,8 +50,8 @@
 | 47 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.36% |
 | 47 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.36% |
 | 50 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.13% |
-| 51 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 4.95% |
-| 52 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.91% |
+| 51 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.91% |
+| 52 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 4.90% |
 | 53 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.80% |
 | 54 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 4.76% |
 | 55 | [Bugsnax](games/b/bugsnax.md) | 4.72% |
@@ -70,19 +70,19 @@
 | 68 | [Bunny Park](games/b/bunny_park.md) | 3.37% |
 | 69 | [The Complex](games/t/the_complex.md) | 3.35% |
 | 70 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.30% |
-| 71 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.23% |
+| 71 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.16% |
 | 72 | [HordeCore](games/h/hordecore.md) | 3.15% |
 | 73 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.07% |
 | 74 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.04% |
 | 75 | [Monster Harvest](games/m/monster_harvest.md) | 2.94% |
 | 76 | [MultiVersus](games/m/multiversus.md) | 2.93% |
-| 77 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.92% |
+| 77 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.91% |
 | 78 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.78% |
 | 79 | [Destiny 2](games/d/destiny_2.md) | 2.74% |
 | 80 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
 | 81 | [The Bunker](games/t/the_bunker.md) | 2.63% |
-| 82 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.60% |
 | 82 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.60% |
+| 83 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.59% |
 | 84 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.56% |
 | 85 | [Lamentum](games/l/lamentum.md) | 2.53% |
 | 86 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.50% |
@@ -200,13 +200,13 @@
 | 198 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
 | 199 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.14% |
 | 200 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.13% |
+| 201 | [Fall Guys](games/f/fall_guys.md) | 0.12% |
 | 201 | [Isonzo](games/i/isonzo.md) | 0.12% |
 | 201 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
 | 201 | [Port Royale 4](games/p/port_royale_4.md) | 0.12% |
-| 204 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.11% |
-| 204 | [Fall Guys](games/f/fall_guys.md) | 0.11% |
-| 204 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.11% |
-| 204 | [Ring of Pain](games/r/ring_of_pain.md) | 0.11% |
+| 205 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.11% |
+| 205 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.11% |
+| 205 | [Ring of Pain](games/r/ring_of_pain.md) | 0.11% |
 | 208 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.10% |
 | 208 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
 | 208 | [House Flipper](games/h/house_flipper.md) | 0.10% |
