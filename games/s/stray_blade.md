@@ -21,10 +21,10 @@
 | Nothing but the Truth | 6.00% | ~3 |
 | Changing the World | 6.00% | ~3 |
 | Sponsor | 4.00% | ~2 |
+| Craftsmen | 4.00% | ~2 |
 | Defeat Tezuth | 4.00% | ~2 |
 | The A-Team | 4.00% | ~2 |
 | Mirror, Mirror on the Wall | 2.00% | ~1 |
-| Craftsmen | 2.00% | ~1 |
 | Defeat Ingla | 2.00% | ~1 |
 | Defeat Uskol | 2.00% | ~1 |
 | Mountain Lover | 2.00% | ~1 |

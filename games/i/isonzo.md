@@ -35,7 +35,7 @@ Number of Ratings: 98  (23.09.2022)
 | Millenial | 10.00% | ~667 |
 | The Show Must Go On | 9.00% | ~601 |
 | Tosca | 9.00% | ~601 |
-| 12th Bottle of the Isonzo | 6.00% | ~400 |
+| 12th Bottle of the Isonzo | 7.00% | ~467 |
 | Cercatore d'Oro | 6.00% | ~400 |
 | The Enlightment | 6.00% | ~400 |
 | Generalissimo | 5.00% | ~334 |

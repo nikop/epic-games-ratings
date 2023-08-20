@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 120,
   "Ranking_EOS_NewPlayers": 37,
-  "Ranking_EOS_NewCompleters": 14,
+  "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -5900,11 +5900,17 @@
       "Rating": 4.06,
       "NumberOfAwards": 31141,
       "NumberOfAwardsMax": 5169
+    },
+    {
+      "Time": "2023-08-20T15:00:19.1503464+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 31145,
+      "NumberOfAwardsMax": 5173
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 31141,
-  "NumberOfAwardsMax": 5169,
+  "NumberOfAwards": 31145,
+  "NumberOfAwardsMax": 5173,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -5917,7 +5923,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 5169
+      "Count": 5173
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5950,9 +5956,9 @@
       "Count": 3364
     }
   ],
-  "EOS_Progressed": 223592,
+  "EOS_Progressed": 223609,
   "EOS_Completed": 2193,
-  "EOS_NewPlayers": 2105,
+  "EOS_NewPlayers": 2103,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -19250,6 +19256,11 @@
       "Time": "2023-08-20T14:06:29.4615494+00:00",
       "NumProgressed": 223592,
       "NumCompleted": 2193
+    },
+    {
+      "Time": "2023-08-20T15:05:58.1714427+00:00",
+      "NumProgressed": 223609,
+      "NumCompleted": 2193
     }
   ],
   "TotalAchievements": 516,
@@ -19883,9 +19894,9 @@
       "ID": "objective_completed_1152",
       "SetID": "415jc5c",
       "Name": "Seeds of Destruction",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 190
+      "UsersEstimate": 380
     },
     {
       "ID": "objective_completed_1153",
@@ -23373,7 +23384,7 @@
       "Name": "To Infinity\u0027s and Beyond",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "objective_completed_1401",
@@ -23388,21 +23399,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 189866,
+      "Progressed": 189883,
       "Completed": 3276
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 223592,
+      "Progressed": 223609,
       "Completed": 2193
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-08-20T09:59:31.2979576+00:00",
-  "LastChanged_Achievements": "2023-08-20T14:06:29.4615488+00:00",
+  "LastChanged": "2023-08-20T15:00:19.1503462+00:00",
+  "LastChanged_Achievements": "2023-08-20T15:05:58.1714418+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:12.3267162+00:00",
-  "LastUpdate_Ratings": "2023-08-20T14:00:51.2860303+00:00",
-  "LastUpdate_Achievements": "2023-08-20T14:06:29.4647253+00:00"
+  "LastUpdate_Ratings": "2023-08-20T15:00:19.1503469+00:00",
+  "LastUpdate_Achievements": "2023-08-20T15:05:58.1742473+00:00"
 }

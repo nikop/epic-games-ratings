@@ -14,14 +14,14 @@
 | Bottoms up! | 4.00% | ~340 |
 | Data Logger | 3.00% | ~255 |
 | Data Master | 1.00% | ~85 |
-| Urshanabi Hoarder | 0.90% | ~76 |
+| Urshanabi Hoarder | 0.90% | ~77 |
 | Debris Spree | 0.60% | ~51 |
-| Data Archivist | 0.10% | ~8 |
-| Miraculous Maya | 0.10% | ~8 |
-| Khan's Revenge | 0.10% | ~8 |
-| Call it Even | 0.10% | ~8 |
-| Bosmang | 0.10% | ~8 |
-| No Belter Left Behind | 0.10% | ~8 |
+| Data Archivist | 0.10% | ~9 |
+| Miraculous Maya | 0.10% | ~9 |
+| Khan's Revenge | 0.10% | ~9 |
+| Call it Even | 0.10% | ~9 |
+| Bosmang | 0.10% | ~9 |
+| No Belter Left Behind | 0.10% | ~9 |
 | Data Miner | 0.00% | ~0 |
 | The Pit and the Pirates | 0.00% | ~0 |
 | Oyedang, Kopengs | 0.00% | ~0 |
@@ -35,7 +35,7 @@
 | Data Recoverer | 0.00% | ~0 |
 | Impossible Objects | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,499 (Ranked 128)  
+Progressed: 8,501 (Ranked 128)  
 Completed: 0 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,4 +64,4 @@ Completed: 0 (0.00%) (Ranked 261)
 | 2023-08-17 | 8,132 | 0 |
 | 2023-08-18 | 8,289 | 0 |
 | 2023-08-19 | 8,429 | 0 |
-| 2023-08-20 | 8,499 | 0 |
+| 2023-08-20 | 8,501 | 0 |

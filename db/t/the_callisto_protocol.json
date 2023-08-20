@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 316,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1094,9 +1094,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 15874,
+  "EOS_Progressed": 15875,
   "EOS_Completed": 73,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -6564,6 +6564,11 @@
       "Time": "2023-08-20T13:05:49.0726752+00:00",
       "NumProgressed": 15874,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2023-08-20T15:04:22.4787409+00:00",
+      "NumProgressed": 15875,
+      "NumCompleted": 73
     }
   ],
   "TotalAchievements": 47,
@@ -6591,7 +6596,7 @@
       "Name": "Giving Back",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -6711,7 +6716,7 @@
       "Name": "Terminated",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -6727,7 +6732,7 @@
       "Name": "The Commonality",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -6807,7 +6812,7 @@
       "Name": "Desperate Times",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -6950,13 +6955,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15874,
+      "Progressed": 15875,
       "Completed": 73
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3800,
+      "Progressed": 3801,
       "Completed": 29
     }
   ],
@@ -6964,8 +6969,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-08-19T23:00:13.7773693+00:00",
-  "LastChanged_Achievements": "2023-08-20T14:04:36.0980316+00:00",
+  "LastChanged_Achievements": "2023-08-20T15:04:22.4787402+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:05.6628472+00:00",
-  "LastUpdate_Ratings": "2023-08-20T14:00:42.8604004+00:00",
-  "LastUpdate_Achievements": "2023-08-20T14:04:36.0981107+00:00"
+  "LastUpdate_Ratings": "2023-08-20T15:00:13.1690591+00:00",
+  "LastUpdate_Achievements": "2023-08-20T15:04:22.4788364+00:00"
 }

@@ -8,7 +8,7 @@ Rating: 4.18 (Ranked 873)
 | First Step Into the Knight | 50.00% | ~33,962 |
 | Har, Har, Har, Very Funny | 35.00% | ~23,773 |
 | Loose Ends | 34.00% | ~23,094 |
-| To the Victor Go the Spoils | 28.00% | ~19,018 |
+| To the Victor Go the Spoils | 28.00% | ~19,019 |
 | Knighthood | 27.00% | ~18,339 |
 | Get ReQ'd | 25.00% | ~16,981 |
 | Whispered Words | 25.00% | ~16,981 |
@@ -19,13 +19,13 @@ Rating: 4.18 (Ranked 873)
 | Working Hard or Harley Working? | 20.00% | ~13,585 |
 | Unstoppable Force | 20.00% | ~13,585 |
 | Bad Apples in Every Orchard | 20.00% | ~13,585 |
-| Snow Problem | 19.00% | ~12,905 |
+| Snow Problem | 19.00% | ~12,906 |
 | The Show Mud Go On | 18.00% | ~12,226 |
 | From Inside Gotham's Walls | 18.00% | ~12,226 |
 | Protector of Gotham | 16.00% | ~10,868 |
 | Universal Health Scare | 16.00% | ~10,868 |
-| In Your Element | 15.00% | ~10,188 |
-| Voiceless | 15.00% | ~10,188 |
+| In Your Element | 15.00% | ~10,189 |
+| Voiceless | 15.00% | ~10,189 |
 | Rock and a Hard Place | 14.00% | ~9,509 |
 | Cooldown | 14.00% | ~9,509 |
 | Seeking Asylum | 14.00% | ~9,509 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 873)
 | Element of Surprise | 0.20% | ~76 |
 | It's Nice to Be Wanted | 0.20% | ~76 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,923 (Ranked 80)  
+Progressed: 67,924 (Ranked 80)  
 Completed: 108 (0.16%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,14 +189,14 @@ Completed: 108 (0.16%) (Ranked 193)
 | 2023-08-17 | 67,881 | 107 |
 | 2023-08-18 | 67,896 | 107 |
 | 2023-08-19 | 67,915 | 108 |
-| 2023-08-20 | 67,923 | 108 |
+| 2023-08-20 | 67,924 | 108 |
 ## Awards
-Max (Great Boss Battles): 2,507  (Ranked 100)  
-Sum: 4,177 (Ranked 139)  
+Max (Great Boss Battles): 2,510  (Ranked 100)  
+Sum: 4,180 (Ranked 139)  
 Diff (max vs sum): -39  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,507 |
+| This game has Great Boss Battles | 2,510 |
 | This game is Extremely Fun | 215 |
 | This game is Relaxing | 214 |
 | This game has Quickly Understood Controls | 213 |
@@ -387,4 +387,4 @@ Diff (max vs sum): -39
 | 2023-08-17 | 4.18 | 2,505 | 4,169 |
 | 2023-08-18 | 4.18 | 2,507 | 4,175 |
 | 2023-08-19 | 4.18 | 2,507 | 4,176 |
-| 2023-08-20 | 4.18 | 2,507 | 4,177 |
+| 2023-08-20 | 4.18 | 2,510 | 4,180 |

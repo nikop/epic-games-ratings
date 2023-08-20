@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 488,
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -346,9 +346,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 39726,
+  "EOS_Progressed": 39728,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7551,6 +7551,11 @@
       "Time": "2023-08-20T14:05:33.3984386+00:00",
       "NumProgressed": 39726,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-20T15:05:10.3849919+00:00",
+      "NumProgressed": 39728,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -7898,7 +7903,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3575
+      "UsersEstimate": 3576
     },
     {
       "ID": "SPRING_ALL",
@@ -7985,22 +7990,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 39726,
+      "Progressed": 39728,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 4563,
-      "Completed": 4563
+      "Progressed": 4565,
+      "Completed": 4565
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-08-20T03:03:04.688758+00:00",
-  "LastChanged_Achievements": "2023-08-20T14:05:33.3984382+00:00",
+  "LastChanged_Achievements": "2023-08-20T15:05:10.3849912+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:51.1296088+00:00",
-  "LastUpdate_Ratings": "2023-08-20T14:01:17.4782398+00:00",
-  "LastUpdate_Achievements": "2023-08-20T14:05:33.3986726+00:00"
+  "LastUpdate_Ratings": "2023-08-20T15:00:43.5828697+00:00",
+  "LastUpdate_Achievements": "2023-08-20T15:05:10.3850958+00:00"
 }

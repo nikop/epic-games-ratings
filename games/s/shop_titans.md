@@ -27,6 +27,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Through Repetition, Perfection | 0.50% | ~674 |
 | On the Path to Greatness | 0.40% | ~539 |
 | Ascended | 0.40% | ~539 |
+| Vanity, Verily | 0.40% | ~539 |
 | Blank Page Syndrome | 0.40% | ~539 |
 | Demand for Supplies | 0.40% | ~539 |
 | Where it Hurts | 0.40% | ~539 |
@@ -42,7 +43,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Tax not Included | 0.30% | ~404 |
 | The King's Caprice | 0.30% | ~404 |
 | Research & Development | 0.30% | ~404 |
-| Vanity, Verily | 0.30% | ~404 |
 | Big Game Hunting | 0.30% | ~404 |
 | Fated Encounters | 0.30% | ~404 |
 | For the Hoard! | 0.30% | ~404 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.10% | ~135 |
 | All Accounted For | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,829 (Ranked 66)  
+Progressed: 134,832 (Ranked 66)  
 Completed: 133 (0.10%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,14 +241,14 @@ Completed: 133 (0.10%) (Ranked 208)
 | 2023-08-17 | 134,688 | 133 |
 | 2023-08-18 | 134,736 | 133 |
 | 2023-08-19 | 134,791 | 133 |
-| 2023-08-20 | 134,829 | 133 |
+| 2023-08-20 | 134,832 | 133 |
 ## Awards
-Max (Great for Beginners): 4,705  (Ranked 71)  
-Sum: 27,114 (Ranked 47)  
+Max (Great for Beginners): 4,706  (Ranked 71)  
+Sum: 27,115 (Ranked 47)  
 Diff (max vs sum): 24  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 4,705 |
+| This game is Great for Beginners | 4,706 |
 | This game is Relaxing | 4,002 |
 | This game has Quickly Understood Controls | 3,987 |
 | This game has Diverse Characters | 3,854 |
@@ -467,3 +467,4 @@ Diff (max vs sum): 24
 | 2023-08-17 | 3.99 | - | 4,704 | 27,109 |
 | 2023-08-18 | 3.99 | - | 4,704 | 27,110 |
 | 2023-08-19 | 3.99 | - | 4,705 | 27,114 |
+| 2023-08-20 | 3.99 | - | 4,706 | 27,115 |

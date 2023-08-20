@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 351,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -780,7 +780,7 @@
   ],
   "EOS_Progressed": 6673,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -4632,9 +4632,9 @@
       "ID": "ISONZO_ACH_12TH_BOTTLE_OF_THE_ISONZO",
       "SetID": "akchbl3",
       "Name": "12th Bottle of the Isonzo",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 400
+      "UsersEstimate": 467
     },
     {
       "ID": "ISONZO_ACH_AURELIO_BARUZZI",
@@ -5001,8 +5001,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-08-10T01:59:14.1654715+00:00",
-  "LastChanged_Achievements": "2023-08-20T14:08:24.815921+00:00",
+  "LastChanged_Achievements": "2023-08-20T15:07:37.7078263+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:58:05.3103209+00:00",
-  "LastUpdate_Ratings": "2023-08-20T14:00:03.3832273+00:00",
-  "LastUpdate_Achievements": "2023-08-20T14:08:24.8159845+00:00"
+  "LastUpdate_Ratings": "2023-08-20T14:59:37.7769604+00:00",
+  "LastUpdate_Achievements": "2023-08-20T15:07:37.7078913+00:00"
 }

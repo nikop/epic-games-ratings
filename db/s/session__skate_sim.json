@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 310,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -880,9 +880,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2737,
+  "EOS_Progressed": 2738,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4060,6 +4060,11 @@
       "Time": "2023-08-20T14:05:15.537475+00:00",
       "NumProgressed": 2737,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-20T15:04:55.3553231+00:00",
+      "NumProgressed": 2738,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4103,7 +4108,7 @@
       "Name": "Cops called!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "ACH_CROSS-LOCK-COUNTRY",
@@ -4183,7 +4188,7 @@
       "Name": "G.O.A.T. status",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "ACH_GOLDEN",
@@ -4255,7 +4260,7 @@
       "Name": "Manny Destroys All",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "ACH_MANY-PLYS-LATER",
@@ -4295,7 +4300,7 @@
       "Name": "Prince of Philly",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "ACH_PURPLE-PASSION",
@@ -4311,7 +4316,7 @@
       "Name": "Renaissance man",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "ACH_SKATEPARK-HERO",
@@ -4343,7 +4348,7 @@
       "Name": "Tank commander",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "ACH_THAT-PINCH",
@@ -4431,7 +4436,7 @@
       "Name": "We get it, you\u0027re good",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "ACH_WELCOME-TO-THE-FAMILY",
@@ -4454,15 +4459,15 @@
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2737,
+      "Progressed": 2738,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-08-12T21:02:33.3554881+00:00",
-  "LastChanged_Achievements": "2023-08-20T14:05:15.5374745+00:00",
+  "LastChanged_Achievements": "2023-08-20T15:04:55.3553221+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:39.161743+00:00",
-  "LastUpdate_Ratings": "2023-08-20T14:02:09.2098797+00:00",
-  "LastUpdate_Achievements": "2023-08-20T14:05:15.5375503+00:00"
+  "LastUpdate_Ratings": "2023-08-20T15:01:24.3431592+00:00",
+  "LastUpdate_Achievements": "2023-08-20T15:04:55.3553789+00:00"
 }

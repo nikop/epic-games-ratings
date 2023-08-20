@@ -25,10 +25,10 @@ Rating: 4.20 (Ranked 858)
 | Full Circle | 3.00% | ~476 |
 | Power Up | 3.00% | ~476 |
 | It's Time | 3.00% | ~114 |
-| Giving Back | 2.00% | ~317 |
-| Terminated | 2.00% | ~317 |
-| The Commonality | 2.00% | ~317 |
-| Desperate Times | 2.00% | ~317 |
+| Giving Back | 2.00% | ~318 |
+| Terminated | 2.00% | ~318 |
+| The Commonality | 2.00% | ~318 |
+| Desperate Times | 2.00% | ~318 |
 | One Last Job | 2.00% | ~76 |
 | In Striking Distance | 1.00% | ~159 |
 | This Isn't About Escape | 0.90% | ~34 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 858)
 | Don't Let It Mellow | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,874 (Ranked 115)  
+Progressed: 15,875 (Ranked 115)  
 Completed: 73 (0.46%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,7 +173,7 @@ Completed: 73 (0.46%) (Ranked 151)
 | 2023-08-16 | 15,867 | 73 |
 | 2023-08-18 | 15,869 | 73 |
 | 2023-08-19 | 15,870 | 73 |
-| 2023-08-20 | 15,874 | 73 |
+| 2023-08-20 | 15,875 | 73 |
 ## Awards
 Max (Amazing Storytelling): 73  (Ranked 374)  
 Sum: 410 (Ranked 316)  

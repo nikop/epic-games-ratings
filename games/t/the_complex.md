@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Tough Decision | 93.00% | ~499 |
 | Blast From The Past | 85.00% | ~456 |
-| Kamikaze | 64.00% | ~344 |
+| Kamikaze | 65.00% | ~349 |
 | The Rebel And The Doctor | 59.00% | ~317 |
 | Beat It | 53.00% | ~285 |
 | Storage Hunter | 48.00% | ~258 |
@@ -22,11 +22,11 @@
 | The Promise | 10.00% | ~54 |
 | People Pleaser | 9.00% | ~48 |
 | The Nano Glitches And The Martyr | 8.00% | ~43 |
-| Second Chances | 7.00% | ~38 |
+| Second Chances | 8.00% | ~43 |
 | Not A People Person | 4.00% | ~21 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 537 (Ranked 222)  
-Completed: 17 (3.17%) (Ranked 70)  
+Completed: 17 (3.17%) (Ranked 69)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

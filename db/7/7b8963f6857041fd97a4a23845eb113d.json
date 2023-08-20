@@ -4,7 +4,7 @@
   "ProductSlug": "daydream-forgotten-sorrow-6025c9",
   "Ranking_EOS_Progress": 397,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewPlayers": 286,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-06-14T14:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 32,
+  "EOS_Progressed": 33,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -176,6 +176,11 @@
       "Time": "2023-08-18T01:44:30.7734993+00:00",
       "NumProgressed": 32,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-20T15:07:06.8465407+00:00",
+      "NumProgressed": 33,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 14,
@@ -193,7 +198,7 @@
       "ID": "CH1_FIRST",
       "SetID": "6d348d1",
       "Name": "On a Journey!",
-      "Percentage": 78,
+      "Percentage": 76,
       "XP": 70,
       "UsersEstimate": 25
     },
@@ -217,7 +222,7 @@
       "ID": "CH2_PLANE",
       "SetID": "6d348d1",
       "Name": "Winds of Change",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 70,
       "UsersEstimate": 4
     },
@@ -241,9 +246,9 @@
       "ID": "CH3_FLOWER",
       "SetID": "6d348d1",
       "Name": "The Flower",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 70,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "CH3_OOPS",
@@ -265,7 +270,7 @@
       "ID": "CH4_CLOAKROOM",
       "SetID": "6d348d1",
       "Name": "The Last Drawing",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 70,
       "UsersEstimate": 4
     },
@@ -298,14 +303,14 @@
     {
       "ID": "6d348d1",
       "IsBase": true,
-      "Progressed": 32,
+      "Progressed": 33,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T16:57:07.6621394+00:00",
   "FirstSeenAchievements": "2023-06-01T12:01:12.0964223+00:00",
-  "LastChanged_Achievements": "2023-08-20T14:07:49.0837904+00:00",
+  "LastChanged_Achievements": "2023-08-20T15:07:06.8465402+00:00",
   "LastUpdate_AppInfo": "2023-08-17T18:57:05.1416349+00:00",
-  "LastUpdate_Ratings": "2023-08-20T13:59:11.8338921+00:00",
-  "LastUpdate_Achievements": "2023-08-20T14:07:49.0838024+00:00"
+  "LastUpdate_Ratings": "2023-08-20T14:58:53.728639+00:00",
+  "LastUpdate_Achievements": "2023-08-20T15:07:06.8465547+00:00"
 }

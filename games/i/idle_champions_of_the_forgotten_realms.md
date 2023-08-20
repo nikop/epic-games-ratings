@@ -11,12 +11,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Cursed Farmer | 0.50% | ~1,118 |
 | The Hunt for The Last Breath | 0.50% | ~949 |
 | The Mad Wizard | 0.40% | ~894 |
-| To Infinity's and Beyond | 0.40% | ~759 |
+| To Infinity's and Beyond | 0.40% | ~760 |
 | The Ring of Regeneration | 0.30% | ~671 |
 | Maddening | 0.20% | ~447 |
 | Tall Tales | 0.20% | ~380 |
 | The Silken Swamp | 0.20% | ~447 |
 | Supply Run | 0.20% | ~447 |
+| Seeds of Destruction | 0.20% | ~380 |
 | Were-verpowered | 0.20% | ~447 |
 | A Persistent Buzzing | 0.20% | ~447 |
 | Beast Mode | 0.20% | ~447 |
@@ -105,7 +106,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Strength of Character | 0.10% | ~190 |
 | The Invisible Wizards of Thay | 0.10% | ~190 |
 | Heavy Burden | 0.10% | ~224 |
-| Seeds of Destruction | 0.10% | ~190 |
 | Speeds of Destruction | 0.10% | ~190 |
 | Owlbear Necessities | 0.10% | ~190 |
 | The Evacuation of Waterdeep | 0.10% | ~190 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~190 |
 | Animated Giff | 0.10% | ~190 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 223,592 (Ranked 53)  
+Progressed: 223,609 (Ranked 53)  
 Completed: 2,193 (0.98%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -645,14 +645,14 @@ Completed: 2,193 (0.98%) (Ranked 120)
 | 2023-08-17 | 222,852 | 2,189 |
 | 2023-08-18 | 223,142 | 2,190 |
 | 2023-08-19 | 223,443 | 2,193 |
-| 2023-08-20 | 223,592 | 2,193 |
+| 2023-08-20 | 223,609 | 2,193 |
 ## Awards
-Max (Diverse Characters): 5,169  (Ranked 68)  
-Sum: 31,141 (Ranked 38)  
+Max (Diverse Characters): 5,173  (Ranked 68)  
+Sum: 31,145 (Ranked 38)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 5,169 |
+| This game has Diverse Characters | 5,173 |
 | This game is Great for Beginners | 5,129 |
 | This game has Quickly Understood Controls | 4,729 |
 | This game is Relaxing | 4,615 |
@@ -868,4 +868,4 @@ Diff (max vs sum): 30
 | 2023-08-17 | 4.06 | - | 5,162 | 31,100 |
 | 2023-08-18 | 4.06 | - | 5,167 | 31,122 |
 | 2023-08-19 | 4.06 | - | 5,169 | 31,135 |
-| 2023-08-20 | 4.06 | - | 5,169 | 31,141 |
+| 2023-08-20 | 4.06 | - | 5,173 | 31,145 |

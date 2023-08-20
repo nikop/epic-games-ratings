@@ -384,17 +384,17 @@
       "ID": "ACH_BREW_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "First Brew",
-      "Percentage": 88,
+      "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ACH_BREW_LATTEART_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "It\u0027s a masterpiece!",
-      "Percentage": 83,
+      "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ACH_CAT_SHELTER",
@@ -648,9 +648,9 @@
       "ID": "ACH_TRASH_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "Let me start over",
-      "Percentage": 69,
+      "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_TRUE_FAN",
@@ -736,9 +736,9 @@
       "ID": "ACH_WRONG_BREW_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "Is this it?",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     }
   ],
   "AchievementSets": [
@@ -751,8 +751,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-08-20T14:03:42.2004538+00:00",
+  "LastChanged_Achievements": "2023-08-20T15:03:45.2466447+00:00",
   "LastUpdate_AppInfo": "2023-08-15T09:57:15.0054374+00:00",
-  "LastUpdate_Ratings": "2023-08-20T13:59:13.5729538+00:00",
-  "LastUpdate_Achievements": "2023-08-20T14:03:42.200524+00:00"
+  "LastUpdate_Ratings": "2023-08-20T14:58:55.2260685+00:00",
+  "LastUpdate_Achievements": "2023-08-20T15:03:45.2467097+00:00"
 }

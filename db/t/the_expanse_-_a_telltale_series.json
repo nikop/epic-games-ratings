@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8499,
+  "EOS_Progressed": 8501,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1176,
+  "EOS_NewPlayers": 1172,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2642,6 +2642,11 @@
       "Time": "2023-08-20T14:08:09.8298908+00:00",
       "NumProgressed": 8499,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-20T15:07:24.668951+00:00",
+      "NumProgressed": 8501,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -2654,7 +2659,7 @@
       "Name": "Urshanabi Hoarder",
       "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "10",
@@ -2678,7 +2683,7 @@
       "Name": "Data Archivist",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "13",
@@ -2782,7 +2787,7 @@
       "Name": "Miraculous Maya",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "25",
@@ -2790,7 +2795,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "26",
@@ -2798,7 +2803,7 @@
       "Name": "Call it Even",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "27",
@@ -2806,7 +2811,7 @@
       "Name": "Bosmang",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "28",
@@ -2838,7 +2843,7 @@
       "Name": "No Belter Left Behind",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "4",
@@ -2893,14 +2898,14 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 8499,
+      "Progressed": 8501,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged_Achievements": "2023-08-20T14:08:09.8298902+00:00",
+  "LastChanged_Achievements": "2023-08-20T15:07:24.6689503+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:40.3624587+00:00",
-  "LastUpdate_Ratings": "2023-08-20T14:02:09.0209051+00:00",
-  "LastUpdate_Achievements": "2023-08-20T14:08:09.8299382+00:00"
+  "LastUpdate_Ratings": "2023-08-20T15:01:24.1738299+00:00",
+  "LastUpdate_Achievements": "2023-08-20T15:07:24.6689959+00:00"
 }

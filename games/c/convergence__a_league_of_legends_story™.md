@@ -6,8 +6,8 @@ Rating: 4.60 (Ranked 391)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 25.00% | ~209 |
+| The Mysterious Stranger | 21.00% | ~176 |
 | Rail Rat | 21.00% | ~176 |
-| The Mysterious Stranger | 20.00% | ~167 |
 | The Prince in Heels | 19.00% | ~159 |
 | Immaculate Aim | 19.00% | ~159 |
 | The Steel Shadow | 18.00% | ~150 |

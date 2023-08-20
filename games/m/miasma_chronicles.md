@@ -5,35 +5,35 @@ Rating: 4.42 (Ranked 672)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~1,260 |
+| First Blood | 92.00% | ~1,261 |
 | Ranidaphobia | 78.00% | ~1,069 |
 | Aspiring Editor | 75.00% | ~1,028 |
-| Gun for Hire | 70.00% | ~959 |
+| Gun for Hire | 70.00% | ~960 |
 | I am the law! | 64.00% | ~877 |
-| Lumberjack | 53.00% | ~726 |
-| Croaked | 49.00% | ~671 |
+| Lumberjack | 53.00% | ~727 |
+| Croaked | 49.00% | ~672 |
 | Limp Richard | 48.00% | ~658 |
 | Exorcist | 48.00% | ~658 |
 | From Darkness to Light | 48.00% | ~658 |
 | Editor Adept | 47.00% | ~644 |
-| Giant Killer | 45.00% | ~616 |
-| Sensei | 43.00% | ~589 |
-| Firestarter | 42.00% | ~575 |
+| Giant Killer | 45.00% | ~617 |
+| Sensei | 43.00% | ~590 |
+| Firestarter | 42.00% | ~576 |
 | The meaning of Kain | 41.00% | ~562 |
 | Technophobe | 40.00% | ~548 |
-| Recycler | 39.00% | ~534 |
-| Are you not entertained? | 35.00% | ~479 |
+| Recycler | 39.00% | ~535 |
+| Are you not entertained? | 35.00% | ~480 |
 | Ganglord | 34.00% | ~466 |
 | Jarhead | 34.00% | ~466 |
-| Infiltrator | 34.00% | ~466 |
-| Pushing Daisy | 32.00% | ~438 |
+| Infiltrator | 33.00% | ~452 |
+| Pushing Daisy | 32.00% | ~439 |
 | Experienced | 31.00% | ~425 |
 | Hold The Line | 30.00% | ~411 |
 | Endgame | 26.00% | ~356 |
 | Savior | 26.00% | ~356 |
-| There Can Be Only One! | 25.00% | ~342 |
+| There Can Be Only One! | 25.00% | ~343 |
 | Chain Killer | 23.00% | ~315 |
-| The Watchers | 22.00% | ~301 |
+| The Watchers | 22.00% | ~302 |
 | Silent but Violent | 19.00% | ~260 |
 | Commando | 16.00% | ~219 |
 | Dr Jones | 16.00% | ~219 |
@@ -46,7 +46,7 @@ Rating: 4.42 (Ranked 672)
 | Curveball | 8.00% | ~110 |
 | Dressed To Kill | 7.00% | ~96 |
 | Wipe Out | 7.00% | ~96 |
-| Master Editor | 5.00% | ~68 |
+| Master Editor | 5.00% | ~69 |
 | Attenborough | 4.00% | ~55 |
 | Cruelty | 3.00% | ~41 |
 | Bookworm | 2.00% | ~27 |
@@ -57,7 +57,7 @@ Rating: 4.42 (Ranked 672)
 | QA Has Suffered! (Redux) | 0.80% | ~11 |
 | Goaaaaal! | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,370 (Ranked 186)  
+Progressed: 1,371 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,7 +138,7 @@ Completed: 0 (0.00%) (Ranked 261)
 | 2023-08-15 | 1,367 | 0 |
 | 2023-08-16 | 1,368 | 0 |
 | 2023-08-18 | 1,369 | 0 |
-| 2023-08-20 | 1,370 | 0 |
+| 2023-08-20 | 1,371 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,9 +2,9 @@
   "ID": "267b56359a8c45ee9154861187de210b",
   "Name": "Marble It Up! Ultra",
   "ProductSlug": "marble-it-up-ultra-7b5692",
-  "Ranking_EOS_Progress": 430,
+  "Ranking_EOS_Progress": 429,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-08-17T07:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15,
+  "EOS_Progressed": 16,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -85,6 +85,11 @@
     {
       "Time": "2023-08-20T14:04:45.5810883+00:00",
       "NumProgressed": 15,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-20T15:04:30.49221+00:00",
+      "NumProgressed": 16,
       "NumCompleted": 0
     }
   ],
@@ -192,7 +197,7 @@
       "ID": "airtime_short",
       "SetID": "3448go",
       "Name": "Glider",
-      "Percentage": 27,
+      "Percentage": 25,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -216,7 +221,7 @@
       "ID": "beat_c1_gold",
       "SetID": "3448go",
       "Name": "Venture Time",
-      "Percentage": 27,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -224,7 +229,7 @@
       "ID": "beat_c1_silver",
       "SetID": "3448go",
       "Name": "Treasured Momentum",
-      "Percentage": 40,
+      "Percentage": 38,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -288,7 +293,7 @@
       "ID": "beat_c2_silver",
       "SetID": "3448go",
       "Name": "Gone for a Whirl",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -672,7 +677,7 @@
       "ID": "rolldist_mid",
       "SetID": "3448go",
       "Name": "Marathon",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -680,7 +685,7 @@
       "ID": "rolldist_short",
       "SetID": "3448go",
       "Name": "Rolling the Competition",
-      "Percentage": 67,
+      "Percentage": 63,
       "XP": 5,
       "UsersEstimate": 10
     },
@@ -785,14 +790,14 @@
     {
       "ID": "3448go",
       "IsBase": true,
-      "Progressed": 15,
+      "Progressed": 16,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2023-08-20T14:04:45.5810861+00:00",
+  "LastChanged_Achievements": "2023-08-20T15:04:30.4922092+00:00",
   "LastUpdate_AppInfo": "2023-08-16T18:57:08.5743948+00:00",
-  "LastUpdate_Ratings": "2023-08-20T13:58:14.6601449+00:00",
-  "LastUpdate_Achievements": "2023-08-20T14:04:45.5811899+00:00"
+  "LastUpdate_Ratings": "2023-08-20T14:58:02.3655957+00:00",
+  "LastUpdate_Achievements": "2023-08-20T15:04:30.4923122+00:00"
 }

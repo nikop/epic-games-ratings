@@ -4,7 +4,7 @@
   "ProductSlug": "space-elite-force-a00006",
   "Ranking_EOS_Progress": 410,
   "Ranking_EOS_Completed": 29,
-  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewPlayers": 308,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-07-27T13:00:00+00:00",
@@ -178,9 +178,9 @@
       "ID": "destroy_frigate",
       "SetID": "94981fl",
       "Name": "Frigate",
-      "Percentage": 57,
+      "Percentage": 62,
       "XP": 25,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "destroy_heavy_cruiser",
@@ -210,9 +210,9 @@
       "ID": "double_orbs",
       "SetID": "94981fl",
       "Name": "double orbs",
-      "Percentage": 62,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "double_score",
@@ -298,9 +298,9 @@
       "ID": "shield",
       "SetID": "94981fl",
       "Name": "shield",
-      "Percentage": 62,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "snipergun",
@@ -314,9 +314,9 @@
       "ID": "space_car",
       "SetID": "94981fl",
       "Name": "space car!",
-      "Percentage": 62,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "super_combo_10x",
@@ -338,9 +338,9 @@
       "ID": "super_killing_machine",
       "SetID": "94981fl",
       "Name": "super killing machine",
-      "Percentage": 67,
+      "Percentage": 71,
       "XP": 35,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "super_shield",
@@ -354,9 +354,9 @@
       "ID": "the_magneto",
       "SetID": "94981fl",
       "Name": "the magneto",
-      "Percentage": 71,
+      "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "the_number_one",
@@ -378,9 +378,9 @@
       "ID": "ultra_killing_machine",
       "SetID": "94981fl",
       "Name": "ultra killing machine",
-      "Percentage": 62,
+      "Percentage": 67,
       "XP": 60,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     }
   ],
   "AchievementSets": [
@@ -393,8 +393,8 @@
   ],
   "FirstSeen": "2023-08-06T03:57:23.4648086+00:00",
   "FirstSeenAchievements": "2023-07-21T11:01:15.84918+00:00",
-  "LastChanged_Achievements": "2023-08-20T14:06:20.2747272+00:00",
+  "LastChanged_Achievements": "2023-08-20T15:05:50.0640018+00:00",
   "LastUpdate_AppInfo": "2023-08-18T13:00:07.9458229+00:00",
-  "LastUpdate_Ratings": "2023-08-20T13:58:55.5359492+00:00",
-  "LastUpdate_Achievements": "2023-08-20T14:06:20.2747528+00:00"
+  "LastUpdate_Ratings": "2023-08-20T14:58:39.8369125+00:00",
+  "LastUpdate_Achievements": "2023-08-20T15:05:50.0640236+00:00"
 }

@@ -5612,11 +5612,17 @@
       "Rating": 3.99,
       "NumberOfAwards": 27114,
       "NumberOfAwardsMax": 4705
+    },
+    {
+      "Time": "2023-08-20T15:00:43.6900622+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27115,
+      "NumberOfAwardsMax": 4706
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27114,
-  "NumberOfAwardsMax": 4705,
+  "NumberOfAwards": 27115,
+  "NumberOfAwardsMax": 4706,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -5635,7 +5641,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 4705
+      "Count": 4706
     },
     {
       "Text": "This game has Easy Combat",
@@ -5668,7 +5674,7 @@
       "Count": 3735
     }
   ],
-  "EOS_Progressed": 134829,
+  "EOS_Progressed": 134832,
   "EOS_Completed": 133,
   "EOS_NewPlayers": 378,
   "EOS_NewCompleters": 1,
@@ -18163,6 +18169,11 @@
       "Time": "2023-08-20T14:07:20.3989097+00:00",
       "NumProgressed": 134829,
       "NumCompleted": 133
+    },
+    {
+      "Time": "2023-08-20T15:06:41.9288965+00:00",
+      "NumProgressed": 134832,
+      "NumCompleted": 133
     }
   ],
   "TotalAchievements": 112,
@@ -18300,9 +18311,9 @@
       "ID": "bookentry",
       "SetID": "anfd17p",
       "Name": "Vanity, Verily",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 404
+      "UsersEstimate": 539
     },
     {
       "ID": "boss01",
@@ -19069,15 +19080,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 134829,
+      "Progressed": 134832,
       "Completed": 133
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-08-19T22:01:14.0366607+00:00",
-  "LastChanged_Achievements": "2023-08-20T14:07:20.3989092+00:00",
+  "LastChanged": "2023-08-20T15:00:43.6900616+00:00",
+  "LastChanged_Achievements": "2023-08-20T15:06:41.9288958+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:50.7489496+00:00",
-  "LastUpdate_Ratings": "2023-08-20T14:01:17.5542185+00:00",
-  "LastUpdate_Achievements": "2023-08-20T14:07:20.3991776+00:00"
+  "LastUpdate_Ratings": "2023-08-20T15:00:43.6900626+00:00",
+  "LastUpdate_Achievements": "2023-08-20T15:06:41.9291758+00:00"
 }
