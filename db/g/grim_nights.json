@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 381,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 269,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-04-24T23:00:00+00:00",
     "PcReleaseDate": "2018-10-11T22:00:00+00:00",
@@ -329,9 +329,9 @@
       "ID": "ach_level2",
       "SetID": "c2c0fb6",
       "Name": "Getting somewhere",
-      "Percentage": 57,
+      "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ach_level3",
@@ -386,8 +386,8 @@
   "FirstSeenRating": "2023-04-28T10:59:29.2849969+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:04.6857767+00:00",
   "LastChanged": "2023-04-28T10:59:29.284997+00:00",
-  "LastChanged_Achievements": "2023-08-20T09:03:20.9374605+00:00",
+  "LastChanged_Achievements": "2023-08-20T10:03:33.1237016+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:29.1966587+00:00",
-  "LastUpdate_Ratings": "2023-08-20T09:01:29.9918649+00:00",
-  "LastUpdate_Achievements": "2023-08-20T09:03:20.9374712+00:00"
+  "LastUpdate_Ratings": "2023-08-20T10:00:16.7098379+00:00",
+  "LastUpdate_Achievements": "2023-08-20T10:03:33.1237149+00:00"
 }

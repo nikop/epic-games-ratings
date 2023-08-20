@@ -8,7 +8,7 @@ Number of Ratings: 401  (23.09.2022)
 | ---- | ---------- | ----- |
 | Sink Beneath the Waves | 36.00% | ~12,906 |
 | Sweet Sorrow | 18.00% | ~6,453 |
-| Rules the Waves | 17.00% | ~6,094 |
+| Rules the Waves | 17.00% | ~6,095 |
 | Thou, All-Shaking Thunder | 15.00% | ~5,378 |
 | Rival | 14.00% | ~5,019 |
 | Correspondent | 12.00% | ~4,302 |
@@ -23,7 +23,7 @@ Number of Ratings: 401  (23.09.2022)
 | Salvager | 7.00% | ~2,510 |
 | Open Your Ears | 7.00% | ~2,510 |
 | The Ascent of Man | 7.00% | ~2,510 |
-| Zee Fever | 5.00% | ~1,792 |
+| Zee Fever | 5.00% | ~1,793 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,434 |
 | Sink Beneath the Waves. Again. | 4.00% | ~1,434 |
 | Storm's Curse | 3.00% | ~1,076 |
@@ -31,16 +31,16 @@ Number of Ratings: 401  (23.09.2022)
 | Come Closer | 3.00% | ~1,076 |
 | Roaring Rise | 2.00% | ~717 |
 | I am the Captain of my Soul | 2.00% | ~717 |
-| A buoyant escape | 1.00% | ~358 |
-| Frightful, sheer, no-man-fathomed | 1.00% | ~358 |
-| The Bell Tolls | 1.00% | ~358 |
-| His bones in whispers | 1.00% | ~358 |
-| Thanks for all the fish | 1.00% | ~358 |
-| Knife, Cup and Bone | 1.00% | ~358 |
-| Those are pearls that were his eyes | 1.00% | ~358 |
-| Rosewater sailor | 1.00% | ~358 |
-| Under the zee | 1.00% | ~358 |
-| A current under zee | 1.00% | ~358 |
+| A buoyant escape | 1.00% | ~359 |
+| Frightful, sheer, no-man-fathomed | 1.00% | ~359 |
+| The Bell Tolls | 1.00% | ~359 |
+| His bones in whispers | 1.00% | ~359 |
+| Thanks for all the fish | 1.00% | ~359 |
+| Knife, Cup and Bone | 1.00% | ~359 |
+| Those are pearls that were his eyes | 1.00% | ~359 |
+| Rosewater sailor | 1.00% | ~359 |
+| Under the zee | 1.00% | ~359 |
+| A current under zee | 1.00% | ~359 |
 | Never Stop Sinking... | 0.90% | ~323 |
 | The beauty of the deep | 0.90% | ~323 |
 | The dragon in the zee | 0.90% | ~323 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~36 |
 | Ten Years at Zee | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 35,850 (Ranked 96)  
+Progressed: 35,851 (Ranked 96)  
 Completed: 3 (0.01%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 3 (0.01%) (Ranked 248)
 | 2023-08-17 | 35,697 | 3 |
 | 2023-08-18 | 35,756 | 3 |
 | 2023-08-19 | 35,823 | 3 |
-| 2023-08-20 | 35,850 | 3 |
+| 2023-08-20 | 35,851 | 3 |
 ## Awards
 Max (Character Customization): 213  (Ranked 269)  
 Sum: 283 (Ranked 343)  

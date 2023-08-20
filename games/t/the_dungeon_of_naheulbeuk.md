@@ -6,9 +6,9 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 20.00% | ~42,992 |
-| Where's that freaking Dwarf? | 2.00% | ~4,299 |
-| Alt+F4 | 2.00% | ~4,299 |
+| Sowwy! | 20.00% | ~42,996 |
+| Where's that freaking Dwarf? | 2.00% | ~4,300 |
+| Alt+F4 | 2.00% | ~4,300 |
 | Déjà vu | 1.00% | ~2,150 |
 | A beer, two curses, three companions | 1.00% | ~2,150 |
 | Sock! SOCK! | 1.00% | ~2,150 |
@@ -30,15 +30,15 @@ Number of Ratings: 118  (23.09.2022)
 | The Woman in the High Castle | 0.50% | ~1,075 |
 | A tale of adventurers not quite like the others... | 0.50% | ~1,075 |
 | %#*!$*! | 0.50% | ~1,075 |
+| The Ranger of Chaos | 0.50% | ~1,075 |
 | I am the night | 0.50% | ~1,075 |
 | Team Building Exercise | 0.50% | ~1,075 |
+| Res Judicata | 0.40% | ~860 |
 | The Famous Dungeon of Naheulbeuk | 0.40% | ~860 |
 | Dwarf Fortress | 0.40% | ~860 |
 | Look but don't touch | 0.40% | ~860 |
 | The beards of change | 0.40% | ~860 |
-| The Ranger of Chaos | 0.40% | ~860 |
 | Thieves' Guild Accreditation | 0.40% | ~860 |
-| Res Judicata | 0.30% | ~645 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.30% | ~645 |
 | Dead for good | 0.30% | ~645 |
 | Lust and Debauchery | 0.30% | ~645 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Staff cut | 0.00% | ~0 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 214,958 (Ranked 56)  
+Progressed: 214,982 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,7 +176,7 @@ Completed: 2 (0.00%) (Ranked 261)
 | 2023-08-17 | 213,783 | 2 |
 | 2023-08-18 | 214,230 | 2 |
 | 2023-08-19 | 214,804 | 2 |
-| 2023-08-20 | 214,958 | 2 |
+| 2023-08-20 | 214,982 | 2 |
 ## Awards
 Max (Character Customization): 170  (Ranked 287)  
 Sum: 211 (Ranked 365)  

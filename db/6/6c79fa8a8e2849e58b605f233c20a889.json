@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 231,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
     "PcReleaseDate": "2019-05-21T15:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2349,
+  "EOS_Progressed": 2350,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -5041,6 +5041,11 @@
       "Time": "2023-08-19T22:05:01.2000645+00:00",
       "NumProgressed": 2349,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-20T10:04:34.5470975+00:00",
+      "NumProgressed": 2350,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -5052,7 +5057,7 @@
       "Name": "Aggressor",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "AI_DRAW",
@@ -5092,7 +5097,7 @@
       "Name": "Express Yourself",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "FACE_FACE",
@@ -5100,7 +5105,7 @@
       "Name": "Face-To-Face",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "FACE_SCREEN_FACE",
@@ -5108,7 +5113,7 @@
       "Name": "Face-To-Screen-To-Face",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "FEUD_APPRENTICE",
@@ -5148,7 +5153,7 @@
       "Name": "Gonna Fly Now",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "GRASSHOPPER",
@@ -5156,7 +5161,7 @@
       "Name": "Grasshopper",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 1409
+      "UsersEstimate": 1410
     },
     {
       "ID": "GUARD_MAKER",
@@ -5227,14 +5232,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 2349,
+      "Progressed": 2350,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-08-20T09:04:53.246057+00:00",
+  "LastChanged_Achievements": "2023-08-20T10:04:34.5470967+00:00",
   "LastUpdate_AppInfo": "2023-08-15T21:57:22.8245515+00:00",
-  "LastUpdate_Ratings": "2023-08-20T08:59:18.101041+00:00",
-  "LastUpdate_Achievements": "2023-08-20T09:04:53.2460927+00:00"
+  "LastUpdate_Ratings": "2023-08-20T09:58:40.7506362+00:00",
+  "LastUpdate_Achievements": "2023-08-20T10:04:34.547171+00:00"
 }

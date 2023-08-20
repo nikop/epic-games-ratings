@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 373,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2022-12-23T00:00:00+00:00",
@@ -376,9 +376,9 @@
       "ID": "CgkIxYDzrbcPEAIQDQ",
       "SetID": "4egpam7",
       "Name": "Control Pests",
-      "Percentage": 46,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "CgkIxYDzrbcPEAIQDg",
@@ -527,8 +527,8 @@
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2023-08-20T09:07:27.1903554+00:00",
+  "LastChanged_Achievements": "2023-08-20T10:06:31.2558883+00:00",
   "LastUpdate_AppInfo": "2023-08-15T14:57:10.6397592+00:00",
-  "LastUpdate_Ratings": "2023-08-20T08:59:03.9872134+00:00",
-  "LastUpdate_Achievements": "2023-08-20T09:07:27.1903977+00:00"
+  "LastUpdate_Ratings": "2023-08-20T09:58:32.4618195+00:00",
+  "LastUpdate_Achievements": "2023-08-20T10:06:31.2559102+00:00"
 }

@@ -17,21 +17,21 @@
 | For Science! | 34.00% | ~244 |
 | Meet the Petersons | 32.00% | ~230 |
 | Stay Cool | 29.00% | ~209 |
-| KIA | 26.00% | ~187 |
+| KIA | 27.00% | ~194 |
 | Mutiny in making | 24.00% | ~173 |
 | Eco-Shuttle | 19.00% | ~137 |
 | Et tu, Astrocitizen? | 19.00% | ~137 |
 | Space Explorer | 16.00% | ~115 |
-| Hands Full | 13.00% | ~93 |
+| Hands Full | 14.00% | ~101 |
 | Gold Medalist | 12.00% | ~86 |
 | Non-Fiction | 12.00% | ~86 |
 | No Man Left Behind | 9.00% | ~65 |
 | Fix-It Felix | 8.00% | ~58 |
 | Intergalactic Breakup | 8.00% | ~58 |
 | Second Life | 8.00% | ~58 |
+| Axel jump in space! | 7.00% | ~50 |
 | First of April | 7.00% | ~50 |
 | Flawless Maegangement | 7.00% | ~50 |
-| Axel jump in space! | 6.00% | ~43 |
 | Extreme Makeover | 5.00% | ~36 |
 | The Improvinator | 3.00% | ~22 |
 | The Last Supper | 3.00% | ~22 |

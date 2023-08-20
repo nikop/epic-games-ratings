@@ -4,8 +4,8 @@
   "ProductSlug": "homeworld-deserts-of-kharak",
   "Ranking_EOS_Progress": 410,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 254,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-08-24T15:00:00+00:00",
     "PcReleaseDate": "2016-01-20T12:00:00+00:00",
@@ -468,8 +468,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-01T13:08:41.5079141+00:00",
-  "LastChanged_Achievements": "2023-08-20T09:04:49.2292493+00:00",
+  "LastChanged_Achievements": "2023-08-20T10:04:31.6678179+00:00",
   "LastUpdate_AppInfo": "2023-08-17T14:57:09.1245406+00:00",
-  "LastUpdate_Ratings": "2023-08-20T08:58:20.5628162+00:00",
-  "LastUpdate_Achievements": "2023-08-20T09:04:49.2292804+00:00"
+  "LastUpdate_Ratings": "2023-08-20T09:58:01.4328491+00:00",
+  "LastUpdate_Achievements": "2023-08-20T10:04:31.6678585+00:00"
 }

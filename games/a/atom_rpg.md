@@ -6,12 +6,12 @@ Number of Ratings: 54  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Atom Agent | 99.00% | ~1,131 |
+| Atom Agent | 99.00% | ~1,132 |
 | One HIT wonder | 35.00% | ~400 |
 | Wanderer | 35.00% | ~400 |
 | One shot, one kill | 29.00% | ~331 |
 | Traveler | 26.00% | ~297 |
-| Head Burst | 20.00% | ~228 |
+| Head Burst | 20.00% | ~229 |
 | Explorer | 18.00% | ~206 |
 | Grave Robber | 18.00% | ~206 |
 | Double agent | 15.00% | ~171 |
@@ -34,16 +34,16 @@ Number of Ratings: 54  (23.09.2022)
 | Cosmic Horror | 1.00% | ~11 |
 | Ghostbuster | 0.70% | ~8 |
 | Cheeki Breeki | 0.40% | ~5 |
-| It's a classic! | 0.40% | ~5 |
 | Comrade Yogi | 0.40% | ~5 |
 | Expert | 0.40% | ~5 |
 | Tourist Korallov | 0.40% | ~5 |
+| It's a classic! | 0.30% | ~3 |
 | Mystical relics | 0.20% | ~2 |
 | 27 Club | 0.00% | ~0 |
 | No Name, No Slogan | 0.00% | ~0 |
 | Pacifist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,142 (Ranked 191)  
+Progressed: 1,143 (Ranked 191)  
 Completed: 0 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,6 +148,7 @@ Completed: 0 (0.00%) (Ranked 261)
 | 2023-08-15 | 1,136 | 0 |
 | 2023-08-16 | 1,139 | 0 |
 | 2023-08-19 | 1,142 | 0 |
+| 2023-08-20 | 1,143 | 0 |
 ## Awards
 Max (Character Customization): 49  (Ranked 406)  
 Sum: 49 (Ranked 452)  

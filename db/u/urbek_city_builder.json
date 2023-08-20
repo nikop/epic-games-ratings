@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
     "PcReleaseDate": "2022-07-13T13:00:00+00:00",
@@ -1522,25 +1522,25 @@
       "ID": "VALDIVIA3_1",
       "SetID": "44dlcg0",
       "Name": "Full rainforest",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "VALDIVIA_1",
       "SetID": "44dlcg0",
       "Name": "Rainforest builder",
-      "Percentage": 0.3,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "VALDIVIA_2",
       "SetID": "44dlcg0",
       "Name": "Rainforest urban planner",
-      "Percentage": 0.3,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "VALDIVIA_3",
@@ -1587,8 +1587,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-08-20T09:04:39.5644321+00:00",
+  "LastChanged_Achievements": "2023-08-20T10:04:24.4085392+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:19.5551158+00:00",
-  "LastUpdate_Ratings": "2023-08-20T09:01:20.2702765+00:00",
-  "LastUpdate_Achievements": "2023-08-20T09:04:39.5645047+00:00"
+  "LastUpdate_Ratings": "2023-08-20T10:00:10.2511925+00:00",
+  "LastUpdate_Achievements": "2023-08-20T10:04:24.4086314+00:00"
 }

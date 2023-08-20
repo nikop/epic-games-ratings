@@ -45,6 +45,8 @@
 | Farming Frenzy | 0.60% | ~2 |
 | Metropolurbek Plus | 0.60% | ~2 |
 | Restorer | 0.60% | ~2 |
+| Rainforest builder | 0.60% | ~2 |
+| Rainforest urban planner | 0.60% | ~2 |
 | Welfare state | 0.60% | ~2 |
 | Anarchist paradise | 0.30% | ~1 |
 | Full archipelago | 0.30% | ~1 |
@@ -58,8 +60,7 @@
 | Restorer Plus | 0.30% | ~1 |
 | Full temperate | 0.30% | ~1 |
 | Temperate master | 0.30% | ~1 |
-| Rainforest builder | 0.30% | ~1 |
-| Rainforest urban planner | 0.30% | ~1 |
+| Full rainforest | 0.30% | ~1 |
 | Archipelago master | 0.00% | ~0 |
 | Banking empire | 0.00% | ~0 |
 | Pumpkin farmer | 0.00% | ~0 |
@@ -81,7 +82,6 @@
 | Singapore | 0.00% | ~0 |
 | Singapore Plus | 0.00% | ~0 |
 | Everyone should always do sport! | 0.00% | ~0 |
-| Full rainforest | 0.00% | ~0 |
 | Rainforest master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 316 (Ranked 258)  

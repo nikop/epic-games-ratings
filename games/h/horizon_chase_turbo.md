@@ -6,15 +6,15 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~926,596 |
-| I Need a Bigger Garage | 63.00% | ~648,617 |
-| Pump my Ride | 47.00% | ~483,889 |
-| Ghostbuster | 33.00% | ~339,752 |
-| That Was Close | 18.00% | ~185,319 |
-| Call Roadside Assistance | 17.00% | ~175,024 |
-| Quickie | 11.00% | ~113,251 |
-| California Dreamer | 7.00% | ~72,069 |
-| Can't Touch This | 5.00% | ~51,478 |
+| The First of Many | 90.00% | ~926,615 |
+| I Need a Bigger Garage | 63.00% | ~648,630 |
+| Pump my Ride | 47.00% | ~483,899 |
+| Ghostbuster | 33.00% | ~339,759 |
+| That Was Close | 18.00% | ~185,323 |
+| Call Roadside Assistance | 17.00% | ~175,027 |
+| Quickie | 11.00% | ~113,253 |
+| California Dreamer | 7.00% | ~72,070 |
+| Can't Touch This | 5.00% | ~51,479 |
 | Carménère Taster | 3.00% | ~30,887 |
 | Supersonic | 3.00% | ~30,887 |
 | Comeback | 3.00% | ~30,887 |
@@ -34,8 +34,8 @@ Number of Ratings: 1,343  (23.09.2022)
 | Brave and Bold | 1.00% | ~10,296 |
 | Crocodile Hunter | 0.90% | ~9,266 |
 | Old Master | 0.90% | ~9,266 |
-| Volcano Surfer | 0.80% | ~8,236 |
-| Otaku | 0.80% | ~8,236 |
+| Volcano Surfer | 0.80% | ~8,237 |
+| Otaku | 0.80% | ~8,237 |
 | Survivor | 0.60% | ~6,177 |
 | Getting Famous | 0.50% | ~5,148 |
 | King of the World | 0.50% | ~5,148 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Transporter | 0.10% | ~1,030 |
 | Look Mom, No Hands! | 0.10% | ~1,030 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,029,551 (Ranked 12)  
+Progressed: 1,029,572 (Ranked 12)  
 Completed: 400 (0.04%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 400 (0.04%) (Ranked 231)
 | 2023-08-17 | 1,028,133 | 399 |
 | 2023-08-18 | 1,028,649 | 400 |
 | 2023-08-19 | 1,029,317 | 400 |
-| 2023-08-20 | 1,029,551 | 400 |
+| 2023-08-20 | 1,029,572 | 400 |
 ## Awards
 Max (Great for Beginners): 153  (Ranked 296)  
 Sum: 1,255 (Ranked 229)  

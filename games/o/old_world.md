@@ -129,6 +129,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ishtar Gate in Babylon | 0.40% | ~54 |
 | Old | 0.40% | ~54 |
 | Clerics | 0.40% | ~54 |
+| Cao'an | 0.40% | ~54 |
 | Learn to Play 4 | 0.40% | ~54 |
 | Egypt | 0.40% | ~54 |
 | Rome | 0.40% | ~54 |
@@ -141,7 +142,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Peacemaker | 0.30% | ~40 |
 | Glorious Difficulty | 0.30% | ~40 |
 | Noble Difficulty | 0.30% | ~40 |
-| Cao'an | 0.30% | ~40 |
 | Persia | 0.30% | ~40 |
 | Old World Order | 0.30% | ~40 |
 | Play a Network Game | 0.30% | ~40 |

@@ -36,6 +36,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Accomplished Merchant | 0.40% | ~539 |
 | Did we pack lunch? | 0.40% | ~539 |
 | Arcane Industries | 0.40% | ~539 |
+| A Notch Above the Rest | 0.30% | ~404 |
 | A Ronin Reborn | 0.30% | ~404 |
 | Tax not Included | 0.30% | ~404 |
 | Research & Development | 0.30% | ~404 |
@@ -58,8 +59,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Seasoned Journeyman | 0.30% | ~404 |
 | Black Friday Special | 0.30% | ~404 |
 | Magical Harmony | 0.30% | ~404 |
+| Special Ingredient | 0.30% | ~404 |
 | Complete Monopoly | 0.30% | ~404 |
-| A Notch Above the Rest | 0.20% | ~270 |
 | Cream of the Crop | 0.20% | ~270 |
 | Top of the World | 0.20% | ~270 |
 | Proud Paladin | 0.20% | ~270 |
@@ -97,7 +98,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Moment of Respite | 0.20% | ~270 |
 | King's Shadow | 0.20% | ~270 |
 | Master Recycler | 0.20% | ~270 |
-| Special Ingredient | 0.20% | ~270 |
 | Exotic Commodities | 0.20% | ~270 |
 | Economy of Scarce | 0.20% | ~270 |
 | King's Blade | 0.20% | ~270 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.10% | ~135 |
 | All Accounted For | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,813 (Ranked 66)  
+Progressed: 134,818 (Ranked 66)  
 Completed: 133 (0.10%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,7 +241,7 @@ Completed: 133 (0.10%) (Ranked 208)
 | 2023-08-17 | 134,688 | 133 |
 | 2023-08-18 | 134,736 | 133 |
 | 2023-08-19 | 134,791 | 133 |
-| 2023-08-20 | 134,813 | 133 |
+| 2023-08-20 | 134,818 | 133 |
 ## Awards
 Max (Great for Beginners): 4,705  (Ranked 71)  
 Sum: 27,114 (Ranked 47)  
