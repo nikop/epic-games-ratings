@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 285,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T15:22:24+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 498,
+  "EOS_Progressed": 499,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -560,6 +560,11 @@
       "Time": "2023-08-19T16:05:20.1288549+00:00",
       "NumProgressed": 498,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-20T01:44:39.4526633+00:00",
+      "NumProgressed": 499,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 29,
@@ -593,9 +598,9 @@
       "ID": "Caring_Soul",
       "SetID": "ek310c",
       "Name": "Bosom Buddies",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 150
     },
     {
       "ID": "Doors_Closing",
@@ -689,9 +694,9 @@
       "ID": "Left_Behind",
       "SetID": "ek310c",
       "Name": "A Friend in Need...",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 229
+      "UsersEstimate": 225
     },
     {
       "ID": "Leisurely_Strol",
@@ -802,7 +807,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 498,
+      "Progressed": 499,
       "Completed": 5
     }
   ],
@@ -810,8 +815,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-08-20T00:05:21.7238081+00:00",
+  "LastChanged_Achievements": "2023-08-20T01:44:39.4526625+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:35.0854812+00:00",
-  "LastUpdate_Ratings": "2023-08-19T23:59:02.9751114+00:00",
-  "LastUpdate_Achievements": "2023-08-20T00:05:21.723846+00:00"
+  "LastUpdate_Ratings": "2023-08-20T01:38:40.8331902+00:00",
+  "LastUpdate_Achievements": "2023-08-20T01:44:39.4527035+00:00"
 }

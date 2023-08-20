@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -26,7 +26,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5322,
+  "EOS_Progressed": 5325,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
@@ -8566,6 +8566,11 @@
       "Time": "2023-08-19T21:04:17.3826458+00:00",
       "NumProgressed": 5322,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-20T01:44:34.0035559+00:00",
+      "NumProgressed": 5325,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -8577,7 +8582,7 @@
       "Name": "First Step",
       "Percentage": 38,
       "XP": 45,
-      "UsersEstimate": 2022
+      "UsersEstimate": 2024
     },
     {
       "ID": "10",
@@ -8633,7 +8638,7 @@
       "Name": "Dense Forest",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 1650
+      "UsersEstimate": 1651
     },
     {
       "ID": "3",
@@ -8641,7 +8646,7 @@
       "Name": "Cactus Vally",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 1224
+      "UsersEstimate": 1225
     },
     {
       "ID": "4",
@@ -8673,7 +8678,7 @@
       "Name": "Blue Rapids",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "8",
@@ -8696,7 +8701,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 5322,
+      "Progressed": 5325,
       "Completed": 0
     }
   ],
@@ -8704,8 +8709,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-08-20T00:05:14.5773819+00:00",
+  "LastChanged_Achievements": "2023-08-20T01:44:34.0035552+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:57.4704491+00:00",
-  "LastUpdate_Ratings": "2023-08-20T00:00:59.8499698+00:00",
-  "LastUpdate_Achievements": "2023-08-20T00:05:14.5774493+00:00"
+  "LastUpdate_Ratings": "2023-08-20T01:39:53.0188275+00:00",
+  "LastUpdate_Achievements": "2023-08-20T01:44:34.0036236+00:00"
 }

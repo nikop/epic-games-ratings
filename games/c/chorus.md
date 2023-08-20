@@ -11,9 +11,9 @@ Number of Ratings: 58  (23.09.2022)
 | Space Traveler | 78.00% | ~887 |
 | Demigod | 75.00% | ~853 |
 | The Great Destroyer | 74.00% | ~841 |
-| Shields Down | 71.00% | ~807 |
+| Shields Down | 72.00% | ~819 |
+| Safe Home | 67.00% | ~762 |
 | Helping Hand | 66.00% | ~750 |
-| Safe Home | 66.00% | ~750 |
 | Paragon | 63.00% | ~716 |
 | Old Days Born Anew | 61.00% | ~694 |
 | Full Arsenal | 57.00% | ~648 |
@@ -160,8 +160,8 @@ Completed: 13 (1.14%) (Ranked 112)
 | 2023-08-20 | 1,137 | 13 |
 ## Awards
 Max (Great Boss Battles): 32  (Ranked 455)  
-Sum: 32 (Ranked 473)  
-Diff (max vs sum): -18  
+Sum: 32 (Ranked 474)  
+Diff (max vs sum): -19  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 32 |

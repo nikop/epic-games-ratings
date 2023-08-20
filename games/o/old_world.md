@@ -427,8 +427,8 @@ Completed: 5 (0.04%) (Ranked 231)
 | 2023-08-19 | 13,485 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
-Sum: 1,795 (Ranked 206)  
-Diff (max vs sum): 58  
+Sum: 1,796 (Ranked 207)  
+Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 220 |
@@ -438,7 +438,7 @@ Diff (max vs sum): 58
 | This game is Educational | 203 |
 | This game has Challenging Combat | 194 |
 | This game has Quickly Understood Controls | 189 |
-| This game has Amazing Characters | 188 |
+| This game has Amazing Characters | 189 |
 | This game has Amazing Storytelling | 183 |
 | This game has Obsessive Gameplay | 155 |
 | This game has a Creative Community | 101 |
@@ -561,3 +561,4 @@ Diff (max vs sum): 58
 | 2023-08-15 | 4.65 | - | 219 | 1,791 |
 | 2023-08-16 | 4.65 | - | 219 | 1,792 |
 | 2023-08-19 | 4.65 | - | 220 | 1,795 |
+| 2023-08-20 | 4.65 | - | 220 | 1,796 |

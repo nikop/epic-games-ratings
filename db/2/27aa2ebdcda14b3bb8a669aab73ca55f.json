@@ -3,12 +3,12 @@
   "Name": "The Elder Scrolls Online",
   "ProductSlug": "the-elder-scrolls-online",
   "Ranking_Rating": 779,
-  "Ranking_Popularity": 133,
-  "Ranking_PopularitySum": 207,
+  "Ranking_Popularity": 132,
+  "Ranking_PopularitySum": 205,
   "Ranking_EOS_Progress": 548,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 353,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 354,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-07-20T15:00:00+00:00",
     "PcReleaseDate": "2023-07-20T15:00:00+00:00",
@@ -816,18 +816,24 @@
       "Rating": 4.32,
       "NumberOfAwards": 1791,
       "NumberOfAwardsMax": 1254
+    },
+    {
+      "Time": "2023-08-20T01:37:34.4413201+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 1832,
+      "NumberOfAwardsMax": 1285
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1791,
-  "NumberOfAwardsMax": 1254,
+  "NumberOfAwards": 1832,
+  "NumberOfAwardsMax": 1285,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1254
+      "Count": 1285
     },
     {
       "Text": "This game is Highly Recommended",
@@ -863,7 +869,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 64
+      "Count": 67
     },
     {
       "Text": "This game is Extremely Fun",
@@ -881,7 +887,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 58
+      "Count": 65
     }
   ],
   "EOS_Progressed": 0,
@@ -896,8 +902,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-20T19:00:34.5855853+00:00",
   "FirstSeenRating": "2023-07-21T13:07:17.4893089+00:00",
-  "LastChanged": "2023-08-19T22:57:04.7010835+00:00",
+  "LastChanged": "2023-08-20T01:37:34.4413199+00:00",
   "LastUpdate_AppInfo": "2023-08-17T18:57:05.3600213+00:00",
-  "LastUpdate_Ratings": "2023-08-19T23:57:19.2662841+00:00",
-  "LastUpdate_Achievements": "2023-08-20T00:04:07.9149675+00:00"
+  "LastUpdate_Ratings": "2023-08-20T01:37:34.4413206+00:00",
+  "LastUpdate_Achievements": "2023-08-20T01:43:33.7023738+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 355,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -502,9 +502,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3316,
+  "EOS_Progressed": 3317,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4137,6 +4137,11 @@
       "Time": "2023-08-19T14:06:17.0316879+00:00",
       "NumProgressed": 3316,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-20T01:45:04.9265245+00:00",
+      "NumProgressed": 3317,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 42,
@@ -4284,7 +4289,7 @@
       "Name": "Light of Levant",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "MagicIsaScience_58",
@@ -4332,7 +4337,7 @@
       "Name": "Ready for Summer",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1724
+      "UsersEstimate": 1725
     },
     {
       "ID": "ReadyforWinter_42",
@@ -4340,7 +4345,7 @@
       "Name": "Ready for Winter",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 2155
+      "UsersEstimate": 2156
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -4420,7 +4425,7 @@
       "Name": "The Power of Freedom",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "TheStuffOfLegends",
@@ -4444,7 +4449,7 @@
       "Name": "This was a mistake...",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ThroughFireAndFlame",
@@ -4468,7 +4473,7 @@
       "Name": "Venture Outward",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2487
+      "UsersEstimate": 2488
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -4483,15 +4488,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3316,
+      "Progressed": 3317,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-08-16T21:59:07.0719809+00:00",
-  "LastChanged_Achievements": "2023-08-20T00:06:07.246476+00:00",
+  "LastChanged_Achievements": "2023-08-20T01:45:04.9265239+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:00.6102177+00:00",
-  "LastUpdate_Ratings": "2023-08-20T00:01:00.5905269+00:00",
-  "LastUpdate_Achievements": "2023-08-20T00:06:07.2465605+00:00"
+  "LastUpdate_Ratings": "2023-08-20T01:39:53.4785077+00:00",
+  "LastUpdate_Achievements": "2023-08-20T01:45:04.9265849+00:00"
 }

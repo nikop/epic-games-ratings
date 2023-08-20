@@ -6,9 +6,9 @@
   "Ranking_Popularity": 71,
   "Ranking_PopularitySum": 47,
   "Ranking_EOS_Progress": 66,
-  "Ranking_EOS_Completed": 207,
+  "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -5668,7 +5668,7 @@
       "Count": 3735
     }
   ],
-  "EOS_Progressed": 134793,
+  "EOS_Progressed": 134796,
   "EOS_Completed": 133,
   "EOS_NewPlayers": 377,
   "EOS_NewCompleters": 1,
@@ -18098,6 +18098,11 @@
       "Time": "2023-08-20T00:07:36.7928826+00:00",
       "NumProgressed": 134793,
       "NumCompleted": 133
+    },
+    {
+      "Time": "2023-08-20T01:46:10.3628823+00:00",
+      "NumProgressed": 134796,
+      "NumCompleted": 133
     }
   ],
   "TotalAchievements": 112,
@@ -18355,9 +18360,9 @@
       "ID": "commonres03",
       "SetID": "anfd17p",
       "Name": "Locally Sourced",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 404
     },
     {
       "ID": "commonres04",
@@ -18891,9 +18896,9 @@
       "ID": "sell02",
       "SetID": "anfd17p",
       "Name": "Black Friday Special",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 404
     },
     {
       "ID": "sell03",
@@ -18971,9 +18976,9 @@
       "ID": "workers01",
       "SetID": "anfd17p",
       "Name": "Own the Means of Production",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 809
+      "UsersEstimate": 944
     },
     {
       "ID": "workers02",
@@ -19004,15 +19009,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 134793,
+      "Progressed": 134796,
       "Completed": 133
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-08-19T22:01:14.0366607+00:00",
-  "LastChanged_Achievements": "2023-08-20T00:07:36.7928821+00:00",
+  "LastChanged_Achievements": "2023-08-20T01:46:10.362881+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:50.7489496+00:00",
-  "LastUpdate_Ratings": "2023-08-20T00:01:41.7528744+00:00",
-  "LastUpdate_Achievements": "2023-08-20T00:07:36.7931467+00:00"
+  "LastUpdate_Ratings": "2023-08-20T01:40:20.1804761+00:00",
+  "LastUpdate_Achievements": "2023-08-20T01:46:10.3632725+00:00"
 }

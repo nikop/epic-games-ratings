@@ -2,13 +2,13 @@
   "ID": "2e09c1d223094f3798f63873548c9454",
   "Name": "Tchia",
   "ProductSlug": "tchia",
-  "Ranking_Rating": 118,
+  "Ranking_Rating": 119,
   "Ranking_Popularity": 513,
   "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 155,
   "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -212,9 +212,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7195,
+  "EOS_Progressed": 7196,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 239,
+  "EOS_NewPlayers": 240,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -6007,6 +6007,11 @@
       "Time": "2023-08-19T22:06:31.0121572+00:00",
       "NumProgressed": 7195,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-08-20T01:46:02.3764168+00:00",
+      "NumProgressed": 7196,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 21,
@@ -6090,7 +6095,7 @@
       "Name": "Globe Trotter",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 791
+      "UsersEstimate": 792
     },
     {
       "ID": "HAPPY_CAMPER",
@@ -6185,7 +6190,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7195,
+      "Progressed": 7196,
       "Completed": 32
     }
   ],
@@ -6193,8 +6198,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-08-07T01:56:04.2387619+00:00",
-  "LastChanged_Achievements": "2023-08-20T00:07:25.6521649+00:00",
+  "LastChanged_Achievements": "2023-08-20T01:46:02.3764161+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:55.8261903+00:00",
-  "LastUpdate_Ratings": "2023-08-20T00:00:57.4934132+00:00",
-  "LastUpdate_Achievements": "2023-08-20T00:07:25.6522312+00:00"
+  "LastUpdate_Ratings": "2023-08-20T01:39:51.4443834+00:00",
+  "LastUpdate_Achievements": "2023-08-20T01:46:02.3764881+00:00"
 }

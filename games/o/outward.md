@@ -6,9 +6,9 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 75.00% | ~2,487 |
-| Ready for Winter | 65.00% | ~2,155 |
-| Ready for Summer | 52.00% | ~1,724 |
+| Venture Outward | 75.00% | ~2,488 |
+| Ready for Winter | 65.00% | ~2,156 |
+| Ready for Summer | 52.00% | ~1,725 |
 | Cordon Bleu | 43.00% | ~1,426 |
 | Tapped! | 37.00% | ~1,227 |
 | Eureka | 32.00% | ~1,061 |
@@ -22,7 +22,7 @@ Number of Ratings: 266  (23.09.2022)
 | Apex Predator | 16.00% | ~531 |
 | Strange amalgams | 12.00% | ~398 |
 | The Power of Faith | 12.00% | ~398 |
-| The Power of Freedom | 9.00% | ~298 |
+| The Power of Freedom | 9.00% | ~299 |
 | Ace Detective | 8.00% | ~265 |
 | Gift from the Ancestors | 8.00% | ~265 |
 | Magic is a science | 8.00% | ~265 |
@@ -35,8 +35,8 @@ Number of Ratings: 266  (23.09.2022)
 | Ancestor's Pride | 4.00% | ~133 |
 | For All Aurai | 4.00% | ~133 |
 | Memory of a legend | 4.00% | ~133 |
-| Light of Levant | 3.00% | ~99 |
-| This was a mistake... | 3.00% | ~99 |
+| Light of Levant | 3.00% | ~100 |
+| This was a mistake... | 3.00% | ~100 |
 | Crowd Pleaser. | 2.00% | ~66 |
 | Perfect Defense | 2.00% | ~66 |
 | Power! To! The People! | 2.00% | ~66 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~10 |
 | The Absolute Pinnacle. | 0.30% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,316 (Ranked 154)  
+Progressed: 3,317 (Ranked 154)  
 Completed: 3 (0.09%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,6 +167,7 @@ Completed: 3 (0.09%) (Ranked 213)
 | 2023-08-17 | 3,310 | 3 |
 | 2023-08-18 | 3,311 | 3 |
 | 2023-08-19 | 3,316 | 3 |
+| 2023-08-20 | 3,317 | 3 |
 ## Awards
 Max (Highly Recommended): 33  (Ranked 448)  
 Sum: 242 (Ranked 355)  

@@ -4,8 +4,8 @@
   "ProductSlug": "dros-6da0b2",
   "Ranking_EOS_Progress": 444,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-08-11T01:30:00+00:00",
     "PcReleaseDate": "2023-07-20T16:00:00+00:00",
@@ -94,9 +94,9 @@
       "ID": "CAPTAIN_ARM",
       "SetID": "1k0m0ab",
       "Name": "Handy Man",
-      "Percentage": 64,
+      "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "CATCHDROG_ZLOFF",
@@ -413,8 +413,8 @@
   ],
   "FirstSeen": "2023-08-13T17:57:40.8250998+00:00",
   "FirstSeenAchievements": "2023-08-07T02:00:19.8030023+00:00",
-  "LastChanged_Achievements": "2023-08-20T00:05:23.2082706+00:00",
+  "LastChanged_Achievements": "2023-08-20T01:44:40.5702157+00:00",
   "LastUpdate_AppInfo": "2023-08-18T01:35:35.2974545+00:00",
-  "LastUpdate_Ratings": "2023-08-19T23:58:34.9156282+00:00",
-  "LastUpdate_Achievements": "2023-08-20T00:05:23.2083156+00:00"
+  "LastUpdate_Ratings": "2023-08-20T01:38:24.1561281+00:00",
+  "LastUpdate_Achievements": "2023-08-20T01:44:40.5702942+00:00"
 }

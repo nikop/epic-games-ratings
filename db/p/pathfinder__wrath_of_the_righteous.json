@@ -2,13 +2,13 @@
   "ID": "975d251af0384c88a898a996bda4881d",
   "Name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
   "ProductSlug": "pathfinder-wrath-of-the-righteous",
-  "Ranking_Rating": 118,
+  "Ranking_Rating": 119,
   "Ranking_Popularity": 117,
   "Ranking_PopularitySum": 113,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3494,9 +3494,9 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 11004,
+  "EOS_Progressed": 11005,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11014,6 +11014,11 @@
       "Time": "2023-08-19T21:05:10.7985879+00:00",
       "NumProgressed": 11004,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-20T01:45:17.8194078+00:00",
+      "NumProgressed": 11005,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -11041,7 +11046,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1320
+      "UsersEstimate": 1321
     },
     {
       "ID": "04_FithCrusade",
@@ -11225,7 +11230,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1210
+      "UsersEstimate": 1211
     },
     {
       "ID": "28_GreatUpstart",
@@ -11952,21 +11957,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9786,
+      "Progressed": 9787,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11004,
+      "Progressed": 11005,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-08-19T19:00:38.4089621+00:00",
-  "LastChanged_Achievements": "2023-08-20T00:06:25.4502762+00:00",
+  "LastChanged_Achievements": "2023-08-20T01:45:17.8194071+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:48.9326646+00:00",
-  "LastUpdate_Ratings": "2023-08-20T00:01:39.0963897+00:00",
-  "LastUpdate_Achievements": "2023-08-20T00:06:25.4505577+00:00"
+  "LastUpdate_Ratings": "2023-08-20T01:40:18.2645789+00:00",
+  "LastUpdate_Achievements": "2023-08-20T01:45:17.8196242+00:00"
 }

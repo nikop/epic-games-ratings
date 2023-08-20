@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 23,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -678,7 +678,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 214820,
+  "EOS_Progressed": 214846,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 3605,
   "EOS_NewCompleters": 1,
@@ -7568,6 +7568,11 @@
       "Time": "2023-08-20T00:03:07.1637724+00:00",
       "NumProgressed": 214820,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-20T01:41:17.561986+00:00",
+      "NumProgressed": 214846,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -7601,9 +7606,9 @@
       "ID": "BarbarianEpic",
       "SetID": "50chcgj",
       "Name": "Shiny and Cr\u00F4m",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 859
+      "UsersEstimate": 1074
     },
     {
       "ID": "BarbarianKillUsingBow",
@@ -7635,15 +7640,15 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1933
+      "UsersEstimate": 1934
     },
     {
       "ID": "Chapter3",
       "SetID": "50chcgj",
       "Name": "The plot thickens... At the tavern",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1289
+      "UsersEstimate": 1504
     },
     {
       "ID": "Chapter4",
@@ -7723,7 +7728,7 @@
       "Name": "Res Judicata",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "CompanionPriestress",
@@ -7979,7 +7984,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4296
+      "UsersEstimate": 4297
     },
     {
       "ID": "DwarfElf15Support",
@@ -7995,7 +8000,7 @@
       "Name": "Dwarf Fortress",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "DwarfInsultWin",
@@ -8027,7 +8032,7 @@
       "Name": "Sowwy!",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 42964
+      "UsersEstimate": 42969
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -8043,7 +8048,7 @@
       "Name": "GG EZ",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1933
+      "UsersEstimate": 1934
     },
     {
       "ID": "EndCombatOneHp",
@@ -8075,7 +8080,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4296
+      "UsersEstimate": 4297
     },
     {
       "ID": "FollowBraztok",
@@ -8099,7 +8104,7 @@
       "Name": "I\u0027ve seen that beard before! It was on sale, and came with a broomstick and a bucket!",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "KillDungeonLich",
@@ -8107,7 +8112,7 @@
       "Name": "Dead for good",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "KillGolbargh",
@@ -8195,7 +8200,7 @@
       "Name": "Lust and Debauchery",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "RangerEpic",
@@ -8267,7 +8272,7 @@
       "Name": "Material Girl",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "WizardResistBurn",
@@ -8275,28 +8280,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1933
+      "UsersEstimate": 1934
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 214820,
+      "Progressed": 214846,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 214820,
+      "Progressed": 214846,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-19T12:00:42.0371469+00:00",
-  "LastChanged_Achievements": "2023-08-20T00:03:07.163772+00:00",
+  "LastChanged_Achievements": "2023-08-20T01:41:17.5619853+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:36.4163589+00:00",
-  "LastUpdate_Ratings": "2023-08-20T00:02:26.4449378+00:00",
-  "LastUpdate_Achievements": "2023-08-20T00:03:07.1639373+00:00"
+  "LastUpdate_Ratings": "2023-08-20T01:40:49.2891374+00:00",
+  "LastUpdate_Achievements": "2023-08-20T01:41:17.5621543+00:00"
 }

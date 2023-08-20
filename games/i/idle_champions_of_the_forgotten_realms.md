@@ -19,6 +19,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Persistent Buzzing | 0.20% | ~447 |
 | Terror in the Dark | 0.20% | ~447 |
 | A Mysterious Summons | 0.20% | ~447 |
+| Unearthed Evil | 0.20% | ~447 |
 | The Crumbling Temple | 0.20% | ~447 |
 | Seeking Allies | 0.20% | ~447 |
 | Are Ya Chicken? | 0.20% | ~447 |
@@ -186,7 +187,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Soulmonger Calls | 0.10% | ~223 |
 | Azaka's Procession - Part 2 | 0.10% | ~223 |
 | Acererak's Puzzle | 0.10% | ~190 |
-| Unearthed Evil | 0.10% | ~223 |
 | No Time To Rest | 0.10% | ~223 |
 | The Mists of Ravenloft | 0.10% | ~223 |
 | The Hunt for Owl-y | 0.10% | ~223 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~190 |
 | Animated Giff | 0.10% | ~190 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 223,452 (Ranked 53)  
+Progressed: 223,470 (Ranked 53)  
 Completed: 2,193 (0.98%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -645,7 +645,7 @@ Completed: 2,193 (0.98%) (Ranked 120)
 | 2023-08-17 | 222,852 | 2,189 |
 | 2023-08-18 | 223,142 | 2,190 |
 | 2023-08-19 | 223,443 | 2,193 |
-| 2023-08-20 | 223,452 | 2,193 |
+| 2023-08-20 | 223,470 | 2,193 |
 ## Awards
 Max (Diverse Characters): 5,169  (Ranked 68)  
 Sum: 31,135 (Ranked 38)  

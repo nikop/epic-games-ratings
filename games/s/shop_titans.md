@@ -15,10 +15,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalism Ho! | 0.80% | ~1,078 |
 | Another Satisfied Customer | 0.70% | ~944 |
 | Budding Merchant | 0.70% | ~944 |
+| Own the Means of Production | 0.70% | ~944 |
 | One Easy Payment | 0.60% | ~809 |
 | Some Assembly Required | 0.60% | ~809 |
 | Pretty Penny | 0.60% | ~809 |
-| Own the Means of Production | 0.60% | ~809 |
 | The Daily Grind | 0.50% | ~674 |
 | Bounty Hunters | 0.50% | ~674 |
 | Flooding the Market | 0.50% | ~674 |
@@ -42,6 +42,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Big Game Hunting | 0.30% | ~404 |
 | Fated Encounters | 0.30% | ~404 |
 | For the Hoard! | 0.30% | ~404 |
+| Locally Sourced | 0.30% | ~404 |
 | Flying off the Shelves | 0.30% | ~404 |
 | This Power Level...! | 0.30% | ~404 |
 | Master of Transmutation | 0.30% | ~404 |
@@ -55,6 +56,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Helping Hand | 0.30% | ~404 |
 | Natural 20 | 0.30% | ~404 |
 | Seasoned Journeyman | 0.30% | ~404 |
+| Black Friday Special | 0.30% | ~404 |
 | Magical Harmony | 0.30% | ~404 |
 | Complete Monopoly | 0.30% | ~404 |
 | A Notch Above the Rest | 0.20% | ~270 |
@@ -68,7 +70,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Booty by the Boatload | 0.20% | ~270 |
 | Scrapbooker | 0.20% | ~270 |
 | Archivist | 0.20% | ~270 |
-| Locally Sourced | 0.20% | ~270 |
 | Fillin' the Bin | 0.20% | ~270 |
 | Industrial Evolution | 0.20% | ~270 |
 | Omae wa Mou Shindeiru | 0.20% | ~270 |
@@ -94,7 +95,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Glittering Collection | 0.20% | ~270 |
 | Treasure Trove | 0.20% | ~270 |
 | Moment of Respite | 0.20% | ~270 |
-| Black Friday Special | 0.20% | ~270 |
 | King's Shadow | 0.20% | ~270 |
 | Master Recycler | 0.20% | ~270 |
 | Special Ingredient | 0.20% | ~270 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.10% | ~135 |
 | All Accounted For | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,793 (Ranked 66)  
-Completed: 133 (0.10%) (Ranked 207)  
+Progressed: 134,796 (Ranked 66)  
+Completed: 133 (0.10%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -241,7 +241,7 @@ Completed: 133 (0.10%) (Ranked 207)
 | 2023-08-17 | 134,688 | 133 |
 | 2023-08-18 | 134,736 | 133 |
 | 2023-08-19 | 134,791 | 133 |
-| 2023-08-20 | 134,793 | 133 |
+| 2023-08-20 | 134,796 | 133 |
 ## Awards
 Max (Great for Beginners): 4,705  (Ranked 71)  
 Sum: 27,114 (Ranked 47)  

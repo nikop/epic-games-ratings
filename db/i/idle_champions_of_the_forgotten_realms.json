@@ -5938,10 +5938,10 @@
       "Count": 3364
     }
   ],
-  "EOS_Progressed": 223452,
+  "EOS_Progressed": 223470,
   "EOS_Completed": 2193,
-  "EOS_NewPlayers": 2141,
-  "EOS_NewCompleters": 18,
+  "EOS_NewPlayers": 2142,
+  "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
@@ -19168,6 +19168,11 @@
       "Time": "2023-08-20T00:06:39.1888655+00:00",
       "NumProgressed": 223452,
       "NumCompleted": 2193
+    },
+    {
+      "Time": "2023-08-20T01:45:28.4174591+00:00",
+      "NumProgressed": 223470,
+      "NumCompleted": 2193
     }
   ],
   "TotalAchievements": 516,
@@ -20505,9 +20510,9 @@
       "ID": "objective_completed_19",
       "SetID": "cc37lbc",
       "Name": "Unearthed Evil",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 223
+      "UsersEstimate": 447
     },
     {
       "ID": "objective_completed_20",
@@ -23306,21 +23311,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 189726,
+      "Progressed": 189744,
       "Completed": 3270
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 223452,
+      "Progressed": 223470,
       "Completed": 2193
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-19T22:00:46.1981664+00:00",
-  "LastChanged_Achievements": "2023-08-20T00:06:39.188865+00:00",
+  "LastChanged_Achievements": "2023-08-20T01:45:28.4174581+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:12.3267162+00:00",
-  "LastUpdate_Ratings": "2023-08-20T00:01:12.8596362+00:00",
-  "LastUpdate_Achievements": "2023-08-20T00:06:39.1918693+00:00"
+  "LastUpdate_Ratings": "2023-08-20T01:40:00.8771759+00:00",
+  "LastUpdate_Achievements": "2023-08-20T01:45:28.4214133+00:00"
 }

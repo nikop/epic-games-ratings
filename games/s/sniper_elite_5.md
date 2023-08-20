@@ -5,15 +5,15 @@ Rating: 4.45 (Ranked 636)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 46.00% | ~1,609 |
-| Confirming Suspicions | 40.00% | ~1,399 |
-| The Kraken Wakes | 35.00% | ~1,224 |
-| It's Starting to Crack | 32.00% | ~1,119 |
-| Lord of War | 29.00% | ~1,014 |
-| Change the Channel | 29.00% | ~1,014 |
-| Taking it back | 27.00% | ~944 |
-| Resourceful | 26.00% | ~909 |
-| Target America | 25.00% | ~874 |
+| Meeting Resistance | 46.00% | ~1,610 |
+| Confirming Suspicions | 40.00% | ~1,400 |
+| The Kraken Wakes | 35.00% | ~1,225 |
+| It's Starting to Crack | 32.00% | ~1,120 |
+| Lord of War | 29.00% | ~1,015 |
+| Change the Channel | 29.00% | ~1,015 |
+| Taking it back | 27.00% | ~945 |
+| Resourceful | 26.00% | ~910 |
+| Target America | 25.00% | ~875 |
 | The Kraken Sleeps | 23.00% | ~805 |
 | Organ Grinder | 22.00% | ~770 |
 | As Quiet as a Mouse | 22.00% | ~770 |
@@ -52,8 +52,8 @@ Rating: 4.45 (Ranked 636)
 | Burn after reading | 3.00% | ~105 |
 | Souvenir hunter | 3.00% | ~105 |
 | Shoot for the Moon | 3.00% | ~105 |
-| If You Go Down To The Woods Today | 3.00% | ~103 |
-| Fight Another Day | 3.00% | ~103 |
+| If You Go Down To The Woods Today | 3.00% | ~104 |
+| Fight Another Day | 3.00% | ~104 |
 | From Paris with Love | 2.00% | ~70 |
 | Eagle Eyed | 2.00% | ~70 |
 | Up close and personal | 2.00% | ~70 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 636)
 | Stroll in the Woods | 0.60% | ~21 |
 | Going Overboard | 0.60% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,498 (Ranked 152)  
+Progressed: 3,499 (Ranked 152)  
 Completed: 9 (0.26%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,6 +198,7 @@ Completed: 9 (0.26%) (Ranked 176)
 | 2023-08-17 | 3,491 | 9 |
 | 2023-08-18 | 3,494 | 9 |
 | 2023-08-19 | 3,498 | 9 |
+| 2023-08-20 | 3,499 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

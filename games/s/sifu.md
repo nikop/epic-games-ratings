@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 5.00% | ~1,092 |
+| Diligence as a goal | 5.00% | ~1,093 |
 | Project Arena | 4.00% | ~874 |
 | The Old Grandmaster | 2.00% | ~14,251 |
 | The Assault | 2.00% | ~14,251 |
@@ -24,15 +24,15 @@ Number of Ratings: 9,492  (23.09.2022)
 | Path of the Prospect | 2.00% | ~14,251 |
 | Rumble in the Hangar | 2.00% | ~14,251 |
 | Bloody Sport | 2.00% | ~437 |
-| Furious Fists | 1.00% | ~7,125 |
-| Scareless | 1.00% | ~7,125 |
-| Dance of the Praying Mantis | 1.00% | ~7,125 |
-| Qi Gong: Mind | 1.00% | ~7,125 |
-| I know Kung-Fu | 1.00% | ~7,125 |
-| Old Child | 1.00% | ~7,125 |
-| Kung-Fu Tussle | 1.00% | ~7,125 |
-| Take damage to save time | 1.00% | ~7,125 |
-| The best strikes are the ones we avoid | 1.00% | ~218 |
+| Furious Fists | 1.00% | ~7,126 |
+| Scareless | 1.00% | ~7,126 |
+| Dance of the Praying Mantis | 1.00% | ~7,126 |
+| Qi Gong: Mind | 1.00% | ~7,126 |
+| I know Kung-Fu | 1.00% | ~7,126 |
+| Old Child | 1.00% | ~7,126 |
+| Kung-Fu Tussle | 1.00% | ~7,126 |
+| Take damage to save time | 1.00% | ~7,126 |
+| The best strikes are the ones we avoid | 1.00% | ~219 |
 | Muk Yan Master | 0.80% | ~5,700 |
 | Tiger on Fire | 0.80% | ~5,700 |
 | Detective Story | 0.80% | ~5,700 |
@@ -57,8 +57,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,425 |
 | Warriors from the Mountain | 0.10% | ~713 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 712,548 (Ranked 20)  
-Completed: 12,866 (1.81%) (Ranked 97)  
+Progressed: 712,550 (Ranked 20)  
+Completed: 12,868 (1.81%) (Ranked 97)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -179,7 +179,7 @@ Completed: 12,866 (1.81%) (Ranked 97)
 | 2023-08-17 | 712,495 | 12,861 |
 | 2023-08-18 | 712,513 | 12,863 |
 | 2023-08-19 | 712,545 | 12,866 |
-| 2023-08-20 | 712,548 | 12,866 |
+| 2023-08-20 | 712,550 | 12,868 |
 ## Awards
 Max (Great Boss Battles): 6,377  (Ranked 55)  
 Sum: 10,955 (Ranked 82)  

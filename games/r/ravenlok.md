@@ -21,11 +21,11 @@
 | Piece of Cake | 42.00% | ~452 |
 | Gooey Delight! | 42.00% | ~452 |
 | Glimmer of Hope | 42.00% | ~452 |
+| The Guardian | 41.00% | ~442 |
 | Teacups for Toppy | 41.00% | ~442 |
 | Well Rested | 41.00% | ~442 |
 | Nightmare Fuel | 40.00% | ~431 |
 | Take Heart | 40.00% | ~431 |
-| The Guardian | 40.00% | ~431 |
 | Stronger! | 40.00% | ~431 |
 | Ancient Wisdom | 39.00% | ~420 |
 | Frog Facts! | 39.00% | ~420 |
@@ -56,7 +56,7 @@
 | Bombs Away! | 9.00% | ~97 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,077 (Ranked 197)  
-Completed: 81 (7.52%) (Ranked 35)  
+Completed: 81 (7.52%) (Ranked 36)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -6,19 +6,20 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 20.00% | ~42,964 |
-| Where's that freaking Dwarf? | 2.00% | ~4,296 |
-| Alt+F4 | 2.00% | ~4,296 |
+| Sowwy! | 20.00% | ~42,969 |
+| Where's that freaking Dwarf? | 2.00% | ~4,297 |
+| Alt+F4 | 2.00% | ~4,297 |
 | Déjà vu | 1.00% | ~2,148 |
 | Sock! SOCK! | 1.00% | ~2,148 |
 | Speedrun | 1.00% | ~2,148 |
-| A beer, two curses, three companions | 0.90% | ~1,933 |
-| GG EZ | 0.90% | ~1,933 |
-| Fireproof Wizardess | 0.90% | ~1,933 |
+| A beer, two curses, three companions | 0.90% | ~1,934 |
+| GG EZ | 0.90% | ~1,934 |
+| Fireproof Wizardess | 0.90% | ~1,934 |
 | DM intervention | 0.80% | ~1,719 |
 | Way of the Wimp | 0.70% | ~1,504 |
+| The plot thickens... At the tavern | 0.70% | ~1,504 |
 | Livin' in a dwarven paradise | 0.60% | ~1,289 |
-| The plot thickens... At the tavern | 0.60% | ~1,289 |
+| Shiny and Crôm | 0.50% | ~1,074 |
 | The demons' feast | 0.50% | ~1,074 |
 | The Great Library | 0.50% | ~1,074 |
 | Torture and Sensibility | 0.50% | ~1,074 |
@@ -31,18 +32,17 @@ Number of Ratings: 118  (23.09.2022)
 | I am the night | 0.50% | ~1,074 |
 | Team Building Exercise | 0.50% | ~1,074 |
 | Oh, when I'll be level 10... | 0.50% | ~1,074 |
-| Shiny and Crôm | 0.40% | ~859 |
 | The Famous Dungeon of Naheulbeuk | 0.40% | ~859 |
 | Look but don't touch | 0.40% | ~859 |
 | The beards of change | 0.40% | ~859 |
 | The Ranger of Chaos | 0.40% | ~859 |
 | Thieves' Guild Accreditation | 0.40% | ~859 |
-| Res Judicata | 0.30% | ~644 |
-| Dwarf Fortress | 0.30% | ~644 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.30% | ~644 |
-| Dead for good | 0.30% | ~644 |
-| Lust and Debauchery | 0.30% | ~644 |
-| Material Girl | 0.30% | ~644 |
+| Res Judicata | 0.30% | ~645 |
+| Dwarf Fortress | 0.30% | ~645 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.30% | ~645 |
+| Dead for good | 0.30% | ~645 |
+| Lust and Debauchery | 0.30% | ~645 |
+| Material Girl | 0.30% | ~645 |
 | We come in peace | 0.20% | ~430 |
 | Gargantua | 0.20% | ~430 |
 | In Navalu's footsteps | 0.20% | ~430 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Staff cut | 0.00% | ~0 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 214,820 (Ranked 56)  
+Progressed: 214,846 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,7 +176,7 @@ Completed: 2 (0.00%) (Ranked 261)
 | 2023-08-17 | 213,783 | 2 |
 | 2023-08-18 | 214,230 | 2 |
 | 2023-08-19 | 214,804 | 2 |
-| 2023-08-20 | 214,820 | 2 |
+| 2023-08-20 | 214,846 | 2 |
 ## Awards
 Max (Character Customization): 170  (Ranked 287)  
 Sum: 211 (Ranked 365)  

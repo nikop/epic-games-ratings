@@ -5,13 +5,13 @@ Rating: 4.65 (Ranked 300)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eye Scream, You Scream | 83.00% | ~19,874 |
+| Eye Scream, You Scream | 83.00% | ~19,875 |
 | Mods Please Ban | 77.00% | ~18,438 |
-| Bring A Knife to a Gun Fight | 76.00% | ~18,198 |
-| Fallout Doesn't Let You Do This | 73.00% | ~17,480 |
+| Bring A Knife to a Gun Fight | 76.00% | ~18,199 |
+| Fallout Doesn't Let You Do This | 73.00% | ~17,481 |
 | First Bounty Down | 59.00% | ~14,128 |
 | We're All Very Impressed, Trust Me | 57.00% | ~13,649 |
-| Luglox Genocide | 43.00% | ~10,296 |
+| Luglox Genocide | 43.00% | ~10,297 |
 | Playing Card To Get | 33.00% | ~7,902 |
 | Don't Knife The Hand That Feeds | 33.00% | ~7,902 |
 | Creature Feature | 29.00% | ~6,944 |
@@ -30,7 +30,7 @@ Rating: 4.65 (Ranked 300)
 | Legendary Bounty Hunter | 18.00% | ~4,310 |
 | Seeing All The Sights | 16.00% | ~3,831 |
 | Carried Stan's Load To Completion | 13.00% | ~3,113 |
-| We Paid For The Rights To Put A Whole Movie In Here | 12.00% | ~2,873 |
+| We Paid For The Rights To Put A Whole Movie In Here | 12.00% | ~2,874 |
 | Eatin' Good in the Neighborhood | 9.00% | ~2,155 |
 | Sequel-Bait | 8.00% | ~1,916 |
 | Gunning For Your Job | 7.00% | ~1,676 |
@@ -38,7 +38,7 @@ Rating: 4.65 (Ranked 300)
 | Epic Legendary Prize | 1.00% | ~239 |
 | A Starfish Is Born | 1.00% | ~239 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,945 (Ranked 103)  
+Progressed: 23,946 (Ranked 103)  
 Completed: 12 (0.05%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,6 +159,7 @@ Completed: 12 (0.05%) (Ranked 228)
 | 2023-08-17 | 23,938 | 12 |
 | 2023-08-18 | 23,942 | 12 |
 | 2023-08-19 | 23,945 | 12 |
+| 2023-08-20 | 23,946 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

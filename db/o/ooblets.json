@@ -4,11 +4,11 @@
   "ProductSlug": "ooblets",
   "Ranking_Rating": 19,
   "Ranking_Popularity": 142,
-  "Ranking_PopularitySum": 205,
+  "Ranking_PopularitySum": 206,
   "Ranking_EOS_Progress": 548,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 353,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 354,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-09-01T13:00:00+00:00",
     "PcReleaseDate": "2022-09-01T13:00:00+00:00",
@@ -1548,6 +1548,6 @@
   "FirstSeen": "2022-07-22T20:27:49.4319987+00:00",
   "LastChanged": "2023-08-15T04:00:58.3254745+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:57.4417512+00:00",
-  "LastUpdate_Ratings": "2023-08-20T00:02:47.4539278+00:00",
-  "LastUpdate_Achievements": "2023-08-20T00:04:09.0044908+00:00"
+  "LastUpdate_Ratings": "2023-08-20T01:41:02.9933951+00:00",
+  "LastUpdate_Achievements": "2023-08-20T01:43:34.3998704+00:00"
 }

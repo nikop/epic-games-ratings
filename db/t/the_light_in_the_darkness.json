@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 32,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
     "PcReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2210,
+  "EOS_Progressed": 2211,
   "EOS_Completed": 198,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 8.96,
   "EosHistory": [
@@ -5113,6 +5113,11 @@
       "Time": "2023-08-19T22:05:20.4522953+00:00",
       "NumProgressed": 2210,
       "NumCompleted": 198
+    },
+    {
+      "Time": "2023-08-20T01:45:02.8339695+00:00",
+      "NumProgressed": 2211,
+      "NumCompleted": 198
     }
   ],
   "TotalAchievements": 12,
@@ -5164,7 +5169,7 @@
       "Name": "Jakob",
       "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "Jude",
@@ -5188,7 +5193,7 @@
       "Name": "Little Helper",
       "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 729
+      "UsersEstimate": 730
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -5219,7 +5224,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2210,
+      "Progressed": 2211,
       "Completed": 198
     }
   ],
@@ -5227,8 +5232,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-08-20T00:06:04.5592479+00:00",
+  "LastChanged_Achievements": "2023-08-20T01:45:02.8339685+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:24.3876502+00:00",
-  "LastUpdate_Ratings": "2023-08-20T00:02:53.8311033+00:00",
-  "LastUpdate_Achievements": "2023-08-20T00:06:04.5593074+00:00"
+  "LastUpdate_Ratings": "2023-08-20T01:41:07.1462645+00:00",
+  "LastUpdate_Achievements": "2023-08-20T01:45:02.8340398+00:00"
 }

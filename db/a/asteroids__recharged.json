@@ -3,9 +3,9 @@
   "Name": "Asteroids: Recharged",
   "ProductSlug": "asteroids-recharged",
   "Ranking_EOS_Progress": 333,
-  "Ranking_EOS_Completed": 115,
+  "Ranking_EOS_Completed": 114,
   "Ranking_EOS_NewPlayers": 269,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-12-14T16:00:00+00:00",
     "PcReleaseDate": "2021-12-14T16:00:00+00:00",
@@ -210,9 +210,9 @@
       "ID": "ACH_ALL_DEAD",
       "SetID": "ca3jj1k",
       "Name": "All Dead, All Dead",
-      "Percentage": 35,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_COOL_CAT",
@@ -314,9 +314,9 @@
       "ID": "ACH_THE_INVISIBLE",
       "SetID": "ca3jj1k",
       "Name": "The Invisible Man",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_THE_MIRACLE",
@@ -347,8 +347,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.8457032+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.0797767+00:00",
   "LastChanged": "2023-03-31T05:58:41.8457033+00:00",
-  "LastChanged_Achievements": "2023-08-20T00:07:29.225501+00:00",
+  "LastChanged_Achievements": "2023-08-20T01:46:04.9745284+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:14.8426371+00:00",
-  "LastUpdate_Ratings": "2023-08-20T00:02:05.2374127+00:00",
-  "LastUpdate_Achievements": "2023-08-20T00:07:29.2255287+00:00"
+  "LastUpdate_Ratings": "2023-08-20T01:40:35.9516763+00:00",
+  "LastUpdate_Achievements": "2023-08-20T01:46:04.9745421+00:00"
 }
