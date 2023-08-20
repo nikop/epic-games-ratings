@@ -37,8 +37,8 @@
 | 35 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 7.69% |
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.52% |
 | 37 | [Smelter](games/s/smelter.md) | 7.50% |
-| 38 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.41% |
-| 39 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.02% |
+| 38 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.27% |
+| 39 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.01% |
 | 40 | [Scorn](games/s/scorn.md) | 6.92% |
 | 41 | [Time Loader](games/t/time_loader.md) | 6.78% |
 | 42 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.75% |
@@ -74,8 +74,8 @@
 | 72 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.04% |
 | 73 | [Monster Harvest](games/m/monster_harvest.md) | 2.94% |
 | 74 | [MultiVersus](games/m/multiversus.md) | 2.93% |
-| 75 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 2.92% |
 | 75 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.92% |
+| 76 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 2.88% |
 | 77 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.78% |
 | 78 | [Destiny 2](games/d/destiny_2.md) | 2.74% |
 | 79 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
