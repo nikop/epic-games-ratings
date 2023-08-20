@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
     "PcReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -280,9 +280,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 532,
+  "EOS_Progressed": 533,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1520,6 +1520,11 @@
       "Time": "2023-08-20T11:05:07.2576371+00:00",
       "NumProgressed": 532,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-20T21:05:50.7907153+00:00",
+      "NumProgressed": 533,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 19,
@@ -1547,7 +1552,7 @@
       "Name": "Architect of Fortunes",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "dont-miss-calls",
@@ -1555,7 +1560,7 @@
       "Name": "Didn\u0027t Miss A Single One",
       "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "female-conqueror",
@@ -1595,7 +1600,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "play-at-night",
@@ -1635,7 +1640,7 @@
       "Name": "Bite the Blow",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "sell-variety",
@@ -1643,7 +1648,7 @@
       "Name": "Spread",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "send-smuggling",
@@ -1651,7 +1656,7 @@
       "Name": "Camellos",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "unlock-residences",
@@ -1682,15 +1687,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 532,
+      "Progressed": 533,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-08-20T20:04:32.4941792+00:00",
+  "LastChanged_Achievements": "2023-08-20T21:05:50.7907147+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:20.196846+00:00",
-  "LastUpdate_Ratings": "2023-08-20T19:57:39.0178564+00:00",
-  "LastUpdate_Achievements": "2023-08-20T20:04:32.4941966+00:00"
+  "LastUpdate_Ratings": "2023-08-20T20:58:25.4482704+00:00",
+  "LastUpdate_Achievements": "2023-08-20T21:05:50.7907545+00:00"
 }

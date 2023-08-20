@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 179,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 25,
+  "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -243,9 +243,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 199578,
+  "EOS_Progressed": 199584,
   "EOS_Completed": 484,
-  "EOS_NewPlayers": 576,
+  "EOS_NewPlayers": 578,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -13363,6 +13363,11 @@
       "Time": "2023-08-20T20:04:06.8224513+00:00",
       "NumProgressed": 199578,
       "NumCompleted": 484
+    },
+    {
+      "Time": "2023-08-20T21:05:14.850217+00:00",
+      "NumProgressed": 199584,
+      "NumCompleted": 484
     }
   ],
   "TotalAchievements": 29,
@@ -13398,7 +13403,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 187603
+      "UsersEstimate": 187609
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -13422,7 +13427,7 @@
       "Name": "A full deck.",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 1197
+      "UsersEstimate": 1198
     },
     {
       "ID": "ACHIEVEMENT_COCKPIT",
@@ -13446,7 +13451,7 @@
       "Name": "Answers can be found amongst the stars",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5987
+      "UsersEstimate": 5988
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTED",
@@ -13542,7 +13547,7 @@
       "Name": "Bend to the will of the arrows.",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5987
+      "UsersEstimate": 5988
     },
     {
       "ID": "ACHIEVEMENT_SECRET",
@@ -13550,7 +13555,7 @@
       "Name": "14237b6509eafd8c",
       "Percentage": 0.6,
       "XP": 80,
-      "UsersEstimate": 1197
+      "UsersEstimate": 1198
     },
     {
       "ID": "ACHIEVEMENT_SNOOPER",
@@ -13574,7 +13579,7 @@
       "Name": "You have to start somewhere, right?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 13970
+      "UsersEstimate": 13971
     },
     {
       "ID": "ACHIEVEMENT_WITNESS",
@@ -13605,7 +13610,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 199578,
+      "Progressed": 199584,
       "Completed": 484
     }
   ],
@@ -13613,8 +13618,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-08-19T20:00:31.8399303+00:00",
-  "LastChanged_Achievements": "2023-08-20T20:04:06.8224509+00:00",
+  "LastChanged_Achievements": "2023-08-20T21:05:14.8502165+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:20.1074044+00:00",
-  "LastUpdate_Ratings": "2023-08-20T20:00:19.3709963+00:00",
-  "LastUpdate_Achievements": "2023-08-20T20:04:06.8225295+00:00"
+  "LastUpdate_Ratings": "2023-08-20T21:02:09.5079328+00:00",
+  "LastUpdate_Achievements": "2023-08-20T21:05:14.850317+00:00"
 }

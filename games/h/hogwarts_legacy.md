@@ -5,7 +5,7 @@ Rating: 4.77 (Ranked 109)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 13.00% | ~37,766 |
+| The Sort Who Makes an Entrance | 13.00% | ~37,767 |
 | First Class Student | 11.00% | ~31,956 |
 | Troll with the Punches | 11.00% | ~31,956 |
 | A Keen Sense of Spell | 10.00% | ~29,051 |
@@ -26,15 +26,15 @@ Rating: 4.77 (Ranked 109)
 | Beast Friends | 7.00% | ~20,336 |
 | A Sallow Grave | 7.00% | ~20,336 |
 | Flight the Good Flight | 7.00% | ~20,336 |
-| The Seeker of Knowledge | 5.00% | ~14,525 |
-| The Root of the Problem | 5.00% | ~14,525 |
-| Third Time's a Charm | 5.00% | ~14,525 |
-| Raising Expectations | 5.00% | ~14,525 |
-| The Toast of the Town | 4.00% | ~11,620 |
-| Room with a View | 4.00% | ~11,620 |
-| The Intrepid Explorer | 4.00% | ~11,620 |
-| The Gryffindor in the Graveyard | 4.00% | ~11,620 |
-| The Ends Petrify the Means | 4.00% | ~11,620 |
+| The Seeker of Knowledge | 5.00% | ~14,526 |
+| The Root of the Problem | 5.00% | ~14,526 |
+| Third Time's a Charm | 5.00% | ~14,526 |
+| Raising Expectations | 5.00% | ~14,526 |
+| The Toast of the Town | 4.00% | ~11,621 |
+| Room with a View | 4.00% | ~11,621 |
+| The Intrepid Explorer | 4.00% | ~11,621 |
+| The Gryffindor in the Graveyard | 4.00% | ~11,621 |
+| The Ends Petrify the Means | 4.00% | ~11,621 |
 | Going Through the Potions | 3.00% | ~8,715 |
 | Floo Around the World | 3.00% | ~8,715 |
 | The Wise Owl | 3.00% | ~8,715 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,743 |
 | Collector's Edition | 0.30% | ~872 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290,509 (Ranked 43)  
+Progressed: 290,513 (Ranked 43)  
 Completed: 453 (0.16%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,7 +173,7 @@ Completed: 453 (0.16%) (Ranked 193)
 | 2023-08-17 | 290,286 | 452 |
 | 2023-08-18 | 290,355 | 452 |
 | 2023-08-19 | 290,439 | 453 |
-| 2023-08-20 | 290,509 | 453 |
+| 2023-08-20 | 290,513 | 453 |
 ## Awards
 Max (Character Customization): 21,849  (Ranked 17)  
 Sum: 41,309 (Ranked 30)  

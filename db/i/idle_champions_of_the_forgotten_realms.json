@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 120,
   "Ranking_EOS_NewPlayers": 37,
-  "Ranking_EOS_NewCompleters": 15,
+  "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -5962,10 +5962,10 @@
       "Count": 3364
     }
   ],
-  "EOS_Progressed": 223686,
-  "EOS_Completed": 2194,
-  "EOS_NewPlayers": 2088,
-  "EOS_NewCompleters": 14,
+  "EOS_Progressed": 223698,
+  "EOS_Completed": 2195,
+  "EOS_NewPlayers": 2089,
+  "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
@@ -19292,6 +19292,11 @@
       "Time": "2023-08-20T20:05:12.4683804+00:00",
       "NumProgressed": 223686,
       "NumCompleted": 2194
+    },
+    {
+      "Time": "2023-08-20T21:06:48.1566335+00:00",
+      "NumProgressed": 223698,
+      "NumCompleted": 2195
     }
   ],
   "TotalAchievements": 516,
@@ -20525,9 +20530,9 @@
       "ID": "objective_completed_169",
       "SetID": "cc37lbc",
       "Name": "Building Trust",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 224
+      "UsersEstimate": 447
     },
     {
       "ID": "objective_completed_17",
@@ -22509,9 +22514,9 @@
       "ID": "objective_completed_79",
       "SetID": "cc37lbc",
       "Name": "Underdeep Cartography",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 224
+      "UsersEstimate": 447
     },
     {
       "ID": "objective_completed_8",
@@ -23430,21 +23435,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 189960,
-      "Completed": 3277
+      "Progressed": 189972,
+      "Completed": 3278
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 223686,
-      "Completed": 2194
+      "Progressed": 223698,
+      "Completed": 2195
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-20T16:59:43.5235148+00:00",
-  "LastChanged_Achievements": "2023-08-20T20:05:12.4683799+00:00",
+  "LastChanged_Achievements": "2023-08-20T21:06:48.1566328+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:12.3267162+00:00",
-  "LastUpdate_Ratings": "2023-08-20T19:59:37.6394081+00:00",
-  "LastUpdate_Achievements": "2023-08-20T20:05:12.4707622+00:00"
+  "LastUpdate_Ratings": "2023-08-20T21:01:14.1333781+00:00",
+  "LastUpdate_Achievements": "2023-08-20T21:06:48.1598717+00:00"
 }

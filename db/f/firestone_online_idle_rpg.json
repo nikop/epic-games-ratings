@@ -6,9 +6,9 @@
   "Ranking_Popularity": 513,
   "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 173,
-  "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_Completed": 205,
+  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -224,7 +224,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1827,
+  "EOS_Progressed": 1828,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
@@ -5044,6 +5044,11 @@
       "Time": "2023-08-20T14:06:57.2711593+00:00",
       "NumProgressed": 1827,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-20T21:07:11.9053544+00:00",
+      "NumProgressed": 1828,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -5295,7 +5300,7 @@
       "Name": "Here We Go Again",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "heroinspection",
@@ -5367,7 +5372,7 @@
       "Name": "Master Enchanter",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "mastery",
@@ -5447,7 +5452,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 968
+      "UsersEstimate": 969
     },
     {
       "ID": "prestigiousx10",
@@ -5511,7 +5516,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1041
+      "UsersEstimate": 1042
     },
     {
       "ID": "thealchemist",
@@ -5535,7 +5540,7 @@
       "Name": "The father of Dragons",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "thegameison",
@@ -5543,7 +5548,7 @@
       "Name": "The game is on",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "thepowerofawakening",
@@ -5615,7 +5620,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1699
+      "UsersEstimate": 1700
     },
     {
       "ID": "warmachinesarmy",
@@ -5647,14 +5652,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1443
+      "UsersEstimate": 1444
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1827,
+      "Progressed": 1828,
       "Completed": 2
     }
   ],
@@ -5662,8 +5667,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-08-10T20:59:32.9674394+00:00",
-  "LastChanged_Achievements": "2023-08-20T20:05:29.7941041+00:00",
+  "LastChanged_Achievements": "2023-08-20T21:07:11.9053538+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:03.2567748+00:00",
-  "LastUpdate_Ratings": "2023-08-20T19:59:31.1006449+00:00",
-  "LastUpdate_Achievements": "2023-08-20T20:05:29.7941888+00:00"
+  "LastUpdate_Ratings": "2023-08-20T21:01:04.3859981+00:00",
+  "LastUpdate_Achievements": "2023-08-20T21:07:11.9054627+00:00"
 }

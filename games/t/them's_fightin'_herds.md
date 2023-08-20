@@ -5,9 +5,9 @@ Rating: 4.62 (Ranked 348)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Once upon a time... | 36.00% | ~82,234 |
-| ... in the magical land of Foenum... | 34.00% | ~77,665 |
-| Be Gentle... | 22.00% | ~50,254 |
+| Once upon a time... | 36.00% | ~82,235 |
+| ... in the magical land of Foenum... | 34.00% | ~77,667 |
+| Be Gentle... | 22.00% | ~50,255 |
 | A Worthy Opponent | 17.00% | ~38,833 |
 | Makin' Bacon | 4.00% | ~9,137 |
 | Tenderhoof | 3.00% | ~6,853 |
@@ -34,7 +34,7 @@ Rating: 4.62 (Ranked 348)
 | Alpaca Space Program | 0.10% | ~228 |
 | High Priestess | 0.10% | ~228 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,427 (Ranked 52)  
+Progressed: 228,431 (Ranked 52)  
 Completed: 3 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 3 (0.00%) (Ranked 261)
 | 2023-08-17 | 228,245 | 3 |
 | 2023-08-18 | 228,295 | 3 |
 | 2023-08-19 | 228,368 | 3 |
-| 2023-08-20 | 228,427 | 3 |
+| 2023-08-20 | 228,431 | 3 |
 ## Awards
 Max (Great for Beginners): 20  (Ranked 508)  
 Sum: 20 (Ranked 508)  

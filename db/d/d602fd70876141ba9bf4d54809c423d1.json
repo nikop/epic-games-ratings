@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 350,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
     "PcReleaseDate": "2014-07-13T00:00:00+00:00",
@@ -413,9 +413,9 @@
       "ID": "ACHIEVEMENT_04",
       "SetID": "ap8553i",
       "Name": "Two on Two",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACHIEVEMENT_05",
@@ -970,8 +970,8 @@
   ],
   "FirstSeen": "2023-08-04T21:57:01.9865679+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5206267+00:00",
-  "LastChanged_Achievements": "2023-08-20T20:04:48.2986215+00:00",
+  "LastChanged_Achievements": "2023-08-20T21:06:13.5237103+00:00",
   "LastUpdate_AppInfo": "2023-08-16T16:57:24.4284709+00:00",
-  "LastUpdate_Ratings": "2023-08-20T19:58:01.7131127+00:00",
-  "LastUpdate_Achievements": "2023-08-20T20:04:48.2986828+00:00"
+  "LastUpdate_Ratings": "2023-08-20T20:58:56.4769958+00:00",
+  "LastUpdate_Achievements": "2023-08-20T21:06:13.5240625+00:00"
 }

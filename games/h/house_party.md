@@ -26,11 +26,11 @@ Number of Ratings: 177  (23.09.2022)
 | It Smells Like Roses | 0.60% | ~19 |
 | Smooth Operator: Ashley | 0.60% | ~36 |
 | The Crush | 0.60% | ~36 |
+| The Magic Number | 0.60% | ~36 |
 | Vickie | 0.60% | ~36 |
 | Casanova | 0.50% | ~30 |
 | Now It's a Party! | 0.50% | ~30 |
 | Stephanie | 0.50% | ~30 |
-| The Magic Number | 0.50% | ~30 |
 | Te Amo Lety | 0.50% | ~30 |
 | Benedict Brahrnold | 0.40% | ~24 |
 | I'll Be Back | 0.40% | ~24 |

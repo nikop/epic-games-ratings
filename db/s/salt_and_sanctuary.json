@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 201,
   "Ranking_EOS_Progress": 30,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 68,
+  "Ranking_EOS_NewPlayers": 69,
   "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
@@ -2475,9 +2475,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 530999,
+  "EOS_Progressed": 531001,
   "EOS_Completed": 1511,
-  "EOS_NewPlayers": 599,
+  "EOS_NewPlayers": 595,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -15635,6 +15635,11 @@
       "Time": "2023-08-20T20:04:55.5781649+00:00",
       "NumProgressed": 530999,
       "NumCompleted": 1511
+    },
+    {
+      "Time": "2023-08-20T21:06:23.5486545+00:00",
+      "NumProgressed": 531001,
+      "NumCompleted": 1511
     }
   ],
   "TotalAchievements": 37,
@@ -15702,7 +15707,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 440729
+      "UsersEstimate": 440731
     },
     {
       "ID": "HONED",
@@ -15902,7 +15907,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 339839
+      "UsersEstimate": 339841
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -15941,15 +15946,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 530999,
+      "Progressed": 531001,
       "Completed": 1511
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-08-19T10:00:28.9723767+00:00",
-  "LastChanged_Achievements": "2023-08-20T20:04:55.5781645+00:00",
+  "LastChanged_Achievements": "2023-08-20T21:06:23.548654+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:57.952106+00:00",
-  "LastUpdate_Ratings": "2023-08-20T20:00:47.3633548+00:00",
-  "LastUpdate_Achievements": "2023-08-20T20:04:55.5782491+00:00"
+  "LastUpdate_Ratings": "2023-08-20T21:02:52.4205802+00:00",
+  "LastUpdate_Achievements": "2023-08-20T21:06:23.548762+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 49,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8550,
+  "EOS_Progressed": 8560,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1142,
+  "EOS_NewPlayers": 1141,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2672,6 +2672,11 @@
       "Time": "2023-08-20T20:06:21.3761826+00:00",
       "NumProgressed": 8550,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-20T21:08:24.2929342+00:00",
+      "NumProgressed": 8560,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -2724,7 +2729,7 @@
       "Name": "Doctor Approved",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 1368
+      "UsersEstimate": 1370
     },
     {
       "ID": "15",
@@ -2732,7 +2737,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 1454
+      "UsersEstimate": 1455
     },
     {
       "ID": "16",
@@ -2748,7 +2753,7 @@
       "Name": "Spore Taste",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 940
+      "UsersEstimate": 942
     },
     {
       "ID": "18",
@@ -2764,7 +2769,7 @@
       "Name": "Martian Music",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 940
+      "UsersEstimate": 942
     },
     {
       "ID": "2",
@@ -2772,7 +2777,7 @@
       "Name": "Data Logger",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "20",
@@ -2780,7 +2785,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "21",
@@ -2860,7 +2865,7 @@
       "Name": "Captain Drummer",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1282
+      "UsersEstimate": 1284
     },
     {
       "ID": "30",
@@ -2892,7 +2897,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     },
     {
       "ID": "7",
@@ -2923,14 +2928,14 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 8550,
+      "Progressed": 8560,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged_Achievements": "2023-08-20T20:06:21.3761818+00:00",
+  "LastChanged_Achievements": "2023-08-20T21:08:24.2929335+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:40.3624587+00:00",
-  "LastUpdate_Ratings": "2023-08-20T20:00:34.9138658+00:00",
-  "LastUpdate_Achievements": "2023-08-20T20:06:21.3762117+00:00"
+  "LastUpdate_Ratings": "2023-08-20T21:02:32.0644242+00:00",
+  "LastUpdate_Achievements": "2023-08-20T21:08:24.2929727+00:00"
 }

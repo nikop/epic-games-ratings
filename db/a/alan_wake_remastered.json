@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,7 +512,7 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 61200,
+  "EOS_Progressed": 61202,
   "EOS_Completed": 64,
   "EOS_NewPlayers": 394,
   "EOS_NewCompleters": 0,
@@ -11867,6 +11867,11 @@
       "Time": "2023-08-20T20:05:51.2746978+00:00",
       "NumProgressed": 61200,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-20T21:07:41.921979+00:00",
+      "NumProgressed": 61202,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -11878,7 +11883,7 @@
       "Name": "Follow the Light",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 22644
+      "UsersEstimate": 22645
     },
     {
       "ID": "02",
@@ -12126,7 +12131,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 17748
+      "UsersEstimate": 17749
     },
     {
       "ID": "33",
@@ -12150,7 +12155,7 @@
       "Name": "Let There Be Light",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 18360
+      "UsersEstimate": 18361
     },
     {
       "ID": "36",
@@ -12278,7 +12283,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1973
+      "UsersEstimate": 1974
     },
     {
       "ID": "52",
@@ -12342,7 +12347,7 @@
       "Name": "Ding!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 1233
+      "UsersEstimate": 1234
     },
     {
       "ID": "60",
@@ -12413,21 +12418,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 61200,
+      "Progressed": 61202,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 24668,
+      "Progressed": 24670,
       "Completed": 50
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-20T20:05:51.2746973+00:00",
+  "LastChanged_Achievements": "2023-08-20T21:07:41.9219783+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:35.5614422+00:00",
-  "LastUpdate_Ratings": "2023-08-20T19:59:11.1583103+00:00",
-  "LastUpdate_Achievements": "2023-08-20T20:05:51.2748019+00:00"
+  "LastUpdate_Ratings": "2023-08-20T21:00:37.6713466+00:00",
+  "LastUpdate_Achievements": "2023-08-20T21:07:41.9221173+00:00"
 }

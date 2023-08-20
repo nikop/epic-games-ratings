@@ -23,6 +23,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beast Mode | 0.20% | ~447 |
 | Terror in the Dark | 0.20% | ~447 |
 | A Mysterious Summons | 0.20% | ~447 |
+| Building Trust | 0.20% | ~447 |
 | Unearthed Evil | 0.20% | ~447 |
 | The Dinner Party | 0.20% | ~447 |
 | The Crumbling Temple | 0.20% | ~447 |
@@ -31,6 +32,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Useless Allies | 0.20% | ~447 |
 | Mad Cow Disease | 0.20% | ~447 |
 | Exploring Port Nyanzaru | 0.20% | ~447 |
+| Underdeep Cartography | 0.20% | ~447 |
 | Friendly Imps | 0.20% | ~447 |
 | Pure Energy | 0.20% | ~447 |
 | The Chaotic Hunt for The Last Breath | 0.20% | ~380 |
@@ -176,7 +178,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Street War | 0.10% | ~224 |
 | Force Grey Unleashed | 0.10% | ~224 |
 | Vajra's Guards | 0.10% | ~224 |
-| Building Trust | 0.10% | ~224 |
 | March of the Undead | 0.10% | ~224 |
 | Wisdom Check | 0.10% | ~224 |
 | Sleuth It Out | 0.10% | ~224 |
@@ -413,7 +414,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lost in the Deep | 0.10% | ~224 |
 | Easily Distracted | 0.10% | ~224 |
 | Rude Welcome | 0.10% | ~224 |
-| Underdeep Cartography | 0.10% | ~224 |
 | Overdue Rendezvous | 0.10% | ~224 |
 | Moose Tracks | 0.10% | ~190 |
 | An Awakened Axe | 0.10% | ~190 |
@@ -523,8 +523,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~190 |
 | Animated Giff | 0.10% | ~190 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 223,686 (Ranked 53)  
-Completed: 2,194 (0.98%) (Ranked 120)  
+Progressed: 223,698 (Ranked 53)  
+Completed: 2,195 (0.98%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -645,7 +645,7 @@ Completed: 2,194 (0.98%) (Ranked 120)
 | 2023-08-17 | 222,852 | 2,189 |
 | 2023-08-18 | 223,142 | 2,190 |
 | 2023-08-19 | 223,443 | 2,193 |
-| 2023-08-20 | 223,686 | 2,194 |
+| 2023-08-20 | 223,698 | 2,195 |
 ## Awards
 Max (Diverse Characters): 5,173  (Ranked 68)  
 Sum: 31,146 (Ranked 38)  

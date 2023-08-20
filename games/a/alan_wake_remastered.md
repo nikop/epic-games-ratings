@@ -6,9 +6,9 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 37.00% | ~22,644 |
-| Let There Be Light | 30.00% | ~18,360 |
-| Float Like a Butterfly | 29.00% | ~17,748 |
+| Follow the Light | 37.00% | ~22,645 |
+| Let There Be Light | 30.00% | ~18,361 |
+| Float Like a Butterfly | 29.00% | ~17,749 |
 | Nordic Walking | 23.00% | ~14,076 |
 | Bright Falls' Finest | 23.00% | ~14,076 |
 | Under a Thin Layer of Skin | 20.00% | ~12,240 |
@@ -35,14 +35,14 @@ Number of Ratings: 524  (23.09.2022)
 | Energized! | 10.00% | ~6,120 |
 | Right of Way | 9.00% | ~5,508 |
 | What Light Through Yonder Window | 8.00% | ~4,896 |
-| A Friend in Need | 8.00% | ~1,973 |
+| A Friend in Need | 8.00% | ~1,974 |
 | Tornado Wrangler | 7.00% | ~4,284 |
 | Departure | 7.00% | ~4,284 |
 | Hardboiled Writer | 6.00% | ~3,672 |
 | A Friend Indeed | 6.00% | ~1,480 |
 | Children of the Elder God | 5.00% | ~3,060 |
 | Drink 'Em Both Up | 5.00% | ~3,060 |
-| Ding! | 5.00% | ~1,233 |
+| Ding! | 5.00% | ~1,234 |
 | Boob Tube | 4.00% | ~2,448 |
 | If It Flies, It Burns | 4.00% | ~2,448 |
 | KBF-FM | 4.00% | ~2,448 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~61 |
 | No Punctuation | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,200 (Ranked 85)  
+Progressed: 61,202 (Ranked 85)  
 Completed: 64 (0.10%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 64 (0.10%) (Ranked 208)
 | 2023-08-17 | 61,025 | 64 |
 | 2023-08-18 | 61,081 | 64 |
 | 2023-08-19 | 61,152 | 64 |
-| 2023-08-20 | 61,200 | 64 |
+| 2023-08-20 | 61,202 | 64 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -6,27 +6,27 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 20.00% | ~43,048 |
+| Sowwy! | 20.00% | ~43,052 |
 | Where's that freaking Dwarf? | 2.00% | ~4,305 |
 | Alt+F4 | 2.00% | ~4,305 |
-| Déjà vu | 1.00% | ~2,152 |
-| A beer, two curses, three companions | 1.00% | ~2,152 |
-| Sock! SOCK! | 1.00% | ~2,152 |
-| GG EZ | 1.00% | ~2,152 |
-| Speedrun | 1.00% | ~2,152 |
-| Fireproof Wizardess | 1.00% | ~2,152 |
+| Déjà vu | 1.00% | ~2,153 |
+| A beer, two curses, three companions | 1.00% | ~2,153 |
+| Sock! SOCK! | 1.00% | ~2,153 |
+| GG EZ | 1.00% | ~2,153 |
+| Speedrun | 1.00% | ~2,153 |
+| Fireproof Wizardess | 1.00% | ~2,153 |
 | DM intervention | 0.90% | ~1,937 |
 | Livin' in a dwarven paradise | 0.70% | ~1,507 |
 | Way of the Wimp | 0.70% | ~1,507 |
 | The plot thickens... At the tavern | 0.70% | ~1,507 |
-| The demons' feast | 0.60% | ~1,291 |
-| The Great Library | 0.60% | ~1,291 |
-| The Woman in the High Castle | 0.60% | ~1,291 |
-| %#*!$*! | 0.60% | ~1,291 |
-| Team Building Exercise | 0.60% | ~1,291 |
-| Oh, when I'll be level 10... | 0.60% | ~1,291 |
+| The demons' feast | 0.60% | ~1,292 |
+| The Great Library | 0.60% | ~1,292 |
+| Torture and Sensibility | 0.60% | ~1,292 |
+| The Woman in the High Castle | 0.60% | ~1,292 |
+| %#*!$*! | 0.60% | ~1,292 |
+| Team Building Exercise | 0.60% | ~1,292 |
+| Oh, when I'll be level 10... | 0.60% | ~1,292 |
 | Shiny and Crôm | 0.50% | ~1,076 |
-| Torture and Sensibility | 0.50% | ~1,076 |
 | Urik's Depths | 0.50% | ~1,076 |
 | The Dungeon Master | 0.50% | ~1,076 |
 | The Statuette of Gladeulfeurah | 0.50% | ~1,076 |
@@ -41,13 +41,13 @@ Number of Ratings: 118  (23.09.2022)
 | Thieves' Guild Accreditation | 0.40% | ~861 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.30% | ~646 |
 | Dead for good | 0.30% | ~646 |
+| Gargantua | 0.30% | ~646 |
 | Lust and Debauchery | 0.30% | ~646 |
 | Material Girl | 0.30% | ~646 |
-| An old poacher makes the best gamekeeper | 0.20% | ~430 |
-| We come in peace | 0.20% | ~430 |
-| Gargantua | 0.20% | ~430 |
-| In Navalu's footsteps | 0.20% | ~430 |
-| Lëgal Legend | 0.20% | ~430 |
+| An old poacher makes the best gamekeeper | 0.20% | ~431 |
+| We come in peace | 0.20% | ~431 |
+| In Navalu's footsteps | 0.20% | ~431 |
+| Lëgal Legend | 0.20% | ~431 |
 | Cursed die | 0.10% | ~215 |
 | Holistic Adventuring Party | 0.10% | ~215 |
 | Scholar of the Lands of Fangh | 0.10% | ~215 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Staff cut | 0.00% | ~0 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,242 (Ranked 56)  
+Progressed: 215,262 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,7 +176,7 @@ Completed: 2 (0.00%) (Ranked 261)
 | 2023-08-17 | 213,783 | 2 |
 | 2023-08-18 | 214,230 | 2 |
 | 2023-08-19 | 214,804 | 2 |
-| 2023-08-20 | 215,242 | 2 |
+| 2023-08-20 | 215,262 | 2 |
 ## Awards
 Max (Character Customization): 170  (Ranked 287)  
 Sum: 211 (Ranked 366)  

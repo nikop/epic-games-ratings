@@ -5,14 +5,14 @@ Rating: 4.05 (Ranked 925)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,699 |
-| World Map | 79.00% | ~1,443 |
-| Temple of Eternals | 57.00% | ~1,041 |
-| Prestigious | 53.00% | ~968 |
+| Victor | 93.00% | ~1,700 |
+| World Map | 79.00% | ~1,444 |
+| Temple of Eternals | 57.00% | ~1,042 |
+| Prestigious | 53.00% | ~969 |
 | Fellowship Power | 41.00% | ~749 |
 | Guild Power | 25.00% | ~457 |
 | Prestigious x10 | 22.00% | ~402 |
-| The game is on | 20.00% | ~365 |
+| The game is on | 20.00% | ~366 |
 | Exotic Merchant | 18.00% | ~329 |
 | Dragon Clicker | 17.00% | ~311 |
 | Miner Clicker | 17.00% | ~311 |
@@ -39,9 +39,9 @@ Rating: 4.05 (Ranked 925)
 | Frostfire Liberator | 10.00% | ~183 |
 | Moving Up The Ladder | 10.00% | ~183 |
 | Scroll Master | 10.00% | ~183 |
-| Here We Go Again | 9.00% | ~164 |
-| Master Enchanter | 9.00% | ~164 |
-| The father of Dragons | 9.00% | ~164 |
+| Here We Go Again | 9.00% | ~165 |
+| Master Enchanter | 9.00% | ~165 |
+| The father of Dragons | 9.00% | ~165 |
 | Trader | 8.00% | ~146 |
 | Blueprint Upgrades | 7.00% | ~128 |
 | Crystal Mining | 7.00% | ~128 |
@@ -81,8 +81,8 @@ Rating: 4.05 (Ranked 925)
 | Silverwood liberator | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,827 (Ranked 173)  
-Completed: 2 (0.11%) (Ranked 204)  
+Progressed: 1,828 (Ranked 173)  
+Completed: 2 (0.11%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -202,7 +202,7 @@ Completed: 2 (0.11%) (Ranked 204)
 | 2023-08-17 | 1,817 | 2 |
 | 2023-08-18 | 1,820 | 2 |
 | 2023-08-19 | 1,822 | 2 |
-| 2023-08-20 | 1,827 | 2 |
+| 2023-08-20 | 1,828 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
