@@ -661,9 +661,9 @@
       "ID": "AllSafes",
       "SetID": "7jbi7el",
       "Name": "Safe Cracker",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "Batteries",
@@ -780,8 +780,8 @@
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-08-19T23:06:01.9894347+00:00",
+  "LastChanged_Achievements": "2023-08-20T00:07:17.135002+00:00",
   "LastUpdate_AppInfo": "2023-08-15T17:57:20.4799472+00:00",
-  "LastUpdate_Ratings": "2023-08-19T22:58:32.8350999+00:00",
-  "LastUpdate_Achievements": "2023-08-19T23:06:01.989451+00:00"
+  "LastUpdate_Ratings": "2023-08-19T23:59:02.4021069+00:00",
+  "LastUpdate_Achievements": "2023-08-20T00:07:17.1350339+00:00"
 }

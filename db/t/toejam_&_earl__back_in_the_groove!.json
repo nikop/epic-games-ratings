@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 56483,
+  "EOS_Progressed": 56487,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7827,6 +7827,11 @@
       "Time": "2023-08-19T23:07:21.0829947+00:00",
       "NumProgressed": 56483,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-20T00:08:46.3329451+00:00",
+      "NumProgressed": 56487,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 49,
@@ -7926,7 +7931,7 @@
       "Name": "Food Taster",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 5083
+      "UsersEstimate": 5084
     },
     {
       "ID": "FoolMeTwice",
@@ -7998,7 +8003,7 @@
       "Name": "Hi Fiver",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1694
+      "UsersEstimate": 1695
     },
     {
       "ID": "IsThisPossible",
@@ -8229,7 +8234,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 56483,
+      "Progressed": 56487,
       "Completed": 5
     }
   ],
@@ -8237,8 +8242,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-03-31T17:59:29.6978698+00:00",
-  "LastChanged_Achievements": "2023-08-19T23:07:21.0829943+00:00",
+  "LastChanged_Achievements": "2023-08-20T00:08:46.3329447+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:28.2137385+00:00",
-  "LastUpdate_Ratings": "2023-08-19T22:58:27.6160274+00:00",
-  "LastUpdate_Achievements": "2023-08-19T23:07:21.0831215+00:00"
+  "LastUpdate_Ratings": "2023-08-19T23:58:54.9700276+00:00",
+  "LastUpdate_Achievements": "2023-08-20T00:08:46.3331005+00:00"
 }

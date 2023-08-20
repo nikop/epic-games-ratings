@@ -25,10 +25,10 @@
 | Spirit of the past | 64.00% | ~166 |
 | Law student | 63.00% | ~163 |
 | Workout professional | 61.00% | ~158 |
+| It's good to be alive | 61.00% | ~158 |
 | Own four walls | 61.00% | ~158 |
 | Handyman | 60.00% | ~155 |
 | Champion – starter pack | 60.00% | ~155 |
-| It's good to be alive | 60.00% | ~155 |
 | Little hacker | 59.00% | ~153 |
 | Employee of the year | 59.00% | ~153 |
 | Fight for life | 58.00% | ~150 |
@@ -57,17 +57,17 @@
 | Undercover robot | 34.00% | ~88 |
 | Not little hacker | 33.00% | ~85 |
 | Absolute Champion! | 33.00% | ~85 |
+| Another world | 32.00% | ~83 |
 | The lonesome road | 32.00% | ~83 |
+| Family comes first | 32.00% | ~83 |
 | Key memories | 32.00% | ~83 |
 | Careerist | 32.00% | ~83 |
 | Anyone can resist | 32.00% | ~83 |
 | The heart of the Resistance | 32.00% | ~83 |
 | Trap disarmed | 31.00% | ~80 |
-| Another world | 31.00% | ~80 |
 | Keep nature safe | 31.00% | ~80 |
-| Family comes first | 31.00% | ~80 |
 | The last bell ring | 31.00% | ~80 |
-| Silver’s past | 28.00% | ~73 |
+| Silver’s past | 29.00% | ~75 |
 | Better cooking at home | 28.00% | ~73 |
 | The only right decision | 27.00% | ~70 |
 ## Popularity (Based on EOS Achievements)

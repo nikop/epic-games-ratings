@@ -400,9 +400,9 @@
       "ID": "CgkIxYDzrbcPEAIQEA",
       "SetID": "4egpam7",
       "Name": "Collector of Secrets",
-      "Percentage": 56,
+      "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "CgkIxYDzrbcPEAIQEQ",
@@ -527,8 +527,8 @@
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2023-08-19T23:07:04.0397424+00:00",
+  "LastChanged_Achievements": "2023-08-20T00:08:27.0987814+00:00",
   "LastUpdate_AppInfo": "2023-08-15T14:57:10.6397592+00:00",
-  "LastUpdate_Ratings": "2023-08-19T22:58:56.6703552+00:00",
-  "LastUpdate_Achievements": "2023-08-19T23:07:04.0397694+00:00"
+  "LastUpdate_Ratings": "2023-08-19T23:59:31.4426573+00:00",
+  "LastUpdate_Achievements": "2023-08-20T00:08:27.0988029+00:00"
 }

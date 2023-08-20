@@ -989,9 +989,9 @@
       "ID": "another_world",
       "SetID": "69co12a",
       "Name": "Another world",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 83
     },
     {
       "ID": "any_stat_15",
@@ -1101,9 +1101,9 @@
       "ID": "flash_delivery",
       "SetID": "69co12a",
       "Name": "Family comes first",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 83
     },
     {
       "ID": "flash_k",
@@ -1117,9 +1117,9 @@
       "ID": "flash_silver",
       "SetID": "69co12a",
       "Name": "Silver\u2019s past",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 75
     },
     {
       "ID": "flash_yakuza",
@@ -1253,9 +1253,9 @@
       "ID": "mike_resurect",
       "SetID": "69co12a",
       "Name": "It\u0027s good to be alive",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 158
     },
     {
       "ID": "mysterious_voice",
@@ -1476,8 +1476,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-08-19T23:05:27.7287007+00:00",
+  "LastChanged_Achievements": "2023-08-20T00:06:37.7429216+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:55.5083268+00:00",
-  "LastUpdate_Ratings": "2023-08-19T22:59:28.2108052+00:00",
-  "LastUpdate_Achievements": "2023-08-19T23:05:27.7288071+00:00"
+  "LastUpdate_Ratings": "2023-08-20T00:00:08.9864428+00:00",
+  "LastUpdate_Achievements": "2023-08-20T00:06:37.7429839+00:00"
 }

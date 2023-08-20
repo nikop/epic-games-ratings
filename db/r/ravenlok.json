@@ -4,7 +4,7 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 35,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -3013,9 +3013,9 @@
       "ID": "31",
       "SetID": "d0g98p",
       "Name": "Little Shop",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 538
+      "UsersEstimate": 549
     },
     {
       "ID": "32",
@@ -3230,8 +3230,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-08-19T23:03:06.1597092+00:00",
+  "LastChanged_Achievements": "2023-08-20T00:03:27.4161418+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:54.1849843+00:00",
-  "LastUpdate_Ratings": "2023-08-19T22:59:26.1753495+00:00",
-  "LastUpdate_Achievements": "2023-08-19T23:03:06.1597706+00:00"
+  "LastUpdate_Ratings": "2023-08-20T00:00:06.618925+00:00",
+  "LastUpdate_Achievements": "2023-08-20T00:03:27.4161985+00:00"
 }

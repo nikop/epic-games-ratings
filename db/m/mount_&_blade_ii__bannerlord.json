@@ -6531,7 +6531,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 59215,
+  "EOS_Progressed": 59216,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 463,
   "EOS_NewCompleters": 0,
@@ -19356,6 +19356,11 @@
       "Time": "2023-08-19T23:05:22.8348535+00:00",
       "NumProgressed": 59215,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-20T00:06:32.2840753+00:00",
+      "NumProgressed": 59216,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -19383,7 +19388,7 @@
       "Name": "Bannerlord",
       "Percentage": 22,
       "XP": 65,
-      "UsersEstimate": 13027
+      "UsersEstimate": 13028
     },
     {
       "ID": "Best served cold",
@@ -19527,7 +19532,7 @@
       "Name": "Horde breaker",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 13027
+      "UsersEstimate": 13028
     },
     {
       "ID": "I can do it",
@@ -19607,7 +19612,7 @@
       "Name": "Lawmaker",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 13027
+      "UsersEstimate": 13028
     },
     {
       "ID": "Long live the Empire",
@@ -19743,7 +19748,7 @@
       "Name": "Trained",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 13027
+      "UsersEstimate": 13028
     },
     {
       "ID": "Undercover",
@@ -19774,15 +19779,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 59215,
+      "Progressed": 59216,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-08-19T22:57:22.7819217+00:00",
-  "LastChanged_Achievements": "2023-08-19T23:05:22.8348531+00:00",
+  "LastChanged_Achievements": "2023-08-20T00:06:32.2840749+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:38.4249815+00:00",
-  "LastUpdate_Ratings": "2023-08-19T22:57:22.7819223+00:00",
-  "LastUpdate_Achievements": "2023-08-19T23:05:22.835012+00:00"
+  "LastUpdate_Ratings": "2023-08-19T23:57:42.4624754+00:00",
+  "LastUpdate_Achievements": "2023-08-20T00:06:32.284267+00:00"
 }

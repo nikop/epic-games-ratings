@@ -14,7 +14,7 @@ Number of Ratings: 706  (23.09.2022)
 | Novice Researcher | 65.00% | ~3,494 |
 | Putting Food on the Table | 58.00% | ~3,118 |
 | Home Cooked Meal | 57.00% | ~3,064 |
-| Onward | 55.00% | ~2,957 |
+| Onward | 56.00% | ~3,011 |
 | The First Week | 53.00% | ~2,849 |
 | Studious Researcher | 51.00% | ~2,742 |
 | Beam Me Up | 50.00% | ~2,688 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~108 |
 | Wabbit Season | 0.50% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,376 (Ranked 138)  
+Progressed: 5,376 (Ranked 139)  
 Completed: 10 (0.19%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |

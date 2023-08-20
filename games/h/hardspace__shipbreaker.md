@@ -27,7 +27,7 @@ Number of Ratings: 36  (23.09.2022)
 | A Tucked Tale | 10.00% | ~88 |
 | The best thing money can buy | 9.00% | ~79 |
 | Act III Complete | 6.00% | ~53 |
-| Fire and Brimstone | 5.00% | ~44 |
+| Fire and Brimstone | 6.00% | ~53 |
 | See you Space Cowboy | 5.00% | ~44 |
 | Ghost in the Ship | 2.00% | ~18 |
 | Disagree and Commit | 0.10% | ~1 |

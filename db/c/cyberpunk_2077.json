@@ -2,13 +2,13 @@
   "ID": "77f2b98e2cef40c8a7437518bf420e47",
   "Name": "Cyberpunk 2077",
   "ProductSlug": "cyberpunk-2077",
-  "Ranking_Rating": 347,
+  "Ranking_Rating": 348,
   "Ranking_Popularity": 9,
   "Ranking_PopularitySum": 13,
   "Ranking_EOS_Progress": 14,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 50,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_NewPlayers": 51,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
     "PcReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -10667,10 +10667,10 @@
       "Count": 5619
     }
   ],
-  "EOS_Progressed": 871633,
-  "EOS_Completed": 1987,
-  "EOS_NewPlayers": 1060,
-  "EOS_NewCompleters": 26,
+  "EOS_Progressed": 871636,
+  "EOS_Completed": 1988,
+  "EOS_NewPlayers": 1057,
+  "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
     {
@@ -24062,6 +24062,11 @@
       "Time": "2023-08-19T23:05:58.6726582+00:00",
       "NumProgressed": 871633,
       "NumCompleted": 1987
+    },
+    {
+      "Time": "2023-08-20T00:07:13.0146867+00:00",
+      "NumProgressed": 871636,
+      "NumCompleted": 1988
     }
   ],
   "TotalAchievements": 44,
@@ -24105,7 +24110,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 339937
+      "UsersEstimate": 339938
     },
     {
       "ID": "FollowingTheRiver",
@@ -24161,7 +24166,7 @@
       "Name": "Master Crafter",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 113312
+      "UsersEstimate": 113313
     },
     {
       "ID": "IAmMaxTac",
@@ -24201,7 +24206,7 @@
       "Name": "The Quick and the Dead",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 87163
+      "UsersEstimate": 87164
     },
     {
       "ID": "MustBeTheRats",
@@ -24241,7 +24246,7 @@
       "Name": "Life of the Road",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 183043
+      "UsersEstimate": 183044
     },
     {
       "ID": "Roleplayer",
@@ -24289,7 +24294,7 @@
       "Name": "The Fool",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 592710
+      "UsersEstimate": 592712
     },
     {
       "ID": "TheHermit",
@@ -24297,7 +24302,7 @@
       "Name": "The Hermit",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 217908
+      "UsersEstimate": 217909
     },
     {
       "ID": "TheHightPriestess",
@@ -24305,7 +24310,7 @@
       "Name": "The High Priestess",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 191759
+      "UsersEstimate": 191760
     },
     {
       "ID": "TheLovers",
@@ -24313,7 +24318,7 @@
       "Name": "The Lovers",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 305072
+      "UsersEstimate": 305073
     },
     {
       "ID": "TheStar",
@@ -24321,7 +24326,7 @@
       "Name": "The Star",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 61014
+      "UsersEstimate": 61015
     },
     {
       "ID": "TheSun",
@@ -24329,7 +24334,7 @@
       "Name": "The Sun",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 61014
+      "UsersEstimate": 61015
     },
     {
       "ID": "TheWheelOfFortune",
@@ -24337,7 +24342,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 235341
+      "UsersEstimate": 235342
     },
     {
       "ID": "TheWorld",
@@ -24417,28 +24422,28 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 191759
+      "UsersEstimate": 191760
     }
   ],
   "AchievementSets": [
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 871633,
-      "Completed": 1987
+      "Progressed": 871636,
+      "Completed": 1988
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 256,
-      "Completed": 256
+      "Progressed": 259,
+      "Completed": 259
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-08-19T20:59:50.5565903+00:00",
-  "LastChanged_Achievements": "2023-08-19T23:05:58.6726578+00:00",
+  "LastChanged_Achievements": "2023-08-20T00:07:13.0146862+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:56.8976844+00:00",
-  "LastUpdate_Ratings": "2023-08-19T23:00:09.277109+00:00",
-  "LastUpdate_Achievements": "2023-08-19T23:05:58.672784+00:00"
+  "LastUpdate_Ratings": "2023-08-20T00:00:59.7721914+00:00",
+  "LastUpdate_Achievements": "2023-08-20T00:07:13.0148656+00:00"
 }

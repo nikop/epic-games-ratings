@@ -866,9 +866,9 @@
       "ID": "Achievement_Friendzone",
       "SetID": "c01p6e5",
       "Name": "Friendzone",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 567
+      "UsersEstimate": 574
     },
     {
       "ID": "Achievement_GiantLeap",
@@ -1083,8 +1083,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-08-19T23:03:13.6474943+00:00",
+  "LastChanged_Achievements": "2023-08-20T00:03:35.9688584+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:33.1841136+00:00",
-  "LastUpdate_Ratings": "2023-08-19T22:58:30.626624+00:00",
-  "LastUpdate_Achievements": "2023-08-19T23:03:13.6475372+00:00"
+  "LastUpdate_Ratings": "2023-08-19T23:58:59.1537112+00:00",
+  "LastUpdate_Achievements": "2023-08-20T00:03:35.9689241+00:00"
 }

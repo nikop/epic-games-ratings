@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1822,
+  "EOS_Progressed": 1823,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -5024,6 +5024,11 @@
       "Time": "2023-08-19T12:05:35.1894977+00:00",
       "NumProgressed": 1822,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-20T00:07:14.5747005+00:00",
+      "NumProgressed": 1823,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -5131,7 +5136,7 @@
       "Name": "Doing My Part",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "dragonclicker",
@@ -5299,7 +5304,7 @@
       "Name": "Hunter",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "inspection",
@@ -5355,7 +5360,7 @@
       "Name": "Mastery",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "milestonecollector",
@@ -5443,7 +5448,7 @@
       "Name": "Relic Of The Past",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "sailor",
@@ -5523,7 +5528,7 @@
       "Name": "The game is on",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "thepowerofawakening",
@@ -5531,7 +5536,7 @@
       "Name": "The power of Awakening",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "theunstoppable",
@@ -5595,7 +5600,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1694
+      "UsersEstimate": 1695
     },
     {
       "ID": "warmachinesarmy",
@@ -5627,14 +5632,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1439
+      "UsersEstimate": 1440
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1822,
+      "Progressed": 1823,
       "Completed": 2
     }
   ],
@@ -5642,8 +5647,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-08-10T20:59:32.9674394+00:00",
-  "LastChanged_Achievements": "2023-08-19T23:05:59.7317171+00:00",
+  "LastChanged_Achievements": "2023-08-20T00:07:14.574683+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:03.2567748+00:00",
-  "LastUpdate_Ratings": "2023-08-19T23:00:11.4997823+00:00",
-  "LastUpdate_Achievements": "2023-08-19T23:05:59.7318438+00:00"
+  "LastUpdate_Ratings": "2023-08-20T00:01:02.4674145+00:00",
+  "LastUpdate_Achievements": "2023-08-20T00:07:14.5748531+00:00"
 }

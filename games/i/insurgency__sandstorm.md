@@ -1,36 +1,36 @@
 # Insurgency: Sandstorm
 [Store](https://store.epicgames.com/en-US/p/insurgency-sandstorm)  
 [View Rawdata](../../db/i/insurgency__sandstorm.json)  
-Rating: 4.62 (Ranked 347)  
+Rating: 4.62 (Ranked 348)  
 Number of Ratings: 1,316  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~21,717 |
+| Wallbanger | 5.00% | ~21,718 |
 | Exploitative | 4.00% | ~17,374 |
 | High Speed Low Drag | 4.00% | ~17,374 |
 | Point Shooting | 4.00% | ~17,374 |
 | Wet Feet | 4.00% | ~17,374 |
-| Lucky | 3.00% | ~13,030 |
-| Stylin' | 3.00% | ~13,030 |
-| Turf War | 3.00% | ~13,030 |
+| Lucky | 3.00% | ~13,031 |
+| Stylin' | 3.00% | ~13,031 |
+| Turf War | 3.00% | ~13,031 |
 | Banged | 2.00% | ~8,687 |
 | Checkpoint Victory | 2.00% | ~8,687 |
 | First Blood | 2.00% | ~8,687 |
 | Flaccid Paralysis | 2.00% | ~8,687 |
 | Push Victory | 2.00% | ~8,687 |
 | Self-destructive | 2.00% | ~8,687 |
-| Blindfire | 1.00% | ~4,343 |
-| Ruthless | 1.00% | ~4,343 |
-| Semper Paratus | 1.00% | ~4,343 |
+| Blindfire | 1.00% | ~4,344 |
+| Ruthless | 1.00% | ~4,344 |
+| Semper Paratus | 1.00% | ~4,344 |
 | Carrying | 0.90% | ~3,909 |
 | Efficient | 0.90% | ~3,909 |
 | Mount & Gun | 0.90% | ~3,909 |
 | Personal | 0.90% | ~3,909 |
 | Grounded | 0.80% | ~3,475 |
 | Play to Win | 0.80% | ~3,475 |
-| #1 | 0.70% | ~3,040 |
-| Special Delivery | 0.70% | ~3,040 |
+| #1 | 0.70% | ~3,041 |
+| Special Delivery | 0.70% | ~3,041 |
 | Firefight Victory | 0.60% | ~2,606 |
 | Cinematic | 0.50% | ~2,172 |
 | Thanks Station! | 0.40% | ~1,737 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~434 |
 | Road Hazard | 0.10% | ~434 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 434,338 (Ranked 38)  
+Progressed: 434,359 (Ranked 38)  
 Completed: 2 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,6 +164,7 @@ Completed: 2 (0.00%) (Ranked 261)
 | 2023-08-17 | 433,595 | 2 |
 | 2023-08-18 | 433,911 | 2 |
 | 2023-08-19 | 434,338 | 2 |
+| 2023-08-20 | 434,359 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 375  (Ranked 223)  
 Sum: 2,904 (Ranked 166)  

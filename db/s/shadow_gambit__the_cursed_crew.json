@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 301,
+  "EOS_Progressed": 303,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 284,
+  "EOS_NewPlayers": 286,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -486,6 +486,11 @@
       "Time": "2023-08-19T23:03:45.5836305+00:00",
       "NumProgressed": 301,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-20T00:04:22.3720712+00:00",
+      "NumProgressed": 303,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -504,9 +509,9 @@
       "ID": "_02_FinishFirstMission",
       "SetID": "8a1io5d",
       "Name": "A New Journey",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 220
+      "UsersEstimate": 218
     },
     {
       "ID": "_03_FinishAct1",
@@ -514,7 +519,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -536,9 +541,9 @@
       "ID": "_06_FinishFirstMirrorQuest",
       "SetID": "8a1io5d",
       "Name": "Mirror Mirror on the Wall",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 12
     },
     {
       "ID": "_07_FinishAct3",
@@ -554,7 +559,7 @@
       "Name": "Swabbie",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "_09_Completion_20",
@@ -624,9 +629,9 @@
       "ID": "_17_UpgradeFirstCharacter",
       "SetID": "8a1io5d",
       "Name": "With Great Power\u2026",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 58
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -705,14 +710,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 301,
+      "Progressed": 303,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-19T23:03:45.58363+00:00",
+  "LastChanged_Achievements": "2023-08-20T00:04:22.3720707+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:01.7621403+00:00",
-  "LastUpdate_Ratings": "2023-08-19T23:00:10.5379848+00:00",
-  "LastUpdate_Achievements": "2023-08-19T23:03:45.583729+00:00"
+  "LastUpdate_Ratings": "2023-08-20T00:01:01.2298815+00:00",
+  "LastUpdate_Achievements": "2023-08-20T00:04:22.3720907+00:00"
 }
