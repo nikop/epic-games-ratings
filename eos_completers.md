@@ -62,15 +62,15 @@
 | 60 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.15% |
 | 61 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.12% |
 | 62 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.94% |
-| 63 | [ZZT!](games/z/zzt!.md) | 3.89% |
+| 63 | [ZZT!](games/z/zzt!.md) | 3.88% |
 | 64 | [Without Escape](games/w/without_escape.md) | 3.57% |
 | 65 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 66 | [Doodle God](games/d/doodle_god.md) | 3.43% |
 | 67 | [Bunny Park](games/b/bunny_park.md) | 3.37% |
 | 68 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.30% |
 | 69 | [The Complex](games/t/the_complex.md) | 3.17% |
-| 70 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.15% |
 | 70 | [HordeCore](games/h/hordecore.md) | 3.15% |
+| 71 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.09% |
 | 72 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.08% |
 | 73 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.04% |
 | 74 | [Monster Harvest](games/m/monster_harvest.md) | 2.94% |
@@ -172,9 +172,9 @@
 | 169 | [Dead Island 2](games/d/dead_island_2.md) | 0.31% |
 | 171 | [The First Tree](games/t/the_first_tree.md) | 0.30% |
 | 172 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.29% |
-| 172 | [Scrapnaut](games/s/scrapnaut.md) | 0.29% |
-| 174 | [Against the Storm](games/a/against_the_storm.md) | 0.28% |
-| 174 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
+| 173 | [Against the Storm](games/a/against_the_storm.md) | 0.28% |
+| 173 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
+| 173 | [Scrapnaut](games/s/scrapnaut.md) | 0.28% |
 | 176 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.26% |
 | 177 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
 | 178 | [Blanc](games/b/blanc.md) | 0.24% |
