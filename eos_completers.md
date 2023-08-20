@@ -6,10 +6,10 @@
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.42% |
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
 | 6 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
-| 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 26.00% |
+| 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 25.49% |
 | 8 | [Overloop](games/o/overloop.md) | 25.00% |
 | 9 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 10 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 23.31% |
+| 10 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 23.13% |
 | 11 | [Volley Pals](games/v/volley_pals.md) | 22.45% |
 | 12 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 12 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
@@ -60,7 +60,7 @@
 | 58 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.44% |
 | 59 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
 | 60 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.15% |
-| 61 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.12% |
+| 61 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.11% |
 | 62 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.94% |
 | 63 | [ZZT!](games/z/zzt!.md) | 3.88% |
 | 64 | [Without Escape](games/w/without_escape.md) | 3.57% |
@@ -124,7 +124,7 @@
 | 122 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.96% |
 | 123 | [Hades](games/h/hades.md) | 0.90% |
 | 124 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
-| 125 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
+| 125 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
 | 126 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.80% |
 | 127 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.75% |
 | 128 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.74% |
