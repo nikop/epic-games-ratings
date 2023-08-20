@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewPlayers": 95,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -212,9 +212,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7218,
+  "EOS_Progressed": 7222,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 262,
+  "EOS_NewPlayers": 266,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -6047,6 +6047,11 @@
       "Time": "2023-08-20T11:06:23.2822409+00:00",
       "NumProgressed": 7218,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-08-20T12:06:57.3189399+00:00",
+      "NumProgressed": 7222,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 21,
@@ -6074,7 +6079,7 @@
       "Name": "Audiophile",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "BODY_AND_SOUL",
@@ -6106,7 +6111,7 @@
       "Name": "Energy Saver",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 1155
+      "UsersEstimate": 1156
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -6162,7 +6167,7 @@
       "Name": "In a Pinch",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1516
+      "UsersEstimate": 1517
     },
     {
       "ID": "LIBERATOR",
@@ -6210,7 +6215,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 938
+      "UsersEstimate": 939
     },
     {
       "ID": "THING",
@@ -6225,7 +6230,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7218,
+      "Progressed": 7222,
       "Completed": 32
     }
   ],
@@ -6233,8 +6238,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-08-07T01:56:04.2387619+00:00",
-  "LastChanged_Achievements": "2023-08-20T11:06:23.2822402+00:00",
+  "LastChanged_Achievements": "2023-08-20T12:06:57.3189393+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:55.8261903+00:00",
-  "LastUpdate_Ratings": "2023-08-20T11:00:04.8758385+00:00",
-  "LastUpdate_Achievements": "2023-08-20T11:06:23.2823053+00:00"
+  "LastUpdate_Ratings": "2023-08-20T12:00:20.6173476+00:00",
+  "LastUpdate_Achievements": "2023-08-20T12:06:57.3189802+00:00"
 }

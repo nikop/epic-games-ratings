@@ -137,6 +137,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Paganism | 0.40% | ~54 |
 | Cataphract Archer | 0.40% | ~54 |
 | Turreted Elephant | 0.40% | ~54 |
+| All Nations | 0.40% | ~54 |
 | No Undo | 0.40% | ~54 |
 | Carthage - Ox Hide | 0.30% | ~40 |
 | Peacemaker | 0.30% | ~40 |
@@ -147,7 +148,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Network Game | 0.30% | ~40 |
 | Ten Crowns | 0.30% | ~40 |
 | Three Man Chariot | 0.30% | ~40 |
-| All Nations | 0.30% | ~40 |
 | Conquest Victory | 0.30% | ~40 |
 | Pilgrimage | 0.30% | ~40 |
 | Patriarch St Paul | 0.30% | ~40 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,488 (Ranked 118)  
+Progressed: 13,489 (Ranked 118)  
 Completed: 5 (0.04%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -425,7 +425,7 @@ Completed: 5 (0.04%) (Ranked 231)
 | 2023-08-17 | 13,444 | 5 |
 | 2023-08-18 | 13,460 | 5 |
 | 2023-08-19 | 13,485 | 5 |
-| 2023-08-20 | 13,488 | 5 |
+| 2023-08-20 | 13,489 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,796 (Ranked 207)  

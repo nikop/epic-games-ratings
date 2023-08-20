@@ -5668,9 +5668,9 @@
       "Count": 3735
     }
   ],
-  "EOS_Progressed": 134821,
+  "EOS_Progressed": 134824,
   "EOS_Completed": 133,
-  "EOS_NewPlayers": 378,
+  "EOS_NewPlayers": 377,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -18148,6 +18148,11 @@
       "Time": "2023-08-20T11:06:33.8419081+00:00",
       "NumProgressed": 134821,
       "NumCompleted": 133
+    },
+    {
+      "Time": "2023-08-20T12:07:09.0210597+00:00",
+      "NumProgressed": 134824,
+      "NumCompleted": 133
     }
   ],
   "TotalAchievements": 112,
@@ -18237,9 +18242,9 @@
       "ID": "bigsale01",
       "SetID": "anfd17p",
       "Name": "One Easy Payment",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 809
+      "UsersEstimate": 944
     },
     {
       "ID": "bigsale02",
@@ -18661,9 +18666,9 @@
       "ID": "gold05",
       "SetID": "anfd17p",
       "Name": "Mammonite",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 404
     },
     {
       "ID": "gold06",
@@ -18677,9 +18682,9 @@
       "ID": "help01",
       "SetID": "anfd17p",
       "Name": "Helping Hand",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 404
+      "UsersEstimate": 539
     },
     {
       "ID": "help02",
@@ -19054,15 +19059,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 134821,
+      "Progressed": 134824,
       "Completed": 133
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-08-19T22:01:14.0366607+00:00",
-  "LastChanged_Achievements": "2023-08-20T11:06:33.8419074+00:00",
+  "LastChanged_Achievements": "2023-08-20T12:07:09.0210591+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:50.7489496+00:00",
-  "LastUpdate_Ratings": "2023-08-20T11:00:40.8888926+00:00",
-  "LastUpdate_Achievements": "2023-08-20T11:06:33.842206+00:00"
+  "LastUpdate_Ratings": "2023-08-20T12:01:03.5765133+00:00",
+  "LastUpdate_Achievements": "2023-08-20T12:07:09.0212406+00:00"
 }

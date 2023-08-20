@@ -8,9 +8,9 @@
 | Tinkerer | 60.00% | ~30 |
 | Welcome to the Club | 32.00% | ~16 |
 | A new World ahead | 26.00% | ~13 |
+| Don't Cry Wolf | 22.00% | ~11 |
+| Can't touch this | 22.00% | ~11 |
 | Apprentice | 22.00% | ~11 |
-| Don't Cry Wolf | 20.00% | ~10 |
-| Can't touch this | 20.00% | ~10 |
 | Bringing guns to a sword fight | 8.00% | ~4 |
 | Freezing Cold | 8.00% | ~4 |
 | The Golden Flash | 8.00% | ~4 |
@@ -51,7 +51,7 @@
 | Unveiling the Truth | 0.00% | ~0 |
 | Master of all Domains | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50 (Ranked 373)  
+Progressed: 50 (Ranked 374)  
 Completed: 0 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |

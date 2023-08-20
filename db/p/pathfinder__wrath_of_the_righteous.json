@@ -3494,9 +3494,9 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 11010,
+  "EOS_Progressed": 11011,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11039,6 +11039,11 @@
       "Time": "2023-08-20T10:05:03.8108827+00:00",
       "NumProgressed": 11010,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-20T12:06:02.3208757+00:00",
+      "NumProgressed": 11011,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -11050,7 +11055,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 2532
+      "UsersEstimate": 2533
     },
     {
       "ID": "02_BurningCity",
@@ -11178,7 +11183,7 @@
       "Name": "Transformation",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "18_MythicChoices",
@@ -11258,7 +11263,7 @@
       "Name": "Great Upstart",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "29_StrategicVictory",
@@ -11394,7 +11399,7 @@
       "Name": "Voice from Your Dreams",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "46_AllPathsOpen",
@@ -11402,7 +11407,7 @@
       "Name": "All Paths Open",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -11977,21 +11982,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9792,
+      "Progressed": 9793,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11010,
+      "Progressed": 11011,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-08-19T19:00:38.4089621+00:00",
-  "LastChanged_Achievements": "2023-08-20T11:05:33.9398984+00:00",
+  "LastChanged_Achievements": "2023-08-20T12:06:02.3208751+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:48.9326646+00:00",
-  "LastUpdate_Ratings": "2023-08-20T11:00:37.7935794+00:00",
-  "LastUpdate_Achievements": "2023-08-20T11:05:33.9401284+00:00"
+  "LastUpdate_Ratings": "2023-08-20T12:01:00.8381514+00:00",
+  "LastUpdate_Achievements": "2023-08-20T12:06:02.321037+00:00"
 }

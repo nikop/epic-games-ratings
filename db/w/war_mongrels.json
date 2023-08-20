@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -244,9 +244,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 471,
+  "EOS_Progressed": 472,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1364,6 +1364,11 @@
       "Time": "2023-08-20T04:07:40.6687979+00:00",
       "NumProgressed": 471,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-20T12:08:11.8064721+00:00",
+      "NumProgressed": 472,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1479,7 +1484,7 @@
       "Name": "Explorer",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "ACH_COLL_20",
@@ -1503,7 +1508,7 @@
       "Name": "Collectibles of Chapter I",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "ACH_COLL_CH02",
@@ -1615,7 +1620,7 @@
       "Name": "The Motivation",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "ACH_FIN_CH04",
@@ -1679,7 +1684,7 @@
       "Name": "Sorrow",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ACH_FIN_CH12",
@@ -1783,7 +1788,7 @@
       "Name": "Eat Lead!",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "ACH_KILL_SAUSAGE",
@@ -1846,15 +1851,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 471,
+      "Progressed": 472,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-08-15T16:59:37.558326+00:00",
-  "LastChanged_Achievements": "2023-08-20T11:07:30.8565336+00:00",
+  "LastChanged_Achievements": "2023-08-20T12:08:11.8064716+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:58:01.1730523+00:00",
-  "LastUpdate_Ratings": "2023-08-20T10:59:35.5632665+00:00",
-  "LastUpdate_Achievements": "2023-08-20T11:07:30.8566006+00:00"
+  "LastUpdate_Ratings": "2023-08-20T11:59:46.9425047+00:00",
+  "LastUpdate_Achievements": "2023-08-20T12:08:11.8065263+00:00"
 }

@@ -13,11 +13,11 @@ Number of Ratings: 12,664  (23.09.2022)
 | Disintermediation | 0.90% | ~1,213 |
 | Capitalism Ho! | 0.90% | ~1,213 |
 | It's Free Real Estate | 0.80% | ~1,079 |
+| One Easy Payment | 0.70% | ~944 |
 | Some Assembly Required | 0.70% | ~944 |
 | Another Satisfied Customer | 0.70% | ~944 |
 | Budding Merchant | 0.70% | ~944 |
 | Own the Means of Production | 0.70% | ~944 |
-| One Easy Payment | 0.60% | ~809 |
 | Pretty Penny | 0.60% | ~809 |
 | The Daily Grind | 0.50% | ~674 |
 | Bounty Hunters | 0.50% | ~674 |
@@ -33,6 +33,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Efficient Floor Space | 0.40% | ~539 |
 | Gem Expert | 0.40% | ~539 |
 | Gild-Gotten Goods | 0.40% | ~539 |
+| Helping Hand | 0.40% | ~539 |
 | Accomplished Merchant | 0.40% | ~539 |
 | Did we pack lunch? | 0.40% | ~539 |
 | Arcane Industries | 0.40% | ~539 |
@@ -55,7 +56,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Flawless Fusion | 0.30% | ~404 |
 | Trash to Treasure | 0.30% | ~404 |
 | Royal Ransom | 0.30% | ~404 |
-| Helping Hand | 0.30% | ~404 |
+| Mammonite | 0.30% | ~404 |
 | Natural 20 | 0.30% | ~404 |
 | Seasoned Journeyman | 0.30% | ~404 |
 | Black Friday Special | 0.30% | ~404 |
@@ -80,7 +81,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Fit for a King | 0.20% | ~270 |
 | By Your Powers Combined... | 0.20% | ~270 |
 | A Legend is Born | 0.20% | ~270 |
-| Mammonite | 0.20% | ~270 |
 | Wealth Beyond Measure | 0.20% | ~270 |
 | Fat Cat Tag Team | 0.20% | ~270 |
 | Necromancer Queen | 0.20% | ~270 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.10% | ~135 |
 | All Accounted For | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,821 (Ranked 66)  
+Progressed: 134,824 (Ranked 66)  
 Completed: 133 (0.10%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,7 +241,7 @@ Completed: 133 (0.10%) (Ranked 208)
 | 2023-08-17 | 134,688 | 133 |
 | 2023-08-18 | 134,736 | 133 |
 | 2023-08-19 | 134,791 | 133 |
-| 2023-08-20 | 134,821 | 133 |
+| 2023-08-20 | 134,824 | 133 |
 ## Awards
 Max (Great for Beginners): 4,705  (Ranked 71)  
 Sum: 27,114 (Ranked 47)  

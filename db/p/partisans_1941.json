@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1299,
+  "EOS_Progressed": 1300,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2235,6 +2235,11 @@
       "Time": "2023-08-20T05:06:04.9738073+00:00",
       "NumProgressed": 1299,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-20T12:06:39.508187+00:00",
+      "NumProgressed": 1300,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -2292,9 +2297,9 @@
       "ID": "Death_to_the_dictator",
       "SetID": "85nb4h3",
       "Name": "Death to the Oppressor!",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 208
+      "UsersEstimate": 221
     },
     {
       "ID": "Defense_Common",
@@ -2348,9 +2353,9 @@
       "ID": "Game_Over",
       "SetID": "85nb4h3",
       "Name": "Game Over",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 117
+      "UsersEstimate": 130
     },
     {
       "ID": "Grenadier",
@@ -2420,9 +2425,9 @@
       "ID": "Long_fire",
       "SetID": "85nb4h3",
       "Name": "One by One",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 156
+      "UsersEstimate": 169
     },
     {
       "ID": "Miner",
@@ -2452,17 +2457,17 @@
       "ID": "Strategist",
       "SetID": "85nb4h3",
       "Name": "Strategist",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 39
+      "UsersEstimate": 52
     },
     {
       "ID": "War_never_changes",
       "SetID": "85nb4h3",
       "Name": "War Never Changes",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 481
+      "UsersEstimate": 494
     },
     {
       "ID": "We_were_not_here",
@@ -2485,15 +2490,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1299,
+      "Progressed": 1300,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-08-20T11:06:07.0444469+00:00",
+  "LastChanged_Achievements": "2023-08-20T12:06:39.5081864+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:45.8561519+00:00",
-  "LastUpdate_Ratings": "2023-08-20T11:01:24.18927+00:00",
-  "LastUpdate_Achievements": "2023-08-20T11:06:07.0444871+00:00"
+  "LastUpdate_Ratings": "2023-08-20T12:02:03.4252533+00:00",
+  "LastUpdate_Achievements": "2023-08-20T12:06:39.5082139+00:00"
 }

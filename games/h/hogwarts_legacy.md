@@ -8,8 +8,8 @@ Rating: 4.77 (Ranked 109)
 | The Sort Who Makes an Entrance | 13.00% | ~37,762 |
 | First Class Student | 11.00% | ~31,952 |
 | Troll with the Punches | 11.00% | ~31,952 |
-| A Keen Sense of Spell | 10.00% | ~29,047 |
-| That's a Keeper | 10.00% | ~29,047 |
+| A Keen Sense of Spell | 10.00% | ~29,048 |
+| That's a Keeper | 10.00% | ~29,048 |
 | Grappling with a Graphorn | 9.00% | ~26,143 |
 | The One Who Mastered Memories | 9.00% | ~26,143 |
 | The Hallowed Hero | 9.00% | ~26,143 |
@@ -38,11 +38,11 @@ Rating: 4.77 (Ranked 109)
 | Going Through the Potions | 3.00% | ~8,714 |
 | Floo Around the World | 3.00% | ~8,714 |
 | The Wise Owl | 3.00% | ~8,714 |
-| The Good Samaritan | 2.00% | ~5,809 |
-| Put Down Roots | 2.00% | ~5,809 |
-| The Auror's Apprentice | 2.00% | ~5,809 |
-| Rise to the Challenges | 2.00% | ~5,809 |
-| Finishing Touches | 2.00% | ~5,809 |
+| The Good Samaritan | 2.00% | ~5,810 |
+| Put Down Roots | 2.00% | ~5,810 |
+| The Auror's Apprentice | 2.00% | ~5,810 |
+| Rise to the Challenges | 2.00% | ~5,810 |
+| Finishing Touches | 2.00% | ~5,810 |
 | Savvy Spender | 1.00% | ~2,905 |
 | Demiguise Dread | 1.00% | ~2,905 |
 | A Forte for Achievement | 1.00% | ~2,905 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,743 |
 | Collector's Edition | 0.30% | ~871 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290,474 (Ranked 43)  
+Progressed: 290,476 (Ranked 43)  
 Completed: 453 (0.16%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,7 +173,7 @@ Completed: 453 (0.16%) (Ranked 193)
 | 2023-08-17 | 290,286 | 452 |
 | 2023-08-18 | 290,355 | 452 |
 | 2023-08-19 | 290,439 | 453 |
-| 2023-08-20 | 290,474 | 453 |
+| 2023-08-20 | 290,476 | 453 |
 ## Awards
 Max (Character Customization): 21,849  (Ranked 17)  
 Sum: 41,279 (Ranked 30)  

@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2423,
+  "EOS_Progressed": 2424,
   "EOS_Completed": 15,
   "EOS_NewPlayers": 178,
   "EOS_NewCompleters": 0,
@@ -4616,6 +4616,11 @@
       "Time": "2023-08-20T11:07:08.955889+00:00",
       "NumProgressed": 2423,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-08-20T12:07:48.0905518+00:00",
+      "NumProgressed": 2424,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 16,
@@ -4659,7 +4664,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 1841
+      "UsersEstimate": 1842
     },
     {
       "ID": "ach_architecture_completed",
@@ -4723,7 +4728,7 @@
       "Name": "Game opened",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 1793
+      "UsersEstimate": 1794
     },
     {
       "ID": "ach_magic_wand",
@@ -4747,21 +4752,21 @@
       "Name": "Aeolus",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 678
+      "UsersEstimate": 679
     }
   ],
   "AchievementSets": [
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 2423,
+      "Progressed": 2424,
       "Completed": 15
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-08-20T11:07:08.955888+00:00",
+  "LastChanged_Achievements": "2023-08-20T12:07:48.0905512+00:00",
   "LastUpdate_AppInfo": "2023-08-18T13:00:08.552411+00:00",
-  "LastUpdate_Ratings": "2023-08-20T10:58:58.6584486+00:00",
-  "LastUpdate_Achievements": "2023-08-20T11:07:08.9559384+00:00"
+  "LastUpdate_Ratings": "2023-08-20T11:59:07.4140952+00:00",
+  "LastUpdate_Achievements": "2023-08-20T12:07:48.0905814+00:00"
 }

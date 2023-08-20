@@ -1,12 +1,12 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 923)  
+Rating: 4.06 (Ranked 924)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 1.00% | ~2,235 |
+| A Brief Tour of the Realms | 1.00% | ~2,236 |
 | Beast Intentions | 0.50% | ~1,118 |
 | The Cursed Farmer | 0.50% | ~1,118 |
 | The Hunt for The Last Breath | 0.50% | ~949 |
@@ -25,6 +25,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Crumbling Temple | 0.20% | ~447 |
 | Seeking Allies | 0.20% | ~447 |
 | Are Ya Chicken? | 0.20% | ~447 |
+| Useless Allies | 0.20% | ~447 |
 | Mad Cow Disease | 0.20% | ~447 |
 | Exploring Port Nyanzaru | 0.20% | ~447 |
 | Friendly Imps | 0.20% | ~447 |
@@ -249,7 +250,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Shadowfell Stalwarts | 0.10% | ~190 |
 | Nimble Escape | 0.10% | ~224 |
 | Nimblest Escape | 0.10% | ~224 |
-| Useless Allies | 0.10% | ~224 |
 | Stumbling Escape | 0.10% | ~224 |
 | Distracted Escape | 0.10% | ~190 |
 | Fugitives | 0.10% | ~224 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~190 |
 | Animated Giff | 0.10% | ~190 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 223,546 (Ranked 53)  
+Progressed: 223,561 (Ranked 53)  
 Completed: 2,193 (0.98%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -645,7 +645,7 @@ Completed: 2,193 (0.98%) (Ranked 120)
 | 2023-08-17 | 222,852 | 2,189 |
 | 2023-08-18 | 223,142 | 2,190 |
 | 2023-08-19 | 223,443 | 2,193 |
-| 2023-08-20 | 223,546 | 2,193 |
+| 2023-08-20 | 223,561 | 2,193 |
 ## Awards
 Max (Diverse Characters): 5,169  (Ranked 68)  
 Sum: 31,141 (Ranked 38)  

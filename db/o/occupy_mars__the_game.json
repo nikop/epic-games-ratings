@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -220,9 +220,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1518,
+  "EOS_Progressed": 1520,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3245,6 +3245,11 @@
       "Time": "2023-08-20T09:06:58.6552596+00:00",
       "NumProgressed": 1518,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-20T12:07:27.0331664+00:00",
+      "NumProgressed": 1520,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3336,7 +3341,7 @@
       "Name": "Zero Waste",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     },
     {
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
@@ -3408,7 +3413,7 @@
       "Name": "Detective",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "NEW_ACHIEVEMENT_DE_DUST",
@@ -3432,7 +3437,7 @@
       "Name": "Electrician",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -3472,7 +3477,7 @@
       "Name": "I am the greatest botanist on this planet.",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "NEW_ACHIEVEMENT_HOUSTON_PROBLEM",
@@ -3512,7 +3517,7 @@
       "Name": "I don\u0027t feel so good",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -3616,7 +3621,7 @@
       "Name": "Bob The Builder",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     },
     {
       "ID": "NEW_ACHIEVEMENT_THUNDERSTRUCK",
@@ -3639,7 +3644,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1518,
+      "Progressed": 1520,
       "Completed": 0
     }
   ],
@@ -3647,8 +3652,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-08-17T16:59:18.1470659+00:00",
-  "LastChanged_Achievements": "2023-08-20T11:06:50.2656409+00:00",
+  "LastChanged_Achievements": "2023-08-20T12:07:27.0331659+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:58.538966+00:00",
-  "LastUpdate_Ratings": "2023-08-20T10:59:34.4407153+00:00",
-  "LastUpdate_Achievements": "2023-08-20T11:06:50.2657142+00:00"
+  "LastUpdate_Ratings": "2023-08-20T11:59:45.6154492+00:00",
+  "LastUpdate_Achievements": "2023-08-20T12:07:27.0332142+00:00"
 }

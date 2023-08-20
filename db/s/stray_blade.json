@@ -2,9 +2,9 @@
   "ID": "8b8d2e16c20b4300ae0dc66db4d630ba",
   "Name": "Stray Blade",
   "ProductSlug": "stray-blade",
-  "Ranking_EOS_Progress": 373,
+  "Ranking_EOS_Progress": 374,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewPlayers": 252,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -534,9 +534,9 @@
       "ID": "ACH_MEET_BOJI",
       "SetID": "7i20me3",
       "Name": "Don\u0027t Cry Wolf",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_OPEN_TEMPLE_GATE",
@@ -550,9 +550,9 @@
       "ID": "ACH_PERFORM_MANY_PARRIES",
       "SetID": "7i20me3",
       "Name": "Can\u0027t touch this",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_REUNITE_WITH_BOJI",
@@ -653,8 +653,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-08-20T11:07:23.106775+00:00",
+  "LastChanged_Achievements": "2023-08-20T12:08:03.6675126+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:48.9924953+00:00",
-  "LastUpdate_Ratings": "2023-08-20T10:59:59.3042904+00:00",
-  "LastUpdate_Achievements": "2023-08-20T11:07:23.1068232+00:00"
+  "LastUpdate_Ratings": "2023-08-20T12:00:13.3640003+00:00",
+  "LastUpdate_Achievements": "2023-08-20T12:08:03.6675433+00:00"
 }

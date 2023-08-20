@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewPlayers": 252,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 499,
+  "EOS_Progressed": 500,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -565,6 +565,11 @@
       "Time": "2023-08-20T01:44:39.4526633+00:00",
       "NumProgressed": 499,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-20T12:05:11.4457443+00:00",
+      "NumProgressed": 500,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 29,
@@ -664,7 +669,7 @@
       "Name": "Bundle of Joy",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "Hitman",
@@ -694,9 +699,9 @@
       "ID": "Left_Behind",
       "SetID": "ek310c",
       "Name": "A Friend in Need...",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 225
+      "UsersEstimate": 230
     },
     {
       "ID": "Leisurely_Strol",
@@ -807,7 +812,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 499,
+      "Progressed": 500,
       "Completed": 5
     }
   ],
@@ -815,8 +820,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-08-20T11:04:48.3861363+00:00",
+  "LastChanged_Achievements": "2023-08-20T12:05:11.4457432+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:35.0854812+00:00",
-  "LastUpdate_Ratings": "2023-08-20T10:58:40.9412175+00:00",
-  "LastUpdate_Achievements": "2023-08-20T11:04:48.3861594+00:00"
+  "LastUpdate_Ratings": "2023-08-20T11:58:47.216133+00:00",
+  "LastUpdate_Achievements": "2023-08-20T12:05:11.4457634+00:00"
 }

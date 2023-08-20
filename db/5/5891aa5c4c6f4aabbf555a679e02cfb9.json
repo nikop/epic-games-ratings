@@ -4,7 +4,7 @@
   "ProductSlug": "the-evil-within-2",
   "Ranking_EOS_Progress": 367,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
@@ -323,9 +323,9 @@
       "ID": "ACHIEVEMENT_08",
       "SetID": "b36c5kb",
       "Name": "The Team Psychologist",
-      "Percentage": 25,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_09",
@@ -355,9 +355,9 @@
       "ID": "ACHIEVEMENT_12",
       "SetID": "b36c5kb",
       "Name": "Spiritual Awakening",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -651,9 +651,9 @@
       "ID": "ACHIEVEMENT_49",
       "SetID": "b36c5kb",
       "Name": "Melancholy Memories",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_50",
@@ -682,8 +682,8 @@
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-08-20T11:05:15.0492968+00:00",
+  "LastChanged_Achievements": "2023-08-20T12:05:41.3479013+00:00",
   "LastUpdate_AppInfo": "2023-08-16T16:57:24.779676+00:00",
-  "LastUpdate_Ratings": "2023-08-20T10:58:23.8417256+00:00",
-  "LastUpdate_Achievements": "2023-08-20T11:05:15.0493586+00:00"
+  "LastUpdate_Ratings": "2023-08-20T11:58:30.1405245+00:00",
+  "LastUpdate_Achievements": "2023-08-20T12:05:41.3479419+00:00"
 }

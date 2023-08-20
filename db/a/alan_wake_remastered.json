@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 61176,
+  "EOS_Progressed": 61178,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 398,
+  "EOS_NewPlayers": 397,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11822,6 +11822,11 @@
       "Time": "2023-08-20T11:06:39.5190414+00:00",
       "NumProgressed": 61176,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-20T12:07:15.4281272+00:00",
+      "NumProgressed": 61178,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -11833,7 +11838,7 @@
       "Name": "Follow the Light",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 22635
+      "UsersEstimate": 22636
     },
     {
       "ID": "02",
@@ -11841,7 +11846,7 @@
       "Name": "Nordic Walking",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 14070
+      "UsersEstimate": 14071
     },
     {
       "ID": "03",
@@ -11849,7 +11854,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 14070
+      "UsersEstimate": 14071
     },
     {
       "ID": "04",
@@ -11865,7 +11870,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 12235
+      "UsersEstimate": 12236
     },
     {
       "ID": "06",
@@ -11921,7 +11926,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6729
+      "UsersEstimate": 6730
     },
     {
       "ID": "13",
@@ -12017,7 +12022,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6729
+      "UsersEstimate": 6730
     },
     {
       "ID": "25",
@@ -12033,7 +12038,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6729
+      "UsersEstimate": 6730
     },
     {
       "ID": "27",
@@ -12081,7 +12086,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 17741
+      "UsersEstimate": 17742
     },
     {
       "ID": "33",
@@ -12153,7 +12158,7 @@
       "Name": "Finders Keepers",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9176
+      "UsersEstimate": 9177
     },
     {
       "ID": "42",
@@ -12368,21 +12373,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 61176,
+      "Progressed": 61178,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 24644,
+      "Progressed": 24646,
       "Completed": 50
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-20T11:06:39.5190407+00:00",
+  "LastChanged_Achievements": "2023-08-20T12:07:15.4281264+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:35.5614422+00:00",
-  "LastUpdate_Ratings": "2023-08-20T10:59:46.6116667+00:00",
-  "LastUpdate_Achievements": "2023-08-20T11:06:39.5191979+00:00"
+  "LastUpdate_Ratings": "2023-08-20T11:59:59.6976944+00:00",
+  "LastUpdate_Achievements": "2023-08-20T12:07:15.4282262+00:00"
 }
