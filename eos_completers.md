@@ -54,7 +54,7 @@
 | 52 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.91% |
 | 53 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.80% |
 | 54 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 4.76% |
-| 55 | [Bugsnax](games/b/bugsnax.md) | 4.71% |
+| 55 | [Bugsnax](games/b/bugsnax.md) | 4.72% |
 | 56 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.69% |
 | 57 | [JARS](games/j/jars.md) | 4.55% |
 | 58 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.44% |
@@ -67,7 +67,7 @@
 | 65 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 66 | [Doodle God](games/d/doodle_god.md) | 3.43% |
 | 67 | [Bunny Park](games/b/bunny_park.md) | 3.37% |
-| 68 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.36% |
+| 68 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.31% |
 | 69 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.30% |
 | 70 | [The Complex](games/t/the_complex.md) | 3.17% |
 | 71 | [HordeCore](games/h/hordecore.md) | 3.15% |
