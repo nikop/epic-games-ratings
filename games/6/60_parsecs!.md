@@ -19,8 +19,8 @@
 | Stay Cool | 29.00% | ~209 |
 | KIA | 27.00% | ~194 |
 | Mutiny in making | 24.00% | ~173 |
+| Et tu, Astrocitizen? | 20.00% | ~144 |
 | Eco-Shuttle | 19.00% | ~137 |
-| Et tu, Astrocitizen? | 19.00% | ~137 |
 | Space Explorer | 16.00% | ~115 |
 | Hands Full | 14.00% | ~101 |
 | Gold Medalist | 12.00% | ~86 |

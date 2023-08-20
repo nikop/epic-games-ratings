@@ -35,7 +35,7 @@ Number of Ratings: 425  (23.09.2022)
 | Say Cheese! | 15.00% | ~4,224 |
 | Sundae Best | 14.00% | ~3,943 |
 | Live Laugh Hut | 8.00% | ~2,253 |
-| Dapper Capper | 6.00% | ~1,690 |
+| Dapper Capper | 7.00% | ~1,971 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 28,162 (Ranked 100)  
 Completed: 1,328 (4.72%) (Ranked 55)  

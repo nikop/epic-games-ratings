@@ -26,11 +26,11 @@
 | Little genius | 40.00% | ~14 |
 | GG | 37.00% | ~13 |
 | You've got mail! | 37.00% | ~13 |
+| Pain in the hands | 37.00% | ~13 |
 | No posters allowed | 37.00% | ~13 |
 | Shattered | 34.00% | ~12 |
 | Memories | 34.00% | ~12 |
 | Ring-a-ding-ding | 34.00% | ~12 |
-| Pain in the hands | 34.00% | ~12 |
 | Mischief maker | 34.00% | ~12 |
 | Beekeeper | 31.00% | ~11 |
 | Makeover | 31.00% | ~11 |

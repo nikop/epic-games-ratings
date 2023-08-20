@@ -4,39 +4,39 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Horn prize! | 47.00% | ~30 |
+| Horn prize! | 46.00% | ~30 |
+| Orb Gatherer | 34.00% | ~22 |
 | Beast Quest | 34.00% | ~22 |
 | Monster Hunt | 34.00% | ~22 |
-| Orb Gatherer | 33.00% | ~21 |
-| Space worm! | 33.00% | ~21 |
+| Space worm! | 32.00% | ~21 |
 | Beast Hunter | 31.00% | ~20 |
 | Loot, loot! | 31.00% | ~20 |
-| Vanquisher! | 30.00% | ~19 |
-| Orb Collector | 30.00% | ~19 |
-| Twin slayer! | 30.00% | ~19 |
-| Snakehead! | 30.00% | ~19 |
-| Unmasked! | 30.00% | ~19 |
-| Fly, you fool! | 30.00% | ~19 |
-| Mercenary! | 30.00% | ~19 |
+| Vanquisher! | 29.00% | ~19 |
+| Orb Collector | 29.00% | ~19 |
+| Twin slayer! | 29.00% | ~19 |
+| Snakehead! | 29.00% | ~19 |
+| Unmasked! | 29.00% | ~19 |
+| Fly, you fool! | 29.00% | ~19 |
+| Mercenary! | 29.00% | ~19 |
 | Beast Knight | 28.00% | ~18 |
-| God of the Tower! | 27.00% | ~17 |
-| Relic Collector | 27.00% | ~17 |
-| Cartographer | 27.00% | ~17 |
+| God of the Tower! | 26.00% | ~17 |
+| Relic Collector | 26.00% | ~17 |
+| Cartographer | 26.00% | ~17 |
 | Wizard Mastery | 20.00% | ~13 |
 | Rogue Mastery | 17.00% | ~11 |
-| Fighter Mastery | 16.00% | ~10 |
+| Fighter Mastery | 15.00% | ~10 |
 | Destoy all monsters! | 14.00% | ~9 |
 | Slay the Monster! | 14.00% | ~9 |
-| Gorgonslayer Mastery | 13.00% | ~8 |
-| Built for adventure | 13.00% | ~8 |
-| Collector Mastery | 13.00% | ~8 |
+| Gorgonslayer Mastery | 12.00% | ~8 |
+| Built for adventure | 12.00% | ~8 |
+| Collector Mastery | 12.00% | ~8 |
 | True Black Knight | 9.00% | ~6 |
 | Freedom Monster | 9.00% | ~6 |
 | No match for me! | 5.00% | ~3 |
 | True Titan | 5.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64 (Ranked 357)  
-Completed: 3 (4.69%) (Ranked 56)  
+Progressed: 65 (Ranked 357)  
+Completed: 3 (4.62%) (Ranked 56)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -53,6 +53,7 @@ Completed: 3 (4.69%) (Ranked 56)
 | 2023-08-04 | 63 | 2 |
 | 2023-08-05 | 64 | 2 |
 | 2023-08-08 | 64 | 3 |
+| 2023-08-20 | 65 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

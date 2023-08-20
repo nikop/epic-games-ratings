@@ -80,22 +80,22 @@ Number of Ratings: 1,307  (23.09.2022)
 | Victorious | 0.80% | ~108 |
 | Champions | 0.80% | ~108 |
 | Building Wonders | 0.80% | ~108 |
-| Lion | 0.70% | ~94 |
-| Good Difficulty | 0.70% | ~94 |
-| Patrons | 0.70% | ~94 |
-| Statesmen | 0.70% | ~94 |
-| Traders | 0.70% | ~94 |
-| Hittite Iron | 0.70% | ~94 |
-| Temple of Solomon | 0.70% | ~94 |
-| Pantheon | 0.70% | ~94 |
-| Via Recta Souk | 0.70% | ~94 |
-| Learn to Play 3 | 0.70% | ~94 |
-| Power to the People | 0.70% | ~94 |
-| Persian Paganism | 0.70% | ~94 |
-| Economic Reform | 0.70% | ~94 |
-| Legalism | 0.70% | ~94 |
-| Legionary | 0.70% | ~94 |
-| Phalangite | 0.70% | ~94 |
+| Lion | 0.70% | ~95 |
+| Good Difficulty | 0.70% | ~95 |
+| Patrons | 0.70% | ~95 |
+| Statesmen | 0.70% | ~95 |
+| Traders | 0.70% | ~95 |
+| Hittite Iron | 0.70% | ~95 |
+| Temple of Solomon | 0.70% | ~95 |
+| Pantheon | 0.70% | ~95 |
+| Via Recta Souk | 0.70% | ~95 |
+| Learn to Play 3 | 0.70% | ~95 |
+| Power to the People | 0.70% | ~95 |
+| Persian Paganism | 0.70% | ~95 |
+| Economic Reform | 0.70% | ~95 |
+| Legalism | 0.70% | ~95 |
+| Legionary | 0.70% | ~95 |
+| Phalangite | 0.70% | ~95 |
 | Capable | 0.60% | ~81 |
 | Invincible | 0.60% | ~81 |
 | Ready | 0.60% | ~81 |
@@ -140,18 +140,18 @@ Number of Ratings: 1,307  (23.09.2022)
 | Turreted Elephant | 0.40% | ~54 |
 | All Nations | 0.40% | ~54 |
 | No Undo | 0.40% | ~54 |
-| Peacemaker | 0.30% | ~40 |
-| Glorious Difficulty | 0.30% | ~40 |
-| Noble Difficulty | 0.30% | ~40 |
-| Persia | 0.30% | ~40 |
-| Old World Order | 0.30% | ~40 |
-| Play a Network Game | 0.30% | ~40 |
-| Ten Crowns | 0.30% | ~40 |
-| Three Man Chariot | 0.30% | ~40 |
-| Conquest Victory | 0.30% | ~40 |
-| Pilgrimage | 0.30% | ~40 |
-| Patriarch St Paul | 0.30% | ~40 |
-| Hypatia the Teacher | 0.30% | ~40 |
+| Peacemaker | 0.30% | ~41 |
+| Glorious Difficulty | 0.30% | ~41 |
+| Noble Difficulty | 0.30% | ~41 |
+| Persia | 0.30% | ~41 |
+| Old World Order | 0.30% | ~41 |
+| Play a Network Game | 0.30% | ~41 |
+| Ten Crowns | 0.30% | ~41 |
+| Three Man Chariot | 0.30% | ~41 |
+| Conquest Victory | 0.30% | ~41 |
+| Pilgrimage | 0.30% | ~41 |
+| Patriarch St Paul | 0.30% | ~41 |
+| Hypatia the Teacher | 0.30% | ~41 |
 | Bronze Victory (Carthage 1) | 0.20% | ~27 |
 | Silver Victory (Carthage 1) | 0.20% | ~27 |
 | Carthage - Riches and Influence | 0.20% | ~27 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,500 (Ranked 118)  
+Progressed: 13,501 (Ranked 118)  
 Completed: 5 (0.04%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -425,7 +425,7 @@ Completed: 5 (0.04%) (Ranked 231)
 | 2023-08-17 | 13,444 | 5 |
 | 2023-08-18 | 13,460 | 5 |
 | 2023-08-19 | 13,485 | 5 |
-| 2023-08-20 | 13,500 | 5 |
+| 2023-08-20 | 13,501 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,796 (Ranked 207)  

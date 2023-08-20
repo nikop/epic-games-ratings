@@ -6,20 +6,20 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 72.00% | ~6,062 |
-| Leader | 60.00% | ~5,052 |
+| First Step | 72.00% | ~6,063 |
+| Leader | 60.00% | ~5,053 |
 | Explorer | 53.00% | ~4,463 |
-| Healer | 52.00% | ~4,378 |
+| Healer | 52.00% | ~4,379 |
 | Aspiring Inventor | 44.00% | ~3,705 |
-| Adventurer | 41.00% | ~3,452 |
+| Adventurer | 41.00% | ~3,453 |
 | Famous Healer | 38.00% | ~3,200 |
 | Local Leader | 35.00% | ~2,947 |
 | Famous Explorer | 34.00% | ~2,863 |
 | New Opportunities | 34.00% | ~2,863 |
 | Energized | 33.00% | ~2,779 |
 | The Long Haul | 33.00% | ~2,779 |
-| The Great Healer | 31.00% | ~2,610 |
-| Survivor | 31.00% | ~2,610 |
+| The Great Healer | 31.00% | ~2,611 |
+| Survivor | 31.00% | ~2,611 |
 | Legendary Explorer | 28.00% | ~2,358 |
 | Cleaner | 28.00% | ~2,358 |
 | Catastrofan | 28.00% | ~2,358 |
@@ -28,12 +28,12 @@ Number of Ratings: 836  (23.09.2022)
 | Great Leader | 23.00% | ~1,937 |
 | Ice Lakes | 23.00% | ~1,937 |
 | Mentor | 23.00% | ~1,937 |
-| Merchant | 22.00% | ~1,852 |
-| Real Survivor | 22.00% | ~1,852 |
+| Merchant | 22.00% | ~1,853 |
+| Real Survivor | 22.00% | ~1,853 |
 | Rocket Surgeon | 20.00% | ~1,684 |
 | War Never Changes | 19.00% | ~1,600 |
-| Big Game Hunter | 17.00% | ~1,431 |
-| Spreading Influence | 17.00% | ~1,431 |
+| Big Game Hunter | 17.00% | ~1,432 |
+| Spreading Influence | 17.00% | ~1,432 |
 | Friendly | 16.00% | ~1,347 |
 | Around the World | 16.00% | ~1,347 |
 | Bookworm | 15.00% | ~1,263 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~17 |
 | Customized calamities | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,420 (Ranked 129)  
+Progressed: 8,421 (Ranked 129)  
 Completed: 0 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,7 +188,7 @@ Completed: 0 (0.00%) (Ranked 261)
 | 2023-08-17 | 8,342 | 0 |
 | 2023-08-18 | 8,364 | 0 |
 | 2023-08-19 | 8,395 | 0 |
-| 2023-08-20 | 8,420 | 0 |
+| 2023-08-20 | 8,421 | 0 |
 ## Awards
 Max (Extremely Fun): 100  (Ranked 337)  
 Sum: 689 (Ranked 278)  

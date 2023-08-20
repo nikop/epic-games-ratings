@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 248,
   "Ranking_EOS_NewPlayers": 62,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2021-07-22T15:00:00+00:00",
     "PcReleaseDate": "2013-09-19T15:00:00+00:00",
@@ -1682,9 +1682,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 55723,
+  "EOS_Progressed": 55724,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 773,
+  "EOS_NewPlayers": 774,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -14907,6 +14907,11 @@
       "Time": "2023-08-20T19:03:10.5367606+00:00",
       "NumProgressed": 55723,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-20T20:03:12.1335203+00:00",
+      "NumProgressed": 55724,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -15174,7 +15179,7 @@
       "Name": "Not alone",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 17831
+      "UsersEstimate": 17832
     },
     {
       "ID": "VERDUN_ACH_KILLS1",
@@ -15182,7 +15187,7 @@
       "Name": "Corpseman I",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 22289
+      "UsersEstimate": 22290
     },
     {
       "ID": "VERDUN_ACH_KILLS2",
@@ -15206,7 +15211,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 35105
+      "UsersEstimate": 35106
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -15389,15 +15394,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 55723,
+      "Progressed": 55724,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-08-12T10:59:23.0851694+00:00",
-  "LastChanged_Achievements": "2023-08-20T19:03:10.5367602+00:00",
+  "LastChanged_Achievements": "2023-08-20T20:03:12.1335197+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:55.9821286+00:00",
-  "LastUpdate_Ratings": "2023-08-20T19:01:16.0077069+00:00",
-  "LastUpdate_Achievements": "2023-08-20T19:03:10.5368615+00:00"
+  "LastUpdate_Ratings": "2023-08-20T20:00:01.4424895+00:00",
+  "LastUpdate_Achievements": "2023-08-20T20:03:12.1336222+00:00"
 }

@@ -43,9 +43,11 @@
 | Business As Usual | 2.00% | ~3 |
 | Trailblazer | 2.00% | ~3 |
 | Delayed | 2.00% | ~3 |
+| A Real Battle | 2.00% | ~3 |
 | The Darkness Within | 2.00% | ~3 |
 | Ruiner | 2.00% | ~3 |
 | Life... Finds a Way | 2.00% | ~3 |
+| Wyrmslayer | 2.00% | ~3 |
 | Unseen Patterns | 2.00% | ~3 |
 | Voracity Confronted | 2.00% | ~3 |
 | Watcher | 0.80% | ~1 |
@@ -58,10 +60,8 @@
 | Manticore | 0.80% | ~1 |
 | Moving At Odd Angles | 0.80% | ~1 |
 | Despoiler | 0.80% | ~1 |
-| A Real Battle | 0.80% | ~1 |
 | Celebrity | 0.80% | ~1 |
 | Arcanite | 0.80% | ~1 |
-| Wyrmslayer | 0.80% | ~1 |
 | Merchant Lord | 0.80% | ~1 |
 | Glorious leader | 0.80% | ~1 |
 | Insectoid Propagator | 0.80% | ~1 |

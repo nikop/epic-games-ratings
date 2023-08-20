@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 372,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 362,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-01-24T09:30:00+00:00",
     "PcReleaseDate": "2022-11-04T00:00:00+00:00",
@@ -160,9 +160,9 @@
       "ID": "10",
       "SetID": "41h3j82",
       "Name": "Born to Win",
-      "Percentage": 35,
+      "Percentage": 37,
       "XP": 70,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "11",
@@ -248,9 +248,9 @@
       "ID": "3",
       "SetID": "41h3j82",
       "Name": "Welcome to Seoul",
-      "Percentage": 35,
+      "Percentage": 37,
       "XP": 70,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "4",
@@ -264,9 +264,9 @@
       "ID": "5",
       "SetID": "41h3j82",
       "Name": "We will need a bigger wardrobe",
-      "Percentage": 35,
+      "Percentage": 37,
       "XP": 70,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "6",
@@ -313,8 +313,8 @@
   "FirstSeenRating": "2023-03-31T05:58:31.8996546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.5108841+00:00",
   "LastChanged": "2023-03-31T05:58:31.8996547+00:00",
-  "LastChanged_Achievements": "2023-08-20T19:08:00.3683416+00:00",
+  "LastChanged_Achievements": "2023-08-20T20:06:38.4644358+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:29.9178146+00:00",
-  "LastUpdate_Ratings": "2023-08-20T19:01:49.7555054+00:00",
-  "LastUpdate_Achievements": "2023-08-20T19:08:00.3683537+00:00"
+  "LastUpdate_Ratings": "2023-08-20T20:00:27.8790211+00:00",
+  "LastUpdate_Achievements": "2023-08-20T20:06:38.4644472+00:00"
 }

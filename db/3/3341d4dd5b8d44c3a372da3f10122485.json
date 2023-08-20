@@ -608,17 +608,17 @@
       "ID": "Poklop",
       "SetID": "823jm6g",
       "Name": "Hatch",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 75,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "Snekoun",
       "SetID": "823jm6g",
       "Name": "Snailman",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 80,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "Sopouch",
@@ -647,8 +647,8 @@
   ],
   "FirstSeen": "2023-07-09T20:57:11.2117927+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2023-08-20T19:04:18.7544044+00:00",
+  "LastChanged_Achievements": "2023-08-20T20:03:55.1602367+00:00",
   "LastUpdate_AppInfo": "2023-08-18T16:57:07.401469+00:00",
-  "LastUpdate_Ratings": "2023-08-20T18:58:59.1541381+00:00",
-  "LastUpdate_Achievements": "2023-08-20T19:04:18.7544152+00:00"
+  "LastUpdate_Ratings": "2023-08-20T19:58:23.378835+00:00",
+  "LastUpdate_Achievements": "2023-08-20T20:03:55.1602482+00:00"
 }

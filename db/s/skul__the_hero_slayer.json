@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 253,
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -974,9 +974,9 @@
       "Count": 124
     }
   ],
-  "EOS_Progressed": 8128,
+  "EOS_Progressed": 8129,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -4399,6 +4399,11 @@
       "Time": "2023-08-20T17:06:10.4810635+00:00",
       "NumProgressed": 8128,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-08-20T20:06:19.174113+00:00",
+      "NumProgressed": 8129,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 24,
@@ -4410,7 +4415,7 @@
       "Name": "Brain at Full Throttle",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1869
+      "UsersEstimate": 1870
     },
     {
       "ID": "Chatterbox",
@@ -4458,7 +4463,7 @@
       "Name": "False Goddess, Disappear",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 3251
+      "UsersEstimate": 3252
     },
     {
       "ID": "FakeGoddessGone_2",
@@ -4466,7 +4471,7 @@
       "Name": "Deadly Power",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 1300
+      "UsersEstimate": 1301
     },
     {
       "ID": "FirstHeroLastBattle",
@@ -4522,7 +4527,7 @@
       "Name": "Rules of Etiquette",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 3332
+      "UsersEstimate": 3333
     },
     {
       "ID": "RookieWelcome",
@@ -4570,7 +4575,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7559
+      "UsersEstimate": 7560
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -4578,7 +4583,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 3901
+      "UsersEstimate": 3902
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -4601,15 +4606,15 @@
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8128,
+      "Progressed": 8129,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-08-17T17:01:08.9786666+00:00",
-  "LastChanged_Achievements": "2023-08-20T19:07:33.8444832+00:00",
+  "LastChanged_Achievements": "2023-08-20T20:06:19.1741128+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:36.3255081+00:00",
-  "LastUpdate_Ratings": "2023-08-20T19:01:55.4132594+00:00",
-  "LastUpdate_Achievements": "2023-08-20T19:07:33.844511+00:00"
+  "LastUpdate_Ratings": "2023-08-20T20:00:32.0032544+00:00",
+  "LastUpdate_Achievements": "2023-08-20T20:06:19.1741415+00:00"
 }

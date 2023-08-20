@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 231,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1629,7 +1629,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13500,
+  "EOS_Progressed": 13501,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
@@ -9979,6 +9979,11 @@
       "Time": "2023-08-20T19:06:22.9090601+00:00",
       "NumProgressed": 13500,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-20T20:05:26.7489953+00:00",
+      "NumProgressed": 13501,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -10526,7 +10531,7 @@
       "Name": "Lion",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_MAGNIFICENT",
@@ -10574,7 +10579,7 @@
       "Name": "Peacemaker",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_PIONEER",
@@ -10734,7 +10739,7 @@
       "Name": "Glorious Difficulty",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_GOOD",
@@ -10742,7 +10747,7 @@
       "Name": "Good Difficulty",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_GREAT",
@@ -10774,7 +10779,7 @@
       "Name": "Noble Difficulty",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_STRONG",
@@ -10862,7 +10867,7 @@
       "Name": "Patrons",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_RIDERS",
@@ -10886,7 +10891,7 @@
       "Name": "Statesmen",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_TRADERS",
@@ -10894,7 +10899,7 @@
       "Name": "Traders",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ACHIEVEMENT_FAMILY_FRIENDLY",
@@ -11302,7 +11307,7 @@
       "Name": "Hittite Iron",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_ACROPOLIS",
@@ -11374,7 +11379,7 @@
       "Name": "Temple of Solomon",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_MANICHAEISM",
@@ -11446,7 +11451,7 @@
       "Name": "Pantheon",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_PYRAMIDS",
@@ -11462,7 +11467,7 @@
       "Name": "Via Recta Souk",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ACHIEVEMENT_KNOWLEDGE_ANCIENTS",
@@ -11526,7 +11531,7 @@
       "Name": "Learn to Play 3",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_4",
@@ -11638,7 +11643,7 @@
       "Name": "Persia",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ACHIEVEMENT_NATION_ROME",
@@ -11654,7 +11659,7 @@
       "Name": "Old World Order",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ACHIEVEMENT_ONE_TRUE_FAITH",
@@ -11726,7 +11731,7 @@
       "Name": "Play a Network Game",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ACHIEVEMENT_PLAY_PLAYBYCLOUD",
@@ -11750,7 +11755,7 @@
       "Name": "Power to the People",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ACHIEVEMENT_PUNIC_WARS",
@@ -11838,7 +11843,7 @@
       "Name": "Persian Paganism",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_ROME",
@@ -11918,7 +11923,7 @@
       "Name": "Ten Crowns",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ACHIEVEMENT_TECH_ECONOMIC_REFORM",
@@ -11926,7 +11931,7 @@
       "Name": "Economic Reform",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ACHIEVEMENT_TECH_INDUSTRIAL_PROGRESS",
@@ -11974,7 +11979,7 @@
       "Name": "Legalism",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_MYTHOLOGY",
@@ -12046,7 +12051,7 @@
       "Name": "Three Man Chariot",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ACHIEVEMENT_UNIT_KUSHITE_CAVALRY",
@@ -12062,7 +12067,7 @@
       "Name": "Legionary",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ACHIEVEMENT_UNIT_PHALANGITE",
@@ -12070,7 +12075,7 @@
       "Name": "Phalangite",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ACHIEVEMENT_UNIT_SIEGE_TOWER",
@@ -12118,7 +12123,7 @@
       "Name": "Conquest Victory",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_DOUBLE",
@@ -12318,7 +12323,7 @@
       "Name": "Pilgrimage",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_POET_LEADER",
@@ -12334,7 +12339,7 @@
       "Name": "Patriarch St Paul",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_TUTOR_HYPATIA",
@@ -12342,7 +12347,7 @@
       "Name": "Hypatia the Teacher",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ACHIEVEMENT_THE_ROYAL_COUPLE",
@@ -12357,21 +12362,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13500,
+      "Progressed": 13501,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13500,
+      "Progressed": 13501,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-20T01:39:52.7455823+00:00",
-  "LastChanged_Achievements": "2023-08-20T19:06:22.9090595+00:00",
+  "LastChanged_Achievements": "2023-08-20T20:05:26.7489948+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:59.678182+00:00",
-  "LastUpdate_Ratings": "2023-08-20T19:00:29.9321587+00:00",
-  "LastUpdate_Achievements": "2023-08-20T19:06:22.9098045+00:00"
+  "LastUpdate_Ratings": "2023-08-20T19:59:28.8903613+00:00",
+  "LastUpdate_Achievements": "2023-08-20T20:05:26.7497453+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1006,
+  "EOS_Progressed": 1008,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 116,
+  "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3521,6 +3521,11 @@
       "Time": "2023-08-20T19:03:19.8516548+00:00",
       "NumProgressed": 1006,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-20T20:03:18.7065166+00:00",
+      "NumProgressed": 1008,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -3540,7 +3545,7 @@
       "Name": "Exterminator",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "ach_defeat_players_10",
@@ -3596,7 +3601,7 @@
       "Name": "Silver Competitor",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "ach_silver_rewards_50",
@@ -3636,7 +3641,7 @@
       "Name": "Facility Online",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -3668,7 +3673,7 @@
       "Name": "Captain",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -3780,7 +3785,7 @@
       "Name": "Factory Expansion",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "objective_multiple_turrets_2",
@@ -3835,14 +3840,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1006,
+      "Progressed": 1008,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-20T19:03:19.8516543+00:00",
+  "LastChanged_Achievements": "2023-08-20T20:03:18.706516+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:20.8459338+00:00",
-  "LastUpdate_Ratings": "2023-08-20T18:58:32.5393222+00:00",
-  "LastUpdate_Achievements": "2023-08-20T19:03:19.8516924+00:00"
+  "LastUpdate_Ratings": "2023-08-20T19:58:03.1898141+00:00",
+  "LastUpdate_Achievements": "2023-08-20T20:03:18.7065559+00:00"
 }

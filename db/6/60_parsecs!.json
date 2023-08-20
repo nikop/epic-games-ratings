@@ -4,8 +4,8 @@
   "ProductSlug": "60-parsecs-0481c5",
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
     "PcReleaseDate": "2018-09-17T22:00:00+00:00",
@@ -1071,9 +1071,9 @@
       "ID": "Achievement_Traitor",
       "SetID": "c01p6e5",
       "Name": "Et tu, Astrocitizen?",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 144
     }
   ],
   "AchievementSets": [
@@ -1088,8 +1088,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-08-20T19:03:17.1313504+00:00",
+  "LastChanged_Achievements": "2023-08-20T20:03:17.1109967+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:33.1841136+00:00",
-  "LastUpdate_Ratings": "2023-08-20T18:58:44.5506784+00:00",
-  "LastUpdate_Achievements": "2023-08-20T19:03:17.131382+00:00"
+  "LastUpdate_Ratings": "2023-08-20T19:58:12.4701028+00:00",
+  "LastUpdate_Achievements": "2023-08-20T20:03:17.1110306+00:00"
 }

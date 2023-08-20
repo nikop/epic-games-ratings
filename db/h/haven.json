@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -174,9 +174,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1400,
+  "EOS_Progressed": 1401,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -1544,6 +1544,11 @@
       "Time": "2023-08-20T13:06:46.9546563+00:00",
       "NumProgressed": 1400,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-20T20:04:32.3657185+00:00",
+      "NumProgressed": 1401,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -1553,9 +1558,9 @@
       "ID": "1",
       "SetID": "n50no0",
       "Name": "Lovebirds",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 700
+      "UsersEstimate": 686
     },
     {
       "ID": "10",
@@ -1619,7 +1624,7 @@
       "Name": "Balding bloot!",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1106
+      "UsersEstimate": 1107
     },
     {
       "ID": "18",
@@ -1745,9 +1750,9 @@
       "ID": "4",
       "SetID": "n50no0",
       "Name": "Head in the clouds",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 196
+      "UsersEstimate": 182
     },
     {
       "ID": "5",
@@ -1794,15 +1799,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1400,
+      "Progressed": 1401,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-08-10T12:01:06.704766+00:00",
-  "LastChanged_Achievements": "2023-08-20T19:05:09.310101+00:00",
+  "LastChanged_Achievements": "2023-08-20T20:04:32.3657178+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:59.8230708+00:00",
-  "LastUpdate_Ratings": "2023-08-20T19:02:18.0462562+00:00",
-  "LastUpdate_Achievements": "2023-08-20T19:05:09.3101245+00:00"
+  "LastUpdate_Ratings": "2023-08-20T20:00:52.792955+00:00",
+  "LastUpdate_Achievements": "2023-08-20T20:04:32.3657431+00:00"
 }

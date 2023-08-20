@@ -2,10 +2,10 @@
   "ID": "42b8b899a3f349bd8376264ccee3cd2a",
   "Name": "Shadow Gambit: The Cursed Crew",
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
-  "Ranking_EOS_Progress": 249,
+  "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 364,
+  "EOS_Progressed": 367,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 343,
+  "EOS_NewPlayers": 346,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -581,6 +581,11 @@
       "Time": "2023-08-20T19:03:49.1687055+00:00",
       "NumProgressed": 364,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-20T20:03:40.1252924+00:00",
+      "NumProgressed": 367,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -601,15 +606,15 @@
       "Name": "A New Journey",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 262
+      "UsersEstimate": 264
     },
     {
       "ID": "_03_FinishAct1",
       "SetID": "8a1io5d",
       "Name": "The Adventure Begins",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 164
+      "UsersEstimate": 169
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -623,9 +628,9 @@
       "ID": "_05_FinishAct2",
       "SetID": "8a1io5d",
       "Name": "The Gambit Has Begun",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 40
+      "UsersEstimate": 44
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -639,9 +644,9 @@
       "ID": "_07_FinishAct3",
       "SetID": "8a1io5d",
       "Name": "All Good Things",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "_08_Completion_10",
@@ -649,7 +654,7 @@
       "Name": "Swabbie",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "_09_Completion_20",
@@ -657,7 +662,7 @@
       "Name": "Powder Monkey",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "_10_Completion_30",
@@ -721,7 +726,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -737,15 +742,15 @@
       "Name": "Persistent Parasite",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "_20_CrewTale_TPB",
       "SetID": "8a1io5d",
       "Name": "Fishy Fish",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 29
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -800,14 +805,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 364,
+      "Progressed": 367,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-20T19:03:49.168705+00:00",
+  "LastChanged_Achievements": "2023-08-20T20:03:40.125292+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:01.7621403+00:00",
-  "LastUpdate_Ratings": "2023-08-20T19:00:31.4371385+00:00",
-  "LastUpdate_Achievements": "2023-08-20T19:03:49.1687233+00:00"
+  "LastUpdate_Ratings": "2023-08-20T19:59:30.0139067+00:00",
+  "LastUpdate_Achievements": "2023-08-20T20:03:40.1253094+00:00"
 }
