@@ -3,14 +3,14 @@
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 51.35% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 43.14% |
-| 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.42% |
+| 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.00% |
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
 | 6 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
 | 7 | [Overloop](games/o/overloop.md) | 25.00% |
 | 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 24.53% |
 | 9 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 10 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 22.96% |
-| 11 | [Volley Pals](games/v/volley_pals.md) | 22.45% |
+| 10 | [Volley Pals](games/v/volley_pals.md) | 23.23% |
+| 11 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 22.96% |
 | 12 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 12 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 14 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 18.40% |
@@ -39,7 +39,7 @@
 | 37 | [Smelter](games/s/smelter.md) | 7.50% |
 | 38 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.27% |
 | 39 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.06% |
-| 40 | [Scorn](games/s/scorn.md) | 6.92% |
+| 40 | [Scorn](games/s/scorn.md) | 6.97% |
 | 41 | [Time Loader](games/t/time_loader.md) | 6.78% |
 | 42 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.75% |
 | 43 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.57% |
@@ -61,7 +61,7 @@
 | 59 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
 | 60 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.13% |
 | 61 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.11% |
-| 62 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.94% |
+| 62 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.93% |
 | 63 | [ZZT!](games/z/zzt!.md) | 3.88% |
 | 64 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 65 | [Without Escape](games/w/without_escape.md) | 3.57% |
@@ -73,7 +73,7 @@
 | 71 | [HordeCore](games/h/hordecore.md) | 3.15% |
 | 72 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.07% |
 | 73 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.04% |
-| 74 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 2.98% |
+| 74 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 2.96% |
 | 75 | [Monster Harvest](games/m/monster_harvest.md) | 2.94% |
 | 76 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 77 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.92% |
@@ -92,8 +92,8 @@
 | 90 | [Bloodshore](games/b/bloodshore.md) | 2.21% |
 | 91 | [FORECLOSED](games/f/foreclosed.md) | 2.17% |
 | 92 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.03% |
-| 93 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.94% |
-| 94 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.92% |
+| 93 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.92% |
+| 93 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.92% |
 | 95 | [Night Book](games/n/night_book.md) | 1.89% |
 | 96 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 97 | [Frogun](games/f/frogun.md) | 1.81% |
@@ -212,21 +212,21 @@
 | 208 | [House Flipper](games/h/house_flipper.md) | 0.10% |
 | 208 | [Shop Titans](games/s/shop_titans.md) | 0.10% |
 | 208 | [Supraland](games/s/supraland.md) | 0.10% |
+| 213 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 0.09% |
 | 213 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
 | 213 | [Outward Definitive Edition](games/o/outward.md) | 0.09% |
 | 213 | [Riverbond](games/r/riverbond.md) | 0.09% |
 | 213 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
 | 213 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
-| 218 | [Partisans 1941](games/p/partisans_1941.md) | 0.08% |
-| 219 | [Saints Row](games/s/saints_row.md) | 0.07% |
-| 219 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
-| 221 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 0.06% |
-| 221 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.06% |
-| 221 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.06% |
-| 221 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
-| 221 | [Remnant 2](games/r/remnant_2.md) | 0.06% |
-| 221 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.06% |
-| 221 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
+| 219 | [Partisans 1941](games/p/partisans_1941.md) | 0.08% |
+| 220 | [Saints Row](games/s/saints_row.md) | 0.07% |
+| 220 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
+| 222 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.06% |
+| 222 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.06% |
+| 222 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
+| 222 | [Remnant 2](games/r/remnant_2.md) | 0.06% |
+| 222 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.06% |
+| 222 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
 | 228 | [DEATH STRANDING](games/d/death_stranding.md) | 0.05% |
 | 228 | [High On Life](games/h/high_on_life.md) | 0.05% |
 | 228 | [House Party](games/h/house_party.md) | 0.05% |

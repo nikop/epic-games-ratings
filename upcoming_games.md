@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [GO TO HELL or Die Trying](games/8/8dd803604799447fa19f637a05991e98.md) | 2023-08-21 | - |  | - | - |
 | [The Lost Glitches](games/f/fa193e6390404683a6002376f276bfed.md) | 2023-08-21 | - |  | - | - |
 | [The Red Exile: Survival Horror](games/0/092c025d036643c69367ff9da5a34bde.md) | 2023-08-21 | - |  | - | - |
 | [City Gridlock](games/d/df793be75b6b414498cb654d89be7f13.md) | 2023-08-21 | - |  | - | - |
@@ -8,6 +7,7 @@
 | [T-Rex Dinosaur Game](games/d/d67581786e2f4accb7606e7951962450.md) | 2023-08-22 | - |  | - | - |
 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 2023-08-22 | - |  | - | - |
 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 2023-08-22 | - |  | - | - |
+| [GO TO HELL or Die Trying](games/8/8dd803604799447fa19f637a05991e98.md) | 2023-08-23 | - |  | - | - |
 | [Dust Fleet](games/d/dust_fleet.md) | 2023-08-23 | - |  | - | - |
 | [Duel Princess](games/6/6ebe4c6dff6d4d0a9c231fd40480d97f.md) | 2023-08-24 | - |  | - | - |
 | [Little Brother Jim](games/e/e0ae558efb3d42f9bd62184665286d3b.md) | 2023-08-24 | 5 (1,000 XP) | 0 | - | - |
