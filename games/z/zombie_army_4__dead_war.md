@@ -7,9 +7,9 @@ Number of Ratings: 743  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Shoot it, man! Shoot it in the head! | 69.00% | ~29,871 |
-| Say goodbye, creep! | 66.00% | ~28,572 |
-| Blood splattered | 65.00% | ~28,139 |
-| Choo choo! | 62.00% | ~26,840 |
+| Say goodbye, creep! | 66.00% | ~28,573 |
+| Blood splattered | 65.00% | ~28,140 |
+| Choo choo! | 62.00% | ~26,841 |
 | Groovy | 61.00% | ~26,408 |
 | Cleanup on aisle 4! | 57.00% | ~24,676 |
 | Gold | 50.00% | ~21,646 |
@@ -18,9 +18,9 @@ Number of Ratings: 743  (23.09.2022)
 | Give me something to shoot! | 46.00% | ~19,914 |
 | Weird science | 44.00% | ~19,048 |
 | Chain reaction | 44.00% | ~19,048 |
-| What did you say, Blain? | 42.00% | ~18,182 |
-| Look mummy! A shark! | 41.00% | ~17,749 |
-| In the dark dark woods... | 39.00% | ~16,883 |
+| What did you say, Blain? | 42.00% | ~18,183 |
+| Look mummy! A shark! | 41.00% | ~17,750 |
+| In the dark dark woods... | 39.00% | ~16,884 |
 | Come and get it! It's a running buffet! | 38.00% | ~16,451 |
 | Double tap | 37.00% | ~16,018 |
 | All of this has happened before… | 36.00% | ~15,585 |
@@ -31,17 +31,17 @@ Number of Ratings: 743  (23.09.2022)
 | You've got red on you | 34.00% | ~14,719 |
 | You're all going to die down here | 32.00% | ~13,853 |
 | He did Nazi that coming | 32.00% | ~13,853 |
-| Kill of the week | 31.00% | ~13,420 |
-| I never liked them anyway | 30.00% | ~12,987 |
-| Is it over? | 28.00% | ~12,121 |
+| Kill of the week | 31.00% | ~13,421 |
+| I never liked them anyway | 30.00% | ~12,988 |
+| Is it over? | 28.00% | ~12,122 |
 | Got your back | 27.00% | ~11,689 |
 | Gore soaked | 24.00% | ~10,390 |
 | Shock therapy | 23.00% | ~9,957 |
 | Leave the limbs you've lost | 23.00% | ~9,957 |
-| Everyone's a mad scientist, life is the lab | 18.00% | ~7,792 |
-| Take them down screaming | 18.00% | ~7,792 |
-| Bad Blood | 17.00% | ~7,359 |
-| Weapons expert | 17.00% | ~7,359 |
+| Everyone's a mad scientist, life is the lab | 18.00% | ~7,793 |
+| Take them down screaming | 18.00% | ~7,793 |
+| Bad Blood | 17.00% | ~7,360 |
+| Weapons expert | 17.00% | ~7,360 |
 | The bigger they are... | 15.00% | ~6,494 |
 | I'm going deeper underground | 14.00% | ~6,061 |
 | Well equipped | 13.00% | ~5,628 |
@@ -55,12 +55,12 @@ Number of Ratings: 743  (23.09.2022)
 | Gotcha, didn't I? | 7.00% | ~3,030 |
 | A gross gross | 7.00% | ~3,030 |
 | Hail to the king, baby! | 7.00% | ~3,030 |
-| Something wicked this way comes | 6.00% | ~2,597 |
-| Not today you won't | 6.00% | ~2,597 |
-| Take a little bit of Italy with you | 6.00% | ~2,597 |
-| Staring at Shadows | 6.00% | ~2,597 |
-| I told you we should have gone to the beach | 6.00% | ~2,597 |
-| Hoarder | 6.00% | ~2,597 |
+| Something wicked this way comes | 6.00% | ~2,598 |
+| Not today you won't | 6.00% | ~2,598 |
+| Take a little bit of Italy with you | 6.00% | ~2,598 |
+| Staring at Shadows | 6.00% | ~2,598 |
+| I told you we should have gone to the beach | 6.00% | ~2,598 |
+| Hoarder | 6.00% | ~2,598 |
 | Kali Ma | 5.00% | ~2,165 |
 | Have you tried turning it off and on again? | 5.00% | ~2,165 |
 | They're coming to get you Barbara | 4.00% | ~1,732 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~433 |
 | None more hard | 0.50% | ~216 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,291 (Ranked 91)  
+Progressed: 43,292 (Ranked 91)  
 Completed: 25 (0.06%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 25 (0.06%) (Ranked 221)
 | 2023-08-17 | 43,279 | 25 |
 | 2023-08-18 | 43,282 | 25 |
 | 2023-08-19 | 43,287 | 25 |
-| 2023-08-20 | 43,291 | 25 |
+| 2023-08-20 | 43,292 | 25 |
 ## Awards
 Max (Great Boss Battles): 812  (Ranked 155)  
 Sum: 2,470 (Ranked 175)  

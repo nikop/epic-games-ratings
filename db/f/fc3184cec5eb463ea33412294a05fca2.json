@@ -2,9 +2,9 @@
   "ID": "fc3184cec5eb463ea33412294a05fca2",
   "Name": "Placid Plastic Duck Simulator",
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
-  "Ranking_EOS_Progress": 287,
+  "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 43,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 212,
+  "EOS_Progressed": 213,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 6.6,
+  "EOS_Completed_Percentage": 6.57,
   "EosHistory": [
     {
       "Time": "2023-06-10T10:01:48.8314977+00:00",
@@ -871,6 +871,11 @@
       "Time": "2023-08-20T06:04:52.4258669+00:00",
       "NumProgressed": 212,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-08-20T18:04:25.1294122+00:00",
+      "NumProgressed": 213,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 16,
@@ -896,17 +901,17 @@
       "ID": "NEW_ACHIEVEMENT_1_10",
       "SetID": "8d3ci0",
       "Name": "Cruise ship",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 74
+      "UsersEstimate": 77
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
       "SetID": "8d3ci0",
       "Name": "Ducks adrift",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 74
+      "UsersEstimate": 77
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_12",
@@ -922,15 +927,15 @@
       "Name": "High-rise",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
       "SetID": "8d3ci0",
       "Name": "Putting challenge",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 53
+      "UsersEstimate": 51
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_15",
@@ -946,7 +951,7 @@
       "Name": "Family pond",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -954,7 +959,7 @@
       "Name": "Make a wish",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -970,23 +975,23 @@
       "Name": "Way to the shore",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
       "SetID": "8d3ci0",
       "Name": "Private pool",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 132
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
       "SetID": "8d3ci0",
       "Name": "Abducktion",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 95,
-      "UsersEstimate": 40
+      "UsersEstimate": 43
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
@@ -1009,14 +1014,14 @@
     {
       "ID": "8d3ci0",
       "IsBase": true,
-      "Progressed": 212,
+      "Progressed": 213,
       "Completed": 14
     }
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-08-20T17:03:38.9954328+00:00",
+  "LastChanged_Achievements": "2023-08-20T18:04:25.1294117+00:00",
   "LastUpdate_AppInfo": "2023-08-19T15:57:11.7507588+00:00",
-  "LastUpdate_Ratings": "2023-08-20T16:58:27.1952956+00:00",
-  "LastUpdate_Achievements": "2023-08-20T17:03:38.995446+00:00"
+  "LastUpdate_Ratings": "2023-08-20T17:59:10.539619+00:00",
+  "LastUpdate_Achievements": "2023-08-20T18:04:25.1294326+00:00"
 }

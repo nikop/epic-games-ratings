@@ -4,7 +4,7 @@
   "ProductSlug": "hush-hush-5c1fa0",
   "Ranking_EOS_Progress": 415,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewPlayers": 307,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-07-27T17:00:00+00:00",
@@ -160,9 +160,9 @@
       "ID": "ACHIEVEMENT_Ach_PotatoChip",
       "SetID": "70j9o42",
       "Name": "Not My Potatoes!",
-      "Percentage": 10,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_Ach_SpeedrunFail",
@@ -312,9 +312,9 @@
       "ID": "ACHIEVEMENT_Lucky",
       "SetID": "70j9o42",
       "Name": "Fortunate Soul",
-      "Percentage": 15,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_Mio_Date5_Secret",
@@ -440,9 +440,9 @@
       "ID": "ACHIEVEMENT_Wine_veryfancy",
       "SetID": "70j9o42",
       "Name": "Wine And Dine",
-      "Percentage": 15,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     }
   ],
   "AchievementSets": [
@@ -455,8 +455,8 @@
   ],
   "FirstSeen": "2023-07-28T15:57:49.6060029+00:00",
   "FirstSeenAchievements": "2023-07-12T17:04:29.8033729+00:00",
-  "LastChanged_Achievements": "2023-08-20T17:05:16.3856416+00:00",
+  "LastChanged_Achievements": "2023-08-20T18:06:42.6426334+00:00",
   "LastUpdate_AppInfo": "2023-08-15T09:57:15.1154878+00:00",
-  "LastUpdate_Ratings": "2023-08-20T16:58:32.6099599+00:00",
-  "LastUpdate_Achievements": "2023-08-20T17:05:16.3856644+00:00"
+  "LastUpdate_Ratings": "2023-08-20T17:59:20.2079282+00:00",
+  "LastUpdate_Achievements": "2023-08-20T18:06:42.6426654+00:00"
 }

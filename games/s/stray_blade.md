@@ -11,11 +11,11 @@
 | Don't Cry Wolf | 22.00% | ~11 |
 | Can't touch this | 22.00% | ~11 |
 | Apprentice | 22.00% | ~11 |
+| Freezing Cold | 10.00% | ~5 |
 | The Golden Flash | 10.00% | ~5 |
+| The Power of the Mountains | 10.00% | ~5 |
 | Bringing guns to a sword fight | 8.00% | ~4 |
-| Freezing Cold | 8.00% | ~4 |
 | Locked and Loaded | 8.00% | ~4 |
-| The Power of the Mountains | 8.00% | ~4 |
 | Defeat Tezuth | 6.00% | ~3 |
 | Searing Heat | 6.00% | ~3 |
 | Through Dangers Untold | 6.00% | ~3 |

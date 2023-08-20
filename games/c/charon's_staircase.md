@@ -9,7 +9,7 @@
 | Across the lake | 53.00% | ~41 |
 | First document retrieved | 50.00% | ~39 |
 | There is something strange here... | 50.00% | ~39 |
-| Curious by nature | 44.00% | ~34 |
+| Curious by nature | 45.00% | ~35 |
 | A lonely death | 38.00% | ~30 |
 | An ear for music | 37.00% | ~29 |
 | Agatha's favourite song | 35.00% | ~27 |
@@ -18,15 +18,15 @@
 | Second document retrieved | 29.00% | ~23 |
 | Third document retrieved | 28.00% | ~22 |
 | Deadly chase | 28.00% | ~22 |
+| Dara's home | 28.00% | ~22 |
 | The lowest floor of the lift | 27.00% | ~21 |
-| Dara's home | 27.00% | ~21 |
-| Charon's coin | 24.00% | ~19 |
+| Charon's coin | 26.00% | ~20 |
 | Until death do us part | 23.00% | ~18 |
 | The impatient one | 19.00% | ~15 |
 | Spectres from the past | 8.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 78 (Ranked 346)  
-Completed: 2 (2.56%) (Ranked 83)  
+Completed: 3 (3.85%) (Ranked 64)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -40,7 +40,7 @@ Completed: 2 (2.56%) (Ranked 83)
 | 2023-06-20 | 75 | 2 |
 | 2023-07-02 | 76 | 2 |
 | 2023-07-23 | 77 | 2 |
-| 2023-08-20 | 78 | 2 |
+| 2023-08-20 | 78 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

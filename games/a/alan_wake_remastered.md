@@ -11,7 +11,7 @@ Number of Ratings: 524  (23.09.2022)
 | Float Like a Butterfly | 29.00% | ~17,746 |
 | Nordic Walking | 23.00% | ~14,074 |
 | Bright Falls' Finest | 23.00% | ~14,074 |
-| Under a Thin Layer of Skin | 20.00% | ~12,238 |
+| Under a Thin Layer of Skin | 20.00% | ~12,239 |
 | Paging Mr. Wake | 17.00% | ~10,403 |
 | Park Ranger | 16.00% | ~9,791 |
 | Back! Back, I Say! | 16.00% | ~9,791 |
@@ -36,8 +36,8 @@ Number of Ratings: 524  (23.09.2022)
 | Right of Way | 9.00% | ~5,507 |
 | What Light Through Yonder Window | 8.00% | ~4,895 |
 | A Friend in Need | 8.00% | ~1,973 |
-| Tornado Wrangler | 7.00% | ~4,283 |
-| Departure | 7.00% | ~4,283 |
+| Tornado Wrangler | 7.00% | ~4,284 |
+| Departure | 7.00% | ~4,284 |
 | Hardboiled Writer | 6.00% | ~3,672 |
 | A Friend Indeed | 6.00% | ~1,480 |
 | Children of the Elder God | 5.00% | ~3,060 |
@@ -68,13 +68,13 @@ Number of Ratings: 524  (23.09.2022)
 | Tick Tock | 0.30% | ~74 |
 | Gunless Wonder | 0.20% | ~122 |
 | Every Nook and Cranny | 0.20% | ~122 |
+| Collector's Edition | 0.20% | ~122 |
 | Bright Falls Aficionado | 0.20% | ~122 |
 | Licensed Properties | 0.20% | ~49 |
-| Collector's Edition | 0.10% | ~61 |
 | Hypercaffeinated | 0.10% | ~61 |
 | No Punctuation | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,192 (Ranked 85)  
+Progressed: 61,193 (Ranked 85)  
 Completed: 64 (0.10%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 64 (0.10%) (Ranked 208)
 | 2023-08-17 | 61,025 | 64 |
 | 2023-08-18 | 61,081 | 64 |
 | 2023-08-19 | 61,152 | 64 |
-| 2023-08-20 | 61,192 | 64 |
+| 2023-08-20 | 61,193 | 64 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -2,12 +2,12 @@
   "ID": "207b765975664e9db1e29129aafae69c",
   "Name": "Star Stable Online",
   "ProductSlug": "star-stable",
-  "Ranking_Rating": 664,
+  "Ranking_Rating": 671,
   "Ranking_Popularity": 297,
   "Ranking_PopularitySum": 235,
   "Ranking_EOS_Progress": 548,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewPlayers": 360,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-06-22T16:00:00+00:00",
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.43,
+  "Rating": 4.42,
   "NumberOfRatings": 317,
   "RatingHistory": [
     {
@@ -1808,10 +1808,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 1083,
       "NumberOfAwardsMax": 150
+    },
+    {
+      "Time": "2023-08-20T18:00:57.4738835+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 1084,
+      "NumberOfAwardsMax": 150
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1083,
+  "NumberOfAwards": 1084,
   "NumberOfAwardsMax": 150,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1855,7 +1861,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 120
+      "Count": 121
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1899,8 +1905,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:59.036031+00:00",
-  "LastChanged": "2023-08-20T15:00:21.5469147+00:00",
+  "LastChanged": "2023-08-20T18:00:57.4738833+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:14.8647764+00:00",
-  "LastUpdate_Ratings": "2023-08-20T16:59:45.469291+00:00",
-  "LastUpdate_Achievements": "2023-08-20T17:05:35.2920018+00:00"
+  "LastUpdate_Ratings": "2023-08-20T18:00:57.4738841+00:00",
+  "LastUpdate_Achievements": "2023-08-20T18:07:09.2895813+00:00"
 }

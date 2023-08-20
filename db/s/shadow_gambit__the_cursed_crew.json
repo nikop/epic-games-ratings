@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 356,
+  "EOS_Progressed": 361,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 336,
+  "EOS_NewPlayers": 341,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -571,6 +571,11 @@
       "Time": "2023-08-20T17:03:31.4429755+00:00",
       "NumProgressed": 356,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-20T18:04:14.8600218+00:00",
+      "NumProgressed": 361,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -583,13 +588,13 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "_02_FinishFirstMission",
       "SetID": "8a1io5d",
       "Name": "A New Journey",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 15,
       "UsersEstimate": 256
     },
@@ -599,7 +604,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 160
+      "UsersEstimate": 162
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -613,9 +618,9 @@
       "ID": "_05_FinishAct2",
       "SetID": "8a1io5d",
       "Name": "The Gambit Has Begun",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 40
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -639,23 +644,23 @@
       "Name": "Swabbie",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "_09_Completion_20",
       "SetID": "8a1io5d",
       "Name": "Powder Monkey",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 36
     },
     {
       "ID": "_10_Completion_30",
       "SetID": "8a1io5d",
       "Name": "Buccaneer",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 14
     },
     {
       "ID": "_11_Completion_40",
@@ -711,7 +716,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -733,9 +738,9 @@
       "ID": "_20_CrewTale_TPB",
       "SetID": "8a1io5d",
       "Name": "Fishy Fish",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 25
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -757,9 +762,9 @@
       "ID": "_23_CrewTale_CNN",
       "SetID": "8a1io5d",
       "Name": "Lyrical Longing",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 7
     },
     {
       "ID": "_24_CrewTale_SNP",
@@ -790,14 +795,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 356,
+      "Progressed": 361,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-20T17:03:31.4429748+00:00",
+  "LastChanged_Achievements": "2023-08-20T18:04:14.8600207+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:01.7621403+00:00",
-  "LastUpdate_Ratings": "2023-08-20T16:59:34.4978459+00:00",
-  "LastUpdate_Achievements": "2023-08-20T17:03:31.4429944+00:00"
+  "LastUpdate_Ratings": "2023-08-20T18:00:44.1409175+00:00",
+  "LastUpdate_Achievements": "2023-08-20T18:04:14.860095+00:00"
 }
