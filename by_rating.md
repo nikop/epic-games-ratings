@@ -301,7 +301,7 @@
 | 274 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 0 | 513 |
 | 300 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 0 | 513 |
 | 300 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.65 | 0 | 513 |
-| 300 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 5,171 | 67 |
+| 300 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 5,176 | 67 |
 | 300 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.65 | 0 | 513 |
 | 300 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 4.65 | 0 | 513 |
 | 300 | [High On Life](games/h/high_on_life.md) | 4.65 | 0 | 513 |
@@ -675,7 +675,7 @@
 | 672 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.42 | 34 | 441 |
 | 672 | [Hell is Others](games/h/hell_is_others.md) | 4.42 | 35 | 437 |
 | 672 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.42 | 0 | 513 |
-| 672 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.42 | 12,636 | 29 |
+| 672 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.42 | 12,636 | 30 |
 | 672 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 0 | 513 |
 | 672 | [Miasma Chronicles](games/m/miasma_chronicles.md) | 4.42 | 0 | 513 |
 | 672 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 1,191 | 135 |
@@ -719,17 +719,17 @@
 | 712 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,746 | 32 |
 | 712 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 4.39 | 0 | 513 |
 | 712 | [Startup Panic](games/s/startup_panic.md) | 4.39 | 0 | 513 |
+| 712 | [Tacoma](games/t/tacoma.md) | 4.39 | 0 | 513 |
 | 712 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 329 | 230 |
 | 712 | [Train Valley 2](games/t/train_valley_2.md) | 4.39 | 412 | 211 |
 | 712 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.39 | 105 | 331 |
-| 723 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 0 | 513 |
-| 723 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 574 | 184 |
-| 723 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 164 | 290 |
-| 723 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 170 | 287 |
-| 723 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.38 | 73 | 374 |
-| 723 | [Tacoma](games/t/tacoma.md) | 4.38 | 0 | 513 |
-| 723 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 0 | 513 |
-| 723 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.38 | 0 | 513 |
+| 724 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 0 | 513 |
+| 724 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 574 | 184 |
+| 724 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 164 | 290 |
+| 724 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 170 | 287 |
+| 724 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.38 | 73 | 374 |
+| 724 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 0 | 513 |
+| 724 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.38 | 0 | 513 |
 | 731 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 0 | 513 |
 | 731 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,149 | 108 |
 | 731 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 513 |
@@ -742,7 +742,7 @@
 | 740 | [Core](games/c/core.md) | 4.36 | 747 | 162 |
 | 740 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 173 | 285 |
 | 740 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 96 | 343 |
-| 740 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,635 | 30 |
+| 740 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,637 | 29 |
 | 740 | [F1® Manager 2023](games/3/38b4b40752b142e5a503acbb241a8b3c.md) | 4.36 | 0 | 513 |
 | 740 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.36 | 0 | 513 |
 | 740 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 513 |
@@ -764,7 +764,7 @@
 | 760 | [Beyond Blue](games/b/beyond_blue.md) | 4.34 | 0 | 513 |
 | 760 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 119 | 321 |
 | 760 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.34 | 0 | 513 |
-| 760 | [Encased](games/e/encased.md) | 4.34 | 140 | 306 |
+| 760 | [Encased](games/e/encased.md) | 4.34 | 141 | 305 |
 | 760 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.34 | 0 | 513 |
 | 760 | [Paladins](games/p/paladins.md) | 4.34 | 3,531 | 84 |
 | 760 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 249 | 252 |
@@ -795,16 +795,16 @@
 | 791 | [Hammerting](games/h/hammerting.md) | 4.30 | 0 | 513 |
 | 791 | [Hellpoint](games/h/hellpoint.md) | 4.30 | 0 | 513 |
 | 791 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 0 | 513 |
-| 791 | [Murder by Numbers](games/m/murder_by_numbers.md) | 4.30 | 0 | 513 |
 | 791 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.30 | 0 | 513 |
-| 798 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.29 | 0 | 513 |
-| 798 | [Dark Light](games/d/dark_light.md) | 4.29 | 0 | 513 |
-| 798 | [ELEX II](games/e/elex_ii.md) | 4.29 | 0 | 513 |
-| 798 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,591,509 | 1 |
-| 798 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 718 | 166 |
-| 798 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 44 | 418 |
-| 798 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 142 | 302 |
-| 798 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 126 | 311 |
+| 797 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.29 | 0 | 513 |
+| 797 | [Dark Light](games/d/dark_light.md) | 4.29 | 0 | 513 |
+| 797 | [ELEX II](games/e/elex_ii.md) | 4.29 | 0 | 513 |
+| 797 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,591,509 | 1 |
+| 797 | [Murder by Numbers](games/m/murder_by_numbers.md) | 4.29 | 0 | 513 |
+| 797 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 718 | 166 |
+| 797 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 44 | 418 |
+| 797 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 142 | 302 |
+| 797 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 126 | 311 |
 | 806 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.28 | 0 | 513 |
 | 806 | [Chess Ultra](games/c/chess_ultra.md) | 4.28 | 0 | 513 |
 | 806 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.28 | 0 | 513 |
@@ -907,13 +907,13 @@
 | 905 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.12 | 0 | 513 |
 | 906 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.11 | 20 | 508 |
 | 907 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 88 | 353 |
+| 907 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.10 | 0 | 513 |
 | 907 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,496 | 101 |
-| 909 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.09 | 0 | 513 |
-| 909 | [Fangs](games/f/fangs.md) | 4.09 | 0 | 513 |
-| 909 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.09 | 0 | 513 |
-| 909 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.09 | 0 | 513 |
-| 909 | [Obduction](games/o/obduction.md) | 4.09 | 53 | 396 |
-| 909 | [Submerged](games/s/submerged.md) | 4.09 | 0 | 513 |
+| 910 | [Fangs](games/f/fangs.md) | 4.09 | 0 | 513 |
+| 910 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.09 | 0 | 513 |
+| 910 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.09 | 0 | 513 |
+| 910 | [Obduction](games/o/obduction.md) | 4.09 | 53 | 396 |
+| 910 | [Submerged](games/s/submerged.md) | 4.09 | 0 | 513 |
 | 915 | [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 4.08 | 0 | 513 |
 | 915 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.08 | 0 | 513 |
 | 915 | [Banished](games/b/banished.md) | 4.08 | 0 | 513 |

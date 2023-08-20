@@ -70,12 +70,12 @@
 | 68 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.30% |
 | 69 | [The Complex](games/t/the_complex.md) | 3.17% |
 | 70 | [HordeCore](games/h/hordecore.md) | 3.15% |
-| 71 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.09% |
+| 71 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.08% |
 | 72 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.04% |
 | 73 | [Monster Harvest](games/m/monster_harvest.md) | 2.94% |
 | 74 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 75 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.92% |
-| 76 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 2.85% |
+| 76 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 2.80% |
 | 77 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.78% |
 | 78 | [Destiny 2](games/d/destiny_2.md) | 2.74% |
 | 79 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
@@ -100,8 +100,8 @@
 | 97 | [Sifu](games/s/sifu.md) | 1.81% |
 | 99 | [Somerville](games/s/somerville.md) | 1.67% |
 | 99 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.67% |
-| 101 | [Iron Danger](games/i/iron_danger.md) | 1.60% |
-| 102 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.59% |
+| 101 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.59% |
+| 101 | [Iron Danger](games/i/iron_danger.md) | 1.59% |
 | 103 | [Five Dates](games/f/five_dates.md) | 1.56% |
 | 103 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.56% |
 | 105 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.49% |
