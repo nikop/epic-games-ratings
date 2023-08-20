@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 159,
   "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1080,9 +1080,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15372,
+  "EOS_Progressed": 15373,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 423,
+  "EOS_NewPlayers": 421,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -14080,6 +14080,11 @@
       "Time": "2023-08-20T16:05:51.5724052+00:00",
       "NumProgressed": 15372,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-08-20T17:05:10.0924722+00:00",
+      "NumProgressed": 15373,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 45,
@@ -14179,7 +14184,7 @@
       "Name": "Homerunner",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 6917
+      "UsersEstimate": 6918
     },
     {
       "ID": "ICallItLuck",
@@ -14241,9 +14246,9 @@
       "ID": "Neuromancer",
       "SetID": "6ce5bmd",
       "Name": "Control freak",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 4150
+      "UsersEstimate": 4304
     },
     {
       "ID": "ObedientMachine",
@@ -14275,7 +14280,7 @@
       "Name": "Out of order",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 6917
+      "UsersEstimate": 6918
     },
     {
       "ID": "Perfection",
@@ -14323,7 +14328,7 @@
       "Name": "Running Wild",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 4150
+      "UsersEstimate": 4151
     },
     {
       "ID": "Scrapped",
@@ -14379,7 +14384,7 @@
       "Name": "Triple A",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1383
+      "UsersEstimate": 1384
     },
     {
       "ID": "UnstoppableForce",
@@ -14450,21 +14455,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 15372,
+      "Progressed": 15373,
       "Completed": 36
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 15372,
+      "Progressed": 15373,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-08-18T11:00:46.3223186+00:00",
-  "LastChanged_Achievements": "2023-08-20T16:05:51.5724046+00:00",
+  "LastChanged_Achievements": "2023-08-20T17:05:10.0924717+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:12.9191128+00:00",
-  "LastUpdate_Ratings": "2023-08-20T16:00:21.2033358+00:00",
-  "LastUpdate_Achievements": "2023-08-20T16:05:51.572516+00:00"
+  "LastUpdate_Ratings": "2023-08-20T16:59:43.9284223+00:00",
+  "LastUpdate_Achievements": "2023-08-20T17:05:10.0925605+00:00"
 }

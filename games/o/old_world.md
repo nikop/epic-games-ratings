@@ -108,6 +108,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Dualism | 0.60% | ~81 |
 | Redemption | 0.60% | ~81 |
 | Cimmerian Archer | 0.60% | ~81 |
+| Ambition Victory | 0.60% | ~81 |
 | Double Victory | 0.60% | ~81 |
 | Win a Single Player Game | 0.60% | ~81 |
 | Bad Heir Day | 0.50% | ~67 |
@@ -125,7 +126,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Revelation | 0.50% | ~67 |
 | Veneration | 0.50% | ~67 |
 | Kushite Cavalry | 0.50% | ~67 |
-| Ambition Victory | 0.50% | ~67 |
 | Ishtar Gate in Babylon | 0.40% | ~54 |
 | Old | 0.40% | ~54 |
 | Clerics | 0.40% | ~54 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,494 (Ranked 118)  
+Progressed: 13,495 (Ranked 118)  
 Completed: 5 (0.04%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -425,7 +425,7 @@ Completed: 5 (0.04%) (Ranked 231)
 | 2023-08-17 | 13,444 | 5 |
 | 2023-08-18 | 13,460 | 5 |
 | 2023-08-19 | 13,485 | 5 |
-| 2023-08-20 | 13,494 | 5 |
+| 2023-08-20 | 13,495 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,796 (Ranked 207)  

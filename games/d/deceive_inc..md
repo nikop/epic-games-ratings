@@ -15,7 +15,7 @@ Rating: 4.58 (Ranked 427)
 | For your Eyes only | 18.00% | ~3,152 |
 | Assistant Accountant | 17.00% | ~2,977 |
 | Fully Decked Out | 17.00% | ~2,977 |
-| You Only Live Twice | 16.00% | ~2,801 |
+| You Only Live Twice | 16.00% | ~2,802 |
 | A view to Win | 13.00% | ~2,276 |
 | The Living Portrait | 12.00% | ~2,101 |
 | Private Collection | 12.00% | ~2,101 |
@@ -27,7 +27,7 @@ Rating: 4.58 (Ranked 427)
 | My Motto, My Creed | 11.00% | ~1,926 |
 | In It to Win It | 10.00% | ~1,751 |
 | Security Supervisor | 6.00% | ~1,051 |
-| License to Thrill | 5.00% | ~875 |
+| License to Thrill | 5.00% | ~876 |
 | Social of Solace | 4.00% | ~700 |
 | Live and let lie | 3.00% | ~525 |
 | Safe Withdrawal | 3.00% | ~525 |
@@ -42,7 +42,7 @@ Rating: 4.58 (Ranked 427)
 | Extraction Confusion | 0.20% | ~35 |
 | Spyfall | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,509 (Ranked 110)  
+Progressed: 17,510 (Ranked 110)  
 Completed: 1 (0.01%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,7 +164,7 @@ Completed: 1 (0.01%) (Ranked 248)
 | 2023-08-17 | 17,450 | 1 |
 | 2023-08-18 | 17,471 | 1 |
 | 2023-08-19 | 17,494 | 1 |
-| 2023-08-20 | 17,509 | 1 |
+| 2023-08-20 | 17,510 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

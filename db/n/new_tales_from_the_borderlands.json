@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3575,
+  "EOS_Progressed": 3576,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1208,6 +1208,11 @@
       "Time": "2023-08-19T04:05:39.7593857+00:00",
       "NumProgressed": 3575,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-20T17:05:06.5135419+00:00",
+      "NumProgressed": 3576,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -1323,7 +1328,7 @@
       "Name": "You Rich Now!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "HACK_YOUR_FIRST_OBJECT",
@@ -1403,7 +1408,7 @@
       "Name": "Don\u0027t Get Cocky",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "WIN_VAULTLANDER_BATTLE_CLAPTRAP",
@@ -1426,7 +1431,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3575,
+      "Progressed": 3576,
       "Completed": 0
     }
   ],
@@ -1434,8 +1439,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-05-28T21:59:31.5873025+00:00",
-  "LastChanged_Achievements": "2023-08-20T16:05:47.3750725+00:00",
+  "LastChanged_Achievements": "2023-08-20T17:05:06.5135414+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:59.8862564+00:00",
-  "LastUpdate_Ratings": "2023-08-20T16:01:39.4641676+00:00",
-  "LastUpdate_Achievements": "2023-08-20T16:05:47.3750909+00:00"
+  "LastUpdate_Ratings": "2023-08-20T17:00:51.9034295+00:00",
+  "LastUpdate_Achievements": "2023-08-20T17:05:06.5135595+00:00"
 }

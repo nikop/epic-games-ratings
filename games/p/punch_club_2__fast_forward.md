@@ -57,11 +57,11 @@
 | Undercover robot | 34.00% | ~89 |
 | Not little hacker | 33.00% | ~86 |
 | Absolute Champion! | 33.00% | ~86 |
+| Careerist | 33.00% | ~86 |
 | Another world | 32.00% | ~84 |
 | The lonesome road | 32.00% | ~84 |
 | Family comes first | 32.00% | ~84 |
 | Key memories | 32.00% | ~84 |
-| Careerist | 32.00% | ~84 |
 | Anyone can resist | 32.00% | ~84 |
 | The heart of the Resistance | 32.00% | ~84 |
 | Trap disarmed | 31.00% | ~81 |

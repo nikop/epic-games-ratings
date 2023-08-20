@@ -14,16 +14,17 @@
 | The Golden Flash | 10.00% | ~5 |
 | Bringing guns to a sword fight | 8.00% | ~4 |
 | Freezing Cold | 8.00% | ~4 |
+| Locked and Loaded | 8.00% | ~4 |
 | The Power of the Mountains | 8.00% | ~4 |
 | Defeat Tezuth | 6.00% | ~3 |
 | Searing Heat | 6.00% | ~3 |
 | Through Dangers Untold | 6.00% | ~3 |
-| Locked and Loaded | 6.00% | ~3 |
 | Nothing but the Truth | 6.00% | ~3 |
 | Changing the World | 6.00% | ~3 |
 | Sponsor | 4.00% | ~2 |
 | Craftsmen | 4.00% | ~2 |
 | The A-Team | 4.00% | ~2 |
+| Expert | 4.00% | ~2 |
 | Mirror, Mirror on the Wall | 2.00% | ~1 |
 | Defeat Ingla | 2.00% | ~1 |
 | Defeat Uskol | 2.00% | ~1 |
@@ -38,7 +39,6 @@
 | Finally! | 2.00% | ~1 |
 | The End | 2.00% | ~1 |
 | But what of the Acreans? | 2.00% | ~1 |
-| Expert | 2.00% | ~1 |
 | Style over Stats | 0.00% | ~0 |
 | Collector | 0.00% | ~0 |
 | Explorer by Heart | 0.00% | ~0 |

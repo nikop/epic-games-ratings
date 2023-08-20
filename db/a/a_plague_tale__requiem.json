@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 166,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
     "PcReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -375,10 +375,10 @@
     }
   ],
   "EOS_Progressed": 12818,
-  "EOS_Completed": 42,
-  "EOS_NewPlayers": 61,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.33,
+  "EOS_Completed": 43,
+  "EOS_NewPlayers": 59,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:45.6707556+00:00",
@@ -7474,6 +7474,11 @@
       "Time": "2023-08-20T16:05:26.7537383+00:00",
       "NumProgressed": 12818,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-08-20T17:04:48.6422585+00:00",
+      "NumProgressed": 12818,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 35,
@@ -7715,9 +7720,9 @@
       "ID": "ACH_30",
       "SetID": "9d4cf4c",
       "Name": "Fighter",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 897
+      "UsersEstimate": 1025
     },
     {
       "ID": "ACH_31",
@@ -7765,15 +7770,15 @@
       "ID": "9d4cf4c",
       "IsBase": true,
       "Progressed": 12818,
-      "Completed": 42
+      "Completed": 43
     }
   ],
   "FirstSeen": "2022-10-18T03:00:59.1275304+00:00",
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-08-19T22:02:21.6119122+00:00",
-  "LastChanged_Achievements": "2023-08-20T16:05:26.7537379+00:00",
+  "LastChanged_Achievements": "2023-08-20T17:04:48.642258+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:59.2474343+00:00",
-  "LastUpdate_Ratings": "2023-08-20T16:01:39.630819+00:00",
-  "LastUpdate_Achievements": "2023-08-20T16:05:26.7537908+00:00"
+  "LastUpdate_Ratings": "2023-08-20T17:00:52.0390675+00:00",
+  "LastUpdate_Achievements": "2023-08-20T17:04:48.6423107+00:00"
 }

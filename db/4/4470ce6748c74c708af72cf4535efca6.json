@@ -4,7 +4,7 @@
   "ProductSlug": "warstone-td-8fe138",
   "Ranking_EOS_Progress": 410,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -277,9 +277,9 @@
       "ID": "3",
       "SetID": "5e3maia",
       "Name": "Feudal lord",
-      "Percentage": 95,
+      "Percentage": 100,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "32",
@@ -349,9 +349,9 @@
       "ID": "4",
       "SetID": "5e3maia",
       "Name": "Epic Alliance",
-      "Percentage": 100,
+      "Percentage": 105,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "40",
@@ -437,9 +437,9 @@
       "ID": "5",
       "SetID": "5e3maia",
       "Name": "Tax official",
-      "Percentage": 95,
+      "Percentage": 100,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "50",
@@ -525,9 +525,9 @@
       "ID": "6",
       "SetID": "5e3maia",
       "Name": "Blacksmith",
-      "Percentage": 100,
+      "Percentage": 105,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "60",
@@ -652,8 +652,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-08-20T16:04:54.0749377+00:00",
+  "LastChanged_Achievements": "2023-08-20T17:04:20.1063151+00:00",
   "LastUpdate_AppInfo": "2023-08-18T21:57:04.0506989+00:00",
-  "LastUpdate_Ratings": "2023-08-20T15:58:23.8056942+00:00",
-  "LastUpdate_Achievements": "2023-08-20T16:04:54.0749931+00:00"
+  "LastUpdate_Ratings": "2023-08-20T16:58:00.7645731+00:00",
+  "LastUpdate_Achievements": "2023-08-20T17:04:20.1063707+00:00"
 }

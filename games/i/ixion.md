@@ -29,12 +29,12 @@ Rating: 4.55 (Ranked 487)
 | Access Granted | 5.00% | ~154 |
 | Necessary Enhancement | 5.00% | ~154 |
 | From the Past | 5.00% | ~154 |
-| Oats | 4.00% | ~123 |
-| What They Hide From Us | 4.00% | ~123 |
-| ...  in a finite world | 4.00% | ~123 |
-| BRAWL! | 4.00% | ~123 |
-| All in Good Health | 4.00% | ~123 |
-| What the Ruins Teach Us | 4.00% | ~123 |
+| Oats | 4.00% | ~124 |
+| What They Hide From Us | 4.00% | ~124 |
+| ...  in a finite world | 4.00% | ~124 |
+| BRAWL! | 4.00% | ~124 |
+| All in Good Health | 4.00% | ~124 |
+| What the Ruins Teach Us | 4.00% | ~124 |
 | Sustainable Energy | 3.00% | ~93 |
 | In Dolos We Trust | 3.00% | ~93 |
 | Pedal to the Metal | 3.00% | ~93 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 487)
 | Beyond Time and Space | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,087 (Ranked 160)  
+Progressed: 3,088 (Ranked 160)  
 Completed: 0 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,7 +184,7 @@ Completed: 0 (0.00%) (Ranked 261)
 | 2023-08-17 | 3,079 | 0 |
 | 2023-08-18 | 3,083 | 0 |
 | 2023-08-19 | 3,086 | 0 |
-| 2023-08-20 | 3,087 | 0 |
+| 2023-08-20 | 3,088 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

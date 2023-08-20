@@ -1359,9 +1359,9 @@
       "ID": "prof_promotion_2",
       "SetID": "69co12a",
       "Name": "Careerist",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 86
     },
     {
       "ID": "resistance_fake",
@@ -1486,8 +1486,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-08-20T16:05:34.5242506+00:00",
+  "LastChanged_Achievements": "2023-08-20T17:04:55.4773493+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:55.5083268+00:00",
-  "LastUpdate_Ratings": "2023-08-20T15:59:32.9466633+00:00",
-  "LastUpdate_Achievements": "2023-08-20T16:05:34.5244091+00:00"
+  "LastUpdate_Ratings": "2023-08-20T16:59:03.2124904+00:00",
+  "LastUpdate_Achievements": "2023-08-20T17:04:55.4774029+00:00"
 }

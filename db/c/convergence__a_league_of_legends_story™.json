@@ -2206,9 +2206,9 @@
       "ID": "LacunaCompleted",
       "SetID": "a9e499d",
       "Name": "Make Up For Lost Time",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 159
     },
     {
       "ID": "MapCompletion1",
@@ -2342,9 +2342,9 @@
       "ID": "SkillProgress1",
       "SetID": "a9e499d",
       "Name": "Fast Learner",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 142
+      "UsersEstimate": 150
     },
     {
       "ID": "SpeedRun",
@@ -2447,8 +2447,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-08-20T16:06:20.764538+00:00",
+  "LastChanged_Achievements": "2023-08-20T17:05:35.1771927+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:11.9722245+00:00",
-  "LastUpdate_Ratings": "2023-08-20T15:57:22.1675413+00:00",
-  "LastUpdate_Achievements": "2023-08-20T16:06:20.7645841+00:00"
+  "LastUpdate_Ratings": "2023-08-20T16:57:06.2527883+00:00",
+  "LastUpdate_Achievements": "2023-08-20T17:05:35.1772382+00:00"
 }

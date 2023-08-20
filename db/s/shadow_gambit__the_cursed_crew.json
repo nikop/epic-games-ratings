@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 351,
+  "EOS_Progressed": 356,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 331,
+  "EOS_NewPlayers": 336,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -566,6 +566,11 @@
       "Time": "2023-08-20T16:03:49.2903436+00:00",
       "NumProgressed": 351,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-20T17:03:31.4429755+00:00",
+      "NumProgressed": 356,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -586,7 +591,7 @@
       "Name": "A New Journey",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 253
+      "UsersEstimate": 256
     },
     {
       "ID": "_03_FinishAct1",
@@ -594,7 +599,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 158
+      "UsersEstimate": 160
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -602,7 +607,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "_05_FinishAct2",
@@ -610,7 +615,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -624,7 +629,7 @@
       "ID": "_07_FinishAct3",
       "SetID": "8a1io5d",
       "Name": "All Good Things",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -634,7 +639,7 @@
       "Name": "Swabbie",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 100
     },
     {
       "ID": "_09_Completion_20",
@@ -664,7 +669,7 @@
       "ID": "_12_Completion_50",
       "SetID": "8a1io5d",
       "Name": "Privateer",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -706,7 +711,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -728,9 +733,9 @@
       "ID": "_20_CrewTale_TPB",
       "SetID": "8a1io5d",
       "Name": "Fishy Fish",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 28
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -744,9 +749,9 @@
       "ID": "_22_CrewTale_FSH",
       "SetID": "8a1io5d",
       "Name": "Accursed Artifacts",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 7
     },
     {
       "ID": "_23_CrewTale_CNN",
@@ -785,14 +790,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 351,
+      "Progressed": 356,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-20T16:03:49.2903432+00:00",
+  "LastChanged_Achievements": "2023-08-20T17:03:31.4429748+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:01.7621403+00:00",
-  "LastUpdate_Ratings": "2023-08-20T16:00:12.286766+00:00",
-  "LastUpdate_Achievements": "2023-08-20T16:03:49.2903605+00:00"
+  "LastUpdate_Ratings": "2023-08-20T16:59:34.4978459+00:00",
+  "LastUpdate_Achievements": "2023-08-20T17:03:31.4429944+00:00"
 }

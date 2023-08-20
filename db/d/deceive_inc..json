@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17509,
+  "EOS_Progressed": 17510,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8681,6 +8681,11 @@
       "Time": "2023-08-20T16:05:44.9629789+00:00",
       "NumProgressed": 17509,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-20T17:05:04.3713145+00:00",
+      "NumProgressed": 17510,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -8700,7 +8705,7 @@
       "Name": "License to Thrill",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 875
+      "UsersEstimate": 876
     },
     {
       "ID": "0003",
@@ -8780,7 +8785,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2801
+      "UsersEstimate": 2802
     },
     {
       "ID": "0013",
@@ -8979,7 +8984,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17509,
+      "Progressed": 17510,
       "Completed": 1
     }
   ],
@@ -8987,8 +8992,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-12T19:04:41.1874293+00:00",
-  "LastChanged_Achievements": "2023-08-20T16:05:44.9629785+00:00",
+  "LastChanged_Achievements": "2023-08-20T17:05:04.3713139+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:28.6624095+00:00",
-  "LastUpdate_Ratings": "2023-08-20T15:57:29.4515636+00:00",
-  "LastUpdate_Achievements": "2023-08-20T16:05:44.963042+00:00"
+  "LastUpdate_Ratings": "2023-08-20T16:57:09.9148731+00:00",
+  "LastUpdate_Achievements": "2023-08-20T17:05:04.3713721+00:00"
 }

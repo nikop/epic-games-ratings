@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 120,
   "Ranking_EOS_NewPlayers": 37,
-  "Ranking_EOS_NewCompleters": 15,
+  "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -5906,10 +5906,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 31145,
       "NumberOfAwardsMax": 5173
+    },
+    {
+      "Time": "2023-08-20T16:59:43.5235149+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 31146,
+      "NumberOfAwardsMax": 5173
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 31145,
+  "NumberOfAwards": 31146,
   "NumberOfAwardsMax": 5173,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5947,7 +5953,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4076
+      "Count": 4077
     },
     {
       "Text": "This game has Playful Visuals",
@@ -5956,10 +5962,10 @@
       "Count": 3364
     }
   ],
-  "EOS_Progressed": 223621,
+  "EOS_Progressed": 223646,
   "EOS_Completed": 2193,
-  "EOS_NewPlayers": 2097,
-  "EOS_NewCompleters": 14,
+  "EOS_NewPlayers": 2104,
+  "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
@@ -19266,6 +19272,11 @@
       "Time": "2023-08-20T16:05:41.5031701+00:00",
       "NumProgressed": 223621,
       "NumCompleted": 2193
+    },
+    {
+      "Time": "2023-08-20T17:05:02.0837508+00:00",
+      "NumProgressed": 223646,
+      "NumCompleted": 2193
     }
   ],
   "TotalAchievements": 516,
@@ -22421,7 +22432,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 894
+      "UsersEstimate": 895
     },
     {
       "ID": "objective_completed_70",
@@ -23373,7 +23384,7 @@
       "Name": "The Hunt for The Last Breath",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 949
+      "UsersEstimate": 950
     },
     {
       "ID": "objective_completed_1396",
@@ -23404,21 +23415,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 189895,
+      "Progressed": 189920,
       "Completed": 3276
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 223621,
+      "Progressed": 223646,
       "Completed": 2193
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-08-20T15:00:19.1503462+00:00",
-  "LastChanged_Achievements": "2023-08-20T16:05:41.5031696+00:00",
+  "LastChanged": "2023-08-20T16:59:43.5235148+00:00",
+  "LastChanged_Achievements": "2023-08-20T17:05:02.0837504+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:12.3267162+00:00",
-  "LastUpdate_Ratings": "2023-08-20T16:00:20.7193439+00:00",
-  "LastUpdate_Achievements": "2023-08-20T16:05:41.5055042+00:00"
+  "LastUpdate_Ratings": "2023-08-20T16:59:43.5235153+00:00",
+  "LastUpdate_Achievements": "2023-08-20T17:05:02.0860493+00:00"
 }

@@ -32,8 +32,8 @@ Rating: 4.73 (Ranked 162)
 | Handful of pockets | 13.00% | ~1,666 |
 | Not a toy anymore | 11.00% | ~1,410 |
 | Pocket laboratory | 11.00% | ~1,410 |
+| Fighter | 8.00% | ~1,025 |
 | Herbalist | 7.00% | ~897 |
-| Fighter | 7.00% | ~897 |
 | Ornithologist | 5.00% | ~641 |
 | Immortal memories | 4.00% | ~513 |
 | Sneaky | 4.00% | ~513 |
@@ -42,7 +42,7 @@ Rating: 4.73 (Ranked 162)
 | Malignant | 1.00% | ~128 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 12,818 (Ranked 119)  
-Completed: 42 (0.33%) (Ranked 166)  
+Completed: 43 (0.34%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -163,7 +163,7 @@ Completed: 42 (0.33%) (Ranked 166)
 | 2023-08-17 | 12,797 | 42 |
 | 2023-08-18 | 12,803 | 42 |
 | 2023-08-19 | 12,810 | 42 |
-| 2023-08-20 | 12,818 | 42 |
+| 2023-08-20 | 12,818 | 43 |
 ## Awards
 Max (Great Boss Battles): 411  (Ranked 212)  
 Sum: 629 (Ranked 292)  

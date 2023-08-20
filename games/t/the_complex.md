@@ -18,7 +18,7 @@
 | Kindar Surprise | 19.00% | ~102 |
 | MVP - Most Vanishing Person | 15.00% | ~81 |
 | Deadly Secret | 14.00% | ~75 |
-| Get Out Of This Alive | 10.00% | ~54 |
+| Get Out Of This Alive | 11.00% | ~59 |
 | The Promise | 10.00% | ~54 |
 | People Pleaser | 9.00% | ~48 |
 | The Nano Glitches And The Martyr | 8.00% | ~43 |
@@ -26,7 +26,7 @@
 | Not A People Person | 4.00% | ~21 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 537 (Ranked 222)  
-Completed: 17 (3.17%) (Ranked 69)  
+Completed: 18 (3.35%) (Ranked 68)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -89,6 +89,7 @@ Completed: 17 (3.17%) (Ranked 69)
 | 2023-08-12 | 535 | 16 |
 | 2023-08-15 | 537 | 16 |
 | 2023-08-19 | 537 | 17 |
+| 2023-08-20 | 537 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

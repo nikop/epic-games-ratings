@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 6,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 5,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2023-06-08T15:00:00+00:00",
     "PcReleaseDate": "2013-08-12T22:00:00+00:00",
@@ -3086,10 +3086,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 13366,
       "NumberOfAwardsMax": 6911
+    },
+    {
+      "Time": "2023-08-20T16:58:42.6864637+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 13377,
+      "NumberOfAwardsMax": 6911
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13366,
+  "NumberOfAwards": 13377,
   "NumberOfAwardsMax": 6911,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3115,7 +3121,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 925
+      "Count": 936
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3160,10 +3166,10 @@
       "Count": 733
     }
   ],
-  "EOS_Progressed": 1590982,
+  "EOS_Progressed": 1591205,
   "EOS_Completed": 518,
-  "EOS_NewPlayers": 25557,
-  "EOS_NewCompleters": 28,
+  "EOS_NewPlayers": 25580,
+  "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
     {
@@ -11565,6 +11571,11 @@
       "Time": "2023-08-20T16:03:47.5905531+00:00",
       "NumProgressed": 1590982,
       "NumCompleted": 518
+    },
+    {
+      "Time": "2023-08-20T17:03:31.1039824+00:00",
+      "NumProgressed": 1591205,
+      "NumCompleted": 518
     }
   ],
   "TotalAchievements": 1328,
@@ -11632,7 +11643,7 @@
       "Name": "The Collector",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6364
+      "UsersEstimate": 6365
     },
     {
       "ID": "armed_and_dangerous",
@@ -11646,9 +11657,9 @@
       "ID": "armed_to_the_teeth",
       "SetID": "61cefe3",
       "Name": "Would You Like Your Receipt?",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 6364
+      "UsersEstimate": 7956
     },
     {
       "ID": "armored_1",
@@ -12776,7 +12787,7 @@
       "Name": "I Want to Get Away",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 14319
+      "UsersEstimate": 14321
     },
     {
       "ID": "brooklyn_2",
@@ -13000,7 +13011,7 @@
       "Name": "Virus",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 9546
+      "UsersEstimate": 9547
     },
     {
       "ID": "cac_29",
@@ -16048,7 +16059,7 @@
       "Name": "Smooth Criminal",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 4773
+      "UsersEstimate": 4774
     },
     {
       "ID": "gorilla_1",
@@ -16192,7 +16203,7 @@
       "Name": "Guilty of Crime",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 9546
+      "UsersEstimate": 9547
     },
     {
       "ID": "halloween_1",
@@ -16328,7 +16339,7 @@
       "Name": "How Do You Like Me Now?",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 7955
+      "UsersEstimate": 7956
     },
     {
       "ID": "i_knew_what_i_was_doing_was_wrong",
@@ -17288,7 +17299,7 @@
       "Name": "No One Cared Who I Was...",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 11137
+      "UsersEstimate": 11138
     },
     {
       "ID": "no_turning_back",
@@ -17296,7 +17307,7 @@
       "Name": "No Turning Back",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 11137
+      "UsersEstimate": 11138
     },
     {
       "ID": "orange_1",
@@ -19718,9 +19729,9 @@
       "ID": "trk_bg_0",
       "SetID": "61cefe3",
       "Name": "Taking the Bars",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 1591
+      "UsersEstimate": 3182
     },
     {
       "ID": "trk_bg_1",
@@ -20928,7 +20939,7 @@
       "Name": "There is Always a First Time",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 4773
+      "UsersEstimate": 4774
     },
     {
       "ID": "trk_js_1",
@@ -22080,7 +22091,7 @@
       "Name": "Armed to the Teeth",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6364
+      "UsersEstimate": 6365
     },
     {
       "ID": "wwh_1",
@@ -22182,9 +22193,9 @@
       "ID": "you_gotta_start_somewhere",
       "SetID": "61cefe3",
       "Name": "You Gotta Start Somewhere",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 11137
+      "UsersEstimate": 12730
     },
     {
       "ID": "you_shall_not_pass",
@@ -22199,22 +22210,22 @@
     {
       "ID": "61cefe3",
       "IsBase": true,
-      "Progressed": 1590982,
+      "Progressed": 1591205,
       "Completed": 518
     },
     {
       "ID": "bkjdbk8",
       "IsBase": false,
-      "Progressed": 1590982,
+      "Progressed": 1591205,
       "Completed": 28
     }
   ],
   "FirstSeen": "2023-06-08T18:57:07.8003815+00:00",
   "FirstSeenRating": "2023-06-09T03:57:04.3869033+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:50.4372379+00:00",
-  "LastChanged": "2023-08-20T09:58:37.5440343+00:00",
-  "LastChanged_Achievements": "2023-08-20T16:03:47.5905525+00:00",
+  "LastChanged": "2023-08-20T16:58:42.6864636+00:00",
+  "LastChanged_Achievements": "2023-08-20T17:03:31.1039819+00:00",
   "LastUpdate_AppInfo": "2023-08-17T20:57:10.4408604+00:00",
-  "LastUpdate_Ratings": "2023-08-20T15:59:11.1853438+00:00",
-  "LastUpdate_Achievements": "2023-08-20T16:03:47.6042032+00:00"
+  "LastUpdate_Ratings": "2023-08-20T16:58:42.6864642+00:00",
+  "LastUpdate_Achievements": "2023-08-20T17:03:31.1174391+00:00"
 }

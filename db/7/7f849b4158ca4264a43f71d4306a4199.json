@@ -4,7 +4,7 @@
   "ProductSlug": "choochoo-charles-0eece5",
   "Ranking_EOS_Progress": 548,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewPlayers": 359,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-08-17T08:00:00+00:00",
@@ -18,6 +18,8 @@
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 0,
   "EOS_Completed": 0,
@@ -29,7 +31,8 @@
   "TotalAchievementsXP": 0,
   "Achievements": [],
   "AchievementSets": [],
+  "FirstSeen": "2023-08-20T16:57:08.4189955+00:00",
   "LastUpdate_AppInfo": "2023-08-17T21:57:11.4137227+00:00",
-  "LastUpdate_Ratings": "2023-08-20T15:57:27.5911923+00:00",
-  "LastUpdate_Achievements": "2023-08-20T16:03:13.2669338+00:00"
+  "LastUpdate_Ratings": "2023-08-20T16:57:08.4189977+00:00",
+  "LastUpdate_Achievements": "2023-08-20T17:02:20.053771+00:00"
 }

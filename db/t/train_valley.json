@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
@@ -117,9 +117,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 440,
+  "EOS_Progressed": 441,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -892,6 +892,11 @@
       "Time": "2023-08-18T07:06:52.5429338+00:00",
       "NumProgressed": 440,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-20T17:05:31.7895856+00:00",
+      "NumProgressed": 441,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -903,7 +908,7 @@
       "Name": "Getting started",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "02_collector",
@@ -959,15 +964,15 @@
       "Name": "America",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "09_russia",
       "SetID": "chb1m60",
       "Name": "Russia",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 79
+      "UsersEstimate": 75
     },
     {
       "ID": "10_japan",
@@ -997,9 +1002,9 @@
       "ID": "13_bunkrupt",
       "SetID": "chb1m60",
       "Name": "It\u0027s no coincidence.",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 132
+      "UsersEstimate": 128
     },
     {
       "ID": "14_woodcutter",
@@ -1007,7 +1012,7 @@
       "Name": "Woodcutter",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "15_bbq",
@@ -1031,7 +1036,7 @@
       "Name": "Builder",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "18_foreman",
@@ -1039,7 +1044,7 @@
       "Name": "Foreman",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "19_justintime",
@@ -1047,7 +1052,7 @@
       "Name": "Just in time!",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "20_sabotage",
@@ -1069,9 +1074,9 @@
       "ID": "22_ouroboros",
       "SetID": "chb1m60",
       "Name": "Ouroboros",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 106
     },
     {
       "ID": "23_closecall",
@@ -1079,7 +1084,7 @@
       "Name": "Close call!",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "24_mega",
@@ -1167,7 +1172,7 @@
       "Name": "Need to think",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "35_achtung",
@@ -1175,7 +1180,7 @@
       "Name": "Achtung!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "36_supercrash",
@@ -1214,15 +1219,15 @@
     {
       "ID": "chb1m60",
       "IsBase": true,
-      "Progressed": 440,
+      "Progressed": 441,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-08-15T19:59:30.756961+00:00",
-  "LastChanged_Achievements": "2023-08-20T16:06:16.919828+00:00",
+  "LastChanged_Achievements": "2023-08-20T17:05:31.789585+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:35.3683118+00:00",
-  "LastUpdate_Ratings": "2023-08-20T15:59:48.0847419+00:00",
-  "LastUpdate_Achievements": "2023-08-20T16:06:16.9198559+00:00"
+  "LastUpdate_Ratings": "2023-08-20T16:59:16.2204191+00:00",
+  "LastUpdate_Achievements": "2023-08-20T17:05:31.7896125+00:00"
 }

@@ -363,9 +363,9 @@
       "ID": "ACHIEVEMENT_13",
       "SetID": "b36c5kb",
       "Name": "Fire Walk With Me",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -682,8 +682,8 @@
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-08-20T16:05:05.3679182+00:00",
+  "LastChanged_Achievements": "2023-08-20T17:04:30.0334473+00:00",
   "LastUpdate_AppInfo": "2023-08-16T16:57:24.779676+00:00",
-  "LastUpdate_Ratings": "2023-08-20T15:58:27.1436259+00:00",
-  "LastUpdate_Achievements": "2023-08-20T16:05:05.3679544+00:00"
+  "LastUpdate_Ratings": "2023-08-20T16:58:03.5690638+00:00",
+  "LastUpdate_Achievements": "2023-08-20T17:04:30.0334842+00:00"
 }

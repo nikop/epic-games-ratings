@@ -4,7 +4,7 @@
   "ProductSlug": "geojelly-a44cfe",
   "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 83,
-  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewPlayers": 359,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-06-07T18:00:00+00:00",
@@ -333,8 +333,8 @@
   ],
   "FirstSeen": "2023-06-24T07:57:28.1262112+00:00",
   "FirstSeenAchievements": "2023-05-09T08:01:56.5974066+00:00",
-  "LastChanged_Achievements": "2023-08-20T16:05:24.0138266+00:00",
+  "LastChanged_Achievements": "2023-08-20T17:04:46.049569+00:00",
   "LastUpdate_AppInfo": "2023-08-15T16:57:20.1307932+00:00",
-  "LastUpdate_Ratings": "2023-08-20T15:59:15.1502783+00:00",
-  "LastUpdate_Achievements": "2023-08-20T16:05:24.0138371+00:00"
+  "LastUpdate_Ratings": "2023-08-20T16:58:45.7548427+00:00",
+  "LastUpdate_Achievements": "2023-08-20T17:04:46.0495783+00:00"
 }

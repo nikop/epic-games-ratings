@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1003,
+  "EOS_Progressed": 1004,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 116,
+  "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3506,6 +3506,11 @@
       "Time": "2023-08-20T16:03:23.2512343+00:00",
       "NumProgressed": 1003,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-20T17:03:08.7966423+00:00",
+      "NumProgressed": 1004,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -3637,7 +3642,7 @@
       "Name": "Sergeant",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -3691,9 +3696,9 @@
       "ID": "objective_key_alliance_join_1",
       "SetID": "bm61c2p",
       "Name": "It\u0027s Good to have Allies",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 321
+      "UsersEstimate": 311
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -3701,7 +3706,7 @@
       "Name": "Covert Operative",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -3820,14 +3825,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1003,
+      "Progressed": 1004,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-20T16:03:23.2512339+00:00",
+  "LastChanged_Achievements": "2023-08-20T17:03:08.7966418+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:20.8459338+00:00",
-  "LastUpdate_Ratings": "2023-08-20T15:58:29.0450187+00:00",
-  "LastUpdate_Achievements": "2023-08-20T16:03:23.2512724+00:00"
+  "LastUpdate_Ratings": "2023-08-20T16:58:05.6685269+00:00",
+  "LastUpdate_Achievements": "2023-08-20T17:03:08.7966804+00:00"
 }

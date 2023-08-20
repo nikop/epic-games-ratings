@@ -416,9 +416,9 @@
       "ID": "ACHIEVEMENT_Team_Fumi",
       "SetID": "70j9o42",
       "Name": "Team Fumi",
-      "Percentage": 25,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_TechSavvy",
@@ -455,8 +455,8 @@
   ],
   "FirstSeen": "2023-07-28T15:57:49.6060029+00:00",
   "FirstSeenAchievements": "2023-07-12T17:04:29.8033729+00:00",
-  "LastChanged_Achievements": "2023-08-20T16:05:58.7325302+00:00",
+  "LastChanged_Achievements": "2023-08-20T17:05:16.3856416+00:00",
   "LastUpdate_AppInfo": "2023-08-15T09:57:15.1154878+00:00",
-  "LastUpdate_Ratings": "2023-08-20T15:58:59.5579414+00:00",
-  "LastUpdate_Achievements": "2023-08-20T16:05:58.732554+00:00"
+  "LastUpdate_Ratings": "2023-08-20T16:58:32.6099599+00:00",
+  "LastUpdate_Achievements": "2023-08-20T17:05:16.3856644+00:00"
 }

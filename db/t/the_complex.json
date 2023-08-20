@@ -3,9 +3,9 @@
   "Name": "The Complex",
   "ProductSlug": "the-complex-0ca5bb",
   "Ranking_EOS_Progress": 222,
-  "Ranking_EOS_Completed": 69,
+  "Ranking_EOS_Completed": 68,
   "Ranking_EOS_NewPlayers": 287,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
     "PcReleaseDate": "2020-03-31T05:00:00+00:00",
@@ -28,10 +28,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 537,
-  "EOS_Completed": 17,
+  "EOS_Completed": 18,
   "EOS_NewPlayers": 2,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.17,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 3.35,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:48.1616312+00:00",
@@ -502,6 +502,11 @@
       "Time": "2023-08-19T05:05:03.4344025+00:00",
       "NumProgressed": 537,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-08-20T17:05:23.1398019+00:00",
+      "NumProgressed": 537,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 20,
@@ -551,9 +556,9 @@
       "ID": "ending_3",
       "SetID": "d4f4pll",
       "Name": "Get Out Of This Alive",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 54
+      "UsersEstimate": 59
     },
     {
       "ID": "ending_4",
@@ -673,15 +678,15 @@
       "ID": "d4f4pll",
       "IsBase": true,
       "Progressed": 537,
-      "Completed": 17
+      "Completed": 18
     }
   ],
   "FirstSeen": "2022-10-09T13:32:29.6918033+00:00",
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-08-20T16:06:06.5507708+00:00",
+  "LastChanged_Achievements": "2023-08-20T17:05:23.1398014+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:43.0009818+00:00",
-  "LastUpdate_Ratings": "2023-08-20T15:59:18.7504461+00:00",
-  "LastUpdate_Achievements": "2023-08-20T16:06:06.5507835+00:00"
+  "LastUpdate_Ratings": "2023-08-20T16:58:50.3512822+00:00",
+  "LastUpdate_Achievements": "2023-08-20T17:05:23.1398152+00:00"
 }
