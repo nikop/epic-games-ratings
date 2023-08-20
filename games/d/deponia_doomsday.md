@@ -5,31 +5,31 @@ Rating: 4.56 (Ranked 473)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Huzza, he's back. | 88.00% | ~332 |
+| Huzza, he's back. | 87.00% | ~329 |
 | And again, and again, and... | 63.00% | ~238 |
 | Burn, Elysium, burn! | 62.00% | ~234 |
-| Kuvaq Minigame-Master | 60.00% | ~226 |
-| FunScore | 55.00% | ~207 |
+| Kuvaq Minigame-Master | 60.00% | ~227 |
+| FunScore | 54.00% | ~204 |
 | Funtime's over | 53.00% | ~200 |
-| Chunky | 50.00% | ~188 |
+| Chunky | 50.00% | ~189 |
 | Shall we play a game? | 48.00% | ~181 |
 | Boat of love, boat of love | 48.00% | ~181 |
-| School's out | 43.00% | ~162 |
-| Scaffolding Expert | 37.00% | ~139 |
-| Elysian Minigame-Master | 37.00% | ~139 |
+| School's out | 43.00% | ~163 |
+| Scaffolding Expert | 37.00% | ~140 |
+| Elysian Minigame-Master | 37.00% | ~140 |
 | Sole Music | 36.00% | ~136 |
 | Portals come in packs | 30.00% | ~113 |
-| No man left behind! | 29.00% | ~109 |
+| No man left behind! | 29.00% | ~110 |
 | Photo Friend | 26.00% | ~98 |
 | Brainfreeze | 21.00% | ~79 |
-| And everything comes full circle. | 20.00% | ~75 |
+| And everything comes full circle. | 20.00% | ~76 |
 | Masseltov | 19.00% | ~72 |
 | Thuna...? | 15.00% | ~57 |
 | Quickdraw | 14.00% | ~53 |
 | Monstrous Harassment | 14.00% | ~53 |
-| Heading the inverter | 14.00% | ~53 |
 | Blast from the Past | 14.00% | ~53 |
-| Play it again, Ronny | 11.00% | ~41 |
+| Heading the inverter | 13.00% | ~49 |
+| Play it again, Ronny | 11.00% | ~42 |
 | Goat Team | 10.00% | ~38 |
 | Paradox! | 10.00% | ~38 |
 | Weapons 101 | 8.00% | ~30 |
@@ -42,7 +42,7 @@ Rating: 4.56 (Ranked 473)
 | Every man for himself! | 5.00% | ~19 |
 | 1001 Jackalopes | 2.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 377 (Ranked 246)  
+Progressed: 378 (Ranked 246)  
 Completed: 6 (1.59%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,6 +71,7 @@ Completed: 6 (1.59%) (Ranked 102)
 | 2023-08-16 | 375 | 6 |
 | 2023-08-18 | 376 | 6 |
 | 2023-08-19 | 377 | 6 |
+| 2023-08-20 | 378 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

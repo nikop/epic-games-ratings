@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2530,
+  "EOS_Progressed": 2532,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -2643,6 +2643,11 @@
       "Time": "2023-08-19T22:05:35.4708866+00:00",
       "NumProgressed": 2530,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-08-20T06:06:21.6432606+00:00",
+      "NumProgressed": 2532,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -2662,7 +2667,7 @@
       "Name": "A big leap for wolfkind",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "FALLEN_TREE",
@@ -2686,7 +2691,7 @@
       "Name": "The will to move on",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "REUNION",
@@ -2694,7 +2699,7 @@
       "Name": "Reunion",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "SLIDERS",
@@ -2750,14 +2755,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2530,
+      "Progressed": 2532,
       "Completed": 6
     }
   ],
@@ -2765,8 +2770,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-08-20T05:05:23.9994276+00:00",
+  "LastChanged_Achievements": "2023-08-20T06:06:21.64326+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:53.8347436+00:00",
-  "LastUpdate_Ratings": "2023-08-20T05:01:46.1942697+00:00",
-  "LastUpdate_Achievements": "2023-08-20T05:05:23.9994493+00:00"
+  "LastUpdate_Ratings": "2023-08-20T06:02:52.0619025+00:00",
+  "LastUpdate_Achievements": "2023-08-20T06:06:21.6432886+00:00"
 }

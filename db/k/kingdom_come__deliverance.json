@@ -6630,9 +6630,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 797717,
+  "EOS_Progressed": 797719,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 888,
+  "EOS_NewPlayers": 886,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -19970,6 +19970,11 @@
       "Time": "2023-08-20T05:06:30.4938797+00:00",
       "NumProgressed": 797717,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-08-20T06:07:32.778991+00:00",
+      "NumProgressed": 797719,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 82,
@@ -20061,7 +20066,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 255269
+      "UsersEstimate": 255270
     },
     {
       "ID": "Bookworm",
@@ -20093,7 +20098,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 199429
+      "UsersEstimate": 199430
     },
     {
       "ID": "Chivalrous",
@@ -20461,7 +20466,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 159543
+      "UsersEstimate": 159544
     },
     {
       "ID": "RevenantOfLedechko",
@@ -20501,7 +20506,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 159543
+      "UsersEstimate": 159544
     },
     {
       "ID": "SerialKiller",
@@ -20636,15 +20641,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 797717,
+      "Progressed": 797719,
       "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-08-20T05:00:50.2017043+00:00",
-  "LastChanged_Achievements": "2023-08-20T05:06:30.4938793+00:00",
+  "LastChanged_Achievements": "2023-08-20T06:07:32.7789903+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:50.3701677+00:00",
-  "LastUpdate_Ratings": "2023-08-20T05:00:50.2017048+00:00",
-  "LastUpdate_Achievements": "2023-08-20T05:06:30.49401+00:00"
+  "LastUpdate_Ratings": "2023-08-20T06:01:48.9932257+00:00",
+  "LastUpdate_Achievements": "2023-08-20T06:07:32.7792639+00:00"
 }

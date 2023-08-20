@@ -84,7 +84,7 @@
 | Full rainforest | 0.00% | ~0 |
 | Rainforest master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 316 (Ranked 257)  
+Progressed: 316 (Ranked 258)  
 Completed: 0 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |

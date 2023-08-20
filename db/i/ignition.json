@@ -4,7 +4,7 @@
   "ProductSlug": "ignition-5246f9",
   "Ranking_EOS_Progress": 548,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewPlayers": 358,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-07-15T16:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:02.2385978+00:00",
   "LastChanged": "2023-03-31T05:58:02.2385979+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:54.1397254+00:00",
-  "LastUpdate_Ratings": "2023-08-20T04:57:44.5316871+00:00",
-  "LastUpdate_Achievements": "2023-08-20T05:04:09.3829089+00:00"
+  "LastUpdate_Ratings": "2023-08-20T05:58:23.8449604+00:00",
+  "LastUpdate_Achievements": "2023-08-20T06:05:02.5370206+00:00"
 }

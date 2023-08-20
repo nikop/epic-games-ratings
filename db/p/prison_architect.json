@@ -2,7 +2,7 @@
   "ID": "3ffb410dab2d409aacd39a1abc6fcbba",
   "Name": "Prison Architect",
   "ProductSlug": "prison-architect",
-  "Ranking_Rating": 365,
+  "Ranking_Rating": 366,
   "Ranking_Popularity": 199,
   "Ranking_PopularitySum": 149,
   "Ranking_EOS_Progress": 62,
@@ -4806,7 +4806,7 @@
       "Count": 381
     }
   ],
-  "EOS_Progressed": 165960,
+  "EOS_Progressed": 165971,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 2491,
   "EOS_NewCompleters": 1,
@@ -18176,6 +18176,11 @@
       "Time": "2023-08-20T05:04:41.8495198+00:00",
       "NumProgressed": 165960,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-08-20T06:05:36.292703+00:00",
+      "NumProgressed": 165971,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 16,
@@ -18219,7 +18224,7 @@
       "Name": "Get Busy Living",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 26554
+      "UsersEstimate": 26555
     },
     {
       "ID": "Achievement_13",
@@ -18267,7 +18272,7 @@
       "Name": "Stone Walls",
       "Percentage": 26,
       "XP": 40,
-      "UsersEstimate": 43150
+      "UsersEstimate": 43152
     },
     {
       "ID": "Achievement_5",
@@ -18299,7 +18304,7 @@
       "Name": "Samuel Norton",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 14936
+      "UsersEstimate": 14937
     },
     {
       "ID": "Achievement_9",
@@ -18307,22 +18312,22 @@
       "Name": "Spare The Rod",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 8298
+      "UsersEstimate": 8299
     }
   ],
   "AchievementSets": [
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 165960,
+      "Progressed": 165971,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2023-08-19T22:01:27.3764914+00:00",
-  "LastChanged_Achievements": "2023-08-20T05:04:41.8495195+00:00",
+  "LastChanged_Achievements": "2023-08-20T06:05:36.2927023+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:05.8280665+00:00",
-  "LastUpdate_Ratings": "2023-08-20T05:01:03.0537432+00:00",
-  "LastUpdate_Achievements": "2023-08-20T05:04:41.8495896+00:00"
+  "LastUpdate_Ratings": "2023-08-20T06:02:03.1173207+00:00",
+  "LastUpdate_Achievements": "2023-08-20T06:05:36.2927923+00:00"
 }

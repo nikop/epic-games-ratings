@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 102,
-  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewPlayers": 256,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -65,9 +65,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 377,
+  "EOS_Progressed": 378,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.59,
   "EosHistory": [
@@ -190,6 +190,11 @@
       "Time": "2023-08-19T09:06:27.2519796+00:00",
       "NumProgressed": 377,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-08-20T06:05:29.0192559+00:00",
+      "NumProgressed": 378,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 36,
@@ -199,9 +204,9 @@
       "ID": "dep4_achievement_1",
       "SetID": "5d32b60",
       "Name": "Huzza, he\u0027s back.",
-      "Percentage": 88,
+      "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 332
+      "UsersEstimate": 329
     },
     {
       "ID": "dep4_achievement_10",
@@ -273,15 +278,15 @@
       "Name": "Chunky",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "dep4_achievement_19",
       "SetID": "5d32b60",
       "Name": "FunScore",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 204
     },
     {
       "ID": "dep4_achievement_2",
@@ -313,7 +318,7 @@
       "Name": "No man left behind!",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "dep4_achievement_23",
@@ -345,7 +350,7 @@
       "Name": "Scaffolding Expert",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "dep4_achievement_27",
@@ -361,7 +366,7 @@
       "Name": "Kuvaq Minigame-Master",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "dep4_achievement_29",
@@ -385,7 +390,7 @@
       "Name": "Elysian Minigame-Master",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "dep4_achievement_31",
@@ -401,15 +406,15 @@
       "Name": "Play it again, Ronny",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "dep4_achievement_33",
       "SetID": "5d32b60",
       "Name": "Heading the inverter",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 49
     },
     {
       "ID": "dep4_achievement_34",
@@ -457,7 +462,7 @@
       "Name": "School\u0027s out",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "dep4_achievement_7",
@@ -473,7 +478,7 @@
       "Name": "And everything comes full circle.",
       "Percentage": 20,
       "XP": 60,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "dep4_achievement_9",
@@ -488,7 +493,7 @@
     {
       "ID": "5d32b60",
       "IsBase": true,
-      "Progressed": 377,
+      "Progressed": 378,
       "Completed": 6
     }
   ],
@@ -496,8 +501,8 @@
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
   "LastChanged": "2023-04-17T16:58:11.036869+00:00",
-  "LastChanged_Achievements": "2023-08-20T05:04:34.9957467+00:00",
+  "LastChanged_Achievements": "2023-08-20T06:05:29.0192553+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:10.9773783+00:00",
-  "LastUpdate_Ratings": "2023-08-20T04:58:10.7214459+00:00",
-  "LastUpdate_Achievements": "2023-08-20T05:04:34.9957701+00:00"
+  "LastUpdate_Ratings": "2023-08-20T05:58:53.5581597+00:00",
+  "LastUpdate_Achievements": "2023-08-20T06:05:29.0192872+00:00"
 }

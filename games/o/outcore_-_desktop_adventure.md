@@ -31,7 +31,7 @@
 | Read a walkthrough | 0.00% | ~0 |
 | Tutorial Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13 (Ranked 436)  
+Progressed: 13 (Ranked 437)  
 Completed: 0 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |

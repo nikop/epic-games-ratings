@@ -10,7 +10,7 @@
 | Hello World | 74.00% | ~532 |
 | Space Engineer | 64.00% | ~460 |
 | Tinkerer | 63.00% | ~453 |
-| Dust to Dust | 57.00% | ~410 |
+| Dust to Dust | 58.00% | ~417 |
 | Across The Stars | 48.00% | ~345 |
 | Crafty | 47.00% | ~338 |
 | All Seats Taken | 38.00% | ~273 |

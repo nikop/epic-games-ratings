@@ -2,7 +2,7 @@
   "ID": "79d9bff700bb46a790b21e8c73b34899",
   "Name": "Salt and Sanctuary",
   "ProductSlug": "salt-and-sanctuary",
-  "Ranking_Rating": 365,
+  "Ranking_Rating": 366,
   "Ranking_Popularity": 242,
   "Ranking_PopularitySum": 201,
   "Ranking_EOS_Progress": 30,
@@ -2475,9 +2475,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 530944,
+  "EOS_Progressed": 530945,
   "EOS_Completed": 1510,
-  "EOS_NewPlayers": 611,
+  "EOS_NewPlayers": 608,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -15560,6 +15560,11 @@
       "Time": "2023-08-20T05:05:28.840132+00:00",
       "NumProgressed": 530944,
       "NumCompleted": 1510
+    },
+    {
+      "Time": "2023-08-20T06:06:26.8550348+00:00",
+      "NumProgressed": 530945,
+      "NumCompleted": 1510
     }
   ],
   "TotalAchievements": 37,
@@ -15587,7 +15592,7 @@
       "Name": "Devara\u0027s Light",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 159283
+      "UsersEstimate": 159284
     },
     {
       "ID": "DEVOTED",
@@ -15827,7 +15832,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 339804
+      "UsersEstimate": 339805
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -15866,15 +15871,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 530944,
+      "Progressed": 530945,
       "Completed": 1510
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-08-19T10:00:28.9723767+00:00",
-  "LastChanged_Achievements": "2023-08-20T05:05:28.8401317+00:00",
+  "LastChanged_Achievements": "2023-08-20T06:06:26.8550342+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:57.952106+00:00",
-  "LastUpdate_Ratings": "2023-08-20T05:01:50.598121+00:00",
-  "LastUpdate_Achievements": "2023-08-20T05:05:28.8402117+00:00"
+  "LastUpdate_Ratings": "2023-08-20T06:02:56.57884+00:00",
+  "LastUpdate_Achievements": "2023-08-20T06:06:26.855159+00:00"
 }

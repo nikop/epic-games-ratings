@@ -678,9 +678,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 214896,
+  "EOS_Progressed": 214914,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3589,
+  "EOS_NewPlayers": 3586,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7593,6 +7593,11 @@
       "Time": "2023-08-20T05:02:16.6652352+00:00",
       "NumProgressed": 214896,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-20T06:03:24.5112536+00:00",
+      "NumProgressed": 214914,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -7628,7 +7633,7 @@
       "Name": "Shiny and Cr\u00F4m",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1074
+      "UsersEstimate": 1075
     },
     {
       "ID": "BarbarianKillUsingBow",
@@ -7676,7 +7681,7 @@
       "Name": "The demons\u0027 feast",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1074
+      "UsersEstimate": 1075
     },
     {
       "ID": "Chapter5",
@@ -7684,7 +7689,7 @@
       "Name": "The Great Library",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1074
+      "UsersEstimate": 1075
     },
     {
       "ID": "Chapter6",
@@ -7692,7 +7697,7 @@
       "Name": "Torture and Sensibility",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1074
+      "UsersEstimate": 1075
     },
     {
       "ID": "Chapter7",
@@ -7700,7 +7705,7 @@
       "Name": "Urik\u0027s Depths",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1074
+      "UsersEstimate": 1075
     },
     {
       "ID": "Chapter8",
@@ -7708,7 +7713,7 @@
       "Name": "The Dungeon Master",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1074
+      "UsersEstimate": 1075
     },
     {
       "ID": "Chapter9",
@@ -7716,7 +7721,7 @@
       "Name": "The Statuette of Gladeulfeurah",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1074
+      "UsersEstimate": 1075
     },
     {
       "ID": "CollateralVictim",
@@ -7756,7 +7761,7 @@
       "Name": "The Woman in the High Castle",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1074
+      "UsersEstimate": 1075
     },
     {
       "ID": "DLC1ChooseNecro",
@@ -7988,7 +7993,7 @@
       "Name": "A tale of adventurers not quite like the others...",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1074
+      "UsersEstimate": 1075
     },
     {
       "ID": "Dwarf30Insult",
@@ -8028,7 +8033,7 @@
       "Name": "%#*!$*!",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1074
+      "UsersEstimate": 1075
     },
     {
       "ID": "DwarfLevel2",
@@ -8052,7 +8057,7 @@
       "Name": "Sowwy!",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 42979
+      "UsersEstimate": 42983
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -8074,9 +8079,9 @@
       "ID": "EndCombatOneHp",
       "SetID": "50chcgj",
       "Name": "DM intervention",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1719
+      "UsersEstimate": 1934
     },
     {
       "ID": "EndGameCursed",
@@ -8236,7 +8241,7 @@
       "Name": "I am the night",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1074
+      "UsersEstimate": 1075
     },
     {
       "ID": "RogueEpic",
@@ -8260,7 +8265,7 @@
       "Name": "Team Building Exercise",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1074
+      "UsersEstimate": 1075
     },
     {
       "ID": "SystematicallyStupid",
@@ -8284,7 +8289,7 @@
       "Name": "Oh, when I\u0027ll be level 10...",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1074
+      "UsersEstimate": 1075
     },
     {
       "ID": "WizardEpic",
@@ -8307,21 +8312,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 214896,
+      "Progressed": 214914,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 214896,
+      "Progressed": 214914,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-19T12:00:42.0371469+00:00",
-  "LastChanged_Achievements": "2023-08-20T05:02:16.6652349+00:00",
+  "LastChanged_Achievements": "2023-08-20T06:03:24.511253+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:36.4163589+00:00",
-  "LastUpdate_Ratings": "2023-08-20T05:01:30.7713794+00:00",
-  "LastUpdate_Achievements": "2023-08-20T05:02:16.6653796+00:00"
+  "LastUpdate_Ratings": "2023-08-20T06:02:34.1612855+00:00",
+  "LastUpdate_Achievements": "2023-08-20T06:03:24.5114962+00:00"
 }

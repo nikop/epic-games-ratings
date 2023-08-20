@@ -430,9 +430,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7558,
+  "EOS_Progressed": 7559,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -7485,6 +7485,11 @@
       "Time": "2023-08-20T04:07:28.9693064+00:00",
       "NumProgressed": 7558,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-08-20T06:08:30.585926+00:00",
+      "NumProgressed": 7559,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 29,
@@ -7496,7 +7501,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 6273
+      "UsersEstimate": 6274
     },
     {
       "ID": "ACH02",
@@ -7536,7 +7541,7 @@
       "Name": "Street Sweeper",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 1360
+      "UsersEstimate": 1361
     },
     {
       "ID": "ACH07",
@@ -7568,7 +7573,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2116
+      "UsersEstimate": 2117
     },
     {
       "ID": "ACH11",
@@ -7727,7 +7732,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7558,
+      "Progressed": 7559,
       "Completed": 46
     }
   ],
@@ -7735,8 +7740,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-08-18T01:37:32.2922999+00:00",
-  "LastChanged_Achievements": "2023-08-20T05:07:25.8092154+00:00",
+  "LastChanged_Achievements": "2023-08-20T06:08:30.5859253+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:48.3209377+00:00",
-  "LastUpdate_Ratings": "2023-08-20T05:00:04.698644+00:00",
-  "LastUpdate_Achievements": "2023-08-20T05:07:25.8092707+00:00"
+  "LastUpdate_Ratings": "2023-08-20T06:00:56.7345937+00:00",
+  "LastUpdate_Achievements": "2023-08-20T06:08:30.5860553+00:00"
 }

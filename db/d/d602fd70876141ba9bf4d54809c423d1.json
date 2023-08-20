@@ -552,9 +552,9 @@
       "ID": "ACHIEVEMENT_22",
       "SetID": "ap8553i",
       "Name": "Burn, Baby, Burn!",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -664,9 +664,9 @@
       "ID": "ACHIEVEMENT_36",
       "SetID": "ap8553i",
       "Name": "Everybody Gets One",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -965,8 +965,8 @@
   ],
   "FirstSeen": "2023-08-04T21:57:01.9865679+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5206267+00:00",
-  "LastChanged_Achievements": "2023-08-20T05:05:18.5341817+00:00",
+  "LastChanged_Achievements": "2023-08-20T06:06:15.5121322+00:00",
   "LastUpdate_AppInfo": "2023-08-16T16:57:24.4284709+00:00",
-  "LastUpdate_Ratings": "2023-08-20T04:58:22.7685046+00:00",
-  "LastUpdate_Achievements": "2023-08-20T05:05:18.5342477+00:00"
+  "LastUpdate_Ratings": "2023-08-20T05:59:07.3516132+00:00",
+  "LastUpdate_Achievements": "2023-08-20T06:06:15.512297+00:00"
 }

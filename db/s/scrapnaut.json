@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
@@ -135,9 +135,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 349,
+  "EOS_Progressed": 350,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -1000,6 +1000,11 @@
       "Time": "2023-08-19T12:04:39.7091699+00:00",
       "NumProgressed": 349,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-20T06:06:11.9362271+00:00",
+      "NumProgressed": 350,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 31,
@@ -1057,9 +1062,9 @@
       "ID": "ACH_COLLECT_10_MUSHROOMS",
       "SetID": "7c4cldc",
       "Name": "Mushroom Picker",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 202
+      "UsersEstimate": 199
     },
     {
       "ID": "ACH_COLLECT_20_RED_BOOKS",
@@ -1139,15 +1144,15 @@
       "Name": "Treasure Hunter",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ACH_FIRST_BASE",
       "SetID": "7c4cldc",
       "Name": "My New Home",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 216
+      "UsersEstimate": 214
     },
     {
       "ID": "ACH_KILL_100",
@@ -1163,7 +1168,7 @@
       "Name": "Scrapper",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ACH_KILL_50",
@@ -1177,9 +1182,9 @@
       "ID": "ACH_MAKE_CANNED_FOOD",
       "SetID": "7c4cldc",
       "Name": "Prepper",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 88
     },
     {
       "ID": "ACH_MAKE_FUEL",
@@ -1219,7 +1224,7 @@
       "Name": "Smelter",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ACH_SURVIVE_10_DAYS",
@@ -1243,22 +1248,22 @@
       "Name": "Survival Master",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_TELEPORT",
       "SetID": "7c4cldc",
       "Name": "Teleport",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 158
     }
   ],
   "AchievementSets": [
     {
       "ID": "7c4cldc",
       "IsBase": true,
-      "Progressed": 349,
+      "Progressed": 350,
       "Completed": 1
     }
   ],
@@ -1266,8 +1271,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-06-01T06:59:03.7150344+00:00",
-  "LastChanged_Achievements": "2023-08-20T05:05:15.2398954+00:00",
+  "LastChanged_Achievements": "2023-08-20T06:06:11.9362264+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:50.1715597+00:00",
-  "LastUpdate_Ratings": "2023-08-20T05:00:51.7360942+00:00",
-  "LastUpdate_Achievements": "2023-08-20T05:05:15.2399161+00:00"
+  "LastUpdate_Ratings": "2023-08-20T06:01:50.3433899+00:00",
+  "LastUpdate_Achievements": "2023-08-20T06:06:11.9362561+00:00"
 }

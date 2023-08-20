@@ -4,7 +4,7 @@
   "ProductSlug": "blasphemous-2",
   "Ranking_EOS_Progress": 548,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewPlayers": 358,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -38,8 +38,8 @@
   ],
   "FirstSeen": "2023-07-26T07:57:19.1818171+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
-  "LastChanged_Achievements": "2023-08-20T05:04:32.6970278+00:00",
+  "LastChanged_Achievements": "2023-08-20T06:05:26.5352308+00:00",
   "LastUpdate_AppInfo": "2023-08-15T17:57:20.1372586+00:00",
-  "LastUpdate_Ratings": "2023-08-20T04:58:32.8881352+00:00",
-  "LastUpdate_Achievements": "2023-08-20T05:04:32.6970308+00:00"
+  "LastUpdate_Ratings": "2023-08-20T05:59:18.3580497+00:00",
+  "LastUpdate_Achievements": "2023-08-20T06:05:26.5352351+00:00"
 }

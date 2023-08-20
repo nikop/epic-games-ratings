@@ -8,24 +8,24 @@ Number of Ratings: 706  (23.09.2022)
 | ---- | ---------- | ----- |
 | Get A Room | 74.00% | ~3,980 |
 | Having A Field Day | 74.00% | ~3,980 |
-| Reap What You Sow | 71.00% | ~3,818 |
-| The First Day | 68.00% | ~3,657 |
-| Green Thumb | 66.00% | ~3,549 |
+| Reap What You Sow | 71.00% | ~3,819 |
+| The First Day | 68.00% | ~3,658 |
+| Green Thumb | 66.00% | ~3,550 |
 | Novice Researcher | 65.00% | ~3,496 |
-| Putting Food on the Table | 58.00% | ~3,119 |
-| Home Cooked Meal | 57.00% | ~3,065 |
+| Putting Food on the Table | 58.00% | ~3,120 |
+| Home Cooked Meal | 57.00% | ~3,066 |
 | Onward | 56.00% | ~3,012 |
-| The First Week | 53.00% | ~2,850 |
+| The First Week | 53.00% | ~2,851 |
 | Studious Researcher | 51.00% | ~2,743 |
-| Beam Me Up | 50.00% | ~2,689 |
-| Feast or Famine | 49.00% | ~2,635 |
-| Adept Researcher | 44.00% | ~2,366 |
-| Retribution | 40.00% | ~2,151 |
-| ...And Don’t Come Back! | 40.00% | ~2,151 |
+| Beam Me Up | 50.00% | ~2,690 |
+| Feast or Famine | 49.00% | ~2,636 |
+| Adept Researcher | 44.00% | ~2,367 |
+| Retribution | 40.00% | ~2,152 |
+| ...And Don’t Come Back! | 40.00% | ~2,152 |
 | Fit For A King | 37.00% | ~1,990 |
 | Luminary Researcher | 32.00% | ~1,721 |
 | Heating Up | 29.00% | ~1,560 |
-| Winter Is Coming | 26.00% | ~1,398 |
+| Winter Is Coming | 26.00% | ~1,399 |
 | Winter Is Here | 23.00% | ~1,237 |
 | Disassembled | 20.00% | ~1,076 |
 | A Party Now | 20.00% | ~1,076 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~108 |
 | Wabbit Season | 0.50% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,378 (Ranked 139)  
+Progressed: 5,379 (Ranked 139)  
 Completed: 10 (0.19%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 10 (0.19%) (Ranked 189)
 | 2023-08-17 | 5,337 | 10 |
 | 2023-08-18 | 5,357 | 10 |
 | 2023-08-19 | 5,376 | 10 |
-| 2023-08-20 | 5,378 | 10 |
+| 2023-08-20 | 5,379 | 10 |
 ## Awards
 Max (Relaxing): 121  (Ranked 318)  
 Sum: 973 (Ranked 240)  
