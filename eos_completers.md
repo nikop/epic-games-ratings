@@ -29,7 +29,7 @@
 | 27 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.03% |
 | 28 | [Out of Bounds](games/o/out_of_bounds.md) | 10.00% |
 | 29 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.52% |
-| 30 | [Sonic Origins](games/s/sonic_origins.md) | 9.48% |
+| 30 | [Sonic Origins](games/s/sonic_origins.md) | 9.45% |
 | 31 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.30% |
 | 32 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.96% |
 | 33 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.48% |
@@ -52,8 +52,8 @@
 | 50 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.19% |
 | 51 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 5.10% |
 | 52 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.91% |
-| 53 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 4.76% |
-| 54 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.73% |
+| 53 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.80% |
+| 54 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 4.76% |
 | 55 | [Bugsnax](games/b/bugsnax.md) | 4.71% |
 | 56 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.69% |
 | 57 | [JARS](games/j/jars.md) | 4.55% |
@@ -83,9 +83,9 @@
 | 80 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.60% |
 | 80 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.60% |
 | 83 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.56% |
-| 84 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 2.55% |
-| 85 | [Lamentum](games/l/lamentum.md) | 2.53% |
-| 86 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.52% |
+| 84 | [Lamentum](games/l/lamentum.md) | 2.53% |
+| 85 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.52% |
+| 86 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 2.51% |
 | 87 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 88 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.35% |
 | 89 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.27% |
@@ -102,8 +102,8 @@
 | 99 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.67% |
 | 101 | [Iron Danger](games/i/iron_danger.md) | 1.60% |
 | 102 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.59% |
-| 103 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.57% |
-| 104 | [Five Dates](games/f/five_dates.md) | 1.56% |
+| 103 | [Five Dates](games/f/five_dates.md) | 1.56% |
+| 103 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.56% |
 | 105 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.49% |
 | 106 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.47% |
 | 107 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.46% |
@@ -114,7 +114,7 @@
 | 112 | [Chorus](games/c/chorus.md) | 1.14% |
 | 113 | [Trifox](games/t/trifox.md) | 1.10% |
 | 114 | [A Musical Story](games/a/a_musical_story.md) | 1.08% |
-| 114 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.08% |
+| 115 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.06% |
 | 116 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.04% |
 | 117 | [Adios](games/a/adios.md) | 1.01% |
 | 117 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.01% |
@@ -157,7 +157,7 @@
 | 155 | [Tchia](games/t/tchia.md) | 0.44% |
 | 156 | [Tails of Iron](games/t/tails_of_iron.md) | 0.43% |
 | 157 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.41% |
-| 158 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.40% |
+| 158 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.39% |
 | 159 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.38% |
 | 159 | [Ghostrunner](games/g/ghostrunner.md) | 0.38% |
 | 161 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.37% |
