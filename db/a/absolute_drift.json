@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 7,
   "Ranking_EOS_Completed": 231,
   "Ranking_EOS_NewPlayers": 48,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2021-02-18T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -442,9 +442,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1536086,
+  "EOS_Progressed": 1536094,
   "EOS_Completed": 665,
-  "EOS_NewPlayers": 1206,
+  "EOS_NewPlayers": 1202,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -13937,6 +13937,11 @@
       "Time": "2023-08-20T15:03:57.5934712+00:00",
       "NumProgressed": 1536086,
       "NumCompleted": 665
+    },
+    {
+      "Time": "2023-08-20T16:03:36.7416404+00:00",
+      "NumProgressed": 1536094,
+      "NumCompleted": 665
     }
   ],
   "TotalAchievements": 20,
@@ -13956,7 +13961,7 @@
       "Name": "Maverick",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 107526
+      "UsersEstimate": 107527
     },
     {
       "ID": "ACH_CUBIC_RUCKUS",
@@ -14092,7 +14097,7 @@
       "Name": "The Long Drift",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 76804
+      "UsersEstimate": 76805
     },
     {
       "ID": "ACH_WASHING_MACHINE",
@@ -14107,15 +14112,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1536086,
+      "Progressed": 1536094,
       "Completed": 665
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-07-23T19:00:00.3270793+00:00",
-  "LastChanged_Achievements": "2023-08-20T15:03:57.5934704+00:00",
+  "LastChanged_Achievements": "2023-08-20T16:03:36.7416401+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:46.5539985+00:00",
-  "LastUpdate_Ratings": "2023-08-20T14:57:42.0338098+00:00",
-  "LastUpdate_Achievements": "2023-08-20T15:03:57.5936998+00:00"
+  "LastUpdate_Ratings": "2023-08-20T15:57:47.3409464+00:00",
+  "LastUpdate_Achievements": "2023-08-20T16:03:36.7417124+00:00"
 }

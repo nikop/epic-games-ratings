@@ -5,7 +5,7 @@ Rating: 4.77 (Ranked 109)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 13.00% | ~37,763 |
+| The Sort Who Makes an Entrance | 13.00% | ~37,764 |
 | First Class Student | 11.00% | ~31,954 |
 | Troll with the Punches | 11.00% | ~31,954 |
 | A Keen Sense of Spell | 10.00% | ~29,049 |
@@ -26,15 +26,15 @@ Rating: 4.77 (Ranked 109)
 | Beast Friends | 7.00% | ~20,334 |
 | A Sallow Grave | 7.00% | ~20,334 |
 | Flight the Good Flight | 7.00% | ~20,334 |
-| The Seeker of Knowledge | 5.00% | ~14,524 |
-| The Root of the Problem | 5.00% | ~14,524 |
-| Third Time's a Charm | 5.00% | ~14,524 |
-| Raising Expectations | 5.00% | ~14,524 |
-| The Toast of the Town | 4.00% | ~11,619 |
-| Room with a View | 4.00% | ~11,619 |
-| The Intrepid Explorer | 4.00% | ~11,619 |
-| The Gryffindor in the Graveyard | 4.00% | ~11,619 |
-| The Ends Petrify the Means | 4.00% | ~11,619 |
+| The Seeker of Knowledge | 5.00% | ~14,525 |
+| The Root of the Problem | 5.00% | ~14,525 |
+| Third Time's a Charm | 5.00% | ~14,525 |
+| Raising Expectations | 5.00% | ~14,525 |
+| The Toast of the Town | 4.00% | ~11,620 |
+| Room with a View | 4.00% | ~11,620 |
+| The Intrepid Explorer | 4.00% | ~11,620 |
+| The Gryffindor in the Graveyard | 4.00% | ~11,620 |
+| The Ends Petrify the Means | 4.00% | ~11,620 |
 | Going Through the Potions | 3.00% | ~8,715 |
 | Floo Around the World | 3.00% | ~8,715 |
 | The Wise Owl | 3.00% | ~8,715 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,743 |
 | Collector's Edition | 0.30% | ~871 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290,487 (Ranked 43)  
+Progressed: 290,492 (Ranked 43)  
 Completed: 453 (0.16%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,10 +173,10 @@ Completed: 453 (0.16%) (Ranked 193)
 | 2023-08-17 | 290,286 | 452 |
 | 2023-08-18 | 290,355 | 452 |
 | 2023-08-19 | 290,439 | 453 |
-| 2023-08-20 | 290,487 | 453 |
+| 2023-08-20 | 290,492 | 453 |
 ## Awards
 Max (Character Customization): 21,849  (Ranked 17)  
-Sum: 41,284 (Ranked 30)  
+Sum: 41,286 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -187,7 +187,7 @@ Diff (max vs sum): -13
 | This game is Extremely Fun | 959 |
 | This game has Amazing Storytelling | 948 |
 | This game has Diverse Characters | 942 |
-| This game has Amazing Characters | 923 |
+| This game has Amazing Characters | 925 |
 | This game is Highly Recommended | 900 |
 | This game has Quickly Understood Controls | 852 |
 | This game has Beautiful Visuals | 794 |
@@ -344,4 +344,4 @@ Diff (max vs sum): -13
 | 2023-08-17 | 4.77 | 21,780 | 41,138 |
 | 2023-08-18 | 4.77 | 21,799 | 41,179 |
 | 2023-08-19 | 4.77 | 21,818 | 41,239 |
-| 2023-08-20 | 4.77 | 21,849 | 41,284 |
+| 2023-08-20 | 4.77 | 21,849 | 41,286 |

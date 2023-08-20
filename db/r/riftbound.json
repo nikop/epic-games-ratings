@@ -268,9 +268,9 @@
       "ID": "ACH_CloseCall",
       "SetID": "1od64h3",
       "Name": "Close Call",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_EnderEnder",
@@ -443,8 +443,8 @@
   ],
   "FirstSeen": "2023-05-24T05:57:01.1343555+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:02.2220313+00:00",
-  "LastChanged_Achievements": "2023-08-20T15:03:39.3427329+00:00",
+  "LastChanged_Achievements": "2023-08-20T16:03:19.0409085+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:41.6430649+00:00",
-  "LastUpdate_Ratings": "2023-08-20T14:59:13.6752065+00:00",
-  "LastUpdate_Achievements": "2023-08-20T15:03:39.3427561+00:00"
+  "LastUpdate_Ratings": "2023-08-20T15:59:16.0584762+00:00",
+  "LastUpdate_Achievements": "2023-08-20T16:03:19.0409248+00:00"
 }

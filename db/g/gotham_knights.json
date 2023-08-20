@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -2498,9 +2498,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 67924,
+  "EOS_Progressed": 67925,
   "EOS_Completed": 108,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -12803,6 +12803,11 @@
       "Time": "2023-08-20T15:07:24.6204622+00:00",
       "NumProgressed": 67924,
       "NumCompleted": 108
+    },
+    {
+      "Time": "2023-08-20T16:07:04.8169769+00:00",
+      "NumProgressed": 67925,
+      "NumCompleted": 108
     }
   ],
   "TotalAchievements": 61,
@@ -12862,7 +12867,7 @@
       "Name": "The Batman Family",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 14943
+      "UsersEstimate": 14944
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -12908,9 +12913,9 @@
       "ID": "CHALLENGES_1",
       "SetID": "4eo5ebm",
       "Name": "Protector of Gotham",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 10868
+      "UsersEstimate": 11547
     },
     {
       "ID": "CLAYFACE_1",
@@ -12934,7 +12939,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 9509
+      "UsersEstimate": 9510
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -13014,7 +13019,7 @@
       "Name": "Family Meeting",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 4075
+      "UsersEstimate": 4076
     },
     {
       "ID": "DEFEAT_OC_2",
@@ -13062,7 +13067,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 9509
+      "UsersEstimate": 9510
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -13118,7 +13123,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 23773
+      "UsersEstimate": 23774
     },
     {
       "ID": "HARLEY_2",
@@ -13190,7 +13195,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 18339
+      "UsersEstimate": 18340
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -13198,7 +13203,7 @@
       "Name": "A Worthy Successor",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 4075
+      "UsersEstimate": 4076
     },
     {
       "ID": "MYSTERY_01",
@@ -13222,7 +13227,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 14943
+      "UsersEstimate": 14944
     },
     {
       "ID": "MYSTERY_04",
@@ -13254,7 +13259,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 9509
+      "UsersEstimate": 9510
     },
     {
       "ID": "MYSTERY_08",
@@ -13301,13 +13306,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 67924,
+      "Progressed": 67925,
       "Completed": 108
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 38204,
+      "Progressed": 38205,
       "Completed": 2658
     }
   ],
@@ -13315,8 +13320,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-08-20T14:57:30.6977519+00:00",
-  "LastChanged_Achievements": "2023-08-20T15:07:24.6204615+00:00",
+  "LastChanged_Achievements": "2023-08-20T16:07:04.8169766+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:36.1459925+00:00",
-  "LastUpdate_Ratings": "2023-08-20T14:57:30.6977525+00:00",
-  "LastUpdate_Achievements": "2023-08-20T15:07:24.6206086+00:00"
+  "LastUpdate_Ratings": "2023-08-20T15:57:36.093497+00:00",
+  "LastUpdate_Achievements": "2023-08-20T16:07:04.8170689+00:00"
 }

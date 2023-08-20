@@ -11,10 +11,11 @@
 | Don't Cry Wolf | 22.00% | ~11 |
 | Can't touch this | 22.00% | ~11 |
 | Apprentice | 22.00% | ~11 |
+| The Golden Flash | 10.00% | ~5 |
 | Bringing guns to a sword fight | 8.00% | ~4 |
 | Freezing Cold | 8.00% | ~4 |
-| The Golden Flash | 8.00% | ~4 |
 | The Power of the Mountains | 8.00% | ~4 |
+| Defeat Tezuth | 6.00% | ~3 |
 | Searing Heat | 6.00% | ~3 |
 | Through Dangers Untold | 6.00% | ~3 |
 | Locked and Loaded | 6.00% | ~3 |
@@ -22,7 +23,6 @@
 | Changing the World | 6.00% | ~3 |
 | Sponsor | 4.00% | ~2 |
 | Craftsmen | 4.00% | ~2 |
-| Defeat Tezuth | 4.00% | ~2 |
 | The A-Team | 4.00% | ~2 |
 | Mirror, Mirror on the Wall | 2.00% | ~1 |
 | Defeat Ingla | 2.00% | ~1 |

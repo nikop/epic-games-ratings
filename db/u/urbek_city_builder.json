@@ -4,7 +4,7 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewPlayers": 241,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 316,
+  "EOS_Progressed": 317,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -937,6 +937,11 @@
       "Time": "2023-08-17T23:03:41.3223718+00:00",
       "NumProgressed": 316,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-20T16:04:36.999738+00:00",
+      "NumProgressed": 317,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -1228,7 +1233,7 @@
       "Name": "I am very happy!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "FELIZ_3",
@@ -1332,7 +1337,7 @@
       "Name": "It is nice to share with friends in the city",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "NIGHT_LIFE_2",
@@ -1356,7 +1361,7 @@
       "Name": "Little Mayor",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "POINTS_20K",
@@ -1404,7 +1409,7 @@
       "Name": "Rebel city",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "REBELDES_2",
@@ -1476,7 +1481,7 @@
       "Name": "Sport is the best thing",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "SPORTS_3",
@@ -1579,7 +1584,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 316,
+      "Progressed": 317,
       "Completed": 0
     }
   ],
@@ -1587,8 +1592,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-08-20T15:04:50.7610643+00:00",
+  "LastChanged_Achievements": "2023-08-20T16:04:36.9997377+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:19.5551158+00:00",
-  "LastUpdate_Ratings": "2023-08-20T15:01:07.1067839+00:00",
-  "LastUpdate_Achievements": "2023-08-20T15:04:50.7611784+00:00"
+  "LastUpdate_Ratings": "2023-08-20T16:01:09.7721442+00:00",
+  "LastUpdate_Achievements": "2023-08-20T16:04:36.9998132+00:00"
 }

@@ -10,8 +10,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Basic in Bulk | 1.00% | ~1,348 |
 | Tinkle of Coins | 1.00% | ~1,348 |
 | Titan's First Steps | 1.00% | ~1,348 |
-| Disintermediation | 0.90% | ~1,213 |
-| Capitalism Ho! | 0.90% | ~1,213 |
+| Disintermediation | 0.90% | ~1,214 |
+| Capitalism Ho! | 0.90% | ~1,214 |
 | It's Free Real Estate | 0.80% | ~1,079 |
 | One Easy Payment | 0.70% | ~944 |
 | Some Assembly Required | 0.70% | ~944 |
@@ -38,31 +38,31 @@ Number of Ratings: 12,664  (23.09.2022)
 | Accomplished Merchant | 0.40% | ~539 |
 | Did we pack lunch? | 0.40% | ~539 |
 | Arcane Industries | 0.40% | ~539 |
-| A Notch Above the Rest | 0.30% | ~404 |
-| A Ronin Reborn | 0.30% | ~404 |
-| Tax not Included | 0.30% | ~404 |
-| The King's Caprice | 0.30% | ~404 |
-| Research & Development | 0.30% | ~404 |
-| Big Game Hunting | 0.30% | ~404 |
-| Fated Encounters | 0.30% | ~404 |
-| For the Hoard! | 0.30% | ~404 |
-| Locally Sourced | 0.30% | ~404 |
-| Flying off the Shelves | 0.30% | ~404 |
-| This Power Level...! | 0.30% | ~404 |
-| Master of Transmutation | 0.30% | ~404 |
-| Hidden Potential | 0.30% | ~404 |
-| Power of Love | 0.30% | ~404 |
-| Expansion in Session | 0.30% | ~404 |
-| Flawless Fusion | 0.30% | ~404 |
-| Trash to Treasure | 0.30% | ~404 |
-| Royal Ransom | 0.30% | ~404 |
-| Mammonite | 0.30% | ~404 |
-| Natural 20 | 0.30% | ~404 |
-| Seasoned Journeyman | 0.30% | ~404 |
-| Black Friday Special | 0.30% | ~404 |
-| Magical Harmony | 0.30% | ~404 |
-| Special Ingredient | 0.30% | ~404 |
-| Complete Monopoly | 0.30% | ~404 |
+| A Notch Above the Rest | 0.30% | ~405 |
+| A Ronin Reborn | 0.30% | ~405 |
+| Tax not Included | 0.30% | ~405 |
+| The King's Caprice | 0.30% | ~405 |
+| Research & Development | 0.30% | ~405 |
+| Big Game Hunting | 0.30% | ~405 |
+| Fated Encounters | 0.30% | ~405 |
+| For the Hoard! | 0.30% | ~405 |
+| Locally Sourced | 0.30% | ~405 |
+| Flying off the Shelves | 0.30% | ~405 |
+| This Power Level...! | 0.30% | ~405 |
+| Master of Transmutation | 0.30% | ~405 |
+| Hidden Potential | 0.30% | ~405 |
+| Power of Love | 0.30% | ~405 |
+| Expansion in Session | 0.30% | ~405 |
+| Flawless Fusion | 0.30% | ~405 |
+| Trash to Treasure | 0.30% | ~405 |
+| Royal Ransom | 0.30% | ~405 |
+| Mammonite | 0.30% | ~405 |
+| Natural 20 | 0.30% | ~405 |
+| Seasoned Journeyman | 0.30% | ~405 |
+| Black Friday Special | 0.30% | ~405 |
+| Magical Harmony | 0.30% | ~405 |
+| Special Ingredient | 0.30% | ~405 |
+| Complete Monopoly | 0.30% | ~405 |
 | Cream of the Crop | 0.20% | ~270 |
 | Top of the World | 0.20% | ~270 |
 | Proud Paladin | 0.20% | ~270 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.10% | ~135 |
 | All Accounted For | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,832 (Ranked 66)  
+Progressed: 134,835 (Ranked 66)  
 Completed: 133 (0.10%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,7 +241,7 @@ Completed: 133 (0.10%) (Ranked 208)
 | 2023-08-17 | 134,688 | 133 |
 | 2023-08-18 | 134,736 | 133 |
 | 2023-08-19 | 134,791 | 133 |
-| 2023-08-20 | 134,832 | 133 |
+| 2023-08-20 | 134,835 | 133 |
 ## Awards
 Max (Great for Beginners): 4,706  (Ranked 71)  
 Sum: 27,115 (Ranked 47)  

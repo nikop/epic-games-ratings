@@ -2,7 +2,7 @@
   "ID": "5891aa5c4c6f4aabbf555a679e02cfb9",
   "Name": "The Evil Within 2",
   "ProductSlug": "the-evil-within-2",
-  "Ranking_EOS_Progress": 367,
+  "Ranking_EOS_Progress": 368,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 94,
@@ -403,9 +403,9 @@
       "ID": "ACHIEVEMENT_18",
       "SetID": "b36c5kb",
       "Name": "Sykes Out",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -531,9 +531,9 @@
       "ID": "ACHIEVEMENT_34",
       "SetID": "b36c5kb",
       "Name": "Chatting With Kidman",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -682,8 +682,8 @@
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-08-20T15:05:20.5838906+00:00",
+  "LastChanged_Achievements": "2023-08-20T16:05:05.3679182+00:00",
   "LastUpdate_AppInfo": "2023-08-16T16:57:24.779676+00:00",
-  "LastUpdate_Ratings": "2023-08-20T14:58:23.0772009+00:00",
-  "LastUpdate_Achievements": "2023-08-20T15:05:20.5839409+00:00"
+  "LastUpdate_Ratings": "2023-08-20T15:58:27.1436259+00:00",
+  "LastUpdate_Achievements": "2023-08-20T16:05:05.3679544+00:00"
 }

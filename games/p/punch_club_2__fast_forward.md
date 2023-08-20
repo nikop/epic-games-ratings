@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Such a strange dream… | 87.00% | ~227 |
-| Your first fight | 85.00% | ~222 |
+| Such a strange dream… | 88.00% | ~230 |
+| Your first fight | 86.00% | ~224 |
+| Good Person Chip | 85.00% | ~222 |
 | First winning | 84.00% | ~219 |
-| Good Person Chip | 84.00% | ~219 |
-| Your first job | 83.00% | ~217 |
+| Your first job | 84.00% | ~219 |
 | Old movies enjoyer | 80.00% | ~209 |
 | Fitness professional | 78.00% | ~204 |
-| Depressed visitor | 77.00% | ~201 |
+| Depressed visitor | 78.00% | ~204 |
 | Employee of the week | 77.00% | ~201 |
+| First defeat | 76.00% | ~198 |
 | Neurotrainer – power gainer! | 76.00% | ~198 |
-| First defeat | 75.00% | ~196 |
 | Your own amateur gym | 74.00% | ~193 |
 | Run K, run! | 74.00% | ~193 |
 | Fighting is cool | 70.00% | ~183 |
@@ -71,8 +71,8 @@
 | Better cooking at home | 28.00% | ~73 |
 | The only right decision | 28.00% | ~73 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 261 (Ranked 272)  
-Completed: 8 (3.07%) (Ranked 72)  
+Progressed: 261 (Ranked 273)  
+Completed: 8 (3.07%) (Ranked 71)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

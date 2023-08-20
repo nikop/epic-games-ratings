@@ -5,28 +5,28 @@ Rating: 4.64 (Ranked 314)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 93.00% | ~4,604 |
-| All thumbs | 92.00% | ~4,555 |
-| I will survive! | 92.00% | ~4,555 |
-| Home, sweet home | 90.00% | ~4,456 |
-| Survivalist | 89.00% | ~4,406 |
-| One way ticket | 84.00% | ~4,159 |
-| Last man standing | 79.00% | ~3,911 |
-| Family guy | 77.00% | ~3,812 |
+| Prepper | 93.00% | ~4,605 |
+| All thumbs | 92.00% | ~4,556 |
+| I will survive! | 92.00% | ~4,556 |
+| Home, sweet home | 90.00% | ~4,457 |
+| Survivalist | 89.00% | ~4,407 |
+| One way ticket | 84.00% | ~4,160 |
+| Last man standing | 79.00% | ~3,912 |
+| Family guy | 77.00% | ~3,813 |
 | Out of the Bag | 74.00% | ~3,664 |
-| The Dark Side | 69.00% | ~3,416 |
+| The Dark Side | 69.00% | ~3,417 |
 | Duck and cover! | 64.00% | ~3,169 |
-| Souper! | 63.00% | ~3,119 |
+| Souper! | 63.00% | ~3,120 |
 | Pacifist | 58.00% | ~2,872 |
-| 2-1-6 | 57.00% | ~2,822 |
+| 2-1-6 | 57.00% | ~2,823 |
 | A gift | 52.00% | ~2,575 |
-| Girl Power | 46.00% | ~2,277 |
+| Girl Power | 46.00% | ~2,278 |
 | What goes around... | 43.00% | ~2,129 |
 | Be Prepared | 37.00% | ~1,832 |
-| Unbreakable | 36.00% | ~1,782 |
+| Unbreakable | 36.00% | ~1,783 |
 | This is the end | 33.00% | ~1,634 |
-| Gotta get 'em all | 32.00% | ~1,584 |
-| Atomic drill | 32.00% | ~1,584 |
+| Gotta get 'em all | 32.00% | ~1,585 |
+| Atomic drill | 32.00% | ~1,585 |
 | Disco Roach | 27.00% | ~1,337 |
 | Dawkins Residence | 21.00% | ~1,040 |
 | Rescue time! | 18.00% | ~891 |
@@ -66,7 +66,7 @@ Rating: 4.64 (Ranked 314)
 | Tora! Tora! Tora! | 0.20% | ~10 |
 | Dead Hand | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,951 (Ranked 144)  
+Progressed: 4,952 (Ranked 144)  
 Completed: 1 (0.02%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,7 +188,7 @@ Completed: 1 (0.02%) (Ranked 241)
 | 2023-08-17 | 4,939 | 1 |
 | 2023-08-18 | 4,944 | 1 |
 | 2023-08-19 | 4,949 | 1 |
-| 2023-08-20 | 4,951 | 1 |
+| 2023-08-20 | 4,952 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

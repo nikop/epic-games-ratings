@@ -212,9 +212,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7229,
+  "EOS_Progressed": 7235,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 272,
+  "EOS_NewPlayers": 277,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -6067,6 +6067,11 @@
       "Time": "2023-08-20T15:06:30.6898449+00:00",
       "NumProgressed": 7229,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-08-20T16:06:12.906687+00:00",
+      "NumProgressed": 7235,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 21,
@@ -6102,7 +6107,7 @@
       "Name": "Body and Soul",
       "Percentage": 10,
       "XP": 80,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "CA_DE_WIZZ",
@@ -6126,7 +6131,7 @@
       "Name": "Energy Saver",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 1157
+      "UsersEstimate": 1158
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -6150,7 +6155,7 @@
       "Name": "Globe Trotter",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 795
+      "UsersEstimate": 796
     },
     {
       "ID": "HAPPY_CAMPER",
@@ -6158,7 +6163,7 @@
       "Name": "Happy Camper",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "HISTORIAN",
@@ -6182,7 +6187,7 @@
       "Name": "In a Pinch",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1518
+      "UsersEstimate": 1519
     },
     {
       "ID": "LIBERATOR",
@@ -6206,7 +6211,7 @@
       "Name": "Shredder",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "SNIP_SNIP",
@@ -6230,7 +6235,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 940
+      "UsersEstimate": 941
     },
     {
       "ID": "THING",
@@ -6245,7 +6250,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7229,
+      "Progressed": 7235,
       "Completed": 32
     }
   ],
@@ -6253,8 +6258,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-08-07T01:56:04.2387619+00:00",
-  "LastChanged_Achievements": "2023-08-20T15:06:30.6898441+00:00",
+  "LastChanged_Achievements": "2023-08-20T16:06:12.9066866+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:55.8261903+00:00",
-  "LastUpdate_Ratings": "2023-08-20T15:00:06.2020176+00:00",
-  "LastUpdate_Achievements": "2023-08-20T15:06:30.689899+00:00"
+  "LastUpdate_Ratings": "2023-08-20T16:00:08.2091571+00:00",
+  "LastUpdate_Achievements": "2023-08-20T16:06:12.9067301+00:00"
 }

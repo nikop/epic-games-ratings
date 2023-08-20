@@ -6,11 +6,11 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~21,729 |
-| Exploitative | 4.00% | ~17,383 |
-| High Speed Low Drag | 4.00% | ~17,383 |
-| Point Shooting | 4.00% | ~17,383 |
-| Wet Feet | 4.00% | ~17,383 |
+| Wallbanger | 5.00% | ~21,730 |
+| Exploitative | 4.00% | ~17,384 |
+| High Speed Low Drag | 4.00% | ~17,384 |
+| Point Shooting | 4.00% | ~17,384 |
+| Wet Feet | 4.00% | ~17,384 |
 | Lucky | 3.00% | ~13,038 |
 | Stylin' | 3.00% | ~13,038 |
 | Turf War | 3.00% | ~13,038 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~435 |
 | Road Hazard | 0.10% | ~435 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 434,585 (Ranked 38)  
+Progressed: 434,607 (Ranked 38)  
 Completed: 2 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,10 +164,10 @@ Completed: 2 (0.00%) (Ranked 261)
 | 2023-08-17 | 433,595 | 2 |
 | 2023-08-18 | 433,911 | 2 |
 | 2023-08-19 | 434,338 | 2 |
-| 2023-08-20 | 434,585 | 2 |
+| 2023-08-20 | 434,607 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 375  (Ranked 223)  
-Sum: 2,904 (Ranked 166)  
+Sum: 2,905 (Ranked 166)  
 Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
@@ -175,8 +175,8 @@ Diff (max vs sum): 57
 | This game has Challenging Combat | 351 |
 | This game has Competitive Players | 340 |
 | This game is Extremely Fun | 340 |
+| This game is Highly Recommended | 311 |
 | This game has Realistic Visuals | 311 |
-| This game is Highly Recommended | 310 |
 | This game has Amazing Storytelling | 306 |
 | This game has Amazing Characters | 305 |
 | This game has a Competitive Community | 266 |
@@ -394,3 +394,4 @@ Diff (max vs sum): 57
 | 2023-08-16 | 4.62 | - | 375 | 2,897 |
 | 2023-08-17 | 4.62 | - | 375 | 2,898 |
 | 2023-08-19 | 4.62 | - | 375 | 2,904 |
+| 2023-08-20 | 4.62 | - | 375 | 2,905 |

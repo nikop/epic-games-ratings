@@ -4,7 +4,7 @@
   "ProductSlug": "zzt",
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2023-03-31T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3091,
+  "EOS_Progressed": 3092,
   "EOS_Completed": 120,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 3.88,
   "EosHistory": [
@@ -4091,6 +4091,11 @@
       "Time": "2023-08-20T13:06:29.2125549+00:00",
       "NumProgressed": 3091,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2023-08-20T16:04:42.7052895+00:00",
+      "NumProgressed": 3092,
+      "NumCompleted": 120
     }
   ],
   "TotalAchievements": 5,
@@ -4102,7 +4107,7 @@
       "Name": "Potomac Computer Systems",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 3091
+      "UsersEstimate": 3092
     },
     {
       "ID": "2",
@@ -4110,7 +4115,7 @@
       "Name": "Traveler",
       "Percentage": 6,
       "XP": 200,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "3",
@@ -4141,7 +4146,7 @@
     {
       "ID": "dm385hd",
       "IsBase": true,
-      "Progressed": 3091,
+      "Progressed": 3092,
       "Completed": 120
     }
   ],
@@ -4149,8 +4154,8 @@
   "FirstSeenRating": "2023-03-31T21:57:04.3858764+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6096499+00:00",
   "LastChanged": "2023-03-31T21:57:04.3858765+00:00",
-  "LastChanged_Achievements": "2023-08-20T15:04:56.7483263+00:00",
+  "LastChanged_Achievements": "2023-08-20T16:04:42.7052891+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:23.1655196+00:00",
-  "LastUpdate_Ratings": "2023-08-20T15:00:30.0575265+00:00",
-  "LastUpdate_Achievements": "2023-08-20T15:04:56.7483671+00:00"
+  "LastUpdate_Ratings": "2023-08-20T16:00:29.7369665+00:00",
+  "LastUpdate_Achievements": "2023-08-20T16:04:42.7053149+00:00"
 }

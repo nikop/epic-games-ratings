@@ -2,8 +2,8 @@
   "ID": "0702e42d70eb4d8fbb9293e332047474",
   "Name": "Charon\u0027s Staircase",
   "ProductSlug": "charons-staircase-b2d05f",
-  "Ranking_EOS_Progress": 347,
-  "Ranking_EOS_Completed": 81,
+  "Ranking_EOS_Progress": 346,
+  "Ranking_EOS_Completed": 83,
   "Ranking_EOS_NewPlayers": 358,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 77,
+  "EOS_Progressed": 78,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.6,
+  "EOS_Completed_Percentage": 2.56,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:31.3534175+00:00",
@@ -82,6 +82,11 @@
       "Time": "2023-07-23T03:06:17.2866129+00:00",
       "NumProgressed": 77,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-20T16:03:48.779311+00:00",
+      "NumProgressed": 78,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 20,
@@ -93,21 +98,21 @@
       "Name": "Seth\u0027s office",
       "Percentage": 56,
       "XP": 35,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_10",
       "SetID": "1g3d1lg",
       "Name": "First document retrieved",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 35,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_11",
       "SetID": "1g3d1lg",
       "Name": "Second document retrieved",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 35,
       "UsersEstimate": 22
     },
@@ -123,15 +128,15 @@
       "ID": "ACH_13",
       "SetID": "1g3d1lg",
       "Name": "An ear for music",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_14",
       "SetID": "1g3d1lg",
       "Name": "Agatha\u0027s favourite song",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 35,
       "UsersEstimate": 26
     },
@@ -163,25 +168,25 @@
       "ID": "ACH_18",
       "SetID": "1g3d1lg",
       "Name": "The impatient one",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_19",
       "SetID": "1g3d1lg",
       "Name": "There is something strange here...",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_2",
       "SetID": "1g3d1lg",
       "Name": "The secret passage",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 35,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_20",
@@ -195,15 +200,15 @@
       "ID": "ACH_3",
       "SetID": "1g3d1lg",
       "Name": "Across the lake",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 35,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ACH_4",
       "SetID": "1g3d1lg",
       "Name": "A lonely death",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 35,
       "UsersEstimate": 29
     },
@@ -211,7 +216,7 @@
       "ID": "ACH_5",
       "SetID": "1g3d1lg",
       "Name": "The threshold of horror",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 35,
       "UsersEstimate": 23
     },
@@ -235,7 +240,7 @@
       "ID": "ACH_8",
       "SetID": "1g3d1lg",
       "Name": "Charon\u0027s coin",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 35,
       "UsersEstimate": 19
     },
@@ -252,7 +257,7 @@
     {
       "ID": "1g3d1lg",
       "IsBase": true,
-      "Progressed": 77,
+      "Progressed": 78,
       "Completed": 2
     }
   ],
@@ -260,8 +265,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.6125588+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.3534182+00:00",
   "LastChanged": "2023-03-31T05:58:38.6125589+00:00",
-  "LastChanged_Achievements": "2023-08-20T15:04:10.5283366+00:00",
+  "LastChanged_Achievements": "2023-08-20T16:03:48.7793104+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:35.9591464+00:00",
-  "LastUpdate_Ratings": "2023-08-20T15:01:20.7924951+00:00",
-  "LastUpdate_Achievements": "2023-08-20T15:04:10.5283524+00:00"
+  "LastUpdate_Ratings": "2023-08-20T16:01:22.2648349+00:00",
+  "LastUpdate_Achievements": "2023-08-20T16:03:48.7793226+00:00"
 }
