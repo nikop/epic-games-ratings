@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 103,
-  "Ranking_EOS_NewPlayers": 222,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
     "PcReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -104,11 +104,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 958,
+  "EOS_Progressed": 959,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.57,
+  "EOS_Completed_Percentage": 1.56,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:47.1560439+00:00",
@@ -1389,6 +1389,11 @@
       "Time": "2023-08-19T20:06:11.691817+00:00",
       "NumProgressed": 958,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-08-20T03:09:33.9534676+00:00",
+      "NumProgressed": 959,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 27,
@@ -1414,9 +1419,9 @@
       "ID": "ACH_CHICKEN_ENCOUNTERED",
       "SetID": "7k95e4n",
       "Name": "Soulmate?",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 517
+      "UsersEstimate": 508
     },
     {
       "ID": "ACH_DICE_WIN",
@@ -1440,7 +1445,7 @@
       "Name": "Fine, I\u0027ll do it myself",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "ACH_ELIZA_PHOTO",
@@ -1456,7 +1461,7 @@
       "Name": "Broken heart",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "ACH_GHOST_BUSTED",
@@ -1464,7 +1469,7 @@
       "Name": "No need to call anyone",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "ACH_GLORY_AND_SPLENDOR_FINISHED",
@@ -1488,7 +1493,7 @@
       "Name": "Memento",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     },
     {
       "ID": "ACH_GRANDPA_LETTER",
@@ -1504,7 +1509,7 @@
       "Name": "And so it begins",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 699
+      "UsersEstimate": 700
     },
     {
       "ID": "ACH_INSTRUMENTS_FOUND",
@@ -1544,7 +1549,7 @@
       "Name": "Unstoppable",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "ACH_STAR_1",
@@ -1552,7 +1557,7 @@
       "Name": "Good start",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 728
+      "UsersEstimate": 729
     },
     {
       "ID": "ACH_STAR_2",
@@ -1560,7 +1565,7 @@
       "Name": "Moving up",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "ACH_STAR_3",
@@ -1582,9 +1587,9 @@
       "ID": "ACH_STAR_5",
       "SetID": "7k95e4n",
       "Name": "You\u0027re a star",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 80,
-      "UsersEstimate": 192
+      "UsersEstimate": 182
     },
     {
       "ID": "ACH_STORY_MODE_FINISHED",
@@ -1592,7 +1597,7 @@
       "Name": "Reunited",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "ACH_TIP_EARNED",
@@ -1600,7 +1605,7 @@
       "Name": "Excellent service",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "ACH_WALLET_RETURNED",
@@ -1615,7 +1620,7 @@
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 958,
+      "Progressed": 959,
       "Completed": 15
     }
   ],
@@ -1623,8 +1628,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-08-10T10:58:10.9295179+00:00",
-  "LastChanged_Achievements": "2023-08-20T02:19:33.7534428+00:00",
+  "LastChanged_Achievements": "2023-08-20T03:09:33.953467+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:41.4452998+00:00",
-  "LastUpdate_Ratings": "2023-08-20T02:12:02.0338757+00:00",
-  "LastUpdate_Achievements": "2023-08-20T02:19:33.7534768+00:00"
+  "LastUpdate_Ratings": "2023-08-20T03:01:20.2161365+00:00",
+  "LastUpdate_Achievements": "2023-08-20T03:09:33.9535015+00:00"
 }

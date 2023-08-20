@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 176,
-  "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -476,9 +476,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3499,
+  "EOS_Progressed": 3502,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -6086,6 +6086,11 @@
       "Time": "2023-08-20T01:44:37.9272748+00:00",
       "NumProgressed": 3499,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-20T03:06:50.5371329+00:00",
+      "NumProgressed": 3502,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 71,
@@ -6177,7 +6182,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1610
+      "UsersEstimate": 1611
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -6185,7 +6190,7 @@
       "Name": "Master of Pistols",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "REWARD_21_MASTER_OF_SECONDARIES",
@@ -6193,7 +6198,7 @@
       "Name": "Master of Secondaries",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "REWARD_22_MASTER_OF_RIFLES",
@@ -6209,7 +6214,7 @@
       "Name": "Master-at-arms",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "REWARD_24_GUNSLINGER",
@@ -6265,7 +6270,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 1400
+      "UsersEstimate": 1401
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -6305,7 +6310,7 @@
       "Name": "Lord of War",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1015
+      "UsersEstimate": 1016
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -6321,7 +6326,7 @@
       "Name": "Resourceful",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 910
+      "UsersEstimate": 911
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -6345,7 +6350,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 1225
+      "UsersEstimate": 1226
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -6409,7 +6414,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1120
+      "UsersEstimate": 1121
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -6433,7 +6438,7 @@
       "Name": "Change the Channel",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1015
+      "UsersEstimate": 1016
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -6465,7 +6470,7 @@
       "Name": "Taking it back",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -6489,7 +6494,7 @@
       "Name": "Target America",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 875
+      "UsersEstimate": 876
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -6537,7 +6542,7 @@
       "Name": "From F\u00FChrer Away",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "REWARD_DLC01_04_COVERT_ELIMINATION",
@@ -6553,7 +6558,7 @@
       "Name": "Alpha",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "REWARD_DLC01_06_HERR_TODAY",
@@ -6569,7 +6574,7 @@
       "Name": "Operation Foxley",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "REWARD_DLC01_08_DAS_FAMILIENJUWEL",
@@ -6577,7 +6582,7 @@
       "Name": "Das Familienjuwel",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "REWARD_DLC01_09_LAST_RESORT",
@@ -6649,7 +6654,7 @@
       "Name": "Sink or Swim",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "REWARD_DLC04_03_GOING_OVERBOARD",
@@ -6664,13 +6669,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3450,
+      "Progressed": 3453,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3499,
+      "Progressed": 3502,
       "Completed": 9
     }
   ],
@@ -6678,8 +6683,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-08-19T13:59:32.9786794+00:00",
-  "LastChanged_Achievements": "2023-08-20T02:17:38.019256+00:00",
+  "LastChanged_Achievements": "2023-08-20T03:06:50.5371324+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:38.9761253+00:00",
-  "LastUpdate_Ratings": "2023-08-20T02:11:42.5806887+00:00",
-  "LastUpdate_Achievements": "2023-08-20T02:17:38.0193923+00:00"
+  "LastUpdate_Ratings": "2023-08-20T03:00:48.3910581+00:00",
+  "LastUpdate_Achievements": "2023-08-20T03:06:50.5372615+00:00"
 }

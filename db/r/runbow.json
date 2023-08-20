@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 248284,
+  "EOS_Progressed": 248285,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 310,
+  "EOS_NewPlayers": 309,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11709,6 +11709,11 @@
       "Time": "2023-08-20T01:45:00.9838045+00:00",
       "NumProgressed": 248284,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-20T03:07:21.8787088+00:00",
+      "NumProgressed": 248285,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 46,
@@ -12024,7 +12029,7 @@
       "Name": "The Stunner",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 54622
+      "UsersEstimate": 54623
     },
     {
       "ID": "thunderstruck",
@@ -12080,14 +12085,14 @@
       "Name": "You Juan-A-Go?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 39725
+      "UsersEstimate": 39726
     }
   ],
   "AchievementSets": [
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 248284,
+      "Progressed": 248285,
       "Completed": 3
     }
   ],
@@ -12095,8 +12100,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-08-20T02:17:59.8421207+00:00",
+  "LastChanged_Achievements": "2023-08-20T03:07:21.8787083+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:44.1764965+00:00",
-  "LastUpdate_Ratings": "2023-08-20T02:13:47.694952+00:00",
-  "LastUpdate_Achievements": "2023-08-20T02:17:59.8422486+00:00"
+  "LastUpdate_Ratings": "2023-08-20T03:03:56.1804857+00:00",
+  "LastUpdate_Achievements": "2023-08-20T03:07:21.8788384+00:00"
 }

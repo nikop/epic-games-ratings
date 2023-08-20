@@ -3,12 +3,12 @@
   "Name": "First Class Trouble",
   "ProductSlug": "first-class-trouble",
   "Ranking_Rating": 559,
-  "Ranking_Popularity": 317,
+  "Ranking_Popularity": 316,
   "Ranking_PopularitySum": 294,
   "Ranking_EOS_Progress": 548,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
     "PcReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -1318,11 +1318,17 @@
       "Rating": 4.5,
       "NumberOfAwards": 617,
       "NumberOfAwardsMax": 121
+    },
+    {
+      "Time": "2023-08-20T03:01:52.6324461+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 620,
+      "NumberOfAwardsMax": 122
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 617,
-  "NumberOfAwardsMax": 121,
+  "NumberOfAwards": 620,
+  "NumberOfAwardsMax": 122,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
@@ -1341,13 +1347,13 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 121
+      "Count": 122
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 106
+      "Count": 108
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1398,8 +1404,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-09-22T22:01:01.54229+00:00",
   "FirstSeenRating": "2023-01-13T07:56:45.2170746+00:00",
-  "LastChanged": "2023-08-18T10:59:56.0645314+00:00",
+  "LastChanged": "2023-08-20T03:01:52.632446+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:58:06.7427644+00:00",
-  "LastUpdate_Ratings": "2023-08-20T02:12:23.2442461+00:00",
-  "LastUpdate_Achievements": "2023-08-20T02:17:12.3742711+00:00"
+  "LastUpdate_Ratings": "2023-08-20T03:01:52.6324465+00:00",
+  "LastUpdate_Achievements": "2023-08-20T03:06:13.9197551+00:00"
 }

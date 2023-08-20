@@ -2,13 +2,13 @@
   "ID": "a0b8d4482f3d4f939f35f87a3f367865",
   "Name": "Far Cry 2: Standard Edition",
   "ProductSlug": "far-cry-2",
-  "Ranking_Rating": 806,
+  "Ranking_Rating": 805,
   "Ranking_Popularity": 513,
   "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 548,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2020-08-18T15:00:00+00:00",
     "PcReleaseDate": "2008-10-22T00:00:00+00:00",
@@ -362,6 +362,6 @@
   "FirstSeen": "2022-07-22T20:31:40.0657396+00:00",
   "LastChanged": "2023-08-03T23:58:38.7092891+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:58:05.2852769+00:00",
-  "LastUpdate_Ratings": "2023-08-20T02:12:22.1628419+00:00",
-  "LastUpdate_Achievements": "2023-08-20T02:17:56.4107403+00:00"
+  "LastUpdate_Ratings": "2023-08-20T03:01:50.9189369+00:00",
+  "LastUpdate_Achievements": "2023-08-20T03:07:16.9394141+00:00"
 }

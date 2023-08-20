@@ -2,13 +2,13 @@
   "ID": "d0230ef21b1f4ef29aec0d49946912fc",
   "Name": "Torchlight",
   "ProductSlug": "torchlight",
-  "Ranking_Rating": 761,
+  "Ranking_Rating": 760,
   "Ranking_Popularity": 501,
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 548,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2019-07-09T15:00:00+00:00",
     "PcReleaseDate": "2009-10-27T15:00:00+00:00",
@@ -418,6 +418,6 @@
   "FirstSeen": "2022-07-22T20:23:57.2645224+00:00",
   "LastChanged": "2023-08-10T13:09:49.6171435+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:32.6192657+00:00",
-  "LastUpdate_Ratings": "2023-08-20T02:11:34.2791293+00:00",
-  "LastUpdate_Achievements": "2023-08-20T02:17:06.7524166+00:00"
+  "LastUpdate_Ratings": "2023-08-20T03:00:34.9371492+00:00",
+  "LastUpdate_Achievements": "2023-08-20T03:06:05.7907071+00:00"
 }

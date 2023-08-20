@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 20.00% | ~42,970 |
+| Sowwy! | 20.00% | ~42,973 |
 | Where's that freaking Dwarf? | 2.00% | ~4,297 |
 | Alt+F4 | 2.00% | ~4,297 |
 | Déjà vu | 1.00% | ~2,149 |
@@ -33,12 +33,12 @@ Number of Ratings: 118  (23.09.2022)
 | Team Building Exercise | 0.50% | ~1,074 |
 | Oh, when I'll be level 10... | 0.50% | ~1,074 |
 | The Famous Dungeon of Naheulbeuk | 0.40% | ~859 |
+| Dwarf Fortress | 0.40% | ~859 |
 | Look but don't touch | 0.40% | ~859 |
 | The beards of change | 0.40% | ~859 |
 | The Ranger of Chaos | 0.40% | ~859 |
 | Thieves' Guild Accreditation | 0.40% | ~859 |
 | Res Judicata | 0.30% | ~645 |
-| Dwarf Fortress | 0.30% | ~645 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.30% | ~645 |
 | Dead for good | 0.30% | ~645 |
 | Lust and Debauchery | 0.30% | ~645 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Staff cut | 0.00% | ~0 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 214,851 (Ranked 56)  
+Progressed: 214,865 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,7 +176,7 @@ Completed: 2 (0.00%) (Ranked 261)
 | 2023-08-17 | 213,783 | 2 |
 | 2023-08-18 | 214,230 | 2 |
 | 2023-08-19 | 214,804 | 2 |
-| 2023-08-20 | 214,851 | 2 |
+| 2023-08-20 | 214,865 | 2 |
 ## Awards
 Max (Character Customization): 170  (Ranked 287)  
 Sum: 211 (Ranked 365)  

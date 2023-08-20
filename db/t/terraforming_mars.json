@@ -2650,9 +2650,9 @@
       "Count": 239
     }
   ],
-  "EOS_Progressed": 72482,
+  "EOS_Progressed": 72483,
   "EOS_Completed": 92,
-  "EOS_NewPlayers": 1024,
+  "EOS_NewPlayers": 1021,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -15885,6 +15885,11 @@
       "Time": "2023-08-20T02:19:41.8298998+00:00",
       "NumProgressed": 72482,
       "NumCompleted": 92
+    },
+    {
+      "Time": "2023-08-20T03:09:45.4876114+00:00",
+      "NumProgressed": 72483,
+      "NumCompleted": 92
     }
   ],
   "TotalAchievements": 30,
@@ -15944,7 +15949,7 @@
       "Name": "Biggest Reward",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 10147
+      "UsersEstimate": 10148
     },
     {
       "ID": "ACHIEVEMENT_07",
@@ -15968,7 +15973,7 @@
       "Name": "Project Manager",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 14496
+      "UsersEstimate": 14497
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -15976,7 +15981,7 @@
       "Name": "It\u0027s a steal!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 26818
+      "UsersEstimate": 26819
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -15992,7 +15997,7 @@
       "Name": "Prop-M Rover",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 23194
+      "UsersEstimate": 23195
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -16072,7 +16077,7 @@
       "Name": "Final touch",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 26818
+      "UsersEstimate": 26819
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -16120,7 +16125,7 @@
       "Name": "Master",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 14496
+      "UsersEstimate": 14497
     },
     {
       "ID": "ACHIEVEMENT_29",
@@ -16135,15 +16140,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 72482,
+      "Progressed": 72483,
       "Completed": 92
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-08-19T19:59:55.8257052+00:00",
-  "LastChanged_Achievements": "2023-08-20T02:19:41.8298991+00:00",
+  "LastChanged_Achievements": "2023-08-20T03:09:45.4876108+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:24.9562583+00:00",
-  "LastUpdate_Ratings": "2023-08-20T02:13:03.5663493+00:00",
-  "LastUpdate_Achievements": "2023-08-20T02:19:41.8300212+00:00"
+  "LastUpdate_Ratings": "2023-08-20T03:02:48.9250141+00:00",
+  "LastUpdate_Achievements": "2023-08-20T03:09:45.4877345+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 306,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -696,9 +696,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3157,
+  "EOS_Progressed": 3158,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3116,6 +3116,11 @@
       "Time": "2023-08-19T13:08:15.2322582+00:00",
       "NumProgressed": 3157,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-20T03:09:09.4741263+00:00",
+      "NumProgressed": 3158,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -3285,9 +3290,9 @@
       "ID": "KadexDefeated_Nexus",
       "SetID": "3jha1np",
       "Name": "Hold Your Ground",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 28
     },
     {
       "ID": "Kills_Auto",
@@ -3670,21 +3675,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3157,
+      "Progressed": 3158,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3157,
+      "Progressed": 3158,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-08-15T20:00:46.6433757+00:00",
-  "LastChanged_Achievements": "2023-08-20T02:19:16.1548255+00:00",
+  "LastChanged_Achievements": "2023-08-20T03:09:09.4741256+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:07.2457107+00:00",
-  "LastUpdate_Ratings": "2023-08-20T02:13:24.0704014+00:00",
-  "LastUpdate_Achievements": "2023-08-20T02:19:16.1549155+00:00"
+  "LastUpdate_Ratings": "2023-08-20T03:03:18.9688025+00:00",
+  "LastUpdate_Achievements": "2023-08-20T03:09:09.4742068+00:00"
 }

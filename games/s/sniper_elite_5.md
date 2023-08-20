@@ -5,15 +5,15 @@ Rating: 4.45 (Ranked 636)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 46.00% | ~1,610 |
-| Confirming Suspicions | 40.00% | ~1,400 |
-| The Kraken Wakes | 35.00% | ~1,225 |
-| It's Starting to Crack | 32.00% | ~1,120 |
-| Lord of War | 29.00% | ~1,015 |
-| Change the Channel | 29.00% | ~1,015 |
-| Taking it back | 27.00% | ~945 |
-| Resourceful | 26.00% | ~910 |
-| Target America | 25.00% | ~875 |
+| Meeting Resistance | 46.00% | ~1,611 |
+| Confirming Suspicions | 40.00% | ~1,401 |
+| The Kraken Wakes | 35.00% | ~1,226 |
+| It's Starting to Crack | 32.00% | ~1,121 |
+| Lord of War | 29.00% | ~1,016 |
+| Change the Channel | 29.00% | ~1,016 |
+| Taking it back | 27.00% | ~946 |
+| Resourceful | 26.00% | ~911 |
+| Target America | 25.00% | ~876 |
 | The Kraken Sleeps | 23.00% | ~805 |
 | Organ Grinder | 22.00% | ~770 |
 | As Quiet as a Mouse | 22.00% | ~770 |
@@ -41,7 +41,7 @@ Rating: 4.45 (Ranked 636)
 | The Long Game | 5.00% | ~175 |
 | It'll Buff Right Out | 5.00% | ~175 |
 | Don't hold your breath | 5.00% | ~175 |
-| Operation Foxley | 5.00% | ~172 |
+| Operation Foxley | 5.00% | ~173 |
 | Strategist | 4.00% | ~140 |
 | Tinkerer | 4.00% | ~140 |
 | Locomotion Commotion | 4.00% | ~140 |
@@ -65,19 +65,19 @@ Rating: 4.45 (Ranked 636)
 | Out of Scope | 1.00% | ~35 |
 | Sight Beyond Sights | 1.00% | ~35 |
 | Can't Outrun A Bullet | 1.00% | ~35 |
-| From Führer Away | 1.00% | ~34 |
-| Alpha | 1.00% | ~34 |
-| Das Familienjuwel | 1.00% | ~34 |
-| Sink or Swim | 1.00% | ~34 |
-| Master of Secondaries | 0.90% | ~31 |
+| From Führer Away | 1.00% | ~35 |
+| Alpha | 1.00% | ~35 |
+| Das Familienjuwel | 1.00% | ~35 |
+| Sink or Swim | 1.00% | ~35 |
+| Master of Secondaries | 0.90% | ~32 |
 | Master of Rifles | 0.80% | ~28 |
-| Master of Pistols | 0.70% | ~24 |
-| Master-at-arms | 0.70% | ~24 |
+| Master of Pistols | 0.70% | ~25 |
+| Master-at-arms | 0.70% | ~25 |
 | Operation Overlord | 0.70% | ~24 |
 | Stroll in the Woods | 0.60% | ~21 |
 | Going Overboard | 0.60% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,499 (Ranked 152)  
+Progressed: 3,502 (Ranked 152)  
 Completed: 9 (0.26%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,7 +198,7 @@ Completed: 9 (0.26%) (Ranked 176)
 | 2023-08-17 | 3,491 | 9 |
 | 2023-08-18 | 3,494 | 9 |
 | 2023-08-19 | 3,498 | 9 |
-| 2023-08-20 | 3,499 | 9 |
+| 2023-08-20 | 3,502 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,13 +2,13 @@
   "ID": "a472b0f2f2a5493d960a941f01cf3393",
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
-  "Ranking_Rating": 885,
+  "Ranking_Rating": 900,
   "Ranking_Popularity": 483,
   "Ranking_PopularitySum": 488,
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 248,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "SA"
     }
   },
-  "Rating": 4.16,
+  "Rating": 4.14,
   "RatingHistory": [
     {
       "Time": "2023-01-28T02:09:06.4755934+00:00",
@@ -326,6 +326,12 @@
       "Rating": 4.16,
       "NumberOfAwards": 24,
       "NumberOfAwardsMax": 24
+    },
+    {
+      "Time": "2023-08-20T03:03:04.6887582+00:00",
+      "Rating": 4.14,
+      "NumberOfAwards": 24,
+      "NumberOfAwardsMax": 24
     }
   ],
   "ReviewsDisabled": false,
@@ -342,7 +348,7 @@
   ],
   "EOS_Progressed": 39721,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7972,9 +7978,9 @@
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
-  "LastChanged": "2023-08-18T02:13:22.2051085+00:00",
-  "LastChanged_Achievements": "2023-08-20T02:17:53.067349+00:00",
+  "LastChanged": "2023-08-20T03:03:04.688758+00:00",
+  "LastChanged_Achievements": "2023-08-20T03:07:12.1635715+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:51.1296088+00:00",
-  "LastUpdate_Ratings": "2023-08-20T02:13:14.7716072+00:00",
-  "LastUpdate_Achievements": "2023-08-20T02:17:53.0674661+00:00"
+  "LastUpdate_Ratings": "2023-08-20T03:03:04.6887586+00:00",
+  "LastUpdate_Achievements": "2023-08-20T03:07:12.1636808+00:00"
 }
