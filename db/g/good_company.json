@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 241,
-  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5305,
+  "EOS_Progressed": 5306,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -3010,6 +3010,11 @@
       "Time": "2023-08-20T13:07:01.4047798+00:00",
       "NumProgressed": 5305,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-20T14:05:50.129884+00:00",
+      "NumProgressed": 5306,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -3133,7 +3138,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 2652
+      "UsersEstimate": 2653
     },
     {
       "ID": "ach_campaign_progress6",
@@ -3141,7 +3146,7 @@
       "Name": "Level: Rising Markets",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "ach_campaign_progress7",
@@ -3173,7 +3178,7 @@
       "Name": "Returning Home: Quick Learner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1379
+      "UsersEstimate": 1380
     },
     {
       "ID": "ach_campaign_special10",
@@ -3628,15 +3633,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5305,
+      "Progressed": 5306,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-07-16T00:00:06.2705867+00:00",
-  "LastChanged_Achievements": "2023-08-20T13:07:01.4047793+00:00",
+  "LastChanged_Achievements": "2023-08-20T14:05:50.1298834+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:24.484308+00:00",
-  "LastUpdate_Ratings": "2023-08-20T13:03:09.3906207+00:00",
-  "LastUpdate_Achievements": "2023-08-20T13:07:01.40489+00:00"
+  "LastUpdate_Ratings": "2023-08-20T14:01:50.9239612+00:00",
+  "LastUpdate_Achievements": "2023-08-20T14:05:50.1299888+00:00"
 }

@@ -543,9 +543,9 @@
       "ID": "ACHIEVEMENT_MARBLEBALL_BADGE_ID",
       "SetID": "2h9pc72",
       "Name": "Marbleball Badge",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ACHIEVEMENT_METALBALL_BADGE_ID",
@@ -583,9 +583,9 @@
       "ID": "ACHIEVEMENT_SPEEDBALL_ROOKIE_ID",
       "SetID": "2h9pc72",
       "Name": "Speedroller Rookie",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACHIEVEMENT_SPEEDBALL_TRAINEE_ID",
@@ -614,8 +614,8 @@
   ],
   "FirstSeen": "2023-05-15T16:57:34.7709022+00:00",
   "FirstSeenAchievements": "2023-05-02T12:00:27.1068616+00:00",
-  "LastChanged_Achievements": "2023-08-20T13:08:58.0369724+00:00",
+  "LastChanged_Achievements": "2023-08-20T14:07:47.5846361+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:50.9953114+00:00",
-  "LastUpdate_Ratings": "2023-08-20T13:01:04.7716912+00:00",
-  "LastUpdate_Achievements": "2023-08-20T13:08:58.0369842+00:00"
+  "LastUpdate_Ratings": "2023-08-20T13:59:47.9172434+00:00",
+  "LastUpdate_Achievements": "2023-08-20T14:07:47.584659+00:00"
 }

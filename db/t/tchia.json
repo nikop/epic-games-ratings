@@ -212,9 +212,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7224,
+  "EOS_Progressed": 7225,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 267,
+  "EOS_NewPlayers": 268,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -6057,6 +6057,11 @@
       "Time": "2023-08-20T13:08:17.574012+00:00",
       "NumProgressed": 7224,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-08-20T14:07:07.5447697+00:00",
+      "NumProgressed": 7225,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 21,
@@ -6108,7 +6113,7 @@
       "Name": "Clay Pigeon",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "ENERGY_SAVER",
@@ -6156,15 +6161,15 @@
       "Name": "Historian",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "ICONOCLAST",
       "SetID": "3cck1g6",
       "Name": "Iconoclast",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 361
+      "UsersEstimate": 434
     },
     {
       "ID": "IN_A_PINCH",
@@ -6212,7 +6217,7 @@
       "Name": "Soul-Canon",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "THE_JOURNEY_ONWARDS",
@@ -6235,7 +6240,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7224,
+      "Progressed": 7225,
       "Completed": 32
     }
   ],
@@ -6243,8 +6248,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-08-07T01:56:04.2387619+00:00",
-  "LastChanged_Achievements": "2023-08-20T13:08:17.5740111+00:00",
+  "LastChanged_Achievements": "2023-08-20T14:07:07.544769+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:55.8261903+00:00",
-  "LastUpdate_Ratings": "2023-08-20T13:01:53.394181+00:00",
-  "LastUpdate_Achievements": "2023-08-20T13:08:17.5740807+00:00"
+  "LastUpdate_Ratings": "2023-08-20T14:00:34.0464104+00:00",
+  "LastUpdate_Achievements": "2023-08-20T14:07:07.5448347+00:00"
 }

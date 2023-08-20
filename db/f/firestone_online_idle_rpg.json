@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -224,7 +224,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1826,
+  "EOS_Progressed": 1827,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
@@ -5039,6 +5039,11 @@
       "Time": "2023-08-20T05:06:13.2706293+00:00",
       "NumProgressed": 1826,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-20T14:06:57.2711593+00:00",
+      "NumProgressed": 1827,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -5128,9 +5133,9 @@
       "ID": "crystalmining",
       "SetID": "3nl4bcg",
       "Name": "Crystal Mining",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 146
+      "UsersEstimate": 128
     },
     {
       "ID": "dailyquestcompletionist",
@@ -5154,7 +5159,7 @@
       "Name": "Dragon Clicker",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "dragonmaster",
@@ -5282,7 +5287,7 @@
       "Name": "Guild Power",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "herewegoagain",
@@ -5378,7 +5383,7 @@
       "Name": "Milestone collector",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "minerclicker",
@@ -5386,7 +5391,7 @@
       "Name": "Miner Clicker",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "missionsdedication",
@@ -5426,7 +5431,7 @@
       "Name": "Natural Talent",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "pokerface",
@@ -5498,7 +5503,7 @@
       "Name": "Superior",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "templeofeternals",
@@ -5554,7 +5559,7 @@
       "Name": "The Unstoppable",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "titanpower",
@@ -5610,7 +5615,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1698
+      "UsersEstimate": 1699
     },
     {
       "ID": "warmachinesarmy",
@@ -5649,7 +5654,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1826,
+      "Progressed": 1827,
       "Completed": 2
     }
   ],
@@ -5657,8 +5662,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-08-10T20:59:32.9674394+00:00",
-  "LastChanged_Achievements": "2023-08-20T13:08:07.2440845+00:00",
+  "LastChanged_Achievements": "2023-08-20T14:06:57.2711586+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:03.2567748+00:00",
-  "LastUpdate_Ratings": "2023-08-20T13:01:58.3486111+00:00",
-  "LastUpdate_Achievements": "2023-08-20T13:08:07.2442044+00:00"
+  "LastUpdate_Ratings": "2023-08-20T14:00:39.8134314+00:00",
+  "LastUpdate_Achievements": "2023-08-20T14:06:57.2712668+00:00"
 }

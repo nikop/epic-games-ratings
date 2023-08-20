@@ -5950,9 +5950,9 @@
       "Count": 3364
     }
   ],
-  "EOS_Progressed": 223578,
+  "EOS_Progressed": 223592,
   "EOS_Completed": 2193,
-  "EOS_NewPlayers": 2099,
+  "EOS_NewPlayers": 2105,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -19245,6 +19245,11 @@
       "Time": "2023-08-20T13:07:38.834979+00:00",
       "NumProgressed": 223578,
       "NumCompleted": 2193
+    },
+    {
+      "Time": "2023-08-20T14:06:29.4615494+00:00",
+      "NumProgressed": 223592,
+      "NumCompleted": 2193
     }
   ],
   "TotalAchievements": 516,
@@ -19326,9 +19331,9 @@
       "ID": "objective_completed_1050",
       "SetID": "415jc5c",
       "Name": "Tall Tales",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 190
+      "UsersEstimate": 380
     },
     {
       "ID": "objective_completed_1051",
@@ -23383,21 +23388,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 189852,
-      "Completed": 3275
+      "Progressed": 189866,
+      "Completed": 3276
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 223578,
+      "Progressed": 223592,
       "Completed": 2193
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-20T09:59:31.2979576+00:00",
-  "LastChanged_Achievements": "2023-08-20T13:07:38.8349783+00:00",
+  "LastChanged_Achievements": "2023-08-20T14:06:29.4615488+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:12.3267162+00:00",
-  "LastUpdate_Ratings": "2023-08-20T13:02:09.6626019+00:00",
-  "LastUpdate_Achievements": "2023-08-20T13:07:38.8383847+00:00"
+  "LastUpdate_Ratings": "2023-08-20T14:00:51.2860303+00:00",
+  "LastUpdate_Achievements": "2023-08-20T14:06:29.4647253+00:00"
 }

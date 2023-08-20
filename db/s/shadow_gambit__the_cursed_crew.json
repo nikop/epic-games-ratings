@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 340,
+  "EOS_Progressed": 343,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 321,
+  "EOS_NewPlayers": 324,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -551,6 +551,11 @@
       "Time": "2023-08-20T13:05:35.5133996+00:00",
       "NumProgressed": 340,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-20T14:04:22.3905966+00:00",
+      "NumProgressed": 343,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -561,9 +566,9 @@
       "ID": "_01_AllIslands",
       "SetID": "8a1io5d",
       "Name": "Somewhere Deep in the Lost Caribbean",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 21
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -571,23 +576,23 @@
       "Name": "A New Journey",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 245
+      "UsersEstimate": 247
     },
     {
       "ID": "_03_FinishAct1",
       "SetID": "8a1io5d",
       "Name": "The Adventure Begins",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 150
+      "UsersEstimate": 154
     },
     {
       "ID": "_04_CollectAllRelics",
       "SetID": "8a1io5d",
       "Name": "This Belongs in a Museum",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 58
     },
     {
       "ID": "_05_FinishAct2",
@@ -617,9 +622,9 @@
       "ID": "_08_Completion_10",
       "SetID": "8a1io5d",
       "Name": "Swabbie",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 93
     },
     {
       "ID": "_09_Completion_20",
@@ -681,17 +686,17 @@
       "ID": "_16_UnlockCore8Characters",
       "SetID": "8a1io5d",
       "Name": "Pirates Assemble!",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 14
+      "UsersEstimate": 10
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
       "SetID": "8a1io5d",
       "Name": "With Great Power\u2026",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 79
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -707,7 +712,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -770,14 +775,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 340,
+      "Progressed": 343,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-20T13:05:35.5133989+00:00",
+  "LastChanged_Achievements": "2023-08-20T14:04:22.390596+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:01.7621403+00:00",
-  "LastUpdate_Ratings": "2023-08-20T13:01:57.5472255+00:00",
-  "LastUpdate_Achievements": "2023-08-20T13:05:35.5134232+00:00"
+  "LastUpdate_Ratings": "2023-08-20T14:00:38.8762679+00:00",
+  "LastUpdate_Achievements": "2023-08-20T14:04:22.3906207+00:00"
 }

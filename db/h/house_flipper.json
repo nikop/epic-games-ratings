@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 190,
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
@@ -1836,9 +1836,9 @@
       "Count": 213
     }
   ],
-  "EOS_Progressed": 20658,
+  "EOS_Progressed": 20659,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7796,6 +7796,11 @@
       "Time": "2023-08-20T01:43:18.5134044+00:00",
       "NumProgressed": 20658,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-08-20T14:03:37.2019338+00:00",
+      "NumProgressed": 20659,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 23,
@@ -7959,7 +7964,7 @@
       "Name": "Pro-creative",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3718
+      "UsersEstimate": 3719
     },
     {
       "ID": "Strongman",
@@ -7990,15 +7995,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 20658,
+      "Progressed": 20659,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-08-18T11:02:35.7943865+00:00",
-  "LastChanged_Achievements": "2023-08-20T13:04:45.2757616+00:00",
+  "LastChanged_Achievements": "2023-08-20T14:03:37.2019333+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:27.2088763+00:00",
-  "LastUpdate_Ratings": "2023-08-20T12:58:27.4544701+00:00",
-  "LastUpdate_Achievements": "2023-08-20T13:04:45.2758194+00:00"
+  "LastUpdate_Ratings": "2023-08-20T13:57:11.7084287+00:00",
+  "LastUpdate_Achievements": "2023-08-20T14:03:37.2019844+00:00"
 }

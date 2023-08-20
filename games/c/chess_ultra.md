@@ -5,26 +5,26 @@ Rating: 4.28 (Ranked 806)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chop Wood | 69.00% | ~139,143 |
-| Doubled Pawn | 56.00% | ~112,927 |
-| Check | 54.00% | ~108,894 |
-| Absolute pin | 46.00% | ~92,762 |
-| Promotion | 30.00% | ~60,497 |
-| Checkmate | 29.00% | ~58,480 |
-| O-O | 23.00% | ~46,381 |
-| Queen Sacrifice | 20.00% | ~40,331 |
-| Spanish Bishop | 20.00% | ~40,331 |
-| Stalemate | 18.00% | ~36,298 |
-| O-O-O | 13.00% | ~26,215 |
-| Octopus | 13.00% | ~26,215 |
-| Stranger Danger | 12.00% | ~24,199 |
-| En Passant | 9.00% | ~18,149 |
-| Double Check | 7.00% | ~14,116 |
-| Piece Collector | 6.00% | ~12,099 |
+| Chop Wood | 69.00% | ~139,150 |
+| Doubled Pawn | 56.00% | ~112,934 |
+| Check | 54.00% | ~108,900 |
+| Absolute pin | 46.00% | ~92,767 |
+| Promotion | 30.00% | ~60,500 |
+| Checkmate | 29.00% | ~58,483 |
+| O-O | 23.00% | ~46,383 |
+| Queen Sacrifice | 20.00% | ~40,333 |
+| Spanish Bishop | 20.00% | ~40,333 |
+| Stalemate | 18.00% | ~36,300 |
+| O-O-O | 13.00% | ~26,217 |
+| Octopus | 13.00% | ~26,217 |
+| Stranger Danger | 12.00% | ~24,200 |
+| En Passant | 9.00% | ~18,150 |
+| Double Check | 7.00% | ~14,117 |
+| Piece Collector | 6.00% | ~12,100 |
 | ELO | 5.00% | ~10,083 |
 | Family Fork | 5.00% | ~10,083 |
 | Friendly Fire | 5.00% | ~10,083 |
-| Underpromote | 4.00% | ~8,066 |
+| Underpromote | 4.00% | ~8,067 |
 | ELO ELO | 3.00% | ~6,050 |
 | Blind Pigs | 2.00% | ~4,033 |
 | ELO ELO ELO | 2.00% | ~4,033 |
@@ -44,7 +44,7 @@ Rating: 4.28 (Ranked 806)
 | Tournament Master | 0.10% | ~202 |
 | Tournament Pro | 0.10% | ~202 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 201,656 (Ranked 57)  
+Progressed: 201,667 (Ranked 57)  
 Completed: 2 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 2 (0.00%) (Ranked 261)
 | 2023-08-17 | 201,028 | 2 |
 | 2023-08-18 | 201,271 | 2 |
 | 2023-08-19 | 201,518 | 2 |
-| 2023-08-20 | 201,656 | 2 |
+| 2023-08-20 | 201,667 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

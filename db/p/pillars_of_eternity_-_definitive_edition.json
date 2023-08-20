@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 135,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 285,
+  "Ranking_EOS_NewPlayers": 272,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2020-12-10T16:00:00+00:00",
@@ -2868,9 +2868,9 @@
       "Count": 185
     }
   ],
-  "EOS_Progressed": 1092,
+  "EOS_Progressed": 1093,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2968,6 +2968,11 @@
       "Time": "2023-08-19T15:05:24.3201433+00:00",
       "NumProgressed": 1092,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-20T14:06:24.453075+00:00",
+      "NumProgressed": 1093,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 48,
@@ -3035,7 +3040,7 @@
       "Name": "Alchemist",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "achievement_09",
@@ -3171,7 +3176,7 @@
       "Name": "The Siege of Cr\u00E4gholdt",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "achievement_26",
@@ -3259,7 +3264,7 @@
       "Name": "Kickstarter Backer",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 895
+      "UsersEstimate": 896
     },
     {
       "ID": "achievement_37",
@@ -3362,15 +3367,15 @@
     {
       "ID": "70p237j",
       "IsBase": true,
-      "Progressed": 1092,
+      "Progressed": 1093,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:19.0250263+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.7524763+00:00",
   "LastChanged": "2023-08-20T01:39:36.5079693+00:00",
-  "LastChanged_Achievements": "2023-08-20T13:07:34.3651326+00:00",
+  "LastChanged_Achievements": "2023-08-20T14:06:24.4530744+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:36.8674937+00:00",
-  "LastUpdate_Ratings": "2023-08-20T13:01:31.4104818+00:00",
-  "LastUpdate_Achievements": "2023-08-20T13:07:34.3651804+00:00"
+  "LastUpdate_Ratings": "2023-08-20T14:00:14.3109713+00:00",
+  "LastUpdate_Achievements": "2023-08-20T14:06:24.4531216+00:00"
 }

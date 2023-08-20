@@ -31,6 +31,7 @@
 | Deputized | 3.00% | ~4 |
 | Harbinger | 3.00% | ~4 |
 | The Voice of Hereafter | 3.00% | ~4 |
+| A Terrible Will | 3.00% | ~4 |
 | Pilgrimage's End | 3.00% | ~4 |
 | Merchant | 3.00% | ~4 |
 | Trouble at Fort Larius | 3.00% | ~4 |
@@ -41,22 +42,24 @@
 | Despised | 2.00% | ~3 |
 | Business As Usual | 2.00% | ~3 |
 | Trailblazer | 2.00% | ~3 |
-| A Terrible Will | 2.00% | ~3 |
 | Delayed | 2.00% | ~3 |
 | The Darkness Within | 2.00% | ~3 |
 | Life... Finds a Way | 2.00% | ~3 |
 | Unseen Patterns | 2.00% | ~3 |
 | Watcher | 0.80% | ~1 |
+| Executor | 0.80% | ~1 |
 | Loremaster | 0.80% | ~1 |
 | Talent Nurtured | 0.80% | ~1 |
 | Embellished | 0.80% | ~1 |
 | Conqueror | 0.80% | ~1 |
 | Legacy of a Mercenary | 0.80% | ~1 |
+| Manticore | 0.80% | ~1 |
 | Moving At Odd Angles | 0.80% | ~1 |
 | Despoiler | 0.80% | ~1 |
 | A Real Battle | 0.80% | ~1 |
 | Celebrity | 0.80% | ~1 |
 | Ruiner | 0.80% | ~1 |
+| Arcanite | 0.80% | ~1 |
 | Wyrmslayer | 0.80% | ~1 |
 | Merchant Lord | 0.80% | ~1 |
 | Glorious leader | 0.80% | ~1 |
@@ -68,7 +71,6 @@
 | Beloved by Irafons | 0.00% | ~0 |
 | Deceptions Disclosed | 0.00% | ~0 |
 | Carpenter | 0.00% | ~0 |
-| Executor | 0.00% | ~0 |
 | General | 0.00% | ~0 |
 | Company of Heroes | 0.00% | ~0 |
 | Accomplished Explorer | 0.00% | ~0 |
@@ -83,7 +85,6 @@
 | All Geared Up | 0.00% | ~0 |
 | Forged in Battle | 0.00% | ~0 |
 | Captain | 0.00% | ~0 |
-| Manticore | 0.00% | ~0 |
 | Huntsmaster | 0.00% | ~0 |
 | Seeker | 0.00% | ~0 |
 | Chromatic Collector | 0.00% | ~0 |
@@ -93,7 +94,6 @@
 | Handymen | 0.00% | ~0 |
 | Settler | 0.00% | ~0 |
 | Escort | 0.00% | ~0 |
-| Arcanite | 0.00% | ~0 |
 | What Lies Below | 0.00% | ~0 |
 | Rage Repressed | 0.00% | ~0 |
 | The Last Voyage | 0.00% | ~0 |

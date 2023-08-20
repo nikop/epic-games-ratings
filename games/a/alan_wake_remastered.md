@@ -9,8 +9,8 @@ Number of Ratings: 524  (23.09.2022)
 | Follow the Light | 37.00% | ~22,637 |
 | Let There Be Light | 30.00% | ~18,354 |
 | Float Like a Butterfly | 29.00% | ~17,742 |
-| Nordic Walking | 23.00% | ~14,071 |
-| Bright Falls' Finest | 23.00% | ~14,071 |
+| Nordic Walking | 23.00% | ~14,072 |
+| Bright Falls' Finest | 23.00% | ~14,072 |
 | Under a Thin Layer of Skin | 20.00% | ~12,236 |
 | Paging Mr. Wake | 17.00% | ~10,401 |
 | Park Ranger | 16.00% | ~9,789 |
@@ -19,9 +19,9 @@ Number of Ratings: 524  (23.09.2022)
 | Sound and Fury | 14.00% | ~8,565 |
 | Missed by a Mile | 14.00% | ~8,565 |
 | Damn Good Cup of Coffee | 14.00% | ~8,565 |
-| Wheels Within Wheels | 13.00% | ~7,953 |
-| They're Heeeeeere! | 13.00% | ~7,953 |
-| The Six-Gun Scribe | 13.00% | ~7,953 |
+| Wheels Within Wheels | 13.00% | ~7,954 |
+| They're Heeeeeere! | 13.00% | ~7,954 |
+| The Six-Gun Scribe | 13.00% | ~7,954 |
 | Heavy Metal | 12.00% | ~7,342 |
 | Iron Horse | 12.00% | ~7,342 |
 | Collateral Carnage | 12.00% | ~7,342 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~61 |
 | No Punctuation | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,180 (Ranked 85)  
+Progressed: 61,181 (Ranked 85)  
 Completed: 64 (0.10%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 64 (0.10%) (Ranked 208)
 | 2023-08-17 | 61,025 | 64 |
 | 2023-08-18 | 61,081 | 64 |
 | 2023-08-19 | 61,152 | 64 |
-| 2023-08-20 | 61,180 | 64 |
+| 2023-08-20 | 61,181 | 64 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

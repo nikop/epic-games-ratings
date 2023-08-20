@@ -6,7 +6,7 @@ Rating: 4.60 (Ranked 391)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 25.00% | ~209 |
-| Rail Rat | 21.00% | ~175 |
+| Rail Rat | 21.00% | ~176 |
 | The Mysterious Stranger | 20.00% | ~167 |
 | The Prince in Heels | 19.00% | ~159 |
 | Immaculate Aim | 19.00% | ~159 |
@@ -43,9 +43,9 @@ Rating: 4.60 (Ranked 391)
 | Syron for Hope | 9.00% | ~75 |
 | Cultivair Explorer | 8.00% | ~67 |
 | Factorywood Explorer | 8.00% | ~67 |
-| Corin Goes Home | 7.00% | ~58 |
-| Sartorialist | 7.00% | ~58 |
-| Entresol Explorer | 7.00% | ~58 |
+| Corin Goes Home | 7.00% | ~59 |
+| Sartorialist | 7.00% | ~59 |
+| Entresol Explorer | 7.00% | ~59 |
 | Golem Hunter | 6.00% | ~50 |
 | Clovemary for Remembering | 5.00% | ~42 |
 | Rungs Was Right | 5.00% | ~42 |
@@ -59,7 +59,7 @@ Rating: 4.60 (Ranked 391)
 | Going to Live Forever | 0.60% | ~5 |
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 835 (Ranked 207)  
+Progressed: 836 (Ranked 206)  
 Completed: 5 (0.60%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,6 +140,7 @@ Completed: 5 (0.60%) (Ranked 138)
 | 2023-08-12 | 832 | 5 |
 | 2023-08-14 | 834 | 5 |
 | 2023-08-16 | 835 | 5 |
+| 2023-08-20 | 836 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

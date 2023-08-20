@@ -6,9 +6,9 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 20.00% | ~43,011 |
-| Where's that freaking Dwarf? | 2.00% | ~4,301 |
-| Alt+F4 | 2.00% | ~4,301 |
+| Sowwy! | 20.00% | ~43,016 |
+| Where's that freaking Dwarf? | 2.00% | ~4,302 |
+| Alt+F4 | 2.00% | ~4,302 |
 | Déjà vu | 1.00% | ~2,151 |
 | A beer, two curses, three companions | 1.00% | ~2,151 |
 | Sock! SOCK! | 1.00% | ~2,151 |
@@ -16,9 +16,9 @@ Number of Ratings: 118  (23.09.2022)
 | Fireproof Wizardess | 1.00% | ~2,151 |
 | GG EZ | 0.90% | ~1,936 |
 | DM intervention | 0.90% | ~1,936 |
-| Livin' in a dwarven paradise | 0.70% | ~1,505 |
-| Way of the Wimp | 0.70% | ~1,505 |
-| The plot thickens... At the tavern | 0.70% | ~1,505 |
+| Livin' in a dwarven paradise | 0.70% | ~1,506 |
+| Way of the Wimp | 0.70% | ~1,506 |
+| The plot thickens... At the tavern | 0.70% | ~1,506 |
 | Team Building Exercise | 0.60% | ~1,290 |
 | Oh, when I'll be level 10... | 0.60% | ~1,290 |
 | Shiny and Crôm | 0.50% | ~1,075 |
@@ -43,6 +43,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dead for good | 0.30% | ~645 |
 | Lust and Debauchery | 0.30% | ~645 |
 | Material Girl | 0.30% | ~645 |
+| An old poacher makes the best gamekeeper | 0.20% | ~430 |
 | We come in peace | 0.20% | ~430 |
 | Gargantua | 0.20% | ~430 |
 | In Navalu's footsteps | 0.20% | ~430 |
@@ -83,7 +84,6 @@ Number of Ratings: 118  (23.09.2022)
 | Pyrrhic victory | 0.10% | ~215 |
 | 100% satisfaction guarantee | 0.10% | ~215 |
 | Death is for wimps | 0.10% | ~215 |
-| An old poacher makes the best gamekeeper | 0.10% | ~215 |
 | Super-Ultra-Lydian | 0.10% | ~215 |
 | Lord of the Drunks | 0.10% | ~215 |
 | Law and Order | 0.10% | ~215 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Staff cut | 0.00% | ~0 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,056 (Ranked 56)  
+Progressed: 215,078 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,7 +176,7 @@ Completed: 2 (0.00%) (Ranked 261)
 | 2023-08-17 | 213,783 | 2 |
 | 2023-08-18 | 214,230 | 2 |
 | 2023-08-19 | 214,804 | 2 |
-| 2023-08-20 | 215,056 | 2 |
+| 2023-08-20 | 215,078 | 2 |
 ## Awards
 Max (Character Customization): 170  (Ranked 287)  
 Sum: 211 (Ranked 366)  

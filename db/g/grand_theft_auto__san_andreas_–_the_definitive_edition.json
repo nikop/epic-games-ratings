@@ -3,7 +3,7 @@
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
   "Ranking_Rating": 451,
-  "Ranking_Popularity": 249,
+  "Ranking_Popularity": 248,
   "Ranking_PopularitySum": 341,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 168,
@@ -698,18 +698,24 @@
       "Rating": 4.57,
       "NumberOfAwards": 284,
       "NumberOfAwardsMax": 262
+    },
+    {
+      "Time": "2023-08-20T13:58:18.1792138+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 286,
+      "NumberOfAwardsMax": 264
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 284,
-  "NumberOfAwardsMax": 262,
+  "NumberOfAwards": 286,
+  "NumberOfAwardsMax": 264,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 262
+      "Count": 264
     },
     {
       "Text": "This game is Relaxing",
@@ -718,9 +724,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 12009,
+  "EOS_Progressed": 12010,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -9148,6 +9154,11 @@
       "Time": "2023-08-20T02:16:28.2261496+00:00",
       "NumProgressed": 12009,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-08-20T14:03:46.7653995+00:00",
+      "NumProgressed": 12010,
+      "NumCompleted": 39
     }
   ],
   "TotalAchievements": 35,
@@ -9159,7 +9170,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9727
+      "UsersEstimate": 9728
     },
     {
       "ID": "ACH02",
@@ -9327,7 +9338,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 1801
+      "UsersEstimate": 1802
     },
     {
       "ID": "ACH23",
@@ -9335,7 +9346,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3122
+      "UsersEstimate": 3123
     },
     {
       "ID": "ACH24",
@@ -9383,7 +9394,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 1801
+      "UsersEstimate": 1802
     },
     {
       "ID": "ACH30",
@@ -9438,16 +9449,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 12009,
+      "Progressed": 12010,
       "Completed": 39
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2023-08-19T14:57:56.2789328+00:00",
-  "LastChanged_Achievements": "2023-08-20T13:05:06.5069112+00:00",
+  "LastChanged": "2023-08-20T13:58:18.1792136+00:00",
+  "LastChanged_Achievements": "2023-08-20T14:03:46.7653989+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:04.3712405+00:00",
-  "LastUpdate_Ratings": "2023-08-20T12:59:32.4452925+00:00",
-  "LastUpdate_Achievements": "2023-08-20T13:05:06.5070122+00:00"
+  "LastUpdate_Ratings": "2023-08-20T13:58:18.1792142+00:00",
+  "LastUpdate_Achievements": "2023-08-20T14:03:46.7654927+00:00"
 }
