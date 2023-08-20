@@ -33,9 +33,9 @@
 | 31 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.30% |
 | 32 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.96% |
 | 33 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.48% |
-| 34 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.33% |
+| 34 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.11% |
 | 35 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 7.69% |
-| 36 | [Ravenlok](games/r/ravenlok.md) | 7.52% |
+| 36 | [Ravenlok](games/r/ravenlok.md) | 7.51% |
 | 37 | [Smelter](games/s/smelter.md) | 7.50% |
 | 38 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.27% |
 | 39 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.01% |
@@ -69,13 +69,13 @@
 | 67 | [Bunny Park](games/b/bunny_park.md) | 3.37% |
 | 68 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.30% |
 | 69 | [The Complex](games/t/the_complex.md) | 3.17% |
+| 70 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.15% |
 | 70 | [HordeCore](games/h/hordecore.md) | 3.15% |
-| 71 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.08% |
-| 72 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.04% |
-| 73 | [Monster Harvest](games/m/monster_harvest.md) | 2.94% |
-| 74 | [MultiVersus](games/m/multiversus.md) | 2.93% |
-| 75 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.92% |
-| 76 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 2.80% |
+| 72 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.08% |
+| 73 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.04% |
+| 74 | [Monster Harvest](games/m/monster_harvest.md) | 2.94% |
+| 75 | [MultiVersus](games/m/multiversus.md) | 2.93% |
+| 76 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.92% |
 | 77 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.78% |
 | 78 | [Destiny 2](games/d/destiny_2.md) | 2.74% |
 | 79 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
@@ -124,7 +124,7 @@
 | 122 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.96% |
 | 123 | [Hades](games/h/hades.md) | 0.90% |
 | 124 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
-| 125 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
+| 125 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
 | 126 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.80% |
 | 127 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.75% |
 | 128 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.74% |
