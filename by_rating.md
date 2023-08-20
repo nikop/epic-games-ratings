@@ -236,7 +236,7 @@
 | 215 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 956 | 148 |
 | 215 | [World of Goo](games/w/world_of_goo.md) | 4.69 | 0 | 513 |
 | 215 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 0 | 513 |
-| 215 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 812 | 155 |
+| 215 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 813 | 155 |
 | 238 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 3,340 | 89 |
 | 238 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 3,399 | 88 |
 | 238 | [Bad North](games/b/bad_north.md) | 4.68 | 0 | 513 |
@@ -384,7 +384,7 @@
 | 367 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 671 | 171 |
 | 367 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 105 | 331 |
 | 367 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 486 | 199 |
-| 367 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 9,842 | 37 |
+| 367 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 9,855 | 37 |
 | 367 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,074 | 138 |
 | 367 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 278 | 243 |
 | 367 | [Supraland](games/s/supraland.md) | 4.61 | 7,672 | 46 |
@@ -464,7 +464,7 @@
 | 451 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.57 | 0 | 513 |
 | 451 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,697 | 45 |
 | 451 | [Observation](games/o/observation.md) | 4.57 | 0 | 513 |
-| 451 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,211 | 92 |
+| 451 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,212 | 92 |
 | 451 | [Risen](games/r/risen.md) | 4.57 | 0 | 513 |
 | 451 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.57 | 0 | 513 |
 | 451 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 3,751 | 82 |
@@ -799,7 +799,7 @@
 | 797 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.29 | 0 | 513 |
 | 797 | [Dark Light](games/d/dark_light.md) | 4.29 | 0 | 513 |
 | 797 | [ELEX II](games/e/elex_ii.md) | 4.29 | 0 | 513 |
-| 797 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,591,509 | 1 |
+| 797 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,593,911 | 1 |
 | 797 | [Murder by Numbers](games/m/murder_by_numbers.md) | 4.29 | 0 | 513 |
 | 797 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 718 | 166 |
 | 797 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 44 | 418 |
