@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 60.00% | ~196 |
+| In the Black | 61.00% | ~199 |
 | Starting Skyward | 54.00% | ~177 |
 | Grime is Not Good | 48.00% | ~157 |
 | Dinner Dash | 41.00% | ~134 |

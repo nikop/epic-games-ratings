@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 302,
+  "EOS_Progressed": 304,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 300,
+  "EOS_NewPlayers": 302,
   "EOS_NewCompleters": 9,
-  "EOS_Completed_Percentage": 2.98,
+  "EOS_Completed_Percentage": 2.96,
   "EosHistory": [
     {
       "Time": "2023-08-08T23:02:04.1783243+00:00",
@@ -381,6 +381,11 @@
       "Time": "2023-08-20T18:04:50.2974557+00:00",
       "NumProgressed": 302,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-20T19:04:33.7292468+00:00",
+      "NumProgressed": 304,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-08-08T22:02:18.1743145+00:00",
@@ -393,7 +398,7 @@
       "Name": "Played!",
       "Percentage": 86,
       "XP": 200,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "Mission2",
@@ -401,15 +406,15 @@
       "Name": "Mission 1 clear",
       "Percentage": 40,
       "XP": 200,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "Mission3",
       "SetID": "6igjng7",
       "Name": "Mission 2 clear",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 200,
-      "UsersEstimate": 85
+      "UsersEstimate": 88
     },
     {
       "ID": "Mission4",
@@ -432,14 +437,14 @@
     {
       "ID": "6igjng7",
       "IsBase": true,
-      "Progressed": 302,
+      "Progressed": 304,
       "Completed": 9
     }
   ],
   "FirstSeen": "2023-08-19T18:58:05.6794692+00:00",
   "FirstSeenAchievements": "2023-08-08T21:02:12.6548497+00:00",
-  "LastChanged_Achievements": "2023-08-20T18:04:50.2974549+00:00",
+  "LastChanged_Achievements": "2023-08-20T19:04:33.7292462+00:00",
   "LastUpdate_AppInfo": "2023-08-14T08:57:17.4876993+00:00",
-  "LastUpdate_Ratings": "2023-08-20T17:58:30.4486437+00:00",
-  "LastUpdate_Achievements": "2023-08-20T18:04:50.2974671+00:00"
+  "LastUpdate_Ratings": "2023-08-20T18:58:23.7541454+00:00",
+  "LastUpdate_Achievements": "2023-08-20T19:04:33.7292512+00:00"
 }

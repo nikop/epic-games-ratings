@@ -44,8 +44,10 @@
 | Trailblazer | 2.00% | ~3 |
 | Delayed | 2.00% | ~3 |
 | The Darkness Within | 2.00% | ~3 |
+| Ruiner | 2.00% | ~3 |
 | Life... Finds a Way | 2.00% | ~3 |
 | Unseen Patterns | 2.00% | ~3 |
+| Voracity Confronted | 2.00% | ~3 |
 | Watcher | 0.80% | ~1 |
 | Executor | 0.80% | ~1 |
 | Loremaster | 0.80% | ~1 |
@@ -58,12 +60,11 @@
 | Despoiler | 0.80% | ~1 |
 | A Real Battle | 0.80% | ~1 |
 | Celebrity | 0.80% | ~1 |
-| Ruiner | 0.80% | ~1 |
 | Arcanite | 0.80% | ~1 |
 | Wyrmslayer | 0.80% | ~1 |
 | Merchant Lord | 0.80% | ~1 |
 | Glorious leader | 0.80% | ~1 |
-| Voracity Confronted | 0.80% | ~1 |
+| Insectoid Propagator | 0.80% | ~1 |
 | Liberator | 0.00% | ~0 |
 | For the Cause! | 0.00% | ~0 |
 | Death Denied | 0.00% | ~0 |
@@ -102,7 +103,6 @@
 | Defiant | 0.00% | ~0 |
 | Vagrus Supreme | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
-| Insectoid Propagator | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 132 (Ranked 314)  
 Completed: 0 (0.00%) (Ranked 261)  

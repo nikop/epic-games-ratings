@@ -4,8 +4,8 @@
   "ProductSlug": "stray-blade",
   "Ranking_EOS_Progress": 374,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 254,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -334,9 +334,9 @@
       "ID": "ACH_DEFEAT_BOSS_USKOL",
       "SetID": "7i20me3",
       "Name": "Defeat Uskol",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_DEFEAT_ENEMEIS_WITH_FISTS",
@@ -462,9 +462,9 @@
       "ID": "ACH_FIND_ALL_STORY_MURALS",
       "SetID": "7i20me3",
       "Name": "Nothing but the Truth",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_FIND_ALL_STORY_NOTES",
@@ -510,9 +510,9 @@
       "ID": "ACH_FIND_FLUX_BATTERY",
       "SetID": "7i20me3",
       "Name": "Finally!",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_FIND_WOODEN_CLUB",
@@ -653,8 +653,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-08-20T18:08:11.1925697+00:00",
+  "LastChanged_Achievements": "2023-08-20T19:07:46.2414688+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:48.9924953+00:00",
-  "LastUpdate_Ratings": "2023-08-20T18:00:34.6738436+00:00",
-  "LastUpdate_Achievements": "2023-08-20T18:08:11.1926132+00:00"
+  "LastUpdate_Ratings": "2023-08-20T19:00:21.7934616+00:00",
+  "LastUpdate_Achievements": "2023-08-20T19:07:46.2414991+00:00"
 }

@@ -7,12 +7,12 @@ Rating: 3.94 (Ranked 947)
 | ---- | ---------- | ----- |
 | Downed but Not Outed | 74.00% | ~53,355 |
 | First One’s Free | 65.00% | ~46,866 |
-| Neophyte Ninja | 50.00% | ~36,050 |
-| Too Old for This | 48.00% | ~34,608 |
-| Case Closed | 35.00% | ~25,235 |
-| Fancy Pants | 35.00% | ~25,235 |
-| King of the Hill | 34.00% | ~24,514 |
-| Underworld Initiate | 29.00% | ~20,909 |
+| Neophyte Ninja | 50.00% | ~36,051 |
+| Too Old for This | 48.00% | ~34,609 |
+| Case Closed | 35.00% | ~25,236 |
+| Fancy Pants | 35.00% | ~25,236 |
+| King of the Hill | 34.00% | ~24,515 |
+| Underworld Initiate | 29.00% | ~20,910 |
 | Roid Ranger | 21.00% | ~15,141 |
 | Off the Rocks | 20.00% | ~14,420 |
 | True Player | 19.00% | ~13,699 |
@@ -43,8 +43,8 @@ Rating: 3.94 (Ranked 947)
 | Geek Out | 0.60% | ~433 |
 | Full House | 0.20% | ~144 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,101 (Ranked 78)  
-Completed: 41 (0.06%) (Ranked 221)  
+Progressed: 72,102 (Ranked 78)  
+Completed: 41 (0.06%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -165,17 +165,17 @@ Completed: 41 (0.06%) (Ranked 221)
 | 2023-08-17 | 71,955 | 40 |
 | 2023-08-18 | 71,991 | 41 |
 | 2023-08-19 | 72,061 | 41 |
-| 2023-08-20 | 72,101 | 41 |
+| 2023-08-20 | 72,102 | 41 |
 ## Awards
 Max (Diverse Characters): 403  (Ranked 215)  
-Sum: 1,913 (Ranked 203)  
+Sum: 1,914 (Ranked 203)  
 Diff (max vs sum): 12  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 403 |
 | This game has Quickly Understood Controls | 391 |
 | This game is Highly Recommended | 386 |
-| This game has Challenging Combat | 370 |
+| This game has Challenging Combat | 371 |
 | This game has Amazing Characters | 363 |
 | This game is Great for Quick Sessions | 70 |
 | This game has Amazing Storytelling | 52 |
@@ -325,4 +325,4 @@ Diff (max vs sum): 12
 | 2023-08-17 | 3.94 | 403 | 1,904 |
 | 2023-08-18 | 3.94 | 403 | 1,908 |
 | 2023-08-19 | 3.94 | 403 | 1,909 |
-| 2023-08-20 | 3.94 | 403 | 1,913 |
+| 2023-08-20 | 3.94 | 403 | 1,914 |

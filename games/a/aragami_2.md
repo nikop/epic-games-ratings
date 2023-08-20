@@ -6,25 +6,25 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~38,242 |
-| First Steps | 80.00% | ~32,896 |
-| Control the Shadows | 67.00% | ~27,550 |
+| Awakening | 93.00% | ~38,243 |
+| First Steps | 80.00% | ~32,897 |
+| Control the Shadows | 67.00% | ~27,551 |
 | Tools of the Trade | 63.00% | ~25,906 |
-| Apprentice | 60.00% | ~24,672 |
-| Secret Seeker | 57.00% | ~23,438 |
-| Forge of Assassins | 55.00% | ~22,616 |
-| Revenant | 52.00% | ~21,382 |
+| Apprentice | 60.00% | ~24,673 |
+| Secret Seeker | 57.00% | ~23,439 |
+| Forge of Assassins | 55.00% | ~22,617 |
+| Revenant | 52.00% | ~21,383 |
 | I don’t Care! | 45.00% | ~18,504 |
-| Bird of Prey | 37.00% | ~15,214 |
-| Engraved with Power | 32.00% | ~13,158 |
-| Lady | 31.00% | ~12,747 |
-| Fashionable Assassin | 27.00% | ~11,102 |
+| Bird of Prey | 37.00% | ~15,215 |
+| Engraved with Power | 32.00% | ~13,159 |
+| Lady | 31.00% | ~12,748 |
+| Fashionable Assassin | 27.00% | ~11,103 |
 | Apex Predator | 24.00% | ~9,869 |
-| Soul Reaver | 22.00% | ~9,046 |
+| Soul Reaver | 22.00% | ~9,047 |
 | Embers | 21.00% | ~8,635 |
 | Wall Lizard | 20.00% | ~8,224 |
 | Clinging to Life | 18.00% | ~7,402 |
-| Burning | 17.00% | ~6,990 |
+| Burning | 17.00% | ~6,991 |
 | Look Behind You | 16.00% | ~6,579 |
 | Sleeping on the Job | 16.00% | ~6,579 |
 | Family | 14.00% | ~5,757 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Hot Potato | 1.00% | ~411 |
 | Anger Management | 1.00% | ~411 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41,120 (Ranked 92)  
+Progressed: 41,121 (Ranked 92)  
 Completed: 208 (0.51%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,7 +173,7 @@ Completed: 208 (0.51%) (Ranked 145)
 | 2023-08-17 | 40,912 | 207 |
 | 2023-08-18 | 40,980 | 208 |
 | 2023-08-19 | 41,062 | 208 |
-| 2023-08-20 | 41,120 | 208 |
+| 2023-08-20 | 41,121 | 208 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

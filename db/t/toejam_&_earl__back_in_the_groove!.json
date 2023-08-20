@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 248,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2019-03-01T05:00:00+00:00",
@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 56499,
+  "EOS_Progressed": 56500,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7872,6 +7872,11 @@
       "Time": "2023-08-20T18:08:23.175425+00:00",
       "NumProgressed": 56499,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-20T19:07:57.6318338+00:00",
+      "NumProgressed": 56500,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 49,
@@ -7939,7 +7944,7 @@
       "Name": "Map Explorer",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "FallFest",
@@ -8107,7 +8112,7 @@
       "Name": "Nine Funkotronians",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "OldSchool",
@@ -8163,7 +8168,7 @@
       "Name": "I\u0027m A Total Saint",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "SantasBag",
@@ -8187,7 +8192,7 @@
       "Name": "Struck By Love",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "Sunflower",
@@ -8211,7 +8216,7 @@
       "Name": "The Worst Possible Luck",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ThrillSeeker",
@@ -8274,7 +8279,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 56499,
+      "Progressed": 56500,
       "Completed": 5
     }
   ],
@@ -8282,8 +8287,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-03-31T17:59:29.6978698+00:00",
-  "LastChanged_Achievements": "2023-08-20T18:08:23.1754243+00:00",
+  "LastChanged_Achievements": "2023-08-20T19:07:57.6318334+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:28.2137385+00:00",
-  "LastUpdate_Ratings": "2023-08-20T17:58:49.4023236+00:00",
-  "LastUpdate_Achievements": "2023-08-20T18:08:23.1755304+00:00"
+  "LastUpdate_Ratings": "2023-08-20T18:58:41.7575979+00:00",
+  "LastUpdate_Achievements": "2023-08-20T19:07:57.6319007+00:00"
 }

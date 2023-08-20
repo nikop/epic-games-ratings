@@ -4,7 +4,7 @@
   "ProductSlug": "zzt",
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2023-03-31T15:00:00+00:00",
@@ -28,7 +28,7 @@
   "Tags": [],
   "EOS_Progressed": 3092,
   "EOS_Completed": 120,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 3.88,
   "EosHistory": [
@@ -4154,8 +4154,8 @@
   "FirstSeenRating": "2023-03-31T21:57:04.3858764+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6096499+00:00",
   "LastChanged": "2023-03-31T21:57:04.3858765+00:00",
-  "LastChanged_Achievements": "2023-08-20T18:05:08.9843106+00:00",
+  "LastChanged_Achievements": "2023-08-20T19:04:52.1800365+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:23.1655196+00:00",
-  "LastUpdate_Ratings": "2023-08-20T18:01:06.6774695+00:00",
-  "LastUpdate_Achievements": "2023-08-20T18:05:08.9843431+00:00"
+  "LastUpdate_Ratings": "2023-08-20T19:00:55.7529793+00:00",
+  "LastUpdate_Achievements": "2023-08-20T19:04:52.1800596+00:00"
 }

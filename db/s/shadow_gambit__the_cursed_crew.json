@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 361,
+  "EOS_Progressed": 364,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 341,
+  "EOS_NewPlayers": 343,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -576,6 +576,11 @@
       "Time": "2023-08-20T18:04:14.8600218+00:00",
       "NumProgressed": 361,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-20T19:03:49.1687055+00:00",
+      "NumProgressed": 364,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -594,9 +599,9 @@
       "ID": "_02_FinishFirstMission",
       "SetID": "8a1io5d",
       "Name": "A New Journey",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 256
+      "UsersEstimate": 262
     },
     {
       "ID": "_03_FinishAct1",
@@ -604,15 +609,15 @@
       "Name": "The Adventure Begins",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 162
+      "UsersEstimate": 164
     },
     {
       "ID": "_04_CollectAllRelics",
       "SetID": "8a1io5d",
       "Name": "This Belongs in a Museum",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 66
     },
     {
       "ID": "_05_FinishAct2",
@@ -644,7 +649,7 @@
       "Name": "Swabbie",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "_09_Completion_20",
@@ -660,15 +665,15 @@
       "Name": "Buccaneer",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "_11_Completion_40",
       "SetID": "8a1io5d",
       "Name": "Seadog",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 11
     },
     {
       "ID": "_12_Completion_50",
@@ -708,15 +713,15 @@
       "Name": "Pirates Assemble!",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
       "SetID": "8a1io5d",
       "Name": "With Great Power\u2026",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 87
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -795,14 +800,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 361,
+      "Progressed": 364,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-20T18:04:14.8600207+00:00",
+  "LastChanged_Achievements": "2023-08-20T19:03:49.168705+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:01.7621403+00:00",
-  "LastUpdate_Ratings": "2023-08-20T18:00:44.1409175+00:00",
-  "LastUpdate_Achievements": "2023-08-20T18:04:14.860095+00:00"
+  "LastUpdate_Ratings": "2023-08-20T19:00:31.4371385+00:00",
+  "LastUpdate_Achievements": "2023-08-20T19:03:49.1687233+00:00"
 }

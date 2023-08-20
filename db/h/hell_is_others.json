@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -844,9 +844,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 255151,
+  "EOS_Progressed": 255154,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 355,
+  "EOS_NewPlayers": 356,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13339,6 +13339,11 @@
       "Time": "2023-08-20T18:03:19.9829522+00:00",
       "NumProgressed": 255151,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-20T19:03:06.0727458+00:00",
+      "NumProgressed": 255154,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -13398,7 +13403,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 79097
+      "UsersEstimate": 79098
     },
     {
       "ID": "BackHomeNTimes",
@@ -13638,7 +13643,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 56133
+      "UsersEstimate": 56134
     },
     {
       "ID": "KillOthers2",
@@ -13797,7 +13802,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 255151,
+      "Progressed": 255154,
       "Completed": 3
     }
   ],
@@ -13805,8 +13810,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-08-18T09:58:04.7558183+00:00",
-  "LastChanged_Achievements": "2023-08-20T18:03:19.9829516+00:00",
+  "LastChanged_Achievements": "2023-08-20T19:03:06.0727453+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:02.1454533+00:00",
-  "LastUpdate_Ratings": "2023-08-20T17:58:13.9457864+00:00",
-  "LastUpdate_Achievements": "2023-08-20T18:03:19.9830752+00:00"
+  "LastUpdate_Ratings": "2023-08-20T18:58:08.2591545+00:00",
+  "LastUpdate_Achievements": "2023-08-20T19:03:06.0728422+00:00"
 }

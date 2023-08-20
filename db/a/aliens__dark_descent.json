@@ -6,9 +6,9 @@
   "Ranking_Popularity": 473,
   "Ranking_PopularitySum": 483,
   "Ranking_EOS_Progress": 155,
-  "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_Completed": 213,
+  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -288,11 +288,11 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 3176,
-  "EOS_Completed": 2,
-  "EOS_NewPlayers": 27,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.06,
+  "EOS_Progressed": 3177,
+  "EOS_Completed": 3,
+  "EOS_NewPlayers": 28,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
     {
       "Time": "2023-06-20T08:06:48.4211242+00:00",
@@ -3858,6 +3858,11 @@
       "Time": "2023-08-20T14:06:02.4343179+00:00",
       "NumProgressed": 3176,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-20T19:05:35.0092447+00:00",
+      "NumProgressed": 3177,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -3885,7 +3890,7 @@
       "Name": "One For Every Occasion",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "ACH_ALL_XENO_TECHS",
@@ -3901,7 +3906,7 @@
       "Name": "Use The Bumper, That\u0027s What It\u0027s For",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 1683
+      "UsersEstimate": 1684
     },
     {
       "ID": "ACH_BARREL_KILL",
@@ -3965,7 +3970,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 2350
+      "UsersEstimate": 2351
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -3973,7 +3978,7 @@
       "Name": "Regicide",
       "Percentage": 15,
       "XP": 90,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "ACH_KILL_UNDETECTED",
@@ -3981,7 +3986,7 @@
       "Name": "Call Me Snake",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 2001
+      "UsersEstimate": 2002
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -3989,7 +3994,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 2128
+      "UsersEstimate": 2129
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -4021,7 +4026,7 @@
       "Name": "El Riesgo Siempre Vive",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 730
+      "UsersEstimate": 731
     },
     {
       "ID": "ACH_MAX_MEDIC",
@@ -4037,7 +4042,7 @@
       "Name": "Frontliner",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "ACH_MAX_SERGEANT",
@@ -4053,7 +4058,7 @@
       "Name": "The Cable Guy",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "ACH_MISSION_01",
@@ -4061,7 +4066,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 1937
+      "UsersEstimate": 1938
     },
     {
       "ID": "ACH_MISSION_02",
@@ -4077,7 +4082,7 @@
       "Name": "Harper\u0027s Hell",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1429
+      "UsersEstimate": 1430
     },
     {
       "ID": "ACH_MISSION_04",
@@ -4101,7 +4106,7 @@
       "Name": "Living Nightmare",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 1016
+      "UsersEstimate": 1017
     },
     {
       "ID": "ACH_MISSION_07",
@@ -4165,7 +4170,7 @@
       "Name": "Snatched Out",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 2382
+      "UsersEstimate": 2383
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -4173,7 +4178,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 2604
+      "UsersEstimate": 2605
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -4228,16 +4233,16 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3176,
-      "Completed": 2
+      "Progressed": 3177,
+      "Completed": 3
     }
   ],
   "FirstSeen": "2023-06-20T02:04:43.7723421+00:00",
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-08-18T05:57:00.7172404+00:00",
-  "LastChanged_Achievements": "2023-08-20T18:05:54.0927933+00:00",
+  "LastChanged_Achievements": "2023-08-20T19:05:35.0092443+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:11.1811549+00:00",
-  "LastUpdate_Ratings": "2023-08-20T17:57:17.2407495+00:00",
-  "LastUpdate_Achievements": "2023-08-20T18:05:54.0928584+00:00"
+  "LastUpdate_Ratings": "2023-08-20T18:57:18.0943146+00:00",
+  "LastUpdate_Achievements": "2023-08-20T19:05:35.0092908+00:00"
 }

@@ -22,7 +22,9 @@
 | Lore and Background Story | 24.00% | ~5 |
 | Ulric's Painting Acquired | 19.00% | ~4 |
 | Save Arsen | 19.00% | ~4 |
+| Nikolay's Nonsense | 19.00% | ~4 |
 | You Abandoned God | 19.00% | ~4 |
+| Forgive Ida | 14.00% | ~3 |
 | Kabeer is Dead | 14.00% | ~3 |
 | You Ended the Bloodline Curse! | 14.00% | ~3 |
 | Become the Hero of Sveti Kotar | 14.00% | ~3 |
@@ -31,9 +33,7 @@
 | Infuriate Elizabeta | 14.00% | ~3 |
 | Goldin's Fate | 14.00% | ~3 |
 | Warden's Monstrosities | 14.00% | ~3 |
-| Nikolay's Nonsense | 14.00% | ~3 |
 | Leave the Town | 10.00% | ~2 |
-| Forgive Ida | 10.00% | ~2 |
 | Davor Was Deported | 10.00% | ~2 |
 | Gregor Was Punished | 10.00% | ~2 |
 | Silenced the Voices | 10.00% | ~2 |

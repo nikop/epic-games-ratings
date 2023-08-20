@@ -24,6 +24,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Terror in the Dark | 0.20% | ~447 |
 | A Mysterious Summons | 0.20% | ~447 |
 | Unearthed Evil | 0.20% | ~447 |
+| The Dinner Party | 0.20% | ~447 |
 | The Crumbling Temple | 0.20% | ~447 |
 | Seeking Allies | 0.20% | ~447 |
 | Are Ya Chicken? | 0.20% | ~447 |
@@ -198,7 +199,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Haunted Fortunes | 0.10% | ~224 |
 | Poor Fortune | 0.10% | ~224 |
 | Relentless Misfortune | 0.10% | ~224 |
-| The Dinner Party | 0.10% | ~224 |
 | Chatty Nobles | 0.10% | ~224 |
 | Modron Assistance | 0.10% | ~224 |
 | Thine Bounty is Mine! | 0.10% | ~190 |
@@ -523,8 +523,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~190 |
 | Animated Giff | 0.10% | ~190 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 223,658 (Ranked 53)  
-Completed: 2,193 (0.98%) (Ranked 120)  
+Progressed: 223,671 (Ranked 53)  
+Completed: 2,194 (0.98%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -645,7 +645,7 @@ Completed: 2,193 (0.98%) (Ranked 120)
 | 2023-08-17 | 222,852 | 2,189 |
 | 2023-08-18 | 223,142 | 2,190 |
 | 2023-08-19 | 223,443 | 2,193 |
-| 2023-08-20 | 223,658 | 2,193 |
+| 2023-08-20 | 223,671 | 2,194 |
 ## Awards
 Max (Diverse Characters): 5,173  (Ranked 68)  
 Sum: 31,146 (Ranked 38)  

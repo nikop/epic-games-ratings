@@ -4,8 +4,8 @@
   "ProductSlug": "silence-57bc4e",
   "Ranking_EOS_Progress": 323,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 254,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2016-11-15T17:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 108,
+  "EOS_Progressed": 109,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -132,6 +132,11 @@
       "Time": "2023-08-16T05:06:39.8048572+00:00",
       "NumProgressed": 108,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-20T19:07:21.9627593+00:00",
+      "NumProgressed": 109,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 46,
@@ -143,15 +148,15 @@
       "Name": "Artistic master",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "0000_achv_failbalance",
       "SetID": "dhn82m5",
       "Name": "Artistic fool",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "0000_achv_fallspot",
@@ -183,7 +188,7 @@
       "Name": "Let the boot talk",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "0000_achv_noskip",
@@ -207,7 +212,7 @@
       "Name": "Sadist",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "0000_achv_skip_puzzle",
@@ -263,7 +268,7 @@
       "Name": "Fartjokes!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "1004_achv_wormtooth",
@@ -271,7 +276,7 @@
       "Name": "Open up wide",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "1006_achv_chapter1",
@@ -325,7 +330,7 @@
       "ID": "2002_achv_burnswamp",
       "SetID": "dhn82m5",
       "Name": "I didn\u0027t do it!",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 10,
       "UsersEstimate": 43
     },
@@ -359,13 +364,13 @@
       "Name": "The hands of a healer",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "2005n_achv_chapter2",
       "SetID": "dhn82m5",
       "Name": "Chapter II",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 20,
       "UsersEstimate": 32
     },
@@ -439,7 +444,7 @@
       "Name": "Achoo!!",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "3005_achv_getting_rich",
@@ -510,7 +515,7 @@
     {
       "ID": "dhn82m5",
       "IsBase": true,
-      "Progressed": 108,
+      "Progressed": 109,
       "Completed": 0
     }
   ],
@@ -518,8 +523,8 @@
   "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.5644296+00:00",
   "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
-  "LastChanged_Achievements": "2023-08-20T18:07:46.7680125+00:00",
+  "LastChanged_Achievements": "2023-08-20T19:07:21.9627584+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:12.9045227+00:00",
-  "LastUpdate_Ratings": "2023-08-20T17:57:18.8288785+00:00",
-  "LastUpdate_Achievements": "2023-08-20T18:07:46.7680539+00:00"
+  "LastUpdate_Ratings": "2023-08-20T18:57:19.5690067+00:00",
+  "LastUpdate_Achievements": "2023-08-20T19:07:21.9627901+00:00"
 }

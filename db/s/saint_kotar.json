@@ -4,8 +4,8 @@
   "ProductSlug": "saint-kotar-7f0c47",
   "Ranking_EOS_Progress": 410,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 360,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 362,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2021-10-28T11:00:00+00:00",
     "PcReleaseDate": "2021-10-28T11:00:00+00:00",
@@ -148,9 +148,9 @@
       "ID": "denouncement_declined_Ida",
       "SetID": "4akddl8",
       "Name": "Forgive Ida",
-      "Percentage": 10,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "denouncement_successful_Davor",
@@ -364,9 +364,9 @@
       "ID": "made_Nikolay_say_all_his_nonsense",
       "SetID": "4akddl8",
       "Name": "Nikolay\u0027s Nonsense",
-      "Percentage": 14,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "map_enabled_for_Benedek",
@@ -429,8 +429,8 @@
   "FirstSeenRating": "2023-03-31T05:58:43.0246209+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.7285802+00:00",
   "LastChanged": "2023-03-31T05:58:43.024621+00:00",
-  "LastChanged_Achievements": "2023-08-20T18:05:33.4110363+00:00",
+  "LastChanged_Achievements": "2023-08-20T19:05:15.1966445+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:35.2595879+00:00",
-  "LastUpdate_Ratings": "2023-08-20T17:58:57.5762914+00:00",
-  "LastUpdate_Achievements": "2023-08-20T18:05:33.4110734+00:00"
+  "LastUpdate_Ratings": "2023-08-20T18:58:48.2239386+00:00",
+  "LastUpdate_Achievements": "2023-08-20T19:05:15.1966721+00:00"
 }

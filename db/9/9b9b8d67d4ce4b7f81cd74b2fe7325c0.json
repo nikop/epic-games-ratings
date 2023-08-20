@@ -4,8 +4,8 @@
   "ProductSlug": "dark-fantasy-2-jigsaw-puzzle-d65d41",
   "Ranking_EOS_Progress": 366,
   "Ranking_EOS_Completed": 8,
-  "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 25,
+  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2023-08-11T03:00:00+00:00",
     "PcReleaseDate": "2019-05-17T02:00:00+00:00",
@@ -23,8 +23,8 @@
   "Tags": [],
   "EOS_Progressed": 53,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 22,
-  "EOS_NewCompleters": 6,
+  "EOS_NewPlayers": 21,
+  "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 24.53,
   "EosHistory": [
     {
@@ -495,8 +495,8 @@
   ],
   "FirstSeen": "2023-08-14T14:57:42.6237278+00:00",
   "FirstSeenAchievements": "2023-07-26T08:01:59.9805604+00:00",
-  "LastChanged_Achievements": "2023-08-20T18:05:54.5380581+00:00",
+  "LastChanged_Achievements": "2023-08-20T19:05:35.4872471+00:00",
   "LastUpdate_AppInfo": "2023-08-16T09:57:11.3711345+00:00",
-  "LastUpdate_Ratings": "2023-08-20T17:58:54.0641853+00:00",
-  "LastUpdate_Achievements": "2023-08-20T18:05:54.5380806+00:00"
+  "LastUpdate_Ratings": "2023-08-20T18:58:44.9056765+00:00",
+  "LastUpdate_Achievements": "2023-08-20T19:05:35.4872634+00:00"
 }

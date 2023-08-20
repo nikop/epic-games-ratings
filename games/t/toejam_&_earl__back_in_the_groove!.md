@@ -33,11 +33,11 @@ Rating: 4.32 (Ranked 778)
 | Ridiculously Generous | 0.40% | ~226 |
 | Harsh Love | 0.40% | ~226 |
 | Made It Through | 0.40% | ~226 |
-| Map Explorer | 0.30% | ~169 |
-| Nine Funkotronians | 0.30% | ~169 |
-| I'm A Total Saint | 0.30% | ~169 |
-| Struck By Love | 0.30% | ~169 |
-| The Worst Possible Luck | 0.30% | ~169 |
+| Map Explorer | 0.30% | ~170 |
+| Nine Funkotronians | 0.30% | ~170 |
+| I'm A Total Saint | 0.30% | ~170 |
+| Struck By Love | 0.30% | ~170 |
+| The Worst Possible Luck | 0.30% | ~170 |
 | Broken Present Risk Taker | 0.20% | ~113 |
 | Truly Evil | 0.20% | ~113 |
 | Achievement Achiever | 0.10% | ~56 |
@@ -55,7 +55,7 @@ Rating: 4.32 (Ranked 778)
 | Why Do I Keep Doing That? | 0.10% | ~56 |
 | Hey, You Did It! | 0.10% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,499 (Ranked 87)  
+Progressed: 56,500 (Ranked 87)  
 Completed: 5 (0.01%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,7 +177,7 @@ Completed: 5 (0.01%) (Ranked 248)
 | 2023-08-17 | 56,451 | 5 |
 | 2023-08-18 | 56,462 | 5 |
 | 2023-08-19 | 56,483 | 5 |
-| 2023-08-20 | 56,499 | 5 |
+| 2023-08-20 | 56,500 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
