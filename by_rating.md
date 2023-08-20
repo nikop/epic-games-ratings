@@ -422,7 +422,7 @@
 | 414 | [Operation: Tango](games/o/operation__tango.md) | 4.59 | 0 | 513 |
 | 414 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 75 | 370 |
 | 414 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 317 | 234 |
-| 414 | [Torchlight II](games/t/torchlight_ii.md) | 4.59 | 1,008 | 145 |
+| 414 | [Torchlight II](games/t/torchlight_ii.md) | 4.59 | 1,010 | 144 |
 | 414 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.59 | 0 | 513 |
 | 414 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 709 | 168 |
 | 414 | [Wall World](games/w/wall_world.md) | 4.59 | 0 | 513 |
@@ -502,7 +502,7 @@
 | 488 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,239 | 134 |
 | 501 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 5,702 | 63 |
 | 501 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 34 | 441 |
-| 501 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,290 | 131 |
+| 501 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,292 | 130 |
 | 501 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 4.54 | 0 | 513 |
 | 501 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.54 | 72 | 377 |
 | 501 | [Oxenfree](games/o/oxenfree.md) | 4.54 | 0 | 513 |

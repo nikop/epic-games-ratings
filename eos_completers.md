@@ -66,8 +66,8 @@
 | 64 | [Without Escape](games/w/without_escape.md) | 3.57% |
 | 65 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 66 | [Doodle God](games/d/doodle_god.md) | 3.43% |
-| 67 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.41% |
-| 68 | [Bunny Park](games/b/bunny_park.md) | 3.37% |
+| 67 | [Bunny Park](games/b/bunny_park.md) | 3.37% |
+| 68 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.36% |
 | 69 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.30% |
 | 70 | [The Complex](games/t/the_complex.md) | 3.17% |
 | 71 | [HordeCore](games/h/hordecore.md) | 3.15% |
@@ -124,7 +124,7 @@
 | 122 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.96% |
 | 123 | [Hades](games/h/hades.md) | 0.90% |
 | 124 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
-| 125 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
+| 125 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
 | 126 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.80% |
 | 127 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.75% |
 | 128 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.74% |
@@ -146,8 +146,8 @@
 | 143 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
 | 145 | [Aragami 2](games/a/aragami_2.md) | 0.51% |
 | 145 | [The Surge 2](games/t/the_surge_2.md) | 0.51% |
-| 147 | [Godlike Burger](games/g/godlike_burger.md) | 0.49% |
-| 147 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.49% |
+| 147 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.50% |
+| 148 | [Godlike Burger](games/g/godlike_burger.md) | 0.49% |
 | 149 | [Them and Us](games/t/them_and_us.md) | 0.48% |
 | 150 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
 | 151 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.46% |
@@ -175,12 +175,12 @@
 | 173 | [Against the Storm](games/a/against_the_storm.md) | 0.28% |
 | 173 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
 | 173 | [Scrapnaut](games/s/scrapnaut.md) | 0.28% |
-| 176 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.26% |
-| 177 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
-| 178 | [Blanc](games/b/blanc.md) | 0.24% |
-| 178 | [Despot's Game](games/d/despot's_game.md) | 0.24% |
-| 178 | [Filament](games/f/filament.md) | 0.24% |
-| 178 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.24% |
+| 173 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.28% |
+| 177 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.26% |
+| 178 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
+| 179 | [Blanc](games/b/blanc.md) | 0.24% |
+| 179 | [Despot's Game](games/d/despot's_game.md) | 0.24% |
+| 179 | [Filament](games/f/filament.md) | 0.24% |
 | 182 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.23% |
 | 183 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
 | 183 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.22% |
