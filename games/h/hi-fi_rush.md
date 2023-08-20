@@ -44,7 +44,7 @@ Rating: 4.88 (Ranked 19)
 | I told you I'd be fine, Peppermint! | 1.00% | ~40 |
 | Check out my moves! | 1.00% | ~40 |
 | Call me Turbo Chai | 1.00% | ~25 |
-| First we parry, then we counter | 0.80% | ~32 |
+| First we parry, then we counter | 0.90% | ~36 |
 | This is a breeze! | 0.70% | ~28 |
 | I'm not done with you yet | 0.70% | ~28 |
 | New bad guys? No problem! | 0.60% | ~15 |

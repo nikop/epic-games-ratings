@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 193,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -6430,18 +6430,24 @@
       "Rating": 4.77,
       "NumberOfAwards": 41241,
       "NumberOfAwardsMax": 21818
+    },
+    {
+      "Time": "2023-08-20T04:59:36.4520751+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 41272,
+      "NumberOfAwardsMax": 21849
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 41241,
-  "NumberOfAwardsMax": 21818,
+  "NumberOfAwards": 41272,
+  "NumberOfAwardsMax": 21849,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 21818
+      "Count": 21849
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -6510,9 +6516,9 @@
       "Count": 596
     }
   ],
-  "EOS_Progressed": 290454,
+  "EOS_Progressed": 290457,
   "EOS_Completed": 453,
-  "EOS_NewPlayers": 490,
+  "EOS_NewPlayers": 489,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -19620,6 +19626,11 @@
       "Time": "2023-08-20T04:07:13.5674241+00:00",
       "NumProgressed": 290454,
       "NumCompleted": 453
+    },
+    {
+      "Time": "2023-08-20T05:07:09.430966+00:00",
+      "NumProgressed": 290457,
+      "NumCompleted": 453
     }
   ],
   "TotalAchievements": 45,
@@ -19751,7 +19762,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 29045
+      "UsersEstimate": 29046
     },
     {
       "ID": "PFA_24",
@@ -19855,7 +19866,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 23236
+      "UsersEstimate": 23237
     },
     {
       "ID": "PFA_36",
@@ -19935,7 +19946,7 @@
       "Name": "The Spell Master",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23236
+      "UsersEstimate": 23237
     },
     {
       "ID": "PFA_45",
@@ -19975,7 +19986,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 29045
+      "UsersEstimate": 29046
     },
     {
       "ID": "PFA_9",
@@ -19983,23 +19994,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23236
+      "UsersEstimate": 23237
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 290454,
+      "Progressed": 290457,
       "Completed": 453
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-08-20T03:59:31.1378079+00:00",
-  "LastChanged_Achievements": "2023-08-20T04:07:13.5674235+00:00",
+  "LastChanged": "2023-08-20T04:59:36.4520749+00:00",
+  "LastChanged_Achievements": "2023-08-20T05:07:09.4309653+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:55.8476503+00:00",
-  "LastUpdate_Ratings": "2023-08-20T03:59:31.1378088+00:00",
-  "LastUpdate_Achievements": "2023-08-20T04:07:13.5676359+00:00"
+  "LastUpdate_Ratings": "2023-08-20T04:59:36.4520754+00:00",
+  "LastUpdate_Achievements": "2023-08-20T05:07:09.4310611+00:00"
 }

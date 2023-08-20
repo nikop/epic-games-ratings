@@ -8,8 +8,8 @@ Rating: 4.77 (Ranked 109)
 | The Sort Who Makes an Entrance | 13.00% | ~37,759 |
 | First Class Student | 11.00% | ~31,950 |
 | Troll with the Punches | 11.00% | ~31,950 |
-| A Keen Sense of Spell | 10.00% | ~29,045 |
-| That's a Keeper | 10.00% | ~29,045 |
+| A Keen Sense of Spell | 10.00% | ~29,046 |
+| That's a Keeper | 10.00% | ~29,046 |
 | Grappling with a Graphorn | 9.00% | ~26,141 |
 | The One Who Mastered Memories | 9.00% | ~26,141 |
 | The Hallowed Hero | 9.00% | ~26,141 |
@@ -19,9 +19,9 @@ Rating: 4.77 (Ranked 109)
 | Loom for Improvement | 9.00% | ~26,141 |
 | A Talent for Spending | 9.00% | ~26,141 |
 | Coasting Along | 9.00% | ~26,141 |
-| Followed the Butterflies | 8.00% | ~23,236 |
-| The Spell Master | 8.00% | ~23,236 |
-| Rising From the Ashes | 8.00% | ~23,236 |
+| Followed the Butterflies | 8.00% | ~23,237 |
+| The Spell Master | 8.00% | ~23,237 |
+| Rising From the Ashes | 8.00% | ~23,237 |
 | The Avenging Gazelle | 7.00% | ~20,332 |
 | Beast Friends | 7.00% | ~20,332 |
 | A Sallow Grave | 7.00% | ~20,332 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,743 |
 | Collector's Edition | 0.30% | ~871 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290,454 (Ranked 43)  
+Progressed: 290,457 (Ranked 43)  
 Completed: 453 (0.16%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,14 +173,14 @@ Completed: 453 (0.16%) (Ranked 193)
 | 2023-08-17 | 290,286 | 452 |
 | 2023-08-18 | 290,355 | 452 |
 | 2023-08-19 | 290,439 | 453 |
-| 2023-08-20 | 290,454 | 453 |
+| 2023-08-20 | 290,457 | 453 |
 ## Awards
-Max (Character Customization): 21,818  (Ranked 17)  
-Sum: 41,241 (Ranked 30)  
+Max (Character Customization): 21,849  (Ranked 17)  
+Sum: 41,272 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 21,818 |
+| This game has Inclusive Character Customization | 21,849 |
 | This game has Great Boss Battles | 10,583 |
 | This game is Great for Beginners | 977 |
 | This game is Relaxing | 961 |
@@ -344,4 +344,4 @@ Diff (max vs sum): -13
 | 2023-08-17 | 4.77 | 21,780 | 41,138 |
 | 2023-08-18 | 4.77 | 21,799 | 41,179 |
 | 2023-08-19 | 4.77 | 21,818 | 41,239 |
-| 2023-08-20 | 4.77 | 21,818 | 41,241 |
+| 2023-08-20 | 4.77 | 21,849 | 41,272 |

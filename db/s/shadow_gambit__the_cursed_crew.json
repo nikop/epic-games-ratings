@@ -2,7 +2,7 @@
   "ID": "42b8b899a3f349bd8376264ccee3cd2a",
   "Name": "Shadow Gambit: The Cursed Crew",
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
-  "Ranking_EOS_Progress": 260,
+  "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 94,
   "Ranking_EOS_NewCompleters": 98,
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 312,
+  "EOS_Progressed": 316,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 294,
+  "EOS_NewPlayers": 298,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -506,6 +506,11 @@
       "Time": "2023-08-20T04:04:08.2502768+00:00",
       "NumProgressed": 312,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-20T05:03:40.4858307+00:00",
+      "NumProgressed": 316,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -518,7 +523,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -526,7 +531,7 @@
       "Name": "A New Journey",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 222
+      "UsersEstimate": 224
     },
     {
       "ID": "_03_FinishAct1",
@@ -534,31 +539,31 @@
       "Name": "The Adventure Begins",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 139
     },
     {
       "ID": "_04_CollectAllRelics",
       "SetID": "8a1io5d",
       "Name": "This Belongs in a Museum",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 44
     },
     {
       "ID": "_05_FinishAct2",
       "SetID": "8a1io5d",
       "Name": "The Gambit Has Begun",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 25
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
       "SetID": "8a1io5d",
       "Name": "Mirror Mirror on the Wall",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 9
     },
     {
       "ID": "_07_FinishAct3",
@@ -574,7 +579,7 @@
       "Name": "Swabbie",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "_09_Completion_20",
@@ -636,9 +641,9 @@
       "ID": "_16_UnlockCore8Characters",
       "SetID": "8a1io5d",
       "Name": "Pirates Assemble!",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -646,7 +651,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -692,7 +697,7 @@
       "ID": "_23_CrewTale_CNN",
       "SetID": "8a1io5d",
       "Name": "Lyrical Longing",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -708,7 +713,7 @@
       "ID": "_25_CrewTale_GCW",
       "SetID": "8a1io5d",
       "Name": "Rustic Recipe",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -725,14 +730,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 312,
+      "Progressed": 316,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-20T04:04:08.250276+00:00",
+  "LastChanged_Achievements": "2023-08-20T05:03:40.4858303+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:01.7621403+00:00",
-  "LastUpdate_Ratings": "2023-08-20T04:00:13.1194979+00:00",
-  "LastUpdate_Achievements": "2023-08-20T04:04:08.2503011+00:00"
+  "LastUpdate_Ratings": "2023-08-20T05:00:16.0955911+00:00",
+  "LastUpdate_Achievements": "2023-08-20T05:03:40.4858499+00:00"
 }

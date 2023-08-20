@@ -4,7 +4,7 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 991,
+  "EOS_Progressed": 993,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3466,6 +3466,11 @@
       "Time": "2023-08-20T01:43:19.8308587+00:00",
       "NumProgressed": 991,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-20T05:03:10.5272948+00:00",
+      "NumProgressed": 993,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -3485,7 +3490,7 @@
       "Name": "Exterminator",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "ach_defeat_players_10",
@@ -3541,7 +3546,7 @@
       "Name": "Silver Competitor",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "ach_silver_rewards_50",
@@ -3589,7 +3594,7 @@
       "Name": "Corporal",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -3613,7 +3618,7 @@
       "Name": "Captain",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -3653,7 +3658,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -3725,15 +3730,15 @@
       "Name": "Factory Expansion",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "objective_multiple_turrets_2",
       "SetID": "bm61c2p",
       "Name": "Defenses Online",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 287
+      "UsersEstimate": 278
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -3780,14 +3785,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 991,
+      "Progressed": 993,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-20T04:03:29.18738+00:00",
+  "LastChanged_Achievements": "2023-08-20T05:03:10.5272944+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:20.8459338+00:00",
-  "LastUpdate_Ratings": "2023-08-20T03:58:22.2553678+00:00",
-  "LastUpdate_Achievements": "2023-08-20T04:03:29.1874713+00:00"
+  "LastUpdate_Ratings": "2023-08-20T04:58:25.2052646+00:00",
+  "LastUpdate_Achievements": "2023-08-20T05:03:10.5273331+00:00"
 }

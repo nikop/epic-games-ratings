@@ -4,7 +4,7 @@
   "ProductSlug": "bunny-park-835c4c",
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 67,
-  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewPlayers": 311,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-09-30T00:00:00+00:00",
@@ -246,9 +246,9 @@
       "ID": "BP-11",
       "SetID": "7fc93f2",
       "Name": "Tropical Summer",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 15
+      "UsersEstimate": 18
     },
     {
       "ID": "BP-12",
@@ -278,9 +278,9 @@
       "ID": "BP-15",
       "SetID": "7fc93f2",
       "Name": "Helpful Bot-terfly",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 134
+      "UsersEstimate": 137
     },
     {
       "ID": "BP-16",
@@ -319,8 +319,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5432443+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.424044+00:00",
   "LastChanged": "2023-03-31T05:58:48.5432443+00:00",
-  "LastChanged_Achievements": "2023-08-20T04:06:56.218057+00:00",
+  "LastChanged_Achievements": "2023-08-20T05:06:50.3003185+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:14.3957453+00:00",
-  "LastUpdate_Ratings": "2023-08-20T04:00:24.6985639+00:00",
-  "LastUpdate_Achievements": "2023-08-20T04:06:56.2180729+00:00"
+  "LastUpdate_Ratings": "2023-08-20T05:00:27.7548018+00:00",
+  "LastUpdate_Achievements": "2023-08-20T05:06:50.3003296+00:00"
 }

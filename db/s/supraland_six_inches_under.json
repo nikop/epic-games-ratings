@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 416,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 20,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2022-06-15T09:00:00+00:00",
@@ -1680,9 +1680,9 @@
       "ID": "BossBeaten",
       "SetID": "5lok9mm",
       "Name": "Inner Peace",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 50,
-      "UsersEstimate": 1699
+      "UsersEstimate": 1721
     },
     {
       "ID": "Detector",
@@ -2040,8 +2040,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-07-21T20:00:23.2474099+00:00",
-  "LastChanged_Achievements": "2023-08-20T04:05:14.5300369+00:00",
+  "LastChanged_Achievements": "2023-08-20T05:05:02.5695001+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:51.4184193+00:00",
-  "LastUpdate_Ratings": "2023-08-20T03:57:42.1508955+00:00",
-  "LastUpdate_Achievements": "2023-08-20T04:05:14.5300962+00:00"
+  "LastUpdate_Ratings": "2023-08-20T04:57:43.1057146+00:00",
+  "LastUpdate_Achievements": "2023-08-20T05:05:02.569543+00:00"
 }

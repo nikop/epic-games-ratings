@@ -13,11 +13,11 @@ Number of Ratings: 12,664  (23.09.2022)
 | Disintermediation | 0.90% | ~1,213 |
 | Capitalism Ho! | 0.90% | ~1,213 |
 | It's Free Real Estate | 0.80% | ~1,078 |
+| Some Assembly Required | 0.70% | ~944 |
 | Another Satisfied Customer | 0.70% | ~944 |
 | Budding Merchant | 0.70% | ~944 |
 | Own the Means of Production | 0.70% | ~944 |
 | One Easy Payment | 0.60% | ~809 |
-| Some Assembly Required | 0.60% | ~809 |
 | Pretty Penny | 0.60% | ~809 |
 | The Daily Grind | 0.50% | ~674 |
 | Bounty Hunters | 0.50% | ~674 |
@@ -30,6 +30,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Blank Page Syndrome | 0.40% | ~539 |
 | Demand for Supplies | 0.40% | ~539 |
 | Where it Hurts | 0.40% | ~539 |
+| Efficient Floor Space | 0.40% | ~539 |
 | Gem Expert | 0.40% | ~539 |
 | Gild-Gotten Goods | 0.40% | ~539 |
 | Accomplished Merchant | 0.40% | ~539 |
@@ -49,7 +50,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Hidden Potential | 0.30% | ~404 |
 | Power of Love | 0.30% | ~404 |
 | Expansion in Session | 0.30% | ~404 |
-| Efficient Floor Space | 0.30% | ~404 |
 | Flawless Fusion | 0.30% | ~404 |
 | Trash to Treasure | 0.30% | ~404 |
 | Royal Ransom | 0.30% | ~404 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.10% | ~135 |
 | All Accounted For | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,801 (Ranked 66)  
+Progressed: 134,804 (Ranked 66)  
 Completed: 133 (0.10%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,7 +241,7 @@ Completed: 133 (0.10%) (Ranked 208)
 | 2023-08-17 | 134,688 | 133 |
 | 2023-08-18 | 134,736 | 133 |
 | 2023-08-19 | 134,791 | 133 |
-| 2023-08-20 | 134,801 | 133 |
+| 2023-08-20 | 134,804 | 133 |
 ## Awards
 Max (Great for Beginners): 4,705  (Ranked 71)  
 Sum: 27,114 (Ranked 47)  

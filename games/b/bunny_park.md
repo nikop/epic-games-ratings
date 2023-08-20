@@ -8,7 +8,7 @@
 | Debris Finder | 84.00% | ~249 |
 | Debris Gatherer | 60.00% | ~178 |
 | Beginner Decorator | 49.00% | ~146 |
-| Helpful Bot-terfly | 45.00% | ~134 |
+| Helpful Bot-terfly | 46.00% | ~137 |
 | Cozy Autumn | 38.00% | ~113 |
 | Bunny Party | 35.00% | ~104 |
 | Stylish Decorator | 31.00% | ~92 |
@@ -20,8 +20,8 @@
 | Spring Blossom | 8.00% | ~24 |
 | Pom Pom | 8.00% | ~24 |
 | Bunny Fluffle | 7.00% | ~21 |
+| Tropical Summer | 6.00% | ~18 |
 | Quack quack | 6.00% | ~18 |
-| Tropical Summer | 5.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 297 (Ranked 263)  
 Completed: 10 (3.37%) (Ranked 67)  

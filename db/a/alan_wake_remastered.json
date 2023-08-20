@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 61160,
+  "EOS_Progressed": 61161,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 392,
+  "EOS_NewPlayers": 393,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11792,6 +11792,11 @@
       "Time": "2023-08-20T04:06:46.8804756+00:00",
       "NumProgressed": 61160,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-20T05:06:40.443963+00:00",
+      "NumProgressed": 61161,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -11803,7 +11808,7 @@
       "Name": "Follow the Light",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 22629
+      "UsersEstimate": 22630
     },
     {
       "ID": "02",
@@ -12027,7 +12032,7 @@
       "Name": "Sound and Fury",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 8562
+      "UsersEstimate": 8563
     },
     {
       "ID": "30",
@@ -12051,7 +12056,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 17736
+      "UsersEstimate": 17737
     },
     {
       "ID": "33",
@@ -12059,7 +12064,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 8562
+      "UsersEstimate": 8563
     },
     {
       "ID": "34",
@@ -12163,7 +12168,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 8562
+      "UsersEstimate": 8563
     },
     {
       "ID": "47",
@@ -12338,21 +12343,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 61160,
+      "Progressed": 61161,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 24628,
+      "Progressed": 24629,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-20T04:06:46.8804749+00:00",
+  "LastChanged_Achievements": "2023-08-20T05:06:40.4439626+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:35.5614422+00:00",
-  "LastUpdate_Ratings": "2023-08-20T03:59:49.0725292+00:00",
-  "LastUpdate_Achievements": "2023-08-20T04:06:46.8806736+00:00"
+  "LastUpdate_Ratings": "2023-08-20T04:59:54.5902076+00:00",
+  "LastUpdate_Achievements": "2023-08-20T05:06:40.4440629+00:00"
 }

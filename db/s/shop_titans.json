@@ -5668,9 +5668,9 @@
       "Count": 3735
     }
   ],
-  "EOS_Progressed": 134801,
+  "EOS_Progressed": 134804,
   "EOS_Completed": 133,
-  "EOS_NewPlayers": 375,
+  "EOS_NewPlayers": 376,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -18118,6 +18118,11 @@
       "Time": "2023-08-20T04:06:41.0900224+00:00",
       "NumProgressed": 134801,
       "NumCompleted": 133
+    },
+    {
+      "Time": "2023-08-20T05:06:34.3064254+00:00",
+      "NumProgressed": 134804,
+      "NumCompleted": 133
     }
   ],
   "TotalAchievements": 112,
@@ -18231,9 +18236,9 @@
       "ID": "blueprint01",
       "SetID": "anfd17p",
       "Name": "Some Assembly Required",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 809
+      "UsersEstimate": 944
     },
     {
       "ID": "blueprint02",
@@ -18535,9 +18540,9 @@
       "ID": "furniture01",
       "SetID": "anfd17p",
       "Name": "Efficient Floor Space",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 404
+      "UsersEstimate": 539
     },
     {
       "ID": "furniture02",
@@ -19024,15 +19029,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 134801,
+      "Progressed": 134804,
       "Completed": 133
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-08-19T22:01:14.0366607+00:00",
-  "LastChanged_Achievements": "2023-08-20T04:06:41.0900219+00:00",
+  "LastChanged_Achievements": "2023-08-20T05:06:34.3064248+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:50.7489496+00:00",
-  "LastUpdate_Ratings": "2023-08-20T04:00:48.0885307+00:00",
-  "LastUpdate_Achievements": "2023-08-20T04:06:41.090268+00:00"
+  "LastUpdate_Ratings": "2023-08-20T05:00:51.0857324+00:00",
+  "LastUpdate_Achievements": "2023-08-20T05:06:34.3066054+00:00"
 }

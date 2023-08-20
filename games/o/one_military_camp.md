@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| The 4 Pillars | 52.00% | ~76 |
 | First Step | 52.00% | ~76 |
-| The 4 Pillars | 51.00% | ~75 |
 | Capitalism | 19.00% | ~28 |
 | Indebted | 12.00% | ~18 |
 | There's something in those trees | 10.00% | ~15 |
@@ -34,11 +34,11 @@
 | Winter Soldier | 2.00% | ~3 |
 | Researcher | 2.00% | ~3 |
 | Tear Down the Wall! | 1.00% | ~1 |
+| Economist | 1.00% | ~1 |
 | Crisis Committee | 1.00% | ~1 |
 | Vive le Résistance | 1.00% | ~1 |
 | Snowman | 1.00% | ~1 |
 | Reconquest | 1.00% | ~1 |
-| Economist | 0.70% | ~1 |
 | Conveyor Belt Madness | 0.70% | ~1 |
 | Attack of the Drones | 0.00% | ~0 |
 | Counter-espionage | 0.00% | ~0 |

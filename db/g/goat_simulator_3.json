@@ -3202,9 +3202,9 @@
       "Count": 272
     }
   ],
-  "EOS_Progressed": 240676,
+  "EOS_Progressed": 240677,
   "EOS_Completed": 803,
-  "EOS_NewPlayers": 2130,
+  "EOS_NewPlayers": 2108,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -16367,6 +16367,11 @@
       "Time": "2023-08-20T04:06:35.1012732+00:00",
       "NumProgressed": 240676,
       "NumCompleted": 803
+    },
+    {
+      "Time": "2023-08-20T05:06:27.9934793+00:00",
+      "NumProgressed": 240677,
+      "NumCompleted": 803
     }
   ],
   "TotalAchievements": 39,
@@ -16442,7 +16447,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 219015
+      "UsersEstimate": 219016
     },
     {
       "ID": "AchievementClownID",
@@ -16466,7 +16471,7 @@
       "Name": "Don\u0027t touch the servers",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 67389
+      "UsersEstimate": 67390
     },
     {
       "ID": "AchievementEggID",
@@ -16506,7 +16511,7 @@
       "Name": "Goat Queen",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 127558
+      "UsersEstimate": 127559
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -16514,7 +16519,7 @@
       "Name": "Into the Matrix",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 45728
+      "UsersEstimate": 45729
     },
     {
       "ID": "AchievementINirvanaID",
@@ -16522,7 +16527,7 @@
       "Name": "Beauty, Mindfulness and Meditation",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 36101
+      "UsersEstimate": 36102
     },
     {
       "ID": "AchievementInstinctID",
@@ -16538,7 +16543,7 @@
       "Name": "Secret Society",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 108304
+      "UsersEstimate": 108305
     },
     {
       "ID": "AchievementIntroID",
@@ -16546,7 +16551,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 137185
+      "UsersEstimate": 137186
     },
     {
       "ID": "AchievementLootBoxID",
@@ -16610,7 +16615,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 178100
+      "UsersEstimate": 178101
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -16674,7 +16679,7 @@
       "Name": "Rogue Guild",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 156439
+      "UsersEstimate": 156440
     },
     {
       "ID": "AchievementWhaleID",
@@ -16689,7 +16694,7 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 240676,
+      "Progressed": 240677,
       "Completed": 803
     }
   ],
@@ -16697,8 +16702,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-08-19T18:57:56.3823375+00:00",
-  "LastChanged_Achievements": "2023-08-20T04:06:35.1012726+00:00",
+  "LastChanged_Achievements": "2023-08-20T05:06:27.9934788+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:06.889898+00:00",
-  "LastUpdate_Ratings": "2023-08-20T03:58:07.3398689+00:00",
-  "LastUpdate_Achievements": "2023-08-20T04:06:35.1013972+00:00"
+  "LastUpdate_Ratings": "2023-08-20T04:58:07.8814244+00:00",
+  "LastUpdate_Achievements": "2023-08-20T05:06:27.9935628+00:00"
 }
