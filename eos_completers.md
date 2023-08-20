@@ -42,7 +42,7 @@
 | 40 | [Scorn](games/s/scorn.md) | 6.97% |
 | 41 | [Time Loader](games/t/time_loader.md) | 6.78% |
 | 42 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.75% |
-| 43 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.57% |
+| 43 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.51% |
 | 44 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 45 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 46 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.88% |
@@ -71,7 +71,7 @@
 | 69 | [The Complex](games/t/the_complex.md) | 3.35% |
 | 70 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.30% |
 | 71 | [HordeCore](games/h/hordecore.md) | 3.15% |
-| 72 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.12% |
+| 72 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.07% |
 | 73 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.05% |
 | 74 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.04% |
 | 75 | [Monster Harvest](games/m/monster_harvest.md) | 2.94% |
@@ -546,4 +546,4 @@
 | 261 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 261 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 261 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,078 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,079 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |

@@ -241,6 +241,7 @@
 | [ANIMO Stars Arena](games/a/animo_stars_arena.md) | 2099-01-01 | - |  | - | - |
 | [Annulus](games/3/349361a5a00a462783a6110e576dc911.md) | 2099-01-01 | - |  | - | - |
 | [Arto](games/a/arto.md) | 2099-01-01 | - |  | - | - |
+| [Ascendant Infinity](games/f/f482bdb61ec6483c89b21c3af00a9833.md) | 2099-01-01 | - |  | - | - |
 | [Ascent of Ashes](games/a/a2cbb09ffa5d49aab9b00a2607be7508.md) | 2099-01-01 | - |  | - | - |
 | [Asterogues](games/a/asterogues.md) | 2099-01-01 | - |  | - | - |
 | [Astro Duel 2](games/a/astro_duel_2.md) | 2099-01-01 | - |  | - | - |
