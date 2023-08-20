@@ -136,12 +136,12 @@
 | 119 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 41 | 422 |
 | 119 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.76 | 359 | 225 |
 | 136 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 26 | 473 |
-| 136 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 5,716 | 62 |
+| 136 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 5,724 | 61 |
 | 136 | [Diabotical](games/d/diabotical.md) | 4.75 | 272 | 246 |
 | 136 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 666 | 172 |
 | 136 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 619 | 179 |
 | 136 | [Hypnospace Outlaw](games/h/hypnospace_outlaw.md) | 4.75 | 0 | 513 |
-| 136 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 565 | 186 |
+| 136 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 568 | 186 |
 | 136 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.75 | 0 | 513 |
 | 136 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.75 | 0 | 513 |
 | 136 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.75 | 0 | 513 |
@@ -188,7 +188,7 @@
 | 185 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.71 | 86 | 357 |
 | 185 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 6,972 | 49 |
 | 185 | [FUSER™](games/f/fuser™.md) | 4.71 | 35 | 437 |
-| 185 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,392 | 47 |
+| 185 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,394 | 47 |
 | 185 | [Northgard](games/n/northgard.md) | 4.71 | 30 | 462 |
 | 185 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 0 | 513 |
 | 185 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.71 | 0 | 513 |
@@ -244,7 +244,7 @@
 | 238 | [BLACKTAIL](games/b/blacktail.md) | 4.68 | 0 | 513 |
 | 238 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 7,334 | 48 |
 | 238 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,915 | 81 |
-| 238 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 5,717 | 61 |
+| 238 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 5,717 | 62 |
 | 238 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 3,522 | 85 |
 | 238 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 303,166 | 3 |
 | 238 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 214,186 | 4 |
@@ -320,7 +320,7 @@
 | 314 | [Death's Door](games/d/death's_door.md) | 4.64 | 0 | 513 |
 | 314 | [F1® 23](games/f/f1®_23_standard_edition.md) | 4.64 | 0 | 513 |
 | 314 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 0 | 513 |
-| 314 | [HITMAN](games/h/hitman.md) | 4.64 | 203 | 272 |
+| 314 | [HITMAN](games/h/hitman.md) | 4.64 | 206 | 272 |
 | 314 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 183 | 280 |
 | 314 | [Monster Jam Steel Titans 2](games/m/monster_jam_steel_titans_2.md) | 4.64 | 0 | 513 |
 | 314 | [Rogue Lords](games/r/rogue_lords.md) | 4.64 | 0 | 513 |
@@ -348,7 +348,7 @@
 | 329 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.63 | 68 | 381 |
 | 329 | [Transistor](games/t/transistor.md) | 4.63 | 0 | 513 |
 | 348 | [Assassin's Creed Chronicles: Russia](games/a/assassin's_creed_chronicles__russia.md) | 4.62 | 0 | 513 |
-| 348 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.62 | 75,809 | 9 |
+| 348 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.62 | 75,896 | 9 |
 | 348 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 280 | 241 |
 | 348 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 34 | 441 |
 | 348 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 75 | 370 |
@@ -837,7 +837,7 @@
 | 835 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 513 |
 | 835 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 31 | 461 |
 | 835 | [OVERPASS™](games/o/overpass™.md) | 4.24 | 0 | 513 |
-| 835 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 565 | 186 |
+| 835 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 565 | 187 |
 | 835 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 45 | 413 |
 | 835 | [The Bridge](games/t/the_bridge.md) | 4.24 | 0 | 513 |
 | 835 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.24 | 0 | 513 |
