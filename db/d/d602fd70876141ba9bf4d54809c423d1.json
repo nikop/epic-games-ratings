@@ -440,25 +440,25 @@
       "ID": "ACHIEVEMENT_08",
       "SetID": "ap8553i",
       "Name": "One of the Many",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 45,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_09",
       "SetID": "ap8553i",
       "Name": "First Step into Darkness",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_10",
       "SetID": "ap8553i",
       "Name": "Another Day on the Job",
-      "Percentage": 1,
+      "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -965,8 +965,8 @@
   ],
   "FirstSeen": "2023-08-04T21:57:01.9865679+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5206267+00:00",
-  "LastChanged_Achievements": "2023-08-20T01:45:11.0359093+00:00",
+  "LastChanged_Achievements": "2023-08-20T02:18:09.7602491+00:00",
   "LastUpdate_AppInfo": "2023-08-16T16:57:24.4284709+00:00",
-  "LastUpdate_Ratings": "2023-08-20T01:38:29.9356196+00:00",
-  "LastUpdate_Achievements": "2023-08-20T01:45:11.0359972+00:00"
+  "LastUpdate_Ratings": "2023-08-20T02:11:26.5395228+00:00",
+  "LastUpdate_Achievements": "2023-08-20T02:18:09.7603318+00:00"
 }

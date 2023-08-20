@@ -6624,9 +6624,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 797706,
+  "EOS_Progressed": 797708,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 889,
+  "EOS_NewPlayers": 890,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -19944,6 +19944,11 @@
       "Time": "2023-08-20T01:46:07.5290173+00:00",
       "NumProgressed": 797706,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-08-20T02:19:03.8679885+00:00",
+      "NumProgressed": 797708,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 82,
@@ -19987,7 +19992,7 @@
       "Name": "Awakening",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 167518
+      "UsersEstimate": 167519
     },
     {
       "ID": "BadGirl",
@@ -20035,7 +20040,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 255266
+      "UsersEstimate": 255267
     },
     {
       "ID": "Bookworm",
@@ -20067,7 +20072,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 199426
+      "UsersEstimate": 199427
     },
     {
       "ID": "Chivalrous",
@@ -20155,7 +20160,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 183472
+      "UsersEstimate": 183473
     },
     {
       "ID": "Fighter",
@@ -20355,7 +20360,7 @@
       "Name": "McLovin",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 55839
+      "UsersEstimate": 55840
     },
     {
       "ID": "MercenarysHonor",
@@ -20435,7 +20440,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 159541
+      "UsersEstimate": 159542
     },
     {
       "ID": "RevenantOfLedechko",
@@ -20459,7 +20464,7 @@
       "Name": "Runt",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 55839
+      "UsersEstimate": 55840
     },
     {
       "ID": "Saviour",
@@ -20475,7 +20480,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 159541
+      "UsersEstimate": 159542
     },
     {
       "ID": "SerialKiller",
@@ -20610,15 +20615,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 797706,
+      "Progressed": 797708,
       "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-08-19T13:02:25.1183517+00:00",
-  "LastChanged_Achievements": "2023-08-20T01:46:07.5290165+00:00",
+  "LastChanged_Achievements": "2023-08-20T02:19:03.8679878+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:50.3701677+00:00",
-  "LastUpdate_Ratings": "2023-08-20T01:40:19.5082061+00:00",
-  "LastUpdate_Achievements": "2023-08-20T01:46:07.5292483+00:00"
+  "LastUpdate_Ratings": "2023-08-20T02:13:13.9730211+00:00",
+  "LastUpdate_Achievements": "2023-08-20T02:19:03.8682239+00:00"
 }

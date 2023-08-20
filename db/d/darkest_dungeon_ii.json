@@ -6921,9 +6921,9 @@
       "Count": 908
     }
   ],
-  "EOS_Progressed": 115189,
+  "EOS_Progressed": 115190,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 830,
+  "EOS_NewPlayers": 829,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18771,6 +18771,11 @@
       "Time": "2023-08-20T01:44:12.0363817+00:00",
       "NumProgressed": 115189,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-20T02:17:13.1417055+00:00",
+      "NumProgressed": 115190,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 65,
@@ -18782,7 +18787,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 80632
+      "UsersEstimate": 80633
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -18790,7 +18795,7 @@
       "Name": "Serenity Now!",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 59898
+      "UsersEstimate": 59899
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -18814,7 +18819,7 @@
       "Name": "Resurrection",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 71417
+      "UsersEstimate": 71418
     },
     {
       "ID": "altar_of_hope_unlock_hero_hellion",
@@ -18846,7 +18851,7 @@
       "Name": "Wyrdly Reconstructed",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 71417
+      "UsersEstimate": 71418
     },
     {
       "ID": "altar_of_hope_unlock_hero_runaway",
@@ -18854,7 +18859,7 @@
       "Name": "Boxcar Kid",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 69113
+      "UsersEstimate": 69114
     },
     {
       "ID": "altar_of_hope_unlock_hero_vestal",
@@ -18886,7 +18891,7 @@
       "Name": "Hope Rekindled",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 57594
+      "UsersEstimate": 57595
     },
     {
       "ID": "application_start_on_release_anniversary",
@@ -18902,7 +18907,7 @@
       "Name": "Predator",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 27645
+      "UsersEstimate": 27646
     },
     {
       "ID": "combat_kill_antiquarian",
@@ -18942,7 +18947,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 38012
+      "UsersEstimate": 38013
     },
     {
       "ID": "combat_kill_fanatics",
@@ -18958,7 +18963,7 @@
       "Name": "Ichthyophobic",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 5759
+      "UsersEstimate": 5760
     },
     {
       "ID": "combat_kill_gaunts",
@@ -18974,7 +18979,7 @@
       "Name": "No More Mouths to Feed",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 5759
+      "UsersEstimate": 5760
     },
     {
       "ID": "combat_kill_harvest_child",
@@ -18998,7 +19003,7 @@
       "Name": "Catch and Decease",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 16126
+      "UsersEstimate": 16127
     },
     {
       "ID": "combat_kill_librarian",
@@ -19014,7 +19019,7 @@
       "Name": "Reverse Banditry",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 27645
+      "UsersEstimate": 27646
     },
     {
       "ID": "combat_kill_shambler",
@@ -19078,7 +19083,7 @@
       "Name": "Rush Hour",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 69113
+      "UsersEstimate": 69114
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -19102,7 +19107,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 69113
+      "UsersEstimate": 69114
     },
     {
       "ID": "driving_distance_easy",
@@ -19134,7 +19139,7 @@
       "Name": "Autodidact",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 27645
+      "UsersEstimate": 27646
     },
     {
       "ID": "hero_story_complete_all",
@@ -19150,7 +19155,7 @@
       "Name": "A Clear Conscience",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 79480
+      "UsersEstimate": 79481
     },
     {
       "ID": "hoarder_buy_epic_trinket",
@@ -19174,7 +19179,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 107126
+      "UsersEstimate": 107127
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -19301,15 +19306,15 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 115189,
+      "Progressed": 115190,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-08-19T20:57:29.8804001+00:00",
-  "LastChanged_Achievements": "2023-08-20T01:44:12.036381+00:00",
+  "LastChanged_Achievements": "2023-08-20T02:17:13.1417049+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:46.3206217+00:00",
-  "LastUpdate_Ratings": "2023-08-20T01:37:54.8911895+00:00",
-  "LastUpdate_Achievements": "2023-08-20T01:44:12.0365598+00:00"
+  "LastUpdate_Ratings": "2023-08-20T02:10:52.5261893+00:00",
+  "LastUpdate_Achievements": "2023-08-20T02:17:13.1418662+00:00"
 }

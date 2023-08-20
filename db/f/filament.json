@@ -243,9 +243,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 199509,
+  "EOS_Progressed": 199510,
   "EOS_Completed": 483,
-  "EOS_NewPlayers": 588,
+  "EOS_NewPlayers": 587,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -13278,6 +13278,11 @@
       "Time": "2023-08-20T01:44:29.5005611+00:00",
       "NumProgressed": 199509,
       "NumCompleted": 483
+    },
+    {
+      "Time": "2023-08-20T02:17:30.1094298+00:00",
+      "NumProgressed": 199510,
+      "NumCompleted": 483
     }
   ],
   "TotalAchievements": 29,
@@ -13313,7 +13318,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 187538
+      "UsersEstimate": 187539
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -13369,7 +13374,7 @@
       "Name": "Corrupted.",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 9975
+      "UsersEstimate": 9976
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTEDCOMPLETE",
@@ -13449,7 +13454,7 @@
       "Name": "Good things come in pairs... Coloured Pairs.",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 9975
+      "UsersEstimate": 9976
     },
     {
       "ID": "ACHIEVEMENT_REQUISITE",
@@ -13520,7 +13525,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 199509,
+      "Progressed": 199510,
       "Completed": 483
     }
   ],
@@ -13528,8 +13533,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-08-19T20:00:31.8399303+00:00",
-  "LastChanged_Achievements": "2023-08-20T01:44:29.5005605+00:00",
+  "LastChanged_Achievements": "2023-08-20T02:17:30.109429+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:20.1074044+00:00",
-  "LastUpdate_Ratings": "2023-08-20T01:40:38.8081658+00:00",
-  "LastUpdate_Achievements": "2023-08-20T01:44:29.5006877+00:00"
+  "LastUpdate_Ratings": "2023-08-20T02:13:32.2828632+00:00",
+  "LastUpdate_Achievements": "2023-08-20T02:17:30.1095606+00:00"
 }

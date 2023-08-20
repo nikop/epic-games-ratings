@@ -3,7 +3,7 @@
   "Name": "Dungeons 3",
   "ProductSlug": "dungeons-3",
   "Ranking_Rating": 274,
-  "Ranking_Popularity": 229,
+  "Ranking_Popularity": 227,
   "Ranking_PopularitySum": 172,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 125,
@@ -2420,11 +2420,17 @@
       "Rating": 4.66,
       "NumberOfAwards": 2614,
       "NumberOfAwardsMax": 338
+    },
+    {
+      "Time": "2023-08-20T02:13:52.9790073+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 2615,
+      "NumberOfAwardsMax": 339
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2614,
-  "NumberOfAwardsMax": 338,
+  "NumberOfAwards": 2615,
+  "NumberOfAwardsMax": 339,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -2437,7 +2443,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 338
+      "Count": 339
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2494,9 +2500,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 27837,
+  "EOS_Progressed": 27838,
   "EOS_Completed": 229,
-  "EOS_NewPlayers": 713,
+  "EOS_NewPlayers": 711,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
@@ -15589,6 +15595,11 @@
       "Time": "2023-08-20T01:44:48.9483142+00:00",
       "NumProgressed": 27837,
       "NumCompleted": 229
+    },
+    {
+      "Time": "2023-08-20T02:17:48.5580809+00:00",
+      "NumProgressed": 27838,
+      "NumCompleted": 229
     }
   ],
   "TotalAchievements": 60,
@@ -15600,7 +15611,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 16145
+      "UsersEstimate": 16146
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -15616,7 +15627,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 15867
+      "UsersEstimate": 15868
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -15648,7 +15659,7 @@
       "Name": "This is fun, I\u2019m going to keep doing this!",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 3340
+      "UsersEstimate": 3341
     },
     {
       "ID": "ACH_D3_Campaign_Darksword_2",
@@ -15664,7 +15675,7 @@
       "Name": "Difficult family relationships",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 6959
+      "UsersEstimate": 6960
     },
     {
       "ID": "ACH_D3_Campaign_DayNight_1",
@@ -15712,7 +15723,7 @@
       "Name": "The Gehenna Stones",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 13640
+      "UsersEstimate": 13641
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -15736,7 +15747,7 @@
       "Name": "Stock Market Crash",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 8629
+      "UsersEstimate": 8630
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_1",
@@ -15744,7 +15755,7 @@
       "Name": "MASS-O-BOT",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 6959
+      "UsersEstimate": 6960
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_2",
@@ -15752,7 +15763,7 @@
       "Name": "Then let them eat cake!",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 3340
+      "UsersEstimate": 3341
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_Completed",
@@ -15800,7 +15811,7 @@
       "Name": "Night of the Living Dead (on Speed)",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 1113
+      "UsersEstimate": 1114
     },
     {
       "ID": "ACH_D3_Campaign_Graves_Completed",
@@ -15824,7 +15835,7 @@
       "Name": "Hands off the Dungeonheart!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 10021
+      "UsersEstimate": 10022
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_Completed",
@@ -15832,7 +15843,7 @@
       "Name": "Rusty Steel",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 11413
+      "UsersEstimate": 11414
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_1",
@@ -15840,7 +15851,7 @@
       "Name": "Thirst quencher",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 7794
+      "UsersEstimate": 7795
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_2",
@@ -15856,7 +15867,7 @@
       "Name": "Ogre Solo!",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 7794
+      "UsersEstimate": 7795
     },
     {
       "ID": "ACH_D3_Campaign_Infested_1",
@@ -15888,7 +15899,7 @@
       "Name": "I need a hero!",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 1113
+      "UsersEstimate": 1114
     },
     {
       "ID": "ACH_D3_Campaign_Pain_2",
@@ -15960,7 +15971,7 @@
       "Name": "Factory farming",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 8629
+      "UsersEstimate": 8630
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_2",
@@ -15976,7 +15987,7 @@
       "Name": "Damned good",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 9186
+      "UsersEstimate": 9187
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_1",
@@ -16024,7 +16035,7 @@
       "Name": "The Victorious Evil",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 5567
+      "UsersEstimate": 5568
     },
     {
       "ID": "ACH_D3_Campaign_Warlock_1",
@@ -16079,15 +16090,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 27837,
+      "Progressed": 27838,
       "Completed": 229
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
-  "LastChanged": "2023-08-13T17:01:44.243771+00:00",
-  "LastChanged_Achievements": "2023-08-20T01:44:48.9483136+00:00",
+  "LastChanged": "2023-08-20T02:13:52.9790071+00:00",
+  "LastChanged_Achievements": "2023-08-20T02:17:48.5580799+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:53.4330932+00:00",
-  "LastUpdate_Ratings": "2023-08-20T01:41:00.2142872+00:00",
-  "LastUpdate_Achievements": "2023-08-20T01:44:48.9484545+00:00"
+  "LastUpdate_Ratings": "2023-08-20T02:13:52.9790076+00:00",
+  "LastUpdate_Achievements": "2023-08-20T02:17:48.5582647+00:00"
 }

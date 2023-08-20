@@ -4141,9 +4141,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 701630,
+  "EOS_Progressed": 701631,
   "EOS_Completed": 6306,
-  "EOS_NewPlayers": 512,
+  "EOS_NewPlayers": 513,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.9,
   "EosHistory": [
@@ -17091,6 +17091,11 @@
       "Time": "2023-08-20T01:45:45.3897578+00:00",
       "NumProgressed": 701630,
       "NumCompleted": 6306
+    },
+    {
+      "Time": "2023-08-20T02:18:43.0829297+00:00",
+      "NumProgressed": 701631,
+      "NumCompleted": 6306
     }
   ],
   "TotalAchievements": 49,
@@ -17102,7 +17107,7 @@
       "Name": "Back to Work",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 266619
+      "UsersEstimate": 266620
     },
     {
       "ID": "AchAresKills",
@@ -17110,7 +17115,7 @@
       "Name": "War-God\u0027s Bloodlust",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 105244
+      "UsersEstimate": 105245
     },
     {
       "ID": "AchBeatCharon",
@@ -17166,7 +17171,7 @@
       "Name": "Escaped Asphodel",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 561304
+      "UsersEstimate": 561305
     },
     {
       "ID": "AchClearElysium",
@@ -17190,7 +17195,7 @@
       "Name": "Hold the Onions",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 126293
+      "UsersEstimate": 126294
     },
     {
       "ID": "AchClearRun4thAspect",
@@ -17198,7 +17203,7 @@
       "Name": "Weapon of Fate",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 147342
+      "UsersEstimate": 147343
     },
     {
       "ID": "AchClearTartarus",
@@ -17206,7 +17211,7 @@
       "Name": "Escaped Tartarus",
       "Percentage": 89,
       "XP": 25,
-      "UsersEstimate": 624451
+      "UsersEstimate": 624452
     },
     {
       "ID": "AchCrushedThanatos",
@@ -17230,7 +17235,7 @@
       "Name": "River Denizens",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 196456
+      "UsersEstimate": 196457
     },
     {
       "ID": "AchForgedBond",
@@ -17238,7 +17243,7 @@
       "Name": "Grown Close",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 196456
+      "UsersEstimate": 196457
     },
     {
       "ID": "AchFoundAllSummons",
@@ -17270,7 +17275,7 @@
       "Name": "Friends in High Places",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 477108
+      "UsersEstimate": 477109
     },
     {
       "ID": "AchGreaterCallSpurned",
@@ -17318,7 +17323,7 @@
       "Name": "Blood Bound",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 245570
+      "UsersEstimate": 245571
     },
     {
       "ID": "AchMeetChthonicGods",
@@ -17326,7 +17331,7 @@
       "Name": "Chthonic Colleagues",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 442027
+      "UsersEstimate": 442028
     },
     {
       "ID": "AchMirrorAllUnlocked",
@@ -17462,7 +17467,7 @@
       "Name": "Arms Collector",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 498157
+      "UsersEstimate": 498158
     },
     {
       "ID": "AchWeaponClears",
@@ -17493,15 +17498,15 @@
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 701630,
+      "Progressed": 701631,
       "Completed": 6306
     }
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
   "LastChanged": "2023-08-19T23:00:04.4114602+00:00",
-  "LastChanged_Achievements": "2023-08-20T01:45:45.3897571+00:00",
+  "LastChanged_Achievements": "2023-08-20T02:18:43.082929+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:54.0652189+00:00",
-  "LastUpdate_Ratings": "2023-08-20T01:39:49.4085346+00:00",
-  "LastUpdate_Achievements": "2023-08-20T01:45:45.3898848+00:00"
+  "LastUpdate_Ratings": "2023-08-20T02:12:40.522484+00:00",
+  "LastUpdate_Achievements": "2023-08-20T02:18:43.083069+00:00"
 }

@@ -6,12 +6,12 @@
 | ---- | ---------- | ----- |
 | A New Journey | 72.00% | ~222 |
 | The Adventure Begins | 44.00% | ~136 |
-| Swabbie | 23.00% | ~71 |
+| Swabbie | 24.00% | ~74 |
 | With Great Power… | 20.00% | ~62 |
 | This Belongs in a Museum | 13.00% | ~40 |
 | The Gambit Has Begun | 7.00% | ~22 |
-| Powder Monkey | 6.00% | ~18 |
-| Fishy Fish | 6.00% | ~18 |
+| Powder Monkey | 6.00% | ~19 |
+| Fishy Fish | 6.00% | ~19 |
 | Persistent Parasite | 5.00% | ~15 |
 | Somewhere Deep in the Lost Caribbean | 4.00% | ~12 |
 | Mirror Mirror on the Wall | 4.00% | ~12 |
@@ -31,7 +31,7 @@
 | Welcome Back Jester | 0.30% | ~1 |
 | All Good Things | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 308 (Ranked 262)  
+Progressed: 309 (Ranked 260)  
 Completed: 0 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -46,4 +46,4 @@ Completed: 0 (0.00%) (Ranked 261)
 | 2023-08-17 | 146 | 0 |
 | 2023-08-18 | 249 | 0 |
 | 2023-08-19 | 301 | 0 |
-| 2023-08-20 | 308 | 0 |
+| 2023-08-20 | 309 | 0 |

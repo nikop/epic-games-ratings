@@ -191,9 +191,9 @@
       "ID": "getABonusReward",
       "SetID": "cfe0fhi",
       "Name": "Working for the Kiweekend",
-      "Percentage": 73,
+      "Percentage": 82,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "goldOnAllLevels",
@@ -262,8 +262,8 @@
   "FirstSeenRating": "2023-03-31T05:58:13.8503401+00:00",
   "FirstSeenAchievements": "2023-07-21T11:01:23.8514145+00:00",
   "LastChanged": "2023-03-31T05:58:13.8503402+00:00",
-  "LastChanged_Achievements": "2023-08-20T01:45:33.0143032+00:00",
+  "LastChanged_Achievements": "2023-08-20T02:18:31.1638471+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:29.875131+00:00",
-  "LastUpdate_Ratings": "2023-08-20T01:37:42.0221469+00:00",
-  "LastUpdate_Achievements": "2023-08-20T01:45:33.0143278+00:00"
+  "LastUpdate_Ratings": "2023-08-20T02:10:40.9479464+00:00",
+  "LastUpdate_Achievements": "2023-08-20T02:18:31.1638662+00:00"
 }

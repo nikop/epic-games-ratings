@@ -27,8 +27,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Exploring Port Nyanzaru | 0.20% | ~447 |
 | Friendly Imps | 0.20% | ~447 |
 | Pure Energy | 0.20% | ~447 |
-| The Chaotic Hunt for The Last Breath | 0.20% | ~379 |
-| There's a Flying Snake in my Boot! | 0.20% | ~379 |
+| The Chaotic Hunt for The Last Breath | 0.20% | ~380 |
+| There's a Flying Snake in my Boot! | 0.20% | ~380 |
 | Pros and CONs | 0.10% | ~223 |
 | Upholding the Law | 0.10% | ~223 |
 | Starving in the Jungle | 0.10% | ~223 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~190 |
 | Animated Giff | 0.10% | ~190 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 223,470 (Ranked 53)  
+Progressed: 223,476 (Ranked 53)  
 Completed: 2,193 (0.98%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -645,7 +645,7 @@ Completed: 2,193 (0.98%) (Ranked 120)
 | 2023-08-17 | 222,852 | 2,189 |
 | 2023-08-18 | 223,142 | 2,190 |
 | 2023-08-19 | 223,443 | 2,193 |
-| 2023-08-20 | 223,470 | 2,193 |
+| 2023-08-20 | 223,476 | 2,193 |
 ## Awards
 Max (Diverse Characters): 5,169  (Ranked 68)  
 Sum: 31,135 (Ranked 38)  

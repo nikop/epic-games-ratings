@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | You're Hired | 91.00% | ~10 |
-| Working for the Kiweekend | 73.00% | ~8 |
+| Working for the Kiweekend | 82.00% | ~9 |
 | Learn the Ropes | 55.00% | ~6 |
 | A Startling Discovery | 55.00% | ~6 |
 | Practice Makes Postmasters | 45.00% | ~5 |

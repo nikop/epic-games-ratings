@@ -229,12 +229,12 @@ Completed: 20 (0.00%) (Ranked 261)
 | 2023-08-19 | 470,790 | 20 |
 | 2023-08-20 | 470,796 | 20 |
 ## Awards
-Max (Relaxing): 6,405  (Ranked 54)  
-Sum: 50,411 (Ranked 24)  
+Max (Relaxing): 6,406  (Ranked 54)  
+Sum: 50,412 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
-| This game is Relaxing | 6,405 |
+| This game is Relaxing | 6,406 |
 | This game is Extremely Fun | 6,011 |
 | This game has Competitive Players | 5,844 |
 | This game has Quickly Understood Controls | 5,836 |
@@ -454,3 +454,4 @@ Diff (max vs sum): 30
 | 2023-08-17 | 4.80 | - | 6,402 | 50,392 |
 | 2023-08-18 | 4.80 | - | 6,405 | 50,405 |
 | 2023-08-19 | 4.80 | - | 6,405 | 50,411 |
+| 2023-08-20 | 4.80 | - | 6,406 | 50,412 |

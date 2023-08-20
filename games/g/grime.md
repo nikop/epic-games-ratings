@@ -6,26 +6,26 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Imprint | 88.00% | ~123,281 |
-| Taste | 84.00% | ~117,677 |
-| The Hunt | 66.00% | ~92,461 |
-| Ravenous | 63.00% | ~88,258 |
-| Weeper | 43.00% | ~60,240 |
-| Devourer | 22.00% | ~30,820 |
-| Harmless | 19.00% | ~26,617 |
-| Silenced Whispers | 19.00% | ~26,617 |
-| Sharpened Vessel | 16.00% | ~22,415 |
-| Yank | 15.00% | ~21,014 |
-| Scion | 12.00% | ~16,761 |
-| Jawcrab | 12.00% | ~16,811 |
-| Feast | 12.00% | ~16,811 |
-| Jawstag | 11.00% | ~15,410 |
-| Watcher | 10.00% | ~14,009 |
-| Shapely | 8.00% | ~11,207 |
-| Glare | 8.00% | ~11,174 |
-| Predator | 8.00% | ~11,207 |
+| Imprint | 88.00% | ~123,291 |
+| Taste | 84.00% | ~117,687 |
+| The Hunt | 66.00% | ~92,468 |
+| Ravenous | 63.00% | ~88,265 |
+| Weeper | 43.00% | ~60,244 |
+| Devourer | 22.00% | ~30,823 |
+| Harmless | 19.00% | ~26,620 |
+| Silenced Whispers | 19.00% | ~26,620 |
+| Sharpened Vessel | 16.00% | ~22,416 |
+| Yank | 15.00% | ~21,015 |
+| Scion | 12.00% | ~16,762 |
+| Jawcrab | 12.00% | ~16,812 |
+| Feast | 12.00% | ~16,812 |
+| Jawstag | 11.00% | ~15,411 |
+| Watcher | 10.00% | ~14,010 |
+| Shapely | 8.00% | ~11,208 |
+| Glare | 8.00% | ~11,175 |
+| Predator | 8.00% | ~11,208 |
 | Assimilation | 6.00% | ~8,406 |
-| Host | 6.00% | ~8,380 |
+| Host | 6.00% | ~8,381 |
 | Celebration | 6.00% | ~8,406 |
 | Hunt Down | 5.00% | ~7,005 |
 | Breathsmith | 5.00% | ~7,005 |
@@ -49,7 +49,7 @@ Number of Ratings: 46  (23.09.2022)
 | Instruments | 0.70% | ~981 |
 | Spiral Heart | 0.10% | ~140 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 140,092 (Ranked 64)  
+Progressed: 140,103 (Ranked 64)  
 Completed: 1 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,7 +152,7 @@ Completed: 1 (0.00%) (Ranked 261)
 | 2023-08-17 | 139,141 | 1 |
 | 2023-08-18 | 139,554 | 1 |
 | 2023-08-19 | 140,039 | 1 |
-| 2023-08-20 | 140,092 | 1 |
+| 2023-08-20 | 140,103 | 1 |
 ## Awards
 Max (Highly Recommended): 26  (Ranked 473)  
 Sum: 112 (Ranked 413)  

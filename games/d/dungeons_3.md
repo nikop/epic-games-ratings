@@ -7,44 +7,44 @@ Number of Ratings: 1,635  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Shadow strikes | 69.00% | ~19,208 |
-| The Evilest Evil | 58.00% | ~16,145 |
-| Twistram is devastated | 57.00% | ~15,867 |
-| The Gehenna Stones | 49.00% | ~13,640 |
+| The Evilest Evil | 58.00% | ~16,146 |
+| Twistram is devastated | 57.00% | ~15,868 |
+| The Gehenna Stones | 49.00% | ~13,641 |
 | No one has to die today! | 46.00% | ~12,805 |
 | Death and destruction! | 45.00% | ~12,527 |
 | The Swamplanders from the swamplands | 43.00% | ~11,970 |
-| Rusty Steel | 41.00% | ~11,413 |
+| Rusty Steel | 41.00% | ~11,414 |
 | The One-Huge-Army-Building Evil | 40.00% | ~11,135 |
 | The last burger | 37.00% | ~10,300 |
 | Braiiiiins! | 37.00% | ~10,300 |
-| Hands off the Dungeonheart! | 36.00% | ~10,021 |
+| Hands off the Dungeonheart! | 36.00% | ~10,022 |
 | A trip on sea, what fun it can be | 34.00% | ~9,465 |
-| Damned good | 33.00% | ~9,186 |
-| Stock Market Crash | 31.00% | ~8,629 |
-| Factory farming | 31.00% | ~8,629 |
+| Damned good | 33.00% | ~9,187 |
+| Stock Market Crash | 31.00% | ~8,630 |
+| Factory farming | 31.00% | ~8,630 |
 | Not-So-Overproud | 30.00% | ~8,351 |
 | For a handfull of Catapults | 29.00% | ~8,073 |
 | Shadow hunter | 29.00% | ~8,073 |
-| Thirst quencher | 28.00% | ~7,794 |
-| Ogre Solo! | 28.00% | ~7,794 |
+| Thirst quencher | 28.00% | ~7,795 |
+| Ogre Solo! | 28.00% | ~7,795 |
 | Destroy the thing | 26.00% | ~7,238 |
 | Tide Master | 26.00% | ~7,238 |
-| Difficult family relationships | 25.00% | ~6,959 |
-| MASS-O-BOT | 25.00% | ~6,959 |
+| Difficult family relationships | 25.00% | ~6,960 |
+| MASS-O-BOT | 25.00% | ~6,960 |
 | Prepare the grave | 24.00% | ~6,681 |
 | Angel of Fire | 24.00% | ~6,681 |
 | Where there is Light, there is Shadow | 23.00% | ~6,403 |
 | At the foot of Mount Destiny | 22.00% | ~6,124 |
 | The Force disturbed | 21.00% | ~5,846 |
-| The Victorious Evil | 20.00% | ~5,567 |
+| The Victorious Evil | 20.00% | ~5,568 |
 | Chorus of damnation | 19.00% | ~5,289 |
 | We don’t have time! | 19.00% | ~5,289 |
 | The Stones’ Power | 18.00% | ~5,011 |
 | Flat as a pancake | 17.00% | ~4,732 |
 | Lifeguard | 17.00% | ~4,732 |
 | Can’t stand the sight of Dark Elf blood | 15.00% | ~4,176 |
-| This is fun, I’m going to keep doing this! | 12.00% | ~3,340 |
-| Then let them eat cake! | 12.00% | ~3,340 |
+| This is fun, I’m going to keep doing this! | 12.00% | ~3,341 |
+| Then let them eat cake! | 12.00% | ~3,341 |
 | The White Knight | 10.00% | ~2,784 |
 | Please, no interruptions! | 10.00% | ~2,784 |
 | Use the terrain | 9.00% | ~2,505 |
@@ -59,15 +59,15 @@ Number of Ratings: 1,635  (23.09.2022)
 | A little something extra | 6.00% | ~1,670 |
 | The Benevolent Evil | 6.00% | ~1,670 |
 | Band of Brothers | 5.00% | ~1,392 |
-| Night of the Living Dead (on Speed) | 4.00% | ~1,113 |
-| I need a hero! | 4.00% | ~1,113 |
+| Night of the Living Dead (on Speed) | 4.00% | ~1,114 |
+| I need a hero! | 4.00% | ~1,114 |
 | Storm And Stress | 3.00% | ~835 |
 | I love the smell of Catapult fire! | 3.00% | ~835 |
 | Discoverer | 2.00% | ~557 |
 | Not a scratch | 2.00% | ~557 |
 | Sacrifices! | 2.00% | ~557 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,837 (Ranked 101)  
+Progressed: 27,838 (Ranked 101)  
 Completed: 229 (0.82%) (Ranked 125)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,14 +189,14 @@ Completed: 229 (0.82%) (Ranked 125)
 | 2023-08-17 | 27,612 | 226 |
 | 2023-08-18 | 27,710 | 226 |
 | 2023-08-19 | 27,829 | 229 |
-| 2023-08-20 | 27,837 | 229 |
+| 2023-08-20 | 27,838 | 229 |
 ## Awards
-Max (Great for Beginners): 338  (Ranked 229)  
-Sum: 2,614 (Ranked 172)  
-Diff (max vs sum): 57  
+Max (Great for Beginners): 339  (Ranked 227)  
+Sum: 2,615 (Ranked 172)  
+Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 338 |
+| This game is Great for Beginners | 339 |
 | This game is Extremely Fun | 314 |
 | This game has Quickly Understood Controls | 301 |
 | This game has Amazing Storytelling | 292 |
@@ -366,3 +366,4 @@ Diff (max vs sum): 57
 | 2023-08-11 | 4.66 | - | 337 | 2,611 |
 | 2023-08-12 | 4.66 | - | 337 | 2,612 |
 | 2023-08-13 | 4.66 | - | 338 | 2,614 |
+| 2023-08-20 | 4.66 | - | 339 | 2,615 |

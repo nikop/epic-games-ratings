@@ -4,7 +4,7 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 454,
+  "EOS_Progressed": 455,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -1626,6 +1626,11 @@
       "Time": "2023-08-20T00:03:00.7241437+00:00",
       "NumProgressed": 454,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-20T02:14:08.3164821+00:00",
+      "NumProgressed": 455,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -1653,7 +1658,7 @@
       "Name": "Basic Controls",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "BigPlane",
@@ -1669,7 +1674,7 @@
       "Name": "Budget Flight",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "Calculated",
@@ -1725,7 +1730,7 @@
       "Name": "Fifty",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "First",
@@ -1845,7 +1850,7 @@
       "Name": "No Time for Modernization",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "NoWayBack",
@@ -1909,7 +1914,7 @@
       "Name": "Resource Economy",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "Restructuring",
@@ -1947,9 +1952,9 @@
       "ID": "Ten",
       "SetID": "1e89b4i",
       "Name": "Ten!",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 114
     },
     {
       "ID": "TimeForManagement",
@@ -1972,14 +1977,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 454,
+      "Progressed": 455,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-08-20T01:41:11.813678+00:00",
+  "LastChanged_Achievements": "2023-08-20T02:14:08.3164814+00:00",
   "LastUpdate_AppInfo": "2023-08-15T09:57:14.6821782+00:00",
-  "LastUpdate_Ratings": "2023-08-20T01:38:52.9667499+00:00",
-  "LastUpdate_Achievements": "2023-08-20T01:41:11.8138168+00:00"
+  "LastUpdate_Ratings": "2023-08-20T02:11:48.898902+00:00",
+  "LastUpdate_Achievements": "2023-08-20T02:14:08.3165518+00:00"
 }
