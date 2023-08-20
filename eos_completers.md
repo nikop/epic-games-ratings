@@ -42,7 +42,7 @@
 | 40 | [Scorn](games/s/scorn.md) | 6.92% |
 | 41 | [Time Loader](games/t/time_loader.md) | 6.78% |
 | 42 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.75% |
-| 43 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.64% |
+| 43 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.60% |
 | 44 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 45 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 46 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.88% |
@@ -75,7 +75,7 @@
 | 73 | [Monster Harvest](games/m/monster_harvest.md) | 2.94% |
 | 74 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 75 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.92% |
-| 76 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 2.88% |
+| 76 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 2.85% |
 | 77 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.78% |
 | 78 | [Destiny 2](games/d/destiny_2.md) | 2.74% |
 | 79 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
