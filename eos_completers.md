@@ -38,7 +38,7 @@
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.51% |
 | 37 | [Smelter](games/s/smelter.md) | 7.50% |
 | 38 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.27% |
-| 39 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.01% |
+| 39 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.07% |
 | 40 | [Scorn](games/s/scorn.md) | 6.92% |
 | 41 | [Time Loader](games/t/time_loader.md) | 6.78% |
 | 42 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.75% |
@@ -50,7 +50,7 @@
 | 48 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.36% |
 | 48 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.36% |
 | 50 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.19% |
-| 51 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 5.05% |
+| 51 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 5.00% |
 | 52 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.91% |
 | 53 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.80% |
 | 54 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 4.76% |
@@ -68,10 +68,10 @@
 | 66 | [Doodle God](games/d/doodle_god.md) | 3.43% |
 | 67 | [Bunny Park](games/b/bunny_park.md) | 3.37% |
 | 68 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.30% |
-| 69 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.24% |
-| 70 | [The Complex](games/t/the_complex.md) | 3.17% |
+| 69 | [The Complex](games/t/the_complex.md) | 3.17% |
+| 70 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.16% |
 | 71 | [HordeCore](games/h/hordecore.md) | 3.15% |
-| 72 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.08% |
+| 72 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.07% |
 | 73 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.04% |
 | 74 | [Monster Harvest](games/m/monster_harvest.md) | 2.94% |
 | 75 | [MultiVersus](games/m/multiversus.md) | 2.93% |
@@ -107,7 +107,7 @@
 | 105 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.49% |
 | 106 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.47% |
 | 107 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.46% |
-| 108 | [Ten Dates](games/t/ten_dates.md) | 1.45% |
+| 108 | [Ten Dates](games/t/ten_dates.md) | 1.44% |
 | 109 | [Poosh XL](games/p/poosh_xl.md) | 1.41% |
 | 110 | [Late Shift](games/l/late_shift.md) | 1.29% |
 | 111 | [Infindustry](games/i/infindustry.md) | 1.27% |
