@@ -81,7 +81,7 @@
 | 77 | [Superliminal](games/s/superliminal.md) | 4.81 | 0 | 513 |
 | 77 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.81 | 0 | 513 |
 | 77 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 28 | 467 |
-| 82 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,405 | 54 |
+| 82 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,406 | 54 |
 | 82 | [Griftlands](games/g/griftlands.md) | 4.80 | 0 | 513 |
 | 82 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 0 | 513 |
 | 82 | [The Messenger](games/t/the_messenger.md) | 4.80 | 326 | 231 |
@@ -278,7 +278,7 @@
 | 274 | [Crashlands](games/c/crashlands.md) | 4.66 | 193 | 275 |
 | 274 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 169 | 289 |
 | 274 | [DOOM 64](games/d/doom_64.md) | 4.66 | 1,292 | 130 |
-| 274 | [Dungeons 3](games/d/dungeons_3.md) | 4.66 | 338 | 229 |
+| 274 | [Dungeons 3](games/d/dungeons_3.md) | 4.66 | 339 | 227 |
 | 274 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.66 | 46 | 410 |
 | 274 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.66 | 0 | 513 |
 | 274 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.66 | 0 | 513 |
@@ -819,21 +819,21 @@
 | 814 | [Kao the Kangaroo](games/k/kao_the_kangaroo.md) | 4.27 | 0 | 513 |
 | 814 | [RAGE 2](games/r/rage_2.md) | 4.27 | 2,524 | 99 |
 | 814 | [RiMS Racing](games/r/rims_racing.md) | 4.27 | 0 | 513 |
-| 820 | [Against All Odds](games/a/against_all_odds.md) | 4.26 | 0 | 513 |
 | 820 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.26 | 33 | 448 |
 | 820 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 17,981 | 20 |
 | 820 | [Flatout](games/f/flatout.md) | 4.26 | 0 | 513 |
 | 820 | [The Fall](games/t/the_fall.md) | 4.26 | 0 | 513 |
 | 820 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 0 | 513 |
 | 820 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 297 | 237 |
-| 827 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.25 | 22 | 493 |
-| 827 | [EVE Online](games/e/eve_online.md) | 4.25 | 1,062 | 139 |
-| 827 | [Men of War](games/m/men_of_war.md) | 4.25 | 0 | 513 |
-| 827 | [R-Type Final 2](games/r/r-type_final_2.md) | 4.25 | 0 | 513 |
-| 827 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 0 | 513 |
-| 827 | [Starsand](games/s/starsand.md) | 4.25 | 0 | 513 |
-| 827 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.25 | 0 | 513 |
-| 827 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 0 | 513 |
+| 826 | [Against All Odds](games/a/against_all_odds.md) | 4.25 | 0 | 513 |
+| 826 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.25 | 22 | 493 |
+| 826 | [EVE Online](games/e/eve_online.md) | 4.25 | 1,062 | 139 |
+| 826 | [Men of War](games/m/men_of_war.md) | 4.25 | 0 | 513 |
+| 826 | [R-Type Final 2](games/r/r-type_final_2.md) | 4.25 | 0 | 513 |
+| 826 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 0 | 513 |
+| 826 | [Starsand](games/s/starsand.md) | 4.25 | 0 | 513 |
+| 826 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.25 | 0 | 513 |
+| 826 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 0 | 513 |
 | 835 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 513 |
 | 835 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 31 | 461 |
 | 835 | [OVERPASS™](games/o/overpass™.md) | 4.24 | 0 | 513 |

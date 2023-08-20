@@ -82,8 +82,8 @@
 | 80 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.60% |
 | 80 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.60% |
 | 80 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.60% |
-| 83 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 2.59% |
-| 84 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.56% |
+| 83 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.56% |
+| 84 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 2.55% |
 | 85 | [Lamentum](games/l/lamentum.md) | 2.53% |
 | 86 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.52% |
 | 87 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
@@ -91,7 +91,7 @@
 | 89 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.27% |
 | 90 | [Bloodshore](games/b/bloodshore.md) | 2.21% |
 | 91 | [FORECLOSED](games/f/foreclosed.md) | 2.17% |
-| 92 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.04% |
+| 92 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.03% |
 | 93 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.94% |
 | 94 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.92% |
 | 95 | [Night Book](games/n/night_book.md) | 1.89% |
@@ -546,4 +546,4 @@
 | 261 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 261 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 261 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,077 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,078 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
