@@ -1210,7 +1210,7 @@
   ],
   "EOS_Progressed": 5413,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -8125,9 +8125,9 @@
       "ID": "UNLOCK_RESEARCH",
       "SetID": "5349c2e",
       "Name": "Novice Researcher",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 3518
+      "UsersEstimate": 3573
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -8173,8 +8173,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-08-17T15:01:41.6967356+00:00",
-  "LastChanged_Achievements": "2023-08-21T19:05:50.5076164+00:00",
+  "LastChanged_Achievements": "2023-08-21T20:06:00.1772389+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:24.7738983+00:00",
-  "LastUpdate_Ratings": "2023-08-21T18:57:23.9170754+00:00",
-  "LastUpdate_Achievements": "2023-08-21T19:05:50.5076869+00:00"
+  "LastUpdate_Ratings": "2023-08-21T19:57:26.9503017+00:00",
+  "LastUpdate_Achievements": "2023-08-21T20:06:00.1772999+00:00"
 }

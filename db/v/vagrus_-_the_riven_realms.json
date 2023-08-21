@@ -1226,9 +1226,9 @@
       "ID": "Vanilla_YrgPropagation",
       "SetID": "27kik8p",
       "Name": "Insectoid Propagator",
-      "Percentage": 0.8,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     }
   ],
   "AchievementSets": [
@@ -1243,8 +1243,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-08-21T19:07:11.0836027+00:00",
+  "LastChanged_Achievements": "2023-08-21T20:07:19.0393786+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:09.3358169+00:00",
-  "LastUpdate_Ratings": "2023-08-21T19:01:21.409183+00:00",
-  "LastUpdate_Achievements": "2023-08-21T19:07:11.0837378+00:00"
+  "LastUpdate_Ratings": "2023-08-21T20:01:37.4026342+00:00",
+  "LastUpdate_Achievements": "2023-08-21T20:07:19.0395025+00:00"
 }

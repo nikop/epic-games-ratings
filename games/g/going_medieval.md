@@ -11,7 +11,7 @@ Number of Ratings: 706  (23.09.2022)
 | Reap What You Sow | 71.00% | ~3,843 |
 | The First Day | 68.00% | ~3,681 |
 | Green Thumb | 66.00% | ~3,573 |
-| Novice Researcher | 65.00% | ~3,518 |
+| Novice Researcher | 66.00% | ~3,573 |
 | Putting Food on the Table | 58.00% | ~3,140 |
 | Home Cooked Meal | 57.00% | ~3,085 |
 | Onward | 56.00% | ~3,031 |

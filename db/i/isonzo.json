@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 351,
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -778,9 +778,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6674,
+  "EOS_Progressed": 6675,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -4628,6 +4628,11 @@
       "Time": "2023-08-21T14:08:36.3532629+00:00",
       "NumProgressed": 6674,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-08-21T20:07:46.4331881+00:00",
+      "NumProgressed": 6675,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -4719,7 +4724,7 @@
       "Name": "Dirty Dozen",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 934
+      "UsersEstimate": 935
     },
     {
       "ID": "ISONZO_ACH_DONATELLO",
@@ -4743,7 +4748,7 @@
       "Name": "Farewell to Arms",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ISONZO_ACH_GABRIELE_DANNUNZIO",
@@ -4751,7 +4756,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 2202
+      "UsersEstimate": 2203
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -4775,7 +4780,7 @@
       "Name": "I Have the High Ground",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "ISONZO_ACH_LUIGI_CADORNA",
@@ -4815,7 +4820,7 @@
       "Name": "Millenial",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "ISONZO_ACH_O_LA_VITTORIA_O_TUTTI_ACCOPPATI",
@@ -4847,7 +4852,7 @@
       "Name": "Ragazzi del \u002799",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1201
+      "UsersEstimate": 1202
     },
     {
       "ID": "ISONZO_ACH_ROME_WASNT_BUILT_IN_A_DAY",
@@ -4903,7 +4908,7 @@
       "Name": "Saboteur",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ISONZO_ACH_THE_DEVILS_PAINTBRUSH",
@@ -4935,7 +4940,7 @@
       "Name": "The Lion of the Isonzo",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1201
+      "UsersEstimate": 1202
     },
     {
       "ID": "ISONZO_ACH_THE_SHOW_MUST_GO_ON",
@@ -4975,7 +4980,7 @@
       "Name": "Uomo Universale",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 934
+      "UsersEstimate": 935
     },
     {
       "ID": "ISONZO_ACH_VENI_VIDI_VICI",
@@ -4991,14 +4996,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 3537
+      "UsersEstimate": 3538
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6674,
+      "Progressed": 6675,
       "Completed": 8
     }
   ],
@@ -5006,8 +5011,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-08-10T01:59:14.1654715+00:00",
-  "LastChanged_Achievements": "2023-08-21T19:07:38.5516679+00:00",
+  "LastChanged_Achievements": "2023-08-21T20:07:46.4331874+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:58:05.3103209+00:00",
-  "LastUpdate_Ratings": "2023-08-21T18:59:56.0967576+00:00",
-  "LastUpdate_Achievements": "2023-08-21T19:07:38.55176+00:00"
+  "LastUpdate_Ratings": "2023-08-21T20:00:06.013066+00:00",
+  "LastUpdate_Achievements": "2023-08-21T20:07:46.4332642+00:00"
 }

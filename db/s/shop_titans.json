@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 46,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 88,
+  "Ranking_EOS_NewPlayers": 86,
   "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -5692,9 +5692,9 @@
       "Count": 3737
     }
   ],
-  "EOS_Progressed": 134900,
+  "EOS_Progressed": 134904,
   "EOS_Completed": 134,
-  "EOS_NewPlayers": 377,
+  "EOS_NewPlayers": 379,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -18317,6 +18317,11 @@
       "Time": "2023-08-21T19:06:45.3264094+00:00",
       "NumProgressed": 134900,
       "NumCompleted": 134
+    },
+    {
+      "Time": "2023-08-21T20:06:53.5554241+00:00",
+      "NumProgressed": 134904,
+      "NumCompleted": 134
     }
   ],
   "TotalAchievements": 112,
@@ -18328,7 +18333,7 @@
       "Name": "The Daily Grind",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "advlevel02",
@@ -18464,7 +18469,7 @@
       "Name": "Bounty Hunters",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "boss02",
@@ -18568,7 +18573,7 @@
       "Name": "Demand for Supplies",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "commonres03",
@@ -18600,7 +18605,7 @@
       "Name": "Flooding the Market",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "craft03",
@@ -18632,7 +18637,7 @@
       "Name": "Where it Hurts",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "damage02",
@@ -18952,7 +18957,7 @@
       "Name": "Dungeon Imports",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "loot02",
@@ -19223,15 +19228,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 134900,
+      "Progressed": 134904,
       "Completed": 134
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-08-21T15:01:58.5584274+00:00",
-  "LastChanged_Achievements": "2023-08-21T19:06:45.3264089+00:00",
+  "LastChanged_Achievements": "2023-08-21T20:06:53.5554235+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:50.7489496+00:00",
-  "LastUpdate_Ratings": "2023-08-21T19:01:05.3976067+00:00",
-  "LastUpdate_Achievements": "2023-08-21T19:06:45.326808+00:00"
+  "LastUpdate_Ratings": "2023-08-21T20:01:20.2721979+00:00",
+  "LastUpdate_Achievements": "2023-08-21T20:06:53.5557242+00:00"
 }

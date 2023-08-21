@@ -2,7 +2,7 @@
   "ID": "42b8b899a3f349bd8376264ccee3cd2a",
   "Name": "Shadow Gambit: The Cursed Crew",
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
-  "Ranking_EOS_Progress": 241,
+  "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 85,
   "Ranking_EOS_NewCompleters": 92,
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 406,
+  "EOS_Progressed": 408,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 379,
+  "EOS_NewPlayers": 381,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -681,6 +681,11 @@
       "Time": "2023-08-21T19:04:11.9476472+00:00",
       "NumProgressed": 406,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-21T20:04:12.561503+00:00",
+      "NumProgressed": 408,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -693,23 +698,23 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "_02_FinishFirstMission",
       "SetID": "8a1io5d",
       "Name": "A New Journey",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 296
+      "UsersEstimate": 294
     },
     {
       "ID": "_03_FinishAct1",
       "SetID": "8a1io5d",
       "Name": "The Adventure Begins",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 195
+      "UsersEstimate": 200
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -717,7 +722,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "_05_FinishAct2",
@@ -733,7 +738,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "_07_FinishAct3",
@@ -787,9 +792,9 @@
       "ID": "_13_Completion_60",
       "SetID": "8a1io5d",
       "Name": "Corsair",
-      "Percentage": 0.7,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "_14_Completion_70",
@@ -819,9 +824,9 @@
       "ID": "_17_UpgradeFirstCharacter",
       "SetID": "8a1io5d",
       "Name": "With Great Power\u2026",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 106
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -837,7 +842,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -900,14 +905,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 406,
+      "Progressed": 408,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-21T19:04:11.9476465+00:00",
+  "LastChanged_Achievements": "2023-08-21T20:04:12.5615022+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:01.7621403+00:00",
-  "LastUpdate_Ratings": "2023-08-21T19:00:32.4122839+00:00",
-  "LastUpdate_Achievements": "2023-08-21T19:04:11.9476873+00:00"
+  "LastUpdate_Ratings": "2023-08-21T20:00:41.5382909+00:00",
+  "LastUpdate_Achievements": "2023-08-21T20:04:12.5615272+00:00"
 }

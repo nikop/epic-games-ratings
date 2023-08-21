@@ -5,20 +5,20 @@ Rating: 4.18 (Ranked 873)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~33,978 |
+| First Step Into the Knight | 50.00% | ~33,979 |
 | Har, Har, Har, Very Funny | 35.00% | ~23,785 |
-| Loose Ends | 34.00% | ~23,105 |
+| Loose Ends | 34.00% | ~23,106 |
 | To the Victor Go the Spoils | 28.00% | ~19,028 |
-| Knighthood | 27.00% | ~18,348 |
-| Get ReQ'd | 25.00% | ~16,989 |
-| Whispered Words | 25.00% | ~16,989 |
+| Knighthood | 27.00% | ~18,349 |
+| Get ReQ'd | 25.00% | ~16,990 |
+| Whispered Words | 25.00% | ~16,990 |
 | The Batman Family | 22.00% | ~14,951 |
 | Lock and Key | 22.00% | ~14,951 |
 | Something in the Clay | 21.00% | ~14,271 |
-| Quartzer Life Crisis | 20.00% | ~13,591 |
-| Working Hard or Harley Working? | 20.00% | ~13,591 |
-| Unstoppable Force | 20.00% | ~13,591 |
-| Bad Apples in Every Orchard | 20.00% | ~13,591 |
+| Quartzer Life Crisis | 20.00% | ~13,592 |
+| Working Hard or Harley Working? | 20.00% | ~13,592 |
+| Unstoppable Force | 20.00% | ~13,592 |
+| Bad Apples in Every Orchard | 20.00% | ~13,592 |
 | Snow Problem | 19.00% | ~12,912 |
 | The Show Mud Go On | 18.00% | ~12,232 |
 | From Inside Gotham's Walls | 18.00% | ~12,232 |
@@ -29,8 +29,8 @@ Rating: 4.18 (Ranked 873)
 | Rock and a Hard Place | 14.00% | ~9,514 |
 | Cooldown | 14.00% | ~9,514 |
 | Seeking Asylum | 14.00% | ~9,514 |
-| Not On My Watch | 13.00% | ~8,834 |
-| Shock Til They Drop | 13.00% | ~8,834 |
+| Not On My Watch | 13.00% | ~8,835 |
+| Shock Til They Drop | 13.00% | ~8,835 |
 | End of an Era | 12.00% | ~8,155 |
 | Bulldozed | 12.00% | ~8,155 |
 | Gotham Knight | 12.00% | ~8,155 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 873)
 | Element of Surprise | 0.20% | ~76 |
 | It's Nice to Be Wanted | 0.20% | ~76 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,957 (Ranked 80)  
+Progressed: 67,958 (Ranked 80)  
 Completed: 108 (0.16%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 108 (0.16%) (Ranked 193)
 | 2023-08-18 | 67,896 | 107 |
 | 2023-08-19 | 67,915 | 108 |
 | 2023-08-20 | 67,937 | 108 |
-| 2023-08-21 | 67,957 | 108 |
+| 2023-08-21 | 67,958 | 108 |
 ## Awards
 Max (Great Boss Battles): 2,510  (Ranked 100)  
 Sum: 4,180 (Ranked 139)  

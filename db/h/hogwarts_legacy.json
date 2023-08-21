@@ -6508,10 +6508,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 41341,
       "NumberOfAwardsMax": 21871
+    },
+    {
+      "Time": "2023-08-21T19:59:53.6317817+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 41360,
+      "NumberOfAwardsMax": 21871
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 41341,
+  "NumberOfAwards": 41360,
   "NumberOfAwardsMax": 21871,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6525,7 +6531,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 10603
+      "Count": 10616
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -6537,7 +6543,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 925
+      "Count": 929
     },
     {
       "Text": "This game is Great for Beginners",
@@ -6567,7 +6573,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 900
+      "Count": 902
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -6588,9 +6594,9 @@
       "Count": 598
     }
   ],
-  "EOS_Progressed": 290564,
+  "EOS_Progressed": 290567,
   "EOS_Completed": 453,
-  "EOS_NewPlayers": 468,
+  "EOS_NewPlayers": 467,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -19873,6 +19879,11 @@
       "Time": "2023-08-21T19:07:14.7073368+00:00",
       "NumProgressed": 290564,
       "NumCompleted": 453
+    },
+    {
+      "Time": "2023-08-21T20:07:22.2929797+00:00",
+      "NumProgressed": 290567,
+      "NumCompleted": 453
     }
   ],
   "TotalAchievements": 45,
@@ -19884,7 +19895,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 37773
+      "UsersEstimate": 37774
     },
     {
       "ID": "PFA_10",
@@ -19932,7 +19943,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20339
+      "UsersEstimate": 20340
     },
     {
       "ID": "PFA_16",
@@ -19948,7 +19959,7 @@
       "Name": "Beast Friends",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20339
+      "UsersEstimate": 20340
     },
     {
       "ID": "PFA_18",
@@ -19956,7 +19967,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20339
+      "UsersEstimate": 20340
     },
     {
       "ID": "PFA_19",
@@ -19964,7 +19975,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 20339
+      "UsersEstimate": 20340
     },
     {
       "ID": "PFA_2",
@@ -20004,7 +20015,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 29056
+      "UsersEstimate": 29057
     },
     {
       "ID": "PFA_24",
@@ -20228,7 +20239,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 29056
+      "UsersEstimate": 29057
     },
     {
       "ID": "PFA_9",
@@ -20243,16 +20254,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 290564,
+      "Progressed": 290567,
       "Completed": 453
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-08-21T18:00:10.3691857+00:00",
-  "LastChanged_Achievements": "2023-08-21T19:07:14.7073358+00:00",
+  "LastChanged": "2023-08-21T19:59:53.6317815+00:00",
+  "LastChanged_Achievements": "2023-08-21T20:07:22.2929791+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:55.8476503+00:00",
-  "LastUpdate_Ratings": "2023-08-21T18:59:46.3281582+00:00",
-  "LastUpdate_Achievements": "2023-08-21T19:07:14.7075438+00:00"
+  "LastUpdate_Ratings": "2023-08-21T19:59:53.6317823+00:00",
+  "LastUpdate_Achievements": "2023-08-21T20:07:22.2931121+00:00"
 }

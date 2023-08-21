@@ -4,8 +4,8 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 32,
-  "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
     "PcReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2215,
-  "EOS_Completed": 199,
-  "EOS_NewPlayers": 43,
-  "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 8.98,
+  "EOS_Progressed": 2216,
+  "EOS_Completed": 200,
+  "EOS_NewPlayers": 44,
+  "EOS_NewCompleters": 5,
+  "EOS_Completed_Percentage": 9.03,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -5143,6 +5143,11 @@
       "Time": "2023-08-21T19:05:21.6433945+00:00",
       "NumProgressed": 2215,
       "NumCompleted": 199
+    },
+    {
+      "Time": "2023-08-21T20:05:31.5318577+00:00",
+      "NumProgressed": 2216,
+      "NumCompleted": 200
     }
   ],
   "TotalAchievements": 12,
@@ -5170,7 +5175,7 @@
       "Name": "Building the Fox",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "Green Ticket Roundup",
@@ -5249,16 +5254,16 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2215,
-      "Completed": 199
+      "Progressed": 2216,
+      "Completed": 200
     }
   ],
   "FirstSeen": "2023-02-19T22:57:55.1416262+00:00",
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-08-21T19:05:21.6433939+00:00",
+  "LastChanged_Achievements": "2023-08-21T20:05:31.5318569+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:24.3876502+00:00",
-  "LastUpdate_Ratings": "2023-08-21T19:02:09.8845864+00:00",
-  "LastUpdate_Achievements": "2023-08-21T19:05:21.6434376+00:00"
+  "LastUpdate_Ratings": "2023-08-21T20:02:23.6924548+00:00",
+  "LastUpdate_Achievements": "2023-08-21T20:05:31.5319092+00:00"
 }

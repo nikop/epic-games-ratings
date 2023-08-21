@@ -28,6 +28,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Mysterious Summons | 0.20% | ~448 |
 | Building Trust | 0.20% | ~448 |
 | Unearthed Evil | 0.20% | ~448 |
+| The Mists of Ravenloft | 0.20% | ~448 |
 | The Dinner Party | 0.20% | ~448 |
 | The Botched Kidnapping | 0.20% | ~448 |
 | The Crumbling Temple | 0.20% | ~448 |
@@ -195,7 +196,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Azaka's Procession - Part 2 | 0.10% | ~224 |
 | Acererak's Puzzle | 0.10% | ~190 |
 | No Time To Rest | 0.10% | ~224 |
-| The Mists of Ravenloft | 0.10% | ~224 |
 | The Hunt for Owl-y | 0.10% | ~224 |
 | Invisible Shadows | 0.10% | ~224 |
 | Werewolves in the Mist | 0.10% | ~224 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~190 |
 | Animated Giff | 0.10% | ~190 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 223,954 (Ranked 53)  
+Progressed: 223,966 (Ranked 53)  
 Completed: 2,202 (0.98%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -646,7 +646,7 @@ Completed: 2,202 (0.98%) (Ranked 120)
 | 2023-08-18 | 223,142 | 2,190 |
 | 2023-08-19 | 223,443 | 2,193 |
 | 2023-08-20 | 223,729 | 2,196 |
-| 2023-08-21 | 223,954 | 2,202 |
+| 2023-08-21 | 223,966 | 2,202 |
 ## Awards
 Max (Diverse Characters): 5,176  (Ranked 68)  
 Sum: 31,155 (Ranked 38)  

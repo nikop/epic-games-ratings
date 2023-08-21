@@ -1441,9 +1441,9 @@
       "Count": 246
     }
   ],
-  "EOS_Progressed": 196296,
+  "EOS_Progressed": 196302,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 2634,
+  "EOS_NewPlayers": 2619,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -15106,6 +15106,11 @@
       "Time": "2023-08-21T19:04:22.8957081+00:00",
       "NumProgressed": 196296,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2023-08-21T20:04:23.9458557+00:00",
+      "NumProgressed": 196302,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 44,
@@ -15245,7 +15250,7 @@
       "Name": "Merciful",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 981
+      "UsersEstimate": 982
     },
     {
       "ID": "Meticulous",
@@ -15413,7 +15418,7 @@
       "Name": "Time Paradox",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 981
+      "UsersEstimate": 982
     },
     {
       "ID": "UndeservedHonor",
@@ -15468,15 +15473,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 196296,
+      "Progressed": 196302,
       "Completed": 71
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-08-21T17:01:59.9333838+00:00",
-  "LastChanged_Achievements": "2023-08-21T19:04:22.8957075+00:00",
+  "LastChanged_Achievements": "2023-08-21T20:04:23.945855+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:40.2855763+00:00",
-  "LastUpdate_Ratings": "2023-08-21T19:01:48.9628335+00:00",
-  "LastUpdate_Achievements": "2023-08-21T19:04:22.8958283+00:00"
+  "LastUpdate_Ratings": "2023-08-21T20:02:07.4213422+00:00",
+  "LastUpdate_Achievements": "2023-08-21T20:04:23.945972+00:00"
 }

@@ -21,12 +21,12 @@ Number of Ratings: 12,664  (23.09.2022)
 | Own the Means of Production | 0.70% | ~944 |
 | One-Armed Bandit | 0.60% | ~809 |
 | Through Repetition, Perfection | 0.60% | ~809 |
-| The Daily Grind | 0.50% | ~674 |
-| Bounty Hunters | 0.50% | ~674 |
-| Demand for Supplies | 0.50% | ~674 |
-| Flooding the Market | 0.50% | ~674 |
-| Where it Hurts | 0.50% | ~674 |
-| Dungeon Imports | 0.50% | ~674 |
+| The Daily Grind | 0.50% | ~675 |
+| Bounty Hunters | 0.50% | ~675 |
+| Demand for Supplies | 0.50% | ~675 |
+| Flooding the Market | 0.50% | ~675 |
+| Where it Hurts | 0.50% | ~675 |
+| Dungeon Imports | 0.50% | ~675 |
 | On the Path to Greatness | 0.40% | ~540 |
 | Ascended | 0.40% | ~540 |
 | Vanity, Verily | 0.40% | ~540 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~135 |
 | Cash Only Please | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,900 (Ranked 66)  
+Progressed: 134,904 (Ranked 66)  
 Completed: 134 (0.10%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -242,7 +242,7 @@ Completed: 134 (0.10%) (Ranked 208)
 | 2023-08-18 | 134,736 | 133 |
 | 2023-08-19 | 134,791 | 133 |
 | 2023-08-20 | 134,856 | 133 |
-| 2023-08-21 | 134,900 | 134 |
+| 2023-08-21 | 134,904 | 134 |
 ## Awards
 Max (Great for Beginners): 4,707  (Ranked 71)  
 Sum: 27,122 (Ranked 46)  

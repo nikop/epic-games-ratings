@@ -19,7 +19,7 @@ Rating: 4.49 (Ranked 577)
 | Clutch Capture | 40.00% | ~10,099 |
 | Back Off | 35.00% | ~8,836 |
 | Daily Dose | 34.00% | ~8,584 |
-| Solo Capture | 32.00% | ~8,079 |
+| Solo Capture | 33.00% | ~8,332 |
 | Welcome to the Crew | 31.00% | ~7,827 |
 | Ghostbuster In Training | 30.00% | ~7,574 |
 | Icing on the Cake | 30.00% | ~7,574 |

@@ -5986,9 +5986,9 @@
       "Count": 3365
     }
   ],
-  "EOS_Progressed": 223954,
+  "EOS_Progressed": 223966,
   "EOS_Completed": 2202,
-  "EOS_NewPlayers": 2074,
+  "EOS_NewPlayers": 2068,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -19431,6 +19431,11 @@
       "Time": "2023-08-21T19:06:12.6792026+00:00",
       "NumProgressed": 223954,
       "NumCompleted": 2202
+    },
+    {
+      "Time": "2023-08-21T20:06:21.9296215+00:00",
+      "NumProgressed": 223966,
+      "NumCompleted": 2202
     }
   ],
   "TotalAchievements": 516,
@@ -20784,9 +20789,9 @@
       "ID": "objective_completed_208",
       "SetID": "cc37lbc",
       "Name": "The Mists of Ravenloft",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 224
+      "UsersEstimate": 448
     },
     {
       "ID": "objective_completed_209",
@@ -23569,21 +23574,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 190228,
+      "Progressed": 190240,
       "Completed": 3286
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 223954,
+      "Progressed": 223966,
       "Completed": 2202
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-21T19:00:39.2668646+00:00",
-  "LastChanged_Achievements": "2023-08-21T19:06:12.6792018+00:00",
+  "LastChanged_Achievements": "2023-08-21T20:06:21.929621+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:12.3267162+00:00",
-  "LastUpdate_Ratings": "2023-08-21T19:00:39.2668652+00:00",
-  "LastUpdate_Achievements": "2023-08-21T19:06:12.6824567+00:00"
+  "LastUpdate_Ratings": "2023-08-21T20:00:50.2217132+00:00",
+  "LastUpdate_Achievements": "2023-08-21T20:06:21.9326868+00:00"
 }

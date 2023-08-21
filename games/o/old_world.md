@@ -245,6 +245,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Alexander the Great | 0.10% | ~14 |
 | Alexander the Alright | 0.10% | ~14 |
 | Toppling the Giants | 0.10% | ~14 |
+| The Eastern Empire | 0.10% | ~14 |
 | Hardcore | 0.10% | ~14 |
 | Learn By Playing 1 - Able | 0.10% | ~14 |
 | Learn By Playing 2 - Just | 0.10% | ~14 |
@@ -296,7 +297,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Not a Scratch | 0.00% | ~0 |
 | Youth Prevails | 0.00% | ~0 |
 | Rule of Pharaohs | 0.00% | ~0 |
-| The Eastern Empire | 0.00% | ~0 |
 | Mausoleum in Halicarnassus | 0.00% | ~0 |
 | Knowledge of the Ancients | 0.00% | ~0 |
 | Colossus in Rhodes | 0.00% | ~0 |

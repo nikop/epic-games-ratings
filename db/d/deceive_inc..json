@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewPlayers": 104,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17534,
+  "EOS_Progressed": 17537,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 165,
+  "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8751,6 +8751,11 @@
       "Time": "2023-08-21T19:06:02.4838883+00:00",
       "NumProgressed": 17534,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-21T20:06:12.4816303+00:00",
+      "NumProgressed": 17537,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -8762,7 +8767,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5085
+      "UsersEstimate": 5086
     },
     {
       "ID": "0002",
@@ -8818,7 +8823,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3156
+      "UsersEstimate": 3157
     },
     {
       "ID": "0009",
@@ -8826,7 +8831,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4033
+      "UsersEstimate": 4034
     },
     {
       "ID": "0010",
@@ -8850,7 +8855,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2805
+      "UsersEstimate": 2806
     },
     {
       "ID": "0013",
@@ -8858,7 +8863,7 @@
       "Name": "Keycards Royale",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1753
+      "UsersEstimate": 1754
     },
     {
       "ID": "0014",
@@ -8890,7 +8895,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3331
+      "UsersEstimate": 3332
     },
     {
       "ID": "0018",
@@ -8898,7 +8903,7 @@
       "Name": "In It to Win It",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1753
+      "UsersEstimate": 1754
     },
     {
       "ID": "0019",
@@ -8946,7 +8951,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 3857
+      "UsersEstimate": 3858
     },
     {
       "ID": "0025",
@@ -8954,7 +8959,7 @@
       "Name": "Tailor-Made",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3156
+      "UsersEstimate": 3157
     },
     {
       "ID": "0026",
@@ -8978,7 +8983,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4033
+      "UsersEstimate": 4034
     },
     {
       "ID": "0029",
@@ -8986,7 +8991,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2279
+      "UsersEstimate": 2280
     },
     {
       "ID": "0030",
@@ -8994,7 +8999,7 @@
       "Name": "For your Eyes only",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3156
+      "UsersEstimate": 3157
     },
     {
       "ID": "0031",
@@ -9049,7 +9054,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17534,
+      "Progressed": 17537,
       "Completed": 1
     }
   ],
@@ -9057,8 +9062,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-12T19:04:41.1874293+00:00",
-  "LastChanged_Achievements": "2023-08-21T19:06:02.4838875+00:00",
+  "LastChanged_Achievements": "2023-08-21T20:06:12.4816293+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:28.6624095+00:00",
-  "LastUpdate_Ratings": "2023-08-21T18:57:25.2525599+00:00",
-  "LastUpdate_Achievements": "2023-08-21T19:06:02.4840024+00:00"
+  "LastUpdate_Ratings": "2023-08-21T19:57:28.31533+00:00",
+  "LastUpdate_Achievements": "2023-08-21T20:06:12.4817216+00:00"
 }

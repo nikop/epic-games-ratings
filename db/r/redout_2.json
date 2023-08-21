@@ -986,9 +986,9 @@
       "ID": "CAREERCLASSB",
       "SetID": "3dh70f3",
       "Name": "Enter the Speed Gauntlet",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 266
+      "UsersEstimate": 278
     },
     {
       "ID": "CAREERCLASSMASTERS",
@@ -1130,9 +1130,9 @@
       "ID": "ONEAESTHETIC",
       "SetID": "3dh70f3",
       "Name": "I just can\u0027t choose",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 266
+      "UsersEstimate": 278
     },
     {
       "ID": "ONELIVERY",
@@ -1259,8 +1259,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-07-10T22:58:27.6839393+00:00",
-  "LastChanged_Achievements": "2023-08-21T19:06:24.5676396+00:00",
+  "LastChanged_Achievements": "2023-08-21T20:06:33.0224537+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:25.0884142+00:00",
-  "LastUpdate_Ratings": "2023-08-21T18:58:09.1825942+00:00",
-  "LastUpdate_Achievements": "2023-08-21T19:06:24.5677088+00:00"
+  "LastUpdate_Ratings": "2023-08-21T19:58:20.6044674+00:00",
+  "LastUpdate_Achievements": "2023-08-21T20:06:33.0225401+00:00"
 }

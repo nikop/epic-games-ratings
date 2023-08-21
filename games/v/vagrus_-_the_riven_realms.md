@@ -50,6 +50,7 @@
 | Wyrmslayer | 2.00% | ~3 |
 | Unseen Patterns | 2.00% | ~3 |
 | Voracity Confronted | 2.00% | ~3 |
+| Insectoid Propagator | 2.00% | ~3 |
 | Watcher | 0.80% | ~1 |
 | Executor | 0.80% | ~1 |
 | Loremaster | 0.80% | ~1 |
@@ -64,7 +65,6 @@
 | Arcanite | 0.80% | ~1 |
 | Merchant Lord | 0.80% | ~1 |
 | Glorious leader | 0.80% | ~1 |
-| Insectoid Propagator | 0.80% | ~1 |
 | Liberator | 0.00% | ~0 |
 | For the Cause! | 0.00% | ~0 |
 | Death Denied | 0.00% | ~0 |

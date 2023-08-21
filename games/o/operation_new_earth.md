@@ -12,8 +12,8 @@
 | Covert Operative | 13.00% | ~133 |
 | Lieutenant | 11.00% | ~113 |
 | On Target | 11.00% | ~113 |
-| Getting Deployment | 10.00% | ~102 |
-| Stocking Up | 10.00% | ~102 |
+| Getting Deployment | 10.00% | ~103 |
+| Stocking Up | 10.00% | ~103 |
 | Fighting for Survival | 9.00% | ~92 |
 | Keeping Busy | 9.00% | ~92 |
 | Infantry Reporting | 9.00% | ~92 |
@@ -27,12 +27,12 @@
 | Moving On Up | 4.00% | ~41 |
 | Silver Achiever | 3.00% | ~31 |
 | Major | 3.00% | ~31 |
-| Gold Achiever | 2.00% | ~20 |
-| Advanced Warfare | 2.00% | ~20 |
-| Colonel | 2.00% | ~20 |
-| Resourceful | 2.00% | ~20 |
-| Battle Ready | 2.00% | ~20 |
-| Control the Skies | 2.00% | ~20 |
+| Gold Achiever | 2.00% | ~21 |
+| Advanced Warfare | 2.00% | ~21 |
+| Colonel | 2.00% | ~21 |
+| Resourceful | 2.00% | ~21 |
+| Battle Ready | 2.00% | ~21 |
+| Control the Skies | 2.00% | ~21 |
 | General | 1.00% | ~10 |
 | Seek & Destroy | 1.00% | ~10 |
 | Titan Tanks | 1.00% | ~10 |
@@ -43,7 +43,7 @@
 | Platinum Achiever | 0.00% | ~0 |
 | Platinum Competitor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,025 (Ranked 198)  
+Progressed: 1,026 (Ranked 198)  
 Completed: 0 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,4 +117,4 @@ Completed: 0 (0.00%) (Ranked 261)
 | 2023-08-18 | 967 | 0 |
 | 2023-08-19 | 988 | 0 |
 | 2023-08-20 | 1,011 | 0 |
-| 2023-08-21 | 1,025 | 0 |
+| 2023-08-21 | 1,026 | 0 |

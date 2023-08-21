@@ -4,8 +4,8 @@
 Rating: 3.78 (Ranked 964)  
 ## Awards
 Max (Relaxing): 70  (Ranked 378)  
-Sum: 197 (Ranked 371)  
-Diff (max vs sum): 7  
+Sum: 137 (Ranked 400)  
+Diff (max vs sum): -22  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 70 |
@@ -118,3 +118,4 @@ Diff (max vs sum): 7
 | 2023-08-11 | 3.78 | 69 | 195 |
 | 2023-08-12 | 3.78 | 70 | 196 |
 | 2023-08-19 | 3.78 | 70 | 197 |
+| 2023-08-21 | 3.78 | 70 | 137 |

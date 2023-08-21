@@ -4,7 +4,7 @@
   "ProductSlug": "titan-quest",
   "Ranking_Rating": 256,
   "Ranking_Popularity": 351,
-  "Ranking_PopularitySum": 395,
+  "Ranking_PopularitySum": 394,
   "Ranking_EOS_Progress": 550,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 351,
@@ -469,6 +469,6 @@
   "FirstSeen": "2022-07-22T20:21:19.7700636+00:00",
   "LastChanged": "2023-08-20T03:02:13.740837+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:47.6355081+00:00",
-  "LastUpdate_Ratings": "2023-08-21T19:00:21.3849378+00:00",
-  "LastUpdate_Achievements": "2023-08-21T19:06:48.2517873+00:00"
+  "LastUpdate_Ratings": "2023-08-21T20:00:26.3646935+00:00",
+  "LastUpdate_Achievements": "2023-08-21T20:06:56.5385141+00:00"
 }
