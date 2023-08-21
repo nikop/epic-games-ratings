@@ -9,7 +9,7 @@
 | 7 | [Overloop](games/o/overloop.md) | 25.00% |
 | 8 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 24.07% |
-| 10 | [Volley Pals](games/v/volley_pals.md) | 24.00% |
+| 10 | [Volley Pals](games/v/volley_pals.md) | 23.76% |
 | 11 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 22.79% |
 | 12 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 12 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
@@ -37,8 +37,8 @@
 | 35 | [Ravenlok](games/r/ravenlok.md) | 7.51% |
 | 36 | [Smelter](games/s/smelter.md) | 7.50% |
 | 37 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 7.14% |
-| 37 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.14% |
-| 39 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.05% |
+| 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.05% |
+| 39 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.02% |
 | 40 | [Scorn](games/s/scorn.md) | 7.01% |
 | 41 | [Time Loader](games/t/time_loader.md) | 6.78% |
 | 42 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.70% |
@@ -64,7 +64,7 @@
 | 62 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.93% |
 | 63 | [ZZT!](games/z/zzt!.md) | 3.88% |
 | 64 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
-| 65 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.65% |
+| 65 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.62% |
 | 66 | [Without Escape](games/w/without_escape.md) | 3.57% |
 | 67 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 68 | [Doodle God](games/d/doodle_god.md) | 3.43% |
@@ -102,11 +102,11 @@
 | 99 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.67% |
 | 101 | [Iron Danger](games/i/iron_danger.md) | 1.59% |
 | 102 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.58% |
-| 103 | [Five Dates](games/f/five_dates.md) | 1.56% |
 | 103 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.56% |
+| 104 | [Five Dates](games/f/five_dates.md) | 1.55% |
 | 105 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.49% |
-| 106 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.47% |
-| 107 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.46% |
+| 106 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.46% |
+| 106 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.46% |
 | 108 | [Ten Dates](games/t/ten_dates.md) | 1.44% |
 | 109 | [Poosh XL](games/p/poosh_xl.md) | 1.41% |
 | 110 | [Late Shift](games/l/late_shift.md) | 1.29% |
@@ -548,4 +548,4 @@
 | 261 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 261 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 261 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,082 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,083 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
