@@ -442,9 +442,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1536214,
+  "EOS_Progressed": 1536216,
   "EOS_Completed": 667,
-  "EOS_NewPlayers": 1198,
+  "EOS_NewPlayers": 1197,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -14027,6 +14027,11 @@
       "Time": "2023-08-21T09:04:27.039514+00:00",
       "NumProgressed": 1536214,
       "NumCompleted": 667
+    },
+    {
+      "Time": "2023-08-21T10:04:16.550074+00:00",
+      "NumProgressed": 1536216,
+      "NumCompleted": 667
     }
   ],
   "TotalAchievements": 20,
@@ -14078,7 +14083,7 @@
       "Name": "Drift Line Master",
       "Percentage": 0.7,
       "XP": 90,
-      "UsersEstimate": 10753
+      "UsersEstimate": 10754
     },
     {
       "ID": "ACH_GOOD_SKILLS",
@@ -14102,7 +14107,7 @@
       "Name": "Insane Skills",
       "Percentage": 0.7,
       "XP": 95,
-      "UsersEstimate": 10753
+      "UsersEstimate": 10754
     },
     {
       "ID": "ACH_JELLY_FILLED_DONUTS",
@@ -14134,7 +14139,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 153621
+      "UsersEstimate": 153622
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -14197,15 +14202,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1536214,
+      "Progressed": 1536216,
       "Completed": 667
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-07-23T19:00:00.3270793+00:00",
-  "LastChanged_Achievements": "2023-08-21T09:04:27.0395134+00:00",
+  "LastChanged_Achievements": "2023-08-21T10:04:16.5500733+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:46.5539985+00:00",
-  "LastUpdate_Ratings": "2023-08-21T08:58:12.7292274+00:00",
-  "LastUpdate_Achievements": "2023-08-21T09:04:27.0396398+00:00"
+  "LastUpdate_Ratings": "2023-08-21T09:57:51.2474545+00:00",
+  "LastUpdate_Achievements": "2023-08-21T10:04:16.5501688+00:00"
 }

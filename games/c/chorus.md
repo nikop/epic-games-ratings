@@ -21,7 +21,7 @@ Number of Ratings: 58  (23.09.2022)
 | Payback | 53.00% | ~603 |
 | Huntress | 53.00% | ~603 |
 | Born to Drift | 51.00% | ~580 |
-| Relentless | 48.00% | ~546 |
+| Relentless | 49.00% | ~558 |
 | The Path Forward | 45.00% | ~512 |
 | Disruption | 44.00% | ~501 |
 | Phoenix | 44.00% | ~501 |

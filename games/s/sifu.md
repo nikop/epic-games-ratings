@@ -13,6 +13,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | The Hateful Pole Fighter | 2.00% | ~14,252 |
 | A Lady's Blood in the Snow | 2.00% | ~14,252 |
 | Lady Wing Chun | 2.00% | ~14,252 |
+| Furious Fists | 2.00% | ~14,252 |
 | Kill Nil | 2.00% | ~14,252 |
 | Stuntmaster | 2.00% | ~14,252 |
 | Street Fighting | 2.00% | ~14,252 |
@@ -24,7 +25,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Path of the Prospect | 2.00% | ~14,252 |
 | Rumble in the Hangar | 2.00% | ~14,252 |
 | Bloody Sport | 2.00% | ~438 |
-| Furious Fists | 1.00% | ~7,126 |
 | Scareless | 1.00% | ~7,126 |
 | Dance of the Praying Mantis | 1.00% | ~7,126 |
 | Qi Gong: Mind | 1.00% | ~7,126 |
@@ -41,9 +41,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | Iron Money | 0.70% | ~4,988 |
 | Legendary Talismans of Wuxing | 0.70% | ~4,988 |
 | A Touch of Acumen | 0.70% | ~153 |
-| Prodigal Child | 0.60% | ~4,275 |
-| The 36th Chamber of Kung-Fu | 0.60% | ~4,275 |
-| Sword Stained With Blood | 0.60% | ~4,275 |
+| Prodigal Child | 0.60% | ~4,276 |
+| The 36th Chamber of Kung-Fu | 0.60% | ~4,276 |
+| Sword Stained With Blood | 0.60% | ~4,276 |
 | Martial Hub | 0.50% | ~109 |
 | Drunken Fighter | 0.40% | ~2,850 |
 | Martial Artist | 0.40% | ~2,850 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,425 |
 | Warriors from the Mountain | 0.10% | ~713 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 712,582 (Ranked 20)  
+Progressed: 712,584 (Ranked 20)  
 Completed: 12,870 (1.81%) (Ranked 97)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 12,870 (1.81%) (Ranked 97)
 | 2023-08-18 | 712,513 | 12,863 |
 | 2023-08-19 | 712,545 | 12,866 |
 | 2023-08-20 | 712,574 | 12,870 |
-| 2023-08-21 | 712,582 | 12,870 |
+| 2023-08-21 | 712,584 | 12,870 |
 ## Awards
 Max (Great Boss Battles): 6,388  (Ranked 55)  
 Sum: 10,968 (Ranked 82)  

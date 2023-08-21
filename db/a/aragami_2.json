@@ -224,7 +224,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 41175,
+  "EOS_Progressed": 41176,
   "EOS_Completed": 208,
   "EOS_NewPlayers": 501,
   "EOS_NewCompleters": 1,
@@ -12559,6 +12559,11 @@
       "Time": "2023-08-21T07:07:18.8239839+00:00",
       "NumProgressed": 41175,
       "NumCompleted": 208
+    },
+    {
+      "Time": "2023-08-21T10:07:40.7462385+00:00",
+      "NumProgressed": 41176,
+      "NumCompleted": 208
     }
   ],
   "TotalAchievements": 44,
@@ -12578,7 +12583,7 @@
       "Name": "Lady",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 12764
+      "UsersEstimate": 12765
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -12690,7 +12695,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 32940
+      "UsersEstimate": 32941
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -12746,7 +12751,7 @@
       "Name": "Soul Reaver",
       "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 9058
+      "UsersEstimate": 9059
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -12794,7 +12799,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 22646
+      "UsersEstimate": 22647
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -12810,7 +12815,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 25940
+      "UsersEstimate": 25941
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -12818,7 +12823,7 @@
       "Name": "Fashionable Assassin",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 11117
+      "UsersEstimate": 11118
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -12834,7 +12839,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 24705
+      "UsersEstimate": 24706
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -12842,7 +12847,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 27587
+      "UsersEstimate": 27588
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -12906,7 +12911,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 38293
+      "UsersEstimate": 38294
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -12914,14 +12919,14 @@
       "Name": "Revenant",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 21411
+      "UsersEstimate": 21412
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 41175,
+      "Progressed": 41176,
       "Completed": 208
     }
   ],
@@ -12929,8 +12934,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-06-11T14:58:10.4478603+00:00",
-  "LastChanged_Achievements": "2023-08-21T09:08:05.0402815+00:00",
+  "LastChanged_Achievements": "2023-08-21T10:07:40.7462376+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:33.5311215+00:00",
-  "LastUpdate_Ratings": "2023-08-21T09:01:53.3514778+00:00",
-  "LastUpdate_Achievements": "2023-08-21T09:08:05.0403928+00:00"
+  "LastUpdate_Ratings": "2023-08-21T10:01:40.7373469+00:00",
+  "LastUpdate_Achievements": "2023-08-21T10:07:40.7463507+00:00"
 }

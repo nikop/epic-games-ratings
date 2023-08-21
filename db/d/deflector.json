@@ -4,7 +4,7 @@
   "ProductSlug": "deflector-fedbe0",
   "Ranking_EOS_Progress": 550,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewPlayers": 357,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-08-22T16:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:11.2135241+00:00",
   "LastChanged": "2023-03-31T05:58:11.2135242+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:45.669789+00:00",
-  "LastUpdate_Ratings": "2023-08-21T08:57:29.7876276+00:00",
-  "LastUpdate_Achievements": "2023-08-21T09:07:30.9782649+00:00"
+  "LastUpdate_Ratings": "2023-08-21T09:57:05.1026258+00:00",
+  "LastUpdate_Achievements": "2023-08-21T10:07:10.215348+00:00"
 }

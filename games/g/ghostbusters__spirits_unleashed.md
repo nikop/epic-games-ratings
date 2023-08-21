@@ -6,7 +6,7 @@ Rating: 4.49 (Ranked 577)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Stylish | 86.00% | ~21,706 |
-| Advancement | 72.00% | ~18,173 |
+| Advancement | 73.00% | ~18,425 |
 | Meticulously Efficient | 63.00% | ~15,901 |
 | Discovery | 61.00% | ~15,396 |
 | Swift Rift Removers | 54.00% | ~13,630 |

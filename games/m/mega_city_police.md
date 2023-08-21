@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Welcome to Mega City | 103.00% | ~32 |
 | Law and Order | 77.00% | ~24 |
-| Licence To Kill | 68.00% | ~21 |
+| Licence To Kill | 71.00% | ~22 |
 | Hammer Time | 42.00% | ~13 |
 | Escape From M.C. | 32.00% | ~10 |
 | Restore Honor | 32.00% | ~10 |

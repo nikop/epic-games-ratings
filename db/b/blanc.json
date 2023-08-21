@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2540,
+  "EOS_Progressed": 2541,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -2683,6 +2683,11 @@
       "Time": "2023-08-21T09:06:44.9355113+00:00",
       "NumProgressed": 2540,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-08-21T10:06:08.0388937+00:00",
+      "NumProgressed": 2541,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -2702,7 +2707,7 @@
       "Name": "A big leap for wolfkind",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "FALLEN_TREE",
@@ -2758,7 +2763,7 @@
       "Name": "Starting as a duo",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -2788,16 +2793,16 @@
       "ID": "UNEXPECTED_ENCOUNTER",
       "SetID": "1a29mp6",
       "Name": "Unexpected encounter",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 483
+      "UsersEstimate": 457
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2540,
+      "Progressed": 2541,
       "Completed": 6
     }
   ],
@@ -2805,8 +2810,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-08-21T09:06:44.9355108+00:00",
+  "LastChanged_Achievements": "2023-08-21T10:06:08.0388932+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:53.8347436+00:00",
-  "LastUpdate_Ratings": "2023-08-21T09:03:06.2954115+00:00",
-  "LastUpdate_Achievements": "2023-08-21T09:06:44.935546+00:00"
+  "LastUpdate_Ratings": "2023-08-21T10:03:01.5635598+00:00",
+  "LastUpdate_Achievements": "2023-08-21T10:06:08.0389193+00:00"
 }

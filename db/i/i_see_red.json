@@ -4,7 +4,7 @@
   "ProductSlug": "i-see-red-de79ef",
   "Ranking_EOS_Progress": 550,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewPlayers": 357,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-10-24T12:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-04-14T13:04:18.0087101+00:00",
   "LastChanged": "2023-04-14T13:04:18.0087102+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:53.4681774+00:00",
-  "LastUpdate_Ratings": "2023-08-21T08:58:20.3538937+00:00",
-  "LastUpdate_Achievements": "2023-08-21T09:05:28.9788705+00:00"
+  "LastUpdate_Ratings": "2023-08-21T09:57:56.9126717+00:00",
+  "LastUpdate_Achievements": "2023-08-21T10:05:13.3613564+00:00"
 }

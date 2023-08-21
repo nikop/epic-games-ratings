@@ -26,7 +26,7 @@ Rating: 4.68 (Ranked 238)
 | Bookworm | 44.00% | ~266 |
 | Up In Flames | 44.00% | ~266 |
 | Going Once... | 40.00% | ~242 |
-| Let Me Be Frank | 39.00% | ~236 |
+| Let Me Be Frank | 40.00% | ~242 |
 | Brain Food | 38.00% | ~230 |
 | No Stone Unturned | 37.00% | ~224 |
 | Read It And Weep | 23.00% | ~139 |

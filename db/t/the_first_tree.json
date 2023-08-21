@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewPlayers": 98,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -244,9 +244,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 35127,
+  "EOS_Progressed": 35128,
   "EOS_Completed": 106,
-  "EOS_NewPlayers": 266,
+  "EOS_NewPlayers": 264,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -11484,6 +11484,11 @@
       "Time": "2023-08-21T07:07:29.6975063+00:00",
       "NumProgressed": 35127,
       "NumCompleted": 106
+    },
+    {
+      "Time": "2023-08-21T10:07:51.1561647+00:00",
+      "NumProgressed": 35128,
+      "NumCompleted": 106
     }
   ],
   "TotalAchievements": 14,
@@ -11543,7 +11548,7 @@
       "Name": "Joseph",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 3161
+      "UsersEstimate": 3162
     },
     {
       "ID": "completionist",
@@ -11583,7 +11588,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 27048
+      "UsersEstimate": 27049
     },
     {
       "ID": "roots",
@@ -11606,15 +11611,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 35127,
+      "Progressed": 35128,
       "Completed": 106
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-07-24T04:01:31.3679912+00:00",
-  "LastChanged_Achievements": "2023-08-21T09:08:16.5315303+00:00",
+  "LastChanged_Achievements": "2023-08-21T10:07:51.1561638+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:18.9588261+00:00",
-  "LastUpdate_Ratings": "2023-08-21T08:59:04.5502283+00:00",
-  "LastUpdate_Achievements": "2023-08-21T09:08:16.5316147+00:00"
+  "LastUpdate_Ratings": "2023-08-21T09:58:41.6986264+00:00",
+  "LastUpdate_Achievements": "2023-08-21T10:07:51.156252+00:00"
 }

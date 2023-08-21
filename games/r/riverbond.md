@@ -6,14 +6,14 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~367,871 |
+| First Step | 70.00% | ~367,872 |
 | Now You're Talking | 62.00% | ~325,829 |
 | Steel Yourself | 62.00% | ~325,829 |
-| Window Dressing | 50.00% | ~262,765 |
+| Window Dressing | 50.00% | ~262,766 |
 | Trigger Happy | 46.00% | ~241,744 |
-| Riverborn | 45.00% | ~236,488 |
-| Starry Eyed | 34.00% | ~178,680 |
-| Poking Around | 34.00% | ~178,680 |
+| Riverborn | 45.00% | ~236,489 |
+| Starry Eyed | 34.00% | ~178,681 |
+| Poking Around | 34.00% | ~178,681 |
 | Talk of the Town | 24.00% | ~126,127 |
 | AAARR! | 23.00% | ~120,872 |
 | Hello Darkness | 23.00% | ~120,872 |
@@ -38,10 +38,10 @@ Number of Ratings: 617  (23.09.2022)
 | Mind the Moose | 6.00% | ~31,532 |
 | Dressed to Kill | 6.00% | ~31,532 |
 | Beast Mode | 6.00% | ~31,532 |
-| Oh, Romeo! | 5.00% | ~26,276 |
-| Noble Intentions | 5.00% | ~26,276 |
-| Rising Star | 5.00% | ~26,276 |
-| Slime Slayer | 5.00% | ~26,276 |
+| Oh, Romeo! | 5.00% | ~26,277 |
+| Noble Intentions | 5.00% | ~26,277 |
+| Rising Star | 5.00% | ~26,277 |
+| Slime Slayer | 5.00% | ~26,277 |
 | Privacy, Please! | 4.00% | ~21,021 |
 | Silky Smooth | 4.00% | ~21,021 |
 | Hash It Over | 4.00% | ~21,021 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,577 |
 | Point Taken | 0.10% | ~526 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 525,530 (Ranked 31)  
+Progressed: 525,531 (Ranked 31)  
 Completed: 462 (0.09%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 462 (0.09%) (Ranked 213)
 | 2023-08-18 | 525,304 | 461 |
 | 2023-08-19 | 525,405 | 461 |
 | 2023-08-20 | 525,506 | 462 |
-| 2023-08-21 | 525,530 | 462 |
+| 2023-08-21 | 525,531 | 462 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

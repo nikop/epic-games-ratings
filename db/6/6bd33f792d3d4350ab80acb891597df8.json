@@ -285,9 +285,9 @@
       "ID": "CgkIxYDzrbcPEAIQAQ",
       "SetID": "4egpam7",
       "Name": "Catacomb Crawl",
-      "Percentage": 84,
+      "Percentage": 86,
       "XP": 30,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "CgkIxYDzrbcPEAIQAg",
@@ -357,9 +357,9 @@
       "ID": "CgkIxYDzrbcPEAIQCg",
       "SetID": "4egpam7",
       "Name": "Pest Control",
-      "Percentage": 88,
+      "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "CgkIxYDzrbcPEAIQCw",
@@ -397,9 +397,9 @@
       "ID": "CgkIxYDzrbcPEAIQDw",
       "SetID": "4egpam7",
       "Name": "Dear Diary",
-      "Percentage": 92,
+      "Percentage": 94,
       "XP": 30,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "CgkIxYDzrbcPEAIQEA",
@@ -517,9 +517,9 @@
       "ID": "CgkIxYDzrbcPEAIQHg",
       "SetID": "4egpam7",
       "Name": "Curious Soul",
-      "Percentage": 31,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     }
   ],
   "AchievementSets": [
@@ -532,8 +532,8 @@
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2023-08-21T09:08:47.5377494+00:00",
+  "LastChanged_Achievements": "2023-08-21T10:08:19.7644353+00:00",
   "LastUpdate_AppInfo": "2023-08-15T14:57:10.6397592+00:00",
-  "LastUpdate_Ratings": "2023-08-21T08:59:52.1833087+00:00",
-  "LastUpdate_Achievements": "2023-08-21T09:08:47.5377763+00:00"
+  "LastUpdate_Ratings": "2023-08-21T09:59:31.1912652+00:00",
+  "LastUpdate_Achievements": "2023-08-21T10:08:19.76446+00:00"
 }
