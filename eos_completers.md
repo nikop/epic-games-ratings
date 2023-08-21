@@ -51,9 +51,9 @@
 | 47 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.36% |
 | 50 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.13% |
 | 51 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.91% |
-| 52 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 4.81% |
-| 53 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.80% |
-| 54 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 4.76% |
+| 52 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.80% |
+| 53 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 4.76% |
+| 53 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 4.76% |
 | 55 | [Bugsnax](games/b/bugsnax.md) | 4.72% |
 | 56 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 57 | [JARS](games/j/jars.md) | 4.55% |
@@ -70,7 +70,7 @@
 | 68 | [Bunny Park](games/b/bunny_park.md) | 3.37% |
 | 69 | [The Complex](games/t/the_complex.md) | 3.35% |
 | 70 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.30% |
-| 71 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.26% |
+| 71 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.24% |
 | 72 | [HordeCore](games/h/hordecore.md) | 3.15% |
 | 73 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.05% |
 | 74 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.04% |
