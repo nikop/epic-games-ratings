@@ -5,7 +5,7 @@ Rating: 4.63 (Ranked 329)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| En Garde! | 67.00% | ~2 |
+| En Garde! | 100.00% | ~3 |
 | Supersleuth | 67.00% | ~2 |
 | Déjà Vu | 33.00% | ~1 |
 | Somebody Set Up Us The Bomb | 33.00% | ~1 |

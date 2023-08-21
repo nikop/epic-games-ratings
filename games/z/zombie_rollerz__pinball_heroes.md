@@ -23,7 +23,7 @@
 | The Idol | 28.00% | ~40 |
 | The Ninja | 27.00% | ~38 |
 | Inferno Ruins | 26.00% | ~37 |
-| I'm Rich | 24.00% | ~34 |
+| I'm Rich | 25.00% | ~36 |
 | 1 is all I need | 23.00% | ~33 |
 | The Slime | 23.00% | ~33 |
 | Untouchable | 22.00% | ~31 |

@@ -4,7 +4,7 @@
   "ProductSlug": "zombie-rollerz-7aa027",
   "Ranking_EOS_Progress": 308,
   "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-03-02T18:00:00+00:00",
@@ -676,9 +676,9 @@
       "ID": "PRG_ACCUM_GOLD",
       "SetID": "89cjc9l",
       "Name": "I\u0027m Rich",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "PRG_BOSS_BIRD",
@@ -1093,8 +1093,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-03-31T05:56:59.5373099+00:00",
-  "LastChanged_Achievements": "2023-08-21T10:03:22.8703445+00:00",
+  "LastChanged_Achievements": "2023-08-21T11:02:30.4975816+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:56.8894858+00:00",
-  "LastUpdate_Ratings": "2023-08-21T10:00:11.9273452+00:00",
-  "LastUpdate_Achievements": "2023-08-21T10:03:22.8704123+00:00"
+  "LastUpdate_Ratings": "2023-08-21T11:00:27.7347374+00:00",
+  "LastUpdate_Achievements": "2023-08-21T11:02:30.4976476+00:00"
 }

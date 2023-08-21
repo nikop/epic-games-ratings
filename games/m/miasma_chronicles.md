@@ -48,8 +48,8 @@ Rating: 4.42 (Ranked 671)
 | Wipe Out | 7.00% | ~96 |
 | Master Editor | 5.00% | ~69 |
 | Attenborough | 4.00% | ~55 |
+| Bookworm | 3.00% | ~41 |
 | Cruelty | 3.00% | ~41 |
-| Bookworm | 2.00% | ~27 |
 | Five Finger Deathcount | 1.00% | ~14 |
 | Shadow Boxin' | 1.00% | ~14 |
 | Alpha Editor | 0.90% | ~12 |

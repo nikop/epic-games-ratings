@@ -5974,9 +5974,9 @@
       "Count": 3365
     }
   ],
-  "EOS_Progressed": 223845,
+  "EOS_Progressed": 223856,
   "EOS_Completed": 2200,
-  "EOS_NewPlayers": 2090,
+  "EOS_NewPlayers": 2089,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -19374,6 +19374,11 @@
       "Time": "2023-08-21T10:06:39.734115+00:00",
       "NumProgressed": 223845,
       "NumCompleted": 2200
+    },
+    {
+      "Time": "2023-08-21T11:06:38.0003127+00:00",
+      "NumProgressed": 223856,
+      "NumCompleted": 2200
     }
   ],
   "TotalAchievements": 516,
@@ -19385,7 +19390,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2238
+      "UsersEstimate": 2239
     },
     {
       "ID": "objective_completed_10",
@@ -20063,9 +20068,9 @@
       "ID": "objective_completed_1163",
       "SetID": "415jc5c",
       "Name": "Vecna Lives!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 190
+      "UsersEstimate": 380
     },
     {
       "ID": "objective_completed_1164",
@@ -23497,7 +23502,7 @@
       "Name": "To Infinity\u0027s and Beyond",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 760
+      "UsersEstimate": 761
     },
     {
       "ID": "objective_completed_1401",
@@ -23512,21 +23517,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 190119,
-      "Completed": 3283
+      "Progressed": 190130,
+      "Completed": 3284
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 223845,
+      "Progressed": 223856,
       "Completed": 2200
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-21T06:00:48.5329287+00:00",
-  "LastChanged_Achievements": "2023-08-21T10:06:39.7341144+00:00",
+  "LastChanged_Achievements": "2023-08-21T11:06:38.0003122+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:12.3267162+00:00",
-  "LastUpdate_Ratings": "2023-08-21T10:01:17.9303486+00:00",
-  "LastUpdate_Achievements": "2023-08-21T10:06:39.7371764+00:00"
+  "LastUpdate_Ratings": "2023-08-21T11:01:07.0152273+00:00",
+  "LastUpdate_Achievements": "2023-08-21T11:06:38.0028102+00:00"
 }

@@ -410,10 +410,10 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 84823,
-  "EOS_Completed": 831,
-  "EOS_NewPlayers": 1307,
-  "EOS_NewCompleters": 17,
+  "EOS_Progressed": 84828,
+  "EOS_Completed": 832,
+  "EOS_NewPlayers": 1305,
+  "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
@@ -14020,6 +14020,11 @@
       "Time": "2023-08-21T10:07:07.6403182+00:00",
       "NumProgressed": 84823,
       "NumCompleted": 831
+    },
+    {
+      "Time": "2023-08-21T11:06:43.5891506+00:00",
+      "NumProgressed": 84828,
+      "NumCompleted": 832
     }
   ],
   "TotalAchievements": 56,
@@ -14031,7 +14036,7 @@
       "Name": "Just The Two of Us",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 27143
+      "UsersEstimate": 27145
     },
     {
       "ID": "ach_001_game_complete",
@@ -14071,7 +14076,7 @@
       "Name": "The Machinist Mask",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 8482
+      "UsersEstimate": 8483
     },
     {
       "ID": "ach_006_beetle_mask",
@@ -14087,7 +14092,7 @@
       "Name": "The Climber Mask",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 5089
+      "UsersEstimate": 5090
     },
     {
       "ID": "ach_008_entertainer_mask",
@@ -14119,7 +14124,7 @@
       "Name": "The Merchant Mask",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 5089
+      "UsersEstimate": 5090
     },
     {
       "ID": "ach_012_cartographers_mask",
@@ -14127,7 +14132,7 @@
       "Name": "The Cartographer Mask",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 8482
+      "UsersEstimate": 8483
     },
     {
       "ID": "ach_013_collect_masks",
@@ -14135,7 +14140,7 @@
       "Name": "Many Different Faces",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 7634
+      "UsersEstimate": 7635
     },
     {
       "ID": "ach_014_first_chum_egg",
@@ -14151,7 +14156,7 @@
       "Name": "Honorary Chum",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 5089
+      "UsersEstimate": 5090
     },
     {
       "ID": "ach_016_door_dunboyne",
@@ -14159,7 +14164,7 @@
       "Name": "The Dunboyne",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 14420
+      "UsersEstimate": 14421
     },
     {
       "ID": "ach_017_door_trellicks_pillar",
@@ -14167,7 +14172,7 @@
       "Name": "Trellick\u0027s Pillar",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 7634
+      "UsersEstimate": 7635
     },
     {
       "ID": "ach_018_door_shadow_of_neave",
@@ -14191,7 +14196,7 @@
       "Name": "Centre Of Brunswick",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 7634
+      "UsersEstimate": 7635
     },
     {
       "ID": "ach_021_door_balfron_connection",
@@ -14199,7 +14204,7 @@
       "Name": "Balfron Connection",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 8482
+      "UsersEstimate": 8483
     },
     {
       "ID": "ach_022_reveal_any_monument",
@@ -14207,7 +14212,7 @@
       "Name": "Thread The Needle",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 12723
+      "UsersEstimate": 12724
     },
     {
       "ID": "ach_023_open_sandwyrm",
@@ -14231,7 +14236,7 @@
       "Name": "Ceiling Of Stars",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 8482
+      "UsersEstimate": 8483
     },
     {
       "ID": "ach_026_fix_wind_tower",
@@ -14239,7 +14244,7 @@
       "Name": "Up On High",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 21206
+      "UsersEstimate": 21207
     },
     {
       "ID": "ach_027_fix_atomic_heart",
@@ -14247,7 +14252,7 @@
       "Name": "Power to the People",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 11875
+      "UsersEstimate": 11876
     },
     {
       "ID": "ach_028_accuse_suspect",
@@ -14255,7 +14260,7 @@
       "Name": "Take That!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 11027
+      "UsersEstimate": 11028
     },
     {
       "ID": "ach_029_collect_lightning_crystal",
@@ -14279,7 +14284,7 @@
       "Name": "Nesting Giant",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 11027
+      "UsersEstimate": 11028
     },
     {
       "ID": "ach_032_collect_elephant_beetle",
@@ -14287,7 +14292,7 @@
       "Name": "Got Your Nose",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 20358
+      "UsersEstimate": 20359
     },
     {
       "ID": "ach_033_collect_slicer_beetle_poo",
@@ -14303,7 +14308,7 @@
       "Name": "A Hard Place",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 5089
+      "UsersEstimate": 5090
     },
     {
       "ID": "ach_035_collect_bike_parts_1",
@@ -14311,7 +14316,7 @@
       "Name": "Bike Collector",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 7634
+      "UsersEstimate": 7635
     },
     {
       "ID": "ach_036_collect_bike_parts_2",
@@ -14327,7 +14332,7 @@
       "Name": "Badge Hobbyist",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 14420
+      "UsersEstimate": 14421
     },
     {
       "ID": "ach_038_collect_badges_2",
@@ -14343,7 +14348,7 @@
       "Name": "Simoon",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 28840
+      "UsersEstimate": 28842
     },
     {
       "ID": "ach_040_customise_hoverbike",
@@ -14351,7 +14356,7 @@
       "Name": "Under The Hood",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 21206
+      "UsersEstimate": 21207
     },
     {
       "ID": "ach_041_talk_to_npcs_1",
@@ -14359,7 +14364,7 @@
       "Name": "The Gift of Gab",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 20358
+      "UsersEstimate": 20359
     },
     {
       "ID": "ach_042_talk_to_npcs_2",
@@ -14383,7 +14388,7 @@
       "Name": "More Than A Box Of Sand",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 15268
+      "UsersEstimate": 15269
     },
     {
       "ID": "ach_045_open_chests_2",
@@ -14391,7 +14396,7 @@
       "Name": "Treasure Tracker",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 11027
+      "UsersEstimate": 11028
     },
     {
       "ID": "ach_046_stay_airborne",
@@ -14399,7 +14404,7 @@
       "Name": "Bikes Don\u0027t Fly",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 5089
+      "UsersEstimate": 5090
     },
     {
       "ID": "ach_047_drive_long_distance",
@@ -14423,7 +14428,7 @@
       "Name": "Not That Kind Of Gliding",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 7634
+      "UsersEstimate": 7635
     },
     {
       "ID": "ach_050_collect_clothing_items_1",
@@ -14431,7 +14436,7 @@
       "Name": "Wrapping Up",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 18661
+      "UsersEstimate": 18662
     },
     {
       "ID": "ach_051_collect_clothing_items_2",
@@ -14439,7 +14444,7 @@
       "Name": "Playing Dress Up",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 8482
+      "UsersEstimate": 8483
     },
     {
       "ID": "ach_052_spend_cuts_1",
@@ -14447,7 +14452,7 @@
       "Name": "Big Spender",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 11027
+      "UsersEstimate": 11028
     },
     {
       "ID": "ach_053_angler_mask",
@@ -14471,22 +14476,22 @@
       "Name": "Vivacious Vivarium",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 1696
+      "UsersEstimate": 1697
     }
   ],
   "AchievementSets": [
     {
       "ID": "585ckk9",
       "IsBase": true,
-      "Progressed": 84823,
-      "Completed": 831
+      "Progressed": 84828,
+      "Completed": 832
     }
   ],
   "FirstSeen": "2022-07-22T20:31:24.3265081+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:25.3097347+00:00",
   "LastChanged": "2023-08-20T16:01:40.1861945+00:00",
-  "LastChanged_Achievements": "2023-08-21T10:07:07.6403177+00:00",
+  "LastChanged_Achievements": "2023-08-21T11:06:43.5891502+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:00:00.697515+00:00",
-  "LastUpdate_Ratings": "2023-08-21T10:03:07.8678861+00:00",
-  "LastUpdate_Achievements": "2023-08-21T10:07:07.6405068+00:00"
+  "LastUpdate_Ratings": "2023-08-21T11:02:17.4509297+00:00",
+  "LastUpdate_Achievements": "2023-08-21T11:06:43.5892583+00:00"
 }

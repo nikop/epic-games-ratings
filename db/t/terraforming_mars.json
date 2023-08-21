@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 77,
   "Ranking_EOS_Completed": 200,
   "Ranking_EOS_NewPlayers": 52,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
     "PcReleaseDate": "2018-10-16T00:00:00+00:00",
@@ -2656,9 +2656,9 @@
       "Count": 239
     }
   ],
-  "EOS_Progressed": 72667,
+  "EOS_Progressed": 72669,
   "EOS_Completed": 92,
-  "EOS_NewPlayers": 1002,
+  "EOS_NewPlayers": 991,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -16046,6 +16046,11 @@
       "Time": "2023-08-21T10:08:19.094426+00:00",
       "NumProgressed": 72667,
       "NumCompleted": 92
+    },
+    {
+      "Time": "2023-08-21T11:07:39.9885998+00:00",
+      "NumProgressed": 72669,
+      "NumCompleted": 92
     }
   ],
   "TotalAchievements": 30,
@@ -16081,7 +16086,7 @@
       "Name": "New Home",
       "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 17440
+      "UsersEstimate": 17441
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -16097,7 +16102,7 @@
       "Name": "Landlord",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 7993
+      "UsersEstimate": 7994
     },
     {
       "ID": "ACHIEVEMENT_06",
@@ -16105,7 +16110,7 @@
       "Name": "Biggest Reward",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 10173
+      "UsersEstimate": 10174
     },
     {
       "ID": "ACHIEVEMENT_07",
@@ -16113,7 +16118,7 @@
       "Name": "Most Achievements",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 7993
+      "UsersEstimate": 7994
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -16129,7 +16134,7 @@
       "Name": "Project Manager",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 14533
+      "UsersEstimate": 14534
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -16137,7 +16142,7 @@
       "Name": "It\u0027s a steal!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 26887
+      "UsersEstimate": 26888
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -16153,7 +16158,7 @@
       "Name": "Prop-M Rover",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 23253
+      "UsersEstimate": 23254
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -16185,7 +16190,7 @@
       "Name": "Beagle 2",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 17440
+      "UsersEstimate": 17441
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -16193,7 +16198,7 @@
       "Name": "Sojourner",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 19620
+      "UsersEstimate": 19621
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -16233,7 +16238,7 @@
       "Name": "Final touch",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 26887
+      "UsersEstimate": 26888
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -16249,7 +16254,7 @@
       "Name": "Frequent tester",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 5813
+      "UsersEstimate": 5814
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -16289,22 +16294,22 @@
       "Name": "Determined",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 5813
+      "UsersEstimate": 5814
     }
   ],
   "AchievementSets": [
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 72667,
+      "Progressed": 72669,
       "Completed": 92
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-08-20T14:01:02.8938989+00:00",
-  "LastChanged_Achievements": "2023-08-21T10:08:19.0944254+00:00",
+  "LastChanged_Achievements": "2023-08-21T11:07:39.988599+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:24.9562583+00:00",
-  "LastUpdate_Ratings": "2023-08-21T10:01:29.865832+00:00",
-  "LastUpdate_Achievements": "2023-08-21T10:08:19.0945711+00:00"
+  "LastUpdate_Ratings": "2023-08-21T11:01:15.9456159+00:00",
+  "LastUpdate_Achievements": "2023-08-21T11:07:39.9886822+00:00"
 }

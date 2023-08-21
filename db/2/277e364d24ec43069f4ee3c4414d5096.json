@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 45,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -248,9 +248,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 104006,
+  "EOS_Progressed": 104010,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 1319,
+  "EOS_NewPlayers": 1315,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -7923,6 +7923,11 @@
       "Time": "2023-08-21T10:08:28.6769426+00:00",
       "NumProgressed": 104006,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-08-21T11:07:47.3912824+00:00",
+      "NumProgressed": 104010,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 49,
@@ -7942,7 +7947,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 79045
+      "UsersEstimate": 79048
     },
     {
       "ID": "EAwards_10",
@@ -7998,7 +8003,7 @@
       "Name": "PERFECT",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 6240
+      "UsersEstimate": 6241
     },
     {
       "ID": "EAwards_17",
@@ -8006,7 +8011,7 @@
       "Name": "Talented Player",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 37442
+      "UsersEstimate": 37444
     },
     {
       "ID": "EAwards_18",
@@ -8014,7 +8019,7 @@
       "Name": "You Survived",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 8320
+      "UsersEstimate": 8321
     },
     {
       "ID": "EAwards_19",
@@ -8030,7 +8035,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 48883
+      "UsersEstimate": 48885
     },
     {
       "ID": "EAwards_20",
@@ -8046,7 +8051,7 @@
       "Name": "Special Delivery!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 6240
+      "UsersEstimate": 6241
     },
     {
       "ID": "EAwards_22",
@@ -8062,7 +8067,7 @@
       "Name": "These are not fertilized",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 7280
+      "UsersEstimate": 7281
     },
     {
       "ID": "EAwards_24",
@@ -8070,7 +8075,7 @@
       "Name": "Temple Raider",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 7280
+      "UsersEstimate": 7281
     },
     {
       "ID": "EAwards_25",
@@ -8078,7 +8083,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 18721
+      "UsersEstimate": 18722
     },
     {
       "ID": "EAwards_26",
@@ -8118,7 +8123,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 18721
+      "UsersEstimate": 18722
     },
     {
       "ID": "EAwards_30",
@@ -8142,7 +8147,7 @@
       "Name": "El T\u00E9cnico T\u00E1ctico",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 6240
+      "UsersEstimate": 6241
     },
     {
       "ID": "EAwards_33",
@@ -8166,7 +8171,7 @@
       "Name": "Nacho Libre",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 7280
+      "UsersEstimate": 7281
     },
     {
       "ID": "EAwards_36",
@@ -8294,7 +8299,7 @@
       "Name": "Severed 2",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 8320
+      "UsersEstimate": 8321
     },
     {
       "ID": "EAwards_7",
@@ -8325,7 +8330,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 104006,
+      "Progressed": 104010,
       "Completed": 36
     }
   ],
@@ -8333,8 +8338,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-08-20T14:58:54.3768428+00:00",
-  "LastChanged_Achievements": "2023-08-21T10:08:28.6769419+00:00",
+  "LastChanged_Achievements": "2023-08-21T11:07:47.3912817+00:00",
   "LastUpdate_AppInfo": "2023-08-17T20:57:09.1579235+00:00",
-  "LastUpdate_Ratings": "2023-08-21T09:59:21.20041+00:00",
-  "LastUpdate_Achievements": "2023-08-21T10:08:28.6771246+00:00"
+  "LastUpdate_Ratings": "2023-08-21T10:59:50.7527658+00:00",
+  "LastUpdate_Achievements": "2023-08-21T11:07:47.3915112+00:00"
 }

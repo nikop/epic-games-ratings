@@ -21,13 +21,13 @@
 | Changing the World | 8.00% | ~4 |
 | Defeat Tezuth | 6.00% | ~3 |
 | Through Dangers Untold | 6.00% | ~3 |
+| Mirror, Mirror on the Wall | 4.00% | ~2 |
 | Sponsor | 4.00% | ~2 |
 | Craftsmen | 4.00% | ~2 |
 | Defeat Uskol | 4.00% | ~2 |
 | Finally! | 4.00% | ~2 |
 | The A-Team | 4.00% | ~2 |
 | Expert | 4.00% | ~2 |
-| Mirror, Mirror on the Wall | 2.00% | ~1 |
 | Defeat Ingla | 2.00% | ~1 |
 | Mountain Lover | 2.00% | ~1 |
 | Wasteland Connoisseur | 2.00% | ~1 |
@@ -40,6 +40,7 @@
 | Globetrotter | 2.00% | ~1 |
 | The End | 2.00% | ~1 |
 | But what of the Acreans? | 2.00% | ~1 |
+| Unveiling the Truth | 2.00% | ~1 |
 | Style over Stats | 0.00% | ~0 |
 | Collector | 0.00% | ~0 |
 | Explorer by Heart | 0.00% | ~0 |
@@ -48,7 +49,6 @@
 | Wayseeker | 0.00% | ~0 |
 | Pathfinder | 0.00% | ~0 |
 | A Deceiving Gift | 0.00% | ~0 |
-| Unveiling the Truth | 0.00% | ~0 |
 | Master of all Domains | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 50 (Ranked 375)  

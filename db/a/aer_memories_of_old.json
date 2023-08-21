@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 92,
   "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -380,9 +380,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18325,
+  "EOS_Progressed": 18326,
   "EOS_Completed": 373,
-  "EOS_NewPlayers": 526,
+  "EOS_NewPlayers": 525,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 2.04,
   "EosHistory": [
@@ -13460,6 +13460,11 @@
       "Time": "2023-08-21T09:08:00.4713796+00:00",
       "NumProgressed": 18325,
       "NumCompleted": 373
+    },
+    {
+      "Time": "2023-08-21T11:07:06.5182919+00:00",
+      "NumProgressed": 18326,
+      "NumCompleted": 373
     }
   ],
   "TotalAchievements": 20,
@@ -13511,7 +13516,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1832
+      "UsersEstimate": 1833
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -13591,7 +13596,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 13927
+      "UsersEstimate": 13928
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -13630,15 +13635,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 18325,
+      "Progressed": 18326,
       "Completed": 373
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-08-12T01:39:46.4098224+00:00",
-  "LastChanged_Achievements": "2023-08-21T10:07:36.695946+00:00",
+  "LastChanged_Achievements": "2023-08-21T11:07:06.5182914+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:54.5287855+00:00",
-  "LastUpdate_Ratings": "2023-08-21T09:57:57.8294299+00:00",
-  "LastUpdate_Achievements": "2023-08-21T10:07:36.6960234+00:00"
+  "LastUpdate_Ratings": "2023-08-21T10:58:47.8237352+00:00",
+  "LastUpdate_Achievements": "2023-08-21T11:07:06.5183656+00:00"
 }

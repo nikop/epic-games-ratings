@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 88,
+  "Ranking_EOS_NewPlayers": 87,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
@@ -226,9 +226,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 228456,
+  "EOS_Progressed": 228457,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 377,
+  "EOS_NewPlayers": 378,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13076,6 +13076,11 @@
       "Time": "2023-08-21T09:08:32.7130679+00:00",
       "NumProgressed": 228456,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-21T11:07:29.601389+00:00",
+      "NumProgressed": 228457,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -13151,7 +13156,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 82244
+      "UsersEstimate": 82245
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -13247,7 +13252,7 @@
       "Name": "Be Gentle...",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 50260
+      "UsersEstimate": 50261
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -13310,7 +13315,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 228456,
+      "Progressed": 228457,
       "Completed": 3
     }
   ],
@@ -13318,8 +13323,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-08-11T01:38:33.2125072+00:00",
-  "LastChanged_Achievements": "2023-08-21T10:08:06.0296496+00:00",
+  "LastChanged_Achievements": "2023-08-21T11:07:29.6013882+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:40.7595484+00:00",
-  "LastUpdate_Ratings": "2023-08-21T09:57:40.4198725+00:00",
-  "LastUpdate_Achievements": "2023-08-21T10:08:06.0297986+00:00"
+  "LastUpdate_Ratings": "2023-08-21T10:58:35.9020954+00:00",
+  "LastUpdate_Achievements": "2023-08-21T11:07:29.6014667+00:00"
 }
