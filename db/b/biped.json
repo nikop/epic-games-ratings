@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5353,
+  "EOS_Progressed": 5354,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8676,6 +8676,11 @@
       "Time": "2023-08-21T18:05:06.424221+00:00",
       "NumProgressed": 5353,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-21T22:04:49.869699+00:00",
+      "NumProgressed": 5354,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -8687,7 +8692,7 @@
       "Name": "First Step",
       "Percentage": 38,
       "XP": 45,
-      "UsersEstimate": 2034
+      "UsersEstimate": 2035
     },
     {
       "ID": "10",
@@ -8743,7 +8748,7 @@
       "Name": "Dense Forest",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 1659
+      "UsersEstimate": 1660
     },
     {
       "ID": "3",
@@ -8806,7 +8811,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 5353,
+      "Progressed": 5354,
       "Completed": 0
     }
   ],
@@ -8814,8 +8819,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-08-21T21:04:49.3110511+00:00",
+  "LastChanged_Achievements": "2023-08-21T22:04:49.8696985+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:57.4704491+00:00",
-  "LastUpdate_Ratings": "2023-08-21T21:00:26.2564816+00:00",
-  "LastUpdate_Achievements": "2023-08-21T21:04:49.3111029+00:00"
+  "LastUpdate_Ratings": "2023-08-21T22:00:49.1039905+00:00",
+  "LastUpdate_Achievements": "2023-08-21T22:04:49.8698186+00:00"
 }

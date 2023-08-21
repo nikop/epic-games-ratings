@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 163,
   "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -1657,9 +1657,9 @@
       "ID": "completedStory_ulstryx",
       "SetID": "95dc8p",
       "Name": "Daybreak",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 370
+      "UsersEstimate": 384
     },
     {
       "ID": "completedStory_vultureLord",
@@ -1841,8 +1841,8 @@
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-07-08T20:01:41.3411794+00:00",
-  "LastChanged_Achievements": "2023-08-21T21:07:10.0492493+00:00",
+  "LastChanged_Achievements": "2023-08-21T22:07:58.883086+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:21.1386789+00:00",
-  "LastUpdate_Ratings": "2023-08-21T20:58:41.1117824+00:00",
-  "LastUpdate_Achievements": "2023-08-21T21:07:10.0492962+00:00"
+  "LastUpdate_Ratings": "2023-08-21T21:58:48.8463046+00:00",
+  "LastUpdate_Achievements": "2023-08-21T22:07:58.8831843+00:00"
 }

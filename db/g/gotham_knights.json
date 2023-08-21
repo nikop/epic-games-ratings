@@ -2498,9 +2498,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 67963,
+  "EOS_Progressed": 67964,
   "EOS_Completed": 108,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -12908,6 +12908,11 @@
       "Time": "2023-08-21T21:06:59.4494156+00:00",
       "NumProgressed": 67963,
       "NumCompleted": 108
+    },
+    {
+      "Time": "2023-08-21T22:07:45.9071203+00:00",
+      "NumProgressed": 67964,
+      "NumCompleted": 108
     }
   ],
   "TotalAchievements": 61,
@@ -13007,7 +13012,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 10194
+      "UsersEstimate": 10195
     },
     {
       "ID": "CHALLENGES_1",
@@ -13031,7 +13036,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 12233
+      "UsersEstimate": 12234
     },
     {
       "ID": "CLAYFACE_3",
@@ -13311,7 +13316,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 23107
+      "UsersEstimate": 23108
     },
     {
       "ID": "MYSTERY_02",
@@ -13343,7 +13348,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 12233
+      "UsersEstimate": 12234
     },
     {
       "ID": "MYSTERY_06",
@@ -13351,7 +13356,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 10194
+      "UsersEstimate": 10195
     },
     {
       "ID": "MYSTERY_07",
@@ -13406,13 +13411,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 67963,
+      "Progressed": 67964,
       "Completed": 108
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 38243,
+      "Progressed": 38244,
       "Completed": 2658
     }
   ],
@@ -13420,8 +13425,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-08-20T14:57:30.6977519+00:00",
-  "LastChanged_Achievements": "2023-08-21T21:06:59.4494152+00:00",
+  "LastChanged_Achievements": "2023-08-21T22:07:45.9071197+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:36.1459925+00:00",
-  "LastUpdate_Ratings": "2023-08-21T20:57:46.3207197+00:00",
-  "LastUpdate_Achievements": "2023-08-21T21:06:59.4495157+00:00"
+  "LastUpdate_Ratings": "2023-08-21T21:57:42.7895435+00:00",
+  "LastUpdate_Achievements": "2023-08-21T22:07:45.9073448+00:00"
 }

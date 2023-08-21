@@ -33,10 +33,10 @@ Rating: 4.55 (Ranked 486)
 | Take the Cannoli | 2.00% | ~195 |
 | Chopper’d Up | 2.00% | ~195 |
 | City Sleuth | 2.00% | ~195 |
+| Born in the 80’s | 1.00% | ~97 |
 | Keepie-Uppy Okie Dokie | 1.00% | ~97 |
 | I'm Famous! | 1.00% | ~97 |
 | Daredevil | 1.00% | ~97 |
-| Born in the 80’s | 0.90% | ~88 |
 | Done it All | 0.90% | ~88 |
 | Kingpin | 0.50% | ~49 |
 ## Popularity (Based on EOS Achievements)

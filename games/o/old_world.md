@@ -35,6 +35,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pyramids | 2.00% | ~270 |
 | Judaism | 2.00% | ~270 |
 | Babylonian Paganism | 2.00% | ~270 |
+| Carthaginian Paganism | 2.00% | ~270 |
 | Greek Paganism | 2.00% | ~270 |
 | Roman Paganism | 2.00% | ~270 |
 | Naming Landmarks | 2.00% | ~270 |
@@ -66,7 +67,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 2 | 1.00% | ~135 |
 | Christianity | 1.00% | ~135 |
 | Manichaeism | 1.00% | ~135 |
-| Carthaginian Paganism | 1.00% | ~135 |
 | Egyptian Paganism | 1.00% | ~135 |
 | Zoroastrianism | 1.00% | ~135 |
 | Mythology | 1.00% | ~135 |
@@ -109,6 +109,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Church of the Holy Sepulchre | 0.60% | ~81 |
 | Carthage | 0.60% | ~81 |
 | Assyrian Paganism | 0.60% | ~81 |
+| Military Prestige | 0.60% | ~81 |
 | Dualism | 0.60% | ~81 |
 | Revelation | 0.60% | ~81 |
 | Cimmerian Archer | 0.60% | ~81 |
@@ -122,11 +123,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Babylonia | 0.50% | ~68 |
 | One True Faith | 0.50% | ~68 |
 | Industrial Progress | 0.50% | ~68 |
-| Military Prestige | 0.50% | ~68 |
 | Enlightenment | 0.50% | ~68 |
 | Gnosticism | 0.50% | ~68 |
 | Veneration | 0.50% | ~68 |
 | Kushite Cavalry | 0.50% | ~68 |
+| No Undo | 0.50% | ~68 |
 | Ishtar Gate in Babylon | 0.40% | ~54 |
 | Carthage - Ox Hide | 0.40% | ~54 |
 | Old | 0.40% | ~54 |
@@ -140,7 +141,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cataphract Archer | 0.40% | ~54 |
 | Turreted Elephant | 0.40% | ~54 |
 | All Nations | 0.40% | ~54 |
-| No Undo | 0.40% | ~54 |
 | Ancient | 0.30% | ~41 |
 | Glorious Difficulty | 0.30% | ~41 |
 | Noble Difficulty | 0.30% | ~41 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,519 (Ranked 118)  
+Progressed: 13,520 (Ranked 118)  
 Completed: 5 (0.04%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -426,7 +426,7 @@ Completed: 5 (0.04%) (Ranked 231)
 | 2023-08-18 | 13,460 | 5 |
 | 2023-08-19 | 13,485 | 5 |
 | 2023-08-20 | 13,503 | 5 |
-| 2023-08-21 | 13,519 | 5 |
+| 2023-08-21 | 13,520 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,797 (Ranked 207)  

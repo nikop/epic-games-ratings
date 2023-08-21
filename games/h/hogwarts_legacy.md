@@ -5,20 +5,20 @@ Rating: 4.77 (Ranked 109)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 13.00% | ~37,774 |
+| The Sort Who Makes an Entrance | 13.00% | ~37,775 |
 | First Class Student | 11.00% | ~31,963 |
 | Troll with the Punches | 11.00% | ~31,963 |
-| A Keen Sense of Spell | 10.00% | ~29,057 |
-| That's a Keeper | 10.00% | ~29,057 |
-| Grappling with a Graphorn | 9.00% | ~26,151 |
-| The One Who Mastered Memories | 9.00% | ~26,151 |
-| The Hallowed Hero | 9.00% | ~26,151 |
-| The Hero of Hogwarts | 9.00% | ~26,151 |
-| The Defender of Dragons | 9.00% | ~26,151 |
-| Challenge Accepted | 9.00% | ~26,151 |
-| Loom for Improvement | 9.00% | ~26,151 |
-| A Talent for Spending | 9.00% | ~26,151 |
-| Coasting Along | 9.00% | ~26,151 |
+| A Keen Sense of Spell | 10.00% | ~29,058 |
+| That's a Keeper | 10.00% | ~29,058 |
+| Grappling with a Graphorn | 9.00% | ~26,152 |
+| The One Who Mastered Memories | 9.00% | ~26,152 |
+| The Hallowed Hero | 9.00% | ~26,152 |
+| The Hero of Hogwarts | 9.00% | ~26,152 |
+| The Defender of Dragons | 9.00% | ~26,152 |
+| Challenge Accepted | 9.00% | ~26,152 |
+| Loom for Improvement | 9.00% | ~26,152 |
+| A Talent for Spending | 9.00% | ~26,152 |
+| Coasting Along | 9.00% | ~26,152 |
 | Followed the Butterflies | 8.00% | ~23,246 |
 | The Spell Master | 8.00% | ~23,246 |
 | Rising From the Ashes | 8.00% | ~23,246 |
@@ -38,11 +38,11 @@ Rating: 4.77 (Ranked 109)
 | Going Through the Potions | 3.00% | ~8,717 |
 | Floo Around the World | 3.00% | ~8,717 |
 | The Wise Owl | 3.00% | ~8,717 |
-| The Good Samaritan | 2.00% | ~5,811 |
-| Put Down Roots | 2.00% | ~5,811 |
-| The Auror's Apprentice | 2.00% | ~5,811 |
-| Rise to the Challenges | 2.00% | ~5,811 |
-| Finishing Touches | 2.00% | ~5,811 |
+| The Good Samaritan | 2.00% | ~5,812 |
+| Put Down Roots | 2.00% | ~5,812 |
+| The Auror's Apprentice | 2.00% | ~5,812 |
+| Rise to the Challenges | 2.00% | ~5,812 |
+| Finishing Touches | 2.00% | ~5,812 |
 | Savvy Spender | 1.00% | ~2,906 |
 | Demiguise Dread | 1.00% | ~2,906 |
 | A Forte for Achievement | 1.00% | ~2,906 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,743 |
 | Collector's Edition | 0.30% | ~872 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290,571 (Ranked 43)  
+Progressed: 290,575 (Ranked 43)  
 Completed: 453 (0.16%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,18 +174,18 @@ Completed: 453 (0.16%) (Ranked 193)
 | 2023-08-18 | 290,355 | 452 |
 | 2023-08-19 | 290,439 | 453 |
 | 2023-08-20 | 290,517 | 453 |
-| 2023-08-21 | 290,571 | 453 |
+| 2023-08-21 | 290,575 | 453 |
 ## Awards
 Max (Character Customization): 21,871  (Ranked 17)  
-Sum: 41,369 (Ranked 30)  
+Sum: 41,371 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 21,871 |
 | This game has Great Boss Battles | 10,616 |
 | This game is Great for Beginners | 984 |
+| This game is Relaxing | 963 |
 | This game is Extremely Fun | 962 |
-| This game is Relaxing | 961 |
 | This game has Amazing Storytelling | 953 |
 | This game has Diverse Characters | 945 |
 | This game has Amazing Characters | 929 |
@@ -346,4 +346,4 @@ Diff (max vs sum): -13
 | 2023-08-18 | 4.77 | 21,799 | 41,179 |
 | 2023-08-19 | 4.77 | 21,818 | 41,239 |
 | 2023-08-20 | 4.77 | 21,849 | 41,309 |
-| 2023-08-21 | 4.77 | 21,871 | 41,369 |
+| 2023-08-21 | 4.77 | 21,871 | 41,371 |

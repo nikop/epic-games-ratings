@@ -5,10 +5,10 @@
   "Ranking_Rating": 858,
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
-  "Ranking_EOS_Progress": 177,
+  "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 99,
   "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-11-15T00:00:00+00:00",
     "PcReleaseDate": "2022-11-15T00:00:00+00:00",
@@ -87,7 +87,7 @@
   "EOS_Progressed": 1620,
   "EOS_Completed": 27,
   "EOS_NewPlayers": 3,
-  "EOS_NewCompleters": 1,
+  "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.67,
   "EosHistory": [
     {
@@ -518,9 +518,9 @@
       "ID": "SomervilleBluesJam",
       "SetID": "3mk3nll",
       "Name": "Blues Jam.",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 65
     },
     {
       "ID": "SomervilleFamilyFirst",
@@ -566,9 +566,9 @@
       "ID": "SomervilleStuckOnTheJohn",
       "SetID": "3mk3nll",
       "Name": "\u201COccupied!\u201C",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 243
+      "UsersEstimate": 259
     },
     {
       "ID": "SomervilleUnderstanding",
@@ -615,8 +615,8 @@
   "FirstSeenRating": "2022-11-25T17:58:18.0029626+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:11.8533708+00:00",
   "LastChanged": "2023-03-31T05:58:16.104552+00:00",
-  "LastChanged_Achievements": "2023-08-21T21:06:45.4296663+00:00",
+  "LastChanged_Achievements": "2023-08-21T22:07:28.784303+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:45.419792+00:00",
-  "LastUpdate_Ratings": "2023-08-21T21:00:13.3174177+00:00",
-  "LastUpdate_Achievements": "2023-08-21T21:06:45.4296765+00:00"
+  "LastUpdate_Ratings": "2023-08-21T22:00:37.4953904+00:00",
+  "LastUpdate_Achievements": "2023-08-21T22:07:28.7843171+00:00"
 }

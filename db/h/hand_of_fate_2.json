@@ -2,13 +2,13 @@
   "ID": "eb348461cdaf4bec9d69a1c4bb39ecc4",
   "Name": "Hand of Fate 2",
   "ProductSlug": "hand-of-fate-2",
-  "Ranking_Rating": 472,
+  "Ranking_Rating": 473,
   "Ranking_Popularity": 437,
   "Ranking_PopularitySum": 377,
   "Ranking_EOS_Progress": 23,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -874,9 +874,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 661134,
+  "EOS_Progressed": 661135,
   "EOS_Completed": 168,
-  "EOS_NewPlayers": 331,
+  "EOS_NewPlayers": 330,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -12569,6 +12569,11 @@
       "Time": "2023-08-21T21:05:49.3944816+00:00",
       "NumProgressed": 661134,
       "NumCompleted": 168
+    },
+    {
+      "Time": "2023-08-21T22:06:21.692565+00:00",
+      "NumProgressed": 661135,
+      "NumCompleted": 168
     }
   ],
   "TotalAchievements": 48,
@@ -12580,7 +12585,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 476016
+      "UsersEstimate": 476017
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -12644,7 +12649,7 @@
       "Name": "Gambler",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 66113
+      "UsersEstimate": 66114
     },
     {
       "ID": "Achievement_10_Long_Shot",
@@ -12676,7 +12681,7 @@
       "Name": "Dice Master",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 66113
+      "UsersEstimate": 66114
     },
     {
       "ID": "Achievement_14_Magician",
@@ -12963,15 +12968,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 661134,
+      "Progressed": 661135,
       "Completed": 168
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-08-21T04:59:27.6995602+00:00",
-  "LastChanged_Achievements": "2023-08-21T21:05:49.3944812+00:00",
+  "LastChanged_Achievements": "2023-08-21T22:06:21.6925644+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:36.6517701+00:00",
-  "LastUpdate_Ratings": "2023-08-21T21:00:07.7188184+00:00",
-  "LastUpdate_Achievements": "2023-08-21T21:05:49.3945652+00:00"
+  "LastUpdate_Ratings": "2023-08-21T22:00:30.3506531+00:00",
+  "LastUpdate_Achievements": "2023-08-21T22:06:21.6927635+00:00"
 }

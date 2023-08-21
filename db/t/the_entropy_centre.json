@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 240,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2022-11-03T16:00:00+00:00",
@@ -901,9 +901,9 @@
       "ID": "ACH_ACT2",
       "SetID": "2310cb1",
       "Name": "Time Gates",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 158
+      "UsersEstimate": 161
     },
     {
       "ID": "ACH_ACT3",
@@ -1062,8 +1062,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-08-21T21:03:43.1237636+00:00",
+  "LastChanged_Achievements": "2023-08-21T22:03:22.9439937+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:59.681078+00:00",
-  "LastUpdate_Ratings": "2023-08-21T20:59:53.8594033+00:00",
-  "LastUpdate_Achievements": "2023-08-21T21:03:43.1237822+00:00"
+  "LastUpdate_Ratings": "2023-08-21T22:00:10.8279799+00:00",
+  "LastUpdate_Achievements": "2023-08-21T22:03:22.944019+00:00"
 }

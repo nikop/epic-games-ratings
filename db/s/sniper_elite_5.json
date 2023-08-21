@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -476,9 +476,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3509,
+  "EOS_Progressed": 3510,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -6121,6 +6121,11 @@
       "Time": "2023-08-21T20:05:05.8009565+00:00",
       "NumProgressed": 3509,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-21T22:05:08.0531759+00:00",
+      "NumProgressed": 3510,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 71,
@@ -6188,7 +6193,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -6212,7 +6217,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1614
+      "UsersEstimate": 1615
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -6276,7 +6281,7 @@
       "Name": "The Long Game",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "REWARD_28_AMBUSH_KING",
@@ -6356,7 +6361,7 @@
       "Name": "Resourceful",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 912
+      "UsersEstimate": 913
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -6452,7 +6457,7 @@
       "Name": "It\u0027ll Buff Right Out",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "REWARD_56_SMOOTH_OPERATOR",
@@ -6492,7 +6497,7 @@
       "Name": "Don\u0027t hold your breath",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "REWARD_6_BIG_GAME_HUNTER",
@@ -6500,7 +6505,7 @@
       "Name": "Taking it back",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 947
+      "UsersEstimate": 948
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -6524,7 +6529,7 @@
       "Name": "Target America",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 877
+      "UsersEstimate": 878
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -6699,13 +6704,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3460,
+      "Progressed": 3461,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3509,
+      "Progressed": 3510,
       "Completed": 9
     }
   ],
@@ -6713,8 +6718,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-08-19T13:59:32.9786794+00:00",
-  "LastChanged_Achievements": "2023-08-21T21:04:56.297126+00:00",
+  "LastChanged_Achievements": "2023-08-21T22:05:08.053175+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:38.9761253+00:00",
-  "LastUpdate_Ratings": "2023-08-21T20:58:57.4453976+00:00",
-  "LastUpdate_Achievements": "2023-08-21T21:04:56.2972103+00:00"
+  "LastUpdate_Ratings": "2023-08-21T21:59:09.4129907+00:00",
+  "LastUpdate_Achievements": "2023-08-21T22:05:08.053368+00:00"
 }

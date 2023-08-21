@@ -10,7 +10,7 @@ Number of Ratings: 22  (23.09.2022)
 | Joma | 44.00% | ~179 |
 | Campaign Bronze | 36.00% | ~147 |
 | Lorian | 32.00% | ~130 |
-| Metropolis | 27.00% | ~110 |
+| Metropolis | 28.00% | ~114 |
 | Rounos | 24.00% | ~98 |
 | Campaign Silver | 22.00% | ~90 |
 | Magni | 21.00% | ~85 |
@@ -20,7 +20,7 @@ Number of Ratings: 22  (23.09.2022)
 | Edora | 14.00% | ~57 |
 | Environmentalist | 12.00% | ~49 |
 | Iqunox | 9.00% | ~37 |
-| Udion Torix | 8.00% | ~33 |
+| Udion Torix | 9.00% | ~37 |
 | Forester | 7.00% | ~28 |
 | Thera | 6.00% | ~24 |
 | Campaign Titanium | 5.00% | ~20 |

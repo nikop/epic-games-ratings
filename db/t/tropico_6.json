@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 231,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1056,9 +1056,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 4825,
+  "EOS_Progressed": 4827,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8411,6 +8411,11 @@
       "Time": "2023-08-21T19:02:27.5506188+00:00",
       "NumProgressed": 4825,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-21T22:02:54.0566506+00:00",
+      "NumProgressed": 4827,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -8422,7 +8427,7 @@
       "Name": "Chain Gang",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_DONTPANIC",
@@ -8446,7 +8451,7 @@
       "Name": "Happy Ending?",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "ACH_EP_ALLMISSIONS",
@@ -8492,9 +8497,9 @@
       "ID": "ACH_EP_CHOCOLATEFACTORY",
       "SetID": "1p8ab95",
       "Name": "The Dreamer of Dreams",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 772
+      "UsersEstimate": 724
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -8502,7 +8507,7 @@
       "Name": "Of Seals And Men",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "ACH_EP_ONEPERCENTERS",
@@ -8526,7 +8531,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 820
+      "UsersEstimate": 821
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -8534,7 +8539,7 @@
       "Name": "Shackadelic",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "ACH_EP_SPEAKEASY",
@@ -8574,7 +8579,7 @@
       "Name": "The Governator",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 868
+      "UsersEstimate": 869
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -8582,7 +8587,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 3667
+      "UsersEstimate": 3669
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -8598,7 +8603,7 @@
       "Name": "One Does Not Simply Stage A Coup",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_MISSION_NOELECTION",
@@ -8646,7 +8651,7 @@
       "Name": "Sublime Subliminal Supreme",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_SURVIVOR",
@@ -8662,7 +8667,7 @@
       "Name": "Teamplayer",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_TERRAFORMER",
@@ -8670,7 +8675,7 @@
       "Name": "Terraformer",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_THOUSANDPOPULATION",
@@ -8678,7 +8683,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 2268
+      "UsersEstimate": 2269
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -8694,7 +8699,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1785
+      "UsersEstimate": 1786
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -8734,22 +8739,22 @@
       "Name": "Curse of the Mummy",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     }
   ],
   "AchievementSets": [
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 4825,
+      "Progressed": 4827,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-08-19T05:59:02.5104499+00:00",
-  "LastChanged_Achievements": "2023-08-21T21:03:19.1907437+00:00",
+  "LastChanged_Achievements": "2023-08-21T22:02:54.05665+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:05.8526024+00:00",
-  "LastUpdate_Ratings": "2023-08-21T20:58:25.0512854+00:00",
-  "LastUpdate_Achievements": "2023-08-21T21:03:19.1908028+00:00"
+  "LastUpdate_Ratings": "2023-08-21T21:58:26.2753039+00:00",
+  "LastUpdate_Achievements": "2023-08-21T22:02:54.0567346+00:00"
 }

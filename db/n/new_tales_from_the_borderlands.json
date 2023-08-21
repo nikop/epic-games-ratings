@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
     "PcReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3578,
+  "EOS_Progressed": 3580,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1223,6 +1223,11 @@
       "Time": "2023-08-21T07:06:22.4373079+00:00",
       "NumProgressed": 3578,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-21T22:06:25.724883+00:00",
+      "NumProgressed": 3580,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -1266,7 +1271,7 @@
       "Name": "Totally Intentional",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 1610
+      "UsersEstimate": 1611
     },
     {
       "ID": "FIND_FIRST_VAULTLANDER",
@@ -1274,7 +1279,7 @@
       "Name": "Each Sold Separately",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1324
+      "UsersEstimate": 1325
     },
     {
       "ID": "FINISH_EPISODE_1",
@@ -1298,7 +1303,7 @@
       "Name": "Our Lucky Winner",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "FINISH_EPISODE_4",
@@ -1320,9 +1325,9 @@
       "ID": "FINISH_GAME_W_GOOD_SKATE_RAT",
       "SetID": "kakdpn",
       "Name": "New Business",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 36
+      "UsersEstimate": 32
     },
     {
       "ID": "GAMEOVER_FIRST_TIME",
@@ -1338,7 +1343,7 @@
       "Name": "You Rich Now!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 787
+      "UsersEstimate": 788
     },
     {
       "ID": "HACK_YOUR_FIRST_OBJECT",
@@ -1346,7 +1351,7 @@
       "Name": "We\u0027re In",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1145
+      "UsersEstimate": 1146
     },
     {
       "ID": "HOTWIRE_FIRST_OBJECT",
@@ -1354,7 +1359,7 @@
       "Name": "Who Needs Keys?",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 1789
+      "UsersEstimate": 1790
     },
     {
       "ID": "LOOSE_MONEY_FROM_SINK_OR_SWIM",
@@ -1418,7 +1423,7 @@
       "Name": "Don\u0027t Get Cocky",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "WIN_VAULTLANDER_BATTLE_CLAPTRAP",
@@ -1434,14 +1439,14 @@
       "Name": "Mas, Por Favor",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     }
   ],
   "AchievementSets": [
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3578,
+      "Progressed": 3580,
       "Completed": 0
     }
   ],
@@ -1449,8 +1454,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-05-28T21:59:31.5873025+00:00",
-  "LastChanged_Achievements": "2023-08-21T21:05:53.281517+00:00",
+  "LastChanged_Achievements": "2023-08-21T22:06:25.7248826+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:59.8862564+00:00",
-  "LastUpdate_Ratings": "2023-08-21T21:01:52.5667333+00:00",
-  "LastUpdate_Achievements": "2023-08-21T21:05:53.2815361+00:00"
+  "LastUpdate_Ratings": "2023-08-21T22:02:35.4564263+00:00",
+  "LastUpdate_Achievements": "2023-08-21T22:06:25.7249182+00:00"
 }

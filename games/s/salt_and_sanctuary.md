@@ -6,24 +6,24 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~440,795 |
-| The Three | 64.00% | ~339,890 |
-| The Banquet | 40.00% | ~212,431 |
-| Devara's Light | 30.00% | ~159,323 |
-| The Iron Ones | 18.00% | ~95,594 |
-| The Village | 16.00% | ~84,972 |
-| The Forest | 14.00% | ~74,351 |
-| Branded | 13.00% | ~69,040 |
-| The Imposter | 13.00% | ~69,040 |
-| The Keep | 13.00% | ~69,040 |
+| Find Sanctuary | 83.00% | ~440,799 |
+| The Three | 64.00% | ~339,893 |
+| The Banquet | 40.00% | ~212,433 |
+| Devara's Light | 30.00% | ~159,325 |
+| The Iron Ones | 18.00% | ~95,595 |
+| The Village | 16.00% | ~84,973 |
+| The Forest | 14.00% | ~74,352 |
+| Branded | 13.00% | ~69,041 |
+| The Imposter | 13.00% | ~69,041 |
+| The Keep | 13.00% | ~69,041 |
 | The Castle | 11.00% | ~58,419 |
 | The Dome | 9.00% | ~47,797 |
 | The Red Hall | 9.00% | ~47,797 |
-| The Sacrifice | 8.00% | ~42,486 |
-| The Cave | 7.00% | ~37,175 |
-| The Mire | 7.00% | ~37,175 |
-| The Stone Roots | 7.00% | ~37,175 |
-| The Ziggurat | 7.00% | ~37,175 |
+| The Sacrifice | 8.00% | ~42,487 |
+| The Cave | 7.00% | ~37,176 |
+| The Mire | 7.00% | ~37,176 |
+| The Stone Roots | 7.00% | ~37,176 |
+| The Ziggurat | 7.00% | ~37,176 |
 | Storied | 6.00% | ~31,865 |
 | The Construct | 6.00% | ~31,865 |
 | The Lake | 6.00% | ~31,865 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,622 |
 | Fading Fast | 1.00% | ~5,311 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 531,078 (Ranked 30)  
+Progressed: 531,083 (Ranked 30)  
 Completed: 1,511 (0.28%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,7 +167,7 @@ Completed: 1,511 (0.28%) (Ranked 173)
 | 2023-08-18 | 530,819 | 1,509 |
 | 2023-08-19 | 530,919 | 1,509 |
 | 2023-08-20 | 531,003 | 1,511 |
-| 2023-08-21 | 531,078 | 1,511 |
+| 2023-08-21 | 531,083 | 1,511 |
 ## Awards
 Max (Challenging Combat): 279  (Ranked 242)  
 Sum: 1,930 (Ranked 201)  

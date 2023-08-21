@@ -6,9 +6,9 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 38.00% | ~23,282 |
-| Let There Be Light | 30.00% | ~18,380 |
-| Float Like a Butterfly | 29.00% | ~17,768 |
+| Follow the Light | 38.00% | ~23,283 |
+| Let There Be Light | 30.00% | ~18,381 |
+| Float Like a Butterfly | 29.00% | ~17,769 |
 | Nordic Walking | 23.00% | ~14,092 |
 | Bright Falls' Finest | 23.00% | ~14,092 |
 | Under a Thin Layer of Skin | 20.00% | ~12,254 |
@@ -22,26 +22,26 @@ Number of Ratings: 524  (23.09.2022)
 | Wheels Within Wheels | 13.00% | ~7,965 |
 | They're Heeeeeere! | 13.00% | ~7,965 |
 | The Six-Gun Scribe | 13.00% | ~7,965 |
-| Heavy Metal | 12.00% | ~7,352 |
-| Iron Horse | 12.00% | ~7,352 |
-| Collateral Carnage | 12.00% | ~7,352 |
-| Come One, Come All | 12.00% | ~7,352 |
-| Perchance to Dream | 11.00% | ~6,739 |
-| It's Not Just a Typewriter Brand | 11.00% | ~6,739 |
-| Thunder and Lightning | 11.00% | ~6,739 |
+| Heavy Metal | 12.00% | ~7,353 |
+| Iron Horse | 12.00% | ~7,353 |
+| Collateral Carnage | 12.00% | ~7,353 |
+| Come One, Come All | 12.00% | ~7,353 |
+| Perchance to Dream | 11.00% | ~6,740 |
+| It's Not Just a Typewriter Brand | 11.00% | ~6,740 |
+| Thunder and Lightning | 11.00% | ~6,740 |
 | Gatekeeper | 10.00% | ~6,127 |
 | The Lady of the Light | 10.00% | ~6,127 |
 | Two For the Price of One | 10.00% | ~6,127 |
 | Energized! | 10.00% | ~6,127 |
 | Right of Way | 9.00% | ~5,514 |
-| What Light Through Yonder Window | 8.00% | ~4,901 |
+| What Light Through Yonder Window | 8.00% | ~4,902 |
 | A Friend in Need | 8.00% | ~1,979 |
 | Tornado Wrangler | 7.00% | ~4,289 |
 | Departure | 7.00% | ~4,289 |
 | Hardboiled Writer | 6.00% | ~3,676 |
 | A Friend Indeed | 6.00% | ~1,484 |
-| Children of the Elder God | 5.00% | ~3,063 |
-| Drink 'Em Both Up | 5.00% | ~3,063 |
+| Children of the Elder God | 5.00% | ~3,064 |
+| Drink 'Em Both Up | 5.00% | ~3,064 |
 | Ding! | 5.00% | ~1,237 |
 | Boob Tube | 4.00% | ~2,451 |
 | If It Flies, It Burns | 4.00% | ~2,451 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~61 |
 | No Punctuation | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,268 (Ranked 85)  
+Progressed: 61,271 (Ranked 85)  
 Completed: 64 (0.10%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 64 (0.10%) (Ranked 208)
 | 2023-08-18 | 61,081 | 64 |
 | 2023-08-19 | 61,152 | 64 |
 | 2023-08-20 | 61,207 | 64 |
-| 2023-08-21 | 61,268 | 64 |
+| 2023-08-21 | 61,271 | 64 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

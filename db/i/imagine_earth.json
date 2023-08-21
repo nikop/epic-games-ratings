@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 348,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-04-28T13:00:00+00:00",
     "PcReleaseDate": "2022-04-28T13:00:00+00:00",
@@ -393,9 +393,9 @@
       "ID": "Metropolis",
       "SetID": "c2k469b",
       "Name": "Metropolis",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 110
+      "UsersEstimate": 114
     },
     {
       "ID": "Multitalent",
@@ -481,9 +481,9 @@
       "ID": "PlanetUdionTorix",
       "SetID": "c2k469b",
       "Name": "Udion Torix",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 33
+      "UsersEstimate": 37
     },
     {
       "ID": "Scientist",
@@ -514,8 +514,8 @@
   "FirstSeenRating": "2022-08-14T20:31:45.7096726+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:11.8112699+00:00",
   "LastChanged": "2023-03-31T05:58:11.9489163+00:00",
-  "LastChanged_Achievements": "2023-08-21T21:06:02.4044732+00:00",
+  "LastChanged_Achievements": "2023-08-21T22:06:37.1307412+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:50.3508251+00:00",
-  "LastUpdate_Ratings": "2023-08-21T21:01:46.3936232+00:00",
-  "LastUpdate_Achievements": "2023-08-21T21:06:02.4044887+00:00"
+  "LastUpdate_Ratings": "2023-08-21T22:02:29.6594026+00:00",
+  "LastUpdate_Achievements": "2023-08-21T22:06:37.1307611+00:00"
 }

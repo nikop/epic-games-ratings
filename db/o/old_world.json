@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 231,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1635,9 +1635,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13519,
+  "EOS_Progressed": 13520,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -10055,6 +10055,11 @@
       "Time": "2023-08-21T21:06:08.8046388+00:00",
       "NumProgressed": 13519,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-21T22:06:45.1667229+00:00",
+      "NumProgressed": 13520,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -11880,9 +11885,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_CARTHAGE",
       "SetID": "7l38kb8",
       "Name": "Carthaginian Paganism",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 270
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_EGYPT",
@@ -12016,9 +12021,9 @@
       "ID": "ACHIEVEMENT_TECH_MILITARY_PRESTIGE",
       "SetID": "9201eeb",
       "Name": "Military Prestige",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 68
+      "UsersEstimate": 81
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_DUALISM",
@@ -12216,9 +12221,9 @@
       "ID": "ACHIEVEMENT_VICTORY_NO_UNDO",
       "SetID": "9201eeb",
       "Name": "No Undo",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 68
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_ONE_CITY_CHALLENGE",
@@ -12433,21 +12438,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13519,
+      "Progressed": 13520,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13519,
+      "Progressed": 13520,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-21T01:38:46.5764658+00:00",
-  "LastChanged_Achievements": "2023-08-21T21:06:08.8046383+00:00",
+  "LastChanged_Achievements": "2023-08-21T22:06:45.1667218+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:59.678182+00:00",
-  "LastUpdate_Ratings": "2023-08-21T21:00:26.1347144+00:00",
-  "LastUpdate_Achievements": "2023-08-21T21:06:08.8054046+00:00"
+  "LastUpdate_Ratings": "2023-08-21T22:00:48.7966139+00:00",
+  "LastUpdate_Achievements": "2023-08-21T22:06:45.168504+00:00"
 }
