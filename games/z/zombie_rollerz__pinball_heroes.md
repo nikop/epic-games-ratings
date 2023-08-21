@@ -20,9 +20,9 @@
 | Kill-streak | 32.00% | ~45 |
 | Topped up | 29.00% | ~41 |
 | The Bird | 29.00% | ~41 |
-| The Idol | 27.00% | ~38 |
+| The Idol | 28.00% | ~40 |
 | The Ninja | 27.00% | ~38 |
-| Inferno Ruins | 25.00% | ~36 |
+| Inferno Ruins | 26.00% | ~37 |
 | I'm Rich | 24.00% | ~34 |
 | 1 is all I need | 23.00% | ~33 |
 | Untouchable | 22.00% | ~31 |

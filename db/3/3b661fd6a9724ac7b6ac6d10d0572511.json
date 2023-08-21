@@ -3196,9 +3196,9 @@
       "Count": 733
     }
   ],
-  "EOS_Progressed": 1593351,
+  "EOS_Progressed": 1593456,
   "EOS_Completed": 519,
-  "EOS_NewPlayers": 25728,
+  "EOS_NewPlayers": 25739,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -11671,6 +11671,11 @@
       "Time": "2023-08-21T06:04:43.6617454+00:00",
       "NumProgressed": 1593351,
       "NumCompleted": 519
+    },
+    {
+      "Time": "2023-08-21T07:04:29.1385585+00:00",
+      "NumProgressed": 1593456,
+      "NumCompleted": 519
     }
   ],
   "TotalAchievements": 1328,
@@ -12882,7 +12887,7 @@
       "Name": "I Want to Get Away",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 15934
+      "UsersEstimate": 15935
     },
     {
       "ID": "brooklyn_2",
@@ -13106,7 +13111,7 @@
       "Name": "Virus",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 9560
+      "UsersEstimate": 9561
     },
     {
       "ID": "cac_29",
@@ -16154,7 +16159,7 @@
       "Name": "Smooth Criminal",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6373
+      "UsersEstimate": 6374
     },
     {
       "ID": "gorilla_1",
@@ -16298,7 +16303,7 @@
       "Name": "Guilty of Crime",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 11153
+      "UsersEstimate": 11154
     },
     {
       "ID": "halloween_1",
@@ -16434,7 +16439,7 @@
       "Name": "How Do You Like Me Now?",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 9560
+      "UsersEstimate": 9561
     },
     {
       "ID": "i_knew_what_i_was_doing_was_wrong",
@@ -17394,7 +17399,7 @@
       "Name": "No One Cared Who I Was...",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 12747
+      "UsersEstimate": 12748
     },
     {
       "ID": "no_turning_back",
@@ -17402,7 +17407,7 @@
       "Name": "No Turning Back",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 12747
+      "UsersEstimate": 12748
     },
     {
       "ID": "orange_1",
@@ -22290,7 +22295,7 @@
       "Name": "You Gotta Start Somewhere",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 14340
+      "UsersEstimate": 14341
     },
     {
       "ID": "you_shall_not_pass",
@@ -22305,13 +22310,13 @@
     {
       "ID": "61cefe3",
       "IsBase": true,
-      "Progressed": 1593351,
+      "Progressed": 1593456,
       "Completed": 519
     },
     {
       "ID": "bkjdbk8",
       "IsBase": false,
-      "Progressed": 1593351,
+      "Progressed": 1593456,
       "Completed": 29
     }
   ],
@@ -22319,8 +22324,8 @@
   "FirstSeenRating": "2023-06-09T03:57:04.3869033+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:50.4372379+00:00",
   "LastChanged": "2023-08-21T04:58:53.0201988+00:00",
-  "LastChanged_Achievements": "2023-08-21T06:04:43.6617446+00:00",
+  "LastChanged_Achievements": "2023-08-21T07:04:29.1385579+00:00",
   "LastUpdate_AppInfo": "2023-08-17T20:57:10.4408604+00:00",
-  "LastUpdate_Ratings": "2023-08-21T05:59:40.2120349+00:00",
-  "LastUpdate_Achievements": "2023-08-21T06:04:43.6825291+00:00"
+  "LastUpdate_Ratings": "2023-08-21T06:59:25.5289121+00:00",
+  "LastUpdate_Achievements": "2023-08-21T07:04:29.151684+00:00"
 }

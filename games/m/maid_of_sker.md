@@ -10,18 +10,18 @@
 | Smooth Operator | 16.00% | ~28 |
 | Easy Listening | 15.00% | ~27 |
 | Rapturous Applause! | 14.00% | ~25 |
-| Perfect Harmony! | 12.00% | ~21 |
+| Perfect Harmony! | 13.00% | ~23 |
 | Wales Interactive | 10.00% | ~18 |
 | Chief Butler | 8.00% | ~14 |
 | Bull in a China Shop | 6.00% | ~11 |
-| Sker Explorer | 5.00% | ~9 |
+| Sker Explorer | 6.00% | ~11 |
 | Ending on a High Note | 2.00% | ~4 |
 | The Long Night | 2.00% | ~4 |
+| Luddite | 1.00% | ~2 |
 | Maids of Sker | 1.00% | ~2 |
 | Phonic Boom | 1.00% | ~2 |
 | Axe of Kindness | 0.60% | ~1 |
 | In Darkness | 0.60% | ~1 |
-| Luddite | 0.60% | ~1 |
 | Scholar | 0.60% | ~1 |
 | Axeman | 0.00% | ~0 |
 | Dodgy Geezer | 0.00% | ~0 |

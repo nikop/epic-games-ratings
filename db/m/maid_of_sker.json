@@ -4,7 +4,7 @@
   "ProductSlug": "maid-of-sker-2ae24e",
   "Ranking_EOS_Progress": 299,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 252,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -419,9 +419,9 @@
       "ID": "luddite",
       "SetID": "3j2phem",
       "Name": "Luddite",
-      "Percentage": 0.6,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "maids_of_sker",
@@ -459,9 +459,9 @@
       "ID": "perfect_harmony",
       "SetID": "3j2phem",
       "Name": "Perfect Harmony!",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 21
+      "UsersEstimate": 23
     },
     {
       "ID": "phonic_boom",
@@ -491,9 +491,9 @@
       "ID": "sker_explorer",
       "SetID": "3j2phem",
       "Name": "Sker Explorer",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "smooth_operator",
@@ -540,8 +540,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2023-08-21T06:02:25.4738416+00:00",
+  "LastChanged_Achievements": "2023-08-21T07:02:33.4057174+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:41.1918552+00:00",
-  "LastUpdate_Ratings": "2023-08-21T06:02:03.0572503+00:00",
-  "LastUpdate_Achievements": "2023-08-21T06:02:25.476177+00:00"
+  "LastUpdate_Ratings": "2023-08-21T07:02:13.0137116+00:00",
+  "LastUpdate_Achievements": "2023-08-21T07:02:33.4076276+00:00"
 }

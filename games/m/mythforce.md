@@ -26,7 +26,7 @@ Number of Ratings: 285  (23.09.2022)
 | Next Time on MythForce... | 0.90% | ~8 |
 | On this Episode! | 0.90% | ~8 |
 | The Fourth Gate | 0.80% | ~7 |
-| We've Got a Kaiju on the Field | 0.10% | ~1 |
+| We've Got a Kaiju on the Field | 0.20% | ~2 |
 | Deadalus and Loving It | 0.00% | ~0 |
 | Vexed Her | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

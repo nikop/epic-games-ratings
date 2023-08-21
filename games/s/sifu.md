@@ -49,11 +49,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | Martial Artist | 0.40% | ~2,850 |
 | Knowledge Greed | 0.40% | ~2,850 |
 | The Pit Protector | 0.40% | ~2,850 |
+| Come Snap With Me | 0.40% | ~2,850 |
 | Secure, Protect, Leave | 0.40% | ~88 |
 | Healing Memory | 0.30% | ~2,138 |
 | Master of the Phoenix Eye Fist | 0.30% | ~2,138 |
 | Be like water my friend | 0.30% | ~2,138 |
-| Come Snap With Me | 0.30% | ~2,138 |
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,425 |
 | Warriors from the Mountain | 0.10% | ~713 |
 ## Popularity (Based on EOS Achievements)

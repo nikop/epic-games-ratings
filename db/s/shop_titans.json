@@ -5686,9 +5686,9 @@
       "Count": 3737
     }
   ],
-  "EOS_Progressed": 134868,
+  "EOS_Progressed": 134873,
   "EOS_Completed": 133,
-  "EOS_NewPlayers": 381,
+  "EOS_NewPlayers": 383,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -18251,6 +18251,11 @@
       "Time": "2023-08-21T06:07:00.1993991+00:00",
       "NumProgressed": 134868,
       "NumCompleted": 133
+    },
+    {
+      "Time": "2023-08-21T07:07:15.3535108+00:00",
+      "NumProgressed": 134873,
+      "NumCompleted": 133
     }
   ],
   "TotalAchievements": 112,
@@ -18740,9 +18745,9 @@
       "ID": "gold02",
       "SetID": "anfd17p",
       "Name": "Pretty Penny",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 809
+      "UsersEstimate": 944
     },
     {
       "ID": "gold03",
@@ -18812,9 +18817,9 @@
       "ID": "jackslot01",
       "SetID": "anfd17p",
       "Name": "One-Armed Bandit",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 674
+      "UsersEstimate": 809
     },
     {
       "ID": "jackslot02",
@@ -18916,9 +18921,9 @@
       "ID": "master01",
       "SetID": "anfd17p",
       "Name": "Through Repetition, Perfection",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 674
+      "UsersEstimate": 809
     },
     {
       "ID": "master02",
@@ -19157,15 +19162,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 134868,
+      "Progressed": 134873,
       "Completed": 133
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-08-21T03:00:47.0894534+00:00",
-  "LastChanged_Achievements": "2023-08-21T06:07:00.1993985+00:00",
+  "LastChanged_Achievements": "2023-08-21T07:07:15.3535099+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:50.7489496+00:00",
-  "LastUpdate_Ratings": "2023-08-21T06:01:12.9456678+00:00",
-  "LastUpdate_Achievements": "2023-08-21T06:07:00.1998583+00:00"
+  "LastUpdate_Ratings": "2023-08-21T07:01:18.3584503+00:00",
+  "LastUpdate_Achievements": "2023-08-21T07:07:15.3536873+00:00"
 }

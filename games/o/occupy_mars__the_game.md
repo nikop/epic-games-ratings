@@ -28,8 +28,8 @@ Rating: 3.96 (Ranked 944)
 | Driver's License | 2.00% | ~30 |
 | Hard Landing | 2.00% | ~30 |
 | Explosive Miner | 1.00% | ~15 |
+| Caveman | 1.00% | ~15 |
 | Rocket Jump | 1.00% | ~15 |
-| Caveman | 0.90% | ~14 |
 | Thunderstruck | 0.80% | ~12 |
 | 5G Network | 0.70% | ~11 |
 | Planetary Defence | 0.70% | ~11 |

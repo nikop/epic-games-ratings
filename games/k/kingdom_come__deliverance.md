@@ -10,14 +10,14 @@ Number of Ratings: 9,133  (23.09.2022)
 | Cavalier | 25.00% | ~199,466 |
 | Fatso | 23.00% | ~183,508 |
 | Awakening | 21.00% | ~167,551 |
-| Ranger | 20.00% | ~159,572 |
-| Scrooge | 20.00% | ~159,572 |
+| Ranger | 20.00% | ~159,573 |
+| Scrooge | 20.00% | ~159,573 |
 | Anorectic | 16.00% | ~127,658 |
 | Bookworm | 15.00% | ~119,679 |
 | Firestarter | 15.00% | ~119,679 |
 | Insomniac | 13.00% | ~103,722 |
-| Buddy | 12.00% | ~95,743 |
-| Thief | 12.00% | ~95,743 |
+| Buddy | 12.00% | ~95,744 |
+| Thief | 12.00% | ~95,744 |
 | Sinner | 11.00% | ~87,765 |
 | Convict | 10.00% | ~79,786 |
 | Traveller | 10.00% | ~79,786 |
@@ -28,9 +28,9 @@ Number of Ratings: 9,133  (23.09.2022)
 | Bad Trip | 5.00% | ~39,893 |
 | Monk | 5.00% | ~39,893 |
 | Serial Killer | 5.00% | ~39,893 |
-| Bastard | 4.00% | ~31,914 |
-| Hunter | 4.00% | ~31,914 |
-| Plague Doctor | 4.00% | ~31,914 |
+| Bastard | 4.00% | ~31,915 |
+| Hunter | 4.00% | ~31,915 |
+| Plague Doctor | 4.00% | ~31,915 |
 | Bard | 3.00% | ~23,936 |
 | Conqueror | 3.00% | ~23,936 |
 | Ginger in a Pickle | 3.00% | ~23,936 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~798 |
 | Wingman | 0.10% | ~798 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 797,862 (Ranked 16)  
+Progressed: 797,863 (Ranked 16)  
 Completed: 44 (0.01%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 44 (0.01%) (Ranked 248)
 | 2023-08-18 | 797,548 | 44 |
 | 2023-08-19 | 797,694 | 44 |
 | 2023-08-20 | 797,845 | 44 |
-| 2023-08-21 | 797,862 | 44 |
+| 2023-08-21 | 797,863 | 44 |
 ## Awards
 Max (Character Customization): 7,394  (Ranked 47)  
 Sum: 27,541 (Ranked 46)  

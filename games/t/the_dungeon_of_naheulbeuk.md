@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 21.00% | ~45,235 |
+| Sowwy! | 21.00% | ~45,237 |
 | Where's that freaking Dwarf? | 2.00% | ~4,308 |
 | Alt+F4 | 2.00% | ~4,308 |
 | Déjà vu | 1.00% | ~2,154 |
@@ -22,12 +22,12 @@ Number of Ratings: 118  (23.09.2022)
 | The demons' feast | 0.60% | ~1,292 |
 | The Great Library | 0.60% | ~1,292 |
 | Torture and Sensibility | 0.60% | ~1,292 |
+| Urik's Depths | 0.60% | ~1,292 |
 | The Woman in the High Castle | 0.60% | ~1,292 |
 | %#*!$*! | 0.60% | ~1,292 |
 | Team Building Exercise | 0.60% | ~1,292 |
 | Oh, when I'll be level 10... | 0.60% | ~1,292 |
 | Shiny and Crôm | 0.50% | ~1,077 |
-| Urik's Depths | 0.50% | ~1,077 |
 | The Dungeon Master | 0.50% | ~1,077 |
 | The Statuette of Gladeulfeurah | 0.50% | ~1,077 |
 | A tale of adventurers not quite like the others... | 0.50% | ~1,077 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Staff cut | 0.00% | ~0 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,404 (Ranked 56)  
+Progressed: 215,416 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,7 +177,7 @@ Completed: 2 (0.00%) (Ranked 261)
 | 2023-08-18 | 214,230 | 2 |
 | 2023-08-19 | 214,804 | 2 |
 | 2023-08-20 | 215,307 | 2 |
-| 2023-08-21 | 215,404 | 2 |
+| 2023-08-21 | 215,416 | 2 |
 ## Awards
 Max (Character Customization): 172  (Ranked 287)  
 Sum: 213 (Ranked 366)  

@@ -1682,9 +1682,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 55761,
+  "EOS_Progressed": 55764,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 772,
+  "EOS_NewPlayers": 770,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -14962,6 +14962,11 @@
       "Time": "2023-08-21T06:03:33.9206961+00:00",
       "NumProgressed": 55761,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-21T07:03:24.5240725+00:00",
+      "NumProgressed": 55764,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -14973,7 +14978,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 30669
+      "UsersEstimate": 30670
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -15021,7 +15026,7 @@
       "Name": "Advance Australia",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2230
+      "UsersEstimate": 2231
     },
     {
       "ID": "VERDUN_ACH_BELGIANS",
@@ -15045,7 +15050,7 @@
       "Name": "We Stand on Guard",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2230
+      "UsersEstimate": 2231
     },
     {
       "ID": "VERDUN_ACH_CHASSEURS",
@@ -15053,7 +15058,7 @@
       "Name": "Sidi Brahim",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2230
+      "UsersEstimate": 2231
     },
     {
       "ID": "VERDUN_ACH_COOP1",
@@ -15061,7 +15066,7 @@
       "Name": "War is better with friends I",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2230
+      "UsersEstimate": 2231
     },
     {
       "ID": "VERDUN_ACH_COOP2",
@@ -15101,7 +15106,7 @@
       "Name": "This We\u0027ll Defend!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5018
+      "UsersEstimate": 5019
     },
     {
       "ID": "VERDUN_ACH_GOLD100",
@@ -15141,7 +15146,7 @@
       "Name": "Let them, come to us",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2230
+      "UsersEstimate": 2231
     },
     {
       "ID": "VERDUN_ACH_GOLD10_FLBESTSQUAD",
@@ -15205,7 +15210,7 @@
       "Name": "Headhunter I",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 14498
+      "UsersEstimate": 14499
     },
     {
       "ID": "VERDUN_ACH_HEADSHOTS2",
@@ -15237,7 +15242,7 @@
       "Name": "Corpseman I",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 22304
+      "UsersEstimate": 22306
     },
     {
       "ID": "VERDUN_ACH_KILLS2",
@@ -15245,7 +15250,7 @@
       "Name": "Corpseman II",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2230
+      "UsersEstimate": 2231
     },
     {
       "ID": "VERDUN_ACH_KILLS3",
@@ -15261,7 +15266,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 35129
+      "UsersEstimate": 35131
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -15269,7 +15274,7 @@
       "Name": "Gott Mit Uns",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6691
+      "UsersEstimate": 6692
     },
     {
       "ID": "VERDUN_ACH_LEVEL100",
@@ -15317,7 +15322,7 @@
       "Name": "Manual Labour I",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 13940
+      "UsersEstimate": 13941
     },
     {
       "ID": "VERDUN_ACH_MELEEKILLS2",
@@ -15341,7 +15346,7 @@
       "Name": "Setting an example",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 42936
+      "UsersEstimate": 42938
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -15349,7 +15354,7 @@
       "Name": "Anker wirf!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5018
+      "UsersEstimate": 5019
     },
     {
       "ID": "VERDUN_ACH_POILUS",
@@ -15413,7 +15418,7 @@
       "Name": "Providentiea Memor",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5018
+      "UsersEstimate": 5019
     },
     {
       "ID": "VERDUN_ACH_TIRAILLEURS",
@@ -15429,7 +15434,7 @@
       "Name": "For King and Country",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5018
+      "UsersEstimate": 5019
     },
     {
       "ID": "VERDUN_ACH_TRIPLEEXPL",
@@ -15437,22 +15442,22 @@
       "Name": "Blast fishing",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 20632
+      "UsersEstimate": 20633
     }
   ],
   "AchievementSets": [
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 55761,
+      "Progressed": 55764,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-08-12T10:59:23.0851694+00:00",
-  "LastChanged_Achievements": "2023-08-21T06:03:33.9206953+00:00",
+  "LastChanged_Achievements": "2023-08-21T07:03:24.5240721+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:55.9821286+00:00",
-  "LastUpdate_Ratings": "2023-08-21T06:01:18.5354089+00:00",
-  "LastUpdate_Achievements": "2023-08-21T06:03:33.9209429+00:00"
+  "LastUpdate_Ratings": "2023-08-21T07:01:23.7234212+00:00",
+  "LastUpdate_Achievements": "2023-08-21T07:03:24.5241739+00:00"
 }

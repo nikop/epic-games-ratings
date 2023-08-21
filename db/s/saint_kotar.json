@@ -4,7 +4,7 @@
   "ProductSlug": "saint-kotar-7f0c47",
   "Ranking_EOS_Progress": 410,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 360,
+  "Ranking_EOS_NewPlayers": 359,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2021-10-28T11:00:00+00:00",
@@ -76,25 +76,25 @@
       "ID": "Benedek_put_Kata_out_of_misery",
       "SetID": "4akddl8",
       "Name": "Put Kata out of Her Misery",
-      "Percentage": 24,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Mojse_an_ally",
       "SetID": "4akddl8",
       "Name": "Make the Prophet Your Ally",
-      "Percentage": 29,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Nikolay_one_eye_less",
       "SetID": "4akddl8",
       "Name": "Become a Half-Child",
-      "Percentage": 29,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Ulric_painting_acquired",
@@ -276,17 +276,17 @@
       "ID": "hidden_location_kabeer_catacomb_discovered",
       "SetID": "4akddl8",
       "Name": "A Catacomb",
-      "Percentage": 29,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "hidden_location_kotar_crypt_discovered",
       "SetID": "4akddl8",
       "Name": "The Crypt of Ivan Kotar",
-      "Percentage": 24,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "hidden_location_sanctuary_discovered",
@@ -348,9 +348,9 @@
       "ID": "learned_more_about_Kotar_and_lore_and_background_story",
       "SetID": "4akddl8",
       "Name": "Lore and Background Story",
-      "Percentage": 24,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "made_Nikolay_ponder_about_meaning_of_life",
@@ -429,8 +429,8 @@
   "FirstSeenRating": "2023-03-31T05:58:43.0246209+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.7285802+00:00",
   "LastChanged": "2023-03-31T05:58:43.024621+00:00",
-  "LastChanged_Achievements": "2023-08-21T06:05:33.723897+00:00",
+  "LastChanged_Achievements": "2023-08-21T07:05:22.3548601+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:35.2595879+00:00",
-  "LastUpdate_Ratings": "2023-08-21T05:59:05.2474654+00:00",
-  "LastUpdate_Achievements": "2023-08-21T06:05:33.7239444+00:00"
+  "LastUpdate_Ratings": "2023-08-21T06:58:50.4985319+00:00",
+  "LastUpdate_Achievements": "2023-08-21T07:05:22.3548909+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "nemezis-mysterious-journey-iii",
   "Ranking_EOS_Progress": 549,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 360,
+  "Ranking_EOS_NewPlayers": 359,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2021-12-15T19:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:22.3041573+00:00",
   "LastChanged": "2023-03-31T05:57:22.3041575+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:22.6510513+00:00",
-  "LastUpdate_Ratings": "2023-08-21T06:00:57.0137786+00:00",
-  "LastUpdate_Achievements": "2023-08-21T06:05:42.0866986+00:00"
+  "LastUpdate_Ratings": "2023-08-21T07:01:00.6480917+00:00",
+  "LastUpdate_Achievements": "2023-08-21T07:05:31.2363014+00:00"
 }
