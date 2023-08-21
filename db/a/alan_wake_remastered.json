@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 61217,
+  "EOS_Progressed": 61219,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 394,
+  "EOS_NewPlayers": 392,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11897,6 +11897,11 @@
       "Time": "2023-08-21T02:19:17.5303202+00:00",
       "NumProgressed": 61217,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-21T03:06:25.4374035+00:00",
+      "NumProgressed": 61219,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -11908,7 +11913,7 @@
       "Name": "Follow the Light",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 22650
+      "UsersEstimate": 22651
     },
     {
       "ID": "02",
@@ -11940,7 +11945,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 12243
+      "UsersEstimate": 12244
     },
     {
       "ID": "06",
@@ -12100,7 +12105,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4897
+      "UsersEstimate": 4898
     },
     {
       "ID": "26",
@@ -12132,7 +12137,7 @@
       "Name": "Sound and Fury",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 8570
+      "UsersEstimate": 8571
     },
     {
       "ID": "30",
@@ -12156,7 +12161,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 17753
+      "UsersEstimate": 17754
     },
     {
       "ID": "33",
@@ -12164,7 +12169,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 8570
+      "UsersEstimate": 8571
     },
     {
       "ID": "34",
@@ -12180,7 +12185,7 @@
       "Name": "Let There Be Light",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 18365
+      "UsersEstimate": 18366
     },
     {
       "ID": "36",
@@ -12268,7 +12273,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 8570
+      "UsersEstimate": 8571
     },
     {
       "ID": "47",
@@ -12443,21 +12448,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 61217,
+      "Progressed": 61219,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 24685,
+      "Progressed": 24687,
       "Completed": 50
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-21T02:19:17.5303196+00:00",
+  "LastChanged_Achievements": "2023-08-21T03:06:25.4374027+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:35.5614422+00:00",
-  "LastUpdate_Ratings": "2023-08-21T02:12:36.8047362+00:00",
-  "LastUpdate_Achievements": "2023-08-21T02:19:17.5304561+00:00"
+  "LastUpdate_Ratings": "2023-08-21T02:59:48.9569404+00:00",
+  "LastUpdate_Achievements": "2023-08-21T03:06:25.4375653+00:00"
 }

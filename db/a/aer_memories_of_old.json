@@ -2,7 +2,7 @@
   "ID": "f3720f53cccb4a20841a392a8ea0457f",
   "Name": "AER Memories of Old",
   "ProductSlug": "aer-memories-of-old",
-  "Ranking_Rating": 636,
+  "Ranking_Rating": 637,
   "Ranking_Popularity": 513,
   "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 109,
@@ -380,9 +380,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18318,
+  "EOS_Progressed": 18319,
   "EOS_Completed": 373,
-  "EOS_NewPlayers": 530,
+  "EOS_NewPlayers": 529,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 2.04,
   "EosHistory": [
@@ -13435,6 +13435,11 @@
       "Time": "2023-08-21T02:19:13.7872234+00:00",
       "NumProgressed": 18318,
       "NumCompleted": 373
+    },
+    {
+      "Time": "2023-08-21T03:06:20.7651746+00:00",
+      "NumProgressed": 18319,
+      "NumCompleted": 373
     }
   ],
   "TotalAchievements": 20,
@@ -13494,7 +13499,7 @@
       "Name": "An uninvited guest",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1465
+      "UsersEstimate": 1466
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -13598,22 +13603,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 3480
+      "UsersEstimate": 3481
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 18318,
+      "Progressed": 18319,
       "Completed": 373
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-08-12T01:39:46.4098224+00:00",
-  "LastChanged_Achievements": "2023-08-21T02:19:13.7872228+00:00",
+  "LastChanged_Achievements": "2023-08-21T03:06:20.7651738+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:54.5287855+00:00",
-  "LastUpdate_Ratings": "2023-08-21T02:10:54.2729166+00:00",
-  "LastUpdate_Achievements": "2023-08-21T02:19:13.7873138+00:00"
+  "LastUpdate_Ratings": "2023-08-21T02:57:42.4275473+00:00",
+  "LastUpdate_Achievements": "2023-08-21T03:06:20.7652919+00:00"
 }

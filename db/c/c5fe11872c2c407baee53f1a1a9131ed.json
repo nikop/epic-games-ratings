@@ -4,8 +4,8 @@
   "ProductSlug": "spingun-843f78",
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-06-02T04:00:00+00:00",
     "PcReleaseDate": "2016-11-11T05:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 130,
+  "EOS_Progressed": 131,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -599,6 +599,11 @@
       "Time": "2023-08-21T01:45:25.5395234+00:00",
       "NumProgressed": 130,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-21T03:06:46.2012853+00:00",
+      "NumProgressed": 131,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -650,7 +655,7 @@
       "Name": "Ballpit 30 Seconds",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ach_chainer_zone",
@@ -666,7 +671,7 @@
       "Name": "Customize Ship",
       "Percentage": 48,
       "XP": 40,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "ach_endless_120",
@@ -688,9 +693,9 @@
       "ID": "ach_endless_60",
       "SetID": "5a4225j",
       "Name": "Endless 60 Seconds",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 35,
-      "UsersEstimate": 36
+      "UsersEstimate": 35
     },
     {
       "ID": "ach_endless_c_60",
@@ -794,7 +799,7 @@
       "Name": "Won Spreader Zone",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ach_toosoon",
@@ -817,13 +822,13 @@
     {
       "ID": "5a4225j",
       "IsBase": true,
-      "Progressed": 130,
+      "Progressed": 131,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-06-02T21:05:45.273905+00:00",
-  "LastChanged_Achievements": "2023-08-21T02:19:34.8532916+00:00",
+  "LastChanged_Achievements": "2023-08-21T03:06:46.2012846+00:00",
   "LastUpdate_AppInfo": "2023-08-19T03:57:03.501559+00:00",
-  "LastUpdate_Ratings": "2023-08-21T02:12:02.2908002+00:00",
-  "LastUpdate_Achievements": "2023-08-21T02:19:34.8533155+00:00"
+  "LastUpdate_Ratings": "2023-08-21T02:59:04.7421171+00:00",
+  "LastUpdate_Achievements": "2023-08-21T03:06:46.2013103+00:00"
 }

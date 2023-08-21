@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewPlayers": 286,
   "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -130,9 +130,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2519,
+  "EOS_Progressed": 2520,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -3395,6 +3395,11 @@
       "Time": "2023-08-20T11:05:47.4026616+00:00",
       "NumProgressed": 2519,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-08-21T03:05:32.6476437+00:00",
+      "NumProgressed": 2520,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -3422,7 +3427,7 @@
       "Name": "Whispers in the Woods IV",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "STB_COLISSEUM_SECOND",
@@ -3430,7 +3435,7 @@
       "Name": "Whispers in the Woods II",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "STB_COLISSEUM_THIRD",
@@ -3444,9 +3449,9 @@
       "ID": "STB_COPY_ABILITIES",
       "SetID": "3pe2bac",
       "Name": "Hijack",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 731
+      "UsersEstimate": 706
     },
     {
       "ID": "STB_CRITICAL_HITS",
@@ -3470,7 +3475,7 @@
       "Name": "For Demacia",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 2418
+      "UsersEstimate": 2419
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -3486,7 +3491,7 @@
       "Name": "Everfrost",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 1965
+      "UsersEstimate": 1966
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -3590,7 +3595,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2317
+      "UsersEstimate": 2318
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -3622,7 +3627,7 @@
       "Name": "Dark Forest",
       "Percentage": 78,
       "XP": 100,
-      "UsersEstimate": 1965
+      "UsersEstimate": 1966
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -3646,7 +3651,7 @@
       "Name": "Devineur",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "STB_MISSION4_COMPLETED",
@@ -3654,7 +3659,7 @@
       "Name": "Sacred Woods",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "STB_MISSION5A_COMPLETED",
@@ -3750,7 +3755,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 831
+      "UsersEstimate": 832
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -3782,7 +3787,7 @@
       "Name": "The use of petricite",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 1864
+      "UsersEstimate": 1865
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -3829,7 +3834,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2519,
+      "Progressed": 2520,
       "Completed": 7
     }
   ],
@@ -3837,8 +3842,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-08-06T02:15:52.3932671+00:00",
-  "LastChanged_Achievements": "2023-08-21T02:18:34.1142676+00:00",
+  "LastChanged_Achievements": "2023-08-21T03:05:32.6476432+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:30.177742+00:00",
-  "LastUpdate_Ratings": "2023-08-21T02:12:31.7536609+00:00",
-  "LastUpdate_Achievements": "2023-08-21T02:18:34.1143356+00:00"
+  "LastUpdate_Ratings": "2023-08-21T02:59:43.2362534+00:00",
+  "LastUpdate_Achievements": "2023-08-21T03:05:32.6477128+00:00"
 }

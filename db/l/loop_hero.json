@@ -2,20 +2,20 @@
   "ID": "ff50f85ed609454e80ac46d9496da34d",
   "Name": "Loop Hero",
   "ProductSlug": "loop-hero",
-  "Ranking_Rating": 238,
+  "Ranking_Rating": 256,
   "Ranking_Popularity": 206,
   "Ranking_PopularitySum": 150,
   "Ranking_EOS_Progress": 549,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 363,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-03-04T18:00:00+00:00",
     "PcReleaseDate": "2021-03-04T18:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.68,
+  "Rating": 4.67,
   "NumberOfRatings": 6301,
   "RatingHistory": [
     {
@@ -3343,6 +3343,12 @@
       "Rating": 4.68,
       "NumberOfAwards": 3685,
       "NumberOfAwardsMax": 439
+    },
+    {
+      "Time": "2023-08-21T02:57:41.4833605+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 3685,
+      "NumberOfAwardsMax": 439
     }
   ],
   "ReviewsDisabled": false,
@@ -3422,8 +3428,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:49.2794881+00:00",
-  "LastChanged": "2023-08-20T14:57:47.031933+00:00",
+  "LastChanged": "2023-08-21T02:57:41.4833604+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:53.2613006+00:00",
-  "LastUpdate_Ratings": "2023-08-21T02:10:53.3792248+00:00",
-  "LastUpdate_Achievements": "2023-08-21T02:17:17.0359161+00:00"
+  "LastUpdate_Ratings": "2023-08-21T02:57:41.4833613+00:00",
+  "LastUpdate_Achievements": "2023-08-21T03:04:12.0039783+00:00"
 }

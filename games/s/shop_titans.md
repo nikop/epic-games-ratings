@@ -46,6 +46,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Big Game Hunting | 0.30% | ~405 |
 | Fated Encounters | 0.30% | ~405 |
 | For the Hoard! | 0.30% | ~405 |
+| Scrapbooker | 0.30% | ~405 |
 | Locally Sourced | 0.30% | ~405 |
 | Flying off the Shelves | 0.30% | ~405 |
 | This Power Level...! | 0.30% | ~405 |
@@ -70,7 +71,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Constellated | 0.20% | ~270 |
 | Thirst for Knowledge | 0.20% | ~270 |
 | Booty by the Boatload | 0.20% | ~270 |
-| Scrapbooker | 0.20% | ~270 |
 | Archivist | 0.20% | ~270 |
 | Fillin' the Bin | 0.20% | ~270 |
 | Industrial Evolution | 0.20% | ~270 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.10% | ~135 |
 | All Accounted For | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,860 (Ranked 66)  
+Progressed: 134,862 (Ranked 66)  
 Completed: 133 (0.10%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -242,10 +242,10 @@ Completed: 133 (0.10%) (Ranked 208)
 | 2023-08-18 | 134,736 | 133 |
 | 2023-08-19 | 134,791 | 133 |
 | 2023-08-20 | 134,856 | 133 |
-| 2023-08-21 | 134,860 | 133 |
+| 2023-08-21 | 134,862 | 133 |
 ## Awards
 Max (Great for Beginners): 4,706  (Ranked 71)  
-Sum: 27,119 (Ranked 47)  
+Sum: 27,121 (Ranked 47)  
 Diff (max vs sum): 24  
 | Award | Count |
 | ----- | ----- |
@@ -253,7 +253,7 @@ Diff (max vs sum): 24
 | This game is Relaxing | 4,002 |
 | This game has Quickly Understood Controls | 3,987 |
 | This game has Diverse Characters | 3,856 |
-| This game is Highly Recommended | 3,735 |
+| This game is Highly Recommended | 3,737 |
 | This game has Easy Combat | 3,677 |
 | This game has Playful Visuals | 3,156 |
 | This game has Inclusive Character Customization | 22 |
@@ -469,3 +469,4 @@ Diff (max vs sum): 24
 | 2023-08-18 | 3.99 | - | 4,704 | 27,110 |
 | 2023-08-19 | 3.99 | - | 4,705 | 27,114 |
 | 2023-08-20 | 3.99 | - | 4,706 | 27,119 |
+| 2023-08-21 | 3.99 | - | 4,706 | 27,121 |

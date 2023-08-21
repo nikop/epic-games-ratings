@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 155,
   "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -212,9 +212,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7259,
+  "EOS_Progressed": 7260,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 294,
+  "EOS_NewPlayers": 295,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -6117,6 +6117,11 @@
       "Time": "2023-08-21T01:44:39.0116088+00:00",
       "NumProgressed": 7259,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-08-21T03:06:08.5324855+00:00",
+      "NumProgressed": 7260,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 21,
@@ -6176,7 +6181,7 @@
       "Name": "Energy Saver",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 1161
+      "UsersEstimate": 1162
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -6200,7 +6205,7 @@
       "Name": "Globe Trotter",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 798
+      "UsersEstimate": 799
     },
     {
       "ID": "HAPPY_CAMPER",
@@ -6232,7 +6237,7 @@
       "Name": "In a Pinch",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1524
+      "UsersEstimate": 1525
     },
     {
       "ID": "LIBERATOR",
@@ -6295,7 +6300,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7259,
+      "Progressed": 7260,
       "Completed": 32
     }
   ],
@@ -6303,8 +6308,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-08-07T01:56:04.2387619+00:00",
-  "LastChanged_Achievements": "2023-08-21T02:19:03.6607474+00:00",
+  "LastChanged_Achievements": "2023-08-21T03:06:08.5324843+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:55.8261903+00:00",
-  "LastUpdate_Ratings": "2023-08-21T02:12:52.1658431+00:00",
-  "LastUpdate_Achievements": "2023-08-21T02:19:03.6607988+00:00"
+  "LastUpdate_Ratings": "2023-08-21T03:00:09.5001094+00:00",
+  "LastUpdate_Achievements": "2023-08-21T03:06:08.5325471+00:00"
 }

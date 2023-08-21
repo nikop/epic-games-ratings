@@ -188,16 +188,16 @@ Completed: 3 (0.00%) (Ranked 261)
 | 2023-08-21 | 255,172 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 35  (Ranked 437)  
-Sum: 239 (Ranked 356)  
+Sum: 241 (Ranked 356)  
 Diff (max vs sum): 81  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 35 |
 | This game has Unique Visuals | 34 |
 | This game has Amazing Characters | 29 |
+| This game is Highly Recommended | 28 |
 | This game has Challenging Combat | 27 |
-| This game is Highly Recommended | 27 |
-| This game has a Competitive Community | 23 |
+| This game has a Competitive Community | 24 |
 | This game has Quickly Understood Controls | 22 |
 | This game has Competitive Players | 22 |
 | This game is Extremely Fun | 20 |
@@ -317,3 +317,4 @@ Diff (max vs sum): 81
 | 2023-08-13 | 4.41 | 35 | 237 |
 | 2023-08-14 | 4.41 | 35 | 239 |
 | 2023-08-18 | 4.42 | 35 | 239 |
+| 2023-08-21 | 4.42 | 35 | 241 |

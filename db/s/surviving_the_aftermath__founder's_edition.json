@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 278,
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1185,7 +1185,7 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 8426,
+  "EOS_Progressed": 8427,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 0,
@@ -11035,6 +11035,11 @@
       "Time": "2023-08-21T02:14:20.4790294+00:00",
       "NumProgressed": 8426,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-21T03:02:14.0420306+00:00",
+      "NumProgressed": 8427,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -11094,7 +11099,7 @@
       "Name": "Legendary Explorer",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2359
+      "UsersEstimate": 2360
     },
     {
       "ID": "16",
@@ -11182,7 +11187,7 @@
       "Name": "Cleaner",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2359
+      "UsersEstimate": 2360
     },
     {
       "ID": "26",
@@ -11190,7 +11195,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1432
+      "UsersEstimate": 1433
     },
     {
       "ID": "27",
@@ -11286,7 +11291,7 @@
       "Name": "Spreading Influence",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1432
+      "UsersEstimate": 1433
     },
     {
       "ID": "38",
@@ -11294,7 +11299,7 @@
       "Name": "Aspiring Inventor",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 3707
+      "UsersEstimate": 3708
     },
     {
       "ID": "39",
@@ -11310,7 +11315,7 @@
       "Name": "Catastrofan",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2359
+      "UsersEstimate": 2360
     },
     {
       "ID": "40",
@@ -11342,7 +11347,7 @@
       "Name": "Prepared for Anything",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1095
+      "UsersEstimate": 1096
     },
     {
       "ID": "44",
@@ -11398,7 +11403,7 @@
       "Name": "Big Catastrofan",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1095
+      "UsersEstimate": 1096
     },
     {
       "ID": "50",
@@ -11438,7 +11443,7 @@
       "Name": "Top Notch",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2106
+      "UsersEstimate": 2107
     },
     {
       "ID": "55",
@@ -11517,15 +11522,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 8426,
+      "Progressed": 8427,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-08-19T04:57:29.3183117+00:00",
-  "LastChanged_Achievements": "2023-08-21T02:14:20.4790288+00:00",
+  "LastChanged_Achievements": "2023-08-21T03:02:14.0420299+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:48.2219404+00:00",
-  "LastUpdate_Ratings": "2023-08-21T02:10:49.586176+00:00",
-  "LastUpdate_Achievements": "2023-08-21T02:14:20.4791605+00:00"
+  "LastUpdate_Ratings": "2023-08-21T02:57:36.8760272+00:00",
+  "LastUpdate_Achievements": "2023-08-21T03:02:14.0421948+00:00"
 }

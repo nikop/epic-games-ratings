@@ -1080,9 +1080,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15392,
+  "EOS_Progressed": 15393,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 416,
+  "EOS_NewPlayers": 415,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -14125,6 +14125,11 @@
       "Time": "2023-08-21T01:44:20.6866902+00:00",
       "NumProgressed": 15392,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-08-21T03:05:46.7037064+00:00",
+      "NumProgressed": 15393,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 45,
@@ -14192,7 +14197,7 @@
       "Name": "Fine addition",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1077
+      "UsersEstimate": 1078
     },
     {
       "ID": "FinishLine",
@@ -14224,7 +14229,7 @@
       "Name": "Homerunner",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 6926
+      "UsersEstimate": 6927
     },
     {
       "ID": "ICallItLuck",
@@ -14232,7 +14237,7 @@
       "Name": "I call it luck",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 6772
+      "UsersEstimate": 6773
     },
     {
       "ID": "ImproviseAdaptOverrun",
@@ -14272,7 +14277,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 11698
+      "UsersEstimate": 11699
     },
     {
       "ID": "MoreThanHuman",
@@ -14312,7 +14317,7 @@
       "Name": "One Of Those Days",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1077
+      "UsersEstimate": 1078
     },
     {
       "ID": "OutOfOrder",
@@ -14320,7 +14325,7 @@
       "Name": "Out of order",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 6926
+      "UsersEstimate": 6927
     },
     {
       "ID": "Perfection",
@@ -14328,7 +14333,7 @@
       "Name": "Perfection",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 4925
+      "UsersEstimate": 4926
     },
     {
       "ID": "PreempativeStrike",
@@ -14408,7 +14413,7 @@
       "Name": "Sword Runner",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 9543
+      "UsersEstimate": 9544
     },
     {
       "ID": "SwordToAGunfight",
@@ -14495,21 +14500,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 15392,
+      "Progressed": 15393,
       "Completed": 36
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 15392,
+      "Progressed": 15393,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-08-18T11:00:46.3223186+00:00",
-  "LastChanged_Achievements": "2023-08-21T02:18:45.7565053+00:00",
+  "LastChanged_Achievements": "2023-08-21T03:05:46.7037057+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:12.9191128+00:00",
-  "LastUpdate_Ratings": "2023-08-21T02:13:02.2436014+00:00",
-  "LastUpdate_Achievements": "2023-08-21T02:18:45.75662+00:00"
+  "LastUpdate_Ratings": "2023-08-21T03:00:23.3303949+00:00",
+  "LastUpdate_Achievements": "2023-08-21T03:05:46.7038472+00:00"
 }

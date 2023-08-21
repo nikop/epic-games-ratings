@@ -5,7 +5,7 @@ Rating: 4.20 (Ranked 858)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get a Grip | 5.00% | ~794 |
+| Get a Grip | 6.00% | ~953 |
 | Paper Jams | 5.00% | ~794 |
 | Flesh Wound | 4.00% | ~635 |
 | Float Like A Butterfly | 4.00% | ~635 |

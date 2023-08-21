@@ -8,6 +8,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | ---- | ---------- | ----- |
 | The Clergy | 4.00% | ~540 |
 | Explorer | 3.00% | ~405 |
+| Intrepid | 3.00% | ~405 |
 | Settler | 3.00% | ~405 |
 | Friendly Family | 3.00% | ~405 |
 | Play a Single Player Game | 3.00% | ~405 |
@@ -17,7 +18,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Enlightened | 2.00% | ~270 |
 | Glorious | 2.00% | ~270 |
 | Good | 2.00% | ~270 |
-| Intrepid | 2.00% | ~270 |
 | Just | 2.00% | ~270 |
 | Keystone | 2.00% | ~270 |
 | Learned | 2.00% | ~270 |
@@ -86,6 +86,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Statesmen | 0.70% | ~95 |
 | Traders | 0.70% | ~95 |
 | Hittite Iron | 0.70% | ~95 |
+| Circus Maximus | 0.70% | ~95 |
 | Temple of Solomon | 0.70% | ~95 |
 | Pantheon | 0.70% | ~95 |
 | Via Recta Souk | 0.70% | ~95 |
@@ -102,7 +103,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ready | 0.60% | ~81 |
 | Subjugator | 0.60% | ~81 |
 | Riders | 0.60% | ~81 |
-| Circus Maximus | 0.60% | ~81 |
 | Hagia Sophia | 0.60% | ~81 |
 | Church of the Holy Sepulchre | 0.60% | ~81 |
 | Carthage | 0.60% | ~81 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,506 (Ranked 118)  
+Progressed: 13,507 (Ranked 118)  
 Completed: 5 (0.04%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -426,7 +426,7 @@ Completed: 5 (0.04%) (Ranked 231)
 | 2023-08-18 | 13,460 | 5 |
 | 2023-08-19 | 13,485 | 5 |
 | 2023-08-20 | 13,503 | 5 |
-| 2023-08-21 | 13,506 | 5 |
+| 2023-08-21 | 13,507 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,797 (Ranked 207)  

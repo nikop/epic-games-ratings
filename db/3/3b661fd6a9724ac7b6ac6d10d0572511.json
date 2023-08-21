@@ -3184,9 +3184,9 @@
       "Count": 733
     }
   ],
-  "EOS_Progressed": 1592915,
+  "EOS_Progressed": 1593010,
   "EOS_Completed": 518,
-  "EOS_NewPlayers": 25677,
+  "EOS_NewPlayers": 25679,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -11639,6 +11639,11 @@
       "Time": "2023-08-21T02:17:10.063192+00:00",
       "NumProgressed": 1592915,
       "NumCompleted": 518
+    },
+    {
+      "Time": "2023-08-21T03:03:55.1415747+00:00",
+      "NumProgressed": 1593010,
+      "NumCompleted": 518
     }
   ],
   "TotalAchievements": 1328,
@@ -12850,7 +12855,7 @@
       "Name": "I Want to Get Away",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 15929
+      "UsersEstimate": 15930
     },
     {
       "ID": "brooklyn_2",
@@ -13074,7 +13079,7 @@
       "Name": "Virus",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 9557
+      "UsersEstimate": 9558
     },
     {
       "ID": "cac_29",
@@ -16266,7 +16271,7 @@
       "Name": "Guilty of Crime",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 9557
+      "UsersEstimate": 9558
     },
     {
       "ID": "halloween_1",
@@ -16402,7 +16407,7 @@
       "Name": "How Do You Like Me Now?",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 9557
+      "UsersEstimate": 9558
     },
     {
       "ID": "i_knew_what_i_was_doing_was_wrong",
@@ -17362,7 +17367,7 @@
       "Name": "No One Cared Who I Was...",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 12743
+      "UsersEstimate": 12744
     },
     {
       "ID": "no_turning_back",
@@ -17370,7 +17375,7 @@
       "Name": "No Turning Back",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 12743
+      "UsersEstimate": 12744
     },
     {
       "ID": "orange_1",
@@ -22258,7 +22263,7 @@
       "Name": "You Gotta Start Somewhere",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 12743
+      "UsersEstimate": 12744
     },
     {
       "ID": "you_shall_not_pass",
@@ -22273,13 +22278,13 @@
     {
       "ID": "61cefe3",
       "IsBase": true,
-      "Progressed": 1592915,
+      "Progressed": 1593010,
       "Completed": 518
     },
     {
       "ID": "bkjdbk8",
       "IsBase": false,
-      "Progressed": 1592915,
+      "Progressed": 1593010,
       "Completed": 28
     }
   ],
@@ -22287,8 +22292,8 @@
   "FirstSeenRating": "2023-06-09T03:57:04.3869033+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:50.4372379+00:00",
   "LastChanged": "2023-08-20T23:58:33.6287854+00:00",
-  "LastChanged_Achievements": "2023-08-21T02:17:10.0631915+00:00",
+  "LastChanged_Achievements": "2023-08-21T03:03:55.141574+00:00",
   "LastUpdate_AppInfo": "2023-08-17T20:57:10.4408604+00:00",
-  "LastUpdate_Ratings": "2023-08-21T02:12:05.9610831+00:00",
-  "LastUpdate_Achievements": "2023-08-21T02:17:10.0786645+00:00"
+  "LastUpdate_Ratings": "2023-08-21T02:59:09.9852293+00:00",
+  "LastUpdate_Achievements": "2023-08-21T03:03:55.1626418+00:00"
 }
