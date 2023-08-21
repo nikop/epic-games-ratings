@@ -110,7 +110,7 @@
 | 101 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.78 | 0 | 513 |
 | 109 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 4,170 | 79 |
 | 109 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 6,732 | 52 |
-| 109 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 21,849 | 17 |
+| 109 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 21,871 | 17 |
 | 109 | [Remnant 2](games/r/remnant_2.md) | 4.77 | 1,039 | 142 |
 | 109 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.77 | 38 | 428 |
 | 109 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 0 | 513 |
@@ -245,7 +245,7 @@
 | 238 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 7,337 | 48 |
 | 238 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,915 | 81 |
 | 238 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 5,721 | 62 |
-| 238 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 3,522 | 85 |
+| 238 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 3,550 | 84 |
 | 238 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 303,278 | 3 |
 | 238 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 214,186 | 4 |
 | 238 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 513 |
@@ -374,7 +374,7 @@
 | 367 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 384 | 219 |
 | 367 | [Darkwood](games/d/darkwood.md) | 4.61 | 322 | 232 |
 | 367 | [Dead Space](games/d/dead_space.md) | 4.61 | 87 | 356 |
-| 367 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 43,267 | 12 |
+| 367 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 43,325 | 12 |
 | 367 | [GigaBash](games/g/gigabash.md) | 4.61 | 0 | 513 |
 | 367 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.61 | 38 | 428 |
 | 367 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,168 | 137 |
@@ -391,7 +391,7 @@
 | 367 | [The Colonists](games/t/the_colonists.md) | 4.61 | 0 | 513 |
 | 367 | [Warframe](games/w/warframe.md) | 4.61 | 16,535 | 22 |
 | 391 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.60 | 712 | 167 |
-| 391 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 13,275 | 28 |
+| 391 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 13,303 | 28 |
 | 391 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.60 | 0 | 513 |
 | 391 | [Brawlhalla](games/b/brawlhalla.md) | 4.60 | 279 | 242 |
 | 391 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 4,517 | 73 |
@@ -542,7 +542,6 @@
 | 527 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.52 | 0 | 513 |
 | 527 | [Verdun](games/v/verdun.md) | 4.52 | 96 | 343 |
 | 527 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 0 | 513 |
-| 543 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.51 | 1,702 | 117 |
 | 543 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 96 | 343 |
 | 543 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,112 | 80 |
 | 543 | [CryoFall](games/c/cryofall.md) | 4.51 | 0 | 513 |
@@ -558,24 +557,25 @@
 | 543 | [UnMetal](games/u/unmetal.md) | 4.51 | 0 | 513 |
 | 543 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 134 | 308 |
 | 543 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.51 | 28 | 467 |
-| 559 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 411 | 212 |
-| 559 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.50 | 108 | 328 |
-| 559 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 218 | 267 |
-| 559 | [Dark Deception](games/d/dark_deception.md) | 4.50 | 0 | 513 |
-| 559 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 91 | 350 |
-| 559 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 513 |
-| 559 | [First Class Trouble](games/f/first_class_trouble.md) | 4.50 | 122 | 317 |
-| 559 | [Horace](games/h/horace.md) | 4.50 | 0 | 513 |
-| 559 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.50 | 0 | 513 |
-| 559 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 0 | 513 |
-| 559 | [Knockout City™](games/k/knockout_city™.md) | 4.50 | 0 | 513 |
-| 559 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 99 | 338 |
-| 559 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 628 | 178 |
-| 559 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.50 | 23 | 491 |
-| 559 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.50 | 0 | 513 |
-| 559 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 762 | 161 |
-| 559 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 0 | 513 |
-| 559 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 36 | 433 |
+| 558 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 1,702 | 117 |
+| 558 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 411 | 212 |
+| 558 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.50 | 108 | 328 |
+| 558 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 218 | 267 |
+| 558 | [Dark Deception](games/d/dark_deception.md) | 4.50 | 0 | 513 |
+| 558 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 91 | 350 |
+| 558 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 513 |
+| 558 | [First Class Trouble](games/f/first_class_trouble.md) | 4.50 | 122 | 317 |
+| 558 | [Horace](games/h/horace.md) | 4.50 | 0 | 513 |
+| 558 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.50 | 0 | 513 |
+| 558 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 0 | 513 |
+| 558 | [Knockout City™](games/k/knockout_city™.md) | 4.50 | 0 | 513 |
+| 558 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 99 | 338 |
+| 558 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 628 | 178 |
+| 558 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.50 | 23 | 491 |
+| 558 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.50 | 0 | 513 |
+| 558 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 762 | 161 |
+| 558 | [Stories Untold](games/s/stories_untold.md) | 4.50 | 0 | 513 |
+| 558 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 36 | 433 |
 | 577 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 4.49 | 26 | 473 |
 | 577 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 64 | 387 |
 | 577 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.49 | 0 | 513 |
@@ -766,7 +766,7 @@
 | 760 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.34 | 0 | 513 |
 | 760 | [Encased](games/e/encased.md) | 4.34 | 141 | 305 |
 | 760 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.34 | 0 | 513 |
-| 760 | [Paladins](games/p/paladins.md) | 4.34 | 3,531 | 84 |
+| 760 | [Paladins](games/p/paladins.md) | 4.34 | 3,531 | 85 |
 | 760 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 249 | 253 |
 | 760 | [Torchlight](games/t/torchlight.md) | 4.34 | 21 | 501 |
 | 760 | [War Mongrels](games/w/war_mongrels.md) | 4.34 | 0 | 513 |
@@ -908,7 +908,7 @@
 | 906 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.11 | 20 | 509 |
 | 907 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 88 | 353 |
 | 907 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.10 | 0 | 513 |
-| 907 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,496 | 101 |
+| 907 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,497 | 101 |
 | 910 | [Fangs](games/f/fangs.md) | 4.09 | 0 | 513 |
 | 910 | [Lords Mobile](games/c/cc356954a6d54c719a86d215b566520f.md) | 4.09 | 0 | 513 |
 | 910 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.09 | 0 | 513 |
