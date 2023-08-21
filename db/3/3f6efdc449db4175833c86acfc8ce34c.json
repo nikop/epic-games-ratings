@@ -444,9 +444,9 @@
       "ID": "Mission2",
       "SetID": "6igjng7",
       "Name": "Mission 1 clear",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 200,
-      "UsersEstimate": 139
+      "UsersEstimate": 142
     },
     {
       "ID": "Mission3",
@@ -483,8 +483,8 @@
   ],
   "FirstSeen": "2023-08-19T18:58:05.6794692+00:00",
   "FirstSeenAchievements": "2023-08-08T21:02:12.6548497+00:00",
-  "LastChanged_Achievements": "2023-08-21T03:04:19.6701184+00:00",
+  "LastChanged_Achievements": "2023-08-21T04:04:40.7694509+00:00",
   "LastUpdate_AppInfo": "2023-08-14T08:57:17.4876993+00:00",
-  "LastUpdate_Ratings": "2023-08-21T02:58:13.4305434+00:00",
-  "LastUpdate_Achievements": "2023-08-21T03:04:19.670132+00:00"
+  "LastUpdate_Ratings": "2023-08-21T03:58:27.6571459+00:00",
+  "LastUpdate_Achievements": "2023-08-21T04:04:40.7694632+00:00"
 }

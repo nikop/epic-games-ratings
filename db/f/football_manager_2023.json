@@ -4498,9 +4498,9 @@
       "Count": 265
     }
   ],
-  "EOS_Progressed": 84494,
+  "EOS_Progressed": 84495,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 1679,
+  "EOS_NewPlayers": 1678,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -17758,6 +17758,11 @@
       "Time": "2023-08-21T03:04:57.3474605+00:00",
       "NumProgressed": 84494,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-08-21T04:05:18.2241324+00:00",
+      "NumProgressed": 84495,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 100,
@@ -17865,7 +17870,7 @@
       "Name": "Team Performance",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 37177
+      "UsersEstimate": 37178
     },
     {
       "ID": "achievement_beat_a_rival",
@@ -17913,7 +17918,7 @@
       "Name": "Clean Sheet",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 56611
+      "UsersEstimate": 56612
     },
     {
       "ID": "achievement_clean_sheet_network",
@@ -18065,7 +18070,7 @@
       "Name": "Irresistible Force",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 22813
+      "UsersEstimate": 22814
     },
     {
       "ID": "achievement_hattrick",
@@ -18073,7 +18078,7 @@
       "Name": "Hat-trick",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 50696
+      "UsersEstimate": 50697
     },
     {
       "ID": "achievement_head_to_head",
@@ -18089,7 +18094,7 @@
       "Name": "They\u0027re a Natural",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 38022
+      "UsersEstimate": 38023
     },
     {
       "ID": "achievement_import_to_victory",
@@ -18113,7 +18118,7 @@
       "Name": "Immovable Object",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 24503
+      "UsersEstimate": 24504
     },
     {
       "ID": "achievement_manager_of_the_month",
@@ -18153,7 +18158,7 @@
       "Name": "Motivational Speaker",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 65060
+      "UsersEstimate": 65061
     },
     {
       "ID": "achievement_new_kids_on_the_block",
@@ -18169,7 +18174,7 @@
       "Name": "One Of Our Own",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 40557
+      "UsersEstimate": 40558
     },
     {
       "ID": "achievement_one_of_us",
@@ -18193,7 +18198,7 @@
       "Name": "Total Support",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 8449
+      "UsersEstimate": 8450
     },
     {
       "ID": "achievement_planned_signing",
@@ -18241,7 +18246,7 @@
       "Name": "Record Signing",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 37177
+      "UsersEstimate": 37178
     },
     {
       "ID": "achievement_red_hot_newgen",
@@ -18265,7 +18270,7 @@
       "Name": "Cash to Burn",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 23658
+      "UsersEstimate": 23659
     },
     {
       "ID": "achievement_sell_player",
@@ -18273,7 +18278,7 @@
       "Name": "Off the Books",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 54921
+      "UsersEstimate": 54922
     },
     {
       "ID": "achievement_shots_for_days",
@@ -18289,7 +18294,7 @@
       "Name": "#DoneDeal",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 56611
+      "UsersEstimate": 56612
     },
     {
       "ID": "achievement_signed_a_player_from_another_network_user",
@@ -18313,7 +18318,7 @@
       "Name": "Super-Sub",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 54076
+      "UsersEstimate": 54077
     },
     {
       "ID": "achievement_the_only_stat_that_matters",
@@ -18321,7 +18326,7 @@
       "Name": "The Only Stat That Matters",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 37177
+      "UsersEstimate": 37178
     },
     {
       "ID": "achievement_the_peoples_champion",
@@ -18337,7 +18342,7 @@
       "Name": "The Player Whisperer",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 64215
+      "UsersEstimate": 64216
     },
     {
       "ID": "achievement_the_unstoppables",
@@ -18457,7 +18462,7 @@
       "Name": "First Victory",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 57456
+      "UsersEstimate": 57457
     },
     {
       "ID": "achievement_won_international_championship",
@@ -18481,7 +18486,7 @@
       "Name": "Cup Glory!",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 24503
+      "UsersEstimate": 24504
     },
     {
       "ID": "achievement_won_world_cup",
@@ -18505,7 +18510,7 @@
       "Name": "You Can Buy Happiness",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 8449
+      "UsersEstimate": 8450
     },
     {
       "ID": "career_earnings_over_100_million",
@@ -18568,7 +18573,7 @@
     {
       "ID": "26pcimd",
       "IsBase": true,
-      "Progressed": 84494,
+      "Progressed": 84495,
       "Completed": 23
     }
   ],
@@ -18576,8 +18581,8 @@
   "FirstSeenRating": "2022-11-08T17:57:47.9405885+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.5210365+00:00",
   "LastChanged": "2023-08-20T20:57:28.9672345+00:00",
-  "LastChanged_Achievements": "2023-08-21T03:04:57.3474598+00:00",
+  "LastChanged_Achievements": "2023-08-21T04:05:18.2241318+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:00:03.022636+00:00",
-  "LastUpdate_Ratings": "2023-08-21T02:57:04.9739071+00:00",
-  "LastUpdate_Achievements": "2023-08-21T03:04:57.3477116+00:00"
+  "LastUpdate_Ratings": "2023-08-21T03:57:20.7356391+00:00",
+  "LastUpdate_Achievements": "2023-08-21T04:05:18.2243691+00:00"
 }

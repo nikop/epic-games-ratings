@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Chapter I | 50.00% | ~54 |
 | Fire in the... nevermind | 50.00% | ~54 |
-| Chapter I | 49.00% | ~53 |
 | Haute cuisine | 44.00% | ~48 |
 | I didn't do it! | 39.00% | ~43 |
 | Demolition expert | 35.00% | ~38 |
 | Wooooooow! | 35.00% | ~38 |
 | Artistic fool | 34.00% | ~37 |
 | Keep away from children | 34.00% | ~37 |
-| Open up wide | 31.00% | ~34 |
+| Open up wide | 32.00% | ~35 |
 | Chapter II | 29.00% | ~32 |
 | Let the boot talk | 28.00% | ~31 |
 | Achoo!! | 28.00% | ~31 |
@@ -21,16 +21,16 @@
 | Bubblekillerfamily | 24.00% | ~26 |
 | Quite a buggy game | 23.00% | ~25 |
 | Mirror mirror on the wall... | 23.00% | ~25 |
+| Handyman | 22.00% | ~24 |
 | Shadow on the wall | 21.00% | ~23 |
-| Handyman | 21.00% | ~23 |
 | Fastidious Clown | 21.00% | ~23 |
+| Pacifist | 20.00% | ~22 |
 | It's not easy being green! | 20.00% | ~22 |
 | Home is where the heart is | 20.00% | ~22 |
-| Pacifist | 19.00% | ~21 |
 | Master of Thermodynamics | 16.00% | ~17 |
 | Death is a part of life | 16.00% | ~17 |
 | Unfullfilled dreams | 14.00% | ~15 |
-| To err is human... | 11.00% | ~12 |
+| To err is human... | 12.00% | ~13 |
 | Nothing can stop me | 11.00% | ~12 |
 | Mumbo Jumbo | 11.00% | ~12 |
 | Useless but beautiful | 8.00% | ~9 |

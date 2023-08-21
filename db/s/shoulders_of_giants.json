@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-01-26T06:00:00+00:00",
@@ -72,9 +72,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2209,
+  "EOS_Progressed": 2210,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -1477,6 +1477,11 @@
       "Time": "2023-08-21T02:17:05.2224403+00:00",
       "NumProgressed": 2209,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-21T04:04:19.8139137+00:00",
+      "NumProgressed": 2210,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 19,
@@ -1504,7 +1509,7 @@
       "Name": "The First Law of Thermodynamics",
       "Percentage": 27,
       "XP": 150,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "complete_act_three",
@@ -1528,7 +1533,7 @@
       "Name": "On the Shoulders of Giants",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 1944
+      "UsersEstimate": 1945
     },
     {
       "ID": "deal_damage",
@@ -1536,7 +1541,7 @@
       "Name": "Ouch",
       "Percentage": 55,
       "XP": 40,
-      "UsersEstimate": 1215
+      "UsersEstimate": 1216
     },
     {
       "ID": "defeat_enemies",
@@ -1544,7 +1549,7 @@
       "Name": "A Ribbiting Performance",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 1701
+      "UsersEstimate": 1702
     },
     {
       "ID": "defeat_tree_dummy",
@@ -1560,7 +1565,7 @@
       "Name": "At Least We Have Each Other...",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 1657
+      "UsersEstimate": 1658
     },
     {
       "ID": "piercing_beam",
@@ -1592,7 +1597,7 @@
       "Name": "Frogbot",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1590
+      "UsersEstimate": 1591
     },
     {
       "ID": "save_planet_bestfriend",
@@ -1600,7 +1605,7 @@
       "Name": "Do you trust me?",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "save_planet_coop",
@@ -1639,7 +1644,7 @@
     {
       "ID": "236b9eg",
       "IsBase": true,
-      "Progressed": 2209,
+      "Progressed": 2210,
       "Completed": 9
     }
   ],
@@ -1647,8 +1652,8 @@
   "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
   "LastChanged": "2023-06-30T03:59:49.3890269+00:00",
-  "LastChanged_Achievements": "2023-08-21T03:03:48.2266858+00:00",
+  "LastChanged_Achievements": "2023-08-21T04:04:19.813913+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:05.1420899+00:00",
-  "LastUpdate_Ratings": "2023-08-21T02:58:02.2154074+00:00",
-  "LastUpdate_Achievements": "2023-08-21T03:03:48.2267121+00:00"
+  "LastUpdate_Ratings": "2023-08-21T03:58:18.1086456+00:00",
+  "LastUpdate_Achievements": "2023-08-21T04:04:19.8139385+00:00"
 }

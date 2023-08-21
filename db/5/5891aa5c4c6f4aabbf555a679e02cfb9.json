@@ -339,9 +339,9 @@
       "ID": "ACHIEVEMENT_10",
       "SetID": "b36c5kb",
       "Name": "Another Ally",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -555,9 +555,9 @@
       "ID": "ACHIEVEMENT_37",
       "SetID": "b36c5kb",
       "Name": "Caffeine Addict",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_38",
@@ -682,8 +682,8 @@
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-08-21T03:04:59.2300516+00:00",
+  "LastChanged_Achievements": "2023-08-21T04:05:19.9491175+00:00",
   "LastUpdate_AppInfo": "2023-08-16T16:57:24.779676+00:00",
-  "LastUpdate_Ratings": "2023-08-21T02:58:20.3723631+00:00",
-  "LastUpdate_Achievements": "2023-08-21T03:04:59.2301128+00:00"
+  "LastUpdate_Ratings": "2023-08-21T03:58:36.0935384+00:00",
+  "LastUpdate_Achievements": "2023-08-21T04:05:19.9492023+00:00"
 }

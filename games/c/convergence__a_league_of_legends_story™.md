@@ -12,23 +12,23 @@ Rating: 4.60 (Ranked 391)
 | The Prince in Heels | 19.00% | ~159 |
 | Immaculate Aim | 19.00% | ~159 |
 | The Brass Boss | 19.00% | ~159 |
-| The Steel Shadow | 18.00% | ~150 |
-| Time Flies | 18.00% | ~150 |
-| The Harder They Fall | 18.00% | ~150 |
-| No, Thanks! | 18.00% | ~150 |
-| Breaking Down Barriers | 18.00% | ~150 |
-| Fast Learner | 18.00% | ~150 |
-| Immaculate Aim | 18.00% | ~150 |
-| The Betrayer | 17.00% | ~142 |
+| The Steel Shadow | 18.00% | ~151 |
+| Time Flies | 18.00% | ~151 |
+| The Harder They Fall | 18.00% | ~151 |
+| No, Thanks! | 18.00% | ~151 |
+| Breaking Down Barriers | 18.00% | ~151 |
+| Fast Learner | 18.00% | ~151 |
+| Immaculate Aim | 18.00% | ~151 |
 | The Wicked Twins | 17.00% | ~142 |
 | Honest Mistake | 17.00% | ~142 |
 | Golem Chaser | 17.00% | ~142 |
 | Like Clockwork | 16.00% | ~134 |
+| The Betrayer | 16.00% | ~134 |
 | The Loose Cannon | 16.00% | ~134 |
 | Check Your Pulse | 16.00% | ~134 |
 | The Family Fortune | 16.00% | ~134 |
-| Right On Time | 15.00% | ~125 |
-| The Man Who Shattered Time | 15.00% | ~125 |
+| Right On Time | 15.00% | ~126 |
+| The Man Who Shattered Time | 15.00% | ~126 |
 | Treasure Trove | 14.00% | ~117 |
 | Street Style | 14.00% | ~117 |
 | Cartographer | 14.00% | ~117 |
@@ -46,8 +46,8 @@ Rating: 4.60 (Ranked 391)
 | Corin Goes Home | 7.00% | ~59 |
 | Sartorialist | 7.00% | ~59 |
 | Entresol Explorer | 7.00% | ~59 |
-| Golem Hunter | 6.00% | ~50 |
 | Clovemary for Remembering | 5.00% | ~42 |
+| Golem Hunter | 5.00% | ~42 |
 | Rungs Was Right | 5.00% | ~42 |
 | Hexlock for Protection | 4.00% | ~33 |
 | Wunderkind | 2.00% | ~17 |
@@ -59,7 +59,7 @@ Rating: 4.60 (Ranked 391)
 | Going to Live Forever | 0.60% | ~5 |
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 836 (Ranked 206)  
+Progressed: 837 (Ranked 206)  
 Completed: 5 (0.60%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,6 +141,7 @@ Completed: 5 (0.60%) (Ranked 138)
 | 2023-08-14 | 834 | 5 |
 | 2023-08-16 | 835 | 5 |
 | 2023-08-20 | 836 | 5 |
+| 2023-08-21 | 837 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

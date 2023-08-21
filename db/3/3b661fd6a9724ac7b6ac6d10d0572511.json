@@ -3110,18 +3110,24 @@
       "Rating": 4.58,
       "NumberOfAwards": 13402,
       "NumberOfAwardsMax": 6911
+    },
+    {
+      "Time": "2023-08-21T03:59:23.5790108+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 13434,
+      "NumberOfAwardsMax": 6943
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13402,
-  "NumberOfAwardsMax": 6911,
+  "NumberOfAwards": 13434,
+  "NumberOfAwardsMax": 6943,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 6911
+      "Count": 6943
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3184,10 +3190,10 @@
       "Count": 733
     }
   ],
-  "EOS_Progressed": 1593010,
-  "EOS_Completed": 518,
-  "EOS_NewPlayers": 25679,
-  "EOS_NewCompleters": 23,
+  "EOS_Progressed": 1593137,
+  "EOS_Completed": 519,
+  "EOS_NewPlayers": 25711,
+  "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
     {
@@ -11644,6 +11650,11 @@
       "Time": "2023-08-21T03:03:55.1415747+00:00",
       "NumProgressed": 1593010,
       "NumCompleted": 518
+    },
+    {
+      "Time": "2023-08-21T04:04:26.7439196+00:00",
+      "NumProgressed": 1593137,
+      "NumCompleted": 519
     }
   ],
   "TotalAchievements": 1328,
@@ -11711,7 +11722,7 @@
       "Name": "The Collector",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 7965
+      "UsersEstimate": 7966
     },
     {
       "ID": "armed_and_dangerous",
@@ -11727,7 +11738,7 @@
       "Name": "Would You Like Your Receipt?",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 7965
+      "UsersEstimate": 7966
     },
     {
       "ID": "armored_1",
@@ -12855,7 +12866,7 @@
       "Name": "I Want to Get Away",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 15930
+      "UsersEstimate": 15931
     },
     {
       "ID": "brooklyn_2",
@@ -13079,7 +13090,7 @@
       "Name": "Virus",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 9558
+      "UsersEstimate": 9559
     },
     {
       "ID": "cac_29",
@@ -16127,7 +16138,7 @@
       "Name": "Smooth Criminal",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6372
+      "UsersEstimate": 6373
     },
     {
       "ID": "gorilla_1",
@@ -16271,7 +16282,7 @@
       "Name": "Guilty of Crime",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 9558
+      "UsersEstimate": 9559
     },
     {
       "ID": "halloween_1",
@@ -16407,7 +16418,7 @@
       "Name": "How Do You Like Me Now?",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 9558
+      "UsersEstimate": 9559
     },
     {
       "ID": "i_knew_what_i_was_doing_was_wrong",
@@ -17367,7 +17378,7 @@
       "Name": "No One Cared Who I Was...",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 12744
+      "UsersEstimate": 12745
     },
     {
       "ID": "no_turning_back",
@@ -17375,7 +17386,7 @@
       "Name": "No Turning Back",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 12744
+      "UsersEstimate": 12745
     },
     {
       "ID": "orange_1",
@@ -22159,7 +22170,7 @@
       "Name": "Armed to the Teeth",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 7965
+      "UsersEstimate": 7966
     },
     {
       "ID": "wwh_1",
@@ -22263,7 +22274,7 @@
       "Name": "You Gotta Start Somewhere",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 12744
+      "UsersEstimate": 12745
     },
     {
       "ID": "you_shall_not_pass",
@@ -22278,22 +22289,22 @@
     {
       "ID": "61cefe3",
       "IsBase": true,
-      "Progressed": 1593010,
-      "Completed": 518
+      "Progressed": 1593137,
+      "Completed": 519
     },
     {
       "ID": "bkjdbk8",
       "IsBase": false,
-      "Progressed": 1593010,
+      "Progressed": 1593137,
       "Completed": 28
     }
   ],
   "FirstSeen": "2023-06-08T18:57:07.8003815+00:00",
   "FirstSeenRating": "2023-06-09T03:57:04.3869033+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:50.4372379+00:00",
-  "LastChanged": "2023-08-20T23:58:33.6287854+00:00",
-  "LastChanged_Achievements": "2023-08-21T03:03:55.141574+00:00",
+  "LastChanged": "2023-08-21T03:59:23.5790105+00:00",
+  "LastChanged_Achievements": "2023-08-21T04:04:26.743919+00:00",
   "LastUpdate_AppInfo": "2023-08-17T20:57:10.4408604+00:00",
-  "LastUpdate_Ratings": "2023-08-21T02:59:09.9852293+00:00",
-  "LastUpdate_Achievements": "2023-08-21T03:03:55.1626418+00:00"
+  "LastUpdate_Ratings": "2023-08-21T03:59:23.5790113+00:00",
+  "LastUpdate_Achievements": "2023-08-21T04:04:26.762353+00:00"
 }

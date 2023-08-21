@@ -6,8 +6,8 @@
   "Ranking_Popularity": 467,
   "Ranking_PopularitySum": 480,
   "Ranking_EOS_Progress": 187,
-  "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_Completed": 163,
+  "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -151,11 +151,11 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1369,
+  "EOS_Progressed": 1370,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.37,
+  "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:23.2726912+00:00",
@@ -1371,6 +1371,11 @@
       "Time": "2023-08-18T22:06:29.3608458+00:00",
       "NumProgressed": 1369,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-21T04:07:44.8040707+00:00",
+      "NumProgressed": 1370,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 56,
@@ -1542,7 +1547,7 @@
       "Name": "This Too Shall Pass",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "achievement_loversVengeance10Kills",
@@ -1550,7 +1555,7 @@
       "Name": "How Romantic!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "achievement_maimedHero",
@@ -1829,15 +1834,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1369,
+      "Progressed": 1370,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-07-08T20:01:41.3411794+00:00",
-  "LastChanged_Achievements": "2023-08-21T03:07:14.5370175+00:00",
+  "LastChanged_Achievements": "2023-08-21T04:07:44.8040701+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:21.1386789+00:00",
-  "LastUpdate_Ratings": "2023-08-21T02:58:23.0930985+00:00",
-  "LastUpdate_Achievements": "2023-08-21T03:07:14.5370782+00:00"
+  "LastUpdate_Ratings": "2023-08-21T03:58:38.8043891+00:00",
+  "LastUpdate_Achievements": "2023-08-21T04:07:44.8041323+00:00"
 }
