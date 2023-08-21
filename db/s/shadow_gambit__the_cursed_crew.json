@@ -4,7 +4,7 @@
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 91,
+  "Ranking_EOS_NewPlayers": 90,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 387,
+  "EOS_Progressed": 388,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 362,
+  "EOS_NewPlayers": 363,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -641,6 +641,11 @@
       "Time": "2023-08-21T11:04:50.5958048+00:00",
       "NumProgressed": 387,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-21T12:04:02.775584+00:00",
+      "NumProgressed": 388,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -683,9 +688,9 @@
       "ID": "_05_FinishAct2",
       "SetID": "8a1io5d",
       "Name": "The Gambit Has Begun",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 50
+      "UsersEstimate": 54
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -709,7 +714,7 @@
       "Name": "Swabbie",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "_09_Completion_20",
@@ -755,9 +760,9 @@
       "ID": "_14_Completion_70",
       "SetID": "8a1io5d",
       "Name": "Freebooter",
-      "Percentage": 0.3,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "_15_Completion_80",
@@ -787,9 +792,9 @@
       "ID": "_18_UpgradeAllCharacters",
       "SetID": "8a1io5d",
       "Name": "Fully Decked",
-      "Percentage": 0.3,
+      "Percentage": 0.5,
       "XP": 125,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "_19_CrewTale_BSP",
@@ -860,14 +865,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 387,
+      "Progressed": 388,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-21T11:04:50.595804+00:00",
+  "LastChanged_Achievements": "2023-08-21T12:04:02.7755835+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:01.7621403+00:00",
-  "LastUpdate_Ratings": "2023-08-21T11:01:00.7704971+00:00",
-  "LastUpdate_Achievements": "2023-08-21T11:04:50.5958218+00:00"
+  "LastUpdate_Ratings": "2023-08-21T11:59:48.2954385+00:00",
+  "LastUpdate_Achievements": "2023-08-21T12:04:02.7756095+00:00"
 }

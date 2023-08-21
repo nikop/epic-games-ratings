@@ -62,9 +62,9 @@ Rating: 4.05 (Ranked 925)
 | Ebony Jungle Liberator | 4.00% | ~73 |
 | Legendary | 4.00% | ~73 |
 | What lies behind the bush | 3.00% | ~55 |
+| Gear Enchanting | 2.00% | ~37 |
 | Mythic Power | 2.00% | ~37 |
 | Cauldron Liberator | 1.00% | ~18 |
-| Gear Enchanting | 1.00% | ~18 |
 | Guardian Master | 1.00% | ~18 |
 | Transmute | 1.00% | ~18 |
 | Titan Power | 0.90% | ~16 |

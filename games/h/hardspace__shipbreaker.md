@@ -6,22 +6,22 @@ Number of Ratings: 36  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Breathe In… Breathe Out… | 74.00% | ~648 |
-| It’s Heating up! | 69.00% | ~604 |
-| Let’s patch things up | 66.00% | ~578 |
-| I can fix it! | 63.00% | ~552 |
+| Breathe In… Breathe Out… | 73.00% | ~640 |
+| It’s Heating up! | 69.00% | ~605 |
+| Let’s patch things up | 66.00% | ~579 |
+| I can fix it! | 63.00% | ~553 |
 | Post No Bills | 55.00% | ~482 |
-| Truly Shocking! | 49.00% | ~429 |
-| Critical Thinker | 36.00% | ~315 |
+| Truly Shocking! | 48.00% | ~421 |
+| Critical Thinker | 36.00% | ~316 |
 | Always Finding Your Mark | 29.00% | ~254 |
 | A drop in the Ocean | 29.00% | ~254 |
 | The Weight of the World | 29.00% | ~254 |
-| Act I Complete | 28.00% | ~245 |
+| Act I Complete | 28.00% | ~246 |
 | No Niños | 27.00% | ~237 |
 | I ain’t afraid of no Ghost | 24.00% | ~210 |
 | Act II Complete | 20.00% | ~175 |
-| A successful procedure! | 19.00% | ~166 |
-| Bing Bang BOOM | 19.00% | ~166 |
+| A successful procedure! | 19.00% | ~167 |
+| Bing Bang BOOM | 19.00% | ~167 |
 | Breaking the Ice | 18.00% | ~158 |
 | Solidarity Forever | 12.00% | ~105 |
 | A Tucked Tale | 10.00% | ~88 |
@@ -34,7 +34,7 @@ Number of Ratings: 36  (23.09.2022)
 | Captured Killer of Caerbannog | 0.00% | ~0 |
 | Gecko Go(al) Getter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 876 (Ranked 205)  
+Progressed: 877 (Ranked 205)  
 Completed: 0 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,6 +119,7 @@ Completed: 0 (0.00%) (Ranked 261)
 | 2023-08-17 | 874 | 0 |
 | 2023-08-18 | 875 | 0 |
 | 2023-08-19 | 876 | 0 |
+| 2023-08-21 | 877 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

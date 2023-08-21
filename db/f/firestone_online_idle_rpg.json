@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -5289,9 +5289,9 @@
       "ID": "gearenchanting",
       "SetID": "3nl4bcg",
       "Name": "Gear Enchanting",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 18
+      "UsersEstimate": 37
     },
     {
       "ID": "guardianmaster",
@@ -5682,8 +5682,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-08-10T20:59:32.9674394+00:00",
-  "LastChanged_Achievements": "2023-08-21T11:06:49.3301329+00:00",
+  "LastChanged_Achievements": "2023-08-21T12:05:52.6053259+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:03.2567748+00:00",
-  "LastUpdate_Ratings": "2023-08-21T11:01:00.2090291+00:00",
-  "LastUpdate_Achievements": "2023-08-21T11:06:49.3302178+00:00"
+  "LastUpdate_Ratings": "2023-08-21T11:59:47.7850944+00:00",
+  "LastUpdate_Achievements": "2023-08-21T12:05:52.6054577+00:00"
 }

@@ -5974,9 +5974,9 @@
       "Count": 3365
     }
   ],
-  "EOS_Progressed": 223856,
+  "EOS_Progressed": 223869,
   "EOS_Completed": 2200,
-  "EOS_NewPlayers": 2089,
+  "EOS_NewPlayers": 2094,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -19379,6 +19379,11 @@
       "Time": "2023-08-21T11:06:38.0003127+00:00",
       "NumProgressed": 223856,
       "NumCompleted": 2200
+    },
+    {
+      "Time": "2023-08-21T12:05:41.5305607+00:00",
+      "NumProgressed": 223869,
+      "NumCompleted": 2200
     }
   ],
   "TotalAchievements": 516,
@@ -20124,9 +20129,9 @@
       "ID": "objective_completed_1173",
       "SetID": "415jc5c",
       "Name": "Return to the Tomb",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 190
+      "UsersEstimate": 380
     },
     {
       "ID": "objective_completed_1174",
@@ -21876,9 +21881,9 @@
       "ID": "objective_completed_59",
       "SetID": "cc37lbc",
       "Name": "Running of the Saurs",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 224
+      "UsersEstimate": 448
     },
     {
       "ID": "objective_completed_590",
@@ -23517,21 +23522,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 190130,
+      "Progressed": 190143,
       "Completed": 3284
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 223856,
+      "Progressed": 223869,
       "Completed": 2200
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-21T06:00:48.5329287+00:00",
-  "LastChanged_Achievements": "2023-08-21T11:06:38.0003122+00:00",
+  "LastChanged_Achievements": "2023-08-21T12:05:41.5305602+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:12.3267162+00:00",
-  "LastUpdate_Ratings": "2023-08-21T11:01:07.0152273+00:00",
-  "LastUpdate_Achievements": "2023-08-21T11:06:38.0028102+00:00"
+  "LastUpdate_Ratings": "2023-08-21T11:59:53.8843711+00:00",
+  "LastUpdate_Achievements": "2023-08-21T12:05:41.5333217+00:00"
 }

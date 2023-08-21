@@ -4,7 +4,7 @@
   "ProductSlug": "amnesia-the-bunker-9d5799",
   "Ranking_EOS_Progress": 550,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewPlayers": 356,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-06-06T07:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-06T15:59:13.5155782+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:27.0125576+00:00",
-  "LastUpdate_Ratings": "2023-08-21T10:58:12.6419521+00:00",
-  "LastUpdate_Achievements": "2023-08-21T11:07:02.1268572+00:00"
+  "LastUpdate_Ratings": "2023-08-21T11:57:11.7255542+00:00",
+  "LastUpdate_Achievements": "2023-08-21T12:06:05.2286339+00:00"
 }

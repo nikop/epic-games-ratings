@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 61229,
+  "EOS_Progressed": 61230,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 397,
+  "EOS_NewPlayers": 394,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11927,6 +11927,11 @@
       "Time": "2023-08-21T11:07:10.9507776+00:00",
       "NumProgressed": 61229,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-21T12:06:14.2664135+00:00",
+      "NumProgressed": 61230,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -11986,7 +11991,7 @@
       "Name": "Heavy Metal",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7347
+      "UsersEstimate": 7348
     },
     {
       "ID": "08",
@@ -11994,7 +11999,7 @@
       "Name": "Iron Horse",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7347
+      "UsersEstimate": 7348
     },
     {
       "ID": "09",
@@ -12018,7 +12023,7 @@
       "Name": "Children of the Elder God",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3061
+      "UsersEstimate": 3062
     },
     {
       "ID": "12",
@@ -12034,7 +12039,7 @@
       "Name": "Drink \u0027Em Both Up",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3061
+      "UsersEstimate": 3062
     },
     {
       "ID": "14",
@@ -12146,7 +12151,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7347
+      "UsersEstimate": 7348
     },
     {
       "ID": "28",
@@ -12154,7 +12159,7 @@
       "Name": "Come One, Come All",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7347
+      "UsersEstimate": 7348
     },
     {
       "ID": "29",
@@ -12186,7 +12191,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 17756
+      "UsersEstimate": 17757
     },
     {
       "ID": "33",
@@ -12473,21 +12478,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 61229,
+      "Progressed": 61230,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 24697,
+      "Progressed": 24698,
       "Completed": 50
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-21T11:07:10.9507771+00:00",
+  "LastChanged_Achievements": "2023-08-21T12:06:14.266413+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:35.5614422+00:00",
-  "LastUpdate_Ratings": "2023-08-21T11:00:41.5714794+00:00",
-  "LastUpdate_Achievements": "2023-08-21T11:07:10.9508849+00:00"
+  "LastUpdate_Ratings": "2023-08-21T11:59:29.2948181+00:00",
+  "LastUpdate_Achievements": "2023-08-21T12:06:14.2665632+00:00"
 }

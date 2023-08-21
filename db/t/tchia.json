@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 96,
+  "Ranking_EOS_NewPlayers": 95,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -212,9 +212,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7274,
+  "EOS_Progressed": 7276,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 307,
+  "EOS_NewPlayers": 309,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -6157,6 +6157,11 @@
       "Time": "2023-08-21T11:06:56.3348201+00:00",
       "NumProgressed": 7274,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-08-21T12:05:59.6075339+00:00",
+      "NumProgressed": 7276,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 21,
@@ -6176,7 +6181,7 @@
       "Name": "Arrr!",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "AUDIOPHILE",
@@ -6192,7 +6197,7 @@
       "Name": "Body and Soul",
       "Percentage": 10,
       "XP": 80,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "CA_DE_WIZZ",
@@ -6208,7 +6213,7 @@
       "Name": "Clay Pigeon",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "ENERGY_SAVER",
@@ -6256,7 +6261,7 @@
       "Name": "Historian",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "ICONOCLAST",
@@ -6304,7 +6309,7 @@
       "Name": "Snip Snip",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "SOUL_CANON",
@@ -6312,7 +6317,7 @@
       "Name": "Soul-Canon",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "THE_JOURNEY_ONWARDS",
@@ -6335,7 +6340,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7274,
+      "Progressed": 7276,
       "Completed": 32
     }
   ],
@@ -6343,8 +6348,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-08-07T01:56:04.2387619+00:00",
-  "LastChanged_Achievements": "2023-08-21T11:06:56.3348196+00:00",
+  "LastChanged_Achievements": "2023-08-21T12:05:59.6075335+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:55.8261903+00:00",
-  "LastUpdate_Ratings": "2023-08-21T11:00:55.977989+00:00",
-  "LastUpdate_Achievements": "2023-08-21T11:06:56.3348607+00:00"
+  "LastUpdate_Ratings": "2023-08-21T11:59:44.1745197+00:00",
+  "LastUpdate_Achievements": "2023-08-21T12:05:59.607592+00:00"
 }

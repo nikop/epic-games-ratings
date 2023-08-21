@@ -19,6 +19,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Supply Run | 0.20% | ~448 |
 | Seeds of Destruction | 0.20% | ~380 |
 | Vecna Lives! | 0.20% | ~380 |
+| Return to the Tomb | 0.20% | ~380 |
 | Were-verpowered | 0.20% | ~448 |
 | A Persistent Buzzing | 0.20% | ~448 |
 | Beast Mode | 0.20% | ~448 |
@@ -33,6 +34,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Useless Allies | 0.20% | ~448 |
 | Mad Cow Disease | 0.20% | ~448 |
 | Exploring Port Nyanzaru | 0.20% | ~448 |
+| Running of the Saurs | 0.20% | ~448 |
 | Underdeep Cartography | 0.20% | ~448 |
 | Friendly Imps | 0.20% | ~448 |
 | Pure Energy | 0.20% | ~448 |
@@ -122,7 +124,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Well Equipped | 0.10% | ~190 |
 | Friends of the Forest | 0.10% | ~224 |
 | More Than Well Equipped | 0.10% | ~190 |
-| Return to the Tomb | 0.10% | ~190 |
 | Arcane Efforts | 0.10% | ~190 |
 | Keep Your Distance | 0.10% | ~190 |
 | Heatwave | 0.10% | ~190 |
@@ -325,7 +326,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | On The Job Learning | 0.10% | ~224 |
 | Strike! | 0.10% | ~190 |
 | Take Five | 0.10% | ~190 |
-| Running of the Saurs | 0.10% | ~224 |
 | Lost in the Goblin Halls | 0.10% | ~224 |
 | Batiri in the Goblin Halls | 0.10% | ~224 |
 | Temporal Rift in the Goblin Halls | 0.10% | ~190 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~190 |
 | Animated Giff | 0.10% | ~190 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 223,856 (Ranked 53)  
+Progressed: 223,869 (Ranked 53)  
 Completed: 2,200 (0.98%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -646,7 +646,7 @@ Completed: 2,200 (0.98%) (Ranked 120)
 | 2023-08-18 | 223,142 | 2,190 |
 | 2023-08-19 | 223,443 | 2,193 |
 | 2023-08-20 | 223,729 | 2,196 |
-| 2023-08-21 | 223,856 | 2,200 |
+| 2023-08-21 | 223,869 | 2,200 |
 ## Awards
 Max (Diverse Characters): 5,173  (Ranked 68)  
 Sum: 31,150 (Ranked 38)  

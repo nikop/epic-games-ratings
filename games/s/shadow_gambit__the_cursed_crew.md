@@ -6,10 +6,10 @@
 | ---- | ---------- | ----- |
 | A New Journey | 73.00% | ~283 |
 | The Adventure Begins | 48.00% | ~186 |
-| Swabbie | 29.00% | ~112 |
+| Swabbie | 29.00% | ~113 |
 | With Great Power… | 25.00% | ~97 |
 | This Belongs in a Museum | 19.00% | ~74 |
-| The Gambit Has Begun | 13.00% | ~50 |
+| The Gambit Has Begun | 14.00% | ~54 |
 | Powder Monkey | 10.00% | ~39 |
 | Fishy Fish | 9.00% | ~35 |
 | Somewhere Deep in the Lost Caribbean | 7.00% | ~27 |
@@ -26,12 +26,12 @@
 | Jaded Judge | 2.00% | ~8 |
 | Tobacco Travesty | 1.00% | ~4 |
 | Corsair | 0.80% | ~3 |
-| Freebooter | 0.30% | ~1 |
+| Freebooter | 0.50% | ~2 |
+| Fully Decked | 0.50% | ~2 |
 | Marauder | 0.30% | ~1 |
-| Fully Decked | 0.30% | ~1 |
 | Welcome Back Jester | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 387 (Ranked 244)  
+Progressed: 388 (Ranked 244)  
 Completed: 0 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -47,4 +47,4 @@ Completed: 0 (0.00%) (Ranked 261)
 | 2023-08-18 | 249 | 0 |
 | 2023-08-19 | 301 | 0 |
 | 2023-08-20 | 370 | 0 |
-| 2023-08-21 | 387 | 0 |
+| 2023-08-21 | 388 | 0 |

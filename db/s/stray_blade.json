@@ -4,7 +4,7 @@
   "ProductSlug": "stray-blade",
   "Ranking_EOS_Progress": 375,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -318,9 +318,9 @@
       "ID": "ACH_DEFEAT_BOSS_INGLA",
       "SetID": "7i20me3",
       "Name": "Defeat Ingla",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_DEFEAT_BOSS_TEZUTH",
@@ -374,9 +374,9 @@
       "ID": "ACH_ENTER_REGION_SPIRE",
       "SetID": "7i20me3",
       "Name": "Through Dangers Untold",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_EQUIP_MAX_RUNES_AT_ONCE",
@@ -526,9 +526,9 @@
       "ID": "ACH_FINISH_GAME",
       "SetID": "7i20me3",
       "Name": "The End",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_MEET_BOJI",
@@ -566,9 +566,9 @@
       "ID": "ACH_REVEAL_ACREANS_TRUTH",
       "SetID": "7i20me3",
       "Name": "But what of the Acreans?",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_REVEAL_ARCANE_FORGE_TRUTH",
@@ -653,8 +653,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-08-21T11:07:46.822046+00:00",
+  "LastChanged_Achievements": "2023-08-21T12:06:50.1980781+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:48.9924953+00:00",
-  "LastUpdate_Ratings": "2023-08-21T11:00:52.1710793+00:00",
-  "LastUpdate_Achievements": "2023-08-21T11:07:46.8220789+00:00"
+  "LastUpdate_Ratings": "2023-08-21T11:59:39.6308691+00:00",
+  "LastUpdate_Achievements": "2023-08-21T12:06:50.1981202+00:00"
 }

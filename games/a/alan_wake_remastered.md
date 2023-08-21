@@ -8,7 +8,7 @@ Number of Ratings: 524  (23.09.2022)
 | ---- | ---------- | ----- |
 | Follow the Light | 37.00% | ~22,655 |
 | Let There Be Light | 30.00% | ~18,369 |
-| Float Like a Butterfly | 29.00% | ~17,756 |
+| Float Like a Butterfly | 29.00% | ~17,757 |
 | Nordic Walking | 23.00% | ~14,083 |
 | Bright Falls' Finest | 23.00% | ~14,083 |
 | Under a Thin Layer of Skin | 20.00% | ~12,246 |
@@ -22,10 +22,10 @@ Number of Ratings: 524  (23.09.2022)
 | Wheels Within Wheels | 13.00% | ~7,960 |
 | They're Heeeeeere! | 13.00% | ~7,960 |
 | The Six-Gun Scribe | 13.00% | ~7,960 |
-| Heavy Metal | 12.00% | ~7,347 |
-| Iron Horse | 12.00% | ~7,347 |
-| Collateral Carnage | 12.00% | ~7,347 |
-| Come One, Come All | 12.00% | ~7,347 |
+| Heavy Metal | 12.00% | ~7,348 |
+| Iron Horse | 12.00% | ~7,348 |
+| Collateral Carnage | 12.00% | ~7,348 |
+| Come One, Come All | 12.00% | ~7,348 |
 | Perchance to Dream | 11.00% | ~6,735 |
 | It's Not Just a Typewriter Brand | 11.00% | ~6,735 |
 | Thunder and Lightning | 11.00% | ~6,735 |
@@ -40,8 +40,8 @@ Number of Ratings: 524  (23.09.2022)
 | Departure | 7.00% | ~4,286 |
 | Hardboiled Writer | 6.00% | ~3,674 |
 | A Friend Indeed | 6.00% | ~1,482 |
-| Children of the Elder God | 5.00% | ~3,061 |
-| Drink 'Em Both Up | 5.00% | ~3,061 |
+| Children of the Elder God | 5.00% | ~3,062 |
+| Drink 'Em Both Up | 5.00% | ~3,062 |
 | Ding! | 5.00% | ~1,235 |
 | Boob Tube | 4.00% | ~2,449 |
 | If It Flies, It Burns | 4.00% | ~2,449 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~61 |
 | No Punctuation | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,229 (Ranked 85)  
+Progressed: 61,230 (Ranked 85)  
 Completed: 64 (0.10%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 64 (0.10%) (Ranked 208)
 | 2023-08-18 | 61,081 | 64 |
 | 2023-08-19 | 61,152 | 64 |
 | 2023-08-20 | 61,207 | 64 |
-| 2023-08-21 | 61,229 | 64 |
+| 2023-08-21 | 61,230 | 64 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
