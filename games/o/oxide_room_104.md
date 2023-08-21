@@ -16,7 +16,7 @@
 | Antidote | 52.00% | ~85 |
 | Pick the right door | 24.00% | ~39 |
 | The third floor | 16.00% | ~26 |
-| One-way | 14.00% | ~23 |
+| One-way | 15.00% | ~25 |
 | On the right path | 13.00% | ~21 |
 | It can't be true | 13.00% | ~21 |
 | I'm close now | 11.00% | ~18 |

@@ -324,9 +324,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 66228,
+  "EOS_Progressed": 66229,
   "EOS_Completed": 346,
-  "EOS_NewPlayers": 742,
+  "EOS_NewPlayers": 741,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -13559,6 +13559,11 @@
       "Time": "2023-08-21T01:43:55.5916271+00:00",
       "NumProgressed": 66228,
       "NumCompleted": 346
+    },
+    {
+      "Time": "2023-08-21T02:18:21.3209632+00:00",
+      "NumProgressed": 66229,
+      "NumCompleted": 346
     }
   ],
   "TotalAchievements": 24,
@@ -13586,7 +13591,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 45035
+      "UsersEstimate": 45036
     },
     {
       "ID": "BEST_FRIENDS",
@@ -13602,7 +13607,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 17219
+      "UsersEstimate": 17220
     },
     {
       "ID": "ERADICATE",
@@ -13730,7 +13735,7 @@
       "Name": "SPIRIT FORM",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 10596
+      "UsersEstimate": 10597
     },
     {
       "ID": "UPROOTING_DARKNESS",
@@ -13761,7 +13766,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 66228,
+      "Progressed": 66229,
       "Completed": 346
     }
   ],
@@ -13769,8 +13774,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-08-21T01:43:55.5916265+00:00",
+  "LastChanged_Achievements": "2023-08-21T02:18:21.3209626+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:00:00.2454686+00:00",
-  "LastUpdate_Ratings": "2023-08-21T01:40:12.2642591+00:00",
-  "LastUpdate_Achievements": "2023-08-21T01:43:55.5916998+00:00"
+  "LastUpdate_Ratings": "2023-08-21T02:14:08.1525866+00:00",
+  "LastUpdate_Achievements": "2023-08-21T02:18:21.3210545+00:00"
 }

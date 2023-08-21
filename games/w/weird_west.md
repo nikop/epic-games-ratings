@@ -21,7 +21,7 @@ Number of Ratings: 125  (23.09.2022)
 | Rain of Death | 25.00% | ~453 |
 | Scholar | 25.00% | ~453 |
 | The Great Escape | 23.00% | ~417 |
-| That’s All, Folks | 18.00% | ~326 |
+| That’s All, Folks | 19.00% | ~344 |
 | Fallen Star | 16.00% | ~290 |
 | For Balance | 16.00% | ~290 |
 | Here Comes Santa Claus | 16.00% | ~290 |

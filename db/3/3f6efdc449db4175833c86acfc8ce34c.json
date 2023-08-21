@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 336,
+  "EOS_Progressed": 337,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 332,
+  "EOS_NewPlayers": 333,
   "EOS_NewCompleters": 11,
-  "EOS_Completed_Percentage": 3.27,
+  "EOS_Completed_Percentage": 3.26,
   "EosHistory": [
     {
       "Time": "2023-08-08T23:02:04.1783243+00:00",
@@ -416,6 +416,11 @@
       "Time": "2023-08-21T01:43:07.2291911+00:00",
       "NumProgressed": 336,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-08-21T02:17:23.3467064+00:00",
+      "NumProgressed": 337,
+      "NumCompleted": 11
     }
   ],
   "AchievementsAdded": "2023-08-08T22:02:18.1743145+00:00",
@@ -428,15 +433,15 @@
       "Name": "Played!",
       "Percentage": 86,
       "XP": 200,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "Mission2",
       "SetID": "6igjng7",
       "Name": "Mission 1 clear",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 200,
-      "UsersEstimate": 138
+      "UsersEstimate": 142
     },
     {
       "ID": "Mission3",
@@ -444,7 +449,7 @@
       "Name": "Mission 2 clear",
       "Percentage": 29,
       "XP": 200,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "Mission4",
@@ -467,14 +472,14 @@
     {
       "ID": "6igjng7",
       "IsBase": true,
-      "Progressed": 336,
+      "Progressed": 337,
       "Completed": 11
     }
   ],
   "FirstSeen": "2023-08-19T18:58:05.6794692+00:00",
   "FirstSeenAchievements": "2023-08-08T21:02:12.6548497+00:00",
-  "LastChanged_Achievements": "2023-08-21T01:43:07.2291907+00:00",
+  "LastChanged_Achievements": "2023-08-21T02:17:23.3467058+00:00",
   "LastUpdate_AppInfo": "2023-08-14T08:57:17.4876993+00:00",
-  "LastUpdate_Ratings": "2023-08-21T01:37:07.2236126+00:00",
-  "LastUpdate_Achievements": "2023-08-21T01:43:07.2291978+00:00"
+  "LastUpdate_Ratings": "2023-08-21T02:11:20.4858018+00:00",
+  "LastUpdate_Achievements": "2023-08-21T02:17:23.3467155+00:00"
 }

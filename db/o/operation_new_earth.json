@@ -4,8 +4,8 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1011,
+  "EOS_Progressed": 1012,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3536,6 +3536,11 @@
       "Time": "2023-08-20T23:03:23.3662306+00:00",
       "NumProgressed": 1011,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-21T02:16:27.7747272+00:00",
+      "NumProgressed": 1012,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -3667,7 +3672,7 @@
       "Name": "Sergeant",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -3723,7 +3728,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -3850,14 +3855,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1011,
+      "Progressed": 1012,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-21T01:42:11.6857868+00:00",
+  "LastChanged_Achievements": "2023-08-21T02:16:27.7747265+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:20.8459338+00:00",
-  "LastUpdate_Ratings": "2023-08-21T01:37:14.4652244+00:00",
-  "LastUpdate_Achievements": "2023-08-21T01:42:11.6858254+00:00"
+  "LastUpdate_Ratings": "2023-08-21T02:11:26.3685069+00:00",
+  "LastUpdate_Achievements": "2023-08-21T02:16:27.7747797+00:00"
 }

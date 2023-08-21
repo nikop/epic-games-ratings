@@ -9,16 +9,16 @@ Number of Ratings: 22,103  (23.09.2022)
 | First F#@!ing Day | 43.00% | ~27,016 |
 | To The Nines | 39.00% | ~24,503 |
 | Optimized | 34.00% | ~21,362 |
-| Performance Review | 33.00% | ~20,733 |
+| Performance Review | 33.00% | ~20,734 |
 | Making a Name | 32.00% | ~20,105 |
 | Tune Up | 31.00% | ~19,477 |
-| Landlord | 30.00% | ~18,848 |
+| Landlord | 30.00% | ~18,849 |
 | The Side Job | 29.00% | ~18,220 |
 | Wet Work | 29.00% | ~18,220 |
 | Wrecking Ball | 25.00% | ~15,707 |
 | Food for Thought | 25.00% | ~15,707 |
-| Finders Keepers | 23.00% | ~14,450 |
-| A Young Empire | 23.00% | ~14,450 |
+| Finders Keepers | 23.00% | ~14,451 |
+| A Young Empire | 23.00% | ~14,451 |
 | Work Ethic | 22.00% | ~13,822 |
 | Picking Fights | 18.00% | ~11,309 |
 | Quality Time | 17.00% | ~10,681 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.20% | ~126 |
 | Fiesta Time | 0.20% | ~126 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,828 (Ranked 84)  
+Progressed: 62,829 (Ranked 84)  
 Completed: 42 (0.07%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 42 (0.07%) (Ranked 220)
 | 2023-08-18 | 62,418 | 42 |
 | 2023-08-19 | 62,620 | 42 |
 | 2023-08-20 | 62,813 | 42 |
-| 2023-08-21 | 62,828 | 42 |
+| 2023-08-21 | 62,829 | 42 |
 ## Awards
 Max (Extremely Fun): 1,056  (Ranked 141)  
 Sum: 8,579 (Ranked 95)  

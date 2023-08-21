@@ -22,12 +22,12 @@ Number of Ratings: 177  (23.09.2022)
 | Amy | 0.70% | ~43 |
 | Inspector | 0.70% | ~43 |
 | Social Butterfly | 0.70% | ~43 |
-| Amy: Scavenger Hunt | 0.60% | ~36 |
+| Amy: Scavenger Hunt | 0.60% | ~37 |
 | It Smells Like Roses | 0.60% | ~19 |
-| Smooth Operator: Ashley | 0.60% | ~36 |
-| The Crush | 0.60% | ~36 |
-| The Magic Number | 0.60% | ~36 |
-| Vickie | 0.60% | ~36 |
+| Smooth Operator: Ashley | 0.60% | ~37 |
+| The Crush | 0.60% | ~37 |
+| The Magic Number | 0.60% | ~37 |
+| Vickie | 0.60% | ~37 |
 | Casanova | 0.50% | ~30 |
 | Now It's a Party! | 0.50% | ~30 |
 | Stephanie | 0.50% | ~30 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | Sucker Punch | 0.00% | ~0 |
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,083 (Ranked 138)  
+Progressed: 6,084 (Ranked 138)  
 Completed: 3 (0.05%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,6 +198,7 @@ Completed: 3 (0.05%) (Ranked 228)
 | 2023-08-18 | 6,073 | 3 |
 | 2023-08-19 | 6,077 | 3 |
 | 2023-08-20 | 6,083 | 3 |
+| 2023-08-21 | 6,084 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

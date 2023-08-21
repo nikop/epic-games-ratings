@@ -2498,7 +2498,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 67942,
+  "EOS_Progressed": 67944,
   "EOS_Completed": 108,
   "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 1,
@@ -12848,6 +12848,11 @@
       "Time": "2023-08-21T01:45:38.2091477+00:00",
       "NumProgressed": 67942,
       "NumCompleted": 108
+    },
+    {
+      "Time": "2023-08-21T02:19:47.2040139+00:00",
+      "NumProgressed": 67944,
+      "NumCompleted": 108
     }
   ],
   "TotalAchievements": 61,
@@ -12907,7 +12912,7 @@
       "Name": "The Batman Family",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 14947
+      "UsersEstimate": 14948
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -12947,7 +12952,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 10191
+      "UsersEstimate": 10192
     },
     {
       "ID": "CHALLENGES_1",
@@ -13019,7 +13024,7 @@
       "Name": "Not On My Watch",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 8832
+      "UsersEstimate": 8833
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -13067,7 +13072,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 8832
+      "UsersEstimate": 8833
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -13091,7 +13096,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 13588
+      "UsersEstimate": 13589
     },
     {
       "ID": "FREEZE_2",
@@ -13179,7 +13184,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 13588
+      "UsersEstimate": 13589
     },
     {
       "ID": "HARLEY_4",
@@ -13203,7 +13208,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 33971
+      "UsersEstimate": 33972
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -13227,7 +13232,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 13588
+      "UsersEstimate": 13589
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -13235,7 +13240,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 18344
+      "UsersEstimate": 18345
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -13251,7 +13256,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 23100
+      "UsersEstimate": 23101
     },
     {
       "ID": "MYSTERY_02",
@@ -13267,7 +13272,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 14947
+      "UsersEstimate": 14948
     },
     {
       "ID": "MYSTERY_04",
@@ -13275,7 +13280,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 13588
+      "UsersEstimate": 13589
     },
     {
       "ID": "MYSTERY_05",
@@ -13291,7 +13296,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 10191
+      "UsersEstimate": 10192
     },
     {
       "ID": "MYSTERY_07",
@@ -13346,13 +13351,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 67942,
+      "Progressed": 67944,
       "Completed": 108
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 38222,
+      "Progressed": 38224,
       "Completed": 2658
     }
   ],
@@ -13360,8 +13365,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-08-20T14:57:30.6977519+00:00",
-  "LastChanged_Achievements": "2023-08-21T01:45:38.2091473+00:00",
+  "LastChanged_Achievements": "2023-08-21T02:19:47.2040134+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:36.1459925+00:00",
-  "LastUpdate_Ratings": "2023-08-21T01:36:31.335372+00:00",
-  "LastUpdate_Achievements": "2023-08-21T01:45:38.2092512+00:00"
+  "LastUpdate_Ratings": "2023-08-21T02:10:38.2112079+00:00",
+  "LastUpdate_Achievements": "2023-08-21T02:19:47.2041177+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,7 +512,7 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 61215,
+  "EOS_Progressed": 61217,
   "EOS_Completed": 64,
   "EOS_NewPlayers": 394,
   "EOS_NewCompleters": 0,
@@ -11892,6 +11892,11 @@
       "Time": "2023-08-21T01:44:52.8693201+00:00",
       "NumProgressed": 61215,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-21T02:19:17.5303202+00:00",
+      "NumProgressed": 61217,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -11911,7 +11916,7 @@
       "Name": "Nordic Walking",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 14079
+      "UsersEstimate": 14080
     },
     {
       "ID": "03",
@@ -11919,7 +11924,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 14079
+      "UsersEstimate": 14080
     },
     {
       "ID": "04",
@@ -11943,7 +11948,7 @@
       "Name": "Park Ranger",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 9794
+      "UsersEstimate": 9795
     },
     {
       "ID": "07",
@@ -12143,7 +12148,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 9794
+      "UsersEstimate": 9795
     },
     {
       "ID": "32",
@@ -12151,7 +12156,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 17752
+      "UsersEstimate": 17753
     },
     {
       "ID": "33",
@@ -12175,7 +12180,7 @@
       "Name": "Let There Be Light",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 18364
+      "UsersEstimate": 18365
     },
     {
       "ID": "36",
@@ -12183,7 +12188,7 @@
       "Name": "Carny",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1836
+      "UsersEstimate": 1837
     },
     {
       "ID": "37",
@@ -12215,7 +12220,7 @@
       "Name": "Right of Way",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5509
+      "UsersEstimate": 5510
     },
     {
       "ID": "41",
@@ -12223,7 +12228,7 @@
       "Name": "Finders Keepers",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 9794
+      "UsersEstimate": 9795
     },
     {
       "ID": "42",
@@ -12375,7 +12380,7 @@
       "Name": "Kill Your Darlings",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "61",
@@ -12431,28 +12436,28 @@
       "Name": "Heartbreaker",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     }
   ],
   "AchievementSets": [
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 61215,
+      "Progressed": 61217,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 24683,
+      "Progressed": 24685,
       "Completed": 50
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-21T01:44:52.8693197+00:00",
+  "LastChanged_Achievements": "2023-08-21T02:19:17.5303196+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:35.5614422+00:00",
-  "LastUpdate_Ratings": "2023-08-21T01:38:25.1874589+00:00",
-  "LastUpdate_Achievements": "2023-08-21T01:44:52.8694248+00:00"
+  "LastUpdate_Ratings": "2023-08-21T02:12:36.8047362+00:00",
+  "LastUpdate_Achievements": "2023-08-21T02:19:17.5304561+00:00"
 }

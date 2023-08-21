@@ -7,15 +7,15 @@ Number of Ratings: 524  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Follow the Light | 37.00% | ~22,650 |
-| Let There Be Light | 30.00% | ~18,364 |
-| Float Like a Butterfly | 29.00% | ~17,752 |
-| Nordic Walking | 23.00% | ~14,079 |
-| Bright Falls' Finest | 23.00% | ~14,079 |
+| Let There Be Light | 30.00% | ~18,365 |
+| Float Like a Butterfly | 29.00% | ~17,753 |
+| Nordic Walking | 23.00% | ~14,080 |
+| Bright Falls' Finest | 23.00% | ~14,080 |
 | Under a Thin Layer of Skin | 20.00% | ~12,243 |
 | Paging Mr. Wake | 17.00% | ~10,407 |
-| Park Ranger | 16.00% | ~9,794 |
-| Back! Back, I Say! | 16.00% | ~9,794 |
-| Finders Keepers | 16.00% | ~9,794 |
+| Park Ranger | 16.00% | ~9,795 |
+| Back! Back, I Say! | 16.00% | ~9,795 |
+| Finders Keepers | 16.00% | ~9,795 |
 | Sound and Fury | 14.00% | ~8,570 |
 | Missed by a Mile | 14.00% | ~8,570 |
 | Damn Good Cup of Coffee | 14.00% | ~8,570 |
@@ -33,7 +33,7 @@ Number of Ratings: 524  (23.09.2022)
 | The Lady of the Light | 10.00% | ~6,122 |
 | Two For the Price of One | 10.00% | ~6,122 |
 | Energized! | 10.00% | ~6,122 |
-| Right of Way | 9.00% | ~5,509 |
+| Right of Way | 9.00% | ~5,510 |
 | What Light Through Yonder Window | 8.00% | ~4,897 |
 | A Friend in Need | 8.00% | ~1,975 |
 | Tornado Wrangler | 7.00% | ~4,285 |
@@ -46,9 +46,9 @@ Number of Ratings: 524  (23.09.2022)
 | Boob Tube | 4.00% | ~2,449 |
 | If It Flies, It Burns | 4.00% | ~2,449 |
 | KBF-FM | 4.00% | ~2,449 |
-| Carny | 3.00% | ~1,836 |
-| Kill Your Darlings | 3.00% | ~740 |
-| Heartbreaker | 3.00% | ~740 |
+| Carny | 3.00% | ~1,837 |
+| Kill Your Darlings | 3.00% | ~741 |
+| Heartbreaker | 3.00% | ~741 |
 | Medical Opinions | 2.00% | ~1,224 |
 | Taken Season | 2.00% | ~1,224 |
 | An Idyllic Small Town | 2.00% | ~1,224 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~61 |
 | No Punctuation | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,215 (Ranked 85)  
+Progressed: 61,217 (Ranked 85)  
 Completed: 64 (0.10%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 64 (0.10%) (Ranked 208)
 | 2023-08-18 | 61,081 | 64 |
 | 2023-08-19 | 61,152 | 64 |
 | 2023-08-20 | 61,207 | 64 |
-| 2023-08-21 | 61,215 | 64 |
+| 2023-08-21 | 61,217 | 64 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

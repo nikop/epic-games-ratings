@@ -8,8 +8,8 @@ Rating: 4.77 (Ranked 109)
 | The Sort Who Makes an Entrance | 13.00% | ~37,768 |
 | First Class Student | 11.00% | ~31,958 |
 | Troll with the Punches | 11.00% | ~31,958 |
-| A Keen Sense of Spell | 10.00% | ~29,052 |
-| That's a Keeper | 10.00% | ~29,052 |
+| A Keen Sense of Spell | 10.00% | ~29,053 |
+| That's a Keeper | 10.00% | ~29,053 |
 | Grappling with a Graphorn | 9.00% | ~26,147 |
 | The One Who Mastered Memories | 9.00% | ~26,147 |
 | The Hallowed Hero | 9.00% | ~26,147 |
@@ -38,11 +38,11 @@ Rating: 4.77 (Ranked 109)
 | Going Through the Potions | 3.00% | ~8,716 |
 | Floo Around the World | 3.00% | ~8,716 |
 | The Wise Owl | 3.00% | ~8,716 |
-| The Good Samaritan | 2.00% | ~5,810 |
-| Put Down Roots | 2.00% | ~5,810 |
-| The Auror's Apprentice | 2.00% | ~5,810 |
-| Rise to the Challenges | 2.00% | ~5,810 |
-| Finishing Touches | 2.00% | ~5,810 |
+| The Good Samaritan | 2.00% | ~5,811 |
+| Put Down Roots | 2.00% | ~5,811 |
+| The Auror's Apprentice | 2.00% | ~5,811 |
+| Rise to the Challenges | 2.00% | ~5,811 |
+| Finishing Touches | 2.00% | ~5,811 |
 | Savvy Spender | 1.00% | ~2,905 |
 | Demiguise Dread | 1.00% | ~2,905 |
 | A Forte for Achievement | 1.00% | ~2,905 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,743 |
 | Collector's Edition | 0.30% | ~872 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290,525 (Ranked 43)  
+Progressed: 290,526 (Ranked 43)  
 Completed: 453 (0.16%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,10 +174,10 @@ Completed: 453 (0.16%) (Ranked 193)
 | 2023-08-18 | 290,355 | 452 |
 | 2023-08-19 | 290,439 | 453 |
 | 2023-08-20 | 290,517 | 453 |
-| 2023-08-21 | 290,525 | 453 |
+| 2023-08-21 | 290,526 | 453 |
 ## Awards
 Max (Character Customization): 21,849  (Ranked 17)  
-Sum: 41,309 (Ranked 30)  
+Sum: 41,311 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -192,7 +192,7 @@ Diff (max vs sum): -13
 | This game is Highly Recommended | 900 |
 | This game has Quickly Understood Controls | 852 |
 | This game has Beautiful Visuals | 794 |
-| This game has a Creative Community | 596 |
+| This game has a Creative Community | 598 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -346,3 +346,4 @@ Diff (max vs sum): -13
 | 2023-08-18 | 4.77 | 21,799 | 41,179 |
 | 2023-08-19 | 4.77 | 21,818 | 41,239 |
 | 2023-08-20 | 4.77 | 21,849 | 41,309 |
+| 2023-08-21 | 4.77 | 21,849 | 41,311 |

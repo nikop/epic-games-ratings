@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 193,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -6484,10 +6484,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 41309,
       "NumberOfAwardsMax": 21849
+    },
+    {
+      "Time": "2023-08-21T02:12:21.975345+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 41311,
+      "NumberOfAwardsMax": 21849
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 41309,
+  "NumberOfAwards": 41311,
   "NumberOfAwardsMax": 21849,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6561,12 +6567,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 596
+      "Count": 598
     }
   ],
-  "EOS_Progressed": 290525,
+  "EOS_Progressed": 290526,
   "EOS_Completed": 453,
-  "EOS_NewPlayers": 477,
+  "EOS_NewPlayers": 475,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -19779,6 +19785,11 @@
       "Time": "2023-08-21T01:45:29.1277475+00:00",
       "NumProgressed": 290525,
       "NumCompleted": 453
+    },
+    {
+      "Time": "2023-08-21T02:19:38.4009627+00:00",
+      "NumProgressed": 290526,
+      "NumCompleted": 453
     }
   ],
   "TotalAchievements": 45,
@@ -19886,7 +19897,7 @@
       "Name": "The Good Samaritan",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 5810
+      "UsersEstimate": 5811
     },
     {
       "ID": "PFA_21",
@@ -19910,7 +19921,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 29052
+      "UsersEstimate": 29053
     },
     {
       "ID": "PFA_24",
@@ -19950,7 +19961,7 @@
       "Name": "Put Down Roots",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 5810
+      "UsersEstimate": 5811
     },
     {
       "ID": "PFA_29",
@@ -19966,7 +19977,7 @@
       "Name": "The Auror\u0027s Apprentice",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5810
+      "UsersEstimate": 5811
     },
     {
       "ID": "PFA_30",
@@ -20022,7 +20033,7 @@
       "Name": "Rise to the Challenges",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 5810
+      "UsersEstimate": 5811
     },
     {
       "ID": "PFA_37",
@@ -20086,7 +20097,7 @@
       "Name": "Finishing Touches",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 5810
+      "UsersEstimate": 5811
     },
     {
       "ID": "PFA_44",
@@ -20134,7 +20145,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 29052
+      "UsersEstimate": 29053
     },
     {
       "ID": "PFA_9",
@@ -20149,16 +20160,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 290525,
+      "Progressed": 290526,
       "Completed": 453
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-08-20T19:58:57.5370597+00:00",
-  "LastChanged_Achievements": "2023-08-21T01:45:29.1277471+00:00",
+  "LastChanged": "2023-08-21T02:12:21.9753449+00:00",
+  "LastChanged_Achievements": "2023-08-21T02:19:38.400962+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:55.8476503+00:00",
-  "LastUpdate_Ratings": "2023-08-21T01:38:11.4968301+00:00",
-  "LastUpdate_Achievements": "2023-08-21T01:45:29.1278371+00:00"
+  "LastUpdate_Ratings": "2023-08-21T02:12:21.9753454+00:00",
+  "LastUpdate_Achievements": "2023-08-21T02:19:38.4010752+00:00"
 }

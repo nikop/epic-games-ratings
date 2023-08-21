@@ -3184,9 +3184,9 @@
       "Count": 733
     }
   ],
-  "EOS_Progressed": 1592825,
+  "EOS_Progressed": 1592915,
   "EOS_Completed": 518,
-  "EOS_NewPlayers": 25663,
+  "EOS_NewPlayers": 25677,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -11634,6 +11634,11 @@
       "Time": "2023-08-21T01:42:42.5431765+00:00",
       "NumProgressed": 1592825,
       "NumCompleted": 518
+    },
+    {
+      "Time": "2023-08-21T02:17:10.063192+00:00",
+      "NumProgressed": 1592915,
+      "NumCompleted": 518
     }
   ],
   "TotalAchievements": 1328,
@@ -11701,7 +11706,7 @@
       "Name": "The Collector",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 7964
+      "UsersEstimate": 7965
     },
     {
       "ID": "armed_and_dangerous",
@@ -11717,7 +11722,7 @@
       "Name": "Would You Like Your Receipt?",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 7964
+      "UsersEstimate": 7965
     },
     {
       "ID": "armored_1",
@@ -12845,7 +12850,7 @@
       "Name": "I Want to Get Away",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 15928
+      "UsersEstimate": 15929
     },
     {
       "ID": "brooklyn_2",
@@ -12861,7 +12866,7 @@
       "Name": "I Never Asked for This",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 4778
+      "UsersEstimate": 4779
     },
     {
       "ID": "brooklyn_4",
@@ -16117,7 +16122,7 @@
       "Name": "Smooth Criminal",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6371
+      "UsersEstimate": 6372
     },
     {
       "ID": "gorilla_1",
@@ -19725,7 +19730,7 @@
       "Name": "No Thermal Drill was Harmed During the Heist",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 4778
+      "UsersEstimate": 4779
     },
     {
       "ID": "trk_bc_1",
@@ -20997,7 +21002,7 @@
       "Name": "There is Always a First Time",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 4778
+      "UsersEstimate": 4779
     },
     {
       "ID": "trk_js_1",
@@ -22149,7 +22154,7 @@
       "Name": "Armed to the Teeth",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 7964
+      "UsersEstimate": 7965
     },
     {
       "ID": "wwh_1",
@@ -22268,13 +22273,13 @@
     {
       "ID": "61cefe3",
       "IsBase": true,
-      "Progressed": 1592825,
+      "Progressed": 1592915,
       "Completed": 518
     },
     {
       "ID": "bkjdbk8",
       "IsBase": false,
-      "Progressed": 1592825,
+      "Progressed": 1592915,
       "Completed": 28
     }
   ],
@@ -22282,8 +22287,8 @@
   "FirstSeenRating": "2023-06-09T03:57:04.3869033+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:50.4372379+00:00",
   "LastChanged": "2023-08-20T23:58:33.6287854+00:00",
-  "LastChanged_Achievements": "2023-08-21T01:42:42.5431761+00:00",
+  "LastChanged_Achievements": "2023-08-21T02:17:10.0631915+00:00",
   "LastUpdate_AppInfo": "2023-08-17T20:57:10.4408604+00:00",
-  "LastUpdate_Ratings": "2023-08-21T01:37:54.0725381+00:00",
-  "LastUpdate_Achievements": "2023-08-21T01:42:42.5568295+00:00"
+  "LastUpdate_Ratings": "2023-08-21T02:12:05.9610831+00:00",
+  "LastUpdate_Achievements": "2023-08-21T02:17:10.0786645+00:00"
 }

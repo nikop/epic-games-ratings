@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1185,9 +1185,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 8425,
+  "EOS_Progressed": 8426,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 165,
+  "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11030,6 +11030,11 @@
       "Time": "2023-08-21T00:00:43.0605682+00:00",
       "NumProgressed": 8425,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-21T02:14:20.4790294+00:00",
+      "NumProgressed": 8426,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -11041,7 +11046,7 @@
       "Name": "Leader",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 5055
+      "UsersEstimate": 5056
     },
     {
       "ID": "10",
@@ -11073,7 +11078,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 4465
+      "UsersEstimate": 4466
     },
     {
       "ID": "14",
@@ -11081,7 +11086,7 @@
       "Name": "Famous Explorer",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2864
+      "UsersEstimate": 2865
     },
     {
       "ID": "15",
@@ -11097,7 +11102,7 @@
       "Name": "Adventurer",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 3454
+      "UsersEstimate": 3455
     },
     {
       "ID": "17",
@@ -11121,7 +11126,7 @@
       "Name": "Healer",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 4381
+      "UsersEstimate": 4382
     },
     {
       "ID": "2",
@@ -11153,7 +11158,7 @@
       "Name": "First Step",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 6066
+      "UsersEstimate": 6067
     },
     {
       "ID": "23",
@@ -11161,7 +11166,7 @@
       "Name": "New Opportunities",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2864
+      "UsersEstimate": 2865
     },
     {
       "ID": "24",
@@ -11169,7 +11174,7 @@
       "Name": "It\u0027s a Finnish Thing",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 842
+      "UsersEstimate": 843
     },
     {
       "ID": "25",
@@ -11193,7 +11198,7 @@
       "Name": "Energized",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2780
+      "UsersEstimate": 2781
     },
     {
       "ID": "28",
@@ -11329,7 +11334,7 @@
       "Name": "Diplomat",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "43",
@@ -11361,7 +11366,7 @@
       "Name": "Finders, Keepers",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 2190
+      "UsersEstimate": 2191
     },
     {
       "ID": "47",
@@ -11369,7 +11374,7 @@
       "Name": "The Long Haul",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2780
+      "UsersEstimate": 2781
     },
     {
       "ID": "48",
@@ -11441,7 +11446,7 @@
       "Name": "Doomsday is canceled",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "56",
@@ -11481,15 +11486,15 @@
       "Name": "Biggest Catastrofan",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "7",
       "SetID": "8idi9ml",
       "Name": "Survivor",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 2696
+      "UsersEstimate": 2612
     },
     {
       "ID": "8",
@@ -11512,15 +11517,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 8425,
+      "Progressed": 8426,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-08-19T04:57:29.3183117+00:00",
-  "LastChanged_Achievements": "2023-08-21T01:40:21.3026812+00:00",
+  "LastChanged_Achievements": "2023-08-21T02:14:20.4790288+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:48.2219404+00:00",
-  "LastUpdate_Ratings": "2023-08-21T01:36:39.7642477+00:00",
-  "LastUpdate_Achievements": "2023-08-21T01:40:21.3027755+00:00"
+  "LastUpdate_Ratings": "2023-08-21T02:10:49.586176+00:00",
+  "LastUpdate_Achievements": "2023-08-21T02:14:20.4791605+00:00"
 }

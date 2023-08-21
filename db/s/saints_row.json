@@ -3336,9 +3336,9 @@
       "Count": 1056
     }
   ],
-  "EOS_Progressed": 62828,
+  "EOS_Progressed": 62829,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 1242,
+  "EOS_NewPlayers": 1238,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -16766,6 +16766,11 @@
       "Time": "2023-08-21T01:42:35.2589311+00:00",
       "NumProgressed": 62828,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-08-21T02:16:51.3615479+00:00",
+      "NumProgressed": 62829,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 53,
@@ -16825,7 +16830,7 @@
       "Name": "Finders Keepers",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 14450
+      "UsersEstimate": 14451
     },
     {
       "ID": "complet_epilogue_mission",
@@ -16953,7 +16958,7 @@
       "Name": "A Young Empire",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 14450
+      "UsersEstimate": 14451
     },
     {
       "ID": "empire_tier_3",
@@ -16985,7 +16990,7 @@
       "Name": "Landlord",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 18848
+      "UsersEstimate": 18849
     },
     {
       "ID": "fully_complete_a_building",
@@ -17025,7 +17030,7 @@
       "Name": "Performance Review",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 20733
+      "UsersEstimate": 20734
     },
     {
       "ID": "hit_max_level",
@@ -17200,22 +17205,22 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 62828,
+      "Progressed": 62829,
       "Completed": 42
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 34465,
-      "Completed": 3326
+      "Progressed": 34466,
+      "Completed": 3327
     }
   ],
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-08-19T02:57:30.2354566+00:00",
-  "LastChanged_Achievements": "2023-08-21T01:42:35.2589309+00:00",
+  "LastChanged_Achievements": "2023-08-21T02:16:51.3615472+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:35.8690395+00:00",
-  "LastUpdate_Ratings": "2023-08-21T01:36:31.0834622+00:00",
-  "LastUpdate_Achievements": "2023-08-21T01:42:35.2591362+00:00"
+  "LastUpdate_Ratings": "2023-08-21T02:10:37.977822+00:00",
+  "LastUpdate_Achievements": "2023-08-21T02:16:51.3616946+00:00"
 }
