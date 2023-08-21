@@ -85,10 +85,10 @@
 | 83 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.59% |
 | 84 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.56% |
 | 85 | [Lamentum](games/l/lamentum.md) | 2.53% |
-| 86 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.50% |
 | 86 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
+| 87 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.48% |
 | 88 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.35% |
-| 89 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.26% |
+| 89 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.27% |
 | 90 | [Bloodshore](games/b/bloodshore.md) | 2.21% |
 | 91 | [FORECLOSED](games/f/foreclosed.md) | 2.17% |
 | 92 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.04% |
@@ -162,7 +162,7 @@
 | 159 | [Ghostrunner](games/g/ghostrunner.md) | 0.38% |
 | 161 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.37% |
 | 161 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
-| 161 | [Wildermyth](games/w/wildermyth.md) | 0.37% |
+| 163 | [Wildermyth](games/w/wildermyth.md) | 0.36% |
 | 164 | [The Surge](games/t/the_surge.md) | 0.35% |
 | 164 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.35% |
 | 166 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.34% |
