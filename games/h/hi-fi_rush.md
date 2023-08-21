@@ -28,9 +28,9 @@ Rating: 4.88 (Ranked 19)
 | Who's the boss now? | 5.00% | ~198 |
 | You must like calling me in, Chai | 5.00% | ~198 |
 | Out in a puff of smoke | 5.00% | ~198 |
+| Perfecter Parry-er! | 5.00% | ~198 |
 | NOW we got a kickass hideout! | 5.00% | ~124 |
 | I have to read these things? | 4.00% | ~158 |
-| Perfecter Parry-er! | 4.00% | ~158 |
 | Well that was a rush! | 3.00% | ~119 |
 | Beat-hit mania | 3.00% | ~119 |
 | That's a lot of junk metal… | 3.00% | ~119 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 24,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -684,9 +684,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 215390,
+  "EOS_Progressed": 215404,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3442,
+  "EOS_NewPlayers": 3446,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7714,6 +7714,11 @@
       "Time": "2023-08-21T05:03:11.0304307+00:00",
       "NumProgressed": 215390,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-21T06:03:07.7188961+00:00",
+      "NumProgressed": 215404,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -8173,7 +8178,7 @@
       "Name": "Sowwy!",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 45232
+      "UsersEstimate": 45235
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -8227,9 +8232,9 @@
       "ID": "FollowBraztok",
       "SetID": "50chcgj",
       "Name": "The beards of change",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 862
+      "UsersEstimate": 1077
     },
     {
       "ID": "FollowNarzatok",
@@ -8428,21 +8433,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 215390,
+      "Progressed": 215404,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 215390,
+      "Progressed": 215404,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-21T00:00:20.1938169+00:00",
-  "LastChanged_Achievements": "2023-08-21T05:03:11.03043+00:00",
+  "LastChanged_Achievements": "2023-08-21T06:03:07.7188956+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:36.4163589+00:00",
-  "LastUpdate_Ratings": "2023-08-21T05:00:43.6914901+00:00",
-  "LastUpdate_Achievements": "2023-08-21T05:03:11.0305508+00:00"
+  "LastUpdate_Ratings": "2023-08-21T06:01:54.6119009+00:00",
+  "LastUpdate_Achievements": "2023-08-21T06:03:07.7191373+00:00"
 }

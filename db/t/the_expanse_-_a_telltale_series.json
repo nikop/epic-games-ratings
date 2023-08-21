@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 49,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8604,
+  "EOS_Progressed": 8605,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1082,
+  "EOS_NewPlayers": 1078,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2717,6 +2717,11 @@
       "Time": "2023-08-21T05:06:37.1776229+00:00",
       "NumProgressed": 8604,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-21T06:07:41.1993501+00:00",
+      "NumProgressed": 8605,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -2793,7 +2798,7 @@
       "Name": "Spore Taste",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 946
+      "UsersEstimate": 947
     },
     {
       "ID": "18",
@@ -2809,7 +2814,7 @@
       "Name": "Martian Music",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 946
+      "UsersEstimate": 947
     },
     {
       "ID": "2",
@@ -2968,14 +2973,14 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 8604,
+      "Progressed": 8605,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged_Achievements": "2023-08-21T05:06:37.1776223+00:00",
+  "LastChanged_Achievements": "2023-08-21T06:07:41.1993491+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:40.3624587+00:00",
-  "LastUpdate_Ratings": "2023-08-21T05:00:47.389955+00:00",
-  "LastUpdate_Achievements": "2023-08-21T05:06:37.1776518+00:00"
+  "LastUpdate_Ratings": "2023-08-21T06:01:59.3960805+00:00",
+  "LastUpdate_Achievements": "2023-08-21T06:07:41.1994485+00:00"
 }

@@ -13,10 +13,10 @@ Rating: 4.55 (Ranked 486)
 | A Thousand Strong | 15.00% | ~463 |
 | Ready for a New World | 15.00% | ~463 |
 | Permanent Redesigns | 13.00% | ~402 |
+| The Ship of Theseus | 12.00% | ~371 |
 | Guy de Borderlands | 11.00% | ~340 |
 | Fully Recycled | 11.00% | ~340 |
 | Ain't Nobody Got Time for That | 11.00% | ~340 |
-| The Ship of Theseus | 11.00% | ~340 |
 | Exceeding Capacity | 10.00% | ~309 |
 | Hope Seeker | 10.00% | ~309 |
 | A Hunk of Junk | 9.00% | ~278 |

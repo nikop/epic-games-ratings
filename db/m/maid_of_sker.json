@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 299,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 254,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -499,9 +499,9 @@
       "ID": "smooth_operator",
       "SetID": "3j2phem",
       "Name": "Smooth Operator",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "the_long_night",
@@ -540,8 +540,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2023-08-21T04:03:05.3056798+00:00",
+  "LastChanged_Achievements": "2023-08-21T06:02:25.4738416+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:41.1918552+00:00",
-  "LastUpdate_Ratings": "2023-08-21T05:00:48.7648537+00:00",
-  "LastUpdate_Achievements": "2023-08-21T04:03:05.3069418+00:00"
+  "LastUpdate_Ratings": "2023-08-21T06:02:03.0572503+00:00",
+  "LastUpdate_Achievements": "2023-08-21T06:02:25.476177+00:00"
 }
