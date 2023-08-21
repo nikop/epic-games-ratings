@@ -4,7 +4,7 @@
   "ProductSlug": "timothy-vs-the-aliens-2f5b36",
   "Ranking_EOS_Progress": 431,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewPlayers": 353,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-05-19T16:00:00+00:00",
@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 15,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -301,8 +301,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-10T07:59:57.1545562+00:00",
-  "LastChanged_Achievements": "2023-08-21T14:07:32.5246821+00:00",
+  "LastChanged_Achievements": "2023-08-21T15:07:46.9703408+00:00",
   "LastUpdate_AppInfo": "2023-08-16T16:57:25.8922859+00:00",
-  "LastUpdate_Ratings": "2023-08-21T13:59:55.0034202+00:00",
-  "LastUpdate_Achievements": "2023-08-21T14:07:32.5246984+00:00"
+  "LastUpdate_Ratings": "2023-08-21T15:00:04.0558474+00:00",
+  "LastUpdate_Achievements": "2023-08-21T15:07:46.9703687+00:00"
 }

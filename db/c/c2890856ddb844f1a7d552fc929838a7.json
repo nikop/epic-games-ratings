@@ -4,7 +4,7 @@
   "ProductSlug": "blasphemous-2",
   "Ranking_EOS_Progress": 550,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewPlayers": 353,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -25,9 +25,379 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
+  "TotalAchievements": 46,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "AC00",
+      "SetID": "l4abp0",
+      "Name": "The Penitent Two",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC01",
+      "SetID": "l4abp0",
+      "Name": "A Thousand Years Later",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC02",
+      "SetID": "l4abp0",
+      "Name": "Blood and Dust",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC03",
+      "SetID": "l4abp0",
+      "Name": "Blood and Gold",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC04",
+      "SetID": "l4abp0",
+      "Name": "Blood and Iron",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC05",
+      "SetID": "l4abp0",
+      "Name": "The Sharpest Tool in the Shed",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC06",
+      "SetID": "l4abp0",
+      "Name": "The Last Ascension",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC07",
+      "SetID": "l4abp0",
+      "Name": "The Sea dies on the Shore",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC08",
+      "SetID": "l4abp0",
+      "Name": "Forged in Fire",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC09",
+      "SetID": "l4abp0",
+      "Name": "Fermosa Fembra",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC10",
+      "SetID": "l4abp0",
+      "Name": "The Wait is Over",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC11",
+      "SetID": "l4abp0",
+      "Name": "A Heart of Gold",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC12",
+      "SetID": "l4abp0",
+      "Name": "Canvas of Light and Time",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC13",
+      "SetID": "l4abp0",
+      "Name": "Second Psalm.",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC14",
+      "SetID": "l4abp0",
+      "Name": "Acta, Non Verba",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC15",
+      "SetID": "l4abp0",
+      "Name": "Full Devotion",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC16",
+      "SetID": "l4abp0",
+      "Name": "Weight of Penance",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC17",
+      "SetID": "l4abp0",
+      "Name": "Second Pilgrimage",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC18",
+      "SetID": "l4abp0",
+      "Name": "Acquired Taste",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC19",
+      "SetID": "l4abp0",
+      "Name": "Soledad",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC20",
+      "SetID": "l4abp0",
+      "Name": "Still Among Us",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC21",
+      "SetID": "l4abp0",
+      "Name": "No Cherub Left Behind",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC22",
+      "SetID": "l4abp0",
+      "Name": "Empty Handed",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC23",
+      "SetID": "l4abp0",
+      "Name": "Hide and Seek",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC24",
+      "SetID": "l4abp0",
+      "Name": "The Work of a Master",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC25",
+      "SetID": "l4abp0",
+      "Name": "House of Grief and Hatred",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC26",
+      "SetID": "l4abp0",
+      "Name": "A Leap of Faith",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC27",
+      "SetID": "l4abp0",
+      "Name": "Twisted is the Path of the Miracle",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC28",
+      "SetID": "l4abp0",
+      "Name": "The Punished One",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC29",
+      "SetID": "l4abp0",
+      "Name": "The Veteran One",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC30",
+      "SetID": "l4abp0",
+      "Name": "The Anointed One",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC31",
+      "SetID": "l4abp0",
+      "Name": "The Merciless One",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC32",
+      "SetID": "l4abp0",
+      "Name": "Nobody Expects the Spanish Inquisition!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC33",
+      "SetID": "l4abp0",
+      "Name": "Ultima Ratio",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC34",
+      "SetID": "l4abp0",
+      "Name": "A Sharp Rendezvous",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC35",
+      "SetID": "l4abp0",
+      "Name": "Flawless Penance",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC36",
+      "SetID": "l4abp0",
+      "Name": "Blessed Incense",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC37",
+      "SetID": "l4abp0",
+      "Name": "Storm of Death",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC38",
+      "SetID": "l4abp0",
+      "Name": "Edge of Orison",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC39",
+      "SetID": "l4abp0",
+      "Name": "Warrior of the Silent Sorrow",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC40",
+      "SetID": "l4abp0",
+      "Name": "Welcome Back!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC41",
+      "SetID": "l4abp0",
+      "Name": "Happy New Year!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC42",
+      "SetID": "l4abp0",
+      "Name": "Two Old Ones Eating Soup",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC43",
+      "SetID": "l4abp0",
+      "Name": "The Finest Craftmanship",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC44",
+      "SetID": "l4abp0",
+      "Name": "This is Blasphemy",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AC45",
+      "SetID": "l4abp0",
+      "Name": "Martyrdom",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "l4abp0",
@@ -38,8 +408,8 @@
   ],
   "FirstSeen": "2023-07-26T07:57:19.1818171+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
-  "LastChanged_Achievements": "2023-08-21T14:05:20.1701676+00:00",
+  "LastChanged_Achievements": "2023-08-21T15:05:36.9322967+00:00",
   "LastUpdate_AppInfo": "2023-08-15T17:57:20.1372586+00:00",
-  "LastUpdate_Ratings": "2023-08-21T13:59:00.6713908+00:00",
-  "LastUpdate_Achievements": "2023-08-21T14:05:20.1701715+00:00"
+  "LastUpdate_Ratings": "2023-08-21T14:59:07.0537754+00:00",
+  "LastUpdate_Achievements": "2023-08-21T15:05:36.9371517+00:00"
 }

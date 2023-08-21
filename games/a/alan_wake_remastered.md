@@ -1,21 +1,21 @@
 # Alan Wake Remastered
 [Store](https://store.epicgames.com/en-US/p/alan-wake-remastered)  
 [View Rawdata](../../db/a/alan_wake_remastered.json)  
-Rating: 4.55 (Ranked 486)  
+Rating: 4.55 (Ranked 485)  
 Number of Ratings: 524  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 37.00% | ~22,659 |
-| Let There Be Light | 30.00% | ~18,372 |
+| Follow the Light | 37.00% | ~22,660 |
+| Let There Be Light | 30.00% | ~18,373 |
 | Float Like a Butterfly | 29.00% | ~17,760 |
-| Nordic Walking | 23.00% | ~14,085 |
-| Bright Falls' Finest | 23.00% | ~14,085 |
+| Nordic Walking | 23.00% | ~14,086 |
+| Bright Falls' Finest | 23.00% | ~14,086 |
 | Under a Thin Layer of Skin | 20.00% | ~12,248 |
 | Paging Mr. Wake | 17.00% | ~10,411 |
-| Park Ranger | 16.00% | ~9,798 |
-| Back! Back, I Say! | 16.00% | ~9,798 |
-| Finders Keepers | 16.00% | ~9,798 |
+| Park Ranger | 16.00% | ~9,799 |
+| Back! Back, I Say! | 16.00% | ~9,799 |
+| Finders Keepers | 16.00% | ~9,799 |
 | Sound and Fury | 14.00% | ~8,574 |
 | Missed by a Mile | 14.00% | ~8,574 |
 | Damn Good Cup of Coffee | 14.00% | ~8,574 |
@@ -26,9 +26,9 @@ Number of Ratings: 524  (23.09.2022)
 | Iron Horse | 12.00% | ~7,349 |
 | Collateral Carnage | 12.00% | ~7,349 |
 | Come One, Come All | 12.00% | ~7,349 |
-| Perchance to Dream | 11.00% | ~6,736 |
-| It's Not Just a Typewriter Brand | 11.00% | ~6,736 |
-| Thunder and Lightning | 11.00% | ~6,736 |
+| Perchance to Dream | 11.00% | ~6,737 |
+| It's Not Just a Typewriter Brand | 11.00% | ~6,737 |
+| Thunder and Lightning | 11.00% | ~6,737 |
 | Gatekeeper | 10.00% | ~6,124 |
 | The Lady of the Light | 10.00% | ~6,124 |
 | Two For the Price of One | 10.00% | ~6,124 |
@@ -38,11 +38,11 @@ Number of Ratings: 524  (23.09.2022)
 | A Friend in Need | 8.00% | ~1,977 |
 | Tornado Wrangler | 7.00% | ~4,287 |
 | Departure | 7.00% | ~4,287 |
-| Hardboiled Writer | 6.00% | ~3,674 |
-| A Friend Indeed | 6.00% | ~1,482 |
+| Hardboiled Writer | 6.00% | ~3,675 |
+| A Friend Indeed | 6.00% | ~1,483 |
 | Children of the Elder God | 5.00% | ~3,062 |
 | Drink 'Em Both Up | 5.00% | ~3,062 |
-| Ding! | 5.00% | ~1,235 |
+| Ding! | 5.00% | ~1,236 |
 | Boob Tube | 4.00% | ~2,450 |
 | If It Flies, It Burns | 4.00% | ~2,450 |
 | KBF-FM | 4.00% | ~2,450 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~61 |
 | No Punctuation | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,240 (Ranked 85)  
+Progressed: 61,242 (Ranked 85)  
 Completed: 64 (0.10%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 64 (0.10%) (Ranked 208)
 | 2023-08-18 | 61,081 | 64 |
 | 2023-08-19 | 61,152 | 64 |
 | 2023-08-20 | 61,207 | 64 |
-| 2023-08-21 | 61,240 | 64 |
+| 2023-08-21 | 61,242 | 64 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

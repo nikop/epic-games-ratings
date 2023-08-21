@@ -561,9 +561,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 220774,
+  "EOS_Progressed": 220776,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 623,
+  "EOS_NewPlayers": 622,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13871,6 +13871,11 @@
       "Time": "2023-08-21T14:03:42.13407+00:00",
       "NumProgressed": 220774,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-21T15:03:55.2935393+00:00",
+      "NumProgressed": 220776,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -13954,7 +13959,7 @@
       "Name": "Battle Servitor",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4415
+      "UsersEstimate": 4416
     },
     {
       "ID": "ACH_BASE_2",
@@ -13962,7 +13967,7 @@
       "Name": "Watch them crumble",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13246
+      "UsersEstimate": 13247
     },
     {
       "ID": "ACH_BASE_20",
@@ -13978,7 +13983,7 @@
       "Name": "Ding Dong Szaregon\u0027s Gone",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4415
+      "UsersEstimate": 4416
     },
     {
       "ID": "ACH_BASE_22",
@@ -13986,7 +13991,7 @@
       "Name": "Impatient destruction",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 4415
+      "UsersEstimate": 4416
     },
     {
       "ID": "ACH_BASE_23",
@@ -14114,7 +14119,7 @@
       "Name": "Vivisected Vizier",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4415
+      "UsersEstimate": 4416
     },
     {
       "ID": "ACH_BASE_6",
@@ -14122,7 +14127,7 @@
       "Name": "Architect Abortion",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4415
+      "UsersEstimate": 4416
     },
     {
       "ID": "ACH_BASE_7",
@@ -14153,7 +14158,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 220774,
+      "Progressed": 220776,
       "Completed": 5
     }
   ],
@@ -14161,8 +14166,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-08-17T07:59:55.1961024+00:00",
-  "LastChanged_Achievements": "2023-08-21T14:03:42.1340694+00:00",
+  "LastChanged_Achievements": "2023-08-21T15:03:55.2935383+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:54.6382051+00:00",
-  "LastUpdate_Ratings": "2023-08-21T14:01:53.8531579+00:00",
-  "LastUpdate_Achievements": "2023-08-21T14:03:42.1342546+00:00"
+  "LastUpdate_Ratings": "2023-08-21T15:02:02.3108568+00:00",
+  "LastUpdate_Achievements": "2023-08-21T15:03:55.2936835+00:00"
 }

@@ -23,6 +23,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Through Repetition, Perfection | 0.60% | ~809 |
 | The Daily Grind | 0.50% | ~674 |
 | Bounty Hunters | 0.50% | ~674 |
+| Demand for Supplies | 0.50% | ~674 |
 | Flooding the Market | 0.50% | ~674 |
 | Where it Hurts | 0.50% | ~674 |
 | Dungeon Imports | 0.50% | ~674 |
@@ -30,7 +31,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ascended | 0.40% | ~540 |
 | Vanity, Verily | 0.40% | ~540 |
 | Blank Page Syndrome | 0.40% | ~540 |
-| Demand for Supplies | 0.40% | ~540 |
 | Efficient Floor Space | 0.40% | ~540 |
 | Gem Expert | 0.40% | ~540 |
 | Gild-Gotten Goods | 0.40% | ~540 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~135 |
 | Cash Only Please | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,887 (Ranked 66)  
+Progressed: 134,889 (Ranked 66)  
 Completed: 134 (0.10%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -242,14 +242,14 @@ Completed: 134 (0.10%) (Ranked 208)
 | 2023-08-18 | 134,736 | 133 |
 | 2023-08-19 | 134,791 | 133 |
 | 2023-08-20 | 134,856 | 133 |
-| 2023-08-21 | 134,887 | 134 |
+| 2023-08-21 | 134,889 | 134 |
 ## Awards
-Max (Great for Beginners): 4,706  (Ranked 71)  
-Sum: 27,121 (Ranked 47)  
+Max (Great for Beginners): 4,707  (Ranked 71)  
+Sum: 27,122 (Ranked 47)  
 Diff (max vs sum): 24  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 4,706 |
+| This game is Great for Beginners | 4,707 |
 | This game is Relaxing | 4,002 |
 | This game has Quickly Understood Controls | 3,987 |
 | This game has Diverse Characters | 3,856 |
@@ -469,4 +469,4 @@ Diff (max vs sum): 24
 | 2023-08-18 | 3.99 | - | 4,704 | 27,110 |
 | 2023-08-19 | 3.99 | - | 4,705 | 27,114 |
 | 2023-08-20 | 3.99 | - | 4,706 | 27,119 |
-| 2023-08-21 | 3.99 | - | 4,706 | 27,121 |
+| 2023-08-21 | 3.99 | - | 4,707 | 27,122 |

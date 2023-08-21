@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 20.00% | ~11 |
+| That's the spirit | 19.00% | ~11 |
 | Rascal | 18.00% | ~10 |
 | The Preacher's fate | 18.00% | ~10 |
 | Champollion | 18.00% | ~10 |
@@ -19,7 +19,7 @@
 | True G4M3R | 16.00% | ~9 |
 | I did it | 14.00% | ~8 |
 | Fashion victim | 14.00% | ~8 |
-| Feels like springtime | 13.00% | ~7 |
+| Feels like springtime | 12.00% | ~7 |
 | In this together | 11.00% | ~6 |
 | Peace walker | 9.00% | ~5 |
 | Half the way | 9.00% | ~5 |
@@ -30,8 +30,8 @@
 | A Link to the Past | 7.00% | ~4 |
 | Alchemists Express | 7.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56 (Ranked 362)  
-Completed: 4 (7.14%) (Ranked 37)  
+Progressed: 57 (Ranked 362)  
+Completed: 4 (7.02%) (Ranked 39)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -68,4 +68,4 @@ Completed: 4 (7.14%) (Ranked 37)
 | 2023-08-17 | 52 | 4 |
 | 2023-08-19 | 54 | 4 |
 | 2023-08-20 | 55 | 4 |
-| 2023-08-21 | 56 | 4 |
+| 2023-08-21 | 57 | 4 |

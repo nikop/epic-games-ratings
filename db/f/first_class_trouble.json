@@ -3,11 +3,11 @@
   "Name": "First Class Trouble",
   "ProductSlug": "first-class-trouble",
   "Ranking_Rating": 558,
-  "Ranking_Popularity": 317,
+  "Ranking_Popularity": 316,
   "Ranking_PopularitySum": 294,
   "Ranking_EOS_Progress": 550,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewPlayers": 353,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -1324,11 +1324,17 @@
       "Rating": 4.5,
       "NumberOfAwards": 620,
       "NumberOfAwardsMax": 122
+    },
+    {
+      "Time": "2023-08-21T15:00:38.623319+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 621,
+      "NumberOfAwardsMax": 123
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 620,
-  "NumberOfAwardsMax": 122,
+  "NumberOfAwards": 621,
+  "NumberOfAwardsMax": 123,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
@@ -1347,7 +1353,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 122
+      "Count": 123
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1404,8 +1410,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-09-22T22:01:01.54229+00:00",
   "FirstSeenRating": "2023-01-13T07:56:45.2170746+00:00",
-  "LastChanged": "2023-08-20T03:01:52.632446+00:00",
+  "LastChanged": "2023-08-21T15:00:38.6233188+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:58:06.7427644+00:00",
-  "LastUpdate_Ratings": "2023-08-21T14:00:31.4462132+00:00",
-  "LastUpdate_Achievements": "2023-08-21T14:04:45.313109+00:00"
+  "LastUpdate_Ratings": "2023-08-21T15:00:38.6233195+00:00",
+  "LastUpdate_Achievements": "2023-08-21T15:04:58.261511+00:00"
 }

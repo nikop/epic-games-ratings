@@ -4,7 +4,7 @@
   "ProductSlug": "the-evil-within-2",
   "Ranking_EOS_Progress": 367,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
@@ -472,9 +472,9 @@
       "ID": "ACHIEVEMENT_26",
       "SetID": "b36c5kb",
       "Name": "DIY",
-      "Percentage": 66,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -687,8 +687,8 @@
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-08-21T14:05:58.3459104+00:00",
+  "LastChanged_Achievements": "2023-08-21T15:06:14.7170027+00:00",
   "LastUpdate_AppInfo": "2023-08-16T16:57:24.779676+00:00",
-  "LastUpdate_Ratings": "2023-08-21T13:58:48.5229317+00:00",
-  "LastUpdate_Achievements": "2023-08-21T14:05:58.3459574+00:00"
+  "LastUpdate_Ratings": "2023-08-21T14:58:57.3077251+00:00",
+  "LastUpdate_Achievements": "2023-08-21T15:06:14.7170599+00:00"
 }

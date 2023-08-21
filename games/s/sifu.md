@@ -1,7 +1,7 @@
 # Sifu
 [Store](https://store.epicgames.com/en-US/p/sifu)  
 [View Rawdata](../../db/s/sifu.json)  
-Rating: 4.82 (Ranked 67)  
+Rating: 4.82 (Ranked 66)  
 Number of Ratings: 9,492  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,425 |
 | Warriors from the Mountain | 0.10% | ~713 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 712,592 (Ranked 20)  
+Progressed: 712,595 (Ranked 20)  
 Completed: 12,870 (1.81%) (Ranked 97)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 12,870 (1.81%) (Ranked 97)
 | 2023-08-18 | 712,513 | 12,863 |
 | 2023-08-19 | 712,545 | 12,866 |
 | 2023-08-20 | 712,574 | 12,870 |
-| 2023-08-21 | 712,592 | 12,870 |
+| 2023-08-21 | 712,595 | 12,870 |
 ## Awards
 Max (Great Boss Battles): 6,388  (Ranked 55)  
 Sum: 10,968 (Ranked 82)  

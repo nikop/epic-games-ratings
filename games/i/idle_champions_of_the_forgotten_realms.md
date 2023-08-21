@@ -7,8 +7,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 1.00% | ~2,239 |
-| Beast Intentions | 0.50% | ~1,119 |
-| The Cursed Farmer | 0.50% | ~1,119 |
+| Beast Intentions | 0.50% | ~1,120 |
+| The Cursed Farmer | 0.50% | ~1,120 |
 | The Hunt for The Last Breath | 0.50% | ~951 |
 | The Mad Wizard | 0.40% | ~896 |
 | To Infinity's and Beyond | 0.40% | ~761 |
@@ -36,6 +36,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Exploring Port Nyanzaru | 0.20% | ~448 |
 | Running of the Saurs | 0.20% | ~448 |
 | The Contagious Curse | 0.20% | ~448 |
+| Escort to Waterdeep | 0.20% | ~448 |
 | Underdeep Cartography | 0.20% | ~448 |
 | Friendly Imps | 0.20% | ~448 |
 | Pure Energy | 0.20% | ~448 |
@@ -398,7 +399,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Prison of Velkynvelve | 0.10% | ~190 |
 | Prisoners of Lolth | 0.10% | ~190 |
 | Prisoners of Unknown Choices | 0.10% | ~190 |
-| Escort to Waterdeep | 0.10% | ~224 |
 | The Giant's Bane Tavern | 0.10% | ~190 |
 | Rime Bandits | 0.10% | ~190 |
 | Giant-Size Adventure | 0.10% | ~190 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~190 |
 | Animated Giff | 0.10% | ~190 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 223,891 (Ranked 53)  
+Progressed: 223,905 (Ranked 53)  
 Completed: 2,202 (0.98%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -646,7 +646,7 @@ Completed: 2,202 (0.98%) (Ranked 120)
 | 2023-08-18 | 223,142 | 2,190 |
 | 2023-08-19 | 223,443 | 2,193 |
 | 2023-08-20 | 223,729 | 2,196 |
-| 2023-08-21 | 223,891 | 2,202 |
+| 2023-08-21 | 223,905 | 2,202 |
 ## Awards
 Max (Diverse Characters): 5,173  (Ranked 68)  
 Sum: 31,152 (Ranked 38)  

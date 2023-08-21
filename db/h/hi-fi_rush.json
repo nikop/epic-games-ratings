@@ -120,7 +120,7 @@
   "Tags": [],
   "EOS_Progressed": 3958,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -6143,9 +6143,9 @@
       "ID": "Ach003",
       "SetID": "12n4k20",
       "Name": "This will cost you big time",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 237
+      "UsersEstimate": 277
     },
     {
       "ID": "Ach004",
@@ -6710,8 +6710,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-08-10T23:00:09.4128826+00:00",
-  "LastChanged_Achievements": "2023-08-21T14:07:36.3575876+00:00",
+  "LastChanged_Achievements": "2023-08-21T15:07:50.9599734+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:54.770039+00:00",
-  "LastUpdate_Ratings": "2023-08-21T14:01:54.7761354+00:00",
-  "LastUpdate_Achievements": "2023-08-21T14:07:36.3577864+00:00"
+  "LastUpdate_Ratings": "2023-08-21T15:02:02.891426+00:00",
+  "LastUpdate_Achievements": "2023-08-21T15:07:50.9602264+00:00"
 }

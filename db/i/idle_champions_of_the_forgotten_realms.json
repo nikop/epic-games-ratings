@@ -5980,9 +5980,9 @@
       "Count": 3365
     }
   ],
-  "EOS_Progressed": 223891,
+  "EOS_Progressed": 223905,
   "EOS_Completed": 2202,
-  "EOS_NewPlayers": 2084,
+  "EOS_NewPlayers": 2088,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -19400,6 +19400,11 @@
       "Time": "2023-08-21T14:06:55.5327369+00:00",
       "NumProgressed": 223891,
       "NumCompleted": 2202
+    },
+    {
+      "Time": "2023-08-21T15:07:10.4636694+00:00",
+      "NumProgressed": 223905,
+      "NumCompleted": 2202
     }
   ],
   "TotalAchievements": 516,
@@ -19779,7 +19784,7 @@
       "Name": "Beast Intentions",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1119
+      "UsersEstimate": 1120
     },
     {
       "ID": "objective_completed_110",
@@ -21083,7 +21088,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1119
+      "UsersEstimate": 1120
     },
     {
       "ID": "objective_completed_34",
@@ -22481,9 +22486,9 @@
       "ID": "objective_completed_69",
       "SetID": "cc37lbc",
       "Name": "Escort to Waterdeep",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 224
+      "UsersEstimate": 448
     },
     {
       "ID": "objective_completed_690",
@@ -23538,21 +23543,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 190165,
+      "Progressed": 190179,
       "Completed": 3285
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 223891,
+      "Progressed": 223905,
       "Completed": 2202
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-21T13:04:49.8582282+00:00",
-  "LastChanged_Achievements": "2023-08-21T14:06:55.5327362+00:00",
+  "LastChanged_Achievements": "2023-08-21T15:07:10.4636686+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:12.3267162+00:00",
-  "LastUpdate_Ratings": "2023-08-21T14:01:18.8665682+00:00",
-  "LastUpdate_Achievements": "2023-08-21T14:06:55.5359075+00:00"
+  "LastUpdate_Ratings": "2023-08-21T15:01:26.930814+00:00",
+  "LastUpdate_Achievements": "2023-08-21T15:07:10.4672287+00:00"
 }

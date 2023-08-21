@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 301)  
+Rating: 4.65 (Ranked 300)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -45,6 +45,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Brilliant | 1.00% | ~135 |
 | Fountainhead | 1.00% | ~135 |
 | Great | 1.00% | ~135 |
+| Intercessor | 1.00% | ~135 |
 | Valiant | 1.00% | ~135 |
 | Wise | 1.00% | ~135 |
 | Legendary Cities | 1.00% | ~135 |
@@ -68,7 +69,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Roman Paganism | 1.00% | ~135 |
 | Zoroastrianism | 1.00% | ~135 |
 | Mythology | 1.00% | ~135 |
-| Intercessor | 0.90% | ~122 |
+| Champions | 0.90% | ~122 |
 | Sages | 0.90% | ~122 |
 | Mausoleum | 0.90% | ~122 |
 | Greece | 0.90% | ~122 |
@@ -78,7 +79,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Conqueror | 0.80% | ~108 |
 | Mighty | 0.80% | ~108 |
 | Victorious | 0.80% | ~108 |
-| Champions | 0.80% | ~108 |
 | Building Wonders | 0.80% | ~108 |
 | Lion | 0.70% | ~95 |
 | Good Difficulty | 0.70% | ~95 |
@@ -95,8 +95,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Persian Paganism | 0.70% | ~95 |
 | Economic Reform | 0.70% | ~95 |
 | Legalism | 0.70% | ~95 |
+| Redemption | 0.70% | ~95 |
 | Legionary | 0.70% | ~95 |
 | Phalangite | 0.70% | ~95 |
+| Double Victory | 0.70% | ~95 |
 | Win a Single Player Game | 0.70% | ~95 |
 | Capable | 0.60% | ~81 |
 | Invincible | 0.60% | ~81 |
@@ -108,10 +110,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage | 0.60% | ~81 |
 | Assyrian Paganism | 0.60% | ~81 |
 | Dualism | 0.60% | ~81 |
-| Redemption | 0.60% | ~81 |
 | Cimmerian Archer | 0.60% | ~81 |
 | Ambition Victory | 0.60% | ~81 |
-| Double Victory | 0.60% | ~81 |
 | Bad Heir Day | 0.50% | ~68 |
 | Devout | 0.50% | ~68 |
 | Strong Difficulty | 0.50% | ~68 |
@@ -167,6 +167,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Assyria | 0.20% | ~27 |
 | Hatti | 0.20% | ~27 |
 | Pantheon of Gods | 0.20% | ~27 |
+| Apadana in Parsa | 0.20% | ~27 |
 | Play a Free-For-All Game (>2 Players) | 0.20% | ~27 |
 | Play a MP Teams Game | 0.20% | ~27 |
 | Play a Play-By-Cloud Game | 0.20% | ~27 |
@@ -253,7 +254,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pyramids in Menefer | 0.10% | ~14 |
 | Merchants of the Levant | 0.10% | ~14 |
 | Realistic Mortality | 0.10% | ~14 |
-| Apadana in Parsa | 0.10% | ~14 |
 | Play a 1-v-1 Game | 0.10% | ~14 |
 | Play a Hotseat Game | 0.10% | ~14 |
 | Play a LAN Game | 0.10% | ~14 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,513 (Ranked 118)  
+Progressed: 13,514 (Ranked 118)  
 Completed: 5 (0.04%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -426,7 +426,7 @@ Completed: 5 (0.04%) (Ranked 231)
 | 2023-08-18 | 13,460 | 5 |
 | 2023-08-19 | 13,485 | 5 |
 | 2023-08-20 | 13,503 | 5 |
-| 2023-08-21 | 13,513 | 5 |
+| 2023-08-21 | 13,514 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,797 (Ranked 207)  

@@ -1,7 +1,7 @@
 # Airborne Kingdom
 [Store](https://store.epicgames.com/en-US/p/airborne-kingdom)  
 [View Rawdata](../../db/a/airborne_kingdom.json)  
-Rating: 4.65 (Ranked 301)  
+Rating: 4.65 (Ranked 300)  
 Number of Ratings: 74  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -9,8 +9,8 @@ Number of Ratings: 74  (23.09.2022)
 | A Small Community | 56.00% | ~3,955 |
 | A Grove Replanted | 53.00% | ~3,743 |
 | Fields Watered | 41.00% | ~2,896 |
+| Seekers Found | 41.00% | ~2,896 |
 | Settling the Skies | 41.00% | ~2,896 |
-| Seekers Found | 40.00% | ~2,825 |
 | Wind Powered | 40.00% | ~2,825 |
 | It Takes a Village | 34.00% | ~2,401 |
 | On the Town | 28.00% | ~1,978 |

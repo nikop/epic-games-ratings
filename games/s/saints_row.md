@@ -6,17 +6,17 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 43.00% | ~27,047 |
-| To The Nines | 39.00% | ~24,531 |
-| Optimized | 34.00% | ~21,386 |
-| Performance Review | 34.00% | ~21,386 |
-| Making a Name | 32.00% | ~20,128 |
-| Tune Up | 31.00% | ~19,499 |
-| Landlord | 30.00% | ~18,870 |
-| The Side Job | 29.00% | ~18,241 |
-| Wet Work | 29.00% | ~18,241 |
-| Wrecking Ball | 26.00% | ~16,354 |
-| Food for Thought | 25.00% | ~15,725 |
+| First F#@!ing Day | 43.00% | ~27,048 |
+| To The Nines | 39.00% | ~24,532 |
+| Optimized | 34.00% | ~21,387 |
+| Performance Review | 34.00% | ~21,387 |
+| Making a Name | 32.00% | ~20,129 |
+| Tune Up | 31.00% | ~19,500 |
+| Landlord | 30.00% | ~18,871 |
+| The Side Job | 29.00% | ~18,242 |
+| Wet Work | 29.00% | ~18,242 |
+| Wrecking Ball | 26.00% | ~16,355 |
+| Food for Thought | 25.00% | ~15,726 |
 | Finders Keepers | 23.00% | ~14,467 |
 | A Young Empire | 23.00% | ~14,467 |
 | Work Ethic | 22.00% | ~13,838 |
@@ -56,11 +56,11 @@ Number of Ratings: 22,103  (23.09.2022)
 | Armor Piercing | 0.70% | ~440 |
 | Heard You Like Wheels | 0.70% | ~440 |
 | Jack of All Trades | 0.60% | ~377 |
-| Statement Pieces | 0.50% | ~314 |
+| Statement Pieces | 0.50% | ~315 |
 | A Car Named Simone | 0.20% | ~126 |
 | Fiesta Time | 0.20% | ~126 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,899 (Ranked 84)  
+Progressed: 62,902 (Ranked 84)  
 Completed: 42 (0.07%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 42 (0.07%) (Ranked 220)
 | 2023-08-18 | 62,418 | 42 |
 | 2023-08-19 | 62,620 | 42 |
 | 2023-08-20 | 62,813 | 42 |
-| 2023-08-21 | 62,899 | 42 |
+| 2023-08-21 | 62,902 | 42 |
 ## Awards
 Max (Extremely Fun): 1,056  (Ranked 142)  
 Sum: 8,579 (Ranked 95)  

@@ -427,9 +427,9 @@
       "ID": "DD_complete",
       "SetID": "3b8n56h",
       "Name": "The Bodyguard",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "GL_complete",
@@ -723,9 +723,9 @@
       "ID": "scavanger_curios",
       "SetID": "3b8n56h",
       "Name": "No Stone Unturned",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "thanks_but_why?",
@@ -756,8 +756,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2023-08-21T14:06:56.3012052+00:00",
+  "LastChanged_Achievements": "2023-08-21T15:07:10.7575928+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:45.3405091+00:00",
-  "LastUpdate_Ratings": "2023-08-21T14:00:03.2645475+00:00",
-  "LastUpdate_Achievements": "2023-08-21T14:06:56.3012368+00:00"
+  "LastUpdate_Ratings": "2023-08-21T15:00:13.9791874+00:00",
+  "LastUpdate_Achievements": "2023-08-21T15:07:10.7576357+00:00"
 }

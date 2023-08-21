@@ -17,13 +17,13 @@
 | The Steed | 12.00% | ~10 |
 | A Strange Proposition | 12.00% | ~10 |
 | Card Completionist | 9.00% | ~8 |
-| The Bodyguard | 7.00% | ~6 |
+| The Bodyguard | 8.00% | ~7 |
 | The Apprentice | 7.00% | ~6 |
 | Braving Miasma | 7.00% | ~6 |
 | The Familiar | 7.00% | ~6 |
 | Oracle Mastery | 7.00% | ~6 |
+| No Stone Unturned | 7.00% | ~6 |
 | The Plot Thickens | 6.00% | ~5 |
-| No Stone Unturned | 6.00% | ~5 |
 | Ancient Nemesis | 5.00% | ~4 |
 | Raider Mastery | 5.00% | ~4 |
 | Traveler Mastery | 5.00% | ~4 |

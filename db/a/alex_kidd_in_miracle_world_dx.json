@@ -4,7 +4,7 @@
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 106,
-  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewPlayers": 288,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 273,
+  "EOS_Progressed": 274,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.47,
+  "EOS_Completed_Percentage": 1.46,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:09.0192053+00:00",
@@ -271,6 +271,11 @@
       "Time": "2023-08-18T09:03:55.9225697+00:00",
       "NumProgressed": 273,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-21T15:04:50.9064474+00:00",
+      "NumProgressed": 274,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -312,9 +317,9 @@
       "ID": "CHOKKINA_DEFEATED",
       "SetID": "7im05fi",
       "Name": "Second Commander",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 60,
-      "UsersEstimate": 49
+      "UsersEstimate": 52
     },
     {
       "ID": "EGLE_FREED",
@@ -330,15 +335,15 @@
       "Name": "First Commander",
       "Percentage": 21,
       "XP": 60,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "GRIZZLY_DEFEATED",
       "SetID": "7im05fi",
       "Name": "Assailants",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 40,
-      "UsersEstimate": 74
+      "UsersEstimate": 77
     },
     {
       "ID": "JANKEN_DEFEATED",
@@ -352,9 +357,9 @@
       "ID": "LEVEL_04",
       "SetID": "7im05fi",
       "Name": "Adventurer",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 55
     },
     {
       "ID": "LEVEL_06_NO_SHOT",
@@ -378,7 +383,7 @@
       "Name": "Wild Ox",
       "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "PARPLIN_DEFEATED",
@@ -409,7 +414,7 @@
     {
       "ID": "7im05fi",
       "IsBase": true,
-      "Progressed": 273,
+      "Progressed": 274,
       "Completed": 4
     }
   ],
@@ -417,8 +422,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2023-08-21T14:04:38.1017846+00:00",
+  "LastChanged_Achievements": "2023-08-21T15:04:50.9064466+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:14.3953578+00:00",
-  "LastUpdate_Ratings": "2023-08-21T14:01:21.1642971+00:00",
-  "LastUpdate_Achievements": "2023-08-21T14:04:38.1018143+00:00"
+  "LastUpdate_Ratings": "2023-08-21T15:01:30.2848901+00:00",
+  "LastUpdate_Achievements": "2023-08-21T15:04:50.9064634+00:00"
 }

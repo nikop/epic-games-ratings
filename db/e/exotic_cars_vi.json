@@ -4,7 +4,7 @@
   "ProductSlug": "exotic-cars-vi",
   "Ranking_EOS_Progress": 550,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewPlayers": 353,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2099-01-02T03:00:00+00:00",
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-19T08:57:39.0896071+00:00",
-  "LastUpdate_Ratings": "2023-08-21T13:57:48.7715716+00:00",
-  "LastUpdate_Achievements": "2023-08-21T14:08:38.7744507+00:00"
+  "LastUpdate_Ratings": "2023-08-21T14:57:56.521501+00:00",
+  "LastUpdate_Achievements": "2023-08-21T15:08:54.7102706+00:00"
 }

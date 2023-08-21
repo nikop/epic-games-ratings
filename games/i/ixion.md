@@ -1,11 +1,11 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.55 (Ranked 486)  
+Rating: 4.55 (Ranked 485)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 26.00% | ~803 |
+| Wakey Wakey | 26.00% | ~804 |
 | Sputnik 2049 | 23.00% | ~711 |
 | Without Breaking Some Eggs... | 21.00% | ~649 |
 | Infinite Growth... | 21.00% | ~649 |
@@ -26,9 +26,9 @@ Rating: 4.55 (Ranked 486)
 | Please Make it Stop! | 7.00% | ~216 |
 | Sightseeing | 6.00% | ~185 |
 | Convenient Transport | 6.00% | ~185 |
-| Access Granted | 5.00% | ~154 |
-| Necessary Enhancement | 5.00% | ~154 |
-| From the Past | 5.00% | ~154 |
+| Access Granted | 5.00% | ~155 |
+| Necessary Enhancement | 5.00% | ~155 |
+| From the Past | 5.00% | ~155 |
 | Oats | 4.00% | ~124 |
 | What They Hide From Us | 4.00% | ~124 |
 | ...  in a finite world | 4.00% | ~124 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 486)
 | Beyond Time and Space | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,090 (Ranked 160)  
+Progressed: 3,091 (Ranked 160)  
 Completed: 0 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,7 +185,7 @@ Completed: 0 (0.00%) (Ranked 261)
 | 2023-08-18 | 3,083 | 0 |
 | 2023-08-19 | 3,086 | 0 |
 | 2023-08-20 | 3,089 | 0 |
-| 2023-08-21 | 3,090 | 0 |
+| 2023-08-21 | 3,091 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

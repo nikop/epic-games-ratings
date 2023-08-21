@@ -5630,11 +5630,17 @@
       "Rating": 3.99,
       "NumberOfAwards": 27121,
       "NumberOfAwardsMax": 4706
+    },
+    {
+      "Time": "2023-08-21T15:01:58.5584275+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27122,
+      "NumberOfAwardsMax": 4707
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27121,
-  "NumberOfAwardsMax": 4706,
+  "NumberOfAwards": 27122,
+  "NumberOfAwardsMax": 4707,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -5653,7 +5659,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 4706
+      "Count": 4707
     },
     {
       "Text": "This game has Easy Combat",
@@ -5686,9 +5692,9 @@
       "Count": 3737
     }
   ],
-  "EOS_Progressed": 134887,
+  "EOS_Progressed": 134889,
   "EOS_Completed": 134,
-  "EOS_NewPlayers": 378,
+  "EOS_NewPlayers": 376,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -18286,6 +18292,11 @@
       "Time": "2023-08-21T14:07:35.3329428+00:00",
       "NumProgressed": 134887,
       "NumCompleted": 134
+    },
+    {
+      "Time": "2023-08-21T15:07:49.9614703+00:00",
+      "NumProgressed": 134889,
+      "NumCompleted": 134
     }
   ],
   "TotalAchievements": 112,
@@ -18535,9 +18546,9 @@
       "ID": "commonres02",
       "SetID": "anfd17p",
       "Name": "Demand for Supplies",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 540
+      "UsersEstimate": 674
     },
     {
       "ID": "commonres03",
@@ -19192,15 +19203,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 134887,
+      "Progressed": 134889,
       "Completed": 134
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-08-21T03:00:47.0894534+00:00",
-  "LastChanged_Achievements": "2023-08-21T14:07:35.3329422+00:00",
+  "LastChanged": "2023-08-21T15:01:58.5584274+00:00",
+  "LastChanged_Achievements": "2023-08-21T15:07:49.9614691+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:50.7489496+00:00",
-  "LastUpdate_Ratings": "2023-08-21T14:01:50.086253+00:00",
-  "LastUpdate_Achievements": "2023-08-21T14:07:35.3333178+00:00"
+  "LastUpdate_Ratings": "2023-08-21T15:01:58.558428+00:00",
+  "LastUpdate_Achievements": "2023-08-21T15:07:49.9618463+00:00"
 }

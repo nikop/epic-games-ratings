@@ -3336,9 +3336,9 @@
       "Count": 1056
     }
   ],
-  "EOS_Progressed": 62899,
+  "EOS_Progressed": 62902,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 1232,
+  "EOS_NewPlayers": 1226,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -16831,6 +16831,11 @@
       "Time": "2023-08-21T14:04:41.3556367+00:00",
       "NumProgressed": 62899,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-08-21T15:04:54.2028452+00:00",
+      "NumProgressed": 62902,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 53,
@@ -16938,7 +16943,7 @@
       "Name": "The Side Job",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 18241
+      "UsersEstimate": 18242
     },
     {
       "ID": "complete_first_wanted_mission",
@@ -16946,7 +16951,7 @@
       "Name": "Wet Work",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 18241
+      "UsersEstimate": 18242
     },
     {
       "ID": "complete_mission_1",
@@ -16954,7 +16959,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 27047
+      "UsersEstimate": 27048
     },
     {
       "ID": "customize_a_vehicle",
@@ -16962,7 +16967,7 @@
       "Name": "Tune Up",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 19499
+      "UsersEstimate": 19500
     },
     {
       "ID": "customize_a_weapon",
@@ -16970,7 +16975,7 @@
       "Name": "Optimized",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 21386
+      "UsersEstimate": 21387
     },
     {
       "ID": "cutting_edge_materials",
@@ -16978,7 +16983,7 @@
       "Name": "Statement Pieces",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "defeat_the_collective",
@@ -17050,7 +17055,7 @@
       "Name": "Landlord",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 18870
+      "UsersEstimate": 18871
     },
     {
       "ID": "fully_complete_a_building",
@@ -17090,7 +17095,7 @@
       "Name": "Performance Review",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 21386
+      "UsersEstimate": 21387
     },
     {
       "ID": "hit_max_level",
@@ -17122,7 +17127,7 @@
       "Name": "Wrecking Ball",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 16354
+      "UsersEstimate": 16355
     },
     {
       "ID": "kill_tank_driver_with_rail",
@@ -17138,7 +17143,7 @@
       "Name": "Making a Name",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 20128
+      "UsersEstimate": 20129
     },
     {
       "ID": "one_third_purple",
@@ -17194,7 +17199,7 @@
       "Name": "Food for Thought",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 15725
+      "UsersEstimate": 15726
     },
     {
       "ID": "two_thirds_purple",
@@ -17226,7 +17231,7 @@
       "Name": "To The Nines",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 24531
+      "UsersEstimate": 24532
     },
     {
       "ID": "whole_map_purple",
@@ -17265,22 +17270,22 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 62899,
+      "Progressed": 62902,
       "Completed": 42
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 34536,
-      "Completed": 3337
+      "Progressed": 34539,
+      "Completed": 3338
     }
   ],
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-08-19T02:57:30.2354566+00:00",
-  "LastChanged_Achievements": "2023-08-21T14:04:41.3556361+00:00",
+  "LastChanged_Achievements": "2023-08-21T15:04:54.2028444+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:35.8690395+00:00",
-  "LastUpdate_Ratings": "2023-08-21T13:57:44.3776919+00:00",
-  "LastUpdate_Achievements": "2023-08-21T14:04:41.3557722+00:00"
+  "LastUpdate_Ratings": "2023-08-21T14:57:49.4033596+00:00",
+  "LastUpdate_Achievements": "2023-08-21T15:04:54.2029934+00:00"
 }

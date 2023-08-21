@@ -48,8 +48,8 @@ Number of Ratings: 401  (23.09.2022)
 | No regrets | 0.90% | ~323 |
 | Depth charge | 0.90% | ~323 |
 | A zee-change | 0.80% | ~287 |
-| What lies beneath | 0.70% | ~251 |
-| Stone's Curse | 0.70% | ~251 |
+| What lies beneath | 0.70% | ~252 |
+| Stone's Curse | 0.70% | ~252 |
 | Five Years at Zee | 0.50% | ~180 |
 | The Lady's Parlour | 0.20% | ~72 |
 | A Past Wreathed in Shadows | 0.20% | ~72 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~36 |
 | Ten Years at Zee | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 35,927 (Ranked 97)  
+Progressed: 35,929 (Ranked 97)  
 Completed: 3 (0.01%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,7 +184,7 @@ Completed: 3 (0.01%) (Ranked 248)
 | 2023-08-18 | 35,756 | 3 |
 | 2023-08-19 | 35,823 | 3 |
 | 2023-08-20 | 35,905 | 3 |
-| 2023-08-21 | 35,927 | 3 |
+| 2023-08-21 | 35,929 | 3 |
 ## Awards
 Max (Character Customization): 213  (Ranked 270)  
 Sum: 283 (Ranked 343)  
