@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-02-02T14:00:00+00:00",
     "PcReleaseDate": "2023-02-02T14:00:00+00:00",
@@ -2677,9 +2677,9 @@
       "ID": "ACH_BE",
       "SetID": "b3fep3o",
       "Name": "The Nameless One",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 34
+      "UsersEstimate": 68
     },
     {
       "ID": "ACH_B_DP",
@@ -2749,9 +2749,9 @@
       "ID": "ACH_ISL",
       "SetID": "b3fep3o",
       "Name": "Rule of Thirds",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 68
     },
     {
       "ID": "ACH_K_A1",
@@ -3085,9 +3085,9 @@
       "ID": "ACH_TAR",
       "SetID": "b3fep3o",
       "Name": "Close Shut the Doors",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 34
+      "UsersEstimate": 68
     },
     {
       "ID": "ACH_TF",
@@ -3190,8 +3190,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-08-21T18:07:05.4217514+00:00",
+  "LastChanged_Achievements": "2023-08-21T19:06:29.8294406+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:42.998014+00:00",
-  "LastUpdate_Ratings": "2023-08-21T17:57:53.6694523+00:00",
-  "LastUpdate_Achievements": "2023-08-21T18:07:05.4218363+00:00"
+  "LastUpdate_Ratings": "2023-08-21T18:57:40.9242246+00:00",
+  "LastUpdate_Achievements": "2023-08-21T19:06:29.8295208+00:00"
 }

@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 1.00% | ~2,239 |
+| A Brief Tour of the Realms | 1.00% | ~2,240 |
 | Beast Intentions | 0.50% | ~1,120 |
 | The Cursed Farmer | 0.50% | ~1,120 |
 | The Hunt for The Last Breath | 0.50% | ~951 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~190 |
 | Animated Giff | 0.10% | ~190 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 223,940 (Ranked 53)  
+Progressed: 223,954 (Ranked 53)  
 Completed: 2,202 (0.98%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -646,14 +646,14 @@ Completed: 2,202 (0.98%) (Ranked 120)
 | 2023-08-18 | 223,142 | 2,190 |
 | 2023-08-19 | 223,443 | 2,193 |
 | 2023-08-20 | 223,729 | 2,196 |
-| 2023-08-21 | 223,940 | 2,202 |
+| 2023-08-21 | 223,954 | 2,202 |
 ## Awards
-Max (Diverse Characters): 5,173  (Ranked 68)  
-Sum: 31,152 (Ranked 38)  
+Max (Diverse Characters): 5,176  (Ranked 68)  
+Sum: 31,155 (Ranked 38)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 5,173 |
+| This game has Diverse Characters | 5,176 |
 | This game is Great for Beginners | 5,129 |
 | This game has Quickly Understood Controls | 4,729 |
 | This game is Relaxing | 4,617 |
@@ -870,4 +870,4 @@ Diff (max vs sum): 30
 | 2023-08-18 | 4.06 | - | 5,167 | 31,122 |
 | 2023-08-19 | 4.06 | - | 5,169 | 31,135 |
 | 2023-08-20 | 4.06 | - | 5,173 | 31,149 |
-| 2023-08-21 | 4.06 | - | 5,173 | 31,152 |
+| 2023-08-21 | 4.06 | - | 5,176 | 31,155 |

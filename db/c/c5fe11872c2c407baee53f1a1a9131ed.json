@@ -4,8 +4,8 @@
   "ProductSlug": "spingun-843f78",
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-06-02T04:00:00+00:00",
     "PcReleaseDate": "2016-11-11T05:00:00+00:00",
@@ -827,8 +827,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-02T21:05:45.273905+00:00",
-  "LastChanged_Achievements": "2023-08-21T18:07:44.4682008+00:00",
+  "LastChanged_Achievements": "2023-08-21T19:07:10.2567761+00:00",
   "LastUpdate_AppInfo": "2023-08-19T03:57:03.501559+00:00",
-  "LastUpdate_Ratings": "2023-08-21T17:59:34.2536631+00:00",
-  "LastUpdate_Achievements": "2023-08-21T18:07:44.4682294+00:00"
+  "LastUpdate_Ratings": "2023-08-21T18:59:17.6427861+00:00",
+  "LastUpdate_Achievements": "2023-08-21T19:07:10.2568162+00:00"
 }

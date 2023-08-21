@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17531,
+  "EOS_Progressed": 17534,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 163,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8746,6 +8746,11 @@
       "Time": "2023-08-21T17:06:06.402005+00:00",
       "NumProgressed": 17531,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-21T19:06:02.4838883+00:00",
+      "NumProgressed": 17534,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -8757,7 +8762,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5084
+      "UsersEstimate": 5085
     },
     {
       "ID": "0002",
@@ -8773,7 +8778,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2980
+      "UsersEstimate": 2981
     },
     {
       "ID": "0004",
@@ -8821,7 +8826,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4032
+      "UsersEstimate": 4033
     },
     {
       "ID": "0010",
@@ -8861,7 +8866,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2980
+      "UsersEstimate": 2981
     },
     {
       "ID": "0015",
@@ -8909,7 +8914,7 @@
       "Name": "Dr. No Kill",
       "Percentage": 11,
       "XP": 115,
-      "UsersEstimate": 1928
+      "UsersEstimate": 1929
     },
     {
       "ID": "0021",
@@ -8965,7 +8970,7 @@
       "Name": "My Motto, My Creed",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1928
+      "UsersEstimate": 1929
     },
     {
       "ID": "0028",
@@ -8973,7 +8978,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4032
+      "UsersEstimate": 4033
     },
     {
       "ID": "0029",
@@ -9044,7 +9049,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17531,
+      "Progressed": 17534,
       "Completed": 1
     }
   ],
@@ -9052,8 +9057,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-12T19:04:41.1874293+00:00",
-  "LastChanged_Achievements": "2023-08-21T18:06:28.9817855+00:00",
+  "LastChanged_Achievements": "2023-08-21T19:06:02.4838875+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:28.6624095+00:00",
-  "LastUpdate_Ratings": "2023-08-21T17:57:33.0977543+00:00",
-  "LastUpdate_Achievements": "2023-08-21T18:06:28.9818856+00:00"
+  "LastUpdate_Ratings": "2023-08-21T18:57:25.2525599+00:00",
+  "LastUpdate_Achievements": "2023-08-21T19:06:02.4840024+00:00"
 }

@@ -30,6 +30,7 @@
 | Unstoppable | 8.00% | ~5 |
 | Silver Prince of Ball-air | 8.00% | ~5 |
 | Merchant Prince II | 8.00% | ~5 |
+| Hoarder | 7.00% | ~4 |
 | Usurper I | 7.00% | ~4 |
 | Flower Power | 7.00% | ~4 |
 | Galactic Lieutenant | 7.00% | ~4 |
@@ -40,7 +41,6 @@
 | Hitchhiker | 5.00% | ~3 |
 | Omicron Theta | 5.00% | ~3 |
 | Omicron Beta | 5.00% | ~3 |
-| Hoarder | 5.00% | ~3 |
 | No Peace | 5.00% | ~3 |
 | Bird of Prey | 5.00% | ~3 |
 | Wicked Sick | 5.00% | ~3 |
@@ -67,6 +67,7 @@
 | You've drone good! | 2.00% | ~1 |
 | System Captain | 2.00% | ~1 |
 | Mysterious Skin | 2.00% | ~1 |
+| Almost There II | 2.00% | ~1 |
 | Providence | 0.00% | ~0 |
 | Bronze Tovarish | 0.00% | ~0 |
 | Archer's Bronze Fate | 0.00% | ~0 |
@@ -132,7 +133,6 @@
 | Collateral Damage III | 0.00% | ~0 |
 | Merchant Prince III | 0.00% | ~0 |
 | Almost There V | 0.00% | ~0 |
-| Almost There II | 0.00% | ~0 |
 | Almost There IV | 0.00% | ~0 |
 | Fighting Fit IV | 0.00% | ~0 |
 | Fighting Fit V | 0.00% | ~0 |

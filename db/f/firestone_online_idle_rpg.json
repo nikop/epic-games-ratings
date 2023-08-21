@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1835,
+  "EOS_Progressed": 1836,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -5074,6 +5074,11 @@
       "Time": "2023-08-21T17:06:24.9323285+00:00",
       "NumProgressed": 1835,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-21T19:06:22.7901221+00:00",
+      "NumProgressed": 1836,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -5133,7 +5138,7 @@
       "Name": "Blueprint Upgrades",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "cauldronliberator",
@@ -5165,7 +5170,7 @@
       "Name": "Crystal Mining",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "dailyquestcompletionist",
@@ -5205,7 +5210,7 @@
       "Name": "Dragon Slayer",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "ebonyjungleliberator",
@@ -5221,7 +5226,7 @@
       "Name": "Enchanting skill",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "enchantingskillx5",
@@ -5237,7 +5242,7 @@
       "Name": "Engineer Mastery",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "enhancedwarmachines",
@@ -5269,7 +5274,7 @@
       "Name": "Fellowship Power",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "fourleafclover",
@@ -5539,9 +5544,9 @@
       "ID": "templeofeternals",
       "SetID": "3nl4bcg",
       "Name": "Temple of Eternals",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 1046
+      "UsersEstimate": 1028
     },
     {
       "ID": "thealchemist",
@@ -5557,7 +5562,7 @@
       "Name": "The Expeditioner",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "thefatherofdragons",
@@ -5661,7 +5666,7 @@
       "Name": "Weekly Quest Completionist",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "whatliesbehindthebush",
@@ -5684,7 +5689,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1835,
+      "Progressed": 1836,
       "Completed": 2
     }
   ],
@@ -5692,8 +5697,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-08-10T20:59:32.9674394+00:00",
-  "LastChanged_Achievements": "2023-08-21T18:06:48.1747056+00:00",
+  "LastChanged_Achievements": "2023-08-21T19:06:22.7901215+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:03.2567748+00:00",
-  "LastUpdate_Ratings": "2023-08-21T18:00:57.9790939+00:00",
-  "LastUpdate_Achievements": "2023-08-21T18:06:48.1748404+00:00"
+  "LastUpdate_Ratings": "2023-08-21T19:00:31.6148711+00:00",
+  "LastUpdate_Achievements": "2023-08-21T19:06:22.7902349+00:00"
 }

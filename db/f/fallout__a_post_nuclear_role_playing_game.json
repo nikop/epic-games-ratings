@@ -4,11 +4,11 @@
   "ProductSlug": "fallout",
   "Ranking_Rating": 348,
   "Ranking_Popularity": 370,
-  "Ranking_PopularitySum": 431,
+  "Ranking_PopularitySum": 432,
   "Ranking_EOS_Progress": 550,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 352,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 351,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-10-20T15:00:00+00:00",
     "PcReleaseDate": "1997-09-30T17:00:00+00:00",
@@ -384,6 +384,6 @@
   "FirstSeenRating": "2022-10-28T01:33:28.7432563+00:00",
   "LastChanged": "2023-08-15T23:57:59.8411932+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:20.4638348+00:00",
-  "LastUpdate_Ratings": "2023-08-21T17:58:47.906918+00:00",
-  "LastUpdate_Achievements": "2023-08-21T18:04:29.449191+00:00"
+  "LastUpdate_Ratings": "2023-08-21T18:58:34.2966294+00:00",
+  "LastUpdate_Achievements": "2023-08-21T19:04:20.496578+00:00"
 }

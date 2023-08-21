@@ -6,15 +6,15 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~38,312 |
-| First Steps | 80.00% | ~32,957 |
-| Control the Shadows | 67.00% | ~27,601 |
-| Tools of the Trade | 63.00% | ~25,953 |
+| Awakening | 93.00% | ~38,313 |
+| First Steps | 80.00% | ~32,958 |
+| Control the Shadows | 67.00% | ~27,602 |
+| Tools of the Trade | 63.00% | ~25,954 |
 | Apprentice | 60.00% | ~24,718 |
 | Secret Seeker | 57.00% | ~23,482 |
 | Forge of Assassins | 55.00% | ~22,658 |
 | Revenant | 52.00% | ~21,422 |
-| I don’t Care! | 45.00% | ~18,538 |
+| I don’t Care! | 45.00% | ~18,539 |
 | Bird of Prey | 37.00% | ~15,243 |
 | Engraved with Power | 32.00% | ~13,183 |
 | Lady | 31.00% | ~12,771 |
@@ -25,11 +25,11 @@ Number of Ratings: 88  (23.09.2022)
 | Wall Lizard | 20.00% | ~8,239 |
 | Clinging to Life | 18.00% | ~7,415 |
 | Burning | 17.00% | ~7,003 |
-| Look Behind You | 16.00% | ~6,591 |
-| Sleeping on the Job | 16.00% | ~6,591 |
-| Family | 14.00% | ~5,767 |
-| War Engines | 14.00% | ~5,767 |
-| Signature Move | 14.00% | ~5,767 |
+| Look Behind You | 16.00% | ~6,592 |
+| Sleeping on the Job | 16.00% | ~6,592 |
+| Family | 14.00% | ~5,768 |
+| War Engines | 14.00% | ~5,768 |
+| Signature Move | 14.00% | ~5,768 |
 | Ruse | 11.00% | ~4,532 |
 | Master Ninja | 10.00% | ~4,120 |
 | Hatching | 9.00% | ~3,708 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Hot Potato | 1.00% | ~412 |
 | Anger Management | 1.00% | ~412 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41,196 (Ranked 93)  
+Progressed: 41,197 (Ranked 93)  
 Completed: 209 (0.51%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,7 +174,7 @@ Completed: 209 (0.51%) (Ranked 145)
 | 2023-08-18 | 40,980 | 208 |
 | 2023-08-19 | 41,062 | 208 |
 | 2023-08-20 | 41,146 | 208 |
-| 2023-08-21 | 41,196 | 209 |
+| 2023-08-21 | 41,197 | 209 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

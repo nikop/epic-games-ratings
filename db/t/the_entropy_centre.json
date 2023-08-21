@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 240,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2022-11-03T16:00:00+00:00",
@@ -837,9 +837,9 @@
       "ID": "ACH_ACT1",
       "SetID": "2310cb1",
       "Name": "Wake Up",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 195
+      "UsersEstimate": 198
     },
     {
       "ID": "ACH_ACT10",
@@ -1062,8 +1062,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-08-21T18:03:27.14413+00:00",
+  "LastChanged_Achievements": "2023-08-21T19:03:17.6846554+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:59.681078+00:00",
-  "LastUpdate_Ratings": "2023-08-21T18:00:14.759199+00:00",
-  "LastUpdate_Achievements": "2023-08-21T18:03:27.1441572+00:00"
+  "LastUpdate_Ratings": "2023-08-21T18:59:49.7342894+00:00",
+  "LastUpdate_Achievements": "2023-08-21T19:03:17.6846808+00:00"
 }

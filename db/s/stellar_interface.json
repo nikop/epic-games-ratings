@@ -4,8 +4,8 @@
   "ProductSlug": "stellar-interface-d14cc4",
   "Ranking_EOS_Progress": 359,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 352,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 351,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-03-30T00:00:00+00:00",
     "PcReleaseDate": "2016-11-21T00:00:00+00:00",
@@ -685,9 +685,9 @@
       "ID": "ConsumableWithActiveCountOf10Achievement",
       "SetID": "a8djcgh",
       "Name": "Hoarder",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "CorvetteSpacecraftUnlockAchievement",
@@ -1325,9 +1325,9 @@
       "ID": "VisitOverlord10TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Almost There II",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "VisitOverlord1TimeAchievement",
@@ -1388,8 +1388,8 @@
   ],
   "FirstSeen": "2023-05-25T19:58:53.3426144+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2023-08-21T18:08:41.2496563+00:00",
+  "LastChanged_Achievements": "2023-08-21T19:07:57.9093905+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:15.5437358+00:00",
-  "LastUpdate_Ratings": "2023-08-21T18:02:02.0559838+00:00",
-  "LastUpdate_Achievements": "2023-08-21T18:08:41.2498788+00:00"
+  "LastUpdate_Ratings": "2023-08-21T19:01:24.5075916+00:00",
+  "LastUpdate_Achievements": "2023-08-21T19:07:57.9096083+00:00"
 }

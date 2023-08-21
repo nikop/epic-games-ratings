@@ -3,7 +3,7 @@
   "Name": "Crime Boss: Rockay City",
   "ProductSlug": "crime-boss",
   "Ranking_Rating": 947,
-  "Ranking_Popularity": 215,
+  "Ranking_Popularity": 216,
   "Ranking_PopularitySum": 203,
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 223,
@@ -3102,9 +3102,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 72155,
+  "EOS_Progressed": 72157,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 327,
+  "EOS_NewPlayers": 328,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -15972,6 +15972,11 @@
       "Time": "2023-08-21T17:07:34.5174312+00:00",
       "NumProgressed": 72155,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-08-21T19:07:35.2819532+00:00",
+      "NumProgressed": 72157,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 37,
@@ -15991,7 +15996,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 20925
+      "UsersEstimate": 20926
     },
     {
       "ID": "ACH_0012",
@@ -16063,7 +16068,7 @@
       "Name": "I Like Trains",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5772
+      "UsersEstimate": 5773
     },
     {
       "ID": "ACH_0050",
@@ -16127,7 +16132,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 46901
+      "UsersEstimate": 46902
     },
     {
       "ID": "ACH_0210",
@@ -16135,7 +16140,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 53395
+      "UsersEstimate": 53396
     },
     {
       "ID": "ACH_0211",
@@ -16151,7 +16156,7 @@
       "Name": "Too Old for This",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 34634
+      "UsersEstimate": 34635
     },
     {
       "ID": "ACH_0300",
@@ -16199,7 +16204,7 @@
       "Name": "Case Closed",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 25254
+      "UsersEstimate": 25255
     },
     {
       "ID": "ACH_0420",
@@ -16215,7 +16220,7 @@
       "Name": "Fancy Pants",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 25254
+      "UsersEstimate": 25255
     },
     {
       "ID": "ACH_0431",
@@ -16231,7 +16236,7 @@
       "Name": "True Player",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 13709
+      "UsersEstimate": 13710
     },
     {
       "ID": "ACH_0450",
@@ -16247,7 +16252,7 @@
       "Name": "Raider\u2019s Ruin",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 12266
+      "UsersEstimate": 12267
     },
     {
       "ID": "ACH_0452",
@@ -16255,7 +16260,7 @@
       "Name": "Dragonslayer",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 12266
+      "UsersEstimate": 12267
     },
     {
       "ID": "ACH_0460",
@@ -16278,22 +16283,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 72155,
+      "Progressed": 72157,
       "Completed": 41
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 502,
-      "Completed": 502
+      "Progressed": 504,
+      "Completed": 504
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-08-21T16:57:45.1807304+00:00",
-  "LastChanged_Achievements": "2023-08-21T18:08:18.9487911+00:00",
+  "LastChanged_Achievements": "2023-08-21T19:07:35.2819524+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:48.5211502+00:00",
-  "LastUpdate_Ratings": "2023-08-21T17:57:56.6134498+00:00",
-  "LastUpdate_Achievements": "2023-08-21T18:08:18.9489015+00:00"
+  "LastUpdate_Ratings": "2023-08-21T18:57:44.3519539+00:00",
+  "LastUpdate_Achievements": "2023-08-21T19:07:35.2821413+00:00"
 }

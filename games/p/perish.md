@@ -31,9 +31,11 @@
 | Ophiolatreia | 3.00% | ~102 |
 | Halls of Marble | 3.00% | ~102 |
 | Serpentine | 3.00% | ~102 |
+| The Nameless One | 2.00% | ~68 |
 | Wayward Son of Hephaestus | 2.00% | ~68 |
 | Lament of the Constellations | 2.00% | ~68 |
 | Forged in Fire | 2.00% | ~68 |
+| Rule of Thirds | 2.00% | ~68 |
 | Rock and a Hard Place | 2.00% | ~68 |
 | The Midas Touch | 2.00% | ~68 |
 | Hapax Legomenon | 2.00% | ~68 |
@@ -42,16 +44,14 @@
 | Vandili | 2.00% | ~68 |
 | No Scylla in Sight | 2.00% | ~68 |
 | Cloaca Maxima | 2.00% | ~68 |
+| Close Shut the Doors | 2.00% | ~68 |
 | Baby Crabs They Ain't | 2.00% | ~68 |
 | Mors Omnibus | 2.00% | ~68 |
 | Blot Out the Sky | 2.00% | ~68 |
-| The Nameless One | 1.00% | ~34 |
-| Rule of Thirds | 1.00% | ~34 |
 | Pyr Demon | 1.00% | ~34 |
 | Biotechnology | 1.00% | ~34 |
 | The Archimedes Principle | 1.00% | ~34 |
 | Rites at Sea | 1.00% | ~34 |
-| Close Shut the Doors | 1.00% | ~34 |
 | Scrap Metal | 1.00% | ~34 |
 | Athenian Treasury | 0.90% | ~31 |
 | Invicta | 0.80% | ~27 |

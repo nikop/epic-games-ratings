@@ -44,7 +44,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Prodigal Child | 0.60% | ~4,276 |
 | The 36th Chamber of Kung-Fu | 0.60% | ~4,276 |
 | Sword Stained With Blood | 0.60% | ~4,276 |
-| Martial Hub | 0.50% | ~109 |
+| Martial Hub | 0.50% | ~110 |
 | Drunken Fighter | 0.40% | ~2,850 |
 | Martial Artist | 0.40% | ~2,850 |
 | Knowledge Greed | 0.40% | ~2,850 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,425 |
 | Warriors from the Mountain | 0.10% | ~713 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 712,598 (Ranked 20)  
+Progressed: 712,600 (Ranked 20)  
 Completed: 12,871 (1.81%) (Ranked 97)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 12,871 (1.81%) (Ranked 97)
 | 2023-08-18 | 712,513 | 12,863 |
 | 2023-08-19 | 712,545 | 12,866 |
 | 2023-08-20 | 712,574 | 12,870 |
-| 2023-08-21 | 712,598 | 12,871 |
+| 2023-08-21 | 712,600 | 12,871 |
 ## Awards
 Max (Great Boss Battles): 6,388  (Ranked 55)  
 Sum: 10,968 (Ranked 82)  

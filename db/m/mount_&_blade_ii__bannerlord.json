@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 75,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -6567,9 +6567,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 59378,
+  "EOS_Progressed": 59379,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 507,
+  "EOS_NewPlayers": 506,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19602,6 +19602,11 @@
       "Time": "2023-08-21T18:06:12.8911649+00:00",
       "NumProgressed": 59378,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-21T19:05:45.9938019+00:00",
+      "NumProgressed": 59379,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -19869,7 +19874,7 @@
       "Name": "Mastery",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 4156
+      "UsersEstimate": 4157
     },
     {
       "ID": "Minor Clan",
@@ -20020,15 +20025,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 59378,
+      "Progressed": 59379,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-08-21T14:57:51.5452979+00:00",
-  "LastChanged_Achievements": "2023-08-21T18:06:12.8911643+00:00",
+  "LastChanged_Achievements": "2023-08-21T19:05:45.9938014+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:38.4249815+00:00",
-  "LastUpdate_Ratings": "2023-08-21T17:57:44.2262422+00:00",
-  "LastUpdate_Achievements": "2023-08-21T18:06:12.8912951+00:00"
+  "LastUpdate_Ratings": "2023-08-21T18:57:34.0335257+00:00",
+  "LastUpdate_Achievements": "2023-08-21T19:05:45.9939314+00:00"
 }

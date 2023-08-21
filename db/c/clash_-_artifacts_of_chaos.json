@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 122,
   "Ranking_EOS_NewPlayers": 309,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
     "PcReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -333,9 +333,9 @@
       "ID": "Achievement16",
       "SetID": "jf6ho5",
       "Name": "The Bigger They Are",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "Achievement17",
@@ -454,8 +454,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2023-08-21T18:07:37.3347153+00:00",
+  "LastChanged_Achievements": "2023-08-21T19:07:03.0366248+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:02.989305+00:00",
-  "LastUpdate_Ratings": "2023-08-21T17:58:23.0980743+00:00",
-  "LastUpdate_Achievements": "2023-08-21T18:07:37.3347437+00:00"
+  "LastUpdate_Ratings": "2023-08-21T18:58:08.4462865+00:00",
+  "LastUpdate_Achievements": "2023-08-21T19:07:03.0366433+00:00"
 }

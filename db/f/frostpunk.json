@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 117,
   "Ranking_EOS_Progress": 550,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 352,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 351,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-06-03T15:00:00+00:00",
     "PcReleaseDate": "2021-06-03T15:00:00+00:00",
@@ -4638,10 +4638,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 6758,
       "NumberOfAwardsMax": 803
+    },
+    {
+      "Time": "2023-08-21T19:00:08.0881412+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 6761,
+      "NumberOfAwardsMax": 803
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6758,
+  "NumberOfAwards": 6761,
   "NumberOfAwardsMax": 803,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -4685,7 +4691,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 770
+      "Count": 771
     },
     {
       "Text": "This game has Challenging Combat",
@@ -4709,7 +4715,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 653
+      "Count": 655
     }
   ],
   "EOS_Progressed": 0,
@@ -4731,9 +4737,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:37.412546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.239094+00:00",
-  "LastChanged": "2023-08-20T14:59:50.1482226+00:00",
-  "LastChanged_Achievements": "2023-08-21T18:06:34.3654421+00:00",
+  "LastChanged": "2023-08-21T19:00:08.0881409+00:00",
+  "LastChanged_Achievements": "2023-08-21T19:06:08.6872328+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:37.439459+00:00",
-  "LastUpdate_Ratings": "2023-08-21T18:00:36.3208499+00:00",
-  "LastUpdate_Achievements": "2023-08-21T18:06:34.3654468+00:00"
+  "LastUpdate_Ratings": "2023-08-21T19:00:08.0881421+00:00",
+  "LastUpdate_Achievements": "2023-08-21T19:06:08.6872366+00:00"
 }
