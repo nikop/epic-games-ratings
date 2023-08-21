@@ -176,6 +176,7 @@
 | 171 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.72 | 0 | 513 |
 | 171 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 4.72 | 39 | 427 |
 | 171 | [Outlast 2](games/o/outlast_2.md) | 4.72 | 0 | 513 |
+| 171 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 0 | 513 |
 | 171 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 76 | 367 |
 | 171 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.72 | 124 | 314 |
 | 171 | [Slipways](games/s/slipways.md) | 4.72 | 0 | 513 |
@@ -184,20 +185,19 @@
 | 171 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 0 | 513 |
 | 171 | [Timberborn](games/t/timberborn.md) | 4.72 | 132 | 309 |
 | 171 | [Townscaper](games/t/townscaper.md) | 4.72 | 0 | 513 |
-| 185 | [Barony](games/b/barony.md) | 4.71 | 77 | 366 |
-| 185 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.71 | 88 | 353 |
-| 185 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 6,980 | 49 |
-| 185 | [FUSER™](games/f/fuser™.md) | 4.71 | 35 | 437 |
-| 185 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,394 | 47 |
-| 185 | [Northgard](games/n/northgard.md) | 4.71 | 30 | 462 |
-| 185 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 0 | 513 |
-| 185 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.71 | 0 | 513 |
-| 185 | [shapez](games/s/shapez.md) | 4.71 | 0 | 513 |
-| 185 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 81 | 361 |
-| 185 | [SUPERHOT](games/s/superhot.md) | 4.71 | 0 | 513 |
-| 185 | [The Red Lantern](games/t/the_red_lantern.md) | 4.71 | 0 | 513 |
-| 185 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.71 | 1,785 | 114 |
-| 185 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.71 | 0 | 513 |
+| 186 | [Barony](games/b/barony.md) | 4.71 | 78 | 365 |
+| 186 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.71 | 88 | 353 |
+| 186 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 6,980 | 49 |
+| 186 | [FUSER™](games/f/fuser™.md) | 4.71 | 35 | 437 |
+| 186 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,394 | 47 |
+| 186 | [Northgard](games/n/northgard.md) | 4.71 | 30 | 462 |
+| 186 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.71 | 0 | 513 |
+| 186 | [shapez](games/s/shapez.md) | 4.71 | 0 | 513 |
+| 186 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 81 | 361 |
+| 186 | [SUPERHOT](games/s/superhot.md) | 4.71 | 0 | 513 |
+| 186 | [The Red Lantern](games/t/the_red_lantern.md) | 4.71 | 0 | 513 |
+| 186 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.71 | 1,785 | 114 |
+| 186 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.71 | 0 | 513 |
 | 199 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,557 | 72 |
 | 199 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 376 | 222 |
 | 199 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.70 | 399 | 217 |
@@ -247,7 +247,7 @@
 | 238 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 5,721 | 62 |
 | 238 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 3,550 | 84 |
 | 238 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 303,278 | 3 |
-| 238 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 214,186 | 4 |
+| 238 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 214,540 | 4 |
 | 238 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 513 |
 | 238 | [King of Retail](games/k/king_of_retail.md) | 4.68 | 0 | 513 |
 | 238 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 562 | 188 |
@@ -766,7 +766,7 @@
 | 760 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.34 | 0 | 513 |
 | 760 | [Encased](games/e/encased.md) | 4.34 | 141 | 305 |
 | 760 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.34 | 0 | 513 |
-| 760 | [Paladins](games/p/paladins.md) | 4.34 | 3,531 | 85 |
+| 760 | [Paladins](games/p/paladins.md) | 4.34 | 3,540 | 85 |
 | 760 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 249 | 253 |
 | 760 | [Torchlight](games/t/torchlight.md) | 4.34 | 21 | 501 |
 | 760 | [War Mongrels](games/w/war_mongrels.md) | 4.34 | 0 | 513 |
@@ -808,7 +808,7 @@
 | 806 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.28 | 0 | 513 |
 | 806 | [Chess Ultra](games/c/chess_ultra.md) | 4.28 | 0 | 513 |
 | 806 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.28 | 0 | 513 |
-| 806 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.28 | 3,730 | 83 |
+| 806 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.28 | 3,733 | 83 |
 | 806 | [Mortal Shell](games/m/mortal_shell.md) | 4.28 | 0 | 513 |
 | 806 | [Steelrising](games/s/steelrising.md) | 4.28 | 36 | 433 |
 | 806 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 173 | 285 |
