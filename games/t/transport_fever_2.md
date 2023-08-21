@@ -35,7 +35,7 @@ Number of Ratings: 180  (23.09.2022)
 | The future is now, old man | 31.00% | ~489 |
 | Not in my backyard | 30.00% | ~473 |
 | The king of the sea | 30.00% | ~473 |
-| City | 28.00% | ~442 |
+| City | 29.00% | ~458 |
 | Transport tycoon | 24.00% | ~379 |
 | Old timer | 23.00% | ~363 |
 | The ugly smell of success | 23.00% | ~363 |

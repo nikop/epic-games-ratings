@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 91.00% | ~75 |
+| Travel Streamer | 93.00% | ~76 |
 | Training Simulation | 82.00% | ~67 |
 | Kuku Bird Hunter | 73.00% | ~60 |
 | Fashion Connoisseur | 68.00% | ~56 |

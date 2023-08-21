@@ -4,8 +4,8 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1020,
+  "EOS_Progressed": 1021,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3566,6 +3566,11 @@
       "Time": "2023-08-21T12:03:42.7214346+00:00",
       "NumProgressed": 1020,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-21T14:04:08.658052+00:00",
+      "NumProgressed": 1021,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -3639,9 +3644,9 @@
       "ID": "ach_silver_rewards_10",
       "SetID": "bm61c2p",
       "Name": "Silver Competitor",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 71
+      "UsersEstimate": 82
     },
     {
       "ID": "ach_silver_rewards_50",
@@ -3753,7 +3758,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -3880,14 +3885,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1020,
+      "Progressed": 1021,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-21T13:07:51.667253+00:00",
+  "LastChanged_Achievements": "2023-08-21T14:04:08.6580514+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:20.8459338+00:00",
-  "LastUpdate_Ratings": "2023-08-21T13:02:49.8146402+00:00",
-  "LastUpdate_Achievements": "2023-08-21T13:07:51.6673089+00:00"
+  "LastUpdate_Ratings": "2023-08-21T13:58:52.405875+00:00",
+  "LastUpdate_Achievements": "2023-08-21T14:04:08.6581206+00:00"
 }

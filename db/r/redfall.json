@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 308,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -2245,9 +2245,9 @@
       "ID": "Achievement_008",
       "SetID": "6b34g18",
       "Name": "Blood Will Have Blood",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 885
+      "UsersEstimate": 902
     },
     {
       "ID": "Achievement_009",
@@ -2445,9 +2445,9 @@
       "ID": "Achievement_033",
       "SetID": "6b34g18",
       "Name": "Wounded Whispers",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 1041
+      "UsersEstimate": 1058
     },
     {
       "ID": "Achievement_034",
@@ -2533,9 +2533,9 @@
       "ID": "Achievement_045",
       "SetID": "6b34g18",
       "Name": "Skin of Their Teeth",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 538
+      "UsersEstimate": 555
     },
     {
       "ID": "Achievement_046",
@@ -2734,8 +2734,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-08-08T16:59:16.4444629+00:00",
-  "LastChanged_Achievements": "2023-08-21T13:08:30.2891571+00:00",
+  "LastChanged_Achievements": "2023-08-21T14:04:42.884117+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:46.9760776+00:00",
-  "LastUpdate_Ratings": "2023-08-21T13:04:27.8246459+00:00",
-  "LastUpdate_Achievements": "2023-08-21T13:08:30.289267+00:00"
+  "LastUpdate_Ratings": "2023-08-21T14:00:50.4432818+00:00",
+  "LastUpdate_Achievements": "2023-08-21T14:04:42.8841925+00:00"
 }

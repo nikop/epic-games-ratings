@@ -35,6 +35,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mad Cow Disease | 0.20% | ~448 |
 | Exploring Port Nyanzaru | 0.20% | ~448 |
 | Running of the Saurs | 0.20% | ~448 |
+| The Contagious Curse | 0.20% | ~448 |
 | Underdeep Cartography | 0.20% | ~448 |
 | Friendly Imps | 0.20% | ~448 |
 | Pure Energy | 0.20% | ~448 |
@@ -332,7 +333,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Twilight Grove | 0.10% | ~224 |
 | The Nimble Grove | 0.10% | ~224 |
 | The Misty Grove | 0.10% | ~190 |
-| The Contagious Curse | 0.10% | ~224 |
 | Dinosaur Racing | 0.10% | ~224 |
 | Elturel Has Fallen | 0.10% | ~224 |
 | Everything is Awful | 0.10% | ~224 |
@@ -523,8 +523,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~190 |
 | Animated Giff | 0.10% | ~190 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 223,881 (Ranked 53)  
-Completed: 2,201 (0.98%) (Ranked 120)  
+Progressed: 223,891 (Ranked 53)  
+Completed: 2,202 (0.98%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -646,7 +646,7 @@ Completed: 2,201 (0.98%) (Ranked 120)
 | 2023-08-18 | 223,142 | 2,190 |
 | 2023-08-19 | 223,443 | 2,193 |
 | 2023-08-20 | 223,729 | 2,196 |
-| 2023-08-21 | 223,881 | 2,201 |
+| 2023-08-21 | 223,891 | 2,202 |
 ## Awards
 Max (Diverse Characters): 5,173  (Ranked 68)  
 Sum: 31,152 (Ranked 38)  

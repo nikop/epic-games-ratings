@@ -8,8 +8,8 @@ Rating: 3.50 (Ranked 974)
 | I Like My Stakes Rare! | 77.00% | ~1,336 |
 | Home Is Where the Heart Is | 61.00% | ~1,058 |
 | Ne Plus Ultra | 61.00% | ~1,058 |
-| Wounded Whispers | 60.00% | ~1,041 |
-| Blood Will Have Blood | 51.00% | ~885 |
+| Wounded Whispers | 61.00% | ~1,058 |
+| Blood Will Have Blood | 52.00% | ~902 |
 | ICU | 47.00% | ~815 |
 | Peek-a-boo | 45.00% | ~781 |
 | Catch and Release | 45.00% | ~781 |
@@ -19,7 +19,7 @@ Rating: 3.50 (Ranked 974)
 | Throw The First Stone | 36.00% | ~625 |
 | Enter of Your Own Free Will | 34.00% | ~590 |
 | Heart Attack | 33.00% | ~573 |
-| Skin of Their Teeth | 31.00% | ~538 |
+| Skin of Their Teeth | 32.00% | ~555 |
 | Grounded | 25.00% | ~434 |
 | Bad Wiring | 22.00% | ~382 |
 | I Spit On Your Grave | 20.00% | ~347 |

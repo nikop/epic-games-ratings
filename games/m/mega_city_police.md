@@ -12,10 +12,10 @@
 | Restore Honor | 32.00% | ~10 |
 | Overkill | 19.00% | ~6 |
 | Bring Down the Corp | 13.00% | ~4 |
+| Gibbing Love | 6.00% | ~2 |
+| Vintage Collector | 6.00% | ~2 |
 | Lieutenant | 6.00% | ~2 |
 | Flawless Victory | 6.00% | ~2 |
-| Gibbing Love | 3.00% | ~1 |
-| Vintage Collector | 3.00% | ~1 |
 | Dust to Dust | 3.00% | ~1 |
 | The Hunt | 3.00% | ~1 |
 | Knife Juggler | 3.00% | ~1 |

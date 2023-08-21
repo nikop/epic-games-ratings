@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
     "PcReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -3361,9 +3361,9 @@
       "ID": "achCity",
       "SetID": "dgl390n",
       "Name": "City",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 442
+      "UsersEstimate": 458
     },
     {
       "ID": "achCollectAllMedals",
@@ -3737,8 +3737,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-08-17T14:57:18.7494823+00:00",
-  "LastChanged_Achievements": "2023-08-21T13:11:23.5954967+00:00",
+  "LastChanged_Achievements": "2023-08-21T14:07:56.9701983+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:42.2047578+00:00",
-  "LastUpdate_Ratings": "2023-08-21T13:01:54.1299748+00:00",
-  "LastUpdate_Achievements": "2023-08-21T13:11:23.5956014+00:00"
+  "LastUpdate_Ratings": "2023-08-21T13:57:50.9368757+00:00",
+  "LastUpdate_Achievements": "2023-08-21T14:07:56.9702852+00:00"
 }

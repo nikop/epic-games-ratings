@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 406,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2018-05-23T19:00:00+00:00",
@@ -279,9 +279,9 @@
       "ID": "29",
       "SetID": "5e3maia",
       "Name": "Park ranger",
-      "Percentage": 58,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "3",
@@ -662,8 +662,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-08-21T13:09:32.9312078+00:00",
+  "LastChanged_Achievements": "2023-08-21T14:05:44.6418611+00:00",
   "LastUpdate_AppInfo": "2023-08-18T21:57:04.0506989+00:00",
-  "LastUpdate_Ratings": "2023-08-21T13:02:43.0289494+00:00",
-  "LastUpdate_Achievements": "2023-08-21T13:09:32.9312875+00:00"
+  "LastUpdate_Ratings": "2023-08-21T13:58:44.4052818+00:00",
+  "LastUpdate_Achievements": "2023-08-21T14:05:44.6419393+00:00"
 }

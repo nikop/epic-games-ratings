@@ -5980,10 +5980,10 @@
       "Count": 3365
     }
   ],
-  "EOS_Progressed": 223881,
-  "EOS_Completed": 2201,
-  "EOS_NewPlayers": 2090,
-  "EOS_NewCompleters": 20,
+  "EOS_Progressed": 223891,
+  "EOS_Completed": 2202,
+  "EOS_NewPlayers": 2084,
+  "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
@@ -19395,6 +19395,11 @@
       "Time": "2023-08-21T13:10:30.8779953+00:00",
       "NumProgressed": 223881,
       "NumCompleted": 2201
+    },
+    {
+      "Time": "2023-08-21T14:06:55.5327369+00:00",
+      "NumProgressed": 223891,
+      "NumCompleted": 2202
     }
   ],
   "TotalAchievements": 516,
@@ -21948,9 +21953,9 @@
       "ID": "objective_completed_6",
       "SetID": "cc37lbc",
       "Name": "The Contagious Curse",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 224
+      "UsersEstimate": 448
     },
     {
       "ID": "objective_completed_60",
@@ -23533,21 +23538,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 190155,
+      "Progressed": 190165,
       "Completed": 3285
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 223881,
-      "Completed": 2201
+      "Progressed": 223891,
+      "Completed": 2202
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-21T13:04:49.8582282+00:00",
-  "LastChanged_Achievements": "2023-08-21T13:10:30.8779946+00:00",
+  "LastChanged_Achievements": "2023-08-21T14:06:55.5327362+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:12.3267162+00:00",
-  "LastUpdate_Ratings": "2023-08-21T13:04:49.8582289+00:00",
-  "LastUpdate_Achievements": "2023-08-21T13:10:30.8816157+00:00"
+  "LastUpdate_Ratings": "2023-08-21T14:01:18.8665682+00:00",
+  "LastUpdate_Achievements": "2023-08-21T14:06:55.5359075+00:00"
 }

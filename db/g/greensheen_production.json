@@ -1,10 +1,10 @@
 {
   "ID": "400fd43e2e2f4b3b97bdc32656cb8f09",
   "Name": "greensheen Production",
-  "Ranking_EOS_Progress": 505,
+  "Ranking_EOS_Progress": 488,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 356,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -14,15 +14,20 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1,
+  "EOS_Progressed": 2,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2023-08-08T10:04:28.1768655+00:00",
       "NumProgressed": 1,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-21T14:06:58.1919322+00:00",
+      "NumProgressed": 2,
       "NumCompleted": 0
     }
   ],
@@ -138,7 +143,7 @@
       "ID": "Fridge",
       "SetID": "aph8hbk",
       "Name": "What\u0027s in the box?!",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -315,13 +320,13 @@
     {
       "ID": "aph8hbk",
       "IsBase": true,
-      "Progressed": 1,
+      "Progressed": 2,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-07-31T13:15:39.9572089+00:00",
-  "LastChanged_Achievements": "2023-08-21T13:10:33.5404613+00:00",
+  "LastChanged_Achievements": "2023-08-21T14:06:58.1919317+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:31:13.194983+00:00",
-  "LastUpdate_Ratings": "2023-08-21T13:04:30.4374338+00:00",
-  "LastUpdate_Achievements": "2023-08-21T13:10:33.540485+00:00"
+  "LastUpdate_Ratings": "2023-08-21T14:00:51.762236+00:00",
+  "LastUpdate_Achievements": "2023-08-21T14:06:58.1919731+00:00"
 }
