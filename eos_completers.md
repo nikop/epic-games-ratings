@@ -7,8 +7,8 @@
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
 | 6 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
 | 7 | [Overloop](games/o/overloop.md) | 25.00% |
-| 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 24.53% |
-| 9 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
+| 8 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
+| 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 24.07% |
 | 10 | [Volley Pals](games/v/volley_pals.md) | 24.00% |
 | 11 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 22.79% |
 | 12 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
@@ -188,9 +188,9 @@
 | 186 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.21% |
 | 186 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.21% |
 | 188 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.20% |
-| 189 | [Going Medieval](games/g/going_medieval.md) | 0.19% |
 | 189 | [RAILGRADE](games/r/railgrade.md) | 0.19% |
-| 191 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.18% |
+| 190 | [Going Medieval](games/g/going_medieval.md) | 0.18% |
+| 190 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.18% |
 | 192 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.17% |
 | 193 | [BLACKTAIL](games/b/blacktail.md) | 0.16% |
 | 193 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
@@ -548,4 +548,4 @@
 | 261 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 261 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 261 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,081 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,082 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
