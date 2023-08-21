@@ -11,22 +11,22 @@
 | Ooh, it's shiny! | 63.00% | ~22 |
 | Back to the anvil | 54.00% | ~19 |
 | So soothing... | 51.00% | ~18 |
+| Kekekeke... | 51.00% | ~18 |
 | Roostwig has entered the building | 51.00% | ~18 |
 | Mystery solved | 49.00% | ~17 |
-| Kekekeke... | 49.00% | ~17 |
 | NOW GO AWAY! | 49.00% | ~17 |
+| Sorry Grandpa | 49.00% | ~17 |
 | Honey, honey, honey… | 46.00% | ~16 |
 | Fussy eater | 46.00% | ~16 |
 | Far away from home | 46.00% | ~16 |
-| Sorry Grandpa | 46.00% | ~16 |
 | Game Over! | 43.00% | ~15 |
 | A very special drink | 43.00% | ~15 |
 | Close the deal | 40.00% | ~14 |
 | Show me your true self | 40.00% | ~14 |
+| Pain in the hands | 40.00% | ~14 |
 | Little genius | 40.00% | ~14 |
 | GG | 37.00% | ~13 |
 | You've got mail! | 37.00% | ~13 |
-| Pain in the hands | 37.00% | ~13 |
 | No posters allowed | 37.00% | ~13 |
 | Shattered | 34.00% | ~12 |
 | Memories | 34.00% | ~12 |

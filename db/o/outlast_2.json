@@ -3,12 +3,12 @@
   "Name": "Outlast 2",
   "ProductSlug": "outlast-2",
   "Ranking_Rating": 170,
-  "Ranking_Popularity": 513,
-  "Ranking_PopularitySum": 513,
+  "Ranking_Popularity": 514,
+  "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 550,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 353,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-10-04T14:00:00+00:00",
     "PcReleaseDate": "2017-04-25T14:00:00+00:00",
@@ -190,6 +190,6 @@
   "FirstSeenRating": "2022-10-23T03:31:57.5204331+00:00",
   "LastChanged": "2023-08-13T11:00:52.8723868+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:25.1536634+00:00",
-  "LastUpdate_Ratings": "2023-08-21T17:01:42.9985931+00:00",
-  "LastUpdate_Achievements": "2023-08-21T17:05:28.0364743+00:00"
+  "LastUpdate_Ratings": "2023-08-21T18:02:11.4722926+00:00",
+  "LastUpdate_Achievements": "2023-08-21T18:05:40.3290896+00:00"
 }

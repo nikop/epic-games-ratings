@@ -3,12 +3,12 @@
   "Name": "House Party",
   "ProductSlug": "house-party-ae8b27",
   "Ranking_Rating": 771,
-  "Ranking_Popularity": 513,
-  "Ranking_PopularitySum": 513,
+  "Ranking_Popularity": 514,
+  "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
     "PcReleaseDate": "2017-06-30T00:00:00+00:00",
@@ -364,7 +364,7 @@
   "Tags": [],
   "EOS_Progressed": 6084,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5127,8 +5127,8 @@
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-07-26T20:57:57.6865468+00:00",
-  "LastChanged_Achievements": "2023-08-21T17:05:12.7580548+00:00",
+  "LastChanged_Achievements": "2023-08-21T18:05:25.2338404+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:57.4255286+00:00",
-  "LastUpdate_Ratings": "2023-08-21T16:59:49.1193364+00:00",
-  "LastUpdate_Achievements": "2023-08-21T17:05:12.7581303+00:00"
+  "LastUpdate_Ratings": "2023-08-21T18:00:12.3942701+00:00",
+  "LastUpdate_Achievements": "2023-08-21T18:05:25.2339404+00:00"
 }

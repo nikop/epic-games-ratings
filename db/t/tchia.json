@@ -3,12 +3,12 @@
   "Name": "Tchia",
   "ProductSlug": "tchia",
   "Ranking_Rating": 119,
-  "Ranking_Popularity": 513,
-  "Ranking_PopularitySum": 513,
+  "Ranking_Popularity": 514,
+  "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 155,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -212,9 +212,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7286,
+  "EOS_Progressed": 7289,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 319,
+  "EOS_NewPlayers": 322,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -6187,6 +6187,11 @@
       "Time": "2023-08-21T17:06:33.6966333+00:00",
       "NumProgressed": 7286,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-08-21T18:07:06.8164242+00:00",
+      "NumProgressed": 7289,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 21,
@@ -6270,7 +6275,7 @@
       "Name": "Globe Trotter",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "HAPPY_CAMPER",
@@ -6302,7 +6307,7 @@
       "Name": "In a Pinch",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1530
+      "UsersEstimate": 1531
     },
     {
       "ID": "LIBERATOR",
@@ -6310,7 +6315,7 @@
       "Name": "Liberator",
       "Percentage": 4,
       "XP": 80,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "LIVE_WIRE",
@@ -6318,7 +6323,7 @@
       "Name": "Live Wire",
       "Percentage": 4,
       "XP": 80,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "SHREDDER",
@@ -6350,7 +6355,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 947
+      "UsersEstimate": 948
     },
     {
       "ID": "THING",
@@ -6365,7 +6370,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7286,
+      "Progressed": 7289,
       "Completed": 32
     }
   ],
@@ -6373,8 +6378,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-08-07T01:56:04.2387619+00:00",
-  "LastChanged_Achievements": "2023-08-21T17:06:33.696633+00:00",
+  "LastChanged_Achievements": "2023-08-21T18:07:06.8164234+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:55.8261903+00:00",
-  "LastUpdate_Ratings": "2023-08-21T17:00:26.8964336+00:00",
-  "LastUpdate_Achievements": "2023-08-21T17:06:33.6966636+00:00"
+  "LastUpdate_Ratings": "2023-08-21T18:00:53.2929643+00:00",
+  "LastUpdate_Achievements": "2023-08-21T18:07:06.8164781+00:00"
 }

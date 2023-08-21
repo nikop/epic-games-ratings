@@ -5,9 +5,9 @@ Rating: 4.77 (Ranked 109)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 13.00% | ~37,772 |
-| First Class Student | 11.00% | ~31,961 |
-| Troll with the Punches | 11.00% | ~31,961 |
+| The Sort Who Makes an Entrance | 13.00% | ~37,773 |
+| First Class Student | 11.00% | ~31,962 |
+| Troll with the Punches | 11.00% | ~31,962 |
 | A Keen Sense of Spell | 10.00% | ~29,056 |
 | That's a Keeper | 10.00% | ~29,056 |
 | Grappling with a Graphorn | 9.00% | ~26,150 |
@@ -19,9 +19,9 @@ Rating: 4.77 (Ranked 109)
 | Loom for Improvement | 9.00% | ~26,150 |
 | A Talent for Spending | 9.00% | ~26,150 |
 | Coasting Along | 9.00% | ~26,150 |
-| Followed the Butterflies | 8.00% | ~23,244 |
-| The Spell Master | 8.00% | ~23,244 |
-| Rising From the Ashes | 8.00% | ~23,244 |
+| Followed the Butterflies | 8.00% | ~23,245 |
+| The Spell Master | 8.00% | ~23,245 |
+| Rising From the Ashes | 8.00% | ~23,245 |
 | The Avenging Gazelle | 7.00% | ~20,339 |
 | Beast Friends | 7.00% | ~20,339 |
 | A Sallow Grave | 7.00% | ~20,339 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,743 |
 | Collector's Edition | 0.30% | ~872 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290,556 (Ranked 43)  
+Progressed: 290,561 (Ranked 43)  
 Completed: 453 (0.16%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,18 +174,18 @@ Completed: 453 (0.16%) (Ranked 193)
 | 2023-08-18 | 290,355 | 452 |
 | 2023-08-19 | 290,439 | 453 |
 | 2023-08-20 | 290,517 | 453 |
-| 2023-08-21 | 290,556 | 453 |
+| 2023-08-21 | 290,561 | 453 |
 ## Awards
 Max (Character Customization): 21,871  (Ranked 17)  
-Sum: 41,338 (Ranked 30)  
+Sum: 41,341 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 21,871 |
 | This game has Great Boss Battles | 10,603 |
 | This game is Great for Beginners | 980 |
+| This game is Extremely Fun | 962 |
 | This game is Relaxing | 961 |
-| This game is Extremely Fun | 959 |
 | This game has Amazing Storytelling | 953 |
 | This game has Diverse Characters | 942 |
 | This game has Amazing Characters | 925 |
@@ -346,4 +346,4 @@ Diff (max vs sum): -13
 | 2023-08-18 | 4.77 | 21,799 | 41,179 |
 | 2023-08-19 | 4.77 | 21,818 | 41,239 |
 | 2023-08-20 | 4.77 | 21,849 | 41,309 |
-| 2023-08-21 | 4.77 | 21,871 | 41,338 |
+| 2023-08-21 | 4.77 | 21,871 | 41,341 |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 350,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
     "PcReleaseDate": "2014-07-13T00:00:00+00:00",
@@ -525,9 +525,9 @@
       "ID": "ACHIEVEMENT_18",
       "SetID": "ap8553i",
       "Name": "Why Can\u0027t I Hold All This Ammo?",
-      "Percentage": 1,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -970,8 +970,8 @@
   ],
   "FirstSeen": "2023-08-04T21:57:01.9865679+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5206267+00:00",
-  "LastChanged_Achievements": "2023-08-21T17:05:38.4307509+00:00",
+  "LastChanged_Achievements": "2023-08-21T18:05:50.7610667+00:00",
   "LastUpdate_AppInfo": "2023-08-16T16:57:24.4284709+00:00",
-  "LastUpdate_Ratings": "2023-08-21T16:58:28.7297797+00:00",
-  "LastUpdate_Achievements": "2023-08-21T17:05:38.4308147+00:00"
+  "LastUpdate_Ratings": "2023-08-21T17:58:46.2223133+00:00",
+  "LastUpdate_Achievements": "2023-08-21T18:05:50.7611558+00:00"
 }

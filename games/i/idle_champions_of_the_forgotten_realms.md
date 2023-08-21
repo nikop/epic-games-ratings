@@ -19,6 +19,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Supply Run | 0.20% | ~448 |
 | Seeds of Destruction | 0.20% | ~380 |
 | Vecna Lives! | 0.20% | ~380 |
+| Vecna Loots! | 0.20% | ~380 |
 | Return to the Tomb | 0.20% | ~380 |
 | Were-verpowered | 0.20% | ~448 |
 | A Persistent Buzzing | 0.20% | ~448 |
@@ -123,7 +124,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Best Thay Ever | 0.10% | ~190 |
 | Overwhelmed with Knowledge | 0.10% | ~190 |
 | A Demi-god's Defender | 0.10% | ~190 |
-| Vecna Loots! | 0.10% | ~190 |
 | Well Equipped | 0.10% | ~190 |
 | Friends of the Forest | 0.10% | ~224 |
 | More Than Well Equipped | 0.10% | ~190 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~190 |
 | Animated Giff | 0.10% | ~190 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 223,931 (Ranked 53)  
+Progressed: 223,940 (Ranked 53)  
 Completed: 2,202 (0.98%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -646,7 +646,7 @@ Completed: 2,202 (0.98%) (Ranked 120)
 | 2023-08-18 | 223,142 | 2,190 |
 | 2023-08-19 | 223,443 | 2,193 |
 | 2023-08-20 | 223,729 | 2,196 |
-| 2023-08-21 | 223,931 | 2,202 |
+| 2023-08-21 | 223,940 | 2,202 |
 ## Awards
 Max (Diverse Characters): 5,173  (Ranked 68)  
 Sum: 31,152 (Ranked 38)  

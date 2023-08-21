@@ -6,29 +6,29 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 75.00% | ~2,491 |
-| Ready for Winter | 64.00% | ~2,125 |
+| Venture Outward | 75.00% | ~2,492 |
+| Ready for Winter | 64.00% | ~2,126 |
 | Ready for Summer | 52.00% | ~1,727 |
 | Cordon Bleu | 43.00% | ~1,428 |
 | Tapped! | 37.00% | ~1,229 |
 | Eureka | 32.00% | ~1,063 |
-| Scourge Slayer | 26.00% | ~863 |
+| Scourge Slayer | 26.00% | ~864 |
 | Exceptional Skill | 23.00% | ~764 |
 | Science, Troglodyte! | 23.00% | ~764 |
 | Home Sweet Home | 22.00% | ~731 |
 | Encyclopedic! | 20.00% | ~664 |
 | The Power of Family | 17.00% | ~565 |
-| A Fortress Toppled! | 16.00% | ~531 |
-| Apex Predator | 16.00% | ~531 |
+| A Fortress Toppled! | 16.00% | ~532 |
+| Apex Predator | 16.00% | ~532 |
 | Strange amalgams | 12.00% | ~399 |
 | The Power of Faith | 12.00% | ~399 |
 | The Power of Freedom | 9.00% | ~299 |
 | Ace Detective | 8.00% | ~266 |
 | Gift from the Ancestors | 8.00% | ~266 |
 | Magic is a science | 8.00% | ~266 |
-| House of Cards | 7.00% | ~232 |
-| Let ‘em eat magma! | 7.00% | ~232 |
-| The power of ambition | 7.00% | ~232 |
+| House of Cards | 7.00% | ~233 |
+| Let ‘em eat magma! | 7.00% | ~233 |
+| The power of ambition | 7.00% | ~233 |
 | Blood and justice | 6.00% | ~199 |
 | Hold my Mead and Watch This | 6.00% | ~199 |
 | The stuff of legends. | 6.00% | ~199 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~10 |
 | The Absolute Pinnacle. | 0.30% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,321 (Ranked 154)  
+Progressed: 3,322 (Ranked 154)  
 Completed: 3 (0.09%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,7 +168,7 @@ Completed: 3 (0.09%) (Ranked 213)
 | 2023-08-18 | 3,311 | 3 |
 | 2023-08-19 | 3,316 | 3 |
 | 2023-08-20 | 3,320 | 3 |
-| 2023-08-21 | 3,321 | 3 |
+| 2023-08-21 | 3,322 | 3 |
 ## Awards
 Max (Highly Recommended): 33  (Ranked 448)  
 Sum: 242 (Ranked 355)  

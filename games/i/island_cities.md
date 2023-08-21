@@ -27,7 +27,7 @@
 | Happy Christmas night! | 18.00% | ~83 |
 | Night walk along the beach | 18.00% | ~83 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 462 (Ranked 231)  
+Progressed: 462 (Ranked 232)  
 Completed: 85 (18.40%) (Ranked 14)  
 ## EOS Players History
 | Date | Progressed | Completed |

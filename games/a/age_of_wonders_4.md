@@ -34,21 +34,21 @@ Rating: 4.61 (Ranked 366)
 | The Goddess of Nature | 3.00% | ~154 |
 | Digging for Treasure | 3.00% | ~154 |
 | Preparation Is Everything | 3.00% | ~154 |
-| The Magic That Empowers Me! | 2.00% | ~102 |
-| God Emperor | 2.00% | ~102 |
-| Lord of Chaos | 2.00% | ~102 |
-| Eternal Lord | 2.00% | ~102 |
-| Crimson Caldera | 2.00% | ~102 |
-| The Eternal Court | 2.00% | ~102 |
-| Jack of All Tomes | 2.00% | ~102 |
-| Grexolis | 2.00% | ~102 |
-| One for All, All for One | 2.00% | ~102 |
-| Duality | 2.00% | ~102 |
+| The Magic That Empowers Me! | 2.00% | ~103 |
+| God Emperor | 2.00% | ~103 |
+| Lord of Chaos | 2.00% | ~103 |
+| Eternal Lord | 2.00% | ~103 |
+| Crimson Caldera | 2.00% | ~103 |
+| The Eternal Court | 2.00% | ~103 |
+| Jack of All Tomes | 2.00% | ~103 |
+| Grexolis | 2.00% | ~103 |
+| One for All, All for One | 2.00% | ~103 |
+| Duality | 2.00% | ~103 |
 | I've Got Everything I Need Right Here | 1.00% | ~51 |
 | Pruning for Progress | 1.00% | ~51 |
 | Manufactured War | 0.80% | ~41 |
 | Snap Out of It! | 0.70% | ~36 |
-| Betrayal Most Foul | 0.40% | ~20 |
+| Betrayal Most Foul | 0.40% | ~21 |
 | I Want to Break Free | 0.30% | ~15 |
 | Returning Circle | 0.20% | ~10 |
 | I'll Fight You All | 0.20% | ~10 |
@@ -56,7 +56,7 @@ Rating: 4.61 (Ranked 366)
 | The Grey Wizard | 0.10% | ~5 |
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,125 (Ranked 143)  
+Progressed: 5,126 (Ranked 143)  
 Completed: 5 (0.10%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,7 +162,7 @@ Completed: 5 (0.10%) (Ranked 208)
 | 2023-08-17 | 5,119 | 5 |
 | 2023-08-18 | 5,121 | 5 |
 | 2023-08-20 | 5,124 | 5 |
-| 2023-08-21 | 5,125 | 5 |
+| 2023-08-21 | 5,126 | 5 |
 ## Awards
 Max (Great for Beginners): 21  (Ranked 501)  
 Sum: 21 (Ranked 502)  

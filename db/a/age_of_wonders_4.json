@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -312,9 +312,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 5125,
+  "EOS_Progressed": 5126,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5852,6 +5852,11 @@
       "Time": "2023-08-21T06:07:09.7991828+00:00",
       "NumProgressed": 5125,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-21T18:07:28.3154526+00:00",
+      "NumProgressed": 5126,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 50,
@@ -5895,7 +5900,7 @@
       "Name": "The Magic That Empowers Me!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "14",
@@ -5919,7 +5924,7 @@
       "Name": "God Emperor",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "17",
@@ -5927,7 +5932,7 @@
       "Name": "Lord of Chaos",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "18",
@@ -5967,7 +5972,7 @@
       "Name": "Eternal Lord",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "22",
@@ -6039,7 +6044,7 @@
       "Name": "Crimson Caldera",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "30",
@@ -6127,7 +6132,7 @@
       "Name": "The Eternal Court",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "40",
@@ -6143,7 +6148,7 @@
       "Name": "Jack of All Tomes",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "42",
@@ -6175,7 +6180,7 @@
       "Name": "Grexolis",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "6",
@@ -6183,7 +6188,7 @@
       "Name": "One for All, All for One",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "7",
@@ -6199,7 +6204,7 @@
       "Name": "Betrayal Most Foul",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "9",
@@ -6231,7 +6236,7 @@
       "Name": "Duality",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "48",
@@ -6262,13 +6267,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5125,
+      "Progressed": 5126,
       "Completed": 4761
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5125,
+      "Progressed": 5126,
       "Completed": 5
     }
   ],
@@ -6276,8 +6281,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-08-21T00:00:31.9123322+00:00",
-  "LastChanged_Achievements": "2023-08-21T17:06:54.6728484+00:00",
+  "LastChanged_Achievements": "2023-08-21T18:07:28.3154518+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:57.2565325+00:00",
-  "LastUpdate_Ratings": "2023-08-21T17:02:13.6642493+00:00",
-  "LastUpdate_Achievements": "2023-08-21T17:06:54.6729097+00:00"
+  "LastUpdate_Ratings": "2023-08-21T18:02:39.8366042+00:00",
+  "LastUpdate_Achievements": "2023-08-21T18:07:28.3155334+00:00"
 }

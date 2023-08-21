@@ -4,8 +4,8 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
     "PcReleaseDate": "2023-05-18T10:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 462,
+  "EOS_Progressed": 463,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -1661,6 +1661,11 @@
       "Time": "2023-08-21T17:03:12.2093085+00:00",
       "NumProgressed": 462,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-21T18:03:18.2562658+00:00",
+      "NumProgressed": 463,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -1688,7 +1693,7 @@
       "Name": "Basic Controls",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "BigPlane",
@@ -1712,7 +1717,7 @@
       "Name": "Calculated",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "Close",
@@ -1806,9 +1811,9 @@
       "ID": "LargeAirport",
       "SetID": "1e89b4i",
       "Name": "Large Airport",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 65
     },
     {
       "ID": "LargeTerritories",
@@ -1830,9 +1835,9 @@
       "ID": "LinearNetwork",
       "SetID": "1e89b4i",
       "Name": "Linear Network",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 60
+      "UsersEstimate": 65
     },
     {
       "ID": "LongDistance",
@@ -1840,7 +1845,7 @@
       "Name": "Long Distances",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ManagementMaster",
@@ -1888,7 +1893,7 @@
       "Name": "No Way Back",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "NotPlanned",
@@ -2007,14 +2012,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 462,
+      "Progressed": 463,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-08-21T17:03:12.209308+00:00",
+  "LastChanged_Achievements": "2023-08-21T18:03:18.256265+00:00",
   "LastUpdate_AppInfo": "2023-08-15T09:57:14.6821782+00:00",
-  "LastUpdate_Ratings": "2023-08-21T16:59:07.567089+00:00",
-  "LastUpdate_Achievements": "2023-08-21T17:03:12.2093418+00:00"
+  "LastUpdate_Ratings": "2023-08-21T17:59:21.4531264+00:00",
+  "LastUpdate_Achievements": "2023-08-21T18:03:18.2563189+00:00"
 }

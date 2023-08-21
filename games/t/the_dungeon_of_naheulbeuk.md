@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 21.00% | ~45,275 |
+| Sowwy! | 21.00% | ~45,279 |
 | Déjà vu | 2.00% | ~4,312 |
 | Where's that freaking Dwarf? | 2.00% | ~4,312 |
 | Alt+F4 | 2.00% | ~4,312 |
@@ -15,7 +15,7 @@ Number of Ratings: 118  (23.09.2022)
 | GG EZ | 1.00% | ~2,156 |
 | Speedrun | 1.00% | ~2,156 |
 | Fireproof Wizardess | 1.00% | ~2,156 |
-| DM intervention | 0.90% | ~1,940 |
+| DM intervention | 0.90% | ~1,941 |
 | Way of the Wimp | 0.80% | ~1,725 |
 | Livin' in a dwarven paradise | 0.70% | ~1,509 |
 | The plot thickens... At the tavern | 0.70% | ~1,509 |
@@ -34,23 +34,23 @@ Number of Ratings: 118  (23.09.2022)
 | The beards of change | 0.50% | ~1,078 |
 | The Ranger of Chaos | 0.50% | ~1,078 |
 | I am the night | 0.50% | ~1,078 |
+| Thieves' Guild Accreditation | 0.50% | ~1,078 |
 | Res Judicata | 0.40% | ~862 |
 | The Famous Dungeon of Naheulbeuk | 0.40% | ~862 |
 | Dwarf Fortress | 0.40% | ~862 |
 | Look but don't touch | 0.40% | ~862 |
-| Thieves' Guild Accreditation | 0.40% | ~862 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.30% | ~647 |
 | Dead for good | 0.30% | ~647 |
 | Gargantua | 0.30% | ~647 |
 | Lust and Debauchery | 0.30% | ~647 |
 | Material Girl | 0.30% | ~647 |
+| Holistic Adventuring Party | 0.20% | ~431 |
 | An old poacher makes the best gamekeeper | 0.20% | ~431 |
 | We come in peace | 0.20% | ~431 |
 | Law and Order | 0.20% | ~431 |
 | In Navalu's footsteps | 0.20% | ~431 |
 | Lëgal Legend | 0.20% | ~431 |
 | Cursed die | 0.10% | ~216 |
-| Holistic Adventuring Party | 0.10% | ~216 |
 | Scholar of the Lands of Fangh | 0.10% | ~216 |
 | Friendly fire | 0.10% | ~216 |
 | I'd rather... Just... Sing! | 0.10% | ~216 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Staff cut | 0.00% | ~0 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,596 (Ranked 56)  
+Progressed: 215,612 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,7 +177,7 @@ Completed: 2 (0.00%) (Ranked 261)
 | 2023-08-18 | 214,230 | 2 |
 | 2023-08-19 | 214,804 | 2 |
 | 2023-08-20 | 215,307 | 2 |
-| 2023-08-21 | 215,596 | 2 |
+| 2023-08-21 | 215,612 | 2 |
 ## Awards
 Max (Character Customization): 172  (Ranked 287)  
 Sum: 213 (Ranked 366)  

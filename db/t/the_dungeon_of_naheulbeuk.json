@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 24,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -684,9 +684,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 215596,
+  "EOS_Progressed": 215612,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3394,
+  "EOS_NewPlayers": 3379,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7764,6 +7764,11 @@
       "Time": "2023-08-21T17:02:23.9972586+00:00",
       "NumProgressed": 215596,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-21T18:02:50.5734475+00:00",
+      "NumProgressed": 215612,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -7789,9 +7794,9 @@
       "ID": "AllSideQuest",
       "SetID": "50chcgj",
       "Name": "Holistic Adventuring Party",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 216
+      "UsersEstimate": 431
     },
     {
       "ID": "BarbarianEpic",
@@ -8223,7 +8228,7 @@
       "Name": "Sowwy!",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 45275
+      "UsersEstimate": 45279
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -8247,7 +8252,7 @@
       "Name": "DM intervention",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1940
+      "UsersEstimate": 1941
     },
     {
       "ID": "EndGameCursed",
@@ -8413,9 +8418,9 @@
       "ID": "RogueEpic",
       "SetID": "50chcgj",
       "Name": "Thieves\u0027 Guild Accreditation",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 862
+      "UsersEstimate": 1078
     },
     {
       "ID": "Speedrun",
@@ -8478,21 +8483,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 215596,
+      "Progressed": 215612,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 215596,
+      "Progressed": 215612,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-21T00:00:20.1938169+00:00",
-  "LastChanged_Achievements": "2023-08-21T17:02:23.9972582+00:00",
+  "LastChanged_Achievements": "2023-08-21T18:02:50.5734468+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:36.4163589+00:00",
-  "LastUpdate_Ratings": "2023-08-21T17:01:55.7525723+00:00",
-  "LastUpdate_Achievements": "2023-08-21T17:02:23.9973846+00:00"
+  "LastUpdate_Ratings": "2023-08-21T18:02:23.8795123+00:00",
+  "LastUpdate_Achievements": "2023-08-21T18:02:50.573643+00:00"
 }

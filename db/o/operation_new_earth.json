@@ -4,8 +4,8 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1022,
+  "EOS_Progressed": 1023,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3576,6 +3576,11 @@
       "Time": "2023-08-21T17:03:31.378011+00:00",
       "NumProgressed": 1022,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-21T18:03:37.1298336+00:00",
+      "NumProgressed": 1023,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -3691,7 +3696,7 @@
       "Name": "Facility Online",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -3715,7 +3720,7 @@
       "Name": "Lieutenant",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -3811,7 +3816,7 @@
       "Name": "On Target",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -3890,14 +3895,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1022,
+      "Progressed": 1023,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-21T17:03:31.3780104+00:00",
+  "LastChanged_Achievements": "2023-08-21T18:03:37.1298328+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:20.8459338+00:00",
-  "LastUpdate_Ratings": "2023-08-21T16:58:31.8372215+00:00",
-  "LastUpdate_Achievements": "2023-08-21T17:03:31.3780484+00:00"
+  "LastUpdate_Ratings": "2023-08-21T17:58:47.7351962+00:00",
+  "LastUpdate_Achievements": "2023-08-21T18:03:37.129889+00:00"
 }

@@ -2,6 +2,13 @@
 [Store](https://store.epicgames.com/en-US/p/sins-of-a-solar-empire-ii)  
 [View Rawdata](../../db/s/sins_of_a_solar_empire_2.json)  
 Rating: 4.52 (Ranked 527)  
+## Awards
+Max (Great for Beginners): 20  (Ranked 509)  
+Sum: 20 (Ranked 509)  
+Diff (max vs sum): 0  
+| Award | Count |
+| ----- | ----- |
+| This game is Great for Beginners | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -42,3 +49,4 @@ Rating: 4.52 (Ranked 527)
 | 2023-05-31 | 4.52 | 0 | 0 |
 | 2023-07-01 | 4.53 | 0 | 0 |
 | 2023-07-14 | 4.52 | 0 | 0 |
+| 2023-08-21 | 4.52 | 20 | 20 |

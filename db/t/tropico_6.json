@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 280,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1056,7 +1056,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 4823,
+  "EOS_Progressed": 4824,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
@@ -8401,6 +8401,11 @@
       "Time": "2023-08-21T16:03:37.3116245+00:00",
       "NumProgressed": 4823,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-21T18:02:57.6902898+00:00",
+      "NumProgressed": 4824,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -8572,7 +8577,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 3665
+      "UsersEstimate": 3666
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -8596,7 +8601,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -8731,15 +8736,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 4823,
+      "Progressed": 4824,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-08-19T05:59:02.5104499+00:00",
-  "LastChanged_Achievements": "2023-08-21T17:02:30.9641301+00:00",
+  "LastChanged_Achievements": "2023-08-21T18:02:57.690289+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:05.8526024+00:00",
-  "LastUpdate_Ratings": "2023-08-21T16:58:14.3129123+00:00",
-  "LastUpdate_Achievements": "2023-08-21T17:02:30.9641961+00:00"
+  "LastUpdate_Ratings": "2023-08-21T17:58:28.4870702+00:00",
+  "LastUpdate_Achievements": "2023-08-21T18:02:57.6903769+00:00"
 }

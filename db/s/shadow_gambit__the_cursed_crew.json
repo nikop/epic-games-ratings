@@ -2,10 +2,10 @@
   "ID": "42b8b899a3f349bd8376264ccee3cd2a",
   "Name": "Shadow Gambit: The Cursed Crew",
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
-  "Ranking_EOS_Progress": 243,
+  "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 86,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 401,
+  "EOS_Progressed": 404,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 375,
+  "EOS_NewPlayers": 377,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -671,6 +671,11 @@
       "Time": "2023-08-21T17:04:04.118129+00:00",
       "NumProgressed": 401,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-21T18:04:20.9244858+00:00",
+      "NumProgressed": 404,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -691,15 +696,15 @@
       "Name": "A New Journey",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 293
+      "UsersEstimate": 295
     },
     {
       "ID": "_03_FinishAct1",
       "SetID": "8a1io5d",
       "Name": "The Adventure Begins",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 196
+      "UsersEstimate": 194
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -707,7 +712,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "_05_FinishAct2",
@@ -715,7 +720,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -737,9 +742,9 @@
       "ID": "_08_Completion_10",
       "SetID": "8a1io5d",
       "Name": "Swabbie",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 125
     },
     {
       "ID": "_09_Completion_20",
@@ -785,9 +790,9 @@
       "ID": "_14_Completion_70",
       "SetID": "8a1io5d",
       "Name": "Freebooter",
-      "Percentage": 0.5,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "_15_Completion_80",
@@ -811,7 +816,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -841,9 +846,9 @@
       "ID": "_21_CrewTale_OVT",
       "SetID": "8a1io5d",
       "Name": "Tobacco Travesty",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 8
     },
     {
       "ID": "_22_CrewTale_FSH",
@@ -857,9 +862,9 @@
       "ID": "_23_CrewTale_CNN",
       "SetID": "8a1io5d",
       "Name": "Lyrical Longing",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 12
     },
     {
       "ID": "_24_CrewTale_SNP",
@@ -890,14 +895,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 401,
+      "Progressed": 404,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-21T17:04:04.1181285+00:00",
+  "LastChanged_Achievements": "2023-08-21T18:04:20.9244851+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:01.7621403+00:00",
-  "LastUpdate_Ratings": "2023-08-21T17:00:35.2225554+00:00",
-  "LastUpdate_Achievements": "2023-08-21T17:04:04.1181478+00:00"
+  "LastUpdate_Ratings": "2023-08-21T18:00:58.9157234+00:00",
+  "LastUpdate_Achievements": "2023-08-21T18:04:20.9245145+00:00"
 }

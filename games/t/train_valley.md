@@ -10,8 +10,8 @@ Number of Ratings: 28  (23.09.2022)
 | Close call! | 73.00% | ~323 |
 | Builder | 53.00% | ~234 |
 | Pangs of conscience | 47.00% | ~208 |
-| Living it large! | 44.00% | ~194 |
-| Collector | 42.00% | ~186 |
+| Living it large! | 45.00% | ~199 |
+| Collector | 43.00% | ~190 |
 | Need to think | 41.00% | ~181 |
 | Completely nuts! | 39.00% | ~172 |
 | Just in time! | 33.00% | ~146 |
@@ -20,8 +20,8 @@ Number of Ratings: 28  (23.09.2022)
 | Madness! | 28.00% | ~124 |
 | Philatelist | 25.00% | ~110 |
 | Let's roll! | 25.00% | ~110 |
+| Ouroboros | 25.00% | ~110 |
 | Non Stop! | 25.00% | ~110 |
-| Ouroboros | 24.00% | ~106 |
 | Foreman | 21.00% | ~93 |
 | Missed it! | 19.00% | ~84 |
 | Russia | 18.00% | ~80 |

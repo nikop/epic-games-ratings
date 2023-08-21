@@ -4,8 +4,8 @@
   "ProductSlug": "dimension-drive-70a456",
   "Ranking_EOS_Progress": 550,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 353,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-07-20T12:00:00+00:00",
     "PcReleaseDate": "2017-12-07T08:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-17T13:57:12.1491242+00:00",
-  "LastUpdate_Ratings": "2023-08-21T16:59:06.0834802+00:00",
-  "LastUpdate_Achievements": "2023-08-21T17:06:37.2337687+00:00"
+  "LastUpdate_Ratings": "2023-08-21T17:59:20.671951+00:00",
+  "LastUpdate_Achievements": "2023-08-21T18:07:10.5700921+00:00"
 }

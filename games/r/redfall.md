@@ -13,6 +13,7 @@ Rating: 3.50 (Ranked 974)
 | Grounded | 0.10% | ~2 |
 | Fly Fisher | 0.10% | ~2 |
 | Sucks To Be You | 0.10% | ~2 |
+| Heart Attack | 0.10% | ~2 |
 | Neighborhood Revitalization | 0.00% | ~0 |
 | Revelations | 0.00% | ~0 |
 | Home Is Where the Heart Is | 0.00% | ~0 |
@@ -43,7 +44,6 @@ Rating: 3.50 (Ranked 974)
 | Sisterhood | 0.00% | ~0 |
 | What Lies Below | 0.00% | ~0 |
 | Check, Please! | 0.00% | ~0 |
-| Heart Attack | 0.00% | ~0 |
 | Empty Nest Syndrome | 0.00% | ~0 |
 | Starve the Beast | 0.00% | ~0 |
 | Someplace to Be | 0.00% | ~0 |

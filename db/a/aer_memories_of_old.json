@@ -3,12 +3,12 @@
   "Name": "AER Memories of Old",
   "ProductSlug": "aer-memories-of-old",
   "Ranking_Rating": 637,
-  "Ranking_Popularity": 513,
-  "Ranking_PopularitySum": 513,
+  "Ranking_Popularity": 514,
+  "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 92,
   "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 20,
+  "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -380,9 +380,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18346,
+  "EOS_Progressed": 18349,
   "EOS_Completed": 373,
-  "EOS_NewPlayers": 523,
+  "EOS_NewPlayers": 522,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 2.03,
   "EosHistory": [
@@ -13495,6 +13495,11 @@
       "Time": "2023-08-21T17:06:45.2739973+00:00",
       "NumProgressed": 18346,
       "NumCompleted": 373
+    },
+    {
+      "Time": "2023-08-21T18:07:18.5652112+00:00",
+      "NumProgressed": 18349,
+      "NumCompleted": 373
     }
   ],
   "TotalAchievements": 20,
@@ -13522,7 +13527,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2568
+      "UsersEstimate": 2569
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -13626,7 +13631,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 13943
+      "UsersEstimate": 13945
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -13634,7 +13639,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 5137
+      "UsersEstimate": 5138
     },
     {
       "ID": "NORTH_FINISHED",
@@ -13642,7 +13647,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2568
+      "UsersEstimate": 2569
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -13665,15 +13670,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 18346,
+      "Progressed": 18349,
       "Completed": 373
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-08-12T01:39:46.4098224+00:00",
-  "LastChanged_Achievements": "2023-08-21T17:06:45.2739967+00:00",
+  "LastChanged_Achievements": "2023-08-21T18:07:18.5652105+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:54.5287855+00:00",
-  "LastUpdate_Ratings": "2023-08-21T16:57:52.391602+00:00",
-  "LastUpdate_Achievements": "2023-08-21T17:06:45.2740619+00:00"
+  "LastUpdate_Ratings": "2023-08-21T17:58:03.3970565+00:00",
+  "LastUpdate_Achievements": "2023-08-21T18:07:18.5653238+00:00"
 }

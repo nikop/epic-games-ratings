@@ -6,24 +6,24 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~255,334 |
-| Cavalier | 25.00% | ~199,480 |
-| Fatso | 23.00% | ~183,521 |
-| Awakening | 21.00% | ~167,563 |
-| Ranger | 20.00% | ~159,584 |
-| Scrooge | 20.00% | ~159,584 |
-| Anorectic | 16.00% | ~127,667 |
-| Bookworm | 15.00% | ~119,688 |
-| Firestarter | 15.00% | ~119,688 |
-| Insomniac | 13.00% | ~103,729 |
-| Buddy | 12.00% | ~95,750 |
-| Thief | 12.00% | ~95,750 |
-| Sinner | 11.00% | ~87,771 |
+| Blacksmith's Son | 32.00% | ~255,336 |
+| Cavalier | 25.00% | ~199,481 |
+| Fatso | 23.00% | ~183,523 |
+| Awakening | 21.00% | ~167,564 |
+| Ranger | 20.00% | ~159,585 |
+| Scrooge | 20.00% | ~159,585 |
+| Anorectic | 16.00% | ~127,668 |
+| Bookworm | 15.00% | ~119,689 |
+| Firestarter | 15.00% | ~119,689 |
+| Insomniac | 13.00% | ~103,730 |
+| Buddy | 12.00% | ~95,751 |
+| Thief | 12.00% | ~95,751 |
+| Sinner | 11.00% | ~87,772 |
 | Convict | 10.00% | ~79,792 |
 | Traveller | 10.00% | ~79,792 |
 | Haggler | 9.00% | ~71,813 |
-| McLovin | 7.00% | ~55,854 |
-| Runt | 7.00% | ~55,854 |
+| McLovin | 7.00% | ~55,855 |
+| Runt | 7.00% | ~55,855 |
 | Casanova | 6.00% | ~47,875 |
 | Bad Trip | 5.00% | ~39,896 |
 | Monk | 5.00% | ~39,896 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~798 |
 | Wingman | 0.10% | ~798 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 797,918 (Ranked 16)  
+Progressed: 797,924 (Ranked 16)  
 Completed: 44 (0.01%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,11 +212,11 @@ Completed: 44 (0.01%) (Ranked 248)
 | 2023-08-18 | 797,548 | 44 |
 | 2023-08-19 | 797,694 | 44 |
 | 2023-08-20 | 797,845 | 44 |
-| 2023-08-21 | 797,918 | 44 |
+| 2023-08-21 | 797,924 | 44 |
 ## Awards
 Max (Character Customization): 7,397  (Ranked 47)  
-Sum: 27,548 (Ranked 46)  
-Diff (max vs sum): 1  
+Sum: 27,548 (Ranked 45)  
+Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,397 |

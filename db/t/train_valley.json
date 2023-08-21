@@ -3,12 +3,12 @@
   "Name": "Train Valley",
   "ProductSlug": "train-valley-ead642",
   "Ranking_Rating": 592,
-  "Ranking_Popularity": 513,
-  "Ranking_PopularitySum": 513,
+  "Ranking_Popularity": 514,
+  "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 153,
   "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
     "PcReleaseDate": "2015-09-16T00:00:00+00:00",
@@ -919,9 +919,9 @@
       "ID": "02_collector",
       "SetID": "chb1m60",
       "Name": "Collector",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 186
+      "UsersEstimate": 190
     },
     {
       "ID": "03_philatelist",
@@ -951,9 +951,9 @@
       "ID": "06_living",
       "SetID": "chb1m60",
       "Name": "Living it large!",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 194
+      "UsersEstimate": 199
     },
     {
       "ID": "07_europe",
@@ -1079,9 +1079,9 @@
       "ID": "22_ouroboros",
       "SetID": "chb1m60",
       "Name": "Ouroboros",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 110
     },
     {
       "ID": "23_closecall",
@@ -1231,8 +1231,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-08-15T19:59:30.756961+00:00",
-  "LastChanged_Achievements": "2023-08-21T17:06:38.0257113+00:00",
+  "LastChanged_Achievements": "2023-08-21T18:07:11.2686082+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:35.3683118+00:00",
-  "LastUpdate_Ratings": "2023-08-21T17:00:06.0030658+00:00",
-  "LastUpdate_Achievements": "2023-08-21T17:06:38.0257394+00:00"
+  "LastUpdate_Ratings": "2023-08-21T18:00:33.8356567+00:00",
+  "LastUpdate_Achievements": "2023-08-21T18:07:11.2686459+00:00"
 }
