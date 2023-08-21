@@ -4,8 +4,8 @@
 | 1 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.96 | 0 | 513 |
 | 3 | [Rain World](games/r/rain_world.md) | 4.95 | 0 | 513 |
 | 3 | [Raini: The Lords of Light](games/5/5efded9de1d049758206a501425d8209.md) | 4.95 | 0 | 513 |
-| 5 | [Celeste](games/c/celeste.md) | 4.92 | 1,562 | 119 |
-| 5 | [Hades](games/h/hades.md) | 4.92 | 3,225 | 91 |
+| 5 | [Celeste](games/c/celeste.md) | 4.92 | 1,564 | 119 |
+| 5 | [Hades](games/h/hades.md) | 4.92 | 3,226 | 91 |
 | 7 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.91 | 0 | 513 |
 | 8 | [Flatout 2](games/f/flatout_2.md) | 4.90 | 0 | 513 |
 | 8 | [Mago](games/m/mago.md) | 4.90 | 0 | 513 |
@@ -23,7 +23,7 @@
 | 19 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.88 | 0 | 513 |
 | 19 | [Ooblets](games/o/ooblets.md) | 4.88 | 1,021 | 143 |
 | 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 168,925 | 6 |
-| 19 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 11,137 | 35 |
+| 19 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 11,146 | 35 |
 | 19 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 493 |
 | 26 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 278 | 243 |
 | 26 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,430 | 125 |
@@ -92,7 +92,7 @@
 | 87 | [Huntdown](games/h/huntdown.md) | 4.79 | 0 | 513 |
 | 87 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.79 | 0 | 513 |
 | 87 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 834 | 153 |
-| 87 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 745 | 163 |
+| 87 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 747 | 162 |
 | 87 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,974 | 57 |
 | 87 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.79 | 157 | 295 |
 | 87 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.79 | 2,453 | 102 |
@@ -115,7 +115,7 @@
 | 109 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.77 | 38 | 428 |
 | 109 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 0 | 513 |
 | 109 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.77 | 147 | 300 |
-| 109 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 99 | 338 |
+| 109 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 100 | 337 |
 | 109 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 0 | 513 |
 | 109 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 28 | 467 |
 | 119 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 15,106 | 24 |
@@ -188,7 +188,7 @@
 | 170 | [Townscaper](games/t/townscaper.md) | 4.72 | 0 | 513 |
 | 187 | [Barony](games/b/barony.md) | 4.71 | 78 | 365 |
 | 187 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.71 | 88 | 353 |
-| 187 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 6,980 | 49 |
+| 187 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 6,988 | 49 |
 | 187 | [FUSER™](games/f/fuser™.md) | 4.71 | 35 | 437 |
 | 187 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,397 | 47 |
 | 187 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.71 | 0 | 513 |
@@ -569,7 +569,7 @@
 | 558 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.50 | 0 | 513 |
 | 558 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 0 | 513 |
 | 558 | [Knockout City™](games/k/knockout_city™.md) | 4.50 | 0 | 513 |
-| 558 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 99 | 338 |
+| 558 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 99 | 339 |
 | 558 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 628 | 178 |
 | 558 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.50 | 23 | 491 |
 | 558 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.50 | 0 | 513 |
@@ -715,7 +715,7 @@
 | 711 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 1,016 | 144 |
 | 711 | [Democracy 4](games/d/democracy_4.md) | 4.39 | 0 | 513 |
 | 711 | [Hero's Hour](games/h/hero's_hour.md) | 4.39 | 0 | 513 |
-| 711 | [MORDHAU](games/m/mordhau.md) | 4.39 | 529 | 195 |
+| 711 | [MORDHAU](games/m/mordhau.md) | 4.39 | 532 | 195 |
 | 711 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,746 | 32 |
 | 711 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 4.39 | 0 | 513 |
 | 711 | [Startup Panic](games/s/startup_panic.md) | 4.39 | 0 | 513 |

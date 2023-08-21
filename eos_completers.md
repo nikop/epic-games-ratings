@@ -37,7 +37,7 @@
 | 35 | [Ravenlok](games/r/ravenlok.md) | 7.51% |
 | 36 | [Smelter](games/s/smelter.md) | 7.50% |
 | 37 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 7.14% |
-| 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.05% |
+| 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.04% |
 | 39 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.02% |
 | 40 | [Scorn](games/s/scorn.md) | 7.01% |
 | 41 | [Time Loader](games/t/time_loader.md) | 6.78% |
@@ -64,9 +64,9 @@
 | 62 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.93% |
 | 63 | [ZZT!](games/z/zzt!.md) | 3.88% |
 | 64 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
-| 65 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.57% |
 | 65 | [Without Escape](games/w/without_escape.md) | 3.57% |
-| 67 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
+| 66 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
+| 67 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.51% |
 | 68 | [Doodle God](games/d/doodle_god.md) | 3.43% |
 | 69 | [Bunny Park](games/b/bunny_park.md) | 3.37% |
 | 70 | [The Complex](games/t/the_complex.md) | 3.35% |
@@ -141,7 +141,7 @@
 | 139 | [Potion Permit](games/p/potion_permit.md) | 0.58% |
 | 140 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.57% |
 | 141 | [Grindstone](games/g/grindstone.md) | 0.56% |
-| 142 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.55% |
+| 142 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.54% |
 | 143 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.52% |
 | 143 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
 | 145 | [Aragami 2](games/a/aragami_2.md) | 0.51% |
