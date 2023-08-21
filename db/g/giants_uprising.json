@@ -2,10 +2,10 @@
   "ID": "9697aee72ae24726bca226cbdc8bcfd2",
   "Name": "Giants Uprising",
   "ProductSlug": "giants-uprising-5c1535",
-  "Ranking_EOS_Progress": 548,
+  "Ranking_EOS_Progress": 549,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 363,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-11-09T16:00:00+00:00",
     "PcReleaseDate": "2021-11-09T16:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:21.0448738+00:00",
   "LastChanged": "2023-03-31T05:58:21.0448739+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:30.5052278+00:00",
-  "LastUpdate_Ratings": "2023-08-20T23:58:59.2228605+00:00",
-  "LastUpdate_Achievements": "2023-08-21T00:06:07.5294662+00:00"
+  "LastUpdate_Ratings": "2023-08-21T01:38:20.6081881+00:00",
+  "LastUpdate_Achievements": "2023-08-21T01:45:44.9514691+00:00"
 }

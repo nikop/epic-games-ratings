@@ -2,10 +2,10 @@
   "ID": "45b0d6c6f02f4a9d885d8bbe10a442a7",
   "Name": "ANVIL",
   "ProductSlug": "anvil-86c1a9",
-  "Ranking_EOS_Progress": 548,
+  "Ranking_EOS_Progress": 549,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 363,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-08-31T00:00:00+00:00",
     "PcReleaseDate": "2023-08-31T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-14T07:57:16.5773696+00:00",
-  "LastUpdate_Ratings": "2023-08-20T23:58:05.7501712+00:00",
-  "LastUpdate_Achievements": "2023-08-21T00:04:29.1058486+00:00"
+  "LastUpdate_Ratings": "2023-08-21T01:37:22.3811587+00:00",
+  "LastUpdate_Achievements": "2023-08-21T01:43:49.1281121+00:00"
 }

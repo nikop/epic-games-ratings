@@ -5,20 +5,20 @@ Rating: 4.23 (Ranked 843)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,582 |
-| Don't I Know You...? | 77.00% | ~1,523 |
+| Rigged And Ready | 80.00% | ~1,583 |
+| Don't I Know You...? | 77.00% | ~1,524 |
 | Jailbreak | 65.00% | ~1,286 |
-| Suited and Booted | 39.00% | ~771 |
+| Suited and Booted | 39.00% | ~772 |
 | HEADSHOT! | 38.00% | ~752 |
-| Sleeping With The Fishes | 35.00% | ~692 |
-| Overheated | 30.00% | ~593 |
-| High Performance | 30.00% | ~593 |
+| Sleeping With The Fishes | 35.00% | ~693 |
+| Overheated | 30.00% | ~594 |
+| High Performance | 30.00% | ~594 |
 | Powered Up | 28.00% | ~554 |
-| Studied The Blade | 25.00% | ~494 |
+| Studied The Blade | 25.00% | ~495 |
 | Home Invasion | 23.00% | ~455 |
 | Luminary | 22.00% | ~435 |
 | It's a Trap | 22.00% | ~435 |
-| True Survivor | 21.00% | ~415 |
+| True Survivor | 21.00% | ~416 |
 | Offensive Defense | 20.00% | ~396 |
 | Shocking | 20.00% | ~396 |
 | Court Martial | 19.00% | ~376 |
@@ -41,7 +41,7 @@ Rating: 4.23 (Ranked 843)
 | A Little Banged Up | 8.00% | ~158 |
 | Denying Prophecy | 8.00% | ~158 |
 | Following In Their Footsteps | 8.00% | ~158 |
-| Reverse Engineering | 7.00% | ~138 |
+| Reverse Engineering | 7.00% | ~139 |
 | Remote Surgery | 6.00% | ~119 |
 | Turbo Booster | 6.00% | ~119 |
 | Juiced Up | 6.00% | ~119 |
@@ -63,7 +63,7 @@ Rating: 4.23 (Ranked 843)
 | Swiss Army Drone | 1.00% | ~20 |
 | The Easy Way Out | 1.00% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,978 (Ranked 171)  
+Progressed: 1,979 (Ranked 171)  
 Completed: 10 (0.51%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,6 +161,7 @@ Completed: 10 (0.51%) (Ranked 145)
 | 2023-08-15 | 1,975 | 10 |
 | 2023-08-17 | 1,977 | 10 |
 | 2023-08-19 | 1,978 | 10 |
+| 2023-08-21 | 1,979 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 325,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -329,7 +329,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 109583,
+  "EOS_Progressed": 109584,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
@@ -2089,6 +2089,11 @@
       "Time": "2023-08-20T20:03:12.9396696+00:00",
       "NumProgressed": 109583,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-21T01:42:05.7057791+00:00",
+      "NumProgressed": 109584,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -2116,7 +2121,7 @@
       "Name": "Standing on the Shoulders of Giants - Bronze",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "12",
@@ -2252,7 +2257,7 @@
       "Name": "Going Public!",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "3",
@@ -2371,15 +2376,15 @@
     {
       "ID": "4i9cj6f",
       "IsBase": true,
-      "Progressed": 109583,
+      "Progressed": 109584,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:23:35.732973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:02.9835227+00:00",
   "LastChanged": "2023-01-05T14:57:39.5556866+00:00",
-  "LastChanged_Achievements": "2023-08-21T00:02:17.3398539+00:00",
+  "LastChanged_Achievements": "2023-08-21T01:42:05.7057787+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:26.0754386+00:00",
-  "LastUpdate_Ratings": "2023-08-20T23:59:39.5014838+00:00",
-  "LastUpdate_Achievements": "2023-08-21T00:02:17.3398893+00:00"
+  "LastUpdate_Ratings": "2023-08-21T01:39:10.1824591+00:00",
+  "LastUpdate_Achievements": "2023-08-21T01:42:05.7058075+00:00"
 }

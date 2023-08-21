@@ -5,34 +5,34 @@ Rating: 4.05 (Ranked 925)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,701 |
-| World Map | 79.00% | ~1,445 |
-| Temple of Eternals | 57.00% | ~1,043 |
-| Prestigious | 53.00% | ~969 |
-| Fellowship Power | 41.00% | ~750 |
-| Guild Power | 25.00% | ~457 |
-| Prestigious x10 | 22.00% | ~402 |
+| Victor | 93.00% | ~1,704 |
+| World Map | 79.00% | ~1,447 |
+| Temple of Eternals | 57.00% | ~1,044 |
+| Prestigious | 53.00% | ~971 |
+| Fellowship Power | 41.00% | ~751 |
+| Guild Power | 25.00% | ~458 |
+| Prestigious x10 | 22.00% | ~403 |
 | The game is on | 20.00% | ~366 |
-| Exotic Merchant | 18.00% | ~329 |
+| Exotic Merchant | 18.00% | ~330 |
 | Dragon Clicker | 17.00% | ~311 |
 | Miner Clicker | 17.00% | ~311 |
 | Full Party | 16.00% | ~293 |
 | Inspection | 16.00% | ~293 |
-| Dragon Master | 15.00% | ~274 |
-| Enlightenment | 15.00% | ~274 |
-| Hero inspection | 15.00% | ~274 |
+| Dragon Master | 15.00% | ~275 |
+| Enlightenment | 15.00% | ~275 |
+| Hero inspection | 15.00% | ~275 |
 | Lieutenant | 14.00% | ~256 |
 | Mysterious Rock | 14.00% | ~256 |
 | Milestone collector | 13.00% | ~238 |
 | Natural Talent | 13.00% | ~238 |
 | Superior | 13.00% | ~238 |
 | The Unstoppable | 13.00% | ~238 |
-| Scientist | 12.00% | ~219 |
-| Doing My Part | 11.00% | ~201 |
-| Hunter | 11.00% | ~201 |
-| Mastery | 11.00% | ~201 |
-| Relic Of The Past | 11.00% | ~201 |
-| The power of Awakening | 11.00% | ~201 |
+| Scientist | 12.00% | ~220 |
+| Doing My Part | 11.00% | ~202 |
+| Hunter | 11.00% | ~202 |
+| Mastery | 11.00% | ~202 |
+| Relic Of The Past | 11.00% | ~202 |
+| The power of Awakening | 11.00% | ~202 |
 | Challenger | 10.00% | ~183 |
 | Daily Quest Completionist | 10.00% | ~183 |
 | Four Leaf Clover | 10.00% | ~183 |
@@ -42,7 +42,7 @@ Rating: 4.05 (Ranked 925)
 | Here We Go Again | 9.00% | ~165 |
 | Master Enchanter | 9.00% | ~165 |
 | The father of Dragons | 9.00% | ~165 |
-| Trader | 8.00% | ~146 |
+| Trader | 8.00% | ~147 |
 | Blueprint Upgrades | 7.00% | ~128 |
 | Crystal Mining | 7.00% | ~128 |
 | Dragon Slayer | 7.00% | ~128 |
@@ -55,9 +55,9 @@ Rating: 4.05 (Ranked 925)
 | Lock And Load | 6.00% | ~110 |
 | Missions Dedication | 6.00% | ~110 |
 | Sailor | 6.00% | ~110 |
-| Active Member | 5.00% | ~91 |
-| Background Story | 5.00% | ~91 |
-| The Alchemist | 5.00% | ~91 |
+| Active Member | 5.00% | ~92 |
+| Background Story | 5.00% | ~92 |
+| The Alchemist | 5.00% | ~92 |
 | Arena Challenger | 4.00% | ~73 |
 | Ebony Jungle Liberator | 4.00% | ~73 |
 | Legendary | 4.00% | ~73 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 925)
 | Silverwood liberator | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,829 (Ranked 173)  
+Progressed: 1,832 (Ranked 173)  
 Completed: 2 (0.11%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,6 +203,7 @@ Completed: 2 (0.11%) (Ranked 205)
 | 2023-08-18 | 1,820 | 2 |
 | 2023-08-19 | 1,822 | 2 |
 | 2023-08-20 | 1,829 | 2 |
+| 2023-08-21 | 1,832 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 47,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 248322,
+  "EOS_Progressed": 248326,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 300,
+  "EOS_NewPlayers": 302,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11799,6 +11799,11 @@
       "Time": "2023-08-21T00:04:19.2219255+00:00",
       "NumProgressed": 248322,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-21T01:43:39.6533434+00:00",
+      "NumProgressed": 248326,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 46,
@@ -11826,7 +11831,7 @@
       "Name": "And You\u0027re Okay",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4966
+      "UsersEstimate": 4967
     },
     {
       "ID": "beAgressive",
@@ -11842,7 +11847,7 @@
       "Name": "Blotbuster",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4966
+      "UsersEstimate": 4967
     },
     {
       "ID": "breakingOut",
@@ -11858,7 +11863,7 @@
       "Name": "Butt Butt",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 14899
+      "UsersEstimate": 14900
     },
     {
       "ID": "canYouDigIt",
@@ -11882,7 +11887,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 37248
+      "UsersEstimate": 37249
     },
     {
       "ID": "clearCut",
@@ -11906,7 +11911,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 44698
+      "UsersEstimate": 44699
     },
     {
       "ID": "curator",
@@ -11914,7 +11919,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 49664
+      "UsersEstimate": 49665
     },
     {
       "ID": "didYourTime",
@@ -11986,7 +11991,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 131611
+      "UsersEstimate": 131613
     },
     {
       "ID": "indegestible",
@@ -12010,7 +12015,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 64564
+      "UsersEstimate": 64565
     },
     {
       "ID": "justABit",
@@ -12042,7 +12047,7 @@
       "Name": "Muddy Waters",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 34765
+      "UsersEstimate": 34766
     },
     {
       "ID": "myFirstRunbow",
@@ -12050,7 +12055,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 124161
+      "UsersEstimate": 124163
     },
     {
       "ID": "notScared",
@@ -12114,7 +12119,7 @@
       "Name": "The Stunner",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 54631
+      "UsersEstimate": 54632
     },
     {
       "ID": "thunderstruck",
@@ -12122,7 +12127,7 @@
       "Name": "Thunderstruck",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4966
+      "UsersEstimate": 4967
     },
     {
       "ID": "toasty",
@@ -12177,7 +12182,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 248322,
+      "Progressed": 248326,
       "Completed": 3
     }
   ],
@@ -12185,8 +12190,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-08-21T00:04:19.221925+00:00",
+  "LastChanged_Achievements": "2023-08-21T01:43:39.6533432+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:44.1764965+00:00",
-  "LastUpdate_Ratings": "2023-08-21T00:00:24.52543+00:00",
-  "LastUpdate_Achievements": "2023-08-21T00:04:19.2220358+00:00"
+  "LastUpdate_Ratings": "2023-08-21T01:39:59.1600137+00:00",
+  "LastUpdate_Achievements": "2023-08-21T01:43:39.6534213+00:00"
 }

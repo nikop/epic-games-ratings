@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 370,
+  "EOS_Progressed": 372,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 349,
+  "EOS_NewPlayers": 350,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -596,6 +596,11 @@
       "Time": "2023-08-20T22:03:38.8988621+00:00",
       "NumProgressed": 370,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-21T01:42:31.7438861+00:00",
+      "NumProgressed": 372,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -614,9 +619,9 @@
       "ID": "_02_FinishFirstMission",
       "SetID": "8a1io5d",
       "Name": "A New Journey",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 266
+      "UsersEstimate": 272
     },
     {
       "ID": "_03_FinishAct1",
@@ -624,7 +629,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -632,7 +637,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "_05_FinishAct2",
@@ -640,7 +645,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -654,9 +659,9 @@
       "ID": "_07_FinishAct3",
       "SetID": "8a1io5d",
       "Name": "All Good Things",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 7
     },
     {
       "ID": "_08_Completion_10",
@@ -670,9 +675,9 @@
       "ID": "_09_Completion_20",
       "SetID": "8a1io5d",
       "Name": "Powder Monkey",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 37
     },
     {
       "ID": "_10_Completion_30",
@@ -680,7 +685,7 @@
       "Name": "Buccaneer",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "_11_Completion_40",
@@ -728,7 +733,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -758,9 +763,9 @@
       "ID": "_20_CrewTale_TPB",
       "SetID": "8a1io5d",
       "Name": "Fishy Fish",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 33
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -815,14 +820,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 370,
+      "Progressed": 372,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-21T00:03:22.6560702+00:00",
+  "LastChanged_Achievements": "2023-08-21T01:42:31.7438857+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:01.7621403+00:00",
-  "LastUpdate_Ratings": "2023-08-20T23:59:21.8689505+00:00",
-  "LastUpdate_Achievements": "2023-08-21T00:03:22.6560917+00:00"
+  "LastUpdate_Ratings": "2023-08-21T01:38:49.2181023+00:00",
+  "LastUpdate_Achievements": "2023-08-21T01:42:31.7439043+00:00"
 }

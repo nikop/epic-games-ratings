@@ -6,35 +6,35 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 1.00% | ~2,237 |
+| A Brief Tour of the Realms | 1.00% | ~2,238 |
 | Beast Intentions | 0.50% | ~1,119 |
 | The Cursed Farmer | 0.50% | ~1,119 |
 | The Hunt for The Last Breath | 0.50% | ~950 |
 | The Mad Wizard | 0.40% | ~895 |
 | To Infinity's and Beyond | 0.40% | ~760 |
 | The Ring of Regeneration | 0.30% | ~671 |
-| Maddening | 0.20% | ~447 |
+| Maddening | 0.20% | ~448 |
 | Tall Tales | 0.20% | ~380 |
-| The Silken Swamp | 0.20% | ~447 |
-| Supply Run | 0.20% | ~447 |
+| The Silken Swamp | 0.20% | ~448 |
+| Supply Run | 0.20% | ~448 |
 | Seeds of Destruction | 0.20% | ~380 |
-| Were-verpowered | 0.20% | ~447 |
-| A Persistent Buzzing | 0.20% | ~447 |
-| Beast Mode | 0.20% | ~447 |
-| Terror in the Dark | 0.20% | ~447 |
-| A Mysterious Summons | 0.20% | ~447 |
-| Building Trust | 0.20% | ~447 |
-| Unearthed Evil | 0.20% | ~447 |
-| The Dinner Party | 0.20% | ~447 |
-| The Crumbling Temple | 0.20% | ~447 |
-| Seeking Allies | 0.20% | ~447 |
-| Are Ya Chicken? | 0.20% | ~447 |
-| Useless Allies | 0.20% | ~447 |
-| Mad Cow Disease | 0.20% | ~447 |
-| Exploring Port Nyanzaru | 0.20% | ~447 |
-| Underdeep Cartography | 0.20% | ~447 |
-| Friendly Imps | 0.20% | ~447 |
-| Pure Energy | 0.20% | ~447 |
+| Were-verpowered | 0.20% | ~448 |
+| A Persistent Buzzing | 0.20% | ~448 |
+| Beast Mode | 0.20% | ~448 |
+| Terror in the Dark | 0.20% | ~448 |
+| A Mysterious Summons | 0.20% | ~448 |
+| Building Trust | 0.20% | ~448 |
+| Unearthed Evil | 0.20% | ~448 |
+| The Dinner Party | 0.20% | ~448 |
+| The Crumbling Temple | 0.20% | ~448 |
+| Seeking Allies | 0.20% | ~448 |
+| Are Ya Chicken? | 0.20% | ~448 |
+| Useless Allies | 0.20% | ~448 |
+| Mad Cow Disease | 0.20% | ~448 |
+| Exploring Port Nyanzaru | 0.20% | ~448 |
+| Underdeep Cartography | 0.20% | ~448 |
+| Friendly Imps | 0.20% | ~448 |
+| Pure Energy | 0.20% | ~448 |
 | The Chaotic Hunt for The Last Breath | 0.20% | ~380 |
 | There's a Flying Snake in my Boot! | 0.20% | ~380 |
 | Pros and CONs | 0.10% | ~224 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~190 |
 | Animated Giff | 0.10% | ~190 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 223,743 (Ranked 53)  
+Progressed: 223,755 (Ranked 53)  
 Completed: 2,196 (0.98%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -646,7 +646,7 @@ Completed: 2,196 (0.98%) (Ranked 120)
 | 2023-08-18 | 223,142 | 2,190 |
 | 2023-08-19 | 223,443 | 2,193 |
 | 2023-08-20 | 223,729 | 2,196 |
-| 2023-08-21 | 223,743 | 2,196 |
+| 2023-08-21 | 223,755 | 2,196 |
 ## Awards
 Max (Diverse Characters): 5,173  (Ranked 68)  
 Sum: 31,149 (Ranked 38)  

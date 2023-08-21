@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 403,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 58,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -217,9 +217,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 34624,
+  "EOS_Progressed": 34635,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 836,
+  "EOS_NewPlayers": 840,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -13677,6 +13677,11 @@
       "Time": "2023-08-21T00:05:25.0287774+00:00",
       "NumProgressed": 34624,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-08-21T01:44:46.439768+00:00",
+      "NumProgressed": 34635,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 29,
@@ -13688,7 +13693,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 5194
+      "UsersEstimate": 5195
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -13696,7 +13701,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 6925
+      "UsersEstimate": 6927
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -13728,7 +13733,7 @@
       "Name": "Down Boy!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 692
+      "UsersEstimate": 693
     },
     {
       "ID": "ACH_08_HIGHLANDS_SECRET_PASSAGE",
@@ -13760,7 +13765,7 @@
       "Name": "Killed by Death",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1731
+      "UsersEstimate": 1732
     },
     {
       "ID": "ACH_12_WOLF_RUN_NO_DAMAGE",
@@ -13768,7 +13773,7 @@
       "Name": "Four Legged Friend",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACH_13_DEFEATED_WEREBEAST",
@@ -13800,7 +13805,7 @@
       "Name": "A Snowball\u0027s Chance in Hell",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 692
+      "UsersEstimate": 693
     },
     {
       "ID": "ACH_17_DEFEATED_ICE_BEAST",
@@ -13808,7 +13813,7 @@
       "Name": "Ice To See You",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACH_18_DEFEATED_IMP",
@@ -13816,7 +13821,7 @@
       "Name": "Smack My Imp Up",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACH_19_DEFEATED_HOGRE",
@@ -13840,7 +13845,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1731
+      "UsersEstimate": 1732
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -13848,7 +13853,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2077
+      "UsersEstimate": 2078
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -13919,7 +13924,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 34624,
+      "Progressed": 34635,
       "Completed": 21
     }
   ],
@@ -13927,8 +13932,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-08-12T21:03:39.1122054+00:00",
-  "LastChanged_Achievements": "2023-08-21T00:05:25.0287769+00:00",
+  "LastChanged_Achievements": "2023-08-21T01:44:46.4397667+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:52.0390033+00:00",
-  "LastUpdate_Ratings": "2023-08-20T23:57:25.2666487+00:00",
-  "LastUpdate_Achievements": "2023-08-21T00:05:25.0288804+00:00"
+  "LastUpdate_Ratings": "2023-08-21T01:36:42.4554865+00:00",
+  "LastUpdate_Achievements": "2023-08-21T01:44:46.4398449+00:00"
 }

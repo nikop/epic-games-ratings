@@ -38,11 +38,11 @@
 | Here we go again! | 10.00% | ~9 |
 | Flight of the Bumblebee | 9.00% | ~8 |
 | Chase the Crow | 8.00% | ~7 |
-| Milk and Alcohol | 5.00% | ~5 |
+| Milk and Alcohol | 6.00% | ~6 |
+| As the Crow Flies | 5.00% | ~5 |
 | Gasoline | 4.00% | ~4 |
 | On the Road Again | 4.00% | ~4 |
 | Under the Bridge | 4.00% | ~4 |
-| As the Crow Flies | 4.00% | ~4 |
 | Unintended | 4.00% | ~4 |
 | Hospital Flowers | 3.00% | ~3 |
 | Voodoo Child | 2.00% | ~2 |

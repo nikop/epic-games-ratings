@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
     "PcReleaseDate": "2020-04-30T15:00:00+00:00",
@@ -226,7 +226,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 228439,
+  "EOS_Progressed": 228443,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 385,
   "EOS_NewCompleters": 0,
@@ -13046,6 +13046,11 @@
       "Time": "2023-08-21T00:05:49.6857749+00:00",
       "NumProgressed": 228439,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-21T01:45:26.9655394+00:00",
+      "NumProgressed": 228443,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -13121,7 +13126,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 82238
+      "UsersEstimate": 82239
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -13201,7 +13206,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 77669
+      "UsersEstimate": 77671
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -13280,7 +13285,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 228439,
+      "Progressed": 228443,
       "Completed": 3
     }
   ],
@@ -13288,8 +13293,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-08-11T01:38:33.2125072+00:00",
-  "LastChanged_Achievements": "2023-08-21T00:05:49.6857741+00:00",
+  "LastChanged_Achievements": "2023-08-21T01:45:26.965539+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:40.7595484+00:00",
-  "LastUpdate_Ratings": "2023-08-20T23:57:15.5742122+00:00",
-  "LastUpdate_Achievements": "2023-08-21T00:05:49.6858813+00:00"
+  "LastUpdate_Ratings": "2023-08-21T01:36:34.1497005+00:00",
+  "LastUpdate_Achievements": "2023-08-21T01:45:26.9656143+00:00"
 }

@@ -5968,9 +5968,9 @@
       "Count": 3364
     }
   ],
-  "EOS_Progressed": 223743,
+  "EOS_Progressed": 223755,
   "EOS_Completed": 2196,
-  "EOS_NewPlayers": 2093,
+  "EOS_NewPlayers": 2085,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -19318,6 +19318,11 @@
       "Time": "2023-08-21T00:04:55.2085222+00:00",
       "NumProgressed": 223743,
       "NumCompleted": 2196
+    },
+    {
+      "Time": "2023-08-21T01:44:16.0077323+00:00",
+      "NumProgressed": 223755,
+      "NumCompleted": 2196
     }
   ],
   "TotalAchievements": 516,
@@ -19329,7 +19334,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2237
+      "UsersEstimate": 2238
     },
     {
       "ID": "objective_completed_10",
@@ -19337,7 +19342,7 @@
       "Name": "Maddening",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "objective_completed_100",
@@ -19633,7 +19638,7 @@
       "Name": "The Silken Swamp",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "objective_completed_1090",
@@ -19889,7 +19894,7 @@
       "Name": "Supply Run",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "objective_completed_1142",
@@ -20193,7 +20198,7 @@
       "Name": "Were-verpowered",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "objective_completed_1203",
@@ -20305,7 +20310,7 @@
       "Name": "A Persistent Buzzing",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "objective_completed_130",
@@ -20433,7 +20438,7 @@
       "Name": "Beast Mode",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "objective_completed_149",
@@ -20449,7 +20454,7 @@
       "Name": "Terror in the Dark",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "objective_completed_150",
@@ -20521,7 +20526,7 @@
       "Name": "A Mysterious Summons",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "objective_completed_165",
@@ -20553,7 +20558,7 @@
       "Name": "Building Trust",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "objective_completed_17",
@@ -20657,7 +20662,7 @@
       "Name": "Unearthed Evil",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "objective_completed_20",
@@ -20745,7 +20750,7 @@
       "Name": "The Dinner Party",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "objective_completed_231",
@@ -21017,7 +21022,7 @@
       "Name": "The Crumbling Temple",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "objective_completed_36",
@@ -21121,7 +21126,7 @@
       "Name": "Seeking Allies",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "objective_completed_390",
@@ -21193,7 +21198,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "objective_completed_40",
@@ -21201,7 +21206,7 @@
       "Name": "Useless Allies",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "objective_completed_400",
@@ -21465,7 +21470,7 @@
       "Name": "Mad Cow Disease",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "objective_completed_54",
@@ -21473,7 +21478,7 @@
       "Name": "Exploring Port Nyanzaru",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "objective_completed_540",
@@ -22537,7 +22542,7 @@
       "Name": "Underdeep Cartography",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "objective_completed_8",
@@ -22545,7 +22550,7 @@
       "Name": "Friendly Imps",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "objective_completed_80",
@@ -23073,7 +23078,7 @@
       "Name": "Pure Energy",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "objective_completed_902",
@@ -23456,21 +23461,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 190017,
-      "Completed": 3279
+      "Progressed": 190029,
+      "Completed": 3280
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 223743,
+      "Progressed": 223755,
       "Completed": 2196
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-20T21:59:53.9979231+00:00",
-  "LastChanged_Achievements": "2023-08-21T00:04:55.2085217+00:00",
+  "LastChanged_Achievements": "2023-08-21T01:44:16.0077319+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:12.3267162+00:00",
-  "LastUpdate_Ratings": "2023-08-20T23:59:27.1445787+00:00",
-  "LastUpdate_Achievements": "2023-08-21T00:04:55.2111098+00:00"
+  "LastUpdate_Ratings": "2023-08-21T01:38:57.7443414+00:00",
+  "LastUpdate_Achievements": "2023-08-21T01:44:16.0101558+00:00"
 }

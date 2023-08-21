@@ -2,10 +2,10 @@
   "ID": "e86a9fab4e3145c191d96b0c6c94cad9",
   "Name": "Dark Future: Blood Red States",
   "ProductSlug": "dark-future-blood-red-states",
-  "Ranking_EOS_Progress": 548,
+  "Ranking_EOS_Progress": 549,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 363,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-07-20T11:00:00+00:00",
     "PcReleaseDate": "2019-04-18T23:58:45+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:29.5972529+00:00",
   "LastChanged": "2023-03-31T05:58:29.597253+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:49.2683876+00:00",
-  "LastUpdate_Ratings": "2023-08-21T00:00:27.3115567+00:00",
-  "LastUpdate_Achievements": "2023-08-21T00:04:13.3903863+00:00"
+  "LastUpdate_Ratings": "2023-08-21T01:40:03.1583879+00:00",
+  "LastUpdate_Achievements": "2023-08-21T01:43:33.382674+00:00"
 }

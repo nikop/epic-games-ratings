@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3127,
+  "EOS_Progressed": 3128,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -2789,6 +2789,11 @@
       "Time": "2023-08-20T22:04:31.9935267+00:00",
       "NumProgressed": 3127,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-08-21T01:43:34.9902738+00:00",
+      "NumProgressed": 3128,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -2848,7 +2853,7 @@
       "Name": "You and what Army?",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2783
+      "UsersEstimate": 2784
     },
     {
       "ID": "campaign10",
@@ -2936,7 +2941,7 @@
       "Name": "Flanked!",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 2470
+      "UsersEstimate": 2471
     },
     {
       "ID": "campaign20",
@@ -3008,7 +3013,7 @@
       "Name": "Do the Splits",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 1313
+      "UsersEstimate": 1314
     },
     {
       "ID": "scenario2",
@@ -3016,15 +3021,15 @@
       "Name": "Full Employment",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "scenario3",
       "SetID": "2h56gn1",
       "Name": "Not a Drop Wasted",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 188
+      "UsersEstimate": 156
     },
     {
       "ID": "scenario4",
@@ -3063,7 +3068,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3127,
+      "Progressed": 3128,
       "Completed": 11
     }
   ],
@@ -3071,8 +3076,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-08-21T00:04:14.9867584+00:00",
+  "LastChanged_Achievements": "2023-08-21T01:43:34.9902734+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:21.9855732+00:00",
-  "LastUpdate_Ratings": "2023-08-20T23:57:36.7055868+00:00",
-  "LastUpdate_Achievements": "2023-08-21T00:04:14.9867998+00:00"
+  "LastUpdate_Ratings": "2023-08-21T01:36:52.3070653+00:00",
+  "LastUpdate_Achievements": "2023-08-21T01:43:34.9903063+00:00"
 }

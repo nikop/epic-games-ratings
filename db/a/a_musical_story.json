@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 334,
   "Ranking_EOS_Completed": 114,
   "Ranking_EOS_NewPlayers": 308,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-03-04T18:00:00+00:00",
     "PcReleaseDate": "2022-03-04T18:00:00+00:00",
@@ -628,9 +628,9 @@
       "ID": "L7_5_PERFECT",
       "SetID": "6finf64",
       "Name": "As the Crow Flies",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "L7_FINISH",
@@ -660,9 +660,9 @@
       "ID": "L8_PERFECT",
       "SetID": "6finf64",
       "Name": "Milk and Alcohol",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "L9_FINISH",
@@ -701,8 +701,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.0267676+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.5327196+00:00",
   "LastChanged": "2023-03-31T05:57:21.0267677+00:00",
-  "LastChanged_Achievements": "2023-08-21T00:06:34.3882033+00:00",
+  "LastChanged_Achievements": "2023-08-21T01:46:07.4511283+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:10.5456451+00:00",
-  "LastUpdate_Ratings": "2023-08-20T23:59:26.364751+00:00",
-  "LastUpdate_Achievements": "2023-08-21T00:06:34.388258+00:00"
+  "LastUpdate_Ratings": "2023-08-21T01:38:56.9722585+00:00",
+  "LastUpdate_Achievements": "2023-08-21T01:46:07.451164+00:00"
 }

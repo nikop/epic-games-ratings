@@ -8,16 +8,16 @@
 | Now I'm Here | 68.00% | ~64 |
 | The Hitman | 53.00% | ~50 |
 | Keep Yourself Alive | 49.00% | ~46 |
-| Misfire | 38.00% | ~36 |
+| Misfire | 39.00% | ~37 |
 | All Dead, All Dead | 37.00% | ~35 |
+| The Miracle | 35.00% | ~33 |
 | The Invisible Man | 34.00% | ~32 |
-| The Miracle | 34.00% | ~32 |
-| We Will Rock You | 26.00% | ~24 |
-| Rock It | 22.00% | ~21 |
+| We Will Rock You | 27.00% | ~25 |
+| Rock It | 23.00% | ~22 |
 | Friends Will Be Friends | 11.00% | ~10 |
 | Killer Queen | 6.00% | ~6 |
-| Machines | 5.00% | ~5 |
-| Put Out the Fire | 4.00% | ~4 |
+| Machines | 6.00% | ~6 |
+| Put Out the Fire | 5.00% | ~5 |
 | Cool Cat | 2.00% | ~2 |
 | Good Company | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)

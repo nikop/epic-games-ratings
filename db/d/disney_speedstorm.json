@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -4498,9 +4498,9 @@
       "ID": "9",
       "SetID": "9p3jgda",
       "Name": "LEGENDARY HERO",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 436
+      "UsersEstimate": 467
     }
   ],
   "AchievementSets": [
@@ -4512,8 +4512,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-08-21T00:06:32.8427321+00:00",
+  "LastChanged_Achievements": "2023-08-21T01:46:06.060581+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:27.4246453+00:00",
-  "LastUpdate_Ratings": "2023-08-21T00:00:15.2659212+00:00",
-  "LastUpdate_Achievements": "2023-08-21T00:06:32.8427752+00:00"
+  "LastUpdate_Ratings": "2023-08-21T01:39:47.7572969+00:00",
+  "LastUpdate_Achievements": "2023-08-21T01:46:06.0606782+00:00"
 }

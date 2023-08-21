@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 155,
   "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -212,9 +212,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7255,
+  "EOS_Progressed": 7259,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 291,
+  "EOS_NewPlayers": 294,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -6112,6 +6112,11 @@
       "Time": "2023-08-21T00:05:17.684841+00:00",
       "NumProgressed": 7255,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-08-21T01:44:39.0116088+00:00",
+      "NumProgressed": 7259,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 21,
@@ -6163,7 +6168,7 @@
       "Name": "Clay Pigeon",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "ENERGY_SAVER",
@@ -6211,7 +6216,7 @@
       "Name": "Historian",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "ICONOCLAST",
@@ -6267,7 +6272,7 @@
       "Name": "Soul-Canon",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "THE_JOURNEY_ONWARDS",
@@ -6275,7 +6280,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 943
+      "UsersEstimate": 944
     },
     {
       "ID": "THING",
@@ -6290,7 +6295,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7255,
+      "Progressed": 7259,
       "Completed": 32
     }
   ],
@@ -6298,8 +6303,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-08-07T01:56:04.2387619+00:00",
-  "LastChanged_Achievements": "2023-08-21T00:05:17.6848404+00:00",
+  "LastChanged_Achievements": "2023-08-21T01:44:39.0116078+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:55.8261903+00:00",
-  "LastUpdate_Ratings": "2023-08-20T23:59:17.5276321+00:00",
-  "LastUpdate_Achievements": "2023-08-21T00:05:17.6848911+00:00"
+  "LastUpdate_Ratings": "2023-08-21T01:38:45.0696483+00:00",
+  "LastUpdate_Achievements": "2023-08-21T01:44:39.0117214+00:00"
 }
