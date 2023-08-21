@@ -48,7 +48,7 @@
 | 42 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 221 | 263 |
 | 42 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.85 | 141 | 305 |
 | 42 | [Subnautica](games/s/subnautica.md) | 4.85 | 685 | 169 |
-| 49 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 51 | 400 |
+| 49 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 51 | 401 |
 | 49 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 47 | 409 |
 | 49 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 217 | 268 |
 | 49 | [Grindstone](games/g/grindstone.md) | 4.84 | 0 | 513 |
@@ -68,7 +68,7 @@
 | 60 | [TUNIC](games/t/tunic.md) | 4.83 | 34 | 441 |
 | 67 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 0 | 513 |
 | 67 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 1,538 | 120 |
-| 67 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,728 | 60 |
+| 67 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,730 | 60 |
 | 67 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 0 | 513 |
 | 67 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 513 |
 | 67 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 33 | 448 |
@@ -198,14 +198,14 @@
 | 185 | [The Red Lantern](games/t/the_red_lantern.md) | 4.71 | 0 | 513 |
 | 185 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.71 | 1,785 | 114 |
 | 185 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.71 | 0 | 513 |
-| 199 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,556 | 72 |
+| 199 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,557 | 72 |
 | 199 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 376 | 222 |
 | 199 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.70 | 399 | 217 |
 | 199 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.70 | 0 | 513 |
 | 199 | [For The King](games/f/for_the_king.md) | 4.70 | 380 | 221 |
 | 199 | [GNOG](games/g/gnog.md) | 4.70 | 0 | 513 |
 | 199 | [GoNNER](games/g/gonner.md) | 4.70 | 0 | 513 |
-| 199 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 51 | 400 |
+| 199 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 51 | 401 |
 | 199 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 1,315 | 130 |
 | 199 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.70 | 1,868 | 112 |
 | 199 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.70 | 0 | 513 |
@@ -287,7 +287,7 @@
 | 274 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.66 | 0 | 513 |
 | 274 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.66 | 159 | 294 |
 | 274 | [LEGO® 2K Drive](games/l/lego®_2k_drive.md) | 4.66 | 0 | 513 |
-| 274 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.66 | 51 | 400 |
+| 274 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.66 | 51 | 401 |
 | 274 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 1,060 | 140 |
 | 274 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 1,909 | 110 |
 | 274 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.66 | 54 | 395 |
@@ -603,7 +603,7 @@
 | 592 | [Ratchet & Clank: Rift Apart](games/0/046aeb7098b94ac3961dad6c5dbe68c0.md) | 4.48 | 0 | 513 |
 | 592 | [Redout 2](games/r/redout_2.md) | 4.48 | 0 | 513 |
 | 592 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 0 | 513 |
-| 592 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.48 | 2,374 | 104 |
+| 592 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.48 | 2,380 | 104 |
 | 592 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.48 | 0 | 513 |
 | 592 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 4.48 | 100 | 337 |
 | 592 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.48 | 7,824 | 43 |
@@ -734,7 +734,7 @@
 | 732 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 0 | 513 |
 | 732 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,149 | 108 |
 | 732 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 513 |
-| 732 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 4.37 | 51 | 400 |
+| 732 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 4.37 | 52 | 399 |
 | 732 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.37 | 0 | 513 |
 | 732 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 4.37 | 0 | 513 |
 | 732 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.37 | 44 | 418 |
