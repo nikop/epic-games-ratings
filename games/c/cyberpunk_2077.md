@@ -6,33 +6,33 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 68.00% | ~592,924 |
-| Right Back At Ya | 39.00% | ~340,059 |
-| The Lovers | 35.00% | ~305,181 |
+| The Fool | 68.00% | ~592,926 |
+| Right Back At Ya | 39.00% | ~340,060 |
+| The Lovers | 35.00% | ~305,182 |
 | Stanislavski's Method | 29.00% | ~252,865 |
-| The Wheel of Fortune | 27.00% | ~235,426 |
-| The Hermit | 25.00% | ~217,987 |
+| The Wheel of Fortune | 27.00% | ~235,427 |
+| The Hermit | 25.00% | ~217,988 |
 | Christmas Tree Attack | 23.00% | ~200,548 |
 | True Soldier | 23.00% | ~200,548 |
-| The High Priestess | 22.00% | ~191,828 |
-| Legend of The Afterlife | 22.00% | ~191,828 |
-| Life of the Road | 21.00% | ~183,109 |
-| Full Body Conversion | 18.00% | ~156,950 |
-| The World | 18.00% | ~156,950 |
-| Bushido and Chill | 17.00% | ~148,231 |
+| The High Priestess | 22.00% | ~191,829 |
+| Legend of The Afterlife | 22.00% | ~191,829 |
+| Life of the Road | 21.00% | ~183,110 |
+| Full Body Conversion | 18.00% | ~156,951 |
+| The World | 18.00% | ~156,951 |
+| Bushido and Chill | 17.00% | ~148,232 |
 | Gun Fu | 15.00% | ~130,792 |
 | True Warrior | 15.00% | ~130,792 |
 | To Protect and Serve | 14.00% | ~122,073 |
 | I Am The Law | 14.00% | ~122,073 |
 | Judy vs Night City | 14.00% | ~122,073 |
-| Master Crafter | 13.00% | ~113,353 |
+| Master Crafter | 13.00% | ~113,354 |
 | Two Heads, One Bullet | 12.00% | ~104,634 |
 | The Quick and the Dead | 10.00% | ~87,195 |
-| The Wandering Fool | 9.00% | ~78,475 |
-| Ten out of Ten | 9.00% | ~78,475 |
+| The Wandering Fool | 9.00% | ~78,476 |
+| Ten out of Ten | 9.00% | ~78,476 |
 | Breathtaking | 8.00% | ~69,756 |
-| The Star | 7.00% | ~61,036 |
-| The Sun | 7.00% | ~61,036 |
+| The Star | 7.00% | ~61,037 |
+| The Sun | 7.00% | ~61,037 |
 | To Bad Decisions! | 6.00% | ~52,317 |
 | Must Be Rats | 4.00% | ~34,878 |
 | Temperance | 4.00% | ~34,878 |
@@ -48,10 +48,10 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Wasteland | 2.00% | ~17,439 |
 | Daemon In The Shell | 2.00% | ~17,439 |
 | The Devil | 2.00% | ~17,439 |
-| Gunslinger | 1.00% | ~8,719 |
+| Gunslinger | 1.00% | ~8,720 |
 | Rough Landing | 0.50% | ~4,360 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 871,947 (Ranked 14)  
+Progressed: 871,950 (Ranked 14)  
 Completed: 1,999 (0.23%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,21 +174,21 @@ Completed: 1,999 (0.23%) (Ranked 182)
 | 2023-08-18 | 871,464 | 1,978 |
 | 2023-08-19 | 871,633 | 1,987 |
 | 2023-08-20 | 871,813 | 1,995 |
-| 2023-08-21 | 871,947 | 1,999 |
+| 2023-08-21 | 871,950 | 1,999 |
 ## Awards
 Max (Character Customization): 75,970  (Ranked 9)  
-Sum: 201,046 (Ranked 13)  
+Sum: 201,087 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 75,970 |
 | This game has Great Boss Battles | 49,177 |
 | This game is Great for Beginners | 8,951 |
-| This game has Diverse Characters | 8,936 |
+| This game has Diverse Characters | 8,946 |
 | This game has Amazing Storytelling | 8,930 |
+| This game is Extremely Fun | 8,793 |
 | This game is Highly Recommended | 8,781 |
-| This game is Extremely Fun | 8,778 |
-| This game is Relaxing | 8,676 |
+| This game is Relaxing | 8,692 |
 | This game has Quickly Understood Controls | 8,606 |
 | This game has Amazing Characters | 8,602 |
 | This game has a Creative Community | 5,639 |
@@ -409,4 +409,4 @@ Diff (max vs sum): -4
 | 2023-08-18 | 4.62 | - | 75,741 | 200,331 |
 | 2023-08-19 | 4.62 | - | 75,809 | 200,559 |
 | 2023-08-20 | 4.62 | - | 75,896 | 200,851 |
-| 2023-08-21 | 4.62 | - | 75,970 | 201,046 |
+| 2023-08-21 | 4.62 | - | 75,970 | 201,087 |

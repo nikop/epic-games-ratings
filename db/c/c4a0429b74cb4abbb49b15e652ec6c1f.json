@@ -2,7 +2,7 @@
   "ID": "c4a0429b74cb4abbb49b15e652ec6c1f",
   "Name": "Deverse World",
   "ProductSlug": "deverse-world-3ccb84",
-  "Ranking_EOS_Progress": 272,
+  "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 92,
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 262,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1092,9 +1092,9 @@
       "ID": "build_your_world",
       "SetID": "5fi1i42",
       "Name": "Construct your world",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     },
     {
       "ID": "goblin_slayed",
@@ -1235,8 +1235,8 @@
   ],
   "FirstSeen": "2023-07-12T15:57:01.7070767+00:00",
   "FirstSeenAchievements": "2023-07-18T16:05:27.8243884+00:00",
-  "LastChanged_Achievements": "2023-08-21T20:07:02.8536414+00:00",
+  "LastChanged_Achievements": "2023-08-21T21:06:34.0955798+00:00",
   "LastUpdate_AppInfo": "2023-08-17T07:57:28.1770851+00:00",
-  "LastUpdate_Ratings": "2023-08-21T19:59:10.2134356+00:00",
-  "LastUpdate_Achievements": "2023-08-21T20:07:02.8536651+00:00"
+  "LastUpdate_Ratings": "2023-08-21T20:59:04.1575787+00:00",
+  "LastUpdate_Achievements": "2023-08-21T21:06:34.0955967+00:00"
 }

@@ -59,6 +59,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus | 1.00% | ~135 |
 | Great Ziggurat | 1.00% | ~135 |
 | Ishtar Gate | 1.00% | ~135 |
+| Mausoleum | 1.00% | ~135 |
 | Musaeum | 1.00% | ~135 |
 | Necropolis | 1.00% | ~135 |
 | Learn to Play 1 | 1.00% | ~135 |
@@ -71,7 +72,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mythology | 1.00% | ~135 |
 | Champions | 0.90% | ~122 |
 | Sages | 0.90% | ~122 |
-| Mausoleum | 0.90% | ~122 |
 | Greece | 0.90% | ~122 |
 | Points Victory | 0.90% | ~122 |
 | Hanging Gardens in Babylon | 0.80% | ~108 |
@@ -79,7 +79,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Conqueror | 0.80% | ~108 |
 | Mighty | 0.80% | ~108 |
 | Victorious | 0.80% | ~108 |
+| Persian Paganism | 0.80% | ~108 |
 | Building Wonders | 0.80% | ~108 |
+| Legalism | 0.80% | ~108 |
 | Lion | 0.70% | ~95 |
 | Good Difficulty | 0.70% | ~95 |
 | Patrons | 0.70% | ~95 |
@@ -87,14 +89,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Traders | 0.70% | ~95 |
 | Hittite Iron | 0.70% | ~95 |
 | Circus Maximus | 0.70% | ~95 |
+| Hagia Sophia | 0.70% | ~95 |
 | Temple of Solomon | 0.70% | ~95 |
 | Pantheon | 0.70% | ~95 |
 | Via Recta Souk | 0.70% | ~95 |
 | Learn to Play 3 | 0.70% | ~95 |
 | Power to the People | 0.70% | ~95 |
-| Persian Paganism | 0.70% | ~95 |
 | Economic Reform | 0.70% | ~95 |
-| Legalism | 0.70% | ~95 |
 | Redemption | 0.70% | ~95 |
 | Legionary | 0.70% | ~95 |
 | Phalangite | 0.70% | ~95 |
@@ -105,11 +106,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ready | 0.60% | ~81 |
 | Subjugator | 0.60% | ~81 |
 | Riders | 0.60% | ~81 |
-| Hagia Sophia | 0.60% | ~81 |
 | Church of the Holy Sepulchre | 0.60% | ~81 |
 | Carthage | 0.60% | ~81 |
 | Assyrian Paganism | 0.60% | ~81 |
 | Dualism | 0.60% | ~81 |
+| Revelation | 0.60% | ~81 |
 | Cimmerian Archer | 0.60% | ~81 |
 | Ambition Victory | 0.60% | ~81 |
 | Bad Heir Day | 0.50% | ~68 |
@@ -124,7 +125,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Military Prestige | 0.50% | ~68 |
 | Enlightenment | 0.50% | ~68 |
 | Gnosticism | 0.50% | ~68 |
-| Revelation | 0.50% | ~68 |
 | Veneration | 0.50% | ~68 |
 | Kushite Cavalry | 0.50% | ~68 |
 | Ishtar Gate in Babylon | 0.40% | ~54 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,518 (Ranked 118)  
+Progressed: 13,519 (Ranked 118)  
 Completed: 5 (0.04%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -426,7 +426,7 @@ Completed: 5 (0.04%) (Ranked 231)
 | 2023-08-18 | 13,460 | 5 |
 | 2023-08-19 | 13,485 | 5 |
 | 2023-08-20 | 13,503 | 5 |
-| 2023-08-21 | 13,518 | 5 |
+| 2023-08-21 | 13,519 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,797 (Ranked 207)  

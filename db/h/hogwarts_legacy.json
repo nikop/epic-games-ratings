@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 193,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -6514,10 +6514,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 41360,
       "NumberOfAwardsMax": 21871
+    },
+    {
+      "Time": "2023-08-21T20:59:49.449939+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 41369,
+      "NumberOfAwardsMax": 21871
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 41360,
+  "NumberOfAwards": 41369,
   "NumberOfAwardsMax": 21871,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6549,7 +6555,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 980
+      "Count": 984
     },
     {
       "Text": "This game is Extremely Fun",
@@ -6561,7 +6567,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 942
+      "Count": 945
     },
     {
       "Text": "This game is Relaxing",
@@ -6585,7 +6591,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 852
+      "Count": 854
     },
     {
       "Text": "This game has a Creative Community",
@@ -6594,7 +6600,7 @@
       "Count": 598
     }
   ],
-  "EOS_Progressed": 290567,
+  "EOS_Progressed": 290571,
   "EOS_Completed": 453,
   "EOS_NewPlayers": 467,
   "EOS_NewCompleters": 2,
@@ -19884,6 +19890,11 @@
       "Time": "2023-08-21T20:07:22.2929797+00:00",
       "NumProgressed": 290567,
       "NumCompleted": 453
+    },
+    {
+      "Time": "2023-08-21T21:06:50.1798056+00:00",
+      "NumProgressed": 290571,
+      "NumCompleted": 453
     }
   ],
   "TotalAchievements": 45,
@@ -19935,7 +19946,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 5,
       "XP": 70,
-      "UsersEstimate": 14528
+      "UsersEstimate": 14529
     },
     {
       "ID": "PFA_15",
@@ -20031,7 +20042,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14528
+      "UsersEstimate": 14529
     },
     {
       "ID": "PFA_26",
@@ -20063,7 +20074,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14528
+      "UsersEstimate": 14529
     },
     {
       "ID": "PFA_3",
@@ -20119,7 +20130,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 23245
+      "UsersEstimate": 23246
     },
     {
       "ID": "PFA_36",
@@ -20183,7 +20194,7 @@
       "Name": "Raising Expectations",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 14528
+      "UsersEstimate": 14529
     },
     {
       "ID": "PFA_43",
@@ -20199,7 +20210,7 @@
       "Name": "The Spell Master",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23245
+      "UsersEstimate": 23246
     },
     {
       "ID": "PFA_45",
@@ -20223,7 +20234,7 @@
       "Name": "First Class Student",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 31962
+      "UsersEstimate": 31963
     },
     {
       "ID": "PFA_7",
@@ -20231,7 +20242,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 31962
+      "UsersEstimate": 31963
     },
     {
       "ID": "PFA_8",
@@ -20247,23 +20258,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23245
+      "UsersEstimate": 23246
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 290567,
+      "Progressed": 290571,
       "Completed": 453
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-08-21T19:59:53.6317815+00:00",
-  "LastChanged_Achievements": "2023-08-21T20:07:22.2929791+00:00",
+  "LastChanged": "2023-08-21T20:59:49.4499388+00:00",
+  "LastChanged_Achievements": "2023-08-21T21:06:50.1798051+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:55.8476503+00:00",
-  "LastUpdate_Ratings": "2023-08-21T19:59:53.6317823+00:00",
-  "LastUpdate_Achievements": "2023-08-21T20:07:22.2931121+00:00"
+  "LastUpdate_Ratings": "2023-08-21T20:59:49.4499394+00:00",
+  "LastUpdate_Achievements": "2023-08-21T21:06:50.1798999+00:00"
 }

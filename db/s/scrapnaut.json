@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
@@ -135,9 +135,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 352,
+  "EOS_Progressed": 353,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -1015,6 +1015,11 @@
       "Time": "2023-08-21T20:05:38.5623886+00:00",
       "NumProgressed": 352,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-21T21:05:23.2494253+00:00",
+      "NumProgressed": 353,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 31,
@@ -1048,9 +1053,9 @@
       "ID": "ACH_COLLECT_100_ELECTROSCRAP",
       "SetID": "7c4cldc",
       "Name": "Electro-Scrap Master",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 92
+      "UsersEstimate": 88
     },
     {
       "ID": "ACH_COLLECT_100_SCRAP",
@@ -1082,7 +1087,7 @@
       "Name": "Master Of Technology",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ACH_COLLECT_20_YELLOW_BOOKS",
@@ -1120,9 +1125,9 @@
       "ID": "ACH_COOK",
       "SetID": "7c4cldc",
       "Name": "Cook",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 151
+      "UsersEstimate": 148
     },
     {
       "ID": "ACH_CUT_100_TREES",
@@ -1170,7 +1175,7 @@
       "Name": "Robot Hunter",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH_KILL_20",
@@ -1234,15 +1239,15 @@
       "Name": "Smelter",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ACH_SURVIVE_10_DAYS",
       "SetID": "7c4cldc",
       "Name": "Survivor",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 116
     },
     {
       "ID": "ACH_SURVIVE_20_DAYS",
@@ -1273,7 +1278,7 @@
     {
       "ID": "7c4cldc",
       "IsBase": true,
-      "Progressed": 352,
+      "Progressed": 353,
       "Completed": 1
     }
   ],
@@ -1281,8 +1286,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-06-01T06:59:03.7150344+00:00",
-  "LastChanged_Achievements": "2023-08-21T20:05:38.5623878+00:00",
+  "LastChanged_Achievements": "2023-08-21T21:05:23.2494249+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:50.1715597+00:00",
-  "LastUpdate_Ratings": "2023-08-21T20:01:19.46072+00:00",
-  "LastUpdate_Achievements": "2023-08-21T20:05:38.5624224+00:00"
+  "LastUpdate_Ratings": "2023-08-21T21:00:56.8163361+00:00",
+  "LastUpdate_Achievements": "2023-08-21T21:05:23.2494461+00:00"
 }

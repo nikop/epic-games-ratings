@@ -271,9 +271,9 @@
       "ID": "28",
       "SetID": "5e3maia",
       "Name": "Leader",
-      "Percentage": 25,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "29",
@@ -327,17 +327,17 @@
       "ID": "36",
       "SetID": "5e3maia",
       "Name": "Stormtrooper",
-      "Percentage": 13,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "37",
       "SetID": "5e3maia",
       "Name": "Veteran",
-      "Percentage": 21,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "38",
@@ -391,17 +391,17 @@
       "ID": "43",
       "SetID": "5e3maia",
       "Name": "Emperor",
-      "Percentage": 21,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "44",
       "SetID": "5e3maia",
       "Name": "Fan",
-      "Percentage": 17,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "45",
@@ -662,8 +662,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-08-21T20:05:20.6641455+00:00",
+  "LastChanged_Achievements": "2023-08-21T21:05:08.6716021+00:00",
   "LastUpdate_AppInfo": "2023-08-18T21:57:04.0506989+00:00",
-  "LastUpdate_Ratings": "2023-08-21T19:58:38.0395515+00:00",
-  "LastUpdate_Achievements": "2023-08-21T20:05:20.6642652+00:00"
+  "LastUpdate_Ratings": "2023-08-21T20:58:34.3762729+00:00",
+  "LastUpdate_Achievements": "2023-08-21T21:05:08.6716592+00:00"
 }

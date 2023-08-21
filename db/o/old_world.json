@@ -1635,9 +1635,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13518,
+  "EOS_Progressed": 13519,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -10050,6 +10050,11 @@
       "Time": "2023-08-21T19:06:23.544402+00:00",
       "NumProgressed": 13518,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-21T21:06:08.8046388+00:00",
+      "NumProgressed": 13519,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -11419,9 +11424,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_HAGIA_SOPHIA",
       "SetID": "9201eeb",
       "Name": "Hagia Sophia",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 95
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HANGING_GARDENS",
@@ -11483,9 +11488,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_MAUSOLEUM",
       "SetID": "9201eeb",
       "Name": "Mausoleum",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 135
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_MUSAEUM",
@@ -11907,9 +11912,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_PERSIA",
       "SetID": "7l38kb8",
       "Name": "Persian Paganism",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 108
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_ROME",
@@ -12043,9 +12048,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_LEGALISM",
       "SetID": "7l38kb8",
       "Name": "Legalism",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 108
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_MYTHOLOGY",
@@ -12067,9 +12072,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_REVELATION",
       "SetID": "7l38kb8",
       "Name": "Revelation",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 81
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_VENERATION",
@@ -12428,21 +12433,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13518,
+      "Progressed": 13519,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13518,
+      "Progressed": 13519,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-21T01:38:46.5764658+00:00",
-  "LastChanged_Achievements": "2023-08-21T20:06:32.2808751+00:00",
+  "LastChanged_Achievements": "2023-08-21T21:06:08.8046383+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:59.678182+00:00",
-  "LastUpdate_Ratings": "2023-08-21T20:00:35.4116178+00:00",
-  "LastUpdate_Achievements": "2023-08-21T20:06:32.2818241+00:00"
+  "LastUpdate_Ratings": "2023-08-21T21:00:26.1347144+00:00",
+  "LastUpdate_Achievements": "2023-08-21T21:06:08.8054046+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3116,
+  "EOS_Progressed": 3117,
   "EOS_Completed": 153,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 4.91,
   "EosHistory": [
@@ -4310,6 +4310,11 @@
       "Time": "2023-08-21T14:03:14.9921321+00:00",
       "NumProgressed": 3116,
       "NumCompleted": 153
+    },
+    {
+      "Time": "2023-08-21T21:03:15.1061709+00:00",
+      "NumProgressed": 3117,
+      "NumCompleted": 153
     }
   ],
   "TotalAchievements": 24,
@@ -4345,7 +4350,7 @@
       "Name": "TRAINING HARD",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "13",
@@ -4417,7 +4422,7 @@
       "Name": "PROTECTED",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 1028
+      "UsersEstimate": 1029
     },
     {
       "ID": "21",
@@ -4425,7 +4430,7 @@
       "Name": "ACE DEFENDER",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "22",
@@ -4457,7 +4462,7 @@
       "Name": "FRIENDLY",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "4",
@@ -4481,7 +4486,7 @@
       "Name": "PRO",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 1059
+      "UsersEstimate": 1060
     },
     {
       "ID": "7",
@@ -4505,20 +4510,20 @@
       "Name": "LEGENDARY HERO",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     }
   ],
   "AchievementSets": [
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 3116,
+      "Progressed": 3117,
       "Completed": 153
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-08-21T20:02:34.8450665+00:00",
+  "LastChanged_Achievements": "2023-08-21T21:03:15.1061705+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:27.4246453+00:00",
-  "LastUpdate_Ratings": "2023-08-21T20:01:56.5163502+00:00",
-  "LastUpdate_Achievements": "2023-08-21T20:02:34.8451197+00:00"
+  "LastUpdate_Ratings": "2023-08-21T21:01:29.181127+00:00",
+  "LastUpdate_Achievements": "2023-08-21T21:03:15.1062081+00:00"
 }

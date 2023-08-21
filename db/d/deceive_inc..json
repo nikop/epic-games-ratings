@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17537,
+  "EOS_Progressed": 17538,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 166,
+  "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8756,6 +8756,11 @@
       "Time": "2023-08-21T20:06:12.4816303+00:00",
       "NumProgressed": 17537,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-21T21:05:51.6156505+00:00",
+      "NumProgressed": 17538,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -8839,7 +8844,7 @@
       "Name": "Social of Solace",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 701
+      "UsersEstimate": 702
     },
     {
       "ID": "0011",
@@ -8967,7 +8972,7 @@
       "Name": "The Living Portrait",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2104
+      "UsersEstimate": 2105
     },
     {
       "ID": "0027",
@@ -9007,7 +9012,7 @@
       "Name": "Private Collection",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2104
+      "UsersEstimate": 2105
     },
     {
       "ID": "0032",
@@ -9015,7 +9020,7 @@
       "Name": "Killer Looks",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2104
+      "UsersEstimate": 2105
     },
     {
       "ID": "0033",
@@ -9023,7 +9028,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2104
+      "UsersEstimate": 2105
     },
     {
       "ID": "0034",
@@ -9031,7 +9036,7 @@
       "Name": "Smells Like Trouble",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2104
+      "UsersEstimate": 2105
     },
     {
       "ID": "0035",
@@ -9054,7 +9059,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17537,
+      "Progressed": 17538,
       "Completed": 1
     }
   ],
@@ -9062,8 +9067,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-12T19:04:41.1874293+00:00",
-  "LastChanged_Achievements": "2023-08-21T20:06:12.4816293+00:00",
+  "LastChanged_Achievements": "2023-08-21T21:05:51.61565+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:28.6624095+00:00",
-  "LastUpdate_Ratings": "2023-08-21T19:57:28.31533+00:00",
-  "LastUpdate_Achievements": "2023-08-21T20:06:12.4817216+00:00"
+  "LastUpdate_Ratings": "2023-08-21T20:57:37.3501008+00:00",
+  "LastUpdate_Achievements": "2023-08-21T21:05:51.6157113+00:00"
 }

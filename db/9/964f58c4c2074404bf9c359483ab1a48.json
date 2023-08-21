@@ -2,7 +2,7 @@
   "ID": "964f58c4c2074404bf9c359483ab1a48",
   "Name": "Midnight Ghost Hunt",
   "ProductSlug": "midnight-ghost-hunt",
-  "Ranking_Rating": 732,
+  "Ranking_Rating": 731,
   "Ranking_Popularity": 399,
   "Ranking_PopularitySum": 321,
   "Ranking_EOS_Progress": 10,
@@ -1116,9 +1116,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 1255230,
+  "EOS_Progressed": 1255256,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3897,
+  "EOS_NewPlayers": 3881,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10361,6 +10361,11 @@
       "Time": "2023-08-21T20:04:40.0852901+00:00",
       "NumProgressed": 1255230,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-21T21:04:43.1402237+00:00",
+      "NumProgressed": 1255256,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -10372,7 +10377,7 @@
       "Name": "Possess 1000 Props!",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 2510
+      "UsersEstimate": 2511
     },
     {
       "ID": "100_corruption_kills",
@@ -10396,7 +10401,7 @@
       "Name": "100 Kills as a Ghost!",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 2510
+      "UsersEstimate": 2511
     },
     {
       "ID": "100_ghost_wins",
@@ -10484,7 +10489,7 @@
       "Name": "10 Kills as a Ghost!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 138075
+      "UsersEstimate": 138078
     },
     {
       "ID": "10_ghost_wins",
@@ -10492,7 +10497,7 @@
       "Name": "10 Ghost Wins!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 100418
+      "UsersEstimate": 100420
     },
     {
       "ID": "10_hero_prop_kills",
@@ -10508,7 +10513,7 @@
       "Name": "10 Kills as a Hunter!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 200837
+      "UsersEstimate": 200841
     },
     {
       "ID": "10_hunter_wins",
@@ -10516,7 +10521,7 @@
       "Name": "10 Hunter Wins!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 75314
+      "UsersEstimate": 75315
     },
     {
       "ID": "10_prop_headshots",
@@ -10620,7 +10625,7 @@
       "Name": "250 Taunts!",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 12552
+      "UsersEstimate": 12553
     },
     {
       "ID": "25_cosmetic_unlocks",
@@ -10636,7 +10641,7 @@
       "Name": "25 Taunts In One Game!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 50209
+      "UsersEstimate": 50210
     },
     {
       "ID": "50_riot_shield_kills",
@@ -10660,7 +10665,7 @@
       "Name": "ACE!",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 125523
+      "UsersEstimate": 125526
     },
     {
       "ID": "ghost_win",
@@ -10668,7 +10673,7 @@
       "Name": "Ghost Victory!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 753138
+      "UsersEstimate": 753154
     },
     {
       "ID": "hunter_win",
@@ -10676,7 +10681,7 @@
       "Name": "Hunter Victory!",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 690376
+      "UsersEstimate": 690391
     },
     {
       "ID": "master_of_loadouts",
@@ -10700,14 +10705,14 @@
       "Name": "Unlock Any Cosmetic",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 288703
+      "UsersEstimate": 288709
     }
   ],
   "AchievementSets": [
     {
       "ID": "aa92n6g",
       "IsBase": true,
-      "Progressed": 1255230,
+      "Progressed": 1255256,
       "Completed": 0
     }
   ],
@@ -10715,8 +10720,8 @@
   "FirstSeenRating": "2023-06-02T07:56:53.1160177+00:00",
   "FirstSeenAchievements": "2023-06-01T15:01:01.0187435+00:00",
   "LastChanged": "2023-08-21T06:59:14.4711044+00:00",
-  "LastChanged_Achievements": "2023-08-21T20:04:40.0852895+00:00",
+  "LastChanged_Achievements": "2023-08-21T21:04:43.1402232+00:00",
   "LastUpdate_AppInfo": "2023-08-17T23:57:10.3619034+00:00",
-  "LastUpdate_Ratings": "2023-08-21T19:59:21.7371564+00:00",
-  "LastUpdate_Achievements": "2023-08-21T20:04:40.0853719+00:00"
+  "LastUpdate_Ratings": "2023-08-21T20:59:11.225745+00:00",
+  "LastUpdate_Achievements": "2023-08-21T21:04:43.1402906+00:00"
 }

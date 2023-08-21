@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 248359,
+  "EOS_Progressed": 248360,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 310,
+  "EOS_NewPlayers": 311,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11884,6 +11884,11 @@
       "Time": "2023-08-21T20:05:30.2474537+00:00",
       "NumProgressed": 248359,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-21T21:05:16.4404057+00:00",
+      "NumProgressed": 248360,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 46,
@@ -11919,7 +11924,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 52155
+      "UsersEstimate": 52156
     },
     {
       "ID": "blotbuster",
@@ -12071,7 +12076,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 131630
+      "UsersEstimate": 131631
     },
     {
       "ID": "indegestible",
@@ -12095,7 +12100,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 64573
+      "UsersEstimate": 64574
     },
     {
       "ID": "justABit",
@@ -12255,14 +12260,14 @@
       "Name": "You Juan-A-Go?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 39737
+      "UsersEstimate": 39738
     }
   ],
   "AchievementSets": [
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 248359,
+      "Progressed": 248360,
       "Completed": 4
     }
   ],
@@ -12270,8 +12275,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-08-21T20:05:30.2474531+00:00",
+  "LastChanged_Achievements": "2023-08-21T21:05:16.4404051+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:44.1764965+00:00",
-  "LastUpdate_Ratings": "2023-08-21T20:02:10.046312+00:00",
-  "LastUpdate_Achievements": "2023-08-21T20:05:30.2475912+00:00"
+  "LastUpdate_Ratings": "2023-08-21T21:01:42.7441627+00:00",
+  "LastUpdate_Achievements": "2023-08-21T21:05:16.4404896+00:00"
 }

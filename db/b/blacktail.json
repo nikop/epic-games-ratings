@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -60,9 +60,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 631,
+  "EOS_Progressed": 632,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1595,6 +1595,11 @@
       "Time": "2023-08-21T01:43:28.7904734+00:00",
       "NumProgressed": 631,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-21T21:05:06.1280535+00:00",
+      "NumProgressed": 632,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -1694,7 +1699,7 @@
       "Name": "Gold rush",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "GossipGirl",
@@ -1718,7 +1723,7 @@
       "Name": "Spirit animal",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "LiarLiar",
@@ -1780,9 +1785,9 @@
       "ID": "SlavicSquatter",
       "SetID": "2aagp3d",
       "Name": "Slavic squatter",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 57
     },
     {
       "ID": "Specialist",
@@ -1861,7 +1866,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 631,
+      "Progressed": 632,
       "Completed": 1
     }
   ],
@@ -1869,8 +1874,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-06-17T03:57:55.2766718+00:00",
-  "LastChanged_Achievements": "2023-08-21T20:05:17.6082694+00:00",
+  "LastChanged_Achievements": "2023-08-21T21:05:06.1280529+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:51.366929+00:00",
-  "LastUpdate_Ratings": "2023-08-21T20:00:30.324594+00:00",
-  "LastUpdate_Achievements": "2023-08-21T20:05:17.608335+00:00"
+  "LastUpdate_Ratings": "2023-08-21T21:00:21.3209572+00:00",
+  "LastUpdate_Achievements": "2023-08-21T21:05:06.1280915+00:00"
 }

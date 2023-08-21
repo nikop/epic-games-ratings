@@ -2,7 +2,7 @@
   "ID": "eb348461cdaf4bec9d69a1c4bb39ecc4",
   "Name": "Hand of Fate 2",
   "ProductSlug": "hand-of-fate-2",
-  "Ranking_Rating": 473,
+  "Ranking_Rating": 472,
   "Ranking_Popularity": 437,
   "Ranking_PopularitySum": 377,
   "Ranking_EOS_Progress": 23,
@@ -874,7 +874,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 661133,
+  "EOS_Progressed": 661134,
   "EOS_Completed": 168,
   "EOS_NewPlayers": 331,
   "EOS_NewCompleters": 0,
@@ -12564,6 +12564,11 @@
       "Time": "2023-08-21T20:06:10.0902043+00:00",
       "NumProgressed": 661133,
       "NumCompleted": 168
+    },
+    {
+      "Time": "2023-08-21T21:05:49.3944816+00:00",
+      "NumProgressed": 661134,
+      "NumCompleted": 168
     }
   ],
   "TotalAchievements": 48,
@@ -12583,7 +12588,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 383457
+      "UsersEstimate": 383458
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -12839,7 +12844,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 165283
+      "UsersEstimate": 165284
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -12958,15 +12963,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 661133,
+      "Progressed": 661134,
       "Completed": 168
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-08-21T04:59:27.6995602+00:00",
-  "LastChanged_Achievements": "2023-08-21T20:06:10.0902036+00:00",
+  "LastChanged_Achievements": "2023-08-21T21:05:49.3944812+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:36.6517701+00:00",
-  "LastUpdate_Ratings": "2023-08-21T20:00:16.5595614+00:00",
-  "LastUpdate_Achievements": "2023-08-21T20:06:10.0903533+00:00"
+  "LastUpdate_Ratings": "2023-08-21T21:00:07.7188184+00:00",
+  "LastUpdate_Achievements": "2023-08-21T21:05:49.3945652+00:00"
 }

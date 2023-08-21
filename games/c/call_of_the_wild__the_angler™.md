@@ -30,8 +30,8 @@ Number of Ratings: 281  (23.09.2022)
 | Gonna Need a Bigger Boat | 3.00% | ~149 |
 | Rod and Troll | 2.00% | ~86 |
 | Taylor Made | 1.00% | ~50 |
+| No Fin left to give | 0.70% | ~35 |
 | Head for Heights | 0.60% | ~30 |
-| No Fin left to give | 0.60% | ~30 |
 | Lake Me up Before You Go Go | 0.50% | ~25 |
 | Fish upon a Star | 0.50% | ~22 |
 | Trollsporet Tale Teller | 0.30% | ~13 |

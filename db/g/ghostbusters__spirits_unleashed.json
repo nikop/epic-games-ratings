@@ -1878,9 +1878,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 25247,
+  "EOS_Progressed": 25248,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 165,
+  "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -10983,6 +10983,11 @@
       "Time": "2023-08-21T19:04:48.7612394+00:00",
       "NumProgressed": 25247,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-08-21T21:04:50.0976305+00:00",
+      "NumProgressed": 25248,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 51,
@@ -10994,7 +10999,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 18430
+      "UsersEstimate": 18431
     },
     {
       "ID": "Animated",
@@ -11002,7 +11007,7 @@
       "Name": "Animated",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 6059
+      "UsersEstimate": 6060
     },
     {
       "ID": "Back_Off",
@@ -11010,7 +11015,7 @@
       "Name": "Back Off",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 8836
+      "UsersEstimate": 8837
     },
     {
       "ID": "Best_Insurance",
@@ -11274,7 +11279,7 @@
       "Name": "Skilled",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 6059
+      "UsersEstimate": 6060
     },
     {
       "ID": "Solo_Capture",
@@ -11298,7 +11303,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 21712
+      "UsersEstimate": 21713
     },
     {
       "ID": "Summoner",
@@ -11322,7 +11327,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 13633
+      "UsersEstimate": 13634
     },
     {
       "ID": "Teamwork",
@@ -11330,7 +11335,7 @@
       "Name": "Teamwork",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 10856
+      "UsersEstimate": 10857
     },
     {
       "ID": "Terrifying",
@@ -11338,7 +11343,7 @@
       "Name": "Terrifying",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 4544
+      "UsersEstimate": 4545
     },
     {
       "ID": "Therapeutic",
@@ -11362,7 +11367,7 @@
       "Name": "Tobin\u0027s Prodigy",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 4544
+      "UsersEstimate": 4545
     },
     {
       "ID": "Ultimate_Defense",
@@ -11401,7 +11406,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 25247,
+      "Progressed": 25248,
       "Completed": 52
     }
   ],
@@ -11409,8 +11414,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-08-20T20:00:34.3047121+00:00",
-  "LastChanged_Achievements": "2023-08-21T20:04:49.7314063+00:00",
+  "LastChanged_Achievements": "2023-08-21T21:04:50.09763+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:37.9111082+00:00",
-  "LastUpdate_Ratings": "2023-08-21T20:02:06.9096941+00:00",
-  "LastUpdate_Achievements": "2023-08-21T20:04:49.7315225+00:00"
+  "LastUpdate_Ratings": "2023-08-21T21:01:38.5777326+00:00",
+  "LastUpdate_Achievements": "2023-08-21T21:04:50.0977075+00:00"
 }
