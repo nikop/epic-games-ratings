@@ -16,20 +16,20 @@
 | Something firmly rooted... | 29.00% | ~8 |
 | Something reflective... | 29.00% | ~8 |
 | Something free... | 25.00% | ~7 |
-| Something to make you dream... (fragile) | 21.00% | ~6 |
-| Something free... (fragile) | 18.00% | ~5 |
-| Something gentle... (fragile) | 18.00% | ~5 |
-| Something ever-changing... (fragile) | 18.00% | ~5 |
-| Something fully in bloom... (fragile) | 18.00% | ~5 |
-| Something fragile... | 18.00% | ~5 |
-| Something foundational... (fragile) | 18.00% | ~5 |
-| Somewhere to belong... (fragile) | 18.00% | ~5 |
-| Something monumental... (fragile) | 18.00% | ~5 |
-| Something to long for... (fragile) | 18.00% | ~5 |
-| Something firmly rooted... (fragile) | 18.00% | ~5 |
-| Something reflective... (fragile) | 18.00% | ~5 |
+| Something to make you dream... (fragile) | 25.00% | ~7 |
+| Something free... (fragile) | 21.00% | ~6 |
+| Something gentle... (fragile) | 21.00% | ~6 |
+| Something ever-changing... (fragile) | 21.00% | ~6 |
+| Something fully in bloom... (fragile) | 21.00% | ~6 |
+| Something fragile... | 21.00% | ~6 |
+| Something foundational... (fragile) | 21.00% | ~6 |
+| Somewhere to belong... (fragile) | 21.00% | ~6 |
+| Something monumental... (fragile) | 21.00% | ~6 |
+| Something to long for... (fragile) | 21.00% | ~6 |
+| Something firmly rooted... (fragile) | 21.00% | ~6 |
+| Something reflective... (fragile) | 21.00% | ~6 |
+| Something more... (fragile) | 14.00% | ~4 |
 | Something more... | 11.00% | ~3 |
-| Something more... (fragile) | 11.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 28 (Ranked 401)  
 Completed: 3 (10.71%) (Ranked 25)  

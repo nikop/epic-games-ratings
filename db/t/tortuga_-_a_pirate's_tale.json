@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -236,9 +236,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16112,
+  "EOS_Progressed": 16113,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4041,6 +4041,11 @@
       "Time": "2023-08-21T05:06:19.966897+00:00",
       "NumProgressed": 16112,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-21T17:07:04.4466834+00:00",
+      "NumProgressed": 16113,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -4052,7 +4057,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 15306
+      "UsersEstimate": 15307
     },
     {
       "ID": "ACH001",
@@ -4060,7 +4065,7 @@
       "Name": "Personal Matter",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 13856
+      "UsersEstimate": 13857
     },
     {
       "ID": "ACH0010",
@@ -4236,7 +4241,7 @@
       "Name": "To the World\u0027s End",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1933
+      "UsersEstimate": 1934
     },
     {
       "ID": "ACH008",
@@ -4259,7 +4264,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 16112,
+      "Progressed": 16113,
       "Completed": 0
     }
   ],
@@ -4267,8 +4272,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-08-03T01:53:52.0652569+00:00",
-  "LastChanged_Achievements": "2023-08-21T16:08:11.695842+00:00",
+  "LastChanged_Achievements": "2023-08-21T17:07:04.4466829+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:19.3209063+00:00",
-  "LastUpdate_Ratings": "2023-08-21T15:58:22.4643514+00:00",
-  "LastUpdate_Achievements": "2023-08-21T16:08:11.6958949+00:00"
+  "LastUpdate_Ratings": "2023-08-21T16:57:59.9593875+00:00",
+  "LastUpdate_Achievements": "2023-08-21T17:07:04.446716+00:00"
 }

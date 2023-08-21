@@ -5,18 +5,18 @@ Rating: 4.45 (Ranked 637)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 46.00% | ~1,612 |
-| Confirming Suspicions | 40.00% | ~1,402 |
+| Meeting Resistance | 46.00% | ~1,613 |
+| Confirming Suspicions | 40.00% | ~1,403 |
 | The Kraken Wakes | 35.00% | ~1,227 |
 | It's Starting to Crack | 32.00% | ~1,122 |
 | Change the Channel | 30.00% | ~1,052 |
-| Lord of War | 29.00% | ~1,016 |
-| Taking it back | 27.00% | ~946 |
-| Resourceful | 26.00% | ~911 |
-| Target America | 25.00% | ~876 |
-| The Kraken Sleeps | 23.00% | ~806 |
-| Organ Grinder | 22.00% | ~771 |
-| As Quiet as a Mouse | 22.00% | ~771 |
+| Lord of War | 29.00% | ~1,017 |
+| Taking it back | 27.00% | ~947 |
+| Resourceful | 26.00% | ~912 |
+| Target America | 25.00% | ~877 |
+| The Kraken Sleeps | 23.00% | ~807 |
+| Organ Grinder | 22.00% | ~772 |
+| As Quiet as a Mouse | 22.00% | ~772 |
 | Liberté | 21.00% | ~736 |
 | Sharpshooter | 21.00% | ~736 |
 | Explosive Efficiency | 18.00% | ~631 |
@@ -34,9 +34,9 @@ Rating: 4.45 (Ranked 637)
 | Skirmisher | 13.00% | ~456 |
 | Die Nussknacker Sweet! | 13.00% | ~456 |
 | Set Europe Ablaze | 12.00% | ~421 |
-| Precision Is Key | 9.00% | ~315 |
-| My Little Friend | 9.00% | ~315 |
-| Rigged to Blow | 8.00% | ~280 |
+| Precision Is Key | 9.00% | ~316 |
+| My Little Friend | 9.00% | ~316 |
+| Rigged to Blow | 8.00% | ~281 |
 | Herr Today, Gone Tomorrow | 6.00% | ~207 |
 | The Long Game | 5.00% | ~175 |
 | It'll Buff Right Out | 5.00% | ~175 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 637)
 | Stroll in the Woods | 0.60% | ~21 |
 | Going Overboard | 0.60% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,505 (Ranked 152)  
+Progressed: 3,507 (Ranked 152)  
 Completed: 9 (0.26%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,7 +199,7 @@ Completed: 9 (0.26%) (Ranked 177)
 | 2023-08-18 | 3,494 | 9 |
 | 2023-08-19 | 3,498 | 9 |
 | 2023-08-20 | 3,504 | 9 |
-| 2023-08-21 | 3,505 | 9 |
+| 2023-08-21 | 3,507 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

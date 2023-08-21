@@ -5,22 +5,22 @@ Rating: 3.94 (Ranked 947)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~53,393 |
-| First One’s Free | 65.00% | ~46,899 |
-| Neophyte Ninja | 50.00% | ~36,076 |
-| Too Old for This | 48.00% | ~34,633 |
+| Downed but Not Outed | 74.00% | ~53,395 |
+| First One’s Free | 65.00% | ~46,901 |
+| Neophyte Ninja | 50.00% | ~36,078 |
+| Too Old for This | 48.00% | ~34,634 |
 | Case Closed | 35.00% | ~25,254 |
 | Fancy Pants | 35.00% | ~25,254 |
-| King of the Hill | 34.00% | ~24,532 |
-| Underworld Initiate | 29.00% | ~20,924 |
-| Roid Ranger | 21.00% | ~15,152 |
+| King of the Hill | 34.00% | ~24,533 |
+| Underworld Initiate | 29.00% | ~20,925 |
+| Roid Ranger | 21.00% | ~15,153 |
 | Off the Rocks | 20.00% | ~14,431 |
 | True Player | 19.00% | ~13,709 |
 | Raider’s Ruin | 17.00% | ~12,266 |
 | Dragonslayer | 17.00% | ~12,266 |
 | Hidden Sonata | 13.00% | ~9,380 |
 | Rockay Rex | 11.00% | ~7,937 |
-| Freebooter | 10.00% | ~7,215 |
+| Freebooter | 10.00% | ~7,216 |
 | Track Star | 9.00% | ~6,494 |
 | Headhunter | 9.00% | ~6,494 |
 | Ding Dong | 9.00% | ~6,494 |
@@ -43,7 +43,7 @@ Rating: 3.94 (Ranked 947)
 | Geek Out | 0.60% | ~433 |
 | Full House | 0.20% | ~144 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,153 (Ranked 78)  
+Progressed: 72,155 (Ranked 78)  
 Completed: 41 (0.06%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,16 +166,16 @@ Completed: 41 (0.06%) (Ranked 223)
 | 2023-08-18 | 71,991 | 41 |
 | 2023-08-19 | 72,061 | 41 |
 | 2023-08-20 | 72,112 | 41 |
-| 2023-08-21 | 72,153 | 41 |
+| 2023-08-21 | 72,155 | 41 |
 ## Awards
 Max (Diverse Characters): 403  (Ranked 215)  
-Sum: 1,917 (Ranked 203)  
+Sum: 1,919 (Ranked 203)  
 Diff (max vs sum): 12  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 403 |
 | This game has Quickly Understood Controls | 393 |
-| This game is Highly Recommended | 386 |
+| This game is Highly Recommended | 388 |
 | This game has Challenging Combat | 371 |
 | This game has Amazing Characters | 364 |
 | This game is Great for Quick Sessions | 70 |
@@ -327,4 +327,4 @@ Diff (max vs sum): 12
 | 2023-08-18 | 3.94 | 403 | 1,908 |
 | 2023-08-19 | 3.94 | 403 | 1,909 |
 | 2023-08-20 | 3.94 | 403 | 1,915 |
-| 2023-08-21 | 3.94 | 403 | 1,917 |
+| 2023-08-21 | 3.94 | 403 | 1,919 |

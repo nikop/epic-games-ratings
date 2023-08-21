@@ -6,13 +6,13 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~38,303 |
-| First Steps | 80.00% | ~32,949 |
+| Awakening | 93.00% | ~38,304 |
+| First Steps | 80.00% | ~32,950 |
 | Control the Shadows | 67.00% | ~27,595 |
-| Tools of the Trade | 63.00% | ~25,947 |
+| Tools of the Trade | 63.00% | ~25,948 |
 | Apprentice | 60.00% | ~24,712 |
-| Secret Seeker | 57.00% | ~23,476 |
-| Forge of Assassins | 55.00% | ~22,652 |
+| Secret Seeker | 57.00% | ~23,477 |
+| Forge of Assassins | 55.00% | ~22,653 |
 | Revenant | 52.00% | ~21,417 |
 | I don’t Care! | 45.00% | ~18,534 |
 | Bird of Prey | 37.00% | ~15,239 |
@@ -23,14 +23,14 @@ Number of Ratings: 88  (23.09.2022)
 | Soul Reaver | 22.00% | ~9,061 |
 | Embers | 21.00% | ~8,649 |
 | Wall Lizard | 20.00% | ~8,237 |
-| Clinging to Life | 18.00% | ~7,413 |
+| Clinging to Life | 18.00% | ~7,414 |
 | Burning | 17.00% | ~7,002 |
 | Look Behind You | 16.00% | ~6,590 |
 | Sleeping on the Job | 16.00% | ~6,590 |
 | Family | 14.00% | ~5,766 |
 | War Engines | 14.00% | ~5,766 |
 | Signature Move | 14.00% | ~5,766 |
-| Ruse | 11.00% | ~4,530 |
+| Ruse | 11.00% | ~4,531 |
 | Master Ninja | 10.00% | ~4,119 |
 | Hatching | 9.00% | ~3,707 |
 | Bonds | 9.00% | ~3,707 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Hot Potato | 1.00% | ~412 |
 | Anger Management | 1.00% | ~412 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41,186 (Ranked 93)  
+Progressed: 41,187 (Ranked 93)  
 Completed: 209 (0.51%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,7 +174,7 @@ Completed: 209 (0.51%) (Ranked 145)
 | 2023-08-18 | 40,980 | 208 |
 | 2023-08-19 | 41,062 | 208 |
 | 2023-08-20 | 41,146 | 208 |
-| 2023-08-21 | 41,186 | 209 |
+| 2023-08-21 | 41,187 | 209 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

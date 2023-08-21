@@ -873,9 +873,9 @@
       "ID": "ACHIEVEMENT_35",
       "SetID": "gagif7",
       "Name": "Tailor-Made",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_36",
@@ -920,8 +920,8 @@
   ],
   "FirstSeen": "2023-05-15T16:57:57.7851065+00:00",
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2023-08-21T16:08:03.1872479+00:00",
+  "LastChanged_Achievements": "2023-08-21T17:06:57.0336451+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:33.7357395+00:00",
-  "LastUpdate_Ratings": "2023-08-21T16:00:50.7262644+00:00",
-  "LastUpdate_Achievements": "2023-08-21T16:08:03.1872898+00:00"
+  "LastUpdate_Ratings": "2023-08-21T17:00:04.2726914+00:00",
+  "LastUpdate_Achievements": "2023-08-21T17:06:57.0336722+00:00"
 }

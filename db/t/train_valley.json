@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
@@ -959,9 +959,9 @@
       "ID": "07_europe",
       "SetID": "chb1m60",
       "Name": "Europe",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 133
+      "UsersEstimate": 137
     },
     {
       "ID": "08_america",
@@ -1231,8 +1231,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-08-15T19:59:30.756961+00:00",
-  "LastChanged_Achievements": "2023-08-21T16:07:39.6319671+00:00",
+  "LastChanged_Achievements": "2023-08-21T17:06:38.0257113+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:35.3683118+00:00",
-  "LastUpdate_Ratings": "2023-08-21T16:00:52.9668375+00:00",
-  "LastUpdate_Achievements": "2023-08-21T16:07:39.6320081+00:00"
+  "LastUpdate_Ratings": "2023-08-21T17:00:06.0030658+00:00",
+  "LastUpdate_Achievements": "2023-08-21T17:06:38.0257394+00:00"
 }

@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1021,
+  "EOS_Progressed": 1022,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3571,6 +3571,11 @@
       "Time": "2023-08-21T14:04:08.658052+00:00",
       "NumProgressed": 1021,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-21T17:03:31.378011+00:00",
+      "NumProgressed": 1022,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -3590,7 +3595,7 @@
       "Name": "Exterminator",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ach_defeat_players_10",
@@ -3694,7 +3699,7 @@
       "Name": "Corporal",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -3718,7 +3723,7 @@
       "Name": "Captain",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -3830,7 +3835,7 @@
       "Name": "Factory Expansion",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "objective_multiple_turrets_2",
@@ -3885,14 +3890,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1021,
+      "Progressed": 1022,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-21T16:04:24.9480801+00:00",
+  "LastChanged_Achievements": "2023-08-21T17:03:31.3780104+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:20.8459338+00:00",
-  "LastUpdate_Ratings": "2023-08-21T15:59:02.163147+00:00",
-  "LastUpdate_Achievements": "2023-08-21T16:04:24.9481389+00:00"
+  "LastUpdate_Ratings": "2023-08-21T16:58:31.8372215+00:00",
+  "LastUpdate_Achievements": "2023-08-21T17:03:31.3780484+00:00"
 }

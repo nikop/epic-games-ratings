@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 375,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -495,7 +495,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 14711,
+  "EOS_Progressed": 14712,
   "EOS_Completed": 109,
   "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 0,
@@ -8575,6 +8575,11 @@
       "Time": "2023-08-21T15:06:34.7965885+00:00",
       "NumProgressed": 14711,
       "NumCompleted": 109
+    },
+    {
+      "Time": "2023-08-21T17:05:43.7808304+00:00",
+      "NumProgressed": 14712,
+      "NumCompleted": 109
     }
   ],
   "TotalAchievements": 41,
@@ -8690,7 +8695,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4413
+      "UsersEstimate": 4414
     },
     {
       "ID": "tpote_achievement_22",
@@ -8730,7 +8735,7 @@
       "Name": "Exterminator",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1912
+      "UsersEstimate": 1913
     },
     {
       "ID": "tpote_achievement_27",
@@ -8746,7 +8751,7 @@
       "Name": "Whodunnit",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1912
+      "UsersEstimate": 1913
     },
     {
       "ID": "tpote_achievement_29",
@@ -8898,7 +8903,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 3236
+      "UsersEstimate": 3237
     },
     {
       "ID": "tpote_achievement_9",
@@ -8913,15 +8918,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 14711,
+      "Progressed": 14712,
       "Completed": 109
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-08-03T13:08:30.3350415+00:00",
-  "LastChanged_Achievements": "2023-08-21T16:06:34.5034909+00:00",
+  "LastChanged_Achievements": "2023-08-21T17:05:43.7808298+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:51.0435439+00:00",
-  "LastUpdate_Ratings": "2023-08-21T15:58:07.5188855+00:00",
-  "LastUpdate_Achievements": "2023-08-21T16:06:34.5035936+00:00"
+  "LastUpdate_Ratings": "2023-08-21T16:57:48.9244698+00:00",
+  "LastUpdate_Achievements": "2023-08-21T17:05:43.7808929+00:00"
 }
