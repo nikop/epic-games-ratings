@@ -233,6 +233,7 @@
 | [Get Together: A Coop Adventure](../games/g/get_together__a_coop_adventure.md) | 10 | 1,000 |
 | [Ghostbusters: Spirits Unleashed](../games/g/ghostbusters__spirits_unleashed.md) | 51 | 1,000 |
 | [Gigapocalypse](../games/g/gigapocalypse.md) | 53 | 1,000 |
+| [GINSHA](../games/f/f63608bdb9234e0cbfb6d7f81e96d33c.md) | 23 | 1,000 |
 | [Goat Simulator 3](../games/g/goat_simulator_3.md) | 39 | 1,000 |
 | [Godlike Burger](../games/g/godlike_burger.md) | 28 | 1,000 |
 | [Going Medieval](../games/g/going_medieval.md) | 31 | 1,000 |

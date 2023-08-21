@@ -12,6 +12,7 @@
 | [RIDE 5](games/r/ride_5.md) | 2023-08-24 | - |  | - | - |
 | [Homeworld: Deserts of Kharak](games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 2023-08-24 | 48 (1,440 XP) | 21 | - | - |
 | [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 2023-08-24 | 46 (1,000 XP) | 0 | - | 0 |
+| [GINSHA](games/f/f63608bdb9234e0cbfb6d7f81e96d33c.md) | 2023-08-24 | 23 (1,000 XP) | 0 | - | - |
 | [MoeSpotter - Uncover the Maiden Mysteries](games/1/116097a2f8714d75beba578033182d94.md) | 2023-08-25 | - |  | - | - |
 | [Need for Spirit: Off-Road Edition](games/7/7dd01e47eb62480bb938d02a80977ed2.md) | 2023-08-26 | - |  | - | - |
 | [Horror Ken](games/4/4f747a5a195749208333282fa8ec4d80.md) | 2023-08-28 | - |  | - | - |

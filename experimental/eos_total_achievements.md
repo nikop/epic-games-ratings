@@ -404,6 +404,7 @@
 | [Arkanoid - Eternal Battle](../games/a/arkanoid_-_eternal_battle.md) | 23 | 1,000 |
 | [Covid Carl](../games/c/covid_carl.md) | 23 | 1,000 |
 | [Destiny 2](../games/d/destiny_2.md) | 23 | 1,240 |
+| [GINSHA](../games/f/f63608bdb9234e0cbfb6d7f81e96d33c.md) | 23 | 1,000 |
 | [House Flipper](../games/h/house_flipper.md) | 23 | 1,000 |
 | [Iron Danger](../games/i/iron_danger.md) | 23 | 1,000 |
 | [Lost Eidolons](../games/l/lost_eidolons.md) | 23 | 1,000 |
