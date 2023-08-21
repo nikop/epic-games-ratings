@@ -66,11 +66,11 @@
 | 64 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 65 | [Without Escape](games/w/without_escape.md) | 3.57% |
 | 66 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
-| 67 | [Doodle God](games/d/doodle_god.md) | 3.43% |
-| 68 | [Bunny Park](games/b/bunny_park.md) | 3.37% |
-| 69 | [The Complex](games/t/the_complex.md) | 3.35% |
-| 70 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.30% |
-| 71 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.17% |
+| 67 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.44% |
+| 68 | [Doodle God](games/d/doodle_god.md) | 3.43% |
+| 69 | [Bunny Park](games/b/bunny_park.md) | 3.37% |
+| 70 | [The Complex](games/t/the_complex.md) | 3.35% |
+| 71 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.30% |
 | 72 | [HordeCore](games/h/hordecore.md) | 3.15% |
 | 73 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.05% |
 | 74 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.04% |

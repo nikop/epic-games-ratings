@@ -23,7 +23,7 @@
 | 21 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 17,709 | 4.89 | 13 |
 | 22 | [Warframe](games/w/warframe.md) | 16,535 | 4.61 | 367 |
 | 23 | [League of Legends](games/l/league_of_legends.md) | 15,448 | 4.21 | 851 |
-| 24 | [Borderlands 2](games/b/borderlands_2.md) | 15,099 | 4.76 | 119 |
+| 24 | [Borderlands 2](games/b/borderlands_2.md) | 15,106 | 4.76 | 119 |
 | 25 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,453 | 4.58 | 427 |
 | 26 | [Maneater](games/m/maneater.md) | 13,632 | 4.49 | 577 |
 | 27 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,594 | 4.60 | 391 |
@@ -76,7 +76,7 @@
 | 74 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,490 | 4.70 | 199 |
 | 75 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4,406 | 4.76 | 119 |
 | 76 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4,320 | 4.55 | 486 |
-| 77 | [God of War](games/g/god_of_war.md) | 4,209 | 4.88 | 19 |
+| 77 | [God of War](games/g/god_of_war.md) | 4,212 | 4.88 | 19 |
 | 78 | [SMITE](games/s/smite.md) | 4,177 | 4.44 | 650 |
 | 79 | [Bloons TD 6](games/b/bloons_td_6.md) | 4,170 | 4.77 | 109 |
 | 80 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,112 | 4.51 | 543 |
