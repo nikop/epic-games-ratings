@@ -2,7 +2,7 @@
   "ID": "68c8fe90d12b4ea494f549ec409f58c8",
   "Name": "Road 96: Mile 0",
   "ProductSlug": "road-96-mile-0",
-  "Ranking_EOS_Progress": 245,
+  "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 143,
   "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 93,
@@ -1246,9 +1246,9 @@
       "ID": "scoreminrankrb2",
       "SetID": "40n95i5",
       "Name": "Freedom",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 31
+      "UsersEstimate": 34
     },
     {
       "ID": "scoreminrankrf1",
@@ -1327,8 +1327,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-08-21T08:05:43.3880553+00:00",
+  "LastChanged_Achievements": "2023-08-21T09:06:38.1403226+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:13.6460605+00:00",
-  "LastUpdate_Ratings": "2023-08-21T08:01:47.0522304+00:00",
-  "LastUpdate_Achievements": "2023-08-21T08:05:43.3880726+00:00"
+  "LastUpdate_Ratings": "2023-08-21T09:02:24.5791494+00:00",
+  "LastUpdate_Achievements": "2023-08-21T09:06:38.1403453+00:00"
 }

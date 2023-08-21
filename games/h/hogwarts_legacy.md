@@ -22,19 +22,19 @@ Rating: 4.77 (Ranked 109)
 | Followed the Butterflies | 8.00% | ~23,243 |
 | The Spell Master | 8.00% | ~23,243 |
 | Rising From the Ashes | 8.00% | ~23,243 |
-| The Avenging Gazelle | 7.00% | ~20,337 |
-| Beast Friends | 7.00% | ~20,337 |
-| A Sallow Grave | 7.00% | ~20,337 |
-| Flight the Good Flight | 7.00% | ~20,337 |
+| The Avenging Gazelle | 7.00% | ~20,338 |
+| Beast Friends | 7.00% | ~20,338 |
+| A Sallow Grave | 7.00% | ~20,338 |
+| Flight the Good Flight | 7.00% | ~20,338 |
 | The Seeker of Knowledge | 5.00% | ~14,527 |
 | The Root of the Problem | 5.00% | ~14,527 |
 | Third Time's a Charm | 5.00% | ~14,527 |
 | Raising Expectations | 5.00% | ~14,527 |
-| The Toast of the Town | 4.00% | ~11,621 |
-| Room with a View | 4.00% | ~11,621 |
-| The Intrepid Explorer | 4.00% | ~11,621 |
-| The Gryffindor in the Graveyard | 4.00% | ~11,621 |
-| The Ends Petrify the Means | 4.00% | ~11,621 |
+| The Toast of the Town | 4.00% | ~11,622 |
+| Room with a View | 4.00% | ~11,622 |
+| The Intrepid Explorer | 4.00% | ~11,622 |
+| The Gryffindor in the Graveyard | 4.00% | ~11,622 |
+| The Ends Petrify the Means | 4.00% | ~11,622 |
 | Going Through the Potions | 3.00% | ~8,716 |
 | Floo Around the World | 3.00% | ~8,716 |
 | The Wise Owl | 3.00% | ~8,716 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,743 |
 | Collector's Edition | 0.30% | ~872 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290,535 (Ranked 43)  
+Progressed: 290,538 (Ranked 43)  
 Completed: 453 (0.16%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,7 +174,7 @@ Completed: 453 (0.16%) (Ranked 193)
 | 2023-08-18 | 290,355 | 452 |
 | 2023-08-19 | 290,439 | 453 |
 | 2023-08-20 | 290,517 | 453 |
-| 2023-08-21 | 290,535 | 453 |
+| 2023-08-21 | 290,538 | 453 |
 ## Awards
 Max (Character Customization): 21,871  (Ranked 17)  
 Sum: 41,333 (Ranked 30)  

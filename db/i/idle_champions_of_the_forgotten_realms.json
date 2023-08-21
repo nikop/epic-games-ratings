@@ -5974,9 +5974,9 @@
       "Count": 3365
     }
   ],
-  "EOS_Progressed": 223824,
+  "EOS_Progressed": 223831,
   "EOS_Completed": 2200,
-  "EOS_NewPlayers": 2090,
+  "EOS_NewPlayers": 2087,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -19364,6 +19364,11 @@
       "Time": "2023-08-21T08:06:21.8684319+00:00",
       "NumProgressed": 223824,
       "NumCompleted": 2200
+    },
+    {
+      "Time": "2023-08-21T09:07:18.8750889+00:00",
+      "NumProgressed": 223831,
+      "NumCompleted": 2200
     }
   ],
   "TotalAchievements": 516,
@@ -23471,7 +23476,7 @@
       "Name": "The Hunt for The Last Breath",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "objective_completed_1396",
@@ -23502,21 +23507,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 190098,
+      "Progressed": 190105,
       "Completed": 3282
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 223824,
+      "Progressed": 223831,
       "Completed": 2200
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-21T06:00:48.5329287+00:00",
-  "LastChanged_Achievements": "2023-08-21T08:06:21.8684312+00:00",
+  "LastChanged_Achievements": "2023-08-21T09:07:18.8750884+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:12.3267162+00:00",
-  "LastUpdate_Ratings": "2023-08-21T08:00:56.3543782+00:00",
-  "LastUpdate_Achievements": "2023-08-21T08:06:21.8709893+00:00"
+  "LastUpdate_Ratings": "2023-08-21T09:01:28.5627969+00:00",
+  "LastUpdate_Achievements": "2023-08-21T09:07:18.8783915+00:00"
 }

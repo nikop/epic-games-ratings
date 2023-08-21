@@ -5,24 +5,24 @@ Rating: 4.05 (Ranked 925)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,704 |
-| World Map | 79.00% | ~1,447 |
-| Temple of Eternals | 57.00% | ~1,044 |
+| Victor | 93.00% | ~1,705 |
+| World Map | 79.00% | ~1,448 |
+| Temple of Eternals | 57.00% | ~1,045 |
 | Prestigious | 53.00% | ~971 |
-| Fellowship Power | 41.00% | ~751 |
+| Fellowship Power | 41.00% | ~752 |
 | Guild Power | 25.00% | ~458 |
 | Prestigious x10 | 22.00% | ~403 |
-| The game is on | 20.00% | ~366 |
+| The game is on | 20.00% | ~367 |
 | Exotic Merchant | 18.00% | ~330 |
-| Dragon Clicker | 17.00% | ~311 |
-| Miner Clicker | 17.00% | ~311 |
+| Dragon Clicker | 17.00% | ~312 |
+| Miner Clicker | 17.00% | ~312 |
 | Full Party | 16.00% | ~293 |
 | Inspection | 16.00% | ~293 |
 | Dragon Master | 15.00% | ~275 |
 | Enlightenment | 15.00% | ~275 |
 | Hero inspection | 15.00% | ~275 |
-| Lieutenant | 14.00% | ~256 |
-| Mysterious Rock | 14.00% | ~256 |
+| Lieutenant | 14.00% | ~257 |
+| Mysterious Rock | 14.00% | ~257 |
 | Milestone collector | 13.00% | ~238 |
 | Natural Talent | 13.00% | ~238 |
 | Superior | 13.00% | ~238 |
@@ -71,9 +71,9 @@ Rating: 4.05 (Ranked 925)
 | Training makes a Pro player | 0.90% | ~16 |
 | Enhanced War Machines | 0.70% | ~13 |
 | Tree of Life | 0.60% | ~11 |
+| Angel Power | 0.50% | ~9 |
 | Beast War Machines | 0.50% | ~9 |
 | Enchanting skill x5 | 0.50% | ~9 |
-| Angel Power | 0.40% | ~7 |
 | Conqueror | 0.40% | ~7 |
 | Pokerface | 0.40% | ~7 |
 | Ultimate War Machines | 0.40% | ~7 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 925)
 | Silverwood liberator | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,832 (Ranked 173)  
+Progressed: 1,833 (Ranked 173)  
 Completed: 2 (0.11%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 2 (0.11%) (Ranked 205)
 | 2023-08-18 | 1,820 | 2 |
 | 2023-08-19 | 1,822 | 2 |
 | 2023-08-20 | 1,829 | 2 |
-| 2023-08-21 | 1,832 | 2 |
+| 2023-08-21 | 1,833 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

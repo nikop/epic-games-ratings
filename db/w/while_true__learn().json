@@ -490,9 +490,9 @@
       "Count": 134
     }
   ],
-  "EOS_Progressed": 601122,
+  "EOS_Progressed": 601123,
   "EOS_Completed": 516,
-  "EOS_NewPlayers": 847,
+  "EOS_NewPlayers": 846,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -13945,6 +13945,11 @@
       "Time": "2023-08-21T08:07:08.1727114+00:00",
       "NumProgressed": 601122,
       "NumCompleted": 516
+    },
+    {
+      "Time": "2023-08-21T09:08:08.026334+00:00",
+      "NumProgressed": 601123,
+      "NumCompleted": 516
     }
   ],
   "TotalAchievements": 28,
@@ -14020,7 +14025,7 @@
       "Name": "We need more gold",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 360673
+      "UsersEstimate": 360674
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -14084,7 +14089,7 @@
       "Name": "First.. Bit?",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 559043
+      "UsersEstimate": 559044
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -14092,7 +14097,7 @@
       "Name": "Overmind",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 144269
+      "UsersEstimate": 144270
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -14179,15 +14184,15 @@
     {
       "ID": "c2jc46f",
       "IsBase": true,
-      "Progressed": 601122,
+      "Progressed": 601123,
       "Completed": 516
     }
   ],
   "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.0744995+00:00",
   "LastChanged": "2023-07-16T08:00:08.7749167+00:00",
-  "LastChanged_Achievements": "2023-08-21T08:07:08.1727108+00:00",
+  "LastChanged_Achievements": "2023-08-21T09:08:08.0263335+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:29.5468832+00:00",
-  "LastUpdate_Ratings": "2023-08-21T08:02:08.3688142+00:00",
-  "LastUpdate_Achievements": "2023-08-21T08:07:08.1727985+00:00"
+  "LastUpdate_Ratings": "2023-08-21T09:02:43.6847881+00:00",
+  "LastUpdate_Achievements": "2023-08-21T09:08:08.0264598+00:00"
 }

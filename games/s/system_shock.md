@@ -6,8 +6,8 @@ Rating: 4.63 (Ranked 329)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | En Garde! | 67.00% | ~2 |
+| Supersleuth | 67.00% | ~2 |
 | Déjà Vu | 33.00% | ~1 |
-| Supersleuth | 33.00% | ~1 |
 | Somebody Set Up Us The Bomb | 33.00% | ~1 |
 | Shields Up! | 0.00% | ~0 |
 | Load ‘em Up! | 0.00% | ~0 |

@@ -4396,9 +4396,9 @@
       "ID": "ACH_THE-FLIP-TRICK-CROWN-JEWEL",
       "SetID": "72olkc5",
       "Name": "The flip trick crown jewel",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 247
+      "UsersEstimate": 274
     },
     {
       "ID": "ACH_THE-HARD-WAY",
@@ -4476,8 +4476,8 @@
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-08-12T21:02:33.3554881+00:00",
-  "LastChanged_Achievements": "2023-08-21T08:05:05.951075+00:00",
+  "LastChanged_Achievements": "2023-08-21T09:05:42.7118102+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:39.161743+00:00",
-  "LastUpdate_Ratings": "2023-08-21T08:02:17.1133198+00:00",
-  "LastUpdate_Achievements": "2023-08-21T08:05:05.9511225+00:00"
+  "LastUpdate_Ratings": "2023-08-21T09:02:54.1633781+00:00",
+  "LastUpdate_Achievements": "2023-08-21T09:05:42.711891+00:00"
 }

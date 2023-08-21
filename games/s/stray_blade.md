@@ -18,9 +18,9 @@
 | Searing Heat | 8.00% | ~4 |
 | Locked and Loaded | 8.00% | ~4 |
 | Nothing but the Truth | 8.00% | ~4 |
+| Changing the World | 8.00% | ~4 |
 | Defeat Tezuth | 6.00% | ~3 |
 | Through Dangers Untold | 6.00% | ~3 |
-| Changing the World | 6.00% | ~3 |
 | Sponsor | 4.00% | ~2 |
 | Craftsmen | 4.00% | ~2 |
 | Defeat Uskol | 4.00% | ~2 |
@@ -51,7 +51,7 @@
 | Unveiling the Truth | 0.00% | ~0 |
 | Master of all Domains | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50 (Ranked 374)  
+Progressed: 50 (Ranked 375)  
 Completed: 0 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |

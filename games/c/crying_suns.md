@@ -7,15 +7,15 @@ Number of Ratings: 1,003  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Shutdown | 66.00% | ~307,367 |
-| Jeef Skeejj | 44.00% | ~204,911 |
+| Jeef Skeejj | 44.00% | ~204,912 |
 | Careful planning | 39.00% | ~181,626 |
-| Second Coming | 33.00% | ~153,683 |
+| Second Coming | 33.00% | ~153,684 |
 | Jeef Skagg | 30.00% | ~139,712 |
 | Mother | 25.00% | ~116,427 |
 | In space, no one can hear you scream | 24.00% | ~111,770 |
 | Chapter I: Echoes | 22.00% | ~102,456 |
 | Excelsior Rule | 22.00% | ~102,456 |
-| Things persisted in not being what they seemed | 20.00% | ~93,141 |
+| Things persisted in not being what they seemed | 20.00% | ~93,142 |
 | Knightmare Frames | 15.00% | ~69,856 |
 | May His passing cleanse the world | 15.00% | ~69,856 |
 | Chapter II: Fallible Flesh | 15.00% | ~69,856 |
@@ -28,9 +28,9 @@ Number of Ratings: 1,003  (23.09.2022)
 | General Vivar | 8.00% | ~37,257 |
 | Back to Ganyma | 8.00% | ~37,257 |
 | Kaos Rule | 8.00% | ~37,257 |
-| Admiral Okonkwo | 7.00% | ~32,599 |
-| The Survivalists | 7.00% | ~32,599 |
-| The Tech Specialist | 7.00% | ~32,599 |
+| Admiral Okonkwo | 7.00% | ~32,600 |
+| The Survivalists | 7.00% | ~32,600 |
+| The Tech Specialist | 7.00% | ~32,600 |
 | Chapter V: Memories of None | 6.00% | ~27,942 |
 | Meet your maker | 6.00% | ~27,942 |
 | The Impersonator | 6.00% | ~27,942 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~10 |
 | Kronos Rule | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 465,707 (Ranked 37)  
+Progressed: 465,708 (Ranked 37)  
 Completed: 17 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,7 +209,7 @@ Completed: 17 (0.00%) (Ranked 261)
 | 2023-08-18 | 465,542 | 17 |
 | 2023-08-19 | 465,617 | 17 |
 | 2023-08-20 | 465,685 | 17 |
-| 2023-08-21 | 465,707 | 17 |
+| 2023-08-21 | 465,708 | 17 |
 ## Awards
 Max (Character Customization): 218  (Ranked 267)  
 Sum: 218 (Ranked 363)  

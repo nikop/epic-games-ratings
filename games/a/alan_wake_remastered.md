@@ -6,9 +6,9 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 37.00% | ~22,653 |
-| Let There Be Light | 30.00% | ~18,367 |
-| Float Like a Butterfly | 29.00% | ~17,755 |
+| Follow the Light | 37.00% | ~22,654 |
+| Let There Be Light | 30.00% | ~18,368 |
+| Float Like a Butterfly | 29.00% | ~17,756 |
 | Nordic Walking | 23.00% | ~14,082 |
 | Bright Falls' Finest | 23.00% | ~14,082 |
 | Under a Thin Layer of Skin | 20.00% | ~12,245 |
@@ -16,9 +16,9 @@ Number of Ratings: 524  (23.09.2022)
 | Park Ranger | 16.00% | ~9,796 |
 | Back! Back, I Say! | 16.00% | ~9,796 |
 | Finders Keepers | 16.00% | ~9,796 |
-| Sound and Fury | 14.00% | ~8,571 |
-| Missed by a Mile | 14.00% | ~8,571 |
-| Damn Good Cup of Coffee | 14.00% | ~8,571 |
+| Sound and Fury | 14.00% | ~8,572 |
+| Missed by a Mile | 14.00% | ~8,572 |
+| Damn Good Cup of Coffee | 14.00% | ~8,572 |
 | Wheels Within Wheels | 13.00% | ~7,959 |
 | They're Heeeeeere! | 13.00% | ~7,959 |
 | The Six-Gun Scribe | 13.00% | ~7,959 |
@@ -29,16 +29,16 @@ Number of Ratings: 524  (23.09.2022)
 | Perchance to Dream | 11.00% | ~6,735 |
 | It's Not Just a Typewriter Brand | 11.00% | ~6,735 |
 | Thunder and Lightning | 11.00% | ~6,735 |
-| Gatekeeper | 10.00% | ~6,122 |
-| The Lady of the Light | 10.00% | ~6,122 |
-| Two For the Price of One | 10.00% | ~6,122 |
-| Energized! | 10.00% | ~6,122 |
+| Gatekeeper | 10.00% | ~6,123 |
+| The Lady of the Light | 10.00% | ~6,123 |
+| Two For the Price of One | 10.00% | ~6,123 |
+| Energized! | 10.00% | ~6,123 |
 | Right of Way | 9.00% | ~5,510 |
 | What Light Through Yonder Window | 8.00% | ~4,898 |
-| A Friend in Need | 8.00% | ~1,975 |
+| A Friend in Need | 8.00% | ~1,976 |
 | Tornado Wrangler | 7.00% | ~4,286 |
 | Departure | 7.00% | ~4,286 |
-| Hardboiled Writer | 6.00% | ~3,673 |
+| Hardboiled Writer | 6.00% | ~3,674 |
 | A Friend Indeed | 6.00% | ~1,482 |
 | Children of the Elder God | 5.00% | ~3,061 |
 | Drink 'Em Both Up | 5.00% | ~3,061 |
@@ -49,10 +49,10 @@ Number of Ratings: 524  (23.09.2022)
 | Carny | 3.00% | ~1,837 |
 | Kill Your Darlings | 3.00% | ~741 |
 | Heartbreaker | 3.00% | ~741 |
-| Medical Opinions | 2.00% | ~1,224 |
-| Taken Season | 2.00% | ~1,224 |
-| An Idyllic Small Town | 2.00% | ~1,224 |
-| Couch Potato | 2.00% | ~1,224 |
+| Medical Opinions | 2.00% | ~1,225 |
+| Taken Season | 2.00% | ~1,225 |
+| An Idyllic Small Town | 2.00% | ~1,225 |
+| Couch Potato | 2.00% | ~1,225 |
 | Iron Will | 2.00% | ~494 |
 | Go Gentle Into That Good Light | 1.00% | ~247 |
 | Words Will Never Harm You | 0.70% | ~173 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~61 |
 | No Punctuation | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,224 (Ranked 85)  
+Progressed: 61,226 (Ranked 85)  
 Completed: 64 (0.10%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 64 (0.10%) (Ranked 208)
 | 2023-08-18 | 61,081 | 64 |
 | 2023-08-19 | 61,152 | 64 |
 | 2023-08-20 | 61,207 | 64 |
-| 2023-08-21 | 61,224 | 64 |
+| 2023-08-21 | 61,226 | 64 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
