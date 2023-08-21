@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 167,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -724,7 +724,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 12017,
+  "EOS_Progressed": 12018,
   "EOS_Completed": 40,
   "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 2,
@@ -9199,6 +9199,11 @@
       "Time": "2023-08-21T12:03:46.4321859+00:00",
       "NumProgressed": 12017,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-08-21T13:08:06.2278382+00:00",
+      "NumProgressed": 12018,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 35,
@@ -9210,7 +9215,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9734
+      "UsersEstimate": 9735
     },
     {
       "ID": "ACH02",
@@ -9386,7 +9391,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3124
+      "UsersEstimate": 3125
     },
     {
       "ID": "ACH24",
@@ -9489,7 +9494,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 12017,
+      "Progressed": 12018,
       "Completed": 40
     }
   ],
@@ -9497,8 +9502,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-08-20T13:58:18.1792136+00:00",
-  "LastChanged_Achievements": "2023-08-21T12:03:46.4321854+00:00",
+  "LastChanged_Achievements": "2023-08-21T13:08:06.2278373+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:04.3712405+00:00",
-  "LastUpdate_Ratings": "2023-08-21T11:57:58.5266581+00:00",
-  "LastUpdate_Achievements": "2023-08-21T12:03:46.4322722+00:00"
+  "LastUpdate_Ratings": "2023-08-21T13:02:25.9359349+00:00",
+  "LastUpdate_Achievements": "2023-08-21T13:08:06.2279361+00:00"
 }

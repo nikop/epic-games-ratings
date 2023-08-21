@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 62,
-  "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -380,7 +380,7 @@
   "Tags": [],
   "EOS_Progressed": 2773,
   "EOS_Completed": 109,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 3.93,
   "EosHistory": [
@@ -2837,9 +2837,9 @@
       "ID": "ACH_EASY_AS_PIE",
       "SetID": "4kfb9pd",
       "Name": "Easy As Pie",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 55,
-      "UsersEstimate": 915
+      "UsersEstimate": 943
     },
     {
       "ID": "ACH_FAMILY_LOST",
@@ -2918,8 +2918,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-08-19T10:58:04.2929001+00:00",
-  "LastChanged_Achievements": "2023-08-21T12:03:16.8160303+00:00",
+  "LastChanged_Achievements": "2023-08-21T13:07:21.3296623+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:01.4911861+00:00",
-  "LastUpdate_Ratings": "2023-08-21T11:57:55.7095015+00:00",
-  "LastUpdate_Achievements": "2023-08-21T12:03:16.8160597+00:00"
+  "LastUpdate_Ratings": "2023-08-21T13:02:22.5380659+00:00",
+  "LastUpdate_Achievements": "2023-08-21T13:07:21.3296938+00:00"
 }

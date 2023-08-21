@@ -2275,9 +2275,9 @@
       "ID": "ACHV_08",
       "SetID": "8p5mlmc",
       "Name": "Mommy Dearest",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 257
+      "UsersEstimate": 277
     },
     {
       "ID": "ACHV_09",
@@ -2684,8 +2684,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-08-11T22:58:17.9643661+00:00",
-  "LastChanged_Achievements": "2023-08-21T12:05:46.2904503+00:00",
+  "LastChanged_Achievements": "2023-08-21T13:10:36.2424182+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:34.2984865+00:00",
-  "LastUpdate_Ratings": "2023-08-21T11:58:26.3816597+00:00",
-  "LastUpdate_Achievements": "2023-08-21T12:05:46.2905225+00:00"
+  "LastUpdate_Ratings": "2023-08-21T13:03:05.4274686+00:00",
+  "LastUpdate_Achievements": "2023-08-21T13:10:36.2424968+00:00"
 }

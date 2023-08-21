@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 117,
   "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 15,
+  "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -96,9 +96,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 70735,
+  "EOS_Progressed": 70737,
   "EOS_Completed": 716,
-  "EOS_NewPlayers": 759,
+  "EOS_NewPlayers": 755,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.01,
   "EosHistory": [
@@ -13656,6 +13656,11 @@
       "Time": "2023-08-21T12:04:14.9622256+00:00",
       "NumProgressed": 70735,
       "NumCompleted": 716
+    },
+    {
+      "Time": "2023-08-21T13:08:39.8722688+00:00",
+      "NumProgressed": 70737,
+      "NumCompleted": 716
     }
   ],
   "TotalAchievements": 25,
@@ -13683,7 +13688,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 18,
       "XP": 150,
-      "UsersEstimate": 12732
+      "UsersEstimate": 12733
     },
     {
       "ID": "Audiophile",
@@ -13707,7 +13712,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 12732
+      "UsersEstimate": 12733
     },
     {
       "ID": "Butcher",
@@ -13803,7 +13808,7 @@
       "Name": "Nothing Left to Say",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 4951
+      "UsersEstimate": 4952
     },
     {
       "ID": "Piano Man",
@@ -13827,7 +13832,7 @@
       "Name": "Sniper",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 4951
+      "UsersEstimate": 4952
     },
     {
       "ID": "Spicy",
@@ -13866,7 +13871,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 70735,
+      "Progressed": 70737,
       "Completed": 716
     }
   ],
@@ -13874,8 +13879,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-08-07T22:57:38.0235808+00:00",
-  "LastChanged_Achievements": "2023-08-21T12:04:14.9622251+00:00",
+  "LastChanged_Achievements": "2023-08-21T13:08:39.8722682+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:25.6740625+00:00",
-  "LastUpdate_Ratings": "2023-08-21T11:58:17.8881184+00:00",
-  "LastUpdate_Achievements": "2023-08-21T12:04:14.9623228+00:00"
+  "LastUpdate_Ratings": "2023-08-21T13:02:54.5732716+00:00",
+  "LastUpdate_Achievements": "2023-08-21T13:08:39.8723907+00:00"
 }

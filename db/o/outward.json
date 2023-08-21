@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 355,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -502,9 +502,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3320,
+  "EOS_Progressed": 3321,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4157,6 +4157,11 @@
       "Time": "2023-08-20T21:06:04.0187722+00:00",
       "NumProgressed": 3320,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-21T13:09:47.4074218+00:00",
+      "NumProgressed": 3321,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 42,
@@ -4232,7 +4237,7 @@
       "Name": "Eureka",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1062
+      "UsersEstimate": 1063
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -4272,7 +4277,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 730
+      "UsersEstimate": 731
     },
     {
       "ID": "HouseofCards_19",
@@ -4352,15 +4357,15 @@
       "Name": "Ready for Summer",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1726
+      "UsersEstimate": 1727
     },
     {
       "ID": "ReadyforWinter_42",
       "SetID": "c4hee28",
       "Name": "Ready for Winter",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 2158
+      "UsersEstimate": 2125
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -4384,7 +4389,7 @@
       "Name": "Strange amalgams",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "Tapped_22",
@@ -4392,7 +4397,7 @@
       "Name": "Tapped!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1228
+      "UsersEstimate": 1229
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -4424,7 +4429,7 @@
       "Name": "The Power of Faith",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "ThePowerofFamily_2",
@@ -4432,7 +4437,7 @@
       "Name": "The Power of Family",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "ThePowerofFreedom_3",
@@ -4488,7 +4493,7 @@
       "Name": "Venture Outward",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2490
+      "UsersEstimate": 2491
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -4503,15 +4508,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3320,
+      "Progressed": 3321,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-08-16T21:59:07.0719809+00:00",
-  "LastChanged_Achievements": "2023-08-21T12:05:04.6407231+00:00",
+  "LastChanged_Achievements": "2023-08-21T13:09:47.407421+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:00.6102177+00:00",
-  "LastUpdate_Ratings": "2023-08-21T11:59:46.7906385+00:00",
-  "LastUpdate_Achievements": "2023-08-21T12:05:04.6407824+00:00"
+  "LastUpdate_Ratings": "2023-08-21T13:04:39.4701544+00:00",
+  "LastUpdate_Achievements": "2023-08-21T13:09:47.4074733+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "scribble-it-c61a6f",
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewPlayers": 81,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10018,
+  "EOS_Progressed": 10020,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 436,
   "EOS_NewCompleters": 0,
@@ -7081,6 +7081,11 @@
       "Time": "2023-08-21T12:04:15.4548635+00:00",
       "NumProgressed": 10018,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-21T13:08:40.4997555+00:00",
+      "NumProgressed": 10020,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -7164,7 +7169,7 @@
       "Name": "You tried your best!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 4408
+      "UsersEstimate": 4409
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -7180,7 +7185,7 @@
       "Name": "Facepalm",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1803
+      "UsersEstimate": 1804
     },
     {
       "ID": "ACH_TEN_WORD_PACKAGES",
@@ -7284,21 +7289,21 @@
       "Name": "First Sketch",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1803
+      "UsersEstimate": 1804
     }
   ],
   "AchievementSets": [
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 10018,
+      "Progressed": 10020,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-08-21T12:04:15.4548629+00:00",
+  "LastChanged_Achievements": "2023-08-21T13:08:40.4997545+00:00",
   "LastUpdate_AppInfo": "2023-08-18T21:57:04.2027015+00:00",
-  "LastUpdate_Ratings": "2023-08-21T11:58:33.156443+00:00",
-  "LastUpdate_Achievements": "2023-08-21T12:04:15.4549249+00:00"
+  "LastUpdate_Ratings": "2023-08-21T13:03:14.517381+00:00",
+  "LastUpdate_Achievements": "2023-08-21T13:08:40.4998236+00:00"
 }

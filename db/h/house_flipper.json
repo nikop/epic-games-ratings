@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 190,
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
@@ -1842,7 +1842,7 @@
       "Count": 213
     }
   ],
-  "EOS_Progressed": 20660,
+  "EOS_Progressed": 20661,
   "EOS_Completed": 20,
   "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
@@ -7812,6 +7812,11 @@
       "Time": "2023-08-21T04:03:44.7762649+00:00",
       "NumProgressed": 20660,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-08-21T13:07:48.9902981+00:00",
+      "NumProgressed": 20661,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 23,
@@ -7855,7 +7860,7 @@
       "Name": "Worth Every Penny",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2892
+      "UsersEstimate": 2893
     },
     {
       "ID": "EstateAgent",
@@ -7871,7 +7876,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 19420
+      "UsersEstimate": 19421
     },
     {
       "ID": "GameOver",
@@ -7935,7 +7940,7 @@
       "Name": "Just Enough",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3925
+      "UsersEstimate": 3926
     },
     {
       "ID": "Negotiator",
@@ -7959,7 +7964,7 @@
       "Name": "Alpha Male",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3925
+      "UsersEstimate": 3926
     },
     {
       "ID": "SeniorEstateAgent",
@@ -8006,15 +8011,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 20660,
+      "Progressed": 20661,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-08-20T16:56:59.4346869+00:00",
-  "LastChanged_Achievements": "2023-08-21T12:03:40.3756054+00:00",
+  "LastChanged_Achievements": "2023-08-21T13:07:48.9902972+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:27.2088763+00:00",
-  "LastUpdate_Ratings": "2023-08-21T11:57:12.2277381+00:00",
-  "LastUpdate_Achievements": "2023-08-21T12:03:40.3756632+00:00"
+  "LastUpdate_Ratings": "2023-08-21T13:01:27.2285026+00:00",
+  "LastUpdate_Achievements": "2023-08-21T13:07:48.9903585+00:00"
 }

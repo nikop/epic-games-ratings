@@ -11,15 +11,15 @@ Number of Ratings: 1,331  (23.09.2022)
 | Harvest and Home | 2.00% | ~459 |
 | Poise and Poisons | 2.00% | ~459 |
 | Hands and Hammers | 1.00% | ~229 |
+| King and Kin | 1.00% | ~229 |
 | Progenitor and Protégé | 1.00% | ~229 |
 | Suns and Soldiers | 1.00% | ~229 |
 | No Harm in Looking | 1.00% | ~229 |
-| King and Kin | 0.90% | ~206 |
 | Prequel to the Sequel | 0.90% | ~206 |
 | For Glory | 0.60% | ~138 |
 | Truly Blessed | 0.50% | ~115 |
+| Pillow Investments | 0.50% | ~115 |
 | Looks Familiar | 0.50% | ~115 |
-| Pillow Investments | 0.40% | ~92 |
 | For Justice | 0.40% | ~92 |
 | Good Boy! | 0.40% | ~92 |
 | For Survival | 0.30% | ~69 |
@@ -29,6 +29,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | For Wrath | 0.20% | ~46 |
 | For Penance | 0.20% | ~46 |
 | K.O. | 0.20% | ~46 |
+| Good Practice | 0.20% | ~46 |
 | A Glimpse of the Future | 0.20% | ~46 |
 | Just the Beginning | 0.20% | ~46 |
 | Wasted Betrayal | 0.20% | ~46 |
@@ -38,7 +39,6 @@ Number of Ratings: 1,331  (23.09.2022)
 | Erebus Purified | 0.10% | ~23 |
 | For Greed | 0.10% | ~23 |
 | It Was Just an Estimate | 0.10% | ~23 |
-| Good Practice | 0.10% | ~23 |
 | Maybe Wax Doesn't Melt | 0.10% | ~23 |
 | Had to Do It | 0.10% | ~23 |
 | Rogue's Legacy | 0.00% | ~0 |

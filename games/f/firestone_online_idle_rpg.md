@@ -5,10 +5,10 @@ Rating: 4.05 (Ranked 925)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,705 |
-| World Map | 79.00% | ~1,448 |
-| Temple of Eternals | 57.00% | ~1,045 |
-| Prestigious | 53.00% | ~971 |
+| Victor | 93.00% | ~1,706 |
+| World Map | 79.00% | ~1,449 |
+| Temple of Eternals | 56.00% | ~1,027 |
+| Prestigious | 53.00% | ~972 |
 | Fellowship Power | 41.00% | ~752 |
 | Guild Power | 25.00% | ~458 |
 | Prestigious x10 | 22.00% | ~403 |
@@ -67,8 +67,8 @@ Rating: 4.05 (Ranked 925)
 | Cauldron Liberator | 1.00% | ~18 |
 | Guardian Master | 1.00% | ~18 |
 | Transmute | 1.00% | ~18 |
-| Titan Power | 0.90% | ~16 |
-| Training makes a Pro player | 0.90% | ~16 |
+| Titan Power | 0.90% | ~17 |
+| Training makes a Pro player | 0.90% | ~17 |
 | Enhanced War Machines | 0.70% | ~13 |
 | Tree of Life | 0.60% | ~11 |
 | Angel Power | 0.50% | ~9 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 925)
 | Silverwood liberator | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,833 (Ranked 173)  
+Progressed: 1,834 (Ranked 173)  
 Completed: 2 (0.11%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 2 (0.11%) (Ranked 205)
 | 2023-08-18 | 1,820 | 2 |
 | 2023-08-19 | 1,822 | 2 |
 | 2023-08-20 | 1,829 | 2 |
-| 2023-08-21 | 1,833 | 2 |
+| 2023-08-21 | 1,834 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

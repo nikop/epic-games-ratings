@@ -1880,7 +1880,7 @@
   ],
   "EOS_Progressed": 25243,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 173,
+  "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -10977,9 +10977,9 @@
       "ID": "Advancement",
       "SetID": "819popo",
       "Name": "Advancement",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 18175
+      "UsersEstimate": 18427
     },
     {
       "ID": "Animated",
@@ -11394,8 +11394,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-08-20T20:00:34.3047121+00:00",
-  "LastChanged_Achievements": "2023-08-21T12:04:33.6138999+00:00",
+  "LastChanged_Achievements": "2023-08-21T13:09:11.6843625+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:37.9111082+00:00",
-  "LastUpdate_Ratings": "2023-08-21T12:00:54.7292801+00:00",
-  "LastUpdate_Achievements": "2023-08-21T12:04:33.614005+00:00"
+  "LastUpdate_Ratings": "2023-08-21T13:05:59.427717+00:00",
+  "LastUpdate_Achievements": "2023-08-21T13:09:11.6845031+00:00"
 }

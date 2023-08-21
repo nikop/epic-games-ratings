@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 352,
+  "EOS_Progressed": 356,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 348,
+  "EOS_NewPlayers": 352,
   "EOS_NewCompleters": 13,
-  "EOS_Completed_Percentage": 3.69,
+  "EOS_Completed_Percentage": 3.65,
   "EosHistory": [
     {
       "Time": "2023-08-08T23:02:04.1783243+00:00",
@@ -456,6 +456,11 @@
       "Time": "2023-08-21T11:05:16.0392494+00:00",
       "NumProgressed": 352,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-08-21T13:09:04.6037924+00:00",
+      "NumProgressed": 356,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-08-08T22:02:18.1743145+00:00",
@@ -468,23 +473,23 @@
       "Name": "Played!",
       "Percentage": 85,
       "XP": 200,
-      "UsersEstimate": 299
+      "UsersEstimate": 303
     },
     {
       "ID": "Mission2",
       "SetID": "6igjng7",
       "Name": "Mission 1 clear",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 200,
-      "UsersEstimate": 144
+      "UsersEstimate": 142
     },
     {
       "ID": "Mission3",
       "SetID": "6igjng7",
       "Name": "Mission 2 clear",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 200,
-      "UsersEstimate": 102
+      "UsersEstimate": 100
     },
     {
       "ID": "Mission4",
@@ -507,14 +512,14 @@
     {
       "ID": "6igjng7",
       "IsBase": true,
-      "Progressed": 352,
+      "Progressed": 356,
       "Completed": 13
     }
   ],
   "FirstSeen": "2023-08-19T18:58:05.6794692+00:00",
   "FirstSeenAchievements": "2023-08-08T21:02:12.6548497+00:00",
-  "LastChanged_Achievements": "2023-08-21T12:04:27.4850479+00:00",
+  "LastChanged_Achievements": "2023-08-21T13:09:04.6037916+00:00",
   "LastUpdate_AppInfo": "2023-08-21T08:57:22.6470058+00:00",
-  "LastUpdate_Ratings": "2023-08-21T11:58:08.8585423+00:00",
-  "LastUpdate_Achievements": "2023-08-21T12:04:27.4850598+00:00"
+  "LastUpdate_Ratings": "2023-08-21T13:02:39.3832466+00:00",
+  "LastUpdate_Achievements": "2023-08-21T13:09:04.6038058+00:00"
 }

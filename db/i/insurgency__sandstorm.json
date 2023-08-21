@@ -3,11 +3,11 @@
   "Name": "Insurgency: Sandstorm",
   "ProductSlug": "insurgency-sandstorm",
   "Ranking_Rating": 348,
-  "Ranking_Popularity": 222,
+  "Ranking_Popularity": 223,
   "Ranking_PopularitySum": 166,
   "Ranking_EOS_Progress": 38,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 33,
+  "Ranking_EOS_NewPlayers": 32,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-02-10T17:00:00+00:00",
@@ -16969,6 +16969,6 @@
   "LastChanged": "2023-08-21T10:01:06.0196963+00:00",
   "LastChanged_Achievements": "2023-08-21T12:06:50.7851105+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:00.8075845+00:00",
-  "LastUpdate_Ratings": "2023-08-21T11:59:47.5410262+00:00",
+  "LastUpdate_Ratings": "2023-08-21T13:04:40.4147949+00:00",
   "LastUpdate_Achievements": "2023-08-21T12:06:50.7852316+00:00"
 }

@@ -2010,9 +2010,9 @@
       "ID": "TransShotForce",
       "SetID": "5lok9mm",
       "Name": "So much force",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 751
+      "UsersEstimate": 773
     },
     {
       "ID": "Translocator",
@@ -2050,8 +2050,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-07-21T20:00:23.2474099+00:00",
-  "LastChanged_Achievements": "2023-08-21T12:04:59.0624602+00:00",
+  "LastChanged_Achievements": "2023-08-21T13:09:40.956117+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:51.4184193+00:00",
-  "LastUpdate_Ratings": "2023-08-21T11:57:40.7101132+00:00",
-  "LastUpdate_Achievements": "2023-08-21T12:04:59.0625112+00:00"
+  "LastUpdate_Ratings": "2023-08-21T13:02:03.7072163+00:00",
+  "LastUpdate_Achievements": "2023-08-21T13:09:40.9561672+00:00"
 }
