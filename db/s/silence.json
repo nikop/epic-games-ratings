@@ -330,9 +330,9 @@
       "ID": "2002_achv_burnswamp",
       "SetID": "dhn82m5",
       "Name": "I didn\u0027t do it!",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "2002_achv_feedfish",
@@ -346,17 +346,17 @@
       "ID": "2002_achv_taste",
       "SetID": "dhn82m5",
       "Name": "Haute cuisine",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "2004_achv_abyss",
       "SetID": "dhn82m5",
       "Name": "Wooooooow!",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "2004_achv_hitkyra",
@@ -523,8 +523,8 @@
   "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.5644296+00:00",
   "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
-  "LastChanged_Achievements": "2023-08-21T04:07:17.8435391+00:00",
+  "LastChanged_Achievements": "2023-08-21T05:06:26.5156848+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:12.9045227+00:00",
-  "LastUpdate_Ratings": "2023-08-21T03:57:28.1789214+00:00",
-  "LastUpdate_Achievements": "2023-08-21T04:07:17.8435815+00:00"
+  "LastUpdate_Ratings": "2023-08-21T04:57:19.8898778+00:00",
+  "LastUpdate_Achievements": "2023-08-21T05:06:26.5157164+00:00"
 }

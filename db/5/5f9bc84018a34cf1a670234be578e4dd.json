@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 11,
   "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
     "PcReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -748,17 +748,17 @@
       "ID": "GasFound",
       "SetID": "7jbi7el",
       "Name": "Something is wrong here",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 100,
-      "UsersEstimate": 65
+      "UsersEstimate": 67
     },
     {
       "ID": "Hologram",
       "SetID": "7jbi7el",
       "Name": "Holographic Scanner",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 70,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "Screwdriver",
@@ -795,8 +795,8 @@
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-08-21T04:06:32.8048819+00:00",
+  "LastChanged_Achievements": "2023-08-21T05:05:49.0881179+00:00",
   "LastUpdate_AppInfo": "2023-08-15T17:57:20.4799472+00:00",
-  "LastUpdate_Ratings": "2023-08-21T03:58:51.6636835+00:00",
-  "LastUpdate_Achievements": "2023-08-21T04:06:32.8049003+00:00"
+  "LastUpdate_Ratings": "2023-08-21T04:58:25.0763572+00:00",
+  "LastUpdate_Achievements": "2023-08-21T05:05:49.0881291+00:00"
 }

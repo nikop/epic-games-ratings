@@ -41,6 +41,7 @@ Rating: 4.20 (Ranked 858)
 | Mugshot | 0.30% | ~48 |
 | Instigator | 0.30% | ~11 |
 | Subject Alpha | 0.20% | ~8 |
+| Don't Let It Mellow | 0.20% | ~8 |
 | It's over, Jacob! | 0.10% | ~16 |
 | Glutton for Punishment | 0.10% | ~4 |
 | You Belong Here | 0.10% | ~4 |
@@ -50,7 +51,6 @@ Rating: 4.20 (Ranked 858)
 | Big Game Hunter | 0.10% | ~4 |
 | Bear Trap | 0.10% | ~4 |
 | Hoard Mode | 0.10% | ~4 |
-| Don't Let It Mellow | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 15,878 (Ranked 115)  

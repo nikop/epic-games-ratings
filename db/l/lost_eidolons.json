@@ -5,9 +5,9 @@
   "Ranking_Rating": 771,
   "Ranking_Popularity": 513,
   "Ranking_PopularitySum": 513,
-  "Ranking_EOS_Progress": 195,
+  "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -170,9 +170,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1092,
+  "EOS_Progressed": 1093,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1325,6 +1325,11 @@
       "Time": "2023-08-19T19:05:18.5154356+00:00",
       "NumProgressed": 1092,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-21T05:05:07.2277178+00:00",
+      "NumProgressed": 1093,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 23,
@@ -1336,7 +1341,7 @@
       "Name": "Way of the King",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "02",
@@ -1376,7 +1381,7 @@
       "Name": "First Blood",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 699
+      "UsersEstimate": 700
     },
     {
       "ID": "07",
@@ -1464,7 +1469,7 @@
       "Name": "Ready to Learn",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 666
+      "UsersEstimate": 667
     },
     {
       "ID": "18",
@@ -1472,7 +1477,7 @@
       "Name": "Earning Trust",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "19",
@@ -1519,7 +1524,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1092,
+      "Progressed": 1093,
       "Completed": 0
     }
   ],
@@ -1527,8 +1532,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-06-30T20:00:05.692321+00:00",
-  "LastChanged_Achievements": "2023-08-21T04:05:32.9141208+00:00",
+  "LastChanged_Achievements": "2023-08-21T05:05:07.2277174+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:25.690823+00:00",
-  "LastUpdate_Ratings": "2023-08-21T03:57:29.7586335+00:00",
-  "LastUpdate_Achievements": "2023-08-21T04:05:32.9141495+00:00"
+  "LastUpdate_Ratings": "2023-08-21T04:57:21.1866673+00:00",
+  "LastUpdate_Achievements": "2023-08-21T05:05:07.2277362+00:00"
 }

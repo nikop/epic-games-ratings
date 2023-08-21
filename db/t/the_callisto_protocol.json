@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 316,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -6913,9 +6913,9 @@
       "ID": "DESTROY_FACTORY_CRATES",
       "SetID": "6j5ggkc",
       "Name": "Don\u0027t Let It Mellow",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 8
     },
     {
       "ID": "FIND_ALL_DATA_DRIVES",
@@ -6984,8 +6984,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-08-19T23:00:13.7773693+00:00",
-  "LastChanged_Achievements": "2023-08-21T04:04:22.3875161+00:00",
+  "LastChanged_Achievements": "2023-08-21T05:04:08.7241999+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:05.6628472+00:00",
-  "LastUpdate_Ratings": "2023-08-21T04:00:31.8086334+00:00",
-  "LastUpdate_Achievements": "2023-08-21T04:04:22.3876016+00:00"
+  "LastUpdate_Ratings": "2023-08-21T04:59:48.6705501+00:00",
+  "LastUpdate_Achievements": "2023-08-21T05:04:08.7242512+00:00"
 }

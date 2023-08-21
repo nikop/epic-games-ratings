@@ -4,7 +4,7 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewPlayers": 109,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1014,
+  "EOS_Progressed": 1017,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3546,6 +3546,11 @@
       "Time": "2023-08-21T03:03:15.5731074+00:00",
       "NumProgressed": 1014,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-21T05:03:38.4648896+00:00",
+      "NumProgressed": 1017,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -3573,7 +3578,7 @@
       "Name": "Fighting for Survival",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "ach_defeat_players_100",
@@ -3629,7 +3634,7 @@
       "Name": "Silver Achiever",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "objective_headquarters_10",
@@ -3637,7 +3642,7 @@
       "Name": "Keeping Busy",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "objective_headquarters_15",
@@ -3661,7 +3666,7 @@
       "Name": "Facility Online",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -3669,7 +3674,7 @@
       "Name": "Corporal",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -3701,7 +3706,7 @@
       "Name": "Major",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "objective_hero_level_up_6",
@@ -3733,15 +3738,15 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "objective_key_contest_tiles_3",
       "SetID": "bm61c2p",
       "Name": "Covert Operative",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 132
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -3749,7 +3754,7 @@
       "Name": "Getting Deployment",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -3765,7 +3770,7 @@
       "Name": "Stocking Up",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -3797,7 +3802,7 @@
       "Name": "Infantry Reporting",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -3813,7 +3818,7 @@
       "Name": "Defenses Online",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -3860,14 +3865,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1014,
+      "Progressed": 1017,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-21T04:03:47.4370105+00:00",
+  "LastChanged_Achievements": "2023-08-21T05:03:38.4648891+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:20.8459338+00:00",
-  "LastUpdate_Ratings": "2023-08-21T03:58:37.9327052+00:00",
-  "LastUpdate_Achievements": "2023-08-21T04:03:47.4370671+00:00"
+  "LastUpdate_Ratings": "2023-08-21T04:58:15.1359731+00:00",
+  "LastUpdate_Achievements": "2023-08-21T05:03:38.46493+00:00"
 }

@@ -119,6 +119,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Landowners | 0.50% | ~68 |
 | Adur Burzen-Mihr | 0.50% | ~68 |
 | Babylonia | 0.50% | ~68 |
+| One True Faith | 0.50% | ~68 |
 | Industrial Progress | 0.50% | ~68 |
 | Military Prestige | 0.50% | ~68 |
 | Enlightenment | 0.50% | ~68 |
@@ -134,7 +135,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 4 | 0.40% | ~54 |
 | Egypt | 0.40% | ~54 |
 | Rome | 0.40% | ~54 |
-| One True Faith | 0.40% | ~54 |
 | Hittite Paganism | 0.40% | ~54 |
 | Cataphract Archer | 0.40% | ~54 |
 | Turreted Elephant | 0.40% | ~54 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 278,
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1185,9 +1185,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 8429,
+  "EOS_Progressed": 8430,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 166,
+  "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11045,6 +11045,11 @@
       "Time": "2023-08-21T04:03:16.3814246+00:00",
       "NumProgressed": 8429,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-21T05:03:12.1463331+00:00",
+      "NumProgressed": 8430,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -11056,7 +11061,7 @@
       "Name": "Leader",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 5057
+      "UsersEstimate": 5058
     },
     {
       "ID": "10",
@@ -11088,7 +11093,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 4467
+      "UsersEstimate": 4468
     },
     {
       "ID": "14",
@@ -11136,7 +11141,7 @@
       "Name": "Healer",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 4383
+      "UsersEstimate": 4384
     },
     {
       "ID": "2",
@@ -11168,7 +11173,7 @@
       "Name": "First Step",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 6069
+      "UsersEstimate": 6070
     },
     {
       "ID": "23",
@@ -11216,7 +11221,7 @@
       "Name": "Merchant",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1854
+      "UsersEstimate": 1855
     },
     {
       "ID": "29",
@@ -11368,7 +11373,7 @@
       "Name": "Look, no Hands!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "46",
@@ -11448,7 +11453,7 @@
       "Name": "Top Notch",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2107
+      "UsersEstimate": 2108
     },
     {
       "ID": "55",
@@ -11512,7 +11517,7 @@
       "Name": "Real Survivor",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1854
+      "UsersEstimate": 1855
     },
     {
       "ID": "9",
@@ -11527,15 +11532,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 8429,
+      "Progressed": 8430,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-08-19T04:57:29.3183117+00:00",
-  "LastChanged_Achievements": "2023-08-21T04:03:16.381424+00:00",
+  "LastChanged_Achievements": "2023-08-21T05:03:12.1463324+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:48.2219404+00:00",
-  "LastUpdate_Ratings": "2023-08-21T03:57:53.0605633+00:00",
-  "LastUpdate_Achievements": "2023-08-21T04:03:16.3815668+00:00"
+  "LastUpdate_Ratings": "2023-08-21T04:57:36.2270455+00:00",
+  "LastUpdate_Achievements": "2023-08-21T05:03:12.1464279+00:00"
 }

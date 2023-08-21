@@ -2,9 +2,9 @@
   "ID": "267b56359a8c45ee9154861187de210b",
   "Name": "Marble It Up! Ultra",
   "ProductSlug": "marble-it-up-ultra-7b5692",
-  "Ranking_EOS_Progress": 425,
+  "Ranking_EOS_Progress": 422,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-08-17T07:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17,
+  "EOS_Progressed": 18,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -95,6 +95,11 @@
     {
       "Time": "2023-08-21T03:04:11.662408+00:00",
       "NumProgressed": 17,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-21T05:04:17.7504753+00:00",
+      "NumProgressed": 18,
       "NumCompleted": 0
     }
   ],
@@ -202,7 +207,7 @@
       "ID": "airtime_short",
       "SetID": "3448go",
       "Name": "Glider",
-      "Percentage": 24,
+      "Percentage": 22,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -226,7 +231,7 @@
       "ID": "beat_c1_gold",
       "SetID": "3448go",
       "Name": "Venture Time",
-      "Percentage": 24,
+      "Percentage": 22,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -234,7 +239,7 @@
       "ID": "beat_c1_silver",
       "SetID": "3448go",
       "Name": "Treasured Momentum",
-      "Percentage": 35,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -290,7 +295,7 @@
       "ID": "beat_c2_gold",
       "SetID": "3448go",
       "Name": "In Good Company",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -298,7 +303,7 @@
       "ID": "beat_c2_silver",
       "SetID": "3448go",
       "Name": "Gone for a Whirl",
-      "Percentage": 24,
+      "Percentage": 22,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -354,7 +359,7 @@
       "ID": "beat_c3_gold",
       "SetID": "3448go",
       "Name": "Storm the Citadel",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -362,7 +367,7 @@
       "ID": "beat_c3_silver",
       "SetID": "3448go",
       "Name": "Power-Ups and Downs",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -682,7 +687,7 @@
       "ID": "rolldist_mid",
       "SetID": "3448go",
       "Name": "Marathon",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -690,7 +695,7 @@
       "ID": "rolldist_short",
       "SetID": "3448go",
       "Name": "Rolling the Competition",
-      "Percentage": 71,
+      "Percentage": 67,
       "XP": 5,
       "UsersEstimate": 12
     },
@@ -730,7 +735,7 @@
       "ID": "trophies_10",
       "SetID": "3448go",
       "Name": "Look What I Found!",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -795,14 +800,14 @@
     {
       "ID": "3448go",
       "IsBase": true,
-      "Progressed": 17,
+      "Progressed": 18,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2023-08-21T04:04:32.7505482+00:00",
+  "LastChanged_Achievements": "2023-08-21T05:04:17.750475+00:00",
   "LastUpdate_AppInfo": "2023-08-16T18:57:08.5743948+00:00",
-  "LastUpdate_Ratings": "2023-08-21T03:58:14.9616989+00:00",
-  "LastUpdate_Achievements": "2023-08-21T04:04:32.7506473+00:00"
+  "LastUpdate_Ratings": "2023-08-21T04:57:54.333849+00:00",
+  "LastUpdate_Achievements": "2023-08-21T05:04:17.7505506+00:00"
 }

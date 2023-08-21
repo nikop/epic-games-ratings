@@ -4,7 +4,7 @@
   "ProductSlug": "the-dawning-clocks-of-time-a52f59",
   "Ranking_EOS_Progress": 549,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 361,
+  "Ranking_EOS_NewPlayers": 360,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-04-16T23:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:50:44.0062952+00:00",
-  "LastChanged_Achievements": "2023-08-21T04:06:15.1383696+00:00",
+  "LastChanged_Achievements": "2023-08-21T05:05:34.1443504+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:59.4328894+00:00",
-  "LastUpdate_Ratings": "2023-08-21T04:02:08.6479036+00:00",
-  "LastUpdate_Achievements": "2023-08-21T04:06:15.1383743+00:00"
+  "LastUpdate_Ratings": "2023-08-21T05:00:59.0073837+00:00",
+  "LastUpdate_Achievements": "2023-08-21T05:05:34.1443567+00:00"
 }
