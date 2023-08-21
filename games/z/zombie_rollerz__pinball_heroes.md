@@ -25,8 +25,8 @@
 | Inferno Ruins | 26.00% | ~37 |
 | I'm Rich | 24.00% | ~34 |
 | 1 is all I need | 23.00% | ~33 |
+| The Slime | 23.00% | ~33 |
 | Untouchable | 22.00% | ~31 |
-| The Slime | 22.00% | ~31 |
 | The Flower | 18.00% | ~26 |
 | The Giant | 18.00% | ~26 |
 | Out of the Frying Pan... | 18.00% | ~26 |

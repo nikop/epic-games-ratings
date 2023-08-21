@@ -5686,9 +5686,9 @@
       "Count": 3737
     }
   ],
-  "EOS_Progressed": 134873,
+  "EOS_Progressed": 134875,
   "EOS_Completed": 133,
-  "EOS_NewPlayers": 383,
+  "EOS_NewPlayers": 381,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -18256,6 +18256,11 @@
       "Time": "2023-08-21T07:07:15.3535108+00:00",
       "NumProgressed": 134873,
       "NumCompleted": 133
+    },
+    {
+      "Time": "2023-08-21T08:07:01.7479153+00:00",
+      "NumProgressed": 134875,
+      "NumCompleted": 133
     }
   ],
   "TotalAchievements": 112,
@@ -18275,7 +18280,7 @@
       "Name": "On the Path to Greatness",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "advlevel03",
@@ -18315,7 +18320,7 @@
       "Name": "Ascended",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "ascend02",
@@ -18395,7 +18400,7 @@
       "Name": "Vanity, Verily",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "boss01",
@@ -18459,7 +18464,7 @@
       "Name": "Blank Page Syndrome",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "collection02",
@@ -18507,7 +18512,7 @@
       "Name": "Demand for Supplies",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "commonres03",
@@ -18571,7 +18576,7 @@
       "Name": "Where it Hurts",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "damage02",
@@ -18675,7 +18680,7 @@
       "Name": "Efficient Floor Space",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "furniture02",
@@ -18731,7 +18736,7 @@
       "Name": "Gem Expert",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "gold01",
@@ -18755,7 +18760,7 @@
       "Name": "Gild-Gotten Goods",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "gold04",
@@ -18787,7 +18792,7 @@
       "Name": "Helping Hand",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "help02",
@@ -18859,7 +18864,7 @@
       "Name": "Accomplished Merchant",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "level03",
@@ -18979,7 +18984,7 @@
       "Name": "Did we pack lunch?",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "quest02",
@@ -19097,9 +19102,9 @@
       "ID": "typeunlock01",
       "SetID": "anfd17p",
       "Name": "All Accounted For",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 270
     },
     {
       "ID": "uncommonres01",
@@ -19139,7 +19144,7 @@
       "Name": "Arcane Industries",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "workers03",
@@ -19162,15 +19167,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 134873,
+      "Progressed": 134875,
       "Completed": 133
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-08-21T03:00:47.0894534+00:00",
-  "LastChanged_Achievements": "2023-08-21T07:07:15.3535099+00:00",
+  "LastChanged_Achievements": "2023-08-21T08:07:01.7479148+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:50.7489496+00:00",
-  "LastUpdate_Ratings": "2023-08-21T07:01:18.3584503+00:00",
-  "LastUpdate_Achievements": "2023-08-21T07:07:15.3536873+00:00"
+  "LastUpdate_Ratings": "2023-08-21T08:01:24.859857+00:00",
+  "LastUpdate_Achievements": "2023-08-21T08:07:01.7481099+00:00"
 }

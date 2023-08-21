@@ -2,9 +2,9 @@
   "ID": "f775879e25c241019cc8f5a96de143a9",
   "Name": "Undergrave",
   "ProductSlug": "undergrave-4d084b",
-  "Ranking_EOS_Progress": 549,
+  "Ranking_EOS_Progress": 550,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewPlayers": 358,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-07-13T16:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:30.5829736+00:00",
   "LastChanged": "2023-03-31T05:57:30.5829737+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:48.8911698+00:00",
-  "LastUpdate_Ratings": "2023-08-21T07:02:17.5571704+00:00",
-  "LastUpdate_Achievements": "2023-08-21T07:04:38.4875426+00:00"
+  "LastUpdate_Ratings": "2023-08-21T08:02:24.139243+00:00",
+  "LastUpdate_Achievements": "2023-08-21T08:04:46.1743592+00:00"
 }

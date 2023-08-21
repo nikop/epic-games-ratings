@@ -5,10 +5,10 @@ Rating: 4.63 (Ranked 329)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| En Garde! | 100.00% | ~2 |
-| Déjà Vu | 50.00% | ~1 |
-| Supersleuth | 50.00% | ~1 |
-| Somebody Set Up Us The Bomb | 50.00% | ~1 |
+| En Garde! | 67.00% | ~2 |
+| Déjà Vu | 33.00% | ~1 |
+| Supersleuth | 33.00% | ~1 |
+| Somebody Set Up Us The Bomb | 33.00% | ~1 |
 | Shields Up! | 0.00% | ~0 |
 | Load ‘em Up! | 0.00% | ~0 |
 | I’ll See You Again, Hacker | 0.00% | ~0 |
@@ -52,13 +52,14 @@ Rating: 4.63 (Ranked 329)
 | Enjoy Your Purchase | 0.00% | ~0 |
 | Off The Grid | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2 (Ranked 487)  
+Progressed: 3 (Ranked 480)  
 Completed: 0 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-05-31 | 1 | 0 |
 | 2023-06-26 | 2 | 0 |
+| 2023-08-21 | 3 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

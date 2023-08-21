@@ -2095,9 +2095,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 656827,
+  "EOS_Progressed": 656830,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 2486,
+  "EOS_NewPlayers": 2480,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15665,6 +15665,11 @@
       "Time": "2023-08-21T07:07:13.2723097+00:00",
       "NumProgressed": 656827,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-08-21T08:06:59.8034698+00:00",
+      "NumProgressed": 656830,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 54,
@@ -15676,7 +15681,7 @@
       "Name": "The dream begins",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 525462
+      "UsersEstimate": 525464
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -15764,7 +15769,7 @@
       "Name": "Every story has a beginning",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 236458
+      "UsersEstimate": 236459
     },
     {
       "ID": "COMPLETE_PARK_CONTRACT",
@@ -15914,9 +15919,9 @@
       "ID": "DRIVE_1_MILE",
       "SetID": "dg1ia2",
       "Name": "The first of many",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 203616
+      "UsersEstimate": 210186
     },
     {
       "ID": "FIRST_CHALLENGE",
@@ -16092,7 +16097,7 @@
       "Name": "Blade Runner",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 59114
+      "UsersEstimate": 59115
     },
     {
       "ID": "UPGRADE_COMPANY_HQ",
@@ -16107,15 +16112,15 @@
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 656827,
+      "Progressed": 656830,
       "Completed": 15
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2023-08-15T01:38:55.4827972+00:00",
-  "LastChanged_Achievements": "2023-08-21T07:07:13.2723087+00:00",
+  "LastChanged_Achievements": "2023-08-21T08:06:59.8034694+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:59.9832143+00:00",
-  "LastUpdate_Ratings": "2023-08-21T07:00:35.9432161+00:00",
-  "LastUpdate_Achievements": "2023-08-21T07:07:13.2724122+00:00"
+  "LastUpdate_Ratings": "2023-08-21T08:00:44.6390239+00:00",
+  "LastUpdate_Achievements": "2023-08-21T08:06:59.8035776+00:00"
 }

@@ -366,9 +366,9 @@
       "ID": "ACH_ENTER_REGION_LIZARD",
       "SetID": "7i20me3",
       "Name": "Searing Heat",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_ENTER_REGION_SPIRE",
@@ -446,9 +446,9 @@
       "ID": "ACH_FIND_ALL_PLANT_TYPES",
       "SetID": "7i20me3",
       "Name": "Witch",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_FIND_ALL_RUNES",
@@ -653,8 +653,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-08-21T07:08:07.7872857+00:00",
+  "LastChanged_Achievements": "2023-08-21T08:07:54.7407761+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:48.9924953+00:00",
-  "LastUpdate_Ratings": "2023-08-21T07:00:26.9106202+00:00",
-  "LastUpdate_Achievements": "2023-08-21T07:08:07.7873172+00:00"
+  "LastUpdate_Ratings": "2023-08-21T08:00:36.2850317+00:00",
+  "LastUpdate_Achievements": "2023-08-21T08:07:54.7408106+00:00"
 }

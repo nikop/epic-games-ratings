@@ -2,9 +2,9 @@
   "ID": "745fc8d94b6244caa3a97f453ddb92ca",
   "Name": "Project Nightmares Case 36: Henrietta Kedward",
   "ProductSlug": "project-nightmares-dcc54b",
-  "Ranking_EOS_Progress": 453,
+  "Ranking_EOS_Progress": 452,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 287,
+  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-08-10T13:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9,
+  "EOS_Progressed": 10,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -70,6 +70,11 @@
     {
       "Time": "2023-08-18T07:06:27.9758903+00:00",
       "NumProgressed": 9,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-21T08:06:27.08528+00:00",
+      "NumProgressed": 10,
       "NumCompleted": 0
     }
   ],
@@ -225,7 +230,7 @@
       "ID": "ST_PLAGUE",
       "SetID": "9675gi1",
       "Name": "Plague Control",
-      "Percentage": 67,
+      "Percentage": 60,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -242,14 +247,14 @@
     {
       "ID": "9675gi1",
       "IsBase": true,
-      "Progressed": 9,
+      "Progressed": 10,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-13T20:57:41.0534986+00:00",
   "FirstSeenAchievements": "2023-07-27T13:10:49.3119111+00:00",
-  "LastChanged_Achievements": "2023-08-21T07:06:29.9678957+00:00",
+  "LastChanged_Achievements": "2023-08-21T08:06:27.0852795+00:00",
   "LastUpdate_AppInfo": "2023-08-17T16:57:04.6671168+00:00",
-  "LastUpdate_Ratings": "2023-08-21T06:58:57.1566952+00:00",
-  "LastUpdate_Achievements": "2023-08-21T07:06:29.9679075+00:00"
+  "LastUpdate_Ratings": "2023-08-21T07:59:01.673286+00:00",
+  "LastUpdate_Achievements": "2023-08-21T08:06:27.0852969+00:00"
 }

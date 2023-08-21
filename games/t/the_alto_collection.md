@@ -18,10 +18,10 @@ Number of Ratings: 332  (23.09.2022)
 | Enter Paz | 8.00% | ~2,895 |
 | Wanderer | 8.00% | ~2,895 |
 | Aviator | 6.00% | ~2,171 |
-| My Little Friend | 5.00% | ~1,809 |
-| One With The Board | 5.00% | ~1,809 |
-| Voyager | 5.00% | ~1,809 |
-| Izel Has Arrived | 4.00% | ~1,447 |
+| My Little Friend | 5.00% | ~1,810 |
+| One With The Board | 5.00% | ~1,810 |
+| Voyager | 5.00% | ~1,810 |
+| Izel Has Arrived | 4.00% | ~1,448 |
 | Junkie | 3.00% | ~1,086 |
 | Traveler | 3.00% | ~1,086 |
 | Journeyer | 3.00% | ~1,086 |
@@ -36,7 +36,7 @@ Number of Ratings: 332  (23.09.2022)
 | Introducing Sumara | 1.00% | ~362 |
 | Vandal | 1.00% | ~362 |
 | Daredevil | 0.90% | ~326 |
-| Unlock Felipe | 0.80% | ~289 |
+| Unlock Felipe | 0.80% | ~290 |
 | Adventurer | 0.70% | ~253 |
 | Unlock Tupa | 0.50% | ~181 |
 | Master Of The Sands | 0.30% | ~109 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~36 |
 | Windswept | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36,187 (Ranked 96)  
+Progressed: 36,190 (Ranked 96)  
 Completed: 5 (0.01%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,7 +169,7 @@ Completed: 5 (0.01%) (Ranked 248)
 | 2023-08-18 | 35,891 | 5 |
 | 2023-08-19 | 36,002 | 5 |
 | 2023-08-20 | 36,150 | 5 |
-| 2023-08-21 | 36,187 | 5 |
+| 2023-08-21 | 36,190 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 46  (Ranked 410)  
 Sum: 359 (Ranked 329)  

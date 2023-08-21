@@ -152,9 +152,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17383,
+  "EOS_Progressed": 17384,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 188,
+  "EOS_NewPlayers": 189,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -10307,6 +10307,11 @@
       "Time": "2023-08-21T05:03:14.8480141+00:00",
       "NumProgressed": 17383,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-08-21T08:03:18.7092083+00:00",
+      "NumProgressed": 17384,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 14,
@@ -10342,7 +10347,7 @@
       "Name": "Danger Ahead",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 4693
+      "UsersEstimate": 4694
     },
     {
       "ID": "ACH_DONT_BRING_ME_DOWN",
@@ -10374,7 +10379,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 9213
+      "UsersEstimate": 9214
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -10398,7 +10403,7 @@
       "Name": "Look at Me Now",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 4867
+      "UsersEstimate": 4868
     },
     {
       "ID": "ACH_THE_FALL",
@@ -10429,15 +10434,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 17383,
+      "Progressed": 17384,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-08-16T03:57:34.8125865+00:00",
-  "LastChanged_Achievements": "2023-08-21T07:02:51.0163206+00:00",
+  "LastChanged_Achievements": "2023-08-21T08:03:18.7092078+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:14.8695583+00:00",
-  "LastUpdate_Ratings": "2023-08-21T06:58:28.1270383+00:00",
-  "LastUpdate_Achievements": "2023-08-21T07:02:51.0163813+00:00"
+  "LastUpdate_Ratings": "2023-08-21T07:58:30.5923368+00:00",
+  "LastUpdate_Achievements": "2023-08-21T08:03:18.7092696+00:00"
 }

@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 61223,
+  "EOS_Progressed": 61224,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 393,
+  "EOS_NewPlayers": 394,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11912,6 +11912,11 @@
       "Time": "2023-08-21T05:06:07.8465544+00:00",
       "NumProgressed": 61223,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-21T08:07:06.6162939+00:00",
+      "NumProgressed": 61224,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -11931,7 +11936,7 @@
       "Name": "Nordic Walking",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 14081
+      "UsersEstimate": 14082
     },
     {
       "ID": "03",
@@ -11939,7 +11944,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 14081
+      "UsersEstimate": 14082
     },
     {
       "ID": "04",
@@ -12331,7 +12336,7 @@
       "Name": "A Friend Indeed",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1481
+      "UsersEstimate": 1482
     },
     {
       "ID": "53",
@@ -12458,21 +12463,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 61223,
+      "Progressed": 61224,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 24691,
+      "Progressed": 24692,
       "Completed": 50
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-21T07:07:20.1547585+00:00",
+  "LastChanged_Achievements": "2023-08-21T08:07:06.6162935+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:35.5614422+00:00",
-  "LastUpdate_Ratings": "2023-08-21T07:00:09.683231+00:00",
-  "LastUpdate_Achievements": "2023-08-21T07:07:20.1548602+00:00"
+  "LastUpdate_Ratings": "2023-08-21T08:00:17.466766+00:00",
+  "LastUpdate_Achievements": "2023-08-21T08:07:06.6164082+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "dcaca38045a049b2b50fba8a4dac4407",
   "Name": "Days of War Editor",
   "ProductSlug": "days-of-war",
-  "Ranking_EOS_Progress": 549,
+  "Ranking_EOS_Progress": 550,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewPlayers": 358,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": null,
@@ -26,6 +26,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-19T08:57:47.3672584+00:00",
-  "LastUpdate_Ratings": "2023-08-21T06:57:47.8168342+00:00",
-  "LastUpdate_Achievements": "2023-08-21T07:06:35.0767804+00:00"
+  "LastUpdate_Ratings": "2023-08-21T07:57:49.3319822+00:00",
+  "LastUpdate_Achievements": "2023-08-21T08:06:32.0679505+00:00"
 }

@@ -34,7 +34,7 @@ Number of Ratings: 209  (23.09.2022)
 | Ripped | 84.00% | ~1,855 |
 | Beat the big arena | 83.00% | ~1,833 |
 | Force Cube | 82.00% | ~1,811 |
-| Got Battery | 80.00% | ~1,766 |
+| Got Battery | 81.00% | ~1,788 |
 | Guard Distracted | 80.00% | ~1,766 |
 | Translocator | 80.00% | ~1,766 |
 | Inner Peace | 77.00% | ~1,700 |

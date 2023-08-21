@@ -4,7 +4,7 @@
   "ProductSlug": "i-saw-black-clouds-67008d",
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 116,
-  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewPlayers": 289,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 289,
+  "EOS_Progressed": 290,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.04,
+  "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:35.1686756+00:00",
@@ -293,6 +293,11 @@
       "Time": "2023-08-16T14:04:42.5512174+00:00",
       "NumProgressed": 289,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-21T08:03:43.5369933+00:00",
+      "NumProgressed": 290,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 15,
@@ -312,7 +317,7 @@
       "Name": "Believer",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "clear",
@@ -368,7 +373,7 @@
       "Name": "Jack",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "nonconsensual",
@@ -423,7 +428,7 @@
     {
       "ID": "8b5dfcp",
       "IsBase": true,
-      "Progressed": 289,
+      "Progressed": 290,
       "Completed": 3
     }
   ],
@@ -431,8 +436,8 @@
   "FirstSeenRating": "2023-03-31T05:57:25.6585069+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.1686763+00:00",
   "LastChanged": "2023-03-31T05:57:25.658507+00:00",
-  "LastChanged_Achievements": "2023-08-21T07:03:25.5920813+00:00",
+  "LastChanged_Achievements": "2023-08-21T08:03:43.5369927+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:47.6144433+00:00",
-  "LastUpdate_Ratings": "2023-08-21T06:57:47.9211316+00:00",
-  "LastUpdate_Achievements": "2023-08-21T07:03:25.5920928+00:00"
+  "LastUpdate_Ratings": "2023-08-21T07:57:49.5036828+00:00",
+  "LastUpdate_Achievements": "2023-08-21T08:03:43.5370046+00:00"
 }

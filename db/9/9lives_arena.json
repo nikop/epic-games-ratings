@@ -2,9 +2,9 @@
   "ID": "b6dd761bd5894441b3e3776b7bfe5bb4",
   "Name": "9Lives Arena",
   "ProductSlug": "9lives-arena-fb6229",
-  "Ranking_EOS_Progress": 549,
+  "Ranking_EOS_Progress": 550,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewPlayers": 358,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-19T07:58:25.833616+00:00",
-  "LastUpdate_Ratings": "2023-08-21T07:01:03.1530766+00:00",
-  "LastUpdate_Achievements": "2023-08-21T07:03:40.480966+00:00"
+  "LastUpdate_Ratings": "2023-08-21T08:01:08.8209723+00:00",
+  "LastUpdate_Achievements": "2023-08-21T08:03:58.4571737+00:00"
 }

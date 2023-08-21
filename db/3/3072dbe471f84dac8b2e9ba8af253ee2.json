@@ -2,9 +2,9 @@
   "ID": "3072dbe471f84dac8b2e9ba8af253ee2",
   "Name": "Wild Card Football",
   "ProductSlug": "wild-card-football",
-  "Ranking_EOS_Progress": 549,
+  "Ranking_EOS_Progress": 550,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewPlayers": 358,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-10-10T12:00:00+00:00",
@@ -32,6 +32,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-03T13:03:10.7629076+00:00",
   "LastUpdate_AppInfo": "2023-08-17T13:57:11.8077624+00:00",
-  "LastUpdate_Ratings": "2023-08-21T06:58:29.0650066+00:00",
-  "LastUpdate_Achievements": "2023-08-21T07:04:48.9010761+00:00"
+  "LastUpdate_Ratings": "2023-08-21T07:58:31.6285988+00:00",
+  "LastUpdate_Achievements": "2023-08-21T08:04:56.4129314+00:00"
 }

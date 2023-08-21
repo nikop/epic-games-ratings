@@ -2,9 +2,9 @@
   "ID": "16d321658b0f4467a9b9ae2d10eb61d3",
   "Name": "Zool Redimensioned",
   "ProductSlug": "zool-redimensioned-5c52a7",
-  "Ranking_EOS_Progress": 549,
+  "Ranking_EOS_Progress": 550,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewPlayers": 358,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-01-12T15:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:40.6474009+00:00",
   "LastChanged": "2023-03-31T05:58:40.6474011+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:24.8786577+00:00",
-  "LastUpdate_Ratings": "2023-08-21T07:01:55.6194012+00:00",
-  "LastUpdate_Achievements": "2023-08-21T07:02:34.4653014+00:00"
+  "LastUpdate_Ratings": "2023-08-21T08:02:01.468057+00:00",
+  "LastUpdate_Achievements": "2023-08-21T08:02:42.2779925+00:00"
 }

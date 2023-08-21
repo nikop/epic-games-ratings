@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 21.00% | ~45,237 |
+| Sowwy! | 21.00% | ~45,239 |
 | Where's that freaking Dwarf? | 2.00% | ~4,308 |
 | Alt+F4 | 2.00% | ~4,308 |
 | Déjà vu | 1.00% | ~2,154 |
@@ -19,14 +19,14 @@ Number of Ratings: 118  (23.09.2022)
 | Livin' in a dwarven paradise | 0.70% | ~1,508 |
 | Way of the Wimp | 0.70% | ~1,508 |
 | The plot thickens... At the tavern | 0.70% | ~1,508 |
-| The demons' feast | 0.60% | ~1,292 |
-| The Great Library | 0.60% | ~1,292 |
-| Torture and Sensibility | 0.60% | ~1,292 |
-| Urik's Depths | 0.60% | ~1,292 |
-| The Woman in the High Castle | 0.60% | ~1,292 |
-| %#*!$*! | 0.60% | ~1,292 |
-| Team Building Exercise | 0.60% | ~1,292 |
-| Oh, when I'll be level 10... | 0.60% | ~1,292 |
+| The demons' feast | 0.60% | ~1,293 |
+| The Great Library | 0.60% | ~1,293 |
+| Torture and Sensibility | 0.60% | ~1,293 |
+| Urik's Depths | 0.60% | ~1,293 |
+| The Woman in the High Castle | 0.60% | ~1,293 |
+| %#*!$*! | 0.60% | ~1,293 |
+| Team Building Exercise | 0.60% | ~1,293 |
+| Oh, when I'll be level 10... | 0.60% | ~1,293 |
 | Shiny and Crôm | 0.50% | ~1,077 |
 | The Dungeon Master | 0.50% | ~1,077 |
 | The Statuette of Gladeulfeurah | 0.50% | ~1,077 |
@@ -46,6 +46,7 @@ Number of Ratings: 118  (23.09.2022)
 | Material Girl | 0.30% | ~646 |
 | An old poacher makes the best gamekeeper | 0.20% | ~431 |
 | We come in peace | 0.20% | ~431 |
+| Law and Order | 0.20% | ~431 |
 | In Navalu's footsteps | 0.20% | ~431 |
 | Lëgal Legend | 0.20% | ~431 |
 | Cursed die | 0.10% | ~215 |
@@ -86,7 +87,6 @@ Number of Ratings: 118  (23.09.2022)
 | Death is for wimps | 0.10% | ~215 |
 | Super-Ultra-Lydian | 0.10% | ~215 |
 | Lord of the Drunks | 0.10% | ~215 |
-| Law and Order | 0.10% | ~215 |
 | Inception | 0.10% | ~215 |
 | It's been a hard day's night | 0.10% | ~215 |
 | Demisemiquaver | 0.10% | ~215 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Staff cut | 0.00% | ~0 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,416 (Ranked 56)  
+Progressed: 215,422 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,7 +177,7 @@ Completed: 2 (0.00%) (Ranked 261)
 | 2023-08-18 | 214,230 | 2 |
 | 2023-08-19 | 214,804 | 2 |
 | 2023-08-20 | 215,307 | 2 |
-| 2023-08-21 | 215,416 | 2 |
+| 2023-08-21 | 215,422 | 2 |
 ## Awards
 Max (Character Customization): 172  (Ranked 287)  
 Sum: 213 (Ranked 366)  

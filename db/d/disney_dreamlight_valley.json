@@ -10265,9 +10265,9 @@
       "ID": "Gardener",
       "SetID": "chapdi4",
       "Name": "Gardener",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 75,
-      "UsersEstimate": 2747
+      "UsersEstimate": 2836
     },
     {
       "ID": "Generous",
@@ -10338,8 +10338,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-08-20T21:59:53.7474862+00:00",
-  "LastChanged_Achievements": "2023-08-21T07:05:08.978252+00:00",
+  "LastChanged_Achievements": "2023-08-21T08:05:16.5262382+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:11.7023574+00:00",
-  "LastUpdate_Ratings": "2023-08-21T07:00:48.8815468+00:00",
-  "LastUpdate_Achievements": "2023-08-21T07:05:08.9782956+00:00"
+  "LastUpdate_Ratings": "2023-08-21T08:00:55.1333182+00:00",
+  "LastUpdate_Achievements": "2023-08-21T08:05:16.5262829+00:00"
 }

@@ -581,17 +581,17 @@
       "ID": "ACHIEVEMENT_25",
       "SetID": "ap8553i",
       "Name": "One Man Army",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_26",
       "SetID": "ap8553i",
       "Name": "Ammo Conservationist",
-      "Percentage": 1,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -970,8 +970,8 @@
   ],
   "FirstSeen": "2023-08-04T21:57:01.9865679+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5206267+00:00",
-  "LastChanged_Achievements": "2023-08-21T07:05:37.7137649+00:00",
+  "LastChanged_Achievements": "2023-08-21T08:05:45.0322809+00:00",
   "LastUpdate_AppInfo": "2023-08-16T16:57:24.4284709+00:00",
-  "LastUpdate_Ratings": "2023-08-21T06:58:34.3750993+00:00",
-  "LastUpdate_Achievements": "2023-08-21T07:05:37.7138331+00:00"
+  "LastUpdate_Ratings": "2023-08-21T07:58:36.7867189+00:00",
+  "LastUpdate_Achievements": "2023-08-21T08:05:45.0323487+00:00"
 }

@@ -15,10 +15,10 @@
 | The Golden Flash | 10.00% | ~5 |
 | The Power of the Mountains | 10.00% | ~5 |
 | Bringing guns to a sword fight | 8.00% | ~4 |
+| Searing Heat | 8.00% | ~4 |
 | Locked and Loaded | 8.00% | ~4 |
 | Nothing but the Truth | 8.00% | ~4 |
 | Defeat Tezuth | 6.00% | ~3 |
-| Searing Heat | 6.00% | ~3 |
 | Through Dangers Untold | 6.00% | ~3 |
 | Changing the World | 6.00% | ~3 |
 | Sponsor | 4.00% | ~2 |
@@ -34,6 +34,7 @@
 | Forest Expert | 2.00% | ~1 |
 | Ancient Powers | 2.00% | ~1 |
 | Knowledge is King | 2.00% | ~1 |
+| Witch | 2.00% | ~1 |
 | Wizard | 2.00% | ~1 |
 | Bookworm | 2.00% | ~1 |
 | Globetrotter | 2.00% | ~1 |
@@ -43,7 +44,6 @@
 | Collector | 0.00% | ~0 |
 | Explorer by Heart | 0.00% | ~0 |
 | Fashionista | 0.00% | ~0 |
-| Witch | 0.00% | ~0 |
 | Trailblazer | 0.00% | ~0 |
 | Wayseeker | 0.00% | ~0 |
 | Pathfinder | 0.00% | ~0 |
