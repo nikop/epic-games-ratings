@@ -5,14 +5,14 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A New Journey | 72.00% | ~266 |
-| The Adventure Begins | 46.00% | ~170 |
+| The Adventure Begins | 47.00% | ~174 |
 | Swabbie | 28.00% | ~104 |
 | With Great Power… | 24.00% | ~89 |
-| This Belongs in a Museum | 18.00% | ~67 |
+| This Belongs in a Museum | 19.00% | ~70 |
 | The Gambit Has Begun | 12.00% | ~44 |
 | Powder Monkey | 11.00% | ~41 |
+| Persistent Parasite | 8.00% | ~30 |
 | Fishy Fish | 8.00% | ~30 |
-| Persistent Parasite | 7.00% | ~26 |
 | Somewhere Deep in the Lost Caribbean | 6.00% | ~22 |
 | Mirror Mirror on the Wall | 6.00% | ~22 |
 | Buccaneer | 5.00% | ~18 |

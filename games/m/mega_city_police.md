@@ -17,6 +17,7 @@
 | Gibbing Love | 3.00% | ~1 |
 | Vintage Collector | 3.00% | ~1 |
 | Dust to Dust | 3.00% | ~1 |
+| The Hunt | 3.00% | ~1 |
 | Knife Juggler | 3.00% | ~1 |
 | Head of the Snake | 0.00% | ~0 |
 | Barbecue Time | 0.00% | ~0 |
@@ -25,7 +26,6 @@
 | Captain | 0.00% | ~0 |
 | Chief | 0.00% | ~0 |
 | Feel the Spark | 0.00% | ~0 |
-| The Hunt | 0.00% | ~0 |
 | For Science | 0.00% | ~0 |
 | Millionaire | 0.00% | ~0 |
 | Fashionista | 0.00% | ~0 |

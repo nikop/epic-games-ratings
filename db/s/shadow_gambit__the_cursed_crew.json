@@ -622,17 +622,17 @@
       "ID": "_03_FinishAct1",
       "SetID": "8a1io5d",
       "Name": "The Adventure Begins",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 174
     },
     {
       "ID": "_04_CollectAllRelics",
       "SetID": "8a1io5d",
       "Name": "This Belongs in a Museum",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 70
     },
     {
       "ID": "_05_FinishAct2",
@@ -750,9 +750,9 @@
       "ID": "_19_CrewTale_BSP",
       "SetID": "8a1io5d",
       "Name": "Persistent Parasite",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 30
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -821,8 +821,8 @@
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-20T23:03:43.9642562+00:00",
+  "LastChanged_Achievements": "2023-08-21T00:03:22.6560702+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:01.7621403+00:00",
-  "LastUpdate_Ratings": "2023-08-20T22:59:42.0008629+00:00",
-  "LastUpdate_Achievements": "2023-08-20T23:03:43.964293+00:00"
+  "LastUpdate_Ratings": "2023-08-20T23:59:21.8689505+00:00",
+  "LastUpdate_Achievements": "2023-08-21T00:03:22.6560917+00:00"
 }

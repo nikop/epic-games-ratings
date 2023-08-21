@@ -652,18 +652,24 @@
       "Rating": 4.58,
       "NumberOfAwards": 211,
       "NumberOfAwardsMax": 170
+    },
+    {
+      "Time": "2023-08-21T00:00:20.1938171+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 213,
+      "NumberOfAwardsMax": 172
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 211,
-  "NumberOfAwardsMax": 170,
+  "NumberOfAwards": 213,
+  "NumberOfAwardsMax": 172,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 170
+      "Count": 172
     },
     {
       "Text": "This game is Relaxing",
@@ -678,7 +684,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 215307,
+  "EOS_Progressed": 215327,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 3450,
   "EOS_NewCompleters": 0,
@@ -7678,6 +7684,11 @@
       "Time": "2023-08-20T23:01:00.9175633+00:00",
       "NumProgressed": 215307,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-21T00:00:41.4921967+00:00",
+      "NumProgressed": 215327,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -8089,7 +8100,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4306
+      "UsersEstimate": 4307
     },
     {
       "ID": "DwarfElf15Support",
@@ -8137,7 +8148,7 @@
       "Name": "Sowwy!",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 43061
+      "UsersEstimate": 43065
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -8185,7 +8196,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4306
+      "UsersEstimate": 4307
     },
     {
       "ID": "FollowBraztok",
@@ -8392,21 +8403,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 215307,
+      "Progressed": 215327,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 215307,
+      "Progressed": 215327,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
-  "LastChanged": "2023-08-19T12:00:42.0371469+00:00",
-  "LastChanged_Achievements": "2023-08-20T23:01:00.9175626+00:00",
+  "LastChanged": "2023-08-21T00:00:20.1938169+00:00",
+  "LastChanged_Achievements": "2023-08-21T00:00:41.4921962+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:36.4163589+00:00",
-  "LastUpdate_Ratings": "2023-08-20T23:00:41.4656778+00:00",
-  "LastUpdate_Achievements": "2023-08-20T23:01:00.9178371+00:00"
+  "LastUpdate_Ratings": "2023-08-21T00:00:20.1938176+00:00",
+  "LastUpdate_Achievements": "2023-08-21T00:00:41.4923434+00:00"
 }

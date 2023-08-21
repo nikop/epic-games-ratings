@@ -14,30 +14,30 @@
 | Road-Trip | 61.00% | ~57 |
 | A Musical Pause | 59.00% | ~55 |
 | Briget's | 51.00% | ~47 |
-| Big City Music | 45.00% | ~42 |
-| Sound of Noise | 45.00% | ~42 |
+| Big City Music | 46.00% | ~43 |
+| Sound of Noise | 46.00% | ~43 |
 | Love at First Sight | 42.00% | ~39 |
 | First Kiss | 35.00% | ~33 |
-| Symbiosis | 32.00% | ~30 |
+| Symbiosis | 33.00% | ~31 |
 | A Bigger Band | 31.00% | ~29 |
 | Fuel | 27.00% | ~25 |
 | Alone Together | 25.00% | ~23 |
 | Threatening Nature | 23.00% | ~21 |
-| TV Dreams | 22.00% | ~20 |
+| TV Dreams | 23.00% | ~21 |
 | Flat Tire | 20.00% | ~19 |
+| Dreamers | 18.00% | ~17 |
 | The Clash | 17.00% | ~16 |
-| Dreamers | 17.00% | ~16 |
-| The Fix | 15.00% | ~14 |
+| The Fix | 16.00% | ~15 |
+| Time | 13.00% | ~12 |
 | The Mountains, The Valleys | 13.00% | ~12 |
-| Time | 12.00% | ~11 |
 | Regrets | 12.00% | ~11 |
 | The Accident | 11.00% | ~10 |
 | The Awakening | 11.00% | ~10 |
 | Bad Trip | 10.00% | ~9 |
 | Love | 10.00% | ~9 |
 | Here we go again! | 10.00% | ~9 |
+| Flight of the Bumblebee | 9.00% | ~8 |
 | Chase the Crow | 8.00% | ~7 |
-| Flight of the Bumblebee | 8.00% | ~7 |
 | Milk and Alcohol | 5.00% | ~5 |
 | Gasoline | 4.00% | ~4 |
 | On the Road Again | 4.00% | ~4 |

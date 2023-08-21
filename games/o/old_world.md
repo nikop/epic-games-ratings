@@ -28,6 +28,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong | 2.00% | ~270 |
 | Warrior | 2.00% | ~270 |
 | Developing Cities | 2.00% | ~270 |
+| Strong Cities | 2.00% | ~270 |
 | Hanging Gardens | 2.00% | ~270 |
 | Lighthouse | 2.00% | ~270 |
 | Oracle | 2.00% | ~270 |
@@ -47,7 +48,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Valiant | 1.00% | ~135 |
 | Wise | 1.00% | ~135 |
 | Legendary Cities | 1.00% | ~135 |
-| Strong Cities | 1.00% | ~135 |
 | Able Difficulty | 1.00% | ~135 |
 | Just Difficulty | 1.00% | ~135 |
 | Artisans | 1.00% | ~135 |
@@ -96,6 +96,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legalism | 0.70% | ~95 |
 | Legionary | 0.70% | ~95 |
 | Phalangite | 0.70% | ~95 |
+| Win a Single Player Game | 0.70% | ~95 |
 | Capable | 0.60% | ~81 |
 | Invincible | 0.60% | ~81 |
 | Ready | 0.60% | ~81 |
@@ -111,7 +112,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cimmerian Archer | 0.60% | ~81 |
 | Ambition Victory | 0.60% | ~81 |
 | Double Victory | 0.60% | ~81 |
-| Win a Single Player Game | 0.60% | ~81 |
 | Bad Heir Day | 0.50% | ~68 |
 | Devout | 0.50% | ~68 |
 | Strong Difficulty | 0.50% | ~68 |

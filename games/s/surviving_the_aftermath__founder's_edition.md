@@ -6,30 +6,30 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 72.00% | ~6,065 |
-| Leader | 60.00% | ~5,054 |
+| First Step | 72.00% | ~6,066 |
+| Leader | 60.00% | ~5,055 |
 | Explorer | 53.00% | ~4,465 |
-| Healer | 52.00% | ~4,380 |
+| Healer | 52.00% | ~4,381 |
 | Aspiring Inventor | 44.00% | ~3,707 |
 | Adventurer | 41.00% | ~3,454 |
-| Famous Healer | 38.00% | ~3,201 |
-| Local Leader | 35.00% | ~2,948 |
+| Famous Healer | 38.00% | ~3,202 |
+| Local Leader | 35.00% | ~2,949 |
 | Famous Explorer | 34.00% | ~2,864 |
 | New Opportunities | 34.00% | ~2,864 |
 | Energized | 33.00% | ~2,780 |
 | The Long Haul | 33.00% | ~2,780 |
-| The Great Healer | 31.00% | ~2,611 |
-| Survivor | 31.00% | ~2,611 |
+| Survivor | 32.00% | ~2,696 |
+| The Great Healer | 31.00% | ~2,612 |
 | Legendary Explorer | 28.00% | ~2,359 |
 | Cleaner | 28.00% | ~2,359 |
 | Catastrofan | 28.00% | ~2,359 |
 | Finders, Keepers | 26.00% | ~2,190 |
 | Top Notch | 25.00% | ~2,106 |
 | Great Leader | 23.00% | ~1,938 |
+| Ice Lakes | 23.00% | ~1,938 |
 | Mentor | 23.00% | ~1,938 |
-| Merchant | 22.00% | ~1,853 |
-| Ice Lakes | 22.00% | ~1,853 |
-| Real Survivor | 22.00% | ~1,853 |
+| Merchant | 22.00% | ~1,854 |
+| Real Survivor | 22.00% | ~1,854 |
 | Rocket Surgeon | 20.00% | ~1,685 |
 | War Never Changes | 19.00% | ~1,601 |
 | Big Game Hunter | 17.00% | ~1,432 |
@@ -37,7 +37,7 @@ Number of Ratings: 836  (23.09.2022)
 | Friendly | 16.00% | ~1,348 |
 | Around the World | 16.00% | ~1,348 |
 | Bookworm | 15.00% | ~1,264 |
-| Famous Adventurer | 14.00% | ~1,179 |
+| Famous Adventurer | 14.00% | ~1,180 |
 | Prepared for Anything | 13.00% | ~1,095 |
 | Big Catastrofan | 13.00% | ~1,095 |
 | It's a Finnish Thing | 10.00% | ~842 |
@@ -46,8 +46,8 @@ Number of Ratings: 836  (23.09.2022)
 | Bread and Circuses | 8.00% | ~674 |
 | New Eden | 7.00% | ~590 |
 | Tailored to fit | 7.00% | ~590 |
-| Really Friendly | 6.00% | ~505 |
-| Amped Up | 6.00% | ~505 |
+| Really Friendly | 6.00% | ~506 |
+| Amped Up | 6.00% | ~506 |
 | Look, no Hands! | 5.00% | ~421 |
 | Luxurious Living | 4.00% | ~337 |
 | Mogul | 3.00% | ~253 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~17 |
 | Customized calamities | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,424 (Ranked 129)  
+Progressed: 8,425 (Ranked 129)  
 Completed: 0 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,6 +189,7 @@ Completed: 0 (0.00%) (Ranked 261)
 | 2023-08-18 | 8,364 | 0 |
 | 2023-08-19 | 8,395 | 0 |
 | 2023-08-20 | 8,424 | 0 |
+| 2023-08-21 | 8,425 | 0 |
 ## Awards
 Max (Extremely Fun): 100  (Ranked 337)  
 Sum: 689 (Ranked 278)  

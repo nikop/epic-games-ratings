@@ -120,7 +120,7 @@
   "Tags": [],
   "EOS_Progressed": 3957,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -6450,9 +6450,9 @@
       "ID": "Ach042",
       "SetID": "12n4k20",
       "Name": "I look cool. But I can look COOLER.",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 237
+      "UsersEstimate": 277
     },
     {
       "ID": "Ach043",
@@ -6594,9 +6594,9 @@
       "ID": "Ach060",
       "SetID": "12n4k20",
       "Name": "Check out my moves!",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 79
     },
     {
       "ID": "Ach061",
@@ -6705,8 +6705,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-08-10T23:00:09.4128826+00:00",
-  "LastChanged_Achievements": "2023-08-20T23:05:50.3470476+00:00",
+  "LastChanged_Achievements": "2023-08-21T00:05:28.3775358+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:54.770039+00:00",
-  "LastUpdate_Ratings": "2023-08-20T23:00:11.6534546+00:00",
-  "LastUpdate_Achievements": "2023-08-20T23:05:50.3472467+00:00"
+  "LastUpdate_Ratings": "2023-08-20T23:59:50.8828619+00:00",
+  "LastUpdate_Achievements": "2023-08-21T00:05:28.377647+00:00"
 }

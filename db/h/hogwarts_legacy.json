@@ -6564,9 +6564,9 @@
       "Count": 596
     }
   ],
-  "EOS_Progressed": 290517,
+  "EOS_Progressed": 290521,
   "EOS_Completed": 453,
-  "EOS_NewPlayers": 474,
+  "EOS_NewPlayers": 478,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -19769,6 +19769,11 @@
       "Time": "2023-08-20T23:06:14.1257173+00:00",
       "NumProgressed": 290517,
       "NumCompleted": 453
+    },
+    {
+      "Time": "2023-08-21T00:05:51.7543377+00:00",
+      "NumProgressed": 290521,
+      "NumCompleted": 453
     }
   ],
   "TotalAchievements": 45,
@@ -19780,7 +19785,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 37767
+      "UsersEstimate": 37768
     },
     {
       "ID": "PFA_10",
@@ -20004,7 +20009,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 23241
+      "UsersEstimate": 23242
     },
     {
       "ID": "PFA_36",
@@ -20084,7 +20089,7 @@
       "Name": "The Spell Master",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23241
+      "UsersEstimate": 23242
     },
     {
       "ID": "PFA_45",
@@ -20132,14 +20137,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23241
+      "UsersEstimate": 23242
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 290517,
+      "Progressed": 290521,
       "Completed": 453
     }
   ],
@@ -20147,8 +20152,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-08-20T19:58:57.5370597+00:00",
-  "LastChanged_Achievements": "2023-08-20T23:06:14.1257164+00:00",
+  "LastChanged_Achievements": "2023-08-21T00:05:51.7543371+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:55.8476503+00:00",
-  "LastUpdate_Ratings": "2023-08-20T22:59:10.5258742+00:00",
-  "LastUpdate_Achievements": "2023-08-20T23:06:14.1259244+00:00"
+  "LastUpdate_Ratings": "2023-08-20T23:58:50.9811668+00:00",
+  "LastUpdate_Achievements": "2023-08-21T00:05:51.754453+00:00"
 }

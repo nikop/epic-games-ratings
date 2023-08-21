@@ -13,9 +13,9 @@ Rating: 4.53 (Ranked 514)
 | Two Handed Weapon | 57.00% | ~1,066 |
 | Defeat 25 Grubs | 53.00% | ~991 |
 | Rescue Redgi's Brothers | 52.00% | ~972 |
-| Collect Iron Ore | 47.00% | ~879 |
+| Collect Iron Ore | 48.00% | ~898 |
+| Defeat 25 Mozis | 47.00% | ~879 |
 | Kitchen Ready To Cook | 47.00% | ~879 |
-| Defeat 25 Mozis | 46.00% | ~860 |
 | Collect Gold | 45.00% | ~842 |
 | Smithy Ready to Craft | 45.00% | ~842 |
 | Fix the Travellers Wagon | 44.00% | ~823 |

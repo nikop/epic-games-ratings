@@ -4,7 +4,7 @@
   "ProductSlug": "a-musical-story-973128",
   "Ranking_EOS_Progress": 334,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewPlayers": 308,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-03-04T18:00:00+00:00",
@@ -276,9 +276,9 @@
       "ID": "L0_PERFECT",
       "SetID": "6finf64",
       "Name": "Time",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "L10_5_FINISH",
@@ -484,9 +484,9 @@
       "ID": "L1_5_PERFECT",
       "SetID": "6finf64",
       "Name": "Big City Music",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "L1_FINISH",
@@ -500,9 +500,9 @@
       "ID": "L1_PERFECT",
       "SetID": "6finf64",
       "Name": "Symbiosis",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "L20_FINISH",
@@ -548,9 +548,9 @@
       "ID": "L2_PERFECT",
       "SetID": "6finf64",
       "Name": "Sound of Noise",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "L3_FINISH",
@@ -564,9 +564,9 @@
       "ID": "L3_PERFECT",
       "SetID": "6finf64",
       "Name": "TV Dreams",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "L4_FINISH",
@@ -580,9 +580,9 @@
       "ID": "L4_PERFECT",
       "SetID": "6finf64",
       "Name": "Dreamers",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "L5_FINISH",
@@ -596,9 +596,9 @@
       "ID": "L5_PERFECT",
       "SetID": "6finf64",
       "Name": "The Fix",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "L6_FINISH",
@@ -644,9 +644,9 @@
       "ID": "L7_PERFECT",
       "SetID": "6finf64",
       "Name": "Flight of the Bumblebee",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "L8_FINISH",
@@ -701,8 +701,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.0267676+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.5327196+00:00",
   "LastChanged": "2023-03-31T05:57:21.0267677+00:00",
-  "LastChanged_Achievements": "2023-08-20T23:06:51.3600812+00:00",
+  "LastChanged_Achievements": "2023-08-21T00:06:34.3882033+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:10.5456451+00:00",
-  "LastUpdate_Ratings": "2023-08-20T22:59:47.5538572+00:00",
-  "LastUpdate_Achievements": "2023-08-20T23:06:51.3601351+00:00"
+  "LastUpdate_Ratings": "2023-08-20T23:59:26.364751+00:00",
+  "LastUpdate_Achievements": "2023-08-21T00:06:34.388258+00:00"
 }

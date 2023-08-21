@@ -3500,9 +3500,9 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 11016,
+  "EOS_Progressed": 11017,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11070,6 +11070,11 @@
       "Time": "2023-08-20T22:04:54.5301488+00:00",
       "NumProgressed": 11016,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-21T00:04:37.199448+00:00",
+      "NumProgressed": 11017,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -11121,7 +11126,7 @@
       "Name": "Heart of the Fallen Land",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "07_FinalThreshold",
@@ -11169,7 +11174,7 @@
       "Name": "Path of the Trickster",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "13_PathOfLich",
@@ -11321,7 +11326,7 @@
       "Name": "Mythic Reinforcements",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "33_DefendersHeart",
@@ -11353,7 +11358,7 @@
       "Name": "Core of the Riddle",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "37_FirstBigEnemy",
@@ -11465,7 +11470,7 @@
       "Name": "Hey, I Know You!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "51_DemonicAndDivine",
@@ -12008,21 +12013,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9798,
+      "Progressed": 9799,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11016,
+      "Progressed": 11017,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-08-20T21:01:38.5531646+00:00",
-  "LastChanged_Achievements": "2023-08-20T23:04:58.3237589+00:00",
+  "LastChanged_Achievements": "2023-08-21T00:04:37.1994476+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:48.9326646+00:00",
-  "LastUpdate_Ratings": "2023-08-20T23:00:06.0733453+00:00",
-  "LastUpdate_Achievements": "2023-08-20T23:04:58.3241401+00:00"
+  "LastUpdate_Ratings": "2023-08-20T23:59:46.436181+00:00",
+  "LastUpdate_Achievements": "2023-08-21T00:04:37.1996592+00:00"
 }

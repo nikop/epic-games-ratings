@@ -1631,7 +1631,7 @@
   ],
   "EOS_Progressed": 13503,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -10715,9 +10715,9 @@
       "ID": "ACHIEVEMENT_CULTURE_STRONG",
       "SetID": "9201eeb",
       "Name": "Strong Cities",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 135
+      "UsersEstimate": 270
     },
     {
       "ID": "ACHIEVEMENT_DAMASCUS_VIA_RECTA_SOUK",
@@ -12275,9 +12275,9 @@
       "ID": "ACHIEVEMENT_WIN_SINGLEPLAYER",
       "SetID": "9201eeb",
       "Name": "Win a Single Player Game",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 95
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_CLERGY_COURT",
@@ -12385,8 +12385,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-20T01:39:52.7455823+00:00",
-  "LastChanged_Achievements": "2023-08-20T23:05:29.706045+00:00",
+  "LastChanged_Achievements": "2023-08-21T00:05:08.221176+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:59.678182+00:00",
-  "LastUpdate_Ratings": "2023-08-20T22:59:37.9883101+00:00",
-  "LastUpdate_Achievements": "2023-08-20T23:05:29.7076656+00:00"
+  "LastUpdate_Ratings": "2023-08-20T23:59:19.6047583+00:00",
+  "LastUpdate_Achievements": "2023-08-21T00:05:08.2221509+00:00"
 }

@@ -15,12 +15,12 @@ Rating: 4.88 (Ranked 19)
 | Perfect Parry | 8.00% | ~317 |
 | I play my own way! | 7.00% | ~277 |
 | Uh, they were broken when I got here | 7.00% | ~277 |
+| I look cool. But I can look COOLER. | 7.00% | ~277 |
 | Alright, that felt AWESOME! | 7.00% | ~277 |
 | This will cost you big time | 6.00% | ~237 |
 | Whoa! There's ANOTHER health bar!? | 6.00% | ~237 |
 | Z-shielding's got nothing on us! | 6.00% | ~237 |
 | Kissing the sky! | 6.00% | ~237 |
-| I look cool. But I can look COOLER. | 6.00% | ~237 |
 | Does that say weakpoint? | 6.00% | ~237 |
 | The Negotiator | 5.00% | ~198 |
 | Headliner | 5.00% | ~198 |
@@ -37,12 +37,12 @@ Rating: 4.88 (Ranked 19)
 | There's such a thing as TOO helpful | 3.00% | ~119 |
 | Chip-tuned | 2.00% | ~79 |
 | Wanna hear my playlist? | 2.00% | ~79 |
+| Check out my moves! | 2.00% | ~79 |
 | I think I deserve some praise, here! | 1.00% | ~40 |
 | I think I found your calling, Macaron | 1.00% | ~40 |
 | We're Jammin' | 1.00% | ~40 |
 | I hit things with a guitar really well. | 1.00% | ~40 |
 | I told you I'd be fine, Peppermint! | 1.00% | ~40 |
-| Check out my moves! | 1.00% | ~40 |
 | Call me Turbo Chai | 1.00% | ~25 |
 | First we parry, then we counter | 0.90% | ~36 |
 | This is a breeze! | 0.70% | ~28 |
