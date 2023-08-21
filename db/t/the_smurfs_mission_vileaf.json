@@ -2,9 +2,9 @@
   "ID": "b3b76f71e5664aa2a97e6e92fbe56528",
   "Name": "The Smurfs Mission Vileaf",
   "ProductSlug": "the-smurfs-mission-vileaf-b1b351",
-  "Ranking_EOS_Progress": 550,
+  "Ranking_EOS_Progress": 551,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-03-24T00:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:48.223488+00:00",
   "LastChanged": "2023-03-31T05:57:48.2234881+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:29.1643121+00:00",
-  "LastUpdate_Ratings": "2023-08-21T22:02:08.8610786+00:00",
-  "LastUpdate_Achievements": "2023-08-21T22:03:23.3149924+00:00"
+  "LastUpdate_Ratings": "2023-08-21T23:01:37.1083385+00:00",
+  "LastUpdate_Achievements": "2023-08-21T23:03:27.9675323+00:00"
 }

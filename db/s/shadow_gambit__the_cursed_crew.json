@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 413,
+  "EOS_Progressed": 415,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 386,
+  "EOS_NewPlayers": 388,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -696,6 +696,11 @@
       "Time": "2023-08-21T22:04:15.6442692+00:00",
       "NumProgressed": 413,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-21T23:04:14.7525596+00:00",
+      "NumProgressed": 415,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -716,15 +721,15 @@
       "Name": "A New Journey",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 297
+      "UsersEstimate": 299
     },
     {
       "ID": "_03_FinishAct1",
       "SetID": "8a1io5d",
       "Name": "The Adventure Begins",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 202
+      "UsersEstimate": 199
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -746,9 +751,9 @@
       "ID": "_06_FinishFirstMirrorQuest",
       "SetID": "8a1io5d",
       "Name": "Mirror Mirror on the Wall",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 37
     },
     {
       "ID": "_07_FinishAct3",
@@ -764,7 +769,7 @@
       "Name": "Swabbie",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "_09_Completion_20",
@@ -772,7 +777,7 @@
       "Name": "Powder Monkey",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "_10_Completion_30",
@@ -836,7 +841,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -860,7 +865,7 @@
       "Name": "Fishy Fish",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -915,14 +920,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 413,
+      "Progressed": 415,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-21T22:04:15.6442685+00:00",
+  "LastChanged_Achievements": "2023-08-21T23:04:14.7525586+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:01.7621403+00:00",
-  "LastUpdate_Ratings": "2023-08-21T22:00:54.1989924+00:00",
-  "LastUpdate_Achievements": "2023-08-21T22:04:15.6443083+00:00"
+  "LastUpdate_Ratings": "2023-08-21T23:00:36.5513385+00:00",
+  "LastUpdate_Achievements": "2023-08-21T23:04:14.7525825+00:00"
 }

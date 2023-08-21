@@ -5,9 +5,9 @@
   "Ranking_Rating": 109,
   "Ranking_Popularity": 467,
   "Ranking_PopularitySum": 480,
-  "Ranking_EOS_Progress": 187,
+  "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewPlayers": 252,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -151,9 +151,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1370,
+  "EOS_Progressed": 1371,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -1376,6 +1376,11 @@
       "Time": "2023-08-21T04:07:44.8040707+00:00",
       "NumProgressed": 1370,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-21T23:07:34.1526701+00:00",
+      "NumProgressed": 1371,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 56,
@@ -1563,7 +1568,7 @@
       "Name": "The Cost of Heroism",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "achievement_mythwalker",
@@ -1611,7 +1616,7 @@
       "Name": "In Soil, In Smoke",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "completedStory_ecthis",
@@ -1657,9 +1662,9 @@
       "ID": "completedStory_ulstryx",
       "SetID": "95dc8p",
       "Name": "Daybreak",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 384
+      "UsersEstimate": 370
     },
     {
       "ID": "completedStory_vultureLord",
@@ -1667,7 +1672,7 @@
       "Name": "A Hunger, Sated",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "cvawn_allDrauvenSurvivedMission",
@@ -1675,7 +1680,7 @@
       "Name": "Wingknight\u0027s Prowess",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ecthis_all5PlotCharacters",
@@ -1834,15 +1839,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1370,
+      "Progressed": 1371,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-07-08T20:01:41.3411794+00:00",
-  "LastChanged_Achievements": "2023-08-21T22:07:58.883086+00:00",
+  "LastChanged_Achievements": "2023-08-21T23:07:34.1526695+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:21.1386789+00:00",
-  "LastUpdate_Ratings": "2023-08-21T21:58:48.8463046+00:00",
-  "LastUpdate_Achievements": "2023-08-21T22:07:58.8831843+00:00"
+  "LastUpdate_Ratings": "2023-08-21T22:58:43.9015395+00:00",
+  "LastUpdate_Achievements": "2023-08-21T23:07:34.1527306+00:00"
 }

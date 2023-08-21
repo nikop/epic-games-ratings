@@ -5,14 +5,14 @@ Rating: 4.32 (Ranked 778)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Boarded! | 94.00% | ~187,669 |
+| Boarded! | 94.00% | ~187,673 |
 | Snooper. | 10.00% | ~19,965 |
-| You have to start somewhere, right? | 7.00% | ~13,975 |
+| You have to start somewhere, right? | 7.00% | ~13,976 |
 | So you're saying I don't touch these ones? | 6.00% | ~11,979 |
-| Corrupted. | 5.00% | ~9,982 |
-| Good things come in pairs... Coloured Pairs. | 5.00% | ~9,982 |
-| Answers can be found amongst the stars | 3.00% | ~5,989 |
-| Bend to the will of the arrows. | 3.00% | ~5,989 |
+| Corrupted. | 5.00% | ~9,983 |
+| Good things come in pairs... Coloured Pairs. | 5.00% | ~9,983 |
+| Answers can be found amongst the stars | 3.00% | ~5,990 |
+| Bend to the will of the arrows. | 3.00% | ~5,990 |
 | You've been through a lot. | 2.00% | ~3,993 |
 | People's feelings on these ones are very... Binary... | 2.00% | ~3,993 |
 | I hope your remember your colour theory. | 2.00% | ~3,993 |
@@ -24,7 +24,7 @@ Rating: 4.32 (Ranked 778)
 | They're like really flat pillars. | 2.00% | ~3,993 |
 | That's a wrap. | 2.00% | ~3,993 |
 | In balance. | 2.00% | ~3,993 |
-| I hope you're ready. | 1.00% | ~1,996 |
+| I hope you're ready. | 1.00% | ~1,997 |
 | Cockpit | 0.80% | ~1,597 |
 | Witness it. | 0.80% | ~1,597 |
 | Bridge crossed. | 0.70% | ~1,398 |
@@ -35,8 +35,8 @@ Rating: 4.32 (Ranked 778)
 | Corrupted + | 0.40% | ~799 |
 | Snooper + | 0.40% | ~799 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 199,648 (Ranked 58)  
-Completed: 485 (0.24%) (Ranked 179)  
+Progressed: 199,652 (Ranked 58)  
+Completed: 486 (0.24%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -158,7 +158,7 @@ Completed: 485 (0.24%) (Ranked 179)
 | 2023-08-18 | 199,404 | 483 |
 | 2023-08-19 | 199,501 | 483 |
 | 2023-08-20 | 199,591 | 485 |
-| 2023-08-21 | 199,648 | 485 |
+| 2023-08-21 | 199,652 | 486 |
 ## Awards
 Max (Challenging Puzzles): 561  (Ranked 189)  
 Sum: 675 (Ranked 281)  

@@ -6606,9 +6606,9 @@
       "Count": 598
     }
   ],
-  "EOS_Progressed": 290575,
+  "EOS_Progressed": 290578,
   "EOS_Completed": 453,
-  "EOS_NewPlayers": 467,
+  "EOS_NewPlayers": 466,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -19906,6 +19906,11 @@
       "Time": "2023-08-21T22:07:34.6214716+00:00",
       "NumProgressed": 290575,
       "NumCompleted": 453
+    },
+    {
+      "Time": "2023-08-21T23:07:14.1123085+00:00",
+      "NumProgressed": 290578,
+      "NumCompleted": 453
     }
   ],
   "TotalAchievements": 45,
@@ -20099,9 +20104,9 @@
       "ID": "PFA_30",
       "SetID": "1hf4dep",
       "Name": "A Talent for Spending",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 26152
+      "UsersEstimate": 29058
     },
     {
       "ID": "PFA_31",
@@ -20245,7 +20250,7 @@
       "Name": "First Class Student",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 31963
+      "UsersEstimate": 31964
     },
     {
       "ID": "PFA_7",
@@ -20253,7 +20258,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 31963
+      "UsersEstimate": 31964
     },
     {
       "ID": "PFA_8",
@@ -20276,7 +20281,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 290575,
+      "Progressed": 290578,
       "Completed": 453
     }
   ],
@@ -20284,8 +20289,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-08-21T22:00:07.0538481+00:00",
-  "LastChanged_Achievements": "2023-08-21T22:07:34.6214706+00:00",
+  "LastChanged_Achievements": "2023-08-21T23:07:14.1123078+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:55.8476503+00:00",
-  "LastUpdate_Ratings": "2023-08-21T22:00:07.0538486+00:00",
-  "LastUpdate_Achievements": "2023-08-21T22:07:34.6216423+00:00"
+  "LastUpdate_Ratings": "2023-08-21T22:59:48.7956045+00:00",
+  "LastUpdate_Achievements": "2023-08-21T23:07:14.1124227+00:00"
 }

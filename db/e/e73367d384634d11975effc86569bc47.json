@@ -2,9 +2,9 @@
   "ID": "e73367d384634d11975effc86569bc47",
   "Name": "Monospaced Lovers",
   "ProductSlug": "monospaced-lovers-4c4c54",
-  "Ranking_EOS_Progress": 550,
+  "Ranking_EOS_Progress": 551,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-09T13:13:29.8594052+00:00",
-  "LastChanged_Achievements": "2023-08-21T22:04:41.7647527+00:00",
+  "LastChanged_Achievements": "2023-08-21T23:04:37.506352+00:00",
   "LastUpdate_AppInfo": "2023-08-16T13:57:00.7580171+00:00",
-  "LastUpdate_Ratings": "2023-08-21T21:58:22.6944904+00:00",
-  "LastUpdate_Achievements": "2023-08-21T22:04:41.7647567+00:00"
+  "LastUpdate_Ratings": "2023-08-21T22:58:22.6641619+00:00",
+  "LastUpdate_Achievements": "2023-08-21T23:04:37.5063551+00:00"
 }

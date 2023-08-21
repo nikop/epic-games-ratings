@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fright ✔ | 57.00% | ~132 |
+| Fright ✔ | 58.00% | ~134 |
 | Chest ✔ | 55.00% | ~127 |
 | Inventory ✔ | 54.00% | ~125 |
 | Police officers ✔ | 28.00% | ~65 |

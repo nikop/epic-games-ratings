@@ -2,9 +2,9 @@
   "ID": "b2f2c7d46ca0443a8e96efb7b7d171c2",
   "Name": "Rune Fencer Illyia",
   "ProductSlug": "rune-fencer-illyia",
-  "Ranking_EOS_Progress": 550,
+  "Ranking_EOS_Progress": 551,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2099-01-02T03:00:00+00:00",
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-19T07:59:39.6710686+00:00",
-  "LastUpdate_Ratings": "2023-08-21T22:02:22.8467969+00:00",
-  "LastUpdate_Achievements": "2023-08-21T22:08:02.4917409+00:00"
+  "LastUpdate_Ratings": "2023-08-21T23:01:46.3208046+00:00",
+  "LastUpdate_Achievements": "2023-08-21T23:07:36.9621735+00:00"
 }

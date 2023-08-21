@@ -2,7 +2,7 @@
   "ID": "c749cd78da34408d8434a46271f4bb79",
   "Name": "Saturnalia",
   "ProductSlug": "saturnalia",
-  "Ranking_Rating": 826,
+  "Ranking_Rating": 820,
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 83,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.25,
+  "Rating": 4.26,
   "RatingHistory": [
     {
       "Time": "2022-10-29T18:31:38.4403653+00:00",
@@ -234,13 +234,19 @@
       "Rating": 4.25,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-08-21T22:59:54.6231733+00:00",
+      "Rating": 4.26,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 65737,
+  "EOS_Progressed": 65739,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 216,
   "EOS_NewCompleters": 0,
@@ -8305,6 +8311,11 @@
       "Time": "2023-08-21T22:07:45.0998773+00:00",
       "NumProgressed": 65737,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-08-21T23:07:22.7484544+00:00",
+      "NumProgressed": 65739,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 20,
@@ -8452,7 +8463,7 @@
       "Name": "Out of Shape",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2629
+      "UsersEstimate": 2630
     },
     {
       "ID": "ACH_TECLAMISSION",
@@ -8475,16 +8486,16 @@
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 65737,
+      "Progressed": 65739,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-10-27T20:01:05.7341953+00:00",
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
-  "LastChanged": "2023-05-14T20:57:12.1011944+00:00",
-  "LastChanged_Achievements": "2023-08-21T22:07:45.0998765+00:00",
+  "LastChanged": "2023-08-21T22:59:54.6231731+00:00",
+  "LastChanged_Achievements": "2023-08-21T23:07:22.7484535+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:58:01.6614907+00:00",
-  "LastUpdate_Ratings": "2023-08-21T22:00:13.0012226+00:00",
-  "LastUpdate_Achievements": "2023-08-21T22:07:45.0999726+00:00"
+  "LastUpdate_Ratings": "2023-08-21T22:59:54.6231739+00:00",
+  "LastUpdate_Achievements": "2023-08-21T23:07:22.7486047+00:00"
 }
