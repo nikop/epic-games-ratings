@@ -29,19 +29,19 @@
 | 27 | [Out of Bounds](games/o/out_of_bounds.md) | 10.00% |
 | 27 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.00% |
 | 29 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.52% |
-| 30 | [Sonic Origins](games/s/sonic_origins.md) | 9.34% |
+| 30 | [Sonic Origins](games/s/sonic_origins.md) | 9.31% |
 | 31 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.30% |
 | 32 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.95% |
 | 33 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.48% |
 | 34 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.11% |
 | 35 | [Ravenlok](games/r/ravenlok.md) | 7.51% |
 | 36 | [Smelter](games/s/smelter.md) | 7.50% |
-| 37 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.27% |
-| 38 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 7.14% |
+| 37 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 7.14% |
+| 37 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.14% |
 | 39 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.05% |
 | 40 | [Scorn](games/s/scorn.md) | 6.97% |
 | 41 | [Time Loader](games/t/time_loader.md) | 6.78% |
-| 42 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.75% |
+| 42 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.73% |
 | 43 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.51% |
 | 44 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 45 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -70,10 +70,10 @@
 | 68 | [Bunny Park](games/b/bunny_park.md) | 3.37% |
 | 69 | [The Complex](games/t/the_complex.md) | 3.35% |
 | 70 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.30% |
-| 71 | [HordeCore](games/h/hordecore.md) | 3.15% |
-| 72 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.05% |
-| 73 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.04% |
-| 73 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.04% |
+| 71 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.27% |
+| 72 | [HordeCore](games/h/hordecore.md) | 3.15% |
+| 73 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.05% |
+| 74 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.04% |
 | 75 | [Monster Harvest](games/m/monster_harvest.md) | 2.94% |
 | 76 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 77 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.91% |
@@ -91,7 +91,7 @@
 | 89 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.26% |
 | 90 | [Bloodshore](games/b/bloodshore.md) | 2.21% |
 | 91 | [FORECLOSED](games/f/foreclosed.md) | 2.17% |
-| 92 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.03% |
+| 92 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.04% |
 | 93 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.92% |
 | 93 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.92% |
 | 95 | [Night Book](games/n/night_book.md) | 1.89% |
@@ -264,6 +264,7 @@
 | 261 | [12 orbits](games/1/12_orbits.md) | 0.00% |
 | 261 | [A Tale of Paper: Refolded](games/a/a_tale_of_paper__refolded.md) | 0.00% |
 | 261 | [Ad Infinitum](games/a/ad_infinitum.md) | 0.00% |
+| 261 | [Aerial Platforms](games/e/ea6b00889ce34487bdc4b03fa35dd8f3.md) | 0.00% |
 | 261 | [ANNO Mutationem](games/a/anno_mutationem.md) | 0.00% |
 | 261 | [Apotheorasis • Lab of the Blind Gods](games/a/apotheorasis_•_lab_of_the_blind_gods.md) | 0.00% |
 | 261 | [Arcade Paradise](games/a/arcade_paradise.md) | 0.00% |
