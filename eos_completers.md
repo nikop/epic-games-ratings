@@ -39,7 +39,7 @@
 | 37 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 7.14% |
 | 37 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.14% |
 | 39 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.05% |
-| 40 | [Scorn](games/s/scorn.md) | 6.97% |
+| 40 | [Scorn](games/s/scorn.md) | 7.01% |
 | 41 | [Time Loader](games/t/time_loader.md) | 6.78% |
 | 42 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.73% |
 | 43 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.51% |
@@ -70,7 +70,7 @@
 | 68 | [Bunny Park](games/b/bunny_park.md) | 3.37% |
 | 69 | [The Complex](games/t/the_complex.md) | 3.35% |
 | 70 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.30% |
-| 71 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.27% |
+| 71 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.26% |
 | 72 | [HordeCore](games/h/hordecore.md) | 3.15% |
 | 73 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.05% |
 | 74 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.04% |
@@ -219,14 +219,14 @@
 | 213 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
 | 213 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
 | 219 | [Partisans 1941](games/p/partisans_1941.md) | 0.08% |
+| 220 | [Remnant 2](games/r/remnant_2.md) | 0.07% |
 | 220 | [Saints Row](games/s/saints_row.md) | 0.07% |
 | 220 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
-| 222 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.06% |
-| 222 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.06% |
-| 222 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
-| 222 | [Remnant 2](games/r/remnant_2.md) | 0.06% |
-| 222 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.06% |
-| 222 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
+| 223 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.06% |
+| 223 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.06% |
+| 223 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
+| 223 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.06% |
+| 223 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
 | 228 | [DEATH STRANDING](games/d/death_stranding.md) | 0.05% |
 | 228 | [High On Life](games/h/high_on_life.md) | 0.05% |
 | 228 | [House Party](games/h/house_party.md) | 0.05% |
@@ -547,4 +547,4 @@
 | 261 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 261 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 261 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,079 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,080 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
