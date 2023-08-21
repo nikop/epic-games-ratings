@@ -7,16 +7,16 @@
 | Might be useful… | 40.00% | ~34 |
 | Treasure Hunting | 37.00% | ~32 |
 | Friend! | 34.00% | ~29 |
+| Shine! | 34.00% | ~29 |
 | Uncut Gem | 33.00% | ~28 |
-| Shine! | 33.00% | ~28 |
 | Clear as Water | 29.00% | ~25 |
 | Setting Off | 28.00% | ~24 |
-| Card Collector | 27.00% | ~23 |
+| Card Collector | 28.00% | ~24 |
 | Riddlesolver | 23.00% | ~20 |
 | Dungeon Mastery | 21.00% | ~18 |
 | The Steed | 12.00% | ~10 |
 | A Strange Proposition | 12.00% | ~10 |
-| Card Completionist | 9.00% | ~8 |
+| Card Completionist | 10.00% | ~9 |
 | The Bodyguard | 8.00% | ~7 |
 | The Apprentice | 7.00% | ~6 |
 | Braving Miasma | 7.00% | ~6 |

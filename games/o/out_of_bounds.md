@@ -5,23 +5,23 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Compiling (15)... | 47.00% | ~14 |
+| EnergyBackup >= 15 | 43.00% | ~13 |
 | Noisy saturation | 43.00% | ~13 |
 | Errors found you | 43.00% | ~13 |
 | Almost there! | 43.00% | ~13 |
-| EnergyBackup >= 15 | 40.00% | ~12 |
+| Gamedev level 15 | 40.00% | ~12 |
+| Package ready! | 40.00% | ~12 |
 | SoundsFun = 15; | 40.00% | ~12 |
 | 64 bugs fixed | 37.00% | ~11 |
 | No AI, only humans | 37.00% | ~11 |
-| Gamedev level 15 | 37.00% | ~11 |
-| Package ready! | 37.00% | ~11 |
 | The dev life | 33.00% | ~10 |
+| 128 bugs fixed | 30.00% | ~9 |
+| SoundsFun = 30; | 30.00% | ~9 |
 | Pro-dev | 27.00% | ~8 |
-| 128 bugs fixed | 27.00% | ~8 |
-| SoundsFun = 30; | 27.00% | ~8 |
+| Compiling (30)... | 27.00% | ~8 |
+| Two thirds is all I need | 27.00% | ~8 |
 | Double-double | 23.00% | ~7 |
 | Going nuts! | 23.00% | ~7 |
-| Compiling (30)... | 23.00% | ~7 |
-| Two thirds is all I need | 23.00% | ~7 |
 | Half the time, half the fun | 23.00% | ~7 |
 | Compiling (45)... | 20.00% | ~6 |
 | Gamedev level 30 | 20.00% | ~6 |

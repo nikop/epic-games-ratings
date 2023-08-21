@@ -7,24 +7,24 @@ Number of Ratings: 28  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Getting started | 77.00% | ~340 |
-| Close call! | 73.00% | ~322 |
+| Close call! | 73.00% | ~323 |
 | Builder | 53.00% | ~234 |
-| Pangs of conscience | 47.00% | ~207 |
+| Pangs of conscience | 47.00% | ~208 |
 | Living it large! | 44.00% | ~194 |
-| Collector | 42.00% | ~185 |
+| Collector | 42.00% | ~186 |
 | Need to think | 41.00% | ~181 |
 | Completely nuts! | 39.00% | ~172 |
 | Just in time! | 33.00% | ~146 |
-| Europe | 30.00% | ~132 |
+| Europe | 30.00% | ~133 |
 | It's no coincidence. | 29.00% | ~128 |
-| Madness! | 28.00% | ~123 |
+| Madness! | 28.00% | ~124 |
 | Philatelist | 25.00% | ~110 |
 | Let's roll! | 25.00% | ~110 |
 | Non Stop! | 25.00% | ~110 |
 | Ouroboros | 24.00% | ~106 |
 | Foreman | 21.00% | ~93 |
 | Missed it! | 19.00% | ~84 |
-| Russia | 18.00% | ~79 |
+| Russia | 18.00% | ~80 |
 | Sabotage | 17.00% | ~75 |
 | America | 16.00% | ~71 |
 | Woodcutter | 11.00% | ~49 |
@@ -32,7 +32,7 @@ Number of Ratings: 28  (23.09.2022)
 | Engineer | 10.00% | ~44 |
 | Japan | 9.00% | ~40 |
 | Tycoon | 8.00% | ~35 |
-| Germany | 6.00% | ~26 |
+| Germany | 6.00% | ~27 |
 | Chuck Norris | 5.00% | ~22 |
 | Сhancellor | 4.00% | ~18 |
 | Peacemaker | 4.00% | ~18 |
@@ -46,7 +46,7 @@ Number of Ratings: 28  (23.09.2022)
 | Juggler | 0.50% | ~2 |
 | Maniac vandal | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 441 (Ranked 234)  
+Progressed: 442 (Ranked 234)  
 Completed: 2 (0.45%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,6 +114,7 @@ Completed: 2 (0.45%) (Ranked 153)
 | 2023-08-17 | 439 | 2 |
 | 2023-08-18 | 440 | 2 |
 | 2023-08-20 | 441 | 2 |
+| 2023-08-21 | 442 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -4,8 +4,8 @@
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 88,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 398,
+  "EOS_Progressed": 400,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 372,
+  "EOS_NewPlayers": 374,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -661,6 +661,11 @@
       "Time": "2023-08-21T15:04:49.6301077+00:00",
       "NumProgressed": 398,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-21T16:04:52.2895806+00:00",
+      "NumProgressed": 400,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -679,9 +684,9 @@
       "ID": "_02_FinishFirstMission",
       "SetID": "8a1io5d",
       "Name": "A New Journey",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 287
+      "UsersEstimate": 292
     },
     {
       "ID": "_03_FinishAct1",
@@ -689,7 +694,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -729,7 +734,7 @@
       "Name": "Swabbie",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "_09_Completion_20",
@@ -743,9 +748,9 @@
       "ID": "_10_Completion_30",
       "SetID": "8a1io5d",
       "Name": "Buccaneer",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 24
     },
     {
       "ID": "_11_Completion_40",
@@ -759,9 +764,9 @@
       "ID": "_12_Completion_50",
       "SetID": "8a1io5d",
       "Name": "Privateer",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 12
     },
     {
       "ID": "_13_Completion_60",
@@ -880,14 +885,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 398,
+      "Progressed": 400,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-21T15:04:49.6301065+00:00",
+  "LastChanged_Achievements": "2023-08-21T16:04:52.2895799+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:01.7621403+00:00",
-  "LastUpdate_Ratings": "2023-08-21T15:01:15.6797797+00:00",
-  "LastUpdate_Achievements": "2023-08-21T15:04:49.630136+00:00"
+  "LastUpdate_Ratings": "2023-08-21T16:01:22.3157181+00:00",
+  "LastUpdate_Achievements": "2023-08-21T16:04:52.2896043+00:00"
 }

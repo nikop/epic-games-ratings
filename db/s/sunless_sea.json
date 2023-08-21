@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 248,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -685,7 +685,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 35929,
+  "EOS_Progressed": 35931,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 433,
   "EOS_NewCompleters": 0,
@@ -13200,6 +13200,11 @@
       "Time": "2023-08-21T15:07:14.8135219+00:00",
       "NumProgressed": 35929,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-21T16:07:14.7543679+00:00",
+      "NumProgressed": 35931,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -13331,7 +13336,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 12934
+      "UsersEstimate": 12935
     },
     {
       "ID": "ach_die10",
@@ -13403,7 +13408,7 @@
       "Name": "Correspondent",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 4311
+      "UsersEstimate": 4312
     },
     {
       "ID": "ach_legacypupil",
@@ -13539,7 +13544,7 @@
       "Name": "Zee Fever",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 1796
+      "UsersEstimate": 1797
     },
     {
       "ID": "ach_stranger",
@@ -13563,7 +13568,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 6467
+      "UsersEstimate": 6468
     },
     {
       "ID": "ach_terror100",
@@ -13571,7 +13576,7 @@
       "Name": "Lose Your Mind",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 4311
+      "UsersEstimate": 4312
     },
     {
       "ID": "ach_terror90",
@@ -13579,7 +13584,7 @@
       "Name": "Thou, All-Shaking Thunder",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 5389
+      "UsersEstimate": 5390
     },
     {
       "ID": "ach_undercurrent",
@@ -13611,7 +13616,7 @@
       "Name": "Sound Mind?",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 4311
+      "UsersEstimate": 4312
     },
     {
       "ID": "ach_year1",
@@ -13642,15 +13647,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 35929,
+      "Progressed": 35931,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-07-28T14:59:59.8138313+00:00",
-  "LastChanged_Achievements": "2023-08-21T15:07:14.8135212+00:00",
+  "LastChanged_Achievements": "2023-08-21T16:07:14.7543672+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:33.4903611+00:00",
-  "LastUpdate_Ratings": "2023-08-21T14:57:46.5460936+00:00",
-  "LastUpdate_Achievements": "2023-08-21T15:07:14.8136732+00:00"
+  "LastUpdate_Ratings": "2023-08-21T15:57:43.5969015+00:00",
+  "LastUpdate_Achievements": "2023-08-21T16:07:14.7545185+00:00"
 }

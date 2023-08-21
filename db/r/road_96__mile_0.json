@@ -4,8 +4,8 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 143,
-  "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
     "PcReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 382,
+  "EOS_Progressed": 383,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -1189,6 +1189,11 @@
       "Time": "2023-08-18T23:05:08.3183203+00:00",
       "NumProgressed": 382,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-21T16:06:25.337558+00:00",
+      "NumProgressed": 383,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -1200,7 +1205,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "completeact2",
@@ -1216,7 +1221,7 @@
       "Name": "On the Road",
       "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "findalltapes",
@@ -1319,7 +1324,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 382,
+      "Progressed": 383,
       "Completed": 2
     }
   ],
@@ -1327,8 +1332,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-08-21T15:06:25.7045197+00:00",
+  "LastChanged_Achievements": "2023-08-21T16:06:25.3375572+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:13.6460605+00:00",
-  "LastUpdate_Ratings": "2023-08-21T15:02:24.1520497+00:00",
-  "LastUpdate_Achievements": "2023-08-21T15:06:25.7045402+00:00"
+  "LastUpdate_Ratings": "2023-08-21T16:02:28.4041012+00:00",
+  "LastUpdate_Achievements": "2023-08-21T16:06:25.3375896+00:00"
 }

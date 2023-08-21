@@ -4,8 +4,8 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
     "PcReleaseDate": "2022-07-13T13:00:00+00:00",
@@ -1228,9 +1228,9 @@
       "ID": "FELIZ_1",
       "SetID": "44dlcg0",
       "Name": "I like my life",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 64
     },
     {
       "ID": "FELIZ_2",
@@ -1244,17 +1244,17 @@
       "ID": "FELIZ_3",
       "SetID": "44dlcg0",
       "Name": "Oh, life is too awesome! Thank you!",
-      "Percentage": 0.3,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "FELIZ_4",
       "SetID": "44dlcg0",
       "Name": "\u00A1Muy feliz!",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "FISHING",
@@ -1597,8 +1597,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-08-21T15:05:41.4212284+00:00",
+  "LastChanged_Achievements": "2023-08-21T16:05:40.5873062+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:19.5551158+00:00",
-  "LastUpdate_Ratings": "2023-08-21T15:02:33.9033139+00:00",
-  "LastUpdate_Achievements": "2023-08-21T15:05:41.4213357+00:00"
+  "LastUpdate_Ratings": "2023-08-21T16:02:37.7062043+00:00",
+  "LastUpdate_Achievements": "2023-08-21T16:05:40.5874073+00:00"
 }

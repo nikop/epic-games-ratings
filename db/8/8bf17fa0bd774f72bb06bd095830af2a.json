@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-08-09T23:00:00+00:00",
     "PcReleaseDate": "2022-09-01T15:00:00+00:00",
@@ -239,9 +239,9 @@
       "ID": "SteamAchievment_BuildOneBuilding",
       "SetID": "b8gj0ip",
       "Name": "Emerging Constructor",
-      "Percentage": 48,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "SteamAchievment_CompleteAllChallenges",
@@ -431,9 +431,9 @@
       "ID": "SteamAchievment_FirstVisitCapitalCity",
       "SetID": "b8gj0ip",
       "Name": "The Dawn",
-      "Percentage": 52,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "SteamAchievment_MergeAnyArtifactOnMaxLevel",
@@ -454,8 +454,8 @@
   ],
   "FirstSeen": "2023-08-10T10:57:59.2838137+00:00",
   "FirstSeenAchievements": "2023-05-30T14:00:09.5243374+00:00",
-  "LastChanged_Achievements": "2023-08-21T15:06:18.8943467+00:00",
+  "LastChanged_Achievements": "2023-08-21T16:06:18.4560581+00:00",
   "LastUpdate_AppInfo": "2023-08-15T17:57:21.8113187+00:00",
-  "LastUpdate_Ratings": "2023-08-21T14:59:42.7853811+00:00",
-  "LastUpdate_Achievements": "2023-08-21T15:06:18.894379+00:00"
+  "LastUpdate_Ratings": "2023-08-21T15:59:47.4337568+00:00",
+  "LastUpdate_Achievements": "2023-08-21T16:06:18.4561115+00:00"
 }

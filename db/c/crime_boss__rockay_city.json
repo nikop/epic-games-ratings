@@ -3096,9 +3096,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 72152,
+  "EOS_Progressed": 72153,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 327,
+  "EOS_NewPlayers": 326,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -15956,6 +15956,11 @@
       "Time": "2023-08-21T15:08:48.2531798+00:00",
       "NumProgressed": 72152,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-08-21T16:08:48.6011898+00:00",
+      "NumProgressed": 72153,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 37,
@@ -16119,7 +16124,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 53392
+      "UsersEstimate": 53393
     },
     {
       "ID": "ACH_0211",
@@ -16183,7 +16188,7 @@
       "Name": "Case Closed",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 25253
+      "UsersEstimate": 25254
     },
     {
       "ID": "ACH_0420",
@@ -16199,7 +16204,7 @@
       "Name": "Fancy Pants",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 25253
+      "UsersEstimate": 25254
     },
     {
       "ID": "ACH_0431",
@@ -16223,7 +16228,7 @@
       "Name": "Off the Rocks",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 14430
+      "UsersEstimate": 14431
     },
     {
       "ID": "ACH_0451",
@@ -16262,22 +16267,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 72152,
+      "Progressed": 72153,
       "Completed": 41
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 499,
-      "Completed": 499
+      "Progressed": 500,
+      "Completed": 500
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-08-21T11:57:38.7579375+00:00",
-  "LastChanged_Achievements": "2023-08-21T15:08:48.2531791+00:00",
+  "LastChanged_Achievements": "2023-08-21T16:08:48.6011892+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:48.5211502+00:00",
-  "LastUpdate_Ratings": "2023-08-21T14:58:04.5837202+00:00",
-  "LastUpdate_Achievements": "2023-08-21T15:08:48.2533075+00:00"
+  "LastUpdate_Ratings": "2023-08-21T15:58:04.7973367+00:00",
+  "LastUpdate_Achievements": "2023-08-21T16:08:48.601346+00:00"
 }

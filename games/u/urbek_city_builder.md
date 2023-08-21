@@ -10,8 +10,8 @@
 | Sport is good for you | 26.00% | ~83 |
 | The spiritual world... | 24.00% | ~76 |
 | The woodcutter | 23.00% | ~73 |
+| I like my life | 20.00% | ~64 |
 | I like books | 19.00% | ~60 |
-| I like my life | 19.00% | ~60 |
 | Soviet town | 18.00% | ~57 |
 | Clean energy | 17.00% | ~54 |
 | Bucolic city | 14.00% | ~45 |
@@ -42,6 +42,7 @@
 | I can't see the sky | 0.60% | ~2 |
 | Desert builder | 0.60% | ~2 |
 | Perfect city | 0.60% | ~2 |
+| Oh, life is too awesome! Thank you! | 0.60% | ~2 |
 | Farming Frenzy | 0.60% | ~2 |
 | Metropolurbek Plus | 0.60% | ~2 |
 | Restorer | 0.60% | ~2 |
@@ -54,7 +55,7 @@
 | Urban style | 0.30% | ~1 |
 | Full desert | 0.30% | ~1 |
 | Desert urban planner | 0.30% | ~1 |
-| Oh, life is too awesome! Thank you! | 0.30% | ~1 |
+| ¡Muy feliz! | 0.30% | ~1 |
 | I don't feel well, I have to drink a coffe | 0.30% | ~1 |
 | City in flames | 0.30% | ~1 |
 | Restorer Plus | 0.30% | ~1 |
@@ -73,7 +74,6 @@
 | Fear God, you sinners! | 0.00% | ~0 |
 | Smile? I don't understand | 0.00% | ~0 |
 | Work, work, work... | 0.00% | ~0 |
-| ¡Muy feliz! | 0.00% | ~0 |
 | Farming Frenzy Plus | 0.00% | ~0 |
 | Only freedom to go to the mall! | 0.00% | ~0 |
 | What? Was that possible? | 0.00% | ~0 |

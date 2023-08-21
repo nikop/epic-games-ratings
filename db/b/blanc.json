@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 179,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2543,
+  "EOS_Progressed": 2544,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -2698,6 +2698,11 @@
       "Time": "2023-08-21T14:06:16.9597198+00:00",
       "NumProgressed": 2543,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-08-21T16:06:32.6866417+00:00",
+      "NumProgressed": 2544,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -2741,7 +2746,7 @@
       "Name": "The will to move on",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "REUNION",
@@ -2749,7 +2754,7 @@
       "Name": "Reunion",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "SLIDERS",
@@ -2812,7 +2817,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2543,
+      "Progressed": 2544,
       "Completed": 6
     }
   ],
@@ -2820,8 +2825,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-08-21T15:06:32.8905876+00:00",
+  "LastChanged_Achievements": "2023-08-21T16:06:32.6866409+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:53.8347436+00:00",
-  "LastUpdate_Ratings": "2023-08-21T15:03:11.3628743+00:00",
-  "LastUpdate_Achievements": "2023-08-21T15:06:32.8906193+00:00"
+  "LastUpdate_Ratings": "2023-08-21T16:03:14.3090692+00:00",
+  "LastUpdate_Achievements": "2023-08-21T16:06:32.6866782+00:00"
 }

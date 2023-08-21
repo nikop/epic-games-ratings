@@ -36,6 +36,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Judaism | 2.00% | ~270 |
 | Babylonian Paganism | 2.00% | ~270 |
 | Greek Paganism | 2.00% | ~270 |
+| Roman Paganism | 2.00% | ~270 |
 | Naming Landmarks | 2.00% | ~270 |
 | Trade Caravan | 2.00% | ~270 |
 | The Great Mage | 2.00% | ~270 |
@@ -66,7 +67,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Manichaeism | 1.00% | ~135 |
 | Carthaginian Paganism | 1.00% | ~135 |
 | Egyptian Paganism | 1.00% | ~135 |
-| Roman Paganism | 1.00% | ~135 |
 | Zoroastrianism | 1.00% | ~135 |
 | Mythology | 1.00% | ~135 |
 | Champions | 0.90% | ~122 |
@@ -130,6 +130,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ishtar Gate in Babylon | 0.40% | ~54 |
 | Carthage - Ox Hide | 0.40% | ~54 |
 | Old | 0.40% | ~54 |
+| Peacemaker | 0.40% | ~54 |
 | Clerics | 0.40% | ~54 |
 | Cao'an | 0.40% | ~54 |
 | Learn to Play 4 | 0.40% | ~54 |
@@ -140,12 +141,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Turreted Elephant | 0.40% | ~54 |
 | All Nations | 0.40% | ~54 |
 | No Undo | 0.40% | ~54 |
-| Peacemaker | 0.30% | ~41 |
+| Ancient | 0.30% | ~41 |
 | Glorious Difficulty | 0.30% | ~41 |
 | Noble Difficulty | 0.30% | ~41 |
 | Persia | 0.30% | ~41 |
 | Old World Order | 0.30% | ~41 |
 | Play a Network Game | 0.30% | ~41 |
+| Capturing Cities | 0.30% | ~41 |
 | Ten Crowns | 0.30% | ~41 |
 | Three Man Chariot | 0.30% | ~41 |
 | Conquest Victory | 0.30% | ~41 |
@@ -155,7 +157,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Bronze Victory (Carthage 1) | 0.20% | ~27 |
 | Silver Victory (Carthage 1) | 0.20% | ~27 |
 | Carthage - Riches and Influence | 0.20% | ~27 |
-| Ancient | 0.20% | ~27 |
 | Great Difficulty | 0.20% | ~27 |
 | Magnificent Difficulty | 0.20% | ~27 |
 | Event Level High | 0.20% | ~27 |
@@ -172,7 +173,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a MP Teams Game | 0.20% | ~27 |
 | Play a Play-By-Cloud Game | 0.20% | ~27 |
 | Circus Maximus in Roma | 0.20% | ~27 |
-| Capturing Cities | 0.20% | ~27 |
 | Siege Tower | 0.20% | ~27 |
 | Necropolis in Waset | 0.20% | ~27 |
 | Centenarian | 0.10% | ~14 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,514 (Ranked 118)  
+Progressed: 13,516 (Ranked 118)  
 Completed: 5 (0.04%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -426,7 +426,7 @@ Completed: 5 (0.04%) (Ranked 231)
 | 2023-08-18 | 13,460 | 5 |
 | 2023-08-19 | 13,485 | 5 |
 | 2023-08-20 | 13,503 | 5 |
-| 2023-08-21 | 13,514 | 5 |
+| 2023-08-21 | 13,516 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,797 (Ranked 207)  

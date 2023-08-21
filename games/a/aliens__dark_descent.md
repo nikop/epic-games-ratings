@@ -5,35 +5,35 @@ Rating: 4.49 (Ranked 577)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 82.00% | ~2,605 |
-| Snatched Out | 75.00% | ~2,383 |
-| Keep 'Em Coming | 74.00% | ~2,351 |
+| This Is Hayes, Pioneer Station, Signing Off | 82.00% | ~2,606 |
+| Snatched Out | 75.00% | ~2,384 |
+| Keep 'Em Coming | 74.00% | ~2,352 |
 | Cleaning Lethe, One Nest At A Time | 67.00% | ~2,129 |
 | Call Me Snake | 63.00% | ~2,002 |
-| Something Lurks Under The Hills | 61.00% | ~1,938 |
-| This Was No Papercut | 59.00% | ~1,874 |
-| People Person | 56.00% | ~1,779 |
-| The Shrink Hates Me | 56.00% | ~1,779 |
+| Something Lurks Under The Hills | 61.00% | ~1,939 |
+| This Was No Papercut | 59.00% | ~1,875 |
+| People Person | 56.00% | ~1,780 |
+| The Shrink Hates Me | 56.00% | ~1,780 |
 | Use The Bumper, That's What It's For | 53.00% | ~1,684 |
-| First Steps Into Madness | 52.00% | ~1,652 |
-| Colonial Barrels | 51.00% | ~1,620 |
+| First Steps Into Madness | 52.00% | ~1,653 |
+| Colonial Barrels | 51.00% | ~1,621 |
 | Harper's Hell | 45.00% | ~1,430 |
-| Making a Stand | 43.00% | ~1,366 |
-| Damn Dude, You Gotta Lose Some Weight! | 42.00% | ~1,334 |
+| Making a Stand | 43.00% | ~1,367 |
+| Damn Dude, You Gotta Lose Some Weight! | 42.00% | ~1,335 |
 | Where It All Begun | 39.00% | ~1,239 |
-| Recouped Investment | 38.00% | ~1,207 |
-| Omelette Du Fromage | 33.00% | ~1,048 |
-| The More The Merrier | 33.00% | ~1,048 |
+| Recouped Investment | 38.00% | ~1,208 |
+| Omelette Du Fromage | 33.00% | ~1,049 |
+| The More The Merrier | 33.00% | ~1,049 |
 | Living Nightmare | 32.00% | ~1,017 |
-| The Darwin Era Was Here | 29.00% | ~921 |
+| The Darwin Era Was Here | 29.00% | ~922 |
 | Deep Into Insanity | 27.00% | ~858 |
 | The Passenger | 27.00% | ~858 |
 | Come on, You Wanna Live Forever? | 25.00% | ~794 |
-| The Spire | 24.00% | ~762 |
+| The Spire | 24.00% | ~763 |
 | El Riesgo Siempre Vive | 23.00% | ~731 |
 | Stuff Of Nightmares | 22.00% | ~699 |
-| Excavating The Truth | 20.00% | ~635 |
-| Abysmal Horrors | 20.00% | ~635 |
+| Excavating The Truth | 20.00% | ~636 |
+| Abysmal Horrors | 20.00% | ~636 |
 | One For Every Occasion | 19.00% | ~604 |
 | Frontliner | 19.00% | ~604 |
 | The Cable Guy | 19.00% | ~604 |
@@ -51,7 +51,7 @@ Rating: 4.49 (Ranked 577)
 | Chalk It Up To Experience | 0.80% | ~25 |
 | This Ain't No Picnic | 0.60% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,177 (Ranked 155)  
+Progressed: 3,178 (Ranked 155)  
 Completed: 3 (0.09%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,6 +118,7 @@ Completed: 3 (0.09%) (Ranked 213)
 | 2023-08-18 | 3,168 | 2 |
 | 2023-08-19 | 3,174 | 2 |
 | 2023-08-20 | 3,177 | 3 |
+| 2023-08-21 | 3,178 | 3 |
 ## Awards
 Max (Great Boss Battles): 26  (Ranked 474)  
 Sum: 26 (Ranked 483)  

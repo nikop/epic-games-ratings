@@ -7,7 +7,7 @@
 | Red Skeleton | 56.00% | ~60 |
 | Orange Skeleton | 43.00% | ~46 |
 | Yellow Skeleton | 19.00% | ~20 |
-| Blue Skeleton | 14.00% | ~15 |
+| Blue Skeleton | 15.00% | ~16 |
 | Green Skeleton | 7.00% | ~7 |
 | Black Skeleton | 5.00% | ~5 |
 ## Popularity (Based on EOS Achievements)

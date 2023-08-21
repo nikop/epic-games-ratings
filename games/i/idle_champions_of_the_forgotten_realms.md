@@ -28,6 +28,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Building Trust | 0.20% | ~448 |
 | Unearthed Evil | 0.20% | ~448 |
 | The Dinner Party | 0.20% | ~448 |
+| The Botched Kidnapping | 0.20% | ~448 |
 | The Crumbling Temple | 0.20% | ~448 |
 | Seeking Allies | 0.20% | ~448 |
 | Are Ya Chicken? | 0.20% | ~448 |
@@ -206,7 +207,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Chatty Nobles | 0.10% | ~224 |
 | Modron Assistance | 0.10% | ~224 |
 | Thine Bounty is Mine! | 0.10% | ~190 |
-| The Botched Kidnapping | 0.10% | ~224 |
 | Haaave You Met Asmodeus? | 0.10% | ~224 |
 | Domesticated Owlbears | 0.10% | ~224 |
 | This Quest Stinks! | 0.10% | ~190 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~190 |
 | Animated Giff | 0.10% | ~190 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 223,905 (Ranked 53)  
+Progressed: 223,922 (Ranked 53)  
 Completed: 2,202 (0.98%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -646,7 +646,7 @@ Completed: 2,202 (0.98%) (Ranked 120)
 | 2023-08-18 | 223,142 | 2,190 |
 | 2023-08-19 | 223,443 | 2,193 |
 | 2023-08-20 | 223,729 | 2,196 |
-| 2023-08-21 | 223,905 | 2,202 |
+| 2023-08-21 | 223,922 | 2,202 |
 ## Awards
 Max (Diverse Characters): 5,173  (Ranked 68)  
 Sum: 31,152 (Ranked 38)  

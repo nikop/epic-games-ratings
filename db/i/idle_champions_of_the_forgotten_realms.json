@@ -5980,9 +5980,9 @@
       "Count": 3365
     }
   ],
-  "EOS_Progressed": 223905,
+  "EOS_Progressed": 223922,
   "EOS_Completed": 2202,
-  "EOS_NewPlayers": 2088,
+  "EOS_NewPlayers": 2086,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -19405,6 +19405,11 @@
       "Time": "2023-08-21T15:07:10.4636694+00:00",
       "NumProgressed": 223905,
       "NumCompleted": 2202
+    },
+    {
+      "Time": "2023-08-21T16:07:10.4582204+00:00",
+      "NumProgressed": 223922,
+      "NumCompleted": 2202
     }
   ],
   "TotalAchievements": 516,
@@ -20862,9 +20867,9 @@
       "ID": "objective_completed_235",
       "SetID": "cc37lbc",
       "Name": "The Botched Kidnapping",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 224
+      "UsersEstimate": 448
     },
     {
       "ID": "objective_completed_236",
@@ -23543,21 +23548,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 190179,
+      "Progressed": 190196,
       "Completed": 3285
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 223905,
+      "Progressed": 223922,
       "Completed": 2202
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-21T13:04:49.8582282+00:00",
-  "LastChanged_Achievements": "2023-08-21T15:07:10.4636686+00:00",
+  "LastChanged_Achievements": "2023-08-21T16:07:10.4582194+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:12.3267162+00:00",
-  "LastUpdate_Ratings": "2023-08-21T15:01:26.930814+00:00",
-  "LastUpdate_Achievements": "2023-08-21T15:07:10.4672287+00:00"
+  "LastUpdate_Ratings": "2023-08-21T16:01:34.2131775+00:00",
+  "LastUpdate_Achievements": "2023-08-21T16:07:10.4616954+00:00"
 }
