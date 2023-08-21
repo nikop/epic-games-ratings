@@ -64,9 +64,9 @@
 | 62 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.93% |
 | 63 | [ZZT!](games/z/zzt!.md) | 3.88% |
 | 64 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
-| 65 | [Without Escape](games/w/without_escape.md) | 3.57% |
-| 66 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
-| 67 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.51% |
+| 65 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.73% |
+| 66 | [Without Escape](games/w/without_escape.md) | 3.57% |
+| 67 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 68 | [Doodle God](games/d/doodle_god.md) | 3.43% |
 | 69 | [Bunny Park](games/b/bunny_park.md) | 3.37% |
 | 70 | [The Complex](games/t/the_complex.md) | 3.35% |
@@ -166,8 +166,8 @@
 | 164 | [The Surge](games/t/the_surge.md) | 0.35% |
 | 164 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.35% |
 | 166 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.34% |
-| 167 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.33% |
-| 167 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.33% |
+| 166 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.34% |
+| 168 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.33% |
 | 169 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
 | 169 | [Dead Island 2](games/d/dead_island_2.md) | 0.31% |
 | 171 | [The First Tree](games/t/the_first_tree.md) | 0.30% |
