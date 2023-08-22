@@ -2,7 +2,7 @@
   "ID": "08900611756a442ab81750df9deacd77",
   "Name": "Saint Kotar",
   "ProductSlug": "saint-kotar-7f0c47",
-  "Ranking_EOS_Progress": 412,
+  "Ranking_EOS_Progress": 413,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 92,
@@ -156,25 +156,25 @@
       "ID": "denouncement_successful_Davor",
       "SetID": "4akddl8",
       "Name": "Davor Was Deported",
-      "Percentage": 10,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "denouncement_successful_Gregor",
       "SetID": "4akddl8",
       "Name": "Gregor Was Punished",
-      "Percentage": 10,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "denouncement_successful_Kabeer",
       "SetID": "4akddl8",
       "Name": "Kabeer is Dead",
-      "Percentage": 14,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "eaten_by_food_man",
@@ -429,8 +429,8 @@
   "FirstSeenRating": "2023-03-31T05:58:43.0246209+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.7285802+00:00",
   "LastChanged": "2023-03-31T05:58:43.024621+00:00",
-  "LastChanged_Achievements": "2023-08-22T07:06:50.1981773+00:00",
+  "LastChanged_Achievements": "2023-08-22T08:09:25.2695326+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:35.2595879+00:00",
-  "LastUpdate_Ratings": "2023-08-22T06:59:49.9691423+00:00",
-  "LastUpdate_Achievements": "2023-08-22T07:06:50.1982159+00:00"
+  "LastUpdate_Ratings": "2023-08-22T08:00:21.6362186+00:00",
+  "LastUpdate_Achievements": "2023-08-22T08:09:25.2695713+00:00"
 }

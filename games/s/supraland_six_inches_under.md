@@ -20,7 +20,7 @@ Number of Ratings: 209  (23.09.2022)
 | Stone Pickaxe | 93.00% | ~2,053 |
 | Surprise | 93.00% | ~2,053 |
 | Magnet | 91.00% | ~2,009 |
-| Industrial Area | 89.00% | ~1,965 |
+| Industrial Area | 90.00% | ~1,987 |
 | Magnet Repel | 88.00% | ~1,943 |
 | You feel middle classy | 87.00% | ~1,921 |
 | Boomeraxe | 87.00% | ~1,921 |
@@ -30,7 +30,7 @@ Number of Ratings: 209  (23.09.2022)
 | Arrested | 85.00% | ~1,877 |
 | Zappy Gun | 85.00% | ~1,877 |
 | Got your own one now | 85.00% | ~1,877 |
-| Don't draw dicks pls | 84.00% | ~1,855 |
+| Don't draw dicks pls | 85.00% | ~1,877 |
 | Ripped | 84.00% | ~1,855 |
 | Beat the big arena | 83.00% | ~1,833 |
 | Force Cube | 82.00% | ~1,811 |

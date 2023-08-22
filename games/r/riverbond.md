@@ -6,14 +6,14 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~367,920 |
-| Now You're Talking | 62.00% | ~325,872 |
-| Steel Yourself | 62.00% | ~325,872 |
-| Window Dressing | 50.00% | ~262,800 |
-| Trigger Happy | 46.00% | ~241,776 |
-| Riverborn | 45.00% | ~236,520 |
-| Starry Eyed | 34.00% | ~178,704 |
-| Poking Around | 34.00% | ~178,704 |
+| First Step | 70.00% | ~367,921 |
+| Now You're Talking | 62.00% | ~325,873 |
+| Steel Yourself | 62.00% | ~325,873 |
+| Window Dressing | 50.00% | ~262,801 |
+| Trigger Happy | 46.00% | ~241,777 |
+| Riverborn | 45.00% | ~236,521 |
+| Starry Eyed | 34.00% | ~178,705 |
+| Poking Around | 34.00% | ~178,705 |
 | Talk of the Town | 24.00% | ~126,144 |
 | AAARR! | 23.00% | ~120,888 |
 | Hello Darkness | 23.00% | ~120,888 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,577 |
 | Point Taken | 0.10% | ~526 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 525,600 (Ranked 31)  
+Progressed: 525,602 (Ranked 31)  
 Completed: 463 (0.09%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,7 +188,7 @@ Completed: 463 (0.09%) (Ranked 213)
 | 2023-08-19 | 525,405 | 461 |
 | 2023-08-20 | 525,506 | 462 |
 | 2023-08-21 | 525,574 | 463 |
-| 2023-08-22 | 525,600 | 463 |
+| 2023-08-22 | 525,602 | 463 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 363,
   "Ranking_EOS_Completed": 47,
   "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2016-03-24T11:00:00+00:00",
@@ -351,9 +351,9 @@
       "ID": "Houby",
       "SetID": "ag48e8e",
       "Name": "Mushrooms",
-      "Percentage": 25,
+      "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "Jing",
@@ -558,8 +558,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-08-22T07:07:03.7071136+00:00",
+  "LastChanged_Achievements": "2023-08-22T08:09:29.7769048+00:00",
   "LastUpdate_AppInfo": "2023-08-18T16:57:06.9691951+00:00",
-  "LastUpdate_Ratings": "2023-08-22T06:59:51.618681+00:00",
-  "LastUpdate_Achievements": "2023-08-22T07:07:03.707136+00:00"
+  "LastUpdate_Ratings": "2023-08-22T08:00:26.2887944+00:00",
+  "LastUpdate_Achievements": "2023-08-22T08:09:29.776932+00:00"
 }

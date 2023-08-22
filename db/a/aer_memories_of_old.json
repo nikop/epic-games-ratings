@@ -380,9 +380,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18389,
+  "EOS_Progressed": 18390,
   "EOS_Completed": 373,
-  "EOS_NewPlayers": 514,
+  "EOS_NewPlayers": 509,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 2.03,
   "EosHistory": [
@@ -13555,6 +13555,11 @@
       "Time": "2023-08-22T05:08:21.638214+00:00",
       "NumProgressed": 18389,
       "NumCompleted": 373
+    },
+    {
+      "Time": "2023-08-22T08:10:59.8546528+00:00",
+      "NumProgressed": 18390,
+      "NumCompleted": 373
     }
   ],
   "TotalAchievements": 20,
@@ -13582,7 +13587,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2574
+      "UsersEstimate": 2575
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -13638,7 +13643,7 @@
       "Name": "Hide and Seek",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "FOUND_FOX_STATUE",
@@ -13702,7 +13707,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2574
+      "UsersEstimate": 2575
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -13725,15 +13730,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 18389,
+      "Progressed": 18390,
       "Completed": 373
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-08-12T01:39:46.4098224+00:00",
-  "LastChanged_Achievements": "2023-08-22T07:08:28.5792838+00:00",
+  "LastChanged_Achievements": "2023-08-22T08:10:59.8546522+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:54.5287855+00:00",
-  "LastUpdate_Ratings": "2023-08-22T06:58:19.0543973+00:00",
-  "LastUpdate_Achievements": "2023-08-22T07:08:28.5793782+00:00"
+  "LastUpdate_Ratings": "2023-08-22T07:58:34.7468954+00:00",
+  "LastUpdate_Achievements": "2023-08-22T08:10:59.8547723+00:00"
 }

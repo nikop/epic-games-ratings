@@ -42,9 +42,9 @@ Rating: 4.05 (Ranked 925)
 | Here We Go Again | 9.00% | ~165 |
 | Master Enchanter | 9.00% | ~165 |
 | The father of Dragons | 9.00% | ~165 |
+| Crystal Mining | 8.00% | ~147 |
 | Trader | 8.00% | ~147 |
 | Blueprint Upgrades | 7.00% | ~129 |
-| Crystal Mining | 7.00% | ~129 |
 | Dragon Slayer | 7.00% | ~129 |
 | Enchanting skill | 7.00% | ~129 |
 | Engineer Mastery | 7.00% | ~129 |
@@ -82,7 +82,7 @@ Rating: 4.05 (Ranked 925)
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,838 (Ranked 173)  
-Completed: 2 (0.11%) (Ranked 206)  
+Completed: 2 (0.11%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

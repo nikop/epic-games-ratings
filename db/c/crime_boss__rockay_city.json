@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -3102,9 +3102,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 72167,
+  "EOS_Progressed": 72168,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 324,
+  "EOS_NewPlayers": 325,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -16017,6 +16017,11 @@
       "Time": "2023-08-22T07:10:08.6718685+00:00",
       "NumProgressed": 72167,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-08-22T08:11:56.4943443+00:00",
+      "NumProgressed": 72168,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 37,
@@ -16036,7 +16041,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 20928
+      "UsersEstimate": 20929
     },
     {
       "ID": "ACH_0012",
@@ -16196,7 +16201,7 @@
       "Name": "Too Old for This",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 34640
+      "UsersEstimate": 34641
     },
     {
       "ID": "ACH_0300",
@@ -16244,7 +16249,7 @@
       "Name": "Case Closed",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 25258
+      "UsersEstimate": 25259
     },
     {
       "ID": "ACH_0420",
@@ -16260,7 +16265,7 @@
       "Name": "Fancy Pants",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 25258
+      "UsersEstimate": 25259
     },
     {
       "ID": "ACH_0431",
@@ -16284,7 +16289,7 @@
       "Name": "Off the Rocks",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 14433
+      "UsersEstimate": 14434
     },
     {
       "ID": "ACH_0451",
@@ -16292,7 +16297,7 @@
       "Name": "Raider\u2019s Ruin",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 12268
+      "UsersEstimate": 12269
     },
     {
       "ID": "ACH_0452",
@@ -16300,7 +16305,7 @@
       "Name": "Dragonslayer",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 12268
+      "UsersEstimate": 12269
     },
     {
       "ID": "ACH_0460",
@@ -16323,22 +16328,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 72167,
+      "Progressed": 72168,
       "Completed": 41
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 514,
-      "Completed": 514
+      "Progressed": 515,
+      "Completed": 515
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-08-21T16:57:45.1807304+00:00",
-  "LastChanged_Achievements": "2023-08-22T07:10:08.6718681+00:00",
+  "LastChanged_Achievements": "2023-08-22T08:11:56.4943434+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:48.5211502+00:00",
-  "LastUpdate_Ratings": "2023-08-22T06:58:09.7737429+00:00",
-  "LastUpdate_Achievements": "2023-08-22T07:10:08.6719737+00:00"
+  "LastUpdate_Ratings": "2023-08-22T07:58:25.9532567+00:00",
+  "LastUpdate_Achievements": "2023-08-22T08:11:56.4944496+00:00"
 }

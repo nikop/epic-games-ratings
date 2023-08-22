@@ -301,9 +301,9 @@
       "ID": "PORTRAIT_1",
       "SetID": "g10jki",
       "Name": "Portrait 1",
-      "Percentage": 96,
+      "Percentage": 98,
       "XP": 40,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "PORTRAIT_10",
@@ -500,8 +500,8 @@
   ],
   "FirstSeen": "2023-08-14T14:57:42.6237278+00:00",
   "FirstSeenAchievements": "2023-07-26T08:01:59.9805604+00:00",
-  "LastChanged_Achievements": "2023-08-22T07:05:02.8905792+00:00",
+  "LastChanged_Achievements": "2023-08-22T08:06:52.5430801+00:00",
   "LastUpdate_AppInfo": "2023-08-16T09:57:11.3711345+00:00",
-  "LastUpdate_Ratings": "2023-08-22T06:59:44.8502766+00:00",
-  "LastUpdate_Achievements": "2023-08-22T07:05:02.8906404+00:00"
+  "LastUpdate_Ratings": "2023-08-22T08:00:15.5830011+00:00",
+  "LastUpdate_Achievements": "2023-08-22T08:06:52.5431023+00:00"
 }

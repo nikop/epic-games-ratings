@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 416,
+  "EOS_Progressed": 419,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 388,
+  "EOS_NewPlayers": 391,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -706,6 +706,11 @@
       "Time": "2023-08-22T01:45:43.6497495+00:00",
       "NumProgressed": 416,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-22T08:08:13.1177515+00:00",
+      "NumProgressed": 419,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -718,15 +723,15 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "_02_FinishFirstMission",
       "SetID": "8a1io5d",
       "Name": "A New Journey",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 304
+      "UsersEstimate": 302
     },
     {
       "ID": "_03_FinishAct1",
@@ -734,7 +739,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -742,7 +747,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "_05_FinishAct2",
@@ -758,7 +763,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "_07_FinishAct3",
@@ -774,7 +779,7 @@
       "Name": "Swabbie",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "_09_Completion_20",
@@ -798,7 +803,7 @@
       "Name": "Seadog",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "_12_Completion_50",
@@ -846,7 +851,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -862,7 +867,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -894,7 +899,7 @@
       "Name": "Lyrical Longing",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "_24_CrewTale_SNP",
@@ -908,9 +913,9 @@
       "ID": "_25_CrewTale_GCW",
       "SetID": "8a1io5d",
       "Name": "Rustic Recipe",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 17
     },
     {
       "ID": "_26_ReviveVirgilio",
@@ -925,14 +930,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 416,
+      "Progressed": 419,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-22T07:05:59.1313682+00:00",
+  "LastChanged_Achievements": "2023-08-22T08:08:13.1177508+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:01.7621403+00:00",
-  "LastUpdate_Ratings": "2023-08-22T07:02:17.7393427+00:00",
-  "LastUpdate_Achievements": "2023-08-22T07:05:59.1313907+00:00"
+  "LastUpdate_Ratings": "2023-08-22T08:03:29.4017651+00:00",
+  "LastUpdate_Achievements": "2023-08-22T08:08:13.1177831+00:00"
 }

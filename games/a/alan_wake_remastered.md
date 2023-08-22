@@ -6,8 +6,8 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 38.00% | ~23,289 |
-| Let There Be Light | 30.00% | ~18,386 |
+| Follow the Light | 38.00% | ~23,290 |
+| Let There Be Light | 30.00% | ~18,387 |
 | Float Like a Butterfly | 29.00% | ~17,774 |
 | Nordic Walking | 23.00% | ~14,096 |
 | Bright Falls' Finest | 23.00% | ~14,096 |
@@ -20,8 +20,8 @@ Number of Ratings: 524  (23.09.2022)
 | Sound and Fury | 14.00% | ~8,580 |
 | Missed by a Mile | 14.00% | ~8,580 |
 | Damn Good Cup of Coffee | 14.00% | ~8,580 |
-| Wheels Within Wheels | 13.00% | ~7,967 |
-| The Six-Gun Scribe | 13.00% | ~7,967 |
+| Wheels Within Wheels | 13.00% | ~7,968 |
+| The Six-Gun Scribe | 13.00% | ~7,968 |
 | Heavy Metal | 12.00% | ~7,355 |
 | Iron Horse | 12.00% | ~7,355 |
 | Collateral Carnage | 12.00% | ~7,355 |
@@ -35,7 +35,7 @@ Number of Ratings: 524  (23.09.2022)
 | Energized! | 10.00% | ~6,129 |
 | Right of Way | 9.00% | ~5,516 |
 | What Light Through Yonder Window | 8.00% | ~4,903 |
-| A Friend in Need | 8.00% | ~1,980 |
+| A Friend in Need | 8.00% | ~1,981 |
 | Tornado Wrangler | 7.00% | ~4,290 |
 | Departure | 7.00% | ~4,290 |
 | Hardboiled Writer | 6.00% | ~3,677 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~61 |
 | No Punctuation | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,288 (Ranked 85)  
+Progressed: 61,289 (Ranked 85)  
 Completed: 64 (0.10%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,7 +198,7 @@ Completed: 64 (0.10%) (Ranked 208)
 | 2023-08-19 | 61,152 | 64 |
 | 2023-08-20 | 61,207 | 64 |
 | 2023-08-21 | 61,273 | 64 |
-| 2023-08-22 | 61,288 | 64 |
+| 2023-08-22 | 61,289 | 64 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

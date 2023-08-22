@@ -6,7 +6,8 @@ Rating: 4.63 (Ranked 329)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | En Garde! | 100.00% | ~3 |
-| Supersleuth | 67.00% | ~2 |
+| Supersleuth | 100.00% | ~3 |
+| Gut-Wrenching | 33.00% | ~1 |
 | Déjà Vu | 33.00% | ~1 |
 | Somebody Set Up Us The Bomb | 33.00% | ~1 |
 | Shields Up! | 0.00% | ~0 |
@@ -15,7 +16,6 @@ Rating: 4.63 (Ranked 329)
 | The Inside Scoop | 0.00% | ~0 |
 | Maxed Out | 0.00% | ~0 |
 | This Is My Boomstick! | 0.00% | ~0 |
-| Gut-Wrenching | 0.00% | ~0 |
 | Hacker? You Hardly Know’er! | 0.00% | ~0 |
 | Look At You, Hacker | 0.00% | ~0 |
 | Don’t Forget To Salt The Fries | 0.00% | ~0 |

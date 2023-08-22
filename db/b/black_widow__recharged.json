@@ -152,7 +152,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17411,
+  "EOS_Progressed": 17412,
   "EOS_Completed": 51,
   "EOS_NewPlayers": 197,
   "EOS_NewCompleters": 0,
@@ -10387,6 +10387,11 @@
       "Time": "2023-08-22T06:07:07.5793968+00:00",
       "NumProgressed": 17411,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-08-22T08:07:16.5799775+00:00",
+      "NumProgressed": 17412,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 14,
@@ -10404,9 +10409,9 @@
       "ID": "ACH_AFTER_ALL",
       "SetID": "1blkama",
       "Name": "After All",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 90,
-      "UsersEstimate": 157
+      "UsersEstimate": 139
     },
     {
       "ID": "ACH_COUGHT_IN_A_TRAP",
@@ -10470,7 +10475,7 @@
       "Name": "In My Own Time",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 2263
+      "UsersEstimate": 2264
     },
     {
       "ID": "ACH_LOOK_AT_ME_NOW",
@@ -10509,15 +10514,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 17411,
+      "Progressed": 17412,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-08-16T03:57:34.8125865+00:00",
-  "LastChanged_Achievements": "2023-08-22T07:05:19.7845036+00:00",
+  "LastChanged_Achievements": "2023-08-22T08:07:16.5799768+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:14.8695583+00:00",
-  "LastUpdate_Ratings": "2023-08-22T06:59:09.0494097+00:00",
-  "LastUpdate_Achievements": "2023-08-22T07:05:19.7845894+00:00"
+  "LastUpdate_Ratings": "2023-08-22T07:59:39.2705068+00:00",
+  "LastUpdate_Achievements": "2023-08-22T08:07:16.5800606+00:00"
 }

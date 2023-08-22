@@ -22,10 +22,12 @@
 | Veil of Vera | 24.00% | ~5 |
 | Ulric's Painting Acquired | 19.00% | ~4 |
 | Save Arsen | 19.00% | ~4 |
+| Kabeer is Dead | 19.00% | ~4 |
 | Nikolay's Nonsense | 19.00% | ~4 |
 | You Abandoned God | 19.00% | ~4 |
 | Forgive Ida | 14.00% | ~3 |
-| Kabeer is Dead | 14.00% | ~3 |
+| Davor Was Deported | 14.00% | ~3 |
+| Gregor Was Punished | 14.00% | ~3 |
 | You Ended the Bloodline Curse! | 14.00% | ~3 |
 | Become the Hero of Sveti Kotar | 14.00% | ~3 |
 | The Sanctuary | 14.00% | ~3 |
@@ -34,8 +36,6 @@
 | Goldin's Fate | 14.00% | ~3 |
 | Warden's Monstrosities | 14.00% | ~3 |
 | Leave the Town | 10.00% | ~2 |
-| Davor Was Deported | 10.00% | ~2 |
-| Gregor Was Punished | 10.00% | ~2 |
 | Silenced the Voices | 10.00% | ~2 |
 | The Chapel | 10.00% | ~2 |
 | The Sewers | 10.00% | ~2 |
@@ -50,7 +50,7 @@
 | That's Viktoria | 5.00% | ~1 |
 | Antun Has a Father Now | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21 (Ranked 412)  
+Progressed: 21 (Ranked 413)  
 Completed: 0 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |

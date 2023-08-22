@@ -14,14 +14,14 @@ Number of Ratings: 34  (23.09.2022)
 | The Fall | 18.00% | ~3,134 |
 | Everyone's Born to Die | 16.00% | ~2,786 |
 | Wild West Hero | 14.00% | ~2,438 |
-| In My Own Time | 13.00% | ~2,263 |
+| In My Own Time | 13.00% | ~2,264 |
 | Caught in a Trap | 12.00% | ~2,089 |
 | In For The Kill | 12.00% | ~2,089 |
 | Hello My Old Friend | 6.00% | ~1,045 |
-| After All | 0.90% | ~157 |
+| After All | 0.80% | ~139 |
 | Time of Our Life | 0.30% | ~52 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,411 (Ranked 111)  
+Progressed: 17,412 (Ranked 111)  
 Completed: 51 (0.29%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 51 (0.29%) (Ranked 172)
 | 2023-08-19 | 17,342 | 51 |
 | 2023-08-20 | 17,374 | 51 |
 | 2023-08-21 | 17,403 | 51 |
-| 2023-08-22 | 17,411 | 51 |
+| 2023-08-22 | 17,412 | 51 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
