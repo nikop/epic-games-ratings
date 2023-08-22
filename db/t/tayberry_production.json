@@ -1,15 +1,18 @@
 {
   "ID": "312a1e4f0c8e479e97d92a587dd52a33",
-  "Name": "tayberry Production",
+  "Name": "Killing Floor 3",
+  "ProductSlug": "killing-floor-3",
   "Ranking_EOS_Progress": 554,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
-    "ReleaseDate": null,
+    "ReleaseDate": "2099-11-30T00:00:00+00:00",
     "PcReleaseDate": null,
     "isBlockchainUsed": false,
-    "CustomAttributes": {}
+    "CustomAttributes": {
+      "com.epicgames.app.blacklist": "[]"
+    }
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
@@ -24,7 +27,7 @@
   "TotalAchievementsXP": 0,
   "Achievements": [],
   "AchievementSets": [],
-  "LastUpdate_AppInfo": "2023-05-05T13:33:28.7744148+00:00",
-  "LastUpdate_Ratings": "2023-08-22T19:58:28.3657824+00:00",
-  "LastUpdate_Achievements": "2023-08-22T20:04:46.7751997+00:00"
+  "LastUpdate_AppInfo": "2023-08-22T20:57:08.0697224+00:00",
+  "LastUpdate_Ratings": "2023-08-22T20:59:12.7421701+00:00",
+  "LastUpdate_Achievements": "2023-08-22T21:06:05.5151756+00:00"
 }

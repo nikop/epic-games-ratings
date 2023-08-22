@@ -15,7 +15,7 @@ Rating: 4.48 (Ranked 594)
 | Suit up | 16.00% | ~178 |
 | Walked like an Egyptian | 15.00% | ~167 |
 | Ride in the rising sun | 15.00% | ~167 |
-| Running at the speed of sound | 13.00% | ~144 |
+| Running at the speed of sound | 13.00% | ~145 |
 | Rookie No-No More | 12.00% | ~133 |
 | Martian explorer | 11.00% | ~122 |
 | To the core | 9.00% | ~100 |
@@ -55,10 +55,10 @@ Rating: 4.48 (Ranked 594)
 | Grandslam | 1.00% | ~11 |
 | Redout Grandmaster | 0.90% | ~10 |
 | Beat you to it! | 0.80% | ~9 |
-| I, need, more, shelves! | 0.50% | ~6 |
+| I, need, more, shelves! | 0.40% | ~4 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,111 (Ranked 193)  
+Progressed: 1,112 (Ranked 193)  
 Completed: 0 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 0 (0.00%) (Ranked 261)
 | 2023-08-19 | 1,108 | 0 |
 | 2023-08-20 | 1,109 | 0 |
 | 2023-08-21 | 1,110 | 0 |
-| 2023-08-22 | 1,111 | 0 |
+| 2023-08-22 | 1,112 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

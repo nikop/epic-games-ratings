@@ -5,13 +5,13 @@ Rating: 4.77 (Ranked 109)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 13.00% | ~37,781 |
+| The Sort Who Makes an Entrance | 13.00% | ~37,782 |
 | First Class Student | 11.00% | ~31,969 |
 | Troll with the Punches | 11.00% | ~31,969 |
-| The Defender of Dragons | 10.00% | ~29,062 |
-| A Keen Sense of Spell | 10.00% | ~29,062 |
-| A Talent for Spending | 10.00% | ~29,062 |
-| That's a Keeper | 10.00% | ~29,062 |
+| The Defender of Dragons | 10.00% | ~29,063 |
+| A Keen Sense of Spell | 10.00% | ~29,063 |
+| A Talent for Spending | 10.00% | ~29,063 |
+| That's a Keeper | 10.00% | ~29,063 |
 | Grappling with a Graphorn | 9.00% | ~26,156 |
 | The One Who Mastered Memories | 9.00% | ~26,156 |
 | The Hallowed Hero | 9.00% | ~26,156 |
@@ -38,11 +38,11 @@ Rating: 4.77 (Ranked 109)
 | Going Through the Potions | 3.00% | ~8,719 |
 | Floo Around the World | 3.00% | ~8,719 |
 | The Wise Owl | 3.00% | ~8,719 |
-| The Good Samaritan | 2.00% | ~5,812 |
-| Put Down Roots | 2.00% | ~5,812 |
-| The Auror's Apprentice | 2.00% | ~5,812 |
-| Rise to the Challenges | 2.00% | ~5,812 |
-| Finishing Touches | 2.00% | ~5,812 |
+| The Good Samaritan | 2.00% | ~5,813 |
+| Put Down Roots | 2.00% | ~5,813 |
+| The Auror's Apprentice | 2.00% | ~5,813 |
+| Rise to the Challenges | 2.00% | ~5,813 |
+| Finishing Touches | 2.00% | ~5,813 |
 | Savvy Spender | 1.00% | ~2,906 |
 | Demiguise Dread | 1.00% | ~2,906 |
 | A Forte for Achievement | 1.00% | ~2,906 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,744 |
 | Collector's Edition | 0.30% | ~872 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290,624 (Ranked 43)  
+Progressed: 290,627 (Ranked 43)  
 Completed: 454 (0.16%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,15 +175,15 @@ Completed: 454 (0.16%) (Ranked 193)
 | 2023-08-19 | 290,439 | 453 |
 | 2023-08-20 | 290,517 | 453 |
 | 2023-08-21 | 290,578 | 453 |
-| 2023-08-22 | 290,624 | 454 |
+| 2023-08-22 | 290,627 | 454 |
 ## Awards
 Max (Character Customization): 21,884  (Ranked 17)  
-Sum: 41,390 (Ranked 30)  
+Sum: 41,406 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 21,884 |
-| This game has Great Boss Battles | 10,616 |
+| This game has Great Boss Battles | 10,632 |
 | This game is Great for Beginners | 984 |
 | This game is Relaxing | 963 |
 | This game is Extremely Fun | 962 |
@@ -348,4 +348,4 @@ Diff (max vs sum): -13
 | 2023-08-19 | 4.77 | 21,818 | 41,239 |
 | 2023-08-20 | 4.77 | 21,849 | 41,309 |
 | 2023-08-21 | 4.77 | 21,871 | 41,371 |
-| 2023-08-22 | 4.77 | 21,884 | 41,390 |
+| 2023-08-22 | 4.77 | 21,884 | 41,406 |

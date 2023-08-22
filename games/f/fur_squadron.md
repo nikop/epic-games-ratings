@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All systems go | 80.00% | ~41 |
-| Do a barrel roll! | 65.00% | ~33 |
+| All systems go | 84.00% | ~43 |
+| Do a barrel roll! | 69.00% | ~35 |
 | Huh? What was that? | 53.00% | ~27 |
 | Whatever it is, fix it! | 37.00% | ~19 |
 | The opposite of good news | 31.00% | ~16 |

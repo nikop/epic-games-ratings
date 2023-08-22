@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 435,
+  "EOS_Progressed": 437,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 406,
+  "EOS_NewPlayers": 408,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -756,6 +756,11 @@
       "Time": "2023-08-22T20:03:49.1634722+00:00",
       "NumProgressed": 435,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-22T21:04:58.911303+00:00",
+      "NumProgressed": 437,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -776,7 +781,7 @@
       "Name": "A New Journey",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "_03_FinishAct1",
@@ -792,7 +797,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "_05_FinishAct2",
@@ -888,7 +893,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -896,7 +901,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -975,14 +980,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 435,
+      "Progressed": 437,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-22T20:03:49.1634714+00:00",
+  "LastChanged_Achievements": "2023-08-22T21:04:58.9113022+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:01.7621403+00:00",
-  "LastUpdate_Ratings": "2023-08-22T20:00:13.6181803+00:00",
-  "LastUpdate_Achievements": "2023-08-22T20:03:49.1635011+00:00"
+  "LastUpdate_Ratings": "2023-08-22T21:01:18.7865772+00:00",
+  "LastUpdate_Achievements": "2023-08-22T21:04:58.9113561+00:00"
 }

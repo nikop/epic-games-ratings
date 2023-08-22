@@ -11,7 +11,7 @@
 | Telepathic | 10.00% | ~536 |
 | Snowy Peak | 9.00% | ~483 |
 | High Treetops | 8.00% | ~429 |
-| Speed walkers | 7.00% | ~375 |
+| Speed walkers | 7.00% | ~376 |
 | Blue Rapids | 6.00% | ~322 |
 | Sunset Ridge | 3.00% | ~161 |
 | Robot lives matter too | 0.10% | ~5 |
@@ -20,7 +20,7 @@
 | Reaching for the stars | 0.10% | ~5 |
 | Master biped | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,364 (Ranked 140)  
+Progressed: 5,365 (Ranked 140)  
 Completed: 0 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,7 +144,7 @@ Completed: 0 (0.00%) (Ranked 261)
 | 2023-08-19 | 5,322 | 0 |
 | 2023-08-20 | 5,340 | 0 |
 | 2023-08-21 | 5,354 | 0 |
-| 2023-08-22 | 5,364 | 0 |
+| 2023-08-22 | 5,365 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

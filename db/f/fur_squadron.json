@@ -331,17 +331,17 @@
       "ID": "COMPLETED_BLAZE_1",
       "SetID": "d91enl3",
       "Name": "All systems go",
-      "Percentage": 80,
+      "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 43
     },
     {
       "ID": "COMPLETED_BLAZE_2",
       "SetID": "d91enl3",
       "Name": "Do a barrel roll!",
-      "Percentage": 65,
+      "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 35
     },
     {
       "ID": "COMPLETED_BLAZE_3",
@@ -481,8 +481,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:50:54.8735108+00:00",
-  "LastChanged_Achievements": "2023-08-22T20:06:14.0900562+00:00",
+  "LastChanged_Achievements": "2023-08-22T21:07:57.560451+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:57.0470673+00:00",
-  "LastUpdate_Ratings": "2023-08-22T19:57:06.5710933+00:00",
-  "LastUpdate_Achievements": "2023-08-22T20:06:14.0900812+00:00"
+  "LastUpdate_Ratings": "2023-08-22T20:57:28.1506403+00:00",
+  "LastUpdate_Achievements": "2023-08-22T21:07:57.5604722+00:00"
 }

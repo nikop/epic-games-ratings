@@ -25,10 +25,10 @@ Number of Ratings: 98  (23.09.2022)
 | Luigi Cadorna | 15.00% | ~1,002 |
 | Dirty Dozen | 14.00% | ~935 |
 | Uomo Universale | 14.00% | ~935 |
+| Die Bosniaken Kommen! | 13.00% | ~868 |
 | Machiavelli | 13.00% | ~868 |
 | Shaken, Not Stirred | 13.00% | ~868 |
 | Thus With A Kiss | 13.00% | ~868 |
-| Die Bosniaken Kommen! | 12.00% | ~801 |
 | The Devil's Paintbrush | 12.00% | ~801 |
 | Dante's Inferno | 11.00% | ~734 |
 | I Have the High Ground | 10.00% | ~668 |

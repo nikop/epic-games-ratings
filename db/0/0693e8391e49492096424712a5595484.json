@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 407,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 6.63,
   "EosHistory": [
@@ -1785,9 +1785,9 @@
       "ID": "RogueEat",
       "SetID": "db30heh",
       "Name": "Debt Free",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 20,
-      "UsersEstimate": 379
+      "UsersEstimate": 383
     },
     {
       "ID": "RogueKing",
@@ -1872,8 +1872,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-08-22T20:03:45.657764+00:00",
+  "LastChanged_Achievements": "2023-08-22T21:04:53.7659102+00:00",
   "LastUpdate_AppInfo": "2023-08-22T17:57:09.5805493+00:00",
-  "LastUpdate_Ratings": "2023-08-22T19:58:46.077539+00:00",
-  "LastUpdate_Achievements": "2023-08-22T20:03:45.6578137+00:00"
+  "LastUpdate_Ratings": "2023-08-22T20:59:34.5909714+00:00",
+  "LastUpdate_Achievements": "2023-08-22T21:04:53.7659739+00:00"
 }

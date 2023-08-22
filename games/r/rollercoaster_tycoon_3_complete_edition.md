@@ -1,7 +1,7 @@
 # RollerCoaster Tycoon 3 Complete Edition
 [Store](https://store.epicgames.com/en-US/p/rollercoaster-tycoon-3-complete-edition)  
 [View Rawdata](../../db/r/rollercoaster_tycoon_3_complete_edition.json)  
-Rating: 4.66 (Ranked 275)  
+Rating: 4.65 (Ranked 299)  
 Number of Ratings: 687  (23.09.2022)  
 ## Awards
 Max (Relaxing): 54  (Ranked 395)  
@@ -136,3 +136,4 @@ Diff (max vs sum): 82
 | 2023-08-09 | 4.65 | - | 54 | 435 |
 | 2023-08-15 | 4.66 | - | 54 | 435 |
 | 2023-08-19 | 4.66 | - | 54 | 436 |
+| 2023-08-22 | 4.65 | - | 54 | 436 |

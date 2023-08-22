@@ -5,7 +5,7 @@ Rating: 4.76 (Ranked 119)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In a Pinch | 20.00% | ~1,465 |
+| In a Pinch | 21.00% | ~1,538 |
 | Energy Saver | 16.00% | ~1,172 |
 | The Journey Onwards | 13.00% | ~952 |
 | Globe Trotter | 11.00% | ~806 |

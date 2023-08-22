@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level Up! | 89.00% | ~127 |
+| Level Up! | 90.00% | ~129 |
 | Bullseye! | 85.00% | ~122 |
-| Graduation! | 80.00% | ~114 |
+| Graduation! | 81.00% | ~116 |
 | Villfir Forest | 78.00% | ~112 |
 | Right in the kisser! | 62.00% | ~89 |
 | The Thrower | 50.00% | ~72 |
@@ -78,8 +78,8 @@
 | Divinity | 0.70% | ~1 |
 | Zombie Exterminator | 0.70% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 143 (Ranked 308)  
-Completed: 1 (0.70%) (Ranked 131)  
+Progressed: 143 (Ranked 309)  
+Completed: 1 (0.70%) (Ranked 130)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

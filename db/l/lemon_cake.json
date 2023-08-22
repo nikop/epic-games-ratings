@@ -2,9 +2,9 @@
   "ID": "3eae9135a71f43a288f3b683fe83bc11",
   "Name": "Lemon Cake",
   "ProductSlug": "lemon-cake-c683d8",
-  "Ranking_EOS_Progress": 312,
+  "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 281,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-09-29T23:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 141,
+  "EOS_Progressed": 142,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.71,
+  "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:16.6062056+00:00",
@@ -167,6 +167,11 @@
       "Time": "2023-08-21T19:06:26.3013525+00:00",
       "NumProgressed": 141,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-22T21:07:36.4726527+00:00",
+      "NumProgressed": 142,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 17,
@@ -178,7 +183,7 @@
       "Name": "Proving Your Skills",
       "Percentage": 91,
       "XP": 25,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "LC-02",
@@ -186,7 +191,7 @@
       "Name": "Bakery Startup",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "LC-03",
@@ -194,7 +199,7 @@
       "Name": "Bakery Business",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "LC-04",
@@ -234,7 +239,7 @@
       "Name": "Master Baker",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "LC-09",
@@ -266,15 +271,15 @@
       "Name": "The Famous Lemon Cake",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "LC-13",
       "SetID": "ap2ljl4",
       "Name": "The Kitchen Is On Fire",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 47
+      "UsersEstimate": 45
     },
     {
       "ID": "LC-14",
@@ -290,7 +295,7 @@
       "Name": "A Loving Home",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "LC-16",
@@ -313,7 +318,7 @@
     {
       "ID": "ap2ljl4",
       "IsBase": true,
-      "Progressed": 141,
+      "Progressed": 142,
       "Completed": 1
     }
   ],
@@ -321,8 +326,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.6780256+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.6062065+00:00",
   "LastChanged": "2023-03-31T05:58:18.6780257+00:00",
-  "LastChanged_Achievements": "2023-08-22T20:05:59.4781498+00:00",
+  "LastChanged_Achievements": "2023-08-22T21:07:36.4726519+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:53.5153937+00:00",
-  "LastUpdate_Ratings": "2023-08-22T19:57:49.9268371+00:00",
-  "LastUpdate_Achievements": "2023-08-22T20:05:59.4781665+00:00"
+  "LastUpdate_Ratings": "2023-08-22T20:58:15.9380503+00:00",
+  "LastUpdate_Achievements": "2023-08-22T21:07:36.4726653+00:00"
 }

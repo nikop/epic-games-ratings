@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 209,
+  "EOS_Progressed": 210,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -876,6 +876,11 @@
       "Time": "2023-08-22T20:04:35.8206665+00:00",
       "NumProgressed": 209,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-22T21:05:49.544099+00:00",
+      "NumProgressed": 210,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 10,
@@ -903,7 +908,7 @@
       "Name": "1 Suicide Guy statue",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "Game Completed",
@@ -927,7 +932,7 @@
       "Name": "10 Suicide Guy statues",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "Statue Collector Master",
@@ -943,7 +948,7 @@
       "Name": "5 Suicide Guy statues",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "Suicide Guy",
@@ -951,7 +956,7 @@
       "Name": "Firest level completed!",
       "Percentage": 86,
       "XP": 20,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "The Breaker",
@@ -966,14 +971,14 @@
     {
       "ID": "1fffk9d",
       "IsBase": true,
-      "Progressed": 209,
+      "Progressed": 210,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T07:57:21.3305809+00:00",
   "FirstSeenAchievements": "2023-05-16T16:00:57.0168149+00:00",
-  "LastChanged_Achievements": "2023-08-22T20:04:35.8206654+00:00",
+  "LastChanged_Achievements": "2023-08-22T21:05:49.5440984+00:00",
   "LastUpdate_AppInfo": "2023-08-16T02:10:30.8144397+00:00",
-  "LastUpdate_Ratings": "2023-08-22T19:59:05.7098064+00:00",
-  "LastUpdate_Achievements": "2023-08-22T20:04:35.8206821+00:00"
+  "LastUpdate_Ratings": "2023-08-22T20:59:54.5161739+00:00",
+  "LastUpdate_Achievements": "2023-08-22T21:05:49.5441132+00:00"
 }

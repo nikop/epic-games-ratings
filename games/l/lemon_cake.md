@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Proving Your Skills | 91.00% | ~128 |
-| Bakery Startup | 42.00% | ~59 |
+| Proving Your Skills | 91.00% | ~129 |
+| Bakery Startup | 42.00% | ~60 |
 | Apprentice Baker | 34.00% | ~48 |
-| The Kitchen Is On Fire | 33.00% | ~47 |
+| The Kitchen Is On Fire | 32.00% | ~45 |
 | Perfect Server | 15.00% | ~21 |
 | Adept Baker | 11.00% | ~16 |
 | Verdant Greenhouse | 10.00% | ~14 |
@@ -16,14 +16,14 @@
 | Expert Baker | 9.00% | ~13 |
 | Gotta Go Fast | 7.00% | ~10 |
 | Swing The Broom | 7.00% | ~10 |
-| Bakery Business | 6.00% | ~8 |
-| Master Baker | 6.00% | ~8 |
-| The Famous Lemon Cake | 6.00% | ~8 |
-| A Loving Home | 6.00% | ~8 |
+| Bakery Business | 6.00% | ~9 |
+| Master Baker | 6.00% | ~9 |
+| The Famous Lemon Cake | 6.00% | ~9 |
+| A Loving Home | 6.00% | ~9 |
 | Bakery Empire | 5.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 141 (Ranked 312)  
-Completed: 1 (0.71%) (Ranked 130)  
+Progressed: 142 (Ranked 310)  
+Completed: 1 (0.70%) (Ranked 130)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -51,6 +51,7 @@ Completed: 1 (0.71%) (Ranked 130)
 | 2023-08-15 | 139 | 1 |
 | 2023-08-20 | 140 | 1 |
 | 2023-08-21 | 141 | 1 |
+| 2023-08-22 | 142 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

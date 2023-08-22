@@ -3,7 +3,7 @@
   "Name": "Aya \u0026 Naya",
   "ProductSlug": "aya-and-naya-b7791e",
   "Ranking_EOS_Progress": 234,
-  "Ranking_EOS_Completed": 68,
+  "Ranking_EOS_Completed": 69,
   "Ranking_EOS_NewPlayers": 81,
   "Ranking_EOS_NewCompleters": 14,
   "Store": {
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 445,
+  "EOS_Progressed": 447,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 441,
+  "EOS_NewPlayers": 443,
   "EOS_NewCompleters": 15,
-  "EOS_Completed_Percentage": 3.37,
+  "EOS_Completed_Percentage": 3.36,
   "EosHistory": [
     {
       "Time": "2023-08-08T23:02:04.1783243+00:00",
@@ -606,6 +606,11 @@
       "Time": "2023-08-22T20:04:21.2226359+00:00",
       "NumProgressed": 445,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-08-22T21:05:28.9481931+00:00",
+      "NumProgressed": 447,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-08-08T22:02:18.1743145+00:00",
@@ -618,7 +623,7 @@
       "Name": "Played!",
       "Percentage": 84,
       "XP": 200,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "Mission2",
@@ -634,7 +639,7 @@
       "Name": "Mission 2 clear",
       "Percentage": 27,
       "XP": 200,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "Mission4",
@@ -657,14 +662,14 @@
     {
       "ID": "6igjng7",
       "IsBase": true,
-      "Progressed": 445,
+      "Progressed": 447,
       "Completed": 15
     }
   ],
   "FirstSeen": "2023-08-19T18:58:05.6794692+00:00",
   "FirstSeenAchievements": "2023-08-08T21:02:12.6548497+00:00",
-  "LastChanged_Achievements": "2023-08-22T20:04:21.222635+00:00",
+  "LastChanged_Achievements": "2023-08-22T21:05:28.9481923+00:00",
   "LastUpdate_AppInfo": "2023-08-21T08:57:22.6470058+00:00",
-  "LastUpdate_Ratings": "2023-08-22T19:58:17.1067159+00:00",
-  "LastUpdate_Achievements": "2023-08-22T20:04:21.2226509+00:00"
+  "LastUpdate_Ratings": "2023-08-22T20:58:55.1181418+00:00",
+  "LastUpdate_Achievements": "2023-08-22T21:05:28.9482057+00:00"
 }
