@@ -2,8 +2,8 @@
 | - | ---- | --------- |
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 51.35% |
-| 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.57% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 42.31% |
+| 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 44.23% |
+| 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.57% |
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 31.71% |
 | 6 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
 | 7 | [Overloop](games/o/overloop.md) | 25.00% |
@@ -28,7 +28,7 @@
 | 26 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.71% |
 | 27 | [Remains](games/r/remains.md) | 10.64% |
 | 28 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.32% |
-| 29 | [Out of Bounds](games/o/out_of_bounds.md) | 10.00% |
+| 29 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
 | 30 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.52% |
 | 31 | [Sonic Origins](games/s/sonic_origins.md) | 9.25% |
 | 32 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.04% |
@@ -50,7 +50,7 @@
 | 47 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.36% |
 | 49 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.33% |
 | 50 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.13% |
-| 51 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.94% |
+| 51 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.97% |
 | 52 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.79% |
 | 53 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 4.76% |
 | 54 | [Bugsnax](games/b/bugsnax.md) | 4.72% |
@@ -58,10 +58,10 @@
 | 56 | [JARS](games/j/jars.md) | 4.55% |
 | 57 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.44% |
 | 58 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
-| 59 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 4.14% |
-| 60 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.13% |
-| 61 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.11% |
-| 62 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.92% |
+| 59 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.13% |
+| 60 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 4.11% |
+| 60 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.11% |
+| 62 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.95% |
 | 63 | [ZZT!](games/z/zzt!.md) | 3.87% |
 | 64 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 65 | [Without Escape](games/w/without_escape.md) | 3.57% |
@@ -69,7 +69,7 @@
 | 67 | [Doodle God](games/d/doodle_god.md) | 3.43% |
 | 68 | [Bunny Park](games/b/bunny_park.md) | 3.37% |
 | 69 | [The Complex](games/t/the_complex.md) | 3.35% |
-| 70 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.34% |
+| 70 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.31% |
 | 71 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.30% |
 | 72 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.16% |
 | 73 | [HordeCore](games/h/hordecore.md) | 3.15% |
