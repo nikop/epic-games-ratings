@@ -110,7 +110,7 @@
 | 101 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.78 | 0 | 514 |
 | 109 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 4,191 | 78 |
 | 109 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 6,744 | 52 |
-| 109 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 21,871 | 17 |
+| 109 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 21,884 | 17 |
 | 109 | [Remnant 2](games/r/remnant_2.md) | 4.77 | 1,069 | 139 |
 | 109 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.77 | 38 | 428 |
 | 109 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 0 | 514 |
@@ -213,30 +213,30 @@
 | 198 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.70 | 0 | 514 |
 | 198 | [The Witness](games/t/the_witness.md) | 4.70 | 179 | 282 |
 | 198 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,490 | 74 |
+| 198 | [World of Goo](games/w/world_of_goo.md) | 4.70 | 0 | 514 |
 | 198 | [Ys IX: Monstrum Nox](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.70 | 0 | 514 |
-| 215 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 115,026 | 8 |
-| 215 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 514 |
-| 215 | [CARRION](games/c/carrion.md) | 4.69 | 0 | 514 |
-| 215 | [DOOM II](games/d/doom_ii.md) | 4.69 | 26 | 474 |
-| 215 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.69 | 4,780 | 69 |
-| 215 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.69 | 0 | 514 |
-| 215 | [House Flipper](games/h/house_flipper.md) | 4.69 | 308 | 235 |
-| 215 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.69 | 0 | 514 |
-| 215 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 1,182 | 136 |
-| 215 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 0 | 514 |
-| 215 | [No Straight Roads](games/n/no_straight_roads.md) | 4.69 | 0 | 514 |
-| 215 | [Revita](games/r/revita.md) | 4.69 | 0 | 514 |
-| 215 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,369 | 33 |
-| 215 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 252 | 251 |
-| 215 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 27 | 470 |
-| 215 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.69 | 0 | 514 |
-| 215 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 0 | 514 |
-| 215 | [The Pathless](games/t/the_pathless.md) | 4.69 | 0 | 514 |
-| 215 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 40 | 426 |
-| 215 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 958 | 148 |
-| 215 | [World of Goo](games/w/world_of_goo.md) | 4.69 | 0 | 514 |
-| 215 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 0 | 514 |
-| 215 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 813 | 155 |
+| 216 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 115,026 | 8 |
+| 216 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 514 |
+| 216 | [CARRION](games/c/carrion.md) | 4.69 | 0 | 514 |
+| 216 | [DOOM II](games/d/doom_ii.md) | 4.69 | 26 | 474 |
+| 216 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.69 | 4,780 | 69 |
+| 216 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.69 | 0 | 514 |
+| 216 | [House Flipper](games/h/house_flipper.md) | 4.69 | 308 | 235 |
+| 216 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.69 | 0 | 514 |
+| 216 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 1,182 | 136 |
+| 216 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 0 | 514 |
+| 216 | [No Straight Roads](games/n/no_straight_roads.md) | 4.69 | 0 | 514 |
+| 216 | [Revita](games/r/revita.md) | 4.69 | 0 | 514 |
+| 216 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,369 | 33 |
+| 216 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 252 | 251 |
+| 216 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 27 | 470 |
+| 216 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.69 | 0 | 514 |
+| 216 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 0 | 514 |
+| 216 | [The Pathless](games/t/the_pathless.md) | 4.69 | 0 | 514 |
+| 216 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 40 | 426 |
+| 216 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 958 | 148 |
+| 216 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 0 | 514 |
+| 216 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 813 | 155 |
 | 238 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 3,341 | 89 |
 | 238 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 3,403 | 88 |
 | 238 | [Bad North](games/b/bad_north.md) | 4.68 | 0 | 514 |
@@ -421,7 +421,7 @@
 | 414 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.59 | 223 | 262 |
 | 414 | [Operation: Tango](games/o/operation__tango.md) | 4.59 | 0 | 514 |
 | 414 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 75 | 370 |
-| 414 | [Torchlight II](games/t/torchlight_ii.md) | 4.59 | 1,010 | 145 |
+| 414 | [Torchlight II](games/t/torchlight_ii.md) | 4.59 | 1,011 | 145 |
 | 414 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.59 | 0 | 514 |
 | 414 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 709 | 168 |
 | 414 | [Wall World](games/w/wall_world.md) | 4.59 | 0 | 514 |
@@ -843,7 +843,7 @@
 | 835 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.24 | 0 | 514 |
 | 835 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 24 | 483 |
 | 843 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 0 | 514 |
-| 843 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 1,010 | 145 |
+| 843 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 1,010 | 146 |
 | 843 | [Rise of Industry](games/r/rise_of_industry.md) | 4.23 | 0 | 514 |
 | 843 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 0 | 514 |
 | 847 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.22 | 179 | 282 |

@@ -48,7 +48,7 @@
 | 46 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.88% |
 | 47 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.36% |
 | 47 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.36% |
-| 47 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.36% |
+| 49 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.33% |
 | 50 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.13% |
 | 51 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.91% |
 | 52 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.79% |
@@ -64,9 +64,9 @@
 | 62 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.93% |
 | 63 | [ZZT!](games/z/zzt!.md) | 3.88% |
 | 64 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
-| 65 | [Without Escape](games/w/without_escape.md) | 3.57% |
-| 66 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
-| 67 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.48% |
+| 65 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.70% |
+| 66 | [Without Escape](games/w/without_escape.md) | 3.57% |
+| 67 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 68 | [Doodle God](games/d/doodle_god.md) | 3.43% |
 | 69 | [Bunny Park](games/b/bunny_park.md) | 3.37% |
 | 70 | [The Complex](games/t/the_complex.md) | 3.35% |
@@ -183,10 +183,10 @@
 | 179 | [Filament](games/f/filament.md) | 0.24% |
 | 182 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.23% |
 | 183 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
-| 183 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.22% |
 | 183 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.22% |
-| 186 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.21% |
-| 186 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.21% |
+| 185 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.21% |
+| 185 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.21% |
+| 185 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.21% |
 | 188 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.20% |
 | 189 | [RAILGRADE](games/r/railgrade.md) | 0.19% |
 | 190 | [Going Medieval](games/g/going_medieval.md) | 0.18% |

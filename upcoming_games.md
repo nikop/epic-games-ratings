@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 2023-08-22 | - |  | - | - |
 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 2023-08-22 | - |  | - | - |
 | [GO TO HELL or Die Trying](games/8/8dd803604799447fa19f637a05991e98.md) | 2023-08-23 | - |  | - | - |
 | [Dust Fleet](games/d/dust_fleet.md) | 2023-08-23 | - |  | - | - |
