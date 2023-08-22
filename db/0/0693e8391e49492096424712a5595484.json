@@ -4,8 +4,8 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 42,
-  "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -1503,9 +1503,9 @@
       "ID": "BasiliskBroom",
       "SetID": "db30heh",
       "Name": "Sweeping Prop",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 93
+      "UsersEstimate": 97
     },
     {
       "ID": "BasiliskFishingRod",
@@ -1575,9 +1575,9 @@
       "ID": "BeggarWomanHut",
       "SetID": "db30heh",
       "Name": "Home Sweet Home",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 288
+      "UsersEstimate": 292
     },
     {
       "ID": "BroomAmanita",
@@ -1599,9 +1599,9 @@
       "ID": "DevilPriest",
       "SetID": "db30heh",
       "Name": "Deal with the Devil",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 288
+      "UsersEstimate": 292
     },
     {
       "ID": "DevilRope",
@@ -1615,9 +1615,9 @@
       "ID": "Drunkard",
       "SetID": "db30heh",
       "Name": "Drunkard",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 109
+      "UsersEstimate": 113
     },
     {
       "ID": "DwarDevil",
@@ -1823,9 +1823,9 @@
       "ID": "SleepingBasiliskPoppiesBroth",
       "SetID": "db30heh",
       "Name": "Poppy Sleep",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 65
+      "UsersEstimate": 69
     },
     {
       "ID": "SwordDiamond",
@@ -1862,8 +1862,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-08-22T15:04:11.8706034+00:00",
+  "LastChanged_Achievements": "2023-08-22T16:04:22.1024512+00:00",
   "LastUpdate_AppInfo": "2023-08-15T16:57:19.7846089+00:00",
-  "LastUpdate_Ratings": "2023-08-22T14:59:00.439307+00:00",
-  "LastUpdate_Achievements": "2023-08-22T15:04:11.8706441+00:00"
+  "LastUpdate_Ratings": "2023-08-22T15:59:09.5333521+00:00",
+  "LastUpdate_Achievements": "2023-08-22T16:04:22.1024978+00:00"
 }

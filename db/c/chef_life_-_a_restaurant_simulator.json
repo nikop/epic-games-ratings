@@ -4,8 +4,8 @@
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
     "PcReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 553,
+  "EOS_Progressed": 554,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2379,6 +2379,11 @@
       "Time": "2023-08-21T16:04:44.3719223+00:00",
       "NumProgressed": 553,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-22T16:04:20.7336945+00:00",
+      "NumProgressed": 554,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -2572,9 +2577,9 @@
       "ID": "Packing20",
       "SetID": "d1bm05f",
       "Name": "Next Level Cuisine",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 61
     },
     {
       "ID": "PerfectGrade25",
@@ -2590,7 +2595,7 @@
       "Name": "Home Cook",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "RecipeDifferent30",
@@ -2644,9 +2649,9 @@
       "ID": "StaffMemberSpecialityDishes10",
       "SetID": "d1bm05f",
       "Name": "You\u0027re the Expert!",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 182
+      "UsersEstimate": 177
     },
     {
       "ID": "TrattoriaSet",
@@ -2709,7 +2714,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 553,
+      "Progressed": 554,
       "Completed": 0
     }
   ],
@@ -2717,8 +2722,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-08-22T15:04:10.4458537+00:00",
+  "LastChanged_Achievements": "2023-08-22T16:04:20.7336939+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:49.5877268+00:00",
-  "LastUpdate_Ratings": "2023-08-22T15:01:03.1922827+00:00",
-  "LastUpdate_Achievements": "2023-08-22T15:04:10.4458935+00:00"
+  "LastUpdate_Ratings": "2023-08-22T16:01:05.4513984+00:00",
+  "LastUpdate_Achievements": "2023-08-22T16:04:20.7337551+00:00"
 }

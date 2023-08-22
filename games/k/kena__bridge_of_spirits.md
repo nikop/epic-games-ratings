@@ -6,23 +6,23 @@ Number of Ratings: 3,313  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Found a Friend | 95.00% | ~406,160 |
+| Found a Friend | 95.00% | ~406,161 |
 | Haikyo | 80.00% | ~342,030 |
 | Good as New | 72.00% | ~307,827 |
 | Into the Woods | 69.00% | ~295,001 |
-| Hunter in the Forest | 60.00% | ~256,522 |
-| Rot Commander | 60.00% | ~256,522 |
+| Hunter in the Forest | 60.00% | ~256,523 |
+| Rot Commander | 60.00% | ~256,523 |
 | Taro's Fear | 56.00% | ~239,421 |
-| Between the Eyes | 47.00% | ~200,942 |
+| Between the Eyes | 47.00% | ~200,943 |
 | Taro's Love | 45.00% | ~192,392 |
 | Taro's Regret | 43.00% | ~183,841 |
 | Spirit Guide | 42.00% | ~179,566 |
-| Harness Your Power | 39.00% | ~166,739 |
+| Harness Your Power | 39.00% | ~166,740 |
 | The Open Range | 37.00% | ~158,189 |
 | Adira's Love | 34.00% | ~145,363 |
-| Adira's Fear | 33.00% | ~141,087 |
-| Weigh Them Down | 31.00% | ~132,536 |
-| Adira's Regret | 31.00% | ~132,536 |
+| Adira's Fear | 33.00% | ~141,088 |
+| Weigh Them Down | 31.00% | ~132,537 |
+| Adira's Regret | 31.00% | ~132,537 |
 | A Heavy Hammer | 30.00% | ~128,261 |
 | Crossing Over | 29.00% | ~123,986 |
 | Quick Draw | 29.00% | ~123,986 |
@@ -39,16 +39,16 @@ Number of Ratings: 3,313  (23.09.2022)
 | Zen Master | 8.00% | ~34,203 |
 | Curse Collector | 7.00% | ~29,928 |
 | The Last Stop | 7.00% | ~29,928 |
-| Hat Collector | 4.00% | ~17,101 |
-| Restoration Master | 4.00% | ~17,101 |
-| No Stone Unturned | 4.00% | ~17,101 |
+| Hat Collector | 4.00% | ~17,102 |
+| Restoration Master | 4.00% | ~17,102 |
+| No Stone Unturned | 4.00% | ~17,102 |
 | Sharpshooter | 2.00% | ~8,551 |
 | Triple Tap | 1.00% | ~4,275 |
 | Return to Sender | 1.00% | ~4,275 |
 | Triple Threat | 0.90% | ~3,848 |
 | Master Spirit Guide | 0.30% | ~1,283 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 427,537 (Ranked 39)  
+Progressed: 427,538 (Ranked 39)  
 Completed: 526 (0.12%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,7 +172,7 @@ Completed: 526 (0.12%) (Ranked 201)
 | 2023-08-19 | 427,490 | 525 |
 | 2023-08-20 | 427,510 | 525 |
 | 2023-08-21 | 427,527 | 526 |
-| 2023-08-22 | 427,537 | 526 |
+| 2023-08-22 | 427,538 | 526 |
 ## Awards
 Max (Great Boss Battles): 1,316  (Ranked 130)  
 Sum: 1,694 (Ranked 209)  

@@ -1,3 +1,3 @@
 # Alaskan Road Truckers
-[Store](https://store.epicgames.com/en-US/p/alaskan-truck-simulator-d31463)  
+[Store](https://store.epicgames.com/en-US/p/alaskan-road-truckers-d31463)  
 [View Rawdata](../../db/a/alaskan_truck_simulator.json)  

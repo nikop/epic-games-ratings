@@ -4,11 +4,11 @@
   "ProductSlug": "ghost-recon-wildlands",
   "Ranking_Rating": 391,
   "Ranking_Popularity": 261,
-  "Ranking_PopularitySum": 215,
+  "Ranking_PopularitySum": 214,
   "Ranking_EOS_Progress": 553,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 347,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2018-04-10T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2832,10 +2832,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 1588,
       "NumberOfAwardsMax": 231
+    },
+    {
+      "Time": "2023-08-22T16:00:36.1011492+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 1589,
+      "NumberOfAwardsMax": 231
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1588,
+  "NumberOfAwards": 1589,
   "NumberOfAwardsMax": 231,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2855,7 +2861,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 197
+      "Count": 198
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2911,8 +2917,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:43.6796979+00:00",
-  "LastChanged": "2023-08-22T07:02:28.0709815+00:00",
+  "LastChanged": "2023-08-22T16:00:36.101149+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:08.0657025+00:00",
-  "LastUpdate_Ratings": "2023-08-22T15:00:30.6299127+00:00",
-  "LastUpdate_Achievements": "2023-08-22T15:06:57.8590953+00:00"
+  "LastUpdate_Ratings": "2023-08-22T16:00:36.1011495+00:00",
+  "LastUpdate_Achievements": "2023-08-22T16:07:10.9908764+00:00"
 }

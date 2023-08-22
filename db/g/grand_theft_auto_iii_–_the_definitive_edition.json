@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 135,
   "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -430,9 +430,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7576,
+  "EOS_Progressed": 7577,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -7560,6 +7560,11 @@
       "Time": "2023-08-22T10:06:38.7015548+00:00",
       "NumProgressed": 7576,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-08-22T16:07:37.5355888+00:00",
+      "NumProgressed": 7577,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 29,
@@ -7571,7 +7576,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 6288
+      "UsersEstimate": 6289
     },
     {
       "ID": "ACH02",
@@ -7643,7 +7648,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2121
+      "UsersEstimate": 2122
     },
     {
       "ID": "ACH11",
@@ -7769,9 +7774,9 @@
       "ID": "ACH26",
       "SetID": "552d41m",
       "Name": "Furious First Responder",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 55,
-      "UsersEstimate": 68
+      "UsersEstimate": 76
     },
     {
       "ID": "ACH27",
@@ -7802,7 +7807,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7576,
+      "Progressed": 7577,
       "Completed": 46
     }
   ],
@@ -7810,8 +7815,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-08-18T01:37:32.2922999+00:00",
-  "LastChanged_Achievements": "2023-08-22T15:07:25.5436582+00:00",
+  "LastChanged_Achievements": "2023-08-22T16:07:37.5355882+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:48.3209377+00:00",
-  "LastUpdate_Ratings": "2023-08-22T15:00:08.7244411+00:00",
-  "LastUpdate_Achievements": "2023-08-22T15:07:25.5437214+00:00"
+  "LastUpdate_Ratings": "2023-08-22T16:00:12.317405+00:00",
+  "LastUpdate_Achievements": "2023-08-22T16:07:37.5356613+00:00"
 }

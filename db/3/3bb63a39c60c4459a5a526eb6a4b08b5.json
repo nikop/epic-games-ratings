@@ -4,8 +4,8 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
     "PcReleaseDate": "2023-05-18T10:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 468,
+  "EOS_Progressed": 469,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -1691,6 +1691,11 @@
       "Time": "2023-08-22T13:08:26.9191476+00:00",
       "NumProgressed": 468,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-22T16:03:37.744134+00:00",
+      "NumProgressed": 469,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -1718,7 +1723,7 @@
       "Name": "Basic Controls",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "BigPlane",
@@ -1726,7 +1731,7 @@
       "Name": "Expensive Plane",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "BudgetFlight",
@@ -1830,7 +1835,7 @@
       "Name": "Lack of Time",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "LargeAirport",
@@ -1854,7 +1859,7 @@
       "Name": "Legendary transporter",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "LinearNetwork",
@@ -2037,14 +2042,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 468,
+      "Progressed": 469,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-08-22T15:03:36.8352586+00:00",
+  "LastChanged_Achievements": "2023-08-22T16:03:37.7441334+00:00",
   "LastUpdate_AppInfo": "2023-08-22T10:56:57.2309265+00:00",
-  "LastUpdate_Ratings": "2023-08-22T14:59:06.0483125+00:00",
-  "LastUpdate_Achievements": "2023-08-22T15:03:36.8353014+00:00"
+  "LastUpdate_Ratings": "2023-08-22T15:59:14.4587136+00:00",
+  "LastUpdate_Achievements": "2023-08-22T16:03:37.744179+00:00"
 }

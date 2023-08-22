@@ -4,8 +4,8 @@
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 74,
-  "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
     "PcReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -1209,9 +1209,9 @@
       "ID": "law_student",
       "SetID": "69co12a",
       "Name": "Law student",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 166
     },
     {
       "ID": "league_1",
@@ -1249,9 +1249,9 @@
       "ID": "met_casey",
       "SetID": "69co12a",
       "Name": "Pal of your father?",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 174
+      "UsersEstimate": 176
     },
     {
       "ID": "met_k",
@@ -1265,9 +1265,9 @@
       "ID": "mick_house",
       "SetID": "69co12a",
       "Name": "Spirit of the past",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 168
     },
     {
       "ID": "mike_resurect",
@@ -1496,8 +1496,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-08-22T15:05:54.1983919+00:00",
+  "LastChanged_Achievements": "2023-08-22T16:06:08.9641129+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:55.5083268+00:00",
-  "LastUpdate_Ratings": "2023-08-22T14:59:42.3053482+00:00",
-  "LastUpdate_Achievements": "2023-08-22T15:05:54.1984639+00:00"
+  "LastUpdate_Ratings": "2023-08-22T15:59:49.5436471+00:00",
+  "LastUpdate_Achievements": "2023-08-22T16:06:08.9641848+00:00"
 }

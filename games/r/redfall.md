@@ -25,6 +25,7 @@ Rating: 3.50 (Ranked 974)
 | Check, Please! | 0.10% | ~2 |
 | Heart Attack | 0.10% | ~2 |
 | Harvest’s End | 0.10% | ~2 |
+| Bob’s Final Hour | 0.10% | ~2 |
 | I Spit On Your Grave | 0.10% | ~2 |
 | Neighborhood Revitalization | 0.00% | ~0 |
 | Home Is Where the Heart Is | 0.00% | ~0 |
@@ -62,7 +63,6 @@ Rating: 3.50 (Ranked 974)
 | Enemy of My Enemy | 0.00% | ~0 |
 | Dexterity Save | 0.00% | ~0 |
 | Saw That Coming | 0.00% | ~0 |
-| Bob’s Final Hour | 0.00% | ~0 |
 | Lights Out | 0.00% | ~0 |
 | Helping Hand | 0.00% | ~0 |
 | Good Samaritan | 0.00% | ~0 |

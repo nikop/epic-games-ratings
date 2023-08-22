@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 21.00% | ~45,336 |
+| Sowwy! | 21.00% | ~45,340 |
 | Déjà vu | 2.00% | ~4,318 |
 | Where's that freaking Dwarf? | 2.00% | ~4,318 |
 | Alt+F4 | 2.00% | ~4,318 |
@@ -30,11 +30,11 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.60% | ~1,295 |
 | Team Building Exercise | 0.60% | ~1,295 |
 | Oh, when I'll be level 10... | 0.60% | ~1,295 |
-| Shiny and Crôm | 0.50% | ~1,079 |
-| The beards of change | 0.50% | ~1,079 |
-| The Ranger of Chaos | 0.50% | ~1,079 |
-| I am the night | 0.50% | ~1,079 |
-| Thieves' Guild Accreditation | 0.50% | ~1,079 |
+| Shiny and Crôm | 0.50% | ~1,080 |
+| The beards of change | 0.50% | ~1,080 |
+| The Ranger of Chaos | 0.50% | ~1,080 |
+| I am the night | 0.50% | ~1,080 |
+| Thieves' Guild Accreditation | 0.50% | ~1,080 |
 | Res Judicata | 0.40% | ~864 |
 | The Famous Dungeon of Naheulbeuk | 0.40% | ~864 |
 | Dwarf Fortress | 0.40% | ~864 |
@@ -62,6 +62,7 @@ Number of Ratings: 118  (23.09.2022)
 | King of the Arena | 0.10% | ~216 |
 | Finally free | 0.10% | ~216 |
 | Hoarding | 0.10% | ~216 |
+| Staff cut | 0.10% | ~216 |
 | Legendary brew | 0.10% | ~216 |
 | Elite Adventurers | 0.10% | ~216 |
 | Take your time back in time | 0.10% | ~216 |
@@ -92,10 +93,9 @@ Number of Ratings: 118  (23.09.2022)
 | Demisemiquaver | 0.10% | ~216 |
 | Dumb and dumber | 0.10% | ~216 |
 | Dwarf Candy | 0.10% | ~216 |
-| Staff cut | 0.00% | ~0 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,887 (Ranked 56)  
+Progressed: 215,904 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,14 +178,14 @@ Completed: 2 (0.00%) (Ranked 261)
 | 2023-08-19 | 214,804 | 2 |
 | 2023-08-20 | 215,307 | 2 |
 | 2023-08-21 | 215,690 | 2 |
-| 2023-08-22 | 215,887 | 2 |
+| 2023-08-22 | 215,904 | 2 |
 ## Awards
-Max (Character Customization): 172  (Ranked 287)  
-Sum: 213 (Ranked 366)  
-Diff (max vs sum): -79  
+Max (Character Customization): 173  (Ranked 285)  
+Sum: 214 (Ranked 366)  
+Diff (max vs sum): -81  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 172 |
+| This game has Inclusive Character Customization | 173 |
 | This game is Relaxing | 21 |
 | This game is Great for Beginners | 20 |
 ## Ratings History
@@ -301,3 +301,4 @@ Diff (max vs sum): -79
 | 2023-08-18 | 4.58 | - | 168 | 209 |
 | 2023-08-19 | 4.58 | - | 170 | 211 |
 | 2023-08-21 | 4.58 | - | 172 | 213 |
+| 2023-08-22 | 4.58 | - | 173 | 214 |

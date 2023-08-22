@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 313,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -2645,9 +2645,9 @@
       "ID": "Achievement_061",
       "SetID": "6b34g18",
       "Name": "Bob\u2019s Final Hour",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "Achievement_062",
@@ -2734,8 +2734,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-08-08T16:59:16.4444629+00:00",
-  "LastChanged_Achievements": "2023-08-22T15:04:22.4186396+00:00",
+  "LastChanged_Achievements": "2023-08-22T16:04:32.9132576+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:46.9760776+00:00",
-  "LastUpdate_Ratings": "2023-08-22T15:00:08.5686959+00:00",
-  "LastUpdate_Achievements": "2023-08-22T15:04:22.4187254+00:00"
+  "LastUpdate_Ratings": "2023-08-22T16:00:12.1611593+00:00",
+  "LastUpdate_Achievements": "2023-08-22T16:04:32.9133513+00:00"
 }

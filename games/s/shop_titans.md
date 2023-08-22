@@ -62,6 +62,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Mammonite | 0.30% | ~405 |
 | Laden with Loot | 0.30% | ~405 |
 | Seasoned Journeyman | 0.30% | ~405 |
+| Glittering Collection | 0.30% | ~405 |
 | Black Friday Special | 0.30% | ~405 |
 | Magical Harmony | 0.30% | ~405 |
 | Special Ingredient | 0.30% | ~405 |
@@ -95,7 +96,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Precision Engineering | 0.20% | ~270 |
 | Scourge of the Seas | 0.20% | ~270 |
 | Attrition Mission | 0.20% | ~270 |
-| Glittering Collection | 0.20% | ~270 |
 | Treasure Trove | 0.20% | ~270 |
 | Moment of Respite | 0.20% | ~270 |
 | King's Shadow | 0.20% | ~270 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~135 |
 | Cash Only Please | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,947 (Ranked 66)  
+Progressed: 134,948 (Ranked 66)  
 Completed: 136 (0.10%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,7 +243,7 @@ Completed: 136 (0.10%) (Ranked 208)
 | 2023-08-19 | 134,791 | 133 |
 | 2023-08-20 | 134,856 | 133 |
 | 2023-08-21 | 134,907 | 134 |
-| 2023-08-22 | 134,947 | 136 |
+| 2023-08-22 | 134,948 | 136 |
 ## Awards
 Max (Great for Beginners): 4,707  (Ranked 71)  
 Sum: 27,126 (Ranked 46)  

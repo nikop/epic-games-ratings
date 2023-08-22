@@ -6,37 +6,37 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 91.00% | ~7,849 |
-| Photogenic | 88.00% | ~7,590 |
-| Surge Gauntlet Jockey | 85.00% | ~7,331 |
-| Plug It In | 84.00% | ~7,245 |
-| Adventure Time | 80.00% | ~6,900 |
-| Playing With Power | 77.00% | ~6,641 |
+| Let's Get This Party Started | 91.00% | ~7,850 |
+| Photogenic | 88.00% | ~7,591 |
+| Surge Gauntlet Jockey | 85.00% | ~7,332 |
+| Plug It In | 84.00% | ~7,246 |
+| Adventure Time | 80.00% | ~6,901 |
+| Playing With Power | 77.00% | ~6,642 |
 | Coup d'Etat | 59.00% | ~5,089 |
-| You're Fired | 58.00% | ~5,002 |
-| Get Furious | 56.00% | ~4,830 |
+| You're Fired | 58.00% | ~5,003 |
+| Get Furious | 56.00% | ~4,831 |
 | Gunplay And Cosplay | 55.00% | ~4,744 |
 | Hacks In Stacks | 55.00% | ~4,744 |
-| Meching Enemies | 49.00% | ~4,226 |
-| Ticket Toddler | 45.00% | ~3,881 |
+| Meching Enemies | 49.00% | ~4,227 |
+| Ticket Toddler | 45.00% | ~3,882 |
 | Booty Bashing | 40.00% | ~3,450 |
 | Field Medic | 38.00% | ~3,278 |
 | Here Comes a New Challenger | 38.00% | ~3,278 |
-| Rapid Response | 33.00% | ~2,846 |
+| Rapid Response | 33.00% | ~2,847 |
 | Surge Ahead | 31.00% | ~2,674 |
 | The Full Monty | 31.00% | ~2,674 |
-| Guardian Angel | 29.00% | ~2,501 |
+| Guardian Angel | 29.00% | ~2,502 |
 | Poppin Noggins | 25.00% | ~2,156 |
 | Clips and Crits | 20.00% | ~1,725 |
-| Grey Goo | 18.00% | ~1,552 |
+| Grey Goo | 18.00% | ~1,553 |
 | Boss of Bosses | 15.00% | ~1,294 |
 | The Final Blow | 14.00% | ~1,208 |
 | To Be Continued | 13.00% | ~1,121 |
 | Light My Fire | 12.00% | ~1,035 |
 | Seasoned Adventurer | 12.00% | ~1,035 |
-| Get In The Ring! | 10.00% | ~862 |
-| 1.21 Gigawatts | 10.00% | ~862 |
-| This Is My Boomstick! | 10.00% | ~862 |
+| Get In The Ring! | 10.00% | ~863 |
+| 1.21 Gigawatts | 10.00% | ~863 |
+| This Is My Boomstick! | 10.00% | ~863 |
 | Rescue Ranger | 8.00% | ~690 |
 | Ticket Titan | 7.00% | ~604 |
 | Surge Gauntlet Scholar | 6.00% | ~518 |
@@ -48,16 +48,16 @@ Number of Ratings: 801  (23.09.2022)
 | Team Player | 4.00% | ~345 |
 | Event Horizon | 3.00% | ~259 |
 | Treasure Hunting | 3.00% | ~259 |
-| Nexuwizard | 2.00% | ~172 |
+| Nexuwizard | 2.00% | ~173 |
 | Everybody Freeze | 1.00% | ~86 |
 | Nature Is Lit | 0.90% | ~78 |
 | The Collector | 0.80% | ~69 |
 | I'm The Pluggernaut | 0.60% | ~52 |
 | Shield and Shred | 0.60% | ~52 |
-| Infinite Adventures! | 0.40% | ~34 |
+| Infinite Adventures! | 0.40% | ~35 |
 | Pyrotechnical | 0.20% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,625 (Ranked 128)  
+Progressed: 8,626 (Ranked 128)  
 Completed: 0 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 0 (0.00%) (Ranked 261)
 | 2023-08-19 | 8,591 | 0 |
 | 2023-08-20 | 8,601 | 0 |
 | 2023-08-21 | 8,617 | 0 |
-| 2023-08-22 | 8,625 | 0 |
+| 2023-08-22 | 8,626 | 0 |
 ## Awards
 Max (Relaxing): 64  (Ranked 387)  
 Sum: 458 (Ranked 309)  

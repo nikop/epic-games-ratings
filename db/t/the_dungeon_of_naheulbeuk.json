@@ -3,12 +3,12 @@
   "Name": "The Dungeon of Naheulbeuk",
   "ProductSlug": "the-dungeon-of-naheulbeuk",
   "Ranking_Rating": 426,
-  "Ranking_Popularity": 287,
+  "Ranking_Popularity": 285,
   "Ranking_PopularitySum": 366,
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 24,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -658,18 +658,24 @@
       "Rating": 4.58,
       "NumberOfAwards": 213,
       "NumberOfAwardsMax": 172
+    },
+    {
+      "Time": "2023-08-22T16:01:40.466825+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 214,
+      "NumberOfAwardsMax": 173
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 213,
-  "NumberOfAwardsMax": 172,
+  "NumberOfAwards": 214,
+  "NumberOfAwardsMax": 173,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 172
+      "Count": 173
     },
     {
       "Text": "This game is Relaxing",
@@ -684,9 +690,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 215887,
+  "EOS_Progressed": 215904,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3195,
+  "EOS_NewPlayers": 3177,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7874,6 +7880,11 @@
       "Time": "2023-08-22T15:03:11.9524889+00:00",
       "NumProgressed": 215887,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-22T16:03:14.0309299+00:00",
+      "NumProgressed": 215904,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -7909,7 +7920,7 @@
       "Name": "Shiny and Cr\u00F4m",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1079
+      "UsersEstimate": 1080
     },
     {
       "ID": "BarbarianKillUsingBow",
@@ -8099,9 +8110,9 @@
       "ID": "DLC2SmallParty",
       "SetID": "50p8kh1",
       "Name": "Staff cut",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 216
     },
     {
       "ID": "DLC3AllLegendaryDrink",
@@ -8333,7 +8344,7 @@
       "Name": "Sowwy!",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 45336
+      "UsersEstimate": 45340
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -8389,7 +8400,7 @@
       "Name": "The beards of change",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1079
+      "UsersEstimate": 1080
     },
     {
       "ID": "FollowNarzatok",
@@ -8509,7 +8520,7 @@
       "Name": "The Ranger of Chaos",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1079
+      "UsersEstimate": 1080
     },
     {
       "ID": "Rogue30Backstab",
@@ -8517,7 +8528,7 @@
       "Name": "I am the night",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1079
+      "UsersEstimate": 1080
     },
     {
       "ID": "RogueEpic",
@@ -8525,7 +8536,7 @@
       "Name": "Thieves\u0027 Guild Accreditation",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1079
+      "UsersEstimate": 1080
     },
     {
       "ID": "Speedrun",
@@ -8588,21 +8599,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 215887,
+      "Progressed": 215904,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 215887,
+      "Progressed": 215904,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
-  "LastChanged": "2023-08-21T00:00:20.1938169+00:00",
-  "LastChanged_Achievements": "2023-08-22T15:03:11.952488+00:00",
+  "LastChanged": "2023-08-22T16:01:40.4668248+00:00",
+  "LastChanged_Achievements": "2023-08-22T16:03:14.0309294+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:36.4163589+00:00",
-  "LastUpdate_Ratings": "2023-08-22T15:01:41.7317578+00:00",
-  "LastUpdate_Achievements": "2023-08-22T15:03:11.9526153+00:00"
+  "LastUpdate_Ratings": "2023-08-22T16:01:40.4668254+00:00",
+  "LastUpdate_Achievements": "2023-08-22T16:03:14.031097+00:00"
 }

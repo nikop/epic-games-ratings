@@ -5,10 +5,10 @@
   "Ranking_Rating": 170,
   "Ranking_Popularity": 314,
   "Ranking_PopularitySum": 253,
-  "Ranking_EOS_Progress": 130,
+  "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -974,9 +974,9 @@
       "Count": 124
     }
   ],
-  "EOS_Progressed": 8129,
+  "EOS_Progressed": 8130,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -4404,6 +4404,11 @@
       "Time": "2023-08-20T20:06:19.174113+00:00",
       "NumProgressed": 8129,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-08-22T16:07:29.8873157+00:00",
+      "NumProgressed": 8130,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 24,
@@ -4439,7 +4444,7 @@
       "Name": "Focus!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5121
+      "UsersEstimate": 5122
     },
     {
       "ID": "DemonCastleRestoration",
@@ -4455,7 +4460,7 @@
       "Name": "The Dwarven Chandelier",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 975
+      "UsersEstimate": 976
     },
     {
       "ID": "FakeGoddessGone",
@@ -4503,7 +4508,7 @@
       "Name": "The Hero Killer",
       "Percentage": 29,
       "XP": 90,
-      "UsersEstimate": 2357
+      "UsersEstimate": 2358
     },
     {
       "ID": "LeoniasFall",
@@ -4543,7 +4548,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5121
+      "UsersEstimate": 5122
     },
     {
       "ID": "SavedElderEnt_2",
@@ -4575,7 +4580,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7560
+      "UsersEstimate": 7561
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -4599,22 +4604,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 6828
+      "UsersEstimate": 6829
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8129,
+      "Progressed": 8130,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-08-17T17:01:08.9786666+00:00",
-  "LastChanged_Achievements": "2023-08-22T15:07:17.6855632+00:00",
+  "LastChanged_Achievements": "2023-08-22T16:07:29.887315+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:36.3255081+00:00",
-  "LastUpdate_Ratings": "2023-08-22T15:01:43.8698565+00:00",
-  "LastUpdate_Achievements": "2023-08-22T15:07:17.6856013+00:00"
+  "LastUpdate_Ratings": "2023-08-22T16:01:42.6269155+00:00",
+  "LastUpdate_Achievements": "2023-08-22T16:07:29.8873782+00:00"
 }

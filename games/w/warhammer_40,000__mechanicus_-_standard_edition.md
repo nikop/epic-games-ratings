@@ -5,15 +5,15 @@ Rating: 4.43 (Ranked 663)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 26.00% | ~57,418 |
-| This is only the beginning | 19.00% | ~41,960 |
-| Knowledge is power | 12.00% | ~26,501 |
+| No aid from the Omnissiah | 25.00% | ~55,212 |
+| This is only the beginning | 19.00% | ~41,961 |
+| Knowledge is power | 12.00% | ~26,502 |
 | Power Ranger | 9.00% | ~19,876 |
 | Galvanic Rifle | 9.00% | ~19,876 |
 | Taser Goad | 9.00% | ~19,876 |
 | Radium Ready | 9.00% | ~19,876 |
 | Half a cog | 9.00% | ~19,876 |
-| Watch them crumble | 6.00% | ~13,250 |
+| Watch them crumble | 6.00% | ~13,251 |
 | Competent Cohort | 4.00% | ~8,834 |
 | Celestial Cartography Catastrophe | 4.00% | ~8,834 |
 | One with the Machine | 4.00% | ~8,834 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 663)
 | Perma-live | 0.10% | ~221 |
 | Purge the Heretek | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,840 (Ranked 54)  
+Progressed: 220,846 (Ranked 54)  
 Completed: 5 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,7 +164,7 @@ Completed: 5 (0.00%) (Ranked 261)
 | 2023-08-19 | 220,633 | 5 |
 | 2023-08-20 | 220,737 | 5 |
 | 2023-08-21 | 220,802 | 5 |
-| 2023-08-22 | 220,840 | 5 |
+| 2023-08-22 | 220,846 | 5 |
 ## Awards
 Max (Highly Recommended): 281  (Ranked 240)  
 Sum: 2,127 (Ranked 194)  

@@ -20,10 +20,10 @@
 | Fighting is cool | 70.00% | ~184 |
 | Hello, world! | 70.00% | ~184 |
 | No bullying more | 68.00% | ~179 |
-| Pal of your father? | 66.00% | ~174 |
+| Pal of your father? | 67.00% | ~176 |
 | Employee of the month | 65.00% | ~171 |
-| Spirit of the past | 63.00% | ~166 |
-| Law student | 62.00% | ~163 |
+| Spirit of the past | 64.00% | ~168 |
+| Law student | 63.00% | ~166 |
 | Workout professional | 61.00% | ~160 |
 | Own four walls | 61.00% | ~160 |
 | Handyman | 60.00% | ~158 |
