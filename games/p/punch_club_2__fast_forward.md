@@ -17,18 +17,18 @@
 | First defeat | 75.00% | ~197 |
 | Your own amateur gym | 74.00% | ~195 |
 | Run K, run! | 74.00% | ~195 |
+| Fighting is cool | 70.00% | ~184 |
 | Hello, world! | 70.00% | ~184 |
-| Fighting is cool | 69.00% | ~181 |
 | No bullying more | 68.00% | ~179 |
 | Pal of your father? | 66.00% | ~174 |
 | Employee of the month | 65.00% | ~171 |
 | Spirit of the past | 63.00% | ~166 |
 | Law student | 62.00% | ~163 |
 | Workout professional | 61.00% | ~160 |
+| Own four walls | 61.00% | ~160 |
 | Handyman | 60.00% | ~158 |
 | Champion – starter pack | 60.00% | ~158 |
 | It's good to be alive | 60.00% | ~158 |
-| Own four walls | 60.00% | ~158 |
 | Fight for life | 59.00% | ~155 |
 | Little hacker | 59.00% | ~155 |
 | Employee of the year | 59.00% | ~155 |

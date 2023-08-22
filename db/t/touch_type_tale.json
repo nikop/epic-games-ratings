@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3130,
+  "EOS_Progressed": 3131,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -2804,6 +2804,11 @@
       "Time": "2023-08-21T20:05:25.6556022+00:00",
       "NumProgressed": 3130,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-08-22T15:05:16.7622687+00:00",
+      "NumProgressed": 3131,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -2863,7 +2868,7 @@
       "Name": "You and what Army?",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2786
+      "UsersEstimate": 2787
     },
     {
       "ID": "campaign10",
@@ -2967,7 +2972,7 @@
       "Name": "Economics 101",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 2034
+      "UsersEstimate": 2035
     },
     {
       "ID": "campaign4",
@@ -2975,7 +2980,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1502
+      "UsersEstimate": 1503
     },
     {
       "ID": "campaign5",
@@ -2983,7 +2988,7 @@
       "Name": "Clay Fighter",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "campaign6",
@@ -3039,7 +3044,7 @@
       "Name": "Not a Drop Wasted",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "scenario4",
@@ -3055,7 +3060,7 @@
       "Name": "We Have the Technology",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "scenario6",
@@ -3078,7 +3083,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3130,
+      "Progressed": 3131,
       "Completed": 11
     }
   ],
@@ -3086,8 +3091,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-08-22T14:05:34.0879592+00:00",
+  "LastChanged_Achievements": "2023-08-22T15:05:16.7622682+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:21.9855732+00:00",
-  "LastUpdate_Ratings": "2023-08-22T13:58:21.5485979+00:00",
-  "LastUpdate_Achievements": "2023-08-22T14:05:34.0880024+00:00"
+  "LastUpdate_Ratings": "2023-08-22T14:58:09.4812737+00:00",
+  "LastUpdate_Achievements": "2023-08-22T15:05:16.7623096+00:00"
 }

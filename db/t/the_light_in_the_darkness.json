@@ -4,7 +4,7 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 32,
-  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2221,
+  "EOS_Progressed": 2222,
   "EOS_Completed": 201,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 9.05,
   "EosHistory": [
@@ -5173,6 +5173,11 @@
       "Time": "2023-08-22T09:05:29.6394371+00:00",
       "NumProgressed": 2221,
       "NumCompleted": 201
+    },
+    {
+      "Time": "2023-08-22T15:05:21.5433871+00:00",
+      "NumProgressed": 2222,
+      "NumCompleted": 201
     }
   ],
   "TotalAchievements": 12,
@@ -5264,7 +5269,7 @@
       "Name": "Nazis in Paris",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "Nuremberg Laws",
@@ -5279,7 +5284,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2221,
+      "Progressed": 2222,
       "Completed": 201
     }
   ],
@@ -5287,8 +5292,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-08-22T14:05:39.0518515+00:00",
+  "LastChanged_Achievements": "2023-08-22T15:05:21.5433863+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:24.3876502+00:00",
-  "LastUpdate_Ratings": "2023-08-22T14:02:09.0971539+00:00",
-  "LastUpdate_Achievements": "2023-08-22T14:05:39.051914+00:00"
+  "LastUpdate_Ratings": "2023-08-22T15:02:08.2321288+00:00",
+  "LastUpdate_Achievements": "2023-08-22T15:05:21.5434217+00:00"
 }

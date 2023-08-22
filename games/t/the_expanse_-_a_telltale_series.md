@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stogie for Fogey | 17.00% | ~1,484 |
-| Doctor Approved | 16.00% | ~1,397 |
-| Captain Drummer | 15.00% | ~1,309 |
-| Spore Taste | 12.00% | ~1,047 |
-| Martian Music | 11.00% | ~960 |
+| Stogie for Fogey | 17.00% | ~1,485 |
+| Doctor Approved | 16.00% | ~1,398 |
+| Captain Drummer | 15.00% | ~1,310 |
+| Spore Taste | 12.00% | ~1,048 |
+| Martian Music | 11.00% | ~961 |
 | Celebrations are in Order | 9.00% | ~786 |
 | Thorston Mayer | 6.00% | ~524 |
 | Bottoms up! | 4.00% | ~349 |
@@ -35,7 +35,7 @@
 | Grave Robber | 0.00% | ~0 |
 | Data Recoverer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,729 (Ranked 127)  
+Progressed: 8,736 (Ranked 127)  
 Completed: 0 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,4 +66,4 @@ Completed: 0 (0.00%) (Ranked 261)
 | 2023-08-19 | 8,429 | 0 |
 | 2023-08-20 | 8,575 | 0 |
 | 2023-08-21 | 8,681 | 0 |
-| 2023-08-22 | 8,729 | 0 |
+| 2023-08-22 | 8,736 | 0 |

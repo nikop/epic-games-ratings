@@ -4,8 +4,8 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
     "PcReleaseDate": "2022-07-13T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 319,
+  "EOS_Progressed": 320,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -952,6 +952,11 @@
       "Time": "2023-08-22T13:09:58.9789798+00:00",
       "NumProgressed": 319,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-22T15:04:54.6369887+00:00",
+      "NumProgressed": 320,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -1291,7 +1296,7 @@
       "Name": "I like parks",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "GREEN_AREAS_2",
@@ -1315,7 +1320,7 @@
       "Name": "The woodcutter",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "MILLS",
@@ -1393,9 +1398,9 @@
       "ID": "POPULATION_1",
       "SetID": "44dlcg0",
       "Name": "Small town",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 211
+      "UsersEstimate": 208
     },
     {
       "ID": "POPULATION_2",
@@ -1579,7 +1584,7 @@
       "Name": "Soviet town",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "WELFARE_2",
@@ -1594,7 +1599,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 319,
+      "Progressed": 320,
       "Completed": 0
     }
   ],
@@ -1602,8 +1607,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-08-22T14:05:12.2717398+00:00",
+  "LastChanged_Achievements": "2023-08-22T15:04:54.6369879+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:19.5551158+00:00",
-  "LastUpdate_Ratings": "2023-08-22T14:01:27.3505674+00:00",
-  "LastUpdate_Achievements": "2023-08-22T14:05:12.2718323+00:00"
+  "LastUpdate_Ratings": "2023-08-22T15:01:26.1600159+00:00",
+  "LastUpdate_Achievements": "2023-08-22T15:04:54.6370885+00:00"
 }

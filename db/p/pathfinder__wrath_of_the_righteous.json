@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3524,7 +3524,7 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 11029,
+  "EOS_Progressed": 11030,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
@@ -11144,6 +11144,11 @@
       "Time": "2023-08-22T14:06:01.2879483+00:00",
       "NumProgressed": 11029,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-22T15:05:44.2555897+00:00",
+      "NumProgressed": 11030,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -11171,7 +11176,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1323
+      "UsersEstimate": 1324
     },
     {
       "ID": "04_FithCrusade",
@@ -11283,7 +11288,7 @@
       "Name": "Transformation",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "18_MythicChoices",
@@ -11363,7 +11368,7 @@
       "Name": "Great Upstart",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "29_StrategicVictory",
@@ -11499,7 +11504,7 @@
       "Name": "Voice from Your Dreams",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "46_AllPathsOpen",
@@ -11507,7 +11512,7 @@
       "Name": "All Paths Open",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -12082,21 +12087,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9811,
+      "Progressed": 9812,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11029,
+      "Progressed": 11030,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-08-22T12:01:36.9385541+00:00",
-  "LastChanged_Achievements": "2023-08-22T14:06:01.2879479+00:00",
+  "LastChanged_Achievements": "2023-08-22T15:05:44.2555885+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:48.9326646+00:00",
-  "LastUpdate_Ratings": "2023-08-22T14:00:59.7548597+00:00",
-  "LastUpdate_Achievements": "2023-08-22T14:06:01.2881395+00:00"
+  "LastUpdate_Ratings": "2023-08-22T15:00:54.9929567+00:00",
+  "LastUpdate_Achievements": "2023-08-22T15:05:44.2557817+00:00"
 }

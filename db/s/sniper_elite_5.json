@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -476,9 +476,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3512,
+  "EOS_Progressed": 3514,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -6136,6 +6136,11 @@
       "Time": "2023-08-22T12:05:24.601631+00:00",
       "NumProgressed": 3512,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-22T15:04:56.697631+00:00",
+      "NumProgressed": 3514,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 71,
@@ -6219,7 +6224,7 @@
       "Name": "Strategist",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "REWARD_1_MEETING_RESISTANCE",
@@ -6299,7 +6304,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -6315,7 +6320,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 1405
+      "UsersEstimate": 1406
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -6347,7 +6352,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -6355,7 +6360,7 @@
       "Name": "Lord of War",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1018
+      "UsersEstimate": 1019
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -6371,7 +6376,7 @@
       "Name": "Resourceful",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 913
+      "UsersEstimate": 914
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -6395,7 +6400,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 1229
+      "UsersEstimate": 1230
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -6451,7 +6456,7 @@
       "Name": "Tinkerer",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "REWARD_4_INDUSTRIAL_ESPIONAGE",
@@ -6475,7 +6480,7 @@
       "Name": "Locomotion Commotion",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "REWARD_5_BUNKER_BUSTER",
@@ -6483,7 +6488,7 @@
       "Name": "Change the Channel",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1018
+      "UsersEstimate": 1019
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -6499,7 +6504,7 @@
       "Name": "Road Rage",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "REWARD_67_NO_ASSISTANCE",
@@ -6515,7 +6520,7 @@
       "Name": "Taking it back",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 948
+      "UsersEstimate": 949
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -6714,13 +6719,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3463,
+      "Progressed": 3465,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3512,
+      "Progressed": 3514,
       "Completed": 9
     }
   ],
@@ -6728,8 +6733,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-08-19T13:59:32.9786794+00:00",
-  "LastChanged_Achievements": "2023-08-22T14:05:14.2150368+00:00",
+  "LastChanged_Achievements": "2023-08-22T15:04:56.6976302+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:38.9761253+00:00",
-  "LastUpdate_Ratings": "2023-08-22T13:59:08.7995896+00:00",
-  "LastUpdate_Achievements": "2023-08-22T14:05:14.215135+00:00"
+  "LastUpdate_Ratings": "2023-08-22T14:58:54.4062485+00:00",
+  "LastUpdate_Achievements": "2023-08-22T15:04:56.6977238+00:00"
 }

@@ -10799,9 +10799,9 @@
       "Count": 5646
     }
   ],
-  "EOS_Progressed": 872040,
+  "EOS_Progressed": 872043,
   "EOS_Completed": 2001,
-  "EOS_NewPlayers": 1068,
+  "EOS_NewPlayers": 1066,
   "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -24509,6 +24509,11 @@
       "Time": "2023-08-22T14:06:36.8332596+00:00",
       "NumProgressed": 872040,
       "NumCompleted": 2001
+    },
+    {
+      "Time": "2023-08-22T15:06:20.1562397+00:00",
+      "NumProgressed": 872043,
+      "NumCompleted": 2001
     }
   ],
   "TotalAchievements": 44,
@@ -24528,7 +24533,7 @@
       "Name": "To Bad Decisions!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 52322
+      "UsersEstimate": 52323
     },
     {
       "ID": "BushidoAndChill",
@@ -24544,7 +24549,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 156967
+      "UsersEstimate": 156968
     },
     {
       "ID": "Denied",
@@ -24552,7 +24557,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 340096
+      "UsersEstimate": 340097
     },
     {
       "ID": "FollowingTheRiver",
@@ -24608,7 +24613,7 @@
       "Name": "Master Crafter",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 113365
+      "UsersEstimate": 113366
     },
     {
       "ID": "IAmMaxTac",
@@ -24640,7 +24645,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 200569
+      "UsersEstimate": 200570
     },
     {
       "ID": "MaxPain",
@@ -24688,7 +24693,7 @@
       "Name": "Life of the Road",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 183128
+      "UsersEstimate": 183129
     },
     {
       "ID": "Roleplayer",
@@ -24736,7 +24741,7 @@
       "Name": "The Fool",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 592987
+      "UsersEstimate": 592989
     },
     {
       "ID": "TheHermit",
@@ -24744,7 +24749,7 @@
       "Name": "The Hermit",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 218010
+      "UsersEstimate": 218011
     },
     {
       "ID": "TheHightPriestess",
@@ -24760,7 +24765,7 @@
       "Name": "The Lovers",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 305214
+      "UsersEstimate": 305215
     },
     {
       "ID": "TheStar",
@@ -24784,7 +24789,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 235451
+      "UsersEstimate": 235452
     },
     {
       "ID": "TheWorld",
@@ -24792,7 +24797,7 @@
       "Name": "The World",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 156967
+      "UsersEstimate": 156968
     },
     {
       "ID": "ThisIsPacifica",
@@ -24816,7 +24821,7 @@
       "Name": "True Soldier",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 200569
+      "UsersEstimate": 200570
     },
     {
       "ID": "TrueWarrior",
@@ -24871,21 +24876,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 872040,
+      "Progressed": 872043,
       "Completed": 2001
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 663,
-      "Completed": 663
+      "Progressed": 666,
+      "Completed": 666
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-08-22T14:00:27.2732819+00:00",
-  "LastChanged_Achievements": "2023-08-22T14:06:36.8332589+00:00",
+  "LastChanged_Achievements": "2023-08-22T15:06:20.1562392+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:56.8976844+00:00",
-  "LastUpdate_Ratings": "2023-08-22T14:00:27.2732825+00:00",
-  "LastUpdate_Achievements": "2023-08-22T14:06:36.8333784+00:00"
+  "LastUpdate_Ratings": "2023-08-22T15:00:21.7212922+00:00",
+  "LastUpdate_Achievements": "2023-08-22T15:06:20.156354+00:00"
 }

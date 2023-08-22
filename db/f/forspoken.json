@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 248,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -346,9 +346,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 39745,
+  "EOS_Progressed": 39746,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7631,6 +7631,11 @@
       "Time": "2023-08-22T13:10:20.8608399+00:00",
       "NumProgressed": 39745,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-22T15:05:12.5969871+00:00",
+      "NumProgressed": 39746,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -7690,7 +7695,7 @@
       "Name": "Attachments",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 3974
+      "UsersEstimate": 3975
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -8065,22 +8070,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 39745,
+      "Progressed": 39746,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 4582,
-      "Completed": 4582
+      "Progressed": 4583,
+      "Completed": 4583
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-08-20T03:03:04.688758+00:00",
-  "LastChanged_Achievements": "2023-08-22T14:05:30.9092352+00:00",
+  "LastChanged_Achievements": "2023-08-22T15:05:12.5969865+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:51.1296088+00:00",
-  "LastUpdate_Ratings": "2023-08-22T14:01:01.6301566+00:00",
-  "LastUpdate_Achievements": "2023-08-22T14:05:30.9093281+00:00"
+  "LastUpdate_Ratings": "2023-08-22T15:00:59.2182542+00:00",
+  "LastUpdate_Achievements": "2023-08-22T15:05:12.5970767+00:00"
 }
