@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 47,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 248386,
+  "EOS_Progressed": 248387,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 286,
+  "EOS_NewPlayers": 282,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11974,6 +11974,11 @@
       "Time": "2023-08-22T21:06:11.6526198+00:00",
       "NumProgressed": 248386,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-22T22:04:37.2391771+00:00",
+      "NumProgressed": 248387,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 46,
@@ -12081,7 +12086,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 44709
+      "UsersEstimate": 44710
     },
     {
       "ID": "curator",
@@ -12185,7 +12190,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 64580
+      "UsersEstimate": 64581
     },
     {
       "ID": "justABit",
@@ -12215,9 +12220,9 @@
       "ID": "muddyWaters",
       "SetID": "d7im63i",
       "Name": "Muddy Waters",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 37258
+      "UsersEstimate": 34774
     },
     {
       "ID": "myFirstRunbow",
@@ -12225,7 +12230,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 124193
+      "UsersEstimate": 124194
     },
     {
       "ID": "notScared",
@@ -12352,7 +12357,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 248386,
+      "Progressed": 248387,
       "Completed": 4
     }
   ],
@@ -12360,8 +12365,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-08-22T21:06:11.6526188+00:00",
+  "LastChanged_Achievements": "2023-08-22T22:04:37.2391768+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:44.1764965+00:00",
-  "LastUpdate_Ratings": "2023-08-22T21:03:02.4199631+00:00",
-  "LastUpdate_Achievements": "2023-08-22T21:06:11.6527246+00:00"
+  "LastUpdate_Ratings": "2023-08-22T22:00:45.9180966+00:00",
+  "LastUpdate_Achievements": "2023-08-22T22:04:37.2392738+00:00"
 }

@@ -12,13 +12,13 @@ Rating: 4.77 (Ranked 109)
 | A Keen Sense of Spell | 10.00% | ~29,063 |
 | A Talent for Spending | 10.00% | ~29,063 |
 | That's a Keeper | 10.00% | ~29,063 |
-| Grappling with a Graphorn | 9.00% | ~26,156 |
-| The One Who Mastered Memories | 9.00% | ~26,156 |
-| The Hallowed Hero | 9.00% | ~26,156 |
-| The Hero of Hogwarts | 9.00% | ~26,156 |
-| Challenge Accepted | 9.00% | ~26,156 |
-| Loom for Improvement | 9.00% | ~26,156 |
-| Coasting Along | 9.00% | ~26,156 |
+| Grappling with a Graphorn | 9.00% | ~26,157 |
+| The One Who Mastered Memories | 9.00% | ~26,157 |
+| The Hallowed Hero | 9.00% | ~26,157 |
+| The Hero of Hogwarts | 9.00% | ~26,157 |
+| Challenge Accepted | 9.00% | ~26,157 |
+| Loom for Improvement | 9.00% | ~26,157 |
+| Coasting Along | 9.00% | ~26,157 |
 | Followed the Butterflies | 8.00% | ~23,250 |
 | The Spell Master | 8.00% | ~23,250 |
 | Rising From the Ashes | 8.00% | ~23,250 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,744 |
 | Collector's Edition | 0.30% | ~872 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290,627 (Ranked 43)  
+Progressed: 290,629 (Ranked 43)  
 Completed: 454 (0.16%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,10 +175,10 @@ Completed: 454 (0.16%) (Ranked 193)
 | 2023-08-19 | 290,439 | 453 |
 | 2023-08-20 | 290,517 | 453 |
 | 2023-08-21 | 290,578 | 453 |
-| 2023-08-22 | 290,627 | 454 |
+| 2023-08-22 | 290,629 | 454 |
 ## Awards
 Max (Character Customization): 21,884  (Ranked 17)  
-Sum: 41,406 (Ranked 30)  
+Sum: 41,407 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -193,7 +193,7 @@ Diff (max vs sum): -13
 | This game is Highly Recommended | 902 |
 | This game has Quickly Understood Controls | 854 |
 | This game has Beautiful Visuals | 800 |
-| This game has a Creative Community | 598 |
+| This game has a Creative Community | 599 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -348,4 +348,4 @@ Diff (max vs sum): -13
 | 2023-08-19 | 4.77 | 21,818 | 41,239 |
 | 2023-08-20 | 4.77 | 21,849 | 41,309 |
 | 2023-08-21 | 4.77 | 21,871 | 41,371 |
-| 2023-08-22 | 4.77 | 21,884 | 41,406 |
+| 2023-08-22 | 4.77 | 21,884 | 41,407 |

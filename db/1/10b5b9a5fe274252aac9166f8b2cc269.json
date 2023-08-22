@@ -4,7 +4,7 @@
   "ProductSlug": "dark-fantasy-jigsaw-puzzle-12769c",
   "Ranking_EOS_Progress": 371,
   "Ranking_EOS_Completed": 4,
-  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewPlayers": 239,
   "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2023-07-28T03:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 52,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 42.31,
   "EosHistory": [
@@ -429,9 +429,9 @@
       "ID": "PORTRAIT_2",
       "SetID": "2fge00i",
       "Name": "Portrait 2",
-      "Percentage": 83,
+      "Percentage": 85,
       "XP": 50,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "PORTRAIT_20",
@@ -445,25 +445,25 @@
       "ID": "PORTRAIT_3",
       "SetID": "2fge00i",
       "Name": "Portrait 3",
-      "Percentage": 71,
+      "Percentage": 73,
       "XP": 50,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "PORTRAIT_4",
       "SetID": "2fge00i",
       "Name": "Portrait 4",
-      "Percentage": 65,
+      "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "PORTRAIT_5",
       "SetID": "2fge00i",
       "Name": "Portrait 5",
-      "Percentage": 63,
+      "Percentage": 65,
       "XP": 50,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "PORTRAIT_6",
@@ -508,8 +508,8 @@
   ],
   "FirstSeen": "2023-07-29T16:57:06.8916907+00:00",
   "FirstSeenAchievements": "2023-07-20T07:01:56.8501716+00:00",
-  "LastChanged_Achievements": "2023-08-22T21:06:50.6981846+00:00",
+  "LastChanged_Achievements": "2023-08-22T22:05:24.2934103+00:00",
   "LastUpdate_AppInfo": "2023-08-17T07:57:27.9318917+00:00",
-  "LastUpdate_Ratings": "2023-08-22T20:59:23.5479073+00:00",
-  "LastUpdate_Achievements": "2023-08-22T21:06:50.6982054+00:00"
+  "LastUpdate_Ratings": "2023-08-22T21:58:21.2807053+00:00",
+  "LastUpdate_Achievements": "2023-08-22T22:05:24.293428+00:00"
 }

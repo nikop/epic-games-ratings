@@ -4,7 +4,7 @@
   "ProductSlug": "tetris-effect",
   "Ranking_Rating": 30,
   "Ranking_Popularity": 420,
-  "Ranking_PopularitySum": 338,
+  "Ranking_PopularitySum": 335,
   "Ranking_EOS_Progress": 554,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 346,
@@ -547,10 +547,16 @@
       "Rating": 4.86,
       "NumberOfAwards": 290,
       "NumberOfAwardsMax": 43
+    },
+    {
+      "Time": "2023-08-22T21:59:22.3114125+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 330,
+      "NumberOfAwardsMax": 43
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 290,
+  "NumberOfAwards": 330,
   "NumberOfAwardsMax": 43,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -619,6 +625,12 @@
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
       "Count": 25
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
+      "Count": 40
     }
   ],
   "EOS_Progressed": 0,
@@ -632,8 +644,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:49.195013+00:00",
-  "LastChanged": "2023-08-18T16:59:59.6760422+00:00",
+  "LastChanged": "2023-08-22T21:59:22.3114123+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:38.1408416+00:00",
-  "LastUpdate_Ratings": "2023-08-22T21:00:51.2291935+00:00",
-  "LastUpdate_Achievements": "2023-08-22T21:06:23.2857026+00:00"
+  "LastUpdate_Ratings": "2023-08-22T21:59:22.311413+00:00",
+  "LastUpdate_Achievements": "2023-08-22T22:04:45.6941989+00:00"
 }

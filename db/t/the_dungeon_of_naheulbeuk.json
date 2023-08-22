@@ -696,9 +696,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 216003,
+  "EOS_Progressed": 216019,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3149,
+  "EOS_NewPlayers": 3143,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7916,6 +7916,11 @@
       "Time": "2023-08-22T21:03:45.1944798+00:00",
       "NumProgressed": 216003,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-22T22:02:16.9699792+00:00",
+      "NumProgressed": 216019,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -8277,9 +8282,9 @@
       "ID": "DifficultyHero",
       "SetID": "50chcgj",
       "Name": "The Famous Dungeon of Naheulbeuk",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 864
+      "UsersEstimate": 1080
     },
     {
       "ID": "DifficultyIronManNoCompanion",
@@ -8375,7 +8380,7 @@
       "Name": "Sowwy!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 47521
+      "UsersEstimate": 47524
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -8509,9 +8514,9 @@
       "ID": "PriestessEpic",
       "SetID": "50chcgj",
       "Name": "In Navalu\u0027s footsteps",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 432
+      "UsersEstimate": 648
     },
     {
       "ID": "QuestEmile",
@@ -8630,21 +8635,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 216003,
+      "Progressed": 216019,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 216003,
+      "Progressed": 216019,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-22T20:01:13.7007257+00:00",
-  "LastChanged_Achievements": "2023-08-22T21:03:45.1944793+00:00",
+  "LastChanged_Achievements": "2023-08-22T22:02:16.9699787+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:36.4163589+00:00",
-  "LastUpdate_Ratings": "2023-08-22T21:02:55.302394+00:00",
-  "LastUpdate_Achievements": "2023-08-22T21:03:45.194659+00:00"
+  "LastUpdate_Ratings": "2023-08-22T22:00:41.8573954+00:00",
+  "LastUpdate_Achievements": "2023-08-22T22:02:16.9701112+00:00"
 }

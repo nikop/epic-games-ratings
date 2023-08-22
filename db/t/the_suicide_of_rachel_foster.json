@@ -2,13 +2,13 @@
   "ID": "67eb392889234b4d99a6562c5e60c825",
   "Name": "The Suicide of Rachel Foster",
   "ProductSlug": "the-suicide-of-rachel-foster-1dc01b",
-  "Ranking_Rating": 879,
+  "Ranking_Rating": 880,
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 52,
-  "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
     "PcReleaseDate": "2020-02-19T00:00:00+00:00",
@@ -2301,9 +2301,9 @@
       "ID": "ACH_PrimoContattoIrving",
       "SetID": "7a9m7mj",
       "Name": "\u0022Nice\u0022 to meet you",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 100,
-      "UsersEstimate": 1063
+      "UsersEstimate": 1077
     },
     {
       "ID": "ACH_StanzaSegreta",
@@ -2333,8 +2333,8 @@
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-08-04T14:01:27.152223+00:00",
-  "LastChanged_Achievements": "2023-08-22T21:04:51.5975462+00:00",
+  "LastChanged_Achievements": "2023-08-22T22:03:42.2195403+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:43.5353424+00:00",
-  "LastUpdate_Ratings": "2023-08-22T20:58:04.9844675+00:00",
-  "LastUpdate_Achievements": "2023-08-22T21:04:51.5975671+00:00"
+  "LastUpdate_Ratings": "2023-08-22T21:57:26.4428815+00:00",
+  "LastUpdate_Achievements": "2023-08-22T22:03:42.2195636+00:00"
 }

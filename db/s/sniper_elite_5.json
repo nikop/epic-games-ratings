@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -476,9 +476,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3514,
+  "EOS_Progressed": 3515,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -6141,6 +6141,11 @@
       "Time": "2023-08-22T15:04:56.697631+00:00",
       "NumProgressed": 3514,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-22T22:04:19.3605679+00:00",
+      "NumProgressed": 3515,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 71,
@@ -6232,7 +6237,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1616
+      "UsersEstimate": 1617
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -6272,7 +6277,7 @@
       "Name": "Gunslinger",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -6464,7 +6469,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1124
+      "UsersEstimate": 1125
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -6544,7 +6549,7 @@
       "Name": "Target America",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -6719,13 +6724,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3465,
+      "Progressed": 3466,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3514,
+      "Progressed": 3515,
       "Completed": 9
     }
   ],
@@ -6733,8 +6738,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-08-19T13:59:32.9786794+00:00",
-  "LastChanged_Achievements": "2023-08-22T21:05:45.5586397+00:00",
+  "LastChanged_Achievements": "2023-08-22T22:04:19.3605674+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:38.9761253+00:00",
-  "LastUpdate_Ratings": "2023-08-22T20:59:29.1158719+00:00",
-  "LastUpdate_Achievements": "2023-08-22T21:05:45.5587834+00:00"
+  "LastUpdate_Ratings": "2023-08-22T21:58:25.0939401+00:00",
+  "LastUpdate_Achievements": "2023-08-22T22:04:19.3606599+00:00"
 }

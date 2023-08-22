@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 437,
+  "EOS_Progressed": 441,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 408,
+  "EOS_NewPlayers": 412,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -761,6 +761,11 @@
       "Time": "2023-08-22T21:04:58.911303+00:00",
       "NumProgressed": 437,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-22T22:03:47.3202212+00:00",
+      "NumProgressed": 441,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -773,7 +778,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -781,15 +786,15 @@
       "Name": "A New Journey",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 319
+      "UsersEstimate": 322
     },
     {
       "ID": "_03_FinishAct1",
       "SetID": "8a1io5d",
       "Name": "The Adventure Begins",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 218
+      "UsersEstimate": 216
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -797,7 +802,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "_05_FinishAct2",
@@ -805,7 +810,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -813,7 +818,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "_07_FinishAct3",
@@ -829,7 +834,7 @@
       "Name": "Swabbie",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 146
     },
     {
       "ID": "_09_Completion_20",
@@ -837,7 +842,7 @@
       "Name": "Powder Monkey",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "_10_Completion_30",
@@ -853,7 +858,7 @@
       "Name": "Seadog",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "_12_Completion_50",
@@ -899,9 +904,9 @@
       "ID": "_17_UpgradeFirstCharacter",
       "SetID": "8a1io5d",
       "Name": "With Great Power\u2026",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 123
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -917,15 +922,15 @@
       "Name": "Persistent Parasite",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "_20_CrewTale_TPB",
       "SetID": "8a1io5d",
       "Name": "Fishy Fish",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 44
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -957,7 +962,7 @@
       "Name": "Jaded Judge",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "_25_CrewTale_GCW",
@@ -965,7 +970,7 @@
       "Name": "Rustic Recipe",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "_26_ReviveVirgilio",
@@ -980,14 +985,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 437,
+      "Progressed": 441,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-22T21:04:58.9113022+00:00",
+  "LastChanged_Achievements": "2023-08-22T22:03:47.3202204+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:01.7621403+00:00",
-  "LastUpdate_Ratings": "2023-08-22T21:01:18.7865772+00:00",
-  "LastUpdate_Achievements": "2023-08-22T21:04:58.9113561+00:00"
+  "LastUpdate_Ratings": "2023-08-22T21:59:41.3998348+00:00",
+  "LastUpdate_Achievements": "2023-08-22T22:03:47.3202415+00:00"
 }

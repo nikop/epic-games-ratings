@@ -12,6 +12,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Hunt for The Last Breath | 0.50% | ~952 |
 | The Mad Wizard | 0.40% | ~897 |
 | To Infinity's and Beyond | 0.40% | ~762 |
+| Were-verpowered | 0.30% | ~673 |
 | The Ring of Regeneration | 0.30% | ~673 |
 | Seeking Allies | 0.30% | ~673 |
 | Are Ya Chicken? | 0.30% | ~673 |
@@ -23,7 +24,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vecna Lives! | 0.20% | ~381 |
 | Vecna Loots! | 0.20% | ~381 |
 | Return to the Tomb | 0.20% | ~381 |
-| Were-verpowered | 0.20% | ~448 |
 | A Persistent Buzzing | 0.20% | ~448 |
 | Beast Mode | 0.20% | ~448 |
 | Terror in the Dark | 0.20% | ~448 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~190 |
 | Animated Giff | 0.10% | ~190 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,189 (Ranked 53)  
+Progressed: 224,203 (Ranked 53)  
 Completed: 2,207 (0.98%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -647,7 +647,7 @@ Completed: 2,207 (0.98%) (Ranked 120)
 | 2023-08-19 | 223,443 | 2,193 |
 | 2023-08-20 | 223,729 | 2,196 |
 | 2023-08-21 | 223,996 | 2,203 |
-| 2023-08-22 | 224,189 | 2,207 |
+| 2023-08-22 | 224,203 | 2,207 |
 ## Awards
 Max (Diverse Characters): 5,176  (Ranked 68)  
 Sum: 31,169 (Ranked 39)  

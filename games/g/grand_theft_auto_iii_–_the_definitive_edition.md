@@ -1,15 +1,15 @@
 # Grand Theft Auto III – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-iii-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto_iii_–_the_definitive_edition.json)  
-Rating: 4.17 (Ranked 879)  
+Rating: 4.18 (Ranked 873)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~6,290 |
+| First Day on the Job | 83.00% | ~6,291 |
 | Disposing of the Evidence | 38.00% | ~2,880 |
 | Without a Scratch | 34.00% | ~2,577 |
 | Wreckless Driving | 28.00% | ~2,122 |
-| A Marked Man | 25.00% | ~1,894 |
+| A Marked Man | 25.00% | ~1,895 |
 | Street Sweeper | 18.00% | ~1,364 |
 | Liberty City Minute | 17.00% | ~1,288 |
 | Offshore Delivery | 14.00% | ~1,061 |
@@ -17,7 +17,7 @@ Rating: 4.17 (Ranked 879)
 | By a Mile | 10.00% | ~758 |
 | Not So Fast | 10.00% | ~758 |
 | Right-hand Man | 10.00% | ~758 |
-| A Gift from the King | 7.00% | ~530 |
+| A Gift from the King | 7.00% | ~531 |
 | Full Artillery | 4.00% | ~303 |
 | Mob Boss | 3.00% | ~227 |
 | Where To? | 2.00% | ~152 |
@@ -31,11 +31,11 @@ Rating: 4.17 (Ranked 879)
 | Come Out to Play-y-y-y | 1.00% | ~76 |
 | Man Toyz | 1.00% | ~76 |
 | Going Rogue | 1.00% | ~76 |
-| Furious First Responder | 1.00% | ~76 |
+| Furious First Responder | 0.90% | ~68 |
 | Is That All You've Got? | 0.90% | ~68 |
 | King of Liberty City | 0.60% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,578 (Ranked 133)  
+Progressed: 7,579 (Ranked 133)  
 Completed: 46 (0.61%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,7 +159,7 @@ Completed: 46 (0.61%) (Ranked 135)
 | 2023-08-19 | 7,556 | 46 |
 | 2023-08-20 | 7,564 | 46 |
 | 2023-08-21 | 7,571 | 46 |
-| 2023-08-22 | 7,578 | 46 |
+| 2023-08-22 | 7,579 | 46 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -235,3 +235,4 @@ Completed: 46 (0.61%) (Ranked 135)
 | 2023-08-07 | 4.18 | 0 | 0 |
 | 2023-08-08 | 4.16 | 0 | 0 |
 | 2023-08-18 | 4.17 | 0 | 0 |
+| 2023-08-22 | 4.18 | 0 | 0 |

@@ -6544,10 +6544,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 41406,
       "NumberOfAwardsMax": 21884
+    },
+    {
+      "Time": "2023-08-22T21:59:08.4917247+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 41407,
+      "NumberOfAwardsMax": 21884
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 41406,
+  "NumberOfAwards": 41407,
   "NumberOfAwardsMax": 21884,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6621,12 +6627,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 598
+      "Count": 599
     }
   ],
-  "EOS_Progressed": 290627,
+  "EOS_Progressed": 290629,
   "EOS_Completed": 454,
-  "EOS_NewPlayers": 463,
+  "EOS_NewPlayers": 462,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -20024,6 +20030,11 @@
       "Time": "2023-08-22T21:08:29.7071845+00:00",
       "NumProgressed": 290627,
       "NumCompleted": 454
+    },
+    {
+      "Time": "2023-08-22T22:06:25.9877275+00:00",
+      "NumProgressed": 290629,
+      "NumCompleted": 454
     }
   ],
   "TotalAchievements": 45,
@@ -20043,7 +20054,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 26156
+      "UsersEstimate": 26157
     },
     {
       "ID": "PFA_11",
@@ -20051,7 +20062,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 26156
+      "UsersEstimate": 26157
     },
     {
       "ID": "PFA_12",
@@ -20059,7 +20070,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 26156
+      "UsersEstimate": 26157
     },
     {
       "ID": "PFA_13",
@@ -20067,7 +20078,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 26156
+      "UsersEstimate": 26157
     },
     {
       "ID": "PFA_14",
@@ -20139,7 +20150,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26156
+      "UsersEstimate": 26157
     },
     {
       "ID": "PFA_22",
@@ -20163,7 +20174,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26156
+      "UsersEstimate": 26157
     },
     {
       "ID": "PFA_25",
@@ -20291,7 +20302,7 @@
       "Name": "Coasting Along",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 26156
+      "UsersEstimate": 26157
     },
     {
       "ID": "PFA_4",
@@ -20394,16 +20405,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 290627,
+      "Progressed": 290629,
       "Completed": 454
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-08-22T21:00:25.5110364+00:00",
-  "LastChanged_Achievements": "2023-08-22T21:08:29.7071838+00:00",
+  "LastChanged": "2023-08-22T21:59:08.4917245+00:00",
+  "LastChanged_Achievements": "2023-08-22T22:06:25.9877268+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:55.8476503+00:00",
-  "LastUpdate_Ratings": "2023-08-22T21:00:25.5110376+00:00",
-  "LastUpdate_Achievements": "2023-08-22T21:08:29.7073397+00:00"
+  "LastUpdate_Ratings": "2023-08-22T21:59:08.4917251+00:00",
+  "LastUpdate_Achievements": "2023-08-22T22:06:25.9878466+00:00"
 }

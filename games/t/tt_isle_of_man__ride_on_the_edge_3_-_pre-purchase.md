@@ -10,9 +10,9 @@
 | Onwards and Upwards | 20.00% | ~24 |
 | Like Phileas Fogg | 18.00% | ~22 |
 | Serial Winner | 15.00% | ~18 |
+| Highly Qualified | 11.00% | ~13 |
 | No Room for Improvement | 11.00% | ~13 |
 | Start Your Engines | 11.00% | ~13 |
-| Highly Qualified | 10.00% | ~12 |
 | Lone Wolf | 10.00% | ~12 |
 | Nerd | 8.00% | ~10 |
 | Playing God | 8.00% | ~10 |

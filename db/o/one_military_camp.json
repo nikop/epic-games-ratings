@@ -4,7 +4,7 @@
   "ProductSlug": "one-military-camp-8db1f6",
   "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-07-20T13:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 152,
+  "EOS_Progressed": 153,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -641,6 +641,11 @@
       "Time": "2023-08-22T12:07:10.4621912+00:00",
       "NumProgressed": 152,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-22T22:05:51.6215599+00:00",
+      "NumProgressed": 153,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-17T17:03:41.4004468+00:00",
@@ -811,9 +816,9 @@
       "ID": "ACHIEVEMENT_ID_27",
       "SetID": "c504de6",
       "Name": "The 4 Pillars",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 76
     },
     {
       "ID": "ACHIEVEMENT_ID_28",
@@ -861,7 +866,7 @@
       "Name": "Capitalism",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACHIEVEMENT_ID_33",
@@ -925,7 +930,7 @@
       "Name": "First Step",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ACHIEVEMENT_ID_40",
@@ -1004,14 +1009,14 @@
     {
       "ID": "c504de6",
       "IsBase": true,
-      "Progressed": 152,
+      "Progressed": 153,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2023-08-22T21:07:39.9368343+00:00",
+  "LastChanged_Achievements": "2023-08-22T22:05:51.6215589+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:11.8230191+00:00",
-  "LastUpdate_Ratings": "2023-08-22T21:02:24.6614809+00:00",
-  "LastUpdate_Achievements": "2023-08-22T21:07:39.9368711+00:00"
+  "LastUpdate_Ratings": "2023-08-22T22:00:23.5638798+00:00",
+  "LastUpdate_Achievements": "2023-08-22T22:05:51.621603+00:00"
 }

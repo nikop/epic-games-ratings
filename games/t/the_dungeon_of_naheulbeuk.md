@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 22.00% | ~47,521 |
+| Sowwy! | 22.00% | ~47,524 |
 | Déjà vu | 2.00% | ~4,320 |
 | Where's that freaking Dwarf? | 2.00% | ~4,320 |
 | Alt+F4 | 2.00% | ~4,320 |
@@ -32,23 +32,23 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.60% | ~1,296 |
 | I am the night | 0.60% | ~1,296 |
 | Shiny and Crôm | 0.50% | ~1,080 |
+| The Famous Dungeon of Naheulbeuk | 0.50% | ~1,080 |
 | The beards of change | 0.50% | ~1,080 |
 | The Ranger of Chaos | 0.50% | ~1,080 |
 | Thieves' Guild Accreditation | 0.50% | ~1,080 |
 | Res Judicata | 0.40% | ~864 |
-| The Famous Dungeon of Naheulbeuk | 0.40% | ~864 |
 | Dwarf Fortress | 0.40% | ~864 |
 | Look but don't touch | 0.40% | ~864 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.40% | ~864 |
 | Dead for good | 0.30% | ~648 |
 | Gargantua | 0.30% | ~648 |
+| In Navalu's footsteps | 0.30% | ~648 |
 | Lust and Debauchery | 0.30% | ~648 |
 | Material Girl | 0.30% | ~648 |
 | Holistic Adventuring Party | 0.20% | ~432 |
 | An old poacher makes the best gamekeeper | 0.20% | ~432 |
 | We come in peace | 0.20% | ~432 |
 | Law and Order | 0.20% | ~432 |
-| In Navalu's footsteps | 0.20% | ~432 |
 | Lëgal Legend | 0.20% | ~432 |
 | Cursed die | 0.10% | ~216 |
 | Scholar of the Lands of Fangh | 0.10% | ~216 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~216 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,003 (Ranked 56)  
+Progressed: 216,019 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,7 +178,7 @@ Completed: 2 (0.00%) (Ranked 261)
 | 2023-08-19 | 214,804 | 2 |
 | 2023-08-20 | 215,307 | 2 |
 | 2023-08-21 | 215,690 | 2 |
-| 2023-08-22 | 216,003 | 2 |
+| 2023-08-22 | 216,019 | 2 |
 ## Awards
 Max (Character Customization): 173  (Ranked 285)  
 Sum: 215 (Ranked 364)  

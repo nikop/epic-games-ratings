@@ -8,7 +8,7 @@ Rating: 3.94 (Ranked 947)
 | Downed but Not Outed | 74.00% | ~53,424 |
 | First One’s Free | 65.00% | ~46,927 |
 | Neophyte Ninja | 50.00% | ~36,098 |
-| Too Old for This | 47.00% | ~33,932 |
+| Too Old for This | 48.00% | ~34,654 |
 | Case Closed | 35.00% | ~25,268 |
 | Fancy Pants | 35.00% | ~25,268 |
 | King of the Hill | 34.00% | ~24,546 |
@@ -170,12 +170,12 @@ Completed: 41 (0.06%) (Ranked 223)
 | 2023-08-22 | 72,195 | 41 |
 ## Awards
 Max (Diverse Characters): 403  (Ranked 216)  
-Sum: 1,919 (Ranked 205)  
-Diff (max vs sum): 11  
+Sum: 1,922 (Ranked 204)  
+Diff (max vs sum): 12  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 403 |
-| This game has Quickly Understood Controls | 393 |
+| This game has Quickly Understood Controls | 396 |
 | This game is Highly Recommended | 388 |
 | This game has Challenging Combat | 371 |
 | This game has Amazing Characters | 364 |
@@ -329,3 +329,4 @@ Diff (max vs sum): 11
 | 2023-08-19 | 3.94 | 403 | 1,909 |
 | 2023-08-20 | 3.94 | 403 | 1,915 |
 | 2023-08-21 | 3.94 | 403 | 1,919 |
+| 2023-08-22 | 3.94 | 403 | 1,922 |

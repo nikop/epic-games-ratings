@@ -29,6 +29,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Dungeon Imports | 0.50% | ~675 |
 | On the Path to Greatness | 0.40% | ~540 |
 | Ascended | 0.40% | ~540 |
+| Research & Development | 0.40% | ~540 |
 | Vanity, Verily | 0.40% | ~540 |
 | Blank Page Syndrome | 0.40% | ~540 |
 | Efficient Floor Space | 0.40% | ~540 |
@@ -44,7 +45,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | A Ronin Reborn | 0.30% | ~405 |
 | Tax not Included | 0.30% | ~405 |
 | The King's Caprice | 0.30% | ~405 |
-| Research & Development | 0.30% | ~405 |
 | Big Game Hunting | 0.30% | ~405 |
 | Fated Encounters | 0.30% | ~405 |
 | For the Hoard! | 0.30% | ~405 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~135 |
 | Cash Only Please | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,953 (Ranked 66)  
+Progressed: 134,954 (Ranked 66)  
 Completed: 136 (0.10%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,7 +243,7 @@ Completed: 136 (0.10%) (Ranked 208)
 | 2023-08-19 | 134,791 | 133 |
 | 2023-08-20 | 134,856 | 133 |
 | 2023-08-21 | 134,907 | 134 |
-| 2023-08-22 | 134,953 | 136 |
+| 2023-08-22 | 134,954 | 136 |
 ## Awards
 Max (Great for Beginners): 4,709  (Ranked 71)  
 Sum: 27,128 (Ranked 46)  

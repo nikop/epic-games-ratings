@@ -20,10 +20,10 @@
 | Locked and Loaded | 8.00% | ~4 |
 | Nothing but the Truth | 8.00% | ~4 |
 | Changing the World | 8.00% | ~4 |
+| Craftsmen | 6.00% | ~3 |
 | Defeat Tezuth | 6.00% | ~3 |
 | Mirror, Mirror on the Wall | 4.00% | ~2 |
 | Sponsor | 4.00% | ~2 |
-| Craftsmen | 4.00% | ~2 |
 | Defeat Ingla | 4.00% | ~2 |
 | Defeat Uskol | 4.00% | ~2 |
 | Finally! | 4.00% | ~2 |
