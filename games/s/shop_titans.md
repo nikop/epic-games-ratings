@@ -42,6 +42,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Arcane Industries | 0.40% | ~540 |
 | A Notch Above the Rest | 0.30% | ~405 |
 | Cream of the Crop | 0.30% | ~405 |
+| Above the Norm | 0.30% | ~405 |
 | A Ronin Reborn | 0.30% | ~405 |
 | Tax not Included | 0.30% | ~405 |
 | The King's Caprice | 0.30% | ~405 |
@@ -71,7 +72,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Complete Monopoly | 0.30% | ~405 |
 | Top of the World | 0.20% | ~270 |
 | Proud Paladin | 0.20% | ~270 |
-| Above the Norm | 0.20% | ~270 |
 | Constellated | 0.20% | ~270 |
 | Thirst for Knowledge | 0.20% | ~270 |
 | Booty by the Boatload | 0.20% | ~270 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~135 |
 | Cash Only Please | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,954 (Ranked 66)  
+Progressed: 134,956 (Ranked 66)  
 Completed: 136 (0.10%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,7 +243,7 @@ Completed: 136 (0.10%) (Ranked 208)
 | 2023-08-19 | 134,791 | 133 |
 | 2023-08-20 | 134,856 | 133 |
 | 2023-08-21 | 134,907 | 134 |
-| 2023-08-22 | 134,954 | 136 |
+| 2023-08-22 | 134,956 | 136 |
 ## Awards
 Max (Great for Beginners): 4,709  (Ranked 71)  
 Sum: 27,128 (Ranked 46)  

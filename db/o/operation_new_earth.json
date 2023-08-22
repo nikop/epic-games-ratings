@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1046,
+  "EOS_Progressed": 1047,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3641,6 +3641,11 @@
       "Time": "2023-08-22T20:03:32.0085114+00:00",
       "NumProgressed": 1046,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-22T23:03:59.5920017+00:00",
+      "NumProgressed": 1047,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -3714,9 +3719,9 @@
       "ID": "ach_silver_rewards_10",
       "SetID": "bm61c2p",
       "Name": "Silver Competitor",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 73
+      "UsersEstimate": 84
     },
     {
       "ID": "ach_silver_rewards_50",
@@ -3764,7 +3769,7 @@
       "Name": "Corporal",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -3828,7 +3833,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -3955,14 +3960,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1046,
+      "Progressed": 1047,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-22T22:03:30.3323921+00:00",
+  "LastChanged_Achievements": "2023-08-22T23:03:59.592001+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:20.8459338+00:00",
-  "LastUpdate_Ratings": "2023-08-22T21:58:06.226951+00:00",
-  "LastUpdate_Achievements": "2023-08-22T22:03:30.3324371+00:00"
+  "LastUpdate_Ratings": "2023-08-22T22:58:38.258155+00:00",
+  "LastUpdate_Achievements": "2023-08-22T23:03:59.5920712+00:00"
 }

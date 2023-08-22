@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 52,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
@@ -248,9 +248,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1399,
+  "EOS_Progressed": 1400,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 4.79,
   "EosHistory": [
@@ -2228,6 +2228,11 @@
       "Time": "2023-08-22T19:04:22.0705107+00:00",
       "NumProgressed": 1399,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2023-08-22T23:04:13.9652336+00:00",
+      "NumProgressed": 1400,
+      "NumCompleted": 67
     }
   ],
   "TotalAchievements": 11,
@@ -2247,7 +2252,7 @@
       "Name": "Freeze to death",
       "Percentage": 57,
       "XP": 100,
-      "UsersEstimate": 797
+      "UsersEstimate": 798
     },
     {
       "ID": "ACH_Cacciavite",
@@ -2303,7 +2308,7 @@
       "Name": "\u0022Nice\u0022 to meet you",
       "Percentage": 77,
       "XP": 100,
-      "UsersEstimate": 1077
+      "UsersEstimate": 1078
     },
     {
       "ID": "ACH_StanzaSegreta",
@@ -2326,15 +2331,15 @@
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1399,
+      "Progressed": 1400,
       "Completed": 67
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-08-04T14:01:27.152223+00:00",
-  "LastChanged_Achievements": "2023-08-22T22:03:42.2195403+00:00",
+  "LastChanged_Achievements": "2023-08-22T23:04:13.965233+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:43.5353424+00:00",
-  "LastUpdate_Ratings": "2023-08-22T21:57:26.4428815+00:00",
-  "LastUpdate_Achievements": "2023-08-22T22:03:42.2195636+00:00"
+  "LastUpdate_Ratings": "2023-08-22T22:57:54.4646075+00:00",
+  "LastUpdate_Achievements": "2023-08-22T23:04:13.9652532+00:00"
 }

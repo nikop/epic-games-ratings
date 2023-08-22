@@ -4,7 +4,7 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 470,
+  "EOS_Progressed": 471,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -1701,6 +1701,11 @@
       "Time": "2023-08-22T21:04:13.040583+00:00",
       "NumProgressed": 470,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-22T23:03:42.1105356+00:00",
+      "NumProgressed": 471,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -1744,7 +1749,7 @@
       "Name": "Budget Flight",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "Calculated",
@@ -1758,9 +1763,9 @@
       "ID": "Close",
       "SetID": "1e89b4i",
       "Name": "That Was Close!",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 89
+      "UsersEstimate": 85
     },
     {
       "ID": "Creator",
@@ -1808,7 +1813,7 @@
       "Name": "Game Started",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "FullCompletion",
@@ -1886,7 +1891,7 @@
       "ID": "ManagementMaster",
       "SetID": "1e89b4i",
       "Name": "Management Master",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 40,
       "UsersEstimate": 4
     },
@@ -1896,7 +1901,7 @@
       "Name": "Maximum Upgrade",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "Millionaire",
@@ -1928,15 +1933,15 @@
       "Name": "No Way Back",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "NotPlanned",
       "SetID": "1e89b4i",
       "Name": "This Wasn\u0027t Part of the Plan...",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 89
+      "UsersEstimate": 85
     },
     {
       "ID": "Ownway",
@@ -1984,7 +1989,7 @@
       "Name": "Resource Economy",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "Restructuring",
@@ -2047,14 +2052,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 470,
+      "Progressed": 471,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-08-22T22:03:16.1273527+00:00",
+  "LastChanged_Achievements": "2023-08-22T23:03:42.1105349+00:00",
   "LastUpdate_AppInfo": "2023-08-22T10:56:57.2309265+00:00",
-  "LastUpdate_Ratings": "2023-08-22T21:58:34.2645+00:00",
-  "LastUpdate_Achievements": "2023-08-22T22:03:16.1273907+00:00"
+  "LastUpdate_Ratings": "2023-08-22T22:59:10.7243646+00:00",
+  "LastUpdate_Achievements": "2023-08-22T23:03:42.1105803+00:00"
 }

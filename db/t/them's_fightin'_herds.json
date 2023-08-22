@@ -2,7 +2,7 @@
   "ID": "a567c32599bf4d4fb609e424f3691b39",
   "Name": "Them\u0027s Fightin\u0027 Herds",
   "ProductSlug": "thems-fightin-herds",
-  "Ranking_Rating": 349,
+  "Ranking_Rating": 348,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 52,
@@ -226,7 +226,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 228532,
+  "EOS_Progressed": 228534,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 382,
   "EOS_NewCompleters": 0,
@@ -13231,6 +13231,11 @@
       "Time": "2023-08-22T22:06:23.2239647+00:00",
       "NumProgressed": 228532,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-22T23:07:14.1400355+00:00",
+      "NumProgressed": 228534,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -13386,7 +13391,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 77701
+      "UsersEstimate": 77702
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -13450,7 +13455,7 @@
       "Name": "A Worthy Opponent",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 38850
+      "UsersEstimate": 38851
     },
     {
       "ID": "WIN_25_ONLINE_MATCHES",
@@ -13465,7 +13470,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 228532,
+      "Progressed": 228534,
       "Completed": 3
     }
   ],
@@ -13473,8 +13478,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-08-11T01:38:33.2125072+00:00",
-  "LastChanged_Achievements": "2023-08-22T22:06:23.223964+00:00",
+  "LastChanged_Achievements": "2023-08-22T23:07:14.1400347+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:40.7595484+00:00",
-  "LastUpdate_Ratings": "2023-08-22T21:57:24.2304235+00:00",
-  "LastUpdate_Achievements": "2023-08-22T22:06:23.2240617+00:00"
+  "LastUpdate_Ratings": "2023-08-22T22:57:50.9873153+00:00",
+  "LastUpdate_Achievements": "2023-08-22T23:07:14.1401531+00:00"
 }

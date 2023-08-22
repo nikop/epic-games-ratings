@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 452,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -364,9 +364,9 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 1146,
+  "EOS_Progressed": 1147,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2199,6 +2199,11 @@
       "Time": "2023-08-22T20:05:50.4919459+00:00",
       "NumProgressed": 1146,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-22T23:06:12.0406223+00:00",
+      "NumProgressed": 1147,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -2266,7 +2271,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1135
+      "UsersEstimate": 1136
     },
     {
       "ID": "EXPERT_1",
@@ -2370,7 +2375,7 @@
       "Name": "One shot, one kill",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "PACIFIST",
@@ -2386,7 +2391,7 @@
       "Name": "Paranoia",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "PRIVATE_EYE",
@@ -2497,15 +2502,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1146,
+      "Progressed": 1147,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-08-17T18:57:39.3161327+00:00",
-  "LastChanged_Achievements": "2023-08-22T22:05:40.3629067+00:00",
+  "LastChanged_Achievements": "2023-08-22T23:06:12.0406103+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:04.8049351+00:00",
-  "LastUpdate_Ratings": "2023-08-22T21:57:52.4345356+00:00",
-  "LastUpdate_Achievements": "2023-08-22T22:05:40.362943+00:00"
+  "LastUpdate_Ratings": "2023-08-22T22:58:19.0769403+00:00",
+  "LastUpdate_Achievements": "2023-08-22T23:06:12.0406629+00:00"
 }

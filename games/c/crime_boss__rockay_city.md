@@ -5,13 +5,13 @@ Rating: 3.94 (Ranked 947)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~53,424 |
+| Downed but Not Outed | 74.00% | ~53,425 |
 | First One’s Free | 65.00% | ~46,927 |
 | Neophyte Ninja | 50.00% | ~36,098 |
 | Too Old for This | 48.00% | ~34,654 |
-| Case Closed | 35.00% | ~25,268 |
-| Fancy Pants | 35.00% | ~25,268 |
-| King of the Hill | 34.00% | ~24,546 |
+| Case Closed | 35.00% | ~25,269 |
+| Fancy Pants | 35.00% | ~25,269 |
+| King of the Hill | 34.00% | ~24,547 |
 | Underworld Initiate | 29.00% | ~20,937 |
 | Roid Ranger | 21.00% | ~15,161 |
 | Off the Rocks | 20.00% | ~14,439 |
@@ -19,7 +19,7 @@ Rating: 3.94 (Ranked 947)
 | Raider’s Ruin | 17.00% | ~12,273 |
 | Dragonslayer | 17.00% | ~12,273 |
 | Hidden Sonata | 13.00% | ~9,385 |
-| Rockay Rex | 11.00% | ~7,941 |
+| Rockay Rex | 11.00% | ~7,942 |
 | Track Star | 10.00% | ~7,220 |
 | Freebooter | 10.00% | ~7,220 |
 | Headhunter | 9.00% | ~6,498 |
@@ -43,7 +43,7 @@ Rating: 3.94 (Ranked 947)
 | Geek Out | 0.60% | ~433 |
 | Full House | 0.20% | ~144 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,195 (Ranked 78)  
+Progressed: 72,196 (Ranked 78)  
 Completed: 41 (0.06%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,17 +167,17 @@ Completed: 41 (0.06%) (Ranked 223)
 | 2023-08-19 | 72,061 | 41 |
 | 2023-08-20 | 72,112 | 41 |
 | 2023-08-21 | 72,159 | 41 |
-| 2023-08-22 | 72,195 | 41 |
+| 2023-08-22 | 72,196 | 41 |
 ## Awards
 Max (Diverse Characters): 403  (Ranked 216)  
-Sum: 1,922 (Ranked 204)  
+Sum: 1,925 (Ranked 204)  
 Diff (max vs sum): 12  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 403 |
 | This game has Quickly Understood Controls | 396 |
 | This game is Highly Recommended | 388 |
-| This game has Challenging Combat | 371 |
+| This game has Challenging Combat | 374 |
 | This game has Amazing Characters | 364 |
 | This game is Great for Quick Sessions | 70 |
 | This game has Amazing Storytelling | 52 |
@@ -329,4 +329,4 @@ Diff (max vs sum): 12
 | 2023-08-19 | 3.94 | 403 | 1,909 |
 | 2023-08-20 | 3.94 | 403 | 1,915 |
 | 2023-08-21 | 3.94 | 403 | 1,919 |
-| 2023-08-22 | 3.94 | 403 | 1,922 |
+| 2023-08-22 | 3.94 | 403 | 1,925 |

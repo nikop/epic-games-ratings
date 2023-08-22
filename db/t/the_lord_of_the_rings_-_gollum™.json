@@ -4,7 +4,7 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 261,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -1208,9 +1208,9 @@
       "ID": "Chapter1",
       "SetID": "70l3651",
       "Name": "The Wraith",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 315
+      "UsersEstimate": 320
     },
     {
       "ID": "Chapter10",
@@ -1479,8 +1479,8 @@
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-08-22T22:04:21.735216+00:00",
+  "LastChanged_Achievements": "2023-08-22T23:05:01.9185331+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:45.1659385+00:00",
-  "LastUpdate_Ratings": "2023-08-22T21:59:28.140136+00:00",
-  "LastUpdate_Achievements": "2023-08-22T22:04:21.7352496+00:00"
+  "LastUpdate_Ratings": "2023-08-22T23:00:09.6161303+00:00",
+  "LastUpdate_Achievements": "2023-08-22T23:05:01.9185767+00:00"
 }

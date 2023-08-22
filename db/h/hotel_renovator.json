@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 103,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -1520,9 +1520,9 @@
       "ID": "ACH_INSTRUMENTS_FOUND",
       "SetID": "7k95e4n",
       "Name": "Hotel sleuthing",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 259
+      "UsersEstimate": 269
     },
     {
       "ID": "ACH_NEWSPAPER_ARTICLE",
@@ -1633,8 +1633,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-08-10T10:58:10.9295179+00:00",
-  "LastChanged_Achievements": "2023-08-22T22:06:26.1921883+00:00",
+  "LastChanged_Achievements": "2023-08-22T23:07:17.6313744+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:41.4452998+00:00",
-  "LastUpdate_Ratings": "2023-08-22T21:58:54.0191301+00:00",
-  "LastUpdate_Achievements": "2023-08-22T22:06:26.192217+00:00"
+  "LastUpdate_Ratings": "2023-08-22T22:59:26.9452738+00:00",
+  "LastUpdate_Achievements": "2023-08-22T23:07:17.6314124+00:00"
 }

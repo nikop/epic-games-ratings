@@ -4,7 +4,7 @@
   "ProductSlug": "endling-extinction-is-forever",
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 483,
+  "EOS_Progressed": 484,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -621,6 +621,11 @@
       "Time": "2023-08-20T20:05:16.340331+00:00",
       "NumProgressed": 483,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-22T23:06:04.6573783+00:00",
+      "NumProgressed": 484,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -688,7 +693,7 @@
       "Name": "Family Reunion",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "TROP008",
@@ -696,7 +701,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "TROP009",
@@ -728,7 +733,7 @@
       "Name": "Never Give Up",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "TROP013",
@@ -760,7 +765,7 @@
       "Name": "Beyond Words",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "TROP017",
@@ -784,7 +789,7 @@
       "Name": "Barking in The Rain",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "TROP020",
@@ -808,7 +813,7 @@
       "Name": "A Barking Fox Doesn\u0027t Bite",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "TROP023",
@@ -816,7 +821,7 @@
       "Name": "Detox diet",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "TROP024",
@@ -832,7 +837,7 @@
       "Name": "Chicken Dinner",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "TROP026",
@@ -855,7 +860,7 @@
     {
       "ID": "9n0dl35",
       "IsBase": true,
-      "Progressed": 483,
+      "Progressed": 484,
       "Completed": 3
     }
   ],
@@ -863,8 +868,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2023-08-22T22:05:34.4211166+00:00",
+  "LastChanged_Achievements": "2023-08-22T23:06:04.6573777+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:25.4562789+00:00",
-  "LastUpdate_Ratings": "2023-08-22T22:00:35.2077041+00:00",
-  "LastUpdate_Achievements": "2023-08-22T22:05:34.4211353+00:00"
+  "LastUpdate_Ratings": "2023-08-22T23:01:24.4809406+00:00",
+  "LastUpdate_Achievements": "2023-08-22T23:06:04.657404+00:00"
 }

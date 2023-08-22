@@ -4,7 +4,7 @@
   "ProductSlug": "electrician-simulator-164e9f",
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-08-04T16:00:00+00:00",
@@ -881,9 +881,9 @@
       "ID": "ACH_FIRST_SHOCK",
       "SetID": "al4k4nh",
       "Name": "First shock",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 160
     },
     {
       "ID": "ACH_FIX_LIGHT_SWITCHES",
@@ -1016,8 +1016,8 @@
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2023-08-22T22:06:38.7475214+00:00",
+  "LastChanged_Achievements": "2023-08-22T23:07:32.2460837+00:00",
   "LastUpdate_AppInfo": "2023-08-16T17:57:06.0190201+00:00",
-  "LastUpdate_Ratings": "2023-08-22T21:58:54.3756011+00:00",
-  "LastUpdate_Achievements": "2023-08-22T22:06:38.7475447+00:00"
+  "LastUpdate_Ratings": "2023-08-22T22:59:27.6809844+00:00",
+  "LastUpdate_Achievements": "2023-08-22T23:07:32.2461095+00:00"
 }

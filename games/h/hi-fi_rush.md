@@ -18,11 +18,11 @@ Rating: 4.88 (Ranked 19)
 | I play my own way! | 7.00% | ~277 |
 | Uh, they were broken when I got here | 7.00% | ~277 |
 | I look cool. But I can look COOLER. | 7.00% | ~277 |
+| The Negotiator | 6.00% | ~238 |
 | Whoa! There's ANOTHER health bar!? | 6.00% | ~238 |
 | Z-shielding's got nothing on us! | 6.00% | ~238 |
 | Kissing the sky! | 6.00% | ~238 |
 | Does that say weakpoint? | 6.00% | ~238 |
-| The Negotiator | 5.00% | ~198 |
 | Headliner | 5.00% | ~198 |
 | Time to pay up! | 5.00% | ~198 |
 | Who's the boss now? | 5.00% | ~198 |
@@ -45,8 +45,8 @@ Rating: 4.88 (Ranked 19)
 | I told you I'd be fine, Peppermint! | 1.00% | ~40 |
 | Call me Turbo Chai | 1.00% | ~25 |
 | First we parry, then we counter | 0.90% | ~36 |
+| I'm not done with you yet | 0.80% | ~32 |
 | This is a breeze! | 0.70% | ~28 |
-| I'm not done with you yet | 0.70% | ~28 |
 | You ever parry a volcano? | 0.60% | ~24 |
 | New bad guys? No problem! | 0.60% | ~15 |
 | OK, well THEY came after ME! | 0.50% | ~20 |

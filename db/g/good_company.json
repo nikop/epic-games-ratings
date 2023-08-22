@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 241,
-  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5312,
+  "EOS_Progressed": 5313,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -3045,6 +3045,11 @@
       "Time": "2023-08-22T19:03:14.2458703+00:00",
       "NumProgressed": 5312,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-22T23:03:18.4181858+00:00",
+      "NumProgressed": 5313,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -3216,7 +3221,7 @@
       "Name": "Bet On Bots: Safety First",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ach_campaign_special11",
@@ -3312,7 +3317,7 @@
       "Name": "Extra Life: Wish Granted",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "ach_campaign_special6",
@@ -3400,7 +3405,7 @@
       "Name": "High Five!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "ach_frp_high_networth",
@@ -3416,7 +3421,7 @@
       "Name": "Modular Progress",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "ach_frp_many_modules2",
@@ -3624,7 +3629,7 @@
       "Name": "Tycoon",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ach_prof_success",
@@ -3663,15 +3668,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5312,
+      "Progressed": 5313,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-07-16T00:00:06.2705867+00:00",
-  "LastChanged_Achievements": "2023-08-22T22:02:16.4012026+00:00",
+  "LastChanged_Achievements": "2023-08-22T23:03:18.4181851+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:24.484308+00:00",
-  "LastUpdate_Ratings": "2023-08-22T22:00:34.2355132+00:00",
-  "LastUpdate_Achievements": "2023-08-22T22:02:16.4013036+00:00"
+  "LastUpdate_Ratings": "2023-08-22T23:01:23.563608+00:00",
+  "LastUpdate_Achievements": "2023-08-22T23:03:18.4182998+00:00"
 }

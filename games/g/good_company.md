@@ -17,9 +17,9 @@ Number of Ratings: 75  (23.09.2022)
 | Millionaire | 6.00% | ~319 |
 | Data Churn Type II | 5.00% | ~266 |
 | Speedy | 5.00% | ~266 |
-| Extra Life: Wish Granted | 4.00% | ~212 |
-| High Five! | 4.00% | ~212 |
-| Modular Progress | 4.00% | ~212 |
+| Extra Life: Wish Granted | 4.00% | ~213 |
+| High Five! | 4.00% | ~213 |
+| Modular Progress | 4.00% | ~213 |
 | Campaign: Lesson Learned | 3.00% | ~159 |
 | Level: Bet On Bots | 3.00% | ~159 |
 | Modular Performance | 3.00% | ~159 |
@@ -43,8 +43,8 @@ Number of Ratings: 75  (23.09.2022)
 | Data Churn Type IV | 1.00% | ~53 |
 | Keen Eye | 1.00% | ~53 |
 | Level: Topple The Top | 0.90% | ~48 |
-| Bet On Bots: Safety First | 0.80% | ~42 |
-| Tycoon | 0.80% | ~42 |
+| Bet On Bots: Safety First | 0.80% | ~43 |
+| Tycoon | 0.80% | ~43 |
 | Merry-Go-Around: Self-Made | 0.70% | ~37 |
 | Level: Eye In The Sky | 0.60% | ~32 |
 | Bet On Bots: Inspector's Favorite | 0.60% | ~32 |
@@ -83,7 +83,7 @@ Number of Ratings: 75  (23.09.2022)
 | Know-it-all | 0.10% | ~5 |
 | Prestigious | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,312 (Ranked 141)  
+Progressed: 5,313 (Ranked 141)  
 Completed: 1 (0.02%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,7 +206,7 @@ Completed: 1 (0.02%) (Ranked 241)
 | 2023-08-19 | 5,303 | 1 |
 | 2023-08-20 | 5,309 | 1 |
 | 2023-08-21 | 5,310 | 1 |
-| 2023-08-22 | 5,312 | 1 |
+| 2023-08-22 | 5,313 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

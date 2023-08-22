@@ -226,7 +226,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17561,
+  "EOS_Progressed": 17562,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 161,
   "EOS_NewCompleters": 0,
@@ -8831,6 +8831,11 @@
       "Time": "2023-08-22T22:05:32.1676731+00:00",
       "NumProgressed": 17561,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-22T23:06:02.0512713+00:00",
+      "NumProgressed": 17562,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -8858,7 +8863,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2985
+      "UsersEstimate": 2986
     },
     {
       "ID": "0004",
@@ -8946,7 +8951,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2985
+      "UsersEstimate": 2986
     },
     {
       "ID": "0015",
@@ -9026,7 +9031,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 3863
+      "UsersEstimate": 3864
     },
     {
       "ID": "0025",
@@ -9129,7 +9134,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17561,
+      "Progressed": 17562,
       "Completed": 1
     }
   ],
@@ -9137,8 +9142,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-12T19:04:41.1874293+00:00",
-  "LastChanged_Achievements": "2023-08-22T22:05:32.1676721+00:00",
+  "LastChanged_Achievements": "2023-08-22T23:06:02.0512706+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:28.6624095+00:00",
-  "LastUpdate_Ratings": "2023-08-22T21:57:16.5154898+00:00",
-  "LastUpdate_Achievements": "2023-08-22T22:05:32.1677531+00:00"
+  "LastUpdate_Ratings": "2023-08-22T22:57:38.5430838+00:00",
+  "LastUpdate_Achievements": "2023-08-22T23:06:02.0513616+00:00"
 }

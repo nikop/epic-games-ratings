@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -3052,10 +3052,16 @@
       "Rating": 3.94,
       "NumberOfAwards": 1922,
       "NumberOfAwardsMax": 403
+    },
+    {
+      "Time": "2023-08-22T22:57:58.4188557+00:00",
+      "Rating": 3.94,
+      "NumberOfAwards": 1925,
+      "NumberOfAwardsMax": 403
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 1922,
+  "NumberOfAwards": 1925,
   "NumberOfAwardsMax": 403,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3087,7 +3093,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 371
+      "Count": 374
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3108,9 +3114,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 72195,
+  "EOS_Progressed": 72196,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 314,
+  "EOS_NewPlayers": 313,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -16083,6 +16089,11 @@
       "Time": "2023-08-22T20:07:13.2677312+00:00",
       "NumProgressed": 72195,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-08-22T23:07:36.1262708+00:00",
+      "NumProgressed": 72196,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 37,
@@ -16246,7 +16257,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 53424
+      "UsersEstimate": 53425
     },
     {
       "ID": "ACH_0211",
@@ -16310,7 +16321,7 @@
       "Name": "Case Closed",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 25268
+      "UsersEstimate": 25269
     },
     {
       "ID": "ACH_0420",
@@ -16318,7 +16329,7 @@
       "Name": "King of the Hill",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 24546
+      "UsersEstimate": 24547
     },
     {
       "ID": "ACH_0430",
@@ -16326,7 +16337,7 @@
       "Name": "Fancy Pants",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 25268
+      "UsersEstimate": 25269
     },
     {
       "ID": "ACH_0431",
@@ -16382,29 +16393,29 @@
       "Name": "Rockay Rex",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 7941
+      "UsersEstimate": 7942
     }
   ],
   "AchievementSets": [
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 72195,
+      "Progressed": 72196,
       "Completed": 41
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 542,
-      "Completed": 542
+      "Progressed": 543,
+      "Completed": 543
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-08-22T21:57:29.6577796+00:00",
-  "LastChanged_Achievements": "2023-08-22T22:06:41.9079319+00:00",
+  "LastChanged": "2023-08-22T22:57:58.4188555+00:00",
+  "LastChanged_Achievements": "2023-08-22T23:07:36.1262701+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:48.5211502+00:00",
-  "LastUpdate_Ratings": "2023-08-22T21:57:29.6577802+00:00",
-  "LastUpdate_Achievements": "2023-08-22T22:06:41.9080241+00:00"
+  "LastUpdate_Ratings": "2023-08-22T22:57:58.4188561+00:00",
+  "LastUpdate_Achievements": "2023-08-22T23:07:36.1263998+00:00"
 }

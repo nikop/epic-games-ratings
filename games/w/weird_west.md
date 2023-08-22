@@ -31,9 +31,9 @@ Number of Ratings: 125  (23.09.2022)
 | Workers' Rights | 13.00% | ~236 |
 | Elusive Prey | 12.00% | ~217 |
 | Power Behind the Pulpit | 12.00% | ~217 |
+| Something Wicked This Way Comes… | 12.00% | ~217 |
+| There is Hope | 12.00% | ~217 |
 | Turning the Tables | 12.00% | ~217 |
-| Something Wicked This Way Comes… | 11.00% | ~199 |
-| There is Hope | 11.00% | ~199 |
 | The Philosopher’s Stone | 10.00% | ~181 |
 | Loyalty to the Pack | 9.00% | ~163 |
 | Eternity Can Wait | 9.00% | ~163 |
