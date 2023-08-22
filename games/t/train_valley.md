@@ -25,8 +25,8 @@ Number of Ratings: 28  (23.09.2022)
 | Foreman | 21.00% | ~93 |
 | Missed it! | 19.00% | ~84 |
 | Russia | 18.00% | ~80 |
+| America | 17.00% | ~75 |
 | Sabotage | 17.00% | ~75 |
-| America | 16.00% | ~71 |
 | Woodcutter | 11.00% | ~49 |
 | Achtung! | 11.00% | ~49 |
 | Engineer | 10.00% | ~44 |
@@ -46,7 +46,7 @@ Number of Ratings: 28  (23.09.2022)
 | Juggler | 0.50% | ~2 |
 | Maniac vandal | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 442 (Ranked 234)  
+Progressed: 442 (Ranked 235)  
 Completed: 2 (0.45%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |

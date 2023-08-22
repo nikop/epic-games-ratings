@@ -4,10 +4,10 @@
   "ProductSlug": "assassins-creed-valhalla",
   "Ranking_Rating": 391,
   "Ranking_Popularity": 28,
-  "Ranking_PopularitySum": 39,
+  "Ranking_PopularitySum": 38,
   "Ranking_EOS_Progress": 554,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2020-11-17T15:00:00+00:00",
@@ -8506,10 +8506,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 31166,
       "NumberOfAwardsMax": 13319
+    },
+    {
+      "Time": "2023-08-22T19:59:58.1631402+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 31170,
+      "NumberOfAwardsMax": 13319
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 31166,
+  "NumberOfAwards": 31170,
   "NumberOfAwardsMax": 13319,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8559,7 +8565,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1124
+      "Count": 1128
     },
     {
       "Text": "This game is Extremely Fun",
@@ -8597,8 +8603,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:17.7160409+00:00",
-  "LastChanged": "2023-08-22T17:59:44.5428404+00:00",
+  "LastChanged": "2023-08-22T19:59:58.16314+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:37.6188068+00:00",
-  "LastUpdate_Ratings": "2023-08-22T19:00:26.3733078+00:00",
-  "LastUpdate_Achievements": "2023-08-22T19:07:03.6926823+00:00"
+  "LastUpdate_Ratings": "2023-08-22T19:59:58.163141+00:00",
+  "LastUpdate_Achievements": "2023-08-22T20:06:14.8878963+00:00"
 }

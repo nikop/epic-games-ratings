@@ -4,7 +4,7 @@
   "ProductSlug": "cafe-owner-simulator-749e0f",
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-04-12T13:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 947,
+  "EOS_Progressed": 948,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2843,6 +2843,11 @@
       "Time": "2023-08-22T14:08:12.5982914+00:00",
       "NumProgressed": 947,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-22T20:07:27.5421172+00:00",
+      "NumProgressed": 948,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 14,
@@ -2862,7 +2867,7 @@
       "Name": "BUSINESS OWNER",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "CHIEF",
@@ -2878,7 +2883,7 @@
       "Name": "CLEANER",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 881
+      "UsersEstimate": 882
     },
     {
       "ID": "DEBTOR",
@@ -2965,7 +2970,7 @@
     {
       "ID": "64e5lgf",
       "IsBase": true,
-      "Progressed": 947,
+      "Progressed": 948,
       "Completed": 0
     }
   ],
@@ -2973,8 +2978,8 @@
   "FirstSeenRating": "2023-04-13T01:55:49.9064105+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.5408639+00:00",
   "LastChanged": "2023-04-13T01:55:49.9064106+00:00",
-  "LastChanged_Achievements": "2023-08-22T19:08:22.9183926+00:00",
+  "LastChanged_Achievements": "2023-08-22T20:07:27.5421162+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:09.6834321+00:00",
-  "LastUpdate_Ratings": "2023-08-22T18:57:32.4809485+00:00",
-  "LastUpdate_Achievements": "2023-08-22T19:08:22.9184279+00:00"
+  "LastUpdate_Ratings": "2023-08-22T19:57:15.0161123+00:00",
+  "LastUpdate_Achievements": "2023-08-22T20:07:27.5421489+00:00"
 }

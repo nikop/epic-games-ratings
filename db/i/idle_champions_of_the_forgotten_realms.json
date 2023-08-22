@@ -4,7 +4,7 @@
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
   "Ranking_Rating": 924,
   "Ranking_Popularity": 68,
-  "Ranking_PopularitySum": 38,
+  "Ranking_PopularitySum": 39,
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 120,
   "Ranking_EOS_NewPlayers": 37,
@@ -6004,9 +6004,9 @@
       "Count": 3365
     }
   ],
-  "EOS_Progressed": 224165,
+  "EOS_Progressed": 224174,
   "EOS_Completed": 2207,
-  "EOS_NewPlayers": 2009,
+  "EOS_NewPlayers": 2005,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -19569,6 +19569,11 @@
       "Time": "2023-08-22T19:06:42.5813271+00:00",
       "NumProgressed": 224165,
       "NumCompleted": 2207
+    },
+    {
+      "Time": "2023-08-22T20:05:58.089147+00:00",
+      "NumProgressed": 224174,
+      "NumCompleted": 2207
     }
   ],
   "TotalAchievements": 516,
@@ -21260,7 +21265,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "objective_completed_35",
@@ -21372,7 +21377,7 @@
       "Name": "Seeking Allies",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "objective_completed_390",
@@ -21444,7 +21449,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "objective_completed_40",
@@ -23707,21 +23712,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 190439,
+      "Progressed": 190448,
       "Completed": 3290
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 224165,
+      "Progressed": 224174,
       "Completed": 2207
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-22T15:00:33.3528943+00:00",
-  "LastChanged_Achievements": "2023-08-22T19:06:42.5813265+00:00",
+  "LastChanged_Achievements": "2023-08-22T20:05:58.0891461+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:12.3267162+00:00",
-  "LastUpdate_Ratings": "2023-08-22T19:00:55.7509732+00:00",
-  "LastUpdate_Achievements": "2023-08-22T19:06:42.5844346+00:00"
+  "LastUpdate_Ratings": "2023-08-22T20:00:21.9254084+00:00",
+  "LastUpdate_Achievements": "2023-08-22T20:05:58.0918601+00:00"
 }

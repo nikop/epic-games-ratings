@@ -26,6 +26,7 @@ Rating: 3.50 (Ranked 974)
 | Sisterhood | 0.10% | ~2 |
 | Check, Please! | 0.10% | ~2 |
 | Heart Attack | 0.10% | ~2 |
+| Right This Way | 0.10% | ~2 |
 | Harvest’s End | 0.10% | ~2 |
 | Bob’s Final Hour | 0.10% | ~2 |
 | Helping Hand | 0.10% | ~2 |
@@ -56,7 +57,6 @@ Rating: 3.50 (Ranked 974)
 | Bloody Initiate | 0.00% | ~0 |
 | Sepsis | 0.00% | ~0 |
 | So Anyway I Started Blasting | 0.00% | ~0 |
-| Right This Way | 0.00% | ~0 |
 | Nice Try | 0.00% | ~0 |
 | Blacklight Down | 0.00% | ~0 |
 | Rum Runner | 0.00% | ~0 |

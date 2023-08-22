@@ -5,9 +5,9 @@ Rating: 4.18 (Ranked 873)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~33,987 |
+| First Step Into the Knight | 50.00% | ~33,988 |
 | Har, Har, Har, Very Funny | 35.00% | ~23,791 |
-| Loose Ends | 34.00% | ~23,111 |
+| Loose Ends | 34.00% | ~23,112 |
 | To the Victor Go the Spoils | 28.00% | ~19,033 |
 | Knighthood | 27.00% | ~18,353 |
 | Get ReQ'd | 25.00% | ~16,994 |
@@ -20,8 +20,8 @@ Rating: 4.18 (Ranked 873)
 | Unstoppable Force | 20.00% | ~13,595 |
 | Bad Apples in Every Orchard | 20.00% | ~13,595 |
 | Snow Problem | 19.00% | ~12,915 |
-| The Show Mud Go On | 18.00% | ~12,235 |
-| From Inside Gotham's Walls | 18.00% | ~12,235 |
+| The Show Mud Go On | 18.00% | ~12,236 |
+| From Inside Gotham's Walls | 18.00% | ~12,236 |
 | Protector of Gotham | 17.00% | ~11,556 |
 | Universal Health Scare | 16.00% | ~10,876 |
 | In Your Element | 15.00% | ~10,196 |
@@ -35,7 +35,7 @@ Rating: 4.18 (Ranked 873)
 | Bulldozed | 12.00% | ~8,157 |
 | Gotham Knight | 12.00% | ~8,157 |
 | Gotham City Confidential | 11.00% | ~7,477 |
-| Drone You Out | 10.00% | ~6,797 |
+| Drone You Out | 10.00% | ~6,798 |
 | Out of Their League | 9.00% | ~6,118 |
 | Solid Alibi | 9.00% | ~6,118 |
 | Fusion Expert | 7.00% | ~4,758 |
@@ -45,8 +45,8 @@ Rating: 4.18 (Ranked 873)
 | Dressed to Impress | 4.00% | ~2,719 |
 | A Momentum Occasion | 3.00% | ~2,039 |
 | Bat Out of Hell | 3.00% | ~2,039 |
-| Practice Makes Perfect | 2.00% | ~1,359 |
-| He'd Be So Proud of You | 2.00% | ~1,359 |
+| Practice Makes Perfect | 2.00% | ~1,360 |
+| He'd Be So Proud of You | 2.00% | ~1,360 |
 | Talonted | 1.00% | ~680 |
 | The Man-Bat Family | 1.00% | ~680 |
 | Batarang Collector | 1.00% | ~680 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 873)
 | Element of Surprise | 0.20% | ~77 |
 | It's Nice to Be Wanted | 0.20% | ~77 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,974 (Ranked 80)  
+Progressed: 67,975 (Ranked 80)  
 Completed: 109 (0.16%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 109 (0.16%) (Ranked 193)
 | 2023-08-19 | 67,915 | 108 |
 | 2023-08-20 | 67,937 | 108 |
 | 2023-08-21 | 67,964 | 108 |
-| 2023-08-22 | 67,974 | 109 |
+| 2023-08-22 | 67,975 | 109 |
 ## Awards
 Max (Great Boss Battles): 2,515  (Ranked 100)  
 Sum: 4,187 (Ranked 139)  

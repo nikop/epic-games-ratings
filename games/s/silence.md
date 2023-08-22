@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chapter I | 50.00% | ~54 |
-| Fire in the... nevermind | 50.00% | ~54 |
-| Haute cuisine | 45.00% | ~49 |
+| Fire in the... nevermind | 50.00% | ~55 |
+| Chapter I | 49.00% | ~54 |
+| Haute cuisine | 45.00% | ~50 |
 | I didn't do it! | 40.00% | ~44 |
-| Wooooooow! | 36.00% | ~39 |
 | Demolition expert | 35.00% | ~38 |
+| Wooooooow! | 35.00% | ~38 |
 | Artistic fool | 34.00% | ~37 |
 | Keep away from children | 34.00% | ~37 |
-| Open up wide | 32.00% | ~35 |
+| Open up wide | 33.00% | ~36 |
 | Chapter II | 29.00% | ~32 |
 | Let the boot talk | 28.00% | ~31 |
-| Achoo!! | 28.00% | ~31 |
-| Chapter III | 27.00% | ~29 |
-| Like a moth in the Wind | 27.00% | ~29 |
+| Achoo!! | 27.00% | ~30 |
+| Chapter III | 26.00% | ~29 |
+| Like a moth in the Wind | 26.00% | ~29 |
 | Bubblekillerfamily | 24.00% | ~26 |
 | Quite a buggy game | 23.00% | ~25 |
 | Mirror mirror on the wall... | 23.00% | ~25 |
@@ -27,8 +27,8 @@
 | Pacifist | 20.00% | ~22 |
 | It's not easy being green! | 20.00% | ~22 |
 | Home is where the heart is | 20.00% | ~22 |
-| Master of Thermodynamics | 16.00% | ~17 |
-| Death is a part of life | 16.00% | ~17 |
+| Master of Thermodynamics | 15.00% | ~16 |
+| Death is a part of life | 15.00% | ~16 |
 | Unfullfilled dreams | 14.00% | ~15 |
 | To err is human... | 12.00% | ~13 |
 | Nothing can stop me | 11.00% | ~12 |
@@ -38,10 +38,10 @@
 | Where there is life, there is hope | 8.00% | ~9 |
 | It's nothing personal | 8.00% | ~9 |
 | Artistic master | 6.00% | ~7 |
-| Sadist | 6.00% | ~7 |
-| Fartjokes! | 6.00% | ~7 |
-| The hands of a healer | 6.00% | ~7 |
-| Shut up clown! | 5.00% | ~5 |
+| Sadist | 5.00% | ~6 |
+| Fartjokes! | 5.00% | ~6 |
+| The hands of a healer | 5.00% | ~6 |
+| Shut up clown! | 5.00% | ~6 |
 | Life is but a dream | 4.00% | ~4 |
 | Checkmate in 8 moves | 3.00% | ~3 |
 | Summit attempt | 2.00% | ~2 |
@@ -51,7 +51,7 @@
 | Done. First! | 0.90% | ~1 |
 | Do not feed the fish! | 0.90% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 109 (Ranked 324)  
+Progressed: 110 (Ranked 324)  
 Completed: 0 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,6 +72,7 @@ Completed: 0 (0.00%) (Ranked 261)
 | 2023-08-14 | 107 | 0 |
 | 2023-08-16 | 108 | 0 |
 | 2023-08-20 | 109 | 0 |
+| 2023-08-22 | 110 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

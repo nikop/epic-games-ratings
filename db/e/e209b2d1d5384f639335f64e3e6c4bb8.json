@@ -2,9 +2,9 @@
   "ID": "e209b2d1d5384f639335f64e3e6c4bb8",
   "Name": "Homeworld: Deserts of Kharak",
   "ProductSlug": "homeworld-deserts-of-kharak",
-  "Ranking_EOS_Progress": 411,
+  "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewPlayers": 251,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-08-24T15:00:00+00:00",
@@ -17,9 +17,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 22,
+  "EOS_Progressed": 23,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -67,6 +67,11 @@
       "Time": "2023-08-21T20:05:11.5953782+00:00",
       "NumProgressed": 22,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-22T20:02:16.635435+00:00",
+      "NumProgressed": 23,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-03T18:03:11.7010747+00:00",
@@ -101,7 +106,7 @@
       "ID": "ACHV_M01_COMPLETE",
       "SetID": "2l5j4fd",
       "Name": "Epsilon Base",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -109,7 +114,7 @@
       "ID": "ACHV_M02_COMPLETE",
       "SetID": "2l5j4fd",
       "Name": "The Boneyard",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -189,7 +194,7 @@
       "ID": "ACHV_M12_COMPLETE",
       "SetID": "2l5j4fd",
       "Name": "Torin Crater",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -205,7 +210,7 @@
       "ID": "ACHV_MP_1V1_TIER_LV_1",
       "SetID": "2l5j4fd",
       "Name": "Multiplayer: 1v1 - Bronze",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 20,
       "UsersEstimate": 6
     },
@@ -221,7 +226,7 @@
       "ID": "ACHV_MP_3V3_TIER_LV_1",
       "SetID": "2l5j4fd",
       "Name": "Multiplayer: 3v3 - Bronze",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -277,7 +282,7 @@
       "ID": "ACHV_MP_C_ANNIHILATION_GAALSI_10",
       "SetID": "2l5j4fd",
       "Name": "Multiplayer: Carrier Annihilation Gaalsien",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -341,7 +346,7 @@
       "ID": "ACHV_MP_RETRIEVAL_COUNT_COALITION_10",
       "SetID": "2l5j4fd",
       "Name": "Multiplayer: Artifact Hunter 50 Coalition",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -453,7 +458,7 @@
       "ID": "ACHV_TUT_COMPLETE",
       "SetID": "2l5j4fd",
       "Name": "Campaign Tutorial",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 25,
       "UsersEstimate": 1
     }
@@ -462,19 +467,19 @@
     {
       "ID": "2l5j4fd",
       "IsBase": true,
-      "Progressed": 22,
+      "Progressed": 23,
       "Completed": 0
     },
     {
       "ID": "a9dj9gi",
       "IsBase": false,
-      "Progressed": 11,
+      "Progressed": 12,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-01T13:08:41.5079141+00:00",
-  "LastChanged_Achievements": "2023-08-22T19:02:30.4562247+00:00",
+  "LastChanged_Achievements": "2023-08-22T20:02:16.6354338+00:00",
   "LastUpdate_AppInfo": "2023-08-17T14:57:09.1245406+00:00",
-  "LastUpdate_Ratings": "2023-08-22T18:58:45.3285076+00:00",
-  "LastUpdate_Achievements": "2023-08-22T19:02:30.4562682+00:00"
+  "LastUpdate_Ratings": "2023-08-22T19:58:23.0492745+00:00",
+  "LastUpdate_Achievements": "2023-08-22T20:02:16.6354884+00:00"
 }

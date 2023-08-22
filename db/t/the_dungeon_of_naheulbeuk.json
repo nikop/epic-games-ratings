@@ -4,7 +4,7 @@
   "ProductSlug": "the-dungeon-of-naheulbeuk",
   "Ranking_Rating": 426,
   "Ranking_Popularity": 285,
-  "Ranking_PopularitySum": 366,
+  "Ranking_PopularitySum": 364,
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 24,
@@ -664,10 +664,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 214,
       "NumberOfAwardsMax": 173
+    },
+    {
+      "Time": "2023-08-22T20:01:13.7007259+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 215,
+      "NumberOfAwardsMax": 173
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 214,
+  "NumberOfAwards": 215,
   "NumberOfAwardsMax": 173,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -687,12 +693,12 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 20
+      "Count": 21
     }
   ],
-  "EOS_Progressed": 215969,
+  "EOS_Progressed": 215990,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3155,
+  "EOS_NewPlayers": 3156,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7900,6 +7906,11 @@
       "Time": "2023-08-22T19:03:14.8732365+00:00",
       "NumProgressed": 215969,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-22T20:02:27.9579381+00:00",
+      "NumProgressed": 215990,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -7959,7 +7970,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4319
+      "UsersEstimate": 4320
     },
     {
       "ID": "Chapter2",
@@ -8311,7 +8322,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4319
+      "UsersEstimate": 4320
     },
     {
       "ID": "DwarfElf15Support",
@@ -8359,7 +8370,7 @@
       "Name": "Sowwy!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 47513
+      "UsersEstimate": 47518
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -8407,7 +8418,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4319
+      "UsersEstimate": 4320
     },
     {
       "ID": "FollowBraztok",
@@ -8589,9 +8600,9 @@
       "ID": "TeamLevel10",
       "SetID": "50chcgj",
       "Name": "Oh, when I\u0027ll be level 10...",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1296
+      "UsersEstimate": 1512
     },
     {
       "ID": "WizardEpic",
@@ -8614,21 +8625,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 215969,
+      "Progressed": 215990,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 215969,
+      "Progressed": 215990,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
-  "LastChanged": "2023-08-22T16:01:40.4668248+00:00",
-  "LastChanged_Achievements": "2023-08-22T19:03:14.8732359+00:00",
+  "LastChanged": "2023-08-22T20:01:13.7007257+00:00",
+  "LastChanged_Achievements": "2023-08-22T20:02:27.9579374+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:36.4163589+00:00",
-  "LastUpdate_Ratings": "2023-08-22T19:02:00.4012518+00:00",
-  "LastUpdate_Achievements": "2023-08-22T19:03:14.8733973+00:00"
+  "LastUpdate_Ratings": "2023-08-22T20:01:13.7007265+00:00",
+  "LastUpdate_Achievements": "2023-08-22T20:02:27.9580981+00:00"
 }

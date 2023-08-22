@@ -6,13 +6,13 @@ Number of Ratings: 1,396  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 71.00% | ~6,321 |
-| Photographer | 69.00% | ~6,143 |
-| Valley's Helper | 64.00% | ~5,698 |
+| Goofy's Investor | 71.00% | ~6,322 |
+| Photographer | 69.00% | ~6,144 |
+| Valley's Helper | 64.00% | ~5,699 |
 | Constructor | 52.00% | ~4,630 |
 | Renovator | 52.00% | ~4,630 |
-| Bestest Friend | 48.00% | ~4,273 |
-| Banker | 40.00% | ~3,561 |
+| Bestest Friend | 48.00% | ~4,274 |
+| Banker | 40.00% | ~3,562 |
 | Gardener | 31.00% | ~2,760 |
 | Generous | 23.00% | ~2,048 |
 | Chef Cook | 17.00% | ~1,514 |
@@ -22,7 +22,7 @@ Number of Ratings: 1,396  (23.09.2022)
 | Thorn Cleaner | 4.00% | ~356 |
 | Chit Chatter | 3.00% | ~267 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,903 (Ranked 126)  
+Progressed: 8,904 (Ranked 126)  
 Completed: 201 (2.26%) (Ranked 89)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,23 +97,23 @@ Completed: 201 (2.26%) (Ranked 89)
 | 2023-08-19 | 8,798 | 199 |
 | 2023-08-20 | 8,854 | 200 |
 | 2023-08-21 | 8,879 | 201 |
-| 2023-08-22 | 8,903 | 201 |
+| 2023-08-22 | 8,904 | 201 |
 ## Awards
 Max (Great for Beginners): 934  (Ranked 149)  
-Sum: 7,431 (Ranked 106)  
+Sum: 7,434 (Ranked 106)  
 Diff (max vs sum): 43  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 934 |
 | This game has Diverse Characters | 804 |
-| This game is Relaxing | 791 |
+| This game is Relaxing | 792 |
 | This game is Highly Recommended | 788 |
 | This game has Amazing Characters | 786 |
 | This game has Amazing Storytelling | 756 |
 | This game has Quickly Understood Controls | 733 |
 | This game is Extremely Fun | 728 |
 | This game has a Creative Community | 619 |
-| This game has Easy Combat | 492 |
+| This game has Easy Combat | 494 |
 | This game has Obsessive Gameplay | 415 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -281,4 +281,4 @@ Diff (max vs sum): 43
 | 2023-08-19 | 4.76 | - | 932 | 7,423 |
 | 2023-08-20 | 4.76 | - | 932 | 7,426 |
 | 2023-08-21 | 4.76 | - | 932 | 7,427 |
-| 2023-08-22 | 4.76 | - | 934 | 7,431 |
+| 2023-08-22 | 4.76 | - | 934 | 7,434 |

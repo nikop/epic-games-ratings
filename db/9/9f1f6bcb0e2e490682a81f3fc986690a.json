@@ -4,7 +4,7 @@
   "ProductSlug": "search-de9485",
   "Ranking_EOS_Progress": 554,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-06-01T10:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-18T16:57:08.4679482+00:00",
-  "LastUpdate_Ratings": "2023-08-22T18:59:44.7918109+00:00",
-  "LastUpdate_Achievements": "2023-08-22T19:04:28.6245695+00:00"
+  "LastUpdate_Ratings": "2023-08-22T19:59:18.7471035+00:00",
+  "LastUpdate_Achievements": "2023-08-22T20:03:49.4622976+00:00"
 }

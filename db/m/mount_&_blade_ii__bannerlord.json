@@ -6597,7 +6597,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 59447,
+  "EOS_Progressed": 59448,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 520,
   "EOS_NewCompleters": 0,
@@ -19757,6 +19757,11 @@
       "Time": "2023-08-22T19:06:06.7172531+00:00",
       "NumProgressed": 59447,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-22T20:05:28.2265194+00:00",
+      "NumProgressed": 59448,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -19784,7 +19789,7 @@
       "Name": "Bannerlord",
       "Percentage": 22,
       "XP": 65,
-      "UsersEstimate": 13078
+      "UsersEstimate": 13079
     },
     {
       "ID": "Best served cold",
@@ -19928,7 +19933,7 @@
       "Name": "Horde breaker",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 13078
+      "UsersEstimate": 13079
     },
     {
       "ID": "I can do it",
@@ -20120,7 +20125,7 @@
       "Name": "The king is pleased",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 10700
+      "UsersEstimate": 10701
     },
     {
       "ID": "This Is Our Land",
@@ -20144,7 +20149,7 @@
       "Name": "Trained",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 13078
+      "UsersEstimate": 13079
     },
     {
       "ID": "Undercover",
@@ -20175,15 +20180,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 59447,
+      "Progressed": 59448,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-08-22T18:57:52.3827877+00:00",
-  "LastChanged_Achievements": "2023-08-22T19:06:06.7172526+00:00",
+  "LastChanged_Achievements": "2023-08-22T20:05:28.2265189+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:38.4249815+00:00",
-  "LastUpdate_Ratings": "2023-08-22T18:57:52.3827884+00:00",
-  "LastUpdate_Achievements": "2023-08-22T19:06:06.7173693+00:00"
+  "LastUpdate_Ratings": "2023-08-22T19:57:29.9108933+00:00",
+  "LastUpdate_Achievements": "2023-08-22T20:05:28.2266441+00:00"
 }

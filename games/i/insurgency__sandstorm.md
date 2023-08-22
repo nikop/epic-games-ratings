@@ -1,16 +1,16 @@
 # Insurgency: Sandstorm
 [Store](https://store.epicgames.com/en-US/p/insurgency-sandstorm)  
 [View Rawdata](../../db/i/insurgency__sandstorm.json)  
-Rating: 4.62 (Ranked 348)  
+Rating: 4.62 (Ranked 349)  
 Number of Ratings: 1,316  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~21,770 |
-| Exploitative | 4.00% | ~17,416 |
-| High Speed Low Drag | 4.00% | ~17,416 |
-| Point Shooting | 4.00% | ~17,416 |
-| Wet Feet | 4.00% | ~17,416 |
+| Wallbanger | 5.00% | ~21,771 |
+| Exploitative | 4.00% | ~17,417 |
+| High Speed Low Drag | 4.00% | ~17,417 |
+| Point Shooting | 4.00% | ~17,417 |
+| Wet Feet | 4.00% | ~17,417 |
 | Lucky | 3.00% | ~13,062 |
 | Stylin' | 3.00% | ~13,062 |
 | Turf War | 3.00% | ~13,062 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~435 |
 | Road Hazard | 0.10% | ~435 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 435,401 (Ranked 38)  
+Progressed: 435,414 (Ranked 38)  
 Completed: 2 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,16 +166,16 @@ Completed: 2 (0.00%) (Ranked 261)
 | 2023-08-19 | 434,338 | 2 |
 | 2023-08-20 | 434,801 | 2 |
 | 2023-08-21 | 435,171 | 2 |
-| 2023-08-22 | 435,401 | 2 |
+| 2023-08-22 | 435,414 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 376  (Ranked 223)  
-Sum: 2,914 (Ranked 166)  
+Sum: 2,916 (Ranked 166)  
 Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 376 |
-| This game has Challenging Combat | 351 |
-| This game is Extremely Fun | 342 |
+| This game has Challenging Combat | 352 |
+| This game is Extremely Fun | 343 |
 | This game has Competitive Players | 340 |
 | This game is Highly Recommended | 312 |
 | This game has Realistic Visuals | 312 |
@@ -398,4 +398,4 @@ Diff (max vs sum): 57
 | 2023-08-19 | 4.62 | - | 375 | 2,904 |
 | 2023-08-20 | 4.62 | - | 375 | 2,906 |
 | 2023-08-21 | 4.62 | - | 376 | 2,911 |
-| 2023-08-22 | 4.62 | - | 376 | 2,914 |
+| 2023-08-22 | 4.62 | - | 376 | 2,916 |

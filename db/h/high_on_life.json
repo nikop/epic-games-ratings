@@ -244,7 +244,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23956,
+  "EOS_Progressed": 23957,
   "EOS_Completed": 12,
   "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
@@ -4394,6 +4394,11 @@
       "Time": "2023-08-22T15:04:29.1704032+00:00",
       "NumProgressed": 23956,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-08-22T20:04:09.9957858+00:00",
+      "NumProgressed": 23957,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 32,
@@ -4413,7 +4418,7 @@
       "Name": "Playing Card To Get",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 7905
+      "UsersEstimate": 7906
     },
     {
       "ID": "ACH_ALL_HUNTCHALS",
@@ -4421,7 +4426,7 @@
       "Name": "Mods Please Ban",
       "Percentage": 77,
       "XP": 60,
-      "UsersEstimate": 18446
+      "UsersEstimate": 18447
     },
     {
       "ID": "ACH_ALL_LUGLOXES",
@@ -4429,7 +4434,7 @@
       "Name": "Luglox Genocide",
       "Percentage": 43,
       "XP": 60,
-      "UsersEstimate": 10301
+      "UsersEstimate": 10302
     },
     {
       "ID": "ACH_APPLEBEES_BILL",
@@ -4445,7 +4450,7 @@
       "Name": "Creature Feature",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 6947
+      "UsersEstimate": 6948
     },
     {
       "ID": "ACH_GET_GUS",
@@ -4485,7 +4490,7 @@
       "Name": "RIP Davey Glutes",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 5749
+      "UsersEstimate": 5750
     },
     {
       "ID": "ACH_GET_SWEEZY",
@@ -4509,7 +4514,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 19883
+      "UsersEstimate": 19884
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -4517,7 +4522,7 @@
       "Name": "Sequel-Bait",
       "Percentage": 8,
       "XP": 45,
-      "UsersEstimate": 1916
+      "UsersEstimate": 1917
     },
     {
       "ID": "ACH_JUGGLE_SKILLS",
@@ -4533,7 +4538,7 @@
       "Name": "First Bounty Down",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 14134
+      "UsersEstimate": 14135
     },
     {
       "ID": "ACH_KILL_DOUGLAS",
@@ -4557,7 +4562,7 @@
       "Name": "Hardest Battle In The Game",
       "Percentage": 22,
       "XP": 45,
-      "UsersEstimate": 5270
+      "UsersEstimate": 5271
     },
     {
       "ID": "ACH_KILL_KRUBIS",
@@ -4589,7 +4594,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 17488
+      "UsersEstimate": 17489
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -4653,29 +4658,29 @@
       "Name": "Series Wrap on Suit-O",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 5270
+      "UsersEstimate": 5271
     }
   ],
   "AchievementSets": [
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 23956,
+      "Progressed": 23957,
       "Completed": 12
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1249,
-      "Completed": 1249
+      "Progressed": 1250,
+      "Completed": 1250
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-08-14T02:13:15.3920394+00:00",
-  "LastChanged_Achievements": "2023-08-22T19:04:40.6097485+00:00",
+  "LastChanged_Achievements": "2023-08-22T20:04:09.9957845+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:58.3808281+00:00",
-  "LastUpdate_Ratings": "2023-08-22T19:00:41.9870733+00:00",
-  "LastUpdate_Achievements": "2023-08-22T19:04:40.6098053+00:00"
+  "LastUpdate_Ratings": "2023-08-22T20:00:10.7178188+00:00",
+  "LastUpdate_Achievements": "2023-08-22T20:04:09.9958408+00:00"
 }

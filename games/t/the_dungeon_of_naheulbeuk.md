@@ -6,10 +6,10 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 22.00% | ~47,513 |
-| Déjà vu | 2.00% | ~4,319 |
-| Where's that freaking Dwarf? | 2.00% | ~4,319 |
-| Alt+F4 | 2.00% | ~4,319 |
+| Sowwy! | 22.00% | ~47,518 |
+| Déjà vu | 2.00% | ~4,320 |
+| Where's that freaking Dwarf? | 2.00% | ~4,320 |
+| Alt+F4 | 2.00% | ~4,320 |
 | A beer, two curses, three companions | 1.00% | ~2,160 |
 | Sock! SOCK! | 1.00% | ~2,160 |
 | GG EZ | 1.00% | ~2,160 |
@@ -20,6 +20,7 @@ Number of Ratings: 118  (23.09.2022)
 | Way of the Wimp | 0.80% | ~1,728 |
 | The plot thickens... At the tavern | 0.80% | ~1,728 |
 | Team Building Exercise | 0.70% | ~1,512 |
+| Oh, when I'll be level 10... | 0.70% | ~1,512 |
 | The demons' feast | 0.60% | ~1,296 |
 | The Great Library | 0.60% | ~1,296 |
 | Torture and Sensibility | 0.60% | ~1,296 |
@@ -30,7 +31,6 @@ Number of Ratings: 118  (23.09.2022)
 | A tale of adventurers not quite like the others... | 0.60% | ~1,296 |
 | %#*!$*! | 0.60% | ~1,296 |
 | I am the night | 0.60% | ~1,296 |
-| Oh, when I'll be level 10... | 0.60% | ~1,296 |
 | Shiny and Crôm | 0.50% | ~1,080 |
 | The beards of change | 0.50% | ~1,080 |
 | The Ranger of Chaos | 0.50% | ~1,080 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~216 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,969 (Ranked 56)  
+Progressed: 215,990 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,16 +178,16 @@ Completed: 2 (0.00%) (Ranked 261)
 | 2023-08-19 | 214,804 | 2 |
 | 2023-08-20 | 215,307 | 2 |
 | 2023-08-21 | 215,690 | 2 |
-| 2023-08-22 | 215,969 | 2 |
+| 2023-08-22 | 215,990 | 2 |
 ## Awards
 Max (Character Customization): 173  (Ranked 285)  
-Sum: 214 (Ranked 366)  
-Diff (max vs sum): -81  
+Sum: 215 (Ranked 364)  
+Diff (max vs sum): -79  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 173 |
 | This game is Relaxing | 21 |
-| This game is Great for Beginners | 20 |
+| This game is Great for Beginners | 21 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -301,4 +301,4 @@ Diff (max vs sum): -81
 | 2023-08-18 | 4.58 | - | 168 | 209 |
 | 2023-08-19 | 4.58 | - | 170 | 211 |
 | 2023-08-21 | 4.58 | - | 172 | 213 |
-| 2023-08-22 | 4.58 | - | 173 | 214 |
+| 2023-08-22 | 4.58 | - | 173 | 215 |

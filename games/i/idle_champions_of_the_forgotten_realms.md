@@ -12,9 +12,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Hunt for The Last Breath | 0.50% | ~952 |
 | The Mad Wizard | 0.40% | ~897 |
 | To Infinity's and Beyond | 0.40% | ~762 |
-| The Ring of Regeneration | 0.30% | ~672 |
-| Seeking Allies | 0.30% | ~672 |
-| Are Ya Chicken? | 0.30% | ~672 |
+| The Ring of Regeneration | 0.30% | ~673 |
+| Seeking Allies | 0.30% | ~673 |
+| Are Ya Chicken? | 0.30% | ~673 |
 | Maddening | 0.20% | ~448 |
 | Tall Tales | 0.20% | ~381 |
 | The Silken Swamp | 0.20% | ~448 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~190 |
 | Animated Giff | 0.10% | ~190 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,165 (Ranked 53)  
+Progressed: 224,174 (Ranked 53)  
 Completed: 2,207 (0.98%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -647,11 +647,11 @@ Completed: 2,207 (0.98%) (Ranked 120)
 | 2023-08-19 | 223,443 | 2,193 |
 | 2023-08-20 | 223,729 | 2,196 |
 | 2023-08-21 | 223,996 | 2,203 |
-| 2023-08-22 | 224,165 | 2,207 |
+| 2023-08-22 | 224,174 | 2,207 |
 ## Awards
 Max (Diverse Characters): 5,176  (Ranked 68)  
-Sum: 31,167 (Ranked 38)  
-Diff (max vs sum): 30  
+Sum: 31,167 (Ranked 39)  
+Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 5,176 |

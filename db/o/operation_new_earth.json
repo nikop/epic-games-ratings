@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1045,
+  "EOS_Progressed": 1046,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3636,6 +3636,11 @@
       "Time": "2023-08-22T19:04:07.2630873+00:00",
       "NumProgressed": 1045,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-22T20:03:32.0085114+00:00",
+      "NumProgressed": 1046,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -3751,7 +3756,7 @@
       "Name": "Facility Online",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -3839,7 +3844,7 @@
       "Name": "Getting Deployment",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -3855,7 +3860,7 @@
       "Name": "Stocking Up",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -3950,14 +3955,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1045,
+      "Progressed": 1046,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-22T19:04:07.2630867+00:00",
+  "LastChanged_Achievements": "2023-08-22T20:03:32.0085103+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:20.8459338+00:00",
-  "LastUpdate_Ratings": "2023-08-22T18:58:45.7910751+00:00",
-  "LastUpdate_Achievements": "2023-08-22T19:04:07.2631368+00:00"
+  "LastUpdate_Ratings": "2023-08-22T19:58:22.541695+00:00",
+  "LastUpdate_Achievements": "2023-08-22T20:03:32.00857+00:00"
 }

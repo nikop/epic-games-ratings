@@ -4,7 +4,7 @@
   "ProductSlug": "classic-racing-manager-679706",
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewPlayers": 239,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-05-10T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 310,
+  "EOS_Progressed": 312,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -681,6 +681,11 @@
       "Time": "2023-08-21T13:07:21.8189368+00:00",
       "NumProgressed": 310,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-22T20:03:11.4005141+00:00",
+      "NumProgressed": 312,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 162,
@@ -754,9 +759,9 @@
       "ID": "ACHIEVEMENT_13",
       "SetID": "76k7b7p",
       "Name": "Newbie",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 232
+      "UsersEstimate": 237
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -930,9 +935,9 @@
       "ID": "ACHIEVEMENT_201",
       "SetID": "76k7b7p",
       "Name": "Better than cake",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 25
     },
     {
       "ID": "ACHIEVEMENT_203",
@@ -1194,9 +1199,9 @@
       "ID": "ACHIEVEMENT_25",
       "SetID": "76k7b7p",
       "Name": "No brakes",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 34
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -1987,14 +1992,14 @@
     {
       "ID": "76k7b7p",
       "IsBase": true,
-      "Progressed": 310,
+      "Progressed": 312,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-11T01:55:52.8280898+00:00",
   "FirstSeenAchievements": "2023-05-05T09:00:44.9178133+00:00",
-  "LastChanged_Achievements": "2023-08-22T19:03:32.1655188+00:00",
+  "LastChanged_Achievements": "2023-08-22T20:03:11.4005132+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:40.6425793+00:00",
-  "LastUpdate_Ratings": "2023-08-22T18:59:41.7339214+00:00",
-  "LastUpdate_Achievements": "2023-08-22T19:03:32.1658795+00:00"
+  "LastUpdate_Ratings": "2023-08-22T19:59:15.4441192+00:00",
+  "LastUpdate_Achievements": "2023-08-22T20:03:11.400873+00:00"
 }

@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The View From Windy Castle. | 58.00% | ~45 |
+| The View From Windy Castle. | 59.00% | ~46 |
 | Rocket to the Moon! | 51.00% | ~40 |
 | Daddy’s Glasses | 50.00% | ~39 |
 | Whose tracks are these? | 49.00% | ~38 |

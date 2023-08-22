@@ -25,10 +25,10 @@
 | Spirit of the past | 64.00% | ~168 |
 | Law student | 63.00% | ~166 |
 | Workout professional | 61.00% | ~160 |
+| Champion – starter pack | 61.00% | ~160 |
+| It's good to be alive | 61.00% | ~160 |
 | Own four walls | 61.00% | ~160 |
 | Handyman | 60.00% | ~158 |
-| Champion – starter pack | 60.00% | ~158 |
-| It's good to be alive | 60.00% | ~158 |
 | Fight for life | 59.00% | ~155 |
 | Little hacker | 59.00% | ~155 |
 | Employee of the year | 59.00% | ~155 |
@@ -36,7 +36,7 @@
 | Legal courier | 55.00% | ~145 |
 | Extreme neuropower! | 54.00% | ~142 |
 | Escaped from a big trouble | 52.00% | ~137 |
-| Now you are worthy | 49.00% | ~129 |
+| Now you are worthy | 50.00% | ~132 |
 | Guiding on the right path | 47.00% | ~124 |
 | Fight is life | 45.00% | ~118 |
 | Mysterious voice | 45.00% | ~118 |

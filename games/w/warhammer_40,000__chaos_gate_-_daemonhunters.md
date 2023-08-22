@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Brothers in Arms | 0.00% | ~0 |
 | Not a Mote of Corruption | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,159 (Ranked 156)  
+Progressed: 3,160 (Ranked 156)  
 Completed: 0 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,6 +192,7 @@ Completed: 0 (0.00%) (Ranked 261)
 | 2023-08-18 | 3,156 | 0 |
 | 2023-08-19 | 3,157 | 0 |
 | 2023-08-20 | 3,159 | 0 |
+| 2023-08-22 | 3,160 | 0 |
 ## Awards
 Max (Character Customization): 220  (Ranked 264)  
 Sum: 472 (Ranked 305)  
