@@ -7,9 +7,9 @@
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 32.50% |
 | 6 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
 | 7 | [Overloop](games/o/overloop.md) | 25.00% |
-| 8 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 24.07% |
-| 10 | [Volley Pals](games/v/volley_pals.md) | 23.76% |
+| 8 | [Volley Pals](games/v/volley_pals.md) | 24.51% |
+| 9 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
+| 10 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 24.07% |
 | 11 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 22.63% |
 | 12 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 12 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
@@ -60,11 +60,11 @@
 | 58 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
 | 59 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.13% |
 | 60 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.11% |
-| 61 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 3.97% |
+| 61 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 3.94% |
 | 62 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.92% |
 | 63 | [ZZT!](games/z/zzt!.md) | 3.88% |
 | 64 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
-| 65 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.69% |
+| 65 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.65% |
 | 66 | [Without Escape](games/w/without_escape.md) | 3.57% |
 | 67 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 68 | [Doodle God](games/d/doodle_god.md) | 3.43% |
@@ -159,9 +159,9 @@
 | 157 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.41% |
 | 158 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.39% |
 | 159 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.38% |
-| 159 | [Ghostrunner](games/g/ghostrunner.md) | 0.38% |
-| 161 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.37% |
-| 161 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
+| 160 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.37% |
+| 160 | [Ghostrunner](games/g/ghostrunner.md) | 0.37% |
+| 160 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 163 | [Wildermyth](games/w/wildermyth.md) | 0.36% |
 | 164 | [The Surge](games/t/the_surge.md) | 0.35% |
 | 164 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.35% |
