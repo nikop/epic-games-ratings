@@ -1,24 +1,24 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.45 (Ranked 638)  
+Rating: 4.45 (Ranked 639)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 46.00% | ~1,615 |
-| Confirming Suspicions | 40.00% | ~1,404 |
+| Meeting Resistance | 46.00% | ~1,616 |
+| Confirming Suspicions | 40.00% | ~1,405 |
 | The Kraken Wakes | 35.00% | ~1,229 |
 | It's Starting to Crack | 32.00% | ~1,124 |
-| Change the Channel | 30.00% | ~1,053 |
 | Lord of War | 29.00% | ~1,018 |
+| Change the Channel | 29.00% | ~1,018 |
 | Taking it back | 27.00% | ~948 |
 | Resourceful | 26.00% | ~913 |
 | Target America | 25.00% | ~878 |
 | The Kraken Sleeps | 23.00% | ~808 |
-| Organ Grinder | 22.00% | ~772 |
-| As Quiet as a Mouse | 22.00% | ~772 |
-| Liberté | 21.00% | ~737 |
-| Sharpshooter | 21.00% | ~737 |
+| Organ Grinder | 22.00% | ~773 |
+| As Quiet as a Mouse | 22.00% | ~773 |
+| Liberté | 21.00% | ~738 |
+| Sharpshooter | 21.00% | ~738 |
 | Explosive Efficiency | 18.00% | ~632 |
 | Gunslinger | 17.00% | ~597 |
 | Just a Flesh Wound | 16.00% | ~562 |
@@ -27,12 +27,12 @@ Rating: 4.45 (Ranked 638)
 | Close Quarters | 15.00% | ~527 |
 | Snake in the Grass | 14.00% | ~492 |
 | Brains of the Operation | 14.00% | ~492 |
-| No Stone Unturned | 13.00% | ~456 |
-| Opposing Force | 13.00% | ~456 |
-| Enemy at the Gates | 13.00% | ~456 |
-| Fields of Glory | 13.00% | ~456 |
-| Skirmisher | 13.00% | ~456 |
-| Die Nussknacker Sweet! | 13.00% | ~456 |
+| No Stone Unturned | 13.00% | ~457 |
+| Opposing Force | 13.00% | ~457 |
+| Enemy at the Gates | 13.00% | ~457 |
+| Fields of Glory | 13.00% | ~457 |
+| Skirmisher | 13.00% | ~457 |
+| Die Nussknacker Sweet! | 13.00% | ~457 |
 | Set Europe Ablaze | 12.00% | ~421 |
 | Precision Is Key | 9.00% | ~316 |
 | My Little Friend | 9.00% | ~316 |
@@ -46,9 +46,9 @@ Rating: 4.45 (Ranked 638)
 | Tinkerer | 4.00% | ~140 |
 | Locomotion Commotion | 4.00% | ~140 |
 | Road Rage | 4.00% | ~140 |
-| Last Resort | 4.00% | ~138 |
-| Siegebreaker | 4.00% | ~138 |
-| Ghost of Falaise | 4.00% | ~138 |
+| Last Resort | 4.00% | ~139 |
+| Siegebreaker | 4.00% | ~139 |
+| Ghost of Falaise | 4.00% | ~139 |
 | Burn after reading | 3.00% | ~105 |
 | Souvenir hunter | 3.00% | ~105 |
 | Shoot for the Moon | 3.00% | ~105 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 638)
 | Stroll in the Woods | 0.60% | ~21 |
 | Going Overboard | 0.60% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,511 (Ranked 152)  
+Progressed: 3,512 (Ranked 152)  
 Completed: 9 (0.26%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,7 +200,7 @@ Completed: 9 (0.26%) (Ranked 177)
 | 2023-08-19 | 3,498 | 9 |
 | 2023-08-20 | 3,504 | 9 |
 | 2023-08-21 | 3,510 | 9 |
-| 2023-08-22 | 3,511 | 9 |
+| 2023-08-22 | 3,512 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

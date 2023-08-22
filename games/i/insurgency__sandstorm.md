@@ -6,11 +6,11 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~21,765 |
-| Exploitative | 4.00% | ~17,412 |
-| High Speed Low Drag | 4.00% | ~17,412 |
-| Point Shooting | 4.00% | ~17,412 |
-| Wet Feet | 4.00% | ~17,412 |
+| Wallbanger | 5.00% | ~21,766 |
+| Exploitative | 4.00% | ~17,413 |
+| High Speed Low Drag | 4.00% | ~17,413 |
+| Point Shooting | 4.00% | ~17,413 |
+| Wet Feet | 4.00% | ~17,413 |
 | Lucky | 3.00% | ~13,059 |
 | Stylin' | 3.00% | ~13,059 |
 | Turf War | 3.00% | ~13,059 |
@@ -27,8 +27,8 @@ Number of Ratings: 1,316  (23.09.2022)
 | Efficient | 0.90% | ~3,918 |
 | Mount & Gun | 0.90% | ~3,918 |
 | Personal | 0.90% | ~3,918 |
-| Grounded | 0.80% | ~3,482 |
-| Play to Win | 0.80% | ~3,482 |
+| Grounded | 0.80% | ~3,483 |
+| Play to Win | 0.80% | ~3,483 |
 | #1 | 0.70% | ~3,047 |
 | Special Delivery | 0.70% | ~3,047 |
 | Firefight Victory | 0.60% | ~2,612 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~435 |
 | Road Hazard | 0.10% | ~435 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 435,303 (Ranked 38)  
+Progressed: 435,314 (Ranked 38)  
 Completed: 2 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,10 +166,10 @@ Completed: 2 (0.00%) (Ranked 261)
 | 2023-08-19 | 434,338 | 2 |
 | 2023-08-20 | 434,801 | 2 |
 | 2023-08-21 | 435,171 | 2 |
-| 2023-08-22 | 435,303 | 2 |
+| 2023-08-22 | 435,314 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 376  (Ranked 223)  
-Sum: 2,911 (Ranked 166)  
+Sum: 2,914 (Ranked 166)  
 Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
@@ -181,7 +181,7 @@ Diff (max vs sum): 57
 | This game has Realistic Visuals | 312 |
 | This game has Amazing Storytelling | 306 |
 | This game has Amazing Characters | 305 |
-| This game has a Competitive Community | 267 |
+| This game has a Competitive Community | 270 |
 | This game has Obsessive Gameplay | 156 |
 | This game has Diverse Characters | 103 |
 ## Ratings History
@@ -398,3 +398,4 @@ Diff (max vs sum): 57
 | 2023-08-19 | 4.62 | - | 375 | 2,904 |
 | 2023-08-20 | 4.62 | - | 375 | 2,906 |
 | 2023-08-21 | 4.62 | - | 376 | 2,911 |
+| 2023-08-22 | 4.62 | - | 376 | 2,914 |

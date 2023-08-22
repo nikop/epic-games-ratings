@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -763,9 +763,9 @@
       "ID": "_05_FinishAct2",
       "SetID": "8a1io5d",
       "Name": "The Gambit Has Begun",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 68
+      "UsersEstimate": 72
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -827,9 +827,9 @@
       "ID": "_13_Completion_60",
       "SetID": "8a1io5d",
       "Name": "Corsair",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 8
     },
     {
       "ID": "_14_Completion_70",
@@ -946,8 +946,8 @@
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-22T11:03:44.1868868+00:00",
+  "LastChanged_Achievements": "2023-08-22T12:04:37.7719607+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:01.7621403+00:00",
-  "LastUpdate_Ratings": "2023-08-22T10:59:30.7475016+00:00",
-  "LastUpdate_Achievements": "2023-08-22T11:03:44.1869111+00:00"
+  "LastUpdate_Ratings": "2023-08-22T12:00:57.6678585+00:00",
+  "LastUpdate_Achievements": "2023-08-22T12:04:37.7720181+00:00"
 }

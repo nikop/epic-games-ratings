@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 24,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -684,9 +684,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 215829,
+  "EOS_Progressed": 215839,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3251,
+  "EOS_NewPlayers": 3242,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7854,6 +7854,11 @@
       "Time": "2023-08-22T11:02:22.0027795+00:00",
       "NumProgressed": 215829,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-22T12:03:21.8235644+00:00",
+      "NumProgressed": 215839,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -8313,7 +8318,7 @@
       "Name": "Sowwy!",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 45324
+      "UsersEstimate": 45326
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -8393,7 +8398,7 @@
       "Name": "Dead for good",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "KillGolbargh",
@@ -8417,7 +8422,7 @@
       "Name": "Gargantua",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "Orktobearfest",
@@ -8481,7 +8486,7 @@
       "Name": "Lust and Debauchery",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "RangerEpic",
@@ -8553,7 +8558,7 @@
       "Name": "Material Girl",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "WizardResistBurn",
@@ -8568,21 +8573,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 215829,
+      "Progressed": 215839,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 215829,
+      "Progressed": 215839,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-21T00:00:20.1938169+00:00",
-  "LastChanged_Achievements": "2023-08-22T11:02:22.0027789+00:00",
+  "LastChanged_Achievements": "2023-08-22T12:03:21.8235637+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:36.4163589+00:00",
-  "LastUpdate_Ratings": "2023-08-22T11:00:25.7803218+00:00",
-  "LastUpdate_Achievements": "2023-08-22T11:02:22.002935+00:00"
+  "LastUpdate_Ratings": "2023-08-22T12:02:27.0626054+00:00",
+  "LastUpdate_Achievements": "2023-08-22T12:03:21.8237348+00:00"
 }

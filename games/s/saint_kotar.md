@@ -21,10 +21,10 @@
 | The Crypt of Ivan Kotar | 29.00% | ~6 |
 | Lore and Background Story | 29.00% | ~6 |
 | Ulric's Painting Acquired | 24.00% | ~5 |
+| You Abandoned God | 24.00% | ~5 |
 | Save Arsen | 19.00% | ~4 |
 | Kabeer is Dead | 19.00% | ~4 |
 | Nikolay's Nonsense | 19.00% | ~4 |
-| You Abandoned God | 19.00% | ~4 |
 | Forgive Ida | 14.00% | ~3 |
 | Davor Was Deported | 14.00% | ~3 |
 | Gregor Was Punished | 14.00% | ~3 |
@@ -32,22 +32,22 @@
 | Become the Hero of Sveti Kotar | 14.00% | ~3 |
 | The Sanctuary | 14.00% | ~3 |
 | The Warden's Room | 14.00% | ~3 |
+| Incapacitated by the Death Whistle | 14.00% | ~3 |
 | Infuriate Elizabeta | 14.00% | ~3 |
 | Goldin's Fate | 14.00% | ~3 |
 | Warden's Monstrosities | 14.00% | ~3 |
+| You Decided to Stay With God | 14.00% | ~3 |
 | Leave the Town | 10.00% | ~2 |
+| You Helped Fulfill the Prophecy | 10.00% | ~2 |
 | Silenced the Voices | 10.00% | ~2 |
 | The Chapel | 10.00% | ~2 |
 | The Sewers | 10.00% | ~2 |
-| Incapacitated by the Death Whistle | 10.00% | ~2 |
 | Lodge's Secret Passage Shortcut | 10.00% | ~2 |
-| You Decided to Stay With God | 10.00% | ~2 |
+| That's Viktoria | 10.00% | ~2 |
 | Found Vilim's Body | 5.00% | ~1 |
 | Get Eaten by the Food Man | 5.00% | ~1 |
-| You Helped Fulfill the Prophecy | 5.00% | ~1 |
 | Death Whistle Opened the Door | 5.00% | ~1 |
 | The Meaning of Life | 5.00% | ~1 |
-| That's Viktoria | 5.00% | ~1 |
 | Antun Has a Father Now | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 21 (Ranked 413)  

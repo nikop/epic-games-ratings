@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-08-10T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T03:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 155,
+  "EOS_Progressed": 157,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -511,6 +511,11 @@
       "Time": "2023-08-22T08:08:10.0218311+00:00",
       "NumProgressed": 155,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-22T12:04:34.6670337+00:00",
+      "NumProgressed": 157,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-07T18:00:21.0046811+00:00",
@@ -529,9 +534,9 @@
       "ID": "Dangerous_dose",
       "SetID": "cjfnji1",
       "Name": "Dangerous dose",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "Dissatisfaction",
@@ -547,7 +552,7 @@
       "Name": "Full load",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "Island",
@@ -563,7 +568,7 @@
       "Name": "In the last second",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "Master",
@@ -577,9 +582,9 @@
       "ID": "Route",
       "SetID": "cjfnji1",
       "Name": "Own route",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "Serpentine_conquero",
@@ -634,14 +639,14 @@
     {
       "ID": "cjfnji1",
       "IsBase": true,
-      "Progressed": 155,
+      "Progressed": 157,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-11T01:35:20.9956349+00:00",
   "FirstSeenAchievements": "2023-08-07T18:00:21.004681+00:00",
-  "LastChanged_Achievements": "2023-08-22T11:03:42.0815958+00:00",
+  "LastChanged_Achievements": "2023-08-22T12:04:34.6670332+00:00",
   "LastUpdate_AppInfo": "2023-08-21T18:57:03.4336554+00:00",
-  "LastUpdate_Ratings": "2023-08-22T10:57:59.3551856+00:00",
-  "LastUpdate_Achievements": "2023-08-22T11:03:42.0816125+00:00"
+  "LastUpdate_Ratings": "2023-08-22T11:58:32.5027525+00:00",
+  "LastUpdate_Achievements": "2023-08-22T12:04:34.6670505+00:00"
 }

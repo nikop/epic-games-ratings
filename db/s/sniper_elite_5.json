@@ -2,13 +2,13 @@
   "ID": "18ad196e381b4331bf856e71a85ee0df",
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
-  "Ranking_Rating": 638,
+  "Ranking_Rating": 639,
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -476,7 +476,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3511,
+  "EOS_Progressed": 3512,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
@@ -6131,6 +6131,11 @@
       "Time": "2023-08-22T10:04:37.755201+00:00",
       "NumProgressed": 3511,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-22T12:05:24.601631+00:00",
+      "NumProgressed": 3512,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 71,
@@ -6150,7 +6155,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -6166,7 +6171,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -6174,7 +6179,7 @@
       "Name": "Opposing Force",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -6182,7 +6187,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -6190,7 +6195,7 @@
       "Name": "Fields of Glory",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -6206,7 +6211,7 @@
       "Name": "Organ Grinder",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -6222,7 +6227,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1615
+      "UsersEstimate": 1616
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -6270,7 +6275,7 @@
       "Name": "Skirmisher",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -6278,7 +6283,7 @@
       "Name": "Sharpshooter",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -6310,7 +6315,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 1404
+      "UsersEstimate": 1405
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -6358,7 +6363,7 @@
       "Name": "Die Nussknacker Sweet!",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -6382,7 +6387,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -6476,9 +6481,9 @@
       "ID": "REWARD_5_BUNKER_BUSTER",
       "SetID": "bm6el81",
       "Name": "Change the Channel",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1053
+      "UsersEstimate": 1018
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -6630,7 +6635,7 @@
       "Name": "Last Resort",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "REWARD_DLC02_01_SIEGEBREAKER",
@@ -6638,7 +6643,7 @@
       "Name": "Siegebreaker",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "REWARD_DLC02_02_GHOST_OF_FALAISE",
@@ -6646,7 +6651,7 @@
       "Name": "Ghost of Falaise",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "REWARD_DLC02_02_OPERATION_OVERLORD",
@@ -6709,13 +6714,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3462,
+      "Progressed": 3463,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3511,
+      "Progressed": 3512,
       "Completed": 9
     }
   ],
@@ -6723,8 +6728,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-08-19T13:59:32.9786794+00:00",
-  "LastChanged_Achievements": "2023-08-22T11:04:26.5709133+00:00",
+  "LastChanged_Achievements": "2023-08-22T12:05:24.6016304+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:38.9761253+00:00",
-  "LastUpdate_Ratings": "2023-08-22T10:58:24.0190041+00:00",
-  "LastUpdate_Achievements": "2023-08-22T11:04:26.5710286+00:00"
+  "LastUpdate_Ratings": "2023-08-22T11:59:14.239697+00:00",
+  "LastUpdate_Achievements": "2023-08-22T12:05:24.6017429+00:00"
 }

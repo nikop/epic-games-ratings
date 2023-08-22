@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 553,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 347,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2020-08-24T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -583,18 +583,24 @@
       "Rating": 4.15,
       "NumberOfAwards": 271,
       "NumberOfAwardsMax": 199
+    },
+    {
+      "Time": "2023-08-22T12:02:02.8196003+00:00",
+      "Rating": 4.15,
+      "NumberOfAwards": 272,
+      "NumberOfAwardsMax": 200
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 271,
-  "NumberOfAwardsMax": 199,
+  "NumberOfAwards": 272,
+  "NumberOfAwardsMax": 200,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 199
+      "Count": 200
     },
     {
       "Text": "In this game, your choices Don\u0027t Impact the Story",
@@ -614,8 +620,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:55.5563049+00:00",
-  "LastChanged": "2023-07-08T09:58:32.9785741+00:00",
+  "LastChanged": "2023-08-22T12:02:02.8196+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:12.8531706+00:00",
-  "LastUpdate_Ratings": "2023-08-22T11:00:08.9632963+00:00",
-  "LastUpdate_Achievements": "2023-08-22T11:06:10.5118041+00:00"
+  "LastUpdate_Ratings": "2023-08-22T12:02:02.8196007+00:00",
+  "LastUpdate_Achievements": "2023-08-22T12:07:51.6109564+00:00"
 }

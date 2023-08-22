@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -1842,9 +1842,9 @@
       "Count": 213
     }
   ],
-  "EOS_Progressed": 20667,
+  "EOS_Progressed": 20668,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7842,6 +7842,11 @@
       "Time": "2023-08-22T06:07:36.5446512+00:00",
       "NumProgressed": 20667,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-08-22T12:04:09.5603915+00:00",
+      "NumProgressed": 20668,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 23,
@@ -7885,7 +7890,7 @@
       "Name": "Worth Every Penny",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2893
+      "UsersEstimate": 2894
     },
     {
       "ID": "EstateAgent",
@@ -7901,7 +7906,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 19427
+      "UsersEstimate": 19428
     },
     {
       "ID": "GameOver",
@@ -8036,15 +8041,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 20667,
+      "Progressed": 20668,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-08-20T16:56:59.4346869+00:00",
-  "LastChanged_Achievements": "2023-08-22T11:03:24.6220632+00:00",
+  "LastChanged_Achievements": "2023-08-22T12:04:09.5603909+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:27.2088763+00:00",
-  "LastUpdate_Ratings": "2023-08-22T10:57:06.3933884+00:00",
-  "LastUpdate_Achievements": "2023-08-22T11:03:24.6221218+00:00"
+  "LastUpdate_Ratings": "2023-08-22T11:57:11.8083436+00:00",
+  "LastUpdate_Achievements": "2023-08-22T12:04:09.5604699+00:00"
 }

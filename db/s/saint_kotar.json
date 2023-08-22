@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 413,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 347,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-10-28T11:00:00+00:00",
     "PcReleaseDate": "2021-10-28T11:00:00+00:00",
@@ -228,9 +228,9 @@
       "ID": "fulfilled_prophecy",
       "SetID": "4akddl8",
       "Name": "You Helped Fulfill the Prophecy",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "full_story_revealed",
@@ -316,9 +316,9 @@
       "ID": "incapacitated_Nikolay_with_death_whistle",
       "SetID": "4akddl8",
       "Name": "Incapacitated by the Death Whistle",
-      "Percentage": 10,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "infuriated_Elizabeta_bell_5_times",
@@ -396,25 +396,25 @@
       "ID": "that_is_really_Benedeks_sister",
       "SetID": "4akddl8",
       "Name": "That\u0027s Viktoria",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "you_decided_to_abandon_God",
       "SetID": "4akddl8",
       "Name": "You Abandoned God",
-      "Percentage": 19,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "you_decided_to_stay_with_God",
       "SetID": "4akddl8",
       "Name": "You Decided to Stay With God",
-      "Percentage": 10,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     }
   ],
   "AchievementSets": [
@@ -429,8 +429,8 @@
   "FirstSeenRating": "2023-03-31T05:58:43.0246209+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.7285802+00:00",
   "LastChanged": "2023-03-31T05:58:43.024621+00:00",
-  "LastChanged_Achievements": "2023-08-22T11:04:44.7174842+00:00",
+  "LastChanged_Achievements": "2023-08-22T12:05:50.8988619+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:35.2595879+00:00",
-  "LastUpdate_Ratings": "2023-08-22T10:58:17.2420622+00:00",
-  "LastUpdate_Achievements": "2023-08-22T11:04:44.7175225+00:00"
+  "LastUpdate_Ratings": "2023-08-22T11:59:05.932362+00:00",
+  "LastUpdate_Achievements": "2023-08-22T12:05:50.8988969+00:00"
 }

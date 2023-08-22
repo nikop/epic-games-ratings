@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 21.00% | ~45,324 |
+| Sowwy! | 21.00% | ~45,326 |
 | Déjà vu | 2.00% | ~4,317 |
 | Where's that freaking Dwarf? | 2.00% | ~4,317 |
 | Alt+F4 | 2.00% | ~4,317 |
@@ -40,10 +40,10 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Fortress | 0.40% | ~863 |
 | Look but don't touch | 0.40% | ~863 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.40% | ~863 |
-| Dead for good | 0.30% | ~647 |
-| Gargantua | 0.30% | ~647 |
-| Lust and Debauchery | 0.30% | ~647 |
-| Material Girl | 0.30% | ~647 |
+| Dead for good | 0.30% | ~648 |
+| Gargantua | 0.30% | ~648 |
+| Lust and Debauchery | 0.30% | ~648 |
+| Material Girl | 0.30% | ~648 |
 | Holistic Adventuring Party | 0.20% | ~432 |
 | An old poacher makes the best gamekeeper | 0.20% | ~432 |
 | We come in peace | 0.20% | ~432 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Staff cut | 0.00% | ~0 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,829 (Ranked 56)  
+Progressed: 215,839 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,7 +178,7 @@ Completed: 2 (0.00%) (Ranked 261)
 | 2023-08-19 | 214,804 | 2 |
 | 2023-08-20 | 215,307 | 2 |
 | 2023-08-21 | 215,690 | 2 |
-| 2023-08-22 | 215,829 | 2 |
+| 2023-08-22 | 215,839 | 2 |
 ## Awards
 Max (Character Customization): 172  (Ranked 287)  
 Sum: 213 (Ranked 366)  

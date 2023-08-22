@@ -6,19 +6,19 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~68,055 |
-| Powergamer | 27.00% | ~65,625 |
-| Barely scratched the surface | 25.00% | ~60,764 |
-| Write that down | 24.00% | ~58,333 |
+| I will finish what you started | 28.00% | ~68,057 |
+| Powergamer | 27.00% | ~65,626 |
+| Barely scratched the surface | 25.00% | ~60,765 |
+| Write that down | 24.00% | ~58,334 |
 | Guns, lots of guns | 12.00% | ~29,167 |
-| Collector | 11.00% | ~26,736 |
+| Collector | 11.00% | ~26,737 |
 | Elementary! | 9.00% | ~21,875 |
-| Pumpkin Jack | 8.00% | ~19,444 |
-| Wake up! | 8.00% | ~19,444 |
+| Pumpkin Jack | 8.00% | ~19,445 |
+| Wake up! | 8.00% | ~19,445 |
 | It's honest work | 7.00% | ~17,014 |
 | Griever | 7.00% | ~17,014 |
-| Me smart | 6.00% | ~14,583 |
-| Trash compactor | 6.00% | ~14,583 |
+| Me smart | 6.00% | ~14,584 |
+| Trash compactor | 6.00% | ~14,584 |
 | Good listener | 5.00% | ~12,153 |
 | Valedictorian | 5.00% | ~12,153 |
 | BOY! | 4.00% | ~9,722 |
@@ -42,7 +42,7 @@ Number of Ratings: 33  (23.09.2022)
 | SysOp on duty | 1.00% | ~2,431 |
 | Take the blue pill | 1.00% | ~2,431 |
 | The power of three | 1.00% | ~2,431 |
-| A true blacksmith | 0.90% | ~2,187 |
+| A true blacksmith | 0.90% | ~2,188 |
 | Let's try another | 0.80% | ~1,944 |
 | Home run | 0.80% | ~1,944 |
 | I have the high ground | 0.70% | ~1,701 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~486 |
 | Memory 5 | 0.10% | ~243 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,055 (Ranked 48)  
+Progressed: 243,060 (Ranked 48)  
 Completed: 7 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 7 (0.00%) (Ranked 261)
 | 2023-08-19 | 242,715 | 7 |
 | 2023-08-20 | 242,876 | 7 |
 | 2023-08-21 | 243,002 | 7 |
-| 2023-08-22 | 243,055 | 7 |
+| 2023-08-22 | 243,060 | 7 |
 ## Awards
 Max (Character Customization): 79  (Ranked 363)  
 Sum: 79 (Ranked 428)  

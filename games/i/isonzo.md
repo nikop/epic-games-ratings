@@ -16,8 +16,8 @@ Number of Ratings: 98  (23.09.2022)
 | Silver Lining | 30.00% | ~2,003 |
 | Aurelio Baruzzi | 23.00% | ~1,535 |
 | Decimation | 22.00% | ~1,469 |
+| Donatello | 22.00% | ~1,469 |
 | Veni Vidi Vici | 22.00% | ~1,469 |
-| Donatello | 21.00% | ~1,402 |
 | Insubordination | 20.00% | ~1,335 |
 | The Italian Job | 20.00% | ~1,335 |
 | Ragazzi del '99 | 18.00% | ~1,202 |

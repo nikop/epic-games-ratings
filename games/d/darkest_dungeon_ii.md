@@ -6,32 +6,32 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~107,419 |
-| Don't Make Me Turn This Coach Around | 70.00% | ~80,853 |
+| A Place to Lay Your Head | 93.00% | ~107,420 |
+| Don't Make Me Turn This Coach Around | 70.00% | ~80,854 |
 | A Clear Conscience | 69.00% | ~79,698 |
 | Unleash Hell | 68.00% | ~78,543 |
 | Unfulfilled Desires | 68.00% | ~78,543 |
 | Funny Guy | 67.00% | ~77,388 |
 | Unshackled | 67.00% | ~77,388 |
 | Long Live the King | 66.00% | ~76,233 |
-| Resurrection | 62.00% | ~71,612 |
-| Wyrdly Reconstructed | 62.00% | ~71,612 |
-| Boxcar Kid | 60.00% | ~69,302 |
-| Rush Hour | 60.00% | ~69,302 |
-| To Grandmother's House | 60.00% | ~69,302 |
-| Serenity Now! | 52.00% | ~60,062 |
+| Resurrection | 62.00% | ~71,613 |
+| Wyrdly Reconstructed | 62.00% | ~71,613 |
+| Boxcar Kid | 60.00% | ~69,303 |
+| Rush Hour | 60.00% | ~69,303 |
+| To Grandmother's House | 60.00% | ~69,303 |
+| Serenity Now! | 52.00% | ~60,063 |
 | Hope Rekindled | 50.00% | ~57,752 |
 | Ramble On | 48.00% | ~55,442 |
 | Nope | 47.00% | ~54,287 |
 | This Looks Familiar | 38.00% | ~43,892 |
-| Now Stay Dead | 36.00% | ~41,581 |
-| Harvest Festival | 36.00% | ~41,581 |
-| Hot Air | 36.00% | ~41,581 |
-| Merry Time | 35.00% | ~40,426 |
-| Creep and Sleep | 33.00% | ~38,116 |
-| Overdue Notice | 31.00% | ~35,806 |
-| Whale | 31.00% | ~35,806 |
-| Banishment | 30.00% | ~34,651 |
+| Now Stay Dead | 36.00% | ~41,582 |
+| Harvest Festival | 36.00% | ~41,582 |
+| Hot Air | 36.00% | ~41,582 |
+| Merry Time | 35.00% | ~40,427 |
+| Creep and Sleep | 33.00% | ~38,117 |
+| Overdue Notice | 31.00% | ~35,807 |
+| Whale | 31.00% | ~35,807 |
+| Banishment | 30.00% | ~34,652 |
 | FNG | 29.00% | ~33,496 |
 | Predator | 24.00% | ~27,721 |
 | Reverse Banditry | 24.00% | ~27,721 |
@@ -48,9 +48,9 @@ Number of Ratings: 7,767  (23.09.2022)
 | Handled | 15.00% | ~17,326 |
 | Catch and Decease | 14.00% | ~16,171 |
 | Not Today! | 13.00% | ~15,016 |
-| Deprogramming | 12.00% | ~13,860 |
-| Shrine of Reflection | 11.00% | ~12,705 |
-| When You Want Something Done Right | 11.00% | ~12,705 |
+| Deprogramming | 12.00% | ~13,861 |
+| Shrine of Reflection | 11.00% | ~12,706 |
+| When You Want Something Done Right | 11.00% | ~12,706 |
 | Body of Work | 9.00% | ~10,395 |
 | Utopia | 8.00% | ~9,240 |
 | Hat Trick | 7.00% | ~8,085 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Gravestone Left Unturned | 0.10% | ~116 |
 | 20,000 Leagues Above the Sea | 0.10% | ~116 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 115,504 (Ranked 69)  
+Progressed: 115,505 (Ranked 69)  
 Completed: 1 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,7 +186,7 @@ Completed: 1 (0.00%) (Ranked 261)
 | 2023-08-19 | 115,176 | 1 |
 | 2023-08-20 | 115,343 | 1 |
 | 2023-08-21 | 115,473 | 1 |
-| 2023-08-22 | 115,504 | 1 |
+| 2023-08-22 | 115,505 | 1 |
 ## Awards
 Max (Character Customization): 7,338  (Ranked 48)  
 Sum: 19,069 (Ranked 57)  

@@ -49,7 +49,7 @@ Number of Ratings: 180  (23.09.2022)
 | Transport belt | 9.00% | ~142 |
 | Penny pincher | 9.00% | ~142 |
 | Campaign shark | 6.00% | ~95 |
-| E.P.E.C. | 5.00% | ~79 |
+| E.P.E.C. | 6.00% | ~95 |
 | Transport shark (Hard mode) | 4.00% | ~63 |
 | Antique | 4.00% | ~63 |
 | Transport corporation | 4.00% | ~63 |

@@ -3,9 +3,9 @@
   "Name": "Anna\u0027s Quest",
   "ProductSlug": "annas-quest-fbefa2",
   "Ranking_EOS_Progress": 394,
-  "Ranking_EOS_Completed": 19,
+  "Ranking_EOS_Completed": 18,
   "Ranking_EOS_NewPlayers": 282,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-02-01T16:00:00+00:00",
     "PcReleaseDate": "2015-07-01T22:00:00+00:00",
@@ -127,9 +127,9 @@
       "ID": "aq_achievement_1",
       "SetID": "7jh86ne",
       "Name": "Escape artist",
-      "Percentage": 75,
+      "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "aq_achievement_10",
@@ -448,8 +448,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.0099942+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.5540856+00:00",
   "LastChanged": "2023-03-31T05:58:28.0099943+00:00",
-  "LastChanged_Achievements": "2023-08-22T11:04:16.5590969+00:00",
+  "LastChanged_Achievements": "2023-08-22T12:05:10.3141898+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:40.6074868+00:00",
-  "LastUpdate_Ratings": "2023-08-22T11:00:31.6172451+00:00",
-  "LastUpdate_Achievements": "2023-08-22T11:04:16.5591297+00:00"
+  "LastUpdate_Ratings": "2023-08-22T12:02:32.4868398+00:00",
+  "LastUpdate_Achievements": "2023-08-22T12:05:10.314223+00:00"
 }

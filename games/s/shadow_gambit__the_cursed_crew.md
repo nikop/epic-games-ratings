@@ -9,7 +9,7 @@
 | Swabbie | 31.00% | ~131 |
 | With Great Power… | 26.00% | ~110 |
 | This Belongs in a Museum | 22.00% | ~93 |
-| The Gambit Has Begun | 16.00% | ~68 |
+| The Gambit Has Begun | 17.00% | ~72 |
 | Powder Monkey | 12.00% | ~51 |
 | Fishy Fish | 10.00% | ~42 |
 | Somewhere Deep in the Lost Caribbean | 9.00% | ~38 |
@@ -23,9 +23,9 @@
 | Jaded Judge | 3.00% | ~13 |
 | All Good Things | 2.00% | ~8 |
 | Privateer | 2.00% | ~8 |
+| Corsair | 2.00% | ~8 |
 | Tobacco Travesty | 2.00% | ~8 |
 | Accursed Artifacts | 2.00% | ~8 |
-| Corsair | 1.00% | ~4 |
 | Freebooter | 0.70% | ~3 |
 | Fully Decked | 0.70% | ~3 |
 | Marauder | 0.50% | ~2 |

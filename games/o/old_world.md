@@ -12,37 +12,37 @@ Number of Ratings: 1,307  (23.09.2022)
 | Settler | 3.00% | ~406 |
 | Friendly Family | 3.00% | ~406 |
 | Play a Single Player Game | 3.00% | ~406 |
-| Able | 2.00% | ~270 |
-| Ambitious | 2.00% | ~270 |
-| Architect | 2.00% | ~270 |
-| Enlightened | 2.00% | ~270 |
-| Glorious | 2.00% | ~270 |
-| Good | 2.00% | ~270 |
-| Just | 2.00% | ~270 |
-| Keystone | 2.00% | ~270 |
-| Learned | 2.00% | ~270 |
-| Magnificent | 2.00% | ~270 |
-| Mason | 2.00% | ~270 |
-| Noble | 2.00% | ~270 |
-| Pioneer | 2.00% | ~270 |
-| Strong | 2.00% | ~270 |
-| Warrior | 2.00% | ~270 |
-| Developing Cities | 2.00% | ~270 |
-| Strong Cities | 2.00% | ~270 |
-| Hanging Gardens | 2.00% | ~270 |
-| Ishtar Gate | 2.00% | ~270 |
-| Lighthouse | 2.00% | ~270 |
-| Oracle | 2.00% | ~270 |
-| Pyramids | 2.00% | ~270 |
-| Judaism | 2.00% | ~270 |
-| Babylonian Paganism | 2.00% | ~270 |
-| Carthaginian Paganism | 2.00% | ~270 |
-| Greek Paganism | 2.00% | ~270 |
-| Roman Paganism | 2.00% | ~270 |
-| Naming Landmarks | 2.00% | ~270 |
-| Trade Caravan | 2.00% | ~270 |
-| The Great Mage | 2.00% | ~270 |
-| Poetic Leader | 2.00% | ~270 |
+| Able | 2.00% | ~271 |
+| Ambitious | 2.00% | ~271 |
+| Architect | 2.00% | ~271 |
+| Enlightened | 2.00% | ~271 |
+| Glorious | 2.00% | ~271 |
+| Good | 2.00% | ~271 |
+| Just | 2.00% | ~271 |
+| Keystone | 2.00% | ~271 |
+| Learned | 2.00% | ~271 |
+| Magnificent | 2.00% | ~271 |
+| Mason | 2.00% | ~271 |
+| Noble | 2.00% | ~271 |
+| Pioneer | 2.00% | ~271 |
+| Strong | 2.00% | ~271 |
+| Warrior | 2.00% | ~271 |
+| Developing Cities | 2.00% | ~271 |
+| Strong Cities | 2.00% | ~271 |
+| Hanging Gardens | 2.00% | ~271 |
+| Ishtar Gate | 2.00% | ~271 |
+| Lighthouse | 2.00% | ~271 |
+| Oracle | 2.00% | ~271 |
+| Pyramids | 2.00% | ~271 |
+| Judaism | 2.00% | ~271 |
+| Babylonian Paganism | 2.00% | ~271 |
+| Carthaginian Paganism | 2.00% | ~271 |
+| Greek Paganism | 2.00% | ~271 |
+| Roman Paganism | 2.00% | ~271 |
+| Naming Landmarks | 2.00% | ~271 |
+| Trade Caravan | 2.00% | ~271 |
+| The Great Mage | 2.00% | ~271 |
+| Poetic Leader | 2.00% | ~271 |
 | Regicide | 1.00% | ~135 |
 | Drillmaster | 1.00% | ~135 |
 | Brilliant | 1.00% | ~135 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,525 (Ranked 118)  
+Progressed: 13,526 (Ranked 118)  
 Completed: 5 (0.04%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -427,7 +427,7 @@ Completed: 5 (0.04%) (Ranked 231)
 | 2023-08-19 | 13,485 | 5 |
 | 2023-08-20 | 13,503 | 5 |
 | 2023-08-21 | 13,520 | 5 |
-| 2023-08-22 | 13,525 | 5 |
+| 2023-08-22 | 13,526 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,797 (Ranked 207)  
