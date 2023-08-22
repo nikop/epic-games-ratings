@@ -3176,10 +3176,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 13537,
       "NumberOfAwardsMax": 6983
+    },
+    {
+      "Time": "2023-08-22T08:59:22.536746+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 13543,
+      "NumberOfAwardsMax": 6983
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13537,
+  "NumberOfAwards": 13543,
   "NumberOfAwardsMax": 6983,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3217,7 +3223,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 744
+      "Count": 750
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3250,9 +3256,9 @@
       "Count": 739
     }
   ],
-  "EOS_Progressed": 1597054,
+  "EOS_Progressed": 1597144,
   "EOS_Completed": 520,
-  "EOS_NewPlayers": 25929,
+  "EOS_NewPlayers": 25904,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -11855,6 +11861,11 @@
       "Time": "2023-08-22T08:09:11.3389453+00:00",
       "NumProgressed": 1597054,
       "NumCompleted": 520
+    },
+    {
+      "Time": "2023-08-22T09:05:18.2626339+00:00",
+      "NumProgressed": 1597144,
+      "NumCompleted": 520
     }
   ],
   "TotalAchievements": 1328,
@@ -11922,7 +11933,7 @@
       "Name": "The Collector",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 9582
+      "UsersEstimate": 9583
     },
     {
       "ID": "armed_and_dangerous",
@@ -11938,7 +11949,7 @@
       "Name": "Would You Like Your Receipt?",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 9582
+      "UsersEstimate": 9583
     },
     {
       "ID": "armored_1",
@@ -13290,7 +13301,7 @@
       "Name": "Virus",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 12776
+      "UsersEstimate": 12777
     },
     {
       "ID": "cac_29",
@@ -16338,7 +16349,7 @@
       "Name": "Smooth Criminal",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6388
+      "UsersEstimate": 6389
     },
     {
       "ID": "gorilla_1",
@@ -16482,7 +16493,7 @@
       "Name": "Guilty of Crime",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 12776
+      "UsersEstimate": 12777
     },
     {
       "ID": "halloween_1",
@@ -16618,7 +16629,7 @@
       "Name": "How Do You Like Me Now?",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 11179
+      "UsersEstimate": 11180
     },
     {
       "ID": "i_knew_what_i_was_doing_was_wrong",
@@ -21218,7 +21229,7 @@
       "Name": "There is Always a First Time",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6388
+      "UsersEstimate": 6389
     },
     {
       "ID": "trk_js_1",
@@ -22370,7 +22381,7 @@
       "Name": "Armed to the Teeth",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 9582
+      "UsersEstimate": 9583
     },
     {
       "ID": "wwh_1",
@@ -22489,22 +22500,22 @@
     {
       "ID": "61cefe3",
       "IsBase": true,
-      "Progressed": 1597054,
+      "Progressed": 1597144,
       "Completed": 520
     },
     {
       "ID": "bkjdbk8",
       "IsBase": false,
-      "Progressed": 1597054,
+      "Progressed": 1597144,
       "Completed": 30
     }
   ],
   "FirstSeen": "2023-06-08T18:57:07.8003815+00:00",
   "FirstSeenRating": "2023-06-09T03:57:04.3869033+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:50.4372379+00:00",
-  "LastChanged": "2023-08-22T03:59:27.5855986+00:00",
-  "LastChanged_Achievements": "2023-08-22T08:09:11.3389447+00:00",
+  "LastChanged": "2023-08-22T08:59:22.5367458+00:00",
+  "LastChanged_Achievements": "2023-08-22T09:05:18.2626331+00:00",
   "LastUpdate_AppInfo": "2023-08-17T20:57:10.4408604+00:00",
-  "LastUpdate_Ratings": "2023-08-22T08:01:28.0201326+00:00",
-  "LastUpdate_Achievements": "2023-08-22T08:09:11.3570682+00:00"
+  "LastUpdate_Ratings": "2023-08-22T08:59:22.5367462+00:00",
+  "LastUpdate_Achievements": "2023-08-22T09:05:18.2768795+00:00"
 }

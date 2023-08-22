@@ -6,22 +6,22 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~255,358 |
-| Cavalier | 25.00% | ~199,498 |
-| Fatso | 23.00% | ~183,539 |
-| Awakening | 21.00% | ~167,579 |
-| Ranger | 20.00% | ~159,599 |
-| Scrooge | 20.00% | ~159,599 |
-| Anorectic | 16.00% | ~127,679 |
-| Bookworm | 15.00% | ~119,699 |
-| Firestarter | 15.00% | ~119,699 |
-| Insomniac | 13.00% | ~103,739 |
-| Buddy | 12.00% | ~95,759 |
-| Thief | 12.00% | ~95,759 |
-| Sinner | 11.00% | ~87,779 |
-| Convict | 10.00% | ~79,799 |
-| Traveller | 10.00% | ~79,799 |
-| Haggler | 9.00% | ~71,819 |
+| Blacksmith's Son | 32.00% | ~255,360 |
+| Cavalier | 25.00% | ~199,500 |
+| Fatso | 23.00% | ~183,540 |
+| Awakening | 21.00% | ~167,580 |
+| Ranger | 20.00% | ~159,600 |
+| Scrooge | 20.00% | ~159,600 |
+| Anorectic | 16.00% | ~127,680 |
+| Bookworm | 15.00% | ~119,700 |
+| Firestarter | 15.00% | ~119,700 |
+| Insomniac | 13.00% | ~103,740 |
+| Buddy | 12.00% | ~95,760 |
+| Thief | 12.00% | ~95,760 |
+| Sinner | 11.00% | ~87,780 |
+| Convict | 10.00% | ~79,800 |
+| Traveller | 10.00% | ~79,800 |
+| Haggler | 9.00% | ~71,820 |
 | McLovin | 7.00% | ~55,860 |
 | Runt | 7.00% | ~55,860 |
 | Casanova | 6.00% | ~47,880 |
@@ -54,10 +54,10 @@ Number of Ratings: 9,133  (23.09.2022)
 | Bailiff | 0.90% | ~7,182 |
 | Tracker | 0.90% | ~7,182 |
 | David Horak | 0.70% | ~5,586 |
-| Fighter | 0.70% | ~5,586 |
 | Mercenary's Honour | 0.70% | ~5,586 |
 | Saviour | 0.70% | ~5,586 |
 | Edward Kelly | 0.60% | ~4,788 |
+| Fighter | 0.60% | ~4,788 |
 | I Can Quit Anytime | 0.50% | ~3,990 |
 | Perfectionist | 0.50% | ~3,990 |
 | Alcoholic | 0.30% | ~2,394 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~798 |
 | Wingman | 0.10% | ~798 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 797,994 (Ranked 16)  
+Progressed: 798,001 (Ranked 16)  
 Completed: 44 (0.01%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 44 (0.01%) (Ranked 248)
 | 2023-08-19 | 797,694 | 44 |
 | 2023-08-20 | 797,845 | 44 |
 | 2023-08-21 | 797,957 | 44 |
-| 2023-08-22 | 797,994 | 44 |
+| 2023-08-22 | 798,001 | 44 |
 ## Awards
 Max (Character Customization): 7,397  (Ranked 47)  
 Sum: 27,548 (Ranked 45)  

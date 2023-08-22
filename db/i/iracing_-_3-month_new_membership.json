@@ -2,10 +2,10 @@
   "ID": "1d3e38b5e921433caffbbef89e265517",
   "Name": "iRacing - 3-month new membership",
   "ProductSlug": "iracing",
-  "Ranking_EOS_Progress": 552,
+  "Ranking_EOS_Progress": 553,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 346,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2021-02-09T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:52.3221699+00:00",
   "LastChanged": "2023-03-31T05:57:52.32217+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:35.9235652+00:00",
-  "LastUpdate_Ratings": "2023-08-22T08:02:42.2426386+00:00",
-  "LastUpdate_Achievements": "2023-08-22T08:07:44.6075247+00:00"
+  "LastUpdate_Ratings": "2023-08-22T09:00:02.9990204+00:00",
+  "LastUpdate_Achievements": "2023-08-22T09:03:46.4500078+00:00"
 }

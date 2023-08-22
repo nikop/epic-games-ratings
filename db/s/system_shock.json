@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 481,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 346,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-05-30T15:00:00+00:00",
     "PcReleaseDate": "2023-05-30T15:00:00+00:00",
@@ -247,9 +247,9 @@
       "ID": "ConsumeJunkFood",
       "SetID": "bf8o3co",
       "Name": "Look At You, Snacker",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "DefeatCortexReavers",
@@ -383,9 +383,9 @@
       "ID": "IonBounceKill",
       "SetID": "bf8o3co",
       "Name": "Goldberg\u2019s Ricochet",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "JettisonBetaGrove",
@@ -511,9 +511,9 @@
       "ID": "VendingMachineGrenade",
       "SetID": "bf8o3co",
       "Name": "Enjoy Your Purchase",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ZeroSecurity",
@@ -536,8 +536,8 @@
   "FirstSeenRating": "2023-06-14T13:58:13.4205723+00:00",
   "FirstSeenAchievements": "2023-05-26T00:04:35.1577542+00:00",
   "LastChanged": "2023-08-18T04:58:48.5572768+00:00",
-  "LastChanged_Achievements": "2023-08-22T08:08:55.1735592+00:00",
+  "LastChanged_Achievements": "2023-08-22T09:04:46.7002072+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:46.417742+00:00",
-  "LastUpdate_Ratings": "2023-08-22T08:02:58.9965954+00:00",
-  "LastUpdate_Achievements": "2023-08-22T08:08:55.1736097+00:00"
+  "LastUpdate_Ratings": "2023-08-22T09:00:14.6159457+00:00",
+  "LastUpdate_Achievements": "2023-08-22T09:04:46.700237+00:00"
 }

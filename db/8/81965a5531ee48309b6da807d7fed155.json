@@ -2,10 +2,10 @@
   "ID": "81965a5531ee48309b6da807d7fed155",
   "Name": "City Car Parking Simulator",
   "ProductSlug": "city-car-parking-simulator-231485",
-  "Ranking_EOS_Progress": 552,
+  "Ranking_EOS_Progress": 553,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 346,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-07-23T20:00:00+00:00",
     "PcReleaseDate": "2023-07-11T20:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-12T01:34:53.6832394+00:00",
   "LastUpdate_AppInfo": "2023-08-20T20:57:20.0716053+00:00",
-  "LastUpdate_Ratings": "2023-08-22T07:57:21.2577707+00:00",
-  "LastUpdate_Achievements": "2023-08-22T08:09:47.056645+00:00"
+  "LastUpdate_Ratings": "2023-08-22T08:57:20.8007634+00:00",
+  "LastUpdate_Achievements": "2023-08-22T09:05:43.1870355+00:00"
 }

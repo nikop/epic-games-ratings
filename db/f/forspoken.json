@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 488,
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -346,9 +346,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 39741,
+  "EOS_Progressed": 39742,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7611,6 +7611,11 @@
       "Time": "2023-08-22T07:06:45.5065702+00:00",
       "NumProgressed": 39741,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-22T09:05:22.7610904+00:00",
+      "NumProgressed": 39742,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -7814,7 +7819,7 @@
       "Name": "Leapfrogger",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2384
+      "UsersEstimate": 2385
     },
     {
       "ID": "LOCATION_FIFTY",
@@ -7974,7 +7979,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2384
+      "UsersEstimate": 2385
     },
     {
       "ID": "STAYING_AIR",
@@ -8045,22 +8050,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 39741,
+      "Progressed": 39742,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 4578,
-      "Completed": 4578
+      "Progressed": 4579,
+      "Completed": 4579
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-08-20T03:03:04.688758+00:00",
-  "LastChanged_Achievements": "2023-08-22T08:09:18.3927229+00:00",
+  "LastChanged_Achievements": "2023-08-22T09:05:22.76109+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:51.1296088+00:00",
-  "LastUpdate_Ratings": "2023-08-22T08:04:32.5192068+00:00",
-  "LastUpdate_Achievements": "2023-08-22T08:09:18.3928141+00:00"
+  "LastUpdate_Ratings": "2023-08-22T09:01:03.9203705+00:00",
+  "LastUpdate_Achievements": "2023-08-22T09:05:22.7611583+00:00"
 }

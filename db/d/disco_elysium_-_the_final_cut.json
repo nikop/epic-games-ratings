@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 241,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1277,7 +1277,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 126617,
+  "EOS_Progressed": 126618,
   "EOS_Completed": 27,
   "EOS_NewPlayers": 370,
   "EOS_NewCompleters": 0,
@@ -13612,6 +13612,11 @@
       "Time": "2023-08-22T07:07:19.6239153+00:00",
       "NumProgressed": 126617,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-08-22T09:05:46.6552495+00:00",
+      "NumProgressed": 126618,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 40,
@@ -13735,7 +13740,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 25323
+      "UsersEstimate": 25324
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -13839,7 +13844,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 17726
+      "UsersEstimate": 17727
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -13942,15 +13947,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 126617,
+      "Progressed": 126618,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-08-20T18:02:20.9401326+00:00",
-  "LastChanged_Achievements": "2023-08-22T08:09:51.9379011+00:00",
+  "LastChanged_Achievements": "2023-08-22T09:05:46.6552489+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:47.5856644+00:00",
-  "LastUpdate_Ratings": "2023-08-22T08:06:12.2279839+00:00",
-  "LastUpdate_Achievements": "2023-08-22T08:09:51.9380377+00:00"
+  "LastUpdate_Ratings": "2023-08-22T09:01:52.8936771+00:00",
+  "LastUpdate_Achievements": "2023-08-22T09:05:46.6553292+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "ddb0965e1dbf42b8bb00a6141be02a12",
   "Name": "Unusual Findings",
   "ProductSlug": "unusual-findings-6997e3",
-  "Ranking_EOS_Progress": 552,
+  "Ranking_EOS_Progress": 553,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 346,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-04-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-12T17:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-04-08T15:58:09.6187281+00:00",
   "LastChanged": "2023-04-08T15:58:09.6187281+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:47.084026+00:00",
-  "LastUpdate_Ratings": "2023-08-22T07:58:20.9134899+00:00",
-  "LastUpdate_Achievements": "2023-08-22T08:08:32.3587867+00:00"
+  "LastUpdate_Ratings": "2023-08-22T08:57:51.2896601+00:00",
+  "LastUpdate_Achievements": "2023-08-22T09:04:30.7128451+00:00"
 }

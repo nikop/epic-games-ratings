@@ -12,13 +12,13 @@ Number of Ratings: 5,603  (23.09.2022)
 | Bannerlord | 22.00% | ~13,071 |
 | Horde breaker | 22.00% | ~13,071 |
 | Trained | 22.00% | ~13,071 |
-| The king is pleased | 18.00% | ~10,694 |
+| The king is pleased | 18.00% | ~10,695 |
 | King Solomon | 17.00% | ~10,100 |
 | Apple of my eye | 15.00% | ~8,912 |
 | I can do it | 15.00% | ~8,912 |
 | God of the Arena | 13.00% | ~7,724 |
-| Against all odds | 11.00% | ~6,535 |
-| This Is Our Land | 11.00% | ~6,535 |
+| Against all odds | 11.00% | ~6,536 |
+| This Is Our Land | 11.00% | ~6,536 |
 | Swordbearer | 10.00% | ~5,941 |
 | Duelist | 9.00% | ~5,347 |
 | Dynasty | 9.00% | ~5,347 |
@@ -28,9 +28,9 @@ Number of Ratings: 5,603  (23.09.2022)
 | Mastery | 7.00% | ~4,159 |
 | Know your enemy | 6.00% | ~3,565 |
 | My way | 5.00% | ~2,971 |
-| Crowdfunded | 4.00% | ~2,376 |
-| Crush your enemies | 4.00% | ~2,376 |
-| Veni vidi vici | 4.00% | ~2,376 |
+| Crowdfunded | 4.00% | ~2,377 |
+| Crush your enemies | 4.00% | ~2,377 |
+| Veni vidi vici | 4.00% | ~2,377 |
 | Freedom! | 3.00% | ~1,782 |
 | Real Estate | 3.00% | ~1,782 |
 | Long live the Empire! | 2.00% | ~1,188 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59,412 (Ranked 86)  
+Progressed: 59,414 (Ranked 86)  
 Completed: 0 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,7 +182,7 @@ Completed: 0 (0.00%) (Ranked 261)
 | 2023-08-19 | 59,215 | 0 |
 | 2023-08-20 | 59,321 | 0 |
 | 2023-08-21 | 59,389 | 0 |
-| 2023-08-22 | 59,412 | 0 |
+| 2023-08-22 | 59,414 | 0 |
 ## Awards
 Max (Character Customization): 6,962  (Ranked 51)  
 Sum: 14,143 (Ranked 67)  

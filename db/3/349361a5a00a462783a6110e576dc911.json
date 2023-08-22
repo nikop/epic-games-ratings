@@ -2,10 +2,10 @@
   "ID": "349361a5a00a462783a6110e576dc911",
   "Name": "Annulus",
   "ProductSlug": "annulus-648492",
-  "Ranking_EOS_Progress": 552,
+  "Ranking_EOS_Progress": 553,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 346,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-17T23:57:09.671552+00:00",
-  "LastUpdate_Ratings": "2023-08-22T08:01:02.1151534+00:00",
-  "LastUpdate_Achievements": "2023-08-22T08:09:33.0737106+00:00"
+  "LastUpdate_Ratings": "2023-08-22T08:59:11.2561492+00:00",
+  "LastUpdate_Achievements": "2023-08-22T09:05:33.1234471+00:00"
 }

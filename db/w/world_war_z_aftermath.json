@@ -2,13 +2,13 @@
   "ID": "wombat",
   "Name": "World War Z Aftermath",
   "ProductSlug": "world-war-z",
-  "Ranking_Rating": 473,
+  "Ranking_Rating": 485,
   "Ranking_Popularity": 76,
   "Ranking_PopularitySum": 42,
-  "Ranking_EOS_Progress": 552,
+  "Ranking_EOS_Progress": 553,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 346,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2021-09-21T13:00:00+00:00",
     "PcReleaseDate": "2021-09-21T13:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.56,
+  "Rating": 4.55,
   "NumberOfRatings": 17073,
   "RatingHistory": [
     {
@@ -7937,10 +7937,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 27954,
       "NumberOfAwardsMax": 4326
+    },
+    {
+      "Time": "2023-08-22T08:59:50.0868626+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 27957,
+      "NumberOfAwardsMax": 4326
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27954,
+  "NumberOfAwards": 27957,
   "NumberOfAwardsMax": 4326,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7954,13 +7960,13 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 3438
+      "Count": 3439
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 3311
+      "Count": 3313
     },
     {
       "Text": "This game is Highly Recommended",
@@ -8018,9 +8024,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:09.1230837+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.7901405+00:00",
-  "LastChanged": "2023-08-22T06:02:18.0995107+00:00",
-  "LastChanged_Achievements": "2023-08-22T08:08:17.00138+00:00",
+  "LastChanged": "2023-08-22T08:59:50.0868625+00:00",
+  "LastChanged_Achievements": "2023-08-22T09:04:19.2157869+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:58:02.4463384+00:00",
-  "LastUpdate_Ratings": "2023-08-22T08:02:27.4042676+00:00",
-  "LastUpdate_Achievements": "2023-08-22T08:08:17.0013821+00:00"
+  "LastUpdate_Ratings": "2023-08-22T08:59:50.0868629+00:00",
+  "LastUpdate_Achievements": "2023-08-22T09:04:19.21579+00:00"
 }

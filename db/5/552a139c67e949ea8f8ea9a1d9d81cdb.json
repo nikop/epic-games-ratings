@@ -2,10 +2,10 @@
   "ID": "552a139c67e949ea8f8ea9a1d9d81cdb",
   "Name": "HOT WHEELS UNLEASHED\u2122 2 - Turbocharged",
   "ProductSlug": "hot-wheels-unleashed-2",
-  "Ranking_EOS_Progress": 552,
+  "Ranking_EOS_Progress": 553,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 346,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-10-19T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -33,8 +33,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-08-22T08:11:47.7255551+00:00",
+  "LastChanged_Achievements": "2023-08-22T09:07:19.6236639+00:00",
   "LastUpdate_AppInfo": "2023-08-16T20:57:07.7281876+00:00",
-  "LastUpdate_Ratings": "2023-08-22T08:01:26.47705+00:00",
-  "LastUpdate_Achievements": "2023-08-22T08:11:47.7255598+00:00"
+  "LastUpdate_Ratings": "2023-08-22T08:59:21.1613542+00:00",
+  "LastUpdate_Achievements": "2023-08-22T09:07:19.623667+00:00"
 }

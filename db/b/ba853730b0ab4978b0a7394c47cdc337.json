@@ -2,10 +2,10 @@
   "ID": "ba853730b0ab4978b0a7394c47cdc337",
   "Name": "Extremely Realistic Siege Warfare Simulator",
   "ProductSlug": "extremely-realistic-siege-warfare-simulator-f83575",
-  "Ranking_EOS_Progress": 552,
+  "Ranking_EOS_Progress": 553,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 346,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2022-09-07T17:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-16T21:57:04.1619014+00:00",
-  "LastUpdate_Ratings": "2023-08-22T08:01:31.8047315+00:00",
-  "LastUpdate_Achievements": "2023-08-22T08:11:21.9844168+00:00"
+  "LastUpdate_Ratings": "2023-08-22T08:59:23.9315482+00:00",
+  "LastUpdate_Achievements": "2023-08-22T09:06:51.1217121+00:00"
 }

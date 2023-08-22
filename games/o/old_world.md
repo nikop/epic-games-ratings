@@ -71,14 +71,14 @@ Number of Ratings: 1,307  (23.09.2022)
 | Zoroastrianism | 1.00% | ~135 |
 | Mythology | 1.00% | ~135 |
 | Points Victory | 1.00% | ~135 |
+| Mighty | 0.90% | ~122 |
+| Victorious | 0.90% | ~122 |
 | Champions | 0.90% | ~122 |
 | Sages | 0.90% | ~122 |
 | Greece | 0.90% | ~122 |
 | Hanging Gardens in Babylon | 0.80% | ~108 |
 | Beloved | 0.80% | ~108 |
 | Conqueror | 0.80% | ~108 |
-| Mighty | 0.80% | ~108 |
-| Victorious | 0.80% | ~108 |
 | Persian Paganism | 0.80% | ~108 |
 | Building Wonders | 0.80% | ~108 |
 | Legalism | 0.80% | ~108 |

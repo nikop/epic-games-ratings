@@ -2,13 +2,13 @@
   "ID": "e33138cc2b964d38a42a812b83b6507e",
   "Name": "City of Gangsters",
   "ProductSlug": "city-of-gangsters-6c2974",
-  "Ranking_Rating": 820,
+  "Ranking_Rating": 813,
   "Ranking_Popularity": 448,
   "Ranking_PopularitySum": 390,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 41,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2021-08-09T00:00:00+00:00",
@@ -18,7 +18,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.26,
+  "Rating": 4.27,
   "RatingHistory": [
     {
       "Time": "2023-02-04T02:04:08.6033841+00:00",
@@ -491,6 +491,12 @@
       "Rating": 4.26,
       "NumberOfAwards": 162,
       "NumberOfAwardsMax": 33
+    },
+    {
+      "Time": "2023-08-22T09:00:19.1363457+00:00",
+      "Rating": 4.27,
+      "NumberOfAwards": 162,
+      "NumberOfAwardsMax": 33
     }
   ],
   "ReviewsDisabled": false,
@@ -535,9 +541,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 338934,
+  "EOS_Progressed": 338938,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1713,
+  "EOS_NewPlayers": 1703,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14185,6 +14191,11 @@
       "Time": "2023-08-22T08:07:29.3680445+00:00",
       "NumProgressed": 338934,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-08-22T09:03:35.6142285+00:00",
+      "NumProgressed": 338938,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -14212,7 +14223,7 @@
       "Name": "Cleaning House",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 40672
+      "UsersEstimate": 40673
     },
     {
       "ID": "ach004",
@@ -14244,7 +14255,7 @@
       "Name": "Boots in the Ground",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 2711
+      "UsersEstimate": 2712
     },
     {
       "ID": "ach008",
@@ -14252,7 +14263,7 @@
       "Name": "Room in the Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 40672
+      "UsersEstimate": 40673
     },
     {
       "ID": "ach009",
@@ -14300,7 +14311,7 @@
       "Name": "Fronting the Money",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 50840
+      "UsersEstimate": 50841
     },
     {
       "ID": "ach015",
@@ -14324,7 +14335,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 44061
+      "UsersEstimate": 44062
     },
     {
       "ID": "ach018",
@@ -14340,7 +14351,7 @@
       "Name": "Considerable Clams",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 13557
+      "UsersEstimate": 13558
     },
     {
       "ID": "ach020",
@@ -14404,7 +14415,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 155910
+      "UsersEstimate": 155911
     },
     {
       "ID": "ach028",
@@ -14412,7 +14423,7 @@
       "Name": "Gin Joint",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 13557
+      "UsersEstimate": 13558
     },
     {
       "ID": "ach029",
@@ -14444,7 +14455,7 @@
       "Name": "An Affront to the Enemy",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 13557
+      "UsersEstimate": 13558
     },
     {
       "ID": "ach033",
@@ -14500,7 +14511,7 @@
       "Name": "Friends on the Force",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 33893
+      "UsersEstimate": 33894
     },
     {
       "ID": "ach040",
@@ -14532,7 +14543,7 @@
       "Name": "Street Fighter",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 23725
+      "UsersEstimate": 23726
     },
     {
       "ID": "ach044",
@@ -14540,7 +14551,7 @@
       "Name": "Friends from Back Home",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 13557
+      "UsersEstimate": 13558
     },
     {
       "ID": "ach045",
@@ -14548,7 +14559,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 44061
+      "UsersEstimate": 44062
     },
     {
       "ID": "ach046",
@@ -14556,7 +14567,7 @@
       "Name": "Friendly Gestures",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 23725
+      "UsersEstimate": 23726
     },
     {
       "ID": "ach047",
@@ -14564,7 +14575,7 @@
       "Name": "Crossing Over",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 2711
+      "UsersEstimate": 2712
     },
     {
       "ID": "ach048",
@@ -14660,7 +14671,7 @@
       "Name": "Neighborhood Watch",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 33893
+      "UsersEstimate": 33894
     },
     {
       "ID": "ach060",
@@ -14724,7 +14735,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 54229
+      "UsersEstimate": 54230
     },
     {
       "ID": "ach069",
@@ -14772,7 +14783,7 @@
       "Name": "Half Century Mark",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 13557
+      "UsersEstimate": 13558
     },
     {
       "ID": "ach075",
@@ -14804,7 +14815,7 @@
       "Name": "People Person",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 23725
+      "UsersEstimate": 23726
     },
     {
       "ID": "ach079",
@@ -14835,16 +14846,16 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 338934,
+      "Progressed": 338938,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-08-11T21:00:23.9390359+00:00",
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
-  "LastChanged": "2023-08-19T09:01:48.6070505+00:00",
-  "LastChanged_Achievements": "2023-08-22T08:07:29.3680434+00:00",
+  "LastChanged": "2023-08-22T09:00:19.1363455+00:00",
+  "LastChanged_Achievements": "2023-08-22T09:03:35.6142281+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:50.072917+00:00",
-  "LastUpdate_Ratings": "2023-08-22T08:03:12.6141217+00:00",
-  "LastUpdate_Achievements": "2023-08-22T08:07:29.368217+00:00"
+  "LastUpdate_Ratings": "2023-08-22T09:00:19.136346+00:00",
+  "LastUpdate_Achievements": "2023-08-22T09:03:35.6143596+00:00"
 }

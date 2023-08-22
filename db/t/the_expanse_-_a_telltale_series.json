@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 51,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8713,
+  "EOS_Progressed": 8715,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1001,
+  "EOS_NewPlayers": 997,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2847,6 +2847,11 @@
       "Time": "2023-08-22T07:09:30.271405+00:00",
       "NumProgressed": 8713,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-22T09:07:17.522271+00:00",
+      "NumProgressed": 8715,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -2907,7 +2912,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 1481
+      "UsersEstimate": 1482
     },
     {
       "ID": "16",
@@ -2939,7 +2944,7 @@
       "Name": "Martian Music",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 958
+      "UsersEstimate": 959
     },
     {
       "ID": "2",
@@ -3098,14 +3103,14 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 8713,
+      "Progressed": 8715,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged_Achievements": "2023-08-22T08:11:44.7043852+00:00",
+  "LastChanged_Achievements": "2023-08-22T09:07:17.5222704+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:40.3624587+00:00",
-  "LastUpdate_Ratings": "2023-08-22T08:06:02.201584+00:00",
-  "LastUpdate_Achievements": "2023-08-22T08:11:44.7044328+00:00"
+  "LastUpdate_Ratings": "2023-08-22T09:01:47.1437377+00:00",
+  "LastUpdate_Achievements": "2023-08-22T09:07:17.5223064+00:00"
 }

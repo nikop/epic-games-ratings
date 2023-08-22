@@ -2,10 +2,10 @@
   "ID": "e659e7551fa9454596f2b184c4ee6745",
   "Name": "Alaskan Road Truckers",
   "ProductSlug": "alaskan-truck-simulator-d31463",
-  "Ranking_EOS_Progress": 552,
+  "Ranking_EOS_Progress": 553,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 346,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-19T07:57:38.5290394+00:00",
-  "LastUpdate_Ratings": "2023-08-22T08:02:47.6759517+00:00",
-  "LastUpdate_Achievements": "2023-08-22T08:08:50.1618908+00:00"
+  "LastUpdate_Ratings": "2023-08-22T09:00:07.2357526+00:00",
+  "LastUpdate_Achievements": "2023-08-22T09:04:43.1334745+00:00"
 }
