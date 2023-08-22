@@ -8,7 +8,7 @@
 | Wake Up | 80.00% | ~198 |
 | Time Gates | 65.00% | ~161 |
 | Command Centre | 50.00% | ~124 |
-| This is a Wall | 43.00% | ~106 |
+| This is a Wall | 44.00% | ~109 |
 | Extendable Bridges | 42.00% | ~104 |
 | Chain Reaction | 38.00% | ~94 |
 | 48 Attempts | 37.00% | ~91 |
@@ -32,7 +32,7 @@
 | Data Research | 0.40% | ~1 |
 | So, this is the End? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 247 (Ranked 278)  
+Progressed: 247 (Ranked 279)  
 Completed: 0 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |

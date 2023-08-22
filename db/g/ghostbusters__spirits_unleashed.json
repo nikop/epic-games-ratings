@@ -1878,9 +1878,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 25250,
+  "EOS_Progressed": 25251,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 163,
+  "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -10998,6 +10998,11 @@
       "Time": "2023-08-21T23:05:04.5568677+00:00",
       "NumProgressed": 25250,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-08-22T00:04:31.3345416+00:00",
+      "NumProgressed": 25251,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 51,
@@ -11009,7 +11014,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 18432
+      "UsersEstimate": 18433
     },
     {
       "ID": "Animated",
@@ -11097,7 +11102,7 @@
       "Name": "Discovery",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 15402
+      "UsersEstimate": 15403
     },
     {
       "ID": "Dont_Need_These",
@@ -11105,7 +11110,7 @@
       "Name": "I don\u0027t need these",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "Ectoplasmic_Entity",
@@ -11137,7 +11142,7 @@
       "Name": "Fragile Panes",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 2272
+      "UsersEstimate": 2273
     },
     {
       "ID": "Fully_Upgraded",
@@ -11145,7 +11150,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 13382
+      "UsersEstimate": 13383
     },
     {
       "ID": "GB_In_Training",
@@ -11217,7 +11222,7 @@
       "Name": "Mycophile",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "Pesky_Jerks",
@@ -11225,7 +11230,7 @@
       "Name": "Pesky Jerks",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 6312
+      "UsersEstimate": 6313
     },
     {
       "ID": "Reckless",
@@ -11233,7 +11238,7 @@
       "Name": "Reckless",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 4292
+      "UsersEstimate": 4293
     },
     {
       "ID": "Rift_Destroyer",
@@ -11297,7 +11302,7 @@
       "Name": "Solo Capture",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 8332
+      "UsersEstimate": 8333
     },
     {
       "ID": "Stunner",
@@ -11305,7 +11310,7 @@
       "Name": "Stunner",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 6312
+      "UsersEstimate": 6313
     },
     {
       "ID": "Stylish",
@@ -11313,7 +11318,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 21715
+      "UsersEstimate": 21716
     },
     {
       "ID": "Summoner",
@@ -11329,7 +11334,7 @@
       "Name": "Surprise!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 2272
+      "UsersEstimate": 2273
     },
     {
       "ID": "Swift_Removers",
@@ -11337,7 +11342,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 13635
+      "UsersEstimate": 13636
     },
     {
       "ID": "Teamwork",
@@ -11409,14 +11414,14 @@
       "Name": "Whoopsie",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 3282
+      "UsersEstimate": 3283
     }
   ],
   "AchievementSets": [
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 25250,
+      "Progressed": 25251,
       "Completed": 52
     }
   ],
@@ -11424,8 +11429,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-08-20T20:00:34.3047121+00:00",
-  "LastChanged_Achievements": "2023-08-21T23:05:04.5568672+00:00",
+  "LastChanged_Achievements": "2023-08-22T00:04:31.3345412+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:37.9111082+00:00",
-  "LastUpdate_Ratings": "2023-08-21T23:01:44.7817764+00:00",
-  "LastUpdate_Achievements": "2023-08-21T23:05:04.556966+00:00"
+  "LastUpdate_Ratings": "2023-08-22T00:01:28.1569169+00:00",
+  "LastUpdate_Achievements": "2023-08-22T00:04:31.3346196+00:00"
 }

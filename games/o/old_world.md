@@ -70,10 +70,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egyptian Paganism | 1.00% | ~135 |
 | Zoroastrianism | 1.00% | ~135 |
 | Mythology | 1.00% | ~135 |
+| Points Victory | 1.00% | ~135 |
 | Champions | 0.90% | ~122 |
 | Sages | 0.90% | ~122 |
 | Greece | 0.90% | ~122 |
-| Points Victory | 0.90% | ~122 |
 | Hanging Gardens in Babylon | 0.80% | ~108 |
 | Beloved | 0.80% | ~108 |
 | Conqueror | 0.80% | ~108 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,520 (Ranked 118)  
+Progressed: 13,521 (Ranked 118)  
 Completed: 5 (0.04%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -427,6 +427,7 @@ Completed: 5 (0.04%) (Ranked 231)
 | 2023-08-19 | 13,485 | 5 |
 | 2023-08-20 | 13,503 | 5 |
 | 2023-08-21 | 13,520 | 5 |
+| 2023-08-22 | 13,521 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,797 (Ranked 207)  

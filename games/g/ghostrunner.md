@@ -6,27 +6,27 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 76.00% | ~11,739 |
-| Sword Runner | 62.00% | ~9,577 |
-| Running out of breath | 54.00% | ~8,341 |
-| Wallrunner | 54.00% | ~8,341 |
-| Homerunner | 45.00% | ~6,951 |
-| Out of order | 45.00% | ~6,951 |
-| I call it luck | 44.00% | ~6,796 |
-| Where are my Keys? | 41.00% | ~6,333 |
-| Back to hell | 37.00% | ~5,715 |
+| Longrunner | 76.00% | ~11,740 |
+| Sword Runner | 62.00% | ~9,578 |
+| Running out of breath | 54.00% | ~8,342 |
+| Wallrunner | 54.00% | ~8,342 |
+| Homerunner | 45.00% | ~6,952 |
+| Out of order | 45.00% | ~6,952 |
+| I call it luck | 44.00% | ~6,797 |
+| Where are my Keys? | 41.00% | ~6,334 |
+| Back to hell | 37.00% | ~5,716 |
 | Perfection | 32.00% | ~4,943 |
 | Why not both | 30.00% | ~4,634 |
-| Sword to a gunfight | 29.00% | ~4,479 |
-| Upgrades not mandatory | 29.00% | ~4,479 |
+| Sword to a gunfight | 29.00% | ~4,480 |
+| Upgrades not mandatory | 29.00% | ~4,480 |
 | Artificial selection | 28.00% | ~4,325 |
 | Control freak | 28.00% | ~4,325 |
-| Running Wild | 27.00% | ~4,170 |
+| Running Wild | 27.00% | ~4,171 |
 | Finish line | 26.00% | ~4,016 |
 | Unstoppable force | 23.00% | ~3,553 |
-| Wave of mutilation | 22.00% | ~3,398 |
+| Wave of mutilation | 22.00% | ~3,399 |
 | Can't Run Can't Hide | 17.00% | ~2,626 |
-| R is for Running | 16.00% | ~2,471 |
+| R is for Running | 16.00% | ~2,472 |
 | Dead in the air | 15.00% | ~2,317 |
 | Improvise, adapt, overrun | 13.00% | ~2,008 |
 | Pre-empative strike | 13.00% | ~2,008 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Sticks And Stones | 0.40% | ~62 |
 | Up Close And Personal | 0.40% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,446 (Ranked 116)  
+Progressed: 15,448 (Ranked 116)  
 Completed: 58 (0.38%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,6 +176,7 @@ Completed: 58 (0.38%) (Ranked 159)
 | 2023-08-19 | 15,323 | 58 |
 | 2023-08-20 | 15,386 | 58 |
 | 2023-08-21 | 15,446 | 58 |
+| 2023-08-22 | 15,448 | 58 |
 ## Awards
 Max (Great Boss Battles): 481  (Ranked 200)  
 Sum: 669 (Ranked 283)  

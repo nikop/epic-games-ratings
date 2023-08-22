@@ -58,6 +58,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Trash to Treasure | 0.30% | ~405 |
 | Royal Ransom | 0.30% | ~405 |
 | Mammonite | 0.30% | ~405 |
+| Laden with Loot | 0.30% | ~405 |
 | Natural 20 | 0.30% | ~405 |
 | Seasoned Journeyman | 0.30% | ~405 |
 | Black Friday Special | 0.30% | ~405 |
@@ -88,7 +89,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Item of Renown | 0.20% | ~270 |
 | Master Merchant | 0.20% | ~270 |
 | Miracle Alchemist | 0.20% | ~270 |
-| Laden with Loot | 0.20% | ~270 |
 | Bountiful Harvest | 0.20% | ~270 |
 | Precision Engineering | 0.20% | ~270 |
 | Scourge of the Seas | 0.20% | ~270 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~135 |
 | Cash Only Please | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,907 (Ranked 66)  
+Progressed: 134,909 (Ranked 66)  
 Completed: 134 (0.10%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,6 +243,7 @@ Completed: 134 (0.10%) (Ranked 208)
 | 2023-08-19 | 134,791 | 133 |
 | 2023-08-20 | 134,856 | 133 |
 | 2023-08-21 | 134,907 | 134 |
+| 2023-08-22 | 134,909 | 134 |
 ## Awards
 Max (Great for Beginners): 4,707  (Ranked 71)  
 Sum: 27,123 (Ranked 46)  

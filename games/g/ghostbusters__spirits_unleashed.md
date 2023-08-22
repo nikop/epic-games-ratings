@@ -5,12 +5,12 @@ Rating: 4.49 (Ranked 577)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~21,715 |
-| Advancement | 73.00% | ~18,432 |
+| Stylish | 86.00% | ~21,716 |
+| Advancement | 73.00% | ~18,433 |
 | Meticulously Efficient | 63.00% | ~15,908 |
-| Discovery | 61.00% | ~15,402 |
-| Swift Rift Removers | 54.00% | ~13,635 |
-| Fully Upgraded | 53.00% | ~13,382 |
+| Discovery | 61.00% | ~15,403 |
+| Swift Rift Removers | 54.00% | ~13,636 |
+| Fully Upgraded | 53.00% | ~13,383 |
 | I collect Spores, Molds, and Fungi | 51.00% | ~12,878 |
 | Cultured | 51.00% | ~12,878 |
 | Vaporous Expansion | 48.00% | ~12,120 |
@@ -19,7 +19,7 @@ Rating: 4.49 (Ranked 577)
 | Clutch Capture | 40.00% | ~10,100 |
 | Back Off | 35.00% | ~8,838 |
 | Daily Dose | 34.00% | ~8,585 |
-| Solo Capture | 33.00% | ~8,332 |
+| Solo Capture | 33.00% | ~8,333 |
 | Welcome to the Crew | 31.00% | ~7,828 |
 | Ghostbuster In Training | 30.00% | ~7,575 |
 | Icing on the Cake | 30.00% | ~7,575 |
@@ -28,8 +28,8 @@ Rating: 4.49 (Ranked 577)
 | Legions | 26.00% | ~6,565 |
 | Right back at ya | 26.00% | ~6,565 |
 | Summoner | 26.00% | ~6,565 |
-| Pesky Jerks | 25.00% | ~6,312 |
-| Stunner | 25.00% | ~6,312 |
+| Pesky Jerks | 25.00% | ~6,313 |
+| Stunner | 25.00% | ~6,313 |
 | Animated | 24.00% | ~6,060 |
 | Skilled | 24.00% | ~6,060 |
 | Collector | 23.00% | ~5,808 |
@@ -37,15 +37,15 @@ Rating: 4.49 (Ranked 577)
 | Rift Destroyer | 19.00% | ~4,798 |
 | Terrifying | 18.00% | ~4,545 |
 | Tobin's Prodigy | 18.00% | ~4,545 |
-| Reckless | 17.00% | ~4,292 |
+| Reckless | 17.00% | ~4,293 |
 | Diabolical | 16.00% | ~4,040 |
 | Seasoned | 16.00% | ~4,040 |
 | Escape Artist | 15.00% | ~3,788 |
-| Whoopsie | 13.00% | ~3,282 |
+| Whoopsie | 13.00% | ~3,283 |
 | Liability | 10.00% | ~2,525 |
 | Rivalry | 10.00% | ~2,525 |
-| Fragile Panes | 9.00% | ~2,272 |
-| Surprise! | 9.00% | ~2,272 |
+| Fragile Panes | 9.00% | ~2,273 |
+| Surprise! | 9.00% | ~2,273 |
 | Rift Seeker | 7.00% | ~1,768 |
 | Therapeutic | 7.00% | ~1,768 |
 | Master Collector | 6.00% | ~1,515 |
@@ -54,10 +54,10 @@ Rating: 4.49 (Ranked 577)
 | Line em' up | 2.00% | ~505 |
 | Little Help Here | 2.00% | ~505 |
 | Ultimate Defense | 2.00% | ~505 |
-| I don't need these | 1.00% | ~252 |
-| Mycophile | 1.00% | ~252 |
+| I don't need these | 1.00% | ~253 |
+| Mycophile | 1.00% | ~253 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,250 (Ranked 102)  
+Progressed: 25,251 (Ranked 102)  
 Completed: 52 (0.21%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,6 +181,7 @@ Completed: 52 (0.21%) (Ranked 186)
 | 2023-08-19 | 25,197 | 52 |
 | 2023-08-20 | 25,227 | 52 |
 | 2023-08-21 | 25,250 | 52 |
+| 2023-08-22 | 25,251 | 52 |
 ## Awards
 Max (Great for Quick Sessions): 248  (Ranked 254)  
 Sum: 2,248 (Ranked 188)  

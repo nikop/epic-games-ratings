@@ -10769,10 +10769,10 @@
       "Count": 5639
     }
   ],
-  "EOS_Progressed": 871958,
+  "EOS_Progressed": 871960,
   "EOS_Completed": 2000,
-  "EOS_NewPlayers": 1057,
-  "EOS_NewCompleters": 31,
+  "EOS_NewPlayers": 1054,
+  "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
     {
@@ -24404,6 +24404,11 @@
       "Time": "2023-08-21T23:06:21.0657996+00:00",
       "NumProgressed": 871958,
       "NumCompleted": 2000
+    },
+    {
+      "Time": "2023-08-22T00:06:07.6254137+00:00",
+      "NumProgressed": 871960,
+      "NumCompleted": 2000
     }
   ],
   "TotalAchievements": 44,
@@ -24423,7 +24428,7 @@
       "Name": "To Bad Decisions!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 52317
+      "UsersEstimate": 52318
     },
     {
       "ID": "BushidoAndChill",
@@ -24439,7 +24444,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 156952
+      "UsersEstimate": 156953
     },
     {
       "ID": "Denied",
@@ -24535,7 +24540,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 200550
+      "UsersEstimate": 200551
     },
     {
       "ID": "MaxPain",
@@ -24583,7 +24588,7 @@
       "Name": "Life of the Road",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 183111
+      "UsersEstimate": 183112
     },
     {
       "ID": "Roleplayer",
@@ -24631,7 +24636,7 @@
       "Name": "The Fool",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 592931
+      "UsersEstimate": 592933
     },
     {
       "ID": "TheHermit",
@@ -24655,7 +24660,7 @@
       "Name": "The Lovers",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 305185
+      "UsersEstimate": 305186
     },
     {
       "ID": "TheStar",
@@ -24687,7 +24692,7 @@
       "Name": "The World",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 156952
+      "UsersEstimate": 156953
     },
     {
       "ID": "ThisIsPacifica",
@@ -24711,7 +24716,7 @@
       "Name": "True Soldier",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 200550
+      "UsersEstimate": 200551
     },
     {
       "ID": "TrueWarrior",
@@ -24766,21 +24771,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 871958,
+      "Progressed": 871960,
       "Completed": 2000
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 581,
-      "Completed": 581
+      "Progressed": 583,
+      "Completed": 583
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-08-21T21:00:26.383809+00:00",
-  "LastChanged_Achievements": "2023-08-21T23:06:21.065799+00:00",
+  "LastChanged_Achievements": "2023-08-22T00:06:07.6254133+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:56.8976844+00:00",
-  "LastUpdate_Ratings": "2023-08-21T23:00:32.4838129+00:00",
-  "LastUpdate_Achievements": "2023-08-21T23:06:21.0659155+00:00"
+  "LastUpdate_Ratings": "2023-08-22T00:00:11.1312172+00:00",
+  "LastUpdate_Achievements": "2023-08-22T00:06:07.6255097+00:00"
 }

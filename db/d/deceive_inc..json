@@ -2,13 +2,13 @@
   "ID": "eca9a86adffa4605b8250d383fc01098",
   "Name": "Deceive Inc.",
   "ProductSlug": "deceive-inc",
-  "Ranking_Rating": 427,
+  "Ranking_Rating": 426,
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 248,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17540,
+  "EOS_Progressed": 17541,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 165,
+  "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8766,6 +8766,11 @@
       "Time": "2023-08-21T23:06:05.8734148+00:00",
       "NumProgressed": 17540,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-22T00:05:42.4292714+00:00",
+      "NumProgressed": 17541,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -8865,7 +8870,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2806
+      "UsersEstimate": 2807
     },
     {
       "ID": "0013",
@@ -8929,7 +8934,7 @@
       "Name": "Dr. No Kill",
       "Percentage": 11,
       "XP": 115,
-      "UsersEstimate": 1929
+      "UsersEstimate": 1930
     },
     {
       "ID": "0021",
@@ -8985,7 +8990,7 @@
       "Name": "My Motto, My Creed",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1929
+      "UsersEstimate": 1930
     },
     {
       "ID": "0028",
@@ -9064,7 +9069,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17540,
+      "Progressed": 17541,
       "Completed": 1
     }
   ],
@@ -9072,8 +9077,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-12T19:04:41.1874293+00:00",
-  "LastChanged_Achievements": "2023-08-21T23:06:05.873414+00:00",
+  "LastChanged_Achievements": "2023-08-22T00:05:42.4292708+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:28.6624095+00:00",
-  "LastUpdate_Ratings": "2023-08-21T22:57:35.987049+00:00",
-  "LastUpdate_Achievements": "2023-08-21T23:06:05.873492+00:00"
+  "LastUpdate_Ratings": "2023-08-21T23:57:17.4930256+00:00",
+  "LastUpdate_Achievements": "2023-08-22T00:05:42.4293309+00:00"
 }

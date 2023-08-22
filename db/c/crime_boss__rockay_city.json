@@ -4,10 +4,10 @@
   "ProductSlug": "crime-boss",
   "Ranking_Rating": 947,
   "Ranking_Popularity": 216,
-  "Ranking_PopularitySum": 203,
+  "Ranking_PopularitySum": 204,
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 95,
+  "Ranking_EOS_NewPlayers": 94,
   "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -3102,9 +3102,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 72159,
+  "EOS_Progressed": 72160,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 328,
+  "EOS_NewPlayers": 327,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -15987,6 +15987,11 @@
       "Time": "2023-08-21T22:07:54.9701214+00:00",
       "NumProgressed": 72159,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-08-22T00:07:16.8235977+00:00",
+      "NumProgressed": 72160,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 37,
@@ -16014,7 +16019,7 @@
       "Name": "Roid Ranger",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 15153
+      "UsersEstimate": 15154
     },
     {
       "ID": "ACH_0013",
@@ -16142,7 +16147,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 46903
+      "UsersEstimate": 46904
     },
     {
       "ID": "ACH_0210",
@@ -16166,7 +16171,7 @@
       "Name": "Too Old for This",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 34636
+      "UsersEstimate": 34637
     },
     {
       "ID": "ACH_0300",
@@ -16286,29 +16291,29 @@
       "Name": "Rockay Rex",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 7937
+      "UsersEstimate": 7938
     }
   ],
   "AchievementSets": [
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 72159,
+      "Progressed": 72160,
       "Completed": 41
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 506,
-      "Completed": 506
+      "Progressed": 507,
+      "Completed": 507
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-08-21T16:57:45.1807304+00:00",
-  "LastChanged_Achievements": "2023-08-21T23:07:30.7598902+00:00",
+  "LastChanged_Achievements": "2023-08-22T00:07:16.8235972+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:48.5211502+00:00",
-  "LastUpdate_Ratings": "2023-08-21T22:57:55.8145893+00:00",
-  "LastUpdate_Achievements": "2023-08-21T23:07:30.7599837+00:00"
+  "LastUpdate_Ratings": "2023-08-21T23:57:37.1851532+00:00",
+  "LastUpdate_Achievements": "2023-08-22T00:07:16.8236789+00:00"
 }

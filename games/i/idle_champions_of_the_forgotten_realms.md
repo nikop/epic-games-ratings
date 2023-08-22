@@ -26,7 +26,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beast Mode | 0.20% | ~448 |
 | Terror in the Dark | 0.20% | ~448 |
 | A Mysterious Summons | 0.20% | ~448 |
-| Street War | 0.20% | ~448 |
 | Building Trust | 0.20% | ~448 |
 | Unearthed Evil | 0.20% | ~448 |
 | The Mists of Ravenloft | 0.20% | ~448 |
@@ -181,6 +180,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Double Vision | 0.10% | ~224 |
 | Underground Railroad | 0.10% | ~224 |
 | Low Initiative | 0.10% | ~224 |
+| Street War | 0.10% | ~224 |
 | Force Grey Unleashed | 0.10% | ~224 |
 | Vajra's Guards | 0.10% | ~224 |
 | March of the Undead | 0.10% | ~224 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~190 |
 | Animated Giff | 0.10% | ~190 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 223,996 (Ranked 53)  
+Progressed: 224,008 (Ranked 53)  
 Completed: 2,203 (0.98%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -647,6 +647,7 @@ Completed: 2,203 (0.98%) (Ranked 120)
 | 2023-08-19 | 223,443 | 2,193 |
 | 2023-08-20 | 223,729 | 2,196 |
 | 2023-08-21 | 223,996 | 2,203 |
+| 2023-08-22 | 224,008 | 2,203 |
 ## Awards
 Max (Diverse Characters): 5,176  (Ranked 68)  
 Sum: 31,155 (Ranked 38)  

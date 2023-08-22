@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -2498,9 +2498,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 67964,
+  "EOS_Progressed": 67965,
   "EOS_Completed": 108,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -12913,6 +12913,11 @@
       "Time": "2023-08-21T22:07:45.9071203+00:00",
       "NumProgressed": 67964,
       "NumCompleted": 108
+    },
+    {
+      "Time": "2023-08-22T00:07:09.6065634+00:00",
+      "NumProgressed": 67965,
+      "NumCompleted": 108
     }
   ],
   "TotalAchievements": 61,
@@ -13028,7 +13033,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 14272
+      "UsersEstimate": 14273
     },
     {
       "ID": "CLAYFACE_2",
@@ -13068,7 +13073,7 @@
       "Name": "Fusion Expert",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 4757
+      "UsersEstimate": 4758
     },
     {
       "ID": "CRIME_FIGHTER_1",
@@ -13228,7 +13233,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 23787
+      "UsersEstimate": 23788
     },
     {
       "ID": "HARLEY_2",
@@ -13300,7 +13305,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 18350
+      "UsersEstimate": 18351
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -13411,13 +13416,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 67964,
+      "Progressed": 67965,
       "Completed": 108
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 38244,
+      "Progressed": 38245,
       "Completed": 2658
     }
   ],
@@ -13425,8 +13430,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-08-20T14:57:30.6977519+00:00",
-  "LastChanged_Achievements": "2023-08-21T23:07:23.3968619+00:00",
+  "LastChanged_Achievements": "2023-08-22T00:07:09.606563+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:36.1459925+00:00",
-  "LastUpdate_Ratings": "2023-08-21T22:57:46.0780163+00:00",
-  "LastUpdate_Achievements": "2023-08-21T23:07:23.3969815+00:00"
+  "LastUpdate_Ratings": "2023-08-21T23:57:25.321155+00:00",
+  "LastUpdate_Achievements": "2023-08-22T00:07:09.6066581+00:00"
 }

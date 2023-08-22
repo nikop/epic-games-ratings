@@ -1,7 +1,7 @@
 # Tom Clancy's The Division
 [Store](https://store.epicgames.com/en-US/p/the-division)  
 [View Rawdata](../../db/t/tom_clancy's_the_division.json)  
-Rating: 4.59 (Ranked 414)  
+Rating: 4.58 (Ranked 426)  
 Number of Ratings: 247  (23.09.2022)  
 ## Awards
 Max (Character Customization): 317  (Ranked 234)  
@@ -205,3 +205,4 @@ Diff (max vs sum): -29
 | 2023-08-15 | 4.59 | - | 314 | 781 |
 | 2023-08-18 | 4.59 | - | 315 | 785 |
 | 2023-08-19 | 4.59 | - | 317 | 789 |
+| 2023-08-21 | 4.58 | - | 317 | 789 |
