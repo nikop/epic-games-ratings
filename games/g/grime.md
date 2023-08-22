@@ -1,28 +1,28 @@
 # GRIME
 [Store](https://store.epicgames.com/en-US/p/grime)  
 [View Rawdata](../../db/g/grime.json)  
-Rating: 4.59 (Ranked 414)  
+Rating: 4.59 (Ranked 413)  
 Number of Ratings: 46  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Imprint | 88.00% | ~124,076 |
-| Taste | 84.00% | ~118,437 |
-| The Hunt | 66.00% | ~93,057 |
-| Ravenous | 63.00% | ~88,827 |
-| Weeper | 43.00% | ~60,628 |
-| Devourer | 22.00% | ~31,019 |
-| Harmless | 19.00% | ~26,789 |
-| Silenced Whispers | 19.00% | ~26,789 |
-| Sharpened Vessel | 16.00% | ~22,559 |
-| Yank | 15.00% | ~21,149 |
-| Scion | 12.00% | ~16,869 |
+| Imprint | 88.00% | ~124,084 |
+| Taste | 84.00% | ~118,443 |
+| The Hunt | 66.00% | ~93,063 |
+| Ravenous | 63.00% | ~88,833 |
+| Weeper | 43.00% | ~60,632 |
+| Devourer | 22.00% | ~31,021 |
+| Harmless | 19.00% | ~26,791 |
+| Silenced Whispers | 19.00% | ~26,791 |
+| Sharpened Vessel | 16.00% | ~22,561 |
+| Yank | 15.00% | ~21,151 |
+| Scion | 12.00% | ~16,870 |
 | Jawcrab | 12.00% | ~16,920 |
 | Feast | 12.00% | ~16,920 |
 | Jawstag | 11.00% | ~15,510 |
 | Watcher | 10.00% | ~14,100 |
 | Shapely | 8.00% | ~11,280 |
-| Glare | 8.00% | ~11,246 |
+| Glare | 8.00% | ~11,247 |
 | Predator | 8.00% | ~11,280 |
 | Assimilation | 6.00% | ~8,460 |
 | Host | 6.00% | ~8,435 |
@@ -49,7 +49,7 @@ Number of Ratings: 46  (23.09.2022)
 | Instruments | 0.70% | ~987 |
 | Spiral Heart | 0.10% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 140,996 (Ranked 64)  
+Progressed: 141,004 (Ranked 64)  
 Completed: 1 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,7 +154,7 @@ Completed: 1 (0.00%) (Ranked 261)
 | 2023-08-19 | 140,039 | 1 |
 | 2023-08-20 | 140,550 | 1 |
 | 2023-08-21 | 140,918 | 1 |
-| 2023-08-22 | 140,996 | 1 |
+| 2023-08-22 | 141,004 | 1 |
 ## Awards
 Max (Highly Recommended): 27  (Ranked 470)  
 Sum: 114 (Ranked 412)  

@@ -2095,9 +2095,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 657113,
+  "EOS_Progressed": 657114,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 2437,
+  "EOS_NewPlayers": 2428,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15775,6 +15775,11 @@
       "Time": "2023-08-22T05:08:21.3348404+00:00",
       "NumProgressed": 657113,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-08-22T06:10:55.830574+00:00",
+      "NumProgressed": 657114,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 54,
@@ -15786,7 +15791,7 @@
       "Name": "The dream begins",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 525690
+      "UsersEstimate": 525691
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -16186,7 +16191,7 @@
       "Name": "Positive word of mouth",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 118280
+      "UsersEstimate": 118281
     },
     {
       "ID": "RP_TRUSTED",
@@ -16217,15 +16222,15 @@
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 657113,
+      "Progressed": 657114,
       "Completed": 15
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2023-08-15T01:38:55.4827972+00:00",
-  "LastChanged_Achievements": "2023-08-22T05:08:21.3348398+00:00",
+  "LastChanged_Achievements": "2023-08-22T06:10:55.8305736+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:59.9832143+00:00",
-  "LastUpdate_Ratings": "2023-08-22T05:01:49.7782705+00:00",
-  "LastUpdate_Achievements": "2023-08-22T05:08:21.3349777+00:00"
+  "LastUpdate_Ratings": "2023-08-22T06:03:17.6573864+00:00",
+  "LastUpdate_Achievements": "2023-08-22T06:10:55.830756+00:00"
 }

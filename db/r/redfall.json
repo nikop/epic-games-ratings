@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -2341,9 +2341,9 @@
       "ID": "Achievement_020",
       "SetID": "6b34g18",
       "Name": "Sic Transit Umbra",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "Achievement_021",
@@ -2373,9 +2373,9 @@
       "ID": "Achievement_024",
       "SetID": "6b34g18",
       "Name": "Good Morning",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "Achievement_025",
@@ -2734,8 +2734,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-08-08T16:59:16.4444629+00:00",
-  "LastChanged_Achievements": "2023-08-22T05:05:50.3281295+00:00",
+  "LastChanged_Achievements": "2023-08-22T06:08:11.5214701+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:46.9760776+00:00",
-  "LastUpdate_Ratings": "2023-08-22T05:01:31.3794128+00:00",
-  "LastUpdate_Achievements": "2023-08-22T05:05:50.3282814+00:00"
+  "LastUpdate_Ratings": "2023-08-22T06:02:56.3164807+00:00",
+  "LastUpdate_Achievements": "2023-08-22T06:08:11.521578+00:00"
 }

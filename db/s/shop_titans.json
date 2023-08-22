@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -5704,9 +5704,9 @@
       "Count": 3737
     }
   ],
-  "EOS_Progressed": 134918,
+  "EOS_Progressed": 134920,
   "EOS_Completed": 134,
-  "EOS_NewPlayers": 378,
+  "EOS_NewPlayers": 379,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -18374,6 +18374,11 @@
       "Time": "2023-08-22T05:08:24.5637297+00:00",
       "NumProgressed": 134918,
       "NumCompleted": 134
+    },
+    {
+      "Time": "2023-08-22T06:10:59.8738588+00:00",
+      "NumProgressed": 134920,
+      "NumCompleted": 134
     }
   ],
   "TotalAchievements": 112,
@@ -18775,9 +18780,9 @@
       "ID": "expansion03",
       "SetID": "anfd17p",
       "Name": "Thank You Tom Nook",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 270
     },
     {
       "ID": "fullmoon",
@@ -19047,9 +19052,9 @@
       "ID": "master02",
       "SetID": "anfd17p",
       "Name": "Natural 20",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 405
+      "UsersEstimate": 540
     },
     {
       "ID": "master03",
@@ -19280,15 +19285,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 134918,
+      "Progressed": 134920,
       "Completed": 134
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-08-22T01:42:35.0919291+00:00",
-  "LastChanged_Achievements": "2023-08-22T05:08:24.5637292+00:00",
+  "LastChanged_Achievements": "2023-08-22T06:10:59.8738582+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:50.7489496+00:00",
-  "LastUpdate_Ratings": "2023-08-22T05:02:46.452986+00:00",
-  "LastUpdate_Achievements": "2023-08-22T05:08:24.5639575+00:00"
+  "LastUpdate_Ratings": "2023-08-22T06:04:26.6796558+00:00",
+  "LastUpdate_Achievements": "2023-08-22T06:10:59.8742174+00:00"
 }

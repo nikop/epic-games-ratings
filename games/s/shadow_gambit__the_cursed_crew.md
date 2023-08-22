@@ -11,7 +11,7 @@
 | This Belongs in a Museum | 21.00% | ~87 |
 | The Gambit Has Begun | 16.00% | ~67 |
 | Powder Monkey | 12.00% | ~50 |
-| Fishy Fish | 10.00% | ~42 |
+| Fishy Fish | 11.00% | ~46 |
 | Somewhere Deep in the Lost Caribbean | 9.00% | ~37 |
 | Mirror Mirror on the Wall | 9.00% | ~37 |
 | Persistent Parasite | 8.00% | ~33 |

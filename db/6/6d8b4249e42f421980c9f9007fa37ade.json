@@ -563,9 +563,9 @@
       "ID": "Epic_GoldenCity_1",
       "SetID": "ba1m2fc",
       "Name": "Dystopia",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "Epic_GoldenCoins_10000000",
@@ -723,9 +723,9 @@
       "ID": "Epic_RustySickle_1",
       "SetID": "ba1m2fc",
       "Name": "Life Harvest",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "Epic_ShellBreaking_1",
@@ -826,8 +826,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-08-22T05:10:04.3685408+00:00",
+  "LastChanged_Achievements": "2023-08-22T06:12:09.4120272+00:00",
   "LastUpdate_AppInfo": "2023-08-17T07:57:28.3102259+00:00",
-  "LastUpdate_Ratings": "2023-08-22T05:00:12.0584068+00:00",
-  "LastUpdate_Achievements": "2023-08-22T05:10:04.3685879+00:00"
+  "LastUpdate_Ratings": "2023-08-22T06:01:06.3220478+00:00",
+  "LastUpdate_Achievements": "2023-08-22T06:12:09.4121265+00:00"
 }

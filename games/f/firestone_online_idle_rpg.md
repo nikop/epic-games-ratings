@@ -5,14 +5,14 @@ Rating: 4.05 (Ranked 925)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,708 |
-| World Map | 79.00% | ~1,451 |
+| Victor | 93.00% | ~1,709 |
+| World Map | 79.00% | ~1,452 |
 | Temple of Eternals | 56.00% | ~1,029 |
 | Prestigious | 53.00% | ~974 |
-| Fellowship Power | 41.00% | ~753 |
-| Guild Power | 25.00% | ~459 |
+| Fellowship Power | 41.00% | ~754 |
+| Guild Power | 25.00% | ~460 |
 | Prestigious x10 | 22.00% | ~404 |
-| The game is on | 20.00% | ~367 |
+| The game is on | 20.00% | ~368 |
 | Exotic Merchant | 19.00% | ~349 |
 | Dragon Clicker | 17.00% | ~312 |
 | Miner Clicker | 17.00% | ~312 |
@@ -27,7 +27,7 @@ Rating: 4.05 (Ranked 925)
 | Natural Talent | 13.00% | ~239 |
 | Superior | 13.00% | ~239 |
 | The Unstoppable | 13.00% | ~239 |
-| Scientist | 12.00% | ~220 |
+| Scientist | 12.00% | ~221 |
 | Doing My Part | 11.00% | ~202 |
 | Hunter | 11.00% | ~202 |
 | Mastery | 11.00% | ~202 |
@@ -58,9 +58,9 @@ Rating: 4.05 (Ranked 925)
 | Active Member | 5.00% | ~92 |
 | Background Story | 5.00% | ~92 |
 | The Alchemist | 5.00% | ~92 |
-| Arena Challenger | 4.00% | ~73 |
-| Ebony Jungle Liberator | 4.00% | ~73 |
-| Legendary | 4.00% | ~73 |
+| Arena Challenger | 4.00% | ~74 |
+| Ebony Jungle Liberator | 4.00% | ~74 |
+| Legendary | 4.00% | ~74 |
 | What lies behind the bush | 3.00% | ~55 |
 | Gear Enchanting | 2.00% | ~37 |
 | Mythic Power | 2.00% | ~37 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 925)
 | Silverwood liberator | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,837 (Ranked 173)  
+Progressed: 1,838 (Ranked 173)  
 Completed: 2 (0.11%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,6 +204,7 @@ Completed: 2 (0.11%) (Ranked 206)
 | 2023-08-19 | 1,822 | 2 |
 | 2023-08-20 | 1,829 | 2 |
 | 2023-08-21 | 1,837 | 2 |
+| 2023-08-22 | 1,838 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

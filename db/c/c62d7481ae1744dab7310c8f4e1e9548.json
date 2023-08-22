@@ -4,8 +4,8 @@
   "ProductSlug": "samorost-3-0c4489",
   "Ranking_EOS_Progress": 363,
   "Ranking_EOS_Completed": 47,
-  "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2016-03-24T11:00:00+00:00",
@@ -319,9 +319,9 @@
       "ID": "Cikady",
       "SetID": "ag48e8e",
       "Name": "Cicadas",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Destilat",
@@ -558,8 +558,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-08-22T05:06:52.6056935+00:00",
+  "LastChanged_Achievements": "2023-08-22T06:09:24.2302816+00:00",
   "LastUpdate_AppInfo": "2023-08-18T16:57:06.9691951+00:00",
-  "LastUpdate_Ratings": "2023-08-22T04:59:41.4123351+00:00",
-  "LastUpdate_Achievements": "2023-08-22T05:06:52.6057346+00:00"
+  "LastUpdate_Ratings": "2023-08-22T06:00:20.0785747+00:00",
+  "LastUpdate_Achievements": "2023-08-22T06:09:24.2303073+00:00"
 }
