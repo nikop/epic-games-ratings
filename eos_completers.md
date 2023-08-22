@@ -31,7 +31,7 @@
 | 29 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.52% |
 | 30 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.30% |
 | 31 | [Sonic Origins](games/s/sonic_origins.md) | 9.29% |
-| 32 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.06% |
+| 32 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.05% |
 | 33 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.48% |
 | 34 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.11% |
 | 35 | [Ravenlok](games/r/ravenlok.md) | 7.51% |
@@ -50,7 +50,7 @@
 | 47 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.36% |
 | 49 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.33% |
 | 50 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.13% |
-| 51 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.91% |
+| 51 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.90% |
 | 52 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.79% |
 | 53 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 4.76% |
 | 54 | [Bugsnax](games/b/bugsnax.md) | 4.72% |
@@ -62,7 +62,7 @@
 | 60 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.11% |
 | 61 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.92% |
 | 62 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 3.91% |
-| 63 | [ZZT!](games/z/zzt!.md) | 3.88% |
+| 63 | [ZZT!](games/z/zzt!.md) | 3.87% |
 | 64 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 65 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.63% |
 | 66 | [Without Escape](games/w/without_escape.md) | 3.57% |
@@ -278,6 +278,7 @@
 | 261 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 0.00% |
 | 261 | [Battle Ram](games/b/battle_ram.md) | 0.00% |
 | 261 | [Biped](games/b/biped.md) | 0.00% |
+| 261 | [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 0.00% |
 | 261 | [Blood of Titans](games/6/6c2272d1b5f64cb483a3c1088021b39a.md) | 0.00% |
 | 261 | [BloodRayne 2: Terminal Cut](games/b/bloodrayne_2__terminal_cut.md) | 0.00% |
 | 261 | [BloodRayne Betrayal Fresh Bites](games/b/bloodrayne_betrayal_fresh_bites.md) | 0.00% |
