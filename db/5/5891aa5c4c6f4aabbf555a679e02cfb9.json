@@ -2,10 +2,10 @@
   "ID": "5891aa5c4c6f4aabbf555a679e02cfb9",
   "Name": "The Evil Within 2",
   "ProductSlug": "the-evil-within-2",
-  "Ranking_EOS_Progress": 367,
+  "Ranking_EOS_Progress": 365,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 217,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
     "PcReleaseDate": "2017-10-12T00:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 53,
+  "EOS_Progressed": 54,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -262,6 +262,11 @@
       "Time": "2023-08-21T14:05:58.345911+00:00",
       "NumProgressed": 53,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-22T13:10:32.3211182+00:00",
+      "NumProgressed": 54,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T16:01:14.4921824+00:00",
@@ -272,7 +277,7 @@
       "ID": "ACHIEVEMENT_01",
       "SetID": "b36c5kb",
       "Name": "Rookie",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -304,7 +309,7 @@
       "ID": "ACHIEVEMENT_05",
       "SetID": "b36c5kb",
       "Name": "Welcome to Union",
-      "Percentage": 83,
+      "Percentage": 81,
       "XP": 5,
       "UsersEstimate": 44
     },
@@ -312,7 +317,7 @@
       "ID": "ACHIEVEMENT_06",
       "SetID": "b36c5kb",
       "Name": "Taken",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 10,
       "UsersEstimate": 21
     },
@@ -320,7 +325,7 @@
       "ID": "ACHIEVEMENT_07",
       "SetID": "b36c5kb",
       "Name": "Not Running This Time",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 15,
       "UsersEstimate": 17
     },
@@ -344,7 +349,7 @@
       "ID": "ACHIEVEMENT_10",
       "SetID": "b36c5kb",
       "Name": "Another Ally",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 11
     },
@@ -352,7 +357,7 @@
       "ID": "ACHIEVEMENT_11",
       "SetID": "b36c5kb",
       "Name": "Crossing to the Other Side",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 15,
       "UsersEstimate": 11
     },
@@ -360,7 +365,7 @@
       "ID": "ACHIEVEMENT_12",
       "SetID": "b36c5kb",
       "Name": "Spiritual Awakening",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 11
     },
@@ -392,7 +397,7 @@
       "ID": "ACHIEVEMENT_16",
       "SetID": "b36c5kb",
       "Name": "Unfortunate Consequence",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -400,7 +405,7 @@
       "ID": "ACHIEVEMENT_17",
       "SetID": "b36c5kb",
       "Name": "Backup Ain\u0027t Coming",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 15,
       "UsersEstimate": 19
     },
@@ -424,7 +429,7 @@
       "ID": "ACHIEVEMENT_20",
       "SetID": "b36c5kb",
       "Name": "You Got Red in You",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
       "UsersEstimate": 13
     },
@@ -440,7 +445,7 @@
       "ID": "ACHIEVEMENT_22",
       "SetID": "b36c5kb",
       "Name": "Making Things a Little Easier",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 10,
       "UsersEstimate": 21
     },
@@ -448,7 +453,7 @@
       "ID": "ACHIEVEMENT_23",
       "SetID": "b36c5kb",
       "Name": "Now You\u0027re Playing with Power",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 20,
       "UsersEstimate": 12
     },
@@ -472,7 +477,7 @@
       "ID": "ACHIEVEMENT_26",
       "SetID": "b36c5kb",
       "Name": "DIY",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 10,
       "UsersEstimate": 36
     },
@@ -528,7 +533,7 @@
       "ID": "ACHIEVEMENT_33",
       "SetID": "b36c5kb",
       "Name": "Good to See You Again",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 10,
       "UsersEstimate": 28
     },
@@ -560,7 +565,7 @@
       "ID": "ACHIEVEMENT_37",
       "SetID": "b36c5kb",
       "Name": "Caffeine Addict",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -600,7 +605,7 @@
       "ID": "ACHIEVEMENT_42",
       "SetID": "b36c5kb",
       "Name": "Wait For It...",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -656,7 +661,7 @@
       "ID": "ACHIEVEMENT_49",
       "SetID": "b36c5kb",
       "Name": "Melancholy Memories",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -681,14 +686,14 @@
     {
       "ID": "b36c5kb",
       "IsBase": true,
-      "Progressed": 53,
+      "Progressed": 54,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-08-22T12:05:55.2669209+00:00",
+  "LastChanged_Achievements": "2023-08-22T13:10:32.3211176+00:00",
   "LastUpdate_AppInfo": "2023-08-16T16:57:24.779676+00:00",
-  "LastUpdate_Ratings": "2023-08-22T11:58:45.6065575+00:00",
-  "LastUpdate_Achievements": "2023-08-22T12:05:55.2669735+00:00"
+  "LastUpdate_Ratings": "2023-08-22T13:03:14.5221636+00:00",
+  "LastUpdate_Achievements": "2023-08-22T13:10:32.3211788+00:00"
 }

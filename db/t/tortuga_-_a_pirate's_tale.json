@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
     "PcReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -236,9 +236,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16116,
+  "EOS_Progressed": 16117,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4061,6 +4061,11 @@
       "Time": "2023-08-22T08:11:21.7262588+00:00",
       "NumProgressed": 16116,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-22T13:12:26.2263883+00:00",
+      "NumProgressed": 16117,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -4072,7 +4077,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 15310
+      "UsersEstimate": 15311
     },
     {
       "ID": "ACH001",
@@ -4080,7 +4085,7 @@
       "Name": "Personal Matter",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 13860
+      "UsersEstimate": 13861
     },
     {
       "ID": "ACH0010",
@@ -4096,7 +4101,7 @@
       "Name": "After All, Why Shouldn\u0027t I Keep It?",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "ACH0012",
@@ -4192,7 +4197,7 @@
       "Name": "House Party!",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 5479
+      "UsersEstimate": 5480
     },
     {
       "ID": "ACH0023",
@@ -4232,7 +4237,7 @@
       "Name": "No Half Measures",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 14182
+      "UsersEstimate": 14183
     },
     {
       "ID": "ACH005",
@@ -4279,7 +4284,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 16116,
+      "Progressed": 16117,
       "Completed": 0
     }
   ],
@@ -4287,8 +4292,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-08-03T01:53:52.0652569+00:00",
-  "LastChanged_Achievements": "2023-08-22T12:07:48.4376467+00:00",
+  "LastChanged_Achievements": "2023-08-22T13:12:26.2263876+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:19.3209063+00:00",
-  "LastUpdate_Ratings": "2023-08-22T11:58:07.9306685+00:00",
-  "LastUpdate_Achievements": "2023-08-22T12:07:48.4377254+00:00"
+  "LastUpdate_Ratings": "2023-08-22T13:02:38.4088756+00:00",
+  "LastUpdate_Achievements": "2023-08-22T13:12:26.2264351+00:00"
 }

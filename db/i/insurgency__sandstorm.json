@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 38,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 32,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-02-10T17:00:00+00:00",
     "PcReleaseDate": "2018-12-12T12:21:00+00:00",
@@ -3103,9 +3103,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 435314,
+  "EOS_Progressed": 435324,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2496,
+  "EOS_NewPlayers": 2485,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16803,6 +16803,11 @@
       "Time": "2023-08-22T12:03:19.5915429+00:00",
       "NumProgressed": 435314,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-22T13:07:56.3917825+00:00",
+      "NumProgressed": 435324,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -16942,7 +16947,7 @@
       "Name": "Lucky",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 13059
+      "UsersEstimate": 13060
     },
     {
       "ID": "ACH_MOUNT_AND_GUN",
@@ -17046,7 +17051,7 @@
       "Name": "Stylin\u0027",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 13059
+      "UsersEstimate": 13060
     },
     {
       "ID": "ACH_THANKS_STATION",
@@ -17070,7 +17075,7 @@
       "Name": "Turf War",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 13059
+      "UsersEstimate": 13060
     },
     {
       "ID": "ACH_WALLBANGER",
@@ -17093,15 +17098,15 @@
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 435314,
+      "Progressed": 435324,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-08-22T12:00:56.8514426+00:00",
-  "LastChanged_Achievements": "2023-08-22T12:03:19.5915424+00:00",
+  "LastChanged_Achievements": "2023-08-22T13:07:56.3917819+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:00.8075845+00:00",
-  "LastUpdate_Ratings": "2023-08-22T12:00:56.8514433+00:00",
-  "LastUpdate_Achievements": "2023-08-22T12:03:19.5917016+00:00"
+  "LastUpdate_Ratings": "2023-08-22T13:05:34.3545819+00:00",
+  "LastUpdate_Achievements": "2023-08-22T13:07:56.3919042+00:00"
 }

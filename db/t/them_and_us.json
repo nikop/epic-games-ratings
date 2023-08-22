@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 149,
   "Ranking_EOS_NewPlayers": 282,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
     "PcReleaseDate": "2021-09-28T16:00:00+00:00",
@@ -1182,9 +1182,9 @@
       "ID": "ETUA_ThisMansionIsClean",
       "SetID": "65jc0ap",
       "Name": "This Mansion Is Clean",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "ETUA_Thiswillbealongnight",
@@ -1231,8 +1231,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-08-22T12:06:25.8015269+00:00",
+  "LastChanged_Achievements": "2023-08-22T13:11:02.8607779+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:40.8025886+00:00",
-  "LastUpdate_Ratings": "2023-08-22T11:59:46.0452718+00:00",
-  "LastUpdate_Achievements": "2023-08-22T12:06:25.8015641+00:00"
+  "LastUpdate_Ratings": "2023-08-22T13:04:13.6518912+00:00",
+  "LastUpdate_Achievements": "2023-08-22T13:11:02.860825+00:00"
 }

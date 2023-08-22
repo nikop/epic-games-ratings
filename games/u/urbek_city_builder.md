@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Small town | 66.00% | ~210 |
+| Small town | 66.00% | ~211 |
 | I like parks | 54.00% | ~172 |
 | It is nice to share with friends in the city | 27.00% | ~86 |
 | Sport is good for you | 26.00% | ~83 |
-| The spiritual world... | 24.00% | ~76 |
+| The spiritual world... | 24.00% | ~77 |
 | The woodcutter | 23.00% | ~73 |
 | I like my life | 20.00% | ~64 |
-| I like books | 19.00% | ~60 |
+| I like books | 19.00% | ~61 |
 | Soviet town | 18.00% | ~57 |
 | Clean energy | 17.00% | ~54 |
 | Bucolic city | 14.00% | ~45 |
-| King of fish | 8.00% | ~25 |
-| I love parks | 8.00% | ~25 |
+| King of fish | 8.00% | ~26 |
+| I love parks | 8.00% | ~26 |
 | I love books! | 7.00% | ~22 |
 | What would we do if we can't go out with friends? | 6.00% | ~19 |
 | Food producer | 4.00% | ~13 |
@@ -84,7 +84,7 @@
 | Everyone should always do sport! | 0.00% | ~0 |
 | Rainforest master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 318 (Ranked 259)  
+Progressed: 319 (Ranked 259)  
 Completed: 0 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,6 +178,7 @@ Completed: 0 (0.00%) (Ranked 261)
 | 2023-08-17 | 316 | 0 |
 | 2023-08-20 | 317 | 0 |
 | 2023-08-21 | 318 | 0 |
+| 2023-08-22 | 319 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

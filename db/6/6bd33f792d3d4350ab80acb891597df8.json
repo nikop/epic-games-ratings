@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 373,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2022-12-23T00:00:00+00:00",
@@ -309,9 +309,9 @@
       "ID": "CgkIxYDzrbcPEAIQBA",
       "SetID": "4egpam7",
       "Name": "Devil\u0027s Bargain",
-      "Percentage": 63,
+      "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "CgkIxYDzrbcPEAIQBQ",
@@ -532,8 +532,8 @@
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2023-08-22T12:08:12.8281458+00:00",
+  "LastChanged_Achievements": "2023-08-22T13:12:50.1996334+00:00",
   "LastUpdate_AppInfo": "2023-08-15T14:57:10.6397592+00:00",
-  "LastUpdate_Ratings": "2023-08-22T11:59:36.0587334+00:00",
-  "LastUpdate_Achievements": "2023-08-22T12:08:12.8281708+00:00"
+  "LastUpdate_Ratings": "2023-08-22T13:04:02.762417+00:00",
+  "LastUpdate_Achievements": "2023-08-22T13:12:50.1996587+00:00"
 }

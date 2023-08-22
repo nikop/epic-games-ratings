@@ -3,9 +3,9 @@
   "Name": "Evalina The Sorceress",
   "ProductSlug": "evalinathe-sorceress-a9a60a",
   "Ranking_EOS_Progress": 315,
-  "Ranking_EOS_Completed": 64,
+  "Ranking_EOS_Completed": 56,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-06-20T08:00:00+00:00",
     "PcReleaseDate": "2023-06-28T22:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 131,
-  "EOS_Completed": 5,
+  "EOS_Completed": 6,
   "EOS_NewPlayers": 67,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.82,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 4.58,
   "EosHistory": [
     {
       "Time": "2023-06-26T21:03:11.1861868+00:00",
@@ -591,6 +591,11 @@
       "Time": "2023-08-22T12:02:58.4871224+00:00",
       "NumProgressed": 131,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-22T13:07:34.4153502+00:00",
+      "NumProgressed": 131,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-06-26T21:03:11.1861911+00:00",
@@ -601,9 +606,9 @@
       "ID": "BlackSkeleton",
       "SetID": "a76l54k",
       "Name": "Black Skeleton",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "BlueSkeleton",
@@ -651,13 +656,13 @@
       "ID": "a76l54k",
       "IsBase": true,
       "Progressed": 131,
-      "Completed": 5
+      "Completed": 6
     }
   ],
   "FirstSeen": "2023-06-27T08:56:55.4742028+00:00",
   "FirstSeenAchievements": "2023-06-15T10:01:05.3060571+00:00",
-  "LastChanged_Achievements": "2023-08-22T12:02:58.4871219+00:00",
+  "LastChanged_Achievements": "2023-08-22T13:07:34.4153495+00:00",
   "LastUpdate_AppInfo": "2023-08-17T16:57:04.8692302+00:00",
-  "LastUpdate_Ratings": "2023-08-22T11:59:15.9759405+00:00",
-  "LastUpdate_Achievements": "2023-08-22T12:02:58.4871624+00:00"
+  "LastUpdate_Ratings": "2023-08-22T13:03:44.8778066+00:00",
+  "LastUpdate_Achievements": "2023-08-22T13:07:34.4153928+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 248,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17548,
+  "EOS_Progressed": 17550,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 161,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8791,6 +8791,11 @@
       "Time": "2023-08-22T12:06:42.4514332+00:00",
       "NumProgressed": 17548,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-22T13:11:19.2228796+00:00",
+      "NumProgressed": 17550,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -8802,7 +8807,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5089
+      "UsersEstimate": 5090
     },
     {
       "ID": "0002",
@@ -8810,7 +8815,7 @@
       "Name": "License to Thrill",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 877
+      "UsersEstimate": 878
     },
     {
       "ID": "0003",
@@ -8818,7 +8823,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2983
+      "UsersEstimate": 2984
     },
     {
       "ID": "0004",
@@ -8906,7 +8911,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2983
+      "UsersEstimate": 2984
     },
     {
       "ID": "0015",
@@ -8914,7 +8919,7 @@
       "Name": "The terminals are not enough",
       "Percentage": 1,
       "XP": 115,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "0016",
@@ -8946,7 +8951,7 @@
       "Name": "Lose Another Day",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "0020",
@@ -9026,7 +9031,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2281
+      "UsersEstimate": 2282
     },
     {
       "ID": "0030",
@@ -9089,7 +9094,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17548,
+      "Progressed": 17550,
       "Completed": 1
     }
   ],
@@ -9097,8 +9102,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-12T19:04:41.1874293+00:00",
-  "LastChanged_Achievements": "2023-08-22T12:06:42.4514327+00:00",
+  "LastChanged_Achievements": "2023-08-22T13:11:19.222879+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:28.6624095+00:00",
-  "LastUpdate_Ratings": "2023-08-22T11:57:26.5445117+00:00",
-  "LastUpdate_Achievements": "2023-08-22T12:06:42.4515199+00:00"
+  "LastUpdate_Ratings": "2023-08-22T13:01:54.9817433+00:00",
+  "LastUpdate_Achievements": "2023-08-22T13:11:19.2230128+00:00"
 }

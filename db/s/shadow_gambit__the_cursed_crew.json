@@ -2,10 +2,10 @@
   "ID": "42b8b899a3f349bd8376264ccee3cd2a",
   "Name": "Shadow Gambit: The Cursed Crew",
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
-  "Ranking_EOS_Progress": 237,
+  "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 423,
+  "EOS_Progressed": 427,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 395,
+  "EOS_NewPlayers": 399,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -721,6 +721,11 @@
       "Time": "2023-08-22T11:03:44.1868875+00:00",
       "NumProgressed": 423,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-22T13:09:14.6848659+00:00",
+      "NumProgressed": 427,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -739,9 +744,9 @@
       "ID": "_02_FinishFirstMission",
       "SetID": "8a1io5d",
       "Name": "A New Journey",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 309
+      "UsersEstimate": 307
     },
     {
       "ID": "_03_FinishAct1",
@@ -749,7 +754,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 209
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -757,31 +762,31 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "_05_FinishAct2",
       "SetID": "8a1io5d",
       "Name": "The Gambit Has Begun",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 72
+      "UsersEstimate": 68
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
       "SetID": "8a1io5d",
       "Name": "Mirror Mirror on the Wall",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 43
     },
     {
       "ID": "_07_FinishAct3",
       "SetID": "8a1io5d",
       "Name": "All Good Things",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 13
     },
     {
       "ID": "_08_Completion_10",
@@ -789,7 +794,7 @@
       "Name": "Swabbie",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "_09_Completion_20",
@@ -821,7 +826,7 @@
       "Name": "Privateer",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "_13_Completion_60",
@@ -829,7 +834,7 @@
       "Name": "Corsair",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "_14_Completion_70",
@@ -861,7 +866,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -885,7 +890,7 @@
       "Name": "Fishy Fish",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -893,7 +898,7 @@
       "Name": "Tobacco Travesty",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "_22_CrewTale_FSH",
@@ -901,7 +906,7 @@
       "Name": "Accursed Artifacts",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "_23_CrewTale_CNN",
@@ -940,14 +945,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 423,
+      "Progressed": 427,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-22T12:04:37.7719607+00:00",
+  "LastChanged_Achievements": "2023-08-22T13:09:14.6848653+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:01.7621403+00:00",
-  "LastUpdate_Ratings": "2023-08-22T12:00:57.6678585+00:00",
-  "LastUpdate_Achievements": "2023-08-22T12:04:37.7720181+00:00"
+  "LastUpdate_Ratings": "2023-08-22T13:05:35.1984691+00:00",
+  "LastUpdate_Achievements": "2023-08-22T13:09:14.6848958+00:00"
 }

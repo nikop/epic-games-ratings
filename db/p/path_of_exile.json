@@ -2,13 +2,13 @@
   "ID": "7ad5508d382e46228056f1d1a0189ae2",
   "Name": "Path of Exile",
   "ProductSlug": "path-of-exile",
-  "Ranking_Rating": 366,
+  "Ranking_Rating": 348,
   "Ranking_Popularity": 98,
   "Ranking_PopularitySum": 91,
   "Ranking_EOS_Progress": 553,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 347,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2020-09-16T15:00:00+00:00",
     "PcReleaseDate": "2013-10-23T15:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "KR,CN,TW,HK,MO"
     }
   },
-  "Rating": 4.61,
+  "Rating": 4.62,
   "NumberOfRatings": 3102,
   "RatingHistory": [
     {
@@ -4454,24 +4454,30 @@
       "Rating": 4.61,
       "NumberOfAwards": 9059,
       "NumberOfAwardsMax": 2565
+    },
+    {
+      "Time": "2023-08-22T13:03:39.5750236+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 9070,
+      "NumberOfAwardsMax": 2571
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9059,
-  "NumberOfAwardsMax": 2565,
+  "NumberOfAwards": 9070,
+  "NumberOfAwardsMax": 2571,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 2565
+      "Count": 2571
     },
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2210
+      "Count": 2215
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4551,8 +4557,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:56.6558117+00:00",
-  "LastChanged": "2023-08-21T13:59:14.0512745+00:00",
+  "LastChanged": "2023-08-22T13:03:39.5750234+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:35.9682359+00:00",
-  "LastUpdate_Ratings": "2023-08-22T11:59:11.7004929+00:00",
-  "LastUpdate_Achievements": "2023-08-22T12:04:37.2773708+00:00"
+  "LastUpdate_Ratings": "2023-08-22T13:03:39.5750242+00:00",
+  "LastUpdate_Achievements": "2023-08-22T13:09:14.0501476+00:00"
 }

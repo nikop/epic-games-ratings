@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 236,
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 241,
-  "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 91,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1277,9 +1277,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 126623,
+  "EOS_Progressed": 126624,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 371,
+  "EOS_NewPlayers": 367,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -13627,6 +13627,11 @@
       "Time": "2023-08-22T12:06:18.258279+00:00",
       "NumProgressed": 126623,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-08-22T13:10:55.1794449+00:00",
+      "NumProgressed": 126624,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 40,
@@ -13718,7 +13723,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 35454
+      "UsersEstimate": 35455
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -13774,7 +13779,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 18993
+      "UsersEstimate": 18994
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -13957,15 +13962,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 126623,
+      "Progressed": 126624,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-08-20T18:02:20.9401326+00:00",
-  "LastChanged_Achievements": "2023-08-22T12:06:18.2582785+00:00",
+  "LastChanged_Achievements": "2023-08-22T13:10:55.1794443+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:47.5856644+00:00",
-  "LastUpdate_Ratings": "2023-08-22T12:02:38.5645812+00:00",
-  "LastUpdate_Achievements": "2023-08-22T12:06:18.2584429+00:00"
+  "LastUpdate_Ratings": "2023-08-22T13:07:17.4740725+00:00",
+  "LastUpdate_Achievements": "2023-08-22T13:10:55.1795483+00:00"
 }

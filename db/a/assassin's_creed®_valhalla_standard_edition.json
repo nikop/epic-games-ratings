@@ -4,11 +4,11 @@
   "ProductSlug": "assassins-creed-valhalla",
   "Ranking_Rating": 391,
   "Ranking_Popularity": 28,
-  "Ranking_PopularitySum": 39,
+  "Ranking_PopularitySum": 38,
   "Ranking_EOS_Progress": 553,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 347,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2020-11-17T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -8494,10 +8494,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 31158,
       "NumberOfAwardsMax": 13319
+    },
+    {
+      "Time": "2023-08-22T13:05:06.1971505+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 31164,
+      "NumberOfAwardsMax": 13319
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 31158,
+  "NumberOfAwards": 31164,
   "NumberOfAwardsMax": 13319,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8529,7 +8535,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1094
+      "Count": 1100
     },
     {
       "Text": "This game is Relaxing",
@@ -8585,8 +8591,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:17.7160409+00:00",
-  "LastChanged": "2023-08-22T09:59:21.6456776+00:00",
+  "LastChanged": "2023-08-22T13:05:06.1971503+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:37.6188068+00:00",
-  "LastUpdate_Ratings": "2023-08-22T12:00:37.9217808+00:00",
-  "LastUpdate_Achievements": "2023-08-22T12:07:29.3938526+00:00"
+  "LastUpdate_Ratings": "2023-08-22T13:05:06.1971511+00:00",
+  "LastUpdate_Achievements": "2023-08-22T13:12:06.7882785+00:00"
 }

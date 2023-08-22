@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -2430,18 +2430,24 @@
       "Rating": 4.18,
       "NumberOfAwards": 4180,
       "NumberOfAwardsMax": 2510
+    },
+    {
+      "Time": "2023-08-22T13:02:06.809846+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4187,
+      "NumberOfAwardsMax": 2515
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4180,
-  "NumberOfAwardsMax": 2510,
+  "NumberOfAwards": 4187,
+  "NumberOfAwardsMax": 2515,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2510
+      "Count": 2515
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2477,7 +2483,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 214
+      "Count": 216
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2498,10 +2504,10 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 67971,
-  "EOS_Completed": 108,
-  "EOS_NewPlayers": 123,
-  "EOS_NewCompleters": 1,
+  "EOS_Progressed": 67972,
+  "EOS_Completed": 109,
+  "EOS_NewPlayers": 124,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
     {
@@ -12943,6 +12949,11 @@
       "Time": "2023-08-22T10:06:36.2963831+00:00",
       "NumProgressed": 67971,
       "NumCompleted": 108
+    },
+    {
+      "Time": "2023-08-22T13:12:52.0806259+00:00",
+      "NumProgressed": 67972,
+      "NumCompleted": 109
     }
   ],
   "TotalAchievements": 61,
@@ -13194,7 +13205,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 12914
+      "UsersEstimate": 12915
     },
     {
       "ID": "FREEZE_3",
@@ -13282,7 +13293,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 10875
+      "UsersEstimate": 10876
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -13441,22 +13452,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 67971,
-      "Completed": 108
+      "Progressed": 67972,
+      "Completed": 109
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 38251,
+      "Progressed": 38252,
       "Completed": 2658
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-08-20T14:57:30.6977519+00:00",
-  "LastChanged_Achievements": "2023-08-22T12:08:14.7060374+00:00",
+  "LastChanged": "2023-08-22T13:02:06.8098458+00:00",
+  "LastChanged_Achievements": "2023-08-22T13:12:52.080625+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:36.1459925+00:00",
-  "LastUpdate_Ratings": "2023-08-22T11:57:36.6632471+00:00",
-  "LastUpdate_Achievements": "2023-08-22T12:08:14.7061825+00:00"
+  "LastUpdate_Ratings": "2023-08-22T13:02:06.8098466+00:00",
+  "LastUpdate_Achievements": "2023-08-22T13:12:52.0807625+00:00"
 }

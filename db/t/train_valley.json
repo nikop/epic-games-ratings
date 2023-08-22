@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 153,
   "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
     "PcReleaseDate": "2015-09-16T00:00:00+00:00",
@@ -1007,9 +1007,9 @@
       "ID": "13_bunkrupt",
       "SetID": "chb1m60",
       "Name": "It\u0027s no coincidence.",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 128
+      "UsersEstimate": 133
     },
     {
       "ID": "14_woodcutter",
@@ -1231,8 +1231,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-08-15T19:59:30.756961+00:00",
-  "LastChanged_Achievements": "2023-08-22T12:07:18.1922687+00:00",
+  "LastChanged_Achievements": "2023-08-22T13:11:55.2957257+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:35.3683118+00:00",
-  "LastUpdate_Ratings": "2023-08-22T12:00:32.0159633+00:00",
-  "LastUpdate_Achievements": "2023-08-22T12:07:18.192337+00:00"
+  "LastUpdate_Ratings": "2023-08-22T13:05:01.1063771+00:00",
+  "LastUpdate_Achievements": "2023-08-22T13:11:55.2957809+00:00"
 }

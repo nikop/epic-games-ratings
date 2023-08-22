@@ -25,7 +25,7 @@
 | The Coward | 3.00% | ~14 |
 | Expert Storyteller | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 467 (Ranked 230)  
+Progressed: 467 (Ranked 231)  
 Completed: 6 (1.28%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |

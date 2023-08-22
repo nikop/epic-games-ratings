@@ -19,11 +19,11 @@ Rating: 4.18 (Ranked 873)
 | Working Hard or Harley Working? | 20.00% | ~13,594 |
 | Unstoppable Force | 20.00% | ~13,594 |
 | Bad Apples in Every Orchard | 20.00% | ~13,594 |
-| Snow Problem | 19.00% | ~12,914 |
+| Snow Problem | 19.00% | ~12,915 |
 | The Show Mud Go On | 18.00% | ~12,235 |
 | From Inside Gotham's Walls | 18.00% | ~12,235 |
 | Protector of Gotham | 17.00% | ~11,555 |
-| Universal Health Scare | 16.00% | ~10,875 |
+| Universal Health Scare | 16.00% | ~10,876 |
 | In Your Element | 15.00% | ~10,196 |
 | Voiceless | 15.00% | ~10,196 |
 | Rock and a Hard Place | 14.00% | ~9,516 |
@@ -67,8 +67,8 @@ Rating: 4.18 (Ranked 873)
 | Element of Surprise | 0.20% | ~77 |
 | It's Nice to Be Wanted | 0.20% | ~77 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,971 (Ranked 80)  
-Completed: 108 (0.16%) (Ranked 193)  
+Progressed: 67,972 (Ranked 80)  
+Completed: 109 (0.16%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -191,16 +191,16 @@ Completed: 108 (0.16%) (Ranked 193)
 | 2023-08-19 | 67,915 | 108 |
 | 2023-08-20 | 67,937 | 108 |
 | 2023-08-21 | 67,964 | 108 |
-| 2023-08-22 | 67,971 | 108 |
+| 2023-08-22 | 67,972 | 109 |
 ## Awards
-Max (Great Boss Battles): 2,510  (Ranked 100)  
-Sum: 4,180 (Ranked 139)  
+Max (Great Boss Battles): 2,515  (Ranked 100)  
+Sum: 4,187 (Ranked 139)  
 Diff (max vs sum): -39  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,510 |
+| This game has Great Boss Battles | 2,515 |
+| This game is Relaxing | 216 |
 | This game is Extremely Fun | 215 |
-| This game is Relaxing | 214 |
 | This game has Quickly Understood Controls | 213 |
 | This game has Diverse Characters | 208 |
 | This game has Amazing Characters | 207 |
@@ -390,3 +390,4 @@ Diff (max vs sum): -39
 | 2023-08-18 | 4.18 | 2,507 | 4,175 |
 | 2023-08-19 | 4.18 | 2,507 | 4,176 |
 | 2023-08-20 | 4.18 | 2,510 | 4,180 |
+| 2023-08-22 | 4.18 | 2,515 | 4,187 |
