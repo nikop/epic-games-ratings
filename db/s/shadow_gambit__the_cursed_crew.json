@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 431,
+  "EOS_Progressed": 432,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 403,
   "EOS_NewCompleters": 0,
@@ -741,6 +741,11 @@
       "Time": "2023-08-22T16:04:26.9928311+00:00",
       "NumProgressed": 431,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-22T17:04:23.4513793+00:00",
+      "NumProgressed": 432,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -751,9 +756,9 @@
       "ID": "_01_AllIslands",
       "SetID": "8a1io5d",
       "Name": "Somewhere Deep in the Lost Caribbean",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 39
+      "UsersEstimate": 43
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -769,7 +774,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -879,9 +884,9 @@
       "ID": "_17_UpgradeFirstCharacter",
       "SetID": "8a1io5d",
       "Name": "With Great Power\u2026",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 121
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -895,9 +900,9 @@
       "ID": "_19_CrewTale_BSP",
       "SetID": "8a1io5d",
       "Name": "Persistent Parasite",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 39
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -960,14 +965,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 431,
+      "Progressed": 432,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-22T16:04:26.9928306+00:00",
+  "LastChanged_Achievements": "2023-08-22T17:04:23.4513785+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:01.7621403+00:00",
-  "LastUpdate_Ratings": "2023-08-22T16:00:28.0690217+00:00",
-  "LastUpdate_Achievements": "2023-08-22T16:04:26.9928553+00:00"
+  "LastUpdate_Ratings": "2023-08-22T17:00:09.2348963+00:00",
+  "LastUpdate_Achievements": "2023-08-22T17:04:23.4514174+00:00"
 }

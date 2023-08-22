@@ -31,6 +31,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Mysterious Summons | 0.20% | ~448 |
 | Street War | 0.20% | ~448 |
 | Building Trust | 0.20% | ~448 |
+| Wisdom Check | 0.20% | ~448 |
 | Unearthed Evil | 0.20% | ~448 |
 | The Mists of Ravenloft | 0.20% | ~448 |
 | Family Entanglements | 0.20% | ~448 |
@@ -43,6 +44,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mad Cow Disease | 0.20% | ~448 |
 | Exploring Port Nyanzaru | 0.20% | ~448 |
 | A Tale of Two Cities | 0.20% | ~448 |
+| The Darkness Runs Deeper | 0.20% | ~448 |
 | Running of the Saurs | 0.20% | ~448 |
 | The Contagious Curse | 0.20% | ~448 |
 | Escort to Waterdeep | 0.20% | ~448 |
@@ -188,7 +190,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Force Grey Unleashed | 0.10% | ~224 |
 | Vajra's Guards | 0.10% | ~224 |
 | March of the Undead | 0.10% | ~224 |
-| Wisdom Check | 0.10% | ~224 |
 | Sleuth It Out | 0.10% | ~224 |
 | The Newcomers of Notoriety | 0.10% | ~190 |
 | A Grand Puzzle | 0.10% | ~224 |
@@ -312,7 +313,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | She's Harmless! | 0.10% | ~224 |
 | The Tallest of Kobolds | 0.10% | ~190 |
 | Patience is Key | 0.10% | ~224 |
-| The Darkness Runs Deeper | 0.10% | ~224 |
 | Troublesome Prisoner | 0.10% | ~224 |
 | Dark Doppelgangers | 0.10% | ~224 |
 | Faerûn's Most Wanted | 0.10% | ~190 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~190 |
 | Animated Giff | 0.10% | ~190 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,136 (Ranked 53)  
+Progressed: 224,146 (Ranked 53)  
 Completed: 2,207 (0.98%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -647,7 +647,7 @@ Completed: 2,207 (0.98%) (Ranked 120)
 | 2023-08-19 | 223,443 | 2,193 |
 | 2023-08-20 | 223,729 | 2,196 |
 | 2023-08-21 | 223,996 | 2,203 |
-| 2023-08-22 | 224,136 | 2,207 |
+| 2023-08-22 | 224,146 | 2,207 |
 ## Awards
 Max (Diverse Characters): 5,176  (Ranked 68)  
 Sum: 31,167 (Ranked 38)  

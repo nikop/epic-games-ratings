@@ -21,7 +21,7 @@
 | Hello, world! | 70.00% | ~184 |
 | No bullying more | 68.00% | ~179 |
 | Pal of your father? | 67.00% | ~176 |
-| Employee of the month | 65.00% | ~171 |
+| Employee of the month | 66.00% | ~174 |
 | Spirit of the past | 64.00% | ~168 |
 | Law student | 63.00% | ~166 |
 | Workout professional | 61.00% | ~160 |

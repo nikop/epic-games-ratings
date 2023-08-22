@@ -10,9 +10,9 @@
 | Study Session | 31.00% | ~98 |
 | Unlucky | 20.00% | ~63 |
 | Exam Practice | 13.00% | ~41 |
-| In The Honor Roll | 9.00% | ~28 |
+| In The Honor Roll | 9.00% | ~29 |
 | Byoing | 8.00% | ~25 |
-| 2nd Grade | 3.00% | ~9 |
+| 2nd Grade | 3.00% | ~10 |
 | Full House | 0.90% | ~3 |
 | 3rd Grade | 0.90% | ~3 |
 | "A" Student | 0.60% | ~2 |
@@ -24,7 +24,7 @@
 | Graduated | 0.00% | ~0 |
 | Librarian | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 316 (Ranked 260)  
+Progressed: 317 (Ranked 260)  
 Completed: 0 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -60,6 +60,7 @@ Completed: 0 (0.00%) (Ranked 261)
 | 2023-08-13 | 314 | 0 |
 | 2023-08-15 | 315 | 0 |
 | 2023-08-18 | 316 | 0 |
+| 2023-08-22 | 317 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

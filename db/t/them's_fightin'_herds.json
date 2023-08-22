@@ -226,9 +226,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 228518,
+  "EOS_Progressed": 228519,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 384,
+  "EOS_NewPlayers": 381,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13201,6 +13201,11 @@
       "Time": "2023-08-22T16:07:19.9288608+00:00",
       "NumProgressed": 228518,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-22T17:06:47.273465+00:00",
+      "NumProgressed": 228519,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -13276,7 +13281,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 82266
+      "UsersEstimate": 82267
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -13435,7 +13440,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 228518,
+      "Progressed": 228519,
       "Completed": 3
     }
   ],
@@ -13443,8 +13448,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-08-11T01:38:33.2125072+00:00",
-  "LastChanged_Achievements": "2023-08-22T16:07:19.9288602+00:00",
+  "LastChanged_Achievements": "2023-08-22T17:06:47.2734642+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:40.7595484+00:00",
-  "LastUpdate_Ratings": "2023-08-22T15:57:51.0776072+00:00",
-  "LastUpdate_Achievements": "2023-08-22T16:07:19.928972+00:00"
+  "LastUpdate_Ratings": "2023-08-22T16:57:51.2010131+00:00",
+  "LastUpdate_Achievements": "2023-08-22T17:06:47.2736391+00:00"
 }

@@ -6,24 +6,24 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 26.00% | ~43,380 |
-| Get Busy Living | 16.00% | ~26,696 |
-| Samuel Norton | 9.00% | ~15,016 |
-| Spare The Rod | 5.00% | ~8,342 |
-| Don't Put Me In The Dark | 3.00% | ~5,005 |
-| Wait and Hope | 3.00% | ~5,005 |
-| I May Have Found A Way Out Of Here | 3.00% | ~5,005 |
-| Iron Bars | 3.00% | ~5,005 |
+| Stone Walls | 26.00% | ~43,386 |
+| Get Busy Living | 16.00% | ~26,699 |
+| Samuel Norton | 9.00% | ~15,018 |
+| Spare The Rod | 5.00% | ~8,344 |
+| Don't Put Me In The Dark | 3.00% | ~5,006 |
+| Wait and Hope | 3.00% | ~5,006 |
+| I May Have Found A Way Out Of Here | 3.00% | ~5,006 |
+| Iron Bars | 3.00% | ~5,006 |
 | Throw The Book At Them | 2.00% | ~3,337 |
-| D.B. Cooper | 1.00% | ~1,668 |
+| D.B. Cooper | 1.00% | ~1,669 |
 | Reformation | 0.60% | ~1,001 |
 | Crowd Control | 0.50% | ~834 |
 | Freedom | 0.40% | ~667 |
-| Confined | 0.40% | ~667 |
+| Confined | 0.30% | ~501 |
 | It's Not What You Know... | 0.10% | ~167 |
 | ... It's What You Can Prove | 0.10% | ~167 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 166,848 (Ranked 62)  
+Progressed: 166,871 (Ranked 62)  
 Completed: 7 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,10 +147,10 @@ Completed: 7 (0.00%) (Ranked 261)
 | 2023-08-19 | 165,888 | 7 |
 | 2023-08-20 | 166,320 | 7 |
 | 2023-08-21 | 166,658 | 7 |
-| 2023-08-22 | 166,848 | 7 |
+| 2023-08-22 | 166,871 | 7 |
 ## Awards
 Max (Extremely Fun): 487  (Ranked 199)  
-Sum: 3,759 (Ranked 149)  
+Sum: 3,761 (Ranked 149)  
 Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
@@ -158,7 +158,7 @@ Diff (max vs sum): 50
 | This game is Great for Beginners | 469 |
 | This game is Highly Recommended | 458 |
 | This game has Quickly Understood Controls | 445 |
-| This game is Relaxing | 428 |
+| This game is Relaxing | 430 |
 | This game has Diverse Characters | 411 |
 | This game has Amazing Storytelling | 397 |
 | This game is Educational | 381 |
@@ -379,4 +379,4 @@ Diff (max vs sum): 50
 | 2023-08-18 | 4.61 | - | 484 | 3,753 |
 | 2023-08-19 | 4.61 | - | 486 | 3,757 |
 | 2023-08-21 | 4.61 | - | 487 | 3,758 |
-| 2023-08-22 | 4.61 | - | 487 | 3,759 |
+| 2023-08-22 | 4.61 | - | 487 | 3,761 |

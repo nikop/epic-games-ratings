@@ -55,6 +55,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Master of Transmutation | 0.30% | ~405 |
 | Hidden Potential | 0.30% | ~405 |
 | Power of Love | 0.30% | ~405 |
+| Supercharged | 0.30% | ~405 |
 | Expansion in Session | 0.30% | ~405 |
 | Flawless Fusion | 0.30% | ~405 |
 | Trash to Treasure | 0.30% | ~405 |
@@ -78,7 +79,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Fillin' the Bin | 0.20% | ~270 |
 | Industrial Evolution | 0.20% | ~270 |
 | Omae wa Mou Shindeiru | 0.20% | ~270 |
-| Supercharged | 0.20% | ~270 |
 | Thank You Tom Nook | 0.20% | ~270 |
 | Ritualist | 0.20% | ~270 |
 | Cranked up to 11 | 0.20% | ~270 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~135 |
 | Cash Only Please | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,948 (Ranked 66)  
+Progressed: 134,949 (Ranked 66)  
 Completed: 136 (0.10%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,14 +243,14 @@ Completed: 136 (0.10%) (Ranked 208)
 | 2023-08-19 | 134,791 | 133 |
 | 2023-08-20 | 134,856 | 133 |
 | 2023-08-21 | 134,907 | 134 |
-| 2023-08-22 | 134,948 | 136 |
+| 2023-08-22 | 134,949 | 136 |
 ## Awards
-Max (Great for Beginners): 4,707  (Ranked 71)  
-Sum: 27,126 (Ranked 46)  
+Max (Great for Beginners): 4,709  (Ranked 71)  
+Sum: 27,128 (Ranked 46)  
 Diff (max vs sum): 25  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 4,707 |
+| This game is Great for Beginners | 4,709 |
 | This game is Relaxing | 4,002 |
 | This game has Quickly Understood Controls | 3,988 |
 | This game has Diverse Characters | 3,857 |
@@ -471,4 +471,4 @@ Diff (max vs sum): 25
 | 2023-08-19 | 3.99 | - | 4,705 | 27,114 |
 | 2023-08-20 | 3.99 | - | 4,706 | 27,119 |
 | 2023-08-21 | 3.99 | - | 4,707 | 27,123 |
-| 2023-08-22 | 3.99 | - | 4,707 | 27,126 |
+| 2023-08-22 | 3.99 | - | 4,709 | 27,128 |

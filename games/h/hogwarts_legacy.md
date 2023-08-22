@@ -5,7 +5,7 @@ Rating: 4.77 (Ranked 109)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 13.00% | ~37,779 |
+| The Sort Who Makes an Entrance | 13.00% | ~37,780 |
 | First Class Student | 11.00% | ~31,967 |
 | Troll with the Punches | 11.00% | ~31,967 |
 | A Keen Sense of Spell | 10.00% | ~29,061 |
@@ -26,15 +26,15 @@ Rating: 4.77 (Ranked 109)
 | Beast Friends | 7.00% | ~20,343 |
 | A Sallow Grave | 7.00% | ~20,343 |
 | Flight the Good Flight | 7.00% | ~20,343 |
-| The Seeker of Knowledge | 5.00% | ~14,530 |
-| The Root of the Problem | 5.00% | ~14,530 |
-| Third Time's a Charm | 5.00% | ~14,530 |
-| Raising Expectations | 5.00% | ~14,530 |
-| The Toast of the Town | 4.00% | ~11,624 |
-| Room with a View | 4.00% | ~11,624 |
-| The Intrepid Explorer | 4.00% | ~11,624 |
-| The Gryffindor in the Graveyard | 4.00% | ~11,624 |
-| The Ends Petrify the Means | 4.00% | ~11,624 |
+| The Seeker of Knowledge | 5.00% | ~14,531 |
+| The Root of the Problem | 5.00% | ~14,531 |
+| Third Time's a Charm | 5.00% | ~14,531 |
+| Raising Expectations | 5.00% | ~14,531 |
+| The Toast of the Town | 4.00% | ~11,625 |
+| Room with a View | 4.00% | ~11,625 |
+| The Intrepid Explorer | 4.00% | ~11,625 |
+| The Gryffindor in the Graveyard | 4.00% | ~11,625 |
+| The Ends Petrify the Means | 4.00% | ~11,625 |
 | Going Through the Potions | 3.00% | ~8,718 |
 | Floo Around the World | 3.00% | ~8,718 |
 | The Wise Owl | 3.00% | ~8,718 |
@@ -46,12 +46,12 @@ Rating: 4.77 (Ranked 109)
 | Savvy Spender | 1.00% | ~2,906 |
 | Demiguise Dread | 1.00% | ~2,906 |
 | A Forte for Achievement | 1.00% | ~2,906 |
-| Merlin's Beard! | 0.90% | ~2,615 |
+| Merlin's Beard! | 0.90% | ~2,616 |
 | Spilled Milk | 0.80% | ~2,325 |
 | The Nature of the Beast | 0.60% | ~1,744 |
 | Collector's Edition | 0.30% | ~872 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290,610 (Ranked 43)  
+Progressed: 290,613 (Ranked 43)  
 Completed: 454 (0.16%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,7 +175,7 @@ Completed: 454 (0.16%) (Ranked 193)
 | 2023-08-19 | 290,439 | 453 |
 | 2023-08-20 | 290,517 | 453 |
 | 2023-08-21 | 290,578 | 453 |
-| 2023-08-22 | 290,610 | 454 |
+| 2023-08-22 | 290,613 | 454 |
 ## Awards
 Max (Character Customization): 21,884  (Ranked 17)  
 Sum: 41,384 (Ranked 30)  

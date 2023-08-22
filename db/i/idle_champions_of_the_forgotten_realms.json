@@ -6004,9 +6004,9 @@
       "Count": 3365
     }
   ],
-  "EOS_Progressed": 224136,
+  "EOS_Progressed": 224146,
   "EOS_Completed": 2207,
-  "EOS_NewPlayers": 2031,
+  "EOS_NewPlayers": 2029,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -19554,6 +19554,11 @@
       "Time": "2023-08-22T16:06:34.4773663+00:00",
       "NumProgressed": 224136,
       "NumCompleted": 2207
+    },
+    {
+      "Time": "2023-08-22T17:06:08.200625+00:00",
+      "NumProgressed": 224146,
+      "NumCompleted": 2207
     }
   ],
   "TotalAchievements": 516,
@@ -20803,9 +20808,9 @@
       "ID": "objective_completed_170",
       "SetID": "cc37lbc",
       "Name": "Wisdom Check",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 224
+      "UsersEstimate": 448
     },
     {
       "ID": "objective_completed_171",
@@ -21923,9 +21928,9 @@
       "ID": "objective_completed_570",
       "SetID": "cc37lbc",
       "Name": "The Darkness Runs Deeper",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 224
+      "UsersEstimate": 448
     },
     {
       "ID": "objective_completed_571",
@@ -23692,21 +23697,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 190410,
-      "Completed": 3289
+      "Progressed": 190420,
+      "Completed": 3290
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 224136,
+      "Progressed": 224146,
       "Completed": 2207
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-22T15:00:33.3528943+00:00",
-  "LastChanged_Achievements": "2023-08-22T16:06:34.4773658+00:00",
+  "LastChanged_Achievements": "2023-08-22T17:06:08.2006241+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:12.3267162+00:00",
-  "LastUpdate_Ratings": "2023-08-22T16:00:38.8041786+00:00",
-  "LastUpdate_Achievements": "2023-08-22T16:06:34.483308+00:00"
+  "LastUpdate_Ratings": "2023-08-22T17:00:16.9140132+00:00",
+  "LastUpdate_Achievements": "2023-08-22T17:06:08.2039418+00:00"
 }

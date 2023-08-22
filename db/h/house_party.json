@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
@@ -362,9 +362,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6086,
+  "EOS_Progressed": 6087,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4562,6 +4562,11 @@
       "Time": "2023-08-22T07:06:41.6186574+00:00",
       "NumProgressed": 6086,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-22T17:05:05.7529181+00:00",
+      "NumProgressed": 6087,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -4853,7 +4858,7 @@
       "Name": "Life Found a Way",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "MoneyShot",
@@ -5124,21 +5129,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 3125,
+      "Progressed": 3126,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 6086,
+      "Progressed": 6087,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-07-26T20:57:57.6865468+00:00",
-  "LastChanged_Achievements": "2023-08-22T16:05:22.4530249+00:00",
+  "LastChanged_Achievements": "2023-08-22T17:05:05.7529175+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:57.4255286+00:00",
-  "LastUpdate_Ratings": "2023-08-22T15:59:49.8517268+00:00",
-  "LastUpdate_Achievements": "2023-08-22T16:05:22.4531162+00:00"
+  "LastUpdate_Ratings": "2023-08-22T16:59:35.869543+00:00",
+  "LastUpdate_Achievements": "2023-08-22T17:05:05.7530544+00:00"
 }

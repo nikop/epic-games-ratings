@@ -192,12 +192,12 @@ Completed: 0 (0.00%) (Ranked 261)
 | 2023-08-21 | 8,443 | 0 |
 | 2023-08-22 | 8,457 | 0 |
 ## Awards
-Max (Extremely Fun): 100  (Ranked 337)  
-Sum: 689 (Ranked 278)  
-Diff (max vs sum): 59  
+Max (Extremely Fun): 101  (Ranked 336)  
+Sum: 690 (Ranked 278)  
+Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
-| This game is Extremely Fun | 100 |
+| This game is Extremely Fun | 101 |
 | This game is Great for Beginners | 90 |
 | This game has Amazing Storytelling | 86 |
 | This game has Quickly Understood Controls | 82 |
@@ -319,3 +319,4 @@ Diff (max vs sum): 59
 | 2023-08-14 | 4.48 | - | 100 | 687 |
 | 2023-08-18 | 4.48 | - | 100 | 688 |
 | 2023-08-19 | 4.48 | - | 100 | 689 |
+| 2023-08-22 | 4.48 | - | 101 | 690 |
