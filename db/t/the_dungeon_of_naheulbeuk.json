@@ -690,9 +690,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 215920,
+  "EOS_Progressed": 215944,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3157,
+  "EOS_NewPlayers": 3151,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7890,6 +7890,11 @@
       "Time": "2023-08-22T17:03:29.9472036+00:00",
       "NumProgressed": 215920,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-22T18:03:28.4483545+00:00",
+      "NumProgressed": 215944,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -7899,9 +7904,9 @@
       "ID": "10000Gold",
       "SetID": "50chcgj",
       "Name": "Livin\u0027 in a dwarven paradise",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1511
+      "UsersEstimate": 1728
     },
     {
       "ID": "100Fail",
@@ -7933,7 +7938,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1727
+      "UsersEstimate": 1728
     },
     {
       "ID": "BookCollection",
@@ -7949,7 +7954,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4318
+      "UsersEstimate": 4319
     },
     {
       "ID": "Chapter2",
@@ -7965,7 +7970,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1727
+      "UsersEstimate": 1728
     },
     {
       "ID": "Chapter4",
@@ -8301,7 +8306,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4318
+      "UsersEstimate": 4319
     },
     {
       "ID": "DwarfElf15Support",
@@ -8347,9 +8352,9 @@
       "ID": "ElfHitTwoFriends",
       "SetID": "50chcgj",
       "Name": "Sowwy!",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 45343
+      "UsersEstimate": 47508
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -8397,7 +8402,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4318
+      "UsersEstimate": 4319
     },
     {
       "ID": "FollowBraztok",
@@ -8531,9 +8536,9 @@
       "ID": "Rogue30Backstab",
       "SetID": "50chcgj",
       "Name": "I am the night",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1080
+      "UsersEstimate": 1296
     },
     {
       "ID": "RogueEpic",
@@ -8604,21 +8609,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 215920,
+      "Progressed": 215944,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 215920,
+      "Progressed": 215944,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-22T16:01:40.4668248+00:00",
-  "LastChanged_Achievements": "2023-08-22T17:03:29.947203+00:00",
+  "LastChanged_Achievements": "2023-08-22T18:03:28.4483535+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:36.4163589+00:00",
-  "LastUpdate_Ratings": "2023-08-22T17:01:08.7743168+00:00",
-  "LastUpdate_Achievements": "2023-08-22T17:03:29.947387+00:00"
+  "LastUpdate_Ratings": "2023-08-22T18:01:03.609499+00:00",
+  "LastUpdate_Achievements": "2023-08-22T18:03:28.448502+00:00"
 }

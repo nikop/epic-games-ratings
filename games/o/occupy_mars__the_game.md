@@ -30,9 +30,9 @@ Rating: 3.96 (Ranked 944)
 | Explosive Miner | 1.00% | ~15 |
 | Caveman | 1.00% | ~15 |
 | Rocket Jump | 1.00% | ~15 |
+| Planetary Defence | 0.80% | ~12 |
 | Thunderstruck | 0.80% | ~12 |
 | 5G Network | 0.70% | ~11 |
-| Planetary Defence | 0.70% | ~11 |
 | Bull’s eye | 0.50% | ~8 |
 | One does not simply... | 0.50% | ~8 |
 | Rover Mechanic | 0.50% | ~8 |

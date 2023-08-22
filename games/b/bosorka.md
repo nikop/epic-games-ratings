@@ -6,10 +6,10 @@
 | ---- | ---------- | ----- |
 | Path of purity | 83.00% | ~85 |
 | Witch's duty | 61.00% | ~62 |
-| First time, yes? | 56.00% | ~57 |
+| First time, yes? | 57.00% | ~58 |
 | A good start | 54.00% | ~55 |
 | Runes collector | 50.00% | ~51 |
-| Kind heart | 47.00% | ~48 |
+| Kind heart | 48.00% | ~49 |
 | Skilled rider | 46.00% | ~47 |
 | Devil's dozen | 28.00% | ~29 |
 | It doesn't work like that | 24.00% | ~24 |

@@ -69,7 +69,7 @@
 | The last bell ring | 31.00% | ~82 |
 | Silver’s past | 29.00% | ~76 |
 | Better cooking at home | 29.00% | ~76 |
-| The only right decision | 28.00% | ~74 |
+| The only right decision | 29.00% | ~76 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 263 (Ranked 273)  
 Completed: 8 (3.04%) (Ranked 74)  

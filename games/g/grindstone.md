@@ -40,7 +40,7 @@ Number of Ratings: 63  (23.09.2022)
 | Stop Hitting Each Other | 13.00% | ~669 |
 | Ultimate Jerk | 13.00% | ~669 |
 | Hot Potato | 11.00% | ~566 |
-| Off the Beaten Path | 9.00% | ~463 |
+| Off the Beaten Path | 10.00% | ~515 |
 | It's Been a Blast | 9.00% | ~463 |
 | For Rock and Stone! | 9.00% | ~463 |
 | Don't Get Too Greedy | 7.00% | ~360 |

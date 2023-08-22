@@ -480,9 +480,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 525639,
+  "EOS_Progressed": 525640,
   "EOS_Completed": 463,
-  "EOS_NewPlayers": 551,
+  "EOS_NewPlayers": 548,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -13640,6 +13640,11 @@
       "Time": "2023-08-22T17:06:15.3643479+00:00",
       "NumProgressed": 525639,
       "NumCompleted": 463
+    },
+    {
+      "Time": "2023-08-22T18:06:10.140663+00:00",
+      "NumProgressed": 525640,
+      "NumCompleted": 463
     }
   ],
   "TotalAchievements": 57,
@@ -13667,7 +13672,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 367947
+      "UsersEstimate": 367948
     },
     {
       "ID": "12",
@@ -13731,7 +13736,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 325896
+      "UsersEstimate": 325897
     },
     {
       "ID": "2",
@@ -13747,7 +13752,7 @@
       "Name": "Talk of the Town",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 126153
+      "UsersEstimate": 126154
     },
     {
       "ID": "21",
@@ -13907,7 +13912,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 178717
+      "UsersEstimate": 178718
     },
     {
       "ID": "4",
@@ -13979,7 +13984,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 325896
+      "UsersEstimate": 325897
     },
     {
       "ID": "48",
@@ -13995,7 +14000,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 178717
+      "UsersEstimate": 178718
     },
     {
       "ID": "5",
@@ -14011,7 +14016,7 @@
       "Name": "Two of a Kind",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 73589
+      "UsersEstimate": 73590
     },
     {
       "ID": "51",
@@ -14106,15 +14111,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 525639,
+      "Progressed": 525640,
       "Completed": 463
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
-  "LastChanged_Achievements": "2023-08-22T17:06:15.3643474+00:00",
+  "LastChanged_Achievements": "2023-08-22T18:06:10.1406625+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:51.7319714+00:00",
-  "LastUpdate_Ratings": "2023-08-22T16:59:29.8081197+00:00",
-  "LastUpdate_Achievements": "2023-08-22T17:06:15.3644871+00:00"
+  "LastUpdate_Ratings": "2023-08-22T17:59:19.7155948+00:00",
+  "LastUpdate_Achievements": "2023-08-22T18:06:10.140797+00:00"
 }

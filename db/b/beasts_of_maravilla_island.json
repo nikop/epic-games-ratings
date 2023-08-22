@@ -4,7 +4,7 @@
   "ProductSlug": "beasts-of-maravilla-island",
   "Ranking_EOS_Progress": 553,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewPlayers": 344,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-06-12T16:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:03.1772657+00:00",
   "LastChanged": "2023-03-31T05:58:03.1772659+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:15.8191185+00:00",
-  "LastUpdate_Ratings": "2023-08-22T16:58:34.8124509+00:00",
-  "LastUpdate_Achievements": "2023-08-22T17:05:17.8480291+00:00"
+  "LastUpdate_Ratings": "2023-08-22T17:58:26.3835612+00:00",
+  "LastUpdate_Achievements": "2023-08-22T18:05:13.6915247+00:00"
 }

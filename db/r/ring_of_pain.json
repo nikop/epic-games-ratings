@@ -2701,9 +2701,9 @@
       "Count": 733
     }
   ],
-  "EOS_Progressed": 234752,
+  "EOS_Progressed": 234753,
   "EOS_Completed": 260,
-  "EOS_NewPlayers": 369,
+  "EOS_NewPlayers": 367,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -15326,6 +15326,11 @@
       "Time": "2023-08-22T17:03:19.0237031+00:00",
       "NumProgressed": 234752,
       "NumCompleted": 260
+    },
+    {
+      "Time": "2023-08-22T18:03:17.8731949+00:00",
+      "NumProgressed": 234753,
+      "NumCompleted": 260
     }
   ],
   "TotalAchievements": 122,
@@ -15353,7 +15358,7 @@
       "Name": "Ambitious Intent",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 96248
+      "UsersEstimate": 96249
     },
     {
       "ID": "BOSSPIT",
@@ -15369,7 +15374,7 @@
       "Name": "First Steps",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 225362
+      "UsersEstimate": 225363
     },
     {
       "ID": "CURSE1HP",
@@ -15457,7 +15462,7 @@
       "Name": "Getting A Glimpse",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 171369
+      "UsersEstimate": 171370
     },
     {
       "ID": "DEPTH6NOPOTIONS",
@@ -15497,7 +15502,7 @@
       "Name": "To The Death!",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 46950
+      "UsersEstimate": 46951
     },
     {
       "ID": "DIEHARD",
@@ -15521,7 +15526,7 @@
       "Name": "Colorful Corpse",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 136156
+      "UsersEstimate": 136157
     },
     {
       "ID": "DIETOGRAVESTONE",
@@ -15545,7 +15550,7 @@
       "Name": "Well Prepared",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 46950
+      "UsersEstimate": 46951
     },
     {
       "ID": "ENDINGCHOICE",
@@ -15593,7 +15598,7 @@
       "Name": "Just Chilling",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 46950
+      "UsersEstimate": 46951
     },
     {
       "ID": "FREEZE20TIMES",
@@ -15609,7 +15614,7 @@
       "Name": "I Am Overburdened",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 82163
+      "UsersEstimate": 82164
     },
     {
       "ID": "FULLYPRESTIGESPOON",
@@ -15809,7 +15814,7 @@
       "Name": "All Consuming",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 42255
+      "UsersEstimate": 42256
     },
     {
       "ID": "KILLEDSELFWITHITEMS",
@@ -15825,7 +15830,7 @@
       "Name": "Goodbye, Frog Friend",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 126766
+      "UsersEstimate": 126767
     },
     {
       "ID": "KILLNICEDOG",
@@ -15911,9 +15916,9 @@
       "ID": "LOTSOFHATS",
       "SetID": "5l8oe0h",
       "Name": "Never Too Many Hats",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 939
+      "UsersEstimate": 1174
     },
     {
       "ID": "MAKEAWISH",
@@ -15921,7 +15926,7 @@
       "Name": "A Donation",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 131461
+      "UsersEstimate": 131462
     },
     {
       "ID": "MULTEXPLOSIONS",
@@ -15969,7 +15974,7 @@
       "Name": "Deflection",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 105638
+      "UsersEstimate": 105639
     },
     {
       "ID": "PASSIVEDEPTH6",
@@ -16081,7 +16086,7 @@
       "Name": "Uncharted Territory",
       "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 208929
+      "UsersEstimate": 208930
     },
     {
       "ID": "SPECIALROOMS10",
@@ -16089,7 +16094,7 @@
       "Name": "Explorer",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 145546
+      "UsersEstimate": 145547
     },
     {
       "ID": "SPEEDRUN10",
@@ -16105,7 +16110,7 @@
       "Name": "Sneaky",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 100943
+      "UsersEstimate": 100944
     },
     {
       "ID": "STEALTH100",
@@ -16191,9 +16196,9 @@
       "ID": "WIN5",
       "SetID": "5l8oe0h",
       "Name": "Obsessed",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 14085
+      "UsersEstimate": 16433
     },
     {
       "ID": "WIN5MAXHEALTH",
@@ -16312,7 +16317,7 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 234752,
+      "Progressed": 234753,
       "Completed": 260
     }
   ],
@@ -16320,8 +16325,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-08-19T02:08:01.2206083+00:00",
-  "LastChanged_Achievements": "2023-08-22T17:03:19.0237026+00:00",
+  "LastChanged_Achievements": "2023-08-22T18:03:17.8731943+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:27.8083281+00:00",
-  "LastUpdate_Ratings": "2023-08-22T16:57:26.7788914+00:00",
-  "LastUpdate_Achievements": "2023-08-22T17:03:19.0240247+00:00"
+  "LastUpdate_Ratings": "2023-08-22T17:57:24.1251648+00:00",
+  "LastUpdate_Achievements": "2023-08-22T18:03:17.8734605+00:00"
 }

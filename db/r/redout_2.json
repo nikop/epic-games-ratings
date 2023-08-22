@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1110,
+  "EOS_Progressed": 1111,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -825,6 +825,11 @@
       "Time": "2023-08-21T05:05:47.9889975+00:00",
       "NumProgressed": 1110,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-22T18:06:03.7302606+00:00",
+      "NumProgressed": 1111,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -892,7 +897,7 @@
       "Name": "Walked like an Egyptian",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "ALLTRACKSCLOUD",
@@ -908,7 +913,7 @@
       "Name": "Ride in the rising sun",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "ALLTRACKSGENESIS",
@@ -986,9 +991,9 @@
       "ID": "CAREERCLASSB",
       "SetID": "3dh70f3",
       "Name": "Enter the Speed Gauntlet",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 278
+      "UsersEstimate": 267
     },
     {
       "ID": "CAREERCLASSMASTERS",
@@ -1130,9 +1135,9 @@
       "ID": "ONEAESTHETIC",
       "SetID": "3dh70f3",
       "Name": "I just can\u0027t choose",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 278
+      "UsersEstimate": 267
     },
     {
       "ID": "ONELIVERY",
@@ -1251,7 +1256,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1110,
+      "Progressed": 1111,
       "Completed": 0
     }
   ],
@@ -1259,8 +1264,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-07-10T22:58:27.6839393+00:00",
-  "LastChanged_Achievements": "2023-08-22T17:06:09.1762891+00:00",
+  "LastChanged_Achievements": "2023-08-22T18:06:03.7302599+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:25.0884142+00:00",
-  "LastUpdate_Ratings": "2023-08-22T16:58:20.2095061+00:00",
-  "LastUpdate_Achievements": "2023-08-22T17:06:09.1763771+00:00"
+  "LastUpdate_Ratings": "2023-08-22T17:58:12.6757037+00:00",
+  "LastUpdate_Achievements": "2023-08-22T18:06:03.7303109+00:00"
 }

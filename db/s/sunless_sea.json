@@ -685,9 +685,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 35997,
+  "EOS_Progressed": 36001,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 439,
+  "EOS_NewPlayers": 440,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -13315,6 +13315,11 @@
       "Time": "2023-08-22T17:06:01.0718453+00:00",
       "NumProgressed": 35997,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-22T18:05:55.7270541+00:00",
+      "NumProgressed": 36001,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -13342,7 +13347,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 6119
+      "UsersEstimate": 6120
     },
     {
       "ID": "ach_antiquarian10",
@@ -13446,7 +13451,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 12959
+      "UsersEstimate": 12960
     },
     {
       "ID": "ach_die10",
@@ -13644,9 +13649,9 @@
       "ID": "ach_portunder",
       "SetID": "ammcm",
       "Name": "Under the zee",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 360
+      "UsersEstimate": 324
     },
     {
       "ID": "ach_scion",
@@ -13678,7 +13683,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 6479
+      "UsersEstimate": 6480
     },
     {
       "ID": "ach_terror100",
@@ -13757,15 +13762,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 35997,
+      "Progressed": 36001,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-07-28T14:59:59.8138313+00:00",
-  "LastChanged_Achievements": "2023-08-22T17:06:01.0718448+00:00",
+  "LastChanged_Achievements": "2023-08-22T18:05:55.7270532+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:33.4903611+00:00",
-  "LastUpdate_Ratings": "2023-08-22T16:57:45.5559907+00:00",
-  "LastUpdate_Achievements": "2023-08-22T17:06:01.0719732+00:00"
+  "LastUpdate_Ratings": "2023-08-22T17:57:36.8828616+00:00",
+  "LastUpdate_Achievements": "2023-08-22T18:05:55.7271746+00:00"
 }

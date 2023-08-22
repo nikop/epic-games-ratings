@@ -6,8 +6,8 @@ Rating: 4.26 (Ranked 821)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Out of Shape | 4.00% | ~2,630 |
-| Bonfire Lit | 3.00% | ~1,972 |
-| Survival Expert | 3.00% | ~1,972 |
+| Bonfire Lit | 3.00% | ~1,973 |
+| Survival Expert | 3.00% | ~1,973 |
 | Denial | 2.00% | ~1,315 |
 | Acceptance | 2.00% | ~1,315 |
 | Bargaining | 2.00% | ~1,315 |
@@ -18,7 +18,7 @@ Rating: 4.26 (Ranked 821)
 | Bless me Father... | 0.80% | ~526 |
 | Power of Friendship | 0.70% | ~460 |
 | Phone Bill | 0.70% | ~460 |
-| Chain Breaker | 0.60% | ~394 |
+| Chain Breaker | 0.60% | ~395 |
 | Let there be light | 0.50% | ~329 |
 | Silent Advisor | 0.50% | ~329 |
 | Are you still there? | 0.40% | ~263 |
@@ -26,7 +26,7 @@ Rating: 4.26 (Ranked 821)
 | Paparazzi | 0.30% | ~197 |
 | Ear Ringing | 0.10% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,750 (Ranked 83)  
+Progressed: 65,751 (Ranked 83)  
 Completed: 13 (0.02%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 13 (0.02%) (Ranked 241)
 | 2023-08-19 | 65,677 | 13 |
 | 2023-08-20 | 65,714 | 13 |
 | 2023-08-21 | 65,739 | 13 |
-| 2023-08-22 | 65,750 | 13 |
+| 2023-08-22 | 65,751 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

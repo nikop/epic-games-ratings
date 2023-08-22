@@ -20,7 +20,7 @@
 | Armor Collector | 13.00% | ~14 |
 | Corwid Hill | 13.00% | ~14 |
 | Dreamwalker | 11.00% | ~11 |
-| Total Eclipse | 9.00% | ~9 |
+| Total Eclipse | 10.00% | ~10 |
 | Your Training Is Complete | 7.00% | ~7 |
 | Red in Tooth and Claw | 6.00% | ~6 |
 | Vivid Dreams | 3.00% | ~3 |

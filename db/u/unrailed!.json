@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 219,
   "Ranking_EOS_Progress": 26,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 34,
+  "Ranking_EOS_NewPlayers": 35,
   "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2022-04-25T16:00:00+00:00",
@@ -2576,9 +2576,9 @@
       "Count": 144
     }
   ],
-  "EOS_Progressed": 636696,
+  "EOS_Progressed": 636703,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 2407,
+  "EOS_NewPlayers": 2399,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16276,6 +16276,11 @@
       "Time": "2023-08-22T17:06:11.1765867+00:00",
       "NumProgressed": 636696,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-22T18:06:05.6925518+00:00",
+      "NumProgressed": 636703,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 52,
@@ -16287,7 +16292,7 @@
       "Name": "Stroller",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 89137
+      "UsersEstimate": 89138
     },
     {
       "ID": "_01_01_DISTANCE_200_EASY",
@@ -16327,7 +16332,7 @@
       "Name": "Advanced Stroller",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 108238
+      "UsersEstimate": 108240
     },
     {
       "ID": "_01_06_DISTANCE_200_MEDIUM",
@@ -16535,7 +16540,7 @@
       "Name": "Incurious",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 101871
+      "UsersEstimate": 101872
     },
     {
       "ID": "_03_01_MOJAVE_COURIER",
@@ -16607,7 +16612,7 @@
       "Name": "Climate Change",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 95504
+      "UsersEstimate": 95505
     },
     {
       "ID": "_11_00_FIRE_FIGHTER",
@@ -16639,7 +16644,7 @@
       "Name": "Terminal Station",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 3183
+      "UsersEstimate": 3184
     },
     {
       "ID": "_11_00_WHERE_THEY_BELONG",
@@ -16671,7 +16676,7 @@
       "Name": "Dynamite Fishing",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3183
+      "UsersEstimate": 3184
     },
     {
       "ID": "_13_00_FIREWORKS",
@@ -16702,15 +16707,15 @@
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 636696,
+      "Progressed": 636703,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2023-08-22T02:14:33.4423037+00:00",
-  "LastChanged_Achievements": "2023-08-22T17:06:11.1765857+00:00",
+  "LastChanged_Achievements": "2023-08-22T18:06:05.6925512+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:58.8856516+00:00",
-  "LastUpdate_Ratings": "2023-08-22T16:59:38.5728057+00:00",
-  "LastUpdate_Achievements": "2023-08-22T17:06:11.1768103+00:00"
+  "LastUpdate_Ratings": "2023-08-22T17:59:28.6851736+00:00",
+  "LastUpdate_Achievements": "2023-08-22T18:06:05.6926749+00:00"
 }
