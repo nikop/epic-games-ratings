@@ -684,7 +684,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 215749,
+  "EOS_Progressed": 215760,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 3277,
   "EOS_NewCompleters": 0,
@@ -7819,6 +7819,11 @@
       "Time": "2023-08-22T04:02:42.1819546+00:00",
       "NumProgressed": 215749,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-22T05:04:38.6148288+00:00",
+      "NumProgressed": 215760,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -7846,7 +7851,7 @@
       "Name": "Holistic Adventuring Party",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "BarbarianEpic",
@@ -7886,7 +7891,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2157
+      "UsersEstimate": 2158
     },
     {
       "ID": "Chapter3",
@@ -7902,7 +7907,7 @@
       "Name": "The demons\u0027 feast",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1294
+      "UsersEstimate": 1295
     },
     {
       "ID": "Chapter5",
@@ -7910,7 +7915,7 @@
       "Name": "The Great Library",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1294
+      "UsersEstimate": 1295
     },
     {
       "ID": "Chapter6",
@@ -7918,7 +7923,7 @@
       "Name": "Torture and Sensibility",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1294
+      "UsersEstimate": 1295
     },
     {
       "ID": "Chapter7",
@@ -7926,7 +7931,7 @@
       "Name": "Urik\u0027s Depths",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1294
+      "UsersEstimate": 1295
     },
     {
       "ID": "Chapter8",
@@ -7934,7 +7939,7 @@
       "Name": "The Dungeon Master",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1294
+      "UsersEstimate": 1295
     },
     {
       "ID": "Chapter9",
@@ -7982,7 +7987,7 @@
       "Name": "The Woman in the High Castle",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1294
+      "UsersEstimate": 1295
     },
     {
       "ID": "DLC1ChooseNecro",
@@ -8254,7 +8259,7 @@
       "Name": "%#*!$*!",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1294
+      "UsersEstimate": 1295
     },
     {
       "ID": "DwarfLevel2",
@@ -8262,7 +8267,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2157
+      "UsersEstimate": 2158
     },
     {
       "ID": "ElfEpic",
@@ -8278,7 +8283,7 @@
       "Name": "Sowwy!",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 45307
+      "UsersEstimate": 45310
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -8294,7 +8299,7 @@
       "Name": "GG EZ",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2157
+      "UsersEstimate": 2158
     },
     {
       "ID": "EndCombatOneHp",
@@ -8302,7 +8307,7 @@
       "Name": "DM intervention",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2157
+      "UsersEstimate": 2158
     },
     {
       "ID": "EndGameCursed",
@@ -8342,7 +8347,7 @@
       "Name": "An old poacher makes the best gamekeeper",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "InsultLoose",
@@ -8366,7 +8371,7 @@
       "Name": "We come in peace",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "MinistrelEpic",
@@ -8398,7 +8403,7 @@
       "Name": "Law and Order",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "Poster",
@@ -8414,7 +8419,7 @@
       "Name": "In Navalu\u0027s footsteps",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "QuestEmile",
@@ -8438,7 +8443,7 @@
       "Name": "L\u00EBgal Legend",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "QuestPriestess",
@@ -8478,7 +8483,7 @@
       "Name": "Speedrun",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2157
+      "UsersEstimate": 2158
     },
     {
       "ID": "SupportCount4",
@@ -8486,7 +8491,7 @@
       "Name": "Team Building Exercise",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1294
+      "UsersEstimate": 1295
     },
     {
       "ID": "SystematicallyStupid",
@@ -8510,7 +8515,7 @@
       "Name": "Oh, when I\u0027ll be level 10...",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1294
+      "UsersEstimate": 1295
     },
     {
       "ID": "WizardEpic",
@@ -8526,28 +8531,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2157
+      "UsersEstimate": 2158
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 215749,
+      "Progressed": 215760,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 215749,
+      "Progressed": 215760,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-21T00:00:20.1938169+00:00",
-  "LastChanged_Achievements": "2023-08-22T04:02:42.1819542+00:00",
+  "LastChanged_Achievements": "2023-08-22T05:04:38.6148282+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:36.4163589+00:00",
-  "LastUpdate_Ratings": "2023-08-22T04:02:03.9208445+00:00",
-  "LastUpdate_Achievements": "2023-08-22T04:02:42.1821321+00:00"
+  "LastUpdate_Ratings": "2023-08-22T05:03:45.0902491+00:00",
+  "LastUpdate_Achievements": "2023-08-22T05:04:38.6149816+00:00"
 }

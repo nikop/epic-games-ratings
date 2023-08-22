@@ -2277,9 +2277,9 @@
       "ID": "Achievement_012",
       "SetID": "6b34g18",
       "Name": "Neighborhood Watch",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "Achievement_013",
@@ -2365,9 +2365,9 @@
       "ID": "Achievement_023",
       "SetID": "6b34g18",
       "Name": "Silence Is Golden",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "Achievement_024",
@@ -2477,9 +2477,9 @@
       "ID": "Achievement_037",
       "SetID": "6b34g18",
       "Name": "Sisterhood",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "Achievement_038",
@@ -2589,9 +2589,9 @@
       "ID": "Achievement_053",
       "SetID": "6b34g18",
       "Name": "Harvest\u2019s End",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "Achievement_055",
@@ -2717,9 +2717,9 @@
       "ID": "Achievement_071",
       "SetID": "6b34g18",
       "Name": "I Spit On Your Grave",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
@@ -2734,8 +2734,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-08-08T16:59:16.4444629+00:00",
-  "LastChanged_Achievements": "2023-08-22T04:04:19.8811672+00:00",
+  "LastChanged_Achievements": "2023-08-22T05:05:50.3281295+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:46.9760776+00:00",
-  "LastUpdate_Ratings": "2023-08-22T04:00:24.1486455+00:00",
-  "LastUpdate_Achievements": "2023-08-22T04:04:19.8812543+00:00"
+  "LastUpdate_Ratings": "2023-08-22T05:01:31.3794128+00:00",
+  "LastUpdate_Achievements": "2023-08-22T05:05:50.3282814+00:00"
 }

@@ -4093,9 +4093,9 @@
       "ID": "ACH_MISSION_04",
       "SetID": "816efe",
       "Name": "Making a Stand",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1367
+      "UsersEstimate": 1398
     },
     {
       "ID": "ACH_MISSION_05",
@@ -4246,8 +4246,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-08-18T05:57:00.7172404+00:00",
-  "LastChanged_Achievements": "2023-08-22T04:05:41.2638696+00:00",
+  "LastChanged_Achievements": "2023-08-22T05:07:06.0025653+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:11.1811549+00:00",
-  "LastUpdate_Ratings": "2023-08-22T03:57:14.4753236+00:00",
-  "LastUpdate_Achievements": "2023-08-22T04:05:41.2639307+00:00"
+  "LastUpdate_Ratings": "2023-08-22T04:57:38.2216224+00:00",
+  "LastUpdate_Achievements": "2023-08-22T05:07:06.0026686+00:00"
 }

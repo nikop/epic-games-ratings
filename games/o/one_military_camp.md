@@ -21,13 +21,13 @@
 | Jantine: the Misfortunes of Evil | 5.00% | ~8 |
 | Supersoldier | 5.00% | ~8 |
 | Healing | 5.00% | ~8 |
+| Property Bro | 5.00% | ~8 |
 | Pathfinder | 5.00% | ~8 |
 | Self-sufficient | 5.00% | ~8 |
 | Food Tycoon | 5.00% | ~8 |
 | Medicine Tycoon | 5.00% | ~8 |
 | Outdoor Decorator | 4.00% | ~6 |
 | Overpopulation | 4.00% | ~6 |
-| Property Bro | 4.00% | ~6 |
 | Human Resources | 3.00% | ~4 |
 | Training Camp | 3.00% | ~4 |
 | No News is Good News | 2.00% | ~3 |

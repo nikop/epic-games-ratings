@@ -1,26 +1,26 @@
 # Farming Simulator 22
 [Store](https://store.epicgames.com/en-US/p/farming-simulator-22)  
 [View Rawdata](../../db/f/farming_simulator_22.json)  
-Rating: 4.69 (Ranked 215)  
+Rating: 4.69 (Ranked 216)  
 Number of Ratings: 7,683  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 75.00% | ~35,658 |
-| I read Shakespeare and stuff | 64.00% | ~30,428 |
+| Own use | 75.00% | ~35,659 |
+| I read Shakespeare and stuff | 64.00% | ~30,429 |
 | Just a sprinkle | 63.00% | ~29,953 |
 | I'm stumped | 61.00% | ~29,002 |
-| Plant get enough | 60.00% | ~28,526 |
-| It's just the beginning | 59.00% | ~28,051 |
+| Plant get enough | 60.00% | ~28,527 |
+| It's just the beginning | 59.00% | ~28,052 |
 | This is just my weekend vehicle | 58.00% | ~27,576 |
-| Hard work pays off | 53.00% | ~25,198 |
+| Hard work pays off | 53.00% | ~25,199 |
 | It's never too late to farm | 49.00% | ~23,297 |
-| All out of Land | 44.00% | ~20,919 |
+| All out of Land | 44.00% | ~20,920 |
 | Field Trip | 43.00% | ~20,444 |
 | I like to switch it up | 40.00% | ~19,018 |
 | Help me to help you | 38.00% | ~18,067 |
-| Ultimutt Pawesomeness | 28.00% | ~13,312 |
-| Van Gogh | 26.00% | ~12,361 |
+| Ultimutt Pawesomeness | 28.00% | ~13,313 |
+| Van Gogh | 26.00% | ~12,362 |
 | You wood not believe it | 22.00% | ~10,460 |
 | Vehicle fleet | 22.00% | ~10,460 |
 | The plot thickens | 16.00% | ~7,607 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~190 |
 | Raisin the stakes | 0.30% | ~143 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,544 (Ranked 90)  
+Progressed: 47,545 (Ranked 90)  
 Completed: 6 (0.01%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,7 +174,7 @@ Completed: 6 (0.01%) (Ranked 248)
 | 2023-08-19 | 47,436 | 6 |
 | 2023-08-20 | 47,492 | 6 |
 | 2023-08-21 | 47,537 | 6 |
-| 2023-08-22 | 47,544 | 6 |
+| 2023-08-22 | 47,545 | 6 |
 ## Awards
 Max (Great for Beginners): 4,780  (Ranked 69)  
 Sum: 39,364 (Ranked 31)  

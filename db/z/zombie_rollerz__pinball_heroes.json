@@ -604,9 +604,9 @@
       "ID": "CLG_UNLOCK_10005",
       "SetID": "89cjc9l",
       "Name": "The Bomber",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "CLG_UNLOCK_10006",
@@ -948,9 +948,9 @@
       "ID": "PRG_HELL_10009",
       "SetID": "89cjc9l",
       "Name": "Hammer",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "PRG_HELL_10010",
@@ -1093,8 +1093,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-03-31T05:56:59.5373099+00:00",
-  "LastChanged_Achievements": "2023-08-22T04:03:11.2907923+00:00",
+  "LastChanged_Achievements": "2023-08-22T05:04:50.0337979+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:56.8894858+00:00",
-  "LastUpdate_Ratings": "2023-08-22T03:59:51.9872146+00:00",
-  "LastUpdate_Achievements": "2023-08-22T04:03:11.2908984+00:00"
+  "LastUpdate_Ratings": "2023-08-22T05:00:55.274872+00:00",
+  "LastUpdate_Achievements": "2023-08-22T05:04:50.0339659+00:00"
 }

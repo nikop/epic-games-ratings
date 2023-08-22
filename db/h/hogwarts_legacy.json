@@ -6526,18 +6526,24 @@
       "Rating": 4.77,
       "NumberOfAwards": 41371,
       "NumberOfAwardsMax": 21871
+    },
+    {
+      "Time": "2023-08-22T05:00:54.0715215+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 41384,
+      "NumberOfAwardsMax": 21884
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 41371,
-  "NumberOfAwardsMax": 21871,
+  "NumberOfAwards": 41384,
+  "NumberOfAwardsMax": 21884,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 21871
+      "Count": 21884
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -6606,7 +6612,7 @@
       "Count": 598
     }
   ],
-  "EOS_Progressed": 290595,
+  "EOS_Progressed": 290596,
   "EOS_Completed": 453,
   "EOS_NewPlayers": 474,
   "EOS_NewCompleters": 2,
@@ -19936,6 +19942,11 @@
       "Time": "2023-08-22T04:07:17.8796478+00:00",
       "NumProgressed": 290595,
       "NumCompleted": 453
+    },
+    {
+      "Time": "2023-08-22T05:09:11.5307557+00:00",
+      "NumProgressed": 290596,
+      "NumCompleted": 453
     }
   ],
   "TotalAchievements": 45,
@@ -20275,7 +20286,7 @@
       "Name": "First Class Student",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 31965
+      "UsersEstimate": 31966
     },
     {
       "ID": "PFA_7",
@@ -20283,7 +20294,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 31965
+      "UsersEstimate": 31966
     },
     {
       "ID": "PFA_8",
@@ -20306,16 +20317,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 290595,
+      "Progressed": 290596,
       "Completed": 453
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-08-21T22:00:07.0538481+00:00",
-  "LastChanged_Achievements": "2023-08-22T04:07:17.8796473+00:00",
+  "LastChanged": "2023-08-22T05:00:54.0715212+00:00",
+  "LastChanged_Achievements": "2023-08-22T05:09:11.530755+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:55.8476503+00:00",
-  "LastUpdate_Ratings": "2023-08-22T03:59:51.1279907+00:00",
-  "LastUpdate_Achievements": "2023-08-22T04:07:17.8797521+00:00"
+  "LastUpdate_Ratings": "2023-08-22T05:00:54.0715224+00:00",
+  "LastUpdate_Achievements": "2023-08-22T05:09:11.5309636+00:00"
 }

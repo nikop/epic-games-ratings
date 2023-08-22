@@ -39,8 +39,8 @@
 | The Droid | 12.00% | ~17 |
 | Verse | 12.00% | ~17 |
 | Iron | 11.00% | ~16 |
+| The Bomber | 9.00% | ~13 |
 | Tested | 9.00% | ~13 |
-| The Bomber | 8.00% | ~11 |
 | The Astronaut | 8.00% | ~11 |
 | Highway to Hell | 7.00% | ~10 |
 | Power Overwhelming | 6.00% | ~9 |
@@ -52,6 +52,7 @@
 | Analyzed | 4.00% | ~6 |
 | Tongs | 4.00% | ~6 |
 | Platinum | 4.00% | ~6 |
+| Hammer | 4.00% | ~6 |
 | Combo Master | 3.00% | ~4 |
 | Blaze | 3.00% | ~4 |
 | Chorus | 3.00% | ~4 |
@@ -59,7 +60,6 @@
 | Titanium | 3.00% | ~4 |
 | Rocket | 3.00% | ~4 |
 | Concluded | 3.00% | ~4 |
-| Hammer | 3.00% | ~4 |
 | Gunpowder | 3.00% | ~4 |
 | Really Bad Luck | 2.00% | ~3 |
 | Topaz | 2.00% | ~3 |
