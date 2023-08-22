@@ -13,7 +13,7 @@
 | 11 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 22.63% |
 | 12 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 12 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
-| 14 | [Island Cities](games/i/island_cities.md) | 18.61% |
+| 14 | [Island Cities](games/i/island_cities.md) | 18.57% |
 | 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 18.25% |
 | 16 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
 | 17 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.55% |
@@ -38,8 +38,8 @@
 | 36 | [Smelter](games/s/smelter.md) | 7.50% |
 | 37 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 7.14% |
 | 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.09% |
-| 39 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.02% |
-| 40 | [Scorn](games/s/scorn.md) | 7.01% |
+| 39 | [Scorn](games/s/scorn.md) | 7.01% |
+| 40 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.90% |
 | 41 | [Time Loader](games/t/time_loader.md) | 6.78% |
 | 42 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.68% |
 | 43 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.48% |
@@ -53,19 +53,19 @@
 | 51 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.90% |
 | 52 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.79% |
 | 53 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 4.76% |
-| 54 | [Bugsnax](games/b/bugsnax.md) | 4.73% |
+| 54 | [Bugsnax](games/b/bugsnax.md) | 4.72% |
 | 55 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
-| 56 | [JARS](games/j/jars.md) | 4.55% |
-| 57 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.44% |
-| 58 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
-| 59 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.13% |
-| 60 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.11% |
-| 61 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.92% |
-| 62 | [ZZT!](games/z/zzt!.md) | 3.87% |
-| 63 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
-| 64 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 3.82% |
-| 65 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.58% |
-| 66 | [Without Escape](games/w/without_escape.md) | 3.57% |
+| 56 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 4.58% |
+| 57 | [JARS](games/j/jars.md) | 4.55% |
+| 58 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.44% |
+| 59 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
+| 60 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.13% |
+| 61 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.11% |
+| 62 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.92% |
+| 63 | [ZZT!](games/z/zzt!.md) | 3.87% |
+| 64 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
+| 65 | [Without Escape](games/w/without_escape.md) | 3.57% |
+| 66 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.56% |
 | 67 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 68 | [Doodle God](games/d/doodle_god.md) | 3.43% |
 | 69 | [Bunny Park](games/b/bunny_park.md) | 3.37% |
