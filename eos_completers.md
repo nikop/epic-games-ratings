@@ -56,8 +56,8 @@
 | 54 | [Bugsnax](games/b/bugsnax.md) | 4.72% |
 | 55 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 56 | [JARS](games/j/jars.md) | 4.55% |
-| 57 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 4.44% |
 | 57 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.44% |
+| 58 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 4.38% |
 | 59 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
 | 60 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.13% |
 | 61 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.11% |
@@ -66,7 +66,7 @@
 | 64 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 65 | [Without Escape](games/w/without_escape.md) | 3.57% |
 | 66 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
-| 67 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.51% |
+| 67 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.47% |
 | 68 | [Doodle God](games/d/doodle_god.md) | 3.43% |
 | 69 | [Bunny Park](games/b/bunny_park.md) | 3.37% |
 | 70 | [The Complex](games/t/the_complex.md) | 3.35% |
@@ -80,7 +80,7 @@
 | 78 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.78% |
 | 79 | [Destiny 2](games/d/destiny_2.md) | 2.74% |
 | 80 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
-| 81 | [The Bunker](games/t/the_bunker.md) | 2.63% |
+| 81 | [The Bunker](games/t/the_bunker.md) | 2.61% |
 | 82 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.60% |
 | 83 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.59% |
 | 84 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.56% |
@@ -171,11 +171,11 @@
 | 169 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
 | 169 | [Dead Island 2](games/d/dead_island_2.md) | 0.31% |
 | 171 | [The First Tree](games/t/the_first_tree.md) | 0.30% |
+| 172 | [Against the Storm](games/a/against_the_storm.md) | 0.29% |
 | 172 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.29% |
-| 173 | [Against the Storm](games/a/against_the_storm.md) | 0.28% |
-| 173 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
-| 173 | [Scrapnaut](games/s/scrapnaut.md) | 0.28% |
-| 173 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.28% |
+| 174 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
+| 174 | [Scrapnaut](games/s/scrapnaut.md) | 0.28% |
+| 174 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.28% |
 | 177 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.26% |
 | 178 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
 | 179 | [Blanc](games/b/blanc.md) | 0.24% |
