@@ -55,6 +55,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legendary Cities | 1.00% | ~135 |
 | Just Difficulty | 1.00% | ~135 |
 | Artisans | 1.00% | ~135 |
+| Sages | 1.00% | ~135 |
 | Furious Family | 1.00% | ~135 |
 | Acropolis | 1.00% | ~135 |
 | Apadana | 1.00% | ~135 |
@@ -74,7 +75,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mighty | 0.90% | ~122 |
 | Victorious | 0.90% | ~122 |
 | Champions | 0.90% | ~122 |
-| Sages | 0.90% | ~122 |
 | Greece | 0.90% | ~122 |
 | Hanging Gardens in Babylon | 0.80% | ~108 |
 | Beloved | 0.80% | ~108 |

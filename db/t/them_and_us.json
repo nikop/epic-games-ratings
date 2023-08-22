@@ -4,7 +4,7 @@
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 282,
+  "Ranking_EOS_NewPlayers": 281,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
@@ -902,9 +902,9 @@
       "ID": "ETUA_ADC",
       "SetID": "65jc0ap",
       "Name": "Lover of classics",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 23
     },
     {
       "ID": "ETUA_AloneInTheDark",
@@ -1231,8 +1231,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-08-22T18:05:37.0064995+00:00",
+  "LastChanged_Achievements": "2023-08-22T19:06:09.434614+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:40.8025886+00:00",
-  "LastUpdate_Ratings": "2023-08-22T17:59:08.6862847+00:00",
-  "LastUpdate_Achievements": "2023-08-22T18:05:37.0065358+00:00"
+  "LastUpdate_Ratings": "2023-08-22T18:59:39.4917849+00:00",
+  "LastUpdate_Achievements": "2023-08-22T19:06:09.43465+00:00"
 }

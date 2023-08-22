@@ -1878,9 +1878,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 25270,
+  "EOS_Progressed": 25271,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 165,
+  "EOS_NewPlayers": 161,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -11058,6 +11058,11 @@
       "Time": "2023-08-22T17:03:21.4866177+00:00",
       "NumProgressed": 25270,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-08-22T19:03:05.0051352+00:00",
+      "NumProgressed": 25271,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 51,
@@ -11067,9 +11072,9 @@
       "ID": "Advancement",
       "SetID": "819popo",
       "Name": "Advancement",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 18447
+      "UsersEstimate": 18195
     },
     {
       "ID": "Animated",
@@ -11085,7 +11090,7 @@
       "Name": "Back Off",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 8844
+      "UsersEstimate": 8845
     },
     {
       "ID": "Best_Insurance",
@@ -11181,7 +11186,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 63,
       "XP": 100,
-      "UsersEstimate": 15920
+      "UsersEstimate": 15921
     },
     {
       "ID": "Escape_Artist",
@@ -11189,7 +11194,7 @@
       "Name": "Escape Artist",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 3790
+      "UsersEstimate": 3791
     },
     {
       "ID": "Fragile_Panes",
@@ -11205,7 +11210,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 13393
+      "UsersEstimate": 13394
     },
     {
       "ID": "GB_In_Training",
@@ -11373,7 +11378,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 21732
+      "UsersEstimate": 21733
     },
     {
       "ID": "Summoner",
@@ -11405,7 +11410,7 @@
       "Name": "Teamwork",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 10866
+      "UsersEstimate": 10867
     },
     {
       "ID": "Terrifying",
@@ -11429,7 +11434,7 @@
       "Name": "There you are!",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 10613
+      "UsersEstimate": 10614
     },
     {
       "ID": "Tobins_Prodigy",
@@ -11476,7 +11481,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 25270,
+      "Progressed": 25271,
       "Completed": 52
     }
   ],
@@ -11484,8 +11489,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-08-20T20:00:34.3047121+00:00",
-  "LastChanged_Achievements": "2023-08-22T18:03:20.2923153+00:00",
+  "LastChanged_Achievements": "2023-08-22T19:03:05.0051346+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:37.9111082+00:00",
-  "LastUpdate_Ratings": "2023-08-22T18:01:05.6253189+00:00",
-  "LastUpdate_Achievements": "2023-08-22T18:03:20.2924134+00:00"
+  "LastUpdate_Ratings": "2023-08-22T19:02:02.9275811+00:00",
+  "LastUpdate_Achievements": "2023-08-22T19:03:05.0052469+00:00"
 }

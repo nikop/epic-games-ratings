@@ -6,52 +6,52 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~14,387 |
-| That's a Grand Army | 3.00% | ~10,790 |
-| That is mine! | 3.00% | ~10,790 |
-| Victorious! | 3.00% | ~10,790 |
-| Brothers in Arms | 2.00% | ~7,193 |
-| That's a Grand Navy | 2.00% | ~7,193 |
-| Seriously?! | 2.00% | ~7,193 |
-| Cold War | 1.00% | ~3,597 |
-| For the Glory | 1.00% | ~3,597 |
-| It's all about the money | 1.00% | ~3,597 |
-| True Catholic | 1.00% | ~3,597 |
-| Defender of the Faith | 0.90% | ~3,237 |
-| The Princess is in this Castle | 0.90% | ~3,237 |
-| It's all about luck | 0.80% | ~2,877 |
-| Respected | 0.80% | ~2,877 |
-| Truly Divine Ruler | 0.80% | ~2,877 |
-| Blockader | 0.70% | ~2,518 |
-| Double the Love | 0.60% | ~2,158 |
-| Royal Authority | 0.60% | ~2,158 |
-| Total Control | 0.60% | ~2,158 |
-| Combined Arms | 0.50% | ~1,798 |
-| My armies are invincible! | 0.50% | ~1,798 |
+| Until death do us apart | 4.00% | ~14,394 |
+| That's a Grand Army | 3.00% | ~10,795 |
+| That is mine! | 3.00% | ~10,795 |
+| Victorious! | 3.00% | ~10,795 |
+| Brothers in Arms | 2.00% | ~7,197 |
+| That's a Grand Navy | 2.00% | ~7,197 |
+| Seriously?! | 2.00% | ~7,197 |
+| Cold War | 1.00% | ~3,598 |
+| For the Glory | 1.00% | ~3,598 |
+| It's all about the money | 1.00% | ~3,598 |
+| True Catholic | 1.00% | ~3,598 |
+| Defender of the Faith | 0.90% | ~3,239 |
+| The Princess is in this Castle | 0.90% | ~3,239 |
+| It's all about luck | 0.80% | ~2,879 |
+| Respected | 0.80% | ~2,879 |
+| Truly Divine Ruler | 0.80% | ~2,879 |
+| Blockader | 0.70% | ~2,519 |
+| Double the Love | 0.60% | ~2,159 |
+| Royal Authority | 0.60% | ~2,159 |
+| Total Control | 0.60% | ~2,159 |
+| Combined Arms | 0.50% | ~1,799 |
+| My armies are invincible! | 0.50% | ~1,799 |
 | Agressive Expander | 0.40% | ~1,439 |
 | Azur semé de lis or | 0.40% | ~1,439 |
 | City of Cities | 0.40% | ~1,439 |
 | Gentle Persuasion | 0.40% | ~1,439 |
 | Queen of Conquest | 0.40% | ~1,439 |
 | This navy can take it all | 0.40% | ~1,439 |
-| All That's Thine Shall Be Mine | 0.30% | ~1,079 |
-| Bright Spark | 0.30% | ~1,079 |
-| The Emperors new clothes | 0.30% | ~1,079 |
-| Factionalism | 0.30% | ~1,079 |
-| A Golden Empire | 0.30% | ~1,079 |
-| Isn't this the way to India? | 0.30% | ~1,079 |
-| Market Control | 0.30% | ~1,079 |
-| The Five Colonies | 0.30% | ~1,079 |
-| All belongs to Mother Russia | 0.20% | ~719 |
-| At every continent | 0.20% | ~719 |
-| Down Under | 0.20% | ~719 |
-| Electable! | 0.20% | ~719 |
-| One Family to Rule them All | 0.20% | ~719 |
-| Populists in Government | 0.20% | ~719 |
-| The pen is mightier than the sword | 0.20% | ~719 |
-| Time Bandit | 0.20% | ~719 |
-| Traditional Player | 0.20% | ~719 |
-| Trustworthy | 0.20% | ~719 |
+| All That's Thine Shall Be Mine | 0.30% | ~1,080 |
+| Bright Spark | 0.30% | ~1,080 |
+| The Emperors new clothes | 0.30% | ~1,080 |
+| Factionalism | 0.30% | ~1,080 |
+| A Golden Empire | 0.30% | ~1,080 |
+| Isn't this the way to India? | 0.30% | ~1,080 |
+| Market Control | 0.30% | ~1,080 |
+| The Five Colonies | 0.30% | ~1,080 |
+| All belongs to Mother Russia | 0.20% | ~720 |
+| At every continent | 0.20% | ~720 |
+| Down Under | 0.20% | ~720 |
+| Electable! | 0.20% | ~720 |
+| One Family to Rule them All | 0.20% | ~720 |
+| Populists in Government | 0.20% | ~720 |
+| The pen is mightier than the sword | 0.20% | ~720 |
+| Time Bandit | 0.20% | ~720 |
+| Traditional Player | 0.20% | ~720 |
+| Trustworthy | 0.20% | ~720 |
 | The 52 Garhs | 0.10% | ~360 |
 | I don't like sand | 0.10% | ~360 |
 | A Blessed Nation | 0.10% | ~360 |
@@ -328,6 +328,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Triple the Rome | 0.10% | ~360 |
 | Trophy Hunter | 0.10% | ~360 |
 | True Heir of Timur | 0.10% | ~360 |
+| Turkish Delight | 0.10% | ~360 |
 | Turn the Table | 0.10% | ~360 |
 | Turning the Tide | 0.10% | ~360 |
 | Turtles all the way down | 0.10% | ~360 |
@@ -357,11 +358,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | Sworn Fealty | 0.00% | ~0 |
 | The Pheasant Strut | 0.00% | ~0 |
-| Turkish Delight | 0.00% | ~0 |
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 359,664 (Ranked 41)  
+Progressed: 359,838 (Ranked 41)  
 Completed: 0 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -485,10 +485,10 @@ Completed: 0 (0.00%) (Ranked 261)
 | 2023-08-19 | 347,673 | 0 |
 | 2023-08-20 | 353,078 | 0 |
 | 2023-08-21 | 357,003 | 0 |
-| 2023-08-22 | 359,664 | 0 |
+| 2023-08-22 | 359,838 | 0 |
 ## Awards
 Max (Educational): 5,750  (Ranked 60)  
-Sum: 47,438 (Ranked 26)  
+Sum: 47,449 (Ranked 26)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
@@ -499,7 +499,7 @@ Diff (max vs sum): 34
 | This game has Diverse Characters | 5,428 |
 | This game is Relaxing | 5,308 |
 | This game has Competitive Players | 5,184 |
-| This game has Amazing Storytelling | 4,849 |
+| This game has Amazing Storytelling | 4,860 |
 | This game has Amazing Characters | 4,492 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
@@ -722,4 +722,4 @@ Diff (max vs sum): 34
 | 2023-08-19 | 4.68 | - | 5,717 | 47,181 |
 | 2023-08-20 | 4.68 | - | 5,721 | 47,267 |
 | 2023-08-21 | 4.68 | - | 5,732 | 47,350 |
-| 2023-08-22 | 4.68 | - | 5,750 | 47,438 |
+| 2023-08-22 | 4.68 | - | 5,750 | 47,449 |

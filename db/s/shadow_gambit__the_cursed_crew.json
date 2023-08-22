@@ -785,9 +785,9 @@
       "ID": "_04_CollectAllRelics",
       "SetID": "8a1io5d",
       "Name": "This Belongs in a Museum",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 104
     },
     {
       "ID": "_05_FinishAct2",
@@ -817,9 +817,9 @@
       "ID": "_08_Completion_10",
       "SetID": "8a1io5d",
       "Name": "Swabbie",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 139
+      "UsersEstimate": 143
     },
     {
       "ID": "_09_Completion_20",
@@ -865,9 +865,9 @@
       "ID": "_14_Completion_70",
       "SetID": "8a1io5d",
       "Name": "Freebooter",
-      "Percentage": 0.7,
+      "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "_15_Completion_80",
@@ -889,17 +889,17 @@
       "ID": "_17_UpgradeFirstCharacter",
       "SetID": "8a1io5d",
       "Name": "With Great Power\u2026",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 126
     },
     {
       "ID": "_18_UpgradeAllCharacters",
       "SetID": "8a1io5d",
       "Name": "Fully Decked",
-      "Percentage": 0.7,
+      "Percentage": 0.9,
       "XP": 125,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "_19_CrewTale_BSP",
@@ -945,9 +945,9 @@
       "ID": "_24_CrewTale_SNP",
       "SetID": "8a1io5d",
       "Name": "Jaded Judge",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 17
     },
     {
       "ID": "_25_CrewTale_GCW",
@@ -976,8 +976,8 @@
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-22T18:04:20.5300593+00:00",
+  "LastChanged_Achievements": "2023-08-22T19:04:28.2834475+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:01.7621403+00:00",
-  "LastUpdate_Ratings": "2023-08-22T18:00:00.955095+00:00",
-  "LastUpdate_Achievements": "2023-08-22T18:04:20.5300833+00:00"
+  "LastUpdate_Ratings": "2023-08-22T19:00:46.7434073+00:00",
+  "LastUpdate_Achievements": "2023-08-22T19:04:28.2834731+00:00"
 }

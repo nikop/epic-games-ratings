@@ -5,7 +5,7 @@ Rating: 4.77 (Ranked 109)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 13.00% | ~37,780 |
+| The Sort Who Makes an Entrance | 13.00% | ~37,781 |
 | First Class Student | 11.00% | ~31,968 |
 | Troll with the Punches | 11.00% | ~31,968 |
 | The Defender of Dragons | 10.00% | ~29,062 |
@@ -19,9 +19,9 @@ Rating: 4.77 (Ranked 109)
 | Challenge Accepted | 9.00% | ~26,156 |
 | Loom for Improvement | 9.00% | ~26,156 |
 | Coasting Along | 9.00% | ~26,156 |
-| Followed the Butterflies | 8.00% | ~23,249 |
-| The Spell Master | 8.00% | ~23,249 |
-| Rising From the Ashes | 8.00% | ~23,249 |
+| Followed the Butterflies | 8.00% | ~23,250 |
+| The Spell Master | 8.00% | ~23,250 |
+| Rising From the Ashes | 8.00% | ~23,250 |
 | The Avenging Gazelle | 7.00% | ~20,343 |
 | Beast Friends | 7.00% | ~20,343 |
 | A Sallow Grave | 7.00% | ~20,343 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,744 |
 | Collector's Edition | 0.30% | ~872 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290,618 (Ranked 43)  
+Progressed: 290,621 (Ranked 43)  
 Completed: 454 (0.16%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,7 +175,7 @@ Completed: 454 (0.16%) (Ranked 193)
 | 2023-08-19 | 290,439 | 453 |
 | 2023-08-20 | 290,517 | 453 |
 | 2023-08-21 | 290,578 | 453 |
-| 2023-08-22 | 290,618 | 454 |
+| 2023-08-22 | 290,621 | 454 |
 ## Awards
 Max (Character Customization): 21,884  (Ranked 17)  
 Sum: 41,384 (Ranked 30)  

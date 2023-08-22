@@ -7,16 +7,16 @@ Number of Ratings: 37  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Eureka! | 12.00% | ~510 |
-| Tax-man I | 11.00% | ~467 |
-| A new beginning | 11.00% | ~467 |
+| Tax-man I | 11.00% | ~468 |
+| A new beginning | 11.00% | ~468 |
 | Friends from the past | 10.00% | ~425 |
 | I like to build stuff... I | 8.00% | ~340 |
 | A time consuming game I | 8.00% | ~340 |
-| Builder I | 7.00% | ~297 |
-| An honorable Governor I | 7.00% | ~297 |
-| Researcher | 7.00% | ~297 |
-| Tax-man II | 7.00% | ~297 |
-| Time for some trade | 7.00% | ~297 |
+| Builder I | 7.00% | ~298 |
+| An honorable Governor I | 7.00% | ~298 |
+| Researcher | 7.00% | ~298 |
+| Tax-man II | 7.00% | ~298 |
+| Time for some trade | 7.00% | ~298 |
 | Bread for the people I | 6.00% | ~255 |
 | I like to build stuff... II | 6.00% | ~255 |
 | Completionist I | 6.00% | ~255 |
@@ -35,16 +35,16 @@ Number of Ratings: 37  (23.09.2022)
 | Tax-man IV | 4.00% | ~170 |
 | A time consuming game III | 4.00% | ~170 |
 | Conflicting parties | 4.00% | ~170 |
-| Another one bites the dust | 3.00% | ~127 |
-| Bread for the people III | 3.00% | ~127 |
-| I like to build stuff... IV | 3.00% | ~127 |
-| The King's new clothes II | 3.00% | ~127 |
-| Experienced decorator | 3.00% | ~127 |
-| Saint Florian | 3.00% | ~127 |
-| My precious... I | 3.00% | ~127 |
-| Cosmas and Damian | 3.00% | ~127 |
-| Full-time job III | 3.00% | ~127 |
-| Tools of the trade II | 3.00% | ~127 |
+| Another one bites the dust | 3.00% | ~128 |
+| Bread for the people III | 3.00% | ~128 |
+| I like to build stuff... IV | 3.00% | ~128 |
+| The King's new clothes II | 3.00% | ~128 |
+| Experienced decorator | 3.00% | ~128 |
+| Saint Florian | 3.00% | ~128 |
+| My precious... I | 3.00% | ~128 |
+| Cosmas and Damian | 3.00% | ~128 |
+| Full-time job III | 3.00% | ~128 |
+| Tools of the trade II | 3.00% | ~128 |
 | The Art of War | 2.00% | ~85 |
 | Five brews are a schnitzel | 2.00% | ~85 |
 | I like to build stuff... V | 2.00% | ~85 |
@@ -78,8 +78,8 @@ Number of Ratings: 37  (23.09.2022)
 | Ten-Hut! | 0.70% | ~30 |
 | Penny pincher | 0.70% | ~30 |
 | The wood shortage | 0.70% | ~30 |
-| Buried | 0.60% | ~25 |
-| Craftsmen challenge | 0.60% | ~25 |
+| Buried | 0.60% | ~26 |
+| Craftsmen challenge | 0.60% | ~26 |
 | I've been everywhere III | 0.50% | ~21 |
 | Little place in the country | 0.50% | ~21 |
 | Made my choice | 0.50% | ~21 |
@@ -108,7 +108,7 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,249 (Ranked 148)  
+Progressed: 4,250 (Ranked 148)  
 Completed: 3 (0.07%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 3 (0.07%) (Ranked 220)
 | 2023-08-12 | 4,246 | 3 |
 | 2023-08-13 | 4,247 | 3 |
 | 2023-08-16 | 4,248 | 3 |
-| 2023-08-22 | 4,249 | 3 |
+| 2023-08-22 | 4,250 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

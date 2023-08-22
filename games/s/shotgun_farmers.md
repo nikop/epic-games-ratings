@@ -29,9 +29,9 @@
 | Eggtraordinary | 14.00% | ~37 |
 | Carrocketeer | 14.00% | ~37 |
 | Getting Started | 13.00% | ~34 |
+| Quit Horsin' Around | 11.00% | ~29 |
 | Summers Here | 11.00% | ~23 |
 | Fresh Pancake | 10.00% | ~26 |
-| Quit Horsin' Around | 10.00% | ~26 |
 | Perfect | 10.00% | ~21 |
 | Expert Survivor | 10.00% | ~21 |
 | Bring Home The Bacon | 8.00% | ~21 |

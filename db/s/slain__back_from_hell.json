@@ -2,7 +2,7 @@
   "ID": "5a85738bd9e74940ad8409ed8a2c680a",
   "Name": "Slain: Back From Hell",
   "ProductSlug": "slain-aea303",
-  "Ranking_Rating": 797,
+  "Ranking_Rating": 798,
   "Ranking_Popularity": 312,
   "Ranking_PopularitySum": 404,
   "Ranking_EOS_Progress": 99,
@@ -217,9 +217,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 34815,
+  "EOS_Progressed": 34821,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 818,
+  "EOS_NewPlayers": 815,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -13877,6 +13877,11 @@
       "Time": "2023-08-22T18:06:15.9782113+00:00",
       "NumProgressed": 34815,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-08-22T19:06:57.5091052+00:00",
+      "NumProgressed": 34821,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 29,
@@ -13888,7 +13893,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 5222
+      "UsersEstimate": 5223
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -13896,7 +13901,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 6963
+      "UsersEstimate": 6964
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -14119,7 +14124,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 34815,
+      "Progressed": 34821,
       "Completed": 21
     }
   ],
@@ -14127,8 +14132,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-08-12T21:03:39.1122054+00:00",
-  "LastChanged_Achievements": "2023-08-22T18:06:15.9782106+00:00",
+  "LastChanged_Achievements": "2023-08-22T19:06:57.5091046+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:52.0390033+00:00",
-  "LastUpdate_Ratings": "2023-08-22T17:57:52.989166+00:00",
-  "LastUpdate_Achievements": "2023-08-22T18:06:15.9783113+00:00"
+  "LastUpdate_Ratings": "2023-08-22T18:58:04.3403779+00:00",
+  "LastUpdate_Achievements": "2023-08-22T19:06:57.5092272+00:00"
 }

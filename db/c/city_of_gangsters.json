@@ -541,9 +541,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 339019,
+  "EOS_Progressed": 339030,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1681,
+  "EOS_NewPlayers": 1692,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14241,6 +14241,11 @@
       "Time": "2023-08-22T18:03:50.7849752+00:00",
       "NumProgressed": 339019,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-08-22T19:03:41.6340746+00:00",
+      "NumProgressed": 339030,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -14268,7 +14273,7 @@
       "Name": "Cleaning House",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 40682
+      "UsersEstimate": 40684
     },
     {
       "ID": "ach004",
@@ -14276,7 +14281,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6780
+      "UsersEstimate": 6781
     },
     {
       "ID": "ach005",
@@ -14292,7 +14297,7 @@
       "Name": "Street Knowledge",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 16951
+      "UsersEstimate": 16952
     },
     {
       "ID": "ach007",
@@ -14308,7 +14313,7 @@
       "Name": "Room in the Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 40682
+      "UsersEstimate": 40684
     },
     {
       "ID": "ach009",
@@ -14332,7 +14337,7 @@
       "Name": "Oh Captain",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 16951
+      "UsersEstimate": 16952
     },
     {
       "ID": "ach012",
@@ -14348,7 +14353,7 @@
       "Name": "Baker\u2019s Dozen",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6780
+      "UsersEstimate": 6781
     },
     {
       "ID": "ach014",
@@ -14356,7 +14361,7 @@
       "Name": "Fronting the Money",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 50853
+      "UsersEstimate": 50854
     },
     {
       "ID": "ach015",
@@ -14364,7 +14369,7 @@
       "Name": "Branching Out",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 16951
+      "UsersEstimate": 16952
     },
     {
       "ID": "ach016",
@@ -14380,7 +14385,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 44072
+      "UsersEstimate": 44074
     },
     {
       "ID": "ach018",
@@ -14460,7 +14465,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 155949
+      "UsersEstimate": 155954
     },
     {
       "ID": "ach028",
@@ -14476,7 +14481,7 @@
       "Name": "Beating the Heat",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 37292
+      "UsersEstimate": 37293
     },
     {
       "ID": "ach030",
@@ -14484,7 +14489,7 @@
       "Name": "Dropping the Dime",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6780
+      "UsersEstimate": 6781
     },
     {
       "ID": "ach031",
@@ -14556,7 +14561,7 @@
       "Name": "Friends on the Force",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 33902
+      "UsersEstimate": 33903
     },
     {
       "ID": "ach040",
@@ -14564,7 +14569,7 @@
       "Name": "Improvement Missions",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 16951
+      "UsersEstimate": 16952
     },
     {
       "ID": "ach041",
@@ -14580,7 +14585,7 @@
       "Name": "Opportunity Knocked",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 16951
+      "UsersEstimate": 16952
     },
     {
       "ID": "ach043",
@@ -14588,7 +14593,7 @@
       "Name": "Street Fighter",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 23731
+      "UsersEstimate": 23732
     },
     {
       "ID": "ach044",
@@ -14604,7 +14609,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 44072
+      "UsersEstimate": 44074
     },
     {
       "ID": "ach046",
@@ -14612,7 +14617,7 @@
       "Name": "Friendly Gestures",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 23731
+      "UsersEstimate": 23732
     },
     {
       "ID": "ach047",
@@ -14644,7 +14649,7 @@
       "Name": "City of Big Shoulders",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 16951
+      "UsersEstimate": 16952
     },
     {
       "ID": "ach051",
@@ -14652,7 +14657,7 @@
       "Name": "Booze Baron",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 37292
+      "UsersEstimate": 37293
     },
     {
       "ID": "ach052",
@@ -14660,7 +14665,7 @@
       "Name": "Liquor Lord",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 20341
+      "UsersEstimate": 20342
     },
     {
       "ID": "ach053",
@@ -14684,7 +14689,7 @@
       "Name": "Spiffy Speakeasies",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6780
+      "UsersEstimate": 6781
     },
     {
       "ID": "ach056",
@@ -14716,7 +14721,7 @@
       "Name": "Neighborhood Watch",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 33902
+      "UsersEstimate": 33903
     },
     {
       "ID": "ach060",
@@ -14724,7 +14729,7 @@
       "Name": "Safety in Numbers",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 20341
+      "UsersEstimate": 20342
     },
     {
       "ID": "ach061",
@@ -14732,7 +14737,7 @@
       "Name": "Keeping Your Word",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6780
+      "UsersEstimate": 6781
     },
     {
       "ID": "ach062",
@@ -14748,7 +14753,7 @@
       "Name": "Moving Experiences",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 20341
+      "UsersEstimate": 20342
     },
     {
       "ID": "ach065",
@@ -14764,7 +14769,7 @@
       "Name": "The Dawn of Automation",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 47463
+      "UsersEstimate": 47464
     },
     {
       "ID": "ach067",
@@ -14780,7 +14785,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 54243
+      "UsersEstimate": 54245
     },
     {
       "ID": "ach069",
@@ -14788,7 +14793,7 @@
       "Name": "Extraordinary Logistics",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 47463
+      "UsersEstimate": 47464
     },
     {
       "ID": "ach070",
@@ -14804,7 +14809,7 @@
       "Name": "Mission Mastery",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 16951
+      "UsersEstimate": 16952
     },
     {
       "ID": "ach072",
@@ -14812,7 +14817,7 @@
       "Name": "Wise Head",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 20341
+      "UsersEstimate": 20342
     },
     {
       "ID": "ach073",
@@ -14820,7 +14825,7 @@
       "Name": "Show \u2018em the Sugar",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 20341
+      "UsersEstimate": 20342
     },
     {
       "ID": "ach074",
@@ -14836,7 +14841,7 @@
       "Name": "Killing Them Softly",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 20341
+      "UsersEstimate": 20342
     },
     {
       "ID": "ach076",
@@ -14860,7 +14865,7 @@
       "Name": "People Person",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 23731
+      "UsersEstimate": 23732
     },
     {
       "ID": "ach079",
@@ -14891,7 +14896,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 339019,
+      "Progressed": 339030,
       "Completed": 7
     }
   ],
@@ -14899,8 +14904,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-08-22T09:00:19.1363455+00:00",
-  "LastChanged_Achievements": "2023-08-22T18:03:50.7849746+00:00",
+  "LastChanged_Achievements": "2023-08-22T19:03:41.6340739+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:50.072917+00:00",
-  "LastUpdate_Ratings": "2023-08-22T17:59:53.2450794+00:00",
-  "LastUpdate_Achievements": "2023-08-22T18:03:50.7851673+00:00"
+  "LastUpdate_Ratings": "2023-08-22T19:00:35.3181793+00:00",
+  "LastUpdate_Achievements": "2023-08-22T19:03:41.6342753+00:00"
 }

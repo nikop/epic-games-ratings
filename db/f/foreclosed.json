@@ -2,9 +2,9 @@
   "ID": "9070f19d29354e45abf338e566da7ced",
   "Name": "FORECLOSED",
   "ProductSlug": "foreclosed",
-  "Ranking_EOS_Progress": 335,
+  "Ranking_EOS_Progress": 334,
   "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_NewPlayers": 316,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-08-12T13:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 92,
+  "EOS_Progressed": 93,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.17,
+  "EOS_Completed_Percentage": 2.15,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:36.3929113+00:00",
@@ -141,6 +141,11 @@
       "Time": "2023-08-10T19:05:38.0344946+00:00",
       "NumProgressed": 92,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-22T19:07:07.8135198+00:00",
+      "NumProgressed": 93,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 24,
@@ -198,7 +203,7 @@
       "ID": "ExpertChoice",
       "SetID": "9e3d06k",
       "Name": "Tough Decision",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 19
     },
@@ -206,7 +211,7 @@
       "ID": "FirstAutoSkillUnlock",
       "SetID": "9e3d06k",
       "Name": "Breaking Through",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 10,
       "UsersEstimate": 64
     },
@@ -214,7 +219,7 @@
       "ID": "FirstSkillBuy",
       "SetID": "9e3d06k",
       "Name": "A.I. Training",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 5,
       "UsersEstimate": 46
     },
@@ -246,7 +251,7 @@
       "ID": "KyklosPlan",
       "SetID": "9e3d06k",
       "Name": "The Red Herring",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 5,
       "UsersEstimate": 32
     },
@@ -278,7 +283,7 @@
       "ID": "SecondAutoSkillUnlock",
       "SetID": "9e3d06k",
       "Name": "Silent Overload",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 5,
       "UsersEstimate": 56
     },
@@ -343,7 +348,7 @@
     {
       "ID": "9e3d06k",
       "IsBase": true,
-      "Progressed": 92,
+      "Progressed": 93,
       "Completed": 2
     }
   ],
@@ -351,8 +356,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.504536+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:36.392912+00:00",
   "LastChanged": "2023-03-31T05:58:41.5045361+00:00",
-  "LastChanged_Achievements": "2023-08-22T18:06:24.1180586+00:00",
+  "LastChanged_Achievements": "2023-08-22T19:07:07.8135193+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:36.0438853+00:00",
-  "LastUpdate_Ratings": "2023-08-22T18:01:03.5572507+00:00",
-  "LastUpdate_Achievements": "2023-08-22T18:06:24.1180773+00:00"
+  "LastUpdate_Ratings": "2023-08-22T19:02:00.2679607+00:00",
+  "LastUpdate_Achievements": "2023-08-22T19:07:07.813539+00:00"
 }

@@ -2504,7 +2504,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 67973,
+  "EOS_Progressed": 67974,
   "EOS_Completed": 109,
   "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 2,
@@ -12959,6 +12959,11 @@
       "Time": "2023-08-22T16:07:34.4766331+00:00",
       "NumProgressed": 67973,
       "NumCompleted": 109
+    },
+    {
+      "Time": "2023-08-22T19:07:42.5784102+00:00",
+      "NumProgressed": 67974,
+      "NumCompleted": 109
     }
   ],
   "TotalAchievements": 61,
@@ -13066,7 +13071,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 11555
+      "UsersEstimate": 11556
     },
     {
       "ID": "CLAYFACE_1",
@@ -13074,7 +13079,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 14274
+      "UsersEstimate": 14275
     },
     {
       "ID": "CLAYFACE_2",
@@ -13130,7 +13135,7 @@
       "Name": "Not On My Watch",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 8836
+      "UsersEstimate": 8837
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -13178,7 +13183,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 8836
+      "UsersEstimate": 8837
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -13194,7 +13199,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 19032
+      "UsersEstimate": 19033
     },
     {
       "ID": "FREEZE_1_5",
@@ -13282,7 +13287,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 16993
+      "UsersEstimate": 16994
     },
     {
       "ID": "HARLEY_3",
@@ -13314,7 +13319,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 33986
+      "UsersEstimate": 33987
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -13370,7 +13375,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 16993
+      "UsersEstimate": 16994
     },
     {
       "ID": "MYSTERY_03",
@@ -13457,13 +13462,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 67973,
+      "Progressed": 67974,
       "Completed": 109
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 38253,
+      "Progressed": 38254,
       "Completed": 2658
     }
   ],
@@ -13471,8 +13476,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-08-22T13:02:06.8098458+00:00",
-  "LastChanged_Achievements": "2023-08-22T18:06:52.1748518+00:00",
+  "LastChanged_Achievements": "2023-08-22T19:07:42.5784096+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:36.1459925+00:00",
-  "LastUpdate_Ratings": "2023-08-22T17:57:39.7892227+00:00",
-  "LastUpdate_Achievements": "2023-08-22T18:06:52.1749712+00:00"
+  "LastUpdate_Ratings": "2023-08-22T18:57:50.1449382+00:00",
+  "LastUpdate_Achievements": "2023-08-22T19:07:42.5785271+00:00"
 }

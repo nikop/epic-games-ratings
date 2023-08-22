@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 80,
+  "Ranking_EOS_NewPlayers": 79,
   "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -6612,9 +6612,9 @@
       "Count": 598
     }
   ],
-  "EOS_Progressed": 290618,
+  "EOS_Progressed": 290621,
   "EOS_Completed": 454,
-  "EOS_NewPlayers": 458,
+  "EOS_NewPlayers": 461,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -19997,6 +19997,11 @@
       "Time": "2023-08-22T18:06:42.8805161+00:00",
       "NumProgressed": 290618,
       "NumCompleted": 454
+    },
+    {
+      "Time": "2023-08-22T19:07:30.9045699+00:00",
+      "NumProgressed": 290621,
+      "NumCompleted": 454
     }
   ],
   "TotalAchievements": 45,
@@ -20008,7 +20013,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 37780
+      "UsersEstimate": 37781
     },
     {
       "ID": "PFA_10",
@@ -20232,7 +20237,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 23249
+      "UsersEstimate": 23250
     },
     {
       "ID": "PFA_36",
@@ -20312,7 +20317,7 @@
       "Name": "The Spell Master",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23249
+      "UsersEstimate": 23250
     },
     {
       "ID": "PFA_45",
@@ -20360,14 +20365,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23249
+      "UsersEstimate": 23250
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 290618,
+      "Progressed": 290621,
       "Completed": 454
     }
   ],
@@ -20375,8 +20380,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-08-22T05:00:54.0715212+00:00",
-  "LastChanged_Achievements": "2023-08-22T18:06:42.8805155+00:00",
+  "LastChanged_Achievements": "2023-08-22T19:07:30.9045694+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:55.8476503+00:00",
-  "LastUpdate_Ratings": "2023-08-22T17:59:24.324501+00:00",
-  "LastUpdate_Achievements": "2023-08-22T18:06:42.8806303+00:00"
+  "LastUpdate_Ratings": "2023-08-22T18:59:58.4467156+00:00",
+  "LastUpdate_Achievements": "2023-08-22T19:07:30.9047076+00:00"
 }

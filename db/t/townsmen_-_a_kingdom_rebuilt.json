@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewPlayers": 281,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
@@ -215,9 +215,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4249,
+  "EOS_Progressed": 4250,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -1065,6 +1065,11 @@
       "Time": "2023-08-22T10:07:08.8848905+00:00",
       "NumProgressed": 4249,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-22T19:02:22.410892+00:00",
+      "NumProgressed": 4250,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 101,
@@ -1100,7 +1105,7 @@
       "Name": "Another one bites the dust",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ACHIEVEMENT_BREAD1",
@@ -1124,7 +1129,7 @@
       "Name": "Bread for the people III",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ACHIEVEMENT_BREWS",
@@ -1164,7 +1169,7 @@
       "Name": "I like to build stuff... IV",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ACHIEVEMENT_BUILDINGS5",
@@ -1196,7 +1201,7 @@
       "Name": "The King\u0027s new clothes II",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ACHIEVEMENT_CLOTHES3",
@@ -1212,7 +1217,7 @@
       "Name": "Experienced decorator",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ACHIEVEMENT_ELECTION_FACTIONS",
@@ -1236,7 +1241,7 @@
       "Name": "Saint Florian",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ACHIEVEMENT_FOUR_DESASTERS",
@@ -1252,7 +1257,7 @@
       "Name": "My precious... I",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ACHIEVEMENT_JEWELS2",
@@ -1292,7 +1297,7 @@
       "Name": "Cosmas and Damian",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ACHIEVEMENT_PLAGEAFFLICTED1",
@@ -1308,7 +1313,7 @@
       "Name": "Builder I",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "ACHIEVEMENT_POPULATION2",
@@ -1348,7 +1353,7 @@
       "Name": "An honorable Governor I",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "ACHIEVEMENT_PRESTIGE2",
@@ -1420,7 +1425,7 @@
       "Name": "Full-time job III",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ACHIEVEMENT_RESEARCHCOMPLETED1",
@@ -1436,7 +1441,7 @@
       "Name": "Researcher",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "ACHIEVEMENT_RESEARCHCOMPLETED3",
@@ -1468,7 +1473,7 @@
       "Name": "Buried",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_BASICTRAINING",
@@ -1500,7 +1505,7 @@
       "Name": "Craftsmen challenge",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_CURSE",
@@ -1724,7 +1729,7 @@
       "Name": "Tax-man I",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "ACHIEVEMENT_TAXES2",
@@ -1732,7 +1737,7 @@
       "Name": "Tax-man II",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "ACHIEVEMENT_TAXES3",
@@ -1812,7 +1817,7 @@
       "Name": "Tools of the trade II",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ACHIEVEMENT_TOOLS3",
@@ -1828,7 +1833,7 @@
       "Name": "A new beginning",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION02",
@@ -1844,7 +1849,7 @@
       "Name": "Time for some trade",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION04",
@@ -1883,15 +1888,15 @@
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4249,
+      "Progressed": 4250,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-06-06T06:58:15.5941175+00:00",
-  "LastChanged_Achievements": "2023-08-22T17:07:22.5993149+00:00",
+  "LastChanged_Achievements": "2023-08-22T19:02:22.4108914+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:01.292647+00:00",
-  "LastUpdate_Ratings": "2023-08-22T18:00:02.146524+00:00",
-  "LastUpdate_Achievements": "2023-08-22T17:07:22.5995792+00:00"
+  "LastUpdate_Ratings": "2023-08-22T19:00:49.2745076+00:00",
+  "LastUpdate_Achievements": "2023-08-22T19:02:22.4110242+00:00"
 }

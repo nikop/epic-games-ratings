@@ -4,7 +4,7 @@
   "ProductSlug": "shotgun-farmers-d9f3f0",
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 282,
+  "Ranking_EOS_NewPlayers": 281,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -1279,9 +1279,9 @@
       "ID": "ach_kill_with_horse_kick",
       "SetID": "cmg602e",
       "Name": "Quit Horsin\u0027 Around",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 29
     },
     {
       "ID": "ach_pickup_chicken_in_x_seconds_after_match_start",
@@ -1734,8 +1734,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-08-22T18:03:39.9386824+00:00",
+  "LastChanged_Achievements": "2023-08-22T19:03:28.9515676+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:21.1390535+00:00",
-  "LastUpdate_Ratings": "2023-08-22T18:00:16.4495154+00:00",
-  "LastUpdate_Achievements": "2023-08-22T18:03:39.9387674+00:00"
+  "LastUpdate_Ratings": "2023-08-22T19:01:04.5040596+00:00",
+  "LastUpdate_Achievements": "2023-08-22T19:03:28.9516489+00:00"
 }

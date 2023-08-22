@@ -6,9 +6,9 @@
 | ---- | ---------- | ----- |
 | A New Journey | 73.00% | ~317 |
 | The Adventure Begins | 49.00% | ~213 |
-| Swabbie | 32.00% | ~139 |
-| With Great Power… | 28.00% | ~122 |
-| This Belongs in a Museum | 23.00% | ~100 |
+| Swabbie | 33.00% | ~143 |
+| With Great Power… | 29.00% | ~126 |
+| This Belongs in a Museum | 24.00% | ~104 |
 | The Gambit Has Begun | 17.00% | ~74 |
 | Powder Monkey | 14.00% | ~61 |
 | Mirror Mirror on the Wall | 11.00% | ~48 |
@@ -17,17 +17,17 @@
 | Persistent Parasite | 9.00% | ~39 |
 | Buccaneer | 7.00% | ~30 |
 | Pirates Assemble! | 7.00% | ~30 |
+| Jaded Judge | 4.00% | ~17 |
 | Rustic Recipe | 4.00% | ~17 |
 | All Good Things | 3.00% | ~13 |
 | Seadog | 3.00% | ~13 |
 | Privateer | 3.00% | ~13 |
 | Lyrical Longing | 3.00% | ~13 |
-| Jaded Judge | 3.00% | ~13 |
 | Corsair | 2.00% | ~9 |
 | Tobacco Travesty | 2.00% | ~9 |
 | Accursed Artifacts | 2.00% | ~9 |
-| Freebooter | 0.70% | ~3 |
-| Fully Decked | 0.70% | ~3 |
+| Freebooter | 0.90% | ~4 |
+| Fully Decked | 0.90% | ~4 |
 | Marauder | 0.50% | ~2 |
 | Welcome Back Jester | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)

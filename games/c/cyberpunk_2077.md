@@ -6,34 +6,34 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 68.00% | ~593,006 |
-| Right Back At Ya | 39.00% | ~340,106 |
-| The Lovers | 35.00% | ~305,223 |
-| Stanislavski's Method | 29.00% | ~252,899 |
-| The Wheel of Fortune | 27.00% | ~235,458 |
-| The Hermit | 25.00% | ~218,017 |
-| Christmas Tree Attack | 23.00% | ~200,575 |
-| True Soldier | 23.00% | ~200,575 |
-| The High Priestess | 22.00% | ~191,855 |
-| Legend of The Afterlife | 22.00% | ~191,855 |
-| Life of the Road | 21.00% | ~183,134 |
-| Full Body Conversion | 18.00% | ~156,972 |
-| The World | 18.00% | ~156,972 |
-| Bushido and Chill | 17.00% | ~148,251 |
-| Gun Fu | 15.00% | ~130,810 |
-| True Warrior | 15.00% | ~130,810 |
-| To Protect and Serve | 14.00% | ~122,089 |
-| I Am The Law | 14.00% | ~122,089 |
-| Judy vs Night City | 14.00% | ~122,089 |
-| Master Crafter | 13.00% | ~113,369 |
-| Two Heads, One Bullet | 12.00% | ~104,648 |
-| The Quick and the Dead | 10.00% | ~87,207 |
-| The Wandering Fool | 9.00% | ~78,486 |
-| Ten out of Ten | 9.00% | ~78,486 |
-| Breathtaking | 8.00% | ~69,765 |
+| The Fool | 68.00% | ~593,012 |
+| Right Back At Ya | 39.00% | ~340,110 |
+| The Lovers | 35.00% | ~305,227 |
+| Stanislavski's Method | 29.00% | ~252,902 |
+| The Wheel of Fortune | 27.00% | ~235,461 |
+| The Hermit | 25.00% | ~218,019 |
+| Christmas Tree Attack | 23.00% | ~200,577 |
+| True Soldier | 23.00% | ~200,577 |
+| The High Priestess | 22.00% | ~191,857 |
+| Legend of The Afterlife | 22.00% | ~191,857 |
+| Life of the Road | 21.00% | ~183,136 |
+| Full Body Conversion | 18.00% | ~156,974 |
+| The World | 18.00% | ~156,974 |
+| Bushido and Chill | 17.00% | ~148,253 |
+| Gun Fu | 15.00% | ~130,811 |
+| True Warrior | 15.00% | ~130,811 |
+| To Protect and Serve | 14.00% | ~122,091 |
+| I Am The Law | 14.00% | ~122,091 |
+| Judy vs Night City | 14.00% | ~122,091 |
+| Master Crafter | 13.00% | ~113,370 |
+| Two Heads, One Bullet | 12.00% | ~104,649 |
+| The Quick and the Dead | 10.00% | ~87,208 |
+| The Wandering Fool | 9.00% | ~78,487 |
+| Ten out of Ten | 9.00% | ~78,487 |
+| Breathtaking | 8.00% | ~69,766 |
 | The Star | 7.00% | ~61,045 |
 | The Sun | 7.00% | ~61,045 |
-| To Bad Decisions! | 6.00% | ~52,324 |
+| To Bad Decisions! | 6.00% | ~52,325 |
 | Must Be Rats | 4.00% | ~34,883 |
 | Temperance | 4.00% | ~34,883 |
 | City Lights | 3.00% | ~26,162 |
@@ -43,15 +43,15 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Jungle | 3.00% | ~26,162 |
 | V for Vendetta | 3.00% | ~26,162 |
 | It's Elementary | 3.00% | ~26,162 |
-| Autojock | 2.00% | ~17,441 |
-| Frequent Flyer | 2.00% | ~17,441 |
-| The Wasteland | 2.00% | ~17,441 |
-| Daemon In The Shell | 2.00% | ~17,441 |
-| The Devil | 2.00% | ~17,441 |
+| Autojock | 2.00% | ~17,442 |
+| Frequent Flyer | 2.00% | ~17,442 |
+| The Wasteland | 2.00% | ~17,442 |
+| Daemon In The Shell | 2.00% | ~17,442 |
+| The Devil | 2.00% | ~17,442 |
 | Gunslinger | 1.00% | ~8,721 |
 | Rough Landing | 0.50% | ~4,360 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 872,067 (Ranked 14)  
+Progressed: 872,076 (Ranked 14)  
 Completed: 2,002 (0.23%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,10 +175,10 @@ Completed: 2,002 (0.23%) (Ranked 182)
 | 2023-08-19 | 871,633 | 1,987 |
 | 2023-08-20 | 871,813 | 1,995 |
 | 2023-08-21 | 871,958 | 2,000 |
-| 2023-08-22 | 872,067 | 2,002 |
+| 2023-08-22 | 872,076 | 2,002 |
 ## Awards
 Max (Character Customization): 76,027  (Ranked 9)  
-Sum: 201,236 (Ranked 13)  
+Sum: 201,263 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
@@ -186,12 +186,12 @@ Diff (max vs sum): -4
 | This game has Great Boss Battles | 49,225 |
 | This game is Great for Beginners | 8,964 |
 | This game has Diverse Characters | 8,946 |
-| This game has Amazing Storytelling | 8,930 |
+| This game has Amazing Storytelling | 8,942 |
 | This game is Extremely Fun | 8,793 |
 | This game is Highly Recommended | 8,791 |
 | This game is Relaxing | 8,692 |
 | This game has Quickly Understood Controls | 8,620 |
-| This game has Amazing Characters | 8,602 |
+| This game has Amazing Characters | 8,617 |
 | This game has a Creative Community | 5,646 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
@@ -411,4 +411,4 @@ Diff (max vs sum): -4
 | 2023-08-19 | 4.62 | - | 75,809 | 200,559 |
 | 2023-08-20 | 4.62 | - | 75,896 | 200,851 |
 | 2023-08-21 | 4.62 | - | 75,970 | 201,087 |
-| 2023-08-22 | 4.62 | - | 76,027 | 201,236 |
+| 2023-08-22 | 4.62 | - | 76,027 | 201,263 |

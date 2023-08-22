@@ -145,9 +145,9 @@
       "ID": "3",
       "SetID": "1kmik7f",
       "Name": "Pipp Pipp Parade!",
-      "Percentage": 63,
+      "Percentage": 66,
       "XP": 75,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "4",
@@ -161,9 +161,9 @@
       "ID": "5",
       "SetID": "1kmik7f",
       "Name": "Glowing Up",
-      "Percentage": 61,
+      "Percentage": 63,
       "XP": 75,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "6",
@@ -185,9 +185,9 @@
       "ID": "8",
       "SetID": "1kmik7f",
       "Name": "Pro Herder",
-      "Percentage": 56,
+      "Percentage": 59,
       "XP": 75,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "9",
@@ -210,8 +210,8 @@
   "FirstSeenRating": "2023-03-31T05:58:26.3358258+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:29.30737+00:00",
   "LastChanged": "2023-03-31T05:58:26.335826+00:00",
-  "LastChanged_Achievements": "2023-08-22T18:04:47.9797587+00:00",
+  "LastChanged_Achievements": "2023-08-22T19:05:00.7779239+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:16.8216809+00:00",
-  "LastUpdate_Ratings": "2023-08-22T18:00:48.6526966+00:00",
-  "LastUpdate_Achievements": "2023-08-22T18:04:47.9797708+00:00"
+  "LastUpdate_Ratings": "2023-08-22T19:01:40.967181+00:00",
+  "LastUpdate_Achievements": "2023-08-22T19:05:00.7779369+00:00"
 }

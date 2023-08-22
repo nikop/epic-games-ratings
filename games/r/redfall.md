@@ -5,6 +5,7 @@ Rating: 3.50 (Ranked 974)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Neighborhood Revitalization | 0.10% | ~2 |
 | Revelations | 0.10% | ~2 |
 | Enter of Your Own Free Will | 0.10% | ~2 |
 | Contingency Plans | 0.10% | ~2 |
@@ -14,6 +15,7 @@ Rating: 3.50 (Ranked 974)
 | Neighborhood Watch | 0.10% | ~2 |
 | I Like My Stakes Rare! | 0.10% | ~2 |
 | Sic Transit Umbra | 0.10% | ~2 |
+| Radio Silence | 0.10% | ~2 |
 | Bell-ringer | 0.10% | ~2 |
 | Silence Is Golden | 0.10% | ~2 |
 | Good Morning | 0.10% | ~2 |
@@ -26,8 +28,8 @@ Rating: 3.50 (Ranked 974)
 | Heart Attack | 0.10% | ~2 |
 | Harvest’s End | 0.10% | ~2 |
 | Bob’s Final Hour | 0.10% | ~2 |
+| Helping Hand | 0.10% | ~2 |
 | I Spit On Your Grave | 0.10% | ~2 |
-| Neighborhood Revitalization | 0.00% | ~0 |
 | Home Is Where the Heart Is | 0.00% | ~0 |
 | Deforestation | 0.00% | ~0 |
 | Block Party | 0.00% | ~0 |
@@ -37,7 +39,6 @@ Rating: 3.50 (Ranked 974)
 | Friendgineering | 0.00% | ~0 |
 | Bad Wiring | 0.00% | ~0 |
 | Spit Take | 0.00% | ~0 |
-| Radio Silence | 0.00% | ~0 |
 | Peek-a-boo | 0.00% | ~0 |
 | You Clean It Up | 0.00% | ~0 |
 | Throw The First Stone | 0.00% | ~0 |
@@ -64,7 +65,6 @@ Rating: 3.50 (Ranked 974)
 | Dexterity Save | 0.00% | ~0 |
 | Saw That Coming | 0.00% | ~0 |
 | Lights Out | 0.00% | ~0 |
-| Helping Hand | 0.00% | ~0 |
 | Good Samaritan | 0.00% | ~0 |
 | Curious Finch | 0.00% | ~0 |
 | Say Goodbye, Joe | 0.00% | ~0 |

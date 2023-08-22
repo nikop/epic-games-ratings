@@ -6004,9 +6004,9 @@
       "Count": 3365
     }
   ],
-  "EOS_Progressed": 224153,
+  "EOS_Progressed": 224165,
   "EOS_Completed": 2207,
-  "EOS_NewPlayers": 2016,
+  "EOS_NewPlayers": 2009,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -19564,6 +19564,11 @@
       "Time": "2023-08-22T18:06:03.2791744+00:00",
       "NumProgressed": 224153,
       "NumCompleted": 2207
+    },
+    {
+      "Time": "2023-08-22T19:06:42.5813271+00:00",
+      "NumProgressed": 224165,
+      "NumCompleted": 2207
     }
   ],
   "TotalAchievements": 516,
@@ -22749,9 +22754,9 @@
       "ID": "objective_completed_74",
       "SetID": "cc37lbc",
       "Name": "Waterdeep Detours",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 224
+      "UsersEstimate": 448
     },
     {
       "ID": "objective_completed_75",
@@ -23702,21 +23707,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 190427,
+      "Progressed": 190439,
       "Completed": 3290
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 224153,
+      "Progressed": 224165,
       "Completed": 2207
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-22T15:00:33.3528943+00:00",
-  "LastChanged_Achievements": "2023-08-22T18:06:03.2791738+00:00",
+  "LastChanged_Achievements": "2023-08-22T19:06:42.5813265+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:12.3267162+00:00",
-  "LastUpdate_Ratings": "2023-08-22T18:00:08.6302701+00:00",
-  "LastUpdate_Achievements": "2023-08-22T18:06:03.2822551+00:00"
+  "LastUpdate_Ratings": "2023-08-22T19:00:55.7509732+00:00",
+  "LastUpdate_Achievements": "2023-08-22T19:06:42.5844346+00:00"
 }

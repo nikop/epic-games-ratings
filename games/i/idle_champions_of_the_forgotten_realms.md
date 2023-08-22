@@ -48,6 +48,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Running of the Saurs | 0.20% | ~448 |
 | The Contagious Curse | 0.20% | ~448 |
 | Escort to Waterdeep | 0.20% | ~448 |
+| Waterdeep Detours | 0.20% | ~448 |
 | Underdeep Cartography | 0.20% | ~448 |
 | Friendly Imps | 0.20% | ~448 |
 | Pure Energy | 0.20% | ~448 |
@@ -410,7 +411,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Close Escort | 0.10% | ~224 |
 | Constant Banditry | 0.10% | ~224 |
 | The Long Haul | 0.10% | ~224 |
-| Waterdeep Detours | 0.10% | ~224 |
 | Lost in the Deep | 0.10% | ~224 |
 | Easily Distracted | 0.10% | ~224 |
 | Rude Welcome | 0.10% | ~224 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~190 |
 | Animated Giff | 0.10% | ~190 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,153 (Ranked 53)  
+Progressed: 224,165 (Ranked 53)  
 Completed: 2,207 (0.98%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -647,7 +647,7 @@ Completed: 2,207 (0.98%) (Ranked 120)
 | 2023-08-19 | 223,443 | 2,193 |
 | 2023-08-20 | 223,729 | 2,196 |
 | 2023-08-21 | 223,996 | 2,203 |
-| 2023-08-22 | 224,153 | 2,207 |
+| 2023-08-22 | 224,165 | 2,207 |
 ## Awards
 Max (Diverse Characters): 5,176  (Ranked 68)  
 Sum: 31,167 (Ranked 38)  

@@ -17,7 +17,7 @@
 | This Coffin Has Your Name On It! | 14.00% | ~29 |
 | Parasite Exterminated | 13.00% | ~27 |
 | The Forgotten Tower | 13.00% | ~27 |
-| Lover of classics | 10.00% | ~21 |
+| Lover of classics | 11.00% | ~23 |
 | Rest In Peace | 10.00% | ~21 |
 | The Curse Is Real | 10.00% | ~21 |
 | Trapped | 10.00% | ~21 |
