@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -266,9 +266,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3091,
+  "EOS_Progressed": 3092,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4636,6 +4636,11 @@
       "Time": "2023-08-21T15:08:54.8571252+00:00",
       "NumProgressed": 3091,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-22T14:07:50.7042847+00:00",
+      "NumProgressed": 3092,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -4775,7 +4780,7 @@
       "Name": "Sightseeing",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "ACH_BASE_27",
@@ -4975,7 +4980,7 @@
       "Name": "Convenient Transport",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "ACH_BASE_52",
@@ -5102,13 +5107,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1273,
+      "Progressed": 1274,
       "Completed": 6
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3091,
+      "Progressed": 3092,
       "Completed": 0
     }
   ],
@@ -5116,8 +5121,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-08-19T11:00:48.8517492+00:00",
-  "LastChanged_Achievements": "2023-08-22T13:13:08.7478364+00:00",
+  "LastChanged_Achievements": "2023-08-22T14:07:50.704284+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:49.8768726+00:00",
-  "LastUpdate_Ratings": "2023-08-22T13:06:16.5507462+00:00",
-  "LastUpdate_Achievements": "2023-08-22T13:13:08.7479558+00:00"
+  "LastUpdate_Ratings": "2023-08-22T14:01:01.477813+00:00",
+  "LastUpdate_Achievements": "2023-08-22T14:07:50.7043727+00:00"
 }

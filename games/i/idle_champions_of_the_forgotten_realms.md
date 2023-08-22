@@ -7,12 +7,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 1.00% | ~2,241 |
-| Beast Intentions | 0.50% | ~1,121 |
+| Beast Intentions | 0.60% | ~1,345 |
 | The Cursed Farmer | 0.50% | ~1,121 |
 | The Hunt for The Last Breath | 0.50% | ~952 |
 | The Mad Wizard | 0.40% | ~896 |
 | To Infinity's and Beyond | 0.40% | ~762 |
 | The Ring of Regeneration | 0.30% | ~672 |
+| Seeking Allies | 0.30% | ~672 |
 | Are Ya Chicken? | 0.30% | ~672 |
 | Maddening | 0.20% | ~448 |
 | Tall Tales | 0.20% | ~381 |
@@ -38,7 +39,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tower on the Lake | 0.20% | ~448 |
 | Trollskull Manor | 0.20% | ~448 |
 | The Crumbling Temple | 0.20% | ~448 |
-| Seeking Allies | 0.20% | ~448 |
 | Useless Allies | 0.20% | ~448 |
 | Mad Cow Disease | 0.20% | ~448 |
 | Exploring Port Nyanzaru | 0.20% | ~448 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~190 |
 | Animated Giff | 0.10% | ~190 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,110 (Ranked 53)  
+Progressed: 224,114 (Ranked 53)  
 Completed: 2,206 (0.98%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -647,7 +647,7 @@ Completed: 2,206 (0.98%) (Ranked 120)
 | 2023-08-19 | 223,443 | 2,193 |
 | 2023-08-20 | 223,729 | 2,196 |
 | 2023-08-21 | 223,996 | 2,203 |
-| 2023-08-22 | 224,110 | 2,206 |
+| 2023-08-22 | 224,114 | 2,206 |
 ## Awards
 Max (Diverse Characters): 5,176  (Ranked 68)  
 Sum: 31,164 (Ranked 38)  

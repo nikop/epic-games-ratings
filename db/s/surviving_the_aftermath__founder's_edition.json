@@ -1185,9 +1185,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 8452,
+  "EOS_Progressed": 8453,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 155,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11125,6 +11125,11 @@
       "Time": "2023-08-22T13:08:15.2439142+00:00",
       "NumProgressed": 8452,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-22T14:03:36.0699762+00:00",
+      "NumProgressed": 8453,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -11136,7 +11141,7 @@
       "Name": "Leader",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 5071
+      "UsersEstimate": 5072
     },
     {
       "ID": "10",
@@ -11192,7 +11197,7 @@
       "Name": "Adventurer",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 3465
+      "UsersEstimate": 3466
     },
     {
       "ID": "17",
@@ -11216,7 +11221,7 @@
       "Name": "Healer",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 4395
+      "UsersEstimate": 4396
     },
     {
       "ID": "2",
@@ -11224,7 +11229,7 @@
       "Name": "Local Leader",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 2958
+      "UsersEstimate": 2959
     },
     {
       "ID": "20",
@@ -11248,7 +11253,7 @@
       "Name": "First Step",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 6085
+      "UsersEstimate": 6086
     },
     {
       "ID": "23",
@@ -11296,7 +11301,7 @@
       "Name": "Merchant",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1859
+      "UsersEstimate": 1860
     },
     {
       "ID": "29",
@@ -11392,7 +11397,7 @@
       "Name": "Rocket Surgeon",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1690
+      "UsersEstimate": 1691
     },
     {
       "ID": "4",
@@ -11592,7 +11597,7 @@
       "Name": "Real Survivor",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1859
+      "UsersEstimate": 1860
     },
     {
       "ID": "9",
@@ -11607,15 +11612,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 8452,
+      "Progressed": 8453,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-08-19T04:57:29.3183117+00:00",
-  "LastChanged_Achievements": "2023-08-22T13:08:15.2439134+00:00",
+  "LastChanged_Achievements": "2023-08-22T14:03:36.0699757+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:48.2219404+00:00",
-  "LastUpdate_Ratings": "2023-08-22T13:02:19.3687917+00:00",
-  "LastUpdate_Achievements": "2023-08-22T13:08:15.2440349+00:00"
+  "LastUpdate_Ratings": "2023-08-22T13:58:05.3586945+00:00",
+  "LastUpdate_Achievements": "2023-08-22T14:03:36.0700937+00:00"
 }

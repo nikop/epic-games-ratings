@@ -6,12 +6,12 @@ Number of Ratings: 743  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shoot it, man! Shoot it in the head! | 69.00% | ~29,876 |
-| Say goodbye, creep! | 66.00% | ~28,577 |
-| Blood splattered | 65.00% | ~28,144 |
-| Choo choo! | 62.00% | ~26,845 |
-| Groovy | 61.00% | ~26,412 |
-| Cleanup on aisle 4! | 57.00% | ~24,680 |
+| Shoot it, man! Shoot it in the head! | 69.00% | ~29,878 |
+| Say goodbye, creep! | 66.00% | ~28,579 |
+| Blood splattered | 65.00% | ~28,146 |
+| Choo choo! | 62.00% | ~26,847 |
+| Groovy | 61.00% | ~26,414 |
+| Cleanup on aisle 4! | 57.00% | ~24,682 |
 | Gold | 50.00% | ~21,650 |
 | The boat can leave now...tell the crew | 49.00% | ~21,217 |
 | Stand back boy! | 47.00% | ~20,351 |
@@ -71,9 +71,9 @@ Number of Ratings: 743  (23.09.2022)
 | I'm a survivor! | 3.00% | ~1,299 |
 | That's a lot of them, and only 4 of us | 2.00% | ~866 |
 | Just me and my trusty sidearm | 1.00% | ~433 |
-| None more hard | 0.50% | ~216 |
+| None more hard | 0.50% | ~217 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,299 (Ranked 92)  
+Progressed: 43,301 (Ranked 92)  
 Completed: 25 (0.06%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 25 (0.06%) (Ranked 223)
 | 2023-08-19 | 43,287 | 25 |
 | 2023-08-20 | 43,293 | 25 |
 | 2023-08-21 | 43,297 | 25 |
-| 2023-08-22 | 43,299 | 25 |
+| 2023-08-22 | 43,301 | 25 |
 ## Awards
 Max (Great Boss Battles): 813  (Ranked 155)  
 Sum: 2,472 (Ranked 175)  

@@ -4,10 +4,10 @@
   "ProductSlug": "dishonored-definitive-edition",
   "Ranking_Rating": 136,
   "Ranking_Popularity": 172,
-  "Ranking_PopularitySum": 248,
+  "Ranking_PopularitySum": 246,
   "Ranking_EOS_Progress": 553,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewPlayers": 347,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2021-09-09T15:00:00+00:00",
@@ -1351,10 +1351,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 922,
       "NumberOfAwardsMax": 670
+    },
+    {
+      "Time": "2023-08-22T14:01:00.2514445+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 943,
+      "NumberOfAwardsMax": 670
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 922,
+  "NumberOfAwards": 943,
   "NumberOfAwardsMax": 670,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1386,7 +1392,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1417,6 +1423,12 @@
       "Prefix": "This game has",
       "Type": "Unique Visuals",
       "Count": 26
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -1430,8 +1442,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:28.893212+00:00",
-  "LastChanged": "2023-08-21T16:02:05.0798858+00:00",
+  "LastChanged": "2023-08-22T14:01:00.2514443+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:47.1228301+00:00",
-  "LastUpdate_Ratings": "2023-08-22T13:06:14.1685067+00:00",
-  "LastUpdate_Achievements": "2023-08-22T13:12:58.7506619+00:00"
+  "LastUpdate_Ratings": "2023-08-22T14:01:00.2514447+00:00",
+  "LastUpdate_Achievements": "2023-08-22T14:07:42.5890337+00:00"
 }

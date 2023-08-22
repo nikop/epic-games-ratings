@@ -16,8 +16,8 @@
 | Lone Wolf | 10.00% | ~12 |
 | Nerd | 8.00% | ~10 |
 | Playing God | 8.00% | ~10 |
+| Upgradeaholic | 7.00% | ~8 |
 | First and Foremost | 6.00% | ~7 |
-| Upgradeaholic | 6.00% | ~7 |
 | Tailor-Made | 6.00% | ~7 |
 | Made Mother Proud | 5.00% | ~6 |
 | Winner Winner Chicken Dinner | 5.00% | ~6 |

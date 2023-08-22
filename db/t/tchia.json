@@ -212,9 +212,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7314,
+  "EOS_Progressed": 7316,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 345,
+  "EOS_NewPlayers": 347,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -6257,6 +6257,11 @@
       "Time": "2023-08-22T12:07:12.6391405+00:00",
       "NumProgressed": 7314,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-08-22T14:06:45.7798723+00:00",
+      "NumProgressed": 7316,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 21,
@@ -6292,7 +6297,7 @@
       "Name": "Body and Soul",
       "Percentage": 10,
       "XP": 80,
-      "UsersEstimate": 731
+      "UsersEstimate": 732
     },
     {
       "ID": "CA_DE_WIZZ",
@@ -6316,7 +6321,7 @@
       "Name": "Energy Saver",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 1170
+      "UsersEstimate": 1171
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -6435,7 +6440,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7314,
+      "Progressed": 7316,
       "Completed": 32
     }
   ],
@@ -6443,8 +6448,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-08-07T01:56:04.2387619+00:00",
-  "LastChanged_Achievements": "2023-08-22T13:11:49.5772241+00:00",
+  "LastChanged_Achievements": "2023-08-22T14:06:45.7798717+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:55.8261903+00:00",
-  "LastUpdate_Ratings": "2023-08-22T13:05:29.7416219+00:00",
-  "LastUpdate_Achievements": "2023-08-22T13:11:49.5773014+00:00"
+  "LastUpdate_Ratings": "2023-08-22T14:00:25.0309398+00:00",
+  "LastUpdate_Achievements": "2023-08-22T14:06:45.7799294+00:00"
 }

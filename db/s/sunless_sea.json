@@ -685,9 +685,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 35982,
+  "EOS_Progressed": 35983,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 436,
+  "EOS_NewPlayers": 434,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -13295,6 +13295,11 @@
       "Time": "2023-08-22T13:11:30.5282404+00:00",
       "NumProgressed": 35982,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-22T14:06:29.3202068+00:00",
+      "NumProgressed": 35983,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -13514,7 +13519,7 @@
       "Name": "Rival",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 5037
+      "UsersEstimate": 5038
     },
     {
       "ID": "ach_legacysalvager",
@@ -13737,15 +13742,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 35982,
+      "Progressed": 35983,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-07-28T14:59:59.8138313+00:00",
-  "LastChanged_Achievements": "2023-08-22T13:11:30.5282399+00:00",
+  "LastChanged_Achievements": "2023-08-22T14:06:29.320206+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:33.4903611+00:00",
-  "LastUpdate_Ratings": "2023-08-22T13:01:59.0072667+00:00",
-  "LastUpdate_Achievements": "2023-08-22T13:11:30.5283739+00:00"
+  "LastUpdate_Ratings": "2023-08-22T13:57:50.0045001+00:00",
+  "LastUpdate_Achievements": "2023-08-22T14:06:29.3203171+00:00"
 }

@@ -2481,9 +2481,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 531131,
+  "EOS_Progressed": 531134,
   "EOS_Completed": 1511,
-  "EOS_NewPlayers": 603,
+  "EOS_NewPlayers": 600,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -15831,6 +15831,11 @@
       "Time": "2023-08-22T13:10:53.4977058+00:00",
       "NumProgressed": 531131,
       "NumCompleted": 1511
+    },
+    {
+      "Time": "2023-08-22T14:05:58.1443893+00:00",
+      "NumProgressed": 531134,
+      "NumCompleted": 1511
     }
   ],
   "TotalAchievements": 37,
@@ -15858,7 +15863,7 @@
       "Name": "Devara\u0027s Light",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 159339
+      "UsersEstimate": 159340
     },
     {
       "ID": "DEVOTED",
@@ -15898,7 +15903,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 440839
+      "UsersEstimate": 440841
     },
     {
       "ID": "HONED",
@@ -15954,7 +15959,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 212452
+      "UsersEstimate": 212454
     },
     {
       "ID": "THE_CASTLE",
@@ -15962,7 +15967,7 @@
       "Name": "The Castle",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 58424
+      "UsersEstimate": 58425
     },
     {
       "ID": "THE_CAVE",
@@ -16002,7 +16007,7 @@
       "Name": "The Forest",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 74358
+      "UsersEstimate": 74359
     },
     {
       "ID": "THE_IMPOSTER",
@@ -16082,7 +16087,7 @@
       "Name": "The Sacrifice",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 42490
+      "UsersEstimate": 42491
     },
     {
       "ID": "THE_STONE_ROOTS",
@@ -16098,7 +16103,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 339924
+      "UsersEstimate": 339926
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -16137,15 +16142,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 531131,
+      "Progressed": 531134,
       "Completed": 1511
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-08-21T21:01:52.1872239+00:00",
-  "LastChanged_Achievements": "2023-08-22T13:10:53.497705+00:00",
+  "LastChanged_Achievements": "2023-08-22T14:05:58.1443888+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:57.952106+00:00",
-  "LastUpdate_Ratings": "2023-08-22T13:07:26.9368675+00:00",
-  "LastUpdate_Achievements": "2023-08-22T13:10:53.4978824+00:00"
+  "LastUpdate_Ratings": "2023-08-22T14:02:08.0241832+00:00",
+  "LastUpdate_Achievements": "2023-08-22T14:05:58.1444964+00:00"
 }

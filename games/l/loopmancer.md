@@ -18,8 +18,8 @@
 | Excellent Driving Skills | 32.00% | ~31 |
 | Once Bitten, Twice Shy | 31.00% | ~30 |
 | Memento | 31.00% | ~30 |
+| Defeat the AI | 28.00% | ~27 |
 | Fleet-footed | 28.00% | ~27 |
-| Defeat the AI | 27.00% | ~26 |
 | Invincible | 27.00% | ~26 |
 | Unsalvageable | 25.00% | ~24 |
 | Best in Dragon City | 24.00% | ~23 |
@@ -27,8 +27,8 @@
 | Walking into a Trap | 23.00% | ~22 |
 | Disdain | 22.00% | ~21 |
 | Final Battle | 19.00% | ~18 |
+| Brain in a Vat | 19.00% | ~18 |
 | Outsider's Profit | 19.00% | ~18 |
-| Brain in a Vat | 18.00% | ~17 |
 | Reappearance | 15.00% | ~15 |
 | King of the Streets | 10.00% | ~10 |
 | Survival Expert | 10.00% | ~10 |

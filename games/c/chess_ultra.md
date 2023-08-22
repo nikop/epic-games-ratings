@@ -5,30 +5,30 @@ Rating: 4.28 (Ranked 807)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chop Wood | 69.00% | ~139,426 |
-| Doubled Pawn | 56.00% | ~113,158 |
-| Check | 54.00% | ~109,116 |
-| Absolute pin | 46.00% | ~92,951 |
-| Promotion | 30.00% | ~60,620 |
-| Checkmate | 29.00% | ~58,599 |
-| O-O | 23.00% | ~46,475 |
-| Queen Sacrifice | 20.00% | ~40,413 |
-| Spanish Bishop | 20.00% | ~40,413 |
-| Stalemate | 18.00% | ~36,372 |
-| O-O-O | 13.00% | ~26,269 |
-| Octopus | 13.00% | ~26,269 |
-| Stranger Danger | 12.00% | ~24,248 |
-| En Passant | 9.00% | ~18,186 |
+| Chop Wood | 69.00% | ~139,432 |
+| Doubled Pawn | 56.00% | ~113,163 |
+| Check | 54.00% | ~109,121 |
+| Absolute pin | 46.00% | ~92,955 |
+| Promotion | 30.00% | ~60,623 |
+| Checkmate | 29.00% | ~58,602 |
+| O-O | 23.00% | ~46,477 |
+| Queen Sacrifice | 20.00% | ~40,415 |
+| Spanish Bishop | 20.00% | ~40,415 |
+| Stalemate | 18.00% | ~36,374 |
+| O-O-O | 13.00% | ~26,270 |
+| Octopus | 13.00% | ~26,270 |
+| Stranger Danger | 12.00% | ~24,249 |
+| En Passant | 9.00% | ~18,187 |
 | Double Check | 7.00% | ~14,145 |
-| Piece Collector | 6.00% | ~12,124 |
-| ELO | 5.00% | ~10,103 |
-| Family Fork | 5.00% | ~10,103 |
-| Friendly Fire | 5.00% | ~10,103 |
+| Piece Collector | 6.00% | ~12,125 |
+| ELO | 5.00% | ~10,104 |
+| Family Fork | 5.00% | ~10,104 |
+| Friendly Fire | 5.00% | ~10,104 |
 | Underpromote | 4.00% | ~8,083 |
 | ELO ELO | 3.00% | ~6,062 |
-| Blind Pigs | 2.00% | ~4,041 |
-| ELO ELO ELO | 2.00% | ~4,041 |
-| Learner | 2.00% | ~4,041 |
+| Blind Pigs | 2.00% | ~4,042 |
+| ELO ELO ELO | 2.00% | ~4,042 |
+| Learner | 2.00% | ~4,042 |
 | Bobby Time | 1.00% | ~2,021 |
 | Back-rank Mate | 0.90% | ~1,819 |
 | Chess Champion | 0.30% | ~606 |
@@ -44,7 +44,7 @@ Rating: 4.28 (Ranked 807)
 | Tournament Master | 0.10% | ~202 |
 | Tournament Pro | 0.10% | ~202 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 202,067 (Ranked 57)  
+Progressed: 202,076 (Ranked 57)  
 Completed: 2 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,7 +168,7 @@ Completed: 2 (0.00%) (Ranked 261)
 | 2023-08-19 | 201,518 | 2 |
 | 2023-08-20 | 201,794 | 2 |
 | 2023-08-21 | 201,979 | 2 |
-| 2023-08-22 | 202,067 | 2 |
+| 2023-08-22 | 202,076 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

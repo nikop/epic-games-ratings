@@ -62,9 +62,9 @@
       "ID": "AC01",
       "SetID": "l4abp0",
       "Name": "A Thousand Years Later",
-      "Percentage": 75,
+      "Percentage": 100,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "AC02",
@@ -150,9 +150,9 @@
       "ID": "AC12",
       "SetID": "l4abp0",
       "Name": "Canvas of Light and Time",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "AC13",
@@ -182,17 +182,17 @@
       "ID": "AC16",
       "SetID": "l4abp0",
       "Name": "Weight of Penance",
-      "Percentage": 25,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "AC17",
       "SetID": "l4abp0",
       "Name": "Second Pilgrimage",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "AC18",
@@ -374,17 +374,17 @@
       "ID": "AC40",
       "SetID": "l4abp0",
       "Name": "Welcome Back!",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "AC41",
       "SetID": "l4abp0",
       "Name": "Happy New Year!",
-      "Percentage": 25,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "AC42",
@@ -429,8 +429,8 @@
   ],
   "FirstSeen": "2023-07-26T07:57:19.1818171+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
-  "LastChanged_Achievements": "2023-08-22T13:09:54.4731362+00:00",
+  "LastChanged_Achievements": "2023-08-22T14:05:08.5724087+00:00",
   "LastUpdate_AppInfo": "2023-08-15T17:57:20.1372586+00:00",
-  "LastUpdate_Ratings": "2023-08-22T13:03:24.671165+00:00",
-  "LastUpdate_Achievements": "2023-08-22T13:09:54.4731694+00:00"
+  "LastUpdate_Ratings": "2023-08-22T13:58:54.8580269+00:00",
+  "LastUpdate_Achievements": "2023-08-22T14:05:08.5724467+00:00"
 }

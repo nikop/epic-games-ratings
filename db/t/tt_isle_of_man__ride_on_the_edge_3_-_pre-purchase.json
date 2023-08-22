@@ -4,7 +4,7 @@
   "ProductSlug": "tt-isle-of-man-ride-on-the-edge-3",
   "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 99,
-  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewPlayers": 347,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
@@ -849,9 +849,9 @@
       "ID": "ACHIEVEMENT_32",
       "SetID": "gagif7",
       "Name": "Upgradeaholic",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -920,8 +920,8 @@
   ],
   "FirstSeen": "2023-05-15T16:57:57.7851065+00:00",
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2023-08-22T13:12:18.1054102+00:00",
+  "LastChanged_Achievements": "2023-08-22T14:07:08.6940547+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:33.7357395+00:00",
-  "LastUpdate_Ratings": "2023-08-22T13:04:58.6388927+00:00",
-  "LastUpdate_Achievements": "2023-08-22T13:12:18.1054493+00:00"
+  "LastUpdate_Ratings": "2023-08-22T14:00:07.1450803+00:00",
+  "LastUpdate_Achievements": "2023-08-22T14:07:08.6940916+00:00"
 }
