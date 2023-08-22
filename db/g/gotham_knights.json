@@ -2498,9 +2498,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 67969,
+  "EOS_Progressed": 67970,
   "EOS_Completed": 108,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -12933,6 +12933,11 @@
       "Time": "2023-08-22T03:10:19.2369394+00:00",
       "NumProgressed": 67969,
       "NumCompleted": 108
+    },
+    {
+      "Time": "2023-08-22T04:07:27.4634018+00:00",
+      "NumProgressed": 67970,
+      "NumCompleted": 108
     }
   ],
   "TotalAchievements": 61,
@@ -13000,7 +13005,7 @@
       "Name": "Gotham\u0027s Greatest Depths",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "ALL_SHOWDOWN",
@@ -13032,7 +13037,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 10195
+      "UsersEstimate": 10196
     },
     {
       "ID": "CHALLENGES_1",
@@ -13048,7 +13053,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 14273
+      "UsersEstimate": 14274
     },
     {
       "ID": "CLAYFACE_2",
@@ -13056,7 +13061,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 12234
+      "UsersEstimate": 12235
     },
     {
       "ID": "CLAYFACE_3",
@@ -13168,7 +13173,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 19031
+      "UsersEstimate": 19032
     },
     {
       "ID": "FREEZE_1_5",
@@ -13208,7 +13213,7 @@
       "Name": "Don\u0027t Mecha Big Deal About It",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "GOTHAM_BATARANGS",
@@ -13248,7 +13253,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 23789
+      "UsersEstimate": 23790
     },
     {
       "ID": "HARLEY_2",
@@ -13288,7 +13293,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 33984
+      "UsersEstimate": 33985
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -13336,7 +13341,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 23109
+      "UsersEstimate": 23110
     },
     {
       "ID": "MYSTERY_02",
@@ -13368,7 +13373,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 12234
+      "UsersEstimate": 12235
     },
     {
       "ID": "MYSTERY_06",
@@ -13376,7 +13381,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 10195
+      "UsersEstimate": 10196
     },
     {
       "ID": "MYSTERY_07",
@@ -13431,13 +13436,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 67969,
+      "Progressed": 67970,
       "Completed": 108
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 38249,
+      "Progressed": 38250,
       "Completed": 2658
     }
   ],
@@ -13445,8 +13450,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-08-20T14:57:30.6977519+00:00",
-  "LastChanged_Achievements": "2023-08-22T03:10:19.2369387+00:00",
+  "LastChanged_Achievements": "2023-08-22T04:07:27.4634011+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:36.1459925+00:00",
-  "LastUpdate_Ratings": "2023-08-22T02:58:11.4591861+00:00",
-  "LastUpdate_Achievements": "2023-08-22T03:10:19.2370446+00:00"
+  "LastUpdate_Ratings": "2023-08-22T03:57:28.1019587+00:00",
+  "LastUpdate_Achievements": "2023-08-22T04:07:27.4635246+00:00"
 }

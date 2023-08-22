@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -217,7 +217,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 56525,
+  "EOS_Progressed": 56526,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
@@ -7957,6 +7957,11 @@
       "Time": "2023-08-22T02:22:48.8406361+00:00",
       "NumProgressed": 56525,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-22T04:07:40.544884+00:00",
+      "NumProgressed": 56526,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 49,
@@ -7976,7 +7981,7 @@
       "Name": "Backer Visitor",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1130
+      "UsersEstimate": 1131
     },
     {
       "ID": "BoomBox",
@@ -8224,7 +8229,7 @@
       "Name": "Hate That Randomizer",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1130
+      "UsersEstimate": 1131
     },
     {
       "ID": "RhythmStar",
@@ -8264,7 +8269,7 @@
       "Name": "Feet on Funkotron",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1130
+      "UsersEstimate": 1131
     },
     {
       "ID": "StruckLove",
@@ -8312,7 +8317,7 @@
       "Name": "A Timely Splash",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1130
+      "UsersEstimate": 1131
     },
     {
       "ID": "TotalBummer",
@@ -8359,7 +8364,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 56525,
+      "Progressed": 56526,
       "Completed": 5
     }
   ],
@@ -8367,8 +8372,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-03-31T17:59:29.6978698+00:00",
-  "LastChanged_Achievements": "2023-08-22T03:10:38.2492734+00:00",
+  "LastChanged_Achievements": "2023-08-22T04:07:40.5448835+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:28.2137385+00:00",
-  "LastUpdate_Ratings": "2023-08-22T02:59:48.7284059+00:00",
-  "LastUpdate_Achievements": "2023-08-22T03:10:38.2493707+00:00"
+  "LastUpdate_Ratings": "2023-08-22T03:58:45.6223922+00:00",
+  "LastUpdate_Achievements": "2023-08-22T04:07:40.5449716+00:00"
 }

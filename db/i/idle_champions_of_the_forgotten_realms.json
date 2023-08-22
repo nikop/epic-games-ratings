@@ -5942,10 +5942,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 31160,
       "NumberOfAwardsMax": 5176
+    },
+    {
+      "Time": "2023-08-22T04:00:51.1970893+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 31164,
+      "NumberOfAwardsMax": 5176
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 31160,
+  "NumberOfAwards": 31164,
   "NumberOfAwardsMax": 5176,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5953,7 +5959,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 5129
+      "Count": 5133
     },
     {
       "Text": "This game has Diverse Characters",
@@ -5992,9 +5998,9 @@
       "Count": 3365
     }
   ],
-  "EOS_Progressed": 224033,
+  "EOS_Progressed": 224042,
   "EOS_Completed": 2203,
-  "EOS_NewPlayers": 2060,
+  "EOS_NewPlayers": 2064,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -19477,6 +19483,11 @@
       "Time": "2023-08-22T03:08:59.0070738+00:00",
       "NumProgressed": 224033,
       "NumCompleted": 2203
+    },
+    {
+      "Time": "2023-08-22T04:06:22.6555353+00:00",
+      "NumProgressed": 224042,
+      "NumCompleted": 2203
     }
   ],
   "TotalAchievements": 516,
@@ -20870,9 +20881,9 @@
       "ID": "objective_completed_213",
       "SetID": "cc37lbc",
       "Name": "Family Entanglements",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 224
+      "UsersEstimate": 448
     },
     {
       "ID": "objective_completed_214",
@@ -23615,21 +23626,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 190307,
+      "Progressed": 190316,
       "Completed": 3287
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 224033,
+      "Progressed": 224042,
       "Completed": 2203
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-08-22T03:02:47.7144216+00:00",
-  "LastChanged_Achievements": "2023-08-22T03:08:59.0070728+00:00",
+  "LastChanged": "2023-08-22T04:00:51.1970891+00:00",
+  "LastChanged_Achievements": "2023-08-22T04:06:22.6555348+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:12.3267162+00:00",
-  "LastUpdate_Ratings": "2023-08-22T03:02:47.7144224+00:00",
-  "LastUpdate_Achievements": "2023-08-22T03:08:59.0103691+00:00"
+  "LastUpdate_Ratings": "2023-08-22T04:00:51.1970896+00:00",
+  "LastUpdate_Achievements": "2023-08-22T04:06:22.6582847+00:00"
 }

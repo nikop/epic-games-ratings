@@ -3290,9 +3290,9 @@
       "Count": 274
     }
   ],
-  "EOS_Progressed": 127122,
+  "EOS_Progressed": 127123,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 1058,
+  "EOS_NewPlayers": 1053,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -16930,6 +16930,11 @@
       "Time": "2023-08-22T02:21:26.6937614+00:00",
       "NumProgressed": 127122,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-08-22T04:06:31.8157747+00:00",
+      "NumProgressed": 127123,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 67,
@@ -16941,7 +16946,7 @@
       "Name": "Anarchist",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 86443
+      "UsersEstimate": 86444
     },
     {
       "ID": "TANNENBERG_ACH_ANYONE_ELSE",
@@ -16949,7 +16954,7 @@
       "Name": "Anyone Else?",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 48306
+      "UsersEstimate": 48307
     },
     {
       "ID": "TANNENBERG_ACH_ATLEAST_THIS_WAY_I_CAN_WIN",
@@ -17013,7 +17018,7 @@
       "Name": "Comeback",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 104240
+      "UsersEstimate": 104241
     },
     {
       "ID": "TANNENBERG_ACH_CRACK_SHOT",
@@ -17029,7 +17034,7 @@
       "Name": "Democracy Works!",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 25424
+      "UsersEstimate": 25425
     },
     {
       "ID": "TANNENBERG_ACH_DEVELOPERS_DEVELOPERS_DEVELOPERS_DEVELOPERS",
@@ -17069,7 +17074,7 @@
       "Name": "Forward Observer",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 66103
+      "UsersEstimate": 66104
     },
     {
       "ID": "TANNENBERG_ACH_FOR_THE_EMPEROR",
@@ -17189,7 +17194,7 @@
       "Name": "Lead Harvest",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 31780
+      "UsersEstimate": 31781
     },
     {
       "ID": "TANNENBERG_ACH_LEEROY",
@@ -17197,7 +17202,7 @@
       "Name": "Leeroy",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 41950
+      "UsersEstimate": 41951
     },
     {
       "ID": "TANNENBERG_ACH_LIVING_ON_THE_EDGE",
@@ -17213,7 +17218,7 @@
       "Name": "Lost Batallion",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 41950
+      "UsersEstimate": 41951
     },
     {
       "ID": "TANNENBERG_ACH_LUCKY_SHOT",
@@ -17309,7 +17314,7 @@
       "Name": "Ring Ring!",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 66103
+      "UsersEstimate": 66104
     },
     {
       "ID": "TANNENBERG_ACH_ROAD_TO_BERLIN",
@@ -17341,7 +17346,7 @@
       "Name": "Steady Supply",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 76273
+      "UsersEstimate": 76274
     },
     {
       "ID": "TANNENBERG_ACH_STRENGTH_IN_NUMBERS",
@@ -17453,7 +17458,7 @@
       "Name": "Wallhack",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 82629
+      "UsersEstimate": 82630
     },
     {
       "ID": "TANNENBERG_ACH_YOUR_FAMILY_WILL_BE_PROUD",
@@ -17476,15 +17481,15 @@
     {
       "ID": "312pgde",
       "IsBase": true,
-      "Progressed": 127122,
+      "Progressed": 127123,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:24:54.2486297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:19.3256152+00:00",
   "LastChanged": "2023-08-13T17:57:14.2287667+00:00",
-  "LastChanged_Achievements": "2023-08-22T03:09:12.8616691+00:00",
+  "LastChanged_Achievements": "2023-08-22T04:06:31.8157743+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:00.1468743+00:00",
-  "LastUpdate_Ratings": "2023-08-22T02:58:50.8594166+00:00",
-  "LastUpdate_Achievements": "2023-08-22T03:09:12.8618176+00:00"
+  "LastUpdate_Ratings": "2023-08-22T03:57:56.7122878+00:00",
+  "LastUpdate_Achievements": "2023-08-22T04:06:31.8159232+00:00"
 }

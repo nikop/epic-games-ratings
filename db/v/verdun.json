@@ -1688,9 +1688,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 55854,
+  "EOS_Progressed": 55855,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 755,
+  "EOS_NewPlayers": 749,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15073,6 +15073,11 @@
       "Time": "2023-08-22T03:06:07.1806072+00:00",
       "NumProgressed": 55854,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-22T04:03:32.9667065+00:00",
+      "NumProgressed": 55855,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -15340,7 +15345,7 @@
       "Name": "Not alone",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 17873
+      "UsersEstimate": 17874
     },
     {
       "ID": "VERDUN_ACH_KILLS1",
@@ -15372,7 +15377,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 35188
+      "UsersEstimate": 35189
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -15380,7 +15385,7 @@
       "Name": "Gott Mit Uns",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6702
+      "UsersEstimate": 6703
     },
     {
       "ID": "VERDUN_ACH_LEVEL100",
@@ -15555,15 +15560,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 55854,
+      "Progressed": 55855,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-08-21T17:01:11.241941+00:00",
-  "LastChanged_Achievements": "2023-08-22T03:06:07.1806063+00:00",
+  "LastChanged_Achievements": "2023-08-22T04:03:32.9667059+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:55.9821286+00:00",
-  "LastUpdate_Ratings": "2023-08-22T03:03:29.0120432+00:00",
-  "LastUpdate_Achievements": "2023-08-22T03:06:07.1807713+00:00"
+  "LastUpdate_Ratings": "2023-08-22T04:01:19.7038096+00:00",
+  "LastUpdate_Achievements": "2023-08-22T04:03:32.9668422+00:00"
 }

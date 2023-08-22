@@ -4,7 +4,7 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 142,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 220,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 368,
+  "EOS_Progressed": 369,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -401,6 +401,11 @@
       "Time": "2023-08-22T01:48:46.2181499+00:00",
       "NumProgressed": 368,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-22T04:06:49.6470618+00:00",
+      "NumProgressed": 369,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -428,7 +433,7 @@
       "Name": "Fore!",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "CATAPULT_THROW",
@@ -444,7 +449,7 @@
       "Name": "The Collector",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "COLLECT_1_CAR",
@@ -452,7 +457,7 @@
       "Name": "Baby\u0027s First Car",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "COLLECT_20_CARS",
@@ -468,7 +473,7 @@
       "Name": "High Roller",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "COLLECT_ALL_CARS",
@@ -580,7 +585,7 @@
       "Name": "C-C-C-Combo!",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "HIT_10_PLAYERS",
@@ -596,7 +601,7 @@
       "Name": "Pushover",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "HIT_ALIEN",
@@ -620,7 +625,7 @@
       "Name": "Insurance fraud",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "HIT_FLYING_UFO",
@@ -658,9 +663,9 @@
       "ID": "LEFT_LEVEL",
       "SetID": "20koof9",
       "Name": "Goodbye cruel world",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 81
     },
     {
       "ID": "LOADED_LVL_DESERT",
@@ -668,7 +673,7 @@
       "Name": "The Wild West",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "LOADED_LVL_FOREST",
@@ -676,7 +681,7 @@
       "Name": "A Forest Walk",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "LOADED_LVL_SNOW",
@@ -700,7 +705,7 @@
       "Name": "Multiply that!",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ONE_MILLION_CASH",
@@ -836,22 +841,22 @@
       "Name": "You\u0027re it",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "WIN_TANK_BATTLES",
       "SetID": "20koof9",
       "Name": "Blasting away!",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 44
     }
   ],
   "AchievementSets": [
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 368,
+      "Progressed": 369,
       "Completed": 2
     }
   ],
@@ -859,8 +864,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-08-22T03:09:39.0852498+00:00",
+  "LastChanged_Achievements": "2023-08-22T04:06:49.6470612+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:13.8795061+00:00",
-  "LastUpdate_Ratings": "2023-08-22T03:03:53.1330122+00:00",
-  "LastUpdate_Achievements": "2023-08-22T03:09:39.085306+00:00"
+  "LastUpdate_Ratings": "2023-08-22T04:01:37.9571983+00:00",
+  "LastUpdate_Achievements": "2023-08-22T04:06:49.6471353+00:00"
 }
