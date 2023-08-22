@@ -24,7 +24,7 @@
 | 22 | [Warframe](games/w/warframe.md) | 16,552 | 4.61 | 366 |
 | 23 | [League of Legends](games/l/league_of_legends.md) | 15,468 | 4.21 | 852 |
 | 24 | [Borderlands 2](games/b/borderlands_2.md) | 15,106 | 4.76 | 119 |
-| 25 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,453 | 4.58 | 426 |
+| 25 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,454 | 4.58 | 426 |
 | 26 | [Maneater](games/m/maneater.md) | 13,632 | 4.49 | 577 |
 | 27 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,600 | 4.60 | 391 |
 | 28 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 13,303 | 4.60 | 391 |
@@ -49,8 +49,8 @@
 | 47 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,397 | 4.71 | 187 |
 | 48 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 7,338 | 4.68 | 238 |
 | 49 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 6,988 | 4.71 | 187 |
-| 50 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 6,962 | 4.74 | 146 |
-| 51 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 6,943 | 4.58 | 426 |
+| 50 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 6,983 | 4.58 | 426 |
+| 51 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 6,962 | 4.74 | 146 |
 | 52 | [DEATH STRANDING](games/d/death_stranding.md) | 6,744 | 4.77 | 109 |
 | 53 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 672 |
 | 54 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,408 | 4.80 | 82 |
