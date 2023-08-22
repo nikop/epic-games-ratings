@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 52.00% | ~78 |
-| The 4 Pillars | 51.00% | ~76 |
-| Capitalism | 19.00% | ~28 |
-| Indebted | 11.00% | ~16 |
+| First Step | 52.00% | ~79 |
+| The 4 Pillars | 50.00% | ~76 |
+| Capitalism | 19.00% | ~29 |
+| Indebted | 11.00% | ~17 |
 | There's something in those trees | 10.00% | ~15 |
 | Great Producer | 9.00% | ~14 |
 | Desert Rat | 9.00% | ~14 |
@@ -28,8 +28,8 @@
 | Medicine Tycoon | 5.00% | ~8 |
 | Outdoor Decorator | 4.00% | ~6 |
 | Overpopulation | 4.00% | ~6 |
-| Human Resources | 3.00% | ~4 |
-| Training Camp | 3.00% | ~4 |
+| Human Resources | 3.00% | ~5 |
+| Training Camp | 3.00% | ~5 |
 | No News is Good News | 2.00% | ~3 |
 | Winter Soldier | 2.00% | ~3 |
 | Researcher | 2.00% | ~3 |
@@ -49,7 +49,7 @@
 | Against Adversity | 0.00% | ~0 |
 | People's Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 150 (Ranked 307)  
+Progressed: 151 (Ranked 307)  
 Completed: 0 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,3 +84,4 @@ Completed: 0 (0.00%) (Ranked 261)
 | 2023-08-19 | 147 | 0 |
 | 2023-08-20 | 149 | 0 |
 | 2023-08-21 | 150 | 0 |
+| 2023-08-22 | 151 | 0 |

@@ -79,11 +79,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens in Babylon | 0.80% | ~108 |
 | Beloved | 0.80% | ~108 |
 | Conqueror | 0.80% | ~108 |
+| Lion | 0.80% | ~108 |
 | Temple of Solomon | 0.80% | ~108 |
 | Persian Paganism | 0.80% | ~108 |
 | Building Wonders | 0.80% | ~108 |
 | Legalism | 0.80% | ~108 |
-| Lion | 0.70% | ~95 |
 | Good Difficulty | 0.70% | ~95 |
 | Patrons | 0.70% | ~95 |
 | Statesmen | 0.70% | ~95 |

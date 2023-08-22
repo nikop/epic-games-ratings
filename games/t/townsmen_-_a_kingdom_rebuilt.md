@@ -9,7 +9,7 @@ Number of Ratings: 37  (23.09.2022)
 | Eureka! | 12.00% | ~510 |
 | Tax-man I | 11.00% | ~467 |
 | A new beginning | 11.00% | ~467 |
-| Friends from the past | 9.00% | ~382 |
+| Friends from the past | 10.00% | ~425 |
 | I like to build stuff... I | 8.00% | ~340 |
 | A time consuming game I | 8.00% | ~340 |
 | Builder I | 7.00% | ~297 |

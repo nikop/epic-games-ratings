@@ -24,9 +24,9 @@ Number of Ratings: 524  (23.09.2022)
 | The Six-Gun Scribe | 13.00% | ~7,968 |
 | Heavy Metal | 12.00% | ~7,355 |
 | Iron Horse | 12.00% | ~7,355 |
+| Perchance to Dream | 12.00% | ~7,355 |
 | Collateral Carnage | 12.00% | ~7,355 |
 | Come One, Come All | 12.00% | ~7,355 |
-| Perchance to Dream | 11.00% | ~6,742 |
 | It's Not Just a Typewriter Brand | 11.00% | ~6,742 |
 | Thunder and Lightning | 11.00% | ~6,742 |
 | Gatekeeper | 10.00% | ~6,129 |
@@ -58,10 +58,10 @@ Number of Ratings: 524  (23.09.2022)
 | Words Will Never Harm You | 0.70% | ~173 |
 | Cardboard Companions | 0.60% | ~149 |
 | Fast and Furious | 0.50% | ~124 |
+| Creative Space | 0.50% | ~124 |
 | Run-On Sentence | 0.40% | ~99 |
 | License Revoked | 0.40% | ~99 |
 | Whirlwind | 0.40% | ~99 |
-| Creative Space | 0.40% | ~99 |
 | Alan, Wake Up | 0.30% | ~184 |
 | Meet the Deadline | 0.30% | ~184 |
 | Picking Up After Yourself | 0.30% | ~184 |

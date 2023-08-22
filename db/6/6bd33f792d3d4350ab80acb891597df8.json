@@ -365,9 +365,9 @@
       "ID": "CgkIxYDzrbcPEAIQCw",
       "SetID": "4egpam7",
       "Name": "Target Practice",
-      "Percentage": 76,
+      "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "CgkIxYDzrbcPEAIQDA",
@@ -532,8 +532,8 @@
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2023-08-22T10:06:34.9748292+00:00",
+  "LastChanged_Achievements": "2023-08-22T11:06:24.3871314+00:00",
   "LastUpdate_AppInfo": "2023-08-15T14:57:10.6397592+00:00",
-  "LastUpdate_Ratings": "2023-08-22T09:58:43.5579197+00:00",
-  "LastUpdate_Achievements": "2023-08-22T10:06:34.9748545+00:00"
+  "LastUpdate_Ratings": "2023-08-22T10:58:36.1381008+00:00",
+  "LastUpdate_Achievements": "2023-08-22T11:06:24.3871536+00:00"
 }

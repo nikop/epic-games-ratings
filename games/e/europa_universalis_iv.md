@@ -6,52 +6,52 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~14,325 |
-| That's a Grand Army | 3.00% | ~10,743 |
-| That is mine! | 3.00% | ~10,743 |
-| Victorious! | 3.00% | ~10,743 |
-| Brothers in Arms | 2.00% | ~7,162 |
-| That's a Grand Navy | 2.00% | ~7,162 |
-| Seriously?! | 2.00% | ~7,162 |
-| Cold War | 1.00% | ~3,581 |
-| For the Glory | 1.00% | ~3,581 |
-| It's all about the money | 1.00% | ~3,581 |
-| True Catholic | 1.00% | ~3,581 |
-| Defender of the Faith | 0.90% | ~3,223 |
-| The Princess is in this Castle | 0.90% | ~3,223 |
-| Respected | 0.80% | ~2,865 |
-| Truly Divine Ruler | 0.80% | ~2,865 |
-| Blockader | 0.70% | ~2,507 |
-| It's all about luck | 0.70% | ~2,507 |
-| Double the Love | 0.60% | ~2,149 |
-| Royal Authority | 0.60% | ~2,149 |
-| Total Control | 0.60% | ~2,149 |
+| Until death do us apart | 4.00% | ~14,331 |
+| That's a Grand Army | 3.00% | ~10,748 |
+| That is mine! | 3.00% | ~10,748 |
+| Victorious! | 3.00% | ~10,748 |
+| Brothers in Arms | 2.00% | ~7,166 |
+| That's a Grand Navy | 2.00% | ~7,166 |
+| Seriously?! | 2.00% | ~7,166 |
+| Cold War | 1.00% | ~3,583 |
+| For the Glory | 1.00% | ~3,583 |
+| It's all about the money | 1.00% | ~3,583 |
+| True Catholic | 1.00% | ~3,583 |
+| Defender of the Faith | 0.90% | ~3,225 |
+| The Princess is in this Castle | 0.90% | ~3,225 |
+| Respected | 0.80% | ~2,866 |
+| Truly Divine Ruler | 0.80% | ~2,866 |
+| Blockader | 0.70% | ~2,508 |
+| It's all about luck | 0.70% | ~2,508 |
+| Double the Love | 0.60% | ~2,150 |
+| Royal Authority | 0.60% | ~2,150 |
+| Total Control | 0.60% | ~2,150 |
 | Combined Arms | 0.50% | ~1,791 |
 | My armies are invincible! | 0.50% | ~1,791 |
-| Agressive Expander | 0.40% | ~1,432 |
-| Azur semé de lis or | 0.40% | ~1,432 |
-| City of Cities | 0.40% | ~1,432 |
-| Gentle Persuasion | 0.40% | ~1,432 |
-| Queen of Conquest | 0.40% | ~1,432 |
-| This navy can take it all | 0.40% | ~1,432 |
-| All That's Thine Shall Be Mine | 0.30% | ~1,074 |
-| Bright Spark | 0.30% | ~1,074 |
-| The Emperors new clothes | 0.30% | ~1,074 |
-| Factionalism | 0.30% | ~1,074 |
-| A Golden Empire | 0.30% | ~1,074 |
-| Isn't this the way to India? | 0.30% | ~1,074 |
-| Market Control | 0.30% | ~1,074 |
-| The Five Colonies | 0.30% | ~1,074 |
-| All belongs to Mother Russia | 0.20% | ~716 |
-| At every continent | 0.20% | ~716 |
-| Down Under | 0.20% | ~716 |
-| Electable! | 0.20% | ~716 |
-| One Family to Rule them All | 0.20% | ~716 |
-| Populists in Government | 0.20% | ~716 |
-| The pen is mightier than the sword | 0.20% | ~716 |
-| Time Bandit | 0.20% | ~716 |
-| Traditional Player | 0.20% | ~716 |
-| Trustworthy | 0.20% | ~716 |
+| Agressive Expander | 0.40% | ~1,433 |
+| Azur semé de lis or | 0.40% | ~1,433 |
+| City of Cities | 0.40% | ~1,433 |
+| Gentle Persuasion | 0.40% | ~1,433 |
+| Queen of Conquest | 0.40% | ~1,433 |
+| This navy can take it all | 0.40% | ~1,433 |
+| All That's Thine Shall Be Mine | 0.30% | ~1,075 |
+| Bright Spark | 0.30% | ~1,075 |
+| The Emperors new clothes | 0.30% | ~1,075 |
+| Factionalism | 0.30% | ~1,075 |
+| A Golden Empire | 0.30% | ~1,075 |
+| Isn't this the way to India? | 0.30% | ~1,075 |
+| Market Control | 0.30% | ~1,075 |
+| The Five Colonies | 0.30% | ~1,075 |
+| All belongs to Mother Russia | 0.20% | ~717 |
+| At every continent | 0.20% | ~717 |
+| Down Under | 0.20% | ~717 |
+| Electable! | 0.20% | ~717 |
+| One Family to Rule them All | 0.20% | ~717 |
+| Populists in Government | 0.20% | ~717 |
+| The pen is mightier than the sword | 0.20% | ~717 |
+| Time Bandit | 0.20% | ~717 |
+| Traditional Player | 0.20% | ~717 |
+| Trustworthy | 0.20% | ~717 |
 | The 52 Garhs | 0.10% | ~358 |
 | I don't like sand | 0.10% | ~358 |
 | A Blessed Nation | 0.10% | ~358 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 358,113 (Ranked 41)  
+Progressed: 358,279 (Ranked 41)  
 Completed: 0 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -485,10 +485,10 @@ Completed: 0 (0.00%) (Ranked 261)
 | 2023-08-19 | 347,673 | 0 |
 | 2023-08-20 | 353,078 | 0 |
 | 2023-08-21 | 357,003 | 0 |
-| 2023-08-22 | 358,113 | 0 |
+| 2023-08-22 | 358,279 | 0 |
 ## Awards
 Max (Educational): 5,732  (Ranked 60)  
-Sum: 47,369 (Ranked 26)  
+Sum: 47,377 (Ranked 26)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
@@ -500,7 +500,7 @@ Diff (max vs sum): 34
 | This game is Relaxing | 5,308 |
 | This game has Competitive Players | 5,172 |
 | This game has Amazing Storytelling | 4,849 |
-| This game has Amazing Characters | 4,484 |
+| This game has Amazing Characters | 4,492 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
 ## Ratings History
@@ -722,4 +722,4 @@ Diff (max vs sum): 34
 | 2023-08-19 | 4.68 | - | 5,717 | 47,181 |
 | 2023-08-20 | 4.68 | - | 5,721 | 47,267 |
 | 2023-08-21 | 4.68 | - | 5,732 | 47,350 |
-| 2023-08-22 | 4.68 | - | 5,732 | 47,369 |
+| 2023-08-22 | 4.68 | - | 5,732 | 47,377 |

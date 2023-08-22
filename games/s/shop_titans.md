@@ -14,11 +14,11 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalism Ho! | 0.90% | ~1,214 |
 | It's Free Real Estate | 0.80% | ~1,079 |
 | Budding Merchant | 0.80% | ~1,079 |
-| One Easy Payment | 0.70% | ~944 |
-| Some Assembly Required | 0.70% | ~944 |
-| Another Satisfied Customer | 0.70% | ~944 |
-| Pretty Penny | 0.70% | ~944 |
-| Own the Means of Production | 0.70% | ~944 |
+| One Easy Payment | 0.70% | ~945 |
+| Some Assembly Required | 0.70% | ~945 |
+| Another Satisfied Customer | 0.70% | ~945 |
+| Pretty Penny | 0.70% | ~945 |
+| Own the Means of Production | 0.70% | ~945 |
 | One-Armed Bandit | 0.60% | ~810 |
 | Through Repetition, Perfection | 0.60% | ~810 |
 | The Daily Grind | 0.50% | ~675 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~135 |
 | Cash Only Please | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,926 (Ranked 66)  
+Progressed: 134,930 (Ranked 66)  
 Completed: 136 (0.10%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,7 +243,7 @@ Completed: 136 (0.10%) (Ranked 208)
 | 2023-08-19 | 134,791 | 133 |
 | 2023-08-20 | 134,856 | 133 |
 | 2023-08-21 | 134,907 | 134 |
-| 2023-08-22 | 134,926 | 136 |
+| 2023-08-22 | 134,930 | 136 |
 ## Awards
 Max (Great for Beginners): 4,707  (Ranked 71)  
 Sum: 27,124 (Ranked 46)  

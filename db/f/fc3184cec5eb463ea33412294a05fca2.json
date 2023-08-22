@@ -4,7 +4,7 @@
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 43,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
@@ -911,9 +911,9 @@
       "ID": "NEW_ACHIEVEMENT_1_10",
       "SetID": "8d3ci0",
       "Name": "Cruise ship",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 80
+      "UsersEstimate": 82
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
@@ -1007,9 +1007,9 @@
       "ID": "NEW_ACHIEVEMENT_1_8",
       "SetID": "8d3ci0",
       "Name": "On fire",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 60,
-      "UsersEstimate": 67
+      "UsersEstimate": 69
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
@@ -1030,8 +1030,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-08-22T10:04:11.1705331+00:00",
+  "LastChanged_Achievements": "2023-08-22T11:03:49.475989+00:00",
   "LastUpdate_AppInfo": "2023-08-19T15:57:11.7507588+00:00",
-  "LastUpdate_Ratings": "2023-08-22T09:58:33.6693144+00:00",
-  "LastUpdate_Achievements": "2023-08-22T10:04:11.1705527+00:00"
+  "LastUpdate_Ratings": "2023-08-22T10:58:27.0044746+00:00",
+  "LastUpdate_Achievements": "2023-08-22T11:03:49.4760083+00:00"
 }

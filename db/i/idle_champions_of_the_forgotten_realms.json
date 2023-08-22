@@ -5998,9 +5998,9 @@
       "Count": 3365
     }
   ],
-  "EOS_Progressed": 224074,
+  "EOS_Progressed": 224082,
   "EOS_Completed": 2204,
-  "EOS_NewPlayers": 2036,
+  "EOS_NewPlayers": 2030,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -19518,6 +19518,11 @@
       "Time": "2023-08-22T10:05:43.7404263+00:00",
       "NumProgressed": 224074,
       "NumCompleted": 2204
+    },
+    {
+      "Time": "2023-08-22T11:05:34.1824039+00:00",
+      "NumProgressed": 224082,
+      "NumCompleted": 2204
     }
   ],
   "TotalAchievements": 516,
@@ -21679,9 +21684,9 @@
       "ID": "objective_completed_540",
       "SetID": "cc37lbc",
       "Name": "A Tale of Two Cities",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 224
+      "UsersEstimate": 448
     },
     {
       "ID": "objective_completed_541",
@@ -23656,21 +23661,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 190348,
+      "Progressed": 190356,
       "Completed": 3287
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 224074,
+      "Progressed": 224082,
       "Completed": 2204
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-22T04:00:51.1970891+00:00",
-  "LastChanged_Achievements": "2023-08-22T10:05:43.7404255+00:00",
+  "LastChanged_Achievements": "2023-08-22T11:05:34.1824032+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:12.3267162+00:00",
-  "LastUpdate_Ratings": "2023-08-22T09:59:45.0859335+00:00",
-  "LastUpdate_Achievements": "2023-08-22T10:05:43.743221+00:00"
+  "LastUpdate_Ratings": "2023-08-22T10:59:36.8861492+00:00",
+  "LastUpdate_Achievements": "2023-08-22T11:05:34.1852708+00:00"
 }

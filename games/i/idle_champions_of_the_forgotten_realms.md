@@ -40,6 +40,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Useless Allies | 0.20% | ~448 |
 | Mad Cow Disease | 0.20% | ~448 |
 | Exploring Port Nyanzaru | 0.20% | ~448 |
+| A Tale of Two Cities | 0.20% | ~448 |
 | Running of the Saurs | 0.20% | ~448 |
 | The Contagious Curse | 0.20% | ~448 |
 | Escort to Waterdeep | 0.20% | ~448 |
@@ -286,7 +287,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | An Abyssal Situation | 0.10% | ~224 |
 | Dino Nightmare | 0.10% | ~224 |
 | A Familiar Friend | 0.10% | ~190 |
-| A Tale of Two Cities | 0.10% | ~224 |
 | A Tale of Two Fiends | 0.10% | ~224 |
 | A Tale of Two Champions | 0.10% | ~224 |
 | A Tale of Two Years | 0.10% | ~190 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~190 |
 | Animated Giff | 0.10% | ~190 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,074 (Ranked 53)  
+Progressed: 224,082 (Ranked 53)  
 Completed: 2,204 (0.98%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -647,7 +647,7 @@ Completed: 2,204 (0.98%) (Ranked 120)
 | 2023-08-19 | 223,443 | 2,193 |
 | 2023-08-20 | 223,729 | 2,196 |
 | 2023-08-21 | 223,996 | 2,203 |
-| 2023-08-22 | 224,074 | 2,204 |
+| 2023-08-22 | 224,082 | 2,204 |
 ## Awards
 Max (Diverse Characters): 5,176  (Ranked 68)  
 Sum: 31,164 (Ranked 38)  

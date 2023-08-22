@@ -100,9 +100,9 @@
       "ID": "Ulric_painting_acquired",
       "SetID": "4akddl8",
       "Name": "Ulric\u0027s Painting Acquired",
-      "Percentage": 19,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Vilim_found_hanged_with_note",
@@ -204,9 +204,9 @@
       "ID": "found_Put_leseva",
       "SetID": "4akddl8",
       "Name": "Find the Road of Cadavers",
-      "Percentage": 29,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "found_Ulric_portrait",
@@ -220,9 +220,9 @@
       "ID": "found_veil_of_Vera",
       "SetID": "4akddl8",
       "Name": "Veil of Vera",
-      "Percentage": 24,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "fulfilled_prophecy",
@@ -429,8 +429,8 @@
   "FirstSeenRating": "2023-03-31T05:58:43.0246209+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.7285802+00:00",
   "LastChanged": "2023-03-31T05:58:43.024621+00:00",
-  "LastChanged_Achievements": "2023-08-22T10:04:56.3003274+00:00",
+  "LastChanged_Achievements": "2023-08-22T11:04:44.7174842+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:35.2595879+00:00",
-  "LastUpdate_Ratings": "2023-08-22T09:58:26.5069003+00:00",
-  "LastUpdate_Achievements": "2023-08-22T10:04:56.3003674+00:00"
+  "LastUpdate_Ratings": "2023-08-22T10:58:17.2420622+00:00",
+  "LastUpdate_Achievements": "2023-08-22T11:04:44.7175225+00:00"
 }

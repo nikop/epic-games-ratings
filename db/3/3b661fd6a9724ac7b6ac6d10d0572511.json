@@ -3262,9 +3262,9 @@
       "Count": 739
     }
   ],
-  "EOS_Progressed": 1597290,
+  "EOS_Progressed": 1597409,
   "EOS_Completed": 520,
-  "EOS_NewPlayers": 25928,
+  "EOS_NewPlayers": 25906,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -11877,6 +11877,11 @@
       "Time": "2023-08-22T10:04:48.25497+00:00",
       "NumProgressed": 1597290,
       "NumCompleted": 520
+    },
+    {
+      "Time": "2023-08-22T11:04:36.9443375+00:00",
+      "NumProgressed": 1597409,
+      "NumCompleted": 520
     }
   ],
   "TotalAchievements": 1328,
@@ -13088,7 +13093,7 @@
       "Name": "I Want to Get Away",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 15973
+      "UsersEstimate": 15974
     },
     {
       "ID": "brooklyn_2",
@@ -13312,7 +13317,7 @@
       "Name": "Virus",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 12778
+      "UsersEstimate": 12779
     },
     {
       "ID": "cac_29",
@@ -16360,7 +16365,7 @@
       "Name": "Smooth Criminal",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 7986
+      "UsersEstimate": 7987
     },
     {
       "ID": "gorilla_1",
@@ -16504,7 +16509,7 @@
       "Name": "Guilty of Crime",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 12778
+      "UsersEstimate": 12779
     },
     {
       "ID": "halloween_1",
@@ -16640,7 +16645,7 @@
       "Name": "How Do You Like Me Now?",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 11181
+      "UsersEstimate": 11182
     },
     {
       "ID": "i_knew_what_i_was_doing_was_wrong",
@@ -17600,7 +17605,7 @@
       "Name": "No One Cared Who I Was...",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 15973
+      "UsersEstimate": 15974
     },
     {
       "ID": "no_turning_back",
@@ -17608,7 +17613,7 @@
       "Name": "No Turning Back",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 15973
+      "UsersEstimate": 15974
     },
     {
       "ID": "orange_1",
@@ -20966,9 +20971,9 @@
       "ID": "trk_gb_0",
       "SetID": "bkjdbk8",
       "Name": "Go, Go, Go",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 3195
+      "UsersEstimate": 4792
     },
     {
       "ID": "trk_gb_1",
@@ -21240,7 +21245,7 @@
       "Name": "There is Always a First Time",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 6389
+      "UsersEstimate": 6390
     },
     {
       "ID": "trk_js_1",
@@ -22496,7 +22501,7 @@
       "Name": "You Gotta Start Somewhere",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 15973
+      "UsersEstimate": 15974
     },
     {
       "ID": "you_shall_not_pass",
@@ -22511,13 +22516,13 @@
     {
       "ID": "61cefe3",
       "IsBase": true,
-      "Progressed": 1597290,
+      "Progressed": 1597409,
       "Completed": 520
     },
     {
       "ID": "bkjdbk8",
       "IsBase": false,
-      "Progressed": 1597290,
+      "Progressed": 1597409,
       "Completed": 30
     }
   ],
@@ -22525,8 +22530,8 @@
   "FirstSeenRating": "2023-06-09T03:57:04.3869033+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:50.4372379+00:00",
   "LastChanged": "2023-08-22T09:58:49.1282682+00:00",
-  "LastChanged_Achievements": "2023-08-22T10:04:48.254969+00:00",
+  "LastChanged_Achievements": "2023-08-22T11:04:36.9443369+00:00",
   "LastUpdate_AppInfo": "2023-08-17T20:57:10.4408604+00:00",
-  "LastUpdate_Ratings": "2023-08-22T09:58:49.1282687+00:00",
-  "LastUpdate_Achievements": "2023-08-22T10:04:48.2708609+00:00"
+  "LastUpdate_Ratings": "2023-08-22T10:58:41.8894111+00:00",
+  "LastUpdate_Achievements": "2023-08-22T11:04:36.9599866+00:00"
 }

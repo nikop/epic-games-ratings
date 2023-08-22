@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 282,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -864,9 +864,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 6437,
+  "EOS_Progressed": 6438,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5299,6 +5299,11 @@
       "Time": "2023-08-22T03:07:45.1169337+00:00",
       "NumProgressed": 6437,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-22T11:04:38.2810059+00:00",
+      "NumProgressed": 6438,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -5342,7 +5347,7 @@
       "Name": "Commodity Trader",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1995
+      "UsersEstimate": 1996
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -5350,7 +5355,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 4055
+      "UsersEstimate": 4056
     },
     {
       "ID": "Control_All_Relics",
@@ -5414,7 +5419,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 5085
+      "UsersEstimate": 5086
     },
     {
       "ID": "First_Race_Met",
@@ -5422,7 +5427,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4699
+      "UsersEstimate": 4700
     },
     {
       "ID": "First_Ship_Designed",
@@ -5430,7 +5435,7 @@
       "Name": "Design a Ship",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1802
+      "UsersEstimate": 1803
     },
     {
       "ID": "First_Stream_Travel",
@@ -5446,7 +5451,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 5021
+      "UsersEstimate": 5022
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -5614,7 +5619,7 @@
       "Name": "Commodity Seller",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1609
+      "UsersEstimate": 1610
     },
     {
       "ID": "Take_Iconia_From_Yor_As_Iconians",
@@ -5630,7 +5635,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3991
+      "UsersEstimate": 3992
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -5694,7 +5699,7 @@
       "Name": "Win as the Drengin",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "Win_As_Festron",
@@ -5726,7 +5731,7 @@
       "Name": "Win as the Krynn",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "Win_As_Manti",
@@ -5782,7 +5787,7 @@
       "Name": "Win as Xeloxi",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "Win_As_Yor",
@@ -5814,7 +5819,7 @@
       "Name": "Conquest Victory!",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "Win_CustomFaction",
@@ -5838,7 +5843,7 @@
       "Name": "Win an Immense Game",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "Win_Influence",
@@ -5885,15 +5890,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6437,
+      "Progressed": 6438,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-08-16T06:59:13.2863126+00:00",
-  "LastChanged_Achievements": "2023-08-22T10:04:50.0749414+00:00",
+  "LastChanged_Achievements": "2023-08-22T11:04:38.2810052+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:58:05.9741454+00:00",
-  "LastUpdate_Ratings": "2023-08-22T09:59:13.8529895+00:00",
-  "LastUpdate_Achievements": "2023-08-22T10:04:50.075046+00:00"
+  "LastUpdate_Ratings": "2023-08-22T10:59:06.2921331+00:00",
+  "LastUpdate_Achievements": "2023-08-22T11:04:38.2811099+00:00"
 }
