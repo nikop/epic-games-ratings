@@ -68,8 +68,8 @@
 | 66 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 67 | [Doodle God](games/d/doodle_god.md) | 3.43% |
 | 68 | [Bunny Park](games/b/bunny_park.md) | 3.37% |
-| 69 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.36% |
-| 70 | [The Complex](games/t/the_complex.md) | 3.35% |
+| 69 | [The Complex](games/t/the_complex.md) | 3.35% |
+| 70 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.34% |
 | 71 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.30% |
 | 72 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.16% |
 | 73 | [HordeCore](games/h/hordecore.md) | 3.15% |
