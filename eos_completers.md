@@ -53,7 +53,7 @@
 | 51 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.90% |
 | 52 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.79% |
 | 53 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 4.76% |
-| 54 | [Bugsnax](games/b/bugsnax.md) | 4.72% |
+| 54 | [Bugsnax](games/b/bugsnax.md) | 4.73% |
 | 55 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 56 | [JARS](games/j/jars.md) | 4.55% |
 | 57 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.44% |
@@ -64,7 +64,7 @@
 | 62 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 3.91% |
 | 63 | [ZZT!](games/z/zzt!.md) | 3.87% |
 | 64 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
-| 65 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.63% |
+| 65 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.61% |
 | 66 | [Without Escape](games/w/without_escape.md) | 3.57% |
 | 67 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 68 | [Doodle God](games/d/doodle_god.md) | 3.43% |
@@ -101,7 +101,7 @@
 | 99 | [Somerville](games/s/somerville.md) | 1.67% |
 | 99 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.67% |
 | 101 | [Iron Danger](games/i/iron_danger.md) | 1.59% |
-| 102 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.58% |
+| 102 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.57% |
 | 103 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.56% |
 | 104 | [Five Dates](games/f/five_dates.md) | 1.55% |
 | 105 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.49% |
@@ -551,4 +551,4 @@
 | 261 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 261 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 261 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,088 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,090 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
