@@ -6690,9 +6690,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 797964,
+  "EOS_Progressed": 797965,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 890,
+  "EOS_NewPlayers": 888,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -20240,6 +20240,11 @@
       "Time": "2023-08-22T00:06:22.3442241+00:00",
       "NumProgressed": 797964,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-08-22T01:48:34.0092472+00:00",
+      "NumProgressed": 797965,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 82,
@@ -20283,7 +20288,7 @@
       "Name": "Awakening",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 167572
+      "UsersEstimate": 167573
     },
     {
       "ID": "BadGirl",
@@ -20331,7 +20336,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 255348
+      "UsersEstimate": 255349
     },
     {
       "ID": "Bookworm",
@@ -20651,7 +20656,7 @@
       "Name": "McLovin",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 55857
+      "UsersEstimate": 55858
     },
     {
       "ID": "MercenarysHonor",
@@ -20755,7 +20760,7 @@
       "Name": "Runt",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 55857
+      "UsersEstimate": 55858
     },
     {
       "ID": "Saviour",
@@ -20906,15 +20911,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 797964,
+      "Progressed": 797965,
       "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-08-21T17:01:07.7444137+00:00",
-  "LastChanged_Achievements": "2023-08-22T00:06:22.3442238+00:00",
+  "LastChanged_Achievements": "2023-08-22T01:48:34.0092466+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:50.3701677+00:00",
-  "LastUpdate_Ratings": "2023-08-22T00:00:44.8192266+00:00",
-  "LastUpdate_Achievements": "2023-08-22T00:06:22.344361+00:00"
+  "LastUpdate_Ratings": "2023-08-22T01:42:33.7047443+00:00",
+  "LastUpdate_Achievements": "2023-08-22T01:48:34.0094406+00:00"
 }

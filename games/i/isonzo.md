@@ -6,17 +6,17 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Peak Performance | 55.00% | ~3,671 |
-| Tutti Eroi! | 55.00% | ~3,671 |
+| Peak Performance | 55.00% | ~3,672 |
+| Tutti Eroi! | 55.00% | ~3,672 |
 | You Shall Not Pass | 53.00% | ~3,538 |
-| Avanti Savoia! | 47.00% | ~3,137 |
-| Mamma Mia! | 38.00% | ~2,536 |
+| Avanti Savoia! | 47.00% | ~3,138 |
+| Mamma Mia! | 38.00% | ~2,537 |
 | Conrad von Hotzensocks | 36.00% | ~2,403 |
 | Gabriele D'Annunzio | 33.00% | ~2,203 |
-| Silver Lining | 30.00% | ~2,002 |
+| Silver Lining | 30.00% | ~2,003 |
 | Aurelio Baruzzi | 23.00% | ~1,535 |
-| Decimation | 22.00% | ~1,468 |
-| Veni Vidi Vici | 22.00% | ~1,468 |
+| Decimation | 22.00% | ~1,469 |
+| Veni Vidi Vici | 22.00% | ~1,469 |
 | Donatello | 21.00% | ~1,402 |
 | Insubordination | 20.00% | ~1,335 |
 | The Italian Job | 20.00% | ~1,335 |
@@ -36,8 +36,8 @@ Number of Ratings: 98  (23.09.2022)
 | The Show Must Go On | 9.00% | ~601 |
 | Tosca | 9.00% | ~601 |
 | 12th Bottle of the Isonzo | 7.00% | ~467 |
-| Cercatore d'Oro | 6.00% | ~400 |
-| The Enlightment | 6.00% | ~400 |
+| Cercatore d'Oro | 6.00% | ~401 |
+| The Enlightment | 6.00% | ~401 |
 | Generalissimo | 5.00% | ~334 |
 | "O La Vittoria, O Tutti Accoppati" | 4.00% | ~267 |
 | Ponte of No Return | 3.00% | ~200 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~27 |
 | Can I Go Home Now? | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,675 (Ranked 136)  
+Progressed: 6,676 (Ranked 136)  
 Completed: 8 (0.12%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,6 +171,7 @@ Completed: 8 (0.12%) (Ranked 201)
 | 2023-08-19 | 6,668 | 8 |
 | 2023-08-20 | 6,673 | 8 |
 | 2023-08-21 | 6,675 | 8 |
+| 2023-08-22 | 6,676 | 8 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 437)  
 Sum: 266 (Ranked 351)  

@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8686,
+  "EOS_Progressed": 8693,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1014,
+  "EOS_NewPlayers": 1007,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2812,6 +2812,11 @@
       "Time": "2023-08-22T00:07:08.4048693+00:00",
       "NumProgressed": 8686,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-22T01:49:24.6860417+00:00",
+      "NumProgressed": 8693,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -2864,7 +2869,7 @@
       "Name": "Doctor Approved",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 1390
+      "UsersEstimate": 1391
     },
     {
       "ID": "15",
@@ -2872,7 +2877,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 1477
+      "UsersEstimate": 1478
     },
     {
       "ID": "16",
@@ -2888,7 +2893,7 @@
       "Name": "Spore Taste",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 1042
+      "UsersEstimate": 1043
     },
     {
       "ID": "18",
@@ -2896,7 +2901,7 @@
       "Name": "Bottoms up!",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "19",
@@ -2904,7 +2909,7 @@
       "Name": "Martian Music",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 955
+      "UsersEstimate": 956
     },
     {
       "ID": "2",
@@ -2920,7 +2925,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "21",
@@ -3000,7 +3005,7 @@
       "Name": "Captain Drummer",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1303
+      "UsersEstimate": 1304
     },
     {
       "ID": "30",
@@ -3063,14 +3068,14 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 8686,
+      "Progressed": 8693,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged_Achievements": "2023-08-22T00:07:08.4048689+00:00",
+  "LastChanged_Achievements": "2023-08-22T01:49:24.6860409+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:40.3624587+00:00",
-  "LastUpdate_Ratings": "2023-08-22T00:01:29.4060752+00:00",
-  "LastUpdate_Achievements": "2023-08-22T00:07:08.4048999+00:00"
+  "LastUpdate_Ratings": "2023-08-22T01:43:39.6947144+00:00",
+  "LastUpdate_Achievements": "2023-08-22T01:49:24.6861099+00:00"
 }

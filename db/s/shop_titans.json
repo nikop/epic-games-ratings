@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 46,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 89,
+  "Ranking_EOS_NewPlayers": 87,
   "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -5642,10 +5642,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27123,
       "NumberOfAwardsMax": 4707
+    },
+    {
+      "Time": "2023-08-22T01:42:35.0919293+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27124,
+      "NumberOfAwardsMax": 4707
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27123,
+  "NumberOfAwards": 27124,
   "NumberOfAwardsMax": 4707,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5659,7 +5665,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 3856
+      "Count": 3857
     },
     {
       "Text": "This game is Great for Beginners",
@@ -5698,7 +5704,7 @@
       "Count": 3737
     }
   ],
-  "EOS_Progressed": 134909,
+  "EOS_Progressed": 134912,
   "EOS_Completed": 134,
   "EOS_NewPlayers": 377,
   "EOS_NewCompleters": 2,
@@ -18343,6 +18349,11 @@
       "Time": "2023-08-22T00:06:26.8023662+00:00",
       "NumProgressed": 134909,
       "NumCompleted": 134
+    },
+    {
+      "Time": "2023-08-22T01:48:40.5112606+00:00",
+      "NumProgressed": 134912,
+      "NumCompleted": 134
     }
   ],
   "TotalAchievements": 112,
@@ -19249,15 +19260,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 134909,
+      "Progressed": 134912,
       "Completed": 134
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-08-21T21:00:57.2725411+00:00",
-  "LastChanged_Achievements": "2023-08-22T00:06:26.8023657+00:00",
+  "LastChanged": "2023-08-22T01:42:35.0919291+00:00",
+  "LastChanged_Achievements": "2023-08-22T01:48:40.5112599+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:50.7489496+00:00",
-  "LastUpdate_Ratings": "2023-08-22T00:00:48.5547027+00:00",
-  "LastUpdate_Achievements": "2023-08-22T00:06:26.8025509+00:00"
+  "LastUpdate_Ratings": "2023-08-22T01:42:35.0919298+00:00",
+  "LastUpdate_Achievements": "2023-08-22T01:48:40.5115117+00:00"
 }

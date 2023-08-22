@@ -443,9 +443,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 83168,
+  "EOS_Progressed": 83172,
   "EOS_Completed": 388,
-  "EOS_NewPlayers": 783,
+  "EOS_NewPlayers": 782,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -13878,6 +13878,11 @@
       "Time": "2023-08-22T00:03:21.6256919+00:00",
       "NumProgressed": 83168,
       "NumCompleted": 388
+    },
+    {
+      "Time": "2023-08-22T01:45:14.0592239+00:00",
+      "NumProgressed": 83172,
+      "NumCompleted": 388
     }
   ],
   "TotalAchievements": 10,
@@ -13889,7 +13894,7 @@
       "Name": "Baby Mozart",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 4158
+      "UsersEstimate": 4159
     },
     {
       "ID": "Drawings01",
@@ -13953,7 +13958,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 29109
+      "UsersEstimate": 29110
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -13961,22 +13966,22 @@
       "Name": "Bad Lullaby",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 9148
+      "UsersEstimate": 9149
     }
   ],
   "AchievementSets": [
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 83168,
+      "Progressed": 83172,
       "Completed": 388
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-03-31T05:57:32.2303432+00:00",
-  "LastChanged_Achievements": "2023-08-22T00:03:21.6256914+00:00",
+  "LastChanged_Achievements": "2023-08-22T01:45:14.0592232+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:15.4428496+00:00",
-  "LastUpdate_Ratings": "2023-08-21T23:58:16.1975669+00:00",
-  "LastUpdate_Achievements": "2023-08-22T00:03:21.6257716+00:00"
+  "LastUpdate_Ratings": "2023-08-22T01:38:48.7815318+00:00",
+  "LastUpdate_Achievements": "2023-08-22T01:45:14.0593175+00:00"
 }

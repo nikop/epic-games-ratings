@@ -2,7 +2,7 @@
   "ID": "73c5297403d440f69cc7418a75df293d",
   "Name": "Switchball HD",
   "ProductSlug": "switchball-hd-6d3802",
-  "Ranking_EOS_Progress": 320,
+  "Ranking_EOS_Progress": 321,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 312,
   "Ranking_EOS_NewCompleters": 92,
@@ -556,9 +556,9 @@
       "ID": "ACHIEVEMENT_METALBALL_BADGE_ID",
       "SetID": "2h9pc72",
       "Name": "Metalball Badge",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 23
+      "UsersEstimate": 25
     },
     {
       "ID": "ACHIEVEMENT_POWERBALL_BADGE_ID",
@@ -604,9 +604,9 @@
       "ID": "ACHIEVEMENT_SPYGLASS_ID",
       "SetID": "2h9pc72",
       "Name": "Spyglass",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     }
   ],
   "AchievementSets": [
@@ -619,8 +619,8 @@
   ],
   "FirstSeen": "2023-05-15T16:57:34.7709022+00:00",
   "FirstSeenAchievements": "2023-05-02T12:00:27.1068616+00:00",
-  "LastChanged_Achievements": "2023-08-22T00:06:43.1105295+00:00",
+  "LastChanged_Achievements": "2023-08-22T01:49:03.0720717+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:50.9953114+00:00",
-  "LastUpdate_Ratings": "2023-08-21T23:59:29.3623465+00:00",
-  "LastUpdate_Achievements": "2023-08-22T00:06:43.1105391+00:00"
+  "LastUpdate_Ratings": "2023-08-22T01:40:27.7351453+00:00",
+  "LastUpdate_Achievements": "2023-08-22T01:49:03.0720836+00:00"
 }

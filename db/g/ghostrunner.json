@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 159,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1086,9 +1086,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15448,
+  "EOS_Progressed": 15449,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 411,
+  "EOS_NewPlayers": 410,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -14236,6 +14236,11 @@
       "Time": "2023-08-22T00:05:48.0958088+00:00",
       "NumProgressed": 15448,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-08-22T01:47:59.4720331+00:00",
+      "NumProgressed": 15449,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 45,
@@ -14263,7 +14268,7 @@
       "Name": "Artificial selection",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 4325
+      "UsersEstimate": 4326
     },
     {
       "ID": "BackToHell",
@@ -14311,7 +14316,7 @@
       "Name": "Finish line",
       "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 4016
+      "UsersEstimate": 4017
     },
     {
       "ID": "GRProjectComplete",
@@ -14343,7 +14348,7 @@
       "Name": "I call it luck",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 6797
+      "UsersEstimate": 6798
     },
     {
       "ID": "ImproviseAdaptOverrun",
@@ -14383,7 +14388,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 11740
+      "UsersEstimate": 11741
     },
     {
       "ID": "MoreThanHuman",
@@ -14399,7 +14404,7 @@
       "Name": "Control freak",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 4325
+      "UsersEstimate": 4326
     },
     {
       "ID": "ObedientMachine",
@@ -14439,7 +14444,7 @@
       "Name": "Perfection",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 4943
+      "UsersEstimate": 4944
     },
     {
       "ID": "PreempativeStrike",
@@ -14599,28 +14604,28 @@
       "Name": "Why not both",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 4634
+      "UsersEstimate": 4635
     }
   ],
   "AchievementSets": [
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 15448,
+      "Progressed": 15449,
       "Completed": 36
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 15448,
+      "Progressed": 15449,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-08-21T19:00:39.5902682+00:00",
-  "LastChanged_Achievements": "2023-08-22T00:05:48.0958083+00:00",
+  "LastChanged_Achievements": "2023-08-22T01:47:59.4720322+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:12.9191128+00:00",
-  "LastUpdate_Ratings": "2023-08-22T00:00:23.1390742+00:00",
-  "LastUpdate_Achievements": "2023-08-22T00:05:48.0958969+00:00"
+  "LastUpdate_Ratings": "2023-08-22T01:41:58.9885104+00:00",
+  "LastUpdate_Achievements": "2023-08-22T01:47:59.4721563+00:00"
 }

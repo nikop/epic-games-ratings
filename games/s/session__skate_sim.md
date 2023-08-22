@@ -6,10 +6,10 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 59.00% | ~1,617 |
+| You're free now! | 59.00% | ~1,618 |
 | Keeping it classy | 27.00% | ~740 |
 | Welcome to the family | 21.00% | ~576 |
-| The finer things in life | 18.00% | ~493 |
+| The finer things in life | 18.00% | ~494 |
 | Backpacker | 14.00% | ~384 |
 | Go with the Flow | 13.00% | ~356 |
 | Plastic Surgeon | 10.00% | ~274 |
@@ -21,13 +21,13 @@ Number of Ratings: 111  (23.09.2022)
 | Fashionista | 7.00% | ~192 |
 | Finally he zips it | 7.00% | ~192 |
 | That pinch! | 7.00% | ~192 |
-| Bottom ply killer | 6.00% | ~164 |
-| Fulfilled the dream | 6.00% | ~164 |
-| G'Day Mate! | 6.00% | ~164 |
-| Purple passion | 6.00% | ~164 |
-| Squad goals | 6.00% | ~164 |
-| Sup widdit big dog! | 6.00% | ~164 |
-| Tight lipslides | 6.00% | ~164 |
+| Bottom ply killer | 6.00% | ~165 |
+| Fulfilled the dream | 6.00% | ~165 |
+| G'Day Mate! | 6.00% | ~165 |
+| Purple passion | 6.00% | ~165 |
+| Squad goals | 6.00% | ~165 |
+| Sup widdit big dog! | 6.00% | ~165 |
+| Tight lipslides | 6.00% | ~165 |
 | Commence the Hijinx! | 5.00% | ~137 |
 | DIY Boss | 5.00% | ~137 |
 | Globetrotter | 5.00% | ~137 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,741 (Ranked 162)  
+Progressed: 2,742 (Ranked 162)  
 Completed: 0 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,6 +170,7 @@ Completed: 0 (0.00%) (Ranked 261)
 | 2023-08-19 | 2,735 | 0 |
 | 2023-08-20 | 2,739 | 0 |
 | 2023-08-21 | 2,741 | 0 |
+| 2023-08-22 | 2,742 | 0 |
 ## Awards
 Max (Highly Recommended): 52  (Ranked 399)  
 Sum: 451 (Ranked 310)  

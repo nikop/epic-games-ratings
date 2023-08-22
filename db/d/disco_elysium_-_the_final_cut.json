@@ -1277,7 +1277,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 126609,
+  "EOS_Progressed": 126611,
   "EOS_Completed": 27,
   "EOS_NewPlayers": 370,
   "EOS_NewCompleters": 0,
@@ -13587,6 +13587,11 @@
       "Time": "2023-08-21T23:05:49.2754314+00:00",
       "NumProgressed": 126609,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-08-22T01:47:27.4492531+00:00",
+      "NumProgressed": 126611,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 40,
@@ -13654,7 +13659,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 30386
+      "UsersEstimate": 30387
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -13702,7 +13707,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20257
+      "UsersEstimate": 20258
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -13734,7 +13739,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 18991
+      "UsersEstimate": 18992
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -13814,7 +13819,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 17725
+      "UsersEstimate": 17726
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -13917,15 +13922,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 126609,
+      "Progressed": 126611,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-08-20T18:02:20.9401326+00:00",
-  "LastChanged_Achievements": "2023-08-22T00:05:25.4174197+00:00",
+  "LastChanged_Achievements": "2023-08-22T01:47:27.4492524+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:47.5856644+00:00",
-  "LastUpdate_Ratings": "2023-08-22T00:01:33.4973719+00:00",
-  "LastUpdate_Achievements": "2023-08-22T00:05:25.4175015+00:00"
+  "LastUpdate_Ratings": "2023-08-22T01:43:49.3621514+00:00",
+  "LastUpdate_Achievements": "2023-08-22T01:47:27.4494397+00:00"
 }

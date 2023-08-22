@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 85.00% | ~11 |
+| Azoria Beckons | 92.00% | ~12 |
 | A Thorny Situation | 77.00% | ~10 |
 | Calm Sailing | 62.00% | ~8 |
 | Break-Net Speed | 62.00% | ~8 |

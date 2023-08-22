@@ -2,13 +2,13 @@
   "ID": "6098a8c7375c43458a22163a637c0c2f",
   "Name": "Spirit of the North",
   "ProductSlug": "spirit-of-the-north-f58a66",
-  "Ranking_Rating": 740,
+  "Ranking_Rating": 741,
   "Ranking_Popularity": 474,
   "Ranking_PopularitySum": 412,
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 143,
   "Ranking_EOS_NewPlayers": 64,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
     "PcReleaseDate": "2021-05-07T00:00:00+00:00",
@@ -324,9 +324,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 66332,
+  "EOS_Progressed": 66334,
   "EOS_Completed": 346,
-  "EOS_NewPlayers": 741,
+  "EOS_NewPlayers": 736,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -13674,6 +13674,11 @@
       "Time": "2023-08-22T00:05:22.5719802+00:00",
       "NumProgressed": 66332,
       "NumCompleted": 346
+    },
+    {
+      "Time": "2023-08-22T01:47:23.5839711+00:00",
+      "NumProgressed": 66334,
+      "NumCompleted": 346
     }
   ],
   "TotalAchievements": 24,
@@ -13701,7 +13706,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 45106
+      "UsersEstimate": 45107
     },
     {
       "ID": "BEST_FRIENDS",
@@ -13717,7 +13722,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 17246
+      "UsersEstimate": 17247
     },
     {
       "ID": "ERADICATE",
@@ -13741,7 +13746,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 19236
+      "UsersEstimate": 19237
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -13765,7 +13770,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 35156
+      "UsersEstimate": 35157
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -13876,7 +13881,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 66332,
+      "Progressed": 66334,
       "Completed": 346
     }
   ],
@@ -13884,8 +13889,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-08-22T00:05:22.5719796+00:00",
+  "LastChanged_Achievements": "2023-08-22T01:47:23.5839699+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:00:00.2454686+00:00",
-  "LastUpdate_Ratings": "2023-08-22T00:01:45.0063565+00:00",
-  "LastUpdate_Achievements": "2023-08-22T00:05:22.5720585+00:00"
+  "LastUpdate_Ratings": "2023-08-22T01:44:06.7947948+00:00",
+  "LastUpdate_Achievements": "2023-08-22T01:47:23.584147+00:00"
 }

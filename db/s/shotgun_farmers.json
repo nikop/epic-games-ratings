@@ -2,7 +2,7 @@
   "ID": "5eb9d01d608e46a7ac42a673a27f7888",
   "Name": "Shotgun Farmers",
   "ProductSlug": "shotgun-farmers-d9f3f0",
-  "Ranking_EOS_Progress": 273,
+  "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 92,
@@ -1471,9 +1471,9 @@
       "ID": "ach_x_victims_using_shotgun",
       "SetID": "cmg602e",
       "Name": "Cornivore",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 136
+      "UsersEstimate": 139
     },
     {
       "ID": "ach_all_koth_points",
@@ -1734,8 +1734,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-08-22T00:02:19.0775041+00:00",
+  "LastChanged_Achievements": "2023-08-22T01:44:42.9411465+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:21.1390535+00:00",
-  "LastUpdate_Ratings": "2023-08-22T00:00:30.8366613+00:00",
-  "LastUpdate_Achievements": "2023-08-22T00:02:19.0775814+00:00"
+  "LastUpdate_Ratings": "2023-08-22T01:42:12.9786501+00:00",
+  "LastUpdate_Achievements": "2023-08-22T01:44:42.941306+00:00"
 }

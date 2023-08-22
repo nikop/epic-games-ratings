@@ -2205,9 +2205,9 @@
       "ID": "Achievement_002",
       "SetID": "6b34g18",
       "Name": "Revelations",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "Achievement_003",
@@ -2734,8 +2734,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-08-08T16:59:16.4444629+00:00",
-  "LastChanged_Achievements": "2023-08-22T00:04:07.3182964+00:00",
+  "LastChanged_Achievements": "2023-08-22T01:45:49.9804641+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:46.9760776+00:00",
-  "LastUpdate_Ratings": "2023-08-22T00:00:02.6443806+00:00",
-  "LastUpdate_Achievements": "2023-08-22T00:04:07.3183603+00:00"
+  "LastUpdate_Ratings": "2023-08-22T01:41:25.3718834+00:00",
+  "LastUpdate_Achievements": "2023-08-22T01:45:49.9806152+00:00"
 }

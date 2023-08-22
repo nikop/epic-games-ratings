@@ -4,39 +4,39 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Brace for impact! | 32.00% | ~117 |
+| Brace for impact! | 32.00% | ~118 |
 | Baby's First Car | 30.00% | ~110 |
 | Pushover | 30.00% | ~110 |
 | A Forest Walk | 30.00% | ~110 |
-| Amateur Mechanic | 29.00% | ~106 |
+| Amateur Mechanic | 29.00% | ~107 |
 | C-C-C-Combo! | 27.00% | ~99 |
 | Multiply that! | 27.00% | ~99 |
-| Fore! | 25.00% | ~92 |
-| Insurance fraud | 25.00% | ~92 |
 | Snow Fun! | 25.00% | ~92 |
+| Fore! | 24.00% | ~88 |
 | The Collector | 24.00% | ~88 |
+| Insurance fraud | 24.00% | ~88 |
 | The Wild West | 24.00% | ~88 |
 | You're it | 24.00% | ~88 |
-| To and Fro | 23.00% | ~84 |
-| Goodbye cruel world | 23.00% | ~84 |
-| Bag of Tricks | 23.00% | ~84 |
-| I see the light! | 23.00% | ~84 |
-| In the Bag! | 23.00% | ~84 |
+| To and Fro | 23.00% | ~85 |
+| Goodbye cruel world | 23.00% | ~85 |
+| Bag of Tricks | 23.00% | ~85 |
+| I see the light! | 23.00% | ~85 |
+| In the Bag! | 23.00% | ~85 |
 | First Come, First Serve | 22.00% | ~81 |
-| Disoriented | 22.00% | ~81 |
 | Take that Frosty! | 22.00% | ~81 |
 | Beach Party! | 22.00% | ~81 |
 | Car-Tapult | 21.00% | ~77 |
+| Disoriented | 21.00% | ~77 |
 | Anger Issues | 21.00% | ~77 |
 | Your Highness | 21.00% | ~77 |
-| Event Amateur | 20.00% | ~73 |
+| Event Amateur | 20.00% | ~74 |
 | Feeling Hot Hot Hot! | 18.00% | ~66 |
 | Feeling Dizzy? | 18.00% | ~66 |
-| Drift King! | 17.00% | ~62 |
-| Ferry Good! | 17.00% | ~62 |
-| Assert Dominance | 17.00% | ~62 |
-| Speed of light | 17.00% | ~62 |
-| Out of this League | 14.00% | ~51 |
+| Drift King! | 17.00% | ~63 |
+| Ferry Good! | 17.00% | ~63 |
+| Assert Dominance | 17.00% | ~63 |
+| Speed of light | 17.00% | ~63 |
+| Out of this League | 14.00% | ~52 |
 | Special Forces | 13.00% | ~48 |
 | Toot Toot! | 13.00% | ~48 |
 | Blasting away! | 13.00% | ~48 |
@@ -60,7 +60,7 @@
 | Master Mechanic | 1.00% | ~4 |
 | Crashed and Driven | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 367 (Ranked 250)  
+Progressed: 368 (Ranked 250)  
 Completed: 2 (0.54%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,6 +118,7 @@ Completed: 2 (0.54%) (Ranked 142)
 | 2023-08-17 | 364 | 2 |
 | 2023-08-18 | 365 | 2 |
 | 2023-08-21 | 367 | 2 |
+| 2023-08-22 | 368 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

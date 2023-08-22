@@ -5986,9 +5986,9 @@
       "Count": 3365
     }
   ],
-  "EOS_Progressed": 224008,
+  "EOS_Progressed": 224025,
   "EOS_Completed": 2203,
-  "EOS_NewPlayers": 2067,
+  "EOS_NewPlayers": 2065,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -19456,6 +19456,11 @@
       "Time": "2023-08-22T00:05:51.5873564+00:00",
       "NumProgressed": 224008,
       "NumCompleted": 2203
+    },
+    {
+      "Time": "2023-08-22T01:48:04.9176796+00:00",
+      "NumProgressed": 224025,
+      "NumCompleted": 2203
     }
   ],
   "TotalAchievements": 516,
@@ -20665,9 +20670,9 @@
       "ID": "objective_completed_165",
       "SetID": "cc37lbc",
       "Name": "Street War",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 224
+      "UsersEstimate": 448
     },
     {
       "ID": "objective_completed_166",
@@ -21073,9 +21078,9 @@
       "ID": "objective_completed_278",
       "SetID": "cc37lbc",
       "Name": "Trollskull Manor",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 224
+      "UsersEstimate": 448
     },
     {
       "ID": "objective_completed_279",
@@ -23594,21 +23599,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 190282,
-      "Completed": 3286
+      "Progressed": 190299,
+      "Completed": 3287
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 224008,
+      "Progressed": 224025,
       "Completed": 2203
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-21T19:00:39.2668646+00:00",
-  "LastChanged_Achievements": "2023-08-22T00:05:51.5873562+00:00",
+  "LastChanged_Achievements": "2023-08-22T01:48:04.917679+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:12.3267162+00:00",
-  "LastUpdate_Ratings": "2023-08-22T00:00:22.9364197+00:00",
-  "LastUpdate_Achievements": "2023-08-22T00:05:51.5897641+00:00"
+  "LastUpdate_Ratings": "2023-08-22T01:41:58.6392301+00:00",
+  "LastUpdate_Achievements": "2023-08-22T01:48:04.9213573+00:00"
 }

@@ -61,6 +61,7 @@ Number of Ratings: 371  (23.09.2022)
 | Warp Flickers | 0.10% | ~3 |
 | Phalanx | 0.10% | ~3 |
 | Firing Squad | 0.10% | ~3 |
+| Strategic Command | 0.10% | ~3 |
 | Abomination | 0.10% | ~3 |
 | Killing Rampage | 0.10% | ~3 |
 | Deadshot | 0.10% | ~3 |
@@ -73,7 +74,6 @@ Number of Ratings: 371  (23.09.2022)
 | Mass Extinction | 0.00% | ~0 |
 | Brothers in Arms | 0.00% | ~0 |
 | Not a Mote of Corruption | 0.00% | ~0 |
-| Strategic Command | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,159 (Ranked 156)  
 Completed: 0 (0.00%) (Ranked 261)  

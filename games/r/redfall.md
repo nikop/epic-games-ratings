@@ -5,6 +5,7 @@ Rating: 3.50 (Ranked 974)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Revelations | 0.10% | ~2 |
 | Enter of Your Own Free Will | 0.10% | ~2 |
 | Blood Will Have Blood | 0.10% | ~2 |
 | Ne Plus Ultra | 0.10% | ~2 |
@@ -15,7 +16,6 @@ Rating: 3.50 (Ranked 974)
 | Sucks To Be You | 0.10% | ~2 |
 | Heart Attack | 0.10% | ~2 |
 | Neighborhood Revitalization | 0.00% | ~0 |
-| Revelations | 0.00% | ~0 |
 | Home Is Where the Heart Is | 0.00% | ~0 |
 | Contingency Plans | 0.00% | ~0 |
 | Deforestation | 0.00% | ~0 |

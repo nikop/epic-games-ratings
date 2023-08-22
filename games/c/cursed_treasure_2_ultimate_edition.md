@@ -36,7 +36,7 @@
 | Starry: Meadowshire | 55.00% | ~91 |
 | It's a Trap | 53.00% | ~87 |
 | Brilliant: Tanglewood | 52.00% | ~86 |
-| Starry: Holy Mountain | 51.00% | ~84 |
+| Starry: Holy Mountain | 52.00% | ~86 |
 | Deposition | 48.00% | ~79 |
 | Brilliant: Arcania | 48.00% | ~79 |
 | Starry: Tanglewood | 45.00% | ~74 |

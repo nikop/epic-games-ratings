@@ -4,7 +4,7 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 142,
-  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 367,
+  "EOS_Progressed": 368,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -396,6 +396,11 @@
       "Time": "2023-08-21T17:06:52.1423863+00:00",
       "NumProgressed": 367,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-22T01:48:46.2181499+00:00",
+      "NumProgressed": 368,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -407,7 +412,7 @@
       "Name": "Brace for impact!",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ALL_ACHIEVEMENTS",
@@ -421,9 +426,9 @@
       "ID": "BALL_HEAVY_HIT",
       "SetID": "20koof9",
       "Name": "Fore!",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 88
     },
     {
       "ID": "CATAPULT_THROW",
@@ -495,7 +500,7 @@
       "Name": "Drift King!",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "FIND_40_M2H",
@@ -527,15 +532,15 @@
       "Name": "To and Fro",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "FRONT_OR_BACKFLIP",
       "SetID": "20koof9",
       "Name": "Disoriented",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 77
     },
     {
       "ID": "FULLY_LEVEL_20_CARS",
@@ -559,7 +564,7 @@
       "Name": "Amateur Mechanic",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "HIGHEST_ASTEROID",
@@ -613,9 +618,9 @@
       "ID": "HIT_EXPLOSIVE_BARREL",
       "SetID": "20koof9",
       "Name": "Insurance fraud",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 88
     },
     {
       "ID": "HIT_FLYING_UFO",
@@ -655,7 +660,7 @@
       "Name": "Goodbye cruel world",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "LOADED_LVL_DESERT",
@@ -727,7 +732,7 @@
       "Name": "Bag of Tricks",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "STUNT_SCORE_DOUBLE",
@@ -735,7 +740,7 @@
       "Name": "Out of this League",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "TAGGED_25_OBJECTS",
@@ -751,7 +756,7 @@
       "Name": "Ferry Good!",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "USE_ROCKET",
@@ -767,7 +772,7 @@
       "Name": "I see the light!",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "WIN_100_EVENTS",
@@ -783,7 +788,7 @@
       "Name": "Event Amateur",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "WIN_50_EVENTS",
@@ -807,7 +812,7 @@
       "Name": "Assert Dominance",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "WIN_RACE_AGAINST_3",
@@ -815,7 +820,7 @@
       "Name": "Speed of light",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "WIN_ROBBER",
@@ -823,7 +828,7 @@
       "Name": "In the Bag!",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "WIN_TAG_EVENT",
@@ -846,7 +851,7 @@
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 367,
+      "Progressed": 368,
       "Completed": 2
     }
   ],
@@ -854,8 +859,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-08-22T00:06:31.0183084+00:00",
+  "LastChanged_Achievements": "2023-08-22T01:48:46.2181493+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:13.8795061+00:00",
-  "LastUpdate_Ratings": "2023-08-22T00:01:09.8877566+00:00",
-  "LastUpdate_Achievements": "2023-08-22T00:06:31.0183499+00:00"
+  "LastUpdate_Ratings": "2023-08-22T01:43:03.5902865+00:00",
+  "LastUpdate_Achievements": "2023-08-22T01:48:46.2182375+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 439,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 147,
-  "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -592,9 +592,9 @@
       "Count": 68
     }
   ],
-  "EOS_Progressed": 9734,
+  "EOS_Progressed": 9735,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -8612,6 +8612,11 @@
       "Time": "2023-08-21T18:07:21.9306686+00:00",
       "NumProgressed": 9734,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-08-22T01:48:41.5119624+00:00",
+      "NumProgressed": 9735,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -8639,7 +8644,7 @@
       "Name": "Iron-y",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 973
+      "UsersEstimate": 974
     },
     {
       "ID": "ACH04",
@@ -8783,7 +8788,7 @@
       "Name": "Legal Counsel",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4380
+      "UsersEstimate": 4381
     },
     {
       "ID": "ACH22",
@@ -8894,7 +8899,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9734,
+      "Progressed": 9735,
       "Completed": 49
     }
   ],
@@ -8902,8 +8907,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-08-19T22:00:52.464405+00:00",
-  "LastChanged_Achievements": "2023-08-22T00:06:27.7356871+00:00",
+  "LastChanged_Achievements": "2023-08-22T01:48:41.5119617+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:19.3350346+00:00",
-  "LastUpdate_Ratings": "2023-08-22T00:00:27.8298169+00:00",
-  "LastUpdate_Achievements": "2023-08-22T00:06:27.7357451+00:00"
+  "LastUpdate_Ratings": "2023-08-22T01:42:08.1274488+00:00",
+  "LastUpdate_Achievements": "2023-08-22T01:48:41.5120925+00:00"
 }
