@@ -430,7 +430,7 @@
 | 426 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 162 | 292 |
 | 426 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 0 | 514 |
 | 426 | [Deceive Inc.](games/d/deceive_inc..md) | 4.58 | 0 | 514 |
-| 426 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 8,851 | 39 |
+| 426 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 8,856 | 39 |
 | 426 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 258 | 250 |
 | 426 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.58 | 0 | 514 |
 | 426 | [GRIT](games/g/grit.md) | 4.58 | 0 | 514 |
@@ -655,7 +655,7 @@
 | 650 | [Good Company](games/g/good_company.md) | 4.44 | 0 | 514 |
 | 650 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 868 | 152 |
 | 650 | [SMITE](games/s/smite.md) | 4.44 | 4,179 | 79 |
-| 650 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 576 | 184 |
+| 650 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 577 | 184 |
 | 650 | [STG Football](games/s/stg_football.md) | 4.44 | 42 | 421 |
 | 650 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 0 | 514 |
 | 650 | [The Captain](games/t/the_captain.md) | 4.44 | 97 | 340 |
@@ -755,7 +755,7 @@
 | 751 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.35 | 0 | 514 |
 | 751 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.35 | 0 | 514 |
 | 751 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.35 | 0 | 514 |
-| 751 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 202 | 273 |
+| 751 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 203 | 273 |
 | 751 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 0 | 514 |
 | 751 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.35 | 0 | 514 |
 | 751 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 0 | 514 |
@@ -781,7 +781,7 @@
 | 778 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.32 | 60 | 391 |
 | 778 | [Filament](games/f/filament.md) | 4.32 | 561 | 189 |
 | 778 | [Parkitect](games/p/parkitect.md) | 4.32 | 0 | 514 |
-| 778 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.32 | 1,321 | 129 |
+| 778 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.32 | 1,363 | 129 |
 | 778 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 0 | 514 |
 | 778 | [Vampyr](games/v/vampyr.md) | 4.32 | 555 | 193 |
 | 785 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 0 | 514 |
