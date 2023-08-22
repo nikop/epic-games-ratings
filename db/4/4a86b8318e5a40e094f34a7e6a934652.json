@@ -28,8 +28,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "aniflfk",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
+  "LastChanged_Achievements": "2023-08-22T07:07:08.4509827+00:00",
   "LastUpdate_AppInfo": "2023-08-16T10:57:17.993426+00:00",
-  "LastUpdate_Ratings": "2023-08-22T06:01:16.7404324+00:00",
-  "LastUpdate_Achievements": "2023-08-22T06:09:30.6989888+00:00"
+  "LastUpdate_Ratings": "2023-08-22T07:00:42.00652+00:00",
+  "LastUpdate_Achievements": "2023-08-22T07:07:08.4509923+00:00"
 }

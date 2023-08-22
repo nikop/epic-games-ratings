@@ -1878,9 +1878,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 25260,
+  "EOS_Progressed": 25261,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 167,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -11023,6 +11023,11 @@
       "Time": "2023-08-22T05:04:24.6221956+00:00",
       "NumProgressed": 25260,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-08-22T07:04:54.9704029+00:00",
+      "NumProgressed": 25261,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 51,
@@ -11034,7 +11039,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 18440
+      "UsersEstimate": 18441
     },
     {
       "ID": "Animated",
@@ -11042,7 +11047,7 @@
       "Name": "Animated",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 6062
+      "UsersEstimate": 6063
     },
     {
       "ID": "Back_Off",
@@ -11106,7 +11111,7 @@
       "Name": "Daily Dose",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 8588
+      "UsersEstimate": 8589
     },
     {
       "ID": "Diabolical",
@@ -11266,7 +11271,7 @@
       "Name": "Rift Destroyer",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 4799
+      "UsersEstimate": 4800
     },
     {
       "ID": "Rift_Seeker",
@@ -11314,7 +11319,7 @@
       "Name": "Skilled",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 6062
+      "UsersEstimate": 6063
     },
     {
       "ID": "Solo_Capture",
@@ -11362,7 +11367,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 13640
+      "UsersEstimate": 13641
     },
     {
       "ID": "Teamwork",
@@ -11394,7 +11399,7 @@
       "Name": "There you are!",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 10609
+      "UsersEstimate": 10610
     },
     {
       "ID": "Tobins_Prodigy",
@@ -11441,7 +11446,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 25260,
+      "Progressed": 25261,
       "Completed": 52
     }
   ],
@@ -11449,8 +11454,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-08-20T20:00:34.3047121+00:00",
-  "LastChanged_Achievements": "2023-08-22T06:06:30.7366952+00:00",
+  "LastChanged_Achievements": "2023-08-22T07:04:54.9704023+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:37.9111082+00:00",
-  "LastUpdate_Ratings": "2023-08-22T06:05:51.0423132+00:00",
-  "LastUpdate_Achievements": "2023-08-22T06:06:30.7368396+00:00"
+  "LastUpdate_Ratings": "2023-08-22T07:04:19.7221987+00:00",
+  "LastUpdate_Achievements": "2023-08-22T07:04:54.9705191+00:00"
 }

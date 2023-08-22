@@ -4,7 +4,7 @@
   "ProductSlug": "way-of-the-hunter",
   "Ranking_Rating": 733,
   "Ranking_Popularity": 418,
-  "Ranking_PopularitySum": 345,
+  "Ranking_PopularitySum": 344,
   "Ranking_EOS_Progress": 552,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 346,
@@ -848,10 +848,16 @@
       "Rating": 4.37,
       "NumberOfAwards": 279,
       "NumberOfAwardsMax": 44
+    },
+    {
+      "Time": "2023-08-22T07:04:05.1810134+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 280,
+      "NumberOfAwardsMax": 44
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 279,
+  "NumberOfAwards": 280,
   "NumberOfAwardsMax": 44,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -925,7 +931,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 23
+      "Count": 24
     },
     {
       "Text": "This game has a Creative Community",
@@ -946,8 +952,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-08-22T17:32:55.4881061+00:00",
   "FirstSeenRating": "2022-08-25T19:31:36.42786+00:00",
-  "LastChanged": "2023-08-21T14:02:30.2807851+00:00",
+  "LastChanged": "2023-08-22T07:04:05.1810133+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:27.7894156+00:00",
-  "LastUpdate_Ratings": "2023-08-22T06:05:29.3171799+00:00",
-  "LastUpdate_Achievements": "2023-08-22T06:11:31.976129+00:00"
+  "LastUpdate_Ratings": "2023-08-22T07:04:05.1810149+00:00",
+  "LastUpdate_Achievements": "2023-08-22T07:09:22.8953022+00:00"
 }

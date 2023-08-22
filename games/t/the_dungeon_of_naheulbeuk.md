@@ -6,10 +6,10 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 21.00% | ~45,312 |
-| Déjà vu | 2.00% | ~4,315 |
-| Where's that freaking Dwarf? | 2.00% | ~4,315 |
-| Alt+F4 | 2.00% | ~4,315 |
+| Sowwy! | 21.00% | ~45,314 |
+| Déjà vu | 2.00% | ~4,316 |
+| Where's that freaking Dwarf? | 2.00% | ~4,316 |
+| Alt+F4 | 2.00% | ~4,316 |
 | A beer, two curses, three companions | 1.00% | ~2,158 |
 | Sock! SOCK! | 1.00% | ~2,158 |
 | GG EZ | 1.00% | ~2,158 |
@@ -24,13 +24,13 @@ Number of Ratings: 118  (23.09.2022)
 | Torture and Sensibility | 0.60% | ~1,295 |
 | Urik's Depths | 0.60% | ~1,295 |
 | The Dungeon Master | 0.60% | ~1,295 |
+| The Statuette of Gladeulfeurah | 0.60% | ~1,295 |
 | The Woman in the High Castle | 0.60% | ~1,295 |
+| A tale of adventurers not quite like the others... | 0.60% | ~1,295 |
 | %#*!$*! | 0.60% | ~1,295 |
 | Team Building Exercise | 0.60% | ~1,295 |
 | Oh, when I'll be level 10... | 0.60% | ~1,295 |
 | Shiny and Crôm | 0.50% | ~1,079 |
-| The Statuette of Gladeulfeurah | 0.50% | ~1,079 |
-| A tale of adventurers not quite like the others... | 0.50% | ~1,079 |
 | The beards of change | 0.50% | ~1,079 |
 | The Ranger of Chaos | 0.50% | ~1,079 |
 | I am the night | 0.50% | ~1,079 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Staff cut | 0.00% | ~0 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,771 (Ranked 56)  
+Progressed: 215,781 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,7 +178,7 @@ Completed: 2 (0.00%) (Ranked 261)
 | 2023-08-19 | 214,804 | 2 |
 | 2023-08-20 | 215,307 | 2 |
 | 2023-08-21 | 215,690 | 2 |
-| 2023-08-22 | 215,771 | 2 |
+| 2023-08-22 | 215,781 | 2 |
 ## Awards
 Max (Character Customization): 172  (Ranked 287)  
 Sum: 213 (Ranked 366)  

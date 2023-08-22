@@ -19,9 +19,9 @@
 | Peaceful Instinct | 18.00% | ~87 |
 | Maternity | 16.00% | ~77 |
 | Family Reunion | 15.00% | ~72 |
+| Beyond Words | 15.00% | ~72 |
 | Barking in The Rain | 15.00% | ~72 |
 | Never Run Around | 14.00% | ~68 |
-| Beyond Words | 14.00% | ~68 |
 | Three Little Foxes | 11.00% | ~53 |
 | Two Peas in a Pod | 11.00% | ~53 |
 | All For One | 11.00% | ~53 |

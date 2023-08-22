@@ -21,7 +21,7 @@ Rating: 4.05 (Ranked 925)
 | Dragon Master | 15.00% | ~276 |
 | Enlightenment | 15.00% | ~276 |
 | Hero inspection | 15.00% | ~276 |
-| Lieutenant | 14.00% | ~257 |
+| Lieutenant | 15.00% | ~276 |
 | Mysterious Rock | 14.00% | ~257 |
 | Milestone collector | 13.00% | ~239 |
 | Natural Talent | 13.00% | ~239 |

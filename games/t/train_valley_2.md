@@ -6,36 +6,36 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 72.00% | ~272,876 |
-| Full garage | 60.00% | ~227,397 |
-| To the eyeballs! | 50.00% | ~189,498 |
-| Individual delivery | 46.00% | ~174,338 |
-| Non-Stop | 44.00% | ~166,758 |
-| Juggler | 35.00% | ~132,648 |
-| Forgot something | 34.00% | ~128,858 |
-| Close call! | 30.00% | ~113,698 |
-| Get out my way | 27.00% | ~102,329 |
-| Common cause | 25.00% | ~94,749 |
-| Critical care | 25.00% | ~94,749 |
-| Mega-railroad | 22.00% | ~83,379 |
-| Upgrade complete | 22.00% | ~83,379 |
-| Just in time! | 17.00% | ~64,429 |
-| Builder | 16.00% | ~60,639 |
-| Steam Age | 16.00% | ~60,639 |
-| Long Haul | 16.00% | ~60,534 |
-| Bridgemania | 14.00% | ~53,059 |
-| Multilevel road | 14.00% | ~53,059 |
-| Need to think | 14.00% | ~53,059 |
-| The Tortoise | 12.00% | ~45,479 |
-| Without a lunch break | 11.00% | ~41,689 |
-| Beginner | 10.00% | ~37,900 |
-| One way | 9.00% | ~34,110 |
-| Relocation | 9.00% | ~34,110 |
-| Industrial Age | 8.00% | ~30,320 |
-| Prick of conscience | 8.00% | ~30,320 |
-| Just One More Valley | 8.00% | ~30,267 |
-| At the last moment! | 6.00% | ~22,740 |
-| Missed it! | 6.00% | ~22,740 |
+| Dealmaker | 72.00% | ~272,887 |
+| Full garage | 60.00% | ~227,406 |
+| To the eyeballs! | 50.00% | ~189,505 |
+| Individual delivery | 46.00% | ~174,345 |
+| Non-Stop | 44.00% | ~166,764 |
+| Juggler | 35.00% | ~132,654 |
+| Forgot something | 34.00% | ~128,863 |
+| Close call! | 30.00% | ~113,703 |
+| Get out my way | 27.00% | ~102,333 |
+| Common cause | 25.00% | ~94,752 |
+| Critical care | 25.00% | ~94,752 |
+| Mega-railroad | 22.00% | ~83,382 |
+| Upgrade complete | 22.00% | ~83,382 |
+| Just in time! | 17.00% | ~64,432 |
+| Builder | 16.00% | ~60,642 |
+| Steam Age | 16.00% | ~60,642 |
+| Long Haul | 16.00% | ~60,536 |
+| Bridgemania | 14.00% | ~53,061 |
+| Multilevel road | 14.00% | ~53,061 |
+| Need to think | 14.00% | ~53,061 |
+| The Tortoise | 12.00% | ~45,481 |
+| Without a lunch break | 11.00% | ~41,691 |
+| Beginner | 10.00% | ~37,901 |
+| One way | 9.00% | ~34,111 |
+| Relocation | 9.00% | ~34,111 |
+| Industrial Age | 8.00% | ~30,321 |
+| Prick of conscience | 8.00% | ~30,321 |
+| Just One More Valley | 8.00% | ~30,268 |
+| At the last moment! | 6.00% | ~22,741 |
+| Missed it! | 6.00% | ~22,741 |
 | Overseer | 5.00% | ~18,950 |
 | Electrical Age | 4.00% | ~15,160 |
 | Highlander | 4.00% | ~15,160 |
@@ -56,7 +56,7 @@ Number of Ratings: 87  (23.09.2022)
 | Test Batch | 2.00% | ~7,567 |
 | Innovator | 1.00% | ~3,790 |
 | Will work | 1.00% | ~3,790 |
-| Occupied! | 1.00% | ~3,783 |
+| Occupied! | 1.00% | ~3,784 |
 | Ouroboros | 0.90% | ~3,411 |
 | Metro builder | 0.80% | ~3,032 |
 | Achiever | 0.70% | ~2,653 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~378 |
 | World Zapper | 0.10% | ~378 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 378,995 (Ranked 40)  
+Progressed: 379,010 (Ranked 40)  
 Completed: 9 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,18 +182,18 @@ Completed: 9 (0.00%) (Ranked 261)
 | 2023-08-19 | 377,183 | 9 |
 | 2023-08-20 | 378,123 | 9 |
 | 2023-08-21 | 378,851 | 9 |
-| 2023-08-22 | 378,995 | 9 |
+| 2023-08-22 | 379,010 | 9 |
 ## Awards
 Max (Challenging Puzzles): 428  (Ranked 208)  
-Sum: 767 (Ranked 266)  
+Sum: 769 (Ranked 266)  
 Diff (max vs sum): -58  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 428 |
 | This game is Great for Beginners | 49 |
+| This game has Quickly Understood Controls | 47 |
 | This game has Playful Visuals | 47 |
 | This game is Extremely Fun | 46 |
-| This game has Quickly Understood Controls | 45 |
 | This game is Highly Recommended | 40 |
 | This game is Relaxing | 36 |
 | This game has Amazing Storytelling | 29 |
@@ -293,3 +293,4 @@ Diff (max vs sum): -58
 | 2023-08-19 | 4.39 | - | 412 | 739 |
 | 2023-08-20 | 4.39 | - | 422 | 756 |
 | 2023-08-21 | 4.39 | - | 428 | 767 |
+| 2023-08-22 | 4.39 | - | 428 | 769 |

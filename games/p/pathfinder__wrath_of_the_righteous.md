@@ -34,13 +34,13 @@ Number of Ratings: 1,354  (23.09.2022)
 | Hey, I Know You! | 3.00% | ~331 |
 | The Lady of the Forest | 3.00% | ~294 |
 | Beware Still Water | 3.00% | ~294 |
-| Path of the Demon | 2.00% | ~220 |
-| Path of the Aeon | 2.00% | ~220 |
-| Path of the Lich | 2.00% | ~220 |
-| Heroic Victory | 2.00% | ~220 |
-| Capitulation Is Now Moot | 2.00% | ~220 |
-| Your First Big Enemy | 2.00% | ~220 |
-| Truly Important Deed | 2.00% | ~220 |
+| Path of the Demon | 2.00% | ~221 |
+| Path of the Aeon | 2.00% | ~221 |
+| Path of the Lich | 2.00% | ~221 |
+| Heroic Victory | 2.00% | ~221 |
+| Capitulation Is Now Moot | 2.00% | ~221 |
+| Your First Big Enemy | 2.00% | ~221 |
+| Truly Important Deed | 2.00% | ~221 |
 | Stay Underground | 2.00% | ~196 |
 | Hanged Man's Notes | 2.00% | ~196 |
 | Sarkoris Will Be Green | 2.00% | ~196 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,025 (Ranked 121)  
+Progressed: 11,026 (Ranked 121)  
 Completed: 0 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,7 +247,7 @@ Completed: 0 (0.00%) (Ranked 261)
 | 2023-08-19 | 11,004 | 0 |
 | 2023-08-20 | 11,016 | 0 |
 | 2023-08-21 | 11,022 | 0 |
-| 2023-08-22 | 11,025 | 0 |
+| 2023-08-22 | 11,026 | 0 |
 ## Awards
 Max (Character Customization): 1,701  (Ranked 118)  
 Sum: 6,900 (Ranked 113)  
