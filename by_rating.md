@@ -19,7 +19,7 @@
 | 13 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.89 | 0 | 514 |
 | 13 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 17,729 | 21 |
 | 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 137 | 307 |
-| 19 | [God of War](games/g/god_of_war.md) | 4.88 | 4,212 | 77 |
+| 19 | [God of War](games/g/god_of_war.md) | 4.88 | 4,215 | 77 |
 | 19 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.88 | 0 | 514 |
 | 19 | [Ooblets](games/o/ooblets.md) | 4.88 | 1,021 | 143 |
 | 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 169,153 | 6 |
@@ -246,7 +246,7 @@
 | 238 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,916 | 81 |
 | 238 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 5,732 | 61 |
 | 238 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 3,565 | 84 |
-| 238 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 303,366 | 3 |
+| 238 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 303,438 | 3 |
 | 238 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 214,875 | 4 |
 | 238 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 514 |
 | 238 | [King of Retail](games/k/king_of_retail.md) | 4.68 | 0 | 514 |
@@ -288,7 +288,7 @@
 | 275 | [LEGO® 2K Drive](games/l/lego®_2k_drive.md) | 4.66 | 0 | 514 |
 | 275 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.66 | 51 | 401 |
 | 275 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 1,061 | 141 |
-| 275 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 1,909 | 110 |
+| 275 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 1,910 | 110 |
 | 275 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.66 | 54 | 395 |
 | 275 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 561 | 189 |
 | 275 | [SOMA](games/s/soma.md) | 4.66 | 0 | 514 |
@@ -381,7 +381,7 @@
 | 367 | [MudRunner](games/m/mudrunner.md) | 4.61 | 252 | 252 |
 | 367 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.61 | 0 | 514 |
 | 367 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 0 | 514 |
-| 367 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 671 | 171 |
+| 367 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 674 | 171 |
 | 367 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 105 | 331 |
 | 367 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 487 | 199 |
 | 367 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 9,864 | 37 |
@@ -643,7 +643,7 @@
 | 639 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 245 | 256 |
 | 639 | [Faeria](games/f/faeria.md) | 4.45 | 110 | 327 |
 | 639 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.45 | 807 | 156 |
-| 639 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 11,178 | 34 |
+| 639 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 11,185 | 34 |
 | 639 | [Pathway](games/p/pathway.md) | 4.45 | 0 | 514 |
 | 639 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.45 | 53 | 396 |
 | 639 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.45 | 0 | 514 |
@@ -662,7 +662,7 @@
 | 650 | [Weird West: Definitive Edition](games/w/weird_west.md) | 4.44 | 24 | 483 |
 | 650 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 59 | 392 |
 | 650 | [WRC Generations](games/w/wrc_generations.md) | 4.44 | 20 | 509 |
-| 663 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.43 | 214 | 269 |
+| 663 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.43 | 215 | 269 |
 | 663 | [Predecessor](games/p/predecessor.md) | 4.43 | 149 | 298 |
 | 663 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 0 | 514 |
 | 663 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 0 | 514 |
@@ -742,7 +742,6 @@
 | 733 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.37 | 32 | 456 |
 | 741 | [Core](games/c/core.md) | 4.36 | 747 | 163 |
 | 741 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 173 | 285 |
-| 741 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 96 | 343 |
 | 741 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,640 | 30 |
 | 741 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.36 | 0 | 514 |
 | 741 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 514 |
@@ -750,15 +749,16 @@
 | 741 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 49 | 406 |
 | 741 | [The Silent Age](games/t/the_silent_age.md) | 4.36 | 0 | 514 |
 | 741 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 112 | 326 |
-| 751 | [Among Trees](games/a/among_trees.md) | 4.35 | 0 | 514 |
-| 751 | [Assassin's Creed Chronicles: India](games/a/assassin's_creed_chronicles__india.md) | 4.35 | 0 | 514 |
-| 751 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.35 | 0 | 514 |
-| 751 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.35 | 0 | 514 |
-| 751 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.35 | 0 | 514 |
-| 751 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 203 | 273 |
-| 751 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 0 | 514 |
-| 751 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.35 | 0 | 514 |
-| 751 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 0 | 514 |
+| 750 | [Among Trees](games/a/among_trees.md) | 4.35 | 0 | 514 |
+| 750 | [Assassin's Creed Chronicles: India](games/a/assassin's_creed_chronicles__india.md) | 4.35 | 0 | 514 |
+| 750 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.35 | 0 | 514 |
+| 750 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.35 | 0 | 514 |
+| 750 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.35 | 96 | 343 |
+| 750 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.35 | 0 | 514 |
+| 750 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 203 | 273 |
+| 750 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 0 | 514 |
+| 750 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.35 | 0 | 514 |
+| 750 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.35 | 0 | 514 |
 | 760 | [Automachef](games/a/automachef.md) | 4.34 | 27 | 470 |
 | 760 | [Backbone](games/b/backbone.md) | 4.34 | 0 | 514 |
 | 760 | [Beyond Blue](games/b/beyond_blue.md) | 4.34 | 0 | 514 |
@@ -927,10 +927,10 @@
 | 925 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.05 | 0 | 514 |
 | 925 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 4.05 | 0 | 514 |
 | 925 | [Gravewood High](games/g/gravewood_high.md) | 4.05 | 0 | 514 |
+| 925 | [Pinball FX](games/p/pinball_fx.md) | 4.05 | 187 | 278 |
 | 925 | [Second Extinction™](games/s/second_extinction™.md) | 4.05 | 462 | 203 |
-| 929 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.04 | 0 | 514 |
-| 929 | [Pinball FX](games/p/pinball_fx.md) | 4.04 | 187 | 278 |
-| 929 | [Tharsis](games/t/tharsis.md) | 4.04 | 0 | 514 |
+| 930 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.04 | 0 | 514 |
+| 930 | [Tharsis](games/t/tharsis.md) | 4.04 | 0 | 514 |
 | 932 | [Lake](games/l/lake.md) | 4.03 | 0 | 514 |
 | 932 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 0 | 514 |
 | 934 | [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 4.00 | 0 | 514 |
