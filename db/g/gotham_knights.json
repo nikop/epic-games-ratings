@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewPlayers": 109,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -2498,9 +2498,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 67967,
+  "EOS_Progressed": 67968,
   "EOS_Completed": 108,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -12923,6 +12923,11 @@
       "Time": "2023-08-22T01:49:26.6312334+00:00",
       "NumProgressed": 67967,
       "NumCompleted": 108
+    },
+    {
+      "Time": "2023-08-22T02:22:32.9506478+00:00",
+      "NumProgressed": 67968,
+      "NumCompleted": 108
     }
   ],
   "TotalAchievements": 61,
@@ -13030,7 +13035,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 11554
+      "UsersEstimate": 11555
     },
     {
       "ID": "CLAYFACE_1",
@@ -13054,7 +13059,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 9515
+      "UsersEstimate": 9516
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -13166,7 +13171,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 13593
+      "UsersEstimate": 13594
     },
     {
       "ID": "FREEZE_2",
@@ -13182,7 +13187,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 9515
+      "UsersEstimate": 9516
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -13238,7 +13243,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 23788
+      "UsersEstimate": 23789
     },
     {
       "ID": "HARLEY_2",
@@ -13254,7 +13259,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 13593
+      "UsersEstimate": 13594
     },
     {
       "ID": "HARLEY_4",
@@ -13302,7 +13307,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 13593
+      "UsersEstimate": 13594
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -13350,7 +13355,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 13593
+      "UsersEstimate": 13594
     },
     {
       "ID": "MYSTERY_05",
@@ -13374,7 +13379,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 9515
+      "UsersEstimate": 9516
     },
     {
       "ID": "MYSTERY_08",
@@ -13421,13 +13426,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 67967,
+      "Progressed": 67968,
       "Completed": 108
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 38247,
+      "Progressed": 38248,
       "Completed": 2658
     }
   ],
@@ -13435,8 +13440,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-08-20T14:57:30.6977519+00:00",
-  "LastChanged_Achievements": "2023-08-22T01:49:26.631232+00:00",
+  "LastChanged_Achievements": "2023-08-22T02:22:32.9506472+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:36.1459925+00:00",
-  "LastUpdate_Ratings": "2023-08-22T01:37:37.5448159+00:00",
-  "LastUpdate_Achievements": "2023-08-22T01:49:26.6314596+00:00"
+  "LastUpdate_Ratings": "2023-08-22T02:11:56.8896039+00:00",
+  "LastUpdate_Achievements": "2023-08-22T02:22:32.9507807+00:00"
 }

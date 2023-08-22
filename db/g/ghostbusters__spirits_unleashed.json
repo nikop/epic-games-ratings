@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -1878,9 +1878,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 25254,
+  "EOS_Progressed": 25255,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 165,
+  "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -11008,6 +11008,11 @@
       "Time": "2023-08-22T01:46:24.0077105+00:00",
       "NumProgressed": 25254,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-08-22T02:19:33.653857+00:00",
+      "NumProgressed": 25255,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 51,
@@ -11017,9 +11022,9 @@
       "ID": "Advancement",
       "SetID": "819popo",
       "Name": "Advancement",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 18183
+      "UsersEstimate": 18436
     },
     {
       "ID": "Animated",
@@ -11075,7 +11080,7 @@
       "Name": "Collector",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 5808
+      "UsersEstimate": 5809
     },
     {
       "ID": "Cultured",
@@ -11091,7 +11096,7 @@
       "Name": "Daily Dose",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 8586
+      "UsersEstimate": 8587
     },
     {
       "ID": "Diabolical",
@@ -11107,7 +11112,7 @@
       "Name": "Discovery",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 15405
+      "UsersEstimate": 15406
     },
     {
       "ID": "Dont_Need_These",
@@ -11123,7 +11128,7 @@
       "Name": "Ectoplasmic Entity",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 5808
+      "UsersEstimate": 5809
     },
     {
       "ID": "Efficient",
@@ -11131,7 +11136,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 63,
       "XP": 100,
-      "UsersEstimate": 15910
+      "UsersEstimate": 15911
     },
     {
       "ID": "Escape_Artist",
@@ -11195,7 +11200,7 @@
       "Name": "Liability",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 2525
+      "UsersEstimate": 2526
     },
     {
       "ID": "Line_Em_Up",
@@ -11275,7 +11280,7 @@
       "Name": "Rivalry",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 2525
+      "UsersEstimate": 2526
     },
     {
       "ID": "Seasoned",
@@ -11323,7 +11328,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 21718
+      "UsersEstimate": 21719
     },
     {
       "ID": "Summoner",
@@ -11347,7 +11352,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 13637
+      "UsersEstimate": 13638
     },
     {
       "ID": "Teamwork",
@@ -11355,7 +11360,7 @@
       "Name": "Teamwork",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 10859
+      "UsersEstimate": 10860
     },
     {
       "ID": "Terrifying",
@@ -11426,7 +11431,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 25254,
+      "Progressed": 25255,
       "Completed": 52
     }
   ],
@@ -11434,8 +11439,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-08-20T20:00:34.3047121+00:00",
-  "LastChanged_Achievements": "2023-08-22T01:46:24.0077099+00:00",
+  "LastChanged_Achievements": "2023-08-22T02:19:33.6538564+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:37.9111082+00:00",
-  "LastUpdate_Ratings": "2023-08-22T01:43:38.530998+00:00",
-  "LastUpdate_Achievements": "2023-08-22T01:46:24.0078181+00:00"
+  "LastUpdate_Ratings": "2023-08-22T02:16:55.562025+00:00",
+  "LastUpdate_Achievements": "2023-08-22T02:19:33.6539991+00:00"
 }

@@ -5,31 +5,31 @@ Rating: 4.75 (Ranked 136)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Motivational Speaker | 77.00% | ~65,248 |
-| The Player Whisperer | 76.00% | ~64,401 |
+| Motivational Speaker | 77.00% | ~65,249 |
+| The Player Whisperer | 76.00% | ~64,402 |
 | One of Us, One of Us! | 73.00% | ~61,859 |
-| First Victory | 68.00% | ~57,622 |
-| Clean Sheet | 67.00% | ~56,774 |
-| #DoneDeal | 67.00% | ~56,774 |
+| First Victory | 68.00% | ~57,623 |
+| Clean Sheet | 67.00% | ~56,775 |
+| #DoneDeal | 67.00% | ~56,775 |
 | Off the Books | 65.00% | ~55,080 |
-| Super-Sub | 64.00% | ~54,232 |
+| Super-Sub | 64.00% | ~54,233 |
 | Hat-trick | 60.00% | ~50,843 |
-| "I Would Love It If We Beat Them" | 58.00% | ~49,148 |
-| Planned Signing | 58.00% | ~49,148 |
-| Thumping | 53.00% | ~44,911 |
-| Scoring Streak | 53.00% | ~44,911 |
+| "I Would Love It If We Beat Them" | 58.00% | ~49,149 |
+| Planned Signing | 58.00% | ~49,149 |
+| Thumping | 53.00% | ~44,912 |
+| Scoring Streak | 53.00% | ~44,912 |
 | People Pleaser | 52.00% | ~44,064 |
 | Wheeler Dealer | 52.00% | ~44,064 |
-| Unbeatable! | 51.00% | ~43,216 |
-| One Of Our Own | 48.00% | ~40,674 |
-| They're a Natural | 45.00% | ~38,132 |
+| Unbeatable! | 51.00% | ~43,217 |
+| One Of Our Own | 48.00% | ~40,675 |
+| They're a Natural | 45.00% | ~38,133 |
 | Team Performance | 44.00% | ~37,285 |
 | Record Signing | 44.00% | ~37,285 |
 | The Only Stat That Matters | 44.00% | ~37,285 |
 | Full Faith | 41.00% | ~34,743 |
 | Star Player | 41.00% | ~34,743 |
-| Squad Goals | 40.00% | ~33,895 |
-| The People's Champion | 40.00% | ~33,895 |
+| Squad Goals | 40.00% | ~33,896 |
+| The People's Champion | 40.00% | ~33,896 |
 | Parked The Bus | 39.00% | ~33,048 |
 | Beating Expectations | 39.00% | ~33,048 |
 | Goal Rush | 39.00% | ~33,048 |
@@ -39,7 +39,7 @@ Rating: 4.75 (Ranked 136)
 | Unstoppable Force | 36.00% | ~30,506 |
 | Record Sale | 36.00% | ~30,506 |
 | Shots For Days | 36.00% | ~30,506 |
-| You're on Fire | 35.00% | ~29,658 |
+| You're on Fire | 35.00% | ~29,659 |
 | Splashing the Cash | 34.00% | ~28,811 |
 | The Special One | 34.00% | ~28,811 |
 | On a Roll | 33.00% | ~27,964 |
@@ -48,16 +48,16 @@ Rating: 4.75 (Ranked 136)
 | Immovable Object | 29.00% | ~24,574 |
 | Cup Glory! | 29.00% | ~24,574 |
 | Cash to Burn | 28.00% | ~23,727 |
-| Irresistible Force | 27.00% | ~22,879 |
+| Irresistible Force | 27.00% | ~22,880 |
 | Do The Double | 24.00% | ~20,337 |
-| A Game of Two Halves | 22.00% | ~18,642 |
+| A Game of Two Halves | 22.00% | ~18,643 |
 | Top Form | 20.00% | ~16,948 |
 | You're Up! | 20.00% | ~16,948 |
 | First Goal Network | 18.00% | ~15,253 |
 | First Win Network | 18.00% | ~15,253 |
 | Window Shopping | 18.00% | ~15,253 |
 | Money, Money, Money | 18.00% | ~15,253 |
-| Clean Sheet Network | 17.00% | ~14,405 |
+| Clean Sheet Network | 17.00% | ~14,406 |
 | Tête-à-tête | 15.00% | ~12,711 |
 | Best in the World | 15.00% | ~12,711 |
 | Superb Strike | 14.00% | ~11,863 |
@@ -106,7 +106,7 @@ Rating: 4.75 (Ranked 136)
 | Versus Anyone | 0.10% | ~85 |
 | 200 Club | 0.10% | ~85 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 84,738 (Ranked 74)  
+Progressed: 84,739 (Ranked 74)  
 Completed: 23 (0.03%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,10 +230,10 @@ Completed: 23 (0.03%) (Ranked 237)
 | 2023-08-19 | 84,199 | 23 |
 | 2023-08-20 | 84,473 | 23 |
 | 2023-08-21 | 84,718 | 23 |
-| 2023-08-22 | 84,738 | 23 |
+| 2023-08-22 | 84,739 | 23 |
 ## Awards
 Max (Diverse Characters): 622  (Ranked 179)  
-Sum: 4,443 (Ranked 137)  
+Sum: 4,445 (Ranked 137)  
 Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
@@ -241,7 +241,7 @@ Diff (max vs sum): 42
 | This game is Highly Recommended | 545 |
 | This game is Extremely Fun | 523 |
 | This game is Educational | 506 |
-| This game is Relaxing | 499 |
+| This game is Relaxing | 501 |
 | This game has Competitive Players | 459 |
 | This game has Quickly Understood Controls | 452 |
 | This game has Amazing Storytelling | 421 |
@@ -427,3 +427,4 @@ Diff (max vs sum): 42
 | 2023-08-19 | 4.75 | 619 | 4,425 |
 | 2023-08-20 | 4.75 | 622 | 4,435 |
 | 2023-08-21 | 4.75 | 622 | 4,443 |
+| 2023-08-22 | 4.75 | 622 | 4,445 |

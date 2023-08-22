@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabbage in the Baggage | 34.00% | ~11 |
-| Greengrocer | 28.00% | ~9 |
-| Seven Days of Endless Adventure | 22.00% | ~7 |
-| Just Hoverin' Along | 16.00% | ~5 |
-| Masu-ter Angler | 16.00% | ~5 |
-| Go-Getter | 16.00% | ~5 |
-| River Cleaner | 16.00% | ~5 |
-| Seven Days of Endless Adventure - Déjà Vu | 13.00% | ~4 |
-| It's Alive! | 13.00% | ~4 |
-| Handyman Extraordinaire | 13.00% | ~4 |
+| Cabbage in the Baggage | 33.00% | ~11 |
+| Greengrocer | 27.00% | ~9 |
+| Seven Days of Endless Adventure | 21.00% | ~7 |
+| Just Hoverin' Along | 15.00% | ~5 |
+| Masu-ter Angler | 15.00% | ~5 |
+| Go-Getter | 15.00% | ~5 |
+| River Cleaner | 15.00% | ~5 |
+| Seven Days of Endless Adventure - Déjà Vu | 12.00% | ~4 |
+| It's Alive! | 12.00% | ~4 |
+| Handyman Extraordinaire | 12.00% | ~4 |
 | My Fair Ladybug | 9.00% | ~3 |
 | The Holly Grail | 9.00% | ~3 |
 | What's That Smell? | 9.00% | ~3 |
@@ -51,7 +51,7 @@
 | Did Someone Order Katsu Curry? | 0.00% | ~0 |
 | Dinosaur Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32 (Ranked 398)  
+Progressed: 33 (Ranked 397)  
 Completed: 0 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,6 +65,7 @@ Completed: 0 (0.00%) (Ranked 261)
 | 2023-07-21 | 28 | 0 |
 | 2023-07-29 | 30 | 0 |
 | 2023-07-30 | 32 | 0 |
+| 2023-08-22 | 33 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

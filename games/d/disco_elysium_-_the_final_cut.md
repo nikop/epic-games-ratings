@@ -13,8 +13,8 @@ Number of Ratings: 1,611  (23.09.2022)
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,258 |
 | Hyperstellar Law Official | 15.00% | ~18,992 |
 | Recruit Detective Kim Kitsuragi | 14.00% | ~17,726 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~16,459 |
-| Gurdi-Ball Is Lit | 13.00% | ~16,459 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~16,460 |
+| Gurdi-Ball Is Lit | 13.00% | ~16,460 |
 | Truly Rabid *Traditionalist* | 11.00% | ~13,927 |
 | Unbelievably Boring **** | 9.00% | ~11,395 |
 | The Figurines Won't Win Her Back | 9.00% | ~11,395 |
@@ -30,8 +30,8 @@ Number of Ratings: 1,611  (23.09.2022)
 | Wheel of Pleasure and Light | 2.00% | ~2,532 |
 | Massive Torque Dork | 1.00% | ~1,266 |
 | Avowed Inframaterialist | 1.00% | ~1,266 |
-| Committee of la Responsabilité | 0.90% | ~1,139 |
-| Real Musor | 0.90% | ~1,139 |
+| Committee of la Responsabilité | 0.90% | ~1,140 |
+| Real Musor | 0.90% | ~1,140 |
 | Baddest Brow in Town | 0.80% | ~1,013 |
 | Venture into the HARDCORE | 0.80% | ~1,013 |
 | Networthy Individual | 0.70% | ~886 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~127 |
 | What body? | 0.10% | ~127 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,611 (Ranked 68)  
+Progressed: 126,612 (Ranked 68)  
 Completed: 27 (0.02%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,7 +171,7 @@ Completed: 27 (0.02%) (Ranked 241)
 | 2023-08-19 | 126,502 | 27 |
 | 2023-08-20 | 126,568 | 27 |
 | 2023-08-21 | 126,609 | 27 |
-| 2023-08-22 | 126,611 | 27 |
+| 2023-08-22 | 126,612 | 27 |
 ## Awards
 Max (Character Customization): 720  (Ranked 165)  
 Sum: 1,084 (Ranked 236)  

@@ -16,12 +16,12 @@ Number of Ratings: 43  (23.09.2022)
 | More Than A Box Of Sand | 18.00% | ~15,292 |
 | The Dunboyne | 17.00% | ~14,442 |
 | Badge Hobbyist | 17.00% | ~14,442 |
-| Chum Novice | 16.00% | ~13,592 |
-| Silver-Tongued Sable | 16.00% | ~13,592 |
-| Sticky Paws | 16.00% | ~13,592 |
-| Bubble Up | 16.00% | ~13,592 |
+| Chum Novice | 16.00% | ~13,593 |
+| Silver-Tongued Sable | 16.00% | ~13,593 |
+| Sticky Paws | 16.00% | ~13,593 |
+| Bubble Up | 16.00% | ~13,593 |
 | Thread The Needle | 15.00% | ~12,743 |
-| Power to the People | 14.00% | ~11,893 |
+| Power to the People | 14.00% | ~11,894 |
 | Take That! | 13.00% | ~11,044 |
 | Nesting Giant | 13.00% | ~11,044 |
 | Treasure Tracker | 13.00% | ~11,044 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~2,549 |
 | Vivacious Vivarium | 2.00% | ~1,699 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 84,953 (Ranked 73)  
+Progressed: 84,954 (Ranked 73)  
 Completed: 834 (0.98%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 834 (0.98%) (Ranked 120)
 | 2023-08-19 | 84,537 | 829 |
 | 2023-08-20 | 84,752 | 830 |
 | 2023-08-21 | 84,933 | 834 |
-| 2023-08-22 | 84,953 | 834 |
+| 2023-08-22 | 84,954 | 834 |
 ## Awards
 Max (Quickly Understood Controls): 22  (Ranked 493)  
 Sum: 22 (Ranked 496)  

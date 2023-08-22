@@ -2,9 +2,9 @@
   "ID": "ac4ba4393ede46f1960596d753b6222c",
   "Name": "Venatur",
   "ProductSlug": "venatur-dca635",
-  "Ranking_EOS_Progress": 551,
+  "Ranking_EOS_Progress": 552,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-21T05:57:18.7011626+00:00",
-  "LastUpdate_Ratings": "2023-08-22T01:39:50.5110552+00:00",
-  "LastUpdate_Achievements": "2023-08-22T01:45:27.4531206+00:00"
+  "LastUpdate_Ratings": "2023-08-22T02:13:53.5362045+00:00",
+  "LastUpdate_Achievements": "2023-08-22T02:18:35.3707419+00:00"
 }

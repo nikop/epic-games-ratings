@@ -10769,7 +10769,7 @@
       "Count": 5639
     }
   ],
-  "EOS_Progressed": 871963,
+  "EOS_Progressed": 871965,
   "EOS_Completed": 2000,
   "EOS_NewPlayers": 1053,
   "EOS_NewCompleters": 30,
@@ -24414,6 +24414,11 @@
       "Time": "2023-08-22T01:48:12.7748527+00:00",
       "NumProgressed": 871963,
       "NumCompleted": 2000
+    },
+    {
+      "Time": "2023-08-22T02:21:21.0147739+00:00",
+      "NumProgressed": 871965,
+      "NumCompleted": 2000
     }
   ],
   "TotalAchievements": 44,
@@ -24449,7 +24454,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 156953
+      "UsersEstimate": 156954
     },
     {
       "ID": "Denied",
@@ -24497,7 +24502,7 @@
       "Name": "Gun Fu",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 130794
+      "UsersEstimate": 130795
     },
     {
       "ID": "Gunslinger",
@@ -24545,7 +24550,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 200551
+      "UsersEstimate": 200552
     },
     {
       "ID": "MaxPain",
@@ -24593,7 +24598,7 @@
       "Name": "Life of the Road",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 183112
+      "UsersEstimate": 183113
     },
     {
       "ID": "Roleplayer",
@@ -24601,7 +24606,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 252869
+      "UsersEstimate": 252870
     },
     {
       "ID": "Specialist",
@@ -24641,7 +24646,7 @@
       "Name": "The Fool",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 592935
+      "UsersEstimate": 592936
     },
     {
       "ID": "TheHermit",
@@ -24665,7 +24670,7 @@
       "Name": "The Lovers",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 305187
+      "UsersEstimate": 305188
     },
     {
       "ID": "TheStar",
@@ -24673,7 +24678,7 @@
       "Name": "The Star",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 61037
+      "UsersEstimate": 61038
     },
     {
       "ID": "TheSun",
@@ -24681,7 +24686,7 @@
       "Name": "The Sun",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 61037
+      "UsersEstimate": 61038
     },
     {
       "ID": "TheWheelOfFortune",
@@ -24689,7 +24694,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 235430
+      "UsersEstimate": 235431
     },
     {
       "ID": "TheWorld",
@@ -24697,7 +24702,7 @@
       "Name": "The World",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 156953
+      "UsersEstimate": 156954
     },
     {
       "ID": "ThisIsPacifica",
@@ -24721,7 +24726,7 @@
       "Name": "True Soldier",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 200551
+      "UsersEstimate": 200552
     },
     {
       "ID": "TrueWarrior",
@@ -24729,7 +24734,7 @@
       "Name": "True Warrior",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 130794
+      "UsersEstimate": 130795
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -24776,21 +24781,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 871963,
+      "Progressed": 871965,
       "Completed": 2000
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 586,
-      "Completed": 586
+      "Progressed": 588,
+      "Completed": 588
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-08-21T21:00:26.383809+00:00",
-  "LastChanged_Achievements": "2023-08-22T01:48:12.7748518+00:00",
+  "LastChanged_Achievements": "2023-08-22T02:21:21.0147732+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:56.8976844+00:00",
-  "LastUpdate_Ratings": "2023-08-22T01:41:41.6466075+00:00",
-  "LastUpdate_Achievements": "2023-08-22T01:48:12.7749983+00:00"
+  "LastUpdate_Ratings": "2023-08-22T02:15:14.6507191+00:00",
+  "LastUpdate_Achievements": "2023-08-22T02:21:21.0149212+00:00"
 }
