@@ -444,6 +444,7 @@
 | [Bread and Fred](../games/7/7e95faaa77054b80828dd7d64bbeb4ff.md) | 20 | 1,000 |
 | [Charon's Staircase](../games/c/charon's_staircase.md) | 20 | 1,000 |
 | [Dark Fantasy Jigsaw Puzzle](../games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 20 | 1,000 |
+| [Fort Solis](../games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 20 | 1,000 |
 | [JARS](../games/j/jars.md) | 20 | 1,000 |
 | [KeyWe](../games/k/keywe.md) | 20 | 1,250 |
 | [Late Shift](../games/l/late_shift.md) | 20 | 1,000 |

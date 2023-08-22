@@ -30,7 +30,7 @@
 | 28 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.32% |
 | 29 | [Out of Bounds](games/o/out_of_bounds.md) | 10.00% |
 | 30 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.52% |
-| 31 | [Sonic Origins](games/s/sonic_origins.md) | 9.29% |
+| 31 | [Sonic Origins](games/s/sonic_origins.md) | 9.27% |
 | 32 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.05% |
 | 33 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.48% |
 | 34 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 7.89% |
@@ -66,8 +66,8 @@
 | 64 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 65 | [Without Escape](games/w/without_escape.md) | 3.57% |
 | 66 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
-| 67 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.44% |
-| 68 | [Doodle God](games/d/doodle_god.md) | 3.43% |
+| 67 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.43% |
+| 67 | [Doodle God](games/d/doodle_god.md) | 3.43% |
 | 69 | [Bunny Park](games/b/bunny_park.md) | 3.37% |
 | 70 | [The Complex](games/t/the_complex.md) | 3.35% |
 | 71 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.30% |
@@ -91,7 +91,7 @@
 | 89 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.26% |
 | 90 | [Bloodshore](games/b/bloodshore.md) | 2.21% |
 | 91 | [FORECLOSED](games/f/foreclosed.md) | 2.17% |
-| 92 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.03% |
+| 92 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.02% |
 | 93 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.92% |
 | 93 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.92% |
 | 95 | [Night Book](games/n/night_book.md) | 1.89% |
