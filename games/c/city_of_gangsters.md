@@ -5,30 +5,30 @@ Rating: 4.27 (Ranked 813)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~155,911 |
-| Copacetic Coordination | 16.00% | ~54,230 |
-| Fronting the Money | 15.00% | ~50,841 |
-| The Dawn of Automation | 14.00% | ~47,451 |
-| Extraordinary Logistics | 14.00% | ~47,451 |
-| Dirty Money | 13.00% | ~44,062 |
-| Family First | 13.00% | ~44,062 |
+| Corner Clout | 46.00% | ~155,915 |
+| Copacetic Coordination | 16.00% | ~54,231 |
+| Fronting the Money | 15.00% | ~50,842 |
+| The Dawn of Automation | 14.00% | ~47,452 |
+| Extraordinary Logistics | 14.00% | ~47,452 |
+| Dirty Money | 13.00% | ~44,063 |
+| Family First | 13.00% | ~44,063 |
 | Cleaning House | 12.00% | ~40,673 |
 | Room in the Back | 12.00% | ~40,673 |
-| Beating the Heat | 11.00% | ~37,283 |
-| Booze Baron | 11.00% | ~37,283 |
+| Beating the Heat | 11.00% | ~37,284 |
+| Booze Baron | 11.00% | ~37,284 |
 | Friends on the Force | 10.00% | ~33,894 |
 | Neighborhood Watch | 10.00% | ~33,894 |
-| Core Corps | 8.00% | ~27,115 |
-| Sizeable Stash | 8.00% | ~27,115 |
+| Core Corps | 8.00% | ~27,116 |
+| Sizeable Stash | 8.00% | ~27,116 |
 | Street Fighter | 7.00% | ~23,726 |
 | Friendly Gestures | 7.00% | ~23,726 |
 | People Person | 7.00% | ~23,726 |
-| Liquor Lord | 6.00% | ~20,336 |
-| Safety in Numbers | 6.00% | ~20,336 |
-| Moving Experiences | 6.00% | ~20,336 |
-| Wise Head | 6.00% | ~20,336 |
-| Show ‘em the Sugar | 6.00% | ~20,336 |
-| Killing Them Softly | 6.00% | ~20,336 |
+| Liquor Lord | 6.00% | ~20,337 |
+| Safety in Numbers | 6.00% | ~20,337 |
+| Moving Experiences | 6.00% | ~20,337 |
+| Wise Head | 6.00% | ~20,337 |
+| Show ‘em the Sugar | 6.00% | ~20,337 |
+| Killing Them Softly | 6.00% | ~20,337 |
 | Street Knowledge | 5.00% | ~16,947 |
 | Oh Captain | 5.00% | ~16,947 |
 | Branching Out | 5.00% | ~16,947 |
@@ -59,8 +59,8 @@ Rating: 4.27 (Ranked 813)
 | Full House | 1.00% | ~3,389 |
 | The Rubber Meets the Road | 1.00% | ~3,389 |
 | Cat’s Meow Clubs | 1.00% | ~3,389 |
-| Determined Deliveries | 0.90% | ~3,050 |
-| Stepping It Up | 0.90% | ~3,050 |
+| Determined Deliveries | 0.90% | ~3,051 |
+| Stepping It Up | 0.90% | ~3,051 |
 | Boots in the Ground | 0.80% | ~2,712 |
 | Crossing Over | 0.80% | ~2,712 |
 | Getting Fancy | 0.70% | ~2,373 |
@@ -86,7 +86,7 @@ Rating: 4.27 (Ranked 813)
 | High Pillow | 0.10% | ~339 |
 | Station Master | 0.10% | ~339 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 338,938 (Ranked 42)  
+Progressed: 338,945 (Ranked 42)  
 Completed: 7 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,7 +210,7 @@ Completed: 7 (0.00%) (Ranked 261)
 | 2023-08-19 | 338,403 | 7 |
 | 2023-08-20 | 338,663 | 7 |
 | 2023-08-21 | 338,883 | 7 |
-| 2023-08-22 | 338,938 | 7 |
+| 2023-08-22 | 338,945 | 7 |
 ## Awards
 Max (Great for Beginners): 33  (Ranked 448)  
 Sum: 162 (Ranked 390)  

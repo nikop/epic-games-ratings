@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 248368,
+  "EOS_Progressed": 248369,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 298,
+  "EOS_NewPlayers": 297,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11919,6 +11919,11 @@
       "Time": "2023-08-22T08:09:26.9691839+00:00",
       "NumProgressed": 248368,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-08-22T10:04:57.3416143+00:00",
+      "NumProgressed": 248369,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 46,
@@ -12106,7 +12111,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 131635
+      "UsersEstimate": 131636
     },
     {
       "ID": "indegestible",
@@ -12146,7 +12151,7 @@
       "Name": "Lazy Laser",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 19869
+      "UsersEstimate": 19870
     },
     {
       "ID": "lockupLockdown",
@@ -12160,9 +12165,9 @@
       "ID": "muddyWaters",
       "SetID": "d7im63i",
       "Name": "Muddy Waters",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 34772
+      "UsersEstimate": 37255
     },
     {
       "ID": "myFirstRunbow",
@@ -12297,7 +12302,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 248368,
+      "Progressed": 248369,
       "Completed": 4
     }
   ],
@@ -12305,8 +12310,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-08-22T09:05:28.8162424+00:00",
+  "LastChanged_Achievements": "2023-08-22T10:04:57.3416132+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:44.1764965+00:00",
-  "LastUpdate_Ratings": "2023-08-22T09:01:48.5184139+00:00",
-  "LastUpdate_Achievements": "2023-08-22T09:05:28.8163305+00:00"
+  "LastUpdate_Ratings": "2023-08-22T10:00:44.0494937+00:00",
+  "LastUpdate_Achievements": "2023-08-22T10:04:57.3417297+00:00"
 }

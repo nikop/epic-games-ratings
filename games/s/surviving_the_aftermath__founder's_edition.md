@@ -6,14 +6,14 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 72.00% | ~6,082 |
-| Leader | 60.00% | ~5,068 |
+| First Step | 72.00% | ~6,083 |
+| Leader | 60.00% | ~5,069 |
 | Explorer | 53.00% | ~4,477 |
-| Healer | 52.00% | ~4,392 |
+| Healer | 52.00% | ~4,393 |
 | Aspiring Inventor | 44.00% | ~3,717 |
-| Adventurer | 41.00% | ~3,463 |
+| Adventurer | 41.00% | ~3,464 |
 | Famous Healer | 38.00% | ~3,210 |
-| Local Leader | 35.00% | ~2,956 |
+| Local Leader | 35.00% | ~2,957 |
 | Famous Explorer | 34.00% | ~2,872 |
 | New Opportunities | 34.00% | ~2,872 |
 | Energized | 33.00% | ~2,788 |
@@ -28,9 +28,9 @@ Number of Ratings: 836  (23.09.2022)
 | Great Leader | 23.00% | ~1,943 |
 | Ice Lakes | 23.00% | ~1,943 |
 | Mentor | 23.00% | ~1,943 |
-| Merchant | 22.00% | ~1,858 |
-| Real Survivor | 22.00% | ~1,858 |
-| Rocket Surgeon | 20.00% | ~1,689 |
+| Merchant | 22.00% | ~1,859 |
+| Real Survivor | 22.00% | ~1,859 |
+| Rocket Surgeon | 20.00% | ~1,690 |
 | War Never Changes | 19.00% | ~1,605 |
 | Big Game Hunter | 17.00% | ~1,436 |
 | Spreading Influence | 17.00% | ~1,436 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~17 |
 | Customized calamities | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,447 (Ranked 129)  
+Progressed: 8,448 (Ranked 129)  
 Completed: 0 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 0 (0.00%) (Ranked 261)
 | 2023-08-19 | 8,395 | 0 |
 | 2023-08-20 | 8,424 | 0 |
 | 2023-08-21 | 8,443 | 0 |
-| 2023-08-22 | 8,447 | 0 |
+| 2023-08-22 | 8,448 | 0 |
 ## Awards
 Max (Extremely Fun): 100  (Ranked 337)  
 Sum: 689 (Ranked 278)  

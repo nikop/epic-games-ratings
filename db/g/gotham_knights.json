@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewPlayers": 109,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -2498,9 +2498,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 67970,
+  "EOS_Progressed": 67971,
   "EOS_Completed": 108,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -12938,6 +12938,11 @@
       "Time": "2023-08-22T04:07:27.4634018+00:00",
       "NumProgressed": 67970,
       "NumCompleted": 108
+    },
+    {
+      "Time": "2023-08-22T10:06:36.2963831+00:00",
+      "NumProgressed": 67971,
+      "NumCompleted": 108
     }
   ],
   "TotalAchievements": 61,
@@ -12957,7 +12962,7 @@
       "Name": "Element of Surprise",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "AC1_HA_DEFEAT_MOST_WANTED",
@@ -12965,7 +12970,7 @@
       "Name": "It\u0027s Nice to Be Wanted",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "AC1_HA_DEFEAT_VARIANTS",
@@ -12997,7 +13002,7 @@
       "Name": "The Batman Family",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 14953
+      "UsersEstimate": 14954
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -13029,7 +13034,7 @@
       "Name": "End of an Era",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8156
+      "UsersEstimate": 8157
     },
     {
       "ID": "APPLY_STATUS",
@@ -13101,7 +13106,7 @@
       "Name": "Expert Crime Fighter",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 3398
+      "UsersEstimate": 3399
     },
     {
       "ID": "CRIME_FIGHTER_2",
@@ -13125,7 +13130,7 @@
       "Name": "Bulldozed",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8156
+      "UsersEstimate": 8157
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -13261,7 +13266,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 16992
+      "UsersEstimate": 16993
     },
     {
       "ID": "HARLEY_3",
@@ -13293,7 +13298,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 33985
+      "UsersEstimate": 33986
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -13349,7 +13354,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 16992
+      "UsersEstimate": 16993
     },
     {
       "ID": "MYSTERY_03",
@@ -13357,7 +13362,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 14953
+      "UsersEstimate": 14954
     },
     {
       "ID": "MYSTERY_04",
@@ -13397,7 +13402,7 @@
       "Name": "Gotham Knight",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8156
+      "UsersEstimate": 8157
     },
     {
       "ID": "SECRET_CACHE",
@@ -13436,13 +13441,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 67970,
+      "Progressed": 67971,
       "Completed": 108
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 38250,
+      "Progressed": 38251,
       "Completed": 2658
     }
   ],
@@ -13450,8 +13455,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-08-20T14:57:30.6977519+00:00",
-  "LastChanged_Achievements": "2023-08-22T09:07:19.0810308+00:00",
+  "LastChanged_Achievements": "2023-08-22T10:06:36.2963813+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:36.1459925+00:00",
-  "LastUpdate_Ratings": "2023-08-22T08:57:39.3247835+00:00",
-  "LastUpdate_Achievements": "2023-08-22T09:07:19.0811529+00:00"
+  "LastUpdate_Ratings": "2023-08-22T09:57:20.5181555+00:00",
+  "LastUpdate_Achievements": "2023-08-22T10:06:36.2965042+00:00"
 }

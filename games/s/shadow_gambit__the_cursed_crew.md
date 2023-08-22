@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A New Journey | 72.00% | ~303 |
+| A New Journey | 73.00% | ~307 |
 | The Adventure Begins | 49.00% | ~206 |
 | Swabbie | 31.00% | ~131 |
 | With Great Power… | 26.00% | ~109 |
@@ -15,8 +15,8 @@
 | Somewhere Deep in the Lost Caribbean | 9.00% | ~38 |
 | Mirror Mirror on the Wall | 9.00% | ~38 |
 | Persistent Parasite | 8.00% | ~34 |
-| Buccaneer | 6.00% | ~25 |
-| Pirates Assemble! | 6.00% | ~25 |
+| Buccaneer | 7.00% | ~29 |
+| Pirates Assemble! | 7.00% | ~29 |
 | Rustic Recipe | 4.00% | ~17 |
 | Seadog | 3.00% | ~13 |
 | Lyrical Longing | 3.00% | ~13 |

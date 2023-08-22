@@ -5,20 +5,18 @@ Rating: 4.63 (Ranked 329)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| En Garde! | 100.00% | ~3 |
-| Supersleuth | 100.00% | ~3 |
-| Gut-Wrenching | 33.00% | ~1 |
+| En Garde! | 67.00% | ~2 |
+| Supersleuth | 67.00% | ~2 |
 | Look At You, Snacker | 33.00% | ~1 |
 | Déjà Vu | 33.00% | ~1 |
 | Somebody Set Up Us The Bomb | 33.00% | ~1 |
-| Goldberg’s Ricochet | 33.00% | ~1 |
-| Enjoy Your Purchase | 33.00% | ~1 |
 | Shields Up! | 0.00% | ~0 |
 | Load ‘em Up! | 0.00% | ~0 |
 | I’ll See You Again, Hacker | 0.00% | ~0 |
 | The Inside Scoop | 0.00% | ~0 |
 | Maxed Out | 0.00% | ~0 |
 | This Is My Boomstick! | 0.00% | ~0 |
+| Gut-Wrenching | 0.00% | ~0 |
 | Hacker? You Hardly Know’er! | 0.00% | ~0 |
 | Look At You, Hacker | 0.00% | ~0 |
 | Don’t Forget To Salt The Fries | 0.00% | ~0 |
@@ -35,6 +33,7 @@ Rating: 4.63 (Ranked 329)
 | Remote Control | 0.00% | ~0 |
 | The Key To Vector Sigma | 0.00% | ~0 |
 | Not Even My Final Form | 0.00% | ~0 |
+| Goldberg’s Ricochet | 0.00% | ~0 |
 | Anti-Virus | 0.00% | ~0 |
 | Finish Him! | 0.00% | ~0 |
 | Asunder The Influence | 0.00% | ~0 |
@@ -50,6 +49,7 @@ Rating: 4.63 (Ranked 329)
 | The Longest Jump | 0.00% | ~0 |
 | All Patched Up | 0.00% | ~0 |
 | System Shocked | 0.00% | ~0 |
+| Enjoy Your Purchase | 0.00% | ~0 |
 | Off The Grid | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3 (Ranked 481)  

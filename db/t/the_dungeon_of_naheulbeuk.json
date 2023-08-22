@@ -684,9 +684,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 215803,
+  "EOS_Progressed": 215816,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3259,
+  "EOS_NewPlayers": 3252,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7844,6 +7844,11 @@
       "Time": "2023-08-22T09:03:12.9619666+00:00",
       "NumProgressed": 215803,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-22T10:03:12.9692227+00:00",
+      "NumProgressed": 215816,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -7887,7 +7892,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1726
+      "UsersEstimate": 1727
     },
     {
       "ID": "BookCollection",
@@ -7919,7 +7924,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1726
+      "UsersEstimate": 1727
     },
     {
       "ID": "Chapter4",
@@ -8303,7 +8308,7 @@
       "Name": "Sowwy!",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 45319
+      "UsersEstimate": 45321
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -8558,21 +8563,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 215803,
+      "Progressed": 215816,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 215803,
+      "Progressed": 215816,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-21T00:00:20.1938169+00:00",
-  "LastChanged_Achievements": "2023-08-22T09:03:12.9619658+00:00",
+  "LastChanged_Achievements": "2023-08-22T10:03:12.9692218+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:36.4163589+00:00",
-  "LastUpdate_Ratings": "2023-08-22T09:01:42.9023722+00:00",
-  "LastUpdate_Achievements": "2023-08-22T09:03:12.9621133+00:00"
+  "LastUpdate_Ratings": "2023-08-22T10:00:39.4619126+00:00",
+  "LastUpdate_Achievements": "2023-08-22T10:03:12.9693774+00:00"
 }

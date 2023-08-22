@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 481,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewPlayers": 347,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-05-30T15:00:00+00:00",
@@ -207,17 +207,17 @@
       "ID": "CollectRapier",
       "SetID": "bf8o3co",
       "Name": "En Garde!",
-      "Percentage": 100,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 2
     },
     {
       "ID": "CollectWrench",
       "SetID": "bf8o3co",
       "Name": "Gut-Wrenching",
-      "Percentage": 33,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "CompleteCyberspaceLevels",
@@ -327,9 +327,9 @@
       "ID": "FindHiddenDoor",
       "SetID": "bf8o3co",
       "Name": "Supersleuth",
-      "Percentage": 100,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 2
     },
     {
       "ID": "FindHiddenSkulls",
@@ -383,9 +383,9 @@
       "ID": "IonBounceKill",
       "SetID": "bf8o3co",
       "Name": "Goldberg\u2019s Ricochet",
-      "Percentage": 33,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "JettisonBetaGrove",
@@ -511,9 +511,9 @@
       "ID": "VendingMachineGrenade",
       "SetID": "bf8o3co",
       "Name": "Enjoy Your Purchase",
-      "Percentage": 33,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "ZeroSecurity",
@@ -536,8 +536,8 @@
   "FirstSeenRating": "2023-06-14T13:58:13.4205723+00:00",
   "FirstSeenAchievements": "2023-05-26T00:04:35.1577542+00:00",
   "LastChanged": "2023-08-18T04:58:48.5572768+00:00",
-  "LastChanged_Achievements": "2023-08-22T09:04:46.7002072+00:00",
+  "LastChanged_Achievements": "2023-08-22T10:04:35.1818706+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:46.417742+00:00",
-  "LastUpdate_Ratings": "2023-08-22T09:00:14.6159457+00:00",
-  "LastUpdate_Achievements": "2023-08-22T09:04:46.700237+00:00"
+  "LastUpdate_Ratings": "2023-08-22T09:59:26.9919936+00:00",
+  "LastUpdate_Achievements": "2023-08-22T10:04:35.1819109+00:00"
 }

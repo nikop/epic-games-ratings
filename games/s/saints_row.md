@@ -1,47 +1,47 @@
 # Saints Row
 [Store](https://store.epicgames.com/en-US/p/saints-row)  
 [View Rawdata](../../db/s/saints_row.json)  
-Rating: 3.78 (Ranked 964)  
+Rating: 3.78 (Ranked 965)  
 Number of Ratings: 22,103  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 43.00% | ~27,101 |
-| To The Nines | 39.00% | ~24,580 |
-| Optimized | 34.00% | ~21,428 |
-| Performance Review | 34.00% | ~21,428 |
-| Making a Name | 32.00% | ~20,168 |
-| Tune Up | 31.00% | ~19,538 |
-| Landlord | 30.00% | ~18,908 |
-| The Side Job | 29.00% | ~18,277 |
-| Wet Work | 29.00% | ~18,277 |
-| Wrecking Ball | 26.00% | ~16,386 |
-| Food for Thought | 25.00% | ~15,756 |
-| Finders Keepers | 23.00% | ~14,496 |
-| A Young Empire | 23.00% | ~14,496 |
-| Work Ethic | 22.00% | ~13,866 |
-| Picking Fights | 18.00% | ~11,344 |
-| Quality Time | 17.00% | ~10,714 |
-| Power Players | 17.00% | ~10,714 |
-| Et tu? | 16.00% | ~10,084 |
+| First F#@!ing Day | 43.00% | ~27,103 |
+| To The Nines | 39.00% | ~24,582 |
+| Optimized | 34.00% | ~21,430 |
+| Performance Review | 34.00% | ~21,430 |
+| Making a Name | 32.00% | ~20,170 |
+| Tune Up | 31.00% | ~19,539 |
+| Landlord | 30.00% | ~18,909 |
+| The Side Job | 29.00% | ~18,279 |
+| Wet Work | 29.00% | ~18,279 |
+| Wrecking Ball | 26.00% | ~16,388 |
+| Food for Thought | 25.00% | ~15,758 |
+| Finders Keepers | 23.00% | ~14,497 |
+| A Young Empire | 23.00% | ~14,497 |
+| Work Ethic | 22.00% | ~13,867 |
+| Picking Fights | 18.00% | ~11,345 |
+| Quality Time | 17.00% | ~10,715 |
+| Power Players | 17.00% | ~10,715 |
+| Et tu? | 16.00% | ~10,085 |
 | Showdown | 15.00% | ~9,454 |
 | Took It to The Limit | 15.00% | ~9,454 |
-| Kitted Out | 13.00% | ~8,193 |
+| Kitted Out | 13.00% | ~8,194 |
 | Masters of Santo Ileso | 11.00% | ~6,933 |
-| Hijacked | 10.00% | ~6,302 |
-| The Spins | 9.00% | ~5,672 |
-| The Mechanic | 9.00% | ~5,672 |
+| Hijacked | 10.00% | ~6,303 |
+| The Spins | 9.00% | ~5,673 |
+| The Mechanic | 9.00% | ~5,673 |
 | Closet Space | 7.00% | ~4,412 |
 | We could go home, or… | 6.00% | ~3,782 |
 | Challenge Accepted | 6.00% | ~3,782 |
 | A Golden Age | 6.00% | ~3,782 |
 | Producer Credit | 6.00% | ~2,080 |
 | Face Off | 6.00% | ~2,080 |
-| The Professional | 5.00% | ~3,151 |
-| Chaos Tamer | 5.00% | ~3,151 |
-| Untouchable | 5.00% | ~3,151 |
-| Free Refills | 5.00% | ~3,151 |
-| Smooth Moves | 5.00% | ~3,151 |
+| The Professional | 5.00% | ~3,152 |
+| Chaos Tamer | 5.00% | ~3,152 |
+| Untouchable | 5.00% | ~3,152 |
+| Free Refills | 5.00% | ~3,152 |
+| Smooth Moves | 5.00% | ~3,152 |
 | Hazardous Heist | 5.00% | ~1,733 |
 | Neighborly | 4.00% | ~2,521 |
 | Prankster | 4.00% | ~2,521 |
@@ -49,7 +49,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | Shopping Spree | 3.00% | ~1,891 |
 | Always Be Hustling | 3.00% | ~1,891 |
 | Community Outreach | 3.00% | ~1,891 |
-| Bonus Round | 2.00% | ~1,260 |
+| Bonus Round | 2.00% | ~1,261 |
 | It's a Bird! | 1.00% | ~630 |
 | The Collector | 1.00% | ~630 |
 | All Mine | 1.00% | ~630 |
@@ -60,8 +60,8 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.20% | ~126 |
 | Fiesta Time | 0.20% | ~126 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,025 (Ranked 84)  
-Completed: 42 (0.07%) (Ranked 220)  
+Progressed: 63,030 (Ranked 84)  
+Completed: 43 (0.07%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -184,10 +184,10 @@ Completed: 42 (0.07%) (Ranked 220)
 | 2023-08-19 | 62,620 | 42 |
 | 2023-08-20 | 62,813 | 42 |
 | 2023-08-21 | 62,962 | 42 |
-| 2023-08-22 | 63,025 | 42 |
+| 2023-08-22 | 63,030 | 43 |
 ## Awards
 Max (Extremely Fun): 1,056  (Ranked 142)  
-Sum: 8,580 (Ranked 95)  
+Sum: 8,581 (Ranked 95)  
 Diff (max vs sum): 47  
 | Award | Count |
 | ----- | ----- |
@@ -200,7 +200,7 @@ Diff (max vs sum): 47
 | This game has Amazing Characters | 977 |
 | This game has Amazing Storytelling | 966 |
 | This game has Playful Visuals | 777 |
-| This game has a Silly Community | 593 |
+| This game has a Silly Community | 594 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -359,3 +359,4 @@ Diff (max vs sum): 47
 | 2023-08-18 | 3.78 | - | 1,056 | 8,577 |
 | 2023-08-19 | 3.78 | - | 1,056 | 8,579 |
 | 2023-08-21 | 3.78 | - | 1,056 | 8,580 |
+| 2023-08-22 | 3.78 | - | 1,056 | 8,581 |

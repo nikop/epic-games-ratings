@@ -5772,9 +5772,9 @@
       "Count": 370
     }
   ],
-  "EOS_Progressed": 712610,
+  "EOS_Progressed": 712611,
   "EOS_Completed": 12872,
-  "EOS_NewPlayers": 177,
+  "EOS_NewPlayers": 178,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -17282,6 +17282,11 @@
       "Time": "2023-08-22T09:05:22.3212324+00:00",
       "NumProgressed": 712610,
       "NumCompleted": 12872
+    },
+    {
+      "Time": "2023-08-22T10:04:51.0495372+00:00",
+      "NumProgressed": 712611,
+      "NumCompleted": 12872
     }
   ],
   "TotalAchievements": 50,
@@ -17692,21 +17697,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 21911,
+      "Progressed": 21912,
       "Completed": 10546
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 712610,
+      "Progressed": 712611,
       "Completed": 12872
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-08-22T02:16:47.4376846+00:00",
-  "LastChanged_Achievements": "2023-08-22T09:05:22.321232+00:00",
+  "LastChanged_Achievements": "2023-08-22T10:04:51.0495355+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:30.1863986+00:00",
-  "LastUpdate_Ratings": "2023-08-22T09:01:39.3694226+00:00",
-  "LastUpdate_Achievements": "2023-08-22T09:05:22.321319+00:00"
+  "LastUpdate_Ratings": "2023-08-22T10:00:34.1406062+00:00",
+  "LastUpdate_Achievements": "2023-08-22T10:04:51.0496431+00:00"
 }
