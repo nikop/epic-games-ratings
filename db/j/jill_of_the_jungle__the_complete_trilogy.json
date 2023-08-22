@@ -4,7 +4,7 @@
   "ProductSlug": "jill-of-the-jungle-the-complete-trilogy",
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 38,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 132,
   "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2023-04-26T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1621,
+  "EOS_Progressed": 1622,
   "EOS_Completed": 114,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 7.03,
   "EosHistory": [
@@ -5409,6 +5409,11 @@
       "Time": "2023-08-21T22:03:10.1293181+00:00",
       "NumProgressed": 1621,
       "NumCompleted": 114
+    },
+    {
+      "Time": "2023-08-22T03:05:47.6471886+00:00",
+      "NumProgressed": 1622,
+      "NumCompleted": 114
     }
   ],
   "TotalAchievements": 5,
@@ -5420,7 +5425,7 @@
       "Name": "Welcome to the Jungle",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 1621
+      "UsersEstimate": 1622
     },
     {
       "ID": "2",
@@ -5452,14 +5457,14 @@
       "Name": "Jill the Champion",
       "Percentage": 7,
       "XP": 200,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     }
   ],
   "AchievementSets": [
     {
       "ID": "dg4cch5",
       "IsBase": true,
-      "Progressed": 1621,
+      "Progressed": 1622,
       "Completed": 114
     }
   ],
@@ -5467,8 +5472,8 @@
   "FirstSeenRating": "2023-04-27T14:58:11.4280155+00:00",
   "FirstSeenAchievements": "2023-04-26T15:59:54.0239456+00:00",
   "LastChanged": "2023-04-27T14:58:11.4280156+00:00",
-  "LastChanged_Achievements": "2023-08-22T02:18:05.1105593+00:00",
+  "LastChanged_Achievements": "2023-08-22T03:05:47.6471876+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:42.1515618+00:00",
-  "LastUpdate_Ratings": "2023-08-22T02:14:09.00798+00:00",
-  "LastUpdate_Achievements": "2023-08-22T02:18:05.1106112+00:00"
+  "LastUpdate_Ratings": "2023-08-22T03:01:00.2919325+00:00",
+  "LastUpdate_Achievements": "2023-08-22T03:05:47.6472396+00:00"
 }

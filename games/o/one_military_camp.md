@@ -26,8 +26,8 @@
 | Food Tycoon | 5.00% | ~8 |
 | Medicine Tycoon | 5.00% | ~8 |
 | Outdoor Decorator | 4.00% | ~6 |
+| Overpopulation | 4.00% | ~6 |
 | Property Bro | 4.00% | ~6 |
-| Overpopulation | 3.00% | ~4 |
 | Human Resources | 3.00% | ~4 |
 | Training Camp | 3.00% | ~4 |
 | No News is Good News | 2.00% | ~3 |

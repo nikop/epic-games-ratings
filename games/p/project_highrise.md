@@ -15,7 +15,7 @@
 | It's Technical | 37.00% | ~121 |
 | Delegate Maintenance | 34.00% | ~112 |
 | Proper Walls | 33.00% | ~108 |
-| Destination Destiny | 30.00% | ~98 |
+| Destination Destiny | 31.00% | ~102 |
 | Happy Tenants | 26.00% | ~85 |
 | Potent Potables | 25.00% | ~82 |
 | Smooth Service | 25.00% | ~82 |
@@ -28,8 +28,8 @@
 | Emporium Empire | 20.00% | ~66 |
 | Leveled Up Shops | 20.00% | ~66 |
 | We Don't Need No Education | 20.00% | ~66 |
+| Rehab Expert | 19.00% | ~62 |
 | Get Electrified | 19.00% | ~62 |
-| Rehab Expert | 18.00% | ~59 |
 | Tasty Profits | 18.00% | ~59 |
 | Established Fame | 16.00% | ~52 |
 | Cashflow Chief | 16.00% | ~52 |

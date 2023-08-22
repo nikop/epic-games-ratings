@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Game is Starting! | 17.00% | ~3 |
+| The Game is Starting! | 22.00% | ~4 |
+| Keep going!!! | 17.00% | ~3 |
 | First steps!! | 11.00% | ~2 |
-| Keep going!!! | 11.00% | ~2 |
 | I can do it more!!! | 6.00% | ~1 |
 | This is a a good day!!!! | 6.00% | ~1 |
 | There is always a first time!!! | 6.00% | ~1 |

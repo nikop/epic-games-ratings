@@ -11,11 +11,11 @@ Number of Ratings: 37  (23.09.2022)
 | A new beginning | 11.00% | ~467 |
 | Friends from the past | 9.00% | ~382 |
 | I like to build stuff... I | 8.00% | ~340 |
+| A time consuming game I | 8.00% | ~340 |
 | Builder I | 7.00% | ~297 |
 | An honorable Governor I | 7.00% | ~297 |
 | Researcher | 7.00% | ~297 |
 | Tax-man II | 7.00% | ~297 |
-| A time consuming game I | 7.00% | ~297 |
 | Time for some trade | 7.00% | ~297 |
 | Bread for the people I | 6.00% | ~255 |
 | I like to build stuff... II | 6.00% | ~255 |

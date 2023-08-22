@@ -6,16 +6,16 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 68.00% | ~592,936 |
-| Right Back At Ya | 39.00% | ~340,066 |
+| The Fool | 68.00% | ~592,938 |
+| Right Back At Ya | 39.00% | ~340,067 |
 | The Lovers | 35.00% | ~305,188 |
 | Stanislavski's Method | 29.00% | ~252,870 |
 | The Wheel of Fortune | 27.00% | ~235,431 |
-| The Hermit | 25.00% | ~217,991 |
+| The Hermit | 25.00% | ~217,992 |
 | Christmas Tree Attack | 23.00% | ~200,552 |
 | True Soldier | 23.00% | ~200,552 |
-| The High Priestess | 22.00% | ~191,832 |
-| Legend of The Afterlife | 22.00% | ~191,832 |
+| The High Priestess | 22.00% | ~191,833 |
+| Legend of The Afterlife | 22.00% | ~191,833 |
 | Life of the Road | 21.00% | ~183,113 |
 | Full Body Conversion | 18.00% | ~156,954 |
 | The World | 18.00% | ~156,954 |
@@ -25,9 +25,9 @@ Number of Ratings: 32,700  (23.09.2022)
 | To Protect and Serve | 14.00% | ~122,075 |
 | I Am The Law | 14.00% | ~122,075 |
 | Judy vs Night City | 14.00% | ~122,075 |
-| Master Crafter | 13.00% | ~113,355 |
+| Master Crafter | 13.00% | ~113,356 |
 | Two Heads, One Bullet | 12.00% | ~104,636 |
-| The Quick and the Dead | 10.00% | ~87,196 |
+| The Quick and the Dead | 10.00% | ~87,197 |
 | The Wandering Fool | 9.00% | ~78,477 |
 | Ten out of Ten | 9.00% | ~78,477 |
 | Breathtaking | 8.00% | ~69,757 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~8,720 |
 | Rough Landing | 0.50% | ~4,360 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 871,965 (Ranked 14)  
+Progressed: 871,967 (Ranked 14)  
 Completed: 2,000 (0.23%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,7 +175,7 @@ Completed: 2,000 (0.23%) (Ranked 182)
 | 2023-08-19 | 871,633 | 1,987 |
 | 2023-08-20 | 871,813 | 1,995 |
 | 2023-08-21 | 871,958 | 2,000 |
-| 2023-08-22 | 871,965 | 2,000 |
+| 2023-08-22 | 871,967 | 2,000 |
 ## Awards
 Max (Character Customization): 75,970  (Ranked 9)  
 Sum: 201,087 (Ranked 13)  

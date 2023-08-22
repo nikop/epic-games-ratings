@@ -212,9 +212,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7304,
+  "EOS_Progressed": 7307,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 336,
+  "EOS_NewPlayers": 339,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -6222,6 +6222,11 @@
       "Time": "2023-08-22T01:48:23.3719853+00:00",
       "NumProgressed": 7304,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-08-22T03:09:16.4393151+00:00",
+      "NumProgressed": 7307,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 21,
@@ -6233,7 +6238,7 @@
       "Name": "Ahem Ahem",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "ARRR",
@@ -6257,7 +6262,7 @@
       "Name": "Body and Soul",
       "Percentage": 10,
       "XP": 80,
-      "UsersEstimate": 730
+      "UsersEstimate": 731
     },
     {
       "ID": "CA_DE_WIZZ",
@@ -6305,7 +6310,7 @@
       "Name": "Globe Trotter",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 803
+      "UsersEstimate": 804
     },
     {
       "ID": "HAPPY_CAMPER",
@@ -6400,7 +6405,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7304,
+      "Progressed": 7307,
       "Completed": 32
     }
   ],
@@ -6408,8 +6413,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-08-07T01:56:04.2387619+00:00",
-  "LastChanged_Achievements": "2023-08-22T02:21:29.8968392+00:00",
+  "LastChanged_Achievements": "2023-08-22T03:09:16.4393143+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:55.8261903+00:00",
-  "LastUpdate_Ratings": "2023-08-22T02:15:11.8273788+00:00",
-  "LastUpdate_Achievements": "2023-08-22T02:21:29.8969178+00:00"
+  "LastUpdate_Ratings": "2023-08-22T03:02:24.0385937+00:00",
+  "LastUpdate_Achievements": "2023-08-22T03:09:16.4393817+00:00"
 }

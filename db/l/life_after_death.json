@@ -113,9 +113,9 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "c98563l",
       "Name": "The Game is Starting!",
-      "Percentage": 17,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -209,9 +209,9 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "c98563l",
       "Name": "Keep going!!!",
-      "Percentage": 11,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -599,8 +599,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-28T14:03:50.6091132+00:00",
-  "LastChanged_Achievements": "2023-08-22T02:18:35.1586715+00:00",
+  "LastChanged_Achievements": "2023-08-22T03:06:23.5808463+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:17.2129283+00:00",
-  "LastUpdate_Ratings": "2023-08-22T02:11:35.2495523+00:00",
-  "LastUpdate_Achievements": "2023-08-22T02:18:35.1587263+00:00"
+  "LastUpdate_Ratings": "2023-08-22T02:57:44.6683474+00:00",
+  "LastUpdate_Achievements": "2023-08-22T03:06:23.5809043+00:00"
 }

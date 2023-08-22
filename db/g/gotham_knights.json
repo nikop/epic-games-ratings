@@ -2498,9 +2498,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 67968,
+  "EOS_Progressed": 67969,
   "EOS_Completed": 108,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -12928,6 +12928,11 @@
       "Time": "2023-08-22T02:22:32.9506478+00:00",
       "NumProgressed": 67968,
       "NumCompleted": 108
+    },
+    {
+      "Time": "2023-08-22T03:10:19.2369394+00:00",
+      "NumProgressed": 67969,
+      "NumCompleted": 108
     }
   ],
   "TotalAchievements": 61,
@@ -13315,7 +13320,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 18351
+      "UsersEstimate": 18352
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -13395,7 +13400,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 7476
+      "UsersEstimate": 7477
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -13426,13 +13431,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 67968,
+      "Progressed": 67969,
       "Completed": 108
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 38248,
+      "Progressed": 38249,
       "Completed": 2658
     }
   ],
@@ -13440,8 +13445,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-08-20T14:57:30.6977519+00:00",
-  "LastChanged_Achievements": "2023-08-22T02:22:32.9506472+00:00",
+  "LastChanged_Achievements": "2023-08-22T03:10:19.2369387+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:36.1459925+00:00",
-  "LastUpdate_Ratings": "2023-08-22T02:11:56.8896039+00:00",
-  "LastUpdate_Achievements": "2023-08-22T02:22:32.9507807+00:00"
+  "LastUpdate_Ratings": "2023-08-22T02:58:11.4591861+00:00",
+  "LastUpdate_Achievements": "2023-08-22T03:10:19.2370446+00:00"
 }

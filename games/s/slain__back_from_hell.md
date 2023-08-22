@@ -5,15 +5,15 @@ Rating: 4.29 (Ranked 797)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Man 'O War | 20.00% | ~6,950 |
-| A Good Day To Die | 15.00% | ~5,212 |
+| Man 'O War | 20.00% | ~6,951 |
+| A Good Day To Die | 15.00% | ~5,213 |
 | Right Back Atcha | 6.00% | ~2,085 |
-| Killed by Death | 5.00% | ~1,737 |
-| Guard! Turn! Parry! Dodge! Spin! Ha! | 5.00% | ~1,737 |
+| Killed by Death | 5.00% | ~1,738 |
+| Guard! Turn! Parry! Dodge! Spin! Ha! | 5.00% | ~1,738 |
 | Kill 'Em All | 4.00% | ~1,390 |
 | Down Boy! | 2.00% | ~695 |
 | A Snowball's Chance in Hell | 2.00% | ~695 |
-| Enjoy The Silence | 1.00% | ~347 |
+| Enjoy The Silence | 1.00% | ~348 |
 | Backdoor Man | 0.90% | ~313 |
 | Thorn in My Herbicide | 0.80% | ~278 |
 | Sure Footed As A Goat | 0.80% | ~278 |
@@ -22,20 +22,20 @@ Rating: 4.29 (Ranked 797)
 | Death Becomes Her | 0.70% | ~243 |
 | The Sky Is Falling | 0.70% | ~243 |
 | That'll Come In Handy... | 0.70% | ~243 |
-| Start As You Mean To Go On | 0.60% | ~208 |
-| Hail the Great Horned Metal God! | 0.60% | ~208 |
+| Start As You Mean To Go On | 0.60% | ~209 |
+| Hail the Great Horned Metal God! | 0.60% | ~209 |
 | Oh God, Mother! Blood! Blood! | 0.50% | ~174 |
 | Four Legged Friend | 0.40% | ~139 |
 | Ice To See You | 0.40% | ~139 |
 | Smack My Imp Up | 0.40% | ~139 |
 | Vroll With It | 0.30% | ~104 |
 | Swift of Foot, Keen of Blade | 0.30% | ~104 |
-| Flame Retardant | 0.20% | ~69 |
+| Flame Retardant | 0.20% | ~70 |
 | Too Metal For Magic | 0.10% | ~35 |
 | Heart Of Steel | 0.10% | ~35 |
 | Death or Glory | 0.10% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 34,748 (Ranked 99)  
+Progressed: 34,753 (Ranked 99)  
 Completed: 21 (0.06%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,7 +159,7 @@ Completed: 21 (0.06%) (Ranked 223)
 | 2023-08-19 | 34,469 | 21 |
 | 2023-08-20 | 34,621 | 21 |
 | 2023-08-21 | 34,734 | 21 |
-| 2023-08-22 | 34,748 | 21 |
+| 2023-08-22 | 34,753 | 21 |
 ## Awards
 Max (Great Boss Battles): 126  (Ranked 312)  
 Sum: 126 (Ranked 404)  

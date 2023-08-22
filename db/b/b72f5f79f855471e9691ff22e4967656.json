@@ -707,9 +707,9 @@
       "ID": "questBuildShip",
       "SetID": "ci65fo0",
       "Name": "Captain",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "questBuilder",
@@ -960,8 +960,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-08-22T02:18:12.0234894+00:00",
+  "LastChanged_Achievements": "2023-08-22T03:05:55.804268+00:00",
   "LastUpdate_AppInfo": "2023-08-16T13:00:32.6077063+00:00",
-  "LastUpdate_Ratings": "2023-08-22T02:13:41.1167222+00:00",
-  "LastUpdate_Achievements": "2023-08-22T02:18:12.0235705+00:00"
+  "LastUpdate_Ratings": "2023-08-22T03:00:16.9416961+00:00",
+  "LastUpdate_Achievements": "2023-08-22T03:05:55.8043431+00:00"
 }

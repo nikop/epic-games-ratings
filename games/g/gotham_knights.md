@@ -9,7 +9,7 @@ Rating: 4.18 (Ranked 873)
 | Har, Har, Har, Very Funny | 35.00% | ~23,789 |
 | Loose Ends | 34.00% | ~23,109 |
 | To the Victor Go the Spoils | 28.00% | ~19,031 |
-| Knighthood | 27.00% | ~18,351 |
+| Knighthood | 27.00% | ~18,352 |
 | Get ReQ'd | 25.00% | ~16,992 |
 | Whispered Words | 25.00% | ~16,992 |
 | The Batman Family | 22.00% | ~14,953 |
@@ -34,7 +34,7 @@ Rating: 4.18 (Ranked 873)
 | End of an Era | 12.00% | ~8,156 |
 | Bulldozed | 12.00% | ~8,156 |
 | Gotham Knight | 12.00% | ~8,156 |
-| Gotham City Confidential | 11.00% | ~7,476 |
+| Gotham City Confidential | 11.00% | ~7,477 |
 | Drone You Out | 10.00% | ~6,797 |
 | Out of Their League | 9.00% | ~6,117 |
 | Solid Alibi | 9.00% | ~6,117 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 873)
 | Element of Surprise | 0.20% | ~76 |
 | It's Nice to Be Wanted | 0.20% | ~76 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,968 (Ranked 80)  
+Progressed: 67,969 (Ranked 80)  
 Completed: 108 (0.16%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 108 (0.16%) (Ranked 193)
 | 2023-08-19 | 67,915 | 108 |
 | 2023-08-20 | 67,937 | 108 |
 | 2023-08-21 | 67,964 | 108 |
-| 2023-08-22 | 67,968 | 108 |
+| 2023-08-22 | 67,969 | 108 |
 ## Awards
 Max (Great Boss Battles): 2,510  (Ranked 100)  
 Sum: 4,180 (Ranked 139)  
