@@ -30,7 +30,7 @@
 | 28 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.32% |
 | 29 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
 | 30 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.52% |
-| 31 | [Sonic Origins](games/s/sonic_origins.md) | 9.25% |
+| 31 | [Sonic Origins](games/s/sonic_origins.md) | 9.47% |
 | 32 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.04% |
 | 33 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.48% |
 | 34 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 7.89% |
@@ -70,9 +70,9 @@
 | 68 | [Bunny Park](games/b/bunny_park.md) | 3.37% |
 | 69 | [The Complex](games/t/the_complex.md) | 3.35% |
 | 70 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.30% |
-| 71 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.28% |
-| 72 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.16% |
-| 73 | [HordeCore](games/h/hordecore.md) | 3.15% |
+| 71 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.27% |
+| 72 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.15% |
+| 72 | [HordeCore](games/h/hordecore.md) | 3.15% |
 | 74 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.04% |
 | 74 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.04% |
 | 76 | [Monster Harvest](games/m/monster_harvest.md) | 2.94% |
