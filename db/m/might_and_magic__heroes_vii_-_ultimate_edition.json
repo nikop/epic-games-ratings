@@ -2,12 +2,12 @@
   "ID": "55d082ca99b64bd9bdb25754eb56a135",
   "Name": "Might and Magic: Heroes VII - Ultimate Edition",
   "ProductSlug": "might-and-magic-heroes-7",
-  "Ranking_Rating": 625,
+  "Ranking_Rating": 650,
   "Ranking_Popularity": 448,
   "Ranking_PopularitySum": 380,
   "Ranking_EOS_Progress": 555,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2020-08-25T15:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.46,
+  "Rating": 4.44,
   "NumberOfRatings": 96,
   "RatingHistory": [
     {
@@ -625,6 +625,12 @@
       "Rating": 4.46,
       "NumberOfAwards": 179,
       "NumberOfAwardsMax": 33
+    },
+    {
+      "Time": "2023-08-23T05:00:43.7822237+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 179,
+      "NumberOfAwardsMax": 33
     }
   ],
   "ReviewsDisabled": false,
@@ -686,8 +692,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:09.0043612+00:00",
-  "LastChanged": "2023-08-19T16:02:10.3311586+00:00",
+  "LastChanged": "2023-08-23T05:00:43.7822235+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:51.8663531+00:00",
-  "LastUpdate_Ratings": "2023-08-23T04:00:44.4521747+00:00",
-  "LastUpdate_Achievements": "2023-08-23T04:05:19.7848474+00:00"
+  "LastUpdate_Ratings": "2023-08-23T05:00:43.7822241+00:00",
+  "LastUpdate_Achievements": "2023-08-23T05:05:18.6625098+00:00"
 }

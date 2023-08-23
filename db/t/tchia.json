@@ -214,7 +214,7 @@
   "Tags": [],
   "EOS_Progressed": 7327,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 335,
+  "EOS_NewPlayers": 334,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -6410,9 +6410,9 @@
       "ID": "IN_A_PINCH",
       "SetID": "3cck1g6",
       "Name": "In a Pinch",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1465
+      "UsersEstimate": 1539
     },
     {
       "ID": "LIBERATOR",
@@ -6483,8 +6483,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-08-07T01:56:04.2387619+00:00",
-  "LastChanged_Achievements": "2023-08-23T04:06:33.4272961+00:00",
+  "LastChanged_Achievements": "2023-08-23T05:06:31.9982985+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:55.8261903+00:00",
-  "LastUpdate_Ratings": "2023-08-23T04:00:08.6225928+00:00",
-  "LastUpdate_Achievements": "2023-08-23T04:06:33.4273727+00:00"
+  "LastUpdate_Ratings": "2023-08-23T05:00:06.0840294+00:00",
+  "LastUpdate_Achievements": "2023-08-23T05:06:31.998353+00:00"
 }

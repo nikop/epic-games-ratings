@@ -53,9 +53,9 @@ Rating: 4.55 (Ranked 485)
 | Remember the Dead | 0.90% | ~28 |
 | Gregor Spinoza | 0.90% | ~28 |
 | Work Harder | 0.50% | ~15 |
+| Crunch Culture | 0.30% | ~9 |
 | Soylent Green | 0.30% | ~9 |
 | A Junker's Dream | 0.20% | ~6 |
-| Crunch Culture | 0.20% | ~6 |
 | This is Fine | 0.10% | ~3 |
 | Suburban Perfection | 0.10% | ~3 |
 | Scenic View | 0.10% | ~3 |

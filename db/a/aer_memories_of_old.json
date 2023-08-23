@@ -2,12 +2,12 @@
   "ID": "f3720f53cccb4a20841a392a8ea0457f",
   "Name": "AER Memories of Old",
   "ProductSlug": "aer-memories-of-old",
-  "Ranking_Rating": 638,
+  "Ranking_Rating": 637,
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 93,
-  "Ranking_EOS_NewPlayers": 73,
+  "Ranking_EOS_NewPlayers": 74,
   "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -380,7 +380,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18456,
+  "EOS_Progressed": 18459,
   "EOS_Completed": 373,
   "EOS_NewPlayers": 511,
   "EOS_NewCompleters": 10,
@@ -13650,6 +13650,11 @@
       "Time": "2023-08-23T04:06:44.3981166+00:00",
       "NumProgressed": 18456,
       "NumCompleted": 373
+    },
+    {
+      "Time": "2023-08-23T05:06:43.1009509+00:00",
+      "NumProgressed": 18459,
+      "NumCompleted": 373
     }
   ],
   "TotalAchievements": 20,
@@ -13669,7 +13674,7 @@
       "Name": "Ripples on the surface",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1108
     },
     {
       "ID": "EAST_FINISHED",
@@ -13709,7 +13714,7 @@
       "Name": "An uninvited guest",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1476
+      "UsersEstimate": 1477
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -13725,7 +13730,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2768
+      "UsersEstimate": 2769
     },
     {
       "ID": "FOUND_ERIN",
@@ -13741,7 +13746,7 @@
       "Name": "Tails of Stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1108
     },
     {
       "ID": "FOUND_MAMBA",
@@ -13749,7 +13754,7 @@
       "Name": "Baa from the past",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1108
     },
     {
       "ID": "FOUND_RIFT_CAVE",
@@ -13757,7 +13762,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2399
+      "UsersEstimate": 2400
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -13765,7 +13770,7 @@
       "Name": "Written in stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1108
     },
     {
       "ID": "GAME_FINISHED",
@@ -13781,7 +13786,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 14027
+      "UsersEstimate": 14029
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -13789,7 +13794,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 5168
+      "UsersEstimate": 5169
     },
     {
       "ID": "NORTH_FINISHED",
@@ -13820,15 +13825,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 18456,
+      "Progressed": 18459,
       "Completed": 373
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-08-12T01:39:46.4098224+00:00",
-  "LastChanged_Achievements": "2023-08-23T04:06:44.3981158+00:00",
+  "LastChanged_Achievements": "2023-08-23T05:06:43.1009503+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:54.5287855+00:00",
-  "LastUpdate_Ratings": "2023-08-23T03:58:01.1190244+00:00",
-  "LastUpdate_Achievements": "2023-08-23T04:06:44.3983002+00:00"
+  "LastUpdate_Ratings": "2023-08-23T04:57:53.3608276+00:00",
+  "LastUpdate_Achievements": "2023-08-23T05:06:43.1010463+00:00"
 }

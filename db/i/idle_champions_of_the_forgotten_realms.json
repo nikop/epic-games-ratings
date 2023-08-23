@@ -6010,10 +6010,10 @@
       "Count": 3365
     }
   ],
-  "EOS_Progressed": 224253,
-  "EOS_Completed": 2207,
+  "EOS_Progressed": 224263,
+  "EOS_Completed": 2208,
   "EOS_NewPlayers": 1973,
-  "EOS_NewCompleters": 24,
+  "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
@@ -19620,6 +19620,11 @@
       "Time": "2023-08-23T04:06:30.8586605+00:00",
       "NumProgressed": 224253,
       "NumCompleted": 2207
+    },
+    {
+      "Time": "2023-08-23T05:06:29.9528631+00:00",
+      "NumProgressed": 224263,
+      "NumCompleted": 2208
     }
   ],
   "TotalAchievements": 516,
@@ -21205,9 +21210,9 @@
       "ID": "objective_completed_267",
       "SetID": "cc37lbc",
       "Name": "Seeds of Deceit",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 224
+      "UsersEstimate": 449
     },
     {
       "ID": "objective_completed_268",
@@ -23758,21 +23763,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 190527,
+      "Progressed": 190537,
       "Completed": 3292
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 224253,
-      "Completed": 2207
+      "Progressed": 224263,
+      "Completed": 2208
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-22T21:01:29.3226588+00:00",
-  "LastChanged_Achievements": "2023-08-23T04:06:30.8586598+00:00",
+  "LastChanged_Achievements": "2023-08-23T05:06:29.9528625+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:12.3267162+00:00",
-  "LastUpdate_Ratings": "2023-08-23T04:00:21.6380736+00:00",
-  "LastUpdate_Achievements": "2023-08-23T04:06:30.861972+00:00"
+  "LastUpdate_Ratings": "2023-08-23T05:00:20.292851+00:00",
+  "LastUpdate_Achievements": "2023-08-23T05:06:29.955793+00:00"
 }

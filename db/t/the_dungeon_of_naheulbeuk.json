@@ -696,9 +696,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 216085,
+  "EOS_Progressed": 216091,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3114,
+  "EOS_NewPlayers": 3103,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7951,6 +7951,11 @@
       "Time": "2023-08-23T04:03:21.3044654+00:00",
       "NumProgressed": 216085,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-23T05:03:21.1192718+00:00",
+      "NumProgressed": 216091,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -8392,9 +8397,9 @@
       "ID": "DwarfLevel2",
       "SetID": "50chcgj",
       "Name": "Sock! SOCK!",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2161
+      "UsersEstimate": 4322
     },
     {
       "ID": "ElfEpic",
@@ -8410,7 +8415,7 @@
       "Name": "Sowwy!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 47539
+      "UsersEstimate": 47540
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -8665,21 +8670,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 216085,
+      "Progressed": 216091,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 216085,
+      "Progressed": 216091,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-22T20:01:13.7007257+00:00",
-  "LastChanged_Achievements": "2023-08-23T04:03:21.3044646+00:00",
+  "LastChanged_Achievements": "2023-08-23T05:03:21.1192712+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:36.4163589+00:00",
-  "LastUpdate_Ratings": "2023-08-23T04:01:19.4682932+00:00",
-  "LastUpdate_Achievements": "2023-08-23T04:03:21.3047328+00:00"
+  "LastUpdate_Ratings": "2023-08-23T05:01:18.8820565+00:00",
+  "LastUpdate_Achievements": "2023-08-23T05:03:21.1194259+00:00"
 }

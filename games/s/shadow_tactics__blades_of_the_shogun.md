@@ -7,8 +7,8 @@ Number of Ratings: 495  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Genin | 11.00% | ~21,634 |
-| Thorough | 10.00% | ~19,667 |
-| A thief's beginning | 9.00% | ~17,700 |
+| Thorough | 10.00% | ~19,668 |
+| A thief's beginning | 9.00% | ~17,701 |
 | Disguised | 8.00% | ~15,734 |
 | Rollin' | 8.00% | ~15,734 |
 | Tanuki Time | 8.00% | ~15,734 |
@@ -20,9 +20,9 @@ Number of Ratings: 495  (23.09.2022)
 | Ice Ice Yuki | 6.00% | ~11,800 |
 | Mugen Unchained | 6.00% | ~11,800 |
 | Yabu | 6.00% | ~11,800 |
-| Flying Rocks | 5.00% | ~9,833 |
-| Okkoto | 5.00% | ~9,833 |
-| Warzone | 5.00% | ~9,833 |
+| Flying Rocks | 5.00% | ~9,834 |
+| Okkoto | 5.00% | ~9,834 |
+| Warzone | 5.00% | ~9,834 |
 | Gear up | 4.00% | ~7,867 |
 | Happy little accidents | 4.00% | ~7,867 |
 | Prisoners | 4.00% | ~7,867 |
@@ -31,10 +31,10 @@ Number of Ratings: 495  (23.09.2022)
 | Still Rollin' | 3.00% | ~5,900 |
 | Stoned | 3.00% | ~5,900 |
 | The Old Way | 3.00% | ~5,900 |
-| Atheist Ox | 2.00% | ~3,933 |
-| It's raining men | 2.00% | ~3,933 |
-| Old Man | 2.00% | ~3,933 |
-| Winner Winner | 2.00% | ~3,933 |
+| Atheist Ox | 2.00% | ~3,934 |
+| It's raining men | 2.00% | ~3,934 |
+| Old Man | 2.00% | ~3,934 |
+| Winner Winner | 2.00% | ~3,934 |
 | Meticulous | 1.00% | ~1,967 |
 | No Gimmicks | 1.00% | ~1,967 |
 | The End | 1.00% | ~1,967 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~197 |
 | Release the Kraken | 0.10% | ~197 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 196,669 (Ranked 60)  
+Progressed: 196,675 (Ranked 60)  
 Completed: 71 (0.04%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,7 +176,7 @@ Completed: 71 (0.04%) (Ranked 232)
 | 2023-08-20 | 196,025 | 71 |
 | 2023-08-21 | 196,336 | 71 |
 | 2023-08-22 | 196,624 | 71 |
-| 2023-08-23 | 196,669 | 71 |
+| 2023-08-23 | 196,675 | 71 |
 ## Awards
 Max (Great for Beginners): 561  (Ranked 189)  
 Sum: 4,732 (Ranked 134)  

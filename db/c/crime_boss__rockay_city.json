@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 224,
   "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -3120,7 +3120,7 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 72203,
+  "EOS_Progressed": 72204,
   "EOS_Completed": 41,
   "EOS_NewPlayers": 313,
   "EOS_NewCompleters": 2,
@@ -16120,6 +16120,11 @@
       "Time": "2023-08-23T04:07:33.3027606+00:00",
       "NumProgressed": 72203,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-08-23T05:07:31.931018+00:00",
+      "NumProgressed": 72204,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 37,
@@ -16155,7 +16160,7 @@
       "Name": "Hidden Sonata",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 9386
+      "UsersEstimate": 9387
     },
     {
       "ID": "ACH_0014",
@@ -16275,7 +16280,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 46932
+      "UsersEstimate": 46933
     },
     {
       "ID": "ACH_0210",
@@ -16283,7 +16288,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 53430
+      "UsersEstimate": 53431
     },
     {
       "ID": "ACH_0211",
@@ -16299,7 +16304,7 @@
       "Name": "Too Old for This",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 34657
+      "UsersEstimate": 34658
     },
     {
       "ID": "ACH_0300",
@@ -16426,22 +16431,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 72203,
+      "Progressed": 72204,
       "Completed": 41
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 550,
-      "Completed": 550
+      "Progressed": 551,
+      "Completed": 551
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-08-23T01:36:42.1232102+00:00",
-  "LastChanged_Achievements": "2023-08-23T04:07:33.3027602+00:00",
+  "LastChanged_Achievements": "2023-08-23T05:07:31.9310175+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:48.5211502+00:00",
-  "LastUpdate_Ratings": "2023-08-23T03:57:56.0465725+00:00",
-  "LastUpdate_Achievements": "2023-08-23T04:07:33.3028788+00:00"
+  "LastUpdate_Ratings": "2023-08-23T04:57:48.6086097+00:00",
+  "LastUpdate_Achievements": "2023-08-23T05:07:31.9311295+00:00"
 }

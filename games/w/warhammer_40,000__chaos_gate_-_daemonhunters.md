@@ -42,9 +42,9 @@ Number of Ratings: 371  (23.09.2022)
 | Strike Force | 0.30% | ~9 |
 | Exterminator | 0.30% | ~9 |
 | Engine Kill | 0.30% | ~9 |
+| Harvest No More | 0.30% | ~9 |
 | Death Comes For All | 0.30% | ~9 |
 | Exercise in Restraint | 0.20% | ~6 |
-| Harvest No More | 0.20% | ~6 |
 | True Mastery | 0.20% | ~6 |
 | Reign of Confusion | 0.20% | ~6 |
 | Suffer Not the Mutant | 0.20% | ~6 |

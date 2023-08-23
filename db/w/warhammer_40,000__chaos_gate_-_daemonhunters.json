@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 305,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -3560,9 +3560,9 @@
       "ID": "ReaperDefeated_Mortus",
       "SetID": "3jha1np",
       "Name": "Harvest No More",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "ReaperDefeated_Necrosus",
@@ -3710,8 +3710,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-08-22T18:00:43.0905587+00:00",
-  "LastChanged_Achievements": "2023-08-23T04:03:07.4476525+00:00",
+  "LastChanged_Achievements": "2023-08-23T05:03:07.3647276+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:07.2457107+00:00",
-  "LastUpdate_Ratings": "2023-08-23T04:00:55.6305327+00:00",
-  "LastUpdate_Achievements": "2023-08-23T04:03:07.447802+00:00"
+  "LastUpdate_Ratings": "2023-08-23T05:00:55.1382407+00:00",
+  "LastUpdate_Achievements": "2023-08-23T05:03:07.3648121+00:00"
 }

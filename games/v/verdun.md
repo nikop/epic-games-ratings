@@ -6,13 +6,13 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 77.00% | ~43,082 |
-| Worth it | 63.00% | ~35,248 |
-| Eagle Eye | 55.00% | ~30,773 |
-| Corpseman I | 40.00% | ~22,380 |
+| Setting an example | 77.00% | ~43,083 |
+| Worth it | 63.00% | ~35,250 |
+| Eagle Eye | 55.00% | ~30,774 |
+| Corpseman I | 40.00% | ~22,381 |
 | Blast fishing | 37.00% | ~20,702 |
-| Not alone | 32.00% | ~17,904 |
-| Headhunter I | 26.00% | ~14,547 |
+| Not alone | 32.00% | ~17,905 |
+| Headhunter I | 26.00% | ~14,548 |
 | Manual Labour I | 25.00% | ~13,988 |
 | Developers, Developers, Developers | 24.00% | ~13,428 |
 | Basic Training | 24.00% | ~13,428 |
@@ -35,12 +35,12 @@ Number of Ratings: 1,999  (23.09.2022)
 | Let them, come to us | 4.00% | ~2,238 |
 | Corpseman II | 4.00% | ~2,238 |
 | Manual Labour II | 4.00% | ~2,238 |
-| Offense is the best defence | 3.00% | ~1,678 |
-| There is no I in team | 3.00% | ~1,678 |
-| Veteran | 3.00% | ~1,678 |
-| In My Defens God Me Defend | 3.00% | ~1,678 |
-| Silver x100 | 3.00% | ~1,678 |
-| Impavidum Ferient Bella! | 3.00% | ~1,678 |
+| Offense is the best defence | 3.00% | ~1,679 |
+| There is no I in team | 3.00% | ~1,679 |
+| Veteran | 3.00% | ~1,679 |
+| In My Defens God Me Defend | 3.00% | ~1,679 |
+| Silver x100 | 3.00% | ~1,679 |
+| Impavidum Ferient Bella! | 3.00% | ~1,679 |
 | Bronze x100 | 2.00% | ~1,119 |
 | Shoot, Cover, Reload, Repeat | 2.00% | ~1,119 |
 | Gold x100 | 1.00% | ~560 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~56 |
 | Blood Brother | 0.10% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,950 (Ranked 88)  
+Progressed: 55,952 (Ranked 88)  
 Completed: 4 (0.01%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 4 (0.01%) (Ranked 249)
 | 2023-08-20 | 55,733 | 4 |
 | 2023-08-21 | 55,842 | 4 |
 | 2023-08-22 | 55,935 | 4 |
-| 2023-08-23 | 55,950 | 4 |
+| 2023-08-23 | 55,952 | 4 |
 ## Awards
 Max (Highly Recommended): 96  (Ranked 344)  
 Sum: 766 (Ranked 268)  

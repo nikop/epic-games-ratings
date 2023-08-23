@@ -6,9 +6,9 @@
   "Ranking_Popularity": 71,
   "Ranking_PopularitySum": 47,
   "Ranking_EOS_Progress": 66,
-  "Ranking_EOS_Completed": 209,
+  "Ranking_EOS_Completed": 210,
   "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 34,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -5716,10 +5716,10 @@
       "Count": 3737
     }
   ],
-  "EOS_Progressed": 134965,
-  "EOS_Completed": 137,
-  "EOS_NewPlayers": 382,
-  "EOS_NewCompleters": 4,
+  "EOS_Progressed": 134967,
+  "EOS_Completed": 138,
+  "EOS_NewPlayers": 383,
+  "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
     {
@@ -18486,6 +18486,11 @@
       "Time": "2023-08-23T04:06:49.6543377+00:00",
       "NumProgressed": 134965,
       "NumCompleted": 137
+    },
+    {
+      "Time": "2023-08-23T05:06:48.4948851+00:00",
+      "NumProgressed": 134967,
+      "NumCompleted": 138
     }
   ],
   "TotalAchievements": 112,
@@ -19007,9 +19012,9 @@
       "ID": "gold06",
       "SetID": "anfd17p",
       "Name": "Wealth Beyond Measure",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 405
     },
     {
       "ID": "help01",
@@ -19392,15 +19397,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 134965,
-      "Completed": 137
+      "Progressed": 134967,
+      "Completed": 138
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-08-22T17:00:35.1367451+00:00",
-  "LastChanged_Achievements": "2023-08-23T04:06:49.6543369+00:00",
+  "LastChanged_Achievements": "2023-08-23T05:06:48.4948846+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:50.7489496+00:00",
-  "LastUpdate_Ratings": "2023-08-23T04:00:43.7262344+00:00",
-  "LastUpdate_Achievements": "2023-08-23T04:06:49.6545841+00:00"
+  "LastUpdate_Ratings": "2023-08-23T05:00:43.2904031+00:00",
+  "LastUpdate_Achievements": "2023-08-23T05:06:48.4951253+00:00"
 }

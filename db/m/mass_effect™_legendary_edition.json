@@ -4,7 +4,7 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 555,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
@@ -39,8 +39,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-08-23T04:05:33.3160219+00:00",
+  "LastChanged_Achievements": "2023-08-23T05:05:31.9702617+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:16.0223388+00:00",
-  "LastUpdate_Ratings": "2023-08-23T03:58:29.8197189+00:00",
-  "LastUpdate_Achievements": "2023-08-23T04:05:33.3160265+00:00"
+  "LastUpdate_Ratings": "2023-08-23T04:58:22.9241403+00:00",
+  "LastUpdate_Achievements": "2023-08-23T05:05:31.9702672+00:00"
 }
