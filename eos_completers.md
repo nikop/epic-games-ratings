@@ -30,8 +30,8 @@
 | 28 | [Remains](games/r/remains.md) | 10.64% |
 | 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.32% |
 | 30 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
-| 31 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.52% |
-| 32 | [Sonic Origins](games/s/sonic_origins.md) | 9.47% |
+| 31 | [Sonic Origins](games/s/sonic_origins.md) | 9.47% |
+| 32 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.09% |
 | 33 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.03% |
 | 34 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.48% |
 | 35 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 7.89% |
@@ -62,16 +62,16 @@
 | 60 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.13% |
 | 61 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.11% |
 | 62 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.95% |
-| 63 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 3.92% |
-| 64 | [ZZT!](games/z/zzt!.md) | 3.87% |
-| 65 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
+| 63 | [ZZT!](games/z/zzt!.md) | 3.87% |
+| 64 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
+| 64 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 3.85% |
 | 66 | [Without Escape](games/w/without_escape.md) | 3.57% |
 | 67 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 68 | [Doodle God](games/d/doodle_god.md) | 3.43% |
-| 69 | [Bunny Park](games/b/bunny_park.md) | 3.37% |
-| 70 | [The Complex](games/t/the_complex.md) | 3.35% |
-| 71 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.30% |
-| 72 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.23% |
+| 69 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.41% |
+| 70 | [Bunny Park](games/b/bunny_park.md) | 3.37% |
+| 71 | [The Complex](games/t/the_complex.md) | 3.35% |
+| 72 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.30% |
 | 73 | [HordeCore](games/h/hordecore.md) | 3.15% |
 | 74 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.14% |
 | 75 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.04% |
