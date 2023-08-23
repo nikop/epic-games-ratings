@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1214,9 +1214,9 @@
       "Count": 67
     }
   ],
-  "EOS_Progressed": 5429,
+  "EOS_Progressed": 5430,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -7979,6 +7979,11 @@
       "Time": "2023-08-22T23:05:50.4563264+00:00",
       "NumProgressed": 5429,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-08-23T02:19:23.4561098+00:00",
+      "NumProgressed": 5430,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 31,
@@ -7990,7 +7995,7 @@
       "Name": "Get A Room",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 4017
+      "UsersEstimate": 4018
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -7998,7 +8003,7 @@
       "Name": "Beam Me Up",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 2714
+      "UsersEstimate": 2715
     },
     {
       "ID": "DISMANTLE_ITEMS_5",
@@ -8014,7 +8019,7 @@
       "Name": "Nothing Wasted",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "HARVEST_CROPS_200",
@@ -8022,7 +8027,7 @@
       "Name": "Green Thumb",
       "Percentage": 66,
       "XP": 50,
-      "UsersEstimate": 3583
+      "UsersEstimate": 3584
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -8030,7 +8035,7 @@
       "Name": "Having A Field Day",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 4017
+      "UsersEstimate": 4018
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -8086,7 +8091,7 @@
       "Name": "Where Wolf?",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "HUNT_WOLF_5",
@@ -8094,7 +8099,7 @@
       "Name": "Don\u0027t Cry Wolf",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "KILL_RAIDER",
@@ -8166,7 +8171,7 @@
       "Name": "Heating Up",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 1574
+      "UsersEstimate": 1575
     },
     {
       "ID": "SURVIVE_FIRST_WINTER",
@@ -8188,9 +8193,9 @@
       "ID": "SURVIVE_SEVEN_DAY",
       "SetID": "5349c2e",
       "Name": "The First Week",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 2932
+      "UsersEstimate": 2878
     },
     {
       "ID": "UNLOCK_RESEARCH",
@@ -8198,7 +8203,7 @@
       "Name": "Novice Researcher",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 3583
+      "UsersEstimate": 3584
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -8214,7 +8219,7 @@
       "Name": "Luminary Researcher",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 1737
+      "UsersEstimate": 1738
     },
     {
       "ID": "UNLOCK_RESEARCH_3",
@@ -8222,7 +8227,7 @@
       "Name": "Onward",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 3040
+      "UsersEstimate": 3041
     },
     {
       "ID": "UNLOCK_RESEARCH_5",
@@ -8237,15 +8242,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 5429,
+      "Progressed": 5430,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-08-22T15:57:36.9179436+00:00",
-  "LastChanged_Achievements": "2023-08-23T01:44:41.9981458+00:00",
+  "LastChanged_Achievements": "2023-08-23T02:19:23.4561088+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:24.7738983+00:00",
-  "LastUpdate_Ratings": "2023-08-23T01:36:23.3628997+00:00",
-  "LastUpdate_Achievements": "2023-08-23T01:44:41.9982217+00:00"
+  "LastUpdate_Ratings": "2023-08-23T02:10:36.5502614+00:00",
+  "LastUpdate_Achievements": "2023-08-23T02:19:23.4562193+00:00"
 }

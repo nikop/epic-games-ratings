@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 168,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -736,9 +736,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 12027,
+  "EOS_Progressed": 12028,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -9256,6 +9256,11 @@
       "Time": "2023-08-23T01:42:53.9476508+00:00",
       "NumProgressed": 12027,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-08-23T02:17:32.7306501+00:00",
+      "NumProgressed": 12028,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 35,
@@ -9267,7 +9272,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9742
+      "UsersEstimate": 9743
     },
     {
       "ID": "ACH02",
@@ -9347,7 +9352,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1082
+      "UsersEstimate": 1083
     },
     {
       "ID": "ACH12",
@@ -9546,7 +9551,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 12027,
+      "Progressed": 12028,
       "Completed": 40
     }
   ],
@@ -9554,8 +9559,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-08-21T21:58:21.5747763+00:00",
-  "LastChanged_Achievements": "2023-08-23T01:42:53.9476501+00:00",
+  "LastChanged_Achievements": "2023-08-23T02:17:32.7306496+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:04.3712405+00:00",
-  "LastUpdate_Ratings": "2023-08-23T01:37:04.0609967+00:00",
-  "LastUpdate_Achievements": "2023-08-23T01:42:53.9477728+00:00"
+  "LastUpdate_Ratings": "2023-08-23T02:11:17.9095016+00:00",
+  "LastUpdate_Achievements": "2023-08-23T02:17:32.7307469+00:00"
 }

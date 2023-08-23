@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -6597,7 +6597,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 59457,
+  "EOS_Progressed": 59459,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 522,
   "EOS_NewCompleters": 0,
@@ -19782,6 +19782,11 @@
       "Time": "2023-08-23T01:44:37.5034551+00:00",
       "NumProgressed": 59457,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-23T02:19:18.8333391+00:00",
+      "NumProgressed": 59459,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -19921,7 +19926,7 @@
       "Name": "God of the Arena",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 7729
+      "UsersEstimate": 7730
     },
     {
       "ID": "Great Granny",
@@ -20001,7 +20006,7 @@
       "Name": "Know your enemy",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 3567
+      "UsersEstimate": 3568
     },
     {
       "ID": "Lance-a-lot",
@@ -20017,7 +20022,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 19026
+      "UsersEstimate": 19027
     },
     {
       "ID": "Lawbringer",
@@ -20033,7 +20038,7 @@
       "Name": "Lawmaker",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 13675
+      "UsersEstimate": 13676
     },
     {
       "ID": "Long live the Empire",
@@ -20145,7 +20150,7 @@
       "Name": "The king is pleased",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 10702
+      "UsersEstimate": 10703
     },
     {
       "ID": "This Is Our Land",
@@ -20200,15 +20205,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 59457,
+      "Progressed": 59459,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-08-22T18:57:52.3827877+00:00",
-  "LastChanged_Achievements": "2023-08-23T01:44:37.5034543+00:00",
+  "LastChanged_Achievements": "2023-08-23T02:19:18.8333383+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:38.4249815+00:00",
-  "LastUpdate_Ratings": "2023-08-23T01:36:33.76878+00:00",
-  "LastUpdate_Achievements": "2023-08-23T01:44:37.5035984+00:00"
+  "LastUpdate_Ratings": "2023-08-23T02:10:47.4857782+00:00",
+  "LastUpdate_Achievements": "2023-08-23T02:19:18.8335525+00:00"
 }

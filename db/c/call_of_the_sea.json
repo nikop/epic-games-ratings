@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 114288,
+  "EOS_Progressed": 114289,
   "EOS_Completed": 919,
-  "EOS_NewPlayers": 1803,
+  "EOS_NewPlayers": 1800,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.8,
   "EosHistory": [
@@ -13991,6 +13991,11 @@
       "Time": "2023-08-23T01:43:14.1826708+00:00",
       "NumProgressed": 114288,
       "NumCompleted": 919
+    },
+    {
+      "Time": "2023-08-23T02:17:53.7447265+00:00",
+      "NumProgressed": 114289,
+      "NumCompleted": 919
     }
   ],
   "TotalAchievements": 34,
@@ -14074,7 +14079,7 @@
       "Name": "74 miles East of Otaheit\u00E9",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 62858
+      "UsersEstimate": 62859
     },
     {
       "ID": "ACH_L01_WHITEBEACH_OBJ",
@@ -14090,7 +14095,7 @@
       "Name": "The Everhart Expedition",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 44572
+      "UsersEstimate": 44573
     },
     {
       "ID": "ACH_L02_BASECAMP_OBJ",
@@ -14114,7 +14119,7 @@
       "Name": "The Vanishing of the Lady Shannon",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 34286
+      "UsersEstimate": 34287
     },
     {
       "ID": "ACH_L03_BLACKBEACH_OBJ",
@@ -14130,7 +14135,7 @@
       "Name": "Seaside Serenade",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 34286
+      "UsersEstimate": 34287
     },
     {
       "ID": "ACH_L03_PIANO",
@@ -14258,7 +14263,7 @@
       "Name": "FHALGOF\u0027N\u0027",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 25143
+      "UsersEstimate": 25144
     },
     {
       "ID": "ACH_L06_TEMPLE_OBJ",
@@ -14273,7 +14278,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 114288,
+      "Progressed": 114289,
       "Completed": 919
     }
   ],
@@ -14281,8 +14286,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-07-28T22:59:47.9530801+00:00",
-  "LastChanged_Achievements": "2023-08-23T01:43:14.1826698+00:00",
+  "LastChanged_Achievements": "2023-08-23T02:17:53.7447257+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:57.0199491+00:00",
-  "LastUpdate_Ratings": "2023-08-23T01:40:15.9753423+00:00",
-  "LastUpdate_Achievements": "2023-08-23T01:43:14.1828002+00:00"
+  "LastUpdate_Ratings": "2023-08-23T02:16:11.2652997+00:00",
+  "LastUpdate_Achievements": "2023-08-23T02:17:53.7449148+00:00"
 }

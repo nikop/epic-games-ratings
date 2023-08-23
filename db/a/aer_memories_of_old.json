@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 92,
-  "Ranking_EOS_NewPlayers": 75,
+  "Ranking_EOS_NewPlayers": 74,
   "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -380,9 +380,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18450,
+  "EOS_Progressed": 18452,
   "EOS_Completed": 373,
-  "EOS_NewPlayers": 509,
+  "EOS_NewPlayers": 510,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 2.02,
   "EosHistory": [
@@ -13635,6 +13635,11 @@
       "Time": "2023-08-23T01:45:30.6099624+00:00",
       "NumProgressed": 18450,
       "NumCompleted": 373
+    },
+    {
+      "Time": "2023-08-23T02:20:12.8776117+00:00",
+      "NumProgressed": 18452,
+      "NumCompleted": 373
     }
   ],
   "TotalAchievements": 20,
@@ -13646,7 +13651,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 3136
+      "UsersEstimate": 3137
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -13670,7 +13675,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1660
+      "UsersEstimate": 1661
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -13718,7 +13723,7 @@
       "Name": "Hide and Seek",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 922
+      "UsersEstimate": 923
     },
     {
       "ID": "FOUND_FOX_STATUE",
@@ -13742,7 +13747,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2398
+      "UsersEstimate": 2399
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -13766,7 +13771,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 14022
+      "UsersEstimate": 14024
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -13774,7 +13779,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 5166
+      "UsersEstimate": 5167
     },
     {
       "ID": "NORTH_FINISHED",
@@ -13805,15 +13810,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 18450,
+      "Progressed": 18452,
       "Completed": 373
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-08-12T01:39:46.4098224+00:00",
-  "LastChanged_Achievements": "2023-08-23T01:45:30.6099618+00:00",
+  "LastChanged_Achievements": "2023-08-23T02:20:12.8776108+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:54.5287855+00:00",
-  "LastUpdate_Ratings": "2023-08-23T01:36:47.7401479+00:00",
-  "LastUpdate_Achievements": "2023-08-23T01:45:30.6100779+00:00"
+  "LastUpdate_Ratings": "2023-08-23T02:11:01.5237698+00:00",
+  "LastUpdate_Achievements": "2023-08-23T02:20:12.8777064+00:00"
 }

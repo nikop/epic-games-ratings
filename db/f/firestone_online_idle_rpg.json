@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1838,
+  "EOS_Progressed": 1839,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -5089,6 +5089,11 @@
       "Time": "2023-08-22T06:10:32.9511164+00:00",
       "NumProgressed": 1838,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-23T02:19:53.7917891+00:00",
+      "NumProgressed": 1839,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -5204,7 +5209,7 @@
       "Name": "Dragon Clicker",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "dragonmaster",
@@ -5340,7 +5345,7 @@
       "Name": "Here We Go Again",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "heroinspection",
@@ -5412,7 +5417,7 @@
       "Name": "Master Enchanter",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "mastery",
@@ -5436,7 +5441,7 @@
       "Name": "Miner Clicker",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "missionsdedication",
@@ -5492,7 +5497,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 974
+      "UsersEstimate": 975
     },
     {
       "ID": "prestigiousx10",
@@ -5500,7 +5505,7 @@
       "Name": "Prestigious x10",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "relicofthepast",
@@ -5556,7 +5561,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 1029
+      "UsersEstimate": 1030
     },
     {
       "ID": "thealchemist",
@@ -5580,7 +5585,7 @@
       "Name": "The father of Dragons",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "thegameison",
@@ -5660,7 +5665,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1709
+      "UsersEstimate": 1710
     },
     {
       "ID": "warmachinesarmy",
@@ -5692,14 +5697,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1452
+      "UsersEstimate": 1453
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1838,
+      "Progressed": 1839,
       "Completed": 2
     }
   ],
@@ -5707,8 +5712,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-08-10T20:59:32.9674394+00:00",
-  "LastChanged_Achievements": "2023-08-23T01:45:11.8110316+00:00",
+  "LastChanged_Achievements": "2023-08-23T02:19:53.7917883+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:03.2567748+00:00",
-  "LastUpdate_Ratings": "2023-08-23T01:38:59.7149199+00:00",
-  "LastUpdate_Achievements": "2023-08-23T01:45:11.8111918+00:00"
+  "LastUpdate_Ratings": "2023-08-23T02:13:19.862601+00:00",
+  "LastUpdate_Achievements": "2023-08-23T02:19:53.7919879+00:00"
 }

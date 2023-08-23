@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 428,
   "Ranking_EOS_Progress": 48,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 54,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -396,7 +396,7 @@
       "Count": 79
     }
   ],
-  "EOS_Progressed": 243138,
+  "EOS_Progressed": 243139,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 928,
   "EOS_NewCompleters": 0,
@@ -14121,6 +14121,11 @@
       "Time": "2023-08-23T01:43:58.1597402+00:00",
       "NumProgressed": 243138,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-08-23T02:18:38.8619934+00:00",
+      "NumProgressed": 243139,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -14132,7 +14137,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 65647
+      "UsersEstimate": 65648
     },
     {
       "ID": "ACH_AON",
@@ -14212,7 +14217,7 @@
       "Name": "Elementary!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 21882
+      "UsersEstimate": 21883
     },
     {
       "ID": "ACH_HIDEANDSEEK",
@@ -14452,7 +14457,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 60784
+      "UsersEstimate": 60785
     },
     {
       "ID": "ACH_SOREAD",
@@ -14547,7 +14552,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 243138,
+      "Progressed": 243139,
       "Completed": 7
     }
   ],
@@ -14555,8 +14560,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-08-15T07:59:00.2810594+00:00",
-  "LastChanged_Achievements": "2023-08-23T01:43:58.1597397+00:00",
+  "LastChanged_Achievements": "2023-08-23T02:18:38.8619929+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:56.7497354+00:00",
-  "LastUpdate_Ratings": "2023-08-23T01:38:54.5492509+00:00",
-  "LastUpdate_Achievements": "2023-08-23T01:43:58.1599181+00:00"
+  "LastUpdate_Ratings": "2023-08-23T02:13:14.4328667+00:00",
+  "LastUpdate_Achievements": "2023-08-23T02:18:38.8621255+00:00"
 }

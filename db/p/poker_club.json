@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 33,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 36,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-04-27T15:00:00+00:00",
     "PcReleaseDate": "2020-11-20T00:00:00+00:00",
@@ -616,9 +616,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 516956,
+  "EOS_Progressed": 516958,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2233,
+  "EOS_NewPlayers": 2229,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14201,6 +14201,11 @@
       "Time": "2023-08-23T01:41:17.0060255+00:00",
       "NumProgressed": 516956,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-23T02:16:35.0345629+00:00",
+      "NumProgressed": 516958,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -14220,7 +14225,7 @@
       "Name": "Backdoor",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 129239
+      "UsersEstimate": 129240
     },
     {
       "ID": "BeforeYouWreckYourself",
@@ -14308,7 +14313,7 @@
       "Name": "Cold Caller",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 201613
+      "UsersEstimate": 201614
     },
     {
       "ID": "DeadlyAssassin",
@@ -14316,7 +14321,7 @@
       "Name": "Deadly Assassin",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 77543
+      "UsersEstimate": 77544
     },
     {
       "ID": "DogEatDog",
@@ -14356,7 +14361,7 @@
       "Name": "Gutshot",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 67204
+      "UsersEstimate": 67205
     },
     {
       "ID": "Handy",
@@ -14364,7 +14369,7 @@
       "Name": "Handy",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 211952
+      "UsersEstimate": 211953
     },
     {
       "ID": "HoldingYourOwn",
@@ -14412,7 +14417,7 @@
       "Name": "Never Give Up",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 41356
+      "UsersEstimate": 41357
     },
     {
       "ID": "OnTheButton",
@@ -14460,7 +14465,7 @@
       "Name": "Pro Creation",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 392887
+      "UsersEstimate": 392888
     },
     {
       "ID": "ProPlayer",
@@ -14500,7 +14505,7 @@
       "Name": "Risk It For A Biscuit",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 67204
+      "UsersEstimate": 67205
     },
     {
       "ID": "RockAndHighRoller",
@@ -14524,7 +14529,7 @@
       "Name": "Showoff",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 67204
+      "UsersEstimate": 67205
     },
     {
       "ID": "TheBiggerTheyAre",
@@ -14556,7 +14561,7 @@
       "Name": "Total Knock Out",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 41356
+      "UsersEstimate": 41357
     },
     {
       "ID": "WHIP",
@@ -14571,7 +14576,7 @@
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 516956,
+      "Progressed": 516958,
       "Completed": 2
     }
   ],
@@ -14579,8 +14584,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2023-08-22T21:57:28.3907571+00:00",
-  "LastChanged_Achievements": "2023-08-23T01:41:17.0060249+00:00",
+  "LastChanged_Achievements": "2023-08-23T02:16:35.0345623+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:48.7263665+00:00",
-  "LastUpdate_Ratings": "2023-08-23T01:36:40.6015382+00:00",
-  "LastUpdate_Achievements": "2023-08-23T01:41:17.0061672+00:00"
+  "LastUpdate_Ratings": "2023-08-23T02:10:54.8463091+00:00",
+  "LastUpdate_Achievements": "2023-08-23T02:16:35.0346874+00:00"
 }

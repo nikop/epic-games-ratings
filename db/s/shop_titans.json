@@ -19210,9 +19210,9 @@
       "ID": "quest02",
       "SetID": "anfd17p",
       "Name": "Attrition Mission",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 405
     },
     {
       "ID": "quest03",
@@ -19394,8 +19394,8 @@
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-08-22T17:00:35.1367451+00:00",
-  "LastChanged_Achievements": "2023-08-23T01:45:35.4894112+00:00",
+  "LastChanged_Achievements": "2023-08-23T02:20:18.1896295+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:50.7489496+00:00",
-  "LastUpdate_Ratings": "2023-08-23T01:39:28.4079861+00:00",
-  "LastUpdate_Achievements": "2023-08-23T01:45:35.4898942+00:00"
+  "LastUpdate_Ratings": "2023-08-23T02:13:51.2353816+00:00",
+  "LastUpdate_Achievements": "2023-08-23T02:20:18.189869+00:00"
 }

@@ -1453,9 +1453,9 @@
       "Count": 247
     }
   ],
-  "EOS_Progressed": 196645,
+  "EOS_Progressed": 196648,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 2509,
+  "EOS_NewPlayers": 2502,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -15268,6 +15268,11 @@
       "Time": "2023-08-23T01:43:20.0649863+00:00",
       "NumProgressed": 196645,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2023-08-23T02:17:59.7685073+00:00",
+      "NumProgressed": 196648,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 44,
@@ -15567,7 +15572,7 @@
       "Name": "Thorough",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 19664
+      "UsersEstimate": 19665
     },
     {
       "ID": "TimeParadox",
@@ -15630,15 +15635,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 196645,
+      "Progressed": 196648,
       "Completed": 71
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-08-22T15:01:45.3598488+00:00",
-  "LastChanged_Achievements": "2023-08-23T01:43:20.0649858+00:00",
+  "LastChanged_Achievements": "2023-08-23T02:17:59.7685064+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:40.2855763+00:00",
-  "LastUpdate_Ratings": "2023-08-23T01:40:08.1348021+00:00",
-  "LastUpdate_Achievements": "2023-08-23T01:43:20.0651265+00:00"
+  "LastUpdate_Ratings": "2023-08-23T02:14:32.6300351+00:00",
+  "LastUpdate_Achievements": "2023-08-23T02:17:59.7686718+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 28,
   "Ranking_EOS_Completed": 213,
   "Ranking_EOS_NewPlayers": 58,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2021-12-02T16:00:00+00:00",
     "PcReleaseDate": "2019-01-17T15:00:00+00:00",
@@ -490,7 +490,7 @@
       "Count": 134
     }
   ],
-  "EOS_Progressed": 601324,
+  "EOS_Progressed": 601325,
   "EOS_Completed": 517,
   "EOS_NewPlayers": 818,
   "EOS_NewCompleters": 1,
@@ -14140,6 +14140,11 @@
       "Time": "2023-08-23T01:45:37.1146728+00:00",
       "NumProgressed": 601324,
       "NumCompleted": 517
+    },
+    {
+      "Time": "2023-08-23T02:20:19.9104926+00:00",
+      "NumProgressed": 601325,
+      "NumCompleted": 517
     }
   ],
   "TotalAchievements": 28,
@@ -14215,7 +14220,7 @@
       "Name": "We need more gold",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 360794
+      "UsersEstimate": 360795
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -14279,7 +14284,7 @@
       "Name": "First.. Bit?",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 559231
+      "UsersEstimate": 559232
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -14374,15 +14379,15 @@
     {
       "ID": "c2jc46f",
       "IsBase": true,
-      "Progressed": 601324,
+      "Progressed": 601325,
       "Completed": 517
     }
   ],
   "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.0744995+00:00",
   "LastChanged": "2023-07-16T08:00:08.7749167+00:00",
-  "LastChanged_Achievements": "2023-08-23T01:45:37.114672+00:00",
+  "LastChanged_Achievements": "2023-08-23T02:20:19.9104922+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:29.5468832+00:00",
-  "LastUpdate_Ratings": "2023-08-23T01:39:59.2212342+00:00",
-  "LastUpdate_Achievements": "2023-08-23T01:45:37.1148784+00:00"
+  "LastUpdate_Ratings": "2023-08-23T02:14:24.0669667+00:00",
+  "LastUpdate_Achievements": "2023-08-23T02:20:19.9106336+00:00"
 }

@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 22.00% | ~47,534 |
+| Sowwy! | 22.00% | ~47,535 |
 | Déjà vu | 2.00% | ~4,321 |
 | Where's that freaking Dwarf? | 2.00% | ~4,321 |
 | Alt+F4 | 2.00% | ~4,321 |
@@ -16,9 +16,9 @@ Number of Ratings: 118  (23.09.2022)
 | DM intervention | 1.00% | ~2,161 |
 | Speedrun | 1.00% | ~2,161 |
 | Fireproof Wizardess | 1.00% | ~2,161 |
-| Livin' in a dwarven paradise | 0.80% | ~1,728 |
-| Way of the Wimp | 0.80% | ~1,728 |
-| The plot thickens... At the tavern | 0.80% | ~1,728 |
+| Livin' in a dwarven paradise | 0.80% | ~1,729 |
+| Way of the Wimp | 0.80% | ~1,729 |
+| The plot thickens... At the tavern | 0.80% | ~1,729 |
 | Team Building Exercise | 0.70% | ~1,512 |
 | Oh, when I'll be level 10... | 0.70% | ~1,512 |
 | The demons' feast | 0.60% | ~1,296 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~216 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,062 (Ranked 56)  
+Progressed: 216,068 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 2 (0.00%) (Ranked 261)
 | 2023-08-20 | 215,307 | 2 |
 | 2023-08-21 | 215,690 | 2 |
 | 2023-08-22 | 216,036 | 2 |
-| 2023-08-23 | 216,062 | 2 |
+| 2023-08-23 | 216,068 | 2 |
 ## Awards
 Max (Character Customization): 173  (Ranked 285)  
 Sum: 215 (Ranked 364)  

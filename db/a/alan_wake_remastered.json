@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,7 +512,7 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 61343,
+  "EOS_Progressed": 61344,
   "EOS_Completed": 64,
   "EOS_NewPlayers": 430,
   "EOS_NewCompleters": 0,
@@ -12082,6 +12082,11 @@
       "Time": "2023-08-23T01:45:37.552734+00:00",
       "NumProgressed": 61343,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-08-23T02:20:20.4005301+00:00",
+      "NumProgressed": 61344,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 67,
@@ -12093,7 +12098,7 @@
       "Name": "Follow the Light",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 23310
+      "UsersEstimate": 23311
     },
     {
       "ID": "02",
@@ -12285,7 +12290,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4907
+      "UsersEstimate": 4908
     },
     {
       "ID": "26",
@@ -12341,7 +12346,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 17789
+      "UsersEstimate": 17790
     },
     {
       "ID": "33",
@@ -12628,21 +12633,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 61343,
+      "Progressed": 61344,
       "Completed": 64
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 24811,
+      "Progressed": 24812,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-23T01:45:37.5527334+00:00",
+  "LastChanged_Achievements": "2023-08-23T02:20:20.4005295+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:35.5614422+00:00",
-  "LastUpdate_Ratings": "2023-08-23T01:38:37.4401939+00:00",
-  "LastUpdate_Achievements": "2023-08-23T01:45:37.5529085+00:00"
+  "LastUpdate_Ratings": "2023-08-23T02:12:57.8131044+00:00",
+  "LastUpdate_Achievements": "2023-08-23T02:20:20.4006684+00:00"
 }
