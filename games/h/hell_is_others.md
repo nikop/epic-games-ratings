@@ -5,13 +5,13 @@ Rating: 4.42 (Ranked 672)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~79,135 |
-| Predator I | 22.00% | ~56,160 |
-| Fixer I | 10.00% | ~25,527 |
-| A week in Century City | 10.00% | ~25,527 |
+| Survivor | 31.00% | ~79,136 |
+| Predator I | 22.00% | ~56,161 |
+| Fixer I | 10.00% | ~25,528 |
+| A week in Century City | 10.00% | ~25,528 |
 | The Wait | 7.00% | ~17,869 |
-| Green thumb I | 6.00% | ~15,316 |
-| Cleaning Company | 6.00% | ~15,316 |
+| Green thumb I | 6.00% | ~15,317 |
+| Cleaning Company | 6.00% | ~15,317 |
 | Well-oiled machine | 5.00% | ~12,764 |
 | Saver I | 5.00% | ~12,764 |
 | The Ascent | 4.00% | ~10,211 |
@@ -19,14 +19,14 @@ Rating: 4.42 (Ranked 672)
 | Vandalism | 4.00% | ~10,211 |
 | Capitalist I | 4.00% | ~10,211 |
 | Adrenaline | 3.00% | ~7,658 |
-| By a hair | 2.00% | ~5,105 |
-| Fixer II | 2.00% | ~5,105 |
-| It took a while | 2.00% | ~5,105 |
-| Samurai | 2.00% | ~5,105 |
-| I Left You a Present | 2.00% | ~5,105 |
-| Predator II | 2.00% | ~5,105 |
-| Truffle Dog | 2.00% | ~5,105 |
-| A month in Century City | 2.00% | ~5,105 |
+| By a hair | 2.00% | ~5,106 |
+| Fixer II | 2.00% | ~5,106 |
+| It took a while | 2.00% | ~5,106 |
+| Samurai | 2.00% | ~5,106 |
+| I Left You a Present | 2.00% | ~5,106 |
+| Predator II | 2.00% | ~5,106 |
+| Truffle Dog | 2.00% | ~5,106 |
+| A month in Century City | 2.00% | ~5,106 |
 | The Strengthening | 1.00% | ~2,553 |
 | Saver II | 1.00% | ~2,553 |
 | It's the last one, I swear | 1.00% | ~2,553 |
@@ -62,7 +62,7 @@ Rating: 4.42 (Ranked 672)
 | Capitalist III | 0.10% | ~255 |
 | Hell Is You | 0.10% | ~255 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,274 (Ranked 45)  
+Progressed: 255,276 (Ranked 45)  
 Completed: 3 (0.00%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,11 +187,11 @@ Completed: 3 (0.00%) (Ranked 261)
 | 2023-08-20 | 255,166 | 3 |
 | 2023-08-21 | 255,210 | 3 |
 | 2023-08-22 | 255,269 | 3 |
-| 2023-08-23 | 255,274 | 3 |
+| 2023-08-23 | 255,276 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 35  (Ranked 437)  
-Sum: 241 (Ranked 356)  
-Diff (max vs sum): 81  
+Sum: 242 (Ranked 355)  
+Diff (max vs sum): 82  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 35 |
@@ -199,7 +199,7 @@ Diff (max vs sum): 81
 | This game has Amazing Characters | 29 |
 | This game is Highly Recommended | 28 |
 | This game has Challenging Combat | 27 |
-| This game has a Competitive Community | 24 |
+| This game has a Competitive Community | 25 |
 | This game has Quickly Understood Controls | 22 |
 | This game has Competitive Players | 22 |
 | This game is Extremely Fun | 20 |
@@ -320,3 +320,4 @@ Diff (max vs sum): 81
 | 2023-08-14 | 4.41 | 35 | 239 |
 | 2023-08-18 | 4.42 | 35 | 239 |
 | 2023-08-21 | 4.42 | 35 | 241 |
+| 2023-08-23 | 4.42 | 35 | 242 |

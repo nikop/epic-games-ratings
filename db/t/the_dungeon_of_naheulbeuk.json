@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 24,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -696,9 +696,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 216068,
+  "EOS_Progressed": 216073,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3123,
+  "EOS_NewPlayers": 3114,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7941,6 +7941,11 @@
       "Time": "2023-08-23T02:16:46.2535501+00:00",
       "NumProgressed": 216068,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-23T03:03:34.5698681+00:00",
+      "NumProgressed": 216073,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -8400,7 +8405,7 @@
       "Name": "Sowwy!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 47535
+      "UsersEstimate": 47536
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -8608,7 +8613,7 @@
       "Name": "Team Building Exercise",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1512
+      "UsersEstimate": 1513
     },
     {
       "ID": "SystematicallyStupid",
@@ -8632,7 +8637,7 @@
       "Name": "Oh, when I\u0027ll be level 10...",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1512
+      "UsersEstimate": 1513
     },
     {
       "ID": "WizardEpic",
@@ -8655,21 +8660,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 216068,
+      "Progressed": 216073,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 216068,
+      "Progressed": 216073,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-22T20:01:13.7007257+00:00",
-  "LastChanged_Achievements": "2023-08-23T02:16:46.2535495+00:00",
+  "LastChanged_Achievements": "2023-08-23T03:03:34.5698677+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:36.4163589+00:00",
-  "LastUpdate_Ratings": "2023-08-23T02:14:28.7198086+00:00",
-  "LastUpdate_Achievements": "2023-08-23T02:16:46.2536996+00:00"
+  "LastUpdate_Ratings": "2023-08-23T03:01:41.6354964+00:00",
+  "LastUpdate_Achievements": "2023-08-23T03:03:34.570046+00:00"
 }

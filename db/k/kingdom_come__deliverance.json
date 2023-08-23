@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 16,
   "Ranking_EOS_Completed": 248,
   "Ranking_EOS_NewPlayers": 56,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -6690,9 +6690,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 798090,
+  "EOS_Progressed": 798092,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 891,
+  "EOS_NewPlayers": 890,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -20370,6 +20370,11 @@
       "Time": "2023-08-23T02:20:10.8093741+00:00",
       "NumProgressed": 798090,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-08-23T03:07:06.8794513+00:00",
+      "NumProgressed": 798092,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 82,
@@ -20405,7 +20410,7 @@
       "Name": "Anorectic",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 127694
+      "UsersEstimate": 127695
     },
     {
       "ID": "Awakening",
@@ -20429,7 +20434,7 @@
       "Name": "Bad Trip",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 39904
+      "UsersEstimate": 39905
     },
     {
       "ID": "Bailiff",
@@ -20485,7 +20490,7 @@
       "Name": "Casanova",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 47885
+      "UsersEstimate": 47886
     },
     {
       "ID": "Cavalier",
@@ -20493,7 +20498,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 199522
+      "UsersEstimate": 199523
     },
     {
       "ID": "Chivalrous",
@@ -20805,7 +20810,7 @@
       "Name": "Monk",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 39904
+      "UsersEstimate": 39905
     },
     {
       "ID": "NotSoChristianBurial",
@@ -20909,7 +20914,7 @@
       "Name": "Serial Killer",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 39904
+      "UsersEstimate": 39905
     },
     {
       "ID": "Sinner",
@@ -21036,15 +21041,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 798090,
+      "Progressed": 798092,
       "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-08-21T17:01:07.7444137+00:00",
-  "LastChanged_Achievements": "2023-08-23T02:20:10.8093737+00:00",
+  "LastChanged_Achievements": "2023-08-23T03:07:06.8794509+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:50.3701677+00:00",
-  "LastUpdate_Ratings": "2023-08-23T02:13:50.5111852+00:00",
-  "LastUpdate_Achievements": "2023-08-23T02:20:10.809552+00:00"
+  "LastUpdate_Ratings": "2023-08-23T03:01:04.4967653+00:00",
+  "LastUpdate_Achievements": "2023-08-23T03:07:06.8796766+00:00"
 }

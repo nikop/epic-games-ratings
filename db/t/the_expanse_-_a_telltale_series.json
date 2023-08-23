@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 51,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -17,7 +17,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8801,
+  "EOS_Progressed": 8804,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 950,
   "EOS_NewCompleters": 0,
@@ -2937,6 +2937,11 @@
       "Time": "2023-08-23T02:20:51.9428303+00:00",
       "NumProgressed": 8801,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-23T03:07:47.4247968+00:00",
+      "NumProgressed": 8804,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -2989,7 +2994,7 @@
       "Name": "Doctor Approved",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 1408
+      "UsersEstimate": 1409
     },
     {
       "ID": "15",
@@ -2997,7 +3002,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 1496
+      "UsersEstimate": 1497
     },
     {
       "ID": "16",
@@ -3125,7 +3130,7 @@
       "Name": "Captain Drummer",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1320
+      "UsersEstimate": 1321
     },
     {
       "ID": "30",
@@ -3188,14 +3193,14 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 8801,
+      "Progressed": 8804,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged_Achievements": "2023-08-23T02:20:51.9428297+00:00",
+  "LastChanged_Achievements": "2023-08-23T03:07:47.4247964+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:40.3624587+00:00",
-  "LastUpdate_Ratings": "2023-08-23T02:14:32.7009804+00:00",
-  "LastUpdate_Achievements": "2023-08-23T02:20:51.9428835+00:00"
+  "LastUpdate_Ratings": "2023-08-23T03:01:45.3279438+00:00",
+  "LastUpdate_Achievements": "2023-08-23T03:07:47.4248445+00:00"
 }

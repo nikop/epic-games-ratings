@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3530,9 +3530,9 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 11031,
+  "EOS_Progressed": 11032,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11160,6 +11160,11 @@
       "Time": "2023-08-22T22:05:17.2951177+00:00",
       "NumProgressed": 11031,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-23T03:06:12.9362301+00:00",
+      "NumProgressed": 11032,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -11371,7 +11376,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1213
+      "UsersEstimate": 1214
     },
     {
       "ID": "28_GreatUpstart",
@@ -12098,21 +12103,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9813,
+      "Progressed": 9814,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11031,
+      "Progressed": 11032,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-08-23T01:39:26.181825+00:00",
-  "LastChanged_Achievements": "2023-08-23T02:19:16.7176231+00:00",
+  "LastChanged_Achievements": "2023-08-23T03:06:12.9362297+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:48.9326646+00:00",
-  "LastUpdate_Ratings": "2023-08-23T02:13:48.7328678+00:00",
-  "LastUpdate_Achievements": "2023-08-23T02:19:16.7178364+00:00"
+  "LastUpdate_Ratings": "2023-08-23T03:01:02.4068743+00:00",
+  "LastUpdate_Achievements": "2023-08-23T03:06:12.9364819+00:00"
 }

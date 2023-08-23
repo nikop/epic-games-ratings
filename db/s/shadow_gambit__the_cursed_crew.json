@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 445,
+  "EOS_Progressed": 446,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 414,
+  "EOS_NewPlayers": 415,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -781,6 +781,11 @@
       "Time": "2023-08-23T01:43:09.9454017+00:00",
       "NumProgressed": 445,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-23T03:04:46.4387166+00:00",
+      "NumProgressed": 446,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -801,7 +806,7 @@
       "Name": "A New Journey",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "_03_FinishAct1",
@@ -809,23 +814,23 @@
       "Name": "The Adventure Begins",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "_04_CollectAllRelics",
       "SetID": "8a1io5d",
       "Name": "This Belongs in a Museum",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 107
     },
     {
       "ID": "_05_FinishAct2",
       "SetID": "8a1io5d",
       "Name": "The Gambit Has Begun",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 80
+      "UsersEstimate": 76
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -833,7 +838,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "_07_FinishAct3",
@@ -1000,14 +1005,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 445,
+      "Progressed": 446,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-23T02:17:49.3002463+00:00",
+  "LastChanged_Achievements": "2023-08-23T03:04:46.4387161+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:01.7621403+00:00",
-  "LastUpdate_Ratings": "2023-08-23T02:13:19.4033049+00:00",
-  "LastUpdate_Achievements": "2023-08-23T02:17:49.3002767+00:00"
+  "LastUpdate_Ratings": "2023-08-23T03:00:34.0445318+00:00",
+  "LastUpdate_Achievements": "2023-08-23T03:04:46.4387433+00:00"
 }

@@ -62,6 +62,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Trash to Treasure | 0.30% | ~405 |
 | Royal Ransom | 0.30% | ~405 |
 | Mammonite | 0.30% | ~405 |
+| Fat Cat Tag Team | 0.30% | ~405 |
 | Laden with Loot | 0.30% | ~405 |
 | Seasoned Journeyman | 0.30% | ~405 |
 | Attrition Mission | 0.30% | ~405 |
@@ -87,7 +88,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | By Your Powers Combined... | 0.20% | ~270 |
 | A Legend is Born | 0.20% | ~270 |
 | Wealth Beyond Measure | 0.20% | ~270 |
-| Fat Cat Tag Team | 0.20% | ~270 |
 | Necromancer Queen | 0.20% | ~270 |
 | Jackpot! | 0.20% | ~270 |
 | Item of Renown | 0.20% | ~270 |

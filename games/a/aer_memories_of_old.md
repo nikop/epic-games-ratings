@@ -27,7 +27,7 @@ Number of Ratings: 170  (23.09.2022)
 | Written in stone | 6.00% | ~1,107 |
 | Hide and Seek | 5.00% | ~923 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,452 (Ranked 109)  
+Progressed: 18,453 (Ranked 109)  
 Completed: 373 (2.02%) (Ranked 92)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,7 +152,7 @@ Completed: 373 (2.02%) (Ranked 92)
 | 2023-08-20 | 18,310 | 372 |
 | 2023-08-21 | 18,366 | 373 |
 | 2023-08-22 | 18,439 | 373 |
-| 2023-08-23 | 18,452 | 373 |
+| 2023-08-23 | 18,453 | 373 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

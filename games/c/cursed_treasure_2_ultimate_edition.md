@@ -19,11 +19,11 @@
 | Sergeant of the Evil | 74.00% | ~122 |
 | Drunken Master | 73.00% | ~120 |
 | V.I.P. Cemetery | 72.00% | ~119 |
+| Top of the World | 70.00% | ~115 |
 | Takeover | 70.00% | ~115 |
 | Woodcutter | 70.00% | ~115 |
 | Sharpshooter | 70.00% | ~115 |
 | Architect of Darkness | 70.00% | ~115 |
-| Top of the World | 69.00% | ~114 |
 | The Apotheosis of War | 68.00% | ~112 |
 | Stasis Alcatraz | 67.00% | ~111 |
 | Tastes Like Chicken | 63.00% | ~104 |

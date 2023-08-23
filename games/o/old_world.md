@@ -105,6 +105,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Capable | 0.60% | ~81 |
 | Ready | 0.60% | ~81 |
 | Subjugator | 0.60% | ~81 |
+| Landowners | 0.60% | ~81 |
 | Riders | 0.60% | ~81 |
 | Church of the Holy Sepulchre | 0.60% | ~81 |
 | Carthage | 0.60% | ~81 |
@@ -119,7 +120,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Devout | 0.50% | ~68 |
 | Strong Difficulty | 0.50% | ~68 |
 | Hunters | 0.50% | ~68 |
-| Landowners | 0.50% | ~68 |
 | Adur Burzen-Mihr | 0.50% | ~68 |
 | Babylonia | 0.50% | ~68 |
 | One True Faith | 0.50% | ~68 |
@@ -141,6 +141,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Paganism | 0.40% | ~54 |
 | Cataphract Archer | 0.40% | ~54 |
 | All Nations | 0.40% | ~54 |
+| Pilgrimage | 0.40% | ~54 |
 | Ancient | 0.30% | ~41 |
 | Glorious Difficulty | 0.30% | ~41 |
 | Noble Difficulty | 0.30% | ~41 |
@@ -151,7 +152,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ten Crowns | 0.30% | ~41 |
 | Three Man Chariot | 0.30% | ~41 |
 | Conquest Victory | 0.30% | ~41 |
-| Pilgrimage | 0.30% | ~41 |
 | Patriarch St Paul | 0.30% | ~41 |
 | Hypatia the Teacher | 0.30% | ~41 |
 | Bronze Victory (Carthage 1) | 0.20% | ~27 |
