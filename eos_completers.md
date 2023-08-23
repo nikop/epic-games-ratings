@@ -51,7 +51,7 @@
 | 49 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.33% |
 | 50 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.13% |
 | 51 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.97% |
-| 52 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.79% |
+| 52 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.78% |
 | 53 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 4.76% |
 | 54 | [Bugsnax](games/b/bugsnax.md) | 4.72% |
 | 55 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
@@ -59,8 +59,8 @@
 | 57 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.44% |
 | 58 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
 | 59 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.13% |
-| 60 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 4.11% |
 | 60 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.11% |
+| 61 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 4.03% |
 | 62 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.95% |
 | 63 | [ZZT!](games/z/zzt!.md) | 3.87% |
 | 64 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
@@ -69,8 +69,8 @@
 | 67 | [Doodle God](games/d/doodle_god.md) | 3.43% |
 | 68 | [Bunny Park](games/b/bunny_park.md) | 3.37% |
 | 69 | [The Complex](games/t/the_complex.md) | 3.35% |
-| 70 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.31% |
-| 71 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.30% |
+| 70 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.30% |
+| 71 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.28% |
 | 72 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.16% |
 | 73 | [HordeCore](games/h/hordecore.md) | 3.15% |
 | 74 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.04% |
@@ -86,7 +86,7 @@
 | 84 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.56% |
 | 85 | [Lamentum](games/l/lamentum.md) | 2.53% |
 | 86 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 87 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.48% |
+| 87 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.46% |
 | 88 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.35% |
 | 89 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.26% |
 | 90 | [Bloodshore](games/b/bloodshore.md) | 2.21% |
@@ -124,7 +124,7 @@
 | 122 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.96% |
 | 123 | [Hades](games/h/hades.md) | 0.90% |
 | 124 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
-| 125 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
+| 125 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
 | 126 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.80% |
 | 127 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.75% |
 | 128 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.74% |
