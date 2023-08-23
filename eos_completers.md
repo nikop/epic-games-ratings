@@ -30,9 +30,9 @@
 | 28 | [Remains](games/r/remains.md) | 10.64% |
 | 29 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.32% |
 | 30 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
-| 31 | [Sonic Origins](games/s/sonic_origins.md) | 9.47% |
+| 31 | [Sonic Origins](games/s/sonic_origins.md) | 9.42% |
 | 32 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.09% |
-| 33 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.03% |
+| 33 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.02% |
 | 34 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.48% |
 | 35 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 7.89% |
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.51% |
@@ -51,7 +51,7 @@
 | 48 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.36% |
 | 50 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.33% |
 | 51 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.13% |
-| 52 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.96% |
+| 52 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 5.00% |
 | 53 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.78% |
 | 54 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 4.76% |
 | 55 | [Bugsnax](games/b/bugsnax.md) | 4.72% |
@@ -64,9 +64,9 @@
 | 62 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.95% |
 | 63 | [ZZT!](games/z/zzt!.md) | 3.87% |
 | 64 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
-| 65 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 3.59% |
-| 66 | [Without Escape](games/w/without_escape.md) | 3.57% |
-| 67 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
+| 65 | [Without Escape](games/w/without_escape.md) | 3.57% |
+| 66 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
+| 67 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 3.49% |
 | 68 | [Doodle God](games/d/doodle_god.md) | 3.43% |
 | 69 | [Bunny Park](games/b/bunny_park.md) | 3.37% |
 | 70 | [The Complex](games/t/the_complex.md) | 3.35% |
@@ -554,4 +554,4 @@
 | 262 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 262 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 262 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,100 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,101 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
