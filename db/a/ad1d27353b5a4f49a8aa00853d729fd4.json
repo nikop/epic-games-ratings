@@ -4,7 +4,7 @@
   "ProductSlug": "space-elite-force-a00006",
   "Ranking_EOS_Progress": 413,
   "Ranking_EOS_Completed": 32,
-  "Ranking_EOS_NewPlayers": 314,
+  "Ranking_EOS_NewPlayers": 313,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-07-27T13:00:00+00:00",
@@ -343,9 +343,9 @@
       "ID": "super_killing_machine",
       "SetID": "94981fl",
       "Name": "super killing machine",
-      "Percentage": 68,
+      "Percentage": 73,
       "XP": 35,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "super_shield",
@@ -398,8 +398,8 @@
   ],
   "FirstSeen": "2023-08-06T03:57:23.4648086+00:00",
   "FirstSeenAchievements": "2023-07-21T11:01:15.84918+00:00",
-  "LastChanged_Achievements": "2023-08-23T06:05:26.1182482+00:00",
+  "LastChanged_Achievements": "2023-08-23T07:06:39.3858038+00:00",
   "LastUpdate_AppInfo": "2023-08-18T13:00:07.9458229+00:00",
-  "LastUpdate_Ratings": "2023-08-23T05:58:31.2842272+00:00",
-  "LastUpdate_Achievements": "2023-08-23T06:05:26.1182664+00:00"
+  "LastUpdate_Ratings": "2023-08-23T06:59:18.3574544+00:00",
+  "LastUpdate_Achievements": "2023-08-23T07:06:39.3858246+00:00"
 }

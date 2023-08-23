@@ -6,15 +6,15 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~928,040 |
-| I Need a Bigger Garage | 63.00% | ~649,628 |
-| Pump my Ride | 47.00% | ~484,643 |
-| Ghostbuster | 33.00% | ~340,281 |
-| That Was Close | 18.00% | ~185,608 |
-| Call Roadside Assistance | 17.00% | ~175,296 |
-| Quickie | 11.00% | ~113,427 |
-| California Dreamer | 7.00% | ~72,181 |
-| Can't Touch This | 5.00% | ~51,558 |
+| The First of Many | 90.00% | ~928,056 |
+| I Need a Bigger Garage | 63.00% | ~649,639 |
+| Pump my Ride | 47.00% | ~484,651 |
+| Ghostbuster | 33.00% | ~340,287 |
+| That Was Close | 18.00% | ~185,611 |
+| Call Roadside Assistance | 17.00% | ~175,299 |
+| Quickie | 11.00% | ~113,429 |
+| California Dreamer | 7.00% | ~72,182 |
+| Can't Touch This | 5.00% | ~51,559 |
 | Carménère Taster | 3.00% | ~30,935 |
 | Supersonic | 3.00% | ~30,935 |
 | Comeback | 3.00% | ~30,935 |
@@ -32,8 +32,8 @@ Number of Ratings: 1,343  (23.09.2022)
 | Round the Globe | 1.00% | ~10,312 |
 | Golden Passport | 1.00% | ~10,312 |
 | Brave and Bold | 1.00% | ~10,312 |
-| Crocodile Hunter | 0.90% | ~9,280 |
-| Old Master | 0.90% | ~9,280 |
+| Crocodile Hunter | 0.90% | ~9,281 |
+| Old Master | 0.90% | ~9,281 |
 | Volcano Surfer | 0.80% | ~8,249 |
 | Otaku | 0.80% | ~8,249 |
 | Survivor | 0.60% | ~6,187 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Transporter | 0.10% | ~1,031 |
 | Look Mom, No Hands! | 0.10% | ~1,031 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,031,155 (Ranked 12)  
+Progressed: 1,031,173 (Ranked 12)  
 Completed: 403 (0.04%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,7 +169,7 @@ Completed: 403 (0.04%) (Ranked 232)
 | 2023-08-20 | 1,030,009 | 401 |
 | 2023-08-21 | 1,030,539 | 402 |
 | 2023-08-22 | 1,031,042 | 402 |
-| 2023-08-23 | 1,031,155 | 403 |
+| 2023-08-23 | 1,031,173 | 403 |
 ## Awards
 Max (Great for Beginners): 153  (Ranked 296)  
 Sum: 1,255 (Ranked 229)  

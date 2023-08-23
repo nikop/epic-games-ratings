@@ -4,7 +4,7 @@
   "ProductSlug": "blocklords-2a2ccd",
   "Ranking_EOS_Progress": 555,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-09-30T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-17T18:57:04.9731894+00:00",
-  "LastUpdate_Ratings": "2023-08-23T05:57:36.1619079+00:00",
-  "LastUpdate_Achievements": "2023-08-23T06:03:35.1217844+00:00"
+  "LastUpdate_Ratings": "2023-08-23T06:57:50.8510913+00:00",
+  "LastUpdate_Achievements": "2023-08-23T07:03:52.6238866+00:00"
 }

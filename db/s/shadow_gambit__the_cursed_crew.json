@@ -822,9 +822,9 @@
       "ID": "_03_FinishAct1",
       "SetID": "8a1io5d",
       "Name": "The Adventure Begins",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 224
+      "UsersEstimate": 229
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -974,9 +974,9 @@
       "ID": "_22_CrewTale_FSH",
       "SetID": "8a1io5d",
       "Name": "Accursed Artifacts",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 13
     },
     {
       "ID": "_23_CrewTale_CNN",
@@ -1021,8 +1021,8 @@
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-23T06:04:09.8589131+00:00",
+  "LastChanged_Achievements": "2023-08-23T07:04:51.0391468+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:01.7621403+00:00",
-  "LastUpdate_Ratings": "2023-08-23T05:59:39.1353022+00:00",
-  "LastUpdate_Achievements": "2023-08-23T06:04:09.8589313+00:00"
+  "LastUpdate_Ratings": "2023-08-23T07:01:06.3649823+00:00",
+  "LastUpdate_Achievements": "2023-08-23T07:04:51.0391711+00:00"
 }

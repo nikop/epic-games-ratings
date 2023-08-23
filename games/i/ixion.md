@@ -28,12 +28,12 @@ Rating: 4.55 (Ranked 485)
 | Convenient Transport | 6.00% | ~186 |
 | Access Granted | 5.00% | ~155 |
 | Necessary Enhancement | 5.00% | ~155 |
+| All in Good Health | 5.00% | ~155 |
 | From the Past | 5.00% | ~155 |
 | Oats | 4.00% | ~124 |
 | What They Hide From Us | 4.00% | ~124 |
 | ...  in a finite world | 4.00% | ~124 |
 | BRAWL! | 4.00% | ~124 |
-| All in Good Health | 4.00% | ~124 |
 | What the Ruins Teach Us | 4.00% | ~124 |
 | Sustainable Energy | 3.00% | ~93 |
 | In Dolos We Trust | 3.00% | ~93 |

@@ -3354,9 +3354,9 @@
       "Count": 1056
     }
   ],
-  "EOS_Progressed": 63196,
+  "EOS_Progressed": 63198,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 1229,
+  "EOS_NewPlayers": 1228,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -17049,6 +17049,11 @@
       "Time": "2023-08-23T06:04:13.3086409+00:00",
       "NumProgressed": 63196,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-08-23T07:04:56.151316+00:00",
+      "NumProgressed": 63198,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 53,
@@ -17076,7 +17081,7 @@
       "Name": "Quality Time",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 10743
+      "UsersEstimate": 10744
     },
     {
       "ID": "buy_1_thing_from_every_store",
@@ -17108,7 +17113,7 @@
       "Name": "Finders Keepers",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 15167
+      "UsersEstimate": 15168
     },
     {
       "ID": "complet_epilogue_mission",
@@ -17148,7 +17153,7 @@
       "Name": "Showdown",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 9479
+      "UsersEstimate": 9480
     },
     {
       "ID": "complete_first_side_hustle",
@@ -17172,7 +17177,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 27174
+      "UsersEstimate": 27175
     },
     {
       "ID": "customize_a_vehicle",
@@ -17236,7 +17241,7 @@
       "Name": "A Young Empire",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 15167
+      "UsersEstimate": 15168
     },
     {
       "ID": "empire_tier_3",
@@ -17244,7 +17249,7 @@
       "Name": "Power Players",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 11375
+      "UsersEstimate": 11376
     },
     {
       "ID": "empire_tier_4",
@@ -17276,7 +17281,7 @@
       "Name": "Work Ethic",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 13903
+      "UsersEstimate": 13904
     },
     {
       "ID": "fully_upgrade_1_vehicle",
@@ -17292,7 +17297,7 @@
       "Name": "Kitted Out",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 8215
+      "UsersEstimate": 8216
     },
     {
       "ID": "get_betrayed",
@@ -17300,7 +17305,7 @@
       "Name": "Et tu?",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 10111
+      "UsersEstimate": 10112
     },
     {
       "ID": "get_fired",
@@ -17316,7 +17321,7 @@
       "Name": "Took It to The Limit",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 9479
+      "UsersEstimate": 9480
     },
     {
       "ID": "infinite_boost_refill",
@@ -17332,7 +17337,7 @@
       "Name": "Picking Fights",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 11375
+      "UsersEstimate": 11376
     },
     {
       "ID": "kill_enemy_with_tetherd_object",
@@ -17412,7 +17417,7 @@
       "Name": "Food for Thought",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 15799
+      "UsersEstimate": 15800
     },
     {
       "ID": "two_thirds_purple",
@@ -17444,7 +17449,7 @@
       "Name": "To The Nines",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 24646
+      "UsersEstimate": 24647
     },
     {
       "ID": "whole_map_purple",
@@ -17483,13 +17488,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 63196,
+      "Progressed": 63198,
       "Completed": 43
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 34833,
+      "Progressed": 34835,
       "Completed": 3365
     }
   ],
@@ -17497,8 +17502,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-08-22T22:57:45.6000433+00:00",
-  "LastChanged_Achievements": "2023-08-23T06:04:13.3086405+00:00",
+  "LastChanged_Achievements": "2023-08-23T07:04:56.1513155+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:35.8690395+00:00",
-  "LastUpdate_Ratings": "2023-08-23T05:57:39.4949252+00:00",
-  "LastUpdate_Achievements": "2023-08-23T06:04:13.3087367+00:00"
+  "LastUpdate_Ratings": "2023-08-23T06:57:57.5437901+00:00",
+  "LastUpdate_Achievements": "2023-08-23T07:04:56.1514583+00:00"
 }

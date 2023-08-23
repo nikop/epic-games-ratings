@@ -4,7 +4,7 @@
   "ProductSlug": "screamer-2-ae0386",
   "Ranking_EOS_Progress": 555,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-07-15T16:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:03.925249+00:00",
   "LastChanged": "2023-03-31T05:58:03.9252491+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:57.688913+00:00",
-  "LastUpdate_Ratings": "2023-08-23T06:00:09.9105356+00:00",
-  "LastUpdate_Achievements": "2023-08-23T06:06:16.0361185+00:00"
+  "LastUpdate_Ratings": "2023-08-23T07:01:49.5154911+00:00",
+  "LastUpdate_Achievements": "2023-08-23T07:07:48.9998717+00:00"
 }

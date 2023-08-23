@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A New Journey | 73.00% | ~328 |
-| The Adventure Begins | 50.00% | ~224 |
+| The Adventure Begins | 51.00% | ~229 |
 | Swabbie | 33.00% | ~148 |
 | With Great Power… | 28.00% | ~126 |
 | This Belongs in a Museum | 24.00% | ~108 |
@@ -22,10 +22,10 @@
 | Rustic Recipe | 4.00% | ~18 |
 | All Good Things | 3.00% | ~13 |
 | Privateer | 3.00% | ~13 |
+| Accursed Artifacts | 3.00% | ~13 |
 | Lyrical Longing | 3.00% | ~13 |
 | Corsair | 2.00% | ~9 |
 | Tobacco Travesty | 2.00% | ~9 |
-| Accursed Artifacts | 2.00% | ~9 |
 | Freebooter | 0.90% | ~4 |
 | Fully Decked | 0.90% | ~4 |
 | Marauder | 0.40% | ~2 |

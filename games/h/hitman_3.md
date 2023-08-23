@@ -6,26 +6,26 @@ Number of Ratings: 21,082  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unseen Assassin | 46.00% | ~609,178 |
-| Death From Above | 46.00% | ~609,178 |
-| Master of the Household | 38.00% | ~503,234 |
-| Death of the Party | 36.00% | ~476,748 |
-| NEXUS-47 | 33.00% | ~437,019 |
-| The Last Tango | 32.00% | ~423,776 |
-| Nightmare Fuel | 31.00% | ~410,533 |
-| The Result of Previous Training | 28.00% | ~370,804 |
-| Tools of the Trade | 28.00% | ~370,804 |
-| Cleared for Field Duty | 27.00% | ~357,561 |
-| Seizing the Opportunity | 25.00% | ~331,075 |
-| Bullet Train | 21.00% | ~278,103 |
-| Stylish Assassin | 20.00% | ~264,860 |
-| Silent Assassin | 14.00% | ~185,402 |
-| Rise Up | 13.00% | ~172,159 |
-| Evil Wine Club | 11.00% | ~145,673 |
-| Console Cowboy | 10.00% | ~132,430 |
-| Last Stop | 10.00% | ~132,430 |
-| A New Profile | 9.00% | ~119,187 |
-| Full House | 9.00% | ~119,187 |
+| Unseen Assassin | 46.00% | ~609,181 |
+| Death From Above | 46.00% | ~609,181 |
+| Master of the Household | 38.00% | ~503,236 |
+| Death of the Party | 36.00% | ~476,750 |
+| NEXUS-47 | 33.00% | ~437,021 |
+| The Last Tango | 32.00% | ~423,778 |
+| Nightmare Fuel | 31.00% | ~410,535 |
+| The Result of Previous Training | 28.00% | ~370,806 |
+| Tools of the Trade | 28.00% | ~370,806 |
+| Cleared for Field Duty | 27.00% | ~357,563 |
+| Seizing the Opportunity | 25.00% | ~331,076 |
+| Bullet Train | 21.00% | ~278,104 |
+| Stylish Assassin | 20.00% | ~264,861 |
+| Silent Assassin | 14.00% | ~185,403 |
+| Rise Up | 13.00% | ~172,160 |
+| Evil Wine Club | 11.00% | ~145,674 |
+| Console Cowboy | 10.00% | ~132,431 |
+| Last Stop | 10.00% | ~132,431 |
+| A New Profile | 9.00% | ~119,188 |
+| Full House | 9.00% | ~119,188 |
 | Dune Raider | 8.00% | ~105,944 |
 | No Stone Unturned | 8.00% | ~105,944 |
 | Train Surfing | 8.00% | ~105,944 |
@@ -54,7 +54,7 @@ Number of Ratings: 21,082  (23.09.2022)
 | Ripe for the Picking | 1.00% | ~13,243 |
 | The Creative Assassin | 0.70% | ~9,270 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,324,299 (Ranked 9)  
+Progressed: 1,324,306 (Ranked 9)  
 Completed: 2,128 (0.16%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 2,128 (0.16%) (Ranked 194)
 | 2023-08-20 | 1,323,475 | 2,125 |
 | 2023-08-21 | 1,323,863 | 2,128 |
 | 2023-08-22 | 1,324,224 | 2,128 |
-| 2023-08-23 | 1,324,299 | 2,128 |
+| 2023-08-23 | 1,324,306 | 2,128 |
 ## Awards
 Max (Diverse Characters): 9,790  (Ranked 38)  
 Sum: 69,889 (Ranked 20)  
