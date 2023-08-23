@@ -38,7 +38,7 @@
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.51% |
 | 37 | [Smelter](games/s/smelter.md) | 7.50% |
 | 38 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 7.14% |
-| 39 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.07% |
+| 39 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.06% |
 | 40 | [Scorn](games/s/scorn.md) | 7.00% |
 | 41 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.90% |
 | 42 | [Time Loader](games/t/time_loader.md) | 6.78% |
@@ -64,18 +64,18 @@
 | 62 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.95% |
 | 63 | [ZZT!](games/z/zzt!.md) | 3.87% |
 | 64 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
-| 64 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 3.85% |
+| 65 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 3.80% |
 | 66 | [Without Escape](games/w/without_escape.md) | 3.57% |
 | 67 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 68 | [Doodle God](games/d/doodle_god.md) | 3.43% |
-| 69 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.41% |
+| 69 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.40% |
 | 70 | [Bunny Park](games/b/bunny_park.md) | 3.37% |
 | 71 | [The Complex](games/t/the_complex.md) | 3.35% |
 | 72 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.30% |
 | 73 | [HordeCore](games/h/hordecore.md) | 3.15% |
 | 74 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.14% |
-| 75 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.04% |
 | 75 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.04% |
+| 76 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 3.03% |
 | 77 | [Monster Harvest](games/m/monster_harvest.md) | 2.94% |
 | 78 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 79 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.78% |

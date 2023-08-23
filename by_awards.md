@@ -13,7 +13,7 @@
 | 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 60,276 | 4.58 | 426 |
 | 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 43,418 | 4.61 | 366 |
 | 13 | [Destiny 2](games/d/destiny_2.md) | 36,510 | 4.49 | 577 |
-| 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 36,309 | 4.74 | 146 |
+| 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 36,348 | 4.74 | 146 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 31,390 | 4.52 | 527 |
 | 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,797 | 4.64 | 314 |
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 21,884 | 4.77 | 109 |
@@ -210,7 +210,7 @@
 | 208 | [RimWorld](games/r/rimworld.md) | 430 | 4.89 | 13 |
 | 209 | [Against the Storm](games/a/against_the_storm.md) | 424 | 4.81 | 76 |
 | 210 | [Into the Breach](games/i/into_the_breach.md) | 417 | 4.84 | 49 |
-| 211 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 416 | 4.60 | 392 |
+| 210 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 417 | 4.60 | 392 |
 | 212 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 411 | 4.73 | 164 |
 | 212 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 411 | 4.50 | 558 |
 | 214 | [Warface](games/w/warface.md) | 407 | 3.91 | 953 |
