@@ -161,6 +161,7 @@
 | [DEATH STRANDING](../games/d/death_stranding.md) | 63 | 1,000 |
 | [DEATH STRANDING DIRECTOR'S CUT](../games/d/death_stranding_director's_cut.md) | 63 | 1,000 |
 | [Deceive Inc.](../games/d/deceive_inc..md) | 36 | 1,000 |
+| [DEEEER Simulator: Your Average Everyday Deer Game](../games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 17 | 1,000 |
 | [Defense Grid: The Awakening](../games/d/defense_grid__the_awakening.md) | 87 | 1,000 |
 | [Deliver Us Mars](../games/d/deliver_us_mars.md) | 33 | 1,000 |
 | [Delivery from the Pain](../games/d/delivery_from_the_pain.md) | 81 | 1,000 |
