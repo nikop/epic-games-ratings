@@ -512,7 +512,7 @@
 | 502 | [Rebel Cops](games/r/rebel_cops.md) | 4.54 | 0 | 514 |
 | 502 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 94 | 348 |
 | 502 | [Souldiers](games/s/souldiers.md) | 4.54 | 0 | 514 |
-| 502 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 510 | 197 |
+| 502 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 511 | 197 |
 | 514 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 514 |
 | 514 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.53 | 24 | 483 |
 | 514 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 514 |
@@ -530,7 +530,7 @@
 | 527 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 31,390 | 15 |
 | 527 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 21 | 502 |
 | 527 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.52 | 34 | 441 |
-| 527 | [Fall Guys](games/f/fall_guys.md) | 4.52 | 146,719 | 7 |
+| 527 | [Fall Guys](games/f/fall_guys.md) | 4.52 | 146,774 | 7 |
 | 527 | [For Honor Standard Edition](games/f/for_honor_standard_edition.md) | 4.52 | 0 | 514 |
 | 527 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 529 | 196 |
 | 527 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 102 | 335 |
@@ -546,8 +546,8 @@
 | 543 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,114 | 80 |
 | 543 | [CryoFall](games/c/cryofall.md) | 4.51 | 0 | 514 |
 | 543 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 41 | 423 |
-| 543 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.51 | 2,675 | 96 |
-| 543 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 107 | 329 |
+| 543 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.51 | 2,678 | 96 |
+| 543 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 108 | 328 |
 | 543 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 148 | 299 |
 | 543 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 189 | 277 |
 | 543 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.51 | 0 | 514 |
@@ -630,7 +630,7 @@
 | 625 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.46 | 0 | 514 |
 | 625 | [Chorus](games/c/chorus.md) | 4.46 | 32 | 456 |
 | 625 | [Figment](games/f/figment.md) | 4.46 | 20 | 509 |
-| 625 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 107 | 329 |
+| 625 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 107 | 330 |
 | 625 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 0 | 514 |
 | 625 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.46 | 0 | 514 |
 | 625 | [Runbow](games/r/runbow.md) | 4.46 | 0 | 514 |
@@ -716,7 +716,7 @@
 | 711 | [Democracy 4](games/d/democracy_4.md) | 4.39 | 0 | 514 |
 | 711 | [F1® Manager 2023](games/3/38b4b40752b142e5a503acbb241a8b3c.md) | 4.39 | 0 | 514 |
 | 711 | [Hero's Hour](games/h/hero's_hour.md) | 4.39 | 0 | 514 |
-| 711 | [MORDHAU](games/m/mordhau.md) | 4.39 | 539 | 194 |
+| 711 | [MORDHAU](games/m/mordhau.md) | 4.39 | 541 | 194 |
 | 711 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,748 | 32 |
 | 711 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 4.39 | 0 | 514 |
 | 711 | [Startup Panic](games/s/startup_panic.md) | 4.39 | 0 | 514 |
@@ -801,7 +801,7 @@
 | 798 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.29 | 0 | 514 |
 | 798 | [Dark Light](games/d/dark_light.md) | 4.29 | 0 | 514 |
 | 798 | [ELEX II](games/e/elex_ii.md) | 4.29 | 0 | 514 |
-| 798 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,598,291 | 1 |
+| 798 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,600,636 | 1 |
 | 798 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 719 | 166 |
 | 798 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 44 | 418 |
 | 798 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 142 | 303 |
@@ -922,7 +922,7 @@
 | 917 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 0 | 514 |
 | 917 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.08 | 0 | 514 |
 | 917 | [The World Next Door](games/t/the_world_next_door.md) | 4.08 | 0 | 514 |
-| 923 | [Godfall Ultimate Edition](games/g/godfall.md) | 4.07 | 539 | 194 |
+| 923 | [Godfall Ultimate Edition](games/g/godfall.md) | 4.07 | 539 | 195 |
 | 923 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.07 | 181 | 281 |
 | 925 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 5,179 | 68 |
 | 926 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.05 | 0 | 514 |

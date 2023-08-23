@@ -1,12 +1,12 @@
 | # | Game | Awards | Rating | Rating Ranking |
 | - | ---- | ------ | ------ | -------------- |
-| 1 | [Fortnite](games/f/fortnite.md) | 1,598,291 | 4.29 | 798 |
+| 1 | [Fortnite](games/f/fortnite.md) | 1,600,636 | 4.29 | 798 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 508,724 | 4.49 | 577 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 303,557 | 4.68 | 238 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 215,199 | 4.68 | 238 |
 | 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 195,453 | 4.19 | 868 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 169,335 | 4.88 | 19 |
-| 7 | [Fall Guys](games/f/fall_guys.md) | 146,719 | 4.52 | 527 |
+| 7 | [Fall Guys](games/f/fall_guys.md) | 146,774 | 4.52 | 527 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 115,097 | 4.69 | 216 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 76,110 | 4.62 | 348 |
 | 10 | [VALORANT](games/v/valorant.md) | 65,865 | 4.53 | 514 |
@@ -95,7 +95,7 @@
 | 93 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3,207 | 3.98 | 941 |
 | 94 | [Trackmania](games/t/trackmania.md) | 3,166 | 4.67 | 256 |
 | 95 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 2,765 | 4.82 | 65 |
-| 96 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,675 | 4.51 | 543 |
+| 96 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,678 | 4.51 | 543 |
 | 97 | [Among Us](games/a/among_us.md) | 2,627 | 4.57 | 451 |
 | 98 | [Path of Exile](games/p/path_of_exile.md) | 2,573 | 4.61 | 366 |
 | 99 | [RAGE 2](games/r/rage_2.md) | 2,526 | 4.27 | 814 |
@@ -193,10 +193,10 @@
 | 191 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 560 | 4.62 | 348 |
 | 192 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 557 | 4.41 | 685 |
 | 193 | [Vampyr](games/v/vampyr.md) | 555 | 4.32 | 778 |
-| 194 | [Godfall Ultimate Edition](games/g/godfall.md) | 539 | 4.07 | 923 |
-| 194 | [MORDHAU](games/m/mordhau.md) | 539 | 4.39 | 711 |
+| 194 | [MORDHAU](games/m/mordhau.md) | 541 | 4.39 | 711 |
+| 195 | [Godfall Ultimate Edition](games/g/godfall.md) | 539 | 4.07 | 923 |
 | 196 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 529 | 4.52 | 527 |
-| 197 | [Terraforming Mars](games/t/terraforming_mars.md) | 510 | 4.54 | 502 |
+| 197 | [Terraforming Mars](games/t/terraforming_mars.md) | 511 | 4.54 | 502 |
 | 198 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 492 | 4.86 | 30 |
 | 199 | [Prison Architect](games/p/prison_architect.md) | 487 | 4.61 | 366 |
 | 200 | [Ghostrunner](games/g/ghostrunner.md) | 482 | 4.72 | 170 |
@@ -328,8 +328,8 @@
 | 326 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 112 | 4.36 | 741 |
 | 327 | [Faeria](games/f/faeria.md) | 110 | 4.45 | 637 |
 | 328 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 108 | 4.50 | 558 |
-| 329 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 107 | 4.46 | 625 |
-| 329 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 107 | 4.51 | 543 |
+| 328 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 108 | 4.51 | 543 |
+| 330 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 107 | 4.46 | 625 |
 | 331 | [Phantom Brigade](games/p/phantom_brigade.md) | 105 | 4.61 | 366 |
 | 331 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 105 | 4.39 | 711 |
 | 333 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 103 | 3.91 | 954 |
