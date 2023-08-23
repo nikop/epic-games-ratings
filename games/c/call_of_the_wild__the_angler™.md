@@ -7,15 +7,15 @@ Number of Ratings: 281  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Fish Just Got Reel | 77.00% | ~3,818 |
-| Hey Good Hookin | 67.00% | ~3,322 |
+| Hey Good Hookin | 67.00% | ~3,323 |
 | I'm on a Boat! | 58.00% | ~2,876 |
 | Can you smell what the Rod is Hooking | 51.00% | ~2,529 |
 | Scaling up | 51.00% | ~2,529 |
 | Ready to Rod and Roll | 43.00% | ~2,132 |
 | More Fish in the Sea | 43.00% | ~2,132 |
-| License to Gill | 34.00% | ~1,686 |
 | Fish Out of Water | 33.00% | ~1,636 |
-| Things that go Splash in the Night | 28.00% | ~1,388 |
+| License to Gill | 33.00% | ~1,636 |
+| Things that go Splash in the Night | 28.00% | ~1,389 |
 | Goldfish? | 27.00% | ~1,339 |
 | Going for Gold | 25.00% | ~1,240 |
 | I'm Hooked! | 19.00% | ~942 |
@@ -23,8 +23,8 @@ Number of Ratings: 281  (23.09.2022)
 | More than a Tourist | 12.00% | ~595 |
 | Hook, Line and Sinker | 8.00% | ~397 |
 | Marathon | 8.00% | ~397 |
-| I'm the Captain Now | 6.00% | ~297 |
-| Big Fish Small Pond | 6.00% | ~297 |
+| I'm the Captain Now | 6.00% | ~298 |
+| Big Fish Small Pond | 6.00% | ~298 |
 | School's Out for Summer | 5.00% | ~248 |
 | The Beetles | 3.00% | ~149 |
 | Gonna Need a Bigger Boat | 3.00% | ~149 |
@@ -42,7 +42,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.10% | ~4 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,958 (Ranked 145)  
+Progressed: 4,959 (Ranked 145)  
 Completed: 0 (0.00%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,17 +167,17 @@ Completed: 0 (0.00%) (Ranked 262)
 | 2023-08-20 | 4,942 | 0 |
 | 2023-08-21 | 4,951 | 0 |
 | 2023-08-22 | 4,955 | 0 |
-| 2023-08-23 | 4,958 | 0 |
+| 2023-08-23 | 4,959 | 0 |
 ## Awards
 Max (Relaxing): 33  (Ranked 448)  
-Sum: 161 (Ranked 392)  
-Diff (max vs sum): 56  
+Sum: 163 (Ranked 389)  
+Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 33 |
 | This game has Amazing Storytelling | 31 |
 | This game is Highly Recommended | 28 |
-| This game is Extremely Fun | 25 |
+| This game is Extremely Fun | 27 |
 | This game is Great for Beginners | 24 |
 | This game has Quickly Understood Controls | 20 |
 ## Ratings History
@@ -237,4 +237,4 @@ Diff (max vs sum): 56
 | 2023-08-12 | 4.14 | - | 32 | 159 |
 | 2023-08-14 | 4.15 | - | 32 | 159 |
 | 2023-08-20 | 4.15 | - | 33 | 161 |
-| 2023-08-23 | 4.16 | - | 33 | 161 |
+| 2023-08-23 | 4.16 | - | 33 | 163 |

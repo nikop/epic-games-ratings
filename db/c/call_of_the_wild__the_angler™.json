@@ -4,7 +4,7 @@
   "ProductSlug": "call-of-the-wild-the-angler",
   "Ranking_Rating": 885,
   "Ranking_Popularity": 448,
-  "Ranking_PopularitySum": 392,
+  "Ranking_PopularitySum": 389,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 262,
   "Ranking_EOS_NewPlayers": 133,
@@ -584,10 +584,16 @@
       "Rating": 4.16,
       "NumberOfAwards": 161,
       "NumberOfAwardsMax": 33
+    },
+    {
+      "Time": "2023-08-23T22:57:56.9776439+00:00",
+      "Rating": 4.16,
+      "NumberOfAwards": 163,
+      "NumberOfAwardsMax": 33
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 161,
+  "NumberOfAwards": 163,
   "NumberOfAwardsMax": 33,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -613,7 +619,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 25
+      "Count": 27
     },
     {
       "Text": "This game is Great for Beginners",
@@ -628,9 +634,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4958,
+  "EOS_Progressed": 4959,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5738,6 +5744,11 @@
       "Time": "2023-08-23T20:05:32.3824717+00:00",
       "NumProgressed": 4958,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-23T23:06:11.8758151+00:00",
+      "NumProgressed": 4959,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -5765,7 +5776,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 67,
       "XP": 30,
-      "UsersEstimate": 3322
+      "UsersEstimate": 3323
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -5813,15 +5824,15 @@
       "Name": "Things that go Splash in the Night",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1388
+      "UsersEstimate": 1389
     },
     {
       "ID": "ACHIEVEMENT_010",
       "SetID": "1a05lfd",
       "Name": "License to Gill",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 1686
+      "UsersEstimate": 1636
     },
     {
       "ID": "ACHIEVEMENT_011",
@@ -5837,7 +5848,7 @@
       "Name": "I\u0027m the Captain Now",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "ACHIEVEMENT_013",
@@ -5949,7 +5960,7 @@
       "Name": "Big Fish Small Pond",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "ACHIEVEMENT_027",
@@ -6028,22 +6039,22 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 4958,
+      "Progressed": 4959,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 4330,
+      "Progressed": 4331,
       "Completed": 112
     }
   ],
   "FirstSeen": "2022-08-31T13:30:37.244386+00:00",
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
-  "LastChanged": "2023-08-23T20:57:51.9871854+00:00",
-  "LastChanged_Achievements": "2023-08-23T22:05:29.750053+00:00",
+  "LastChanged": "2023-08-23T22:57:56.9776438+00:00",
+  "LastChanged_Achievements": "2023-08-23T23:06:11.8758145+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:32.8112066+00:00",
-  "LastUpdate_Ratings": "2023-08-23T21:57:32.7788487+00:00",
-  "LastUpdate_Achievements": "2023-08-23T22:05:29.7500977+00:00"
+  "LastUpdate_Ratings": "2023-08-23T22:57:56.9776443+00:00",
+  "LastUpdate_Achievements": "2023-08-23T23:06:11.8758608+00:00"
 }

@@ -745,9 +745,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 36495,
+  "EOS_Progressed": 36503,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 853,
+  "EOS_NewPlayers": 854,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -14545,6 +14545,11 @@
       "Time": "2023-08-23T22:05:23.7138897+00:00",
       "NumProgressed": 36495,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-23T23:06:05.768545+00:00",
+      "NumProgressed": 36503,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -14564,7 +14569,7 @@
       "Name": "Adventurer",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "distance250000",
@@ -14580,7 +14585,7 @@
       "Name": "Scout",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4014
+      "UsersEstimate": 4015
     },
     {
       "ID": "distance500000",
@@ -14596,7 +14601,7 @@
       "Name": "Rookie",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 9489
+      "UsersEstimate": 9491
     },
     {
       "ID": "goals180",
@@ -14652,7 +14657,7 @@
       "Name": "Life Aquatic",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "master",
@@ -14660,7 +14665,7 @@
       "Name": "Master Of The Sands",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "mylittlefriend",
@@ -14676,7 +14681,7 @@
       "Name": "Nomad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 6569
+      "UsersEstimate": 6571
     },
     {
       "ID": "novice",
@@ -14684,7 +14689,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 5839
+      "UsersEstimate": 5840
     },
     {
       "ID": "playerFelipe",
@@ -14724,7 +14729,7 @@
       "Name": "Survivalist",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "playerTupa",
@@ -14732,7 +14737,7 @@
       "Name": "Unlock Tupa",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "playerWingsuit",
@@ -14756,7 +14761,7 @@
       "Name": "Daredevil",
       "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "rookie",
@@ -14764,7 +14769,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 9489
+      "UsersEstimate": 9491
     },
     {
       "ID": "sandboarder",
@@ -14780,7 +14785,7 @@
       "Name": "Sightseer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4014
+      "UsersEstimate": 4015
     },
     {
       "ID": "ultimate",
@@ -14788,7 +14793,7 @@
       "Name": "The Ultimate Challenge",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "unlockfelipe",
@@ -14820,7 +14825,7 @@
       "Name": "Welcome Maya",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 5474
+      "UsersEstimate": 5475
     },
     {
       "ID": "unlockpaz",
@@ -14860,22 +14865,22 @@
       "Name": "Windswept",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     }
   ],
   "AchievementSets": [
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 36495,
+      "Progressed": 36503,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-07-28T06:00:25.7046366+00:00",
-  "LastChanged_Achievements": "2023-08-23T22:05:23.7138892+00:00",
+  "LastChanged_Achievements": "2023-08-23T23:06:05.7685445+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:54.4473189+00:00",
-  "LastUpdate_Ratings": "2023-08-23T21:57:07.6876433+00:00",
-  "LastUpdate_Achievements": "2023-08-23T22:05:23.7139755+00:00"
+  "LastUpdate_Ratings": "2023-08-23T22:57:29.2940996+00:00",
+  "LastUpdate_Achievements": "2023-08-23T23:06:05.7686311+00:00"
 }

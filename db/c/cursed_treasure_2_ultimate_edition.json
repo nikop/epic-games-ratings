@@ -541,9 +541,9 @@
       "ID": "BADGE_PLAYER_RANK_2",
       "SetID": "ak6pfjk",
       "Name": "Lieutenant of the Evil",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 94
     },
     {
       "ID": "BADGE_POLYMORPH_COUNT",
@@ -581,9 +581,9 @@
       "ID": "BADGE_THUNDER_COUNT",
       "SetID": "ak6pfjk",
       "Name": "Thunderstorm",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 104
     },
     {
       "ID": "BADGE_TOWER_UPGRADE",
@@ -614,8 +614,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-08-23T22:05:32.0441643+00:00",
+  "LastChanged_Achievements": "2023-08-23T23:06:13.9183554+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:58.9537925+00:00",
-  "LastUpdate_Ratings": "2023-08-23T22:00:09.3122784+00:00",
-  "LastUpdate_Achievements": "2023-08-23T22:05:32.0442011+00:00"
+  "LastUpdate_Ratings": "2023-08-23T23:00:32.289934+00:00",
+  "LastUpdate_Achievements": "2023-08-23T23:06:13.9183902+00:00"
 }

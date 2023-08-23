@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-03-29T13:00:00+00:00",
@@ -258,9 +258,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19833,
+  "EOS_Progressed": 19834,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -5773,6 +5773,11 @@
       "Time": "2023-08-23T12:05:48.4221197+00:00",
       "NumProgressed": 19833,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-08-23T23:06:10.6858473+00:00",
+      "NumProgressed": 19834,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 13,
@@ -5832,7 +5837,7 @@
       "Name": "Something Wicked",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "PickupBones",
@@ -5872,7 +5877,7 @@
       "Name": "Smooth as silk",
       "Percentage": 0.9,
       "XP": 75,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "PickupStone",
@@ -5887,7 +5892,7 @@
     {
       "ID": "3c9im16",
       "IsBase": true,
-      "Progressed": 19833,
+      "Progressed": 19834,
       "Completed": 18
     }
   ],
@@ -5895,8 +5900,8 @@
   "FirstSeenRating": "2023-03-31T05:57:29.8298127+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.2502922+00:00",
   "LastChanged": "2023-08-14T21:59:18.1102072+00:00",
-  "LastChanged_Achievements": "2023-08-23T22:05:28.5656849+00:00",
+  "LastChanged_Achievements": "2023-08-23T23:06:10.6858467+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:57.555785+00:00",
-  "LastUpdate_Ratings": "2023-08-23T21:59:08.1375657+00:00",
-  "LastUpdate_Achievements": "2023-08-23T22:05:28.5657196+00:00"
+  "LastUpdate_Ratings": "2023-08-23T22:59:32.3063923+00:00",
+  "LastUpdate_Achievements": "2023-08-23T23:06:10.6858804+00:00"
 }

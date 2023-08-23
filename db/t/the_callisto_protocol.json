@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 316,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 152,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1056,10 +1056,16 @@
       "Rating": 4.2,
       "NumberOfAwards": 412,
       "NumberOfAwardsMax": 73
+    },
+    {
+      "Time": "2023-08-23T23:00:05.4454058+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 413,
+      "NumberOfAwardsMax": 73
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 412,
+  "NumberOfAwards": 413,
   "NumberOfAwardsMax": 73,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -1073,7 +1079,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 58
+      "Count": 59
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1106,9 +1112,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 15883,
+  "EOS_Progressed": 15884,
   "EOS_Completed": 73,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -6621,6 +6627,11 @@
       "Time": "2023-08-23T19:04:38.8978578+00:00",
       "NumProgressed": 15883,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2023-08-23T23:04:41.4683193+00:00",
+      "NumProgressed": 15884,
+      "NumCompleted": 73
     }
   ],
   "TotalAchievements": 47,
@@ -6656,7 +6667,7 @@
       "Name": "You Need a Gun",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "DISARM_ENEMY",
@@ -6696,7 +6707,7 @@
       "Name": "I Do Belong Here",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "FINISH_GAME_HARD",
@@ -6752,7 +6763,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -6760,7 +6771,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "KILL_ROBOT",
@@ -6776,7 +6787,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -6800,7 +6811,7 @@
       "Name": "Reforged",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "PRINT_WEAPON",
@@ -6824,7 +6835,7 @@
       "Name": "The Outer Way",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "STORY_ESCAPE",
@@ -6832,7 +6843,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "STORY_HABITAT",
@@ -6840,7 +6851,7 @@
       "Name": "Without A Paddle",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "STORY_HANGAR",
@@ -6848,7 +6859,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "STORY_MINETOWN",
@@ -6856,7 +6867,7 @@
       "Name": "What Lies Beneath",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -6872,7 +6883,7 @@
       "Name": "Crash Site",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "STORY_TOWER",
@@ -6880,7 +6891,7 @@
       "Name": "Full Circle",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "STORY_TUNNELS",
@@ -6888,7 +6899,7 @@
       "Name": "Power Up",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "DISMEMBER_100",
@@ -7007,22 +7018,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15883,
+      "Progressed": 15884,
       "Completed": 73
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3809,
+      "Progressed": 3810,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2023-08-23T18:01:12.771281+00:00",
-  "LastChanged_Achievements": "2023-08-23T22:03:58.8676935+00:00",
+  "LastChanged": "2023-08-23T23:00:05.4454057+00:00",
+  "LastChanged_Achievements": "2023-08-23T23:04:41.4683188+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:05.6628472+00:00",
-  "LastUpdate_Ratings": "2023-08-23T21:59:40.7476051+00:00",
-  "LastUpdate_Achievements": "2023-08-23T22:03:58.8677525+00:00"
+  "LastUpdate_Ratings": "2023-08-23T23:00:05.4454061+00:00",
+  "LastUpdate_Achievements": "2023-08-23T23:04:41.4683753+00:00"
 }

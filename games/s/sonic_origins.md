@@ -39,7 +39,7 @@ Number of Ratings: 154  (23.09.2022)
 | Beware Rhinobots! | 18.00% | ~75 |
 | Art Appreciator | 18.00% | ~75 |
 | Sonic CD Mission Master | 17.00% | ~71 |
-| S3 & K Mission Master | 15.00% | ~62 |
+| S3 & K Mission Master | 16.00% | ~67 |
 | Sonic the Hedgehog 2 Mission Master | 14.00% | ~58 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 416 (Ranked 240)  

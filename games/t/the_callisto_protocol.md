@@ -10,20 +10,20 @@ Rating: 4.20 (Ranked 859)
 | Flesh Wound | 4.00% | ~635 |
 | Float Like A Butterfly | 4.00% | ~635 |
 | Keep Fighting | 4.00% | ~152 |
-| You Need a Gun | 3.00% | ~476 |
-| I Do Belong Here | 3.00% | ~476 |
-| Two Heads Are Better Than One | 3.00% | ~476 |
-| Chew 'Em Up | 3.00% | ~476 |
-| Workplace Hazard | 3.00% | ~476 |
-| Reforged | 3.00% | ~476 |
-| The Outer Way | 3.00% | ~476 |
-| If the SHU Fits... | 3.00% | ~476 |
-| Without A Paddle | 3.00% | ~476 |
-| In the Pipe, Five by Five | 3.00% | ~476 |
-| What Lies Beneath | 3.00% | ~476 |
-| Crash Site | 3.00% | ~476 |
-| Full Circle | 3.00% | ~476 |
-| Power Up | 3.00% | ~476 |
+| You Need a Gun | 3.00% | ~477 |
+| I Do Belong Here | 3.00% | ~477 |
+| Two Heads Are Better Than One | 3.00% | ~477 |
+| Chew 'Em Up | 3.00% | ~477 |
+| Workplace Hazard | 3.00% | ~477 |
+| Reforged | 3.00% | ~477 |
+| The Outer Way | 3.00% | ~477 |
+| If the SHU Fits... | 3.00% | ~477 |
+| Without A Paddle | 3.00% | ~477 |
+| In the Pipe, Five by Five | 3.00% | ~477 |
+| What Lies Beneath | 3.00% | ~477 |
+| Crash Site | 3.00% | ~477 |
+| Full Circle | 3.00% | ~477 |
+| Power Up | 3.00% | ~477 |
 | It's Time | 3.00% | ~114 |
 | Giving Back | 2.00% | ~318 |
 | Terminated | 2.00% | ~318 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 859)
 | Hoard Mode | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,883 (Ranked 115)  
+Progressed: 15,884 (Ranked 115)  
 Completed: 73 (0.46%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,10 +176,10 @@ Completed: 73 (0.46%) (Ranked 152)
 | 2023-08-20 | 15,877 | 73 |
 | 2023-08-21 | 15,878 | 73 |
 | 2023-08-22 | 15,881 | 73 |
-| 2023-08-23 | 15,883 | 73 |
+| 2023-08-23 | 15,884 | 73 |
 ## Awards
 Max (Amazing Storytelling): 73  (Ranked 374)  
-Sum: 412 (Ranked 316)  
+Sum: 413 (Ranked 316)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
@@ -187,7 +187,7 @@ Diff (max vs sum): 58
 | This game has Amazing Characters | 71 |
 | This game is Highly Recommended | 68 |
 | This game has Quickly Understood Controls | 64 |
-| This game is Extremely Fun | 58 |
+| This game is Extremely Fun | 59 |
 | This game has Challenging Combat | 53 |
 | This game has a Creative Community | 25 |
 ## Ratings History
@@ -303,4 +303,4 @@ Diff (max vs sum): 58
 | 2023-08-14 | 4.20 | 72 | 408 |
 | 2023-08-19 | 4.20 | 73 | 410 |
 | 2023-08-22 | 4.20 | 73 | 411 |
-| 2023-08-23 | 4.20 | 73 | 412 |
+| 2023-08-23 | 4.20 | 73 | 413 |

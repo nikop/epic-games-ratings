@@ -1641,9 +1641,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13539,
+  "EOS_Progressed": 13540,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -10146,6 +10146,11 @@
       "Time": "2023-08-23T20:05:42.7675486+00:00",
       "NumProgressed": 13539,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-23T23:06:23.1704221+00:00",
+      "NumProgressed": 13540,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -10235,9 +10240,9 @@
       "ID": "ACHIEVEMENT_BABYLON_HANGING_GARDENS",
       "SetID": "9201eeb",
       "Name": "Hanging Gardens in Babylon",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 122
     },
     {
       "ID": "ACHIEVEMENT_BABYLON_ISHTAR_GATE",
@@ -12524,21 +12529,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13539,
+      "Progressed": 13540,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13539,
+      "Progressed": 13540,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-08-22T16:00:25.4576697+00:00",
-  "LastChanged_Achievements": "2023-08-23T22:05:40.2085553+00:00",
+  "LastChanged_Achievements": "2023-08-23T23:06:23.1704217+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:59.678182+00:00",
-  "LastUpdate_Ratings": "2023-08-23T21:59:34.9989491+00:00",
-  "LastUpdate_Achievements": "2023-08-23T22:05:40.20932+00:00"
+  "LastUpdate_Ratings": "2023-08-23T22:59:59.4648113+00:00",
+  "LastUpdate_Achievements": "2023-08-23T23:06:23.1712049+00:00"
 }

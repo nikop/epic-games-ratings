@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -476,9 +476,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3520,
+  "EOS_Progressed": 3521,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -6166,6 +6166,11 @@
       "Time": "2023-08-23T21:05:09.515434+00:00",
       "NumProgressed": 3520,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-08-23T23:05:05.7417052+00:00",
+      "NumProgressed": 3521,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 71,
@@ -6241,7 +6246,7 @@
       "Name": "Organ Grinder",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 774
+      "UsersEstimate": 775
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -6257,7 +6262,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1619
+      "UsersEstimate": 1620
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -6297,7 +6302,7 @@
       "Name": "Gunslinger",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -6329,7 +6334,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -6417,7 +6422,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 774
+      "UsersEstimate": 775
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -6425,7 +6430,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1267
+      "UsersEstimate": 1268
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -6489,7 +6494,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1126
+      "UsersEstimate": 1127
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -6545,7 +6550,7 @@
       "Name": "Taking it back",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -6744,13 +6749,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3471,
+      "Progressed": 3472,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3520,
+      "Progressed": 3521,
       "Completed": 9
     }
   ],
@@ -6758,8 +6763,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-08-19T13:59:32.9786794+00:00",
-  "LastChanged_Achievements": "2023-08-23T22:04:23.5986301+00:00",
+  "LastChanged_Achievements": "2023-08-23T23:05:05.7417048+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:38.9761253+00:00",
-  "LastUpdate_Ratings": "2023-08-23T21:58:32.8485182+00:00",
-  "LastUpdate_Achievements": "2023-08-23T22:04:23.5987285+00:00"
+  "LastUpdate_Ratings": "2023-08-23T22:58:55.9163194+00:00",
+  "LastUpdate_Achievements": "2023-08-23T23:05:05.7417938+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "NEW Joe and Mac Caveman Ninja",
   "ProductSlug": "new-joe-and-mac-caveman-ninja-bbaa73",
   "Ranking_EOS_Progress": 288,
-  "Ranking_EOS_Completed": 89,
-  "Ranking_EOS_NewPlayers": 311,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_Completed": 79,
+  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2022-12-01T11:00:00+00:00",
     "PcReleaseDate": "2022-12-01T11:00:00+00:00",
@@ -29,10 +29,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 214,
-  "EOS_Completed": 5,
+  "EOS_Completed": 6,
   "EOS_NewPlayers": 1,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.34,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 2.8,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:18.1728843+00:00",
@@ -343,6 +343,11 @@
       "Time": "2023-08-23T22:05:18.5891234+00:00",
       "NumProgressed": 214,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-23T23:06:00.5436038+00:00",
+      "NumProgressed": 214,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 15,
@@ -392,9 +397,9 @@
       "ID": "06",
       "SetID": "6glb5g1",
       "Name": "Dino Ride.",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 60,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "07",
@@ -448,9 +453,9 @@
       "ID": "13",
       "SetID": "6glb5g1",
       "Name": "Passing the carcass.",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 80,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "14",
@@ -474,15 +479,15 @@
       "ID": "6glb5g1",
       "IsBase": true,
       "Progressed": 214,
-      "Completed": 5
+      "Completed": 6
     }
   ],
   "FirstSeen": "2022-12-04T10:57:37.9087586+00:00",
   "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
   "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
-  "LastChanged_Achievements": "2023-08-23T22:05:18.589123+00:00",
+  "LastChanged_Achievements": "2023-08-23T23:06:00.5436034+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:36.6014047+00:00",
-  "LastUpdate_Ratings": "2023-08-23T21:59:21.2142585+00:00",
-  "LastUpdate_Achievements": "2023-08-23T22:05:18.5891332+00:00"
+  "LastUpdate_Ratings": "2023-08-23T22:59:44.511822+00:00",
+  "LastUpdate_Achievements": "2023-08-23T23:06:00.543614+00:00"
 }

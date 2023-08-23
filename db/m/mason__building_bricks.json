@@ -4,7 +4,7 @@
   "ProductSlug": "mason-building-bricks-73659e",
   "Ranking_EOS_Progress": 383,
   "Ranking_EOS_Completed": 22,
-  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewPlayers": 350,
   "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2023-04-14T14:00:00+00:00",
@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 44,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 11.36,
   "EosHistory": [
@@ -261,8 +261,8 @@
   "FirstSeenRating": "2023-04-19T03:58:31.2715304+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:22.1557568+00:00",
   "LastChanged": "2023-04-19T03:58:31.2715304+00:00",
-  "LastChanged_Achievements": "2023-08-23T22:05:03.9228437+00:00",
+  "LastChanged_Achievements": "2023-08-23T23:05:45.5509405+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:58.6848183+00:00",
-  "LastUpdate_Ratings": "2023-08-23T22:00:35.4739251+00:00",
-  "LastUpdate_Achievements": "2023-08-23T22:05:03.9228507+00:00"
+  "LastUpdate_Ratings": "2023-08-23T23:03:08.1921505+00:00",
+  "LastUpdate_Achievements": "2023-08-23T23:05:45.5509469+00:00"
 }
