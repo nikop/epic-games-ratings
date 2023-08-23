@@ -6,24 +6,24 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 26.00% | ~43,450 |
-| Get Busy Living | 16.00% | ~26,738 |
-| Samuel Norton | 9.00% | ~15,040 |
-| Spare The Rod | 5.00% | ~8,356 |
-| Don't Put Me In The Dark | 3.00% | ~5,013 |
-| Wait and Hope | 3.00% | ~5,013 |
-| I May Have Found A Way Out Of Here | 3.00% | ~5,013 |
-| Iron Bars | 3.00% | ~5,013 |
-| Throw The Book At Them | 2.00% | ~3,342 |
+| Stone Walls | 26.00% | ~43,455 |
+| Get Busy Living | 16.00% | ~26,742 |
+| Samuel Norton | 9.00% | ~15,042 |
+| Spare The Rod | 5.00% | ~8,357 |
+| Don't Put Me In The Dark | 3.00% | ~5,014 |
+| Wait and Hope | 3.00% | ~5,014 |
+| I May Have Found A Way Out Of Here | 3.00% | ~5,014 |
+| Iron Bars | 3.00% | ~5,014 |
+| Throw The Book At Them | 2.00% | ~3,343 |
 | D.B. Cooper | 1.00% | ~1,671 |
 | Reformation | 0.60% | ~1,003 |
 | Crowd Control | 0.50% | ~836 |
-| Freedom | 0.40% | ~668 |
-| Confined | 0.40% | ~668 |
+| Freedom | 0.40% | ~669 |
+| Confined | 0.40% | ~669 |
 | It's Not What You Know... | 0.10% | ~167 |
 | ... It's What You Can Prove | 0.10% | ~167 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 167,114 (Ranked 62)  
+Progressed: 167,135 (Ranked 62)  
 Completed: 7 (0.00%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,16 +148,16 @@ Completed: 7 (0.00%) (Ranked 262)
 | 2023-08-20 | 166,320 | 7 |
 | 2023-08-21 | 166,658 | 7 |
 | 2023-08-22 | 166,972 | 7 |
-| 2023-08-23 | 167,114 | 7 |
+| 2023-08-23 | 167,135 | 7 |
 ## Awards
 Max (Extremely Fun): 487  (Ranked 199)  
-Sum: 3,761 (Ranked 149)  
+Sum: 3,762 (Ranked 149)  
 Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 487 |
 | This game is Great for Beginners | 469 |
-| This game is Highly Recommended | 458 |
+| This game is Highly Recommended | 459 |
 | This game has Quickly Understood Controls | 445 |
 | This game is Relaxing | 430 |
 | This game has Diverse Characters | 411 |
@@ -381,3 +381,4 @@ Diff (max vs sum): 50
 | 2023-08-19 | 4.61 | - | 486 | 3,757 |
 | 2023-08-21 | 4.61 | - | 487 | 3,758 |
 | 2023-08-22 | 4.61 | - | 487 | 3,761 |
+| 2023-08-23 | 4.61 | - | 487 | 3,762 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 280,
+  "Ranking_EOS_NewPlayers": 281,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
@@ -1191,9 +1191,9 @@
       "ID": "ACHIEVEMENT_CLOTHES1",
       "SetID": "9eacipp",
       "Name": "The King\u0027s new clothes I",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 170
+      "UsersEstimate": 212
     },
     {
       "ID": "ACHIEVEMENT_CLOTHES2",
@@ -1895,8 +1895,8 @@
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-06-06T06:58:15.5941175+00:00",
-  "LastChanged_Achievements": "2023-08-23T12:03:05.761584+00:00",
+  "LastChanged_Achievements": "2023-08-23T13:06:16.8824743+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:01.292647+00:00",
-  "LastUpdate_Ratings": "2023-08-23T11:59:41.5774035+00:00",
-  "LastUpdate_Achievements": "2023-08-23T12:03:05.761687+00:00"
+  "LastUpdate_Ratings": "2023-08-23T13:03:45.0331852+00:00",
+  "LastUpdate_Achievements": "2023-08-23T13:06:16.8825776+00:00"
 }

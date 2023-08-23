@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 751,
+  "EOS_Progressed": 752,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1686,6 +1686,11 @@
       "Time": "2023-08-22T09:03:18.3484238+00:00",
       "NumProgressed": 751,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-23T13:07:04.9521859+00:00",
+      "NumProgressed": 752,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1705,7 +1710,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -1737,7 +1742,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -1897,7 +1902,7 @@
       "Name": "Greetings from Royalty",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
@@ -1977,7 +1982,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -1985,7 +1990,7 @@
       "Name": "Who You Gonna Call?",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -2017,7 +2022,7 @@
       "Name": "And There We Go",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -2224,14 +2229,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 751,
+      "Progressed": 752,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-08-23T12:03:23.563281+00:00",
+  "LastChanged_Achievements": "2023-08-23T13:07:04.9521853+00:00",
   "LastUpdate_AppInfo": "2023-08-17T16:57:04.6677463+00:00",
-  "LastUpdate_Ratings": "2023-08-23T11:58:37.1727598+00:00",
-  "LastUpdate_Achievements": "2023-08-23T12:03:23.5633438+00:00"
+  "LastUpdate_Ratings": "2023-08-23T13:02:34.1855944+00:00",
+  "LastUpdate_Achievements": "2023-08-23T13:07:04.952245+00:00"
 }

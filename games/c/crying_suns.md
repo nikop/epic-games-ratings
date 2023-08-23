@@ -6,23 +6,23 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~307,444 |
-| Jeef Skeejj | 44.00% | ~204,963 |
-| Careful planning | 39.00% | ~181,672 |
-| Second Coming | 33.00% | ~153,722 |
+| The Shutdown | 66.00% | ~307,446 |
+| Jeef Skeejj | 44.00% | ~204,964 |
+| Careful planning | 39.00% | ~181,673 |
+| Second Coming | 33.00% | ~153,723 |
 | Jeef Skagg | 30.00% | ~139,748 |
-| Mother | 25.00% | ~116,456 |
-| In space, no one can hear you scream | 24.00% | ~111,798 |
+| Mother | 25.00% | ~116,457 |
+| In space, no one can hear you scream | 24.00% | ~111,799 |
 | Chapter I: Echoes | 22.00% | ~102,482 |
 | Excelsior Rule | 22.00% | ~102,482 |
-| Things persisted in not being what they seemed | 20.00% | ~93,165 |
+| Things persisted in not being what they seemed | 20.00% | ~93,166 |
 | Knightmare Frames | 15.00% | ~69,874 |
 | May His passing cleanse the world | 15.00% | ~69,874 |
 | Chapter II: Fallible Flesh | 15.00% | ~69,874 |
 | Pope Zenon | 15.00% | ~69,874 |
 | Tetsuo | 11.00% | ~51,241 |
 | Plan for the worst | 11.00% | ~51,241 |
-| Chapter III: The Man Who Sold the World | 10.00% | ~46,582 |
+| Chapter III: The Man Who Sold the World | 10.00% | ~46,583 |
 | Chapter IV: Through the Looking Glass | 8.00% | ~37,266 |
 | Through the mirror | 8.00% | ~37,266 |
 | General Vivar | 8.00% | ~37,266 |
@@ -51,7 +51,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Jericho Rule | 5.00% | ~23,291 |
 | Geno Rule | 3.00% | ~13,975 |
 | Hammer Rule | 3.00% | ~13,975 |
-| Survivor | 2.00% | ~9,316 |
+| Survivor | 2.00% | ~9,317 |
 | A Rock in the Dark | 1.00% | ~4,658 |
 | Emperor of Misery | 1.00% | ~4,658 |
 | A Frozen Lady | 1.00% | ~4,658 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~10 |
 | Kronos Rule | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 465,825 (Ranked 37)  
+Progressed: 465,828 (Ranked 37)  
 Completed: 17 (0.00%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,7 +211,7 @@ Completed: 17 (0.00%) (Ranked 262)
 | 2023-08-20 | 465,685 | 17 |
 | 2023-08-21 | 465,743 | 17 |
 | 2023-08-22 | 465,797 | 17 |
-| 2023-08-23 | 465,825 | 17 |
+| 2023-08-23 | 465,828 | 17 |
 ## Awards
 Max (Character Customization): 218  (Ranked 267)  
 Sum: 218 (Ranked 363)  

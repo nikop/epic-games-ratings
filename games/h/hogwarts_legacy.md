@@ -5,53 +5,53 @@ Rating: 4.77 (Ranked 109)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 13.00% | ~37,784 |
-| First Class Student | 11.00% | ~31,971 |
-| Troll with the Punches | 11.00% | ~31,971 |
+| The Sort Who Makes an Entrance | 13.00% | ~37,785 |
+| First Class Student | 11.00% | ~31,972 |
+| Troll with the Punches | 11.00% | ~31,972 |
 | The Defender of Dragons | 10.00% | ~29,065 |
 | A Keen Sense of Spell | 10.00% | ~29,065 |
 | A Talent for Spending | 10.00% | ~29,065 |
 | That's a Keeper | 10.00% | ~29,065 |
-| Grappling with a Graphorn | 9.00% | ~26,158 |
-| The One Who Mastered Memories | 9.00% | ~26,158 |
-| The Hallowed Hero | 9.00% | ~26,158 |
-| The Hero of Hogwarts | 9.00% | ~26,158 |
-| Challenge Accepted | 9.00% | ~26,158 |
-| Loom for Improvement | 9.00% | ~26,158 |
-| Coasting Along | 9.00% | ~26,158 |
+| Grappling with a Graphorn | 9.00% | ~26,159 |
+| The One Who Mastered Memories | 9.00% | ~26,159 |
+| The Hallowed Hero | 9.00% | ~26,159 |
+| The Hero of Hogwarts | 9.00% | ~26,159 |
+| Challenge Accepted | 9.00% | ~26,159 |
+| Loom for Improvement | 9.00% | ~26,159 |
+| Coasting Along | 9.00% | ~26,159 |
 | Followed the Butterflies | 8.00% | ~23,252 |
 | The Spell Master | 8.00% | ~23,252 |
 | Rising From the Ashes | 8.00% | ~23,252 |
-| The Avenging Gazelle | 7.00% | ~20,345 |
-| Beast Friends | 7.00% | ~20,345 |
-| A Sallow Grave | 7.00% | ~20,345 |
-| Flight the Good Flight | 7.00% | ~20,345 |
-| The Seeker of Knowledge | 5.00% | ~14,532 |
-| The Root of the Problem | 5.00% | ~14,532 |
-| Third Time's a Charm | 5.00% | ~14,532 |
-| Raising Expectations | 5.00% | ~14,532 |
+| The Avenging Gazelle | 7.00% | ~20,346 |
+| Beast Friends | 7.00% | ~20,346 |
+| A Sallow Grave | 7.00% | ~20,346 |
+| Flight the Good Flight | 7.00% | ~20,346 |
+| The Seeker of Knowledge | 5.00% | ~14,533 |
+| The Root of the Problem | 5.00% | ~14,533 |
+| Third Time's a Charm | 5.00% | ~14,533 |
+| Raising Expectations | 5.00% | ~14,533 |
 | The Toast of the Town | 4.00% | ~11,626 |
 | Room with a View | 4.00% | ~11,626 |
 | The Intrepid Explorer | 4.00% | ~11,626 |
 | The Gryffindor in the Graveyard | 4.00% | ~11,626 |
 | The Ends Petrify the Means | 4.00% | ~11,626 |
-| Going Through the Potions | 3.00% | ~8,719 |
-| Floo Around the World | 3.00% | ~8,719 |
-| The Wise Owl | 3.00% | ~8,719 |
+| Going Through the Potions | 3.00% | ~8,720 |
+| Floo Around the World | 3.00% | ~8,720 |
+| The Wise Owl | 3.00% | ~8,720 |
 | The Good Samaritan | 2.00% | ~5,813 |
 | Put Down Roots | 2.00% | ~5,813 |
 | The Auror's Apprentice | 2.00% | ~5,813 |
 | Rise to the Challenges | 2.00% | ~5,813 |
 | Finishing Touches | 2.00% | ~5,813 |
-| Savvy Spender | 1.00% | ~2,906 |
-| Demiguise Dread | 1.00% | ~2,906 |
-| A Forte for Achievement | 1.00% | ~2,906 |
+| Savvy Spender | 1.00% | ~2,907 |
+| Demiguise Dread | 1.00% | ~2,907 |
+| A Forte for Achievement | 1.00% | ~2,907 |
 | Merlin's Beard! | 0.90% | ~2,616 |
 | Spilled Milk | 0.80% | ~2,325 |
 | The Nature of the Beast | 0.60% | ~1,744 |
 | Collector's Edition | 0.30% | ~872 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290,649 (Ranked 43)  
+Progressed: 290,651 (Ranked 43)  
 Completed: 454 (0.16%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,10 +176,10 @@ Completed: 454 (0.16%) (Ranked 194)
 | 2023-08-20 | 290,517 | 453 |
 | 2023-08-21 | 290,578 | 453 |
 | 2023-08-22 | 290,631 | 454 |
-| 2023-08-23 | 290,649 | 454 |
+| 2023-08-23 | 290,651 | 454 |
 ## Awards
 Max (Character Customization): 21,894  (Ranked 17)  
-Sum: 41,426 (Ranked 30)  
+Sum: 41,428 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -192,7 +192,7 @@ Diff (max vs sum): -13
 | This game has Diverse Characters | 945 |
 | This game has Amazing Characters | 929 |
 | This game is Highly Recommended | 904 |
-| This game has Quickly Understood Controls | 854 |
+| This game has Quickly Understood Controls | 856 |
 | This game has Beautiful Visuals | 800 |
 | This game has a Creative Community | 599 |
 ## Ratings History
@@ -350,4 +350,4 @@ Diff (max vs sum): -13
 | 2023-08-20 | 4.77 | 21,849 | 41,309 |
 | 2023-08-21 | 4.77 | 21,871 | 41,371 |
 | 2023-08-22 | 4.77 | 21,884 | 41,412 |
-| 2023-08-23 | 4.77 | 21,894 | 41,426 |
+| 2023-08-23 | 4.77 | 21,894 | 41,428 |

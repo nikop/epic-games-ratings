@@ -22,20 +22,20 @@
 | Glimmer of Hope | 43.00% | ~464 |
 | Gooey Delight! | 42.00% | ~453 |
 | Nightmare Fuel | 41.00% | ~442 |
+| Take Heart | 41.00% | ~442 |
 | The Guardian | 41.00% | ~442 |
 | Teacups for Toppy | 41.00% | ~442 |
 | Well Rested | 41.00% | ~442 |
-| Take Heart | 40.00% | ~432 |
 | Stronger! | 40.00% | ~432 |
 | Ancient Wisdom | 39.00% | ~421 |
 | Frog Facts! | 39.00% | ~421 |
 | All That Glistens | 39.00% | ~421 |
+| All Skilled Up! | 38.00% | ~410 |
 | It's Pointy! | 38.00% | ~410 |
 | Spellbound | 37.00% | ~399 |
 | Extinct Again! | 37.00% | ~399 |
 | Bird of Prey | 37.00% | ~399 |
-| All Skilled Up! | 37.00% | ~399 |
-| Stardust | 36.00% | ~388 |
+| Stardust | 37.00% | ~399 |
 | Heartbreaker | 36.00% | ~388 |
 | Kidnapped! | 36.00% | ~388 |
 | Pull the Plug | 35.00% | ~378 |
@@ -51,7 +51,7 @@
 | Flower Power | 28.00% | ~302 |
 | Shopping Spree! | 25.00% | ~270 |
 | Crowned | 23.00% | ~248 |
-| Max Level! | 15.00% | ~162 |
+| Max Level! | 16.00% | ~173 |
 | Dance Master | 10.00% | ~108 |
 | Bombs Away! | 9.00% | ~97 |
 ## Popularity (Based on EOS Achievements)

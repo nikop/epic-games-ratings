@@ -4,7 +4,7 @@
   "ProductSlug": "60-parsecs-0481c5",
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 720,
+  "EOS_Progressed": 721,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -723,6 +723,11 @@
       "Time": "2023-08-22T15:03:54.3592046+00:00",
       "NumProgressed": 720,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-23T13:07:32.163276+00:00",
+      "NumProgressed": 721,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -796,9 +801,9 @@
       "ID": "Achievement_Crafty",
       "SetID": "c01p6e5",
       "Name": "Crafty",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 346
+      "UsersEstimate": 339
     },
     {
       "ID": "Achievement_DontPanic",
@@ -806,7 +811,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "Achievement_DustToDust",
@@ -876,9 +881,9 @@
       "ID": "Achievement_Friendzone",
       "SetID": "c01p6e5",
       "Name": "Friendzone",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 576
+      "UsersEstimate": 570
     },
     {
       "ID": "Achievement_GiantLeap",
@@ -894,7 +899,7 @@
       "Name": "Gold Medalist",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "Achievement_HandsFull",
@@ -910,7 +915,7 @@
       "Name": "Hello World",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "Achievement_Improvinator",
@@ -924,17 +929,17 @@
       "ID": "Achievement_IntergalacticBreakup",
       "SetID": "c01p6e5",
       "Name": "Intergalactic Breakup",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 50
     },
     {
       "ID": "Achievement_KIA",
       "SetID": "c01p6e5",
       "Name": "KIA",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 194
+      "UsersEstimate": 187
     },
     {
       "ID": "Achievement_LastSupper",
@@ -958,7 +963,7 @@
       "Name": "Meet the Petersons",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "Achievement_MutinyInMaking",
@@ -990,7 +995,7 @@
       "Name": "Non-Fiction",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "Achievement_SecondLife",
@@ -1022,7 +1027,7 @@
       "Name": "Space Colonization",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "Achievement_SpaceEngineer",
@@ -1085,7 +1090,7 @@
     {
       "ID": "c01p6e5",
       "IsBase": true,
-      "Progressed": 720,
+      "Progressed": 721,
       "Completed": 1
     }
   ],
@@ -1093,8 +1098,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-08-23T12:03:51.0849868+00:00",
+  "LastChanged_Achievements": "2023-08-23T13:07:32.1632751+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:33.1841136+00:00",
-  "LastUpdate_Ratings": "2023-08-23T11:58:28.5597347+00:00",
-  "LastUpdate_Achievements": "2023-08-23T12:03:51.0850186+00:00"
+  "LastUpdate_Ratings": "2023-08-23T13:02:23.7892741+00:00",
+  "LastUpdate_Achievements": "2023-08-23T13:07:32.1633107+00:00"
 }

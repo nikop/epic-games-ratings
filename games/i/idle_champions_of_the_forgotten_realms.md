@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~191 |
 | Animated Giff | 0.10% | ~191 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,306 (Ranked 53)  
+Progressed: 224,321 (Ranked 53)  
 Completed: 2,208 (0.98%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -648,10 +648,10 @@ Completed: 2,208 (0.98%) (Ranked 121)
 | 2023-08-20 | 223,729 | 2,196 |
 | 2023-08-21 | 223,996 | 2,203 |
 | 2023-08-22 | 224,213 | 2,207 |
-| 2023-08-23 | 224,306 | 2,208 |
+| 2023-08-23 | 224,321 | 2,208 |
 ## Awards
 Max (Diverse Characters): 5,176  (Ranked 68)  
-Sum: 31,178 (Ranked 39)  
+Sum: 31,179 (Ranked 39)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
@@ -661,7 +661,7 @@ Diff (max vs sum): 29
 | This game is Relaxing | 4,620 |
 | This game has Amazing Characters | 4,079 |
 | This game is Highly Recommended | 4,066 |
-| This game has Playful Visuals | 3,365 |
+| This game has Playful Visuals | 3,366 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -874,4 +874,4 @@ Diff (max vs sum): 29
 | 2023-08-20 | 4.06 | - | 5,173 | 31,149 |
 | 2023-08-21 | 4.06 | - | 5,176 | 31,155 |
 | 2023-08-22 | 4.06 | - | 5,176 | 31,169 |
-| 2023-08-23 | 4.06 | - | 5,176 | 31,178 |
+| 2023-08-23 | 4.06 | - | 5,176 | 31,179 |

@@ -5,12 +5,12 @@ Rating: 4.29 (Ranked 798)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Man 'O War | 20.00% | ~6,977 |
-| A Good Day To Die | 15.00% | ~5,233 |
+| Man 'O War | 20.00% | ~6,978 |
+| A Good Day To Die | 15.00% | ~5,234 |
 | Right Back Atcha | 6.00% | ~2,093 |
 | Killed by Death | 5.00% | ~1,744 |
 | Guard! Turn! Parry! Dodge! Spin! Ha! | 5.00% | ~1,744 |
-| Kill 'Em All | 4.00% | ~1,395 |
+| Kill 'Em All | 4.00% | ~1,396 |
 | Down Boy! | 2.00% | ~698 |
 | A Snowball's Chance in Hell | 2.00% | ~698 |
 | Enjoy The Silence | 1.00% | ~349 |
@@ -35,7 +35,7 @@ Rating: 4.29 (Ranked 798)
 | Heart Of Steel | 0.10% | ~35 |
 | Death or Glory | 0.10% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 34,886 (Ranked 99)  
+Progressed: 34,890 (Ranked 99)  
 Completed: 21 (0.06%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,7 +160,7 @@ Completed: 21 (0.06%) (Ranked 224)
 | 2023-08-20 | 34,621 | 21 |
 | 2023-08-21 | 34,734 | 21 |
 | 2023-08-22 | 34,845 | 21 |
-| 2023-08-23 | 34,886 | 21 |
+| 2023-08-23 | 34,890 | 21 |
 ## Awards
 Max (Great Boss Battles): 126  (Ranked 312)  
 Sum: 126 (Ranked 404)  

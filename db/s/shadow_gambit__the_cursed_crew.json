@@ -2,7 +2,7 @@
   "ID": "42b8b899a3f349bd8376264ccee3cd2a",
   "Name": "Shadow Gambit: The Cursed Crew",
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
-  "Ranking_EOS_Progress": 236,
+  "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 262,
   "Ranking_EOS_NewPlayers": 86,
   "Ranking_EOS_NewCompleters": 99,
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 452,
+  "EOS_Progressed": 454,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 418,
+  "EOS_NewPlayers": 419,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -806,6 +806,11 @@
       "Time": "2023-08-23T11:04:34.6467448+00:00",
       "NumProgressed": 452,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-23T13:07:49.837446+00:00",
+      "NumProgressed": 454,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -824,9 +829,9 @@
       "ID": "_02_FinishFirstMission",
       "SetID": "8a1io5d",
       "Name": "A New Journey",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 334
+      "UsersEstimate": 331
     },
     {
       "ID": "_03_FinishAct1",
@@ -834,7 +839,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -842,7 +847,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "_05_FinishAct2",
@@ -850,7 +855,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -920,9 +925,9 @@
       "ID": "_14_Completion_70",
       "SetID": "8a1io5d",
       "Name": "Freebooter",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "_15_Completion_80",
@@ -946,7 +951,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -1025,14 +1030,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 452,
+      "Progressed": 454,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-23T12:04:08.5947048+00:00",
+  "LastChanged_Achievements": "2023-08-23T13:07:49.8374455+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:01.7621403+00:00",
-  "LastUpdate_Ratings": "2023-08-23T11:59:40.0596689+00:00",
-  "LastUpdate_Achievements": "2023-08-23T12:04:08.5947228+00:00"
+  "LastUpdate_Ratings": "2023-08-23T13:03:42.8158062+00:00",
+  "LastUpdate_Achievements": "2023-08-23T13:07:49.8374652+00:00"
 }

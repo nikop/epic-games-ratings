@@ -4,7 +4,7 @@
   "ProductSlug": "the-great-war-western-front",
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -1838,8 +1838,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-03-31T05:57:31.1456658+00:00",
-  "LastChanged_Achievements": "2023-08-23T12:04:10.4121722+00:00",
+  "LastChanged_Achievements": "2023-08-23T13:07:51.6639351+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:52.475431+00:00",
-  "LastUpdate_Ratings": "2023-08-23T12:00:05.1969697+00:00",
-  "LastUpdate_Achievements": "2023-08-23T12:04:10.4121894+00:00"
+  "LastUpdate_Ratings": "2023-08-23T13:04:07.7774986+00:00",
+  "LastUpdate_Achievements": "2023-08-23T13:07:51.6639524+00:00"
 }

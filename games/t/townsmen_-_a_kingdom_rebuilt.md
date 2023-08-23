@@ -23,6 +23,7 @@ Number of Ratings: 37  (23.09.2022)
 | Full-time job I | 6.00% | ~255 |
 | Knee deep in snow | 6.00% | ~255 |
 | Not a small trader anymore | 5.00% | ~212 |
+| The King's new clothes I | 5.00% | ~212 |
 | Builder II | 5.00% | ~212 |
 | Full-time job II | 5.00% | ~212 |
 | Tax-man III | 5.00% | ~212 |
@@ -30,7 +31,6 @@ Number of Ratings: 37  (23.09.2022)
 | Tools of the trade I | 5.00% | ~212 |
 | Bread for the people II | 4.00% | ~170 |
 | I like to build stuff... III | 4.00% | ~170 |
-| The King's new clothes I | 4.00% | ~170 |
 | An honorable Governor II | 4.00% | ~170 |
 | Tax-man IV | 4.00% | ~170 |
 | A time consuming game III | 4.00% | ~170 |
