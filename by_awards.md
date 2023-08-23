@@ -9,7 +9,7 @@
 | 7 | [Fall Guys](games/f/fall_guys.md) | 146,719 | 4.52 | 527 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 115,097 | 4.69 | 216 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 76,110 | 4.62 | 348 |
-| 10 | [VALORANT](games/v/valorant.md) | 65,747 | 4.53 | 514 |
+| 10 | [VALORANT](games/v/valorant.md) | 65,865 | 4.53 | 514 |
 | 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 60,305 | 4.58 | 426 |
 | 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 43,418 | 4.61 | 366 |
 | 13 | [Destiny 2](games/d/destiny_2.md) | 36,510 | 4.49 | 577 |
@@ -51,7 +51,7 @@
 | 49 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 7,012 | 4.58 | 426 |
 | 50 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 6,996 | 4.71 | 188 |
 | 51 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 6,973 | 4.74 | 146 |
-| 52 | [DEATH STRANDING](games/d/death_stranding.md) | 6,755 | 4.77 | 109 |
+| 52 | [DEATH STRANDING](games/d/death_stranding.md) | 6,766 | 4.77 | 109 |
 | 53 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 672 |
 | 54 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,410 | 4.80 | 81 |
 | 55 | [Sifu](games/s/sifu.md) | 6,389 | 4.82 | 65 |
@@ -66,7 +66,7 @@
 | 64 | [Prey](games/p/prey.md) | 5,644 | 4.62 | 348 |
 | 65 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,547 | 4.85 | 42 |
 | 66 | [Rogue Company](games/r/rogue_company.md) | 5,282 | 4.33 | 770 |
-| 67 | [Cities: Skylines](games/c/cities__skylines.md) | 5,199 | 4.65 | 299 |
+| 67 | [Cities: Skylines](games/c/cities__skylines.md) | 5,203 | 4.65 | 299 |
 | 68 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,179 | 4.06 | 925 |
 | 69 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,782 | 4.69 | 216 |
 | 70 | [MultiVersus](games/m/multiversus.md) | 4,746 | 4.56 | 473 |
@@ -79,7 +79,7 @@
 | 77 | [Bloons TD 6](games/b/bloons_td_6.md) | 4,229 | 4.77 | 109 |
 | 78 | [God of War](games/g/god_of_war.md) | 4,215 | 4.88 | 19 |
 | 79 | [SMITE](games/s/smite.md) | 4,185 | 4.44 | 650 |
-| 80 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,113 | 4.51 | 543 |
+| 80 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,114 | 4.51 | 543 |
 | 81 | [Days Gone](games/d/days_gone.md) | 3,916 | 4.68 | 238 |
 | 82 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,767 | 4.57 | 451 |
 | 83 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,735 | 4.28 | 808 |

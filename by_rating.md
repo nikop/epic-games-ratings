@@ -109,7 +109,7 @@
 | 101 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 932 | 150 |
 | 101 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.78 | 0 | 514 |
 | 109 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 4,229 | 77 |
-| 109 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 6,755 | 52 |
+| 109 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 6,766 | 52 |
 | 109 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 21,894 | 17 |
 | 109 | [Remnant 2](games/r/remnant_2.md) | 4.77 | 1,119 | 138 |
 | 109 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.77 | 38 | 428 |
@@ -300,7 +300,7 @@
 | 275 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 0 | 514 |
 | 299 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 0 | 514 |
 | 299 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.65 | 0 | 514 |
-| 299 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 5,199 | 67 |
+| 299 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 5,203 | 67 |
 | 299 | [F1® 23](games/f/f1®_23_standard_edition.md) | 4.65 | 0 | 514 |
 | 299 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 4.65 | 0 | 514 |
 | 299 | [High On Life](games/h/high_on_life.md) | 4.65 | 0 | 514 |
@@ -525,7 +525,7 @@
 | 514 | [RUINER](games/r/ruiner.md) | 4.53 | 24 | 483 |
 | 514 | [Tails of Iron](games/t/tails_of_iron.md) | 4.53 | 0 | 514 |
 | 514 | [The Tenants](games/t/the_tenants.md) | 4.53 | 0 | 514 |
-| 514 | [VALORANT](games/v/valorant.md) | 4.53 | 65,747 | 10 |
+| 514 | [VALORANT](games/v/valorant.md) | 4.53 | 65,865 | 10 |
 | 527 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 776 | 159 |
 | 527 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 31,390 | 15 |
 | 527 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 21 | 502 |
@@ -543,7 +543,7 @@
 | 527 | [Verdun](games/v/verdun.md) | 4.52 | 96 | 344 |
 | 527 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 0 | 514 |
 | 543 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 97 | 340 |
-| 543 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,113 | 80 |
+| 543 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,114 | 80 |
 | 543 | [CryoFall](games/c/cryofall.md) | 4.51 | 0 | 514 |
 | 543 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 41 | 423 |
 | 543 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.51 | 2,675 | 96 |
