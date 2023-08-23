@@ -32,7 +32,7 @@
 | 30 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
 | 31 | [Sonic Origins](games/s/sonic_origins.md) | 9.42% |
 | 32 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.09% |
-| 33 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.02% |
+| 33 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.01% |
 | 34 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.48% |
 | 35 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 7.89% |
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.51% |
@@ -71,7 +71,7 @@
 | 69 | [Bunny Park](games/b/bunny_park.md) | 3.37% |
 | 70 | [The Complex](games/t/the_complex.md) | 3.35% |
 | 71 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.30% |
-| 72 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.24% |
+| 72 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.23% |
 | 73 | [HordeCore](games/h/hordecore.md) | 3.15% |
 | 74 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.14% |
 | 75 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.04% |
@@ -87,7 +87,7 @@
 | 85 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.56% |
 | 86 | [Lamentum](games/l/lamentum.md) | 2.53% |
 | 87 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 88 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.44% |
+| 88 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.42% |
 | 89 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.35% |
 | 90 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.26% |
 | 91 | [Bloodshore](games/b/bloodshore.md) | 2.21% |
@@ -381,6 +381,7 @@
 | 262 | [Influent](games/3/3d27fbb922a04299b8401e1b50c55619.md) | 0.00% |
 | 262 | [Insomnis](games/i/insomnis.md) | 0.00% |
 | 262 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 0.00% |
+| 262 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 0.00% |
 | 262 | [IXION](games/i/ixion.md) | 0.00% |
 | 262 | [JYDGE](games/j/jydge.md) | 0.00% |
 | 262 | [Kabaret](games/k/kabaret.md) | 0.00% |
@@ -554,4 +555,4 @@
 | 262 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 262 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 262 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,103 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,104 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
