@@ -5,37 +5,37 @@ Rating: 4.27 (Ranked 814)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~156,004 |
-| Copacetic Coordination | 16.00% | ~54,262 |
-| Fronting the Money | 15.00% | ~50,871 |
-| The Dawn of Automation | 14.00% | ~47,480 |
-| Extraordinary Logistics | 14.00% | ~47,480 |
-| Dirty Money | 13.00% | ~44,088 |
-| Family First | 13.00% | ~44,088 |
-| Cleaning House | 12.00% | ~40,697 |
-| Room in the Back | 12.00% | ~40,697 |
-| Beating the Heat | 11.00% | ~37,305 |
-| Booze Baron | 11.00% | ~37,305 |
-| Friends on the Force | 10.00% | ~33,914 |
-| Neighborhood Watch | 10.00% | ~33,914 |
-| Core Corps | 8.00% | ~27,131 |
-| Sizeable Stash | 8.00% | ~27,131 |
-| Street Fighter | 7.00% | ~23,740 |
-| Friendly Gestures | 7.00% | ~23,740 |
-| People Person | 7.00% | ~23,740 |
-| Liquor Lord | 6.00% | ~20,348 |
-| Safety in Numbers | 6.00% | ~20,348 |
-| Moving Experiences | 6.00% | ~20,348 |
-| Wise Head | 6.00% | ~20,348 |
-| Show ‘em the Sugar | 6.00% | ~20,348 |
-| Killing Them Softly | 6.00% | ~20,348 |
-| Street Knowledge | 5.00% | ~16,957 |
-| Oh Captain | 5.00% | ~16,957 |
-| Branching Out | 5.00% | ~16,957 |
-| Improvement Missions | 5.00% | ~16,957 |
-| Opportunity Knocked | 5.00% | ~16,957 |
-| City of Big Shoulders | 5.00% | ~16,957 |
-| Mission Mastery | 5.00% | ~16,957 |
+| Corner Clout | 46.00% | ~156,009 |
+| Copacetic Coordination | 16.00% | ~54,264 |
+| Fronting the Money | 15.00% | ~50,872 |
+| The Dawn of Automation | 14.00% | ~47,481 |
+| Extraordinary Logistics | 14.00% | ~47,481 |
+| Dirty Money | 13.00% | ~44,090 |
+| Family First | 13.00% | ~44,090 |
+| Cleaning House | 12.00% | ~40,698 |
+| Room in the Back | 12.00% | ~40,698 |
+| Beating the Heat | 11.00% | ~37,306 |
+| Booze Baron | 11.00% | ~37,306 |
+| Friends on the Force | 10.00% | ~33,915 |
+| Neighborhood Watch | 10.00% | ~33,915 |
+| Core Corps | 8.00% | ~27,132 |
+| Sizeable Stash | 8.00% | ~27,132 |
+| Street Fighter | 7.00% | ~23,741 |
+| Friendly Gestures | 7.00% | ~23,741 |
+| People Person | 7.00% | ~23,741 |
+| Liquor Lord | 6.00% | ~20,349 |
+| Safety in Numbers | 6.00% | ~20,349 |
+| Moving Experiences | 6.00% | ~20,349 |
+| Wise Head | 6.00% | ~20,349 |
+| Show ‘em the Sugar | 6.00% | ~20,349 |
+| Killing Them Softly | 6.00% | ~20,349 |
+| Street Knowledge | 5.00% | ~16,958 |
+| Oh Captain | 5.00% | ~16,958 |
+| Branching Out | 5.00% | ~16,958 |
+| Improvement Missions | 5.00% | ~16,958 |
+| Opportunity Knocked | 5.00% | ~16,958 |
+| City of Big Shoulders | 5.00% | ~16,958 |
+| Mission Mastery | 5.00% | ~16,958 |
 | Considerable Clams | 4.00% | ~13,566 |
 | Gin Joint | 4.00% | ~13,566 |
 | An Affront to the Enemy | 4.00% | ~13,566 |
@@ -53,12 +53,12 @@ Rating: 4.27 (Ranked 814)
 | Dropping the Dime | 2.00% | ~6,783 |
 | Spiffy Speakeasies | 2.00% | ~6,783 |
 | Keeping Your Word | 2.00% | ~6,783 |
-| Boxing Them In | 1.00% | ~3,391 |
-| Backroom Empire | 1.00% | ~3,391 |
-| Corner Control | 1.00% | ~3,391 |
-| Full House | 1.00% | ~3,391 |
-| The Rubber Meets the Road | 1.00% | ~3,391 |
-| Cat’s Meow Clubs | 1.00% | ~3,391 |
+| Boxing Them In | 1.00% | ~3,392 |
+| Backroom Empire | 1.00% | ~3,392 |
+| Corner Control | 1.00% | ~3,392 |
+| Full House | 1.00% | ~3,392 |
+| The Rubber Meets the Road | 1.00% | ~3,392 |
+| Cat’s Meow Clubs | 1.00% | ~3,392 |
 | Determined Deliveries | 0.90% | ~3,052 |
 | Stepping It Up | 0.90% | ~3,052 |
 | Boots in the Ground | 0.80% | ~2,713 |
@@ -86,7 +86,7 @@ Rating: 4.27 (Ranked 814)
 | High Pillow | 0.10% | ~339 |
 | Station Master | 0.10% | ~339 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 339,140 (Ranked 42)  
+Progressed: 339,150 (Ranked 42)  
 Completed: 7 (0.00%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,7 +211,7 @@ Completed: 7 (0.00%) (Ranked 262)
 | 2023-08-20 | 338,663 | 7 |
 | 2023-08-21 | 338,883 | 7 |
 | 2023-08-22 | 339,063 | 7 |
-| 2023-08-23 | 339,140 | 7 |
+| 2023-08-23 | 339,150 | 7 |
 ## Awards
 Max (Great for Beginners): 33  (Ranked 448)  
 Sum: 162 (Ranked 390)  

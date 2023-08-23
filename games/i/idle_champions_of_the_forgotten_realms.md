@@ -25,6 +25,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vecna Loots! | 0.20% | ~381 |
 | Return to the Tomb | 0.20% | ~381 |
 | Heatwave | 0.20% | ~381 |
+| The Dread Domain of Tovag | 0.20% | ~381 |
 | A Persistent Buzzing | 0.20% | ~449 |
 | Beast Mode | 0.20% | ~449 |
 | Terror in the Dark | 0.20% | ~449 |
@@ -147,7 +148,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Keep Your Distance | 0.10% | ~191 |
 | To Avernus in a Handbasket | 0.10% | ~191 |
 | Hands Off! | 0.10% | ~191 |
-| The Dread Domain of Tovag | 0.10% | ~191 |
 | Weak Doesn't Mean Feeble | 0.10% | ~191 |
 | Frail Doesn't Mean Broken | 0.10% | ~191 |
 | The Castle of a Thousand Vecnas | 0.10% | ~191 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~191 |
 | Animated Giff | 0.10% | ~191 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,299 (Ranked 53)  
+Progressed: 224,306 (Ranked 53)  
 Completed: 2,208 (0.98%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -648,7 +648,7 @@ Completed: 2,208 (0.98%) (Ranked 121)
 | 2023-08-20 | 223,729 | 2,196 |
 | 2023-08-21 | 223,996 | 2,203 |
 | 2023-08-22 | 224,213 | 2,207 |
-| 2023-08-23 | 224,299 | 2,208 |
+| 2023-08-23 | 224,306 | 2,208 |
 ## Awards
 Max (Diverse Characters): 5,176  (Ranked 68)  
 Sum: 31,178 (Ranked 39)  

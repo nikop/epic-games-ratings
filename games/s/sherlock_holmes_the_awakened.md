@@ -5,7 +5,7 @@ Rating: 4.68 (Ranked 238)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| To Hell In A Handcart | 66.00% | ~401 |
+| To Hell In A Handcart | 67.00% | ~407 |
 | Read Between The Lines | 65.00% | ~395 |
 | High Profile | 59.00% | ~358 |
 | Whispers In The Dark | 58.00% | ~352 |
@@ -20,7 +20,7 @@ Rating: 4.68 (Ranked 238)
 | Land, Ho! | 49.00% | ~297 |
 | Lock, Stock, And Barrel | 48.00% | ~291 |
 | Back In The Saddle | 48.00% | ~291 |
-| No Man Is An Island | 47.00% | ~285 |
+| No Man Is An Island | 48.00% | ~291 |
 | At Wits' End | 46.00% | ~279 |
 | Fhtagn! | 45.00% | ~273 |
 | Bookworm | 44.00% | ~267 |

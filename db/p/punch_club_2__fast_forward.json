@@ -4,8 +4,8 @@
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 76,
-  "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
     "PcReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -1254,9 +1254,9 @@
       "ID": "met_casey",
       "SetID": "69co12a",
       "Name": "Pal of your father?",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 174
+      "UsersEstimate": 177
     },
     {
       "ID": "met_k",
@@ -1501,8 +1501,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-08-23T11:06:06.1162358+00:00",
+  "LastChanged_Achievements": "2023-08-23T12:05:29.6725969+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:55.5083268+00:00",
-  "LastUpdate_Ratings": "2023-08-23T10:59:34.1336367+00:00",
-  "LastUpdate_Achievements": "2023-08-23T11:06:06.11631+00:00"
+  "LastUpdate_Ratings": "2023-08-23T11:59:10.9775975+00:00",
+  "LastUpdate_Achievements": "2023-08-23T12:05:29.6726563+00:00"
 }

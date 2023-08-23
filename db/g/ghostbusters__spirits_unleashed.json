@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 186,
   "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -1880,7 +1880,7 @@
   ],
   "EOS_Progressed": 25281,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -11102,9 +11102,9 @@
       "ID": "Advancement",
       "SetID": "819popo",
       "Name": "Advancement",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 18202
+      "UsersEstimate": 18455
     },
     {
       "ID": "Animated",
@@ -11519,8 +11519,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-08-20T20:00:34.3047121+00:00",
-  "LastChanged_Achievements": "2023-08-23T11:03:29.8131994+00:00",
+  "LastChanged_Achievements": "2023-08-23T12:03:10.4062623+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:37.9111082+00:00",
-  "LastUpdate_Ratings": "2023-08-23T11:01:11.2398321+00:00",
-  "LastUpdate_Achievements": "2023-08-23T11:03:29.8134078+00:00"
+  "LastUpdate_Ratings": "2023-08-23T12:00:38.0852459+00:00",
+  "LastUpdate_Achievements": "2023-08-23T12:03:10.4063448+00:00"
 }

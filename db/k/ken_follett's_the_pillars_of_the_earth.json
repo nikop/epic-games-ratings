@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 128,
   "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -495,9 +495,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 14742,
+  "EOS_Progressed": 14744,
   "EOS_Completed": 110,
-  "EOS_NewPlayers": 140,
+  "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -8685,6 +8685,11 @@
       "Time": "2023-08-23T09:06:28.5172459+00:00",
       "NumProgressed": 14742,
       "NumCompleted": 110
+    },
+    {
+      "Time": "2023-08-23T12:05:15.365269+00:00",
+      "NumProgressed": 14744,
+      "NumCompleted": 110
     }
   ],
   "TotalAchievements": 41,
@@ -8694,9 +8699,9 @@
       "ID": "tpote_achievement_1",
       "SetID": "3jcf6c3",
       "Name": "Good midwife",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1622
+      "UsersEstimate": 1474
     },
     {
       "ID": "tpote_achievement_10",
@@ -8712,7 +8717,7 @@
       "Name": "Wannabe knight",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3538
+      "UsersEstimate": 3539
     },
     {
       "ID": "tpote_achievement_12",
@@ -8736,7 +8741,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 4865
+      "UsersEstimate": 4866
     },
     {
       "ID": "tpote_achievement_15",
@@ -8784,7 +8789,7 @@
       "Name": "Yet another secret",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 5012
+      "UsersEstimate": 5013
     },
     {
       "ID": "tpote_achievement_20",
@@ -8808,7 +8813,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2948
+      "UsersEstimate": 2949
     },
     {
       "ID": "tpote_achievement_23",
@@ -8840,7 +8845,7 @@
       "Name": "Exterminator",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1916
+      "UsersEstimate": 1917
     },
     {
       "ID": "tpote_achievement_27",
@@ -8856,7 +8861,7 @@
       "Name": "Whodunnit",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1916
+      "UsersEstimate": 1917
     },
     {
       "ID": "tpote_achievement_29",
@@ -8872,7 +8877,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 4717
+      "UsersEstimate": 4718
     },
     {
       "ID": "tpote_achievement_30",
@@ -8912,7 +8917,7 @@
       "Name": "A cry for help",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1179
+      "UsersEstimate": 1180
     },
     {
       "ID": "tpote_achievement_35",
@@ -8960,7 +8965,7 @@
       "Name": "Tattletale",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 6044
+      "UsersEstimate": 6045
     },
     {
       "ID": "tpote_achievement_40",
@@ -8984,7 +8989,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 3538
+      "UsersEstimate": 3539
     },
     {
       "ID": "tpote_achievement_6",
@@ -8992,7 +8997,7 @@
       "Name": "Full house",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3538
+      "UsersEstimate": 3539
     },
     {
       "ID": "tpote_achievement_7",
@@ -9008,7 +9013,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 3243
+      "UsersEstimate": 3244
     },
     {
       "ID": "tpote_achievement_9",
@@ -9023,15 +9028,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 14742,
+      "Progressed": 14744,
       "Completed": 110
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-08-03T13:08:30.3350415+00:00",
-  "LastChanged_Achievements": "2023-08-23T11:05:50.3610504+00:00",
+  "LastChanged_Achievements": "2023-08-23T12:05:15.3652686+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:51.0435439+00:00",
-  "LastUpdate_Ratings": "2023-08-23T10:57:59.4807629+00:00",
-  "LastUpdate_Achievements": "2023-08-23T11:05:50.3611994+00:00"
+  "LastUpdate_Ratings": "2023-08-23T11:57:51.5978924+00:00",
+  "LastUpdate_Achievements": "2023-08-23T12:05:15.3653393+00:00"
 }

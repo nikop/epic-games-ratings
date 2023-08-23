@@ -18,10 +18,10 @@ Rating: 4.14 (Ranked 901)
 | Through the Eyes of Another: Empath | 4.00% | ~1,590 |
 | Stuck | 4.00% | ~1,590 |
 | Help Me Out Here | 4.00% | ~1,590 |
-| Outdoorsperson | 3.00% | ~1,192 |
-| The Interloper | 3.00% | ~1,192 |
-| Hop, Step, Jump | 3.00% | ~1,192 |
-| Endless Runner | 3.00% | ~1,192 |
+| Outdoorsperson | 3.00% | ~1,193 |
+| The Interloper | 3.00% | ~1,193 |
+| Hop, Step, Jump | 3.00% | ~1,193 |
+| Endless Runner | 3.00% | ~1,193 |
 | What Must Be Done | 2.00% | ~795 |
 | Might and Main | 2.00% | ~795 |
 | Damned If You Do... | 2.00% | ~795 |
@@ -36,8 +36,8 @@ Rating: 4.14 (Ranked 901)
 | Pilgrimage: Novice | 1.00% | ~398 |
 | Wildfire | 0.70% | ~278 |
 | Realized Potential | 0.70% | ~278 |
-| Awakening | 0.60% | ~238 |
-| Explorer: Trailblazer | 0.60% | ~238 |
+| Awakening | 0.60% | ~239 |
+| Explorer: Trailblazer | 0.60% | ~239 |
 | Through the Eyes of Another: Seer | 0.50% | ~199 |
 | Archivist | 0.30% | ~119 |
 | Craftsperson | 0.30% | ~119 |
@@ -59,7 +59,7 @@ Rating: 4.14 (Ranked 901)
 | Remembrance | 0.10% | ~40 |
 | Cat Person | 0.10% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 39,750 (Ranked 94)  
+Progressed: 39,753 (Ranked 94)  
 Completed: 3 (0.01%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,7 +184,7 @@ Completed: 3 (0.01%) (Ranked 249)
 | 2023-08-20 | 39,732 | 3 |
 | 2023-08-21 | 39,736 | 3 |
 | 2023-08-22 | 39,746 | 3 |
-| 2023-08-23 | 39,750 | 3 |
+| 2023-08-23 | 39,753 | 3 |
 ## Awards
 Max (Character Customization): 24  (Ranked 483)  
 Sum: 24 (Ranked 488)  

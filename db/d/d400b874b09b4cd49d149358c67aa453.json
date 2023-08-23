@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 159,
   "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-08-04T16:00:00+00:00",
     "PcReleaseDate": "2022-09-21T16:00:00+00:00",
@@ -886,9 +886,9 @@
       "ID": "ACH_FIRST_SHOCK",
       "SetID": "al4k4nh",
       "Name": "First shock",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 161
+      "UsersEstimate": 163
     },
     {
       "ID": "ACH_FIX_LIGHT_SWITCHES",
@@ -934,9 +934,9 @@
       "ID": "ACH_GO_TO_MISSION_WITHOUT_NEEDED_ITEMS",
       "SetID": "al4k4nh",
       "Name": "I like the risk",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 73
     },
     {
       "ID": "ACH_LISTEN_ALL_MUSIC",
@@ -1021,8 +1021,8 @@
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2023-08-23T11:07:31.143841+00:00",
+  "LastChanged_Achievements": "2023-08-23T12:06:44.9738724+00:00",
   "LastUpdate_AppInfo": "2023-08-16T17:57:06.0190201+00:00",
-  "LastUpdate_Ratings": "2023-08-23T10:59:19.8740976+00:00",
-  "LastUpdate_Achievements": "2023-08-23T11:07:31.1438806+00:00"
+  "LastUpdate_Ratings": "2023-08-23T11:58:56.4196328+00:00",
+  "LastUpdate_Achievements": "2023-08-23T12:06:44.9738919+00:00"
 }

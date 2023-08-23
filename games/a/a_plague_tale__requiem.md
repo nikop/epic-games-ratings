@@ -9,8 +9,8 @@ Rating: 4.73 (Ranked 164)
 | Newcomers | 79.00% | ~10,137 |
 | A Burden of Blood | 74.00% | ~9,496 |
 | Protector's Duty | 70.00% | ~8,982 |
+| Alchemist | 69.00% | ~8,854 |
 | In our Wake | 68.00% | ~8,726 |
-| Alchemist | 68.00% | ~8,726 |
 | Leaving all Behind | 65.00% | ~8,341 |
 | Felons | 62.00% | ~7,956 |
 | A Sea of Promises | 60.00% | ~7,699 |

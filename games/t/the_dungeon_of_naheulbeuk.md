@@ -6,11 +6,11 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 22.00% | ~47,556 |
-| Déjà vu | 2.00% | ~4,323 |
-| Where's that freaking Dwarf? | 2.00% | ~4,323 |
-| Sock! SOCK! | 2.00% | ~4,323 |
-| Alt+F4 | 2.00% | ~4,323 |
+| Sowwy! | 22.00% | ~47,559 |
+| Déjà vu | 2.00% | ~4,324 |
+| Where's that freaking Dwarf? | 2.00% | ~4,324 |
+| Sock! SOCK! | 2.00% | ~4,324 |
+| Alt+F4 | 2.00% | ~4,324 |
 | A beer, two curses, three companions | 1.00% | ~2,162 |
 | GG EZ | 1.00% | ~2,162 |
 | DM intervention | 1.00% | ~2,162 |
@@ -40,11 +40,11 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Fortress | 0.40% | ~865 |
 | Look but don't touch | 0.40% | ~865 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.40% | ~865 |
-| Dead for good | 0.30% | ~648 |
-| Gargantua | 0.30% | ~648 |
-| In Navalu's footsteps | 0.30% | ~648 |
-| Lust and Debauchery | 0.30% | ~648 |
-| Material Girl | 0.30% | ~648 |
+| Dead for good | 0.30% | ~649 |
+| Gargantua | 0.30% | ~649 |
+| In Navalu's footsteps | 0.30% | ~649 |
+| Lust and Debauchery | 0.30% | ~649 |
+| Material Girl | 0.30% | ~649 |
 | Holistic Adventuring Party | 0.20% | ~432 |
 | An old poacher makes the best gamekeeper | 0.20% | ~432 |
 | We come in peace | 0.20% | ~432 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~216 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,165 (Ranked 56)  
+Progressed: 216,178 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 2 (0.00%) (Ranked 262)
 | 2023-08-20 | 215,307 | 2 |
 | 2023-08-21 | 215,690 | 2 |
 | 2023-08-22 | 216,036 | 2 |
-| 2023-08-23 | 216,165 | 2 |
+| 2023-08-23 | 216,178 | 2 |
 ## Awards
 Max (Character Customization): 173  (Ranked 285)  
 Sum: 215 (Ranked 364)  

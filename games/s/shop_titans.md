@@ -34,6 +34,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Vanity, Verily | 0.40% | ~540 |
 | Fated Encounters | 0.40% | ~540 |
 | Blank Page Syndrome | 0.40% | ~540 |
+| Power of Love | 0.40% | ~540 |
 | Efficient Floor Space | 0.40% | ~540 |
 | Flawless Fusion | 0.40% | ~540 |
 | Gem Expert | 0.40% | ~540 |
@@ -56,7 +57,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | This Power Level...! | 0.30% | ~405 |
 | Master of Transmutation | 0.30% | ~405 |
 | Hidden Potential | 0.30% | ~405 |
-| Power of Love | 0.30% | ~405 |
 | Supercharged | 0.30% | ~405 |
 | Expansion in Session | 0.30% | ~405 |
 | Cranked up to 11 | 0.30% | ~405 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~135 |
 | Cash Only Please | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,975 (Ranked 66)  
+Progressed: 134,980 (Ranked 66)  
 Completed: 138 (0.10%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,7 +244,7 @@ Completed: 138 (0.10%) (Ranked 210)
 | 2023-08-20 | 134,856 | 133 |
 | 2023-08-21 | 134,907 | 134 |
 | 2023-08-22 | 134,956 | 136 |
-| 2023-08-23 | 134,975 | 138 |
+| 2023-08-23 | 134,980 | 138 |
 ## Awards
 Max (Great for Beginners): 4,709  (Ranked 71)  
 Sum: 27,128 (Ranked 47)  

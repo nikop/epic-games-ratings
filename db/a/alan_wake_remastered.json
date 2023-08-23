@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 61370,
+  "EOS_Progressed": 61372,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 442,
+  "EOS_NewPlayers": 441,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -12127,6 +12127,11 @@
       "Time": "2023-08-23T11:06:55.894469+00:00",
       "NumProgressed": 61370,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-08-23T12:06:14.0880199+00:00",
+      "NumProgressed": 61372,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 67,
@@ -12146,7 +12151,7 @@
       "Name": "Nordic Walking",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 14115
+      "UsersEstimate": 14116
     },
     {
       "ID": "03",
@@ -12154,7 +12159,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 14115
+      "UsersEstimate": 14116
     },
     {
       "ID": "04",
@@ -12186,7 +12191,7 @@
       "Name": "Heavy Metal",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7364
+      "UsersEstimate": 7365
     },
     {
       "ID": "08",
@@ -12194,7 +12199,7 @@
       "Name": "Iron Horse",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7364
+      "UsersEstimate": 7365
     },
     {
       "ID": "09",
@@ -12218,7 +12223,7 @@
       "Name": "Children of the Elder God",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3068
+      "UsersEstimate": 3069
     },
     {
       "ID": "12",
@@ -12226,7 +12231,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7364
+      "UsersEstimate": 7365
     },
     {
       "ID": "13",
@@ -12234,7 +12239,7 @@
       "Name": "Drink \u0027Em Both Up",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3068
+      "UsersEstimate": 3069
     },
     {
       "ID": "14",
@@ -12346,7 +12351,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7364
+      "UsersEstimate": 7365
     },
     {
       "ID": "28",
@@ -12354,7 +12359,7 @@
       "Name": "Come One, Come All",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7364
+      "UsersEstimate": 7365
     },
     {
       "ID": "29",
@@ -12378,7 +12383,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 9819
+      "UsersEstimate": 9820
     },
     {
       "ID": "32",
@@ -12386,7 +12391,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 17797
+      "UsersEstimate": 17798
     },
     {
       "ID": "33",
@@ -12410,7 +12415,7 @@
       "Name": "Let There Be Light",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 18411
+      "UsersEstimate": 18412
     },
     {
       "ID": "36",
@@ -12458,7 +12463,7 @@
       "Name": "Finders Keepers",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 9819
+      "UsersEstimate": 9820
     },
     {
       "ID": "42",
@@ -12673,21 +12678,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 61370,
+      "Progressed": 61372,
       "Completed": 65
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 24838,
+      "Progressed": 24840,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-08-23T11:06:55.8944683+00:00",
+  "LastChanged_Achievements": "2023-08-23T12:06:14.0880194+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:35.5614422+00:00",
-  "LastUpdate_Ratings": "2023-08-23T10:59:48.4941791+00:00",
-  "LastUpdate_Achievements": "2023-08-23T11:06:55.8947171+00:00"
+  "LastUpdate_Ratings": "2023-08-23T11:59:23.7361543+00:00",
+  "LastUpdate_Achievements": "2023-08-23T12:06:14.088133+00:00"
 }

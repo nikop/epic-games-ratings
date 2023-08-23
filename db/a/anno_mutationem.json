@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 261,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
     "PcReleaseDate": "2022-03-17T09:00:00+00:00",
@@ -103,9 +103,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 663,
+  "EOS_Progressed": 664,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -473,6 +473,11 @@
       "Time": "2023-08-20T18:04:04.0229327+00:00",
       "NumProgressed": 663,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-23T12:04:03.0017472+00:00",
+      "NumProgressed": 664,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -540,7 +545,7 @@
       "Name": "Deadly Kombationem",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "Fire in the hole!",
@@ -572,7 +577,7 @@
       "Name": "I just love stuff!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "I_think_its_broke",
@@ -580,7 +585,7 @@
       "Name": "I think it\u0027s broke",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "In the smacker...I think",
@@ -596,7 +601,7 @@
       "Name": "Keep \u0027em coming!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "Lady_Luck",
@@ -650,9 +655,9 @@
       "ID": "Tell_me_your_story",
       "SetID": "gl7plp",
       "Name": "Tell me your story",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 504
+      "UsersEstimate": 498
     },
     {
       "ID": "Thats_gotta_hurt",
@@ -684,7 +689,7 @@
       "Name": "The Ann Flores Combo Experience",
       "Percentage": 26,
       "XP": 40,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "The_Warlord",
@@ -771,7 +776,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 663,
+      "Progressed": 664,
       "Completed": 0
     }
   ],
@@ -779,8 +784,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-08-11T17:59:11.6901866+00:00",
-  "LastChanged_Achievements": "2023-08-23T11:04:28.3289729+00:00",
+  "LastChanged_Achievements": "2023-08-23T12:04:03.0017468+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:30.9188083+00:00",
-  "LastUpdate_Ratings": "2023-08-23T10:59:47.3841599+00:00",
-  "LastUpdate_Achievements": "2023-08-23T11:04:28.3290147+00:00"
+  "LastUpdate_Ratings": "2023-08-23T11:59:22.8546868+00:00",
+  "LastUpdate_Achievements": "2023-08-23T12:04:03.0017708+00:00"
 }

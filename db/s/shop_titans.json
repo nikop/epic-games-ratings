@@ -5716,9 +5716,9 @@
       "Count": 3737
     }
   ],
-  "EOS_Progressed": 134975,
+  "EOS_Progressed": 134980,
   "EOS_Completed": 138,
-  "EOS_NewPlayers": 381,
+  "EOS_NewPlayers": 382,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -18506,6 +18506,11 @@
       "Time": "2023-08-23T11:06:54.1233709+00:00",
       "NumProgressed": 134975,
       "NumCompleted": 138
+    },
+    {
+      "Time": "2023-08-23T12:06:12.8079991+00:00",
+      "NumProgressed": 134980,
+      "NumCompleted": 138
     }
   ],
   "TotalAchievements": 112,
@@ -18875,9 +18880,9 @@
       "ID": "energy02",
       "SetID": "anfd17p",
       "Name": "Power of Love",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 405
+      "UsersEstimate": 540
     },
     {
       "ID": "energy03",
@@ -19412,15 +19417,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 134975,
+      "Progressed": 134980,
       "Completed": 138
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-08-22T17:00:35.1367451+00:00",
-  "LastChanged_Achievements": "2023-08-23T11:06:54.1233701+00:00",
+  "LastChanged_Achievements": "2023-08-23T12:06:12.8079987+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:50.7489496+00:00",
-  "LastUpdate_Ratings": "2023-08-23T11:00:35.6336331+00:00",
-  "LastUpdate_Achievements": "2023-08-23T11:06:54.1238078+00:00"
+  "LastUpdate_Ratings": "2023-08-23T12:00:05.4719765+00:00",
+  "LastUpdate_Achievements": "2023-08-23T12:06:12.8081857+00:00"
 }

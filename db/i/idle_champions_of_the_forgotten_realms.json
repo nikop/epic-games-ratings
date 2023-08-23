@@ -6022,9 +6022,9 @@
       "Count": 3365
     }
   ],
-  "EOS_Progressed": 224299,
+  "EOS_Progressed": 224306,
   "EOS_Completed": 2208,
-  "EOS_NewPlayers": 1944,
+  "EOS_NewPlayers": 1939,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -19667,6 +19667,11 @@
       "Time": "2023-08-23T11:06:38.8387952+00:00",
       "NumProgressed": 224299,
       "NumCompleted": 2208
+    },
+    {
+      "Time": "2023-08-23T12:05:59.367174+00:00",
+      "NumProgressed": 224306,
+      "NumCompleted": 2208
     }
   ],
   "TotalAchievements": 516,
@@ -20460,9 +20465,9 @@
       "ID": "objective_completed_1183",
       "SetID": "415jc5c",
       "Name": "The Dread Domain of Tovag",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 191
+      "UsersEstimate": 381
     },
     {
       "ID": "objective_completed_1184",
@@ -23805,21 +23810,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 190573,
+      "Progressed": 190580,
       "Completed": 3293
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 224299,
+      "Progressed": 224306,
       "Completed": 2208
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-23T10:01:18.3969955+00:00",
-  "LastChanged_Achievements": "2023-08-23T11:06:38.8387945+00:00",
+  "LastChanged_Achievements": "2023-08-23T12:05:59.3671736+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:12.3267162+00:00",
-  "LastUpdate_Ratings": "2023-08-23T11:00:13.949427+00:00",
-  "LastUpdate_Achievements": "2023-08-23T11:06:38.8419105+00:00"
+  "LastUpdate_Ratings": "2023-08-23T11:59:45.8643583+00:00",
+  "LastUpdate_Achievements": "2023-08-23T12:05:59.3696251+00:00"
 }

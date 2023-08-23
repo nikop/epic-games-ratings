@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 7,
   "Ranking_EOS_Progress": 556,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 346,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2019-11-05T13:00:00+00:00",
     "PcReleaseDate": null,
@@ -11786,18 +11786,24 @@
       "Rating": 4.88,
       "NumberOfAwards": 437325,
       "NumberOfAwardsMax": 169153
+    },
+    {
+      "Time": "2023-08-23T12:00:39.2612419+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 437527,
+      "NumberOfAwardsMax": 169335
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 437325,
-  "NumberOfAwardsMax": 169153,
+  "NumberOfAwards": 437527,
+  "NumberOfAwardsMax": 169335,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
     {
       "Text": "In this game, your choices Impact the Story",
       "Prefix": "In this game, your choices",
       "Type": "Impact the Story",
-      "Count": 169153
+      "Count": 169335
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -11875,7 +11881,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 11950
+      "Count": 11970
     }
   ],
   "EOS_Progressed": 0,
@@ -11889,8 +11895,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2023-08-23T05:02:04.3384238+00:00",
+  "LastChanged": "2023-08-23T12:00:39.2612418+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:46.4235001+00:00",
-  "LastUpdate_Ratings": "2023-08-23T11:01:12.5445125+00:00",
-  "LastUpdate_Achievements": "2023-08-23T11:06:58.3407312+00:00"
+  "LastUpdate_Ratings": "2023-08-23T12:00:39.2612424+00:00",
+  "LastUpdate_Achievements": "2023-08-23T12:06:16.2309916+00:00"
 }
