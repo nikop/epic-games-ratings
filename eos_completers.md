@@ -51,7 +51,7 @@
 | 48 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.36% |
 | 50 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.33% |
 | 51 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.13% |
-| 52 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.97% |
+| 52 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.96% |
 | 53 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.78% |
 | 54 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 4.76% |
 | 55 | [Bugsnax](games/b/bugsnax.md) | 4.72% |
@@ -64,13 +64,13 @@
 | 62 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.95% |
 | 63 | [ZZT!](games/z/zzt!.md) | 3.87% |
 | 64 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
-| 65 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 3.73% |
+| 65 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 3.70% |
 | 66 | [Without Escape](games/w/without_escape.md) | 3.57% |
 | 67 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 68 | [Doodle God](games/d/doodle_god.md) | 3.43% |
 | 69 | [Bunny Park](games/b/bunny_park.md) | 3.37% |
-| 70 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.35% |
 | 70 | [The Complex](games/t/the_complex.md) | 3.35% |
+| 71 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.33% |
 | 72 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.30% |
 | 73 | [HordeCore](games/h/hordecore.md) | 3.15% |
 | 74 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.14% |
@@ -89,7 +89,7 @@
 | 87 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 88 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.46% |
 | 89 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.35% |
-| 90 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.26% |
+| 90 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.25% |
 | 91 | [Bloodshore](games/b/bloodshore.md) | 2.21% |
 | 92 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
 | 93 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.02% |
@@ -146,8 +146,8 @@
 | 144 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.52% |
 | 144 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
 | 146 | [Aragami 2](games/a/aragami_2.md) | 0.51% |
-| 146 | [The Surge 2](games/t/the_surge_2.md) | 0.51% |
-| 148 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.50% |
+| 147 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.50% |
+| 147 | [The Surge 2](games/t/the_surge_2.md) | 0.50% |
 | 149 | [Godlike Burger](games/g/godlike_burger.md) | 0.49% |
 | 150 | [Them and Us](games/t/them_and_us.md) | 0.48% |
 | 151 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
