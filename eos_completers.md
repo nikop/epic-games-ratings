@@ -70,7 +70,7 @@
 | 68 | [Doodle God](games/d/doodle_god.md) | 3.43% |
 | 69 | [Bunny Park](games/b/bunny_park.md) | 3.37% |
 | 70 | [The Complex](games/t/the_complex.md) | 3.35% |
-| 71 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.32% |
+| 71 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.31% |
 | 72 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.30% |
 | 73 | [HordeCore](games/h/hordecore.md) | 3.15% |
 | 74 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.14% |
@@ -92,7 +92,7 @@
 | 90 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.25% |
 | 91 | [Bloodshore](games/b/bloodshore.md) | 2.21% |
 | 92 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
-| 93 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.03% |
+| 93 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.02% |
 | 94 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.92% |
 | 94 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.92% |
 | 96 | [Night Book](games/n/night_book.md) | 1.89% |
@@ -160,9 +160,9 @@
 | 158 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.41% |
 | 159 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.39% |
 | 160 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.38% |
-| 161 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.37% |
-| 161 | [Ghostrunner](games/g/ghostrunner.md) | 0.37% |
-| 161 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
+| 160 | [Ghostrunner](games/g/ghostrunner.md) | 0.38% |
+| 162 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.37% |
+| 162 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 164 | [Wildermyth](games/w/wildermyth.md) | 0.36% |
 | 165 | [The Surge](games/t/the_surge.md) | 0.35% |
 | 165 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.35% |
