@@ -59,6 +59,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Power of Love | 0.30% | ~405 |
 | Supercharged | 0.30% | ~405 |
 | Expansion in Session | 0.30% | ~405 |
+| Cranked up to 11 | 0.30% | ~405 |
 | Trash to Treasure | 0.30% | ~405 |
 | Royal Ransom | 0.30% | ~405 |
 | Mammonite | 0.30% | ~405 |
@@ -86,7 +87,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Omae wa Mou Shindeiru | 0.20% | ~270 |
 | Thank You Tom Nook | 0.20% | ~270 |
 | Ritualist | 0.20% | ~270 |
-| Cranked up to 11 | 0.20% | ~270 |
 | Fit for a King | 0.20% | ~270 |
 | By Your Powers Combined... | 0.20% | ~270 |
 | A Legend is Born | 0.20% | ~270 |

@@ -62,13 +62,13 @@ Rating: 4.45 (Ranked 637)
 | Reich To The Point | 2.00% | ~69 |
 | Covert Elimination | 2.00% | ~69 |
 | Shipbreaker | 2.00% | ~69 |
+| Sink or Swim | 2.00% | ~69 |
 | Best of the Best | 1.00% | ~35 |
 | Out of Scope | 1.00% | ~35 |
 | Sight Beyond Sights | 1.00% | ~35 |
 | From Führer Away | 1.00% | ~35 |
 | Alpha | 1.00% | ~35 |
 | Das Familienjuwel | 1.00% | ~35 |
-| Sink or Swim | 1.00% | ~35 |
 | Master of Secondaries | 0.90% | ~32 |
 | Master of Rifles | 0.80% | ~28 |
 | Master of Pistols | 0.70% | ~25 |

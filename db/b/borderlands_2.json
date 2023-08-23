@@ -4,7 +4,7 @@
   "ProductSlug": "borderlands-2",
   "Ranking_Rating": 119,
   "Ranking_Popularity": 24,
-  "Ranking_PopularitySum": 33,
+  "Ranking_PopularitySum": 34,
   "Ranking_EOS_Progress": 556,
   "Ranking_EOS_Completed": 262,
   "Ranking_EOS_NewPlayers": 345,
@@ -7893,6 +7893,6 @@
   "FirstSeen": "2022-07-22T20:18:04.5825777+00:00",
   "LastChanged": "2023-08-23T01:37:13.7541744+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:15.6407656+00:00",
-  "LastUpdate_Ratings": "2023-08-23T08:59:07.6805369+00:00",
-  "LastUpdate_Achievements": "2023-08-23T09:05:15.5205571+00:00"
+  "LastUpdate_Ratings": "2023-08-23T09:59:01.4974879+00:00",
+  "LastUpdate_Achievements": "2023-08-23T10:05:36.0240254+00:00"
 }

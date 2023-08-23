@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 449,
+  "EOS_Progressed": 450,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 416,
+  "EOS_NewPlayers": 417,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -796,6 +796,11 @@
       "Time": "2023-08-23T06:04:09.8589138+00:00",
       "NumProgressed": 449,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-23T10:05:12.2000324+00:00",
+      "NumProgressed": 450,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -814,9 +819,9 @@
       "ID": "_02_FinishFirstMission",
       "SetID": "8a1io5d",
       "Name": "A New Journey",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 328
+      "UsersEstimate": 333
     },
     {
       "ID": "_03_FinishAct1",
@@ -824,7 +829,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -862,17 +867,17 @@
       "ID": "_08_Completion_10",
       "SetID": "8a1io5d",
       "Name": "Swabbie",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 153
     },
     {
       "ID": "_09_Completion_20",
       "SetID": "8a1io5d",
       "Name": "Powder Monkey",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 68
     },
     {
       "ID": "_10_Completion_30",
@@ -896,7 +901,7 @@
       "Name": "Privateer",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "_13_Completion_60",
@@ -928,15 +933,15 @@
       "Name": "Pirates Assemble!",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
       "SetID": "8a1io5d",
       "Name": "With Great Power\u2026",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 126
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -960,7 +965,7 @@
       "Name": "Fishy Fish",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -976,7 +981,7 @@
       "Name": "Accursed Artifacts",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "_23_CrewTale_CNN",
@@ -984,7 +989,7 @@
       "Name": "Lyrical Longing",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "_24_CrewTale_SNP",
@@ -1015,14 +1020,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 449,
+      "Progressed": 450,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-23T09:04:52.7463579+00:00",
+  "LastChanged_Achievements": "2023-08-23T10:05:12.2000316+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:01.7621403+00:00",
-  "LastUpdate_Ratings": "2023-08-23T09:01:28.0545502+00:00",
-  "LastUpdate_Achievements": "2023-08-23T09:04:52.7463826+00:00"
+  "LastUpdate_Ratings": "2023-08-23T10:01:09.2266434+00:00",
+  "LastUpdate_Achievements": "2023-08-23T10:05:12.2000601+00:00"
 }

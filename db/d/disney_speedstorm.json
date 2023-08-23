@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 52,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -15,11 +15,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3121,
+  "EOS_Progressed": 3122,
   "EOS_Completed": 155,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 4.97,
+  "EOS_Completed_Percentage": 4.96,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:49:22.8918022+00:00",
@@ -4345,6 +4345,11 @@
       "Time": "2023-08-23T07:03:29.8760574+00:00",
       "NumProgressed": 3121,
       "NumCompleted": 155
+    },
+    {
+      "Time": "2023-08-23T10:03:40.5153611+00:00",
+      "NumProgressed": 3122,
+      "NumCompleted": 155
     }
   ],
   "TotalAchievements": 24,
@@ -4428,7 +4433,7 @@
       "Name": "ACE BRAWLER",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "19",
@@ -4508,7 +4513,7 @@
       "Name": "ROOKIE",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1685
+      "UsersEstimate": 1686
     },
     {
       "ID": "6",
@@ -4547,13 +4552,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 3121,
+      "Progressed": 3122,
       "Completed": 155
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-08-23T09:03:42.4446467+00:00",
+  "LastChanged_Achievements": "2023-08-23T10:03:40.5153603+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:27.4246453+00:00",
-  "LastUpdate_Ratings": "2023-08-23T09:02:44.5760936+00:00",
-  "LastUpdate_Achievements": "2023-08-23T09:03:42.4446948+00:00"
+  "LastUpdate_Ratings": "2023-08-23T10:02:22.7159049+00:00",
+  "LastUpdate_Achievements": "2023-08-23T10:03:40.5154136+00:00"
 }

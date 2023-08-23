@@ -13,7 +13,7 @@ Rating: 4.56 (Ranked 473)
 | Funtime's over | 52.00% | ~199 |
 | Chunky | 50.00% | ~192 |
 | Shall we play a game? | 49.00% | ~188 |
-| Boat of love, boat of love | 47.00% | ~180 |
+| Boat of love, boat of love | 48.00% | ~184 |
 | School's out | 42.00% | ~161 |
 | Elysian Minigame-Master | 37.00% | ~142 |
 | Sole Music | 36.00% | ~138 |
@@ -27,8 +27,8 @@ Rating: 4.56 (Ranked 473)
 | Quickdraw | 15.00% | ~57 |
 | Thuna...? | 15.00% | ~57 |
 | Monstrous Harassment | 14.00% | ~54 |
+| Heading the inverter | 14.00% | ~54 |
 | Blast from the Past | 14.00% | ~54 |
-| Heading the inverter | 13.00% | ~50 |
 | Play it again, Ronny | 11.00% | ~42 |
 | Goat Team | 10.00% | ~38 |
 | Paradox! | 10.00% | ~38 |

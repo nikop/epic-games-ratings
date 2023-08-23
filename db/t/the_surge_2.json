@@ -6,8 +6,8 @@
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 171,
-  "Ranking_EOS_Completed": 146,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_Completed": 147,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -255,11 +255,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1980,
+  "EOS_Progressed": 1981,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.51,
+  "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:46.0038697+00:00",
@@ -2215,6 +2215,11 @@
       "Time": "2023-08-22T10:05:40.7147021+00:00",
       "NumProgressed": 1980,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-08-23T10:07:33.4666395+00:00",
+      "NumProgressed": 1981,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -2234,7 +2239,7 @@
       "Name": "Jailbreak",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1287
+      "UsersEstimate": 1288
     },
     {
       "ID": "ACHV_03",
@@ -2242,7 +2247,7 @@
       "Name": "Dead Again",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "ACHV_04",
@@ -2266,7 +2271,7 @@
       "Name": "Home Invasion",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "ACHV_07",
@@ -2290,7 +2295,7 @@
       "Name": "Bad Dog",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "ACHV_10",
@@ -2402,7 +2407,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "ACHV_24",
@@ -2426,7 +2431,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1584
+      "UsersEstimate": 1585
     },
     {
       "ID": "ACHV_27",
@@ -2458,7 +2463,7 @@
       "Name": "Powered Up",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "ACHV_31",
@@ -2466,7 +2471,7 @@
       "Name": "Where It All Began",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "ACHV_32",
@@ -2522,7 +2527,7 @@
       "Name": "Risk Tolerant",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "ACHV_39",
@@ -2546,7 +2551,7 @@
       "Name": "Suited and Booted",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "ACHV_42",
@@ -2562,7 +2567,7 @@
       "Name": "What A Catchy Song",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "ACHV_44",
@@ -2681,7 +2686,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1980,
+      "Progressed": 1981,
       "Completed": 10
     }
   ],
@@ -2689,8 +2694,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-08-11T22:58:17.9643661+00:00",
-  "LastChanged_Achievements": "2023-08-23T09:07:10.3044289+00:00",
+  "LastChanged_Achievements": "2023-08-23T10:07:33.4666389+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:34.2984865+00:00",
-  "LastUpdate_Ratings": "2023-08-23T08:59:33.9066557+00:00",
-  "LastUpdate_Achievements": "2023-08-23T09:07:10.3044957+00:00"
+  "LastUpdate_Ratings": "2023-08-23T09:59:25.7423869+00:00",
+  "LastUpdate_Achievements": "2023-08-23T10:07:33.4667107+00:00"
 }
