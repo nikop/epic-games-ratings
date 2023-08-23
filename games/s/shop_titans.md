@@ -52,6 +52,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Big Game Hunting | 0.30% | ~405 |
 | For the Hoard! | 0.30% | ~405 |
 | Scrapbooker | 0.30% | ~405 |
+| Archivist | 0.30% | ~405 |
 | Locally Sourced | 0.30% | ~405 |
 | Flying off the Shelves | 0.30% | ~405 |
 | This Power Level...! | 0.30% | ~405 |
@@ -81,7 +82,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Constellated | 0.20% | ~270 |
 | Thirst for Knowledge | 0.20% | ~270 |
 | Booty by the Boatload | 0.20% | ~270 |
-| Archivist | 0.20% | ~270 |
 | Fillin' the Bin | 0.20% | ~270 |
 | Industrial Evolution | 0.20% | ~270 |
 | Omae wa Mou Shindeiru | 0.20% | ~270 |

@@ -12,7 +12,7 @@
 | Kind heart | 49.00% | ~50 |
 | Skilled rider | 46.00% | ~47 |
 | Devil's dozen | 28.00% | ~29 |
-| It doesn't work like that | 24.00% | ~24 |
+| It doesn't work like that | 25.00% | ~26 |
 | Unstoppable Curiosity | 20.00% | ~20 |
 | This is just the beginning... | 19.00% | ~19 |
 | A small victory | 19.00% | ~19 |
@@ -20,7 +20,7 @@
 | Time is on my side | 11.00% | ~11 |
 | Secret at the bottom | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 102 (Ranked 328)  
+Progressed: 102 (Ranked 329)  
 Completed: 0 (0.00%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 262,
   "Ranking_EOS_NewPlayers": 24,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -696,9 +696,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 216292,
+  "EOS_Progressed": 216306,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3070,
+  "EOS_NewPlayers": 3058,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8021,6 +8021,11 @@
       "Time": "2023-08-23T18:03:33.7328534+00:00",
       "NumProgressed": 216292,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-23T19:03:29.2988865+00:00",
+      "NumProgressed": 216306,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -8062,9 +8067,9 @@
       "ID": "BarbarianKillUsingBow",
       "SetID": "50chcgj",
       "Name": "Way of the Wimp",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1730
+      "UsersEstimate": 1947
     },
     {
       "ID": "BookCollection",
@@ -8110,9 +8115,9 @@
       "ID": "Chapter5",
       "SetID": "50chcgj",
       "Name": "The Great Library",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1298
+      "UsersEstimate": 1514
     },
     {
       "ID": "Chapter6",
@@ -8384,7 +8389,7 @@
       "Name": "The Famous Dungeon of Naheulbeuk",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1081
+      "UsersEstimate": 1082
     },
     {
       "ID": "DifficultyIronManNoCompanion",
@@ -8472,7 +8477,7 @@
       "Name": "Look but don\u0027t touch",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1081
+      "UsersEstimate": 1082
     },
     {
       "ID": "ElfHitTwoFriends",
@@ -8480,7 +8485,7 @@
       "Name": "Sowwy!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 47584
+      "UsersEstimate": 47587
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -8536,7 +8541,7 @@
       "Name": "The beards of change",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1081
+      "UsersEstimate": 1082
     },
     {
       "ID": "FollowNarzatok",
@@ -8646,9 +8651,9 @@
       "ID": "QuestPriestess",
       "SetID": "50chcgj",
       "Name": "Lust and Debauchery",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 649
+      "UsersEstimate": 865
     },
     {
       "ID": "RangerEpic",
@@ -8672,7 +8677,7 @@
       "Name": "Thieves\u0027 Guild Accreditation",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1081
+      "UsersEstimate": 1082
     },
     {
       "ID": "Speedrun",
@@ -8735,21 +8740,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 216292,
+      "Progressed": 216306,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 216292,
+      "Progressed": 216306,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-22T20:01:13.7007257+00:00",
-  "LastChanged_Achievements": "2023-08-23T18:03:33.7328527+00:00",
+  "LastChanged_Achievements": "2023-08-23T19:03:29.2988855+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:36.4163589+00:00",
-  "LastUpdate_Ratings": "2023-08-23T18:02:30.6909829+00:00",
-  "LastUpdate_Achievements": "2023-08-23T18:03:33.7329997+00:00"
+  "LastUpdate_Ratings": "2023-08-23T19:02:05.6632107+00:00",
+  "LastUpdate_Achievements": "2023-08-23T19:03:29.2990344+00:00"
 }

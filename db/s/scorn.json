@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 39,
-  "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2022-10-14T10:00:00+00:00",
     "PcReleaseDate": "2022-10-14T10:00:00+00:00",
@@ -194,9 +194,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2313,
+  "EOS_Progressed": 2314,
   "EOS_Completed": 162,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 7,
   "EosHistory": [
@@ -2344,6 +2344,11 @@
       "Time": "2023-08-22T17:05:35.9068505+00:00",
       "NumProgressed": 2313,
       "NumCompleted": 162
+    },
+    {
+      "Time": "2023-08-23T19:05:49.9912045+00:00",
+      "NumProgressed": 2314,
+      "NumCompleted": 162
     }
   ],
   "TotalAchievements": 12,
@@ -2371,7 +2376,7 @@
       "Name": "003",
       "Percentage": 11,
       "XP": 80,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "004",
@@ -2379,7 +2384,7 @@
       "Name": "004",
       "Percentage": 11,
       "XP": 80,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "005",
@@ -2450,7 +2455,7 @@
     {
       "ID": "94k0mj8",
       "IsBase": true,
-      "Progressed": 2313,
+      "Progressed": 2314,
       "Completed": 162
     }
   ],
@@ -2458,8 +2463,8 @@
   "FirstSeenRating": "2022-10-15T14:30:48.7901656+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.2661117+00:00",
   "LastChanged": "2023-07-23T02:06:43.3775839+00:00",
-  "LastChanged_Achievements": "2023-08-23T18:06:30.724083+00:00",
+  "LastChanged_Achievements": "2023-08-23T19:05:49.9912038+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:09.7657695+00:00",
-  "LastUpdate_Ratings": "2023-08-23T18:01:15.8712796+00:00",
-  "LastUpdate_Achievements": "2023-08-23T18:06:30.7241291+00:00"
+  "LastUpdate_Ratings": "2023-08-23T19:00:32.3364273+00:00",
+  "LastUpdate_Achievements": "2023-08-23T19:05:49.9912285+00:00"
 }

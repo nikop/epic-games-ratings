@@ -8,24 +8,24 @@ Number of Ratings: 706  (23.09.2022)
 | ---- | ---------- | ----- |
 | Get A Room | 74.00% | ~4,026 |
 | Having A Field Day | 74.00% | ~4,026 |
-| Reap What You Sow | 71.00% | ~3,862 |
-| The First Day | 68.00% | ~3,699 |
-| Green Thumb | 66.00% | ~3,590 |
-| Novice Researcher | 66.00% | ~3,590 |
-| Putting Food on the Table | 58.00% | ~3,155 |
+| Reap What You Sow | 71.00% | ~3,863 |
+| The First Day | 68.00% | ~3,700 |
+| Green Thumb | 66.00% | ~3,591 |
+| Novice Researcher | 66.00% | ~3,591 |
+| Putting Food on the Table | 58.00% | ~3,156 |
 | Home Cooked Meal | 57.00% | ~3,101 |
-| Onward | 56.00% | ~3,046 |
-| The First Week | 53.00% | ~2,883 |
-| Studious Researcher | 51.00% | ~2,774 |
+| Onward | 56.00% | ~3,047 |
+| The First Week | 53.00% | ~2,884 |
+| Studious Researcher | 51.00% | ~2,775 |
 | Beam Me Up | 50.00% | ~2,720 |
-| Feast or Famine | 48.00% | ~2,611 |
+| Feast or Famine | 48.00% | ~2,612 |
 | Adept Researcher | 44.00% | ~2,394 |
 | Retribution | 40.00% | ~2,176 |
 | ...And Don’t Come Back! | 40.00% | ~2,176 |
 | Fit For A King | 37.00% | ~2,013 |
 | Luminary Researcher | 32.00% | ~1,741 |
 | Heating Up | 29.00% | ~1,578 |
-| Winter Is Coming | 26.00% | ~1,414 |
+| Winter Is Coming | 26.00% | ~1,415 |
 | Winter Is Here | 23.00% | ~1,251 |
 | Disassembled | 20.00% | ~1,088 |
 | A Party Now | 20.00% | ~1,088 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~109 |
 | Wabbit Season | 0.60% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,440 (Ranked 139)  
+Progressed: 5,441 (Ranked 139)  
 Completed: 10 (0.18%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,10 +142,10 @@ Completed: 10 (0.18%) (Ranked 191)
 | 2023-08-20 | 5,396 | 10 |
 | 2023-08-21 | 5,413 | 10 |
 | 2023-08-22 | 5,429 | 10 |
-| 2023-08-23 | 5,440 | 10 |
+| 2023-08-23 | 5,441 | 10 |
 ## Awards
 Max (Relaxing): 121  (Ranked 318)  
-Sum: 975 (Ranked 239)  
+Sum: 976 (Ranked 239)  
 Diff (max vs sum): 79  
 | Award | Count |
 | ----- | ----- |
@@ -154,7 +154,7 @@ Diff (max vs sum): 79
 | This game has Diverse Characters | 109 |
 | This game has Quickly Understood Controls | 105 |
 | This game is Extremely Fun | 102 |
-| This game is Highly Recommended | 99 |
+| This game is Highly Recommended | 100 |
 | This game has Amazing Characters | 91 |
 | This game has Amazing Storytelling | 84 |
 | This game has Unique Visuals | 79 |
@@ -284,4 +284,4 @@ Diff (max vs sum): 79
 | 2023-08-16 | 4.60 | - | 121 | 972 |
 | 2023-08-17 | 4.60 | - | 121 | 973 |
 | 2023-08-22 | 4.60 | - | 121 | 974 |
-| 2023-08-23 | 4.60 | - | 121 | 975 |
+| 2023-08-23 | 4.60 | - | 121 | 976 |

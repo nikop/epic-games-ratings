@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 224,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -3120,9 +3120,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 72244,
+  "EOS_Progressed": 72246,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 332,
+  "EOS_NewPlayers": 333,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -16180,6 +16180,11 @@
       "Time": "2023-08-23T16:07:56.785303+00:00",
       "NumProgressed": 72244,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-08-23T19:07:37.6000183+00:00",
+      "NumProgressed": 72246,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 37,
@@ -16191,7 +16196,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 36122
+      "UsersEstimate": 36123
     },
     {
       "ID": "ACH_0011",
@@ -16207,7 +16212,7 @@
       "Name": "Roid Ranger",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 15171
+      "UsersEstimate": 15172
     },
     {
       "ID": "ACH_0013",
@@ -16223,7 +16228,7 @@
       "Name": "Track Star",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 7224
+      "UsersEstimate": 7225
     },
     {
       "ID": "ACH_0015",
@@ -16287,7 +16292,7 @@
       "Name": "Freebooter",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 7224
+      "UsersEstimate": 7225
     },
     {
       "ID": "ACH_0061",
@@ -16335,7 +16340,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 46959
+      "UsersEstimate": 46960
     },
     {
       "ID": "ACH_0210",
@@ -16343,7 +16348,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 53461
+      "UsersEstimate": 53462
     },
     {
       "ID": "ACH_0211",
@@ -16359,7 +16364,7 @@
       "Name": "Too Old for This",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 33955
+      "UsersEstimate": 33956
     },
     {
       "ID": "ACH_0300",
@@ -16407,7 +16412,7 @@
       "Name": "Case Closed",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 25285
+      "UsersEstimate": 25286
     },
     {
       "ID": "ACH_0420",
@@ -16415,7 +16420,7 @@
       "Name": "King of the Hill",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 24563
+      "UsersEstimate": 24564
     },
     {
       "ID": "ACH_0430",
@@ -16423,7 +16428,7 @@
       "Name": "Fancy Pants",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 25285
+      "UsersEstimate": 25286
     },
     {
       "ID": "ACH_0431",
@@ -16439,7 +16444,7 @@
       "Name": "True Player",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 13726
+      "UsersEstimate": 13727
     },
     {
       "ID": "ACH_0450",
@@ -16455,7 +16460,7 @@
       "Name": "Raider\u2019s Ruin",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 12281
+      "UsersEstimate": 12282
     },
     {
       "ID": "ACH_0452",
@@ -16463,7 +16468,7 @@
       "Name": "Dragonslayer",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 12281
+      "UsersEstimate": 12282
     },
     {
       "ID": "ACH_0460",
@@ -16486,22 +16491,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 72244,
+      "Progressed": 72246,
       "Completed": 41
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 591,
-      "Completed": 591
+      "Progressed": 593,
+      "Completed": 593
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-08-23T01:36:42.1232102+00:00",
-  "LastChanged_Achievements": "2023-08-23T18:08:36.4008592+00:00",
+  "LastChanged_Achievements": "2023-08-23T19:07:37.6000174+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:48.5211502+00:00",
-  "LastUpdate_Ratings": "2023-08-23T17:58:21.1955762+00:00",
-  "LastUpdate_Achievements": "2023-08-23T18:08:36.4010464+00:00"
+  "LastUpdate_Ratings": "2023-08-23T18:58:01.0065089+00:00",
+  "LastUpdate_Achievements": "2023-08-23T19:07:37.6001297+00:00"
 }

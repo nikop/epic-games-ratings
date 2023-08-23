@@ -10,6 +10,7 @@ Rating: 4.61 (Ranked 366)
 | A Wonderful Discovery | 6.00% | ~308 |
 | Walls Cannot Stop Us | 6.00% | ~308 |
 | Tipping the Scales | 6.00% | ~308 |
+| Full Ascension | 5.00% | ~256 |
 | Bone Peddler | 5.00% | ~256 |
 | From Friends to Family | 5.00% | ~256 |
 | Stronger Together | 5.00% | ~256 |
@@ -21,7 +22,6 @@ Rating: 4.61 (Ranked 366)
 | Mighty Hoard | 5.00% | ~256 |
 | Valley of Wonders | 4.00% | ~205 |
 | There Can Only Be One! | 4.00% | ~205 |
-| Full Ascension | 4.00% | ~205 |
 | In a Liege of Your Own | 4.00% | ~205 |
 | Fiery Friend | 4.00% | ~205 |
 | Against the Odds | 4.00% | ~205 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 134,
   "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -436,9 +436,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7583,
+  "EOS_Progressed": 7584,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -7601,6 +7601,11 @@
       "Time": "2023-08-23T17:08:31.7630601+00:00",
       "NumProgressed": 7583,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-08-23T19:07:33.0776388+00:00",
+      "NumProgressed": 7584,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 29,
@@ -7612,7 +7617,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 6294
+      "UsersEstimate": 6295
     },
     {
       "ID": "ACH02",
@@ -7620,7 +7625,7 @@
       "Name": "Without a Scratch",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 2578
+      "UsersEstimate": 2579
     },
     {
       "ID": "ACH03",
@@ -7644,7 +7649,7 @@
       "Name": "Mob Boss",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "ACH06",
@@ -7684,7 +7689,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2123
+      "UsersEstimate": 2124
     },
     {
       "ID": "ACH11",
@@ -7836,14 +7841,14 @@
       "Name": "King of Liberty City",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     }
   ],
   "AchievementSets": [
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7583,
+      "Progressed": 7584,
       "Completed": 47
     }
   ],
@@ -7851,8 +7856,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-08-22T21:59:28.6031781+00:00",
-  "LastChanged_Achievements": "2023-08-23T18:08:30.9582295+00:00",
+  "LastChanged_Achievements": "2023-08-23T19:07:33.0776381+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:48.3209377+00:00",
-  "LastUpdate_Ratings": "2023-08-23T18:00:54.4564215+00:00",
-  "LastUpdate_Achievements": "2023-08-23T18:08:30.9583177+00:00"
+  "LastUpdate_Ratings": "2023-08-23T19:00:14.3969491+00:00",
+  "LastUpdate_Achievements": "2023-08-23T19:07:33.0777057+00:00"
 }

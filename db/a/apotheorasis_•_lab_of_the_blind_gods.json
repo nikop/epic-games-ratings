@@ -2,10 +2,10 @@
   "ID": "960bbebafc6a47989c1ab38041b9aabf",
   "Name": "Apotheorasis \u2022 Lab of the Blind Gods",
   "ProductSlug": "apotheorasis-a33e73",
-  "Ranking_EOS_Progress": 510,
+  "Ranking_EOS_Progress": 511,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 347,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 348,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-07-04T16:00:00+00:00",
     "PcReleaseDate": "2022-05-12T06:00:00+00:00",
@@ -220,8 +220,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:52:39.130422+00:00",
-  "LastChanged_Achievements": "2023-08-23T18:06:14.5407125+00:00",
+  "LastChanged_Achievements": "2023-08-23T19:05:36.2521023+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:06.2724531+00:00",
-  "LastUpdate_Ratings": "2023-08-23T17:58:51.0706075+00:00",
-  "LastUpdate_Achievements": "2023-08-23T18:06:14.5407299+00:00"
+  "LastUpdate_Ratings": "2023-08-23T18:58:27.7430111+00:00",
+  "LastUpdate_Achievements": "2023-08-23T19:05:36.2521205+00:00"
 }

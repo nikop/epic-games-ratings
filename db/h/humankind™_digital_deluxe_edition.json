@@ -4,11 +4,11 @@
   "ProductSlug": "humankind",
   "Ranking_Rating": 543,
   "Ranking_Popularity": 329,
-  "Ranking_PopularitySum": 252,
-  "Ranking_EOS_Progress": 556,
+  "Ranking_PopularitySum": 250,
+  "Ranking_EOS_Progress": 557,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 347,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 348,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-08-17T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1194,10 +1194,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 918,
       "NumberOfAwardsMax": 107
+    },
+    {
+      "Time": "2023-08-23T19:00:43.8086586+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 919,
+      "NumberOfAwardsMax": 107
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 918,
+  "NumberOfAwards": 919,
   "NumberOfAwardsMax": 107,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -1247,7 +1253,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 81
+      "Count": 82
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1285,8 +1291,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:22.8287391+00:00",
-  "LastChanged": "2023-08-18T09:00:11.9671975+00:00",
+  "LastChanged": "2023-08-23T19:00:43.8086585+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:21.8981288+00:00",
-  "LastUpdate_Ratings": "2023-08-23T18:01:29.7841468+00:00",
-  "LastUpdate_Achievements": "2023-08-23T18:07:47.3704501+00:00"
+  "LastUpdate_Ratings": "2023-08-23T19:00:43.8086591+00:00",
+  "LastUpdate_Achievements": "2023-08-23T19:06:55.9112402+00:00"
 }

@@ -5,12 +5,12 @@ Rating: 4.45 (Ranked 637)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 46.00% | ~1,618 |
-| Confirming Suspicions | 40.00% | ~1,407 |
-| The Kraken Wakes | 35.00% | ~1,231 |
+| Meeting Resistance | 46.00% | ~1,619 |
+| Confirming Suspicions | 40.00% | ~1,408 |
+| The Kraken Wakes | 35.00% | ~1,232 |
 | It's Starting to Crack | 32.00% | ~1,126 |
-| Lord of War | 29.00% | ~1,020 |
-| Change the Channel | 29.00% | ~1,020 |
+| Lord of War | 29.00% | ~1,021 |
+| Change the Channel | 29.00% | ~1,021 |
 | Taking it back | 27.00% | ~950 |
 | Resourceful | 26.00% | ~915 |
 | Target America | 25.00% | ~880 |
@@ -36,12 +36,12 @@ Rating: 4.45 (Ranked 637)
 | Set Europe Ablaze | 12.00% | ~422 |
 | Precision Is Key | 9.00% | ~317 |
 | My Little Friend | 9.00% | ~317 |
-| Rigged to Blow | 8.00% | ~281 |
+| Rigged to Blow | 8.00% | ~282 |
 | Herr Today, Gone Tomorrow | 6.00% | ~208 |
 | The Long Game | 5.00% | ~176 |
 | It'll Buff Right Out | 5.00% | ~176 |
 | Don't hold your breath | 5.00% | ~176 |
-| Operation Foxley | 5.00% | ~173 |
+| Operation Foxley | 5.00% | ~174 |
 | Strategist | 4.00% | ~141 |
 | Tinkerer | 4.00% | ~141 |
 | Locomotion Commotion | 4.00% | ~141 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 637)
 | Stroll in the Woods | 0.60% | ~21 |
 | Going Overboard | 0.60% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,518 (Ranked 152)  
+Progressed: 3,519 (Ranked 152)  
 Completed: 9 (0.26%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 9 (0.26%) (Ranked 178)
 | 2023-08-20 | 3,504 | 9 |
 | 2023-08-21 | 3,510 | 9 |
 | 2023-08-22 | 3,515 | 9 |
-| 2023-08-23 | 3,518 | 9 |
+| 2023-08-23 | 3,519 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

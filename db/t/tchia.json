@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 94,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -212,7 +212,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7335,
+  "EOS_Progressed": 7337,
   "EOS_Completed": 32,
   "EOS_NewPlayers": 312,
   "EOS_NewCompleters": 0,
@@ -6332,6 +6332,11 @@
       "Time": "2023-08-23T15:06:06.5566353+00:00",
       "NumProgressed": 7335,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-08-23T19:06:36.4451516+00:00",
+      "NumProgressed": 7337,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 21,
@@ -6359,7 +6364,7 @@
       "Name": "Audiophile",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "BODY_AND_SOUL",
@@ -6447,7 +6452,7 @@
       "Name": "In a Pinch",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1540
+      "UsersEstimate": 1541
     },
     {
       "ID": "LIBERATOR",
@@ -6510,7 +6515,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7335,
+      "Progressed": 7337,
       "Completed": 32
     }
   ],
@@ -6518,8 +6523,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-08-07T01:56:04.2387619+00:00",
-  "LastChanged_Achievements": "2023-08-23T18:07:25.176639+00:00",
+  "LastChanged_Achievements": "2023-08-23T19:06:36.4451511+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:55.8261903+00:00",
-  "LastUpdate_Ratings": "2023-08-23T18:01:03.4264133+00:00",
-  "LastUpdate_Achievements": "2023-08-23T18:07:25.1767612+00:00"
+  "LastUpdate_Ratings": "2023-08-23T19:00:22.5292609+00:00",
+  "LastUpdate_Achievements": "2023-08-23T19:06:36.4452078+00:00"
 }

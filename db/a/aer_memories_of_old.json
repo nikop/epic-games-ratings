@@ -380,9 +380,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18492,
+  "EOS_Progressed": 18494,
   "EOS_Completed": 374,
-  "EOS_NewPlayers": 518,
+  "EOS_NewPlayers": 520,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 2.02,
   "EosHistory": [
@@ -13710,6 +13710,11 @@
       "Time": "2023-08-23T18:07:39.515965+00:00",
       "NumProgressed": 18492,
       "NumCompleted": 374
+    },
+    {
+      "Time": "2023-08-23T19:06:49.1026601+00:00",
+      "NumProgressed": 18494,
+      "NumCompleted": 374
     }
   ],
   "TotalAchievements": 20,
@@ -13769,7 +13774,7 @@
       "Name": "An uninvited guest",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1479
+      "UsersEstimate": 1480
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -13841,7 +13846,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 14054
+      "UsersEstimate": 14055
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -13865,7 +13870,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1294
+      "UsersEstimate": 1295
     },
     {
       "ID": "WEST_FINISHED",
@@ -13873,22 +13878,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 3513
+      "UsersEstimate": 3514
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 18492,
+      "Progressed": 18494,
       "Completed": 374
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-08-12T01:39:46.4098224+00:00",
-  "LastChanged_Achievements": "2023-08-23T18:07:39.5159644+00:00",
+  "LastChanged_Achievements": "2023-08-23T19:06:49.1026596+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:54.5287855+00:00",
-  "LastUpdate_Ratings": "2023-08-23T17:58:29.1431599+00:00",
-  "LastUpdate_Achievements": "2023-08-23T18:07:39.516099+00:00"
+  "LastUpdate_Ratings": "2023-08-23T18:58:06.3232432+00:00",
+  "LastUpdate_Achievements": "2023-08-23T19:06:49.1027555+00:00"
 }

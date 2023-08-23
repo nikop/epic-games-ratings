@@ -5,10 +5,10 @@
   "Ranking_Rating": 256,
   "Ranking_Popularity": 207,
   "Ranking_PopularitySum": 150,
-  "Ranking_EOS_Progress": 556,
+  "Ranking_EOS_Progress": 557,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 347,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 348,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-03-04T18:00:00+00:00",
     "PcReleaseDate": "2021-03-04T18:00:00+00:00",
@@ -3409,10 +3409,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 3701,
       "NumberOfAwardsMax": 440
+    },
+    {
+      "Time": "2023-08-23T18:58:04.7593452+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 3702,
+      "NumberOfAwardsMax": 440
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3701,
+  "NumberOfAwards": 3702,
   "NumberOfAwardsMax": 440,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3468,7 +3474,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 393
+      "Count": 394
     },
     {
       "Text": "This game has a Creative Community",
@@ -3488,8 +3494,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:49.2794881+00:00",
-  "LastChanged": "2023-08-23T01:36:46.3204776+00:00",
+  "LastChanged": "2023-08-23T18:58:04.7593451+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:53.2613006+00:00",
-  "LastUpdate_Ratings": "2023-08-23T17:58:27.2302648+00:00",
-  "LastUpdate_Achievements": "2023-08-23T18:05:12.9409558+00:00"
+  "LastUpdate_Ratings": "2023-08-23T18:58:04.7593457+00:00",
+  "LastUpdate_Achievements": "2023-08-23T19:04:44.3405238+00:00"
 }

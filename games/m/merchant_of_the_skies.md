@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Energizer | 99.00% | ~931 |
-| A man of his word | 96.00% | ~902 |
+| Energizer | 99.00% | ~932 |
+| A man of his word | 96.00% | ~903 |
 | Real Estate | 64.00% | ~602 |
 | New Ride | 54.00% | ~508 |
 | Giants | 49.00% | ~461 |
@@ -17,7 +17,7 @@
 | Supplier | 6.00% | ~56 |
 | Botanical | 5.00% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 940 (Ranked 204)  
+Progressed: 941 (Ranked 204)  
 Completed: 14 (1.49%) (Ranked 106)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -37,6 +37,7 @@ Completed: 14 (1.49%) (Ranked 106)
 | 2023-08-12 | 937 | 14 |
 | 2023-08-14 | 938 | 14 |
 | 2023-08-20 | 940 | 14 |
+| 2023-08-23 | 941 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

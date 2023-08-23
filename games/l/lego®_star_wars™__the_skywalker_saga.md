@@ -6,17 +6,17 @@ Number of Ratings: 2,536  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 97.00% | ~48,588 |
-| ''I don't like you either!'' | 79.00% | ~39,572 |
+| ''You guys got yourself a ship!'' | 97.00% | ~48,589 |
+| ''I don't like you either!'' | 79.00% | ~39,573 |
 | ''Impressive, most impressive'' | 72.00% | ~36,066 |
 | ''You think you're some kind of Jedi?'' | 72.00% | ~36,066 |
 | The Phantom Menace | 59.00% | ~29,554 |
 | ''Aggressive Negotiations'' | 59.00% | ~29,554 |
 | ''I can fly anything'' | 57.00% | ~28,552 |
-| ''And who gave you permission...?'' | 54.00% | ~27,049 |
+| ''And who gave you permission...?'' | 54.00% | ~27,050 |
 | A New Hope | 48.00% | ~24,044 |
 | Attack of the Clones | 47.00% | ~23,543 |
-| Revenge of the Sith | 40.00% | ~20,036 |
+| Revenge of the Sith | 40.00% | ~20,037 |
 | The Empire Strikes Back | 38.00% | ~19,035 |
 | ''A fine addition to my collection'' | 37.00% | ~18,534 |
 | Return of the Jedi | 32.00% | ~16,029 |
@@ -52,7 +52,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''Jedi Business'' | 1.00% | ~501 |
 | ''I've never seen a real one!'' | 0.90% | ~451 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50,091 (Ranked 90)  
+Progressed: 50,092 (Ranked 90)  
 Completed: 224 (0.45%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,16 +177,16 @@ Completed: 224 (0.45%) (Ranked 154)
 | 2023-08-20 | 50,080 | 223 |
 | 2023-08-21 | 50,085 | 223 |
 | 2023-08-22 | 50,088 | 224 |
-| 2023-08-23 | 50,091 | 224 |
+| 2023-08-23 | 50,092 | 224 |
 ## Awards
 Max (Great Boss Battles): 2,382  (Ranked 104)  
-Sum: 6,550 (Ranked 118)  
+Sum: 6,551 (Ranked 118)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,382 |
+| This game has Diverse Characters | 493 |
 | This game is Great for Beginners | 492 |
-| This game has Diverse Characters | 492 |
 | This game has Amazing Characters | 484 |
 | This game is Highly Recommended | 463 |
 | This game has Amazing Storytelling | 460 |
@@ -386,3 +386,4 @@ Diff (max vs sum): -14
 | 2023-08-20 | 4.78 | - | 2,382 | 6,547 |
 | 2023-08-21 | 4.78 | - | 2,382 | 6,549 |
 | 2023-08-22 | 4.78 | - | 2,382 | 6,550 |
+| 2023-08-23 | 4.78 | - | 2,382 | 6,551 |

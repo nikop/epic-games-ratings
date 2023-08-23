@@ -2,10 +2,10 @@
   "ID": "c275690086d44155a8579e4fa176897c",
   "Name": "Ironclads II War of the Pacific",
   "ProductSlug": "ironclads-ii-war-of-the-pacific-0b2081",
-  "Ranking_EOS_Progress": 556,
+  "Ranking_EOS_Progress": 557,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 347,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 348,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-05-25T04:00:00+00:00",
     "PcReleaseDate": "2016-11-15T04:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-17T09:57:09.7654986+00:00",
-  "LastUpdate_Ratings": "2023-08-23T18:00:01.3371047+00:00",
-  "LastUpdate_Achievements": "2023-08-23T18:08:12.3965762+00:00"
+  "LastUpdate_Ratings": "2023-08-23T18:59:27.0343613+00:00",
+  "LastUpdate_Achievements": "2023-08-23T19:07:17.3020288+00:00"
 }

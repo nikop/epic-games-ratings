@@ -2,10 +2,10 @@
   "ID": "964ac7e6a9434f83a9718bd41f362995",
   "Name": "Victorian Admirals",
   "ProductSlug": "victorian-admirals-36f8c4",
-  "Ranking_EOS_Progress": 556,
+  "Ranking_EOS_Progress": 557,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 347,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 348,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-12-09T04:00:00+00:00",
     "PcReleaseDate": "2012-02-01T03:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-24T08:59:22.8176927+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:24.6527731+00:00",
-  "LastUpdate_Ratings": "2023-08-23T17:58:44.5097809+00:00",
-  "LastUpdate_Achievements": "2023-08-23T18:06:22.568795+00:00"
+  "LastUpdate_Ratings": "2023-08-23T18:58:20.2285606+00:00",
+  "LastUpdate_Achievements": "2023-08-23T19:05:43.0038648+00:00"
 }

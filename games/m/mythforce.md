@@ -7,11 +7,11 @@ Number of Ratings: 285  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Death Becomes You | 3.00% | ~28 |
-| Flawless Victory | 3.00% | ~28 |
 | That'll Leave a Mark | 3.00% | ~28 |
 | Debuff Dogpile | 2.00% | ~18 |
 | Faceroll the Bones | 2.00% | ~18 |
 | First Strike | 2.00% | ~18 |
+| Flawless Victory | 2.00% | ~18 |
 | Hit 'Em Where It Hurts | 2.00% | ~18 |
 | Mushroom Madness! | 2.00% | ~18 |
 | Perk Shard Punch Card | 2.00% | ~18 |
@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | Deadalus and Loving It | 0.00% | ~0 |
 | Vexed Her | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 919 (Ranked 205)  
+Progressed: 921 (Ranked 205)  
 Completed: 0 (0.00%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,7 +69,7 @@ Completed: 0 (0.00%) (Ranked 262)
 | 2023-08-20 | 872 | 0 |
 | 2023-08-21 | 887 | 0 |
 | 2023-08-22 | 909 | 0 |
-| 2023-08-23 | 919 | 0 |
+| 2023-08-23 | 921 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 456)  
 Sum: 254 (Ranked 353)  

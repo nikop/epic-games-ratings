@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~661 |
 | Blood Pact | 0.10% | ~661 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 661,201 (Ranked 23)  
+Progressed: 661,202 (Ranked 23)  
 Completed: 168 (0.03%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 168 (0.03%) (Ranked 238)
 | 2023-08-20 | 661,095 | 168 |
 | 2023-08-21 | 661,135 | 168 |
 | 2023-08-22 | 661,169 | 168 |
-| 2023-08-23 | 661,201 | 168 |
+| 2023-08-23 | 661,202 | 168 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 437)  
 Sum: 183 (Ranked 377)  
