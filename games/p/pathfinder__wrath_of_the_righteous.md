@@ -7,13 +7,13 @@ Number of Ratings: 1,354  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Devoured by Darkness | 23.00% | ~2,538 |
-| Burning City | 16.00% | ~1,765 |
-| A Spark | 16.00% | ~1,765 |
-| Mythic Choices | 13.00% | ~1,434 |
-| Defender's Heart | 13.00% | ~1,434 |
+| Burning City | 16.00% | ~1,766 |
+| A Spark | 16.00% | ~1,766 |
+| Mythic Choices | 13.00% | ~1,435 |
+| Defender's Heart | 13.00% | ~1,435 |
 | Banner over the Citadel | 12.00% | ~1,324 |
 | Queen's Gratitude | 11.00% | ~1,214 |
-| Fifth Crusade | 7.00% | ~772 |
+| Fifth Crusade | 7.00% | ~773 |
 | Embrace of the Abyss | 6.00% | ~662 |
 | Path of the Angel | 6.00% | ~662 |
 | Demonic and Divine | 6.00% | ~662 |
@@ -32,8 +32,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | Mythic Reinforcements | 3.00% | ~331 |
 | Core of the Riddle | 3.00% | ~331 |
 | Hey, I Know You! | 3.00% | ~331 |
-| The Lady of the Forest | 3.00% | ~294 |
-| Beware Still Water | 3.00% | ~294 |
+| The Lady of the Forest | 3.00% | ~295 |
+| Beware Still Water | 3.00% | ~295 |
 | Path of the Demon | 2.00% | ~221 |
 | Path of the Aeon | 2.00% | ~221 |
 | Path of the Lich | 2.00% | ~221 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,033 (Ranked 121)  
+Progressed: 11,036 (Ranked 121)  
 Completed: 0 (0.00%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,7 +248,7 @@ Completed: 0 (0.00%) (Ranked 262)
 | 2023-08-20 | 11,016 | 0 |
 | 2023-08-21 | 11,022 | 0 |
 | 2023-08-22 | 11,031 | 0 |
-| 2023-08-23 | 11,033 | 0 |
+| 2023-08-23 | 11,036 | 0 |
 ## Awards
 Max (Character Customization): 1,701  (Ranked 118)  
 Sum: 6,902 (Ranked 113)  

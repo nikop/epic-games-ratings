@@ -212,7 +212,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7330,
+  "EOS_Progressed": 7332,
   "EOS_Completed": 32,
   "EOS_NewPlayers": 330,
   "EOS_NewCompleters": 0,
@@ -6312,6 +6312,11 @@
       "Time": "2023-08-23T09:07:26.1532142+00:00",
       "NumProgressed": 7330,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-08-23T11:06:37.9784838+00:00",
+      "NumProgressed": 7332,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 21,
@@ -6395,7 +6400,7 @@
       "Name": "Globe Trotter",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 806
+      "UsersEstimate": 807
     },
     {
       "ID": "HAPPY_CAMPER",
@@ -6403,7 +6408,7 @@
       "Name": "Happy Camper",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "HISTORIAN",
@@ -6419,7 +6424,7 @@
       "Name": "Iconoclast",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "IN_A_PINCH",
@@ -6427,7 +6432,7 @@
       "Name": "In a Pinch",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1539
+      "UsersEstimate": 1540
     },
     {
       "ID": "LIBERATOR",
@@ -6451,7 +6456,7 @@
       "Name": "Shredder",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "SNIP_SNIP",
@@ -6490,7 +6495,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7330,
+      "Progressed": 7332,
       "Completed": 32
     }
   ],
@@ -6498,8 +6503,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-08-07T01:56:04.2387619+00:00",
-  "LastChanged_Achievements": "2023-08-23T10:07:49.8394444+00:00",
+  "LastChanged_Achievements": "2023-08-23T11:06:37.978483+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:55.8261903+00:00",
-  "LastUpdate_Ratings": "2023-08-23T10:01:02.308477+00:00",
-  "LastUpdate_Achievements": "2023-08-23T10:07:49.8395297+00:00"
+  "LastUpdate_Ratings": "2023-08-23T11:00:02.488421+00:00",
+  "LastUpdate_Achievements": "2023-08-23T11:06:37.9785757+00:00"
 }

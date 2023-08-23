@@ -145,7 +145,7 @@ Completed: 10 (0.18%) (Ranked 191)
 | 2023-08-23 | 5,434 | 10 |
 ## Awards
 Max (Relaxing): 121  (Ranked 318)  
-Sum: 974 (Ranked 239)  
+Sum: 975 (Ranked 239)  
 Diff (max vs sum): 79  
 | Award | Count |
 | ----- | ----- |
@@ -157,7 +157,7 @@ Diff (max vs sum): 79
 | This game is Highly Recommended | 99 |
 | This game has Amazing Characters | 91 |
 | This game has Amazing Storytelling | 84 |
-| This game has Unique Visuals | 78 |
+| This game has Unique Visuals | 79 |
 | This game has a Creative Community | 67 |
 | This game has Obsessive Gameplay | 56 |
 | This game is Educational | 21 |
@@ -284,3 +284,4 @@ Diff (max vs sum): 79
 | 2023-08-16 | 4.60 | - | 121 | 972 |
 | 2023-08-17 | 4.60 | - | 121 | 973 |
 | 2023-08-22 | 4.60 | - | 121 | 974 |
+| 2023-08-23 | 4.60 | - | 121 | 975 |

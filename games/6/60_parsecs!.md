@@ -33,7 +33,7 @@
 | First of April | 7.00% | ~50 |
 | Flawless Maegangement | 7.00% | ~50 |
 | Extreme Makeover | 5.00% | ~36 |
-| The Improvinator | 3.00% | ~22 |
+| The Improvinator | 4.00% | ~29 |
 | The Last Supper | 3.00% | ~22 |
 | 2018: A Soup Odyssey | 3.00% | ~22 |
 | Bovine Domain | 2.00% | ~14 |

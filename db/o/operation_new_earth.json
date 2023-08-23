@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1050,
+  "EOS_Progressed": 1051,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3661,6 +3661,11 @@
       "Time": "2023-08-23T08:04:06.2533551+00:00",
       "NumProgressed": 1050,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-23T11:04:15.7943935+00:00",
+      "NumProgressed": 1051,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -3752,7 +3757,7 @@
       "Name": "Keeping Busy",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "objective_headquarters_15",
@@ -3792,7 +3797,7 @@
       "Name": "Sergeant",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -3832,7 +3837,7 @@
       "Name": "General",
       "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "objective_key_alliance_help_2",
@@ -3840,7 +3845,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "objective_key_alliance_join_1",
@@ -3856,7 +3861,7 @@
       "Name": "Covert Operative",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -3872,7 +3877,7 @@
       "Name": "Seek \u0026 Destroy",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_3",
@@ -3912,7 +3917,7 @@
       "Name": "Infantry Reporting",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -3944,7 +3949,7 @@
       "Name": "Titan Tanks",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "objective_research_unlock_heavy_infantry_tier_4",
@@ -3975,14 +3980,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1050,
+      "Progressed": 1051,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-23T10:04:47.8499807+00:00",
+  "LastChanged_Achievements": "2023-08-23T11:04:15.7943923+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:20.8459338+00:00",
-  "LastUpdate_Ratings": "2023-08-23T09:59:09.7650832+00:00",
-  "LastUpdate_Achievements": "2023-08-23T10:04:47.8500325+00:00"
+  "LastUpdate_Ratings": "2023-08-23T10:58:33.1379038+00:00",
+  "LastUpdate_Achievements": "2023-08-23T11:04:15.7944828+00:00"
 }

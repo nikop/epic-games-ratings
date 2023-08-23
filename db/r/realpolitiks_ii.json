@@ -2,12 +2,12 @@
   "ID": "be69d05166bd49f3b649f6103c2324d0",
   "Name": "Realpolitiks II",
   "ProductSlug": "realpolitiks-2",
-  "Ranking_Rating": 900,
+  "Ranking_Rating": 901,
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 556,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-05-12T17:00:00+00:00",
@@ -54,6 +54,6 @@
   "FirstSeenRating": "2022-12-01T03:29:27.0060799+00:00",
   "LastChanged": "2023-04-21T20:57:00.165661+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:03.9137672+00:00",
-  "LastUpdate_Ratings": "2023-08-23T10:01:59.6278048+00:00",
-  "LastUpdate_Achievements": "2023-08-23T10:07:39.3944092+00:00"
+  "LastUpdate_Ratings": "2023-08-23T11:00:45.0547146+00:00",
+  "LastUpdate_Achievements": "2023-08-23T11:06:30.2361056+00:00"
 }

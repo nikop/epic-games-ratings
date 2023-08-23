@@ -4,7 +4,7 @@
   "ProductSlug": "the-music-trivia-challenge-1df650",
   "Ranking_EOS_Progress": 556,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-06-03T23:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-17T07:57:28.6012563+00:00",
-  "LastUpdate_Ratings": "2023-08-23T09:59:55.3236399+00:00",
-  "LastUpdate_Achievements": "2023-08-23T10:07:51.2147744+00:00"
+  "LastUpdate_Ratings": "2023-08-23T10:59:11.6503158+00:00",
+  "LastUpdate_Achievements": "2023-08-23T11:06:39.5045057+00:00"
 }

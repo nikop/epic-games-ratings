@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 450,
+  "EOS_Progressed": 452,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 417,
+  "EOS_NewPlayers": 418,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -801,6 +801,11 @@
       "Time": "2023-08-23T10:05:12.2000324+00:00",
       "NumProgressed": 450,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-23T11:04:34.6467448+00:00",
+      "NumProgressed": 452,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -819,17 +824,17 @@
       "ID": "_02_FinishFirstMission",
       "SetID": "8a1io5d",
       "Name": "A New Journey",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 333
+      "UsersEstimate": 330
     },
     {
       "ID": "_03_FinishAct1",
       "SetID": "8a1io5d",
       "Name": "The Adventure Begins",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 230
+      "UsersEstimate": 235
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -869,7 +874,7 @@
       "Name": "Swabbie",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "_09_Completion_20",
@@ -939,9 +944,9 @@
       "ID": "_17_UpgradeFirstCharacter",
       "SetID": "8a1io5d",
       "Name": "With Great Power\u2026",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 126
+      "UsersEstimate": 131
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -957,15 +962,15 @@
       "Name": "Persistent Parasite",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "_20_CrewTale_TPB",
       "SetID": "8a1io5d",
       "Name": "Fishy Fish",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 54
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -1020,14 +1025,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 450,
+      "Progressed": 452,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-23T10:05:12.2000316+00:00",
+  "LastChanged_Achievements": "2023-08-23T11:04:34.6467441+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:01.7621403+00:00",
-  "LastUpdate_Ratings": "2023-08-23T10:01:09.2266434+00:00",
-  "LastUpdate_Achievements": "2023-08-23T10:05:12.2000601+00:00"
+  "LastUpdate_Ratings": "2023-08-23T11:00:07.1710652+00:00",
+  "LastUpdate_Achievements": "2023-08-23T11:04:34.6467928+00:00"
 }

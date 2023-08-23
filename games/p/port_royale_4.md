@@ -1,13 +1,13 @@
 # Port Royale 4
 [Store](https://store.epicgames.com/en-US/p/port-royale-4)  
 [View Rawdata](../../db/p/port_royale_4.json)  
-Rating: 4.03 (Ranked 932)  
+Rating: 4.03 (Ranked 933)  
 Number of Ratings: 53  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Cabin boy | 80.00% | ~671 |
-| My little farm | 64.00% | ~537 |
+| My little farm | 65.00% | ~545 |
 | Every beginning is difficult | 62.00% | ~520 |
 | Gofer | 57.00% | ~478 |
 | 3, 2, 1, mine | 56.00% | ~470 |

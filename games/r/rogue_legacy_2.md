@@ -26,6 +26,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | For Love | 0.30% | ~69 |
 | For Pride | 0.30% | ~69 |
 | Jack of all Trades | 0.30% | ~69 |
+| Color Coordination | 0.30% | ~69 |
 | For Wrath | 0.20% | ~46 |
 | For Greed | 0.20% | ~46 |
 | For Penance | 0.20% | ~46 |
@@ -34,7 +35,6 @@ Number of Ratings: 1,331  (23.09.2022)
 | A Glimpse of the Future | 0.20% | ~46 |
 | Just the Beginning | 0.20% | ~46 |
 | Wasted Betrayal | 0.20% | ~46 |
-| Color Coordination | 0.20% | ~46 |
 | Black-shoppe | 0.10% | ~23 |
 | Full House | 0.10% | ~23 |
 | Erebus Purified | 0.10% | ~23 |
