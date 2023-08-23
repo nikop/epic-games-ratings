@@ -6040,10 +6040,10 @@
       "Count": 3366
     }
   ],
-  "EOS_Progressed": 224405,
+  "EOS_Progressed": 224414,
   "EOS_Completed": 2210,
-  "EOS_NewPlayers": 1922,
-  "EOS_NewCompleters": 26,
+  "EOS_NewPlayers": 1914,
+  "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
@@ -19730,6 +19730,11 @@
       "Time": "2023-08-23T20:05:44.8331734+00:00",
       "NumProgressed": 224405,
       "NumCompleted": 2210
+    },
+    {
+      "Time": "2023-08-23T21:06:30.1847627+00:00",
+      "NumProgressed": 224414,
+      "NumCompleted": 2210
     }
   ],
   "TotalAchievements": 516,
@@ -19739,9 +19744,9 @@
       "ID": "objective_completed_1",
       "SetID": "cc37lbc",
       "Name": "A Brief Tour of the Realms",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2244
+      "UsersEstimate": 4488
     },
     {
       "ID": "objective_completed_10",
@@ -21515,9 +21520,9 @@
       "ID": "objective_completed_388",
       "SetID": "cc37lbc",
       "Name": "Flies on the Wall",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 224
+      "UsersEstimate": 449
     },
     {
       "ID": "objective_completed_389",
@@ -23868,21 +23873,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 190679,
-      "Completed": 3295
+      "Progressed": 190688,
+      "Completed": 3296
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 224405,
+      "Progressed": 224414,
       "Completed": 2210
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-23T19:00:34.1383299+00:00",
-  "LastChanged_Achievements": "2023-08-23T20:05:44.8331731+00:00",
+  "LastChanged_Achievements": "2023-08-23T21:06:30.1847623+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:12.3267162+00:00",
-  "LastUpdate_Ratings": "2023-08-23T19:59:50.9486617+00:00",
-  "LastUpdate_Achievements": "2023-08-23T20:05:44.8358489+00:00"
+  "LastUpdate_Ratings": "2023-08-23T21:00:07.1911408+00:00",
+  "LastUpdate_Achievements": "2023-08-23T21:06:30.1871425+00:00"
 }

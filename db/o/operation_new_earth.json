@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1057,
+  "EOS_Progressed": 1059,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3696,6 +3696,11 @@
       "Time": "2023-08-23T18:04:28.3103196+00:00",
       "NumProgressed": 1057,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-23T21:04:16.4889394+00:00",
+      "NumProgressed": 1059,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -3721,9 +3726,9 @@
       "ID": "ach_defeat_players_10",
       "SetID": "bm61c2p",
       "Name": "Fighting for Survival",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 85
     },
     {
       "ID": "ach_defeat_players_100",
@@ -3777,9 +3782,9 @@
       "ID": "ach_silver_rewards_50",
       "SetID": "bm61c2p",
       "Name": "Silver Achiever",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 42
+      "UsersEstimate": 32
     },
     {
       "ID": "objective_headquarters_10",
@@ -3811,7 +3816,7 @@
       "Name": "Facility Online",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -3827,7 +3832,7 @@
       "Name": "Sergeant",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -3891,7 +3896,7 @@
       "Name": "Covert Operative",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -3929,9 +3934,9 @@
       "ID": "objective_key_objectives_completed_2",
       "SetID": "bm61c2p",
       "Name": "On Target",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 106
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -3961,9 +3966,9 @@
       "ID": "objective_multiple_turrets_2",
       "SetID": "bm61c2p",
       "Name": "Defenses Online",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 296
+      "UsersEstimate": 286
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -3985,9 +3990,9 @@
       "ID": "objective_research_unlock_heavy_infantry_tier_4",
       "SetID": "bm61c2p",
       "Name": "Shock Troops",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "objective_research_unlock_light_infantry_tier_4",
@@ -4010,14 +4015,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1057,
+      "Progressed": 1059,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-08-23T20:03:34.361844+00:00",
+  "LastChanged_Achievements": "2023-08-23T21:04:16.488939+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:20.8459338+00:00",
-  "LastUpdate_Ratings": "2023-08-23T19:58:18.3660283+00:00",
-  "LastUpdate_Achievements": "2023-08-23T20:03:34.3619039+00:00"
+  "LastUpdate_Ratings": "2023-08-23T20:58:36.7389363+00:00",
+  "LastUpdate_Achievements": "2023-08-23T21:04:16.4889784+00:00"
 }

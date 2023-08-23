@@ -696,9 +696,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 216306,
+  "EOS_Progressed": 216340,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3058,
+  "EOS_NewPlayers": 3043,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8026,6 +8026,11 @@
       "Time": "2023-08-23T19:03:29.2988865+00:00",
       "NumProgressed": 216306,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-23T21:03:12.1950684+00:00",
+      "NumProgressed": 216340,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -8037,7 +8042,7 @@
       "Name": "Livin\u0027 in a dwarven paradise",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1730
+      "UsersEstimate": 1731
     },
     {
       "ID": "100Fail",
@@ -8085,7 +8090,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4326
+      "UsersEstimate": 4327
     },
     {
       "ID": "Chapter2",
@@ -8101,7 +8106,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1730
+      "UsersEstimate": 1731
     },
     {
       "ID": "Chapter4",
@@ -8123,9 +8128,9 @@
       "ID": "Chapter6",
       "SetID": "50chcgj",
       "Name": "Torture and Sensibility",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1298
+      "UsersEstimate": 1514
     },
     {
       "ID": "Chapter7",
@@ -8437,7 +8442,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4326
+      "UsersEstimate": 4327
     },
     {
       "ID": "DwarfElf15Support",
@@ -8469,7 +8474,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4326
+      "UsersEstimate": 4327
     },
     {
       "ID": "ElfEpic",
@@ -8485,7 +8490,7 @@
       "Name": "Sowwy!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 47587
+      "UsersEstimate": 47595
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -8533,7 +8538,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4326
+      "UsersEstimate": 4327
     },
     {
       "ID": "FollowBraztok",
@@ -8740,21 +8745,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 216306,
+      "Progressed": 216340,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 216306,
+      "Progressed": 216340,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-22T20:01:13.7007257+00:00",
-  "LastChanged_Achievements": "2023-08-23T19:03:29.2988855+00:00",
+  "LastChanged_Achievements": "2023-08-23T21:03:12.1950678+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:36.4163589+00:00",
-  "LastUpdate_Ratings": "2023-08-23T20:00:37.3408069+00:00",
-  "LastUpdate_Achievements": "2023-08-23T19:03:29.2990344+00:00"
+  "LastUpdate_Ratings": "2023-08-23T21:03:04.6977184+00:00",
+  "LastUpdate_Achievements": "2023-08-23T21:03:12.1951904+00:00"
 }

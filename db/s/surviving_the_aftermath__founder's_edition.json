@@ -1123,10 +1123,16 @@
       "Rating": 4.48,
       "NumberOfAwards": 690,
       "NumberOfAwardsMax": 101
+    },
+    {
+      "Time": "2023-08-23T20:58:04.693+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 692,
+      "NumberOfAwardsMax": 101
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 690,
+  "NumberOfAwards": 692,
   "NumberOfAwardsMax": 101,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -1158,7 +1164,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 70
+      "Count": 72
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1191,9 +1197,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 8486,
+  "EOS_Progressed": 8487,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 162,
+  "EOS_NewPlayers": 161,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11241,6 +11247,11 @@
       "Time": "2023-08-23T20:03:12.0383646+00:00",
       "NumProgressed": 8486,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-23T21:03:53.3590286+00:00",
+      "NumProgressed": 8487,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -11292,7 +11303,7 @@
       "Name": "Famous Explorer",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2885
+      "UsersEstimate": 2886
     },
     {
       "ID": "15",
@@ -11308,7 +11319,7 @@
       "Name": "Adventurer",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 3479
+      "UsersEstimate": 3480
     },
     {
       "ID": "17",
@@ -11364,7 +11375,7 @@
       "Name": "First Step",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 6110
+      "UsersEstimate": 6111
     },
     {
       "ID": "23",
@@ -11372,7 +11383,7 @@
       "Name": "New Opportunities",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2885
+      "UsersEstimate": 2886
     },
     {
       "ID": "24",
@@ -11404,7 +11415,7 @@
       "Name": "Energized",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2800
+      "UsersEstimate": 2801
     },
     {
       "ID": "28",
@@ -11476,7 +11487,7 @@
       "Name": "War Never Changes",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1612
+      "UsersEstimate": 1613
     },
     {
       "ID": "36",
@@ -11572,7 +11583,7 @@
       "Name": "Finders, Keepers",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 2206
+      "UsersEstimate": 2207
     },
     {
       "ID": "47",
@@ -11580,7 +11591,7 @@
       "Name": "The Long Haul",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2800
+      "UsersEstimate": 2801
     },
     {
       "ID": "48",
@@ -11723,15 +11734,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 8486,
+      "Progressed": 8487,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
-  "LastChanged": "2023-08-22T16:57:58.1853673+00:00",
-  "LastChanged_Achievements": "2023-08-23T20:03:12.0383642+00:00",
+  "LastChanged": "2023-08-23T20:58:04.6929999+00:00",
+  "LastChanged_Achievements": "2023-08-23T21:03:53.3590281+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:48.2219404+00:00",
-  "LastUpdate_Ratings": "2023-08-23T19:57:47.1379974+00:00",
-  "LastUpdate_Achievements": "2023-08-23T20:03:12.038489+00:00"
+  "LastUpdate_Ratings": "2023-08-23T20:58:04.6930004+00:00",
+  "LastUpdate_Achievements": "2023-08-23T21:03:53.3591197+00:00"
 }

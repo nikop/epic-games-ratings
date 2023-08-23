@@ -35,7 +35,7 @@
 | Grave Robber | 0.00% | ~0 |
 | Data Recoverer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,819 (Ranked 128)  
+Progressed: 8,820 (Ranked 128)  
 Completed: 0 (0.00%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,4 +67,4 @@ Completed: 0 (0.00%) (Ranked 262)
 | 2023-08-20 | 8,575 | 0 |
 | 2023-08-21 | 8,681 | 0 |
 | 2023-08-22 | 8,787 | 0 |
-| 2023-08-23 | 8,819 | 0 |
+| 2023-08-23 | 8,820 | 0 |

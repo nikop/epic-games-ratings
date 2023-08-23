@@ -5,7 +5,7 @@ Rating: 4.77 (Ranked 109)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 13.00% | ~37,787 |
+| The Sort Who Makes an Entrance | 13.00% | ~37,788 |
 | First Class Student | 11.00% | ~31,974 |
 | Troll with the Punches | 11.00% | ~31,974 |
 | The Defender of Dragons | 10.00% | ~29,067 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,744 |
 | Collector's Edition | 0.30% | ~872 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290,673 (Ranked 43)  
+Progressed: 290,674 (Ranked 43)  
 Completed: 454 (0.16%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,18 +176,18 @@ Completed: 454 (0.16%) (Ranked 194)
 | 2023-08-20 | 290,517 | 453 |
 | 2023-08-21 | 290,578 | 453 |
 | 2023-08-22 | 290,631 | 454 |
-| 2023-08-23 | 290,673 | 454 |
+| 2023-08-23 | 290,674 | 454 |
 ## Awards
 Max (Character Customization): 21,894  (Ranked 17)  
-Sum: 41,431 (Ranked 30)  
+Sum: 41,450 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 21,894 |
-| This game has Great Boss Battles | 10,632 |
+| This game has Great Boss Battles | 10,648 |
 | This game is Great for Beginners | 986 |
+| This game is Relaxing | 966 |
 | This game is Extremely Fun | 965 |
-| This game is Relaxing | 963 |
 | This game has Amazing Storytelling | 955 |
 | This game has Diverse Characters | 948 |
 | This game has Amazing Characters | 929 |
@@ -350,4 +350,4 @@ Diff (max vs sum): -13
 | 2023-08-20 | 4.77 | 21,849 | 41,309 |
 | 2023-08-21 | 4.77 | 21,871 | 41,371 |
 | 2023-08-22 | 4.77 | 21,884 | 41,412 |
-| 2023-08-23 | 4.77 | 21,894 | 41,431 |
+| 2023-08-23 | 4.77 | 21,894 | 41,450 |

@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 1.00% | ~2,244 |
+| A Brief Tour of the Realms | 2.00% | ~4,488 |
 | Beast Intentions | 0.60% | ~1,346 |
 | The Cursed Farmer | 0.60% | ~1,346 |
 | The Hunt for The Last Breath | 0.50% | ~953 |
@@ -45,6 +45,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Trollskull Manor | 0.20% | ~449 |
 | Attack on the Manor | 0.20% | ~449 |
 | The Crumbling Temple | 0.20% | ~449 |
+| Flies on the Wall | 0.20% | ~449 |
 | Useless Allies | 0.20% | ~449 |
 | Mad Cow Disease | 0.20% | ~449 |
 | Exploring Port Nyanzaru | 0.20% | ~449 |
@@ -251,7 +252,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Saurial's Lament | 0.10% | ~224 |
 | A Saurial's Resolve | 0.10% | ~224 |
 | Spirit of the Trickster Gods | 0.10% | ~191 |
-| Flies on the Wall | 0.10% | ~224 |
 | The Killer Mists | 0.10% | ~224 |
 | Class Vacation | 0.10% | ~224 |
 | A Nod from Strahd | 0.10% | ~191 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~191 |
 | Animated Giff | 0.10% | ~191 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,405 (Ranked 53)  
+Progressed: 224,414 (Ranked 53)  
 Completed: 2,210 (0.98%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -648,7 +648,7 @@ Completed: 2,210 (0.98%) (Ranked 121)
 | 2023-08-20 | 223,729 | 2,196 |
 | 2023-08-21 | 223,996 | 2,203 |
 | 2023-08-22 | 224,213 | 2,207 |
-| 2023-08-23 | 224,405 | 2,210 |
+| 2023-08-23 | 224,414 | 2,210 |
 ## Awards
 Max (Diverse Characters): 5,179  (Ranked 68)  
 Sum: 31,183 (Ranked 39)  

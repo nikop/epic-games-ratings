@@ -47,8 +47,8 @@ Number of Ratings: 98  (23.09.2022)
 | Saboteur | 2.00% | ~134 |
 | Compagnia della Morte | 1.00% | ~67 |
 | Drop and Give Me 20 | 1.00% | ~67 |
+| Malpractice | 1.00% | ~67 |
 | Rome Wasn't Built In A Day | 1.00% | ~67 |
-| Malpractice | 0.90% | ~60 |
 | "Sacro Egoismo" | 0.40% | ~27 |
 | Can I Go Home Now? | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)

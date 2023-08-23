@@ -4,7 +4,7 @@
   "ProductSlug": "disney-dreamlight-valley",
   "Ranking_Rating": 119,
   "Ranking_Popularity": 149,
-  "Ranking_PopularitySum": 107,
+  "Ranking_PopularitySum": 106,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 90,
   "Ranking_EOS_NewPlayers": 98,
@@ -3166,10 +3166,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 7435,
       "NumberOfAwardsMax": 934
+    },
+    {
+      "Time": "2023-08-23T21:00:07.5490367+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7437,
+      "NumberOfAwardsMax": 934
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7435,
+  "NumberOfAwards": 7437,
   "NumberOfAwardsMax": 934,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3219,7 +3225,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 792
+      "Count": 794
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3240,9 +3246,9 @@
       "Count": 494
     }
   ],
-  "EOS_Progressed": 8928,
+  "EOS_Progressed": 8929,
   "EOS_Completed": 202,
-  "EOS_NewPlayers": 233,
+  "EOS_NewPlayers": 229,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 2.26,
   "EosHistory": [
@@ -10425,6 +10431,11 @@
       "Time": "2023-08-23T20:04:32.1616546+00:00",
       "NumProgressed": 8928,
       "NumCompleted": 202
+    },
+    {
+      "Time": "2023-08-23T21:05:16.1627268+00:00",
+      "NumProgressed": 8929,
+      "NumCompleted": 202
     }
   ],
   "TotalAchievements": 15,
@@ -10444,7 +10455,7 @@
       "Name": "Banker",
       "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 3571
+      "UsersEstimate": 3572
     },
     {
       "ID": "Bestest_Friend",
@@ -10452,7 +10463,7 @@
       "Name": "Bestest Friend",
       "Percentage": 48,
       "XP": 75,
-      "UsersEstimate": 4285
+      "UsersEstimate": 4286
     },
     {
       "ID": "Chef_Cook",
@@ -10500,7 +10511,7 @@
       "Name": "Generous",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 2053
+      "UsersEstimate": 2054
     },
     {
       "ID": "Goofys_Investor",
@@ -10508,7 +10519,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 71,
       "XP": 75,
-      "UsersEstimate": 6339
+      "UsersEstimate": 6340
     },
     {
       "ID": "Miner",
@@ -10524,7 +10535,7 @@
       "Name": "Photographer",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 6160
+      "UsersEstimate": 6161
     },
     {
       "ID": "Renovator",
@@ -10548,23 +10559,23 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 5714
+      "UsersEstimate": 5715
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 8928,
+      "Progressed": 8929,
       "Completed": 202
     }
   ],
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
-  "LastChanged": "2023-08-23T16:00:37.6365273+00:00",
-  "LastChanged_Achievements": "2023-08-23T20:04:32.161654+00:00",
+  "LastChanged": "2023-08-23T21:00:07.5490366+00:00",
+  "LastChanged_Achievements": "2023-08-23T21:05:16.1627264+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:11.7023574+00:00",
-  "LastUpdate_Ratings": "2023-08-23T19:59:51.1991955+00:00",
-  "LastUpdate_Achievements": "2023-08-23T20:04:32.1617133+00:00"
+  "LastUpdate_Ratings": "2023-08-23T21:00:07.5490371+00:00",
+  "LastUpdate_Achievements": "2023-08-23T21:05:16.1627667+00:00"
 }

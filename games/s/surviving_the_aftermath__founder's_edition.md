@@ -6,24 +6,24 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 72.00% | ~6,110 |
+| First Step | 72.00% | ~6,111 |
 | Leader | 60.00% | ~5,092 |
 | Explorer | 53.00% | ~4,498 |
 | Healer | 52.00% | ~4,413 |
 | Aspiring Inventor | 44.00% | ~3,734 |
-| Adventurer | 41.00% | ~3,479 |
+| Adventurer | 41.00% | ~3,480 |
 | Famous Healer | 38.00% | ~3,225 |
 | Local Leader | 35.00% | ~2,970 |
-| Famous Explorer | 34.00% | ~2,885 |
-| New Opportunities | 34.00% | ~2,885 |
-| Energized | 33.00% | ~2,800 |
-| The Long Haul | 33.00% | ~2,800 |
+| Famous Explorer | 34.00% | ~2,886 |
+| New Opportunities | 34.00% | ~2,886 |
+| Energized | 33.00% | ~2,801 |
+| The Long Haul | 33.00% | ~2,801 |
 | The Great Healer | 31.00% | ~2,631 |
 | Survivor | 31.00% | ~2,631 |
 | Legendary Explorer | 28.00% | ~2,376 |
 | Cleaner | 28.00% | ~2,376 |
 | Catastrofan | 28.00% | ~2,376 |
-| Finders, Keepers | 26.00% | ~2,206 |
+| Finders, Keepers | 26.00% | ~2,207 |
 | Top Notch | 25.00% | ~2,122 |
 | Great Leader | 23.00% | ~1,952 |
 | Ice Lakes | 23.00% | ~1,952 |
@@ -31,7 +31,7 @@ Number of Ratings: 836  (23.09.2022)
 | Merchant | 22.00% | ~1,867 |
 | Real Survivor | 22.00% | ~1,867 |
 | Rocket Surgeon | 20.00% | ~1,697 |
-| War Never Changes | 19.00% | ~1,612 |
+| War Never Changes | 19.00% | ~1,613 |
 | Big Game Hunter | 17.00% | ~1,443 |
 | Spreading Influence | 17.00% | ~1,443 |
 | Friendly | 16.00% | ~1,358 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~17 |
 | Customized calamities | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,486 (Ranked 130)  
+Progressed: 8,487 (Ranked 130)  
 Completed: 0 (0.00%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,10 +191,10 @@ Completed: 0 (0.00%) (Ranked 262)
 | 2023-08-20 | 8,424 | 0 |
 | 2023-08-21 | 8,443 | 0 |
 | 2023-08-22 | 8,464 | 0 |
-| 2023-08-23 | 8,486 | 0 |
+| 2023-08-23 | 8,487 | 0 |
 ## Awards
 Max (Extremely Fun): 101  (Ranked 336)  
-Sum: 690 (Ranked 278)  
+Sum: 692 (Ranked 278)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
@@ -203,7 +203,7 @@ Diff (max vs sum): 58
 | This game has Amazing Storytelling | 86 |
 | This game has Quickly Understood Controls | 82 |
 | This game is Relaxing | 81 |
-| This game is Highly Recommended | 70 |
+| This game is Highly Recommended | 72 |
 | This game has Amazing Characters | 68 |
 | This game has Diverse Characters | 68 |
 | This game has Obsessive Gameplay | 58 |
@@ -321,3 +321,4 @@ Diff (max vs sum): 58
 | 2023-08-18 | 4.48 | - | 100 | 688 |
 | 2023-08-19 | 4.48 | - | 100 | 689 |
 | 2023-08-22 | 4.48 | - | 101 | 690 |
+| 2023-08-23 | 4.48 | - | 101 | 692 |

@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 461,
+  "EOS_Progressed": 462,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 423,
+  "EOS_NewPlayers": 424,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -831,6 +831,11 @@
       "Time": "2023-08-23T20:03:51.7012533+00:00",
       "NumProgressed": 461,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-23T21:04:34.3586221+00:00",
+      "NumProgressed": 462,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -857,9 +862,9 @@
       "ID": "_03_FinishAct1",
       "SetID": "8a1io5d",
       "Name": "The Adventure Begins",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 240
+      "UsersEstimate": 245
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -867,7 +872,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "_05_FinishAct2",
@@ -907,7 +912,7 @@
       "Name": "Powder Monkey",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "_10_Completion_30",
@@ -915,7 +920,7 @@
       "Name": "Buccaneer",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "_11_Completion_40",
@@ -953,7 +958,7 @@
       "ID": "_15_Completion_80",
       "SetID": "8a1io5d",
       "Name": "Marauder",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 125,
       "UsersEstimate": 3
     },
@@ -961,9 +966,9 @@
       "ID": "_16_UnlockCore8Characters",
       "SetID": "8a1io5d",
       "Name": "Pirates Assemble!",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 37
+      "UsersEstimate": 42
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -971,15 +976,15 @@
       "Name": "With Great Power\u2026",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "_18_UpgradeAllCharacters",
       "SetID": "8a1io5d",
       "Name": "Fully Decked",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 125,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "_19_CrewTale_BSP",
@@ -1050,14 +1055,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 461,
+      "Progressed": 462,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-23T20:03:51.7012528+00:00",
+  "LastChanged_Achievements": "2023-08-23T21:04:34.3586217+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:01.7621403+00:00",
-  "LastUpdate_Ratings": "2023-08-23T19:59:45.3257946+00:00",
-  "LastUpdate_Achievements": "2023-08-23T20:03:51.7012778+00:00"
+  "LastUpdate_Ratings": "2023-08-23T20:59:58.8349331+00:00",
+  "LastUpdate_Achievements": "2023-08-23T21:04:34.3586395+00:00"
 }

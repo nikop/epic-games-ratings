@@ -4,7 +4,7 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 508,
+  "EOS_Progressed": 509,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -1175,6 +1175,11 @@
       "Time": "2023-08-22T18:04:56.2211506+00:00",
       "NumProgressed": 508,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-23T21:05:11.6573429+00:00",
+      "NumProgressed": 509,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1208,9 +1213,9 @@
       "ID": "Chapter1",
       "SetID": "70l3651",
       "Name": "The Wraith",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 320
+      "UsersEstimate": 316
     },
     {
       "ID": "Chapter10",
@@ -1226,7 +1231,7 @@
       "Name": "The Maggot",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "Chapter3",
@@ -1290,7 +1295,7 @@
       "Name": "Collectibles Part 1",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "Collectibles2",
@@ -1354,7 +1359,7 @@
       "Name": "Wait! Wait! Not yet!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "Memories",
@@ -1394,7 +1399,7 @@
       "Name": "Master of the Old Game",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "RiverHobbit",
@@ -1466,21 +1471,21 @@
       "Name": "Welcome to Mordor!",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     }
   ],
   "AchievementSets": [
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 508,
+      "Progressed": 509,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-08-23T20:04:27.6031503+00:00",
+  "LastChanged_Achievements": "2023-08-23T21:05:11.6573425+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:45.1659385+00:00",
-  "LastUpdate_Ratings": "2023-08-23T19:59:34.125968+00:00",
-  "LastUpdate_Achievements": "2023-08-23T20:04:27.6031872+00:00"
+  "LastUpdate_Ratings": "2023-08-23T20:59:47.4632895+00:00",
+  "LastUpdate_Achievements": "2023-08-23T21:05:11.6573691+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 88,
+  "Ranking_EOS_NewPlayers": 87,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
@@ -226,7 +226,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 228568,
+  "EOS_Progressed": 228570,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 375,
   "EOS_NewCompleters": 0,
@@ -13326,6 +13326,11 @@
       "Time": "2023-08-23T20:06:14.2690534+00:00",
       "NumProgressed": 228568,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-23T21:06:59.2135031+00:00",
+      "NumProgressed": 228570,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -13401,7 +13406,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 82284
+      "UsersEstimate": 82285
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -13481,7 +13486,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 77713
+      "UsersEstimate": 77714
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -13560,7 +13565,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 228568,
+      "Progressed": 228570,
       "Completed": 3
     }
   ],
@@ -13568,8 +13573,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-08-11T01:38:33.2125072+00:00",
-  "LastChanged_Achievements": "2023-08-23T20:06:14.2690529+00:00",
+  "LastChanged_Achievements": "2023-08-23T21:06:59.2135026+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:40.7595484+00:00",
-  "LastUpdate_Ratings": "2023-08-23T19:57:40.1849171+00:00",
-  "LastUpdate_Achievements": "2023-08-23T20:06:14.2691633+00:00"
+  "LastUpdate_Ratings": "2023-08-23T20:57:57.3464756+00:00",
+  "LastUpdate_Achievements": "2023-08-23T21:06:59.2135798+00:00"
 }

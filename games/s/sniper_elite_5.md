@@ -7,19 +7,19 @@ Rating: 4.45 (Ranked 637)
 | ---- | ---------- | ----- |
 | Meeting Resistance | 46.00% | ~1,619 |
 | Confirming Suspicions | 40.00% | ~1,408 |
-| The Kraken Wakes | 35.00% | ~1,232 |
+| The Kraken Wakes | 36.00% | ~1,267 |
 | It's Starting to Crack | 32.00% | ~1,126 |
+| Change the Channel | 30.00% | ~1,056 |
 | Lord of War | 29.00% | ~1,021 |
-| Change the Channel | 29.00% | ~1,021 |
 | Taking it back | 27.00% | ~950 |
 | Resourceful | 26.00% | ~915 |
 | Target America | 25.00% | ~880 |
-| The Kraken Sleeps | 23.00% | ~809 |
+| The Kraken Sleeps | 23.00% | ~810 |
 | Organ Grinder | 22.00% | ~774 |
 | As Quiet as a Mouse | 22.00% | ~774 |
 | Liberté | 21.00% | ~739 |
 | Sharpshooter | 21.00% | ~739 |
-| Explosive Efficiency | 18.00% | ~633 |
+| Explosive Efficiency | 18.00% | ~634 |
 | Gunslinger | 17.00% | ~598 |
 | Just a Flesh Wound | 16.00% | ~563 |
 | Climbing the Ladder | 15.00% | ~528 |
@@ -27,12 +27,12 @@ Rating: 4.45 (Ranked 637)
 | Close Quarters | 15.00% | ~528 |
 | Snake in the Grass | 14.00% | ~493 |
 | Brains of the Operation | 14.00% | ~493 |
-| No Stone Unturned | 13.00% | ~457 |
-| Opposing Force | 13.00% | ~457 |
-| Enemy at the Gates | 13.00% | ~457 |
-| Fields of Glory | 13.00% | ~457 |
-| Skirmisher | 13.00% | ~457 |
-| Die Nussknacker Sweet! | 13.00% | ~457 |
+| No Stone Unturned | 13.00% | ~458 |
+| Opposing Force | 13.00% | ~458 |
+| Enemy at the Gates | 13.00% | ~458 |
+| Fields of Glory | 13.00% | ~458 |
+| Skirmisher | 13.00% | ~458 |
+| Die Nussknacker Sweet! | 13.00% | ~458 |
 | Set Europe Ablaze | 12.00% | ~422 |
 | Precision Is Key | 9.00% | ~317 |
 | My Little Friend | 9.00% | ~317 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 637)
 | Stroll in the Woods | 0.60% | ~21 |
 | Going Overboard | 0.60% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,519 (Ranked 152)  
+Progressed: 3,520 (Ranked 152)  
 Completed: 9 (0.26%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 9 (0.26%) (Ranked 178)
 | 2023-08-20 | 3,504 | 9 |
 | 2023-08-21 | 3,510 | 9 |
 | 2023-08-22 | 3,515 | 9 |
-| 2023-08-23 | 3,519 | 9 |
+| 2023-08-23 | 3,520 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

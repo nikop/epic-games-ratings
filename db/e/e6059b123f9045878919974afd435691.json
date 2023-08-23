@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 753,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1729,9 +1729,9 @@
       "ID": "AMMO_ACHIEVEMENT_4",
       "SetID": "9lcahn0",
       "Name": "Out Of Stock",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 75
     },
     {
       "ID": "ATKM_ACHIEVEMENT_1",
@@ -2009,9 +2009,9 @@
       "ID": "KILLR_ACHIEVEMENT_4",
       "SetID": "9lcahn0",
       "Name": "Call The Winchester",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 83
     },
     {
       "ID": "KILLR_ACHIEVEMENT_5",
@@ -2025,9 +2025,9 @@
       "ID": "KLACKEY_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "And There We Go",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 211
+      "UsersEstimate": 218
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -2240,8 +2240,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-08-23T20:03:07.9707646+00:00",
+  "LastChanged_Achievements": "2023-08-23T21:03:49.3246953+00:00",
   "LastUpdate_AppInfo": "2023-08-17T16:57:04.6677463+00:00",
-  "LastUpdate_Ratings": "2023-08-23T19:58:34.489279+00:00",
-  "LastUpdate_Achievements": "2023-08-23T20:03:07.9708461+00:00"
+  "LastUpdate_Ratings": "2023-08-23T20:58:52.8016745+00:00",
+  "LastUpdate_Achievements": "2023-08-23T21:03:49.3247535+00:00"
 }

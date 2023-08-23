@@ -6,26 +6,26 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 22.00% | ~47,587 |
-| Déjà vu | 2.00% | ~4,326 |
-| Where's that freaking Dwarf? | 2.00% | ~4,326 |
-| Sock! SOCK! | 2.00% | ~4,326 |
-| Alt+F4 | 2.00% | ~4,326 |
+| Sowwy! | 22.00% | ~47,595 |
+| Déjà vu | 2.00% | ~4,327 |
+| Where's that freaking Dwarf? | 2.00% | ~4,327 |
+| Sock! SOCK! | 2.00% | ~4,327 |
+| Alt+F4 | 2.00% | ~4,327 |
 | A beer, two curses, three companions | 1.00% | ~2,163 |
 | GG EZ | 1.00% | ~2,163 |
 | DM intervention | 1.00% | ~2,163 |
 | Speedrun | 1.00% | ~2,163 |
 | Fireproof Wizardess | 1.00% | ~2,163 |
 | Way of the Wimp | 0.90% | ~1,947 |
-| Livin' in a dwarven paradise | 0.80% | ~1,730 |
-| The plot thickens... At the tavern | 0.80% | ~1,730 |
+| Livin' in a dwarven paradise | 0.80% | ~1,731 |
+| The plot thickens... At the tavern | 0.80% | ~1,731 |
 | The demons' feast | 0.70% | ~1,514 |
 | The Great Library | 0.70% | ~1,514 |
+| Torture and Sensibility | 0.70% | ~1,514 |
 | The Woman in the High Castle | 0.70% | ~1,514 |
 | Team Building Exercise | 0.70% | ~1,514 |
 | Oh, when I'll be level 10... | 0.70% | ~1,514 |
 | Shiny and Crôm | 0.60% | ~1,298 |
-| Torture and Sensibility | 0.60% | ~1,298 |
 | Urik's Depths | 0.60% | ~1,298 |
 | The Dungeon Master | 0.60% | ~1,298 |
 | The Statuette of Gladeulfeurah | 0.60% | ~1,298 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~216 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,306 (Ranked 56)  
+Progressed: 216,340 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 2 (0.00%) (Ranked 262)
 | 2023-08-20 | 215,307 | 2 |
 | 2023-08-21 | 215,690 | 2 |
 | 2023-08-22 | 216,036 | 2 |
-| 2023-08-23 | 216,306 | 2 |
+| 2023-08-23 | 216,340 | 2 |
 ## Awards
 Max (Character Customization): 173  (Ranked 285)  
 Sum: 215 (Ranked 364)  

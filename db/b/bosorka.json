@@ -4,7 +4,7 @@
   "ProductSlug": "bosorka-c0e6b6",
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewPlayers": 283,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-04-14T16:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 102,
+  "EOS_Progressed": 103,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -298,6 +298,11 @@
       "Time": "2023-08-18T10:03:42.0598246+00:00",
       "NumProgressed": 102,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-23T21:04:27.8200666+00:00",
+      "NumProgressed": 103,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -307,7 +312,7 @@
       "ID": "RUNE_ACCEL",
       "SetID": "9433p49",
       "Name": "A good start",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 55,
       "UsersEstimate": 55
     },
@@ -315,15 +320,15 @@
       "ID": "RUNE_BAT",
       "SetID": "9433p49",
       "Name": "It doesn\u0027t work like that",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 55,
-      "UsersEstimate": 26
+      "UsersEstimate": 25
     },
     {
       "ID": "RUNE_BOOSTDAMAGERANGE",
       "SetID": "9433p49",
       "Name": "This is just the beginning...",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 40,
       "UsersEstimate": 19
     },
@@ -347,7 +352,7 @@
       "ID": "RUNE_CURSEDCOINS",
       "SetID": "9433p49",
       "Name": "Unstoppable Curiosity",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 100,
       "UsersEstimate": 20
     },
@@ -355,7 +360,7 @@
       "ID": "RUNE_CURSEDCOMPANIONSHIELD",
       "SetID": "9433p49",
       "Name": "Runes collector",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 100,
       "UsersEstimate": 52
     },
@@ -371,7 +376,7 @@
       "ID": "RUNE_DROPEXTRAHEART",
       "SetID": "9433p49",
       "Name": "First time, yes?",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 55,
       "UsersEstimate": 59
     },
@@ -381,7 +386,7 @@
       "Name": "Witch\u0027s duty",
       "Percentage": 61,
       "XP": 55,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "RUNE_DROPRESETSPELL",
@@ -395,15 +400,15 @@
       "ID": "RUNE_LIGHTNINGSTUN",
       "SetID": "9433p49",
       "Name": "Skilled rider",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 75,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "RUNE_OVERSTAMINA",
       "SetID": "9433p49",
       "Name": "A small victory",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 75,
       "UsersEstimate": 19
     },
@@ -413,7 +418,7 @@
       "Name": "Path of purity",
       "Percentage": 84,
       "XP": 55,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "RUNE_STUNHIT",
@@ -428,7 +433,7 @@
     {
       "ID": "9433p49",
       "IsBase": true,
-      "Progressed": 102,
+      "Progressed": 103,
       "Completed": 0
     }
   ],
@@ -436,8 +441,8 @@
   "FirstSeenRating": "2023-04-21T21:58:16.6767727+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.939072+00:00",
   "LastChanged": "2023-04-21T21:58:16.6767728+00:00",
-  "LastChanged_Achievements": "2023-08-23T20:03:45.3738653+00:00",
+  "LastChanged_Achievements": "2023-08-23T21:04:27.8200662+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:29.7615519+00:00",
-  "LastUpdate_Ratings": "2023-08-23T19:59:25.1702834+00:00",
-  "LastUpdate_Achievements": "2023-08-23T20:03:45.3738896+00:00"
+  "LastUpdate_Ratings": "2023-08-23T20:59:38.8141315+00:00",
+  "LastUpdate_Achievements": "2023-08-23T21:04:27.8200768+00:00"
 }

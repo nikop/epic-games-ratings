@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -266,9 +266,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3095,
+  "EOS_Progressed": 3096,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4651,6 +4651,11 @@
       "Time": "2023-08-23T15:07:01.7122977+00:00",
       "NumProgressed": 3095,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-23T21:07:20.4858464+00:00",
+      "NumProgressed": 3096,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -4742,7 +4747,7 @@
       "Name": "Guy de Borderlands",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "ACH_BASE_21",
@@ -4854,7 +4859,7 @@
       "Name": "Fully Recycled",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "ACH_BASE_34",
@@ -4966,7 +4971,7 @@
       "Name": "Ain\u0027t Nobody Got Time for That",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "ACH_BASE_5",
@@ -5038,7 +5043,7 @@
       "Name": "The Ship of Theseus",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "ACH_BASE_6",
@@ -5117,13 +5122,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1277,
+      "Progressed": 1278,
       "Completed": 6
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3095,
+      "Progressed": 3096,
       "Completed": 0
     }
   ],
@@ -5131,8 +5136,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-08-19T11:00:48.8517492+00:00",
-  "LastChanged_Achievements": "2023-08-23T20:08:06.7930024+00:00",
+  "LastChanged_Achievements": "2023-08-23T21:07:20.4858459+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:49.8768726+00:00",
-  "LastUpdate_Ratings": "2023-08-23T20:00:07.3651718+00:00",
-  "LastUpdate_Achievements": "2023-08-23T20:08:06.79308+00:00"
+  "LastUpdate_Ratings": "2023-08-23T21:00:24.7203434+00:00",
+  "LastUpdate_Achievements": "2023-08-23T21:07:20.4859139+00:00"
 }
