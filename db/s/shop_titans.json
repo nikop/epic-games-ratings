@@ -5716,7 +5716,7 @@
       "Count": 3737
     }
   ],
-  "EOS_Progressed": 134972,
+  "EOS_Progressed": 134974,
   "EOS_Completed": 138,
   "EOS_NewPlayers": 386,
   "EOS_NewCompleters": 5,
@@ -18496,6 +18496,11 @@
       "Time": "2023-08-23T06:06:12.6590824+00:00",
       "NumProgressed": 134972,
       "NumCompleted": 138
+    },
+    {
+      "Time": "2023-08-23T09:07:45.5853191+00:00",
+      "NumProgressed": 134974,
+      "NumCompleted": 138
     }
   ],
   "TotalAchievements": 112,
@@ -18665,9 +18670,9 @@
       "ID": "champions01",
       "SetID": "anfd17p",
       "Name": "Fated Encounters",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 405
+      "UsersEstimate": 540
     },
     {
       "ID": "chest01",
@@ -19402,15 +19407,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 134972,
+      "Progressed": 134974,
       "Completed": 138
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-08-22T17:00:35.1367451+00:00",
-  "LastChanged_Achievements": "2023-08-23T08:06:26.2457093+00:00",
+  "LastChanged_Achievements": "2023-08-23T09:07:45.5853181+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:50.7489496+00:00",
-  "LastUpdate_Ratings": "2023-08-23T08:00:15.2514895+00:00",
-  "LastUpdate_Achievements": "2023-08-23T08:06:26.2459547+00:00"
+  "LastUpdate_Ratings": "2023-08-23T09:02:09.1085744+00:00",
+  "LastUpdate_Achievements": "2023-08-23T09:07:45.58588+00:00"
 }

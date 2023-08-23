@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 144,
   "Ranking_EOS_NewPlayers": 65,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
     "PcReleaseDate": "2021-05-07T00:00:00+00:00",
@@ -324,9 +324,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 66445,
+  "EOS_Progressed": 66449,
   "EOS_Completed": 347,
-  "EOS_NewPlayers": 721,
+  "EOS_NewPlayers": 722,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -13819,6 +13819,11 @@
       "Time": "2023-08-23T08:05:29.8747791+00:00",
       "NumProgressed": 66445,
       "NumCompleted": 347
+    },
+    {
+      "Time": "2023-08-23T09:06:27.0592186+00:00",
+      "NumProgressed": 66449,
+      "NumCompleted": 347
     }
   ],
   "TotalAchievements": 24,
@@ -13838,7 +13843,7 @@
       "Name": "AWAKEN",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 13953
+      "UsersEstimate": 13954
     },
     {
       "ID": "A_GUARDIAN_FORGOTTEN",
@@ -13846,7 +13851,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 45183
+      "UsersEstimate": 45185
     },
     {
       "ID": "BEST_FRIENDS",
@@ -13854,7 +13859,7 @@
       "Name": "BEST FRIENDS",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 14618
+      "UsersEstimate": 14619
     },
     {
       "ID": "BLOOMS_OF_LIGHT",
@@ -13862,7 +13867,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 17276
+      "UsersEstimate": 17277
     },
     {
       "ID": "ERADICATE",
@@ -13870,7 +13875,7 @@
       "Name": "ERADICATE",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 13953
+      "UsersEstimate": 13954
     },
     {
       "ID": "FETCH",
@@ -13878,7 +13883,7 @@
       "Name": "FETCH",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 17940
+      "UsersEstimate": 17941
     },
     {
       "ID": "FOXIN_AROUND",
@@ -13886,7 +13891,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 19269
+      "UsersEstimate": 19270
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -13902,7 +13907,7 @@
       "Name": "GARDEN OF LIGHT",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 11960
+      "UsersEstimate": 11961
     },
     {
       "ID": "INFUSED_WITH_LIGHT",
@@ -13910,7 +13915,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 35216
+      "UsersEstimate": 35218
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -13974,7 +13979,7 @@
       "Name": "SPIRIT BARK",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 13953
+      "UsersEstimate": 13954
     },
     {
       "ID": "SPIRIT_DASH",
@@ -13990,7 +13995,7 @@
       "Name": "SPIRIT FORM",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 10631
+      "UsersEstimate": 10632
     },
     {
       "ID": "UPROOTING_DARKNESS",
@@ -14006,7 +14011,7 @@
       "Name": "WEIGHTLESS",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7973
+      "UsersEstimate": 7974
     },
     {
       "ID": "WRITTEN_IN_STONE",
@@ -14021,7 +14026,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 66445,
+      "Progressed": 66449,
       "Completed": 347
     }
   ],
@@ -14029,8 +14034,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-08-23T08:05:29.8747779+00:00",
+  "LastChanged_Achievements": "2023-08-23T09:06:27.0592179+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:00:00.2454686+00:00",
-  "LastUpdate_Ratings": "2023-08-23T07:57:06.2856409+00:00",
-  "LastUpdate_Achievements": "2023-08-23T08:05:29.8749183+00:00"
+  "LastUpdate_Ratings": "2023-08-23T08:57:34.6031599+00:00",
+  "LastUpdate_Achievements": "2023-08-23T09:06:27.0593241+00:00"
 }

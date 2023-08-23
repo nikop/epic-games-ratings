@@ -6,14 +6,14 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 43.00% | ~27,177 |
-| To The Nines | 39.00% | ~24,649 |
-| Optimized | 34.00% | ~21,489 |
-| Performance Review | 34.00% | ~21,489 |
-| Making a Name | 32.00% | ~20,225 |
-| Tune Up | 31.00% | ~19,593 |
-| Wet Work | 30.00% | ~18,961 |
-| Landlord | 30.00% | ~18,961 |
+| First F#@!ing Day | 43.00% | ~27,178 |
+| To The Nines | 39.00% | ~24,650 |
+| Optimized | 34.00% | ~21,490 |
+| Performance Review | 34.00% | ~21,490 |
+| Making a Name | 32.00% | ~20,226 |
+| Tune Up | 31.00% | ~19,594 |
+| Wet Work | 30.00% | ~18,962 |
+| Landlord | 30.00% | ~18,962 |
 | The Side Job | 29.00% | ~18,329 |
 | Wrecking Ball | 26.00% | ~16,433 |
 | Food for Thought | 25.00% | ~15,801 |
@@ -23,11 +23,11 @@ Number of Ratings: 22,103  (23.09.2022)
 | Power Players | 18.00% | ~11,377 |
 | Picking Fights | 18.00% | ~11,377 |
 | Quality Time | 17.00% | ~10,745 |
-| Et tu? | 16.00% | ~10,112 |
-| Showdown | 15.00% | ~9,480 |
-| Took It to The Limit | 15.00% | ~9,480 |
-| Kitted Out | 13.00% | ~8,216 |
-| Masters of Santo Ileso | 11.00% | ~6,952 |
+| Et tu? | 16.00% | ~10,113 |
+| Showdown | 15.00% | ~9,481 |
+| Took It to The Limit | 15.00% | ~9,481 |
+| Kitted Out | 13.00% | ~8,217 |
+| Masters of Santo Ileso | 11.00% | ~6,953 |
 | Hijacked | 10.00% | ~6,320 |
 | The Spins | 9.00% | ~5,688 |
 | The Mechanic | 9.00% | ~5,688 |
@@ -35,8 +35,8 @@ Number of Ratings: 22,103  (23.09.2022)
 | We could go home, or… | 6.00% | ~3,792 |
 | Challenge Accepted | 6.00% | ~3,792 |
 | A Golden Age | 6.00% | ~3,792 |
-| Producer Credit | 6.00% | ~2,090 |
-| Face Off | 6.00% | ~2,090 |
+| Producer Credit | 6.00% | ~2,091 |
+| Face Off | 6.00% | ~2,091 |
 | The Professional | 5.00% | ~3,160 |
 | Chaos Tamer | 5.00% | ~3,160 |
 | Untouchable | 5.00% | ~3,160 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.20% | ~126 |
 | Fiesta Time | 0.20% | ~126 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,203 (Ranked 84)  
+Progressed: 63,205 (Ranked 84)  
 Completed: 43 (0.07%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,7 +185,7 @@ Completed: 43 (0.07%) (Ranked 221)
 | 2023-08-20 | 62,813 | 42 |
 | 2023-08-21 | 62,962 | 42 |
 | 2023-08-22 | 63,140 | 43 |
-| 2023-08-23 | 63,203 | 43 |
+| 2023-08-23 | 63,205 | 43 |
 ## Awards
 Max (Extremely Fun): 1,056  (Ranked 142)  
 Sum: 8,582 (Ranked 95)  

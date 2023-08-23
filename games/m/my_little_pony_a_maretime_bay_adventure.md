@@ -13,12 +13,12 @@
 | Sheriff's Apprentice | 59.00% | ~24 |
 | Pro Herder | 59.00% | ~24 |
 | The Neigh-gotiator | 59.00% | ~24 |
-| Where Did The Magic Go? | 51.00% | ~21 |
-| Friendship Is Still Magic | 51.00% | ~21 |
-| Starscout | 41.00% | ~17 |
+| Where Did The Magic Go? | 54.00% | ~22 |
+| Friendship Is Still Magic | 54.00% | ~22 |
+| Starscout | 44.00% | ~18 |
 | W.I.N.G.S. Cadet | 34.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41 (Ranked 387)  
+Progressed: 41 (Ranked 388)  
 Completed: 13 (31.71%) (Ranked 6)  
 ## EOS Players History
 | Date | Progressed | Completed |

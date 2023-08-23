@@ -6,14 +6,14 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~928,071 |
-| I Need a Bigger Garage | 63.00% | ~649,650 |
-| Pump my Ride | 47.00% | ~484,659 |
-| Ghostbuster | 33.00% | ~340,293 |
-| That Was Close | 18.00% | ~185,614 |
-| Call Roadside Assistance | 17.00% | ~175,302 |
-| Quickie | 11.00% | ~113,431 |
-| California Dreamer | 7.00% | ~72,183 |
+| The First of Many | 90.00% | ~928,089 |
+| I Need a Bigger Garage | 63.00% | ~649,662 |
+| Pump my Ride | 47.00% | ~484,669 |
+| Ghostbuster | 33.00% | ~340,299 |
+| That Was Close | 18.00% | ~185,618 |
+| Call Roadside Assistance | 17.00% | ~175,306 |
+| Quickie | 11.00% | ~113,433 |
+| California Dreamer | 7.00% | ~72,185 |
 | Can't Touch This | 5.00% | ~51,560 |
 | Carménère Taster | 3.00% | ~30,936 |
 | Supersonic | 3.00% | ~30,936 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Transporter | 0.10% | ~1,031 |
 | Look Mom, No Hands! | 0.10% | ~1,031 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,031,190 (Ranked 12)  
+Progressed: 1,031,210 (Ranked 12)  
 Completed: 403 (0.04%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,10 +169,10 @@ Completed: 403 (0.04%) (Ranked 232)
 | 2023-08-20 | 1,030,009 | 401 |
 | 2023-08-21 | 1,030,539 | 402 |
 | 2023-08-22 | 1,031,042 | 402 |
-| 2023-08-23 | 1,031,190 | 403 |
+| 2023-08-23 | 1,031,210 | 403 |
 ## Awards
 Max (Great for Beginners): 153  (Ranked 296)  
-Sum: 1,255 (Ranked 229)  
+Sum: 1,256 (Ranked 229)  
 Diff (max vs sum): 67  
 | Award | Count |
 | ----- | ----- |
@@ -180,7 +180,7 @@ Diff (max vs sum): 67
 | This game has Quickly Understood Controls | 132 |
 | This game is Great for Quick Sessions | 125 |
 | This game is Relaxing | 125 |
-| This game is Highly Recommended | 120 |
+| This game is Highly Recommended | 121 |
 | This game has Competitive Players | 117 |
 | This game has Playful Visuals | 113 |
 | This game is Extremely Fun | 107 |
@@ -383,3 +383,4 @@ Diff (max vs sum): 67
 | 2023-08-17 | 4.55 | - | 153 | 1,250 |
 | 2023-08-18 | 4.55 | - | 153 | 1,252 |
 | 2023-08-19 | 4.55 | - | 153 | 1,255 |
+| 2023-08-23 | 4.55 | - | 153 | 1,256 |

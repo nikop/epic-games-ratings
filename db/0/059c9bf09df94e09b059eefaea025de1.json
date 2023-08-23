@@ -2,10 +2,10 @@
   "ID": "059c9bf09df94e09b059eefaea025de1",
   "Name": "33 Immortals",
   "ProductSlug": "33-immortals-9873a2",
-  "Ranking_EOS_Progress": 555,
+  "Ranking_EOS_Progress": 556,
   "Ranking_EOS_Completed": 262,
   "Ranking_EOS_NewPlayers": 345,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-21T02:10:18.411252+00:00",
-  "LastUpdate_Ratings": "2023-08-23T07:58:47.075861+00:00",
-  "LastUpdate_Achievements": "2023-08-23T08:05:59.4133591+00:00"
+  "LastUpdate_Ratings": "2023-08-23T08:59:57.5878121+00:00",
+  "LastUpdate_Achievements": "2023-08-23T09:07:08.6566933+00:00"
 }

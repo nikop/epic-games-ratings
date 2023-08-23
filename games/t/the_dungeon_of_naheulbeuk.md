@@ -6,11 +6,11 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 22.00% | ~47,547 |
-| Déjà vu | 2.00% | ~4,322 |
-| Where's that freaking Dwarf? | 2.00% | ~4,322 |
-| Sock! SOCK! | 2.00% | ~4,322 |
-| Alt+F4 | 2.00% | ~4,322 |
+| Sowwy! | 22.00% | ~47,549 |
+| Déjà vu | 2.00% | ~4,323 |
+| Where's that freaking Dwarf? | 2.00% | ~4,323 |
+| Sock! SOCK! | 2.00% | ~4,323 |
+| Alt+F4 | 2.00% | ~4,323 |
 | A beer, two curses, three companions | 1.00% | ~2,161 |
 | GG EZ | 1.00% | ~2,161 |
 | DM intervention | 1.00% | ~2,161 |
@@ -19,9 +19,9 @@ Number of Ratings: 118  (23.09.2022)
 | Livin' in a dwarven paradise | 0.80% | ~1,729 |
 | Way of the Wimp | 0.80% | ~1,729 |
 | The plot thickens... At the tavern | 0.80% | ~1,729 |
+| The demons' feast | 0.70% | ~1,513 |
 | Team Building Exercise | 0.70% | ~1,513 |
 | Oh, when I'll be level 10... | 0.70% | ~1,513 |
-| The demons' feast | 0.60% | ~1,297 |
 | The Great Library | 0.60% | ~1,297 |
 | Torture and Sensibility | 0.60% | ~1,297 |
 | Urik's Depths | 0.60% | ~1,297 |
@@ -36,10 +36,10 @@ Number of Ratings: 118  (23.09.2022)
 | The beards of change | 0.50% | ~1,081 |
 | The Ranger of Chaos | 0.50% | ~1,081 |
 | Thieves' Guild Accreditation | 0.50% | ~1,081 |
-| Res Judicata | 0.40% | ~864 |
-| Dwarf Fortress | 0.40% | ~864 |
-| Look but don't touch | 0.40% | ~864 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.40% | ~864 |
+| Res Judicata | 0.40% | ~865 |
+| Dwarf Fortress | 0.40% | ~865 |
+| Look but don't touch | 0.40% | ~865 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.40% | ~865 |
 | Dead for good | 0.30% | ~648 |
 | Gargantua | 0.30% | ~648 |
 | In Navalu's footsteps | 0.30% | ~648 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~216 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,121 (Ranked 56)  
+Progressed: 216,131 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 2 (0.00%) (Ranked 262)
 | 2023-08-20 | 215,307 | 2 |
 | 2023-08-21 | 215,690 | 2 |
 | 2023-08-22 | 216,036 | 2 |
-| 2023-08-23 | 216,121 | 2 |
+| 2023-08-23 | 216,131 | 2 |
 ## Awards
 Max (Character Customization): 173  (Ranked 285)  
 Sum: 215 (Ranked 364)  

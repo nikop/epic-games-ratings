@@ -51,6 +51,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Running of the Saurs | 0.20% | ~449 |
 | The Contagious Curse | 0.20% | ~449 |
 | Escort to Waterdeep | 0.20% | ~449 |
+| The Everlasting Rime | 0.20% | ~381 |
 | Waterdeep Detours | 0.20% | ~449 |
 | Underdeep Cartography | 0.20% | ~449 |
 | Friendly Imps | 0.20% | ~449 |
@@ -406,7 +407,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rime Bandits | 0.10% | ~191 |
 | Giant-Size Adventure | 0.10% | ~191 |
 | Power of Three | 0.10% | ~191 |
-| The Everlasting Rime | 0.10% | ~191 |
 | Enemy Summit | 0.10% | ~191 |
 | Mirage Arcane | 0.10% | ~191 |
 | Only Human | 0.10% | ~191 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~191 |
 | Animated Giff | 0.10% | ~191 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,279 (Ranked 53)  
+Progressed: 224,289 (Ranked 53)  
 Completed: 2,208 (0.98%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -648,7 +648,7 @@ Completed: 2,208 (0.98%) (Ranked 121)
 | 2023-08-20 | 223,729 | 2,196 |
 | 2023-08-21 | 223,996 | 2,203 |
 | 2023-08-22 | 224,213 | 2,207 |
-| 2023-08-23 | 224,279 | 2,208 |
+| 2023-08-23 | 224,289 | 2,208 |
 ## Awards
 Max (Diverse Characters): 5,176  (Ranked 68)  
 Sum: 31,172 (Ranked 39)  

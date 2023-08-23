@@ -2,10 +2,10 @@
   "ID": "9afcbdf06f644df19c4e5729958729fb",
   "Name": "McPixel 3",
   "ProductSlug": "mcpixel-3-fae9c2",
-  "Ranking_EOS_Progress": 555,
+  "Ranking_EOS_Progress": 556,
   "Ranking_EOS_Completed": 262,
   "Ranking_EOS_NewPlayers": 345,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-11-14T16:00:00+00:00",
     "PcReleaseDate": "2022-11-14T16:00:00+00:00",
@@ -793,8 +793,8 @@
   "FirstSeenRating": "2023-03-31T05:57:12.8658671+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.4215479+00:00",
   "LastChanged": "2023-03-31T05:57:12.8658672+00:00",
-  "LastChanged_Achievements": "2023-08-23T08:05:36.9664942+00:00",
+  "LastChanged_Achievements": "2023-08-23T09:06:37.4182049+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:27.3265019+00:00",
-  "LastUpdate_Ratings": "2023-08-23T07:58:22.7255958+00:00",
-  "LastUpdate_Achievements": "2023-08-23T08:05:36.9666468+00:00"
+  "LastUpdate_Ratings": "2023-08-23T08:59:24.7953331+00:00",
+  "LastUpdate_Achievements": "2023-08-23T09:06:37.4183221+00:00"
 }

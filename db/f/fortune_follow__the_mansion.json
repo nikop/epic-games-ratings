@@ -2,10 +2,10 @@
   "ID": "a822ee1b29f345a68a51342ec728aa6f",
   "Name": "Fortune Follow: The Mansion",
   "ProductSlug": "fortune-follow-the-mansion-bad0b2",
-  "Ranking_EOS_Progress": 555,
+  "Ranking_EOS_Progress": 556,
   "Ranking_EOS_Completed": 262,
   "Ranking_EOS_NewPlayers": 345,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-04-20T04:00:00+00:00",
     "PcReleaseDate": "2023-04-20T04:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-04-21T21:58:20.9920053+00:00",
   "LastChanged": "2023-04-21T21:58:20.9920054+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:17.7834019+00:00",
-  "LastUpdate_Ratings": "2023-08-23T08:00:34.2981817+00:00",
-  "LastUpdate_Achievements": "2023-08-23T08:05:17.4303957+00:00"
+  "LastUpdate_Ratings": "2023-08-23T09:02:36.8776503+00:00",
+  "LastUpdate_Achievements": "2023-08-23T09:06:08.9963026+00:00"
 }

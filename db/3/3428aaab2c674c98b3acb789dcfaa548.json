@@ -3728,10 +3728,10 @@
       "Count": 616
     }
   ],
-  "EOS_Progressed": 765087,
-  "EOS_Completed": 143,
-  "EOS_NewPlayers": 8412,
-  "EOS_NewCompleters": 6,
+  "EOS_Progressed": 765110,
+  "EOS_Completed": 144,
+  "EOS_NewPlayers": 8397,
+  "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
     {
@@ -14088,6 +14088,11 @@
       "Time": "2023-08-23T08:05:36.1047778+00:00",
       "NumProgressed": 765087,
       "NumCompleted": 143
+    },
+    {
+      "Time": "2023-08-23T09:06:36.1112295+00:00",
+      "NumProgressed": 765110,
+      "NumCompleted": 144
     }
   ],
   "TotalAchievements": 75,
@@ -14099,7 +14104,7 @@
       "Name": "Ain\u0027t That a Kick in the Head",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 153017
+      "UsersEstimate": 153022
     },
     {
       "ID": "ACHIEVEMENT_ALL_OR_NOTHING",
@@ -14179,7 +14184,7 @@
       "Name": "Come Fly With Me",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 38254
+      "UsersEstimate": 38256
     },
     {
       "ID": "ACHIEVEMENT_CONDEMNED_TO_REPEAT_IT",
@@ -14195,7 +14200,7 @@
       "Name": "Crafty",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 38254
+      "UsersEstimate": 38256
     },
     {
       "ID": "ACHIEVEMENT_CURIOS_AND_RELICS",
@@ -14323,7 +14328,7 @@
       "Name": "Lead Dealer",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30603
+      "UsersEstimate": 30604
     },
     {
       "ID": "ACHIEVEMENT_LITTLE_WHEEL",
@@ -14395,7 +14400,7 @@
       "Name": "New Kid",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 38254
+      "UsersEstimate": 38256
     },
     {
       "ID": "ACHIEVEMENT_NEW_VEGAS_SAMURAI",
@@ -14419,7 +14424,7 @@
       "Name": "No Tumbler Fumbler",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30603
+      "UsersEstimate": 30604
     },
     {
       "ID": "ACHIEVEMENT_OLD_TYME_BRAWLER",
@@ -14435,7 +14440,7 @@
       "Name": "Ol\u0027 Buddy Ol\u0027 Pal",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 38254
+      "UsersEstimate": 38256
     },
     {
       "ID": "ACHIEVEMENT_ONE_ARMED_BANDIT",
@@ -14507,7 +14512,7 @@
       "Name": "Ring-a-Ding-Ding",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 30603
+      "UsersEstimate": 30604
     },
     {
       "ID": "ACHIEVEMENT_ROCKETS_RED_GLARE",
@@ -14521,9 +14526,9 @@
       "ID": "ACHIEVEMENT_SAFETY_DEPOSIT_BOX",
       "SetID": "6m5nldi",
       "Name": "Safety Deposit Box",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 3825
+      "UsersEstimate": 4591
     },
     {
       "ID": "ACHIEVEMENT_SIERRA_SOUVENIR_AFICIONADO",
@@ -14571,7 +14576,7 @@
       "Name": "They Went That-a-Way",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 38254
+      "UsersEstimate": 38256
     },
     {
       "ID": "ACHIEVEMENT_THE_BOSS",
@@ -14611,7 +14616,7 @@
       "Name": "The Whole Gang\u0027s Here",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 3825
+      "UsersEstimate": 3826
     },
     {
       "ID": "ACHIEVEMENT_UP_AND_COMER",
@@ -14619,7 +14624,7 @@
       "Name": "Up and Comer",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 30603
+      "UsersEstimate": 30604
     },
     {
       "ID": "ACHIEVEMENT_UP_TO_THE_CHALLENGE",
@@ -14651,7 +14656,7 @@
       "Name": "Walker of the Mojave",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 30603
+      "UsersEstimate": 30604
     },
     {
       "ID": "ACHIEVEMENT_WARHEAD_HUNTER",
@@ -14691,29 +14696,29 @@
       "Name": "You Run Barter Town",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30603
+      "UsersEstimate": 30604
     }
   ],
   "AchievementSets": [
     {
       "ID": "6m5nldi",
       "IsBase": false,
-      "Progressed": 765087,
+      "Progressed": 765110,
       "Completed": 171
     },
     {
       "ID": "a96a0j2",
       "IsBase": true,
-      "Progressed": 765087,
-      "Completed": 143
+      "Progressed": 765110,
+      "Completed": 144
     }
   ],
   "FirstSeen": "2023-06-01T15:57:19.0339471+00:00",
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
   "LastChanged": "2023-08-23T07:59:02.6875856+00:00",
-  "LastChanged_Achievements": "2023-08-23T08:05:36.1047768+00:00",
+  "LastChanged_Achievements": "2023-08-23T09:06:36.1112289+00:00",
   "LastUpdate_AppInfo": "2023-08-17T23:57:12.6631173+00:00",
-  "LastUpdate_Ratings": "2023-08-23T07:59:02.6875862+00:00",
-  "LastUpdate_Achievements": "2023-08-23T08:05:36.1049297+00:00"
+  "LastUpdate_Ratings": "2023-08-23T09:00:17.5778339+00:00",
+  "LastUpdate_Achievements": "2023-08-23T09:06:36.1113787+00:00"
 }

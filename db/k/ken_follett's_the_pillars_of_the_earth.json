@@ -495,9 +495,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 14741,
+  "EOS_Progressed": 14742,
   "EOS_Completed": 110,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -8680,6 +8680,11 @@
       "Time": "2023-08-23T08:05:30.4545861+00:00",
       "NumProgressed": 14741,
       "NumCompleted": 110
+    },
+    {
+      "Time": "2023-08-23T09:06:28.5172459+00:00",
+      "NumProgressed": 14742,
+      "NumCompleted": 110
     }
   ],
   "TotalAchievements": 41,
@@ -8699,7 +8704,7 @@
       "Name": "Rebel without a cause",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 884
+      "UsersEstimate": 885
     },
     {
       "ID": "tpote_achievement_11",
@@ -8771,7 +8776,7 @@
       "Name": "Negotiation skills",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2653
+      "UsersEstimate": 2654
     },
     {
       "ID": "tpote_achievement_2",
@@ -8795,7 +8800,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4422
+      "UsersEstimate": 4423
     },
     {
       "ID": "tpote_achievement_22",
@@ -8843,7 +8848,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2653
+      "UsersEstimate": 2654
     },
     {
       "ID": "tpote_achievement_28",
@@ -8883,7 +8888,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2653
+      "UsersEstimate": 2654
     },
     {
       "ID": "tpote_achievement_32",
@@ -9011,22 +9016,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 5159
+      "UsersEstimate": 5160
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 14741,
+      "Progressed": 14742,
       "Completed": 110
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-08-03T13:08:30.3350415+00:00",
-  "LastChanged_Achievements": "2023-08-23T08:05:30.4545855+00:00",
+  "LastChanged_Achievements": "2023-08-23T09:06:28.5172453+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:51.0435439+00:00",
-  "LastUpdate_Ratings": "2023-08-23T07:57:42.6011016+00:00",
-  "LastUpdate_Achievements": "2023-08-23T08:05:30.4546908+00:00"
+  "LastUpdate_Ratings": "2023-08-23T08:58:28.9409363+00:00",
+  "LastUpdate_Achievements": "2023-08-23T09:06:28.5173444+00:00"
 }

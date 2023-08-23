@@ -2,10 +2,10 @@
   "ID": "95c1f8a55e3c439084bca7d9fcf51b5e",
   "Name": "Beyond Enemy Lines - Remastered Edition",
   "ProductSlug": "beyond-enemy-lines-remastered-edition-809511",
-  "Ranking_EOS_Progress": 555,
+  "Ranking_EOS_Progress": 556,
   "Ranking_EOS_Completed": 262,
   "Ranking_EOS_NewPlayers": 345,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2021-09-23T13:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-19T07:58:49.2723801+00:00",
-  "LastUpdate_Ratings": "2023-08-23T08:00:14.9487683+00:00",
-  "LastUpdate_Achievements": "2023-08-23T08:07:07.054255+00:00"
+  "LastUpdate_Ratings": "2023-08-23T09:02:08.7376919+00:00",
+  "LastUpdate_Achievements": "2023-08-23T09:08:44.7719947+00:00"
 }

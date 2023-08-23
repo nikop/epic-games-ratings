@@ -2,10 +2,10 @@
   "ID": "0e6f7995691248e59df9d6c9efb7e495",
   "Name": "The Sophisticated Art of Friendship",
   "ProductSlug": "the-sophisticated-art-of-friendship-ed1d26",
-  "Ranking_EOS_Progress": 555,
+  "Ranking_EOS_Progress": 556,
   "Ranking_EOS_Completed": 262,
   "Ranking_EOS_NewPlayers": 345,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-11-30T00:00:00+00:00",
     "PcReleaseDate": "2023-11-30T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-17T09:57:08.8417+00:00",
-  "LastUpdate_Ratings": "2023-08-23T07:58:42.5844934+00:00",
-  "LastUpdate_Achievements": "2023-08-23T08:03:31.6510245+00:00"
+  "LastUpdate_Ratings": "2023-08-23T08:59:51.5446061+00:00",
+  "LastUpdate_Achievements": "2023-08-23T09:03:40.4901609+00:00"
 }

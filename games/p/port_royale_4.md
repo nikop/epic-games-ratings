@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Fleet Admiral | 0.60% | ~5 |
 | Davy Jones' locker | 0.40% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 839 (Ranked 206)  
+Progressed: 839 (Ranked 207)  
 Completed: 1 (0.12%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |

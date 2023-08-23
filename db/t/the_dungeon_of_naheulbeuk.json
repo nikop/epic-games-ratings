@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 262,
   "Ranking_EOS_NewPlayers": 24,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -696,9 +696,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 216121,
+  "EOS_Progressed": 216131,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3103,
+  "EOS_NewPlayers": 3096,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7971,6 +7971,11 @@
       "Time": "2023-08-23T08:03:32.8558386+00:00",
       "NumProgressed": 216121,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-23T09:03:42.1862364+00:00",
+      "NumProgressed": 216131,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -8030,7 +8035,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4322
+      "UsersEstimate": 4323
     },
     {
       "ID": "Chapter2",
@@ -8052,9 +8057,9 @@
       "ID": "Chapter4",
       "SetID": "50chcgj",
       "Name": "The demons\u0027 feast",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1297
+      "UsersEstimate": 1513
     },
     {
       "ID": "Chapter5",
@@ -8126,7 +8131,7 @@
       "Name": "Res Judicata",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "CompanionPriestress",
@@ -8382,7 +8387,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4322
+      "UsersEstimate": 4323
     },
     {
       "ID": "DwarfElf15Support",
@@ -8398,7 +8403,7 @@
       "Name": "Dwarf Fortress",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "DwarfInsultWin",
@@ -8414,7 +8419,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4322
+      "UsersEstimate": 4323
     },
     {
       "ID": "ElfEpic",
@@ -8422,7 +8427,7 @@
       "Name": "Look but don\u0027t touch",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "ElfHitTwoFriends",
@@ -8430,7 +8435,7 @@
       "Name": "Sowwy!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 47547
+      "UsersEstimate": 47549
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -8478,7 +8483,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4322
+      "UsersEstimate": 4323
     },
     {
       "ID": "FollowBraztok",
@@ -8502,7 +8507,7 @@
       "Name": "I\u0027ve seen that beard before! It was on sale, and came with a broomstick and a bucket!",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "KillDungeonLich",
@@ -8685,21 +8690,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 216121,
+      "Progressed": 216131,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 216121,
+      "Progressed": 216131,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-08-22T20:01:13.7007257+00:00",
-  "LastChanged_Achievements": "2023-08-23T08:03:32.8558379+00:00",
+  "LastChanged_Achievements": "2023-08-23T09:03:42.1862356+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:36.4163589+00:00",
-  "LastUpdate_Ratings": "2023-08-23T08:00:46.5168759+00:00",
-  "LastUpdate_Achievements": "2023-08-23T08:03:32.8560063+00:00"
+  "LastUpdate_Ratings": "2023-08-23T09:02:53.5860878+00:00",
+  "LastUpdate_Achievements": "2023-08-23T09:03:42.186394+00:00"
 }

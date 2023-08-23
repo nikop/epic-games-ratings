@@ -5,39 +5,39 @@ Rating: 4.77 (Ranked 109)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~14,627 |
-| The Killing Jar | 8.00% | ~13,002 |
-| Not Your Average Trait | 8.00% | ~13,002 |
-| Expanding Horizons | 7.00% | ~11,377 |
-| Quest for Survival | 7.00% | ~11,377 |
-| Boss'n Up | 7.00% | ~11,377 |
-| Trait Chaser | 7.00% | ~11,377 |
-| Gleaming the Cube | 6.00% | ~9,752 |
-| Not a Janitor | 6.00% | ~9,752 |
-| Familiar Face | 6.00% | ~9,752 |
-| Duality | 6.00% | ~9,752 |
-| Not So Special Now | 5.00% | ~8,126 |
-| Equal Measures | 5.00% | ~8,126 |
-| Blue Goddess | 5.00% | ~8,126 |
-| Top Performer | 5.00% | ~8,126 |
-| Shhh...It's a Secret | 5.00% | ~8,126 |
-| Almost There | 5.00% | ~8,126 |
-| Make Some Room | 5.00% | ~8,126 |
-| Good, But Could Be Better! | 5.00% | ~8,126 |
-| Chaos | 4.00% | ~6,501 |
-| Traitor | 4.00% | ~6,501 |
-| Power Surge | 4.00% | ~6,501 |
-| The God Gambit | 4.00% | ~6,501 |
-| Dark Designs | 4.00% | ~6,501 |
-| Madman's Paradise | 4.00% | ~6,501 |
-| Was This Supposed To Happen? | 4.00% | ~6,501 |
-| The Web | 4.00% | ~6,501 |
-| Forever is a Long Time Coming | 3.00% | ~4,876 |
-| The Agenda | 3.00% | ~4,876 |
-| Bad Moon Rising | 3.00% | ~4,876 |
-| Strapped | 3.00% | ~4,876 |
-| Scrap Collector | 3.00% | ~4,876 |
-| All These Traits� | 3.00% | ~4,876 |
+| First of Many | 9.00% | ~14,631 |
+| The Killing Jar | 8.00% | ~13,005 |
+| Not Your Average Trait | 8.00% | ~13,005 |
+| Expanding Horizons | 7.00% | ~11,380 |
+| Quest for Survival | 7.00% | ~11,380 |
+| Boss'n Up | 7.00% | ~11,380 |
+| Trait Chaser | 7.00% | ~11,380 |
+| Gleaming the Cube | 6.00% | ~9,754 |
+| Not a Janitor | 6.00% | ~9,754 |
+| Familiar Face | 6.00% | ~9,754 |
+| Duality | 6.00% | ~9,754 |
+| Not So Special Now | 5.00% | ~8,128 |
+| Equal Measures | 5.00% | ~8,128 |
+| Blue Goddess | 5.00% | ~8,128 |
+| Top Performer | 5.00% | ~8,128 |
+| Shhh...It's a Secret | 5.00% | ~8,128 |
+| Almost There | 5.00% | ~8,128 |
+| Make Some Room | 5.00% | ~8,128 |
+| Good, But Could Be Better! | 5.00% | ~8,128 |
+| Chaos | 4.00% | ~6,503 |
+| Traitor | 4.00% | ~6,503 |
+| Power Surge | 4.00% | ~6,503 |
+| The God Gambit | 4.00% | ~6,503 |
+| Dark Designs | 4.00% | ~6,503 |
+| Madman's Paradise | 4.00% | ~6,503 |
+| Was This Supposed To Happen? | 4.00% | ~6,503 |
+| The Web | 4.00% | ~6,503 |
+| Forever is a Long Time Coming | 3.00% | ~4,877 |
+| The Agenda | 3.00% | ~4,877 |
+| Bad Moon Rising | 3.00% | ~4,877 |
+| Strapped | 3.00% | ~4,877 |
+| Scrap Collector | 3.00% | ~4,877 |
+| All These Traits� | 3.00% | ~4,877 |
 | Am I Seeing This? | 2.00% | ~3,251 |
 | Only Human | 2.00% | ~3,251 |
 | Red Room | 2.00% | ~3,251 |
@@ -49,14 +49,14 @@ Rating: 4.77 (Ranked 109)
 | No One Should Have All That Power | 2.00% | ~3,251 |
 | Maxed Out! | 2.00% | ~3,251 |
 | Transmutate | 2.00% | ~3,251 |
-| Crafty | 1.00% | ~1,625 |
-| The Collector | 1.00% | ~1,625 |
+| Crafty | 1.00% | ~1,626 |
+| The Collector | 1.00% | ~1,626 |
 | The Trigger | 0.90% | ~1,463 |
 | Cutting Edge | 0.90% | ~1,463 |
 | Ghost in the Machine | 0.70% | ~1,138 |
 | Proving Grounds | 0.70% | ~1,138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 162,527 (Ranked 63)  
+Progressed: 162,565 (Ranked 63)  
 Completed: 120 (0.07%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 120 (0.07%) (Ranked 221)
 | 2023-08-20 | 159,797 | 102 |
 | 2023-08-21 | 161,023 | 112 |
 | 2023-08-22 | 162,242 | 116 |
-| 2023-08-23 | 162,527 | 120 |
+| 2023-08-23 | 162,565 | 120 |
 ## Awards
 Max (Great Boss Battles): 1,093  (Ranked 138)  
 Sum: 1,762 (Ranked 208)  

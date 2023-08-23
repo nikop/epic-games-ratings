@@ -2,10 +2,10 @@
   "ID": "a94166dbb96e4630af7044cb995d49f7",
   "Name": "OddBallers\u2122",
   "ProductSlug": "oddballers",
-  "Ranking_EOS_Progress": 555,
+  "Ranking_EOS_Progress": 556,
   "Ranking_EOS_Completed": 262,
   "Ranking_EOS_NewPlayers": 345,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2023-01-26T16:00:00+00:00",
@@ -38,6 +38,6 @@
   "FirstSeenRating": "2023-03-31T05:57:32.5048421+00:00",
   "LastChanged": "2023-03-31T05:57:32.5048422+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:06.3932716+00:00",
-  "LastUpdate_Ratings": "2023-08-23T07:59:51.1534603+00:00",
-  "LastUpdate_Achievements": "2023-08-23T08:05:56.8332481+00:00"
+  "LastUpdate_Ratings": "2023-08-23T09:01:32.6203159+00:00",
+  "LastUpdate_Achievements": "2023-08-23T09:07:05.1266175+00:00"
 }

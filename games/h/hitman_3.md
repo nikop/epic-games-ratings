@@ -6,38 +6,38 @@ Number of Ratings: 21,082  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unseen Assassin | 46.00% | ~609,187 |
-| Death From Above | 46.00% | ~609,187 |
-| Master of the Household | 38.00% | ~503,242 |
-| Death of the Party | 36.00% | ~476,755 |
-| NEXUS-47 | 33.00% | ~437,026 |
-| The Last Tango | 32.00% | ~423,782 |
-| Nightmare Fuel | 31.00% | ~410,539 |
-| The Result of Previous Training | 28.00% | ~370,810 |
-| Tools of the Trade | 28.00% | ~370,810 |
-| Cleared for Field Duty | 27.00% | ~357,566 |
-| Seizing the Opportunity | 25.00% | ~331,080 |
-| Bullet Train | 21.00% | ~278,107 |
-| Stylish Assassin | 20.00% | ~264,864 |
-| Silent Assassin | 14.00% | ~185,405 |
-| Rise Up | 13.00% | ~172,162 |
-| Evil Wine Club | 11.00% | ~145,675 |
-| Console Cowboy | 10.00% | ~132,432 |
-| Last Stop | 10.00% | ~132,432 |
-| A New Profile | 9.00% | ~119,189 |
-| Full House | 9.00% | ~119,189 |
-| Dune Raider | 8.00% | ~105,946 |
-| No Stone Unturned | 8.00% | ~105,946 |
-| Train Surfing | 8.00% | ~105,946 |
-| Icebreaker | 7.00% | ~92,702 |
-| Family Feud | 6.00% | ~79,459 |
-| Rich Harvest | 6.00% | ~79,459 |
-| Count Down From 47 | 6.00% | ~79,459 |
-| Shortcut Killer | 5.00% | ~66,216 |
-| Treacherous Architecture | 5.00% | ~66,216 |
-| Stair Master | 5.00% | ~66,216 |
-| Followed the Trails | 5.00% | ~66,216 |
-| Last Call | 5.00% | ~66,216 |
+| Unseen Assassin | 46.00% | ~609,193 |
+| Death From Above | 46.00% | ~609,193 |
+| Master of the Household | 38.00% | ~503,247 |
+| Death of the Party | 36.00% | ~476,760 |
+| NEXUS-47 | 33.00% | ~437,030 |
+| The Last Tango | 32.00% | ~423,787 |
+| Nightmare Fuel | 31.00% | ~410,543 |
+| The Result of Previous Training | 28.00% | ~370,813 |
+| Tools of the Trade | 28.00% | ~370,813 |
+| Cleared for Field Duty | 27.00% | ~357,570 |
+| Seizing the Opportunity | 25.00% | ~331,083 |
+| Bullet Train | 21.00% | ~278,110 |
+| Stylish Assassin | 20.00% | ~264,867 |
+| Silent Assassin | 14.00% | ~185,407 |
+| Rise Up | 13.00% | ~172,163 |
+| Evil Wine Club | 11.00% | ~145,677 |
+| Console Cowboy | 10.00% | ~132,433 |
+| Last Stop | 10.00% | ~132,433 |
+| A New Profile | 9.00% | ~119,190 |
+| Full House | 9.00% | ~119,190 |
+| Dune Raider | 8.00% | ~105,947 |
+| No Stone Unturned | 8.00% | ~105,947 |
+| Train Surfing | 8.00% | ~105,947 |
+| Icebreaker | 7.00% | ~92,703 |
+| Family Feud | 6.00% | ~79,460 |
+| Rich Harvest | 6.00% | ~79,460 |
+| Count Down From 47 | 6.00% | ~79,460 |
+| Shortcut Killer | 5.00% | ~66,217 |
+| Treacherous Architecture | 5.00% | ~66,217 |
+| Stair Master | 5.00% | ~66,217 |
+| Followed the Trails | 5.00% | ~66,217 |
+| Last Call | 5.00% | ~66,217 |
 | Upstairs, Downstairs | 4.00% | ~52,973 |
 | The Great Outdoors | 4.00% | ~52,973 |
 | Partied Out | 4.00% | ~52,973 |
@@ -49,12 +49,12 @@ Number of Ratings: 21,082  (23.09.2022)
 | Hack the Planet | 3.00% | ~39,730 |
 | Master the Terroir | 3.00% | ~39,730 |
 | Vineyard Virtuoso | 3.00% | ~39,730 |
-| Bird Art | 2.00% | ~26,486 |
+| Bird Art | 2.00% | ~26,487 |
 | Top of the Class | 1.00% | ~13,243 |
 | Ripe for the Picking | 1.00% | ~13,243 |
 | The Creative Assassin | 0.70% | ~9,270 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,324,320 (Ranked 9)  
+Progressed: 1,324,333 (Ranked 9)  
 Completed: 2,128 (0.16%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,10 +179,10 @@ Completed: 2,128 (0.16%) (Ranked 194)
 | 2023-08-20 | 1,323,475 | 2,125 |
 | 2023-08-21 | 1,323,863 | 2,128 |
 | 2023-08-22 | 1,324,224 | 2,128 |
-| 2023-08-23 | 1,324,320 | 2,128 |
+| 2023-08-23 | 1,324,333 | 2,128 |
 ## Awards
 Max (Diverse Characters): 9,790  (Ranked 38)  
-Sum: 69,889 (Ranked 20)  
+Sum: 69,896 (Ranked 20)  
 Diff (max vs sum): 18  
 | Award | Count |
 | ----- | ----- |
@@ -194,7 +194,7 @@ Diff (max vs sum): 18
 | This game is Great for Beginners | 8,394 |
 | This game has Quickly Understood Controls | 8,364 |
 | This game is Relaxing | 8,246 |
-| This game has a Creative Community | 7,917 |
+| This game has a Creative Community | 7,924 |
 | This game has Obsessive Gameplay | 5,956 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -436,4 +436,4 @@ Diff (max vs sum): 18
 | 2023-08-20 | 4.78 | - | 9,770 | 69,789 |
 | 2023-08-21 | 4.78 | - | 9,778 | 69,834 |
 | 2023-08-22 | 4.78 | - | 9,790 | 69,881 |
-| 2023-08-23 | 4.78 | - | 9,790 | 69,889 |
+| 2023-08-23 | 4.78 | - | 9,790 | 69,896 |

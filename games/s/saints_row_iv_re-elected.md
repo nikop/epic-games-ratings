@@ -5,36 +5,36 @@ Rating: 4.40 (Ranked 705)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zero Saints Thirty | 64.00% | ~159,955 |
-| Destroyer-In-Chief | 58.00% | ~144,959 |
-| There Is No Pancakes | 55.00% | ~137,462 |
-| First of Many | 43.00% | ~107,470 |
-| Woah. | 37.00% | ~92,474 |
-| Don't Look Down | 30.00% | ~74,979 |
-| Don't Panic | 28.00% | ~69,980 |
-| Ooo A Piece of Candy! | 23.00% | ~57,484 |
-| Ghost in the Machine | 18.00% | ~44,987 |
-| All Too Easy | 16.00% | ~39,989 |
-| Didn't Need to See Him Naked | 14.00% | ~34,990 |
-| Indomitable | 10.00% | ~24,993 |
-| Blast from the Past | 9.00% | ~22,494 |
-| Bow to the Boss! | 9.00% | ~22,494 |
-| Friend of the Raptors | 9.00% | ~22,494 |
-| About Time! | 8.00% | ~19,994 |
-| Actor-Turned-Politician | 7.00% | ~17,495 |
-| Betrayed | 7.00% | ~17,495 |
-| Maximum Stopping Power | 7.00% | ~17,495 |
-| Poodle Skirt | 7.00% | ~17,495 |
-| You Chose... Poorly | 7.00% | ~17,495 |
-| Double Team | 6.00% | ~14,996 |
-| Keymaster | 6.00% | ~14,996 |
-| *BEEP* YOU, CLAWZ! | 5.00% | ~12,496 |
-| Imperator | 5.00% | ~12,496 |
-| ...A Saint Gets a Gun | 4.00% | ~9,997 |
-| Half Way Home | 4.00% | ~9,997 |
-| How It Should Be | 4.00% | ~9,997 |
-| Machine Man | 4.00% | ~9,997 |
-| The Full Kinzie | 4.00% | ~9,997 |
+| Zero Saints Thirty | 64.00% | ~159,967 |
+| Destroyer-In-Chief | 58.00% | ~144,970 |
+| There Is No Pancakes | 55.00% | ~137,472 |
+| First of Many | 43.00% | ~107,478 |
+| Woah. | 37.00% | ~92,481 |
+| Don't Look Down | 30.00% | ~74,985 |
+| Don't Panic | 28.00% | ~69,986 |
+| Ooo A Piece of Candy! | 23.00% | ~57,488 |
+| Ghost in the Machine | 18.00% | ~44,991 |
+| All Too Easy | 16.00% | ~39,992 |
+| Didn't Need to See Him Naked | 14.00% | ~34,993 |
+| Indomitable | 10.00% | ~24,995 |
+| Blast from the Past | 9.00% | ~22,495 |
+| Bow to the Boss! | 9.00% | ~22,495 |
+| Friend of the Raptors | 9.00% | ~22,495 |
+| About Time! | 8.00% | ~19,996 |
+| Actor-Turned-Politician | 7.00% | ~17,496 |
+| Betrayed | 7.00% | ~17,496 |
+| Maximum Stopping Power | 7.00% | ~17,496 |
+| Poodle Skirt | 7.00% | ~17,496 |
+| You Chose... Poorly | 7.00% | ~17,496 |
+| Double Team | 6.00% | ~14,997 |
+| Keymaster | 6.00% | ~14,997 |
+| *BEEP* YOU, CLAWZ! | 5.00% | ~12,497 |
+| Imperator | 5.00% | ~12,497 |
+| ...A Saint Gets a Gun | 4.00% | ~9,998 |
+| Half Way Home | 4.00% | ~9,998 |
+| How It Should Be | 4.00% | ~9,998 |
+| Machine Man | 4.00% | ~9,998 |
+| The Full Kinzie | 4.00% | ~9,998 |
 | And I Ran... | 3.00% | ~7,498 |
 | Chill Out | 3.00% | ~7,498 |
 | Elementary | 3.00% | ~7,498 |
@@ -56,7 +56,7 @@ Rating: 4.40 (Ranked 705)
 | Switch Hitter | 1.00% | ~2,499 |
 | The Whole Story | 1.00% | ~2,499 |
 | Zoo Keeper | 1.00% | ~2,499 |
-| Make a List, Check it Twice | 0.90% | ~2,249 |
+| Make a List, Check it Twice | 0.90% | ~2,250 |
 | Back in the Day | 0.70% | ~1,750 |
 | Dear Santa | 0.70% | ~1,750 |
 | Rigging the Race | 0.70% | ~1,750 |
@@ -78,7 +78,7 @@ Rating: 4.40 (Ranked 705)
 | Super Power Team Up! | 0.10% | ~250 |
 | Ultimate Hot Potato | 0.10% | ~250 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249,930 (Ranked 46)  
+Progressed: 249,949 (Ranked 46)  
 Completed: 15 (0.01%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,14 +203,14 @@ Completed: 15 (0.01%) (Ranked 249)
 | 2023-08-20 | 248,525 | 15 |
 | 2023-08-21 | 249,144 | 15 |
 | 2023-08-22 | 249,754 | 15 |
-| 2023-08-23 | 249,930 | 15 |
+| 2023-08-23 | 249,949 | 15 |
 ## Awards
-Max (Great Boss Battles): 441  (Ranked 205)  
-Sum: 441 (Ranked 312)  
+Max (Great Boss Battles): 442  (Ranked 205)  
+Sum: 442 (Ranked 312)  
 Diff (max vs sum): -107  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 441 |
+| This game has Great Boss Battles | 442 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -280,3 +280,4 @@ Diff (max vs sum): -107
 | 2023-08-10 | 4.40 | 438 | 438 |
 | 2023-08-11 | 4.40 | 439 | 439 |
 | 2023-08-17 | 4.40 | 441 | 441 |
+| 2023-08-23 | 4.40 | 442 | 442 |
