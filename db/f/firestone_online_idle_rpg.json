@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1840,
+  "EOS_Progressed": 1841,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -5099,6 +5099,11 @@
       "Time": "2023-08-23T16:06:47.8608609+00:00",
       "NumProgressed": 1840,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-08-23T17:07:18.3915071+00:00",
+      "NumProgressed": 1841,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -5206,7 +5211,7 @@
       "Name": "Doing My Part",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "dragonclicker",
@@ -5294,7 +5299,7 @@
       "Name": "Fellowship Power",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 754
+      "UsersEstimate": 755
     },
     {
       "ID": "fourleafclover",
@@ -5318,7 +5323,7 @@
       "Name": "Full Party",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "gearenchanting",
@@ -5374,7 +5379,7 @@
       "Name": "Hunter",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "inspection",
@@ -5382,7 +5387,7 @@
       "Name": "Inspection",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "jewelenchanting",
@@ -5430,7 +5435,7 @@
       "Name": "Mastery",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "milestonecollector",
@@ -5502,7 +5507,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 975
+      "UsersEstimate": 976
     },
     {
       "ID": "prestigiousx10",
@@ -5518,7 +5523,7 @@
       "Name": "Relic Of The Past",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "sailor",
@@ -5566,7 +5571,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 1030
+      "UsersEstimate": 1031
     },
     {
       "ID": "thealchemist",
@@ -5606,7 +5611,7 @@
       "Name": "The power of Awakening",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "theunstoppable",
@@ -5670,7 +5675,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1711
+      "UsersEstimate": 1712
     },
     {
       "ID": "warmachinesarmy",
@@ -5709,7 +5714,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1840,
+      "Progressed": 1841,
       "Completed": 2
     }
   ],
@@ -5717,8 +5722,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-08-10T20:59:32.9674394+00:00",
-  "LastChanged_Achievements": "2023-08-23T16:06:47.8608602+00:00",
+  "LastChanged_Achievements": "2023-08-23T17:07:18.3915063+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:03.2567748+00:00",
-  "LastUpdate_Ratings": "2023-08-23T16:00:30.7612139+00:00",
-  "LastUpdate_Achievements": "2023-08-23T16:06:47.8609713+00:00"
+  "LastUpdate_Ratings": "2023-08-23T17:01:02.0365334+00:00",
+  "LastUpdate_Achievements": "2023-08-23T17:07:18.3916955+00:00"
 }

@@ -911,9 +911,9 @@
       "ID": "_11_Completion_40",
       "SetID": "8a1io5d",
       "Name": "Seadog",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 23
     },
     {
       "ID": "_12_Completion_50",
@@ -927,9 +927,9 @@
       "ID": "_13_Completion_60",
       "SetID": "8a1io5d",
       "Name": "Corsair",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 9
+      "UsersEstimate": 14
     },
     {
       "ID": "_14_Completion_70",
@@ -951,9 +951,9 @@
       "ID": "_16_UnlockCore8Characters",
       "SetID": "8a1io5d",
       "Name": "Pirates Assemble!",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 32
+      "UsersEstimate": 37
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -1015,17 +1015,17 @@
       "ID": "_24_CrewTale_SNP",
       "SetID": "8a1io5d",
       "Name": "Jaded Judge",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 23
     },
     {
       "ID": "_25_CrewTale_GCW",
       "SetID": "8a1io5d",
       "Name": "Rustic Recipe",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 23
     },
     {
       "ID": "_26_ReviveVirgilio",
@@ -1046,8 +1046,8 @@
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-23T16:04:42.6750854+00:00",
+  "LastChanged_Achievements": "2023-08-23T17:04:52.6159978+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:01.7621403+00:00",
-  "LastUpdate_Ratings": "2023-08-23T16:00:30.4165977+00:00",
-  "LastUpdate_Achievements": "2023-08-23T16:04:42.6751076+00:00"
+  "LastUpdate_Ratings": "2023-08-23T17:01:01.6586619+00:00",
+  "LastUpdate_Achievements": "2023-08-23T17:04:52.6160347+00:00"
 }

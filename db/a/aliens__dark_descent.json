@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 483,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -4031,9 +4031,9 @@
       "ID": "ACH_MAX_ALL_CLASSES",
       "SetID": "816efe",
       "Name": "Hardened In The Heat Of Battle",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 191
+      "UsersEstimate": 223
     },
     {
       "ID": "ACH_MAX_GUNNER",
@@ -4111,9 +4111,9 @@
       "ID": "ACH_MISSION_05",
       "SetID": "816efe",
       "Name": "Where It All Begun",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 1240
+      "UsersEstimate": 1272
     },
     {
       "ID": "ACH_MISSION_06",
@@ -4256,8 +4256,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-08-18T05:57:00.7172404+00:00",
-  "LastChanged_Achievements": "2023-08-23T16:06:02.0264837+00:00",
+  "LastChanged_Achievements": "2023-08-23T17:06:24.7877189+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:11.1811549+00:00",
-  "LastUpdate_Ratings": "2023-08-23T15:57:43.5843763+00:00",
-  "LastUpdate_Achievements": "2023-08-23T16:06:02.0265454+00:00"
+  "LastUpdate_Ratings": "2023-08-23T16:57:44.9360029+00:00",
+  "LastUpdate_Achievements": "2023-08-23T17:06:24.787873+00:00"
 }

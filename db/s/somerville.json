@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 100,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewPlayers": 246,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-11-15T00:00:00+00:00",
@@ -603,9 +603,9 @@
       "ID": "SomervilleWorldsBestDad",
       "SetID": "3mk3nll",
       "Name": "Worlds best dad.",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 227
+      "UsersEstimate": 243
     }
   ],
   "AchievementSets": [
@@ -620,8 +620,8 @@
   "FirstSeenRating": "2022-11-25T17:58:18.0029626+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:11.8533708+00:00",
   "LastChanged": "2023-03-31T05:58:16.104552+00:00",
-  "LastChanged_Achievements": "2023-08-23T16:07:30.0666721+00:00",
+  "LastChanged_Achievements": "2023-08-23T17:08:06.4632081+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:45.419792+00:00",
-  "LastUpdate_Ratings": "2023-08-23T16:00:15.9654522+00:00",
-  "LastUpdate_Achievements": "2023-08-23T16:07:30.0666842+00:00"
+  "LastUpdate_Ratings": "2023-08-23T17:00:43.4179596+00:00",
+  "LastUpdate_Achievements": "2023-08-23T17:08:06.4632282+00:00"
 }

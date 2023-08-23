@@ -6,24 +6,24 @@ Number of Ratings: 74  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Small Community | 56.00% | ~3,959 |
-| A Grove Replanted | 53.00% | ~3,747 |
-| Fields Watered | 41.00% | ~2,899 |
-| Seekers Found | 41.00% | ~2,899 |
-| Settling the Skies | 41.00% | ~2,899 |
-| Wind Powered | 40.00% | ~2,828 |
+| A Small Community | 56.00% | ~3,960 |
+| A Grove Replanted | 53.00% | ~3,748 |
+| Fields Watered | 41.00% | ~2,900 |
+| Seekers Found | 41.00% | ~2,900 |
+| Settling the Skies | 41.00% | ~2,900 |
+| Wind Powered | 40.00% | ~2,829 |
 | It Takes a Village | 34.00% | ~2,404 |
 | On the Town | 28.00% | ~1,980 |
-| Daylight Found | 26.00% | ~1,838 |
+| Daylight Found | 26.00% | ~1,839 |
 | Irons Scorched | 25.00% | ~1,768 |
 | Islands Connected | 25.00% | ~1,768 |
-| Harp Tuned | 23.00% | ~1,626 |
-| Pyre Ignited | 23.00% | ~1,626 |
-| Travelers Returned | 23.00% | ~1,626 |
-| Hopes Hoisted | 22.00% | ~1,555 |
+| Harp Tuned | 23.00% | ~1,627 |
+| Pyre Ignited | 23.00% | ~1,627 |
+| Travelers Returned | 23.00% | ~1,627 |
+| Hopes Hoisted | 22.00% | ~1,556 |
 | Knowledge Shared | 20.00% | ~1,414 |
 | Relic Finder | 20.00% | ~1,414 |
-| Worthy of the Title | 19.00% | ~1,343 |
+| Worthy of the Title | 19.00% | ~1,344 |
 | A Peaceful Respite | 14.00% | ~990 |
 | A Learned Scholar | 13.00% | ~919 |
 | Prophecy Fulfilled | 13.00% | ~919 |
@@ -34,7 +34,7 @@ Number of Ratings: 74  (23.09.2022)
 | Sparkling Alloys | 2.00% | ~141 |
 | A True Challenge | 2.00% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,070 (Ranked 135)  
+Progressed: 7,072 (Ranked 135)  
 Completed: 53 (0.75%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,7 +158,7 @@ Completed: 53 (0.75%) (Ranked 128)
 | 2023-08-20 | 7,060 | 53 |
 | 2023-08-21 | 7,067 | 53 |
 | 2023-08-22 | 7,069 | 53 |
-| 2023-08-23 | 7,070 | 53 |
+| 2023-08-23 | 7,072 | 53 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -6,7 +6,7 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Clergy | 4.00% | ~541 |
+| The Clergy | 4.00% | ~542 |
 | Explorer | 3.00% | ~406 |
 | Intrepid | 3.00% | ~406 |
 | Settler | 3.00% | ~406 |
@@ -108,6 +108,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Landowners | 0.60% | ~81 |
 | Riders | 0.60% | ~81 |
 | Church of the Holy Sepulchre | 0.60% | ~81 |
+| Adur Burzen-Mihr | 0.60% | ~81 |
 | Carthage | 0.60% | ~81 |
 | Assyrian Paganism | 0.60% | ~81 |
 | Industrial Progress | 0.60% | ~81 |
@@ -121,7 +122,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Devout | 0.50% | ~68 |
 | Strong Difficulty | 0.50% | ~68 |
 | Hunters | 0.50% | ~68 |
-| Adur Burzen-Mihr | 0.50% | ~68 |
 | Babylonia | 0.50% | ~68 |
 | One True Faith | 0.50% | ~68 |
 | Enlightenment | 0.50% | ~68 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,537 (Ranked 118)  
+Progressed: 13,538 (Ranked 118)  
 Completed: 5 (0.04%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -428,7 +428,7 @@ Completed: 5 (0.04%) (Ranked 232)
 | 2023-08-20 | 13,503 | 5 |
 | 2023-08-21 | 13,520 | 5 |
 | 2023-08-22 | 13,532 | 5 |
-| 2023-08-23 | 13,537 | 5 |
+| 2023-08-23 | 13,538 | 5 |
 ## Awards
 Max (Relaxing): 220  (Ranked 264)  
 Sum: 1,798 (Ranked 208)  

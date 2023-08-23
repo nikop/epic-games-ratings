@@ -20,7 +20,7 @@ Rating: 4.49 (Ranked 577)
 | Harper's Hell | 45.00% | ~1,431 |
 | Making a Stand | 44.00% | ~1,399 |
 | Damn Dude, You Gotta Lose Some Weight! | 42.00% | ~1,336 |
-| Where It All Begun | 39.00% | ~1,240 |
+| Where It All Begun | 40.00% | ~1,272 |
 | Recouped Investment | 38.00% | ~1,208 |
 | Omelette Du Fromage | 33.00% | ~1,049 |
 | Living Nightmare | 33.00% | ~1,049 |
@@ -43,7 +43,7 @@ Rating: 4.49 (Ranked 577)
 | This Went Smoothly | 12.00% | ~382 |
 | Heavy Steps | 12.00% | ~382 |
 | Perfect Enhancements | 9.00% | ~286 |
-| Hardened In The Heat Of Battle | 6.00% | ~191 |
+| Hardened In The Heat Of Battle | 7.00% | ~223 |
 | The True Experience | 6.00% | ~191 |
 | Archivist | 2.00% | ~64 |
 | Fair And Square | 2.00% | ~64 |

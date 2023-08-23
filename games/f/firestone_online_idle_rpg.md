@@ -5,19 +5,19 @@ Rating: 4.05 (Ranked 926)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,711 |
+| Victor | 93.00% | ~1,712 |
 | World Map | 79.00% | ~1,454 |
-| Temple of Eternals | 56.00% | ~1,030 |
-| Prestigious | 53.00% | ~975 |
-| Fellowship Power | 41.00% | ~754 |
+| Temple of Eternals | 56.00% | ~1,031 |
+| Prestigious | 53.00% | ~976 |
+| Fellowship Power | 41.00% | ~755 |
 | Guild Power | 25.00% | ~460 |
 | Prestigious x10 | 22.00% | ~405 |
 | The game is on | 20.00% | ~368 |
 | Exotic Merchant | 19.00% | ~350 |
 | Dragon Clicker | 17.00% | ~313 |
 | Miner Clicker | 17.00% | ~313 |
-| Full Party | 16.00% | ~294 |
-| Inspection | 16.00% | ~294 |
+| Full Party | 16.00% | ~295 |
+| Inspection | 16.00% | ~295 |
 | Dragon Master | 15.00% | ~276 |
 | Enlightenment | 15.00% | ~276 |
 | Hero inspection | 15.00% | ~276 |
@@ -28,11 +28,11 @@ Rating: 4.05 (Ranked 926)
 | Superior | 13.00% | ~239 |
 | The Unstoppable | 13.00% | ~239 |
 | Scientist | 12.00% | ~221 |
-| Doing My Part | 11.00% | ~202 |
-| Hunter | 11.00% | ~202 |
-| Mastery | 11.00% | ~202 |
-| Relic Of The Past | 11.00% | ~202 |
-| The power of Awakening | 11.00% | ~202 |
+| Doing My Part | 11.00% | ~203 |
+| Hunter | 11.00% | ~203 |
+| Mastery | 11.00% | ~203 |
+| Relic Of The Past | 11.00% | ~203 |
+| The power of Awakening | 11.00% | ~203 |
 | Challenger | 10.00% | ~184 |
 | Daily Quest Completionist | 10.00% | ~184 |
 | Four Leaf Clover | 10.00% | ~184 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 926)
 | Silverwood liberator | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,840 (Ranked 173)  
+Progressed: 1,841 (Ranked 173)  
 Completed: 2 (0.11%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 2 (0.11%) (Ranked 207)
 | 2023-08-20 | 1,829 | 2 |
 | 2023-08-21 | 1,837 | 2 |
 | 2023-08-22 | 1,838 | 2 |
-| 2023-08-23 | 1,840 | 2 |
+| 2023-08-23 | 1,841 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

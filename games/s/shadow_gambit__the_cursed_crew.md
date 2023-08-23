@@ -16,16 +16,16 @@
 | Fishy Fish | 12.00% | ~55 |
 | Persistent Parasite | 10.00% | ~46 |
 | Buccaneer | 8.00% | ~37 |
-| Pirates Assemble! | 7.00% | ~32 |
-| Seadog | 4.00% | ~18 |
-| Jaded Judge | 4.00% | ~18 |
-| Rustic Recipe | 4.00% | ~18 |
+| Pirates Assemble! | 8.00% | ~37 |
+| Seadog | 5.00% | ~23 |
+| Jaded Judge | 5.00% | ~23 |
+| Rustic Recipe | 5.00% | ~23 |
 | All Good Things | 3.00% | ~14 |
 | Privateer | 3.00% | ~14 |
+| Corsair | 3.00% | ~14 |
 | Tobacco Travesty | 3.00% | ~14 |
 | Accursed Artifacts | 3.00% | ~14 |
 | Lyrical Longing | 3.00% | ~14 |
-| Corsair | 2.00% | ~9 |
 | Freebooter | 1.00% | ~5 |
 | Fully Decked | 0.90% | ~4 |
 | Marauder | 0.40% | ~2 |
