@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 458,
+  "EOS_Progressed": 459,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 422,
   "EOS_NewCompleters": 0,
@@ -821,6 +821,11 @@
       "Time": "2023-08-23T16:04:42.6750859+00:00",
       "NumProgressed": 458,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-23T18:04:52.920465+00:00",
+      "NumProgressed": 459,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -841,7 +846,7 @@
       "Name": "A New Journey",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "_03_FinishAct1",
@@ -849,7 +854,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -889,15 +894,15 @@
       "Name": "Swabbie",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "_09_Completion_20",
       "SetID": "8a1io5d",
       "Name": "Powder Monkey",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 78
     },
     {
       "ID": "_10_Completion_30",
@@ -961,7 +966,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -1040,14 +1045,14 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 458,
+      "Progressed": 459,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged_Achievements": "2023-08-23T17:04:52.6159978+00:00",
+  "LastChanged_Achievements": "2023-08-23T18:04:52.9204644+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:01.7621403+00:00",
-  "LastUpdate_Ratings": "2023-08-23T17:01:01.6586619+00:00",
-  "LastUpdate_Achievements": "2023-08-23T17:04:52.6160347+00:00"
+  "LastUpdate_Ratings": "2023-08-23T18:01:08.7441731+00:00",
+  "LastUpdate_Achievements": "2023-08-23T18:04:52.9205034+00:00"
 }

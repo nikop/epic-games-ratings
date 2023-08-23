@@ -28,12 +28,12 @@ Number of Ratings: 125  (23.09.2022)
 | Winds of War | 16.00% | ~290 |
 | Dog Days | 13.00% | ~236 |
 | Out on the Ebb Tide | 13.00% | ~236 |
+| Turning the Tables | 13.00% | ~236 |
 | Workers' Rights | 13.00% | ~236 |
 | Elusive Prey | 12.00% | ~217 |
 | Power Behind the Pulpit | 12.00% | ~217 |
 | Something Wicked This Way Comes… | 12.00% | ~217 |
 | There is Hope | 12.00% | ~217 |
-| Turning the Tables | 12.00% | ~217 |
 | The Philosopher’s Stone | 10.00% | ~181 |
 | Loyalty to the Pack | 9.00% | ~163 |
 | Eternity Can Wait | 9.00% | ~163 |
@@ -56,8 +56,8 @@ Number of Ratings: 125  (23.09.2022)
 | Explorer | 0.60% | ~11 |
 | End the world | 0.60% | ~11 |
 | Moon Hunter | 0.50% | ~9 |
+| Revenant | 0.50% | ~9 |
 | Dirt and Blame | 0.40% | ~7 |
-| Revenant | 0.40% | ~7 |
 | Winter Has Come | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,812 (Ranked 175)  

@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're Going Down! | 96.00% | ~115 |
-| To Each Their Own | 47.00% | ~56 |
+| You're Going Down! | 96.00% | ~116 |
+| To Each Their Own | 46.00% | ~56 |
 | You Get An Upgrade, You Get An Upgrade! | 23.00% | ~28 |
 | Onwards and Upwards | 20.00% | ~24 |
-| Like Phileas Fogg | 18.00% | ~22 |
+| Like Phileas Fogg | 17.00% | ~21 |
 | Serial Winner | 15.00% | ~18 |
 | Highly Qualified | 11.00% | ~13 |
 | No Room for Improvement | 11.00% | ~13 |
 | Start Your Engines | 11.00% | ~13 |
 | Lone Wolf | 10.00% | ~12 |
-| Nerd | 8.00% | ~10 |
-| Playing God | 8.00% | ~10 |
+| Nerd | 7.00% | ~8 |
 | Upgradeaholic | 7.00% | ~8 |
+| Playing God | 7.00% | ~8 |
 | First and Foremost | 6.00% | ~7 |
 | Tailor-Made | 6.00% | ~7 |
 | Made Mother Proud | 5.00% | ~6 |
@@ -24,19 +24,19 @@
 | Seven-League Boots | 4.00% | ~5 |
 | Gotta Go Fast! | 4.00% | ~5 |
 | Say My Name | 4.00% | ~5 |
-| Déjà-Vu | 3.00% | ~4 |
 | POI Hunter | 3.00% | ~4 |
-| Geek | 3.00% | ~4 |
-| Last One Standing | 3.00% | ~4 |
-| The Immortal One | 3.00% | ~4 |
-| Time Lord | 3.00% | ~4 |
 | First Things First | 3.00% | ~4 |
 | Tailor-Made for Two | 3.00% | ~4 |
 | Tempus Fugit | 3.00% | ~4 |
+| Déjà-Vu | 2.00% | ~2 |
 | Golden Ratio | 2.00% | ~2 |
 | The Joy of Discovery | 2.00% | ~2 |
+| Geek | 2.00% | ~2 |
+| Last One Standing | 2.00% | ~2 |
+| The Immortal One | 2.00% | ~2 |
 | Shopping List | 2.00% | ~2 |
 | Checklist | 2.00% | ~2 |
+| Time Lord | 2.00% | ~2 |
 | Time Is of the Essence | 2.00% | ~2 |
 | Made Father Proud | 2.00% | ~2 |
 | Win-Win! | 2.00% | ~2 |
@@ -44,8 +44,8 @@
 | Superbike Superfan | 2.00% | ~2 |
 | Playing Favourites | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 120 (Ranked 320)  
-Completed: 2 (1.67%) (Ranked 100)  
+Progressed: 121 (Ranked 320)  
+Completed: 2 (1.65%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -106,3 +106,4 @@ Completed: 2 (1.67%) (Ranked 100)
 | 2023-08-12 | 118 | 2 |
 | 2023-08-13 | 119 | 2 |
 | 2023-08-15 | 120 | 2 |
+| 2023-08-23 | 121 | 2 |

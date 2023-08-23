@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewPlayers": 311,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-04-28T13:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 407,
+  "EOS_Progressed": 408,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -304,6 +304,11 @@
       "Time": "2023-08-13T11:05:45.7842138+00:00",
       "NumProgressed": 407,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-23T18:03:11.9249829+00:00",
+      "NumProgressed": 408,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -387,15 +392,15 @@
       "Name": "Forester",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "Metropolis",
       "SetID": "c2k469b",
       "Name": "Metropolis",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 114
+      "UsersEstimate": 110
     },
     {
       "ID": "Multitalent",
@@ -435,7 +440,7 @@
       "Name": "Joma",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "PlanetLorian",
@@ -443,7 +448,7 @@
       "Name": "Lorian",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "PlanetMagni",
@@ -451,7 +456,7 @@
       "Name": "Magni",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "PlanetRounos",
@@ -475,7 +480,7 @@
       "Name": "Tuto",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "PlanetUdionTorix",
@@ -506,7 +511,7 @@
     {
       "ID": "c2k469b",
       "IsBase": true,
-      "Progressed": 407,
+      "Progressed": 408,
       "Completed": 0
     }
   ],
@@ -514,8 +519,8 @@
   "FirstSeenRating": "2022-08-14T20:31:45.7096726+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:11.8112699+00:00",
   "LastChanged": "2023-03-31T05:58:11.9489163+00:00",
-  "LastChanged_Achievements": "2023-08-23T17:03:10.7799007+00:00",
+  "LastChanged_Achievements": "2023-08-23T18:03:11.9249821+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:50.3508251+00:00",
-  "LastUpdate_Ratings": "2023-08-23T16:57:07.1282756+00:00",
-  "LastUpdate_Achievements": "2023-08-23T17:03:10.779929+00:00"
+  "LastUpdate_Ratings": "2023-08-23T17:57:18.1325003+00:00",
+  "LastUpdate_Achievements": "2023-08-23T18:03:11.9250147+00:00"
 }

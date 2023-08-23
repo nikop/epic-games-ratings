@@ -2160,9 +2160,9 @@
       "ID": "ACH_REVENANT",
       "SetID": "8j30i9k",
       "Name": "Revenant",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_SCHOLAR",
@@ -2248,9 +2248,9 @@
       "ID": "ACH_TURNING_THE_TABLES",
       "SetID": "8j30i9k",
       "Name": "Turning the Tables",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 217
+      "UsersEstimate": 236
     },
     {
       "ID": "ACH_UNFORGIVEN",
@@ -2312,8 +2312,8 @@
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-08-02T19:59:24.9286429+00:00",
-  "LastChanged_Achievements": "2023-08-23T17:04:47.983905+00:00",
+  "LastChanged_Achievements": "2023-08-23T18:04:48.3414375+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:48.6398228+00:00",
-  "LastUpdate_Ratings": "2023-08-23T17:01:34.3859041+00:00",
-  "LastUpdate_Achievements": "2023-08-23T17:04:47.9840023+00:00"
+  "LastUpdate_Ratings": "2023-08-23T18:01:42.6440543+00:00",
+  "LastUpdate_Achievements": "2023-08-23T18:04:48.3415131+00:00"
 }

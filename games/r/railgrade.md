@@ -5,31 +5,31 @@ Rating: 4.54 (Ranked 502)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 98.00% | ~19,154 |
-| Before the Downfall | 93.00% | ~18,177 |
-| Money like Water | 91.00% | ~17,786 |
-| Minimalist | 90.00% | ~17,590 |
-| Builder | 83.00% | ~16,222 |
+| Trevithick's Legacy | 98.00% | ~19,155 |
+| Before the Downfall | 93.00% | ~18,178 |
+| Money like Water | 91.00% | ~17,787 |
+| Minimalist | 90.00% | ~17,591 |
+| Builder | 83.00% | ~16,223 |
 | Eraser | 70.00% | ~13,682 |
-| Pocket of Trains | 65.00% | ~12,704 |
+| Pocket of Trains | 65.00% | ~12,705 |
 | Inspector | 59.00% | ~11,532 |
-| Going the Distance | 54.00% | ~10,554 |
+| Going the Distance | 54.00% | ~10,555 |
 | Oil Baron | 42.00% | ~8,209 |
 | Loads-a-Money | 42.00% | ~8,209 |
 | Helper of the People | 39.00% | ~7,623 |
-| Simplification | 34.00% | ~6,645 |
+| Simplification | 34.00% | ~6,646 |
 | Box of Trains | 33.00% | ~6,450 |
-| Let There be Light | 32.00% | ~6,254 |
+| Let There be Light | 32.00% | ~6,255 |
 | Hot Water | 31.00% | ~6,059 |
 | Indecisive | 29.00% | ~5,668 |
 | The scenic route | 27.00% | ~5,277 |
 | Industrialist | 25.00% | ~4,886 |
-| 8K is Enough for Everyone | 23.00% | ~4,495 |
-| Perfectionist | 23.00% | ~4,495 |
-| Trains over Pipes | 23.00% | ~4,495 |
+| 8K is Enough for Everyone | 23.00% | ~4,496 |
+| Perfectionist | 23.00% | ~4,496 |
+| Trains over Pipes | 23.00% | ~4,496 |
 | Man of Steel | 17.00% | ~3,323 |
 | Room Full of Trains | 13.00% | ~2,541 |
-| Investor | 10.00% | ~1,954 |
+| Investor | 10.00% | ~1,955 |
 | Multiverse | 7.00% | ~1,368 |
 | The poor groundwater levels | 7.00% | ~1,368 |
 | Metropolis | 7.00% | ~1,368 |
@@ -43,7 +43,7 @@ Rating: 4.54 (Ranked 502)
 | Overdeer | 0.50% | ~98 |
 | Cloud Services | 0.20% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,545 (Ranked 108)  
+Progressed: 19,546 (Ranked 108)  
 Completed: 37 (0.19%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,7 +167,7 @@ Completed: 37 (0.19%) (Ranked 190)
 | 2023-08-20 | 19,536 | 37 |
 | 2023-08-21 | 19,538 | 37 |
 | 2023-08-22 | 19,541 | 37 |
-| 2023-08-23 | 19,545 | 37 |
+| 2023-08-23 | 19,546 | 37 |
 ## Awards
 Max (Highly Recommended): 88  (Ranked 353)  
 Sum: 660 (Ranked 288)  

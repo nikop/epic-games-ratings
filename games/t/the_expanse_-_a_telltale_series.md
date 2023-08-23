@@ -16,6 +16,7 @@
 | Data Master | 2.00% | ~176 |
 | Urshanabi Hoarder | 0.90% | ~79 |
 | Debris Spree | 0.70% | ~62 |
+| The Pit and the Pirates | 0.10% | ~9 |
 | Data Archivist | 0.10% | ~9 |
 | Miraculous Maya | 0.10% | ~9 |
 | Khan's Revenge | 0.10% | ~9 |
@@ -24,7 +25,6 @@
 | No Belter Left Behind | 0.10% | ~9 |
 | Impossible Objects | 0.10% | ~9 |
 | Data Miner | 0.00% | ~0 |
-| The Pit and the Pirates | 0.00% | ~0 |
 | Oyedang, Kopengs | 0.00% | ~0 |
 | Drug Gifter | 0.00% | ~0 |
 | Drone Dodger | 0.00% | ~0 |

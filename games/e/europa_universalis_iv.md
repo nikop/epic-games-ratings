@@ -6,42 +6,42 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~14,510 |
-| That's a Grand Army | 3.00% | ~10,883 |
-| That is mine! | 3.00% | ~10,883 |
-| Victorious! | 3.00% | ~10,883 |
-| Brothers in Arms | 2.00% | ~7,255 |
-| That's a Grand Navy | 2.00% | ~7,255 |
-| Seriously?! | 2.00% | ~7,255 |
-| Cold War | 1.00% | ~3,628 |
-| For the Glory | 1.00% | ~3,628 |
-| It's all about the money | 1.00% | ~3,628 |
-| True Catholic | 1.00% | ~3,628 |
-| Defender of the Faith | 0.90% | ~3,265 |
-| The Princess is in this Castle | 0.90% | ~3,265 |
-| It's all about luck | 0.80% | ~2,902 |
-| Respected | 0.80% | ~2,902 |
-| Truly Divine Ruler | 0.80% | ~2,902 |
-| Blockader | 0.70% | ~2,539 |
-| Double the Love | 0.60% | ~2,177 |
-| Royal Authority | 0.60% | ~2,177 |
-| Total Control | 0.60% | ~2,177 |
-| Combined Arms | 0.50% | ~1,814 |
-| My armies are invincible! | 0.50% | ~1,814 |
-| Agressive Expander | 0.40% | ~1,451 |
-| Azur semé de lis or | 0.40% | ~1,451 |
-| City of Cities | 0.40% | ~1,451 |
-| Gentle Persuasion | 0.40% | ~1,451 |
-| Queen of Conquest | 0.40% | ~1,451 |
-| This navy can take it all | 0.40% | ~1,451 |
-| All That's Thine Shall Be Mine | 0.30% | ~1,088 |
-| Bright Spark | 0.30% | ~1,088 |
-| The Emperors new clothes | 0.30% | ~1,088 |
-| Factionalism | 0.30% | ~1,088 |
-| A Golden Empire | 0.30% | ~1,088 |
-| Isn't this the way to India? | 0.30% | ~1,088 |
-| Market Control | 0.30% | ~1,088 |
-| The Five Colonies | 0.30% | ~1,088 |
+| Until death do us apart | 4.00% | ~14,517 |
+| That's a Grand Army | 3.00% | ~10,888 |
+| That is mine! | 3.00% | ~10,888 |
+| Victorious! | 3.00% | ~10,888 |
+| Brothers in Arms | 2.00% | ~7,259 |
+| That's a Grand Navy | 2.00% | ~7,259 |
+| Seriously?! | 2.00% | ~7,259 |
+| Cold War | 1.00% | ~3,629 |
+| For the Glory | 1.00% | ~3,629 |
+| It's all about the money | 1.00% | ~3,629 |
+| True Catholic | 1.00% | ~3,629 |
+| Defender of the Faith | 0.90% | ~3,266 |
+| The Princess is in this Castle | 0.90% | ~3,266 |
+| It's all about luck | 0.80% | ~2,903 |
+| Respected | 0.80% | ~2,903 |
+| Truly Divine Ruler | 0.80% | ~2,903 |
+| Blockader | 0.70% | ~2,540 |
+| Double the Love | 0.60% | ~2,178 |
+| Royal Authority | 0.60% | ~2,178 |
+| Total Control | 0.60% | ~2,178 |
+| Combined Arms | 0.50% | ~1,815 |
+| My armies are invincible! | 0.50% | ~1,815 |
+| Agressive Expander | 0.40% | ~1,452 |
+| Azur semé de lis or | 0.40% | ~1,452 |
+| City of Cities | 0.40% | ~1,452 |
+| Gentle Persuasion | 0.40% | ~1,452 |
+| Queen of Conquest | 0.40% | ~1,452 |
+| This navy can take it all | 0.40% | ~1,452 |
+| All That's Thine Shall Be Mine | 0.30% | ~1,089 |
+| Bright Spark | 0.30% | ~1,089 |
+| The Emperors new clothes | 0.30% | ~1,089 |
+| Factionalism | 0.30% | ~1,089 |
+| A Golden Empire | 0.30% | ~1,089 |
+| Isn't this the way to India? | 0.30% | ~1,089 |
+| Market Control | 0.30% | ~1,089 |
+| The Five Colonies | 0.30% | ~1,089 |
 | All belongs to Mother Russia | 0.20% | ~726 |
 | At every continent | 0.20% | ~726 |
 | Down Under | 0.20% | ~726 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 362,752 (Ranked 41)  
+Progressed: 362,928 (Ranked 41)  
 Completed: 0 (0.00%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -486,14 +486,14 @@ Completed: 0 (0.00%) (Ranked 262)
 | 2023-08-20 | 353,078 | 0 |
 | 2023-08-21 | 357,003 | 0 |
 | 2023-08-22 | 360,463 | 0 |
-| 2023-08-23 | 362,752 | 0 |
+| 2023-08-23 | 362,928 | 0 |
 ## Awards
-Max (Educational): 5,750  (Ranked 60)  
-Sum: 47,501 (Ranked 26)  
+Max (Educational): 5,760  (Ranked 60)  
+Sum: 47,511 (Ranked 26)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
-| This game is Educational | 5,750 |
+| This game is Educational | 5,760 |
 | This game is Highly Recommended | 5,504 |
 | This game is Extremely Fun | 5,473 |
 | This game has Challenging Combat | 5,467 |
@@ -724,4 +724,4 @@ Diff (max vs sum): 34
 | 2023-08-20 | 4.68 | - | 5,721 | 47,267 |
 | 2023-08-21 | 4.68 | - | 5,732 | 47,350 |
 | 2023-08-22 | 4.68 | - | 5,750 | 47,449 |
-| 2023-08-23 | 4.68 | - | 5,750 | 47,501 |
+| 2023-08-23 | 4.68 | - | 5,760 | 47,511 |

@@ -5,60 +5,60 @@ Rating: 4.69 (Ranked 216)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 28.00% | ~180,728 |
-| 50 HEADSHOTS | 26.00% | ~167,819 |
-| SCIENCE AND INDUSTRY | 25.00% | ~161,364 |
-| FINISHED CHAPTER 1 | 24.00% | ~154,910 |
-| FINISHED CHAPTER 2 | 18.00% | ~116,182 |
-| 200 HEADSHOTS | 16.00% | ~103,273 |
-| FINISHED CHAPTER 3 | 15.00% | ~96,819 |
-| FINISHED CHAPTER 4 | 13.00% | ~83,909 |
-| FINISH CHAPTER 5 | 11.00% | ~71,000 |
-| FINISH CHAPTER 6 | 9.00% | ~58,091 |
-| CATHARTIC ESCAPISM | 9.00% | ~58,091 |
-| 1000 KILLS | 8.00% | ~51,637 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~25,818 |
-| FIRST BLOOD | 2.00% | ~12,909 |
+| 100 KILLS | 28.00% | ~180,741 |
+| 50 HEADSHOTS | 26.00% | ~167,831 |
+| SCIENCE AND INDUSTRY | 25.00% | ~161,376 |
+| FINISHED CHAPTER 1 | 24.00% | ~154,920 |
+| FINISHED CHAPTER 2 | 18.00% | ~116,190 |
+| 200 HEADSHOTS | 16.00% | ~103,280 |
+| FINISHED CHAPTER 3 | 15.00% | ~96,825 |
+| FINISHED CHAPTER 4 | 13.00% | ~83,915 |
+| FINISH CHAPTER 5 | 11.00% | ~71,005 |
+| FINISH CHAPTER 6 | 9.00% | ~58,095 |
+| CATHARTIC ESCAPISM | 9.00% | ~58,095 |
+| 1000 KILLS | 8.00% | ~51,640 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~25,820 |
+| FIRST BLOOD | 2.00% | ~12,910 |
 | FIREFIGHT LEVEL 20 | 1.00% | ~6,455 |
 | PACEMAKER | 1.00% | ~6,455 |
-| TIME PARADOX | 0.90% | ~5,809 |
+| TIME PARADOX | 0.90% | ~5,810 |
 | OUT OF ORDER | 0.80% | ~5,164 |
-| FIREFIGHT LEVEL 30 | 0.70% | ~4,518 |
+| FIREFIGHT LEVEL 30 | 0.70% | ~4,519 |
 | PARTYHARD | 0.60% | ~3,873 |
-| NEW GAME PLUS | 0.50% | ~3,227 |
+| NEW GAME PLUS | 0.50% | ~3,228 |
 | FIREFIGHT LEVEL 40 | 0.40% | ~2,582 |
-| CHURCH | 0.30% | ~1,936 |
-| FIREFIGHT LEVEL 50 | 0.30% | ~1,936 |
+| CHURCH | 0.30% | ~1,937 |
+| FIREFIGHT LEVEL 50 | 0.30% | ~1,937 |
 | FIREFIGHT LEVEL 60 | 0.20% | ~1,291 |
 | REMEMBER THE ARMORY | 0.20% | ~1,291 |
 | 5 RUNS | 0.20% | ~1,291 |
 | SOUL - HORIZONS | 0.20% | ~1,291 |
-| HEY THATS CHEATING | 0.10% | ~645 |
-| COMPLIMENTS TO THE CHEF | 0.10% | ~645 |
-| BUT WHY? | 0.10% | ~645 |
-| CHALET | 0.10% | ~645 |
-| COMMAND - [EXIST] | 0.10% | ~645 |
-| FIREFIGHT LEVEL 70 | 0.10% | ~645 |
-| FIREFIGHT LEVEL 80 | 0.10% | ~645 |
-| FIRE IN THE HOLE | 0.10% | ~645 |
-| FRESH | 0.10% | ~645 |
-| HUGE SUCCESS | 0.10% | ~645 |
-| ICARUS | 0.10% | ~645 |
-| INPUT - [QUERY] | 0.10% | ~645 |
-| KITTED OUT | 0.10% | ~645 |
-| HOLOGRAM SUMMER | 0.10% | ~645 |
-| OFF THE HINGES | 0.10% | ~645 |
-| ON THE EDGE | 0.10% | ~645 |
-| OVERCLOCKED | 0.10% | ~645 |
-| PAIN TRAIN | 0.10% | ~645 |
-| 10 RUNS | 0.10% | ~645 |
-| 20 RUNS | 0.10% | ~645 |
-| SAVOR THE MOMENT | 0.10% | ~645 |
-| THE COLLECTOR | 0.10% | ~645 |
-| THE GAMBLER | 0.10% | ~645 |
-| WARRIOR IN A GARDEN | 0.10% | ~645 |
+| HEY THATS CHEATING | 0.10% | ~646 |
+| COMPLIMENTS TO THE CHEF | 0.10% | ~646 |
+| BUT WHY? | 0.10% | ~646 |
+| CHALET | 0.10% | ~646 |
+| COMMAND - [EXIST] | 0.10% | ~646 |
+| FIREFIGHT LEVEL 70 | 0.10% | ~646 |
+| FIREFIGHT LEVEL 80 | 0.10% | ~646 |
+| FIRE IN THE HOLE | 0.10% | ~646 |
+| FRESH | 0.10% | ~646 |
+| HUGE SUCCESS | 0.10% | ~646 |
+| ICARUS | 0.10% | ~646 |
+| INPUT - [QUERY] | 0.10% | ~646 |
+| KITTED OUT | 0.10% | ~646 |
+| HOLOGRAM SUMMER | 0.10% | ~646 |
+| OFF THE HINGES | 0.10% | ~646 |
+| ON THE EDGE | 0.10% | ~646 |
+| OVERCLOCKED | 0.10% | ~646 |
+| PAIN TRAIN | 0.10% | ~646 |
+| 10 RUNS | 0.10% | ~646 |
+| 20 RUNS | 0.10% | ~646 |
+| SAVOR THE MOMENT | 0.10% | ~646 |
+| THE COLLECTOR | 0.10% | ~646 |
+| THE GAMBLER | 0.10% | ~646 |
+| WARRIOR IN A GARDEN | 0.10% | ~646 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 645,457 (Ranked 25)  
+Progressed: 645,502 (Ranked 25)  
 Completed: 52 (0.01%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 52 (0.01%) (Ranked 249)
 | 2023-08-20 | 643,143 | 51 |
 | 2023-08-21 | 644,037 | 52 |
 | 2023-08-22 | 644,883 | 52 |
-| 2023-08-23 | 645,457 | 52 |
+| 2023-08-23 | 645,502 | 52 |
 ## Awards
 Max (Great Boss Battles): 262  (Ranked 250)  
 Sum: 262 (Ranked 352)  

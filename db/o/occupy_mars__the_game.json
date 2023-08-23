@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -220,9 +220,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1524,
+  "EOS_Progressed": 1525,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3270,6 +3270,11 @@
       "Time": "2023-08-21T16:08:07.1394901+00:00",
       "NumProgressed": 1524,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-23T18:07:58.2531057+00:00",
+      "NumProgressed": 1525,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3471,9 +3476,9 @@
       "ID": "NEW_ACHIEVEMENT_GARDENER",
       "SetID": "l546gc",
       "Name": "Gardener",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 366
+      "UsersEstimate": 381
     },
     {
       "ID": "NEW_ACHIEVEMENT_GET_HANDS_DIRTY",
@@ -3664,7 +3669,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1524,
+      "Progressed": 1525,
       "Completed": 0
     }
   ],
@@ -3672,8 +3677,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-08-17T16:59:18.1470659+00:00",
-  "LastChanged_Achievements": "2023-08-23T17:07:58.6681814+00:00",
+  "LastChanged_Achievements": "2023-08-23T18:07:58.2531051+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:58.538966+00:00",
-  "LastUpdate_Ratings": "2023-08-23T17:00:20.7788852+00:00",
-  "LastUpdate_Achievements": "2023-08-23T17:07:58.6682868+00:00"
+  "LastUpdate_Ratings": "2023-08-23T18:00:29.7777033+00:00",
+  "LastUpdate_Achievements": "2023-08-23T18:07:58.2532049+00:00"
 }

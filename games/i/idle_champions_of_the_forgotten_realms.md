@@ -10,7 +10,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beast Intentions | 0.60% | ~1,346 |
 | The Cursed Farmer | 0.60% | ~1,346 |
 | The Hunt for The Last Breath | 0.50% | ~953 |
-| The Mad Wizard | 0.40% | ~897 |
+| The Mad Wizard | 0.40% | ~898 |
 | To Infinity's and Beyond | 0.40% | ~763 |
 | Were-verpowered | 0.30% | ~673 |
 | The Ring of Regeneration | 0.30% | ~673 |
@@ -18,6 +18,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Are Ya Chicken? | 0.30% | ~673 |
 | Maddening | 0.20% | ~449 |
 | Tall Tales | 0.20% | ~381 |
+| The Witchlight Carnival | 0.20% | ~381 |
 | The Silken Swamp | 0.20% | ~449 |
 | Supply Run | 0.20% | ~449 |
 | Seeds of Destruction | 0.20% | ~381 |
@@ -59,6 +60,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overdue Rendezvous | 0.20% | ~449 |
 | Pure Energy | 0.20% | ~449 |
 | The Templar's Camp | 0.20% | ~449 |
+| Rocky Reception | 0.20% | ~381 |
 | The Chaotic Hunt for The Last Breath | 0.20% | ~381 |
 | There's a Flying Snake in my Boot! | 0.20% | ~381 |
 | Pros and CONs | 0.10% | ~224 |
@@ -71,7 +73,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Nightmare Rats! | 0.10% | ~191 |
 | An Unexpected Geist | 0.10% | ~191 |
 | Back to Nature | 0.10% | ~191 |
-| The Witchlight Carnival | 0.10% | ~191 |
 | A Monarch Among Us | 0.10% | ~191 |
 | A Dragon Against Us | 0.10% | ~191 |
 | A Familiar Behind Us | 0.10% | ~191 |
@@ -513,7 +514,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Goblin Halls: the Next Generation | 0.10% | ~191 |
 | Bazaar Companions | 0.10% | ~191 |
 | Bahamut's Army | 0.10% | ~191 |
-| Rocky Reception | 0.10% | ~191 |
 | Luigi After Hours | 0.10% | ~191 |
 | Rock and Roll | 0.10% | ~191 |
 | Electric Mayhem | 0.10% | ~191 |
@@ -523,7 +523,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~191 |
 | Animated Giff | 0.10% | ~191 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,373 (Ranked 53)  
+Progressed: 224,386 (Ranked 53)  
 Completed: 2,208 (0.98%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -648,7 +648,7 @@ Completed: 2,208 (0.98%) (Ranked 121)
 | 2023-08-20 | 223,729 | 2,196 |
 | 2023-08-21 | 223,996 | 2,203 |
 | 2023-08-22 | 224,213 | 2,207 |
-| 2023-08-23 | 224,373 | 2,208 |
+| 2023-08-23 | 224,386 | 2,208 |
 ## Awards
 Max (Diverse Characters): 5,179  (Ranked 68)  
 Sum: 31,182 (Ranked 39)  

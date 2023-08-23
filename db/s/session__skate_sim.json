@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 310,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -880,9 +880,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2746,
+  "EOS_Progressed": 2747,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4105,6 +4105,11 @@
       "Time": "2023-08-23T15:04:53.3538022+00:00",
       "NumProgressed": 2746,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-23T18:05:43.4219241+00:00",
+      "NumProgressed": 2747,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4116,7 +4121,7 @@
       "Name": "Backpacker",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "ACH_BING-BONG",
@@ -4268,7 +4273,7 @@
       "Name": "Keeping it classy",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 741
+      "UsersEstimate": 742
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -4492,22 +4497,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 1620
+      "UsersEstimate": 1621
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2746,
+      "Progressed": 2747,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-08-12T21:02:33.3554881+00:00",
-  "LastChanged_Achievements": "2023-08-23T17:05:43.0873425+00:00",
+  "LastChanged_Achievements": "2023-08-23T18:05:43.4219234+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:39.161743+00:00",
-  "LastUpdate_Ratings": "2023-08-23T17:02:24.3438354+00:00",
-  "LastUpdate_Achievements": "2023-08-23T17:05:43.0874437+00:00"
+  "LastUpdate_Ratings": "2023-08-23T18:02:35.154524+00:00",
+  "LastUpdate_Achievements": "2023-08-23T18:05:43.4220241+00:00"
 }

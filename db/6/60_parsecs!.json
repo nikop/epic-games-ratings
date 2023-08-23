@@ -4,7 +4,7 @@
   "ProductSlug": "60-parsecs-0481c5",
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
@@ -801,9 +801,9 @@
       "ID": "Achievement_Crafty",
       "SetID": "c01p6e5",
       "Name": "Crafty",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 339
+      "UsersEstimate": 346
     },
     {
       "ID": "Achievement_DontPanic",
@@ -1098,8 +1098,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-08-23T17:04:27.8633779+00:00",
+  "LastChanged_Achievements": "2023-08-23T18:04:28.4242977+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:33.1841136+00:00",
-  "LastUpdate_Ratings": "2023-08-23T16:59:09.1300984+00:00",
-  "LastUpdate_Achievements": "2023-08-23T17:04:27.8634451+00:00"
+  "LastUpdate_Ratings": "2023-08-23T17:59:20.2467927+00:00",
+  "LastUpdate_Achievements": "2023-08-23T18:04:28.4243513+00:00"
 }

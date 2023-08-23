@@ -4,7 +4,7 @@
   "ProductSlug": "stellar-interface-d14cc4",
   "Ranking_EOS_Progress": 361,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewPlayers": 347,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-03-30T00:00:00+00:00",
@@ -365,9 +365,9 @@
       "ID": "BronzeHoberMallowBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Bronze Foundation",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "BronzeHomunculusBossDefeatedAchievement",
@@ -517,9 +517,9 @@
       "ID": "ClearedAllLevels1TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Hitchhiker",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ClearedAllLevels20TimesAchievement",
@@ -1388,8 +1388,8 @@
   ],
   "FirstSeen": "2023-05-25T19:58:53.3426144+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2023-08-23T17:03:14.1232396+00:00",
+  "LastChanged_Achievements": "2023-08-23T18:03:15.3060917+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:15.5437358+00:00",
-  "LastUpdate_Ratings": "2023-08-23T17:01:58.0517557+00:00",
-  "LastUpdate_Achievements": "2023-08-23T17:03:14.1236043+00:00"
+  "LastUpdate_Ratings": "2023-08-23T18:02:08.0762693+00:00",
+  "LastUpdate_Achievements": "2023-08-23T18:03:15.3063022+00:00"
 }

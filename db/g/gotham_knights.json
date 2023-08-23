@@ -2510,7 +2510,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 67994,
+  "EOS_Progressed": 67995,
   "EOS_Completed": 109,
   "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 2,
@@ -13040,6 +13040,11 @@
       "Time": "2023-08-23T17:08:29.2853591+00:00",
       "NumProgressed": 67994,
       "NumCompleted": 109
+    },
+    {
+      "Time": "2023-08-23T18:08:28.5334031+00:00",
+      "NumProgressed": 67995,
+      "NumCompleted": 109
     }
   ],
   "TotalAchievements": 61,
@@ -13235,7 +13240,7 @@
       "Name": "Out of Their League",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6119
+      "UsersEstimate": 6120
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -13267,7 +13272,7 @@
       "Name": "Drone You Out",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 6799
+      "UsersEstimate": 6800
     },
     {
       "ID": "FREEZE_1",
@@ -13275,7 +13280,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 19038
+      "UsersEstimate": 19039
     },
     {
       "ID": "FREEZE_1_5",
@@ -13363,7 +13368,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 16998
+      "UsersEstimate": 16999
     },
     {
       "ID": "HARLEY_3",
@@ -13395,7 +13400,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 33997
+      "UsersEstimate": 33998
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -13427,7 +13432,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 18358
+      "UsersEstimate": 18359
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -13451,7 +13456,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 16998
+      "UsersEstimate": 16999
     },
     {
       "ID": "MYSTERY_03",
@@ -13515,7 +13520,7 @@
       "Name": "Solid Alibi",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6119
+      "UsersEstimate": 6120
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -13538,13 +13543,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 67994,
+      "Progressed": 67995,
       "Completed": 109
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 38274,
+      "Progressed": 38275,
       "Completed": 2658
     }
   ],
@@ -13552,8 +13557,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-08-23T10:57:48.162312+00:00",
-  "LastChanged_Achievements": "2023-08-23T17:08:29.285358+00:00",
+  "LastChanged_Achievements": "2023-08-23T18:08:28.5334023+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:57:36.1459925+00:00",
-  "LastUpdate_Ratings": "2023-08-23T16:57:58.2225596+00:00",
-  "LastUpdate_Achievements": "2023-08-23T17:08:29.2855778+00:00"
+  "LastUpdate_Ratings": "2023-08-23T17:58:07.2845135+00:00",
+  "LastUpdate_Achievements": "2023-08-23T18:08:28.5336464+00:00"
 }
