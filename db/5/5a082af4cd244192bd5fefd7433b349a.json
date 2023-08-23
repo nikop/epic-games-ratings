@@ -2,9 +2,9 @@
   "ID": "5a082af4cd244192bd5fefd7433b349a",
   "Name": "RedNeck Bowl Games",
   "ProductSlug": "redneck-bowl-games-d39874",
-  "Ranking_EOS_Progress": 557,
+  "Ranking_EOS_Progress": 558,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewPlayers": 350,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-07-05T12:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-21T22:57:13.8106228+00:00",
-  "LastUpdate_Ratings": "2023-08-23T20:58:57.0105155+00:00",
+  "LastUpdate_Ratings": "2023-08-23T21:58:38.1215376+00:00",
   "LastUpdate_Achievements": "2023-08-23T21:03:17.1271126+00:00"
 }

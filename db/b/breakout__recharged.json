@@ -281,9 +281,9 @@
       "ID": "ACH_COMFORTABLY_NUMB",
       "SetID": "5kae3ip",
       "Name": "Comfortably Numb",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ACH_DOGS_OF_WAR",
@@ -354,8 +354,8 @@
   "FirstSeenRating": "2023-03-31T05:58:34.1207634+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:23.2577155+00:00",
   "LastChanged": "2023-03-31T05:58:34.1207635+00:00",
-  "LastChanged_Achievements": "2023-08-23T21:07:07.9485777+00:00",
+  "LastChanged_Achievements": "2023-08-23T22:06:19.25648+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:53.7302232+00:00",
-  "LastUpdate_Ratings": "2023-08-23T20:59:26.8805056+00:00",
-  "LastUpdate_Achievements": "2023-08-23T21:07:07.9485888+00:00"
+  "LastUpdate_Ratings": "2023-08-23T21:59:05.5633942+00:00",
+  "LastUpdate_Achievements": "2023-08-23T22:06:19.2564903+00:00"
 }

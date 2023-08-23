@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Small town | 66.00% | ~211 |
+| Small town | 65.00% | ~209 |
 | I like parks | 54.00% | ~173 |
-| It is nice to share with friends in the city | 27.00% | ~86 |
+| It is nice to share with friends in the city | 27.00% | ~87 |
 | Sport is good for you | 26.00% | ~83 |
 | The spiritual world... | 24.00% | ~77 |
 | The woodcutter | 23.00% | ~74 |
 | I like books | 20.00% | ~64 |
 | I like my life | 20.00% | ~64 |
-| Clean energy | 18.00% | ~58 |
 | Soviet town | 18.00% | ~58 |
+| Clean energy | 17.00% | ~55 |
 | Bucolic city | 14.00% | ~45 |
 | King of fish | 8.00% | ~26 |
 | I love parks | 8.00% | ~26 |
@@ -22,13 +22,13 @@
 | Food producer | 4.00% | ~13 |
 | Metropolurbek | 4.00% | ~13 |
 | I am very happy! | 3.00% | ~10 |
-| Little Mayor | 3.00% | ~10 |
 | Rebel city | 3.00% | ~10 |
 | Sport is the best thing | 3.00% | ~10 |
 | Banking city | 2.00% | ~6 |
 | City crisis | 2.00% | ~6 |
 | Read! Everyone should read! | 2.00% | ~6 |
 | Oh, I love parks, listening to birds! | 2.00% | ~6 |
+| Little Mayor | 2.00% | ~6 |
 | Temperate builder | 2.00% | ~6 |
 | Archipelago builder | 1.00% | ~3 |
 | Food provider master | 1.00% | ~3 |
@@ -84,7 +84,7 @@
 | Everyone should always do sport! | 0.00% | ~0 |
 | Rainforest master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 320 (Ranked 260)  
+Progressed: 321 (Ranked 259)  
 Completed: 0 (0.00%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,6 +179,7 @@ Completed: 0 (0.00%) (Ranked 262)
 | 2023-08-20 | 317 | 0 |
 | 2023-08-21 | 318 | 0 |
 | 2023-08-22 | 320 | 0 |
+| 2023-08-23 | 321 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1905,9 +1905,9 @@
       "ID": "ACHIEVEMENTS_02",
       "SetID": "d4o538a",
       "Name": "Great Doctor",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 789
+      "UsersEstimate": 805
     },
     {
       "ID": "ACHIEVEMENTS_03",
@@ -2210,8 +2210,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-08-05T21:57:06.4008826+00:00",
-  "LastChanged_Achievements": "2023-08-23T21:05:50.7878332+00:00",
+  "LastChanged_Achievements": "2023-08-23T22:05:04.5180239+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:21.988473+00:00",
-  "LastUpdate_Ratings": "2023-08-23T20:58:38.9780708+00:00",
-  "LastUpdate_Achievements": "2023-08-23T21:05:50.7878656+00:00"
+  "LastUpdate_Ratings": "2023-08-23T21:58:19.859659+00:00",
+  "LastUpdate_Achievements": "2023-08-23T22:05:04.5180544+00:00"
 }

@@ -16,7 +16,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''And who gave you permission...?'' | 54.00% | ~27,050 |
 | A New Hope | 48.00% | ~24,045 |
 | Attack of the Clones | 47.00% | ~23,544 |
-| Revenge of the Sith | 40.00% | ~20,037 |
+| Revenge of the Sith | 41.00% | ~20,538 |
 | The Empire Strikes Back | 38.00% | ~19,035 |
 | ''A fine addition to my collection'' | 37.00% | ~18,534 |
 | Return of the Jedi | 32.00% | ~16,030 |

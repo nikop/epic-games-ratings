@@ -4,7 +4,7 @@
   "ProductSlug": "are-you-smarter-than-a-5th-grader-bc328a",
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 249,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-08-23T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 319,
+  "EOS_Progressed": 320,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -287,6 +287,11 @@
       "Time": "2023-08-23T19:06:26.0012667+00:00",
       "NumProgressed": 319,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-08-23T22:05:28.7238557+00:00",
+      "NumProgressed": 320,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 19,
@@ -322,15 +327,15 @@
       "Name": "Exam Practice",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ExamTime",
       "SetID": "6l18k14",
       "Name": "Exam Time",
-      "Percentage": 85,
+      "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 271
+      "UsersEstimate": 269
     },
     {
       "ID": "FifthGrade",
@@ -449,7 +454,7 @@
     {
       "ID": "6l18k14",
       "IsBase": true,
-      "Progressed": 319,
+      "Progressed": 320,
       "Completed": 0
     }
   ],
@@ -457,8 +462,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.561977+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.3990521+00:00",
   "LastChanged": "2023-03-31T05:58:18.5619771+00:00",
-  "LastChanged_Achievements": "2023-08-23T21:06:16.2201839+00:00",
+  "LastChanged_Achievements": "2023-08-23T22:05:28.7238551+00:00",
   "LastUpdate_AppInfo": "2023-08-19T08:58:12.6479475+00:00",
-  "LastUpdate_Ratings": "2023-08-23T20:58:30.0389255+00:00",
-  "LastUpdate_Achievements": "2023-08-23T21:06:16.2201951+00:00"
+  "LastUpdate_Ratings": "2023-08-23T21:58:08.3073246+00:00",
+  "LastUpdate_Achievements": "2023-08-23T22:05:28.7238673+00:00"
 }

@@ -67,6 +67,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Wealth Beyond Measure | 0.30% | ~405 |
 | Fat Cat Tag Team | 0.30% | ~405 |
 | Item of Renown | 0.30% | ~405 |
+| Master Merchant | 0.30% | ~405 |
 | Miracle Alchemist | 0.30% | ~405 |
 | Laden with Loot | 0.30% | ~405 |
 | Seasoned Journeyman | 0.30% | ~405 |
@@ -93,7 +94,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | A Legend is Born | 0.20% | ~270 |
 | Necromancer Queen | 0.20% | ~270 |
 | Jackpot! | 0.20% | ~270 |
-| Master Merchant | 0.20% | ~270 |
 | Bountiful Harvest | 0.20% | ~270 |
 | Precision Engineering | 0.20% | ~270 |
 | Treasure Trove | 0.20% | ~270 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~135 |
 | Cash Only Please | 0.10% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,993 (Ranked 66)  
+Progressed: 134,994 (Ranked 66)  
 Completed: 138 (0.10%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,7 +244,7 @@ Completed: 138 (0.10%) (Ranked 210)
 | 2023-08-20 | 134,856 | 133 |
 | 2023-08-21 | 134,907 | 134 |
 | 2023-08-22 | 134,956 | 136 |
-| 2023-08-23 | 134,993 | 138 |
+| 2023-08-23 | 134,994 | 138 |
 ## Awards
 Max (Great for Beginners): 4,709  (Ranked 71)  
 Sum: 27,128 (Ranked 47)  

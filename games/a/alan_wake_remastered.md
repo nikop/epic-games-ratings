@@ -6,9 +6,9 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 38.00% | ~23,343 |
+| Follow the Light | 38.00% | ~23,344 |
 | Let There Be Light | 30.00% | ~18,429 |
-| Float Like a Butterfly | 29.00% | ~17,814 |
+| Float Like a Butterfly | 29.00% | ~17,815 |
 | Nordic Walking | 23.00% | ~14,129 |
 | Bright Falls' Finest | 23.00% | ~14,129 |
 | Under a Thin Layer of Skin | 20.00% | ~12,286 |
@@ -22,11 +22,11 @@ Number of Ratings: 524  (23.09.2022)
 | Damn Good Cup of Coffee | 14.00% | ~8,600 |
 | Wheels Within Wheels | 13.00% | ~7,986 |
 | The Six-Gun Scribe | 13.00% | ~7,986 |
-| Heavy Metal | 12.00% | ~7,371 |
-| Iron Horse | 12.00% | ~7,371 |
-| Perchance to Dream | 12.00% | ~7,371 |
-| Collateral Carnage | 12.00% | ~7,371 |
-| Come One, Come All | 12.00% | ~7,371 |
+| Heavy Metal | 12.00% | ~7,372 |
+| Iron Horse | 12.00% | ~7,372 |
+| Perchance to Dream | 12.00% | ~7,372 |
+| Collateral Carnage | 12.00% | ~7,372 |
+| Come One, Come All | 12.00% | ~7,372 |
 | It's Not Just a Typewriter Brand | 11.00% | ~6,757 |
 | Thunder and Lightning | 11.00% | ~6,757 |
 | Gatekeeper | 10.00% | ~6,143 |
@@ -40,8 +40,8 @@ Number of Ratings: 524  (23.09.2022)
 | Departure | 7.00% | ~4,300 |
 | Hardboiled Writer | 6.00% | ~3,686 |
 | A Friend Indeed | 6.00% | ~1,494 |
-| Children of the Elder God | 5.00% | ~3,071 |
-| Drink 'Em Both Up | 5.00% | ~3,071 |
+| Children of the Elder God | 5.00% | ~3,072 |
+| Drink 'Em Both Up | 5.00% | ~3,072 |
 | Ding! | 5.00% | ~1,245 |
 | Boob Tube | 4.00% | ~2,457 |
 | If It Flies, It Burns | 4.00% | ~2,457 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~61 |
 | No Punctuation | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,429 (Ranked 85)  
+Progressed: 61,431 (Ranked 85)  
 Completed: 65 (0.11%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,7 +199,7 @@ Completed: 65 (0.11%) (Ranked 207)
 | 2023-08-20 | 61,207 | 64 |
 | 2023-08-21 | 61,273 | 64 |
 | 2023-08-22 | 61,333 | 64 |
-| 2023-08-23 | 61,429 | 65 |
+| 2023-08-23 | 61,431 | 65 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

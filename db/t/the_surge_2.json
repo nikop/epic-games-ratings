@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 147,
-  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -255,9 +255,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1981,
+  "EOS_Progressed": 1982,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -2220,6 +2220,11 @@
       "Time": "2023-08-23T10:07:33.4666395+00:00",
       "NumProgressed": 1981,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-08-23T22:05:27.3255399+00:00",
+      "NumProgressed": 1982,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -2231,7 +2236,7 @@
       "Name": "A Little Banged Up",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "ACHV_02",
@@ -2255,7 +2260,7 @@
       "Name": "Overheated",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     },
     {
       "ID": "ACHV_05",
@@ -2263,7 +2268,7 @@
       "Name": "Studied The Blade",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "ACHV_06",
@@ -2279,7 +2284,7 @@
       "Name": "Court Martial",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "ACHV_08",
@@ -2311,7 +2316,7 @@
       "Name": "Denying Prophecy",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "ACHV_12",
@@ -2359,7 +2364,7 @@
       "Name": "Following In Their Footsteps",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "ACHV_18",
@@ -2431,7 +2436,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1585
+      "UsersEstimate": 1586
     },
     {
       "ID": "ACHV_27",
@@ -2439,7 +2444,7 @@
       "Name": "High Performance",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     },
     {
       "ID": "ACHV_28",
@@ -2447,7 +2452,7 @@
       "Name": "Clean Cut",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "ACHV_29",
@@ -2503,7 +2508,7 @@
       "Name": "Sleeping With The Fishes",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     },
     {
       "ID": "ACHV_36",
@@ -2535,7 +2540,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1525
+      "UsersEstimate": 1526
     },
     {
       "ID": "ACHV_40",
@@ -2591,7 +2596,7 @@
       "Name": "Unforeseeable Consequences",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "ACHV_47",
@@ -2686,7 +2691,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1981,
+      "Progressed": 1982,
       "Completed": 10
     }
   ],
@@ -2694,8 +2699,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-08-11T22:58:17.9643661+00:00",
-  "LastChanged_Achievements": "2023-08-23T21:06:14.8009024+00:00",
+  "LastChanged_Achievements": "2023-08-23T22:05:27.3255396+00:00",
   "LastUpdate_AppInfo": "2023-08-19T05:57:34.2984865+00:00",
-  "LastUpdate_Ratings": "2023-08-23T20:58:47.1605226+00:00",
-  "LastUpdate_Achievements": "2023-08-23T21:06:14.8009526+00:00"
+  "LastUpdate_Ratings": "2023-08-23T21:58:28.1437597+00:00",
+  "LastUpdate_Achievements": "2023-08-23T22:05:27.3255904+00:00"
 }

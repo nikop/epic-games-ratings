@@ -39,8 +39,8 @@ Rating: 4.49 (Ranked 577)
 | The Cable Guy | 19.00% | ~604 |
 | Bandage Lover | 18.00% | ~573 |
 | Regicide | 15.00% | ~477 |
+| This Went Smoothly | 13.00% | ~414 |
 | Flawless Victory | 12.00% | ~382 |
-| This Went Smoothly | 12.00% | ~382 |
 | Heavy Steps | 12.00% | ~382 |
 | Perfect Enhancements | 9.00% | ~286 |
 | Hardened In The Heat Of Battle | 7.00% | ~223 |

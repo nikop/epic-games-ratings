@@ -6040,10 +6040,10 @@
       "Count": 3366
     }
   ],
-  "EOS_Progressed": 224414,
+  "EOS_Progressed": 224427,
   "EOS_Completed": 2210,
-  "EOS_NewPlayers": 1914,
-  "EOS_NewCompleters": 25,
+  "EOS_NewPlayers": 1908,
+  "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
@@ -19735,6 +19735,11 @@
       "Time": "2023-08-23T21:06:30.1847627+00:00",
       "NumProgressed": 224414,
       "NumCompleted": 2210
+    },
+    {
+      "Time": "2023-08-23T22:05:42.7160684+00:00",
+      "NumProgressed": 224427,
+      "NumCompleted": 2210
     }
   ],
   "TotalAchievements": 516,
@@ -19746,7 +19751,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4488
+      "UsersEstimate": 4489
     },
     {
       "ID": "objective_completed_10",
@@ -20114,7 +20119,7 @@
       "Name": "Beast Intentions",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1346
+      "UsersEstimate": 1347
     },
     {
       "ID": "objective_completed_110",
@@ -21418,7 +21423,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1346
+      "UsersEstimate": 1347
     },
     {
       "ID": "objective_completed_34",
@@ -23842,7 +23847,7 @@
       "Name": "The Hunt for The Last Breath",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 953
+      "UsersEstimate": 954
     },
     {
       "ID": "objective_completed_1396",
@@ -23873,21 +23878,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 190688,
+      "Progressed": 190701,
       "Completed": 3296
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 224414,
+      "Progressed": 224427,
       "Completed": 2210
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-08-23T19:00:34.1383299+00:00",
-  "LastChanged_Achievements": "2023-08-23T21:06:30.1847623+00:00",
+  "LastChanged_Achievements": "2023-08-23T22:05:42.716068+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:12.3267162+00:00",
-  "LastUpdate_Ratings": "2023-08-23T21:00:07.1911408+00:00",
-  "LastUpdate_Achievements": "2023-08-23T21:06:30.1871425+00:00"
+  "LastUpdate_Ratings": "2023-08-23T21:59:43.7971965+00:00",
+  "LastUpdate_Achievements": "2023-08-23T22:05:42.7185215+00:00"
 }

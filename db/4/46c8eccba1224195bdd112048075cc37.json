@@ -4,7 +4,7 @@
   "ProductSlug": "one-more-dungeon-2-532228",
   "Ranking_EOS_Progress": 314,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewPlayers": 311,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-06-09T14:30:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 138,
+  "EOS_Progressed": 139,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -641,6 +641,11 @@
       "Time": "2023-08-17T22:06:19.6266904+00:00",
       "NumProgressed": 138,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-08-23T22:06:18.2552871+00:00",
+      "NumProgressed": 139,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 20,
@@ -658,17 +663,17 @@
       "ID": "AllTogether",
       "SetID": "7g1kpc8",
       "Name": "All Together",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 70,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "ChangeClass",
       "SetID": "7g1kpc8",
       "Name": "Metamorphosis",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 75
+      "UsersEstimate": 74
     },
     {
       "ID": "CollectCurses",
@@ -708,15 +713,15 @@
       "Name": "First Blood",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "FirstBoss",
       "SetID": "7g1kpc8",
       "Name": "Scull",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 59
+      "UsersEstimate": 58
     },
     {
       "ID": "FirstStep",
@@ -730,9 +735,9 @@
       "ID": "FourthBoss",
       "SetID": "7g1kpc8",
       "Name": "Ifrit",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "KingBeatleHunter",
@@ -740,7 +745,7 @@
       "Name": "Royal Beetle",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "KingBoss",
@@ -770,9 +775,9 @@
       "ID": "Persistence",
       "SetID": "7g1kpc8",
       "Name": "Persistence",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 44
     },
     {
       "ID": "ReturnShell",
@@ -811,14 +816,14 @@
     {
       "ID": "7g1kpc8",
       "IsBase": true,
-      "Progressed": 138,
+      "Progressed": 139,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-08-23T21:07:06.8674195+00:00",
+  "LastChanged_Achievements": "2023-08-23T22:06:18.2552866+00:00",
   "LastUpdate_AppInfo": "2023-08-21T10:58:06.4891422+00:00",
-  "LastUpdate_Ratings": "2023-08-23T20:59:10.4905976+00:00",
-  "LastUpdate_Achievements": "2023-08-23T21:07:06.8674332+00:00"
+  "LastUpdate_Ratings": "2023-08-23T21:58:51.6235904+00:00",
+  "LastUpdate_Achievements": "2023-08-23T22:06:18.2553022+00:00"
 }

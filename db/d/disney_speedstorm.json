@@ -4,8 +4,8 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 52,
-  "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -16,10 +16,10 @@
   "ReviewsDisabled": false,
   "Tags": [],
   "EOS_Progressed": 3122,
-  "EOS_Completed": 156,
-  "EOS_NewPlayers": 13,
-  "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 5,
+  "EOS_Completed": 157,
+  "EOS_NewPlayers": 12,
+  "EOS_NewCompleters": 5,
+  "EOS_Completed_Percentage": 5.03,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:49:22.8918022+00:00",
@@ -4355,6 +4355,11 @@
       "Time": "2023-08-23T16:03:42.3966108+00:00",
       "NumProgressed": 3122,
       "NumCompleted": 156
+    },
+    {
+      "Time": "2023-08-23T22:02:29.4631146+00:00",
+      "NumProgressed": 3122,
+      "NumCompleted": 157
     }
   ],
   "TotalAchievements": 24,
@@ -4412,9 +4417,9 @@
       "ID": "15",
       "SetID": "9p3jgda",
       "Name": "FRAMED!",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 187
+      "UsersEstimate": 219
     },
     {
       "ID": "16",
@@ -4558,12 +4563,12 @@
       "ID": "9p3jgda",
       "IsBase": true,
       "Progressed": 3122,
-      "Completed": 156
+      "Completed": 157
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-08-23T21:03:44.7918523+00:00",
+  "LastChanged_Achievements": "2023-08-23T22:02:29.463114+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:59:27.4246453+00:00",
-  "LastUpdate_Ratings": "2023-08-23T21:00:50.3824824+00:00",
-  "LastUpdate_Achievements": "2023-08-23T21:03:44.7918846+00:00"
+  "LastUpdate_Ratings": "2023-08-23T22:00:28.2083575+00:00",
+  "LastUpdate_Achievements": "2023-08-23T22:02:29.4631481+00:00"
 }

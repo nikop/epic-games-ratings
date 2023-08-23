@@ -4,7 +4,7 @@
   "ProductSlug": "new-joe-and-mac-caveman-ninja-bbaa73",
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 89,
-  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewPlayers": 311,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-12-01T11:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 213,
+  "EOS_Progressed": 214,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.35,
+  "EOS_Completed_Percentage": 2.34,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:18.1728843+00:00",
@@ -338,6 +338,11 @@
       "Time": "2023-08-14T17:05:19.9428137+00:00",
       "NumProgressed": 213,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-08-23T22:05:18.5891234+00:00",
+      "NumProgressed": 214,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 15,
@@ -349,7 +354,7 @@
       "Name": "The T-Rex plain.",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "02",
@@ -373,7 +378,7 @@
       "Name": "At the top of the mountain.",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "05",
@@ -395,9 +400,9 @@
       "ID": "07",
       "SetID": "6glb5g1",
       "Name": "Swimming on a dino\u0027s back.",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "08",
@@ -405,7 +410,7 @@
       "Name": "Aggressive rocks.",
       "Percentage": 18,
       "XP": 80,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "09",
@@ -435,9 +440,9 @@
       "ID": "12",
       "SetID": "6glb5g1",
       "Name": "Dinosaur graveyard.",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 80,
-      "UsersEstimate": 23
+      "UsersEstimate": 26
     },
     {
       "ID": "13",
@@ -459,16 +464,16 @@
       "ID": "15",
       "SetID": "6glb5g1",
       "Name": "The entrails of the beast.",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 140,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     }
   ],
   "AchievementSets": [
     {
       "ID": "6glb5g1",
       "IsBase": true,
-      "Progressed": 213,
+      "Progressed": 214,
       "Completed": 5
     }
   ],
@@ -476,8 +481,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
   "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
-  "LastChanged_Achievements": "2023-08-23T21:06:05.7953491+00:00",
+  "LastChanged_Achievements": "2023-08-23T22:05:18.589123+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:36.6014047+00:00",
-  "LastUpdate_Ratings": "2023-08-23T20:59:42.1221734+00:00",
-  "LastUpdate_Achievements": "2023-08-23T21:06:05.7953602+00:00"
+  "LastUpdate_Ratings": "2023-08-23T21:59:21.2142585+00:00",
+  "LastUpdate_Achievements": "2023-08-23T22:05:18.5891332+00:00"
 }

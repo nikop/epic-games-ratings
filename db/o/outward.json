@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 355,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -502,9 +502,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3325,
+  "EOS_Progressed": 3326,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4182,6 +4182,11 @@
       "Time": "2023-08-23T19:05:35.3555926+00:00",
       "NumProgressed": 3325,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-08-23T22:04:46.4139731+00:00",
+      "NumProgressed": 3326,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 42,
@@ -4241,7 +4246,7 @@
       "Name": "Crowd Pleaser.",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "Encyclopedic_30",
@@ -4361,7 +4366,7 @@
       "Name": "Perfect Defense",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "PowerToThePeople",
@@ -4369,7 +4374,7 @@
       "Name": "Power! To! The People!",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ReadyforSummer_41",
@@ -4377,7 +4382,7 @@
       "Name": "Ready for Summer",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1729
+      "UsersEstimate": 1730
     },
     {
       "ID": "ReadyforWinter_42",
@@ -4385,7 +4390,7 @@
       "Name": "Ready for Winter",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 2161
+      "UsersEstimate": 2162
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -4401,7 +4406,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -4417,7 +4422,7 @@
       "Name": "Tapped!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1230
+      "UsersEstimate": 1231
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -4521,22 +4526,22 @@
       "Name": "Your actions define you",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     }
   ],
   "AchievementSets": [
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3325,
+      "Progressed": 3326,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-08-16T21:59:07.0719809+00:00",
-  "LastChanged_Achievements": "2023-08-23T21:05:32.6170269+00:00",
+  "LastChanged_Achievements": "2023-08-23T22:04:46.4139727+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:58:00.6102177+00:00",
-  "LastUpdate_Ratings": "2023-08-23T20:59:57.2234484+00:00",
-  "LastUpdate_Achievements": "2023-08-23T21:05:32.6170703+00:00"
+  "LastUpdate_Ratings": "2023-08-23T21:59:35.7135901+00:00",
+  "LastUpdate_Achievements": "2023-08-23T22:04:46.4140155+00:00"
 }

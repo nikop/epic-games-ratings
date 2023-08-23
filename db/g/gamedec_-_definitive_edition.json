@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 428,
   "Ranking_EOS_Progress": 48,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 52,
+  "Ranking_EOS_NewPlayers": 53,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
@@ -396,9 +396,9 @@
       "Count": 79
     }
   ],
-  "EOS_Progressed": 243232,
+  "EOS_Progressed": 243235,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 932,
+  "EOS_NewPlayers": 933,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14216,6 +14216,11 @@
       "Time": "2023-08-23T21:05:16.6652121+00:00",
       "NumProgressed": 243232,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-08-23T22:04:31.0838429+00:00",
+      "NumProgressed": 243235,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -14371,7 +14376,7 @@
       "Name": "I will finish what you started",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 68105
+      "UsersEstimate": 68106
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -14547,7 +14552,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 60808
+      "UsersEstimate": 60809
     },
     {
       "ID": "ACH_SOREAD",
@@ -14642,7 +14647,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 243232,
+      "Progressed": 243235,
       "Completed": 7
     }
   ],
@@ -14650,8 +14655,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-08-15T07:59:00.2810594+00:00",
-  "LastChanged_Achievements": "2023-08-23T21:05:16.6652116+00:00",
+  "LastChanged_Achievements": "2023-08-23T22:04:31.0838425+00:00",
   "LastUpdate_AppInfo": "2023-08-19T07:57:56.7497354+00:00",
-  "LastUpdate_Ratings": "2023-08-23T20:59:54.7489316+00:00",
-  "LastUpdate_Achievements": "2023-08-23T21:05:16.665314+00:00"
+  "LastUpdate_Ratings": "2023-08-23T21:59:34.1325281+00:00",
+  "LastUpdate_Achievements": "2023-08-23T22:04:31.0839516+00:00"
 }
